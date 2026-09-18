@@ -10,6 +10,10 @@ description: Tripoli intercepted 100,000 tablets bearing the late Libyan leader'
   separately seized captagon tablets assessed to have originated in Syria, where the
   al-Assad regime once industrialised the billion-dollar trade.
 image: https://images.euronews.com/articles/stories/09/91/74/27/1200x675_cmsv2_087e26e5-346d-528e-86a7-54736dc46bfb-9917427.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Tripoli intercepted 100,000 tablets bearing the late Libyan leader's image shipped via Europe in a Renault Master van, while Benghazi's investigators separately seized captagon tablets assessed to have originated in Syria, where the al-Assad regime once industrialised the billion-dollar trade.

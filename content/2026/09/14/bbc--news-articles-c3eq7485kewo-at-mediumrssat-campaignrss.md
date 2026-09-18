@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Relocation schemes offer support for people who want to swap big cities
   for a cheaper, quieter life.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6aca/live/2f2837d0-b016-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 ![Brianna Beyrouti](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/6aca/live/2f2837d0-b016-11f1-b1d1-571ed4d7ff2c.jpg)

@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: A paedophile has been jailed for eight years after being found guilty
   of a string of sex offences against a teenage girl.
 image: https://www.thenorthernecho.co.uk/resources/images/21456980.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Northumbria Police)*

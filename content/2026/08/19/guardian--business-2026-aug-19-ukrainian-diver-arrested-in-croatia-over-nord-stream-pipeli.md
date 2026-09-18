@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Berlin to seek suspect’s extradition for 2022 explosions that damaged
   gas pipelines to Russia
 image: https://i.guim.co.uk/img/media/a1e32abc1435a8c079b8f78678276d0d4820d318/296_0_7240_5792/master/7240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=45be5a2b23d5426c0a7936dd7487ff52
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A Ukrainian man has been arrested in Croatia as part of an investigation into the 2022 bombing of the Nord Stream gas pipelines between Germany and Russia.

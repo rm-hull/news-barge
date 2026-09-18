@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Trump says US could strike Pickaxe Mountain after construction activity
   seen at deeply buried complex
 image: https://static.independent.co.uk/2026/09/10/13/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Iranian officials have mocked the US military after claiming they captured a cutting-edge sea drone and “picked it up like a plastic bottle”.

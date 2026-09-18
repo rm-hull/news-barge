@@ -10,6 +10,10 @@ description: A prestigious store on one of Harrogate’s prime retail streets in
   town centre is to close despite its close association with legendary names such
   as Bob Dylan, Johnny Depp and Billy Connolly.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAxNTk2ZjNhLTEwMWUtNGE3Zi1hNzliLTc0NWFlMjEyZjJkNjo3MzBmYzBjOC0wNjI4LTRlYzEtYjJkMi03ZDNiYjNhMWYxZjk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 # Even Bob Dylan can't save UK's leading art retailer as Harrogate loses its fifth art gallery in less than two years

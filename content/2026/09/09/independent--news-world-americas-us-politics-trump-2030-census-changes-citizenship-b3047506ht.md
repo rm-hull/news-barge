@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Excluding US residents from the once-a-decade population count could
   have years-long nationwide impacts
 image: https://static.independent.co.uk/2026/09/09/18/1138923208..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Donald Trump’s administration is proposing major changes to the upcoming Census that could end up reshaping Congress and how vital public dollars are distributed to the states.

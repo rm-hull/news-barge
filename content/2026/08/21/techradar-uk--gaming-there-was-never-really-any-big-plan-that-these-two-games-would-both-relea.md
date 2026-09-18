@@ -10,6 +10,9 @@ published: '2026-08-21T00:00:00Z'
 description: 'FromSoftware president Hidetaka Miyazaki has suggested the studio could
   return to making single-player games after Elden Ring: Nightreign and The Duskbloods.'
 image: https://cdn.mos.cms.futurecdn.net/shdjhU4jp9hWjvW79qHVSE-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![The Duskbloods](https://cdn.mos.cms.futurecdn.net/shdjhU4jp9hWjvW79qHVSE.jpg) 

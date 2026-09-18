@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: One of the best cameras for creators that we've ever tested, save on
   DJI's Osmo Pocket 3 bundle with stabilized 4K video, wireless audio and accessories.
 image: https://cdn.mos.cms.futurecdn.net/ec7tvVCY2H4oHoL9P5sawa-2560-80.jpg
+categories:
+- Technology & Software
+- Creator Economy & Marketing
+- Film & TV
 ---
 
 ![DJI Osmo Pocket 3 vlogging camera in user's hand](https://cdn.mos.cms.futurecdn.net/ec7tvVCY2H4oHoL9P5sawa.jpg) 

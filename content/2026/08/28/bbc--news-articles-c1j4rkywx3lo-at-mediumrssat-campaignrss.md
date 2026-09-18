@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Four vehicles run by a charity were set alight in Golders Green, north-west
   London, causing explosions in March.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f3fe/live/c78363c0-a2f5-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Hamza Iqbal, Saif Ali, Rehan Khan and Judex Atshatshi mugshot photos](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f3fe/live/c78363c0-a2f5-11f1-a291-b542ee92de7c.jpg)

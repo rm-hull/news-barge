@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Using the carcinogen to preserve food is prohibited in China, the world's
   largest producer of cabbages.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fc4/live/3beac070-9f70-11f1-b05d-ad36121ca56d.jpg
+categories:
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 ![Green cabbages](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/3fc4/live/3beac070-9f70-11f1-b05d-ad36121ca56d.jpg)

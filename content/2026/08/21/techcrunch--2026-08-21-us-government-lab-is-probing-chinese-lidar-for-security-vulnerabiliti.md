@@ -10,6 +10,9 @@ description: The security review is being performed by the Idaho National Labora
   and the research is being funded by a company -- or a group of companies -- in the
   electric and autonomous vehicle industries.
 image: https://techcrunch.com/wp-content/uploads/2023/01/hesai-baidu-getty.jpg?resize=1200,799
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 A Department of Energy lab is investigating whether Chinese lidar sensors might pose a security risk if they become widely used on vehicles in the United States, TechCrunch has learned.

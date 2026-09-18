@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Broadcaster, 86, had intended to end her life in Swiss clinic after being
   diagnosed with terminal lung cancer in 2023
 image: https://i.guim.co.uk/img/media/4981a511e34f576954eb2cf389c4bfb58f027f0e/1264_0_6673_5339/master/6673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54c1c3229eef61e077633e6213f5f7ed
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Esther Rantzen has said she is no longer able to travel to Switzerland to end her life because she has become “too physically fragile”.

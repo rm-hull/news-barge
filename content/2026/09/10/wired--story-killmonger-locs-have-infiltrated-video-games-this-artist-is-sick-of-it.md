@@ -9,6 +9,10 @@ description: The “Black Panther” villain’s hairstyle has become a default 
   video game characters because it’s easy to code. Danielle Udogaranya is changing
   that.
 image: https://media.wired.com/photos/6aa096a68d924a53b7572554/191:100/w_1280,c_limit/Fed-Up-With-Killmonger-Locs-Culture-MCDBLPA_EC098.jpg
+categories:
+- Technology & Software
+- Science
+- Film & TV
 ---
 
 When the life-simulation game *Paralives* was released in early access, Danielle Udogaranya’s hand ached at the thought of making new Black hairstyles for it.

@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A Bradford mum has hailed Bible study as a key ingredient in elevating
   her son's confidence and poetry-writing.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21412954.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Self-Improvement
 ---
 
 A BRADFORD mum has hailed Bible study as a key ingredient in elevating her son's confidence and poetry-writing.

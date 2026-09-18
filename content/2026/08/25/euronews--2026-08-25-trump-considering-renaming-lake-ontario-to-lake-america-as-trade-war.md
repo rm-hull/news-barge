@@ -9,6 +9,9 @@ description: The rhetoric between the two countries is escalating, with Trump te
   Canadian leaders on Monday to “fall in line” or face consequences “far WORSE” than
   existing tariffs.
 image: https://images.euronews.com/articles/stories/09/88/81/25/1200x675_cmsv2_5c2c1862-039b-5c6d-997e-828b04a961c0-9888125.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## The rhetoric between the two countries is escalating, with Trump telling Canadian leaders on Monday to “fall in line” or face consequences “far WORSE” than existing tariffs.

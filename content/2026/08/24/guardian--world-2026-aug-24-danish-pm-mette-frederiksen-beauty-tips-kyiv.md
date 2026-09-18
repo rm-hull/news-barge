@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Mette Frederiksen, who received message on returning from Ukraine, advises
   women to embrace self-acceptance
 image: https://i.guim.co.uk/img/media/465171aefebfeec2269ea8e0de8a32ab67e68802/380_35_4667_3733/master/4667.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32c528a9955f32a3327524eef6879478
+categories:
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 Sick of getting unsolicited beauty tips on social media, the Danish prime minister, Mette Frederiksen, rebuffed a male cosmetic surgeon’s offer to “fix” her and advised women in similar situations to embrace self-acceptance.

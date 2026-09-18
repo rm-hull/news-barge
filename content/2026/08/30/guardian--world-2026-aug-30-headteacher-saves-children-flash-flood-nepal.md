@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Rajendra Dawadi ordered students to higher ground with moments to spare
   after receiving warnings from upstream
 image: https://i.guim.co.uk/img/media/83ade0853672f7dbf8508b07e48837dde0ed8839/1186_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ca9887110d07c207bb087998b130351a
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 A headteacher in Nepal evacuated 900 children from a school moments before a deadly wall of water struck their town amid the devastating flash floods that have killed almost 800 people and left thousands missing.

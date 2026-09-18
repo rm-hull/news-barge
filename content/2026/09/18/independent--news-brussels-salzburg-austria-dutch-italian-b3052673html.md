@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Peter de Caluwe will become the artistic director of the Salzburg Festival
   in October 2027
 image: https://static.independent.co.uk/2026/09/18/18/Salzburg-Festival_55855.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Peter de Caluwe will become artistic director of the Salzburg Festival in October 2027, assuming one of the arts world's most influential jobs after an innovative tenure at Brussels’ La Monnaie known for world premieres and provocative programming.

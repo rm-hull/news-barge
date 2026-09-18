@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Excessive heat and drying wetlands across the continent are pushing them
   northward, an expert says.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbec/live/38916ad0-9a63-11f1-870d-c1e11262f282.jpg
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 ![A black-crowned night heron is pictured sitting on a tree branch, looking to the left. It has a black head, red eye, beige face and stomach, and yellow legs and feet. It has a dark beak, and grey and black plumage.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/cbec/live/38916ad0-9a63-11f1-870d-c1e11262f282.jpg)

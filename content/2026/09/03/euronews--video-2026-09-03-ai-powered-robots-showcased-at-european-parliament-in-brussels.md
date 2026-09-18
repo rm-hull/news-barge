@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Video. AI-powered robots demonstrate delivery, factory and household
   tasks at a robotics showcase in Brussels, highlighting advances in artificial intelligence.
 image: https://images.euronews.com/articles/stories/09/89/94/79/1200x675_cmsv2_b7a84fdc-c93d-5e86-a230-34ea6f7f73ee-9899479.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 Humanoid robots wave, carry out household tasks and demonstrate different ways of moving at a robotics showcase in Brussels.

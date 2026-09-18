@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: A NEW programme has been launched to support emerging artists and boost
   creative talent in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21342205.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Music
 ---
 
 *(Image: Supplied)*

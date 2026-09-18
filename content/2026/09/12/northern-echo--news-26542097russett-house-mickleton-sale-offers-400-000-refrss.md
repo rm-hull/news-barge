@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: BEAUTIFULLY presented accommodation, a village location and stunning
   views over the adjoining countryside and towards the River Tees are just three…
 image: https://www.thenorthernecho.co.uk/resources/images/21439760.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 BEAUTIFULLY presented accommodation, a village location and stunning views over the adjoining countryside and towards the River Tees are just three of many reasons Russett House in Mickleton is sure to appeal to a wide range of househunters.

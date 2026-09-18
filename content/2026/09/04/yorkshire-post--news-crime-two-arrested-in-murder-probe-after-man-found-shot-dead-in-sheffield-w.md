@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: A murder investigation has been launched after a man was found dead with
   a gunshot wound in Sheffield woodland, with two people arrested.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/04/10/21/Screenshot_20260904_110709_Gallery.jpeg?trim=0,360,0,359&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Two arrested in murder probe after man found shot dead in Sheffield woods

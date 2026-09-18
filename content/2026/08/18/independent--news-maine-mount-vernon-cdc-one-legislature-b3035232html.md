@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Maine officials are trying to get more residents who rely on private
   wells for water to test for arsenic
 image: https://static.independent.co.uk/2026/08/18/21/Well_Water_Arsenic_34468.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Wendy Brennan agreed to participate in a study examining how arsenic exposure can affect children’s cognitive development primarily because her young daughter wanted the free T-shirt. It was 2009, and the family had lived on their property in the small Kennebec County town of Mount Vernon for eight years. Brennan said she had no reason to fear the results.

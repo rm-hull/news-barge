@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: A former U.S. Marine arrested at President Donald Trump's Los Angeles-area
   golf course had his criminal charges suspended
 image: https://static.independent.co.uk/2026/08/05/00/Trump_National_Golf_Club_13581.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A judge on Wednesday suspended criminal charges against a former U.S. Marine arrested at President Donald Trump’s Los Angeles-area golf course with ammunition and a gun in his vehicle. He is undergoing a psychiatric evaluation.

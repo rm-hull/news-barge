@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Jenny Ware, member of inquiry that recommended wagering advertising ban,
   says ‘public health crisis’ demands stronger response from major parties
 image: https://i.guim.co.uk/img/media/3dde6f6a93ca7f76db98a6721b1b2602018c34c8/691_219_4113_3290/master/4113.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cf21ac806519e3b246480ce0e3725c0a
+categories:
+- UK
+- News & Politics
 ---
 
 The former Liberal MP Jenny Ware has condemned her one-time Coalition colleagues for backing Labor’s gambling legislation, claiming “vulnerable Australians have been let down”, as the parliament failed to back a full ban on wagering ads.

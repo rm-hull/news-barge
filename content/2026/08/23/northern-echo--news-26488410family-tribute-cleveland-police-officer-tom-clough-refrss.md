@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: The heartbroken family of one of the officers killed in the A66 crash
   have paid tribute to their “hero”.
 image: https://www.thenorthernecho.co.uk/resources/images/21360436.jpg?type=og-image&xType=0&yType=14
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The heartbroken family of one of the officers killed in the A66 crash have paid tribute to their “hero”.

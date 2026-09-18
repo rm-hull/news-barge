@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Shares are mostly higher in Asia, with South Korea’s benchmark Kospi
   rebounding more than 6%
 image: https://static.independent.co.uk/2026/08/20/06/Japan_Financial_Markets_62656.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Asian shares advanced Thursday, tracking Wall Street gains, and South Korea’s benchmark Kospi jumped more than 6%.

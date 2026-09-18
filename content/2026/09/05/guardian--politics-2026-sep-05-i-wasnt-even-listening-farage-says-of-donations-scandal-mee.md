@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Reform UK leader maintains innocence in overseas funding controversy
   on last day of party conference
 image: https://i.guim.co.uk/img/media/2d17ecf180ef9dc54e4768f20b35c925564d7bd1/1733_401_6091_4876/master/6091.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a4592fa6bf622ad3391a575ecb8005fc
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Nigel Farage has claimed that he “wasn’t even listening” during a meeting at the centre of a controversy about whether his party considered evading the law on accepting donations from overseas.

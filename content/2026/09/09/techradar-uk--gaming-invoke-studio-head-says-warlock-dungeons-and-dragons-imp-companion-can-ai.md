@@ -10,6 +10,9 @@ published: '2026-09-09T00:00:00Z'
 description: 'Warlock: Dungeons & Dragons'' imp companion Skev serves multiple purposes
   for the player, but was designed to be "his own character."'
 image: https://cdn.mos.cms.futurecdn.net/rUCfd8vscfh4hBTzsohVXH-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Warlock: Dungeons & Dragons](https://cdn.mos.cms.futurecdn.net/rUCfd8vscfh4hBTzsohVXH.jpg) 

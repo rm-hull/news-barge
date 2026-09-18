@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: The relaunched program pairs early feature access with a closed Discord
   channel that puts testers in the room with Surfshark's developers
 image: https://cdn.mos.cms.futurecdn.net/i8zhkJKdgFso7HtCzMowC9-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![surfshark vpn](https://cdn.mos.cms.futurecdn.net/i8zhkJKdgFso7HtCzMowC9.jpg) 

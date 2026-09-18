@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: A man arrested outside an Aldi in Newton Aycliffe was an innocent member
   of the public who was helping a lost child, police have confirmed.
 image: https://www.thenorthernecho.co.uk/resources/images/21415964.jpg?type=og-image&xType=0&yType=168
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: GOOGLE)*

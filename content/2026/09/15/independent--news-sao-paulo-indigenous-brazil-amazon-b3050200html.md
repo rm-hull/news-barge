@@ -9,6 +9,10 @@ description: Renowned Indigenous Chief Raoni Metuktire is receiving palliative c
   at home in the Brazilian heartland after being diagnosed with cancer at age 94,
   his institute says
 image: https://static.independent.co.uk/2026/09/15/02/Brazil_Raoni_71291.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Renowned Indigenous Chief Raoni Metuktire is receiving palliative care at home in the Brazilian heartland after being diagnosed with cancer at age 94, his institute said Monday.

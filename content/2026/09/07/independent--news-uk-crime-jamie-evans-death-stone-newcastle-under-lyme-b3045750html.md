@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T14:13:28Z'
 published: '2026-09-07T00:00:00Z'
 description: His former cricket club called him a ‘lovely lad and a great friend’
 image: https://static.independent.co.uk/2026/09/07/7/40/jamieevans.png?trim=35,94,446,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A man who was found with a fatal stab wound following a car crash has been described by his family as “a wonderful son, loving brother and doting uncle”.

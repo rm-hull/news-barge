@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Tameem Choudhury has been jailed after pleading guilty to charges of
   fraud and money laundering
 image: https://static.independent.co.uk/2026/09/01/17/01M1EV807W4VKXKPQ4SPBHY9Y0.jpg?trim=299,0,408,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 A former finance worker who stole nearly £92,000 from a breast cancer charity to cover his wedding and honeymoon expenses has been jailed for two and a half years.

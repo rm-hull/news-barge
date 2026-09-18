@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Belgian government unable to agree on evacuation of 13 students to take
   up scholarships at universities
 image: https://i.guim.co.uk/img/media/aad9be426415c15305cc1f41cd9faefe75d00ca9/67_286_781_625/master/781.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d64297e32da479ef5f8350f6bdb3d1c
+categories:
+- UK
+- News & Politics
+- Education & Learning
+- Society & Culture
 ---
 
 Students who are unable to leave Gaza and take up scholarships at Belgian universities have said they are devastated after Belgium’s government hit deadlock on a plan enabling them to leave the war-torn territory.

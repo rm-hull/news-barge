@@ -9,6 +9,10 @@ description: As global attention focuses on the Strait of Hormuz, some Iranians 
   able to see its waters as a haven. A child plays with a toy on the beach in Kuhestak,
   a community shaken by a deadly attack on a wedding during U.S. bombardment.
 image: https://static.independent.co.uk/2026/09/05/14/APTOPIX_Iran_War_Strait_of_Hormuz_75743.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Photos show daily life in Iran on the beach along the Strait of Hormuz

@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Nidia Webb, an EU national who has lived in Britain for eight years,
   was told that the eVisa problem was a ‘known issue’ affecting twins
 image: https://static.independent.co.uk/2025/11/17/11/17114159-934a7a84-f229-43d5-be1f-faf56851eae0.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 A woman who lives in the UK was refused boarding on her flight back from Spain after the Home Office’s electronic visa system confused her for her twin sister.

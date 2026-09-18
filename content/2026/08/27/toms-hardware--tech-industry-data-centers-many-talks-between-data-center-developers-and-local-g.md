@@ -9,6 +9,11 @@ scraped_at: '2026-08-27T22:13:52Z'
 published: '2026-08-27T00:00:00Z'
 description: People have the right to know.
 image: https://cdn.mos.cms.futurecdn.net/5DrUKzfgk2vDQzjnVtVpkJ-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- News & Politics
 ---
 
 ![Meta data center](https://cdn.mos.cms.futurecdn.net/5DrUKzfgk2vDQzjnVtVpkJ.jpg) 

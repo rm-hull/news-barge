@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: A hospital receptionist Laurence Herdman whose warm smile and friendly
   guidance have helped generations of North East patients has received royal…
 image: https://www.thenorthernecho.co.uk/resources/images/21465792.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

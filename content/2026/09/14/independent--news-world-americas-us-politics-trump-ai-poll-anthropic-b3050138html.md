@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: ‘The American people despise President Trump when it comes to his handling
   of artificial intelligence,’ CNN’s data guru Harry Enten said Monday
 image: https://static.independent.co.uk/2026/09/14/21/23/GettyImages-2270717460.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A new poll has shown just how much Americans loathe the way President Donald Trump is handling artificial intelligence.

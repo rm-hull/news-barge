@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T16:47:37Z'
 published: '2026-08-20T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/cctv-taxi-york-station-27-june-2026.webp
+categories:
+- Local
+- York
+- True Crime
 ---
 
 Police have released this image in connection with an ongoing investigation.

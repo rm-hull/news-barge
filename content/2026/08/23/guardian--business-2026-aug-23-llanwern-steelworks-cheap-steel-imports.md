@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: New quotas to protect UK firms and jobs appear to be having opposite
   effect in products such as galvanised steel
 image: https://i.guim.co.uk/img/media/aaf0f4e3c19ebfefc9ee7e8ca22fe25c59201fd7/377_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=97eb4dec552ba1970035bb3f4ead06a2
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 At Tata Steel’s factory in Llanwern, south Wales, production lines that should be running full-time are now falling quiet for parts of the day, with workers being put on to maintenance and cleaning work while machines sit idle.

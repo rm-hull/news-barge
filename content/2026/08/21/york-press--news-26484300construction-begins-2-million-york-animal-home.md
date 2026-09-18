@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Parts of the RSPCA's York Animal Home have been demolished, paving the
   way for its future redevelopment.
 image: https://www.yorkpress.co.uk/resources/images/21354133.jpg?type=og-image
+categories:
+- Local
+- York
+- Pets & Animals
 ---
 
 ## PICTURES: demolition works underway at major York animal home

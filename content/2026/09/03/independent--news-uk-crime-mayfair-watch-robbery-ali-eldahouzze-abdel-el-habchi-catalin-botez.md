@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Ali Eldahouzze, 22, and Abdel El Habchi, 30, were found guilty of robbing
   a Richard Mille watch from Romanian entrepreneur Catalin Botezatu
 image: https://static.independent.co.uk/2026/09/03/16/01M0ZDX97GAY02GD1M3B6PQEQB.jpg?trim=0,288,0,288&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Two men have been found guilty of robbing a fashion designer of his £137,000 Richard Mille watch after it was cut from his wrist outside a Mayfair restaurant.

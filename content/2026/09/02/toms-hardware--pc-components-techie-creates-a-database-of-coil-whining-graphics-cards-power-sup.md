@@ -8,6 +8,10 @@ scraped_at: '2026-09-02T12:45:54Z'
 published: '2026-09-02T00:00:00Z'
 description: Be sure to also report your gear if it's running quietly, too.
 image: https://cdn.mos.cms.futurecdn.net/jfMhZbyQuMUX5QF7o426Bb-2048-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Coil inductors](https://cdn.mos.cms.futurecdn.net/jfMhZbyQuMUX5QF7o426Bb.jpg) 

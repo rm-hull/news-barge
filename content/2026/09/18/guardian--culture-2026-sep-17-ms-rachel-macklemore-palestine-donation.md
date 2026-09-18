@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Educator talks of ‘moral obligation’ and urges ‘every wealthy white celebrity’
   to make similar donation
 image: https://i.guim.co.uk/img/media/cc80b1d11ed91f4e0c2a58d6bfe80ed6cf5a4605/0_0_5000_4000/master/5000.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8db4965d781a9550e00e9a87a476f482
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Comedy & Entertainment
 ---
 
 YouTube star Ms Rachel has said she is matching rapper Macklemore’s $1m donation to organizations supporting Palestinians, calling on other public figures to follow suit.

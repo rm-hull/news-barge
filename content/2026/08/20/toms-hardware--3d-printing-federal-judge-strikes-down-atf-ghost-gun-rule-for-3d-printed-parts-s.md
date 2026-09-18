@@ -8,6 +8,11 @@ scraped_at: '2026-08-20T13:07:06Z'
 published: '2026-08-20T00:00:00Z'
 description: Are 3D-printed guns part of the "historical tradition of personal gunsmithing"?
 image: https://cdn.mos.cms.futurecdn.net/czbigjSA8LASiDWDV7f5LF-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- History
+- Arts & Culture
 ---
 
 ![3D Printed Ghost guns](https://cdn.mos.cms.futurecdn.net/czbigjSA8LASiDWDV7f5LF.png) 

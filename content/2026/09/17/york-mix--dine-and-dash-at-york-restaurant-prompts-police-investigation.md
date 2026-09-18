@@ -7,6 +7,11 @@ scraped_at: '2026-09-17T13:24:10Z'
 published: '2026-09-17T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/cctv-dine-and-dash-york-restaurant-4-sept-2026-nyp.webp
+categories:
+- Local
+- York
+- True Crime
+- Food & Cooking
 ---
 
 Police are investigating after customers allegedly left without paying at a York restaurant.

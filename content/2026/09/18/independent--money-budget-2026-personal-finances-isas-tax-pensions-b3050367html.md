@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: It’s just six weeks until the first Budget of the Andy Burnham leadership
   is announced
 image: https://static.independent.co.uk/2026/08/19/09/a025240343b092ca29bfdd7d3748e8c8Y29udGVudHNlYXJjaGFwaSwxNzg3MjE1MDAy-2.85400226.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 In his first speech as prime minister, just two months ago, Andy Burnham said that it was time to make “the biggest changes in the last 40 years” and introduce “a new political model and a new economic model.”

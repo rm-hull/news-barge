@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: NEARLY 10,000 wooden figures, each six inches high, are standing in higgledy-piggledy
   rows, all facing the same direction, as if waiting on a…
 image: https://www.thenorthernecho.co.uk/resources/images/21409178.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 NEARLY 10,000 wooden figures, each six inches high, are standing in higgledy-piggledy rows, all facing the same direction, as if waiting on a rush-hour platform for a delayed train.

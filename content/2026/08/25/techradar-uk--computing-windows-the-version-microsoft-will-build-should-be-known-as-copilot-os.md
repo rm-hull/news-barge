@@ -10,6 +10,8 @@ published: '2026-08-25T00:00:00Z'
 description: Remember Microsoft's Project Aion? That recent leak has been raked over,
   and fresh details of 'Copilot OS' make me more nervous about the future.
 image: https://cdn.mos.cms.futurecdn.net/T5tUn7q7ko5tgMxUjPnP8N-2121-80.jpeg
+categories:
+- Technology & Software
 ---
 
 ![Young woman using a Windows laptop, looking annoyed](https://cdn.mos.cms.futurecdn.net/T5tUn7q7ko5tgMxUjPnP8N.jpeg) 

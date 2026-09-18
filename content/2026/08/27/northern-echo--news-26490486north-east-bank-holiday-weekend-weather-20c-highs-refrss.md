@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: The North East is set for a pleasant Bank Holiday weekend, with temperatures
   rising to 20C by Sunday and rain chances easing each day.
 image: https://www.thenorthernecho.co.uk/resources/images/20961446.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Sarah Caldecott)*

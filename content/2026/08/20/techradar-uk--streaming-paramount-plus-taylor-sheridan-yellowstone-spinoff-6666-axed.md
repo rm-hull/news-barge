@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: While Paramount+ greenlit a Four Sixes Yellowstone spinoff in 2021, Taylor
   Sheridan has finally confirmed that 6666 isn't real — and I for one am relieved.
 image: https://cdn.mos.cms.futurecdn.net/6DHRAWcAmCPbsVqnKdGsEf-1920-80.jpg
+categories:
+- Technology & Software
+- Society & Culture
 ---
 
 ![Taylor Sheridan wearing a beige cowboy hat](https://cdn.mos.cms.futurecdn.net/6DHRAWcAmCPbsVqnKdGsEf.jpg) 

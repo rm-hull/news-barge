@@ -8,6 +8,10 @@ scraped_at: '2026-09-07T19:53:31Z'
 published: '2026-09-07T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/Vital-patrols_cable-theft_image-1-scaled.jpg
+categories:
+- Local
+- York
+- Sports
 ---
 
 £110,000 pounds is being spent to tackle cable theft, vandalism and trespass on the East Coast Main Line through proactive security patrols.

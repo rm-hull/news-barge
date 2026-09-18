@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Picture shows car stuck on railway after driver crashed into a railway
   barrier with their car coming to a rest on train tracks.
 image: https://www.thenorthernecho.co.uk/resources/images/21430235.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: NETWORK RAIL)*

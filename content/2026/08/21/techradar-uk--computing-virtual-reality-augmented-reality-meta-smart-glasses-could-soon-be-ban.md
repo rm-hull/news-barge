@@ -8,6 +8,9 @@ scraped_at: '2026-08-21T04:50:36Z'
 published: '2026-08-21T00:00:00Z'
 description: Going, going, gone?
 image: https://cdn.mos.cms.futurecdn.net/XtJ44n9wuV3FPNLm3Mrew8-2560-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![RayBan Meta Smart Glasses](https://cdn.mos.cms.futurecdn.net/XtJ44n9wuV3FPNLm3Mrew8.jpg) 

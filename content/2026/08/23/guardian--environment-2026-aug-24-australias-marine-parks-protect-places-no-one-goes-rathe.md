@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: Hundreds of experts write to environment minister calling for stronger
   protections for ‘unique and distinct’ marine ecosystems
 image: https://i.guim.co.uk/img/media/472bdde0a67fc8cb423f8306738cb3c5e60ebe82/367_0_3560_2848/master/3560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4146c6bfa03ef0db5f18bffa5372a521
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 The Australian government has been accused of leaving coastal waters largely unprotected by establishing the bulk of highly protected marine parks in remote areas.

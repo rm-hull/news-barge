@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Amazon Prime Video’s Last One Laughing is returning for a third series
   and Lee Mack, Katherine Ryan and Harry Hill are among the cast.
 image: https://www.yorkpress.co.uk/resources/images/21382124.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
+- Technology & Software
 ---
 
 *(Image: Ian West/PA Wire)*

@@ -9,6 +9,9 @@ published: '2026-09-06T00:00:00Z'
 description: ‘Substantive plans’ will be announced in ‘coming weeks’ as envoys head
   to Kyiv for talks with Ukraine’s president, Volodymyr Zelenskyy
 image: https://i.guim.co.uk/img/media/6c169677a60bc6a610e0f252fbbe628a152fa07e/2_0_4440_3553/master/4440.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c1d08f5014be9551a429ef3c423abad6
+categories:
+- UK
+- News & Politics
 ---
 
 Donald Trump’s envoys “discussed substantive plans for next steps” for ending the war between Ukraine and Russia during their meeting on Saturday in Moscow with Vladimir Putin, the White House said.

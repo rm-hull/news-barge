@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Driven by the rare Bundibugyo strain of the virus, for which there are
   no vaccines or treatments, the outbreak is the biggest in the DRC's history.
 image: https://images.euronews.com/articles/stories/09/88/64/69/1200x675_cmsv2_11b3d29f-3aca-5969-b93c-7fa59866c2ef-9886469.jpg
+categories:
+- Europe
+- News & Politics
+- Health & Fitness
 ---
 
 ## Driven by the rare Bundibugyo strain of the virus, for which there are no vaccines or treatments, the outbreak is the biggest in the DRC's history.

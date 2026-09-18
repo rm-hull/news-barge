@@ -7,6 +7,10 @@ scraped_at: '2026-08-29T13:49:48Z'
 published: '2026-08-29T00:00:00Z'
 description: Discover more about Windows with insights from the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/DpJikreqsPzfAA3BiWX2Hb-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/DpJikreqsPzfAA3BiWX2Hb-320-80.jpg)

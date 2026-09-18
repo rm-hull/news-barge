@@ -9,6 +9,10 @@ description: Detailed data on the Roman Empire’s entire road network is offeri
   insight into how Romans built their infrastructure and how it influenced the future
   geography of Europe
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312552640.jpg
+categories:
+- Science
+- Technology & Software
+- History
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312552640.jpg?w=840)

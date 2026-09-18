@@ -8,6 +8,12 @@ published: '2026-09-14T00:00:00Z'
 description: Keighley Town have announced that first-team manager Des Hazel has resigned
   from his position with immediate effect after an 11-game losing run.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20957532.jpg?type=og-image&xType=0&yType=157
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 *(Image: Keighley Town)*

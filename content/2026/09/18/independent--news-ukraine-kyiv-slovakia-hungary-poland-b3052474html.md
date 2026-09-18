@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: Ukrainian President Volodymyr Zelenskyy has welcomed leaders from seven
   regional countries for talks on deepening cooperation
 image: https://static.independent.co.uk/2026/09/18/12/Russia_Ukraine_War_52_28.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Ukrainian President Volodymyr Zelenskyy welcomed leaders and representatives from seven regional countries for talks on deepening cooperation on Friday, as overnight Russian strikes in multiple regions sparked fires and caused several deaths and injuries.

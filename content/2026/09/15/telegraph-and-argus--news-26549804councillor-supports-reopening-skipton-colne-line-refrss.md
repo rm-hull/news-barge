@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: REOPNING a rail line between Colne and Skipton would benefit Bradford’s
   economy just as much as a new through rail line in the city centre – a…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21231955.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: T&A)*

@@ -9,6 +9,10 @@ description: ‘The moral of the story is, trying to bypass communities in devel
   these data centers is not working, and they’re going to take it to the polls,’ said
   one expert
 image: https://static.independent.co.uk/2026/09/02/20/2286058283..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Earlier this week, President Donald Trump wandered into the data center debate, making life considerably tougher for Republican colleagues facing tight races in the November midterms.

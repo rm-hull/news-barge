@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Alcolocks are breathalysers connected to a vehicle’s ignition system
   that prevent the engine from starting if alcohol above a set limit is…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21396142.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: Stephen Barnes/Getty)*

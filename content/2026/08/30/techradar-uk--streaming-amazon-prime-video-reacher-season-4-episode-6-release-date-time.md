@@ -9,6 +9,9 @@ published: '2026-08-30T00:00:00Z'
 description: Reacher's mistakes feel like they're getting worse by the minute. But
   when does Reacher season 4 episode 6 arrive on Prime Video?
 image: https://cdn.mos.cms.futurecdn.net/sPryJSddm7TU28E7nmCKqW-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Reacher looks at someone across a table](https://cdn.mos.cms.futurecdn.net/sPryJSddm7TU28E7nmCKqW.jpg) 

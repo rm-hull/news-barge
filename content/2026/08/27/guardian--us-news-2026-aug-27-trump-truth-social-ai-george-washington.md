@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: As the US president struggles to end his Iran war, and approval ratings
   hit new lows, he leans on a familiar gambit
 image: https://i.guim.co.uk/img/media/8712b21c8fcae581d8333baa1a4ce8a3f05782c0/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01644b6cfbee434e11e26a0b2d4500e4
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Donald Trump knows the power of an image – of himself, with everyone from Vladimir Putin and Kim Jong-un to Kim Kardashian. How about George Washington?

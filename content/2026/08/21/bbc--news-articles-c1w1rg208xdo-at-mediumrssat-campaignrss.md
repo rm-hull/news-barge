@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The struggling firm said it had improved its performance but missed regulator-set
   delivery targets.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b693/live/e8990510-9d46-11f1-a3dc-c3f8cfe34ff8.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![A person with a Royal Mail jacket on sorts through letters.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/b693/live/e8990510-9d46-11f1-a3dc-c3f8cfe34ff8.jpg)

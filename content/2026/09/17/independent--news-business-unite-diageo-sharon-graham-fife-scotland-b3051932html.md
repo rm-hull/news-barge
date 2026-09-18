@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Unite members are set to take action at the Cameronbridge distillery
   in Fife as part of a dispute over jobs.
 image: https://static.independent.co.uk/2026/09/17/14/17134817-df72b574-b7fb-470b-b005-255c1b530b35.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Trade union leaders are threatening to “bring production to a standstill” at Europe’s largest grain distillery with more than two weeks of strike action.

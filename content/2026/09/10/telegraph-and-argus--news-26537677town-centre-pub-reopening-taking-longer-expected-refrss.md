@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: The owners of a Bradford district pub have said efforts to reopen the
   business are taking "much longer than we ever expected" as customers…
 image: https://www.thetelegraphandargus.co.uk/resources/images/20146250.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest/Mike Simmonds)*

@@ -8,6 +8,8 @@ scraped_at: '2026-09-09T19:15:24Z'
 published: '2026-09-09T00:00:00Z'
 description: Vice City in your hands
 image: https://cdn.mos.cms.futurecdn.net/wQGCwys4uuBgGBiZZoUpQK-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ## Live

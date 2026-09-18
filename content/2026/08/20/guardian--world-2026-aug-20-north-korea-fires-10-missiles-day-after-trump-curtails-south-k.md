@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Launches, detected by South Korea and Japan, came after US scaled back
   exercises with South Korea in apparent overture to Kim Jong-un
 image: https://i.guim.co.uk/img/media/f1aa4a62b7bca7ec7ccef5c7cec998317506896c/139_0_4632_3706/master/4632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad57d6d63690508bc3b6ab1e794e2ba8
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 North Korea has launched about 10 short-range ballistic missiles towards the sea, South Korea’s military said, a day after Pyongyang shrugged off Donald Trump’s order to scale back US military drills with South Korea in an apparent attempt to resume diplomacy.

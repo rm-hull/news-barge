@@ -9,6 +9,9 @@ description: 'Exclusive: Climate adaptation project set to be ended two years ea
   with charity Practical Action criticising the Foreign Office over cuts that will
   halve UK aid to Bangladesh this year. Nick Ferris reports'
 image: https://static.independent.co.uk/2026/08/20/14/2271987797..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A UK-funded climate project in Bangladesh is being forced to close two years early after foreign aid cuts, leaving thousands of vulnerable people without support and threatening to undo work that has already been carried out, *The Independent* has learnt.

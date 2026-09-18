@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: North Yorkshire Council will run Catterick Garrison’s new Community and
   Enterprise Building itself after councillors unanimously agreed an…
 image: https://www.thenorthernecho.co.uk/resources/images/21426928.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 North Yorkshire Council will run Catterick Garrison’s new Community and Enterprise Building itself after councillors unanimously agreed an operating model for the facility.

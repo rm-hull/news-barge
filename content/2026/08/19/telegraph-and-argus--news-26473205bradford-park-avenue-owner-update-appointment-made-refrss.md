@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: Bradford (Park Avenue) owner Gareth Roberts is fully committed to the
   club after putting it up for sale, admitting "the process will take some…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21333878.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: Josh Horsfield)*

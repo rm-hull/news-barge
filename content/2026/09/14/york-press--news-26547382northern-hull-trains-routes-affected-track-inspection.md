@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: National Rail said York-based Northern, Hull Trains and TransPennine
   Express services are affected by the work being carried out on the line between…
 image: https://www.yorkpress.co.uk/resources/images/17236662.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Newsquest)*

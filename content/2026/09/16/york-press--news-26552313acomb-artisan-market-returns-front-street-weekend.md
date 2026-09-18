@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: ARTISAN markets are returning to Acomb, bringing together community spirit
   and handmade creations.
 image: https://www.yorkpress.co.uk/resources/images/21458377.jpg?type=og-image&xType=0&yType=756
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Suppled)*

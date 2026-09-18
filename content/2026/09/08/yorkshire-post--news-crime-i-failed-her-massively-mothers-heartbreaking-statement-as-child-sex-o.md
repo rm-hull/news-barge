@@ -9,6 +9,13 @@ published: '2026-09-08T00:00:00Z'
 description: A child sex offender has been jailed after admitting to dozens of offences
   - as the mother of one of his victims issued a heartbreaking statement in court.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/07/14/59/KASEY-FITTON-(1).jpg?trim=393,0,393,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
+- Society & Culture
+- True Crime
 ---
 
 # 'I failed her massively' - Mother's heartbreaking statement as child sex offender is jailed

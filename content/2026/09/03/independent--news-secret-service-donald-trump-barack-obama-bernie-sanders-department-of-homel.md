@@ -10,6 +10,10 @@ description: A government report finds that the U.S. Secret Service faced severa
   drone-related incidents without updating its protection policies or documenting
   reasons it didn't
 image: https://static.independent.co.uk/2026/09/03/18/Trump_346_4.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The U.S. Secret Service dealt with several drone-related incidents without adjusting its protection policies or documenting why it didn't, according to a government report released Thursday. That information may have helped illustrate the emerging threat of civilian drone use before one was used in the 2024 assassination attempt on then-candidate Donald Trump in Butler, Pennsylvania.

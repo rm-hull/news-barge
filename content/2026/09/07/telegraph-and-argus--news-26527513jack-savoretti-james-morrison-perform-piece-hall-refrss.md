@@ -7,6 +7,11 @@ scraped_at: '2026-09-07T14:14:50Z'
 published: '2026-09-07T00:00:00Z'
 description: The Piece Hall has announced its first headliner for next summer.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21147076.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 THE Piece Hall has announced its first headliner for next summer.

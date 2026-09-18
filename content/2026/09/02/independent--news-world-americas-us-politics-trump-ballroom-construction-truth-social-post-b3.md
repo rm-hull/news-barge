@@ -10,6 +10,9 @@ description: Chief Justice John Roberts acknowledged that the project is ‘like
   but the Supreme Court’s right-wing majority is allowing Trump’s pet project to proceed
   because the plaintiff lacked standing to bring a lawsuit challenging it
 image: https://static.independent.co.uk/2026/09/02/17/2026-08-21T183115Z_1122185376_RC2R1NAEU8IU_RTRMADP_3_USA-COURT-TRUMP-BALLROOM.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump might not “think about Americans’ financial situation” as his approval ratings continue to sag amid his unpopular Iran war and failure to address cost-of-living issues, but he appears to be very in tune with the mental health of at least one group of workers — those who are toiling on the White House ballroom he has been obsessing over for nearly a year.

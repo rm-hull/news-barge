@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: Scoring 4.5 stars in our review, the Jarvis Bamboo Standing Desk has
   a 25% discount right now in the Fall Sale for this this executive home office upgrade.
 image: https://cdn.mos.cms.futurecdn.net/CJiRJr8nrgQonaC2NVW4nV-2000-80.jpg
+categories:
+- Technology & Software
+- Home, Garden & DIY
 ---
 
 ![Herman Miller Jarvis Bamboo Standing Desk](https://cdn.mos.cms.futurecdn.net/CJiRJr8nrgQonaC2NVW4nV.jpg) 

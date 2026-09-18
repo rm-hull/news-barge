@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T19:36:20Z'
 published: '2026-08-18T00:00:00Z'
 description: Heights Finance cloud account compromised
 image: https://cdn.mos.cms.futurecdn.net/zTH6vPrB4yxX7dzdy29Xga-2560-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![An image of a digitized skull and crossbones symbolizing hacking and cyberattacks overlayed on a background of digital glitches and noise.](https://cdn.mos.cms.futurecdn.net/zTH6vPrB4yxX7dzdy29Xga.jpg) 

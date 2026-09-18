@@ -8,6 +8,8 @@ published: '2026-09-01T00:00:00Z'
 description: Lexar's new dock crams 22 ports, a touchscreen, and a rotating dial into
   one box for creators who hate cable clutter
 image: https://cdn.mos.cms.futurecdn.net/X5sqrFCZaBcWzwcLhDChUo-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Lexar PexarBolt Ultra TBT5 Dock](https://cdn.mos.cms.futurecdn.net/X5sqrFCZaBcWzwcLhDChUo.png) 

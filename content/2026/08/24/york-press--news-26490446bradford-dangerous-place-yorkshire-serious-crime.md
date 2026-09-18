@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: MPs and a local councillor have expressed their concerns after a new
   study revealed the most dangerous place in Yorkshire for serious crime
 image: https://www.yorkpress.co.uk/resources/images/16470894.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
+- News & Politics
 ---
 
 ## This is the most dangerous place in Yorkshire for serious crime

@@ -8,6 +8,8 @@ published: '2026-09-09T00:00:00Z'
 description: Apple says it used AI and 3D printing in the manufacturing process for
   its long-awaited foldable phone.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-2.14.55-PM.jpg?resize=1200,687
+categories:
+- Technology & Software
 ---
 
 Apple’s long-awaited foldable phone, the Duo, contains a number of surprises, including a critical hinge that was designed and built with the help of AI and 3D printing.

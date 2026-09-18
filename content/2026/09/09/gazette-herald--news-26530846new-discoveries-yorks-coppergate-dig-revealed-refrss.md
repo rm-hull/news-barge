@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Fresh discoveries from one of York’s Coppergate archaeological digs are
   set to take centre stage at this year's Richard Hall Symposium.
 image: https://www.gazetteherald.co.uk/resources/images/21423855.jpg?type=og-image&xType=0&yType=902
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 *(Image: Pyper York Ltd)*

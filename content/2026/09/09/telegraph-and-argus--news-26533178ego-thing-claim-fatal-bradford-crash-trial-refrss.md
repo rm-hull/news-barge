@@ -9,6 +9,12 @@ published: '2026-09-09T00:00:00Z'
 description: Two young men involved in a serious crash between two speeding cars that
   were allegedly racing in the moments before they collided have described…
 image: https://www.thetelegraphandargus.co.uk/resources/images/17842871.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

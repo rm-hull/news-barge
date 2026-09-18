@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Police have placed a cordon around an incident along Ouse Bridge. Emergency
   services, including North Yorkshire Police, Yorlshire Ambulance Service,…
 image: https://www.yorkpress.co.uk/resources/images/sitelogo?type=og-image
+categories:
+- Local
+- York
+- True Crime
 ---
 
 - Police have placed a cordon around an incident along Ouse Bridge.

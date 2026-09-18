@@ -10,6 +10,9 @@ description: A government decree requiring registration of domestic birds, camel
   with live chickens in tow before authorities clarified that owners did not need
   to bring their animals anywhere.
 image: https://images.euronews.com/articles/stories/09/90/02/36/1200x675_cmsv2_7a983593-3a63-5f2a-88ac-1c95e722de7e-9900236.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## A government decree requiring registration of domestic birds, camels and reindeer took effect Tuesday, sending Russians to government service centres with live chickens in tow before authorities clarified that owners did not need to bring their animals anywhere.

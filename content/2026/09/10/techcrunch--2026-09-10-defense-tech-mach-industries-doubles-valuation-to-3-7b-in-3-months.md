@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: The buzzy startup raised another $600 million in a Series C extension
   round, bringing the total of the round to $900 million.
 image: https://techcrunch.com/wp-content/uploads/2025/03/EthanThornton5.jpg?resize=1200,931
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Defense tech startup Mach Industries has raised a fresh $600 million in capital in a Series C extension round that has doubled its valuation to $3.7 billion, the company announced on Thursday. It announced the original Series C in June, which was $300 million at a $1.8 billion valuation. Investors in both tranches include Ribbit Capital, Infinite Capital, Bedrock Capital, and Sequoia.

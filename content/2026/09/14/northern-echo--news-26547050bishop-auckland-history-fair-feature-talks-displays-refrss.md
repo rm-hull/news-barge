@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: History enthusiasts, families and residents are being invited to step
   back in time at the Bishop Auckland History and Heritage Fair later this month.
 image: https://www.thenorthernecho.co.uk/resources/images/21450067.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: CHRIS BOOTH)*

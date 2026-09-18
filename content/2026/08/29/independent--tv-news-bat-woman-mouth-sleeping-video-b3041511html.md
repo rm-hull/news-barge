@@ -14,6 +14,10 @@ description: A doctor from Virginia says she woke up to find a live bat inside h
   it for rabies. Dr Edelman received initial preventive rabies vaccine and immunoglobulin
   doses, which were stopped once tests confirmed the bat was rabies-negative.
 image: https://cdn.jwplayer.com/v2/media/fafUh6Dm/poster.jpg?width=720
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 ## Showing now | News

@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Roxie Ellis Douglas, 68, has spent nearly $100,000 on medical bills since
   the meal in question, court filings show
 image: https://static.independent.co.uk/2026/08/21/19/13/MixCollage-21-Aug-2026-03-31-PM-4523.jpeg?trim=32,0,110,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A Chicago woman was hospitalized with a severe gastrointestinal infection after eating a Wendy’s double cheeseburger she claims was “contaminated with Campylobacter and other illness producing bacteria,” according to a federal lawsuit reviewed by *The Independent*.

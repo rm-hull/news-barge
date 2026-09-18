@@ -7,6 +7,11 @@ scraped_at: '2026-09-01T13:28:38Z'
 published: '2026-09-01T00:00:00Z'
 description: The supermarket chain is planning a major turnaround plan.
 image: https://www.thenorthernecho.co.uk/resources/images/13411097.jpg?type=og-image&xType=0&yType=82
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest)*

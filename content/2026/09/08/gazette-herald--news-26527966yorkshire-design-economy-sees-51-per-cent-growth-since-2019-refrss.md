@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: New research from the Design Council shows the design sector in Yorkshire
   and the Humber contributed £7.7 billion in gross value.
 image: https://www.gazetteherald.co.uk/resources/images/21419567.jpg?type=og-image&xType=0&yType=1473
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 The design economy in Yorkshire and the Humber has grown by more than half since 2019.

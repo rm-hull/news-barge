@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Republicans plan to center the US president at the two-day event, while
   slamming Democrats as socialists
 image: https://i.guim.co.uk/img/media/b857f3573509bb6d42b9b001ab4b53712f1a2da4/416_0_3751_3001/master/3751.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc8e077645fc18434542389f6e9d84d4
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Republicans will gather in Texas on Wednesday for a rare “midterm convention”, as they attempt to convince Americans to vote for a party led by a deeply unpopular president who has overseen price increases, inflation, and led the US into an increasingly unpopular war.

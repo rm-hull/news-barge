@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: WIRED tested samples of four types of peptides. The results show how
   lightly regulated the industry is, even as popularity surges.
 image: https://media.wired.com/photos/6a9b2bbf24449f8ffea94935/191:100/w_1280,c_limit/Bodeg-Peptides-Are-Fake-Science.jpg
+categories:
+- Technology & Software
+- Science
+- Comedy & Entertainment
 ---
 
 The Mr. Green bodega sits on a busy stretch of Bedford Avenue in Brooklyn, New York. Near the counter, you can buy the usual assortment of candy, gum, rolling papers, and soda. You can also purchase tiny vials of injectable peptides. So we did. And then we sent them to a lab.

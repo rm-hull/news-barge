@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: A major North East car park has been strengthened amid warnings that
   heavier electric vehicles could put “undue stress” on ageing multi-storey…
 image: https://www.thenorthernecho.co.uk/resources/images/21062500.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 *(Image: MGM)*

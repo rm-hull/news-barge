@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Students collecting GCSE results across Durham and the North East may
   need umbrellas today, with rain forecast before drier weekend weather returns.
 image: https://www.thenorthernecho.co.uk/resources/images/20194038.jpg?type=og-image&xType=0&yType=26
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 Students collecting their GCSE results across the North East may want to pack an umbrella, with rain forecast through much of the morning.

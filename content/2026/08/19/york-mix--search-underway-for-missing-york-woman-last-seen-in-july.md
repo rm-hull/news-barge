@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T13:09:45Z'
 published: '2026-08-19T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/jessica-ashworth.webp
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 Have you seen this woman?

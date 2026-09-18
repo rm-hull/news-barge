@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: The deputy attorney general was found disorientated and dehydrated, according
   to his brother
 image: https://static.independent.co.uk/2026/08/27/13/49/Screenshot-2026-08-27-at-14-51-46.png?trim=35,73,133,84&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A Missouri deputy attorney general has been found alive after being missing for six days after he went for a hike in the mountains.

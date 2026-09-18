@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T04:46:29Z'
 published: '2026-09-14T00:00:00Z'
 description: .
 image: null
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Pubs and retailers will be able to accept digital ID as proof of age to buy alcohol under new rules.

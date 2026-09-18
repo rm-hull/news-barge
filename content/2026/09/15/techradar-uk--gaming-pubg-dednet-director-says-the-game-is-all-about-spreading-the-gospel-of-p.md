@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: 'The PUBG: Dednet creative director discusses how the upcoming spin-off
   fits with the rest of the franchise.'
 image: https://cdn.mos.cms.futurecdn.net/CJNCU7a6QqENsZdn9jvuAM-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Arts & Culture
 ---
 
 ![A character from PUBG: Dednet shooting at a car in the forest next to a red and purple shipping container](https://cdn.mos.cms.futurecdn.net/CJNCU7a6QqENsZdn9jvuAM.jpg) 

@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: The Lincoln, which left the Middle East on Saturday, has set a modern-day
   record for consecutive days at sea
 image: https://static.independent.co.uk/2026/08/25/12/2026-08-24T145548Z_2005713281_RC2H3NACHB97_RTRMADP_3_IRAN-CRISIS-USA-CARRIER.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The U.S. Navy aircraft carrier the USS Abraham Lincoln will dock in Thailand next week amid reports of mental health concerns and deteriorating conditions aboard.

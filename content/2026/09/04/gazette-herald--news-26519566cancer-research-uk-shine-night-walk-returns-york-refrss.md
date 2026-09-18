@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: A 10k night walk will light up the streets of York this September in
   support of Cancer Research UK.
 image: https://www.gazetteherald.co.uk/resources/images/20910163.jpg?type=og-image&xType=0&yType=57
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Cancer Research UK)*

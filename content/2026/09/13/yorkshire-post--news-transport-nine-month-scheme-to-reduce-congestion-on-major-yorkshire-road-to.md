@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: A nine month scheme to ease congestion on a major route into Bradford
   city centre will begin on Monday (Sep 14).
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjMyMDZmOGFlLTFiZTEtNDY2ZC1hZDQ2LTI2OTQwNjJkOTllODpmYjEyODcyYS02MjlkLTQzMzYtYmZjZS03ZWVlZTNjOTViYjE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Nine month scheme to reduce congestion on major Yorkshire road to begin on Monday

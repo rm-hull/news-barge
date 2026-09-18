@@ -9,6 +9,12 @@ description: So much for the ‘graduate guarantee’, the government’s 2025 p
   every newly-qualified nurse and midwife in England would have the opportunity to
   apply to join the health and social care workforce.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjgzY2MwNDI3LTUwMGEtNGFhMC1hZWU2LWU4MTA4M2QyNjIyODozMTM3ODdiYS0wZDU5LTRmNzgtYTM5OC0zMTRiODdkMzRiMTk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Health & Fitness
 ---
 
 # Why is the NHS refusing to open doors to trained nurses? - Jayne Dowle

@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: The bacon sandwich in a York cafe was just not right – and this Londoner
   has never forgotten it!
 image: https://www.yorkpress.co.uk/resources/images/21406097.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 **Why a York bacon sandwich disappointed this Londoner**

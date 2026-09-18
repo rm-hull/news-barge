@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: A parish council is looking to reduce the height of the village Christmas
   tree because it’s got too tall for fairy lights.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21412976.jpg?type=og-image&xType=0&yType=265
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: Chris Tate)*

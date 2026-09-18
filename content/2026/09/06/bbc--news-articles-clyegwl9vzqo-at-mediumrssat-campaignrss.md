@@ -7,6 +7,10 @@ scraped_at: '2026-09-06T18:15:28Z'
 published: '2026-09-06T00:00:00Z'
 description: They were transferred onto two lifeboats and taken to shore in the UK.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5295/live/fa800b90-aa05-11f1-afb5-a367f96884d3.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Migrants on an inflatable dinghy leaving the coast of northern France at Gravelines, near Calais](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/5295/live/fa800b90-aa05-11f1-afb5-a367f96884d3.jpg)

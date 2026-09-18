@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Strictly Come Dancing professional dancer Johannes Radebe joins Emma
   Willis and Josh Widdicombe as BBC One hosts for 2026.
 image: https://www.gazetteherald.co.uk/resources/images/21432568.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 *(Image: BBC/Ray Burmiston)*

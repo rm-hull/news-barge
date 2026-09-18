@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T14:13:45Z'
 published: '2026-09-07T00:00:00Z'
 description: The ‘Butcher of Bosnia’ was convicted of genocide by a UN court
 image: https://static.independent.co.uk/2026/09/07/11/2293485869..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Serbia has been accused of the “glorification” of former Bosnian Serb army commander Ratko Mladic, who was convicted of genocide by a UN court, by giving him an elaborate military funeral in Belgrade.

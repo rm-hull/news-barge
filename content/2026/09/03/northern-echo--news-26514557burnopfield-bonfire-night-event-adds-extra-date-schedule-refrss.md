@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Big Blaze, held at Lintz Hall Farm in Burnopfield, will take place on
   November 5 and 7 due to popular demand.
 image: https://www.thenorthernecho.co.uk/resources/images/21400199.jpg?type=og-image&xType=103&yType=0
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: @maxcooper_photography)*

@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: Children and vulnerable adults detained by police in Bradford are facing
   longer waits for support because of a shortage of Appropriate Adults across…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21339305.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
+- Family & Parenting
 ---
 
 *(Image: Pixabay)*

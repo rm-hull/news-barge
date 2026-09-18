@@ -10,6 +10,10 @@ description: Trump’s youngest-ever spokesperson was successful because she cou
   all parts of her job. Her successor may not have that skill set, writes White House
   correspondent Andrew Feinberg
 image: https://static.independent.co.uk/2026/08/27/17/2026-08-27T130202Z_225720195_RC217NAEWMCY_RTRMADP_3_USA-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 Among White House reporters and Donald Trump’s staff, there is a running joke about how his top communications aides are completely superfluous because the president would be perfectly happy handling the jobs of White House Press Secretary and Communications Director in addition to his role as chief executive.

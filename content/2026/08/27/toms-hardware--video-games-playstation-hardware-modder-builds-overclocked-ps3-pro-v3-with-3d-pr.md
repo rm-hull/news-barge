@@ -8,6 +8,10 @@ scraped_at: '2026-08-27T12:01:11Z'
 published: '2026-08-27T00:00:00Z'
 description: '''Almost every game has a boost in FPS,'' crows console modder.'
 image: https://cdn.mos.cms.futurecdn.net/9eE73Lb2hrEUgfbpQ6VJcV-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![The ‘PS3 Pro v3’ design.](https://cdn.mos.cms.futurecdn.net/9eE73Lb2hrEUgfbpQ6VJcV.jpg) 

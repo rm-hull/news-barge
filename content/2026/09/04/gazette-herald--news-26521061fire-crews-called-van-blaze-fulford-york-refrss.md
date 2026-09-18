@@ -7,6 +7,11 @@ scraped_at: '2026-09-04T12:42:03Z'
 published: '2026-09-04T00:00:00Z'
 description: Fire crews have been called to a van fire in a quiet street in York.
 image: https://www.gazetteherald.co.uk/resources/images/21409377.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 FIRE crews have been called to a van fire in York.

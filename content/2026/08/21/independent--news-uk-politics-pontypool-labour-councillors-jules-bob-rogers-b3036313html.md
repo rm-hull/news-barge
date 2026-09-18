@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: Jules and Bob Rogers had been elected as councillors on Pontypool Community
   Council
 image: https://static.independent.co.uk/2026/08/20/11/58/Pontypool.png?trim=0,119,0,119&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A husband and wife have lost their positions as Labour councillors after failing to attend meetings for over six months.

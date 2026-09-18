@@ -9,6 +9,10 @@ description: Atlantic blue crabs have moved into the Mediterranean and Adriatic 
   where they are a problem both for ecosystems and local economies, but octopuses
   might offer a solution
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309444627.jpg
+categories:
+- Science
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A team of scientists releasing 150,000 baby common octopuses](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309444627.jpg?w=840)

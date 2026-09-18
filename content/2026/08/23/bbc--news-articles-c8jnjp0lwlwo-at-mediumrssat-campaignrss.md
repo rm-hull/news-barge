@@ -8,6 +8,12 @@ published: '2026-08-23T00:00:00Z'
 description: Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old
   suspect has been detained.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4961/live/739e15f0-9e92-11f1-ab7f-1982e3129a69.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- True Crime
+- History
 ---
 
 ![Swedish Prime Minister Ulf Kristersson (L) and Social Democratic Party leader Magdalena Andersson visit the makeshift memorial.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4961/live/739e15f0-9e92-11f1-ab7f-1982e3129a69.jpg)

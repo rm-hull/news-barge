@@ -9,6 +9,12 @@ published: '2026-08-22T00:00:00Z'
 description: This is everything we know about what happened in the fatal A66 crash
   which has left seven dead, including two police officers.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjI4ZDI2NDhjLTdiYWUtNDI3Yy1iNTE1LTI1N2JmZDA2NzYyOTo1NDVjOTQ1MS00Mzk1LTQyYmItYjM0MC01MThmYWNhYzcxOTk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # Everything we know about what happened in fatal A66 crash in South Bank today

@@ -10,6 +10,12 @@ description: Online behemoth Amazon said it’s increasing the minimum starting 
   wage for its U.S. full-time core operations employees to $20 ahead of the holiday
   shopping season
 image: https://static.independent.co.uk/2026/08/19/11/Amazon_Drone_Delivery_Expansion_61751.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 Online behemoth Amazon said it's increasing the minimum starting hourly wage for its U.S. full-time core operations employees to $20 ahead of the crucial holiday shopping season.

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Alpine lakes, emerald rivers, mountains, waterfalls, forests and an extraordinary
   underground world make Slovenia one of Europe's top active tourism destinations.
 image: https://images.euronews.com/articles/stories/09/89/63/09/1200x675_cmsv2_8b905d6b-2d86-5f53-b53a-688bda180799-9896309.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 **David del Valle**

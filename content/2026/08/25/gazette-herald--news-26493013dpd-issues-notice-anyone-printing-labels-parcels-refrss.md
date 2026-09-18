@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: DPD has given advice to customers printing labels for its parcel service
   to ensure a successful delivery
 image: https://www.gazetteherald.co.uk/resources/images/21360491.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

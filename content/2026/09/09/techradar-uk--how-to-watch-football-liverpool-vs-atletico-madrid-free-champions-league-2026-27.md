@@ -8,6 +8,9 @@ scraped_at: '2026-09-09T19:15:25Z'
 published: '2026-09-09T00:00:00Z'
 description: The Reds host Los Colchoneros for Andoni Iraola's European debut at Anfield
 image: https://cdn.mos.cms.futurecdn.net/SZnn5yQJGm5qDnY6dTjnK5-932-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Alexander Isak, wearing the red of Liverpool, looks ahead at the ball during a match.](https://cdn.mos.cms.futurecdn.net/SZnn5yQJGm5qDnY6dTjnK5.jpg) 

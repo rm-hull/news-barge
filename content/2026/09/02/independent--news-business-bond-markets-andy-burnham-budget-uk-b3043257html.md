@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Ten-year gilts have risen well above 5% this year on the back of the
   Iran war
 image: https://static.independent.co.uk/2026/09/02/00/77551702510a8b38f0177451bfe57286Y29udGVudHNlYXJjaGFwaSwxNzg4Mzg3MjEy-2.85712831.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Bonds are back in the headlines after hitting their highest level since the global financial crisis, with 10-year returns now standing at 5.29 per cent.

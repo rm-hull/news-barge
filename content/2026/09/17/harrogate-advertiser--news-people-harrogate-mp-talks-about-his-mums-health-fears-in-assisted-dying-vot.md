@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Harrogate’s MP has opened up in the House of Commons about his mum’s
   health in an emotional speech in favour of assisted dying.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjM4YmVhN2ExLThiMTAtNGNhMS05Y2Q1LWU5MjEyNjcxZTJiNjozN2JlODBmZS03ZDcwLTQzODEtODhkZS05ZDljNmUwY2Y4NDk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 # Harrogate MP talks about his mum's health fears in Assisted Dying vote in House of Commons

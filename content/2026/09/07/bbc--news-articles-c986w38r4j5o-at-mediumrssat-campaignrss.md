@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt
   state ringing alarm bells for the EU and traditional parties.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c3b/live/72883ac0-aa67-11f1-b26f-b3549bd39fba.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Ulrich Siegmund, leader of the AfD in the state, raises a thumbs up at the election party.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/8c3b/live/72883ac0-aa67-11f1-b26f-b3549bd39fba.jpg)

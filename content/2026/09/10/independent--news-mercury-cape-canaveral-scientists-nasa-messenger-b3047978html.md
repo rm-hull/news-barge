@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A new study shows that little, wrinkly Mercury may be shrinking faster
   than expected
 image: https://static.independent.co.uk/2026/09/03/15/Mercury_Mission_35531.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- Technology & Software
 ---
 
 A new study shows that little, wrinkly Mercury may be shrinking faster than expected, the cosmos’ version of a grape shriveling into a raisin under the sun.

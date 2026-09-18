@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Readers offer different perspectives on the fate of life on Earth should
   the sun vanish – and there may be hope for some
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_306142073.jpg
+categories:
+- Science
+- Technology & Software
+- Society & Culture
 ---
 
 ![Stunning sunset over the Baltic Sea with the sun disappearing below the horizon creating a bright glow on water.; Shutterstock ID 2765860393; purchase_order: -; job: -; client: -; other:](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_306142073.jpg?w=840)

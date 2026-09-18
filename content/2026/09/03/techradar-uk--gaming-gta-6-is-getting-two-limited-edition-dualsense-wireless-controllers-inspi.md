@@ -10,6 +10,8 @@ published: '2026-09-03T00:00:00Z'
 description: Sony has announced that it will release two limited-edition DualSense
   wireless controllers inspired by Grand Theft Auto 6 when the game launches.
 image: https://cdn.mos.cms.futurecdn.net/kFhzqy4kquMF96MoiGda9B-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The DualSense Wireless Controller – Grand Theft Auto 5 Black Limited Edition](https://cdn.mos.cms.futurecdn.net/kFhzqy4kquMF96MoiGda9B.jpg) 

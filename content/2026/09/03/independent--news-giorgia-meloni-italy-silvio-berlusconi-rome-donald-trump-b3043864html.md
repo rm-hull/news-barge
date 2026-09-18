@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Premier Giorgia Meloni’s conservative administration became Italy’s longest-serving
   uninterrupted government since World War II at 1,413 days on Thursday
 image: https://static.independent.co.uk/2026/09/03/05/Italy_Meloni_PM_Record_89158.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 In a country where governments are famously short-lived, the perceived success of Italian Premier Giorgia Meloni has often been attributed to her survival skills rather than her accomplishments.

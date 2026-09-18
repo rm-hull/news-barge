@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Figures suggest that almost one in five 11 to 17-year-olds in Britain
   have tried vaping
 image: https://static.independent.co.uk/2024/08/01/14/01132002-22206a15-8ad3-4f23-9bf0-18157b979aeb.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Leading children’s doctors have warned vaping could lead to several health harms after a new review linked it to higher rates of breathing problems in children and young people.

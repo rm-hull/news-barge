@@ -9,6 +9,10 @@ description: Following recent devastating floods, local charity Harrogate Brigan
   Rotary launched a Nepal floods appeal to beat their previous £10,000 record set
   after
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/nepal-charlotte.webp
+categories:
+- Local
+- Harrogate
+- Personal Finance & Investing
 ---
 
 Following recent devastating floods, local charity Harrogate Brigantes Rotary launched a Nepal floods appeal to beat their previous £10,000 record set after the 2015 earthquake.

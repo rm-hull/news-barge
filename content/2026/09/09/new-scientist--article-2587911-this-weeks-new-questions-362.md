@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Why do people appear younger and better-looking in a mirror than in a
   photograph? Are humans the only animals that cry? If so, why?
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310238132.jpg
+categories:
+- Science
+- Technology & Software
+- Arts & Culture
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310238132.jpg?w=840)

@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Rachida Dati accused of lobbying for carmaker Renault-Nissan when she
   was member of European parliament
 image: https://i.guim.co.uk/img/media/70f9445555ca310c289eb929f52bfe6f63e9f405/1167_328_3389_2710/master/3389.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af98b04b56e42d7f436b502608d0f610
+categories:
+- UK
+- News & Politics
 ---
 
 Rachida Dati, a former French culture minister, has gone on trial in Paris on corruption charges linked to dealings with the Renault-Nissan carmaking group.

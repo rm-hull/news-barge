@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The fact that so few former workers hold elected office means that working-class
   interests often fall by the wayside in the world’s political institutions
 image: https://static.independent.co.uk/2026/08/20/19/27/GettyImages-2287235700.jpg?trim=152,100,546,947&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 Both major U.S. political parties regularly tout their commitment to working-class Americans and claim to be the party of the working class. However, neither the Democrats nor the Republicans nominate many candidates who spent substantial time in working-class jobs.

@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: A pub-restaurant chain backed by a celebrity TV chef, who appeared regularly
   on Ready Steady Cook, is to shut imminently.
 image: https://www.yorkpress.co.uk/resources/images/21422254.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 *(Image: Wikimedia Commons)*

@@ -10,6 +10,11 @@ description: The state can’t use new congressional districts under one court o
   – or its old ones under another. Plus, the architects in Europe turning urban spaces
   into areas of climate respite
 image: https://i.guim.co.uk/img/media/f56c9386312fca928956dfa8ac27216bea06f2e5/593_0_6882_5504/master/6882.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=afcacd459b8e86488ccaf5a718d16ddf
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- History
 ---
 
 Good morning. Clashing court rulings plunged Missouri’s congressional elections into uncertainty less than two months before the November midterms that will decide which party controls a closely divided Congress.

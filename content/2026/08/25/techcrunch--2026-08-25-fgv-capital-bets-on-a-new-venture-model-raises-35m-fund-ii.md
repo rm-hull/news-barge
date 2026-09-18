@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: In an environment where emerging fund managers struggle to attract LP
   attention, FGV is betting that a different venture model can help it lure LPs.
 image: https://techcrunch.com/wp-content/uploads/2026/08/FGVCapital_Group.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Fiat Ventures on Tuesday said it is combining its growth consultancy and venture divisions under a new brand, FGV Capital, alongside the launch of its second fund, a $35 million vehicle.

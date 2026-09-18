@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: Sophia Dunkley hits 119 as England end their international summer with
   a 114-run thrashing of Ireland at Worcester.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/73bd/live/61675350-a9f1-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Dunkley century helps England sweep Ireland

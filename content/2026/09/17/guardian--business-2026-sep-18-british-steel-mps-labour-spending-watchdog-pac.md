@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Government spending watchdog warns of ‘startling’ price of keeping publicly
   owned firm in business
 image: https://i.guim.co.uk/img/media/06366e0469321e3e125281e6b85b3a0a0e87eed4/1764_660_3236_2588/master/3236.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad30ff7237aaff49cfaff6fc710f520a
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Labour has been urged to lay out a credible plan for the future of British Steel, as the government spending watchdog warned of the “startling” costs of keeping the struggling manufacturer in business with no end in sight.

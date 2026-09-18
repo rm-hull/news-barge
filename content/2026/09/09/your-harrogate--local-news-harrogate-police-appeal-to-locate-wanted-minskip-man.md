@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Police have launched an appeal to locate a wanted man who could be in
   the local area.
 image: https://mmo.aiircdn.com/409/6aa159276ceff211ac9.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
+- True Crime
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa159276ceff211ac9.jpg) 

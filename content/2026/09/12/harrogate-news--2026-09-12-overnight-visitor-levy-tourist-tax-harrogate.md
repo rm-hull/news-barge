@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: A £1 Overnight Visitor Levy proposed for North Yorkshire has split opinions,
   with Harrogate hoteliers Simon Cotton and Dan Siddle raising key operational concerns.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/The-Yorkshire-Hotel.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 **HARROGATE**— Plans to introduce a regional “Tourist Tax” on overnight accommodation across North Yorkshire have advanced this week, sparking intense debate between local government leaders and the district’s hospitality operators.A new economic impact report has recommended the implementation of a flat**£1-per-night Overnight Visitor Levy.**

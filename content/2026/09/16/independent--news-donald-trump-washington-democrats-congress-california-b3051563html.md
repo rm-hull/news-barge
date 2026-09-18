@@ -10,6 +10,10 @@ description: Democrats on the House Natural Resources Committee say the Trump ad
   has awarded contracts to begin work on President Donald Trump’s planned takeover
   of the East Potomac Golf Course in Washington
 image: https://static.independent.co.uk/2026/09/16/23/East_Potomac_Park_Golf_Course_1816_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The Trump administration has awarded contracts to begin work on President Donald Trump’s planned takeover of the East Potomac Golf Links in Washington, Democrats on the House Natural Resources Committee said Wednesday.

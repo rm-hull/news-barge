@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: A “domineering” former soldier, said to have PTSD from his service days,
   took out his anger and frustration on his partner and her family, a…
 image: https://www.thenorthernecho.co.uk/resources/images/21431614.jpg?type=og-image&xType=0&yType=56
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Durham Constabulary)*

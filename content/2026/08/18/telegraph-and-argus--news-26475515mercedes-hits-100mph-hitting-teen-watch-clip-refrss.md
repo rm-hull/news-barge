@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Newly released footage from police has revealed the frightening speed
   at which a Bradford driver was travelling moments before a collision left a…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21337334.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: West Yorkshire Police)*

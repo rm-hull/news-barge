@@ -9,6 +9,11 @@ description: US officials denied accusations that the deal was holding Venezuela
   ransom, stressing that it is mutually beneficial deal for all, developing an unutilised
   underground asset.
 image: https://images.euronews.com/articles/stories/09/89/92/86/1200x675_cmsv2_1717b78e-e9a7-50d1-a50f-62bfdb2575f7-9899286.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## US officials denied accusations that the deal was holding Venezuela for ransom, stressing that it is mutually beneficial deal for all, developing an unutilised underground asset.

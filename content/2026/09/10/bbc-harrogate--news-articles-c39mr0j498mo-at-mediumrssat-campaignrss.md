@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Abubakr Ahmed from Bradford admits possessing and supplying crack cocaine
   and heroin.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aaea/live/1490b870-ad00-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![A police mugshot of a man standing against a grey background. He is wearing a grey sweatshirt.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/aaea/live/1490b870-ad00-11f1-a540-61c3f7fc4e6c.jpg)

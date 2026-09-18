@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: A new fundraiser has been launched to help pay for the funeral of Natalie
   McDonald, who died in a devastating house fire alongside her…
 image: https://www.thenorthernecho.co.uk/resources/images/21406409.jpg?type=og-image&xType=0&yType=85
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 A fundraiser has been launched to help pay for the funeral of Natalie McDonald, who was killed alongside her seven-year-old niece in a house fire.

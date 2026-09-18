@@ -8,6 +8,12 @@ published: '2026-08-23T00:00:00Z'
 description: Police are appealing for the public's help to find a 43-year-old man
   who has been reported missing from Halifax.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21358833.jpg?type=og-image&xType=0&yType=333
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 *(Image: West Yorkshire Police)*

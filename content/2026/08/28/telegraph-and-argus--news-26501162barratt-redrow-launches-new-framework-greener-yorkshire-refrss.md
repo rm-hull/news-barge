@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: A NEW placemaking framework is setting the standard for healthier, greener
   neighbourhoods.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21379819.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Mark Waugh)*

@@ -8,6 +8,8 @@ published: '2026-08-20T00:00:00Z'
 description: Jason Kelce joked that people should cool data centers with their pee,
   rather than potable water -- but his suggestion is not completely ludicrous.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2270767933.jpg?resize=1200,686
+categories:
+- Technology & Software
 ---
 
 In a cheeky marketing campaign, Liquid Death teamed up with former Philadelphia Eagles star Jason Kelce to share a solution to mitigate the environmental impact of AI data centers, which require massive quantities of water to prevent servers from overheating.

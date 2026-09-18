@@ -7,6 +7,11 @@ scraped_at: '2026-08-22T04:44:00Z'
 published: '2026-08-22T00:00:00Z'
 description: Pickering Running Club tackled multiple races in a busy weekend of events.
 image: https://www.yorkpress.co.uk/resources/images/21354206.jpg?type=og-image&xType=0&yType=165
+categories:
+- Local
+- York
+- Sports
+- Lifestyle & Fashion
 ---
 
 ## Pickering runners tackle steep climbs and tricky terrain in busy weekend

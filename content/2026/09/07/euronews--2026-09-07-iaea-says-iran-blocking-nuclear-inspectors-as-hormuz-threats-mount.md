@@ -10,6 +10,9 @@ description: IAEA chief Grossi told the Board of Governors that Tehran had provi
   as Iran's parliament speaker threatened US energy assets with retaliatory strikes
   and the IRGC warned vessels off the southern Hormuz corridor.
 image: https://images.euronews.com/articles/stories/09/90/39/49/1200x675_cmsv2_955eb13a-41a4-5412-8788-1292b62fbd1f-9903949.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## IAEA chief Grossi told the Board of Governors that Tehran had provided no information on declared nuclear materials and inspectors had no on-site access, as Iran's parliament speaker threatened US energy assets with retaliatory strikes and the IRGC warned vessels off the southern Hormuz corridor.

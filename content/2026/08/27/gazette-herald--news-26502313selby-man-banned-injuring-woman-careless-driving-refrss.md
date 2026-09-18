@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A man whose driving put a woman in hospital with serious injuries has
   been banned from driving until he is 70 years old and ordered to retake his…
 image: https://www.gazetteherald.co.uk/resources/images/17562273.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 *(Image: Newsquest)*

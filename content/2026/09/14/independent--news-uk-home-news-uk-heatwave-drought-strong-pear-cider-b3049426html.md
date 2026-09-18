@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Cider makers have anticipated a ‘bumper perry harvest’ this year following
   record-breaking heatwaves
 image: https://static.independent.co.uk/2021/05/12/09/11105445-d2e77e94-8e97-434f-8af4-885cc30dece4.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Home, Garden & DIY
 ---
 
 The back-to-back record-breaking heatwaves may have made pear cider super-strong this year.

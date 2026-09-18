@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: North Yorkshire Police said it happened on Friday, September 4 and involved
   a member of the public selling a mobile phone.
 image: https://www.yorkpress.co.uk/resources/images/21436168.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: North Yorkshire Police)*

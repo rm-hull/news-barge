@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The Driver and Vehicle Standards Agency had been given a target to reduce
   average wait times to seven weeks.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e4e/live/014ac6a0-aba4-11f1-8e72-a346833ed029.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![A learner driver and her instructor in a car](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/5e4e/live/014ac6a0-aba4-11f1-8e72-a346833ed029.jpg)

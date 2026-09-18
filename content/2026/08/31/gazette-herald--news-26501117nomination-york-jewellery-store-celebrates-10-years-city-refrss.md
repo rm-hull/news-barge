@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Nomination York, located in Low Petergate, has marked 10 years in the
   heart of the city.
 image: https://www.gazetteherald.co.uk/resources/images/21379752.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 A "decade of memories" is being celebrated by a business in York.

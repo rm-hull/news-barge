@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Former Farsley Celtic boss Russ Wilcox is at the centre of one of football’s
   most extraordinary stories this year, after being impersonated by a…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21439974.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: PA)*

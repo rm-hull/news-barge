@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Wensleydale Railway announces special park and ride train service for
   2026 Tour of Britain Cycle Race finish in Leyburn.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjg0MjYzMjI3LTQ2N2UtNDliMC1hMjZmLTQyYmZjODE4YTRkNDpkZGUzMjRhMC1kMTg5LTQ3MTUtOWRjMS0wZGVhNzdjZDYyY2Y=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Tour of Britain Cycle Race 2026: Wensleydale Railway announces special park and ride train service for race finish in Yorkshire Dales town

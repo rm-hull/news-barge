@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: A CHARITY shop is calling on the community to donate unwanted items to
   support older people through the winter.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21429127.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Google Street View)*

@@ -9,6 +9,10 @@ description: Water levels on Germany’s river Rhine have risen sharply followin
   rainfall, the national inland navigation agency said on Monday, though shipping
   hurdles remain despite vessels carrying increased cargo.
 image: https://static.independent.co.uk/2026/08/31/11/2026-08-28T104231Z_1605422522_RC2LVMAFLYES_RTRMADP_3_SHIPPING-RHINE-GERMANY.JPG?trim=0,6,0,6&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Water levels on Germany’s river Rhine have risen sharply following recent rainfall, the national inland navigation agency said on Monday, though shipping hurdles remain despite vessels carrying increased cargo.

@@ -7,6 +7,12 @@ scraped_at: '2026-09-15T11:26:49Z'
 published: '2026-09-15T00:00:00Z'
 description: A MAJOR study into menstrual health is underway in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21453852.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
+- Self-Improvement
 ---
 
 *(Image: Supplied)*

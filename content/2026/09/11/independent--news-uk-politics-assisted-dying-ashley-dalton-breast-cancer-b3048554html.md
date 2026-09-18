@@ -9,6 +9,9 @@ description: ‘My days may be numbered, but that doesn't mean that I want this 
   to rush through bad law just so I might have a chance to see it or use it’, Ashley
   Dalton told the Commons
 image: https://static.independent.co.uk/2026/09/11/10/42/Screenshot-2026-09-11-at-11-32-50.png?trim=0,558,0,55&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A former minister who has stage 4 incurable breast cancer has made an impassioned plea against assisted dying, telling MPs that it would be "nothing short of irresponsible” to pass the legislation.

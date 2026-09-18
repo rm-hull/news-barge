@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Naked Fish can be found near Bridlington Harbour and offers a range of
   fish from haddock to lobster and crab.
 image: https://www.yorkpress.co.uk/resources/images/21362146.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 ## 'Absolute treat' Bridlington fish and chip shop that locals rave about

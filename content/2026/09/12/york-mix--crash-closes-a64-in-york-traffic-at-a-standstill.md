@@ -7,6 +7,10 @@ scraped_at: '2026-09-12T15:00:44Z'
 published: '2026-09-12T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/traffic-jam-a64-york-ring-road-12-sept-2026-richard-green.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 Part of the York outer ring road is closed after a crash this lunchtime (Saturday).

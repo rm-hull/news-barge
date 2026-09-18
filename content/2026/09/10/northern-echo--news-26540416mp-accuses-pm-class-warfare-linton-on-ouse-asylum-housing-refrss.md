@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: A North Yorkshire MP has accused the Prime Minister of engaging in “class
   warfare” over suggestions that asylum seekers should be housed in…
 image: https://www.thenorthernecho.co.uk/resources/images/21102470.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 A North Yorkshire MP has accused the Prime Minister of engaging in “class warfare” over suggestions that asylum seekers should be housed in middle-class areas as he stepped up his opposition to plans for a migrant centre at former RAF Linton-on-Ouse.

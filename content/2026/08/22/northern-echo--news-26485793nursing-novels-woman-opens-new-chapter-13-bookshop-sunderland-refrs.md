@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: Former district nurse Hayley Beckinsale has opened Chapter 13, an independent
   bookshop and tearoom in Sunniside with thousands of fiction titles and…
 image: https://www.thenorthernecho.co.uk/resources/images/21356189.jpg?type=og-image&xType=0&yType=91
+categories:
+- Local
+- UK
+- News & Politics
+- Books & Literature
 ---
 
 *(Image: Chapter 13)*

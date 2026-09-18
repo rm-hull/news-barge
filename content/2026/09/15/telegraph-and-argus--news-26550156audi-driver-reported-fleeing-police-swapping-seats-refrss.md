@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: A driver was reported after fleeing police before swapping seats with
   a passenger.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21455222.jpg?type=og-image&xType=0&yType=230
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: West Yorkshire Police)*

@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: “Selfless” volunteer and chair of the York branch of Parkinson’s UK,
   Tim Bryan, has been honoured with a Community Pride Award.
 image: https://www.yorkpress.co.uk/resources/images/21441180.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## 'Selfless' chair of York charity branch honoured with top volunteer award

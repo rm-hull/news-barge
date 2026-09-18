@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Stockton residents are being asked to support and help shape the town's
   bid to become the UK's first Town of Culture in 2028.
 image: https://www.thenorthernecho.co.uk/resources/images/20737280.jpg?type=og-image&xType=0&yType=61
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A campaign to showcase the very best of Teesside is under way, with residents urged to back a bid that could secure a historic Town of Culture title.

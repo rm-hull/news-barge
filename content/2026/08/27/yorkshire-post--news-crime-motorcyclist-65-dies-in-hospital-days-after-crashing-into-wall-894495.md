@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A 65-year-old motorcyclist has died in hospital after suffering life-threatening
   injuries when his bike struck a curb and crashed into a wall in Oxenhope.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/24/11/33/Hebden-Bridge-Road.png?trim=0,74,0,73&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # Motorcyclist, 65, dies in hospital days after crashing into wall

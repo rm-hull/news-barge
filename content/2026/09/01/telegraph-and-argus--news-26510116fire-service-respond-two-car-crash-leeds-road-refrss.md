@@ -7,6 +7,12 @@ scraped_at: '2026-09-01T13:28:10Z'
 published: '2026-09-01T00:00:00Z'
 description: A person was helped from a vehicle after a two-car crash on Leeds Road.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20364753.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 *(Image: Telegraph & Argus)*

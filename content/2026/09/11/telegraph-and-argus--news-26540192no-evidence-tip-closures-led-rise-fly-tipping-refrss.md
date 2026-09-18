@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Debate over the link between fly-tipping and tip closures has continued
   this week, with council officers giving differing views to politicians.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20979830.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: T&A)*

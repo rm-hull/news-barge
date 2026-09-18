@@ -7,6 +7,11 @@ scraped_at: '2026-09-07T14:13:47Z'
 published: '2026-09-07T00:00:00Z'
 description: The Telegraph & Argus is giving readers a chance to help shape its coverage.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21418260.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Staff)*

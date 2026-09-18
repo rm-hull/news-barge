@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Trump says he is open to negotiations to end the war with Iran, but stresses
   the final decision rests with him
 image: https://static.independent.co.uk/2026/09/15/08/2284105153..?trim=0,0,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The US military is facing a weapons shortage after dozens of aircraft have been destroyed in its war on Iran, the Pentagon has said, as the cost of the war hit $33.4 billion (£24.8bn).

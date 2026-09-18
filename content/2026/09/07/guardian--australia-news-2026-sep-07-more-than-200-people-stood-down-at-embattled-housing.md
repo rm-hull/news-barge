@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Sydney-headquartered group suspends work on some of its 45 construction
   sites affecting 60% of workforce
 image: https://i.guim.co.uk/img/media/e8f789681a7293189635a9594c0c624cb4befb14/333_0_5685_4551/master/5685.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1049b23ef3a635ed9f9c6f7668e5a56b
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 More than 200 workers at Sydney-headquartered Bathla Group have been stood down as administrators of the embattled property developer seek emergency funds to stave off a company-wide collapse.

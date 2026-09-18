@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: Trent Alexander-Arnold says he still receives abuse from Liverpool fans
   online after leaving Anfield for Real Madrid 14 months ago.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9cfa/live/e77effe0-9ec2-11f1-86f9-ff2d438d88d1.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Trent Alexander-Arnold wearing Real Madrid training gear at the Santiago Bernabeu stadium](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9cfa/live/e77effe0-9ec2-11f1-86f9-ff2d438d88d1.jpg)

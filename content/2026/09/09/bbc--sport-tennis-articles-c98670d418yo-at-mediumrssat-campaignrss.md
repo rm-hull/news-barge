@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Coco Gauff saves two match points to beat Mirra Andreeva and set up a
   US Open semi-final against incoming world number one Elena Rybakina.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ed73/live/85b23480-ac91-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Coco Gauff, wearing a pale yellow vest, puts her left index finger behind her ear](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/96e4/live/c7227bb0-ac90-11f1-ab14-5b9069dc795d.jpg)

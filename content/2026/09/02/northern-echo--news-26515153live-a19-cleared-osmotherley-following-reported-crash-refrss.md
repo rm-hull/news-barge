@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Traffic has now cleared on the A19 Northbound near the Osmotherley and
   Ellerbeck turnings following reports of a crash this morning that caused…
 image: https://www.thenorthernecho.co.uk/resources/images/21377265.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 - Good afternoon, welcome to this Northern Echo live breaking news blog.

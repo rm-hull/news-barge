@@ -9,6 +9,9 @@ description: Lethal temperatures and wildfires have exposed a widening gulf betw
   voters demanding action and politicians unwilling to confront the long-term choices
   global heating requires
 image: https://i.guim.co.uk/img/media/a24beb22291bc8d9f77977b888e4c4e3bb7cc564/853_0_4299_3440/master/4299.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe8cf234da95dee8f389a9bd6af1ea53
+categories:
+- UK
+- News & Politics
 ---
 
 The climate crisis means “we’re going to have to change everything – the way we live, the way we produce, the way we trade,” France’s veteran radical-left firebrand, Jean-Luc Mélenchon, told the summer congress of his France Insoumise party last weekend.

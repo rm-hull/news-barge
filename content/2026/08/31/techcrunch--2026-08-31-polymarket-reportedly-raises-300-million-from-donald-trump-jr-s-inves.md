@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: The firm, 1789 Capital, led the funding round that reportedly will total
   around $1 billion.
 image: https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2277777336.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 The popular prediction market Polymarket has raised $300 million from 1789 Capital as part of a new funding round totaling around $1 billion, The Wall Street Journal reported, citing unnamed sources.

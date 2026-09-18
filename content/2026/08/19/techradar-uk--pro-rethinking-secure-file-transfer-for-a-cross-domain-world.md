@@ -7,6 +7,9 @@ scraped_at: '2026-08-19T21:32:09Z'
 published: '2026-08-19T00:00:00Z'
 description: Secure file movement demands continuous validation and inspection
 image: https://cdn.mos.cms.futurecdn.net/snacLhKPDncvV3JtXYyw7M-2560-80.jpg
+categories:
+- Technology & Software
+- Society & Culture
 ---
 
 ![A portion of the globe with dotted lights criss-crossing the image connecting the countries](https://cdn.mos.cms.futurecdn.net/snacLhKPDncvV3JtXYyw7M.jpg) 

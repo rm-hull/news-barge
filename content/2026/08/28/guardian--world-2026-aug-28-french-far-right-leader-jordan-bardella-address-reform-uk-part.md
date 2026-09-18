@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: Speech part of effort to strengthen National Rally party’s international
   ties before Marine Le Pen’s presidential bid
 image: https://i.guim.co.uk/img/media/f0f61daae96c0b18fd9d4f04df5584588ee4ab64/24_0_2817_2255/master/2817.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=101b867390de7a433e8035153d3dd22f
+categories:
+- UK
+- News & Politics
 ---
 
 The French far-right leader Jordan Bardella is to give a speech at Reform UK’s party conference in Birmingham next week as he attempts to boost international ties before Marine Le Pen’s bid for the French presidency next spring.

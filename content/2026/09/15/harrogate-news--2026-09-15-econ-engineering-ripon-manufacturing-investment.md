@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: Ripon-based Econ Engineering secures its future as the UK's leading gritter
   manufacturer with a major £1.1m investment in state-of-the-art laser machinery.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/ECON-Ripon-13August-2026_0076.webp
+categories:
+- Local
+- Harrogate
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 **RIPON, North Yorkshire**— Econ Engineering has strengthened its position as a leading UK manufacturing company following a significant £1.1m investment into its production capabilities.

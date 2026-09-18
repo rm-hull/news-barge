@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: Nicola Bell-Percy, from Jervaulx, lost her son, Aaron Bell, 18, in 2022
   after he was the passenger of a vehicle travelling on the B6268, between…
 image: https://www.thenorthernecho.co.uk/resources/images/19466130.jpg?type=og-image&xType=0&yType=357
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 A bereaved mum who lost her son to a tragic road crash has said there is a "glimmer of hope" to introduce a "vital" driving law in England after Northern Ireland moved ahead with proposals for the changes.

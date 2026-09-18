@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The BBC's Samira Hussain looks at the factors considered in the increase
   and what it could mean for the US economy.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1dd/live/a9d5b720-b21c-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 # Watch: Why has the Federal Reserve raised interest rates?

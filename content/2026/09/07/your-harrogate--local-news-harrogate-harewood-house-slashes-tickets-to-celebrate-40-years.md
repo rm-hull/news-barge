@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Harewood House is rolling back its admission prices to 1986 levels as
   part of a weekend celebrating the 40th anniversary of its charitable trust.
 image: https://mmo.aiircdn.com/409/6a9e596653d0a21a7e3.jpg
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9e596653d0a21a7e3.jpg) 

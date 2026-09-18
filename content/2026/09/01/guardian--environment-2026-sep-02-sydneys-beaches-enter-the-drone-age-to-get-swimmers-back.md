@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Seventy beaches are part of the $34m dawn-to-dusk drone monitoring program,
   which one expert has called ‘the best technology we have at the moment’
 image: https://i.guim.co.uk/img/media/337cf4a23cacb029fa43dc32c1dd2fbb7a0502d3/294_350_2767_2215/master/2767.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ffef229aae7b1264f0fb2e2868235d4
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 “Hey Taha, what’s the visibility like?” shouts a man with a towel slung over his shoulder.

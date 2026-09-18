@@ -8,6 +8,9 @@ scraped_at: '2026-08-28T22:15:35Z'
 published: '2026-08-28T00:00:00Z'
 description: Chinese bot farm of 200k accounts identified by X
 image: https://cdn.mos.cms.futurecdn.net/MeWrRVEuBBgBHZCZbeYSCP-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Twitter social media application change logo to X. Elon Musk CEO of twitter rebranded Twitter to 'X'. Social media application technology concept.](https://cdn.mos.cms.futurecdn.net/MeWrRVEuBBgBHZCZbeYSCP.jpg) 

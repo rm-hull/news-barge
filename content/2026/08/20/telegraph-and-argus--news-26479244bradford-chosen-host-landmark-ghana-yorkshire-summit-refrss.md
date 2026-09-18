@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: A NEW business summit will connect Ghanaian investors with Yorkshire’s
   public and private sectors.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21343529.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Supplied)*

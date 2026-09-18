@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Experts say imported eggs served in cafes and restaurants may be behind
   infections linked to one death
 image: https://i.guim.co.uk/img/media/bdc6b6d372d971af81d32f512459abbfc3687983/422_0_4279_3425/master/4279.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e94d5b9565c1035c7263db60b8269361
+categories:
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 Salmonella cases in the UK are expected to rise until the common source is identified, something that is notoriously difficult to establish, experts have warned.

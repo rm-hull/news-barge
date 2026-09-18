@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: A mysterious political firm admitted to fabricating multiple election
   polls this month
 image: null
+categories:
+- News & Politics
+- UK
 ---
 
 Locked in a competitive reelection race, Los Angeles Mayor Karen Bass declared on social media last week that a new poll was evidence that her campaign was “gaining momentum.”

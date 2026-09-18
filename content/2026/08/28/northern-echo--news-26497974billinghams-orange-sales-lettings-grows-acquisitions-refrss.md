@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: An award-winning sales and lettings agency is expanding across the North
   East after a string of acquisitions helped grow its workforce and widen its…
 image: https://www.thenorthernecho.co.uk/resources/images/21375596.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

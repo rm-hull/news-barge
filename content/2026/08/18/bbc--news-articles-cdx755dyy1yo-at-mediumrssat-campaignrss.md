@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: A number of buildings and cars are damaged in the historic city, and
   the world famous Alhambra palace has temporarily closed.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03ad/live/f4bbe260-9b32-11f1-8c41-7f62681f5885.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Travel
+- Arts & Culture
 ---
 
 Watch: Terrified pets and crushed cars as earthquake shakes Granada

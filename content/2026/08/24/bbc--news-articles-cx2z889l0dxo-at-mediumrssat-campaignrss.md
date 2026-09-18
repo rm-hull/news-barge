@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: The former skippers say it is "basic decency" for Pakistan to comply
   with a court-ordered medical assessment.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/92fd/live/5223f330-9f6f-11f1-830e-359f4d9d175a.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Imran Khan wearing a black button-up shirt and speaking into a microphone, points dramatically. Behind him are other men, and a television camera](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/92fd/live/5223f330-9f6f-11f1-830e-359f4d9d175a.jpg)

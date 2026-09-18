@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: An analysis of 160 deepfake websites reveals politicians in 22 countries
   appear on them. Nearly all of them are women.
 image: https://media.wired.com/photos/6aa7c7fafdaacea9a0311827/191:100/w_1280,c_limit/0914-100%20Politicians%20Sexual%20Deepfake.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
+- Society & Culture
 ---
 
 Almost 150 politicians across Europe have been included on harmful deepfake pornography websites over the last few years, according to new research seen by WIRED. Some of the politicians, who are overwhelmingly women, have had their likeness included in explicit videos, while others have names and photos listed in disturbing database-like entries that can link to deepfake creation tools.

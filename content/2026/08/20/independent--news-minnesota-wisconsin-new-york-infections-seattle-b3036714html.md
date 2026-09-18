@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: Minnesota health officials are warning against eating certain alfalfa
   sprouts linked to a rare outbreak involving multiple bacteria
 image: https://static.independent.co.uk/2026/08/20/22/Alfalfa_Sprouts_Outbreak_83126.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Science
+- Food & Cooking
 ---
 
 Minnesota health officials are warning consumers not to eat certain brands of alfalfa sprouts that have been tied to an unusual outbreak involving different disease-causing bacteria.

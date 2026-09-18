@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: In what appears to be a follow-up to the mighty “CasiOak,” the rugged
   Japanese watch brand is expected to release an all-new luxury homage.
 image: https://media.wired.com/photos/6a9af6d18a4288faa89a786c/191:100/w_1280,c_limit/Casio-Leaked-Top.jpg
+categories:
+- Technology & Software
+- Science
+- Lifestyle & Fashion
 ---
 
 The high-end watch world has an understandable affection for Casio. You can easily rock an iconic, brightly colored F-91W in any meeting with a luxury brand, and you'll get nods of approval. It is, after all, the watch that has graced the wrists of Barack Obama and Napoleon Dynamite.

@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: U.S. Treasury Secretary Scott Bessent wants to rally the world's largest
   economies this week
 image: https://static.independent.co.uk/2026/08/31/06/Bessent_Interview_33167.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Treasury Secretary Scott Bessent wants to rally the world’s largest economies this week at a time when the United States has disrupted the international order with aggressive tariffs on major allies and an unpopular war on Iran is keeping gas prices high for consumers.

@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Detectives have visited more than 170 properties as part of ‘extensive’
   door-to-door inquiries
 image: https://static.independent.co.uk/2026/08/24/14/33/Paul-Lafferty-and-Gary-Beaton.png?trim=0,71,0,129&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- True Crime
 ---
 
 More than 4,000 hours of CCTV footage have been seized by police officers as they investigate a double murder in Glasgow.

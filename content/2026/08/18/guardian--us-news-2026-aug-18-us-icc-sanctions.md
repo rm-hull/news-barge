@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Marco Rubio targets ICC’s Tomoko Akane and Abdoulaye Seye, who was investigating
   Israeli war crimes in Gaza
 image: https://i.guim.co.uk/img/media/0cbe1ff08a51d4068e0c1b84611c3057a08cc497/730_0_3880_3106/master/3880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=566bd0ecce2d0cc8d80d9dd9c21e5d17
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 The US has sanctioned the president of the international criminal court (ICC) and a prosecutor tasked with investigating crimes committed by Israel during its war on Gaza.

@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Discovery Museum has recorded its busiest August since the COVID-19 pandemic,
   welcoming more than 28,000 visitors.
 image: https://www.thenorthernecho.co.uk/resources/images/21439747.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Newcastle's Discovery Museum has recorded its busiest August since before the pandemic, welcoming more than 28,000 visitors.

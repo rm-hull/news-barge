@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Twenty-five years after 9/11, an American pays tribute to a stranger
   - Nick in York - whose unexpected phone call brought comfort.
 image: https://www.yorkpress.co.uk/resources/images/12982841.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 *(Image: AP photo/ Patrick Sison)*

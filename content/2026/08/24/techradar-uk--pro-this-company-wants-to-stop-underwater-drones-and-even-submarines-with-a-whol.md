@@ -8,6 +8,9 @@ scraped_at: '2026-08-25T01:48:27Z'
 published: '2026-08-24T00:00:00Z'
 description: Leveraging existing sonar tech to do more
 image: https://cdn.mos.cms.futurecdn.net/ivvRhs3HbMoNzGzktfnbHB-1024-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A render of Ultra Maritime's SSQ-125B and Sea Spear](https://cdn.mos.cms.futurecdn.net/ivvRhs3HbMoNzGzktfnbHB.png) 

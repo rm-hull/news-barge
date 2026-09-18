@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: Nigel Farage’s party is accused of taking payment from an American company
   for polling it commissioned
 image: https://static.independent.co.uk/2026/09/03/22/13/Screenshot-2026-09-03-at-23-08-02.png?trim=0,0,88,619&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Reform UK has been reported to the police over allegations it breached political donation rules by having polling paid for by an overseas company.

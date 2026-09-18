@@ -10,6 +10,10 @@ description: BBC Sport football expert Chris Sutton takes on Courteeners frontma
   Liam Fray, plus the BBC readers and AI with his predictions for the fixtures on
   the opening weekend of the new Premier League season.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d433/live/6476cc20-98ac-11f1-a7ab-8b30adf0800a.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A picture of Chris Sutton with wording next to it that says BBC Sport columnist Chris Sutton](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/87c0/live/f73a32d0-33e1-11f0-96c3-cf669419a2b0.png)

@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The yield on 30-year gilts hit its highest level since 1998, adding to
   the pressure on government spending.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b72/live/3d5d23f0-a5f9-11f1-8348-fb0cb1cd9761.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Crowds of people in suits walking to work](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/2b72/live/3d5d23f0-a5f9-11f1-8348-fb0cb1cd9761.jpg)

@@ -10,6 +10,10 @@ description: Jürgen Klopp has said Germany’s football team can help ensure �
   pride is not entrusted to the wrong people’ after a recent far-right AfD election
   victory
 image: https://i.guim.co.uk/img/media/fb02f9ce0112dc81d4cf989c741c7532c98db5ed/325_0_4514_3611/master/4514.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad2b41950c310d841678f32d10196796
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Jürgen Klopp has said Germany’s football team can help ensure “national pride is not entrusted to the wrong people” after a recent far-right AfD election victory.

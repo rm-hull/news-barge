@@ -9,6 +9,9 @@ description: Kazakhstan’s newly elected unicameral parliament has held its fir
   under a new Constitution that reshaped the country’s political system. The government
   has stepped down as required, with a new cabinet set to be formed.
 image: https://images.euronews.com/articles/stories/09/89/23/40/1200x675_cmsv2_dd6a9c47-9334-5fcd-be8c-a6170079788f-9892340.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Kazakhstan’s newly elected unicameral parliament has held its first session under a new Constitution that reshaped the country’s political system. The government has stepped down as required, with a new cabinet set to be formed.

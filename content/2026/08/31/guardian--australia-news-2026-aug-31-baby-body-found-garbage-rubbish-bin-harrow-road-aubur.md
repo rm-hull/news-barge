@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: Police urge mother to attend hospital after baby’s body discovered in
   Harrow Road in Auburn
 image: https://i.guim.co.uk/img/media/3e50f368cf71940ee7ee05b0f2a54fce54ad1c87/552_0_5523_4418/master/5523.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b2fe3f8f7d8ff69d56b65772df86440
+categories:
+- UK
+- News & Politics
+- Family & Parenting
+- Health & Fitness
 ---
 
 New South Wales police have appealed for information to find the mother of a newborn baby boy, whose body was discovered in a rubbish bin in Auburn in Sydney’s west on Monday morning.

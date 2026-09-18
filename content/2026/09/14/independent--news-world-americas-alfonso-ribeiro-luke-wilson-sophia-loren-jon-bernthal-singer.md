@@ -10,6 +10,11 @@ description: Celebrities having birthdays during the week of Sept. 20-26 include
   Funniest Home Videos” host Alfonso Ribeiro, TV personality Nicole Richie and opera
   singer Andrea Bocelli
 image: null
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
+- Music
 ---
 
 Celebrity birthdays for the week of Sept. 20-26:

@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Prospectors have come to West Pokot county in the hope a gram of the
   precious metal can change their lives.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5663/live/1c0143c0-9cb3-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Manasse Lomachar in a blue T-shirt with a cartoon pig printed on it looks at the camera but gestures behind him with his right hand. In the background, out of focus, people can be seen working among the shrubs.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5663/live/1c0143c0-9cb3-11f1-a291-b542ee92de7c.jpg)

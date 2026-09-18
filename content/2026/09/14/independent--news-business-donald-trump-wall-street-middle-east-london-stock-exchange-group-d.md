@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: US President Donald Trump attacked what he called a ‘sick conspiracy’
   against AI, rejecting calls for regulation.
 image: https://static.independent.co.uk/2026/09/14/17/f850d0b564cbbca30d36bf131174bcd9Y29udGVudHNlYXJjaGFwaSwxNzg5NDg2NDYz-2.71822084.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Stock prices in London closed mixed on Monday, with Middle East tensions, AI slowdown fears and caution ahead of a flurry of central bank meetings keeping investors on their toes.

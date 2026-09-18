@@ -8,6 +8,9 @@ scraped_at: '2026-09-12T12:09:29Z'
 published: '2026-09-12T00:00:00Z'
 description: You can collect your AI after class
 image: https://cdn.mos.cms.futurecdn.net/w3sd965PrUasEsDDhEjhBW-2100-80.png
+categories:
+- Technology & Software
+- Education & Learning
 ---
 
 ![Classroom with students at a desk looking at a teacher](https://cdn.mos.cms.futurecdn.net/w3sd965PrUasEsDDhEjhBW.png) 

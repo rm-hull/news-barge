@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Vladimir Putin made a presidential decree to take control of Nestle’s
   Russian assets, alongside those of French supermarket chain Auchan.
 image: https://static.independent.co.uk/2026/09/18/09/0ea098e11fa4b8cec55f2b6c3653a2e2Y29udGVudHNlYXJjaGFwaSwxNzg5ODA0Njk0-2.31340499.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 KitKat maker Nestle has said it is considering options after its Russian business was seized by president Vladimir Putin and placed in temporary administration.

@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: City of York Council has said it hopes the York inner ring road will
   have reopened by late Wednesday night (September 2) after damage caused during…
 image: https://www.yorkpress.co.uk/resources/images/21401288.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Kevin Glenton)*

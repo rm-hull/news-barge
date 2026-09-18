@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source
   robot you can teach new tricks with reinforcement learning.”
 image: https://techcrunch.com/wp-content/uploads/2026/08/microduck-morning.jpg?resize=1200,750
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Hugging Face unveiled the Microduck on Thursday, a cute little duck-like robot that sells for $399 — and ships before Christmas.

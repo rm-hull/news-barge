@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: The festival will return in June after taking a fallow year, but tickets
   have topped £400 for the first time.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/86ac/live/f6644600-abab-11f1-8e72-a346833ed029.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Olivia Rodrigo performs at Glastonbury](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/86ac/live/f6644600-abab-11f1-8e72-a346833ed029.jpg)

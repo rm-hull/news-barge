@@ -9,6 +9,11 @@ description: Andy Burnham has indicated he is prepared to put more investment in
   climate resilience and tackling wildfires, after the epidemic of blazes that has
   scorched Britain this summer.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE2ZWIxZDBhLWE4NmItNGMxNi1iY2FjLTM2ZWZhNjcxMzhiYjpjZWY4ZmU2Yi04OTlkLTQwZDUtOGU5YS0zMTc5ZGUzOTIwMjg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Andy Burnham considering extra funding to tackle wildfires

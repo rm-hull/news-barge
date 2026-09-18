@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: As many as half of people report working when sick. The reasons for this
   are complex, experts say.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5aa7/live/94dda4f0-ab90-11f1-aa04-efbf6a882854.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![A woman wrapped in a blanket and holding a hot drink sits at a table with a laptop on it. The table has scrunched-up tissues on it as well.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/5aa7/live/94dda4f0-ab90-11f1-aa04-efbf6a882854.jpg)

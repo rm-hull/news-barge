@@ -9,6 +9,11 @@ description: Thanks to a dwindling supply of open roles, “one-click” applica
   and the rise of artificial intelligence, it’s easier than ever to apply for a job.
   We’re all paying the price.
 image: https://media.wired.com/photos/6a84e66df285f2dc95adad96/191:100/w_1280,c_limit/Recruiters-Want-It-To-Be-Harder-To-Apply-For-a-Job-Business.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 Three years ago, Andrew Stockwell had his hiring routine down to a science.

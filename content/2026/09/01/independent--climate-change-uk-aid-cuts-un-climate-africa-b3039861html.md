@@ -9,6 +9,10 @@ description: 'Exclusive: Data from Unicef UK suggests climate risks faced by chi
   are being overlooked by UK aid – as the UN agency prepares to launch a major campaign
   calling for children to be better prioritised by the Foreign Office'
 image: https://static.independent.co.uk/2023/05/18/16/CH1751632_Sokorey_with_her_children_outside_their_tent_in_an_IDP_camp_in_Baidoa%2C_Somalia.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Aid cuts mean children around the world who are facing some of the biggest climate challenges are falling “through the cracks” of the UK’s development agenda, the UN has warned.

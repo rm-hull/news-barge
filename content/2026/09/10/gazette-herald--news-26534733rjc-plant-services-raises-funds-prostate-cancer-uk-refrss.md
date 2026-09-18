@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Church Fenton-based RJC Plant Services Ltd is supporting Prostate Cancer
   UK this month.
 image: https://www.gazetteherald.co.uk/resources/images/21429330.jpg?type=og-image&xType=0&yType=1210
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: RJC Plant Services Ltd)*

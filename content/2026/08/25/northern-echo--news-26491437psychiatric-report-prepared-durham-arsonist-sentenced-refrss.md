@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: A psychiatric report is to be prepared on a man who has admitted starting
   a fire inside a house, being reckless as to the danger caused to life and…
 image: https://www.thenorthernecho.co.uk/resources/images/21365676.jpg?type=og-image&yType=80
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
+- Arts & Culture
 ---
 
 *(Image: Durham Constabulary)*

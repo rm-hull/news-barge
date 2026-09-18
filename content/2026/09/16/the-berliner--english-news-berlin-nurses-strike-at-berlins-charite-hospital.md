@@ -9,6 +9,12 @@ description: Employees and employers are currently negotiating over an emergency
   agreement. Charité employee's have planned a two day walk-out in protest of working
   conditions
 image: https://www.the-berliner.com/wp-content/uploads/2026/09/imago0859997795h-scaled.jpg
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0859997795h-scaled.jpg)

@@ -10,6 +10,11 @@ description: Senegal's first elite boarding school for girls shows how the large
   Muslim West African nation has made progress in girls' education, but challenges
   remain
 image: https://static.independent.co.uk/2026/08/18/05/Senegal_Girls_School_23834.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
+- Society & Culture
 ---
 
 As a child, Ndeye Awa Diop was so shy she couldn't look people in the eye.

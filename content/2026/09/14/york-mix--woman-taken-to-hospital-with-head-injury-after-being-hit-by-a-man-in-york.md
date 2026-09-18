@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T20:18:28Z'
 published: '2026-09-14T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/07/police-car-north-street-york.webp
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 A woman was taken to hospital with a head injury after an incident near a York hotel.

@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: The UK is set to get new four-day weekend in 2027 and 2028 due to bank
   holiday date changes. See the full breakdown of changes.
 image: https://www.thenorthernecho.co.uk/resources/images/21389369.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 The UK will enjoy new four-day weekends in 2027 and 2028 due to bank holiday changes.

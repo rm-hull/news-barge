@@ -10,6 +10,10 @@ description: Former PM announces he will no longer represent Holborn and St Panc
   on the day his successor, Andy Burnham, is to give first Commons address as prime
   minister
 image: https://i.guim.co.uk/img/media/e54d9a51cba862ba7bf914a68ab3446b97cd23bb/458_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=517909d602b83b539540a7f9063b1991
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Keir Starmer to quit parliament, triggering byelection in north London seat – UK politics live

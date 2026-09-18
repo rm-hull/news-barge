@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Fiscal drag means more people are paying higher tax rates without necessarily
   being more well-off
 image: https://static.independent.co.uk/2025/07/21/16/iStock-508466061.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 Frozen tax thresholds and rising inflation mean pensioners could now need tens of thousands of pounds more for their retirement income compared to five years ago, new analysis has shown.

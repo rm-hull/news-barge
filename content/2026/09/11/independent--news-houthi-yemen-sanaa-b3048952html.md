@@ -9,6 +9,10 @@ description: Yemenis rally in support of the Houthi rebels as fighters march thr
   Sanaa, while daily life continues amid renewed fears of escalating conflict and
   a return to full-scale civil war. This is a photo gallery curated by AP photo editors.
 image: https://static.independent.co.uk/2026/09/11/23/APTOPIX_Mideast_Wars_Yemen_52352.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Photos show Houthi rallies, fighters and daily life inside Yemen.

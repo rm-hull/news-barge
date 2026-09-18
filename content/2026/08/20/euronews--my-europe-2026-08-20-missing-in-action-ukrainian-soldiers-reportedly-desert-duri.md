@@ -9,6 +9,10 @@ description: 'As the war in Ukraine grinds on, Ukrainian soldiers are receiving 
   training in Germany. A recent investigation by the weekly news magazine Die Zeit
   reveals that some do not return to their units after their stay in Germany. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/26/33/1200x675_cmsv2_32948648-fe77-577d-bb9b-6f7aab913532-9882633.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## As the war in Ukraine grinds on, Ukrainian soldiers are receiving military training in Germany. A recent investigation by the weekly news magazine Die Zeit reveals that some do not return to their units after their stay in Germany.

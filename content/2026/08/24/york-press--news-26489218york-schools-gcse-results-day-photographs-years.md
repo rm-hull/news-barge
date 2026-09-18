@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Can you spot yourself? Photos from GCSE results days across York and
   North Yorkshire between 2015 and 2025, capturing celebrations, pride and relief.
 image: https://www.yorkpress.co.uk/resources/images/21361970.jpg?type=og-image
+categories:
+- Local
+- York
+- Self-Improvement
 ---
 
 ## Can you spot yourself in these GCSE results day photos from 2015 to 2025?

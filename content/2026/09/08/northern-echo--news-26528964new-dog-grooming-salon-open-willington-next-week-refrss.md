@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: A new dog-grooming salon offering puppy pamper sessions and full grooms
   will open in County Durham next week.
 image: https://www.thenorthernecho.co.uk/resources/images/21421192.jpg?type=og-image&xType=0&yType=84
+categories:
+- Local
+- UK
+- News & Politics
+- Pets & Animals
+- Lifestyle & Fashion
 ---
 
 *(Image: GOOGLE MAPS)*

@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Adult chimpanzees have been observed passing tools to their younger relatives,
   helping them learn the skills needed for fishing for ants or algae
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312570747.jpg
+categories:
+- Science
+- Technology & Software
+- Education & Learning
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312570747.jpg?w=840)

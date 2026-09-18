@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Russian forces have resumed drone attacks on Ukraine’s Kyiv region, hitting
   numerous buildings and storage depots
 image: https://static.independent.co.uk/2026/08/28/11/Russia_Ukraine_War_71354.jpg?trim=0,107,0,107&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Russian forces on Friday resumed their drone barrage of Ukraine’s Kyiv region, hitting more than a dozen apartment buildings and storage depots in a second straight day of aerial attacks, officials said.

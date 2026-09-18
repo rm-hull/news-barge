@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Floyd Samba's scintillating debut stole the show at Etihad Stadium but
   also took the headlines away from another high-profile teenager in Manchester.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cc03/live/dc8e0540-b2d1-11f1-aa00-7947ea0dbeab.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Floyd Samba smiles while pointing to the badge on his Manchester City shirt](https://ichef.bbci.co.uk/ace/standard/1408/cpsprodpb/cc03/live/dc8e0540-b2d1-11f1-aa00-7947ea0dbeab.jpg)

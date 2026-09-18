@@ -9,6 +9,9 @@ published: '2026-09-12T00:00:00Z'
 description: Potholed roads are ‘devastating political advertising’ for the Victorian
   government – but Ben Carrol’s made them the focus of his campaign
 image: https://i.guim.co.uk/img/media/8978421b1eaff2d663964e9938059de9690802fa/1309_0_6520_5219/master/6520.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2b9dc34e6361d72b853f65742311362f
+categories:
+- UK
+- News & Politics
 ---
 
 At a press conference to celebrate the sold-out NFL match played at Melbourne’s MCG on Friday, the Victorian premier, Ben Carroll, was heckled on one issue.

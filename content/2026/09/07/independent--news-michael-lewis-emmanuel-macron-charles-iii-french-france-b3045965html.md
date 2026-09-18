@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: The Bayeux Tapestry goes on display at the British Museum this week,
   marking its return to British soil for the first time since the 11th century
 image: https://static.independent.co.uk/2026/09/07/13/Britain_Bayeux_Tapestry_52225.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Arts & Culture
 ---
 
 After a wait of almost 1,000 years and a journey of hundreds of miles, the Bayeux Tapestry 's big moment is here.

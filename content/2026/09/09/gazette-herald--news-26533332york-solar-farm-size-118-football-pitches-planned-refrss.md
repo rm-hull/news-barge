@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A solar farm covering an area as large as 118 football pitches could
   be coming to York.
 image: https://www.gazetteherald.co.uk/resources/images/21241027.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 ### What is the Public Notice Portal?

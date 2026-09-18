@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: The housebuilder said it was ‘mindful’ that some buyers may defer transactions
   until after the autumn Budget in October.
 image: https://static.independent.co.uk/2023/06/16/15/16152618-16c99d95-9f01-4f03-b2f3-448a768257b7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Housebuilder Berkeley Group has urged the Government to cap stamp duty for first-time buyers and downsizing homeowners in order to support property demand.

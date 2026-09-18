@@ -9,6 +9,10 @@ description: The Thirlwall Inquiry has been investigating how concerns about kil
   nurse Letby were handled - and whether any babies might have lived if action was
   taken earlier.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/81d7/live/7536f240-4ead-11f1-a4e8-2309d38aa073.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Custody image of Lucy Letby, who has long blonde hair and is wearing a red top.](https://ichef.bbci.co.uk/ace/standard/798/cpsprodpb/81d7/live/7536f240-4ead-11f1-a4e8-2309d38aa073.jpg)

@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Reports are coming in of a blockage and traffic is said to be running
   slowly on the A1079 outside Market Weighton, on the bypass.
 image: https://www.gazetteherald.co.uk/resources/images/20871741.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

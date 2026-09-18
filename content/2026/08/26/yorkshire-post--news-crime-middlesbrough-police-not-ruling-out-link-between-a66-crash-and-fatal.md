@@ -9,6 +9,13 @@ description: Police are not ruling out a possible link between a fatal house fir
   near Middlesbrough and a crash on the A66 less than two miles away that killed seven
   people.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/26/13/v2-image-production-b7dd31a5552657a5bccfa4f3227e1b95Y29udGVudHNlYXJjaGFwaSwxNzg3ODMyNzM1-2.85627742.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
+- Society & Culture
 ---
 
 # Middlesbrough: Police not ruling out link between A66 crash and fatal house fire

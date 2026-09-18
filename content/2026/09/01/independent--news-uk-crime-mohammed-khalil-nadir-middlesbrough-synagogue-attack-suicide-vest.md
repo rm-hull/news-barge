@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T13:27:55Z'
 published: '2026-09-01T00:00:00Z'
 description: Mohammed Khalil Nadir, 19, was jailed at Leeds Crown Court on Tuesday
 image: https://static.independent.co.uk/2026/09/01/12/52/Mohammaad-Khalil-NADIR-18-08-07-300x300-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A 19-year-old who researched the dummy explosive belt worn by the Manchester synagogue attacker has been jailed for nine-and-a-half years after recording a video of himself wearing a similar device, police said.

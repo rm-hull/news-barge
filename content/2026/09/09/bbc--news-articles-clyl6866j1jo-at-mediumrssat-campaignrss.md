@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: The comedian and Celebrity Traitors win big - see a full list of winners
   and nominees from the 26th edition of the awards.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c81/live/a2f86a60-abdc-11f1-ba40-a905468c0295.png
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
+- Arts & Culture
+- Film & TV
 ---
 
 ![Alan Carr accepts the 'Special Recognition' award on stage during the National Television Awards 2026 show at The O2 Arena.](https://ichef.bbci.co.uk/ace/standard/752/cpsprodpb/2c81/live/a2f86a60-abdc-11f1-ba40-a905468c0295.png)

@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Discover more about Big Tech with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/Uw8GSJb5Eg3NjgZZ3HEjd7-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/Uw8GSJb5Eg3NjgZZ3HEjd7-320-80.jpg)

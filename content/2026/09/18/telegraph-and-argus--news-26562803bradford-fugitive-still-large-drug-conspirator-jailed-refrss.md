@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Police are still hunting a Bradford drug trafficker after another key
   figure in a Covid lockdown heroin conspiracy was jailed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21473711.jpg?type=og-image&xType=0&yType=140
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 Police are still hunting a Bradford drug trafficker after another key figure in a Covid lockdown heroin conspiracy was jailed.

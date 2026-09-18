@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: A woman accused of carrying out a daytime "glassing" in the city centre
   on another woman has appeared before York Magistrates' Court.
 image: https://www.yorkpress.co.uk/resources/images/21330929.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Woman charged with 'glassing' another woman in daytime city centre street incident

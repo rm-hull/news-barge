@@ -9,6 +9,13 @@ published: '2026-08-25T00:00:00Z'
 description: Hot pizzas could be sold from a sandwich shop in Horsforth if plans are
   agreed with the city council.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21368187.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
+- Business & Entrepreneurship
 ---
 
 *(Image: Google)*

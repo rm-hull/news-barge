@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: A historic city centre building could be converted into flats and a restaurant
   if plans are approved.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21421720.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
+- Arts & Culture
 ---
 
 *(Image: Google)*

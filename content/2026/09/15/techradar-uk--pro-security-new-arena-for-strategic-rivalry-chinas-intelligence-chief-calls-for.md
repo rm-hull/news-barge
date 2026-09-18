@@ -9,6 +9,8 @@ published: '2026-09-15T00:00:00Z'
 description: AI comes with great risks which need to be managed, China's Minister
   of State Security says
 image: https://cdn.mos.cms.futurecdn.net/3xYAE75gYrzr4hTu3ssyhj-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Robotic hand interacting with a digital display showing various military equipment, defense systems, drones and cybersecurity elements and data visualization in a dark environment.](https://cdn.mos.cms.futurecdn.net/3xYAE75gYrzr4hTu3ssyhj.jpg) 

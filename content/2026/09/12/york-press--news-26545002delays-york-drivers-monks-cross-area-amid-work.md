@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Drivers are facing delays due to queuing traffic on a main road into
   York near the LNER Community Stadium.
 image: https://www.yorkpress.co.uk/resources/images/20667669.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
+- Automotive
 ---
 
 *(Image: Submitted)*

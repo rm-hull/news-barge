@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: The Market Cafe, based inside Richmond Market Hall, has been handed a
   one-star food hygiene rating following an inspection by the food standards…
 image: https://www.thenorthernecho.co.uk/resources/images/21328958.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: NORTHERN ECHO)*

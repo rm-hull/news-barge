@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: Instagram is making one of the most tedious parts of creating Reels easier.
   The company announced Tuesday in a Threads post that it’s rolling out “First
 image: https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801
+categories:
+- Technology & Software
+- Creator Economy & Marketing
 ---
 
 Instagram is making one of the most tedious parts of creating Reels easier. The company announced Tuesday in a Threads post that it’s rolling out “First Draft,” a new editing feature that automatically trims selected video clips and removes pauses, pulling together the best moments into an initial cut.

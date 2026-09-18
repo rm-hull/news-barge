@@ -8,6 +8,8 @@ published: '2026-08-24T00:00:00Z'
 description: Sandisk launches NAS-focused SSDs with 7.68TB capacity, PCIe 5.0 speeds,
   and prices reaching an eye-watering $2,199.99
 image: https://cdn.mos.cms.futurecdn.net/nUj4Dqp4raQYra3jw9e5FK-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Sandisk NAS 600 and 800](https://cdn.mos.cms.futurecdn.net/nUj4Dqp4raQYra3jw9e5FK.png) 

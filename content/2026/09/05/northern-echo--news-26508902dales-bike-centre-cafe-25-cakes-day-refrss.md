@@ -9,6 +9,12 @@ published: '2026-09-05T00:00:00Z'
 description: Dales Bike Centre's Cafe and Cakery in Swaledale serves more than 25
   varieties of homemade cake on most days alongside locally sourced meals.
 image: https://www.thenorthernecho.co.uk/resources/images/21392070.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 *(Image: TRIPADVISOR)*

@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T13:29:09Z'
 published: '2026-09-15T00:00:00Z'
 description: Video. Drone debris examined after being shot down over Lithuania
 image: https://images.euronews.com/articles/stories/09/91/44/22/1200x675_cmsv2_e3fa0907-88d4-548e-b580-913743fbef4f-9914422.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 Lithuanian Military Police secured a site near Pratkūnai on Tuesday, where debris from a drone shot down overnight was found.

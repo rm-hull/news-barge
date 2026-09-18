@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Rita Anderson recalls the stress of nearly losing funding for a community
   center in De Smet
 image: https://static.independent.co.uk/2026/08/27/19/Prairie_Town_Projects__7531.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Even though it happened more than a decade ago, Rita Anderson can still recall the worry she felt as all her hard work, planning and fundraising to build a community and event center in De Smet appeared to be fizzling out at the very last minute.

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Little Bird Made will bring its artisan markets back to Knaresborough
   and Harrogate this weekend.
 image: https://mmo.aiircdn.com/409/6a993232039aeb646c5.jpg
+categories:
+- Local
+- Harrogate
+- Lifestyle & Fashion
 ---
 
 ![](https://mmo.aiircdn.com/409/6a993232039aeb646c5.jpg) 

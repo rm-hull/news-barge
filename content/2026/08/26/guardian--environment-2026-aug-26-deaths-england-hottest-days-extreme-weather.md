@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: ONS data shows rising toll of climate crisis, with officials warning
   this summer on track to set further records
 image: https://i.guim.co.uk/img/media/80cdf450de035b42b72ff06524d44fd77f045042/0_0_4692_3754/master/4692.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=153b369b00964d4a723dee5c690b8418
+categories:
+- UK
+- News & Politics
 ---
 
 More than 40,000 extra people died on the hottest days in England between 1988 and 2025 than would be expected in normal temperatures, according to data published by the Office for National Statistics on Wednesday.

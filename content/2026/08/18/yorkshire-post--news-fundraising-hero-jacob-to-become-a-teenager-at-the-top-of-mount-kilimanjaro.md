@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: For most 13-year-olds, a trip to the cinema with friends or perhaps a
   special birthday tea is enough to celebrate becoming a teenager.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmMxNzQ3OWJmLWJhNWMtNGEzOC1hYTc0LWUyMWNiZWVhYWIyYTowN2JmNjNlNy1kZDNiLTQwMzAtYWFhNS04ZTAyOWViMWQzOTY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Comedy & Entertainment
 ---
 
 # Fundraising hero Jacob to become a teenager at the top of Mount Kilimanjaro

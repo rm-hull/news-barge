@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: UK national security advisor says Europe should be ready to endure 'real
   hardship' this winter to keep economic pressure on Moscow
 image: https://static.independent.co.uk/2026/09/13/07/2026-09-13T062751Z_1878662153_RC26INARHAZ3_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ODESA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Russian strikes killed nine people, injured dozens, and damaged residential buildings and infrastructure across Ukraine on Saturday.

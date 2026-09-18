@@ -10,6 +10,10 @@ description: Mexican authorities say at least 10 people died and another 64 were
   when pyrotechnic material exploded during a patron saint festival in a town in the
   State of Mexico
 image: https://static.independent.co.uk/2026/09/06/21/Mexico_Fireworks_Explosion_64124.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Pyrotechnic material exploded during the festival for a patron saint in a town in Mexico State, collapsing a wall, killing at least 10 people and injuring another 64, Mexican authorities said.

@@ -9,6 +9,9 @@ description: After one hour with Final Fantasy 7 Revelation, I'm in awe of what 
   Enix has achieved with the trilogy finale, I'm just hoping the brilliance isn't
   too buried by too many messy and dull side activities.
 image: https://cdn.mos.cms.futurecdn.net/gEvAresLKwVto6KR5tZRGo-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Screenshot from Final Fantasy 7 Revelation](https://cdn.mos.cms.futurecdn.net/gEvAresLKwVto6KR5tZRGo.jpg) 

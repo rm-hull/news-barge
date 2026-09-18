@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Booking.com said the "limited test" was "not a true reflection of the
   experience of millions of listings or reviews".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f10/live/ff12f590-a5f1-11f1-8348-fb0cb1cd9761.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![10 Downing Street. The black door featuring the "10" lettering and letterbox is closed, with Larry the Cat sat on the doorstep in front of it.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/6f10/live/ff12f590-a5f1-11f1-8348-fb0cb1cd9761.jpg)

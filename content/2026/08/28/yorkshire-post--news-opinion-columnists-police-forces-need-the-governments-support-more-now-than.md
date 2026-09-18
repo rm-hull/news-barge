@@ -9,6 +9,12 @@ description: The police and other emergency services need support now more than 
   before. The events in recent days across Cleveland have been a stark reminder of
   the danger that they put themselves in to selflessly protect their communities.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjgzZDBmMTU4LWIxMWEtNDE4Ni1hYjcwLTE5ZjYyZWM1N2U3NDpmODA4YzA4Yy05YjIwLTRiY2EtYWUzOC1hNzU2YTZlN2RmOTE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 # Police forces need the Government’s support more now than ever before

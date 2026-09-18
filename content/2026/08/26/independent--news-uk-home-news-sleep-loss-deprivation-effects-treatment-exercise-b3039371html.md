@@ -7,6 +7,11 @@ scraped_at: '2026-08-26T13:11:24Z'
 published: '2026-08-26T00:00:00Z'
 description: Young adults stayed awake for 30 hours to complete the research
 image: https://static.independent.co.uk/2026/08/26/8/26/iStock-680346298.jpeg?trim=0,90,0,90&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Self-Improvement
 ---
 
 A new study has found a surprising way for struggling sleepers to boost their energy levels, suggesting it may be better to hit the pavement instead of the hay.

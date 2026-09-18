@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: From the Apple Watch to global growth and services, Cook built an Apple
   for the 21st century
 image: https://cdn.mos.cms.futurecdn.net/nCagXHBsmvxDsv7W7pTFjJ-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Tim Cook](https://cdn.mos.cms.futurecdn.net/nCagXHBsmvxDsv7W7pTFjJ.jpg) 

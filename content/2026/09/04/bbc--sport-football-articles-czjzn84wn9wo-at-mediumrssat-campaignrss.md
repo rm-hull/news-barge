@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Is there any evidence that former Premier League referee Mike Dean used
   to play mini-games during matches? BBC Sport has taken a look at the evidence.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8fcb/live/89d956a0-a878-11f1-824a-0fc4c5d895ae.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 ![English referee Mike Dean gestures during the Premier League match between Chelsea and Watford](https://ichef.bbci.co.uk/ace/standard/943/cpsprodpb/8fcb/live/89d956a0-a878-11f1-824a-0fc4c5d895ae.jpg)

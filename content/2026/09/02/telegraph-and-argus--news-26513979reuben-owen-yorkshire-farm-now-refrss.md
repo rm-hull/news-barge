@@ -7,6 +7,11 @@ scraped_at: '2026-09-02T12:45:28Z'
 published: '2026-09-02T00:00:00Z'
 description: Reuben Owen has built a successful career since Our Yorkshire Farm.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21340684.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- Bradford
+- News & Politics
+- Careers & Productivity
 ---
 
 *(Image: CHANNEL4)*

@@ -9,6 +9,12 @@ description: The deal stems from a 2024 lawsuit alleging TikTok and its parent c
   ByteDance collected "vast amounts of data" on millions of users under the age of
   13.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ebfc/live/7de297d0-9da6-11f1-95ab-d3b679e2384a.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 ![A young woman holding her iPhone while showing the TikTok app.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/ebfc/live/7de297d0-9da6-11f1-95ab-d3b679e2384a.jpg)

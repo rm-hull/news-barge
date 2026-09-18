@@ -9,6 +9,13 @@ published: '2026-08-28T00:00:00Z'
 description: Newcastle Airport has added hundreds of new seats to its departure lounge
   as part of a £60m investment programme, with expanded security and…
 image: https://www.thenorthernecho.co.uk/resources/images/21384271.jpg?type=og-image&xType=0&yType=50
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Newcastle International Airport)*

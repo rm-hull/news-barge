@@ -7,6 +7,12 @@ scraped_at: '2026-09-16T13:28:11Z'
 published: '2026-09-16T00:00:00Z'
 description: A RISING orchestra is set to perform its second season of music.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21457601.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 *(Image: Google Street View)*

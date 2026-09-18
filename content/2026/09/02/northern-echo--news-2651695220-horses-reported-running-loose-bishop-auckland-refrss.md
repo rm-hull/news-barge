@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Around 20 horses were reported running loose in Bishop Auckland in the
   early hours, prompting residents to share sightings on Facebook.
 image: https://www.thenorthernecho.co.uk/resources/images/11108092.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: NORTHERN ECHO)*

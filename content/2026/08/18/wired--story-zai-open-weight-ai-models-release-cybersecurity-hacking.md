@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Z.ai’s latest AI model release could help companies secure their systems—or
   find its way into the hands of hackers.
 image: https://media.wired.com/photos/6a834e67effc1720d3a37bb8/191:100/w_1280,c_limit/ZAI-Most-Skilled-AI-Yet-Business-1044672050.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 It’s now even easier to find—and exploit—vulnerabilities in computer systems using AI.

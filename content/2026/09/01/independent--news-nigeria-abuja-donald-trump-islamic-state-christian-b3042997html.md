@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: Nigeria has confirmed the withdrawal of U.S. troops sent to help tackle
   its security crisis
 image: https://static.independent.co.uk/2026/08/06/09/Nigeria-Rescue_41129.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Nigeria on Tuesday confirmed the planned withdrawal of around 200 U.S. troops sent to help the West African country tackle its complex security crisis.

@@ -8,6 +8,10 @@ scraped_at: '2026-08-28T22:14:58Z'
 published: '2026-08-28T00:00:00Z'
 description: Around 3,800 jobs are at risk due to the closure of almost 200 restaurants
 image: https://static.independent.co.uk/2026/07/27/15/27153047-34b4446d-cf4c-4ced-9092-d5530118f60a.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Beefeater and Brewers Fayre restaurants are about to disappear from the UK, bringing job losses and uncertainty to thousands of people.

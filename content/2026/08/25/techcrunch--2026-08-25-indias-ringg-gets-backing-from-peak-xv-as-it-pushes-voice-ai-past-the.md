@@ -8,6 +8,9 @@ scraped_at: '2026-08-26T04:51:55Z'
 published: '2026-08-25T00:00:00Z'
 description: Ringg has raised $10 million from Peak XV as a part of its Series A extension.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-Siddharth-Tripathi-Utkarsh-Shukla.jpg?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 More than 76% of consumers in India prefer talking to businesses over a phone call, according to a recent study from Truecaller. Since voice is still consumers’ preferred way to communicate, that leaves a big opportunity to automate support and outreach calls using voice AI in the country. Voice AI startup Ringg, which already processes 20 million call attempts a month, is betting that volume keeps climbing over the coming months, and it just raised more money on that belief.

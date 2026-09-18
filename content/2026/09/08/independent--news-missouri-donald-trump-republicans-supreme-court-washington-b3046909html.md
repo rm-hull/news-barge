@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: The Supreme Court is rebuffing Missouri’s push to use a new congressional
   map backed by President Donald Trump in the November election
 image: https://static.independent.co.uk/2026/09/08/22/Election_2_26_Redistricting_Missouri_49795.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Supreme Court rebuffs Missouri's push to use new US House map backed by Trump in November

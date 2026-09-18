@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Father of former boxer and NRL star Anthony Mundine succumbed to a heart
   attack on Sunday
 image: https://i.guim.co.uk/img/media/c612e9d77aa19923dfe01ea5757ef27b1ff9f7de/571_344_2403_1923/master/2403.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=becfdb8208e074469d8c4d65378307ee
+categories:
+- UK
+- News & Politics
+- Sports
+- Health & Fitness
 ---
 
 Indigenous Australian boxing great Tony Mundine has died, aged 75.

@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: Just under 30 arrests were made at this year’s Leeds Festival, police
   said.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/29/6/14/01M140W3WCM4GN4VCV4RZN7YHB.jpeg?trim=0,210,0,210&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
 ---
 
 # Police reveal 29 arrests made at Leeds Festival 2026 including sexual offences

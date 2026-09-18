@@ -8,6 +8,12 @@ published: '2026-08-23T00:00:00Z'
 description: Dog Day will return to the Himalayan Garden and Sculpture Park near Ripon
   on September 6, with Positively Canine hosting a dog-friendly event…
 image: https://www.thenorthernecho.co.uk/resources/images/21356256.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Pets & Animals
+- Lifestyle & Fashion
 ---
 
 *(Image: Supplied)*

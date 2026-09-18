@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: A RUNNER is taking on an epic 870-mile challenge in memory of his late
   father to raise £100,000 for charity.
 image: https://www.yorkpress.co.uk/resources/images/21464764.jpg?type=og-image&xType=0&yType=45
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Thirsk runner takes on 870-mile challenge in memory of his late father

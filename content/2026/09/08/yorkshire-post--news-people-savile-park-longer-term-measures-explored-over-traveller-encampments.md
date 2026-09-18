@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Longer-term measures to reduce travellers’ access to a famous piece of
   Calderdale open space are being considered, says a council.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjIyMWU5NDk4LWQxMmYtNDhhOS04ZGYyLWJhYmYzZjRjZTg0YTozOGZkOGIzYy1kYWY0LTRiNjAtYTMxMC0xZmQ4N2FhMzg3YzA=.jpg?crop=3:2,smart&trim=&width=722&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Savile Park: 'Longer-term measures' explored over traveller encampments in Yorkshire park

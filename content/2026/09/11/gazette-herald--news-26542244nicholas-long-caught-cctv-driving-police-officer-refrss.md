@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: North Yorkshire Police have released CCTV footage of the incident where
   a wanted man drove his van at an officer.
 image: https://www.gazetteherald.co.uk/resources/images/21440013.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

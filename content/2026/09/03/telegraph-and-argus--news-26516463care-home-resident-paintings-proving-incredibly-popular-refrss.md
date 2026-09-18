@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: A care home resident has raised more than £100 by selling his artwork
   for the first time.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21402806.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: Herncliffe Care Home)*

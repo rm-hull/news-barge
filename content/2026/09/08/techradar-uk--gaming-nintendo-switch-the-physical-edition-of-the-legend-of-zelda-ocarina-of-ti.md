@@ -10,6 +10,9 @@ description: 'Nintendo has announced that the first run of The Legend of Zelda: 
   of Time on Nintendo Switch 2 will ship with a special textured foil packaging —
   so here''s where to preorder your copy if you want to add it to your collection.'
 image: https://cdn.mos.cms.futurecdn.net/bAkBskdD4nJ7CsehjkmrDX-1322-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![A screenshot from the Ocarina of Time remake with Ganon reaching out to grab a copy of the game's limited run physical box.](https://cdn.mos.cms.futurecdn.net/bAkBskdD4nJ7CsehjkmrDX.jpg) 

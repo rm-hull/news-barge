@@ -10,6 +10,11 @@ description: Anika Wells expected to release legislation creating a digital duty
   care in parliament this week, but Coalition argues it is ‘attempt to censor the
   internet’
 image: https://i.guim.co.uk/img/media/6d0ac88df3374cb0ef4cf8f7faa031887a3a6019/1004_891_5733_4586/master/5733.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=df44a91cfd457d4564ab7b7374d5d38a
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Labor’s plan to crack down on social media algorithms faces significant opposition in federal parliament, with the opposition leader, Angus Taylor, warning against efforts by the government to “censor” free speech online.

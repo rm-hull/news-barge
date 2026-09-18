@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Donald Trump raised the issue again with new threats to ‘review’ America’s
   stance on the Falklands
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/08/11/16/yair-bibi.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Benjamin Netanyahu’s son is facing a growing backlash after declaring his support for Argentina’s claim to the Falkland Islands and lashing out at Britain over its “hypocrisy and hostility towards Israel”.

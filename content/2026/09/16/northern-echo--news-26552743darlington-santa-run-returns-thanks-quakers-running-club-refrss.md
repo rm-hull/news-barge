@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Quakers Running Club has stepped in to save the Darlington Santa Run,
   raising funds for St Teresa’s Hospice and honouring runner Gary Read.
 image: https://www.thenorthernecho.co.uk/resources/images/21459140.jpg?type=og-image&xType=0&yType=99
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A popular Christmas fundraising event has been given a new lease of life.

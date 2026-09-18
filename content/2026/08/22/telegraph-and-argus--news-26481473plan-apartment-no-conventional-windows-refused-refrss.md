@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: A city centre flat with “no conventional windows” would provide an “oppressive”
   living standard – planners have decided.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21349038.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: T&A)*

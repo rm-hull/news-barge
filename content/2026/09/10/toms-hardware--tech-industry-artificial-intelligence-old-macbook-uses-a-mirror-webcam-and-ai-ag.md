@@ -10,6 +10,9 @@ published: '2026-09-10T00:00:00Z'
 description: Technique has specifically been employed to progress an ‘agentic Linux’
   distro called Omarchy.
 image: https://cdn.mos.cms.futurecdn.net/c3WrJMcfqqatjiW9w8iTwD-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Omarchy - agentic Linux](https://cdn.mos.cms.futurecdn.net/c3WrJMcfqqatjiW9w8iTwD.jpg) 

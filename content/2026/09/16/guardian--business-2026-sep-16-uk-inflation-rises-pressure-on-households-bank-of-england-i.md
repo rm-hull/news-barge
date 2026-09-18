@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Financial markets predict one-in-five chance of quarter-point rise in
   interest rates when Bank of England decides on Thursday
 image: https://i.guim.co.uk/img/media/86fe8e5e7f16ab5e2cd48cac6ece9082b10e7760/196_0_3727_2982/master/3727.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8c65e5fdd3effe2ce8bddb7241304db3
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 UK inflation has returned above 3% as soaring fuel and transport prices triggered by the Iran war heap renewed pressure on British households.

@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Motorists are being warned of long delays on the A1, A64 and the Bramham
   Crossroads roundabout following the end of Leeds Festival.
 image: https://www.gazetteherald.co.uk/resources/images/21391870.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 MOTORISTS are being warned of long delays following the end of Leeds Festival.

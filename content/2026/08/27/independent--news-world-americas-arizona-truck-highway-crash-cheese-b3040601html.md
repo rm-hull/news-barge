@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Semi-truck had clipped a guardrail and ended face down in a ditch off
   US-60
 image: https://static.independent.co.uk/2026/08/27/18/29/Untitled-design.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 That’s not Gouda!

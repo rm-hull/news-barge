@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: ‘There’s no win no matter what you do. Three children are dead,’ Trump
   remarked
 image: https://static.independent.co.uk/2026/09/14/08/2294613087..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Trump has indicated that he may not intervene in the Lindsay Clancy case after her attorney publicly called for a pardon.

@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: HMRC is sending 311,000 letters to people who could be missing Home Responsibilities
   Protection, with successful claims averaging £8,000 in pension…
 image: https://www.thetelegraphandargus.co.uk/resources/images/19206451.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: PA)*

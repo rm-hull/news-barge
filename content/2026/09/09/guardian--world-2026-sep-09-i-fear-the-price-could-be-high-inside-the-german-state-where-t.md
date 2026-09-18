@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: After the AfD’s landslide win in Saxony-Anhalt, people in the state capital
   share what they make of the result – and what comes next
 image: https://i.guim.co.uk/img/media/e0e67c8fd326ff0e986ef1f535a399a0fbb3649a/412_0_4115_3292/master/4115.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a8cd3c80f379133263cb0062e11beae
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Asking residents in a city where a seismic political event has just taken place ‘How do you feel?’ demands chutzpah – this struck me as I walked around Magdeburg, Germany on Monday. The night before, the far-right populist, anti-immigrant, pro-Kremlin party Alternative für Deustchland (AfD) had landslide 44% win in Saxony-Anhalt’s state elections, sending shock waves to Berlin, across Germany and way beyond. Regardless of how people in the capital voted, it felt like a bit of an affront to probe. Given the radical plans of the victors, a party classified by domestic intelligence as “rightwing extremist”, that is what I wanted to know. But from the 21-year-old Guinean-German paramedic I met at the central bus station, collecting donations for a local hospice, to the elderly couple returning to their apartment after a stroll down the Elbe river, almost everyone I met opened up to me warmly.

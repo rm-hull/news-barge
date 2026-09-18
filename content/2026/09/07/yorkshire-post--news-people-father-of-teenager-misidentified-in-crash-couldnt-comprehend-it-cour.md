@@ -9,6 +9,11 @@ description: A father who only found out his son had died three weeks after he w
   in a car crash due to a police identification error “couldn’t comprehend it” and
   feels his family has been through two deaths, an inquest has heard.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/01/08/8/00/Joshua-Johnson.jpeg?crop=3:2,smart&trim=&width=715&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Father of teenager misidentified in crash ‘couldn’t comprehend it’, court told

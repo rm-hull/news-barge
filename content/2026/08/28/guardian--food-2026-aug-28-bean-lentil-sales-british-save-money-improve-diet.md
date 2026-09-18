@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Sales of beans, lentils and soya bean derivatives on rise while Britons
   buy less real and fake meat
 image: https://i.guim.co.uk/img/media/2b1acdc405e9351633411cda940ca3de116cedc5/172_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b7b5ac55732b385e1499f91f82839df0
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 British shoppers are munching more beans, lentils, tofu and tempeh – while cutting back on real and plant-based fake meat – to save money and improve their diet.

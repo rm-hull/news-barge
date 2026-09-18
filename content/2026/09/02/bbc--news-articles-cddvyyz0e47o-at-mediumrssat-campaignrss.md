@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The iPhone maker follows rival technology giant Google in relabelling
   the Great Lake.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b1d7/live/cd35b7f0-a66a-11f1-b883-c157b282021f.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![A screenshot of Apple Maps showing Lake America](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/0e1d/live/af1fe3d0-a660-11f1-9e66-d528091f3354.jpg)

@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Police are investigating after £280 worth of stock was stolen from Boyes
   in Whitby.
 image: https://www.yorkpress.co.uk/resources/images/21420511.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: North Yorkshire Police)*

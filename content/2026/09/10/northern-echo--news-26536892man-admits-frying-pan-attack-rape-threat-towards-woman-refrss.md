@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Lewis Monaghan admitted GBH and breaching a restraining order after attacking
   a woman with a frying pan and threatening rape.
 image: https://www.thenorthernecho.co.uk/resources/images/21432849.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: CLEVELAND POLICE)*

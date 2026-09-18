@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: The president’s son defended Natalie Harp against attacks from her own
   brother, calling him ‘absolute trash’ for questioning the aide’s loyalty to Trump
 image: https://static.independent.co.uk/2026/08/19/20/2151337378..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Eric Trump became the latest member of Donald Trump’s inner circle to come to the defense of White House aide Natalie Harp Wednesday, as her close relationship with the president garners intense public interest.

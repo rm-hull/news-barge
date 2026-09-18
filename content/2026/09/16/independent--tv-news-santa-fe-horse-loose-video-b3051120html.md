@@ -13,6 +13,10 @@ description: Cowboys teamed up with police officers to chase down a runaway hors
   a quick drink of water before the parade started. “Thank you to our community members
   on the road that yielded to the horse and motorcycles.”
 image: https://cdn.jwplayer.com/v2/media/Ekf2bRwr/poster.jpg?width=720
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 ## Showing now | News

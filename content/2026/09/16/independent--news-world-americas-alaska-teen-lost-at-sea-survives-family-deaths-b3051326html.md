@@ -9,6 +9,10 @@ description: Through chattering teeth, Derek Parker Aghnaanga reportedly told re
   that his brother was still under the boat while his cousin had slipped away the
   night before
 image: https://static.independent.co.uk/2026/09/16/16/2026-09-12T084721Z_769290152_RC2KHNA7SNYM_RTRMADP_3_USA-RESCUE.JPG?trim=0,278,0,277&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A 15-year-old Alaska boy survived about 62 hours stranded atop an overturned fishing boat in the frigid Bering Sea, trying to hold onto his brother and cousin after they drowned, his family says.

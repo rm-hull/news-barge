@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: Emergency services were called to Balmer Hill in Gainford, County Durham,
   at 8.10pm on Saturday (August 29) after gunshots were fired at the home.
 image: https://www.thenorthernecho.co.uk/resources/images/21390829.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A cordon has been lifted at the scene of an "attempted murder" shooting on a County Durham street that left a man in critical condition.

@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Burnham has previously said his father did not know he had become prime
   minister due to his Alzheimer's.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/24d2/live/9384c1f0-b041-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Andy Burnham hugs his parents, Eileen and Roy, after he was selected as the Labour candidate to become the mayor of Greater Manchester in September 2026. They are standing in front of a red banner reading "Labour North West".](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/a0ea/live/9157d400-b03a-11f1-9ae0-e316eeb4632d.jpg)

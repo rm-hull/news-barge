@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: ‘To suggest that Trump surrounds himself with attractive women, yeah,
   I think he’s done that his whole life,’ Jesse Watters said
 image: https://static.independent.co.uk/2026/08/19/1/27/Screenshot-2026-08-18-at-9-04-55-PM.png?trim=0,283,0,200&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Fox News host Jesse Watters brushed off Senator Jon Ossoff’s jibe about President Donald Trump’s aide Natalie Harp, arguing that Trump himself has said “much more sleazy things.”

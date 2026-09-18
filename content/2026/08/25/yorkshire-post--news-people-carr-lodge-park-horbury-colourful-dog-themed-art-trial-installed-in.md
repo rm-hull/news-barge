@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A colourful dog-themed art trail has been unveiled in a historic Yorkshire
   park.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE5NWU3Yzk5LWM3MjItNGM3ZC05OTJjLTBlZmJmMjY4OTUyODowN2Y0ZmVhZC03NmVhLTQ5OGEtYTllNy03OTI0NmU2Mjg2YjY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Carr Lodge Park, Horbury: Colourful dog-themed art trial installed in Yorkshire park

@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Rowan Williams was the Church of England’s leading bishop for 10 years
   until 2012
 image: https://static.independent.co.uk/2026/08/19/14/43/rowan-williams-nigel-farage.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 The former Archbishop of Canterbury has accused Nigel Farage of asserting the UK’s Christianity to “channel anti-Muslim feeling”.

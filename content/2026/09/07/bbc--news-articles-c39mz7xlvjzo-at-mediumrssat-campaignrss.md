@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: The new leadership is trying to maintain both confidence and the promotion
   of economic animal spirits.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc41/live/b8f9f260-aaca-11f1-9f87-35997bdaf8f4.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Chancellor John Healey wearing a dark suit, white shirt and red tie, and making a speech](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/cc41/live/b8f9f260-aaca-11f1-9f87-35997bdaf8f4.jpg)

@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A coastal fish and chip shop and café will be demolished in a North Yorkshire
   town despite concerns about a lack of long-term plans.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjMwNWUyYTllLTNiNDctNGI4OS04NTIyLTNlZmY3YWJhZDdkMDo4ZGFjZGUwOS03MDM0LTQ1NmQtYjg1ZS1mZGMwMTQxMTFkNzU=.jpg?crop=3:2,smart&trim=&width=447&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Seafront café and kiosks to be demolished over fears building could collapse

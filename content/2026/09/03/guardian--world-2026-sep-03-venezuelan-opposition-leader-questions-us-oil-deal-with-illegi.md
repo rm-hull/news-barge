@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Opposition leader says interim government lacking democratic mandate
   to negotiate on natural resources
 image: https://i.guim.co.uk/img/media/b091a4ff63f2d342922719e84395a2f3d8de8abd/551_613_4942_3953/master/4942.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e5f4ace608311e97145c0526c75c4e49
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The Venezuelan opposition leader María Corina Machado has questioned Donald Trump’s oil deal with Venezuela’s interim government, saying the country’s natural resources do not belong to “an illegitimate regime”.

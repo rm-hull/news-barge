@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Primark announced a round of price cuts in July that it said ‘reaffirms
   its place as the home of great value fashion’.
 image: https://static.independent.co.uk/2026/09/04/13/c57e883bca3bf00a80a0980ba675609aY29udGVudHNlYXJjaGFwaSwxNzg4NjEwMzE4-2.59689574.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Investors in Primark’s owner will be hoping that efforts to renew its position as a budget retailer with a round of price cuts have helped deliver a lift to summer sales.

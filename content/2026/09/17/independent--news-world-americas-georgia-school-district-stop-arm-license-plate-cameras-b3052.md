@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: Officials estimate that drivers in the state illegally pass school buses
   over 9,000 times a day
 image: https://static.independent.co.uk/2026/09/17/19/54/GettyImages-485211876.jpeg?trim=0,42,0,41&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A Georgia school district is looking to install stop-arm cameras on school buses to dissuade drivers from illegally passing — a move that warrants a $1,000 fine in the state.

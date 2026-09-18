@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Supporting a generation of global citizens. King James I Academy believes
   that international travel provides students with an invaluable opportunity…
 image: https://www.thenorthernecho.co.uk/resources/images/21335683.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 Brought to you by

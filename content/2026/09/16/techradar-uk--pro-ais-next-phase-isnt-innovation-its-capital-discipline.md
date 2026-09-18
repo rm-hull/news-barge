@@ -7,6 +7,9 @@ scraped_at: '2026-09-16T13:27:16Z'
 published: '2026-09-16T00:00:00Z'
 description: Enterprise AI enters an era of capital discipline
 image: https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![The letters AI in a box in the middle of a vast digital room divided by beams of line](https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM.jpg) 

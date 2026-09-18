@@ -10,6 +10,9 @@ published: '2026-08-26T00:00:00Z'
 description: 4A Games has shared how the events of the Russia-Ukraine war have manifested
   in its upcoming first-person shooter, Metro 2039.
 image: https://cdn.mos.cms.futurecdn.net/tvuW3J2DYNMXjr2TjzsVQG-2560-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Metro 2039](https://cdn.mos.cms.futurecdn.net/tvuW3J2DYNMXjr2TjzsVQG.jpg) 

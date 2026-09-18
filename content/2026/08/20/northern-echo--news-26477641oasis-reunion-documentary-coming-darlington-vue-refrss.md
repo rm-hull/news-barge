@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Music fans in Darlington will be able to relive Oasis’s long-awaited
   reunion tour when the new documentary Oasis Live ’25 arrives at Vue cinema…
 image: https://www.thenorthernecho.co.uk/resources/images/21337247.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 *(Image: Simon Emmett)*

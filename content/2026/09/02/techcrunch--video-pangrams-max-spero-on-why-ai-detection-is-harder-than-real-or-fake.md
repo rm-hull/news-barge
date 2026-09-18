@@ -9,6 +9,10 @@ description: Watch as Pangram co-founder and CEO Max Spero joins the Equity podc
   to dig into the promise of AI detection tools and where to draw the line between
   AI assisted and AI generated.
 image: https://techcrunch.com/wp-content/uploads/2026/07/Pangram-founders.png?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Creator Economy & Marketing
 ---
 
 The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real.

@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: Leaders from some of the world’s least populous states are gathering
   in Palau for the Pacific Islands Forum Leaders Meeting
 image: https://static.independent.co.uk/2026/08/31/04/Palau_Pacific_Islands_Forum_42437.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 Far from New York or Davos, leaders of some of the world’s least populous states are meeting in a placid tropical archipelago with no traffic lights. The population of the summit host, Palau, was due to swell from 18,000 people to 20,000 as delegates from dozens of countries arrived at the Pacific Islands Forum Leaders Meeting.

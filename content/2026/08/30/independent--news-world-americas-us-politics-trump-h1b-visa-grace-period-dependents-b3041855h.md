@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Trump administration has repeatedly restricted access to the specialist
   visa program, a key source of new talent for the tech industry
 image: https://static.independent.co.uk/2025/08/13/15/48/iStock-1291982696.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Donald Trump’s administration is pursuing major changes to the H-1B visa program, which allows immigrants with specialized skills to legally work in the U.S.

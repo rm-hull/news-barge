@@ -7,6 +7,13 @@ scraped_at: '2026-09-04T04:22:09Z'
 published: '2026-09-04T00:00:00Z'
 description: A firm has won an award for transforming its financial operations.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21404544.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: Supplied)*

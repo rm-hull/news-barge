@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Morrisons Baby & Toddler Club members can claim a free cake with any
   hot drink for a whole week from September 7 to 13.
 image: https://www.thenorthernecho.co.uk/resources/images/21283412.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: Jam Press/Morrisons/Quadrient)*

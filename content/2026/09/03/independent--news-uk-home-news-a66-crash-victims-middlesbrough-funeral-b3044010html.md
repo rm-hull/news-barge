@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Four schools in Middlesbrough will close at lunchtime as ’large numbers
   of people’ are expected to descend on the area
 image: https://static.independent.co.uk/2026/08/25/14/01M0WJM1MPRSXD6CQV9FV7J94T.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Education & Learning
 ---
 
 Several schools will close early on Friday due to “congestion and traffic disruption” expected during the first funeral for one of five young men killed in a head-on crash on the A66.

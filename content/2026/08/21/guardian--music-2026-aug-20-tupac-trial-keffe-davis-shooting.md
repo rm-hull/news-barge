@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: The former gang leader was charged with planning the drive-by shooting
   that killed Tupac Shakur in 1996
 image: https://i.guim.co.uk/img/media/9d91f85fe67405ffdca8d911d1c431b64d2c3dd2/363_0_3567_2856/master/3567.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c71bff8bc228f3fbd3acb3e478095a51
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Jurors on Thursday heard Duane “Keffe D” Davis tell detectives in 2008 that his nephew Orlando “Baby Lane” Anderson fired the shots that killed Tupac Shakur.

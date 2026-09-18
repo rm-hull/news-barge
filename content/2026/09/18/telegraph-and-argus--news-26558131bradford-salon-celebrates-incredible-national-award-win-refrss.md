@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: A Bradford salon has been crowned Hair Team of the Year at the 2026 Nation’s
   Salon Awards
 image: https://www.thetelegraphandargus.co.uk/resources/images/21466817.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

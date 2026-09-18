@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T19:54:29Z'
 published: '2026-09-07T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/01/northern-rail-train-york.webp
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 The line between York and Scarborough is blocked this afternoon (Monday).

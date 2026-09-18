@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T21:31:45Z'
 published: '2026-08-19T00:00:00Z'
 description: Passengers booked on flights after January 5 will be able to claim refunds
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/06/19/12/2026_06_19_11_23_03_820_ASH_9C46829FFF0E4D39A5122D8F2043A858.JPG?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 # easyJet axes Leeds Bradford Airport routes from January 2027

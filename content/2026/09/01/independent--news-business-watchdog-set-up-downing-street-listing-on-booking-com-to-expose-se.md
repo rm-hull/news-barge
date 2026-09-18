@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Which? listed a property on the travel site headlined ‘1 bedroom apartment
   in the heart of London’.
 image: https://static.independent.co.uk/2026/09/02/00/2ec1d7b88de9da65290abedd5341af1fY29udGVudHNlYXJjaGFwaSwxNzg4Mzc5ODEw-2.19535338.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A consumer watchdog has said it uncovered “systemic security failures” on Booking.com after it was able to set up and accept payment for a fake listing for 10 Downing Street.

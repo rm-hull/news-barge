@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The Al-Zaraa mine is near El-Nahud in Sudan’s West Kordofan region. The
   mine began to collapse on Tuesday after tunnels were dug very close together
 image: https://images.euronews.com/articles/stories/09/91/54/14/1200x675_cmsv2_6391e97c-3444-560c-bbf5-e05839ea8332-9915414.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## The Al-Zaraa mine is near El-Nahud in Sudan’s West Kordofan region. The mine began to collapse on Tuesday after tunnels were dug very close together

@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Axios reported that the plan remains in its early stages but that it
   could set out US policy towards the Middle East for the remainder of Trump's term.
 image: https://images.euronews.com/articles/stories/09/90/26/51/1200x675_cmsv2_a0e7eeb2-e863-5181-b8f0-d640c7ea65ae-9902651.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ## Axios reported that the plan remains in its early stages but that it could set out US policy towards the Middle East for the remainder of Trump's term.

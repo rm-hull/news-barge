@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: The former 'eyesore' is intended to be cleared and landscaped, while
   longer-term plans for the wider development-corporation area continue…
 image: https://www.thenorthernecho.co.uk/resources/images/21386827.jpg?type=og-image&xType=0&yType=22
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Google Maps)*

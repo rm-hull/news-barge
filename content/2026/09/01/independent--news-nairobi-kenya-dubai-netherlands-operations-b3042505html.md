@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Kenyan aviation workers have called off a strike that paralyzed air traffic
   for two days at the main international airport in the capital Nairobi
 image: https://static.independent.co.uk/2026/09/01/07/Kenya_Airport_Strike_9_38_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Kenyan aviation workers on Tuesday called off a strike that paralyzed air traffic for two days at the main international airport in the capital Nairobi.

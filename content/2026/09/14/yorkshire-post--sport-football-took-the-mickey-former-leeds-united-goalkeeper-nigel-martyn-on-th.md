@@ -10,6 +10,11 @@ description: Nigel Martyn, 60, is the former Leeds United and England goalkeeper
   A keen cricketer and wicketkeeper, Nigel represents England Over 60s and plays for
   Scarcroft CC in Leeds. He and his wife Amanda live in Knaresborough.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjJhMGIxY2I5LWZjMTAtNGM2YS05NzkwLWIxNGJkNTFlOWRhNjo5ZjAzYzliMy0xNzkzLTQ4ZGQtYmQ0Zi0wZjBlNmU3YTAzMmI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # 'Took the mickey' - Former Leeds United goalkeeper Nigel Martyn on the Yorkshire legend who scored a hat trick against him

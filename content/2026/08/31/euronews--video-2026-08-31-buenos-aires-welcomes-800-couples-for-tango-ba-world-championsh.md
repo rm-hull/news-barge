@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Video. Tango BA brings 800 couples from 47 countries to Buenos Aires,
   with world championship finals taking place at the Teatro Gran Rex.
 image: https://images.euronews.com/articles/stories/09/89/56/29/1200x675_cmsv2_5ddccc46-6ee5-5823-938f-12e5ebc0a3b7-9895629.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 If you're a fan of 'Strictly' or 'Dancing with the Stars' you'll most likely love the dancing now on display in the Argentine capital, Buenos Aires.

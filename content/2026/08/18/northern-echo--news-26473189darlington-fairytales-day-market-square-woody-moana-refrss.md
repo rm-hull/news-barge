@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Darlington's Fairytales and Legends Day returns on August 20 with free
   character meet-and-greets, live entertainment, a town trail and family…
 image: https://www.thenorthernecho.co.uk/resources/images/21333864.jpg?type=og-image&xType=0&yType=251
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 Darlington's Market Square is preparing for a Fairytales and Legends Day this week, with a variety of free activities for all ages.

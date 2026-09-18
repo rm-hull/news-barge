@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: More than 70 healthcare professionals attended Martin House Children’s
   Hospice’s first dedicated children’s palliative care conference this week.
 image: https://mmo.aiircdn.com/409/6aacf1c6befb5868af2.jpg
+categories:
+- Local
+- Harrogate
+- Family & Parenting
 ---
 
 ![](https://mmo.aiircdn.com/409/6aacf1c6befb5868af2.jpg) 

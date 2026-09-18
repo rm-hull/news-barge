@@ -10,6 +10,10 @@ description: Parents and children in Ukraine and Russia gathered on Tuesday for 
   traditional 'Knowledge Day' celebrations, marking the fifth school year since Russia's
   invasion, but an air raid alert quickly dispersed the crowd in Kyiv.
 image: https://static.independent.co.uk/2026/09/01/17/APTOPIX_Russia_Ukraine_War_68682.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Pupils return to school in Russia and Ukraine as Kyiv students shelter from air raids, in photos

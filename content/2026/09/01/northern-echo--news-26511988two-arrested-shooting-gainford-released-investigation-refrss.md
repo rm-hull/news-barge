@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Two arrested after a man was shot in a 'murder bid' in Gainford have
   been released under investigation.
 image: https://www.thenorthernecho.co.uk/resources/images/21389852.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Two people arrested after a man was shot in a suspected attempted murder in a quiet County Durham village have been released under investigation.

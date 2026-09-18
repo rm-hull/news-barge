@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: The future of a North East veterans’ charity is set to be secured after
   work began on a major extension that will make its facilities accessible…
 image: https://www.thenorthernecho.co.uk/resources/images/21334442.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: Supplied)*

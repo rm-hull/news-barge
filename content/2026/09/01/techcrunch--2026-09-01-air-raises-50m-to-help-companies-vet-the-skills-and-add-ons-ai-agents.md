@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: AIR's platform can discover agents running at a company, continuously
   vets any skills and add-ons they use, and blocks any unwanted behavior.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Yair-Saban-and-Niv-Hoffman.-Credit-Netanel-Tobias.jpeg?resize=1200,798
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 As companies start giving AI agents access to an increasing portion of their systems, a nascent software supply chain seems to be forming around the new tooling AI agents are using: skills, plug-ins, MCP servers, and add-ons that let them interact with the internet.

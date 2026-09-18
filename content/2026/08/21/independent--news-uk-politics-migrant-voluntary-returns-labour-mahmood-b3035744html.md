@@ -9,6 +9,10 @@ description: 'Exclusive: Labour ramps up spending on the Home Office’s assiste
   returns programme by nearly 50 per cent, but the Tories said they should ramp up
   efforts to stop illegal migrants arriving in the first place'
 image: https://static.independent.co.uk/2026/08/19/07/tGGpd2QdBw7Hnf8Yj34wfR17kYT67vz5KACOX5tdP-1CVRNeXbAPN6Rks-IkhJMMlapfVacUKXEQOME48eHciqLuV_qM9ivvYF_K..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Labour has spent almost £40m on a scheme that pays migrants to return to their home country, *The Independent* can reveal.

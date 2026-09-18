@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Medical experts hope it will one day be used to help patients, especially
   older ones, track their health and well-being
 image: https://static.independent.co.uk/2026/08/27/16/28/iStock-2187449304.jpg?trim=10,0,10,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 What if there were a way to determine how well someone was aging — without focusing on their ailments or diseases?

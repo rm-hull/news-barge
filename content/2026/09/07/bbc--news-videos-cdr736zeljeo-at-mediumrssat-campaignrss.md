@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Moshiri was diagnosed in November 2024 with polycythaemia vera (PV),
   after her GP noticed irregularities in blood test results.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8078/live/9c54fb10-aaba-11f1-b5c1-2f1b72631965.jpg
+categories:
+- UK
+- News & Politics
+- Science
+- Health & Fitness
 ---
 
 # 'I have chronic cancer but I'm not going to die' - BBC presenter Maryam Moshiri

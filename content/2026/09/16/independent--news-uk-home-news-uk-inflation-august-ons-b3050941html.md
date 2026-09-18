@@ -7,6 +7,11 @@ scraped_at: '2026-09-16T13:27:23Z'
 published: '2026-09-16T00:00:00Z'
 description: Higher fuel costs have pushed up the cost of living
 image: https://static.independent.co.uk/2026/07/22/08/01KY49VDTXSXJFY5DJJ711JDF8.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The UK inflation rate rose to 3.1 per cent in the year to August, pushed up by “soaring” petrol and diesel prices.

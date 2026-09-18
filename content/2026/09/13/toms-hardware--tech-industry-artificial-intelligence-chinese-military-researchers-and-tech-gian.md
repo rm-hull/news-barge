@@ -9,6 +9,10 @@ scraped_at: '2026-09-13T13:18:48Z'
 published: '2026-09-13T00:00:00Z'
 description: Is imitation the sincerest form of flattery?
 image: https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Micron](https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH.jpg) 

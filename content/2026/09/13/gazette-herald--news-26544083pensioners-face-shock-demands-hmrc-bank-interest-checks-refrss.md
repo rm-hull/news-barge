@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: HMRC has warned that more pensioners will interact with the tax system
   as bank savings data, rising pensions and frozen tax thresholds affect their…
 image: https://www.gazetteherald.co.uk/resources/images/21325263.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Lucy North/PA Wire)*

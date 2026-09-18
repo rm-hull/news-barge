@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The BBC reports from Sano Barkhu, a village overlooking the town of Syfrubesi,
   which was destroyed by the Nepal flooding.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b153/live/dc33fd80-a51f-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 # Once a village, now barren land - BBC in valley devastated by floods

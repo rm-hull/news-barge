@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Lanterns' third episode will be here before know it — this is when and
   where you'll be able to stream it.
 image: https://cdn.mos.cms.futurecdn.net/bgV4BHGGiLdWwZJHs5VaSS-1600-80.png
+categories:
+- Technology & Software
+- Film & TV
+- Comedy & Entertainment
 ---
 
 ![Aaron Pierre's John Stewart looking at an off-camera Hal Jordan in Lanterns episode 3](https://cdn.mos.cms.futurecdn.net/bgV4BHGGiLdWwZJHs5VaSS.png) 

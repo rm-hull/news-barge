@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T19:08:41Z'
 published: '2026-09-11T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/haxby-roundabout-a1237-cyc.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 A stretch of the York Outer Ring Road will be closed to traffic for five nights later this month.

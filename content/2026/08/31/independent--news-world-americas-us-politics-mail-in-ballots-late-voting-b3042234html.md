@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: At least 12 states holding House, Senate and/or gubernatorial races saw
   more late mail-in ballots go uncounted
 image: https://static.independent.co.uk/2026/08/31/18/2278806479..?trim=20,0,20,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The rate at which mail-in ballots arrived late and went uncounted increased in last year’s general elections and this year’s primaries, according to *The New York Times*.

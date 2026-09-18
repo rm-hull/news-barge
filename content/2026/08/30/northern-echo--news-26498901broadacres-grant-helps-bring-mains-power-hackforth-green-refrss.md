@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: A housing association grant is helping to bring power to the people in
   a North Yorkshire village.
 image: https://www.thenorthernecho.co.uk/resources/images/21376550.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: Supplied)*

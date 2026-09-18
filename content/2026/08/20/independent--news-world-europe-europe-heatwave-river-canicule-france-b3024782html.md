@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T13:07:02Z'
 published: '2026-08-20T00:00:00Z'
 description: Waterways across Europe are drying up
 image: https://static.independent.co.uk/2026/07/30/15/11/before-after-rivers-hero.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Parts of Europe have been left unrecognisable by the deadly heatwaves, that caused carnage in their paths.

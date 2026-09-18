@@ -9,6 +9,13 @@ published: '2026-09-03T00:00:00Z'
 description: A University of York spokesperson has said they are hoping to reinvest
   further in the ‘student experience’ amid job losses across the…
 image: https://www.gazetteherald.co.uk/resources/images/15954458.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Careers & Productivity
+- Education & Learning
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

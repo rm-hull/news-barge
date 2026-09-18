@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Less than 4 per cent of train drivers are under 30 and a quarter of the
   current workforce will hit retirement age by 2030
 image: https://static.independent.co.uk/2026/05/21/15/2276849814..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 School leavers aged 18 are being encouraged to consider a career as a train driver, the Department for Transport (DfT) has said in a recruitment drive on GCSE results day.

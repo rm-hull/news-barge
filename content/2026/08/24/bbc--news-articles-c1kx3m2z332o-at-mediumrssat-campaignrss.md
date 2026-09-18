@@ -8,6 +8,9 @@ published: '2026-08-24T00:00:00Z'
 description: It says contest can no longer be considered neutral while a participating
   country remains involved in a large-scale military conflict.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2187/live/f8571f10-9fa7-11f1-bff6-57f1422ebb0b.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Netherlands name on stage at a previous Eurovision](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/2187/live/f8571f10-9fa7-11f1-bff6-57f1422ebb0b.jpg)

@@ -8,6 +8,9 @@ scraped_at: '2026-09-08T22:35:08Z'
 published: '2026-09-08T00:00:00Z'
 description: Follow the day’s news live
 image: https://i.guim.co.uk/img/media/95b59546b2de46174c48dfbff944d11bf1194fa4/754_428_6345_5076/master/6345.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=bc5984fbedf8a2d7f6baed0936d62b17
+categories:
+- UK
+- News & Politics
 ---
 
 Anthony Albanese confirmed on Wednesday that he was made an honorary member of the Marrickville golf club some 15 years ago, but did not say if he should have declared it. Photograph: Lukas Coch/AAP

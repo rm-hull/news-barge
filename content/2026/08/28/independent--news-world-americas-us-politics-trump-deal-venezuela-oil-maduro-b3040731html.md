@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: President Trump has said the U.S. has already collected more than $13
   billion from the sale of Venezuelan crude oil
 image: https://static.independent.co.uk/2026/08/28/00/959475940..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The U.S. is reportedly close to cementing a “massive” deal for access to Venezuelan oil fields.

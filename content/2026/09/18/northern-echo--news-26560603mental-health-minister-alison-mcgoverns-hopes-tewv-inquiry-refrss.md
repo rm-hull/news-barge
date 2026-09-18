@@ -9,6 +9,12 @@ published: '2026-09-18T00:00:00Z'
 description: Minister for Social Care and Mental Health Alison McGovern writes in
   The Northern Echo about her hopes for what the TEWV public inquiry can achieve.
 image: https://www.thenorthernecho.co.uk/resources/images/20524527.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Self-Improvement
 ---
 
 *As the TEWV public inquiry finally progresses with the appointment of a chair, Minister for Social Care and Mental Health Alison McGovern writes in The Northern Echo about her hopes for what the probe can achieve.*

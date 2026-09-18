@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Plaskett fire has swept through more than 5,900 acres in Monterey county
   and remains un-contained, says Cal Fire
 image: https://i.guim.co.uk/img/media/84de0f8699089c2e82ce99e1967dc937e939e658/245_0_3500_2800/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=97b001af8f16b9d67fe8878198f08c69
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 A fire in California’s Big Sur region doubled in size overnight, forcing the evacuation of nearby residents, in a coastal region where firefighters have battled another blaze for weeks.

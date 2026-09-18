@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: A woman remains in a critical condition after a house fire which killed
   a seven-year-old girl and her aunt.
 image: https://www.thenorthernecho.co.uk/resources/images/21374248.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- Society & Culture
 ---
 
 A woman remains in a critical condition after a house fire which killed a seven-year-old girl and her aunt.

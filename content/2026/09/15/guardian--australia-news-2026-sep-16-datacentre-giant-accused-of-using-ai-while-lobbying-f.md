@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Correspondence requests state MP Melissa Horne to lobby on NextDC’s behalf
   – but contains alleged AI-created errors
 image: https://i.guim.co.uk/img/media/7d1f21e40b64fa56bfb13250053b124814308b62/222_50_4517_3616/master/4517.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=347594ac8865b67503651ed700c9d508
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The Victorian jobs minister has accused one of Australia’s largest datacentre companies of using artificial intelligence while requesting she lobby her colleague to approve a massive expansion of its “hyperscale AI factory”.

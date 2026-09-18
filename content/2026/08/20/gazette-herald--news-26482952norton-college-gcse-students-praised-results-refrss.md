@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: YEAR 11 pupils at Norton College have been congratulated on their exam
   results.
 image: https://www.gazetteherald.co.uk/resources/images/21352159.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Education & Learning
 ---
 
 YEAR 11 pupils at Norton College have been congratulated on their exam results.

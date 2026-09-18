@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Forecasters have warned that an ‘unprecedented’ global El Niño weather
   event will cause more rain and storms in autumn and winter
 image: https://static.independent.co.uk/2026/08/13/10/00/Screenshot-2026-08-13-at-11-34-36.png?trim=4,0,5,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 The Met Office has confirmed the UK has provisionally experienced its hottest summer since records began nearly 150 years ago.

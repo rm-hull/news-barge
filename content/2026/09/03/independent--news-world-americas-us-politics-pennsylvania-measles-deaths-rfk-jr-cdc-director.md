@@ -9,6 +9,9 @@ description: The decision came after a contentious exchange on social media betw
   Kennedy, a longtime anti-vaccine activist, and Pennsylvania Governor Josh Shapiro,
   a Democrat
 image: https://static.independent.co.uk/2026/09/03/18/22/GettyImages-2289371329.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 U.S. Health Secretary Robert F. Kennedy Jr. asked his newly appointed CDC director to remove a reference to two Pennsylvania fatalities from the agency’s online measles tracker after questioning whether the virus contributed to the deaths, according to a new report.

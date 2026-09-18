@@ -10,6 +10,10 @@ description: Kimon de Greef's The Ego Trip chronicles the rise of a potent psych
   drug, from the toads that secrete it to the man who claimed it has amazing powers.
   Olivia Goldhill discovers an extraordinary tale
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307974307.jpg
+categories:
+- Science
+- Technology & Software
+- Arts & Culture
 ---
 
 ![A futuristic woman exploring bright and colorful outer space. Intergalactic journey made possible with neural network technologies](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307974307.jpg?w=840)

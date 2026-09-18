@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Surgeons aided by real-time analysis of camera footage that identified
   critical anatomy in brain to be avoided
 image: https://i.guim.co.uk/img/media/58c0a4d12df678280e418402df183a5eb40dc673/0_0_3839_3072/master/3839.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=723223a8eff28d9f3071e9e13e13fd28
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Neurosurgeons in London have performed the world’s first successful AI-assisted operation to remove a brain tumour, saving the sight of a 48-year-old man, health officials have said.

@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A stalker has been jailed after he bombarded his victim with messages
   and “ruined” her life.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21371351.jpg?type=og-image&xType=0&yType=644
+categories:
+- Local
+- Bradford
+- News & Politics
+- Self-Improvement
 ---
 
 *(Image: West Yorkshire Police)*

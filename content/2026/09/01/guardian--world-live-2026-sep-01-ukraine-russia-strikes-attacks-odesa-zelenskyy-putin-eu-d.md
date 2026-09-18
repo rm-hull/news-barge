@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Police responding to explosives reported in Turnow-Preilack, near the
   coal-fired Jänschwalde power plant
 image: https://i.guim.co.uk/img/media/be1d33aaf714b792f6519b0fc35f503aa017c6aa/480_0_3753_3004/master/3753.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=710b43e3de39cb004268f7e417008852
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 German police investigating reported explosives at Brandenburg power substation

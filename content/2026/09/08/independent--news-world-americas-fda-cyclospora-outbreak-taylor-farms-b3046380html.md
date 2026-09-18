@@ -9,6 +9,9 @@ description: 'The ongoing outbreak of cyclospora tied to iceberg lettuce has rai
   new concerns about the safety of imported produce — and underscores a worrisome
   trend: The U.S. is conducting fewer inspections to catch contaminated food'
 image: https://static.independent.co.uk/2026/08/27/22/Cyclospora_Outbreak_92942.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A nationwide Cyclospora outbreak tied to contaminated lettuce has raised food safety fears and highlighted a key trend: American regulators conduct fewer foreign inspections to catch tainted produce before it reaches consumer plates.

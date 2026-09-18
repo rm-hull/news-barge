@@ -9,6 +9,10 @@ description: A pre-game stunt involving two passenger jets flying dramatically l
   over a stadium in South Africa drew huge cheers from the crowd, but also sparked
   a major debate over safety risks
 image: https://i.guim.co.uk/img/media/0e3f920ea6bd189039a76dcfdadd0520195d6b3a/0_998_1214_970/master/1214.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=13a018a036eaaa61ff5da51ba66521b7
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 A pre-game stunt involving two passenger jets flying dramatically low over a stadium in South Africa drew huge cheers from the estimated crowd of around 56,000 people, but also sparked a major debate over safety risks.

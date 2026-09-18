@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Going back to work after a summer holiday can be tricky - here are a
   few tips to make it easier.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6542/live/43e361e0-9702-11f1-beff-6d9a50bab282.jpg
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 ![A shot of a crowded train. A man in a pinstriped suit stands next to a woman wearing a green top. A smaller woman is standing next to a red pole, next to her a man in a brown t-shirt, with sweat patches visible at his armpit.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/6542/live/43e361e0-9702-11f1-beff-6d9a50bab282.jpg)

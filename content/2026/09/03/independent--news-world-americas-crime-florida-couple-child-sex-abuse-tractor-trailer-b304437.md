@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: The children, some of whom were sexually abused, had to share a single
   bunk in the truck and were denied adequate food and medical care, according to prosecutors
 image: https://static.the-independent.com/2026/09/03/18/02/Screenshot-2026-09-03-at-1-58-44-PM.jpg?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- Health & Fitness
 ---
 
 A couple has been accused of abusing four children in their care and holding them in the cab of a tractor-trailer, described by prosecutors as a “rolling prison,” for six years

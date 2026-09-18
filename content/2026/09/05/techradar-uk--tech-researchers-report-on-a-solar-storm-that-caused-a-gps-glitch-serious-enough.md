@@ -9,6 +9,9 @@ published: '2026-09-05T00:00:00Z'
 description: The solar storm that hit Earth last November was more severe than most,
   and we need to be prepared for the next one.
 image: https://cdn.mos.cms.futurecdn.net/9Km7ky9AU7NcrTGcdP5ZTe-1920-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![A satellite in orbit around the earth](https://cdn.mos.cms.futurecdn.net/9Km7ky9AU7NcrTGcdP5ZTe.jpg) 

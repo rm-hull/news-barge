@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Teachers warn it could be increasingly difficult for classrooms to function
   during the hottest months.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8be5/live/d972b6c0-9c70-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 ![Simon King](https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/daa0/live/87edfc50-9d3e-11f1-b109-879e35c24276.png)

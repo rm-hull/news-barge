@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Artificial intelligence has been halting progress on children’s safety
   online, Ofcom bosses warned
 image: https://static.independent.co.uk/2026/05/19/15/1977635954..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Family & Parenting
 ---
 
 AI is “supercharging” the creation and sharing of child sexual abuse material online among other harms, the UK’s online regulator has said.

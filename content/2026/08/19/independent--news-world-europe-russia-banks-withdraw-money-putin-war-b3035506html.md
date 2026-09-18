@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Analysts say that Putin could seize assets if cash is needed for his
   stalling invasion
 image: https://static.independent.co.uk/2026/08/19/06/aq6fTe2ovmTDhvSfxcAWv4FfwUsfMb8-9bwDvSNJubP22NLpdzfbZdiT8GZBxmAmOUdU1mH_lEXJqj5PXrdBT9TN0KD0RpP-4ZL_..?trim=10,0,10,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Russian citizens are withdrawing billions of roubles from the country’s banks over fears that the Kremlin could seize deposits to fund the war in Ukraine.

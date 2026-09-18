@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: A new investment fund of up to £150m is proposed to support high-growth
   businesses across the North of England, including York.
 image: https://www.gazetteherald.co.uk/resources/images/21420836.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: West Yorkshire Pension Fund)*

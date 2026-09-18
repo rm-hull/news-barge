@@ -8,6 +8,10 @@ scraped_at: '2026-09-07T14:14:53Z'
 published: '2026-09-07T00:00:00Z'
 description: Gordon and Ashley navigate the fallout of *that* proposal
 image: https://cdn.mos.cms.futurecdn.net/KXKH9VDXUafrUjG6nESLT5-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Sports
 ---
 
 ![Ashley (Harriet Dyer) and Gordon (Patrick Brammall) with dog Colin in Colin From Accounts season 3](https://cdn.mos.cms.futurecdn.net/KXKH9VDXUafrUjG6nESLT5.jpg) 

@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Representative Mike Collins has been dogged by associations to white
   nationalism and antisemitism
 image: https://i.guim.co.uk/img/media/c33dfa76a63e2c81f985307378d23f9bdb008071/341_0_3392_2715/master/3392.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d063b6cc82b21ec1b733e36df355ca81
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The US senator for Georgia Jon Ossoff, a Democrat, has slammed a “disgraceful and disqualifying” report that a former staffer for his Trump-backed Republican challenger Mike Collins shared images online of a swastika and depicting himself in Ku Klux Klan robes.

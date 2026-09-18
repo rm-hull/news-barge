@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: The area’s electrical provider estimates most of its customers will have
   their power restored by Tuesday night
 image: https://static.independent.co.uk/2026/08/24/16/2291342334..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Nearly 12,000 people in northwest Indiana were still without power Monday, nearly two weeks after deadly storms wrecked the region, downing trees and power lines.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T19:17:47Z'
 published: '2026-09-03T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/city-cruises-boat.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 Can you outrun a boat?

@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: 'Exclusive: sanctions against ministers and settler groups are ‘smoke
   and mirrors cop-out’ says Omar Barghouti'
 image: https://i.guim.co.uk/img/media/0f1949c6d59f53071a1d4389128f79c6e7bef9fe/114_0_1600_1280/master/1600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b0d616853f4a990ce0235898b75db461
+categories:
+- UK
+- News & Politics
 ---
 
 Britain’s legal and ethical obligation to stop a genocide in Gaza requires it to take bigger steps than halting trade with illegal Israeli settlements or imposing further sanctions, Omar Barghouti, the co-founder of the Boycott, Divestment, Sanctions (BDS) movement has said.

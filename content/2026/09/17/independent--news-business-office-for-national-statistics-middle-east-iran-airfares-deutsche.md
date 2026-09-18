@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: The Office for National Statistics will reveal the latest rate of UK
   Consumer Prices Index inflation on Wednesday.
 image: https://static.independent.co.uk/2026/06/17/10/17101549-9e592022-3184-4cca-873d-a492e05ee3ed.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 UK inflation is set to have accelerated further last month as higher fuel costs linked to the conflict in the Middle East and more expensive electronics pushed up the cost of living.

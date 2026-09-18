@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: York Sports Village has closed its main pool and training pool after
   reporting a "technical issue"
 image: https://www.gazetteherald.co.uk/resources/images/21147404.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- News & Politics
 ---
 
 *(Image: Pixabay)*

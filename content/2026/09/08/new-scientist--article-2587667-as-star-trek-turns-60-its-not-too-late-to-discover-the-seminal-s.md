@@ -10,6 +10,10 @@ description: Whether it's the original 1966 classic or one of its many modern sp
   there's a Star Trek story for everyone. Bethan Ackerley explores how newcomers can
   get acquainted with this daunting universe
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310344392.jpg
+categories:
+- Science
+- Technology & Software
+- History
 ---
 
 ![LOS ANGELES - NOVEMBER 17: Nichelle Nichols as Uhura, DeForest Kelley as Dr. Bones McCoy,William Shatner as Captain James T. Kirk, Leonard Nimoy as Mr. Spock, unidentified actor and Walter Koenig as Chekov in the STAR TREK episode, "Journey to Babel." Season 2, episode 10 originally broadcast November 17, 1967. (Photo by CBS via Getty Images)](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310344392.jpg?w=840)

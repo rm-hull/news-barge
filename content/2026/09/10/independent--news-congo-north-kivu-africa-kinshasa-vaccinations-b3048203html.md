@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: The Ebola outbreak in eastern Congo is spreading rapidly beyond its epicenter,
   according to Africa's top health body
 image: https://static.independent.co.uk/2026/09/08/16/APTOPIX_Congo_Ebola_Burial_Teams_47169.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 The fastest-growing Ebola outbreak on record in eastern Congo is rapidly spreading beyond its epicenter, Africa’s top health body said Thursday.

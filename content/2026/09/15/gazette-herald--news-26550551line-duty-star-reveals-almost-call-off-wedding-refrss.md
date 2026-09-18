@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Craig Parkinson, who is known for his role in Line of Duty, has shared
   that he got married to his partner Katie Popperwell
 image: https://www.gazetteherald.co.uk/resources/images/21455616.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Comedy & Entertainment
 ---
 
 *(Image: BBC/YouTube)*

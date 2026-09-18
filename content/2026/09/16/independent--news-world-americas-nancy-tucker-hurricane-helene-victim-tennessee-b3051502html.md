@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Nancy Tucker, 76, disappeared along with her husband, whose body was
   recovered within a couple of days
 image: https://static.independent.co.uk/2026/09/16/20/13/GettyImages-2175342733.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
+- Health & Fitness
 ---
 
 The remains of the final missing victim in Tennessee from Hurricane Helene have been located, two years after the storm laid waste to Appalachian mountain communities with catastrophic floods.

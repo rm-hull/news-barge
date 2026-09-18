@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: Inbetweeners 3 is one of the most talked-about unrealised comedy sequels
   in British television and film.
 image: https://www.thetelegraphandargus.co.uk/resources/images/10043200.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
+- Comedy & Entertainment
 ---
 
 A teaser for Inbetweeners 3 has been released.

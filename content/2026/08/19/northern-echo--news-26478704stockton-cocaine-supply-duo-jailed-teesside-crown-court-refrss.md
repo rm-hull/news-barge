@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: Two drug dealers are behind bars for their illicit activities involving
   the supply of high-purity cocaine.
 image: https://www.thenorthernecho.co.uk/resources/images/21342656.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Two drug dealers are behind bars for their illicit activities involving the supply of high-purity cocaine.

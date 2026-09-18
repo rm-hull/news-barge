@@ -9,6 +9,10 @@ description: All the ways to watch Vuelta a Espana 2026 live streams – includi
   FREE – as Tadej Pogacar and Richard Carapaz face off in the 81st edition of the
   race.
 image: https://cdn.mos.cms.futurecdn.net/E44Dxty5whMgSgiQqRB5a9-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Travel
 ---
 
 ![Vuelta a España](https://cdn.mos.cms.futurecdn.net/E44Dxty5whMgSgiQqRB5a9.jpg) 

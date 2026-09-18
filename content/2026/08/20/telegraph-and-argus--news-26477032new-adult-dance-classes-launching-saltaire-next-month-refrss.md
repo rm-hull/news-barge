@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A DANCE school is launching a new series of weekly classes designed for
   adults of all ages and abilities in Saltaire.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21339872.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Supplied)*

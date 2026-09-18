@@ -9,6 +9,10 @@ description: ‘There was a complete failure to protect babies,’ said Lady Jus
   in her final report in an inquiry in the wake of Lucy Letby’s multiple convictions
   for murder and attempted murder of infants at the Countess of Chester Hospital
 image: https://static.independent.co.uk/2026/02/04/19/28/The_Investigation_of_Lucy_Letby_n_00_01_32_09.jpeg?trim=0,972,0,972&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 “Foolhardy”, “dishonest” and “untruthful”. Just three of the damning adjectives used by a senior judge to describe bosses at the hospital where serial killer Lucy Letby murdered seven babies.

@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The UK accuses Israel's government of turning a blind eye to the "ethnic
   cleansing" of Palestinians by settlers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3dfe/live/ef7217b0-ac7c-11f1-994b-c7df927931ed.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Trump and Netanyahu shaking hands in July at the White House](https://ichef.bbci.co.uk/ace/standard/966/cpsprodpb/3dfe/live/ef7217b0-ac7c-11f1-994b-c7df927931ed.jpg)

@@ -9,6 +9,10 @@ description: President Donald Trump is said to want to emphasize his own record 
   GOP messaging this fall, rather than focusing on individual candidates and local
   races in more targeted approach
 image: https://static.independent.co.uk/2026/08/25/00/2026-08-24T202227Z_1102145854_RC275NA3BY3Q_RTRMADP_3_USA-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 President Donald Trump intends to put himself at the front and center of this fall’s Republican midterms campaigning, despite not being on the ballot and in spite of his dire approval ratings, according to a report.

@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Pre-tax earnings slump at chef’s food and media group after one-off costs
   including for a new cookery school
 image: https://i.guim.co.uk/img/media/29f988fc17b66363595c6416135a962d045dce4d/337_131_3281_2624/master/3281.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=afe1735d5c2c5a517a3058f63a358abc
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Jamie and Jools Oliver have paid themselves a £1.7m dividend – more than 40% down on last year – after profits at their cookery and media empire almost halved.

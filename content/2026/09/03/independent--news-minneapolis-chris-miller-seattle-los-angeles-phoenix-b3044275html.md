@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Investigators were scouring the scene of the downtown Minneapolis shooting
   that left three people dead, including the suspect, and five others injured
 image: https://static.independent.co.uk/2026/09/03/16/APTOPIX_Minneapolis_Shooting__8666.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Investigators on Thursday were scouring the scene of the downtown Minneapolis shooting that left three people dead, including the suspect, and five others injured.

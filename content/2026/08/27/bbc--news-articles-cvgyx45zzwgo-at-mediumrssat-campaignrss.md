@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T22:14:26Z'
 published: '2026-08-27T00:00:00Z'
 description: The bill for clearing the dump in Oxfordshire has been covered by taxpayers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb36/live/e1cc8410-a231-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Drone footage from November 2025 captured the scale of the Kidlington tip

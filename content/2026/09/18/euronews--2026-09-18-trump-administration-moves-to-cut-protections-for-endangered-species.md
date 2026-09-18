@@ -9,6 +9,10 @@ description: Brett Hartl, the government affairs director at the Center for Biol
   Diversity, said the move "stabs at the very heart of the Endangered Species Act
   by giving federal approval to the killing of some of America’s most beloved wildlife."
 image: https://images.euronews.com/articles/stories/09/91/83/21/1200x675_cmsv2_949de695-7879-537d-98fb-045f6d86b6ec-9918321.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Brett Hartl, the government affairs director at the Center for Biological Diversity, said the move "stabs at the very heart of the Endangered Species Act by giving federal approval to the killing of some of America’s most beloved wildlife."

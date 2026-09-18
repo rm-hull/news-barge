@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: Zeshan Hamdani speaks out after push back against New York Mayor Zohran
   Mamdani, who is Muslim, attending 9/11 events.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/08b8/live/ca7d8520-ad62-11f1-9396-b3a11e82bf8d.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 # Brother of Muslim policeman killed in 9/11 'disappointed' by calls for Mamdani to sit out memorial

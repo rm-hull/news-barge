@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: Durham Police are appealing for information to find missing 16-year-old
   Zak, last seen near Prince Avenue, Bowburn, on Wednesday, September 9.
 image: https://www.thenorthernecho.co.uk/resources/images/21439931.jpg?type=og-image&xType=0&yType=23
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 *(Image: Durham Constabulary)*

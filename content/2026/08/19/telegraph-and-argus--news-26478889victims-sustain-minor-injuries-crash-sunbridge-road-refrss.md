@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: A two-car crash in Bradford left both vehicles with badly damaged front
   ends.
 image: https://www.thetelegraphandargus.co.uk/resources/images/14942344.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Elon Musk, founder of SpaceX, has emerged as a central, if controversial,
   private figure in Ukraine's defense effort
 image: https://static.independent.co.uk/2026/08/26/13/40/GettyImages-2212189919.jpg?trim=385,57,268,924&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Ukrainian President Volodymyr Zelensky has awarded Elon Musk the Order of Freedom, one of the nation's highest state honors, citing his "outstanding personal merits" in safeguarding human life and liberty while reinforcing connections between Ukraine and the United States.

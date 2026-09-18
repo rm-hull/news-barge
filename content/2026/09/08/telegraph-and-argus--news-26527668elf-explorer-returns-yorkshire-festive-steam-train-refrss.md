@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: TICKETS are now on sale for a festive railway adventure promising Christmas
   magic for the whole family
 image: https://www.thetelegraphandargus.co.uk/resources/images/21419151.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Shopping & Deals
 ---
 
 *(Image: Tom Marshall)*

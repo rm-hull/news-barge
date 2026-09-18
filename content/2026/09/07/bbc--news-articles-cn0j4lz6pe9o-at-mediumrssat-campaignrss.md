@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: The actor reveals how he approached playing James Stagg, the "chilly"
   meteorologist key to D-Day's success.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec15/live/7c3bfdd0-a798-11f1-b64a-71b1e45ff5c7.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ![Andrew Scott in a wartime shirt with a small moustache and clipped, short hair - he is on the phone on the set of the film, looking tense](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/ec15/live/7c3bfdd0-a798-11f1-b64a-71b1e45ff5c7.jpg)

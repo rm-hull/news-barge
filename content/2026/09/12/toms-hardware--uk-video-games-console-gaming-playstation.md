@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: PlayStation reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/iEPZmfxkTcaDCWyzQMRdcZ-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Jack Tretton proudly announces that the PlayStation 4 supports used games during the system's launch showcase in 2014.](https://cdn.mos.cms.futurecdn.net/iEPZmfxkTcaDCWyzQMRdcZ-320-80.jpg)

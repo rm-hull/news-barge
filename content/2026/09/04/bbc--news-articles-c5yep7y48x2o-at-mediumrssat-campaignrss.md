@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The unmanned aerial vehicle struck without warning in the heart of the
   Ukrainian capital.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1829/live/70faa890-a888-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Black smoke pours from two windows in a large government building with Ukrainian flags on the facades. Ambulances and security personnel crowd the street below.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/6455/live/4b6d29e0-a888-11f1-aed2-8d6da8d75094.jpg)

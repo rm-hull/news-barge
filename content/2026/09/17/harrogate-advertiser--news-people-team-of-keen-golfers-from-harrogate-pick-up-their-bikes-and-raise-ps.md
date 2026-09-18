@@ -10,6 +10,10 @@ description: Six Harrogate friends inspired to tackle a charity cycle to Bordeau
   in tribute to a friend's wife who passed through brain cancer have smashed their
   £40k target.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjY2Yjc2YzcyLTFlNDEtNGExMi1hNDc0LTQzOTQ5MzI0YjBkMTo4ZDFhMjVlZi02NTg0LTQzNTQtODMxYy1kZDUzZWM3OGI2ZDI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 # Team of keen golfers from Harrogate pick up their bikes and raise £41k for Yorkshire's Brain Tumour Charity

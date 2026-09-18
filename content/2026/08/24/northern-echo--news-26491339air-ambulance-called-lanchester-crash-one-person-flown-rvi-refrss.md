@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: A person was airlifted to the Royal Victoria Infirmary after a crash
   at Perth Bank in Lanchester, which saw the air ambulance called.
 image: https://www.thenorthernecho.co.uk/resources/images/21283015.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: NORTHERN ECHO)*

@@ -10,6 +10,9 @@ description: Canada is preparing retaliatory tariffs against the United States a
   relations sharply deteriorate, with President Donald Trump telling Canadian leaders
   to “fall in line” and musing about renaming Lake Ontario as “Lake America.”
 image: https://static.independent.co.uk/2026/08/25/14/Trump_87782.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Canada will announce retaliatory tariffs against the United States on Tuesday as relations sharply deteriorate, with President Donald Trump telling Canadian leaders to “fall in line” and Prime Minister Mark Carney accusing Washington of trying to subordinate Canada.

@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The Home Depot Labor Day sale goes hard on grills and tools. Here are
   our recommendations on what to buy—and what to ignore.
 image: https://media.wired.com/photos/6a9b0a92df1ff8f5f606a6e1/191:100/w_1280,c_limit/Home-Depot's-Labor-Day-Sale-Includes-BOGO-Deals-on-the-Best-Grills-and-Tools.jpg
+categories:
+- Technology & Software
+- Science
+- Home, Garden & DIY
 ---
 
 Labor Day sales are the last gasp of summer DIY season, and it almost always means steep discounts on tools and batteries—especially as retailers clear inventory space for the holidays. The Home Depot Labor Day sale goes pretty hard this year, bolstering the usual battery of BOGO deals, as well as end-of-season grill discounts.

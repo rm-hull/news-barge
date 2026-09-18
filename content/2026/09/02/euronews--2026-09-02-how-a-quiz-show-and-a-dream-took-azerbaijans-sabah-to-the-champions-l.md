@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Azerbaijan’s Sabah Football Club have unexpectedly qualified for the
   UEFA Champions League, making it one of its most historic achievements to date.
 image: https://images.euronews.com/articles/stories/09/89/28/52/1200x675_cmsv2_c3f64f87-3658-5890-be36-0d1cf20b6719-9892852.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
+- History
 ---
 
 ## Azerbaijan’s Sabah Football Club have unexpectedly qualified for the UEFA Champions League, making it one of its most historic achievements to date.

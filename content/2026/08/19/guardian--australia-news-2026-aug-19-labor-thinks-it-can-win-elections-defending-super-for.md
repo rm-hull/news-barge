@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Despite leading in the polls, Hanson is allowed to offer thought bubbles
   instead of actual policy
 image: https://i.guim.co.uk/img/media/8825e2b3393b3da5701cd5bcd9ace2e246b04d9b/420_0_5708_4569/master/5708.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4610f67652d070fc341cc37eacaf23c
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 All sides of politics are feeling the heat from Pauline Hanson.

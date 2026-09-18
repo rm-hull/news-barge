@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Conservative hopeful says Sadiq Khan has ‘lost passion for the job’ and
   Andy Burnham is ‘very anti-London’
 image: https://i.guim.co.uk/img/media/c00091cb8d020b53d6102aaf81b01a8e2acbe7bc/883_0_4416_3533/master/4416.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f81d3b89af35d2039905b85bd43daa49
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 James Cleverly has pledged to run a “classically Conservative” campaign to become the mayor of London, insisting that his victory in the capital would be a stepping stone for Kemi Badenoch to become prime minister.

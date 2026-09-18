@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: ‘Trump is married to data centers no matter what because it’s the only
   real job creator,’ a former Trump official said
 image: https://static.independent.co.uk/2026/09/02/20/2026-09-02T190113Z_1413402416_RC27BNAXTQ02_RTRMADP_3_USA-TRUMP.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A majority of Americans have concerns about data centers cropping up across the country, and the opposition among lawmakers spans party lines.

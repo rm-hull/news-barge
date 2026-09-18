@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: NSW police say a vehicle was seen driving away from the scene in Punchbowl
   in the city’s south-west
 image: https://i.guim.co.uk/img/media/ff686955800c9d37b76b190d9d6220986168e7ac/878_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a4f55cbaa18090e891c5f007bc7977d
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A man has been shot dead in the car park of a Sydney community centre in the city’s south-west.

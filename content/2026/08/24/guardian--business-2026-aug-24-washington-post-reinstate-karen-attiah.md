@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Arbitrator determined the Post improperly fired Karen Attiah, a union-protected
   employee, over social media posts
 image: https://i.guim.co.uk/img/media/4a8f4519a46a3097a4067b6c640c48a65a5f9639/499_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f20d9c6eb7f4d3da1d1c6c63aa38169d
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 An independent arbitrator has ordered the Washington Post to rehire the high-profile opinion columnist Karen Attiah, abruptly fired by the news organization last September over comments she made on social media about Charlie Kirk, the then recently slain conservative activist.

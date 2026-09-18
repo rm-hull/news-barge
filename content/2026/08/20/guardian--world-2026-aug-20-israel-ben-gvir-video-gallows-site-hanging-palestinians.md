@@ -9,6 +9,9 @@ description: Far-right minister says those convicted in military courts of terro
   offences will be executed after passing of death penalty law that does not apply
   to Jewish extremists
 image: https://i.guim.co.uk/img/media/3417d5f446a8f6c4730ccf40c42443a5bc30ee6d/0_329_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=81086cfd757ef72b5f0374c84a3fbc50
+categories:
+- UK
+- News & Politics
 ---
 
 Israel’s far-right national security minister, Itamar Ben-Gvir, has posted a gloating video of the construction of a gallows complex where Palestinians convicted of terror offences – but not Jewish extremists accused of similar crimes – will be hanged.

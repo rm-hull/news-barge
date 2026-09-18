@@ -11,6 +11,10 @@ description: People are born old in their graves and get more robust over life, 
   Story conjures a disconcerting, “backwards” world, finds science fiction columnist
   Emily H. Wilson
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309445184.jpg
+categories:
+- Science
+- Technology & Software
+- History
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309445184.jpg?w=840)

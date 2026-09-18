@@ -7,6 +7,9 @@ scraped_at: '2026-09-16T13:27:28Z'
 published: '2026-09-16T00:00:00Z'
 description: The app is the best way to read, watch, and listen to WIRED’s journalism.
 image: https://media.wired.com/photos/6aa494acdc225a8b7147e3d4/191:100/w_1280,c_limit/Topics.png
+categories:
+- Technology & Software
+- Science
 ---
 
 The new WIRED app is now available on iPhone and Android. Every day, WIRED brings you exclusive, future-looking journalism. Now there are more ways to make the most of it. Download it for free on iPhone or Android.

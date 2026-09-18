@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: One of Britain's oldest institutions "marked the beginning of a new era"
   with a relaunch featuring video art built around a…
 image: https://www.gazetteherald.co.uk/resources/images/21173769.jpg?type=og-image&xType=0&yType=1381
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 ONE of Britain's oldest institutions "marked the beginning of a new era" with a relaunch featuring video art built around a conversation with a York-born star of stage and screen.

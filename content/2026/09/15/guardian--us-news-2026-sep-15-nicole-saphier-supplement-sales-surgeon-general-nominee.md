@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Tobacco investments raise new concerns about Dr Nicole Saphier ahead
   of confirmation hearing
 image: https://i.guim.co.uk/img/media/c37fa3a506f12bc695fdb6c1feb3b25ef476b765/748_0_4219_3376/master/4219.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=82a9e5d2fcd88d88f532c4a9e5de81bf
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Donald Trump’s nominee for US surgeon general reported more than $200,000 in business income from a company she owns that sells dietary supplements, a loosely regulated industry that health and consumer advocates say raises concerns about her record and which some critics allege are akin to “snake oil”.

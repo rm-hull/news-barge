@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Police searching for a missing woman have renewed their appeal for sightings
   of her and her black car.
 image: https://www.thenorthernecho.co.uk/resources/images/21337406.jpg?type=og-image&xType=0&yType=41
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Police looking for a missing woman have released CCTV images of her leaving her home.

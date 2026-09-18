@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: She was made to complete the three-day task ‘under pressure’ without
   any training
 image: https://static.independent.co.uk/2026/09/01/11/17/mercure1-a37e68fd.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 A worker at a luxury five-star hotel has been awarded more than £200,000 after she was made to handle the company’s payroll from inside a cupboard.

@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Proposals revealed as senior personnel from OpenAI, the creator of ChatGPT,
   met with Albanese ministers
 image: https://i.guim.co.uk/img/media/404c214c82597236079d8c3857f64b0a493ba841/144_0_2953_2363/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=886bdb3d110a11418fee1dc263776d5d
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The Albanese government is considering giving AI companies access to Australian creatives’ works by default as it pursues a compromise with American tech giants.

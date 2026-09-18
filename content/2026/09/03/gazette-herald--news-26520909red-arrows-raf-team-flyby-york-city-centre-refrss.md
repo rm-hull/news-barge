@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: The Red Arrows appeared underneath the York clouds and appeared to delight
   pedestrians in the city centre, people working in the suburbs and further…
 image: https://www.gazetteherald.co.uk/resources/images/21409138.jpg?type=og-image&yType=85
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 *(Image: Paula Gore-Browne / Newsquest)*

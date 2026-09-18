@@ -9,6 +9,13 @@ published: '2026-09-07T00:00:00Z'
 description: A Bradford firm has been refused retrospective planning permission for
   new signage on a listed building.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21412745.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Arts & Culture
+- Personal Finance & Investing
 ---
 
 *(Image: T&A)*

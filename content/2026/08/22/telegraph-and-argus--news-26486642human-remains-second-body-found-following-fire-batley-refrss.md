@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: A second body has been found at the site of a devastating building fire
   in Batley as police and fire investigators continue to examine the rubble.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21017877.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Pixabay)*

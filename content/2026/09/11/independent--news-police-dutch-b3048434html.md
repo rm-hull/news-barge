@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Police say five people have died and 40 others have been injured in an
   accident involving a tour bus in eastern Switzerland
 image: https://static.independent.co.uk/2026/09/10/22/Switzerland_Bus_Accident__9896.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Police say 5 dead, 40 injured in tour bus crash in eastern Switzerland

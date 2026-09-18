@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T11:15:52Z'
 published: '2026-08-28T00:00:00Z'
 description: Haakon becomes the king at a turbulent time for Norway's monarchy.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1336/live/81184bf0-a2cb-11f1-941c-8741c1a72471.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![King Haakon in military uniform](https://ichef.bbci.co.uk/ace/standard/728/cpsprodpb/1336/live/81184bf0-a2cb-11f1-941c-8741c1a72471.jpg)

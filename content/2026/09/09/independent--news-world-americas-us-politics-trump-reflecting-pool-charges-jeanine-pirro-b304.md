@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: The president’s top federal prosecutor in DC refuses to answer questions
   about his demands to re-open vandalism case against ex-Olympian
 image: https://static.independent.co.uk/2026/09/09/22/2294342057..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Donald Trump’s top prosecutor in Washington, D.C. unloaded on a reporter who pressed her about the president’s demands to prosecute a former Olympian accused of vandalizing the Lincoln Memorial Reflecting Pool.

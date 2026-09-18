@@ -8,6 +8,10 @@ scraped_at: '2026-09-12T12:08:55Z'
 published: '2026-09-12T00:00:00Z'
 description: Canada might seem an unlikely target for a U.S. trade war
 image: https://static.independent.co.uk/2026/09/12/13/Canada_US_Trade_Carney_97611.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Canada might seem an unlikely target for a U.S. trade war.

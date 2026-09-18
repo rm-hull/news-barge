@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Civilians were killed and injured as Russia and Ukraine continued to
   attack each other with waves of drones overnight into Sunday
 image: https://static.independent.co.uk/2026/09/13/13/Russia_Ukraine_War_75371.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Civilians were killed and injured overnight as Russia and Ukraine continued to attack each other with waves of drones.

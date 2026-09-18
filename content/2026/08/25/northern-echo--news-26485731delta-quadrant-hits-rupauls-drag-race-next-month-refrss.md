@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: A drag queen from Darlington is set to appear on the new season of RuPaul’s
   Drag Race UK.
 image: https://www.thenorthernecho.co.uk/resources/images/21361408.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 Meet the Darlington drag queen ditching the boardroom for the main stage as they prepare to appear on the new season of RuPaul's Drag Race UK.

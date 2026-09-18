@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The tourist coach was carrying dozens of Dutch passengers when it overturned
   in the south-eastern Swiss Alps.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d79c/live/94f7da60-ad56-11f1-8128-99eda56e535a.png
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Emergency responders at the scene of an accident involving a travel coach in Susch in the canton of Grisons, Switzerland, 10 September 2026.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d79c/live/94f7da60-ad56-11f1-8128-99eda56e535a.png)

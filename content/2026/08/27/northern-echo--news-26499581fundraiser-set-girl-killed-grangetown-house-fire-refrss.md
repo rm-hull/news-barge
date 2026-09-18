@@ -9,6 +9,12 @@ published: '2026-08-27T00:00:00Z'
 description: A fundraiser has been launched to support the family of seven-year-old
   girl, Valentina, who died in a house fire, that also killed her auntie,…
 image: https://www.thenorthernecho.co.uk/resources/images/21377189.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
+- Arts & Culture
 ---
 
 A fundraiser has been launched to support the family of a seven-year-old girl who died in a house fire, that also killed her auntie.

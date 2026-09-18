@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Aston Villa have already sold three key players this summer, a figure
   that could potentially double by the end of the transfer window.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/10a0/live/420e09c0-9ca1-11f1-a5a0-114ca9d4a1bc.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Morgan Rogers and Youri Tielemans embrace during their time together at Aston Villa](https://ichef.bbci.co.uk/ace/standard/958/cpsprodpb/10a0/live/420e09c0-9ca1-11f1-a5a0-114ca9d4a1bc.jpg)

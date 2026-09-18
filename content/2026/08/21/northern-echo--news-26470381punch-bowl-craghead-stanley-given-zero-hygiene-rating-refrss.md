@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: The Punch Bowl, in Craghead, near Stanley, was given a zero-out-of-five
   rating following an inspection by food safety officers on July 1 this year.
 image: https://www.thenorthernecho.co.uk/resources/images/21329455.jpg?type=og-image&xType=0&yType=19
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: GOOGLE MAPS)*

@@ -10,6 +10,9 @@ description: Craig Gidney is largely unknown outside of quantum computing, but h
   in both useful quantum computers, and the end of digital privacy and security as
   we know it
 image: https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306263420.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306263420_5da1ce.jpg?w=840)

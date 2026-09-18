@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: 'Exclusive: Tan Dhesi says Argentinian threats make it more crucial than
   ever that PM increase defence spending'
 image: https://i.guim.co.uk/img/media/db9d35f059df6267e2f788a80f0be9b8d449471a/806_0_3772_3020/master/3772.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f06c584ae6546cae5afa2f03d7d5019a
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Javier Milei’s threats to the Falkland Islands make it even more important that Andy Burnham increase defence spending immediately, according to the Labour chair of the defence committee.

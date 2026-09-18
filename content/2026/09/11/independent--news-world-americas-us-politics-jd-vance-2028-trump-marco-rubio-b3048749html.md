@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: Vice President JD Vance cheered on by audience at GOP midterms convention
   as Secretary of State Marco Rubio appears to back away from White House challenge
 image: https://static.independent.co.uk/2026/09/11/16/2026-09-09T142704Z_122538413_RC2PFNAIGE4U_RTRMADP_3_USA-COLOMBIA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 As Vice President JD Vance positioned himself as President Donald Trump’s natural successor at the Republican midterms convention Thursday night, his principal rival, Secretary of State Marco Rubio, ruled himself out of the running.

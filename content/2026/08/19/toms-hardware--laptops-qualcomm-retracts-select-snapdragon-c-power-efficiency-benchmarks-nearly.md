@@ -8,6 +8,10 @@ scraped_at: '2026-08-19T21:31:36Z'
 published: '2026-08-19T00:00:00Z'
 description: The change is to "focus on the user experience" Snapdragon C delivers.
 image: https://cdn.mos.cms.futurecdn.net/aziWVitgoz33KW5PS2DfLk-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![MacBook Neo, Dell XPS 13, Acer Swift Air, Qualcomm Snapdragon C logo, all on a green background.](https://cdn.mos.cms.futurecdn.net/aziWVitgoz33KW5PS2DfLk.jpg) 

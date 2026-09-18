@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: England's charge towards a two-day victory in the final Test against
   Pakistan is only halted by rain at Edgbaston.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2eb5/live/eb3f12c0-ad34-11f1-9bc8-3509bd1a4ead.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 England in complete control against Pakistan in dominant day two

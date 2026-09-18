@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Israeli plans to build on the area east of Jerusalem - which would divide
   the occupied West Bank in two - have long been internationally condemned.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Wide view of a highway near the Israeli settlement of Maale Adumim in the area of the so-called E1 project in Jerusalem, in the occupied West Bank, taken in February 2026.](https://ichef.bbci.co.uk/ace/standard/980/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg)

@@ -8,6 +8,11 @@ scraped_at: '2026-09-01T13:29:29Z'
 published: '2026-09-01T00:00:00Z'
 description: Wingtech's 8 billion yuan lawsuit awaits trial.
 image: https://cdn.mos.cms.futurecdn.net/wwLbifAkzjh9QJrXd9XANF-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Nexperia](https://cdn.mos.cms.futurecdn.net/wwLbifAkzjh9QJrXd9XANF.jpg) 

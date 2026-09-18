@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The beer has been blessed so the York CAMRA beer festival is good to
   go when it starts today in St Lawrence Church.
 image: https://www.yorkpress.co.uk/resources/images/21460846.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## The beer is blessed, so York's beer festival is good to go!

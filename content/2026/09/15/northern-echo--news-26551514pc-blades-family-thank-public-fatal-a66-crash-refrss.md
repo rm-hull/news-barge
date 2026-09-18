@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: The family of a police officer tragically killed in the horror A66 crash
   has issued a heartfelt message thanking the public and emergency services…
 image: https://www.thenorthernecho.co.uk/resources/images/21431190.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 The family of a police officer tragically killed in the horror A66 crash has issued a heartfelt message thanking the public and emergency services for their support.

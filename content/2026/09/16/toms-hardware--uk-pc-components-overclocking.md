@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Discover more about Overclocking with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/D7aZSgz5tphrHEQWcDEtPf-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![Nvidia RTX 50-series gaming laptops](https://cdn.mos.cms.futurecdn.net/D7aZSgz5tphrHEQWcDEtPf-320-80.jpg)

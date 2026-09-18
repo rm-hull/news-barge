@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: The cost of Pip is expected to rise to more than £41 billion per year
   by 2030
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/10/24/20/6-tax-credits-pa.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Disability claimants could be given more face-to-face appointments while others receive less money in exchange for equipment such as walking aids instead, in plans to shake up the personal independent payment (Pip) system.

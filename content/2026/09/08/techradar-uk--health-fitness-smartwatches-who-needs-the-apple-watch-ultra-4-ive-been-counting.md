@@ -8,6 +8,8 @@ scraped_at: '2026-09-08T22:35:52Z'
 published: '2026-09-08T00:00:00Z'
 description: This 'dumb watch' has just enough smarts about it
 image: https://cdn.mos.cms.futurecdn.net/zoWPMrxDXSe9uxSxjhUwHi-2116-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Casio F-B100W](https://cdn.mos.cms.futurecdn.net/zoWPMrxDXSe9uxSxjhUwHi.jpg) 

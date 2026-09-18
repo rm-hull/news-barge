@@ -10,6 +10,9 @@ description: 'The protest comes as experts in Sweden have warned that the govern
   emissions from transport by 70 percent by 2030 and to achieve net-zero emissions
   by 2045. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/54/25/1200x675_cmsv2_213e321b-0cf9-56aa-8b76-bbedda67e492-9885425.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## The protest comes as experts in Sweden have warned that the government's climate policy jeopardises the country's emissions-cutting goals to reduce CO₂ emissions from transport by 70 percent by 2030 and to achieve net-zero emissions by 2045.

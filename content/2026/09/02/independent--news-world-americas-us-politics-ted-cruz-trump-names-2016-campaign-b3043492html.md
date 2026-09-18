@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: Trump hurled insults at Cruz during the 2016 Republican primaries, even
   insulting Cruz’s wife, Heidi, for her appearance
 image: https://static.independent.co.uk/2026/09/02/14/24/Screenshot-2026-09-02-at-10-15-05-AM.png?trim=4,0,5,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Texas Sen. Ted Cruz actually praised President Donald Trump for calling him“Lyin’ Ted” and slapping him with other derogatory nicknames during the 2016 presidential campaign, saying it was “political genius.”

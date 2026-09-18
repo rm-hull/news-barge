@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Police were called to Volant Media's offices after an "ignited container"
   was thrown at the site.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/22d5/live/8fb9c170-39b7-11f1-8897-e7b75af1cf66.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Police tape closes off the road. Two officers can be seen standing next to a police vehicle. The area is leafy with a pale building in the background.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/22d5/live/8fb9c170-39b7-11f1-8897-e7b75af1cf66.jpg)

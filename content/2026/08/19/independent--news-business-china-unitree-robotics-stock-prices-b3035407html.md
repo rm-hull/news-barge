@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: Unitree Robotics drew wide attention earlier this year when its G1 models
   performed backflips and martial arts at China's Spring Festival Gala
 image: https://static.independent.co.uk/2026/08/19/07/2290515702..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Shares of a Chinese company whose backflipping humanoid robots have drawn global attention rose more than sixfold on the first day of trading in Shanghai.

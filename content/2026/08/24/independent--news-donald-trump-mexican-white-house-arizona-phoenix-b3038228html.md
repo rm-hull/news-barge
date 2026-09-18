@@ -10,6 +10,11 @@ description: The U.S. is reopening a border crossing in Arizona to cattle from M
   as part of a broader effort by the Trump administration to reduce near-record-high
   beef prices
 image: https://static.independent.co.uk/2026/08/22/20/Screwworm_Beef_Prices_89323.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The U.S. plans to reopen a border crossing in Arizona to cattle from Mexico on Monday as part of a broader effort by the Trump administration to reduce record-high beef prices, though economists doubt the move will mean much to grocery store shoppers.

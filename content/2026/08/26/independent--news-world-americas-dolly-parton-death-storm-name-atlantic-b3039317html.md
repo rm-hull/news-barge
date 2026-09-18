@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T08:56:54Z'
 published: '2026-08-26T00:00:00Z'
 description: Storm systems are named by the World Meteorological Organization
 image: https://static.independent.co.uk/2026/08/26/05/29-7251be1eca1b47b38f4b135055f1a0e6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The next tropical storm that develops in the Atlantic this hurricane season will be called Dolly.

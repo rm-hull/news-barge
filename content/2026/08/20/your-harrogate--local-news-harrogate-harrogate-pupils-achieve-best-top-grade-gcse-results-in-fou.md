@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Pupils at Harrogate Ladies’ College are celebrating their best percentage
   of top GCSE grades in four years.
 image: https://mmo.aiircdn.com/409/6a86eb212d7e959d64a.jpg
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
 ---
 
 ![](https://mmo.aiircdn.com/409/6a86eb212d7e959d64a.jpg) 

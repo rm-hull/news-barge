@@ -8,6 +8,10 @@ scraped_at: '2026-09-18T12:59:22Z'
 published: '2026-09-18T00:00:00Z'
 description: Dr Muhammad Khalil’s posts have been condemned as antisemitic
 image: https://static.independent.co.uk/2026/09/18/11/1450684570..?trim=0,12,0,12&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 A senior NHS doctor has been suspended after publishing "antisemitic" posts that told Jewish people to "shove all your prophets up your stinky ass".

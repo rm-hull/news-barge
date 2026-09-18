@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The firm will compensate affected residents and businesses for damages
   in relation to the May evacuation order in Garden Grove, California.
 image: https://static.independent.co.uk/2026/08/25/08/25080155-a1257a52-45e3-4e00-ac87-2e7deaf77aec.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Melrose has revealed plans to launch a compensation programme worth up to 100 million US dollars (£73.4 million) following a chemical incident at its GKN Aerospace site in California earlier this year.

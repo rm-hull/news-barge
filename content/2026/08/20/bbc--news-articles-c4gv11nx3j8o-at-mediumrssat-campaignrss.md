@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: '"It''s very unusual... barn owls shouldn''t be 70 miles off Newcastle,"
   a wildlife rescuer says.'
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ea9/live/ede97c60-9c98-11f1-a38b-8bb91d2ef80e.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 ![A tan and white barn owl attempting to land on a man's arm while on a boat out at sea.](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/4ea9/live/ede97c60-9c98-11f1-a38b-8bb91d2ef80e.jpg)

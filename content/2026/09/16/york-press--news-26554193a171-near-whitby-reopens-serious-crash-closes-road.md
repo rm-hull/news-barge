@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: A171 near Helwath Beck, between Whitby and Scarborough, has reopened
   after a serious crash closed the road.
 image: https://www.yorkpress.co.uk/resources/images/21461366.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
+- News & Politics
 ---
 
 *(Image: (Image NORTH YORKSHIRE POLICE))*

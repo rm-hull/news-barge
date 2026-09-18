@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Luke Pollard says government will force platforms to remove content,
   after latest deadly crash involving a car driving in wrong direction
 image: https://i.guim.co.uk/img/media/d21feb36436c09780bd6f3dc9d4cf9f65c61b33b/894_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66293fbf94c13594e45794351a071b4a
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A minister has pressed social media companies to remove content from their platforms showcasing dangerous driving after a fatal collision that killed seven people in Middlesbrough.

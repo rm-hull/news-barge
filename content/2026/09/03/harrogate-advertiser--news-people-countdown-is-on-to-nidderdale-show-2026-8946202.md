@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T12:49:08Z'
 published: '2026-09-03T00:00:00Z'
 description: The countdown is on to the 2026 Nidderdale Show.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjczNDliNTEwLTc5NDktNDk1Ni1iMzViLTdhMGNjMDUyNWY4OToyYzhhNmVkMC05MmRmLTRiMTAtODI4Zi04OTc0NDVlZTA3YzA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 # Countdown is on to Nidderdale Show 2026

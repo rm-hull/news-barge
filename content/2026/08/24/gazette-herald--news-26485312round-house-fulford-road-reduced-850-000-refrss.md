@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: A uniquely designed three-bedroom home in a prime York location - located
   on the corner of Fulford Road and Grange Garth - has seen its price…
 image: https://www.gazetteherald.co.uk/resources/images/21049564.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
+- Home, Garden & DIY
 ---
 
 A UNIQUELY designed three-bedroom home in a prime York location has seen its price slashed,

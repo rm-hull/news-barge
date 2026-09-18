@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Trevor Jones, trading as Excalon, is seeking permission for the use of
   Ruddings Farm Barn as a goods vehicle operating centre.
 image: https://www.yorkpress.co.uk/resources/images/18500950.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
+- Automotive
 ---
 
 *(Image: Newsquest)*

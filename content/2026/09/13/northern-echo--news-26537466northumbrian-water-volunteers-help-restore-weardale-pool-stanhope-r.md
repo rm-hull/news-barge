@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Northumbrian Water employees have been supporting the refurbishment of
   Weardale Pool in County Durham.
 image: https://www.thenorthernecho.co.uk/resources/images/21433312.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 A team of volunteers is helping to bring a much-loved community pool back into use.

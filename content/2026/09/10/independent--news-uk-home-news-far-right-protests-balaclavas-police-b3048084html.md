@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Stronger police action is needed to deal with new tactics from far-right
   groups like Patriot Platform, Home Office says
 image: https://static.independent.co.uk/2026/09/05/11/01/Ay_audits_Youtube.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Home secretary Shabana Mahmood has told police chiefs to take stronger action against intimidating anti-migrant demonstrators in balaclavas ahead of more planned protests at the weekend.

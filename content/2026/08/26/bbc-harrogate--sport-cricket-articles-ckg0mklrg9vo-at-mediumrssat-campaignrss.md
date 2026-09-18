@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The Blaze secure their place in the One-Day Cup knockout phase in September
   as Somerset, Surrey and Lancashire also win.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2ff0/live/e656d1c0-a16e-11f1-87d4-e91caee13898.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![Somerset bowler Ellie Anderson celebrates a wicket against Durham at Taunton.](https://ichef.bbci.co.uk/ace/standard/694/cpsprodpb/2ff0/live/e656d1c0-a16e-11f1-87d4-e91caee13898.jpg)

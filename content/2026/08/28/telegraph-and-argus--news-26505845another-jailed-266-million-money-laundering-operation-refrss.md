@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: Two men have been sentenced over their involvement in a £266 million
   money-laundering operation at a Bradford “cash for gold” dealer.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21387032.jpg?type=og-image&xType=0&yType=210
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: West Yorkshire Police)*

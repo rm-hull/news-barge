@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Alice Midgley, a Bradford Grammar School student, has achieved one of
   the highest marks in the country for GCSE Art.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21355630.jpg?type=og-image&xType=0&yType=618
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Bradford Grammar School)*

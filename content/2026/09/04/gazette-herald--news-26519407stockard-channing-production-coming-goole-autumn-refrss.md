@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Krapp’s Last Tape, the acclaimed one-man play by Samuel Beckett, will
   be performed at Junction Goole later this month.
 image: https://www.gazetteherald.co.uk/resources/images/21406934.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Music
 ---
 
 A world-class theatre production directed by Hollywood star Stockard Channing is coming to Goole this autumn.

@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Plans to restrict parking in a York village have been watered down following
   objections.
 image: https://www.gazetteherald.co.uk/resources/images/21464486.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 PLANS to restrict parking in a York village have been watered down following objections.

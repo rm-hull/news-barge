@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T08:56:25Z'
 published: '2026-08-25T00:00:00Z'
 description: A traditional country show is returning for its 117th year.
 image: https://www.yorkpress.co.uk/resources/images/20983158.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 ## Traditional country show returns to North York Moors for 117th year

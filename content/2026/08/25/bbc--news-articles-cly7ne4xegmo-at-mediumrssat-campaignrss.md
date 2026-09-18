@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T13:07:44Z'
 published: '2026-08-25T00:00:00Z'
 description: Two women are also hurt and one remains in hospital in critical condition.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9269/live/bb79d600-a083-11f1-bfeb-dfb02ea642ef.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![An A road, with road markings. Trees line the road on either side side with 50mph speed limit signs either side.](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/9269/live/bb79d600-a083-11f1-bfeb-dfb02ea642ef.jpg)

@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: NFU published a report revealing the UK’s self-sufficiency had fallen
   in 10 out of 11 key commodities over the past 30 years
 image: https://static.independent.co.uk/2026/08/07/13/2288576828..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Agricultural leaders have warned that British farming has endured its most difficult summer in a generation, battered by extreme weather, escalating costs and widespread disease.

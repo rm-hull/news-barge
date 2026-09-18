@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Walmart reported another strong performance in the second quarter Thursday,
   but that was overshadowed by a more cautious outlook for the year
 image: https://static.independent.co.uk/2026/08/20/12/Walmart_Results_32673.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Walmart reported another strong performance in the second quarter Thursday, but that was overshadowed by a more cautious outlook for the year.

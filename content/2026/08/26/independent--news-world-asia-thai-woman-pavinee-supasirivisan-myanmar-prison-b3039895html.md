@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: It's not clear whether she has been formally charged with murder, or
   even whether a murder investigation is still ongoing, a lawyer said
 image: https://static.independent.co.uk/2026/06/10/18/32/GettyImages-1230922805.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Thai woman accused of killing her U.S. diplomat ex-husband has been sentenced to one year in prison for violating Myanmar's immigration laws, but she still might go to trial for murder, a lawyer familiar with her case said Wednesday.

@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Becca Bullock dedicated herself to helping others and raising money for
   charity before she was killed on Sunday
 image: https://static.independent.co.uk/2026/09/02/8/38/23543675468-93f1da1a.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 The British woman stabbed to death by a stranger in Germany has been pictured for the first time.

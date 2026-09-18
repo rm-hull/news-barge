@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Ahead of a Channel 4 documentary, Lisa Hayden-Johnson's son Matthew reflects
   on her actions.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/11f8/live/fce3df00-9bc9-11f1-98c6-93bfcdb08681.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![A family of a man, woman and two children, a young girl and boy. The boy is wearing a red top and has a tube which goes into his nose. Chris, Matthew, Laura and Lisa Hayden-Johnson](https://ichef.bbci.co.uk/ace/standard/720/cpsprodpb/11f8/live/fce3df00-9bc9-11f1-98c6-93bfcdb08681.jpg)

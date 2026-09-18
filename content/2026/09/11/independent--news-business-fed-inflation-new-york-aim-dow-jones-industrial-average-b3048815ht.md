@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T19:09:54Z'
 published: '2026-09-11T00:00:00Z'
 description: In London, the FTSE 100 index ended up 41.52 points, 0.4%, at 10,650.44.
 image: https://static.independent.co.uk/2026/09/11/17/42db1e0b38ffd80d54203a690e2f0d6bY29udGVudHNlYXJjaGFwaSwxNzg5MjE3MjYy-2.83117730.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Stock prices in London closed in the green on Friday, with equities in New York bursting higher, even after a US inflation report may have cemented a Federal Reserve rate hike next week.

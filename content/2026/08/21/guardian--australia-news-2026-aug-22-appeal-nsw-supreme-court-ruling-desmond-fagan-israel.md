@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: Attorney general considering appeal after justice Desmond Fagan knocks
   back terror order request for Mohommed Farhat who wrote ‘Fuk Israel’ on cars
 image: https://i.guim.co.uk/img/media/b700dbfc23550bc95e1959cc15c1929dc3665b79/97_0_1800_1440/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69b4d25571d6766a94ec3e8c547a41fe
+categories:
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 The New South Wales government could appeal a supreme court judge’s controversial decision to refuse its request for a terror order over a Sydney man convicted of writing “Fuk Israel” on cars and setting another vehicle alight in late 2024.

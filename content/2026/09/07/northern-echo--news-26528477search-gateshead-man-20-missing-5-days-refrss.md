@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Concern grows for a young man who has been missing for over five days
   after being last seen in Newcastle.
 image: https://www.thenorthernecho.co.uk/resources/images/21420682.jpg?type=og-image&xType=0&yType=78
+categories:
+- Local
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 *(Image: Northumbria Police)*

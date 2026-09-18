@@ -8,6 +8,8 @@ published: '2026-09-11T00:00:00Z'
 description: The MQ-25 will get new RF and encryption hardware, even though the Navy's
   reporting does not indicate it has EW capabilities
 image: https://cdn.mos.cms.futurecdn.net/PhETZVNkg2CPJJhWpcrHoL-1200-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![US Navy MQ-25A Stingray](https://cdn.mos.cms.futurecdn.net/PhETZVNkg2CPJJhWpcrHoL.jpg) 

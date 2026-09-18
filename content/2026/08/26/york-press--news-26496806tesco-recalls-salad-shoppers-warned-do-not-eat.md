@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The UK supermarket chain has recalled its Tesco Finest Mozzarella Pearls
   & Pesto Orzo Salad (215g).
 image: https://www.yorkpress.co.uk/resources/images/20849372.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 *(Image: Getty Images)*

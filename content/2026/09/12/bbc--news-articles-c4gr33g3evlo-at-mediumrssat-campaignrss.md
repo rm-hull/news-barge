@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Dayana Yastremska says her flat took a "direct hit" by a Russian missile
   in Odesa, and all that left was her Roland Garros towel.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b616/live/52d9fcb0-aed9-11f1-91ea-91f4a2a08fa4.png
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 ![A fire burns at top floors of a multi-storey residential building in Odesa, southern Ukraine, following a Russian aerial attack. Photo: 12 September 2026.](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/b616/live/52d9fcb0-aed9-11f1-91ea-91f4a2a08fa4.png)

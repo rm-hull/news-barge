@@ -9,6 +9,10 @@ description: 'Spain''s Economy Minister said the aid package represents a ''shoc
   response'' designed to meet the demands of social organisations and the city government.
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/70/91/1200x675_cmsv2_962b9b89-efb9-511e-b0b6-195686d77f5d-9897091.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## Spain's Economy Minister said the aid package represents a 'shock response' designed to meet the demands of social organisations and the city government.

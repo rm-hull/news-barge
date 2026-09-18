@@ -9,6 +9,10 @@ description: Texas Republican senator said to be weighing up White House bid, al
   allies of Vice President JD Vance have said they see no ‘serious threat’ from his
   would-be candidacy
 image: https://static.independent.co.uk/2026/09/03/11/2292110855..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Texas Republican Sen. Ted Cruz has reportedly begun sounding out potential staffers to work on his 2028 presidential campaign as the GOP starts squaring up to the prospect of a post-Donald Trump future.

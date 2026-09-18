@@ -9,6 +9,9 @@ description: '"These price changes allow Peacock to continue to create the best 
   for its viewers, remain competitive in the marketplace, and deliver unique content
   across all genres," the company wrote on a support page.'
 image: https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2205537583.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Peacock is the latest streaming service to raise prices, with its cheapest ad-supported “Select” plan increasing from $7.99 to $8.99 per month. The ad-supported “Premium” tier now costs $12.99 per month, up from $10.99, while the ad-free “Premium Plus” plan is increasing from $16.99 to $19.99 per month.

@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Giving mice a byproduct produced by gut bacteria reduced their risk of
   severe brain damage and cognitive difficulties after a traumatic brain injury
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308666026.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308666026.jpg?w=840)

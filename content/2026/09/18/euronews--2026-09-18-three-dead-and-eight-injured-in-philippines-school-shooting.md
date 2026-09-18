@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Officials say the teenager had warned friends after lunch that he was
   “going to do something” and told them to go home, but they thought he was joking.
 image: https://images.euronews.com/articles/stories/09/91/93/47/1200x675_cmsv2_98c8928d-e8df-5443-90fe-c8ecbe8d9b9f-9919347.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 ## Officials say the teenager had warned friends after lunch that he was “going to do something” and told them to go home, but they thought he was joking.

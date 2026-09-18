@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: Ten years after the launch of Berlin's school construction initiative,
   the Berlin Senate has given the program a positive assessment.
 image: https://www.berlin.de/binaries/asset/image_assets/10609216/ratio_4_3/1788353849/800x600/
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Education & Learning
+- Society & Culture
 ---
 
 © dpa

@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: A vital new road in North Yorkshire has today opened to traffic in a
   move that has been heralded as key for generations to come using one of the most
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/Kex-Gill-A59-new-road.webp
+categories:
+- Local
+- Harrogate
+- Automotive
+- Technology & Software
+- Travel
 ---
 
 A vital new road in North Yorkshire has today opened to traffic in a move that has been heralded as key for generations to come using one of the most strategic routes in the country.

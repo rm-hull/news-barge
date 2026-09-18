@@ -9,6 +9,11 @@ scraped_at: '2026-08-20T16:47:50Z'
 published: '2026-08-20T00:00:00Z'
 description: This could avert strikes
 image: https://cdn.mos.cms.futurecdn.net/9ohrPiR5R3bg9CdudYBDjE-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![SK hynix Cheongju](https://cdn.mos.cms.futurecdn.net/9ohrPiR5R3bg9CdudYBDjE.jpg) 

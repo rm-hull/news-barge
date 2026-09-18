@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: President Donald Trump continues to glory in makeover of the executive
   mansion rather than concentrate on midterms, ending the Iran war or taming inflation
 image: https://static.independent.co.uk/2026/09/14/09/2294213177..?trim=1,0,2,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 President Donald Trump has said the White House was a “dump” before he began renovating it, having been neglected by his predecessors, and boasted that it is “now in better shape than when built in 1792”.

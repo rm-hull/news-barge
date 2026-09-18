@@ -8,6 +8,9 @@ published: '2026-09-07T00:00:00Z'
 description: The science curriculum the industry is offering to schools casts plastics
   as safe, recyclable, and a source of good jobs. Critics say it’s propaganda.
 image: https://media.wired.com/photos/6a9953fe35fd9ea6d6a8e832/191:100/w_1280,c_limit/GettyImages-1998844554.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 *This story originally appeared on Grist and is part of the Climate Desk collaboration.*

@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: A football tournament is giving people affected by homelessness the chance
   to shine on the pitch.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21453753.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 *(Image: Peter Powell)*

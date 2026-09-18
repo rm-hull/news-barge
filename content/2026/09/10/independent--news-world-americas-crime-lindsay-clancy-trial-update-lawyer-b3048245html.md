@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Prosecutors have yet to say whether they'll retry the 36-year-old former
   labor and delivery nurse after her mistrial
 image: https://static.the-independent.com/2026/09/04/21/2026-09-04T192558Z_1752530033_RC2JCNADUO37_RTRMADP_3_MASSACHUSETTS-CRIME-CLANCY.JPG?trim=96,0,96,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Lindsay Clancy’s defense attorney has asked a judge to acquit her, arguing she shouldn’t be tried a second time for killing her three young children because prosecutors don’t have enough evidence.

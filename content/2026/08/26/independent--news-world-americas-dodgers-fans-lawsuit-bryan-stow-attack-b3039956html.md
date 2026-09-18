@@ -9,6 +9,10 @@ description: Luis Ortiz and Joanna Maria Iniguez allege in a lawsuit that securi
   guards removed them from the stadium after they objected to how two other fans who
   ran onto the field were treated
 image: https://static.independent.co.uk/2026/08/26/21/2026-08-23T024952Z_1451076751_MT1USATODAY29647293_RTRMADP_3_MLB-PITTSBURGH-PIRATES-AT-LOS-ANGELES-DO.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Two Dodgers fans who say they were subjected to excessive force and wrongly ejected from Dodger Stadium in 2024 are asking a judge to let them tell jurors about the 2011 parking lot attack on San Francisco Giants fan Bryan Stow.

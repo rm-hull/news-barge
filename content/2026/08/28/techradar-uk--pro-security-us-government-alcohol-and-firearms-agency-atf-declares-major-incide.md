@@ -8,6 +8,9 @@ scraped_at: '2026-08-28T22:15:35Z'
 published: '2026-08-28T00:00:00Z'
 description: Qilin adds ATF and others to its data leak site
 image: https://cdn.mos.cms.futurecdn.net/BsnMKVyyNGEZMWVUsFD6vn-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Proactive Cybersecurity Service That Neutralizes Threats Within a Digital Network - Conceptual Illustration](https://cdn.mos.cms.futurecdn.net/BsnMKVyyNGEZMWVUsFD6vn.jpg) 

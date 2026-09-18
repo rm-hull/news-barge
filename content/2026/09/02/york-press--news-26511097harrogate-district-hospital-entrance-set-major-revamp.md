@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: A major redevelopment will begin and is set to transform the main entrance
   of Harrogate District Hospital.
 image: https://www.yorkpress.co.uk/resources/images/21395340.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Major redevelopment to transform entrance at Harrogate District Hospital begins

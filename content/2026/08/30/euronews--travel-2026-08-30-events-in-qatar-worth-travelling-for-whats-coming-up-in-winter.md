@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: From music concerts and motorsport to cultural festivals and design exhibitions,
   here’s what’s on the Qatar calendar this autumn and winter.
 image: https://images.euronews.com/articles/stories/09/88/98/56/1200x675_cmsv2_e1b14686-f0ee-57b7-9b0d-82c5f0285296-9889856.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 **Maya Abu Hajleh**

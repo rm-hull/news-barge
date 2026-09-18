@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: Four Lloyds and Halifax bank branches across the North East are set to
   close in 2026. See the full list of affected locations and closure dates.
 image: https://www.thenorthernecho.co.uk/resources/images/21058117.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 A number of Lloyds Banking Group branches across the North East will permanently close this autumn as the banking giant continues to reduce its high street presence.

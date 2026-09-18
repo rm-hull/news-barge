@@ -9,6 +9,10 @@ description: China will lead the creation of an "open-source zone for artificial
   for BRICS countries, President Xi Jinping said on Sunday at a summit of the 11-nation
   group in New Delhi.
 image: https://images.euronews.com/articles/stories/09/91/19/81/1200x675_cmsv2_6292e32a-a69a-560a-b53c-7832c4f3e978-9911981.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## China will lead the creation of an "open-source zone for artificial intelligence" for BRICS countries, President Xi Jinping said on Sunday at a summit of the 11-nation group in New Delhi.

@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Wonderful said it will use its $550 million Series C funding to develop
   products faster, expand its FDE teams, and meet demand for its products.
 image: https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Israeli-Dutch AI startup Wonderful has raised $550 million in a Series C funding round that gives it a price tag of $5 billion, more than doubling the $2 billion valuation the company gained when it last raised funding nearly six months ago.

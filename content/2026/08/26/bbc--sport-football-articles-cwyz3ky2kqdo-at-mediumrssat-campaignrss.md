@@ -9,6 +9,10 @@ description: Nico Gonzalez is given a rapturous welcome before Newcastle's Carab
   Cup win against West Brom following the £52m midfielder's arrival from Manchester
   City.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3079/live/cc8fb1f0-a19e-11f1-b179-79ec571b628c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Nico Gonzalez waving to Newcastle fans wearing a Newcastle kit](https://ichef.bbci.co.uk/ace/standard/918/cpsprodpb/3079/live/cc8fb1f0-a19e-11f1-b179-79ec571b628c.jpg)

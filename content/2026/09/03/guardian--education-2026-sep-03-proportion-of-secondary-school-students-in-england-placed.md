@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: 'Exclusive: new data shows poorer pupils and those with Send are disproportionately
   affected by the measure'
 image: https://i.guim.co.uk/img/media/5923d6f314ead2f62242d41a818927de3191b59b/514_0_3555_2844/master/3555.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2edcd465248527f4e73fcb0cb734adce
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The proportion of secondary school students in England removed from class and placed in “internal exclusion” as a disciplinary measure has almost trebled in three years, according to new data.

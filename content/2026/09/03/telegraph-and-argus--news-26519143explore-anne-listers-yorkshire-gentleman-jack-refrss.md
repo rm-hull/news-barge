@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Explore Anne Lister's Yorkshire as Northern Ballet's Gentleman Jack arrives
   in Bradford, with an itinerary featuring Halifax, Little…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21357009.jpg?type=og-image&xType=0&yType=60
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 Northern Ballet’s Gentleman Jack arrives at Bradford’s Alhambra Theatre today (September 3), bringing Anne Lister’s story to the stage.

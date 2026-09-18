@@ -8,6 +8,8 @@ scraped_at: '2026-08-28T11:15:30Z'
 published: '2026-08-27T00:00:00Z'
 description: A new way to beat privacy hackers
 image: https://cdn.mos.cms.futurecdn.net/8GYMquuUQihF2WAEm3Ak5J-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Meta Essilor Luxottica AI Glasses](https://cdn.mos.cms.futurecdn.net/8GYMquuUQihF2WAEm3Ak5J.jpg) 

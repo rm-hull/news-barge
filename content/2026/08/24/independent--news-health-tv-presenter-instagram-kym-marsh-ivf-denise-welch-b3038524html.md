@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: She shared an angry message to Instagram on Monday responding to the
   ‘lies’.
 image: https://static.independent.co.uk/2026/08/24/22/115d03eb4b75745c7a68823244b256afY29udGVudHNlYXJjaGFwaSwxNzg3NjkwNjQ5-2.81807319.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Emmerdale star Lisa Riley has responded to a series of “absolutely horrendous” fake posts with AI photos implying she is pregnant.

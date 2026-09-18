@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: An ‘ongoing cat-and-mouse dynamic between the authorities and smugglers’
   could shift where small boats depart from and arrive
 image: https://static.independent.co.uk/2026/09/07/14/01M1XKSFWT2PPY4BC8B4DGTMD4.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Traffickers shifting destinations along England’s south coast could present a new challenge in tackling the small boat crisis, an expert has warned.

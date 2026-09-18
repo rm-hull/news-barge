@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: A Reform UK-led council says it is part of a three-month trial to "deter
   anti-social behaviour".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c7d/live/3109cc10-72ec-11f1-b1db-af71d47507d6.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Aerial shot of the housing blocks at an airbase. Four rectangular accommodation blocks can be seen, surrounded by grass, trees and roads. There are agricultural fields in the background.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4c7d/live/3109cc10-72ec-11f1-b1db-af71d47507d6.jpg)

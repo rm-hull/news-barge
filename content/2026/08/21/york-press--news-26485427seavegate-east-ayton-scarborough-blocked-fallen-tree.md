@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A road on the outskirts of a North Yorkshire village has been blocked
   by a 'large fallen tree'.
 image: https://www.yorkpress.co.uk/resources/images/21355632.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
+- Outdoors & Nature
 ---
 
 *(Image: Google Maps)*

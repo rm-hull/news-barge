@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Ulsan wants to build underwater server farms that use freezing seawater
   instead of expensive mechanical air conditioning systems
 image: https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Science
 ---
 
 ![Data center](https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN.jpg) 

@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Claire King, who plays Kim Tate in Emmerdale, has revealed how "heartbreaking"
   Olivia Bromley's exit from the soap was.
 image: https://www.gazetteherald.co.uk/resources/images/21398406.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Music
 ---
 
 *(Image: YouTube/ITV)*

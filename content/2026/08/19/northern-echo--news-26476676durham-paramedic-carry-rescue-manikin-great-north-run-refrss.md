@@ -9,6 +9,12 @@ published: '2026-08-19T00:00:00Z'
 description: A Durham air ambulance paramedic Jake Gunn is set to tackle the Great
   North Run carrying a 16kg rescue manikin to raise funds for the charity he…
 image: https://www.thenorthernecho.co.uk/resources/images/21339442.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Sports
 ---
 
 *(Image: GNAAS)*

@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: TRAIN operator Northern has launched a major flash sale offering millions
   of £2 tickets.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20027900.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Northern)*

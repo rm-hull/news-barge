@@ -7,6 +7,9 @@ scraped_at: '2026-09-03T12:48:51Z'
 published: '2026-09-03T00:00:00Z'
 description: They believe the UK needs a "vital safety net"
 image: https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A person typing on a laptop and using a tablet. Only their upper torso, arms and hands are visible. Text superimposed on the image shows AI](https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML.jpg) 

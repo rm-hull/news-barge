@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: Lee Jae Myung reiterates desire for full command back in Seoul’s hands
   after Donald Trump cuts joint exercises, citing warm ties with Kim Jong-un
 image: https://i.guim.co.uk/img/media/df6bcc6943e9a77ef440e7b8573532433abd7cf5/163_0_3758_3006/master/3758.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=82dd6b942b87b38e5427f5ec2144f11e
+categories:
+- UK
+- News & Politics
 ---
 
 South Korea’s president has renewed his push to regain independent control of the military from the US in the event of war and urged faster progress in acquiring nuclear-powered submarines after Donald Trump’s order to cut joint drills.

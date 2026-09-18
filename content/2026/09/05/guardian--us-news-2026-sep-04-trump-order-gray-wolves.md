@@ -8,6 +8,9 @@ published: '2026-09-05T00:00:00Z'
 description: Interior department given three months to decide whether wolves can be
   removed from endangered species list
 image: https://i.guim.co.uk/img/media/b37d309fa37fe726bec9660151f209e2b5f30d2a/324_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d54a029bb21412954e12073b1ff639eb
+categories:
+- UK
+- News & Politics
 ---
 
 Donald Trump signed an executive order on Friday directing the interior department to consider de-listing gray wolves from the Endangered Species Act and to contemplate whether the agency could make it easier to authorize killing them.

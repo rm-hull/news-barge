@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Work-from-home rules could change as employers are told to properly consider
   flexible working requests before rejecting them.
 image: https://www.yorkpress.co.uk/resources/images/21467533.jpg?type=og-image
+categories:
+- Local
+- York
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 ## New work-from-home rules could make it harder for bosses to reject requests

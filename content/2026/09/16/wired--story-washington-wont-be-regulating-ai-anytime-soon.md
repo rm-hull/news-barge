@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Even with mounting concerns about AI models going rogue, legislation
   appears unlikely, and the White House is outright opposed to oversight.
 image: https://media.wired.com/photos/6aa9a839650c7d70ef723d0a/191:100/w_1280,c_limit/politics_ai_regulation_slow.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 For weeks, Washington has been abuzz with talk of needing to push through some sort of AI regulation amid mounting concerns about the risks of highly capable frontier AI models going rogue.

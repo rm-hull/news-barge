@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: It is a given that Britain needs to build more houses and the mistakes
   of the past few decades, where not enough homes have been built, cannot be repeated.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjljNTc5NzljLTQyNDMtNDU4OC05ZTg2LWZjN2U2OTcyNTE1NDo3YmFmY2E4OS0wZmI5LTQxYWItODdjOS1lZGFlOTM2YTg3MWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Brownfield developments should be prioritised but they’re not the panacea

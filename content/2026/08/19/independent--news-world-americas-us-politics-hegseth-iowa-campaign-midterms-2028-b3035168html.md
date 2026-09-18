@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: Vulnerable Republicans call in the cavalry, but Trump’s ‘War’ chief is
   reportedly eyeing his own political future
 image: https://static.independent.co.uk/2026/08/18/18/2290919111..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Defense Secretary Pete Hegseth is among the Trump administration figures making an emergency campaign swing through Iowa — and the state’s prominence as home to the first-in-the-nation caucuses has some speculating whether he may join other more obvious contenders in a bid for the 2028 GOP nomination.

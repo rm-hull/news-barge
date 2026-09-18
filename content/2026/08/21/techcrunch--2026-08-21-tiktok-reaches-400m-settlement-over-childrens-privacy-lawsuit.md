@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: Two years after the U.S. Department of Justice alleged that TikTok violated
   the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.
 image: https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268918823.jpg?resize=1200,800
+categories:
+- Society & Culture
+- Technology & Software
 ---
 
 TikTok and its parent company, ByteDance, have reached a $400 million settlement with the U.S. Department of Justice (DOJ) to resolve allegations that the social media platform violated federal laws designed to protect children’s online privacy.

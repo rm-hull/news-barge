@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A firm has been ordered to tear down holiday homes from green belt woodland
   in Yorkshire.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/07/15/10/firm-ordered-to-1594416.jpg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 # Firm ordered to tear down Yorkshire holiday homes from £1M ancient woodland and plant 100 trees

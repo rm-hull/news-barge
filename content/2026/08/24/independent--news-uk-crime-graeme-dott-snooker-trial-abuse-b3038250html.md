@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: A jury found the former player guilty after a five-day trial in the High
   Court in Glasgow
 image: https://static.independent.co.uk/2026/08/24/14/2026-08-24T131355Z_362948858_RC2X4NALXZZ9_RTRMADP_3_BRITAIN-COURT-DOTT.JPG?trim=0,50,0,50&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Former snooker world champion Graeme Dott has been found guilty of sexually abusing two primary school-aged children.

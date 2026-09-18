@@ -10,6 +10,9 @@ published: '2026-09-13T00:00:00Z'
 description: 'Creative Assembly says it was "a big deal" to have player customization
   be a "must-have" part of Total War: Warhammer 40,000.'
 image: https://cdn.mos.cms.futurecdn.net/dSF4b6onj695ncrf93WGeZ-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Total War: Warhammer 40,000](https://cdn.mos.cms.futurecdn.net/dSF4b6onj695ncrf93WGeZ.jpg) 

@@ -8,6 +8,13 @@ published: '2026-08-24T00:00:00Z'
 description: Halifax went Hollywood as Johnny Depp and Alice Cooper brought the American
   supergroup to Halifax.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjFmYmI1NzgyLWIyMjMtNDhjMS1hNDBhLTM4M2RlOTljYzhjZDoyYjRiMWJlOC0zZjIxLTRlYjEtOTNjMC03NzBiNDExZjhmZDM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Comedy & Entertainment
+- Film & TV
+- Arts & Culture
 ---
 
 The hugely famous actor was at The Piece Hall with Alice Cooper and the rest of the Hollywood Vampires, which also consists of Joe Perry and Tommy Henriksen.

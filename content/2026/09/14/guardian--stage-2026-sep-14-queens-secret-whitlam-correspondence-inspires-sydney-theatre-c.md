@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: STC’s 2027 program also features Celeste Barber in Amy Sedaris and David
   Sedaris play, Tim Minchin as Scrooge and the return of The Picture of Dorian Gray
 image: https://i.guim.co.uk/img/media/ea6e52de1d3941547470b617d406107d7484481b/870_0_3313_2653/master/3313.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=12ac54ebb54931e7b6e9e8568eae88c5
+categories:
+- UK
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 Six years after the Australian historian Jenny Hocking won her legal battle to release secret correspondence between Queen Elizabeth II, Malcolm Fraser and the governor general John Kerr, her fight to reveal the truth about Gough Whitlam’s dismissal is being adapted for the stage.

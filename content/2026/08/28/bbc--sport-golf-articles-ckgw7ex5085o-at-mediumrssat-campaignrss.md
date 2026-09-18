@@ -9,6 +9,10 @@ description: Golf club manufacturer Callaway ends its partnership with content c
   Good Good with immediate effect and donates $1m to women's charity after promoting
   advert that shows a woman being pushed over.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5461/live/03668760-a2b4-11f1-9024-715001d09aeb.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![An image of a golf club and golf ball on a tee](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/5461/live/03668760-a2b4-11f1-9024-715001d09aeb.jpg)

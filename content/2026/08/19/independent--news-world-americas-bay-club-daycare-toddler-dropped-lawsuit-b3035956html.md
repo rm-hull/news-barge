@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Matthew Kittle and Elena Kittle sued after an employee allegedly threw
   their 23-month-old child in the air and failed to catch him
 image: https://static.independent.co.uk/2026/07/10/16/08/YouTube-Thumbnails-(44).jpg?trim=0,100,0,100&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 A California childcare center has asked a judge to dismiss some claims in a lawsuit filed by a couple who allege that an employee threw their then-23-month-old child in the air and failed to catch him, resulting in a traumatic brain injury.

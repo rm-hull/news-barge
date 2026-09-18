@@ -9,6 +9,12 @@ published: '2026-09-02T00:00:00Z'
 description: A FESTIVE theatre experience is set to return this winter, bringing a
   classic Christmas story to life on a Yorkshire heritage railway
 image: https://www.thetelegraphandargus.co.uk/resources/images/21395853.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 A FESTIVE theatre experience is set to return this winter, bringing a classic Christmas story to life on a Yorkshire heritage railway.

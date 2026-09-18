@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Strike on kingdom’s east-west pipeline could affect 4% of global oil
   supply
 image: https://i.guim.co.uk/img/media/2c8eff1a4bc02be9d404071ea3a10512965cb07c/894_0_3315_2653/master/3315.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9d390b6b480a442f8e17d4185e8dded
+categories:
+- UK
+- News & Politics
+- History
+- Business & Entrepreneurship
 ---
 
 Good morning. Oil prices have climbed above $108 a barrel after a series of drone attacks from Iraq’s territory forced Saudi Arabia to close its east-west crude pipeline. Saudi traders said the kingdom would run out of oil stocks for export if it did not reopen within days. Gas prices also climbed higher. Energy prices have surged this year, as the US-Israel war with Iran has disrupted oil and gas supply across the Middle East.

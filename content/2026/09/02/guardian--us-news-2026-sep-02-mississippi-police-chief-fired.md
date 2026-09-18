@@ -9,6 +9,10 @@ description: The city of Senatobia made national news earlier this year after a 
   officer shot and killed Kohen Wiley, a one-year-old Black baby, while responding
   to a shoplifting call
 image: https://i.guim.co.uk/img/media/55d5492cf605ea304c02961b70a5e8ddc7a048cd/201_82_1385_1108/master/1385.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=345bf486ef5fbccc3366d2fceded4083
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Late Tuesday, the city of Senatobia, Mississippi fired its police chief, Harold Vanderford, after it was reported that Vanderford regularly used racist slurs against Black people in his text messages. The town, which is about 40% Black, made national news earlier this year after a white officer fatally shot and killed Kohen Wiley, a one-year-old Black baby, while responding to a shoplifting call at Walmart. Officers fired into a vehicle, shooting the driver and killing the toddler, who was being held in his mother’s arms.

@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Costs are spiralling out of control as unregulated private providers
   capitalise on demand, say managers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8406/live/9fc9a130-a22f-11f1-b109-879e35c24276.png
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ![Patient consultation](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8406/live/9fc9a130-a22f-11f1-b109-879e35c24276.png)

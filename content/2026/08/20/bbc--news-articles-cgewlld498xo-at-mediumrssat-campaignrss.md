@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Twenty-somethings are much less likely to own a home than previous generations.
   But data suggests things may be turning a corner.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4a7/live/1acdc570-9cb6-11f1-b109-879e35c24276.png
+categories:
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 ![A visualisation of a house, backdropped by a turquoise circle. A line chart runs behind it and it's surrounded by pound coins.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/a4a7/live/1acdc570-9cb6-11f1-b109-879e35c24276.png)

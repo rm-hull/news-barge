@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Major retailer Magnet Kitchens officially opens a new store in Albert
   Street, Harrogate, tomorrow.
 image: https://www.yorkpress.co.uk/resources/images/21361370.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Pic supplied)*

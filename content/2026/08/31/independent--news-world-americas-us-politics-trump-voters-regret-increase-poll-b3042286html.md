@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: ‘There are now clear, consistent signs of an erosion trend,’ says Alexander
   Theodoridis, co-director of the University of Massachusetts-Amherst poll
 image: https://static.independent.co.uk/2026/08/31/21/2292886147..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Buyer's remorse is rising among Americans who voted for President Donald Trump in 2024 — vividly illustrating the “clear, consistent signs” that his political base is crumbling, according to survey results released Monday.

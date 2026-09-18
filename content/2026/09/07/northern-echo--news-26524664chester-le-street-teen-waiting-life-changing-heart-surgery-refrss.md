@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A Chester-le-Street teenager sleeps for up to 16 hours a day and is missing
   out on the sport he loves while waiting for life-changing heart surgery.
 image: https://www.thenorthernecho.co.uk/resources/images/21417235.jpg?type=og-image&xType=0&yType=134
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A County Durham teen is having to sleep for up to 16 hours a day and is missing out on the sport he loves while waiting for life-changing heart surgery.

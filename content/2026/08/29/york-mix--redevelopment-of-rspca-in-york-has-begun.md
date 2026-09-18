@@ -7,6 +7,10 @@ scraped_at: '2026-08-29T13:49:19Z'
 published: '2026-08-29T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/siamese-cats-at-york-rspca-animal-home.webp
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 **The RSPCA in York has begun redeveloping a rescue shelter**.

@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: The FBI is no longer treating an applicant’s prior encounters with prostitutes
   as an automatic bar against employment
 image: https://static.independent.co.uk/2026/08/04/15/FBI_Firings_Lawsuit__3142.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The FBI is dropping a categorical hiring ban on applicants who have had sexual encounters with prostitutes and will instead consider in a more holistic manner at least some candidates who have engaged in the practice in the past, according to people familiar with the matter.

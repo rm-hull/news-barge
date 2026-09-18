@@ -8,6 +8,8 @@ scraped_at: '2026-08-19T21:32:57Z'
 published: '2026-08-19T00:00:00Z'
 description: Defender unreliability, not attacker unpredictability, drives risk
 image: https://cdn.mos.cms.futurecdn.net/7DtE9RCVmUtmH2FAfvxsvM-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Malware attack virus alert , malicious software infection , cyber security awareness training to protect business](https://cdn.mos.cms.futurecdn.net/7DtE9RCVmUtmH2FAfvxsvM.jpg) 

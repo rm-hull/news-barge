@@ -10,6 +10,10 @@ description: A fight of titans is coming up for the 27th edition of the Latin Gr
   with Karol G, Ca7riel & Paco Amoroso, Rosalía and Jorge Drexler as the most nominated
   artists revealed on Wednesday
 image: https://static.independent.co.uk/2026/09/16/14/Music-Latin-Grammys-Nominees__8_5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A fight of titans is coming up for the 27th edition of the Latin Grammys with singers Karol G, Rosalía, Jorge Drexler and hip hop duo Ca7riel & Paco Amoroso as the most nominated artists revealed on Wednesday.

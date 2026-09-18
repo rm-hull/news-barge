@@ -7,6 +7,11 @@ scraped_at: '2026-09-07T19:53:28Z'
 published: '2026-09-07T00:00:00Z'
 description: A cyclist has been left seriously injured after a crash near Harrogate.
 image: https://www.gazetteherald.co.uk/resources/images/17739359.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

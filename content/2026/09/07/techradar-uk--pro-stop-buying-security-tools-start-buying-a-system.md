@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T19:54:05Z'
 published: '2026-09-07T00:00:00Z'
 description: Build security as a system, not a stack
 image: https://cdn.mos.cms.futurecdn.net/XbZCTEpjtunPvMj9ySXmWU-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![A file and folder transferring data with a red warning mark indicating malware.](https://cdn.mos.cms.futurecdn.net/XbZCTEpjtunPvMj9ySXmWU.jpg) 

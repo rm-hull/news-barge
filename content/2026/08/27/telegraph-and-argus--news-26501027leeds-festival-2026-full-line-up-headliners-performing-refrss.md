@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Leeds Festival 2026 has a huge range of artists performing from Charli
   XCX to Fontaines D.C. - who are you going to see?
 image: https://www.thetelegraphandargus.co.uk/resources/images/21379750.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 Leeds Festival 2026 is starting tonight (Thursday, August 27) with people arriving at the campsite to get ready.

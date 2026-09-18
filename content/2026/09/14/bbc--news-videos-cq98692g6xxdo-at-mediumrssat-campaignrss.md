@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The Duke and Duchess of Sussex are going to be given a review of their
   publicly-funded security after their return to live in the UK.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e4e/live/f889a5c0-b087-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 # Watch: Why Harry and Meghan's security in the UK to be reviewed

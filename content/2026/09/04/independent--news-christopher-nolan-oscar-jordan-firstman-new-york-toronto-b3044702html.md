@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T12:41:34Z'
 published: '2026-09-04T00:00:00Z'
 description: Fall movie season also means Oscar season
 image: https://static.independent.co.uk/2026/09/04/11/Film-Fall_Preview-Predictions_88827.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 Fall movie season also means Oscar season.

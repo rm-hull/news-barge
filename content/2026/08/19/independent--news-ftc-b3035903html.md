@@ -9,6 +9,11 @@ description: Companies that secretly vary prices based on how much they think in
   customers will pay could face federal charges under a proposed Federal Trade Commission
   policy
 image: https://static.independent.co.uk/2026/08/19/19/FTC_Personalized_Pricing_92626.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Companies that secretly vary prices based on how much they think individual customers will pay could face federal charges under a proposed policy released Wednesday by the Federal Trade Commission.

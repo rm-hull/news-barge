@@ -10,6 +10,9 @@ description: Social media users are claiming that Canada could shut off electric
   in the U.S. and cause massive blackouts if the trade war between the two countries
   escalates further
 image: https://static.independent.co.uk/2026/08/25/16/Canada_US_Trade_1_11_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Social media users are claiming that Canada could plunge the U.S. into darkness if the trade war between the once-friendly neighbors escalates further.

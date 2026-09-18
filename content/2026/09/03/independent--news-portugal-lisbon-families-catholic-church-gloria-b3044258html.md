@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Lisbon’s iconic funicular streetcars remain halted, with safety questions
   still unanswered a year after a tragic derailment killed 16 people
 image: https://static.independent.co.uk/2026/09/03/16/Portugal_Streetcar_Derailed_Anniversary__7248.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Lisbon inaugurated a memorial Thursday to the 16 people killed in a funicular derailment a year ago, as questions persist about the safety of the city's iconic hillside streetcars, which remain at a standstill.

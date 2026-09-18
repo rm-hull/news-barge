@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A man arrested for drink driving on the outskirts of York had previously
   been part of a large-scale anti-migrant riot in Rotherham.
 image: https://www.gazetteherald.co.uk/resources/images/19655540.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 *(Image: Press Association)*

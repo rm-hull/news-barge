@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: The South Yorkshire mayor has joined Rotherham and Doncaster residents
   and local politicians in opposing the plans for a new solar farm.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjVlOGNkMDkzLTk4MTItNGJlZC04NTg2LTI5YTQ1ZTliNzYyYjo2MWU3ZGNmMy1hZGU1LTQ0NGItYTJkNC1mZGNkOWRiYmM1MWM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # South Yorkshire Mayor objecting to Rotherham and Doncaster solar farm

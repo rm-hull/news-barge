@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: The move from Jeanine Pirro’s office is ‘insufficient to justify’ tossing
   out a case against Bannon for defying January 6 committee subpoenas
 image: https://static.independent.co.uk/2026/08/26/23/2271087022..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A federal judge has rejected an attempt from the Department of Justice to toss out a case against Steve Bannon, who has already served a four-month prison sentence for defying a congressional investigation into January 6.

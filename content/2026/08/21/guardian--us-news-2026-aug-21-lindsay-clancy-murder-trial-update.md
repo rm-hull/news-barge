@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Closing arguments could come on Monday as prosecutors seek murder conviction
   over deaths of three young children
 image: https://i.guim.co.uk/img/media/19931279668174efc0a2cfa9ff7e13101346a37a/851_0_6882_5504/master/6882.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bbfc91171a9fa7231148cda4356cb295
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Lindsay Clancy’s defense in her murder trial rested on Friday after calling witnesses to testify about the ailing mother’s mental state and attempts to seek help before she killed her young children.

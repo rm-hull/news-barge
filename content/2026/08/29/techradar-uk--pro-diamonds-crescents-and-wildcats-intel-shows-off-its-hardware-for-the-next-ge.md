@@ -8,6 +8,8 @@ scraped_at: '2026-08-29T06:59:48Z'
 published: '2026-08-29T00:00:00Z'
 description: Intel wants to power the next iteration of AI
 image: https://cdn.mos.cms.futurecdn.net/ec3PDmnghmiiwaebiAjh83-970-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Intel](https://cdn.mos.cms.futurecdn.net/ec3PDmnghmiiwaebiAjh83.jpg) 

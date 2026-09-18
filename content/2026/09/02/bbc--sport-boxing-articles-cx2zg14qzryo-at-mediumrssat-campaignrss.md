@@ -9,6 +9,10 @@ description: Tyson Fury says Anthony Joshua is a "coward" as the pair face a ten
   wait to see whether their long-awaited all-British heavyweight blockbuster can be
   agreed.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/92e9/live/234c74f0-a70e-11f1-adb7-ad73f5f76a76.png
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ![Tyson Fury (left) and Anthony Joshua (right)](https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/92e9/live/234c74f0-a70e-11f1-adb7-ad73f5f76a76.png)

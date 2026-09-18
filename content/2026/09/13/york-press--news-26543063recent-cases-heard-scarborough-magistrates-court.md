@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: A sex offender and a man who armed himself with a brook were among defendants
   sentenced recently at Scarborough Magistrates Court.
 image: https://www.yorkpress.co.uk/resources/images/20629021.jpg?type=og-image&xType=0&yType=24
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: Newsquest)*

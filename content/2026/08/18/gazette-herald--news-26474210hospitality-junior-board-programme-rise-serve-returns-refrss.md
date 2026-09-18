@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: A pioneering programme that helps young people enter a career in hospitality
   is returning to York following the success of its first cohort
 image: https://www.gazetteherald.co.uk/resources/images/21335590.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
+- Careers & Productivity
 ---
 
 A pioneering programme that helps young people gain confidence, develop workplace skills and explore careers in hospitality is returning to York following the success of its first cohort

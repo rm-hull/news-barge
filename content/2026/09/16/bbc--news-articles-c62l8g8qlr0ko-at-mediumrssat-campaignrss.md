@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Black - who had business ties to Epstein - declined to appear and provide
   documents related to the convicted sex offender.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a16/live/03313030-b202-11f1-a4a7-291ff3d1006b.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Leon Black](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3a16/live/03313030-b202-11f1-a4a7-291ff3d1006b.jpg)

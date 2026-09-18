@@ -9,6 +9,11 @@ description: 'The cable news network’s president, Rebecca Kutler, wants to lev
   its massive online and TV audience to create a fan community. First up: letting
   you chat with Rachel Maddow.'
 image: https://media.wired.com/photos/6aa068bda6cebd680239b652/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Rebecca-Kutler.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
+- Creator Economy & Marketing
 ---
 
 Even if you’re a casual consumer of MS NOW, formerly MSNBC, you know the names: anchors like Chris Hayes, Stephanie Ruhle, and yes, the one and only Rachel Maddow. The network has built a stable of talent who’ve amassed a massive number of casual viewers, plenty of fans … and more than a few obsessives.

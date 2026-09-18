@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: The annual Ramon Magsaysay Awards have been given to Singaporean lawyer,
   a Myanmar activist and a former Bangladeshi teacher
 image: https://static.independent.co.uk/2026/08/31/12/Philippines_Magsaysay_Awards_4_548.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A Singaporean lawyer and diplomat who led an international conference that adopted the United Nations Convention on the Law of the Sea, a Myanmar activist whose group documents human rights atrocities and a former Bangladeshi teacher who has helped provide aid to her country’s poorest were named Monday as the winners of this year’s Ramon Magsaysay Awards.

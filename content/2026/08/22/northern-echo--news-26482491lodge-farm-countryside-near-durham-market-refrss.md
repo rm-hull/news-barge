@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: A four-bedroom countryside home with panoramic views, landscaped gardens,
   and its own paddock has come onto the market near Durham for £799,995.
 image: https://www.thenorthernecho.co.uk/resources/images/21351438.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 A four-bedroom countryside home with panoramic views, landscaped gardens, and its own paddock has come onto the market near Durham for £799,995.

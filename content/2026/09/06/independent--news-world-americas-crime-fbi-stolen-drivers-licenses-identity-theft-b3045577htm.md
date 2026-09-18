@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: The probe follows investigative reporting that traced the security breach
   to New Orleans-based IDScan.net
 image: https://static.the-independent.com/2026/09/06/17/06/GettyImages-681253896.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The FBI has launched an investigation into the theft of millions of stolen Americans' and Canadians’ driver’s licenses.

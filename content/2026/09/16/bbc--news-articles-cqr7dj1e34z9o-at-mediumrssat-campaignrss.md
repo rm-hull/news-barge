@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The prime minister insists he is prepared to take "difficult decisions"
   at next month's Budget.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b1a9/live/42c84500-b1c9-11f1-8493-1910d79d53eb.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Prime Minister Andy Burnham looks at a car on the production line during a visit](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/b1a9/live/42c84500-b1c9-11f1-8493-1910d79d53eb.jpg)

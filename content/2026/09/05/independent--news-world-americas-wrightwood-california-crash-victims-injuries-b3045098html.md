@@ -7,6 +7,11 @@ scraped_at: '2026-09-05T04:17:04Z'
 published: '2026-09-05T00:00:00Z'
 description: The California Highway Patrol is investigating the crash near Wrightwood
 image: https://static.independent.co.uk/2026/09/05/0/46/Screenshot-2026-09-04-at-5-29-35-PM.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Travel
 ---
 
 Four people were killed and two were critically injured in an auto wreck when a car veered off a mountain road near Wrightwood, California, early on Friday.

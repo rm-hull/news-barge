@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Harrogate’s Lib Dem MP has received credit from Labour Prime Minster
   Andy Burnham for his role in the fight to get disabled bus pass restrictions scrapped.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjA1MmI4ODI1LWE5ZDgtNGU4Yi05NmZlLWJlZDY3MjBhZjExYjpkZmU1YjI4ZS0zODA0LTQyMzMtYTNmNy1mZmY0MTNiMjdmYWE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 # Prime Minister posts on X after major announcement on disabled bus passes

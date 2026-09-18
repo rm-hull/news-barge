@@ -9,6 +9,8 @@ published: '2026-09-06T00:00:00Z'
 description: Wired has managed to uncover some of the details about how search works
   for police officers using Flock.
 image: https://cdn.mos.cms.futurecdn.net/FxMzh8xnBa3LCTagLY7nsC-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Flock Safety Camera](https://cdn.mos.cms.futurecdn.net/FxMzh8xnBa3LCTagLY7nsC.jpg) 

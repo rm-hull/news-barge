@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: While Carney has ruled out EU membership, the Canadian leader says he
   wants to pursue a "unique alliance" with Brussels.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ef4e/live/749cb4e0-afe3-11f1-ab2a-cddeea34cdf3.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Mark Carney at the Toronto International Film Festival](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ef4e/live/749cb4e0-afe3-11f1-ab2a-cddeea34cdf3.jpg)

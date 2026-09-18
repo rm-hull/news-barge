@@ -9,6 +9,11 @@ description: Descendants of Britain’s original wild white cattle that were enc
   in parks by the nobility during the middle ages have been introduced at the North’s
   leading stately home.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjg2NDIyMDZlLWVhMjQtNDlkZS04MWYxLTg1YWZiMzc3ZTQ1MzphNjNkMDE2ZS0xY2I3LTRkNGYtYWVmZS05YmQ2MTM0OWI4ZTI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Castle Howard nature restoration project brings in rare White Park cattle

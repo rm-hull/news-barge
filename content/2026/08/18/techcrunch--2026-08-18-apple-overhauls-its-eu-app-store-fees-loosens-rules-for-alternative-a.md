@@ -10,6 +10,9 @@ description: Apple is simplifying its EU App Store fees, replacing its per-insta
   fee with a 5% commission for apps distributed outside the App Store and making it
   easier for developers to operate alternative app marketplaces.
 image: https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v3.jpg?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Apple on Tuesday announced a simplified commission structure for apps in the European Union in an effort to resolve its disagreements with the European Commission over the tech giant’s business terms. Under the new model, Apple will replace its per-install Core Technology Fee with a flat 5% commission on digital goods in apps distributed outside the App Store or on the web. Apple also adjusted its rates for alternative payments and for its own in-app purchases, and made it easier for developers to open alternative app stores.

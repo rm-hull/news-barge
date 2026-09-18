@@ -9,6 +9,10 @@ description: Nearly half of German pupils suffer from sleep problems, fuel price
   hit record highs, German Defence Minister visits US for high profile talks and more
   news on Tuesday, September 15th.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260704__B9AB836__v1__HighRes__776524245.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
 ---
 
 **Tuesday's top story: Nearly half of German school pupils suffer from sleep problems**

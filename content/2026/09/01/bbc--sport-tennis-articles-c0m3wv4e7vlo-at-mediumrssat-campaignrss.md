@@ -10,6 +10,9 @@ description: Elena Rybakina says she is "motivated" by the race to become world 
   one but is simply taking things "day by day" after getting her US Open campaign
   off to a winning start.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e4a5/live/07346880-a647-11f1-8d30-cf6fd28b1367.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Elena Rybakina, wearing a purple and white dress, waves her left hand to the crowd](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e4a5/live/07346880-a647-11f1-8d30-cf6fd28b1367.jpg)

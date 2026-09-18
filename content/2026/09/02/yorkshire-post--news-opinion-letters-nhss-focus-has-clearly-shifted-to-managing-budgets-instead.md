@@ -8,6 +8,12 @@ scraped_at: '2026-09-02T19:22:32Z'
 published: '2026-09-02T00:00:00Z'
 description: 'From: Jean Tottie, Oakenshaw.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ0OTI4MTc2LTM4YzQtNDJhZi04NTdkLTAxZGUzNmY4NjVlMjowMTM5YWZhZC0wZWIxLTRhOTUtYTg1YS1iNTE0MjUyZDJmMDA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 # NHS’s focus has clearly shifted to managing budgets instead of assessing needs with CHC - Yorkshire Post Letters

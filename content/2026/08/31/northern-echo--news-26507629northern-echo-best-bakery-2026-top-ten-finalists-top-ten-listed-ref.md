@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: The search is on to find Darlington and County Durham's favourite bakery
   as The Northern Echo reveals the finalists in its Best Bakery 2026…
 image: https://www.thenorthernecho.co.uk/resources/images/20138734.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 The search is on to find Darlington and County Durham's favourite bakery, as The Northern Echo reveals the top ten shortlist for its Best Bakery 2026 competition.

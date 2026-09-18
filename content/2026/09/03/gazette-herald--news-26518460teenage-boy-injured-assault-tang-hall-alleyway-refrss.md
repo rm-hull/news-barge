@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A teenage boy has been left injured after being assaulted by another
   teenager in an alleyway in Tang Hall, York, police said.
 image: https://www.gazetteherald.co.uk/resources/images/21092212.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: Newsquest)*

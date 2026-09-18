@@ -9,6 +9,12 @@ published: '2026-09-09T00:00:00Z'
 description: A Darlington bakery which has quickly become a favourite with customers
   says they regularly have to close early after selling out of its freshly…
 image: https://www.thenorthernecho.co.uk/resources/images/21426031.jpg?type=og-image&xType=0&yType=104
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 A Darlington bakery regularly has to close early after selling out of its freshly made stock, proving a hit with customers.

@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: Tesla's solar roof was an experiment that never really caught on for
   the company. But does that mean the concept of roof-integrated solar is dead?
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1233610093.jpeg?resize=1200,800
+categories:
+- Technology & Software
+- Science
 ---
 
 Nearly a decade ago, Tesla introduced its solar roof, which was essentially a mini-power plant that happened to look like high-end shingles, fancy terra-cotta tiles, or refined slate slabs.

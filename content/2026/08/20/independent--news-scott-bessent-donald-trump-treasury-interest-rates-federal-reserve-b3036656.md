@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Interest rates rebounded Thursday despite efforts by Treasury Secretary
   Scott Bessent to put a lid on longer-term borrowing costs
 image: https://static.independent.co.uk/2026/08/20/20/Trump__9425.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Interest rates rebounded Thursday despite efforts by Treasury Secretary Scott Bessent to put a lid on longer-term borrowing costs, a sign Wall Street investors remain worried about burgeoning government debt, heavy borrowing by tech firms, and the Federal Reserve's commitment to fighting inflation.

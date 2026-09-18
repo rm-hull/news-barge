@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Crisis is the Kremlin’s ‘biggest domestic challenge’ since the outbreak
   of war against Ukraine, say experts
 image: https://static.independent.co.uk/2026/08/20/13/56/Screenshot-2026-08-20-at-14-49-31.png?trim=0,175,0,175&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Russian police have arrested citizens complaining of fuel shortages at the pump, as Ukraine’s drone campaign sparked fighting at petrol stations and rationing.

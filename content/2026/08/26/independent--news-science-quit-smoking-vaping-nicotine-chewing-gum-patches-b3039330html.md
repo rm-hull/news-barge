@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Researchers found that vape use led to 61% increased odds in a quit attempt
   being successful after six months
 image: https://static.independent.co.uk/2026/06/01/08/89cad115a6fd52b880ce4d7dfef93542Y29udGVudHNlYXJjaGFwaSwxNzgwMzgzMDYw-2.50654949.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Vapes offer a "proven and viable option for people wishing to quit traditional cigarettes", experts have said.

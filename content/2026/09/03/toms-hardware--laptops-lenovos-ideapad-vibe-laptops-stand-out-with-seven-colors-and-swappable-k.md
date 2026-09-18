@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: OLED-screen options offered in blue and gray, with 120 Hz IPS on other
   SKUs.
 image: https://cdn.mos.cms.futurecdn.net/uvfpAruFbq8RoUCxETFWg5-1999-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Lenovo IdeaPad Vibe](https://cdn.mos.cms.futurecdn.net/uvfpAruFbq8RoUCxETFWg5.jpg) 

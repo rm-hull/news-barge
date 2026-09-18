@@ -8,6 +8,10 @@ scraped_at: '2026-08-20T16:48:08Z'
 published: '2026-08-20T00:00:00Z'
 description: It's unclear how Cyberleek got their hands on the game.
 image: https://cdn.mos.cms.futurecdn.net/UZtFBUeKKRZ43cjULRJMNU-1600-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![screen cap of the GTA 6 trailer on YouTube](https://cdn.mos.cms.futurecdn.net/UZtFBUeKKRZ43cjULRJMNU.jpg) 

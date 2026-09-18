@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: The 15-year-old boy was rescued while the other two passengers from the
   capsized fishing vessel, his brother and cousin, died.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d7b6/live/d9d73050-aeb8-11f1-ae38-d350b022f499.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A teenage boy, wearing a rain jacket, sitting on his knees on top of an overturned boat surrounded by blue-green waters.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/d7b6/live/d9d73050-aeb8-11f1-ae38-d350b022f499.jpg)

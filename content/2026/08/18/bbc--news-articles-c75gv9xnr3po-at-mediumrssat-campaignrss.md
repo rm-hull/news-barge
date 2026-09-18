@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Multiple children are feared to have been conceived using sperm and egg
   donors which were not the ones selected by the parents.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/603b/live/6eb43020-9180-11f1-b8ee-9b3c26ad07bb.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
+- Society & Culture
 ---
 
 ![Three individual portrait photos placed side by side, showing two people in medical scrubs and one person in casual clothing, all facing the camera.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/603b/live/6eb43020-9180-11f1-b8ee-9b3c26ad07bb.jpg)

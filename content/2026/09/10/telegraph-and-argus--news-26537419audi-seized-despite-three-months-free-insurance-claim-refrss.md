@@ -9,6 +9,12 @@ published: '2026-09-10T00:00:00Z'
 description: A driver stopped by police told officers a friend had included "three
   months' free insurance" when selling him the car.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21433262.jpg?type=og-image&xType=0&yType=387
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Automotive
 ---
 
 *(Image: West Yorkshire Police)*

@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Companies donated a record $646 million to U.S. political campaigns in
   the 18 months through June
 image: https://static.independent.co.uk/2026/08/15/13/38/GettyImages-2290498615.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Corporate America has poured a record $646 million into U.S. political campaigns ahead of the midterms, already eclipsing spending during the entire 2024 presidential election cycle by 40 percent, according to a new analysis.

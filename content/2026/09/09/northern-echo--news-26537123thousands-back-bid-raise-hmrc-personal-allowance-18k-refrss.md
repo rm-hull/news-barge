@@ -9,6 +9,13 @@ published: '2026-09-09T00:00:00Z'
 description: A petition calling for the Personal Tax Allowance to rise to £18,000
   has attracted 68,455 signatures, but the September 30 deadline is approaching.
 image: https://www.thenorthernecho.co.uk/resources/images/21430016.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 *(Image: Matthew Horwood/PA Wire)*

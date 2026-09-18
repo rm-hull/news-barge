@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: The Harrogate Food and Drink Festival returns to Ripley Castle this weekend
   with a new line-up of food, drink and family entertainment for visitors…
 image: https://www.thenorthernecho.co.uk/resources/images/21345012.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Supplied)*

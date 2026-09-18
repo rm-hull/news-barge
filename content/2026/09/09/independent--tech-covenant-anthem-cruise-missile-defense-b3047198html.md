@@ -9,6 +9,12 @@ published: '2026-09-09T00:00:00Z'
 description: Covenant targets mid-six-figure price per Anthem missile at full-rate
   production
 image: https://static.the-independent.com/2026/09/09/11/2026-09-09T090023Z_1912779598_RC244MAEYWD9_RTRMADP_3_USA-COVENANT-MISSILE.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Silicon Valley-backed defense startup Covenant unveiled a long-range, heavy-payload cruise missile on Wednesday designed for rapid, low-cost mass production, mounting a direct challenge to established U.S. weapons manufacturers.

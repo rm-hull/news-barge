@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: A Darlington woman has been banned from keeping animals for a decade
   after her “severely underweight” dog was put to sleep when he was found…
 image: https://www.thenorthernecho.co.uk/resources/images/21402145.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Pets & Animals
 ---
 
 *(Image: RSPCA)*

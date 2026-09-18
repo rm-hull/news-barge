@@ -7,6 +7,10 @@ scraped_at: '2026-08-29T13:49:10Z'
 published: '2026-08-29T00:00:00Z'
 description: Passengers reached Antalya more than 12 hours after their arrival time
 image: https://static.independent.co.uk/2026/08/24/15/01M075GV2FKC3W5VSWEAQEGSB8.jpg?trim=0,131,0,131&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 EasyJet passengers were left stranded for hours in Manchester and Milan after their pilot cancelled their flight 10 minutes before it was set to depart for Turkey on Friday.

@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Parchment describes the exact moment Helios finds out Odysseus’s men
   ate his ‘immortal’ cow
 image: https://static.independent.co.uk/2026/09/17/9/11/Fragment-on-parchment.jpeg?trim=53,0,54,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Books & Literature
 ---
 
 A small parchment containing verses of book 12 of the *Odyssey**,* dating to the 3rd or 4th century, has been found at a Dutch library.

@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: The startup wants to do for IT infrastructure what Cursor did for software
   engineering.
 image: https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1273058761.jpg?resize=1200,844
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Before joining Sequoia Capital in 2020 as chief digital and information officer, Avon Puri spent over a decade running infrastructure at Rubrik and VMware. Three years ago, as large language models began showing their true potential, Puri, alongside another Sequoia IT leader, Sudheer Dhurjati, recognized that AI could help autonomously solve a major challenge for infrastructure engineers — preventing tech outages before they occur.

@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: 'Tyne Housing has secured additional Government Warm Homes: Social Housing
   Fund investment to improve energy efficiency, cut bills and help…'
 image: https://www.thenorthernecho.co.uk/resources/images/21364367.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Supplied)*

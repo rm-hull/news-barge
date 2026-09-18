@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Could you have £2,000 sitting untouched? The forgotten savings pots millions
   of young adults may be entitled to
 image: https://www.gazetteherald.co.uk/resources/images/21208450.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: HighwayStarz)*

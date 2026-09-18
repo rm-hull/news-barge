@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: There is a likelihood of thunderstorms occurring across the UK today
   - could it reach your area?
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE2MjY4M2RiLTYyMzUtNDc4Zi1iODE3LTJmMmU2NTExNDA0YjpkZDMxZGQ1Yy0wNzA0LTQ0NWYtODg4My1kNWZkOTZiMDk3MmM=.jpg?crop=3:2,smart&trim=&width=1180&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Thunderstorms in Yorkshire: Will there be thunderstorms today? Percentage chance for Leeds, York, Sheffield, Bradford, Doncaster, Hull and Ripon - and how to find out by postcode

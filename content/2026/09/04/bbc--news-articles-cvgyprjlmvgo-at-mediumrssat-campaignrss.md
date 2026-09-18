@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Sweetie was on the roof of a two-storey house after climbing through
   a first-floor bedroom window.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d2ab/live/ae8937f0-a6f6-11f1-97e2-55b9ef1865bd.jpg
+categories:
+- UK
+- News & Politics
+- Home, Garden & DIY
+- Lifestyle & Fashion
 ---
 
 ![A firefighter is climbing down a ladder holding an orangey brown coloured dog with two firefighters in high vis yellow tops on the ground.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/22a3/live/fa0a66a0-a6f5-11f1-97e2-55b9ef1865bd.jpg)

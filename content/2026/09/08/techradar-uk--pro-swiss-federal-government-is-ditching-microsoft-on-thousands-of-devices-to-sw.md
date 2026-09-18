@@ -8,6 +8,8 @@ scraped_at: '2026-09-08T19:25:38Z'
 published: '2026-09-08T00:00:00Z'
 description: Switzerland plans to migrate 3,000 devices to open source software
 image: https://cdn.mos.cms.futurecdn.net/iwQ9AuuGtL2PEi6GDdbdVc-2121-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Swiss flag with view of Geneva city, Switzerland](https://cdn.mos.cms.futurecdn.net/iwQ9AuuGtL2PEi6GDdbdVc.jpg) 

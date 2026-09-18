@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A SCHOOL in Kirklees has been praised for its high standards and academic
   excellence.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21412375.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

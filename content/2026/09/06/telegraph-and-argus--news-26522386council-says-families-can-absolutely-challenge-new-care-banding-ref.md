@@ -9,6 +9,11 @@ published: '2026-09-06T00:00:00Z'
 description: A COUNCIL in West Yorkshire has assured families that those who need
   nursing care will still “absolutely” have a say in the care they receive…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21304011.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 A COUNCIL in West Yorkshire has assured families that those who need nursing care will still “absolutely” have a say in the care they receive under a new banding system.

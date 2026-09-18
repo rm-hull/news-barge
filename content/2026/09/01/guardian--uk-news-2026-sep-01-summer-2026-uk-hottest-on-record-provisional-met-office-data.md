@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Meteorologists say average mean temperature of 16.5C was made 130 times
   more likely by climate crisis
 image: https://i.guim.co.uk/img/media/0c77d07a4dcd41d987864e643c29d7bbb40aaeec/377_0_3945_3156/master/3945.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a4fceaa132bcff8b06a8af92138f6718
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 This year’s summer was the UK’s hottest on record, according to provisional Met Office data, with the season’s mean temperature made 130 times more likely as a result of the climate crisis.

@@ -9,6 +9,11 @@ description: A pig kidney transplant worked for a record nine months. This enabl
   the recipient to stay off dialysis for longer while waiting for a suitable human
   donor's kidney to become available
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310534034.jpg
+categories:
+- Science
+- Technology & Software
+- Family & Parenting
+- Health & Fitness
 ---
 
 ![The pig kidney that was transplanted into Tim Andrews on 25 January 2025](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310534034.jpg?w=840)

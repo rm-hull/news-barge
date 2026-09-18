@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: The fabricated footage parodied a post-game interaction following Texas’
   24-23 comeback victory over Ohio State on Saturday
 image: https://static.independent.co.uk/2026/09/16/0/49/GettyImages-2172024452.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 University of Texas quarterback Arch Manning issued an apology on social media following criticism he received for laughing at an artificial intelligence-generated video that depicted Longhorns head coach Steve Sarkisian striking ESPN reporter Holly Rowe.

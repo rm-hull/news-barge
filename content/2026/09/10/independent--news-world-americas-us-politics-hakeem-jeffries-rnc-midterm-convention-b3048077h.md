@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: Jeffries’ ad targets viewers with less than two months to go before the
   midterm elections
 image: https://static.independent.co.uk/2026/09/10/16/2293357732..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Hakeem Jeffries has one question after President Donald Trump offered to pay every American $5,000 if Republicans hold the House and Senate: Are you ready for some payback?

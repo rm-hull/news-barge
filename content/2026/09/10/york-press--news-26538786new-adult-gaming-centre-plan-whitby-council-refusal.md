@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: A 24-hour adult gaming centre has submitted new plans for illuminated
   lighting after its previous proposal in a North Yorkshire town was blocked.
 image: https://www.yorkpress.co.uk/resources/images/21434881.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## New adult gaming centre plan for town centre after council refusal

@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: Meta is in court again over child safety, and this time it’s a landmark
   case that could force significant changes to core features of Facebook and Instagram.
 image: https://media.wired.com/photos/6a87451ce60bdcf9fa335d65/191:100/w_1280,c_limit/Backchannel-Meta-Child-Safety-Trial-Biggest-Challenge-Yet-Business-2261841235.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 My colleague Paresh Dave and I each spent a day in federal court in Oakland, California, this week, monitoring the latest Meta child safety trial.

@@ -9,6 +9,9 @@ description: A candidate for the Missouri House has made an initial court appear
   on a federal drug charge accusing him of trying to plant cocaine and Adderall on
   his Republican primary opponent
 image: https://static.independent.co.uk/2026/09/03/18/Missouri_Candidate_Drug_Charge_13118.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A candidate for the Missouri House made an initial court appearance Thursday on a federal drug charge accusing him of trying to plant cocaine and Adderall on his Republican primary opponent.

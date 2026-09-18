@@ -7,6 +7,8 @@ scraped_at: '2026-08-20T08:52:28Z'
 published: '2026-08-20T00:00:00Z'
 description: AI hiring must test practical skills
 image: https://cdn.mos.cms.futurecdn.net/SjSwAU6f7Pkb5hStzepX5L-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Hands typing on a keyboard, with digital text and symbols superimposed on top showing a conversation with a chatbot](https://cdn.mos.cms.futurecdn.net/SjSwAU6f7Pkb5hStzepX5L.jpg) 

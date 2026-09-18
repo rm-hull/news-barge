@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Middleham Bridge could reopen by the end of next month as plans progress
   to make the historic structure safe after it was hit by a lorry.
 image: https://www.thenorthernecho.co.uk/resources/images/21465064.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 Middleham Bridge could reopen by the end of next month as plans progress to make the historic structure safe after it was hit by a lorry.

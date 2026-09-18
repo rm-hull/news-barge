@@ -9,6 +9,9 @@ description: He invented the unprecedented event, worried aloud about empty seat
   twice, asked the country to pretend he was on the ballot, and finally offered every
   adult citizen $5,000 if his party wins both chambers, writes Andrew Feinberg
 image: https://static.independent.co.uk/2026/09/10/03/2293886047..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Forty-three minutes into a speech that would run past an hour and a half, the President of the United States begged an arena full of his own supporters to avoid using the bathroom for the benefit of television cameras that were there to document his remarks.

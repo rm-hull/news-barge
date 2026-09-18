@@ -7,6 +7,9 @@ scraped_at: '2026-09-07T14:13:51Z'
 published: '2026-09-07T00:00:00Z'
 description: Taiwan is investigating 166 cases
 image: https://cdn.mos.cms.futurecdn.net/ef8zeecGrS3texgTdoSkYe-970-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Flag of the People's Republic of China overlaid with a technological network of wires and circuits.](https://cdn.mos.cms.futurecdn.net/ef8zeecGrS3texgTdoSkYe.jpg) 

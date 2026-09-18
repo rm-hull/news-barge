@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The North Yorkshire Cat Centre, part of Cats Protection, is celebrating
   25 years of helping cats find new homes.
 image: https://www.yorkpress.co.uk/resources/images/21328825.jpg?type=og-image&xType=0&yType=171
+categories:
+- Local
+- York
+- Pets & Animals
 ---
 
 ## North Yorkshire Cat Centre to celebrate 25th anniversary with open day

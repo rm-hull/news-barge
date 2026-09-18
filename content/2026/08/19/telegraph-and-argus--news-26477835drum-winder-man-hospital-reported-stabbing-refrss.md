@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A young man was injured after a reported stabbing near a Bradford city
   centre pub.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21341357.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Mike Simmonds)*

@@ -10,6 +10,11 @@ description: A leading Northern livestock farmer has issued a plea for farmers t
   as the bluetongue BTV-3 outbreak was confirmed as having spread to East, North and
   West Yorkshire.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY5ODQ3NTRlLTA4OGQtNDVkOC04NTIxLWNjMjQwNDA1MDU0NTo4ZGU1ZWIwYS02OTZhLTQ1NWQtYWE3NC0yNDhlMjZhMzgzMGI=.jpg?crop=3:2,smart&trim=&width=640&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Jabs plea as bluetongue virus causes ‘devastation’

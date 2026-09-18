@@ -8,6 +8,10 @@ scraped_at: '2026-08-31T16:08:26Z'
 published: '2026-08-31T00:00:00Z'
 description: Drier and sunnier conditions are expected for the final day of summer
 image: https://static.independent.co.uk/2026/08/31/7/56/Monday-forecast.png?trim=30,0,31,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 The weather is set to brighten up on bank holiday Monday, with sunny and dry interludes forecast for much of the UK.

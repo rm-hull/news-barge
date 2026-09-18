@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: “These past three months are a warning sign we cannot afford to ignore
   – the human and economic costs of fossil fuels are playing out in real time.”
 image: https://images.euronews.com/articles/stories/09/91/72/70/1200x675_cmsv2_a16541a6-9daa-54b5-9a22-b0401a998eb2-9917270.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## “These past three months are a warning sign we cannot afford to ignore – the human and economic costs of fossil fuels are playing out in real time.”

@@ -9,6 +9,12 @@ published: '2026-09-16T00:00:00Z'
 description: A council is making an investment of almost £2 million in a bid to crack
   down on anti-social behaviour and crime.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21462310.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Pixabay)*

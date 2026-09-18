@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Amelia Dimoldenberg announces she will end her popular YouTube series
   after more than a decade.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b41b/live/61e171b0-9ab8-11f0-b741-177e3e2c2fc7.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Film & TV
 ---
 
 ![Amelia Dimoldenberg wears a blue, halterneck dress with her blonde hair down to her shoulders. Her glamorous look is is contrast with her surroundings - a mocked-up fried chicken takeaway with white, tiled walls and a black cash register on the counter.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b41b/live/61e171b0-9ab8-11f0-b741-177e3e2c2fc7.jpg)

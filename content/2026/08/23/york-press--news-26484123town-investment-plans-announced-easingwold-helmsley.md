@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Easingwold and Helmsley are among 32 towns in North Yorkshire set to
   benefit from new Town Investment Plans.
 image: https://www.yorkpress.co.uk/resources/images/21353920.jpg?type=og-image&xType=3&yType=0
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 ## New plans aim to shape future investment in Easingwold and Helmsley

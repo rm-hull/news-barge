@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: A new research project involving AgriSound of York is aiming to transform
   pollination in UK fruit production.
 image: https://www.yorkpress.co.uk/resources/images/21438437.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 ## York firm's research project aims to boost UK fruit production

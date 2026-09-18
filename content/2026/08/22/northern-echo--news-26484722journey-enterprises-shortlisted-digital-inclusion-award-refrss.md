@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: A Coundon-based charity that helps adults with learning disabilities
   develop digital skills has been shortlisted for a national award recognising…
 image: https://www.thenorthernecho.co.uk/resources/images/21355915.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

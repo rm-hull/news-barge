@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: Countryfile and One Show presenter Matt Baker was born in Easington,
   County Durham. Discover how the village helped shape his remarkable career.
 image: https://www.thenorthernecho.co.uk/resources/images/20757539.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 Matt Baker is one of Britain's most recognisable television presenters, known for his work on Blue Peter, Countryfile, The One Show and Our Farm in the Dales.

@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: A graduate landed a full-time job at a global bank after impressing during
   an internship.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21407047.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Careers & Productivity
 ---
 
 *(Image: Supplied)*

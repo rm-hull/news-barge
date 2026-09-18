@@ -7,6 +7,10 @@ scraped_at: '2026-08-31T21:27:59Z'
 published: '2026-08-31T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/02/yorkshire-ambulance-service-emergency-ambulance-back-dreamstime.webp
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 Emergency services were called to an incident in Acomb, York, this afternoon (Monday).

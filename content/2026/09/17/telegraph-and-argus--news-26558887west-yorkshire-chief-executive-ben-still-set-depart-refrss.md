@@ -7,6 +7,11 @@ scraped_at: '2026-09-17T13:24:31Z'
 published: '2026-09-17T00:00:00Z'
 description: WEST Yorkshire’s chief executive is stepping down after a decade of service
 image: https://www.thetelegraphandargus.co.uk/resources/images/21467877.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 *(Image: Supplied)*

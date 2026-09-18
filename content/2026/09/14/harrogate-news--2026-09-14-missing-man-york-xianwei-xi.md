@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: North Yorkshire Police have deployed specialist teams in York to locate
   26-year-old Xianwei Xi (Jeremiah/Francis). Call 999 immediately if seen.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Missing-Xianwei.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 **YORK** — Police have deployed specialist search teams and issued an urgent emergency appeal to the public following the disappearance of a 26-year-old man from the Heslington area of York.

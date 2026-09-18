@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: CrossCountry trains issued an update after a power cut yesterday (Sunday,
   August 23) at its control centre in Birmingham.
 image: https://www.gazetteherald.co.uk/resources/images/20998512.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest)*

@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: UK clothing company Fanela has collapsed into administration after 43
   years in business.
 image: https://www.thenorthernecho.co.uk/resources/images/21422885.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

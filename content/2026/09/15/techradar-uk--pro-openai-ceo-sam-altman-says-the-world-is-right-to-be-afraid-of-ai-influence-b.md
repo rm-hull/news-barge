@@ -9,6 +9,8 @@ published: '2026-09-15T00:00:00Z'
 description: Sam Altman reflects on “insane mission” of OpenAI, and where the tech
   will go next
 image: https://cdn.mos.cms.futurecdn.net/w4FM89EMTyEckeVYVYGBYM-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![OpenAI's Sam Altman speaks about ChatGPT at a developer town hall meeting.](https://cdn.mos.cms.futurecdn.net/w4FM89EMTyEckeVYVYGBYM.jpg) 

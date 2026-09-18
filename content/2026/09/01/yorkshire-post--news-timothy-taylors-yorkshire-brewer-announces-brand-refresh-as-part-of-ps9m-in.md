@@ -10,6 +10,12 @@ description: Independent family brewers Timothy Taylor's has unveiled its first 
   brand refresh in more than a decade as part of a major £9m investment into the company’s
   future.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjI2OGIyM2EzLTg4ZTQtNDAwMC1iY2NhLTJjMTUzYWUyMjA0MjplYTEyMDAyMS00MjZlLTQ0ZjUtOWY0Ni02ODc0MDEzMWI0NWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 # Timothy Taylor's: Yorkshire brewer announces brand refresh as part of £9m investment

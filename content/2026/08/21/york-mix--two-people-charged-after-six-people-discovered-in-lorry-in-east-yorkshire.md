@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T08:54:31Z'
 published: '2026-08-21T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/hgv-lorry-wagon-canva.webp
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 Police have charged two people after a discovery in Goole.

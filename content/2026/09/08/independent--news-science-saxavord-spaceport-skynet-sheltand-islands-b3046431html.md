@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: The broader UK Space Strategy details £7.8 billion in total funding across
   the sector up to 2030
 image: https://static.independent.co.uk/2025/12/30/00/76fe5cbd26ccae97633aa0d84c87798bY29udGVudHNlYXJjaGFwaSwxNzY0Nzc2NTYx-2.72737457.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Millions of pounds will be invested in bolstering national defences against threats from space under a new strategy from the UK government.

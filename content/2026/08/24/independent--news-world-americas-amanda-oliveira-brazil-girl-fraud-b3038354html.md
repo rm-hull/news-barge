@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Amanda Maria Souza de Oliveira conned an evangelical church going couple
   and carried out similar scams across Brazil for years, police said
 image: https://static.independent.co.uk/2026/08/24/12/39/Amanda-Maria-Souza-de-Oliveira-fe946855.jpeg?trim=0,0,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A 37 year-old woman pretended to be a 12 year-old autistic girl to trick a family into giving her a place to live, in an extraordinary deception that lasted more than a year.

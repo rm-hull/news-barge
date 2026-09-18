@@ -8,6 +8,9 @@ scraped_at: '2026-09-10T12:53:47Z'
 published: '2026-09-10T00:00:00Z'
 description: Argentina president Javier Milei has claimed ‘the Falklands are Argentinian’
 image: https://static.independent.co.uk/2025/08/15/11/13f7e7a0719992cf9844d25bc2cb9c0cY29udGVudHNlYXJjaGFwaSwxNzU1MzM0NDU5-2.51617252.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Supermarket chain Iceland has announced plans to launch a store in the Falkland Islands, marking what it claims will be a first for a UK high street brand in the territory.

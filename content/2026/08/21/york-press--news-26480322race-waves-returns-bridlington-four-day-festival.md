@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Race the Waves returns to Bridlington from September 10 to 13, featuring
   a 200-yard sprint along the sands of South Beach.
 image: https://www.yorkpress.co.uk/resources/images/21345654.jpg?type=og-image&xType=0&yType=92
+categories:
+- Local
+- York
+- Travel
+- Lifestyle & Fashion
 ---
 
 ## Vintage vehicles to race along Bridlington beach at free festival

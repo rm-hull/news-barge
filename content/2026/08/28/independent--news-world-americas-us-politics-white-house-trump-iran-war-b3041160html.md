@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: ‘The president has been in a pretty frustrated mood for a while about
   Iran,’ the reporter claimed
 image: https://static.independent.co.uk/2026/08/28/15/33/Screenshot-2026-08-28-at-16-33-17.png?trim=39,0,76,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The White House is not a “happy environment” as President Trump’s frustration with the Iran War grows, one reporter has claimed.

@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: Paul Robinson allegedly ‘took steps to conceal evidence, including a
   safe containing drugs and cash,’ Pennsylvania Attorney General Dave Sunday says
 image: https://static.the-independent.com/2026/08/18/18/58/Robinson-split.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A hotshot Pittsburgh lawyer has been accused of trying to cover up an alleged cocaine trafficking ring run by his college-student son and other members of his fraternity at Penn State University, *The Independent* has confirmed.

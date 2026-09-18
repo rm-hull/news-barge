@@ -9,6 +9,8 @@ published: '2026-09-04T00:00:00Z'
 description: Logitech’s budget-friendly gaming mouse cuts the weight without losing
   the features.
 image: https://cdn.mos.cms.futurecdn.net/ADkpaj7qKNNYasDfAHJrtj-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

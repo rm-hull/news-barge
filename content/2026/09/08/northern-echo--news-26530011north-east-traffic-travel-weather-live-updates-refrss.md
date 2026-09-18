@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: Live updates on roadworks and traffic incidents in Darlington, Bishop
   Auckland, Durham and the wider North East- including the A66, A19, A1(M), A1,…
 image: https://www.thenorthernecho.co.uk/resources/images/20830025.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- Technology & Software
 ---
 
 *(Image: THE NORTHERN ECHO)*

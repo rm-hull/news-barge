@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: A LANDMARK Whitby hotel will be repainted after owners turned part of
   its façade pink without permission.
 image: https://www.gazetteherald.co.uk/resources/images/21443136.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 ### What is the Public Notice Portal?

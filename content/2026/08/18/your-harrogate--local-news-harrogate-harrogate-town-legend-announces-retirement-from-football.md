@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Former Harrogate Town favourite Joe Leesley has announced his retirement
   from football.
 image: https://mmo.aiircdn.com/409/6a844871962ce3402a1.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![](https://mmo.aiircdn.com/409/6a844871962ce3402a1.jpg) 

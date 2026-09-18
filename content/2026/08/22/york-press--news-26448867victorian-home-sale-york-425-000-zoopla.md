@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: A Victorian terraced house in Fountayne Street, off Wigginton Road in
   York, is for sale for £425,000.
 image: https://www.yorkpress.co.uk/resources/images/21293334.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
+- Travel
 ---
 
 *(Image: Hudson Moody/Zoopla)*

@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Naomi Osaka may not have gone out of the U.S. Open Monday with much of
   a bang
 image: https://static.independent.co.uk/2026/09/08/03/US_Open_Tennis_31_43.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Naomi Osaka may not have gone out of the U.S. Open with much of a bang. But she surely went out with a burst — of color, and a bit of swag.

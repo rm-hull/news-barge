@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: City of York Council said the A1079 Hull Road will close across five
   areas from 8pm on Monday, September 7 and 6am on Saturday, September 19.
 image: https://www.yorkpress.co.uk/resources/images/19485644.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Major road in York set to close for resurfacing works

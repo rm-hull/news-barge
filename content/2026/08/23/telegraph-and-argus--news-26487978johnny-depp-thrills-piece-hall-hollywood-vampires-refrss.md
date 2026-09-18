@@ -9,6 +9,12 @@ published: '2026-08-23T00:00:00Z'
 description: Johnny Depp rocked a Halifax stage last night as his band played the
   Piece Hall.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21359302.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
+- Comedy & Entertainment
 ---
 
 *(Image: CUFFE & TAYLOR)*

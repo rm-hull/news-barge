@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Chantel Brooks, 36, was last seen leaving a CVS in Fairfield, California,
   in the early hours of July 17
 image: https://static.the-independent.com/2026/08/19/17/56/Screenshot-2026-08-19-at-1-45-12-PM.jpg?trim=0,5,0,5&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 California investigators have revealed that they believe foul play was involved in the disappearance of San Francisco hotel worker Chantel Brooks.

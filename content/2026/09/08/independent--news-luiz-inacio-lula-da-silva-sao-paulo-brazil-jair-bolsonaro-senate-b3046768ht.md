@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Brazilian Supreme Court Justice André Mendonca has removed the head of
   the federal police and the intelligence chief from their posts
 image: https://static.independent.co.uk/2026/09/08/17/Brazil_Police_Director_General_34711.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Society & Culture
 ---
 
 Brazilian Supreme Court Justice André Mendonca on Tuesday removed the head of the country’s federal police and its intelligence chief from their posts, deepening a crisis at the top court and drawing President Luiz Inácio Lula da Silva's government into the turmoil ahead of October national elections.

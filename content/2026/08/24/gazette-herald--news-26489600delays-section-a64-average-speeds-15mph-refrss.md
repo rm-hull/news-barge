@@ -7,6 +7,11 @@ scraped_at: '2026-08-24T11:45:30Z'
 published: '2026-08-24T00:00:00Z'
 description: MOTORISTS are facing delays on a main road in North Yorkshire.
 image: https://www.gazetteherald.co.uk/resources/images/21287521.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Contributed)*

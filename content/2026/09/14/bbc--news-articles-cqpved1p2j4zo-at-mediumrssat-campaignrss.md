@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Sunday in the Park With George was supposed to make its debut next year
   at the Barbican.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/90c4/live/cf57afc0-b03d-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Music
+- Sports
 ---
 
 ![Jonathan Bailey, wearing a white open-necked shirt, and Ariana Grande in a black top and pearl stud earrings, at a Q&A on the film Wicked: For Good in Los Angeles. They are both laughing.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/90c4/live/cf57afc0-b03d-11f1-b1d1-571ed4d7ff2c.jpg)

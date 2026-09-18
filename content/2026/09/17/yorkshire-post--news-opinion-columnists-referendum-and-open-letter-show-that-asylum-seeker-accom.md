@@ -10,6 +10,11 @@ description: The idea of a small village in Oxfordshire declaring independence f
   Britain is absurd but there’s an important message behind the stunt by the villagers
   of Piddington.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQ4ZTUyNWI5LTAwYjQtNDZkYy05NjdiLTE5YzY4OTIxMzk5MToyNTdiN2E3Zi1lMWVkLTQwY2UtOWNmYy1iMmFhNTM1NzUwYzI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Referendum and open letter show that asylum seeker accommodation plans such as Linton-on-Ouse are inappropriate

@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Yemen's Houthi rebels have become an increasingly disruptive force in
   the Middle East in recent years
 image: https://static.independent.co.uk/2026/09/08/15/Middle_East_Yemen_Houthis_Explainer_5989_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Yemen's Houthi rebels, who launched a wave of attacks on Saudi oil facilities on Tuesday, have become an increasingly disruptive force in the Middle East in recent years, striking Israel, Saudi Arabia and a global shipping route in solidarity with Iran and allied armed groups.

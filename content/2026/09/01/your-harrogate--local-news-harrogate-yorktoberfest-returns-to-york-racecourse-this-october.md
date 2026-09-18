@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: York’s popular Yorktoberfest is returning this autumn with a brand-new
   Big Top set to transform York Racecourse into a Bavarian beer hall.
 image: https://mmo.aiircdn.com/409/6a9683323678bb6dac3.jpg
+categories:
+- Local
+- Harrogate
+- Lifestyle & Fashion
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9683323678bb6dac3.jpg) 

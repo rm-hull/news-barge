@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: Civil rights groups in South Africa are calling for a pause on building
   more data centers until their use of water, land and electricity is investigated
 image: https://static.independent.co.uk/2026/09/04/12/South_Africa-Data_Centres_653_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 South African civil rights groups are calling for a halt to the construction of additional data centers in the country until the use of scarce water, land and electricity resources has been investigated.

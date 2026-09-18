@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: The west London airport said 7.87 million passengers passed through its
   four terminals last month, down 2.1% year on year.
 image: https://static.independent.co.uk/2026/09/11/07/39824b974c9147ef8a5fb86121a694d7Y29udGVudHNlYXJjaGFwaSwxNzg5MTk1NTI3-2.40677523.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Heathrow airport has revealed a fall in passengers during the peak getaway month of August as it flagged “big challenges” across the sector.

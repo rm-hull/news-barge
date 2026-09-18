@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: England comfortably chase a below-par target of 146 to thrash Sri Lanka
   by six wickets and seal the three-match T20 series with a game to spare.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4d6b/live/ccb81e80-b2d6-11f1-8586-e36059caa868.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Highlights: England take the series with 6 wicket win and seven overs to spare

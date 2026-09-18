@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Charlotte Charles says the situation has "all the hallmarks" of her son's
   case.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2617/live/49c1e6c0-d0f3-11f0-b0cc-cf4d0e5d41e2.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Charlotte Charles sits on a black sofa. She is wearing a black T-shirt and her blonde hair is up.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2617/live/49c1e6c0-d0f3-11f0-b0cc-cf4d0e5d41e2.jpg)

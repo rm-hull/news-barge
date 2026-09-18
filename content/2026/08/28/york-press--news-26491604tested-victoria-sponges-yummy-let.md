@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T11:16:39Z'
 published: '2026-08-28T00:00:00Z'
 description: WHO doesn’t love a slice of Victoria sponge?
 image: https://www.yorkpress.co.uk/resources/images/21365822.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 ## I tested the best supermarket Victoria sponge cakes

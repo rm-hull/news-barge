@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Robert Guanco, 41, was a pastor at Jesus the Living Water Church in Eastbourne,
   East Sussex.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f811/live/6fa11450-a45c-11f1-b370-b9b7934350c8.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![A man in w white hat and navy coat. He has a goatee and is standing in front of rolling hills.](https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/f811/live/6fa11450-a45c-11f1-b370-b9b7934350c8.jpg)

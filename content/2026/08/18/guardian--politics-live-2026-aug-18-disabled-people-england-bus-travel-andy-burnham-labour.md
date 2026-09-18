@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Burnham has announced a range of policies aimed at relieving pressure
   on financially squeezed households and businesses
 image: https://i.guim.co.uk/img/media/328b8588a69cc88c8b7cab38713d0fab6ab0f5c3/929_0_4793_3835/master/4793.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0d7e41a5ae33b37bfd9eefa3dcaf6f7a
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The £60m to fund the move comes from existing budgets – with £40m from the Department for Work and Pensions and £20m from the Department for Transport. Photograph: Ben Montgomery/Getty Images

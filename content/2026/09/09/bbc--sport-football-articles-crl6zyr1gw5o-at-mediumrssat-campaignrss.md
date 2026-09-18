@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: After saying he was "very sad" at the lack of a contract offer from Liverpool,
   Alexis Mac Allister proved his worth against Atletico Madrid.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d6e6/live/120e8690-aca1-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Highlights: Liverpool come from behind to beat Atletico Madrid

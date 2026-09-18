@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Fancy making Sunday lunch a little more special? We’ve teamed up with
   the wonderful Corner Grill House in York to give one lucky winner the chance to
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/corner-grill-house-roast-4.webp
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 Fancy making Sunday lunch a little more special?

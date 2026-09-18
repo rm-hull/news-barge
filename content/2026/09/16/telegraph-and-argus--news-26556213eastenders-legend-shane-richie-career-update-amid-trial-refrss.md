@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: An EastEnders legend is set to take a break from the soap amid an upcoming
   criminal trial.
 image: https://www.thetelegraphandargus.co.uk/resources/images/10323051.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: PA)*

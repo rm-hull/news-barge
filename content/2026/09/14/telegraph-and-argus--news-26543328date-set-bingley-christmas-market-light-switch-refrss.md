@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: The date has been announced for Bingley's Christmas market and lights
   switch-on, with festive stalls, entertainment, Santa's grotto and…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21443412.jpg?type=og-image&xType=0&yType=402
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 Hundreds of people are expected to flock to a Bradford district town for its annual Christmas market and lights switch-on.

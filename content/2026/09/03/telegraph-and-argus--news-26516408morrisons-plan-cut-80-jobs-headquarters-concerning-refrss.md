@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: A Bradford MP has described plans that could see around 80 jobs cut at
   Morrisons' Bradford headquarters as "concerning".
 image: https://www.thetelegraphandargus.co.uk/resources/images/21402763.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: T&A)*

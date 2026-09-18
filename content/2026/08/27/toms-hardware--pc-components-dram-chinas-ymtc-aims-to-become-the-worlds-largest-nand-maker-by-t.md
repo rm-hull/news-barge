@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: The Entity-Listed chipmaker told investors it plans to overtake Samsung
   and SK hynix as it prepares a $4.9 billion Shanghai IPO.
 image: https://cdn.mos.cms.futurecdn.net/gvpMevmFmrpYoKystbq537-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![YMTC](https://cdn.mos.cms.futurecdn.net/gvpMevmFmrpYoKystbq537.jpg) 

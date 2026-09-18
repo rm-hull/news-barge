@@ -9,6 +9,9 @@ published: '2026-08-29T00:00:00Z'
 description: Trump's deal gives the United States a stake in Venezuela’s vast oil
   reserves - but what does that actually mean?
 image: https://static.independent.co.uk/2026/08/29/15/2026-08-29T002705Z_401380634_RC2YHCATHAIK_RTRMADP_3_USA-TRUMP-VENEZUELA.JPG
+categories:
+- News & Politics
+- UK
 ---
 
 The White House has offered little detail regarding what President Donald Trump has described as "THE BIGGEST OIL DEAL IN WORLD HISTORY" in Venezuela, beyond a single social media post.

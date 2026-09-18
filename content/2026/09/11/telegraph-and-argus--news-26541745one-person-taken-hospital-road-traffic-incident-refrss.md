@@ -8,6 +8,11 @@ scraped_at: '2026-09-11T12:48:34Z'
 published: '2026-09-11T00:00:00Z'
 description: One person taken to hospital after road traffic collision in Bradford
 image: https://www.thetelegraphandargus.co.uk/resources/images/20318582.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

@@ -9,6 +9,11 @@ description: There is a danger, here, that this one ought to be confined to the 
   marked ‘innocuous grievance of a permanently disgruntled middle-aged man’ and I
   will only know as much owing to your much valued feedback, so…
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE4YzI1NDJiLTg1M2QtNDhjOC04ZTZmLWJlMjBmMTAyYzQ1YTpkN2ZlMDVkNC1kMmIzLTQ4NDItOGE1OS05NWVjYjVmNjY3ODg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # E-bikes - are they illegal in cities like Leeds, Sheffield or York?

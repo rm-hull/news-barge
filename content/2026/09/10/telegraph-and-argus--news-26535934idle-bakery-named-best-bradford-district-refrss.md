@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: A Bradford cafe that blends British and Polish baking traditions is up
   for an award.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18512053.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 A BRADFORD cafe that blends British and Polish baking traditions is up for an award.

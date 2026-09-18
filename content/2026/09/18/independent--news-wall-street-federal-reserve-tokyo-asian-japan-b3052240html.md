@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Asian shares are mostly up, as markets get a lift after Wall Street rallies
   to its best day in six weeks
 image: https://static.independent.co.uk/2026/09/17/17/Financial_Markets_Wall_Street_292_1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Asian shares mostly rose in early Friday trading, getting a lift from a rally on Wall Street as well as declining oil prices.

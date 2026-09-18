@@ -9,6 +9,11 @@ description: The expected years after retirement age differ widely across Europe
   Euronews Business takes a closer look at current retirement ages and how long Europeans
   can expect to receive their pension.
 image: https://images.euronews.com/articles/stories/09/91/32/23/1200x675_cmsv2_a441302d-0c8a-5a70-aa93-8504ca14eb36-9913223.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 ## The expected years after retirement age differ widely across Europe. Euronews Business takes a closer look at current retirement ages and how long Europeans can expect to receive their pension.

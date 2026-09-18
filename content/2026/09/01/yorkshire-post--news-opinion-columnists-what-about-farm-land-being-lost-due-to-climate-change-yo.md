@@ -7,6 +7,11 @@ scraped_at: '2026-09-01T13:28:37Z'
 published: '2026-09-01T00:00:00Z'
 description: 'From: Dr Andrew Blewett, Matford Avenue, Exeter.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ0MjdhNjIxLTY2NmQtNDE1Ni1hNTU3LTUzNDMyOTU5OWUzMTozNjBjYTAxNi05NTNmLTQxN2YtOGM3ZS1lZmI1NWNkZDUwYTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # What about farm land being lost due to climate change? - Yorkshire Post Letters

@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The £12,570 Personal Allowance is frozen until 2031. A new petition is
   calling for it to rise automatically with inflation or wages.
 image: https://www.yorkpress.co.uk/resources/images/21461123.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: House of Commons/UK Parliament/PA Wire)*

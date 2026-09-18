@@ -8,6 +8,12 @@ scraped_at: '2026-08-25T13:08:13Z'
 published: '2026-08-25T00:00:00Z'
 description: 'From: Bryn Glover, Kirkby Malzeard, Ripon.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjgyMmYyMTJiLTYzY2MtNDNkOC1hODUwLWMwMzdiN2RiYmEyYTo3MWEzNTcyYy1kYTNiLTQ2OTItOGE1Yy1jYzEwNmExZjgzMTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- News & Politics
 ---
 
 # The Clacton by-election was an egotistical abuse of democracy - Yorkshire Post Letters

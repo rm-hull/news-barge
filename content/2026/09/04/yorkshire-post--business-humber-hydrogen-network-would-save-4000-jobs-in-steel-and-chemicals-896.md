@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: The Humber is expected to be one of the leading contenders for the UK’s
   first hydrogen network alongside Teesside.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/04/13/53/_25A5081.jpg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Humber Hydrogen network would save 4,000 jobs in steel and chemicals, analysis finds

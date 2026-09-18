@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: North Yorkshire Police has launched an urgent search for a missing York
   teenager.
 image: https://www.yorkpress.co.uk/resources/images/21473720.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: North Yorkshire Police)*

@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T04:51:17Z'
 published: '2026-08-26T00:00:00Z'
 description: Here's a list of the cheapest garages in York, according to petrolprices.com.
 image: https://www.yorkpress.co.uk/resources/images/15726968.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Archive)*

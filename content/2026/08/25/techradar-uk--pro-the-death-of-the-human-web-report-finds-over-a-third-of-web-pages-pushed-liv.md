@@ -8,6 +8,8 @@ scraped_at: '2026-08-26T01:54:39Z'
 published: '2026-08-25T00:00:00Z'
 description: AI is writing the web
 image: https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A robot's hand typing on a laptop keyboard](https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L.jpg) 

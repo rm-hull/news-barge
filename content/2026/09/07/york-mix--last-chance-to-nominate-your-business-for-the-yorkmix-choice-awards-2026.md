@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T14:14:16Z'
 published: '2026-09-07T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/10/yorkmix-choice-awards-2025.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 The clock is ticking – as we’re in the final hours to nominate your business for the YorkMix Choice Awards 2026.

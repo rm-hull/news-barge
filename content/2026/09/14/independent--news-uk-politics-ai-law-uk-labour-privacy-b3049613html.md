@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: AI is ‘moving with such speed and complexity that its impact is hard
   to accurately predict’
 image: https://static.independent.co.uk/2026/06/25/00/14121204-614c3e16-8514-40c5-b00d-f5ae22b29a15.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A cross-party panel of MPs has urged the creation of a new artificial intelligence (AI) Bill “to address the scale and seriousness of threats posed to human rights” arising from the technology.

@@ -9,6 +9,8 @@ published: '2026-09-09T00:00:00Z'
 description: Qualcomm's upcoming Snapdragon chipset allows for powerful on-device
   AI without massive RAM requirements.
 image: https://cdn.mos.cms.futurecdn.net/byCr8DA85bFgd9X55ZBj5T-974-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Qualcomm Snapdragon](https://cdn.mos.cms.futurecdn.net/byCr8DA85bFgd9X55ZBj5T.jpg) 

@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: The Cabinet Office, which leads on AI safety, says the UK "cannot simply
   turn AI off".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/63e1/live/212f16d0-adeb-11f1-9a5c-a7a4083eb832.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![A hand on a phone displaying several AI apps including ChatGPT, Claude, Copilot, DeepSeek and Gemini](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/63e1/live/212f16d0-adeb-11f1-9a5c-a7a4083eb832.jpg)

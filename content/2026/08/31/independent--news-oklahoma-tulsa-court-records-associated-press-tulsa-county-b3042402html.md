@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Authorities have charged an Oklahoma man with murder after a deadly explosion
   at a marijuana extraction facility he owns
 image: https://static.independent.co.uk/2026/09/01/00/Oklahoma_Building_Explosion_47_44.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 An Oklahoma man has been charged with murder following a large explosion at a marijuana extraction facility that killed two of his employees and damaged surrounding businesses, prosecutors said Monday.

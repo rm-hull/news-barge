@@ -9,6 +9,9 @@ published: '2026-09-18T00:00:00Z'
 description: Lanterns' sixth episode will reunite us with John Stewart and Hal Jordan
   in 2026 — here's when it'll premiere.
 image: https://cdn.mos.cms.futurecdn.net/ywf79SjjgAfKRsyAoaW4qU-1686-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![A close-up of a stern-looking John Stewart in Lanterns episode 6](https://cdn.mos.cms.futurecdn.net/ywf79SjjgAfKRsyAoaW4qU.jpg) 

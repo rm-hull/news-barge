@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Whist drive ticket embedded in rock and news article on Great Train Robbers
   among items discovered during 10-year restoration
 image: https://i.guim.co.uk/img/media/4cddedf5a851b94359b2a054904d336fce6309f5/463_0_4749_3800/master/4749.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f56cfd31c960d14f16916cfa375d678d
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Lost or long-discarded items revealing glimpses of the behind-the-scenes life of Buckingham Palace staff over decades have been uncovered during the restoration of the UK monarchy’s HQ.

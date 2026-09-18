@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Four parents are set to tackle a challenging 63-mile run to raise funds
   for Sutton-on-the-Forest Primary School.
 image: https://www.gazetteherald.co.uk/resources/images/21433546.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 *(Image: Supplied)*

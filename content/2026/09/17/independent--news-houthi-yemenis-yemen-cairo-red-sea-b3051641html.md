@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: The lightning advance of the Iran-backed Houthi rebels has forced tens
   of thousands of people to flee their homes in Yemen
 image: https://static.independent.co.uk/2026/09/17/05/Mideast_Wars_Yemen_2_3_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 As Houthi rebels closed in, Eshraq Abdel Gelil and her husband fled their home, walking through the mountains before catching a ride to a nearby city. Four months pregnant, she feared another miscarriage.

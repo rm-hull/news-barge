@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Ben Delo, who has said he wants to help ‘build a war chest’ for Reform
   to fight the next election, has given the party a total of £8m
 image: https://static.independent.co.uk/2026/04/08/16/30/Ben_Delo_on_stage_at_The_Spectators__Whos_afraid_of_Bitcoin___conference-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Nigel Farage’s party has received another £4m from a British crypto billionaire pardoned by Donald Trump.

@@ -7,6 +7,11 @@ scraped_at: '2026-08-29T06:59:52Z'
 published: '2026-08-29T00:00:00Z'
 description: 'Please explain all changes:'
 image: https://www.thenorthernecho.co.uk/resources/images/21352145.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 LIGHT was cast last weekend on what would be in Durham’s new gallery and exhibition space when The Light opened to the public.

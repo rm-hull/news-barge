@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Army veteran Steven Lancaster jailed for 44 weeks in County Durham after
   breaching a sexual harm prevention order during a routine device check.
 image: https://www.thenorthernecho.co.uk/resources/images/21470226.jpg?type=og-image&xType=0&yType=212
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Durham Constabulary)*

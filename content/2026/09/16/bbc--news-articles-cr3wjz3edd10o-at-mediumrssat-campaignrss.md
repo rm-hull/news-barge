@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Evan Spiegel says it would be "an important step forward for the industry"
   in an interview with the BBC.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f10f/live/321a5e10-b22c-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 Watch: CEO Evan Spiegel tells the BBC he would consider a time limit on Snapchat

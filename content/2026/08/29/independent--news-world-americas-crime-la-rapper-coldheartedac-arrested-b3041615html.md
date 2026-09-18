@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: The rapper often flaunted his lavish lifestyle on social media, including
   iced-out jewelry and a photo with a boxing legend
 image: https://static.the-independent.com/2026/08/28/19/09/coldheartedac-arrest-doj.jpeg?trim=109,505,206,18&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Coldhearted, indeed.

@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: A group opposing plans to house 1,200 asylum seekers at the former RAF
   Linton-on-Ouse has ruled out holding a Piddington-style “referendum”.
 image: https://www.yorkpress.co.uk/resources/images/21462389.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Joe Giddens/PA Wire)*

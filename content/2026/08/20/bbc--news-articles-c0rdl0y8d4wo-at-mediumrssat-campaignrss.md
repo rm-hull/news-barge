@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A Royal College of Paediatrics and Child Health has published a report
   with concerns vaping is a gateway to smoking
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae91/live/be34ef00-9bfc-11f1-bbc9-198f60b94eaf.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Family & Parenting
 ---
 
 ![A young fair-haired woman wearing a grey hooded sweatshirt and white T shirt is standing in a kitchen with vape and mobile phone in her hands](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/ae91/live/be34ef00-9bfc-11f1-bbc9-198f60b94eaf.jpg)

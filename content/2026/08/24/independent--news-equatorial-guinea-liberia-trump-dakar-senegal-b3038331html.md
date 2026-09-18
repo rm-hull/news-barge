@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Six people deported by the U.S. to Liberia last week resisted getting
   off the plane
 image: https://static.independent.co.uk/2026/08/24/16/Liberia_US_Deportees__212.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Six people who were deported by the United States to Liberia last week resisted getting off the plane and instead were sent to Equatorial Guinea, another African nation that signed a third-country deporation agreement with the Trump administration, a person on the plane and a lawyer in contact with the six said Monday.

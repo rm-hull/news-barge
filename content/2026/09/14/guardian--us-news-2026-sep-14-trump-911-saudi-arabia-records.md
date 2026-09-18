@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: Families have asked Trump to declassify records that could shed light
   on Saudi Arabia’s alleged role in the 2001 attacks
 image: https://i.guim.co.uk/img/media/fc319ffa9fe7b106e4e0279116e6998ff42ab761/116_0_2218_1774/master/2218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d82930501f5e1d6b71cfc6ad0cd49ea8
+categories:
+- UK
+- News & Politics
 ---
 
 Donald Trump said on Sunday that he will look into requests from families of 9/11 victims to release records that could shed light on Saudi Arabia’s alleged role in the attacks 25 years ago.

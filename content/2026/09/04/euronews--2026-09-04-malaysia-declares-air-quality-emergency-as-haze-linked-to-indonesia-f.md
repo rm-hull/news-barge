@@ -9,6 +9,11 @@ description: Haze is a recurring seasonal problem in Southeast Asia, where smoke
   forest and peat fires in Indonesia can travel across national borders and affect
   neighbouring Malaysia, Brunei and Singapore.
 image: https://images.euronews.com/articles/stories/09/90/15/83/1200x675_cmsv2_ce421a5c-f027-5ec8-a14f-5f9057d75840-9901583.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
+- Society & Culture
 ---
 
 ## Haze is a recurring seasonal problem in Southeast Asia, where smoke from forest and peat fires in Indonesia can travel across national borders and affect neighbouring Malaysia, Brunei and Singapore.

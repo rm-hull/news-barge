@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Last month, Mr Farage said he had ‘never been angrier in my life’ as
   he complained about media treatment of his family
 image: https://static.independent.co.uk/2026/08/15/09/Nvh8dqzNtfPSxQPfqiyawRuUK8b9OzDEWMtQ0FoDUoXBG5xdyBQknaose8kdMtnWsZm2uydpY5VNjmn6_-gBwy8HraaEUVXCsnsC..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 Ofcom is to investigate *Sky News* after Nigel Farage accused the broadcaster of “haranguing” his daughter at her home amid questions over his financial affairs.

@@ -11,6 +11,9 @@ description: Recovering from the devastating earthquake that hit Colombia earlie
   long struggled with high poverty rates, poor infrastructure and underfunded health
   and education services
 image: https://static.independent.co.uk/2026/08/19/18/Colombia_Earthquake_79699.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Ismael Arias was headed to the market when the devastating 7.4 magnitude earthquake hit western Colombia last week, sowing death and destruction. His home region of Choco was the epicenter.

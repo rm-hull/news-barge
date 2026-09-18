@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Pavilions of Harrogate has celebrated its 30th anniversary with staff
   and special guests at the Great Yorkshire Showground.
 image: https://mmo.aiircdn.com/409/6a85a1fb8142610852f.jpg
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
 ---
 
 ![](https://mmo.aiircdn.com/409/6a85a1fb8142610852f.jpg) 

@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: When Holly Baxter signed up for a health questionnaire and some bloodwork
   with new AI startup DeathClock, she wasn’t prepared for what would happen next
 image: https://static.independent.co.uk/2026/09/17/19/15/GettyImages-458521118.jpeg?trim=618,1329,693,637&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The day that I found out when I’m going to die started normally. I filled out my DeathClock health profile (height, weight, allergies, family medical history, daily sugar and alcohol intake, and so on) and let the app know when my oldest grandparent died (in her 90s.) I detailed how I rarely sleep more than seven hours per night (I have a toddler) but how I do cardio every day (again, I have a toddler.)

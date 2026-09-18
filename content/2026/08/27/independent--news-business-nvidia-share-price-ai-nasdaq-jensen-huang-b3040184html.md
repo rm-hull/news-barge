@@ -7,6 +7,12 @@ scraped_at: '2026-08-27T12:00:58Z'
 published: '2026-08-27T00:00:00Z'
 description: The chipmaker’s shares are up more than 7 per cent in pre-market trading
 image: https://static.independent.co.uk/2026/08/27/10/2026-08-27T081024Z_1703107473_RC2YEMARPH1T_RTRMADP_3_NVIDIA-STOCKS.JPG?trim=0,50,0,50&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 Nvidia, the biggest public-listed company in the world, has seen its share price soar by more than 7 per cent in overnight trading after another enormous financial update.

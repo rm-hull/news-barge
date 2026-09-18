@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: DRIVERS are only just realising the meaning of a small arrow next to
   the fuel pump icon on their dashboard.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20744400.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 *(Image: Archive)*

@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: A former soldier who served for more than a decade has said the housing
   system is “absolutely broken” after he spent 15 weeks sleeping in County…
 image: https://www.thenorthernecho.co.uk/resources/images/21331444.jpg?type=og-image&xType=0&yType=13
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: SUPPLIED)*

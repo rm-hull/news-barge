@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Motorists in North Yorkshire could face a diversion of almost 50 miles
   as drainage improvement works close a road in Swaledale.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21331561.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: PA MEDIA)*

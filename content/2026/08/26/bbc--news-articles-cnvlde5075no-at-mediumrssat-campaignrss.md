@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Nepali police says 332 bodies have been recovered, while over 1,300 are
   still missing in total, according to authorities.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e0e7/live/b8d38ff0-a159-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Mud covers houses and a road following a flash flood at Trishuli in Nuwakot district, Nepal, August 26, 2026.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/e0e7/live/b8d38ff0-a159-11f1-b109-879e35c24276.jpg)

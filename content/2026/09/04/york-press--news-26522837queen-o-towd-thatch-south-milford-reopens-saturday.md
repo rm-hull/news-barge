@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The village gastropub Queen O’ T'owd Thatch in South Milford, which closed
   just over a week ago, is to re-open tomorrow (Saturday).
 image: https://www.yorkpress.co.uk/resources/images/21411740.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Mike Laycock)*

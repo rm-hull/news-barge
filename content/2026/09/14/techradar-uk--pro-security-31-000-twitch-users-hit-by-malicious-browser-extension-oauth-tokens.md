@@ -8,6 +8,8 @@ scraped_at: '2026-09-14T20:17:26Z'
 published: '2026-09-14T00:00:00Z'
 description: The extension has since been updated
 image: https://cdn.mos.cms.futurecdn.net/33ooyG4FCgVjDs8W6RpowC-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Twitch logo under a magnifying glass in internet browser](https://cdn.mos.cms.futurecdn.net/33ooyG4FCgVjDs8W6RpowC.jpg) 

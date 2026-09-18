@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Resignation comes after anti-graft agency finds prosecutor general’s
   office involved with criminal organisation dealing with fraudulent call centres
 image: https://static.independent.co.uk/2026/09/08/08/2225764470..?trim=0,79,0,79&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Ukraine's prosecutor general said on Monday he had offered his resignation citing political reasons, in the latest sign of disunity in the senior ranks of the Ukrainian ruling elite.

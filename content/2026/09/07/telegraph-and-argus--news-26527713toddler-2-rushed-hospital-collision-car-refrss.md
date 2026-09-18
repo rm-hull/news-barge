@@ -8,6 +8,11 @@ scraped_at: '2026-09-07T14:14:16Z'
 published: '2026-09-07T00:00:00Z'
 description: A toddler was rushed to hospital after a collision with a car in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/16524140.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: T&A)*

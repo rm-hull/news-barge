@@ -9,6 +9,10 @@ description: Oil giant Chevron is expanding its operations in Venezuela as some 
   emerge about President Donald Trump's separate deal for a U.S.-controlled joint
   venture to develop more of the nation's proven reserves
 image: https://static.independent.co.uk/2026/09/02/16/APTOPIX_Venezuela_Oil_19336.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Oil giant Chevron confirmed that it will expand its operations in Venezuela, just days after President Donald Trump announced an ambitious deal to develop the nation’s oil reserves and give the Pentagon a stake in the profits.

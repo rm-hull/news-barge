@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: The GL.iNet Beryl 7 is a Wi-Fi 7 router travel router complete with VPN
   that runs off a USB-C port and can fit in your pocket and run off your iPhone charger.
 image: https://cdn.mos.cms.futurecdn.net/seeS9jv2oonLE9fDnGpLyU-2560-80.jpg
+categories:
+- Technology & Software
+- Travel
 ---
 
 ### TechRadar Verdict

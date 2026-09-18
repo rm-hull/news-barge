@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Warm Springs, a town of about 450 people, rallied around Chris Fisher’s
   family after he was killed Tuesday night
 image: https://static.the-independent.com/2026/09/03/13/16/c_chris-fisher-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Georgia police officer who was killed in the line of duty had arrested the man accused of shooting him dead just days earlier.

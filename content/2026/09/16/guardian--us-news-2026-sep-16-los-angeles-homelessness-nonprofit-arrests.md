@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Pair accused of misappropriating millions in taxpayer dollars and using
   money for personal gain
 image: https://i.guim.co.uk/img/media/6ea8c640fcb119b299add1d0bc4c6f6770566126/773_0_4064_3253/master/4064.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=688094af2c4d510f24035003af9497d7
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Federal law enforcement officers have arrested two employees of California-based homelessness non-profits on corruption charges, alleging that they misappropriated millions in taxpayer dollars.

@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Some groups will still be barred from relief, including violent felons
   and convicted sex offenders
 image: https://static.independent.co.uk/2026/08/19/0/48/GettyImages-2222472735-(2).jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Newly sworn-in Attorney General Todd Blanche is opening a path for millions of Americans — including people with felony convictions — to seek restoration of their federal gun rights.

@@ -9,6 +9,11 @@ description: After making its debut at the 1928 Olympics, the women's 800m was c
   from the programme. Now, it's often billed as the must-see event of major athletics
   championships. So, how did we get here?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9791/live/6dd8ea40-a848-11f1-b3a7-d5de760fef6e.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Health & Fitness
 ---
 
 ![Keely Hodgkinson and Audrey Werro cross the finish line](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/bbde/live/f3f6d3e0-a847-11f1-b3a7-d5de760fef6e.jpg)

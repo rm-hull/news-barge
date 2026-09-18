@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: 'Letters: York’s World Heritage status campaign faces questions, while
   a reader criticises unreliable UK rail journeys, delays and poor passenger…'
 image: https://www.yorkpress.co.uk/resources/images/21435012.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- News & Politics
 ---
 
 *(Image: Sue Gabbattiss)*

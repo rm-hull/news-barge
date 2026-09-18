@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: AUGUST is an important month for thousands of families across Bradford
   and the rest of the country.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21344937.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 AUGUST is an important month for thousands of families across Bradford and the rest of the country.

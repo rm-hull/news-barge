@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A Bradford cancer survivor has donated a painting to the hospital that
   helped save his life.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21334554.jpg?type=og-image&xType=0&yType=232
+categories:
+- Local
+- Bradford
+- News & Politics
+- Self-Improvement
 ---
 
 *(Image: UGC)*

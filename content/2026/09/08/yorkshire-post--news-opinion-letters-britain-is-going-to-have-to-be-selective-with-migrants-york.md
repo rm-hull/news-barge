@@ -7,6 +7,11 @@ scraped_at: '2026-09-08T12:51:51Z'
 published: '2026-09-08T00:00:00Z'
 description: 'From: John Riseley, Harcourt Drive, Harrogate.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmNjMzYzNzhmLTIzYjgtNDJmZC1hYTRiLTc4NWFmODdiMDBjZDo2ZTJmYzAwNi04NzY4LTQxM2MtOTFhMi1jMGM5OGRlODQ0ZjU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Britain is going to have to be selective with migrants - Yorkshire Post Letters

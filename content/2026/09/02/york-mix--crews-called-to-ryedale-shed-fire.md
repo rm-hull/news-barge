@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T12:44:30Z'
 published: '2026-09-02T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/06/north-yorkshire-fire-service-engine-tw.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 Firefighters were called to an incident in a Ryedale village early this morning (Wednesday).

@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Estimates suggest drop in production with vineyards also concerned ‘smoke
   taint’ from wildfires may affect quality
 image: https://i.guim.co.uk/img/media/28382e1f5fefb1ddfd354d5b7d4142a6ae732fb5/574_0_3516_2814/master/3516.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c124619b58ad661412b7c55eb3fdc0cc
+categories:
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 French vineyards hit by severe drought and heatwaves are expected to report a 30-year low in wine production after the country’s hottest ever recorded summer, according to the agriculture ministry.

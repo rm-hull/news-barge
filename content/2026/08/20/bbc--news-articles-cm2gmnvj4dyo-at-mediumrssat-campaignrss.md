@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: How much attention did you pay to what happened in the world over the
   past seven days?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/19a3/live/0be0eab0-9cb1-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 **This week, millions of Brits were sent a phone alertwarning them against starting wildfires, scientists found giantwhales were moving to Greenland, and there were courtroomclashes during Tupac's murder trial.**

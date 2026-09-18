@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: Israeli airstrikes have hit the Abu Duhur air base in northern Syria,
   Syrian officials say
 image: https://static.independent.co.uk/2026/08/19/12/Syria_Israel_Turkey_Tensions_47862.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A Turkish delegation had visited an air base in northern Syria the day before it was hit by Israeli airstrikes, Syrian officials said.

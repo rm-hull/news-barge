@@ -10,6 +10,11 @@ description: The cows seem to be enjoying life out on the moor and so far have s
   motorway and spotting them grazing, the calves leaping around exploring their new
   surroundings.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmIzMmQ3ODYwLTQ0ZDYtNGJhYi04MjdkLTQxMzk3ZDM0ZmEyMjowZDkzNmE5My1iZmY5LTRhNjAtYTlmMS05ZDkxNDVmMmU2ZGQ=.jpg?crop=3:2,smart&trim=&width=990&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Farm on the M62: Perfect life on the moor for our cows - Jill Thorp

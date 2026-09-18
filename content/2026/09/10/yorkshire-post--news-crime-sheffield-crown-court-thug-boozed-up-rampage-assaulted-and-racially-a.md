@@ -9,6 +9,13 @@ description: A violent thug on a booze-fuelled rampage kicked one police officer
   a set of stairs and spat in the face of another, before racially abusing a third
   while in custody.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/09/7/50/Joshua-Dunleavey.jpeg?trim=40,0,40,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 # Thug kicked one police officer down stairs and spat in face of another on alcohol-fuelled rampage

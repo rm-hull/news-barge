@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Susan Rumfitt, known for her jewellery expertise on Antiques Roadshow,
   will deliver three talks at a jewellery showcase at Ampleforth Abbey.
 image: https://www.gazetteherald.co.uk/resources/images/21438269.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 Antiques Roadshow favourites will be sharing their expertise in a series of talks in North Yorkshire next weekend.

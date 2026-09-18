@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Flash flooding in Arizona tourist destination was likely triggered by
   compounding climate factors, such as drought and warming in Pacific Ocean
 image: https://i.guim.co.uk/img/media/894216f2d0d37b0ac3c8b64100fdb77de997f484/0_320_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1192881cfaa564bc5e489b14363b30cf
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 A deadly flash flood in the Grand Canyon over the weekend was likely driven by a confluence of climate factors, including drought, wildfire scarring and warming temperatures in the Pacific Ocean that can supercharge storms.

@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The Tyne and Wear Metro has been celebrated in a new 75-metre public
   art gallery beneath Newcastle's 55 Degrees North roundabout, where 90…
 image: https://www.thenorthernecho.co.uk/resources/images/21452629.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 The Tyne and Wear Metro has been immortalised in a vibrant new public art project which has transformed a busy North East subway into a colourful gallery celebrating a city's creativity and transport heritage.

@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Several thousand migrants remain in the enclave after a mass crossing
   from Morocco in late July.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b6ca/live/34f847c0-a0b4-11f1-8229-b91d73b62f74.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![A group of men are seen from the back on a rocky outcrop with the blue sea and large ships in the background, on 22 August, 2026 in Ceuta, Spain.](https://ichef.bbci.co.uk/ace/standard/928/cpsprodpb/b6ca/live/34f847c0-a0b4-11f1-8229-b91d73b62f74.jpg)

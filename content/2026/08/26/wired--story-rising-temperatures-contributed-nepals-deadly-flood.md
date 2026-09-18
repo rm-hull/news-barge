@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: Climate change is causing glaciers to retreat and become less stable,
   upping the odds of catastrophic collapses.
 image: https://media.wired.com/photos/6a8f161ecb47509e08d69504/191:100/w_1280,c_limit/GettyImages-2291557015.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Roughly 160 people are dead and hundreds more—including dozens of international tourists—are missing after flash floods hit a region on the mountainous border of Nepal and Tibet on Wednesday. Devastating footage posted to social media shows people fleeing a wall of water that washed away buildings and vehicles.

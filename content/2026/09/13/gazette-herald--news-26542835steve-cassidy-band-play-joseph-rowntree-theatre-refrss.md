@@ -8,6 +8,12 @@ published: '2026-09-13T00:00:00Z'
 description: The Steve Cassidy Band will perform at the Joseph Rowntree Theatre later
   this month.
 image: https://www.gazetteherald.co.uk/resources/images/21441068.jpg?type=og-image&xType=0&yType=63
+categories:
+- Local
+- Harrogate
+- York
+- Music
+- Arts & Culture
 ---
 
 *(Image: David Harrison)*

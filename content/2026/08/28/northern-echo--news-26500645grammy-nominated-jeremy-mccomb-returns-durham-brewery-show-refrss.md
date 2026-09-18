@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Grammy-nominated country singer Jeremy McComb will return to Steam Machine
   Brewing Company in Newton Aycliffe for one of just three UK tour dates…
 image: https://www.thenorthernecho.co.uk/resources/images/21379057.jpg?type=og-image&xType=0&yType=145
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 A Grammy-nominated Nashville singer-songwriter will return to County Durham very soon.

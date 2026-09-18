@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: A man has been arrested for a sling of driving offences following a high-speed
   police pursuit.
 image: https://www.yorkpress.co.uk/resources/images/21352059.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 A MAN has been arrested for a sling of driving offences following a high-speed police pursuit.

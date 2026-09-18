@@ -8,6 +8,13 @@ published: '2026-08-27T00:00:00Z'
 description: A major council has announced it will start a recruitment campaign for
   a new chief executive as the incumbent boss is set to retire.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmViYTU3ZjIxLTgwMTUtNDA0OC04NGU3LTQxM2U3MDdiNmM1NDpjOGZiYjRjMi0yZmVlLTRjNzgtYjY4YS1kZWJhM2FhYmQxMGE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 # Council boss retires from £200,000 role as recruitment campaign set to launch

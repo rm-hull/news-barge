@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: The man suffered an unknown emergency when he hit the water and ultimately
   disappeared under the surface
 image: https://static.independent.co.uk/2026/09/12/20/1244026991..?trim=0,336,0,336&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Health & Fitness
 ---
 
 A 60-year-old man from Redding, California, died after he leapt into Lake Shasta to try to save a dog that jumped off a moving boat.

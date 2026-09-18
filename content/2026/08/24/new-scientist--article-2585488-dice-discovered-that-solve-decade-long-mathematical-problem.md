@@ -9,6 +9,11 @@ description: After years of searching, mathematicians have found dice that can a
   five players to fairly decide who moves first in a board game, with a winner guaranteed
   from just a single roll
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309038172.jpg
+categories:
+- Science
+- Technology & Software
+- Video Gaming
+- Business & Entrepreneurship
 ---
 
 ![Mathematical dice](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309038172.jpg?w=840)

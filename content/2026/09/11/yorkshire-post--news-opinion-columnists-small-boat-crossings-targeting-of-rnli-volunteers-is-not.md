@@ -11,6 +11,11 @@ description: Small boat crossings have become a political hot potato in recent y
   started under the watch of the Tories. Creating an impression that this is something
   the so-called ‘establishment’ has manufactured.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVmN2U1YWIzLWY5MWEtNDU5NS1hOGUzLTY0NzM2YzlmODNiMToyYjRhM2I4YS1jZTEzLTRhYjQtOTNjNC1kM2JiMWNmMTIzNGU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Small boat crossings: Targeting of RNLI volunteers is not acceptable - Ismail Mulla

@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A crimewave in part of Birmingham over several months leaves residents
   asking who is in control.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c2c6/live/b1bc7cb0-a94a-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 ![A large mural on the side of a white building which reads: Welcome to Kings Heath. To the right is a large tree and the sun is shining through the branches. Blue sky is visible with cloud over most of the top of the image.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/c2c6/live/b1bc7cb0-a94a-11f1-b109-879e35c24276.jpg)

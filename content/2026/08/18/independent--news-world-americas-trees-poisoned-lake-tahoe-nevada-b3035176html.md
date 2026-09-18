@@ -9,6 +9,10 @@ description: Investigators found that diesel fuel may have been poured around th
   trees, while holes drilled into trunks suggest someone may have injected copper
   sulfate
 image: https://static.independent.co.uk/2026/08/18/18/39/Untitled-design.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 More than a dozen trees, some over a century old, have been poisoned at a private Lake Tahoe beach this year, raising law enforcement’s suspicions that someone is killing them to improve the views from an unidentified property.

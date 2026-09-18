@@ -8,6 +8,8 @@ published: '2026-09-02T00:00:00Z'
 description: Jio is betting it can turn an aging computer into an AI-ready PC for
   as little as about $11 for two months.
 image: https://techcrunch.com/wp-content/uploads/2026/09/jiopc.jpg?resize=1200,800
+categories:
+- Technology & Software
 ---
 
 Mukesh Ambani’s Reliance Jio is opening its cloud PC service to any internet user in India, positioning it as a way to turn aging computers into AI-ready machines without hardware upgrades.

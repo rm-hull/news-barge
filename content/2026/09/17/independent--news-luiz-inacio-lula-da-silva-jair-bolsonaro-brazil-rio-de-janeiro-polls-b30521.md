@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Brazilian President Luiz Inácio Lula da Silva has signed a decree increasing
   benefits of his welfare program by 15%
 image: https://static.independent.co.uk/2026/09/17/23/Brazil_Election_86174.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Brazilian President Luiz Inácio Lula da Silva signed a decree on Thursday increasing benefits under his flagship welfare program by 15%, weeks before the first round of the presidential elections.

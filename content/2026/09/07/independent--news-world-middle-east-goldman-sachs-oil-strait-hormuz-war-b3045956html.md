@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: Brent crude oil prices are on track to surpass $100 per barrel for the
   first time since July
 image: https://static.independent.co.uk/2026/09/07/12/2293522281..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Music
+- Business & Entrepreneurship
 ---
 
 Oil prices could surge as high as $120 per barrel if attacks on Middle East shipping do not stop, Goldman Sachs has warned.

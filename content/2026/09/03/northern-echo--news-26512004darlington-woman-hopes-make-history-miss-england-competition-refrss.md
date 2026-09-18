@@ -9,6 +9,12 @@ published: '2026-09-03T00:00:00Z'
 description: A Darlington woman says she could “make history” this year as she prepares
   to compete for the Miss England crown.
 image: https://www.thenorthernecho.co.uk/resources/images/21402908.jpg?type=og-image&xType=0&yType=84
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 A Darlington woman says she could “make history” this year as she prepares to compete for the Miss England crown.

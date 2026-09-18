@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T12:49:24Z'
 published: '2026-09-11T00:00:00Z'
 description: Meta wants more managers for its AI work
 image: https://cdn.mos.cms.futurecdn.net/EDSwj5dJA5juSNQqvBHS4K-1920-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 ![Mark Zuckerberg](https://cdn.mos.cms.futurecdn.net/EDSwj5dJA5juSNQqvBHS4K.jpg) 

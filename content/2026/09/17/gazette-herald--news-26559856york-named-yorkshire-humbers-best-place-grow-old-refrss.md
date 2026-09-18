@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: York has been named Yorkshire and the Humber’s best place to grow old,
   ranking 30th in England for low loneliness, low poverty and quality care.
 image: https://www.gazetteherald.co.uk/resources/images/21469433.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 *(Image: Pixabay)*

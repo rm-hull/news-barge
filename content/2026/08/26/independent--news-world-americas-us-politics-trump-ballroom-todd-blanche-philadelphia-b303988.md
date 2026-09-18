@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Philadelphia District Attorney Larry Krasner said the ballroom would
   be demolished in an ‘official ceremony’ in future years
 image: https://static.independent.co.uk/2026/08/24/13/26/GettyImages-2277112556.jpg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Attorney General Todd Blanche has criticized Philadelphia District Attorney Larry Krasner after he said the White House ballroom, currently under construction, would eventually be blown up.

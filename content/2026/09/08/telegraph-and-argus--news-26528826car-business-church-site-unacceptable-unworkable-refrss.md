@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Plans for a new car business on the site of a former Bradford church
   have been slammed as “unacceptable and unworkable.”
 image: https://www.thetelegraphandargus.co.uk/resources/images/21420995.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: T&A)*

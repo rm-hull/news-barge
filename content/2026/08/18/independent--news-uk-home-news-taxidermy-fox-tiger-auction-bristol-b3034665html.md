@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: The ‘extremely rare’ Tasmanian tiger head was first bought for £50 at
   an antiques market
 image: https://static.independent.co.uk/2026/08/18/7/02/auctioneer_with_thylacine.jpeg?trim=165,0,804,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Shopping & Deals
 ---
 
 A taxidermy “fox head” bought for £50 at an antiques market has sold for £50,000 after it was revealed to be a rare Tasmanian tiger.

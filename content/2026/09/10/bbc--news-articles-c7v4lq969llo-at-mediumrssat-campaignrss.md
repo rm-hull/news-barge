@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: The TUC says a bank surcharge should be reversed - and estimates it would
   raise £9bn over four years.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7248/live/d0a2e930-ac73-11f1-80f0-9795d1a5edbc.png
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![TUC general secretary Paul Nowak sitting in his office. He is pictured in a grey suit and white shirt, worn without a tie. Behind him is a desk and a poster with the phrase Solidarity Forever! on it.](https://ichef.bbci.co.uk/ace/standard/833/cpsprodpb/7248/live/d0a2e930-ac73-11f1-80f0-9795d1a5edbc.png)

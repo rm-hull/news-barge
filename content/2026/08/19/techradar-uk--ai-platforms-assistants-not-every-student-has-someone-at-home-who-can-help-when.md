@@ -7,6 +7,8 @@ scraped_at: '2026-08-19T13:10:52Z'
 published: '2026-08-19T00:00:00Z'
 description: ChatGPT’s smartest teen feature makes the AI deliberately less helpful
 image: https://cdn.mos.cms.futurecdn.net/7AUaHoNyXHwpZuXj6vBYNc-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![ChatGPT Teen](https://cdn.mos.cms.futurecdn.net/7AUaHoNyXHwpZuXj6vBYNc.png) 

@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: A team-up with Waymo in Nashville has former Lyft drivers maintaining
   self-driving cars. What’s next?
 image: https://media.wired.com/photos/6aa06e8edf93969037d8f50f/191:100/w_1280,c_limit/WaymoxLyft_Selects_15.jpg
+categories:
+- Technology & Software
+- Science
+- Automotive
 ---
 
 This week, Lyft riders in Nashville, Tennessee, who request a ride on the app might get matched with a new driver: a robot.

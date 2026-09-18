@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: Two of the president’s signature renovation projects are in a state of
   limbo
 image: https://static.independent.co.uk/2026/08/29/13/28/GettyImages-2291733692.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Following a weekend trip to his Virginia golf club, President Donald Trump jumped on his Truth Social account to sound off on one his favorite topics: his anger around the state of his signature construction projects to renovate the Kennedy Center and the Lincoln Memorial Reflecting Pool.

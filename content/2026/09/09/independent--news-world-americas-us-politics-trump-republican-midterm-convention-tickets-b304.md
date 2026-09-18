@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: In one recent survey, more than half of GOP lawmakers and candidates
   sampled indicated they would not attend the convention or were still deciding
 image: https://static.independent.co.uk/2026/09/09/12/50/GettyImages-2293709168.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 President Donald Trump claimed the upcoming Republican midterm convention is “HOT,” even as reports point to high-profile absences and ticket giveaways.

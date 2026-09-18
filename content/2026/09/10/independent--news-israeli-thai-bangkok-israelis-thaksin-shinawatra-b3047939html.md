@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Hundreds of people have demonstrated outside Israel’s embassy in Bangkok
   to demand foreign visitors respect Thai laws and culture
 image: https://static.independent.co.uk/2026/09/10/12/Thailand_Protest_5_8_4.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Hundreds of people demonstrated outside Israel's embassy in Bangkok on Thursday to demand foreigners show more respect for Thailand's laws and culture as public discontent over bad behavior by visitors has increasingly focused on Israeli tourists.

@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: US government adviser Paul Christiano warns of risks to AI industry as
   he joins OpenAI’s non-profit foundation
 image: https://i.guim.co.uk/img/media/de993976d5cf433c665692fb79570e93c6c73828/875_399_5472_4378/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=18f9d87bb69e6088fd380b1ed1ec299d
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 OpenAI is not on track to reduce risks of “catastrophic” loss of control to an acceptable level, a member of its non-profit board has warned, amid spreading public and political concern that super-advanced AIs could one day wipe out humanity.

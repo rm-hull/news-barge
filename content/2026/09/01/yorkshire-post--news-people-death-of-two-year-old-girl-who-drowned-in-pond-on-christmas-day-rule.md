@@ -9,6 +9,11 @@ description: The “most tragic” death of a two-year-old girl who drowned in h
   pond on Christmas Day after going missing for “a matter of minutes” has been ruled
   accidental.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjI0MTU5NzY0LTBlNTktNDM1My04NzUyLWVmOGEzMjk2MWI2NDo1MjhjMGU4Mi00MzFlLTQ5MmEtOTFhOS0zOTlhMWJhMTQ1MWQ=.png?crop=3:2,smart&trim=&width=1104&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Death of two-year-old girl who drowned in pond on Christmas Day ruled accidental

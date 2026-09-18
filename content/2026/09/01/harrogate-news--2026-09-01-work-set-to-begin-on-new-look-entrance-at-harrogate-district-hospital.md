@@ -10,6 +10,10 @@ description: Work is set to begin on a major redevelopment of the main entrance 
   Harrogate District Hospital, following approval from the Harrogate and District
   NHS
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Impression-of-exterior-of-new-look-entrance-at-Harrogate-District-Hospital-1.webp
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
 ---
 
 Work is set to begin on a major redevelopment of the main entrance at Harrogate District Hospital, following approval from the Harrogate and District NHS Foundation Trust Board.

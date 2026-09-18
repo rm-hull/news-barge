@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: Mark Rutte said that Europeans ‘increasingly understand’ the need for
   their countries to take ‘greater responsibility for our own security’
 image: https://i.guim.co.uk/img/media/3caf46db7cdc729259cc30ff443769fdad430d03/1905_954_2441_1953/master/2441.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=eeccf62255bcd375650cf347b9efb26c
+categories:
+- UK
+- News & Politics
 ---
 
 Russia's actions are 'reckless, dangerous and a threat to life,' Nato's Rutte warns, but says they only strengthen resolve to help Ukraine

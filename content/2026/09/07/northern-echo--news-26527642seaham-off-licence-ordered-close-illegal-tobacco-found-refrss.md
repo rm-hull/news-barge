@@ -8,6 +8,11 @@ scraped_at: '2026-09-07T14:14:00Z'
 published: '2026-09-07T00:00:00Z'
 description: An off licence has been ordered to close for three months.
 image: https://www.thenorthernecho.co.uk/resources/images/21419189.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: DURHAM COUNTY COUNCIL)*

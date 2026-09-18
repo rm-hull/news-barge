@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: The Artemis II astronauts who flew around the moon earlier this year
   have received the nation's highest space honor
 image: https://static.independent.co.uk/2026/08/28/19/Trump_1_153.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- History
 ---
 
 The Artemis II astronauts who flew around the moon earlier this year received the nation’s highest space honor on Friday.

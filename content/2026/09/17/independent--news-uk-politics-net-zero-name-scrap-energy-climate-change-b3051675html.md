@@ -9,6 +9,9 @@ description: Calling for a major rebranding of the effort to tackle climate chan
   the cross-party committee said the term had become a ‘lightning rod for opposition
   to climate action’
 image: https://static.independent.co.uk/2026/09/17/08/01M2N6D1VYEWQ6HSY466H6JXAT.jpg?trim=0,150,0,150&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The term “net zero” should be scrapped because it has “become a lightning rod for opposition to climate action", the Energy Security and Net Zero Committee has recommended.

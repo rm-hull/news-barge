@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Fatigue is defined as a ‘physical or mental tiredness or exhaustion that
   does not improve with additional sleep or rest’
 image: https://static.independent.co.uk/2025/03/31/18/iStock-2201165479.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Pretty much everyone is tired, and now there's proof to back that claim up.

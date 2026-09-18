@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Pudsey councillor Simon Seary said he was sorry to hear that a resident
   had reportedly tripped on a loose paving stone and required an ambulance,…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21424831.jpg?type=og-image&xType=0&yType=940
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 A councillor has raised concerns about loose paving, after a woman was taken to hospital following a fall in Pudsey on Monday morning.

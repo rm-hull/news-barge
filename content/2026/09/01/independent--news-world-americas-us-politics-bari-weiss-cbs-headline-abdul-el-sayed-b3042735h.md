@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Unnamed sources told ‘Status’ that Weiss ‘praised’ an article that accused
   Democratic Senate candidate of deleted tweets about 9/11
 image: https://static.independent.co.uk/2026/09/01/14/2187869220..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 CBS News boss Bari Weiss reportedly had a direct hand in creating a headline that insinuated Michigan Senate candidate Abdul El-Sayed deleted supposedly controversial tweets about the September 11, 2001 terrorist attacks.

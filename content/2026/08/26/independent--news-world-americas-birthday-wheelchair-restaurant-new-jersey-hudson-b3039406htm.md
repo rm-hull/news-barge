@@ -8,6 +8,11 @@ scraped_at: '2026-08-26T13:12:40Z'
 published: '2026-08-26T00:00:00Z'
 description: ‘My family's angry, my friends are angrier,’ the restaurant-goer said
 image: https://static.independent.co.uk/2026/08/26/8/26/Cake-split.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
+- Comedy & Entertainment
 ---
 
 A New Jersey restaurant has been forced to apologize after writing “Happy Birthday Wheelchair” on a woman’s dessert.

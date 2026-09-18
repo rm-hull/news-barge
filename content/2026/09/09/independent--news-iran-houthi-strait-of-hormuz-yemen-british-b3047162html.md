@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: The Iran-backed Houthi rebels in Yemen say that Saudi-backed forces have
   launched dozens of airstrikes across four provinces
 image: https://static.independent.co.uk/2026/09/08/15/Middle_East_Yemen_Houthis_Explainer_5989_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The Iran-backed Houthi rebels in Yemen said Wednesday that Saudi-backed forces had launched dozens of airstrikes overnight across four Yemeni provinces after rebel attacks on Saudi Arabia ignited fires at several oil facilities and wounded dozens of people.

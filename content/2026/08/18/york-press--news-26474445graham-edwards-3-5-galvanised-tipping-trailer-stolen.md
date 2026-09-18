@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T13:04:16Z'
 published: '2026-08-18T00:00:00Z'
 description: A trailer has been stolen from a farm in rural North Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/21125326.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## 10ft long trailer stolen from North Yorkshire farm in dead of night

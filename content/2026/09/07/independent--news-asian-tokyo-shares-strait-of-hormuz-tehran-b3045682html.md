@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: Asian shares are mixed, with benchmarks in Tokyo and Seoul leading gains
   thanks to buying of computer chipmakers
 image: https://static.independent.co.uk/2026/09/04/04/Japan_Financial_Markets_15119.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Asian shares were trading mixed on Monday, with benchmarks in Tokyo and Seoul leading gains thanks to buying of computer chipmakers' stocks.

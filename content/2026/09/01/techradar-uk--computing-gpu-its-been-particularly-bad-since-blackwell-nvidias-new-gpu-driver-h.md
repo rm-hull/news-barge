@@ -10,6 +10,9 @@ published: '2026-09-01T00:00:00Z'
 description: Gamers aren't happy about the quality of Nvidia's drivers of late, and
   a new bug has prompted some fresh venting.
 image: https://cdn.mos.cms.futurecdn.net/fB4xhGeRkAJAnQZ5YUNiLR-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Frustrated PC gamer sat at desk holding head in hands](https://cdn.mos.cms.futurecdn.net/fB4xhGeRkAJAnQZ5YUNiLR.jpg) 

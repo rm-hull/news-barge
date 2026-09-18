@@ -8,6 +8,12 @@ published: '2026-09-14T00:00:00Z'
 description: City of York Council's finance spokesperson has answered questions ahead
   of work starting on next year's budget.
 image: https://www.yorkpress.co.uk/resources/images/21028693.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 ## Affordable housing, major projects and visitor levy questions about York answered

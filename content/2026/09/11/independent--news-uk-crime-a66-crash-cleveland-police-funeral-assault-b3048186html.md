@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T12:49:04Z'
 published: '2026-09-11T00:00:00Z'
 description: Gye Worthy was arrested at Cole Worthy’s funeral on Wednesday
 image: https://static.independent.co.uk/2026/09/03/10/44c37dc5274ac746820f02b16851d408Y29udGVudHNlYXJjaGFwaSwxNzg4NTE0MzM3-2.85627742.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A 39-year-old man has been charged with assault after disorder broke out at a funeral held for one of the young men killed in a head-on collision with police on the A66.

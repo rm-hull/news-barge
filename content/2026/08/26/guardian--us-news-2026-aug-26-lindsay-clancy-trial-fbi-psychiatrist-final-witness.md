@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: FBI psychiatrist Gregory Saathoff says he has treated only two women
   with postpartum psychosis, both decades earlier
 image: https://i.guim.co.uk/img/media/17923c4d9dbf697885dc7be178c697383ce9b9f8/309_0_3090_2472/master/3090.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8825384cf03743427c4f8bb1828c4d1
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Testimony finished in the Lindsay Clancy trial on Wednesday, as a final witness for the prosecution laid out that he believed the Massachusetts mother knew right from wrong when she took the lives of her three young children before attempting to commit suicide in 2023.

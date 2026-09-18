@@ -10,6 +10,10 @@ description: A Colorado man who had been free on $3 million bond in his wife's d
   has been arrested after prosecutors allege he got in a hit-and-run crash with two
   vehicles in Denver
 image: https://static.independent.co.uk/2026/09/04/23/Missing_Woman_Colorado__1432.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A man in Colorado who had been free on $3 million bond in his wife's alleged killing was arrested Friday after prosecutors said he got in a hit-and-run crash with two other vehicles in Denver.

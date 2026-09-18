@@ -8,6 +8,8 @@ published: '2026-08-19T00:00:00Z'
 description: This Ukrainian ground robot carries a huge load and travels 50km without
   putting a driver behind the wheel
 image: https://cdn.mos.cms.futurecdn.net/gqV2JEPgABRcE3fU62mz59-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Ukrainian Gnom L2 UGV](https://cdn.mos.cms.futurecdn.net/gqV2JEPgABRcE3fU62mz59.jpg) 

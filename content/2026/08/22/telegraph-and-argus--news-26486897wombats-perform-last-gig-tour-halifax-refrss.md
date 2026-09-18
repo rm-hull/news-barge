@@ -9,6 +9,12 @@ published: '2026-08-22T00:00:00Z'
 description: 'A top-quality indie band in a scenic, iconic venue: what more could
   you ask for on a Friday night.'
 image: https://www.thetelegraphandargus.co.uk/resources/images/21357652.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 *(Image: CUFFE & TAYLOR)*

@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: Indian Prime Minister Narendra Modi and Chinese President Xi Jinping
   have met during the BRICS summit in New Delhi
 image: https://static.independent.co.uk/2026/09/13/02/India_BRICS_21517.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Indian Prime Minister Narendra Modi and Chinese President Xi Jinping met Saturday on the sidelines of the BRICS summit in New Delhi, the latest effort by the rival neighbors to repair ties strained by a deadly border clash six years ago.

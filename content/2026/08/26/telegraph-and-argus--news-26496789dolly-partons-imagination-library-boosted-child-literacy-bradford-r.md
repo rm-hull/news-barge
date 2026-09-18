@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: IT is thanks to Dolly Parton that children in some areas of Bradford
   get a free book every month for the first five years of their life.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21373368.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
 ---
 
 IT is thanks to Dolly Parton that children in some areas of Bradford get a free book every month for the first five years of their life.

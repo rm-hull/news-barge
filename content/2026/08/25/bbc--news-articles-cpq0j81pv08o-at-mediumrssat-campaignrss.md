@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Hudson and Matthew McConaughey, her co-star from the 2003 rom-com, could
   be reunited for the sequel.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7af8/live/f3045e00-a07a-11f1-bfeb-dfb02ea642ef.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Kate Hudson and Matthew McConaughey standing together and smiling in formal dress, with red carpet activity behind them](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/7af8/live/f3045e00-a07a-11f1-bfeb-dfb02ea642ef.jpg)

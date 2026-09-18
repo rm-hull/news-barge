@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Funding cuts in 2025 left women, children, older and displaced people
   hard hit, with 64m fewer people receiving aid
 image: https://i.guim.co.uk/img/media/e4b910342ba76f8b20dec9eadb10a03041a5c598/495_0_4946_3956/master/4946.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc319239812a21f20e8d7f2419b5bc11
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The humanitarian aid system is crumbling as funding shrinks, pressures increase and governments not only fail to protect civilians but are increasingly responsible for endangering them, a new report warned on Thursday as figures revealed 64 million fewer people received aid last year.

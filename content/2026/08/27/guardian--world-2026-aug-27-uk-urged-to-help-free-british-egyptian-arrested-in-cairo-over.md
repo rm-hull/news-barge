@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: Lawyers claim Eman el-Shazly, from Birmingham, was detained in effort
   to silence her sister, a critic of Sisi regime
 image: https://i.guim.co.uk/img/media/f2e6a194394010105f06276f338d9d2f5de55c2c/1_0_2559_2047/master/2559.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bdfb227416ec9f0b0afaf03d1b9f7e45
+categories:
+- UK
+- News & Politics
 ---
 
 The UK Foreign Office has been asked to intervene to secure the release of a British-Egyptian woman who it is claimed has been arrested in Cairo because of her sister’s political activism.

@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: Irish boxer lauded for her tenacity and inspiration before her last fight
   in front of 80,000 people at Croke Park
 image: https://i.guim.co.uk/img/media/5c0297ab18853d59625e4a8430254eadb23e9f15/0_0_2728_2180/master/2728.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a0d264e65a495afd956caaf77060b8c0
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 When Katie Taylor steps into the ring on Saturday night to defend her titles and once again enthral Ireland, there will be a bittersweet tinge. After a singular career that pioneered women’s boxing, the super-lightweight champion and Olympic gold medallist is bowing out. She is 40 and it is to be her final bout.

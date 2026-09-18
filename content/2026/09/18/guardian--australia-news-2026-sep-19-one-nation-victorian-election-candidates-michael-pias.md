@@ -9,6 +9,9 @@ published: '2026-09-18T00:00:00Z'
 description: Party has unveiled a steady stream of contenders for state election,
   including a former councillor who lost his licence for drink-driving
 image: https://i.guim.co.uk/img/media/d53269543ae39201bc0084b74846c8019a492c8e/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f3cf0138cc70c24e69f31e97ce79eb1d
+categories:
+- UK
+- News & Politics
 ---
 
 Candidates contesting the Victorian state election for One Nation include a former Liberal who has won support from alleged underworld figures, a naturopath who has endorsed Donald Trump’s unfounded claim that paracetamol is linked to autism and a former shire councillor who lost his licence for drink-driving.

@@ -9,6 +9,12 @@ published: '2026-08-21T00:00:00Z'
 description: From Hopetown Darlington and Locomotion to MIMA and Seven Stories, these
   10 free museums and galleries are perfect for a family day out.
 image: https://www.thenorthernecho.co.uk/resources/images/21343409.jpg?type=og-image&xType=0&yType=71
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- Travel
 ---
 
 As summer holidays draw to a close, North East families looking for a few more budget-friendly days out have a range of museums and art galleries to choose from.

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Consumer advocacy organizations recommend turning off ACR and any other
   unnecessary data collection features on smart TVs
 image: https://static.independent.co.uk/2026/09/08/16/2147892669..?trim=12,0,12,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Some consumers may have TVs in their homes that can listen in to their conversations even while turned off.

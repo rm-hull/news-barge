@@ -9,6 +9,9 @@ published: '2026-09-06T00:00:00Z'
 description: Schiller reportedly had reservations about new CEO John Ternus' goal
   of bringing in more recurring revenue from the App Store.
 image: https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Why is longtime Apple executive Phil Schiller stepping down from his role as the head of the App Store?

@@ -10,6 +10,10 @@ published: '2026-09-08T00:00:00Z'
 description: Any sufficiently advanced technology will immediately be forced to play
   Doom.
 image: https://cdn.mos.cms.futurecdn.net/nGqyeSsjGQv6zj7dPXMK44-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![Fruit fly brain mapped](https://cdn.mos.cms.futurecdn.net/nGqyeSsjGQv6zj7dPXMK44.jpg) 

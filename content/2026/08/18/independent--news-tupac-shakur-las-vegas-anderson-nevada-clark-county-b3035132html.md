@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Some members of Tupac Shakur's family left the courtroom before prosecutors
   showed autopsy photos at the trial of Duane “Keffe D” Davis
 image: https://static.independent.co.uk/2026/08/18/18/APTOPIX_Tupac_Trial_78367.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Some members of Tupac Shakur's family stepped out of the courtroom Tuesday before prosecutors showed photos from his 1996 autopsy at the Las Vegas trial of Duane “Keffe D” Davis, who is charged with orchestrating the rap giant's fatal drive-by shooting.

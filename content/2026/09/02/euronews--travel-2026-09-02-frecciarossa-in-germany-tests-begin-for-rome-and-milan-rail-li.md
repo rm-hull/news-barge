@@ -9,6 +9,10 @@ description: Trial runs of Frecciarossa trains in Germany and Austria are paving
   way for high-speed links between Rome, Milan and Munich. The first services are
   planned for summer 2027.
 image: https://images.euronews.com/articles/stories/09/89/90/01/1200x675_cmsv2_a7a3fe68-35e7-5103-991f-c36c7259e110-9899001.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## Trial runs of Frecciarossa trains in Germany and Austria are paving the way for high-speed links between Rome, Milan and Munich. The first services are planned for summer 2027.

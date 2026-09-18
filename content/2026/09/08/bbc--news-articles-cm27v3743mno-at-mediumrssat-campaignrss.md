@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: The King's Harbour Master and Southampton Port both declined to allow
   migrants ashore on Sunday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/32d0/live/67c12eb0-ab90-11f1-aa04-efbf6a882854.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A general view looking across the Solent towards Portsmouth Harbour including the Spinnaker Tower and Eastside Plaza Tower residential apartment building in Gunwharf Quays.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/32d0/live/67c12eb0-ab90-11f1-aa04-efbf6a882854.jpg)

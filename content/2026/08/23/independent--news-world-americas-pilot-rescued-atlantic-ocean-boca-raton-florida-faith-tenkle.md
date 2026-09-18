@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Faith Tenkley, 23, was heading to the Bahamas to pick up her parents
   when mechanical problems disabled the family’s private plane
 image: https://static.independent.co.uk/2026/08/23/20/50/plane-in-water.jpeg?trim=24,0,25,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 A young pilot “delicately” ditched a private plane in the water near a South Florida beach and was rescued unhurt after a series of mechanical breakdowns prevented an emergency airport landing.

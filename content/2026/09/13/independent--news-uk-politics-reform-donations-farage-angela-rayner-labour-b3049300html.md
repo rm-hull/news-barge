@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: The housing secretary was reacting to two £36m donations to Nigel Farage’s
   party in 48 hours
 image: https://static.independent.co.uk/2026/09/12/16/dcfcd1af9d4bd381b96e2178a86b69f6Y29udGVudHNlYXJjaGFwaSwxNzg5MzEwNDM1-2.85750479.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Angela Rayner has suggested Reform UK could face action over two mega donations to the party under new laws being pushed through parliament.

@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: The overhaul paved the way for the group to unveil the biggest overhaul
   to its draw-based Lotto game since its launch in 1994
 image: https://static.independent.co.uk/2026/06/10/22/01KTSE5SB4ZXHKBY5PGZWPFZW2.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The chief executive of Allwyn UK, the company operating the National Lottery, is stepping down after leading what the firm termed a "long-overdue transformation" during her nearly three-year tenure.

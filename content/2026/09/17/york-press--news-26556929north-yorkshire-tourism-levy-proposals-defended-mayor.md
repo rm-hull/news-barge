@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The implementation of charges on overnight stays for visitors will have
   to be done right, North Yorkshire's mayor has said.
 image: https://www.yorkpress.co.uk/resources/images/21095102.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 ## North Yorkshire mayor defends tourist levy amid fears for hospitality

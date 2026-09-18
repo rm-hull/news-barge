@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T12:56:53Z'
 published: '2026-09-09T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/Filey-Kite-Festival-1.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 The popular Filey Kite Festival is set to return later this month – with new Friday night flight.

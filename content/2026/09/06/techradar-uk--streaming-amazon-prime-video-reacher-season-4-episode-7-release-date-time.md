@@ -9,6 +9,9 @@ published: '2026-09-06T00:00:00Z'
 description: Has Ritchson's hero become one-dimensional, or have we just hit a mid-season
   lag? The jury is out, but when does Reacher season 4 episode 7 arrive on Prime Video?
 image: https://cdn.mos.cms.futurecdn.net/Gn9nWawP4WKKK6YZpH2sKm-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Reacher looks at something offscreen](https://cdn.mos.cms.futurecdn.net/Gn9nWawP4WKKK6YZpH2sKm.jpg) 

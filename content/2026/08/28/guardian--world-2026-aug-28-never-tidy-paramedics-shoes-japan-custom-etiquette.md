@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: It is polite to reposition a guest’s shoes when they arrive, but the
   emergency services in one city advise just skipping that part
 image: https://i.guim.co.uk/img/media/80d66ae2fca0fb24b2fbd3ef0bd666ed36ced706/0_0_5906_4724/master/5906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9344e5dda5089748985496e16773cd80
+categories:
+- UK
+- News & Politics
+- Travel
+- Lifestyle & Fashion
 ---
 
 Etiquette, manners and consideration for others are integral pillars of Japanese society but there are times when they might go a step too far, according to one city’s emergency services.

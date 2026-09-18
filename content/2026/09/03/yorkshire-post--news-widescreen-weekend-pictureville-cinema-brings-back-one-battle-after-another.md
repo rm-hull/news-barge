@@ -9,6 +9,12 @@ published: '2026-09-03T00:00:00Z'
 description: Widescreen Weekend returns to Bradford’s Pictureville cinema later this
   month, celebrating the big screen in all its splendid glory. John Blow reports.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmU3NzI3NjQ4LThiYTktNDhlOS05ZDQ1LTYzNmQyNGQ5YzZjMjoxZmQxNjliZS1iNDNiLTRhZDUtOTQ2Ny01YTY4OTFhMzQzOTY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
+- Arts & Culture
 ---
 
 # Widescreen Weekend: Pictureville cinema brings back One Battle After Another, Moulin Rouge, the Sound of Music and Jurassic Park and plenty more

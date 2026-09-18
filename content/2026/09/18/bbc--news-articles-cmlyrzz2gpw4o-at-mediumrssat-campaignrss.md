@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: The mother of two young children was kidnapped last week in the middle
   of the day in the main city, Blantyre.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e512/live/18410a00-b305-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 ![A head and shoulders image of Nusrat Osman wearing a black top.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e512/live/18410a00-b305-11f1-bc1f-3f186ca4140c.jpg)

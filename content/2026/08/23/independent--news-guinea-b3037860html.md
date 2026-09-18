@@ -10,6 +10,10 @@ description: Guinea's civil protection service says a mountainous heap of refuse
   collapsed at Dar Es Salam, the largest landfill in the capital Conakry, killing
   30 people
 image: https://static.independent.co.uk/2026/08/23/20/Guinea_Landslide_17372.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A mountainous heap of refuse collapsed at the largest landfill in Guinea 's capital Conakry early Sunday killing 30 people, according to an updated toll released by the central government.

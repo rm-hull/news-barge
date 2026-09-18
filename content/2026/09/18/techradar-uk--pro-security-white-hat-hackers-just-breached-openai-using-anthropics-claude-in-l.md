@@ -8,6 +8,8 @@ published: '2026-09-18T00:00:00Z'
 description: The researchers struggled to abuse the exploit with an AI agent on Opus
   4.8, but the release of Opus 5 changed everything.
 image: https://cdn.mos.cms.futurecdn.net/SSrgDUXsJwUVxtvheg4YCM-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A close up of ChatGPT on a phone, with the OpenAI logo in the background of the photo](https://cdn.mos.cms.futurecdn.net/SSrgDUXsJwUVxtvheg4YCM.jpg) 

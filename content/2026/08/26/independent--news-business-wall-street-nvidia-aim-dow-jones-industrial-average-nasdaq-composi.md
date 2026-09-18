@@ -7,6 +7,11 @@ scraped_at: '2026-08-26T16:56:29Z'
 published: '2026-08-26T00:00:00Z'
 description: The chip maker was expected to release earnings after Wall Street closes.
 image: https://static.independent.co.uk/2026/08/26/17/26171154-5e47f3b9-ebda-4869-a4bd-ee3f73d9ccaf.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 London’s FTSE 100 faded into the close on Wednesday, posting modest losses, as a strong US inflation print knocked sentiment ahead of Nvidia earnings.

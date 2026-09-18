@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: Silent Anvil could give Navy torpedoes a new way to reach submarines
   from the air before disappearing underwater
 image: https://cdn.mos.cms.futurecdn.net/z7mG3g3QpevS3axGq35p99-1536-80.png
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Aviation ordnancemen load a Mark 54 torpedo on a P-8A Poseidon aircraft during a proficiency exercise on Kadena Air Base, Okinawa, Japan.](https://cdn.mos.cms.futurecdn.net/z7mG3g3QpevS3axGq35p99.png) 

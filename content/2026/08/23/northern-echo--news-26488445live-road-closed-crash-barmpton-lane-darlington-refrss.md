@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: A road has been shut and emergency services at the scene after a crash
   on Barmpton Lane in Darlington.
 image: https://www.thenorthernecho.co.uk/resources/images/21360489.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 - Good afternoon, welcome to this Northern Echo live breaking news blog.

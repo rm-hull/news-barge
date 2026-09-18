@@ -9,6 +9,10 @@ description: 'A new bipartisan effort in Congress to rein in automated license p
   readers takes a page from the national drinking age: Comply, or risk losing federal
   highway funding.'
 image: https://media.wired.com/photos/6aa837d0a9892d5eba997e3d/191:100/w_1280,c_limit/New-Bill-Would-Penalize-States-That-Dont-Rein-In-Flock-Surveillance-Business-2290774150.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
 ---
 
 A bipartisan pair of US lawmakers tell WIRED they plan to introduce legislation today that would strip federal funding from states that fail to restrict the use of Flock cameras and other automated license plate readers. The devices, which help police track the location of vehicles tied to crimes, have become the subject of nationwide backlash in recent months over more nefarious uses by officers.

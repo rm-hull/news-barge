@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The road closure and resulting diversions away from Fishergate are continuing
   to cause long delays for commuters.
 image: https://www.yorkpress.co.uk/resources/images/21397456.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## 'It's chaotic' - drivers caught in traffic queues following York road closure

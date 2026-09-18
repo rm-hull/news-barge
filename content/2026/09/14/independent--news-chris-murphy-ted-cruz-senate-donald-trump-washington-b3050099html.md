@@ -9,6 +9,9 @@ published: '2026-09-14T00:00:00Z'
 description: Proponents of the Protect College Sports Act are pushing to pass the
   legislation through the Senate before the chamber breaks in the coming weeks
 image: https://static.independent.co.uk/2026/09/13/11/APTOPIX_Ohio_St_Texas_Football_29182.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 With college football in full swing, proponents of the Protect College Sports Act have launched an all-out blitz to push the legislation through the Senate before the chamber breaks in the coming weeks.

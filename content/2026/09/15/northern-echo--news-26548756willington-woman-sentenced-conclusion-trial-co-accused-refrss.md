@@ -7,6 +7,11 @@ scraped_at: '2026-09-15T11:26:32Z'
 published: '2026-09-15T00:00:00Z'
 description: Samantha Caile has admitted cocaine supply charges she previously denied.
 image: https://www.thenorthernecho.co.uk/resources/images/21298710.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: The Northern Echo)*

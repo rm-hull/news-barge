@@ -8,6 +8,8 @@ published: '2026-08-20T00:00:00Z'
 description: A $25 million aircraft keeps shooting down its far cheaper Chinese-made
   rival above Sudan
 image: https://cdn.mos.cms.futurecdn.net/aJBefeu5YvBJDGoSk5jdq5-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Bayraktar Akıncı Drone](https://cdn.mos.cms.futurecdn.net/aJBefeu5YvBJDGoSk5jdq5.jpg) 

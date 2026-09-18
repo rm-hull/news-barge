@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: The rise in energy bills has driven a sharp increase in inflation, moving
   further away from the Bank of England’s target
 image: https://static.independent.co.uk/2026/05/25/10/2238091047..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Inflation has soared to its highest rate since March after the price of energy was pushed up by the conflict in the Middle East, according to official figures.

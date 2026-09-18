@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: York Vikings Rotary Club has donated books to Year 6 leavers at Westfield
   Primary School to help inspire a lifelong love of reading.
 image: https://www.yorkpress.co.uk/resources/images/21362199.jpg?type=og-image&xType=0&yType=169
+categories:
+- Local
+- York
+- Books & Literature
 ---
 
 *(Image: York Vikings Rotary)*

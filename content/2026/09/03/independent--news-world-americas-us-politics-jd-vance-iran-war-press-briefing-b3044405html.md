@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Vice President downplays nature of conflict that has no end in sight
   after more than six months
 image: https://static.independent.co.uk/2026/09/03/20/2293376969..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 More than six months after President Donald Trump announced the start of a war against Iran that has claimed the lives of 18 service members, injured at last 750 more, and cost between $71 billion and $118 billion, Vice President JD Vance now says the war is not a war at all.

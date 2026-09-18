@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Three of the five crew members were rescued and taken to hospital, the
   coastguard says.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0bfe/live/8f760c20-a43b-11f1-a588-f1721d3dac68.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A Shannon class lifeboat in rough swell with a wave breaking over it.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0bfe/live/8f760c20-a43b-11f1-a588-f1721d3dac68.jpg)

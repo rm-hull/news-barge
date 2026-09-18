@@ -10,6 +10,10 @@ description: Two activists who organized Hong Kong's annual Tiananmen Square vig
   are likely to hear a verdict in their case brought under a China-imposed national
   security law
 image: https://static.independent.co.uk/2026/08/20/02/Hong_Kong_China_Tiananmen_Trial_What_to_Know_7_929.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A verdict is expected Friday in the case of two organizers of an annual Hong Kong vigil to remember the 1989 Tiananmen Square crackdown who are being tried under a China-imposed national security law that has stifled Hong Kong's pro-democracy movement.

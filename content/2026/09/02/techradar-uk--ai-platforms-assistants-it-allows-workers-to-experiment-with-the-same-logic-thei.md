@@ -9,6 +9,10 @@ scraped_at: '2026-09-02T04:22:03Z'
 published: '2026-09-02T00:00:00Z'
 description: CEOs wanted AI replacements, so developers built an AI CEO
 image: https://cdn.mos.cms.futurecdn.net/p2dPCXWPqTd2nkWmhEQRVa-1600-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![Guest Robots are seen during the world's robots competition in China in 2021](https://cdn.mos.cms.futurecdn.net/p2dPCXWPqTd2nkWmhEQRVa.jpg) 

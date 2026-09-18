@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Iran has warned that U.S. sanctions set to be announced would not bring
   peace to the region
 image: https://static.independent.co.uk/2026/08/24/11/Iran_War_67667.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Iran warned that U.S. sanctions set to be announced would not bring peace to the region.

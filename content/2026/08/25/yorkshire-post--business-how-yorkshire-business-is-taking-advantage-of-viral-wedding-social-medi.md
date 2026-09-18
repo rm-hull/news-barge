@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Brides across Yorkshire have been joining in with a viral trend ahead
   of their wedding - burying sausages to ward off bad weather.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/25/12/53/Bride.jpeg?trim=131,0,829,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 # How Yorkshire business is taking advantage of viral wedding social media trend

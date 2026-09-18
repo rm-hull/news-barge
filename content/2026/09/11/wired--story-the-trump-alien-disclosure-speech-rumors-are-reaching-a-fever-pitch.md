@@ -9,6 +9,11 @@ description: The US government has been sharing more information about UFOs. Tha
   fueling excitement over the possibility of the president announcing that humans
   are not alone.
 image: https://media.wired.com/photos/6aa085cf50048b9f2b3259a5/191:100/w_1280,c_limit/Trump-Alien-Disclosure-Speech.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
+- Society & Culture
 ---
 
 In 2006, Donald Trump was firing people on *The Apprentice* and Dr. Phil was daytime television's reigning tough-love therapist.

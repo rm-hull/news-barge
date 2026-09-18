@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: A businessman who put up a stone circle by a Scottish castle claims council
   officials have taken a dislike to it because the stones were brought in from Yorkshire.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjViZDU2ZTVhLTdmNzQtNDdiZS1iM2NmLWNjNDAyYWU4NDFhYTpkMjgwYTY3Zi1jNmJiLTRmNTQtYWM3ZC1lYTg1MTBiZjI0NGM=.jpg?crop=3:2,smart&trim=&width=1013&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Yorkshire businessman fights to keep stone circle he put up by Scottish castle

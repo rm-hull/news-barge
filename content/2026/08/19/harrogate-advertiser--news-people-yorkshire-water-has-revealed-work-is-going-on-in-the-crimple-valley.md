@@ -10,6 +10,10 @@ description: Yorkshire Water has revealed it is beginning the next phase of its 
   to wastewater infrastructure in and around Pannal in Harrogate in support of new
   housing developments in the area.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjk2N2QzMTY0LWEzNjItNDg4NS1iYTg1LWEzODA2ZGM5YTA3OTpjODYwYTUwOS1hMjc1LTRkY2ItYjBhZi0yNGJiYzMwNzE3MWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Technology & Software
 ---
 
 # Yorkshire Water has revealed work is going on in the Crimple Valley in Harrogate to fix sewage problems

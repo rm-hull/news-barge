@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: An upgrade at Honeysuckle House, an independent living scheme in Dringhouses,
   has helped residents cut energy use by nearly one third.
 image: https://www.yorkpress.co.uk/resources/images/21429957.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 ## York residents cut energy use by nearly a third after housing upgrade

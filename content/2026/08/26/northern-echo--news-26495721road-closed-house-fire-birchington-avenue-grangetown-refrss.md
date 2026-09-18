@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Firefighters have told residents to "avoid the area" after a fleet of
   fire engines were called to an early morning blaze in Grangetown
 image: https://www.thenorthernecho.co.uk/resources/images/21372170.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Firefighters have told residents to "avoid the area" after a fleet of fire engines were called to an early morning blaze.

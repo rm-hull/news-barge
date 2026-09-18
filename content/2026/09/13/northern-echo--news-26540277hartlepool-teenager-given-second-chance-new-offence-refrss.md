@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: Hartlepool teenager Ethan Chapman avoids jail at Teesside Crown Court
   after admitting vehicle interference following a suspended sentence for arson…
 image: https://www.thenorthernecho.co.uk/resources/images/19950741.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: Newsquest)*

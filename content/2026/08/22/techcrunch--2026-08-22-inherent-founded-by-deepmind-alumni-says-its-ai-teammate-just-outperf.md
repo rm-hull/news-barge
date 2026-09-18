@@ -10,6 +10,9 @@ description: Built by DeepMind alumni, British AI lab Inherent released Faraday,
   AI agent whose ability to replicate scientific papers could be a stepping stone
   for innovation.
 image: https://techcrunch.com/wp-content/uploads/2026/08/inherent-labs-cofounders-credit-Anna-Gordon.jpeg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Inherent, a London AI lab founded by Google DeepMind alumni, says its AI agent just outperformed much larger models from Anthropic and OpenAI using a fraction of the size.

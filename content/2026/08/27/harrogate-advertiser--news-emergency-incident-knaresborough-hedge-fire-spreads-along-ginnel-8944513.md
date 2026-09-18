@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Crews from Knaresborough Fire Station were called to attend a fire on
   Stockwell Lane at 9.05pm on Wednesday evening (August 26) .
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmQyMDZiNTQ3LTQ4ODktNDhlNS04ZGE0LWQyMWRhNDEyZTA4YjpjZDUxY2ZhOS1mMGZhLTQ1MzMtYmM1MS03ODgxYzRkNjU1MzA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 # Knaresborough hedge fire spreads along ginnel

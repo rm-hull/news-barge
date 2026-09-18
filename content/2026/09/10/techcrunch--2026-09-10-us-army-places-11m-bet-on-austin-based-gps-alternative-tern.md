@@ -7,6 +7,8 @@ scraped_at: '2026-09-10T12:53:17Z'
 published: '2026-09-10T00:00:00Z'
 description: Tern has described its tech as "Google Maps for the battlefield."
 image: https://techcrunch.com/wp-content/uploads/2026/09/TERN_IDPS_Offroad2-copy.jpg?resize=1200,809
+categories:
+- Technology & Software
 ---
 
 Austin-based Tern has won a contract from the U.S. Army to deploy the startup’s low-cost GPS alternative tech.

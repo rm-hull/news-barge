@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Police have issued an update after two men were arrested and explosives
   were found last month, prompting a major emergency response.
 image: https://www.thenorthernecho.co.uk/resources/images/21442136.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Two men arrested after a haul of explosives 'used to make homemade fireworks' was found at a County __Durham__ home remain on police bail.

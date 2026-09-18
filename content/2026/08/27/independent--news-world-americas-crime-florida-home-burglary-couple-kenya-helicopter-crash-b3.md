@@ -9,6 +9,10 @@ description: The late couple’s personal documents, vehicle key fob, valuable a
   and suspected identity-theft tools were found at the suspects’ Florida home, authorities
   say
 image: https://static.the-independent.com/2026/08/27/14/26/Burglars-ransack-home-of-Florida-couple-killed-in-helicopter-crash-in-Kenya.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A man and woman have been arrested after allegedly ransacking a Florida couple’s home days after they died in a helicopter crash in Kenya, stealing hundreds of thousands of dollars’ worth of belongings, including cars and valuable artwork.

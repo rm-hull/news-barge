@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: A beloved Teesside fish and chip shop has closed its doors after its
   owner suffered a serious brain injury.
 image: https://www.thenorthernecho.co.uk/resources/images/21446713.jpg?type=og-image&xType=0&yType=244
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: GOOGLE MAPS)*

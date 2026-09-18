@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: Dan Driscoll has announced that his last full day as Army secretary is
   Wednesday
 image: https://static.independent.co.uk/2026/08/07/17/Army_Driscoll_Test_Ranges_19753.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Dan Driscoll has announced that his last full day as U.S. Army secretary is Wednesday, but his social media post offered no explanation for why he is stepping down after 18 months as the service's civilian leader.

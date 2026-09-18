@@ -9,6 +9,9 @@ published: '2026-09-14T00:00:00Z'
 description: Alex Saab, a close ally of ousted Venezuelan President Nicolás Maduro,
   is expected to plead guilty Tuesday in a federal case
 image: https://static.independent.co.uk/2026/09/14/17/Venezuela_Maduro_Ally_31556.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Maduro ally Alex Saab expected to plead guilty in federal money laundering case

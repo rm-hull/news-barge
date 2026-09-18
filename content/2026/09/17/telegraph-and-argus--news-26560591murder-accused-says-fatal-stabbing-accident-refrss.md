@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: A man accused of fatally stabbing a stranger told police the incident
   was an accident.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20611112.jpg?type=og-image&xType=0&yType=113
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 A man accused of fatally stabbing a stranger told police the incident was an accident.

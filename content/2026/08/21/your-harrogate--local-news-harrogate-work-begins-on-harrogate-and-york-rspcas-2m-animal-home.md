@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Work has begun on a £2million redevelopment of an animal home which supports
   vulnerable animals across Harrogate, York and the surrounding area.
 image: https://mmo.aiircdn.com/409/6a880fde7b97a9a1421.jpg
+categories:
+- Local
+- Harrogate
+- Pets & Animals
 ---
 
 ![](https://mmo.aiircdn.com/409/6a880fde7b97a9a1421.jpg) 

@@ -9,6 +9,12 @@ description: Yorkshire law firm Milners is set to become part of Manchester-base
   Orwins Group, after Orwins announced what it described as a “significant” investment
   into the Yorkshire firm.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmY0MDJkOGJmLWEwZTktNGJkNC05ZmJmLTQ0ZjNlYWEwYmMxZjphMzFlNWFjYy0xZjY4LTRmNWItYTljYS04ZmJiM2I1ODE0NDU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 # Milners: Yorkshire law firm set to become part of Orwins Group

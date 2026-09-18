@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: President’s Truth Social post conflates Fed’s prime rate with an individual
   obtaining lower interest on a car loan
 image: https://static.independent.co.uk/2026/09/04/15/51/GettyImages-2292633750.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 President Donald Trump threatened to halt trade with every country that runs a surplus with the United States unless the Federal Reserve cuts interest rates, tying together two things that are not connected by any mechanism of American economic policy.

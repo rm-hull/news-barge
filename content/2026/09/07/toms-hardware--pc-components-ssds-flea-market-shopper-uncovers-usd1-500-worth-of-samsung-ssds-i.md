@@ -8,6 +8,11 @@ scraped_at: '2026-09-07T14:13:58Z'
 published: '2026-09-07T00:00:00Z'
 description: When is this happening to me?
 image: https://cdn.mos.cms.futurecdn.net/6WhoYKo8UoN3qzhyFX7sYW-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Three Samsung 980 Pro 2TB SSDs found inside an Asus Hyper M.2 PCIe expansion card](https://cdn.mos.cms.futurecdn.net/6WhoYKo8UoN3qzhyFX7sYW.png) 

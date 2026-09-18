@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: A pair of North East sex offenders will have to wait until next month
   to learn their fate after their sentencing hearing was delayed.
 image: https://www.thenorthernecho.co.uk/resources/images/19967899.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: NORTHERN ECHO)*

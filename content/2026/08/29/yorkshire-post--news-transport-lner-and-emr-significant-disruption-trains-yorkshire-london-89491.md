@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: Two of the main train operators operating routes between Yorkshire and
   London have warned of “significant disruption” this bank holiday weekend.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/04/23/13/15/An-LNER-Azuma-at-Leeds-station-LNER.jpeg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # LNER and EMR warn of 'significant disruption' on trains between Yorkshire and London

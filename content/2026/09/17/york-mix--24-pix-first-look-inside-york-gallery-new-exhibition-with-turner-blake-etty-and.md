@@ -8,6 +8,10 @@ scraped_at: '2026-09-17T19:43:09Z'
 published: '2026-09-17T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman-3.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 A brand new exhibition celebrating the life and legacy of a York-born artist who influenced the likes of Turner and Blake will open tomorrow.

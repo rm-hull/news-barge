@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Under the plan, officers would purchase insurance covering up to $500,000
   in personal liability
 image: https://static.independent.co.uk/2026/08/10/23/24/GettyImages-2287296268.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 U.S. Immigration and Customs Enforcement is considering a new proposal to protect local police officers from potential financial fallout if they face allegations of misconduct while executing immigration arrests.

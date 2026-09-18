@@ -8,6 +8,9 @@ scraped_at: '2026-08-20T16:48:02Z'
 published: '2026-08-20T00:00:00Z'
 description: The 5nm test chip routes signals through TSVs to the package.
 image: https://cdn.mos.cms.futurecdn.net/7CaVRhQ5giQeWSSo2AjMBF-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Synopsys](https://cdn.mos.cms.futurecdn.net/7CaVRhQ5giQeWSSo2AjMBF.jpg) 

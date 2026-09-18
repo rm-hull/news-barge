@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: An ancient Bronze Age axe believed to have been offered to the gods has
   been unearthed.
 image: https://www.yorkpress.co.uk/resources/images/21426779.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
+- History
 ---
 
 ## Ancient Bronze Age axe 'offered to the gods' unearthed in North Yorkshire dig

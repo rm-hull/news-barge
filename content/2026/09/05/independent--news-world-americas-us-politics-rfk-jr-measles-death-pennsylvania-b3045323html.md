@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Pennsylvania is one of three states, alongside South Carolina and Utah,
   that have been hit the hardest by measles this year
 image: https://static.independent.co.uk/2026/09/05/17/11/GettyImages-2292399181.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- Society & Culture
 ---
 
 Health Secretary Robert F. Kennedy Jr. has finally admitted that measles was the cause of an infant’s death in Pennsylvania.

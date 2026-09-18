@@ -10,6 +10,11 @@ description: Founded 55 years ago in York, independent family footwear company P
   headed off to the Yorkshire coastline to showcase its new AW26 range of active footwear.
   Yorkshire Post Fashion Editor Stephanie Smith went along to have a look.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjZkY2RkMjE1LTkwZWQtNDFlYi1iNzlhLWUxMDBmMzE0MzdkZTo3MzM1MmIxMC0zOTI4LTQwYTMtODI4NC01NjM4NzA0M2M1YjI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 # 'We wanted to focus on Yorkshire heritage': Pavers Shoes heads to Robin Hood's Bay with its Feel Great trainers

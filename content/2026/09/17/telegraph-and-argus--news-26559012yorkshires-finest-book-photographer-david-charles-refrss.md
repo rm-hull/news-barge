@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Yorkshire's Finest, a hardback book featuring Dame Judi Dench and Yorkshire
   faces, with all proceeds going to York Against Cancer, launches…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21397413.jpg?type=og-image&xType=0&yType=581
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

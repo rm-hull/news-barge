@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Summer is passing fast, but for anyone feeling spontaneous, it’s not
   too late to book a Yorkshire staycation.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjc2ZWY0NDczLWQxNWItNDBjOS04MzUwLWE0YTdkNzZlNGM3ZjpjODhlMGY2Yy0yMDVlLTQxNDQtOGRmMC1lMGY3ZjVhODAxYWM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Quirkiest Yorkshire staycations with availability this August

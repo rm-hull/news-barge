@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The 21 Air-operated jet overshot a runway at Miami International Airport
   and hit several vehicles.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6e20/live/5e01de50-afdd-11f1-85da-1d41c9633ce8.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![A parking lot filled with Tesla Cybercabs is seen in the foreground as the nose of a Prime Air cargo plane rests on the ground after the aircraft overran the runway and struck cars the previous day at Miami International Airport in Miami, Florida, on September 7, 2026.](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/6e20/live/5e01de50-afdd-11f1-85da-1d41c9633ce8.jpg)

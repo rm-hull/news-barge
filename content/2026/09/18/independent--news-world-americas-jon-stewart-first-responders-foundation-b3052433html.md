@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Jon Stewart says he never planned to focus his charity work on first
   responders and their families, but it grew organically
 image: https://static.independent.co.uk/2026/09/18/11/Philanthropy_Jon_Stewart_31958.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Jon Stewart’s advocacy for first responders and their families was never a calculated plan; it grew organically from a desire to support those who serve. The award-winning host of "The Daily Show" explained that his motivation stemmed from wanting to feel useful to people who dedicate their lives to helping others.

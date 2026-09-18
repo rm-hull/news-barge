@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T20:36:01Z'
 published: '2026-08-21T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/york-council-martin-rowley.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 A row has erupted over a decision on plans for a mortuary housing 700 bodies in York.

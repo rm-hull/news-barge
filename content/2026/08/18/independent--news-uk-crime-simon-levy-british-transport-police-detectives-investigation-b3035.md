@@ -10,6 +10,10 @@ description: Two BTP detectives are being investigated over ‘alleged failures 
   or supervise an investigation’ into sexual assaults by Levy on the London Underground
   in October 2024
 image: https://static.independent.co.uk/2026/08/12/11/08/simon-levy-btp-new.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The police watchdog has launched an investigation into two British Transport Police (BTP) detectives after a serial sex offender was left free to murder two women and rape a third.

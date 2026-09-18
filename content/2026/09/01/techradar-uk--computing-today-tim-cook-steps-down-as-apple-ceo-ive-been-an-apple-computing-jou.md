@@ -10,6 +10,9 @@ published: '2026-09-01T00:00:00Z'
 description: Tim Cook has stepped down as CEO of Apple. Here's a look back at how
   he changed the company over the last 15 years.
 image: https://cdn.mos.cms.futurecdn.net/ueKHYPFkbz4Uixqmo6vCTQ-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Tim Cook arrives for the Ted Lasso Season 2 Premiere on July 15, 2021 in West Hollywood, CA](https://cdn.mos.cms.futurecdn.net/ueKHYPFkbz4Uixqmo6vCTQ.jpg) 

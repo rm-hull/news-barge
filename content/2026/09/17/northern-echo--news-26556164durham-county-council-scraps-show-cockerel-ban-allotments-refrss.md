@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Durham County Council has scrapped its controversial ban on cockerels
   on council-owned allotments after a campaign by a Bishop Auckland teenager.
 image: https://www.thenorthernecho.co.uk/resources/images/20810590.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 Durham County Council has scrapped its controversial ban on cockerels on council-owned allotments after a campaign by tenants, poultry enthusiasts and a County Durham teenager.

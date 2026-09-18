@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Air traffic control issue affecting UK airports on Tuesday has been resolved,
   but disruption continues into Wednesday
 image: https://i.guim.co.uk/img/media/bfd654bd04184dd9df503629644ed1f8431a334e/349_0_4382_3506/master/4382.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=594a2763de5b377745c500281bb87472
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Airports across the UK including Manchester, Birmingham and all those in London were thrown into chaos by a technical failure in the air traffic control system on Tuesday.

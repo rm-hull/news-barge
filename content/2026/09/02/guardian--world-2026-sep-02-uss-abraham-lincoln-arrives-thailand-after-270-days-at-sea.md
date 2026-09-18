@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Ship has been plagued by reports of deteriorating living conditions and
   poor mental health because of lengthy deployment
 image: https://i.guim.co.uk/img/media/06be449de27677c13ef5e68fca889f4c4a1f3d06/434_76_6089_4874/master/6089.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=150302fd0ed112252c14993728a1be38
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 The USS Abraham Lincoln, an US aircraft carrier at the centre of a row over conditions on board after months at sea as part of Donald Trump’s war against Iran, has arrived off a Thai port.

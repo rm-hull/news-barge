@@ -7,6 +7,10 @@ scraped_at: '2026-08-31T16:08:26Z'
 published: '2026-08-31T00:00:00Z'
 description: Traffic is building on a main road in North Yorkshire this morning (Monday).
 image: https://www.yorkpress.co.uk/resources/images/21287521.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Contributed)*

@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The victims are said to include the head of Ecuador's National Intelligence
   Centre, his wife, and five Americans.
 image: https://images.euronews.com/articles/stories/09/88/08/86/1200x675_cmsv2_417a7c34-6b5e-5f61-837d-03aee20b4397-9880886.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## The victims are said to include the head of Ecuador's National Intelligence Centre, his wife, and five Americans.

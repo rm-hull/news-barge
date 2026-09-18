@@ -7,6 +7,11 @@ scraped_at: '2026-08-18T19:36:09Z'
 published: '2026-08-18T00:00:00Z'
 description: Police have found a body in the search for missing man.
 image: https://www.thenorthernecho.co.uk/resources/images/17033782.jpg?type=og-image&xType=0&yType=95
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: UGC)*

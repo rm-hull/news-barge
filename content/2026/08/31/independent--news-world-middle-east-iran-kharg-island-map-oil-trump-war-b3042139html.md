@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: The island holds around 90 per cent of Iran’s oil exports and could choke
   off the country’s economy for years. Maira Butt and James C. Reynolds report
 image: https://static.independent.co.uk/2026/03/10/12/57/A-satellite-image-shows-an-oil-terminal-in-Kharg-Island-nazw83hw.jpeg?trim=55,0,55,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Six months into the war with Iran, US president Donald Trump has posted a fake AI video to social media, claiming that a key Iranian island was being destroyed.

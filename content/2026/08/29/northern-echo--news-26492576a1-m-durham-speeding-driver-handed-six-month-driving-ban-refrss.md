@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: Lee Walker, 44, of Leeds, has been banned from driving for six months
   after being caught speeding on the A1(M) between Bowburn and Bradbury.
 image: https://www.thenorthernecho.co.uk/resources/images/18915356.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: PA MEDIA)*

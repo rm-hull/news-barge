@@ -9,6 +9,8 @@ published: '2026-09-03T00:00:00Z'
 description: Google has finally fixed the annoying setup issue for the first-gen Chromecast,
   so your device isn't being bricked just yet.
 image: https://cdn.mos.cms.futurecdn.net/5BRgdnVSZZFrWf8csXrKhT-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Google Chromecast](https://cdn.mos.cms.futurecdn.net/5BRgdnVSZZFrWf8csXrKhT.jpg) 

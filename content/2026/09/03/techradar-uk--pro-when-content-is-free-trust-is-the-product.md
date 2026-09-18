@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T12:48:04Z'
 published: '2026-09-03T00:00:00Z'
 description: We have loads of content, but do we trust it?
 image: https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![A robot standing thoughtfully in front of a giant digital display with code on it](https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL.jpg) 

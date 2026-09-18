@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Draft legislation enforces digital duty of care including limiting children’s
   exposure to misogynistic and eating disorder content
 image: https://i.guim.co.uk/img/media/e2d16a28a2d704ee8976393059c7ed031452f7fe/295_0_2953_2362/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ee2d1d7742ce99a5507ae12a4835f33
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Australia will allow social media account holders to opt out of the powerful algorithms pushing dangerous and divisive content into users’ feeds, part of new laws designed to boost online safety.

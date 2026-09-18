@@ -9,6 +9,8 @@ published: '2026-09-01T00:00:00Z'
 description: I used my favorite camera phone with teleconverter lens to photography
   the 2026 lunar eclipse — here's how I got on
 image: https://cdn.mos.cms.futurecdn.net/oupf9RvB2G4enxmhcvisuC-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Closeup of the moon during the Lunar Eclipse 2026 (left), alongside an Oppo phone with teleconverter mounted a tripod, on a sandy beach at night, and the lunar eclipse is on the phone's screen](https://cdn.mos.cms.futurecdn.net/oupf9RvB2G4enxmhcvisuC.jpg) 

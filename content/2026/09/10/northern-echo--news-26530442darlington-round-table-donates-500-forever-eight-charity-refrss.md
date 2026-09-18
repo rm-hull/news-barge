@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Darlington Round Table donates £500 from its Santa’s Sleigh to Forever
   Eight, supporting arts, crafts and comfort for children at Darlington…
 image: https://www.thenorthernecho.co.uk/resources/images/21423806.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: Chris Barron)*

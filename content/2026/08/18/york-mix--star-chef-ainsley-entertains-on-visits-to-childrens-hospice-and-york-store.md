@@ -7,6 +7,11 @@ scraped_at: '2026-08-18T19:36:22Z'
 published: '2026-08-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/ainsley-harriott-at-st-martins-hospice-3.webp
+categories:
+- Local
+- York
+- Arts & Culture
+- Lifestyle & Fashion
 ---
 
 TV chef Ainsley Harriott has been entertaining folk in our neck of the woods.

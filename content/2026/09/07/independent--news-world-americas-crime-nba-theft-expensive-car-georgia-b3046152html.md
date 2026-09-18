@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Police linked the suspect to another vehicle theft in Savannah two weeks
   before the BMW went missing
 image: https://static.the-independent.com/2026/09/07/17/35/Screenshot-2026-09-07-at-1-19-16-PM.png?trim=52,0,146,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Automotive
 ---
 
 A man allegedly stole a $90,000 BMW SUV from a Georgia hotel by convincing valet workers that he was a professional basketball player who owned the car.

@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: A North Yorkshire nightclub’s bid to extend its opening hours until 3am
   has been met with objections and concerns about public urination and noise…
 image: https://www.yorkpress.co.uk/resources/images/20471166.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 ## 'Urination in the street' fears over nightclub’s 3am licence plan

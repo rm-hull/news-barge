@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Thousands of turtles arrived at La Escobilla beach in Oaxaca within 48
   hours, sanctuary officials said.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2069/live/6f3c6140-b0a0-11f1-9e7d-cb2f675dfcb0.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 # Mass nesting brings swarms of turtles to Mexican beach

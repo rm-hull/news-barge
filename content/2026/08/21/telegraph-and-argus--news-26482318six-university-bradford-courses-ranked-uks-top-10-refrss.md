@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: The University of Bradford was recognised in the National Student Survey,
   with six of its courses ranked among the best in the UK.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21350856.jpg?type=og-image&xType=0&yType=132
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: University of Bradford)*

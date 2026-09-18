@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: Plaud's new AI earbuds recording your conversations, but that's only
   the beginning.
 image: https://cdn.mos.cms.futurecdn.net/tqXiLu8s3qxn9dqa3yyVMW-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Plaud One Explorer Edition](https://cdn.mos.cms.futurecdn.net/tqXiLu8s3qxn9dqa3yyVMW.jpg) 

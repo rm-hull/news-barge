@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: This video has been edited by the BBC with white flashes, due to the
   distressing content.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d165/live/62eb5330-a149-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 # Video shows scale of flash flood hitting Nepal-Tibet border

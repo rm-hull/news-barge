@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Rose Smith, 75, passed away in hospital 24 hours after officers were
   called to an aggravated burglary in Tollington Park
 image: https://static.independent.co.uk/2026/08/24/9/10/Rose-Smith-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Police have arrested a man on suspicion of murder after a "truly wonderful" great-grandmother died following a burglary at her address.

@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Manufacturer, which makes Jaecoo and Omoda brands, will open facility
   in Bedfordshire in autumn
 image: https://i.guim.co.uk/img/media/f9e05771e9095905adb6140934ef1786fbc90ce9/810_840_3494_2798/master/3494.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf3eb1f3b72345c0bb431240dbe1bcb9
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 The Chinese carmaker behind the irreverently nicknamed “Temu Range Rover” is plotting further UK expansion with a major research and development centre in England.

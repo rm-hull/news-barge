@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Trespass case launched by two mothers settled after officers often went
   to families’ houses between midnight and 4am
 image: https://i.guim.co.uk/img/media/5d4cbe82a32f0190fd8be6518ce1752680a02d4b/133_0_4861_3888/master/4861.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fcaae45608a6b41ba3f31c3242a27ad5
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 Two Indigenous mothers have settled a trespass case against New South Wales police, after officers turned up at one of their homes 150 times in 20 months to conduct bail checks on her sons.

@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: The fallout from the Good Good Golf video depicting a man shoving a woman
   to the ground continues
 image: https://static.independent.co.uk/2026/08/27/21/PGA_Tour_Changes_14953.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Good Good Golf lost its partnership with Callaway on Thursday and no longer will be title sponsor of a PGA Tour event in November as the fallout continued over a video for a new Callaway driver that showed a man shoving a woman to the ground who was trying to touch the golf club.

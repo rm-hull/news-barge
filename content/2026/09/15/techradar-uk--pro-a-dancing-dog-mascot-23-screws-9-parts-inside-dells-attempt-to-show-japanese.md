@@ -10,6 +10,9 @@ description: Dell gave nine laptop parts and 23 screws to seven Japanese childre
   to assemble, told them to fix it themselves when it broke, and let them keep the
   finished product
 image: https://cdn.mos.cms.futurecdn.net/sNx7AT95EveUJBhbUQMAzE-1920-80.jpg
+categories:
+- Technology & Software
+- Family & Parenting
 ---
 
 ![Dell HQ](https://cdn.mos.cms.futurecdn.net/sNx7AT95EveUJBhbUQMAzE.jpg) 

@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: The $4 billion Nancy Grace Roman Space Telescope was launched aboard
   a SpaceX rocket in Cape Canaveral, Florida
 image: https://static.independent.co.uk/2026/08/30/21/2026-08-30T154547Z_1303311317_RC2Y8NA2BX9X_RTRMADP_3_SPACE-NASA-TELESCOPE.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- Technology & Software
 ---
 
 NASA has embarked on an ambitious new endeavour to probe some of the most profound puzzles of space following the launch on Sunday of the US space agency's latest flagship observatory—a repurposed spy satellite designed to capture panoramic views of the cosmos.

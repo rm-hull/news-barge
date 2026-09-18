@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Disabled people boarding buses at some York stops face having to pay
   fares despite a pledge to make travel free all day.
 image: https://www.gazetteherald.co.uk/resources/images/21343956.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 DISABLED people boarding buses at some York stops face having to pay fares despite a pledge to make travel free all day.

@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Plans to run a campsite annually on the outskirts of Richmond have been
   put forward, despite a proposal for a pop-up site this summer being formally…
 image: https://www.thenorthernecho.co.uk/resources/images/21457434.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 Plans to run a campsite annually on the outskirts of Richmond have been put forward, despite a proposal for a pop-up site this summer being formally rejected.

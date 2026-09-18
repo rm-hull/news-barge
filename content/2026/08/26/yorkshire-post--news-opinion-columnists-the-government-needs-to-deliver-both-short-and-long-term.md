@@ -9,6 +9,11 @@ description: Prime Minister Andy Burnham has so far restricted his boat to gentl
   waters but soon he is going to have to sail further out and confront the stormy
   seas swirling around Britain.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjBlZjQxYWU0LWQ0MzktNDJhMi1hZDNlLThjZmEwNWU3OGY4MDo2MjYzZWNmYy03MjYwLTQwMDEtODY2OS0xMTA5ODYyZjM1NjE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # The Government needs to deliver both short and long term economic growth

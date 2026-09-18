@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: The election campaign to replace Emmanuel Macron as France's president
   is gaining momentum
 image: https://static.independent.co.uk/2026/09/01/10/France_Election_What_To_Know_31195.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 With the end of France's summer vacation season, the election campaign to replace Emmanuel Macron as president next May is bursting to life.

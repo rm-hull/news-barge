@@ -9,6 +9,12 @@ description: Olympic gold medallist and nine-time eventing major winner Oliver T
   will never be short of superlatives when it comes to describing his ‘best mate’
   Ballaghmor Class.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmFkMWFiZTU5LWI0YzgtNGRjNi1iNjczLWE4OTg1Y2JlNGQ4MDo0M2ZmYTM0Mi0yM2M4LTQwNWEtOGQwNS05OTg0NmU2NWRlNWE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- Arts & Culture
 ---
 
 # Oliver Townend's final hurrah for true eventing great Ballaghmor Class

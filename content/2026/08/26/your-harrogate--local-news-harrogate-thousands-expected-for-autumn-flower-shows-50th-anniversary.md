@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: More than 30,000 visitors are expected at Newby Hall as the Harrogate
   Autumn Flower Show celebrates its 50th anniversary.
 image: https://mmo.aiircdn.com/409/6a8ef0395db37f97394.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8ef0395db37f97394.jpg) 

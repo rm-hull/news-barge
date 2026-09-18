@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: Celine Dion fans are facing ticket scams as they flock to Paris for her
   comeback shows
 image: https://static.independent.co.uk/2026/09/06/08/One_Tech_Tip_Celine_Dion_21978.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Based on their experience of hosting Taylor Swift, the management team at the Paris venue for Celine Dion 's grand concert comeback is bracing to deliver devastating news to hundreds of her fans: ‘Sorry, you appear to have been scammed, your tickets are fake.’

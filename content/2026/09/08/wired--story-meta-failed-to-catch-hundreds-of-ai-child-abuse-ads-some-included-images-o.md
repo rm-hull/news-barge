@@ -10,6 +10,10 @@ description: Images of real children—including a member of a European royal fa
   used to create some of the 350 ads containing child sexual abuse. Lawmakers say
   they plan to investigate.
 image: https://media.wired.com/photos/6a9b3f0d799e9933049ab28f/191:100/w_1280,c_limit/Security_Meta%20Published%20Ads%20Containing%20CSAM%20of%20Real%20Children_v1.jpg
+categories:
+- Technology & Software
+- Science
+- Family & Parenting
 ---
 
 *Editor’s note: This article contains descriptions of imagery depicting child sexual abuse. Reader discretion is strongly advised.*

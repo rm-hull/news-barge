@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: A Bradford woman has told jurors that her friend may have caused the
   Lamborghini she was driving to accelerate by tampering with its controls…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21401186.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: West Yorks Police)*

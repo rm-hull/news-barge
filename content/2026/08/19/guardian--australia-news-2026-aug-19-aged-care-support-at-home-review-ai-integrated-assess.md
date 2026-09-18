@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: 'Exclusive: Greens say department of health’s integrated assessment tool
   is ‘under-assessing’ far more people who may not know how to contest'
 image: https://i.guim.co.uk/img/media/afd31851f8b61df87727560960dfa526cee57aa5/250_0_3641_2913/master/3641.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=89a4a5ac5cbbcc28bb5e4d146c82cdf0
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Almost one-fifth of older Australians who contested their algorithm-determined Support at Home funding allocation had a higher level of support or higher priority allocated once a human reviewed the decision.

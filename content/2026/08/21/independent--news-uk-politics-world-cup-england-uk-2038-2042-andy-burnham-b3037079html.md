@@ -7,6 +7,11 @@ scraped_at: '2026-08-21T16:47:44Z'
 published: '2026-08-21T00:00:00Z'
 description: It would be the first time the World Cup returned to the UK since 1966
 image: https://static.independent.co.uk/2026/06/22/15/610332878..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- History
 ---
 
 Andy Burnham is exploring a bid for the UK to host the men’s World Cup alongside plans for a Northern Olympics, the *Independent* understands.

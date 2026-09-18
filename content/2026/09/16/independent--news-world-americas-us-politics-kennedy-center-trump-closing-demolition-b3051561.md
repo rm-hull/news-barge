@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Congresswoman leading legal battle against Trump’s takeover demands emergency
   court hearing
 image: https://static.independent.co.uk/2026/09/16/22/2295057973..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 One day after Donald Trump announced the immediate closure of the Kennedy Center, construction crews erected metal fencing around the building and barred workers from entering without hard hats.

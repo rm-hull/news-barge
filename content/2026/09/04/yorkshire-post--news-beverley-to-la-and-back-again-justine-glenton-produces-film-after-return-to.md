@@ -10,6 +10,11 @@ description: Justine Glenton admits that moving to Los Angeles as an actor at 50
   a little later in life than most people, but without it, she might not be creating
   work right here at home in Yorkshire.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY5MzM0ZTUxLWI0ZmQtNDQzMC1hOTUzLTAwNTQxOThjN2EzZjoxNTA5ZjAzMS1iYjRiLTQzMmQtYjgwMy1iNjM4MDA4YjVlZGY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 # Beverley to LA and back again: Justine Glenton produces film after return to Yorkshire

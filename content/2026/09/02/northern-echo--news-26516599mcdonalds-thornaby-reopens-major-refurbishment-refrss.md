@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: McDonald's Thornaby has reopened following a major refurbishment, featuring
   a redesigned dining area, updated kitchen and faster ordering…
 image: https://www.thenorthernecho.co.uk/resources/images/21402917.jpg?type=og-image&xType=0&yType=636
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 McDonalds has reopened its Thornaby restaurant today following a major makeover to improve customer experience.

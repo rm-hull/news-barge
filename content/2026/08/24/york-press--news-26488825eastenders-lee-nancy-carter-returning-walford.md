@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Lee and Nancy Carter are returning to EastEnders' Albert Square in a
   jaw-dropping storyline.
 image: https://www.yorkpress.co.uk/resources/images/21357810.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: BBC/Jack Barns/Kieron McCarron)*

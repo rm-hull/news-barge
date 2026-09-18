@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: A federal judge has blocked immigration officers from making warrantless
   arrests in Southern California unless they determine the person is likely to escape
 image: https://static.independent.co.uk/2026/09/17/02/California_Immigration_2_938.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- True Crime
 ---
 
 A federal judge has issued an order blocking immigration officers from making warrantless arrests in Southern California unless they determine the person is likely to escape.

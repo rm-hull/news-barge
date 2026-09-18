@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: Britain's summer has been the hottest on record, according to provisional
   data from the national weather service
 image: https://static.independent.co.uk/2026/08/13/17/Britain_Extreme_Weather_Heat_12329.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Britain's sweltering summer of successive heatwaves was the hottest on record, the national weather service said Tuesday.

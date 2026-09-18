@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: US national deficit has doubled over the past decade with spending growing
   under Trump and Biden
 image: https://i.guim.co.uk/img/media/a616a971f8174c956a240adf080e40f025b22a3b/685_0_6847_5477/master/6847.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0e0ea06ddb4dabdb7cc862d2ca866ef8
+categories:
+- UK
+- News & Politics
 ---
 
 Democrats and Republicans outraged over $40tn national debt

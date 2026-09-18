@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: Who produced their best Test performance in 12 months? Which batter is
   building a case to test the selectors? Player ratings from England's win over Pakistan.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6e51/live/d8d419d0-a494-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Highlights: England humble poor Pakistan to confirm series win at Lord's

@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Nick Park began modelling the character as a feline, before finding it
   too difficult and changing him to a dog
 image: https://i.guim.co.uk/img/media/ab94cb3d7a871b65a9f87dec99815b78ee82a8d9/99_0_2895_2317/master/2895.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e3a2805928d6558b5b47e6523b0ec3c
+categories:
+- UK
+- News & Politics
+- Pets & Animals
 ---
 
 The creator of Wallace and Gromit has revealed that the world’s most famous stop-motion animated dog was nearly a cat.

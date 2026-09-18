@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Humberside Fire and Rescue Service crews have been called to a crash
   along a residential street in Beverley.
 image: https://www.yorkpress.co.uk/resources/images/21422778.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
 ---
 
 *(Image: Google Maps)*

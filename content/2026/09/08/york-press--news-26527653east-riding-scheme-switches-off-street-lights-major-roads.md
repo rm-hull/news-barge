@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: A national project, led by East Riding of Yorkshire Council, is aiming
   to set a new standard for cutting emissions by switching off street lights.
 image: https://www.yorkpress.co.uk/resources/images/21419193.jpg?type=og-image
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 *(Image: East Riding of Yorkshire Council)*

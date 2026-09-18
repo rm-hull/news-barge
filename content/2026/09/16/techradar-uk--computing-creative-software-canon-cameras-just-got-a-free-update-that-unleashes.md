@@ -10,6 +10,8 @@ description: Canon has released Dual Pixel 3D software, which leverages 'depth a
   phase-detection data captured in a single shot via Dual Pixel CMOS AF' for a 3D
   imaging experience
 image: https://cdn.mos.cms.futurecdn.net/QcKqm5XR4om77qLAqB7A8B.gif
+categories:
+- Technology & Software
 ---
 
 ![Canon's Dual Pixel 3D software render of a stack of pancakes topped with blueberries, kiwi and syrup](https://cdn.mos.cms.futurecdn.net/QcKqm5XR4om77qLAqB7A8B.gif)

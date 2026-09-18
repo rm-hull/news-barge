@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: A global renewable energy developer is inviting residents near Knaresborough
   to see its plans for another solar farm near the town.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmYwNzMzMWM2LWU4YTItNDI3MS1iODcyLWQ3Mjk3OTNkNWEyZDo0ZjBlOWY3Yi1iYmQxLTQwNGMtOGQxYy1hMDc3ZWViZGNkNGU=.jpg?crop=3:2,smart&trim=&width=952&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 # Energy developer to offer Knaresborough residents chance to see plans for second solar farm near town

@@ -9,6 +9,9 @@ description: The sudden announcement comes just days after Trump wrote a fiery s
   media post slamming the joint drills as “hostile” and ordering Defence Secretary
   Pete Hegseth to scale back future exercises.
 image: https://images.euronews.com/articles/stories/09/87/96/59/1200x675_cmsv2_b3b5516d-738b-596b-9f10-44f909cb9fe7-9879659.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## The sudden announcement comes just days after Trump wrote a fiery social media post slamming the joint drills as “hostile” and ordering Defence Secretary Pete Hegseth to scale back future exercises.

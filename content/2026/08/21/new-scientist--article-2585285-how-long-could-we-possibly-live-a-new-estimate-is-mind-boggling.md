@@ -9,6 +9,9 @@ description: Biogerontologists are exploring the upper limit for human life. A r
   study has it verging on two centuries – but columnist Graham Lawton finds reason
   to be sceptical
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI308314892.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Jeanne Calment](https://www.newscientist.com/wp-content/uploads/2026/08/SEI308314892.jpg?w=840)

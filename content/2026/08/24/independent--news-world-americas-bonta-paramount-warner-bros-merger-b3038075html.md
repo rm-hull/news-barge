@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: Paramount and California state officials are set to meet on Monday to
   discuss potential ways to settle the state's antitrust lawsuit
 image: https://static.independent.co.uk/2026/06/27/21/2026-06-10T191507Z_969474590_RC2DCIAIHPAW_RTRMADP_3_MEDIA-CBS.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 California Attorney General Rob Bonta is expected to require Paramount to sell select cable channels and ensure its film studio remains distinct from Warner Bros. Discovery before approving the proposed merger, according to a *Wall Street Journal* report published Sunday that cites sources familiar with the matter.

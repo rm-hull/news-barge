@@ -9,6 +9,12 @@ published: '2026-09-16T00:00:00Z'
 description: Layne Lundeen told a judge in Annapolis, Maryland that he cannot remember
   anything that happened on the flight
 image: https://static.the-independent.com/2026/09/07/12/29/Screenshot-2026-09-07-at-13-13-59-(3)-copy.jpeg?trim=17,192,547,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- History
+- Society & Culture
 ---
 
 Layne Lundeen, the man who made headlines after he had to be duct-taped to his American Airlines seat following an alleged violent outburst, has spoken publicly for the first time about the incident.

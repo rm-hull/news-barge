@@ -16,6 +16,10 @@ description: A robber threatened shop workers with a shard of glass to steal alc
   Ellison was sentenced to 3 years and 10 months' imprisonment, having previously
   pleaded guilty to robbery and possessing an offensive weapon at an earlier hearing.
 image: https://cdn.jwplayer.com/v2/media/Rihkvcwx/poster.jpg?width=720
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 ## Showing now | News

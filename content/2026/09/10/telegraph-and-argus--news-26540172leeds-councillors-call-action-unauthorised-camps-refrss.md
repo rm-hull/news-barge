@@ -9,6 +9,12 @@ published: '2026-09-10T00:00:00Z'
 description: Tougher action has been called for on unauthorised traveller camps and
   nuisance vehicles.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21012582.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
+- Society & Culture
 ---
 
 A motion tabled by Reform councillor Kieran White called for a cross-party strategy and the “strongest possible measures” to protect public land.

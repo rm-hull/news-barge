@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Rescue crews in Nepal are racing to find hundreds of missing workers
   feared trapped in tunnels at hydropower projects
 image: https://static.independent.co.uk/2026/09/01/09/Nepal_Flash_Floods_86_64.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Rescue crews in Nepal are racing against time to find hundreds of missing workers who are feared trapped inside hydropower tunnels damaged by flooding that has killed more than 1,000 people across Nepal and China.

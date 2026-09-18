@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: A North Shields grandad and Lancashire mum win £4.27m each in National
   Lottery Lotto jackpot after matching numbers in August 8 draw, ahead of…
 image: https://www.thenorthernecho.co.uk/resources/images/21440043.jpg?type=og-image&xType=0&yType=35
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: PA)*

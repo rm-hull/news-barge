@@ -9,6 +9,10 @@ description: According to a joint statement issued by U.S. intelligence and law 
   officials, Chinese developers appropriated intellectual property from American AI
   laboratories
 image: https://static.independent.co.uk/2026/08/20/11/qMzsMyNTZh_fotG0g4Yz1ZM16SI1jJm6cEt9iJAbZ6OJ4q4AFatRJt5mhR2hxAhPdp9lz-AU-BopHMYb058v0TqjAIHP_k1e2DTL..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 American authorities have accused Chinese artificial intelligence firms of maliciously replicating proprietary technology from U.S. competitors, potentially straining diplomatic relations ahead of a planned summit between the leaders of the world's two largest economies later this month.

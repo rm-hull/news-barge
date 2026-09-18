@@ -9,6 +9,9 @@ published: '2026-09-14T00:00:00Z'
 description: Sweden’s next government remains uncertain as the national election inches
   toward a final result
 image: https://static.independent.co.uk/2026/09/14/08/Sweden_Election_5_276.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Sweden's next government remained uncertain on Monday as the national election inched toward a final result, with a thin lead for the left-wing opposition and an underwhelming performance by a hard-right anti-immigration party.

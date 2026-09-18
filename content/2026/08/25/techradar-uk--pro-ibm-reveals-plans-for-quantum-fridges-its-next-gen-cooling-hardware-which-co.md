@@ -8,6 +8,9 @@ scraped_at: '2026-08-26T01:54:27Z'
 published: '2026-08-25T00:00:00Z'
 description: A cold, box-shaped breakthrough in the making?
 image: https://cdn.mos.cms.futurecdn.net/Vnzhig9TKriKCaFGiYi92E-1920-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Quantum computing](https://cdn.mos.cms.futurecdn.net/Vnzhig9TKriKCaFGiYi92E.jpg) 

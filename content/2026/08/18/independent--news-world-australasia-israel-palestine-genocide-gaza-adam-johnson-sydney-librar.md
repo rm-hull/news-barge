@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: 'How to Sell a Genocide: The Media''s Complicity in the Destruction of
   Gaza, by American writer Adam Johnson, was withdrawn from Waverley Library'
 image: https://static.independent.co.uk/2026/07/29/14/27/SEI306755000-(1).jpeg?trim=0,1,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A library in Sydney has removed a book about media coverage of the war in Gaza from its shelves for review, after a survivor of the Bondi Beach attack said she was distressed to see it on display.

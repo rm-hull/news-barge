@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: IT’S GCSE results day - when pupils across the district will finally
   find out if they have made the grade.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21344908.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 IT’S GCSE results day - when pupils across the district will finally find out if they have made the grade.

@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: A man in his 50s was sexually assaulted and robbed by a woman at a bus
   stop in Scarborough last month.
 image: https://www.yorkpress.co.uk/resources/images/21398196.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: Google Maps)*

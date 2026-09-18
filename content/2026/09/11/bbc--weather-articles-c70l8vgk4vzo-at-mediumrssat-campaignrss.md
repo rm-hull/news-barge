@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Temperatures will return to summerlike levels over the weekend, despite
   some heavy rain.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/74ae/live/dbca3ce0-adeb-11f1-9a5c-a7a4083eb832.png
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![A woman in a green and white striped shirt holds an electric fan to her face during a heatwave](https://ichef.bbci.co.uk/ace/standard/957/cpsprodpb/74ae/live/dbca3ce0-adeb-11f1-9a5c-a7a4083eb832.png)

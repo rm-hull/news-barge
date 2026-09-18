@@ -9,6 +9,8 @@ published: '2026-09-16T00:00:00Z'
 description: We pit the Canon EOS R8 Mark II against the Nikon Z5 II across several
   key categories; which entry-level full-frame camera comes out on top?
 image: https://cdn.mos.cms.futurecdn.net/k57mK8vararxChXbsoGar4-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Canon EOS R8 Mark II (left) Nikon Z5 II (right)](https://cdn.mos.cms.futurecdn.net/k57mK8vararxChXbsoGar4.jpg) 

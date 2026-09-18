@@ -9,6 +9,12 @@ description: German security officials suspect a member of Russian military inte
   helped plan an attempted "hybrid attack" involving an explosive-laden drone at an
   airport last month, a report said Saturday.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2025/02/watermarks-logo-AFP__20250206__36XA7NU__v1__Preview__GermanyAustriaPoliticsMigrationBorderPolice.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 According to the Welt Am Sonntag newspaper, the officials believe a Russian called Oleg Le, from the GRU intelligence agency, was the logistics coordinator for the Leipzig airport plot.

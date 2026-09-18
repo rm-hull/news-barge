@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: Binance's Agent OS works with tools including ChatGPT, Claude Code, and
   Cursor.
 image: https://techcrunch.com/wp-content/uploads/2022/07/gettyimages-1239052293-594x594-1.jpg?w=594
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Binance, the world’s largest crypto exchange with more than 300 million registered users, on Thursday launched a platform that lets AI agents analyze markets and execute trades on users’ behalf, bringing autonomous AI directly into the business of managing real money.

@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Bradford man Lukas Dawson faces vehicle theft, dangerous driving and
   cannabis charges after a West Yorkshire Police arrest; next hearing is January…
 image: https://www.thetelegraphandargus.co.uk/resources/images/16485300.jpg?type=og-image&xType=0&yType=121
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: Pixabay)*

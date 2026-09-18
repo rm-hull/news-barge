@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: The Trump administration has provided a $99.6 million loan to a U.S.-owned
   cell phone network operator in Africa to expand American tech presence on the continent
 image: https://static.independent.co.uk/2026/09/11/14/APTOPIX_Election_2_26_Republicans_47941.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The Trump administration has provided a $99.6 million loan to a U.S.-owned cell phone network operator in Africa to expand American tech presence on a continent where China's Huawei is a leading player.

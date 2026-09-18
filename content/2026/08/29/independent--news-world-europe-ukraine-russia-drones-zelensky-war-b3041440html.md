@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: '‘There needs to be more: there is a concrete goal, and we will fulfil
   this task’'
 image: https://static.independent.co.uk/2026/08/29/11/2026-08-29T092523Z_455488989_RC288NAP5U0G_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG?trim=25,0,25,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Ukrainian President Volodymyr Zelensky said on Friday that he has ordered his military to increase its long-range drone strikes against Russia to 1,000 per day, up from around 300 currently.

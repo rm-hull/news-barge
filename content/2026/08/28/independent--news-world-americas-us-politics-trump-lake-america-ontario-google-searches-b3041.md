@@ -10,6 +10,11 @@ description: The executive action comes as trade negotiations between Washington
   Ottawa collapse, prompting 50 percent US tariffs on $20 billion worth of Canadian
   goods
 image: https://static.independent.co.uk/2026/08/28/23/2291733496..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Search engine data shows that residents in every US state continue to search for “Lake Ontario” over President Donald Trump’s preferred moniker, “Lake America,” following his executive order to change the body’s federal name.

@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Plans to install life-saving equipment in York city centre have been
   dropped.
 image: https://www.yorkpress.co.uk/resources/images/21004800.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 ## 'Life-saving' equipment in York city centre plans dropped

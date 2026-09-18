@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Philip Jerome, 49, repeatedly tried to contact actor in hope they would
   begin a relationship, court hears
 image: https://i.guim.co.uk/img/media/9082c0ec12f0ee221178d112f2552ff217c2501d/0_115_4109_3288/master/4109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b8c34629ed476ee9a4d5eb665b775a3
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A fan obsessed with Billie Piper has been jailed for 12 months after breaching a stalking prevention order.

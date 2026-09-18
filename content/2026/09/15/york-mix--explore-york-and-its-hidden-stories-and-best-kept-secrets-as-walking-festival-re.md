@@ -8,6 +8,10 @@ scraped_at: '2026-09-15T19:41:50Z'
 published: '2026-09-15T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/Walking-in-York.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 The York Walking Festival is back next week – with a over two weeks of ideas on how to explore the city on foot.

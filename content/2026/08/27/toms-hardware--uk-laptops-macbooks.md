@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: Macbook reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/2eNt2BcSrH25wjrHuFcYTe-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/2eNt2BcSrH25wjrHuFcYTe-320-80.jpg)

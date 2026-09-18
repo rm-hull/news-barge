@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Nicki Parker remains hospitalized 10 days after she was thrown from the
   ski resort’s coaster, her lawyer said
 image: https://static.independent.co.uk/2026/08/27/19/54/Rocky-Mountain-Coaster-at-Copper-Mountain.png?trim=0,29,0,53&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Colorado officials are investigating after a woman was ejected from a ski resort’s alpine coaster and dragged along the track, leaving her hospitalized with extensive injuries.

@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: As you may know, there’s a few of us in the office that do The Press
   food reviews.
 image: https://www.yorkpress.co.uk/resources/images/21340158.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## We enjoy a fine place to push the boat out and bump into a Hollywood star

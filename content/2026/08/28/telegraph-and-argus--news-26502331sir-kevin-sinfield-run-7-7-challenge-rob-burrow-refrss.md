@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: SIR Kevin Sinfield will run as part of his 7 in 7 challenge to raise
   funds and awareness for motor neurone disease (MND)
 image: https://www.thetelegraphandargus.co.uk/resources/images/21381675.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Matthew Merrick Photography)*

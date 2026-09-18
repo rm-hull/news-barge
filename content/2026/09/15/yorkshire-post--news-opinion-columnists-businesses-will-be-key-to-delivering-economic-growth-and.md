@@ -12,6 +12,12 @@ description: It’s the economy stupid. The new Chancellor was right when he emp
   the right environment so that businesses can deliver on these growth ambitions for
   all of us.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjNjZmViYWM2LTc3MmItNGM4Mi04ZGQ5LWQwOGMyYzQwY2ZjMzplZjNkYWU3Yy03MmRjLTRiY2UtOTZjMi01MWYwODkxMzEyODM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 # Businesses will be key to delivering economic growth and the Chancellor is right to look to change the Green Book - Susan Hinchcliffe

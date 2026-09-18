@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Preservationists worry board may seize on incident ‘to make the point
   that the whole thing needs to be shut down’
 image: https://i.guim.co.uk/img/media/d9b9dd99bd31a5ea1a61a702cf94d0fe21c3c961/567_0_4080_3264/master/4080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8879d85513d40e4e1fefa77038b1fcf5
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Falling debris from a ceiling in the grand foyer of the John F Kennedy Center for the Performing Arts may have complicated a battle over renovations of the Washington DC arts center that could result in the building being demolished.

@@ -9,6 +9,11 @@ description: 'Talking about the future of the neighbourhood on the tram or the S
   that is the idea behind a new dialogue project in Marzahn-Hellersdorf and Lichtenberg.
   Facilitators invite passengers to join in the conversation.'
 image: https://www.berlin.de/binaries/asset/image_assets/10613395/ratio_4_3/1788519578/800x600/
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Society & Culture
 ---
 
 © dpa

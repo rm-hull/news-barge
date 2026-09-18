@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: What should new students consider to keep your belongings safe and covered
   by insurance?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2700/live/2436c9d0-adf1-11f1-ad53-0d91a06f3150.jpg
+categories:
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 ![Student sits on the grass with a phone in her hand, a tablet computer on the grass and a bike resting on a tree behind her.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/2700/live/2436c9d0-adf1-11f1-ad53-0d91a06f3150.jpg)

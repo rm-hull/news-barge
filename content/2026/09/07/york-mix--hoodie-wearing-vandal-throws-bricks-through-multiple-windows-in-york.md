@@ -8,6 +8,10 @@ scraped_at: '2026-09-07T14:13:52Z'
 published: '2026-09-07T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/10/police-coat-dreamstime.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 Police are searching for a hoodie-wearing cyclist after windows were smashed on a York street.

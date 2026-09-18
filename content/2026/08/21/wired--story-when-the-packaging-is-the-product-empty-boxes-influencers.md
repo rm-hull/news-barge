@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: As the appetite for “authenticity” grows online, content creators are
   buying up empty boxes for luxury goods—and resellers are cashing in for “crazy prices.”
 image: https://media.wired.com/photos/6a861950942118095017e618/191:100/w_1280,c_limit/Packaging-is-the-Product-Gear.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
+- Creator Economy & Marketing
 ---
 
 Doctor Who, One Piece, Pokémon, Star Wars. Empty product boxes from these popular properties have been listed on eBay for $2,500 and up. It’s not too surprising to anyone familiar with modern nerd-dom that even the empty boxes for these perennial collectibles would command high prices.

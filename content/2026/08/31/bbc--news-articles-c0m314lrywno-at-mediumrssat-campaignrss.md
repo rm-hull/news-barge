@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: Fr Aidan Troy says the "hurt" of that ordeal in 2001 in north Belfast
   could happen again.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fb60/live/c470f070-a562-11f1-a29b-3ba1838baf75.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A man in a priest’s collar. He has short white hair and is sitting a room next to a large wooden table.](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/fb60/live/c470f070-a562-11f1-a29b-3ba1838baf75.jpg)

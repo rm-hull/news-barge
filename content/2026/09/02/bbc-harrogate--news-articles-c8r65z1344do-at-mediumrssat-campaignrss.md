@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The redesign will include a Costa Coffee and M&S Food store, as well
   as an improved self check-in.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1448/live/3eb01fe0-a5f0-11f1-8348-fb0cb1cd9761.jpg
+categories:
+- Local
+- Harrogate
+- Food & Cooking
 ---
 
 ![Design image of a bright, modern hospital reception area with a curved information desk, people checking in at kiosks, and a wheelchair user being assisted, all under clear signage welcoming visitors to Harrogate District Hospital.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1448/live/3eb01fe0-a5f0-11f1-8348-fb0cb1cd9761.jpg)

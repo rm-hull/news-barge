@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: 'Exclusive: Voluntary use of sex drive-suppressing medication to expand
   to 20 prisons and expert says it could be rolled out widely by late 2028'
 image: https://i.guim.co.uk/img/media/fd6953a3ec0be507cb1893f834eed1c23d470e5b/484_0_4856_3885/master/4856.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3139c51cc0eb6f7545c5b5780c0430aa
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 Drugs that help control the libidos of people who have committed sexual offences could be rolled out for thousands of male prisoners in England and Wales from December 2028, an expert has said.

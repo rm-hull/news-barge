@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: North Yorkshire manufacturers are being offered new support to help protect
   their businesses from cyber attacks as the risk of digital disruption…
 image: https://www.thenorthernecho.co.uk/resources/images/21372107.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: SYMCA)*

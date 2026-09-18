@@ -8,6 +8,11 @@ scraped_at: '2026-08-31T05:24:12Z'
 published: '2026-08-31T00:00:00Z'
 description: We can now announce the top 10 best bakeries in the Bradford district.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21331956.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: T&A)*

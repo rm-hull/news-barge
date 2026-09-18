@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: The calls come with at least 618 confirmed cases of bluetongue and more
   than 2,200 suspected cases, which are waiting to be tested.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjgzNzczYmI0LWYyOWQtNDkwOC1hZjM4LTkwNmM3MDRiYjMyNjpjNGVmMjZhMy1mZmMwLTRhZGMtYTVkYS1hNzc5YmY5NWYxMzk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Farmers warned to 'remain vigilant' to foot and mouth amid 'surge' in bluetongue cases

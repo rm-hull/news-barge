@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A new £1m children's swim school founded by the Olympic champion is set
   to open in Teesside later this year, with construction now under way.
 image: https://www.thenorthernecho.co.uk/resources/images/21249296.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A swim school created by an Olympic champion opening in Teesside later this year.

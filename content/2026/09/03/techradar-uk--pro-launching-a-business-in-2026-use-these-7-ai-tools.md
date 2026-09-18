@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T12:48:00Z'
 published: '2026-09-03T00:00:00Z'
 description: AI tools worth your budget this year
 image: https://cdn.mos.cms.futurecdn.net/irTiCRq4cLRz7XovGAmcx8-1376-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![woman in an office starting a small business](https://cdn.mos.cms.futurecdn.net/irTiCRq4cLRz7XovGAmcx8.jpg) 

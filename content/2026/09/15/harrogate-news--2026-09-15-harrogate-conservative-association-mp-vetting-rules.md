@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The Harrogate Conservative Association faces candidate selection shifts
   as Kemi Badenoch introduces psychometric tests and net zero purges for ex-MPs.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Andrew-Jones.webp
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 **HARROGATE** — Regional political analysts have detailed a significant structural challenge facing the district’s conservative selection machinery, following the introduction of a rigorous new national candidate vetting protocol.

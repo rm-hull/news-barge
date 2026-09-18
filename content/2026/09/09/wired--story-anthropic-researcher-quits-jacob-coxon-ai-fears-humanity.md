@@ -9,6 +9,9 @@ description: Jacob Coxon talks to WIRED about the “mini Manhattan project” i
   Anthropic, the problem with alignment, and why AI labs have just a few years left
   to make their systems safe.
 image: https://media.wired.com/photos/6aa1b02e3037c77bcc965f82/191:100/w_1280,c_limit/Security_Interview%20With%20Anthropic%20Guy%20Who%20Quit%20Because%20AI%20Is%20Going%20to%20Kill%20Everybody_v1.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Artificial intelligence researcher Jacob Coxon sent shock waves through Silicon Valley and beyond on Tuesday by announcing his resignation from Anthropic and delivering a grave warning that the AI race is putting all of our lives at risk. In his post on X, which now has more than 100 million views, Coxon wrote that many of the people building AI share his views and believe time is running out to ensure AI systems are built safely.

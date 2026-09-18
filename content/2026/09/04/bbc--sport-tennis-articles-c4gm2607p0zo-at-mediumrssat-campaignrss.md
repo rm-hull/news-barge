@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Aryna Sabalenka briefly halts her US Open match against Kamilla Rakhimova
   because of the smell of cannabis before going on to reach the fourth round.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cdc6/live/440984e0-a884-11f1-824a-0fc4c5d895ae.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Aryna Sabalenka celebrates beating Kamilla Rakhimova at the US Open](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/cdc6/live/440984e0-a884-11f1-824a-0fc4c5d895ae.jpg)

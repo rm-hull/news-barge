@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Every Monday evening across Sheffield, groups of men meet up to get things
   off their chests and talk about how their week has been.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjA2MWZlOTlkLTY4YTQtNGVlMi05YmY1LTY5YzBkOWVjNWRjOTo2NDY4MDFmNi04ODM1LTRkOWUtOGQ2YS00ZWU0MmE4NjE4MzA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # 'A brotherhood' - The Sheffield groups helping men with their mental health

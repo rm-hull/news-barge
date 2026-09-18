@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: Food influencer Jj Da Lion took on a colossal 10kg parmo challenge in
   Teesside, describing the mammoth feast as "impossible".
 image: https://www.thenorthernecho.co.uk/resources/images/21353413.jpg?type=og-image&xType=0&yType=357
+categories:
+- Local
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 *(Image: JjDaLion on TikTok)*

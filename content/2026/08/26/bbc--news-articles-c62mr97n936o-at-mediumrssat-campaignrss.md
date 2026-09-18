@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: The justice department has also asked for Trump's name to be put back
   on the building after it was removed in June following a court order.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/532b/live/81abd680-a164-11f1-81f3-a1eb67c44aaf.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Aerial shot of the Kennedy Center](https://ichef.bbci.co.uk/ace/standard/721/cpsprodpb/532b/live/81abd680-a164-11f1-81f3-a1eb67c44aaf.jpg)

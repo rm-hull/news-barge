@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: The former minister announced his new role as senior vice president on
   Friday
 image: https://static.independent.co.uk/2026/05/29/11/2237728165..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 Labour former deputy leader Tom Watson is facing an onslaught of criticism for joining tech giant Palantir.

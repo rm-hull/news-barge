@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: Fire and medical officials have issued warnings about a supplement offered
   to Western wildland firefighters who have been exposed to toxic chemicals
 image: https://static.independent.co.uk/2026/08/14/21/California_Wildfires_Palisades_Investigation_74174.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Fire and medical officials have issued warnings about a supplement offered to Western wildland firefighters who have been exposed to toxic chemicals while battling some of the country's biggest blazes.

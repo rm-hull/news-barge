@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: A 41-year-old man has been arrested on suspicion of drink and drug driving
   after a crash in Helmsley.
 image: https://www.yorkpress.co.uk/resources/images/21042372.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
 ---
 
 *(Image: Cumbria Police)*

@@ -9,6 +9,12 @@ published: '2026-08-25T00:00:00Z'
 description: A butchers is urging customers to get behind a key member of staff who
   has been shortlisted for a national industry award.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21370949.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: Lishman's of Ilkley)*

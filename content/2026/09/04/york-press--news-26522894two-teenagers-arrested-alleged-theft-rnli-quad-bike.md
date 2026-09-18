@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Two teenagers have been arrested following the alleged theft of an RNLI
   quad bike from Whitby promenade.
 image: https://www.yorkpress.co.uk/resources/images/21411876.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: RNLI)*

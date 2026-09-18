@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The Moon could glow an eerie red in the early hours of Friday but cloud
   cover may spoil the spectacle for some parts of the UK.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/3b60/live/f6d62c90-a1e5-11f1-b132-bb16290da3a7.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 ![Image of Moon with reddish tinge in cloudy skies](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3b60/live/f6d62c90-a1e5-11f1-b132-bb16290da3a7.jpg)

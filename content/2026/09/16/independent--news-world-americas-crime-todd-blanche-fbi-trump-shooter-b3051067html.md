@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Attorney General Todd Blanche said on Tuesday the FBI had discovered
   new information regarding the shooter who attempted to assassinate Donald Trump
 image: https://static.the-independent.com/2024/07/24/18/673ba29e6ed4492ab062ff3addc59779.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Attorney General Todd Blanche said Tuesday that the FBI has uncovered new information about the gunman who tried to assassinate Donald Trump at a 2024 campaign rally in Butler, Pennsylvania.

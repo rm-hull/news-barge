@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Television expert to work with banks such as Barclays, HSBC, Lloyds,
   and Monzo to help those who are struggling
 image: https://static.independent.co.uk/2026/07/19/14/06/01K4N8SH1TJDZGN8SCNXG6DPQB-(1).jpg?trim=0,56,0,55&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 Martin Lewis’s charity has launched a new project aimed at transforming the support banks and building societies provide to customers who may be feeling suicidal.

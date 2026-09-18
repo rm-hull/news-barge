@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The prime minister was grilled on his commitment to reach 3 per cent
   for defenced funding by 2030
 image: https://static.independent.co.uk/2026/09/09/13/c4292265d5fe8910b6da2a598c9252c1Y29udGVudHNlYXJjaGFwaSwxNzg5MDQxNzgx-2.85794328.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Andy Burnham has insisted he won’t raise defence spending at the “expense of social security”, in the latest indication that he won’t cut the welfare bill to boost national security.

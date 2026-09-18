@@ -7,6 +7,9 @@ scraped_at: '2026-09-11T04:29:56Z'
 published: '2026-09-11T00:00:00Z'
 description: The president is known to exaggerate the crowd size at his events
 image: https://static.independent.co.uk/2026/09/11/03/2294071706..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump returned on Thursday to his familiar focus on crowd size, falsely claiming there were “no empty seats” in the crowd at the Republican Party’s midterm convention in Texas, even though news photographers captured a largely empty upper section inside the roughly 19,000-seat American Airlines Center.

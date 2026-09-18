@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: After testing the Galaxy Z Fold 8 on vacation, I've come to love its
   passport-shaped form factor.
 image: https://cdn.mos.cms.futurecdn.net/vpmnetYUxsn7AAxUuiScXa-2560-80.jpg
+categories:
+- Technology & Software
+- Travel
 ---
 
 ![The Samsung Galaxy Z Fold 8 in a suitcase, on top of various items.](https://cdn.mos.cms.futurecdn.net/vpmnetYUxsn7AAxUuiScXa.jpg) 

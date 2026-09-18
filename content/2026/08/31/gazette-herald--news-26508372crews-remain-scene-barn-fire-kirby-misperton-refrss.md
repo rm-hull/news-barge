@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Crews remain at the scene of a fire which began after lightning struck
   two barns in North Yorkshire yesterday evening (Sunday).
 image: https://www.gazetteherald.co.uk/resources/images/21391149.jpg?type=og-image&xType=0&yType=637
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 CREWS remain at the scene of a fire which began after lightning struck two barns in North Yorkshire yesterday evening (Sunday).

@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The food group, which also makes the Napolina and Crisp ‘N’ Dry brands,
   also revealed a jump in profits for the first half of the year.
 image: https://static.independent.co.uk/2025/10/10/09/10085839-1bd48ec3-94f5-4aa4-b1ec-74b7a09bd59d.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Tinned tuna maker Princes has revealed stronger sales in the face of “significant inflationary pressures” amid a boost from recent acquisitions.

@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: The former presenter of BBC Radio 4 Woman's Hour died earlier this year,
   eight days after the collision.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/55a5/live/920028e0-a20b-11f1-9090-b51af3a01fc2.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Dame Jenni Murray has a blue and red paisley pattened scarf over one shoulder and is wearing a black top, she has short hair and glasses which are perched on her nose and attached by a beaded string](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/55a5/live/920028e0-a20b-11f1-9090-b51af3a01fc2.jpg)

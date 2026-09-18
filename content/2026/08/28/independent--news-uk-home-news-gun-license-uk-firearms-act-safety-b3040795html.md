@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: The firearms licensing system in England and Wales is not fit for purpose,
   His Majesty’s Inspectorate of Constabulary and Fire & Rescue Services said
 image: https://static.independent.co.uk/2026/08/27/18/40/iStock-162522888.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Problems with the gun licensing system are putting public safety at risk, official inspectors have warned.

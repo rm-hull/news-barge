@@ -10,6 +10,10 @@ description: The European Central Bank is all but certain to raise interest rate
   decision is more awkward than the numbers suggest as inflation is being driven almost
   entirely by energy with underlying pressures actually easing.
 image: https://images.euronews.com/articles/stories/09/90/44/40/1200x675_cmsv2_e86b3aec-0403-5dca-ad57-55d773950a95-9904440.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ## The European Central Bank is all but certain to raise interest rates on Thursday, with investors pricing the move at near-total probability, but the decision is more awkward than the numbers suggest as inflation is being driven almost entirely by energy with underlying pressures actually easing.

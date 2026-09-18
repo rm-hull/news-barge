@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: A community stricken by grief has rallied together to raise more than
   half a million pounds for two police officers described as “heroes” killed…
 image: https://www.thenorthernecho.co.uk/resources/images/21363199.jpg?type=og-image&xType=0&yType=291
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 A community has rallied together to raise more than half a million pounds for "hero" police officers who died in a horror crash.

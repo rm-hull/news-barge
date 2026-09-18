@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Ravenseat Farm, made famous by television, stands in one of North Yorkshire’s
   most remote valleys.
 image: https://www.thetelegraphandargus.co.uk/resources/images/14335904.jpg?type=og-image&xType=0&yType=256
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 Ravenseat Farm, made famous by television, stands in one of North Yorkshire’s most remote valleys.

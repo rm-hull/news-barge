@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: Pedro Sánchez says two countries cooperating and accuses Israel and Russia
   of spreading fake news about migration
 image: https://i.guim.co.uk/img/media/c0dd2ae7e5932bb0877575ffd8448d3b061d544f/965_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ab453c66b508f397495fe8ec0b5a80d
+categories:
+- UK
+- News & Politics
 ---
 
 Spain’s prime minister, Pedro Sánchez, has said there is no evidence to suggest the Moroccan government was behind last month’s massive border crossing into Ceuta but accused Israel and Russia of spreading disinformation.

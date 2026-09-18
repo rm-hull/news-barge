@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: 27 people have now been arrested as part of their investigations since
   the horrific collision on the A66
 image: https://static.independent.co.uk/2026/08/25/12/2291447359..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Two more arrests have been made by police after a vehicle was rammed in Middlesbrough, eight days after a head-on collision which killed five young men and two police officers.

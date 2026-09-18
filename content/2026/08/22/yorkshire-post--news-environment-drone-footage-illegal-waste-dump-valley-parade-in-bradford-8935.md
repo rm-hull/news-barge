@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Prime Minister Andy Burnham, Environment Secretary Dame Angela Eagle
   and Bradford West MP Naz Shah visited the site next to Valley Parade.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/22/9/38/GettyImages-2290636834.jpg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Drone footage shows shocking illegal waste dump next to Valley Parade in Bradford

@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The Welsh actor became the first person to win two lead acting prizes
   in one night at the Emmy Awards.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f175/live/10dbc040-b0f1-11f1-9707-2187f52634c5.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 ![Matthew Rhys is photographed attending the 78th Emmy Awards. He is wearing a black suit jacket, black waist coat and black bow tie. He has dark hair and a grey beard. He is smiling whilst holding three Emmy awards. He is looking away from the camera.](https://ichef.bbci.co.uk/ace/standard/960/cpsprodpb/f175/live/10dbc040-b0f1-11f1-9707-2187f52634c5.jpg)

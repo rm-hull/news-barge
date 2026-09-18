@@ -9,6 +9,11 @@ description: The warnings come after The Independent revealed last week that the
   has lost £11.7bn a year in trade as a result of leaving the EU while 98.2 per cent
   of businesses want access to the single market again
 image: https://static.independent.co.uk/2026/06/19/11/1230355231..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Andy Burnham has been warned that the UK gaining full entry into a major global trade pact will not come close to covering for losses from leaving the EU despite a £2bn boost to the economy.

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The outbreak is one of three clusters of Salmonella Enteritidis currently
   under investigation in the UK by the UKHSA and the Food Standards Agency…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21433548.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Yuri Arcurs/Getty)*

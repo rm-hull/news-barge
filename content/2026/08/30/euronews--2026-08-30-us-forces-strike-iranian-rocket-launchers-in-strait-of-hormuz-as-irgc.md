@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: The IRGC confirmed strikes had hit Larak Island and warned that the attack
   would be "met with a retaliatory response," per Iran's Fars news agency.
 image: https://images.euronews.com/articles/stories/09/86/77/14/1200x675_cmsv2_e8cfdf20-ad74-5ed1-bb17-995cab5f2d2b-9867714.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 ## The IRGC confirmed strikes had hit Larak Island and warned that the attack would be "met with a retaliatory response," per Iran's Fars news agency.

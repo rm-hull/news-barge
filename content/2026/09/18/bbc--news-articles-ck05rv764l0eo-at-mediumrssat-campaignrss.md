@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Chan Mathok Atak has been sentenced to two years and three months in
   prison after piloting the boat.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/096f/live/e98d4e50-9ff2-11f1-b150-d3e6f0a6b415.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![A large black inflatable dinghy carrying dozens of people wearing orange life jackets travels across calm sea water. People are seated along both sides of the vessel and across its centre.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/096f/live/e98d4e50-9ff2-11f1-b150-d3e6f0a6b415.jpg)

@@ -9,6 +9,8 @@ published: '2026-09-15T00:00:00Z'
 description: Changing StarCraft from a real-time strategy to an open-world shooter
   came with perspective challenges, but also a simple challenge to do with doors.
 image: https://cdn.mos.cms.futurecdn.net/vJGU7tiDgwtY9AnKaMYYd6-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A still from the StarCraft teaser trailer showing a recruit looking into the giant power armor](https://cdn.mos.cms.futurecdn.net/vJGU7tiDgwtY9AnKaMYYd6.jpg) 

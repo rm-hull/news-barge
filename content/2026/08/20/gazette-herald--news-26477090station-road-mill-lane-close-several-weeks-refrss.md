@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Two North Yorkshire roads, Station Road and Mill Lane, will be closed
   to traffic for several weeks.
 image: https://www.gazetteherald.co.uk/resources/images/16957573.jpg?type=og-image&yType=49
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Newsquest)*

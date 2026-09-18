@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Other studies released over the past year suggest GLP-1s could have anti-aging
   properties
 image: https://static.independent.co.uk/2026/09/04/19/20/GettyImages-684309528.jpeg?trim=0,170,0,170&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Weight loss drugs, already taken by millions of Americans, may help people live longer, according to a new study on mice.

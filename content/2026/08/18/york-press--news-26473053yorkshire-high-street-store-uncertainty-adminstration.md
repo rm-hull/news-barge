@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Harvey Nichols' future in Leeds is uncertain following a takeover by
   Frasers Group. A store has gone into liquidation in Dublin.
 image: https://www.yorkpress.co.uk/resources/images/21139354.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Darren Greenwood)*

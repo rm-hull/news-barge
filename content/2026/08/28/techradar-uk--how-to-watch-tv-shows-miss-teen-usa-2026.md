@@ -7,6 +7,9 @@ scraped_at: '2026-08-28T22:14:26Z'
 published: '2026-08-28T00:00:00Z'
 description: Watch the long-running beauty contest in Miami from wherever you are
 image: https://cdn.mos.cms.futurecdn.net/NdPVrGZq3CWyARbUDjGNyL-1920-80.jpg
+categories:
+- Technology & Software
+- Travel
 ---
 
 ![Image of Miss Teen USA 2026 contestant Kiran Reddy](https://cdn.mos.cms.futurecdn.net/NdPVrGZq3CWyARbUDjGNyL.jpg) 

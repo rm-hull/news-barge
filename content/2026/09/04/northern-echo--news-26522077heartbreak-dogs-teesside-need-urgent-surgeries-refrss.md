@@ -9,6 +9,12 @@ published: '2026-09-04T00:00:00Z'
 description: Maxi's Mates Rescue has launched an urgent appeal for donations to help
   fund vital surgery for two dogs with serious medical conditions.
 image: https://www.thenorthernecho.co.uk/resources/images/21410758.jpg?type=og-image&xType=0&yType=85
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Pets & Animals
 ---
 
 An animal shelter has launched an urgent fundraising appeal after three dogs in its care were found to have serious medical conditions.

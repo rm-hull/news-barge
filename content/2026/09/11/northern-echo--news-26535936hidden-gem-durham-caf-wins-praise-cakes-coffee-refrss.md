@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: Tucked away near Durham Cathedral, this family-run café is earning rave
   reviews from visitors for its homemade food, friendly service and cosy…
 image: https://www.thenorthernecho.co.uk/resources/images/21431263.jpg?type=og-image&xType=0&yType=217
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 Just a stone’s throw from Durham Cathedral, a family-run café has become one of the city’s most-loved spots for coffee, cake and lunch.

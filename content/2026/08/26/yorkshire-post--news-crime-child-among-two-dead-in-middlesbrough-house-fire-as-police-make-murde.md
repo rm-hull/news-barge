@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: A child is among two people who were killed in a house fire in Middlesbrough
   as police have made two murder arrests.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/26/11/12/01M0YVQJ7M7DSF5SN35PM4MJHS.jpeg?trim=928,1723,798,669&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # Child among two dead in Middlesbrough house fire as police make murder arrests

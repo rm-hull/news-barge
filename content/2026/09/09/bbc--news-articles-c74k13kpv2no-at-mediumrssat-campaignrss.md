@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: The three jurors said after 40 hours, a lone male juror wouldn't agree
   with the rest of the panel to find Clancy not guilty by reason of insanity.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc45/live/4c0ffde0-abdb-11f1-ba40-a905468c0295.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 Inside court as judge declares a mistrial in Lindsay Clancy case

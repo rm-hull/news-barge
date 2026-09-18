@@ -7,6 +7,11 @@ scraped_at: '2026-08-29T06:59:19Z'
 published: '2026-08-29T00:00:00Z'
 description: ROADS in Wilsden will be closed overnight for "telecommunication works."
 image: https://www.thetelegraphandargus.co.uk/resources/images/21386343.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Google Street View)*

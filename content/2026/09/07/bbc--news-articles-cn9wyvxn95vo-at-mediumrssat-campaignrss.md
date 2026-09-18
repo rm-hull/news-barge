@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Firms like Meta, Google and TikTok should face "substantial" penalties
   if they don't give the option, minister says.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db8d/live/68beaa90-aa69-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A woman in a tartan jacket and white dress speaks. Several flags can be seen in the background](https://ichef.bbci.co.uk/ace/standard/910/cpsprodpb/db8d/live/68beaa90-aa69-11f1-aed2-8d6da8d75094.jpg)

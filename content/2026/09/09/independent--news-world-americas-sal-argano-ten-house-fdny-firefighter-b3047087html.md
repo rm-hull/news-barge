@@ -9,6 +9,11 @@ description: The fire station across from the World Trade Center has become a ke
   stop along the route for visiting the site of the Sept. 11, 2001 attacks that killed
   nearly 3,000 people
 image: https://static.independent.co.uk/2026/09/09/05/Sept_11-Firehouse_139_1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Sports
 ---
 
 On September 11, 2001, New York City firefighter Sal Argano benefited from a stroke of luck. Rather than working at his regular station—a small Manhattan firehouse situated directly across an intersection from the Twin Towers—he was on temporary loan to another unit in Brooklyn when hijacked planes struck the World Trade Center.

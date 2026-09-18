@@ -10,6 +10,11 @@ description: A Pennsylvania coroner confirms that the two measles-related deaths
   Pennsylvania last month involved infants, and the virus itself caused one of the
   deaths
 image: https://static.independent.co.uk/2026/08/29/00/Measles_Deaths_658_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- True Crime
 ---
 
 The two measles-related deaths in Pennsylvania last month involved infants, and the virus itself caused one of the deaths, a Pennsylvania coroner confirmed Wednesday.

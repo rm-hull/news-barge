@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: In a small minority of patients, Salmonella crosses the gut lining and
   enters the blood
 image: https://static.independent.co.uk/2026/08/19/18/28/iStock-1277186565.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 For most people, a Salmonella infection causes gastroenteritis, an inflammation of the stomach and intestines that can mean several miserable days of diarrhoea, cramps, fever or vomiting. Most people recover within a week. But severe diarrhoea and dehydration can still be dangerous, even while the bacteria remain confined to the gut.

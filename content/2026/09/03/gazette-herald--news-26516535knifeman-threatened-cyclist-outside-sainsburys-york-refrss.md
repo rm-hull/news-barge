@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: 'A convicted burglar pulled a knife and told cyclist at cash machine
   in broad daylight outside Sainsbury''s: “If you don’t get the money out,…'
 image: https://www.gazetteherald.co.uk/resources/images/21403322.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: North Yorkshire Police)*

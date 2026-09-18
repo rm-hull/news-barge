@@ -10,6 +10,10 @@ description: Video. Intense rainfall dumped up to 96 mm on Torrent, south‑west
   Valencia, flooding roads, homes and the Parc Central tunnel, trapping cars and prompting
   emergency pumping operations.
 image: https://images.euronews.com/articles/stories/09/91/74/74/1200x675_cmsv2_9894108b-998e-578e-ab13-e49a7f97a3a0-9917474.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 In Torrent, a city of around 85,000 people in the Horta Sud area, streets were covered in mud, with several vehicles damaged or left unusable, and emergency crews in the town rescued 15 people blocked inside a fast‑food restaurant as water poured in. Local residents told the AFP news agency that similar flooding had occurred previously and criticised the absence of structural measures to prevent it.

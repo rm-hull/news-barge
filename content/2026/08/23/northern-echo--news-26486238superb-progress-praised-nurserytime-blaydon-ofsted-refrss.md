@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: A Blaydon nursery has impressed Ofsted inspectors with its "superb progress"
   and nurturing environment in a new report.
 image: https://www.thenorthernecho.co.uk/resources/images/21356774.jpg?type=og-image&xType=0&yType=154
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Google Maps)*

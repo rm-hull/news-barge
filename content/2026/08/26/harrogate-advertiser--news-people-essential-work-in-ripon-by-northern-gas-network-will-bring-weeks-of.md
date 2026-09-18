@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Road closures and temporary traffic lights are to hit Ripon in the weeks
   ahead as Northern Gas Network carries out essential work.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmM0NTI3YmFiLWYyYjItNGVjNC1hZDY5LThiYTg1YTAyN2E4MTphMzUyMDdmYy04N2I3LTQ4ZDUtYTg5Zi1lMWRjMmViYWJmZmM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 # Essential work in Ripon by Northern Gas Network will bring weeks of road closures and temporary traffic lights

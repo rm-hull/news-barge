@@ -10,6 +10,11 @@ description: Leyburn Town Council has hailed the town’s hosting of the Tour of
   as a success, while acknowledging that for some businesses and residents the event
   was not “all raindrops and kittens”.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmMwMDc2ZWM3LWExNzQtNDFmNi1hMmQyLTkzOWY4NzM4ZDRlNjo0ZDZlM2UxMy1lY2UzLTQzZWMtOTRmNS1jMDI1NTcyYmQ1Zjg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Tour of Britain hosting declared a success although not “all raindrops and kittens”

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: 'In Munich, a man and a woman allegedly attempted to carry out an arson
   attack outside the premises of two defence companies. The pair were arrested. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/96/58/1200x675_cmsv2_5e97984a-4f8d-5845-8b0d-3a5bc5e01591-9899658.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## In Munich, a man and a woman allegedly attempted to carry out an arson attack outside the premises of two defence companies. The pair were arrested.

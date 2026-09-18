@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Hundreds of millions of tonnes of plastic pollution are created each
   year. One option may be to turn the pollution into food, but critics voice concerns
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309008441.jpg
+categories:
+- Science
+- Technology & Software
+- Food & Cooking
 ---
 
 ![A cookie made using waste plant materials and plastic](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309008441.jpg?w=840)

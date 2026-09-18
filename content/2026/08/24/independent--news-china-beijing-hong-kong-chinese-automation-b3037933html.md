@@ -10,6 +10,12 @@ description: Artificial intelligence is beginning to reshape China's job market,
   by state policies that some economists believe might undermine the overall strength
   of its economy
 image: https://static.independent.co.uk/2026/08/24/04/China_AI_Job_Fears_29259.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 Computer programmer Fei Zhaojun's boss asked him if artificial intelligence could soon replace humans in coding jobs. Two weeks later, he was laid off from his job in Beijing, together with about 160 of his colleagues.

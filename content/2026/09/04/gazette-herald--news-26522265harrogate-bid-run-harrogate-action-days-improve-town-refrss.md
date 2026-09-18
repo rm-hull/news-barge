@@ -8,6 +8,12 @@ published: '2026-09-04T00:00:00Z'
 description: A new community initiative from Harrogate BID is calling on residents
   and businesses to help spruce up its town centre.
 image: https://www.gazetteherald.co.uk/resources/images/21410911.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 *(Image: Pic supplied)*

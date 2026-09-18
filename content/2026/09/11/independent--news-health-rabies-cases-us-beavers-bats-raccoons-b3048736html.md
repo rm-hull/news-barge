@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: There are typically 4,000 cases of human infections of the potentially
   deadly virus in the United States every year
 image: https://static.independent.co.uk/2026/09/11/16/48/beaver-mouth-and-teeth2.jpeg?trim=36,0,92,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 U.S. rabies cases rose 17 percent just this summer, according to a new federal advisory.

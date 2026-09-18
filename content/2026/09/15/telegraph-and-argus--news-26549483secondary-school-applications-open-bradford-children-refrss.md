@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: APPLICATIONS are now open for secondary school places starting in September
   2027
 image: https://www.thetelegraphandargus.co.uk/resources/images/11149246.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
+- Society & Culture
 ---
 
 *(Image: Newsquest)*

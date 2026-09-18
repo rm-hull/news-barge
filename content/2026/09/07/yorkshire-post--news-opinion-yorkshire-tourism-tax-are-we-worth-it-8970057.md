@@ -10,6 +10,13 @@ description: Policy makers pondering the possibility of a tourism tax for the re
   fairness, governance and engagement. These are all very worthy scoping tools, and
   the work is entirely necessary.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjg2ODA5NGJkLTRjMTktNDc4OC1hOTc3LTBjM2IwYjNmODhlZjphZTdhNWMyOS1kNGNlLTRlMjYtYjJjMi03Yjc0NmFhZTc4OWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 # Yorkshire tourism tax: are we worth it?

@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: With the 2026 UCI World Championships being held in Canada the world's
   best have arrived en masse for the two Canadian World Tour races this year
 image: https://cdn.mos.cms.futurecdn.net/xhLrPDhSa5GB2bMRs22cH3-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Thomas Pidcock of Great Britain and the Pinarello - Q36.5 Pro Cycling Team competes in the 48th edition of the GP Industria & Artigianato, a 196.5-kilometer race in Larciano, on September 6](https://cdn.mos.cms.futurecdn.net/xhLrPDhSa5GB2bMRs22cH3.jpg) 

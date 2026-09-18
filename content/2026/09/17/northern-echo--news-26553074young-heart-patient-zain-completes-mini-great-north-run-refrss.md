@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Eleven-year-old Zain completed the Mini Great North Run in an electric
   wheelchair provided by Red Sky Foundation, highlighting how the North East…
 image: https://www.thenorthernecho.co.uk/resources/images/21459713.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: From working behind the scenes in a magic act to leading a major horse
   production, Edie Bainbridge has built a career on persistence and daring…
 image: https://www.thenorthernecho.co.uk/resources/images/21362570.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A shy rider whose love of horses began in childhood has become the star of a daring equestrian show.

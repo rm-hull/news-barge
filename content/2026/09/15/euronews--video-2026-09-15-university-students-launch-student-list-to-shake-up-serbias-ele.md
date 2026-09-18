@@ -9,6 +9,9 @@ description: Video. Serbia’s university students formally entered the election
   on Monday, 14 September, challenging President Aleksandar Vučić and his ruling party
   ahead of the 25 October early parliamentary vote.
 image: https://images.euronews.com/articles/stories/09/91/34/73/1200x675_cmsv2_44aefb0e-db38-5b9b-8752-6ec106029b8f-9913473.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 Serbia’s student movement has submitted its **“Student List – Students Win”** to the Republic Electoral Commission (RIK), after thousands of supporters marched through central Belgrade to the commission’s headquarters. Students carried boxes of signatures gathered in recent days in a bid to qualify for the ballot.

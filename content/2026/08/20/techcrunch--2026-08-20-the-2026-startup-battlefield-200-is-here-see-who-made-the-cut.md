@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: We’re thrilled to unveil the 2026 Startup Battlefield 200, our annual
   handpicked list of the 200 most promising early-stage startups from around the world.
 image: https://techcrunch.com/wp-content/uploads/2026/08/54890326356_97f3ad26d5_k.jpg?resize=1200,801
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 We’re thrilled to unveil the 2026 **Startup Battlefield 200** — TechCrunch’s annual, handpicked list of the 200 most promising early-stage startups from around the world.

@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: A mix of strong winds, showers, and occasional warm spells are set to
   dominate the UK following a record-breaking summer
 image: https://static.independent.co.uk/2026/08/31/08/2291710977..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Changeable conditions with occasional rain and gusty winds arriving from the North Atlantic are set to dominate September, with temperatures settling close to seasonal averages.

@@ -9,6 +9,10 @@ description: Trump delivers Wednesday's keynote and returns for Thursday's final
   after Vice President JD Vance speaks. Cabinet members and candidates in closely
   watched House and Senate races are also on the programme.
 image: https://images.euronews.com/articles/stories/09/90/69/39/1200x675_cmsv2_ebd2ed71-2fd7-50d4-bc9f-9a31850746e5-9906939.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Trump delivers Wednesday's keynote and returns for Thursday's finale after Vice President JD Vance speaks. Cabinet members and candidates in closely watched House and Senate races are also on the programme.

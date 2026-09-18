@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The president bought when the stock was in the mid-$150 range. SpaceX
   finished trading on Monday back at its IPO price of $135.
 image: https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217852528.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 President Donald Trump bought as much as $50,000 worth of SpaceX shares on June 23, according to a financial disclosure first reported by Reuters, two weeks after the record-setting IPO of Elon Musk’s company.

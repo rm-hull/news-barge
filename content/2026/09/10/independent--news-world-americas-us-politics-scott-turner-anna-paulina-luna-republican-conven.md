@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: The moment in question came as HUD Secretary Scott Turner left the stage
   at the Republican Party’s midterm convention in Texas
 image: https://static.independent.co.uk/2026/09/10/1/12/Screenshot-2026-09-09-at-6-13-25-PM.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Housing and Urban Development Secretary Scott Turner appeared to swat at Representative Anna Paulina Luna’s rear end on Wednesday as they crossed paths at the Republican Party’s midterm convention in Texas.

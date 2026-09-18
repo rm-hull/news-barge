@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: Aldi's new Specialbuys appliances include a £40 Dyson stick vacuum rival,
   and a mini air fryer for £20.
 image: https://cdn.mos.cms.futurecdn.net/HovHnKJyvDf59fQFM7hDLN-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![An Aldi store sign next to a Dyson vacuum cleaning debris](https://cdn.mos.cms.futurecdn.net/HovHnKJyvDf59fQFM7hDLN.jpg) 

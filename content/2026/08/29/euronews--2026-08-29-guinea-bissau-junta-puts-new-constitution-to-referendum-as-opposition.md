@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: A commentator and a human rights activist, speaking to Euronews, stress
   that the law has already been published and call for stronger EU action.
 image: https://images.euronews.com/articles/stories/09/88/60/73/1200x675_cmsv2_d445b878-cd5e-51f9-a6e8-2c76cc1dd818-9886073.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 **Lina Ferreira**

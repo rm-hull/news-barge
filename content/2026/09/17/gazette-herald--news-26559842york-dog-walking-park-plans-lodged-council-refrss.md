@@ -7,6 +7,13 @@ scraped_at: '2026-09-17T19:42:44Z'
 published: '2026-09-17T00:00:00Z'
 description: Plans for a new dog walking spot in York have been lodged.
 image: https://www.gazetteherald.co.uk/resources/images/21469390.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
+- Travel
+- Outdoors & Nature
 ---
 
 ### What is the Public Notice Portal?

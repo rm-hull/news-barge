@@ -11,6 +11,11 @@ description: The other day on the bus back home from work, there was a group of 
   top of their lungs. I like to sit and read on the commute so in order to concentrate
   I stuck a couple of earbuds in to try and damp down the commotion.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjkxMTYwZmQ5LWUxZDEtNGM0Yi1hYWU4LWJjMDY3NmIxMDMzODoxMzhkYTU0Yi01Y2FkLTRhMjEtOGMxZi03MWVkMDdhZWRlZGU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Why are feral youths riding around on electric bikes wearing balaclavas? - Ismail Mulla

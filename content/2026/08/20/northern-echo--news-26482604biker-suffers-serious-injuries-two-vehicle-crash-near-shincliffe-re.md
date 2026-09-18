@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A motorcyclist has been seriously injured in a two-vehicle crash, with
   police now appealing for more information.
 image: https://www.thenorthernecho.co.uk/resources/images/21351581.jpg?type=og-image&xType=66&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: GOOGLE MAPS)*

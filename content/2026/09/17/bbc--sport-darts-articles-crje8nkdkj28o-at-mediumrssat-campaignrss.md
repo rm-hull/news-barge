@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Defending champion Michael van Gerwen falls to a 6-5 defeat by Daryl
   Gurney in the opening round of the World Series of Darts Finals in Amsterdam.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8a43/live/bfa1b070-b2dc-11f1-b227-bbba053e356a.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Michael Van Gerwen looking resigned](https://ichef.bbci.co.uk/ace/standard/905/cpsprodpb/8a43/live/bfa1b070-b2dc-11f1-b227-bbba053e356a.jpg)

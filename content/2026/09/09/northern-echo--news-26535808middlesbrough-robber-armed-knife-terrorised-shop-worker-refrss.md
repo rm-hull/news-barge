@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: An armed robber who terrorised a Middlesbrough shop worker with a large
   knife before stealing three bottles of gin has been locked up.
 image: https://www.thenorthernecho.co.uk/resources/images/21430906.jpg?type=og-image&xType=0&yType=129
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Cleveland Constabulary)*

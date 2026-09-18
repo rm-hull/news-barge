@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Inquests have opened into the deaths of five young men who were travelling
   in a Volkswagen Passat when seven people were killed in a crash on the…
 image: https://www.thenorthernecho.co.uk/resources/images/21360941.jpg?type=og-image&xType=0&yType=33
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Five young men who died after driving the wrong way up the A66 and smashing into a police car died of head, neck and body injuries, inquests heard.

@@ -10,6 +10,9 @@ description: The Federal Reserve has raised its benchmark interest rate by a qua
   12-0 vote that puts Chair Kevin Warsh directly at odds with the US president who
   appointed him.
 image: https://images.euronews.com/articles/stories/09/91/55/94/1200x675_cmsv2_ca62bf61-2337-5067-814c-817adc3ff2fa-9915594.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## The Federal Reserve has raised its benchmark interest rate by a quarter point to a range of 3.75% to 4%, its first increase since July 2023, in a unanimous 12-0 vote that puts Chair Kevin Warsh directly at odds with the US president who appointed him.

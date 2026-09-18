@@ -9,6 +9,11 @@ description: Founders and investors call EU policymakers to not water down the E
   Inc., the legislative proposal which aims to facilitate businesses in Europe to
   scale up.
 image: https://images.euronews.com/articles/stories/09/90/85/69/1200x675_cmsv2_693b5c6f-344f-524b-afa7-a5fe0ac9f877-9908569.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## Founders and investors call EU policymakers to not water down the EU Inc., the legislative proposal which aims to facilitate businesses in Europe to scale up.

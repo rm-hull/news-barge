@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Andy Burnham has given 15% of his first month’s PM salary to Changing
   Lives
 image: https://static.independent.co.uk/2026/09/13/10/2294533463..?trim=0,1,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Andy Burnham is running the Great North Run today as he hands over his first salary donation as PM to a homelessness charity.

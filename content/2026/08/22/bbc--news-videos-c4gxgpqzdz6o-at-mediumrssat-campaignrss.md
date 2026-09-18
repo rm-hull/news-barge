@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Several police vehicles are seen chasing a car just three minutes before
   the crash on the A66 near Middlesbrough.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0111/live/7592eb40-9e49-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- True Crime
 ---
 
 # Video appears to show police chase minutes before fatal A66 crash

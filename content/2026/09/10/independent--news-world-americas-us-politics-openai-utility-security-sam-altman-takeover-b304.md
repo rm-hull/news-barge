@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Cybersecurity experts are sounding the alarm about vulnerabilities in
   critical infrastructure from weaponized AI
 image: https://static.independent.co.uk/2026/09/03/08/2292640346..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 As cities across the country faced a wave of AI-driven cyberattacks targeting public infrastructure, OpenAI was reportedly meeting with utility executives about the prospect of deploying its own artificial intelligence products to address cybersecurity risks.

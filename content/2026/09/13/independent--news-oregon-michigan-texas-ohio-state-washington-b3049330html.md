@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Get ready for a shake-up in the Associated Press Top 25 college football
   poll
 image: https://static.independent.co.uk/2026/09/13/11/APTOPIX_Ohio_St_Texas_Football_29182.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Get ready for a new No. 1 team when The Associated Press Top 25 college football poll is released Sunday afternoon.

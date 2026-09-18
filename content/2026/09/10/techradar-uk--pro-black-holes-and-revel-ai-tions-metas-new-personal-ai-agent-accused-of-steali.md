@@ -8,6 +8,9 @@ scraped_at: '2026-09-10T19:07:24Z'
 published: '2026-09-10T00:00:00Z'
 description: Time is running out?
 image: https://cdn.mos.cms.futurecdn.net/JdvwWrduZrJqhrqFkyodqB-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Muse on stage](https://cdn.mos.cms.futurecdn.net/JdvwWrduZrJqhrqFkyodqB.jpg) 

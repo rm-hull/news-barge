@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Glacier loss could break the 2022 record after a series of heatwaves
   this summer, raising the risk of falling river levels and deadly ice avalanches
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309541914.jpg
+categories:
+- Science
+- Technology & Software
+- Travel
+- Sports
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309541914.jpg?w=840)

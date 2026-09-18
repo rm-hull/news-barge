@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T13:23:48Z'
 published: '2026-09-17T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/sky-blue-restaurant-barbican-road-york-ldrs-5.webp
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 A government bid to shut down a York restaurant after immigration raids found people working there illegally is set for a decision.

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Stacey Humphries faces the death penalty after killing two real estate
   agents in Georgia in 2003
 image: https://static.the-independent.com/2025/12/11/20/39/Screenshot-2025-12-11-at-3-23-41-PM.png?trim=21,106,151,99&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A man sentenced to death for a double murder in Georgia asked for a massive final meal before he faces execution by lethal injection next week.

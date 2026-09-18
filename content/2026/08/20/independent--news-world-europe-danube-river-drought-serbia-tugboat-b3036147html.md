@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T08:53:04Z'
 published: '2026-08-20T00:00:00Z'
 description: Amid prolonged drought, the river is giving up its ghosts
 image: https://static.independent.co.uk/2026/08/20/06/Europe_Serbia_Drought__9329.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 As prolonged extreme heat dries up rivers across Europe, the remains of a steam tugboat from the early 1900s have become the latest historic artefact to emerge.

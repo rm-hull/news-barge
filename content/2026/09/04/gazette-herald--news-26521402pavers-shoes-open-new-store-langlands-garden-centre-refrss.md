@@ -7,6 +7,12 @@ scraped_at: '2026-09-04T12:42:41Z'
 published: '2026-09-04T00:00:00Z'
 description: York-based Pavers Shoes is expanding its retail presence with a new store.
 image: https://www.gazetteherald.co.uk/resources/images/21409869.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
+- Business & Entrepreneurship
 ---
 
 *(Image: Lianna Charlesworth)*

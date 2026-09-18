@@ -10,6 +10,10 @@ description: The Harrogate Autumn Flower Show is celebrating its 50th anniversar
   bringing three days of spectacular flowers, inspiring gardens, giant vegetables,
   and
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/07/Autumn-flower-show.webp
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
 ---
 
 **The Harrogate Autumn Flower Show** is celebrating its**50th anniversary**, bringing three days of spectacular flowers, inspiring gardens, giant vegetables, and seasonal produce to** Newby Hall & Gardens**from** 18-20 September 2026**.

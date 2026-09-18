@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Police divers discover child's body in a pond after Noah went missing
   from a playground on Tuesday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e4d0/live/8a926280-b1f1-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 ![Noah, a three-year-old boy who has ginger hair. He is pictured sitting on a bed with a grey headboard and is looking directly at the camera and smiling.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/e4d0/live/8a926280-b1f1-11f1-a430-4d16ee157c41.jpg)

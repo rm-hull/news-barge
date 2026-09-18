@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A new Pepe’s Piri Piri restaurant has opened in Darlington, creating
   15 jobs.
 image: https://www.thenorthernecho.co.uk/resources/images/21341595.jpg?type=og-image&xType=0&yType=272
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 A new Pepe’s Piri Piri restaurant has opened in Darlington, creating 15 jobs.

@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: The legendary presenter of BBC Countryfile, John Craven, 85 has revealed
   he is increasingly worried amid a "growing threat".
 image: https://www.yorkpress.co.uk/resources/images/21054826.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Newsquest Archive)*

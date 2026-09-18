@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Parts of England and Wales have seen more rain than any other week since
   early February but are still in drought.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/58f6/live/4182cae0-aab1-11f1-bdcc-b5edf6495ed5.png
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Commuters walking in the rain with umbrellas up](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/58f6/live/4182cae0-aab1-11f1-bdcc-b5edf6495ed5.png)

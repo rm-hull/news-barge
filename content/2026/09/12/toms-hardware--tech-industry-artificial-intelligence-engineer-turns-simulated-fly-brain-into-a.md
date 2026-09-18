@@ -8,6 +8,10 @@ scraped_at: '2026-09-12T12:09:39Z'
 published: '2026-09-12T00:00:00Z'
 description: Way smarter than most cryptobros.
 image: https://cdn.mos.cms.futurecdn.net/YHRx7mjKbZv6KL3aDChhCS-1280-80.png
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
 ---
 
 ![Stonkfly](https://cdn.mos.cms.futurecdn.net/YHRx7mjKbZv6KL3aDChhCS.png) 

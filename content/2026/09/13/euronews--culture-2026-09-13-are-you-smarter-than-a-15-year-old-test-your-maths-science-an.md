@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: This week, the OECD's PISA report has revealed a global decline in 15-year-old's
   maths and reading skills — but how much better can the grown-up's fare?
 image: https://images.euronews.com/articles/stories/09/91/00/32/1200x675_cmsv2_3aaf7b41-5637-5c1a-937f-790db591abfa-9910032.jpg
+categories:
+- Europe
+- News & Politics
+- Science
 ---
 
 ## This week, the OECD's PISA report has revealed a global decline in 15-year-old's maths and reading skills — but how much better can the grown-up's fare?

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The Italian Grand Prix is declared a heat-hazard race as high temperatures
   continue in the country following the summer heatwave.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7f73/live/7737f280-a77a-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Ferrari's Charles Leclerc arrives at the Monza paddock on media day for the Italian Grand Prix](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7f73/live/7737f280-a77a-11f1-b109-879e35c24276.jpg)

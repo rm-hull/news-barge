@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: A Saltburn play café is offering Teesside emergency service workers free
   sessions with their young children.
 image: https://www.thenorthernecho.co.uk/resources/images/21408695.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 A Saltburn play café is offering Teesside emergency service workers free sessions with their young children.

@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: A DISUSED rail tunnel that has been gated off for over two decades will
   be open to the public this weekend.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21443540.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 A DISUSED rail tunnel that has been gated off for over two decades will be open to the public this weekend.

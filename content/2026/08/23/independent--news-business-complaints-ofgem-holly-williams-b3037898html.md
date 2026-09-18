@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T01:53:51Z'
 published: '2026-08-23T00:00:00Z'
 description: Billing disputes rose 15% year-on-year in the first half of 2026.
 image: https://static.independent.co.uk/2026/08/24/00/21151829-ba43fb61-ad7a-4c9e-a0be-dad087db57c4.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Energy complaints taken on by the industry ombudsman surged by 16% in the first half of 2026 as billing concerns disputes soared amid pressures on household finances, the latest figures have shown.

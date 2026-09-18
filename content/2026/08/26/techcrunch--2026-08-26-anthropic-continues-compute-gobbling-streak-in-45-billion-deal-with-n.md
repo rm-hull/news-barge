@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: The new deal with the infrastructure provider is the latest example of
   Anthropic's white-hot compute-gobbling streak.
 image: https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Anthropic has signed a deal to rent about $45 billion in AI compute from Nscale, a British AI infrastructure company, a source familiar with the deal told TechCrunch.

@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: 'Exclusive: ‘We’re continuing the UK’s proud track record of supporting
   science that saves lives,’ development minister Kirsty McNeill tells The Independent'
 image: https://static.independent.co.uk/2026/08/28/15/2209246418..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The UK is to continue backing world-leading research into vaccines, medicines and other tools to tackle global health challenges, with a significant portion of the aid budget being ringfenced for such work despite the UK’s programme of aid cuts.

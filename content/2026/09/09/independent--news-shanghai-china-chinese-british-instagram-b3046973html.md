@@ -10,6 +10,11 @@ description: A car racing team whose injured driver was rescued by another compe
   after a horrific crash in Shanghai has called the organizers “grossly negligent”
   and says it is withdrawing from future events in China
 image: https://static.independent.co.uk/2026/09/09/05/China_GT_Rescue_32922.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Technology & Software
 ---
 
 A car racing team whose injured driver was rescued by another competitor after a horrific crash in Shanghai on Saturday has called the organizers “grossly negligent in the safety response” and said it is withdrawing from future events in China.

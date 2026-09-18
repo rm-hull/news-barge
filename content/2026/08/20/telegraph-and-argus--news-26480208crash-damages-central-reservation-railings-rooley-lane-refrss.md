@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: A car has collided with a barrier on a busy Bradford road, causing damage
   to railings on a central reservation.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21345370.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: T&A)*

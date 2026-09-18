@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: Harp was one of the small number of staff smuggled with President Trump
   onto a secret military plane, to avoid a suspected Iranian threat in Turkey
 image: https://static.independent.co.uk/2026/08/18/11/2287068848..?trim=227,1015,543,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump is known for surrounding himself with ardent loyalists, but one aide has attracted particular attention of late.

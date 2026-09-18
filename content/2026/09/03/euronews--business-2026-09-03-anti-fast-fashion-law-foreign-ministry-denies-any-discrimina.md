@@ -10,6 +10,11 @@ description: China has claimed that the new "anti-fast-fashion" law which came i
   a source from the Ministry of Foreign Affairs told Euronews that such claims were
   false.
 image: https://images.euronews.com/articles/stories/09/90/05/82/1200x675_cmsv2_9ef78487-02b6-5cfd-b15c-8d8af9a754ec-9900582.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- History
 ---
 
 ## China has claimed that the new "anti-fast-fashion" law which came into force in France on Tuesday amounts to "discrimination." Responding to these accusations, a source from the Ministry of Foreign Affairs told Euronews that such claims were false.

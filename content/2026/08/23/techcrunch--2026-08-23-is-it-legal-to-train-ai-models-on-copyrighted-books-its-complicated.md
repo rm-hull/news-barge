@@ -9,6 +9,8 @@ description: Most published authors have, without their knowledge or consent, co
   to the development of the same AI tools that threaten to undermine their livelihoods.
   That seems illegal, right?
 image: https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg?resize=1200,749
+categories:
+- Technology & Software
 ---
 
 You probably know by now that the AI models powering ChatGPT, Gemini, Claude, and other chatbots are trained on seemingly infinite databases of published works, containing hundreds of millions of books, online articles, academic papers, and basically anything you can find on the internet. Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?

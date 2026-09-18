@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: Far-right commenter Laura Loomer claimed credit for reporting the far-right
   personality to ICE
 image: https://static.independent.co.uk/2026/08/29/20/1353669539..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Trump administration deported far-right provocateur Milo Yiannopoulos to the United Kingdom shortly after his arrest in New Orleans one day earlier.

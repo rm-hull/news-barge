@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A police cordon has been lifted off Walmgate in York after a car burst
   into flames.
 image: https://www.gazetteherald.co.uk/resources/images/21403916.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: Newsquest)*

@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Trump won’t ‘rescue’ the venue or provide any financial support without
   getting his name on it, draft resolution says
 image: https://static.independent.co.uk/2026/09/14/20/2026-09-02T162910Z_892021054_RC24BNAQYSSX_RTRMADP_3_USA-TRUMP-KENNEDY-CENTER.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 “The John F. Kennedy Center for the Performing Arts With Gratitude for Support from President Donald J. Trump and the Trump Kennedy Center Fund”?

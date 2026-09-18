@@ -10,6 +10,10 @@ description: A Moldovan government spokesman says a flight scheduled to carry Uk
   President Volodymyr Zelenskyy from Moldova to Norway was delayed when authorities
   closed Moldova’s airspace because of a drone incursion
 image: https://static.independent.co.uk/2026/09/10/02/Norway_King_Harald_66497.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A flight scheduled to carry Ukrainian President Volodymyr Zelenskyy from Moldova to Norway was delayed when authorities closed Moldova’s airspace because of a drone incursion, a government spokesperson said Wednesday.

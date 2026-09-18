@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Emily St. John Mandel has written enough novels to form a world unto
   herself — the Mandelverse
 image: https://static.independent.co.uk/2026/09/14/11/Emily_St._John_Mandel_Portrait_Session_42849.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 After seven novels that span centuries, continents and even planets, Emily St. John Mandel has not only created a substantial body of work, but a universe unto herself — what admirers like to call the Mandelverse.

@@ -8,6 +8,10 @@ scraped_at: '2026-09-08T12:51:38Z'
 published: '2026-09-08T00:00:00Z'
 description: Joshua Johnson’s dad said he ‘couldn’t comprehend it’
 image: https://static.independent.co.uk/2026/01/08/10/6def59821d31fc17e31756f0bd9c024eY29udGVudHNlYXJjaGFwaSwxNzY3OTUzOTYz-2.82977705.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A father only found out his son had died three weeks after he was in a car crash due to a police identification error.

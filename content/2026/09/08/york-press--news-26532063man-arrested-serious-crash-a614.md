@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: A 56-year-old man has been arrested after a serious crash in East Yorkshire
   left a man hospitalised with injuries thought to be life changing.
 image: https://www.yorkpress.co.uk/resources/images/21293809.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 *(Image: NORTH YORKSHIRE POLICE)*

@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: David Campanale seeks damages after what he says was organised campaign
   against his faith in Sutton and Cheam
 image: https://i.guim.co.uk/img/media/f0c688ce93c8014f0af7e8b82e5543b454891968/441_309_2619_2095/master/2619.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7eb04acf6e3d96703413125de367086f
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 How much is a career in politics worth? The Liberal Democrats, despite admitting claims of religious discrimination, say about £22,800. A former Lib Dem candidate claims £790,000.

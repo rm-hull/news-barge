@@ -9,6 +9,10 @@ description: After an affair with a fellow police officer ended, a Georgia cop u
   Flock to track her movements—and those of a man whose vehicle often showed up near
   hers, internal investigation records show.
 image: https://media.wired.com/photos/6a8d9086ba467cf540f2c239/191:100/w_1280,c_limit/082526_Flock-Camera-Stalking-Police.jpg
+categories:
+- Technology & Software
+- Science
+- True Crime
 ---
 
 In recent months, there has been a surge in reports of police officers misusing automatic license plate readers (ALPRs) sold by Flock Safety to stalk former romantic partners—but details about these incidents are often scarce.

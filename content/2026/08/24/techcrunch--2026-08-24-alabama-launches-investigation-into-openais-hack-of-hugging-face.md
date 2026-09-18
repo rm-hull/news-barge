@@ -9,6 +9,9 @@ description: Weeks after OpenAI disclosed that one of its cybersecurity models h
   gone rogue and hacked AI dataset company Hugging Face, Alabama’s Attorney General
   announced an investigation into the incident.
 image: https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Alabama’s Attorney General announced Monday that it sent a subpoena to OpenAI as part of an investigation into the company’s alleged “complete lack of oversight and adequate safeguards” in the Hugging Face incident.

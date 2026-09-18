@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: The cost of the regeneration of Huddersfield Market is set to go over
   its original budget by several millions of pounds.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjEyZTk1N2NhLTAzYTQtNDFjZi05NGVkLTM5ODNkYmY4MWRiYzpmOTdkM2I1NS0yZGIwLTQ5ZGQtOTVkNS00YTIwNDEwMjNmNTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # Huddersfield open market revamp set to go millions of pounds over budget

@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A U.S. State Department spokesperson said on Tuesday that it launched
   a global training initiative at all U.S. embassies and consulates worldwide
 image: https://static.independent.co.uk/2025/09/22/18/26/Illustration-shows-U-S--flag-and-U-S--H-1B-Visa-application-form-8htiua7w.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 Immigrant visa interviews at U.S. embassies and consulates worldwide have been temporarily suspended as President Donald Trump's administration continues a broad immigration enforcement push during his second term.

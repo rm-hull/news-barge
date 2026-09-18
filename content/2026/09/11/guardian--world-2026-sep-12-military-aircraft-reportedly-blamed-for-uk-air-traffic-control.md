@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Meltdown that grounded thousands of flights caused by ‘spurious’ flight
   data being entered into system, report says
 image: https://i.guim.co.uk/img/media/892fd7e4ecd0577b1cbbeeadcb3bc5d32a9a1c15/553_360_3142_2513/master/3142.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01599c74e9aaab7e2f24451614ba6bab
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The air traffic control outage that caused thousands of flights to be grounded across the UK earlier in the week was caused by a military aircraft entering “spurious” flight data into the system, according to a report.

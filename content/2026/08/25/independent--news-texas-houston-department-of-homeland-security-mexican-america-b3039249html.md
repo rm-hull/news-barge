@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: A federal judge has ordered the release of a second witness to the fatal
   shooting of a Mexican man by immigration officers in Houston
 image: https://static.independent.co.uk/2026/08/26/00/Immigration_Enforcement_Houston_11691.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- True Crime
 ---
 
 A second witness to a fatal shooting in Houston by a federal immigration agent has been ordered released from custody after more than a month in detention.

@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: AN internationally recognised psychologist will headline a new community
   event in Bradford
 image: https://www.thetelegraphandargus.co.uk/resources/images/21433776.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Supplied)*

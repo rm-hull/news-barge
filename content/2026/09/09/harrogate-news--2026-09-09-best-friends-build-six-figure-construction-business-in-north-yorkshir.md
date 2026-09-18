@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Thirsk entrepreneurs Chad Scatchard and Max Scott launch Elegant Projects
   Ltd, securing six-figure contracts and bookings through to late 2026
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/EP-3.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 **Thirsk entrepreneurs Chad Scatchard and Max Scott have launched Elegant Projects Ltd**, establishing a rapidly expanding construction company with individual property development contracts already valued up to £100,000. Operating across Thirsk, Northallerton, and the surrounding North Yorkshire areas, the multi-skilled duo has opened their first permanent commercial office and fully filled their main operational diary until the final quarter of 2026.

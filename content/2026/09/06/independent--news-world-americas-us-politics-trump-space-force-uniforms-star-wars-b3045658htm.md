@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: The uniforms were inspired by Starship Troopers, a 1997 space epic about
   a future Earth governed by a fascist regime that wages war against giant alien bugs
 image: https://static.independent.co.uk/2026/09/06/23/40/2b6d54789d69a3b9.jpg?trim=114,0,418,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- History
 ---
 
 Donald Trump has been mocked over his new design for Space Force uniforms, with social media users comparing them to the costumes worn by sci-fi villains – and even Nazis.

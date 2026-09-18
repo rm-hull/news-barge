@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: If you do one of these four things when sorting your bin collection,
   you can be issued with a fixed penalty.
 image: https://www.thenorthernecho.co.uk/resources/images/21391611.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 While bin collections might seem as simple as just putting the bins out on the correct days, bin collections have gone through a lot of changes this year and you might find it difficult to keep up with.

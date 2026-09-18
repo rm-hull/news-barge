@@ -9,6 +9,9 @@ description: 'Hundreds remain in prison, including journalists, trade unionists 
   others who supported the 2020 protests against Aliaksandr Lukashenka’s re-election.
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/56/96/1200x675_cmsv2_a43eb193-fef8-5d79-bdb6-298c11c49233-9915696.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Hundreds remain in prison, including journalists, trade unionists and others who supported the 2020 protests against Aliaksandr Lukashenka’s re-election.

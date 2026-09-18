@@ -10,6 +10,9 @@ published: '2026-08-26T00:00:00Z'
 description: 4A Games has confirmed that Metro 2039's audio system has been rebuilt
   to offer deeper immersion.
 image: https://cdn.mos.cms.futurecdn.net/vD8oNjGiPUrnW5gwHkHCYA-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Metro 2039](https://cdn.mos.cms.futurecdn.net/vD8oNjGiPUrnW5gwHkHCYA.jpg) 

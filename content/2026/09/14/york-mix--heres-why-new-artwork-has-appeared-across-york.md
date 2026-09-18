@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T14:59:19Z'
 published: '2026-09-14T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/Outside-the-Box-1.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 York city centre has been given a new look.

@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: An action plan has been drawn up to address concerns relating to noise,
   traffic and disruption at a luxury wedding venue.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21410502.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 An action plan has been drawn up to address concerns relating to noise, traffic and disruption at a luxury wedding venue.

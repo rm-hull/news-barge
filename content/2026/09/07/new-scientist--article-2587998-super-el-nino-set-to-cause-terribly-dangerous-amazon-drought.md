@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: The El Niño phase now under way will be the most damaging on record for
   the Amazon, scientists warn, raising the risk of catastrophic wildfires
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311208563.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311208563.jpg?w=840)

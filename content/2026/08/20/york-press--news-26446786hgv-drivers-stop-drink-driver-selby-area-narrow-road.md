@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: A drink driver was more than twice the legal alcohol limit the morning
   after he watched a World Cup in a pub with friends, York magistrates heard.
 image: https://www.yorkpress.co.uk/resources/images/18998123.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 *(Image: Newsquest)*

@@ -10,6 +10,10 @@ description: A North Yorkshire MP has accused the Prime Minister of engaging in 
   warfare” over suggestions that asylum seekers should be housed in middle-class areas
   as he stepped up his opposition to plans for a migrant centre at former RAF Linton-on-Ouse.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjkyODk4ZjZjLTc0NWQtNGMyYy05NmQwLWM2YjI4M2U0ZDVlNDpmOWQ1NzE5OC01ZDM4LTQwZGEtOGRjYi01MjNlNmU3MmQ1Y2E=.jpg?crop=3:2,smart&trim=&width=549&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 # North Yorkshire MP accuses Prime Minister of ‘class warfare’ over Linton-on-Ouse asylum centre plans

@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: An pub has been handed a one-star food hygiene rating after an inspection
   took place earlier this year.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21356969.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Google Maps)*

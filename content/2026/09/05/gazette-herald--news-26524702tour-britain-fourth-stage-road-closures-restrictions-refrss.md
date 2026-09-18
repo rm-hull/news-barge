@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: Motorists are being reminded of a series of road closures and controls
   as the men’s Tour of Britain sweeps across North Yorkshire.
 image: https://www.gazetteherald.co.uk/resources/images/21316771.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Travel
 ---
 
 MOTORISTS are being reminded of a series of road closures and controls as the men’s Tour of Britain sweeps across North Yorkshire.

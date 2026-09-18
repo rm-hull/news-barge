@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Photographer Jerry Smith moved to Wyke with his wife Carol and their
   young daughter Jo in 1974.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21379848.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 ### What is the Public Notice Portal?

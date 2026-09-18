@@ -11,6 +11,12 @@ description: The timing, serendipitous though it is, could not be more striking 
   attending accident and emergency hospital departments requiring treatment for mental
   health ailments.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY4NWM3M2UyLTA5ZTAtNDQ1Mi05NGM3LTU1MmVlZjI3YzllZjo2MjgwYjAwZS01NzU5LTQ1ZTktOWU2NC0wZDdiOTYzOWVmMGQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
+- Family & Parenting
 ---
 
 # Young people's mental health crisis: Government caught navel-gazing again

@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Andy Burnham said he will "look at" The Northern Echo's call for compensation
   for Kirklevington victims as a vow to explore our…
 image: https://www.thenorthernecho.co.uk/resources/images/21345400.jpg?type=og-image&xType=0&yType=123
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Andy Burnham said he will "look at" The Northern Echo's call for compensation for victims of a "torture camp" as a vow to explore our manifesto.

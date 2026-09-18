@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: Slavery’s legacy continues ‘to deprive our country and our people’, says
   minister, as group prepares to appeal to Jamaica’s head of state
 image: https://i.guim.co.uk/img/media/514934ca4b4e8c7dba4e71b2c01cec9431eddf58/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6608ae171a25a099f7bc0a4bc4f0201c
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 A landmark petition is to be handed to King Charles by Jamaica over slavery reparations, aiming to confront historical crimes that still disadvantage former British colonies, the Caribbean nation’s culture minister has said.

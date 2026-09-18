@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: A popular Bradford fast-food chain has been granted a licence to open
   until 2.30am – but will not be able to open until 4am on special occasions…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21464572.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: T&A)*

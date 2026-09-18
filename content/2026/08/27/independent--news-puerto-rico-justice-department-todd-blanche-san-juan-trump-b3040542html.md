@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: The U.S. Justice Department has charged over 80 people in the takedown
   of a violent Puerto Rican gang
 image: https://static.independent.co.uk/2026/08/27/17/Trump_64_21.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The U.S. Justice Department has charged more than 80 people in the takedown of a violent Puerto Rican gang, Attorney General Todd Blanche announced Thursday during a visit to the island as part of the Trump administration's efforts to highlight its push to tackle violent crime.

@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: Prosecution says the Tate brothers may pose a risk to the community if
   released on bail
 image: https://static.independent.co.uk/2026/08/27/15/2026-08-27T143021Z_1228129706_RC20IDAQNZMW_RTRMADP_3_USA-TATE.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Controversial misogynist influencer brothers Andrew and Tristan Tate arrived in court asking to be released on bail from a Miami jail on Thursday while they fight extradition to Britain, where they are wanted on a slew of charges.

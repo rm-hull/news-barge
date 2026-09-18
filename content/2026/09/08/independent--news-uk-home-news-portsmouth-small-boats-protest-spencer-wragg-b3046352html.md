@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: Riot police were pelted with stones and their vehicles were damaged by
   protesters
 image: https://static.independent.co.uk/2026/09/08/08/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The chairman of the Hampshire Police Federation said seven police officers “were assaulted” during an anti-migrant demonstration in Portsmouth, as concerns grow over more far-right disorder and protests across the UK.

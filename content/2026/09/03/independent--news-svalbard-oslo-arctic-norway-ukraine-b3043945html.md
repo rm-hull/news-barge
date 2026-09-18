@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Norwegian authorities have seized a Russian vessel in the Arctic archipelago
   of Svalbard
 image: https://static.independent.co.uk/2026/09/03/08/Norway_Russia_25164.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Norwegian authorities seized a Russian vessel in the Arctic archipelago of Svalbard on Wednesday at the request of Ukraine’s Naftogaz as part of a global effort to enforce a $4.22 billion arbitration award.

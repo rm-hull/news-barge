@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: The county's fire and rescue service said a tactical rescue vehicle crew
   was called to Barrowcliff Road in Scarborough twice inside 90 minutes.
 image: https://www.gazetteherald.co.uk/resources/images/20979439.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: North Yorkshire Fire and Rescue Service)*

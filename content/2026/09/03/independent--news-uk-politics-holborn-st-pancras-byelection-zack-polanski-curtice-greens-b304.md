@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Sir John Curtice told The Independent the Holborn and St Pancras by-election
   would be a ‘severe test’ of Zack Polanski’s abilities
 image: https://static.independent.co.uk/2026/09/03/09/d9d004eaff5d4ef482ceb90aa565c3e2Y29udGVudHNlYXJjaGFwaSwxNzg4NTA5MTky-2.85491835.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 The Holborn and St Pancras by-election could be “make or break” for Zack Polanski if he is selected as the Green Party’s candidate, polling guru professor Sir John Curtice has warned.

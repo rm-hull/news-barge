@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: Shoppers were left disappointed after a visit by a celebrity chef to
   a Bradford supermarket did not pan out as they had hoped.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21337548.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Comedy & Entertainment
+- Food & Cooking
 ---
 
 *(Image: Exposure Photo Agency)*

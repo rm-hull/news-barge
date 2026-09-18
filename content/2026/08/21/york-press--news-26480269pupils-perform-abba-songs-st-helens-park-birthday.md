@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: THE 1970s proved to be ‘the name of the game’ as school children performed
   a medley of ABBA hits to mark the 50th anniversary of a much-loved…
 image: https://www.yorkpress.co.uk/resources/images/21345502.jpg?type=og-image&xType=0&yType=945
+categories:
+- Local
+- York
+- Music
 ---
 
 ## Pupils perform ABBA songs to mark North Yorkshire caravan park's 50th birthday

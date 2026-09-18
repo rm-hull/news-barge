@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Dozens of people are missing beneath the rubble of a building hit by
   an Israeli strike last year, where some 10 families had been living.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e43/live/ff225e50-b1b7-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Rescuers search for survivors with their bare hands

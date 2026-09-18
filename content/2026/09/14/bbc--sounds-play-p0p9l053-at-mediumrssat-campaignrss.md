@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: President Trump dismisses need for AI guardrails, saying “whoever wins
   AI, wins”
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ## Episode details

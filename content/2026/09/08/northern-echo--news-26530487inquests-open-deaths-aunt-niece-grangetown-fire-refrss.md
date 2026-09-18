@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: An aunt and her niece died from the ‘effects of fire’ after members of
   the public made attempts to rescue them in a fatal house fire in…
 image: https://www.thenorthernecho.co.uk/resources/images/21423468.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 *(Image: PROVIDED)*

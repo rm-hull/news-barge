@@ -9,6 +9,11 @@ description: With a career spanning five decades, the English actress has moved 
   cult films and "blockbusters". The award she will receive with director Werner Herzog
   adds to her Oscar, BAFTA, Emmy and Golden Globe nominations.
 image: https://images.euronews.com/articles/stories/09/89/63/07/1200x675_cmsv2_39dffc9e-9164-50b7-9d17-6c293a536ceb-9896307.jpg
+categories:
+- Europe
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 ## With a career spanning five decades, the English actress has moved between cult films and "blockbusters". The award she will receive with director Werner Herzog adds to her Oscar, BAFTA, Emmy and Golden Globe nominations.

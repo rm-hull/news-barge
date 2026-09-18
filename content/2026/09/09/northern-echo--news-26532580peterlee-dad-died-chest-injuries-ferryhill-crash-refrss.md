@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: A devoted County Durham dad died from chest injuries after coming off
   his motorbike in a crash, an inquest has heard.
 image: https://www.thenorthernecho.co.uk/resources/images/21426409.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
+- True Crime
 ---
 
 *(Image: DURHAM POLICE / NORTHERN ECHO)*

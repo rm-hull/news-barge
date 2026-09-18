@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Andy Burnham promised greater public control over water and other utilities,
   such as energy, before entering Downing Street.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/25/10/cs-10095573-935d-4e3e-ae25-2a22d3b65791.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # 'Hold your nerve': Yorkshire MP's message to Andy Burnham on public control of water

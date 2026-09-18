@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: Treasury Secretary Scott Bessent says the Trump administration plans
   to impose sanctions on another bank this week in effort to clamp down on Iran transactions
 image: https://static.independent.co.uk/2026/08/30/22/Treasury_Bessent_65452.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP

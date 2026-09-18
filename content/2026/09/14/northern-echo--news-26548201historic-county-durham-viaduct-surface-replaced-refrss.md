@@ -8,6 +8,12 @@ published: '2026-09-14T00:00:00Z'
 description: A bridge along one of County Durham's most popular walking and cycling
   routes is set to be resurfaced after plans were approved by Durham…
 image: https://www.thenorthernecho.co.uk/resources/images/21452106.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- History
 ---
 
 *(Image: DURHAM COUNTY COUNCIL PLANNING PORTAL)*

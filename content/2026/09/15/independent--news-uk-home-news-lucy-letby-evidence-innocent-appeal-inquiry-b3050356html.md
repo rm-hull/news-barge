@@ -9,6 +9,10 @@ description: An expert panel claimed Lucy Letby did not commit the murders of se
   babies - with members’ evidence now being considered as part of an application for
   a fresh Court of Appeal hearing
 image: https://static.independent.co.uk/2026/02/04/19/18/The_Investigation_of_Lucy_Letby_n_00_04_31_06.jpeg?trim=0,972,0,972&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A panel of experts claimed that Lucy Letby did not commit murder after its chairman presented “significant new medical evidence” on her court case.

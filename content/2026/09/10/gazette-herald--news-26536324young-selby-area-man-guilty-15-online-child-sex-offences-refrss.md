@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: A judge warned against "nasty" internet devices that "exploit" young
   people as he sentenced man for 15 teenage online sexual…
 image: https://www.gazetteherald.co.uk/resources/images/21056885.jpg?type=og-image&xType=0&yType=221
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 *(Image: PIXABAY)*

@@ -7,6 +7,11 @@ scraped_at: '2026-09-01T19:23:50Z'
 published: '2026-09-01T00:00:00Z'
 description: Auctioneer Charles Hanson said the dog has a ‘magical history’
 image: https://static.independent.co.uk/2026/09/01/16/01M1ET31SYY62TF9423BW6B5ZA.jpg?trim=0,47,0,47&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 An ancient Chinese jade dog, which was purchased for just £1 at a car boot sale, could fetch up to £10,000 at auction.

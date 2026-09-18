@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The government is expected to outline how local leaders will be able
   to impose levies on overnight stays.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7581/live/b9bf1460-acbd-11f1-b473-659b8af1c846.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Tourists walking across Westminster Bridge in London with the London Eye in the background](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7581/live/b9bf1460-acbd-11f1-b473-659b8af1c846.jpg)

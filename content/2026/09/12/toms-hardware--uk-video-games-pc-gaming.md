@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Discover more about PC Gaming with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/G73P3irdKu9575Pe64Doem-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Skyrim Kallax Storageborn companion](https://cdn.mos.cms.futurecdn.net/G73P3irdKu9575Pe64Doem-320-80.jpg)

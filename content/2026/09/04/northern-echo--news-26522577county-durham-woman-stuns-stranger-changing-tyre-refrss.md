@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: A County Durham woman has gone viral after sharing how a stranger appeared
   stunned when she changed a flat tyre herself in a Morrisons car park.
 image: https://www.thenorthernecho.co.uk/resources/images/21411620.jpg?type=og-image&xType=0&yType=221
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A County Durham woman has clapped back at a man who watched her change a tyre in a supermarket car park.

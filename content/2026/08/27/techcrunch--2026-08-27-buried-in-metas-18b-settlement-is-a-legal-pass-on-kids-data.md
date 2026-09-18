@@ -9,6 +9,8 @@ description: Meta’s settlement with 29 states allows it to retain certain data
   children under 13 to train and test age-detection models, highlighting a privacy
   trade-off built into the deal.
 image: https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268918823.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
 ---
 
 In addition to paying out up to $18 billion and adding child safety measures, Meta’s settlement agreement with attorneys general from 29 states includes an interesting provision: The states have agreed not to sue Meta under existing child safety laws over its retention and use of children’s data.

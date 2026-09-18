@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Just a few hundred thousand years after an asteroid wiped out most dinosaurs,
   large alligators were thriving in North America
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311471380.jpg
+categories:
+- Science
+- Technology & Software
+- History
 ---
 
 ![Mandrasuchus milleri artwork](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311471380.jpg?w=840)

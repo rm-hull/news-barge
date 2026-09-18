@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: During the most recent Ice Age, researchers believe there was a "lost
   land bridge" between Wales and Ireland.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e01/live/e9948ee0-a885-11f1-824a-0fc4c5d895ae.png
+categories:
+- UK
+- News & Politics
+- History
+- Science
 ---
 
 ![At a secret location on a hillside in south-west Ireland,  a roughly circular natural cave entrance with moss-covered limestone surrounds, covered with ferns, ivy  and brambles.](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/0e01/live/e9948ee0-a885-11f1-824a-0fc4c5d895ae.png)

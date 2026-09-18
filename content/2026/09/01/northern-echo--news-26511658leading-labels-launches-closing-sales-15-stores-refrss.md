@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Closing-down sales are underway at all of Leading Labels' 15 UK stores
   as they get set to shut after the company fell into liquidation in May.
 image: https://www.thenorthernecho.co.uk/resources/images/21028135.jpg?type=og-image&xType=0&yType=75
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

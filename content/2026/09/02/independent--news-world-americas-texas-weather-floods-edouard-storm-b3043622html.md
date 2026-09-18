@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Rainfall was falling at a rate of five inches an hour Wednesday in areas
   northeast of Houston
 image: https://static.independent.co.uk/2026/09/02/18/23/790476256_1558998465978944_2852756918803788532_n.jpeg?trim=85,0,85,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Parts of Texas have experienced around 30 inches of rain in the past 24 hours as the remnants of Tropical Storm Edouard led to flash-flood emergencies, water rescues and widespread power outages.

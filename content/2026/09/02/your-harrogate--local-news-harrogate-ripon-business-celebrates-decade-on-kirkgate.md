@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: An independent Ripon boutique is preparing to celebrate ten years of
   trading on Kirkgate.
 image: https://mmo.aiircdn.com/409/6a97c381a45732ec5d2.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6a97c381a45732ec5d2.jpg) 

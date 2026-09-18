@@ -9,6 +9,10 @@ description: The devastating flash floods in the Himalayan region swept so many 
   downstream that authorities in one Nepalese district have begun burying bodies in
   temporary graves before they can be identified
 image: https://static.independent.co.uk/2026/08/30/13/Nepal_Flood_Burials_95184.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 The devastating flash floods in the Himalayan region swept so many people downstream that authorities in one Nepalese district have begun burying bodies in temporary graves before they can be identified, prompting accusations that Hindu funeral traditions are being ignored.

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Lord Richard Walker said it ‘was an honour and important to show solidarity
   and support for the Falklanders at this time’.
 image: https://static.independent.co.uk/2026/09/10/13/9eeb1a8dc9c46518436878d9eb62480cY29udGVudHNlYXJjaGFwaSwxNzg5MTI5NjY3-2.14185621.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 The boss of supermarket chain Iceland has said he is “very proud to back British interests” as he announced the opening of a store in the Falkland Islands.

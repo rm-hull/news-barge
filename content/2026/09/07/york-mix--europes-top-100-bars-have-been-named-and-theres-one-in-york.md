@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T22:46:22Z'
 published: '2026-09-07T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/01/pub-with-beer-canva.png
+categories:
+- Local
+- York
+- History
 ---
 
 The top bars in Europe have been named – and there’s one in York and another in North Yorkshire.

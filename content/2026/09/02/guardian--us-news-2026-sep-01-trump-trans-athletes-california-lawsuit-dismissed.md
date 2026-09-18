@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: In a major LGBTQ+ rights victory, the justice department cannot force
   the state to ban trans girls from women’s sports
 image: https://i.guim.co.uk/img/media/99239d17d3c0596dfa722f78c9f1800bce05700c/458_357_2887_2311/master/2887.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=62b0afd11872df7df8bec8a238d8f00b
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Sports
 ---
 
 A federal judge has dismissed the Trump administration’s lawsuit challenging California’s policy of allowing transgender youth to play on sports teams that match their gender, a major loss for Donald Trump and the Department of Justice (DoJ).

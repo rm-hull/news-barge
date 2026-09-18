@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: The North Yorkshire Cat Centre, part of Cats Protection, is celebrating
   25 years of helping cats find new homes.
 image: https://www.gazetteherald.co.uk/resources/images/21328825.jpg?type=og-image&xType=0&yType=171
+categories:
+- Local
+- Harrogate
+- York
+- Pets & Animals
 ---
 
 A centre in North Yorkshire is celebrating 25 years of helping cats find new homes.

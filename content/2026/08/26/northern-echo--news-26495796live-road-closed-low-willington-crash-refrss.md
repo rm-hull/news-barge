@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Commercial Street in Low Willington is currently closed and traffic is
   being diverted after a crash this morning.
 image: https://www.thenorthernecho.co.uk/resources/images/21372113.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 - Good morning, welcome to this Northern Echo live breaking news blog.

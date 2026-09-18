@@ -8,6 +8,9 @@ published: '2026-08-23T00:00:00Z'
 description: Devoted Trump aide flooded her now-disabled profile urging people to
   ‘never concede’ on 6 January 2021
 image: https://i.guim.co.uk/img/media/62426c6f19fe01680fc4c5345769a4489befe170/373_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=97e0fad3b6d31fe1a3cd142954d31153
+categories:
+- UK
+- News & Politics
 ---
 
 The Donald Trump aide Natalie Harp flooded a since-disabled social media account with pro-Trump posts on the day that the president’s supporters attacked the US Capitol in early 2021, years before she went to work for him and developed an extraordinary close relationship with him, a new report has revealed.

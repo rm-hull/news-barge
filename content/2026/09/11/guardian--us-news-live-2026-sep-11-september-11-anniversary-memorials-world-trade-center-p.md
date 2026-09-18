@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Victims of those killed in September 11 attacks honored at memorials
   across the US
 image: https://i.guim.co.uk/img/media/36d8c172410f96bee520188d61bc192753f5ccb8/162_0_5748_4598/master/5748.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e2ec693b88cec1fa62f2d634b81337fe
+categories:
+- UK
+- News & Politics
+- History
+- Society & Culture
 ---
 
 It is the 25th anniversary of 9/11, as Americans come together to remember and commemorate the devastating effects of the attacks, which claimed the lives of 2,977 victims.

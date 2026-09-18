@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: In a speech on Saturday morning, Prime Minister Mark Carney said Canada
   walked away from the negotiation table to protect its sovereignty.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/daa9/live/22262a40-9e43-11f1-bb45-576721ee33bb.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Mark Carney](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/daa9/live/22262a40-9e43-11f1-bb45-576721ee33bb.jpg)

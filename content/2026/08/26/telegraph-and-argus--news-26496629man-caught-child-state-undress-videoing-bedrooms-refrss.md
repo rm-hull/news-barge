@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: A man who tried to cover up his perverted sexual interest in children
   by claiming he was doing some kind of “neighbourhood watch” has avoided…
 image: https://www.thetelegraphandargus.co.uk/resources/images/20488778.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
+- Society & Culture
 ---
 
 *(Image: Pexels)*

@@ -10,6 +10,10 @@ description: Canada has pledged to roll out “dollar for dollar” counter-tari
   import taxes that have plunged the North American neighbors deeper into a bitter
   trade war
 image: https://static.independent.co.uk/2026/08/25/17/Canada_US_Trade_72266.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Canada has pledged to roll out “dollar-for-dollar” countertariffs on scores of U.S. goods next month in response to President Donald Trump’s latest import taxes, which have plunged the North American neighbors deeper into a bitter trade war.

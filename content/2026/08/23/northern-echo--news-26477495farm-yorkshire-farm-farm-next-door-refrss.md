@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: Where exactly is Ravenseat Farm, and just how remote is the place made
   famous by Amanda, Clive and their nine children?
 image: https://www.thenorthernecho.co.uk/resources/images/21340684.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Fans of Our Yorkshire Farm and its follow-up Our Farm Next Door: Amanda, Clive and Kids have become accustomed to seeing some of the most spectacular scenery the Yorkshire Dales has to offer.

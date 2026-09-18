@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: The Ask for Angela scheme is expanding across Teesside, with venue staff
   receiving enhanced training to help people leave unsafe situations…
 image: https://www.thenorthernecho.co.uk/resources/images/20196646.jpg?type=og-image&xType=0&yType=286
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Teesside is becoming a safer place for people on nights out as more entertainment spots commit to a discreet support scheme to help vulnerable people.

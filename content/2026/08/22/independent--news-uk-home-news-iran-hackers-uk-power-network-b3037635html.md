@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: The generator was forced to shut down for four days following the cyber
   attack
 image: https://static.independent.co.uk/2026/08/06/17/VAfrffaZ4ZECcrRloueaJt42GXJTmVNCzhFgX3-7SWdCFw78TwbZjd8Ux6ANcDDeF6I88-arTAYbZqQoQnYCf2nc02ph3z4CMmZc..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A UK power generator was forced to shut down for four days after it was targeted in an Iranian cyber attack, it has been reported.

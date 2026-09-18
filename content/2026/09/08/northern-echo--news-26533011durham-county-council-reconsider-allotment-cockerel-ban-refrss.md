@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Durham County Council will review its controversial ban on cockerels
   being kept on County Durham allotments following pleas from residents.
 image: https://www.thenorthernecho.co.uk/resources/images/20810590.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Supplied)*

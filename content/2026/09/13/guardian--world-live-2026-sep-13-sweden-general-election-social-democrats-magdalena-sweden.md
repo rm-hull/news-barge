@@ -9,6 +9,9 @@ published: '2026-09-13T00:00:00Z'
 description: Initial projections put centre-left opposition bloc at 51.3%, with 46.8%
   for rightwing parties; result worse than expected for far right Sweden Democrats
 image: https://i.guim.co.uk/img/media/39480f47abbeee736896ae6263a6046f37b0eb99/245_0_5880_4704/master/5880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=23294a88562835a4b32f5892ed3727c7
+categories:
+- UK
+- News & Politics
 ---
 
 Sweden election: exit polls project centre-left government and bad night for the far-right – live

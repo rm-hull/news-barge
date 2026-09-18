@@ -10,6 +10,11 @@ description: Green councillors are calling for changes to North Yorkshire Counci
   planning rules to ensure local councillors have a proper voice when developments
   are proposed in their communities.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjgzNDZkZWFkLTBiNGQtNDI0YS1iY2Y5LTNkMDk2N2Q4OGFmYjo5MjlmZTdjMC0xM2QxLTRkYTYtODdlMS03NzQ3ZmMzYTNlOTg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Society & Culture
 ---
 
 # North Yorkshire Green councillors call for local members to have more say on planning applications

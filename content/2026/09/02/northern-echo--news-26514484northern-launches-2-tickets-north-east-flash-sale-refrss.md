@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Northern has launched a flash sale with millions of £2 train tickets
   available on routes connecting Darlington with the wider North East.
 image: https://www.thenorthernecho.co.uk/resources/images/16546130.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: NORTHERN ECHO)*

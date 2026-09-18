@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Residents across Darlington are set to benefit from a range of new and
   improved bus services later this month.
 image: https://www.thenorthernecho.co.uk/resources/images/16604347.jpg?type=og-image&xType=0&yType=72
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: SARAH CALDECOTT)*

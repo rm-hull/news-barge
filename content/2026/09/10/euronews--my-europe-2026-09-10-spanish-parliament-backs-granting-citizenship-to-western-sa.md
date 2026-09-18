@@ -9,6 +9,9 @@ description: 'Although the exact number of beneficiaries is unknown, around 80,0
   Sahrawis are believed to be eligible, with some estimates reaching almost 200,000
   when including descendants. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/90/72/1200x675_cmsv2_81f1d133-190d-50a5-8f7a-f8599c9b626a-9909072.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Although the exact number of beneficiaries is unknown, around 80,000 Sahrawis are believed to be eligible, with some estimates reaching almost 200,000 when including descendants.

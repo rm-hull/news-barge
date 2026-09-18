@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: For those stranded by a flood, disaster experts say survival depends
   on access to oxygen, food and water
 image: https://static.independent.co.uk/2026/08/31/20/APTOPIX_Nepal_Flash_Floods_99439.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 For those stranded by a flood, survival depends on many factors including access to oxygen, food and water.

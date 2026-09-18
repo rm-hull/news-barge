@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: They say Number 10 North is an opportunity to break the deadlock around
   dualling the A64.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c188/live/903c5a40-b02c-11f1-a8a9-13be82d23441.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![The Hopgrove Junction on the A64, with a sign pointing to Scarborough and Malton.](https://ichef.bbci.co.uk/ace/standard/951/cpsprodpb/c188/live/903c5a40-b02c-11f1-a8a9-13be82d23441.jpg)

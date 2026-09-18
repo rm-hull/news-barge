@@ -9,6 +9,12 @@ description: The tragic events of 9/11 would reshape the world forever. The terr
   atrocities on that fateful day in September would reverberate across the globe.
   From London to Kabul, from Madrid to Baghdad.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjYzNzVmNWRlLTQzMmYtNGJhOS04MjAzLTBmYjdmYThkMWYxYzo4MmUwZjIxMC05NTMxLTQ4YjItOTEzOC01YjQzMzI3YjFlMDI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Sports
 ---
 
 # The world was never the same after 9/11 but tyranny did not win that day

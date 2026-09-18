@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: I've compared using Siri AI to Gemini on Android — here's why Siri actually
   has an advantage.
 image: https://cdn.mos.cms.futurecdn.net/z9wsPLknVe6VQ849FxrZYH-1918-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![WWDC 2026 Screenshots](https://cdn.mos.cms.futurecdn.net/z9wsPLknVe6VQ849FxrZYH.jpg) 

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Actor George Clooney said he was ‘ashamed’ of Defense Secretary Pete
   Hegseth’s post mocking the appearance of a Canadian military youth program’s members
 image: https://static.independent.co.uk/2026/09/02/19/22/FotoJet.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Hollywood star George Clooney, an outspoken Democrat, condemned Defense Secretary Pete Hegseth for being “cruel” after Hegseth posted a photo of two members of the Canadian cadet program, seemingly to mock their physical appearance.

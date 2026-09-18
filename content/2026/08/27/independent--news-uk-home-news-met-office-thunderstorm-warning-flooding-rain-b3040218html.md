@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Forecasters have warned of potential flooding and disruption as thunderstorms
   batter the country
 image: https://static.independent.co.uk/2026/08/27/10/46/Screenshot-2026-08-27-at-11-09-17.png?trim=175,0,175,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 People across the UK have been urged to prepare an “emergency kit” as flooding and thunderstorms are expected to hit large areas of the country.

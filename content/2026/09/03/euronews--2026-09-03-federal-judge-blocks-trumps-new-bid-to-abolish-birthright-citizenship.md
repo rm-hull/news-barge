@@ -10,6 +10,11 @@ description: The ruling is the second time Trump’s ambitious plans of abolishi
   blocked an executive attempt at abolishing the right to children born to parents
   who do not hold legal residence status.
 image: https://images.euronews.com/articles/stories/09/89/93/61/1200x675_cmsv2_26d05cfb-499f-5e46-b99a-55972ded1b7e-9899361.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
+- Law & Justice
 ---
 
 ## The ruling is the second time Trump’s ambitious plans of abolishing a constitutional right were shot down by federal courts. The US Supreme Court earlier blocked an executive attempt at abolishing the right to children born to parents who do not hold legal residence status.

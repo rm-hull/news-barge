@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Video. Around 100 clowns and circus fans fill the historic centre of
   Mariana, Brazil, for an international gathering celebrating circus, music and colour
 image: https://images.euronews.com/articles/stories/09/90/40/02/1200x675_cmsv2_81c80e92-9521-566d-bfd7-b294efd78650-9904002.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 Around 100 professional clowns took to the streets of Mariana in Brazil during the International Clown Gathering, joined by circus enthusiasts in colourful costumes and face paint.

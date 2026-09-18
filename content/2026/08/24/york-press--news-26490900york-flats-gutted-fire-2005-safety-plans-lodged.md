@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Works are planned to improve fire safety in a block of York flats where
   a large blaze left residents homeless and prompted an investigation.
 image: https://www.yorkpress.co.uk/resources/images/21364905.jpg?type=og-image&xType=0&yType=199
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 ## Fire safety works at York flats gutted by blaze as 'safety requirements not met'

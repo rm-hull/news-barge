@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Everton's move for Folarin Balogun collapses after the striker changes
   his mind following a medical at the club's Finch Farm training base.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/81d6/live/655f9bd0-a65d-11f1-90c0-d91d8bc7338d.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Folarin Balogun playing for the United States](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/81d6/live/655f9bd0-a65d-11f1-90c0-d91d8bc7338d.jpg)

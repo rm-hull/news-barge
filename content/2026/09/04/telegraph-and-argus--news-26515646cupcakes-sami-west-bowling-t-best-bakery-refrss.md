@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: People from Norway to Scotland come and visit a Bradford bakery, says
   its owner.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21403036.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Saima Khan)*

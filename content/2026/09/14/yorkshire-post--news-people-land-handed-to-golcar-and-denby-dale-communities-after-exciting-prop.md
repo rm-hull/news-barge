@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Kirklees Council has agreed to hand over two assets to local community
   groups after “exciting proposals” were brought forward.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjUxNzM2MDQ4LWQ0MmQtNDdmMS1hMWRmLTZjNjk4MDJlZTE0Mjo5NGRmNTUwNS1jZjcwLTQ1NTItYjU2NC04Njg2ZmE0NTliZGY=.jpg?crop=3:2,smart&trim=&width=420&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Land handed to Golcar and Denby Dale communities after ‘exciting proposals’

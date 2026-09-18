@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Direct services between York and Leeds recorded more delay minutes than
   any other York-linked route in Network Rail data.
 image: https://www.yorkpress.co.uk/resources/images/21372646.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## New data shows the most delayed route for York train passengers

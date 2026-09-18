@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Marks & Spencer set to reopen store after a major transformation, with
   the new foodhall now 60 per cent larger.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21424131.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

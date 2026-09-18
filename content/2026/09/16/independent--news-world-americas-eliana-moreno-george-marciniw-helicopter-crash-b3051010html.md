@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Helicopter pilot George Marciniw has also been named as one of the victims
   as colleagues paid tribute
 image: https://static.independent.co.uk/2026/09/16/8/23/Screenshot-2026-09-16-at-09-37-07.png?trim=25,0,73,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Two of the three people killed in an NBC4 Los Angeles news helicopter crash have been named.

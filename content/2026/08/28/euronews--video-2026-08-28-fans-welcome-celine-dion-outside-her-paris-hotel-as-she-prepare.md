@@ -10,6 +10,10 @@ description: Video. Fans welcome Céline Dion outside her Paris hotel as she pre
   to launch a 16‑show arena residency, her first major concert run since revealing
   her stiff‑person syndrome diagnosis.
 image: https://images.euronews.com/articles/stories/09/89/32/53/1200x675_cmsv2_a1479312-5e96-5f30-b955-bd83947a5db8-9893253.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 Canadian music superstar Céline Dion has arrived in Paris, around two weeks ahead of the start of her highly anticipated concert residency. A crowd of fans gathered outside the Royal Monceau, where she will stay during her time in the capital. Admirers who saw her described her as *“in better shape”*,*“relaxed”* and*“as beautiful as ever”,* saying they were*“very happy”* to see her up close.

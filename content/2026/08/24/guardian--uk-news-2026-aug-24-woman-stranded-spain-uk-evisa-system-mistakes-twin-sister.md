@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Nidia Webb, who is legally settled in UK, falls foul of ‘known issue’
   with Home Office’s digitised immigration process
 image: https://i.guim.co.uk/img/media/9664a763f5a0fe2b5c052529c30c46a64a97fbd9/0_96_3035_2428/master/3035.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f723dcb0c9a6ec393d796346bdf325b
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A woman who is legally settled in the UK was left stranded at a Spanish airport after the Home Office’s post-Brexit visa system mixed her up with her twin sister.

@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: Caira’s new generative video tools can transform footage using natural-language
   instructions while keeping the original recording at the heart of every edit.
 image: https://cdn.mos.cms.futurecdn.net/b7SdxEFEuvGYUaQiyDfGBa-2560-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Caira Camera in use.](https://cdn.mos.cms.futurecdn.net/b7SdxEFEuvGYUaQiyDfGBa.jpg) 

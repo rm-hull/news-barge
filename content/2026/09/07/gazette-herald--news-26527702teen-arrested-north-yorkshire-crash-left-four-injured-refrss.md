@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A driver has been arrested following a serious crash that left multiple
   people injured.
 image: https://www.gazetteherald.co.uk/resources/images/21419847.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 A driver has been arrested following a serious crash that left multiple people injured.

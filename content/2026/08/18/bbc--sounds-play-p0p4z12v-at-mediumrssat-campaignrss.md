@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Threat comes after British-made drones were used in recent Ukrainian
   strikes in Russia.
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ## Episode details

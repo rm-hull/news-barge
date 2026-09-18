@@ -9,6 +9,12 @@ published: '2026-09-14T00:00:00Z'
 description: The disruption is affecting services to and from Scarborough, as the
   track between Filey and the coastal town is inspected.
 image: https://www.gazetteherald.co.uk/resources/images/21372645.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- News & Politics
 ---
 
 *(Image: Newsquest)*

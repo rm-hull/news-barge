@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: The Commonwealth of Virginia is removing three Confederate memorials
   from a public park and civic campus in Richmond
 image: https://static.independent.co.uk/2026/08/28/22/Virginia_Confederate_Statue_Removal_586_6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Years into efforts to purge Richmond, Virginia — a former Confederate Capital — of memorials honoring the Confederacy, the Commonwealth of Virginia began removing three more Confederate memorials in the city on Friday.

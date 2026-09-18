@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The US government is investigating whether the Cybercab, which lacks
   a steering wheel and pedals, meets vehicle safety standards.
 image: https://media.wired.com/photos/6a9ad63d482e2501722eeac3/191:100/w_1280,c_limit/GettyImages-2193378836.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
 ---
 
 Tesla’s Cybercab, a distinctive two-seater without a steering wheel or brake pedals, is set to start picking up members of the public in Austin, Texas, this evening. But the vehicle is already under investigation by the US federal government, which is probing whether it meets federal safety standards.

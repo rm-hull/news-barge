@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Four people have been charged with murder after a post-mortem found a
   newborn baby girl discovered dead at a Sheffield home had suffered stab wounds.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/30/18/41/Untitled-design-(53).jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Four charged with murder after newborn baby died from stab wounds

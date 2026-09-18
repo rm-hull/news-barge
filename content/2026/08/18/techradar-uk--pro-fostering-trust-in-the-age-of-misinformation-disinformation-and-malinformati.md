@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: The principle of Zero Trust is becoming as relevant to how information
   is treated as it has been to access.
 image: https://cdn.mos.cms.futurecdn.net/YQaVTQE6JAfu6bvPgwmd5U-2560-80.jpg
+categories:
+- Technology & Software
+- Society & Culture
 ---
 
 ![Phone malware](https://cdn.mos.cms.futurecdn.net/YQaVTQE6JAfu6bvPgwmd5U.jpg) 

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Richarlison is left out of Tottenham's Premier League squad as he does
   not figure in the club's plans this season.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8b4f/live/74ac0e50-a7b8-11f1-b5cf-8556ae508a51.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Brazil forward Richarlison](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8b4f/live/74ac0e50-a7b8-11f1-b5cf-8556ae508a51.jpg)

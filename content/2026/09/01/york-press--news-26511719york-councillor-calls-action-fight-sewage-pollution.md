@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: A York councillor has called for urgent cross-party action to tackle
   the issues around sewage pollution in the city's rivers - which are among…
 image: https://www.yorkpress.co.uk/resources/images/21396914.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 ## 'These are the moments that really matter' - York councillor calls for sewage action

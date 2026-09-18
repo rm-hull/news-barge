@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: Titled 'Lights Out', here's when the fifth episode of Lanterns will premiere
   where you live.
 image: https://cdn.mos.cms.futurecdn.net/HmXSjghg5E2h75Nmqo6oTb-1600-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Hal Jordan wearing glasses and holding up his fist with his Green Lantern ring activated in Lanterns](https://cdn.mos.cms.futurecdn.net/HmXSjghg5E2h75Nmqo6oTb.jpg) 

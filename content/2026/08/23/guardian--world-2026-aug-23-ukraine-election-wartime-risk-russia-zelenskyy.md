@@ -8,6 +8,9 @@ published: '2026-08-23T00:00:00Z'
 description: President sharply criticises proposal, saying ‘elections right now are
   a tsunami for the state that will split Ukraine’
 image: https://i.guim.co.uk/img/media/125d91e786f9cb71270d91c213096e4a92d6289b/638_0_3065_2451/master/3065.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=47d5161939490c6e33dca66d94a2d39c
+categories:
+- UK
+- News & Politics
 ---
 
 Volodymyr Zelenskyy has said holding elections in Ukraine during wartime would risk splitting the country at a time when Russia is amassing ballistic missiles and considering whether to mobilise an extra 300,000 soldiers.

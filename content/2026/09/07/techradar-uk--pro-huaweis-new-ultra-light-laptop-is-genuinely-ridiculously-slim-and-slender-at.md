@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: Huawei's 798g MateBook Pro S is a genuine engineering feat, even if Huawei's
   claims of a 'breakthrough' are exaggerated
 image: https://cdn.mos.cms.futurecdn.net/77V4mgUPPebNvaEFSULoPi-2325-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![The Huawei MateBook Pro S comes in 5 different colors](https://cdn.mos.cms.futurecdn.net/77V4mgUPPebNvaEFSULoPi.png) 

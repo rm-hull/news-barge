@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Tschabalala Self's Lady in Blue will sit atop the Fourth Plinth in Trafalgar
   Square for the next two years.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8ffc/live/9243db60-acfd-11f1-beae-535b95a24b3e.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![A bronze sculpture of a black woman wearing a vivid lapis lazuli blue dress and matching heels, depicted in mid-stride atop the Fourth Plinth in Trafalgar Square. The National Gallery dome and St Martin-in-the-Fields church are visible under a bright blue sky in the background.](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/8ffc/live/9243db60-acfd-11f1-beae-535b95a24b3e.jpg)

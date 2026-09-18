@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: A COMMUNITY-LED campaign in Keighley is bringing people together to challenge
   hate and division.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21356124.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Google Street View)*

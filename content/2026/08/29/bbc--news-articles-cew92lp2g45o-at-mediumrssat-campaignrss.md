@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: 'The BBC''s Laura Cress gets a first look at the biggest games in Cologne
   from Witcher 3 to Alien: Isolation 2.'
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e644/live/028c1140-a285-11f1-ae59-c1f7c17a8b7d.png
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 Watch: BBC's Laura Cress on the floor at Gamescom in Cologne

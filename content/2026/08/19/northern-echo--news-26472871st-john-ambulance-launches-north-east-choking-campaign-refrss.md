@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: St John Ambulance has launched its Save a Life September campaign after
   research found nearly four in 10 people in the North East do not realise…
 image: https://www.thenorthernecho.co.uk/resources/images/21333991.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: St John Ambulance)*

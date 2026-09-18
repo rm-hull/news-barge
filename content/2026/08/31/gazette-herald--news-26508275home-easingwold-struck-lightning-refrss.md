@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: A home in Easingwold was struck by lightning in a thunderstorm on Sunday
   night.
 image: https://www.gazetteherald.co.uk/resources/images/20999832.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 *(Image: Sue Craigs Erwin)*

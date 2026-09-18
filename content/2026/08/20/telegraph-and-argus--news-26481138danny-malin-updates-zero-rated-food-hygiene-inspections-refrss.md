@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Food reviewer Danny Malin has questioned whether businesses given zero
   food hygiene ratings are being revisited quickly enough.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21348241.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: NQ)*

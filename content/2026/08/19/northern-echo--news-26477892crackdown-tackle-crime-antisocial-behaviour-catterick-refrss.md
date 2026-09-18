@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Six people, including a 14 year old boy, have been arrested as part of
   ongoing activity to tackle crime and antisocial behaviour in North Yorkshire.
 image: https://www.thenorthernecho.co.uk/resources/images/21341387.jpg?type=og-image&xType=0&yType=155
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: NORTH YORKSHIRE POLICE)*

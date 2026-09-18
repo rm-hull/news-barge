@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: The North Yorkshire Moors Railway will open behind-the-scenes areas to
   visitors during Heritage Open Days in September, offering a programme of free…
 image: https://www.thenorthernecho.co.uk/resources/images/21332082.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 A North Yorkshire heritage railway is opening up some of its fascinating behind-the-scenes areas as part of this year's Heritage Open Days celebrations.

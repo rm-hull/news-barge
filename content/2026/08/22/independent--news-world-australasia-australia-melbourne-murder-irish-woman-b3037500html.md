@@ -7,6 +7,10 @@ scraped_at: '2026-08-22T12:56:30Z'
 published: '2026-08-22T00:00:00Z'
 description: It is understood that the accused and the victim knew each other
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/05/22/18/melbourne-magistrates-court.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A man has been charged with the murder of a young Irish woman in the Australian city of Melbourne.

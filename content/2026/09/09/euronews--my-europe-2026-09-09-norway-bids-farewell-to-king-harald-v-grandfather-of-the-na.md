@@ -9,6 +9,10 @@ description: 'Norway''s royal family, led by new King Haakon VIII, foreign royal
   heads of state and dignitaries are taking part in the procession to Oslo''s Lutheran
   cathedral on foot. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/66/88/1200x675_cmsv2_8b5ac020-1c2f-5410-a19d-0b034b9e00cd-9906688.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Norway's royal family, led by new King Haakon VIII, foreign royals, heads of state and dignitaries are taking part in the procession to Oslo's Lutheran cathedral on foot.

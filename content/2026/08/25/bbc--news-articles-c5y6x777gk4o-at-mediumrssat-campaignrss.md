@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Fuel companies are urging customers not to linger at the pumps after
   a wave of deadly attacks.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f371/live/4cdd5030-a07b-11f1-bfeb-dfb02ea642ef.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ![Two women in red tops run as flames rise from a car and fuel dispenser following a drone attack by Russia on a petrol station near the city centre of Kharkiv on 3 July](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f371/live/4cdd5030-a07b-11f1-bfeb-dfb02ea642ef.jpg)

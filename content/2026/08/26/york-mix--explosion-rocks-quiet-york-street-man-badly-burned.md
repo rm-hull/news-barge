@@ -8,6 +8,10 @@ scraped_at: '2026-08-26T16:56:31Z'
 published: '2026-08-26T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/york-explosion-crossfield-crescent-26-aug-2026-13.webp
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 A quiet York street was rocked by an explosion this afternoon (Wednesday).

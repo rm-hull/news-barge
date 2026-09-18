@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: It is hoped that coordinated action minimises the blowback to any one
   country from Israel or America, our political editor writes.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03d2/live/d3c0b1f0-abd9-11f1-ba40-a905468c0295.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Andy Burnham sitting in front of a Union Flag in Downing Street](https://ichef.bbci.co.uk/ace/standard/901/cpsprodpb/03d2/live/d3c0b1f0-abd9-11f1-ba40-a905468c0295.jpg)

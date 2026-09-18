@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: U.S. officials report about 90 U.S. citizens remain unaccounted for after
   catastrophic flash floods hit a border area of China and Nepal
 image: https://static.independent.co.uk/2026/08/27/19/Nepal_Flash_Floods_22183.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 U.S. officials said about 90 U.S. citizens remained unaccounted for Thursday, a day after catastrophic flash floods engulfed a border area of China and Nepal, killing hundreds of people.

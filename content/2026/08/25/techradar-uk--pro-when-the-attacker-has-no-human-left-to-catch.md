@@ -7,6 +7,9 @@ scraped_at: '2026-08-25T08:55:23Z'
 published: '2026-08-25T00:00:00Z'
 description: Agentic AI just crossed cybersecurity's most feared threshold
 image: https://cdn.mos.cms.futurecdn.net/7DtE9RCVmUtmH2FAfvxsvM-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Malware attack virus alert , malicious software infection , cyber security awareness training to protect business](https://cdn.mos.cms.futurecdn.net/7DtE9RCVmUtmH2FAfvxsvM.jpg) 

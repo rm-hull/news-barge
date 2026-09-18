@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A teacher who encouraged a pupil to take drugs, had her sit on his knee
   and hid her in a cupboard at school has been banned from the profession.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjNkNjdkZjg2LTNlZjctNGE3ZS04ZTUzLTMzNjhjYThlN2M4NzplMzUwY2U5Ny0wNmVkLTRlNjktYmFiOS1lM2RiMWQ4MDVlZDM=.jpg?crop=3:2,smart&trim=&width=1185&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Education & Learning
 ---
 
 # Teacher at Rotherham school 'locked pupil in room to hide their relationship'

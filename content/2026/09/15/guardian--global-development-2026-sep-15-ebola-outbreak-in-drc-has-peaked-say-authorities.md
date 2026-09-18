@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Almost 3,500 people have died in outbreak and experts say more must be
   done to ensure Bundibugyo is under control
 image: https://i.guim.co.uk/img/media/2cfefd500b4e0a49bfd91deaf4a4f190d877e1a1/772_0_3793_3036/master/3793.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb1c768fe6c229ce6d05aa3c2765fec0
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Authorities in the Democratic Republic of the Congo have announced that the Ebola outbreak ravaging parts of the country has reached its peak.

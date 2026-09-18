@@ -7,6 +7,9 @@ scraped_at: '2026-08-28T22:14:54Z'
 published: '2026-08-28T00:00:00Z'
 description: It isn’t the first time Trump-shaped ecstasy pills have surfaced
 image: https://static.independent.co.uk/2026/08/28/16/49/trump-shaped-ecstacy-pills.jpg?trim=569,50,5,51&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A Dutch addiction and mental health institute has issued a warning about potentially deadly ecstasy pills designed to resemble the head of U.S. President Donald Trump.

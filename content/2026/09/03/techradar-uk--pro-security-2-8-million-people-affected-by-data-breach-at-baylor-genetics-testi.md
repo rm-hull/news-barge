@@ -8,6 +8,9 @@ scraped_at: '2026-09-03T12:48:35Z'
 published: '2026-09-03T00:00:00Z'
 description: Business continued as usual
 image: https://cdn.mos.cms.futurecdn.net/9DcUT2RtbvGV8dbUy5P8MA-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Laboratory](https://cdn.mos.cms.futurecdn.net/9DcUT2RtbvGV8dbUy5P8MA.jpg) 

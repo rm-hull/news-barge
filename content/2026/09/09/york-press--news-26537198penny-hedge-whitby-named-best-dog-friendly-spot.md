@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The Penny Hedge in Whitby has been named the best dog-friendly pub in
   Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/20540772.jpg?type=og-image
+categories:
+- Local
+- York
+- Comedy & Entertainment
 ---
 
 *(Image: Supplied)*

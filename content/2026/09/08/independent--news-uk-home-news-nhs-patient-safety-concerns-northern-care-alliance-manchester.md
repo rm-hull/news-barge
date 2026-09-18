@@ -9,6 +9,12 @@ description: The new alert comes as Northern Care Alliance NHS Foundation Trust 
   forced to make millions of pounds in cost savings as staff warn they would not want
   their family cared for at the hospitals
 image: https://static.independent.co.uk/2026/08/19/11/07/salford-royal-hospital-indycomp.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Health & Fitness
+- Business & Entrepreneurship
 ---
 
 A crisis-hit NHS trust facing multiple probes over alleged harm to patients has been slapped with a fresh warning over the safety of those in its care.

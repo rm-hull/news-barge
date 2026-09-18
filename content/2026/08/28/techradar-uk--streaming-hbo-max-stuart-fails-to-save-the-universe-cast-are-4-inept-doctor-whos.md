@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: With Doctor Who out to tender, its future feels uncertain. But could
   Stuart Fails to Save the Universe save the day?
 image: https://cdn.mos.cms.futurecdn.net/aghMDWJgyFLME2JhQZv3BZ-1920-80.jpg
+categories:
+- Technology & Software
+- Science
+- Film & TV
 ---
 
 ![Kevin Sussman as Stuart and David Tennant as the tenth Doctor Who](https://cdn.mos.cms.futurecdn.net/aghMDWJgyFLME2JhQZv3BZ.jpg) 

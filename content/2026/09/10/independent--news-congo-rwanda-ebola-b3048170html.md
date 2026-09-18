@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A fire in Bukavu, eastern Congo, has killed at least 24 students, according
   to the rebel administration controlling the city
 image: https://static.independent.co.uk/2026/09/10/18/APTOPIX_Congo_School_Fire__5114.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
+- Society & Culture
 ---
 
 A fire on Thursday in Bukavu, eastern Congo, killed at least 24 students, the rebel administration that controls the city said.

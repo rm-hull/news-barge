@@ -9,6 +9,9 @@ published: '2026-08-28T00:00:00Z'
 description: Brother of former state premier tells Icac he sent message to his wife
   referring to a plan to damage the career of rival David Elliott
 image: https://i.guim.co.uk/img/media/ab933cb5a8b1485f38ca494e9a4c5c7ed97c383b/48_125_1779_1424/master/1779.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d5331cb8a4d0ee415c1151848f4426d
+categories:
+- UK
+- News & Politics
 ---
 
 Charles Perrottet wrote about a plan to damage a Liberal minister’s career after his brother Dominic’s accession to the New South Wales premiership in October 2021, stating “we execute the prick once party room is over”, a corruption inquiry has heard.

@@ -9,6 +9,8 @@ published: '2026-09-12T00:00:00Z'
 description: Boulies has a new version of its plush Master Rex gaming chair — but
   is it an improvement over the old model?
 image: https://cdn.mos.cms.futurecdn.net/Z3pUzJr3m2ho5ri3Fb3AFV-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

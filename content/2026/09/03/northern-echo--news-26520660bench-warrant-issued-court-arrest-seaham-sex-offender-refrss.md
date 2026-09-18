@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: A bench warrant has been issued for the arrest of a sex offender who
   failed to appear at court for an alleged breach of his notification…
 image: https://www.thenorthernecho.co.uk/resources/images/19209158.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: The Northern Echo)*

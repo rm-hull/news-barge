@@ -9,6 +9,13 @@ description: The trauma being inflicted upon families as a result of flaws in th
   NHS’s Continuing Healthcare (CHC) scheme is reflective of a care system that is
   failing to deliver for patients and their families.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmEyYWNmMzY0LTk0MTItNDc3Mi04ZmQ5LTRmNmE2MDJmNDVkNTo4YmRiYjc1Ni1mZWM5LTRlNGMtOTk2Zi0zYjRlM2Y1OTBiZDc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- Health & Fitness
+- Family & Parenting
 ---
 
 # Flaws with CHC payments are indicative of a care system that is failing families

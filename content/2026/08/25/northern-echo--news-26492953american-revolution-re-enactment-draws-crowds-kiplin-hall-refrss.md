@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Revolutionary history came to life in North Yorkshire as visitors stepped
   back in time to explore the events that shaped the birth of the United…
 image: https://www.thenorthernecho.co.uk/resources/images/21367950.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: DL10 Media)*

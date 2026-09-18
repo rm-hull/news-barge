@@ -10,6 +10,9 @@ description: 'Speaking on Spanish public TV on Wednesday, Sánchez criticised th
   agency had warned its Moroccan counterparts and police chiefs in Ceuta and Melilla.
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/74/46/1200x675_cmsv2_13503ac6-3cd2-5425-b3e3-7a3b95a2466b-9907446.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Speaking on Spanish public TV on Wednesday, Sánchez criticised the National Intelligence Centre for failing to anticipate the mass sea crossing. However, the agency had warned its Moroccan counterparts and police chiefs in Ceuta and Melilla.

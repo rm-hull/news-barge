@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Here's a list of the cheapest garages in and around Bradford, according
   to petrolprices.com.
 image: https://www.thetelegraphandargus.co.uk/resources/images/15726968.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Archive)*

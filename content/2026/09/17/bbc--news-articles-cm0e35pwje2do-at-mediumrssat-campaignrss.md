@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Mark Rutte tells the BBC that UK ministers accept the need to make yearly
   steps to up spending.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c57/live/033ecd10-b2b8-11f1-ad9d-efc12ace03e0.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Nato chief Mark Rutte](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/0c57/live/033ecd10-b2b8-11f1-ad9d-efc12ace03e0.jpg)

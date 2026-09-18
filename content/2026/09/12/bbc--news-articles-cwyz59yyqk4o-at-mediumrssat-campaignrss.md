@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: A senior UN official tells the BBC there is a race against the clock
   to ensure access to power and water through winter.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/658c/live/322ba800-ae4e-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Sports
 ---
 
 ![Workers from the Ukrainian energy company DTEK perform repairs at an electrical substation in Kyiv, Ukraine, 21 January 2026, amid the Russian invasion.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/658c/live/322ba800-ae4e-11f1-b1d1-571ed4d7ff2c.jpg)

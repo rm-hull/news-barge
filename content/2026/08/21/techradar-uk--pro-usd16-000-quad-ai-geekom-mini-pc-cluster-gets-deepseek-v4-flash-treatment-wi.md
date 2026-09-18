@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: This $16,000 mini PC cluster promises enterprise-grade AI without ever
   touching a public cloud server
 image: https://cdn.mos.cms.futurecdn.net/cQDUCVWtDNuPSToo4CWRcC-1920-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![GEEKOM A9 Mega Mini PC](https://cdn.mos.cms.futurecdn.net/cQDUCVWtDNuPSToo4CWRcC.png) 

@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: After repairs to Hirosaki Castle in Aomori prefecture, officials employed
   a technique known as hikiya to move the structure more than two metres
 image: https://i.guim.co.uk/img/media/1402f53e1dbf0a1c2705eb53dcbb04b16ee4f1ee/414_0_3304_2645/master/3304.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d1ae87b477914536966cc12af4199ea
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 To chants of “so-re, so-re”, about 1,800 people came together in northern Japan over the weekend to pull a 360-tonne castle keep a little more than two metres closer to its original resting place as part of ongoing renovations.

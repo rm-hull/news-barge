@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: A federal judge has struck down New York’s attempt to make fossil fuel-producing
   industries pay into a $75 billion fund to repair damage wrought by climate change
 image: https://static.independent.co.uk/2026/09/01/17/New_York_Climate_Superfund_68755.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 New York's attempt to make fossil fuel-producing industries pay into a $75 billion fund to repair the damage wrought by climate change was struck down by a federal judge, who said the sweeping law reaches beyond a state's responsibility and into an area of federal interest.

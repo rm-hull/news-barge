@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Leeds Festival star Holly Humberstone is dating a member of Sam Fender's
   band, Joe.
 image: https://www.thenorthernecho.co.uk/resources/images/21387828.jpg?type=og-image&xType=0&yType=473
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 *(Image: Adam Kennedy)*

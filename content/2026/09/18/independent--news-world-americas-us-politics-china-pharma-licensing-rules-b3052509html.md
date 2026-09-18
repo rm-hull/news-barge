@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: Proposed framework would focus restrictions on areas like pathogens and
   potentially weaponizable technologies
 image: https://static.independent.co.uk/2026/08/20/11/qMzsMyNTZh_fotG0g4Yz1ZM16SI1jJm6cEt9iJAbZ6OJ4q4AFatRJt5mhR2hxAhPdp9lz-AU-BopHMYb058v0TqjAIHP_k1e2DTL..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- Technology & Software
+- Society & Culture
 ---
 
 The Trump administration is considering allowing U.S. pharmaceutical companies to continue striking most licensing deals with Chinese drugmakers despite its broader crackdown on investment in China, according to people briefed on the plans.

@@ -10,6 +10,10 @@ description: Two reports investigating the forcible contraception of thousands o
   Indigenous women and girls in Greenland by Danish health authorities for decades
   were split over whether the practice constituted genocide
 image: https://static.independent.co.uk/2026/08/28/19/Denmark_Greenland_Forced_Contraception__54_8.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Two reports investigating the forcible contraception of thousands of Indigenous women and girls in Greenland by Danish health authorities for decades were split over whether the practice constituted genocide.

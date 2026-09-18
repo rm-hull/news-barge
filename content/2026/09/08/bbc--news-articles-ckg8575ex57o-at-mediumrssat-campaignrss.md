@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Sam Gardner was in foster care when he met a teacher who made him believe
   in himself.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a30/live/c3e872b0-ac09-11f1-afbf-77fe6d25f635.jpg
+categories:
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 I'm reunited with the teacher who changed my life

@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: It is not clear how the idea of playing a football match in a river first
   arose
 image: https://static.independent.co.uk/2026/09/01/09/2292399335..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 While waterlogging usually prompts the abandonment of a football match, in the Cotswolds a thoroughly soaked pitch is simply part of the appeal.

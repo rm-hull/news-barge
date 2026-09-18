@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: Kynren will light up the skies above Bishop Auckland with a 25-minute
   fireworks and music spectacular this Halloween. But tickets are selling fast.
 image: https://www.thenorthernecho.co.uk/resources/images/20022621.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: PYROMUSICAL)*

@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: The family of a Northumberland man whose body was found in the River
   Tyne have paid tribute to the 'heart and soul of any room'.
 image: https://www.thenorthernecho.co.uk/resources/images/21357755.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: NORTH NEWS LTD/NORTHUMBRIA POLICE)*

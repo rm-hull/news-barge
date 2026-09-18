@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A star-studded dance spectacular featuring four of Strictly Come Dancing's
   most popular professionals is heading to York as part of a new UK…
 image: https://www.yorkpress.co.uk/resources/images/21456845.jpg?type=og-image
+categories:
+- Local
+- York
+- Comedy & Entertainment
+- Film & TV
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: Trump will touch down on Saturday morning after what has been described
   as one of the biggest security operations ever implemented by the Irish police service
 image: https://static.independent.co.uk/2026/09/11/20/2294071728..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 US President Donald Trump is scheduled to touch down in Ireland on Saturday morning, arriving amid what has been described as one of the largest security operations ever implemented by the Irish police service (An Garda Síochána).

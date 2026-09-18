@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The pavements behind Harrogate’s Royal Pump Room have been given a deep
   clean by one of Harrogate BID's Street Rangers.
 image: https://mmo.aiircdn.com/409/6aaa6faf160ed5b4aac.jpg
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 ![](https://mmo.aiircdn.com/409/6aaa6faf160ed5b4aac.jpg) 

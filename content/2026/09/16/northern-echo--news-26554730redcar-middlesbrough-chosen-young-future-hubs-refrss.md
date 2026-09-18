@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: New Young Futures Hubs are set to open in Middlesbrough and Redcar and
   Cleveland, bringing mental health, employment and youth violence prevention.
 image: https://www.thenorthernecho.co.uk/resources/images/16423698.jpg?type=og-image&xType=0&yType=162
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Thousands of young people across Teesside will soon have access to new support hubs designed to tackle mental health struggles, unemployment and youth violence.

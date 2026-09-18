@@ -8,6 +8,9 @@ scraped_at: '2026-09-09T19:15:11Z'
 published: '2026-09-09T00:00:00Z'
 description: Of course, your results may vary.
 image: https://cdn.mos.cms.futurecdn.net/UKj3qUKNrrWkzkmSLq4azG-2560-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![The Hypertune application.](https://cdn.mos.cms.futurecdn.net/UKj3qUKNrrWkzkmSLq4azG.png) 

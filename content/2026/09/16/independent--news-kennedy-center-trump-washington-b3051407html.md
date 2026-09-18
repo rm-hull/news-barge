@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Fencing has gone up around the main Kennedy Center building, a day after
   the Trump-aligned board voted to close the performing arts center for repairs
 image: https://static.independent.co.uk/2026/09/16/17/Trump_Kennedy_Center_61882.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Fencing goes up around the main Kennedy Center building after Trump-aligned board votes to close it

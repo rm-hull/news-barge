@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Hartlepool’s Street Food Carousel returns to Church Square on September
   19, with street food vendors and traders from 4pm to 8pm.
 image: https://www.thenorthernecho.co.uk/resources/images/21235201.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: ANDY FUTERS)*

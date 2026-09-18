@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Xbox reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/GKhBbdqqZH3ZQa8xFuuvUh-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/GKhBbdqqZH3ZQa8xFuuvUh-320-80.jpg)

@@ -9,6 +9,11 @@ description: Normally quiet, the bond market can occasionally send warning signa
   loud enough to hit stock markets worldwide and even grab the attention of U.S. presidents
   and other world leaders
 image: null
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Normally quiet, the bond market can occasionally send warning signals loud enough to hit stock markets worldwide and even grab the attention of U.S. presidents and other world leaders.

@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: The Tor Project's first participatory funding campaign raised over $200,000
   for internet freedom tools.
 image: https://cdn.mos.cms.futurecdn.net/KVSCcsUP8TnxygH6N9D67n-1287-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Tor Project's fundraising results, promo images with logos of projects receiving the funds](https://cdn.mos.cms.futurecdn.net/KVSCcsUP8TnxygH6N9D67n.png) 

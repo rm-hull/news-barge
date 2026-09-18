@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: A former Harrogate mayor and North Yorkshire councillor posted a series
   of antisemitic tweets over a month-long period, a jury has found.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjY4YTViNTZkLWJjYjQtNDkyMy1hNDI0LWFhMjY4NmQ5MGNiOTo3NWYyN2U5Ny04OWFiLTQ3MDAtYjgzMS0yZDYyMjM3MGQwZDg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 # Former Harrogate mayor found to have posted tweets said to be antisemitic

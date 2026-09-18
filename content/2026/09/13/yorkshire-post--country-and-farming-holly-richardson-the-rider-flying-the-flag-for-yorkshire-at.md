@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: Richmond rider Holly Richardson waved the flag for Yorkshire at Burghley
   Horse Trials. Stuart Minting finds out how she got on.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmJhZmU3OTAwLTliY2QtNDFlNC05NWFmLTg5MWM2NTQ4ZDRhODo4ZDc1Mzk5NS1jYzg2LTQ0M2MtOWQzYi1jOGU2YWFjNWU5ODA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Holly Richardson: The rider flying the flag for Yorkshire at Burghley Horse Trials

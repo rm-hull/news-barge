@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: An historic York building has been transformed and is set to open to
   the public in weeks.
 image: https://www.gazetteherald.co.uk/resources/images/21386509.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 ### What is the Public Notice Portal?

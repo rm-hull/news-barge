@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T15:00:35Z'
 published: '2026-09-14T00:00:00Z'
 description: Victor L
 image: https://static.independent.co.uk/2026/09/14/14/Italy_Simpson_6_843.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Victor L. Simpson, the longtime Rome bureau chief for The Associated Press whose four decades as a foreign correspondent spanned five popes, wars and violence that touched him personally, has died. He was 84.

@@ -8,6 +8,10 @@ scraped_at: '2026-08-23T09:45:36Z'
 published: '2026-08-23T00:00:00Z'
 description: The gains from AI are becoming more real
 image: https://cdn.mos.cms.futurecdn.net/isoopje9LKofpDmB78HMLV-2000-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 ![business vpn](https://cdn.mos.cms.futurecdn.net/isoopje9LKofpDmB78HMLV.jpg) 

@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: Israeli ministers have sided with Argentina again despite Buenos Aires
   sanctioning an Israeli oil firm
 image: https://static.independent.co.uk/2026/09/08/07/2292536003..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Israeli ministers have called for sanctions on Britain for its “occupation” of the Falkland Islands amid furious backlash over the government’s plan to sanction Israeli settlements in the occupied West Bank.

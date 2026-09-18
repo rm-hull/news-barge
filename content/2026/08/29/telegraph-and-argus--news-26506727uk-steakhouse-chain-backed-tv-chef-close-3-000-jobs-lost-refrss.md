@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: The chain of steakhouses, which has been backed by a celebrity TV chef,
   is to close all its restaurants immediately with 3,000 jobs lost.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21381748.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Comedy & Entertainment
 ---
 
 *(Image: Wikimedia UK)*

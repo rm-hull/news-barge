@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: Anwar, who lives in Glasgow, says Home Office refused visa application
   despite Maryam having cancer
 image: https://i.guim.co.uk/img/media/9ac708749be218885612be0edce28f76ab14d983/223_0_6815_5452/master/6815.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c83677b267c6d9e893b60b84c1e857fc
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A man living in the UK has said he believes his sister-in-law who died from cancer in Gaza would still be alive today if the Home Office had agreed to bring her and her family to Britain.

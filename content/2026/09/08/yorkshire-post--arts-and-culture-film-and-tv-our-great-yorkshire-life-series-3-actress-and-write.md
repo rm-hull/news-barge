@@ -10,6 +10,11 @@ description: The Channel 5 series Our Great Yorkshire Life returns to screens wi
   a new episode featuring Gaynor Faye who gets back on the horse after ‘confronting
   a fear’ she’s had since childhood.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjlkNjA2NWM1LWViYjgtNGUwMi1iM2JlLWYxOGU0MTY3MGUzZDpiMzM3NmNjNy1iYWI5LTQ1ZDctYjZkYy03OWRiMmU5NjQ3MDc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 # Our Great Yorkshire Life series 3: Actress and writer Gaynor Faye gets back on the horse after ‘confronting a fear that haunted her since childhood’ in Channel 5 episode

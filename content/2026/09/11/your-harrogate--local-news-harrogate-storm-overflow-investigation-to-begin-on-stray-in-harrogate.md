@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Ground investigations are set to begin on The Stray as part of plans
   to reduce storm overflow discharges into Oak Beck.
 image: https://mmo.aiircdn.com/409/662240e6c208c.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/662240e6c208c.jpg) 

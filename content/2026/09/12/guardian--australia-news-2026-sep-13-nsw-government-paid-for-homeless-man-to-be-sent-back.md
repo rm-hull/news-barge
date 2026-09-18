@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Local council and state government attempting to move on residents living
   in an encampment by the river in Wagga Wagga
 image: https://i.guim.co.uk/img/media/b27ad9766d4d29764be32f67d93bfad6a219bdd1/0_180_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6c27d3088171cb57100b74710a57e48c
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The New South Wales government paid for a homeless man in Wagga Wagga to be sent back to New Zealand instead of offering him temporary accommodation, in an attempt to move on residents living in an encampment by a river.

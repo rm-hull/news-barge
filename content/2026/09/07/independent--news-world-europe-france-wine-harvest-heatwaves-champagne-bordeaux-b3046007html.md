@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: France will likely produce it’s lowest wine harvest in 30 years after
   recording its hottest summer ever
 image: https://static.independent.co.uk/2025/03/16/16/newFile-2.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 France is facing one of its poorest wine harvests in 30 years, with output in the Champagne region set to halve from 2025, the farm ministry said on Monday.

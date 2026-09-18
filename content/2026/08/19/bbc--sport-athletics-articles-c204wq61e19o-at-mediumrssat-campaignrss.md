@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: English athletics coach Leon Baptiste was given a 10-month prison sentence
   in Morocco for sexually assaulting a minor.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4f50/live/562ac500-9bb7-11f1-ae8a-8d57110c5ba6.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![UK Athletics sprinting coach Leon Baptiste collects an award for coach of the year at a 2023 awards ceremony](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4f50/live/562ac500-9bb7-11f1-ae8a-8d57110c5ba6.jpg)

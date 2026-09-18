@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Dinosaur fever swept through the North East as hundreds of young visitors
   put a resident expert to the test at a special event celebrating one of…
 image: https://www.thenorthernecho.co.uk/resources/images/21343881.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Science
 ---
 
 Dinosaur fever swept through the North East as hundreds of young visitors put a resident expert to the test at a special event celebrating one of the region's most popular family attractions.

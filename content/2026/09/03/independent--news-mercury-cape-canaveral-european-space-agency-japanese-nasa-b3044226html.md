@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Two Mercury-bound spacecraft are in the home stretch of their nearly
   decade-long voyage
 image: https://static.independent.co.uk/2026/09/03/15/Mercury_Mission_17529.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Travel
 ---
 
 Two Mercury-bound spacecraft left their mother ship behind on Thursday and headed down the home stretch of their nearly decade-long voyage to the solar system's smallest and closest-to-the-sun planet.

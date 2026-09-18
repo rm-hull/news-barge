@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Zimran Canas was shot outside his Boyle Heights home after approaching
   an officer with the blade of the tree trimmer
 image: https://static.the-independent.com/2026/09/08/21/51/Screenshot-2026-09-08-at-5-38-10-PM.jpg?trim=0,54,0,53&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Los Angeles police have fatally shot a man who allegedly threatened them with a tree trimmer.

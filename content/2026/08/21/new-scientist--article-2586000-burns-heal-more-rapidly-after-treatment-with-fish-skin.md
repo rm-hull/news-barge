@@ -9,6 +9,11 @@ description: Severe burns are often treated with synthetic products ahead of ski
   graft surgery, but there is evidence that a product made from minimally processed
   cod skin is more effective
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309025637.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
+- Beauty & Skincare
 ---
 
 ![Kerecis product](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309025637.jpg?w=840)

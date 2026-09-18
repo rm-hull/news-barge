@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: A free underwater hockey session is being offered at Yearsley Swimming
   Pool in York.
 image: https://www.gazetteherald.co.uk/resources/images/21383348.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 A free underwater hockey session is being offered at a swimming pool in York.

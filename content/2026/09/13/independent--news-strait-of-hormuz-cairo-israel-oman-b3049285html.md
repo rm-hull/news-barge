@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: State-run media in Iran say an Iranian commercial vessel has been struck
   off Qeshm Island near the Strait of Hormuz, with one person killed and three wounded
 image: https://static.independent.co.uk/2026/09/07/22/APTOPIX_Iran_War_Strait_of_Hormuz_29749.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 An Iranian commercial ship is struck near Strait of Hormuz with 1 dead, Iranian media say

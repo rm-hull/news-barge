@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: A new non-domestic childminding service is set to open in the centre
   of Bradford, offering a personalised alternative to nursery care.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21331261.jpg?type=og-image&xType=0&yType=289
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: Khalisha Bahar)*

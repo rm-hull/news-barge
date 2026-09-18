@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Police has moved to reassure the public after a video appearing to show
   a man exposing himself at a bus stop began circulating on social media again.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21064023.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Pixabay)*

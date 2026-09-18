@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: New images have revealed what a major new housing development on the
   edge of Darlington will look like when completed.
 image: https://www.thenorthernecho.co.uk/resources/images/21456633.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: ASHBERRY HOMES)*

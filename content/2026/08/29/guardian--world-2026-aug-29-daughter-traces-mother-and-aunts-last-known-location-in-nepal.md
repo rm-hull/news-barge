@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: Tulshi Patel says Hemangini Jitendra Patel and aunt, Hema Sunil Amin,
   were last seen at Friendship Bridge on Nepal-China border
 image: https://i.guim.co.uk/img/media/dde790af8d7195ea001629f5a97bda950a6c0fb2/62_0_1875_1500/master/1875.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec7c61ba8e00f46cce6bd986d71e1b46
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 The daughter of a woman missing in Nepal has told how she traced her mother’s location through a TikTok video posted hours before the devastating flash flood hit.

@@ -11,6 +11,11 @@ description: Los Angeles Clippers owner Steve Ballmer was suspended for one year
   a $30 million fine for violating salary cap circumvention rules in a case involving
   Kawhi Leonard
 image: https://static.independent.co.uk/2026/09/02/23/Clippers_Investigation_Basketball_7371_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Sports
 ---
 
 The NBA imposed a sweeping punishment against the Los Angeles Clippers on Wednesday for violating salary cap circumvention rules, suspending owner Steve Ballmer for one year and forcing the team to forfeit five draft picks.

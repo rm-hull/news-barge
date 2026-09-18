@@ -9,6 +9,12 @@ published: '2026-09-02T00:00:00Z'
 description: A pit bike-style off-road motorcycle has been seized by police following
   reports of anti-social riding in a residential area of Ripon.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmQyNjUxMmIyLTk1YTMtNGQ4My04N2IzLTNhMWVjZDY1NTMyMDpmNjBmNTAwYi1hZmYxLTQ2NjYtOGU1Mi02OWY4MWYzZDRkMzk=.jpg?crop=3:2,smart&trim=&width=877&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Travel
+- Society & Culture
+- News & Politics
 ---
 
 # North Yorkshire Police seize off-road pit bike after reports of anti-social riding in Ripon

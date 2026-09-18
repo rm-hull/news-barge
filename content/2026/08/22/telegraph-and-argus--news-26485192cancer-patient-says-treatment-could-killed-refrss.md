@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: A Bradford cancer patient has claimed the treatment he received at the
   BRI surrounding the taking of a high-dose drug was incorrect and "could…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21355992.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Newsquest)*

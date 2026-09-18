@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Nottingham Forest have agreed a fee worth around £50m to sign Chelsea
   striker Liam Delap.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c077/live/8794ddf0-a0ae-11f1-a54e-272d756c341e.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Liam Delap](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c077/live/8794ddf0-a0ae-11f1-a54e-272d756c341e.jpg)

@@ -9,6 +9,12 @@ published: '2026-08-27T00:00:00Z'
 description: All Creatures Great and Small will be back on our TV screens next month
   for season 7, and to celebrate, Channel 5 has released these first look images.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ4YThmYzBkLWNlMTgtNGI4Ny1iMjc1LTJkYmUxNDE1YTNlMTowMDhhN2M3Mi0wNGY4LTQ1N2UtYTMxYi1jNGJlYmIwYWM4YWI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
+- Arts & Culture
 ---
 
 Although 5 is keen to hold back most of the surprises until series seven is launched and each of the six episodes airs weekly (plus a Christmas Special in December), these photos reveal some intriguing insights into some of the storylines - and relationship developments - that will be coming up in the first episode and beyond.

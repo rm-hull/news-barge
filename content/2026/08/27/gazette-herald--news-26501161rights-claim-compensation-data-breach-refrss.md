@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: It is important to know your rights if you have been affected by a data
   breach and how you can claim compensation for any distress it has caused.
 image: https://www.gazetteherald.co.uk/resources/images/21379417.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

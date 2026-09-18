@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Burnham has called for all views to be respected as MPs vote in two weeks
   on legalising assisted dying in England and Wales.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05aa/live/7438c100-a300-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Andy Burnham looks pensive as he puts his hand to his chin and looks sideways.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/05aa/live/7438c100-a300-11f1-a291-b542ee92de7c.jpg)

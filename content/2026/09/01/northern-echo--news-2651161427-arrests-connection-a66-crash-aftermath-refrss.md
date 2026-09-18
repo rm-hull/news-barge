@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Twenty-seven people have now been arrested as police continue their crackdown
   on serious and organised crime in the wake of the fatal A66 crash.
 image: https://www.thenorthernecho.co.uk/resources/images/21383199.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: NORTHERN ECHO)*

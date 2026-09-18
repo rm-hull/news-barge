@@ -10,6 +10,9 @@ description: Robert Kocharyan, who leads the Moscow-friendly opposition and main
   family businesses. Analysts say the move sent "a signal to the Kremlin" about Pashinyan's
   intent to confront Russian-aligned political forces.
 image: https://images.euronews.com/articles/stories/09/88/86/30/1200x675_cmsv2_ba31b6e5-0d5d-501a-8f09-41404a09a431-9888630.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Robert Kocharyan, who leads the Moscow-friendly opposition and maintains close ties with Putin, was detained alongside his son and four others in raids on family businesses. Analysts say the move sent "a signal to the Kremlin" about Pashinyan's intent to confront Russian-aligned political forces.

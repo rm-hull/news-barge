@@ -9,6 +9,9 @@ published: '2026-09-17T00:00:00Z'
 description: AI firms are reportedly buying RTX 5090s by the pallet, which Nvidia's
   own driver license has prohibited since 2017
 image: https://cdn.mos.cms.futurecdn.net/4eNnJHesZM8kGr2NnZtC2U-970-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![RTX 5090 AI server](https://cdn.mos.cms.futurecdn.net/4eNnJHesZM8kGr2NnZtC2U.jpg) 

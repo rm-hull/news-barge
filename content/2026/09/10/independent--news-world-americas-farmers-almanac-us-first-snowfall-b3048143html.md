@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: ‘Keep the snow shovel, rain boots, and ice scraper close at hand. This
   winter, you may need all three,’ warned forecaster Caleb Weatherbee
 image: https://static.independent.co.uk/2026/08/10/17/53/GettyImages-2204942354.jpg?trim=93,0,94,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Americans better bundle up this winter as forecasters are predicting a season full of rain, snow and ice.

@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: California residents have a legal right to access the data that companies
   collect about them. Actually exercising that right is a burdensome nightmare.
 image: https://media.wired.com/photos/6a905ea04534ff9dbe4c0ba5/191:100/w_1280,c_limit/DataRequest.jpg
+categories:
+- Technology & Software
+- Science
+- Health & Fitness
 ---
 
 I filed a request with McDonald’s earlier this month to access all of the personal data the fast food company collected about me, and I received a stunning 515-page report a few days later that detailed my app interactions in granular detail and predicted I would never stop eating there.

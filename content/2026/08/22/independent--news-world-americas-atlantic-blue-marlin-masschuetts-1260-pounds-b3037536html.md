@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: ‘People fish their entire lives and never come close to a catch like
   this, hats off to Captain Damon Sacco and the crew on the catch of a lifetime’
 image: https://static.independent.co.uk/2026/08/22/14/45/AP26233662848717.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Damon Sacco had never encountered anything resembling the giant fish he and fellow anglers fought for hours in waters off Massachusetts.

@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Plans to house asylum seekers at a former North Yorkshire military base
   have been formally opposed by a town council 50 miles away from the site.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjgxZWIzNjdkLWMxZGUtNGNjMi04NTU2LWEwNTg4OTRjNWQ2ODozMjRmMzVlNy1hMWFmLTQyZDItYjJiMC1kMTE1MzFlMTlkYTk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Linton-on-Ouse: Town council objects to military base asylum plans 50 miles away

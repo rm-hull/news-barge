@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: An investment is helping to tackle cable theft, vandalism and trespass
   on the East Coast Main Line in a collaboration between Network Rail and the…
 image: https://www.gazetteherald.co.uk/resources/images/21405060.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 A £110,000 investment is helping to tackle cable theft, vandalism and trespass on the East Coast Main Line through proactive security patrols.

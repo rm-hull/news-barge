@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A Ripon-based public relations company has gone into liquidation with
   creditors owed almost £30,000.
 image: https://www.yorkpress.co.uk/resources/images/21436734.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Gary Lawson)*

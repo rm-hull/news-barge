@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Democrat Eric Hafner, to be released in 2036, also ran for seat in 2024,
   securing spot on that general election ballot
 image: https://i.guim.co.uk/img/media/ead5213d4a47883c0dc707ad91a27070b554c971/597_0_5965_4774/master/5965.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b149e7fb88c98e5d24efdac63617987b
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A man who is serving time in a federal prison in New York advanced on Wednesday from the primary for Alaska’s lone US House seat.

@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Hampshire Police officers initially arrested the student and placed him
   in handcuffs as he lay dying.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2571/live/8b2d0a90-a087-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A young man with short dark hair is smiling to camera. Balloons with 18 on them can be seen in the background](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/2571/live/8b2d0a90-a087-11f1-a291-b542ee92de7c.jpg)

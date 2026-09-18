@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: 'We''re four months post Outlander finishing for good, but prequel series
   Outlander: Blood of my Blood season 2 has confirmed Easter eggs.'
 image: https://cdn.mos.cms.futurecdn.net/myGg799ocMMaYj2442vKCo-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Brian takes Ellen's hand in his](https://cdn.mos.cms.futurecdn.net/myGg799ocMMaYj2442vKCo.jpg) 

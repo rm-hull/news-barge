@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Experts have sent a warning to parents about the high levels of sugar
   in baby food pouches
 image: https://static.independent.co.uk/2022/07/08/00/a5cec6b42196f8422a91896503991412Y29udGVudHNlYXJjaGFwaSwxNjU3Mjc0MTQ3-2.65649493.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
+- Family & Parenting
 ---
 
 Baby food pouches sold in UK supermarkets are effectively "equivalent to fruit smoothies" and should not be given to children under a year old, experts have warned.

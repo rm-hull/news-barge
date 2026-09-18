@@ -8,6 +8,8 @@ published: '2026-08-31T00:00:00Z'
 description: Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini
   on the Pentagon's central portal for AI tools.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024
+categories:
+- Technology & Software
 ---
 
 The Pentagon has launched versions of OpenAI’s ChatGPT and xAI’s Grok, giving 3 million civilian and military personnel access to generative AI tools that have been tailored to “warfighter needs.”

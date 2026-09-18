@@ -7,6 +7,11 @@ scraped_at: '2026-09-15T11:28:05Z'
 published: '2026-09-15T00:00:00Z'
 description: NOMINATIONS are now open for a prestigious award ceremony.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21454495.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

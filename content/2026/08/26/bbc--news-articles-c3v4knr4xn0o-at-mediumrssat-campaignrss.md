@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: The Love Island and Traitors US TV personality will host a reboot of
   the popular dating show.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40c0/live/4dec7cc0-a16c-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ![A composite image of Cilla Black in 2013 in front of a sparkly purple background, and Maura Higgins in January 2026](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/40c0/live/4dec7cc0-a16c-11f1-a291-b542ee92de7c.jpg)

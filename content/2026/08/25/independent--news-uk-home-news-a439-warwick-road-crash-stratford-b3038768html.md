@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Warwickshire Police has referred itself to the Independent Office for
   Police Conduct (IOPC)
 image: https://static.independent.co.uk/2023/08/25/15/3_2.png?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A man has died and a woman is critically injured after a pursuit involving a police vehicle and a car near Stratford.

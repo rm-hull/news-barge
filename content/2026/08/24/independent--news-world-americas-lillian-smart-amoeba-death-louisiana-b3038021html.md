@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: ‘The injuries to her brain were too severe for her little body to recover
   from,’ Lilian Smart’s family wrote on Facebook
 image: https://static.independent.co.uk/2026/08/24/7/27/782169146_122099375619446574_3374054569947885979_n-eeb42479.jpeg?trim=240,214,1084,237&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 An 8-year-old girl has died after contracting a brain-eating amoeba likely contracted while swimming at a lake in Louisiana.

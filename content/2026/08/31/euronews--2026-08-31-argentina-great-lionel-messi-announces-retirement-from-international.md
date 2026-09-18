@@ -9,6 +9,11 @@ description: The decision comes shortly after the death of his father, Jorge Mes
   which prompted the former Barcelona and Paris Saint-Germain player to consider his
   future.
 image: https://images.euronews.com/articles/stories/09/89/60/91/1200x675_cmsv2_f81d025c-41bf-5e54-85fe-d3f19d68a6cb-9896091.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
+- History
 ---
 
 ## The decision comes shortly after the death of his father, Jorge Messi, which prompted the former Barcelona and Paris Saint-Germain player to consider his future.

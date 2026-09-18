@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Book recreates recipes from period following end of Spanish civil war
   when people faced food shortages
 image: https://i.guim.co.uk/img/media/12728f301eb465e6b186e677cfab7274934ec4ed/0_946_1950_1560/master/1950.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a06aae0527b7539da2fe8a9c5e3a00f2
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- Food & Cooking
 ---
 
 Few dishes are simpler to prepare than Spain’s signature dish of *tortilla de patatas*, which – aside from disputes about onions – requires nothing more than two basic ingredients and a pinch of salt. But where to begin if you have neither eggs nor potatoes?

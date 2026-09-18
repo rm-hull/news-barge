@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A street dealer who worked as the “night shift operator” for a Bradford-based
   “ring and bring” drugs line peddling heroin and crack cocaine…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21470058.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: West Yorkshire Police)*

@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: A Northumbria Police detective has been sacked after he was found to
   have lied and altered police intelligence records to cover his own back.
 image: https://www.thenorthernecho.co.uk/resources/images/17253765.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: NORTHERN ECHO)*

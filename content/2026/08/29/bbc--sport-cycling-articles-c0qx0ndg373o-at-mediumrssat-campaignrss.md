@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Tadej Pogacar needs surgery on a broken collarbone after sustaining multiple
   injuries in the crash that led to him abandoning the Vuelta a Espana.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7c80/live/c8178300-a3dd-11f1-9323-c53d27c293d7.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Tadej Pogacar wearing a cap](https://ichef.bbci.co.uk/ace/standard/928/cpsprodpb/7c80/live/c8178300-a3dd-11f1-9323-c53d27c293d7.jpg)

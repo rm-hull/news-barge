@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: The ruling bars the United States Postal Service from implementing restrictions
   that experts and election officials say would upend voting in November.
 image: https://media.wired.com/photos/6aa2f7f49bfef15e7a640ba4/191:100/w_1280,c_limit/GettyImages-2280067128.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
+- Society & Culture
 ---
 
 The Supreme Court has rejected the Trump administration’s bid to impose severe restrictions on mail-in voting just weeks ahead of the midterms.

@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The discovery of seven women's bodies around Kempton Park, east of Johannesburg,
   has sparked fear and a high-level police investigation
 image: https://static.independent.co.uk/2026/09/15/13/South_Africa_Women_Deaths_5472_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A woman’s body was found on Tuesday in the same area east of Johannesburg in South Africa where the discovery of several other victims in the past two months has sparked fear of a potential serial killer at large and led to a public warning by the police.

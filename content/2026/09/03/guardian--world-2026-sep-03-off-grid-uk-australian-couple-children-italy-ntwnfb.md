@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: After judge allows partial access rights, Catherine Birmingham and Nathan
   Trevallion say the enforced separation ‘broke each of our hearts’
 image: https://i.guim.co.uk/img/media/e814a9f709f171d5e2714e08599e2938cefffc2a/0_117_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=125eb77f20c56d1c3518ae5b4a53fcd6
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A couple have told of their heartache, trauma and stress after fighting for two years for their right to parent their children as they choose in the glare of the world’s attention.

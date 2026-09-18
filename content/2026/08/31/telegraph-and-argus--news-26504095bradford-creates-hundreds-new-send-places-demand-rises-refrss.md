@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: Hundreds of new specialist education places are being planned for children
   with additional needs
 image: https://www.thetelegraphandargus.co.uk/resources/images/18103294.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
+- Family & Parenting
 ---
 
 *(Image: T&A)*

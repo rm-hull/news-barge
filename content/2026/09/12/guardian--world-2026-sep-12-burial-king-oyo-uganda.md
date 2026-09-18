@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Royal guards carry casket through streets of Fort Portal amid row over
   appointment of Edward Rukidi Kijanangoma
 image: https://i.guim.co.uk/img/media/96f464b8587057f7a6bf89c2eeb1330f76f923b3/556_0_4388_3511/master/4388.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=28a4d9c38b7bc203e028e8df677498b3
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Uganda’s King Oyo Nyimba Kabamba Iguru Rukidi IV, long the world’s youngest monarch, has been buried among the tombs of his royal forebears as his Tooro kingdom looked to put a bitter succession battle behind it.

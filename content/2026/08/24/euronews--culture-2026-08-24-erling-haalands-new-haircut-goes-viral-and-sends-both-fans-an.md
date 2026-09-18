@@ -10,6 +10,10 @@ description: 'The Manchester City superstar has debuted a new look for the start
   the Premier League season, and fans are divided. Zlatan Ibrahimovic told Haaland:
   “What did you do? You lost a bet or what? Block me and erase my number.”'
 image: https://images.euronews.com/articles/stories/09/88/57/53/1200x675_cmsv2_4dce5f54-98ac-53ae-9fa0-67593354223a-9885753.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## The Manchester City superstar has debuted a new look for the start of the Premier League season, and fans are divided. Zlatan Ibrahimovic told Haaland: “What did you do? You lost a bet or what? Block me and erase my number.”

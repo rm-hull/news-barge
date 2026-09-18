@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: Charlie Connelly explores the places behind the voice of the Shipping
   Forecast in his touring stage show. He speaks to Laura Reid about the national institution.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjVjMWJmOTI3LThmY2EtNGQ3OC1iOGVmLWRlNDEwMTQyOGIzZDo2ZDlhYTQ0Ni0wNTlkLTQ2YzItYmU0YS04Mjk1YmNkYzAyMGE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Charlie Connelly: 'It's unadulterated goodness - that's why Shipping Forecast has captured hearts'

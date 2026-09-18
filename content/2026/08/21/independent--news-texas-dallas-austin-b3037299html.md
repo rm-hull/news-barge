@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Karmelo Anthony’s bid for a retrial after his murder conviction in the
   stabbing death of an athlete at a high school track meet has resumed
 image: https://static.independent.co.uk/2026/08/21/19/Track_Meet_Student_Killed_345_3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Karmelo Anthony had planned to testify during his Texas murder trial over a track meet stabbing but backed out amid sudden concerns that prosecutors would raise potentially damaging evidence about the teenager's past, one of his lawyers said Friday.

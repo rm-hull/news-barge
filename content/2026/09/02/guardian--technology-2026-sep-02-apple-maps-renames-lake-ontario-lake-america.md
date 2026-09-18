@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Tech company submits to controversial Trump order to rename body of water
   amid US trade spat with Canada
 image: https://i.guim.co.uk/img/media/c8f81ed4d96912f58d06ede265b4c825d74adbdf/60_0_2001_1600/master/2001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6b05018fa91f975b215b45c22451302b
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Apple has renamed Lake Ontario to “Lake America” for US users of its Maps app, after an executive order from Donald Trump to change the name of the Great Lake amid his trade spat with Canada.

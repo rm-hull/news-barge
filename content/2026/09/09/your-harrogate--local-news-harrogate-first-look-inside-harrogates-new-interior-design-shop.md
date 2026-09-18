@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Your Harrogate has been given a first look inside the town's newest interior
   design shop ahead of its opening this week.
 image: https://mmo.aiircdn.com/409/6a43ceba15fd521ee2d.jpg
+categories:
+- Local
+- Harrogate
+- Lifestyle & Fashion
+- Home, Garden & DIY
 ---
 
 ![](https://mmo.aiircdn.com/409/6a43ceba15fd521ee2d.jpg) 

@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: Dali's colorful, compact subwoofer is the perfect partner for its Kupid
   and Sonik speakers
 image: https://cdn.mos.cms.futurecdn.net/4kUpFvUWG273RyxcDygNAV-2048-80.png
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![Dali Basik Sub in yellow, next to a sideboard with a yellow Dali speaker on top](https://cdn.mos.cms.futurecdn.net/4kUpFvUWG273RyxcDygNAV.png) 

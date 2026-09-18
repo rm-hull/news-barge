@@ -8,6 +8,9 @@ scraped_at: '2026-08-21T13:06:42Z'
 published: '2026-08-21T00:00:00Z'
 description: Sandisk NAS 800 SSD crosses into enterprise endurance territory
 image: https://cdn.mos.cms.futurecdn.net/zc5YLtJmG95WzxtXpMjw3L-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Sandisk NAS 800](https://cdn.mos.cms.futurecdn.net/zc5YLtJmG95WzxtXpMjw3L.jpg) 

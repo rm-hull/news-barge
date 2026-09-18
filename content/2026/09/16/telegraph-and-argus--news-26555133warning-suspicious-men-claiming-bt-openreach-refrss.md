@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: A group of "suspicious" men claiming to be from BT/Openreach has prompted
   a police warning.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21462512.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: West Yorkshire Police)*

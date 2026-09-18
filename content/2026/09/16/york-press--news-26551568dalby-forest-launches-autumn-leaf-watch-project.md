@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Forestry England is inviting people to take part in its autumn leaf watch
   citizen science project at Dalby Forest, helping track seasonal changes…
 image: https://www.yorkpress.co.uk/resources/images/21457308.jpg?type=og-image
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 *(Image: Forestry England/Crown copyright)*

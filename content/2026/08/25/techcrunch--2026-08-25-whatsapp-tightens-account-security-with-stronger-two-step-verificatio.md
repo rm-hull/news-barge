@@ -9,6 +9,8 @@ published: '2026-08-25T00:00:00Z'
 description: WhatsApp’s two-step verification previously relied on a six-digit PIN,
   but now users can choose a longer, alphanumeric password with special characters.
 image: https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800
+categories:
+- Technology & Software
 ---
 
 WhatsApp announced Tuesday that it’s launching new security features and updates to help users keep their accounts secure, including stronger two-step verification and the ability to add more than one passkey to your account. The Meta-owned app is also adding context to calls from unknown numbers.

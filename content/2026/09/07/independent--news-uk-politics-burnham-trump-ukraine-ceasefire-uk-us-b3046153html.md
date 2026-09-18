@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T19:53:04Z'
 published: '2026-09-07T00:00:00Z'
 description: The Prime Minister spoke to Mr Trump on Monday afternoon
 image: https://static.independent.co.uk/2026/07/19/15/39/Burnham-Trump-split.png?trim=0,108,0,142&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Prime Minister Andy Burnham and US President Donald Trump agreed on the need to "continue working towards a ceasefire that prevented more loss of life" following a fresh wave of talks, Downing Street said.

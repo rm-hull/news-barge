@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A SPECIALIST academy is celebrating outstanding GCSE results that are
   helping to challenge "outdated assumptions" about neurodivergent…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21368846.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Science
 ---
 
 *(Image: Mark Wheelwright)*

@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Get all of the latest People news from Harrogate Advertiser. Providing
   a fresh perspective for online news.
 image: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Careers & Productivity
 ---
 
 ![Celebrating bus passes victory - Harrogate and Knaresborough MP Tom Gordon with Jackie Snape, CEO of Disability Action Yorkshire charity. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjA1MmI4ODI1LWE5ZDgtNGU4Yi05NmZlLWJlZDY3MjBhZjExYjpkZmU1YjI4ZS0zODA0LTQyMzMtYTNmNy1mZmY0MTNiMjdmYWE=.jpg?crop=5:4,smart&trim=&quality=70&width=616)

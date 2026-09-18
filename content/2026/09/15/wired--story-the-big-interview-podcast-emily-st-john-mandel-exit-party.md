@@ -9,6 +9,11 @@ description: Emily St. John Mandel’s 2014 novel, “Station Eleven,” turned 
   something of a pandemic prophet. Her new novel, “Exit Party,” imagines two possible
   American futures—totalitarian state and post-civil-war chaos.
 image: https://media.wired.com/photos/6aa454bdcc5cd3bf9174f64e/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Emily-St-John-Mandel-610640284.jpg
+categories:
+- Technology & Software
+- Science
+- History
+- Arts & Culture
 ---
 
 If the United States collapses in the near future, you’ll no doubt be tempted to point a few fingers. Just don’t blame Emily St. John Mandel.

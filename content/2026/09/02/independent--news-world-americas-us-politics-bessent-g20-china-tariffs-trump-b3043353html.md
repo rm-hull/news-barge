@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: Treasury Secretary Scott Bessent said Tuesday that 19 of the members
   of the G20 had agreed to address streams of “cheap exports”
 image: https://static.independent.co.uk/2026/09/02/10/2026-09-02T011218Z_1204959869_RC2NANAWLVMN_RTRMADP_3_G20-FINANCE.JPG?trim=0,4,0,4&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Treasury Secretary Scott Bessent stated on Tuesday that 19 members of the G20 supported measures to curb streams of inexpensive exports driving global economic imbalances, noting that China was the single nation to object.

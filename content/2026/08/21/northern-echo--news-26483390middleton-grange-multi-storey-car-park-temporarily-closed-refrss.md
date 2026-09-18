@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: Hartlepool Borough Council have said that the car park at Middleton Grange
   Shopping Centre will face a temporary closure today (August 21).
 image: https://www.thenorthernecho.co.uk/resources/images/21352753.jpg?type=og-image&xType=0&yType=71
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: KEITH COLLIS)*

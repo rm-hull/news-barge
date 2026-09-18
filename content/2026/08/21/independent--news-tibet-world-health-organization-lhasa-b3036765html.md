@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: In the high-altitude region of Tibet, people continue to turn to a centuries-old
   medical system to treat some ailments, often alongside conventional medicine.
 image: https://static.independent.co.uk/2026/08/21/02/China_Tibetan_Medicine_Photo_Gallery_18169.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 In the high-altitude region of Tibet, people continue to turn to a centuries-old medical system to treat some ailments, often alongside conventional medicine.

@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: London Fire Brigade (LFB) said the blaze on Landmann Way, in Deptford,
   involves about 50 tonnes of household waste stored at a waste facility
 image: https://static.independent.co.uk/2026/08/18/21/01M0BA5ZTKGA7XCJQF5Z1QXCPB.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Around 100 firefighters and 15 fire engines are battling a waste fire in southeast London.

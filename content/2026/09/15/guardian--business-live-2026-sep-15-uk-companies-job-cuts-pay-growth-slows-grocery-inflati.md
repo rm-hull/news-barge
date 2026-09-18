@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Wage growth – used to set triple-lock pension – slows to 3.9%, meaning
   state pension should hit £13,000 next year
 image: https://i.guim.co.uk/img/media/f2f9599d15cc295c15a25418367cb77c148c6a83/1542_1383_2104_1683/master/2104.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ceb265cedd29159e6242b7d67dd44da8
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 State pension set to rise by 3.9% after wage growth data

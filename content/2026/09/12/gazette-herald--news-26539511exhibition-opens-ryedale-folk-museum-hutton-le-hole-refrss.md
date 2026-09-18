@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: An artistic pilgrimage through some of the North’s most historic landscapes
   is the focus of a new exhibition.
 image: https://www.gazetteherald.co.uk/resources/images/21435841.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 An artistic pilgrimage through some of the North’s most historic landscapes is the focus of a new exhibition.

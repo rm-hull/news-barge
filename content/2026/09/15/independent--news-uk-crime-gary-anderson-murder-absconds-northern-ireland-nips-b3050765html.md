@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Police have appealed directly to Gary Anderson to hand himself in, while
   the public have been advised not to approach him
 image: https://static.independent.co.uk/2026/09/15/19/01M2GKBJEWACT799N0F0T9J4QZ.jpg?trim=54,0,218,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A murderer who absconded while temporarily out of prison had his initial application for compassionate release refused – only for a court to overturn the decision, the Justice minister had said.

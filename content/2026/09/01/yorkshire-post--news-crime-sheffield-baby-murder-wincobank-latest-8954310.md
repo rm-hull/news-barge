@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: A newborn baby girl whose death sparked a murder investigation died from
   stab wounds, police have said.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/01/10/58/WhatsApp-Image-2026-09-01-at-11-18-55-(1).jpeg?trim=0,156,0,155&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Newborn girl found in Sheffield house died from stab wounds, police say

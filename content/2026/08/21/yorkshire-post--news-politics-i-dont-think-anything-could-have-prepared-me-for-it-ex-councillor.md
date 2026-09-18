@@ -8,6 +8,12 @@ published: '2026-08-21T00:00:00Z'
 description: A former Sheffield councillor, who is a Muslim woman, has revealed the
   racism she experienced in the role.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjg4YmQ2MDhiLTgwZjAtNDNhMC1iOWQwLTQ3MjBlYTcxYjBmYTozMjJkYzgwZi0zMDdmLTQ3OGEtODNlZi0wNGVkODRkZDJlZGQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- News & Politics
 ---
 
 # “I don’t think anything could have prepared me for it”: Ex-councillor reveals true extent of racist abuse

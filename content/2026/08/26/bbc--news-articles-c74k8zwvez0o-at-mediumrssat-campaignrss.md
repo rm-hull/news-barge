@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: BBC music correspondent Mark Savage looks back on the legacy of the "irreplaceable"
   late singer.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a700/live/226708c0-a141-11f1-9311-09d4e1fc9016.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ![Dolly Parton with both arms raised on stage in 1983](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a700/live/226708c0-a141-11f1-9311-09d4e1fc9016.jpg)

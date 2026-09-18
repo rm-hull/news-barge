@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Four people accused of murdering a newborn girl who suffered 33 wounds
   in 15 separate stabbings will go on trial next year, a judge has ruled.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/02/11/19/Your-paragraph-text-2026-09-02T123354-800.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Trial date set for four accused of Sheffield baby murder

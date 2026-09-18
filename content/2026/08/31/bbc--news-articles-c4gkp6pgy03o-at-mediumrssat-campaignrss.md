@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The exhibition faced criticism over the British fashion designer's conviction
   for making antisemitic remarks in 2011.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/87bf/live/7e3a5850-a547-11f1-8689-6589354d0f8e.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![John Galliano attends The 2019 Met Gala Celebrating Camp: Notes on Fashion at Metropolitan Museum of Art on May 06, 2019 in New York City](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/87bf/live/7e3a5850-a547-11f1-8689-6589354d0f8e.jpg)

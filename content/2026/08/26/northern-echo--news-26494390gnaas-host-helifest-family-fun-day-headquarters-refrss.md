@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: The Great North Air Ambulance Service will host its annual Helifest family
   fun day at Progress House on Urlay Nook Road, featuring entertainment,…
 image: https://www.thenorthernecho.co.uk/resources/images/21370350.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 The North East's air ambulance charity is inviting families to a bank holiday fun day packed with entertainment, activities and emergency services displays to help raise funds for its life-saving work across the region.

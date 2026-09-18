@@ -8,6 +8,12 @@ published: '2026-08-21T00:00:00Z'
 description: Police are appealing for information after a series of vehicle interference
   incidents in Tadcaster.
 image: https://www.gazetteherald.co.uk/resources/images/11028567.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- Automotive
 ---
 
 POLICE believe a person is targeting cars in a North Yorkshire town.

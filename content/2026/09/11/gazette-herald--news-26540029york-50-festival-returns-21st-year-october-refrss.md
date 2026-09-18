@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: The York 50+ Festival, celebrating age, joy, and connection, will return
   to York this autumn.
 image: https://www.gazetteherald.co.uk/resources/images/21436688.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 A festival celebrating age, joy and connection will return to York this autumn.

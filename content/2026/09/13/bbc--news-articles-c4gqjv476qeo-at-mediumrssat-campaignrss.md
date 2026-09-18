@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: The cost of renting is expected to rise by 4% or 5% a year by December,
   according to property website Zoopla.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d85/live/c3782b50-ade3-11f1-9a5c-a7a4083eb832.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Disappointed looking young woman hugs a cushion.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0d85/live/c3782b50-ade3-11f1-9a5c-a7a4083eb832.jpg)

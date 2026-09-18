@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: US president say on visit to republic that unification will happen eventually
   so ‘may as well happen now’
 image: https://i.guim.co.uk/img/media/1d12c01e40952b56ec736ec5da8420b14770fb88/2423_132_1306_1045/master/1306.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=571b18f6be1faf775d421d4db6c64120
+categories:
+- UK
+- News & Politics
+- History
+- Society & Culture
 ---
 
 Donald Trump has said he would “love” to see a united Ireland and that it “may as well happen now”.

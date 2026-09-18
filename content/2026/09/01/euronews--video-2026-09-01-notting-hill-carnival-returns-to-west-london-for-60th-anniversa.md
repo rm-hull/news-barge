@@ -9,6 +9,10 @@ description: Video. Notting Hill Carnival returns for its 60th anniversary, cele
   British Afro-Caribbean culture with music, dancing and colourful costumes in west
   London.
 image: https://images.euronews.com/articles/stories/09/89/66/08/1200x675_cmsv2_515eae75-2e5b-5b71-88fe-1366ca5acc7f-9896608.jpg
+categories:
+- Europe
+- News & Politics
+- Music
 ---
 
 Notting Hill Carnival returned to west London this weekend for its 60th anniversary, bringing music, colourful costumes and dancing to the streets.

@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The chief constable of West Yorkshire Police will lead the force until
   2029
 image: https://www.thetelegraphandargus.co.uk/resources/images/21456532.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 *(Image: Supplied)*

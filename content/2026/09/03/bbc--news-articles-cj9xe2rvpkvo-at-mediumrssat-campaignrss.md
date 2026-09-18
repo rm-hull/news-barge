@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Tributes are paid to John Pickles, who formed the novelty pop act in
   Rotherham in 1989.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8247/live/e924e6c0-a7cd-11f1-809e-25fc74c1ec7d.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![A black and white picture of pop band 'Jive Bunny and the Mastermixers' posing with someone in a bunny costume in Paris, circa 1985. All three are leaning against the railing of a bridge. The bunny is given a thumbs up gesture.](https://ichef.bbci.co.uk/ace/standard/545/cpsprodpb/8247/live/e924e6c0-a7cd-11f1-809e-25fc74c1ec7d.jpg)

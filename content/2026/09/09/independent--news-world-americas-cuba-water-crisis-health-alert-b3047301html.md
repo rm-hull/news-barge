@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Daily power outages now surpass 24 hours and clean running water is scarce,
   leading to an increase in gastrointestinal illnesses
 image: https://static.independent.co.uk/2026/09/09/11/Cuba_Psychological_Grind__68_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Cubans have painted a grim picture of daily life as multiple crises affecting the island nation worsen, with locals forced to rummage through trash for food and sleep on the street to survive.

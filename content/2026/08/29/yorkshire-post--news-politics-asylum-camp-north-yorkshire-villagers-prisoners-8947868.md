@@ -8,6 +8,12 @@ published: '2026-08-29T00:00:00Z'
 description: Sir Alec Shelbrooke MP has said the Government’s plans are already impacting
   people in the village, with children being pulled out of the primary school.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjBjYTBkNjEzLTZiODUtNGJkYy1iOTA1LTJkZDZhNDBiNTg5MDo1NTQ0NzI5Zi0wZWVlLTQxZGItOGI5MS01MjQ2ODEwMzEzMDM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 # Linton-on-Ouse: asylum camp could make North Yorkshire villagers 'prisoners in their own homes'

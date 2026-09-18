@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: A LANDMARK Whitby hotel will be repainted after owners turned part of
   its façade pink without permission.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjJjYjMxOTc5LWNjMGQtNGE2ZC1iMjE5LWE4OTFjMTkxNDgzZjoxMzA5MmNiYi0wNWZlLTRkNmEtOWFjMy05MDBjYWRjODVmOGU=.png?crop=3:2,smart&trim=&width=706&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Listed Whitby hotel painted pink without permission to be redone

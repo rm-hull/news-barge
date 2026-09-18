@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Police promise to crack down on what they describe as an epidemic of
   'balaclava wearing nuisance'.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21377574.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: WYP)*

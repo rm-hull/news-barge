@@ -9,6 +9,11 @@ description: The prime minister has been urged to bring the UK back into the Eur
   Union’s single market. But would it bring economic boosts? Dan Haygarth, Athena
   Stavrou and Karl Matchett find out.
 image: https://static.independent.co.uk/2026/08/20/00/3541c254e97cd427fc3c0f8faeaff11bY29udGVudHNlYXJjaGFwaSwxNzg3MjUyODM0-2.85453331.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Andy Burnham has been told that taking Britain back into the EU single market would secure him a general election victory and give him a legacy akin to Tony Blair’s - but would it provide an economic boost the country so dearly needs?

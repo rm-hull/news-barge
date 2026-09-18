@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: The aristocrat is serving a 14-year sentence after her daughter died
   in a tent on the South Downs
 image: https://static.independent.co.uk/2026/02/12/00/75e4ca35d1748ca15717a46816bb02e5Y29udGVudHNlYXJjaGFwaSwxNzcwOTAyNjk0-2.75551557.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- True Crime
 ---
 
 Aristocrat Constance Marten has been granted permission to appeal the 14-year jail sentence she was handed for her newborn baby’s death.

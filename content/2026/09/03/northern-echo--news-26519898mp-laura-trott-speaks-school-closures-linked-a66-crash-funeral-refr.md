@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: The Shadow Education Secretary has spoken out on school closures due
   to a funeral linked to the fatal A66 crash.
 image: https://www.thenorthernecho.co.uk/resources/images/21357921.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 The Shadow Education Secretary said children should not be kept out of classrooms after schools announced they would shut early due to a funeral linked to the fatal A66 crash.

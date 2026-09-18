@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: BT's massive network means that it could make a killing out of recycling
   old cables.
 image: https://cdn.mos.cms.futurecdn.net/WLkSxNzEFCG23B5WF4koxX-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![a bundle of wires for recycling](https://cdn.mos.cms.futurecdn.net/WLkSxNzEFCG23B5WF4koxX.png) 

@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: The M&S Beauty Advent Calendar returns on October 13 with Estée Lauder,
   Benefit, Aveda and more. Find out how to get early access.
 image: https://www.gazetteherald.co.uk/resources/images/21426858.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 Beauty fans have been given a first look at the M&S Beauty Advent Calendar 2026, with a collection of products worth more than £460 available for £75.

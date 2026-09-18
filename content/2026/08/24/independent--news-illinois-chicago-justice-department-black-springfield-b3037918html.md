@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Sean Grayson, a former Illinois sheriff’s deputy, has died while serving
   a 20-year prison sentence
 image: https://static.independent.co.uk/2026/08/24/02/Deputy_Shooting_911_Response_4_593.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Sean Grayson, a former Illinois sheriff’s deputy whose fatal shooting of Sonya Massey inside her home became a flashpoint over police use of force, died Sunday while serving a 20-year prison sentence.

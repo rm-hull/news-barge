@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Hibernian sack head coach David Gray six games into the Scottish Premiership
   season, ending the former captain's 12-year stay at Easter Road.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4b4f/live/cac13e20-b1f2-11f1-bd8b-ed45be4f6895.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 ![David Gray has been removed from his post after Tuesday's home defeat to Kilmarnock](https://ichef.bbci.co.uk/ace/standard/888/cpsprodpb/4b4f/live/cac13e20-b1f2-11f1-bd8b-ed45be4f6895.jpg)

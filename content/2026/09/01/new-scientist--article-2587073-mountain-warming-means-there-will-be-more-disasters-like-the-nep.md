@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Mountainous regions across the planet are warming especially fast, melting
   the ice that glues rocky slopes and glaciers together
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_309798787.jpg
+categories:
+- Science
+- Technology & Software
+- Travel
+- Food & Cooking
 ---
 
 ![The aftermath of severe flooding along the Bhotekoshi river in Nuwakot, Nepal, on 28 August](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_309798787.jpg?w=840)

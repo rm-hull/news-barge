@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T04:20:46Z'
 published: '2026-09-02T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/06/york-recycling-boxes-collections-cyc.webp
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 Timescales for proposals to ditch recycling boxes for wheelie bins in York have been set out along with more details about the scheme.

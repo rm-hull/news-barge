@@ -8,6 +8,8 @@ published: '2026-09-09T00:00:00Z'
 description: With physical media making a comeback, the Dell DW316 USB DVD writer
   lets you do everything from burn discs to watching 20-year-old wedding videos.
 image: https://cdn.mos.cms.futurecdn.net/PBR7t4ofYpkqgeoTqN5KyL-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Dell External USB Slim DVD-RW Drive](https://cdn.mos.cms.futurecdn.net/PBR7t4ofYpkqgeoTqN5KyL.jpg) 

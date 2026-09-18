@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Andrew Bailey told MPs that energy prices ‘could be higher still’ as
   disruption in the Strait of Hormuz continues
 image: https://static.independent.co.uk/2026/08/28/18/f71f8fa89b14d9ec30aad368831eaf9aY29udGVudHNlYXJjaGFwaSwxNzg4MDIxODEz-2.85452618.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The boss of the Bank of England has warned energy prices could rise even higher as Britain continues to feel the impact of Donald Trump’s war on Iran and the closure of the Strait of Hormuz.

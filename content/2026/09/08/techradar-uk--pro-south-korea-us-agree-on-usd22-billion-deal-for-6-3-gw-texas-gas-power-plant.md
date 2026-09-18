@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: South Korea could pour $22.3 billion into a Texas gas plant built to
   power America’s rapidly growing AI data center boom
 image: https://cdn.mos.cms.futurecdn.net/tHmeSzeFHMpEMVM3KENNUQ-1920-80.png
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 ![Nuclear Power Plant](https://cdn.mos.cms.futurecdn.net/tHmeSzeFHMpEMVM3KENNUQ.png) 

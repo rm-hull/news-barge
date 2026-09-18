@@ -8,6 +8,10 @@ scraped_at: '2026-09-12T12:09:11Z'
 published: '2026-09-12T00:00:00Z'
 description: Meta's Muse wants to take the life out of your life
 image: https://cdn.mos.cms.futurecdn.net/n2dFzA7TpfgKDWytxEnzX4-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![Meta Muse AI agent](https://cdn.mos.cms.futurecdn.net/n2dFzA7TpfgKDWytxEnzX4.jpg) 

@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: PC Mason O'Connor is dismissed after a hearing found he had breached
   standards of professional behaviour, the Met said.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/113c/live/3fbe7290-b128-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ![The sign outside Charing Cross police station in the dark.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/113c/live/3fbe7290-b128-11f1-bc1f-3f186ca4140c.jpg)

@@ -9,6 +9,10 @@ description: The witness said he had little love for the man on trial for the ra
   murder, but refused to answer questions that he thought would send Duane "Keffe
   D" to prison.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e351/live/b5761980-9b79-11f1-afeb-4d7c67d79c36.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Tupac Shakur is seen wearing all red, including a red ball cap, and a gold chain.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e351/live/b5761980-9b79-11f1-afeb-4d7c67d79c36.jpg)

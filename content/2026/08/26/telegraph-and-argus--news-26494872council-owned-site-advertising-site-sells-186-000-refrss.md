@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: A plot of Bradford Council owned-land that brings in £9,000 a year in
   advertising rates has been sold at auction for more than double its guide…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21332494.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: BTC Eddisons)*

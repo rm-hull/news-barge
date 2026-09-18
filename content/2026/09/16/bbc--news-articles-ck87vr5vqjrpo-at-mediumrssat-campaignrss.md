@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Jaysley Beck, 19, took her own life at Larkhill Camp in Wiltshire after
   she was sexually assaulted.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95bc/live/4aed4a00-b124-11f1-8ecc-07cd1cee2987.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Court drawing of Mr Hartley (right), representing Major James Hook (left) who is appearing with Colonel Samantha Shepherd (centre) at the Military Court Centre in Catterick Garrison, North Yorkshire. Hook and Shepherd are dressed in khaki green Army uniforms.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/95bc/live/4aed4a00-b124-11f1-8ecc-07cd1cee2987.jpg)

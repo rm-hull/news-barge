@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Jai Arrow's battle with motor neurone disease isn't stopping him from
   reaching for a career milestone in Australia's National Rugby League
 image: https://static.independent.co.uk/2026/08/25/08/Australia_Rugby_League_Arrow%27s_Milestone_21177.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Motor neurone disease is not likely to stop Jai Arrow trying to bring up a career milestone in Australia's National Rugby League.

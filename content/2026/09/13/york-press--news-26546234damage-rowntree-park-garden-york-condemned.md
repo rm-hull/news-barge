@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Volunteers who maintain Rowntree Park in York have condemned “significant
   deliberate damage” being done in one of its gardens.
 image: https://www.yorkpress.co.uk/resources/images/21447809.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: Friends of Rowntree Park)*

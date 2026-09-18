@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: 'Exclusive: Analysis shows cost of chicken fillets, potatoes and donuts
   rose during supermarket giant’s three-month promotion'
 image: https://i.guim.co.uk/img/media/63932393582e9fa2eb8092b573564d805496d86e/946_158_2459_1968/master/2459.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=130703e944012a73e0f3e6fd889745ca
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Woolworths raised prices for popular items – including a 33% mark up on chicken fillets – within days of promising to freeze prices on 300 “family staples” for three months to help customers with the cost of living.

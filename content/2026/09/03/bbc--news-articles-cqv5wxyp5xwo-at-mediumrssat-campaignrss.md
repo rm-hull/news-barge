@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The trailblazing feminist spoke out for the legalisation of abortion,
   same-sex marriage and equal pay for women - but her activism was not without backlash.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e6b/live/bb61f2c0-a78a-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Gloria Steinem lying on a couch in a brown shirt dress surrounded by colourful cushions](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/0e6b/live/bb61f2c0-a78a-11f1-a291-b542ee92de7c.jpg)

@@ -7,6 +7,11 @@ scraped_at: '2026-08-21T13:06:47Z'
 published: '2026-08-20T00:00:00Z'
 description: And could this mean Harry and William make up?
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Comedy & Entertainment
 ---
 
 ## Episode details

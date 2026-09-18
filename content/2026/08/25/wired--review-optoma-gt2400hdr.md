@@ -10,6 +10,10 @@ description: The Optoma GT2400HDR laser projector is great for setting up a driv
   range in your living room, but mediocre video quality makes it less appealing for
   home entertainment.
 image: https://media.wired.com/photos/6a8cdbb76eb888675cdee196/191:100/w_1280,c_limit/Review--Optoma-GT2400HDR.jpg
+categories:
+- Technology & Software
+- Science
+- Film & TV
 ---
 
 Indoor golf simulators aren't easy to set up, and they aren't inexpensive. It starts with a home cinema projector, but you also need a wide, open space for swinging clubs, a backdrop with netting, and a gaming laptop or desktop to run the software. I was on a mission to see if I could do this much more cheaply with an affordable projector.

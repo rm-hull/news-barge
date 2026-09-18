@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: More than 600 companies underpaid staff, with £4m returned to workers,
   according to the government.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1d32/live/de8a8700-a6e8-11f1-b109-879e35c24276.png
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 ![A composite image of B&Q signage on the left and Five Guys signage on the right.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1d32/live/de8a8700-a6e8-11f1-b109-879e35c24276.png)

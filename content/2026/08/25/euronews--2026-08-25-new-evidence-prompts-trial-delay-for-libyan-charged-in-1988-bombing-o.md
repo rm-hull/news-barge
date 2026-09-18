@@ -9,6 +9,11 @@ description: The bombing, which is the deadliest-ever terror attack in Britain, 
   all 259 people on board Pan Am flight 103 and 11 people on the ground in the Scottish
   town of Lockerbie.
 image: https://images.euronews.com/articles/stories/09/88/74/51/1200x675_cmsv2_1a1d1db0-90d0-5b02-a951-7b8705367de2-9887451.jpg
+categories:
+- Europe
+- News & Politics
+- True Crime
+- History
 ---
 
 ## The bombing, which is the deadliest-ever terror attack in Britain, killed all 259 people on board Pan Am flight 103 and 11 people on the ground in the Scottish town of Lockerbie.

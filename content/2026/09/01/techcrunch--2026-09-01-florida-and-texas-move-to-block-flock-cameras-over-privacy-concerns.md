@@ -8,6 +8,8 @@ published: '2026-09-01T00:00:00Z'
 description: Flock's searchable network of 130,000 license plate cameras around the
   U.S. have sparked bipartisan privacy and civil liberties concerns.
 image: https://techcrunch.com/wp-content/uploads/2026/09/pigeon-flock-2289958923.jpg?resize=1200,800
+categories:
+- Technology & Software
 ---
 
 The states of Florida and Texas are moving to end their relationship with surveillance giant Flock, as the company faces increasing backlash over privacy concerns and misuse of its tracking technology.

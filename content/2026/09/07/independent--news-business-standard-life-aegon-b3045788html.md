@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: The firm said it had made £210 million worth of cost savings as part
   of a three-year £250 million cost-cutting target.
 image: https://static.independent.co.uk/2026/09/07/09/b1a5e9ce90c5fd534de38e44b754ed9eY29udGVudHNlYXJjaGFwaSwxNzg4ODU0OTA1-2.19144962.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Standard Life has said its earnings have been bolstered by cost-cutting as it targets another £800 million worth of “synergies” from its takeover of Aegon UK.

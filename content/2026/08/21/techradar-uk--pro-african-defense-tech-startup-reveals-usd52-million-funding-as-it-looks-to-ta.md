@@ -8,6 +8,9 @@ scraped_at: '2026-08-21T01:53:36Z'
 published: '2026-08-21T00:00:00Z'
 description: Drone maker Terra Industries breaks records
 image: https://cdn.mos.cms.futurecdn.net/TLsB5tZb8kRUnWbcRmNDuB-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Ground military drone for cargo transportation](https://cdn.mos.cms.futurecdn.net/TLsB5tZb8kRUnWbcRmNDuB.jpg) 

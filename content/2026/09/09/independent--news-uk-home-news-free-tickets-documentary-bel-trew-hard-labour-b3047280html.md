@@ -9,6 +9,10 @@ description: 'The Independent is offering 10 pairs of tickets to the screening o
   ‘Hunted: Kidnapped, blackmailed and tortured for being LGBTQ+’ followed by a panel
   discussion at the London ICA'
 image: https://static.independent.co.uk/2026/05/10/12/28/Trailer-for-Hard-Labour-a-documentary-by-Bel-Trew.png?trim=0,100,0,100&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 *The Independent* is offering 10 pairs of tickets to a special screening at the ICA London of the moving new documentary Hard Labour: Inside the global crisis killing mothers and babies.

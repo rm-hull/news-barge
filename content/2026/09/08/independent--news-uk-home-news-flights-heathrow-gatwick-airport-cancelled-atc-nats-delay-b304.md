@@ -10,6 +10,9 @@ description: Transport secretary wants ‘lessons to be learnt’ as Ryanair cal
   Nats chief to quit and Wizz air calls for urgent reform of National Air Traffic
   Services
 image: https://static.independent.co.uk/2026/09/08/17/35/IMG_4062-(1)-c35f2ada.jpeg?trim=322,0,94,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Tens of thousands of passengers were forced to abandon their travel plans when a “technical issue” stopped flights across the UK taking off and landing for several hours.

@@ -9,6 +9,8 @@ published: '2026-09-16T00:00:00Z'
 description: The winners are 100% voted by you, so pick your winners in health tech,
   fitness trackers, small appliances and smart home tech!
 image: https://cdn.mos.cms.futurecdn.net/J5rTJPjo3gx3omcSh598H7-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The TechRadar Readers Choice Awards logo on a patterned background](https://cdn.mos.cms.futurecdn.net/J5rTJPjo3gx3omcSh598H7.jpg) 

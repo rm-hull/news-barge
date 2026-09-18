@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Flight disruptions at UK airports are expected to continue on Wednesday
   (September 9) due to a technical issue affecting NATS air traffic control…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21427537.jpg?type=og-image&xType=0&yType=298
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Jordan Pettitt/PA)*

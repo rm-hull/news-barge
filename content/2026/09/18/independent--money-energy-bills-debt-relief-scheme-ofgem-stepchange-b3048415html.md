@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Energy bills will rise in October and likely again in January for those
   not already on fixed deals
 image: https://static.independent.co.uk/2026/07/21/09/97b4767a6d67a6c08a50a91b0bc2d665Y29udGVudHNlYXJjaGFwaSwxNzg0NzA1OTAx-2.84900654.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Energy debt has reached a record £6bn, according to Energy UK, with more than three million customers now in debt or arrears.

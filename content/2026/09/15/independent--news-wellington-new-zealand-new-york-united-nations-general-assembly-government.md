@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Authorities are searching for more than 30 people missing after a ferry
   is believed to have sunk off Vanuatu's coast
 image: https://static.independent.co.uk/2026/09/15/04/Vanuatu_Ferry_Sinking_41253.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Questions were growing about a passenger ferry believed to have sunk off the coast of Vanuatu as rescuers on Tuesday searched for more than 30 people still missing. The sinking on Friday, which officials said wasn’t reported for almost a full day, has killed at least two people.

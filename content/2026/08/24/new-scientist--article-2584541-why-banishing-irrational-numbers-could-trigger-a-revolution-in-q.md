@@ -10,6 +10,10 @@ description: Irrational numbers have underpinned quantum mechanics for a century
   Removing them could eliminate its strangest features and trigger the biggest upheaval
   in physics since quantum theory began
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308310306.jpg
+categories:
+- Science
+- Technology & Software
+- History
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308310306.jpg?w=840)

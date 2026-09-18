@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Greggs has revealed why some pastries and sausages rolls are not pipping
   hot when they are served.
 image: https://www.yorkpress.co.uk/resources/images/20751602.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 *(Image: Mike Egerton/PA Wire)*

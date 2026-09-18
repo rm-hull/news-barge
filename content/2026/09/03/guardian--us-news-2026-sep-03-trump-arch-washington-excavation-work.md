@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Project that critics say will disrupt historic sightlines in Washington
   DC is facing a lawsuit
 image: https://i.guim.co.uk/img/media/fad1cf4d1ee44eff53af5407352725fb010648e2/335_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe44971e2e63429c5d4a6c18c5f20126
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 The Trump administration said on Thursday that excavation work will start over the next two weeks on the site where it plans to build a towering, gilded arch, a project that is facing a lawsuit and that critics say will disrupt historic sightlines in Washington DC.

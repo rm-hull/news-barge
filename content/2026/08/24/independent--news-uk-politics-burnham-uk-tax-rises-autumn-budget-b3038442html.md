@@ -7,6 +7,11 @@ scraped_at: '2026-08-24T20:43:29Z'
 published: '2026-08-24T00:00:00Z'
 description: Questions remain over how some of Burnham’s promises will be paid for
 image: https://static.independent.co.uk/2026/08/24/16/2291311273..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Andy Burnham has declined to rule out tax increases in the upcoming Budget, stating he "won’t be unrealistic" about the state of the public finances.

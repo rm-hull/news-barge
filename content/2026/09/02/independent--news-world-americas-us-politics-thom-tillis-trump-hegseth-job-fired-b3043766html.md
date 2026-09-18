@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: Thom Tillis slammed the Defense Secretary’s leadership – 18 months after
   casting a key vote to confirm his appointment
 image: https://static.independent.co.uk/2026/09/02/21/2287202979..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Republican Senator Thom Tillis called on President Donald Trump to fire Defense Secretary Pete Hegseth over his “inept management” of the military.

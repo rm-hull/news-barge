@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Russia’s Foreign Ministry has announced the closure of the German consulate
   in St. Petersburg
 image: https://static.independent.co.uk/2026/09/07/15/Russia_Germany_56762.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Russia’s Foreign Ministry on Monday announced the closure of the German consulate in St. Petersburg, a tit-for-tat move that reflected the simmering tensions between the two countries.

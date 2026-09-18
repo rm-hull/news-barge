@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Hundreds of unseen images of the star feature at the Venice film festival,
   alongside virtual worlds exploring wildfires, wolves and the birth of stars
 image: https://i.guim.co.uk/img/media/94f05bec8534008a5b3bcb0259e4bf0c09ddd536/130_39_2067_1654/master/2067.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63a1a8fb607a0bab3b39c25c6644d744
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 David Bowie shares the bill with starmen, firefighters and Walt Disney wolves at the 10th anniversary edition of Venice Immersive, the film festival’s pioneering showcase for new forms of storytelling. David Bowie: Unseen Unheard – a 3D documentary featuring hundreds of previously unseen images – is among 69 XR (extended reality) pieces playing at the event’s regular base on Lazzaretto Vecchio, a repurposed small island off the Venice Lido.

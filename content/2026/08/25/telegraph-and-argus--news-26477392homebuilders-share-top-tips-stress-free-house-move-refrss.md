@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: HOMEBUILDERS are sharing their top tips for a stress-free house move,
   experts say
 image: https://www.thetelegraphandargus.co.uk/resources/images/19942489.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Self-Improvement
 ---
 
 *(Image: Supplied)*

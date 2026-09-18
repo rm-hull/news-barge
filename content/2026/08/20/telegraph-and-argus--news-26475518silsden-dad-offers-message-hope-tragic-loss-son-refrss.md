@@ -9,6 +9,12 @@ published: '2026-08-20T00:00:00Z'
 description: A Bradford district dad is turning personal tragedy into a message of
   hope for others.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21337072.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Self-Improvement
 ---
 
 *(Image: UGC)*

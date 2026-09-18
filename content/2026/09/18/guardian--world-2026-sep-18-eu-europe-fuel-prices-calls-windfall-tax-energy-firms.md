@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: German minister says companies are ‘exploiting situation’ in Middle East,
   as sky-high prices become major domestic issue for leaders
 image: https://i.guim.co.uk/img/media/ac002d7f7d9530539da6b64c5b472b33ec96182c/418_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1fb6d80b89f49a014b3d8ad99834b3a9
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 European governments have discussed imposing a bloc-wide windfall tax on energy companies, as near-record fuel and gas prices pile pressure on leaders desperate to contain mounting public discontent and the challenge of the far right.

@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Gen Muhoozi Kainerugaba announces decision to pull out in post on X,
   citing tensions over ‘Harry-Meghan nonsense’
 image: https://i.guim.co.uk/img/media/ba5a078148db7db95e9757dcccca697c118b18f1/491_0_4518_3614/master/4518.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0990c14f418f67edeecc5853aa770f53
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Uganda is withdrawing from the Duke of Sussex’s Invictus Games, the country’s military chief has said, out of respect for King Charles amid division over the “Harry-Meghan nonsense”.

@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: North Yorkshire Police said the theft happened at the Shell Garage in
   Hull Road on Tuesday, July 28.
 image: https://www.gazetteherald.co.uk/resources/images/21417573.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: North Yorkshire Police)*

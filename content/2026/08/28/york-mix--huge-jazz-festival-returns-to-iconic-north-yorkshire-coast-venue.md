@@ -7,6 +7,11 @@ scraped_at: '2026-08-28T11:15:42Z'
 published: '2026-08-28T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/Jazz-Festival.jpg
+categories:
+- Local
+- York
+- Arts & Culture
+- Music
 ---
 
 Experience a spectacular celebration of live jazz this September – as the Scarborough Jazz Festival returns to the iconic Scarborough Spa.

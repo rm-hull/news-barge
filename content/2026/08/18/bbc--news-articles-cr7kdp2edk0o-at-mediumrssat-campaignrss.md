@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Organisers say postponing the contest will allow them to lay on the event
   fans deserve.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7208/live/88e36390-9af3-11f1-930b-57cfba7235f9.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A competitor at the Esports World Cup watches a screen intently with their hands clasped behind their head, creating an impression of anticipation or nervousness. They wear a large gaming headset with a microphone and a black and purple team jersey.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7208/live/88e36390-9af3-11f1-930b-57cfba7235f9.jpg)

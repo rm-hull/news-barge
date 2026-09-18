@@ -10,6 +10,11 @@ description: Quantum’s touted strengths in solving impossible problems, in sim
   and in complex modeling could also fit perfectly into next-generation video game
   engines.
 image: https://cdn.mos.cms.futurecdn.net/CqJ42hzEZ8GuCYZCd3VZjS-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
+- Science
 ---
 
 ![C.L.A.Y. game news from Gamescom](https://cdn.mos.cms.futurecdn.net/CqJ42hzEZ8GuCYZCd3VZjS.jpg) 

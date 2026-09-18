@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: The US has not acknowledged carrying out February's deadly strikes on
   a primary school in Minab and a sports complex in Lamerd.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f29/live/f45ca2b0-b29c-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Society & Culture
 ---
 
 ![File photo showing photos of children killed in the strike on Shajareh Tayyebeh Primary School in Minab, southern Iran (27 August 2026)](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/9f29/live/f45ca2b0-b29c-11f1-bc1f-3f186ca4140c.jpg)

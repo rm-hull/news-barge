@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: THE MET Office has issued a warning for thunderstorms and heavy downpours
   in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20962495.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: UGC)*

@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: The leader of Myanmar’s military-backed government is visiting Vietnam
   for talks to strengthen bilateral ties
 image: https://static.independent.co.uk/2026/09/04/07/Myanmar_Vietnam_88384.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The leader of Myanmar’s military-backed government is visiting Vietnam for talks with its leaders in his latest effort to normalize relations with the Association of Southeast Asian Nations and attract foreign investment.

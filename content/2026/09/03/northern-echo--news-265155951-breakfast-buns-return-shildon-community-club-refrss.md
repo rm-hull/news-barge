@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A community breakfast club serving breakfast buns from £1 is reopening
   this week after a six-week summer break.
 image: https://www.thenorthernecho.co.uk/resources/images/21402137.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Jubilee Fields Community Centre)*

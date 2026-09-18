@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: London City Lionesses defender Jana Fernandez signs a new contract, keeping
   her at the club until 2029.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d4d2/live/45d71d60-b1a2-11f1-8b77-cd7827f05bee.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A smiling Jana Fernandez holds a London City shirt](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d4d2/live/45d71d60-b1a2-11f1-8b77-cd7827f05bee.jpg)

@@ -9,6 +9,12 @@ published: '2026-09-07T00:00:00Z'
 description: Darlington man Carl Mansfield says football helped him overcome depression
   and improve his mental health through Darlington FC Foundation sessions.
 image: https://www.thenorthernecho.co.uk/resources/images/21412924.jpg?type=og-image&xType=0&yType=20
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Self-Improvement
 ---
 
 A Darlington man who has battled depression for most of his life says a community football programme transformed his mental health and wants others to join.

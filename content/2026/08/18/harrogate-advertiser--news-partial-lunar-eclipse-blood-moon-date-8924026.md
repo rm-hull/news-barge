@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: A partial lunar eclipse - making the Moon appear red - will occur towards
   the end of August.
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/08/17/0/10/GettyImages-2233647073.jpg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Science
 ---
 
 # Date and time of blood Moon partial lunar eclipse - why Moon will appear red and how to see it

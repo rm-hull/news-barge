@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: A Brazilian Supreme Court justice has unsealed an investigation into
   a film about former President Jair Bolsonaro
 image: https://static.independent.co.uk/2026/09/04/23/Brazil_Supreme_Court_5582_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Brazilian Supreme Court justice on Sunday unsealed an investigation into the production of a film about former President Jair Bolsonaro, pointing in his decision to suspicions the movie’s financing had ties to a criminal network.

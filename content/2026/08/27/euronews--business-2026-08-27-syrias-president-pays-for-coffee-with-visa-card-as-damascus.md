@@ -9,6 +9,9 @@ description: Syria's president paid for a coffee in Damascus with a Visa card th
   week to mark the country's removal from the US list of state sponsors of terrorism
   and the reconnection of its banks to the global financial system.
 image: https://images.euronews.com/articles/stories/09/89/08/41/1200x675_cmsv2_cab3a55b-421a-5a95-b609-0fcc99cd1620-9890841.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Syria's president paid for a coffee in Damascus with a Visa card this week to mark the country's removal from the US list of state sponsors of terrorism and the reconnection of its banks to the global financial system.

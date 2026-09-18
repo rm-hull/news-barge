@@ -9,6 +9,10 @@ description: Britain’s original role in the establishment of Israel means its 
   against Israeli settlements on Palestinian land captured by Israel in 1967 have
   a potency beyond their economic power, explains world affairs editor Sam Kiley
 image: https://static.independent.co.uk/2026/09/08/14/2293662834..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The UK’s decision to impose sanctions on Israel’s project to build illegal Jewish colonies on the occupied West Bank is economically meaningless, mostly impossible to implement but symbolically it is a seismic event.

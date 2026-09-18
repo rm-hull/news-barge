@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The devastating flash flood and mudslides along the Nepal and Tibet border
   dominates Thursday's papers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/080a/live/db2f0d20-a19c-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![The headline on the front page of the Times reads: "Britons lost in Nepal flood."](https://ichef.bbci.co.uk/ace/standard/809/cpsprodpb/a2e8/live/f7a29300-a192-11f1-aed2-8d6da8d75094.jpg)

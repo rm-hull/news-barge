@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: TerraPower's nuclear power plant possesses a strategic advantage over
   competitors, especially when chasing after data center deals.
 image: https://techcrunch.com/wp-content/uploads/2026/08/terrapower-power-plant.jpg?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Science
 ---
 
 Nuclear power startups have been pitching themselves as the antidote to what ails AI data centers: power that’s always available. Bill Gates-founded TerraPower is one of the latest to throw its hat into that ring, with Bloomberg reporting that the startup plans to announce its first data center project this year.

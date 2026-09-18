@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Eighteen-year-old known as Chai was active in networks notorious for
   their sadistic exploitation of young people
 image: https://i.guim.co.uk/img/media/138746ee9f3b3f9b0e05cf7c5f27d417e8478e6d/456_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=277dd16afc02b551fc7e2ea27464f455
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Society & Culture
 ---
 
 A Swedish teenager known as Chai has been sentenced to more than 10 years in jail for attempted murder, rape and aggravated assault – crimes committed via the internet, including against a teenage girl in Australia.

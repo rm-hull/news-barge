@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The University of Cambridge says the review will look at its "decision-making
   and actions" before the former professor's death.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f23/live/9f896f50-a88f-11f1-96fc-dd627484b0e6.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Jason Arday photographed on the panel of BBC show Sunday with Laura Kussenberg](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/7f23/live/9f896f50-a88f-11f1-96fc-dd627484b0e6.jpg)

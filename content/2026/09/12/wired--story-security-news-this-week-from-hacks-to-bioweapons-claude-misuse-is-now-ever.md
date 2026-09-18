@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: 'Plus: The US disrupts the internet’s biggest black market, a Conti ransomware
   hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.'
 image: https://media.wired.com/photos/6aa46eadc13527261cbf310c/191:100/w_1280,c_limit/SecurityRoundUp_From%20State-Sponsored%20Hacking%20to%20Bioweapons,%20Claude%20Abuse%20is%20Now%20Everywhere_v1.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 *Editor’s note: After more than a decade, this is the last* WIRED*Security News This Week. “The roundup,” as we call it internally, started as a way to ensure that our readers knew about the latest key cybersecurity and privacy news even if we didn’t write about it ourselves. It was a simple way to highlight our own work and the wealth of other great journalism and research published in this realm every week.*

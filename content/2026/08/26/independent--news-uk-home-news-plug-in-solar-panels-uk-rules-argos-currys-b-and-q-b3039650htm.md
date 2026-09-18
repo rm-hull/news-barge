@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The panels can lower energy bills by cutting how much electricity households
   pull from the grid
 image: https://static.independent.co.uk/2026/08/26/13/48/iStock-1557295077-3563cfdc.jpeg?trim=0,1,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Home, Garden & DIY
 ---
 
 Plug-in solar panels are to go on sale online and in shops as new regulations allowing their sale in the UK come into force.

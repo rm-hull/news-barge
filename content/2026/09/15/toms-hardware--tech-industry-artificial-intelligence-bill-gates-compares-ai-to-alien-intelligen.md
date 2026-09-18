@@ -9,6 +9,11 @@ scraped_at: '2026-09-15T13:28:37Z'
 published: '2026-09-15T00:00:00Z'
 description: '"Governments are way behind on this one."'
 image: https://cdn.mos.cms.futurecdn.net/dkTyoZvtU7Qz7ABhLFTEEg-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- News & Politics
+- Society & Culture
 ---
 
 ![Bill Gates](https://cdn.mos.cms.futurecdn.net/dkTyoZvtU7Qz7ABhLFTEEg.png) 

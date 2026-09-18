@@ -11,6 +11,12 @@ description: The funeral of PC Matthew Blades, who died alongside his colleague 
   a sombre reminder of the danger that police officers put themselves in to protect
   their communities.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjlkMDg1YTM5LWQwNWQtNDg1MS1hNWM0LTVlMmFmY2ZkNjVhMDo1YTczOWRjNy1iNTdmLTQ5NGQtOWI0YS03YTczMWU0OWZmOGE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # Funeral of PC Matthew Blades is a sombre reminder of the danger that police officers face

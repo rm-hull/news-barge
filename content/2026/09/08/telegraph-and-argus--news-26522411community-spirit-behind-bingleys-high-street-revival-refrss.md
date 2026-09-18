@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Business owners in Bingley share how independence, community support
   and a welcoming atmosphere are boosting the local high street
 image: https://www.thetelegraphandargus.co.uk/resources/images/21413612.jpg?type=og-image&xType=0&yType=5
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 One of the district's high streets has been described as “revived” by business owners who say community spirit is driving a return to independence.

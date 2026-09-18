@@ -9,6 +9,13 @@ description: Visitors to Hull and East Yorkshire are unlikely to have to pay new
   taxes anytime soon, after the region’s mayor insisted he would put the interests
   of local businesses first.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjcwZGZhZWMzLWVmYjYtNDlmOS1hNDdjLWUyOWY5MjI4MGIxMjoxMGFmNDM4Yy1kYTRmLTQ4YzgtYWU1Yi1mZjhhZjMxMmZiMWY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- History
+- Personal Finance & Investing
 ---
 
 # 'Having the power doesn’t mean you have to use it' - Hull and East Yorkshire Mayor Luke Campbell will not introduce tourist taxes

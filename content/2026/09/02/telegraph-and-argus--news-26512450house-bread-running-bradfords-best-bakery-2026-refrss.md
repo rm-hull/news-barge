@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: House of Bread has been named among the top 10 bakeries in the Telegraph
   & Argus contest, with owners thanking loyal customers and the local…
 image: https://www.thetelegraphandargus.co.uk/resources/images/19937952.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest)*

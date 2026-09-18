@@ -8,6 +8,8 @@ scraped_at: '2026-09-04T12:42:44Z'
 published: '2026-09-04T00:00:00Z'
 description: Our favorite innovations from the massive IFA 2026 tech show
 image: https://cdn.mos.cms.futurecdn.net/tvdiLWHL7WaxTsWLZxFYqE-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![IFA Berlin](https://cdn.mos.cms.futurecdn.net/tvdiLWHL7WaxTsWLZxFYqE.jpg) 

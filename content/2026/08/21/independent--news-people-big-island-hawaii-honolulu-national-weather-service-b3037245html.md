@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: People in Hawaii are bracing for more heavy rain and winds as they recover
   from last weekend's hurricane
 image: https://static.independent.co.uk/2026/08/21/17/Tropical_Weather_22319.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Lifestyle & Fashion
 ---
 
 People in Hawaii are bracing for another round of heavy rain and winds, even as they're still trying to clean up and recover from a hurricane last weekend that damaged homes, downed trees and left roads covered in mud and rocks.

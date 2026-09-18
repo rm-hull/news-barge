@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: ILKLEY Manor House has announced its autumn/winter programme, bringing
   together contemporary art, live music, local history, talks, family…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21336665.jpg?type=og-image&xType=0&yType=35
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 ILKLEY Manor House has announced its autumn/winter programme, bringing together contemporary art, live music, local history, talks, family activities, Halloween storytelling and its popular Christmas Makers’ Fair.

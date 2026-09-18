@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The Metropolitan Police say the man and woman were arrested following
   the seizure of more than 180kg (397lb) of cocaine this month.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e841/live/0f6e6300-9c08-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![New Scotland Yard sign outside Met Police HQ in London](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/e841/live/0f6e6300-9c08-11f1-aed2-8d6da8d75094.jpg)

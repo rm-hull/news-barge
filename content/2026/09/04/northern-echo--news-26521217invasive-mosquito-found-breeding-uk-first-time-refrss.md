@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The Aedes aegypti mosquito, known to transmit viruses such as dengue
   and Zika virus, has been found breeding in the UK for the first time.
 image: https://www.thenorthernecho.co.uk/resources/images/21409294.jpg?type=og-image&xType=0&yType=98
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: Getty Images/iStockphoto)*

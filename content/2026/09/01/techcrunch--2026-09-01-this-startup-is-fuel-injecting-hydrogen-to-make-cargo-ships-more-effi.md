@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: Newlight has raised a $9 million seed round and completed an 8,500-nautical-mile
   test run from Singapore to Ghana.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Newlight-co-founders_-CEO-Haran-Hillel-Cohen-and-COO-Evyatar-Cohen.jpg?resize=1200,801
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 It’s one of the most iconic scenes in the Fast & Furious film franchise: Paul Walker’s thumb comes off the steering wheel and smashes a small red button, pumping nitrous oxide into the engine of his Mitsubishi Eclipse and giving the car an explosive boost.

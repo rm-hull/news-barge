@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Ocean warming driven by El Niño is pushing sea lions farther north for
   food, leaving nursing pups abandoned along beaches in Southern California
 image: https://static.independent.co.uk/2026/09/11/15/00/GettyImages-2206392165.jpeg?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 More than double the typical number of sick sea lions have washed ashore in California this year, stretching rescue teams to their limits as a toxic algae outbreak spreads along the West Coast.

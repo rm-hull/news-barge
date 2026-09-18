@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Businesses across York and North Yorkshire are urged to share their views
   and experiences to support important research about the region's…
 image: https://www.yorkpress.co.uk/resources/images/21345083.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 ## Call for York and North Yorkshire businesses to help on leading survey

@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: A 9-year-old boy died in 2022 after missing insulin doses at an Arizona
   group home
 image: https://static.independent.co.uk/2026/09/04/13/US_Foster_Care_Death_Arizona_5_6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The staff caring for Jakob Blodgett said he already had been sneaking candy and refused to take his insulin. An employee at the Arizona group home where the 9-year-old boy was being cared for texted a supervisor about the boy's elevated blood-glucose reading.

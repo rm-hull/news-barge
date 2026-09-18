@@ -9,6 +9,10 @@ description: Traditionally, there are no political speeches at the Ground Zero c
   Victims’ relatives read their names, pay tribute to first responders and call for
   national unity.
 image: https://images.euronews.com/articles/stories/09/91/07/07/1200x675_cmsv2_85aa1d00-3aad-520b-8520-f54bcee81835-9910707.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Traditionally, there are no political speeches at the Ground Zero commemoration. Victims’ relatives read their names, pay tribute to first responders and call for national unity.

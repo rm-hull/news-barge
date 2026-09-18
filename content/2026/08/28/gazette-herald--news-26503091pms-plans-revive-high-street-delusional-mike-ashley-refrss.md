@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Andy Burnham’s high street plans are “delusional” and will not help revive
   British shops, Mike Ashley who owns the York Designer Outlet has…
 image: https://www.gazetteherald.co.uk/resources/images/10928758.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: Frank Dwyer)*

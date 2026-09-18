@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Kyrgios said he had difficulties coming to terms with being near the
   end of his career after two years of injuries.
 image: https://images.euronews.com/articles/stories/09/88/03/39/1200x675_cmsv2_6d8c96a9-12fb-58d3-beb9-d9a2a04f9a7a-9880339.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## Kyrgios said he had difficulties coming to terms with being near the end of his career after two years of injuries.

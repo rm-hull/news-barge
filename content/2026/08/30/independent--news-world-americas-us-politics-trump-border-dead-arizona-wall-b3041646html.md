@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: Experts say dangerous border crossings have continued despite the Trump
   administration’s immigration crackdown
 image: https://static.independent.co.uk/2026/08/30/01/download..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The remains of 19 dead migrants, including children, were found in the Arizona desert near the U.S.-Mexico border last month, a two-year record, according to data from the Pima County Office of the Medical Examiner and the advocacy group Humane Borders.

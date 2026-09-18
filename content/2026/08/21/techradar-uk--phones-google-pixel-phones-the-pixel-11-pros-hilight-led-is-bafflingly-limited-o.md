@@ -9,6 +9,8 @@ published: '2026-08-21T00:00:00Z'
 description: HiLight Studio is a new app that makes HiLight what it should have been
   out of the box, but this isn't the simplest of things to install.
 image: https://cdn.mos.cms.futurecdn.net/MXZ8PbQpYS3wa9Xb3JHnsZ-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Google Pixel 11 Pro Fold REVIEW](https://cdn.mos.cms.futurecdn.net/MXZ8PbQpYS3wa9Xb3JHnsZ.jpg) 

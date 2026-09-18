@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: School staff tell focus groups they believe school system in England
   and Wales cannot deal with attendance crisis
 image: https://i.guim.co.uk/img/media/8fe3ee7df556c2ba5153f802a314d09d835fb13c/584_0_4101_3280/master/4101.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=decbd81d49799ccfba4c181aafbeee3c
+categories:
+- UK
+- News & Politics
+- Education & Learning
+- Business & Entrepreneurship
 ---
 
 Teachers have so little belief in the importance of pupils’ full school attendance that they would take their own children on term time holidays if they could, staff have told a three-year research programme.

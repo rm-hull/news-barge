@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T13:29:54Z'
 published: '2026-09-15T00:00:00Z'
 description: Traditional pigments used during the Middle Ages found in the painting
 image: https://static.independent.co.uk/2026/09/15/11/19/Photograph-of-the-painting-of-the-Roman-emperor-Domitian.jpeg?trim=127,0,1260,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Scientists have deployed lasers to test pigments in a painting possibly made by the Renaissance-era polymath Leonardo da Vinci, and say the cutting-edge technology could be a viable tool to check whether historic artworks are forgeries.

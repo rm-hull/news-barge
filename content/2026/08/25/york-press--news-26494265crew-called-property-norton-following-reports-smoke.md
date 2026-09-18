@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: A crew was called to a North Yorkshire property yesterday evening (Monday)
   following reports of a smell of smoke.
 image: https://www.yorkpress.co.uk/resources/images/20347554.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
 ---
 
 *(Image: Getty Images/iStockphoto)*

@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Four people were taken to hospital after a two-car collision on a busy
   road.
 image: https://www.thetelegraphandargus.co.uk/resources/images/12150181.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: UGC)*

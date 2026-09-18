@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: The US tech giant says the €13bn data centre project will create tens
   of thousands of jobs.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d61/live/80327fa0-ac6a-11f1-80f0-9795d1a5edbc.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![Google headquarters in Mountain View, California, United States](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2d61/live/80327fa0-ac6a-11f1-80f0-9795d1a5edbc.jpg)

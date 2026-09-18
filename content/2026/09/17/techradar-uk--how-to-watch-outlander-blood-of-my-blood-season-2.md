@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: The stakes are higher than ever as Outlander's prequel series returns
   for season 2
 image: https://cdn.mos.cms.futurecdn.net/FfrYDbGEjd6cXYUpAcLrR4-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Outlander: Blood of My Blood season 2](https://cdn.mos.cms.futurecdn.net/FfrYDbGEjd6cXYUpAcLrR4.jpg) 

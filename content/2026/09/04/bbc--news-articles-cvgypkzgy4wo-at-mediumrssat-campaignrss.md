@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: If it wins an outright majority in Saxony-Anhalt, it would be the first
   time a far-right party has held state-level power in Germany since World War Two.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80f2/live/23835360-a882-11f1-824a-0fc4c5d895ae.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Ulrich Siegmund, lead candidate of the far-right Alternative for Germany (AfD), gestures as he speaks to supporters during an AfD-sponsored outing of Simson motorcycle enthusiasts ahead of upcoming state elections in Saxony-Anhalt on July 26, 2026 in Weissenfels, Germany.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/bcfc/live/4c218f20-a86f-11f1-bbad-43eaf67b94b6.jpg)

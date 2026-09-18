@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: IF YOU’RE looking for a property that truly does stand out from the crowd
   – in more ways than one – The Lime House is well worth a place at…
 image: https://www.thenorthernecho.co.uk/resources/images/21380582.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 IF YOU’RE looking for a property that truly does stand out from the crowd – in more ways than one – The Lime House is well worth a place at the top of your to view list.

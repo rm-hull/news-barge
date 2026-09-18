@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Those convicted of a certain type of manslaughter will no longer be eligible
   for early release, including Albert Bowers and Jessie Cole
 image: https://static.independent.co.uk/2026/08/26/21/686c8bacd345648909648bb2a7413d83Y29udGVudHNlYXJjaGFwaSwxNzg3ODYwNzgz-2.54995973.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Pc Andrew Harper’s killers will be excluded from the early release scheme and will remain in prison, reports say.

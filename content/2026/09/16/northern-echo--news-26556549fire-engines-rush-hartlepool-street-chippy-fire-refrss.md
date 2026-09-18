@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: The incident occurred at Verrills Fish Shop this morning, and Cleveland
   Fire Brigade rushed to the scene.
 image: https://www.thenorthernecho.co.uk/resources/images/21464502.jpg?type=og-image&xType=0&yType=290
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: GOOGLE MAPS)*

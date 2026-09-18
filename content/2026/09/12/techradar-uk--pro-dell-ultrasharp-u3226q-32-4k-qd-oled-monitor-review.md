@@ -9,6 +9,9 @@ description: The Dell UltraSharp 32 4K QD-OLED panel [U3226Q] is a brilliant OLE
   panel with a built-in colorimeter, Thunderbolt dock all in one, and a massive price
   tag.
 image: https://cdn.mos.cms.futurecdn.net/aQn68GGJZLuw27EcWHiQon-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ### TechRadar Verdict

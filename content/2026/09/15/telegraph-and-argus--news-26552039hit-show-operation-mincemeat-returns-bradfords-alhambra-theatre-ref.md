@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: SMASH hit show Operation Mincemeat is returning to Bradford, due to "phenomenal
   demand".
 image: https://www.thetelegraphandargus.co.uk/resources/images/21429844.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 *(Image: Matt Crockett)*

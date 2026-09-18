@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Age UK York has been announced as the nominated charity for this year's
   York Community Carol Concert, which returns to York Barbican on…
 image: https://www.yorkpress.co.uk/resources/images/18890677.jpg?type=og-image&xType=0&yType=85
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 ## The Press announces its nominated charity for York Community Carol Concert

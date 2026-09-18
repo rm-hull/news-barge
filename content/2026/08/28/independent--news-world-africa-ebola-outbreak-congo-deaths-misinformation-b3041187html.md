@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Sarah Clayton-Fisher discusses the misinformation that her Red Cross
   and Red Crescent colleagues must confront as they battle Ebola
 image: https://static.independent.co.uk/2026/08/28/17/2290901875..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 More than one hundred days after the outbreak was declared, Ebola has now claimed more than 2,500 lives across the Democratic Republic of Congo (DRC). Red Cross volunteers are doing all they can to fight this disease, with more than 900 volunteers reaching more than 100,000 people. Yet across communities, our volunteers find that not only are they fighting Ebola; they are also fighting misinformation.

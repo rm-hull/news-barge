@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: The System76 Pangolin Pro Linux Laptop wraps a speedy processor, plenty
   of ports, and a great operating system in a svelte, 16-inch package.
 image: https://media.wired.com/photos/6aa842da07b7d42ae839e279/191:100/w_1280,c_limit/Review--System76-Pangolin-Pro-Linux-Laptop.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 I have similar feelings about the very large glass trackpad. For things like photo editing, the trackpad's size is great, but I found my palms occasionally clicked the buttons at the bottom of the trackpad when I took a break from typing. It didn't happen often, but I learned to be careful about where I put my palms.

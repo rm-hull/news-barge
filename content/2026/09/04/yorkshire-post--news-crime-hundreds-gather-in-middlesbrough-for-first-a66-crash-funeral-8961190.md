@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Hundreds of people gathered in Middlesbrough for the first funeral of
   one of five young men killed in a head-on crash on the A66.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/04/15/09/01M1PEMVZW2C2Z7N96Y1KM2N2Z.jpeg?trim=0,275,0,275&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Hundreds gather in Middlesbrough for first A66 crash funeral

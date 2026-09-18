@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Roadworks will affect Darlington routes this weekend, with traffic controls
   remaining on each, including the A68 Woodland Road.
 image: https://www.thenorthernecho.co.uk/resources/images/21148761.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: GOOGLE)*

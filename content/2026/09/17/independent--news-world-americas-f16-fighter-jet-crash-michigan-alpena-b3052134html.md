@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: A witness described seeing a big plume of black smoke and said ‘explosions
   kept happening’
 image: https://static.independent.co.uk/2026/09/17/20/40/AP26260744871665.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A pilot ejected before a Texas-based F-16 fighter jet crashed and burst into flames in Michigan Thursday during a training exercise.

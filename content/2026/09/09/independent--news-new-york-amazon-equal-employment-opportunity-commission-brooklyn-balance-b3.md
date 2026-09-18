@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: A group of former Amazon warehouse employees is suing the company for
   systemically discriminating against pregnant workers
 image: https://static.independent.co.uk/2026/08/19/11/Amazon_Drone_Delivery_Expansion_61751.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 A group of former Amazon warehouse employees is suing the company for systemically discriminating against pregnant workers, accusing the company of denying them basic accommodations and penalizing some who took breaks to pump milk or time off for hospital visits.

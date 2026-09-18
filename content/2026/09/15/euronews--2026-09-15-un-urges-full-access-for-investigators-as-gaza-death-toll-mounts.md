@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: A UN access request over Gaza's uncounted dead raises questions that
   could shape how this war is judged.
 image: https://images.euronews.com/articles/stories/09/91/41/18/1200x675_cmsv2_460c33d6-f6f1-540a-a676-8047f6b25a26-9914118.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## A UN access request over Gaza's uncounted dead raises questions that could shape how this war is judged.

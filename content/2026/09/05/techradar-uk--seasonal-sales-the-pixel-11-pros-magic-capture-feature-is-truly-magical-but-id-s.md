@@ -9,6 +9,9 @@ published: '2026-09-05T00:00:00Z'
 description: The Google Pixel 10 Pro has almost everything the Pixel 11 Pro does —
   and soon, it might have that phone's standout feature too.
 image: https://cdn.mos.cms.futurecdn.net/2GPggqYCKXi89jUEyMxdV4-1560-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![The Google Pixel 11 Pro resting on a wooden table](https://cdn.mos.cms.futurecdn.net/2GPggqYCKXi89jUEyMxdV4.jpg) 

@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Yet more readers share their insights from their own four-legged friends
   – and one proposes a more general theory
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_304354522_fcf165.jpg
+categories:
+- Science
+- Technology & Software
+- Arts & Culture
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_304354522_fcf165.jpg?w=840)

@@ -11,6 +11,12 @@ description: Small boat crossings have become a millstone around the neck of suc
   an emotive issue for a lot of the electorate, especially as living standards for
   taxpayers are squeezed.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjNmMTVhZmI5LTAwYmUtNDkyOC1hN2UwLTIzZmQ3MDlmNzJkNjo5ZTJiZjVkNC1iMDQ5LTRiNWEtOTU4MC04NzNmMzRmYzJjZTI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- News & Politics
 ---
 
 # Small boat crossings: Government must confront the changing tactics of people smuggling gangs

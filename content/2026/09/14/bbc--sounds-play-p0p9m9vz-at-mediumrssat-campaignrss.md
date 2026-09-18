@@ -8,6 +8,9 @@ scraped_at: '2026-09-14T20:19:06Z'
 published: '2026-09-14T00:00:00Z'
 description: And which songs have made it onto Trump’s Air Force One playlist?
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0j72y80.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ## Episode details

@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: While pacing AI development might sound like a quick fix, it is far from
   an easy solution.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b55d/live/2989a230-afa0-11f1-b88f-8308bd3510af.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Amodei](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/b55d/live/2989a230-afa0-11f1-b88f-8308bd3510af.jpg)

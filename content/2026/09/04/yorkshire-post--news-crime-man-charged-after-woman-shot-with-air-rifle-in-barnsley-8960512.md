@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: A 28-year-old man has been charged after a woman suffered serious injuries
   when she was shot with an air rifle in Barnsley .
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/03/5/28/Windsor-Street-in-Thurnscoe-Barnsley.png?trim=0,18,0,18&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Man charged after woman shot with air rifle in Barnsley

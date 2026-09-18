@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: The massive hospital that long cared for the city's most vulnerable residents
   was shuttered after the last patients and staff were rescued in 2005
 image: https://static.independent.co.uk/2026/08/28/12/New_Orleans_Katrina_Hospital_11862.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 In the chaos of Hurricane Katrina, Charity Hospital in New Orleans became a scene of heartbreak and heroism, with doctors scrambling to keep patients alive without power or functioning medical equipment while floodwaters trapped them inside its darkened halls for days on end.

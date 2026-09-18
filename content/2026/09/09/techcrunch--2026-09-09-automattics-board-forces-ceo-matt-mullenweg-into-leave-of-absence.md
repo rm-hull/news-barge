@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T04:31:45Z'
 published: '2026-09-09T00:00:00Z'
 description: Mullenweg said in a company Slack message that it was against his will.
 image: https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-bling-watch.jpg?resize=1200,799
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Careers & Productivity
 ---
 
 Matt Mullenweg, the founder and CEO of Automattic, best known as the parent company of WordPress.com, has been put on a leave of absence by his board against his will, according to a Slack message seen by TechCrunch.

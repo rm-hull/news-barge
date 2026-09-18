@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Survivors begin receiving letters with payment amounts months after $305m
   settlement agreement was struck
 image: https://i.guim.co.uk/img/media/7d398b631dd9b7990672912f3abd30253180bfbd/408_0_4080_3264/master/4080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=61e4e65d0de52bd2fc64b6a655de36d8
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Survivors of child rape and other sexual abuse within New Orleans’s Roman Catholic archdiocese learned that $641,000 or so is the most they can individually get under a settlement approved in December to resolve a years-long bankruptcy protection case.

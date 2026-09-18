@@ -9,6 +9,10 @@ description: Israeli Premier Benjamin Netanyahu is facing a political storm and 
   in the middle of Israel’s election campaign that he ignored a direct warning from
   the UAE about the imminence of Hamas’ 7 October attack in 2023.
 image: https://images.euronews.com/articles/stories/09/90/58/59/1200x675_cmsv2_e8d891d6-3f86-58c1-8e5b-2487d8ed5dee-9905859.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Israeli Premier Benjamin Netanyahu is facing a political storm and accusations in the middle of Israel’s election campaign that he ignored a direct warning from the UAE about the imminence of Hamas’ 7 October attack in 2023.

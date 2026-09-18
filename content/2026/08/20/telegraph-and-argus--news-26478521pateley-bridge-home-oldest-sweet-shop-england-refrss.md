@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: Pateley Bridge is a great place to stop off during a long hike to the
   Yorkshire Dales.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21342426.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
+- Lifestyle & Fashion
 ---
 
 If you are planning a trip to the Yorkshire Dales any time soon, there are so many tiny villages and towns that should be on your must-visit list.

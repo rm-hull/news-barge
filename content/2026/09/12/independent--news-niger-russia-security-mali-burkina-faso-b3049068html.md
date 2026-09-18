@@ -8,6 +8,9 @@ published: '2026-09-12T00:00:00Z'
 description: Niger’s junta leader has appointed a new armed forces chief after a deadly
   mutiny threatened their hold on power
 image: https://static.independent.co.uk/2026/08/30/15/Niger_Gunfire_62938.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Niger’s junta leader appointed a new armed forces chief, less than two weeks after a deadly mutiny threatened the junta’s grip on power.

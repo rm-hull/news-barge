@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: 'Bullying, sexist remarks and fights: this is everyday life at many schools
   in Berlin. What new rules are intended to ensure greater safety.'
 image: https://www.berlin.de/binaries/asset/image_assets/10610887/ratio_4_3/1788444996/800x600/
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Society & Culture
+- Education & Learning
 ---
 
 © dpa

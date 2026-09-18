@@ -9,6 +9,10 @@ description: The prime minister used his first statement to the Commons since ta
   over from Keir Starmer to argue Brexit was one of ‘a series of wrong turns’ taken
   by the UK since the 1980s
 image: https://static.independent.co.uk/2026/09/01/19/01M1F1E7HJMWCE762FVJDTBD03.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Andy Burnham has lashed out at the legacy of Brexit, saying it “ushered in a decade of low growth” which the UK is still paying for, as he made his first statement as prime minister to the Commons.

@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Lindisfarne Festival at Beal Farm on the Northumberland coast is on track
   for a complete sell-out after organisers revealed only 500 tickets remain…
 image: https://www.thenorthernecho.co.uk/resources/images/21369665.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A North East music festival is on course for a complete sell-out after organisers revealed just 500 tickets remain ahead of what is set to be its biggest event yet.

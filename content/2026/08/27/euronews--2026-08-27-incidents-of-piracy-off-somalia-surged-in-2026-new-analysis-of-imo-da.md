@@ -9,6 +9,11 @@ description: The region, which hosts some of the world's busiest shipping routes
   has seen traffic heavily disrupted since the Iran war began on 28 February, affecting
   shipping through the crucial Strait of Hormuz.
 image: https://images.euronews.com/articles/stories/09/89/17/60/1200x675_cmsv2_b53782b4-b5c4-536e-a150-be5fa66c50dd-9891760.jpg
+categories:
+- Europe
+- News & Politics
+- History
+- Sports
 ---
 
 ## The region, which hosts some of the world's busiest shipping routes, has seen traffic heavily disrupted since the Iran war began on 28 February, affecting shipping through the crucial Strait of Hormuz.

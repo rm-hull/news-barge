@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: In its Monday ruling, the high court refrained from declaring Trump’s
   order lawful
 image: https://static.independent.co.uk/2026/07/09/20/2026-07-04T070532Z_123339809_RC2PSJAQCP24_RTRMADP_3_USA-COURT-ROBERTS.JPG?trim=0,27,0,27&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Law & Justice
 ---
 
 A preliminary Supreme Court decision allowing President Donald Trump’s directive restricting mail-in voting has cast deep uncertainty over the voting process used by nearly a third of the American electorate, even if it fails to alter a single procedure ahead of the November midterms.

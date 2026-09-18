@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T08:59:52Z'
 published: '2026-08-24T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/river-derwent-ferry-lane-breighton-aerial-gsv.webp
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 An alert went out after a boat suffered engine trouble late last night (Sunday).

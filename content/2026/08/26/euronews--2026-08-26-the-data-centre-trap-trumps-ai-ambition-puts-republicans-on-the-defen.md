@@ -9,6 +9,9 @@ description: Less than three months before the midterm elections, Republicans ar
   already facing tough headwinds – and now an unlikely issue has the potential to
   galvanise voters against them even further.
 image: https://images.euronews.com/articles/stories/09/88/66/00/1200x675_cmsv2_61fe47a0-d5c3-5b2a-a94d-0636f56a29e2-9886600.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Less than three months before the midterm elections, Republicans are already facing tough headwinds – and now an unlikely issue has the potential to galvanise voters against them even further.

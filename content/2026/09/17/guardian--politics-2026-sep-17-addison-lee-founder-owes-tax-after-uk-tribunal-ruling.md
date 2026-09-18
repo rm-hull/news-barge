@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: HMRC wins challenge over John Griffin’s claim to be non-dom despite having
   lived in England since childhood
 image: https://i.guim.co.uk/img/media/d672a9739c2002fef50c09846eb37752d2a30d13/142_0_3457_2765/master/3457.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5c72211d2eb600503021d1bccebf8b51
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The founder of Addison Lee owes £20.5m in tax after a tribunal dismissed a claim that he should be treated as a nom-dom despite living in the UK since childhood.

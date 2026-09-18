@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Oscar-winning actor says she and other outspoken critics of Israel have
   found it ‘impossible’ to get hired by major studios
 image: https://i.guim.co.uk/img/media/1f492e3655b3de42d32bf8c27a9ea31f3b901d74/352_0_2222_1777/master/2222.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eeb91daa5a6a9495dbb536b0c9ac890a
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 The Oscar-winning actor Susan Sarandon has said she is still losing work because of her outspoken support for Palestinians, despite what she described as a broader shift in public opinion against US support for Israel.

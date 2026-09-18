@@ -10,6 +10,9 @@ published: '2026-09-14T00:00:00Z'
 description: Dan Hay tells us how the developers discovered that a change from RTS
   to open-world shooter came about.
 image: https://cdn.mos.cms.futurecdn.net/G5xUXWMDmH7tKyiwfURRr3-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![A still from the StarCraft reveal teaser trailer showing the trooper Holt firing his weapon into oncoming enemies](https://cdn.mos.cms.futurecdn.net/G5xUXWMDmH7tKyiwfURRr3.jpg) 

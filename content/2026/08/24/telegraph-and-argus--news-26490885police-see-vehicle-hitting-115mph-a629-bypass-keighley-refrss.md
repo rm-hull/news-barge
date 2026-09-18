@@ -7,6 +7,11 @@ scraped_at: '2026-08-24T16:51:10Z'
 published: '2026-08-24T00:00:00Z'
 description: Drivers have been caught reaching speeds of up to 115mph.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20156506.jpg?type=og-image&yType=36
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: West Yorkshire Police)*

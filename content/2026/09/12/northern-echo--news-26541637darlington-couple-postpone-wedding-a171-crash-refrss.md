@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: A Darlington couple say their world has been "turned upside down" after
   a devastating crash left one of them unable to walk, forced them…
 image: https://www.thenorthernecho.co.uk/resources/images/21439284.jpg?type=og-image&xType=0&yType=20
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 A Darlington couple say their world was "turned upside down" after a horror crash forced them to postpone their wedding and left the bride-to-be unable to walk.

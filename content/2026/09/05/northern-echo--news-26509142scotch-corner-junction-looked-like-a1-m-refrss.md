@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Archive pictures reveal how Scotch Corner changed from a rural crossroads
   beside a hotel into today's huge A1(M) and A66 interchange.
 image: https://www.thenorthernecho.co.uk/resources/images/21392412.jpg?type=og-image&xType=0&yType=305
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 It is one of the most recognisable road junctions in the North of England, but Scotch Corner once looked dramatically different from the huge interchange drivers know today.

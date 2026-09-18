@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Public finance minister Hannah Mary Goodlad announced the policy ahead
   of a debate calling for a moratorium on such facilities.
 image: https://static.independent.co.uk/2026/09/16/11/16105709-a5de83cd-45e8-4c27-b0b5-5cc96b5c7748.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Environmental impact assessments will have to be carried out before large-scale data centres can go ahead, the Scottish Government has said.

@@ -10,6 +10,8 @@ published: '2026-09-03T00:00:00Z'
 description: I didn't expect 3D and micro-LED to be a perfect pair, but in retrospect,
   it was obvious.
 image: https://cdn.mos.cms.futurecdn.net/tQg58pwyS2smDyXviVUrJX-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A micro-LED 3D TV with a display of sunflowers on the screen](https://cdn.mos.cms.futurecdn.net/tQg58pwyS2smDyXviVUrJX.jpg) 

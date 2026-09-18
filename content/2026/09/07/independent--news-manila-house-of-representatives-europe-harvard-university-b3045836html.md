@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: A Philippine lawmaker and former House speaker has been charged with
   allegedly pocketing millions from flood control projects
 image: https://static.independent.co.uk/2026/09/07/10/Philippines_Corruption_663_2.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A Philippine lawmaker and former speaker of the House of Representatives was charged Monday for allegedly pocketing millions of dollars in kickbacks from flood control projects in a widening scandal concerning vital public construction to shield communities from typhoons.

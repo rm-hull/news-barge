@@ -7,6 +7,8 @@ scraped_at: '2026-08-26T13:12:04Z'
 published: '2026-08-26T00:00:00Z'
 description: Designing technology inclusively to work better for everyone
 image: https://cdn.mos.cms.futurecdn.net/hvkxS6YQxDoEiTLwWEaPJL-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Three office workers sitting together in front of a laptop in an office](https://cdn.mos.cms.futurecdn.net/hvkxS6YQxDoEiTLwWEaPJL.jpg) 

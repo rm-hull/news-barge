@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T22:14:23Z'
 published: '2026-08-27T00:00:00Z'
 description: The Lincoln spent 266 days deployed, 200 of them in a combat zone
 image: https://static.independent.co.uk/2026/02/03/19/07/GettyImages-52126743.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Reports from the USS Abraham Lincoln describe a crew running on almost no sleep and suffering mental strain.

@@ -9,6 +9,13 @@ published: '2026-09-12T00:00:00Z'
 description: Discover Ford and Etal, two beautiful Northumberland villages with a
   castle, steam railway, working mill, tearooms and the county's only…
 image: https://www.thenorthernecho.co.uk/resources/images/21431499.jpg?type=og-image&xType=0&yType=149
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- Arts & Culture
+- History
 ---
 
 Northumberland is packed with villages boasting spectacular views and ancient buildings.

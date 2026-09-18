@@ -7,6 +7,11 @@ scraped_at: '2026-09-12T12:09:54Z'
 published: '2026-09-12T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/05/dead-northern-film-festival-fb.webp
+categories:
+- Local
+- York
+- Arts & Culture
+- Travel
 ---
 
 A York venue will be transformed into a ‘sinister’ immersive experience – as part of annual horror film festival.

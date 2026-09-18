@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: York manufacturer of fabricated metal products- IMS ENERGY- has gone
   under owing more than £1million.
 image: https://www.yorkpress.co.uk/resources/images/21363297.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 IMS Energy was registered at Popeshead Court Offices in Peter Lane, York. (Image: Pic supplied)

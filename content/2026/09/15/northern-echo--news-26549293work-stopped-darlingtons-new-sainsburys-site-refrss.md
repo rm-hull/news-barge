@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: Questions have been raised over the future of a long-awaited supermarket
   development in Darlington after work on the site appeared to grind to a…
 image: https://www.thenorthernecho.co.uk/resources/images/21454111.jpg?type=og-image&xType=0&yType=114
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ### What is the Public Notice Portal?

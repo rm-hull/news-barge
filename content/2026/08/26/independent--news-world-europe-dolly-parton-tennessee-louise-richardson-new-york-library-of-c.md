@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Dolly Parton's death is shining a new light on the country music icon's
   philanthropy
 image: https://static.independent.co.uk/2026/08/25/19/Obit_Dolly_Parton_42477.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Music
 ---
 
 Just weeks after Hurricane Helene devastated the American South in 2024, Dolly Parton stood on a stage in her iconic blonde wig, with a song on her lips. She promised the flood-ravaged community in her native Tennessee — to the tune of her classic song “Jolene” — that “we're all here to mend these broken hearts.”

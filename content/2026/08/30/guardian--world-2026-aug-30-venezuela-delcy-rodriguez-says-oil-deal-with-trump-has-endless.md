@@ -9,6 +9,9 @@ published: '2026-08-30T00:00:00Z'
 description: Deal that will reportedly see US take control of 65bn barrels of Venezuelan
   oil has provoked outrage in her country
 image: https://i.guim.co.uk/img/media/a05710204f48a2fa20464f28a36ef2667539fbe3/185_142_4154_3323/master/4154.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f3e4698c709ab308f10642fa1d4ff332
+categories:
+- UK
+- News & Politics
 ---
 
 Venezuela’s interim president, Delcy Rodríguez, has defended her government’s highly controversial energy deal with Donald Trump, insisting the South American country will maintain ownership and sovereignty over its massive oil reserves.

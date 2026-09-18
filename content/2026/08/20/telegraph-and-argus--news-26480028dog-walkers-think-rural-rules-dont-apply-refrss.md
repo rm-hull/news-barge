@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: I WAS making my way down Penyghent recently when a couple of walkers
   with a sheep dog were coming up the other way.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21345006.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Pets & Animals
 ---
 
 I WAS making my way down Penyghent recently when a couple of walkers with a sheep dog were coming up the other way.

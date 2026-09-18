@@ -8,6 +8,12 @@ published: '2026-08-29T00:00:00Z'
 description: THE walking around Upper Swaledale encapsulates much which makes the
   Yorkshire Dales a great area to explore. Getting there takes time but on…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21376505.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
+- Travel
 ---
 
 THE walking around Upper Swaledale encapsulates much which makes the Yorkshire Dales a great area to explore. Getting there takes time but on arrival enjoy the rolling moors, industrial heritage, pretty villages all flanked by the picturesque River Swale.

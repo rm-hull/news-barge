@@ -10,6 +10,8 @@ description: ChatGPT for Teens adds age-appropriate safety measures, parental co
   and learning tools designed to steer teens away from harmful content — and from
   using AI to cheat on their homework.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Still-04-HomeworkReminder__1_.webp?resize=1200,675
+categories:
+- Technology & Software
 ---
 
 After numerous lawsuits over AI chatbots’ lack of safety measures, leading to teens’ suicides and other mental health concerns, OpenAI on Monday announced the launch of ChatGPT for Teens. The new product promises to include additional safety measures, as well as the educational crisis of ChatGPT-assisted cheating in schools.

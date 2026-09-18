@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Rescuers searching for 22 missing sailors have found no trace of their
   Panama-flagged cargo ship that sank in the Bay of Bengal off the coast of India
 image: https://static.independent.co.uk/2026/08/25/17/India_Ship_Rescue_42819.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Sports
 ---
 
 Rescuers searching for 22 missing sailors have found no trace of their Panama-flagged cargo ship after the vessel sank in the Bay of Bengal last week, the Indian Coast Guard said Tuesday.

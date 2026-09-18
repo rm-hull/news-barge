@@ -10,6 +10,9 @@ description: UK reasserts support for Palestinian rights and a two-state solutio
   describing Israeli settler terror attacks as perpetrating ethnic cleansing in West
   Bank
 image: https://i.guim.co.uk/img/media/72511061c7679c0d11237294a7e3584153591763/386_0_4646_3716/master/4646.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7e12c62e4ad628fc00f116e4a4c8269e
+categories:
+- UK
+- News & Politics
 ---
 
 UK sanctions on Israeli settlements in West Bank will take up to nine months to come into force, Miliband says – UK politics live

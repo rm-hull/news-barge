@@ -7,6 +7,9 @@ scraped_at: '2026-09-02T12:45:59Z'
 published: '2026-09-02T00:00:00Z'
 description: ‘Who cares if it’s Lake Ontario? It’s a good name,’ Rogan told listeners
 image: https://static.independent.co.uk/2026/09/02/8/26/Screenshot-2026-09-02-at-08-59-27.png?trim=0,0,151,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Podcaster Joe Rogan has torn into President Trump over his decision to rename Lake Ontario.

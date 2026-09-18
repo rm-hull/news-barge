@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: Built to tackle Victorian York's growing rubbish problem, the city's
   iconic Foss Islands chimney remains standing 127 years later.
 image: https://www.yorkpress.co.uk/resources/images/21408933.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 ## 127 years and still standing: the remarkable story of York's 'Morrisons chimney'

@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Work is well underway on a new sports bar hoping to bring “stadium level
   energy” to Middlesbrough town centre.
 image: https://www.thenorthernecho.co.uk/resources/images/21401647.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: THE NORTHERN ECHO)*

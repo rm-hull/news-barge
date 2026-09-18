@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Students like Jessica say they worry about missing out on student life,
   but feel they have no choice but to stay at home.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c94d/live/f132db30-97db-11f1-bb4c-d758974ed97b.jpg
+categories:
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 ![Beatrice and Amelia stand side by side outdoors, looking towards the camera. Amelia is wearing a dark sleeveless top with sunglasses resting on their head, while Beatrice is wearing a white top with patterned ruffled sleeves. The background is softly blurred and shows a modern building entrance.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/c94d/live/f132db30-97db-11f1-bb4c-d758974ed97b.jpg)

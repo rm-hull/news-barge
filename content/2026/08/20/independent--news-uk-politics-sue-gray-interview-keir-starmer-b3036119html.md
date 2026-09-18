@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T08:52:45Z'
 published: '2026-08-20T00:00:00Z'
 description: Lady Gray was among 30 new Labour peers announced last December
 image: https://static.independent.co.uk/2023/06/30/14/1317165c188dc68263148d8068009ee1Y29udGVudHNlYXJjaGFwaSwxNjg4MjE2MjA4-2.71205539.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 Sir Keir Starmer’s former chief of staff has described working inside Downing Street as "definitely unbearable" in her first interview following her resignation.

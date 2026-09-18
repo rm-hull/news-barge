@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Shares in Rockhopper fell on Friday morning after Argentina’s president
   threatened to sanction firms.
 image: https://static.independent.co.uk/2026/09/04/12/04123147-c46f361e-e803-4906-92fa-16baccc32a6b.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A British-based oil exploration company has said it does not expect threats by the Argentinian government to have a “material effect” on its offshore oil project near the Falkland Islands.

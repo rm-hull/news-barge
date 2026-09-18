@@ -10,6 +10,10 @@ description: TotalEnergies service stations are accused of distorting competitio
   as a loss leader to pull in customers are furious, along with independent service
   stations.
 image: https://images.euronews.com/articles/stories/09/91/61/92/1200x675_cmsv2_a41c8fa7-69b4-55f2-8fa4-e4f87a12a6a1-9916192.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## TotalEnergies service stations are accused of distorting competition as they display France's lowest-priced fuel. Supermarkets that usually sell fuel as a loss leader to pull in customers are furious, along with independent service stations.

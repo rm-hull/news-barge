@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Richard Huye charged with conspiracy to commit wire fraud in apparent
   scheme linked to 2021 storm aftermath
 image: https://i.guim.co.uk/img/media/3611e48dff804930af0cb3b3348fb4496b428a3d/966_0_4814_3853/master/4814.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5649a31ee546148f20446dd6fc75d0cf
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The first defendant charged in connection with an alleged major property insurance fraud scheme in the aftermath of Hurricane Ida in 2021 in Louisiana appears poised to plead guilty, if federal criminal court records are any indication.

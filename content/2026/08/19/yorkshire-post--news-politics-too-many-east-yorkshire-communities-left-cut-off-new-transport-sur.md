@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Far too many East Yorkshire communities are being left cut off, according
   to a new transport survey.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZhOWEwNmU4LTAxNDgtNDlkZi04NmMyLTBmNmVkODg2MmZlMDphZjMyMTQ4MS05ZjZlLTRhZDUtYWY3Zi1hZThmZGI0M2NmMTA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Too many East Yorkshire communities left cut off, new transport survey finds

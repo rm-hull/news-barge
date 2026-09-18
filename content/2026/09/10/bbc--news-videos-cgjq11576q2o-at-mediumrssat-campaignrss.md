@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: The senator has also proposed a sort of sovereign wealth fund in which
   the US would take a 50% stake in AI companies.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4aa2/live/7b5bb340-ad67-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence

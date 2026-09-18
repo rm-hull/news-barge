@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A wholesale cash and carry in Bradford was told "major improvement" was
   necessary after it received a one-star food hygiene rating.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21397184.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Google Maps)*

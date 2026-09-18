@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: Many of Yorkshire's moorland fires are being caused by people rather
   than natural events, experts warn.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21188023.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 AFTER Yorkshire endured another period of hot, dry weather, firefighters and conservationists are warning that most moorland fires are caused not by natural events, but by people.

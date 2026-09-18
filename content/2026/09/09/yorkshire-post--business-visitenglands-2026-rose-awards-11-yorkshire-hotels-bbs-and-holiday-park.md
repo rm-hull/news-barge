@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: The VisitEngland 2026 ROSE Award winners have been published - and 11
   B&Bs, hotels and holiday parks in Yorkshire are among them.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY5MjI1MGY0LTliYjUtNDBjMi1iNzc5LTMyMjRlNjc1NGU5MDo2OGE4Njc1ZC02YmQ4LTRiNTktYWM1ZC1jN2FhNzI5ZmE5NTM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # VisitEngland’s 2026 ROSE Awards: 11 Yorkshire hotels, B&Bs and holiday parks win hospitality award

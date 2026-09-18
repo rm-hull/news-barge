@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: A Bradford business is set to give away 10,000 free drinks to primary
   school pupils as part of a new initiative recognising achievement, effort and…
 image: https://www.thetelegraphandargus.co.uk/resources/images/19685979.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest)*

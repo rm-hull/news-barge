@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: Rocket-launched interceptors are designed to counter drones like the
   infamous Shahed.
 image: https://cdn.mos.cms.futurecdn.net/Cv75KjR8sf33C5xfiMwoX-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![Terra B1 interceptor](https://cdn.mos.cms.futurecdn.net/Cv75KjR8sf33C5xfiMwoX.jpg) 

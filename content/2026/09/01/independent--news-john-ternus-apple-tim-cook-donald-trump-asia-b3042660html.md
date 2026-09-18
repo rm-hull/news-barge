@@ -9,6 +9,11 @@ description: Apple’s new CEO John Ternus takes the helm of the iconic tech gia
   Tuesday, ending Tim Cook’s 15-year tenure that saw the company’s value skyrocket
   to $4.6 trillion thanks to the iPhone’s enormous popularity
 image: https://static.independent.co.uk/2026/09/01/11/Apple_New_CEO_82454.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Apple's new CEO John Ternus takes the helm of the iconic tech giant on Tuesday, ending Tim Cook's 15-year tenure during which the company's value skyrocket to $4.6 trillion thanks to the iPhone's enormous popularity.

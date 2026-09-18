@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Family, friends and former colleagues have paid tribute to former Darlington
   councillor David Lyonette, remembered by loved ones as “Darlington…
 image: https://www.thenorthernecho.co.uk/resources/images/21432301.jpg?type=og-image&xType=0&yType=79
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Family, friends and former colleagues have paid tribute to former Darlington Mayor David Lyonette as being “Darlington through and through”.

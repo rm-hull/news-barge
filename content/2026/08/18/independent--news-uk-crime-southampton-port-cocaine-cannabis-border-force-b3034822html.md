@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: 290 kilograms of cannabis were found stashed inside a hardwood flooring
   shipment
 image: https://static.independent.co.uk/2026/07/13/10/15/iStock-1614164858.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Health & Fitness
 ---
 
 Illegal drugs valued at over £160 million have been intercepted at a single UK port within one month.

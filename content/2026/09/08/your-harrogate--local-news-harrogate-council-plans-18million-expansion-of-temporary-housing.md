@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: North Yorkshire Council is proposing to invest £18 million in providing
   more temporary homes for people facing homelessness.
 image: https://mmo.aiircdn.com/409/6a9fb45ea2e92608eb1.jpg
+categories:
+- Local
+- Harrogate
+- Personal Finance & Investing
+- Real Estate
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9fb45ea2e92608eb1.jpg) 

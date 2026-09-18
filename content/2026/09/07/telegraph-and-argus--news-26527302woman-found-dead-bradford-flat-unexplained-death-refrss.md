@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: A woman's death is being treated as unexplained after she was found dead
   inside a flat in Bradford city centre.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21418739.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- True Crime
 ---
 
 *(Image: T&A)*

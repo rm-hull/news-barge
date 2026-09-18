@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Albanian criminal has cut bars, descended sheets and even used human
   pyramid in escapes in Italy and Belgium
 image: https://i.guim.co.uk/img/media/c87771f9c5263c5a7df4cf32dd27cf88374c257e/442_0_4431_3544/master/4431.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=618c716d8ba6bb961867578edfdec377
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Police in Spain have arrested a dangerous Albanian criminal nicknamed the “escape wizard” who has managed to break out of four jails in Italy and Belgium by sawing through bars, clambering down knotted sheets and even using a human pyramid to breach prison walls.

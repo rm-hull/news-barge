@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Local businesses are being invited to support Harrogate's first dedicated
   youth basketball club.
 image: https://mmo.aiircdn.com/409/6a44b30b6b73cfa7cc8.jpg
+categories:
+- Local
+- Harrogate
+- Sports
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6a44b30b6b73cfa7cc8.jpg) 

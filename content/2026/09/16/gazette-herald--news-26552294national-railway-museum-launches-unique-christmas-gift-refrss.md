@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: A MUSEUM is offering the chance to adopt a piece of railway history as
   a unique Christmas gift.
 image: https://www.gazetteherald.co.uk/resources/images/21458280.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Need for Speed Underground 2, Quake III, and OpenTTD playable, WarCraft
   III in progress.
 image: https://cdn.mos.cms.futurecdn.net/fa5rCFArWpEn4fibYKdVyZ-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Need for Speed Underground 2 - Windows game on the Switch](https://cdn.mos.cms.futurecdn.net/fa5rCFArWpEn4fibYKdVyZ.jpg) 

@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T20:17:50Z'
 published: '2026-09-14T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/lee-moran-york-magistrates-court.webp
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 A York man has received a suspended prison sentence after being convicted of hanging an abusive flag on the city walls directed at York MP Rachael Maskell.

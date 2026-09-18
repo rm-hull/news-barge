@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: Omaha mayor said police have honored the school district's decision to
   ‘opt out’
 image: https://static.independent.co.uk/2024/09/14/01/Cruiser_Night.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Police officers serving Omaha’s largest public school district will no longer be equipped with electric-shock gloves after the superintendent requested that the initiative be suspended this week, the mayor said.

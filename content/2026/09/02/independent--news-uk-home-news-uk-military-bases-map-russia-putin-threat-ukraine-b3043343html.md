@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Putin warned ‘any military facilities in Ukraine are our legitimate target,
   British or otherwise’
 image: https://static.independent.co.uk/2026/09/02/11/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Vladimir Putin has issued an ominous new warning over the UK’s support for Ukraine saying that it is a “military secret” whether or not Russia is weighing up possible strikes on British military sites.

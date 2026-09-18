@@ -10,6 +10,8 @@ description: Steve Way is easily the breakout start of new Hulu and Disney+ show
   — but his behind-the-scenes prep has completely changed my mind about the use of
   AI.
 image: https://cdn.mos.cms.futurecdn.net/Sptr4yTmsfpBBYVZxGykV-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Alice talks to Nora and Frank](https://cdn.mos.cms.futurecdn.net/Sptr4yTmsfpBBYVZxGykV.jpg) 

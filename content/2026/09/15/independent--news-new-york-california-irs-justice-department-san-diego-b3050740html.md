@@ -9,6 +9,11 @@ description: Federal authorities have charged a dozen people for fraudulently co
   over $10 million in childcare payments without having actual attendees at their
   facilities
 image: https://static.independent.co.uk/2026/09/15/19/Daycare_Fraud_55_49.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Society & Culture
 ---
 
 Federal authorities charged a dozen people Tuesday for fraudulently collecting more than $10 million in government childcare payments, when the operators had few or even no actual children attending their facilities.

@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: Bradley Townsend reportedly killed by a drone on 10 June in Donetsk region
   after joining up with separatists
 image: https://i.guim.co.uk/img/media/3b92b6c40976eed7ffc627611d0e908897a4625b/55_298_2555_2044/master/2555.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=65aee3568133e77825bad836d1d3a918
+categories:
+- UK
+- News & Politics
 ---
 
 A man from South Yorkshire is believed to be the first British citizen to die fighting for Russia in its war against Ukraine.

@@ -9,6 +9,11 @@ description: President Donald Trump’s ‘Operation Epic Fury’ assault on Ira
   $33.4 billion and has resulted in a strategic missile shortage, the Department of
   Defense’s inspector general finds
 image: https://static.independent.co.uk/2026/03/14/9/30/SEI289287036.jpg?trim=0,1,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- History
 ---
 
 President Donald Trump’s “Operation Epic Fury” assault on Iran cost $33.4 billion in its first four months and has resulted in a munitions shortfall, according to a report by the Department of Defense’s inspector general.

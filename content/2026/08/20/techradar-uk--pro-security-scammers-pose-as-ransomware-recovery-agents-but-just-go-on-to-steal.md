@@ -8,6 +8,11 @@ scraped_at: '2026-08-20T16:47:57Z'
 published: '2026-08-20T00:00:00Z'
 description: Ransom Busters are not an actual ransomware recovery firm
 image: https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-2560-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- True Crime
 ---
 
 ![A pink triangle with a red exclamation mark inside on a blue digital landscape](https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL.jpg) 

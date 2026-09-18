@@ -8,6 +8,11 @@ scraped_at: '2026-09-09T12:57:31Z'
 published: '2026-09-09T00:00:00Z'
 description: 'From: Cathy Slaughter, Whitehall, Bideford.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM0NjUwZmNmLTAxNmYtNDVkNC1iODg1LWE1NzMxYTlhMjJhZTpkNzQyZWU4Yi0xYTczLTRjMGUtYmM4NC04YjVjNTZhMTIxNzc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Fairer farm tenancy law needed, not a rethink on renewable energy - Yorkshire Post Letters

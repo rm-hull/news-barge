@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Harrogate Town sign Leyton Orient midfielder Michael Craig on a three-month
   loan deal.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9f82/live/3794c720-ad42-11f1-8a01-6d097895aae4.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![Michael Craig in action for Leyton Orient](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/9f82/live/3794c720-ad42-11f1-8a01-6d097895aae4.jpg)

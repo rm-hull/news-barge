@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: September marks the start of the summer-to-fall garden transition, and
   many gardeners are focusing on chrysanthemums
 image: https://static.independent.co.uk/2026/09/01/05/Gardening-Specialty_Mums_47155.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Home, Garden & DIY
 ---
 
 September marks the beginning of the great summer-to-fall garden transition and, although most summer plants still have life left in them, many gardeners are turning their attention to the iconic chrysanthemum.

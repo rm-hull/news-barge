@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Fresh funding for Sheffield solar-powered battery company comes as cuts
   bring rethink of UK aid strategy
 image: https://static.independent.co.uk/2026/08/25/17/2026-08-10T080311Z_685609831_RC2XCKACSLU9_RTRMADP_3_NIGERIA-ECONOMY-ELECTION.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 A British green technology company is seeking to help create Africa's "energy grid of the future" to reduce reliance on fossil fuels after signing an agreement to invest up to $75 million (£55m) in Nigeria by 2030.

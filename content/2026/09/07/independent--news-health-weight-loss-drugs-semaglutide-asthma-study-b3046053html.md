@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Connection to reduced asthma or COPD flare-ups was stronger with higher
   doses of the drug, study found
 image: https://static.independent.co.uk/2026/04/21/15/01KN3TJ5G6S1KSX1AGE40SX33W.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Patients with asthma using the weight loss and diabetes drug semaglutide may experience fewer attacks, a new study suggests.

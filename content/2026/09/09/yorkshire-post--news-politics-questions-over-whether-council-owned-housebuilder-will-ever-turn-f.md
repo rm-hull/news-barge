@@ -9,6 +9,12 @@ description: Concerned councillors have questioned whether North Yorkshire Counc
   loss-making housing company will ever turn its finances around — despite a five-year
   recovery plan being drawn up.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjZmZTcwNmJkLWFmMTQtNGMwMC1hY2QwLWUyZWIxYTA4Yzc2OTplNDExODdhZC1iZTYxLTRlNzktYmNmMi1iODI4ZGYyY2VmNDM=.jpg?crop=3:2,smart&trim=&width=691&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # Questions over whether council-owned housebuilder will ever turn finances around

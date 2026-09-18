@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: New research from Lloyds Business Barometer suggests 65 per cent of Yorkshire
   and Humber firms using AI say it has led to job creation.
 image: https://www.yorkpress.co.uk/resources/images/21073910.jpg?type=og-image&xType=0&yType=41
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Lee McLean/SWNS)*

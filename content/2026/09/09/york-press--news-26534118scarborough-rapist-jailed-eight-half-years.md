@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Phill Blunt, 39, from Scarborough, was sentenced at York Crown Court
   yesterday (Tuesday, September 8), for an offence that took place more than two…
 image: https://www.yorkpress.co.uk/resources/images/21428536.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
+- History
 ---
 
 *(Image: North Yorkshire Police)*

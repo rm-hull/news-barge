@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: Desktop PC buyers are paying the price as memory shortages and pricier
   GPUs choke gaming rig sales
 image: https://cdn.mos.cms.futurecdn.net/9mJJLtefyk5HMfLBzuXU6H-2048-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/9mJJLtefyk5HMfLBzuXU6H.jpg) 

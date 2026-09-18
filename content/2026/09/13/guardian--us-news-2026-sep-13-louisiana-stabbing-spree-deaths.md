@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Kaegan Jude Solet, 47, taken into custody after stabbings in Houma leave
   four dead and one wounded, authorities say
 image: https://i.guim.co.uk/img/media/79657f57284ea29fbdc239f41e24bad4f959fa49/1125_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc2d0d861c2d87175f451d21d04ba447
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Police arrested a person of interest after a series of stabbings in Houma, Louisiana, left at least four people dead and another person in critical condition in hospital.

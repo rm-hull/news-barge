@@ -8,6 +8,9 @@ published: '2026-09-06T00:00:00Z'
 description: Business Secretary Jonathan Reynolds praised the police, who he said
   ‘handled it very well’, despite criticism they were unprepared
 image: https://static.independent.co.uk/2026/09/05/14/01M1RRBDPPB475PB2PTSCFCJHH.jpg?trim=58,0,58,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A cabinet minister has condemned scenes in Dover in which hundreds of “intimidating” masked demonstrators blocked roads and access to the port.

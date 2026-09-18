@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: In the late 19th and early 20th century, West Yorkshire saw the rise
   of Hen Pecked Clubs.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21348538.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 DURING the latter half of the 19th century and into the early 20th century there took place in some towns and villages in the Pennines of West Yorkshire what was sometimes referred to as “the annual casting off of the apron strings”.

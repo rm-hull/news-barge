@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: 'Exclusive: Plastic surfaces form hotspots for interaction between plastics,
   microbes and agrochemicals'
 image: https://i.guim.co.uk/img/media/36117cb39cde8cd32289141f8425787140f75a0a/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b188e2feb00803029881b29eaa088511
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 Microplastics act like a “Trojan horse” delivering pollutants, pesticides and bacteria through the soil, a five-year multinational research project has found.

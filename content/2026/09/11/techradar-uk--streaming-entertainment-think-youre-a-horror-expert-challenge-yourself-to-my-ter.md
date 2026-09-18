@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: Peacock's Crystal Lake series arrives next month, but how much do you
   know about the original Friday the 13th series?
 image: https://cdn.mos.cms.futurecdn.net/GRD5kcjomjfu4BVoGoKA2k-1296-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Linda Cardellini in Crystal Lake](https://cdn.mos.cms.futurecdn.net/GRD5kcjomjfu4BVoGoKA2k.jpg) 

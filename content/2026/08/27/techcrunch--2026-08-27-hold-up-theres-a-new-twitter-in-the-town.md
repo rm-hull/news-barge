@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: Former Twitter trademark counsel Stephen Coates said in a LinkedIn post
   that the company is not trying to re-create Twitter.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-at-5.40.14-PM.jpg?w=938
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 You read that right. There is a new social network called “Twitter.now” on the block, and it’s being operated by a startup called Operation Bluebird, whose founding team includes former Twitter trademark counsel Stephen Coates.

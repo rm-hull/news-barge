@@ -7,6 +7,12 @@ scraped_at: '2026-09-18T04:34:36Z'
 published: '2026-09-17T00:00:00Z'
 description: Suzuki S-Cross 1.4 Boosterjet Ultra Auto review
 image: https://www.thenorthernecho.co.uk/resources/images/21470791.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 In an increasingly complicated car market, the Suzuki S-Cross offers a refreshingly straightforward alternative.

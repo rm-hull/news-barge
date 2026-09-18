@@ -10,6 +10,10 @@ description: 'Exclusive: Federal government notified after whistleblower says co
   have ‘minimal confidence in their ability to handle’ rule changes related to second
   airport'
 image: https://i.guim.co.uk/img/media/fa6b0d51dfc2fc1b643964c65b9f814ed369ec84/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=539916f90683d10b2df3cbb1e2dcc4cd
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Air traffic controllers at Sydney airport have warned federal safety regulators they have “grave concerns” about changes to airspace rules introduced last month, likening the situation to the months leading up to a crash in Washington DC in which 67 people died.

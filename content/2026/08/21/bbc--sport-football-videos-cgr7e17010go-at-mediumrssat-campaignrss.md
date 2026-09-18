@@ -9,6 +9,11 @@ description: Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champi
   Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game
   of the Premier League campaign at the Emirates Stadium.
 image: https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f4ad/live/ec1ad730-9da6-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 # Arsenal start title defence with comfortable win over Coventry

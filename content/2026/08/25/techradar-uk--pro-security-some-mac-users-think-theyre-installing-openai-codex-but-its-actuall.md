@@ -8,6 +8,8 @@ scraped_at: '2026-08-25T13:08:00Z'
 published: '2026-08-25T00:00:00Z'
 description: An elaborate scheme was designed to deploy AMOS
 image: https://cdn.mos.cms.futurecdn.net/UjSNcAZ5SebctebKAMQNVF-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Cybersecurity ensures data protection on internet. Data encryption, firewall, encrypted network, VPN, secure access and authentication defend against malware, hacking, cyber crime and digital threat](https://cdn.mos.cms.futurecdn.net/UjSNcAZ5SebctebKAMQNVF.jpg) 

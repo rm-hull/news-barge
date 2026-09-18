@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: A spokesperson for North Yorkshire Police said the "assault" happened
   at McDonalds in Blake Street around 8.10pm on Monday, August 17 and…
 image: https://www.yorkpress.co.uk/resources/images/21362827.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Newsquest)*

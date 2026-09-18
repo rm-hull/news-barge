@@ -9,6 +9,12 @@ published: '2026-09-06T00:00:00Z'
 description: A NEW programme of listening surgeries is being launched to give victims
   of crime a stronger voice.
 image: https://www.thenorthernecho.co.uk/resources/images/21409773.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- True Crime
 ---
 
 *(Image: Supplied)*

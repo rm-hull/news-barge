@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Rougier Street is shut until 6pm on Wednesday, August 26, with the positioning
   of machinery and equipment in the centre of the road.
 image: https://www.gazetteherald.co.uk/resources/images/21367390.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 A KEY York city centre road is closed as construction work continues on a new hotel.

@@ -10,6 +10,11 @@ description: Self-taught artist Judith Levin is known for her atmospheric Yorksh
   landscape paintings, offering solace amid a changing world, as she tells Stephanie
   Smith. Photographs by Simon Hulme.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjlhNTc1NDQzLWI3YTMtNGFlNS1hNDIyLWVkMmQ2Y2JmOTk5Yjo0NDEzZjk1ZC1hZTE4LTQ4MDAtYjk2Ni05ZTI0NGFiMGZlZjk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # 'My Yorkshire landscape paintings sell across the world': Artist Judith Levin opens her Otley gallery

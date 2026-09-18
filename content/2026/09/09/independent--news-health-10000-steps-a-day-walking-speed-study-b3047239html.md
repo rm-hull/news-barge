@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: While many people believe they should aim for 10,000 steps per day, researchers
   have cast new light on the issue
 image: https://static.independent.co.uk/2025/04/17/8/25/iStock-2178498436.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Walking at a quicker pace could offer identical health benefits to longer, more leisurely strolls, according to a new study.

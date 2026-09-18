@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Bradley Richards is among a group of six UK passengers suing Singapore
   Airlines for personal injuries
 image: https://static.independent.co.uk/2026/09/12/9/35/Bradley-Richards.jpeg?trim=321,0,118,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A holidaymaker who suffered severe spinal and neck injuries when a Singapore Airlines flight was struck by turbulence says he’s “still fighting to recover” from the traumatic experience two years on.

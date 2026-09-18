@@ -10,6 +10,12 @@ description: It’s that time of the year again for children. The summer holiday
   drawing to a close, a new school year is about to begin. Some will be dreading the
   idea of having to return to the enclosure of a classroom, others will be excited.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmYyNmE2OTk3LTE0ZGUtNDBmNi1iMzEyLThhNjA5NzU4YzM2NDo5ZDBiMjc4OC05YThjLTRjNmYtYjJjYy1jZDUwNjA1ZDdhOTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Education & Learning
+- Family & Parenting
 ---
 
 # What parental attitudes towards school uniforms tell us about how they view education - Ismail Mulla

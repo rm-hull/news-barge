@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Hurricane Lowell has exposed the fragility of emergency radio communication
   in Hawaiʻi
 image: https://static.independent.co.uk/2026/09/11/21/Extreme_Weather_Hurricane_Lowell_Hawaii_86583.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
+- Technology & Software
 ---
 
 For years it has been a mantra of emergency preparedness: Officials across the state urge Hawaiʻi residents to keep portable radios and extra batteries on hand whenever storms or other hazards pose a threat. The idea is those radios will convey urgent government warnings and updates when other systems fail.

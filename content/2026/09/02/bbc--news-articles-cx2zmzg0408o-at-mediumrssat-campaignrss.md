@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: Wong, 29, is already in prison on subversion charges under the controversial
   National Security Law.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e4a2/live/f86ae0c0-a5df-11f1-ae66-53604efd186f.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Close up shot of Hong Kong democracy activist Joshua Wong speaking behind a cluster of television news microphones](https://ichef.bbci.co.uk/ace/standard/996/cpsprodpb/e4a2/live/f86ae0c0-a5df-11f1-ae66-53604efd186f.jpg)

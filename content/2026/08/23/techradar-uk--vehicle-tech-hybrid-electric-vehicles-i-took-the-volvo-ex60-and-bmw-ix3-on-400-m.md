@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: I drove the Volvo EX60 and BMW iX3 on family road trips – now I’m convinced
   EVs are the best cars for long-distance travel
 image: https://cdn.mos.cms.futurecdn.net/CTRYEgdbENJZzjFeLKMeA6-1920-80.jpg
+categories:
+- Technology & Software
+- Automotive
+- Travel
 ---
 
 ![BMW iX3 v Volvo EX60](https://cdn.mos.cms.futurecdn.net/CTRYEgdbENJZzjFeLKMeA6.jpg) 

@@ -7,6 +7,9 @@ scraped_at: '2026-08-26T23:23:53Z'
 published: '2026-08-26T00:00:00Z'
 description: President Donald Trump says the United States doesn't need Canada
 image: https://static.independent.co.uk/2026/08/26/23/Canada_US_Dependence_51537.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 U.S. President Donald Trump says his country does not need Canada. But every day, roughly 4 million barrels of Canadian crude oil flow south, helping fuel American cars, trucks and airplanes and supply U.S. industry.

@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: A SEAFRONT restaurant and café in a popular North Yorkshire resort has
   applied for a pavement licence from the council.
 image: https://www.yorkpress.co.uk/resources/images/21343927.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 ## Seafront restaurant and café wants chairs and tables outside

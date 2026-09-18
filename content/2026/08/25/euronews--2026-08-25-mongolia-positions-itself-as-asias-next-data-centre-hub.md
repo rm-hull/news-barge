@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: During the COP17 conference in Ulaanbaatar, Mongolia offered potential
   data centre investors tax relief, data security, cheap energy, land, and cold weather.
 image: https://images.euronews.com/articles/stories/09/88/44/53/1200x675_cmsv2_8262ca64-6af6-5b9f-9134-dc6149d124cb-9884453.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## During the COP17 conference in Ulaanbaatar, Mongolia offered potential data centre investors tax relief, data security, cheap energy, land, and cold weather.

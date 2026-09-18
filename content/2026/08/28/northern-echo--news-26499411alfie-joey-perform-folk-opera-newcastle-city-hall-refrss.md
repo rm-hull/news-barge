@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Former BBC Radio Newcastle presenter Alfie Joey has joined a new folk
   opera, No More Sleeping, the musical, coming to Newcastle City Hall.
 image: https://www.thenorthernecho.co.uk/resources/images/21377392.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 Former BBC Radio Newcastle presenter Alfie Joey has joined the cast of a new folk opera.

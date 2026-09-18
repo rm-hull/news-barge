@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: America is restricting DJI drones while the Air Force quietly buys them
   for counter-drone drills at a nuclear missile base
 image: https://cdn.mos.cms.futurecdn.net/fAWikrsixriJrATJTHQZaG-1920-80.jpg
+categories:
+- Technology & Software
+- Health & Fitness
 ---
 
 ![DJI Mavic 2 Pro drone on yellow background](https://cdn.mos.cms.futurecdn.net/fAWikrsixriJrATJTHQZaG.jpg) 

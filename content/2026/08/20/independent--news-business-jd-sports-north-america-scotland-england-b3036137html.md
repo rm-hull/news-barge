@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: The retail chain said it was downgrading its profit outlook in a ‘tough’
   market.
 image: https://static.independent.co.uk/2026/08/20/08/36ecfd8ba6efe726e83bfa6633034f4cY29udGVudHNlYXJjaGFwaSwxNzg3Mjk1MTEx-2.78681677.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Sports
+- Personal Finance & Investing
 ---
 
 JD Sports has said consumers being squeezed by cost-of-living pressures such as higher fuel prices has dragged on its global sales, despite getting a boost with the demand for football kits in the UK.

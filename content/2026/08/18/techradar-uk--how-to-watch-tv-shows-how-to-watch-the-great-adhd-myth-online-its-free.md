@@ -8,6 +8,8 @@ published: '2026-08-18T00:00:00Z'
 description: Psychiatrist Max Pemberton takes on conventional thinking on ADHD in
   this incendiary Channel 4 documentary – here's how to watch it
 image: https://cdn.mos.cms.futurecdn.net/qXMWQmrJtfmqboq6R6YEr4-1066-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Dr Max Pemberton host of The Great ADHD Myth? Channel 4 documentary (60 mins) premiering Tuesday, August 18, 2026 on the UK broadcaster.](https://cdn.mos.cms.futurecdn.net/qXMWQmrJtfmqboq6R6YEr4.jpg) 

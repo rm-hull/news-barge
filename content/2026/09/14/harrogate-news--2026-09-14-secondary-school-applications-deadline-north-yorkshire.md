@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: North Yorkshire Council opens secondary school applications for Year
   6 pupils. Parents must apply online before the 31 October 2026 deadline.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Generic-school-pic-1.webp
+categories:
+- Local
+- Harrogate
+- Family & Parenting
 ---
 
 **HARROGATE** — Council education chiefs have issued an urgent advisory to parents and carers across the Harrogate district, urging them to complete secondary school placement applications well ahead of a strict autumn deadline.

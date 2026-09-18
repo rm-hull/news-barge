@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: Administrators say about £489,000 was owed for staff wages and holiday
   pay and £2.4m was owed to HMRC for unpaid VAT.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fb5a/live/c4324ac0-170d-11f1-b048-c9424b2cf5fd.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 ![People walk past a closed-down BrewDog bar in central London. The window of the pub has the word Brewdog written in large blue letters above its logo, featuring a white dog on a blue background.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/fb5a/live/c4324ac0-170d-11f1-b048-c9424b2cf5fd.jpg)

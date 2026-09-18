@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: The longtime executive won't be leaving Apple just yet but staff at the
   company say it's a step closer to Schiller retiring.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1660777497.jpg?resize=1200,799
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Tim Cook is departing from his long-held role as Apple’s CEO — and a wave of top executives are heading for the exits as he does.

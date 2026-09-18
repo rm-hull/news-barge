@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: FLU vaccinations are now underway to protect vulnerable groups in West
   Yorkshire ahead of winter.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20938356.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 *(Image: Bob Smith Grough Limited)*

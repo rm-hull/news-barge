@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Jack Dee brings Jack’s Joke Show to York Theatre Royal next year alongside
   Ronnie Scott’s Jazz Club and Northern Soul shows
 image: https://www.yorkpress.co.uk/resources/images/21469855.jpg?type=og-image
+categories:
+- Local
+- York
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 ## Legendary comedian Jack Dee to perform one-night-only York show in 2027

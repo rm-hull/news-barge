@@ -8,6 +8,9 @@ published: '2026-08-23T00:00:00Z'
 description: The sacked former defence minister has also called for elections to be
   held in Ukraine.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1da/live/9dcc87a0-9ecc-11f1-a6c1-71ec82f18bdc.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 Fedorov asked about Ukraine government corruption claims

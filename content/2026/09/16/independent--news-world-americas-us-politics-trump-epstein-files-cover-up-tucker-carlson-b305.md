@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Trump’s former ally says the president sought to prevent the release
   of the Epstein files before Congress passed a law to publish them
 image: https://static.independent.co.uk/2026/06/08/19/22/GettyImages-2181497303.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump “directly” ordered his administration to “cover up” millions of documents stemming from investigations into Jeffrey Epstein, according to the president’s now-former ally Tucker Carlson.

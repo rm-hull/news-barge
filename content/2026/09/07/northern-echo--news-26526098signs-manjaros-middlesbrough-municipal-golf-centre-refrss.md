@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Anticipation is growing as Manjaros is set to open on Ladgate Lane at
   Middlesbrough Municipal Golf Centre as signs go up and jobs are advertised.
 image: https://www.thenorthernecho.co.uk/resources/images/21416762.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: THE NORTHERN ECHO)*

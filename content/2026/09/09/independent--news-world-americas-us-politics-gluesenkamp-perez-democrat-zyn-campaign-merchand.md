@@ -9,6 +9,9 @@ description: Candidate running for re-election in a district that voted for Dona
   Trump in 2024 is leaning into nicotine habit that is particularly popular among
   young Republican men
 image: https://static.independent.co.uk/2026/09/09/16/45/Screenshot-2026-09-09-at-12-04-28-PM.png?trim=138,0,138,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A vulnerable Democrat running for re-election in a district that voted for President Donald Trump is trying a unique way to win over Republican voters: selling branded containers of Zyn nicotine pouches.

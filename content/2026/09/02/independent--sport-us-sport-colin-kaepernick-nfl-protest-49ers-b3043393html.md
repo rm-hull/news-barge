@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Colin Kaepernick says that while his mission goes on, his love for the
   NFL is long gone
 image: https://static.independent.co.uk/2026/09/02/11/2287540991..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Ten years after his protest against racial injustice made headlines across the sports world and beyond, former San Francisco 49ers quarterback Colin Kaepernick says his personal mission continues, but his affection for the NFL is long gone.

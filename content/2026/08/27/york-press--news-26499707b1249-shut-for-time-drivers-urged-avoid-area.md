@@ -7,6 +7,11 @@ scraped_at: '2026-08-27T12:01:17Z'
 published: '2026-08-27T00:00:00Z'
 description: A MAIN road in North Yorkshire is shut following an accident.
 image: https://www.yorkpress.co.uk/resources/images/18813705.jpg?type=og-image&xType=0&yType=140
+categories:
+- Local
+- York
+- Travel
+- Automotive
 ---
 
 ## Main road in North Yorkshire to be shut 'for some time' after crash

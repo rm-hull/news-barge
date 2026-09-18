@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: A student who once ruled out university is now heading to higher education
   with ambitions of becoming a children’s nurse.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21420043.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Supplied)*

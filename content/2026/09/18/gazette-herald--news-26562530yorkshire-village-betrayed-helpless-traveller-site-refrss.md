@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Furious residents say they feel “betrayed and helpless” after a Traveller
   site was built in the North Yorkshire countryside without planning…
 image: https://www.gazetteherald.co.uk/resources/images/21473070.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 Furious villagers say they feel “betrayed and helpless” after a Traveller site was built in the North Yorkshire countryside without planning permission over the weekend.

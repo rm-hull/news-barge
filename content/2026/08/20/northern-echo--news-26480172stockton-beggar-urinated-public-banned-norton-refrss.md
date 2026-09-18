@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: An abuse-hurling beggar who urinated in public and was spotted carrying
   a bladed article in public has been barred from Norton village.
 image: https://www.thenorthernecho.co.uk/resources/images/21183981.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: NORTHERN ECHO)*

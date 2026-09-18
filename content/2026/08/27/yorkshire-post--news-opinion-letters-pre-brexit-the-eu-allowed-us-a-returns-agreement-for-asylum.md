@@ -8,6 +8,11 @@ scraped_at: '2026-08-27T22:14:26Z'
 published: '2026-08-27T00:00:00Z'
 description: 'From: Peter Packham, Chair, Leeds for Europe, Roundhay, Leeds.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjBjYTBkNjEzLTZiODUtNGJkYy1iOTA1LTJkZDZhNDBiNTg5MDo1NTQ0NzI5Zi0wZWVlLTQxZGItOGI5MS01MjQ2ODEwMzEzMDM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Pre-Brexit the EU allowed us a returns agreement for asylum seekers - Yorkshire Post Letters

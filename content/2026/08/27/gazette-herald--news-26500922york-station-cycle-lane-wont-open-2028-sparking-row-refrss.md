@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A part of a major York regeneration scheme will not be finalised until
   2028, sparking a row.
 image: https://www.gazetteherald.co.uk/resources/images/21379422.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: York Liberal Democrats)*

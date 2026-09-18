@@ -9,6 +9,10 @@ description: The site, called Stud or Dud, helps daters dig up dirt on potential
   It’s fueled by the same public data as PeopleFinders.com—and comes with many of
   the same concerns.
 image: https://media.wired.com/photos/6a8dec9960465935e0bb1ba6/191:100/w_1280,c_limit/Background-Check-Company-Makes-Dating-App-Culture.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 We’ve all been there. You meet someone new on a dating app, start to envision a life together, only to wonder: Is the person actually who they say they are?

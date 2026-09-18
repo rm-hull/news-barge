@@ -9,6 +9,11 @@ description: Iran and Oman held talks in Tehran to discuss the management of tra
   passing through the Strait of Hormuz, as well as a joint mine-clearing project.
   Further negotiations are expected to discuss a permanent solution.
 image: https://images.euronews.com/articles/stories/09/88/87/96/1200x675_cmsv2_b2b032b0-4e13-5fc6-8d87-c53af219486a-9888796.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ## Iran and Oman held talks in Tehran to discuss the management of traffic passing through the Strait of Hormuz, as well as a joint mine-clearing project. Further negotiations are expected to discuss a permanent solution.

@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Three North Yorkshire inns owned by hospitality operator Simon Wade have
   received Tripadvisor Travellers’ Choice Awards.
 image: https://mmo.aiircdn.com/409/6aaa7b5670ecd909a6c.jpg
+categories:
+- Local
+- Harrogate
+- Travel
+- Careers & Productivity
 ---
 
 ![](https://mmo.aiircdn.com/409/6aaa7b5670ecd909a6c.jpg) 

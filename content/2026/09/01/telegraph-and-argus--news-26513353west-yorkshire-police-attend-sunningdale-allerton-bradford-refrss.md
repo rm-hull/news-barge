@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Residents reported seeing armed officers and multiple police vehicles
   on a Bradford street this afternoon as specialist teams attended a property.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18824454.jpg?type=og-image&xType=0&yType=71
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: PA/Charlotte Ball)*

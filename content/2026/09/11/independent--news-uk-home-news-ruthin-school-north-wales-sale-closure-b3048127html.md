@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: There are several notable alumni of Ruthin School, including John Lennon’s
   son Julian
 image: https://static.independent.co.uk/2026/09/10/17/34/Ruthin-School.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A 742-year-old school that educated John Lennon’s son is up for sale for £5 million after it closed due to financial pressures.

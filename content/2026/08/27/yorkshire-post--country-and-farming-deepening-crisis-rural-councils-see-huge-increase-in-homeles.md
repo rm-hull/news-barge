@@ -9,6 +9,11 @@ description: New figures from the County Councils Network found record numbers o
   families are being housed in bed and breakfasts, hostels and expensive ‘nightly-paid’
   accommodation across rural areas.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE2NzU4MTc3LTQwZDUtNDRiZS1hYjU1LTY1OWUyNGVhOTg3ZDpjNmYxY2JiOS03NDk1LTQ5ZmYtOTdkYy01MjA0N2UwMGFiMzY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # 'Deepening crisis': rural councils see huge increase in homeless families

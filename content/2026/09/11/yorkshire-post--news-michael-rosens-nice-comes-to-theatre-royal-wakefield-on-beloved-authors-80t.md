@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Cherished children’s author Michael Rosen comes to Wakefield tomorrow
   as part of a tour celebrating his 80th birthday year. He talks to John Blow.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM2NmNlZWE3LTg5ZDQtNGNkYi1hNGEyLTk4M2VmMTk4NmZkYjo0OTlhZTY5Zi03ZmNiLTQ2NTMtYmMzMC1lNDcwMzM1YmMxYmQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Michael Rosen's Nice! comes to Theatre Royal Wakefield on beloved author's 80th birthday year

@@ -9,6 +9,8 @@ published: '2026-09-11T00:00:00Z'
 description: Philips Smart Lighting has launched a system that's more affordable than
   the Hue version, and comes with a light strip in the box.
 image: https://cdn.mos.cms.futurecdn.net/KCbc8tZEu26HNdNXwko2id-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Philips Smart Lighting Screen Sync with Strip Light system lighting up the walls behind and beside a TV in a darkened room](https://cdn.mos.cms.futurecdn.net/KCbc8tZEu26HNdNXwko2id.jpg) 

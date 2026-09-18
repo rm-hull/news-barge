@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: 'Exclusive: Labour MPs believe SMC has become ineffective and its work
   ‘should be a core function of government’'
 image: https://i.guim.co.uk/img/media/d9c1aaa861e50eccea3bf029f08204844013eb2d/238_0_2373_1899/master/2373.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2c2e250593d50dfcffc597673e036b51
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Ministers are considering a shake-up of the government’s social mobility watchdog that could range from giving it more teeth to abolishing it outright.

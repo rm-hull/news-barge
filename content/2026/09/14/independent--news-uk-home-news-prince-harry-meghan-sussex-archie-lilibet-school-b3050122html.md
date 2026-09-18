@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The children of Prince Harry and Meghan Markle started at their new school
   last week
 image: https://static.independent.co.uk/2026/09/07/15/1d8e3df33db9edac1d2c0654a4a9bf14Y29udGVudHNlYXJjaGFwaSwxNzg4ODc4NjEx-2.84292759.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 The Duke and Duchess of Sussex have moved their children to a new school just two days into the new school term.

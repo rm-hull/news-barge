@@ -11,6 +11,10 @@ description: Kyiv residents surveyed damage and sheltered in subway stations aft
   buildings. An injured parking security guard stood by his booth, his pants torn
   from the blast.
 image: https://static.independent.co.uk/2026/08/20/16/Russia_Ukraine_War_33687.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Photos show Kyiv residents clutching pets, collecting bodies after Russian missile and drone attack

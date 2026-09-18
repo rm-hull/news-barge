@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Four directors from a heating and renewables company are preparing to
   take on a gruelling 56-mile charity walk to raise funds for Marie Curie.
 image: https://www.thenorthernecho.co.uk/resources/images/21370660.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

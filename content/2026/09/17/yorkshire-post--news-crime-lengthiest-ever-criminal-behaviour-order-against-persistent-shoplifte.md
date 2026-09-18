@@ -9,6 +9,12 @@ description: Redcar & Cleveland Borough Council’s Antisocial Behaviour Team an
   Eston NPT has secured what they believe to be the district's lengthiest ever criminal
   behaviour order (CBO) given to a shoplifter.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmYwZWZiNmM1LTgzMjQtNDIxYS1hYTU5LTJkOWY0Yjc1Y2ZhYzoyNjMxMDYxOC1mNGY5LTQxNGMtYTRiMy05NjllMWRkZTBmNTM=.jpg?crop=3:2,smart&trim=&width=720&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- Business & Entrepreneurship
 ---
 
 # “Lengthiest ever” criminal behaviour order against persistent shoplifter

@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Brazil’s Supreme Court canceled a second consecutive session of deliberations
   on Thursday, a rare step that highlights its deep institutional and political crisis
 image: https://static.independent.co.uk/2026/09/10/21/Brazil_Supreme_Court_68691.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Brazil's Supreme Court canceled a second consecutive session of deliberations on Thursday, a rare step that highlights its deep institutional and political crisis.

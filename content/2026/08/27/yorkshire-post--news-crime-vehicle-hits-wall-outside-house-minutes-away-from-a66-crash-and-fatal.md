@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: A vehicle crashed into a wall outside a house near Middlesbrough, minutes
   away from the scenes of two fatal incidents in less than a week.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/27/10/48/01M11A7SNRP7FN50VBF9KVQRNM.jpg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # Vehicle hits wall outside house minutes away from A66 crash and fatal house fire

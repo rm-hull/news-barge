@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: Archaeologists working beside Scotch Corner uncovered a huge Roman settlement,
   rare treasures and evidence of ancient coin production near the A1(M).
 image: https://www.thenorthernecho.co.uk/resources/images/7518247.jpg?type=og-image&xType=0&yType=144
+categories:
+- Local
+- UK
+- News & Politics
+- Science
+- History
 ---
 
 Thousands of drivers pass through Scotch Corner every day, but beneath the roads around one of the North's best-known junctions archaeologists uncovered evidence of another major transport hub dating back almost 2,000 years.

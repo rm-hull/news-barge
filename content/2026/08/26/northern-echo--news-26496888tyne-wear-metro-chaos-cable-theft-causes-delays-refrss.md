@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Yellow Line Metro trains were suspended between Pelaw and South Shields
   after another cable theft, with delays spreading across the wider network.
 image: https://www.thenorthernecho.co.uk/resources/images/20580314.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Another cable theft has brought Metro services to a halt, causing major disruption for passengers today.

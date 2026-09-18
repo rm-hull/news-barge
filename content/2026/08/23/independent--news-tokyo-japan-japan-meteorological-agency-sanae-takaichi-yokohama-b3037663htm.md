@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: A moderate earthquake with a preliminary magnitude of 5.9 has rattled
   eastern Japan, including the Tokyo area, but no tsunami warning was issued
 image: https://static.independent.co.uk/2026/08/23/05/Japan_Earthquake_98844.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A moderate earthquake rattled eastern Japan, including the Tokyo area, early Sunday, injuring more than 30 people, most of them lightly, officials said. There was no danger of a tsunami.

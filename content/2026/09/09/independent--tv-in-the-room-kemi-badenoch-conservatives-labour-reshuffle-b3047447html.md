@@ -14,6 +14,9 @@ description: 'Kemi Badenoch has been making some major changes to her shadow cab
   than the Labour party.” Listen to the full episode on Apple Podcasts and Spotify,
   or watch on YouTube.'
 image: https://cdn.jwplayer.com/v2/media/Uvdkj93y/poster.jpg?width=720
+categories:
+- News & Politics
+- UK
 ---
 
 ## Showing now | In The Room

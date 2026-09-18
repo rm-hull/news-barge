@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: Chinese rescue team reaches all-but-obliterated Gyirong border crossing
   complex to find ‘nothing but ruins’
 image: https://i.guim.co.uk/img/media/354fbd9087f6426e4a815de18580298cf136cb3d/0_73_602_482/master/602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a8850804dabb91577df6f0d9a9cbb1bf
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Death toll now stands at 579 in Nepal, seven in Tibet

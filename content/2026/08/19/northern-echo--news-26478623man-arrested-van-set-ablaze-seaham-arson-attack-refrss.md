@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A 60-year-old man has been arrested after a van was set alight in an
   “arson attack” behind an Aldi in Seaham.
 image: https://www.thenorthernecho.co.uk/resources/images/21324670.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A man has been arrested after a van was set alight in an "arson attack” in Seaham.

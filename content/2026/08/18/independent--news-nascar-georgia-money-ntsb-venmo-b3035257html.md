@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: A Georgia man has been charged with burglarizing former NASCAR driver
   Greg Biffle's home after he and his family died in a plane crash
 image: https://static.independent.co.uk/2026/08/18/22/NASCAR_Biffle_Auto_Racing_147_2.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Automotive
 ---
 
 A Georgia man burglarized former NASCAR driver Greg Biffle's home after learning Biffle and his family died in a plane crash, a North Carolina sheriff said Tuesday.

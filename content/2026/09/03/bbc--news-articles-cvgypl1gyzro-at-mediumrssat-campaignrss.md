@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Fans laid flowers on the singer's star after her death, but vandals scratched
   her name off.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c5fb/live/d98d87e0-a78b-11f1-9bb7-af8e8fd3d806.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Music
 ---
 
 ![A star on the pavement with Dolly Parton's name, and two bunches of red flowers and a photo laid on it](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/c5fb/live/d98d87e0-a78b-11f1-9bb7-af8e8fd3d806.jpg)

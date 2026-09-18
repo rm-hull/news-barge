@@ -7,6 +7,9 @@ scraped_at: '2026-08-24T11:53:32Z'
 published: '2026-08-24T00:00:00Z'
 description: How businesses can defend against autonomous AI-powered cyberattacks
 image: https://cdn.mos.cms.futurecdn.net/UjSNcAZ5SebctebKAMQNVF-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Cybersecurity ensures data protection on internet. Data encryption, firewall, encrypted network, VPN, secure access and authentication defend against malware, hacking, cyber crime and digital threat](https://cdn.mos.cms.futurecdn.net/UjSNcAZ5SebctebKAMQNVF.jpg) 

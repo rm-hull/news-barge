@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The sight of masked young men on electric bikes or motorcycles is becoming
   increasingly familiar - what can be done about it?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0653/live/1c1c34f0-b1df-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Two young men with black masks on riding electric motorbikes on a path in a rural area](https://ichef.bbci.co.uk/ace/standard/791/cpsprodpb/0653/live/1c1c34f0-b1df-11f1-b1d1-571ed4d7ff2c.jpg)

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Bronwen James, 30, admitted abusing two girls and was convicted of offences
   against a teenage boy.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d54/live/599b9310-ad21-11f1-826f-933990eae6f0.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 ![Bronwen James walking into court wearing a brown jacket over black clothing and sunglasses with died long brown hair](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/2d54/live/599b9310-ad21-11f1-826f-933990eae6f0.jpg)

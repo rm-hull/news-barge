@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: SIR Keir Starmer could be appointed to a job in North Yorkshire following
   his resignation from the House of Commons.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI4ZjYxYjQ3LWJlNTgtNDZlYy1hYWJmLWE4ODNkMGM3NjhhZjoxMGUzOWViZi1mMWM1LTQ5ODEtYTk4NC1mYWM2NjczZDIzNzM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Keir Starmer could be appointed to role in Scarborough following resignation

@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Britain’s biggest housebuilder said the year had started on a strong
   footing but that the Iran war had knocked consumer confidence.
 image: https://static.independent.co.uk/2022/02/09/09/01100814-09d8c9ec-9edc-48ab-8054-038040db811e.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Barratt Redrow has slowed land buying and cut its outlook for home sales in the year ahead as it warned the Government that planning reforms were “not enough”.

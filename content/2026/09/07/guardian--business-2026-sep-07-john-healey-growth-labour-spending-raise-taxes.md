@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Chancellor ducks questions on whether he will have to raise taxes but
   says he will stick firmly to fiscal rules
 image: https://i.guim.co.uk/img/media/7ac1a1ab26c15c6773452bf3aa4e26253d187642/336_0_3933_3147/master/3933.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b02c88f19be998ce5dcb137fb65975bc
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 John Healey has said boosting economic growth will be his defining mission as chancellor as he warned Labour had to “be honest” about the need to control public spending at next month’s budget.

@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Spanish Grand Prix organisers are set to make changes to the new Madrid
   circuit after criticism of its inaugural race at the weekend.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d477/live/9ea62f10-b041-11f1-bb36-29bb24d8b9b8.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Action at the Madring  with a Spanish flag flying](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d477/live/9ea62f10-b041-11f1-bb36-29bb24d8b9b8.jpg)

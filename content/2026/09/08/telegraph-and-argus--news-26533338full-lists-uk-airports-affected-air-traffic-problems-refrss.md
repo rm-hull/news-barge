@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Full list of UK airports are facing delays and groundings as air traffic
   control is hit with problems.
 image: https://www.thetelegraphandargus.co.uk/resources/images/16775163.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

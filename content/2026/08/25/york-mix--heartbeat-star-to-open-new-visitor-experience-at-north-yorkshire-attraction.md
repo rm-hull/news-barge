@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T20:40:20Z'
 published: '2026-08-25T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/0_david-lonsdale-t.webp
+categories:
+- Local
+- York
+- Music
 ---
 
 TV star to open new exhibition based on beloved North Yorkshire police drama.

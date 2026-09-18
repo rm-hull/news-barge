@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T04:33:13Z'
 published: '2026-09-17T00:00:00Z'
 description: The award was handed out last week, on the anniversary of the 9/11 attacks.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d685/live/90c8b8c0-b2be-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ![Handout photo sued by Lambeth Palace of Hafiz Muhammad Tahir Mehmood Ashrafi and his wife being presented with The Hubert Walter Award for Reconciliation and Interfaith Cooperation by The Most Revd and Rt Hon Dame Sarah Mullally, Archbishop of Canterbury for his outstanding work as an ambassador of interfaith harmony in Pakistan at The Lambeth Awards 2026 held at Lambeth Palace, London.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/d685/live/90c8b8c0-b2be-11f1-bc1f-3f186ca4140c.jpg)

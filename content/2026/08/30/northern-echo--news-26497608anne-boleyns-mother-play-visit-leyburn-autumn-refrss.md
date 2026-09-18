@@ -8,6 +8,13 @@ published: '2026-08-30T00:00:00Z'
 description: A four-star historical drama exploring the untold story of Anne Boleyn’s
   mother is heading to the Yorkshire Dales as part of a regional tour…
 image: https://www.thenorthernecho.co.uk/resources/images/21376607.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Arts & Culture
+- Travel
 ---
 
 *(Image: Keith Leech)*

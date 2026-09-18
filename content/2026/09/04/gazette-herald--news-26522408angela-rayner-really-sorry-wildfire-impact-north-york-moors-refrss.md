@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: ANGELA Rayner has said she is ‘really sorry to hear’ about the impacts
   of wildfires on the North York Moors.Angela Rayner MP, the Secretary…
 image: https://www.gazetteherald.co.uk/resources/images/21411106.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Music
 ---
 
 ANGELA Rayner has said she is ‘really sorry to hear’ about the impacts of wildfires on the North York Moors.

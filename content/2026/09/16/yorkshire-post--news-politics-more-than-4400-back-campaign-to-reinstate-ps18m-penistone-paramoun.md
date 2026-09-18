@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: More than 4,400 people have backed a petition urging Barnsley Council
   to reinstate plans for a £1.8m redevelopment of the Penistone Paramount cinema.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmU4MmE1NmVmLTc2MDgtNGRhYi05ZTcxLTM4MGI1YWZlNWNhMjpmNDVkY2M0YS03YmY0LTRjZGQtOTAwNy0wYzcwZDFjMjFlNzI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # More than 4,400 back campaign to reinstate £1.8m Penistone Paramount plans

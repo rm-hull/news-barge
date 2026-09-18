@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Netflix has confirmed the original stars of the coming-of-age sitcom
   are set to reprise their roles for the film.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/de56/live/c2d84b40-aa95-11f1-ab09-7f2415c9a652.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Comedy & Entertainment
 ---
 
 ![Simon Bird, Joe Thomas, James Buckley and Blake Harrison pose for photos at the world premiere of The Inbetweeners 2. The group are all wearing suits with skinny ties.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/de56/live/c2d84b40-aa95-11f1-ab09-7f2415c9a652.jpg)

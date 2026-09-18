@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: A lung cancer patient has praised an experimental treatment trial at
   the University Hospital of North Tees after the new approach to managing fluid…
 image: https://www.thenorthernecho.co.uk/resources/images/21341607.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Science
 ---
 
 A North East lung cancer patient has hailed an experimental treatment as a "brilliant success" after it helped him regain his quality of life while spending less time in hospital.

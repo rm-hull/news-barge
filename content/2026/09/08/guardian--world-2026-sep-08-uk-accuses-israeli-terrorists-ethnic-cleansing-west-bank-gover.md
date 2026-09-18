@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: Ed Miliband announces sanctions on trade with settlers as PM says in
   the Guardian it is time to act
 image: https://i.guim.co.uk/img/media/d9734320b2021c7eab5aaf9cb7a52cdf6c75bd22/377_0_3077_2463/master/3077.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6d3cb645bcc91d2bca128f0d6fd98f8b
+categories:
+- UK
+- News & Politics
 ---
 
 Settler terrorists supported by Benjamin Netanyahu’s government are committing ethnic cleansing in the West Bank, Ed Miliband has said, in the UK’s starkest condemnation since the foundation of the Israeli state.

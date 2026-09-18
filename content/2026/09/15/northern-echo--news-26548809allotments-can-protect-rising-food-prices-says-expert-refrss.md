@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: North East allotments could help protect communities from the effects
   of climate change, according to a leading plot holder.
 image: https://www.thenorthernecho.co.uk/resources/images/21453121.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: GSA MEDIA)*

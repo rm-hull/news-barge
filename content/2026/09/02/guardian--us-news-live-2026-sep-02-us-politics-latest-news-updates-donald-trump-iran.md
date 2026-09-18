@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: Cao has been serving as acting navy secretary since John Phelan departed
   the job unexpectedly and without explanation in late April
 image: https://i.guim.co.uk/img/media/ccb0588a9147125b34c2a8c0dd822f297b6072e4/341_239_3034_2428/master/3034.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d9cd62442d05f77f7e349728aa93fec4
+categories:
+- UK
+- News & Politics
 ---
 
 Trump nominates loyalist Hung Cao to be permanent navy secretary amid increased attacks on Iran

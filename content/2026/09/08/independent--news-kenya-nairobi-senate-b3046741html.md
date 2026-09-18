@@ -10,6 +10,10 @@ description: Doctors in Kenya have threatened to join a strike by nurses that ha
   entered a sixth week, citing an increased workload in hospitals as they cover for
   the impact of the industrial action
 image: https://static.independent.co.uk/2026/09/08/16/Kenya_Nurses_Strike_6_435.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Doctors in Kenya on Tuesday threatened to join a walkout by nurses that is now in its sixth week, citing an increased workload in hospitals as they cope with the impact of the strike.

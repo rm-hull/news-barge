@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The legendary UK actress, 67 - a frequent visitor to York - was spotted
   filming a new television series for Apple by an Oxford University landmark.
 image: https://www.yorkpress.co.uk/resources/images/21388404.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 ## UK acting legend, 67, spotted filming new TV series

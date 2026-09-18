@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: It comes after a UK minister said the Government was only aiming for
   300 jobs at its Aberdeen HQ.
 image: https://static.independent.co.uk/2026/09/18/11/3d580f16ef8a61b2b10d5cac1eefdd86Y29udGVudHNlYXJjaGFwaSwxNzg5ODExNDYx-2.84696330.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A UK minister has been accused of telling “fibs” after saying GB Energy was “never meant” to employ 1,000 people in Aberdeen.

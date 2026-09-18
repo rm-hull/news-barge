@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: A 31-year-old man from Bradford is missing - he has recently been staying
   in Scrayingham, a village a few miles north-east of Stamford Bridge.
 image: https://www.yorkpress.co.uk/resources/images/21021317.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: North Yorkshire Police)*

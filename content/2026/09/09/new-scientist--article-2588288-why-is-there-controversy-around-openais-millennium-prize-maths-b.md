@@ -10,6 +10,9 @@ description: 8 September should have been an exciting day of celebration for mat
   worldwide. Instead, it became a confusing, salacious and intriguing drama. Why was
   the solution to one of the world's toughest mathematical problems embroiled in controversy?
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311482492.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311482492.jpg?w=840)

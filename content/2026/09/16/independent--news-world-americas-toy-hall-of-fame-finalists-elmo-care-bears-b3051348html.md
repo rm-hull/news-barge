@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Some entries have been knocking on the Hall door for years, including
   Tickle Me Elmo, the Pokémon Trading Card Game and Mahjong
 image: https://static.independent.co.uk/2026/09/16/15/11/GettyImages-76095010.jpg?trim=0,238,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Video Gaming
 ---
 
 A selection of childhood staples, ranging from Tickle Me Elmo to the humble playground slide, are among the finalists for this year's National Toy Hall of Fame.

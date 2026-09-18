@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Ben Delo's donation, the biggest single sum ever given to a political
   party in the UK, comes amid scrutiny of Reform's finances.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/751d/live/9bfaf8b0-ae32-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Ben Delo stands next to a woman at the launch of UnHerd's new club on 23 November 2022 in London. Both are holding champagne flutes and smiling](https://ichef.bbci.co.uk/ace/standard/359/cpsprodpb/82f3/live/33fbc200-ae2b-11f1-aa6c-6bdc87a16780.jpg)

@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A councillor has warned of a "real issue" with far-right radicalisation
   in Darlington, amid concerns about racism directed at refugee…
 image: https://www.thenorthernecho.co.uk/resources/images/21108072.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: HAUGHTON MATTERS)*

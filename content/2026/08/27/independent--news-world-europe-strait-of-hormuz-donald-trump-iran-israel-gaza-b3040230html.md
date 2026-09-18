@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Regional powers are seeking an off-ramp from the Iran war as another
   tanker attack is reported in the Strait of Hormuz
 image: https://static.independent.co.uk/2026/08/27/11/Iran_War_Strait_of_Hormuz_26562.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Regional powers sought an off-ramp from the war with Iran as another tanker attack was reported in the Strait of Hormuz, and the Iranian government dismissed the Trump administration's latest sanctions.

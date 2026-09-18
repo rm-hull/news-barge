@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: York MP Rachael Maskell says Andy Burnham’s Government is tackling mental
   health services, NHS accountability and York concerns, including a…
 image: https://www.yorkpress.co.uk/resources/images/21429660.jpg?type=og-image&xType=0&yType=10
+categories:
+- Local
+- York
+- Health & Fitness
+- Society & Culture
 ---
 
 *(Image: Dylan Connell)*

@@ -8,6 +8,9 @@ scraped_at: '2026-09-02T19:23:08Z'
 published: '2026-09-02T00:00:00Z'
 description: Extreme memory bandwidth levels are just around the corner.
 image: https://cdn.mos.cms.futurecdn.net/UiRETJNcNTsWPdnAWQaz2Y-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Samsung HBM5 with HPB](https://cdn.mos.cms.futurecdn.net/UiRETJNcNTsWPdnAWQaz2Y.jpg) 

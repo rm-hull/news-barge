@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The average petrol price was 170.3p a litre yesterday, compared with
   166.2p a week earlier and 161.8p at the beginning of the month.
 image: https://www.yorkpress.co.uk/resources/images/20769320.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Irene Miller/Getty)*

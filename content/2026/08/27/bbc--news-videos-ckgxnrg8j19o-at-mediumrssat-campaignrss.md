@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: At least 270 people have died in the massive flash floods, while more
   than 800 others are missing.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40cb/live/31a15a70-a1fa-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 # Watch: What caused the Nepal-Tibet flash floods?

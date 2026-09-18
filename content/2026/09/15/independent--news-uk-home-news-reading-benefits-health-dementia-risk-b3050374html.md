@@ -7,6 +7,12 @@ scraped_at: '2026-09-15T11:27:13Z'
 published: '2026-09-15T00:00:00Z'
 description: Scientists found that reading can boost mental health and academic performance
 image: https://static.independent.co.uk/2026/08/11/15/37/iStock-2280184729.jpeg?trim=235,148,102,357&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Science
+- Self-Improvement
 ---
 
 Reading for pleasure offers significant health benefits no matter the material chosen, according to scientists from the University of Cambridge.

@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Snake is already under threat from industries like coffee farming and
   mining, researchers say
 image: https://static.independent.co.uk/2026/08/21/3/34/The-new-species-of-snake-L--slashi.jpeg?trim=3,0,5,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 A new snake species discovered in the forests of New Guinea has been named after Guns N’ Roses guitarist Slash.

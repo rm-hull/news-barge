@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Cllr Jack McGlenen, who was expelled from Reform UK for his drunken behaviour
   at an Armed Forces Day event, has joined the SDP.
 image: https://www.thenorthernecho.co.uk/resources/images/19997802.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: Chris Booth)*

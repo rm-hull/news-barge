@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: The Garda Representative Association said officers were given a command
   to "disengage" with the car after it took "evasive action".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/977c/live/a398c2e0-9ae2-11f1-b2f7-5d1639b20e22.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A shot of a car crash site showing a section of closed motorway with many emergency service vehicles on the road and debris from the crash.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/a34b/live/3d8de100-99fd-11f1-a7ab-8b30adf0800a.jpg)

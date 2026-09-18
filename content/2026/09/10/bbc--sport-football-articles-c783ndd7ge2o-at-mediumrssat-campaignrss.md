@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Mauricio Pochettino believes Chelsea should be stripped of the Premier
   League title for 2016-17, when his Tottenham team finished runners-up.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b3e2/live/65d40890-acec-11f1-8d69-858c9dcdf738.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Tottenham manager Mauricio Pochettino stood with his arms outstretched during the FA Cup semi-final against Chelsea in 2017](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/b3e2/live/65d40890-acec-11f1-8d69-858c9dcdf738.jpg)

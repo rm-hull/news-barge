@@ -8,6 +8,9 @@ scraped_at: '2026-08-25T08:55:29Z'
 published: '2026-08-25T00:00:00Z'
 description: Israeli troops have killed over 200 journalists in the war
 image: https://static.independent.co.uk/2026/08/25/08/Mideast_Wars_Journalists_Killed__98_1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 It’s been a year since Israeli soldiers killed 22 Palestinians, including journalists and rescue workers, in a double strike on a hospital in Gaza. No one has been held accountable.

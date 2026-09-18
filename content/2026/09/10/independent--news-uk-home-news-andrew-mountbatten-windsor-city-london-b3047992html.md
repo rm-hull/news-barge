@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: The City of London Corporation criticised Andrew for failing to surrender
   his Freedom of the City of London ‘despite being asked to do so’
 image: https://static.independent.co.uk/2026/09/01/18/7582f971feaf4f2ebea09cf9aeeae804Y29udGVudHNlYXJjaGFwaSwxNzg4MzY1OTEx-2.84707749.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A decision on stripping Andrew Mountbatten-Windsor of his Freedom of the City of London will be made as “a matter of urgency”, the City of London Corporation (CLC) said, as the corporation has approved a process to remove the honour from recipients itself.

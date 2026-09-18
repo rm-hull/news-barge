@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Two women have been prosecuted for fly-tipping after their rubbish was
   illegally dumped in the East Riding.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjNhMDM1ZWU1LTNhNDYtNGQ2Yi1hMDY2LTQ2MTc2MmY3NDJhZTo3OTUwOWIzOC04MWE3LTQxMGYtYWM1NC1hOGRjY2Q5NWMyNDI=.jpg?crop=3:2,smart&trim=&width=600&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Women prosecuted after rubbish found fly-tipped in the East Riding

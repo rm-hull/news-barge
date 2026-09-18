@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: The city’s police department and mayor warn the public to stay away from
   the Loring Park neighborhood nearby
 image: https://i.guim.co.uk/img/media/832fae07afa3e0456c7e2f3a66c4c9efa397cccc/789_675_2298_1838/master/2298.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=73a0a5615638708597a060871d0f7ca5
+categories:
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 Two people were killed and the suspect was dead after a shooting at an apartment building in downtown Minneapolis on Wednesday afternoon, officials said.

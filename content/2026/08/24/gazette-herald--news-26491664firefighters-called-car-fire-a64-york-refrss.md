@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: North Yorkshire Fire and Rescue Service has been called to a car blaze
   on the A64 in Fulford.
 image: https://www.gazetteherald.co.uk/resources/images/11734966.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 *(Image: Newsquest)*

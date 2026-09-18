@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Clearlake Capital acquires full control of Chelsea as chairman Todd Boehly,
   director Mark Walter and Hansjorg Wyss sell their stakes in the club.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9719/live/c0654da0-b223-11f1-a9d3-d1d2b06c2bad.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Sports
 ---
 
 ![Todd Boehly (left) and Mark Walter (right) at the 2025 Fifa Club World Cup final](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/9719/live/c0654da0-b223-11f1-a9d3-d1d2b06c2bad.jpg)

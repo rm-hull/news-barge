@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: Pete Hegseth reportedly forced Army Chief of Staff Randy George into
   retirement and then promoted the secretary’s top aide to the role
 image: https://static.independent.co.uk/2026/03/30/13/49/US-Army-helicopter-does-a-fly-by-for-Trumps-pal-Kid-Rock.png?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Days before Defense Secretary Pete Hegseth ousted him earlier this year, the Army’s top general was reportedly told by the official who is now trying to replace him to drop an investigation into the military’s unauthorized helicopter flyby at Kid Rock’s property.

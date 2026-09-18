@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Two incidents that disrupted power distribution systems in the west and
   east of Germany are being invested as possible sabotage
 image: https://static.independent.co.uk/2026/09/02/11/Germany_Sabotage_83875.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Two incidents that disrupted power distribution systems in the west and east of Germany are being invested as possible sabotage, authorities said.

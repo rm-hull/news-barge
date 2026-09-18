@@ -9,6 +9,9 @@ description: Our community reacts as the new prime minister holds firm on Labour
   Brexit red lines, with some readers demanding he go further and others urging him
   to wait for a fresh mandate
 image: https://static.independent.co.uk/2026/08/26/8/42/Engagement-overlays-2026-08-26T092101-882.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Andy Burnham has faced a mixed reaction from *Independent* readers after committing to stick to Sir Keir Starmer’s Brexit red lines, days after signalling he wanted to be “bolder” in forging closer ties with Europe. 

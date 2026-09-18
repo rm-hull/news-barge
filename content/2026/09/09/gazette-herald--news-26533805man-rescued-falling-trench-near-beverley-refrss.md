@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Humberside Fire and Rescue Service was called to The Paddock in Molescroft,
   near Beverley, at 10.47pm yesterday (Tuesday, September 8).
 image: https://www.gazetteherald.co.uk/resources/images/21428200.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 *(Image: North Yorkshire Fire and Rescue Service)*

@@ -8,6 +8,11 @@ scraped_at: '2026-08-22T08:42:19Z'
 published: '2026-08-22T00:00:00Z'
 description: Cleveland Police are searching for a man in connection with a rape investigation.
 image: https://www.thenorthernecho.co.uk/resources/images/21354419.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: GOOGLE MAPS)*

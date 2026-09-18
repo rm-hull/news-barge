@@ -8,6 +8,8 @@ published: '2026-09-03T00:00:00Z'
 description: Zoox is expanding to this critical ride-hailing destination a few weeks
   after it started charging for robotaxi rides.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Zoox-las-vegas-airport.jpg?resize=1200,900
+categories:
+- Technology & Software
 ---
 
 Zoox isn’t wasting any time now that it’s allowed to operate and charge for rides in its custom-built robotaxi.

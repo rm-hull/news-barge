@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: How to make the most of Maker and STEM projects, with expert advice and
   guidance from the writers at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/PikPUcv6RA3z557bbHue6K-450-80.png
+categories:
+- Technology & Software
+- Hardware
+- Careers & Productivity
 ---
 
 # Maker and STEM

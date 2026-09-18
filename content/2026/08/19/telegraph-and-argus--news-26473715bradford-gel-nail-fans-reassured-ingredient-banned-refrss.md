@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: BRADFORDIANS have been warned that new product safety regulations have
   prompted changes across salons and beauty brands.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19355933.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Giorgio Trovato/Unsplash)*

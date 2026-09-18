@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: It comes after Macklemore pledged $1m to Palestinian causes, challenging
   the tycoon to match the sum.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e355/live/c4538be0-b230-11f1-9425-894f8817846a.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Will Ed Sheeran cancel his tour as support acts quit?

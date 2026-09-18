@@ -8,6 +8,10 @@ scraped_at: '2026-08-27T22:13:13Z'
 published: '2026-08-27T00:00:00Z'
 description: Charles Richard Miles also said his drug use was ‘pretty controlled’
 image: https://static.independent.co.uk/2026/08/27/14/36/2048-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A teacher at one of London’s top private schools has been banned from the classroom after he admitted to smoking crystal meth “on the weekends”.

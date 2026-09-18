@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Discovery offers compelling evidence of dinosaurs moving between North
   America and Europe
 image: https://static.independent.co.uk/2026/09/15/5/08/An-illustration-of-the-Diplodocus-by-Carmelo-Lpez.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- History
 ---
 
 A complete fossil of the iconic Diplodocus has been discovered in Europe for the first time, upending our understanding of dinosaur distribution during the Late Jurassic period.

@@ -7,6 +7,9 @@ scraped_at: '2026-08-20T13:07:49Z'
 published: '2026-08-20T00:00:00Z'
 description: Meta said its Muse Spark model is powering the dictation feature.
 image: https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Meta today announced a new Mac app for Meta AI with built-in system-wide dictation. The app can also look at the current screen and answer your questions based on the context using its Muse Spark model.

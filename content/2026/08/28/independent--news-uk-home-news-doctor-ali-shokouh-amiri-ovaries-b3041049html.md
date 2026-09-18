@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Dr Ali Shokouh-Amiri was earlier found guilty of misconduct and given
   a warning
 image: https://static.independent.co.uk/2026/08/28/13/56/Dr_Ali_Shoukouh_Amiri-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Science
 ---
 
 A gynaecologist who admitted removing two women’s ovaries without consent is set to face a fresh hearing over whether he is fit to practise after a High Court challenge.

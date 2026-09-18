@@ -10,6 +10,10 @@ description: Police believe multiple killers were involved in the deaths of more
   30 girls and young women whose remains were discovered along a section of Interstate
   45
 image: https://static.the-independent.com/2026/09/03/20/24/AP26246584969748.jpg?trim=351,0,951,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A man has been sentenced to 20 years in prison in a rare trial connected to the decades-long "Texas Killing Fields" investigation.

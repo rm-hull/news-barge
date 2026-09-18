@@ -10,6 +10,10 @@ description: Two days before devastating floods swept through Nepal’s Himalaya
   a filmmaker and drone pilot returned from Tibet through the Rasuwagadhi border crossing,
   unaware that he would soon join a major rescue effort
 image: https://static.independent.co.uk/2026/09/01/09/Nepal_Drone_Operator__2686.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Filmmaker and drone pilot Manish Maharjan crossed into Nepal from China’s Tibet through Rasuwagadhi, a border crossing closest to where last week's catastrophic flooding began, two days before the disaster. Returning home, little did he know he would be using his professional skills to help with rescue efforts along a route he has known intimately from years of travel for work.

@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: More than 20 pupils and former pupils from Ashville are set to take to
   the stage at the Edinburgh Fringe for the first time in the school's 150-year history.
 image: https://mmo.aiircdn.com/409/6a844d4fd9675637c95.jpg
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6a844d4fd9675637c95.jpg) 

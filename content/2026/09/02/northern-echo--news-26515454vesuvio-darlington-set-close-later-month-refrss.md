@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A popular Darlington wine bar will close its doors later this month,
   with "gutted" punters branding it the "end of an era".
 image: https://www.thenorthernecho.co.uk/resources/images/17288625.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: The Northern Echo)*

@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: EasyJet has shared a list of 48-hour trips you can take over the Bank
   Holiday without having to use any annual leave.
 image: https://www.yorkpress.co.uk/resources/images/21351318.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Lifestyle & Fashion
 ---
 
 *(Image: Jam Press/easyJet)*

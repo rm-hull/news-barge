@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: The Polestar 3 feels blisteringly quick – so much so that my mother-in-law
   let out a little gasp when the road conditions allowed me to give the…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21338742.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
 ---
 
 The Polestar 3 feels blisteringly quick – so much so that my mother-in-law let out a little gasp when the road conditions allowed me to give the accelerator a squeeze.

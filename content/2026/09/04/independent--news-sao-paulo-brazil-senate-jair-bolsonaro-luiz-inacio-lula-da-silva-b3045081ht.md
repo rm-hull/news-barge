@@ -10,6 +10,10 @@ description: Brazil’s Supreme Court has plunged further into an institutional 
   as two of its best known justices are now requesting major sanctions against each
   other
 image: https://static.independent.co.uk/2026/09/04/23/Brazil_Supreme_Court_87391.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Law & Justice
 ---
 
 Brazil's Supreme Court plunged further into an institutional crisis on Friday, with two of its best known justices now requesting major sanctions against each other.

@@ -9,6 +9,11 @@ description: A record number of people have gained German citizenship in Berlin 
   the last elections in 2023. We look at how many people could go to the polls for
   the first time – and at what they might want to know when they get there.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/05/watermarks-logo-518651144.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Society & Culture
 ---
 
 Following a wave of support for anti-immigrant parties in recent state elections, the next Berlin elections – held on Sunday, September 20th – feel especially consequential for foreigners.

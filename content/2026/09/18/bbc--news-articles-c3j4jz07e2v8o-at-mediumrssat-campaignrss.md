@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: It is the first time MI5 has confirmed the BBC's revelation that it gave
   evidence based on lies in court while defending the violent informant.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d679/live/c5904080-dd9b-11f0-880c-9f4d353b75c0.png
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Composite styled image of a shadowy figure, with an orange box around him. The letters MI5 are prominent in the top left of the frame. And the exterior of Thames House in London is also pictured with a light blue colour wash.](https://ichef.bbci.co.uk/ace/standard/801/cpsprodpb/d679/live/c5904080-dd9b-11f0-880c-9f4d353b75c0.png)

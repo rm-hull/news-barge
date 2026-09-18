@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: Music icon Dolly Parton has been hailed as an “inspiration” who leaves
   a legacy that will help children in Newcastle for generations to come.
 image: https://www.thenorthernecho.co.uk/resources/images/21374339.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
+- Arts & Culture
 ---
 
 Music icon Dolly Parton has been hailed as an “inspiration” who leaves a legacy that will help children in Newcastle for generations to come.

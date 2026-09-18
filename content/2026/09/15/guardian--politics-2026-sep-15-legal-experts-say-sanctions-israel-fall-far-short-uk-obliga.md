@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: More than 130 sign letter to PM saying international law requires further
   measures to stop illegal settlements
 image: https://i.guim.co.uk/img/media/fdbeecaf4425a634430458a9674bd82c7d8303b3/343_0_3415_2733/master/3415.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f3563a44bb4062a558a1eeb838f7e7d5
+categories:
+- UK
+- News & Politics
+- Law & Justice
 ---
 
 More than 130 legal experts, including 18 king’s counsel (KCs), have written to Andy Burnham saying that sanctions on Israeli settlements “fall far short” of Britain’s obligations under the international court of justice’s (ICJ’s) finding that the occupation is unlawful.

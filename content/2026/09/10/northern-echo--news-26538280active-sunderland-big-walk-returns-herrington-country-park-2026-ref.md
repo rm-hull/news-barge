@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Sunderland's BIG Walk returns to Herrington Country Park on September
   27, 2026, with four routes through countryside, woodland and along the…
 image: https://www.thenorthernecho.co.uk/resources/images/21434269.jpg?type=og-image&xType=0&yType=87
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Sunderland City Council)*

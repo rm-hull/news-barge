@@ -10,6 +10,12 @@ description: Mayor of Doncaster Ros Jones has insisted Doncaster Sheffield Airpo
   is on track to restart passenger flights in spring 2028 as she told a public meeting
   that the next update on the reopening programme "will be well worth waiting for".
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjA2NjJmN2Y5LTBmNDEtNDY2Ny1iZjYwLWE4YjhjODY3Nzg5YjowZjNlMjY1OS0yNTI3LTRjMmMtYWVjNC0xMTRkNDQwYmJiNjE=.jpg?crop=3:2,smart&trim=&width=324&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 # 'Well worth waiting for': Doncaster Sheffield Airport update promise given by Ros Jones as she addresses public frustrations

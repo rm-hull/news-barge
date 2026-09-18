@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The famously steep route will be shut to allow for maintenance and drainage
   work to take place.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b1db/live/6046b3d0-9b19-11f1-a8a4-83462463c9fa.jpg
+categories:
+- Local
+- Harrogate
+- Home, Garden & DIY
 ---
 
 ![A person in a high vis jacket holding a clipboard and wearing a white helmet looks at a rock face. On the rock face are two people in full orange high vis abseiling. On the road below is a parked white van.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/b1db/live/6046b3d0-9b19-11f1-a8a4-83462463c9fa.jpg)

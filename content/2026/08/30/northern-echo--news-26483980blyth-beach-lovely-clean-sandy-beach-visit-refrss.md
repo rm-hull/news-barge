@@ -8,6 +8,12 @@ published: '2026-08-30T00:00:00Z'
 description: Blyth beach is perfect for a long walk along the coastline or to spend
   a day paddling in the sea with your family.
 image: https://www.thenorthernecho.co.uk/resources/images/21353663.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
+- Travel
 ---
 
 *(Image: Tripadvisor)*

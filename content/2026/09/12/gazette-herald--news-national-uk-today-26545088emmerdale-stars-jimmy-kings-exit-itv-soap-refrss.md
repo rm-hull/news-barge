@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Nick Miles, who played Jimmy King for 22 years, and Nicola Wheeler, his
   on-screen wife, Nicola King, spoke about filming Jimmy’s send-off.
 image: https://www.gazetteherald.co.uk/resources/images/21392305.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 *(Image: YouTube/ITV)*

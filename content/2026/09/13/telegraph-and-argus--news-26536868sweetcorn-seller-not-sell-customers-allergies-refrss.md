@@ -9,6 +9,13 @@ published: '2026-09-13T00:00:00Z'
 description: A food business has been ordered to stop serving customers with allergies
   after a string of hygiene breaches were found.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21432359.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
+- Business & Entrepreneurship
+- Lifestyle & Fashion
 ---
 
 A SWEETCORN seller has been ordered to stop serving customers with allergies after a string of hygiene breaches were found.

@@ -9,6 +9,12 @@ published: '2026-09-15T00:00:00Z'
 description: A car overturned before crashing into parked vehicles and a house. Fire
   crews were called after the collision reportedly caused a gas leak.
 image: https://www.thenorthernecho.co.uk/resources/images/21163132.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 *(Image: Victoria Jones/PA Wire)*

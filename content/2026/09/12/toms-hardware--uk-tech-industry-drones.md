@@ -7,6 +7,10 @@ scraped_at: '2026-09-12T12:08:46Z'
 published: '2026-09-12T00:00:00Z'
 description: Discover more about Drones with insights from the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/NZphC55f73iLPX4XgyjuPS-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![Map of the Middle East highlighting the Strait of Hormuz as a high-risk maritime zone between Iran and Oman. Concept illustration showing cargo ships and oil tankers avoiding the area due to security threats and geopolitical tension affecting global shipping and energy transport routes.](https://cdn.mos.cms.futurecdn.net/NZphC55f73iLPX4XgyjuPS-320-80.jpg)

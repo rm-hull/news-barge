@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: Rosie Stewart, creative learning producer at York Museums Trust, was
   named Education Hero at the York Community Pride Awards.
 image: https://www.gazetteherald.co.uk/resources/images/21441079.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 **“We believe in the power of art, heritage and creativity to bring opportunities to people of all ages in York”.**

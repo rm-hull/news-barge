@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Research finds 0.1-0.4% of the total insured population will ditch insurance,
   while the government will save as much as $940m
 image: https://i.guim.co.uk/img/media/edb04d05ad6e5166e3bfbcad0aa84fdf79fff4b1/1454_762_5098_4081/master/5098.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e566c946650f09a6231a234161f242ba
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Health & Fitness
 ---
 
 Removing the higher private health insurance rebate for people aged 65 and over is good policy that is unlikely to place additional pressure on public hospitals, according to health economists.

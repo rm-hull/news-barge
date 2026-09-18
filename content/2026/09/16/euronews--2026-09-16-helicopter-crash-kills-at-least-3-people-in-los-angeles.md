@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: The crash occurred near the scene of a separate deadly bus accident,
   though the connection between the two incidents, if any, was not immediately clear.
 image: https://images.euronews.com/articles/stories/09/91/49/58/1200x675_cmsv2_d2ca700f-88c5-548d-804a-b2d32970e9d4-9914958.jpg
+categories:
+- Europe
+- News & Politics
+- True Crime
+- Technology & Software
 ---
 
 ## The crash occurred near the scene of a separate deadly bus accident, though the connection between the two incidents, if any, was not immediately clear.

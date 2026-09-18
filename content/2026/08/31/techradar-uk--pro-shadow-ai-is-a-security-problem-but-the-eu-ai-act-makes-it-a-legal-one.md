@@ -7,6 +7,9 @@ scraped_at: '2026-08-31T16:07:58Z'
 published: '2026-08-31T00:00:00Z'
 description: Why organizations need to get control on the use of Shadow AI
 image: https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A robot hand touching a locked digital shield blocking a human from accessing data](https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej.jpg) 

@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: Dfat minister Matt Thistlethwaite says staff are liaising with Kathmandu
   to find 35 missing Australians, and plans to send emergency team to the region
 image: https://i.guim.co.uk/img/media/0651c5c9f39317a6a1e396addaa893d29cac41e8/457_581_2874_2299/master/2874.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7b7917379b56f8d2632a14ec1d286d59
+categories:
+- UK
+- News & Politics
 ---
 
 The Australian government is urgently seeking information on the welfare of at least 35 Australians missing in Nepal, after a catastrophic flash flood swept through the Nepal-Tibet border region.

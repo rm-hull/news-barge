@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: A medieval castle with a hidden bathroom, four-poster beds, and a haunting
   of its own is making waves online.
 image: https://www.thenorthernecho.co.uk/resources/images/21283237.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 A medieval castle with a hidden bathroom, four-poster beds, has a haunting past that is fascinating guests

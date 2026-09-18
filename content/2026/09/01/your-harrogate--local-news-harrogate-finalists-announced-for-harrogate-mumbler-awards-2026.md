@@ -9,6 +9,10 @@ description: The finalists for the Harrogate Mumbler Awards 2026 have been annou
   with dozens of local businesses, organisations and individuals shortlisted for this
   year’s awards.
 image: https://mmo.aiircdn.com/409/692d40bdd88ea.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/692d40bdd88ea.jpg) 

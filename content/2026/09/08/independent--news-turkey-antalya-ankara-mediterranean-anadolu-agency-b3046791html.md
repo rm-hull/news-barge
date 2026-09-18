@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Firefighters in Turkey are battling a large wildfire in Antalya's coastal
   province
 image: https://static.independent.co.uk/2026/09/08/18/Turkey_Wildfire_95_83.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Firefighters on Tuesday battled a wildfire in Turkey's Mediterranean coastal province of Antalya that forced hundreds of people from their homes and injured at least two people, the state-run news agency reported.

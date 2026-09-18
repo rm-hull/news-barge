@@ -10,6 +10,10 @@ description: Canon's long-rumored 'retro' mirrorless camera has arrived and it's
   EOS R8 II — but its design has a 'modern twist' that looks decidedly like a Sony
   or Nikon camera.
 image: https://cdn.mos.cms.futurecdn.net/LKhCDgq6WVrkmVqqeE9hGc-2000-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
+- Film & TV
 ---
 
 ![Canon EOS R8 Mark II on a wooden table, with grip attached](https://cdn.mos.cms.futurecdn.net/LKhCDgq6WVrkmVqqeE9hGc.jpg) 

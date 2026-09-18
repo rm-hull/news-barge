@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: A road in the Bradford district was closed yesterday after a large vehicle
   caught fire.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20798044.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: Pixabay)*

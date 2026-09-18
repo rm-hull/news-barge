@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Moscow warns of increased tensions with Britain as Burnham visits Kyiv
   to offer declassified details of missile components
 image: https://i.guim.co.uk/img/media/a42a475125086c1b0e9b54f52f4402520cdc70ab/557_0_3259_2607/master/3259.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b8e128162e4adee09090a1fbf31471da
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 The Kremlin has warned of an escalation in tensions between the UK and Russia as Andy Burnham arrived in Kyiv to present Ukraine with newly declassified blueprints to allow Ukraine to improve its production of long-range missiles.

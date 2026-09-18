@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: The pub chain says the decision follows complaints about "other people's
   videos and amplified phone conversations".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dbde/live/1b00c8d0-9af4-11f1-930b-57cfba7235f9.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Music
 ---
 
 ![A man sitting in a pub looking at his mobile phone with a pint of beer on the table in front of him](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/dbde/live/1b00c8d0-9af4-11f1-930b-57cfba7235f9.jpg)

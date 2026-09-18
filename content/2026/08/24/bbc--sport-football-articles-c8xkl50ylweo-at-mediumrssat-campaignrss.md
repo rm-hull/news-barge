@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Nottingham Forest are working on a deal to sign Chelsea striker Liam
   Delap.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5e4c/live/1ec5a190-9fed-11f1-8f6f-6b425335bd44.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Liam Delap taps his chest after scoring against AC Milan](https://ichef.bbci.co.uk/ace/standard/948/cpsprodpb/5e4c/live/1ec5a190-9fed-11f1-8f6f-6b425335bd44.jpg)

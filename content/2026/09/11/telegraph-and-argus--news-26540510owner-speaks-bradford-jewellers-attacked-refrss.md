@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: The owner of a jewellers has spoken of their shock after their shop was
   "attacked".
 image: https://www.thetelegraphandargus.co.uk/resources/images/21437387.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest)*

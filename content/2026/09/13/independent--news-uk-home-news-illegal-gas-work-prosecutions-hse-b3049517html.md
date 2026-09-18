@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: Dozens of people have been prosecuted for breaching gas safety laws by
   working on appliances in the past several years
 image: https://static.independent.co.uk/2026/04/14/00/ccbbae17436e54d6898f6a96de249dd0Y29udGVudHNlYXJjaGFwaSwxNzc2MTY3Nzg0-2.66572126.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A sharp increase in prosecutions over illegal gas fitting has prompted warnings against employing unregistered tradespeople.

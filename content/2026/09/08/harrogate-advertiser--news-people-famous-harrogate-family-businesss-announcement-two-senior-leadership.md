@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: New managing directors have been announced by Bettys & Taylors Group
   in Harrogate.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjlmNzY3YWYzLWJjNzktNDlmNy1iNTNhLTdmNjJlYWMwMjBhMjoyZTI0MzYzMi1iMzA5LTQ3NTYtOGUwOS1jNTc4NGNmYjZhMmM=.jpg?crop=3:2,smart&trim=&width=800&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 # Famous Harrogate family business's announcement: Two senior leadership appointments as part of changes to leadership structure

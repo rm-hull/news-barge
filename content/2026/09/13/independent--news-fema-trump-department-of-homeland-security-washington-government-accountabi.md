@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: A federal judge has ruled that the Trump administration's plan to cut
   staffing at FEMA by 50% was unlawful
 image: https://static.independent.co.uk/2026/09/13/01/FEMA_Staffing_Ruling_45281.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A federal judge has ruled that a plan by the Trump administration to slash staffing at the federal agency tasked with responding to disasters by 50% was unlawful.

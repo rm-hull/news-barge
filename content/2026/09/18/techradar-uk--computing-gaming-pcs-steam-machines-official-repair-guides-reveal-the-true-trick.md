@@ -10,6 +10,9 @@ published: '2026-09-18T00:00:00Z'
 description: Steam Machine's official iFixit repair guides look great — but I'm worried
   about the difficulty of some upgrades or replacements.
 image: https://cdn.mos.cms.futurecdn.net/VMKgcaDNbTSdCRMzKFwqf4-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![The Valve Steam Machine, pictured on a dark marble worktop.](https://cdn.mos.cms.futurecdn.net/VMKgcaDNbTSdCRMzKFwqf4.jpg) 

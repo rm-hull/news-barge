@@ -10,6 +10,10 @@ description: The summit of the Shanghai Cooperation Organisation, which represen
   global powerhouse challenging the West. Yet the SCO's diversity also revealed significant
   disagreements and divergent interests.
 image: https://images.euronews.com/articles/stories/09/89/75/89/1200x675_cmsv2_7a2d2d05-1143-580a-b664-688b3f5e9748-9897589.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## The summit of the Shanghai Cooperation Organisation, which represents almost half of the world’s population, ended with an aim to signal the rise of a global powerhouse challenging the West. Yet the SCO's diversity also revealed significant disagreements and divergent interests.

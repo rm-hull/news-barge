@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Discover more about Video Games with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/KeSsu2KwokVwaR4LSBRDFL-450-80.png
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 # Video Games

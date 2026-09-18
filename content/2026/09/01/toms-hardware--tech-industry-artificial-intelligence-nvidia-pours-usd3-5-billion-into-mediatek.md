@@ -8,6 +8,10 @@ scraped_at: '2026-09-01T19:23:06Z'
 published: '2026-09-01T00:00:00Z'
 description: Nvidia to get a piece of custom AI infrastructure with new MediaTek pact.
 image: https://cdn.mos.cms.futurecdn.net/7XbSjSphvUtP8gceNGaUGZ-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Nvidia, MediaTek](https://cdn.mos.cms.futurecdn.net/7XbSjSphvUtP8gceNGaUGZ.png) 

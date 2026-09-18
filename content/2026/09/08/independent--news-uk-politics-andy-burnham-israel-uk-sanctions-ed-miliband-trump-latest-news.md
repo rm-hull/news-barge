@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: The US president is set to make a statement attacking the move, according
   to reports
 image: https://static.independent.co.uk/2026/09/08/07/c7e8640a769adad67ee9d6ec3032a3f6Y29udGVudHNlYXJjaGFwaSwxNzg4OTM0MTQx-2.85727565.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The US ambassador to Israel has condemned the UK sanctions on Israeli settlements in the West Bank, describing them as “an irrational action” and “discrimination against the Jewish people”.

@@ -10,6 +10,11 @@ description: Nursing is more than just a job, it is a vocation that requires ded
   to recruiting and retaining staff, it would not be unreasonable to think that career
   paths into this noble vocation would not be unnecessarily blocked.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmNhYTk3MWRkLTNiY2QtNDU2OS1hNTZlLTJiNmE5YmI4ZjNlYjo4ZTVkM2ZlMS01MmRmLTQ1OTUtYmVjMS05ODk3MWNkNTBjYWM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Careers & Productivity
 ---
 
 # Why are nursing graduates facing unacceptable barriers to entry level jobs

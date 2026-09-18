@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Autumn, four, from North Yorkshire, spent six months in hospital being
   treated for a rare condition.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c05/live/528bed90-aac4-11f1-9bcd-4de40c4158ea.jpg
+categories:
+- Local
+- Harrogate
+- Health & Fitness
 ---
 
 ![A woman and a young girl seated at a wooden dining table indoors. The woman  is wearing a pink top and the girl a pink polo shirt. School-related papers and a pencil case are on the table, with wooden chairs and patterned black-and-white comic-strip wallpaper visible in the background.](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/3c05/live/528bed90-aac4-11f1-9bcd-4de40c4158ea.jpg)

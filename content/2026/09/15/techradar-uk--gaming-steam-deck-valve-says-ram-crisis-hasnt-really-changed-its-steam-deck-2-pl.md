@@ -10,6 +10,9 @@ published: '2026-09-15T00:00:00Z'
 description: Valve says that handheld will happen "when we can deliver" — hinting
   that pricing will be key.
 image: https://cdn.mos.cms.futurecdn.net/HhX2BfyPmjYTcHgW9CGia6-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Photo of Steam Deck handheld console](https://cdn.mos.cms.futurecdn.net/HhX2BfyPmjYTcHgW9CGia6.jpg) 

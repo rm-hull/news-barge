@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: The government describes its new school food standards as "once-in-a-generation
   changes".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/93e3/live/5d443ff0-adf6-11f1-ad53-0d91a06f3150.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Three primary school pupils in uniform sit at bright yellow tables in a school canteen, eating lunch from blue trays with chips, fruit and dessert while talking together.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/93e3/live/5d443ff0-adf6-11f1-ad53-0d91a06f3150.jpg)

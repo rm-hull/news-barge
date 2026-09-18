@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T08:50:44Z'
 published: '2026-08-18T00:00:00Z'
 description: The German Shepherd dog has been seized by police officers
 image: https://static.independent.co.uk/2026/08/18/08/82fa999d040f0d7ea4ce0772a2ab5709Y29udGVudHNlYXJjaGFwaSwxNzg3MTIyNDU4-2.85593480.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A man has been charged with manslaughter after a person was killed by a German Shepherd on a footpath in Wakefield.

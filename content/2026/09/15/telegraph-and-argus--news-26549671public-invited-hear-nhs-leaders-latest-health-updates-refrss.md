@@ -7,6 +7,11 @@ scraped_at: '2026-09-15T11:27:49Z'
 published: '2026-09-15T00:00:00Z'
 description: NHS leaders are set to give updates on neighbourhood health.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21454400.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

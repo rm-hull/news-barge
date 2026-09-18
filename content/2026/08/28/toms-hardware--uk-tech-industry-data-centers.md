@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Discover more about Data Centers with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/nMpGxyNRpeTtdVGXCfFq7g-320-80.png
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![electricity transmission towers](https://cdn.mos.cms.futurecdn.net/nMpGxyNRpeTtdVGXCfFq7g-320-80.png)

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Andrew McConnell OBE is stepping down as the chair of the Heart of Yorkshire
   Education Group after nearly 20 years.
 image: https://www.yorkpress.co.uk/resources/images/21421399.jpg?type=og-image&xType=0&yType=134
+categories:
+- Local
+- York
+- History
 ---
 
 ## Long-serving education group chair steps down after nearly two decades

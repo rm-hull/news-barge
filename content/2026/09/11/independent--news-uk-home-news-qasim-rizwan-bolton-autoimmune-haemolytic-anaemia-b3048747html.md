@@ -8,6 +8,10 @@ scraped_at: '2026-09-12T04:26:11Z'
 published: '2026-09-11T00:00:00Z'
 description: Only around 50 blood donors are type r’r’
 image: https://static.independent.co.uk/2026/09/11/15/01M27H6PDE7FHQZPPYG23H0MDV.jpg
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Every compatible unit of blood available nationwide was required to treat a nine-year-old boy with a rare mix of blood types, helping save him from a disorder that can prove life-threatening if unmanaged.

@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: The Prince and Princess of Wales spent time with locals on Scotland’s
   Isle of Bute
 image: https://static.independent.co.uk/2026/09/17/19/61801dfc35e6e5f0a516a3a494b3431aY29udGVudHNlYXJjaGFwaSwxNzg5NzU1NjE5-2.85886235.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- History
 ---
 
 The royal family were out in force as a series of allegations were made against the King in a tribute book to Diana, Princess of Wales by her brother.

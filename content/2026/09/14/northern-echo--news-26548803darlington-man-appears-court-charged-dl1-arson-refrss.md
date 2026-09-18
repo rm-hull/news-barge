@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A man has appeared in court charged with arson after Darlington’s DL1
   complex was evacuated due to a bin fire.
 image: https://www.thenorthernecho.co.uk/resources/images/21444020.jpg?type=og-image&xType=0&yType=221
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A man has appeared in court charged with arson after Darlington’s DL1 complex was evacuated due to a fire.

@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: It comes as the AI firm's boss has called for the technology's development
   to be slowed down, citing "serious" risks.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/09f1/live/aaa670e0-af38-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Science
 ---
 
 'There is a possibility of human extinction,' former Anthropic employee says about AI

@@ -10,6 +10,11 @@ description: The chair of Yorkshire-based One Health Group has said the company 
   on track for its “key milestone” of opening a new Scunthorpe surgical hub in spring
   of next year.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmRlNGE4NTlkLTA5ZTMtNGY5MS1hODY5LTNhNjU3YmRkNzMwNTpkNjhlZWQ2ZS1mMzE5LTQwZmQtYjM3NC1lNTg0ZjViMmFlMDU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # One Health Group: Yorkshire firm on track for ‘key milestone’ of opening new surgical hub next year

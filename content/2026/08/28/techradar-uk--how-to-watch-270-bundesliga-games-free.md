@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: Fandango will be streaming the Bundesligsa for free in the USA – but
   you can watch from anywhere
 image: https://cdn.mos.cms.futurecdn.net/sjCQuW8U5MJZZBjQnCckXH-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Harry Kane of FC Bayern Muenchen looks on during the Franz Beckenbauer Supercup match between Borussia Dortmund and FC Bayern München](https://cdn.mos.cms.futurecdn.net/sjCQuW8U5MJZZBjQnCckXH.jpg) 

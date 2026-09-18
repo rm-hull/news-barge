@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: The Rudds Arms in Marton has reopened after a six-figure refurbishment,
   featuring upgraded sports viewing facilities and extended outdoor space.
 image: https://www.thenorthernecho.co.uk/resources/images/21370180.jpg?type=og-image&xType=0&yType=78
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A popular North East pub has reopened with a fresh new look, including upgraded sports facilities and revamped outdoor space.

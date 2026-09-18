@@ -9,6 +9,8 @@ published: '2026-09-09T00:00:00Z'
 description: After half a decade, a new Windows 11 update finally lets you move the
   taskbar — but it's the Start menu change that's more important to me.
 image: https://cdn.mos.cms.futurecdn.net/nFyn4dtH5kRPgwdWzh6QJn-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Windows 11 working on a laptop PC, showing the taskbar](https://cdn.mos.cms.futurecdn.net/nFyn4dtH5kRPgwdWzh6QJn.jpg) 

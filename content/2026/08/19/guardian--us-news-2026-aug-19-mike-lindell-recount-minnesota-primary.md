@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: MyPillow founder and Trump ally lost primary to Lisa Demuth by 11 points,
   but still refuses to concede defeat
 image: https://i.guim.co.uk/img/media/80f5840964da3825ecc8472055539474c8ac5cf7/562_0_3193_2555/master/3193.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=616628dc1befd690f61e8416600fc221
+categories:
+- UK
+- News & Politics
 ---
 
 The pillow salesman, Trump supporter and election denier Mike Lindell has offered to personally fund a recount and audit of every paper ballot cast in Minnesota’s Republican gubernatorial primary, which he lost last week.

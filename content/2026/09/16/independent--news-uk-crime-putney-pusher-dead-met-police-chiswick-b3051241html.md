@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Nicholas Brandram was arrested in connection with the case in June by
   the Met Police, which then announced last week he had been released under investigation
 image: https://static.independent.co.uk/2026/09/16/15/26/nicholas-brandram-new.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The prime suspect in the notorious “Putney pusher” case has been found dead at his home in west London.

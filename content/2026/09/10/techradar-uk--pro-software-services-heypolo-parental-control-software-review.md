@@ -8,6 +8,8 @@ published: '2026-09-10T00:00:00Z'
 description: A privacy-first location tracker that puts control back in your hands,
   but lacks the parental controls of more comprehensive rivals
 image: https://cdn.mos.cms.futurecdn.net/MwWV8wZhGuDK4jBBeUpz4Y-1727-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

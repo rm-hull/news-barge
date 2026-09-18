@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: The Black Dyke Band, one of the world’s most celebrated brass bands,
   will return to The Garden Rooms at Tennants in Leyburn in 2027, following a…
 image: https://www.thenorthernecho.co.uk/resources/images/21370131.jpg?type=og-image&xType=0&yType=650
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 *(Image: The Black Dyke Band)*

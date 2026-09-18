@@ -9,6 +9,10 @@ description: Health and Human Services Secretary Robert F. Kennedy Jr. tells ant
   activists from an organization he once chaired that they have a friend in the White
   House
 image: https://static.independent.co.uk/2026/09/17/21/Election_2_26_Republicans_2_613.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Health and Human Services Secretary Robert F. Kennedy Jr. gave the keynote address Thursday at a conference of an anti-vaccine activist group he once chaired, telling the hundreds in attendance that they had a friend in President Donald Trump's White House.

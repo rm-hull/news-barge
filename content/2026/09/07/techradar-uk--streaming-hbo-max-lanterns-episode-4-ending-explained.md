@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: Lanterns' fourth episode finally reveals which of Rushville's residents
   is actually the Manhunter.
 image: https://cdn.mos.cms.futurecdn.net/wefxSz6WqR5Xgr3pG4ynXA-1600-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![John Stewart powering up a Green Lantern ring next to Hal Jordan in Lanterns on HBO Max](https://cdn.mos.cms.futurecdn.net/wefxSz6WqR5Xgr3pG4ynXA.jpg) 

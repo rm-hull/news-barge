@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Bill Gates is warning technology companies and world leaders that they
   must act now to ensure artificial intelligence combats social inequities
 image: https://static.independent.co.uk/2026/09/15/05/Philanthropy_Gates_73798.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Bill Gates is warning technology companies and world leaders that they must act now to ensure artificial intelligence combats social inequities rather than deepening disparities — and his foundation is pledging $1 billion to improve access.

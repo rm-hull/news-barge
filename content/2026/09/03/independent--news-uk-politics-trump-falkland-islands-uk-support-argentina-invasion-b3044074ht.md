@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: Mr Trump appeared to hit at the UK again for failing to help with his
   war in Iran
 image: https://static.independent.co.uk/2026/09/03/09/2292689084..?trim=593,201,6,698&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump has suggested he would not back Britain if Argentina invaded the Falkland Islands as the row over its sovereignty deepens.

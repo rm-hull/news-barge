@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: The former Hollathan’s restaurant in Chester-le-Street has been linked
   to a £40,000 Home Office penalty for employing illegal workers.
 image: https://www.thenorthernecho.co.uk/resources/images/21383337.jpg?type=og-image&xType=0&yType=16
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: GOOGLE)*

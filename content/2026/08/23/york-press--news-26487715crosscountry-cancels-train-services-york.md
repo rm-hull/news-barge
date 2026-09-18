@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Rail passengers are facing a day of chaos after a power cut led to a
   major train company cancelling all its trains to and from York.
 image: https://www.yorkpress.co.uk/resources/images/20239007.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Major train company cancels all services to and from York today

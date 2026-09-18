@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: Valentes café in Seaham, which had been run by the same family for more
   than a century, has closed its doors for the final time.
 image: https://www.thenorthernecho.co.uk/resources/images/21388555.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 A County Durham café run by the same family for more than a century has closed its doors for the final time.

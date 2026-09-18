@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: The Filey Kite Festival will take place from September 18 to September
   20 at Filey Brigg Country Park.
 image: https://www.gazetteherald.co.uk/resources/images/21419334.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 Illuminated kites will light up the Yorkshire coast as part of a new Friday night launch.

@@ -7,6 +7,10 @@ scraped_at: '2026-08-22T01:47:09Z'
 published: '2026-08-21T00:00:00Z'
 description: The products have been recalled over contamination concerns
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/12/21/12/chicken-caesar-wrap-picture-id136258612-1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Four wrap products have been withdrawn from shop shelves following concerns over bacterial contamination that could cause kidney failure and prove fatal.

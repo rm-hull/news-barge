@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A total of 378 drivers across England and Wales have been convicted this
   year after being caught by motorway cameras driving in closed lanes.
 image: https://www.yorkpress.co.uk/resources/images/21339215.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
+- Technology & Software
 ---
 
 *(Image: Getty Images)*

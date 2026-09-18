@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T21:32:52Z'
 published: '2026-08-19T00:00:00Z'
 description: Tom Gauld's weekly cartoonTom Gauld's weekly cartoon
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308204856_15f602.jpg
+categories:
+- Science
+- Technology & Software
+- Comedy & Entertainment
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308204856_15f602.jpg?w=840)

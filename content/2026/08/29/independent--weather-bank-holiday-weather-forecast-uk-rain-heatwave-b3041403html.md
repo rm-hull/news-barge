@@ -8,6 +8,10 @@ scraped_at: '2026-08-29T13:49:59Z'
 published: '2026-08-29T00:00:00Z'
 description: Thundery showers are forecast over the Bank Holiday weekend
 image: https://static.independent.co.uk/2026/08/27/7/55/Screenshot-2026-08-27-at-08-29-20.png?trim=68,0,69,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A thunderstorm weather warning is in place on Saturday, with the Bank Holiday weekend set to be a wash-out as heavy rain and showers are forecast across the UK.

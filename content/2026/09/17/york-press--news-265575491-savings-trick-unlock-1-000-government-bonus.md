@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: You don't need hundreds of pounds to get started. Some savers can open
   a Lifetime ISA with just £1 and benefit from a 25 Government bonus
 image: https://www.yorkpress.co.uk/resources/images/21465806.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Claudia Nass)*

@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Thousands more breast surgery cases could be reviewed as County Durham
   NHS bosses consider extending the lookback as far back as 2015.
 image: https://www.thenorthernecho.co.uk/resources/images/21275546.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Thousands more breast surgery cases could be examined in a growing investigation into failures at a North East NHS trust, which warns the work could take five years.

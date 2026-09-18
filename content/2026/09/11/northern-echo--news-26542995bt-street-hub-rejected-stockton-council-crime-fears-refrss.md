@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Plans for a BT street hub with free Wi-Fi and phone services in Stockton
   have been refused after concerns over crime, anti-social behaviour and…
 image: https://www.thenorthernecho.co.uk/resources/images/20533077.jpg?type=og-image&xType=0&yType=76
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ### What is the Public Notice Portal?

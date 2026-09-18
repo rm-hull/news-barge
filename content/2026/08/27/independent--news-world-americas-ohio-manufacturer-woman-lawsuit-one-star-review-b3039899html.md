@@ -7,6 +7,11 @@ scraped_at: '2026-08-27T22:13:53Z'
 published: '2026-08-27T00:00:00Z'
 description: The company is seeking more than $25,000 in damages
 image: https://static.independent.co.uk/2026/08/26/18/19/Screenshot-2026-08-26-at-2-11-10-PM.png?trim=0,23,0,137&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 A business in Northeast Ohio is suing a woman over an allegedly fraudulent one-star review that she published on Google.

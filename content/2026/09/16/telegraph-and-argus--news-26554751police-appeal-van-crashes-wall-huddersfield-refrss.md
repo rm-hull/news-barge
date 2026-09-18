@@ -7,6 +7,11 @@ scraped_at: '2026-09-16T13:26:58Z'
 published: '2026-09-16T00:00:00Z'
 description: A MAN is in critical condition after his van crashed into a wall in Huddersfield.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21461945.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Google Street View)*

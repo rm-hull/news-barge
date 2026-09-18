@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: I combed through the Labor Day deals to find the power tools and other
   essentials that cover nearly every household repair.
 image: https://media.wired.com/photos/6a907517b1a3a0e0706fea8b/191:100/w_1280,c_limit/I-Built-a-Complete-Starter-Tool-Kit-for-Under-$350%E2%80%94Just-With-Labor-Day-Deals.jpg
+categories:
+- Technology & Software
+- Science
+- Careers & Productivity
 ---
 
 Most people know that Labor Day is one of the best times of the year to buy tools (get it? *Labor?*), but if you’re a newly minted homeowner or DIY-er, the landscape can be intimidating. When I bought my first home, I owned only two screwdrivers, a pair of pliers, and a hammer; I had no clue what I was in for.

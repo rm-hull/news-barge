@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Woodhouse Grove School has announced a major new partnership with Chelsea
   Football Club.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21442715.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 A SCHOOL has announced a major new partnership with Chelsea Football Club.

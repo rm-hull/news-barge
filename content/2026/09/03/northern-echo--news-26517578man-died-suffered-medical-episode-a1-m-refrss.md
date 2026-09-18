@@ -9,6 +9,12 @@ published: '2026-09-03T00:00:00Z'
 description: A man in his 60s died after pulling over on the A1(M) near Bowburn when
   he suffered a medical episode.
 image: https://www.thenorthernecho.co.uk/resources/images/21388403.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- True Crime
 ---
 
 *(Image: ANDY FUTERS)*

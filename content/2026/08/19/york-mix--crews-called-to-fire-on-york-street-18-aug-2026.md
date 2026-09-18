@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T08:52:25Z'
 published: '2026-08-19T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/04/fire-engine-york-april-2025.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 Firefighters were called to a fire in York yesterday evening (Tuesday).

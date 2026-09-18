@@ -8,6 +8,11 @@ scraped_at: '2026-09-18T13:00:42Z'
 published: '2026-09-18T00:00:00Z'
 description: 'From: Sarah Dennehy, Totnes.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVkZjEyZDY0LWI0ZTYtNDY4MS05ZTVhLTM4YTU0ODI4YWFlYzphYTQ3ZGU0Yi00MjJiLTRjYTItOGEwMS0zMTdmODE3MmEyMWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Has Andy Burnham taken leave of his senses over Heathrow Airport expansion? - Yorkshire Post Letters

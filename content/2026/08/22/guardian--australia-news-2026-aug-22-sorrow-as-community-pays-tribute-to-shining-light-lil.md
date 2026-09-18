@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: The 18-year-old remembered as a talented athlete with an infectious smile
   and ‘one of those people who everyone simply liked’
 image: https://i.guim.co.uk/img/media/88767de4bf103f7cd1db7a710fb56defa740aef5/0_53_1638_1309/master/1638.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a5cbdd341e3505f1e30135ae4fdf1ac
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- Society & Culture
 ---
 
 Tributes have flowed for 18-year-old Lily Hooper, remembered as an adventurous, multitalented athlete with an infectious smile, after her body was found on Thursday afternoon, eight days after she disappeared while hiking in the New South Wales southern highlands.

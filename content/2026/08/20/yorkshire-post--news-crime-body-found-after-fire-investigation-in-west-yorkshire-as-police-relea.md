@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Officers investigating a fire in Batley from earlier this week have discovered
   a body.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQ3ZTBiNjUzLTZlYWItNDY2MS1hMjY2LTViMGI5ZTAwZTAzMDowYTE3YzdjNi1jNDZiLTRiNzgtYmQwNC02ZmQ5YmM3MDgxOWM=.png?crop=3:2,smart&trim=&width=1038&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Body found after fire investigation in West Yorkshire as police release update

@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Concerns have been raised after thick black sludge was left around the
   edge of a boating lake in County Durham.
 image: https://www.thenorthernecho.co.uk/resources/images/21330261.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: ANDY FUTERS)*

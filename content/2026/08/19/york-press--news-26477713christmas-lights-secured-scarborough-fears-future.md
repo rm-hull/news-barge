@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: CHRISTMAS lights will be installed in a North Yorkshire town after the
   future of the festive illuminations was put in doubt over possible funding…
 image: https://www.yorkpress.co.uk/resources/images/21341026.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 ## Town’s Christmas lights secured after fears about future of illuminations

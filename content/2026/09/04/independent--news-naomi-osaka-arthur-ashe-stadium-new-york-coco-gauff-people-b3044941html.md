@@ -10,6 +10,10 @@ description: After influencers interrupted Naomi Osaka's opening match at the U.
   Open, their presence and tennis etiquette have become a hot topic at the Grand Slam
   tournament
 image: https://static.independent.co.uk/2026/09/04/17/APTOPIX_US_Open_Tennis_6945_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Naomi Osaka usually does not have a problem focusing on playing tennis and blocking out the crowd when she's on the court. Her first-round match at the U.S. Open became a notable exception.

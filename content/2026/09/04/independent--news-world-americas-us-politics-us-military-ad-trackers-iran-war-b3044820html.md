@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: It follows reports that commercially available location data has been
   used to target American forces in the Middle East
 image: https://static.independent.co.uk/2026/09/02/15/07/SEI310336673-copy.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The U.S. military has deactivated advertising trackers on computers and cellphones as commercially sourced location data emerges as a growing threat to American forces deployed in the Middle East.

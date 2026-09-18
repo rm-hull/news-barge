@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: A lucky seagull survived being smashed into by a car along a motorway
   before travelling for several miles stuck in the vehicle's grille.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjAxNzI0YmFlLWM2NGMtNDE4MS1hYmQzLTg1NTE1NzY2MDcxZTpjNzMwOTgwMC0wY2EyLTRjNmYtYWVjMS1mYmQwOTRiY2FjZDE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
+- Travel
 ---
 
 # Seagull wedged in front of car after being hit on A1(M)

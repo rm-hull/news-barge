@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T18:59:12Z'
 published: '2026-09-04T00:00:00Z'
 description: A launch discount lets you save up to 33% until September 15
 image: https://cdn.mos.cms.futurecdn.net/Z8cccYZxkX5QXvAauhJhAn-837-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Amnezia VPN logo on black background](https://cdn.mos.cms.futurecdn.net/Z8cccYZxkX5QXvAauhJhAn.jpg) 

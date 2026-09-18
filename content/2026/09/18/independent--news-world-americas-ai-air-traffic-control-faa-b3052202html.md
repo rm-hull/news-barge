@@ -9,6 +9,11 @@ description: The software will initially serve only as a real-time decision tool
   unexpected disruptions, though it is eventually designed to predict traffic flows
   and map routes days ahead
 image: https://static.independent.co.uk/2026/09/17/23/42/GettyImages-2197376297.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Federal officials plan to launch an artificial intelligence-powered system in the Washington, D.C., area as early as Monday, the first step in a broader push to modernize U.S. air traffic management.

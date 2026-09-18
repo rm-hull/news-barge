@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: Lanterns episode 2 marks the debut of a major Green Lantern villain —
   here's all you need to know about him.
 image: https://cdn.mos.cms.futurecdn.net/rnAs2TumGMLm3St6s9Z2Mm-1600-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Ulrich Thomsen's Sinestro wearing a white prison jump-suit and sitting down in Lanterns episode 2](https://cdn.mos.cms.futurecdn.net/rnAs2TumGMLm3St6s9Z2Mm.jpg) 

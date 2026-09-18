@@ -8,6 +8,8 @@ published: '2026-09-03T00:00:00Z'
 description: The company is about to formally launch the gold two-seater, with no
   steering wheel or pedals -- a move that could change Tesla forever.
 image: https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-austin-giga-getty.jpg?resize=1200,805
+categories:
+- Technology & Software
 ---
 
 Today could be the day Tesla changes forever.

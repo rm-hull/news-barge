@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: More than 25 million viewers watched the Seattle Seahawks beat the New
   England Patriots in the NFL's season opener last week
 image: https://static.independent.co.uk/2026/09/10/09/2294430499..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Business & Entrepreneurship
 ---
 
 The NFL made a strong prime-time start last week, drawing over 25 million viewers for the Seattle Seahawks' victory over the New England Patriots and outperforming a speech by President Donald Trump at the Republican midterm convention.

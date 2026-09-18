@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: An award-winning caravan and camping park in North Yorkshire is inviting
   former guests to share holiday memories as part of its 50th birthday…
 image: https://www.yorkpress.co.uk/resources/images/21386417.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Award-winning caravan park appeals for memories as it celebrates 50 years

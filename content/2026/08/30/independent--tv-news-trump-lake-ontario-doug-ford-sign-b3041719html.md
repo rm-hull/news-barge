@@ -14,6 +14,11 @@ description: A huge Lake Ontario sign has been unveiled next to the lake after D
   about the lake, and does not govern what Canada, international bodies or other organisations
   call it.
 image: https://cdn.jwplayer.com/v2/media/P5luAJHM/poster.jpg?width=720
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 ## Showing now | News

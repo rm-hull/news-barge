@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Book was removed for review earlier this month following complaint but
   reinstated after petition and State Library letter to Waverley council
 image: https://i.guim.co.uk/img/media/c207389352417dbd080435a8a6d59bd2ed4bb816/156_0_5315_4252/master/5315.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=72039d27faeddc0149a7ba372447c979
+categories:
+- UK
+- News & Politics
+- Books & Literature
 ---
 
 A Sydney library has returned to its borrowing shelves a book critical of Israel called How to Sell a Genocide following a public campaign and an intervention from the State Library of New South Wales.

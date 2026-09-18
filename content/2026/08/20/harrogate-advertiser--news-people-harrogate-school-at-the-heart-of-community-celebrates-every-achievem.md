@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Harrogate’s ‘most welcoming’ school is celebrating the achievements of
   its students as they receive their GCSE results today.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjg1NjkyNmUyLTE5NjQtNDNiZC04NDNlLTU0NmFhYzliN2ZkNjowZjQzZWQ1MC1mM2Q0LTQxMmMtYWIwYy00MDg2OGNlM2VmZjg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 # Harrogate school at the heart of community celebrates 'every achievement and every student'

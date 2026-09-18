@@ -9,6 +9,10 @@ scraped_at: '2026-08-23T12:58:43Z'
 published: '2026-08-23T00:00:00Z'
 description: How will these drones blow away clouds?
 image: https://cdn.mos.cms.futurecdn.net/vNEVWceFT8L4AN8TD2885j-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![clouds behind some solar panels](https://cdn.mos.cms.futurecdn.net/vNEVWceFT8L4AN8TD2885j.png) 

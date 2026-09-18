@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: HOMEOWNERS are being urged to check their properties for signs of subsidence
   following this summer’s prolonged heatwave.
 image: https://www.thetelegraphandargus.co.uk/resources/images/17881775.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Pixabay)*

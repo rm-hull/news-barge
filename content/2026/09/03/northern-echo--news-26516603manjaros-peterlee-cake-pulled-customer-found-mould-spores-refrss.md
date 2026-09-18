@@ -9,6 +9,12 @@ published: '2026-09-03T00:00:00Z'
 description: A cake bought from Manjaros Peterlee has been pulled from sale across
   the chain after a customer reported finding what appeared to be mould spores…
 image: https://www.thenorthernecho.co.uk/resources/images/21403125.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Sports
 ---
 
 *(Image: FACEBOOK/ GOOGLE)*

@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: Grangetown Primary School has earned its second consecutive OPAL Platinum
   Award, recognising its commitment to outdoor play, creativity and…
 image: https://www.thenorthernecho.co.uk/resources/images/18476647.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Video Gaming
 ---
 
 A Middlesbrough primary school has been named among the country’s best for outdoor play, with a playground where children can build, explore and imagine.

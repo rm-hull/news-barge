@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Barcelona have again restated their desire to sign Julian Alvarez, prompting
   another angry response from Atletico Madrid.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dd00/live/65b7e710-a151-11f1-92f3-2381193e5eb4.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Julian Alvarez in action for Atletico Madrid](https://ichef.bbci.co.uk/ace/standard/994/cpsprodpb/dd00/live/65b7e710-a151-11f1-92f3-2381193e5eb4.jpg)

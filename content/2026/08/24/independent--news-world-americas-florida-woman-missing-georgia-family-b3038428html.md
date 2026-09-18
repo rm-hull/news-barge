@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Katrice Simmon’s realtives said she sounded as though she was in distress
   during their last phone call with her before her disappearance
 image: https://static.independent.co.uk/2026/08/24/17/08/Screenshot-2026-08-24-at-1-50-25-PM.png?trim=40,0,47,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A Florida woman who went missing two months ago after moving to Atlanta to live with a man she met online has been found, her family has announced.

@@ -13,6 +13,12 @@ description: Among all the categories used to describe the UK’s more than nine
   term for individuals who want to work but have effectively stopped looking, because
   they believe the opportunities simply aren’t there for them.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmRlZDM3Mzg3LWNhYTctNDg4OS05MTc0LWIxZGU0OWQ3MzZjOTo3ZGFkYWU1Yy1lNzBjLTQzYWUtOTU4Yy1jMTkxNjYxY2IxNWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 # Overcoming the challenge of getting economically inactive adults into work - Kevin O’Hare

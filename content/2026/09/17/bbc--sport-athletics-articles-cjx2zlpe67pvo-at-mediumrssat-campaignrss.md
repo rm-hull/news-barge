@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Olympic champion Keely Hodgkinson says she is "built differently" after
   an MRI scan uncovered an "abnormality" in her hamstring.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1b8c/live/2cb82f20-b2bc-11f1-9830-658a48c7da16.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Health & Fitness
 ---
 
 ![Head and shoulders of Keely Hodgkinson, wearing a blue GB vest with thin white stripes, standing with her hands together in front of her chest](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1b8c/live/2cb82f20-b2bc-11f1-9830-658a48c7da16.jpg)

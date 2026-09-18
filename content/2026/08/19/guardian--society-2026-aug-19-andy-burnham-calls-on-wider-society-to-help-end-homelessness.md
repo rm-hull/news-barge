@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: PM says public money alone won’t solve problem but ‘we did it in the
   pandemic, we can do it again’
 image: https://i.guim.co.uk/img/media/7a90f8901e0fba501966367af7e96593354ecf1a/772_0_4678_3745/master/4678.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b5ff172070366546c974fc4ce12addfa
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Andy Burnham has said government money alone may not be enough to get rough sleepers off the streets by Christmas, as experts called for more of a plan to deal with the problems that cause homelessness.

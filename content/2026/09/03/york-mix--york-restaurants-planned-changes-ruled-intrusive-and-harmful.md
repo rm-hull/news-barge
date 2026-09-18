@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T19:16:55Z'
 published: '2026-09-03T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/la-piazza-antica-goodramgate-york-pergola-1-pd.webp
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 Changes proposed to a York restaurant would harm its historic building, the council has ruled.

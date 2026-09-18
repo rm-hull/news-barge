@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Defense Secretary Pete Hegseth said screening troops for ‘testosterone
   deficiency’ is necessary to allow them to operate at their ‘absolute best’
 image: https://static.independent.co.uk/2026/09/18/18/34/GettyImages-2193881754.jpg?trim=0,0,204,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 The Pentagon has issued formal guidance for mandatory testosterone testing for male service members 30 and older, two weeks after publishing and abruptly pulling the policy.

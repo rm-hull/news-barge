@@ -7,6 +7,10 @@ scraped_at: '2026-08-29T06:59:29Z'
 published: '2026-08-29T00:00:00Z'
 description: The Met Office has forecast a wet bank holiday weekend across York.
 image: https://www.yorkpress.co.uk/resources/images/19947207.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: Archive)*

@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Avocets, black-tailed godwits and a marsh harrier have been spotted taking
   flight over RSPB Saltholme in the North East.
 image: https://www.thenorthernecho.co.uk/resources/images/21379019.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: PAT BLEWITT/CAMERA CLUB)*

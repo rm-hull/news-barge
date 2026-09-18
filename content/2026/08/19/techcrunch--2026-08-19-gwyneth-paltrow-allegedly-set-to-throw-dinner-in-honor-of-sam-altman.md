@@ -7,6 +7,8 @@ scraped_at: '2026-08-19T21:32:02Z'
 published: '2026-08-19T00:00:00Z'
 description: The actress' firm Kinship Ventures is an investor in the company.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2266702439.jpg?w=1024
+categories:
+- Business & Entrepreneurship
 ---
 
 Sam Altman is headed to the Hamptons, according to Puck. Gwyneth Paltrow is reportedly sending invites for a “private, off-the-record” dinner honoring the tech mogul on August 29 at her home out East.

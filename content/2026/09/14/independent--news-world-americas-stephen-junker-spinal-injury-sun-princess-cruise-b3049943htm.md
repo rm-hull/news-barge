@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: The pastor was found unresponsive in a swimming pool before being rushed
   to a hospital in Naples, Italy
 image: https://static.independent.co.uk/2026/09/14/15/15/Screenshot-2026-09-14-at-15-58-26.png?trim=21,0,6,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Religion & Spirituality
 ---
 
 A Minnesota pastor has died after suffering a severe spinal injury while on a cruise celebrating his son’s wedding.

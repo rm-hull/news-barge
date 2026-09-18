@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Beau Greaves makes darts history by beating Daryl Gurney at the Czech
   Open to become the first woman to win a match on the European Tour.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d2dd/live/2a655330-a8b0-11f1-969d-b7e832559a75.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Beau Greaves celebrating](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/d2dd/live/2a655330-a8b0-11f1-969d-b7e832559a75.jpg)

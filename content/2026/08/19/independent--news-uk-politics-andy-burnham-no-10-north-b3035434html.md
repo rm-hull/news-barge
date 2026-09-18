@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: The Prime Minister is expected to work at No 10 North once each week
   during his premiership
 image: https://static.independent.co.uk/2026/07/27/12/2286812503..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 Andy Burnham has outlined plans for the new No 10 North to assume control over economic growth from the Treasury, framing the shift as a move to divest power from Whitehall.

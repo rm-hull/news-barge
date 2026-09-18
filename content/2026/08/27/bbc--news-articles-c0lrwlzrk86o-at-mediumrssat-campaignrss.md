@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: A judge awards less than Lively requested to cover her legal fees to
   fight a defamation case he filed.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/442a/live/05023130-c21b-11ef-a2ca-e99d0c9a24e3.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Blake Lively in a white suit and earrings posing in front of the London  skyline on 8 August 2024](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/442a/live/05023130-c21b-11ef-a2ca-e99d0c9a24e3.jpg)

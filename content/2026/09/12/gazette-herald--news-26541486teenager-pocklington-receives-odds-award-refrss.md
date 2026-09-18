@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: A young teenager, from Pocklington, has been named the winner of the
   Community Pride 2026 Against All Odds award for her extraordinary courage and…
 image: https://www.gazetteherald.co.uk/resources/images/21434956.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 A YOUNG teenager has been named the winner of the Community Pride 2026 Against All Odds award for her extraordinary courage and resilience.

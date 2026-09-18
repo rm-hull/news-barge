@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: An ex North Yorkshire Police officer who is alleged to have saved 'inappropriate'
   images to his mobile phone sent in a stag do chat is…
 image: https://www.thenorthernecho.co.uk/resources/images/21328670.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: NORTHERN ECHO)*

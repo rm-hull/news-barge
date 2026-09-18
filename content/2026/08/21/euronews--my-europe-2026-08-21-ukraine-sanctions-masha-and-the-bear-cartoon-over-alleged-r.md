@@ -9,6 +9,10 @@ description: 'Ukraine sanctioned the creators of the Masha and the Bear cartoon 
   one of Russia’s most successful cultural exports — accusing the globally popular
   children’s cartoon of spreading pro-Russian narratives to young audiences. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/41/66/1200x675_cmsv2_753821bc-2369-5df8-947e-0c0ed367d843-9884166.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 ## Ukraine sanctioned the creators of the Masha and the Bear cartoon — one of Russia’s most successful cultural exports — accusing the globally popular children’s cartoon of spreading pro-Russian narratives to young audiences.

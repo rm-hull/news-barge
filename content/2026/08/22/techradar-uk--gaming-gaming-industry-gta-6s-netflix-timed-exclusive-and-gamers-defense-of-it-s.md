@@ -9,6 +9,9 @@ published: '2026-08-22T00:00:00Z'
 description: Rockstar Games' GTA 6 timed Netflix exclusive, and gamers' defense of
   it is exactly why the gaming industry is rotten and will continue to get worse.
 image: https://cdn.mos.cms.futurecdn.net/KzYzvrTuVLgApAaJEhjrmg-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Jason & Lucia, alongside Netflix logo](https://cdn.mos.cms.futurecdn.net/KzYzvrTuVLgApAaJEhjrmg.jpg) 

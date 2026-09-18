@@ -8,6 +8,10 @@ scraped_at: '2026-09-07T14:14:21Z'
 published: '2026-09-07T00:00:00Z'
 description: The games are available across two platforms.
 image: https://cdn.mos.cms.futurecdn.net/ep3dEnRHFa2JkfGRm9bSSQ-2482-80.png
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![GTA: Vice City running in a browser](https://cdn.mos.cms.futurecdn.net/ep3dEnRHFa2JkfGRm9bSSQ.png) 

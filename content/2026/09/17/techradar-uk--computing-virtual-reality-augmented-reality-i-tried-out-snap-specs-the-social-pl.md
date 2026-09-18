@@ -9,6 +9,9 @@ published: '2026-09-17T00:00:00Z'
 description: Chunky? Sure, but Snap Specs still manage to deliver a comfortable fit,
   as well as some impressive AR and AI capabilities.
 image: https://cdn.mos.cms.futurecdn.net/mGyHQ8diSYc46PMnp5vcYa-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Snap Specs 6th Gen](https://cdn.mos.cms.futurecdn.net/mGyHQ8diSYc46PMnp5vcYa.jpg) 

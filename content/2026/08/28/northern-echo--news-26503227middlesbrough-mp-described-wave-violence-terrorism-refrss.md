@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: Middlesbrough MP Andy McDonald has described a wave of violence following
   the deadly A66 crash and fatal house fire as “terrorism”.
 image: https://www.thenorthernecho.co.uk/resources/images/21383152.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 A Middlesbrough MP has described a wave of violence following the deadly A66 crash and fatal house fire as "terrorism".

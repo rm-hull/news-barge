@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Two people have been discharged from hospital after a fatal A1(M) crash
   near Darlington, police have confirmed.
 image: https://www.thenorthernecho.co.uk/resources/images/21411194.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 Two people have been discharged from hospital after a fatal A1(M) crash near Darlington.

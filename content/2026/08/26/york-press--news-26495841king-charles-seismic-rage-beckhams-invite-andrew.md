@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: King Charles was reportedly "seismic with rage" after the Beckhams invited
   Andrew Mountbatten-Windsor to a birthday.
 image: https://www.yorkpress.co.uk/resources/images/21343949.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: Aaron Chown / PA)*

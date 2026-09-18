@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The summer holidays are in full swing and as usual I was able to attend
   the Great Yorkshire Show as a member and what a success!
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjM0OTBhNzM0LWEwODUtNGVmMS1iNTViLTdjMzQwMTNjYjFiZjpiZDllNDY3OS03NGI1LTRjNDAtYTNiYy1jNmQ5NDZmMjQ2OTk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 # Mayor of Harrogate column: A busy summer of events

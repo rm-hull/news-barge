@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: With the number of UK data centres set to rise, some communities are
   concerned about their impact.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c7c/live/02b5a460-a2a8-11f1-ab20-f9f4f61e8913.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A woman with long blonde hair stands in her garden. Behind her, beyond her garden fence, is a large data centre which looks like a tall warehouse](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/4c7c/live/02b5a460-a2a8-11f1-ab20-f9f4f61e8913.jpg)

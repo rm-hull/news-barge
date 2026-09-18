@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T16:47:43Z'
 published: '2026-08-20T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/07/Joseph-Mallord-William-Turner-1775%E2%80%931851.-Ulysses-deriding-Polyphemus-Homers-Odyssey-1829-%C2%A9-The-National-Gallery-London.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 An iconic painting will be making an epic journey to the north to go on display at York Art Gallery.

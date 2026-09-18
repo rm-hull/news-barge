@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A Harrogate family firm known for its luxury furniture is welcoming a
   new apprentice and the next generation of craftsmanship.
 image: https://www.yorkpress.co.uk/resources/images/21410051.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ## North Yorkshire luxury furniture firm welcomes third generation as apprentice

@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: One person accused the blind people’s charity of ‘deliberately overfilling
   our great country with illegals’
 image: https://static.independent.co.uk/2026/09/07/11/01M1XMZ1BS35QXNERQZ8JM5ERV.jpg?trim=118,0,70,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Anti-immigrant protesters have been directing abuse at the UK’s leading blind people’s charity, accusing it of helping small boat migrants after mistaking it for RNLI.

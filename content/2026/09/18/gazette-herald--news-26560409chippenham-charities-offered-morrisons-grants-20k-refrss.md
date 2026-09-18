@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Charities in Chippenham can apply for up to £20,000 through the new Morrisons
   Foundation Connecting Communities fund to improve community…
 image: https://www.gazetteherald.co.uk/resources/images/21462153.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

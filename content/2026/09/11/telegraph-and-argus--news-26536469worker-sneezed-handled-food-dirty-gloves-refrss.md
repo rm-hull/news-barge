@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: A food business has been handed a long list of hygiene warnings following
   two inspections.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18996405.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
+- Business & Entrepreneurship
 ---
 
 *(Image: T&A)*

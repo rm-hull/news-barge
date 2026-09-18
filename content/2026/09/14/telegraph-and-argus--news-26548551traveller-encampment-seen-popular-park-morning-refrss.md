@@ -8,6 +8,11 @@ scraped_at: '2026-09-14T15:01:12Z'
 published: '2026-09-14T00:00:00Z'
 description: A traveller encampment is in a popular Bradford district park.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21452614.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: T&A)*

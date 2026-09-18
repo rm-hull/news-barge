@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Kyrgyzstan hosted the World Nomad Games, where athletes compete in centuries-old
   nomadic sports while celebrating the country’s culture, traditions and craftsmanship.
 image: https://static.independent.co.uk/2026/09/03/22/Kyrgyzstan_World_Nomad_Games_51494.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Video Gaming
 ---
 
 Photos show centuries-old traditions and sports at Kyrgyzstan’s World Nomad Games

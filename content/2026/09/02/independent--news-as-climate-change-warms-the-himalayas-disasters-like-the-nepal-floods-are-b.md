@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: The flash floods in Nepal were only the latest in an accelerating series
   of disasters that have battered the Himalayas in recent years
 image: https://static.independent.co.uk/2026/09/01/14/APTOPIX_Nepal_Flash_Floods_3_184.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 When a wall of water, rocks and mud tore through her remote village in Nepal last week, Pema Tamang and her neighbors fled uphill to a Buddhist shrine that had been rebuilt the previous year after a 2015 earthquake.

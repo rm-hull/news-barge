@@ -10,6 +10,9 @@ description: Jason Eaton insisted he was acting on orders from the CIA and Mossa
   when he shot three Palestinian college students who were walking past his home a
   few days after Thanksgiving
 image: https://static.independent.co.uk/2026/09/14/22/Vermont_Shootings_91179.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Jason Eaton insisted he was acting on orders from the CIA and Mossad when he shot three Palestinian college students who were walking past his home a few days after Thanksgiving. He said the U.S. and Israeli intelligence agencies transmitted the messages to him via FM radio and that God was commanding him to protect his Jewish neighbors.

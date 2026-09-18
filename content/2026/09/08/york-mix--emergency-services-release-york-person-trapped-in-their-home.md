@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T12:50:45Z'
 published: '2026-09-08T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/coggan-close-york-gsv.webp
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 Emergency services were called to a person trapped in their home last night (Monday).

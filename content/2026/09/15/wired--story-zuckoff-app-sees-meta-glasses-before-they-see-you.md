@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: You can’t always tell if someone is recording you with their smart glasses,
   but your phone can help.
 image: https://media.wired.com/photos/6aa967ea2d07a4d487b8f97e/191:100/w_1280,c_limit/MetaGlasses_lead.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 The free mobile app ZuckOff, built by 30-year-old Polish developer Pawel Szydlowski, uses a Bluetooth detection system to tell you whether there is a pair of smart glasses in the room with you.

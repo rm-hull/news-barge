@@ -7,6 +7,10 @@ scraped_at: '2026-08-22T08:42:58Z'
 published: '2026-08-22T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/sloppys-york-castlegate-15.webp
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 Popular burger spot Sloppy’s Bar and Kitchen has opened its new city centre venue **today, Friday 21 August**.

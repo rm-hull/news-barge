@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Police have issued a statement on why they cordoned off the grounds of
   a Bradford church.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21368678.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Mike Simmonds)*

@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: A man has been charged with murder after a house fire which killed a
   seven-year-old girl and her aunt - police have said.
 image: https://www.thenorthernecho.co.uk/resources/images/21378074.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: THE NORTHERN ECHO)*

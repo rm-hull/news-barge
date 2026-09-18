@@ -9,6 +9,8 @@ published: '2026-09-01T00:00:00Z'
 description: Nvidia's DLSS 5 has come a long way since its first reveal, and the latest
   incarnation of the tech left me pleasantly surprised.
 image: https://cdn.mos.cms.futurecdn.net/qZyvPQuw5KefxdfbZCRWVT-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Nvidia logo at Gamescom alongside DLSS 5 image of NBA 2K27](https://cdn.mos.cms.futurecdn.net/qZyvPQuw5KefxdfbZCRWVT.jpg) 

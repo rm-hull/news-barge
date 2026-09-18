@@ -8,6 +8,10 @@ scraped_at: '2026-09-17T13:24:43Z'
 published: '2026-09-17T00:00:00Z'
 description: Here’s a look at the latest news in the Middle East
 image: https://static.independent.co.uk/2026/09/09/18/APTOPIX_Iran_School_37952.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 United Nations-backed human rights experts said on Thursday there are “reasonable grounds” to believe the United States committed war crimes in two strikes in Iran on the first day of the war.

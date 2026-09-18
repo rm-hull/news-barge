@@ -9,6 +9,9 @@ description: The deal will triple the size of Einride's fleet while sweetening t
   company's sales pitch for its Saga AI software. The Tesla Semis will be available
   to customers across North America.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Semi_83.jpg?resize=1200,675
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Swedish electric and autonomous trucking company Einride said on Tuesday it plans to buy 500 Tesla Semis and make the electric big rigs available to its customers, which include Amazon. The Tesla Semis will be added in phases to Einride’s fleet over the next 24 months, starting in September, the company said.

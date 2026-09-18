@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: The Royal Mint has revealed the rarest version of each of the eight coins
   in Britain.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21406494.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- History
 ---
 
 *(Image: Getty Images/iStockphoto)*

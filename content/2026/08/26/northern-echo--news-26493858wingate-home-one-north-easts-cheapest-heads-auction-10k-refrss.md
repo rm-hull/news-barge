@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: A three-bedroom terraced home in County Durham with a £10,000 guide price
   is heading to auction, offering a major renovation challenge for its next…
 image: https://www.thenorthernecho.co.uk/resources/images/21369381.jpg?type=og-image&xType=0&yType=48
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Real Estate
 ---
 
 This boarded-up home is filled with broken furniture, heaps of mail, and needs some serious DIY, but it is one of the best house bargains you will find.

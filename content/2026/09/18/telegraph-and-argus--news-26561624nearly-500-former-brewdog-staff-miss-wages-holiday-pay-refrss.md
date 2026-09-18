@@ -8,6 +8,13 @@ published: '2026-09-18T00:00:00Z'
 description: Administrators say nearly 500 former BrewDog staff face losing £489,000
   in wages and holiday pay after its retail arm collapsed; HMRC is owed…
 image: https://www.thetelegraphandargus.co.uk/resources/images/18169828.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 *(Image: Brewdog)*

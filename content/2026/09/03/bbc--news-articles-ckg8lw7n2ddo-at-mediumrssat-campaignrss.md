@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: More than 80 people have been killed in the mob violence, the BBC finds
   after gathering data from six African nations.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e7c7/live/037d7ef0-a1fd-11f1-a97e-999c5aae08bf.png
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- History
 ---
 
 ![A medium shot of an adult man with short hair seated outdoors against a beige plastered wall looking directly into the camera with a serious facial expression. He is wearing a long-sleeved, collared button-down shirt featuring vertical blue, white, and thin pink stripes.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/e7c7/live/037d7ef0-a1fd-11f1-a97e-999c5aae08bf.png)

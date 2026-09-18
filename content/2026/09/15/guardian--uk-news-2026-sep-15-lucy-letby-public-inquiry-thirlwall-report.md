@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Lady Justice Thirlwall’s wide-ranging inquiry calls on NHS England to
   implement 14 changes by March next year
 image: https://i.guim.co.uk/img/media/52718705e1fb4cf5d0d9e96da6fc047a4d615968/583_0_5833_4667/master/5833.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a77f79f5560cefc11200097ccd86376c
+categories:
+- UK
+- News & Politics
 ---
 
 Lady Justice Thirlwall has published the report on the findings of her inquiry into events at the Countess of Chester hospital involving the actions of former neonatal nurse Lucy Letby, who was convicted over the murder and attempted murder of multiple babies.

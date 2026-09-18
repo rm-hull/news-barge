@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Hilton has announced plans to open 10 new Spark by Hilton hotels across
   the UK between 2026 and 2028.
 image: https://www.thenorthernecho.co.uk/resources/images/21465815.jpg?type=og-image&xType=0&yType=262
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Getty Images)*

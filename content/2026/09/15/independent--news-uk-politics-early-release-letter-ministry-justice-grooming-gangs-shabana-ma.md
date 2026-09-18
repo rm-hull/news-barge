@@ -9,6 +9,10 @@ description: Shabana Mahmood told MPs that the Ministry of Justice had sent a �
   of letters’ incorrectly in the wake of the government’s plans to release prisoners
   early
 image: https://static.independent.co.uk/2026/09/15/18/01M2JVPBMATY4B370V5DHJ9MTW.jpg?trim=0,150,0,150&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A grooming gang victim is amongst the people who have mistakenly received letters concerning the early release of perpetrators from prison, the home secretary has said.

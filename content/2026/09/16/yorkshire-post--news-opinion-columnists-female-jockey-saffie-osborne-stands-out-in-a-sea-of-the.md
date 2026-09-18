@@ -10,6 +10,11 @@ description: Mentioning the odd little flutter on the horses is probably enough 
   mentioned how young female jockey Saffie Osborne had unexpectedly picked up a ride
   in the 250th running of the world’s oldest classic flat race, the St Leger at Doncaster.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY4MmJjMmY5LTIzZjEtNDJmZS1hZGEzLTY0YzIxNzg2YjE1MjplZTQ0ZDJlMy1iMGE0LTQ2NTQtYWM3ZS0yMDdkYTg0ZTdmYWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Female jockey Saffie Osborne stands out in a sea of the bland - Sarah Todd

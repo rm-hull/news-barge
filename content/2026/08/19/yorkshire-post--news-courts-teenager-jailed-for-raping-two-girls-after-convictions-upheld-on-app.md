@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: An 18-year-old has been jailed for raping two girls after they were forced
   to give evidence for a second time when he appealed against his convictions.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/19/17/34/sam-brewster.jpeg?trim=44,0,116,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Teenager jailed for raping two girls after convictions upheld on appeal

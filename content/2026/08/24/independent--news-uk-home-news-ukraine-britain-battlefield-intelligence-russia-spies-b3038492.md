@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: The UK is the first country outside of Ukraine to get access to Kyiv’s
   ‘Avengers’ database
 image: https://static.independent.co.uk/2026/08/24/21/2291336027..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Sports
 ---
 
 Ukraine has handed Britain a “goldmine” of secret battlefield intelligence to help the UK protect its bases from Russian spies.

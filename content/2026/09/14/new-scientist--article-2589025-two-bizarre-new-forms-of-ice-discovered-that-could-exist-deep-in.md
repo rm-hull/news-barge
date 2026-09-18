@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: Crushing water to pressures in the millions of atmospheres has revealed
   two strange types of ice, which may form deep inside Neptune and Uranus
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312403005.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312403005.jpg?w=840)

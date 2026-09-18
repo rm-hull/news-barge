@@ -9,6 +9,11 @@ description: English translation of Élisabeth, the New Wave director’s 1946 b
   young lovers in prewar Paris, receives rave reviews as precursor to auteur’s cinematic
   work
 image: https://i.guim.co.uk/img/media/5eb20e2a28acb7636696b379c86e26400c243e4f/0_0_3582_2863/master/3582.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=37b3d4390823bedbdb1f9f449a3b9630
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- Film & TV
 ---
 
 In the dog days of the second world war, 24-year-old Maurice Schérer wrote a tale of young lovers in prewar small-town France. He described lazy August swims in the Marne River east of Paris. He wrote about age-gap affairs and semi-incestuous flirtations. Schérer gallantly used a nom de plume, Gilbert Cordier, to shield his Catholic family from scandal, but he needn’t have bothered as his concerns were unfounded. The finished novel, Élisabeth, barely made a ripple and quickly slipped out of print. Undeterred, Scherer adopted a second pseudonym – Éric Rohmer – and decided to try his luck as a film-maker instead.

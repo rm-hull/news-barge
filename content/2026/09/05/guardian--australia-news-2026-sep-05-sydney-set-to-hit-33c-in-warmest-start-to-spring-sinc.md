@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: A total fire ban is in place for greater Sydney with extreme fire danger
   exacerbated by hot and windy conditions
 image: https://i.guim.co.uk/img/media/d85f872cdc7228f50ef4ce6ae89d5624682f88b2/685_0_7857_6286/master/7857.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=436dfda945e698d57db4889487a67840
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 Summer heat is due to arrive early across much of eastern Australia with potentially record early September temperatures predicted for Brisbane and Sydney, while snow was expected in southern New South Wales.

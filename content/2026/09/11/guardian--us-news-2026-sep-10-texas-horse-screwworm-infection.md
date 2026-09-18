@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: The flesh-eating parasite had been largely eradicated, but now authorities
   are racing to contain an outbreak
 image: https://i.guim.co.uk/img/media/4f34f6575fb28f543fdf2313dc8b84b6b61e05ab/274_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=83e575efb462b630d298f860634b7816
+categories:
+- UK
+- News & Politics
 ---
 
 A horse in southern Texas has been infected with the New World screwworm, marking the first US equine infection as health authorities race to contain an outbreak of the flesh-eating parasite.

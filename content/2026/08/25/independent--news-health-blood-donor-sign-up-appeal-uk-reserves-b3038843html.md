@@ -8,6 +8,10 @@ scraped_at: '2026-08-25T13:07:42Z'
 published: '2026-08-25T00:00:00Z'
 description: The UK’s heatwaves have majorly impacted blood donation, experts say
 image: https://static.independent.co.uk/2026/08/25/12/2163696684..?trim=0,1,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Health officials have issued an urgent appeal for blood donors to step forward following a "triple whammy" of surging demand, lower collection rates and the challenges posed by hot weather.

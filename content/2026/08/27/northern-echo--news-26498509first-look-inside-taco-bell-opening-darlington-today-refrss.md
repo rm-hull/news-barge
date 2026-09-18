@@ -9,6 +9,12 @@ published: '2026-08-27T00:00:00Z'
 description: Taco Bell is opening its doors in Darlington on Thursday, August 27,
   with a brand new restaurant launching at the former KFC site on North Road.
 image: https://www.thenorthernecho.co.uk/resources/images/21376575.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Food & Cooking
 ---
 
 Here is an exclusive first look inside a brand new fast-food spot launching in Darlington today.

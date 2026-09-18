@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T04:22:23Z'
 published: '2026-09-04T00:00:00Z'
 description: ‘It’s a clear Russian signal to America,’ warned Zelensky
 image: https://static.independent.co.uk/2026/09/03/17/2026-09-03T164015Z_525974036_RC2SBNAMNIIW_RTRMADP_3_UKRAINE-CRISIS-ATTACK-COCA-COLA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Russian drones hit a Coca-Cola plant outside Kyiv on Thursday, president Volodymyr Zelensky said.

@@ -9,6 +9,9 @@ description: How do you get the science right in a sci-fi book? Columnist Annale
   Newitz started by asking many kinds of researchers lots of very strange questions
   – and ended up in love with slime moulds
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311640595.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311640595.jpg?w=840)

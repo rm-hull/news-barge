@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: A padel sports centre could be created in a west Leeds community if plans
   are agreed with the city council - creating new jobs.
 image: https://www.yorkpress.co.uk/resources/images/21355290.jpg?type=og-image&xType=0&yType=652
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 ## New padel sports centre plans submitted for west Leeds with jobs to be created

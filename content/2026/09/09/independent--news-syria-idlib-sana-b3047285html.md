@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: A weapons warehouse in northwestern Syria exploded Wednesday, killing
   at least four people and wounding others
 image: https://static.independent.co.uk/2026/09/09/13/Syria_Explosion_4551_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 At least four people were killed and 10 others were wounded on Wednesday in an explosion at a weapons warehouse in northwestern Syria, according to state media.

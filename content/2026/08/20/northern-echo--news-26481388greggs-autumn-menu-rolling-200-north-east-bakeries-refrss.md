@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Greggs has announced its full 2026 autumn menu, with a returning fan
   favourite, buffalo chicken lunch options, pumpkin-spice drinks and seasonal…
 image: https://www.thenorthernecho.co.uk/resources/images/21349123.jpg?type=og-image&xType=0&yType=21
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 A new Greggs menu is rolling out very soon across 200 chains in the North East - including the return of a popular pastry.

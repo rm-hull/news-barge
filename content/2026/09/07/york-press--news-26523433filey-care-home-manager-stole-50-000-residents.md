@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: A “greedy” care home manager cheated residents and lied to their nearest
   and dearest as she stole £50,000 from them to fund her extravagant…
 image: https://www.yorkpress.co.uk/resources/images/21412449.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: North Yorkshire Police)*

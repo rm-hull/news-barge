@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: For the first time since 1975, the top four seeds in the women's US Open
   singles draw have reached the semi-finals.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7b09/live/4d41f9e0-acba-11f1-bc1f-3f186ca4140c.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Split image of Aryna Sabalenka, Jessica Pegula, Coco Gauff, Elena Rybakina](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/7b09/live/4d41f9e0-acba-11f1-bc1f-3f186ca4140c.png)

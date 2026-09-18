@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: One person has been taken to hospital after a crash involving a motorbike
   and a car in Darlington.
 image: https://www.thenorthernecho.co.uk/resources/images/21469516.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: GOOGLE MAPS)*

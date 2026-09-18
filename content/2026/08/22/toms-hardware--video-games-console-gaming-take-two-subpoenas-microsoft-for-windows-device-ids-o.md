@@ -10,6 +10,10 @@ published: '2026-08-22T00:00:00Z'
 description: The publisher wants MachineGuid identifiers, login IPs, and OneDrive
   contents by September 4.
 image: https://cdn.mos.cms.futurecdn.net/UZtFBUeKKRZ43cjULRJMNU-1600-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![screen cap of the GTA 6 trailer on YouTube](https://cdn.mos.cms.futurecdn.net/UZtFBUeKKRZ43cjULRJMNU.jpg) 

@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: Winds as high as 60 mph are expected in some areas, with the state governor
   warning of a risk of wildfires
 image: https://static.independent.co.uk/2026/09/01/10/12/Screenshot-2026-09-01-at-11-35-52.png?trim=0,8,0,7&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Texas and Louisiana are bracing for Tropical Storm Edouard, which is expected to make landfall Tuesday.

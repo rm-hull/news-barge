@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: New plans for a vacant unit will “help diversity the offer” of a Bradford
   district town centre – planners have decided.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21188165.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Star Nails)*

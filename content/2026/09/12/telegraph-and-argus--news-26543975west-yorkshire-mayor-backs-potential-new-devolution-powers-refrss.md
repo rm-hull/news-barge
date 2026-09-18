@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: West Yorkshire Mayor Tracy Brabin has backed plans for an overnight visitor
   levy, saying the scheme could help fund tourism, culture, public…
 image: https://www.thetelegraphandargus.co.uk/resources/images/13747688.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 West Yorkshire Mayor Tracy Brabin has backed plans to give regional leaders the power to introduce a levy on overnight visitors after discussing the proposal with fellow UK mayors at Number 10.

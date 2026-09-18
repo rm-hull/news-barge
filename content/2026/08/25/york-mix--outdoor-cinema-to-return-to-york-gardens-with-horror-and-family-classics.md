@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T08:56:20Z'
 published: '2026-08-25T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/jurassic-park-universal.webp
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 Summer isn’t over yet – as Picturehouse Outdoor Cinema returns with crowd-pleasing favourites.

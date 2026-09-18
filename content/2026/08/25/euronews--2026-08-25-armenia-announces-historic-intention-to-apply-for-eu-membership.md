@@ -9,6 +9,11 @@ description: Armenia’s Pashinyan laid out Yerevan's decision to formally apply
   EU membership “in the near future” and to call for a national referendum, challenging
   Russia’s regional influence and setting the stage for a historic geopolitical shift.
 image: https://images.euronews.com/articles/stories/09/88/76/01/1200x675_cmsv2_e193cf4d-854b-5df4-a0b4-df50095695b2-9887601.jpg
+categories:
+- Europe
+- News & Politics
+- History
+- Society & Culture
 ---
 
 ## Armenia’s Pashinyan laid out Yerevan's decision to formally apply for EU membership “in the near future” and to call for a national referendum, challenging Russia’s regional influence and setting the stage for a historic geopolitical shift.

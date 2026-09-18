@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Explore South Park's new interactive Go Well Trail, a free digital activity
   encouraging all ages to get active, learn and compete for points.
 image: https://www.thenorthernecho.co.uk/resources/images/21461917.jpg?type=og-image&xType=0&yType=582
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A free digital trail encouraging people to get active launches in Darlington's South Park this weekend.

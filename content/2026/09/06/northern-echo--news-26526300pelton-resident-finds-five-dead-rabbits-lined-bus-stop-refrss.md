@@ -9,6 +9,11 @@ published: '2026-09-06T00:00:00Z'
 description: '''Horrified'' residents were sickened when five dead rabbits appeared
   lined up on a Pelton bus-stop bench.'
 image: https://www.thenorthernecho.co.uk/resources/images/21417156.jpg?type=og-image&xType=0&yType=85
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: LOUISE)*

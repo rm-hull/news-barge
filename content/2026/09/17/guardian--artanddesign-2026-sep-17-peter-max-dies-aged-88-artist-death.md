@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The US artist, whose swirly, colorful, instantly recognizable designs
   became hugely commercially successful, died on Monday
 image: https://i.guim.co.uk/img/media/5ce5009f8123500376a239eb08c4a2309dc4c2e7/263_0_3640_2912/master/3640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c25409e6e8797e273a54ba7bdc0a8d9
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Peter Max, whose colorful, psychedelic pop art expressed the optimism of the “flower power” movement of the 1960s and graced everything from postage stamps to a cruise ship, has died at 88.

@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Years of talk is set to be turned into action following the approval
   of plans for a major York regeneration project, Angela Rayner has said.
 image: https://www.yorkpress.co.uk/resources/images/21439928.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Angela Rayner- York Central move 'unlocks one of UK's biggest regeneration projects'

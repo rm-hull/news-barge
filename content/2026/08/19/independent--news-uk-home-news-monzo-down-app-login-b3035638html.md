@@ -7,6 +7,12 @@ scraped_at: '2026-08-19T13:10:37Z'
 published: '2026-08-19T00:00:00Z'
 description: Monzo banking app went down at about 12pm today
 image: https://static.independent.co.uk/2025/12/15/00/13194206-183a2939-8963-4d1a-b606-3e458208047c.png?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The Monzo banking app is down, with thousands of users unable to access their accounts.

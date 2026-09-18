@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Lifeboat crew member wrongly identified as having helped small boat migrants
   speaks to BBC Verify.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f615/live/68145f40-ac76-11f1-b1d1-571ed4d7ff2c.png
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![A screenshot of an RNLI crew member wearing a lifevest and yellow waterproof overalls taken from a video](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/306a/live/f9c34f70-ac6f-11f1-bc1f-3f186ca4140c.png)

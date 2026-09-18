@@ -7,6 +7,9 @@ scraped_at: '2026-08-24T13:09:11Z'
 published: '2026-08-24T00:00:00Z'
 description: We don't know how many people are affected
 image: https://cdn.mos.cms.futurecdn.net/nKQTr6znQKVirervbiEDkL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![An office worker in front of a computer holding his hand in one hand and looking unhappy](https://cdn.mos.cms.futurecdn.net/nKQTr6znQKVirervbiEDkL.jpg) 

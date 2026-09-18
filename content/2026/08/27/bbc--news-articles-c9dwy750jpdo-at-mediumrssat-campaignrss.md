@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: '"Dolly worked up until the day she died," her manager says, as her upcoming
   projects are revealed.'
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6669/live/055ee1c0-a200-11f1-a97e-999c5aae08bf.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Dolly Parton is pictured riding on a truck at her famous Dollywood theme park in Tennessee in 1977, she's in a yellow and white dresss](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/6669/live/055ee1c0-a200-11f1-a97e-999c5aae08bf.jpg)

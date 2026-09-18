@@ -9,6 +9,8 @@ published: '2026-09-01T00:00:00Z'
 description: Waymo will begin inviting riders on a rolling basis and slowly ramp up
   access in the three cities, following its usual commercial playbook.
 image: https://techcrunch.com/wp-content/uploads/2026/05/waymo-zeekr-robotaxi.jpg?resize=1200,900
+categories:
+- Technology & Software
 ---
 
 Waymo has started to offer its robotaxi service to the public in Denver, San Diego, and Tampa, extending the Alphabet-owned company’s commercial operations to 14 U.S. cities.

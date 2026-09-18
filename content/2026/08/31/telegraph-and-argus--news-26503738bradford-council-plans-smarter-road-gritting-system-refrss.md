@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: A NEW winter service plan could see roads gritted more efficiently thanks
   to road surface temperature sensors
 image: https://www.thetelegraphandargus.co.uk/resources/images/20472906.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Bradford Council)*

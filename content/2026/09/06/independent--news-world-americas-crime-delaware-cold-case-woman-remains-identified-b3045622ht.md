@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: The remains were identified as Hannah Graham Kleitz, a 29-year-old woman
   who died more than a century ago from a medical illness
 image: https://static.the-independent.com/2026/09/06/20/40/Screenshot-2026-09-06-at-4-55-51-PM.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- True Crime
+- Society & Culture
 ---
 
 Police in Delaware have identified the remains of a woman who died in 1907 after her skull was found 15 years ago.

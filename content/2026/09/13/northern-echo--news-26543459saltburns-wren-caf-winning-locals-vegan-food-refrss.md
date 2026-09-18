@@ -8,6 +8,12 @@ published: '2026-09-13T00:00:00Z'
 description: The Wren Cafe & Bakehouse in Saltburn has built a loyal following with
   homemade vegan brunches, fresh bakes, sweet treats and gluten-free…
 image: https://www.thenorthernecho.co.uk/resources/images/21443768.jpg?type=og-image&xType=0&yType=446
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 A small café in a former school building on the edge of Saltburn is winning over locals.

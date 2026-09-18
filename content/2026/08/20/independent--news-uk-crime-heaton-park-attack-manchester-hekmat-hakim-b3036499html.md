@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The attack at Heaton Park Hebrew Congregation Synagogue saw two worshippers
   killed
 image: https://static.independent.co.uk/2026/05/26/22/2e7a2e2c209c9e49a669d4738f88c4a8Y29udGVudHNlYXJjaGFwaSwxNzc5OTE1MDY0-2.82803653.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A man has been charged in connection with a terrorist attack at Heaton Park Hebrew Congregation synagogue, which killed worshippers Melvin Cravitz and Adrian Daulby.

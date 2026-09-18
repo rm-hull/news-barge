@@ -8,6 +8,9 @@ published: '2026-09-05T00:00:00Z'
 description: Ryan Bridge, arrested this year on suspicion of religiously and racially
   aggravated harassment, says party invited him
 image: https://i.guim.co.uk/img/media/7e45723c8f25a785a75e207e156689685799e235/1365_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc499c17b3ca6259f722612d92451f05
+categories:
+- UK
+- News & Politics
 ---
 
 The leader of a flag campaign group who was arrested on suspicion of causing religiously and racially aggravated harassment was given access to Reform UK’s annual conference.

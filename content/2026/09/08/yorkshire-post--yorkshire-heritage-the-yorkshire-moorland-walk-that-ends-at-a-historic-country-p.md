@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: As the weather gets colder, there is something tempting about warm pubs
   after windy moorland walks.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/07/13/42/Approach-Dick-Hudsons.JPG?trim=5,0,5,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Travel
 ---
 
 # The Yorkshire moorland walk that ends at a historic country pub

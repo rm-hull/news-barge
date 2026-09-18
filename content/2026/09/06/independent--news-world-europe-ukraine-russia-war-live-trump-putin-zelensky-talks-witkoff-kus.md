@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: Steve Witkoff and Jared Kushner are visiting Moscow and Kyiv over the
   weekend
 image: https://static.independent.co.uk/2026/09/05/20/2026-09-05T194829Z_2009750295_RC26DNA93FYO_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-USA.JPG?trim=159,0,160,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Negotiations between Ukraine and the US have officially begun in Kyiv as US envoys Steve Witkoff and Jared Kushner arrived in the capital following their three-hour meeting with Vladimir Putin in Moscow.

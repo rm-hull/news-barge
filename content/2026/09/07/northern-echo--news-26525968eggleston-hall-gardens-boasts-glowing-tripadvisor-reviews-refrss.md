@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: Eggleston Hall garden centre and café has glowing reviews from visitors
   on TripAdvisor and Google.
 image: https://www.thenorthernecho.co.uk/resources/images/21416556.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 *(Image: TRIPADVISOR)*

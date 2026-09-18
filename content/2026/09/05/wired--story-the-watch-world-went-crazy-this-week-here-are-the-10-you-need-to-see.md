@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: The main action took place at Geneva Watch Days, but others dialed in
   remotely to make sure it wasn't just a Swiss party.
 image: https://media.wired.com/photos/6a9b0cbfa95fee1cd7b0f651/191:100/w_1280,c_limit/WatchWeek.jpg
+categories:
+- Technology & Software
+- Science
+- Film & TV
 ---
 
 While Watches and Wonders every April is undoubtedly the watch world's main event of the year, Geneva Watch Days—which inauspiciously launched in 2020, the year Covid was declared a pandemic—is now establishing itself as a serious follow-up. Big brands can hold back key releases and gain valuable space to shout about new pieces away from the horological hubbub of W&W.

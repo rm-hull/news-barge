@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Cider producers have said they are facing their "worst year ever" due
   to the dry weather impacting apple harvests
 image: https://www.thenorthernecho.co.uk/resources/images/21359468.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 *(Image: Getty Images)*

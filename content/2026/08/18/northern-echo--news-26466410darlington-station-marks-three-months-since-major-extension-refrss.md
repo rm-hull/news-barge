@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Darlington station marks three months since its extension opened, with
   almost 500,000 journeys made through the station.
 image: https://www.thenorthernecho.co.uk/resources/images/20613687.jpg?type=og-image&xType=0&yType=134
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Nearly half a million journeys have been made to and from Darlington Station in just three months since its major extension opened, The Northern Echo can reveal.

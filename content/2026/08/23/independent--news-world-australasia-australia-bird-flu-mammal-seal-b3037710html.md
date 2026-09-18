@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Australia is grappling with rising cases of the highly pathogenic avian
   influenza
 image: https://static.independent.co.uk/2026/06/29/12/2282348197..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Australia has confirmed its first case of H5N1 bird flu in a mammal after testing of a long-nosed fur seal found in South Australia.

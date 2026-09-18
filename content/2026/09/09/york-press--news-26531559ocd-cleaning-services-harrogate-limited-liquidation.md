@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A North Yorkshire cleaning company has gone into liquidation owing the
   taxman more than £30,000.
 image: https://www.yorkpress.co.uk/resources/images/21424805.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Street View)*

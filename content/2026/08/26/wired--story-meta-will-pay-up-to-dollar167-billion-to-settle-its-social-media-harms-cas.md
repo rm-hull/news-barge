@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: In addition to sending billions of dollars to states, Meta will make
   substantive changes to its platforms as part of a landmark settlement.
 image: https://media.wired.com/photos/6a8eee8f85384b803654439f/191:100/w_1280,c_limit/GettyImages-2261841633.jpg
+categories:
+- Technology & Software
+- Science
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Well, that was quick. Not even a quarter of the way into an expected 19-day federal trial over Meta’s alleged failure to protect young users, the social media giant agreed to settle the case. The company has agreed to pay up to $16.7 billion to 51 US states and territories and make substantive product changes for how teens engage with its platforms.

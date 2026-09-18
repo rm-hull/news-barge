@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T19:00:25Z'
 published: '2026-09-18T00:00:00Z'
 description: The last rare two-headed turtle hatchling in Cape Cod was found in 2021
 image: https://static.independent.co.uk/2026/09/18/16/50/Untitled-design-(12).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Double trouble! A rare two-headed baby turtle has been discovered on Cape Cod.

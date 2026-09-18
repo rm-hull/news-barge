@@ -8,6 +8,8 @@ published: '2026-09-05T00:00:00Z'
 description: Clucky's new alarm app has an option where users are woken up to the
   sound of a rooster. They then complete a mission to turn it off.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Clucky.png?w=1200
+categories:
+- Technology & Software
 ---
 
 I was yelled at by a rooster this morning. And no, I don’t live on a farm. The culprit was a newly launched iPhone app I downloaded.

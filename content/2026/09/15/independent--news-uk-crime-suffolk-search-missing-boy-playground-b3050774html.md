@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T19:41:49Z'
 published: '2026-09-15T00:00:00Z'
 description: Suffolk Police are looking for three-year-old Noah from Brantham
 image: https://static.independent.co.uk/2026/09/15/19/37/noahforwebsite.jpg?trim=0,22,0,22&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A police search is under way to locate a three-year-old boy who went missing in a playground in Brantham.

@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A car burst into flames on the A1(M) near Darlington during the evening
   rush hour.
 image: https://www.thenorthernecho.co.uk/resources/images/21433701.jpg?type=og-image&xType=0&yType=26
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: UGC)*

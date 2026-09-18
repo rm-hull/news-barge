@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Dame Judi Dench has returned with another instalment of her heartfelt
   series, Tea with Judi Dench, reuniting with Sir Ian McKellen.
 image: https://www.yorkpress.co.uk/resources/images/13554787.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Archive)*

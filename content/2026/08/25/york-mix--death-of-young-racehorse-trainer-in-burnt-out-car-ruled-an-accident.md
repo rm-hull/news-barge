@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T16:50:44Z'
 published: '2026-08-25T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/hugh-mulryan-baroda-stud-1.webp
+categories:
+- Local
+- York
+- Automotive
 ---
 
 A young man who was about to start work as an assistant racehorse trainer at a North Yorkshire stables died after his car caught fire.

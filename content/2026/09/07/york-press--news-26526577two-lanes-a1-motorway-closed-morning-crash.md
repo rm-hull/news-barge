@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Lanes one and two of the A1(M) northbound have been closed from junction
   44 for York and Tadcaster to junction 45 for the A659 and Boston Spa.
 image: https://www.yorkpress.co.uk/resources/images/21417604.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 *(Image: Highways England)*

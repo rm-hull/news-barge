@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: A court in Seoul, South Korea, has sentenced Unification Church leader
   Hak Ja Han to two years in prison
 image: https://static.independent.co.uk/2026/08/31/07/South_Korea_Church_Leader_4688_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A South Korean court on Monday sentenced Unification Church leader Hak Ja Han to two years in prison for corruption charges.

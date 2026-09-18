@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: A Yorkshire woman has spent the past 16 weeks protesting outside a TUI
   store over a holiday she describes as the "worst holiday" of her…
 image: https://www.yorkpress.co.uk/resources/images/21429338.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 ## Woman's 16-week protest outside TUI over 'worst holiday' amid compensation offer

@@ -9,6 +9,11 @@ description: Archealogists uncovered a colonial-era hospital and adjacent church
   Lima that treated sick sailors. According to experts, the hospital dates back to
   the 1570s and operated until shortly before 1821.
 image: https://images.euronews.com/articles/stories/09/88/89/67/1200x675_cmsv2_8ec45897-0208-5128-a5b6-5b23b4c8d0cc-9888967.jpg
+categories:
+- Europe
+- News & Politics
+- History
+- Health & Fitness
 ---
 
 ## Archealogists uncovered a colonial-era hospital and adjacent church in Lima that treated sick sailors. According to experts, the hospital dates back to the 1570s and operated until shortly before 1821.

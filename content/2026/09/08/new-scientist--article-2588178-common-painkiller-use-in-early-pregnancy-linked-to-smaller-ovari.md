@@ -10,6 +10,11 @@ description: Taking the painkiller paracetamol (acetaminophen) during pregnancy 
   been linked to smaller ovaries and testes in baby girls and boys, but that doesn't
   mean it directly caused them or affects fertility
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311333246.jpg
+categories:
+- Science
+- Technology & Software
+- Family & Parenting
+- Health & Fitness
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311333246.jpg?w=840)

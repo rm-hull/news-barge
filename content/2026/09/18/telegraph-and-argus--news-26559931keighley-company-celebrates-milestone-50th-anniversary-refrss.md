@@ -8,6 +8,12 @@ scraped_at: '2026-09-18T12:58:56Z'
 published: '2026-09-18T00:00:00Z'
 description: A Bradford district firm celebrates 50 years in business.
 image: https://www.thetelegraphandargus.co.uk/resources/images/2433017.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 A COMPANY is celebrating 50 years of business.

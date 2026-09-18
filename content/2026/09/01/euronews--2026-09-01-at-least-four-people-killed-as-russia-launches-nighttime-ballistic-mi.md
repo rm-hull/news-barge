@@ -9,6 +9,10 @@ description: The barrage is the latest in a series of a daily attacks targeting 
   Ukrainian regions as Kyiv continues to struggle with thwarting certain aerial attacks
   due to shortages in interceptor missiles.
 image: https://images.euronews.com/articles/stories/09/89/63/43/1200x675_cmsv2_9afecc9f-2042-5aa6-b8ca-a70d6539182c-9896343.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## The barrage is the latest in a series of a daily attacks targeting multiple Ukrainian regions as Kyiv continues to struggle with thwarting certain aerial attacks due to shortages in interceptor missiles.

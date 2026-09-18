@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: A stricken barn owl rescued off the North East coast after repeatedly
   falling into the water has become an unlikely crew member aboard a British…
 image: https://www.thenorthernecho.co.uk/resources/images/21351801.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 A stricken barn owl rescued off the North East coast after repeatedly falling into the water has become an unlikely crew member aboard a British Army yacht competing in a gruelling round-Britain race.

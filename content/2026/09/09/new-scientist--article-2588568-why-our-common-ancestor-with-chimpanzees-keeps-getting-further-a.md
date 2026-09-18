@@ -9,6 +9,9 @@ description: The more we learn about chimpanzees, the more they resemble us – 
   the further back in time our shared ancestor seems to be. Columnist Michael Marshall
   explores how both can be true
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311180761.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311180761.jpg?w=840)

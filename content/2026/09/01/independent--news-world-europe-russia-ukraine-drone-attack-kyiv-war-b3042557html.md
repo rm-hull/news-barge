@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Moscow has retaliated against Kyiv’s sustained deep strike campaign on
   Russian infrastructure
 image: https://static.independent.co.uk/2026/09/01/08/2026-09-01T065213Z_481038654_RC22ANAPG4YG_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-REGION.JPG?trim=159,0,159,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Russia bombarded Kyiv with jet-powered drones in a sixth consecutive night of strikes on Monday, killing at least nine people and injuring over a dozen.

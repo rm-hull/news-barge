@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: The resolution stems from an ongoing feud after Hegseth traveled to Kentucky
   earlier this year to campaign against Massie in the Republican primary
 image: https://static.independent.co.uk/2026/09/15/21/2026-09-15T173741Z_918750475_RC251MAG7GDK_RTRMADP_3_IRAN-CRISIS-USA-CONGRESS.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Republican Representative Thomas Massie of Kentucky has filed a resolution to impeach Defense Secretary Pete Hegseth, forcing the House of Representatives to hold a vote on the matter within two days.

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Fresh plans are being developed for a new community of around 3,500 homes
   between York and Selby.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE2YTM4MThlLTVkNDAtNDdmYi1iZTZjLTlhNDM0NWI5M2UxNzozOTg2OTFiZC02MTI4LTRmY2UtOTU0MS0yYmYzYjJhYTU4MjU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 # Heronby: Fresh plans revealed for 3,500 homes between York and Selby

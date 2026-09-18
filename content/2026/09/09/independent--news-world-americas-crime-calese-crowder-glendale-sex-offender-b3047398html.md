@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: A registered sex offender with a history of arrests for allegedly crouching
   behind women and smelling them has been sentenced
 image: https://static.the-independent.com/2026/09/01/13/46/Calese-Crowder.jpeg?trim=110,0,110,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A registered sex offender with a history of arrests for allegedly crouching behind women and smelling them has been sentenced to 170 days in county jail for violating his parole following his latest arrest in Glendale.

@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: We always rate Earfun's affordable earbuds and headphones, and in the
   Labor Day sales, it has one of each worth checking out.
 image: https://cdn.mos.cms.futurecdn.net/iq57Stz7fWEF5jHWqMrjiB-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![On the left, the Earfun Air Pro 4, and on the right, the Earfun Wave Pro.](https://cdn.mos.cms.futurecdn.net/iq57Stz7fWEF5jHWqMrjiB.jpg) 

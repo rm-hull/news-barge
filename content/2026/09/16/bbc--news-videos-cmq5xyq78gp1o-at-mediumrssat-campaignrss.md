@@ -7,6 +7,11 @@ scraped_at: '2026-09-16T19:31:40Z'
 published: '2026-09-16T00:00:00Z'
 description: BBC crew catch thieves in act while filming shoplifting report.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/81f0/live/cf686ec0-b194-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Sports
 ---
 
 # BBC crew catch thieves in act while filming shoplifting report

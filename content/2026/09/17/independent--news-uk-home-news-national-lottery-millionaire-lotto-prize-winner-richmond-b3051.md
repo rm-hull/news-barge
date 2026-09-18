@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: National Lottery operators are urging ticket holders to check their numbers
   before an important deadline passes
 image: https://static.independent.co.uk/2026/09/17/10/44/Screenshot-2026-09-17-at-11-37-45.png?trim=0,3,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A search is underway to trace a mystery lottery player in Richmond-upon-Thames who has won £1 million but is yet to claim their prize.

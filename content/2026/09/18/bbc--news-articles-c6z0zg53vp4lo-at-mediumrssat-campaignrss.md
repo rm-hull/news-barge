@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: A coroner rejects an application for three workers after the media, including
   the BBC, opposed it.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a41/live/85f2f210-8ae5-11ef-8665-81fa07595a0a.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A young girl wearing makeup and big earrings. She is in a green dress.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2a41/live/85f2f210-8ae5-11ef-8665-81fa07595a0a.jpg)

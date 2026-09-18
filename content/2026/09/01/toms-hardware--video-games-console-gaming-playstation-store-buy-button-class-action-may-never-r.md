@@ -9,6 +9,10 @@ scraped_at: '2026-09-01T13:28:52Z'
 published: '2026-09-01T00:00:00Z'
 description: Sony has filed a motion to compel arbitration outside of court.
 image: https://cdn.mos.cms.futurecdn.net/tg95hzQEgMNoJTJZHb5oXU-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![PlayStation 5 Pro](https://cdn.mos.cms.futurecdn.net/tg95hzQEgMNoJTJZHb5oXU.png) 

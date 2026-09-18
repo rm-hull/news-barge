@@ -10,6 +10,10 @@ description: The opening chapter to the New Scientist Book Club's read for Septe
   sees Chanda Prescod-Weinstein explore what we gain when we look at the universe
   from the margins
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI308659683.jpg
+categories:
+- Science
+- Technology & Software
+- Arts & Culture
 ---
 
 ![The Edge of Space-Time cover](https://www.newscientist.com/wp-content/uploads/2026/08/SEI308659683.jpg?w=840)

@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: An e-bike rider in his 30s has been rushed to hospital with serious injuries
   following a crash in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21464363.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: T&A)*

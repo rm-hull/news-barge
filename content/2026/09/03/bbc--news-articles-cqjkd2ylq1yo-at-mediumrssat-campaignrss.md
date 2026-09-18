@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Comparing the brains of male and female flies may transform our understanding
   of how genes shape behaviour, including ours.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c857/live/f3aa7920-a7b9-11f1-b5cf-8556ae508a51.jpg
+categories:
+- UK
+- News & Politics
+- Science
+- Health & Fitness
 ---
 
 ![A detailed, front-facing 3D reconstruction of a male fruit fly’s brain and upper nervous system appears against a black background. It is broadly symmetrical, with two large rounded side lobes resembling enormous eyes and a smaller central section tapering downwards.

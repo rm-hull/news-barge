@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: CAROL VIVIAN’S father, Rick Peart, was a United driver who featured in
   the Echo in the 1970s when he and his conductor, Arthur Sianti, gained a…
 image: https://www.thenorthernecho.co.uk/resources/images/21403350.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 CAROL VIVIAN’S father, Rick Peart, was a United driver who featured in the Echo in the 1970s when he and his conductor, Arthur Sianti, gained a reputation as a vaudeville double act on the buses.

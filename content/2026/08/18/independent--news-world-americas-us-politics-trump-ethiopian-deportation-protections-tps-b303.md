@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: The judge lifted the last judicial block on DHS terminating the Temporary
   Protected Status designation for individual countries
 image: https://static.independent.co.uk/2026/08/18/20/43/GettyImages-2286685291.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Legal protections shielding more than 5,000 Ethiopian immigrants from deportation can now be terminated by U.S. President Donald Trump's administration following a federal court decision on Tuesday.

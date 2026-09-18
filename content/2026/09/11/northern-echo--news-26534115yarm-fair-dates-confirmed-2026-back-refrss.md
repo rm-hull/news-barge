@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Thrill seekers have just weeks to wait until the annual Yarm Fair returns
   - here is when the fair will roll into town.
 image: https://www.thenorthernecho.co.uk/resources/images/20094741.jpg?type=og-image&xType=0&yType=301
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 Thrill seekers have just weeks to wait until the annual Yarm Fair returns to town.

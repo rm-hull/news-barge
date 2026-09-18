@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: TV presenter Steph McGovern has said Middlesbrough has been “woefully
   neglected” for decades.
 image: https://www.thenorthernecho.co.uk/resources/images/21387694.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 TV presenter Steph McGovern has said Middlesbrough has been “woefully neglected” for decades and warned that the problems facing the town go far deeper than policing following a devastating week on Teesside.

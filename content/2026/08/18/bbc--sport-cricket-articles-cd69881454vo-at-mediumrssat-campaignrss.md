@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Joe Root has an unexpected chance to address some unfinished business
   as England captain, but it is one of the biggest challenges of his stellar career.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c83b/live/dbff93c0-9b1e-11f1-a8a4-83462463c9fa.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![England captain Joe Root trains at Headingley](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/c83b/live/dbff93c0-9b1e-11f1-a8a4-83462463c9fa.jpg)

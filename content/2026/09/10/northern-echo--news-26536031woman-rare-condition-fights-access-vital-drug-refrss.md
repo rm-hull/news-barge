@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A woman living with a rare condition that has progressively robbed her
   of her ability to walk says she feels "isolated" as she fights for…
 image: https://www.thenorthernecho.co.uk/resources/images/21431770.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: PROVIDED)*

@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: A petition demanding the suspension of a 100 per cent council tax premium
   on second homes in North Yorkshire will be debated by councillors.
 image: https://www.gazetteherald.co.uk/resources/images/21214750.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- News & Politics
 ---
 
 A petition demanding the suspension of a 100 per cent council tax premium on second homes in North Yorkshire will be debated by councillors.

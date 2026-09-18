@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Sarah Cooper-Lesadd quit Nigel Farage’s party following the resignation
   of Reform UK’s leader in Wales
 image: https://static.independent.co.uk/2026/09/16/14/2264285401..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A member of the Senedd who defected from Reform UK to Plaid Cymru following the resignation of the party’s leader in Wales has said Nigel Farage’s party is “falling apart at the seams”.

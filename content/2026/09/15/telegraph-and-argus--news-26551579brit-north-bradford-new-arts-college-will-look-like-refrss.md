@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: The first images of a planned 500 student performing arts college in
   the heart of Bradford city centre have been revealed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21457251.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: BPI)*

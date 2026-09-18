@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Uber and Wayve are launching a robotaxi service in London on Thursday,
   marking the city's first self-driving taxi service
 image: https://static.independent.co.uk/2026/09/03/05/Britain_Robotaxis_43916.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Automotive
 ---
 
 Uber and British tech company Wayve are launching London's first self-driving taxi service on Thursday, giving residents a chance to use technology that's already available in many U.S. cities and other parts of the world.

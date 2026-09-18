@@ -7,6 +7,11 @@ scraped_at: '2026-09-11T19:09:46Z'
 published: '2026-09-11T00:00:00Z'
 description: “SO WHAT are you going to do when you retire - a spot of gardening?”
 image: https://www.yorkpress.co.uk/resources/images/21427377.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 This article is brought to you by our exclusive subscriber partnership with our sister title USA Today,

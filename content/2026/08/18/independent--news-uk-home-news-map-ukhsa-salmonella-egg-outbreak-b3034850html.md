@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T19:35:52Z'
 published: '2026-08-18T00:00:00Z'
 description: There have been more than 200 cases of salmonella in the past year
 image: https://static.independent.co.uk/2026/08/18/14/38384447e762955e434203dd697c761cY29udGVudHNlYXJjaGFwaSwxNzg3MTQzNjc1-2.32362154.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 One person has died and hundreds have fallen ill with salmonella food poisoning.

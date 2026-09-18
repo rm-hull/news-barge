@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: A North Yorkshire management consultancy has entered into liquidation,
   with debts exceeding £30,000.
 image: https://www.gazetteherald.co.uk/resources/images/21385288.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Street View)*

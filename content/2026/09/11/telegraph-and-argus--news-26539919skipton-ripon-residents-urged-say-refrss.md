@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: A FRESH call has been made for residents to help shape the future of
   transport in their region.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20335544.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Supplied)*

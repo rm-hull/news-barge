@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Like many high schools across the country, Aliquippa football games are
   a cherished tradition, connecting the community's past and present
 image: https://static.independent.co.uk/2026/09/10/14/America_25__Friday_Night_Lights_93911.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The phone calls, all asking the same question, started coming long before the lights at “The Pit” flickered on for the first time this fall.

@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: More streetlights are to be turned off around East Yorkshire as authorities
   look to make motoring more sustainable by reducing energy consumption.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmM1MGNkM2Y4LWIxNmItNDgzMC1iNDY4LThhOWIzYzcwNTAwOTo0NWI5NGYzOS1hMWUzLTQxNDEtOGUzNS1kYTc0M2JjY2I5OWU=.jpg?crop=3:2,smart&trim=&width=489&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 # More streetlights to be turned off on East Riding roads in major sustainability project

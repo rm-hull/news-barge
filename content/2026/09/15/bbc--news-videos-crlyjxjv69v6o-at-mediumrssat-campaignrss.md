@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Celebrities walked a blue version of the traditional red carpet ahead
   of the primetime show honouring the best shows in US television.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb55/live/24bca360-b0a9-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
+- Film & TV
 ---
 
 # Watch: Selena Gomez, Zendaya and other stars light up Emmys red carpet

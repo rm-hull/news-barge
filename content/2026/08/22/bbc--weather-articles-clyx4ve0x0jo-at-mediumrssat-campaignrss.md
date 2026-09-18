@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: There will be a break in the rain this weekend as high pressure returns,
   but more wet weather is in store next week.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/0a88/live/f73f5260-9d76-11f1-a7fd-5fe2fcb0be12.png
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
+- Travel
 ---
 
 ![A woman sits in the sunshine by the seaside reading on her phone with the ocean in the background](https://ichef.bbci.co.uk/ace/standard/920/cpsprodpb/0a88/live/f73f5260-9d76-11f1-a7fd-5fe2fcb0be12.png)

@@ -9,6 +9,12 @@ description: If there is an industry for it, there will be a lobby group represe
   its interests in Brussels, home to the European Union's institutions. But which
   companies or lobby groups splash out the most on seeking to influence EU policy?
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260603__B4UL4WL__v1__MidRes__EuCourtToRuleOnMetaChallengeAgainstGatekeeperDes.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 The biggest spenders on EU lobbying are the digital, banking and energy sectors, according to civil society groups.

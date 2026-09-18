@@ -7,6 +7,11 @@ scraped_at: '2026-09-15T19:40:59Z'
 published: '2026-09-15T00:00:00Z'
 description: Authorities say that the cases appear to be linked
 image: https://static.independent.co.uk/2026/09/15/13/South_Africa_Women_Deaths__6_5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Arts & Culture
 ---
 
 There are fears that a serial killer is at large after the bodies of seven women were found in the same area of a major South African city.

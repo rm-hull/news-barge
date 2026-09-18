@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: Set in Darlington’s West End – on one of the area’s most characterful
   streets – is this spacious property that has been sympathetically…
 image: https://www.thenorthernecho.co.uk/resources/images/21352698.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Set in Darlington’s West End – on one of the area’s most characterful streets – is this spacious property that has been sympathetically renovated by the current owners to an exceptionally high standard to create a beautifully presented home that effortlessly combines timeless period charm with the comforts of modern living.

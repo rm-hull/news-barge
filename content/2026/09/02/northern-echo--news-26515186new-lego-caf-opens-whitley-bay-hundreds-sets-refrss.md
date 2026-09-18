@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A new LEGO café has opened in Whitley Bay, offering hundreds of sets,
   free-play stations, racing ramps, coffee and cakes for all ages.
 image: https://www.thenorthernecho.co.uk/resources/images/21401050.jpg?type=og-image&xType=0&yType=362
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Bricks & Brews Cafe)*

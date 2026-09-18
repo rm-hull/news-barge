@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The Driver and Vehicle Licensing Agency (DLVA) issued an alert to older
   drivers on social media.
 image: https://www.gazetteherald.co.uk/resources/images/18081415.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 *(Image: Getty/dusanpetkovic)*

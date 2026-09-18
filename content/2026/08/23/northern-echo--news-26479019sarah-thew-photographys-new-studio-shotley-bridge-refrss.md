@@ -8,6 +8,13 @@ scraped_at: '2026-08-23T08:44:11Z'
 published: '2026-08-23T00:00:00Z'
 description: Take a look around the new photography studio in County Durham.
 image: https://www.thenorthernecho.co.uk/resources/images/21343578.jpg?type=og-image&xType=0&yType=585
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- Photography & Video
+- Technology & Software
 ---
 
 A new photography studio capturing some of life’s most precious moments has opened its doors in County Durham.

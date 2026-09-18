@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: The tariffs will apply to $20bn worth of American products, jeopardising
   the stability of the world's largest bilateral trading relationship.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4970/live/57d86dc0-ab49-11f1-9191-cd98112fd46c.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Watch: How much can Canada fight back in its trade war with the US?

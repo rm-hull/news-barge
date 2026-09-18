@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: The homeware retailer said it had already cut down its central teams
   by around 8%.
 image: https://static.independent.co.uk/2024/09/11/15/11145143-5cdc1a06-d15f-44dd-9cf9-0f949c786d8c.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Homeware retailer Dunelm has said it plans to strip around £100 million of “unproductive” costs from the business as part of a new three-year growth strategy, after cutting its central teams by around 8%.

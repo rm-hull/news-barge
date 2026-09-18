@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: It's goodbye to Clarkson, May and Hammond and hello to Holland, Engelsman
   and Bourgeois. But when does The Grand Tour season 7 arrive on Prime Video?
 image: https://cdn.mos.cms.futurecdn.net/Epm8dmUSW24ThKbuwnBqKe-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![James Engelsman, Thomas Holland and Frances Bourgeois lean on a blue car](https://cdn.mos.cms.futurecdn.net/Epm8dmUSW24ThKbuwnBqKe.jpg) 

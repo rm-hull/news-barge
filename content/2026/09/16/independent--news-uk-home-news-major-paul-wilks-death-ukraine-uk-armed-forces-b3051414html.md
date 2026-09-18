@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Major Paul Wilks, 40, was killed in a traffic accident away from the
   front lines on Saturday
 image: https://static.independent.co.uk/2026/09/16/17/01M2NJ0NDJXSFSTYPP9BJ1206T.jpg?trim=25,0,234,85&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A 40-year-old intelligence officer has died in a road collision in Ukraine, the Ministry of Defence has confirmed.

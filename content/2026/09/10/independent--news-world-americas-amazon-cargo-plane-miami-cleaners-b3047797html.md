@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Five members of a cleaning crew were wrapping up their shift when they
   were killed as an Amazon cargo jet plowed into their van at the Miami airport
 image: https://static.independent.co.uk/2026/09/08/21/2293572239..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The five plane cleaners who died when an Amazon cargo aircraft collided with their vehicle at Miami airport were completing an eight-hour shift, lawyers for one victim said Wednesday.

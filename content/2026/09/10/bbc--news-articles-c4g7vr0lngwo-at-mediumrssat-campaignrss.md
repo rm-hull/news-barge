@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Mokha's capture would bring the Iran-backed group closer to controlling
   the Bab al-Mandab Strait waterway, a key shipping route.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af67/live/bf0ec050-ad2b-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Screengrab of a video from Houthi-run Al Masirah TV showing an armed man walks next to an armoured vehicle in Mocha, Yemen, after the Houthis reportedly seized the Red Sea port city (10 September 2026)](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/af67/live/bf0ec050-ad2b-11f1-bc1f-3f186ca4140c.jpg)

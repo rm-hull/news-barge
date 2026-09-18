@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: ‘Schools are supposed to be a safe place for young people to learn, yet
   this administration exploits the places we trust most’
 image: https://static.independent.co.uk/2026/09/10/14/2026-09-04T142757Z_1504289711_RC2DCNAH031A_RTRMADP_3_USA-IMMIGRATION-NEW-YORK.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
+- Society & Culture
 ---
 
 Community leaders and public officials have voiced sharp criticism over two recent U.S. Immigration and Customs Enforcement operations conducted near educational institutions, labeling the actions as cruel and exploitative.

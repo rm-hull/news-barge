@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Royal commission recommended First Nations healing centres in 2021 but
   the Indigenous health service says the state has ‘done nothing’ to fund it
 image: https://i.guim.co.uk/img/media/4295801a6253458f4f0ee5f9ca455c1fcf898ed8/664_0_4358_3486/master/4358.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a1dccf5755fd212053384611650a4b6
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Health & Fitness
 ---
 
 On the steps of Victorian parliament stood 121 empty chairs, marking the number of Indigenous lives lost to suicide in the state in the past five years.

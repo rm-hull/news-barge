@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Poppleton Community Railway Nursery is hosting a Heritage Open Day and
   Sale on September 12.
 image: https://www.gazetteherald.co.uk/resources/images/21394777.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 Poppleton Community Railway Nursery is hosting a Heritage Open Day and Sale.

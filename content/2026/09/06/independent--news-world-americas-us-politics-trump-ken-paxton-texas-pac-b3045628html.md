@@ -9,6 +9,10 @@ description: Texas attorney general Ken Paxton is getting serious financial back
   from Donald Trump. But he’s already proven that money can’t buy everything in Texas,
   writes John Bowden
 image: https://static.independent.co.uk/2026/09/06/21/58/Ken-Paxton-Donald-Trump.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Just one week after a Republican senator pleaded with him publicly to turn on the faucet and save Republicans in key races, Donald Trump appears to be listening.

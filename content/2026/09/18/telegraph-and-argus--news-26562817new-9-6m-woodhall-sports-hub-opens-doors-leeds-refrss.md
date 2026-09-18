@@ -7,6 +7,12 @@ scraped_at: '2026-09-18T19:01:16Z'
 published: '2026-09-18T00:00:00Z'
 description: A new multi-million pound sports hub has opened near Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21473602.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

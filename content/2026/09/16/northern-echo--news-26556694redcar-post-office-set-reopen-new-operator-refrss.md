@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: A Post Office branch in Redcar is set to reopen just days after its closure,
   with plans now in place to restore services under a new operator.
 image: https://www.thenorthernecho.co.uk/resources/images/21464668.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: GOOGLE MAPS)*

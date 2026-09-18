@@ -10,6 +10,9 @@ description: She might not be part of Reacher season 4, but Neagley now official
   has her own spinoff. Yet if you remove her and close your eyes, everything feels
   the same.
 image: https://cdn.mos.cms.futurecdn.net/yNFbiXXgP3AhJdVqBgGzYe-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ### TechRadar Verdict

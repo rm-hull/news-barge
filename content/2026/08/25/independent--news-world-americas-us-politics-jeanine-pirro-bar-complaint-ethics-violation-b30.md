@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The complaints state that Pirro and two deputies abused their authority
   to target President Trump's ‘perceived political enemies’
 image: https://static.independent.co.uk/2026/08/18/18/2284370047..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 U.S. Attorney Jeanine Pirro and two deputies have been accused of ethical violations in bar complaints filed Tuesday by a legal watchdog. The filings stem from efforts to bring federal charges against six Democratic lawmakers over a video urging troops to disobey unlawful orders.

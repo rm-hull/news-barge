@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Beto Coral held up banners in Florida warning fellow Colombians to not
   vote for Abelardo de la Espriella
 image: https://i.guim.co.uk/img/media/8f035dc467e7763a29217ce5c9732e32b7b934ba/0_149_1198_958/master/1198.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=08eaaa2618cbedbe8f2d9b22bb4da138
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 In the week before Colombia’s presidential election, Beto Coral, a well-known activist living in the United States, travelled to Florida to persuade fellow Colombians not to vote for the far-right candidate Abelardo de la Espriella.

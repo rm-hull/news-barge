@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: CONCERNS about children experiencing domestic abuse are at record levels,
   according to new figures from the NSPCC.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20655188.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: Stock)*

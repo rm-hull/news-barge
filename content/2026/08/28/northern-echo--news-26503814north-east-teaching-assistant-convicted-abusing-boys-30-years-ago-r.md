@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: A paedophile teaching assistant is paying the price for sexual abuse
   committed more than three decades on three boys.
 image: https://www.thenorthernecho.co.uk/resources/images/21384013.jpg?type=og-image&xType=0&yType=136
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Northumbria Police)*

@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: World Humanoid Robot Games showcased leaps Beijing has made in the tech,
   but also highlighted limitations as US rivals prepare their own launches
 image: https://i.guim.co.uk/img/media/7c7128dc7679d8f7392c821f4bebc8b71431f487/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1466cd29badf3949e2d83bf68c3f362c
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 With exploding pelvises, enough comic pratfalls for a Buster Keaton show reel and the odd moment of ruthless violence, the World Humanoid Robot Games in Beijing gripped the world this week with an unsettling mixture of hilarity, trepidation and relief.

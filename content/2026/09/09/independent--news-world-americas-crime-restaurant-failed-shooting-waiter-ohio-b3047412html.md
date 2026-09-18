@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Matthew Exton, a former lawyer, faces up to 25 years in prison after
   prosecutors said he tried to shoot his ex-wife in an Ohio restaurant
 image: https://static.the-independent.com/2026/09/09/14/17/Screenshot-2026-09-09-at-15-46-45.png?trim=19,0,21,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Wild surveillance footage captured the moment a waiter tackled an armed man as he tried to gun down his ex-wife in a busy Ohio restaurant.

@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Marlon James' novel “The Disappearers,” about the persecution of gay
   men in 1980s Jamaica, is nominated for a National Book Award
 image: https://static.independent.co.uk/2026/09/17/18/Books--National_Book_Awards_71694.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Marlon James' “The Disappearers,” his deeply personal novel about the persecution and perseverance of gay men in Jamaica in the 1980s, is among the nominees on the long lists for the National Book Awards.

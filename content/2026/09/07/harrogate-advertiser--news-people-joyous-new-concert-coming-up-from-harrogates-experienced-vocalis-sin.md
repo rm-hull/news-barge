@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: A long-standing Harrogate mixed-voice choir is preparing for a joyous
   autumn concert.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjlhNmIyYTUxLWRlMmEtNDMzYS05MGY2LWMwNGI1NTRiMzVlMDpjZjZjZTViZC03Njc4LTQxZWQtOTM4Yy01MzFkYzcwZGEzZTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 # 'Joyous' new concert coming up from Harrogate's experienced Vocalis singers

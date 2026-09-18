@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: A new cafe in Bradford has been broken into less than four weeks after
   opening its doors to the public.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21343660.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Wibsey Community Cafe)*

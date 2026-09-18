@@ -9,6 +9,13 @@ published: '2026-08-27T00:00:00Z'
 description: A placement year has helped shape the career ambitions of a future solicitor
   in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21375759.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Education & Learning
+- Careers & Productivity
 ---
 
 A PLACEMENT year has helped shape the career ambitions of a future solicitor.

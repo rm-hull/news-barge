@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: The Simon's Seat and Valley of Desolation trail is one of the best in
   the Yorkshire Dales.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21368442.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: Getty)*

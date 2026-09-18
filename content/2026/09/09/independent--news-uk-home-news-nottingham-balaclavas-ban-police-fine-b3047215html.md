@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Evidence gathered by police identified more than 180 city centre incidents
   involving face coverings or balaclavas
 image: https://static.independent.co.uk/2025/02/23/16/23161249-4d6d08b1-28cb-42f1-84ea-086335eb41dd.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Fresh measures aimed at tackling young people using balaclavas to intimidate members of the public in Nottingham city centre will come into force next week.

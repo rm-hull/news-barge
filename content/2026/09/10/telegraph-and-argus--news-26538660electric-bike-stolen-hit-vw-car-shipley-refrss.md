@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: A man has been seriously injured in a shocking robbery in which an electric
   bike was stolen after it was hit by a car.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21434950.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 A man has been seriously injured in a shocking robbery in which an electric bike was stolen after it was hit by a car.

@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Dolly Parton lived an extraordinary life, with her music reaching millions
   of people around the world
 image: https://www.yorkpress.co.uk/resources/images/21371822.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 ## Dolly Parton's life in pictures over decades-long career after death aged 80

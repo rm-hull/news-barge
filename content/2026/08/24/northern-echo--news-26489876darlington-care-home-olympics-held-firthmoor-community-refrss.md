@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Residents and staff from eight care homes across Darlington came together
   for an afternoon of competition, teamwork and celebration at the town’s…
 image: https://www.thenorthernecho.co.uk/resources/images/21363036.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Stuart Boulton)*

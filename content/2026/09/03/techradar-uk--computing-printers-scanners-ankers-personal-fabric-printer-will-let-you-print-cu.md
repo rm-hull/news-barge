@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: Anker's latest printer, which is being previewed at IFA 2026, lets you
   print your designs on fabric or film.
 image: https://cdn.mos.cms.futurecdn.net/sPhM5MKn7bi5SyfZWWVu3o-1600-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Anker eufyMake fabric printer](https://cdn.mos.cms.futurecdn.net/sPhM5MKn7bi5SyfZWWVu3o.jpg) 

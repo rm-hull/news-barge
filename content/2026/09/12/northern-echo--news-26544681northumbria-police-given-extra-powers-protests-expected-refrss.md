@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: A North East police force have introduced temporary powers in Newcastle
   city centre as part of measures being used during planned protests expected…
 image: https://www.thenorthernecho.co.uk/resources/images/21444997.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: PROVIDED)*

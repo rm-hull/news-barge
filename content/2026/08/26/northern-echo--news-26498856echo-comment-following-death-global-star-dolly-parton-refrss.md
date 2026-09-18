@@ -7,6 +7,11 @@ scraped_at: '2026-08-26T23:24:10Z'
 published: '2026-08-26T00:00:00Z'
 description: 'Please show changes and notes:'
 image: https://www.thenorthernecho.co.uk/resources/images/20881798.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Joe Noble)*

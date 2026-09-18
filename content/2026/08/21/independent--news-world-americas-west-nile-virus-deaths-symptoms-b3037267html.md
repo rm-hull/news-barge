@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: Most people infected with West Nile virus are asymptomatic but roughly
   one in five experience develop flu-like symptoms or worse
 image: https://static.independent.co.uk/2026/08/21/16/23/GettyImages-1234866909.jpg?trim=0,5,0,5&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Americans are being urged to protect themselves from mosquito bites as deaths from the West Nile virus climb nationwide.

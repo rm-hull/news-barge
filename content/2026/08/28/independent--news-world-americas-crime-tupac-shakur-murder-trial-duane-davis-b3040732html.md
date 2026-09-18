@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Jurors are expected to return Monday for closing arguments before beginning
   deliberation
 image: https://static.the-independent.com/2026/08/28/00/2291750370..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Law & Justice
 ---
 
 The murder trial of Duane “Keffe D” Davis over the killing of Tupac Shakur is heading to closing arguments after the defense rested Thursday following testimony from three former Las Vegas police officers.

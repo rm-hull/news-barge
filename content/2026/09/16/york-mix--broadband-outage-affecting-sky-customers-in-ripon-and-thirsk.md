@@ -7,6 +7,11 @@ scraped_at: '2026-09-16T19:31:53Z'
 published: '2026-09-16T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/11/broadband-fibre-optic-cables-internet-istock.webp
+categories:
+- Local
+- York
+- Music
+- Business & Entrepreneurship
 ---
 
 Hundreds of broadband customers in and around Ripon and Thirsk have reported that their service has stopped working.

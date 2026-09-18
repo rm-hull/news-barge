@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: The owners of a popular Bradford district pub have revealed they almost
   walked away from the business before deciding to commit to another six years.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20944237.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest)*

@@ -8,6 +8,8 @@ scraped_at: '2026-08-29T06:59:13Z'
 published: '2026-08-29T00:00:00Z'
 description: Can Google's claims of Garmin and Apple-beating GPS really hold water?
 image: https://cdn.mos.cms.futurecdn.net/AHGDsas7eLKEShqFsjdbhG-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Google Pixel Watch 5 GPS test](https://cdn.mos.cms.futurecdn.net/AHGDsas7eLKEShqFsjdbhG.jpg) 

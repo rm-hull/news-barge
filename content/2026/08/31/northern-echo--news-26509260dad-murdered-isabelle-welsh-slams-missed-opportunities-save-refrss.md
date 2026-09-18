@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: The dad of a two-year-old girl brutally murdered by her mum and new boyfriend
   has blasted the missed opportunities to save his "little…
 image: https://www.thenorthernecho.co.uk/resources/images/21392800.jpg?type=og-image&xType=0&yType=22
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 The dad of a two-year-old girl brutally murdered by her mum and new boyfriend has blasted the missed opportunities to save his "little angel."

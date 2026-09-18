@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Tributes are being paid to York musician Jem Corner-Walker who has died
   aged 72.
 image: https://www.yorkpress.co.uk/resources/images/21407295.jpg?type=og-image
+categories:
+- Local
+- York
+- Music
 ---
 
 ## Tributes to 'legendary' York musician who played with Shed Seven

@@ -9,6 +9,9 @@ description: The average temperature in the UK in June, July and August 2026 has
   the record set in summer 2025, and the record-breaking heat was made 130 times more
   likely by human-caused climate change
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310251909.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310251909.jpg?w=840)

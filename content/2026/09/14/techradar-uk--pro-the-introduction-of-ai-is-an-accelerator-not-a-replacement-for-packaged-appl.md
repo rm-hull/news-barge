@@ -8,6 +8,8 @@ published: '2026-09-14T00:00:00Z'
 description: Oracle says that SaaS and software isn't going anywhere, but AI will
   ultimately change how we interact with it for good.
 image: https://cdn.mos.cms.futurecdn.net/UhpgU7eT2dhfTc52jvyvM-1915-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Oracle](https://cdn.mos.cms.futurecdn.net/UhpgU7eT2dhfTc52jvyvM.jpg) 

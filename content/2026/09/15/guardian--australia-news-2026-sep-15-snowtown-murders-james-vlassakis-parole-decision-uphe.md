@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: James Vlassakis was 18 when he became involved in the Snowtown killings,
   later pleading guilty to four of the 11 murders
 image: https://i.guim.co.uk/img/media/79e0003b12edd614c49863f66ad30c285491c579/103_0_1499_1199/master/1499.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0475b8ec3d22d0f1074ad26085ae0d44
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 The youngest person jailed over the notorious Snowtown killings will walk free after serving a 26-year sentence behind bars.

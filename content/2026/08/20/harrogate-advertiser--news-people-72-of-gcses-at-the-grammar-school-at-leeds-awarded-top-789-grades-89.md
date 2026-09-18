@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Students at The Grammar School at Leeds (GSAL) have achieved excellent
   exam results with students from Harrogate and Wetherby.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjc2ZDhmYTgwLTJlMDUtNGQ4Zi1iNjVmLTU5NjAxMmJkMjg3MDpjNjQ3OGNhYy01YTM5LTRhMWMtYTA4My1kYjgwZjBhM2U1MDQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 # 72% of GCSEs at The Grammar School at Leeds awarded top 7/8/9 grades

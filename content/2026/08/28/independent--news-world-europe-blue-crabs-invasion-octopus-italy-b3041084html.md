@@ -7,6 +7,11 @@ scraped_at: '2026-08-28T22:14:33Z'
 published: '2026-08-28T00:00:00Z'
 description: The crustaceans have caused huge damage to Italy’s fishing industry
 image: https://static.independent.co.uk/2026/08/28/15/2026-08-11T120856Z_472851480_RC27WMAPINC5_RTRMADP_3_GREECE-ANIMALS.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Sports
 ---
 
 An army of octopus have been released in Italian waters to tackle a destructive influx of blue crabs.

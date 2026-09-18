@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Washington launches campaign to isolate Tehran but it is unclear whether
   it will apply measures to China
 image: https://i.guim.co.uk/img/media/0c25779d85551b1f9c981d3adfc0cf7693c858ac/125_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=329eb461663d3e1548a6e56a0592d0ea
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 The US has threatened to impose severe sanctions against any country or entity maintaining economic ties with Iran, hoping to achieve with economic measures what military means have so far failed to do.

@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A former social club in Chapeltown could be turned into housing if planning
   permission can be agreed.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjExMmNhMWIwLWNiNGMtNGQ4NS1hNzAxLTkyMDI1OWY3ODk4ZTplYjI5NmVmNi00ODhiLTQ0YzQtYmNjYS03ZWU3NDRlZTU2YTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Former Leeds social club could be turned into social housing

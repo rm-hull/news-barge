@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Donskoy, whose name was given to a Soviet tank column funded by the church
   in World War Two, was declared a saint in 1988
 image: https://static.independent.co.uk/2026/09/10/12/2026-08-20T114617Z_208909581_RC2B2NA22NF3_RTRMADP_3_RUSSIA-PUTIN-RELICS.JPG?trim=19,0,19,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Russia has sent bone fragments from a legendary Russian prince in a bizarre attempt to boost morale for its soldiers fighting in Putin’s war against Ukraine.

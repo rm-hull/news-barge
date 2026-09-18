@@ -8,6 +8,12 @@ published: '2026-08-23T00:00:00Z'
 description: Parents say misinformation means many families do not realise summer-born
   children can delay school.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da69/live/b2306200-9663-11f1-a654-971f565de941.png
+categories:
+- UK
+- News & Politics
+- Family & Parenting
+- Society & Culture
+- Education & Learning
 ---
 
 ![Maria with two young children sitting in a cafe. Her young daughter Emily is right up to the camera - she has auburn hair and is smiling with her mouth wide-open. A baby girl is sitting on Maria's lap, chewing on a blue toy. Maria has long brown hair and is also smiling to camera.](https://ichef.bbci.co.uk/ace/standard/789/cpsprodpb/da69/live/b2306200-9663-11f1-a654-971f565de941.png)

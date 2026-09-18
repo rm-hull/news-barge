@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: A County Durham great-grandmother who once worked in munitions has celebrated
   her 103rd birthday surrounded by family.
 image: https://www.thenorthernecho.co.uk/resources/images/21428848.jpg?type=og-image&xType=0&yType=890
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 A County Durham great-grandmother who once worked in munitions has celebrated her 103rd birthday with family and care home staff.

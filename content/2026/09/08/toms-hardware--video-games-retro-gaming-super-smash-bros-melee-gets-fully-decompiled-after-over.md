@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Nintendo’s legendary platform fighting game from 2001 is to get a new
   life, and mods, on modern hardware.
 image: https://cdn.mos.cms.futurecdn.net/RzJQVMAATHK7Y42HangAo8-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Super Smash Bros Melee on Amazon](https://cdn.mos.cms.futurecdn.net/RzJQVMAATHK7Y42HangAo8.jpg) 

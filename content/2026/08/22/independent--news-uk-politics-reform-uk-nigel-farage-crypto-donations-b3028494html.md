@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: 'Exclusive: Crypto has become a major source of funding for Nigel Farage’s
   party, accounting for nearly 60 per cent of its total donations since 2024'
 image: https://static.independent.co.uk/2026/08/21/15/11/farage-crypto-indycomp.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 Nigel Farage’s Reform UK has received £20m in donations from cryptocurrency investors since the general election, *The Independent* can reveal.

@@ -9,6 +9,10 @@ description: Investigations are underway at a critical point for the SPD, just t
   days before the election. Steffen Krach the SPD's lead candidate is under investigation
   just ten days out from the elections.
 image: https://www.the-berliner.com/wp-content/uploads/2026/09/imago0866497683h-scaled.jpg
+categories:
+- Berlin
+- Germany
+- News & Politics
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0866497683h-scaled.jpg)

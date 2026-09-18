@@ -8,6 +8,8 @@ published: '2026-09-01T00:00:00Z'
 description: Fable 5.1 includes changes meant to reduce token cost and false-positive
   restrictions from the model's safeguards.
 image: https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024
+categories:
+- Technology & Software
 ---
 
 On Tuesday, Anthropic released Fable and Mythos 5.1, twinned versions of the company’s most advanced AI model. In addition to performance upgrades, the new Fable release includes changes meant to reduce token cost and false-positive restrictions from the model’s safeguards.

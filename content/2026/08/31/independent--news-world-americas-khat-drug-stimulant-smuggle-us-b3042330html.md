@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: About 1,200 pounds of khat were seized at Chicago’s O’Hare International
   Airport earlier this month
 image: https://static.independent.co.uk/2026/08/31/20/13/Khat-seizure.webp?trim=12,0,12,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Thousands of pounds of the drug khat have been smuggled into the U.S. over the past month — but what exactly is it?

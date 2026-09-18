@@ -7,6 +7,9 @@ scraped_at: '2026-09-02T19:23:09Z'
 published: '2026-09-02T00:00:00Z'
 description: Users will be able to access Express, Premiere, and Acrobat in Slack
 image: https://techcrunch.com/wp-content/uploads/2026/09/Adobe-For-Slack_1.jpg?resize=1200,526
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Customers can now use Adobe’s apps like Firefly, Adobe Express, Photoshop, Premiere, Acrobat, InDesign, Illustrator, Stock, Lightroom, and others directly with Slack’s AI chatbot, Slackbot, Adobe announced on Monday. In addition, more than 70 Adobe tools will become available in Slack through the Adobe for Slack MCP app.

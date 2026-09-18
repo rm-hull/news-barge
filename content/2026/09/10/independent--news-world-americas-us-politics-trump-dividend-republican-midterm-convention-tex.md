@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: The president offered few details of the plan but said the money would
   have to be spent in America
 image: https://static.independent.co.uk/2026/09/10/03/2026-09-10T021602Z_144109976_RC21GNAIOPFR_RTRMADP_3_USA-ELECTION-REPUBLICANS.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 President Donald Trump said on Wednesday that his administration would pay a $5,000 “Trump Dividend” to each American adult if voters help Republicans keep their congressional majority through the 2026 midterms.

@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: ’Instadocs’ episode will examine Trump’s use of a decoy plane in July
   that drew criticism from reporters and ex-administration staff
 image: https://static.independent.co.uk/2026/09/02/20/2291893241..?trim=0,117,0,117&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Less than a month after the cloak-and-dagger caper came to light, Netflix is dropping a new documentary on the controversial use of a decoy plane by President Donald Trump on his return from a NATO summit in Turkey earlier this summer.

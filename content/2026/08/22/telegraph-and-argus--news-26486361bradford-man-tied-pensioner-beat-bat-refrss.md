@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: 'A court has heard how a man held a prisoner, tied him up, beat him with
   a baseball bat, and screamed: “Do you want to die tonight?”'
 image: https://www.thetelegraphandargus.co.uk/resources/images/21356971.jpg?type=og-image&xType=0&yType=562
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: West Yorkshire Police)*

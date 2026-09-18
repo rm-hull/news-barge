@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Sunderland City Council plans to install a speed table and speed cushions
   on Tunstall Bank in Sunderland to slow traffic and improve road safety on…
 image: https://www.thenorthernecho.co.uk/resources/images/19414256.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Supplied)*

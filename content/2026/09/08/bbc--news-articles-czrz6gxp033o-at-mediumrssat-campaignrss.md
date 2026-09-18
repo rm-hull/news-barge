@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: During an appearance on Good Morning America, Kevin Reddington also asked
   Trump to pardon Clancy.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e811/live/4fb37d80-aba6-11f1-8e72-a346833ed029.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Lindsay Clancy's lawyer sits in court during trial in Plymouth, Massachusetts](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/e811/live/4fb37d80-aba6-11f1-8e72-a346833ed029.jpg)

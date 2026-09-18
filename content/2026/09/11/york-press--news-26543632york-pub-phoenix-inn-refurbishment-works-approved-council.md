@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Efforts to tackle the decay of a historic York pub have been given the
   go ahead.
 image: https://www.yorkpress.co.uk/resources/images/21442754.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 *(Image: LDRS)*

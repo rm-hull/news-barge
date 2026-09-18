@@ -8,6 +8,8 @@ published: '2026-09-10T00:00:00Z'
 description: AI's next phase will be shaped by the race to secure reliable, dispatchable
   power
 image: https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Big letters AI in pink in front of pink and blue strands of light suggesting a digital explosion](https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL.jpg) 

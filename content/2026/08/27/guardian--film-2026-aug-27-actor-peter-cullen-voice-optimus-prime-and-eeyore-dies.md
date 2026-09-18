@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Montreal-born actor also voiced KARR in Knight Rider and the monster
   in Predator, having started his career on Canadian TV and radio
 image: https://i.guim.co.uk/img/media/846d876b9692193f5955d4017bb7c5b905d84294/0_380_2000_1600/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cabf194ca2e712d549ce83b62b99ff12
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Comedy & Entertainment
 ---
 
 Peter Cullen, the actor behind the voice of characters including Eeyore in Disney’s Winnie the Pooh franchise and Optimus Prime in Transformers, has died aged 85.

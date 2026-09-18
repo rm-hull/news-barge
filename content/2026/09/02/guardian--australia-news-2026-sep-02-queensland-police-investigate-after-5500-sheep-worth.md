@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Police say the sheep were stolen from a property 830km west of Brisbane
   between February and May
 image: https://i.guim.co.uk/img/media/4f9f7e2dc825810e1d330af4ccb1d547ef42577b/271_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a72ea3ffc9cbfce972a49a1877a3a7f
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Queensland police are investigating after about 5,500 Dorper sheep worth more than $1.7m were allegedly stolen from a western Queensland farm.

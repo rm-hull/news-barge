@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: An historic cliff lift dating back to 1875 has been closed with immediate
   effect following safety concerns in the UK seaside town.
 image: https://www.yorkpress.co.uk/resources/images/21356991.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 *(Image: North Yorkshire Council)*

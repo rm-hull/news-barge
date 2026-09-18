@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T04:48:05Z'
 published: '2026-08-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/matt-kaplan-owner-the-cheesecake-guy-shambles-york.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 A York business owner fears that York city centre is “losing its shine” due to an epidemic of anti-social behaviour and a lack of investment.

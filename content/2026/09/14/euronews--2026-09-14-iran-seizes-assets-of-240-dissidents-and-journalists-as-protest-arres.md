@@ -10,6 +10,9 @@ description: The judiciary froze 182 bank accounts and confiscated property belo
   governments". Tehran has executed at least 532 people since January, including 29
   linked to the protests.
 image: https://images.euronews.com/articles/stories/09/91/23/89/1200x675_cmsv2_5ac0de27-de04-52a6-9c52-23b8fe0d8f0a-9912389.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 **Euronews Persian**

@@ -9,6 +9,9 @@ scraped_at: '2026-09-11T12:49:55Z'
 published: '2026-09-11T00:00:00Z'
 description: Plague Inc. could eventually be more than just a game.
 image: https://cdn.mos.cms.futurecdn.net/g4nXrCZY8SaCBTKgyPUXVW-2371-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![adc](https://cdn.mos.cms.futurecdn.net/g4nXrCZY8SaCBTKgyPUXVW.jpg) 

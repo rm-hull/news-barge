@@ -8,6 +8,11 @@ scraped_at: '2026-09-05T15:06:43Z'
 published: '2026-09-05T00:00:00Z'
 description: Time is money.
 image: https://cdn.mos.cms.futurecdn.net/ggFVZb2j8xJMVa7M4dugMW-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
+- Business & Entrepreneurship
 ---
 
 ![Xbox Game Pass](https://cdn.mos.cms.futurecdn.net/ggFVZb2j8xJMVa7M4dugMW.jpg) 

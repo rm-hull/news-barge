@@ -10,6 +10,11 @@ description: It was just another ordinary day for Janet Pepler, but one that wou
   devastating impact of a stroke, only surviving after being in a coma for two months.
   Now, 17 years on, she is inspiring people with a new love of dance.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY0ZjZkMzE2LTVhNGQtNDBjOC05MjA3LWZiYTFlODZkNDM2NjplM2IxZTRmZC1jZjNmLTQ2MjItYjgyZi02MDRlMDllNmJiOTI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # 'Dancing after stroke has given me confidence and helped my recovery' - How Dancing for Health programme is changing lives in Sheffield

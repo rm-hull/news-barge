@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: The short-term measure funds federal agencies generally at current levels
   through Dec. 11
 image: https://static.independent.co.uk/2026/09/01/18/07/GettyImages-2256854731.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Members of the House voted have passed a short-term funding measure to keep the federal government open into early December and prevent a shutdown as lawmakers campaign for reelection.

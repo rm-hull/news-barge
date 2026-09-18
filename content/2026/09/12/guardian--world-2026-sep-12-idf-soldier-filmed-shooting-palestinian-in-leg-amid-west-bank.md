@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Incident is latest to raise questions over Israel’s ability or willingness
   to stop violent settlers in occupied territory
 image: https://i.guim.co.uk/img/media/2da0ddf613ff8da61812abeca85bacc7871e816a/0_619_1264_1009/master/1264.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4ed5f617f3a8a05e02f3207d20a78f6
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 An Israeli soldier shot a Palestinian man, wounding him in the leg, as settlers confronted villagers by grazing livestock on Palestinian-owned land in the town of Faqqua in the occupied West Bank.

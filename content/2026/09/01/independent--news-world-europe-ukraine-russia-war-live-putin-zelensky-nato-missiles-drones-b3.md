@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Kyiv and Moscow exchange attacks overnight as drones downed in Russian
   capital and Leningrad region
 image: https://static.independent.co.uk/2026/09/01/05/download..?trim=20,0,147,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Nato fighter jets were scrambled early on Tuesday as at least four people were killed in a sixth consecutive night of Russian aerial attacks on Ukraine.

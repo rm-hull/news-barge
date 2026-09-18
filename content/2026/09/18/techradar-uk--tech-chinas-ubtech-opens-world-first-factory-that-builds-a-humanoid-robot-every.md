@@ -9,6 +9,8 @@ published: '2026-09-18T00:00:00Z'
 description: UBTech has opened a robot factory wherein autonomous devices can produce
   10,000 units a year.
 image: https://cdn.mos.cms.futurecdn.net/NfLk5th7LGpBP8GHwegwui-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![UBTech Walker S2](https://cdn.mos.cms.futurecdn.net/NfLk5th7LGpBP8GHwegwui.jpg) 

@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Harrogate and Knaresborough MP Tom Gordon has welcomed a nationwide crackdown
   on illegal number plates.
 image: https://mmo.aiircdn.com/409/6a9ebbfbaadedd37c9d.jpg
+categories:
+- Local
+- Harrogate
+- Music
+- News & Politics
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9ebbfbaadedd37c9d.jpg) 

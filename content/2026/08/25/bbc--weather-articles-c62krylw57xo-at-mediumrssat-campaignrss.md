@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: Torrential downpours will affect parts of England and Wales, delivering
   some of the wettest weather in several weeks
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/f669/live/02a8a940-a07d-11f1-bfeb-dfb02ea642ef.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A man holding an umbrella and another man sheltering under a newspaper, walking down a street in the rain, with a city scene in the background](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/f669/live/02a8a940-a07d-11f1-bfeb-dfb02ea642ef.jpg)

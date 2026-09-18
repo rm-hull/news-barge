@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: The visitor levy could raise up to £26m for the region, the new report
   finds.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8e9e/live/8da1dbe0-a86e-11f1-bbad-43eaf67b94b6.jpg
+categories:
+- Local
+- Harrogate
+- Travel
+- Personal Finance & Investing
 ---
 
 ![Painted beach huts in a row in Whitby, North Yorkshire.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/8e9e/live/8da1dbe0-a86e-11f1-bbad-43eaf67b94b6.jpg)

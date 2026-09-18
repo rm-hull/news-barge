@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The fire service says the number of calls has put additional demands
   on the service.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f595/live/c5d79fb0-9d3b-11f1-bc05-aff3aa1f91c7.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![A North Yorkshire fire engine on a road over moorland](https://ichef.bbci.co.uk/ace/standard/636/cpsprodpb/f595/live/c5d79fb0-9d3b-11f1-bc05-aff3aa1f91c7.jpg)

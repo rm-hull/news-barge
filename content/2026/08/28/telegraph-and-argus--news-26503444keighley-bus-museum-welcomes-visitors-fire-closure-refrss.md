@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Fire-hit Keighley Bus Museum has reopened after extensive safety work,
   drawing 3,000 visitors to a special open day.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21383617.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 A year after embers from a major mill fire forced its closure, Keighley Bus Museum welcomed visitors back for an Open Day celebrating its reopening.

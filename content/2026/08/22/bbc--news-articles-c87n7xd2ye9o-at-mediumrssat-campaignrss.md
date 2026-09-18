@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Town pays its respects to a family who died after getting into difficulty
   in the water off West Sussex.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a7ed/live/5d906f30-9e13-11f1-95e0-53a570c83624.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![A vicar with lots of people with heads bowed in a town square daytime](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a7ed/live/5d906f30-9e13-11f1-95e0-53a570c83624.jpg)

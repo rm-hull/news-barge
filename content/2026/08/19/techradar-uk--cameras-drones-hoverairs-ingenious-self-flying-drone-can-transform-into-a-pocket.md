@@ -9,6 +9,8 @@ published: '2026-08-19T00:00:00Z'
 description: HoverAir, makers of the original self-flying drone, launched Versa on
   Indiegogo, and it's set for US availability
 image: https://cdn.mos.cms.futurecdn.net/jdZXcQYHEEE4yVppRyXvHQ-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![HoverAir's Versa 2-in-1 pocket gimbal camera and drone on a sunny day — the two components unattached in user's hands (left) and then together, taking off from person's hand (right)](https://cdn.mos.cms.futurecdn.net/jdZXcQYHEEE4yVppRyXvHQ.jpg) 

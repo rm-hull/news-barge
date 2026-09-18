@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: President Donald Trump condemned the damage to the monument in a social
   media post, writing, ‘First the Reflecting Pool, now this’
 image: https://static.independent.co.uk/2026/08/14/07/2026-08-13T223618Z_391704904_RC2YXMAMSUWJ_RTRMADP_3_USA-MEMORIAL.JPG?trim=2,0,2,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A woman has been indicted on two felony counts after allegedly leaving a message in spray paint on a newly-renovated World War II Memorial in Washington, D.C.

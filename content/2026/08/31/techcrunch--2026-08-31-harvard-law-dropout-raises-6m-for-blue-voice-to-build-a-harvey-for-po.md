@@ -10,6 +10,9 @@ description: Blue Voice is trained on department-specific laws, local ordinances
   protocols, and guidelines that general-purpose AI tools can't access on the public
   internet.
 image: https://techcrunch.com/wp-content/uploads/2026/08/BlueVoice_Founders.png?resize=1200,600
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 David Lawrence was a Harvard Law student when an on-campus shooting involving a police officer sparked intense controversy over police conduct. Realizing that most policing errors occur when officers lack instant access to department rules, Lawrence dropped out to tackle the problem with AI. He teamed up with co-founders Amit Patankar, a Harvard MBA and former Google engineer, and Michael Gropman, a retired Boston police deputy chief, to launch Blue Voice — a Boston-based AI startup that provides real-time policy guidance to officers in the field.

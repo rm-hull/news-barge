@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: The Democratic senator’s comments appear to have struck a nerve at the
   White House
 image: https://static.independent.co.uk/2026/08/17/12/2251020355..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Georgia senator Jon Ossoff has said it is “amazing to watch this White House melt down” over his comments about President Donald Trump’s executive assistant Natalie Harp.

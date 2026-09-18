@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: 'Lewandowski, Trump’s former campaign manager, dismissed the report on
   social media, writing: ‘The whole story is fiction’'
 image: https://static.independent.co.uk/2026/09/08/12/41/GettyImages-2264946338.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Corey Lewandowski tried to cut side deals with foreign governments during his stint as a top aide to then-Homeland Security Secretary Kristi Noem, according to a new report.

@@ -10,6 +10,10 @@ description: The latest data put Italy's wolf population at around 3,500 animals
   is being done and what must be known so farmers, residents and wolves can live side
   by side?
 image: https://images.euronews.com/articles/stories/09/89/23/27/1200x675_cmsv2_40a3518e-2015-536f-aa53-f2aebb45d564-9892327.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 **Euronews Roma**

@@ -9,6 +9,11 @@ published: '2026-09-06T00:00:00Z'
 description: A forgotten rickshaw left to gather dust has found new life as the centrepiece
   of a unique business.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21379662.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Careers & Productivity
 ---
 
 *(Image: T&A)*

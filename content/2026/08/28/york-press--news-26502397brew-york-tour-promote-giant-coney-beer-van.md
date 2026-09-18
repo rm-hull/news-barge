@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: A York brewery is taking its latest creation- Giant Coney- on tour in
   a beer van.
 image: https://www.yorkpress.co.uk/resources/images/21381814.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
+- Food & Cooking
 ---
 
 ## Top York brewery on tour with beer van and new stronger ale

@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: The most precise calculation yet of the electroweak force could help
   fix cracks in the standard model of particle physics
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311889062.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311889062.jpg?w=840)

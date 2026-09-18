@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: BBC South Asia correspondent Azadeh Moshiri spoke to a local, who is
   still waiting for his his wife's body to be retrieved, as rescue efforts continue.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f47/live/b3e56ca0-a6d8-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 # 'Nothing but mud and silt' - the village swept away by deadly floods in Nepal

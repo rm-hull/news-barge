@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Physical gaming media could be on the way out, but the music industry
   has the blueprint for how to bring it back.
 image: https://cdn.mos.cms.futurecdn.net/FTncFxhASVkwef59smUcX4-2560-80.jpg
+categories:
+- Technology & Software
+- Music
+- Science
 ---
 
 ![PlayStation games discount](https://cdn.mos.cms.futurecdn.net/FTncFxhASVkwef59smUcX4.jpg) 

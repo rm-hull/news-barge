@@ -9,6 +9,10 @@ description: Michele Spagnuolo was arrested for alleged insider trading on Polym
   but the Switzerland-based engineer says he was simply gambling—activity that is
   beyond the reach of US commodities law.
 image: https://media.wired.com/photos/6a90604fbb921c55bb13b116/191:100/w_1280,c_limit/GettyImages-2285310885.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Michele Spagnuolo, the Google engineer arrested in May by US authorities for alleged insider trading on Polymarket, is making a new bold bet. On Wednesday, his legal team filed a motion to dismiss the charges against him. Spagnuolo isn’t outright denying that he made money using internal information from Google. Instead, his legal team says that the wagers were not financial instruments subject to regulation by the United States’ Commodities Exchange Act but rather good old-fashioned international betting that the US has no authority over.

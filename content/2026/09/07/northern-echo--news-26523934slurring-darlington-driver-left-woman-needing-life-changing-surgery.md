@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: A Darlington man driving on the wrong side of the road caused a serious
   injury head-on collision which has had life-changing consequences for the…
 image: https://www.thenorthernecho.co.uk/resources/images/21414316.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 A "slurring" driver left a woman needing life-changing surgery after ploughing into her in a head-on smash.

@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Kevin Lynch, a former non-league football manager, was said to have suffered
   serious injuries to his eye
 image: https://static.independent.co.uk/2026/04/07/11/2668b08663711122d8ad581470b0ccf5Y29udGVudHNlYXJjaGFwaSwxNzc1NjQzNjgx-2.82290714.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Former footballer Joey Barton is due to stand trial charged with an assault outside a golf club.

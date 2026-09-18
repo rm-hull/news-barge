@@ -9,6 +9,11 @@ description: The publisher’s departure comes seven months after the Pentagon a
   on social media that it intended to overhaul the newspaper to align with department
   messaging
 image: https://static.independent.co.uk/2026/08/19/22/2290918843..?trim=0,2,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The long-standing publisher of Stars and Stripes has stepped down, concluding a multi-decade career at the military newspaper amid efforts by Defense Secretary Pete Hegseth’s Pentagon to control editorial coverage and eliminate what officials term "woke distractions."

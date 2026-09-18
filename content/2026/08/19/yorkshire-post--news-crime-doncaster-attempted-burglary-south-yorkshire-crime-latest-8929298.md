@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Two masked burglars caught ‘red-handed’ trying to break into a Yorkshire
   home with bolt cutters in the middle of the night have been jailed.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/19/9/06/BURGLARS.jpeg?trim=0,187,0,67&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 # Jailed: Masked burglars caught 'red-handed' with bolt cutters attempting Doncaster break-in

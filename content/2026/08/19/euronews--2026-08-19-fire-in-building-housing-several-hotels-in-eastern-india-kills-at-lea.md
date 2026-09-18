@@ -9,6 +9,10 @@ description: Some of the victims are believed to be Bangladeshi nationals who ha
   travelled to Kolkata for medical treatment, according to a member of West Bengal’s
   ruling party.
 image: https://images.euronews.com/articles/stories/09/88/00/72/1200x675_cmsv2_3c6778a8-8044-5e45-bd91-3b3868343cf8-9880072.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Some of the victims are believed to be Bangladeshi nationals who had travelled to Kolkata for medical treatment, according to a member of West Bengal’s ruling party.

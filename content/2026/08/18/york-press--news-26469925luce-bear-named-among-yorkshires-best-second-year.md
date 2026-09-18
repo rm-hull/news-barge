@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Harrogate sisters Clare and Lucy Bulmer took home the award for Best
   Fashion & Interiors at the 2026 Yorkshire Muddy Stilettos Awards.
 image: https://www.yorkpress.co.uk/resources/images/21328712.jpg?type=og-image&xType=0&yType=31
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: Luce and Bear)*

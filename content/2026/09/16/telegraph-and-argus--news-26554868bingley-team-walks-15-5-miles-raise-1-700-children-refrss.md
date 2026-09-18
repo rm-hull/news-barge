@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A 15.5-mile charity walk has raised more than £1,700 to help children
   facing adversity
 image: https://www.thetelegraphandargus.co.uk/resources/images/21462089.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Self-Improvement
 ---
 
 *(Image: Supplied)*

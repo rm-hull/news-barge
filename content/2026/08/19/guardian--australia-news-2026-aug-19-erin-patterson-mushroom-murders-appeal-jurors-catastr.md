@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Allowing jurors to stay in same hotel as police and prosecution denied
   Patterson a fair trial, lawyers tell Victorian court of appeal
 image: https://i.guim.co.uk/img/media/9a4e67d3924e4b34a60fb41a4b72df4689374a49/0_0_1592_1273/master/1592.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cde403aad9bd35492c0bd9ea197b1544
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Lawyers for Erin Patterson have argued that allowing jurors to stay in the same hotel as police and the prosecution while they deliberated over their verdicts in the triple-murder trial represented a “catastrophic” failure of the justice system.

@@ -9,6 +9,10 @@ description: The agency confirmed it was aware of the IRGC-affiliated broadcast 
   the US president's youngest son, which claimed a $10m bounty and alleged his movements
   were "fully monitored".
 image: https://images.euronews.com/articles/stories/09/88/88/97/1200x675_cmsv2_1eac8521-85c4-5b68-af91-da4f704b48f6-9888897.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 **Euronews Persian**

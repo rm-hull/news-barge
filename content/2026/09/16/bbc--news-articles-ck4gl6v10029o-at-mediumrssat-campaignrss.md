@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: A woman has undergone a lifesaving transplant after receiving a kidney
   from a stranger who saw her post on social media.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/66b0/live/f6d8bbf0-b1fc-11f1-a4a7-291ff3d1006b.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 ![Gary is bald and wears a burgundy and white checked shirt and sit nexts to Karen who has her hair in a ponytail is wearing a camel coloured jumper.](https://ichef.bbci.co.uk/ace/standard/1552/cpsprodpb/66b0/live/f6d8bbf0-b1fc-11f1-a4a7-291ff3d1006b.jpg)

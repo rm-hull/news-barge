@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Erling Haaland and Rayan Cherki both score twice as Manchester City cruise
   to a 4-1 win at Crystal Palace in the Premier League.
 image: https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/82dd/live/aaa45590-a325-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 # Haaland and Cherki fire impressive Man City to victory at Palace

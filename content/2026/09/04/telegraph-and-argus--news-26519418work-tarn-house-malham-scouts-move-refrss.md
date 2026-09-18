@@ -7,6 +7,11 @@ scraped_at: '2026-09-04T04:22:42Z'
 published: '2026-09-04T00:00:00Z'
 description: A listed building is being restored before welcoming its newest residents.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21406825.jpg?type=og-image&xType=0&yType=150
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 ### What is the Public Notice Portal?

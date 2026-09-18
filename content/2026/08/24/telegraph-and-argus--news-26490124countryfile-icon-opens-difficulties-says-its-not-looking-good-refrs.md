@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: A Countryfile icon has opened up on difficulties and has said "it's not
   looking good".
 image: https://www.thetelegraphandargus.co.uk/resources/images/21358867.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: BBC)*

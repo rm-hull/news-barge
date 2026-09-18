@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Arsenal have been busy in the transfer market as they look to defend
   their Premier League title, but do they lack a world class striker still?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fa59/live/179ef150-a646-11f1-8d30-cf6fd28b1367.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Josh Kroenke, Andrea Berta and Mikel Arteta](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/fa59/live/179ef150-a646-11f1-8d30-cf6fd28b1367.jpg)

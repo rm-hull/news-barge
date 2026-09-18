@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: 'It comes amid reported friction between Le Pen and Jordan Bardella,
   the president of the National Rally party. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/15/46/1200x675_cmsv2_e12d9e3c-6394-5da5-9bdc-8d8e0fded83d-9911546.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## It comes amid reported friction between Le Pen and Jordan Bardella, the president of the National Rally party.

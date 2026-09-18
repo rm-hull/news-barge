@@ -10,6 +10,9 @@ description: Answers continue to pour in as New Scientist readers ponder this qu
   with one reader widening it out to consider dragonflies, and another focusing on
   cluster flies
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_299710196.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_299710196.jpg?w=840)

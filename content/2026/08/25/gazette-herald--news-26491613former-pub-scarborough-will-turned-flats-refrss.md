@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A FORMER pub in a popular North Yorkshire resort will be turned into
   residential flats after plans were approved by the council.
 image: https://www.gazetteherald.co.uk/resources/images/17832552.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 A FORMER pub in a popular North Yorkshire resort will be turned into residential flats after plans were approved by the council.

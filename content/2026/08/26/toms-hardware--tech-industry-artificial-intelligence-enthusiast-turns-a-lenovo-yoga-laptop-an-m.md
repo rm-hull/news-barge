@@ -10,6 +10,9 @@ published: '2026-08-26T00:00:00Z'
 description: Predictably, they ended up regretting their life decisions, but it was
   seemingly a fun ride.
 image: https://cdn.mos.cms.futurecdn.net/AnQTdsfDi6CsBxanpSjUtU-1080-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Lenovo Yoga with Radeon 7900 XT](https://cdn.mos.cms.futurecdn.net/AnQTdsfDi6CsBxanpSjUtU.png) 

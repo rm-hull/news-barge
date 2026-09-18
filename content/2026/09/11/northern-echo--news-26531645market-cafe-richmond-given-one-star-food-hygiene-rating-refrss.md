@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Richmond Market Cafe received a one-star food hygiene rating after North
   Yorkshire Council found mould, grease, poor handwashing and missing safety…
 image: https://www.thenorthernecho.co.uk/resources/images/21425028.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: NORTHERN ECHO)*

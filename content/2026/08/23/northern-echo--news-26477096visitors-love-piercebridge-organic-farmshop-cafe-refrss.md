@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: Piercebridge Organic Farmshop and Cafe is based on a 300-acre organic
   farm, which has been run by the same family since 1964.
 image: https://www.thenorthernecho.co.uk/resources/images/21340103.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: TRIPADVISOR)*

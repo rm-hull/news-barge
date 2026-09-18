@@ -8,6 +8,12 @@ published: '2026-08-23T00:00:00Z'
 description: A stretch of road has been made subject to a new 50mph speed limit under
   an amended traffic order introduced by StocktonCouncil.
 image: https://www.thenorthernecho.co.uk/resources/images/19423095.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest)*

@@ -9,6 +9,10 @@ scraped_at: '2026-09-08T12:51:59Z'
 published: '2026-09-08T00:00:00Z'
 description: Compliance is voluntary, but charging on may risk additional bureaucracy.
 image: https://cdn.mos.cms.futurecdn.net/wEpFcAVWHoqM35wKx7VNBd-2048-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Thailand technology](https://cdn.mos.cms.futurecdn.net/wEpFcAVWHoqM35wKx7VNBd.jpg) 

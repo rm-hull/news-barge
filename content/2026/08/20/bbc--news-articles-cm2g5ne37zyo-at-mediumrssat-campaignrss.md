@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Police say the man is accused of failing to disclose information regarding
   terrorist activity.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f8c6/live/d50405a0-9caa-11f1-84cf-fd4cfd9d6c84.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Worshippers console each other after the attack o0n their synagogue while a police officer looks on.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/f8c6/live/d50405a0-9caa-11f1-84cf-fd4cfd9d6c84.jpg)

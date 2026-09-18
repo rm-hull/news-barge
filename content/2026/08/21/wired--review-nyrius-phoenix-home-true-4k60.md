@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: I used the Nyrius Phoenix Home True 4K60 to transmit games, TV shows,
   and movies across my house (yes, even through walls).
 image: https://media.wired.com/photos/6a87a9079888f7ae3cc3820b/191:100/w_1280,c_limit/Review--Nyrius-Phoenix-Home-True-4K60.jpg
+categories:
+- Technology & Software
+- Science
+- Film & TV
 ---
 
 Cable clutter is more than just annoying—it’s been shown to raise stress levels. A famous 2010 study from UCLA found an association between household clutter and elevated cortisol levels. One peek behind my own TV stand raises mine. The Nyrius Phoenix Home True 4K60 is one attempt to solve this problem.

@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: This represents the MAHA movement's first significant pushback against
   fossil fuels
 image: https://static.independent.co.uk/2026/08/21/20/2289399848..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Almost 200 supporters of Health Secretary Robert F. Kennedy Jr.’s "Make America Healthy Again" initiative have voiced opposition to President Donald Trump’s push to use coal energy for artificial intelligence data centers, a Friday letter reveals.

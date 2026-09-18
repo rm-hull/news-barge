@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: Deshundre Vinson, 22, faces first degree-murder and child abuse charges
   after his nephew’s drowning death
 image: https://static.the-independent.com/2026/09/06/13/45/Deshundre-Vinson-090526-4f3fd2e2a5d44b50ab87d1a1161aabde.webp?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Former *America’s Got Talent* contestant Deshundre Vinson has been charged with murder in connection with the drowning death of his 4-year-old nephew, who authorities say was underwater for nine minutes. 

@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A woman has died following an incident which led to the overnight closure
   of a stretch of the M62.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21428157.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Motorway Cameras)*

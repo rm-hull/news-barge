@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Ed Miliband says Britain’s position remains ‘unwavering’ in response
   to remarks by Argentina’s president
 image: https://i.guim.co.uk/img/media/029d93caad33796483515f0d1fa3198bc79e7ee7/281_5_1638_1311/master/1638.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77e93a7109f5785901ac27e5e8ee9410
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 British ministers have hit back after the Argentinian president said “winds of change” favourable to his country’s claim to the Falklands were “blowing around the world”.

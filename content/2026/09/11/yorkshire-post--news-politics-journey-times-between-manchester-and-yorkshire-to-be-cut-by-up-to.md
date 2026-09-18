@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: A £1 billion investment into 29 new battery-electric trains will “bring
   faster, more reliable journeys to the North”, Andy Burnham has said.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/10/15/v2-image-production-575f32eadc59ba96decd93c928868bedY29udGVudHNlYXJjaGFwaSwxNzg5MTM0MjI1-2.85793891.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # Journey times between Manchester and Yorkshire to be cut by up to 15 minutes, says PM

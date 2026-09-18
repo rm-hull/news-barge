@@ -11,6 +11,12 @@ description: Over the past couple of weeks the dye will have been cast for many 
   received their A-Levels and yesterday thousands of children were either celebrating
   or being commiserated following their GCSE results.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmFjMzlhZThkLTY0ZWYtNDc5Yy05YTAxLTgxNGNmODUxYTBkNDo5ZGM0MzUwMC02MTYwLTRkY2ItYTlmMC1iOGUxMGJmYTRlNDc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- News & Politics
 ---
 
 # Why it is vital that ambitious young people are given the opportunity to get on in life - Ismail Mulla

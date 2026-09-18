@@ -10,6 +10,9 @@ description: The Ebola outbreak in Congo has reached 5,000 cases as responders w
   it is spreading at an unprecedented speed outpacing efforts to slow it in one of
   the country’s remotest regions
 image: https://static.independent.co.uk/2026/08/19/09/Congo_Ebola__2329.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Ebola outbreak in Congo has reached 5,000 cases, government data showed Wednesday, as responders warn it is spreading at an unprecedented speed outpacing efforts to slow it in one of the country’s remotest regions.

@@ -9,6 +9,12 @@ description: Two men have been sentenced for their roles in a £266 million mone
   operation centred on a Bradford business and believed by police to be the largest
   investigation of its kind in UK legal history.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI0NjAxZWRlLWQyZWItNGFiZi04YjA1LTM0ZjQwNDdkYzAzMzoyZjUwYjAyMy0wMmMyLTRkMzYtYjQ2MS01ODc2YjdjMDYzODM=.jpg?crop=3:2,smart&trim=&width=575&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 # Two sentenced over £266m Bradford money laundering operation

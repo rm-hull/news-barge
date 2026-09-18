@@ -8,6 +8,12 @@ published: '2026-08-29T00:00:00Z'
 description: Piercebridge offers riverside views, Roman heritage and one of County
   Durham’s best-loved farm shops, making it an ideal family day out this bank…
 image: https://www.thenorthernecho.co.uk/resources/images/21376064.jpg?type=og-image&xType=0&yType=157
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 With the Bank Holiday weekend approaching, many families will be searching for somewhere a little different to spend an afternoon without venturing too far from home.

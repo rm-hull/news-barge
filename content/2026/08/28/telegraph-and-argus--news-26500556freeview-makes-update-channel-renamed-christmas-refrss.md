@@ -9,6 +9,12 @@ published: '2026-08-28T00:00:00Z'
 description: The Freeview update, which took effect on August 26, sees the rebranding
   of a popular channel ahead of the festive season.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21377186.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
+- Technology & Software
 ---
 
 *(Image: Getty Images/iStockphoto)*

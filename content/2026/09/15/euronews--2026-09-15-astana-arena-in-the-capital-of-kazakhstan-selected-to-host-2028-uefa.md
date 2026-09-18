@@ -10,6 +10,10 @@ description: The prestigious match, UEFA Super Cup, will take place at the Johan
   in Astana, Kazakhstan, in 2028. Kazakhstan has obtained the chance to host such
   a major match, marking a historic first for the country.
 image: https://images.euronews.com/articles/stories/09/91/56/90/1200x675_cmsv2_d5ebd36a-abae-5732-85f2-8c3df0d0efbe-9915690.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## The prestigious match, UEFA Super Cup, will take place at the Johan Cruyff Arena in Amsterdam, Netherlands, in 2027, before passing the baton to Astana Arena in Astana, Kazakhstan, in 2028. Kazakhstan has obtained the chance to host such a major match, marking a historic first for the country.

@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Urban Wild Youth Group has been named Best Community Project at the York
   Community Pride Awards.
 image: https://www.gazetteherald.co.uk/resources/images/21442589.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 AN outdoor youth group which helps build confidence, teamwork and a sense of belonging to children from diverse backgrounds has been awarded a York Community Pride Award.

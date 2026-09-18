@@ -7,6 +7,9 @@ scraped_at: '2026-08-29T06:59:30Z'
 published: '2026-08-28T00:00:00Z'
 description: Are XREAL's smart glasses the way of the future for home entertainment?
 image: https://techcrunch.com/wp-content/uploads/2026/08/P1110099.jpg?resize=1200,901
+categories:
+- Film & TV
+- Technology & Software
 ---
 
 I am nothing if not a huge movie buff. I watch way too many of them, and I’m always on the hunt for a new format in which to experience them. So when XREAL, the smart glasses company, sent me an a01 — one of its newer models, which it released in May of this year — I was eager to give them a spin as the newest vector by which to satisfy my media fanaticism.

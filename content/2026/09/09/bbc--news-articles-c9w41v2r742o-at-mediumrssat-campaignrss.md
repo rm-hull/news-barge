@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: Four victims describe being targeted by criminals and then not being
   taken seriously by the authorities.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc94/live/3b4b2720-aacb-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 ‘We were raped and exploited by a drug gang as teenagers’

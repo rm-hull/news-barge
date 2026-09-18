@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: For many young people making a will may not seem necessary, but here's
   why you shouldn't put it off.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/217a/live/df5f29c0-964d-11f1-a4de-8772188b26f6.jpg
+categories:
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 ![A close up image of Erin Atkinson wearing a cream jumper and holding a mug. She appears to be sitting in a public space with a car park seen out the window behind her.](https://ichef.bbci.co.uk/ace/standard/767/cpsprodpb/217a/live/df5f29c0-964d-11f1-a4de-8772188b26f6.jpg)

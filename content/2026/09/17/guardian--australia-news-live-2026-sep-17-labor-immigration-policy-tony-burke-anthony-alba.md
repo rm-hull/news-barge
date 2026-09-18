@@ -8,6 +8,9 @@ scraped_at: '2026-09-17T04:45:30Z'
 published: '2026-09-17T00:00:00Z'
 description: Follow the day’s news live
 image: https://i.guim.co.uk/img/media/5858ac2b433f6a5cf2328f58afd72c572ec5d6bd/562_0_5618_4495/master/5618.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e7cc68702c8c330befe45ab6623f1135
+categories:
+- UK
+- News & Politics
 ---
 
 Australian politics live: Burke warns cutting migration too much would ‘trash economy’ and hoses down accusations of tension with Albanese and Chalmers

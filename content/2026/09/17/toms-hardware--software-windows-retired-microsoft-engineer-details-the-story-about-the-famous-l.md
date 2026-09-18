@@ -8,6 +8,9 @@ scraped_at: '2026-09-17T13:24:34Z'
 published: '2026-09-17T00:00:00Z'
 description: Next. Next. Click. FCKGW-RHQQ2-YXRKT-8TG6W-2B7Q8. Enter.
 image: https://cdn.mos.cms.futurecdn.net/H4E9BVRtDNfdDadU857N8-1008-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Windows XP CD](https://cdn.mos.cms.futurecdn.net/H4E9BVRtDNfdDadU857N8.png) 

@@ -9,6 +9,10 @@ description: Video. Hundreds of UK flights are delayed or cancelled after a nati
   air traffic control system failure, with Heathrow and other major airports heavily
   disrupted.
 image: https://images.euronews.com/articles/stories/09/90/73/13/1200x675_cmsv2_49d05e9e-d2c7-5f7c-b374-e58bda82dddb-9907313.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 Passengers rest on the floor and queue at Heathrow Airport as flight disruptions continue following a technical issue with the UK's air traffic control system. Departure boards show delays and cancellations while aircraft remain on the tarmac.

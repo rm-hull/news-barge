@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: Runners taking part in the Middlesbrough 10K paid an emotional tribute
   to two Cleveland Police officers killed in the devastating A66 crash.
 image: https://www.thenorthernecho.co.uk/resources/images/21389252.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 Runners taking part in the Middlesbrough 10K paid an emotional tribute to two Cleveland Police officers killed in the devastating A66 crash.

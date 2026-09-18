@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: The Chicago rapper was arrested in 2024 and accused of involvement in
   a shooting that killed the cousin of rival rapper Quando Rondo.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/42bf/live/4e811660-ae77-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Music
+- Technology & Software
 ---
 
 ![Lil Durk wearing sunglasses and a multi-coloured suit, and holding up the gold gramophone-shaped Grammy Award](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/42bf/live/4e811660-ae77-11f1-b1d1-571ed4d7ff2c.jpg)

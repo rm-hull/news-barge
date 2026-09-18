@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: As Reform slip back in the polls, Labour and the Conservatives rediscover
   a familiar political divide, writes Laura Kuenssberg
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4492/live/4a744950-adca-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Laura Kuenssberg](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/07b8/live/19ee98c0-adbc-11f1-a540-61c3f7fc4e6c.png)

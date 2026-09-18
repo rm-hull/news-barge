@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: YORKSHIRE Water has issued a fresh safety warning to visitors at reservoirs
   this Bank Holiday.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19872984.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: Yorkshire Water)*

@@ -8,6 +8,9 @@ scraped_at: '2026-08-26T13:12:28Z'
 published: '2026-08-26T00:00:00Z'
 description: Saving you up to 20% on top wearable tech.
 image: https://cdn.mos.cms.futurecdn.net/uNHgBTcxd4wK76z5PTyZMo-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Samsung Galaxy Watch8 in black](https://cdn.mos.cms.futurecdn.net/uNHgBTcxd4wK76z5PTyZMo.jpg) 

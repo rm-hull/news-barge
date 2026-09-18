@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: According to officials, authorities are responding to a shooting in Minneapolis
   with multiple victims, including two police officers
 image: https://static.independent.co.uk/2026/09/03/00/Minneapolis_Shooting_58532.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- True Crime
 ---
 
 Authorities were responding to a shooting in downtown Minneapolis on Wednesday afternoon with multiple victims, including two police officers, according to officials.

@@ -7,6 +7,11 @@ scraped_at: '2026-09-03T04:15:40Z'
 published: '2026-09-03T00:00:00Z'
 description: This column is written by Bradford East MP Imran Hussain
 image: https://www.thetelegraphandargus.co.uk/resources/images/21325263.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 **This column is written by Bradford East MP Imran Hussain**

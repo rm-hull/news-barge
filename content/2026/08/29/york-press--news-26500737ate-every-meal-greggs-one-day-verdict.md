@@ -7,6 +7,10 @@ scraped_at: '2026-08-29T07:00:07Z'
 published: '2026-08-29T00:00:00Z'
 description: Our reporter ate every meal at Greggs for one day – here's her verdict
 image: https://www.yorkpress.co.uk/resources/images/21379145.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 ## I ate breakfast, lunch, and tea at Greggs and one item stole the show

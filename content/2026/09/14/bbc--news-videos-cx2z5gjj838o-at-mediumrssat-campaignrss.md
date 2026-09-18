@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: No casualties were reported after a Russian drone struck a train shortly
   after Boris Johnson and top European officials left the area.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/29e5/live/9a18ba50-afd6-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 # Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation

@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Alessandro Rapinese denies he is waging personal vendetta against cyclists
   amid a public backlash
 image: https://i.guim.co.uk/img/media/34b84e0b8f6ed7a9779f5d12ca3f108e701b87f4/0_1898_3952_3159/master/3952.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd1e6288e8e9bdc1ef944525ed77e4c2
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 The mayor of Como has set the wheels of controversy in motion for banning bikes in the walled historical centre of the lakeside city after being hit by one.

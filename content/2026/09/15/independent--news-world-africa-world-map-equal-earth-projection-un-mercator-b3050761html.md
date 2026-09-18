@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The Equal Earth projection was developed by cartographers and is a popular
   choice among map-makers since it was unveiled in 2018
 image: https://static.independent.co.uk/2026/09/15/18/05/AP26247820897500.jpg?trim=11,0,12,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Science
 ---
 
 The UN has passed a non-binding resolution to endorse the Equal Earth Projection, a map which more fairly represents the true size of the Earth’s landmasses.

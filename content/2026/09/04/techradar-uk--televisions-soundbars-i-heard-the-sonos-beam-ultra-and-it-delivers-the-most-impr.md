@@ -8,6 +8,9 @@ scraped_at: '2026-09-04T18:58:32Z'
 published: '2026-09-04T00:00:00Z'
 description: Phenomenal sonic power… itty bitty living space
 image: https://cdn.mos.cms.futurecdn.net/PrUApkV6FpbonbmaehLSEE-2560-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ![The Sonos Beam Ultra on a wooden table](https://cdn.mos.cms.futurecdn.net/PrUApkV6FpbonbmaehLSEE.jpg) 

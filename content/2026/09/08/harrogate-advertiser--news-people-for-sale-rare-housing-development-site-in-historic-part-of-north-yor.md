@@ -9,6 +9,10 @@ description: A rare development site with consent for nine homes is for sale in 
   village near a historic North Yorkshire market town which is mentioned in the Domesday
   Book.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjVjYTNkMzExLWE3OTItNDJkNy1iODQzLWMxNTQ3YmQ5OWM5YTo0NzA2MGViZi0yMzU3LTRhMjUtOGMwMC0wNTQ1NmI5OGFhYmU=.jpg?crop=3:2,smart&trim=&width=927&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- History
 ---
 
 # For sale: Rare housing development site in historic part of North Yorkshire

@@ -8,6 +8,12 @@ scraped_at: '2026-09-10T12:54:42Z'
 published: '2026-09-10T00:00:00Z'
 description: Everything you need to know before this weekend’s Great North Run.
 image: https://www.thenorthernecho.co.uk/resources/images/21432082.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- Sports
 ---
 
 *(Image: SARAH CALDECOTT)*

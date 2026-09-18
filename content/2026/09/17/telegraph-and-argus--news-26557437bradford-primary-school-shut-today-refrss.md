@@ -8,6 +8,12 @@ scraped_at: '2026-09-17T13:23:28Z'
 published: '2026-09-17T00:00:00Z'
 description: A Bradford school has been forced to close for the day.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21465917.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
+- Society & Culture
 ---
 
 *(Image: Google Maps)*

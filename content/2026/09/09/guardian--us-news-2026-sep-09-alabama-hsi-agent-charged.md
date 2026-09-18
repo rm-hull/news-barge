@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Kent Blacklidge, who officials say was ‘directly involved with child
   exploitation cases’, turned himself in last week
 image: https://i.guim.co.uk/img/media/ed93a4c0f89a793e8a4eeb5351c7bd76a62555c5/298_0_2981_2384/master/2981.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=050b113606ced217dd00c1fe39ac8b33
+categories:
+- UK
+- News & Politics
 ---
 
 A federal law enforcement agent tasked with “trying to provide justice in cases involving kids” has been charged with child rape in Alabama, state authorities said on Tuesday.

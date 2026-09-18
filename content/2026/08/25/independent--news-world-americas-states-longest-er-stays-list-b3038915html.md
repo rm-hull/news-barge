@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A fifth of patients spend more time waiting in the ER than health professionals
   recommend for the level of care they require
 image: https://static.independent.co.uk/2025/10/24/13/f087be42836a93f2ed5f22f1303c7215Y29udGVudHNlYXJjaGFwaSwxNzYxMzk1OTM5-2.20672608.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 Americans spend more than two and a half hours in hospital emergency departments on average — but some leave without ever being treated, new data has revealed.

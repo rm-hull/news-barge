@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: Defence minister says he believes US backing could tip regional balance
   in favour of forced resettlement
 image: https://i.guim.co.uk/img/media/5ec998c888a8a6bec0d1104ed58360c7de79644d/577_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1d1a3f1dd93ec3f872639218dead39e0
+categories:
+- UK
+- News & Politics
 ---
 
 Israel’s defence minister has said his country is seeking Donald Trump’s support to approve plans to expel Palestinians from the Gaza Strip in what has widely been condemned as a potential war crime.

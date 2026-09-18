@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: The Office for Product Safety and Standards (OPSS) warned that phthalates
   can harm the health of children, and could possibly damage reproductive…
 image: https://www.thetelegraphandargus.co.uk/resources/images/20225984.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Chris Radburn/PA Wire)*

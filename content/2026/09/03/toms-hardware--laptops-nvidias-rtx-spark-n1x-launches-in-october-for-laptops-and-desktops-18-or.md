@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: 18 or 20 CPU cores, paired with 5,120 or 6,144 CUDA cores, up to 128GB
   of unified memory
 image: https://cdn.mos.cms.futurecdn.net/27F7rHXqesaDdqqdqyxZpG-1999-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Nvidia RTX Spark N1X](https://cdn.mos.cms.futurecdn.net/27F7rHXqesaDdqqdqyxZpG.jpg) 

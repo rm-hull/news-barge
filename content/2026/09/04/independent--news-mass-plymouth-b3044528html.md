@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: A deadlocked jury is scheduled to return for a seventh day of deliberations
   in the Lindsay Clancy murder trial
 image: https://static.independent.co.uk/2026/09/04/05/Lindsay_Clancy_Trial_8_663.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A deadlocked jury returns Friday for the seventh day of deliberations in the Lindsay Clancy trial, a day after the jury's foreperson told the judge a single juror won’t follow the court’s instructions about reasonable doubt.

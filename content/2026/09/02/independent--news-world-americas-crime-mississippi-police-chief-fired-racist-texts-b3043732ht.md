@@ -9,6 +9,9 @@ description: Fired Chief Harold Vanderford routinely used racist language in tex
   messages, including writing that he hoped his neighbors heard him shouting slurs
   at home
 image: https://static.the-independent.com/2026/09/02/19/39/Police-Chief-Harold-Vanderford.webp?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Board of Aldermen in Senatobia, Mississippi, voted unanimously Tuesday night to fire Police Chief Harold “Hal” Vanderford, rejecting a resignation letter he had submitted earlier in the day.

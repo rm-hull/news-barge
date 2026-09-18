@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Seven-year-old Rose Durant is set to take on the Mini Great North Run
   to raise funds for the cystic fibrosis team at James Cook University Hospital.
 image: https://www.thenorthernecho.co.uk/resources/images/21428477.jpg?type=og-image&xType=0&yType=19
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Supplied)*

@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Israeli settlers, some carrying rifles, sang, danced and carried Torah
   scrolls as they inaugurated a synagogue at the newly revived settlement of Homesh.
 image: https://static.independent.co.uk/2026/09/17/14/Israel_Palestinians_7_854.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Home, Garden & DIY
 ---
 
 Israeli settlers, some carrying rifles, sang, danced and carried Torah scrolls as they inaugurated a synagogue at the newly revived settlement of Homesh.

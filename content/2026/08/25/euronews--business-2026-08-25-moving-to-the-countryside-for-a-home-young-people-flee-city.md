@@ -9,6 +9,12 @@ description: 13% of would-be homebuyers plan to move to towns under 10,000 resid
   Often single 35-year-olds on average incomes, they see depopulated Spain as their
   only escape from a housing market that has shut them out.
 image: https://images.euronews.com/articles/stories/09/88/00/88/1200x675_cmsv2_0683e42e-53e7-5409-813a-5473802cf75c-9880088.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Real Estate
+- Society & Culture
 ---
 
 ## 13% of would-be homebuyers plan to move to towns under 10,000 residents. Often single 35-year-olds on average incomes, they see depopulated Spain as their only escape from a housing market that has shut them out.

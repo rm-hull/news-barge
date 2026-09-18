@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: Upgrade your smartphone for less with the latest Motorola promo codes,
   free shipping offers, and exclusive seasonal discounts.
 image: https://media.wired.com/photos/67b63b9a4816461befb48207/191:100/w_1280,c_limit/WIRED-Coupons-R2_12.png
+categories:
+- Technology & Software
+- Science
 ---
 
 If the name Motorola isn’t already in your smartphone lexicon, then you’ve been missing out on terrific Android devices from one of the most legendary tech brands. In fact, it practically invented the industry, having unveiled the world’s first cell phone in the 1970s (respect!). From ethe DynaTAC in the 1980s, to the StarTAC of the nineties, and the Razr in the early aughts, Motorola’s phones have been the epitome of what’s cutting-edge and fashionable. And let’s not forget that iconic “Hello, Moto” jingle. More than 50 years later, Motorola (now part of Lenovo) is still producing some of the best phones you can buy, including top-quality budget models to sleek, premium foldables. Heck, we even have a whole buying guide dedicated to Motorola phones.

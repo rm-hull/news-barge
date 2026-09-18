@@ -8,6 +8,9 @@ published: '2026-09-07T00:00:00Z'
 description: Atefeh Ramezanisadeh and Fatemeh Pasandideh claimed asylum in Australia
   following the national anthem protest at the Women’s Asian Cup
 image: https://static.independent.co.uk/2026/09/07/10/2264339143..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Two members of the Iranian women’s football team who claimed asylum in Australia have confirmed that their refusal to sing the national anthem during the Women’s Asian Cup in March was a protest against Tehran.

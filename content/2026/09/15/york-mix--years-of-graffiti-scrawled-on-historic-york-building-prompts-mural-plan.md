@@ -7,6 +7,11 @@ scraped_at: '2026-09-15T04:46:23Z'
 published: '2026-09-15T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/54-monkgate-york-graffiti-mural-plan-3.webp
+categories:
+- Local
+- York
+- Arts & Culture
+- History
 ---
 
 Plans to tackle graffiti which has been scrawled on the side of an historic York building for years have been lodged.

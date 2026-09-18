@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: The family of a Durham pensioner are still waiting for a decision on
   a claim for up to £7,200 in care-home fees, four years after her death.
 image: https://www.thenorthernecho.co.uk/resources/images/21443742.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 The family of a County Durham pensioner are still waiting for a decision on a claim for up to £7,200 in care-home fees, four years after her death.

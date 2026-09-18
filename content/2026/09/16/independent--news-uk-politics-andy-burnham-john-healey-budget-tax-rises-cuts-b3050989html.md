@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: The government’s £23bn fiscal headroom, which acts as a buffer against
   economic shocks, is thought to have fallen to around £5bn
 image: https://static.independent.co.uk/2026/09/14/15/d2e8cf7cbb01ea1264861e34cad0e25bY29udGVudHNlYXJjaGFwaSwxNzg5NDc5MzIy-2.85730188.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Andy Burnham will need to find as much as £10bn in tax rises or spending cuts in his first budget as the impact of the war in Iran bites on Britain’s economy, it is claimed.

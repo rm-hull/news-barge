@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Plans for a 3G football pitch at a Huddersfield College are forging ahead,
   despite initial fears of “light pollution”.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjFlN2I5YWZjLWJiNWEtNDQzYS04NDA3LWYxMmRhNzI2ZTliNDplOTg2MWQyYy1jNGQwLTQ5MDQtYjIyYy1iYmVmMWZjZjNlNmY=.png?crop=3:2,smart&trim=&width=1021&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Huddersfield colleges' push for 3G football pitch as final plans submitted

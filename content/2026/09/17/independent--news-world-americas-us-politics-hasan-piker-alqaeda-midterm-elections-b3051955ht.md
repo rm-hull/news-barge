@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: Ahead of November’s elections, Republicans have sought to portray Piker
   as emblematic of the ‘radical left’
 image: https://static.independent.co.uk/2026/09/17/13/16/Screenshot-2026-09-17-at-9-51-34-AM.png?trim=0,482,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Far-left streamer Hasan Piker said the United States is “pound for pound” worse than al-Qaeda, the Islamist terrorist network that carried out the 9/11 attacks.

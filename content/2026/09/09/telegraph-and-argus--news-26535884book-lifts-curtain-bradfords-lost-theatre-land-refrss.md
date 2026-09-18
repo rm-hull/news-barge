@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: FOR a post-war generation of Bradfordians, a night at the theatre was
   woven into the fabric of local life.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21431081.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 FOR a post-war generation of Bradfordians, a night at the theatre was woven into the fabric of local life. Long before television had found its way into every household, people could see a different show each week, performed by a cast of regular players – from comedy and thrillers to farces and North Country family dramas. It was called Rep – short for repertory – and the Prince’s Theatre on Little Horton Lane could boast one of the most successful companies in a nationwide network run by a larger-than-life impresario named Harry Hanson. They were called the Court Players.

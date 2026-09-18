@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: Local media and an Associated Press witness say heavy gunfire and explosions
   were heard overnight into Saturday morning in Niger’s capital of Niamey
 image: https://static.independent.co.uk/2026/08/29/11/Niger_Gunfire_39478.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Heavy gunfire and explosions were heard overnight into Saturday morning in Niger’s capital of Niamey, including near the main airport and in an area housing the presidential palace, according to an Associated Press witness and local media.

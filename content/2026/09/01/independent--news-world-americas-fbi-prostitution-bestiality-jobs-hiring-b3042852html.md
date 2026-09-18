@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Applicants who paid for sex fewer than three times in the last decade
   will not be automatically ruled out of FBI employment
 image: https://static.independent.co.uk/2026/08/25/16/download.-1.?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 FBI Director Kash Patel has made it easier for people who've previously engaged in prostitution or bestiality to join the bureau's ranks - a change that one former agent called "beyond disturbing."

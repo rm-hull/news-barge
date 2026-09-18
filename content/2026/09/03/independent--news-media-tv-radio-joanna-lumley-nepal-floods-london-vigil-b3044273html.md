@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Dame Joanna, who has visited Nepal on numerous occasions and has strong
   ties with the Gurkha community, attended a vigil for the victims in London
 image: https://static.independent.co.uk/2026/09/03/16/01M1KH83585P43FDB9DQG8TRT5.jpg?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Dame Joanna Lumley has described the flash flood in Nepal as "heartbreaking", suggesting the disaster "could have maybe been predicted" as she attended a vigil for those affected.

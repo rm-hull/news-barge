@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A police cordon remains in place at an ASDA petrol station in Bradford
   more than two days after a man was found dead.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21342106.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 A POLICE cordon remains in place at an ASDA petrol station in Bradford more than two days after a man was found dead.

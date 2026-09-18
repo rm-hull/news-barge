@@ -10,6 +10,11 @@ description: Manchester is the Barcelona of the North. That's it. I've said it. 
   and half the commentary since has been about ‘Manchesterism’ arriving in Downing
   Street.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmYwZTdkYTMxLWE2YWUtNDg3OC04M2VkLWIzN2VmYjRhNWJlNzo3Y2NkMWE5Mi0xOWIxLTQ3OTctYmQ3OS0wMWY5ZjI4NTQ5ZmQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # How Leeds can be to Manchester what Seville is to Barcelona - Brett Jacob

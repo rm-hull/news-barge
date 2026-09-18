@@ -9,6 +9,11 @@ scraped_at: '2026-09-14T15:00:33Z'
 published: '2026-09-14T00:00:00Z'
 description: Company records $28.24 billion profit in Q3 2026 alone
 image: https://cdn.mos.cms.futurecdn.net/BYt67avi3sTtpfCohBmJhh-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Micron Building](https://cdn.mos.cms.futurecdn.net/BYt67avi3sTtpfCohBmJhh.jpg) 

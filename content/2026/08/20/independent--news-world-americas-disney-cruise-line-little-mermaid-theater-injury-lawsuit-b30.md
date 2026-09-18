@@ -10,6 +10,11 @@ description: Florida resident Cynthia Manning was trying to find her seat before
   at-sea ‘Broadway-style’ show when she was disoriented by what she claims were ‘excessively
   bright’ stage lights pointed directly into the crowd
 image: https://static.independent.co.uk/2026/08/20/18/44/GettyImages-1353667840.jpeg?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Society & Culture
 ---
 
 A passenger on a Disney cruise to the Bahamas is suing after she fell down a flight of stairs in the shipboard theater when a member of the production crew allegedly shined an “excessively bright” light into her eyes and thoroughly disoriented her, according to a federal lawsuit reviewed by *The Independent*.

@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: “Irresponsible” cliff jumpers plunged 62ft off a County Durham waterfall
   in what police say could have “easily have ended in tragedy”.
 image: https://www.thenorthernecho.co.uk/resources/images/21332107.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: FACEBOOK)*

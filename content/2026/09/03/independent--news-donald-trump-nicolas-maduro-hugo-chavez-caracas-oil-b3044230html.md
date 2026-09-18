@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: Many Venezuelans see the deal giving the United States control of roughly
   one-fifth of their country's oil reserves as a surrender
 image: https://static.independent.co.uk/2026/09/03/15/APTOPIX_Venezuela_US_Oil_81639.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Nothing has shaped what it means to be Venezuelan today more than oil.

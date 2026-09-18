@@ -10,6 +10,10 @@ description: A legal environmental group is suing the U.S. government after the 
   administration announced plans to auction off massive sections of water surrounding
   American Samoa for potential deep-sea mining
 image: https://static.independent.co.uk/2026/08/18/22/American_Samoa_Deep_Sea_Mining_87154.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A legal environmental group sued the U.S. government on Tuesday, a month after the Trump administration announced plans to auction off massive sections of water surrounding American Samoa for potential deep-sea mining.

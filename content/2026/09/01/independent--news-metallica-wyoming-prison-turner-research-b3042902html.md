@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Six women at the Wyoming Women’s Center have become the first to earn
   bachelor’s degrees through the University of Wyoming's Pathways from Prison program
 image: https://static.independent.co.uk/2026/09/01/17/Wyoming_Inmates_Bachelor%27s_Degrees_3_77_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 One spring afternoon when the sun beamed down on the Wyoming Women’s Center, a prison in Lusk, six students sat in a fluorescent-lit room with laptops open before them. A brown and gold University of Wyoming banner with a cowboy on a bucking bronc hung on the far wall.

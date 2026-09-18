@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Two founder members of Buck's Fizz will help reveal the results of the
   recycling campaign in Selby.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0630/live/f0bd8380-a6d6-11f1-acae-21b536d72e0e.png
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![A picture of two men and two women, all wearing dark suits and ties and white shirts. The women have blonde hair and are wearing red lipstick. One of the men has fair hair, the other has dark hair.](https://ichef.bbci.co.uk/ace/standard/917/cpsprodpb/0630/live/f0bd8380-a6d6-11f1-acae-21b536d72e0e.png)

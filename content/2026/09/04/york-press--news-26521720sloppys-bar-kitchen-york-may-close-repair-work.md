@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Sloppy's Bar & Kitchen in Castlegate may have to close its doors for
   the second time since opening following the discovery of a collapsed…
 image: https://www.yorkpress.co.uk/resources/images/21410448.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 ## 'Absolutely heartbroken' - top York restaurant faces closure for major repairs

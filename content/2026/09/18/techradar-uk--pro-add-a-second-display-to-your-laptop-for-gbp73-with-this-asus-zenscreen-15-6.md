@@ -8,6 +8,8 @@ published: '2026-09-18T00:00:00Z'
 description: Give yourself a second screen on the move with this Asus ZenScreen 15.6-inch
   Full HD monitor, now 23% off.
 image: https://cdn.mos.cms.futurecdn.net/h7m8fYLNVbMogpV88nByTe-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Asus ZenScreen MB166C Portable USB Monitor](https://cdn.mos.cms.futurecdn.net/h7m8fYLNVbMogpV88nByTe.jpg) 

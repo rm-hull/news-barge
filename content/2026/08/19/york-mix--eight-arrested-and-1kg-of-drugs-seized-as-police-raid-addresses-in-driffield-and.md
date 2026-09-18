@@ -8,6 +8,11 @@ scraped_at: '2026-08-19T08:52:47Z'
 published: '2026-08-19T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/11/york-police-drugs-raid-13-nov-2024.webp
+categories:
+- Local
+- York
+- True Crime
+- News & Politics
 ---
 
 An anti-drugs operation in East Yorkshire resulted in nine arrests yesterday (Tuesday).

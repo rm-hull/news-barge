@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: St Barts is one of many UK institutions whose benefactors were involved
   in the trafficking of enslaved Africans
 image: https://i.guim.co.uk/img/media/7682fda122e1964ce6b4d8619f83a59e5538f4e7/4_0_1072_858/master/1072.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c4e594e14518071251f4d22ddd5fa9c4
+categories:
+- UK
+- News & Politics
+- History
+- Business & Entrepreneurship
 ---
 
 Inside the Great Hall of St Bartholomew’s North Wing, alongside stately portraits of the apostle from whom London’s oldest hospital takes its name and King Henry VIII, extravagant commemorative boards adorn the walls.

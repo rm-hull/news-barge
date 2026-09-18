@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: The Darlington Beekeepers Association (DBKA) welcomed the public into
   their grounds at the old bowling green off Widdowfield Street.
 image: https://www.thenorthernecho.co.uk/resources/images/21446081.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: AF)*

@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Analysis by the British Medical Journal (BMJ) found minimum waits of
   up to 16 weeks for hip, knee and cataract surgery
 image: https://static.independent.co.uk/2025/11/19/00/78af5ee04d11d2ce748e27fddd58a05bY29udGVudHNlYXJjaGFwaSwxNzYzNTg4MTIy-2.70616408.jpg?trim=174,0,174,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 NHS health boards across England are deliberately delaying patient care by enforcing minimum wait times for treatment, an investigation has found.

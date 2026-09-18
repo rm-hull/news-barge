@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: Thirty years after it ended, Harry remains one of Darlington’s most intriguing
   TV connections. The BBC show featured Michael Elphick and Tom…
 image: https://www.thenorthernecho.co.uk/resources/images/5088888.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
+- Comedy & Entertainment
 ---
 
 Thirty years after it ended, Harry remains one of Darlington’s most intriguing TV connections.

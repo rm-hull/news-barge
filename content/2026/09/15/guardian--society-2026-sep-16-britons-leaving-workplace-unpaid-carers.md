@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: More than a million people have left work to look after loved ones in
   the past two years, Carers UK says
 image: https://i.guim.co.uk/img/media/a064c3268f61d04512535cfd70491a4ae383820b/681_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=adf480144e6d7077bd973d1ccfb1be62
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 About 1,500 Britons a day are quitting their jobs to become unpaid carers, as they try to balance their vulnerable relatives’ growing care needs with declining access to state-funded social care services.

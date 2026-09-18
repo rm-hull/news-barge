@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A man bitten by a dog on a footpath died from complications of a wound
   on his leg, an inquest opening has heard.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI1MzdhNDZiLTcwMDYtNGM5My1hNTY2LTk2Yzc2YTM0MDMwZDplNzhkYzFmZi03Y2UxLTRmMTctOWZmYi1kMzJlNmQxNDMyZmI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Man died after being bitten by dog on footpath in West Yorkshire, inquest told

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Law firm Ware & Kay is warning of the new legal duty coming into force
   in October 2026.
 image: https://www.yorkpress.co.uk/resources/images/21424515.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: Ware & Kay)*

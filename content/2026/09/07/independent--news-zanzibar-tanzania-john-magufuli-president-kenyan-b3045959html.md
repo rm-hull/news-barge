@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Tanzania's President Samia Suluhu Hassan's husband has died while undergoing
   treatment in Zanzibar
 image: https://static.independent.co.uk/2026/09/07/13/Tanzania_First_Gentleman_Died_91862.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Society & Culture
 ---
 
 The husband of Tanzania’s President Samia Suluhu Hassan died Monday while undergoing treatment in a hospital in Zanzibar, the country’s vice president said.

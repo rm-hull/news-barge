@@ -9,6 +9,10 @@ description: 'The altercation broke out after the teacher told the nine-year-old
   not to “act like a tough guy”. Sentenced to six months in prison, the father was
   immediately taken into custody. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/00/86/1200x675_cmsv2_f6ae47d8-6cb9-57a4-9950-beb984b00e5e-9910086.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## The altercation broke out after the teacher told the nine-year-old boy not to “act like a tough guy”. Sentenced to six months in prison, the father was immediately taken into custody.

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Jeffery was known for playing cheerleader Bree in 2018 Disney Channel
   movie Zombies and two sequels.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a51b/live/97a35bf0-a76f-11f1-993c-a325009c1935.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ![Carla Jeffery grinning in glasses and a red blouse, posing for photos at the world premiere of Disney's Zombies 4: Dawn Of The Vampires at El Capitan Theatre on 8 July, 2025 in Los Angeles.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/a51b/live/97a35bf0-a76f-11f1-993c-a325009c1935.jpg)

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Police are appealing for information after two men reportedly chased
   another man riding an electric bike in Harrogate.
 image: https://mmo.aiircdn.com/409/6a1822e1a382f.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![](https://mmo.aiircdn.com/409/6a1822e1a382f.jpg) 

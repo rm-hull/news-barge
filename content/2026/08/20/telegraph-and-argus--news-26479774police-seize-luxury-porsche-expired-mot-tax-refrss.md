@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: A luxury Porsche Panamera was taken off the road in Bradford after what
   began as a routine document check uncovered a series of motoring offences.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21344662.jpg?type=og-image&xType=0&yType=858
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: West Yorkshire Police)*

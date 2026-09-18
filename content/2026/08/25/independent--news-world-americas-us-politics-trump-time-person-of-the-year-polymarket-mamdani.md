@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: The president has won the honor twice before, but the third nod might
   not come anytime soon
 image: https://static.independent.co.uk/2026/06/08/15/52/GettyImages-2247836301.jpg?trim=0,102,0,101&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 In a few months, *TIME* will announce its annual Person of the Year. If prediction markets are to be believed, Donald Trump will be disappointed with the results.

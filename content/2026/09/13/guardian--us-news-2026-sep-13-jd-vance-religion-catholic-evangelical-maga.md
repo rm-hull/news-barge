@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Vice-president wears religion on his sleeve but winding spiritual path
   could alienate evangelicals and conservative Catholics
 image: https://i.guim.co.uk/img/media/7c2891253efc3810e6d6a98eec395842925f5313/0_0_4240_3392/master/4240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=76029aff8483523e1e67ab135c28f881
+categories:
+- UK
+- News & Politics
+- Religion & Spirituality
 ---
 
 US vice-president JD Vance has worn his religion on his sleeve since converting to the Catholicism in 2019. He recently published a book, Communion: Finding My Way Back to Faith, and memorably met the late Pope Francis at the Vatican on Easter Sunday in 2025, a day before the pontiff died.

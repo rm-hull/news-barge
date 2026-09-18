@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A Nordic-inspired maternity support package will be introduced in a North
   Yorkshire town by the county’s elected mayor.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjcwZmYyZWM2LTkwODMtNDFhZS05MDE2LTFiOTUyNjQ4MWU5ZjozZGVjYzc0Ni02OGFiLTRkZDMtOTljYi1kYWUwZWQyOWNmYmE=.jpg?crop=3:2,smart&trim=&width=960&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 # Nordic-style ‘baby box’ scheme planned for North Yorkshire

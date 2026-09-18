@@ -9,6 +9,9 @@ published: '2026-09-05T00:00:00Z'
 description: The Garmin Fenix 9 pro lives up to the hype with incredible performance
   and accuracy
 image: https://cdn.mos.cms.futurecdn.net/azVGGwySBDyUvXbGWNYruE-2560-80.jpg
+categories:
+- Technology & Software
+- Travel
 ---
 
 ### TechRadar Verdict

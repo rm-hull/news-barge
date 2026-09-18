@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: US-Israel war against Iran and political instability in Somalia have
   led to pirates targeting cargo ships off Horn of Africa
 image: https://i.guim.co.uk/img/media/8fe8026e236cc5ba1a9f19e4b6faddfdba2da4bb/0_0_1238_990/master/1238.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc51c13600c39f8d13f634675c5a00b0
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 The scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not seen in a decade, driven by a convergence of factors including disruptions to the shipping industry caused by the US-Israeli war against Iran and a resurgence of political instability in Somalia.

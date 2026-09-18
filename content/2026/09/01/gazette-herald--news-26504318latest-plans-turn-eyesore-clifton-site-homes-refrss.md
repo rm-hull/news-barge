@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Developers have said they are optimistic about plans to redevelop an
   “eyesore” site into new luxury homes in Clifton, York, which has been…
 image: https://www.gazetteherald.co.uk/resources/images/20483515.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 *(Image: Savills)*

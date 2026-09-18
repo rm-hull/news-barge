@@ -9,6 +9,12 @@ published: '2026-08-19T00:00:00Z'
 description: In September, Rewind TV will dedicate the month to four popular series,
   including Harry Hill's TV Burp.
 image: https://www.gazetteherald.co.uk/resources/images/20792600.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
+- Comedy & Entertainment
 ---
 
 *(Image: Getty Images)*

@@ -10,6 +10,11 @@ description: The Australian Broadcasting Corp. says a study has found that 31 ru
   league players have been diagnosed with the degenerative brain disease chronic traumatic
   encephalopathy (CTE)
 image: https://static.independent.co.uk/2026/08/12/14/NFL_Diagnosing_CTE_Football_24836.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Health & Fitness
 ---
 
 A study has found 31 rugby league players in Australia have been diagnosed with the degenerative brain disease chronic traumatic encephalopathy (CTE), the Australian Broadcasting Corp. reported.

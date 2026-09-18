@@ -9,6 +9,9 @@ published: '2026-08-22T00:00:00Z'
 description: CazeTV offers free live football in Brazil – and a VPN can help you watch
   from abroad
 image: https://cdn.mos.cms.futurecdn.net/pgbRNT79uEBAV994kXi3MV-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Detail of a CazeTV microphone](https://cdn.mos.cms.futurecdn.net/pgbRNT79uEBAV994kXi3MV.jpg) 

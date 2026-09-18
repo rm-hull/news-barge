@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: A man in his 60s was airlifted to hospital with suspected “serious abdominal
   injuries” after being thrown from his motorbike in County Durham.
 image: https://www.thenorthernecho.co.uk/resources/images/20754684.jpg?type=og-image&xType=0&yType=44
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: GNAAS)*

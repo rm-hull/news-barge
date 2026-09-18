@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: Darlington Hippodrome has launched its autumn 2026 season, promising
   a packed programme of blockbuster musicals, acclaimed drama, family favourites…
 image: https://www.thenorthernecho.co.uk/resources/images/21453434.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
+- Music
 ---
 
 *(Image: Supplied)*

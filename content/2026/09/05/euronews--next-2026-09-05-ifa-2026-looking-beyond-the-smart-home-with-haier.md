@@ -10,6 +10,11 @@ description: From AI-powered appliances to humanoid robots, Haier is using IFA 2
   CEO Neil Tunstall about what comes after the smart home — and how soon some of these
   ideas could become reality.
 image: https://images.euronews.com/articles/stories/09/89/90/29/1200x675_cmsv2_53b978d2-1b50-5a42-a591-1064e1808709-9899029.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ## From AI-powered appliances to humanoid robots, Haier is using IFA 2026 to showcase its vision of the "intelligent home". Euronews spoke to Haier Europe CEO Neil Tunstall about what comes after the smart home — and how soon some of these ideas could become reality.

@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: A Ripon pensioner was left in tears of joy after a care worker arranged
   a surprise visit from a real owl.
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/08/21/8/58/1000105808.jpeg?trim=446,0,354,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
 ---
 
 # Surprise owl visit brings tears of joy for Ripon pensioner

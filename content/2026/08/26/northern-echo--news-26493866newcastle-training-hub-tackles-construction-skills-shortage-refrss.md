@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Housebuilder Keepmoat is tackling the construction skills shortage by
   training the next generation of talent through its Newcastle-based social…
 image: https://www.thenorthernecho.co.uk/resources/images/21369197.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A major housebuilder is tackling the construction skills shortage by training the next generation of talent.

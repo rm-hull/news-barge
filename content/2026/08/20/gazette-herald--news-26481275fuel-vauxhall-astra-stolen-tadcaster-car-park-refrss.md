@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: North Yorkshire Police have launched an investigation after fuel was
   allegedly drained and stolen from a Vauxhall Astra in a Tadcaster car park.
 image: https://www.gazetteherald.co.uk/resources/images/21008905.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 *(Image: North Yorkshire Police)*

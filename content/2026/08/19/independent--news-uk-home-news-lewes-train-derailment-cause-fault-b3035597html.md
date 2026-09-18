@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: Rail Accident Investigation Branch says passengers on other trains reported
   ‘rough riding’
 image: https://static.independent.co.uk/2026/08/19/13/01M0CZ4GBDWH1479Z0APE69GMD.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A defect in a railway track has been discovered where a train derailed last week near Lewes, East Sussex, investigators say.

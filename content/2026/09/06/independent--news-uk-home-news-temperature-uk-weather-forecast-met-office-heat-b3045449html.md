@@ -7,6 +7,10 @@ scraped_at: '2026-09-06T12:07:37Z'
 published: '2026-09-06T00:00:00Z'
 description: It comes after the country experienced its hottest summer on record
 image: https://static.independent.co.uk/2026/05/26/8/04/PA-84712631.jpeg?trim=0,0,0,79&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Summer-like temperatures could make a brief return in the UK on Sunday, with parts of the country forecast to reach 28C.

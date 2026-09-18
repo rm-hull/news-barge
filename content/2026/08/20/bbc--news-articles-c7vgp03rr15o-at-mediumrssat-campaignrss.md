@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: News of the Duke and Duchess of Sussex's plan to move back to the UK
   is prominent across Thursday's papers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d38a/live/81cb42d0-9c29-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![The headline on the front page of the Daily Telegraph reads: "Harry's coming home."](https://ichef.bbci.co.uk/ace/standard/1040/cpsprodpb/df8c/live/05950540-9c13-11f1-a291-b542ee92de7c.jpg)

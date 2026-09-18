@@ -10,6 +10,10 @@ description: What a night as Knaresborough was enthralled by a new Riot Act Thea
   production which took the 30 or so brave enough to turn out on an evening when the
   ‘heavens opened’ for the first time in months.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmU3NDYxNmJkLWM1MDctNDhlMy05YzBhLThjMWE2ZGY1YTZkMzplODE5NGFjZi03MWJmLTQyMDItYTU2MS1kOTliMzc1YWYzMGY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- History
 ---
 
 # 'Thought-provoking' play by Riot Act Theatre conjurs up presence of Knaresborough's historic figure Blind Jack

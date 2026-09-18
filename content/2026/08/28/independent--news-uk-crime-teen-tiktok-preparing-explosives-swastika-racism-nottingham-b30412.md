@@ -9,6 +9,10 @@ description: The boy, 14, pleaded guilty to recording information useful to pers
   engaged in terrorism, racially or religiously aggravated criminal damage and possessing
   an offensive weapon
 image: https://static.independent.co.uk/2026/08/28/16/39/Nottingham-Justice-Centre.png?trim=33,0,33,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A 14-year-old boy who downloaded a video explaining how to make explosives and spray-painted racially aggravated graffiti onto a woman’s fence has been spared a custodial sentence.

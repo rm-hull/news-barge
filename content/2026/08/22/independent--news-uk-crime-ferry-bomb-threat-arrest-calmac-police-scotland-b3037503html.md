@@ -7,6 +7,10 @@ scraped_at: '2026-08-22T16:36:38Z'
 published: '2026-08-22T00:00:00Z'
 description: A passenger who went overboard made threats to rescuers
 image: https://static.independent.co.uk/2026/05/26/15/24/iStock-2028696637.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A man has been arrested after a ferry passenger who went overboard made a “bomb threat” which led to the evacuation of the vessel.

@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Discover more about Supercomputer with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/BZeKHbXtMSgJcRKR9H6zR-320-80.png
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/BZeKHbXtMSgJcRKR9H6zR-320-80.png)

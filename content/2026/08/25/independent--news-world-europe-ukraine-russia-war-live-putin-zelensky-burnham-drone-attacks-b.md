@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Kyiv has increasingly targeted online retail logistics centres, accusing
   them of providing support to the Russian armed forces
 image: https://static.independent.co.uk/2026/08/25/06/2026-08-24T201738Z_758164039_RC2Z4NAGIGGL_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-OZON.JPG?trim=473,0,473,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Russian president Vladimir Putin has issued a presidential decree to allow the Russian state to take control of private critical infrastructure if they are not protected from Ukrainian drone attacks.

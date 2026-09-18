@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Four people have been arrested after a series of thefts and attempted
   thefts involving cars, trailers, a horsebox, a chainsaw and jet washers.
 image: https://www.yorkpress.co.uk/resources/images/19182681.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 *(Image: Police)*

@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: An ‘unviable’ church in a North Yorkshire village will be converted into
   flats after plans were approved despite local objections.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmJmYTllMjg0LTI0ZGQtNGU2Mi1hZmQyLTYxZGNkNDc4YjUwODo3ODZiN2JkOS1kMTA5LTRkNjAtYTgzYy0wMjkxYjA2M2U4ZDU=.jpg?crop=3:2,smart&trim=&width=921&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Religion & Spirituality
 ---
 
 # ‘Unviable’ church with congregation of eight will be turned into flats

@@ -8,6 +8,9 @@ scraped_at: '2026-08-22T16:36:56Z'
 published: '2026-08-22T00:00:00Z'
 description: Must. Have. More. Screens.
 image: https://cdn.mos.cms.futurecdn.net/bHVvkEjm7Ncs54FJqakUWo-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Thermalright Fan Frame Vision-1 fan accessories](https://cdn.mos.cms.futurecdn.net/bHVvkEjm7Ncs54FJqakUWo.png) 

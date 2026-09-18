@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: Combined toll of more than 750 dead and 3,000 people missing in Nepal
   and Tibet after devastating flood
 image: https://i.guim.co.uk/img/media/aa0b91e6769787ab08febe10af7563e19db86ebb/562_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=68cd3fb50eb6dcf60c63759fa6b0e3bd
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Rescuers in Nepal and Tibet have battled through leg-sucking mud amid the threat of fresh flooding to search for thousands of people still missing after a deadly wall of water swept through the Himalayan border zone, engulfing entire villages.

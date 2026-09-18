@@ -9,6 +9,11 @@ description: Video. At least two people were killed and several others injured i
   Israeli strikes across Gaza on Monday, 14 September, according to hospital and health
   officials.
 image: https://images.euronews.com/articles/stories/09/91/34/60/1200x675_cmsv2_28118a44-454c-56de-a322-22d7a82ca3a2-9913460.jpg
+categories:
+- Europe
+- News & Politics
+- Health & Fitness
+- Sports
 ---
 
 At Abu Khadra camp, footage shows damaged tents, bloodstains and belongings scattered across the ground. The Israeli military said it carried out four strikes targeting militants.

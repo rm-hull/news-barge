@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: A person had to be freed following a crash involving three vehicles in
   Tadcaster this afternoon, Thursday, September 17.
 image: https://www.gazetteherald.co.uk/resources/images/14169267.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 *(Image: Submitted)*

@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Seventh man charged with murdering Hemewand Ali Hussain in Hartlepool
   in 2019, joining two defendants awaiting trial at Teesside Crown Court.
 image: https://www.thenorthernecho.co.uk/resources/images/20404384.jpg?type=og-image&xType=0&yType=48
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: CLEVELAND POLICE)*

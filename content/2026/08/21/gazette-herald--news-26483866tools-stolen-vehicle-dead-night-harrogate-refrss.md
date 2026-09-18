@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Tools have been stolen from a car in the dead of night in a North Yorkshire
   town.
 image: https://www.gazetteherald.co.uk/resources/images/21353410.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 *(Image: North Yorkshire Police)*

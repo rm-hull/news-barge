@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: The group said it hopes to reduce its net debt from £102 million to ‘negligible’
   levels after selling off parts of its business in recent weeks.
 image: https://static.independent.co.uk/2025/09/19/16/19162148-f996c6f8-c1ee-446d-846e-331948f7528e.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Online retail group Debenhams has revealed earnings bounced back into profit for the past six months as sales strengthened.

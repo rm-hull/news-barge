@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Franklin Ochoa says losing his eyesight 16 years ago has led him to new
   adventures, thanks to a bicycle club
 image: https://static.independent.co.uk/2026/08/31/22/Ecuador_Blind_Cyclists_41552.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Travel
 ---
 
 Franklin Ochoa says that since losing his eyesight 16 years ago, he has started to take on new adventures that he hadn’t thought of when he could see, and it’s all thanks to a bicycle club.

@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Since 2023, hundreds of thousands of Afghans have been deported from
   Pakistan and over two million have left.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0464/live/6469e3a0-b2b2-11f1-819c-176371125270.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Health & Fitness
 ---
 
 ![An Afghan female student attends Kabul university on July 6, 2010 in Kabul, Afghanistan.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0464/live/6469e3a0-b2b2-11f1-819c-176371125270.jpg)

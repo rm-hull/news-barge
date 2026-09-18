@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Joshua Cammidge, 31, has been charged with National Security Act offences
   as part of an investigation led by Counter Terrorism Policing (CTP) London
 image: https://static.independent.co.uk/2026/04/04/13/4d6017d3952fe10f4a9d9be520bbeefdY29udGVudHNlYXJjaGFwaSwxNzc1MzkzMTg2-2.22255405.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A man has been charged with assisting Russian intelligence services, the Metropolitan Police said.

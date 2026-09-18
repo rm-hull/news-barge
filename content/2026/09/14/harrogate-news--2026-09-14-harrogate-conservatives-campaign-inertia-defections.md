@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The Harrogate Conservative Association under Andrew Jones faces intensifying
   questions over campaign inertia and high-profile council defections to Reform UK.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Election-webp.webp
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 **HARROGATE** — Questions are mounting over the long-term strategic viability and communication framework of the Harrogate and Knaresborough Conservative Association, amid growing localized criticism regarding a perceived withdrawal from frontline public debate.

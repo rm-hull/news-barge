@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The State Department currently warns Americans not to travel to Haiti
   ‘for any reason’
 image: https://static.independent.co.uk/2026/08/30/18/24/Screenshot-2026-08-30-at-2-26-08-PM.png?trim=0,307,0,179&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Border czar Tom Homan defended the Trump administration’s recent deportations to Haiti on Sunday, even as the State Department warns Americans not to travel to the Caribbean nation “for any reason.”

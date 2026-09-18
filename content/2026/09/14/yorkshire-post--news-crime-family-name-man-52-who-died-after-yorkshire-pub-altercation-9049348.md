@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A 52-year-old man who died after suffering serious injuries following
   an altercation at a Barnsley pub has been named as Jonathan Round.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/14/14/53/Jonathan-Round.jpeg?trim=40,0,40,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Family name man, 52, who died after Yorkshire pub altercation

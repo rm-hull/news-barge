@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Bond market shock has ramifications for new prime minister’s first Budget,
   his former adviser warns
 image: https://static.independent.co.uk/2026/09/02/14/40/260715_PMQs-8_75098-copy-212dcaae.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Andy Burnham has been urged to reduce spending on the pensions triple lock or welfare as the fallout from the Iran war continues to hit the economy.

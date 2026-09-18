@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Police probing an stab attack that saw a man collapse outside a row of
   homes say there is no evidence to suggest a link to wider organised crime.
 image: https://www.thenorthernecho.co.uk/resources/images/21396523.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: THE NORTHERN ECHO)*

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Trump's territorial ambitions have repeatedly strained relations with
   neighbouring countries.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fd8/live/bab14470-ab7c-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![US President Donald Trump wears a blue suit jacket, white shirt and red cap, embazoned with the phrase MAKE AMERICA GREAT AGAIN in white writing. The sky is a deep blue behind him.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/3fd8/live/bab14470-ab7c-11f1-b109-879e35c24276.jpg)

@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: Wandsworth Council is increasing its council tax by 94%, which Kemi Badenoch
   has blamed on cuts from central government.
 image: https://static.independent.co.uk/2026/09/18/00/99c576714c69d72f3eacbbc325e377d9Y29udGVudHNlYXJjaGFwaSwxNzg5NzY0NTg4-2.85804244.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Conservative Party has “instructed lawyers” to challenge government cuts to a Tory-run London council, which they say amounts to 40%.

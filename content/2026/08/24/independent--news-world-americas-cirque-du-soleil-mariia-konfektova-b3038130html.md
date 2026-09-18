@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: ‘At first, we all thought it was part of the show,’ one spectator said,
   after the incident in Portland, Oregon
 image: https://static.independent.co.uk/2026/08/24/10/05/Screenshot-2026-08-24-at-11-38-32.png?trim=0,2,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A former Cirque du Soleil acrobat is suing the world-famous circus for $16.75 million after breaking 11 bones in a fall, according to reports.

@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A festival in Bradford has been hailed a "massive success" after drawing
   an estimated crowd of 65,000 people to the weekend events.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21341320.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 A BRADFORD festival has been hailed a "massive success" after drawing an estimated crowd of 65,000 people to the weekend events.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T14:59:52Z'
 published: '2026-09-14T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/heworth-green-eboracum-way-york-gsv.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 A cyclist had to fight off two thieves who tried to steal his bike as he rode along a busy York street.

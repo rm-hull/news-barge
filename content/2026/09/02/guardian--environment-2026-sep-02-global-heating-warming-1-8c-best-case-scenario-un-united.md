@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: But scientists say the world could get back to 1.5C through deep, rapid
   emissions cuts and removing carbon from the atmosphere
 image: https://i.guim.co.uk/img/media/b165a58f66016cde9d7cd666fd9c9a7a977892ea/785_159_4511_3610/master/4511.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=391034a52fcdcb754f83d54d75e60225
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 Global heating will reach at least 1.8C under even the most optimistic future, well beyond the Paris agreement goal of 1.5C, according to a UN report that warns every fraction of temperature rise intensifies destructive extreme weather, glacier melt, ecosystem loss, and island and coastal city submersion.

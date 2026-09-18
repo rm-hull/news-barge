@@ -9,6 +9,8 @@ published: '2026-09-01T00:00:00Z'
 description: JBL's new Cove line of indoor speakers swap out its cheap-and-cheerful
   party speakers for feature-rich options.
 image: https://cdn.mos.cms.futurecdn.net/iiQ9QyCo5EhCpRLWAZBKaJ-1556-80.png
+categories:
+- Technology & Software
 ---
 
 ![JBL's new Cove speaker on a kitchen counter](https://cdn.mos.cms.futurecdn.net/iiQ9QyCo5EhCpRLWAZBKaJ.png) 

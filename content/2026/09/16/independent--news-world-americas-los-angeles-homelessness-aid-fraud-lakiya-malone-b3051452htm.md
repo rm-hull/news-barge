@@ -9,6 +9,10 @@ description: Federal authorities charged three individuals Wednesday with steali
   $12 million in federal and state homelessness aid dollars to buy real estate, go
   on luxury trips, and purchase vintage vehicles.
 image: https://static.independent.co.uk/2026/09/16/19/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Federal authorities charged three individuals Wednesday with stealing $12 million in federal and state homelessness aid dollars to buy real estate, go on luxury trips, and purchase vintage vehicles.

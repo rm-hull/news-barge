@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A charity duck race is set to make a splash in Darlington next week as
   hundreds of rubber ducks take to the River Skerne in support of St Teresa’s…
 image: https://www.thenorthernecho.co.uk/resources/images/21450360.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: STUART BOULTON)*

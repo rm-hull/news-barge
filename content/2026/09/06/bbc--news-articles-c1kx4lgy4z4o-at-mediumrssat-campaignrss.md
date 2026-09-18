@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: Peat fires in Borneo are releasing ancient stores of carbon - and sending
   a toxic smog across South East Asia.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/082b/live/50dfea10-a839-11f1-b3a7-d5de760fef6e.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![A man in red firefighting uniform patched with Indonesia's flag, and with a yellow and green neck gaiter pulled over his face, stands in a forest and looks into the camera](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/082b/live/50dfea10-a839-11f1-b3a7-d5de760fef6e.jpg)

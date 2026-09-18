@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: 'The twin seat aircraft crashed at Tanagra air base, north of Athens,
   during an air show, on Sunday. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/25/95/1200x675_cmsv2_b372487a-7ccd-5a7e-8c56-be1a28bf8974-9902595.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## The twin seat aircraft crashed at Tanagra air base, north of Athens, during an air show, on Sunday.

@@ -10,6 +10,11 @@ description: Brazil’s government said on Wednesday it filed a lawsuit in a fed
   damages of 500 million reais (about $97 million) for the company’s alleged failure
   in protecting children online
 image: https://static.independent.co.uk/2026/08/26/23/Brazil_Soldier_Day__2418.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Brazil's government said on Wednesday it filed a lawsuit in a federal court against Discord, the popular platform for gamers to communicate online, seeking damages of 500 million reais (about $97 million) for the company's alleged failure to protect children online.

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Tips are central to US dining culture but some eateries think that they
   are unfair.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2add/live/70cad1a0-9592-11f1-870d-5d08c49babb2.jpg
+categories:
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 ![Caroline Kraetzer stands behind a bar, with her hands on the counter.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2add/live/70cad1a0-9592-11f1-870d-5d08c49babb2.jpg)

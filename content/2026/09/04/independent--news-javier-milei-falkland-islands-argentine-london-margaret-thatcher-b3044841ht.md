@@ -10,6 +10,11 @@ description: Argentine President Javier Milei has resurrected Argentina’s long
   claim to the nearby U.K.-controlled Falkland Islands and in the process conjured
   up memories of the bitter war the two countries fought 44 years ago
 image: https://static.independent.co.uk/2026/09/04/14/Argentina_Trump_Falklands__815.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Sports
 ---
 
 In a primetime rallying call to the nation, Argentine President Javier Milei has resurrected Argentina's long-standing claim to the nearby U.K.-held Falkland Islands and in the process conjured up memories of the bitter war the two countries fought 44 years ago.

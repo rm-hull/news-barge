@@ -9,6 +9,9 @@ published: '2026-08-30T00:00:00Z'
 description: The Ukrainian president has promised to punish those responsible as munitions
   were unknowingly stored in the area causing a huge fire to spread from the explosion
 image: https://static.independent.co.uk/2026/08/29/14/2026-08-29T124900Z_170364415_RC2C8NAK133V_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-REGION.JPG?trim=53,0,53,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Russian strikes have killed at least 37 people in Kyiv, most of them from a care home for the elderly, according to local Ukrainian officials.

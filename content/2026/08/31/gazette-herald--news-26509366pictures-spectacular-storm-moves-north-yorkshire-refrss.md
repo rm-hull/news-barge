@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: York and North Yorkshire experienced a 'spectacular' storm for several
   hours on Sunday night.
 image: https://www.gazetteherald.co.uk/resources/images/21392880.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 Areas of North Yorkshire experienced a 'spectacular' storm for several hours on Sunday night.

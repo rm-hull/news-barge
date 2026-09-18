@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: The first large site for testing wave energy technologies in the continental
   U.S. is open, after securing a key green-energy approval from the Trump administration
 image: https://static.independent.co.uk/2026/08/26/14/Climate_Wave_Energy_89482.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The first large site in the continental U.S. for testing technologies that generate electricity from ocean waves is now open after securing a key green-energy approval from the Trump administration.

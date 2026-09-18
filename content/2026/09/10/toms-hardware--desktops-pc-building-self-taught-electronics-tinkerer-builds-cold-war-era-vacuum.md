@@ -10,6 +10,9 @@ published: '2026-09-10T00:00:00Z'
 description: True retro computing eschews transistors for glowing, white-hot vacuum
   tubes.
 image: https://cdn.mos.cms.futurecdn.net/UGf3cR2nUt6StxjeptmAsd-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![The Tube Computer](https://cdn.mos.cms.futurecdn.net/UGf3cR2nUt6StxjeptmAsd.jpg) 

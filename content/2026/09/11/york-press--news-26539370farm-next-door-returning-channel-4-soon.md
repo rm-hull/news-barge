@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: 'Our Farm Next Door: Amanda, Clive and Kids could be returning as soon
   as October.'
 image: https://www.yorkpress.co.uk/resources/images/21435726.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: YouTube/Channel 4)*

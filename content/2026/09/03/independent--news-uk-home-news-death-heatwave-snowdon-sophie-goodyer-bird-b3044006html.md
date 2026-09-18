@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T12:49:08Z'
 published: '2026-09-03T00:00:00Z'
 description: Sophie Goodyer-Bird leaves behind a 12-year-old son
 image: https://static.independent.co.uk/2026/09/03/9/16/Jam_Press_JMP908171_pr.jpeg?trim=0,0,388,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A Birmingham woman died of heat stroke while walking down Mount Snowdon during soaring temperatures, an inquest has heard.

@@ -7,6 +7,11 @@ scraped_at: '2026-09-08T12:52:07Z'
 published: '2026-09-08T00:00:00Z'
 description: The funding will be used to build two more launchpads.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6dc0/live/cbfc7a70-aae5-11f1-99dd-5152b950d9db.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![An aerial view of a long flat peninsula surrounded by dark blue sea. The coastline is rocky and the sky is blue. The island is brown and sparsely populated by several industrial buildings and a tall launch pad.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6dc0/live/cbfc7a70-aae5-11f1-99dd-5152b950d9db.jpg)

@@ -9,6 +9,11 @@ description: 'Amodei''s announcement came days after the AI company revealed tha
   its models were being used for cyberattacks, propaganda campaigns and dangerous
   biological research. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/12/82/1200x675_cmsv2_afcd9011-b68a-50e3-bdef-4b890a4370ab-9911282.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ## Amodei's announcement came days after the AI company revealed that its models were being used for cyberattacks, propaganda campaigns and dangerous biological research.

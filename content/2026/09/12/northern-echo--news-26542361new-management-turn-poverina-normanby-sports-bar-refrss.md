@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Popular Middlesbrough pub The Poverina is heading in a new direction
   after changing hands, with sports bar plans and refurbishment works on the…
 image: https://www.thenorthernecho.co.uk/resources/images/21440612.jpg?type=og-image&xType=0&yType=26
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A popular pub and restaurant in Middlesbrough is starting a new chapter after changing hands and beginning preparations for a major refurbishment.

@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Plans to house asylum seekers at RAF Linton-on-Ouse will be debated by
   Scarborough Town Council.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c480/live/03313510-9fcb-11f1-8dfa-d5875b87c784.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Society & Culture
 ---
 
 ![RAF Linton-On-Ouse in North Yorkshire. A metal gate with barbed‑wire fencing stands partly open, with a person in a high‑visibility vest inside the compound and a brick building surrounded by trees in the background.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/c480/live/03313510-9fcb-11f1-8dfa-d5875b87c784.jpg)

@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Marion McMillan was one of about 250,000 women who were forced to have
   their babies adopted between 1949 and 1976.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b61f/live/938f32a0-a071-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
+- History
 ---
 
 Maron only had a few months to get to know her baby before he was taken from her

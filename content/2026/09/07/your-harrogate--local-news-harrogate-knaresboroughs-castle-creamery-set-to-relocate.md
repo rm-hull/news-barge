@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Castle Creamery in Knaresborough is set to move to new premises - and
   its recruiting additional members of staff.
 image: https://mmo.aiircdn.com/409/6a9e67405fee4be4a90.jpg
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9e67405fee4be4a90.jpg) 

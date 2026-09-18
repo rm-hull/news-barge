@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: An 18‑week referral‑to‑treatment target has been backed by England's
   former national cancer director.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fef0/live/bdc56440-b2b9-11f1-ad9d-efc12ace03e0.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Britain's Prime Minister Andy Burnham attends a meeting with Canada's Prime Minister Mark Carney (not pictured) ahead of the Everton v Wolverhampton Wanderers English League Cup football match at Hill Dickson Stadium in Liverpool, Britain, 16 September 2026.

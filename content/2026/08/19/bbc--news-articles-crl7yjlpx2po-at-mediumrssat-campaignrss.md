@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: The five-year-old spent hours on the phone to paramedics before her body
   was recovered days later in Gaza City in 2024.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Hind Rajab smiles at the camera.](https://ichef.bbci.co.uk/ace/standard/755/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg)

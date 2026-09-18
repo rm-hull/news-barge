@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The Army's top general has directed a Europe-based unit specializing
   in drone warfare to revert to traditional infantry roles
 image: https://static.independent.co.uk/2026/08/20/22/Army_Drones_37732.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 An Army unit based in Europe that was specializing in drone warfare has been directed to end its efforts to learn and use the battlefield technology and return to being a traditional infantry battalion, officials said Thursday.

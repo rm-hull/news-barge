@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Lauren Edwards said she disengaged from social media shortly after becoming
   an MP and does not read anything about herself.
 image: https://static.independent.co.uk/2026/09/04/02/02145729-1c79d22c-f10c-40cc-b550-839a52c726b5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Technology & Software
 ---
 
 Young people should “be careful” about posting “whatever pops into your head” on social media, an MP has advised as she re-stated an apology for a series of tweets she previously admitted deeply regretting making in her 20s.

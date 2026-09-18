@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Pattaya, a seaside resort city in Thailand once notorious for sex tourism,
   is hosting sailors and Marines from the USS Abraham Lincoln for rest and recuperation
 image: https://static.independent.co.uk/2026/09/02/05/Thailand_Pattaya_Portrait__6625.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 There’s no getting around the fact that Thailand’s seaside resort of Pattaya has a lingering reputation for sex tourism, even though that’s only part of the story for the city that's an expected shore leave destination of crew members aboard the USS Abraham Lincoln.

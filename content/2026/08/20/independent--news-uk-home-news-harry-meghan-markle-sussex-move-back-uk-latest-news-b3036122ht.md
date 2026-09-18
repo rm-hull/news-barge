@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The couple have already enrolled Prince Archie and Princess Lilibet in
   British schools
 image: https://static.independent.co.uk/2026/08/20/06/QtQKONmlT9mU9_SyDtH92FRjD8K4sRUoBFC-QCM90htZse2Dkf4jYIxtHi1_SsvT7QYEKfn-xUnQMoN5i9azHLtrpVmAzhdngNIt..?trim=5,0,5,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Prince Harry and Meghan Markle are understood to be moving back to the UK later this month in a shock development six years after they relocated to the US.

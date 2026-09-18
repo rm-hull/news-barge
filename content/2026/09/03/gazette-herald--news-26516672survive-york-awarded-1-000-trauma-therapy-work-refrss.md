@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: York-based charity Survive has received a £1,000 donation to support
   its vital work in the community thanks to Pavers.
 image: https://www.gazetteherald.co.uk/resources/images/19304560.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 *(Image: Nadia Jefferson-Brown)*

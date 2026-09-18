@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Kimmel, who’s been a late-night TV host for nearly 24 years, has faced
   controversy over his jokes about the MAGA base
 image: https://static.independent.co.uk/2026/09/08/23/18/GettyImages-2279139554.jpg?trim=102,0,102,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
+- Film & TV
 ---
 
 ABC has dismissed claims that Jimmy Kimmel’s late-night show is ending next year.

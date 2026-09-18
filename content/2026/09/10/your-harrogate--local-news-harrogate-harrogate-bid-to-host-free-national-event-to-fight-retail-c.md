@@ -9,6 +9,10 @@ description: Harrogate Business Improvement District (BID) is set to host a free
   bringing retailers, police and business crime experts together to share practical
   advice and approaches to tackling retail crime.
 image: https://mmo.aiircdn.com/409/680a11ff2410e.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/680a11ff2410e.jpg) 

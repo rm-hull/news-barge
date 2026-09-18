@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Chelsea ended Sunday's 2-1 defeat by champions Arsenal with two right-backs
   alongside each other in midfield - how did they get here?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/840c/live/a9b5a5e0-aa22-11f1-8046-e7e0d3946c1a.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Champions Arsenal come from behind to beat Chelsea

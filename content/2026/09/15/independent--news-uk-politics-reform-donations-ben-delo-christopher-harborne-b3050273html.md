@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Amid reports both men have already returned to the country, ministers
   are looking at how to toughen residency requirements governing political donations
 image: https://static.independent.co.uk/2026/09/15/00/fc25f5cc0a4d8a10e601f8a7b534ce91Y29udGVudHNlYXJjaGFwaSwxNzg5NTExODM2-2.85751972.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Personal Finance & Investing
 ---
 
 Reform UK’s crypto-billionaire donors could face enhanced checks to prove their ongoing presence in the UK as the government considers tightening proposed laws after the party received £72 million over the weekend.

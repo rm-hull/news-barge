@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: ‘Disposal of the body in this case was as thorough as it was brutal,’
   justice Peter Hamill said when sentencing 55-year-old Nirmeen Noufl
 image: https://i.guim.co.uk/img/media/9bc5c3ba4b6220b2b28d49fcb024540a274cc401/409_0_3099_2480/master/3099.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2085ce6484549ff74c16c43211f5680f
+categories:
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 A woman who lied to police multiple times to cover up killing and dismembering her abusive husband will spend a further 12 months in jail.

@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Russians are going to the polls for the first time since the full-scale
   invasion of Ukraine in 2022
 image: https://static.independent.co.uk/2026/09/18/15/2295278066..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Ukrainians in territories occupied by Russia are being “held at gunpoint” and forced to vote in parliamentary elections that “bear no resemblance to democracy,” the Ukrainian foreign ministry has warned.

@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: A woman who has lived in her Bradford district home for 70 years says
   she is "fed up" - claiming a leak in her house forced her to live…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21420780.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 A WOMAN who has lived in her Bradford district home for 70 years says she is "fed up" - claiming a leak in her house forced her to live upstairs.

@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Former leader of the GOP Senate caucus, 84, was hospitalized in mid-June
   after a fall
 image: https://static.independent.co.uk/2026/09/14/23/2026-09-14T220825Z_1440809147_RC2AJNAO4THW_RTRMADP_3_USA-CONGRESS-MCCONNELL.JPG?trim=31,0,31,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Former Senate GOP leader Mitch McConnell returned to Capitol Hill on Monday, his first return to work – and the first time he has been seen in public – since the Kentucky senator was hospitalized in June after suffering a fall.

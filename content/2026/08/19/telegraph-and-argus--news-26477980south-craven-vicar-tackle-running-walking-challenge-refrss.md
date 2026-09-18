@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A South Craven vicar is taking on a month-long running and walking challenge
   in support of prostate cancer research.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21341338.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: UGC)*

@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Tesco cafe in Clifton Moor is getting a KPop Demon Hunters makeover as
   part of a nationwide promotion inspired by the Netflix show.
 image: https://www.gazetteherald.co.uk/resources/images/21340596.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 *(Image: TESCO)*

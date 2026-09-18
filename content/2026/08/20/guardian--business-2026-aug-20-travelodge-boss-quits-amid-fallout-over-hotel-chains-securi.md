@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Joanna Boydell steps down after widespread criticism over company’s handling
   of guest safety issues
 image: https://i.guim.co.uk/img/media/2c661445e957e39a5a3e72f09348eef78d8acc0e/395_0_3105_2484/master/3105.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9af30cdbb0b12ae0943b7869c7293d2
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The boss of Travelodge has resigned after widespread criticism of her handling of security failings at the hotel chain, including a shocking case where a domestic abuser was given a key to a woman’s room before assaulting her.

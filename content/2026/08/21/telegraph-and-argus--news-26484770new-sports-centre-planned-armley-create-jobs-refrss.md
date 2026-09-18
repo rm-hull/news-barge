@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A racket sports centre could be created in a west Leeds community if
   plans are agreed with the city council.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21354715.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Google)*

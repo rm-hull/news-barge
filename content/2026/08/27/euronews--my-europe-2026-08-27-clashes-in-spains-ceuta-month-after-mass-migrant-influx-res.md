@@ -9,6 +9,10 @@ description: 'Tensions have risen after a military vehicle carrying four soldier
   was "ambushed" in the early hours of Thursday by about 70 migrants, who attacked
   it with stones and other objects, a police spokesperson in Ceuta. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/18/59/1200x675_cmsv2_89bf93eb-3712-510b-9386-db986bdd5a21-9891859.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Tensions have risen after a military vehicle carrying four soldiers was "ambushed" in the early hours of Thursday by about 70 migrants, who attacked it with stones and other objects, a police spokesperson in Ceuta.

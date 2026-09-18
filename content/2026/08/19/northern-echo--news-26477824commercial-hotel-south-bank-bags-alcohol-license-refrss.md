@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: It took just three minutes for a hotel touted as a “workers’ hub” for
   Teesworks contractors to gain an alcohol licence.
 image: https://www.thenorthernecho.co.uk/resources/images/21341308.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ### What is the Public Notice Portal?

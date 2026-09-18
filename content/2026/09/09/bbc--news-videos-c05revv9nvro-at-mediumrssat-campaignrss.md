@@ -9,6 +9,10 @@ description: Four women have chosen to waive their anonymity and speak publicly 
   the BBC documentary, Britain's Forgotten Girls, about how they were targeted by
   criminals when they were children.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c4d/live/511ba480-ac60-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 # 'We were raped and exploited by a drug gang as teenagers', women tell BBC of their ordeal

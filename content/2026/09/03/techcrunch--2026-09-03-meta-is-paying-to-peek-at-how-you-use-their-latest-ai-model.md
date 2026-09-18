@@ -10,6 +10,8 @@ description: For its new Muse Spark model, intended for operating coding and oth
   who "contribute" to the development of future models by sharing their prompts and
   model outputs.
 image: https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799
+categories:
+- Technology & Software
 ---
 
 Most AI tools allow you to opt out of sharing your usage with the model provider to improve future versions. Meta has taken that idea and put a price tag on it.

@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Motorists are being reminded of a series of closures scheduled for a
   major road into York.
 image: https://www.gazetteherald.co.uk/resources/images/21389121.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 MOTORISTS are being reminded of a series of closures scheduled for a major road into York.

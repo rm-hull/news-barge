@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T12:42:40Z'
 published: '2026-09-04T00:00:00Z'
 description: Industrial AI is adopting faster than it's working
 image: https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![A line of robots typing at computers](https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL.jpg) 

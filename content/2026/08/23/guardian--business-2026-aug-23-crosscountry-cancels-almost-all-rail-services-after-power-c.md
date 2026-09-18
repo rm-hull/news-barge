@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: Transport secretary asks ‘publicly owned operators to lay on extra services
   where possible’
 image: https://i.guim.co.uk/img/media/4677f07b7d2142f63297aa80be64a50e0ff8ea70/475_37_3877_3104/master/3877.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e7ab0ca23eab56101410de9bdaed343
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 CrossCountry cancelled almost all of its train services in Great Britain on Sunday after a power cut in Birmingham hit its control centre.

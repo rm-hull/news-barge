@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: While Neagley isn't in Reacher season 4, Reacher makes multiple appearances
   in the new Prime Video spinoff — but romance seems like it's off the cards.
 image: https://cdn.mos.cms.futurecdn.net/qWgzfkCyruQrZtvsK2gbTg-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Reacher and Neagley sit in the crowd at a baseball game](https://cdn.mos.cms.futurecdn.net/qWgzfkCyruQrZtvsK2gbTg.jpg) 

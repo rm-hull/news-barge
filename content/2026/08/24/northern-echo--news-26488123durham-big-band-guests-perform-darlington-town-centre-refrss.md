@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: Music filled Darlington Market Square yesterday as the Durham Big Band
   Alumni and Friends brought an afternoon of swing, jazz and well-known tunes…
 image: https://www.thenorthernecho.co.uk/resources/images/21359581.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 Music filled Darlington Market Square this weekend as the Durham Big Band Alumni and Friends brought an afternoon of swing, jazz and well-known tunes to the town centre.

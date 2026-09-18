@@ -8,6 +8,10 @@ scraped_at: '2026-09-18T04:33:51Z'
 published: '2026-09-18T00:00:00Z'
 description: Plans for a holiday let next to an historic York building have been blocked.
 image: https://www.yorkpress.co.uk/resources/images/21469962.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 ## 'Serious risk to life' sees holiday let plans next to historic York building blocked

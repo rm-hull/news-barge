@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Supreme court ordered transfer of ex-leader whose health is reportedly
   deteriorating and following public protests
 image: https://i.guim.co.uk/img/media/96766fdecb9254b8699c680a0c29d97bfc8e18d1/350_0_6801_5440/master/6801.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af784afae2e07dc7359b04f0999a50f5
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Pakistan’s jailed former prime minister Imran Khan has been taken to a hospital in the country’s capital on supreme court orders after weeks of uproar about his deteriorating health.

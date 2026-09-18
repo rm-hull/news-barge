@@ -11,6 +11,9 @@ description: As AI tech companies increasingly buy and destroy books to feed to 
   AI models, Anna's Archive is calling for volunteers to help preserve them for the
   public record.
 image: https://cdn.mos.cms.futurecdn.net/ePJpJYVDUf8Qbfjmf8WdQf-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![a specialized book scanning machine](https://cdn.mos.cms.futurecdn.net/ePJpJYVDUf8Qbfjmf8WdQf.png) 

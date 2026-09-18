@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Customers who bought these packs are urged not to eat them and return
   them to a Waitrose store where they will be fully refunded
 image: https://static.independent.co.uk/2026/03/12/07/2e7a8b21c948258a0a8acc74b5f9a91eY29udGVudHNlYXJjaGFwaSwxNzczMzM3MTcz-2.83153908.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Waitrose has issued a product recall for packs of black olives following the discovery of listeria contamination.

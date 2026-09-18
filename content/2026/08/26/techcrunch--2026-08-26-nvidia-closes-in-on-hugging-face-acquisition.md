@@ -9,6 +9,9 @@ description: Nvidia has reportedly agreed to buy Hugging Face, the popular open-
   AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip
   empire and jump back into the cloud business.
 image: https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Nvidia has agreed to buy Hugging Face for $12.9 billion, The Information reported Wednesday night, citing a source familiar with the matter. Business Insider, which first reported over the weekend that Hugging Face was fielding takeover interest, reported Wednesday night that the talks — which would value the company at more than $13 billion — had not yet produced a signed agreement and could still atomize.

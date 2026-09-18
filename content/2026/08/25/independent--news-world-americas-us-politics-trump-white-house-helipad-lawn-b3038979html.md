@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Trump’s latest project has already had to be redone once to ensure landing
   spot is level with horizon
 image: https://static.independent.co.uk/2026/08/20/11/qMzsMyNTZh_fotG0g4Yz1ZM16SI1jJm6cEt9iJAbZ6OJ4q4AFatRJt5mhR2hxAhPdp9lz-AU-BopHMYb058v0TqjAIHP_k1e2DTL..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Home, Garden & DIY
 ---
 
 President Donald Trump has ordered further work on the South Lawn of the White House where his new helipad is being built, calling for the garden’s entire slope to be leveled out, according to a report.

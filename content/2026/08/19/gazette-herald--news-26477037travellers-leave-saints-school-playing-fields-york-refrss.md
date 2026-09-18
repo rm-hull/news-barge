@@ -8,6 +8,13 @@ published: '2026-08-19T00:00:00Z'
 description: A Traveller encampment at All Saints RC School's playing fields has come
   to an end.
 image: https://www.gazetteherald.co.uk/resources/images/21327974.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
+- Video Gaming
+- Sports
 ---
 
 *(Image: Supplied)*

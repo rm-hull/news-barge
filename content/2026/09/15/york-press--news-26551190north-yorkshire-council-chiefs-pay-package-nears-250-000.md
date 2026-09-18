@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: North Yorkshire Council’s retiring chief executive received a total pay
   package worth almost £245,000 during the last financial year, new figures…
 image: https://www.yorkpress.co.uk/resources/images/21374015.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 North Yorkshire Council’s retiring chief executive received a total pay package worth almost £245,000 during the last financial year, new figures show.

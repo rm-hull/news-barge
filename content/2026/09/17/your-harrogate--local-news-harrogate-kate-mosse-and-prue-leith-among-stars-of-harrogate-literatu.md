@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Kate Mosse, Dame Prue Leith and Julian Clary are among the authors and
   broadcasters coming to Harrogate for this year’s Raworths Literature Festival.
 image: https://mmo.aiircdn.com/409/6aabb320b80c7caea9f.jpg
+categories:
+- Local
+- Harrogate
+- Arts & Culture
+- Books & Literature
 ---
 
 ![](https://mmo.aiircdn.com/409/6aabb320b80c7caea9f.jpg) 

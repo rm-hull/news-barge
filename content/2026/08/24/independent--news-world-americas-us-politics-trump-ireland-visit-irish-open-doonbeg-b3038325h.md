@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: President Trump will stay at Doonbeg next month, just as resort hosts
   Irish Open
 image: https://static.independent.co.uk/2025/03/10/00/b9b4e13c172886b43a9451de7b14c3beY29udGVudHNlYXJjaGFwaSwxNzQxNjIyMTU5-2.72014167.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 President Donald Trump has timed his upcoming trip to the Republic of Ireland to coincide with the final two days of the Irish Open.

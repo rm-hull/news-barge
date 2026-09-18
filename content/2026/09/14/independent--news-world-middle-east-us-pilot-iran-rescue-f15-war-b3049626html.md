@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The airman had to be rescued from the mountains of Iran in April after
   his jet was downed by Iranian fire
 image: https://static.independent.co.uk/2026/04/03/14/29/F-15s-support-Operation-Epic-Fury-i9phvt15.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 The American air force colonel whose fighter jet was downed over Iran in April has shared how survived for two days behind enemy lines with a broken back, arm and shoulder while waiting for help to arrive.

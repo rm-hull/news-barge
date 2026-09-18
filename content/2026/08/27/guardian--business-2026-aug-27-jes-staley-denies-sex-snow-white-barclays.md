@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: Jes Staley made comments to US lawmakers investigating his links to the
   convicted sex offender
 image: https://i.guim.co.uk/img/media/04e2750c268e7207cf2fb69e13bf809f2fafa13d/108_0_1126_901/master/1126.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b200129aa5024d8c0035680e23e4c5f6
+categories:
+- UK
+- News & Politics
 ---
 
 The former Barclays boss Jes Staley has denied having sex with a woman dressed as Snow White, after being questioned about an infamous email exchange about Disney princesses with Jeffrey Epstein.

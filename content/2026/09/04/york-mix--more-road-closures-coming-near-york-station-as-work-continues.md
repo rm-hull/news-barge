@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T18:58:51Z'
 published: '2026-09-04T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-station-road-works-july-2026-from-walls.webp
+categories:
+- Local
+- York
+- Music
 ---
 
 Road users are being warned that more overnight closures near York Station are on their way.

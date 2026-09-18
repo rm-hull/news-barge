@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: British tourists reportedly discovered Luger pistol that is latest in
   long line of potential leads in mystery of al-Hilli deaths
 image: https://i.guim.co.uk/img/media/23ed6464d859c6e60e33921cade8bfdec1cc8a64/150_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=62eb4583bed029666e168d865aad8173
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Experts are examining a gun found by tourists to determine whether it might have been used to kill a British family in the French Alps 14 years ago.

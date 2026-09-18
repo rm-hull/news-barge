@@ -8,6 +8,8 @@ published: '2026-09-01T00:00:00Z'
 description: The US military is hunting cheaper missile killers after billions spent
   protecting against modern threats
 image: https://cdn.mos.cms.futurecdn.net/4xuYjY4btGm24zXyBCAp3W-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Vilnius Lithuania 2023-07-10 The MIM-104 Patriot is a surface-to-air missile (SAM) system, the primary such system used by the United States Army and several allied states.](https://cdn.mos.cms.futurecdn.net/4xuYjY4btGm24zXyBCAp3W.jpg) 

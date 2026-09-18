@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Most experts are forecasting that CPI inflation will rise to 2.9% in
   July, up from 2.6% in June.
 image: https://static.independent.co.uk/2026/08/18/15/5d3fc8d28522281a6839e752c8c20f81Y29udGVudHNlYXJjaGFwaSwxNzg3MTQ4NDYy-2.64638906.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Higher energy prices are expected to send UK inflation surging back up when official figures are released on Wednesday, amid fears the summer’s record heatwaves may also start putting pressure on food costs.

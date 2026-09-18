@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: There is nothing routine about John Ratcliffe making a secret, 10,000-mile
   return dash to Moscow, writes Frank Gardner.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0631/live/56aa0930-a230-11f1-80a2-67c89a95284e.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 ![A suited John Ratcliffe is wearing a petrol blue suit and mauve tie with a USA flag on his left lapel. The pic is a head and shoulders shot with a microphone visible in front of him as if he is appearing at a hearing.](https://ichef.bbci.co.uk/ace/standard/973/cpsprodpb/0631/live/56aa0930-a230-11f1-80a2-67c89a95284e.jpg)

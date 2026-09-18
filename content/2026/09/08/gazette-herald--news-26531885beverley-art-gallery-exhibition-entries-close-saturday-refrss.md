@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Artists only have until this weekend to enter Beverley Art Gallery’s
   annual Open Art Exhibition.
 image: https://www.gazetteherald.co.uk/resources/images/21425273.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: East Riding of Yorkshire Council)*

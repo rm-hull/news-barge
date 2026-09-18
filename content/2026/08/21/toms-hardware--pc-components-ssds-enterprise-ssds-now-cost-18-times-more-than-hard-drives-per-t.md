@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: VDURA's latest flash index puts a 30TB TLC drive at $22,600 as NAND price
   increases settle.
 image: https://cdn.mos.cms.futurecdn.net/ubLsjyEs9ucDeiihQVupoD-970-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Enterprise SSD](https://cdn.mos.cms.futurecdn.net/ubLsjyEs9ucDeiihQVupoD.jpg) 

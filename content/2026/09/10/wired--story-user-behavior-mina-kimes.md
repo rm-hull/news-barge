@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: “I think that's been the most helpful thing,” says the ESPN journalist.
   “So there you go, Zoomers. There's a reason to have children.”
 image: https://media.wired.com/photos/6aa15272b402a7d627305b37/191:100/w_1280,c_limit/user-behavior-mina-kimes-web.jpg
+categories:
+- Technology & Software
+- Science
+- Family & Parenting
 ---
 
 *As an NFL analyst and podcast host, Mina Kimes consumes a lot of news online, but ask her to spend more than 15 minutes on “any social media platform” and you might have a problem. “It's like simultaneously pouring molasses into your brain and lighting it on fire,” she says.*

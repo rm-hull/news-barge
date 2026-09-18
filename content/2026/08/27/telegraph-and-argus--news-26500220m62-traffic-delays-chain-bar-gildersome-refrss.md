@@ -7,6 +7,11 @@ scraped_at: '2026-08-27T12:01:32Z'
 published: '2026-08-27T00:00:00Z'
 description: M62 traffic delays between Chain Bar and Gildersome
 image: https://www.thetelegraphandargus.co.uk/resources/images/21378481.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Highways England Motorway Cameras)*

@@ -9,6 +9,12 @@ published: '2026-08-22T00:00:00Z'
 description: A company responsible for maintaining the automatic doors used by thousands
   of passengers is marking its long-standing relationship with Teesside…
 image: https://www.thenorthernecho.co.uk/resources/images/21356491.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: Supplied)*

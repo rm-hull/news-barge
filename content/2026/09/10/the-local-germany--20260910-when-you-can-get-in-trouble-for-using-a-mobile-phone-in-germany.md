@@ -9,6 +9,11 @@ description: From checking a message at a red light to filming at a swimming poo
   Germany has some surprisingly strict rules around mobile phone use. Here's where
   people most commonly run into problems.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-470031604.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Technology & Software
 ---
 
 In Germany the consequences of reaching for your phone at the wrong time can range from a fine and penalty points on your licence to being removed from a venue or, in some cases, even facing criminal charges.

@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Cambridge United sign central defender Cathal Heffernan from Harrogate
   Town for an undisclosed fee on a four-year contract.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bf0e/live/18b3e7e0-a221-11f1-8bb7-3f1da52063dd.jpg
+categories:
+- Local
+- Harrogate
+- History
+- Sports
 ---
 
 ![Cathal Heffernan, in the colours of Cambridge United, leaning his back against the goalpost while looking towards the camera](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/bf0e/live/18b3e7e0-a221-11f1-8bb7-3f1da52063dd.jpg)

@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: The attorney for Clancy, who strangled her three children, says she suffered
   from postpartum psychosis
 image: https://i.guim.co.uk/img/media/5b61ad6e6f625285f98a82270013f6f8eb16e97d/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8fe5ff36a9efed6100b6574ab2f76865
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Hundreds of Lindsay Clancy supporters, many wearing pink clothing emblazoned with phrases such as “Believe”, “She Needed Help” and “Peace For Lindsay”, gathered on Thursday outside the courthouse where she is on trial in the killings of her three children.

@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Lord David Blunkett said political donations – including from trade unions
   – should be capped
 image: https://static.independent.co.uk/2026/09/09/15/2293670173..?trim=0,4,0,4&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A Labour peer has urged the government to impose a cap on political donations – including from trade unions – amid concerns over Reform UK’s £72 million donation from crypto-billionaires.

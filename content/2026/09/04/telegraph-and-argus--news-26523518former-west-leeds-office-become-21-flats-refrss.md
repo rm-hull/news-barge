@@ -9,6 +9,12 @@ published: '2026-09-04T00:00:00Z'
 description: More than 20 flats could be created in a former office building if plans
   can be agreed with the city council.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21412552.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 *(Image: Logic Architecture.)*

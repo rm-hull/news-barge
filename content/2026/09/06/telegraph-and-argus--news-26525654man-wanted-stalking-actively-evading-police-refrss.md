@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Police are asking for information to help them find a man wanted on suspicion
   of stalking.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21415926.jpg?type=og-image&xType=0&yType=79
+categories:
+- Local
+- Bradford
+- News & Politics
+- Law & Justice
 ---
 
 *(Image: W Yorks Police)*

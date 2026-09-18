@@ -10,6 +10,9 @@ description: Army Secretary Dan Driscoll joins long list of exits from Defense S
   top team, with the president said to be ‘surprised’ by the number of senior departures.
   Joe Sommerlad reports
 image: https://static.independent.co.uk/2026/08/28/14/ANTHROPIC-PENT%C3%81GONO-FALLO_59434.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Army Secretary Dan Driscoll has become the latest high-ranking U.S. military official to leave the Pentagon amid reports of tensions with Secretary Pete Hegseth.

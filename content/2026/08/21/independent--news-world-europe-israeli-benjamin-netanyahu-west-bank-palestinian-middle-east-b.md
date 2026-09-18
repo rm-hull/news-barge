@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Israeli settlers have killed a Palestinian teenager after a rock-throwing
   incident in the occupied West Bank
 image: https://static.independent.co.uk/2026/08/21/15/APTOPIX_Israel_Palestinians_Gaza_48666.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A Palestinian teenager was killed by Israeli settlers Friday after a rock throwing incident in the occupied West Bank.

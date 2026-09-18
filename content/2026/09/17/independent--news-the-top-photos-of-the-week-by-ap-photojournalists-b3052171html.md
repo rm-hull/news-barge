@@ -9,6 +9,10 @@ description: Sept. 11 - 17, 2026 This photo gallery, curated by photo editor Ani
   Baca, highlights some of the most compelling images worldwide published by The Associated
   Press in the past week.
 image: https://static.independent.co.uk/2026/09/17/22/APTOPIX_Yemen_War_5667_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Sept. 11 - 17, 2026 This photo gallery, curated by photo editor Anita Baca, highlights some of the most compelling images worldwide published by The Associated Press in the past week.

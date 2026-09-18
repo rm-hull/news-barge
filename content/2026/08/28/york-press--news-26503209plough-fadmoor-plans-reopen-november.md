@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: The Plough in Fadmoor is undergoing a transformation in preparation for
   reopening as a 'wet bar' serving drinks and snacks.
 image: https://www.yorkpress.co.uk/resources/images/21383185.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 ## North Yorkshire pub made famous by Jon Richardson TV show plans November re-opening

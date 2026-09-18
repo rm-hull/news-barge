@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: President Donald Trump is moving toward imposing a new tariff on China
   to penalize Beijing for flooding the global market with underpriced goods
 image: https://static.independent.co.uk/2026/08/24/22/Trump_84728.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 President Donald Trump is moving toward levying a new tariff on China that would penalize the world’s second-largest economy for flooding the global market with underpriced goods, according to three people familiar with the matter.

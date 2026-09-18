@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Shooting in city’s west happens day after a university student is killed
   during home invasion
 image: https://static.independent.co.uk/2026/09/01/12/12/1783921147467.jpeg?trim=531,0,532,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 New South Wales police said they were investigating whether a man shot dead in western Sydney was a victim of mistaken identity, in what could be the second such case in less than 48 hours.

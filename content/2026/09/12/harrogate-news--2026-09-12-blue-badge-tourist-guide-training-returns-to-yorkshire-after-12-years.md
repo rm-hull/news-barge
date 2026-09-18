@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Official Blue Badge Tourist Guide training returns to Yorkshire for the
   first time since 2014. Applications close on Friday 9 October 2026.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/blue-badge-yorjshire.webp
+categories:
+- Local
+- Harrogate
+- Sports
+- Travel
 ---
 
 **HARROGATE** — Professional tourism training is set to return to the region for the first time in more than a decade, as applications officially open for the prestigious Yorkshire Blue Badge Tourist Guide Training Course.

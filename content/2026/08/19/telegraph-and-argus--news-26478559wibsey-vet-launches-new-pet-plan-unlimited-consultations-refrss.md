@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Local vet launches a pet healthcare plan with unlimited vet visits and
   no exclusions for long-term health conditions
 image: https://www.thetelegraphandargus.co.uk/resources/images/21313885.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Nico Russell)*

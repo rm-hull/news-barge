@@ -7,6 +7,9 @@ scraped_at: '2026-09-09T12:56:46Z'
 published: '2026-09-09T00:00:00Z'
 description: Chrome to get two-weekly updates from this month
 image: https://cdn.mos.cms.futurecdn.net/ZfhFwGtGeLFq7LEuTgCMbD-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Silhouette of a hand holding a padlock infront of the google chrome logo](https://cdn.mos.cms.futurecdn.net/ZfhFwGtGeLFq7LEuTgCMbD.jpg) 

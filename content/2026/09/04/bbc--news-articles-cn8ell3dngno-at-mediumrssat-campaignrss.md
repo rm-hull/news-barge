@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Aardman turns 50 with stories of cat-like Gromit, silent Shaun and Chicken
   Run's Oscar legacy.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/99a1/live/0415f3a0-a609-11f1-83fc-0df57e6b3866.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![A stopmotion character of Wallace is waving and smiling at the camera with his arm round Gromit. Gromit the dog is giving him some serious side eye](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/99a1/live/0415f3a0-a609-11f1-83fc-0df57e6b3866.jpg)

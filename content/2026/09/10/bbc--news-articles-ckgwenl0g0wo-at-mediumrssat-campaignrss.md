@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: The pop star will play 25 more dates on his Together, Together tour,
   including three in the London.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/28b9/live/8efd3280-ad16-11f1-826f-933990eae6f0.jpg
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
+- Music
 ---
 
 ![Harry Styles on stage in Wembley](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/abef/live/87cccb20-ad15-11f1-826f-933990eae6f0.jpg)

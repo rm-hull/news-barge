@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Protesters teargassed as minister claims widespread raids and arrests
   under obscenity laws were to ‘protect families’
 image: https://i.guim.co.uk/img/media/05b06b3fcb4eb46de069d43257c05ceb778aae5b/436_0_3731_2985/master/3731.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=14ef6e1892a70ae16805c5890f701ca2
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Turkish authorities have used accusations of obscenity to justify a wave of raids and arrests targeting the LGBTQ+ community, which has grown to include journalists as well as more than 150 arrested during protests against the raids.

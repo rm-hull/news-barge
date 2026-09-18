@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: A dog jumped up and allegedly bit a woman in the face in North Yorkshire,
   prompting a police appeal.
 image: https://www.yorkpress.co.uk/resources/images/21376369.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: North Yorkshire Police)*

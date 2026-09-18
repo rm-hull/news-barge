@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The government says £110m has been fast-tracked from existing budgets
   to speed up the building of new cells.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fba4/live/5f7934c0-a558-11f1-9acf-19576105f049.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![A prison guard in a white top and black trousers walks down a prison hallway. The walls and floor are white.](https://ichef.bbci.co.uk/ace/standard/944/cpsprodpb/fba4/live/5f7934c0-a558-11f1-9acf-19576105f049.jpg)

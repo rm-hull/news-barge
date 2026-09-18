@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A North Yorkshire theme park named among the UK's cheapest has won gold
   for its newest attraction.
 image: https://www.thenorthernecho.co.uk/resources/images/21460247.jpg?type=og-image&xType=0&yType=129
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Lightwater Valley)*

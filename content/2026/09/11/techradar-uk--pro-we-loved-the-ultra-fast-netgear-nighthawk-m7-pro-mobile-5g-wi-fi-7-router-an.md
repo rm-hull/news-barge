@@ -9,6 +9,8 @@ description: Netgear's Nighthawk M7 Pro impressed us during tests, with the Wi-F
   7 5G travel router scoring 4.5 stars. Now the £200 discount gives it an all-time
   low price.
 image: https://cdn.mos.cms.futurecdn.net/zxzDJBrC6ETGSdAZxiwran-1200-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Netgear Nighthawk M7 Pro](https://cdn.mos.cms.futurecdn.net/zxzDJBrC6ETGSdAZxiwran.jpg) 

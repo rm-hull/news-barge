@@ -7,6 +7,12 @@ scraped_at: '2026-09-02T12:45:01Z'
 published: '2026-09-02T00:00:00Z'
 description: It is unclear how the vehicle ended up stuck on the beach
 image: https://static.independent.co.uk/2026/09/02/9/03/Jam_Press_JMP907529.jpeg?trim=282,0,108,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Automotive
+- Travel
+- Technology & Software
 ---
 
 A car was found stranded on a beach in Cornwall after getting stuck in the sand as the rising tide gradually closed in.

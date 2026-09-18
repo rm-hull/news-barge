@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: North Yorkshire Police is appealing for information and witnesses after
   cabling was stolen from a hospital in Harrogate
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjU4YjQ0NDMwLWU4NDgtNGRmNC1iMjlkLWQzYWNmOGVmNjIxMjphOTI4ZGI1NC02ZmJiLTRkYWItYTQwOS01NTk5ZjcyNmFjYjg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- True Crime
+- News & Politics
 ---
 
 # North Yorkshire Police launch investigation after large amount of cabling stolen overnight from Harrogate hospital

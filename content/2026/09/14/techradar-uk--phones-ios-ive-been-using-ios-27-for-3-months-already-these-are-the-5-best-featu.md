@@ -9,6 +9,8 @@ published: '2026-09-14T00:00:00Z'
 description: From clever new photo tricks to the extended abilities of Siri AI, there's
   lots to dig into with the new iOS 27 update.
 image: https://cdn.mos.cms.futurecdn.net/hq8dB5952PqZEJMSkKHFp-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![iOS 27 installation](https://cdn.mos.cms.futurecdn.net/hq8dB5952PqZEJMSkKHFp.jpg) 

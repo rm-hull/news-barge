@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: A mile-long trail of light installations is set to illuminate the grounds
   of a historic estate.
 image: https://www.gazetteherald.co.uk/resources/images/21413524.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
+- History
 ---
 
 A mile-long trail of light installations is set to illuminate the grounds of a historic estate in North Yorkshire.

@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Two people have been released on conditional bail as Cleveland Police
   continues a crackdown on serious and organised crime in the wake of the fatal…
 image: https://www.thenorthernecho.co.uk/resources/images/21358362.jpg?type=og-image&xType=0&yType=35
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Two people have been released on conditional bail as Cleveland Police continues a crackdown on serious and organised crime in the wake of the fatal A66 crash.

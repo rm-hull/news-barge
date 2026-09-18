@@ -9,6 +9,10 @@ description: Erling Haaland's goal helps Manchester City win a highly controvers
   Manchester derby at rivals Manchester United despite playing with 10 men for more
   than 70 minutes.
 image: https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b340/live/90bde590-af98-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 # Haaland scores controversial winner as Man City win derby despite Foden red

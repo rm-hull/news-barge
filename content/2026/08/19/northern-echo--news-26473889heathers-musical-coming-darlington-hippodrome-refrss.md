@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: Heathers The Musical will visit Darlington Hippodrome as part of its
   UK tour, bringing the hit stage adaptation of the cult film to the North East…
 image: https://www.thenorthernecho.co.uk/resources/images/21334812.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

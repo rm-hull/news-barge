@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T01:54:31Z'
 published: '2026-08-21T00:00:00Z'
 description: Fighter jets were scrambled to destroy the drone near Neptun Deep
 image: https://static.independent.co.uk/2026/08/20/16/2026-08-20T113725Z_609477295_RC2A2NAIDULW_RTRMADP_3_UKRAINE-CRISIS-ROMANIA-DRONE-MARINE.JPG?trim=0,246,0,246&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Romania scrambled F-16 fighter jets to destroy a suspected Russian marine drone spotted a few hundred metres from a Black Sea gas project.

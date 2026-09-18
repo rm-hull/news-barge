@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: A wildfire that exploded in size in Reno, Nevada, over the weekend has
   forced authorities to urge more than 90,000 residents to leave their neighborhoods
 image: https://static.independent.co.uk/2026/08/24/16/US_Western_Wildfires_25254.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A wildfire that mushroomed over the weekend in the Sierra Nevada foothills spread perilously close to neighborhoods in Reno, Nevada, forcing authorities to urge more than 90,000 residents to leave their homes.

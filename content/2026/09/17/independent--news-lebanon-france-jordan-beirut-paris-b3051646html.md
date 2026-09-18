@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Leaders from Lebanon, France and Jordan are meeting in Paris to support
   Lebanon's struggling military
 image: https://static.independent.co.uk/2026/09/17/06/Lebanon_Israel_7278_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The heads of state of Lebanon, France and Jordan will meet Thursday in Paris as part of an effort to drum up support for the struggling Lebanese military.

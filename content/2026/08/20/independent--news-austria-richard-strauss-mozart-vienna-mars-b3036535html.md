@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: Conductor Manfred Honeck and his brother, violinist Rainer, are making
   a rare joint appearance at the Salzburg Festival
 image: https://static.independent.co.uk/2026/08/20/17/Honeck_Brothers_61322.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Society & Culture
 ---
 
 Austrian conductor Manfred Honeck was walking out of a rehearsal with soprano Christina Nilsson and the Vienna Philharmonic at the Haus für Mozart when they passed a violinist who had just been practicing with them.

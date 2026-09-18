@@ -10,6 +10,10 @@ description: Tributes have been paid after the passing of a hugely respected Har
   man who gave so much to so the town's life and its civic and charity groups and
   was honoured by The Queen.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjIzYzFlMGM3LWQzZmQtNDBkOC05YjA0LTUxNGVmNzIyNTc0MzowMDkwYTYwNS1iMWRmLTRlODQtOTE3ZC1kNDA1MDRhYmQ3ZjA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 # Obituary: 'Much-loved' Harrogate man who received CBE for a lifetime of service and achievement

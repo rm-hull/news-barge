@@ -9,6 +9,9 @@ description: While companies promise they can help users monitor gut health, exp
   suggest that smart toilets provide little in the way of benefits to the average
   person.
 image: https://media.wired.com/photos/6a9883d13546f162bf781bd5/191:100/w_1280,c_limit/smart-toilets-poop-scan.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 It was only a matter of time before wellness trackers—already out there trying to optimize our heart rate, sleep, stress, steps, blood sugar, and menstruation—came for perhaps the most private biosignal of all: our poop.

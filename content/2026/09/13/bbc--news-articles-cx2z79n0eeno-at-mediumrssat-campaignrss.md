@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: The US president was speaking at the Irish Open on Sunday and said "many
   people agree" with his comments.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31a6/live/33fb3fc0-af7e-11f1-913a-7151f234deb3.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![U.S. President Donald Trump attends the Amgen Irish Open at Trump International Golf Links in Doonbeg, Ireland. He is wearing a white USA baseball cap, navy blazer with a white shirt. He has his arms outstretched.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/3cfe/live/0240b380-af82-11f1-913a-7151f234deb3.jpg)

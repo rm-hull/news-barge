@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Tom Witten has joined Pantera Advisory Group to lead plant and machinery
   services.
 image: https://www.yorkpress.co.uk/resources/images/21409557.jpg?type=og-image&xType=0&yType=63
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: Pantera)*

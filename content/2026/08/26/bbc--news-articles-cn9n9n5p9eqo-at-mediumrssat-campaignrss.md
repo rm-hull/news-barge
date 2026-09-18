@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Experts have identified six key skills that will count as much as qualifications
   in getting and keeping a job in the coming decade.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fc9/live/d826c8d0-a1e1-11f1-b132-bb16290da3a7.png
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 ![Woman standing in the foreground, wearing a dark jacket and top, facing the camera inside a clothing retail display. Behind the person is a rail of waxed jackets on wooden hangers and a green sign reading “Barbour”. Additional jackets hang on the wall, including a checked garment. A plaque on the left displays the text “Barbour Re-Loved”. The setting appears to be a branded clothing shop or exhibition area.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/9fc9/live/d826c8d0-a1e1-11f1-b132-bb16290da3a7.png)

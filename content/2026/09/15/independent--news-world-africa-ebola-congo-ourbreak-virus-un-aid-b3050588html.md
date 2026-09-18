@@ -10,6 +10,11 @@ description: The number of new cases reported each day has fallen from about 120
   the height of the outbreak in mid-August to around 80, but the UN says it is too
   early to say it has peaked
 image: https://static.independent.co.uk/2026/09/15/15/2026-09-11T225814Z_974833403_RC2EQLA1YH2M_RTRMADP_3_HEALTH-EBOLA-CONGO.JPG?trim=0,62,0,62&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Sports
 ---
 
 The world’s fastest-growing Ebola outbreak is showing signs of slowing in parts of the Democratic Republic of Congo (DRC), but United Nations health officials have warned it is too early to say the epidemic has passed its peak.

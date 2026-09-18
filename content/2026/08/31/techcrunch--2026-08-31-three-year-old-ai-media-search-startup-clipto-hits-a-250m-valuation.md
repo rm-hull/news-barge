@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The three-year-old startup says it reached $15 million in ARR and profitability
   before raising its latest $15 million round.
 image: https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 Generative AI is making it easier to produce more content and harder to keep track of it. As videos, recordings, and documents accumulate, Adobe, Apple, Google, and a growing number of startups are using AI to make those files searchable. It is not yet clear whether that will support a new category of standalone software or become a standard feature of products people already use.

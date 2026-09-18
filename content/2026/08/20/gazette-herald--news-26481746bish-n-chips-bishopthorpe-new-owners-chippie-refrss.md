@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: The owner of the much-loved Bish'n'Chips, who is leaving in a few weeks,
   says the business will continue under new owners.
 image: https://www.gazetteherald.co.uk/resources/images/21349869.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 The owner of a much-loved York fish and chip shop who is leaving in a few weeks, says the business will continue under new owners.

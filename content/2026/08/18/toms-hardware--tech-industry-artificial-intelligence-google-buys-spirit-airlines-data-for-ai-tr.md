@@ -9,6 +9,11 @@ scraped_at: '2026-08-18T13:03:50Z'
 published: '2026-08-18T00:00:00Z'
 description: This treasure trove of data came at a relatively affordable $10 million.
 image: https://cdn.mos.cms.futurecdn.net/ZzgySZCJ2cZQFra87qg2Yh-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![a closed Spirit Airlines gate after the shutdown of the company](https://cdn.mos.cms.futurecdn.net/ZzgySZCJ2cZQFra87qg2Yh.png) 

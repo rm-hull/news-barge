@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Ravenseat could be worth a visit if you are in the Yorkshire Dales, as
   it is home to Our Yorkshire Farm's Amanda Owen and her family.
 image: https://www.thenorthernecho.co.uk/resources/images/19836640.jpg?type=og-image&xType=0&yType=273
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Channel 4/PA Wire)*

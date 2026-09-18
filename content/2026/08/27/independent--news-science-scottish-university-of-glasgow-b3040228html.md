@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: A company has been formed to spin out an approach which tackles harmful
   bacteria in potato crops.
 image: https://static.independent.co.uk/2026/08/27/11/9e1253589169987622269106721bfd11Y29udGVudHNlYXJjaGFwaSwxNzg3OTA5MTk3-2.6093342.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Scottish researchers have developed a new approach to protect potato crops from diseases which cost the industry around £50 million a year.

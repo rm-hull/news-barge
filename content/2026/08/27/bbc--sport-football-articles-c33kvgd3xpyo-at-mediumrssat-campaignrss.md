@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Liverpool are close to agreeing a deal with Paris St-Germain for Bradley
   Barcola - adding to the doubt surrounding Cody Gakpo's Anfield future.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e132/live/2a1deab0-a1f1-11f1-bf30-b9c45f18ad85.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Bradley Barcola](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e132/live/2a1deab0-a1f1-11f1-bf30-b9c45f18ad85.jpg)

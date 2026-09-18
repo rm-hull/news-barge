@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Lady Joan Branson died after suffering a cardiac arrest at the private
   Lister Hospital in Chelsea last year.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9be2/live/c5509620-ac75-11f1-80f0-9795d1a5edbc.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Lady Joan and Sir Richard Branson pictured together in 2018.](https://ichef.bbci.co.uk/ace/standard/912/cpsprodpb/9be2/live/c5509620-ac75-11f1-80f0-9795d1a5edbc.jpg)

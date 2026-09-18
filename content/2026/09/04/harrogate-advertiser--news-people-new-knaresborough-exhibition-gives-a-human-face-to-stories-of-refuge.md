@@ -10,6 +10,11 @@ description: One of the organisers of a new exhibition in Knaresborough devoted 
   the lives of refugees in North Yorkshire says she was “often moved to tears” by
   hearing their experiences first-hand.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmE1MjY3MDJjLWYxN2QtNDg2MC04NDNlLWE4YjM5NWVhYWNhMTpkOTZhMWRmZS05MGY2LTRmZWQtODllYS0zYmQ5MzM2ODcxNTA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Arts & Culture
+- Society & Culture
 ---
 
 # New Knaresborough exhibition gives a 'human face' to stories of refugees who have settled in North Yorkshire

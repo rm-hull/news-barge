@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Police are urging more victims of a 'predatory' former Teesside church
   deacon to come forward after he was jailed for eight and a half…
 image: https://www.thenorthernecho.co.uk/resources/images/21176478.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: PA/MET POLICE)*

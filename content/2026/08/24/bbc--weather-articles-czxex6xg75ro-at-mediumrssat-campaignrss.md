@@ -9,6 +9,10 @@ description: Some much-needed rainfall is forecast through the coming week and w
   be welcome for places that have seen exceptionally dry and hot weather for much
   of the summer.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/95ad/live/783ab3a0-9f02-11f1-8ab2-7700e58d1417.png
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![A man and a woman walk through torrential rain while holding umbrellas](https://ichef.bbci.co.uk/ace/standard/926/cpsprodpb/95ad/live/783ab3a0-9f02-11f1-8ab2-7700e58d1417.png)

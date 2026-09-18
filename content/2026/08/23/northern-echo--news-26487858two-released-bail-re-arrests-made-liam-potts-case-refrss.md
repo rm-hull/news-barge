@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Two men have been re-arrested on suspicion of manslaughter following
   the death of a man in the River Tyne.
 image: https://www.thenorthernecho.co.uk/resources/images/21357755.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: NORTH NEWS LTD/NORTHUMBRIA POLICE)*

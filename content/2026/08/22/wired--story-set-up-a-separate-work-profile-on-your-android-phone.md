@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: It is possible to achieve your desired work-life balance on your smartphone.
   Just set up separate accounts using this built-in Android feature.
 image: https://media.wired.com/photos/6a878f4d964ec62bf0f4ca72/191:100/w_1280,c_limit/Setting-Up-Work-Profile-Android-Phone-Gear.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Our phones have become do-it-all gadgets. They enable us to keep in touch with one another, track how many steps we're taking each day, snap photos of everything, and access the collective knowledge of humanity. All that universal functionality extends across both our work and personal lives.

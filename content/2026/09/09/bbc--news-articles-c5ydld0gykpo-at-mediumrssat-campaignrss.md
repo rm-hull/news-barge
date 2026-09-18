@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: The president also said oil prices won't come down until after the November
   races, claiming without evidence that Iran wants to impact the election.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a150/live/628e6b60-aca8-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 Watch: Trump says Iran war will end "immediately" after US midterm elections

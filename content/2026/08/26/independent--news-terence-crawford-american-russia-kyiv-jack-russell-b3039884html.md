@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: President Volodymyr Zelenskyy of Ukraine has been captured on video cuddling
   a three-month-old American pit bull terrier named Freya
 image: https://static.independent.co.uk/2026/08/26/19/Russia_Ukraine_War_17628.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Wait. President Volodymyr Zelenskyy, Ukraine's war chief, holding a puppy?

@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Job seekers are trying to game the application process using AI. It’s
   not working, and not for the reasons you might think.
 image: https://media.wired.com/photos/6a9822cefee0db870262b29d/191:100/w_1280,c_limit/AIvsAIJob.jpg
+categories:
+- Technology & Software
+- Science
+- Careers & Productivity
 ---
 
 Jodi Beggs' résumé got dinged for being two pages long. She used her middle initial on one document but not another, which also cost her points. If she changed “percent” to the % sign, her score went up.

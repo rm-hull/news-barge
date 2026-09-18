@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The round came together after the data center developer reportedly secured
   a $13 billion contract with Jane Street.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2245923419.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 Data center developer Crusoe, which counts Meta, Microsoft, and OpenAI as its customers, has raised a new $3 billion round at a $30 billion valuation, Bloomberg reported.

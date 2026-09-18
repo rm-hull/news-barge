@@ -7,6 +7,9 @@ scraped_at: '2026-09-11T19:08:50Z'
 published: '2026-09-11T00:00:00Z'
 description: Tame the greatest fear of all
 image: https://cdn.mos.cms.futurecdn.net/g6NwDo4XkJAhJiXsqWk7J3-2560-80.jpg
+categories:
+- Technology & Software
+- Health & Fitness
 ---
 
 ### TechRadar Verdict

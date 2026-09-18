@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: In a video posted on social media, the gang leader threatened to kill
   the hostages if any of his members were harmed.
 image: https://images.euronews.com/articles/stories/09/88/90/76/1200x675_cmsv2_f08a7695-8266-50ad-9765-0b3d584e1049-9889076.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## In a video posted on social media, the gang leader threatened to kill the hostages if any of his members were harmed.

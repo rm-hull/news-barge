@@ -8,6 +8,13 @@ published: '2026-08-30T00:00:00Z'
 description: A York construction company has seen an increase in profit margins despite
   a fall in turnover.
 image: https://www.gazetteherald.co.uk/resources/images/21383764.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 *(Image: Pic supplied)*

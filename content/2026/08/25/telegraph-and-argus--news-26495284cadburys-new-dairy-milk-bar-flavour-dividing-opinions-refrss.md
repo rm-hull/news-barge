@@ -8,6 +8,11 @@ scraped_at: '2026-08-25T20:41:11Z'
 published: '2026-08-25T00:00:00Z'
 description: A new Cadbury’s Dairy Milk chocolate bar flavour is dividing opinion.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21370114.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 A NEW Cadbury’s Dairy Milk chocolate bar flavour is dividing opinion.

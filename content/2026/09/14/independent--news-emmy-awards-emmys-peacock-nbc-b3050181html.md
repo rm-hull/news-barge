@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: 'The Emmy Awards are about to begin, hosted by Mariska Hargitay from
   “Law & Order: Special Victims Unit.”'
 image: https://static.independent.co.uk/2026/09/15/00/2_26_Emmy_Awards_-_Arrivals_81961.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Comedy & Entertainment
 ---
 
 The Emmy Awards are moments away.

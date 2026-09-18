@@ -9,6 +9,8 @@ published: '2026-09-11T00:00:00Z'
 description: Amazon has surprised us with its best-ever deal on the Kindle Scribe,
   dropping the excellent combined erearer and e-ink notepad to a new record-low price.
 image: https://cdn.mos.cms.futurecdn.net/TyufjZN9Ty6g2r9S6CoJgd-2496-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Amazon Kindle Scribe (2024)](https://cdn.mos.cms.futurecdn.net/TyufjZN9Ty6g2r9S6CoJgd.jpg) 

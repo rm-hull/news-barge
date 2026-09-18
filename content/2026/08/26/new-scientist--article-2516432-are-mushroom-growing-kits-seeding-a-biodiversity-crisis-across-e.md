@@ -10,6 +10,9 @@ description: What began as a seemingly harmless and delicious hobby may have rel
   an invasive species across the continent. Experts fear that these desirable fungi,
   now classed in the UK as "high risk", could radically reshape forest ecosystems.
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_285964902.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Yellow oyster mushroom, Mushroom cultivation, healthy organic food; Shutterstock ID 1964888608; purchase_order: -; job: -; client: -; other:](https://www.newscientist.com/wp-content/uploads/2026/03/02181517/SEI_285964902.jpg?w=840)

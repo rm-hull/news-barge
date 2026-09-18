@@ -8,6 +8,8 @@ scraped_at: '2026-08-19T21:32:08Z'
 published: '2026-08-19T00:00:00Z'
 description: Have we tried turning off society and turning it back on again?
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2231881863.jpg?resize=1200,800
+categories:
+- Video Gaming
 ---
 
 Have we tried turning off society and turning it back on again? We need a complete cultural reset, because there are actually sports betting providers that let people gamble on Little League World Series (LLWS) outcomes.

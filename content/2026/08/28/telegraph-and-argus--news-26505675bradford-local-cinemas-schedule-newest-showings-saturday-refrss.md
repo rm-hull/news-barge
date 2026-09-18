@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: BRADFORD cinema-goers have a packed Saturday of films, family entertainment
   and special screenings.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18984489.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 *(Image: Getty)*

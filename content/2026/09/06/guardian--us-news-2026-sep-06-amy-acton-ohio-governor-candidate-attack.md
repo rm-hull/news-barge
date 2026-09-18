@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Armed suspect Patrick Havas allegedly attacked Amy Acton during a campaign
   stop at a fair, injuring several people
 image: https://i.guim.co.uk/img/media/408db6cdf40d5fa11aa2aa2df62ac1d0a232bc30/172_0_3404_2724/master/3404.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd11605431d2fa414288c32bdb01789d
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Amy Acton, Democratic candidate for Ohio governor, was the target of an attack on Sunday during a campaign stop at the Canfield Fair, campaign officials said. Several people were injured when the armed assailant lunged at Acton.

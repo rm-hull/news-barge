@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: From fighting in Seacroft to representing abuse victims on the national
   stage, Alison Lowe is setto take her ‘Leeds values’ to the House of Lords.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/05/27/15/02/onecms_eaff0b1f-d300-4a45-8fbd-8111694920b5.jpeg?trim=132,0,132,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Exclusive:Alison Lowe interview: Seacroft fighter to take 'Leeds values' to House of Lords

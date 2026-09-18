@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Saudi authorities said operations at some energy facilities have been
   attacked by Yemen’s Iran-aligned Houthis
 image: https://i.guim.co.uk/img/media/97f80b3f42c838a89e39268d06585786978abb2c/298_0_3504_2803/master/3504.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7965137911c8371a01764211c12a1231
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 UK pays highest borrowing rate since 1998 in 30-year bond sale

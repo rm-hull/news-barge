@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A North-East woman who says yoga transformed her life has taken the next
   step in her journey by opening her own studio in Darlington.
 image: https://www.thenorthernecho.co.uk/resources/images/21447810.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: KENZIE HARRISON)*

@@ -7,6 +7,11 @@ scraped_at: '2026-08-25T13:08:14Z'
 published: '2026-08-25T00:00:00Z'
 description: Aldi has closed its 10-year-old Harrogate store for a revamp.
 image: https://www.gazetteherald.co.uk/resources/images/21368619.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Pic supplied)*

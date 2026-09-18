@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Residents have criticised a new Durham County Council rule requiring
   permits to dispose of fridges and freezers, warning it could lead to more…
 image: https://www.thenorthernecho.co.uk/resources/images/20783278.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 If you are planning on getting rid of your fridge or freezer, new rules are being implemented at County Durham recycling centres.

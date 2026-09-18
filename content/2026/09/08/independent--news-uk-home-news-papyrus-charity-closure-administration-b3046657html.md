@@ -7,6 +7,11 @@ scraped_at: '2026-09-08T19:25:47Z'
 published: '2026-09-08T00:00:00Z'
 description: The charity has been active for nearly 30 years
 image: https://static.independent.co.uk/2026/09/08/14/43/Papyrus-new-logo-July-2018-314x220-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Self-Improvement
 ---
 
 The youth suicide prevention charity Papyrus has collapsed into administration.

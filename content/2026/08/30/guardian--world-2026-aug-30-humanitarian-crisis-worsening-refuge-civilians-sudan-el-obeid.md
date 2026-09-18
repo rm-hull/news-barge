@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: More traumatised civilians are arriving every day at ‘shockingly overcrowded’
   El Obeid and camps on its outskirts
 image: https://i.guim.co.uk/img/media/d8bca429d9ad2a591d7f9ac06371092198b118b5/635_0_3165_2533/master/3165.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=23d253e27c6eaca5e2da8d7b761174f0
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Health & Fitness
 ---
 
 Humanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, according to people on the ground, as civilians displaced by fighting between the Sudanese Armed Forces and Rapid Support Forces (RSF) militia continue to pour in from the surrounding countryside.

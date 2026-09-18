@@ -9,6 +9,8 @@ published: '2026-08-30T00:00:00Z'
 description: With the era of plug-in solar coming to the UK, what does this mean for
   those with increasing electricity bills?
 image: https://cdn.mos.cms.futurecdn.net/UBmBPCF7Db4mL959ePtUM-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A balcony solar panel next to a man with a solar panel under his arm](https://cdn.mos.cms.futurecdn.net/UBmBPCF7Db4mL959ePtUM.jpg) 

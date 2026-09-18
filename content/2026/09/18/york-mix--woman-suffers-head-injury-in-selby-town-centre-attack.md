@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T13:00:03Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/finkle-street-selby-zulu-lounge-gsv.jpg
+categories:
+- Local
+- York
+- Sports
 ---
 
 A woman was left in hospital after an attack in Selby.

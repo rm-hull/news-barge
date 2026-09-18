@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: STUDENTS and staff at Whitworth Park Academy in Spennymoor are celebrating
   after the school achieved its best ever GCSE results.
 image: https://www.thenorthernecho.co.uk/resources/images/21348818.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 STUDENTS and staff at Whitworth Park Academy in Spennymoor are celebrating after the school achieved its best ever GCSE results.

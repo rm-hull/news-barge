@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Stay up to date with Berlin news in English. Find out what's going on
   in the city, from politics to culture, transport and events.
 image: https://www.the-berliner.com/wp-content/uploads/2026/09/imago0865826313h-scaled.jpg
+categories:
+- Berlin
+- Germany
+- News & Politics
 ---
 
 ## News

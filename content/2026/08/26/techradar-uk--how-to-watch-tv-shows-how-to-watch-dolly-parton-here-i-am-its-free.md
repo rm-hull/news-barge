@@ -8,6 +8,8 @@ published: '2026-08-26T00:00:00Z'
 description: Following the heartbreaking loss of the country icon, stream the definitive
   Dolly Parton documentary for the ultimate, raw tribute
 image: https://cdn.mos.cms.futurecdn.net/pmj3ifTUMKNFPeEdFHRSVF-2560-80.png
+categories:
+- Technology & Software
 ---
 
 ![Dolly Parton: Here I Am](https://cdn.mos.cms.futurecdn.net/pmj3ifTUMKNFPeEdFHRSVF.png) 

@@ -11,6 +11,9 @@ published: '2026-09-17T00:00:00Z'
 description: Guild Wars 3 will be the first game in the MMORPG franchise to launch
   on console, and ArenaNet thinks it will encourage newcomers.
 image: https://cdn.mos.cms.futurecdn.net/LC3k7Ynwi6fhyasGQpKL4J-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Guild Wars 3](https://cdn.mos.cms.futurecdn.net/LC3k7Ynwi6fhyasGQpKL4J.jpg) 

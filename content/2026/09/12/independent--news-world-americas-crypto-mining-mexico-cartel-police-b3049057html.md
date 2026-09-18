@@ -7,6 +7,10 @@ scraped_at: '2026-09-12T12:10:00Z'
 published: '2026-09-12T00:00:00Z'
 description: It is the fourth crypto farm uncovered in the area since early last year
 image: https://static.independent.co.uk/2026/09/12/12/2026-09-12T110020Z_1448971642_RC2BFNA5GE80_RTRMADP_3_MEXICO-CRYPTO.JPG?trim=0,126,0,126&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Nestled in the lush green mountains of Central Mexico, next to a sparsely traveled gravel road, few people had reason to wander close enough to hear the loud, mechanical whirring of a clandestine cryptocurrency farm.

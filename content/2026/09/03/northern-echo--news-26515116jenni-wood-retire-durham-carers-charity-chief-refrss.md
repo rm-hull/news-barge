@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Jenni Wood, chief executive of Durham County Carers Support (DCCS), is
   stepping down after nearly 25 years of service.
 image: https://www.thenorthernecho.co.uk/resources/images/21400748.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 A leading figure in social care is set to retire after nearly 25 years of service.

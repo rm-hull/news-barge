@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The Environmental Protection Act 1990 allows councils to take action
   if waste is left in a way that causes a nuisance or poses a risk to public…
 image: https://www.gazetteherald.co.uk/resources/images/15498620.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Getty)*

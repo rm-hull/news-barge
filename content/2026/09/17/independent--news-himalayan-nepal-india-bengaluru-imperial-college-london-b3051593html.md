@@ -10,6 +10,11 @@ description: Human-caused global warming resulting in the Himalayan permafrost t
   was, in part, responsible for the catastrophic glacier and boulder collapse last
   month
 image: https://static.independent.co.uk/2026/09/17/01/Climate_Nepal_Permafrost_Thaw__7456.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- Travel
 ---
 
 Human-caused global warming thinned glaciers and thawed mountain permafrost, likely helping to destabilize the Himalayan slope that collapsed last month and unleashed catastrophic flooding across Nepal, according to a report released Thursday.

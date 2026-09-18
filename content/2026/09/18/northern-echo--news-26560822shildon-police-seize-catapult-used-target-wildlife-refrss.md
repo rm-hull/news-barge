@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: A catapult has been seized in Shildon after police said it had been used
   to target wildlife and cause criminal damage.
 image: https://www.thenorthernecho.co.uk/resources/images/21470927.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 A catapult has been seized in Shildon after police said it had been used to target wildlife and cause criminal damage, as officers warn of an increase in youth-related anti-social behaviour.

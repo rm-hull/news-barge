@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: The UK's Foreign Secretary Ed Miliband pledged on Tuesday to introduce
   a "comprehensive reset" of policy on Israel.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a5b/live/71d0d490-a628-11f1-b384-1f35d0eeee9d.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Israeli Foreign Minister Gideon Saar attends the inaugural Board of Peace meeting at the U.S. Institute of Peace in Washington, D.C., U.S., February 19, 2026.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/9a5b/live/71d0d490-a628-11f1-b384-1f35d0eeee9d.jpg)

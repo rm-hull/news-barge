@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Rebeka Richardson, 25, of Esh Winning, has received a community order
   after admitting assaulting two police officers on duty in County Durham.
 image: https://www.thenorthernecho.co.uk/resources/images/19749067.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: NORTHERN ECHO)*

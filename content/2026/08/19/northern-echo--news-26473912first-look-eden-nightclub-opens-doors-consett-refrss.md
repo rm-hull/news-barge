@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Take a first look inside a new County Durham nightclub that opened its
   doors for the first time last week.
 image: https://www.thenorthernecho.co.uk/resources/images/21333912.jpg?type=og-image&xType=0&yType=1174
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 A new nightclub has opened its doors in County Durham, with partygoers testing it out for the first time.

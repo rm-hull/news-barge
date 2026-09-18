@@ -9,6 +9,8 @@ published: '2026-09-07T00:00:00Z'
 description: Saber Interactive doubles down on its enthusiasm for AI in game development
   — but are you sold?
 image: https://cdn.mos.cms.futurecdn.net/MDxBDbHvd76HX3N7sCxQka-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Triptych of Grace Ashcroft in Resident Evil: Requiem, Gordon Freeman and Alyx Vance in Half-Life 2, and Lara Croft in Tomb Raider: Legacy of Atlantis](https://cdn.mos.cms.futurecdn.net/MDxBDbHvd76HX3N7sCxQka.jpg) 

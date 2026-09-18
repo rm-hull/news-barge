@@ -8,6 +8,8 @@ scraped_at: '2026-09-01T13:28:36Z'
 published: '2026-09-01T00:00:00Z'
 description: Smile, you're on camera.
 image: https://cdn.mos.cms.futurecdn.net/tF6Dk5vQsUhHSncd9yVHya-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Police are appealing for witnesses after a black Range Rover was deliberately
   damaged on Tentergate Road in Knaresborough.
 image: https://mmo.aiircdn.com/409/6aac06396dbc58f5160.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![](https://mmo.aiircdn.com/409/6aac06396dbc58f5160.jpg) 

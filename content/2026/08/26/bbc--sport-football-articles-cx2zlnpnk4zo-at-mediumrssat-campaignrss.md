@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Newcastle United agree a deal worth up to £52m for Manchester City midfielder
   Nico Gonzalez.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8de4/live/0483cd70-a123-11f1-92eb-a9b3bbcf6f4a.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Nico Gonzalez in action for Manchester City](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8de4/live/0483cd70-a123-11f1-92eb-a9b3bbcf6f4a.jpg)

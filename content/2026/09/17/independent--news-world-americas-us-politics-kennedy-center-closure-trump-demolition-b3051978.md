@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: DOJ says the institution will close ‘temporarily’ for repairs after the
   president publicly mentions its potential demolition
 image: https://static.independent.co.uk/2026/09/17/15/2295088964..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A federal judge has ordered Donald Trump’s administration to provide at least 30 days’ notice before making any physical changes to the Kennedy Center — including demolishing it.

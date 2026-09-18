@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Five-star rated North Yorkshire electrical installation company has gone
   into liquidation with reported debts approaching £200,000.
 image: https://www.yorkpress.co.uk/resources/images/21425665.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Street View)*

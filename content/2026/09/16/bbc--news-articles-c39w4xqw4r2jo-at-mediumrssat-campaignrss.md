@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Her husband says the playwright and cultural and political commentator
   died after a brief illness.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/402c/live/b5617f70-b1c7-11f1-8493-1910d79d53eb.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![Bonnie Greer speaks on stage as she introduces "The Lost Man" as part of BFI Screen Epiphanies at the BFI Southbank in London in 2016](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/402c/live/b5617f70-b1c7-11f1-8493-1910d79d53eb.jpg)

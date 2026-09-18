@@ -9,6 +9,8 @@ published: '2026-08-19T00:00:00Z'
 description: Comcast’s Xfinity routers can sense people’s presence in your home, but
   many users are worried.
 image: https://cdn.mos.cms.futurecdn.net/DwoVjUeDrwQfw32dsruQ6E-2560-80.jpeg
+categories:
+- Technology & Software
 ---
 
 ![Modem router on a table in a living room. A woman using a laptop while sitting on the sofa is in background. Selective focus.](https://cdn.mos.cms.futurecdn.net/DwoVjUeDrwQfw32dsruQ6E.jpeg) 

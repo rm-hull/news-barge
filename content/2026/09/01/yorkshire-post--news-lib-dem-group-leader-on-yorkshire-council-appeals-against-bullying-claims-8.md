@@ -8,6 +8,12 @@ published: '2026-09-01T00:00:00Z'
 description: The Lib Dem leader of the opposition on East Riding Council has appealed
   against an internal party complaints panel’s finding that he bullied colleagues.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjNjZjg4ODg2LWNmNDEtNDRkNS04ODliLWIyY2RlM2I2ZGZlNTo5ODFlNzZiNi03MGZjLTRkMTUtYTIzYy00M2NiNmUzMDkwNzg=.jpg?crop=3:2,smart&trim=&width=257&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 # Lib Dem group leader on Yorkshire council appeals against 'bullying' claims

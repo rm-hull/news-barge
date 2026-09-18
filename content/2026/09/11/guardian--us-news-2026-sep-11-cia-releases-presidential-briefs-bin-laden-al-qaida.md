@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: The presidential briefing documents were declassified on the 25th anniversary
   of the September 11 attacks
 image: https://i.guim.co.uk/img/media/eafd39b81c8d7eb3b17b57dadec3659f4686aa0c/46_0_3291_2633/master/3291.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a1d2fc0c8b134bdfc3b78b0060d5f39
+categories:
+- UK
+- News & Politics
+- History
+- Society & Culture
 ---
 
 Several dozen presidential briefing documents declassified on Friday, the 25th anniversary of the September 11 attacks, detail intelligence that government officials had gathered about Osama bin Laden and al-Qaida leading up to the hijackings that killed nearly 3,000 people and upended American national security.

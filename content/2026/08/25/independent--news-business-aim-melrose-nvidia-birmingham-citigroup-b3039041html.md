@@ -7,6 +7,11 @@ scraped_at: '2026-08-25T16:51:42Z'
 published: '2026-08-25T00:00:00Z'
 description: The FTSE 100 Index closed up 31.84 points at 10,886.16.
 image: https://static.independent.co.uk/2026/08/25/17/2f2b4808b62cfcceec613f363b52a91cY29udGVudHNlYXJjaGFwaSwxNzg3NzU3NjAx-2.23909499.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The FTSE 100 closed higher on Tuesday as oil prices fell and investors geared up for Wednesday’s double bill of earnings from Nvidia and US inflation data.

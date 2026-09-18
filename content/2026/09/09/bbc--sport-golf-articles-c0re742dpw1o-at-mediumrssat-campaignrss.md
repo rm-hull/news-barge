@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Golf's main tours are expecting a lot of interest in rejoining from LIV
   golfers – but the path back might not be so easy.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/075a/live/435550c0-ac4d-11f1-96a2-2f464854ded4.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Golfer Bryson DeChambeau putts in front of a big blue and white LIV Golf sign](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/584c/live/36426000-aba1-11f1-8e72-a346833ed029.jpg)

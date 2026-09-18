@@ -8,6 +8,11 @@ scraped_at: '2026-09-08T12:51:21Z'
 published: '2026-09-08T00:00:00Z'
 description: A Victorian seafront property in Whitby has been listed for sale at £1.6m.
 image: https://www.gazetteherald.co.uk/resources/images/21421708.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 A Victorian seafront property in Whitby has been listed for sale at £1.6million.

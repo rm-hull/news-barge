@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: Prime minister intervenes amid anger at news Tony Burke was planning
   to cut intake of 20,000 arrivals by a third
 image: https://i.guim.co.uk/img/media/8b3ba39f2825fb8d9ee714062325601626cb1cad/1201_0_3399_2720/master/3399.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=17f684774556bb83d278a0efee1b0865
+categories:
+- UK
+- News & Politics
 ---
 
 Anthony Albanese has guaranteed Australia’s annual refugee intake will not be cut next financial year, shutting down plans for the arrivals quota to drop by one-third to Coalition-era levels.

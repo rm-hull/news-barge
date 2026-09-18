@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: A prisoner has been handed an additional six weeks in custody after being
   found guilty of assaulting a prison officer in a County Durham jail.
 image: https://www.thenorthernecho.co.uk/resources/images/13568165.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: Newsquest)*

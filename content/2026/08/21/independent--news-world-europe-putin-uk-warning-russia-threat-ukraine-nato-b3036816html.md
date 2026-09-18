@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Putin’s posturing is a poor attempt to scare off broader Western support
   for Kyiv, say experts. Suha Kidwai reports
 image: https://static.independent.co.uk/2026/08/18/10/download.-2.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Kremlin has often issued threats that Britain will “pay a higher price” for its role in Ukraine — as it did again this week following reports of British-made drones striking deep inside Russian territory — But Moscow’s sabre-rattling is rarely meant for Britain alone.

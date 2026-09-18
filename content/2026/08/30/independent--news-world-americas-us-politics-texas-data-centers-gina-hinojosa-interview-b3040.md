@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: Gina Hinojosa talks to Eric Garcia about the growing backlash in Texas
   and how it could feed a ‘bite back’ against Republicans in November
 image: https://static.independent.co.uk/2026/08/28/7/47/Data-Center-Indycomp-US.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Most of the national focus in Texas has been on the Senate race between Democratic state legislator James Talarico and Donald Trump-endorsed Attorney General Ken Paxton. Polling largely shows Talarico either leading or in a dead heat with Paxton.

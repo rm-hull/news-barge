@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Fire crews with water-dropping aircraft have attacked a small wildfire
   that prompted new evacuations along California’s remote Big Sur coast
 image: https://static.independent.co.uk/2026/08/28/02/Western_Wildfires_71979.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Fire crews with water-dropping aircraft attacked a small wildfire that prompted new evacuations Thursday along California's remote Big Sur coast, where a much larger blaze has been burning for nearly three weeks.

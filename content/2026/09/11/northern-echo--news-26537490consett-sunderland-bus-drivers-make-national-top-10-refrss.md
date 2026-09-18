@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Two bus drivers for Go North East have been recognised among the best
   in the country after securing top-10 finishes in a national competition.
 image: https://www.thenorthernecho.co.uk/resources/images/21433329.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Go North East)*

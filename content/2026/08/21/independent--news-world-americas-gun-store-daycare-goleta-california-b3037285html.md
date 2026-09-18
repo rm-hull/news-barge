@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: A group of community members has launched a petition to stop the gun
   store from opening
 image: https://static.independent.co.uk/2026/08/21/18/2235439380..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Residents of a breezy beach community in California are up-in-arms over the fact that a gun store is opening next to one of the city's daycares.

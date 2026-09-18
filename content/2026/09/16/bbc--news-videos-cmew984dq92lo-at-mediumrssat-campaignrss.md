@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The BBC goes inside a fortified storage facility to view luxury goods
   seized by police that are now up for auction.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3418/live/b104b7d0-b181-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 # Handbags, jewels, watches: Inside Singapore's dirty money auction

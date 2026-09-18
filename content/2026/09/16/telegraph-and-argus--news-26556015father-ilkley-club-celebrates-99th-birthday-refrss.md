@@ -7,6 +7,11 @@ scraped_at: '2026-09-16T19:33:22Z'
 published: '2026-09-16T00:00:00Z'
 description: The ‘father’ of an Ilkley club has celebrated his 99th birthday.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21459193.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: UGC)*

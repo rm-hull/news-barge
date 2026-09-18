@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: The president shares a misleading video which appears to show Charles
   shrugging and walking away from a man who fainted during a royal visit.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/874d/live/cea15540-aba1-11f1-aed2-8d6da8d75094.png
+categories:
+- UK
+- News & Politics
 ---
 
 Watch: President Trump posts edited video of King Charles

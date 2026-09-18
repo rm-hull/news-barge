@@ -8,6 +8,9 @@ scraped_at: '2026-08-19T13:09:51Z'
 published: '2026-08-19T00:00:00Z'
 description: India and Vietnam welcome Google.
 image: https://cdn.mos.cms.futurecdn.net/ceKmANbAUpZDdiZiCqjU9e-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Google](https://cdn.mos.cms.futurecdn.net/ceKmANbAUpZDdiZiCqjU9e.jpg) 

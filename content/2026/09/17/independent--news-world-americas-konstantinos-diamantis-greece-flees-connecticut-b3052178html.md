@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The former Democratic state representative was found guilty by a federal
   jury last year after being charged with extortion
 image: https://static.independent.co.uk/2025/10/22/17/Budget_Official_Investigation_39499.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A former high-ranking Connecticut budget authority has fled to Greece using a combination of boat and air travel prior to a federal corruption sentencing, according to statements made by prosecutors and defense counsel to a judge on Thursday.

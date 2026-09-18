@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A woodland witch trail, zombie laser tag and a pumpkin patch are among
   the family-friendly highlights coming to Stockeld Park.
 image: https://www.gazetteherald.co.uk/resources/images/21366759.jpg?type=og-image&xType=0&yType=11
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Stockeld Park)*

@@ -9,6 +9,12 @@ published: '2026-09-10T00:00:00Z'
 description: Council officers are continuing to face a “sustained heavy workload”
   dealing with complaints about the conduct of councillors in North Yorkshire.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmU1ZjEyMzUyLWNjNzQtNGQxMi05MTk0LTkwNjQxM2RjNjFjMzplMGExNTgwNi0xZTNlLTRkOWYtOGEzMS04OWE1MDA1ODIwOGM=.jpg?crop=3:2,smart&trim=&width=572&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 # North Yorkshire Council officers facing 'heavy workload' due to complaints about councillors

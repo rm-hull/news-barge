@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: It has been a rollercoaster ride for 'cockroach' party founder Abhijeet
   Dipke who gained celebrity status overnight.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/12b0/live/35802020-ad0f-11f1-a035-c91dffce51bf.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 The BBC's Yogita Limaye speaks to Abhijeet Dipke as he visits a school in rural India

@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Rugby league commentator Matt Newsum says Sir Billy Boston was a "world-class
   athlete, whose story deserved to be told".
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4e34/live/bc31b550-a078-11f1-bf10-9547e884d7b7.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Billy Boston in a black and white photo looks forward](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/4e34/live/bc31b550-a078-11f1-bf10-9547e884d7b7.jpg)

@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Yorkshire Water has been urged to 'get its act together' following concerns
   over a prolonged leak.
 image: https://www.gazetteherald.co.uk/resources/images/21466693.jpg?type=og-image&xType=0&yType=723
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Freelancer)*

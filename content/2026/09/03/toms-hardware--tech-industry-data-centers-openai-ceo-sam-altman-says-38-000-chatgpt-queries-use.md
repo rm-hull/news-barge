@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: “For every 38,000 ChatGPT queries, that is the same amount of water that
   is used in the production of single almond in California.”
 image: https://cdn.mos.cms.futurecdn.net/rw7Lei27qRFKGy9CThFftZ-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Sam Altman](https://cdn.mos.cms.futurecdn.net/rw7Lei27qRFKGy9CThFftZ.jpg) 

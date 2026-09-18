@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: COMEDY fans in Ilkley can look forward to an evening of live stand-up
   this weekend.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20833992.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Comedy & Entertainment
+- Lifestyle & Fashion
 ---
 
 *(Image: Google Street View)*

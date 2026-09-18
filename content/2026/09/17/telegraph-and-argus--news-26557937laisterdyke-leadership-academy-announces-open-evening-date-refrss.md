@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: AN academy will open its doors to prospective pupils and their families
   during a Year 7 open evening.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21466555.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Self-Improvement
 ---
 
 *(Image: Supplied)*

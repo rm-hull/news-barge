@@ -9,6 +9,8 @@ published: '2026-08-27T00:00:00Z'
 description: 'Grand Theft Auto: San Andreas VR has finally come to the Meta Quest
   3'
 image: https://cdn.mos.cms.futurecdn.net/JtA5FFYUnXkV8TKLbfpcp9-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Grand Theft Auto San Andreas](https://cdn.mos.cms.futurecdn.net/JtA5FFYUnXkV8TKLbfpcp9.jpg) 

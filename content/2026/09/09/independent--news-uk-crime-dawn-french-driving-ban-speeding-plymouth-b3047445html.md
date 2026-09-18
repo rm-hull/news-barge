@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The Vicar of Dibley star, 68, was caught breaking a 30mph speed limit
   by a camera last July
 image: https://static.independent.co.uk/2023/06/15/10/newFile.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Comedian Dawn French has been disqualified from driving for six months for speeding.

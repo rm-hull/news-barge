@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: World-renowned tango singer Martín Alvarado will perform at Selby Town
   Hall on Saturday, September 12.
 image: https://www.gazetteherald.co.uk/resources/images/21422873.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Music
 ---
 
 Argentinian tango is taking centre stage in Selby this weekend.

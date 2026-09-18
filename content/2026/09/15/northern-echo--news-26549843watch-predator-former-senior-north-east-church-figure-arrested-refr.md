@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Footage of the arrest of a former Billingham church leader who preyed
   on vulnerable young men has been release after he was jailed.
 image: https://www.thenorthernecho.co.uk/resources/images/21454688.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 Footage of the arrest of a former North East church leader who preyed on vulnerable young men has been release after he was jailed.

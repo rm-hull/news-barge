@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: Millions of people receiving Universal Credit, Child Benefit, Carer's
   Allowance and the State Pension could see their payments rise from April…
 image: https://www.gazetteherald.co.uk/resources/images/21221049.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Peter Byrne/PA Wire)*

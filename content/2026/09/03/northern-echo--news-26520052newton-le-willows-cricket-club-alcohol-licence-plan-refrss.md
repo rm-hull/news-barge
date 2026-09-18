@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Plans to allow alcohol to be served at Newton-le-Willows Cricket Club’s
   new pavilion are to go before councillors after a neighbour raised…
 image: https://www.thenorthernecho.co.uk/resources/images/21095264.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 Plans to allow alcohol to be served at Newton-le-Willows Cricket Club’s new pavilion are to go before councillors after a neighbour raised concerns about noise, lighting and the impact on wildlife.

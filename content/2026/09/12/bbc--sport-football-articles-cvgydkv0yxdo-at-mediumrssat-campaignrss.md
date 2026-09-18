@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Toothless Spurs' draw a blank again and are now in danger of seeing a
   brave new era turn into a false dawn, says chief football writer Phil McNulty.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3de9/live/8e5977b0-aef3-11f1-80b4-ff059604bee1.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Tottenham's wait for league goal continues after Everton draw

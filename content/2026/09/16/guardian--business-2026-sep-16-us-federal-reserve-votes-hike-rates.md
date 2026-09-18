@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Fed committee votes unanimously to raise interest rate by a quarter-percentage
   point to a range of 3.75% to 4%
 image: https://i.guim.co.uk/img/media/46b23287fa99f9dedd2afd3fdba6402033b94c13/145_0_4882_3907/master/4882.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc0b1b6410fddcd9ea597e21a68b4f04
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 The US Federal Reserve voted to raise interest rates on Wednesday for the first time since 2023 as the central bank continues to fight to tamp down inflation.

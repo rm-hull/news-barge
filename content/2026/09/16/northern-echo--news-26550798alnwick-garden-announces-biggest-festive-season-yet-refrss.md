@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: The Alnwick Garden is gearing up for its biggest festive season yet,
   with tickets on sale for a Christmas programme packed with a light trail,…
 image: https://www.thenorthernecho.co.uk/resources/images/21432516.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Phil Wilkinson)*

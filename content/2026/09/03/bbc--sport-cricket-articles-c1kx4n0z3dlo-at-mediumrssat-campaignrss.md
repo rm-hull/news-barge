@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Sussex paceman Henry Crocombe takes a second hat-trick in consecutive
   games as Essex lose their last seven wickets for six runs.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6c98/live/86f1eb00-a7b0-11f1-b78b-6b70b0a83270.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Sussex bowler Henry Crocombe celebrates with his mouth open](https://ichef.bbci.co.uk/ace/standard/944/cpsprodpb/6c98/live/86f1eb00-a7b0-11f1-b78b-6b70b0a83270.jpg)

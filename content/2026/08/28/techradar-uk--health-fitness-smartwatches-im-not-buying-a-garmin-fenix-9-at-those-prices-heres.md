@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: The Garmin Fenix 9 is an expensive smartwatch, but there are plenty of
   other options on the table.
 image: https://cdn.mos.cms.futurecdn.net/4UHozLaE4mS9GQqVYzfFL6-1500-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![The Garmin Fenix 9 Pro smartwatch.](https://cdn.mos.cms.futurecdn.net/4UHozLaE4mS9GQqVYzfFL6.jpg) 

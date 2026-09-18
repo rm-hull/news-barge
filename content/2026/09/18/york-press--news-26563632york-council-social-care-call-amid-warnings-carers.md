@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Unsung heroes becoming exhausted, isolated and are reaching their breaking
   point, the head of a York organisation has warned.
 image: https://www.yorkpress.co.uk/resources/images/17374830.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 ## 'Unsung heroes' are 'exhausted, isolated and at breaking point'- York warning

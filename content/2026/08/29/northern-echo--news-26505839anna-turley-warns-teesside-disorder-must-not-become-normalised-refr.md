@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Redcar and Cleveland MP Anna Turley says Teesside violence must not become
   normalised as police, politicians and residents respond to days of unrest.
 image: https://www.thenorthernecho.co.uk/resources/images/21383199.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Violent disorder across Teesside has sparked urgent calls for action from politicians and police leaders after days of unrest left communities living in fear.

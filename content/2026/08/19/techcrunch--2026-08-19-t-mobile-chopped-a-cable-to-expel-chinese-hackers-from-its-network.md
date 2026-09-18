@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: The U.S. phone provider escaped a large-scale breach of its network after
   identifying Chinese-backed hackers early on.
 image: https://techcrunch.com/wp-content/uploads/2025/01/t-mobile-store-times-square.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 New reporting from Bloomberg revealed how cybersecurity staff at U.S. phone provider T-Mobile identified and expelled Chinese hackers from its network in 2024 during a spate of industry-wide intrusions by Beijing aimed at stealing customer data.

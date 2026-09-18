@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Prosecutors say their no-parole demand is harsh but is called for by
   nature of crime
 image: https://static.independent.co.uk/2025/07/07/7/51/AUSTRALIA-CRIME-COURT-MUSHROOM-lp021zyj.jpeg?trim=0,273,0,272&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Australian mushroom killer Erin Patterson should never be freed from prison because the “nature of the offending” demanded so, prosecutors told Victoria’s appeals court on Thursday.

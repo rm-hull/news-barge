@@ -9,6 +9,10 @@ description: More than 4 in 10 (43 per cent) of voters believe the Green Party l
   is doing a bad job, compared to 24 per cent who think the same of the Restore Britain
   leader
 image: https://static.independent.co.uk/2026/08/06/08/2281563630..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 More voters believe Restore Britain’s Rupert Lowe is doing a good job leading his party than Zack Polanski, according to a new survey.

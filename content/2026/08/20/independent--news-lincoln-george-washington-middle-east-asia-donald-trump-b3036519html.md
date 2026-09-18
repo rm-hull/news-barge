@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The U.S. military says the Asia-based USS George Washington aircraft
   carrier is now operating in the Middle East
 image: https://static.independent.co.uk/2026/08/13/19/Iran_US_Aircraft_Carrier_37624.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The Asia-based USS George Washington aircraft carrier is now operating in the Middle East, the U.S. military said Thursday, relieving a long-deployed carrier following reports of mental health challenges and supply shortages aboard while it was supporting the Iran war.

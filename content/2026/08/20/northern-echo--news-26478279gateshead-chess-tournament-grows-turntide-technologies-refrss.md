@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: An employee-led chess tournament is continuing to grow in the North East,
   bringing colleagues together through friendly competition and a shared…
 image: https://www.thenorthernecho.co.uk/resources/images/21342350.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: Supplied)*

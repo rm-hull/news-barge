@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Eligible women aged between 30 and 65 will be sent invitations through
   the NHS app, text message, email or by letter
 image: https://static.independent.co.uk/2026/02/19/12/3ad7159972ae03d158a2c25c4cf03e55Y29udGVudHNlYXJjaGFwaSwxNzcxNTg4NjAw-2.82201705.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Free at-home testing kits are to be sent to millions of women in England on the NHS who have missed their cervical screening appointments.

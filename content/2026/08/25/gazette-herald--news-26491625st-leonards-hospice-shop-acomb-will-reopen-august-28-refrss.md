@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A popular hospice charity shop - which has served customers in a York
   suburb for 35 years - is set to reopen after a major refurbishment project.
 image: https://www.gazetteherald.co.uk/resources/images/21365898.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 A POPULAR hospice charity shop - which has served customers in a York suburb for 35 years - is set to reopen after a major refurbishment project.

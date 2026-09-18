@@ -10,6 +10,9 @@ description: Decades after it was posited as a foundational principle of quantum
   Richard Feynman’s “path integral” has been directly measured in an experiment for
   the first time
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309575998.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Higgs boson, conceptual illustration](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309575998.jpg?w=840)

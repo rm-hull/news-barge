@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: In addition to the outages, water quality problems over the years have
   created widespread mistrust of Puerto Rico’s water system
 image: https://static.independent.co.uk/2026/08/20/15/04/GettyImages-2288530142.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Imagine turning on your kitchen faucet and nothing comes out. Not for an hour, but for two full days. Then the water returns, only to stop again two days later.

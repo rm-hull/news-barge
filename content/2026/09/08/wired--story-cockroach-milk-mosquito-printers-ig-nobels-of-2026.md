@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: Every year, the prizes recognize the weirdest research that often raises
   some very serious scientific questions.
 image: https://media.wired.com/photos/6aa056924ee73bc2e37a3111/191:100/w_1280,c_limit/2292854766
+categories:
+- Technology & Software
+- Science
 ---
 
 Achievements that first make people laugh and then make them think. That’s the motto of the Ig Nobel Prizes, an annual competition that—parodying the Nobel Prizes—recognizes some of the world’s most unusual scientific studies. The organization Improbable Research has been hosting the event since 1991 with the aim of showing that science also has a humorous side in its quest to meaningfully answer questions about the world.

@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: An award-winning pet superstore is set to open its doors in County Durham
   next month.
 image: https://www.thenorthernecho.co.uk/resources/images/21342853.jpg?type=og-image&xType=0&yType=31
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Dave Charnley)*

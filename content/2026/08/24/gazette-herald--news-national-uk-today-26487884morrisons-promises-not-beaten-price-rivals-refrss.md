@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Morrisons has promised customers it will not be beaten on price by supermarket
   rivals.
 image: https://www.gazetteherald.co.uk/resources/images/21085981.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

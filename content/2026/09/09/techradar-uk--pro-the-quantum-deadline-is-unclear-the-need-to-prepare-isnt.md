@@ -7,6 +7,9 @@ scraped_at: '2026-09-09T12:56:27Z'
 published: '2026-09-09T00:00:00Z'
 description: The quantum clock is already ticking
 image: https://cdn.mos.cms.futurecdn.net/Vnzhig9TKriKCaFGiYi92E-1920-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Quantum computing](https://cdn.mos.cms.futurecdn.net/Vnzhig9TKriKCaFGiYi92E.jpg) 

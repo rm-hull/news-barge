@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: 55 per cent of candidates encountered intimidation or abuse during their
   campaigns
 image: https://static.independent.co.uk/2026/05/07/10/2274936297.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 More than half of all candidates standing in this year’s local elections suffered abuse and harassment, triggering growing alarm over the safety of democratic representatives.

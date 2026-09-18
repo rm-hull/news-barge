@@ -8,6 +8,11 @@ scraped_at: '2026-09-10T19:06:26Z'
 published: '2026-09-10T00:00:00Z'
 description: Two men have been arrested after a Bradford jewellers was "attacked".
 image: https://www.thetelegraphandargus.co.uk/resources/images/21437192.jpg?type=og-image&xType=0&yType=226
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Newsquest)*

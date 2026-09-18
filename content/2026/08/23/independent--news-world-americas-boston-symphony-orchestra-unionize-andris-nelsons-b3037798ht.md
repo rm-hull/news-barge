@@ -7,6 +7,11 @@ scraped_at: '2026-08-23T20:35:39Z'
 published: '2026-08-23T00:00:00Z'
 description: The orchestra’s season is set to open September 17
 image: https://static.independent.co.uk/2022/04/12/15/Boston_Symphony_Orchestra_Tour_Canceled_41495.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
+- Arts & Culture
 ---
 
 Musicians at the Boston Symphony Orchestra voted Saturday to authorize the ensemble's first strike in 145 years.

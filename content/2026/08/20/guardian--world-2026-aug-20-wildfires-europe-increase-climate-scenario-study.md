@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Improvements in fire management however could mitigate increases by more
   than 70%, study shows
 image: https://i.guim.co.uk/img/media/28593c78036b3512fac3fa9d3e73bf0ae711a3c8/141_0_4520_3616/master/4520.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02e2a2c2ea20bff48d51df2e72fd31ef
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Wildfires are projected to burn 39% more of Europe by the end of the century even in the best-case scenario for stopping the planet from heating, a study has found, unless action is taken to manage them better.

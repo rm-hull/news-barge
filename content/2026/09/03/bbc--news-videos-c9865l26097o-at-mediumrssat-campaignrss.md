@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: The feminist icon who became leader of the women's liberation movement
   in the US died on Wednesday at the age of 92, according to her foundation.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b065/live/f9583d50-a7a8-11f1-a7ad-37a1f7dc081c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- History
 ---
 
 # Watch: Gloria Steinem dedicated her life to fight for women's equality

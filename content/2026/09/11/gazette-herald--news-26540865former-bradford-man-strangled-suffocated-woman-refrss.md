@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: A man who strangled and suffocated a woman in Yorkshire is beginning
   a 15-month prison sentence. He appeared at court in Scarborough.
 image: https://www.gazetteherald.co.uk/resources/images/21435212.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 *(Image: West Yorkshire Police)*

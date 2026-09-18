@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: The mood is reportedly tense inside the White House as the Iran war drags
   on and Republicans head to potential defeat in midterms
 image: https://static.independent.co.uk/2026/08/01/13/2026-07-31T173757Z_311877760_RC23PMAPK364_RTRMADP_3_USA-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The mood inside the White House has reportedly taken a dive and numerous staffers could be heading towards the exit sometime soon, following Press Secretary Karoline Leavitt’s impending departure.

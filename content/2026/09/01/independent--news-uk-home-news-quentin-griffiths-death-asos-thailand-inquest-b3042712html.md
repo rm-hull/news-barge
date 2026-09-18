@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: A senior coroner observed a translated police report provided ‘very brief
   circumstances’ of Mr Griffiths’ death
 image: https://static.independent.co.uk/2026/09/01/11/17/f_38418938_1280-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Quentin Griffiths, the co-founder of the Asos fashion website, was alone when he died after a fall from an 18-floor apartment complex in Thailand, an inquest has heard.

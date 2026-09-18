@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: McLaren and Red Bull win their appeals against the result of the Monaco
   Grand Prix after a controversy over multiple incorrect pit-lane speeding penalties.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7d7f/live/c9ff38c0-a851-11f1-80f8-c33181935c5a.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Pierre Gasly's Alpine approaches the hairpin during the 2026 Monaco Grand Prix](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7d7f/live/c9ff38c0-a851-11f1-80f8-c33181935c5a.jpg)

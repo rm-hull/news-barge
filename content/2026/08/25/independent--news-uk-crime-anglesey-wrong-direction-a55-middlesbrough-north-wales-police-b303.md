@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: North Wales Police successfully stopped the vehicle being driven on the
   incorrect side of the A55 – North Wales Expressway – on Monday evening
 image: https://static.independent.co.uk/2026/08/25/10/39/TAxi-on-wrong-side-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Automotive
 ---
 
 The horrifying moment a taxi was caught driving on the wrong side of a busy dual carriageway has been caught on camera by a motorist who said he could have been killed.

@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: New pictures have shown demolition crews tearing down the asbestos-ridden
   Golden Eagle hotel floor by floor.
 image: https://www.thenorthernecho.co.uk/resources/images/21450368.jpg?type=og-image&xType=0&yType=108
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ### What is the Public Notice Portal?

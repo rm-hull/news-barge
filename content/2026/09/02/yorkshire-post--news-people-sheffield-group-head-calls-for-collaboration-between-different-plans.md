@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: The head of a Sheffield food organisation has said he wants to collaborate
   with a park Friends group over rival plans to regenerate former nursery land.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjA2OGFkN2YwLTBjYzYtNDI4Yy04NGI1LTNjODZiODcxNjI4ODowMzI3NzllYy0wM2I4LTQxZTktOWFkMS0xMjE5N2M5MmNkNTI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Sheffield group head calls for collaboration between different plans for old park nurseries

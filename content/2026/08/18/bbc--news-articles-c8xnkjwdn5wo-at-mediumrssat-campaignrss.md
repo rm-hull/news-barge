@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: An increased demand in wool has meant prices have increased more than
   70% in the last year.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78b5/live/3df8bb70-9ae7-11f1-930b-57cfba7235f9.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Different coloured woolly jumpers](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/e23f/live/564bf160-9ae2-11f1-b2f7-5d1639b20e22.jpg)

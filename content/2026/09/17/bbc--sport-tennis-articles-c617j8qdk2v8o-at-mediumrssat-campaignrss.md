@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Former world number one doubles player and six-time Grand Slam doubles
   champion Joe Salisbury retires from professional tennis.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f1ab/live/0aa9edf0-b281-11f1-94d0-89db86965db8.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![British tennis player Joe Salisbury](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/f1ab/live/0aa9edf0-b281-11f1-94d0-89db86965db8.jpg)

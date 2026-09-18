@@ -16,6 +16,10 @@ description: Andy Burnham jokingly compared his political journey to the story d
   as part of a special trilateral agreement between the UK, France and the London
   museum.
 image: https://cdn.jwplayer.com/v2/media/dLICYple/poster.jpg?width=720
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 ## Showing now | News

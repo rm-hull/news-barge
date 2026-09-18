@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T12:48:55Z'
 published: '2026-09-11T00:00:00Z'
 description: The late King Oyo cannot be buried until a successor is confirmed
 image: https://static.independent.co.uk/2026/09/11/12/2026-09-10T091709Z_2145161476_RC29GNAK3S70_RTRMADP_3_UGANDA-KING.JPG?trim=0,30,0,30&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The Ugandan government is working urgently to help resolve a fierce royal succession conflict within the Tooro Kingdom following the death of monarch Oyo Nyimba at the age of 34.

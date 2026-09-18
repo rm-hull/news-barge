@@ -8,6 +8,9 @@ published: '2026-09-07T00:00:00Z'
 description: Video footage showed protesters facing up to police and shouting ‘stop
   the boats’ on Sunday evening
 image: https://static.independent.co.uk/2026/09/06/21/01M1W6EASBNAT7CGEHCXWV5C85.jpg?trim=176,0,176,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Hundreds of demonstrators descended on Portsmouth after migrants heading towards the Hampshire coast on a small boat were intercepted and brought ashore.

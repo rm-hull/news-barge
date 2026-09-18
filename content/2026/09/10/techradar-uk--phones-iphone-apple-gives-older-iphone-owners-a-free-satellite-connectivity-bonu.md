@@ -10,6 +10,8 @@ published: '2026-09-10T00:00:00Z'
 description: Apple is locking some features behind its latest iPhones while extending
   free coverage for others.
 image: https://cdn.mos.cms.futurecdn.net/G7A4i7aX74zNCoDraBW5Zk-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A picture being taken using Apple's iPhone Duo.](https://cdn.mos.cms.futurecdn.net/G7A4i7aX74zNCoDraBW5Zk.jpg) 

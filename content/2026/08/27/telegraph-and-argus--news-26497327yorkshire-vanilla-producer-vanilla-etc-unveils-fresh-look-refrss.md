@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: A family-run vanilla manufacturer has unveiled a new brand identity as
   it enters a fresh phase of growth.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21374237.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A FAMILY-RUN vanilla manufacturer has unveiled a new brand identity as it enters a fresh phase of growth.

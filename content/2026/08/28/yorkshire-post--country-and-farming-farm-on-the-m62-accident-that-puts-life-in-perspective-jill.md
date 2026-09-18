@@ -10,6 +10,11 @@ description: We’ve had some pretty quiet nights at the farm recently, so much 
   wide awake, staring at the ceiling unable to sleep. I, on the other hand have had
   absolutely no problems with the quiet and slept like a baby!
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVhOTVmYTAxLTMzZGMtNDllZi1iM2YxLTNkM2Q4NzZjMjkxZDo3NWZkNzBjNi1iYmNmLTQ3NTEtYmM3ZS0xZDgyM2E5ODA2NGM=.jpg?crop=3:2,smart&trim=&width=990&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # Farm on the M62: Accident that puts life in perspective - Jill Thorp

@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Luke Charters MP joined representatives from Persimmon to present a £3,000
   Community Champions grant to Fulford Football Club in York, funding…
 image: https://www.yorkpress.co.uk/resources/images/21448975.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: Supplied)*

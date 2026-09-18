@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Several papers feature actor Sydney Sweeney, who has been criticised
   by female athletes for posing nude for a sports betting company advert.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d082/live/4e5687c0-b097-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![The headline on the front page of the Times reads: "'Enhanced" checks may block £72m to Reform.'](https://ichef.bbci.co.uk/ace/standard/809/cpsprodpb/db2b/live/dabd1d60-b082-11f1-a540-61c3f7fc4e6c.jpg)

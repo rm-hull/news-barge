@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: East Riding Leisure Goole is entering the final phase of construction
   in Goole, with the new East Yorkshire leisure centre nearing completion ahead…
 image: https://www.yorkpress.co.uk/resources/images/21468656.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Supplied)*

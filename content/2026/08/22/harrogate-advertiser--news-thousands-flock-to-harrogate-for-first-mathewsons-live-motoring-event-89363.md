@@ -9,6 +9,10 @@ description: Thousands of people descended on the Great Yorkshire Showground tod
   as the stars of TV’s Bangers & Cash brought their first major Mathewsons Live event
   to Harrogate.
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/08/22/20/2026_08_22_19_14_41_702_ASH_9A9E60E9AEA2410CBA273066621BEA03.JPG?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 The inaugural two-day event got under way today, attracting families and classic car enthusiasts from across the region.

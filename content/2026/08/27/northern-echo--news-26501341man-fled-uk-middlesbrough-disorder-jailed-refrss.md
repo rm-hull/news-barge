@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Jamie Latham, 38, has been jailed for 33 months for attacking police
   during the 2024 Middlesbrough riots and fleeing the country to evade arrest.
 image: https://www.thenorthernecho.co.uk/resources/images/21380100.jpg?type=og-image&xType=0&yType=101
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: Cleveland Police)*

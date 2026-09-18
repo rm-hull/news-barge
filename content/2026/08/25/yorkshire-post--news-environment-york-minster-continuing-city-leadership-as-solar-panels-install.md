@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Solar panels fitted to the roof of York Minster have been celebrated
   after a record-breaking period of installations.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjA2YTAxOTQ0LWU5YTgtNGIxZC05ODdiLThkZDZkN2M2OWYyMDpkZjY0MDkzNy1mZDgyLTQwNzktODZjYy00NjkxZjZhYWU2MTU=.jpg?crop=3:2,smart&trim=&width=1033&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # York Minster 'continuing city leadership' as solar panels installations break records

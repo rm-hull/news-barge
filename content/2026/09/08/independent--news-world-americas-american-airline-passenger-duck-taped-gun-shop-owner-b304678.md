@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Out-of-control passenger allegedly launched into a racist and homophobic
   rant and refused to follow crew’s commands
 image: https://static.independent.co.uk/2026/09/07/12/29/Screenshot-2026-09-07-at-13-13-59-(3)-copy.jpeg?trim=17,192,547,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A New Jersey gun range owner and his employee have been identified as the passengers who stepped up and duct-taped an out-of-control traveler to his airplane seat after he had a meltdown on an American Airlines flight last week.

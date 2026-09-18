@@ -10,6 +10,10 @@ description: 'The strikes hit several regions, with Odesa suffering particularly
   At the same time, Kyiv is pursuing an operation against Russia''s "shadow fleet",
   aiming to choke off a key source of war funding #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/11/10/1200x675_cmsv2_844ddf80-2518-5b25-aa86-96ae698e4729-9911110.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## The strikes hit several regions, with Odesa suffering particularly badly. At the same time, Kyiv is pursuing an operation against Russia's "shadow fleet", aiming to choke off a key source of war funding

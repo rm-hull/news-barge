@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: An arrest has been made after a gunshot was heard amid a "disturbance
   involving weapons".
 image: https://www.thetelegraphandargus.co.uk/resources/images/21419764.jpg?type=og-image&xType=0&yType=8
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Google Maps)*

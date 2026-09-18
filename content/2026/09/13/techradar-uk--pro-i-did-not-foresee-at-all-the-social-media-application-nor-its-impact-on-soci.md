@@ -9,6 +9,9 @@ scraped_at: '2026-09-13T13:17:10Z'
 published: '2026-09-13T00:00:00Z'
 description: The camera-on-a-chip changed the way we view the world
 image: https://cdn.mos.cms.futurecdn.net/YWzvZ9LHMRskehLVGL9QoB-1600-80.jpg
+categories:
+- Technology & Software
+- Society & Culture
 ---
 
 ![NASA's Mars Curiosity Rover Taking A Selfie On Mars](https://cdn.mos.cms.futurecdn.net/YWzvZ9LHMRskehLVGL9QoB.jpg) 

@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Oil giant Chevron is expected to soon announce it will expand operations
   in Venezuela, a U.S. official said
 image: https://static.independent.co.uk/2026/09/01/18/Venezuela_Oil__458.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Oil giant Chevron is expected to announce it will expand operations in Venezuela, US official says

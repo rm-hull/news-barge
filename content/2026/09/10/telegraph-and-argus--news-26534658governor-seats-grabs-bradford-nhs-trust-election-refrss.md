@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: MEMBERS of the public are being invited to help shape the future of NHS
   services by standing as governors.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21429213.jpg?type=og-image&xType=0&yType=90
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: submitted)*

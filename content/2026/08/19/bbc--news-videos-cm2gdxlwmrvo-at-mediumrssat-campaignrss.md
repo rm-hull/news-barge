@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: The BBC's Bernd Debusmann explains who she is and how she came to hold
   such a prominent role in the US president's inner circle.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/64c9/live/834539a0-9c1e-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 # Watch: What to know about Trump's trusted aide Natalie Harp

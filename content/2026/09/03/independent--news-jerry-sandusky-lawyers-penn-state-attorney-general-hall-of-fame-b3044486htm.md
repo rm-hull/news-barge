@@ -10,6 +10,10 @@ description: Lawyers for former Penn State assistant football coach Jerry Sandus
   are asking to cancel a hearing that was scheduled to hear a claim that an accuser
   wants to recant allegations that Sandusky sexually abused him years ago
 image: https://static.independent.co.uk/2026/08/28/16/Jerry_Sandusky_85493.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Lawyers for former Penn State assistant football coach Jerry Sandusky asked Thursday to cancel a court date for a hearing over a claim that an accuser wants to recant allegations that Sandusky sexually abused him years ago.

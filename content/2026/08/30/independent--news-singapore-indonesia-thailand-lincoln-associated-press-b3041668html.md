@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: The U.S. aircraft carrier USS Abraham Lincoln has sailed past Singapore
   as it heads home
 image: https://static.independent.co.uk/2026/08/30/06/Indonesia_US_Carrier__7738.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 USS Abraham Lincoln sails past Singapore on its way home from Middle East

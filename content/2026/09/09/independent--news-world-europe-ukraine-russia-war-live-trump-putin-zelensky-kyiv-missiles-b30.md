@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: Russian ballistic missiles rain on Ukraine just a day after US peace
   envoys held a press conference in Kyiv alongside Zelensky
 image: https://static.independent.co.uk/2026/09/08/10/2026-09-05T180120Z_1029500386_RC25DNAIIK0N_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-USA.JPG?trim=56,0,56,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 ![](https://cdn.jwplayer.com/v2/media/BtplYZqx/poster.jpg?width=720)

@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: The prime minister has promised a crackdown on criminal gangs making
   money from dumping waste
 image: https://i.guim.co.uk/img/media/ad499d47c68c875b5490489b1a95bb31e9e8db89/572_0_2869_2295/master/2869.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=1140ebdeedbc3932d6901c6d59ac6946
+categories:
+- UK
+- News & Politics
 ---
 
 Almost one in four boys in England received top grades in maths while results in English improved across the board, helping to propel improved GCSE results for this year’s cohort of 16-year-olds.

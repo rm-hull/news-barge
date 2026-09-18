@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The Food Standards Agency (FSA) said that investigations had linked salmonella
   cases to imported eggs
 image: https://static.independent.co.uk/2025/10/17/18/50/iStock-1356240873.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 One person has died and hundreds have been taken ill following an outbreak of food poisoning across the country.

@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Oswaldo Pirela was detained after arriving in Texas on a work trip for
   the club
 image: https://static.independent.co.uk/2026/08/18/23/531648774..?trim=0,60,0,60&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A former Venezuelan baseball player currently working for the San Diego Padres was detained by federal immigration officers after arriving in Texas on a work trip for the club, according to statements from his family on Tuesday.

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: The 13 year old was dropped off at the all-boys boarding school by his
   parents, Prince William and Princess Catherine of Wales.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f51d/live/a2af8e40-ab9f-11f1-8e72-a346833ed029.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Family & Parenting
 ---
 
 # Prince George attends first day at Eton College

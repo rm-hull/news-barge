@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Training with Challenger 2 tanks and Apache gunships among the training
   cancelled, according to reports
 image: https://static.independent.co.uk/2026/07/23/14/2284897703..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Health & Fitness
 ---
 
 The British Army has reportedly been told to stop training personnel as financial pressures put the military under strain.

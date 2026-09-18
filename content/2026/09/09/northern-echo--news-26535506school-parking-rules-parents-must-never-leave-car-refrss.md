@@ -8,6 +8,13 @@ published: '2026-09-09T00:00:00Z'
 description: 'School run parking rules explained: where parents can and cannot stop,
   including yellow lines, school entrance markings, pavements, crossings and…'
 image: https://www.thenorthernecho.co.uk/resources/images/21425707.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
+- Family & Parenting
+- Society & Culture
 ---
 
 *(Image: Getty Images/iStockphoto)*

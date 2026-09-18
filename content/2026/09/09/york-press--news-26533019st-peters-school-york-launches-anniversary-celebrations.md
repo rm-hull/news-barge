@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: St Peter’s School in York, founded in AD 627 by St Paulinus, is marking
   1,400 years of history.
 image: https://www.yorkpress.co.uk/resources/images/21426958.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 ## One of UK's oldest schools marks 1,400 years with celebrations in York

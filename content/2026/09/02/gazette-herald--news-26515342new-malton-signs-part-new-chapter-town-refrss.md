@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: THE ENTRANCE signs to a North Yorkshire town have been replaced as part
   of a 'new chapter' for residents and businesses.
 image: https://www.gazetteherald.co.uk/resources/images/21401041.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- Arts & Culture
 ---
 
 THE ENTRANCE signs to a North Yorkshire town have been replaced as part of a 'new chapter' for residents and businesses.

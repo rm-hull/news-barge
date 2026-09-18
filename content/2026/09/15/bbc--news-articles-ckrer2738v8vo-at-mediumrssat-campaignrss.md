@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Inquiry chair Lady Justice Thirlwall set out how the culture of the health
   system created the conditions that enabled poor care and criminality.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6cfd/live/0c0070d0-b10e-11f1-9065-997784e11373.png
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Health & Fitness
 ---
 
 ![NHS staff](https://ichef.bbci.co.uk/ace/standard/922/cpsprodpb/6cfd/live/0c0070d0-b10e-11f1-9065-997784e11373.png)

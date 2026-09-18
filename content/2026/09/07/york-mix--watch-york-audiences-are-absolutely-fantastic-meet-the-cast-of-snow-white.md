@@ -8,6 +8,10 @@ scraped_at: '2026-09-07T19:54:13Z'
 published: '2026-09-07T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/snow-white-2026-ytr-cast.webp
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 Christmas is coming to York Theatre Royal – and we met the spellbinding cast of *Snow White and the Seven Dwarfs*.

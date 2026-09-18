@@ -9,6 +9,8 @@ published: '2026-09-03T00:00:00Z'
 description: Nvidia's RTX Spark headlines Lenovo's Yoga refresh at IFA, with two laptops,
   two pen-first tablets, and up to 128GB of unified memory
 image: https://cdn.mos.cms.futurecdn.net/AcyLnQZRWcT4KmdyLmF46i-2000-80.png
+categories:
+- Technology & Software
 ---
 
 ![A render of the Lenovo Yoga Pro 9n laptop](https://cdn.mos.cms.futurecdn.net/AcyLnQZRWcT4KmdyLmF46i.png) 

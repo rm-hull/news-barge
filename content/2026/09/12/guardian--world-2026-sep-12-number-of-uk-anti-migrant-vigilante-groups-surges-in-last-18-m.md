@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: 'Exclusive: Many ‘use community protection as a cover for racist thuggery’,
   raising concerns about fresh disorder'
 image: https://i.guim.co.uk/img/media/1d3264f3f0b1f662787fd1ed956a1aef214bc47c/1388_55_1945_1556/master/1945.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2943f2fe030b59cf795cb4e761947abf
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 At least 28 anti-migrant vigilante groups have formed in the UK in the last 18 months, ranging from unauthorised street patrols claiming to protect women and children to groups harassing migrants in France and blocking ports.

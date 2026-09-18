@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Thousands of people have gathered in Romania’s capital to set a Guinness
   World Record with a miles-long table made of recycled materials
 image: https://static.independent.co.uk/2026/09/12/20/Romania_Guinness_Record_45818.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Tens of thousands of people gathered in Romania ’s capital Saturday to sit down at a miles-long table to break a Guinness record and raise money for what organizers said will be the country's first pediatric psychiatry hospital.

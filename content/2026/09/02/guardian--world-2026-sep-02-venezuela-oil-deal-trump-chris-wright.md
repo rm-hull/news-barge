@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Energy secretary Chris Wright denies US seeks to ‘take’ country’s oil,
   saying deal is transformation of relations
 image: https://i.guim.co.uk/img/media/9810e808a587db16038c74232c1788c0649945f8/343_0_3434_2746/master/3434.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e6153d92db18b544ca058600ba0abdf6
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The US energy secretary, Chris Wright, has denied Washington is seeking to commandeer huge quantities of Venezuelan oil, amid growing criticism of Donald Trump’s energy deal with the country’s interim leaders.

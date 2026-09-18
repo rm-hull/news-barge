@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: A Harrogate homeless charity has welcomed new Government funding to tackle
   rough sleeping as an “enormous sign of commitment” from Prime Minister Andy Burnham.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmI2YmI4ODMwLTBiYTctNDMwYS05NjA2LTA2ZjRmYWQ3ZjIxMTpjNjBlZjUyYS1jYWM3LTRjZWEtOWI0Mi05MDUxMjIwMThhYTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Personal Finance & Investing
 ---
 
 # New £442m investment in tackling homelessness will help Harrogate's rough sleeping issues

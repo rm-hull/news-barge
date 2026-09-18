@@ -8,6 +8,11 @@ scraped_at: '2026-08-24T16:51:41Z'
 published: '2026-08-24T00:00:00Z'
 description: A memory record no one asked for
 image: https://cdn.mos.cms.futurecdn.net/G4YHFng8EzKzoEAcjKCD8k-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Corsair Vengeance DDR5](https://cdn.mos.cms.futurecdn.net/G4YHFng8EzKzoEAcjKCD8k.jpg) 

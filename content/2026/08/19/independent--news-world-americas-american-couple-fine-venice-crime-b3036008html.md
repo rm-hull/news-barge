@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: The couple could have faced a nearly $300 fine had they been caught on
   their run
 image: https://static.independent.co.uk/2026/06/10/13/2264298591..?trim=0,6,0,6&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 An American couple got a rude awakening to cultural and legal differences during a recent trip to Venice.

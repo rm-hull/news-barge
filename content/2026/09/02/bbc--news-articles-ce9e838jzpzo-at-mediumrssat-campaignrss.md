@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: The ride-hailing app has launched 15 self-driving taxis, but they will
   have safety drivers inside.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d608/live/9029a2e0-a6e7-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Automotive
 ---
 
 ![Zoe Kleinman in blue jeans and cream blouse standing next to a dark Wayve self-driving robotaxi on a London pavement.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/83e4/live/e5ad9e60-a6dd-11f1-acae-21b536d72e0e.jpg)

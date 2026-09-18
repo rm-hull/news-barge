@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Thomas Cook, loveholidays and DialAFlight ads all broke advertising rules
   by using terms such as ‘Eco Resort’, ‘Eco Hotel’ and ‘eco-conscious resort’.
 image: https://static.independent.co.uk/2026/09/09/00/08144104-983dfac2-9462-4833-ba4d-7310a6bc1b70.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Travel
 ---
 
 Ads for three travel firms have been banned for making misleading claims about the “eco” credentials of their holidays.

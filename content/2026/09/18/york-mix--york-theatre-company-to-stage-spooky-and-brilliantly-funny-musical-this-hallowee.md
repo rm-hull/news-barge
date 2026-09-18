@@ -7,6 +7,11 @@ scraped_at: '2026-09-18T19:01:42Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/Wharfemede-Productions-the-addams-family.webp
+categories:
+- Local
+- York
+- Music
+- Arts & Culture
 ---
 
 Everyone’s favourite kooky family are being brought to the stage in this devilishly funny musical comedy.

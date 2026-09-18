@@ -11,6 +11,11 @@ description: Everyone born and bred in Yorkshire knows we have the biggest count
   the Penistone Sheep, the Whitefaced Woodland, that takes pride of place next Saturday,
   12 September, at Penistone Show.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE5YjQxOGVkLTdkMGQtNDUyMS1hNmVlLWQwYWQ5ODMyYzRjYToxMjZiNGI1Ni0zMTQ4LTQ0ZDMtYTJlYS1jZGYzOTE5MTA3ZTY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Windleden Farm, Dunford Bridge: Tup of the classes for young Thomas

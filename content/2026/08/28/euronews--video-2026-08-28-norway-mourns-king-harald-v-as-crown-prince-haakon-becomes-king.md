@@ -9,6 +9,10 @@ description: Video. Norway mourns King Harald V after his death at 89 on Friday.
   Minister Jonas Gahr Støre joined officials and crowds paying tribute outside the
   Royal Palace in Oslo.
 image: https://images.euronews.com/articles/stories/09/89/33/96/1200x675_cmsv2_ddc9c191-3e38-5e54-8079-cd50a2790400-9893396.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 Norway is mourning King Harald V after the monarch died aged 89 at Oslo University Hospital’s Rikshospitalet at 6:35 a.m. local time on Friday, according to the Royal Palace. Hundreds of people gathered outside the palace to lay flowers and wreaths, while church bells rang across the country at noon. The Norwegian Royal Standard was flown at half-mast as officials and members of the public paid tribute to a king who had reigned for more than three decades.

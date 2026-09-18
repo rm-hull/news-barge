@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Harry Brook sparkles in the Headingley gloom to build England’s commanding
   lead over Pakistan on a shortened second day of the first Test.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d04c/live/0f942980-9cc3-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Brook shines as England take control against Pakistan

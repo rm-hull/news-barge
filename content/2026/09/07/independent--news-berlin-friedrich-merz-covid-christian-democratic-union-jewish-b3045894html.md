@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Ulrich Siegmund, a charismatic 35-year-old, has led the far-right Alternative
   for Germany to its strongest showing yet
 image: https://static.independent.co.uk/2026/09/06/11/Germany_Election_64116.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Ulrich Siegmund, a charismatic 35-year-old who gave the far-right Alternative for Germany a friendly face and combined promises of a better future with a touch of nostalgia, has led the party to its strongest showing yet.

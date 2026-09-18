@@ -10,6 +10,11 @@ description: Apple has relabeled Lake Ontario to “Lake America” for U.S. use
   its maps app, following competitor Google days after President Donald Trump ordered
   a new name for the body of water amid his escalating trade war with Canada
 image: https://static.independent.co.uk/2026/09/02/15/Apple_Lake_Ontario__246.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Apple has relabeled Lake Ontario to “Lake America” for U.S. users of its Maps app, following competitor Google days after President Donald Trump ordered a new name for the body of water amid his escalating trade war with Canada.

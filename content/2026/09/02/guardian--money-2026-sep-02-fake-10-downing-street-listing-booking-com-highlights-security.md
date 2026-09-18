@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Consumer watchdog Which? set up and accepted payment for fake listing
   for ‘1 bed apartment in heart of London’
 image: https://i.guim.co.uk/img/media/11d9a57ca3396c9ea9c35f1245baf66be1d548fe/576_0_5774_4620/master/5774.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7c4f141f9bb8922279dbacfc98892e5
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Successive politicians have clawed their way past colleagues over the years to call the residence home. Yet in an offer that probably seemed too good to be true, the property site Booking.com has been accused of “systemic security failures” after it was able to set up and accept payment for a fake listing for 10 Downing Street.

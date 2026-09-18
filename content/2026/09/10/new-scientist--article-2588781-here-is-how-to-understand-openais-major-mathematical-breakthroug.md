@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Since OpenAI announced its solution to one of the prestigious Millennium
   Prize Problems, mathematicians have been urgently trying to unpick what it means
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311681995.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311681995.jpg?w=840)

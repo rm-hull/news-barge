@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Iran-backed Houthi rebels have captured the Red Sea port of Mokha and
   the strategic island of Mayun in Yemen
 image: https://static.independent.co.uk/2026/09/11/12/APTOPIX_Yemen_War_12845.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The capture of the Red Sea port of Mokha and a strategic island by Iran-backed Houthi rebels in Yemen brings their forces to the heart of a key choke point for the global economy: the Bab el-Mandeb Strait leading out of the Red Sea.

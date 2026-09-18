@@ -10,6 +10,10 @@ description: During the Sky's 113-90 defeat against the Indiana Fever on Sunday,
   Freedom was seated courtside when Sky guard Natasha Cloud started pointing and shouting
   at him
 image: https://static.independent.co.uk/2026/08/26/12/2026-08-24T211437Z_1055954879_RC2N4NA5O7HN_RTRMADP_3_BASKETBALL-WNBA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Former NBA player Enes Kanter Freedom has been barred from Wintrust Arena, the Chicago Sky announced on Tuesday, following his removal from the venue during a game two days prior.

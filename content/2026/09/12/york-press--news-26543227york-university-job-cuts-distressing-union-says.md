@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: There have been "significant spikes in workload" for staff after more
   than 600 roles were axed at the University of York, the University…
 image: https://www.yorkpress.co.uk/resources/images/18139200.jpg?type=og-image
+categories:
+- Local
+- York
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

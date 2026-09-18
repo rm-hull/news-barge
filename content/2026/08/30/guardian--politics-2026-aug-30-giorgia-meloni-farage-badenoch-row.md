@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Tories accuse Reform of ‘peddling conspiracy theories’ as row erupts
   in wake of Conservative leader’s trip to Rome
 image: https://i.guim.co.uk/img/media/990767fa6444b948852dd576f73ce7d56fb5ce42/771_0_6105_4887/master/6105.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=318b19e4e01f4ef6ba008c5aa5c9da53
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Nigel Farage and Kemi Badenoch have spent years trading barbs and fighting for the rightwing vote. But now the party leaders find themselves in a much more bizarre struggle – for the affections of the rightwing Italian prime minister, Giorgia Meloni.

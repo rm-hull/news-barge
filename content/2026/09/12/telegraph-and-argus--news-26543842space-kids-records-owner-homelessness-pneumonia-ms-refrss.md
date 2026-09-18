@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: A LOCAL HIGHLY-REGARDED music teacher has opened up about his experiences
   with homelessness and multiple sclerosis (MS).
 image: https://www.thetelegraphandargus.co.uk/resources/images/20907514.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: T&A)*

@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Age UK Northumberland is recruiting Home Care Support Workers to help
   older people across the county live safely and independently in their own…
 image: https://www.thenorthernecho.co.uk/resources/images/9879355.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: N/A)*

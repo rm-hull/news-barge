@@ -7,6 +7,12 @@ scraped_at: '2026-08-22T08:43:12Z'
 published: '2026-08-22T00:00:00Z'
 description: A collision involving a police vehicle has resulted in multiple fatalities.
 image: https://www.thenorthernecho.co.uk/resources/images/20826785.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 A collision involving a police vehicle has resulted in multiple fatalities in Teesside.

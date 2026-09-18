@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T01:48:29Z'
 published: '2026-08-19T00:00:00Z'
 description: The technology is said to struggle with ‘broad’ accents
 image: https://static.independent.co.uk/2025/10/14/23/13082449-d089b217-2bf0-420e-8f16-e0c99a63d5fe.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Patients in Yorkshire are struggling to use an artificial intelligence (AI) GP receptionist because it cannot understand their accents, a health watchdog has said.

@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The Danish prime minister has accused Russia of "reckless" behaviour,
   while the Kremlin is yet to comment.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/663f/live/010ff400-b0e8-11f1-ae0d-6f5ba3aa85ac.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![A Danish Fennec helicopter](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/663f/live/010ff400-b0e8-11f1-ae0d-6f5ba3aa85ac.jpg)

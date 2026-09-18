@@ -9,6 +9,12 @@ published: '2026-09-18T00:00:00Z'
 description: Peterlee helped shape one of Britain's most respected actors. Take a
   closer look at Gina McKee's hometown in County Durham.
 image: https://www.thenorthernecho.co.uk/resources/images/19581106.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 *(Image: Ruth Crafer Photography)*

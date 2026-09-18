@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: A collection of historic, forgotten items have been found during the
   restoration of the London royal residence.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/736f/live/d7a1d5b0-afa8-11f1-9619-0d4deb3a4ac7.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Several items, including an old brown newspaper, battered hobnail boots and a bottle of Schweppes bottled water are displayed side by side.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/736f/live/d7a1d5b0-afa8-11f1-9619-0d4deb3a4ac7.jpg)

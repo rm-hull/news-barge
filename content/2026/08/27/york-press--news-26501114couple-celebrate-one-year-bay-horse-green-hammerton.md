@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: The landlords of the popular Bay Horse in Green Hammerton pub near York
   have signed up for another five years after enjoying their first year so…
 image: https://www.yorkpress.co.uk/resources/images/21379795.jpg?type=og-image&xType=0&yType=121
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: Supplied)*

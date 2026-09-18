@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Amanda Owen will reveal an exclusive first look at Our Farm Next Door
   series four at a special behind-the-scenes event in Northallerton.
 image: https://www.thenorthernecho.co.uk/resources/images/21340684.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Amanda Owen will give fans an exclusive preview of the new Our Farm Next Door series at a North Yorkshire event.

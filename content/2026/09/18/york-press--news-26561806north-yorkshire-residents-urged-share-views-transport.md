@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: RESIDENTS are being invited to have their say on the Mayor’s draft Local
   Transport Plan at a series of drop-in events across North Yorkshire
 image: https://www.yorkpress.co.uk/resources/images/21437861.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
+- News & Politics
 ---
 
 *(Image: Alstom)*

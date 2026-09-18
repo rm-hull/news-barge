@@ -10,6 +10,9 @@ published: '2026-09-18T00:00:00Z'
 description: We have the winners of the Nikon Small World in Motion 2026 competition,
   and they're all pretty spectacular.
 image: https://cdn.mos.cms.futurecdn.net/5sju8zQSpoQMJUJKEghvJd-2000-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Nikon Small World in Motion 2026](https://cdn.mos.cms.futurecdn.net/5sju8zQSpoQMJUJKEghvJd.jpg) 

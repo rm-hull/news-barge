@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: The level of police protection they need and potential dangers they face
   are to be reviewed.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/508f/live/c7197250-b072-11f1-9819-95a805e73cfa.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Prince Harry and Meghan, head and shoulders picture](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/508f/live/c7197250-b072-11f1-9819-95a805e73cfa.jpg)

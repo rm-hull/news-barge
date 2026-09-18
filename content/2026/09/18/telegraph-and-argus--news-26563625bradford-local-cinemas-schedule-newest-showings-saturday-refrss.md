@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: FILM fans in Bradford have plenty to choose from this Saturday, with
   a packed programme across The Light Bradford and ODEON Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18984489.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 *(Image: Getty)*

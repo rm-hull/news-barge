@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: This summer not all young people will have got the exam results they
   had hoped for. But academic achievement is not the only way to show potential.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjllNjc3MWExLWU5ZDctNDg2Mi04MTUwLWNiYjJiOGViNTJmYTplZGRmNTc3Ny1kYmRmLTQzM2YtOWUwYS0yZTQ1ZmUxY2QyNGU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 # OPINION: Ripon's young people are building bright futures and strong communities

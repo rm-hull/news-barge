@@ -10,6 +10,9 @@ description: Japan and the Organization of American States have signed a deal to
   Haiti a $3 million grant to help it register voters as the troubled country prepares
   to hold general elections for the first time in more than a decade
 image: null
+categories:
+- News & Politics
+- UK
 ---
 
 Japan and the Organization of American States signed a deal Tuesday to award Haiti a $3 million grant to help it register voters as the troubled country prepares to hold general elections for the first time in more than a decade.

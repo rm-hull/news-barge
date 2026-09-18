@@ -10,6 +10,9 @@ description: 'US President Donald Trump says Ukraine should stop striking Russia
   as he continued his two-day visit to Ireland which blend a bit of high-level meetings
   with personal leisure. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/12/80/1200x675_cmsv2_8ef5d1ce-c0ef-58dc-b454-f130589bde5d-9911280.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## US President Donald Trump says Ukraine should stop striking Russian diesel supplies as the impact is harming the global economy. Trump's comments come as he continued his two-day visit to Ireland which blend a bit of high-level meetings with personal leisure.

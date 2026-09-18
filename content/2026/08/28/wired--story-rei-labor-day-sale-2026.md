@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Labor Day already? Say it ain’t so. You can still chase summer a while
   longer with these great deals on outdoor gear at the REI Labor Day Sale.
 image: https://media.wired.com/photos/6a90af577c6f6af27c88297f/191:100/w_1280,c_limit/The-31-Best-Deals-From-the-REI-Labor-Day-Sale.jpg
+categories:
+- Technology & Software
+- Science
+- Careers & Productivity
 ---
 
 REI's annual Labor Day Sale has come to feel like the end of summer to me. This year’s event kicks off on August 28 and ends on Labor Day, September 7. Many items are up to 40 percent off, and REI Co-op members save up to 20 percent on any REI Outlet item.

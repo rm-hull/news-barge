@@ -7,6 +7,11 @@ scraped_at: '2026-08-22T08:42:39Z'
 published: '2026-08-22T00:00:00Z'
 description: A BRADFORD road will be closed for nearly two weeks for water works
 image: https://www.thetelegraphandargus.co.uk/resources/images/21349814.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Google Street View)*

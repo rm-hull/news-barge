@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: Schools and councils express financial concerns as EHCP applications
   surge before potential change in provision
 image: https://i.guim.co.uk/img/media/7f8a09145494ff1fc793d8c44f248207176d9bc0/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=82aeb87244e03124cbef527d8b18687b
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Schools and councils across England are expecting the proportion of children with special needs plans to double to one in 10, with families rushing to secure support before ministers bring in changes.

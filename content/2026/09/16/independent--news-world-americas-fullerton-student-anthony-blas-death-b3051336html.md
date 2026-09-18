@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Investigators do not suspect that hazing was a contributing factor in
   the death of Blas
 image: https://static.independent.co.uk/2026/09/16/15/20/Anthony-Joseph-Blas.jpg?trim=113,0,517,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Fullerton police officers have requested assistance from the public in their ongoing investigation into the death of an 18-year-old Cal State Fullerton student who died of suspected alcohol poisoning following a fraternity event.

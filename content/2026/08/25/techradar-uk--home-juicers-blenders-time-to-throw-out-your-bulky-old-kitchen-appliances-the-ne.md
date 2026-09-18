@@ -8,6 +8,10 @@ scraped_at: '2026-08-25T13:07:59Z'
 published: '2026-08-25T00:00:00Z'
 description: Chop and blend like a boss.
 image: https://cdn.mos.cms.futurecdn.net/MT5kLuzdekxiQhUMBzb8uX-1920-80.jpg
+categories:
+- Technology & Software
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 ![Split image of Ninja CrushBOSS food processor, blender jug, and smoothie maker](https://cdn.mos.cms.futurecdn.net/MT5kLuzdekxiQhUMBzb8uX.jpg) 

@@ -9,6 +9,11 @@ description: The price of oil has surpassed $100 a barrel for the first time in 
   six weeks after attacks on oil facilities and ships in the Middle East threatened
   to debilitate an already weakened supply chain
 image: https://static.independent.co.uk/2026/09/09/10/Saudi_Oil_Refinery_52774.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Oil rises past $100 a barrel after the latest wave of Middle East attacks

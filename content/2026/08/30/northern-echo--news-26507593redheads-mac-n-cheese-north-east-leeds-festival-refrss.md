@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Redheads Mac N Cheese, which has become a firm favourite with food lovers
   in Newcastle, appeared at Leeds Festival 2026.
 image: https://www.thenorthernecho.co.uk/resources/images/21389641.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 A legendary North East food favourite has taken over Leeds Festival – with huge queues forming for a taste of one of Newcastle's most-loved dishes.

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Oyo Nyimba Kabamba Iguru Rukidi IV will be buried on Saturday in a funeral
   expected to be attended by tens of thousands of mourners
 image: https://static.independent.co.uk/2026/08/28/08/Uganda_Death_of_Boy_King_5482_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A television news anchor was unexpectedly named the next monarch of Uganda's Tooro Kingdom on Wednesday, following the death of its “boy king” who ascended to the throne as an infant.

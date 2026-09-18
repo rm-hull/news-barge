@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Big companies used to go out of their way to support Pride. Now, there's
   a nervousness in the air, Darren Milby writes
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3eaa/live/c8850320-9c90-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Darren Milby](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7494/live/5130ce20-9c91-11f1-b109-879e35c24276.png)

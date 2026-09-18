@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: A West Yorkshire Police officer used ‘unreasonable’ force after dragging
   a woman along the floor by handcuffs during an arrest at a Bradford…
 image: https://www.thetelegraphandargus.co.uk/resources/images/20465590.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: UGC)*

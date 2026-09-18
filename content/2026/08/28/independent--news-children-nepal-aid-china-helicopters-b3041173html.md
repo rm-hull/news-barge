@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Aid has begun to reach survivors of the catastrophic flash floods that
   swept through the mountainous border region between Nepal and China
 image: https://static.independent.co.uk/2026/08/28/16/Nepal_Flash_Floods_26519.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Aid began to reach some survivors in Nepal on Friday following the catastrophic flash floods that swept through the mountainous border region between Nepal and China, as the full scope of the devastation continued to emerge and survivors sought shelter at makeshift army relief centers.

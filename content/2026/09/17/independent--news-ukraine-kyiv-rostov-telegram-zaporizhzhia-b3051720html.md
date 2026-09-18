@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: A Russian missile and drone attack on Ukraine's capital and surrounding
   areas has injured at least 19 people, according to authorities
 image: https://static.independent.co.uk/2026/09/16/11/Russia_Ukraine_War_4_466.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A Russian barrage of missiles and drones targeting Ukraine's capital and the surrounding region injured at least 19 people overnight and into Thursday morning, authorities said.

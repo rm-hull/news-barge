@@ -10,6 +10,10 @@ description: Video. Technology companies gathered in Tokyo on 16 September 2026 
   a one-day summit focused on physical AI, showcasing robots designed to perform tasks
   in the real world.
 image: https://images.euronews.com/articles/stories/09/91/53/19/1200x675_cmsv2_27c43556-0e64-5b5c-94f2-4b9a99b4aca5-9915319.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 Robots are getting to grips with the physical world in Tokyo, where technology companies are showcasing machines designed to handle objects, perform industrial tasks and work alongside humans.

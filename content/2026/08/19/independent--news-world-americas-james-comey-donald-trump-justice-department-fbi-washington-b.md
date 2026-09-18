@@ -10,6 +10,9 @@ description: The Justice Department is defending its prosecution of former FBI D
   James Comey, saying there's "no serious dispute” that a social media post of seashells
   he made could be understood as a threat against President Donald Trump
 image: https://static.independent.co.uk/2026/07/29/12/Justice_Department_James_Comey_53864.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Justice Department is defending its prosecution of former FBI Director James Comey, saying “there is no serious dispute" that a social media post of seashells he made last year could be understood as a threat against President Donald Trump.

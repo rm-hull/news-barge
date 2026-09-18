@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: A post-mortem examination revealed the remains belonged to a woman aged
   between 25 and 45.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8507/live/fdfd8b70-9d81-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Two temporary tents and several people inside a taped-off area on a hillside with dark ground and sparse vegetation in the foreground.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/8507/live/fdfd8b70-9d81-11f1-b109-879e35c24276.jpg)

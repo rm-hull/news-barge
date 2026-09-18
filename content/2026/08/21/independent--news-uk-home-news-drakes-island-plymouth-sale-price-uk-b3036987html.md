@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: The island is currently going for offers in excess of £2 million in what
   has been described as a ‘exceptionally rare’ opportunity
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/10/15/14/drake-island-main.png?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Anyone with a spare £2,000,000 could be the lucky owner of Plymouth’s historic Drake’s Island as it has been put on the market.

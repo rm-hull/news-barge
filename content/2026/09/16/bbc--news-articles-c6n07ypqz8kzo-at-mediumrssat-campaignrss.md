@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Mustafa Suleyman says he believes the AI giant is in effect teaching
   Claude it "may be conscious".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cf81/live/b2088f70-b1d2-11f1-8493-1910d79d53eb.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Science
 ---
 
 ![Microsoft's head of AI, Mustafa Suleyman, on stage and wearing a cream top with a collar and a white t-shirt.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/cf81/live/b2088f70-b1d2-11f1-8493-1910d79d53eb.jpg)

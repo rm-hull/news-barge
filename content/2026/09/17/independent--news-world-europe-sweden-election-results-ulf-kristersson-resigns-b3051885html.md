@@ -7,6 +7,9 @@ scraped_at: '2026-09-17T13:24:33Z'
 published: '2026-09-17T00:00:00Z'
 description: Kristersson has led Sweden with a three-party, centre-right coalition
 image: https://static.independent.co.uk/2026/04/28/13/2026-04-01T124029Z_137189173_RC2BCKA4YBM1_RTRMADP_3_SWEDEN-POLITICS.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Sweden's Prime Minister Ulf Kristersson will resign after the left-leaning opposition won a narrow majority in the country's parliamentary election.

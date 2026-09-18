@@ -8,6 +8,13 @@ published: '2026-09-07T00:00:00Z'
 description: Ultra-marathon runner Rob Pope, dubbed the “real-life Forrest Gump”,
   will visit Nestlé in York during an endurance challenge.
 image: https://www.gazetteherald.co.uk/resources/images/21412826.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- Lifestyle & Fashion
+- Travel
 ---
 
 *(Image: Supplied)*

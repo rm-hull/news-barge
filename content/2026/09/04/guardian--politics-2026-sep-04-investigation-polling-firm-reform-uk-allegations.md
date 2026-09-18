@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: British Polling Council and Market Research Society announce inquiries
   into JL Partners, which has been accused of breaking transparency rules
 image: https://i.guim.co.uk/img/media/2ac48ff289fb9e261d5cc693ad5c4bf516781218/505_0_3422_2737/master/3422.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=239a365863914ce086b0799a168f63a8
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 A polling firm at the centre of allegations that Reform UK breached electoral law is being investigated by two industry bodies.

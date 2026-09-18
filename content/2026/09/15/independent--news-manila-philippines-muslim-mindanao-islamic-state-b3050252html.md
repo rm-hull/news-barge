@@ -9,6 +9,11 @@ description: A predominantly Muslim region in the southern Philippines has held 
   first elections for a regional parliament following years of delays, moving it closer
   to self-rule after decades of insurgency and violence
 image: https://static.independent.co.uk/2026/09/15/06/APTOPIX_Philippines_Muslim_Election_845_9.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 A predominantly Muslim region in the southern Philippines held its first elections for a regional parliament Monday and Tuesday following years of delays, moving it closer to self-rule after decades of insurgency and violence.

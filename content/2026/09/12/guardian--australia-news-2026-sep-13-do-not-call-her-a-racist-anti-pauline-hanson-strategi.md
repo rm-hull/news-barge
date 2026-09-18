@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: 'Exclusive: strategic rethink urges progressive activists to respectfully
   steer one-on-one conversations with One Nation supporters towards economic concerns'
 image: https://i.guim.co.uk/img/media/6d8233cf1cedd0ad699cd125fb28a6d0fb303165/769_0_5686_4549/master/5686.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bed79ff950c525a38fa0ffa621ea007f
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The message from strategists was blunt: do not, however tempting, personally attack Pauline Hanson or call her a racist.

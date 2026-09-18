@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: From cordless vacuums to the best wireless earbuds we’ve tested, some
   of our favorite tech is on sale for Labor Day this year.
 image: https://media.wired.com/photos/6a8784e34c1d79cbf5a08467/191:100/w_1280,c_limit/The-Best-Early-Labor-Day-Tech-Deals-on-WIRED%E2%80%99s-Favorite-Tech-Gear.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 The last long weekend of summer has arrived, and with it, a slew of cart-worthy deals. While summer won't officially end for a few weeks, something about Labor Day feels like the last hurrah, and it makes for the perfect time to snag on-sale gadgets to set you up for a smooth fall and holiday season.

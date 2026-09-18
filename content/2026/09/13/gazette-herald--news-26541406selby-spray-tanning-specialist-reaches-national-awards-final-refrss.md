@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Selby spray tanning specialist Alison Bell reaches Beauty & Skincare
   Awards UK 2026 national finals, representing North Yorkshire in Spray…
 image: https://www.gazetteherald.co.uk/resources/images/21438676.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 A spray tanning specialist has reached the national finals of a UK beauty award.

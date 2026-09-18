@@ -10,6 +10,10 @@ description: However, it remains unclear as to whether the party will be able to
   a government and become the first far-right party to gain power at regional or parliament
   level since the Second World War
 image: https://static.independent.co.uk/2026/09/06/18/2293360060..?trim=77,0,77,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The far-right Alternative für Deutschland (AfD) party is set for a historic regional election win in the eastern state of Saxony-Anhalt – in a blow for German chancellor Friedrich Merz.

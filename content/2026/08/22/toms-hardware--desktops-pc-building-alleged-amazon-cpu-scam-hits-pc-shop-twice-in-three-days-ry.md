@@ -8,6 +8,10 @@ scraped_at: '2026-08-22T12:57:01Z'
 published: '2026-08-22T00:00:00Z'
 description: Two CPUs, two empty boxes.
 image: https://cdn.mos.cms.futurecdn.net/nYVKau5tqBwsj9B5FJ3qbA-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Alleged empty boxes of the AMD Ryzen 5 9600x received by a PC shop from Amazon](https://cdn.mos.cms.futurecdn.net/nYVKau5tqBwsj9B5FJ3qbA.jpg) 

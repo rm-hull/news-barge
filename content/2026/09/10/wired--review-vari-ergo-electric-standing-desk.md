@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The Vari Ergo electric standing desk is compact, easy to assemble, affordable,
   and gently sloped to fit my natural posture and shape.
 image: https://media.wired.com/photos/6aa20c879cc7a31249b76a75/191:100/w_1280,c_limit/Review--Vari-Ergo-Standing-Desk.jpg
+categories:
+- Technology & Software
+- Science
+- Lifestyle & Fashion
 ---
 
 In my job as a product reviewer, I have learned to fear large boxes. Each one that arrives, whether an office chair or a pellet smoker, might mean anywhere from 20 minutes to multiple hours scratching my head at arcane diagrams, while bent upside down trying to find the right place to put a screw without dropping it.

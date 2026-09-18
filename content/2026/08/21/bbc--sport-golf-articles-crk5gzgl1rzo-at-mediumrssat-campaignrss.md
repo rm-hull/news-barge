@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: BBC Sport visits LIV Golf's final event in its current guise to investigate
   what the future holds for the circuit that shook up the sport.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/abc5/live/587d7530-9d44-11f1-a137-179a8d1c790b.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 **It's been more than four years since the launch of LIV Golf rocked the game.**

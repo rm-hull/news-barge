@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: What makes someone stand out in a crowded workplace? Six business leaders
   tell us what they look for.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/34f1/live/9e9bf960-ac71-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 Big bosses reveal the secret to getting hired

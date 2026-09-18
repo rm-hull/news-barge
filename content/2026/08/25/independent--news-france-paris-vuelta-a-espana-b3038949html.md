@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: A tornado has ravaged a small village in southern France, leaving dozens
   injured
 image: https://static.independent.co.uk/2026/08/25/15/France_Extreme_Weather_Tornado_4974_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A tornado ripped through a small village in southern France, damaging about 300 homes, destroying several cars and injuring dozens of people, authorities said Tuesday.

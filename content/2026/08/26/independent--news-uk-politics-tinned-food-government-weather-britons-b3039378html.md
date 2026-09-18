@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: A social media campaign will give advice to Britons on how to deal with
   events such as extreme weather, according to reports
 image: https://static.independent.co.uk/2026/08/26/08/2264662223..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The government will tell households to stock up on tinned food and bottled water to prepare for extreme weather or cyber attacks on the country, according to reports.

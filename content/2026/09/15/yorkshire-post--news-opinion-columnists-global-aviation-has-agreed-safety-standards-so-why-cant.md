@@ -10,6 +10,12 @@ description: Artificial intelligence (AI) is already playing a significant role 
   and nations that deploy AI the quickest, there is an urgent need to implement guard
   rails.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmMwNGY1YzEzLWNhNTQtNGQ1OC04ZjVmLTRhZmEwNjFmZTU1YzpjM2YyOTRhNS0zNzVlLTQ2Y2YtYjMxZS0xNjgxMjQzYmIzNjA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 # Global aviation has agreed safety standards so why can’t AI?

@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: The Grade II listed building has featured in shows including Downton
   Abbey and Peaky Blinders
 image: https://static.independent.co.uk/2022/03/04/18/newFile-1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Crews responded to another fire at Dalton Mills in Keighley on Saturday evening.

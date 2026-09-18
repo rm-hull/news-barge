@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T01:48:52Z'
 published: '2026-08-18T00:00:00Z'
 description: Work has already begun on Goliath, the older of the two cranes.
 image: https://static.independent.co.uk/2026/08/19/00/18114707-33c3fe6c-79c2-4e90-8fca-2c5b3cb14bc5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The famous Harland & Wolff cranes in Belfast will be “at their busiest for many years”, after a comprehensive modernisation.

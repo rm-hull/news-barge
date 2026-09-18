@@ -9,6 +9,11 @@ description: Members of a drug gang burned a 78-year-old great-grandmother’s Y
   home to the ground over an issue with a rival group who were said to have “disrespected”
   them.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/09/14/14/Gang-members-burned-elderly-womans-home-to-the-ground-over-rivarly.jpeg?trim=40,0,40,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Drug gang members burned Yorkshire pensioner's home to the ground leaving her fighting for life

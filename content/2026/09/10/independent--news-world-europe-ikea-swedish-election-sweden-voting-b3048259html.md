@@ -9,6 +9,11 @@ description: The Swedish Election Authority expanded the number of overseas voti
   locations for the 2026 election from around 266 locations in 2022 to approximately
   290 worldwide
 image: https://static.independent.co.uk/2026/09/08/13/2267068924..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Technology & Software
 ---
 
 For most Australians and New Zealanders, IKEA is where you go for a BILLY bookcase, Swedish meatballs and a trolley full of purchases you never intended to make.

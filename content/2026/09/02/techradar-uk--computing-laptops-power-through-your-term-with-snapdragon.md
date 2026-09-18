@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: From first lectures to final deadlines, Snapdragon-powered PCs give you
   faster performance, longer battery life and AI tools to keep up with it all.
 image: https://cdn.mos.cms.futurecdn.net/WcYvPapmgjHvX6hfQHZpWn-1080-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
 ---
 
 Get daily insight, inspiration and deals in your inbox

@@ -8,6 +8,10 @@ scraped_at: '2026-09-18T13:00:01Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/hudswell-tunstall-richmond-ldrs-3.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 A family facing enforcement action after moving onto fields without planning permission have threatened to sell the land to “20 traveller families for a pittance” after locals called the police about a quad bike.

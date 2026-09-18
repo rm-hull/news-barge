@@ -9,6 +9,11 @@ description: It was a trek in the country with a difference. Terri Docza and her
   Stephen ran around Kielder Water reservoir, in Northumberland, not once but four
   times, clocking up 106.25 miles for charity.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE3OTM2N2NlLTNhNjAtNDI2MS1hYjNlLWIyMzU0NTFlODg4MjoxOTBiNGI4Mi03ZDQ2LTQ4ZDEtOTNmYy0zYjkzNmQ3NzRmYjY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Couple’s epic reservoir run raises funds for suicide prevention charity CALM

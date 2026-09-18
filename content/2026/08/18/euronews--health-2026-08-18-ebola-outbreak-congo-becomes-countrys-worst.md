@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: Congo’s latest Ebola outbreak has killed more than 2,300 people, making
   it the deadliest outbreak of the disease ever recorded in the country.
 image: https://images.euronews.com/articles/stories/09/87/84/85/1200x675_cmsv2_34dc0eb3-edab-5919-bfe9-3f67af41caca-9878485.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Congo’s latest Ebola outbreak has killed more than 2,300 people, making it the deadliest outbreak of the disease ever recorded in the country.

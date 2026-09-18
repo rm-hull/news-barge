@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Sunderland Restaurant Week is celebrating its 10th anniversary with a
   city-wide celebration of food and drink starting this weekend.
 image: https://www.thenorthernecho.co.uk/resources/images/21400161.jpg?type=og-image&xType=0&yType=476
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Supplied)*

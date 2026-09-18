@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: The late summer garden is less about individual flowers and more about
   atmosphere
 image: https://www.thetelegraphandargus.co.uk/resources/images/21191001.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 THERE are still a few days to go before astronomical autumn is with us. Late summer is the time when gardens reveal their character. The exuberance of early summer has passed and what remains is something more truthful.

@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A FORMER police officer who did an art degree after retiring is exhibiting
   paintings to raise funds for the Alzheimer’s Society.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21458797.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 A FORMER police officer who did an art degree after retiring is exhibiting paintings to raise funds for the Alzheimer’s Society.

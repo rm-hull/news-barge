@@ -9,6 +9,10 @@ description: A doctor at Martin House Children’s Hospice is launching a new bo
   Thirsk this weekend, drawing on her experiences caring for seriously ill children
   and their families.
 image: https://mmo.aiircdn.com/409/6aa3ebd98ecd9901ff0.jpg
+categories:
+- Local
+- Harrogate
+- Family & Parenting
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa3ebd98ecd9901ff0.jpg) 

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: EMERGENCY services are at the scene of a fire at a property in a North
   Yorkshire town.
 image: https://www.gazetteherald.co.uk/resources/images/21427658.jpg?type=og-image&xType=0&yType=164
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 This article is brought to you by our exclusive subscriber partnership with our sister title USA Today,

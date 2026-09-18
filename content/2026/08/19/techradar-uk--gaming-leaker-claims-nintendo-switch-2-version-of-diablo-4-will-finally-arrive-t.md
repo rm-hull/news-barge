@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: The long-rumored Nintendo Switch 2 port of Diablo 4 could reportedly
   launch very soon after BlizzCon 2026.
 image: https://cdn.mos.cms.futurecdn.net/8bi2qVbGHjGah8DsGcHX55-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![A barbarian, druid and sorceress from Diablo 4 battle a horde of zombies in classical pastiche](https://cdn.mos.cms.futurecdn.net/8bi2qVbGHjGah8DsGcHX55.jpg) 

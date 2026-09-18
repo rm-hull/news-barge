@@ -9,6 +9,10 @@ description: The suspect is accused of being a member of a team of Ukrainian div
   that allegedly planted explosives on the pipelines between Russia and Germany in
   2022
 image: https://static.independent.co.uk/2026/08/21/10/bVZoBT8Nhq1TWJFVB5dq8CMcSLG3U-98G-GZxv9rhBDl8VL7vjB_G2ek5mZhQtYGGh8n8mPXB0-k4m817MwBGbFsBDMuf3LTmRM5..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 One of the main suspects in the 2022 Nord Stream explosions was arrested while reportedly acting as a consultant on a Hollywood film which dramatises the gas pipeline attack, according to German media.

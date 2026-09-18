@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T19:44:01Z'
 published: '2026-09-17T00:00:00Z'
 description: AN ICONIC train returned to the tracks yesterday (Wednesday).
 image: https://www.yorkpress.co.uk/resources/images/21469605.jpg?type=og-image
+categories:
+- Local
+- York
+- Music
 ---
 
 AN ICONIC train returned to the tracks yesterday (Wednesday).

@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Moscow confirms death of Major General Anton Grunis just weeks after
   he received 'Hero of Russia' medal from Putin
 image: https://static.independent.co.uk/2026/09/16/15/2026-09-16T132718Z_1238890494_RC2DKNAQBCS8_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-GENERAL.JPG?trim=0,200,0,200&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Ukraine says its drone forces have killed a Russian general in eastern Ukraine just weeks after he was decorated as a "war hero" by Vladimir Putin.

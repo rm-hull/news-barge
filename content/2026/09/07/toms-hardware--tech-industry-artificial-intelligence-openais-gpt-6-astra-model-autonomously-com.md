@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: Astra had to map 3D game spaces and understand the puzzles before it
   could plan solutions and succeed.
 image: https://cdn.mos.cms.futurecdn.net/RYuH6pSeo9Z8WeTisKYsFP-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Portal](https://cdn.mos.cms.futurecdn.net/RYuH6pSeo9Z8WeTisKYsFP.jpg) 

@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: On Tuesday, Warp introduced Warp Factories, a new infrastructure system
   designed to make building AI software factories as easy as possible.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Warp-Factories-3.png?resize=1200,750
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Companies are still grappling with exactly how software development should work in the AI area, but one early answer is the so-called software factory. Essentially an agent loop that’s built around the traditional stages of software development, the software factory approach has become a popular way for companies to remake their engineering organizations for the AI era.

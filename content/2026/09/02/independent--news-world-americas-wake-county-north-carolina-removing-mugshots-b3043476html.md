@@ -9,6 +9,11 @@ description: There are concerns over mugshots still being available even after c
   charges have been expunged – but others say deleting them is ‘giving criminals more
   rights than the people’
 image: https://static.independent.co.uk/2026/09/02/13/05/Untitled-design-(2).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- True Crime
 ---
 
 A North Carolina county plans to remove around 400,000 mugshots from its public website, ending online access to booking photos collected over the past two decades.

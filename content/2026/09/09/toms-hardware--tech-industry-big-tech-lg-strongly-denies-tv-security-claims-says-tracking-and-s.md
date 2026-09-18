@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: TVs were also said to be recording, scanning local area networks, logging
   data, and recording audio while in standby.
 image: https://cdn.mos.cms.futurecdn.net/wcBwi9EfLxcZ9QCuRwh33k-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Film & TV
 ---
 
 ![LG OLED TV](https://cdn.mos.cms.futurecdn.net/wcBwi9EfLxcZ9QCuRwh33k.jpg) 

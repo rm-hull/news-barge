@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Dozens of people are missing after a fire broke out on a passenger ferry
   off the western Philippines
 image: https://static.independent.co.uk/2026/09/10/02/Philippines_Ferry_Fire_3_29.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Society & Culture
 ---
 
 Fire on passenger ferry in Philippines leaves dozens missing and at least 5 dead

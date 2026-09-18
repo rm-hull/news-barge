@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: 'Scientists say it all depend on caffeine habits, lifestyle and one factor
   we have no control over: our genes.'
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eda0/live/8c2f59a0-ac5f-11f1-be57-03729df1d736.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Self-Improvement
 ---
 
 ![A portrait shot of Emily staring at the camera. She is wearing dark glasses and a black jacket, and has light brown hair. She us holding a cup of coffee in front of her.](https://ichef.bbci.co.uk/ace/standard/875/cpsprodpb/eda0/live/8c2f59a0-ac5f-11f1-be57-03729df1d736.jpg)

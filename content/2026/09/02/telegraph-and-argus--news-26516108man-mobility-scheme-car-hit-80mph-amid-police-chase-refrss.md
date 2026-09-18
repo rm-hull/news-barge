@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: A man in a mobility scheme car hit speeds of 80mph, drove the wrong way
   round mini-roundabouts, and went down a bus lane to avoid a red light during…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21402256.jpg?type=og-image&xType=0&yType=481
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: West Yorkshire Police)*

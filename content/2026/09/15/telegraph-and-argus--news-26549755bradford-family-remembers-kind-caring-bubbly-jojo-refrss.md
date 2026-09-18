@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: A woman who died too soon is being remembered through a fundraiser for
   her final journey.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21454596.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Gofundme)*

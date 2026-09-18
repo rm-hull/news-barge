@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: A WOMAN is doing a skydive next week in memory of a friend who died following
   a 'long and courageous' fight with cancer.
 image: https://www.yorkpress.co.uk/resources/images/21362837.jpg?type=og-image&xType=0&yType=359
+categories:
+- Local
+- York
+- Science
 ---
 
 ## Swinton band woman skydives in memory of 'amazing best friend'

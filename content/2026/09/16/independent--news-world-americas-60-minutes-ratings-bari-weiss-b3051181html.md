@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Among adults aged 25-54 ratings plunged by 33 percent, according to a
   report
 image: https://static.independent.co.uk/2026/09/16/11/59/Screenshot-2026-09-16-at-7-39-38-AM.png?trim=0,366,0,105&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 *60 Minutes* opened its 59th season Sunday with its smallest premiere audience in at least a quarter-century following CBS News Editor-in-Chief Bari Weiss’ overhaul of the flagship program.

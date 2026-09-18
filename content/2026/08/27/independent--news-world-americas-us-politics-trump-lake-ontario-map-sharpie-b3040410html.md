@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: President suggested this week he might officially rename Lake Ontario
   as relations between the US and Canada continue to deteriorate
 image: https://static.independent.co.uk/2026/08/27/14/20/FotoJet-(41).jpeg?trim=343,0,56,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 In a new video, President Donald Trump used his trusty Sharpie to rename Lake Ontario to “Lake America” as his trade war with Canada escalates.

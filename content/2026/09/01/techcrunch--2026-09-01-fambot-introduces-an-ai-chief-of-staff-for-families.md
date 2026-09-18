@@ -9,6 +9,9 @@ description: Fambot is building an AI “chief of staff” to help families mana
   emails, calendars, school updates, sports schedules, and other logistics of raising
   kids.
 image: https://techcrunch.com/wp-content/uploads/2026/09/David-and-Kids-Fambot.png?resize=1200,801
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 AI agents that perform tasks on your behalf to help solve your daily problems are all the rage in Silicon Valley. But the startup Fambot sees a future for agents out in the real world, too, where they’re used by families who need help keeping up with the mental load of children’s activities, school events, newsletters, and other family logistics.

@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: The head of chip designer Arm says modelling how a DNA marker is impacted
   by cancer cannot be done now, but computers are "going to solve it".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Science
 ---
 
 ![Rene Haas sitting being interviewed. He has short brown hair and a short beard, and is wearing a dark blue blazer over a black T-shirt.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg)

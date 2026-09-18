@@ -8,6 +8,10 @@ scraped_at: '2026-08-22T12:56:47Z'
 published: '2026-08-22T00:00:00Z'
 description: Could make for a cool sleeper build.
 image: https://cdn.mos.cms.futurecdn.net/LXiPbqriXRdftK4QiZv3Hg-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![Apevia X-SuperAlien PC build with transparent Apevia power supply](https://cdn.mos.cms.futurecdn.net/LXiPbqriXRdftK4QiZv3Hg.png) 

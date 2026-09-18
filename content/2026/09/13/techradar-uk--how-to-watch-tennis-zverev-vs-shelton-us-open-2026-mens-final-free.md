@@ -9,6 +9,9 @@ published: '2026-09-13T00:00:00Z'
 description: The top seed is in his third straight major final, as the latter tries
   to end the 23-year wait for a US male grand slam champion
 image: https://cdn.mos.cms.futurecdn.net/6p6hSpsGLCmarHoe6wCxej-1024-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Ben Shelton shouts in ecstasy at reaching the US Open 2026 men's final.](https://cdn.mos.cms.futurecdn.net/6p6hSpsGLCmarHoe6wCxej.jpg) 

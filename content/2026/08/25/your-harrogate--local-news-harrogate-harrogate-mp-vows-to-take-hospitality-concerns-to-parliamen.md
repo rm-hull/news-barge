@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Hospitality businesses across Harrogate and Knaresborough are being invited
   to help shape calls for change in Parliament.
 image: https://mmo.aiircdn.com/409/6a8d806ea1853de6f1b.jpg
+categories:
+- Local
+- Harrogate
+- Health & Fitness
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8d806ea1853de6f1b.jpg) 

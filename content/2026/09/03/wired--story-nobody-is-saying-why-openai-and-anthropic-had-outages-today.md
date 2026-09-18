@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: ChatGPT, Claude, and Grok all suffered outages at nearly the exact same
   time for reasons that remain murky.
 image: https://media.wired.com/photos/6a99e1be00d080b32f7841cc/191:100/w_1280,c_limit/Security_A%20Wave%20of%20Outages%20Hits%20Leading%20AI%20Chatbots_v1.jpg
+categories:
+- Technology & Software
+- Science
+- Self-Improvement
 ---
 
 Frontier models from Anthropic, OpenAI, and xAI all experienced rare outages on Thursday morning, creating downtime for their corresponding AI chatbots. SpaceX, xAI’s parent company, said on Thursday afternoon that the issues with Grok resulted from “an outage at our Memphis compute center this morning.”

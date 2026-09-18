@@ -7,6 +7,10 @@ scraped_at: '2026-09-16T19:33:13Z'
 published: '2026-09-16T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/York-Dungeon-Riverside-Clean-September-2026.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 The York Dungeon have organised their third riverside clean event so far this year.

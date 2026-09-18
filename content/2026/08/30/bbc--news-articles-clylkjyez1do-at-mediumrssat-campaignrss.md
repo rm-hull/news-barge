@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: '"It was a beautiful day - and then people were screaming," one hiker
   tells the BBC, as 15 people are missing.'
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ff7/live/2c0e39a0-a4bd-11f1-aed2-8d6da8d75094.png
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Hikers airlifted to safety after flash floods hit Grand Canyon trail

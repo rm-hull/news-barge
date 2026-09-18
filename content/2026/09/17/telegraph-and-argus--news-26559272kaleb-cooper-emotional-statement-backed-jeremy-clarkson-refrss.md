@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Clarkson's Farm star Kaleb Cooper has issued an emotional statement backed
   by Jeremy Clarkson.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19344866.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Prime Video)*

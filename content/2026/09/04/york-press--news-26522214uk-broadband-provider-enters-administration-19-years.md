@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: UK broadband provider iTalk Telecom has entered administration after
   nearly 20 years in business.
 image: https://www.yorkpress.co.uk/resources/images/21409340.jpg?type=og-image&xType=0&yType=282
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Getty Images)*

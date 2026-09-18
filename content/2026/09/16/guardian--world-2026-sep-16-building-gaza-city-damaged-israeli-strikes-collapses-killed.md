@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Rescue workers say search for dozens of people hampered by lack of heavy
   machinery
 image: https://i.guim.co.uk/img/media/f48e9d6a471df02d3f694da5e12f653f1a52b219/201_0_4801_3840/master/4801.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c357d504cf20b309956f73e8ac933844
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A building housing about 100 displaced Palestinian families has collapsed in Gaza City, killing at least 20 people, as rescuers search the rubble for dozens of people believed to be trapped, including children.

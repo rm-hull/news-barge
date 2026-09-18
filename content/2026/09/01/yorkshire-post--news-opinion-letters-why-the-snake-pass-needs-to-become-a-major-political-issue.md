@@ -8,6 +8,11 @@ scraped_at: '2026-09-01T13:29:07Z'
 published: '2026-09-01T00:00:00Z'
 description: 'From: Gordon Lawrence, Sheffield.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjNkYzdjYWM2LTMxZGEtNDNkMC1hYjhmLWM5ZTMzYTI3ODAxYTplZTk5NGZiNC05MDE4LTQzYjItOGMwMi04NjUyNjMxYjFlN2Y=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Why the Snake Pass needs to become a major political issue - Yorkshire Post Letters

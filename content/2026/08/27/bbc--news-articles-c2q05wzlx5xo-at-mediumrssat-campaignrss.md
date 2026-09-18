@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: The Bosnian Serb commander led a campaign of ethnic cleansing during
   the Bosnian conflict.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8692/live/d3439a40-388a-11ef-bbe0-29f79e992ddd.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Ratko Mladić is photographed in a close up shot looking away from the camera](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8692/live/d3439a40-388a-11ef-bbe0-29f79e992ddd.jpg)

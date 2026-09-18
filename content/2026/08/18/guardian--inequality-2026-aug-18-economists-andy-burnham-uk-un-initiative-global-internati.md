@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Open letter signed by 40 academics including Nobel winner Joseph Stiglitz
   and Kate Pickett, co-author of The Spirit Level
 image: https://i.guim.co.uk/img/media/e7345fd45ab79c12b1f5759b20821fc70effe535/999_82_4897_3918/master/4897.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77428e9ec0bc9eda06d0d6cdb4cd2f1e
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Forty prominent progressive academics are urging Andy Burnham’s government to join a new global push to tackle inequality.

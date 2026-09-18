@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Residents can continue visiting Kirkleatham Walled Garden this winter
   under a temporary deal while the council seeks a permanent operator.
 image: https://www.thenorthernecho.co.uk/resources/images/21444926.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 Residents can continue visiting Kirkleatham Walled Garden this winter under a temporary deal while the council seeks a permanent operator.

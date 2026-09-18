@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: Foreign secretary ends UK’s feigned helplessness with sanctions and condemnation
   of ‘ethnic cleansing’
 image: https://i.guim.co.uk/img/media/be7141b940c24233deb779405f16a2da1a0a323c/3524_2692_3142_2513/master/3142.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b570e6cba83711580600663a8583352
+categories:
+- UK
+- News & Politics
 ---
 
 The indefatigable ability of UK Foreign Office ministers over decades to issue boilerplate statements of concern about the extension of illegal settlements in Israel has long been a matter of ridicule.

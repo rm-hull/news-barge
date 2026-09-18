@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Residents across the Harrogate area are being urged to remain vigilant
   after reports of suspected rogue traders targeting local homes.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmM4MTFkMGMzLWY0YzEtNGQxYi04NDA5LTUyYzg5ZDRjNjc3ZDowZjc0NjkxZS00ODk0LTQzOTMtYjYwOC00ZDgwZmZmYmQwMGQ=.jpg?crop=3:2,smart&trim=&width=639&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # Warning issued as rogue traders reportedly target vulnerable residents in Harrogate

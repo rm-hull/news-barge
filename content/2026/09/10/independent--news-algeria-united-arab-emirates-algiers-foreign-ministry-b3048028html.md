@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Algeria has announced that it is cutting diplomatic ties with the United
   Arab Emirates
 image: https://static.independent.co.uk/2026/09/10/15/Algeria_UAE_83851.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Official media: Algeria severs diplomatic ties with the United Arab Emirates

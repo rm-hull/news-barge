@@ -9,6 +9,9 @@ published: '2026-08-30T00:00:00Z'
 description: The Terra Kaffe Aero froths dairy milk, plant-based milk, matcha, and
   more for cafe-quality drinks.
 image: https://cdn.mos.cms.futurecdn.net/vjVvzwiYFa64Xg3JENnT4b-2560-80.jpg
+categories:
+- Technology & Software
+- Food & Cooking
 ---
 
 ### TechRadar Verdict

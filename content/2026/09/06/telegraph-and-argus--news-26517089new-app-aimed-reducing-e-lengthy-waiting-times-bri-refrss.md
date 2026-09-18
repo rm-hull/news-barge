@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: Two businessmen have come up with a new app aimed at reducing lengthy
   A&E waiting times at Bradford Royal Infirmary.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21403685.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 TWO businessmen have developed a new app aimed at reducing lengthy A&E waiting times at Bradford Royal Infirmary.

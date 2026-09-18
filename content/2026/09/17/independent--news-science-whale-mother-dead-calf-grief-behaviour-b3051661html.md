@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Presumed mother whale approaches stillborn calf, touching it with her
   head and remaining still and eye to eye next to it for a minute
 image: https://static.independent.co.uk/2026/09/17/6/41/A-young-adult-Humpback-Whale-breaches-into-the-air-during-a-migratory-frolic.jpeg?trim=115,0,116,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 Scientists have spotted for the first time a female humpback whale seemingly mourning after giving birth to a dead calf.

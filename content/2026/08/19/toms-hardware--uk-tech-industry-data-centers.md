@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Discover more about Data Centers with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/52bsgy6XG4U8UxFuR6tzch-320-80.png
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![Taylor Swift's Brother-in-Law, Jason Kelce, is promoting peeing on computers to save humanity](https://cdn.mos.cms.futurecdn.net/52bsgy6XG4U8UxFuR6tzch-320-80.png)

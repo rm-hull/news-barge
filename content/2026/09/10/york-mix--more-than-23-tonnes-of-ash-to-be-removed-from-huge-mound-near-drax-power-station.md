@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T12:53:42Z'
 published: '2026-09-10T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/drax-ash-mound-pd.webp
+categories:
+- Local
+- York
+- Science
 ---
 
 Plans to extract up to 23.5 million tonnes of ash from a huge mound next to Drax Power Station have been approved – with limits on when the site can be worked.

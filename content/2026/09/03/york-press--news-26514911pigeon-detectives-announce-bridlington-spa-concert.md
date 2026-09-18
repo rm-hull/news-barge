@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The Pigeon Detectives are set to return to Bridlington Spa for the first
   time in 18 years for a major live concert.
 image: https://www.yorkpress.co.uk/resources/images/21400440.jpg?type=og-image&xType=0&yType=23
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Bridlington Spa)*

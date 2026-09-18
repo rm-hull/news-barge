@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A long-standing York city centre shop is set to close its doors next
   month – in a move that will also shut the city’s main post office for the…
 image: https://www.gazetteherald.co.uk/resources/images/21400320.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 A LONG-STANDING York city centre shop is set to close its doors next month – in a move that will also shut the city’s main post office for the second time in less than 10 years.

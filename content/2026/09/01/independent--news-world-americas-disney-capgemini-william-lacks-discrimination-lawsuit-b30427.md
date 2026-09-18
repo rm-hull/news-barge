@@ -9,6 +9,11 @@ description: A Black man is suing the Walt Disney Co., alleging his Latino IT te
   leader made inappropriate remarks about Black people while in the workplace and
   favored employees of his own race
 image: https://static.independent.co.uk/2026/04/28/19/16/GettyImages-1484907525.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 A Black former employee has filed a lawsuit against The Walt Disney Co. and digital information provider Capgemini America Inc., alleging that his Latino IT team leader made inappropriate workplace remarks about Black people and favored staff members of his own race.

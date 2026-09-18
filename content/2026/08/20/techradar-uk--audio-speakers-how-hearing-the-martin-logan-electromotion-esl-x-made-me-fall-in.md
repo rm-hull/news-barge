@@ -8,6 +8,9 @@ scraped_at: '2026-08-20T20:40:36Z'
 published: '2026-08-20T00:00:00Z'
 description: I might be an electrostatic convert
 image: https://cdn.mos.cms.futurecdn.net/tP6FNcdwCzKMdW4v67t5JX-2560-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ![A wide shot of the Martin Logan ElectroMotion ESL X](https://cdn.mos.cms.futurecdn.net/tP6FNcdwCzKMdW4v67t5JX.jpg) 

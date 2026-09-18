@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Big Brother winner Anthony Hutton, from Consett, County Durham, became
   a mental health campaigner after his Big Brother fame, launching the Throw In…
 image: https://www.thenorthernecho.co.uk/resources/images/20506089.jpg?type=og-image&xType=0&yType=54
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Supplied)*

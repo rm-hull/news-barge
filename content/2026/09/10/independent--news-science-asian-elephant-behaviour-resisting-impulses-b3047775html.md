@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Research could help develop effective strategies to avoid human-elephant
   conflict
 image: https://static.independent.co.uk/2026/09/10/7/00/(A)-An-elephant-enters-the-over-opening-to-gain-access-to-food-in-a-familiarisation-trial-(B)-An-ele.png?trim=0,234,0,312&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Self-Improvement
 ---
 
 Asian elephants can inhibit their impulses to tackle problems more effectively, researchers say, putting them in a select group of animals with such ability.

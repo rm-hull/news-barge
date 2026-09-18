@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: A U.S. military judge has set a summer 2028 trial date for Khalid Sheikh
   Mohammed and three others accused of plotting the Sept. 11, 2001, attacks
 image: https://static.independent.co.uk/2026/08/27/01/Sept-11_Mastermind_Trial_42296.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A U.S. military judge on Wednesday set a summer 2028 trail date for Khalid Sheikh Mohammed and three others accused of plotting the Sept. 11, 2001, terrorist attacks.

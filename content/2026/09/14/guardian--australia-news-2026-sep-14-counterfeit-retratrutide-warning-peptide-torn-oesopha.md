@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: TGA issues alert after person was hospitalised after believing they were
   taking experimental weight loss drug retatrutide
 image: https://i.guim.co.uk/img/media/377d245345b40b12563a2f7bfc61e48f81d46003/0_0_3276_2621/master/3276.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fdc23d6c4acdd62b4e56984028e0b07d
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Science
 ---
 
 A patient who tore their oesophagus after taking a counterfeit version of an experimental weight loss drug has prompted Australia’s medicines regulator to warn of serious risks of such products.

@@ -9,6 +9,11 @@ description: The Argentine president said Britain was ‘in decline’ in a broa
   on Thursday, as a result of what he called ‘crises of a migratory, demographic and
   economic character’
 image: https://static.independent.co.uk/2026/09/04/12/73239210..?trim=182,0,182,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 Javier Milei told his nation on Thursday that Argentina would “prevail” in its efforts to reclaim the Falkland Islands, after Donald Trump said he would reconsider the United States’ long-standing neutrality and cast doubt on Britain’s ability to defend itself.

@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: A "dangerous" knifeman who stabbed a pub goer in the stomach during a
   late-night confrontation in the Bradford district has been jailed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21403153.jpg?type=og-image&xType=0&yType=419
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: West Yorkshire Police)*

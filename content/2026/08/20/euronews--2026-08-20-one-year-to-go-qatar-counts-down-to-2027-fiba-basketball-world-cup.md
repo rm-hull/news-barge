@@ -9,6 +9,11 @@ description: A total of 32 national teams will play 92 games across four Doha ar
   including a former FIFA World Cup stadium transformed from a football pitch to a
   basketball court.
 image: https://images.euronews.com/articles/stories/09/88/05/47/1200x675_cmsv2_69d92f1e-a612-5536-9b08-5c4d186484aa-9880547.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 ## A total of 32 national teams will play 92 games across four Doha arenas, including a former FIFA World Cup stadium transformed from a football pitch to a basketball court.

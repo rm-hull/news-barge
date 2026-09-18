@@ -9,6 +9,12 @@ published: '2026-09-15T00:00:00Z'
 description: Two young women were reportedly forced to climb onto the roof of their
   vehicle after it left a bridge in the Yorkshire Dales and ended up in the…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21457126.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
+- Society & Culture
 ---
 
 *(Image: Google Maps)*

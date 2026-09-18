@@ -11,6 +11,9 @@ description: ArenaNet has revealed more about Guild Wars 3's new momentum system
   a feature that blends all actions and combat abilities to ensure constant "fluid"
   movement.
 image: https://cdn.mos.cms.futurecdn.net/jHV9Tc8QXcLuLUQtEKgwK9-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Guild Wars 3](https://cdn.mos.cms.futurecdn.net/jHV9Tc8QXcLuLUQtEKgwK9.jpg) 

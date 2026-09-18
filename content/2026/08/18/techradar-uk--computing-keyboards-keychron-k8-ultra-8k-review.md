@@ -9,6 +9,8 @@ published: '2026-08-18T00:00:00Z'
 description: The K8 Ultra 8K aims to compete with big brands by offering an impressive
   spec for a low price — but has it succeeded?
 image: https://cdn.mos.cms.futurecdn.net/a5RJLxRtxyuGD3KuFbHLMF-2518-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

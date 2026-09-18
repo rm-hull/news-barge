@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: A jury has heard how two speeding cars were allegedly racing each other
   moments before an almost head-on collision on a Bradford road that left one…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21426220.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: Google Streetview)*

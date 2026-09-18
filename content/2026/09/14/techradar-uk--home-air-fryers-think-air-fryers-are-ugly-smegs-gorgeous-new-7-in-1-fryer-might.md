@@ -8,6 +8,9 @@ scraped_at: '2026-09-14T15:00:30Z'
 published: '2026-09-14T00:00:00Z'
 description: Finally, a fryer that makes cooking easy while looking great.
 image: https://cdn.mos.cms.futurecdn.net/i3fmqjXdvnxypVYeueDUEY-832-80.jpg
+categories:
+- Technology & Software
+- Food & Cooking
 ---
 
 ![Smeg AFC01 Dual Flavour Air Fryer on kitchen counter with cooked food](https://cdn.mos.cms.futurecdn.net/i3fmqjXdvnxypVYeueDUEY.jpg) 

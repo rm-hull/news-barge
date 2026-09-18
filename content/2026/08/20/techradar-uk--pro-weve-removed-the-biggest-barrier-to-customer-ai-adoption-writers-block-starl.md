@@ -10,6 +10,9 @@ published: '2026-08-20T00:00:00Z'
 description: Starling Bank tells us why its AI tools could help users supercharge
   their money management
 image: https://cdn.mos.cms.futurecdn.net/ATtopXSWS8SxKurv6kosEA-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Starling Bank logo on card](https://cdn.mos.cms.futurecdn.net/ATtopXSWS8SxKurv6kosEA.jpg) 

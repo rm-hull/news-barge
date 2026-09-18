@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Netflix has unveiled a range of new shows that will be coming out over
   the next year including comedies from the creators of Derry Girls and Friday…
 image: https://www.gazetteherald.co.uk/resources/images/13636444.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 *(Image: Ian West/PA Wire)*

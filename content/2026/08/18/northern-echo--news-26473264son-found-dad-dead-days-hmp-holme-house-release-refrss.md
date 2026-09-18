@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: A son found his dad dead at home after he took a cocktail of drugs just
   two days after being released from HMP Holme House.
 image: https://www.thenorthernecho.co.uk/resources/images/21117994.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: THE NORTHERN ECHO)*

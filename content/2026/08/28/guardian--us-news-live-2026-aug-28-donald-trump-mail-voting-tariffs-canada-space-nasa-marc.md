@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: Judge Indira Talwani placed a 14-day hold on government implementing
   Trump’s order to limit mail voting
 image: https://i.guim.co.uk/img/media/7e3cc0ed157e944759e1c275f3086262451cf34e/223_0_3334_2667/master/3334.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4abc9b724777b99f1ff05a8f285e3707
+categories:
+- UK
+- News & Politics
 ---
 
 A federal judge has halted, at least temporarily, attempts to implement Donald Trump’s executive order limiting mail voting.

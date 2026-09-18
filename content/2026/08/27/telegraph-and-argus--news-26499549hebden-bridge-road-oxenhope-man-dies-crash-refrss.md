@@ -7,6 +7,11 @@ scraped_at: '2026-08-27T12:00:43Z'
 published: '2026-08-27T00:00:00Z'
 description: A man has died following a crash in the Bradford district.
 image: https://www.thetelegraphandargus.co.uk/resources/images/14262453.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 A MAN has died following a crash in the Bradford district.

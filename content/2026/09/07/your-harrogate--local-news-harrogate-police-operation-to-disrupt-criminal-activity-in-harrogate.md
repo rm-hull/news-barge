@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: North Yorkshire Police has reassured the public following an increased
   officer presence in Harrogate town centre last week.
 image: https://mmo.aiircdn.com/409/6a9e5e3ec5ff4e8ce1e.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9e5e3ec5ff4e8ce1e.jpg) 

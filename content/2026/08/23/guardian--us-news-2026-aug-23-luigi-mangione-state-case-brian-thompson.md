@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Defense files motion to dismiss state case after federal guilty plea
   but prosecutors say they are prepared to litigate
 image: https://i.guim.co.uk/img/media/478b5740417490d2f3f53db350ed47d6120d4612/150_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd3d6aab40a7f252eff43128e55340c7
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 After Luigi Mangione admitted in Manhattan federal court that he killed UnitedHealthcare CEO Brian Thompson, most experts believe that the state murder case against is highly unlikely to proceed – though some still see a slim possibility that it may yet happen.

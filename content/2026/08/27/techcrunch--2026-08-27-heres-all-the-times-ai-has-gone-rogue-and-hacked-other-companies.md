@@ -9,6 +9,9 @@ description: A recap of all the incidents involving LLMs made by Anthropic, Meta
   and OpenAI, which went rogue and attacked real companies and individuals on the
   internet.
 image: https://techcrunch.com/wp-content/uploads/2026/08/open-ai-chatgpt-anthropic-claude-icons.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 In July, OpenAI admitted that one of its agents tasked with completing a cybersecurity experiment broke out of containment and hacked AI dataset platform Hugging Face. That incident, which got a full accounting from OpenAI yesterday, was the first publicly reported case where an LLM went rogue and autonomously hacked a third party.

@@ -10,6 +10,11 @@ description: When was the last time you went along to your local parish or town 
   Are you a member of an institute? The WI, perhaps? Freemasons? A golf club? A sports
   team?
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmJlMDliZmEzLTE2Y2ItNDQ1Yi05ZjBjLTEzMWVhYmU4NTg4NjozZTQ1YzQ2ZC1jOWIxLTRlZTgtOTFhNC05ZDE4MWQ2ZTJkZTA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # The Thursday Thinker: 'I have seen first-hand socially active people turned into peeping Toms'

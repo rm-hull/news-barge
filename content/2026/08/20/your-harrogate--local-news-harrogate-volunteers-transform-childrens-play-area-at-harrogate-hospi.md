@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Children receiving care at Harrogate District Hospital are benefiting
   from a transformed outdoor play area thanks to a team of British Gas volunteers.
 image: https://mmo.aiircdn.com/409/6a8708ec7d53b6e146f.jpg
+categories:
+- Local
+- Harrogate
+- Family & Parenting
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8708ec7d53b6e146f.jpg) 

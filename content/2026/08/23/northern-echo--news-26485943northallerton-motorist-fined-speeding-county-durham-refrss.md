@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Northallerton motorist Thomas Alderson was fined and given three penalty
   points after admitting speeding on the C36 road in County Durham, with…
 image: https://www.thenorthernecho.co.uk/resources/images/10945931.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Stuart Walker/Newsquest)*

@@ -9,6 +9,9 @@ published: '2026-09-15T00:00:00Z'
 description: Spotify is giving parents more control, now you can easily exclude your
   kids favorite music from your taste profile.
 image: https://cdn.mos.cms.futurecdn.net/ns2wDvHXVHPAmPC7CBKegD-2000-80.jpg
+categories:
+- Technology & Software
+- Family & Parenting
 ---
 
 ![A smartphone with the Spotify settings](https://cdn.mos.cms.futurecdn.net/ns2wDvHXVHPAmPC7CBKegD.jpg) 

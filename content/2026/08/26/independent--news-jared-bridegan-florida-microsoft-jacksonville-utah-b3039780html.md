@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Deliberations are underway in Florida in the shooting of a Microsoft
   design manager
 image: https://static.independent.co.uk/2026/08/26/16/Microsoft_Manager_Killed_64386.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Florida jury began deliberations Wednesday in the shooting of a Microsoft design manager who was gunned down in what prosecutors allege was a murder-for-hire scheme hatched by his wealthy ex-wife and her husband.

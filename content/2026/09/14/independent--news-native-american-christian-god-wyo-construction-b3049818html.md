@@ -10,6 +10,10 @@ description: In the weeks since a Christian pastor on the Wind River Reservation
   Arapaho ceremonial ways to “idol worship,” the Sunday morning rhythm has become
   familiar
 image: https://static.independent.co.uk/2026/09/14/13/Reservation_Church_Controversy_58156.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Religion & Spirituality
 ---
 
 Every Sunday morning on the Wind River Reservation, congregants gather at Foundations for Nations Church to pray while protesters outside do the same.

@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Discover the best fish and chip shops in Darlington, from local favourites
   to award-winning takeaways loved by customers.
 image: https://www.thenorthernecho.co.uk/resources/images/19035900.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: PA)*

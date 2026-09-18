@@ -13,6 +13,11 @@ description: 'Donald Trump called Nvidia''s CEO during a summit, claiming that c
   not be taking over the rest of the world. The whole thing is a hoax.” He added that
   data centers are "great" and make people and states "wealthy."'
 image: https://cdn.jwplayer.com/v2/media/I5OxVYKu/poster.jpg?width=720
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ## Showing now | News

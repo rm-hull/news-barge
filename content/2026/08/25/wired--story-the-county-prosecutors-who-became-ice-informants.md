@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Illinois prosecutors shared defendants’ personal data with federal immigration
   agents without criminal warrants, public disclosure, or legislative oversight.
 image: https://media.wired.com/photos/6a870dcaebe7f306d0053666/191:100/w_1280,c_limit/SAO_2.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
+- Society & Culture
 ---
 
 *This story was produced in partnership with Injustice Watch, a nonprofit newsroom in Chicago focused on the court system.*

@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Eastmoor Rugby Club hosted a charity match raising funds for the Rob
   Burrow 7 Trust and MND awareness, with 42 players and rugby league supporters.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21452595.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 Rugby league supporters came together at Eastmoor Rugby Club to honour the legacy of Rob Burrow while raising money for a charity dedicated to supporting people affected by motor neurone disease (MND).

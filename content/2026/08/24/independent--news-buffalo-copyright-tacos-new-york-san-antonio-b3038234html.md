@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Cassy Joy Garcia has a recipe for Crispy Baked Buffalo Chicken Tacos
   that includes a protein-packed ranch dressing
 image: https://static.independent.co.uk/2026/08/24/14/Food-Voracious-Chicken_Tacos_92346.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
+- Food & Cooking
 ---
 
 These Crispy Baked Buffalo Chicken Tacos from my cookbook “The Protein Meal Prep Plan” are stuffed with a collard slaw made with a protein-packed ranch dressing (yes … protein ranch!) that, I have a feeling, will surprise you by how delicious it is.

@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise
   awareness about the cancer.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/babc/live/53861fc0-aa3a-11f1-8bb0-bf56fd285213.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 ![Maryam Moshiri stand in a black coat. The Vatican is in the background](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1897/live/de970710-aa3e-11f1-88c5-8f28a3313a0e.jpg)

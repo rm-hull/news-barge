@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: A plea has been made to build five maisonettes above what locals have
   dubbed “one of the best shops” in the world.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21375592.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Lyra Auld)*

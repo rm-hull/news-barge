@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: The six-year study examined the relationship between bosses’ personalities
   and their views on remote work
 image: https://static.independent.co.uk/2026/05/20/13/29/GettyImages-692467204.jpeg?trim=12,0,12,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 Have you ever wondered *why* your boss wants you back in the office full-time, rather than allowing hybrid work, where you can combine work from home and in an office? A fascinating study just shed fresh light on this topic.

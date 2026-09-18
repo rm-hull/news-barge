@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Piotr Pacych, a personal assistant from York, is preparing to take on
   a half marathon for Brain Tumour Research.
 image: https://www.gazetteherald.co.uk/resources/images/21407235.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 A York NHS worker is preparing to take on a half marathon for a cause close to his heart.

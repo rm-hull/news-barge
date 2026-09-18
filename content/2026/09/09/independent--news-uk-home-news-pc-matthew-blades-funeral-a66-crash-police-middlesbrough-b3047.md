@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: Pc Blades died alongside his colleague, Pc Tom Clough, in a horrific
   crash near Middlesbrough
 image: https://static.independent.co.uk/2026/09/09/14/01M22W3HMCQJMEYBEC5519E2GS.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Hundreds of police officers gathered to line the street for the funeral of a colleague killed in a collision on the A66.

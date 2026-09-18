@@ -7,6 +7,11 @@ scraped_at: '2026-09-18T04:33:54Z'
 published: '2026-09-17T00:00:00Z'
 description: Wernicke encephalopathy can lead to permanent memory loss
 image: https://static.independent.co.uk/2026/09/15/17/2026-08-25T100018Z_4511878_RC2IOMAE60QF_RTRMADP_3_USA-HEALTH-INSURANCE.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- Health & Fitness
 ---
 
 A rare, serious brain condition has been identified in a small number of people taking GLP-1 weight loss and diabetes drugs, a new study revealed.

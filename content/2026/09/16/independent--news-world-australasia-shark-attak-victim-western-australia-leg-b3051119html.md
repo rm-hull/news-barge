@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Surfer, 56, was bitten on the leg near Glenfield Beach in Western Australia
   earlier this week
 image: https://static.independent.co.uk/2026/09/16/10/24/mel-ismail.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A 56-year-old surfer is facing a long recovery after sustaining serious injuries during a shark attack in Western Australia early this week.

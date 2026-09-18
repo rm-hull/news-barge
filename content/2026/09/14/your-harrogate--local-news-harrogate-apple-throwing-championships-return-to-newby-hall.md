@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Newby Hall's popular Apple Throwing Championships will return as part
   of its final event of the 2026 season.
 image: https://mmo.aiircdn.com/409/6aa7cec8907f853d788.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa7cec8907f853d788.jpg) 

@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Commerce is considering a duty-free chip quota pegged to each company's
   pledged U.S. production.
 image: https://cdn.mos.cms.futurecdn.net/buvm9T9xPmu5wZVsefV2L7-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Trump](https://cdn.mos.cms.futurecdn.net/buvm9T9xPmu5wZVsefV2L7.jpg) 

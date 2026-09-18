@@ -10,6 +10,10 @@ description: FIFA's chief operating officer, Kevin Lamour, has reportedly left h
   role weeks after accusing president Gianni Infantino of deceiving staff with a World
   Cup sell-off plan
 image: https://static.independent.co.uk/2026/08/01/02/FIFA-Executive-Leaves_49244.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 FIFA's chief operating officer, Kevin Lamour, has reportedly left his role at soccer's governing body just weeks after saying its president, Gianni Infantino, had deceived staff with his World Cup sell-off plan.

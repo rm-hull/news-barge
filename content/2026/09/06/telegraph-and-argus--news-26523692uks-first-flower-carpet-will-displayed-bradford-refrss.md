@@ -9,6 +9,11 @@ published: '2026-09-06T00:00:00Z'
 description: The UK's first flower carpet will be displayed in Bradford city centre
   later this month.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21293615.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 THE UK's first flower carpet will be displayed in Bradford city centre later this month.

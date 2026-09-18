@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Customers will soon be benefiting from a major transformation to Huddersfield
   station overseen by Transpennine Route Upgrade.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjhmOTA1OTMzLWVjYTQtNGJiOS04OGY0LTY4ZGYyZmY5NjQ5ZTozNDM1ZjFkNC1kNjdkLTQ4NjAtYTljMS0wMTgzYjJmZjljNmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Huddersfield station: Transpennine Route Upgrade to take significant step towards transformation of Yorkshire railway this autumn

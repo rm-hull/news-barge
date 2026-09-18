@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: Ultrahuman is targeting a $200 million annual revenue run rate by January
   2027 as it builds a new Qualcomm-powered smart ring.
 image: https://techcrunch.com/wp-content/uploads/2026/09/ultrahuman-ring-pro.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Ultrahuman, an Indian startup best known for making smart rings, has raised $70 million in a new funding round that includes backing from Qualcomm’s venture arm, as it looks beyond sleep and health tracking to build a ring that can run software on the device and eventually power everything from AI interactions to games.

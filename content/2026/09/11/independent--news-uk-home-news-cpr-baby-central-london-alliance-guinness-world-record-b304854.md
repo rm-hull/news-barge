@@ -10,6 +10,10 @@ description: Imogen Tinkler’s life was blown apart when her baby daughter went
   in her arms. She says knowing one skill ‘made an unbearable loss more possible to
   live with’
 image: https://static.independent.co.uk/2026/09/11/10/03/IMG_1865.jpeg?trim=103,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 Imogen Tinkler struggles to remember exactly what happened after her eight-week-old daughter went limp in her arms.

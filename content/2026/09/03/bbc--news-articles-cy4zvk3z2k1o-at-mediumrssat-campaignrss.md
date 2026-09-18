@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The Iranian Red Crescent Society (IRCS) said shrapnel from a missile
   hit the ceremony and killed four people on Tuesday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/70a5/live/33e75750-a7e3-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Watch: JD Vance "extremely sceptical" over alleged strike on Iranian wedding

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: A powerful drilling rig is en route to the University of York as part
   of a major project to tap into deep geothermal energy.
 image: https://www.yorkpress.co.uk/resources/images/21402174.jpg?type=og-image&xType=0&yType=34
+categories:
+- Local
+- York
+- Science
 ---
 
 *(Image: The University of York)*

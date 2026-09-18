@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: A former Connecticut state budget official convicted of corruption fled
   the U.S. by boat and plane before his sentencing and is now a fugitive in Greece
 image: https://static.independent.co.uk/2026/09/17/20/Corruption_Trial_Fugitive_3_669.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A former senior budget official for Connecticut's Democratic governor is now a fugitive in Greece after fleeing the U.S. by boat and plane ahead of his sentencing for corruption, his lawyer and prosecutors told a federal judge on Thursday.

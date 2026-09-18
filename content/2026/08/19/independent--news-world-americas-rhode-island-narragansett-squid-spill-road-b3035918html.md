@@ -8,6 +8,10 @@ scraped_at: '2026-08-19T21:31:58Z'
 published: '2026-08-19T00:00:00Z'
 description: ‘Squid has a distinctive odor to it,’ said one witness
 image: https://static.independent.co.uk/2026/08/19/19/13/Untitled-design-(3).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Video Gaming
 ---
 
 A tractor-trailer hauling 20 tons of squid sent its slippery cargo across a Rhode Island roadway and left traffic in an eight-hour traffic jam this past weekend.

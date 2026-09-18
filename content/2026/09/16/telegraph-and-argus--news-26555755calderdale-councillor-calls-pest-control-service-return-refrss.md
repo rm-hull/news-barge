@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Three years after the phasing out of a council's pest control service,
   a councillor is urging it should be brought back, claiming rat…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21211478.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Self-Improvement
 ---
 
 Three years after the phasing out of a council’s pest control service, a councillor is urging it should be brought back, claiming rat infestations are on the rise.

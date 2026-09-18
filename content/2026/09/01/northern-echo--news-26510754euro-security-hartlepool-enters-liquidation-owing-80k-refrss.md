@@ -8,6 +8,12 @@ published: '2026-09-01T00:00:00Z'
 description: A Hartlepool-based security company has entered voluntary liquidation
   after building up debts of more than £80,000
 image: https://www.thenorthernecho.co.uk/resources/images/21394936.jpg?type=og-image&xType=0&yType=80
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 A Hartlepool security company has entered voluntary liquidation after building up debts of more than £80,000.

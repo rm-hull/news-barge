@@ -9,6 +9,11 @@ description: Attorney General’s comments came one day after the DOJ unveiled a
   lawsuit accusing a Kansas school district of facilitating such transitions without
   informing parents
 image: https://static.independent.co.uk/2026/09/03/14/57/GettyImages-2293247030.jpeg?trim=30,0,30,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Family & Parenting
 ---
 
 Attorney General Todd Blanche condemned what he called a “pandemic” of “secret” gender transitions in U.S. schools.

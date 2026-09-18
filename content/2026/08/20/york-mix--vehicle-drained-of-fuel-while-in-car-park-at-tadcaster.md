@@ -7,6 +7,11 @@ scraped_at: '2026-08-20T08:53:29Z'
 published: '2026-08-20T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/britannia-car-park-tadcaster-gsv.webp
+categories:
+- Local
+- York
+- Automotive
+- Technology & Software
 ---
 
 A driver returned to their vehicle left at a North Yorkshire car park to find it had been drained of fuel.

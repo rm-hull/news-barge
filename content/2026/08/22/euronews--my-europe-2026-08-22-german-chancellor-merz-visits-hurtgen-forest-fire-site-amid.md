@@ -9,6 +9,11 @@ description: 'Chancellor Friedrich Merz travelled to Hürtgenwald today, as fire
   in Belgium''s High Fens continues. The blaze on the German border is out, but ahead
   of his visit he faced opposition criticism for ''doing nothing''. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/46/41/1200x675_cmsv2_da0c591e-47a2-59a5-b704-96ecceeee641-9884641.jpg
+categories:
+- Europe
+- News & Politics
+- History
+- Travel
 ---
 
 ## Chancellor Friedrich Merz travelled to Hürtgenwald today, as firefighting in Belgium's High Fens continues. The blaze on the German border is out, but ahead of his visit he faced opposition criticism for 'doing nothing'.

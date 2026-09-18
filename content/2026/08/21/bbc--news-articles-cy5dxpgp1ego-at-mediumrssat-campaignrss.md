@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The ex-wrestler replaces Ryan Hurst as Kratos in the upcoming adaptation
   of the popular PlayStation series.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/55e4/live/3c0a4900-9d44-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ![Dave Bautista smiling and looking at the camera on a red carpet. He's wearing a tux with a white shirt, blue bow tie and blue jacket. He's a bald man with a darker beard that's going grey down the sides.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/55e4/live/3c0a4900-9d44-11f1-a291-b542ee92de7c.jpg)

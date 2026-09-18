@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Jason Morrison, a former presenter at the Sydney radio station, denies
   ‘tailoring his evidence’ during trial of veteran shock jock Jones
 image: https://i.guim.co.uk/img/media/70f00162972dde89df684815950b389268113539/533_0_5833_4669/master/5833.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aa809a2ed717bde299e8688e43193cab
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Alan Jones and fellow 2GB shock jock Jason Morrison often referred to the Sydney Morning Herald and its chief investigative reporter Kate McClymont as “pigs in the media”, a Sydney court has heard.

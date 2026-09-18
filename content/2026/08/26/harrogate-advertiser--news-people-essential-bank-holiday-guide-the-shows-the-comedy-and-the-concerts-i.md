@@ -10,6 +10,10 @@ description: 'If you are planning to go out this bank holiday weekend in the Har
   district – or in the next month or so - here are the shows, gigs and comedy not
   to miss:'
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmY1ZGFkYWZhLTYwOTgtNGQyMC05MWIyLTBhZjI1ZWE4ZWM3MTpiODM4NmZiNS01NzQ3LTRhOTctOTZmOS1iNTJjYjVhZjNiNWI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Comedy & Entertainment
 ---
 
 # Essential bank holiday guide: The shows, the comedy and the concerts in Harrogate district

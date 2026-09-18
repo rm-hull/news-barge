@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: A man has appeared in court accused of manslaughter after his dog fatally
   bit a man on a footpath in an argument about a right of way.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21333655.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: SWNS)*

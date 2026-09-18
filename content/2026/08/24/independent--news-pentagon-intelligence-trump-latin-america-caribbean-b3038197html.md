@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: U.S. forces have struck another vessel in the eastern Pacific, killing
   two people the Pentagon says were trafficking drugs
 image: https://static.independent.co.uk/2026/08/24/13/Pentagon_15982.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 U.S. forces have struck another vessel in the eastern Pacific, killing two people the Pentagon says were trafficking drugs.

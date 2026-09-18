@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: 'Between the 2027 presidential campaign and talks on the next budget,
   several leading French politicians were out in force on Saturday 29 August. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/40/35/1200x675_cmsv2_062349ef-9114-5d1e-9b42-6003c72fa405-9894035.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Between the 2027 presidential campaign and talks on the next budget, several leading French politicians were out in force on Saturday 29 August.

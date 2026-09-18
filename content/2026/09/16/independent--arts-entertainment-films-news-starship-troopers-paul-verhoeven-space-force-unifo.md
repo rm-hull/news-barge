@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Paul Verhoeven says film’s point is that the characters are ‘fascists
   without knowing that they’re fascists’
 image: https://static.the-independent.com/2026/09/16/07/2295084975..?trim=43,547,3412,268&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Arts & Culture
 ---
 
 *Starship Troopers* director Paul Verhoeven has said Donald Trump’s administration should be aware that the film’s heroes are all “fascists without knowing that they’re fascists”, after the US president shared a proposed Space Force uniform based on the 1997 film.

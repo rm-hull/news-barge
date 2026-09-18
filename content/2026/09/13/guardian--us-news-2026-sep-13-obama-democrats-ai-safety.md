@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: Ex-president urged party at closed-door fundraiser to create sweeping
   framework, from safety ‘slow-down’ to job losses
 image: https://i.guim.co.uk/img/media/5296e92325d59392639c0599e013a3f81eed9f1d/302_0_3023_2418/master/3023.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=40e1a6970f897c6bda9b7073bb938b8a
+categories:
+- UK
+- News & Politics
 ---
 
 Barack Obama urged Democrats to prioritize a “public conversation” about AI management and safety in a closed-door Manhattan fundraiser last week.

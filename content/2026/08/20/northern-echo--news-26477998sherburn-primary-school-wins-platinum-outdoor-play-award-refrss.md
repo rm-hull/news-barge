@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Sherburn Primary School in County Durham has achieved the Platinum OPAL
   Outdoor Play and Learning award after transforming its outdoor play…
 image: https://www.thenorthernecho.co.uk/resources/images/21341960.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Video Gaming
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,10 @@ scraped_at: '2026-09-08T12:51:03Z'
 published: '2026-09-08T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/799910361_1423719363012192_7321587158838097428_n-e1788861639117.jpg
+categories:
+- Local
+- York
+- History
 ---
 
 Last weekend, nine North Yorkshire Fire and Rescue Service firefighters took on the Terry Farrell Firefighters Fund Memorial Stair Climb in Atlanta.

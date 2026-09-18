@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Arsenal complete the £55m signing of England defender Ezri Konsa from
   Aston Villa.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3d64/live/46e0da90-9d7d-11f1-8bc3-150f4c5f088b.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Ezri Konsa signs for Arsenal](https://ichef.bbci.co.uk/ace/standard/887/cpsprodpb/3d64/live/46e0da90-9d7d-11f1-8bc3-150f4c5f088b.jpg)

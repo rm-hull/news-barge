@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Raindance Spirit Award-winning documentary following Palestinian comedians
   will be shown in West Yorkshire on September 22
 image: https://www.thetelegraphandargus.co.uk/resources/images/21460102.jpg?type=og-image&xType=0&yType=180
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 A new documentary offering a fresh perspective on Palestinian stories will be screened in West Yorkshire this month.

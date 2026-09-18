@@ -9,6 +9,8 @@ published: '2026-08-27T00:00:00Z'
 description: Brits can finally join Europeans in installing plug-in solar kits, but
   there are considerations to bear in mind.
 image: https://cdn.mos.cms.futurecdn.net/UBmBPCF7Db4mL959ePtUM-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A balcony solar panel next to a man with a solar panel under his arm](https://cdn.mos.cms.futurecdn.net/UBmBPCF7Db4mL959ePtUM.jpg) 

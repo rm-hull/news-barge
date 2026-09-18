@@ -8,6 +8,9 @@ scraped_at: '2026-09-09T22:29:39Z'
 published: '2026-09-09T00:00:00Z'
 description: Ceramic model! Better heart rate accuracy! Readiness!
 image: https://cdn.mos.cms.futurecdn.net/AVjtbkFUysH5z7iVQUQDKL-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Apple Watch Series 12 vs Series 11 on wrist](https://cdn.mos.cms.futurecdn.net/AVjtbkFUysH5z7iVQUQDKL.jpg) 

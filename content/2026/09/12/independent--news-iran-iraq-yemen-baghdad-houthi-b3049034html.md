@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Iraq’s government is racing to contain the fallout after confirming that
   attacks on a Saudi pipeline, blamed on Iran-backed militias, came from its territory
 image: https://static.independent.co.uk/2026/09/11/23/APTOPIX_Yemen_War_12845.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Iraq’s government was racing Saturday to contain the fallout after local Iran-backed militias were accused of attacking and shuttering a key Saudi pipeline. Iraq's government confirmed the attacks had originated from its territory, pledged to investigate and dismissed a military commander.

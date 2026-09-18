@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A Reform UK councillor’s suggestion that he is midway through setting
   up a community rangers force has met with criticism - with one politician…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21459418.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: T&A)*

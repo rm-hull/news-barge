@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: High street footfall was down 3.1% year on year, an improvement on July’s
   3.8% decline when shoppers sheltered from the heat at home.
 image: https://static.independent.co.uk/2026/09/04/00/cddd22330048185ea81d8ade91353934Y29udGVudHNlYXJjaGFwaSwxNzg4NTIyNjEx-2.85554988.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Retail footfall was down 1.7% year on year in August despite cooler temperatures luring shoppers back after a scorching July, figures show.

@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Pat Marsh, a long-serving councillor in Harrogate, has been deemed unfit
   to stand trial.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a9b/live/84da9fd0-a44e-11f0-8a21-ff96e44d1cc2.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![A smiling woman wearing glasses with short, grey hair. She is wearing a cream top underneath a yellow jacket with the top of a yellow rosette showing.](https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/4a9b/live/84da9fd0-a44e-11f0-8a21-ff96e44d1cc2.jpg)

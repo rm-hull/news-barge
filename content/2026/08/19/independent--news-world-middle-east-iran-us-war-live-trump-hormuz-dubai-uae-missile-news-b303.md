@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: UAE blames Iran for ballistic missile launches targeting shipping in
   region
 image: https://static.independent.co.uk/2026/08/18/11/2290383216..?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Iran has reportedly drawn up plans to target US military assets in Europe if Donald Trump escalates the conflict, as the US president claimed the Strait of Hormuz as American territory.

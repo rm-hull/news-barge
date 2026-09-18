@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: When it comes to social care, Andy Burnham’s heart is in the right place,
   but already his proposals for a national care service are failing to add up.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjJmNGNmYWQwLWYyMDctNDhlMy05OWEyLTdmZmRmYzEwMTY5ZjozNmUzMDJlNy1mMmFiLTRlMGEtYjM1ZC1iOTFjOGNmNmUyMTM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Proposals for a national care service are failing to add up without international workers - Jayne Dowle

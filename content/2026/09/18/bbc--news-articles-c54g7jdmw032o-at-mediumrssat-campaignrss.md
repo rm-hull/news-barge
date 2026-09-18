@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: It is the first time the juror, who refused to side with the others and
   acquit Clancy, has spoken publicly about his decision.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8bd9/live/4ffadb90-b34d-11f1-b949-71f91f81d1ab.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Defendant Lindsay Clancy in the courtroom during the trial](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/8bd9/live/4ffadb90-b34d-11f1-b949-71f91f81d1ab.jpg)

@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Guiseley in Yorkshire is just one of the places that has a very confusing
   name to pronounce but here's a guide to help you impress the locals.
 image: https://www.yorkpress.co.uk/resources/images/21411680.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: Google Maps)*

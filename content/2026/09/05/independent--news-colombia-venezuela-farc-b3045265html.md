@@ -10,6 +10,10 @@ description: An attack involving explosives dropped from drones and a clash insi
   a military compound in northeastern Colombia has killed at least three soldiers
   and wounded four others
 image: https://static.independent.co.uk/2026/08/25/00/Colombia_Migration_64487.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 An attack involving explosives dropped from drones followed by a clash inside a military compound in northeastern Colombia has killed at least three soldiers and wounded four, Colombia's army said Saturday.

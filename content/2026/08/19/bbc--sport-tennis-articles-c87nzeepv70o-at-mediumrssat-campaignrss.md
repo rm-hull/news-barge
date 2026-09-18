@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Nick Kyrgios once said he did not want to play tennis into his 30s. A
   positive cocaine test could have brought an end to his career aged 31.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/71a2/live/4841ebf0-9be2-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Nick Kyrgios gestures after a point in the Wimbledon men's singles final in 2022](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/71a2/live/4841ebf0-9be2-11f1-a291-b542ee92de7c.jpg)

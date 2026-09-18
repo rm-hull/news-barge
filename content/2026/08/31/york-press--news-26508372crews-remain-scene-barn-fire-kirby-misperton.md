@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Crews remain at the scene of a fire which began after lightning struck
   two barns in North Yorkshire yesterday evening (Sunday).
 image: https://www.yorkpress.co.uk/resources/images/21391149.jpg?type=og-image&xType=0&yType=637
+categories:
+- Local
+- York
+- Sports
 ---
 
 ## PICTURES - Firefighters still at scene of major fire started by lightning strike

@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: A Bradford Post Office has officially reopened - but questions remain
   as to why it was shut for nine months
 image: https://www.thetelegraphandargus.co.uk/resources/images/21356803.jpg?type=og-image&xType=0&yType=112
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Mike Simmonds)*

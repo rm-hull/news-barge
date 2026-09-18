@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: 'Minsk insists there is no cause for concern, and the Belarusian defence
   ministry describes the exercises as "purely defensive". #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/48/42/1200x675_cmsv2_1f41cb48-a18b-511a-a73c-990318bb9178-9914842.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Minsk insists there is no cause for concern, and the Belarusian defence ministry describes the exercises as "purely defensive".

@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The Reform UK leader said a "whole ecosystem" didn't want "new kids on
   the block succeeding".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8e2b/live/f05a8120-a6c4-11f1-ae1e-219da1d6451a.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Nigel Farage](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/8e2b/live/f05a8120-a6c4-11f1-ae1e-219da1d6451a.jpg)

@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Iran said it reached an agreement with Oman over a plan for ships to
   transit the Strait of Hormuz
 image: https://static.independent.co.uk/2026/08/17/07/2290241750..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Donald Trump has cast fresh doubt over a peace deal with Iran while Tehran officials have issued a new threat.

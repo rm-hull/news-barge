@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Bradford workers could be among those concerned after Jaguar Land Rover
   revealed plans to cut 4,000 jobs, with most reductions expected to come from…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21259836.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Dave Thompson/PA)*

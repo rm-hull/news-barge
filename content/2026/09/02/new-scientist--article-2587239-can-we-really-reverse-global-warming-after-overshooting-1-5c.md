@@ -9,6 +9,9 @@ description: A UN report says it’s possible to get global temperatures back do
   1.5°C above pre-industrial levels by the end of the century, but many researchers
   regard this scenario as highly unlikely
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310266094.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310266094.jpg?w=840)

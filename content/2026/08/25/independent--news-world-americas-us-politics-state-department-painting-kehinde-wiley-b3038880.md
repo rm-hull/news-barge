@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The painting Young Artists After Siamesas 1960 had been hanging in the
   U.S. Embassy in Santo Domingo since 2015 before being removed
 image: https://static.independent.co.uk/2026/08/25/14/58/Screenshot-2026-08-25-at-10-02-14-AM.png?trim=117,0,267,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Trump administration officials at the State Department are considering selling off a painting by the artist who also painted a portrait of former President Barack Obama, claiming his work contains “violent” and “racist” depictions.

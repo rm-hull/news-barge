@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: 'Digital rights group Access Now is marking the 10th anniversary of its
   #KeepItOn campaign by giving voice to those affected by internet shutdowns'
 image: https://cdn.mos.cms.futurecdn.net/YFudZPq8gUgWQjZPDDcKfR-759-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- News & Politics
 ---
 
 ![Acess Now's KeepItOn 10th anniversary graphic](https://cdn.mos.cms.futurecdn.net/YFudZPq8gUgWQjZPDDcKfR.png) 

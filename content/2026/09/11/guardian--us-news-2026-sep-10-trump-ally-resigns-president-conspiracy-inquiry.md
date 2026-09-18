@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: Joe diGenova led investigation focused on intelligence assessment that
   Russia interfered in 2016 election
 image: https://i.guim.co.uk/img/media/f10417e239548f2d78236db887c17d08ad71353b/293_0_3510_2809/master/3510.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=003610d123caa33080cbc1a604c2380e
+categories:
+- UK
+- News & Politics
 ---
 
 A longtime ally of Donald Trump resigned from his post leading a Department of Justice investigation into whether former law enforcement and intelligence officials conspired against the Republican president.

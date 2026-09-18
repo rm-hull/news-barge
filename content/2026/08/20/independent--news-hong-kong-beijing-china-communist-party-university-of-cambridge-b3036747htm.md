@@ -10,6 +10,10 @@ description: Two former organizers of Hong Kong’s massive vigils to remember t
   Tiananmen Square crackdown will hear their verdict on Friday, in a national security
   trial under a Beijing-imposed law that has virtually silenced the city’s dissent
 image: https://static.independent.co.uk/2026/08/21/00/Hong_Kong_Tiananmen_Organizers_What_to_Know_33987.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Lee Cheuk-yan and Chow Hang-tung are two prominent Hong Kong activists who helped lead the group behind the city’s massive annual vigils commemorating the 1989 Tiananmen Square crackdown. They were charged in 2021 with inciting subversion under Hong Kong’s national security law.

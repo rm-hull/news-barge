@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: A 27-year-old German man was arrested immediately after the incident
   in Rosenheim, Bavaria.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/229c/live/8e80aca0-a45c-11f1-b370-b9b7934350c8.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Sports
 ---
 
 ![Pastel-coloured buildings in Rosenheim, Bavaria, with a church tower with green roof seen at the end of the street, against a blue sky](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/229c/live/8e80aca0-a45c-11f1-b370-b9b7934350c8.jpg)

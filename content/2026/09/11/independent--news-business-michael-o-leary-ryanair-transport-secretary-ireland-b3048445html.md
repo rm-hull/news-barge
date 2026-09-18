@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Ryanair boss Michael O’Leary was heavily criticised after he said it
   was ‘absolutely’ appropriate to compare competitor airlines to “rapists”.
 image: https://static.independent.co.uk/2026/09/11/09/8a728bdad6a5660a81e0705ef9984c81Y29udGVudHNlYXJjaGFwaSwxNzg5MTk5MzU4-2.85804342.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The boss of Ryanair’s comparison of other airlines to “rapists” will have lost his company the confidence of women who have been subject to sexual assault, the Transport Secretary has said.

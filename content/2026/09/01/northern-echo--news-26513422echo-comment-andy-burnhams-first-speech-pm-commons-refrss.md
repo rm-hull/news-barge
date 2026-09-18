@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: SIX weeks into the job, the Burnham bounce has put a spring into the
   step of the Labour Party and sprung it to the top of the polls as Reform’s…
 image: https://www.thenorthernecho.co.uk/resources/images/21398684.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: House of Commons/UK Parliament)*

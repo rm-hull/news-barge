@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: A family concert celebrating beloved animated classics will entertain
   audiences of all ages.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21379412.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Music
 ---
 
 *(Image: Bradford Council)*

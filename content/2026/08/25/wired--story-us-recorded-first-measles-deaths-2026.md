@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The fatalities come amidst declining vaccination rates and calls from
   President Donald Trump to split up the MMR vaccine.
 image: https://media.wired.com/photos/6a8ddadb80902edd49600c89/191:100/w_1280,c_limit/Science_US%20Sees%20First%20Measles%20Deaths%20of%202026_v1.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
 ---
 
 Amid a 35-year high in US measles cases, two people in Pennsylvania have died after contracting the virus, the state’s health department confirmed on Tuesday. They are the first measles-related deaths in the country this year.

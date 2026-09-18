@@ -9,6 +9,10 @@ description: A husband, who cannot be named to protect his wife's anonymity, ple
   guilty to more than 60 offences, including rape and administering a substance with
   intent.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d870/live/8c959890-b05c-11f1-9902-771b6dd8af6a.png
+categories:
+- UK
+- News & Politics
+- Relationships & Dating
 ---
 
 ![Manchester Crown Court at Minshull Street](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d870/live/8c959890-b05c-11f1-9902-771b6dd8af6a.png)

@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: A man has been arrested after police executed a warrant at an address
   in Ilkley following information provided by members of the public.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21412443.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: WYP)*

@@ -7,6 +7,11 @@ scraped_at: '2026-08-23T08:44:52Z'
 published: '2026-08-23T00:00:00Z'
 description: Police are appealing for the public's help to find a missing 15-year-old.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21358836.jpg?type=og-image&xType=0&yType=532
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

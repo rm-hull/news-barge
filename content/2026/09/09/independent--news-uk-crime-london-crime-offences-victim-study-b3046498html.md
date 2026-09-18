@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: Researchers said the ‘London in decline narrative’ is fuelling misconceptions
   about the capital
 image: https://static.independent.co.uk/2026/09/01/14/01M1EJ336BZ1Z6SBB91BY8SZT3.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Society & Culture
 ---
 
 Londoners are far less likely to be the victims of crime than Britons generally believe, with half the population wrongly estimating the capital is the worst region for violent crime, according to a new study.

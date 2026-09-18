@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: A private spacecraft that was supposed to save NASA's sinking Swift Observatory
   has managed to come within nine miles of the doomed spacecraft and even snap pictures
 image: https://static.independent.co.uk/2026/09/04/15/Satellite_Rescue_Mission_21244.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- Technology & Software
 ---
 
 A private spacecraft that was supposed to supply a lifeline to NASA’s Swift Observatory managed to get close to the sinking telescope and even snap photos more than a week after the rescue was abandoned.

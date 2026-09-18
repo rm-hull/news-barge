@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Jonathan Majors stars as a Delta Force veteran fighting to save students
   in this viral action thriller
 image: https://cdn.mos.cms.futurecdn.net/2kQ6v9kUfzegnKbWN4E9uJ-500-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Run Hide Fight: Infidels 2026 movie with man looking intensely down the barrel of a gun against a striking yellow background](https://cdn.mos.cms.futurecdn.net/2kQ6v9kUfzegnKbWN4E9uJ.jpg) 

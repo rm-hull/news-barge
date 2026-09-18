@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Amanda Owen has lived at Ravenseat for years, but the Our Yorkshire Farm
   star does not own the famous Yorkshire Dales farm.
 image: https://www.thenorthernecho.co.uk/resources/images/21458136.jpg?type=og-image&xType=0&yType=9
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: CHANNEL 4/LIME PICTURES)*

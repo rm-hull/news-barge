@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: President Trump ‘sees life in terms of winners and losers,’ Bill O’Reilly
   says
 image: https://static.independent.co.uk/2026/08/20/11/download..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump cannot let Iran make him “look like a loser” because his legacy is tied up in the war with the Islamic Republic, a former Fox News personality says.

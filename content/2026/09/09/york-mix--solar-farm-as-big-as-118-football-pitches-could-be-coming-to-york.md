@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T04:32:46Z'
 published: '2026-09-09T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/large-solar-farm-dreamstime.webp
+categories:
+- Local
+- York
+- Sports
 ---
 
 A solar farm covering an area as large as 118 football pitches could be coming to York.

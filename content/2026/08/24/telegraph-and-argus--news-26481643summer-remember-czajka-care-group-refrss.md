@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: At Czajka Care Group, exceptional care is about much more than providing
   expert nursing and support – it’s about creating meaningful…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21349493.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 In partnership with

@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Promoter Eddie Hearn says "no-one can pull out" of the proposed fight
   between Tyson Fury and Anthony Joshua.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5502/live/e45a3880-9e7b-11f1-b70a-adbf90d67554.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Eddie Hearn](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/5502/live/e45a3880-9e7b-11f1-b70a-adbf90d67554.jpg)

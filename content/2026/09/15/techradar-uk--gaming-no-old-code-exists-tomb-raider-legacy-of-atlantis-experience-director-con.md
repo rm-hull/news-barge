@@ -10,6 +10,8 @@ published: '2026-09-15T00:00:00Z'
 description: 'Crystal Dynamics has explained why it chose to build Tomb Raider: Legacy
   of Atlantis from the ground up on Unreal Engine 5.'
 image: https://cdn.mos.cms.futurecdn.net/VPnn8k6TuzxWvPnVCKj9Rk-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Tomb Raider: Legacy of Atlantis](https://cdn.mos.cms.futurecdn.net/VPnn8k6TuzxWvPnVCKj9Rk.jpg) 

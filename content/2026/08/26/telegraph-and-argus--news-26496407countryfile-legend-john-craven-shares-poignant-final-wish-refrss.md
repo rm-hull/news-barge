@@ -8,6 +8,11 @@ scraped_at: '2026-08-26T13:12:15Z'
 published: '2026-08-26T00:00:00Z'
 description: Countryfile legend John Craven has shared a "poignant final wish".
 image: https://www.thetelegraphandargus.co.uk/resources/images/21012662.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Jon Lewis)*

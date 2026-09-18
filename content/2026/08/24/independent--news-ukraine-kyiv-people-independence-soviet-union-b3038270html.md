@@ -10,6 +10,10 @@ description: Military amputees and veterans in Ukraine marked Independence Day b
   completing Iron Week, a grueling seven-day endurance event covering more than 1,500
   kilometers (930 miles) across the country
 image: https://static.independent.co.uk/2026/08/24/15/Russia_Ukraine_War_54757.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Military amputees and war veterans in Ukraine marked Independence Day on Monday by finishing a grueling endurance race that took them more than 1,500 kilometers (930 miles) around the country.

@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: The couple behind a renowned Victorian pub in Ripon say it was the legendary
   Woodstock Festival which inspired them to launch their Magstock event.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmEwNzY1MmJlLWJjMjEtNDJjNS05ZjEwLTNlYjE0MWUxNzRhNjoyNjcyNGZjZS1hMzQ1LTQ1ZWEtYTU0OS1jODgyODcyY2JjODE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
+- Arts & Culture
 ---
 
 # How Woodstock Festival inspired Ripon pub's forthcoming bank holiday music event

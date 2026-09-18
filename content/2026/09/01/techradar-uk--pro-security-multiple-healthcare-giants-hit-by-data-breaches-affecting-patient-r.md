@@ -8,6 +8,9 @@ scraped_at: '2026-09-01T22:34:17Z'
 published: '2026-09-01T00:00:00Z'
 description: Boston Scientific and McKesson are working on restoring services
 image: https://cdn.mos.cms.futurecdn.net/9DcUT2RtbvGV8dbUy5P8MA-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Laboratory](https://cdn.mos.cms.futurecdn.net/9DcUT2RtbvGV8dbUy5P8MA.jpg) 

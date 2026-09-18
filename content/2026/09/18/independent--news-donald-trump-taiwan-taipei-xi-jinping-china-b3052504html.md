@@ -10,6 +10,10 @@ description: Taiwan’s president has overseen military drills featuring missile
   drones on Friday, ahead of a planned summit next week between the U.S. and Chinese
   leaders in which the fate of the self-ruled island will be discussed
 image: https://static.independent.co.uk/2026/09/18/13/Taiwan_Drills_83318.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Taiwan conducted military drills featuring missiles and drones on Friday ahead of the summit next week in the U.S. between President Donald Trump and China's Xi Jinping in which the fate of the self-ruled island will be discussed.

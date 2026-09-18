@@ -9,6 +9,9 @@ scraped_at: '2026-08-24T11:48:23Z'
 published: '2026-08-24T00:00:00Z'
 description: The bottom-gate JFET holds its threshold voltage to within 0.1V at 400°C.
 image: https://cdn.mos.cms.futurecdn.net/YdZbVjBsghJp5q9fsqEwpT-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Kyoto University demonstrates a SiC transistor that runs at 600°C using standard ion implantation](https://cdn.mos.cms.futurecdn.net/YdZbVjBsghJp5q9fsqEwpT.png) 

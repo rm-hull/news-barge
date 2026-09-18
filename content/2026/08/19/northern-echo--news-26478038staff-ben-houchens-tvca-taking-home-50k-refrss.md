@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: More than 60 officers at Tees Valley Combined Authority (TVCA) took home
   over £50,000 during the most recent financial year. This figure is up from…
 image: https://www.thenorthernecho.co.uk/resources/images/21108851.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 More than 60 officers at Tees Valley Combined Authority (TVCA) took home over £50,000 during the most recent financial year.

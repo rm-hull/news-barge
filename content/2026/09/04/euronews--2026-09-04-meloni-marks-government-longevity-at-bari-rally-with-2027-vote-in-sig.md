@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The durability of Meloni’s coalition has been a rarity in postwar Italy,
   where governments have often fallen before the end of their mandates.
 image: https://images.euronews.com/articles/stories/09/90/21/33/1200x675_cmsv2_b7a37367-d530-59bd-9bd7-4fad7879add5-9902133.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## The durability of Meloni’s coalition has been a rarity in postwar Italy, where governments have often fallen before the end of their mandates.

@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: A vessel with five people on board is "in distress" in the English Channel,
   the coastguard says.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2527/live/350634f0-a3ea-11f1-b38d-8903e6e81c24.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![A coastguard helicopter in red and white livery](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2527/live/350634f0-a3ea-11f1-b38d-8903e6e81c24.jpg)

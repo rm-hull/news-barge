@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Discover more about Console Gaming with insights from the experts at
   Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/SUJQMts6oFkL8scWtiQF4T-450-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ## Latest about Console Gaming

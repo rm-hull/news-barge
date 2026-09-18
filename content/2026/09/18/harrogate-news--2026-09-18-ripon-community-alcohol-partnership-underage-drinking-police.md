@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Enforcement logs indicate that North Yorkshire Police and licensing officers
   are scheduling a coordinated round of "Challenge 25" compliance testing and
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/beer.webp
+categories:
+- Local
+- Harrogate
+- Technology & Software
 ---
 
 **RIPON**— Internal multi-agency tracking reports have unveiled a comprehensive autumn safety strategy designed to suppress underage alcohol access, combat proxy purchasing, and secure known anti-social behaviour hotspots across the Ripon district.The latest operational updates from the Ripon Community Alcohol Partnership (CAP)—which coordinates resources across North Yorkshire Police, Trading Standards, the YMCA, and regional education providers—confirm that multi-agency teams are launching targeted compliance operations ahead of the winter freeze.

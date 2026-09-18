@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: An MP said schools “should never be forced to close because a safe journey
   home cannot be guaranteed” ahead of an A66 crash funeral.
 image: https://www.thenorthernecho.co.uk/resources/images/21409380.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 An MP said schools “should never be forced to close because a safe journey home cannot be guaranteed” amid anger over disruption due to an A66 crash funeral.

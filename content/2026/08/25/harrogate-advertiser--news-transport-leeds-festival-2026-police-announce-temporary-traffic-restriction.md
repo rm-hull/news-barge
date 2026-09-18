@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Temporary speed restrictions will be introduced during this year’s Leeds
   Festival to keep residents safe during the event.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmY5MzI1MTBiLWEzZGQtNGVhNi1hOTNiLWI5ZmY5MjUyOTE0MzoxNDI1NDIyMC1jOGMxLTRiZGYtOTg3Yi00OGQzM2MzMDc5NzQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 # Leeds Festival 2026: Police announce temporary traffic restrictions around Bramham Park

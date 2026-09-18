@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: A man who was killed in the Brunswick Village area of Newcastle has been
   named as Douglas Moffat as police charged a man and woman with murder.
 image: https://www.thenorthernecho.co.uk/resources/images/18778534.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: NEWSQUEST)*

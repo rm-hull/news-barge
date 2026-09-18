@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Stephen Cottrell, the Archbishop of York, will join Bishop Patricia Hillas
   and worshippers on a 25-mile pilgrimage across the Diocese of Sodor and…
 image: https://www.yorkpress.co.uk/resources/images/21463481.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

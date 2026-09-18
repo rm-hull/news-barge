@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: A logistics and operations management company has strengthened its presence
   in the North East with the opening of a new regional office, supporting…
 image: https://www.thenorthernecho.co.uk/resources/images/21456174.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 A logistics and operations management company has strengthened its presence in the North East with the opening of a new regional office, supporting a growing portfolio of major energy, infrastructure and industrial projects.

@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Alexander Scott-Bowen admitted his motives for the attacks was his own
   sexual gratification
 image: https://static.independent.co.uk/2026/09/15/12/19/Alexander-Scott-Bowen.png?trim=206,0,207,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A 24-year-old man has been sentenced after approaching several young girls to touch and sniff their feet.

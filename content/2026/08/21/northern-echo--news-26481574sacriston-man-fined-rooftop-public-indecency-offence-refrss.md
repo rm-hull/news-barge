@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: Paul Bell, 35, of Sacriston, admitted assaulting three police officers
   after an incident in a County Durham village in which he exposed himself on a…
 image: https://www.thenorthernecho.co.uk/resources/images/17013830.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: STUART BOULTON)*

@@ -9,6 +9,11 @@ description: PCs Tom Clough, 38, and Matthew Blades, 37, died after the police v
   they were driving was struck by a Volkswagen Passat travelling on the wrong side
   of the A66 in Teesside on Saturday night
 image: https://static.independent.co.uk/2026/08/23/15/f41c27d40ef5d1e8c8b82cc298d47ad8Y29udGVudHNlYXJjaGFwaSwxNzg3NTgwNTQ3-2.85627487.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Automotive
 ---
 
 The government has told TikTok and other social media companies to take down content featuring a social media trend showing people driving the wrong way down roads.

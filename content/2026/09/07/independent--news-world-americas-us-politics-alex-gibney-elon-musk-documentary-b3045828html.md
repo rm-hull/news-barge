@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Alex Gibney's new documentary “Musk” premieres this week at the Venice
   Film Festival
 image: https://static.independent.co.uk/2026/09/07/05/Venice_Film_Festival-Musk_494_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Comedy & Entertainment
 ---
 
 Documentary filmmaker Alex Gibney has spent his career investigating powerful institutions and controversial figures, from Enron and Elizabeth Holmes to Scientology and abuses at Bagram and Abu Ghraib. But he says none compares with the power wielded by his latest subject: Elon Musk.

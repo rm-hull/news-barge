@@ -8,6 +8,8 @@ published: '2026-09-01T00:00:00Z'
 description: Ukrainian intelligence says 35 firms, including American manufacturers,
   supplied components for Russia's upgraded Iskander-1000 missile despite sanctions.
 image: https://cdn.mos.cms.futurecdn.net/EjdBtHhpBKQF4i6kHowVYc-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Russian Iskander-M system](https://cdn.mos.cms.futurecdn.net/EjdBtHhpBKQF4i6kHowVYc.jpg) 

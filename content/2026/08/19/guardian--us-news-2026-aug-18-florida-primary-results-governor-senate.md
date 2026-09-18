@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: Congressman had pledged to implement president’s agenda if he gained
   governor’s seat
 image: https://i.guim.co.uk/img/media/d9bd9442691bfbfe214b6946202965f532cd5336/333_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f26b900700b5ebd2632ee54ecd49e5b
+categories:
+- UK
+- News & Politics
 ---
 
 Byron Donalds, a congressman backed by Donald Trump, won the Republican nomination for governor on Tuesday in the race to succeed Ron DeSantis.

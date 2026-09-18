@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: One scientist says there are thousands of sites across the UK that need
   investigating.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6856/live/1ca732b0-a0cf-11f1-897d-3f2b3b8ed886.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 ![Michael Sheen looks at the camera. He is wearing a green scarf and a plaid red shirt and a coat over the top. Behind him is a waste site which is fenced off.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6856/live/1ca732b0-a0cf-11f1-897d-3f2b3b8ed886.jpg)

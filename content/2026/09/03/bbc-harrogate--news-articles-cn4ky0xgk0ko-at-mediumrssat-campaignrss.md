@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Residents in Helperby say the temporary closure of the surgery could
   lead to difficulties for them.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb78/live/3b684400-a705-11f1-a215-852845290abe.jpg
+categories:
+- Local
+- Harrogate
+- Health & Fitness
 ---
 
 ![A dark brown wooden door with white signage.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/eb78/live/3b684400-a705-11f1-a215-852845290abe.jpg)

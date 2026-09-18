@@ -9,6 +9,9 @@ description: People in Iran are bracing for a new round of U.S. sanctions aimed 
   further isolating the country and increasing pressure on its battered economy. Washington
   also warned nations to cut financial ties with Tehran or face retaliation.
 image: https://static.independent.co.uk/2026/08/24/20/Iran_Daily_Life_17826.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Photos of daily life in Tehran as Iran braces for new US sanctions

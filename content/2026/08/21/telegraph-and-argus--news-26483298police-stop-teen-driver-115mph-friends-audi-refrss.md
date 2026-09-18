@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: A teenage driver who had held his licence for just eight months is facing
   court after police caught him driving at 115mph on the A629 bypass.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21352679.jpg?type=og-image&xType=0&yType=590
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: West Yorkshire Police)*

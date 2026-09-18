@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: Fans of LEGO from near and far flocked to Ponds Forge in Sheffield this
   weekend to show off their incredible creations.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjUwNzEzZTI2LTczZGMtNDUyMi1iMTZhLThiYzNjM2M1ZjQ3ZTowYTcyNDgzMS1iNGE4LTRjZTItYTNmOS1iZWIzYTFhYjVmZjU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 The annual Sheffield Brick Festival returned for its ninth edition on Saturday between 10am and 4pm.

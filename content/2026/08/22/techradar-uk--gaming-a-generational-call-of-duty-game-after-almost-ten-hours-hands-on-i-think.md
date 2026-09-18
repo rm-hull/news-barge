@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Modern Warfare 4 is shaping up to be a generational Call of Duty experience
   if the ongoing beta is anything to go by.
 image: https://cdn.mos.cms.futurecdn.net/eWGan4zMwtLvyEVJWNaKhk-1920-80.jpg
+categories:
+- Technology & Software
+- History
+- Arts & Culture
 ---
 
 ![A screenshot showing armor-clad soldiers in Modern Warfare 4.](https://cdn.mos.cms.futurecdn.net/eWGan4zMwtLvyEVJWNaKhk.jpg) 

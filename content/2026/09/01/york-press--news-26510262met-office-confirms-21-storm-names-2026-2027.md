@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The Met Office has shared the official list of 21 confirmed storm names
   for the 2026/27 storm season and why they appear on the list.
 image: https://www.yorkpress.co.uk/resources/images/21392173.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Getty)*

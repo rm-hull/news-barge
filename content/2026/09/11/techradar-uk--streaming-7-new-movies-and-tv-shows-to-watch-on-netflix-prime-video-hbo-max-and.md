@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: From Supergirl's official streaming debut to The Paper's latest issue,
   here's what's worth watching this weekend.
 image: https://cdn.mos.cms.futurecdn.net/XZfYDQz4yUeGrmRTteBjKf-1600-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Kara Zor-El looking worried in Supergirl](https://cdn.mos.cms.futurecdn.net/XZfYDQz4yUeGrmRTteBjKf.jpg) 

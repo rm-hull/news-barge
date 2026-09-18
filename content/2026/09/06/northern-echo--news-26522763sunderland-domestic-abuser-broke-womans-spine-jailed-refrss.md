@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A serial domestic abuser concluded his reign of terror against a former
   partner by fracturing her spine and pelvis with his van.
 image: https://www.thenorthernecho.co.uk/resources/images/21411624.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 A serial domestic abuser concluded his reign of terror against a former partner by fracturing her spine and pelvis with his van.

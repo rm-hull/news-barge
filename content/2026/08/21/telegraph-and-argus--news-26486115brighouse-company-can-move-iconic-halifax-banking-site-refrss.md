@@ -9,6 +9,12 @@ published: '2026-08-21T00:00:00Z'
 description: A Brighouse-based company can move operations to a famous Calderdale
   site, allowing it to expand, planners have agreed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21356552.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ### What is the Public Notice Portal?

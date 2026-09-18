@@ -9,6 +9,11 @@ description: The Great White North has the upper hand when it comes to oil and g
   but experts tell Alex Woodward they hope cooler heads will prevail before the risk
   of mutually assured economic destruction
 image: https://static.independent.co.uk/2026/09/03/13/2026-09-01T151936Z_1847696710_RC20VLAKPE60_RTRMADP_3_USA-TRUMP-TARIFFS-CANADA.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Business & Entrepreneurship
 ---
 
 President Donald Trump’s escalating trade war with Canada has a nuclear option. Though it’s highly unlikely, Canadian officials could send the tariff battle into overdrive by raising the possibility of weaponized oil and gas levies.

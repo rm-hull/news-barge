@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Trump calls fuel costs ‘a very inexpensive price to pay’ for his Iran
   war
 image: https://static.independent.co.uk/2026/09/16/21/2026-09-16T171402Z_912914715_RC2HKNA0KGEL_RTRMADP_3_GLOBAL-OIL.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The price of diesel hit another record high Thursday morning and is expected to climb higher — along with the surging cost of gasoline — as fallout from President Donald Trump’s ongoing Iran war continues to restrict global oil supplies.

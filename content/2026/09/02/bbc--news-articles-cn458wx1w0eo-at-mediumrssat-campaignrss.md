@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Four people, aged between 19 and 38, appear in court charged with murdering
   the newborn.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/de1b/live/b3bb1cd0-a61e-11f1-bb6f-e5db02d232fa.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Two police officers stand guard outside the entrance to a house. Visible in the photo is some police tape and a bouquet of flowers.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/de1b/live/b3bb1cd0-a61e-11f1-bb6f-e5db02d232fa.jpg)

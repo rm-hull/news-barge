@@ -7,6 +7,11 @@ scraped_at: '2026-08-30T13:48:00Z'
 published: '2026-08-30T00:00:00Z'
 description: Psychic Sally is set to appear at St George's Hall on September 10.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21379376.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Submitted)*

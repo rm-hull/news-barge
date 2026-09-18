@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: A popular beer festival is returning this autumn, promising a packed
   weekend of drinks, food and live entertainment.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21471390.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: UGC)*

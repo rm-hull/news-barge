@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: President Donald Trump says he’s nominating acting Navy Secretary Hung
   Cao for the permanent job
 image: https://static.independent.co.uk/2026/09/02/10/2168604021..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump announced Tuesday he is nominating acting Navy Secretary Hung Cao for the permanent position, giving the combat veteran the nod as concerns grow that sailors are being stretched to the limit during the Iran war.

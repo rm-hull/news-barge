@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Khalifa and 11 others face death sentences in a major synthetic drug
   trafficking case, with appeals and further legal challenges expected.
 image: https://images.euronews.com/articles/stories/09/90/36/54/1200x675_cmsv2_48c5a9a7-4be4-5fe3-ad51-0ece1d6391ee-9903654.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## Khalifa and 11 others face death sentences in a major synthetic drug trafficking case, with appeals and further legal challenges expected.

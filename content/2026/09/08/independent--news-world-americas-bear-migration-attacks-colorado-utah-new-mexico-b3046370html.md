@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Wildlife officials in the Rocky Mountain region are reporting far more
   trouble than usual between black bears and people this summer
 image: https://static.independent.co.uk/2026/09/08/05/Drought_Bear_Trouble_1_3854_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Travel
 ---
 
 When Patrick Sullivan heard a car horn blaring nonstop at 3 am while up feeding his infant son one night this summer, he was convinced a "crazy neighbor" was responsible.

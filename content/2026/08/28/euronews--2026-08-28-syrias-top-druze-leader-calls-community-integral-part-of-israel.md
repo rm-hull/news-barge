@@ -9,6 +9,10 @@ description: Sheikh al-Aql Hikmat al-Hijri made the declaration at a gathering i
   Suwayda, praising Israel's model of state-building and saying the two communities
   shared doctrinal "common denominators," a statement that deepens the rift with Damascus.
 image: https://images.euronews.com/articles/stories/09/89/13/66/1200x675_cmsv2_086bc1d8-8223-53d1-af22-3f4daf250cf9-9891366.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## Sheikh al-Aql Hikmat al-Hijri made the declaration at a gathering in Suwayda, praising Israel's model of state-building and saying the two communities shared doctrinal "common denominators," a statement that deepens the rift with Damascus.

@@ -10,6 +10,10 @@ description: An affidavit named the U.S. Department of Energy, HHS, NIH, and fou
   unnamed companies in the United States and South Korea as victims compromised by
   the hackers
 image: https://static.independent.co.uk/2026/08/26/17/2026-08-05T060007Z_198549187_RC245MA0FU6R_RTRMADP_3_USA-JUSTICE-FBI-CHINA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The United States announced Wednesday that it disrupted an extensive Chinese cyber-espionage operation responsible for hacking the U.S. Justice Department, NASA, the Federal Reserve, the U.S. Senate, and several other sensitive federal agencies.

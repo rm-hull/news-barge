@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Brother of former treasurer and premier faces questions about texts that
   appear to indicate he was aware of fast-tracking policy before it was announced
 image: https://i.guim.co.uk/img/media/59f96250ab6322401d7cd6f0b730da38d437801d/249_0_2502_2002/master/2502.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c20b9e15716a7b0fcbdf9ea87b3fdb26
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Science
 ---
 
 Did the former premier’s brother, Charles Perrottet, have prior knowledge of a Covid-era New South Wales government policy to introduce a fast track to approve major developments?

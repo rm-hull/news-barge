@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Three more men have been arrested in connection with a shooting incident
   which left a man hospitalised with gunshot wounds.
 image: https://www.thetelegraphandargus.co.uk/resources/images/17073605.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Archive photo)*

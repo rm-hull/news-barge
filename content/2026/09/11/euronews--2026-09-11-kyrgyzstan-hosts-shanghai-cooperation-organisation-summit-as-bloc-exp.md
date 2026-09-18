@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: 'World leaders gathered in Bishkek for the Shanghai Cooperation Organisation’s
   25th anniversary summit, as Kyrgyzstan concluded its year as chair. #Focus'
 image: https://images.euronews.com/articles/stories/09/90/88/27/1200x675_cmsv2_bcedcaf2-771c-5fb5-936c-1048632c7f63-9908827.jpg
+categories:
+- Europe
+- News & Politics
+- Careers & Productivity
 ---
 
 ## World leaders gathered in Bishkek for the Shanghai Cooperation Organisation’s 25th anniversary summit, as Kyrgyzstan concluded its year as chair.

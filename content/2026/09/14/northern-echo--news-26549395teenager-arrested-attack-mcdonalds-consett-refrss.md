@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A teenager has been arrested after a man was left unconscious in an attack
   at a County Durham McDonald’s.
 image: https://www.thenorthernecho.co.uk/resources/images/21453963.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: GOOGLE)*

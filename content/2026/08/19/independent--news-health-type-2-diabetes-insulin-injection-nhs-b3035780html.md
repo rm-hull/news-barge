@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The treatment, also known as Onswik and made by Eli Lilly, is said to
   work as well as daily injections
 image: https://static.independent.co.uk/2022/02/09/13/iStock-645403776.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Hundreds of thousands of people with type 2 diabetes could benefit if the medicines regulator approves a new weekly jab which cuts the number of injections needed by 86 per cent.

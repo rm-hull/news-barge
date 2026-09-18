@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Participants in Pittsburgh may never learn the results of their cognitive
   tests – and funding cuts that target ‘DEI’ have the potential to delay vital diagnoses
 image: https://i.guim.co.uk/img/media/c27a894c31380dc7aa6959dda1459be3e129f88f/335_0_3500_2800/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3aced79699ec3d65a180fc1ba1124771
+categories:
+- UK
+- News & Politics
+- Science
+- Health & Fitness
 ---
 
 Roderick Blair was surprised when scientific researchers appeared on his doorstep in the Homewood neighborhood of Pittsburgh, Pennsylvania.

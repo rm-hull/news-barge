@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Manchester United are in talks to sign Cameroon international Carlos
   Baleba having reignited their interest in the midfielder.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1d1d/live/6e503ff0-9bcd-11f1-bb4d-1147ef2e78e5.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Brighton midfielder Carlos Baleba in action against Manchester United on the final day of last season](https://ichef.bbci.co.uk/ace/standard/533/cpsprodpb/1d1d/live/6e503ff0-9bcd-11f1-bb4d-1147ef2e78e5.jpg)

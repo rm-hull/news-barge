@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: A man who raped a young girl when he was only 11 and 12 years old has
   been jailed after a jury found him guilty following a trial.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21442531.jpg?type=og-image&xType=0&yType=750
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: West Yorkshire Police)*

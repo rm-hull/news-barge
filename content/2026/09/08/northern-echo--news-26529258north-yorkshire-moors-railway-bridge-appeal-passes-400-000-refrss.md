@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: The North Yorkshire Moors Railway (NYMR) has seen its Bridge 42 Appeal
   raise £400,000 for urgent repairs.
 image: https://www.thenorthernecho.co.uk/resources/images/21421624.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 A heritage railway has raised more than £400,000 for urgent bridge repairs that will help keep its historic trains running.

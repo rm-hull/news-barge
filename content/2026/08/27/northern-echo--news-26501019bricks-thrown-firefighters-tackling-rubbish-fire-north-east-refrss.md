@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: A Tyne and Wear Fire and Rescue crew was attacked with bricks while responding
   to a rubbish fire, leaving an appliance badly damaged and temporarily…
 image: https://www.thenorthernecho.co.uk/resources/images/21379566.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Tyne and Wear Fire and Rescue Service)*

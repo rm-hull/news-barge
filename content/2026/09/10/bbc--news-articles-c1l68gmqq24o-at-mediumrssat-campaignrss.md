@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Twenty-five years on, the attacks have come to define a generation of
   foreign, security and intelligence policy, the BBC's security correspondent writes.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d4be/live/20e34ef0-ad76-11f1-82d5-a7540ce040a8.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 **The first duty of a government, countless leaders over the decades have said, is to safeguard its population. On 11 September 2001 the US manifestly failed to do that. The intelligence was there, yet tragically, nobody joined up the dots in time.**

@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: Kosovo lawmakers have voted in a new government led by Prime Minister
   Albin Kurti
 image: https://static.independent.co.uk/2026/09/13/16/Kosovo_Government_78947.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Kosovo lawmakers on Sunday voted into office a new government of Prime Minister Albin Kurti following an early election in June in the small Balkan nation that remains locked in a prolonged political crisis.

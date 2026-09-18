@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: The A1(M) has reopened at Bowburn. Durham police vehicles were spotted
   blocking the entrance to the motorway.
 image: https://www.thenorthernecho.co.uk/resources/images/21388376.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 - Good afternoon, welcome to The Northern Echo's live blog on an medical incident on the A1(M).

@@ -9,6 +9,8 @@ published: '2026-08-20T00:00:00Z'
 description: Runlayer and Rippling have dropped their lawsuits. No money was paid.
   Rippling celebrated by releasing a competing product.
 image: https://techcrunch.com/wp-content/uploads/2022/10/TechCrunch-Disrupt-Haje-Kamps-828.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
 ---
 
 On Wednesday night, Runlayer and Rippling dropped their respective lawsuits against each other. No settlement was made. No money changed hands. Not even lawyers’ fees, according to court documents seen by TechCrunch.

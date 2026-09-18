@@ -10,6 +10,10 @@ published: '2026-09-02T00:00:00Z'
 description: The farmer was arrested on charges of trespassing for going 30 seconds
   over his allotted time to speak against a data center project.
 image: https://cdn.mos.cms.futurecdn.net/GV6Rr8BXN8kuvdqjTwVnuJ-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![a body cam on a police officer](https://cdn.mos.cms.futurecdn.net/GV6Rr8BXN8kuvdqjTwVnuJ.png) 

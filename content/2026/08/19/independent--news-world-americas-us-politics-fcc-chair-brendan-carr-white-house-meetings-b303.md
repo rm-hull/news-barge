@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: Newly released calendar logs show FCC Chair Brendan Carr made at least
   eight visits to the White House and held scheduled calls with senior officials
 image: https://static.independent.co.uk/2026/08/19/18/2026-08-06T174127Z_466844674_RC23JMAC9GAY_RTRMADP_3_USA-BROADCASTERS-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Federal Communications Commission Chair Brendan Carr maintained frequent access to White House officials and conservative media figures while overseeing the regulatory body, according to recently obtained agency records.

@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Crakehill Bank in Hamsterley, which has been closed for nearly four years
   after a major landslip, is set to be shut permanently following a council…
 image: https://www.thenorthernecho.co.uk/resources/images/20313306.jpg?type=og-image&xType=0&yType=121
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 ### What is the Public Notice Portal?

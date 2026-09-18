@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: You need the internet from the very first minutes of a trip. Checking
   a map, finding somewhere to have lunch, booking a transfer, sending a quick…
 image: https://www.thenorthernecho.co.uk/resources/images/21472083.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Supplied)*

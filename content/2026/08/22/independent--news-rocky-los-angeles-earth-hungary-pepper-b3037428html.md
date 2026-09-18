@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Over the past 50 years, the Gibbon Conservation Center has become a globally
   recognized institution dedicated to the care and well-being of gibbons
 image: https://static.independent.co.uk/2026/08/22/05/Gibbon_Conservation_1_686.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Health & Fitness
 ---
 
 In between morning feedings, the gibbons begin to sing — loudly.

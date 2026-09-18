@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: On Thursday (September 10), the fire service were called out to a report
   of a kitten "stuck in a car engine" in the Listerhills area.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21453739.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: Pexels)*

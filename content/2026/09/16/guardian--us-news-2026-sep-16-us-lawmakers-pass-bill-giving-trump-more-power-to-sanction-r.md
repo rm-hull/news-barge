@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Act divides Democrats and Republicans, with some saying it gives president
   power that could be turned against US allies
 image: https://i.guim.co.uk/img/media/c4dd7f2b486025d0f5616e41dd37e0ed755d7b36/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=acf4968a770db756af9b8122c036ea0b
+categories:
+- UK
+- News & Politics
 ---
 
 The US Congress has passed a sweeping bill allowing Donald Trump to raise tariffs on top buyers of Russian energy and issue other punishing sanctions against the Kremlin following a pitched battle between lawmakers backing Ukraine and sceptics worried the bill gives the president too much power.

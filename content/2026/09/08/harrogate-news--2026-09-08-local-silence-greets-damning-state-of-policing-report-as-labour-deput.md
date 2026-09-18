@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: 'His Majesty’s Chief Inspector of Constabulary Michelle Skeer OBE QPM
   said:'
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Harrogate-Police-Station.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 **HARROGATE**— A complete wall of silence has gone up across North Yorkshire’s law enforcement leadership today, with both North Yorkshire Police (NYP) and the regional mayoral team explicitly refusing to comment on the day-one national release of a highly critical independent watchdog assessment.The

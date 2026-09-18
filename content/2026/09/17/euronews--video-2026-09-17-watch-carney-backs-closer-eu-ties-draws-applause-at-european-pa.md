@@ -9,6 +9,10 @@ description: Video. Canadian Prime Minister Mark Carney has called for a histori
   deepening of ties between Canada and the European Union, arguing that a changing
   geopolitical order is pushing the two sides towards a closer strategic alliance.
 image: https://images.euronews.com/articles/stories/09/91/75/19/1200x675_cmsv2_1e4b3ba3-b3c9-5465-b8b3-b9671f73eeae-9917519.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 Addressing the European Parliament in Strasbourg on 17 September, Carney backed European Commission President Ursula von der Leyen’s proposal to explore making Canada the EU’s first associate member, describing it as part of a broader effort to strengthen their sovereignty and resilience.

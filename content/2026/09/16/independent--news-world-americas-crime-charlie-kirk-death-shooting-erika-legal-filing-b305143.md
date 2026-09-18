@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Charlie Kirk’s family claims university officials failed to take safety
   measures that would have prevented his assassination
 image: https://static.the-independent.com/2025/09/10/19/22/SEI265523014.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The family of Charlie Kirk has filed a notice that they intend to sue Utah Valley University, claiming that a “series of stunning failures and reckless decisions” led to the conservative activist’s assassination during an event on campus last year.

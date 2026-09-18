@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Trump’s ‘bribe’ needs the support of both Republicans and probably Democrats
   too. It currently has neither one
 image: https://static.independent.co.uk/2026/09/13/17/28/johnson_mtp_926.jpg?trim=0,0,0,94&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Speaker Mike Johnson gave his reaction to Donald Trump’s promise to send Americans a $5,000 check if they protected Republican majorities in Congress during the upcoming midterm elections on Sunday.

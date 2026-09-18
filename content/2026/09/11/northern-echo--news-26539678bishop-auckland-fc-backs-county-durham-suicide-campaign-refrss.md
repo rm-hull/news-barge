@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Bishop Auckland FC has signed up as a Suicide Prevention Champion under
   the initiative led by Durham County Council.
 image: https://www.thenorthernecho.co.uk/resources/images/21436145.jpg?type=og-image&xType=0&yType=60
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Durham County Council)*

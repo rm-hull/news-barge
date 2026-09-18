@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Drake's Fish and Chips offers a range of classic dishes such as haddock
   and scampi with mushy peas and gravy.
 image: https://www.yorkpress.co.uk/resources/images/21330412.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## 'Special' fish and chip shop in York that offers a piece of the seaside in the city

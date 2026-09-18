@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A 40-year-old woman has died after being hit by a car near Featherstone,
   with a 26-year-old man arrested on suspicion of causing death by dangerous driving.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjI5M2E3NDU2LWI2NTctNDBmNy04ZTZhLTE2NDc4YjNlMTJkNTplYzlhYjY4NC03YjE5LTRiYjktYTFkNy0wYjkyOTRhMDI3OGQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Science
 ---
 
 # Woman dies after being hit by car near Featherstone as driver arrested

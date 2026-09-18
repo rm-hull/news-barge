@@ -8,6 +8,12 @@ published: '2026-09-14T00:00:00Z'
 description: The family of a man whose body was recovered from Ripon Canal has been
   informed about his death, police said.
 image: https://www.gazetteherald.co.uk/resources/images/21452517.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 *(Image: Newsquest)*

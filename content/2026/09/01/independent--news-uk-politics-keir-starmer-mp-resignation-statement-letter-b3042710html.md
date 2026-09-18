@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: The former Labour leader made the announcement just weeks after being
   replaced by Andy Burnham as prime minister
 image: https://static.independent.co.uk/2026/09/01/12/01KXZN0K8K82KYB7G1XWQXJ4MY.jpg?trim=12,0,12,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Former prime minister Sir Keir Starmer has resigned as an MP, stating he felt it was the "right time" to step down and concentrate on work in international affairs.

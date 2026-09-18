@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Rail passengers travelling through Leeds are being advised to allow extra
   time for their journeys over the bank holiday weekend.
 image: https://mmo.aiircdn.com/409/6a90122d865c64544a2.jpg
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 ![](https://mmo.aiircdn.com/409/6a90122d865c64544a2.jpg) 

@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: 'Plus: Apple sends out an “unprecedented” number of spyware warnings,
   Ukraine hits a Russian ecommerce giant with cyber and drone attacks, and more.'
 image: https://media.wired.com/photos/6a88b7f32773ab7e6c76bdb4/191:100/w_1280,c_limit/SecurityRoundUp_Week0821_v1.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 As the controversial vehicle surveillance giant Flock Safety continues to expand, WIRED got the code for the company’s new AI policing tool and reconstructed the software to show that its capabilities go far beyond reading license plates and tracking vehicles. We also published the story this week of a Rhode Island police officer who was subjected to five internal affairs investigations in less than two years after he publicly questioned his department’s use of Flock cameras.

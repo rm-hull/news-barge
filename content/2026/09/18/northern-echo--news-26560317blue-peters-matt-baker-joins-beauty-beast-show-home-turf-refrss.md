@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Matt Baker joined the cast as Darlington Hippodrome launched its 2026
   Beauty and the Beast pantomime at Walworth Castle.
 image: https://www.thenorthernecho.co.uk/resources/images/21470373.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Excitement surrounding Darlington’s festive season has begun with the launch of its latest pantomime.

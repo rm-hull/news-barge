@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: 'Smoggie Queens stars Elijah Young, Alexandra Mardell and Peter McPherson
   have joined Sir Stephen Fry and Dannii Minogue in the #DeserveBetter…'
 image: https://www.thenorthernecho.co.uk/resources/images/21334542.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 Stars of a Middlesbrough-set sitcom have joined Sir Stephen Fry and Dannii Minogue in a campaign for greater support for LGBTQ+ youth.

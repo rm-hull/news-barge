@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: One senator from Trump's party blocked the bid as he demands information
   about the fatal killings of US citizens by immigration enforcement.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a91/live/f564b880-b2cb-11f1-aa00-7947ea0dbeab.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![ICE seen arresting a man who is in handcuffs and facing a car](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/9a91/live/f564b880-b2cb-11f1-aa00-7947ea0dbeab.jpg)

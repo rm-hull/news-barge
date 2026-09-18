@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: The Office star was appearing at convention in London, less than two
   weeks after announcing her condition.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8045/live/c07a3d60-9e68-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Lucy Davis, a fair-haired woman in a red top and with red-framed glasses worn on top of her head, is seen sitting down and smiling at the For The Love of Fantasy & Sci-Fi convention at Excel London on Saturday 22 August 2026](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8045/live/c07a3d60-9e68-11f1-aed2-8d6da8d75094.jpg)

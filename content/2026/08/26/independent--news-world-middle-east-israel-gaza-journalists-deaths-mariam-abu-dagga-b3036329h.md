@@ -11,6 +11,12 @@ description: Journalist Mariam Abu Dagga was killed in the 25 August 2025 double
   and visual analysis, this is the most comprehensive reconstruction yet into the
   strike. Bel Trew, Ezz Al Din Abu Eisha and Nedal Hamdouna report
 image: https://static.independent.co.uk/2026/08/21/8/56/mariam.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Society & Culture
+- Sports
 ---
 
 **9.30am, 25 August 2025**

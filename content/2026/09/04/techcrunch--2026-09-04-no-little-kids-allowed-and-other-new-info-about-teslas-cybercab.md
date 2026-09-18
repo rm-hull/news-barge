@@ -8,6 +8,8 @@ published: '2026-09-04T00:00:00Z'
 description: The company says no children under 13 can ride -- even with a parent.
   That's more restrictive than the Model Y SUVs it's using as robotaxis.
 image: https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-open.jpg?resize=1200,856
+categories:
+- Technology & Software
 ---
 
 Tesla’s private Cybercab event has come and gone, and it was very different from the large, loud, livestreamed events the company usually puts on — an odd choice for the launch of a product CEO Elon Musk has spent years building toward.

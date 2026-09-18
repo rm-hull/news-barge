@@ -9,6 +9,10 @@ description: Met Office figures due on Tuesday are likely to show that the previ
   record, set in 2025, has been broken after an unprecedented summer of persistent
   heat.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/84de/live/4bd31cb0-a51c-11f1-89d5-dd5482a9fcc2.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A woman uses an umbrella to shelter from the sun, surrounded by several other people, in a sun-drenched Trafalgar Square in London](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/84de/live/4bd31cb0-a51c-11f1-89d5-dd5482a9fcc2.jpg)

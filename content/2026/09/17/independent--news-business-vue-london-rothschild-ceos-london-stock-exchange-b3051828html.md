@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Vue confirmed that it has hired advisers from Rothschild to consider
   strategic options, including a potential private sale or IPO.
 image: https://static.independent.co.uk/2026/09/17/12/799364c148a1cd90bf54684d399086ceY29udGVudHNlYXJjaGFwaSwxNzg5NzI1NzU2-2.55549947.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Cinema firm Vue is considering a float on London’s stock market or a potential sale deal after a strong summer at the box office.

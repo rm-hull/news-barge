@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: 'Exclusive: Shami Chakrabarti says group ‘appears explicitly to intend
   and incite violence and intimidation’ and their uniforms signify ‘a private army’'
 image: https://static.independent.co.uk/2026/09/07/08/01M1RRBDW3MF81QDDFY3JCS5A8.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The former boss of civil rights group Liberty has urged the government to consider banning the ‘Patriot Platform’ group behind anti-migrant protests that saw masked and hooded men descend on Dover and Portsmouth.

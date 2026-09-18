@@ -9,6 +9,12 @@ description: 'For much of the last decade, Britain’s industrial decarbonisatio
   has rested on a simple premise: government would provide policy certainty and sufficient
   financial incentive for private capital to follow.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmEwYjU0MzcyLTczYzktNDA5OS1iYzZlLTk3YWFmNDNlMzA0OTo5MGI2ODNiNi0xZDcxLTQxOWEtYjhiYy0zYWRjOGI4MTA5YzI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # How the Humber can help meet tech sector's power demand - Richard Gwilliam

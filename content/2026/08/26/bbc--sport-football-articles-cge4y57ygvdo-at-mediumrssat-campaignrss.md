@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T23:24:42Z'
 published: '2026-08-26T00:00:00Z'
 description: The striker is nearing a move to Villa Park after three years at Chelsea.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d348/live/b9205af0-a15a-11f1-92f3-2381193e5eb4.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Nicolas Jackson](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d348/live/b9205af0-a15a-11f1-92f3-2381193e5eb4.jpg)

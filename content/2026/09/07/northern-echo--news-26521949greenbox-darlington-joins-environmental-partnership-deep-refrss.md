@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: A major new industrial development in Darlington has joined a business
   network set up to help employers cut their environmental impact and move…
 image: https://www.thenorthernecho.co.uk/resources/images/21410461.jpg?type=og-image&xType=0&yType=200
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: SUPPLIED)*

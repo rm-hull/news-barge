@@ -8,6 +8,9 @@ scraped_at: '2026-08-23T01:56:29Z'
 published: '2026-08-23T00:00:00Z'
 description: Dust off your CD collection and get ready to party like it's 2002
 image: https://cdn.mos.cms.futurecdn.net/gBHvjMq3eoTWomKgiiJi39-2560-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Three CD players](https://cdn.mos.cms.futurecdn.net/gBHvjMq3eoTWomKgiiJi39.jpg) 

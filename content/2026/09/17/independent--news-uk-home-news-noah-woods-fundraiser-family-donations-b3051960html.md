@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Thousands unite to support toddler’s family after body found in search
   for missing three-year-old
 image: https://static.independent.co.uk/2026/09/17/9/10/noah.avif?trim=442,0,443,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- Society & Culture
 ---
 
 An online fundraiser set up to support the family of three-year-old Noah Woods is set to surpass £50,000 less than 24 hours after being launched.

@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Existing iPhones are soon set to massively fall in price, with the iPhone
   17 Pro and Pro Max likely to be the worst affected.
 image: https://cdn.mos.cms.futurecdn.net/TeursDJa5pkWDaY75233RN-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Apple iPhone 17 Pro REVIEW](https://cdn.mos.cms.futurecdn.net/TeursDJa5pkWDaY75233RN.jpg) 

@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: A majir station gateway redevelopment has been deferred in a North Yorkshire
   town over concerns about public drop-off facilities.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjEwMGZlNTEzLTJiZmQtNGI0Zi04M2I3LWI5Yzk4MmU1MWEyMjo5MDczM2I2ZC00ODEwLTQxM2YtYWEzZi1hN2E5YTVjZGFmNjY=.jpg?crop=3:2,smart&trim=&width=933&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- News & Politics
 ---
 
 # Major station gateway plan deferred over ‘serious concerns’ about public safety

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: More than 140 clubs breached licences, with a third caught taking water
   illegally, analysis shows – but no fines issued
 image: https://i.guim.co.uk/img/media/9eadc933ba5a72e8de88c3b2f4cdf969c61f2549/357_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6abdaada7c9be91b2fe347de30bfe9ac
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 More than 140 golf clubs in England have breached their water extraction licences in the past five years, according to data analysis by the Guardian.

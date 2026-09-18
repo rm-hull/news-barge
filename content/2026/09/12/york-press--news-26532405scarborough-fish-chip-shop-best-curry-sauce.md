@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: The Famous Fishpan has been serving its popular cod and haddock with
   chips since 1960 and is loved by its visitors.
 image: https://www.yorkpress.co.uk/resources/images/21426099.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 *(Image: Tripadvisor)*

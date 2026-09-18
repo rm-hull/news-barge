@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Greene King has launched Cornerstone Pubs, a new community-focused pub
   concept bringing together value and carvery venues under one brand.
 image: https://www.thenorthernecho.co.uk/resources/images/21392291.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Alamy Stock Photo)*

@@ -9,6 +9,9 @@ description: Are these floating houses in Amsterdam’s IJburg district the shap
   things to come? Check out Floating Futures, a new series by photojournalist Alessandro
   Gandolfi
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309686906.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Houses built on the water in the Zeeburgerbaai area of Lake IJmeer. About one and a half metres above the water, two concrete platforms overlooking the bay accommodate dozens of houses, connected to the mainland by two bridges.](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309686906.jpg?w=840)

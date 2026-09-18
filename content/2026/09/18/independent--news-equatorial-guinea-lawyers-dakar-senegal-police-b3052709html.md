@@ -11,6 +11,10 @@ description: Two men deported by the United States to Equatorial Guinea have bee
   police covered their heads with a bag, beat them and held them at gunpoint in a
   hotel-turned detention center
 image: https://static.independent.co.uk/2026/09/18/19/Equatorial_Guinea_Arrests_78191.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Two men deported by the United States to Equatorial Guinea were arbitrarily arrested after police covered their heads with a bag, beat them and held them at gunpoint in a hotel-turned-detention center, their lawyers and rights groups said on Friday.

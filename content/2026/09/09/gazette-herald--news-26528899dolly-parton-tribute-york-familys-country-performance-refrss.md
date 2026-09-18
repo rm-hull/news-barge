@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: Singer Ruth McNeil will take to the stage with son Tom on bass and daughter
   Molly on lead guitar and banjo as part of Steve Coates Music…
 image: https://www.gazetteherald.co.uk/resources/images/21426998.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Music
+- Arts & Culture
 ---
 
 A HEAD teacher from York will swap the classroom for the spotlight when she performs alongside her son and daughter in a new country music spectacular coming to the city for one night.

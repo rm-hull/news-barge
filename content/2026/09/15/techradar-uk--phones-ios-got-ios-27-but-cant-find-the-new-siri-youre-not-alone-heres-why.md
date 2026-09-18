@@ -9,6 +9,8 @@ published: '2026-09-15T00:00:00Z'
 description: Updating to iOS 27 doesn't give you the new Siri AI. To get it you'll
   need to join the next waitlist.
 image: https://cdn.mos.cms.futurecdn.net/3MSBqxBARzRs7snaFcXTpQ-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Siri and person looking confused.](https://cdn.mos.cms.futurecdn.net/3MSBqxBARzRs7snaFcXTpQ.jpg) 

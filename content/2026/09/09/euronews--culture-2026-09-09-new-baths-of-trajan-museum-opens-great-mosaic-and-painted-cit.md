@@ -9,6 +9,11 @@ description: Trajan’s Baths in Colle Oppio will host a new museum where visito
   admire two major Roman works, the Great Mosaic and the Painted City. Entries will
   be limited to protect them.
 image: https://images.euronews.com/articles/stories/09/90/69/31/1200x675_cmsv2_8e531a77-7e5a-5c55-8073-fcc74b83b9da-9906931.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 **Euronews**

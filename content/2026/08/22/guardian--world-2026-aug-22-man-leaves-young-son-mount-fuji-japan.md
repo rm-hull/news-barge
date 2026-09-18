@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Boy, seven, had complained of feeling tired so father left him with snacks
   and a soft drink and continued his climb
 image: https://i.guim.co.uk/img/media/ba78d28c71b36e38bbf7f0d1bc2e16058322109d/689_0_6859_5491/master/6859.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5deb6f112fa3b505556d003f4b2061e3
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Lifestyle & Fashion
 ---
 
 A man who abandoned his seven-year-old son on Mount Fuji in Japan after the boy complained of feeling tired while on a family hike has been reprimanded by local police.

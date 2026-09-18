@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: The worker plunged to his death from a mezzanine with his family alleging
   that the area was unsafe, a lawsuit says
 image: https://static.independent.co.uk/2026/09/18/16/2026-09-14T141902Z_79842473_RC2FK1AN2AGD_RTRMADP_3_TECH-ANTITRUST-X-APPLE.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Elon Musk’s SpaceXAI has been sued for $30 million after a man died after falling at the facility, according to a report.

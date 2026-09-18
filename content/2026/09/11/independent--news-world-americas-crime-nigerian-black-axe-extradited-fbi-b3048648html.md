@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: The individuals were apprehended in Cape Town in 2021 and are being turned
   over to Federal Bureau of Investigation agents on Friday
 image: https://static.the-independent.com/2026/02/11/06/b7a06e0ac2c332147eb079f405240cf4Y29udGVudHNlYXJjaGFwaSwxNzcwODI0ODM2-2.82288853.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Six Nigerian nationals connected to an organized criminal syndicate accused of defrauding American women out of more than $6 million in online romance scams are set to be extradited to the United States on Friday, South African police announced.

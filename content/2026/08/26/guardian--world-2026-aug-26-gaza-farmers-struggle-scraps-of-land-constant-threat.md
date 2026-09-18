@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Efforts to rebuild domestic food production face severe challenges and
   have come at deadly cost
 image: https://i.guim.co.uk/img/media/1d5f1e7669ac11c453ed0bafdb519f0f4b9f7722/604_278_3492_2794/master/3492.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8cef8170adce1e29668de85fddc9f383
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 As Gaza’s population of 2.1 million has been hemmed into an ever smaller slice of the territory, farmers are using every last remaining patch of unspoiled earth, no matter how tiny, in their struggle to survive.

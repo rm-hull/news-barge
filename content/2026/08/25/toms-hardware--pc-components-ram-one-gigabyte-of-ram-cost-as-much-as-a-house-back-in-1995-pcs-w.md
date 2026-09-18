@@ -8,6 +8,10 @@ scraped_at: '2026-08-25T13:07:34Z'
 published: '2026-08-25T00:00:00Z'
 description: By the looks of it, we're going back to that pricing, too.
 image: https://cdn.mos.cms.futurecdn.net/Qdj6oxJ9H7Snacxk9ML8XD-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
 ---
 
 ![Memory chips](https://cdn.mos.cms.futurecdn.net/Qdj6oxJ9H7Snacxk9ML8XD.jpg) 

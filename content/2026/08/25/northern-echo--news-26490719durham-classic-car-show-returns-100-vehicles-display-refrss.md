@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Durham Classic Car Show is set to return to Durham city centre, with
   more than 100 vintage, luxury and retro vehicles on display in a celebration of…
 image: https://www.thenorthernecho.co.uk/resources/images/21364575.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: Supplied)*

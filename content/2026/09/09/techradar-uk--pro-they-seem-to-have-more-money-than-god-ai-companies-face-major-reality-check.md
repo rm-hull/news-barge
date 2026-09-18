@@ -9,6 +9,10 @@ scraped_at: '2026-09-09T19:15:34Z'
 published: '2026-09-09T00:00:00Z'
 description: AI companies are costing states a fortune in lost tax revenue
 image: https://cdn.mos.cms.futurecdn.net/5yuJRmkBt72BSEKbEp2yVC-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![The word “AI” is composed of wooden blocks on a map of the United States with the US flag, reflecting the advancement of artificial intelligence in the American economic and technological landscape](https://cdn.mos.cms.futurecdn.net/5yuJRmkBt72BSEKbEp2yVC.jpg) 

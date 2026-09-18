@@ -9,6 +9,10 @@ description: Maddie Kowalski is one of countless young women who’ve had their 
   destroyed by the burnerverse, a loosely connected online community of sports fans.
   Now she’s fighting back.
 image: https://media.wired.com/photos/6aa2e0a00623e8b97d205e5f/191:100/w_1280,c_limit/BURNERVERSE_WEB_1X6A2978.jpg
+categories:
+- Technology & Software
+- Science
+- Comedy & Entertainment
 ---
 
 *Content warning: This piece includes descriptions of nonconsensual sex and intimate image abuse.*

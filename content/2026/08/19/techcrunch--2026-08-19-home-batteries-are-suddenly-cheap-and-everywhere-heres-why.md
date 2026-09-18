@@ -8,6 +8,8 @@ published: '2026-08-19T00:00:00Z'
 description: Companies including Tesla and Base Power are vying for a piece of the
   rapidly growing market for home batteries. One technology has made it all possible.
 image: https://techcrunch.com/wp-content/uploads/2025/10/68acb5c1066ca5f4d74bb99b_battery-p-3200.jpeg?resize=1200,901
+categories:
+- Technology & Software
 ---
 
 Competition is heating up in the race to install home battery systems, with heavy hitters and nimble startups all vying for a piece of the market.

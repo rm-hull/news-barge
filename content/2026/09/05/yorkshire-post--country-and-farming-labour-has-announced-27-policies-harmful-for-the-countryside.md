@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: The Countryside Alliance is set to launch a new campaign demanding Andy
   Burnham resets the Government’s relationship with rural Britain.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRjMTA3NzhhLWY3N2YtNDkwZC1iYTBkLWJkOWM2MjY1OWNkMDo5M2IzMjAyYi05YWMyLTQ3MGItOTc5Zi04MTM2YTY5ZGY0YjU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Labour has announced 27 policies harmful for rural Britain, the Countryside Alliance claims

@@ -8,6 +8,13 @@ published: '2026-08-27T00:00:00Z'
 description: The brother of a woman killed in a house fire in Grangetown said she
   was not involved in gangs, as he slams the 'senseless' incident.
 image: https://www.thenorthernecho.co.uk/resources/images/21380335.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- True Crime
+- Society & Culture
 ---
 
 The brother of a woman killed in a horrific house fire alongside her seven-year-old niece has slammed the 'senseless' actions of 'some terrible people in the world'.

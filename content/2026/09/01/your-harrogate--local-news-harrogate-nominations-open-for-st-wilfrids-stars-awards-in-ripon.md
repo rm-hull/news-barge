@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Nominations are open for this year’s St Wilfrid’s Stars awards, celebrating
   people and organisations that have made a difference to the Ripon community.
 image: https://mmo.aiircdn.com/409/69ca8e4e15653.jpg
+categories:
+- Local
+- Harrogate
+- Society & Culture
+- Arts & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/69ca8e4e15653.jpg) 

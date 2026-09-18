@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: David Farley says party wants 100,000 migrant rural workers in addition
   to the 130,000 migration target it considers the ‘true’ number
 image: https://i.guim.co.uk/img/media/9c107767a63fa9f7b9e7b9ad6af354114d40b043/522_0_7857_6286/master/7857.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=19f559ef0aecd231b1f732292742934f
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 One Nation MP David Farley has conceded the minor party’s net migration target is “not too different” to Labor’s, echoing an earlier claim over which he was counselled by his party leader, Pauline Hanson.

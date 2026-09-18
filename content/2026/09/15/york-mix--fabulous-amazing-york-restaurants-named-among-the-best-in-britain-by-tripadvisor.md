@@ -7,6 +7,11 @@ scraped_at: '2026-09-15T19:41:13Z'
 published: '2026-09-15T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/casa-brazilian-rodizio-york-busy-restaurant-atmosphere-dining-room.webp
+categories:
+- Local
+- York
+- Travel
+- Food & Cooking
 ---
 
 The team at a York restaurant say they are ‘incredibly grateful and very excited’ after being named number one in the country – for the second year in a row.

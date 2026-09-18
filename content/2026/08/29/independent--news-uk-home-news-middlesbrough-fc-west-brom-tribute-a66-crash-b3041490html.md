@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Constables Matthew Blades, 37, and Pc Tom Clough, 38, lost their lives
   in the A66 horror crash
 image: https://static.independent.co.uk/2026/08/29/14/01M16NQYC7R03CVM5DSBXT3DPT.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Tributes have been paid by football supporters to two Cleveland Police constables killed in a head-on collision on the A66, as officers maintain their investigation into a spate of local incidents.

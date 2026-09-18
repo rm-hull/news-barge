@@ -7,6 +7,11 @@ scraped_at: '2026-09-06T12:07:24Z'
 published: '2026-09-06T00:00:00Z'
 description: Djej bil-furn ma rezz wa mukassara – roast chicken with rice and nuts
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmEzODZjMGNkLTMwYWQtNDhjMy1hMTAzLTg4NmE1Zjk5NTA2Yjo3ZTgzNTJhZS0yMWI1LTRhNmYtODM2Mi05NWIwMTBkMGFmM2Q=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 # Chef Anissa Helou’s ‘taste of Lebanon’ recipe

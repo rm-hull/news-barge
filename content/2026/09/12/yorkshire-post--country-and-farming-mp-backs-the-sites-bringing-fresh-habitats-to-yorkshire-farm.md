@@ -9,6 +9,11 @@ description: The MP for Whitby and Scarborough has given her backing to a series
   projects taking place across Yorkshire where unproductive and hard to manage farmland
   is being turned into habitats for wildlife and biodiversity.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE2YjhmMTY2LTMyMjEtNGVmOC1hYTRkLWVkMzljYjBhOGVjZjowMDhkZWYxNy01YTA1LTRlYmItOGVhZS0yMzQ5YzlmNDA1ZjY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 # MP backs the sites bringing fresh habitats to Yorkshire farmland

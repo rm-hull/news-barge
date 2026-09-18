@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Interior Secretary says President Donald Trump personally pressured tech
   giant to comply with his latest executive order amid trade war with Canada
 image: https://static.independent.co.uk/2026/08/31/15/51/Ontario-Burgum.png?trim=0,232,0,232&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 President Donald Trump called Apple directly to get it to change Lake Ontario’s name to “Lake America” on its Maps app, Interior Secretary Doug Burgum has revealed.

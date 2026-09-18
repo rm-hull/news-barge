@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: Two North East Wynsors stores are set to close in a major shake-up by
   the budget footwear retailer.
 image: https://www.thenorthernecho.co.uk/resources/images/21450076.jpg?type=og-image&xType=0&yType=98
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: GOOGLE MAPS)*

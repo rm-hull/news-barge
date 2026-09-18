@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Five-day trial at high court in Glasgow heard Dott subjected a girl and
   a boy to multiple incidents of abuse
 image: https://i.guim.co.uk/img/media/1b91859d4ce2f1c824e5cd608e6f26b15d82920c/635_238_4894_3916/master/4894.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c24b80afd63c055260a9d64bfb87fcc3
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 The former world snooker champion Graeme Dott has been found guilty of sexually abusing two primary school age children. The 49-year-old subjected a girl and a boy to multiple incidents of abuse, with the girl targeted between 1993-96 and the boy between 2006-10.

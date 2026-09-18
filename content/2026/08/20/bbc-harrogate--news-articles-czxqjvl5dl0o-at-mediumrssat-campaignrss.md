@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The Methodist Circuit says the chapel is no longer viable due to its
   tiny congregation.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9119/live/3cb2c470-9c88-11f1-a9bc-e5d8f54a68c8.jpg
+categories:
+- Local
+- Harrogate
+- Self-Improvement
 ---
 
 ![A Victorian stone-built Methodist chapel](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9119/live/3cb2c470-9c88-11f1-a9bc-e5d8f54a68c8.jpg)

@@ -7,6 +7,11 @@ scraped_at: '2026-08-21T13:06:07Z'
 published: '2026-08-21T00:00:00Z'
 description: Questions are set to be asked about the future of social care in York.
 image: https://www.yorkpress.co.uk/resources/images/19468900.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
+- News & Politics
 ---
 
 ## 'Families bear the brunt'- York views sought on national social care changes

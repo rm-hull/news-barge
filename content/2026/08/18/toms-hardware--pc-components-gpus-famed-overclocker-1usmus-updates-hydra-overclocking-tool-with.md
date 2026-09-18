@@ -8,6 +8,9 @@ scraped_at: '2026-08-18T13:04:24Z'
 published: '2026-08-18T00:00:00Z'
 description: Up to 125% power limit on RTX 50-series GPUs.
 image: https://cdn.mos.cms.futurecdn.net/EQHDvoqLwAEFAfBKe5N9ZM-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Asus ROG Edition 20 gaming PC build](https://cdn.mos.cms.futurecdn.net/EQHDvoqLwAEFAfBKe5N9ZM.jpg) 

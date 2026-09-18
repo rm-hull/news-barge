@@ -9,6 +9,11 @@ description: The thousands of you who subscribe to this newsletter (thank you, s
   are bright buggers. I know that because the letters you write to me are almost always
   thoughtful, well-meaning and sent in good faith.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/17/10/33/AdobeStock_420841574.jpeg?trim=0,43,0,42&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Self-Improvement
 ---
 
 # The Thursday Thinker: Dementia care v cancer care, a question for you - Editor's Newsletter

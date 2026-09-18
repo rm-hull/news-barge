@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: North Yorkshire mayor David Skaith will lead Yorkshire’s first ever joint
   trade mission to India this October.
 image: https://www.yorkpress.co.uk/resources/images/21435684.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- History
 ---
 
 *(Image: Pic supplied)*

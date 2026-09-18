@@ -9,6 +9,11 @@ description: Former Organisation for the Prohibition of Chemical Weapons officia
   say they have found evidence that the Sudanese government may have deployed chemicals
   amid the country's ongoing civil war.
 image: https://images.euronews.com/articles/stories/09/90/46/71/1200x675_cmsv2_47928cf0-13e0-5c8b-9074-a5438d1051d0-9904671.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
+- History
 ---
 
 ## Former Organisation for the Prohibition of Chemical Weapons officials say they have found evidence that the Sudanese government may have deployed chemicals amid the country's ongoing civil war.

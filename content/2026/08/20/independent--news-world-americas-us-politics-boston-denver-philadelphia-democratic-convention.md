@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: Democratic National Committee Chairman Ken Martin said in a statement
   that the cities submitted "incredibly strong bids"
 image: https://static.independent.co.uk/2026/05/11/21/2166938435.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Boston, Denver and Philadelphia have made the final shortlist to host the 2028 Democratic National Convention, as the party prepares for an open primary to choose a successor to President Donald Trump.

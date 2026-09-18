@@ -10,6 +10,11 @@ published: '2026-09-02T00:00:00Z'
 description: The EFF says the law is additionally too broad and based on uncertain
   science, too.
 image: https://cdn.mos.cms.futurecdn.net/G9dtD87HfBhVHzDmSHE2tE-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Age verification](https://cdn.mos.cms.futurecdn.net/G9dtD87HfBhVHzDmSHE2tE.jpg) 

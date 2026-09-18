@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: Illegal vapes were found hidden in confectionary boxes in a shop investigated
   by trading standards officers in North Yorkshire.
 image: https://www.northyorks.gov.uk/sites/default/files/2026-08/1Lewiatan.jpg
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- True Crime
 ---
 
 ![Illegal vapes concealed in confectionary boxes.](https://www.northyorks.gov.uk/sites/default/files/2026-08/1Lewiatan.jpg) 

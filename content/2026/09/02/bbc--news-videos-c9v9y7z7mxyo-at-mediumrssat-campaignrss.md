@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: In an emotional message, Rajan thanked his family, team and listeners
   as he said goodbye to the programme.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a77/live/33dc1290-a6b8-11f1-ae1e-219da1d6451a.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 # Watch: Amol Rajan says goodbye to Today programme

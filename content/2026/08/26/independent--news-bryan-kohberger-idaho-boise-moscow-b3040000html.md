@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: An Idaho judge has set the timeline for Bryan Kohberger's attempt to
   withdraw his guilty plea in the murders of four University of Idaho students
 image: https://static.independent.co.uk/2026/07/28/14/Four_Killed_University_of_Idaho_31883.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 An Idaho judge has set the timeline for Bryan Kohberger's attempt to withdraw his guilty plea in the murders of four University of Idaho students, and he is warning attorneys on both sides that he will hold any new evidence in the case to a strict legal standard.

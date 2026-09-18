@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Russia’s Foreign Ministry says that it has sent a note to Japan over
   its hosting of U.S. medium-range missile systems
 image: https://static.independent.co.uk/2026/09/18/14/Russia_Putin_22163.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Russia’s Foreign Ministry said on Friday that it has made a formal protest to Japan over its decision to host U.S.-made medium-range missile systems that Moscow sees as a threat.

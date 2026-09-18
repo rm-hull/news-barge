@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: China’s S4000 airship channels the wind to generate electricity at 4,000
   meters above the ground.
 image: https://cdn.mos.cms.futurecdn.net/DQz7EZ2ZfH2FfJgAEAW2kW-1200-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![The S4000 airship used to generate electricity from the wind.](https://cdn.mos.cms.futurecdn.net/DQz7EZ2ZfH2FfJgAEAW2kW.jpg) 

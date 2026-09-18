@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: The East Yorkshire inventors of SealStop, the multi-award-winning water-saving
   device, will be appearing on BBC show Dragons’ Den this month.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjU2OTdmMzExLTMzM2EtNGU3MS1iMDQwLTRhYjI4MjAxNzA2MzoyYTg0MjI3Ni1mMzUzLTQyNmQtYjJmOS03ZDE0NDljNDI1YzI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Science
 ---
 
 # East Yorkshire SealStop inventors to appear on Dragons’ Den

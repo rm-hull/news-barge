@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Far Shirby features extensive landscaped gardens, a Japanese-inspired
   retreat and countryside views.
 image: https://www.thenorthernecho.co.uk/resources/images/21333782.jpg?type=og-image&xType=0&yType=16
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 A hilltop home with panoramic views across North York Moors has hit the market for £720,000.

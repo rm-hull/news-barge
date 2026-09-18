@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Prime minister Andy Burnham has agreed to meet with Rachael Maskell MP
   after she raised concerns over delays to deliver a public inquiry into the…
 image: https://www.yorkpress.co.uk/resources/images/21403632.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Stefan Rousseau/PA Wire)*

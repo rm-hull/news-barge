@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Thirsk in North Yorkshire helped inspire James Herriot’s All Creatures
   Great and Small and remains a major draw for fans of the books and TV…
 image: https://www.thenorthernecho.co.uk/resources/images/21378574.jpg?type=og-image&xType=0&yType=145
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: CHRIS MADDISON/CAMERA CLUB)*

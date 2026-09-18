@@ -10,6 +10,10 @@ description: At 91, Dale “Grey Beard” Sanders has reclaimed his record as th
   in between, taking plenty of tumbles along the way before finishing atop Maine’s
   Mount Katahdin.
 image: https://static.independent.co.uk/2026/08/31/18/APTOPIX_Appalachian_Trail-Oldest_Hiker_27783.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Photos show oldest hiker reclaiming Appalachian Trail record at 91

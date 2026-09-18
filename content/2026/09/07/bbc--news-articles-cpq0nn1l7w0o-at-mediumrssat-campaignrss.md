@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Danny Thomas organised the demonstration in Dover - seemingly after weeks
   of preparation - and was also present in Portsmouth.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/19bf/live/5240b090-aac0-11f1-9bcd-4de40c4158ea.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Watch: Anti-migrant protesters block roads in Portsmouth

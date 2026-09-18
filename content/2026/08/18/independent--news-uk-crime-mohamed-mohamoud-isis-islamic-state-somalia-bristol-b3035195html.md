@@ -8,6 +8,10 @@ scraped_at: '2026-08-18T19:36:12Z'
 published: '2026-08-18T00:00:00Z'
 description: Mohamed Mohamoud was found guilty of preparing acts of terrorism
 image: https://static.independent.co.uk/2025/10/06/15/29123156-33b57a62-46ea-4369-9550-a209fc213ada.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A man who travelled to Somalia in a failed bid to join the so-called Islamic State (IS) has been found guilty of preparing acts of terrorism.

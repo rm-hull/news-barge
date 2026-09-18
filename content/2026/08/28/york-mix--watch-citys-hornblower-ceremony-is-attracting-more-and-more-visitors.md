@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T22:14:38Z'
 published: '2026-08-28T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/30e062fe-7fcc-42d8-b7fc-df23d84e2242.jpg
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 Every night of the year without fail, a horn is blown at the four corners of the Obelisk in Ripon Market Place to set the ‘watch’.

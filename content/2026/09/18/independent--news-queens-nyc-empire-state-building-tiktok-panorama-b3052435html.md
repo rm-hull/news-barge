@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: A truck driver who spent two decades building a massive scale model of
   his native New York City was delighted when it went viral on TikTok
 image: https://static.independent.co.uk/2026/09/18/11/NYC_Map_Exhibit_1_993.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Automotive
 ---
 
 For more than two decades, truck driver Joe Macken spent his free time building a massive scale model of his native New York City out of balsa wood and foam board.

@@ -10,6 +10,9 @@ published: '2026-09-15T00:00:00Z'
 description: 'Blizzard has said that the success of Diablo 2: Resurrected has enabled
   it to use the game as modern inspiration for Diablo 5.'
 image: https://cdn.mos.cms.futurecdn.net/8HkBmR8Nwq3fNMETqbbqo9-2000-80.jpg
+categories:
+- Technology & Software
+- Self-Improvement
 ---
 
 ![Diablo 5](https://cdn.mos.cms.futurecdn.net/8HkBmR8Nwq3fNMETqbbqo9.jpg) 

@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: Nvidia's new Blackwell workstation GPU packs 28 memory chips inside while
   its strange bus raises eyebrows
 image: https://cdn.mos.cms.futurecdn.net/QbooqapPNKpPkdSXsf6z3Q-1920-80.png
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Nvidia RTX Pro 5500 workstation edition](https://cdn.mos.cms.futurecdn.net/QbooqapPNKpPkdSXsf6z3Q.png) 

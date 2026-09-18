@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: After two years of investigations, History Hit has released a documentary
   claiming to reveal the exact location of the Battle of Stamford Bridge.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjFlYTY0ZmMwLWRmZGUtNDEyYi04OWRlLTc4NjVmODRiOWRiNjphZWRjMDA2OS1jMjI4LTRhMDUtYTFhNi03YmFlMWJkODY2YWI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Groundbreaking documentary reveals actual location of Battle of Stamford Bridge

@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Rare and sought-after pieces by famous Yorkshire furniture maker Robert
   “Mouseman” Thompson will go under the hammer at a sale celebrating his…
 image: https://www.thenorthernecho.co.uk/resources/images/21461395.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

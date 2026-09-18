@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: 'Larger, faster and with more range: Dacia overhauls the cut-price Spring
   but it could lose its title as the UK’s cheapest electric car'
 image: https://cdn.mos.cms.futurecdn.net/wEwgym685CbrTUVcmcTbbf-1920-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![2027 Dacia Spring](https://cdn.mos.cms.futurecdn.net/wEwgym685CbrTUVcmcTbbf.jpg) 

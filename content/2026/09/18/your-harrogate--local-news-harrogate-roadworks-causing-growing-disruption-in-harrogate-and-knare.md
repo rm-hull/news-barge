@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Council officials have acknowledged the growing disruption caused by
   roadworks in Harrogate and Knaresborough.
 image: https://mmo.aiircdn.com/409/6891ac44de29c.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![](https://mmo.aiircdn.com/409/6891ac44de29c.jpg) 

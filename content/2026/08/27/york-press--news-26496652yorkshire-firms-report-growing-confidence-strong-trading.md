@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Nearly half of businesses in Yorkshire plan to increase investment over
   the next year, according to new research from Barclays.
 image: https://www.yorkpress.co.uk/resources/images/12527320.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Archive)*

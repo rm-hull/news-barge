@@ -8,6 +8,10 @@ scraped_at: '2026-08-20T13:07:40Z'
 published: '2026-08-20T00:00:00Z'
 description: ‘She will be greatly missed’, the school said in a statement
 image: https://static.independent.co.uk/2026/08/20/9/40/Sara-El-Khawas-b41891d0.jpeg?trim=0,0,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A school attended by a 14-year-old British-Palestinian girl who died alongside her parents after getting into trouble at sea in Shoreham has paid tribute to her.

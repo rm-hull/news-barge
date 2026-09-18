@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Job seekers, especially Gen Z, are being targeted with fake, booby-trapped
   recruitment apps.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f931/live/69fc7270-a78f-11f1-9bb7-af8e8fd3d806.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ![A man in a pale shirt sits at a laptop in an office](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/f931/live/69fc7270-a78f-11f1-9bb7-af8e8fd3d806.jpg)

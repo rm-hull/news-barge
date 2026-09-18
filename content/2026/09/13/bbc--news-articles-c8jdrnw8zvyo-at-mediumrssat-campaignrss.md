@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: The mill, where Peaky Blinders was filmed, is already derelict after
   large fire in 2022.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc07/live/10e6ff40-af4e-11f1-99f7-0d91ad00290d.png
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ![An old mill on fire](https://ichef.bbci.co.uk/ace/standard/859/cpsprodpb/cc07/live/10e6ff40-af4e-11f1-99f7-0d91ad00290d.png)

@@ -9,6 +9,9 @@ description: 'A newspaper has released a video filmed in 2025 by police during a
   patrol. The officer behind most of the extremist comments is a former paratrooper
   with close ties to the far-right National Rally party. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/72/18/1200x675_cmsv2_9331e614-6961-58f7-b49f-b6f9c920964f-9907218.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## A newspaper has released a video filmed in 2025 by police during a night patrol. The officer behind most of the extremist comments is a former paratrooper with close ties to the far-right National Rally party.

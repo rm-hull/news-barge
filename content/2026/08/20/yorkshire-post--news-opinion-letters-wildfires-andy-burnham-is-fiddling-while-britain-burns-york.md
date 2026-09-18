@@ -7,6 +7,11 @@ scraped_at: '2026-08-20T13:07:03Z'
 published: '2026-08-20T00:00:00Z'
 description: Paul Morley, Long Preston, Skipton.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjYyMWRhZTIxLWUxM2MtNDhlMC1iNmJlLTU2ZjNhMWI1ZDdkZjo5YzEzMTYwMy04YmNkLTQ5OWEtODgzNi01ZGU2M2RlNmYyZWY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Wildfires: Andy Burnham is fiddling while Britain burns - Yorkshire Post Letters

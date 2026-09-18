@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Are people going to have to increasingly accept more delays and diversions
   as the effects of climate change intensify?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5b63/live/c35016e0-a872-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Theo Leggett](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4407/live/88aef9b0-a873-11f1-aed2-8d6da8d75094.png)

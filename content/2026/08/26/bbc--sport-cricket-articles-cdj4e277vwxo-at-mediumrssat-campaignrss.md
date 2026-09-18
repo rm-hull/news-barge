@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Fast bowler Josh Tongue said captain Joe Root’s message to the England
   players about their off-field behaviour has “100%” been heeded.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/579f/live/636e54f0-a140-11f1-9311-09d4e1fc9016.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![England fast bowler Josh Tongue](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/579f/live/636e54f0-a140-11f1-9311-09d4e1fc9016.jpg)

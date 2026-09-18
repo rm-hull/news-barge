@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The state post service delivers pensions, medicine and letters to people
   just miles from the front.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/42e8/live/a46209c0-b040-11f1-bb36-29bb24d8b9b8.jpg
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 Watch: Ukraine's post office innovation helps isolated communities

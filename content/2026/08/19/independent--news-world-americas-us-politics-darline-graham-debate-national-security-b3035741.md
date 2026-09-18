@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: A Democratic strategist seized on the flub to call Darline Graham, ‘NOT
   the brightest crayon in the box’
 image: https://static.independent.co.uk/2026/08/19/16/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Newly sworn-in Sen. Darline Graham, who took over brother Lindsey Graham’s South Carolina seat after his sudden death last month, is facing criticism from Republicans and Democrats alike after admitting she is “not that informed on national security” during a debate.

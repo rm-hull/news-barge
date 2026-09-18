@@ -10,6 +10,11 @@ published: '2026-08-22T00:00:00Z'
 description: Logitech increased prices on more than half of its product line by up
   to 25%.
 image: https://cdn.mos.cms.futurecdn.net/a7jbVgATx7AS9Xg69P4zi6-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Logitech G3 peripherals including the G305 X Superlight wireless gaming mouse and the G316 X 98 wired mechanical gaming keyboard](https://cdn.mos.cms.futurecdn.net/a7jbVgATx7AS9Xg69P4zi6.jpg) 

@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Staff are putting the finishing touches to Middlesbrough's newest sports
   bar ahead of its soft launch and official opening next week.
 image: https://www.thenorthernecho.co.uk/resources/images/21470518.jpg?type=og-image&xType=0&yType=141
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 The finishing touches are being added to Middlesbrough's newest sports bar.

@@ -7,6 +7,11 @@ scraped_at: '2026-09-09T12:57:06Z'
 published: '2026-09-09T00:00:00Z'
 description: Some MAGA stores have even had to close permanently due to weak sales
 image: https://static.independent.co.uk/2026/09/09/09/630428402..?trim=62,0,62,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Sales of MAGA merchandise have nosedived in some retail stores across the U.S., with sellers attributing the slump to the state of the economy under President Donald Trump.

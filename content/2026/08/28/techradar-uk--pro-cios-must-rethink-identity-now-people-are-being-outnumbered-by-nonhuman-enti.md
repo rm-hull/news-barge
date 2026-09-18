@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T11:16:18Z'
 published: '2026-08-28T00:00:00Z'
 description: CIOs must rethink identity management for nonhuman AI entities
 image: https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg
+categories:
+- Technology & Software
+- Society & Culture
+- Arts & Culture
 ---
 
 ![A line of robots typing at computers](https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL.jpg) 

@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: The prime minister also wishes the Duke and Duchess well after it emerged
   they are returning to the UK.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/42ad/live/498598d0-9c8d-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Prince Harry and Meghan sat next to each other and smiling in Colombia in 2024](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/42ad/live/498598d0-9c8d-11f1-a291-b542ee92de7c.jpg)

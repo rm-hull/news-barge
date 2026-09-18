@@ -7,6 +7,11 @@ scraped_at: '2026-09-03T19:16:43Z'
 published: '2026-09-03T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/dreamstime_26906579.webp
+categories:
+- Local
+- York
+- Travel
+- History
 ---
 
 The world’s best cyclists are heading our way – as the Tour of Britain comes to North Yorkshire this weekend.

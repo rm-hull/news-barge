@@ -9,6 +9,8 @@ description: Our review called it an "affordable and easy-to-use mesh Wi-Fi syst
   for larger homes," with a Wi-Fi 7 router, two satellites, with up to 4,500 sq ft
   coverage.
 image: https://cdn.mos.cms.futurecdn.net/i879x3TX2W7j6pT9ctprhf-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Netgear Orbi 373 with one router and two satellites on a wooden table](https://cdn.mos.cms.futurecdn.net/i879x3TX2W7j6pT9ctprhf.jpg) 

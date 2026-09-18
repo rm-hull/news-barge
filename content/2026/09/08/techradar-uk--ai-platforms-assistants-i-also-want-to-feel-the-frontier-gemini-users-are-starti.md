@@ -9,6 +9,8 @@ published: '2026-09-08T00:00:00Z'
 description: Gemini 4 Pro may never arrive, and Google’s biggest fans are starting
   to worry
 image: https://cdn.mos.cms.futurecdn.net/cWc9CWu3UHCubh8PtKXmVS-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![ChatGPT vs Gemini comparison](https://cdn.mos.cms.futurecdn.net/cWc9CWu3UHCubh8PtKXmVS.jpg) 

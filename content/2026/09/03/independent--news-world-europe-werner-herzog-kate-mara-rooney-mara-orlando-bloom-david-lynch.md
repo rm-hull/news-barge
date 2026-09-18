@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Werner Herzog's new film “Bucking Fastard” features sisters Rooney and
   Kate Mara playing siblings who speak in unison
 image: https://static.independent.co.uk/2026/09/03/14/Italy_Venice_Film_Festival_Bucking_Fastard_Photo_Call_149_3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 Sisters Rooney and Kate Mara play sisters who speak in unison in Werner Herzog’s new film “Bucking Fastard,” which is having its world premiere Thursday at the Venice Film Festival.

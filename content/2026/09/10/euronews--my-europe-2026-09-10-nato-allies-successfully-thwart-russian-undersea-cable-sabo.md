@@ -9,6 +9,10 @@ description: 'Western officials revealed that a joint NATO operation had succeed
   in thwarting a secret Russian training exercise to disable critical undersea data
   cables. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/84/48/1200x675_cmsv2_0c34493c-1a23-5941-be93-f0976f76c282-9908448.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Western officials revealed that a joint NATO operation had succeeded in thwarting a secret Russian training exercise to disable critical undersea data cables.

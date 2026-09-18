@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: A former Keighley Cougars player has died at the age of 47, his family
   have announced.
 image: https://www.thetelegraphandargus.co.uk/resources/images/16723180.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: T&A)*

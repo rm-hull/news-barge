@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: ‘It works out to nearly 60 stock trades a day — every day — since he’s
   taken office,’ one panellist noted
 image: https://static.independent.co.uk/2026/09/16/14/12/Screenshot-2026-09-16-at-10-00-00-AM.png?trim=0,315,0,153&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 The hosts of *Morning Joe* expressed disbelief Wednesday over a report that President Donald Trump has made more stock trades than all members of Congress combined.

@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Hangar 63, the community coffee house at the Great North Air Ambulance
   Service’s Eaglescliffe headquarters, has celebrated its first anniversary…
 image: https://www.thenorthernecho.co.uk/resources/images/21345605.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: GNAAS)*

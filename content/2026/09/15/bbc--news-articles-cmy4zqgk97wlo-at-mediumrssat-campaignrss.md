@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The announcement by the US points to a developing field of modern warfare
   in the Earth's orbit.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/501e/live/92c14ad0-b105-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Science
+- History
 ---
 
 Could there be an arms race in space? The BBC's defence correspondent explains what the US announcement means

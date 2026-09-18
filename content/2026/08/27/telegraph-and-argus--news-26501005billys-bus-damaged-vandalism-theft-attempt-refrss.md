@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: The UK's first dedicated dog bus service was forced to cancel a day's
   operation after vandals attempted to hot-wire it.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21379493.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: SWNS)*

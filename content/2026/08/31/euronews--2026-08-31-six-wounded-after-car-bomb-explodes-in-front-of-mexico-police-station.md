@@ -9,6 +9,10 @@ description: Zacatecas is key to the drug trade because it links central Mexico 
   the north and west of the country and features routes that are key to smuggling
   cocaine and other narcotics to the United States.
 image: https://images.euronews.com/articles/stories/09/89/50/11/1200x675_cmsv2_5f111397-2623-5218-9eda-e279da85ead6-9895011.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Zacatecas is key to the drug trade because it links central Mexico with the north and west of the country and features routes that are key to smuggling cocaine and other narcotics to the United States.

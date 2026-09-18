@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: 'The government''s initial aim is to grow the programme to 10,000 volunteers
   a year, with a long-term goal of up to 50,000 per year in 2035. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/58/87/1200x675_cmsv2_47d50673-d0ef-58ce-8941-561522f9e246-9895887.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## The government's initial aim is to grow the programme to 10,000 volunteers a year, with a long-term goal of up to 50,000 per year in 2035.

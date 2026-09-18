@@ -10,6 +10,10 @@ description: Federal Reserve governor Christopher Waller says that an inflation 
   next week will largely determine whether he supports an interest rate hike later
   this month or not
 image: https://static.independent.co.uk/2026/09/03/14/Federal_Reserve_91429.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Federal Reserve governor Christopher Waller said Thursday that an inflation report next week will largely determine whether he supports an interest rate hike later this month or not.

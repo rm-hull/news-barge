@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The writing instrument was not invented in the United States, yet American
   industry and innovation made it iconic
 image: https://static.independent.co.uk/2026/08/24/20/2289225835..?trim=9,0,9,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 For generations of Americans, the sharpened No. 2 pencil has long symbolized youth and growing up. Still a staple of back-to-school shopping lists, it helps children trace their initial letters, erase their mistakes and doodle in the margins during moments of daydreaming.

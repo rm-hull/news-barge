@@ -8,6 +8,9 @@ scraped_at: '2026-09-02T19:22:06Z'
 published: '2026-08-31T00:00:00Z'
 description: And, why did Justin call Donald Trump from a train?
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0j72y80.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ## Episode details

@@ -8,6 +8,12 @@ published: '2026-08-30T00:00:00Z'
 description: A North Yorkshire hospitality and food company has gone into liquidation
   owing almost £300,000.
 image: https://www.gazetteherald.co.uk/resources/images/21386005.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
+- Business & Entrepreneurship
 ---
 
 *(Image: Street View)*

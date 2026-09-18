@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: 'If you are planning to go out this weekend in the Harrogate district
   – or in the next month or so – here are the shows, gigs and comedy not to miss:'
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjEyZTZlOTVkLTZkOWUtNGRmOC05YmEyLWVlYjAxOGE1NTg4YTowMTRiOTkzZC0wMjI3LTQ1ZGEtODlhNi1lYzlmMmIwYmRkN2U=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Comedy & Entertainment
 ---
 
 # Concerts, comedy and shows coming up in the Harrogate area in September and October 2026

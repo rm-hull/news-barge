@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Yorkshire Air Ambulance’s Pedal to the Pad challenge will give cyclists
   early access to the charity’s new Northern Air Support Unit near Skipton…
 image: https://www.thenorthernecho.co.uk/resources/images/21364658.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

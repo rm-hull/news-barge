@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: BUILDINGS across the Bradford district are preparing to throw open their
   doors as part of Heritage Open Days.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20954615.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: Zelenskyy declares Ukraine must bring the war back to Russian soil as
   pressure mounts on Moscow's home front
 image: https://cdn.mos.cms.futurecdn.net/dgqDxUtBBRZHRMnKUPFEum-1920-80.png
+categories:
+- Technology & Software
+- History
 ---
 
 ![3D printed TF-179 Drone Boat](https://cdn.mos.cms.futurecdn.net/dgqDxUtBBRZHRMnKUPFEum.png) 

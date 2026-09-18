@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Millions know the ‘I Don’t Know, Jeff’ meme, but fewer know the Hartlepool
   roots that shaped Jeff Stelling's journey from local lad to TV…
 image: https://www.thenorthernecho.co.uk/resources/images/21395976.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 Jeff Stelling, the broadcaster best known for fronting Sky Sports’ Soccer Saturday and inspiring the viral “I don’t know, Jeff” catchphrase, was born in the North East.

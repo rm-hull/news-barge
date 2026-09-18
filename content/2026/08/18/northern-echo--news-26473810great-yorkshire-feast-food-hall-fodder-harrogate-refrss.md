@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: The Yorkshire Life team and some familiar faces as we take over the Food
   Hall at Fodder, Harrogate, on Friday, September 25
 image: https://www.thenorthernecho.co.uk/resources/images/21070262.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Celebrated chef Steph Moon has teamed up with Yorkshire’s finest producers to create a brilliant banquet that reflects eight decades of food trends and says Happy Birthday to us!

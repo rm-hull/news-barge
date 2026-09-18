@@ -8,6 +8,12 @@ published: '2026-08-22T00:00:00Z'
 description: Robertshaw’s Farm Shop, on Gargrave Road, combines a large food hall
   with an on-site butcher’s, deli, and café serving breakfast and lunch.
 image: https://www.thenorthernecho.co.uk/resources/images/21339834.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 *(Image: TRIPADVISOR)*

@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A child rapist who plied a 12-year-old girl with drugs and alcohol in
   a ‘horrific’ sex attack has been jailed.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/19/16/27/BATLEY.jpeg?trim=0,127,0,127&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 # Child rapist jailed thanks to 12-year-old girl's 'incredible bravery'

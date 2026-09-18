@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T19:06:41Z'
 published: '2026-09-10T00:00:00Z'
 description: The charity’s chief executive said the online abuse was ‘wholly unacceptable’
 image: https://static.independent.co.uk/2026/09/07/11/01M1XMZ1BS35QXNERQZ8JM5ERV.jpg?trim=94,0,94,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The RNLI has advised volunteers to consider not wearing its branded clothing in certain public areas as they review security measures, after members were targeted online by the far-right.

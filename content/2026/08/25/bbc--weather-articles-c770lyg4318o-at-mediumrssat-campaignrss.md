@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: The Met Office has issued a yellow weather warning as heavy showers and
   thunderstorms are forecast to move northwards across the UK on Wednesday.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/b1a4/live/ab342830-a061-11f1-a8b2-73da9d854f1b.png
+categories:
+- UK
+- News & Politics
 ---
 
 ![Three women walk under an umbrella during a rainstorm in London](https://ichef.bbci.co.uk/ace/standard/924/cpsprodpb/b1a4/live/ab342830-a061-11f1-a8b2-73da9d854f1b.png)

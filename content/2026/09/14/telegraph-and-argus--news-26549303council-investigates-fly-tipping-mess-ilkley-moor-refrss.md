@@ -8,6 +8,11 @@ scraped_at: '2026-09-14T20:17:53Z'
 published: '2026-09-14T00:00:00Z'
 description: A fly-tipping 'mess' has blocked a track on a Bradford district moorland.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21453588.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: UGC)*

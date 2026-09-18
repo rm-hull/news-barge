@@ -8,6 +8,12 @@ published: '2026-08-29T00:00:00Z'
 description: William Etherington, of Dennis Street, Wheatley Hill, stole hundreds
   of pounds worth of items, including sandwiches, beer and vapes.
 image: https://www.thenorthernecho.co.uk/resources/images/21387689.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
+- Business & Entrepreneurship
 ---
 
 *(Image: DURHAM CONSTABULARY)*

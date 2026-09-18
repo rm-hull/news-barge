@@ -10,6 +10,11 @@ description: Founded by a York-based historic guild, the Golden Thread Awards is
   now for young designers and creatives to showcase their talents and find support.
   Yorkshire Post Fashion Editor Stephanie Smith talks to the organisers.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQyZTQ4ZDVmLWY5YTctNGM5OC1iMjYzLTdiYmFhMGJlY2I2MTpjNmYyNjdkNi03ZTBkLTRkOTItODg3OS1hMWNjMDZkYWNkMWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # The Golden Thread Awards: 'Our historic York guild is looking to a new generation of fashion and fabric makers'

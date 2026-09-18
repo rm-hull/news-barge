@@ -10,6 +10,9 @@ description: The once-dominant mapping app has surged to the top of Apple’s U.
   Store after refusing to adopt Trump’s “Lake America” name, drawing more than half
   of its 2026 U.S. downloads in just six days.
 image: https://techcrunch.com/wp-content/uploads/2026/08/mapquest-lake-ontario.jpg?resize=1200,891
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 MapQuest’s unlikely comeback just got even bigger. On Tuesday, the “OG” mapping application (and one that many thought no longer existed!) became the No. 1 overall app on the U.S. App Store, up from No. 8 on Monday.

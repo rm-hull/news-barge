@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: IF ever there was a wake-up call, especially to those of us who are getting
   on a bit, it is surely 70 Up - the final instalment of the documentary…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21463588.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 *(Image: Multistory Media)*

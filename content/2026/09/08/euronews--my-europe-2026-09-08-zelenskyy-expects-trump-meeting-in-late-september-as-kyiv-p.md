@@ -9,6 +9,9 @@ description: 'Ukraine’s president says he expects to meet Donald Trump later t
   month as Kyiv presses Washington for urgently needed Patriot interceptors and moves
   towards a new trilateral negotiating format. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/56/70/1200x675_cmsv2_77ebeb71-918e-55a7-b7a7-c0ed23529c00-9905670.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Ukraine’s president says he expects to meet Donald Trump later this month as Kyiv presses Washington for urgently needed Patriot interceptors and moves towards a new trilateral negotiating format.

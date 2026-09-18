@@ -10,6 +10,10 @@ description: The Transportation Security Administration has launched a new progr
   at 13 airports allowing eligible TSA PreCheck members without plane tickets to pass
   through security and enter the gates
 image: https://static.independent.co.uk/2026/09/08/11/Sept_11_Air_Travel_1_161.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 For decades, the airport security checkpoint has marked the end of the road for friends and relatives seeing off a traveler. That is changing for some travelers.

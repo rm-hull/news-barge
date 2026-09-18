@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: In total, some 970 payments worth about £19.7 million were considered
   to be breaches.
 image: https://static.independent.co.uk/2026/09/02/14/003e8a297672c264de67ecc85cbe089bY29udGVudHNlYXJjaGFwaSwxNzg4NDM5MzA5-2.9177332.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Citibank’s London branch has been fined £4.7 million by a UK Treasury body for breaching Russian financial sanctions rules in 2022.

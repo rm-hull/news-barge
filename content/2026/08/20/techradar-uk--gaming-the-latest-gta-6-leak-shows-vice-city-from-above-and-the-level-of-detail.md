@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: New GTA 6 leak shows an urban scale that I didn't even think was possible
   in games.
 image: https://cdn.mos.cms.futurecdn.net/74zt5bYG8FY5RpF396qizC-1920-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/74zt5bYG8FY5RpF396qizC.jpg) 

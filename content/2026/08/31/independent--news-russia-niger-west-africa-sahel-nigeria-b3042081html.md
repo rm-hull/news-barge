@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Niger's junta faced a major internal threat when renegade soldiers staged
   a mutiny over the weekend
 image: https://static.independent.co.uk/2026/08/31/11/Niger_Mutiny_Russian_Forces_92873.jpg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Niger's junta survived its most severe internal threat since seizing power in a 2023 coup when renegade soldiers staged a mutiny over the weekend, triggering a 24-hour standoff that ended with Russian intervention.

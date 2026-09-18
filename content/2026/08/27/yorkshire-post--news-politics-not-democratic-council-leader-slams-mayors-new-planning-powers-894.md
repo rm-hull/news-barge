@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: The leader of a Yorkshire council says letting mayors overrule local
   planning decisions is “not democratic”.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjAwNThiYjU2LWQ4ZDYtNGY5NC1hY2MzLTQzZDU5NGI1MjMzZjozNzAyYjEyMS1iODg4LTQzOTUtYjAyZS02MTg2YTU0OWZjMmM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # 'Not democratic' - Council leader slams mayors' new planning powers

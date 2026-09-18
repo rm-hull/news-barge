@@ -9,6 +9,12 @@ published: '2026-08-18T00:00:00Z'
 description: Theatregoers have been left devastated after another performance of Burlesque
   the Musical at Sunderland Empire was cancelled around an hour before…
 image: https://www.thenorthernecho.co.uk/resources/images/21335025.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Music
+- History
 ---
 
 *(Image: Pamela Raith)*

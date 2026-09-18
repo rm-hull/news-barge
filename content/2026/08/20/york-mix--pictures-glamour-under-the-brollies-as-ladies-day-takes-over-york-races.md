@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T16:48:32Z'
 published: '2026-08-20T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/york-ebor-festival-ladies-day-20-aug-2026-3-pa.webp
+categories:
+- Local
+- York
+- Comedy & Entertainment
 ---
 
 It was a case of undercover style at York races this afternoon (Thursday).

@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: York Printmakers, a group of artists based in and around York, is set
   to hold their annual print fair next weekend.
 image: https://www.gazetteherald.co.uk/resources/images/21423684.jpg?type=og-image&xType=0&yType=892
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 A printmaking fair is bringing together a community of artists and their unique journeys.

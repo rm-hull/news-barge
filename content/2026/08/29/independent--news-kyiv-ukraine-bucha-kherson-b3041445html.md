@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Officials say at least 27 people have been killed in a Russian attack
   on the Bucha district near Kyiv
 image: https://static.independent.co.uk/2026/08/29/11/Russia_Ukraine_War_5555_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 At least 27 people have been killed following a Russian attack on the Bucha district, close to the Ukrainian capital of Kyiv, officials said Saturday.

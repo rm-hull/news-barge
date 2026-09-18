@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: BUILT just two years ago, Ricksholme is a substantial detached family
   home with a handsome stone facade behind which lies a wealth of spacious and…
 image: https://www.thenorthernecho.co.uk/resources/images/21410824.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
+- Lifestyle & Fashion
 ---
 
 BUILT just two years ago, Ricksholme is a substantial detached family home with a handsome stone facade behind which lies a wealth of spacious and versatile accommodation that combines high-quality craftsmanship and stylish finishes.

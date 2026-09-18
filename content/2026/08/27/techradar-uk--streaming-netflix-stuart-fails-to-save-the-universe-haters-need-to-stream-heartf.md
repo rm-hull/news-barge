@@ -10,6 +10,10 @@ description: Not everyone is enjoying Stuart Fails to Save the Universe on HBO M
   — and that's the perfect excuse to give fellow Chuck Lorre-produced comedy Leanne
   season 2 some attention.
 image: https://cdn.mos.cms.futurecdn.net/deZFpkYoLH2D7ve2LjV8EL-1920-80.jpg
+categories:
+- Technology & Software
+- Comedy & Entertainment
+- Film & TV
 ---
 
 ![Leanne smiles at something offscreen](https://cdn.mos.cms.futurecdn.net/deZFpkYoLH2D7ve2LjV8EL.jpg) 

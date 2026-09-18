@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: Cory Mills faces serious charges. With Trump’s support, he might survive.
   He doesn’t have it, Eric Garcia writes ahead of Florida’s big night
 image: https://static.independent.co.uk/2026/08/18/16/2272588098..?trim=47,0,47,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 On Monday, President Donald Trump listed a spree of endorsements ahead of Florida’s Tuesday primary contest. But as Floridians head to the polls this evening, the most famous adopted Floridian has abstained from endorsing **Rep. Cory Mills** as he runs for re-election. 

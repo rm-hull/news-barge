@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Some experts worry factors affecting wheat exports could push global
   food prices even higher than they are now
 image: https://i.guim.co.uk/img/media/8682bfd875e828a0900020dfd23df66d501f7f9c/499_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f53b493ab7a54754c74d399e31fd6b31
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 Wheat prices are at their highest level in three years, which means farmer Merrill Nielsen should be getting more for his crops out of his 2,500-acre (1,010-hectare) Kansas farm.

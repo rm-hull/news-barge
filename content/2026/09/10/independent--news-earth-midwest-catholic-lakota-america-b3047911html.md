@@ -10,6 +10,10 @@ description: A farmer in Minnesota has transformed a conventional farm using bot
   formal agricultural education and the Indigenous wisdom he learned as a youth growing
   up in the Guatemalan rainforest
 image: https://static.independent.co.uk/2026/09/10/12/Spirit_Led_Farming_39829.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Religion & Spirituality
 ---
 
 The towering maple trees and native hazelnut bushes on Salvatierra Farms break up the surrounding corn and soybean fields that sprawl across southern Minnesota.

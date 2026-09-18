@@ -9,6 +9,10 @@ description: The Canadian singer - who was diagnosed with an incurable condition
   years ago - has been interacting with fans outside her hotel, ahead of a much-anticipated
   show on Saturday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cce0/live/422bc920-adf3-11f1-b2a8-57f1044ec672.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 # Céline Dion duets with fan ahead of Paris comeback concert

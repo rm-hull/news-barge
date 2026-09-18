@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: An evening combining music and history will take place at Halifax Minster,
   celebrating the launch of Professor David Baker’s latest book.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20693321.jpg?type=og-image&xType=0&yType=43
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: Supplied)*

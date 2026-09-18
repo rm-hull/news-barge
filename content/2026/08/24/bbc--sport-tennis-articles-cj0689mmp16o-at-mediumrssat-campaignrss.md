@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: Heather Watson is among the British winners in the first round of US
   Open qualifying as she bids for a first New York main-drawn appearance in five years.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9c8c/live/8c2a9a50-a00c-11f1-ad8f-297f0a59e510.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Heather Watson begins her service motion](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/9c8c/live/8c2a9a50-a00c-11f1-ad8f-297f0a59e510.jpg)

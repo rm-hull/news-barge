@@ -8,6 +8,9 @@ scraped_at: '2026-09-07T04:25:53Z'
 published: '2026-09-07T00:00:00Z'
 description: Follow the day’s news live
 image: https://i.guim.co.uk/img/media/dcd5b20d80c282d98a48b21ce7c5f9b80ae32a55/735_454_5222_4178/master/5222.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=8cde5475a82b43e3431bd92e98693268
+categories:
+- UK
+- News & Politics
 ---
 
 Australia politics live: Median full-time worker to be $25,000 worse off under Hanson’s super plan, peak body says; PM speaks of ‘horror’ of Nepal floods

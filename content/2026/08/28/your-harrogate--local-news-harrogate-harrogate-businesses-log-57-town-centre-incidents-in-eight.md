@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: More than 50 incidents have been reported through a new safety scheme
   for businesses in Harrogate town centre.
 image: https://mmo.aiircdn.com/409/6a91614e995558bc93d.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6a91614e995558bc93d.jpg) 

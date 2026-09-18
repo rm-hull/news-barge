@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Other sites such as YouTube, TikTok and Snapchat could be required to
   introduce similarly dramatic changes
 image: https://static.the-independent.com/2026/08/26/15/2290577446..?trim=38,0,38,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Meta is about to make dramatic changes to Instagram and Facebook as part of a historic legal settlement.

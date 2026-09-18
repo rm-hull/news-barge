@@ -8,6 +8,10 @@ scraped_at: '2026-09-16T19:32:05Z'
 published: '2026-09-16T00:00:00Z'
 description: Google could actually end up more expensive
 image: https://cdn.mos.cms.futurecdn.net/3GXSTw5weSV2Akxock9SKj-970-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Google Workspace IO keynote](https://cdn.mos.cms.futurecdn.net/3GXSTw5weSV2Akxock9SKj.jpg) 

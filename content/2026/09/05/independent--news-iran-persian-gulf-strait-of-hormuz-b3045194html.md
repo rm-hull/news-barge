@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: Iranian state media have accused the United States of targeting a tanker
   near Kharg Island
 image: https://static.independent.co.uk/2026/09/04/10/APTOPIX_Iran_War_Strait_of_Hormuz_54412.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Iran on Saturday accused the U.S. of attacking an Iranian tanker near Kharg Island in the Persian Gulf. The U.S. did not immediately comment, but a new strike would raise the risk of sparking a new round of Iranian attacks on U.S. allies and interests in the region.

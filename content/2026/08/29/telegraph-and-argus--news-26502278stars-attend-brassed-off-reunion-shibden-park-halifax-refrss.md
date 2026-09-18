@@ -8,6 +8,12 @@ published: '2026-08-29T00:00:00Z'
 description: Stars of the now classic Yorkshire-set film, Brassed Off joined a 30th
   anniversary celebration of the film at Shibden Park, Halifax.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21332693.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
+- Comedy & Entertainment
 ---
 
 Stars of the now classic Yorkshire-set film, Brassed Off, joined a 30th anniversary celebration of the film at Shibden Park, Halifax.

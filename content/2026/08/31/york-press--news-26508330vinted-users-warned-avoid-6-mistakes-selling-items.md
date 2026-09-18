@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Vinted users should avoid doing these six things when selling items,
   according to a packaging expert.
 image: https://www.yorkpress.co.uk/resources/images/21390986.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty)*

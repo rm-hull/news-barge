@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Two Bishop Auckland twins had to learn how to walk again after undergoing
   major spinal surgery, years after their mum noticed their shoulders were…
 image: https://www.thenorthernecho.co.uk/resources/images/21410719.jpg?type=og-image&xType=0&yType=302
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Two Bishop Auckland twins had to learn how to walk again after undergoing major spinal surgery, years after their mum noticed their shoulders were at different heights.

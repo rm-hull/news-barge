@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T12:00:54Z'
 published: '2026-08-27T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/dragons-den-sealstop-2.webp
+categories:
+- Local
+- York
+- Sports
 ---
 
 Inventors from near York pitch their ingenious device on Dragons’ Den tonight (Thursday).

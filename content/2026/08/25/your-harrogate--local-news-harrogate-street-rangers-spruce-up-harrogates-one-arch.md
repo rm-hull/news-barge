@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Harrogate BID's street rangers have spruced up one of the gateways to
   the town centre.
 image: https://mmo.aiircdn.com/409/6a8d367e176cdc333fa.jpg
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8d367e176cdc333fa.jpg) 

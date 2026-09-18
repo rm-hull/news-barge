@@ -9,6 +9,12 @@ published: '2026-08-23T00:00:00Z'
 description: Shelley Fabares, a beloved television actor known for roles on “The Donna
   Reed Show,” “One Day at a Time,” and “Coach,” has died at 82
 image: https://static.independent.co.uk/2026/08/23/22/Shelley_Fabares_75669.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 Shelley Fabares, an actor who was a fixture on television for decades from her days as a young teenager on “The Donna Reed Show,” through “One Day at a Time” and “Coach,” has died. She was 82.

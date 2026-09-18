@@ -9,6 +9,10 @@ description: Best known for The Last Emperor and Sexy Beast, the British film-ma
   was celebrated for working with international directors throughout his decades-long
   career.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dddd/live/02758cf0-aec3-11f1-89e2-171455bb2760.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ![Jeremy Thomas smiling in orange tinted sunglasses and a shirt at the Cannes Film Festival in 2021](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dddd/live/02758cf0-aec3-11f1-89e2-171455bb2760.jpg)

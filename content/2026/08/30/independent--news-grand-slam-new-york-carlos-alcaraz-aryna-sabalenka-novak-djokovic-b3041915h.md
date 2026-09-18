@@ -9,6 +9,10 @@ description: The U.S. Open, the season’s final Grand Slam, is underway in New 
   Carlos Alcaraz and Aryna Sabalenka defend their singles titles, Novak Djokovic seeks
   a record 25th major, and Venus and Serena Williams reunite in doubles.
 image: https://static.independent.co.uk/2026/08/30/23/US_Open_Tennis_74682.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The U.S. Open, the season’s final Grand Slam, is underway in New York. Carlos Alcaraz and Aryna Sabalenka defend their singles titles, Novak Djokovic seeks a record 25th major, and Venus and Serena Williams reunite in doubles.

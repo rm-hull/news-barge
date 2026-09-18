@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Researchers find capacity stunted by pollution restored after introduction
   of ultra-low emission zone
 image: https://i.guim.co.uk/img/media/07fd4aef33b985254b5eee808b3ed40883817126/344_0_3291_2633/master/3291.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c37a51354c30e1a214adeecd2cc48933
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Children’s lungs grew bigger and stronger after the most polluting vehicles were restricted from entering London, a study has found.

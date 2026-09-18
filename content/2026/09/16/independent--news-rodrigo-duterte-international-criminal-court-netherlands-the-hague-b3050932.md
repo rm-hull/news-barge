@@ -9,6 +9,10 @@ description: Former Philippine President Rodrigo Duterte is to make his first pu
   appearance in more than a year after an International Criminal Court judge said
   she expected him to attend a pretrial hearing
 image: https://static.independent.co.uk/2026/09/16/06/International_Courte_Duterte_19_62.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Former Philippine President Rodrigo Duterte is due to make his first public appearance in more than a year on Wednesday, after the presiding judge in his case at the International Criminal Court in the Netherlands said she expected the 81-year-old to attend a pretrial hearing.

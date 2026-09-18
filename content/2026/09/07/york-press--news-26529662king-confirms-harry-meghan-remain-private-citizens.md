@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: King Charles confirms Prince Harry and Meghan Markle remain private citizens
   after returning to the UK, with no change to their royal status or…
 image: https://www.yorkpress.co.uk/resources/images/21422105.jpg?type=og-image
+categories:
+- Local
+- York
+- Self-Improvement
 ---
 
 *(Image: Aaron Chown/PA Wire)*

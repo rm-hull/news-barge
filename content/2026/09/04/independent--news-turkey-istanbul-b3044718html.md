@@ -9,6 +9,10 @@ description: Authorities have recovered the remains of two more people from the 
   of a passenger ferry that sank off Cyprus, bringing the total confirmed deaths to
   12
 image: https://static.independent.co.uk/2026/09/04/11/Turkey_Cyprus_Ferry_5816_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 The remains of two more people have been recovered from the wreck of a passenger ferry that sank off the coast of Cyprus, the leader of the island’s northern territory said Friday.

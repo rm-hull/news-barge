@@ -9,6 +9,11 @@ description: Tuesday's alert was the first in months after a false alarm in June
   a July alert for an attack that ultimately did not enter UAE territory. Before that,
   the last missile warning came in early May.
 image: https://images.euronews.com/articles/stories/09/84/08/73/1200x675_cmsv2_e4094144-dec5-5637-b793-1a680cf394ca-9840873.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ## Tuesday's alert was the first in months after a false alarm in June and a July alert for an attack that ultimately did not enter UAE territory. Before that, the last missile warning came in early May.

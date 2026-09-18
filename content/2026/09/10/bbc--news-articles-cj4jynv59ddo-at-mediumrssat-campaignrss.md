@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: One pilot told the other about the aircraft's "excessive speed" but received
   an uneven response even as alarms sounded.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da5e/live/e1bc0040-ad1c-11f1-826f-933990eae6f0.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Crews investigate the site of an Amazon cargo plane crash at Miami International Airport on 8 September](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/da5e/live/e1bc0040-ad1c-11f1-826f-933990eae6f0.jpg)

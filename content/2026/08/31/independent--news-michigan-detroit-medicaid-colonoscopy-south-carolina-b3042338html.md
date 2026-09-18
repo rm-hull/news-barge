@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Three Michigan school districts are using a specialized clinic to tackle
   rising healthcare costs
 image: https://static.independent.co.uk/2026/08/31/21/School_Districts_Healthcare_45469.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Three Michigan school districts are betting that a specialized clinic may be the antidote to surging health care costs.

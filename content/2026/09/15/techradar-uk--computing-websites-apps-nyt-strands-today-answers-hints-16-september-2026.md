@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: My clues will help you solve the NYT's Strands today and keep that streak
   going
 image: https://cdn.mos.cms.futurecdn.net/XrpFgcngWrtXQscKdLLAZB-1920-80.jpg
+categories:
+- Technology & Software
+- Lifestyle & Fashion
 ---
 
 ![NYT Strands homescreen on a mobile phone screen, on a light blue background](https://cdn.mos.cms.futurecdn.net/XrpFgcngWrtXQscKdLLAZB.jpg) 

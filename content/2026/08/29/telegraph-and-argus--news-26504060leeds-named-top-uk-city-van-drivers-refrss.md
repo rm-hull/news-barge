@@ -7,6 +7,11 @@ scraped_at: '2026-08-29T06:59:48Z'
 published: '2026-08-29T00:00:00Z'
 description: LEEDS has been named one of the best places in the UK for van drivers.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20927427.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: Pixabay)*

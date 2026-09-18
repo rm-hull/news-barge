@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Motorists have reported major delays at Kex Gill, with one driver claiming
   journeys through the area were hit by hold-ups of almost two hours.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjI3NjE5ZTg1LWY5MjItNDAwMC1iNTgyLWFkYThjYmRmNWVhNDpiMDY4Y2E5NC0yZGY5LTRhNzMtYjNhNC05OGE5YzVjMDJkOGI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Technology & Software
 ---
 
 # Drivers raise serious concerns over Kex Gill traffic delays

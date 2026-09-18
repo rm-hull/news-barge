@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Forecasters say Tropical Storm Norbert has formed in the Pacific Ocean
   and isn't threatening land
 image: https://static.independent.co.uk/2026/09/10/12/Tropical_Weather_97311.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Tropical Storm Norbert forms in the Pacific Ocean and isn't threatening land

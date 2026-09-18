@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Las Iguanas has said its York restaurant branch closed after the site’s
   landlord served notice on the city centre premises.
 image: https://www.yorkpress.co.uk/resources/images/21444498.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 *(Image: Newsquest)*

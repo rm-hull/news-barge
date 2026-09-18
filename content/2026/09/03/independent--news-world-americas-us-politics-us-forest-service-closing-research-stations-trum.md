@@ -9,6 +9,10 @@ description: An additional 41 research facilities that faced possible closure wi
   remain open after local officials and members of Congress raised concerns about
   the reorganization
 image: https://static.independent.co.uk/2026/09/03/19/02/AP26246679850022.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The U.S. Forest Service is closing 23 research stations across more than a dozen states as President Donald Trump looks to trim expenses and focus resources in Western states, officials said Thursday.

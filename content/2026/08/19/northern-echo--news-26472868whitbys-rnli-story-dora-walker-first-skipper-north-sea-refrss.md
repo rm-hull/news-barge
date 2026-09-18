@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: The extraordinary story of a North Yorkshire woman who became the first
   to skipper a North Sea fishing vessel is being brought to life in a new…
 image: https://www.thenorthernecho.co.uk/resources/images/21333736.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

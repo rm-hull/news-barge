@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Makers of some of France's most famous cheeses get waivers on where herds
   graze due to the lack of grass.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da02/live/80108910-a240-11f1-804a-af7f2afa0e85.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Food & Cooking
 ---
 
 ![Beaufort cheese wheels stored in a cellar in eastern France. Archive photo](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/da02/live/80108910-a240-11f1-804a-af7f2afa0e85.jpg)

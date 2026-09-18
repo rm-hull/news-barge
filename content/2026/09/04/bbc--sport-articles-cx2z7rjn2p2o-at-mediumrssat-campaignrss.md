@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: Harry Kane was the highest goalscorer in Europe last season, yet he plays
   like a midfielder. We ask him to break down his game.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bc7e/live/695b4a80-a70d-11f1-adb7-ad73f5f76a76.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 ![A stylistic collage of Harry Kane, the Ballon d'Or and Vincent Kompany](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/f593/live/bb2743b0-a6da-11f1-a291-b542ee92de7c.jpg)

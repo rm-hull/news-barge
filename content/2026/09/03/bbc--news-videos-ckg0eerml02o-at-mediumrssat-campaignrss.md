@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: South Asian correspondent Azadeh Moshiri is at the site of a tunnel where
   rescuers still hope to find survivors following the Nepal-Tibet floods.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fef2/live/b9b6bc80-a7c6-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 # Nepal tunnel rescuers hunt for survivors with rafts and drone

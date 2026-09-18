@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Constituency office marks major milestone supporting local residents
   just over two years since the General Election.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/tom-gordon-case.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 *Constituency office marks major milestone supporting local residents just over two years since the General Election.*

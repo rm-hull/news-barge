@@ -7,6 +7,11 @@ scraped_at: '2026-09-16T13:27:27Z'
 published: '2026-09-16T00:00:00Z'
 description: A MYSTERY author has helped secure a £1,000 award for a Leeds bookshop.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21459745.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Books & Literature
 ---
 
 *(Image: Supplied)*

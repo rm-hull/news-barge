@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Hundreds of thousands of people with type 2 diabetes could get access
   to a new weekly insulin jab to replace daily injections.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9cf9/live/f9ed6910-9bce-11f1-9a70-efb9935d3d1b.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![A close-up photograph shows a person self-administering an injection into the abdomen using a pen-style injector. One hand holds a blue injection pen against the skin just below the waistline, while the other hand gently pinches the skin around the injection site. The person is wearing light-coloured clothing, with the top slightly lifted to expose part of the stomach area.](https://ichef.bbci.co.uk/ace/standard/594/cpsprodpb/9cf9/live/f9ed6910-9bce-11f1-9a70-efb9935d3d1b.jpg)

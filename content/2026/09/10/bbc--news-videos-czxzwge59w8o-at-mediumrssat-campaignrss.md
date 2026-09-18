@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: The US president has said every American will get $5,000 (£3,700) if
   the Republican Party wins November's midterms.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbe7/live/af214ad0-acec-11f1-bc1f-3f186ca4140c.png
+categories:
+- UK
+- News & Politics
 ---
 
 # Watch: Is Trump's $5,000 election pledge legal?

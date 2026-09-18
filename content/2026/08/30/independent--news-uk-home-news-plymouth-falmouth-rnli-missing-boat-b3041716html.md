@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: A rescue was launched to try to help the vessel in trouble south west
   of Eddystone Lighthouse and off Plymouth
 image: https://static.independent.co.uk/2022/12/14/08/SEI136966834.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Three people have been rescued from a vessel “in distress” in the English Channel, the coastguard has said. But two are still unaccounted for.

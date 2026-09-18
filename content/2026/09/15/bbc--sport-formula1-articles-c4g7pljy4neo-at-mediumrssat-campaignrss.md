@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: BBC Sport F1 correspondent Andrew Benson answers your latest questions
   after the Spanish Grand Prix.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/92fa/live/62daf490-afa4-11f1-a27d-17e2480354ed.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Sports
 ---
 
 ![Kimi Antonelli ahead of Max Verstappen and Lando Norris during the Spanish Grand Prix](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/92fa/live/62daf490-afa4-11f1-a27d-17e2480354ed.jpg)

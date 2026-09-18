@@ -8,6 +8,9 @@ published: '2026-09-06T00:00:00Z'
 description: I was initially enamored with the beta version of Apple’s revamped smartphone
   assistant. As the full release approaches, I’ve forgotten Siri AI even exists.
 image: https://media.wired.com/photos/6a9957d8075950c219e951f8/191:100/w_1280,c_limit/GettyImages-2255802594.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 When I first tested the developer beta of Apple's Siri AI by taking it as my tour guide around San Francisco, I was convinced the overhauled smartphone assistant would be an “everything tool” on the iPhone. The answers felt reliable enough and more helpful than previous versions of Siri. Also, the chatbot-style app for Siri felt very sleek, very Apple-y.

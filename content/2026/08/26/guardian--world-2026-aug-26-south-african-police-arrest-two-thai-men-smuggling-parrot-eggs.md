@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: Bird eggs intercepted in homemade incubators at Johannesburg airport
   as officials try to halt wildlife trafficking
 image: https://i.guim.co.uk/img/media/e903e0b47376ef26a7278cd8f932b6e17e119b32/0_20_559_447/master/559.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2cb74ddc55ece399bcf6ec6fc9cba7b4
+categories:
+- UK
+- News & Politics
 ---
 
 South African police have arrested two Thai nationals in separate incidents for allegedly attempting to smuggle endangered parrot eggs out of the country as authorities try to stem the tide of wildlife trafficking.

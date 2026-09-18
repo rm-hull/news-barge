@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A COASTAL fish and chip shop and café will be demolished in a North Yorkshire
   town despite concerns about a lack of long-term plans.
 image: https://www.yorkpress.co.uk/resources/images/21343623.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
+- Arts & Culture
 ---
 
 ## Fish and chip shop and café to be demolished over fears building may collapse

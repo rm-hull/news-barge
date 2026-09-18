@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Denise Howarth says she feels robbed of the person she was after being
   told her mastectomy was unnecessary following breast cancer treatment.
 image: https://www.thenorthernecho.co.uk/resources/images/21471007.jpg?type=og-image&xType=0&yType=541
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A County Durham mum told she did not need a mastectomy says the operation robbed her of the person she was before surgery.

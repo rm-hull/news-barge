@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: The deal gives Nvidia control of a leading open-source AI platform and
   developer community.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9a5/live/f7099cf0-a7a9-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![The stock price of NVIDIA displayed on a smartphone with NVIDIA and Hugging Face logo displayed in a smartphone in Yichang City, Hubei Province, China, on August 27, 2026.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d9a5/live/f7099cf0-a7a9-11f1-aed2-8d6da8d75094.jpg)

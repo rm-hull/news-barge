@@ -8,6 +8,9 @@ published: '2026-09-12T00:00:00Z'
 description: ‘It’s not that I wouldn’t cheat,’ Trump told business leaders gathered
   in Dublin on Saturday
 image: https://static.independent.co.uk/2026/09/12/14/02/GettyImages-2226311804.jpeg?trim=0,2,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump said the Secret Service agents assigned to protect him make it impossible for him to cheat at golf.

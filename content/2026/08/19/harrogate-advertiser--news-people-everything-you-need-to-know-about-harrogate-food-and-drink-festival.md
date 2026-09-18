@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Organisers say the line-up for this weekend’s Harrogate Food and Drink
   Festival at Ripley Castle will be the best and biggest yet and packed with new features.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmVmNmJiM2U3LTRmMTMtNGFmYi04MjBhLTRjMDk0ZTUzOGZjNzoyZWE1Zjg1My04MGU4LTRiZjEtODViMi03MTU5ZDAxNWE0N2Y=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Food & Cooking
 ---
 
 # Everything you need to know about Harrogate Food and Drink Festival this August weekend

@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Salmonella outbreak may be linked to imported eggs, say health officials
   by Ella Pickover, Press Association Health Correspondent.
 image: https://www.thetelegraphandargus.co.uk/resources/images/17665710.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: .)*

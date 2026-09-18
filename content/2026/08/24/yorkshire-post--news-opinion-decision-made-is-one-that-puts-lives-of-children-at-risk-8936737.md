@@ -9,6 +9,12 @@ description: Consternation surrounding the abandonment of a new leisure centre b
   the Reform UK-led Executive in Bradford is understandable, particularly given surfeit
   of drowning tragedies this summer.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjg1YmNmZGQwLThhMjgtNGM5Ny04ZThhLWE3YzUyMjY5OGY1ZjpmYmFhM2JmNS0xMDJlLTQ5YjYtODY4OS01NjVjZjRkM2Y3OGE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- News & Politics
 ---
 
 # Decision made is one that puts lives of children at risk

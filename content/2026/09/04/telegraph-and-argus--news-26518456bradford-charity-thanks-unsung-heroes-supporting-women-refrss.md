@@ -8,6 +8,12 @@ published: '2026-09-04T00:00:00Z'
 description: A CHARITY event has highlighted the "strength, compassion and generosity"
   of a community supporting women and girls
 image: https://www.thetelegraphandargus.co.uk/resources/images/21405510.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
+- Arts & Culture
 ---
 
 *(Image: Millan Centre)*

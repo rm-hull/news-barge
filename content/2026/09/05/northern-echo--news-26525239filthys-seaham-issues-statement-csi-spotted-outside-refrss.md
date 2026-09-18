@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: A Seaham deli has issued a statement after crime scene investigators
   were spotted outside the venue.
 image: https://www.thenorthernecho.co.uk/resources/images/21415367.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: GOOGLE)*

@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A man who strangled and suffocated a woman is beginning a 15-month prison
   sentence.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21435212.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: West Yorkshire Police)*

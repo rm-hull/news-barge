@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: This is the latest large-scale DDoS attack to hit the social networking
   site this year.
 image: https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Social networking site Bluesky says its recent day-long disruption was caused by a distributed denial-of-service (DDoS) attack that flooded the site with junk traffic. The social network confirmed the incident in a post on Monday, confirming the attack had taken place over the previous 24 hours.

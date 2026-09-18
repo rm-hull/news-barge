@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Unite union, which represents 36,000 Barclays staff, calls for a one-off
   payment to offset increased travel and childcare costs.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c4b/live/ea69b660-b28f-11f1-8096-b33a1297275a.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Barclays Corporate Banking headquarters offices at Canary Wharf financial district](https://ichef.bbci.co.uk/ace/standard/962/cpsprodpb/0c4b/live/ea69b660-b28f-11f1-8096-b33a1297275a.jpg)

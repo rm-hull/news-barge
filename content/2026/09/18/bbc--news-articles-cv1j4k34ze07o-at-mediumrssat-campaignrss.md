@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Kristofer Deichler, Jatinder Kamra and Sukhraj Singh were given community
   service and restraining orders for their harassment of Catrin Nye.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab37/live/9d0a35e0-f91b-11ef-becb-07cbf84d799c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Photo shows three men. On the left, Kristofer Deichler, wearing a white shirt. In the middle, Jatinder Kamra, wearing a white shirt and black blazer. And on the right, Sukhraj Singh, wearing a dark shirt.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ab37/live/9d0a35e0-f91b-11ef-becb-07cbf84d799c.jpg)

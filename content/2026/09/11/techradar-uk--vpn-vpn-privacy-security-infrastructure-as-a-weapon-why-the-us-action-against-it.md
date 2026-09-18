@@ -8,6 +8,8 @@ scraped_at: '2026-09-11T12:49:25Z'
 published: '2026-09-11T00:00:00Z'
 description: Could your favorite encrypted app be the next to fall?
 image: https://cdn.mos.cms.futurecdn.net/skSaKZsz42qMdeZZXkMAyT-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Red glowing hand going to grab text bubbles. Hacking, surveillance, censorship concept. Leave No Trace logo on top left](https://cdn.mos.cms.futurecdn.net/skSaKZsz42qMdeZZXkMAyT.png) 

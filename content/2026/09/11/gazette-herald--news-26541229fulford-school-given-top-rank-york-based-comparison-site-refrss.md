@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: A broken-down road roller blocking one lane of the A1079 outside York
   is being prepared to be moved to a layby this lunchtime (Friday, September 11).
 image: https://www.gazetteherald.co.uk/resources/images/21439843.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 A BROKEN-DOWN road roller blocking a main road in York is being prepared to be moved this morning.

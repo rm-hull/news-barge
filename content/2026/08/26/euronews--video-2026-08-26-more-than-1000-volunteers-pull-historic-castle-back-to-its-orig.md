@@ -10,6 +10,10 @@ description: Video. More than 1,000 volunteers pull Japan’s Hirosaki Castle ba
   its original site in Aomori after a decade of renovation work on the 400-year-old
   keep.
 image: https://images.euronews.com/articles/stories/09/88/90/15/1200x675_cmsv2_8ea389b4-0c59-5350-bfa1-68199eb7e2e1-9889015.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 More than a thousand people gathered in Aomori Prefecture to pull Japan’s historic Hirosaki Castle back to its original site after years of renovation. The wooden keep, one of only twelve original castles left in the country, was moved in 2015 so engineers could repair the stone base beneath it. Now, teams of volunteers have guided it home.

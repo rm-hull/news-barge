@@ -9,6 +9,8 @@ published: '2026-08-21T00:00:00Z'
 description: Some early listing pages have told us the name, feature set and design
   quicks of Beats' upcoming over-ear headphones.
 image: https://cdn.mos.cms.futurecdn.net/YtgPuvWXaGD3JrXdH7DtUZ-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Beats Studio Pro being worn](https://cdn.mos.cms.futurecdn.net/YtgPuvWXaGD3JrXdH7DtUZ.jpg) 

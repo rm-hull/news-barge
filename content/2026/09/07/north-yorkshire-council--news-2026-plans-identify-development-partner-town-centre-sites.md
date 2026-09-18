@@ -9,6 +9,12 @@ description: Plans to identify an external partner to help bring forward regener
   proposals for a number of council-owned sites in Scarborough town centre are to
   be considered by councillors.
 image: https://www.northyorks.gov.uk/sites/default/files/2026-09/ScarboroughTownHall2.JPG
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- Society & Culture
 ---
 
 ![Scarborough Town Hall](https://www.northyorks.gov.uk/sites/default/files/2026-09/ScarboroughTownHall2.JPG) 

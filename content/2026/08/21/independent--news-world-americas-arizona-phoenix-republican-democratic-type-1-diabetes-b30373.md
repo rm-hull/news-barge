@@ -9,6 +9,10 @@ description: State prosecutors declined to file criminal charges against Arizona
   Katie Hobbs over allegations that she took part in a pay-to-play scheme with a group
   home company
 image: https://static.independent.co.uk/2026/08/21/20/Arizona_Governor_Pay_to_Play_66854.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 State prosecutors declined to file criminal charges against Arizona Gov. Katie Hobbs over allegations that she took part in a pay-to-play scheme with a group home company that received a rate increase from the state after contributing $100,000 to her inaugural celebration, Attorney General Kris Mayes announced Friday.

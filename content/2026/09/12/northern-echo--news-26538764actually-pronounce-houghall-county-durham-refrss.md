@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: If you've ever driven into Durham and spotted signs for Houghall, there's
   a good chance you've immediately wondered how to say it.…
 image: https://www.thenorthernecho.co.uk/resources/images/21434886.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: GOOGLE)*

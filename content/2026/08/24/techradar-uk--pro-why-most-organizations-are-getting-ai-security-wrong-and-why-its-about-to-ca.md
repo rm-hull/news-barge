@@ -8,6 +8,9 @@ scraped_at: '2026-08-24T11:49:11Z'
 published: '2026-08-24T00:00:00Z'
 description: AI security fails when control isn't embedded where AI makes decisions
 image: https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A robot hand touching a locked digital shield blocking a human from accessing data](https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej.jpg) 

@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: A pioneering company employing 30 people placed into administration in
   the UK.
 image: https://www.gazetteherald.co.uk/resources/images/21454176.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: Getty Images)*

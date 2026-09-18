@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A HANDS-ON cooking session inside HMP Leeds is helping inmates build
   skills for a fresh start.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21413656.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

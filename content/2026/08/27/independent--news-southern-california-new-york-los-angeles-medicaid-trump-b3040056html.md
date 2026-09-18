@@ -10,6 +10,10 @@ description: Many California residents have fallen victim to hospice fraud, a wi
   issue that exploits weak state and federal oversight and has generated millions
   in fraudulent claims to Medicare
 image: https://static.independent.co.uk/2026/08/27/05/California_Hospice_Fraud_82_54.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 At 71 and a few years into retirement, Linda Henry felt like she was in good health, and only went to her doctor in Southern California for the occasional checkup.

@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Seven-division champion Amanda Serrano talks to BBC Sport about fighting
   on TikTok, going for the women's boxing knockout record and retirement plans.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6bc9/live/c9afa7d0-9c8d-11f1-8d19-93d7082c5662.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Amanda Serrano has her arm raised by a referee and is celebrating with her belt](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/6bc9/live/c9afa7d0-9c8d-11f1-8d19-93d7082c5662.jpg)

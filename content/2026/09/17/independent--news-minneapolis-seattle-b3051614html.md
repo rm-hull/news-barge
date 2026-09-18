@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Dramatic video shows the moment two Minneapolis officers were shot after
   racing to an upper floor of an apartment building in pursuit of a shooter
 image: https://static.independent.co.uk/2026/09/17/04/Minneapolis_Apartment_Shooting_49837.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Technology & Software
 ---
 
 Dramatic video released Wednesday shows the moment two Minneapolis officers were shot after racing to an upper floor of an apartment building in pursuit of a shooter who had also killed two people and wounded three others, one the mother of his child.

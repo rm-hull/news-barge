@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Millions of households will be affected by an increase in the energy
   price cap by regulator Ofgem.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b19a/live/2109aba0-a091-11f1-b11c-1bea5fc925f5.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Woman in floral dress with blonde hair pinned up adjusts heating system in her home](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/b19a/live/2109aba0-a091-11f1-b11c-1bea5fc925f5.jpg)

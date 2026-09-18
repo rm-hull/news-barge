@@ -7,6 +7,8 @@ scraped_at: '2026-09-17T13:23:16Z'
 published: '2026-09-17T00:00:00Z'
 description: New health features, AI ambitions, and big leap in processing power
 image: https://cdn.mos.cms.futurecdn.net/9ZyBoZvguyz7CPXsH59HC4-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Apple Watch Series 12 Review](https://cdn.mos.cms.futurecdn.net/9ZyBoZvguyz7CPXsH59HC4.jpg) 

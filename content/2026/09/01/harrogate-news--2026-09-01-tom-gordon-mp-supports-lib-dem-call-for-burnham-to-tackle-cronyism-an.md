@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Ed Davey has warned Andy Burnham “you can’t fix the country without fixing
   our broken politics”. He has called for a new Commission to restore British
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/tom-gordon-parli.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 Ed Davey has warned Andy Burnham “you can’t fix the country without fixing our broken politics”. He has called for a new Commission to restore British democracy, which tackles systems of cronyism and corruption, makes politicians more accountable, gets big money out of politics and breaks the power of social media giants.

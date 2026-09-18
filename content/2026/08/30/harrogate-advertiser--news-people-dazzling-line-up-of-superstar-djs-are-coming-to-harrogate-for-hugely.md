@@ -10,6 +10,10 @@ description: Thousands of dance music fans will flock to the Stray in Harrogate 
   this week for the return of a major event which promises the biggest festival build
   yet and a dazzling line-up of superstar DJs.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjFmZmUxNmRhLTEzODctNGFhNi1iNDc1LTI3MGNlZTE1MDQ1MjpiMTAyYzI2Mi0xYmM0LTQ3OTYtODliNC0wMjFkOWIxNzBhMzg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 # 'Dazzling' line-up of superstar DJs are coming to Harrogate for hugely popular Love to be...Festival

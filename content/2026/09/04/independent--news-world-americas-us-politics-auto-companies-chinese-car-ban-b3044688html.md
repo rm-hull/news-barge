@@ -9,6 +9,11 @@ description: Alliance for Automotive Innovation writes to House and Senate leade
   seeking ‘permanent’ end to ‘sale, import and manufacture’ of China-connected vehicles,
   citing concerns over business practices
 image: https://static.independent.co.uk/2026/09/04/10/2286254204..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Automotive
+- Technology & Software
 ---
 
 One of the U.S.’s most powerful auto industry lobby groups has written to Congress calling for a ban on Chinese vehicles from America’s roads.

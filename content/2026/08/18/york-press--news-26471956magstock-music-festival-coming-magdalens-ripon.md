@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Magstock will take place on Bank Holiday Saturday at The Magdalens in
   Ripon.
 image: https://www.yorkpress.co.uk/resources/images/21331926.jpg?type=og-image
+categories:
+- Local
+- York
+- Music
+- Arts & Culture
 ---
 
 ## Ripon pub takes inspiration from Woodstock for new live music festival

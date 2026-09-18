@@ -9,6 +9,12 @@ published: '2026-08-19T00:00:00Z'
 description: ‘CBS will blanket the airwaves and major markets with a multipronged,
   cross-platform campaign,’ according to a new report
 image: https://static.independent.co.uk/2026/07/08/20/13/GettyImages-2194604196.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 CBS News Editor-in-Chief Bari Weiss has reportedly been handed a “blank check” to promote the newly revamped *60 Minutes*, following a turbulent stretch at the flagship program.

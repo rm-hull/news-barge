@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Widow calls decision to advance aggravated murder case against Tyler
   Robinson ‘an important step’ for grieving family
 image: https://static.the-independent.com/2026/09/01/05/Charlie_Kirk_Shot_61764.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Erika Kirk, the widow of conservative activist Charlie Kirk, has said a judge’s decision to allow the man accused of killing him to stand trial marks “an important step” for her grieving family.

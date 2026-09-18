@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: Google teamed up with the Pokémon Company to introduce a special-edition
   Fitbit Air that works with the Pokémon Sleep app.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Pokemon_Fitbit_Air.png?w=1200
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Google is giving Pokémon fans a new reason to wear a Fitbit. The company announced Thursday a special-edition Fitbit Air that works with Pokémon Sleep, combining Fitbit’s health and fitness tracking and the sleep-focused Pokémon game. The announcement comes as Pokémon celebrates its 30th anniversary this year.

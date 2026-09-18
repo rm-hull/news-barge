@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Darlington Market’s German-inspired bar and eatery is hosting its first-ever
   Oktoberfest celebration next month.
 image: https://www.thenorthernecho.co.uk/resources/images/21434320.jpg?type=og-image&xType=0&yType=95
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Darlington Market’s German-inspired bar and eatery is hosting its first-ever Oktoberfest celebration next month.

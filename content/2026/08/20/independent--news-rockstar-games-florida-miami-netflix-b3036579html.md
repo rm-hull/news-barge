@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: One U.S. Army unit is offering troops a reenlistment bonus of four extra
   days off timed around the November release of the video game Grand Theft Auto VI
 image: https://static.independent.co.uk/2026/08/20/18/Army_Bonus_Grand_Theft_Auto_79655.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Video Gaming
+- Technology & Software
 ---
 
 A U.S. Army unit is offering its troops a special bonus if they reenlist soon: four extra days off timed around the November release of the video game Grand Theft Auto VI.

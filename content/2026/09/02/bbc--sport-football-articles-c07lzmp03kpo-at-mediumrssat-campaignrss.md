@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Celtic complete loan deals for former England goalkeeper Sam Johnstone
   and teenage Chelsea duo Shumaira Mheuka and Landon Emenalo.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fe2b/live/d5800040-a71a-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Celtic signings](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/f80e/live/0cb24000-a71b-11f1-aed2-8d6da8d75094.jpg)

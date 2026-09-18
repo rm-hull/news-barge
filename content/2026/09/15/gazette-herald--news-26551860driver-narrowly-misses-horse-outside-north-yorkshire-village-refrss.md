@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The incident as the horses and riders returned from the gallops at Mick
   and David Easterby's racing stables in Sheriff Hutton.
 image: https://www.gazetteherald.co.uk/resources/images/21457655.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 A reckless car driver narrowly missed one of five horses crossing a country road in North Yorkshire.

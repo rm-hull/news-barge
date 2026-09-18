@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: A former Barclays bank in Barnard Castle has had its price slashed by
   £50,000, almost two years since its closure.
 image: https://www.thenorthernecho.co.uk/resources/images/17644047.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: NORTHERN ECHO)*

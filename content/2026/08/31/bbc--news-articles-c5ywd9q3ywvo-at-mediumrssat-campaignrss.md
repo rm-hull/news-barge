@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Dolly Parton's estate says DollyFest will take the place of a traditional
   public memorial for the artist, just as she wanted.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cce4/live/57303e30-a567-11f1-86d4-95b193638b63.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- Society & Culture
 ---
 
 ![Dolly Parton, wearing a white and silver bedazzled outfit, on stage smiling and holding out her arms](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/cce4/live/57303e30-a567-11f1-86d4-95b193638b63.jpg)

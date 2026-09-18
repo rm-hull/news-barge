@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: So-called financial favouritism can cause jealousy and resentment long
   into adulthood. Here is how experts say you can avoid it
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bbd9/live/fc8d0a40-9bba-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![A brother and sister argue in front of an open laptop](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/bbd9/live/fc8d0a40-9bba-11f1-aed2-8d6da8d75094.jpg)

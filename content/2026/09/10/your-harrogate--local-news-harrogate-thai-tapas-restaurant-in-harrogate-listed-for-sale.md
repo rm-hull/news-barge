@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A Harrogate town centre Thai restaurant has been listed for sale for
   £119,950.
 image: https://mmo.aiircdn.com/409/6aa2562ce7dedeb6643.jpg
+categories:
+- Local
+- Harrogate
+- Food & Cooking
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa2562ce7dedeb6643.jpg) 

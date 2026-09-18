@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Victims of cowboy builders describe how they were exploited with one
   couple left "scarred for life".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/012a/live/4a6058a0-ac08-11f1-afbf-77fe6d25f635.jpg
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 ![Sheri Ingram is photographed sat down in the door way of her home, which is in the process of being renovated. She is holding a blue mug which is placed on her right knee. She has long brown hair past her shoulders and is wearing a blue knitted cardigan. Steps inside her home leading upstairs can be seen behind her through the open doorway. There is Edwardian tiles on each side of the doorway, framing the photo. She is looking away from the camera and is not smiling.](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/012a/live/4a6058a0-ac08-11f1-afbf-77fe6d25f635.jpg)

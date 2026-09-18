@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: What former PM could resist upstaging the new one hours before his first
   dispatch box appearance in 16 years?
 image: https://i.guim.co.uk/img/media/509da678f6c55d1ab6127059382c523ff2df1f7c/464_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=89e1d1dd72b1a4f27d79f489d142984e
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 No good deed goes unpunished. Or any deed for that matter. It was only a few weeks ago that Keir Starmer was insisting he would remain an MP until the next general election. So we should all probably have guessed that he would be off at the earliest opportunity. U-turns were a distinguishing feature of his two years in office.

@@ -9,6 +9,10 @@ description: Donald Trump’s comments come after a report suggesting the US was
   an ultimatium on Britain’s sovereignty of the islands if it did not increase defence
   spending
 image: https://static.independent.co.uk/2026/08/31/23/2292889318..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 President Donald Trump said he was reviewing the United States’ position on the British sovereignty over the Falkland islands, in a move that will raise alarm for Labour ministers.

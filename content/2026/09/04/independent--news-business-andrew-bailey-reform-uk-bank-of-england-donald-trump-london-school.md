@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: Andrew Bailey said the Bank should be insulated from ‘short-term political
   pressures’.
 image: https://static.independent.co.uk/2026/09/04/11/362e117c13b806cde6a43c5ff8f0e484Y29udGVudHNlYXJjaGFwaSwxNzg4NjAyNDEw-2.85452686.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The boss of the Bank of England has defended the independence of the world’s central banks including from the threat of populism.

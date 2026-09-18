@@ -9,6 +9,12 @@ published: '2026-09-04T00:00:00Z'
 description: New record for Australia as more than 27,000 EVs sold in August, driven
   by the rising cost of fuel and new government policy
 image: https://i.guim.co.uk/img/media/b93373f2bada2d54d70054c69386dced5b3b49fc/646_0_6458_5167/master/6458.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=536603f5a932629070b8fa45d543790f
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Personal Finance & Investing
+- Automotive
 ---
 
 Electric vehicle sales in Australia exceeded petrol cars for the first time last month as a transformation driven by high fuel prices and government policy encouraging clean car uptake accelerated.

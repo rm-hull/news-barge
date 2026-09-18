@@ -10,6 +10,9 @@ description: Hurricane Lowell was expected to cause major rains across Hawaii on
   as its core was projected to pass over or near the sparsely populated island of
   Niihau
 image: https://static.independent.co.uk/2026/09/06/21/Tropical_Weather_Hawaii_192_2.jpg?trim=167,0,167,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Hawaii Gov. Josh Green closed schools and government offices on the westernmost islands of Kauai and Niihau for Tuesday as Hurricane Lowell was expected to pass nearby, bringing damaging winds, mudslides, possible tornadoes, dangerous rip currents and as much as 16 inches (about 40 centimeters) of rain to some areas.

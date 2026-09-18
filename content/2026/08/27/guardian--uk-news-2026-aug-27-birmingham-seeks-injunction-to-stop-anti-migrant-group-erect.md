@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: City residents had accused council of giving ‘free rein’ to campaign
   promoting England flags
 image: https://i.guim.co.uk/img/media/d2fdc1f17e53fdb9e9642314c012edb2fa0b55bc/441_0_3016_2413/master/3016.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c21e38688ab0994d24286cbdb137fa07
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Birmingham city council is seeking an injunction to stop members of an anti-migrant group from erecting flags, including union jack and St George’s flags, on public infrastructure across the city.

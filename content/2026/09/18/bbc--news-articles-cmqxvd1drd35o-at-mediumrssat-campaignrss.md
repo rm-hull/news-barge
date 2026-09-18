@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Princess Diana's brother tells the BBC's Laura Kuenssberg that "we'll
   forget her soon enough" were "exactly" the words used by the then-Prince of Wales.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ab3/live/011a4280-b380-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Watch: Earl Spencer says he's 'telling the truth' about what Charles said after Diana died

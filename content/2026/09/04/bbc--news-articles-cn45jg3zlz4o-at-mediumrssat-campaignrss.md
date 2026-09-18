@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: The comments come as Argentinian president Javier Milei says the "winds
   of change" favoured his country's claim on the British overseas territory.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8ea2/live/97f55e90-a856-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- History
 ---
 
 ![Argentina's President Javier Milei delivers a speech](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/8ea2/live/97f55e90-a856-11f1-b109-879e35c24276.jpg)

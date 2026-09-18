@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T08:56:55Z'
 published: '2026-08-26T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/Acomb1.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 The St Leonard’s Hospice clothing and homeware shop in Acomb will reopen after a new refurb.

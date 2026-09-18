@@ -7,6 +7,11 @@ scraped_at: '2026-08-18T08:50:32Z'
 published: '2026-08-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/solar-panels-roof-install-canva.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Home, Garden & DIY
 ---
 
 Hundreds of solar panels are set to be installed on the roof of a York building following a council decision.

@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: All supporting acts have pulled out of Ed Sheeran’s Loop Tour following
   the removal of rapper Macklemore.
 image: https://www.thetelegraphandargus.co.uk/resources/images/14417710.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: PA)*

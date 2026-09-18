@@ -8,6 +8,13 @@ published: '2026-08-19T00:00:00Z'
 description: Ushaw Flower Festival is set to return with floral displays at historic
   Ushaw,celebrating the North East’s musical heritage
 image: https://www.thenorthernecho.co.uk/resources/images/21334074.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
+- Arts & Culture
+- History
 ---
 
 *(Image: Supplied)*

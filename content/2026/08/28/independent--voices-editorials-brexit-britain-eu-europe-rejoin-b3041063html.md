@@ -9,6 +9,11 @@ description: 'Editorial: As a new report reveals how rejoining the EU would give
   UK economy an £11.7bn boost, it is time to admit the 2016 referendum was a mistake
   – and to work at pace on a way back into Europe'
 image: https://static.independent.co.uk/2026/04/18/11/1967910620.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The repercussions of both manmade and natural disasters can last for years, decades, even centuries – and, it must be said, the same goes for Britain’s departure from the European Union.

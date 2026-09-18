@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: The decision to scrap plans for a new swimming pool in Bradford was a
   “political one” that “Reform must take responsibility for” – an MP…
 image: https://www.thetelegraphandargus.co.uk/resources/images/19978574.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 THE decision to scrap plans for a new swimming pool in Bradford was a “political one” that “Reform must take responsibility for” – an MP has claimed.

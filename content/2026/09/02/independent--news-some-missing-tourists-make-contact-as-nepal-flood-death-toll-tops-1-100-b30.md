@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Some tourists previously reported missing in Nepal have made contact
   with authorities, officials said Wednesday
 image: https://static.independent.co.uk/2026/09/02/06/APTOPIX_Nepal_Flash_Floods_76492.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Some tourists previously reported missing in Nepal have made contact with authorities, officials said Wednesday, as search efforts continued following catastrophic floods that killed at least 1,118 people and left more than 3,900 missing.

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Sinking of inflatable dinghy in 2021 resulted in 31 people dead or missing,
   including a seven-year-old child
 image: https://i.guim.co.uk/img/media/a676e8e5ada32a7815025676766219d5c2cd60ba/625_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64d499f1f030a615de1cadb5b3f48f74
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Fourteen men will go on trial in Paris on Tuesday over the deaths of at least 31 people in the worst mass drowning from a small-boat crossing in the Channel on record.

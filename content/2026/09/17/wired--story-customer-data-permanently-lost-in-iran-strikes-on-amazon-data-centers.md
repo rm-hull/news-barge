@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Amazon Web Services didn’t design its data centers to withstand war,
   and now the company admits it can’t recover what’s been lost.
 image: https://media.wired.com/photos/6aac35ba7233731358b63aab/191:100/w_1280,c_limit/Iran-Strikes-on-Amazon-Data-Centers-Business.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Half a year after Iranian drone strikes knocked out multiple Amazon data centers, the US tech company has acknowledged the permanent loss of some customer data that was hosted in Bahrain and the United Arab Emirates.

@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A striking modern five-bedroom detached home on Alpine Way in Humbledon
   has been listed for £550,000, with elevated views across the North East.
 image: https://www.thenorthernecho.co.uk/resources/images/21331355.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A striking modern home with sweeping views has come onto the market.

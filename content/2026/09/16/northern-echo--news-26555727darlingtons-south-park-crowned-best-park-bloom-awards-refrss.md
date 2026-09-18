@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Darlington and Bishop Auckland were among the big winners at the Northumbria
   in Bloom 2026 awards, while Washington Village claimed the…
 image: https://www.thenorthernecho.co.uk/resources/images/21463625.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 Floral displays, green spaces, and community effort have earned top honours for towns across the region in this year’s Northumbria in Bloom Awards.

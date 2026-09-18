@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: When the USS Abraham Lincoln docked in Thailand this week some people
   were quick to criticise the condition it was in.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e917/live/b2e2b170-a87f-11f1-aed2-8d6da8d75094.png
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 # Why did USS Lincoln turn up in Thailand looking so rusty?

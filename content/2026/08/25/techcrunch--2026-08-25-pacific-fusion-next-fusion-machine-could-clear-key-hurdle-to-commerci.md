@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: Fusion startup Pacific Fusion broke ground on a demonstration facility
   in New Mexico that it says will generate enough energy to power itself.
 image: https://techcrunch.com/wp-content/uploads/2026/06/pacific-fusion-pulser-prototype-end.jpeg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Pacific Fusion is one step closer to commercializing fusion power after breaking ground Tuesday on a facility in New Mexico designed to generate as much energy as it consumes.

@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: A major Bradford food business has applied for retrospective permission
   for a kerbside pick up service it says only serves “a limited number of…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21452706.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

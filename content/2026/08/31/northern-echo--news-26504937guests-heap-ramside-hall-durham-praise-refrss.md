@@ -7,6 +7,11 @@ scraped_at: '2026-08-31T16:08:31Z'
 published: '2026-08-31T00:00:00Z'
 description: A luxury County Durham spa has received glowing reviews from guests.
 image: https://www.thenorthernecho.co.uk/resources/images/19020557.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: PR)*

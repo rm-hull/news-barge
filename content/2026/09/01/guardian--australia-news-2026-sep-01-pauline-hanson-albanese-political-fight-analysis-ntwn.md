@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: The PM wants to combat One Nation through core Labor values such as education
   and health, even as his popularity takes a beating
 image: https://i.guim.co.uk/img/media/00644e34cfc8197693b4097393cc88c994eccfd9/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7d2abccba7249db851a5deb85a6d19e5
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 At the height of her 1998 re-election fight, Pauline Hanson was challenged to give her honest assessment of John Howard.

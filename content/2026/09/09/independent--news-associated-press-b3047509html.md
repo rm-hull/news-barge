@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: From front page news to powerful moments you may have missed, this gallery
   showcases today's top photos, chosen by Associated Press photo editors.
 image: https://static.independent.co.uk/2026/09/09/18/APTOPIX_France_Mont_Blanc_Climate_Change__3255.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 From front page news to powerful moments you may have missed, this gallery showcases today's top photos, chosen by Associated Press photo editors.

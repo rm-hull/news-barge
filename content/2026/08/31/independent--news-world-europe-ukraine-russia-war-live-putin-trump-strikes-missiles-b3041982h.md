@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Hundreds of schools have been affected in recent attacks ahead of the
   academic year
 image: https://static.independent.co.uk/2026/08/26/10/2026-08-26T094452Z_1868544206_RC296NAH6K1W_RTRMADP_3_UKRAINE-CRISIS-ATTACK-WILDBERRIES.JPG?trim=0,288,0,288&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
 ---
 
 Russian strikes have destroyed nearly 12 million books in Ukraine, with forces targeting printing presses and publishing houses in recent attacks.

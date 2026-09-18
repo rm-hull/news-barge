@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Here are the latest planning applications submitted to, and decided by,
   North Yorkshire Council.
 image: https://www.gazetteherald.co.uk/resources/images/18954964.jpg?type=og-image&xType=0&yType=85
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Newsquest)*

@@ -9,6 +9,8 @@ published: '2026-09-16T00:00:00Z'
 description: Amid continuing criticism over what these glasses are capable off, Meta
   is rumored to be launching a camera-free pair.
 image: https://cdn.mos.cms.futurecdn.net/D2meKFBKmLgtVMaFPtFTVY-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Meta Ray-Ban Gen 2](https://cdn.mos.cms.futurecdn.net/D2meKFBKmLgtVMaFPtFTVY.jpg) 

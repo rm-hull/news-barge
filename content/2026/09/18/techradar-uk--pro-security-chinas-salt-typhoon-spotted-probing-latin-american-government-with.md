@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T19:00:35Z'
 published: '2026-09-18T00:00:00Z'
 description: The group has been focused on Latin America for almost a year now.
 image: https://cdn.mos.cms.futurecdn.net/MmBupUuqfKaoWhB7xEsZC7-2560-80.jpg
+categories:
+- Technology & Software
+- News & Politics
+- Society & Culture
 ---
 
 ![A conceptual image featuring Donald Trump and China President Xi Jinping on a screen, with undulating stocks and a dollar bill in the background.](https://cdn.mos.cms.futurecdn.net/MmBupUuqfKaoWhB7xEsZC7.jpg) 

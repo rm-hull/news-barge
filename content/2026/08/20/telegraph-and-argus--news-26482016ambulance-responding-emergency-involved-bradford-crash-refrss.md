@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: An ambulance was involved in a Bradford crash while responding to another
   incident, it has been confirmed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/14861168.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 AN arrest has been made after an ambulance was involved in a Bradford crash while responding to another incident, it has been confirmed.

@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: Anthony Seldon’s book alleges Badenoch asked fellow Tory ministers ‘if
   anyone was interested in changing the captain’
 image: https://i.guim.co.uk/img/media/d5496efd69b2e06965e8c0334ec71d92c05c9ed6/1529_407_3404_2724/master/3404.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de6f91c2782d476ff2892c59e421420d
+categories:
+- UK
+- News & Politics
 ---
 
 Kemi Badenoch plotted with fellow Conservative cabinet ministers to remove Rishi Sunak as prime minister months before the general election, it has been claimed.

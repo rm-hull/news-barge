@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Reports say Duke and Duchess of Sussex intend to relocate from US, with
   children to start British school in September
 image: https://i.guim.co.uk/img/media/1fc2da087290b4ac43deb95768a54d6bc98f674f/376_0_4621_3697/master/4621.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e91db990e6c7b251726d8152e9837b57
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 The Duke and Duchess of Sussex are planning to return to live in Britain, six years after leaving for the US, it has been reported.

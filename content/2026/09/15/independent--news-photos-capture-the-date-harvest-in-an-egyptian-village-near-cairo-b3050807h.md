@@ -9,6 +9,10 @@ description: Date grower Hajj Ibrahim harvests dates from his palms in Kafr Send
   a village in Qalyubia on Cairo’s outskirts. Professional climbers earn about 50
   Egyptian pounds, or $1, per tree, as girls sort their families’ dates.
 image: https://static.independent.co.uk/2026/09/15/21/APTOPIX_Egypt_Date_Harvest__1362.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Photos capture the date harvest in an Egyptian village near Cairo

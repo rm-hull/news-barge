@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Proposals to merge smaller councils to form larger authorities have been
   paused or withdrawn in a number of areas.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/baab/live/156efbf0-aaba-11f1-b5c1-2f1b72631965.jpg
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 ![Local Government Secretary Angela Rayner](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/baab/live/156efbf0-aaba-11f1-b5c1-2f1b72631965.jpg)

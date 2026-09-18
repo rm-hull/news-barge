@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Just after Jo Hooper landed her dream role at 30, she struggled with
   burnout and had to take time off work.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b28d/live/b62f7fb0-a222-11f1-bd6a-3d72a7f54a3e.jpg
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 ![Woman with curly red hair and bright red lipstick faces the camera. She is wearing a white shirt](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/b28d/live/b62f7fb0-a222-11f1-bd6a-3d72a7f54a3e.jpg)

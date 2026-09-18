@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: 'Exclusive: Analysis seen by The Independent reveals the wealthiest crypto
   investors would get £100m a year in tax relief from Nigel Farage’s party'
 image: https://static.independent.co.uk/2026/08/21/15/11/farage-crypto-indycomp.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Reform UK’s tax plans would hand wealthy crypto investors hundreds of millions in tax breaks if Nigel Farage wins the next election, *The Independent* can reveal.

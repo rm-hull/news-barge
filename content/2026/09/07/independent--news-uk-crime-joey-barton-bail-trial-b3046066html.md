@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T19:54:17Z'
 published: '2026-09-07T00:00:00Z'
 description: He will remain in custody for six more months until his trial begins
 image: https://static.independent.co.uk/2026/03/10/12/e1678ae39f264711ccc3994c8904bc53Y29udGVudHNlYXJjaGFwaSwxNzczMjMxNzAx-2.79509482.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Former Manchester City footballer Joey Barton has had his bail application denied.

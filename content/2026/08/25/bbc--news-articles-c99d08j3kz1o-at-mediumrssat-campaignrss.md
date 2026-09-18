@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Students are seeking prescription drugs because they fear failure, a
   teen tells the BBC.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b5da/live/34a325e0-a093-11f1-91dc-4919512f173f.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![A teenager sits at a desk with her head down looking at a paper. She is writing on it with black pen. Stationery and a teddy bear sits on her desk. In the background are other teenagers at desks, all spaced out, in a classroom.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c98d/live/383b0160-a08d-11f1-84af-1fbec28b23b2.jpg)

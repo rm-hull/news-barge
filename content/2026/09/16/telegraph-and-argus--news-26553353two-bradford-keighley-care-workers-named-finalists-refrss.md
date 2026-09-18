@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: TWO care workers have been named finalists in the Yorkshire and Humber
   region of the Great British Care Awards.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21460006.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

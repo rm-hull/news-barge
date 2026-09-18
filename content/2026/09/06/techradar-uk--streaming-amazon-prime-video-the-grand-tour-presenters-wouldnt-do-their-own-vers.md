@@ -10,6 +10,9 @@ description: The Grand Tour is off to a strong start with its three new presente
   but what about a Clarkson's Farm-style spinoff? It's a resounding no — but not to
   every idea.
 image: https://cdn.mos.cms.futurecdn.net/EmdjELKacmsXcwFg5XecD6-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![James, Francis and Thomas pose in a metal barn](https://cdn.mos.cms.futurecdn.net/EmdjELKacmsXcwFg5XecD6.jpg) 

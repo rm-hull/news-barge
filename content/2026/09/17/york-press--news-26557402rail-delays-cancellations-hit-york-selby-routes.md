@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Rail passengers in York, Selby and Leeds face cancellations and delays
   affecting Northern, TransPennine Express and CrossCountry services.
 image: https://www.yorkpress.co.uk/resources/images/17236662.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: Newsquest)*

@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: The beloved ‘spuggie’ was once a regular sight in Yorkshire, but tree
   sparrows are now one of Britain’s most threatened farmland birds.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjc2ZGQ0YmJjLWYzZTMtNDlkMS1iZTc0LTVkYjg5NDU5NmZhMTo1NGJiMTYzZC01OTM5LTRlMjEtODM0Yi01MzJkNWIyMWE3M2I=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Bempton Cliffs: The unlikely Yorkshire stronghold of one of Britain’s most threatened farmland birds

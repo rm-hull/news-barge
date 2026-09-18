@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T14:14:17Z'
 published: '2026-09-07T00:00:00Z'
 description: An e-bike rider has been chased by two men in Harrogate, police said.
 image: https://www.yorkpress.co.uk/resources/images/19548559.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: North Yorkshire Police)*

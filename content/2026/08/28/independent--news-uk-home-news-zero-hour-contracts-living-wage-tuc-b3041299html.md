@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: TUC general secretary Paul Nowak described attempts to weaken new employment
   protections as ‘blatant scaremongering’
 image: https://static.independent.co.uk/2026/08/28/20/13/iStock-1412175790.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 Most employees on zero-hours or variable contracts stay in insecure roles for at least two years, research suggests.

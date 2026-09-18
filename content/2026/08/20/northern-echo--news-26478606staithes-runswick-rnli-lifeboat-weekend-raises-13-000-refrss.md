@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Staithes and Runswick RNLI has thanked supporters after its annual Lifeboat
   Weekend raised nearly £13,000, bringing together residents, visitors…
 image: https://www.thenorthernecho.co.uk/resources/images/21342524.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: RNLI)*

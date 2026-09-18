@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Four Harrogate police officers who performed CPR on a suicidal man and
   helped save his life are to receive national life-saving honours.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjZkOGU2ZTFkLTgyMzYtNGE0ZC04YjUxLWU3MTY3NmQ2YzNiZDo1MTZiM2I1NC1lYzMyLTQ0MDgtYjA4MC04MTg3MDM5NGQyYjI=.jpg?crop=3:2,smart&trim=&width=550&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 # Harrogate police officers honoured after saving man's life at town centre hotel

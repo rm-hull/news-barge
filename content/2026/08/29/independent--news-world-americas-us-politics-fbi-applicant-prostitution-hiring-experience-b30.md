@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: This move away from an automatic disqualification represents part of
   a broader evolution in recruitment standards across federal law enforcement agencies
 image: https://static.independent.co.uk/2026/08/13/14/2228331092..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The FBI is abandoning a strict hiring ban on job applicants who have engaged in sexual encounters with prostitutes, choosing instead to evaluate at least some past cases through a more holistic review, according to people familiar with the matter.

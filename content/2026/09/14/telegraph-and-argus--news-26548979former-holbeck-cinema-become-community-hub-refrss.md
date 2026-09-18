@@ -9,6 +9,13 @@ published: '2026-09-14T00:00:00Z'
 description: A historic former cinema could be converted into a community hub if plans
   are agreed with the city council.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21453280.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
+- Arts & Culture
+- Film & TV
 ---
 
 *(Image: Box Architects)*

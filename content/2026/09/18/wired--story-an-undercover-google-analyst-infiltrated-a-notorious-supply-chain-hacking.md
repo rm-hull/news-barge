@@ -9,6 +9,10 @@ description: TeamPCP pulled off the worst-ever software supply-chain hacking spr
   and breached thousands of companies. Now Google’s threat intelligence group says
   it had a mole inside the hackers’ inner circle.
 image: https://media.wired.com/photos/6aac35420820a9282b5f1721/191:100/w_1280,c_limit/Security_An%20Undercover%20Google%20Researcher%20Infiltrated%20the%20Gang%20Behind%20the%20Worst-Ever%20Supply%20Chain%20Hacking%20Spree_v1.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Before two of its alleged members were arrested and charged in Australia last month, the hacker group known as TeamPCP carried out a hacking spree unlike any other in history. It tainted hundreds of open-source programs with its malware, stole developer accounts to perpetuate that software supply-chain hacking, and even released a *Dune*-themed self-spreading worm to automate the process, ultimately breaching more than a thousand companies.

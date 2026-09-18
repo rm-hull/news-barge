@@ -9,6 +9,8 @@ published: '2026-09-09T00:00:00Z'
 description: Are you ready to upgrade? My iPhone Duo and iPhone 18 Pro preorders guide
   is here to tell you everything you need to know about these stunning new devices.
 image: https://cdn.mos.cms.futurecdn.net/uKj29UioAZf7z2fbL3H4W5-2560-80.png
+categories:
+- Technology & Software
 ---
 
 ![iPhone line-up, met iPhone 17e, 17, Air, 18 Pro en Duo](https://cdn.mos.cms.futurecdn.net/uKj29UioAZf7z2fbL3H4W5.png) 

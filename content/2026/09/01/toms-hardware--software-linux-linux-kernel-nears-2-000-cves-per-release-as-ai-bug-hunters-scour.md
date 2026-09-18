@@ -9,6 +9,9 @@ scraped_at: '2026-09-01T13:28:35Z'
 published: '2026-09-01T00:00:00Z'
 description: Maintenance teams are now fighting AI with AI
 image: https://cdn.mos.cms.futurecdn.net/4ZEnSpa7JtJezKZH6YwC5b-1600-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Linux logo in front of clocks](https://cdn.mos.cms.futurecdn.net/4ZEnSpa7JtJezKZH6YwC5b.jpg) 

@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Apple's first foldable iPhone is expected to launch imminently, but reports
   suggest hardly any units have actually been built.
 image: https://cdn.mos.cms.futurecdn.net/cjBVoD5obDco9JwYAuGPva-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![iPhone Ultra concept image on a yellow background](https://cdn.mos.cms.futurecdn.net/cjBVoD5obDco9JwYAuGPva.jpg) 

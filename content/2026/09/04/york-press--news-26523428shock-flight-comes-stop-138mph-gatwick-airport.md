@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: A York woman has spoken of her shock after her Norse Atlantic Airways
   flight to New York was forced to make an emergency stop on the runway of…
 image: https://www.yorkpress.co.uk/resources/images/21412409.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Gatwick Airport chaos - York woman's 'shock' as plane comes to 138mph stop on runway

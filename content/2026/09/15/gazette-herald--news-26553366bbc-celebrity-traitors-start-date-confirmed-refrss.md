@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: The start date for the second series of the Celebrity Traitors has been
   confirmed and it's only a few weeks away.
 image: https://www.gazetteherald.co.uk/resources/images/20866196.jpg?type=og-image&xType=0&yType=20
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Comedy & Entertainment
 ---
 
 *(Image: BBC/Studio Lambert/Euan Cherry)*

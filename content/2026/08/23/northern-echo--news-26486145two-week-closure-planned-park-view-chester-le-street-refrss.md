@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: County Durham motorists are being warned of a temporary road closure
   on Park View Rear in Chester-le-Street from August 24 to September 7, 2026,…
 image: https://www.thenorthernecho.co.uk/resources/images/19155903.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Newsquest)*

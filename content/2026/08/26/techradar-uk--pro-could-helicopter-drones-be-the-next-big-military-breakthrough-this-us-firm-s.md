@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: A 19-pound payload and 68-mph speed give Iveda’s new unmanned helicopter
   a different profile from electric quadcopters
 image: https://cdn.mos.cms.futurecdn.net/mmC46SwpMPqUcFVUpYRQva-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![IvedaAir GX10-F100 helicopter drone](https://cdn.mos.cms.futurecdn.net/mmC46SwpMPqUcFVUpYRQva.jpg) 

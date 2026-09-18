@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: Most children are only diagnosed with adrenoleukodystrophy, also known
   as ALD, when symptoms appear
 image: https://static.independent.co.uk/2026/08/20/16/01M0EW4W91NXH2YK1DSCSAVHEZ.jpg?trim=85,0,85,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- Health & Fitness
 ---
 
 Two brothers were found to have a genetic change linked to a rare condition after their mother signed them up for a study because she was “bored”.

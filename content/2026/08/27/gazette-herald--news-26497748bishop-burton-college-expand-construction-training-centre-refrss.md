@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Bishop Burton College has secured £2.502 million from the Department
   for Education’s Construction Skills Capacity Fund.
 image: https://www.gazetteherald.co.uk/resources/images/21374836.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

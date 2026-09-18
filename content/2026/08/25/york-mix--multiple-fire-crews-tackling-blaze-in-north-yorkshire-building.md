@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T08:55:11Z'
 published: '2026-08-25T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/08/firefighters-fire-appliance-dreamstime.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 There’s a large fire service response to a blaze in an industrial building this morning (Tuesday).

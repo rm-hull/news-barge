@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Stewart Irwin only called an ambulance after his mother’s skin had ‘tuned
   blue’
 image: https://static.independent.co.uk/2026/09/11/16/01M28FYKXCYJ86ATA70BX2J763.jpg?trim=395,0,395,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 A son has been jailed after leaving his elderly mother on the floor for two weeks after a fall.

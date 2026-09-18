@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Shirley Freeman, Julia Stephen and David McColl's victims were beaten,
   starved and psychologically tormented.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a6a/live/c7101ba0-85c1-11f1-a407-4750df4c0797.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 ![A young girl and boy, Meaghann and William Murphy when they were children, smiling at the camera.](https://ichef.bbci.co.uk/ace/standard/747/cpsprodpb/4a6a/live/c7101ba0-85c1-11f1-a407-4750df4c0797.jpg)

@@ -9,6 +9,10 @@ description: From writing a letter to her idol as a 10-year-old to messaging a p
   on social media, here are five sliding doors moments that helped shape Katie Taylor’s
   career.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c7a5/live/97862a90-a38b-11f1-9e7c-cb942f2e97d9.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Katie Taylor acknowledges the crowd at Croke Park](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c7a5/live/97862a90-a38b-11f1-9e7c-cb942f2e97d9.jpg)

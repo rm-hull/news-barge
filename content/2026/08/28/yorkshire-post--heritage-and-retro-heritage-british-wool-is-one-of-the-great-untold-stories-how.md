@@ -10,6 +10,11 @@ description: Yorkshire Dales-based countrywear and lifestyle brand Glencroft has
   designers looking to use its home-grown wool and tweeds, as owner Edward Sexton
   tells Yorkshire Post Fashion Editor Stephanie Smith.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmY5ODNlYjRlLWVlNTItNDdiMi1hZTcyLTk5ZTQ3YmU0Nzk2OTowYWFiMTcxNS0xZjFmLTQ5ZDUtYjNiNC1mYThlNTA5MTA0OGY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 # 'British wool is one of the great untold stories': How Yorkshire Dales brand Glencroft is making fashionable connections

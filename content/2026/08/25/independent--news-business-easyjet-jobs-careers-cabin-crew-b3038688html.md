@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: Since launching an initiative to recruit older workers in 2022, the number
   of cabin crew over the age of 50 has now more than doubled
 image: https://static.independent.co.uk/2026/08/25/08/01M0VRDBDTSWCKWPTZT5MPJJVG.jpg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
+- Technology & Software
 ---
 
 A new campaign has been launched by easyJet as the airline seeks to recruit more mature workers for its cabin crew positions.

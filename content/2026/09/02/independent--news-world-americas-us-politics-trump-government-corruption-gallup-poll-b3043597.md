@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Opinion common among all political factions but has soared among Democrats
   from 57 percent to 91 percent in just two years, Gallup survey finds
 image: https://static.independent.co.uk/2026/09/02/16/2289799830..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Nearly 90 percent of U.S. citizens now believe government corruption is widespread in Washington, D.C., according to a new poll.

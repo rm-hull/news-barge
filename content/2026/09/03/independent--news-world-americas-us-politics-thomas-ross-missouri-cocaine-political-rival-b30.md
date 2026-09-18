@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Thomas Ross, 37, allegedly handed a staffer a black nylon glove that
   contained a small, plastic bag of white powder and a pink and white capsule
 image: https://static.independent.co.uk/2026/09/03/18/Missouri_Candidate_Drug_Charge_13118.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A candidate seeking election to the Missouri House is facing a federal drug charge after allegedly plotting to plant drugs on his Republican primary rival.

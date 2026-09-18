@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: The no camp has prevailed, holding 52.5% of votes with only a few left
   to be counted, says public broadcaster
 image: https://i.guim.co.uk/img/media/bb4c17f12a5c4337bd6878eeabbfee3e8ff0f9d5/886_0_5720_4576/master/5720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c5fcfb8b138107197cc6d6d4e4f5a2f2
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Voters in Iceland have rejected the government’s proposal to hold accession talks with the European Union  after a closely fought campaign that has divided the country.

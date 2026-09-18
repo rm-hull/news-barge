@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Republican lawmaker’s remarks come after president declared only those
   ‘backwards and poor’ would oppose data centers
 image: https://static.independent.co.uk/2026/09/01/16/2292915777..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Republican Rep. Tim Burchett, typically a close congressional ally of President Donald Trump, accepted the president’s title of being “backwards and poor” for being apprehensive about tech companies building artificial intelligence data centers across the country.

@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Fox’s $22 billion plan to buy Roku has hit a new hurdle. The Justice
   Department sent Fox and Roku what’s known as a “second request” on Tuesday, asking
 image: https://techcrunch.com/wp-content/uploads/2023/04/roku-logo.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Fox’s $22 billion plan to buy Roku has hit a new hurdle.

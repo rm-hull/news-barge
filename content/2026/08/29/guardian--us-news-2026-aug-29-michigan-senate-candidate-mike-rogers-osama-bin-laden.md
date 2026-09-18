@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: Ex-House intel committee chair, now running against Abdul El-Sayed, instead
   saw photo of Osama bin Laden’s body
 image: https://i.guim.co.uk/img/media/820880042624f8349ea88d9cac61d09d5cca683b/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0d25c612665585c034ddf5687debbee1
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 In a recent fundraising email, the Republican candidate for Michigan’s open US Senate seat, former congressman Mike Rogers, appeared to mislead supporters about his past by suggesting that he had played an active role in the killing of Osama bin Laden, the leader of al-Qaida who was shot and killed in an American military raid on his compound in Pakistan in 2011.

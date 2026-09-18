@@ -9,6 +9,11 @@ description: Critics of Bessent’s efforts argue that the problem is less about
   not knowing how to invest and more about them not having enough spare income to
   do so
 image: https://static.independent.co.uk/2026/09/01/20/57/AP26244587039050.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 Drawing on his upbringing in childhood poverty, Treasury Secretary Scott Bessent is advocating for an international financial literacy campaign and encouraging other countries to embrace an investment initiative launched under President Donald Trump.

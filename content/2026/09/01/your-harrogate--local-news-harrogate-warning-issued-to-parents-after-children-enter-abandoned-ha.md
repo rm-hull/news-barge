@@ -9,6 +9,11 @@ description: Parents and carers in Harrogate are being urged to speak to their c
   about the dangers of entering abandoned buildings after two children were found
   inside the former Kimberley Hotel.
 image: https://mmo.aiircdn.com/409/6a967989da21d1b853e.jpg
+categories:
+- Local
+- Harrogate
+- Family & Parenting
+- Society & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6a967989da21d1b853e.jpg) 

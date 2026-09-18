@@ -8,6 +8,11 @@ scraped_at: '2026-08-25T01:48:35Z'
 published: '2026-08-25T00:00:00Z'
 description: Follow live
 image: https://i.guim.co.uk/img/media/03c2e71f86c44d16cd749d0ede948e6bafe0a93c/381_104_2219_1775/master/2219.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c866f46e18a1c508e4eeecd77aeb0212
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Australia news live: Coles blames competitor’s Ooshies for slowing sales; young people the first generation to earn less than their parents at same age

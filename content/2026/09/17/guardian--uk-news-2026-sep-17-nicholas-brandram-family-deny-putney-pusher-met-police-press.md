@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Banker, 44, was arrested in connection with 2017 incident but family
   say ‘no credible evidence’ he was involved
 image: https://i.guim.co.uk/img/media/fcc73a7405db371d260f9c81fa743cd553edc11b/0_36_777_621/master/777.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ae5c7c38988897c37cc511428f3b9be
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 The family of Nicholas Brandram have denied he was the so-called “Putney pusher” and said he “took his own life after months of immense pressure caused by a Metropolitan police investigation”.

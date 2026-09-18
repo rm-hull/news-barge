@@ -10,6 +10,10 @@ description: Goh Khuay Par has spent more than five decades making traditional C
   coffins called Mei Hua in Malaysia, carrying on a family craft passed down through
   three generations.
 image: https://static.independent.co.uk/2026/09/18/02/Malaysia_Coffin_Making_Photo_Gallery__9558.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Two brothers carry on the traditional art of handmade Chinese coffins in Malaysia, in photos

@@ -10,6 +10,10 @@ description: Elon Musk sent dozens of self-driving Cybercabs missing steering wh
   and brake pedals onto Austin, Texas, streets Thursday in a bet Americans will get
   over their fears of “no control” rides and hop inside
 image: https://static.independent.co.uk/2026/09/03/22/Tesla_Cybercab_11447.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Elon Musk sent dozens of self-driving Cybercabs without steering wheels or brake pedals onto the streets of Austin, Texas, on Thursday, betting that Americans will overcome their fears of rides with “no control” and hop inside.

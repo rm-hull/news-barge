@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Australian Greens senator compares government’s policy to ICE as Tony
   Burke calls it a ‘ridiculous claim’
 image: https://i.guim.co.uk/img/media/98b753eeb5a84fba3fbb814a3c6f5daef51d18f4/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9f901e59ce69961c9509fd4f1b8cbd5d
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 The federal government’s move to reopen detention centres for visa overstayers, overseen by compliance officers, has drawn comparison from the Greens and advocates to Donald Trump’s sweeping immigration crackdown in the US.

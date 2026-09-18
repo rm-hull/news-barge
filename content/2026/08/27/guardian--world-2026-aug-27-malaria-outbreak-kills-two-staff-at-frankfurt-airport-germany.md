@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Mosquito traps are set up at Germany’s biggest airport and doctors are
   asked to look out for symptoms of disease
 image: https://i.guim.co.uk/img/media/e2e2fe75f4352841013c2fe58bf67fef574fbf34/644_0_6443_5154/master/6443.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=654c980a87a57a938c48f429c33758df
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Sports
 ---
 
 German health officials are seeking to reassure the public after two workers at the country’s biggest airport died of malaria.

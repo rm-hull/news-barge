@@ -9,6 +9,11 @@ description: Germany targets social security fraud with ten-point plan, workplac
   discrimination drives surge in reported cases, Saxony loosens wolf hunting rules
   and more news on Thursday, September 17th.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-619690213.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 **Thursday's top story:Germany targets social security fraud with ten-point plan**

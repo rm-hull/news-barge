@@ -9,6 +9,10 @@ scraped_at: '2026-09-08T12:51:04Z'
 published: '2026-09-08T00:00:00Z'
 description: Company list excessively asks for apologies as customer harassment.
 image: https://cdn.mos.cms.futurecdn.net/h86G2dbEGA9vsJLRJvJtNL-1077-80.webp
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![PlayStation 5 Pro](https://cdn.mos.cms.futurecdn.net/h86G2dbEGA9vsJLRJvJtNL.webp) 

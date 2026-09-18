@@ -10,6 +10,10 @@ description: Dawn Light allegedly told police she was waiting to see Clancy and 
   filming anyone, but officers say they found videos of people leaving the courthouse
   in her deleted photos
 image: https://static.the-independent.com/2026/09/02/15/2292612530..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 A Massachusetts woman pleaded not guilty Wednesday after being arrested for allegedly filming jurors outside the Lindsay Clancy trial, saying she was only trying to get a photo of the alleged murderer.

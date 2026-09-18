@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Great Britain's best cycling talents including Tom Pidcock and Zoe Backstedt
   will lead the charge at the Road World Championships - live on the BBC.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8335/live/8615c210-b093-11f1-bc1f-3f186ca4140c.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Tom Pidcock and Zoe Backstedt](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8335/live/8615c210-b093-11f1-bc1f-3f186ca4140c.png)

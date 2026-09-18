@@ -10,6 +10,10 @@ description: Premier League chief executive Richard Masters has criticised Fifa 
   Gianni Infantino's World Cup sell-off plan, saying the organisation has "pressed
   the self-destruct button" by delivering "a self-inflicted wound".
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4852/live/d2590070-9b16-11f1-b8e1-e7ef86eff0e6.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Fifa shouldn't be selling stake in World Cup - Masters

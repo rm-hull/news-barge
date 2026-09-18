@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Her Horizon Fund seeks $100m to stop practice harming 230m women and
   girls globally
 image: https://i.guim.co.uk/img/media/e66ba0e6f0cdfc07dc7018314386caa02a716e6f/376_0_3542_2833/master/3542.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d3feaef3af10b094d87c8eace5399aa
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Frontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide, have welcomed an unprecedented $15.5m (£11.4m) fund aimed at creating “unstoppable momentum” to finally end the practice.

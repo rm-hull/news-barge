@@ -11,6 +11,11 @@ description: As GCSE results come out today, should we stand by for another soci
   pub before his Cambridge interview does not exactly inspire our young people with
   confidence.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjhkYjM2ZjJjLWFlNTItNGMyYi05ZDQwLWRiZDBiYWVlYjA2NjpiNmQ2MzEyYS1kY2RjLTRlZmItYjM4Yi0yY2Q0NTJhOWM5NWI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Comedy & Entertainment
 ---
 
 # Andy Burnham needs to be careful with talk of ‘imposter syndrome’ - Jayne Dowle

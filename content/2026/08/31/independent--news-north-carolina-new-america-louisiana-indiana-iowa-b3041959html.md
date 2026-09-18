@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Colleges around the country are seeking approval for a new federal grant
   program, Workforce Pell, to aid students enrolled for short-term job training
 image: https://static.independent.co.uk/2026/08/31/06/US_Education_Workforce_Pell_79318.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
+- Careers & Productivity
 ---
 
 Sydney Webb scrimped and saved to pay for an eight-week certified nursing assistant program at a North Carolina community college.

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Correspondent Joe Inwood breaks down the weapons technology that could
   make a difference in the Russia-Ukraine war.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/96a6/live/e622d720-9fc6-11f1-b3e7-331c6d9a8046.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 # Is UK's Storm Shadow missile a game changer for Ukraine?

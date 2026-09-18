@@ -8,6 +8,9 @@ scraped_at: '2026-09-08T19:25:34Z'
 published: '2026-09-08T00:00:00Z'
 description: AI data centers are creating a boom in the demand for trucking
 image: https://cdn.mos.cms.futurecdn.net/27iWQFpbiBQLpkTsGcrx4-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Big rig classic American powerful brown semi truck with refrigerated semi trailer transporting frozen goods running on the road along railroad and river in Columbia Gorge area with mountain ranges](https://cdn.mos.cms.futurecdn.net/27iWQFpbiBQLpkTsGcrx4.jpg) 

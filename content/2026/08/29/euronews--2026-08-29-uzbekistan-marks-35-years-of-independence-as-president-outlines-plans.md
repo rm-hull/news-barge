@@ -10,6 +10,10 @@ description: The anniversary ceremony in New Tashkent combined political messagi
   national programmes, including major targets for investment, education, healthcare
   and economic growth.
 image: https://images.euronews.com/articles/stories/09/89/36/88/1200x675_cmsv2_fde1a53a-e6ac-57d1-b592-936f667d557d-9893688.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## The anniversary ceremony in New Tashkent combined political messaging with a large-scale cultural programme. President Shavkat Mirziyoyev announced seven national programmes, including major targets for investment, education, healthcare and economic growth.

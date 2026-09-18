@@ -7,6 +7,11 @@ scraped_at: '2026-08-30T19:17:44Z'
 published: '2026-08-30T00:00:00Z'
 description: Beer lovers are set to raise a glass for the return of a popular festival.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20242621.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 Beer lovers are set to raise a glass for the return of a popular festival.

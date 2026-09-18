@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: Iran targeted Kuwait on Thursday, continuing its attacks on Gulf states
   after the U.S. bombarded Iran earlier this week
 image: https://static.independent.co.uk/2026/09/03/09/Iran_War_Strait_of_Hormuz_6863_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Iran fired missiles and drones at Kuwait on Thursday, continuing its retaliation for U.S. bombardments earlier in the week.

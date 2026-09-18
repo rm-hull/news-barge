@@ -7,6 +7,9 @@ scraped_at: '2026-09-07T14:14:16Z'
 published: '2026-09-07T00:00:00Z'
 description: A far-right party has not returned to power since the Second World War
 image: https://static.independent.co.uk/2026/09/07/11/2293941232..?trim=30,0,31,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The far-right Alternative for Germany (AfD) party has sent shock waves across Germany – and the world – by trouncing the opposition in a state election over the weekend. But will the party actually be able to govern?

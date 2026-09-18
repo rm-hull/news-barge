@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Birchington Road and Leighton Road in Grangetown is currently closed
   while officers and emergency services respond to a house fire.
 image: https://www.thenorthernecho.co.uk/resources/images/21372160.jpg?type=og-image&yType=310
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 - Good morning, welcome to this Northern Echo live breaking news blog.

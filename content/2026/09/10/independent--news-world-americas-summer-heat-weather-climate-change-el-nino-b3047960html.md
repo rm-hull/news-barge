@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Records were smashed from coast to coast – but some places felt the heat
   more than others
 image: https://static.independent.co.uk/2026/09/10/16/10/GettyImages-2283782232.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 This summer was officially the hottest in the 132-year federal record in the contiguous U.S., officials have revealed, following a record-warm July and August.

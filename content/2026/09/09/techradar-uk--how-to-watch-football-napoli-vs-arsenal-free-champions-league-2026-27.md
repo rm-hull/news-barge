@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: The Gunners visit the Stadio Diego Armando Maradona defending their 100%
   record this season
 image: https://cdn.mos.cms.futurecdn.net/8asTJ6AnZLnwXJe6LwqTg4-819-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Martin Odegaard and Declan Rice of Arsenal celebrate after the Premier League 2026/27 match between Arsenal FC and Chelsea FC at Emirates Stadium.](https://cdn.mos.cms.futurecdn.net/8asTJ6AnZLnwXJe6LwqTg4.jpg) 

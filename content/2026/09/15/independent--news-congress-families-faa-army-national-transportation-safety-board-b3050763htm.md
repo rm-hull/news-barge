@@ -10,6 +10,10 @@ description: The loved ones of the 67 people killed in last year's collision bet
   an airliner and Army helicopter over Washington, D.C., have a message for Congress
   and regulators
 image: https://static.independent.co.uk/2026/09/15/19/APTOPIX_Washington_Midair_Collision_69869.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The loved ones of the 67 people who died last year when an airliner and Army helicopter collided over Washington, D.C., urged Congress and regulators Tuesday to do more now to prevent other families from being left clutching belongings and memories instead of their wives and children.

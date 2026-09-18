@@ -9,6 +9,10 @@ description: His Majesty’s Inspectorate of Constabulary and Fire & Rescue Serv
   has begun its inspection of the force following a request by Police and Crime Commissioner
   Donna Jones
 image: https://static.independent.co.uk/2026/07/17/16/349b2ebc810a0e4c71ec28e6de9eb923Y29udGVudHNlYXJjaGFwaSwxNzg0Mzg2NDk1-2.84809264.jpg?trim=40,0,40,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 An inspection has been launched into a police’s ability to respond to incidents of serious violence following the murder of student Henry Nowak.

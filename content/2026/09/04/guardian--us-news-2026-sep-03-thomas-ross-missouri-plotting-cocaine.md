@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: Republican candidate Thomas Ross and former campaign manager allegedly
   devised plan to stash drugs in rival Louise Secker’s purse or vehicle
 image: https://i.guim.co.uk/img/media/e5e787b3ef94cd0682e2ab0bbc7e4cf47139475c/64_0_3237_2591/master/3237.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=130a85f23de91358a36c6de14b2721bb
+categories:
+- UK
+- News & Politics
 ---
 
 A Missouri House race has been rocked by the Wednesday arrest of Republican candidate Thomas Ross, whom prosecutors accuse of attempting to frame his primary opponent Louise Secker for cocaine possession.

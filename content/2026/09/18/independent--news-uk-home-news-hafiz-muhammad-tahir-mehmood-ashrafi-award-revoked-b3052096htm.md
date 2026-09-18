@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Hafiz Muhammad Tahir Mehmood Ashrafi was presented the honour on the
   25th anniversary of 9/11
 image: https://static.independent.co.uk/2026/09/17/17/08/01M2R0F4406BVB4NJZXRNNADH8.jpg?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 The Archbishop of Canterbury has withdrawn an award given to a Muslim cleric who praised Osama bin Laden.

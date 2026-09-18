@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Masked men blocked the entrance to Britain’s busiest ferry port, Dover,
   in what officials said appeared to be an anti-immigration protest
 image: https://static.independent.co.uk/2026/09/05/12/Britain_Port_Blocked_12_7_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A group of masked men blocked roads leading to Britain’s busiest ferry port on Saturday in what officials said appeared to be an anti-immigration protest.

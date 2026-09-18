@@ -7,6 +7,11 @@ scraped_at: '2026-08-30T13:47:02Z'
 published: '2026-08-30T00:00:00Z'
 description: Darley Street Market in Bradford is to host first Oktoberfest
 image: https://www.thetelegraphandargus.co.uk/resources/images/20093579.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Other)*

@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: In parts of the U.S. where the disease is still uncommon, it is easily
   mistaken for the flu or COVID-19, and that delay can be dangerous
 image: https://static.independent.co.uk/2026/02/18/12/39/iStock-2155777642-(2).jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 *The Tampa Bay Times* reported the death of an elderly woman on Sept. 8, 2026. Her family says local doctors attributed her death to dengue fever, although the Florida Department of Health has not yet confirmed that.

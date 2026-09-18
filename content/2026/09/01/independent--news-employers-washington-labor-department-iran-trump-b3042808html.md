@@ -10,6 +10,12 @@ description: Employers posted slightly more job openings in July but as the Amer
   labor market remained sturdy in the face of higher costs that are squeezing household
   budgets
 image: https://static.independent.co.uk/2026/08/04/15/Job_Openings_27689.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 Employers posted slightly more job openings in July but as the American labor market remained sturdy in the face of higher costs that are squeezing household budgets.

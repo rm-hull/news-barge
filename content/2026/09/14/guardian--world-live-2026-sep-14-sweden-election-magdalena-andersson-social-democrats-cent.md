@@ -9,6 +9,9 @@ published: '2026-09-14T00:00:00Z'
 description: The parliament isn’t set to meet until late September to elect a new
   speaker, and then prime minister
 image: https://i.guim.co.uk/img/media/82d8ebcc656259c0366483c26ee43d39d99b85a2/277_0_4381_3507/master/4381.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=603cdc8182137e1b82bbcabeb169884a
+categories:
+- UK
+- News & Politics
 ---
 
 Sweden's Social Democratic Party leader Magdalena Andersson speaks during their election night party in Stockholm on Sunday Photograph: Jonas Ekstromer/TT News Agency/AFP/Getty Images

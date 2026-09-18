@@ -8,6 +8,8 @@ published: '2026-08-20T00:00:00Z'
 description: AI is transforming software testing and elevating test engineers into
   strategic quality leaders
 image: https://cdn.mos.cms.futurecdn.net/TaxPLZc75WiicpmgZNzWzL-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A woman out of focus in the background touches the word AI, lit up in glowing yellow light, in the foreground. The woman is wearing smart glasses](https://cdn.mos.cms.futurecdn.net/TaxPLZc75WiicpmgZNzWzL.jpg) 

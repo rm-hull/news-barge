@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Jared Bridegan was shot in 2022 after he got out of his SUV to remove
   a tire from a road in Jacksonville Beach
 image: https://static.the-independent.com/2023/01/24/23/IMG_4683.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A man has been convicted of murder after arranging the fatal shooting of a Microsoft manager who was killed in front of his daughter in Florida.

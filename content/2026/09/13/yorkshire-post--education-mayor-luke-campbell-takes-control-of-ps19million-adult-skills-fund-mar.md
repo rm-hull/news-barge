@@ -10,6 +10,11 @@ description: The Hull and East Yorkshire Combined Authority will take control of
   £19million adult skills fund for the 2026/27 academic year, marking one of the biggest
   devolutions of power to the region to date.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjc0Mzk0OGViLTAzMzUtNDMyMC1iMTJlLTYzMTc4ZmZjMTNjMDoxMmM0MzdkZC00Y2Q5LTRmMzQtYjg0OC1kY2UwNjNhM2M1OGE=.jpg?crop=3:2,smart&trim=&width=581&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Mayor Luke Campbell takes control of £19million adult skills fund, marking devolution shift

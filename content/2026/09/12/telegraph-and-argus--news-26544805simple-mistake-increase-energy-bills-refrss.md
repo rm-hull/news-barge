@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Bradfordians are being urged to move this one item of furniture in their
   home to prevent potential added cost to their energy bill.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19804214.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Getty Images)*

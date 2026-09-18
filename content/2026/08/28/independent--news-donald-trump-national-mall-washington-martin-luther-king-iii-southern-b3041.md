@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Thousands of protesters are rallying on the National Mall in support
   of voting rights and racial justice ahead of the midterm election
 image: https://static.independent.co.uk/2026/08/28/15/APTOPIX_March_on_Washington_National_Guard__4162.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Thousands of protesters are rallying Friday on the National Mall in support of voting rights and racial justice ahead of the midterm elections, following a wave of changes to voting laws and redistricting that civil rights groups have condemned as detrimental to Black Americans.

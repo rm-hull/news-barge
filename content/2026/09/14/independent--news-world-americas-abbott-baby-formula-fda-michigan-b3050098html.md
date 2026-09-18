@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Abbott closed the Sturgis facility in February 2022 following the start
   of an investigation by the FDA
 image: https://static.independent.co.uk/2026/02/06/13/06122620-bde36a83-4542-49e6-900e-169b5bd85234.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Abbott Laboratories will pay $385 million to resolve legal claims arising from a contamination inquiry at its baby formula manufacturing plant in Sturgis, Michigan, the nation's largest, which triggered severe supply shortages in 2022.

@@ -10,6 +10,11 @@ description: There is often a tendency to look at issues in a binary way with li
   room for grey areas. It is not until it's too late that we begin to realise the
   importance of those shades when it comes to policy.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmRjNmQxMjBmLWI0OGQtNGIyMi1iN2U5LTczNzMwM2FmZDU2OToxMjQwZjA3ZS03YzkwLTQ0ZjUtOTEyNS0xMzVjY2FmOWUyNTY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Unpaid carers need to be better supported so that they don’t end up leaving their jobs - Ismail Mulla

@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: A broadband provider has confirmed that a group of men reported as "suspicious"
   were legitimate sales agents.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21468762.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: T&A)*

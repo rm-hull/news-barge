@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The case against Venkata Vasamsetty was dismissed by an immigration judge
   on 19 May this year
 image: https://static.independent.co.uk/2026/08/18/7/53/1786644064349.png?trim=0,48,0,48&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 An Indian-origin green card holder who has lived in the US for 27 years has been detained by US Immigration and Customs Enforcement (ICE), months after an immigration judge dismissed a deportation case against her.

@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: 'Visitors are reminded to follow the rules while enjoying the event as
   it is meant to be, with a hearty "Ein Prosit der Gemütlichkeit!" #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/03/61/1200x675_cmsv2_7e47acd7-5da5-50a0-ad21-27a317c3a351-9910361.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## Visitors are reminded to follow the rules while enjoying the event as it is meant to be, with a hearty "Ein Prosit der Gemütlichkeit!"

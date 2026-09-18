@@ -10,6 +10,9 @@ description: Hungary's foreign ministry has filed a criminal complaint over poss
   fraud related to the previous government's purchase of ventilators during the COVID-19
   pandemic
 image: https://static.independent.co.uk/2026/08/25/11/Hungary_COVID_Ventilators_Fraud_63262.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Hungary's foreign ministry has filed a criminal complaint with prosecutors over what it says was possible fraud related to the previous government's purchase of ventilators worth some $965 million during the COVID-19 pandemic, Foreign Minister Anita Orbán said Tuesday.

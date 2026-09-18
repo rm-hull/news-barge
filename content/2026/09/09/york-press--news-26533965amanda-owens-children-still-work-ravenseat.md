@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Amanda Owen's nine children are growing up and building their own lives,
   but which Our Yorkshire Farm stars are still involved at Ravenseat?
 image: https://www.yorkpress.co.uk/resources/images/21427016.jpg?type=og-image&xType=0&yType=91
+categories:
+- Local
+- York
+- Society & Culture
+- Arts & Culture
 ---
 
 ## Which of Amanda Owen's nine children still live and work at Ravenseat Farm?

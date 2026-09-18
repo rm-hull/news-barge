@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The A692 in Dipton is currently closed between the junction with the
   A693 and Swinburne Terrace due to an road traffic collision.
 image: https://www.thenorthernecho.co.uk/resources/images/19798757.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 - Welcome to The Northern Echo’s live breaking blog on the crash on the A692 in Dipton.

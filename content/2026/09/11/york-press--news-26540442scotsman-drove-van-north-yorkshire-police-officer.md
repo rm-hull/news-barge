@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: A wanted man could have killed a police officer when he drove at him
   at high speed, York Crown Court heard.
 image: https://www.yorkpress.co.uk/resources/images/21437345.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

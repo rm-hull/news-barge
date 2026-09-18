@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T12:44:55Z'
 published: '2026-09-02T00:00:00Z'
 description: Dr Walid Ahmed insisted that his partner messaged him every 15 minutes
 image: https://static.independent.co.uk/2026/09/02/10/40/iStock-2222482628-acb01037.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Relationships & Dating
 ---
 
 A GP has been struck off after he developed a 'ridiculous paranoia' that his younger girlfriend was having an affair and forced her to check in every 15 minutes by messaging him.

@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Error first occurred at 10am but major incident was not declared until
   12.30pm, says report
 image: https://i.guim.co.uk/img/media/87fbb8a84446d79dd1a9f01154ab7ff9503c99e7/751_57_4084_3267/master/4084.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b3e45870d02a89c9285dbd8b53a7f43
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A software defect in part of the UK’s air traffic control system corrupted flight data “in the space of a millisecond”, leading to a six-hour outage and mass airline cancellations and delays across the UK last week, National Air Traffic Services has said.

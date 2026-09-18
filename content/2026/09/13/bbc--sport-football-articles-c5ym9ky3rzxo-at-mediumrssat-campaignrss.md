@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: After Phil Foden is sent off in Sunday's Manchester derby, pundits give
   their reaction. What do you think?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8235/live/256b93a0-af8e-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Phil Foden sent off against Manchester United](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/659e/live/0f235040-af90-11f1-913a-7151f234deb3.jpg)

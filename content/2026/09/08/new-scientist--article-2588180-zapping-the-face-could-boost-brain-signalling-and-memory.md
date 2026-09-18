@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Bursts of electrical stimulation to a nerve in the face seem to improve
   signalling between neurons and people's performance on a memory test
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311177986.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311177986.jpg?w=840)

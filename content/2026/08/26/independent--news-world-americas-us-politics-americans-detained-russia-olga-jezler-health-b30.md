@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: The State Department has said it is aware of concerns about medical care
   and continues to raise the issue with the Russians
 image: https://static.independent.co.uk/2026/08/26/05/American_Detainees_Russia_553_1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 The recent release of Marine veteran Robert Gilman from Russian custody ended more than four years of imprisonment, but his visibly frail condition has raised alarming questions for the families of Americans still detained there.

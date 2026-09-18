@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: The 75-year-old suspect reportedly portrayed Santa Claus at the historic
   Wilmington attraction for approximately ten years
 image: https://static.the-independent.com/2026/09/17/18/10/Clarence-Russell.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A 75-year-old man who portrayed Santa Claus at a Christmas-themed amusement park faces multiple felony charges following allegations that he attempted to arrange sexual encounters with children over the internet.

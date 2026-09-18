@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: Dewsbury residents and councillors are demanding a pause on new Bradford
   Road cycle lanes, branding the roadworks “absurd” and “beyond dangerous.”
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmMyNGY3N2EwLTY1NTUtNDU0NC1hMjgyLWUzMDAyYWZlZTBiMzozYjFjNzMwOC1kMmRkLTQ4MjMtOWEzZS03NWJmZmY0ZjU5ZGQ=.jpg?crop=3:2,smart&trim=&width=863&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # 'There is no point' - Pleas and petitions made to halt Bradford Road Transport Corridor revamp

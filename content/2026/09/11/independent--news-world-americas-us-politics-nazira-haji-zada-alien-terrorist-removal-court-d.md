@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Attorneys for Nazira Haji Zada said that her decision to consent to removal
   ‘should not be seen as an endorsement of this court’s legitimacy’
 image: https://static.independent.co.uk/2026/09/11/15/26/GettyImages-2289203744.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 An Afghan woman who was accused of supporting an Islamic State-inspired plot in the United States has been deported, ending a case brought before an obscure and long-dormant federal court.

@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: Serhii Beskrestnov says deadlock on frontline and increasing use of deep
   strikes is placing civilians and infrastructure at greater risk
 image: https://i.guim.co.uk/img/media/d84384d8f9344306300a8dc23b64230573d41a56/407_147_3356_2685/master/3356.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=23c8290307c33c257a5fe4ad80c750b1
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Russia and Ukraine are locked in an escalating war of long-range strikes with a growing risk to civilians in which neither side can entirely prevail, according to Volodymyr Zelenskyy’s defence technology adviser.

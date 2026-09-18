@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: A man has been charged with murder after a house fire which killed a
   seven-year-old girl and her aunt, police said.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ1N2I5OWQ3LTJlM2UtNGNmOC05NTBiLTMwNDI0ZjAxYWViYzoyNzg0M2E5MS04NDgwLTRhMDMtYTYzMC03ZGUzYjUyN2NmM2Y=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Grangetown: Man charged with murder after fatal house fire in Middlesbrough

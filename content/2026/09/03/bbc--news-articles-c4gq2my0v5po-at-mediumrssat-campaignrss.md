@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: The detentions were reported to the US-led International Monitoring and
   Implementation Mechanism but Israeli military has not commented.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7cae/live/9e264c00-a7c2-11f1-b5cf-8556ae508a51.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Buildings spread out in a southern Lebanon village.](https://ichef.bbci.co.uk/ace/standard/902/cpsprodpb/7cae/live/9e264c00-a7c2-11f1-b5cf-8556ae508a51.jpg)

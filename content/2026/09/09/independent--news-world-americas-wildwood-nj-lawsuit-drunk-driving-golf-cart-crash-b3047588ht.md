@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Lawsuit says police should’ve known the risk of putting a kid in the
   driver’s seat wearing impairment goggles
 image: https://static.independent.co.uk/2026/09/09/19/52/GettyImages-1320506957.jpeg?trim=560,0,11,857&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A Jersey Shore town and its police department are being sued after allegedly letting an 11-year-old operate a golf cart while wearing drunk-driving “impairment goggles” — which the youngster crashed into a crowd.

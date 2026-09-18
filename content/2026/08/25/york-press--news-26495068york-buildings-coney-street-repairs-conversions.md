@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Repairs to buildings in a major York shopping street which are set to
   be transformed have been given the go ahead.
 image: https://www.yorkpress.co.uk/resources/images/21371000.jpg?type=og-image
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 *(Image: LDRS)*

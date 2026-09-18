@@ -9,6 +9,11 @@ description: Germany's housing crisis has now become a welfare-state issue, acco
   to the German Tenants' Association. Could that finally mean tougher protections
   for renters?
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-618651877.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Personal Finance & Investing
 ---
 
 For years, Germany's housing debate has centred on a familiar complaint: there are too few affordable homes and rents keep rising.

@@ -9,6 +9,10 @@ description: According to the Colombian Geological Survey, the quake hit at arou
   11:45 am local time on Wednesday, with the epicentre in Los Santos, in Colombia's
   Santander department.
 image: https://images.euronews.com/articles/stories/09/89/04/01/1200x675_cmsv2_f4e6d0b4-ffbb-556c-9517-5316999cbeff-9890401.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## According to the Colombian Geological Survey, the quake hit at around 11:45 am local time on Wednesday, with the epicentre in Los Santos, in Colombia's Santander department.

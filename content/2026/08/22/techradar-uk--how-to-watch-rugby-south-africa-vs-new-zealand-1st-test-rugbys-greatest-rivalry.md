@@ -9,6 +9,9 @@ published: '2026-08-22T00:00:00Z'
 description: Ardie Savea returns for the All Blacks but Springboks captain Siya Kolisi
   is out
 image: https://cdn.mos.cms.futurecdn.net/KXmssSFvZC8uEVGzwt6HEY-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![The All Blacks performing a haka before a clash with the Springboks](https://cdn.mos.cms.futurecdn.net/KXmssSFvZC8uEVGzwt6HEY.jpg) 

@@ -9,6 +9,9 @@ published: '2026-08-23T00:00:00Z'
 description: Since Hurricane Sandy in 2012, a growing labor movement has addressed
   the climate crisis and economic inequality
 image: https://i.guim.co.uk/img/media/9a6f8fa4a0f7dbfac1448d1bddefca433188a2e4/900_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b2351dd4c623f582cc0c4744dcf9eac
+categories:
+- UK
+- News & Politics
 ---
 
 Ryan McElroen had spent years repairing the New York City subway underground when he got the opportunity to work in the middle of the ocean.

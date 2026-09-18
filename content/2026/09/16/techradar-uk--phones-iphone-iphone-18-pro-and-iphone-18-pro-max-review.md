@@ -8,6 +8,8 @@ published: '2026-09-16T00:00:00Z'
 description: The iPhone 18 Pro and 18 Pro Max aren't a reinvention of the flagship
   iPhone formula, but they are the best iPhones Apple has ever released.
 image: https://cdn.mos.cms.futurecdn.net/LNEVAFFtAjSCcyPZ6BXPqB-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

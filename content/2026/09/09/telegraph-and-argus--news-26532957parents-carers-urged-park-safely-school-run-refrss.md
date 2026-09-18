@@ -9,6 +9,12 @@ published: '2026-09-09T00:00:00Z'
 description: Police have urged Bradford parents and carers to park safely during the
   school run.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21426849.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
+- Society & Culture
 ---
 
 *(Image: West Yorkshire Police)*

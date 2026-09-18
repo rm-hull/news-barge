@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Yemen faces a potential return to civil war as tensions escalate with
   an Iranian-backed rebel group
 image: https://static.independent.co.uk/2026/09/08/15/Middle_East_Yemen_Houthis_Explainer_5989_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Yemen is moving closer to a return to civil war. The escalating events in the Arab world's poorest country are closely linked to the war in Iran and global efforts to ship oil out of the Gulf region.

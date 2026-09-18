@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: The US president claimed Irish reunification was inevitable, adding it
   “may as well happen now”, during a visit to Dublin on Saturday
 image: https://static.independent.co.uk/2026/09/12/11/a1246bfe377ea24f61f9282bd13cb227Y29udGVudHNlYXJjaGFwaSwxNzg5Mjk0OTk4-2.85827685.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Robert Jenrick has hit back at Donald Trump’s calls for a united Ireland and said the US President should have “butted out” of British politics.

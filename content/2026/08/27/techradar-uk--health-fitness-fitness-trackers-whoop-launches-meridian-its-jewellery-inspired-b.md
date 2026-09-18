@@ -8,6 +8,9 @@ scraped_at: '2026-08-27T12:00:34Z'
 published: '2026-08-27T00:00:00Z'
 description: The Meridian is Whoop's latest solution to data gaps.
 image: https://cdn.mos.cms.futurecdn.net/ArgdRMm2V5aDdWQQFcewRi-541-80.jpg
+categories:
+- Technology & Software
+- Lifestyle & Fashion
 ---
 
 ![Whoop Meridian bands](https://cdn.mos.cms.futurecdn.net/ArgdRMm2V5aDdWQQFcewRi.jpg) 

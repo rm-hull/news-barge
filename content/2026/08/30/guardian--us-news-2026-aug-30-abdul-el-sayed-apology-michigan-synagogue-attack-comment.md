@@ -8,6 +8,9 @@ published: '2026-08-30T00:00:00Z'
 description: Democratic Senate nominee is eager to push past series of controversies
   involving allegations of antisemitism
 image: https://i.guim.co.uk/img/media/2b80d43e850e75db38db42c250b84e7224c11fae/792_0_7920_6336/master/7920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc17768a2309b5cc67e4de4b8de20275
+categories:
+- UK
+- News & Politics
 ---
 
 Michigan’s Democratic US senate candidate Abdul El-Sayed apologized to the state’s Jewish Democratic Caucus on Saturday for comments he made after an attack on a synagogue in March, which he tied to Israel’s actions in the Middle East.

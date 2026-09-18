@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Paul Nowak, general secretary of the Trades Union Congress (TUC), will
   take on a non-executive director position on a four-year term.
 image: https://static.independent.co.uk/2026/09/16/17/d156c151ebc0c91607b932c00056555aY29udGVudHNlYXJjaGFwaSwxNzg5NjYxMTgw-2.85851866.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 The boss of a leading trade union calling for higher taxes on banks’ profits has been appointed by the Chancellor to the Bank of England’s board.

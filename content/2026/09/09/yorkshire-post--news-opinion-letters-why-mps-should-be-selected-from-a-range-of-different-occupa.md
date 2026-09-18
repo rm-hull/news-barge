@@ -8,6 +8,11 @@ scraped_at: '2026-09-09T12:56:57Z'
 published: '2026-09-09T00:00:00Z'
 description: 'From: Paul Brown, Bents Green Road, Sheffield.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmMyNWMxODk1LWY3ZTctNDY4My04NmZlLTFlMTBjZjAwZDQyNDoyMTdjMGRmNi00ODc3LTRhNjQtODIxNS00NjNiN2ZjOWNjMDE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Why MPs should be selected from a range of different occupations - Yorkshire Post Letters

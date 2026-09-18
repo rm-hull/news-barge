@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Charities say that women and children have experienced tear gas and broken
   bones as police violence rises to clamp down on Channel crossings
 image: https://static.independent.co.uk/2025/09/18/00/66c52ab770b80a5d680dc22242153603Y29udGVudHNlYXJjaGFwaSwxNzU4MTkwOTEw-2.80466421.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Police violence against people attempting to cross the English Channel has surged by 40 per cent this year, charities have said.

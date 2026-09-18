@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: This October, Liz and Kevin Hill will celebrate the landmark tenth anniversary
   of their colourful and captivating Kirkgate store, Karma.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/A-Liz-Hill-at-Karma.webp
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 This October, Liz and Kevin Hill will celebrate the landmark tenth anniversary of their colourful and captivating Kirkgate store, Karma.

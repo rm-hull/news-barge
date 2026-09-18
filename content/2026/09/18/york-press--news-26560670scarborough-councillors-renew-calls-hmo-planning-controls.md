@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Councillors have reiterated calls for greater regulation of Houses in
   Multiple Occupation (HMOs) in a popular North Yorkshire town.
 image: https://www.yorkpress.co.uk/resources/images/21470576.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 ### What is the Public Notice Portal?

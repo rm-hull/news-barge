@@ -9,6 +9,12 @@ published: '2026-08-22T00:00:00Z'
 description: Police were called to a disturbance at a Bradford Gurdwara after a live
   video showed unsavoury scenes.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21349099.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

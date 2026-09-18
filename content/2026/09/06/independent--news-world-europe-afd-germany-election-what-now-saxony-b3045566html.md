@@ -11,6 +11,9 @@ description: Whether the pro-Russian AfD become the first far-right party to tak
   victory creates a large poliital headache for the country’s leaders Chris Steveson
   and James C. Reynolds write
 image: https://static.independent.co.uk/2026/09/06/18/2293360060..?trim=77,0,77,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The confirmed, full results in Germany's Saxony-Anhalt regional election are likely to be a major political headache for Chancellor Friedrich Merz, whose centre-right Christian Democrats (CDU) party have governed the eastern state for more than 20 years.

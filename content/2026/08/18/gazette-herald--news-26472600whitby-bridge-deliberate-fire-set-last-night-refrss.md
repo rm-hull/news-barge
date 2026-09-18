@@ -7,6 +7,11 @@ scraped_at: '2026-08-18T08:50:26Z'
 published: '2026-08-18T00:00:00Z'
 description: A fire has been started deliberately under a bridge in Whitby.
 image: https://www.gazetteherald.co.uk/resources/images/20471820.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Molly Court/Newsquest)*

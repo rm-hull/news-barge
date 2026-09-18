@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: Ukraine is racing to design faster, more capable interceptor drones to
   tackle Russia's new generation of jet-powered Shahed attack drones
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312426907.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312426907.jpg?w=840)

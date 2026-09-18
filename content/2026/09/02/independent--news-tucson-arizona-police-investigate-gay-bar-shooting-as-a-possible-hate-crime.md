@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Police in Arizona are investigating a shooting at a Tucson gay bar as
   a possible hate crime
 image: https://static.independent.co.uk/2026/09/02/01/Tucson_Shooting_Hate_Crime_63356.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Police in Arizona say a shooting at a Tucson gay bar that left three people dead, including the shooter, is being investigated as a possible hate crime.

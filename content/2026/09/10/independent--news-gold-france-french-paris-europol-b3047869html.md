@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: A series of art heists in France has highlighted the country's struggle
   to protect its cultural treasures
 image: https://static.independent.co.uk/2026/09/09/11/France_Renoir_Heist_71743.jpg?trim=47,0,47,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- History
 ---
 
 At a museum in eastern France, two men disguised with wigs used a sledgehammer and a hammer to smash a display case and make off with a 2,500-year-old gold necklace. The heist took under four minutes.

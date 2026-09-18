@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Our letter writer admits he bought an air fryer for an easy life. Now
   the machine is winning. Find out why his chips are down...
 image: https://www.yorkpress.co.uk/resources/images/21464093.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 **I bought an air fryer and I'm already admitting defeat**

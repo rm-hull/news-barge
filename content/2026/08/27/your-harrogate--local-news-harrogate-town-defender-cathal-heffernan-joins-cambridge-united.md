@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Harrogate Town defender Cathal Heffernan has joined Cambridge United
   for an undisclosed fee.
 image: https://mmo.aiircdn.com/409/6a904708872134f27d2.jpg
+categories:
+- Local
+- Harrogate
+- History
+- Sports
 ---
 
 ![](https://mmo.aiircdn.com/409/6a904708872134f27d2.jpg) 

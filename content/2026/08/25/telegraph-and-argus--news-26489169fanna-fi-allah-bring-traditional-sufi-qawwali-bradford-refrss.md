@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A WORLD-RENOWNED Sufi qawwali group is set to perform at Bradford Live
   later this year.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21361941.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Supplied)*

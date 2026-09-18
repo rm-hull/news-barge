@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Hui Ka Yan also forfeits all his personal property and the company he
   set up is given hefty fines
 image: https://i.guim.co.uk/img/media/709754c9a4198b956f1c2acc98bb9478b6dedbde/542_0_5415_4332/master/5415.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac49f1fd6c0ac5e76f54b2df69486a41
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 The founder of Evergrande, one of China’s largest property developers, has been sentenced to life in prison and had all of his personal property confiscated.

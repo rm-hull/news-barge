@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The technology could help predict which tumours will light up on scans
   without the need for gadolinium, according to researchers.
 image: https://static.independent.co.uk/2026/09/15/23/15110520-567d9fb5-c516-483f-8801-06c3f4713ef9.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Science
 ---
 
 Brain tumour patients could be spared contrast dye injections during MRI scans with the help of artificial intelligence (AI).

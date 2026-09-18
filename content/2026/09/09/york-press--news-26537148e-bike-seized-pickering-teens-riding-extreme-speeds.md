@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: An illegal e-bike has been seized following reports of youths riding
   at "extreme speeds" in Pickering.
 image: https://www.yorkpress.co.uk/resources/images/21432777.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: North Yorkshire Police)*

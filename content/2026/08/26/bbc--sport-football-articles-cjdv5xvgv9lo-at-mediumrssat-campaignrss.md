@@ -10,6 +10,10 @@ description: When Callum McGregor eviscerated his own team-mates in the wake of 
   stupefying Champions League collapse against LASK, he delivered their one coherent
   moment of a spineless night, writes Tom English.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1fce/live/e1442240-a115-11f1-92eb-a9b3bbcf6f4a.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Celtic captain Callum McGregor looks dejected](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/1fce/live/e1442240-a115-11f1-92eb-a9b3bbcf6f4a.jpg)

@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Payments worth an average £2,100 were paid out after incorrect advice
   was given
 image: https://static.independent.co.uk/2026/09/16/15/14/form-assessment-health-stock-pip.jpeg?trim=0,3,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Over £660,000 has been paid to hundreds of Personal Independence Payment (Pip) claimants by the Department for Work and Pensions (DWP) after it admitted giving incorrect advice to people looking to claim the benefit.

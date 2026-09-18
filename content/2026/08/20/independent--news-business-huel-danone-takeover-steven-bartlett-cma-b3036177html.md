@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Dragons’ Den star and podcaster Steven Bartlett was previously a director
   of Huel
 image: https://static.independent.co.uk/2024/12/01/09/Huel-ready-to-drink.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Food and drink business Danone has secured approval from the UK competition regulator for its proposed acquisition of British protein powder and shake manufacturer Huel.

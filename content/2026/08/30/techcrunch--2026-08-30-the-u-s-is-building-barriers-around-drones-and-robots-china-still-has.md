@@ -9,6 +9,9 @@ published: '2026-08-30T00:00:00Z'
 description: The U.S. is shutting out more foreign-made drones and robots. China’s
   scale means the global competition may simply move elsewhere.
 image: https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-507054668.jpg?resize=1200,801
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 In July and August, Washington tightened restrictions on foreign-made advanced robotic systems and imposed steep tariffs on imported drones and their components, both moves citing national-security concerns. The drone tariffs take effect in September, with additional component tariffs following in 2027.

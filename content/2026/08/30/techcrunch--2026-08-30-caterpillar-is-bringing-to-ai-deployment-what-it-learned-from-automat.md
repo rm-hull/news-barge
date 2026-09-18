@@ -9,6 +9,9 @@ published: '2026-08-30T00:00:00Z'
 description: Caterpillar has spent decades putting autonomous machines to work at
   remote mining sites. It's now bringing that experience to AI deployment.
 image: https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Careers & Productivity
 ---
 
 Nearly every company that’s trying to deploy artificial intelligence runs into the same problem: it’s hard to integrate the tech into everyday operations. Industrial heavyweight Caterpillar has spent decades dealing with a version of that problem in the physical world, and now it’s using its experience to deploy AI.

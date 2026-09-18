@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Ellen Burstyn, at 93, stars as a 100-year-old Marilyn Monroe in the short
   film “Flesh Impact,” premiering at the Venice Film Festival
 image: https://static.independent.co.uk/2026/09/07/13/Venice_Film_Festival-Preview_62_7_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Arts & Culture
 ---
 
 Of all the roles Ellen Burstyn might have been offered in her 90s, that of Marilyn Monroe, who died at 36, seemed fairly unlikely. But then one day Maggie Gyllenhaal came to her apartment to talk about a wild idea: What if she played Monroe at 100?

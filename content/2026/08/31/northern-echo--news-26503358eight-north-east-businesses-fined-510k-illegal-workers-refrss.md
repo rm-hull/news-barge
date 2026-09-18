@@ -8,6 +8,13 @@ published: '2026-08-31T00:00:00Z'
 description: Eight businesses across the North East have been handed fines totalling
   £510,000 for employing illegal workers, new Home Office figures show.
 image: https://www.thenorthernecho.co.uk/resources/images/20280414.jpg?type=og-image&xType=0&yType=169
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 *(Image: PA MEDIA)*

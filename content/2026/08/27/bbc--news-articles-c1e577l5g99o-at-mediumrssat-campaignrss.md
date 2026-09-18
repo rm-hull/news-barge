@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: The plans for forces in England and Wales had been scheduled to be rolled
   out by summer 2029, but have been brought forward.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/00b3/live/440ecda0-a245-11f1-804a-af7f2afa0e85.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Male police officer wearing high visibility jacket and typing on keyboard as he sits behind computer screen](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/00b3/live/440ecda0-a245-11f1-804a-af7f2afa0e85.jpg)

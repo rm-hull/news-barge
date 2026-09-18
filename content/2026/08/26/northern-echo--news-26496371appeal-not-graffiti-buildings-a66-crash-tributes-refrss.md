@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: A community group has urged people not to graffiti their buildings with
   tributes to the young men who died in the A66 crash.
 image: https://www.thenorthernecho.co.uk/resources/images/21358362.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- Society & Culture
 ---
 
 *(Image: NORTH NEWS)*

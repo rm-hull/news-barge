@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The agreement represents the largest ever Big Tech settlement and will
   force Meta to introduce sweeping restrictions on its platforms
 image: https://static.the-independent.com/2026/08/26/13/45/GettyImages-2261835380.jpg?trim=70,387,481,378&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Meta will pay up to $17bn and make sweeping changes to Instagram and Facebook to settle a major US court case.

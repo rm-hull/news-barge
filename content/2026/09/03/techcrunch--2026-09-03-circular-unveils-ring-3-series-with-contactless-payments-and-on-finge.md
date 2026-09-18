@@ -10,6 +10,8 @@ description: The Circular Ring 3 series announcement comes amid a year of height
   competition in the smart ring market, following the launches of the Oura Ring 5
   and RingConn Gen 3.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Circular-Ring-3-Slim-Lineup.png?resize=1200,1200
+categories:
+- Technology & Software
 ---
 
 Smart ring maker Circular on Thursday unveiled its upcoming Ring 3 series, which consists of a Pro model and a Slim option. Both of the smart rings will feature an integrated NFC chip for contactless payments, vibrating alerts for alarms and reminders, and more.

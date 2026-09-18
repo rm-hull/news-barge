@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: King Harald of Norway's health has deteriorated, according to the royal
   palace
 image: https://static.independent.co.uk/2026/08/24/08/Norway_Royals_58835.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 The health of Norway's King Harald deteriorates over the weekend

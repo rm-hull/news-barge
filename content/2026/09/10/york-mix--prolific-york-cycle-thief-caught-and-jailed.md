@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T12:53:45Z'
 published: '2026-09-10T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-st-andrewgate-cycle-racks-gsv.webp
+categories:
+- Local
+- York
+- Sports
 ---
 
 A cycle thief described by police as ‘prolific’ is back in jail.

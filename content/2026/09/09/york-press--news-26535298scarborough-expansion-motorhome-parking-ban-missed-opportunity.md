@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The expansion of an overnight ban on campervans being parked on the North
   Yorkshire coast following a ‘displacement of problems’ has received a…
 image: https://www.yorkpress.co.uk/resources/images/21419198.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Expansion of overnight ban on motorhomes a 'missed opportunity'

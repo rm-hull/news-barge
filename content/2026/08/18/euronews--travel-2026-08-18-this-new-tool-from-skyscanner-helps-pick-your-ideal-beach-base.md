@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: 'From quiet coves to lively Caribbean hotspots, Skyscanner’s new Paradise
   Guide reveals the best beaches for every kind of traveller. #Destinations'
 image: https://images.euronews.com/articles/stories/09/87/89/03/1200x675_cmsv2_00652a39-c141-50f3-a699-4022b2e9ccc7-9878903.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## From quiet coves to lively Caribbean hotspots, Skyscanner’s new Paradise Guide reveals the best beaches for every kind of traveller.

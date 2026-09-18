@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: A PUBLIC screening is set to spark community conversations about climate
   change and nature loss.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21356124.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Google Street View)*

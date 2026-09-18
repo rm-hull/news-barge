@@ -7,6 +7,11 @@ scraped_at: '2026-09-03T19:17:01Z'
 published: '2026-09-03T00:00:00Z'
 description: All Creatures Great and Small will return to screens this September.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20863246.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 All Creatures Great and Small will return to screens this September.

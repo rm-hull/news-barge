@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: A man who has admitted stabbing a woman in the back was told the only
   sentence he can expect is one of imprisonment, with only its length in…
 image: https://www.thenorthernecho.co.uk/resources/images/21413560.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A man who has admitted stabbing a woman in the back was told the only sentence he can expect is one of imprisonment, with only its length in question.

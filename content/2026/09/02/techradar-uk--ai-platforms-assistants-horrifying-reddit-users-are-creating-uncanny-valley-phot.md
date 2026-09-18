@@ -8,6 +8,9 @@ scraped_at: '2026-09-02T19:22:14Z'
 published: '2026-09-02T00:00:00Z'
 description: ChatGPT seems to know exactly what we find creepy
 image: https://cdn.mos.cms.futurecdn.net/rxKBKeVyJtg4W64aeDxhRF-1537-80.png
+categories:
+- Technology & Software
+- Self-Improvement
 ---
 
 ![An image created with ChatGPT with the prompt make an image that gives off uncanny valley](https://cdn.mos.cms.futurecdn.net/rxKBKeVyJtg4W64aeDxhRF.png) 

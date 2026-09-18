@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Three years on, frustrated residents want to see an end in sight to problems
   posed by a landslide which has closed a Halifax road.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjVhODU4NDIzLWRkZDYtNGJhZS04NWU5LWFmZjg3MDUzYWQ4MTpiNjc2MzI2Yi04YjM2LTQwZTgtODBkNC01YTM3Zjk1MTdhNDk=.jpg?crop=3:2,smart&trim=&width=841&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Residents want to see a solution for road closed since landslide in 2023

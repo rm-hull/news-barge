@@ -9,6 +9,9 @@ description: Lawmakers originally served Black with two subpoenas during a priva
   voluntary interview in June after he reportedly declined to answer questions about
   nondisclosure agreements
 image: https://static.independent.co.uk/2026/09/03/13/40/AP26246480870989.jpg?trim=86,429,798,898&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Billionaire investor Leon Black has taken legal action against the House Oversight Committee after refusing to show up for a scheduled congressional deposition on Thursday.

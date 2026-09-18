@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Several people have been injured including at least seven left in a critical
   condition
 image: https://static.independent.co.uk/2026/08/27/07/2291648811..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 At least one person has been killed and 10 others have been injured after a car deliberately rammed into a group of pedestrians standing outside a train station in France.

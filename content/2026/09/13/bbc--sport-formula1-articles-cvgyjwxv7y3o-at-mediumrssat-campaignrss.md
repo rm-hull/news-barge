@@ -10,6 +10,10 @@ description: Lando Norris says he was "insanely unlucky" to lose what seemed lik
   a certain win in the Spanish Grand Prix because of the timing of a virtual safety
   car.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8f29/live/222997f0-afa2-11f1-a27d-17e2480354ed.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Lando Norris walking off the podium following the Spanish Grand Prix](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/8f29/live/222997f0-afa2-11f1-a27d-17e2480354ed.jpg)

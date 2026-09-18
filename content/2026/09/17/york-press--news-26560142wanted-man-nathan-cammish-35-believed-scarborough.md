@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: A 35-year-old man wanted for serious assault and breaching a domestic
   violence protection order is being sought by police.
 image: https://www.yorkpress.co.uk/resources/images/21469848.jpg?type=og-image&xType=0&yType=281
+categories:
+- Local
+- York
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

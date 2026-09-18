@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Virtually every American has been targeted by scammers in some way, exclusive
   new polling data shows
 image: https://static.independent.co.uk/2026/09/02/13/Global_Scams_Victims_89443.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 When Simon’s wife of 43 years passed away, it felt a bit like he’d died too.

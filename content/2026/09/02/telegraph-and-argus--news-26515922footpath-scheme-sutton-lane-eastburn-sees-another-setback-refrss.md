@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A long-awaited safety scheme to protect pedestrians has been hit by another
   setback.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21401994.jpg?type=og-image&xType=0&yType=866
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Bradford Council)*

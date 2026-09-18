@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: President Donald Trump has agreed to a significant portion of a stringent
   ethics proposal that is part of broader cryptocurrency legislation
 image: https://static.independent.co.uk/2026/09/14/08/2294722031..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump has agreed to a major share of a strict ethics proposal embedded within a broader cryptocurrency bill set for a critical Senate vote this week, according to three key Republican sponsors.

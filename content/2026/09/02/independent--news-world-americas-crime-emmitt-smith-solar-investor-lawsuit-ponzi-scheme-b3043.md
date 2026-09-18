@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Emmitt Smith has been accused of running an operation similar to a Ponzi
   scheme in the lawsuit filed against him and his business associates
 image: https://static.the-independent.com/2026/09/02/18/2265164063..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 NFL all-time leading rusher Emmitt Smith has been accused of defrauding an investor in a Texas solar energy initiative out of $2.5 million, according to a legal filing.

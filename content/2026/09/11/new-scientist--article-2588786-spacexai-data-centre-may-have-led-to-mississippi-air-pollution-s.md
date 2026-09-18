@@ -10,6 +10,9 @@ description: Elon Musk firm’s Colossus 2 data centre – the largest in the US
   been spewing out nitrogen oxide emissions from trailer-mounted gas turbines, an
   analysis suggests
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311839403.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Colossus 2 "Macrohard" data centre in](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311839403.jpg?w=840)

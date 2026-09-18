@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: New species of wild cat was discovered in Bolivia’s Yungas forest and
   is smaller than the average domestic cat
 image: https://i.guim.co.uk/img/media/3434cb2b735cf3a888007c59b6864fb6b3284902/492_0_4917_3934/master/4917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3f20e0fe64746ed9a045742bca194642
+categories:
+- UK
+- News & Politics
+- Outdoors & Nature
+- History
+- Pets & Animals
 ---
 
 A diminutive wild cat that inhabits Bolivia’s cloud forest has been identified as a previously unknown species, marking the first time a new living feline species has been formally named and described in more than a century.

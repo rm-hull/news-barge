@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The government is seeking to change the law on donations to UK political
   parties from British expats.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a3ff/live/37b95cf0-aff1-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Nigel farage, wearing a light blue suit and white shirt, gestures with his left hand](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/a3ff/live/37b95cf0-aff1-11f1-a540-61c3f7fc4e6c.jpg)

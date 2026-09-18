@@ -10,6 +10,10 @@ description: Palestinian children who have lost limbs during the Israel-Hamas wa
   since Oct. 7, 2023, are taking swimming lessons in Khan Younis, Gaza, through classes
   organized by the nonprofit Heal Palestine.
 image: https://static.independent.co.uk/2026/08/20/15/APTOPIX_Israel_Palestinians_Gaza_69_72.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Palestinian children who lost limbs in the Israel-Hamas war learn to swim in Gaza

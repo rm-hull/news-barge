@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Analysis by The Independent finds the group has had an outsized influence
   on the White House’s policies towards Democratic-aligned groups and issues
 image: https://static.independent.co.uk/2026/09/17/20/2288529811..?trim=0,66,0,66&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 When a lawyer in the deputy attorney general's office instructed more than half a dozen U.S. attorneys to prep criminal investigations of a George Soros-funded foundation last September, he attached as evidence a report by the Capital Research Center.

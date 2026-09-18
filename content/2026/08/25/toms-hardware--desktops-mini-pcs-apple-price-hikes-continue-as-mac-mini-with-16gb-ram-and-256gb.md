@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: What's worse than a major price hike? Another one exactly two months
   later
 image: https://cdn.mos.cms.futurecdn.net/AvgL7izoWtiF7TwE5q246i-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
 ---
 
 ![Apple Mac Mini (M6)](https://cdn.mos.cms.futurecdn.net/AvgL7izoWtiF7TwE5q246i.jpg) 

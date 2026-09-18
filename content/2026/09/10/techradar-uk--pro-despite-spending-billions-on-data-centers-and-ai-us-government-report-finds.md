@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: Multi-billion-dollar buildouts for AI partners, but an increasing number
   of food-stamp recipients among one's employees?
 image: https://cdn.mos.cms.futurecdn.net/oNrrePMk5FLbsKsmuTFcPn-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Amazon](https://cdn.mos.cms.futurecdn.net/oNrrePMk5FLbsKsmuTFcPn.jpg) 

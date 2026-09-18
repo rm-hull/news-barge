@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: No group has claimed responsibility for the attacks, which the military
   said "aimed at creating unrest".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb09/live/98ca1da0-9ee8-11f1-9ebe-a78ab900c4a7.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Watch: A shop ablaze in Narathiwat, southern Thailand as a wave of attacks reported

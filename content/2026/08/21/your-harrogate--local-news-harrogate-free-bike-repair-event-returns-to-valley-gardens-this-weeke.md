@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Cyclists can get their bikes checked and repaired for free when a community
   bike fix returns to Harrogate this weekend.
 image: https://mmo.aiircdn.com/409/6a880a1a8f2f118c537.jpg
+categories:
+- Local
+- Harrogate
+- Lifestyle & Fashion
+- Travel
 ---
 
 ![](https://mmo.aiircdn.com/409/6a880a1a8f2f118c537.jpg) 

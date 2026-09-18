@@ -9,6 +9,11 @@ description: Sam Altman and Elon Musk this weekend backed a call for restraint, 
   Dario Amodei called on Washington to slow AI development. Donald Trump, meanwhile,
   wants the US to maintain its lead over China.
 image: https://media.wired.com/photos/6aa7c567181b95a3e876f8f9/191:100/w_1280,c_limit/091426-Trump%20AI%20Leaders.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 As calls for artificial intelligence regulation intensify, US President Donald Trump’s team have made it clear that if lab leaders want to implement an industry-wide slowdown, they’re going to have to do it themselves.

@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: Dozens of Bank of England directors and founding subscribers invested
   in trafficking of enslaved Africans
 image: https://i.guim.co.uk/img/media/a39e603cbc92697e61e5e7a1b4604dcf9b561338/0_1622_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9f422ca1f656713002fb0f37bd84967e
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- History
 ---
 
 The Bank of England and the British financial system were for centuries deeply involved in the enslavement and transatlantic trafficking of millions of African people, according to new research on Britain’s slavery history.

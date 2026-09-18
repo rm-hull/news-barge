@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Nearly 500 people crossed the Channel in seven boats on Thursday - the
   first since 17 August.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e704/live/d0879b60-a2e3-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![An inflatable small boat overloaded with people pictured in April 2026](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e704/live/d0879b60-a2e3-11f1-a291-b542ee92de7c.jpg)

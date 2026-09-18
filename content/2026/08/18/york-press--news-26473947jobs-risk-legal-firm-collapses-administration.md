@@ -7,6 +7,11 @@ scraped_at: '2026-08-18T13:03:57Z'
 published: '2026-08-18T00:00:00Z'
 description: A Scottish law company has been placed into administration.
 image: https://www.yorkpress.co.uk/resources/images/21330367.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Law & Justice
 ---
 
 *(Image: Getty Images)*

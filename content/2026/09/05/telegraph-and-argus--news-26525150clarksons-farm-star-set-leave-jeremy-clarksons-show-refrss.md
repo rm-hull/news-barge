@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Clarkson's Farm fans will see one of the show's stars in a new light,
   with an upcoming spin-off.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21043225.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 *(Image: Cheffins)*

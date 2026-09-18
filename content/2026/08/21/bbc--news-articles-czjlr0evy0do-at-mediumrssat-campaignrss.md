@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Negotiations to finalise a deal between the US and Canada are going down
   to the wire ahead of a Friday night deadline.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/064f/live/86495a50-9dbd-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Dominic LeBlanc, in a suit and tie, speaks to reporters as he stands outside the  doors to the US trade representative's office](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/064f/live/86495a50-9dbd-11f1-aed2-8d6da8d75094.jpg)

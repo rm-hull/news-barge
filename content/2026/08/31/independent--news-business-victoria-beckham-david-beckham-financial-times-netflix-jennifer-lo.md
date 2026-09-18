@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The former Spice Girl started her eponymous label in 2008, debuting her
   ready-to-wear collection at New York Fashion Week.
 image: https://static.independent.co.uk/2026/08/31/23/22e99660c2b4c762d2da6f8c286465b4Y29udGVudHNlYXJjaGFwaSwxNzg4Mjk2MTAy-2.81932514.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Victoria Beckham’s fashion and beauty label has recorded an operating profit for the first time in the 18 years since it launched.

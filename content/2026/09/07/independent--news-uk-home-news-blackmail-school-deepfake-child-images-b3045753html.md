@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Nearly half of headteachers have reported pupil images being used for
   harmful acts including blackmail and extortion, new research reveals
 image: https://static.independent.co.uk/2024/04/04/12/5849dc2a0dae3e8ad12419402ffab3b1Y29udGVudHNlYXJjaGFwaSwxNzEyMzE1NDk0-2.75402254.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Gangs of criminals are “actively targeting” schools by creating deepfake sexualised images of children from pictures on their social media and websites and using them to blackmail schools for ransom, experts have warned.

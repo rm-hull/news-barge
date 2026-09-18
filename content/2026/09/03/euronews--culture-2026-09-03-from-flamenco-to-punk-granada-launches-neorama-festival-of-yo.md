@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: From 3 to 5 September, Granada hosts Neorama, a travelling festival for
   young talent, with 40 concerts in jazz, classical, rock, punk and electronic music.
 image: https://images.euronews.com/articles/stories/09/89/33/40/1200x675_cmsv2_02caf61e-6760-5453-8a66-da6d475e2cf6-9893340.jpg
+categories:
+- Europe
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 ## From 3 to 5 September, Granada hosts Neorama, a travelling festival for young talent, with 40 concerts in jazz, classical, rock, punk and electronic music.

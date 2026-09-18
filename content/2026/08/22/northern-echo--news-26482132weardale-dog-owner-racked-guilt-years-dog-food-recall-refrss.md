@@ -9,6 +9,12 @@ published: '2026-08-22T00:00:00Z'
 description: A County Durham dog owner says she is “racked with guilt” after fearing
   recalled premium dog food may have contributed to eye problems in her…
 image: https://www.thenorthernecho.co.uk/resources/images/21350580.jpg?type=og-image&xType=0&yType=208
+categories:
+- Local
+- UK
+- News & Politics
+- Pets & Animals
+- Health & Fitness
 ---
 
 A County Durham dog owner says she is “racked with guilt” fearing recalled premium dog food may have contributed to eye problems in her rescue spaniel.

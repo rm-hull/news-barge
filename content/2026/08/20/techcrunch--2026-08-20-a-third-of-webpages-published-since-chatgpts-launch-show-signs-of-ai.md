@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: ChatGPT and other AI models are now authoring and editing much of the
   new web.
 image: https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024
+categories:
+- Technology & Software
+- Creator Economy & Marketing
 ---
 
 Over one-third of web pages published after the release of ChatGPT show signs of being written by AI, according to a new study from Pew Research released on Thursday. The report corroborates other studies that detail how much of the web’s newer web pages are now either written by or “substantially edited” by AI, the firm says.

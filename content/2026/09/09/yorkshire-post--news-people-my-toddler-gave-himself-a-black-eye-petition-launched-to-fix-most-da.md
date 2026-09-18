@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: Councillors are calling for an urgent fix to a children’s park in Huddersfield,
   after branding it one of the “worst playgrounds in the North of England”.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjMxNTFlNjc4LTQxYjYtNGJlMC1iMzFkLTMxM2JjNGViMmJmZDo0YjhmMmYyMS0zMjlkLTQ0MWYtYTJhYy00MmNiYTA1NTgxMTM=.jpg?crop=3:2,smart&trim=&width=1130&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 # 'My toddler gave himself a black eye' - Petition launched to fix 'most dangerous park in the north of England'

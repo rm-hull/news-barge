@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: His former employer, Libyan Airlines, announced his death ‘with deep
   sorrow and profound grief’
 image: https://static.independent.co.uk/2026/08/26/08/170739722..?trim=139,0,360,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Libyan man acquitted following his trial over the Lockerbie bombing has died, according to reports.

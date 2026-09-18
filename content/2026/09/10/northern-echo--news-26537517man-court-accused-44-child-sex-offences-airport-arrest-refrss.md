@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A man accused of 44 sexual offences involving children has appeared in
   court in Newton Aycliffe.
 image: https://www.thenorthernecho.co.uk/resources/images/20119768.jpg?type=og-image&xType=0&yType=340
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: PA MEDIA)*

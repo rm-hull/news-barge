@@ -10,6 +10,10 @@ description: Brazil’s government and exporters of meat, poultry, eggs, honey a
   for suspending imports over concerns about the use of antibiotics and antimicrobial
   drugs in livestock
 image: https://static.independent.co.uk/2026/09/03/22/Brazil_Beef_981_1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Brazil's government and exporters of meat, poultry, eggs, honey and other animal products were scrambling Thursday after a European Union deadline passed, triggering a suspension of imports over concerns about the use of antibiotics and antimicrobial drugs in livestock.

@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The Premier League will publish the judgements of its Key Match Incidents
   Panel for the first time this season.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d48c/live/f65fe750-9ae3-11f1-b2f7-5d1639b20e22.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Gabriel of Arsenal argues with referee Michael Oliver after awarding a penalty during the Premier League match between Arsenal and West Ham United](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/d48c/live/f65fe750-9ae3-11f1-b2f7-5d1639b20e22.jpg)

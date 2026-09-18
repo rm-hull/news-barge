@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: A new pre-school is to open in Harrogate to deliver tailor-made flexible,
   full day care for youngsters and their busy families.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmI4ZDdjZjlkLWQwOTgtNDk0ZS05MmM2LTU1MzIzOTY3NTMxOTowN2U5ODliNS02ZTEwLTQ0OGMtYWVkNS1hZmY2YTk4NDgwMjI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 # Harrogate school to launch new tailor-made pre-school with 'wraparound care' from 7.30am to 6pm

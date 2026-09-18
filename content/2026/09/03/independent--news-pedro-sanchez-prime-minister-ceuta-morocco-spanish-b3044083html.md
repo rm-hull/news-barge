@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: Spanish Prime Minister Pedro Sánchez has rejected suggestions that Morocco
   helped orchestrate the deadly July border breach in Ceuta
 image: https://static.independent.co.uk/2026/09/03/11/Spain_Sanchez_Ceuta_Parliament_45411.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Spain's Prime Minister Pedro Sánchez on Thursday rejected suggestions that Moroccan authorities helped orchestrate the deadly mass crossing of migrants from Morocco into the Spanish exclave of Ceuta, as pressure grows over his handling of the crisis.

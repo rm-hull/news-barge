@@ -8,6 +8,10 @@ scraped_at: '2026-09-18T04:34:29Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/cumberland-villa-cumberland-street-york-gsv.webp
+categories:
+- Local
+- York
+- History
 ---
 
 Plans for a holiday let next to an historic York building have been blocked.

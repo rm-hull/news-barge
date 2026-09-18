@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Manchester United recorded their biggest Champions League victory since
   2020 as they swept Sabah FK aside at Old Trafford.
 image: https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/87c6/live/38edb380-ad5a-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 # Man United put four past Sabah on Champions League return

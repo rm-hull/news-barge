@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Trump calls justices he appointed ‘a shell of their original selves’
   in latest rage-filled Truth Social post
 image: https://static.independent.co.uk/2026/07/02/00/2263416663..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 President Donald Trump lashed out at the Supreme Court, including three justices he appointed to the bench, after they rejected his efforts to overhaul mail-in ballot voting just weeks before midterm elections.

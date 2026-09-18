@@ -10,6 +10,8 @@ published: '2026-09-17T00:00:00Z'
 description: Lanterns' sixth episode will be released very soon — and it needs to
   answer these five burning questions of mine.
 image: https://cdn.mos.cms.futurecdn.net/KaanatWr8EGeYFCT4q2oRh-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A collage of close-up shots of John Stewart and Hal Jordan in Lanterns episode 6](https://cdn.mos.cms.futurecdn.net/KaanatWr8EGeYFCT4q2oRh.jpg) 

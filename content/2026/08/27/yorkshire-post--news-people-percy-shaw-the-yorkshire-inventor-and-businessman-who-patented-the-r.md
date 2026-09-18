@@ -10,6 +10,11 @@ description: Percy Shaw was an inventor and businessman from Yorkshire who paten
   the reflective road stud - also known as the ‘cat’s eye’ - and it has since been
   used all over the world.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmEzNGEzN2E4LTU0MDAtNGIxMS05NTY1LWY4YjZiMWJiMjJkNjpmZjQ4YTBhYi05Yzc1LTRkMDQtOTY4Ni02ZTA3ZWRlMjZhZjM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Percy Shaw: The Yorkshire inventor and businessman who patented the reflective road stud or 'cat's eye' in 1934 that has since been used all over the world

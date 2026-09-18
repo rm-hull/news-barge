@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: Aagrah Foods’ Plain Naan has earned a two-star rating at the Great Taste
   Awards, organised by the Guild of Fine Food,
 image: https://www.thetelegraphandargus.co.uk/resources/images/21386117.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 A YORKSHIRE naan has scooped a top prize.

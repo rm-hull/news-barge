@@ -10,6 +10,9 @@ description: We're halfway through Reacher season 4 and divided opinions are fly
   across the internet like there's no tomorrow. But have we all forgotten something
   important?
 image: https://cdn.mos.cms.futurecdn.net/waAsQQw5hho4rvzqPTtagY-1920-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Reacher puts his hands behind his head](https://cdn.mos.cms.futurecdn.net/waAsQQw5hho4rvzqPTtagY.jpg) 

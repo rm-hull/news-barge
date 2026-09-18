@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Pressure follows revelations US military and weapons manufacturers control
   or have access to more than 100 bases across Australian continent
 image: https://i.guim.co.uk/img/media/fc302a20aacde8550031ac929d7242d5345b8a21/230_0_5594_4474/master/5594.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8cfe0d153a73b5f8590f3027a2199e36
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 The US has “led Australia into wars of aggression” for 50 years, internal party campaign group Labor Against War has argued, urging the government to chart a foreign policy independent “from the American war machine”.

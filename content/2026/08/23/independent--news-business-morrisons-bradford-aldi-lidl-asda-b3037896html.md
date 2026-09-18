@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: The Bradford-based chain will be hoping its pricing strategy can help
   drive a recovery in its share of the UK grocery market.
 image: https://static.independent.co.uk/2025/03/24/13/24133110-7f868a38-73c1-42e7-9a1b-6fb572e5f599.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Morrisons has pledged to customers that it will not be beaten on price by its biggest supermarket rivals on hundreds of everyday products.

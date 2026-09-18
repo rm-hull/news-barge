@@ -10,6 +10,10 @@ description: Students, staff and families at St Aidan's Church of England High S
   are celebrating an exceptional set of GCSE results, with many of the school's headline
   measures reaching the highest levels ever recorded.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjJhODgyZDM1LThjYTgtNGUzZC05ODlhLWFhOWE3NmY1YmU2Mzo4ZmVlNTJlYy04NDQ0LTRjZTMtOGVhNS0xMzc5OTZkYWMzZDI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 # Harrogate's St Aidan's High School records 'impressive headline figures and individual success stories'

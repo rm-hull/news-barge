@@ -8,6 +8,8 @@ scraped_at: '2026-08-31T16:07:50Z'
 published: '2026-08-31T00:00:00Z'
 description: If you can live without auto-duplex, this inexpensive ink tank is a bargain
 image: https://cdn.mos.cms.futurecdn.net/xrMFfivfzZWvnWNWxBkLsG-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

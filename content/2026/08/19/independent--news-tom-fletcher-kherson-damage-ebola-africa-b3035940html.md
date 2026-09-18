@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The U.N.'s humanitarian chief warns of the growing threat of drones against
   civilians and aid workers in Ukraine
 image: https://static.independent.co.uk/2026/08/19/20/Russia_Ukraine_War_UN_48267.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The intensifying use of drones against civilians and humanitarian workers is a dangerous obstacle for aid operations in Ukraine, the U.N.'s humanitarian chief, Tom Fletcher, said on Wednesday.

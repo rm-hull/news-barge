@@ -10,6 +10,11 @@ description: Sir Nick Faldo says LIV golfers seeking a return to the DP World To
   may have to "eat a bit of humble pie" before regaining eligibility for the European-based
   circuit.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0e34/live/c180b7e0-a08c-11f1-9234-011c63dfa263.jpg
+categories:
+- UK
+- News & Politics
+- Travel
+- Sports
 ---
 
 ![Sir Nick Faldo watches the ball down the fairway having driven from the tee](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0e34/live/c180b7e0-a08c-11f1-9234-011c63dfa263.jpg)

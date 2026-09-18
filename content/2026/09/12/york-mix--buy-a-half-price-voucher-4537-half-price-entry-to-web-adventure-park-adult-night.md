@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Up to half price off the best things to do in York and North Yorkshire
   from your favourite radio station
 image: https://contentstore.yrkmx.co.uk/23/4537.webp?id=372286408
+categories:
+- Local
+- York
+- Travel
 ---
 
 Saturday 12th September 2026

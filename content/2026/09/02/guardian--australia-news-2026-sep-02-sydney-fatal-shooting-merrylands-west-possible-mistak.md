@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: A man shot dead in Merrylands West was not known to police, in a case
   with similarities to Tuesday’s killing in Campbelltown
 image: https://i.guim.co.uk/img/media/a7e3527b74f0102ca679c16f1cdccb6767b749ce/0_0_5120_4096/master/5120.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=783f8b08c93a77e8ffe25f40abcfd1b3
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 New South Wales police are investigating the shooting death of a man in Sydney’s west as a potential case of mistaken identity, marking the second fatal shooting incident in as many days.

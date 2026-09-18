@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Aldi has announced its opening hours across County Durham for the August
   bank holiday weekend, giving shoppers time to plan ahead.
 image: https://www.thenorthernecho.co.uk/resources/images/21340263.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Simon Hadley)*

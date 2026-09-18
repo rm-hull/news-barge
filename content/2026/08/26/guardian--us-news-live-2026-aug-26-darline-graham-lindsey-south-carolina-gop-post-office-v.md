@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Sister of late Lindsey Graham, who has been backed by Trump, overcomes
   concern about lack of experience to win place on November ballot
 image: https://i.guim.co.uk/img/media/d22113f2ad25bca6b5feb57d86fe2549103089fc/254_0_4169_3335/master/4169.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=39841e56ca0d6d7b106ef6a0f336d01b
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Trump touts primary success after Republicans win elections in South Carolina and Oklahoma

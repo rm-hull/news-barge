@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Prime minister speaks of strengthening Canada’s economic and political
   ties to Europe at Canada Investment Summit
 image: https://i.guim.co.uk/img/media/7fe8c0ccf9d36592398b3e3d46e4bd7e198f1654/372_0_3701_2963/master/3701.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26c99da544c7795b572a16dfe2c9543b
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Mark Carney said Canada will pursue a “unique security and economic alliance” with Europe as he positions his country as a base to build in the “new global economic order”.

@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: An ‘intensive search’ just off Plymouth has been underway since a distress
   call was made
 image: https://static.independent.co.uk/2026/08/21/17/2d7fe2362c82db61ece62e15a8ffe745Y29udGVudHNlYXJjaGFwaSwxNzg3NDE1OTI1-2.81545059.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A search for two missing crew members has been officially concluded after a French fishing boat sank in the English Channel, though three other people were safely rescued.

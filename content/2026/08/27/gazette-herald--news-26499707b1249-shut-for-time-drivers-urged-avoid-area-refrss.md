@@ -7,6 +7,12 @@ scraped_at: '2026-08-27T12:01:29Z'
 published: '2026-08-27T00:00:00Z'
 description: A MAIN road in North Yorkshire is shut following an accident.
 image: https://www.gazetteherald.co.uk/resources/images/18813705.jpg?type=og-image&xType=0&yType=140
+categories:
+- Local
+- Harrogate
+- York
+- Travel
+- Automotive
 ---
 
 A MAIN road in North Yorkshire is shut following a crash.

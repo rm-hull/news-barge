@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: People in Knaresborough are being asked to donate unwanted puzzles and
   games to help tackle loneliness among older residents.
 image: https://mmo.aiircdn.com/409/6a99550cbded68a7a78.jpg
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6a99550cbded68a7a78.jpg) 

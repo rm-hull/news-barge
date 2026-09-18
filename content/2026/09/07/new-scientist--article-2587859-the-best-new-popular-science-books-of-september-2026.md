@@ -10,6 +10,10 @@ description: Dive into new titles from major names including Carlo Rovelli, Magg
   Aderin, Xand van Tulleken and Jim Al-Khalili, as well as a new biography of Stephen
   Hawking
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI310654417.jpg
+categories:
+- Science
+- Technology & Software
+- Arts & Culture
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI310654417.jpg?w=840)

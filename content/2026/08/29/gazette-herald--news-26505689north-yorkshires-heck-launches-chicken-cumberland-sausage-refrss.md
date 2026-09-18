@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: A well-known North Yorkshire food company has announced a new twist on
   the classic Cumberland sausage.
 image: https://www.gazetteherald.co.uk/resources/images/21386726.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: HECK!)*

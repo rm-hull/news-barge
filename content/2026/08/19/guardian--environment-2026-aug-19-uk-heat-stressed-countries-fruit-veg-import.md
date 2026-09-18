@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Food Foundation sounds alarm over supply risks and price shocks as about
   40% of Britain’s food is imported
 image: https://i.guim.co.uk/img/media/f6aa775f912c60f9a2982dcb7cec428717b8769c/509_177_6506_5206/master/6506.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f83a9515bfe6d8df7436b82b2a88f9a2
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 The UK is vulnerable to food price shocks because of its dependence on imports of fruit and vegetable from countries even more exposed to the climate crisis, researchers say.

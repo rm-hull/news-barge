@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Capgemini Government Solutions was providing the US immigration authorities
   with technological tools to identify and track foreign nationals.
 image: https://images.euronews.com/articles/stories/09/91/13/50/1200x675_cmsv2_92ef3539-500b-5b06-ade3-6b6d6e3b4e2d-9911350.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ## Capgemini Government Solutions was providing the US immigration authorities with technological tools to identify and track foreign nationals.

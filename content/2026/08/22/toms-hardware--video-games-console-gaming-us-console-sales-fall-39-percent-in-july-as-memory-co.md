@@ -8,6 +8,11 @@ scraped_at: '2026-08-22T12:57:39Z'
 published: '2026-08-22T00:00:00Z'
 description: Weeks before the Switch 2's $50 increase takes effect.
 image: https://cdn.mos.cms.futurecdn.net/PUdkNw8i8RjCbA88jkWoFC-1600-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![PS5 hero](https://cdn.mos.cms.futurecdn.net/PUdkNw8i8RjCbA88jkWoFC.jpg) 

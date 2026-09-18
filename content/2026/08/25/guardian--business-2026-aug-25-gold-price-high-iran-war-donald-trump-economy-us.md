@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Bitcoin rises above $80,000 for the first time since May amid uncertainty
   over US fiscal plans
 image: https://i.guim.co.uk/img/media/efc9ed569b72b2e347443dd8a0ca076c3d4eed91/239_0_3022_2418/master/3022.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1205148646e56c293271249863b26f82
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Gold prices hit their highest level in more than three months on Tuesday as continued conflict in the Middle East and ongoing political uncertainty fuelled the latest rally in the precious metal.

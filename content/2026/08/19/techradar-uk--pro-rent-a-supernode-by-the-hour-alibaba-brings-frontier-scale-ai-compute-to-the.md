@@ -8,6 +8,9 @@ scraped_at: '2026-08-19T01:49:41Z'
 published: '2026-08-19T00:00:00Z'
 description: A homegrown AI supernode for hire, for domestic users only, for now
 image: https://cdn.mos.cms.futurecdn.net/zwBWPNAfpJdnNkfJY3wUKM-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A data center in a blue light](https://cdn.mos.cms.futurecdn.net/zwBWPNAfpJdnNkfJY3wUKM.jpg) 

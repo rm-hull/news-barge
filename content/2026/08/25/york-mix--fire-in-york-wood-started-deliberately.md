@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T20:40:41Z'
 published: '2026-08-25T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/02/acomb-wood-york-gsv.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 Police have been called in following a fire in York today (Tuesday).

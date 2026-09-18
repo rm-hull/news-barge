@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A burglary was reported at a business premises on Clayton Road in Bradford
   in the early hours of September 14.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20909640.jpg?type=og-image&xType=0&yType=170
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Pixabay)*

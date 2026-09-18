@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: A motorist who was caught by a speed camera travelling at 80mph on the
   A66 in County Durham has been fined.
 image: https://www.thenorthernecho.co.uk/resources/images/21435749.jpg?type=og-image&xType=0&yType=48
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: POLICE)*

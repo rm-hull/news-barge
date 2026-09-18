@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: FROM superhero action to family favourites, Bradford has a packed schedule
   of cinema screenings to enjoy this Saturday.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18984489.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 *(Image: Getty)*

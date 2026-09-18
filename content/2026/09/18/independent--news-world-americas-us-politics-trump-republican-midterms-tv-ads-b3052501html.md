@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: GOP candidates focusing on attacking Democrats rather than championing
   president’s record as his deep unpopularity begins to tell
 image: https://static.independent.co.uk/2026/09/17/22/17-c521ed4a70044a58ac3a93489c2a3f2e.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Donald Trump is being left out of TV ads for Republican candidates competing in this November’s midterms, according to new analysis, as the president’s popularity remains at an all time low.

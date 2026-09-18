@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: Nanya-backed DRAM designer PieceMakers began trading in Taipei on Sept.
   16 on a bet that AI inference memory won’t be HBM.
 image: https://cdn.mos.cms.futurecdn.net/wPT2pgJDrMKWtsy78z2WnY-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Semiconductor chip](https://cdn.mos.cms.futurecdn.net/wPT2pgJDrMKWtsy78z2WnY.jpg) 

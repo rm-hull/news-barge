@@ -9,6 +9,9 @@ published: '2026-09-06T00:00:00Z'
 description: Casualty fans have been patiently waiting for Flynn and Stevie to get
   together, but will it ever happen? According to one star, there's hope on the horizon.
 image: https://cdn.mos.cms.futurecdn.net/mUksjJUJWymmgtCP5fZY5U-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Olly Rix as Flynn](https://cdn.mos.cms.futurecdn.net/mUksjJUJWymmgtCP5fZY5U.jpg) 

@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Seven members of Malton Community Sports Centre are preparing for a 24-hour
   cycling challenge in aid of the Macmillan 'Stand up to cancer'…
 image: https://www.yorkpress.co.uk/resources/images/21380928.jpg?type=og-image&xType=0&yType=628
+categories:
+- Local
+- York
+- Sports
 ---
 
 ## Seven cyclists take on gruelling 24-hour fundraiser at Malton sports centre

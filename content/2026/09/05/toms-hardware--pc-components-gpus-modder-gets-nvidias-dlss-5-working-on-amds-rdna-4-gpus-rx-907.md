@@ -9,6 +9,10 @@ scraped_at: '2026-09-05T15:06:57Z'
 published: '2026-09-05T00:00:00Z'
 description: The game must already support FSR.
 image: https://cdn.mos.cms.futurecdn.net/A5B8BfAZTyVWEpy5TRr3UY-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Nvidia DLSS 5](https://cdn.mos.cms.futurecdn.net/A5B8BfAZTyVWEpy5TRr3UY.jpg) 

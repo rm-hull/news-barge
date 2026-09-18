@@ -7,6 +7,11 @@ scraped_at: '2026-08-22T08:42:57Z'
 published: '2026-08-22T00:00:00Z'
 description: COMMUTER hotspots are driving the latest surge in house price growth.
 image: https://www.thetelegraphandargus.co.uk/resources/images/17881775.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Pixabay)*

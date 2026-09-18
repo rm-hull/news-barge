@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The Trump administration sent layoff notices to thousands of employees
   at the CDC and other federal health agencies in April 2025
 image: https://static.independent.co.uk/2026/08/18/18/32/GettyImages-2231822012.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Congress allocated $41 million to the Centers for Disease Control and Prevention for an Alzheimer’s initiative this year, but the program currently has no personnel to execute its mandate.

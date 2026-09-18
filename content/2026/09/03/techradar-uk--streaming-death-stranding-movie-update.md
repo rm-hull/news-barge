@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: A24 meets Hideo Kojima in the upcoming movie version of video game series
   Death Stranding — but its director is being given 'a lot of freedom'.
 image: https://cdn.mos.cms.futurecdn.net/JMtYaskPnUwwanZfdGHY99-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![An animated man cradles an unborn baby](https://cdn.mos.cms.futurecdn.net/JMtYaskPnUwwanZfdGHY99.jpg) 

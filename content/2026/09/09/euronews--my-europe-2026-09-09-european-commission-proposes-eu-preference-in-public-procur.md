@@ -9,6 +9,11 @@ description: 'The EU executive has proposed a legislation introducing a European
   in public procurement for strategic public services, a move that clearly targets
   Chinese companies in a market valued at €2 billion annually. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/76/95/1200x675_cmsv2_f1eb2ee3-f15f-58ed-90f9-72b299cd6941-9907695.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## The EU executive has proposed a legislation introducing a European preference in public procurement for strategic public services, a move that clearly targets Chinese companies in a market valued at €2 billion annually.

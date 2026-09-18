@@ -10,6 +10,10 @@ description: At its annual Roblox Developer Conference (RDC), the company announ
   several new features, including new game-creation tools, expanded NPC capabilities,
   and the ability to make games available across platforms, including the web.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg?resize=1200,675
+categories:
+- Technology & Software
+- Video Gaming
+- Business & Entrepreneurship
 ---
 
 At its annual Roblox Developer Conference (RDC), the company behind the popular gaming platform announced several new features, including new game-creation tools, expanded NPC (non-player character) capabilities, and the ability to make games available across platforms, including the web. The company is also launching a dedicated Roblox Card and Roblox Wallet for creators.

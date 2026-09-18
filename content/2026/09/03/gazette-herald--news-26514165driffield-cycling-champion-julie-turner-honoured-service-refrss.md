@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Julie Turner, a lifelong cycling advocate in Driffield, has been honoured
   with a national lifetime achievement award.
 image: https://www.gazetteherald.co.uk/resources/images/21399679.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 A lifelong cycling advocate in Driffield has been honoured with a national lifetime achievement award.

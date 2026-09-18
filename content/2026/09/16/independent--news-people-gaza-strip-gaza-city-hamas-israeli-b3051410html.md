@@ -10,6 +10,10 @@ description: People carried bodies Wednesday as machines cleared rubble from a G
   City building that collapsed after Israeli strikes left it unstable. Reconstruction
   remains stalled as Israel demands Hamas disarm, with few excavators allowed in.
 image: https://static.independent.co.uk/2026/09/16/17/Israel_Palestinians_Gaza_89738.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Photos show rescuers recovering bodies after strike-damaged building collapses in Gaza

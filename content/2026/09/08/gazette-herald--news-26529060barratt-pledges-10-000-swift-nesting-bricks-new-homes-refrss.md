@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Barratt and David Wilson Homes, part of Barratt Redrow, has pledged to
   install 10,000 swift nesting bricks in new homes by the end of 2027.
 image: https://www.gazetteherald.co.uk/resources/images/21401045.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 A homebuilder in North Yorkshire is taking action to support wildlife by embedding nature into its developments.

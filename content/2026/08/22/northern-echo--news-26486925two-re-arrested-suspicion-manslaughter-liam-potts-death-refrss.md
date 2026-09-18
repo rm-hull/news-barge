@@ -8,6 +8,12 @@ published: '2026-08-22T00:00:00Z'
 description: Two men have been re-arrested on suspicion of manslaughter following
   the death of a man.
 image: https://www.thenorthernecho.co.uk/resources/images/21357726.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- History
 ---
 
 *(Image: NORTHUMBRIA POLICE)*

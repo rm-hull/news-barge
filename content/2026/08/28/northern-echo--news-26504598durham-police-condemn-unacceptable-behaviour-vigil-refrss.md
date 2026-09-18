@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Durham Police has condemned “completely unacceptable” behaviour after
   five vehicles were torched during a vigil.
 image: https://www.thenorthernecho.co.uk/resources/images/21382484.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Police have condemned “completely unacceptable” behaviour after five vehicles were torched during a gathering for one of the seven who died in the fatal A66 wrong-way crash.

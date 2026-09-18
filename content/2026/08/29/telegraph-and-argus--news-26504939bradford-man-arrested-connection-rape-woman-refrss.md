@@ -7,6 +7,10 @@ scraped_at: '2026-08-29T19:23:14Z'
 published: '2026-08-29T00:00:00Z'
 description: A second man has been arrested in connection with the rape of a woman.
 image: https://www.thetelegraphandargus.co.uk/resources/images/12150181.jpg?type=og-image&xType=0&yType=55
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: UGC)*

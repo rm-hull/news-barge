@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: As fans await news on Lanterns' future, Casey Bloys admits 'we're being
   very careful' about which DCU TV shows will be made.
 image: https://cdn.mos.cms.futurecdn.net/FqiDiKS2RTRNmTbMZHExkW-2000-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![A collage of close-up shots of Aaron Pierre's John Stewart and Kyle Chandler's Hal Jordan in Lanterns episode 5](https://cdn.mos.cms.futurecdn.net/FqiDiKS2RTRNmTbMZHExkW.jpg) 

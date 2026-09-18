@@ -10,6 +10,10 @@ description: High levels of unemployment and poverty have led to the northeast t
   wars. That escalated this week with a series of car rammings and a deadly house
   fire, leaving residents fearing for what comes next, as Holly Evans reports
 image: https://static.independent.co.uk/2026/08/28/09/2291447596..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Once a booming 19th-century powerhouse at the centre of the UK’s steel, iron and shipbuilding industry, Middlesbrough was a proud example of British business success on the northeast coast.

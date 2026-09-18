@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Aeroplane maker said to have watered down plans to restrict working from
   home to one day a week
 image: https://i.guim.co.uk/img/media/0989c7bbf7a76ae2ee15706734b236d45bd6e6bb/99_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a4332503ec9d6f9d1bb911e0ea90e66
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 Airbus has reportedly bowed to employee demands on remote working, after a series of strikes over its chief executive’s return-to-the office orders.

@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: England once again steamroller Pakistan to power to a series win on the
   fourth day of the second Test at Lord’s.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0b41/live/700c3bf0-a48d-11f1-8395-fb1eae51ae18.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Highlights: England humble poor Pakistan to confirm series win at Lord's

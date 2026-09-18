@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: M621 closure near Leeds after police-led incident causes eastbound delays
   between Elland Road and Hunslet Distributor, with drivers advised to allow…
 image: https://www.thetelegraphandargus.co.uk/resources/images/20434906.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: PA)*

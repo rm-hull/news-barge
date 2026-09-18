@@ -9,6 +9,10 @@ description: A Harrogate charity helping disabled children and adults experience
   benefits of horse riding is celebrating its 40th anniversary with an open day this
   month.
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/01/13/FPDRG_1_1786717485_b791e782-494e9a37243e5270.jpg?crop=3:2,smart&trim=&width=687&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Family & Parenting
 ---
 
 # Harrogate charity celebrates 40 years in the saddle

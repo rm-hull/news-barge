@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: Watch as Silicon Data's Steve Hou joins the Equity podcast to break down
   the index tracking what it costs to rent a GPU.
 image: https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn’t a straightforward way to put a price on compute — or for firms to hedge their exposure when the price changes.

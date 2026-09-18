@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T21:32:47Z'
 published: '2026-08-19T00:00:00Z'
 description: Police were called to reports of a stabbing on Tuesday morning
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/06/08/11/shepherd's-bush.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A 48-year-old man has been charged with murder after a woman was fatally stabbed at an address in west London.

@@ -7,6 +7,11 @@ scraped_at: '2026-08-19T13:10:02Z'
 published: '2026-08-19T00:00:00Z'
 description: More than 8,500 Americans are expected to die of melanoma this year
 image: https://static.independent.co.uk/2026/08/19/12/13/GettyImages-1223699960.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- Health & Fitness
 ---
 
 An experimental mRNA cancer drug has been found to stop the spread and return of melanoma for the first time, a potentially game-changing breakthrough for people with life-threatening skin cancer.

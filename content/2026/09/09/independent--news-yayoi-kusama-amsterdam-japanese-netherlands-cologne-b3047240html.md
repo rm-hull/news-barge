@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Amsterdam's Stedelijk Museum is hosting a major exhibition of Yayoi Kusama's
   work, two weeks after the celebrated Japanese artist's death at 97
 image: https://static.independent.co.uk/2026/09/09/12/Netherlands_Kusama_26973.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Yellow tentacles decorated with rhythmic patterns of dots swirl around a room, the patterns echoed on the floor and the walls. Reflections bounce off mirrors, blurring the boundaries of the space at Amsterdam 's Stedelijk Museum.

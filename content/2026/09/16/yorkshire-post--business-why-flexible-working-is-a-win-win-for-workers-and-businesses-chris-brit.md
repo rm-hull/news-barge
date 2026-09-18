@@ -9,6 +9,12 @@ description: It may now be behind us for this year but everyone is familiar with
   usual perils of summer - out of office replies, delayed projects and reduced teams
   grappling to meet deadlines.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjA0ZTYyMTFjLTY5NTYtNGQ1ZS1hN2M2LWU0NDM4NTJjZjJjMjowZGVlNmI5MC1lOTI0LTRkODktOGNmOC0xNDc2YmQ2ZmUzZDk=.jpg?crop=3:2,smart&trim=&width=800&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 # Why flexible working is a win-win for workers and businesses: Chris Britton

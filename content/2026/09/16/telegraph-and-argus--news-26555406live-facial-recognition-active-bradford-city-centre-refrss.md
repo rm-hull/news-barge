@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Police live facial recognition is now live in Bradford city centre as
   one onlooker told the T&A he had seen a man in handcuffs sitting in the…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21462844.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: T&A)*

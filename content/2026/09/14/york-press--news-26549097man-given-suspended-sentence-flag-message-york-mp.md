@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: “I don’t regret anything” said the man convicted of displaying a flag
   with a threatening message about York MP Rachael Maskell on the Bar…
 image: https://www.yorkpress.co.uk/resources/images/21453421.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: Newsquest staff)*

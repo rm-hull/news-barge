@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: A buyer has been found for a former children’s centre following a failed
   attempt to sell the building at auction.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21469515.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Google)*

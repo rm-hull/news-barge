@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Xianwei Xi, 26, who is also known as Jeremiah Xi and Francis Xi, is missing
   from the Heslington area and was last in contact with family at around…
 image: https://www.yorkpress.co.uk/resources/images/21449160.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: North Yorkshire Police)*

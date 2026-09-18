@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: Apple chief John Ternus tells us how it feels to be CEO, what innovation
   looks like, and how excited he is about what comes next.
 image: https://cdn.mos.cms.futurecdn.net/LrgzeijsW5oNsURHCMZb27-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![John Ternus Greg Joswiak](https://cdn.mos.cms.futurecdn.net/LrgzeijsW5oNsURHCMZb27.jpg) 

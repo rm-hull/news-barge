@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: Center for American Progress CEO Neera Tanden says the president is trying
   to ‘silence’ the group with yet another First Amendment threat
 image: https://static.independent.co.uk/2026/08/20/09/2026-08-19T110014Z_87065337_RC23XIAXTH87_RTRMADP_3_USA-TRUMP-DC-GUARD.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 Lawyers for President Donald Trump are threatening a $5 billion defamation lawsuit against a progressive think tank unless it retracts a report analyzing the administration’s National Guard deployments across the country, which reported no measurable impact on violent crime rates.

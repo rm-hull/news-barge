@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Australia batter Steve Smith says he is still traumatised by the aftermath
   of the ball-tampering scandal in 2018 and still gets flashbacks.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/017d/live/85697ef0-b274-11f1-b67f-2b40fa83cfed.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Steve Smith is confronted by media before returning home from Australia's tour of South Africa in 2018](https://ichef.bbci.co.uk/ace/standard/924/cpsprodpb/a34f/live/74a4ef40-b275-11f1-b67f-2b40fa83cfed.jpg)

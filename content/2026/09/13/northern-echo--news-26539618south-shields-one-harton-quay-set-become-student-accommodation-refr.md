@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: One Harton Quay in South Shields will become student accommodation for
   South Tyneside College and Marine School in a major town centre regeneration…
 image: https://www.thenorthernecho.co.uk/resources/images/21436059.jpg?type=og-image&xType=14&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A landmark riverside building is set for a new lease of life as part of a major redevelopment.

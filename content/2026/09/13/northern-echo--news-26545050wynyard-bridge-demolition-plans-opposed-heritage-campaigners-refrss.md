@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Campaigners have accused Stockton Council of “incompetence or scaremongering”
   and wasting money by planning to demolish two landmark bridges.
 image: https://www.thenorthernecho.co.uk/resources/images/21445398.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Campaigners have accused Stockton Council of “incompetence or scaremongering” and wasting money by planning to demolish two landmark bridges.

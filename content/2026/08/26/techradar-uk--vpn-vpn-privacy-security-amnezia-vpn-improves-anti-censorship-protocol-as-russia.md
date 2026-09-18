@@ -9,6 +9,8 @@ published: '2026-08-26T00:00:00Z'
 description: AmneziaWG 3.0 introduces more variability into traffic patterns, making
   it even more invisible and harder to detect
 image: https://cdn.mos.cms.futurecdn.net/Z8cccYZxkX5QXvAauhJhAn-837-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Amnezia VPN logo on black background](https://cdn.mos.cms.futurecdn.net/Z8cccYZxkX5QXvAauhJhAn.jpg) 

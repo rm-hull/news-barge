@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Brewers Fayre is set to close its sites across the UK next week with
   several places in Yorkshire being affected.
 image: https://www.yorkpress.co.uk/resources/images/21396705.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Getty)*

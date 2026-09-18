@@ -9,6 +9,12 @@ published: '2026-08-20T00:00:00Z'
 description: Clearing a huge illegal waste site in Bradford will be done “as quickly
   as possible”, Environment Secretary Angela Eagle has said.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmJkYWM5M2JiLTkyZjItNGNmZi1hZmJmLTUyOGU0N2U2YTVkYzo2Zjk2MjgxMC03OGU0LTRhMDctYTlmYi03NGY5MGE5Y2ZhY2E=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 # Clearing Bradford's Midland Road illegal dump to happen 'as quickly as possible', says Angela Eagle

@@ -10,6 +10,9 @@ description: Eleni Petinos tells inquiry her sacking as a minister in Dominic Pe
   government was potentially motivated by her reluctance to get rid of the building
   commissioner
 image: https://i.guim.co.uk/img/media/bd59c5f897561b7665279aba2279b959a6addace/468_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d96a001eddea16cd1e0073143cc6432
+categories:
+- UK
+- News & Politics
 ---
 
 The former New South Wales fair trading minister Eleni Petinos has given evidence at a corruption inquiry that she may have been used by fellow Liberals to try to get rid of the building commissioner David Chandler, recounting numerous attempts in 2022 to persuade her he was “dodgy” and should be sacked.

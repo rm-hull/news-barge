@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: North Yorkshire Police said a red-coloured Vauxhall Corsa in Bellfarm
   Avenue, Heworth was subjected to "criminal damage" between 6am and…
 image: https://www.gazetteherald.co.uk/resources/images/21366644.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

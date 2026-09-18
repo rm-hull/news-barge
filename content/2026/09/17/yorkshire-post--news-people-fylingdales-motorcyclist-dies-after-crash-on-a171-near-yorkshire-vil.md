@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: A motorcyclist has died after a crash on a rural Yorkshire road between
   Whitby and Scarborough.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/17/5/19/A171.png?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # Fylingdales: Motorcyclist dies after crash on A171 near Yorkshire village

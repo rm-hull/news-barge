@@ -7,6 +7,10 @@ scraped_at: '2026-09-13T18:46:57Z'
 published: '2026-09-13T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/10/police-backs-rain-dreamstime.webp
+categories:
+- Local
+- York
+- True Crime
 ---
 
 Police have being dealing with “significant anti-social behaviour” in York city centre this afternoon and evening.

@@ -7,6 +7,9 @@ scraped_at: '2026-09-09T19:15:36Z'
 published: '2026-09-09T00:00:00Z'
 description: Trump has repeatedly targeted Collins for ‘not smiling’
 image: https://static.independent.co.uk/2026/06/04/14/2197561087..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump has launched another personal attack on Kaitlan Collins, calling CNN’s chief White House correspondent “very dumb and unhappy.”

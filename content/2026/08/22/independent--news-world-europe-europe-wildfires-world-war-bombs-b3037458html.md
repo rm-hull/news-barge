@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: The scorched landscapes have exposed a potentially lethal threat lurking
   underground
 image: https://static.independent.co.uk/2026/08/22/07/Europe_Wildfire_Ordnance_78_18.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Scorched landscapes across Europe have exposed a potentially lethal threat lurking underground.

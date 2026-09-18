@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: A tree has blocked a major train line causing disruption in and out of
   York, which is expected to last all day, National Rail has said.
 image: https://www.gazetteherald.co.uk/resources/images/21373547.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Newsquest)*

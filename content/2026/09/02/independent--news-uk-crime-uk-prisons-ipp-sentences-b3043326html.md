@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: Britain’s former top judge said the IPP regime is a form of ‘preventative
   detention’ which has punished people ‘grossly excessively’
 image: https://static.independent.co.uk/2025/03/21/16/27/IPP-prisons-split.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Almost 700 never-released prisoners trapped on indefinite jail terms have been held for at least a decade longer than their original tariff, stark figures show, as the government lays out plans to finally end the injustice.

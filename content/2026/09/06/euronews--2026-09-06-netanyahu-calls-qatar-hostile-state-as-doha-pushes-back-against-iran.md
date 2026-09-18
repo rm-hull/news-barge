@@ -9,6 +9,9 @@ description: Netanyahu defended Israel’s 2025 strike on Doha and called Qatar 
   state," while Qatar separately accused Iran of selectively quoting a Qatari security
   assessment to justify attacks on its territory.
 image: https://images.euronews.com/articles/stories/09/90/29/75/1200x675_cmsv2_5c972e02-ca44-5237-92e9-d8ca83ba2efa-9902975.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Netanyahu defended Israel’s 2025 strike on Doha and called Qatar a “hostile state," while Qatar separately accused Iran of selectively quoting a Qatari security assessment to justify attacks on its territory.

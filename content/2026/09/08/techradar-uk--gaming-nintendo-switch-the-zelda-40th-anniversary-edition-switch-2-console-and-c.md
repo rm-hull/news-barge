@@ -9,6 +9,8 @@ published: '2026-09-08T00:00:00Z'
 description: This limited-edition hardware is surely going to sell out, don't miss
   it!
 image: https://cdn.mos.cms.futurecdn.net/c9H7cuE87XgRkNrbo48VvH-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Switch 2 Zelda Ocarina Remake controller next to the full Switch 2 Zelda Ocarina Remake console in its dock](https://cdn.mos.cms.futurecdn.net/c9H7cuE87XgRkNrbo48VvH.jpg) 

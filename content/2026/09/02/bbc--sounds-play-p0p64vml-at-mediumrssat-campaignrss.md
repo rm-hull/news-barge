@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T12:48:22Z'
 published: '2026-09-02T00:00:00Z'
 description: And, Nigel Farage speaks to Chris Mason
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ## Episode details

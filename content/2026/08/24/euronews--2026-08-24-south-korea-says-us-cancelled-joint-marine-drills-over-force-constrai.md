@@ -9,6 +9,10 @@ description: The cancellation follows US President Donald Trump's order last wee
   to scale down the separate annual Ulchi Freedom Shield exercises, cutting the joint
   drills from 11 days to five.
 image: https://images.euronews.com/articles/stories/09/88/61/65/1200x675_cmsv2_006ce1b8-b958-52bf-b595-c5f2bd50cc98-9886165.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## The cancellation follows US President Donald Trump's order last week to scale down the separate annual Ulchi Freedom Shield exercises, cutting the joint drills from 11 days to five.

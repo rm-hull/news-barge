@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Backstage, the winners continued the celebrations off-screen and addressed
   some of the ceremony's most viral moments.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/66da/live/c0676110-b0d1-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Comedy & Entertainment
 ---
 
 Watch: Highlights from the 2026 Emmy Awards, a star-studded and record-breaking night

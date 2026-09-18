@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: The images have emerged as Harp has drawn scrutiny over her apparent
   fervent devotion to Trump and her influence within his orbit
 image: https://static.independent.co.uk/2026/08/18/0/48/GettyImages-2290246092.jpeg?trim=1,0,2,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Newly surfaced photographs appear to show Donald Trump aide Natalie Harp chasing after the president’s golf cart on a course in Scotland, according to a new report.

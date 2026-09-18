@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: A motorcyclist in his 50s has died in hospital after a crash with a BMW
   in Doncaster.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/02/15/03/Doncaster-Road-near-Pastures-Road.png?trim=0,18,0,17&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
+- Technology & Software
 ---
 
 # Motorcyclist dies after crash with BMW as driver arrested in Doncaster

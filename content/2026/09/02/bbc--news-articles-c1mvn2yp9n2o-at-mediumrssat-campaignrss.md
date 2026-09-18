@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning
   the residents of Ceuta.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4607/live/199bd4e0-a719-11f1-8596-77a4bf645971.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![big crowd in Madrid](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/d964/live/0fe96540-a712-11f1-9802-bf0a63e5bc71.jpg)

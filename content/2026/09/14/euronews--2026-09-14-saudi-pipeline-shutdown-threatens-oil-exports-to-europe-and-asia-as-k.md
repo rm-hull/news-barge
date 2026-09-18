@@ -9,6 +9,11 @@ description: The pipeline disruption comes as Gulf oil exports have already fall
   sharply and shipping routes face further threats. With no restart date announced,
   the impact on deliveries to Europe and Asia depends on how long the shutdown lasts.
 image: https://images.euronews.com/articles/stories/09/91/24/46/1200x675_cmsv2_149ce1a2-7657-5a30-9817-feeb16881cde-9912446.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- History
 ---
 
 ## The pipeline disruption comes as Gulf oil exports have already fallen sharply and shipping routes face further threats. With no restart date announced, the impact on deliveries to Europe and Asia depends on how long the shutdown lasts.

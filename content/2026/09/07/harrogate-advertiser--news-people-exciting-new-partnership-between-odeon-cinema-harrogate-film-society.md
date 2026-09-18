@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Harrogate Film Society is taking a lead in the growing trend for live
   screenings in cinemas of major cultural events and art exhibitions.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjkzYzJiMmY4LWVjZWItNDY3OC1hNGY5LTI0ZGNhNWUwNDA1Nzo1NjZmNzQ0NC0wYmFjLTRlMjYtODEwOC0wNjA4MmFmNGI5Yzg=.jpg?crop=3:2,smart&trim=&width=1000&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Arts & Culture
+- Film & TV
 ---
 
 # Exciting new partnership between Odeon cinema, Harrogate Film Society and Friends of Mercer Art Gallery

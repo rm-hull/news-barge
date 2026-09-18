@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A DIFFERENT kind of exhibition is opening at Bradford’s 1in12 Club this
   September, featuring 25 cartoons drawn live at gigs.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21395178.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 A DIFFERENT kind of exhibition is opening at Bradford’s 1in12 Club this September, featuring 25 cartoons drawn live at gigs.

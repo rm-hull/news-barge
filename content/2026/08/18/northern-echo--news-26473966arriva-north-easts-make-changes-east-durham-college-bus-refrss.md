@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Students travelling to and from a County Durham college are being urged
   to check their bus options before the 2026/27 academic year, following…
 image: https://www.thenorthernecho.co.uk/resources/images/16914157.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: NQ ARCHIVE)*

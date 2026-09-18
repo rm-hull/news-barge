@@ -8,6 +8,13 @@ published: '2026-09-09T00:00:00Z'
 description: Doctor Who and Torchwood actor criticised after sharing M62 incident
   footage before West Yorkshire Police confirmed a 33-year-old woman had died.
 image: https://www.gazetteherald.co.uk/resources/images/18189194.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
+- News & Politics
+- True Crime
 ---
 
 *(Image: PA)*

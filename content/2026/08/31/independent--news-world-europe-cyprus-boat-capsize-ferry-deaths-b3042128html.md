@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: It was unclear if people remained trapped on the vessel, now lying on
   the seabed
 image: https://static.independent.co.uk/2026/08/31/13/2026-08-31T055534Z_593144417_RC2H9NALM7OB_RTRMADP_3_CYPRUS-VESSEL-CAPSIZE.JPG?trim=82,0,82,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 Ayten Bicer felt her 12-year-old daughter slip from her hands and disappear as a ferry capsized off northern Cyprus on Sunday, killing at least eight people.

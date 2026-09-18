@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Temperatures will begin to climb over the weekend and bring highs of
   25C at the beginning of next week
 image: https://static.independent.co.uk/2026/09/17/6/02/Rain-is-expected-on-Friday.png?trim=0,0,37,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Blustery conditions and cooler temperatures are expected across most of the country this week ahead of a dry and sunny spell over the weekend.

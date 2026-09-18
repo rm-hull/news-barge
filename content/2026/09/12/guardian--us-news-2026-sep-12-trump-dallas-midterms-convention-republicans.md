@@ -9,6 +9,9 @@ published: '2026-09-12T00:00:00Z'
 description: President the star of the show at two-day convention, but party’s plan
   to treat November elections as referendum on Trump himself poses grave risks
 image: https://i.guim.co.uk/img/media/e242e61f3242e545a1b11e891ef78e2b119f549d/0_0_2505_2005/master/2505.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0cf7b534961a2620a98183b14ddaeead
+categories:
+- UK
+- News & Politics
 ---
 
 “We’re going to have a good time listening to music,” Donald Trump told thousands of supporters in downtown Dallas before handing the mic to an opera singer, “because I’m getting a little bit tired of politics now.”

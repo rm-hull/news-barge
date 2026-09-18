@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: For the sixth time in history, a team of two women completed a spacewalk
   outside the International Space Station.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1337/live/9bc87da0-a648-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Science
+- History
 ---
 
 # Watch: Astronauts set out on rare all-female spacewalk

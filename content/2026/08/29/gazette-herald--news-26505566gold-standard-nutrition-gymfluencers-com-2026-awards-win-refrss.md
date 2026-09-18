@@ -7,6 +7,11 @@ scraped_at: '2026-08-29T19:24:43Z'
 published: '2026-08-29T00:00:00Z'
 description: A Yorkshire-born food entrepreneur is celebrating national industry success.
 image: https://www.gazetteherald.co.uk/resources/images/21386564.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 A Yorkshire-born food entrepreneur is celebrating national industry success.

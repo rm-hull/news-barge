@@ -9,6 +9,12 @@ description: One of the biggest threats any political party faces is that of sli
   into obscurity. It is a fear that is particularly acute when the party in question
   is the most electorally successful in the democratic world.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmFhYmFhOWZlLTQwZTEtNGY2NS1iMDMzLTQ4ZDZhZThkN2M5MTpmMjY0M2I4My0zMTI4LTQ0MWEtOWU2Mi03MTI2MjJmOWY4ZjU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 # Reshuffle for the Tories but can it save the party from obscurity?

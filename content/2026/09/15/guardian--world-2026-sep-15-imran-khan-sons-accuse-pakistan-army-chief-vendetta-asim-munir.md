@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Kasim and Sulaiman Khan tell Guardian they believe ex-PM is being ‘slowly
   killed’ by harsh treatment, driven by Asim Munir
 image: https://i.guim.co.uk/img/media/72c68488b8da344e8071b4f6fc14c55a6152dc6a/1180_728_5919_4736/master/5919.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=10074877ce3440a320231cec64eefb78
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 The sons of Imran Khan have accused Pakistan’s powerful army chief of a “personal vendetta” against the incarcerated former prime minister and expressed fears their father is being “slowly killed” in jail, as international pressure mounts over his prison conditions.

@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: The most dramatic shift occurred in Quebec, where a Liberal candidate
   ousted a Conservative for the first time since 2018
 image: https://static.independent.co.uk/2026/09/01/15/2026-08-22T170327Z_1620669597_RC2R3NA4Y3LD_RTRMADP_3_USA-TRUMP-TARIFFS-CANADA.JPG?trim=161,0,161,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Canada’s governing Liberals have secured victories in three special elections on Monday, providing a significant boost to Prime Minister Mark Carney amidst an intensifying trade dispute with U.S. President Donald Trump.

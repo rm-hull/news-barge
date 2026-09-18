@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Six Nordic national soccer associations have piled more pressure on embattled
   FIFA president Gianni Infantino by saying they had “lost confidence” in his leadership
 image: null
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Six Nordic national soccer associations piled more pressure on embattled FIFA President Gianni Infantino on Sunday by saying they had “lost confidence” in his leadership.

@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Federal judge warns against ‘downward spiral’ for First Amendment after
   administration threatens to revoke visas over pro-Palestine views
 image: https://static.independent.co.uk/2025/10/07/01/Stanford_Protests_10853.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The Trump administration unconstitutionally threatened student journalists with deportation for speaking out about the Israel-Palestine conflict and other hot-button issues, a California federal court ruled on Friday in a lawsuit from Stanford University’s student newspaper.

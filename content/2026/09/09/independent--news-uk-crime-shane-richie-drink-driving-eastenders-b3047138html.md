@@ -7,6 +7,9 @@ scraped_at: '2026-09-09T12:57:08Z'
 published: '2026-09-09T00:00:00Z'
 description: Police attended a Tesco petrol station in Harlow where Richie was arrested
 image: https://static.independent.co.uk/2026/09/09/10/482f4d1a1a7a92e0480dd1fbfe3ce7e9Y29udGVudHNlYXJjaGFwaSwxNzg5MDMyNTUz-2.77659328.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 *EastEnders* star Shane Richie will go on trial after he pleaded not guilty to drink-driving following an arrest at a petrol station in Essex.

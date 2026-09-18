@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A hotel close to Spring Bank in Hull’s city centre could be turned into
   a ‘house in multiple occupation’ (HMO) if plans are given the go-ahead.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjNiZTc2YzhlLTllMTAtNDk4NC05NzYyLWViNDMzZTUzZTk2YjoyOGM2ODY2Ni1lYzdiLTQ3ODgtYTlhMi04YTA0OWQ5ZGY0YWQ=.jpg?crop=3:2,smart&trim=&width=1099&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # City hotel could be converted into a 27 bedroom HMO

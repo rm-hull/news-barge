@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: The Blacksmiths Arms village pub in Huntington, York, will be reopening
   months after its former landlords retired.
 image: https://www.yorkpress.co.uk/resources/images/20769331.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Stonegate)*

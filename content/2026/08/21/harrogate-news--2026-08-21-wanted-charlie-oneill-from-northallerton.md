@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Charlie O’Neill, 27, from Northallerton, is wanted for recall to prison
   after breaching the terms of his prison release licence having being released partway
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/Oneil.webp
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 Charlie O’Neill, 27, from Northallerton, is wanted for recall to prison after breaching the terms of his prison release licence having being released partway through a sentence for drug dealing.

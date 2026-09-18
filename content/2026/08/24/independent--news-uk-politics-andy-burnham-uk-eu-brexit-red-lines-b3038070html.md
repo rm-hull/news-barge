@@ -9,6 +9,10 @@ description: The prime minister has promised to be ‘bolder’ than his predece
   taking the UK back to the heart of Europe but Downing Street refused to provide
   a ‘running commentary’ on discussions
 image: https://static.independent.co.uk/2026/08/24/11/download.-5.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Andy Burnham has committed to Sir Keir Starmer’s much-criticised Brexit red lines in a major blow to hopes that he would find a route back into the bloc.

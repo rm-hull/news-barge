@@ -12,6 +12,11 @@ description: In the gothic auditorium of St George’s Church in Leeds, I sat al
   holiday in Devon, the Preens went for a walk along the beach. Heather contracted
   the most aggressive strain of E. coli there is and, two weeks later, she was dead.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjlkNzlkNjM2LTM1MTQtNDA0Zi04ZDEzLTNiZTE4NzNhZTRhODphNTE5YWQxOS02NmRkLTQzMTQtOGI5YS02M2E1NTMxZTA4MDg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 # The gains of the water industry have been privatised and costs socialised - Tracy Brabin

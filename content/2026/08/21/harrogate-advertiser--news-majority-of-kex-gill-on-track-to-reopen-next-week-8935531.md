@@ -9,6 +9,10 @@ description: The majority of the new A59 realignment at Kex Gill is expected to 
   early next week, marking a major milestone in the £82.5m project between Harrogate
   and Skipton.
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/08/21/17/55/Kex-Gill.jpeg?trim=340,0,340,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 # Kex Gill: majority of new road ‘on track’ to open next week, council says

@@ -9,6 +9,10 @@ description: The Linton-on-Ouse Action Group accuses PM Andy Burnham's governmen
   of undermining devolution in an open letter over plans to house 1,200 male asylum
   seekers.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/LInton-village-and-base.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 OPEN LETTER — INTERNATIONAL DAY OF DEMOCRACY

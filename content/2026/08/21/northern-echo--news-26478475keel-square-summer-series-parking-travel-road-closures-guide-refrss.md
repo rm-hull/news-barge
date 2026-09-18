@@ -8,6 +8,12 @@ published: '2026-08-21T00:00:00Z'
 description: Sunderland City Council has issued travel and parking advice ahead of
   the In the Square Summer Series in Keel Square, with road closures planned…
 image: https://www.thenorthernecho.co.uk/resources/images/17490646.jpg?type=og-image&xType=0&yType=68
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- Lifestyle & Fashion
 ---
 
 *(Image: PA)*

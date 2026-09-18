@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: New recycling bins are being delivered in the Richmondshire area - but
   some residents aren’t impressed.
 image: https://www.thenorthernecho.co.uk/resources/images/21286412.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 New recycling bins are being delivered in the Richmondshire area - but some residents aren’t impressed.

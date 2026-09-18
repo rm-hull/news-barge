@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: AN exhibition will celebrate the art of tapestry weaving in Halifax,
   West Yorkshire.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21361993.jpg?type=og-image&xType=0&yType=112
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

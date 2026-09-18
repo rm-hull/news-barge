@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: ‘I actually like Abdul. I probably shouldn’t like him, but I do,’ rightwing
   anchor said after conducting a 25-minute interview with the progressive Senate hopeful
 image: https://static.independent.co.uk/2026/08/26/13/15/Screenshot-2026-08-26-at-9-29-13-AM.png?trim=0,266,0,203&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Fox News host Jesse Watters admitted he personally likes Abdul El-Sayed, the progressive Democrat running for U.S. Senate in Michigan, even though he strongly disagrees with the candidate’s policies.

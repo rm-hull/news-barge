@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T12:51:03Z'
 published: '2026-09-08T00:00:00Z'
 description: A North Yorkshire town came alive to the sound of brass at the weekend.
 image: https://www.yorkpress.co.uk/resources/images/21420758.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## North Yorkshire town comes alive to brass music at weekend

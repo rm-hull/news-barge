@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Cubans have historically received preferential access to a pathway to
   U.S. citizenship but they have been increasingly targeted by the Trump administration
 image: https://static.independent.co.uk/2026/09/11/19/download.-3.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 When Liexer De La Cruz walked into a federal courtroom in Miami on Jan. 9, he expected a routine immigration hearing. Instead, he was forced to make a life-changing decision in a matter of seconds: voluntarily return to Cuba or remain in the United States while facing the constant threat of deportation.

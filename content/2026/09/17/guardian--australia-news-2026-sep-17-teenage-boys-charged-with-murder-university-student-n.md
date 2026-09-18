@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Boys aged 14 and 16 charged after Marco Tapia, 23, was killed inside
   his family’s home in Glen Alpine
 image: https://i.guim.co.uk/img/media/2d9651d32b52640667d5a6a485e68119c8c421b6/126_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=559cddbf0017062839047944e89f16da
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Two teenage boys have been charged with murder after the shooting death of a university student in Sydney this month, which police say was a case of mistaken identity.

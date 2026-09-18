@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: Heartfelt tributes have been paid to a man who was dedicated to his family
   and inspired those around him.
 image: https://www.thenorthernecho.co.uk/resources/images/21351609.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Heartfelt tributes have been paid to a man who was dedicated to his family and inspired those around him.

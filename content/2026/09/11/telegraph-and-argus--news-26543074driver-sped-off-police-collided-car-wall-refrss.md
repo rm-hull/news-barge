@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: A driver who sped off from police after being signalled to stop collided
   with a car and a wall before jumping from his Ford Fiesta and running off.
 image: https://www.thetelegraphandargus.co.uk/resources/images/10971416.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: Google Street View)*

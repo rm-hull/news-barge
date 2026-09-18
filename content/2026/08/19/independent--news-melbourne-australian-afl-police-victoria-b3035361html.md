@@ -10,6 +10,11 @@ description: Five Australian rules footballers have been banned for the rest of 
   AFL season by the Sydney Swans for breaching club standards during a stay at a Melbourne
   hotel that led to a police investigation into sexual assault allegations
 image: https://static.independent.co.uk/2026/08/19/05/Australian_Rules_Football_Bans_46117.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- True Crime
 ---
 
 Five Australian rules footballers have been banned for the remainder of the AFL season by the Sydney Swans for breaching player codes of conduct during a stay at a Melbourne hotel that has led to a police investigation into allegations of sexual assault.

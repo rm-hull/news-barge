@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Once central to rural life, cafe-bistros are closing in the face of depopulation
   and falling alcohol consumption, but campaigners are seeking new ways forward
 image: https://i.guim.co.uk/img/media/72b78a57ad4ff8a5af86b9d982b194e9f2b4b1a7/548_0_5480_4384/master/5480.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eabc29c2aa368552a39450eec4fccb77
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 It is just past noon on a midweek day, and already every table at Au Bon Acceuil cafe-bistro in the northern Burgundy village of Saint-Martin-sur-Ouanne is taken.

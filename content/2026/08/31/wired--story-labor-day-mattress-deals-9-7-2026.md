@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: It’s one of the best times of the year to buy a mattress, and our top
   tested picks are on sale.
 image: https://media.wired.com/photos/6a96089130fad2f3a55f8e20/191:100/w_1280,c_limit/The-Best-Early-Labor-Day-Mattress-Deals.jpg
+categories:
+- Technology & Software
+- Science
+- Health & Fitness
 ---
 
 Mattress deals come around pretty frequently, which means you can almost always save at least *some* money. But the very best deals come around Memorial Day, Labor Day, Black Friday, and Cyber Monday. If you're in the market for a new bed, or you need some sleep accessories like bedding, pillows, or blankets, we've found deals on tried-and-tested favorites.

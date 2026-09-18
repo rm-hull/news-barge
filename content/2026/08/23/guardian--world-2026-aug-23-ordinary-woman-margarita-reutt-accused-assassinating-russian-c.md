@@ -9,6 +9,11 @@ description: Friends close to Margarita Reutt are shocked she could allegedly pl
   bomb that killed Ukrainian defector Robert Shageev, while others recall a stubborn
   grit to see any plan through
 image: https://i.guim.co.uk/img/media/061a2f31d3ba8a955314059e370bf330d7233aa3/0_129_1440_1152/master/1440.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd26890456aae16d9c8afaea5923fe84
+categories:
+- UK
+- News & Politics
+- True Crime
+- History
 ---
 
 It was just after dawn in Sevastopol when a powerful explosion tore through a quiet square in a residential district of the Russian-occupied Crimean port city.

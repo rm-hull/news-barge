@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: How has a drawn-out and public contract negotiation affected the relationship
   between Henry Pollock and Northampton Saints fans?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b732/live/6568d930-b156-11f1-914a-a5df9be7abbb.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Henry Pollock takes a selfie with fans](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d9c9/live/d2ce8db0-b153-11f1-8912-fb2bed4049e7.jpg)

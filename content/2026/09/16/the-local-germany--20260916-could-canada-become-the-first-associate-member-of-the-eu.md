@@ -9,6 +9,11 @@ description: EU chief Ursula von der Leyen raised the prospect on Wednesday of C
   becoming the 27-nation bloc's first "associate member', as she pitched closer cooperation
   on tech, defence and energy to Canadian leader Mark Carney.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260915__C8DN9NT__v1__MidRes__ComboFilesBelgiumCanadaEuPoliticsDiplomacy.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Von der Leyen told the European Parliament in Strasbourg that, as democracies facing a "fracture in the international rules-based system", Brussels and Ottawa needed to pull closer together.

@@ -10,6 +10,10 @@ description: A Southern California county will stop letting federal immigration 
   train at a local firing range over concerns about the Trump administration’s crackdown
   on immigrants
 image: https://static.independent.co.uk/2026/08/17/22/Immigration_ICE_Insurance_7832_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A Southern California county will stop letting federal immigration authorities train at a local firing range over concerns about the Trump administration's violent crackdown on immigrants.

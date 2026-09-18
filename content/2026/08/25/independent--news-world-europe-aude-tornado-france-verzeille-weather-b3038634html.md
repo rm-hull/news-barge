@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T08:55:00Z'
 published: '2026-08-25T00:00:00Z'
 description: Social media videos show the huge tornado above Verzeille
 image: https://static.independent.co.uk/2026/08/25/07/2026-08-24T191047Z_1225761210_RC275NAKNUZQ_RTRMADP_3_FRANCE-WEATHER.JPG?trim=657,0,657,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A huge tornado has swept through a region of France, causing chaos and destruction in its path.

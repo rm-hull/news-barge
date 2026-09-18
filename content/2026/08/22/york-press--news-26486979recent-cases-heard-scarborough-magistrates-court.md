@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Four violent men were among defendants sentenced recently at Scarborough
   Magistrates Court. Three had injured other people. The fourth had a weapon…
 image: https://www.yorkpress.co.uk/resources/images/20629021.jpg?type=og-image&xType=0&yType=24
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: Newsquest)*

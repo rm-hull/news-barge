@@ -8,6 +8,10 @@ scraped_at: '2026-09-16T13:27:28Z'
 published: '2026-09-16T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/anna-york-great-british-sewing-bee-2026-final-1.webp
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 If you haven’t watched the final of *The Great British Sewing Bee* 2026, look away now.

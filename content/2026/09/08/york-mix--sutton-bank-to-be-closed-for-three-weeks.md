@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T12:51:32Z'
 published: '2026-09-08T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/799334071_1753603139266087_7831178717905596475_n-e1788860515800.jpg
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 The annual closure of the A170 at Sutton Bank will last three weeks this year.

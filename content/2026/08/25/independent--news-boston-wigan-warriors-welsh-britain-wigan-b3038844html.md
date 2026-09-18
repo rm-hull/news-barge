@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Billy Boston, the Welsh rugby league great who blazed a trail for Black
   sportspeople in Britain during the 1950s and ’60s, has died at age 92
 image: https://static.independent.co.uk/2026/08/25/12/Rugby_Obit_Boston_38_8_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Billy Boston, the Welsh rugby league great who blazed a trail for Black sportspeople in Britain during the 1950s and ’60s, has died. He was 92.

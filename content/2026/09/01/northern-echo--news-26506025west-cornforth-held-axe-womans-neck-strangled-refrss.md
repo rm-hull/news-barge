@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: A man who made his long-term partner’s life “hell” in the months after
   his release from custody, is back behind bars.
 image: https://www.thenorthernecho.co.uk/resources/images/21387224.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 *(Image: Durham Constabulary)*

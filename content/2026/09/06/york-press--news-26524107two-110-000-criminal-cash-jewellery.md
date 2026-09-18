@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Two York men caught with more than £110,000 of criminal cash and items
   of jewellery have both received suspended prison sentences.
 image: https://www.yorkpress.co.uk/resources/images/17983755.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
+- Personal Finance & Investing
 ---
 
 *(Image: Archive)*

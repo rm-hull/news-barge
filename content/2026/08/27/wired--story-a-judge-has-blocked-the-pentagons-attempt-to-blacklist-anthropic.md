@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: A federal judge has called the Department of Defense’s designation of
   Anthropic as a national security supply-chain risk “illegal and baseless.”
 image: https://media.wired.com/photos/6a90f2d127d3f5cec6f46d70/191:100/w_1280,c_limit/2261854833
+categories:
+- Technology & Software
+- Science
+- News & Politics
 ---
 
 A federal judge on Thursday barred the Trump administration from designating Anthropic a national security risk over a dispute about the use of its AI models, ruling that the designation amounted to unconstitutional retaliation.

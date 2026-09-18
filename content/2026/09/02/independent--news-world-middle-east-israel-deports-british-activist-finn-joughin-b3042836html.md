@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Finn Joughin, 22, joined international activists trying to prevent settlers
   from entering the Palestinian village of Umm al-Khair
 image: https://static.independent.co.uk/2026/09/01/14/53/IMG-20260901-WA0001.jpeg?trim=122,0,625,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A British citizen who was deported from Israel says he was locked in a shed and held at gunpoint by Israeli settlers after trying to prevent them from entering a Palestinian village.

@@ -9,6 +9,11 @@ description: As part of the plea agreement, Saab agreed to cooperate with ongoin
   federal investigations in the United States and to hand over 195 million dollars
   (some €168.9 million) derived from the corruption scheme.
 image: https://images.euronews.com/articles/stories/09/91/47/63/1200x675_cmsv2_8f84e196-5e83-5ed3-92fc-bb47d4ea8f84-9914763.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## As part of the plea agreement, Saab agreed to cooperate with ongoing federal investigations in the United States and to hand over 195 million dollars (some €168.9 million) derived from the corruption scheme.

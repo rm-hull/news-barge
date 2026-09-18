@@ -8,6 +8,13 @@ published: '2026-08-19T00:00:00Z'
 description: An ambitious accountancy firm is preparing for further growth after relocating
   to larger premises to support its expanding workforce and future…
 image: https://www.thenorthernecho.co.uk/resources/images/21319470.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 *(Image: Elliot Nichol Photo)*

@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: Foreign affairs minister Penny Wong confirms increase to number of Australians
   missing
 image: https://i.guim.co.uk/img/media/f02eecbe953d570b2743603fdbe3e37f1e33be01/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=010487d443b56993af47e662230393f3
+categories:
+- UK
+- News & Politics
 ---
 
 Prayers at the Nepali cultural centre at Diggers Rest in Melbourne. The death toll from the Nepal flash flood is near 400. Photograph: Jesse Thompson/AAP

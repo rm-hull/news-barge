@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Three men suspected of planning to steal cars have been arrested after
   police stopped a suspicious vehicle.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21357262.jpg?type=og-image&xType=0&yType=433
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: West Yorkshire Police)*

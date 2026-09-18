@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The newly refurbished Little Years Sand Hutton has opened its doors on
   the York Biotech Campus.
 image: https://www.yorkpress.co.uk/resources/images/21329510.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 ## Newly refurbished nursery opens at York Biotech Campus in Sand Hutton

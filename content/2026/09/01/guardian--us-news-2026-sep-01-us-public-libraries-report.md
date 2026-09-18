@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: PEN America study details verbal and physical threats to librarians,
   funding cuts and proliferation of book bans
 image: https://i.guim.co.uk/img/media/1ef2c74f2f6e08322fc8405a8298b32004241d3f/149_0_4561_3648/master/4561.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=013c4d3d5495a40124db1d094ba76798
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Public libraries in the US are “at breaking point” because of an onslaught of political interference, harassment and ideological censorship, a new report published on Tuesday said.

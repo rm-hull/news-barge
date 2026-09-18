@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: I tried Noise’s new open earbuds that pack in sound by Bose — here are
   my first impressions.
 image: https://cdn.mos.cms.futurecdn.net/hsnowbU4tdGTgrMJxQzZrD-2560-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ![Woman holding the Noise Master Buds Open inside charging case](https://cdn.mos.cms.futurecdn.net/hsnowbU4tdGTgrMJxQzZrD.jpg) 

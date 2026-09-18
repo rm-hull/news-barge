@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Dominic Calvert-Lewin has now scored in Leeds' past five league matches.
   Is he ready for an England recall?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/48b2/live/74c52a90-b08a-11f1-8f9f-33e0914f3492.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 ![Dominic Calvert-Lewin celebrates after scoring for Leeds United against Newcastle United](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/48b2/live/74c52a90-b08a-11f1-8f9f-33e0914f3492.jpg)

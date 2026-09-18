@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Drones are being deployed in Calderdale to tackle anti-social behaviour
   related to misuse of fireworks, with the bonfire season fast approaching.
 image: https://www.thetelegraphandargus.co.uk/resources/images/16089182.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 Drones are being deployed in Calderdale to tackle anti-social behaviour related to misuse of fireworks, with the bonfire season fast approaching.

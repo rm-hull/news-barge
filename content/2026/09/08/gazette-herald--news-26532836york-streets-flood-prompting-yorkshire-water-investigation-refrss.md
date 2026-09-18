@@ -7,6 +7,11 @@ scraped_at: '2026-09-08T19:25:46Z'
 published: '2026-09-08T00:00:00Z'
 description: Flooding in a York village's streets has prompted concerns and an investigation.
 image: https://www.gazetteherald.co.uk/resources/images/21426789.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 Flooding in a York village's streets has prompted concerns and an investigation.

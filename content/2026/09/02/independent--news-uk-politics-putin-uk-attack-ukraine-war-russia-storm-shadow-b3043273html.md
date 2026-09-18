@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: It comes after the UK last month agreed to provide Ukraine with Storm
   Shadow blueprints
 image: https://static.independent.co.uk/2026/09/02/08/2292555309..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Vladimir Putin has said it is a "military secret” whether or not Russia is weighing up possible strikes on British military sites, in an ominous new warning over the UK’s support for Ukraine.

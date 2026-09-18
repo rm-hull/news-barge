@@ -9,6 +9,11 @@ description: The U.S. has deported more than 160 people to Haiti for the first t
   since the Trump administration won a legal battle to end Temporary Protected Status
   for some 350,000 Haitians
 image: https://static.independent.co.uk/2026/08/21/04/APTOPIX_Haiti_Displaced_39_56.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Health & Fitness
 ---
 
 The U.S. deported more than 160 people to Haiti on Thursday for the first time since the Trump administration won a legal battle to end Temporary Protected Status for some 350,000 Haitians.

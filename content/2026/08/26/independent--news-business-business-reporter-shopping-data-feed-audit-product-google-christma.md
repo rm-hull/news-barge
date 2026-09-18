@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH
   TAKES SOLE RESPONSIBILITY FOR THE CONTENTS
 image: https://static.independent.co.uk/2026/08/20/20/48/Feedonomics_Header-Image_iStock-1503698559.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 *Feedonomics is a Business Reporter client*

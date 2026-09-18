@@ -7,6 +7,9 @@ scraped_at: '2026-09-05T11:49:10Z'
 published: '2026-09-05T00:00:00Z'
 description: Witkoff and Kushner are set to visit Moscow and Kyiv over the weekend
 image: https://static.independent.co.uk/2026/06/30/08/2282101138..?trim=0,356,1010,588&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Vladimir Putin’s deputy foreign minister has issued a warning to Donald Trump as envoys for the US president are believed to be heading to Moscow for talks to end Russia’s invasion of Ukraine.

@@ -8,6 +8,10 @@ scraped_at: '2026-09-15T13:29:16Z'
 published: '2026-09-15T00:00:00Z'
 description: Claude just got new finance-specific tools
 image: https://cdn.mos.cms.futurecdn.net/eZs7VDaqqgXt5TBmcicAmS-1920-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Claude Tag](https://cdn.mos.cms.futurecdn.net/eZs7VDaqqgXt5TBmcicAmS.jpg) 

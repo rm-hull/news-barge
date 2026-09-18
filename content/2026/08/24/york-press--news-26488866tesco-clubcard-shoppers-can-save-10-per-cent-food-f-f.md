@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Tesco customers can get more from their Clubcard by upgrading it to Clubcard
   Plus, including 10 off groceries and F&F clothing.
 image: https://www.yorkpress.co.uk/resources/images/21361071.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: Getty)*

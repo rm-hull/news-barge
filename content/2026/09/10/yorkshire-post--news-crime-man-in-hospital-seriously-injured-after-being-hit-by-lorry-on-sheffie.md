@@ -8,6 +8,13 @@ published: '2026-09-10T00:00:00Z'
 description: A 49-year-old man has been seriously injured after being hit by a lorry
   on the Sheffield Parkway, police have appealed for witnesses.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/10/11/26/Sheffield-Parkway.png?trim=0,15,0,15&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- Health & Fitness
+- News & Politics
 ---
 
 # Man in hospital seriously injured after being hit by lorry on Sheffield Parkway

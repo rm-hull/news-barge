@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Alternative for Germany, or AfD, has become a major political force in
   the 13 years since its founding
 image: https://static.independent.co.uk/2026/09/07/13/Germany_Election_67343.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 Alternative for Germany, or AfD, has established itself as a significant political force in the 13 years since its founding, but it has never been part of any state or federal government. That’s a result of what is often called a “firewall” against cooperation with the anti-immigrant, far-right party.

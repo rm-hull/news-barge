@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Brighouse town centre’s new look western area is set to open in late
   September and updated plans for the rest of the work are set to be confirmed,…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21386786.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 ### What is the Public Notice Portal?

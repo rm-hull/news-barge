@@ -8,6 +8,8 @@ published: '2026-09-07T00:00:00Z'
 description: This Kindle Colorsoft alternative beats Amazon's offering on value, but
   it still has some big shortcomings.
 image: https://cdn.mos.cms.futurecdn.net/bhpUjB384FaJRPjsdzrx4k-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

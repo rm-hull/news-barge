@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Chain has long avoided deliveries in Great Britain but says service now
   offers ‘opportunity for profitable growth’
 image: https://i.guim.co.uk/img/media/1b7c8f98da1e636da0b6c42de5be2d44643e90fd/576_0_4840_3872/master/4840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=16a8dc496f8202ecffd0f1b03d82b4b2
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Primark will offer home delivery in Great Britain for the first time, as the fast-fashion retailer prepares to spin off from its owner Associated British Foods (ABF).

@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: Trigger Point has been airing its fourth series on ITV, and fans have
   shared similar views on the latest episode
 image: https://www.gazetteherald.co.uk/resources/images/21423498.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
+- Sports
 ---
 
 *(Image: ITV)*

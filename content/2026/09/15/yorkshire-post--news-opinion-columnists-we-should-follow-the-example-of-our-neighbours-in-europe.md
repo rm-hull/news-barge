@@ -12,6 +12,11 @@ description: I can just about set my watch by the nuisance phone calls that have
   one of the local energy advisers for your area,” at which point I put the phone
   down.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE1YzM1NjA0LWJhMmUtNDdlMS04NGQwLWYwODVmNWQ1N2E3ZDo3OWVlMThlMi04YzA5LTRmN2EtYTQ2OS02ZTMyNGViZTcxNzY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # We should follow the example of our neighbours in Europe in banning cold calling - Andrew Vine

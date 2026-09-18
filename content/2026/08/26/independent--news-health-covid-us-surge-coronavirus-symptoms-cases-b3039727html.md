@@ -8,6 +8,9 @@ scraped_at: '2026-08-26T23:24:43Z'
 published: '2026-08-26T00:00:00Z'
 description: Coronavirus levels are now growing or likely growing in all but two states
 image: https://static.independent.co.uk/2026/08/26/17/21/GettyImages-1292639188.jpeg?trim=56,0,56,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A familiar Covid variant is spreading around the U.S. – but the symptoms doctors are seeing are a little different than normal.

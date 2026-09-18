@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: New South Wales, Victoria and Tasmania just experienced their warmest-ever
   winters – and BoM says above-average temperatures expected to continue
 image: https://i.guim.co.uk/img/media/2bddf3792e0d60b8a650d58c3f23060d6a0df4c3/887_0_4815_3852/master/4815.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=90a0ae4e9c8de41dfaa01e080c6e4506
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Australia’s two biggest cities had their hottest and equal hottest winters on record, with three eastern states also breaking temperature records.

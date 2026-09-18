@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: For days, state media channels have urged citizens to join the effort,
   broadcasting that training with assault rifles will commence shortly
 image: https://static.independent.co.uk/2026/09/18/15/29/GettyImages-2295245701.jpg?trim=0,80,0,78&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Hundreds of thousands of Iranians took to the streets of Tehran on Friday in a massive government-organized display of defiance as they pledged their readiness to take up arms in the largest demonstration since the war began in February.

@@ -10,6 +10,9 @@ description: I spent two weeks with the Kodak Pixpro AZ653 bridge camera, and af
   using its 65x zoom, I'm not sure my 70-200mm pro lens will ever seem good enough
   again
 image: https://cdn.mos.cms.futurecdn.net/MGtqhXHhd4FiYQYtGH2Kc9-2560-80.jpg
+categories:
+- Technology & Software
+- Lifestyle & Fashion
 ---
 
 ### TechRadar Verdict

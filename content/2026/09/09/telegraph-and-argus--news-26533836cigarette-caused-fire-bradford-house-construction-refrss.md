@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A cigarette is believed to have caused a fire at a house under construction
   in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21428514.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Pixabay)*

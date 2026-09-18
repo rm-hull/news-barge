@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: An Iranian drone was intercepted early Monday over the United Arab Emirates
   territorial waters, the Defense Ministry said
 image: https://static.independent.co.uk/2026/08/31/08/Iran_US_131_5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 An Iranian drone was intercepted early Monday over United Arab Emirates territorial waters, the Defense Ministry said. The attack followed an exchange of fire between Iran and the United States on the weekend, which was the first significant military action in the war for more than a month.

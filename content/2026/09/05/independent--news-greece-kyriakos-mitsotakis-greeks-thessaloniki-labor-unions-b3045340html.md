@@ -10,6 +10,11 @@ description: Greek Prime Minister Kyriakos Mitsotakis has promised more than 2 b
   euros or $2.3 billion in tax cuts, salary increases and other support measures before
   Greece’s general election next year
 image: https://static.independent.co.uk/2026/09/05/20/Greece_Trade_Fair__2_56.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Greece’s conservative government promised sweeping tax breaks and pay hikes before a general election next year, as thousands gathered in protest late Saturday over the high cost of living.

@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: England leave Brydon Carse out of their squad for the third and final
   Test against Pakistan at Edgbaston.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d77a/live/41c84000-a6da-11f1-acae-21b536d72e0e.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Brydon Carse bowling for England](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/d77a/live/41c84000-a6da-11f1-acae-21b536d72e0e.jpg)

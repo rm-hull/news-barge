@@ -9,6 +9,12 @@ scraped_at: '2026-08-28T22:14:21Z'
 published: '2026-08-28T00:00:00Z'
 description: If policymakers affect your business, time to influence policymakers.
 image: https://cdn.mos.cms.futurecdn.net/mSegjyKT4pHoDKsKQkQa9j-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![Nvidia logo](https://cdn.mos.cms.futurecdn.net/mSegjyKT4pHoDKsKQkQa9j.jpg) 

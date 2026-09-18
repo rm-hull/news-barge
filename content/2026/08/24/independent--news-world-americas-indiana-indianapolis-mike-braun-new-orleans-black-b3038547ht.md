@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: A majority Black community in Indiana is frustrated by persistent power
   outages caused by storms nearly two weeks ago
 image: https://static.independent.co.uk/2026/08/24/23/US_Severe_Weather_Power_Outages_49279.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Things became all-too familiar for Kimya Williams after storms rumbled through Gary, Indiana, earlier this month leaving big chunks of the mostly-Black city in the dark for two weeks.

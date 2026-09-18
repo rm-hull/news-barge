@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Prince Harry, Meghan, and their two children are believed to have flown
   into the country privately from California.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/64db/live/e2854ca0-a148-11f1-9311-09d4e1fc9016.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Harry and Meghan seen walking together in Sydney harbour in April. He is wearing a blue shirt and a cap, she is wearing a striped blue shirt.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/64db/live/e2854ca0-a148-11f1-9311-09d4e1fc9016.jpg)

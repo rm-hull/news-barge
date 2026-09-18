@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: England youth footballer Lottie Day has matched her success on the pitch
   with impressive GCSE results after balancing her studies with an elite…
 image: https://www.thenorthernecho.co.uk/resources/images/21346587.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Supplied)*

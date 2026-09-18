@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Middlesbrough FC supporters paid tribute to Cleveland Police officers
   PC Matthew Blades and PC Tom Clough before the West Brom game at the Riverside.
 image: https://www.thenorthernecho.co.uk/resources/images/21388046.jpg?type=og-image&xType=0&yType=129
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 Middlesbrough supporters have paid an emotional tribute to two Cleveland Police officers killed in the devastating A66 crash.

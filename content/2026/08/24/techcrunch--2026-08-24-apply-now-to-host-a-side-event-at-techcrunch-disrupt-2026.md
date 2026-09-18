@@ -8,6 +8,9 @@ published: '2026-08-24T00:00:00Z'
 description: Apply before September 4 to be a part of the TechCrunch Disrupt community
   by hosting your own Side Event.
 image: https://techcrunch.com/wp-content/uploads/2026/06/55351251811_689b675dfe_k.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 We’re getting close to TechCrunch Disrupt 2026! In less than two months, more than 10,000 innovators, founders, investors, and industry leaders will gather in San Francisco. You can meet up with that community the week of TechCrunch Disrupt, which runs from October 13-15.

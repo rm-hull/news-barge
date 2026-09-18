@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Ursula von der Leyen wants social media to be banned for under-13s across
   Europe
 image: https://static.independent.co.uk/2026/09/17/11/2026-09-17T083644Z_147728374_RC2WKNA5EBKD_RTRMADP_3_EU-SOCIALMEDIA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 European Commission president Ursula von der Leyen has outlined a major proposal aimed at protecting children from online risks on Thursday, recommending a ban on under-13s using social media platforms alongside a mandate for digital services to create dedicated safe accounts for minors.

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The trial of a Libyan man is delayed for a third time, after new evidence
   on the 37-year-old case came to light three days ago.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9057/live/3d1ddb50-cf68-11ef-94cb-5f844ceb9e30.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Emergency service workers stand next to the wreckage of Pan Am flight 103 in a field east of Lockerbie.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/9057/live/3d1ddb50-cf68-11ef-94cb-5f844ceb9e30.jpg)

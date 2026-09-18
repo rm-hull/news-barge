@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: Fontaines D.C. closed Saturday night’s Leeds Festival with a huge set
   in front of a packed crowd as speculation continues to grow that the band…
 image: https://www.thenorthernecho.co.uk/resources/images/21389624.jpg?type=og-image&xType=0&yType=188
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Fontaines D.C. closed Saturday night’s Leeds Festival with a huge set in front of a packed crowd as speculation continues to grow that the band could be heading to Newcastle for a major stadium show next summer.

@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: Civil society groups argue climate crisis means transport sector needs
   to urgently reduce its carbon emissions
 image: https://i.guim.co.uk/img/media/fc489efd3f48e8462de130053468f07bfe0ad7a6/100_33_4035_3230/master/4035.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f51aaaa7f9ec1e8c9fd0191bf2bd9f39
+categories:
+- UK
+- News & Politics
 ---
 
 Dozens of civil society groups have demanded the UK government do more to promote cycling and walking, after this summer’s extreme heat exposed the desperate need to decarbonise transport.

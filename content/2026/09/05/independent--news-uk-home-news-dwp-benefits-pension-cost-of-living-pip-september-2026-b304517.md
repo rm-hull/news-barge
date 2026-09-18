@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: All the essential cost of living information whether claiming benefits
   or not
 image: https://static.independent.co.uk/2026/08/14/8/51/iStock-2252664062.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Heading into September, the cost of living remains at the forefront of many people’s minds across the UK.

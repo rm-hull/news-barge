@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Decision by carmaker, which is battling Trump tariffs and fallout from
   cyber-attack, labelled a ‘body blow for workers’
 image: https://i.guim.co.uk/img/media/6912c7af4a42678444df822e6f35395f7da4e8e7/327_0_3273_2620/master/3273.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32ff7e0311038f18bb5bd147e4e7b005
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Jaguar Land Rover has announced thousands of job cuts in a “body blow for workers” as it grapples with tough trading conditions, Donald Trump’s tariff wars and the fallout from a cyber-attack.

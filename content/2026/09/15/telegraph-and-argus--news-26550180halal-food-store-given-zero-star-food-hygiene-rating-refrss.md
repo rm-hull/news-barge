@@ -8,6 +8,12 @@ scraped_at: '2026-09-15T11:26:56Z'
 published: '2026-09-15T00:00:00Z'
 description: A halal food store has been given a zero-star food hygiene rating.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21455252.jpg?type=og-image&xType=0&yType=117
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
+- Health & Fitness
 ---
 
 *(Image: Google Maps)*

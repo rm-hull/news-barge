@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: Samsung has announced its latest gaming monitors at Gamescom 2026, but
   are some of the specs overkill?
 image: https://cdn.mos.cms.futurecdn.net/AS7DFf4RfCDKSXZEX4AjdC-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Samsung's Gamescom monitor announcement](https://cdn.mos.cms.futurecdn.net/AS7DFf4RfCDKSXZEX4AjdC.jpg) 

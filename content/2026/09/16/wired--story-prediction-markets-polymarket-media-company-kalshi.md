@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: 'The legal battle over whether prediction markets are a form of gambling
   has overshadowed something else entirely: They’re already a new form of media.'
 image: https://media.wired.com/photos/6aa18017989080f6e79c9c92/191:100/w_1280,c_limit/Polymarket-Marketing.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Every day, a newsletter from the prediction market Polymarket hits my inbox with a subject line that could easily come from any number of politics-focused newspapers or magazines. Recent entries include “Houthis Reveal New Precision Strike Capabilities,” “BREAKING: Trump Unveils Green Energy Beam,” and “World War I, 2.0?”

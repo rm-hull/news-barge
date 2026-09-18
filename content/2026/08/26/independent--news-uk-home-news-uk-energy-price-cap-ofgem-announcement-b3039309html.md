@@ -7,6 +7,11 @@ scraped_at: '2026-08-26T08:57:36Z'
 published: '2026-08-26T00:00:00Z'
 description: It marks the highest average bill since July 2023
 image: https://static.independent.co.uk/2026/05/25/07/22114206-1c5fba89-1283-45db-a88b-4ae02052b461.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Millions of households will face a winter squeeze from energy bills as price rises are set to hit the highest level in three years from October.

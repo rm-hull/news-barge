@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: The African serval, illegally enclosed in the back yard, was subdued
   and transferred to an animal welfare facility
 image: https://i.guim.co.uk/img/media/e2f7d6801f4edf76a5b95296e36090fe78986c73/1004_670_2865_2292/master/2865.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2aa7fa2ed42f8e0b03a88f35c8038b4b
+categories:
+- UK
+- News & Politics
+- Pets & Animals
 ---
 
 Louisiana firefighters responding to a small house blaze found a wildcat native to sub-Saharan Africa illegally enclosed in the back yard, and an animal welfare agency is now seeking to place the creature in an appropriate environment, according to officials.

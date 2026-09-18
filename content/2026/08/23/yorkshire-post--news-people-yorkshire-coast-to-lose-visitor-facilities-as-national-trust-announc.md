@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Two of the coast’s most beloved beauty spots are set to lose visitor
   facilities, it has been announced.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZiNTVjNzBjLTkxNDUtNDMxYS1iMTVmLTc0YjU3Y2Q5Yjg3ZToyZTBmNzRkNC1mNjY3LTRhMWItOWZhZi01OTkwYWUzY2ZkNWU=.jpg?crop=3:2,smart&trim=&width=678&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Yorkshire coast to lose visitor facilities as National Trust announces closures

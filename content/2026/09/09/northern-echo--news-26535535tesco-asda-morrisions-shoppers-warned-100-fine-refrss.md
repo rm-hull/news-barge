@@ -9,6 +9,12 @@ published: '2026-09-09T00:00:00Z'
 description: Supermarket shoppers could be fined up to £100 for breaking a parking
   rule.
 image: https://www.thenorthernecho.co.uk/resources/images/20616340.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

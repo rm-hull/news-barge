@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: BRADFORD Council is inviting residents and businesses to explore the
   future of electric vehicles and sustainable transport
 image: https://www.thetelegraphandargus.co.uk/resources/images/21462039.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: PA - John Walton)*

@@ -10,6 +10,11 @@ description: Friends of this newspaper in Sheffield who trusted The Yorkshire Po
   Steel City from a city council that was hell-bent on destroying them, will recall
   the battle all too well.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjNmNjEyMGQ2LTk0N2YtNDM0OC05ZDg5LWEzNDE5OTg2NmFiNzowNWQyMTM0Ny00NjNlLTQ1NmItYWVkMi0yMTk1YzI2NmFiZGM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Sheffield Trees: some good people need a little help - together, we can do this...

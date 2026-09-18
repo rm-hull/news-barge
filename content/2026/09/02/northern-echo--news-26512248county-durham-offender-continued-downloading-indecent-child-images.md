@@ -9,6 +9,12 @@ published: '2026-09-02T00:00:00Z'
 description: A man given a suspended sentence late last year on charges of possession
   of child sexual abuse images has now been jailed for similar offending…
 image: https://www.thenorthernecho.co.uk/resources/images/21396893.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
+- Family & Parenting
 ---
 
 *(Image: Durham Constabulary)*

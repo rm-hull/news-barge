@@ -9,6 +9,9 @@ description: 'The initiative gathers around 120 people from Spanish ports to sup
   the city after late-July migration pressures. After days of clashes, no further
   mobilisation is expected in the autonomous city this weekend. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/37/81/1200x675_cmsv2_2b83b370-5a9b-5e2c-99d6-607efa94d5e7-9893781.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## The initiative gathers around 120 people from Spanish ports to support the city after late-July migration pressures. After days of clashes, no further mobilisation is expected in the autonomous city this weekend.

@@ -7,6 +7,9 @@ scraped_at: '2026-08-23T12:58:06Z'
 published: '2026-08-23T00:00:00Z'
 description: How a tiny little electronic switch sparked the computer revolution.
 image: https://media.wired.com/photos/6a88b7a7b99cef7a28794f29/191:100/w_1280,c_limit/Science_Transistors%20Changed%20Everything.%20Here%E2%80%99s%20How%20They%20Work_v1.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Last week I revealed the sneaky physics behind the “joule thief,” an electrical circuit that lets you squeeze more energy out of seemingly dead batteries. The key, it turned out, was a clever pairing of a transformer and a transistor. But the transistor deserves its own headline, because it's maybe only the most important invention of the 20th century.

@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Former prime minister’s successor Andy Burnham has announced a number
   of the measures in the blueprint
 image: https://static.independent.co.uk/2026/09/01/13/f345a324e0d9d070a3d01b5daa97c278Y29udGVudHNlYXJjaGFwaSwxNzg4MzQ5MDE3-2.85364134.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Leaked Downing Street papers reveal the strategy drawn up to save Keir Starmer’s premiership – and show that a number of the ideas proposed have been adopted by his successor Andy Burnham.

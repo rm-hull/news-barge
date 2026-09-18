@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Questions are being asked over why a man was prosecuted for moving a
   dead deer amid “scare and stretched” police and court resources.
 image: https://www.thenorthernecho.co.uk/resources/images/21426585.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: CONTRIBUTOR / NORTHERN ECHO)*

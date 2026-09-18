@@ -9,6 +9,12 @@ published: '2026-09-12T00:00:00Z'
 description: COUNTY Durham residents are being offered free leisure centre passes
   this month to mark National Fitness Day
 image: https://www.thenorthernecho.co.uk/resources/images/21441094.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Personal Finance & Investing
 ---
 
 *(Image: Supplied)*

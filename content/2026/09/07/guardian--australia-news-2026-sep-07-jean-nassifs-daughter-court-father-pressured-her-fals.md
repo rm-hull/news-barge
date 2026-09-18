@@ -10,6 +10,11 @@ description: Ashlyn Nassif, daughter of Toplace boss who fled Australia in 2022,
   pleaded guilty to providing false or misleading information to obtain loan from
   Westpac
 image: https://i.guim.co.uk/img/media/bbd8385f299419ab397fa3903ef0549e976e75be/0_0_1095_876/master/1095.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fbdfe946cd51f4fa749639e19be4997a
+categories:
+- UK
+- News & Politics
+- Family & Parenting
+- Business & Entrepreneurship
 ---
 
 The daughter of a fugitive property developer succumbed to pressure from her father when she falsified documents for a $150m construction loan, a Sydney court has heard.

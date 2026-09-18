@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Joe Root took advice from Harry Brook and adopted a hands-off approach
   with his bowlers on his return as England Test skipper.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3c60/live/b551b870-9c04-11f1-b0bd-839fb1d8b591.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Highlights: England in control of opening Test against Pakistan after day one

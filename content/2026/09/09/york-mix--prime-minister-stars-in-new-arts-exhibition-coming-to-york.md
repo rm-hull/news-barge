@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T19:15:56Z'
 published: '2026-09-09T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/PETER-DAVIS_Andy-Burnham_The-Bs-of-Manchester_painting_2018_2026_FINAL.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 Art of Protest Gallery to host a new exhibition that explores the relationship between musical and visual culture – featuring some familiar faces.

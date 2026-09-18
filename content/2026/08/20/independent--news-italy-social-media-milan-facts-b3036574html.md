@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: Social media reports have exaggerated the impact of extreme heat on Parmigiano
   Reggiano cheese production and storage
 image: https://static.independent.co.uk/2026/08/20/18/Italy_Parmigiano_Reggiano_Fact_Focus_69564.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 As Italy has been plunged into a period of extreme heat, social media accounts amplified and falsified reports about the impact on the production of Parmigiano Reggiano cheese and a regional bank that stores the cheese wheels as collateral for loans.

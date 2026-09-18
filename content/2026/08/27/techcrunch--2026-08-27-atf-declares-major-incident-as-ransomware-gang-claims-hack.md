@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: The ATF is the latest federal government agency in recent years to notify
   Congress of a "major incident" involving its cybersecurity.
 image: https://techcrunch.com/wp-content/uploads/2026/08/atf-police-1233760688.jpg?w=1024
+categories:
+- Technology & Software
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The U.S. Bureau of Alcohol, Tobacco, Firearms and Explosives, or ATF, says a cyberattack on one of its systems has been declared a “major incident,” a formal, legally defined classification that prompts a formal notification to lawmakers in Congress.

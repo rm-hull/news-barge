@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: This week's streaming releases include the return of “Dancing with the
   Stars” with a two-night premiere on ABC and Disney+
 image: https://static.independent.co.uk/2026/09/11/21/The_Stream_71837.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Comedy & Entertainment
 ---
 
 The return of “Dancing with the Stars” and a new album from Luke Bryan are some of the new television, films, music and games headed to a device near you.

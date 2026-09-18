@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: A former Evans Halshaw dealership in Hartlepool could become an autocentre
   and drive-thru coffee shop, creating 27 jobs in plans submitted to…
 image: https://www.thenorthernecho.co.uk/resources/images/21440429.jpg?type=og-image&xType=0&yType=31
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: Google Maps)*

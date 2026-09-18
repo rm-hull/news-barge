@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A new independent Yorkshire publisher, Shannon Publishing, has launched
   with its debut children’s title.
 image: https://www.gazetteherald.co.uk/resources/images/21453215.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 A new independent publisher has launched with its debut children’s title.

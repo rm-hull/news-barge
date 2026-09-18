@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: A sea of more than 63,000 runners took to the streets of Tyneside as
   the Great North Run returned for its milestone 45th anniversary.
 image: https://www.thenorthernecho.co.uk/resources/images/21448188.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A sea of more than 63,000 runners took to the streets of Tyneside as the Great North Run returned for its milestone 45th anniversary.

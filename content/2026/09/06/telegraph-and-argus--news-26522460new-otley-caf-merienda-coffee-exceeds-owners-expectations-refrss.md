@@ -9,6 +9,11 @@ published: '2026-09-06T00:00:00Z'
 description: A new cafe is already exceeding its owner's expectations just weeks after
   opening.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21411263.jpg?type=og-image&xType=0&yType=585
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A NEW cafe is already exceeding its owner's expectations just weeks after opening.

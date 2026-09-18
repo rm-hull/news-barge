@@ -10,6 +10,10 @@ description: Yemeni officials say the Houthi rebels captured more strategic isla
   in the southern Red Sea, strengthening their control of a major maritime shipping
   route
 image: https://static.independent.co.uk/2026/09/14/08/APTOPIX_Yemen_War_5667_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Yemen's Houthi rebels seize more key islands in southern Red Sea, tighten grip on shipping routes

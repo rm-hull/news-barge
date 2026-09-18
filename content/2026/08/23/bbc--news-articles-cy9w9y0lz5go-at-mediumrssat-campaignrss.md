@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Customers say the disruption to virtually all UK CrossCountry services
   is the "worst case scenario".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2055/live/eb901e80-9ec6-11f1-a815-1fffefa318e5.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![A red and white train is parked on railway tracks next to a train station.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/2055/live/eb901e80-9ec6-11f1-a815-1fffefa318e5.jpg)

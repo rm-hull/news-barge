@@ -10,6 +10,9 @@ published: '2026-09-04T00:00:00Z'
 description: The director of Afterworld explains why he wanted to "do something different"
   to historical games.
 image: https://cdn.mos.cms.futurecdn.net/CLGbrdWAVLDWt8BfX3tui6-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Upcoming strategy game Afterworld.](https://cdn.mos.cms.futurecdn.net/CLGbrdWAVLDWt8BfX3tui6.jpg) 

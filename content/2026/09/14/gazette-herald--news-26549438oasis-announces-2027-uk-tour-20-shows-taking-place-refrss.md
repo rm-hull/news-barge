@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Oasis’ Liam and Noel Gallagher will return to the stage with another
   UK tour in 2027, with shows in Glasgow and Manchester, and Knebworth.
 image: https://www.gazetteherald.co.uk/resources/images/21139219.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: Jordan Pettitt/PA Wire)*

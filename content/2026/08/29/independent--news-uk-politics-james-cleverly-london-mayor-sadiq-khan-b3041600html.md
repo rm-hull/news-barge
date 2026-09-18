@@ -9,6 +9,9 @@ description: As Sir James Cleverly announces he is quitting the shadow cabinet t
   run for London mayor, political editor David Maddox considers the implications for
   the election in two years’ time, and why Kemi Badenoch will be happy
 image: https://static.independent.co.uk/2026/08/29/20/01M173NRP1W4XK2M5EBP0HXSCY.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Sir James Cleverly’s plan to run for to be the next mayor of London in 2028 is hugely significant not least because it means that the fight for Britain’s capital city and economic engine has become a serious contest for the first time for 14 years.

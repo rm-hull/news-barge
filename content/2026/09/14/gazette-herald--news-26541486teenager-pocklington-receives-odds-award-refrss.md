@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Pocklington teenager Lexi Medforth has been named the winner of the Community
   Pride 2026 Against All Odds award for her extraordinary courage and…
 image: https://www.gazetteherald.co.uk/resources/images/21441323.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 *(Image: David Harrison Photography)*

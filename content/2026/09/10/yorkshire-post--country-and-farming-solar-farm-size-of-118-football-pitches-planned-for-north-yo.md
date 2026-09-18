@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A solar farm covering an area as large as 118 football pitches could
   be coming to York.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmYxYTJiM2ZkLWY5MmQtNDg2Ni04MzZkLTc5NzViZjY4ZWU0ODo1ZDZlYmU0Yi01NWZiLTRmN2ItYTM3NS0xOWEwZTliNGFiZmQ=.png?crop=3:2,smart&trim=&width=1187&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Solar farm size of 118 football pitches planned for North Yorkshire farmland

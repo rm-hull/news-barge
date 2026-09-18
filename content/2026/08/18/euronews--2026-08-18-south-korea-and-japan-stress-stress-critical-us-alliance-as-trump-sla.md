@@ -9,6 +9,9 @@ description: Trump made the surprise announcement about the troop drawdown in a 
   media post just before US and South Korean soldiers began Monday's annual Ulchi
   Freedom Shield exercises.
 image: https://images.euronews.com/articles/stories/09/87/89/66/1200x675_cmsv2_61f26ecf-0bcf-5eaa-b447-d3ccfc1f2967-9878966.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Trump made the surprise announcement about the troop drawdown in a social media post just before US and South Korean soldiers began Monday's annual Ulchi Freedom Shield exercises.

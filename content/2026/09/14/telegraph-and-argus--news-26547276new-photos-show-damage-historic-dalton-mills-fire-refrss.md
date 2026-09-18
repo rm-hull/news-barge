@@ -9,6 +9,13 @@ published: '2026-09-14T00:00:00Z'
 description: New photographs of a historic mill that caught fire reveal the full extent
   of the damage.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21450438.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
+- Arts & Culture
+- True Crime
 ---
 
 *(Image: Mike Simmonds)*

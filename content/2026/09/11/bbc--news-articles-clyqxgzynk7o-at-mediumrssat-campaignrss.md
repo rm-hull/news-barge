@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Singapore's High Court rules in the woman's favour, with the judge saying
   the man "willingly" showered her with gifts, even before they got together.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7574/live/dda4ab60-adad-11f1-8ac2-99a6f36b284a.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![The Singapore skyline centered on the Esplanade](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7574/live/dda4ab60-adad-11f1-8ac2-99a6f36b284a.jpg)

@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Bishop Auckland’s popular heritage festival returns later this month
   with classic vehicles, local history and free talks from experts.
 image: https://www.thenorthernecho.co.uk/resources/images/21461833.jpg?type=og-image&xType=0&yType=128
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: SUPPLIED)*

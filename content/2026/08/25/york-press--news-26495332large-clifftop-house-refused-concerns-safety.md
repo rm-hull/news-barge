@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: PLANS to build a large house at a clifftop location on the North Yorkshire
   coast have been refused over concerns about safety and its impact on…
 image: https://www.yorkpress.co.uk/resources/images/21371488.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 ## Plans for large clifftop home refused over stability and neighbour concerns

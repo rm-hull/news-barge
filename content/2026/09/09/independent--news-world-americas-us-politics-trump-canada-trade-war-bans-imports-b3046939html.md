@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Ban comes after Canada imposed retaliatory tariffs on $20bn of US imports
   hours earlier
 image: https://static.independent.co.uk/2026/09/02/7/05/2291733364-getty.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Donald Trump has intensified the U.S. trade war with Canada by banning dairy products, most alcoholic beverages and motorcycles from its neighbor, the White House announced on Tuesday.

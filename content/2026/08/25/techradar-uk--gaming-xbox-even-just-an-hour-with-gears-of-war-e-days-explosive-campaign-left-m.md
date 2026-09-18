@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: 'I’ve only played an hour of Gears of War: E-Day’s campaign and I’m already
   hooked on its stunning visuals and bombastic action.'
 image: https://cdn.mos.cms.futurecdn.net/GdXDPCUcFMgz8W5emPiPAN-1600-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![A screenshot from our Gears of War E-Day hands-on built on PC.](https://cdn.mos.cms.futurecdn.net/GdXDPCUcFMgz8W5emPiPAN.jpg) 

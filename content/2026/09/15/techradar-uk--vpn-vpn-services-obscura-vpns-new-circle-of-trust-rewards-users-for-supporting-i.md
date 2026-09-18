@@ -9,6 +9,9 @@ published: '2026-09-15T00:00:00Z'
 description: Obscura's network of independent privacy apps promises to offer exclusive
   discounts to help subscribers secure their digital lives
 image: https://cdn.mos.cms.futurecdn.net/nLNVLqd7LA7y4NAtpBViP7-460-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Obscura VPN app on mobile](https://cdn.mos.cms.futurecdn.net/nLNVLqd7LA7y4NAtpBViP7.png) 

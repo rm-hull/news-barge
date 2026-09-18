@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: Breakthrough will improve hardware preservation, repair, and emulation
   projects.
 image: https://cdn.mos.cms.futurecdn.net/YT8szWTawNgyAr5wNtX4gh-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Sony PS2 security chip ‘broken wide open’](https://cdn.mos.cms.futurecdn.net/YT8szWTawNgyAr5wNtX4gh.jpg) 

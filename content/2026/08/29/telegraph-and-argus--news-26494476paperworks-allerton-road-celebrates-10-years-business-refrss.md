@@ -8,6 +8,11 @@ scraped_at: '2026-08-29T07:00:15Z'
 published: '2026-08-29T00:00:00Z'
 description: A mother and daughter team are celebrating a decade in business.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21370044.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: T&A)*

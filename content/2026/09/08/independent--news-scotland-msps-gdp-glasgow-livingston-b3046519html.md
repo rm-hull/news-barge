@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Sandy Begbie, of Scottish Financial Enterprise, argued Scotland needs
   a ‘more proportionate response’ to such facilities.
 image: https://static.independent.co.uk/2026/09/08/12/08114331-d7f1faa3-c697-4565-962e-311b0b7d9f98.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Calls for a moratorium on new data centres “send very much the wrong message” and could impact investment in Scotland’s AI sector, MSPs have been told.

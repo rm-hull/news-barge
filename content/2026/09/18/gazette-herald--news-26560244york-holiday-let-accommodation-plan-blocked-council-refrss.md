@@ -8,6 +8,11 @@ scraped_at: '2026-09-18T13:00:41Z'
 published: '2026-09-18T00:00:00Z'
 description: Plans for a holiday let next to an historic York building have been blocked.
 image: https://www.gazetteherald.co.uk/resources/images/21469962.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 ### What is the Public Notice Portal?

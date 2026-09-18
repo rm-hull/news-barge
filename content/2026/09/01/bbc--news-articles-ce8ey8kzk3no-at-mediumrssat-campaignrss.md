@@ -10,6 +10,9 @@ description: Jails in England and Wales are nearing maximum capacity as the just
   secretary prepares to give more details in the Commons on the early-release scheme
   to free inmates.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/56b9/live/1b430de0-b5b6-11f0-962a-97c89857c780.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A prison guard walks along a passageway next to a line of cells](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/56b9/live/1b430de0-b5b6-11f0-962a-97c89857c780.jpg)

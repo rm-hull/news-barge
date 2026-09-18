@@ -8,6 +8,8 @@ scraped_at: '2026-08-28T11:15:58Z'
 published: '2026-08-28T00:00:00Z'
 description: Hackers abused IoT devices to break into multiple US departments
 image: https://cdn.mos.cms.futurecdn.net/EEXAxCUDKAq3frELz3rVYY-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A group of 7 hackers, 6 slightly blurred in the background and one in the foreground, all wearing black with hoods pulled up over their heads. You cannot see their faces. The hacker in the foreground sits with an open laptop in front of them. The background, behind the hackers, is a Chinese flag](https://cdn.mos.cms.futurecdn.net/EEXAxCUDKAq3frELz3rVYY.jpg) 

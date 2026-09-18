@@ -8,6 +8,12 @@ scraped_at: '2026-08-28T11:16:15Z'
 published: '2026-08-28T00:00:00Z'
 description: A hot air balloon made a landing in a housing estate.
 image: https://www.thenorthernecho.co.uk/resources/images/21382338.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
+- Home, Garden & DIY
 ---
 
 A woman on a hot air balloon which landed in the middle of a Bishop Auckland housing estate has spoken of her momentary panic as the balloon started heading towards the homes.

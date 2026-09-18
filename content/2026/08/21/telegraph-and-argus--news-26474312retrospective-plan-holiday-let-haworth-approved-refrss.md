@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: A Haworth holiday let that was completed last year without planning permission
   can be retained – planning officers have decided.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21335395.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Careers & Productivity
 ---
 
 ### What is the Public Notice Portal?

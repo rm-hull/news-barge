@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: Google has dodged an effort to break up its ad business, but a judge
   said Wednesday that the company will need to adjust its business to benefit competitors.
 image: https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 The Justice Department has spent years attempting to break up Google’s gargantuan advertising business across two separate antitrust lawsuits: one filed in 2020 focused on Google’s dominance in search, and a second filed in 2023 that specifically targeted Google’s ad-technology business. Both cases argued that the search giant’s grip on the digital ad economy represents an illegal monopoly.

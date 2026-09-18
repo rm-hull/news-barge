@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: After spending £155m on three midfielders, now Manchester United must
   decide whether to try to buy a left-back
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2e92/live/99dd7ad0-9fd7-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Manchester United full-back Luke Shaw prepares to take a throw in during their Premier League defeat by Hull](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/880a/live/c5e07870-a0a0-11f1-84a9-276d1a8e5a22.jpg)

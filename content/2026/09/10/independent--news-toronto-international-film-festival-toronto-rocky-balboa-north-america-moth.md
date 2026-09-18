@@ -10,6 +10,11 @@ description: The spotlight at the 51st edition of the Toronto International Film
   Judy Heumann and many more when North America’s largest film festival gets underway
   Thursday
 image: https://static.independent.co.uk/2026/09/10/04/Toronto_Film_Festival_72598.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Arts & Culture
 ---
 
 The spotlight at the 51st edition of the Toronto International Film Festival will belong to Rocky Balboa, KPop superstar Lisa, late disability rights pioneer Judy Heumann and many more when North America’s largest film festival gets underway Thursday.

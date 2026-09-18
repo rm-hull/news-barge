@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: There has been a 76% increase in under-construction gas-fired projects
   amid ‘frenzy’ to build more datacenters
 image: https://i.guim.co.uk/img/media/eefa8d1f22850faaa1e33b76f97897de676682e5/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=676c37813552814568c199f33a79da54
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The US has surged ahead of China in the building of new gas-fired power generation, largely to feed a boom in artificial intelligence (AI) that is adding vast amounts of planet-heating emissions, a new analysis has found.

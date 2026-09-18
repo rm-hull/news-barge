@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Opening statements are expected Thursday in the trial of the lawsuit
   alleging a Santa Ana couple's funeral for their 2-month-old son was botched
 image: https://static.independent.co.uk/2026/09/10/9/17/Central-Justice-Center-ground-level.jpg?trim=0,45,0,44&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 A grieving Santa Ana couple faced a nightmare sequence of blunders at their infant son’s funeral—including a three-hour delay, wrong-sized vaults, and a plan to unearth the baby the next day, according to a lawsuit opening in court Thursday.

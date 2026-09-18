@@ -9,6 +9,11 @@ scraped_at: '2026-08-27T22:13:45Z'
 published: '2026-08-27T00:00:00Z'
 description: 20% of data center revenue.
 image: https://cdn.mos.cms.futurecdn.net/iaLn9eep6ryDrWj6V9zkb9-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Nvidia](https://cdn.mos.cms.futurecdn.net/iaLn9eep6ryDrWj6V9zkb9.jpg) 

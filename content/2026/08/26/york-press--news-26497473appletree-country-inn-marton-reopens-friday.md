@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The Appletree Country Inn at Marton reopens on Friday after being closed
   for 13 long years.
 image: https://www.yorkpress.co.uk/resources/images/21374487.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 ## North Yorkshire village pub to reopen after being closed for 13 years

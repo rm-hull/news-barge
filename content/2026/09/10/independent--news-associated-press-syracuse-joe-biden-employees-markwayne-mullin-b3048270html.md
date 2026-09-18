@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Body camera footage of immigration arrests at a snack-food factory in
   upstate New York offers a rare glimpse inside a workplace immigration raid
 image: https://static.independent.co.uk/2026/09/10/22/Immigration_Anatomy_of_a_Raid_51_69.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The sprawling snack-food factory in upstate New York appeared to be closed when a small army of immigration officers arrived after 9 a.m. Following a brief discussion of whether to force their way inside, a manager opened the front door.

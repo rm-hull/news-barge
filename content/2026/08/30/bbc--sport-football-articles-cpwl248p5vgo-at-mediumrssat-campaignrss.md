@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: For all the new signings, it is still captain Bruno Fernandes who sets
   the standard at Manchester United, writes Simon Stone.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3f3a/live/69c52ee0-a4a7-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Fernandes hat-trick helps Man Utd recover to beat Ipswich

@@ -9,6 +9,8 @@ published: '2026-08-22T00:00:00Z'
 description: Sturdy, protective covers to keep your Pixel 11 Pro Fold looking good
   as new
 image: https://cdn.mos.cms.futurecdn.net/Vreg7JAPgxM699fH8FRkfD-2468-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Google Pixel Fold cases](https://cdn.mos.cms.futurecdn.net/Vreg7JAPgxM699fH8FRkfD.jpg) 

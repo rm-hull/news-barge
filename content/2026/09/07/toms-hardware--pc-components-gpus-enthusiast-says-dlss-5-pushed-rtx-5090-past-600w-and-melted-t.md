@@ -8,6 +8,10 @@ scraped_at: '2026-09-07T14:13:41Z'
 published: '2026-09-07T00:00:00Z'
 description: It's in the genetics.
 image: https://cdn.mos.cms.futurecdn.net/V3GQ9DBP5BRAWcLwzBwGSL-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![A post-DLSS 5 RTX 5090 suffering from a genetic disease known as its 16-pin connector melting](https://cdn.mos.cms.futurecdn.net/V3GQ9DBP5BRAWcLwzBwGSL.jpg) 

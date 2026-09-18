@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: A split emerges in One Nation over the video, with Barnaby Joyce offering
   an apology as Pauline Hanson continues to refuse to take it down
 image: https://i.guim.co.uk/img/media/9fe4e7c0f39367b26d0b214362e16478c8cdbc29/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc6f7ba374621fa6e97d4088869626d6
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 Andrew Hastie has accepted an apology from his former colleague Barnaby Joyce over a One Nation cartoon video labelling the former SAS captain a traitor but reiterated that he believed Pauline Hanson was a “lying coward”.

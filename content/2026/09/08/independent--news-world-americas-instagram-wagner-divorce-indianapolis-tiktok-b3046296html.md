@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: Many influencers are sharing their divorce journeys on social media,
   using platforms like TikTok and Instagram to connect with others
 image: https://static.independent.co.uk/2026/09/08/05/Divorce_Influencers__6_4_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Creator Economy & Marketing
+- Society & Culture
 ---
 
 On Instagram feeds that are often teeming with curated, contrived content, a recent post from Monette Wagner stood out for her disarming openness.

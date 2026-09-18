@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Facebook is on trial in New Mexico over privacy concerns linked to the
   2016 election
 image: https://static.independent.co.uk/2026/09/09/16/New_Mexico_Meta_Trial_Prep_68437.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Facebook is on trial in New Mexico over privacy concerns that emerged during the 2016 election when a political consulting firm bought user data that was harvested from millions of profiles to generate targeted ads.

@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: US president delays 50% tariffs by three days, and says contentious oil
   project ‘may be awoken from the grave’
 image: https://i.guim.co.uk/img/media/9f32ee616031ffc12c0e89c1c8ab06d19a7287ec/454_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9b4f7c298cacd635c82b890bca44f54
+categories:
+- UK
+- News & Politics
 ---
 
 Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-evening agreement with Trump administration officials hours before a hike that would have affected $20bn worth of goods was set to take effect.

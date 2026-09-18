@@ -8,6 +8,10 @@ scraped_at: '2026-08-27T12:00:59Z'
 published: '2026-08-27T00:00:00Z'
 description: A man has admitted causing serious injury by careless driving in Selby.
 image: https://www.yorkpress.co.uk/resources/images/17547669.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 *(Image: Frank Dwyer)*

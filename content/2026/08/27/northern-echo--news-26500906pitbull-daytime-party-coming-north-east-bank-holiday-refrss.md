@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A Pitbull-themed daytime party is coming to Newcastle's Motel Mexicana
   this Bank Holiday, featuring hits from Pitbull, Shakira and Sean Paul.
 image: https://www.thenorthernecho.co.uk/resources/images/21379636.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 Fans of Pitbull will be able to party to the rapper’s biggest hits at a themed daytime event coming to the North East this Bank Holiday weekend.

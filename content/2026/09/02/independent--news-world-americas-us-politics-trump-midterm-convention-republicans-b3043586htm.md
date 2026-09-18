@@ -9,6 +9,10 @@ description: At least 45 Republican members are skipping the party’s first-eve
   convention due to prior obligations, to spend time in their districts or to flat-out
   protest the event
 image: https://static.independent.co.uk/2026/09/02/16/56/GettyImages-2162620069.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Dozens of Republican lawmakers, candidates and members are not planning to attend President Donald Trump’s highly unusual off-year convention in Dallas, just two months ahead of the midterms.

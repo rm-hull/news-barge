@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The UK and the rest of north-western Europe is likely to experience wetter
   and stormier conditions in the coming autumn and early winter, the Met…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21428233.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: Jon Super/PA Wire)*

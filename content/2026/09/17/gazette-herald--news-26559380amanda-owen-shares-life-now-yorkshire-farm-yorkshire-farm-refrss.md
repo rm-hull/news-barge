@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Amanda Owen of Our Yorkshire Farm on Channel 5 has revealed what she
   is doing at the Yorkshire farm.
 image: https://www.gazetteherald.co.uk/resources/images/20476905.jpg?type=og-image&yType=29
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: CHANNEL4)*

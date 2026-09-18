@@ -8,6 +8,9 @@ scraped_at: '2026-08-18T13:03:50Z'
 published: '2026-08-18T00:00:00Z'
 description: All systems go on AirPods with cameras
 image: https://cdn.mos.cms.futurecdn.net/c479LR5bC7GXfmkrxf3isM-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Apple AirPods Pro 2 in open case](https://cdn.mos.cms.futurecdn.net/c479LR5bC7GXfmkrxf3isM.jpg) 

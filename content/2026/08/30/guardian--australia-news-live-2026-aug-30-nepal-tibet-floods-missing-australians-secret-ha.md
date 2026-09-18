@@ -8,6 +8,9 @@ scraped_at: '2026-08-30T05:16:23Z'
 published: '2026-08-30T00:00:00Z'
 description: Follow latest updates live
 image: https://i.guim.co.uk/img/media/e4f0700cc93a6fb638c98ecf5b42de6146354abe/519_116_2967_2374/master/2967.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6994d75fce0a3f528047a14fa33e1efc
+categories:
+- UK
+- News & Politics
 ---
 
 We ‘owe it to history’ to defeat One Nation, PM tells Brisbane Labor conference

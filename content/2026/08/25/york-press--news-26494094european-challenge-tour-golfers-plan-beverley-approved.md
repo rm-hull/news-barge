@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: East Riding of Yorkshire Council has approved a planning application
   from professional golfer Sam Robinson of FORE Sims Limited to change the use of…
 image: https://www.yorkpress.co.uk/resources/images/21138349.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Professional golfer's plans for entertainment venue in Yorkshire town approved

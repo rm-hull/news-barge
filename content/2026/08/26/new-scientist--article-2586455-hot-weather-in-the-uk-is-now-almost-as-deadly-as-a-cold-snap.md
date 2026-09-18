@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Cold weather has always killed more people than hot weather in England
   and Wales – but that's about to change
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309546666.jpg
+categories:
+- Science
+- Technology & Software
+- Travel
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309546666.jpg?w=840)

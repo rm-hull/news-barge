@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T19:25:06Z'
 published: '2026-09-08T00:00:00Z'
 description: ''
 image: null
+categories:
+- Local
+- York
+- Self-Improvement
 ---
 
 # 502

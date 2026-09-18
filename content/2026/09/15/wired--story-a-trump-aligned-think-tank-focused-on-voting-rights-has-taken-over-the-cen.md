@@ -9,6 +9,11 @@ description: The US Census is home to vast troves of sensitive data on nearly ev
   person living in the country, which is used for apportioning and drawing congressional
   districts as well as allocating federal funding based on population sizes.
 image: https://media.wired.com/photos/6aa81ea759082b83fd22f558/191:100/w_1280,c_limit/AP20345779857727.jpg
+categories:
+- Technology & Software
+- Science
+- Society & Culture
+- News & Politics
 ---
 
 Multiple staffers at a Trump-aligned policy think tank have burrowed their way into the US Census Bureau, where they have access to sensitive data and have contributed to a public report that bolsters conspiracy theories undermining trust in elections ahead of the midterms.

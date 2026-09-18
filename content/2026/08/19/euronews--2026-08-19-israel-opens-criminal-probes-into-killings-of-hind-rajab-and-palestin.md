@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Criminal investigations are not being opened into three other incidents
   involving aid workers from World Central Kitchen and Doctors Without Borders.
 image: https://images.euronews.com/articles/stories/09/88/07/77/1200x675_cmsv2_b42660e4-a18b-5e07-9e91-68240f108870-9880777.jpg
+categories:
+- Europe
+- News & Politics
+- True Crime
 ---
 
 ## Criminal investigations are not being opened into three other incidents involving aid workers from World Central Kitchen and Doctors Without Borders.

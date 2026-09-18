@@ -8,6 +8,8 @@ published: '2026-09-05T00:00:00Z'
 description: Plug-in solar is becoming easier to access across the world, and these
   batteries are certainly going to help.
 image: https://cdn.mos.cms.futurecdn.net/qiEsx8MUQChRwTBsWHz3hV-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![IFA 2026 plug-in solar](https://cdn.mos.cms.futurecdn.net/qiEsx8MUQChRwTBsWHz3hV.jpg) 

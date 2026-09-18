@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Laura Ingraham claimed there’s ‘no other explanation’ as to why Republicans
   are not going on the offensive when it comes to the economy
 image: https://static.independent.co.uk/2026/09/18/11/23/Screenshot-2026-09-18-at-7-42-43-AM.png?trim=0,332,0,122&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Fox News host Laura Ingraham claimed that many Republicans “secretly” want to lose the midterm elections to avoid having to pass legislation.

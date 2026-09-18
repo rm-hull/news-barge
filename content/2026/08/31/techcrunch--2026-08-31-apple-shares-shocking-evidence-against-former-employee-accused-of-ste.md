@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: Apple says it has evidence that a former employee destroyed evidence
   of data theft after learning he was under investigation.
 image: https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2255009714.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 In its lawsuit against OpenAI, Apple filed what it calls “shocking evidence” to bolster its allegations that former employees stole trade secrets for OpenAI’s benefit. These new details emerged after the legal counsel for former Apple employee Chang Liu — who now works at OpenAI — handed over Liu’s old Apple work laptop for investigation earlier this month.

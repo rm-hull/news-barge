@@ -7,6 +7,12 @@ scraped_at: '2026-09-09T12:57:11Z'
 published: '2026-09-09T00:00:00Z'
 description: A travel agency is set to open its first high street store.
 image: https://www.yorkpress.co.uk/resources/images/21428382.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
+- Lifestyle & Fashion
+- Business & Entrepreneurship
 ---
 
 *(Image: Pic supplied)*

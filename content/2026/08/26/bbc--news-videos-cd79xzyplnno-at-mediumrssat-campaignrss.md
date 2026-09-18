@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: English actor Tim Curry, best known for playing the outlandish Frank-N-Furter
   in film musical The Rocky Horror Picture Show, has died at the age of 80.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/32f9/live/a0708740-a179-11f1-87d4-e91caee13898.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Music
+- Comedy & Entertainment
 ---
 
 # The life of Rocky Horror star Tim Curry

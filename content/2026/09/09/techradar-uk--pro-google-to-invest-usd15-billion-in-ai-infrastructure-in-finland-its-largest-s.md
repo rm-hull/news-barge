@@ -8,6 +8,10 @@ scraped_at: '2026-09-09T12:56:45Z'
 published: '2026-09-09T00:00:00Z'
 description: Finland sees a major Google investment
 image: https://cdn.mos.cms.futurecdn.net/zef7st3oR4xX598KtyE8jP-2200-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Google investment in Finland](https://cdn.mos.cms.futurecdn.net/zef7st3oR4xX598KtyE8jP.jpg) 

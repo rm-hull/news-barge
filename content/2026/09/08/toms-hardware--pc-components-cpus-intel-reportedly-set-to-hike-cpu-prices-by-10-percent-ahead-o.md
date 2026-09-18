@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: The report makes no mention of which Intel products will see a price
   hike.
 image: https://cdn.mos.cms.futurecdn.net/y2RQSvgVAG6nfudaaDBx2e-2500-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![An Intel CPU sitting among other CPUs.](https://cdn.mos.cms.futurecdn.net/y2RQSvgVAG6nfudaaDBx2e.jpg) 

@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: Amid nationwide privacy concerns over Flock cameras, a Darth Vader impersonator
   mocked the company at a San Diego council meeting this week
 image: https://static.independent.co.uk/2026/08/22/21/07/Untitled-design-(9).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Film & TV
 ---
 
 Amid a growing national backlash against Flock cameras that automatically read license plates, people in Palo Alto, the hometown of leaders of some of Silicon Valley’s most powerful tech companies, are pushing back against the surveillance.

@@ -7,6 +7,10 @@ scraped_at: '2026-08-29T19:24:17Z'
 published: '2026-08-29T00:00:00Z'
 description: Jérémie Bertrand, Caroline Perrin and Laurent Weill write
 image: https://static.independent.co.uk/2026/08/29/19/2247217981..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Political preferences are generally explained by income, age and level of education. However, our research suggests that a far more unexpected trait may also have a hand in how we vote. A survey carried out in 18 western countries has shown that left-handed people tend to identify more strongly with the political left. This findings appear to be more related to identity than biology.

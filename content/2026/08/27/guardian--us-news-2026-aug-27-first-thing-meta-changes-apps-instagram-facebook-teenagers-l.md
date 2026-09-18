@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Safety features including usage limits and night-time blocks to be set
   by default. Plus changes to famous French cheeses
 image: https://i.guim.co.uk/img/media/c4959fa18c8e7d36edb0ba226c7475d8bf77e429/572_47_4722_3776/master/4722.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f24aeea2833ed15a25ef7b3e233f74e
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Good morning. Meta has agreed to significant changes to its Instagram and Facebook apps in a settlement that ended a landmark lawsuit. The agreement curtails a major trial in California and will require the social media company to pay up to $18bn. Meta agreed to establish safeguards for teenage users, including daily usage limits and blocks on night-time use nationwide in the US.

@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: North Yorkshire Police has released a CCTV image of a man they would
   like to speak to following a theft near Harrogate.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmNlODI2NTY4LTg1OTItNDRlNC04ODg0LTgyZWIwNGIxYjhjMzo5MTQ3ZTM0ZC04N2I2LTQyYmYtYTQxYS03ZDZlZjllMTVjMDE=.jpg?crop=3:2,smart&trim=&width=410&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 # North Yorkshire Police release CCTV image of man after motorbike stolen near Harrogate

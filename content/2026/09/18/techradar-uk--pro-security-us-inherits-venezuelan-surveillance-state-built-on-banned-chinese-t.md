@@ -8,6 +8,8 @@ published: '2026-09-18T00:00:00Z'
 description: Venezuela's surveillance network is built on Chinese tech, and the new
   president wanted Chinese AI implemented as well.
 image: https://cdn.mos.cms.futurecdn.net/MH2rn9ZWxNjT4G8scjDexk-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Woman hands and flag of Venezuela on computer, laptop keyboard](https://cdn.mos.cms.futurecdn.net/MH2rn9ZWxNjT4G8scjDexk.jpg) 

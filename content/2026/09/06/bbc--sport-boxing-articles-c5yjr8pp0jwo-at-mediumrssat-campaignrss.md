@@ -10,6 +10,10 @@ description: Fairytale endings in boxing are a rarity, but Irish icon Katie Tayl
   sails off into the sunset after the most perfect of farewells at Dublin's towering
   Croke Park.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/378d/live/c16f6a80-a9e7-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Taylor signs off in style with unanimous win over Pili

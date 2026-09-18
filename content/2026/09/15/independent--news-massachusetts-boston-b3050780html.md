@@ -10,6 +10,11 @@ description: Massachusetts Gov. Maura Healey is proposing free home visits from 
   for every new parent in the state and expanded mental health screenings for new
   mothers
 image: https://static.independent.co.uk/2026/09/15/20/Lindsay_Clancy_Trial_91229.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Family & Parenting
 ---
 
 New parents in Massachusetts should receive better support and postpartum care, Gov. Maura Healey said Tuesday, following the high-profile murder trial of Lindsay Clancy who, her attorneys argued, was suffering from unresolved postpartum psychosis when she killed her three children in 2023.

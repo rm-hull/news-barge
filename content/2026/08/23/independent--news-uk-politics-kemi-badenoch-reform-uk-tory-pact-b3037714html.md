@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: The Conservative leader dismissed Reform UK as ‘people fighting all the
   time’ as she insisted voters would not back a ‘monstrous Reform-Conservative hybrid’
 image: https://static.independent.co.uk/2026/08/19/11/2290533621..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Kemi Badenoch has again ruled out a “monstrous” pact with Reform as she hits out at infighting within Nigel Farage’s party.

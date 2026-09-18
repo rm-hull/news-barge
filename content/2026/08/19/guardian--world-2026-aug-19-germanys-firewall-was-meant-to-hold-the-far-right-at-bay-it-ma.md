@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: An AfD win in next month’s state election in Saxony-Anhalt would shatter
   a decades-long political consensus and reverberate throughout the EU
 image: https://i.guim.co.uk/img/media/c774412d10441b3fa0420206f4292da6831a0f40/477_0_3200_2560/master/3200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab93469e767139c49ecb5103eabc50fc
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 In just over two weeks’ time, Saxony-Anhalt – home to historic timber-framed houses, the dramatic Harz mountains and the birthplace of Martin Luther – will hold what could prove one of the most significant state elections in Germany’s postwar history.

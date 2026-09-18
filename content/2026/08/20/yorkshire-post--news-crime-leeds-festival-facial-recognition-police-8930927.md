@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Police will be using live facial recognition technology at Leeds Festival
   this year, it has been confirmed.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/07/14/13/24/Leeds-Festival-2025-(photo-credit-soph_ditchfield)-[1].jpg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Live facial recognition to be used at Leeds Festival for first time

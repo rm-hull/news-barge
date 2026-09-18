@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: I tested the top-of-the-line Ecovacs Winbot W2S Omni window-cleaning
   robot on my Victorian home, and it was an unmitigated disaster.
 image: https://media.wired.com/photos/6a8544f2eab23e58b199ded0/191:100/w_1280,c_limit/Window-Cleaning-Robots-Are-Not-for-Me.jpg
+categories:
+- Technology & Software
+- Science
+- Home, Garden & DIY
+- Lifestyle & Fashion
 ---
 
 I love the idea of robots taking over menial tasks, so I was excited to try the Ecovacs Winbot W2S Omni. This premium window-cleaning robot is highly rated online. I have a robot vacuum and a robot mower, and I would never go back to doing these chores myself. Sadly, I had such a traumatically awful experience with the Ecovacs Winbot W2S Omni that I’m left wondering why anyone would want a window-cleaning robot at all.

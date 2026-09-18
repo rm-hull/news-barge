@@ -9,6 +9,12 @@ description: In an exclusive op-ed for The Independent on the 25th anniversary o
   9/11 , Sir Ken McCallum warns Britain faces the ‘worst of both worlds’ – as Russia
   and China pose growing threats alongside terrorism
 image: https://static.independent.co.uk/2021/09/10/19/2021-09-01T060907Z_18813017_RC28KR78H4WU_RTRMADP_3_USA-SEPT11-FILE.JPG?trim=76,0,76,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Arts & Culture
+- Society & Culture
 ---
 
 The head of MI5 has issued a dramatic nationwide “call to arms”, warning that Britain faces greater and more complex terror threats than it did in 2001.

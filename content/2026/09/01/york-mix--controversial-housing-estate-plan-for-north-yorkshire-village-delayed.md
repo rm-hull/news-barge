@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T04:59:49Z'
 published: '2026-09-01T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/the-pastures-off-high-street-sherburn-gsv.webp
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 A decision on plans for up to 52 homes in a Ryedale village has been delayed after planning officers changed their recommendation following the publication of new national planning rules.

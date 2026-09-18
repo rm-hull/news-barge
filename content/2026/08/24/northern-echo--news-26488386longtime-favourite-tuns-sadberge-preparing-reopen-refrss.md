@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: A popular County Durham pub which has won praise for its food, friendly
   service and “reasonable prices” is preparing to reopen.
 image: https://www.thenorthernecho.co.uk/resources/images/21360351.jpg?type=og-image&xType=0&yType=22
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: GOOGLE)*

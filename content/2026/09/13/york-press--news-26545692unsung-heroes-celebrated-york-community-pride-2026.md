@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Unsung heroes were celebrated at a very special awards ceremony for York
   Community Pride.
 image: https://www.yorkpress.co.uk/resources/images/21446746.jpg?type=og-image
+categories:
+- Local
+- York
+- Comedy & Entertainment
 ---
 
 ## GALLERY: 47 photos of York Community Pride 2026

@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Volodymyr Zhuravlev had been consulted on Snake Island, a dramatised
   reconstruction of incident
 image: https://i.guim.co.uk/img/media/27606c099f42609877d176107354f84ff4be8728/2108_671_2560_2032/master/2560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1acc1698951c217bee757057f6eccf6f
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 Earlier this month locals in Zagreb noticed something odd outside an art deco building. Sandbags and barricades appeared in front of the Esplanade hotel, along with a film crew and extras sporting Ukrainian military uniforms. Soon afterwards the actors Sean Penn and Adrien Brody were spotted on the set in the Croatian capital, together with Doug Liman, the Hollywood director of the Jason Bourne movies.

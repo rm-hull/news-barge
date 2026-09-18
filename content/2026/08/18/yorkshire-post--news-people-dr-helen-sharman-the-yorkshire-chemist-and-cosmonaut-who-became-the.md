@@ -9,6 +9,12 @@ published: '2026-08-18T00:00:00Z'
 description: Dr Helen Sharman, from Sheffield, is a chemist and cosmonaut who became
   the first British person and first Western European woman in space 35 years ago.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjg3ZGY0MzI4LTU3NjUtNDA3NS04OGIwLWY1YTQ1NGMxYTYyYzowMzhmMjM2NC02MzFmLTQ3MzktYWFjMi03MGMxYmE4MmFjYzk=.jpg?crop=3:2,smart&trim=&width=1172&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Arts & Culture
 ---
 
 # Dr Helen Sharman: The Yorkshire chemist and cosmonaut who became the first British person and first Western European woman in space 35 years ago

@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Dalton Mills is among a national trend of mills deteriorating, according
   to The Victorian Society.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21461910.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 FIRE-ravaged Dalton Mills joins a list of nationally significant mills that are being allowed to deteriorate, according to The Victorian Society.

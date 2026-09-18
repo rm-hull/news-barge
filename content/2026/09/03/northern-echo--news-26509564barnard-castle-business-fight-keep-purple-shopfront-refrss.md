@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: The owners of Sanders Cove in Barnard Castle are seeking to keep its
   striking purple shopfront after Durham County Council was alerted to concerns.
 image: https://www.thenorthernecho.co.uk/resources/images/21393133.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Stuart Boulton)*

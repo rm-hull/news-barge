@@ -10,6 +10,10 @@ description: '"Remigration is nothing other than a synonym for ethnic cleansing,
   said Merz on Wednesday, voicing uncharacteristically strong opposition to the far-right
   following a ground-shaking state election.'
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260909__C7R39G4__v1__MidRes__GermanyPoliticsBudget.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
 ---
 
 German Chancellor Friedrich Merz had harsh words for the Alternative for Germany (AfD) during the general debate in the Bundestag on Wednesday, calling the party "a destructive force" and sharply criticising its policies.

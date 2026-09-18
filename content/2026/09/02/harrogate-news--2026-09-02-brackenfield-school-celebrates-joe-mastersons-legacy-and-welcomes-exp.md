@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Brackenfield School is celebrating the significant contribution of Headmaster
   Mr. Joe Masterson. The school is delighted to announce the appointment of Mr.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/brackenfield.webp
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 Brackenfield School is celebrating the significant contribution of Headmaster Mr. Joe Masterson. The school is delighted to announce the appointment of Mr. Phil Soutar as Interim Head from September 2026.

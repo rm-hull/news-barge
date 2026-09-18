@@ -7,6 +7,10 @@ scraped_at: '2026-09-06T12:07:55Z'
 published: '2026-09-05T00:00:00Z'
 description: Nigel Farage tells Laura he 'wasn't listening' during foreign donor talks.
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ## Episode details

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Taoiseach Micheál Martin said the changes will bring Ireland into line
   with other European countries
 image: https://static.independent.co.uk/2026/08/06/18/9d79c017a7132a9727e0c0bcd4bbcfb3Y29udGVudHNlYXJjaGFwaSwxNzg2MTIwNzk5-2.85439031.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Requiring language proficiency for citizenship would ensure applicants have a "capacity to contribute to society", the Taoiseach has stated.

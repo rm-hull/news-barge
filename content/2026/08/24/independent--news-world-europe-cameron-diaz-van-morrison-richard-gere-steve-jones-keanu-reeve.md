@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Celebrities having birthdays during the week of Aug. 30-Sept. 5 include
   “New Girl” actor Max Greenfield, TV personality Lisa Ling and singer Gloria Estefan
 image: null
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
+- Film & TV
 ---
 
 Celebrity birthdays for the week of Aug. 30-Sept. 5

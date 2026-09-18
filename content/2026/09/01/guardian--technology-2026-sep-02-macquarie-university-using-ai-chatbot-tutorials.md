@@ -10,6 +10,10 @@ description: University’s move is part of trend that critics within academia s
   lead to further staff cuts and the loss of ‘everything that makes the job worth
   doing’
 image: https://i.guim.co.uk/img/media/6aa031a23bc260771d2a4a87678b867778e46235/100_0_3082_2466/master/3082.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8ba39ce040a59a17b98288f11a15f73
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 An Australian university has swapped in-person classes with an AI chatbot, online quizzes and optional online tutorials in two subjects as institutions give the technology more teaching responsibilities.

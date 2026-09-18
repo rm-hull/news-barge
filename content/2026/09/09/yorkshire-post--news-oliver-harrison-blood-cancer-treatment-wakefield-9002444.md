@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: A Wakefield boy who spent Christmas and his birthday in a coma has started
   school for the first time, in a milestone his parents never thought he’d reach.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/09/15/13/OLIVER.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 # 'Our boy spent Christmas and his birthday in a coma - now he's starting school'

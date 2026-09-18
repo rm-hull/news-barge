@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Fun camera features help make these candy bar iPhones stand out from
   the dazzle of the folding iPhone Duo.
 image: https://media.wired.com/photos/6aa9f7c07a4288876ba476ed/191:100/w_1280,c_limit/DSC_9668.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 There is no iPhone 18 this year. If you were hoping to upgrade your smartphone right now, Apple is only offering the new iPhone 18 Pro models (and a very expensive folding iPhone coming next month). Don't let that be a reason to spend extra money on a phone you might not need.

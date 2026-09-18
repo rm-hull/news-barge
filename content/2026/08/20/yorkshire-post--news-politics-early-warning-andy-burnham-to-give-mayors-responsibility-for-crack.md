@@ -10,6 +10,11 @@ description: Andy Burnham is to give mayors across the country new responsibilit
   for cracking down on illegal toxic waste dumps which are currently costing the taxpayer
   an estimated £1bn a year.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmM1YTViYzYwLTM4MDQtNDMxMS1iNWE1LWQ0ZWJkMDczMTVhZDplNDA3ZWIzNi1lZTRjLTQ5ZDItYWM3ZC1mNWQxMmI1YzQ0YTg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # 'Early warning': Andy Burnham to give mayors responsibility for cracking down on £1bn illegal dumps

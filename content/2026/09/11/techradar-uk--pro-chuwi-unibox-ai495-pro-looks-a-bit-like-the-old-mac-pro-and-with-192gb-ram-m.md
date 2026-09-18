@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: CHUWI's new mini workstation looks like Apple's old Mac Pro and packs
   192GB RAM alongside AMD's fastest Ryzen AI chip
 image: https://cdn.mos.cms.futurecdn.net/EXvtZ7iVVcqZMSPao7UdsD-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![CHUWI UniBox AI495 Pro with 192GB RAM and AMD's new Ryzen AI MAX+ PRO 495 chip](https://cdn.mos.cms.futurecdn.net/EXvtZ7iVVcqZMSPao7UdsD.jpg) 

@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Perhaps our days of doomscrolling are numbered, writes the BBC's technology
   editor Zoe Kleinman.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e8a1/live/dac60130-a193-11f1-9e49-ab6cded816f9.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Society & Culture
 ---
 
 'Finally, something was done' - Parent reacts to social media trial settlement

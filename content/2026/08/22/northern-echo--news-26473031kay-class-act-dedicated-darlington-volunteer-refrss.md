@@ -8,6 +8,12 @@ published: '2026-08-22T00:00:00Z'
 description: As Darlington Cares reaches a proud milestone, PETER BARRON meets the
   volunteer who embodies the town’s community spirit...
 image: https://www.thenorthernecho.co.uk/resources/images/21333548.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- Society & Culture
 ---
 
 *As Darlington Cares reaches a proud milestone, PETER BARRON meets the volunteer who embodies the town’s community spirit...*

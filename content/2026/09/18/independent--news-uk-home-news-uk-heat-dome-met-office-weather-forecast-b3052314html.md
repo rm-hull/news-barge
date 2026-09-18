@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T13:00:00Z'
 published: '2026-09-18T00:00:00Z'
 description: One final UK heatwave is ‘not out of the question’, Met Office warns
 image: https://static.independent.co.uk/2026/09/18/09/2290476766..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Temperatures in the UK could soon begin to rise again as recent heatwave conditions in mainland Europe threaten to impact climates further north.

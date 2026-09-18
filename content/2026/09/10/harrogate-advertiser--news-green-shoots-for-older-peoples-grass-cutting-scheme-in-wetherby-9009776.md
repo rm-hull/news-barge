@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T12:53:51Z'
 published: '2026-09-10T00:00:00Z'
 description: Wetherby charity keep grass cutting scheme for older people.
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/10/12/20240702_101922_1789037100_ffefd62f-20de8880d35c4255.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Health & Fitness
 ---
 
 # Green shoots for older people’s grass cutting scheme in Wetherby

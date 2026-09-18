@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Six friends from the Harrogate area have raised more than £40,000 for
   Yorkshire’s Brain Tumour Charity after cycling 470 miles from London to Bordeaux.
 image: https://mmo.aiircdn.com/409/6aace649ecba28cabc7.jpg
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 ![](https://mmo.aiircdn.com/409/6aace649ecba28cabc7.jpg) 

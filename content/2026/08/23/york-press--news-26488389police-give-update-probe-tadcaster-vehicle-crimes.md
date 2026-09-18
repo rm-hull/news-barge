@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Police are asking residents in Tadcaster to check their vehicles .s they
   continue their investigation into a spate of crimes in Tadcaster.
 image: https://www.yorkpress.co.uk/resources/images/9508104.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
+- News & Politics
 ---
 
 *(Image: Newsquest)*

@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Just 45 percent of U.S. citizens say midterms will be secure, according
   to latest YouGov poll
 image: https://static.independent.co.uk/2026/08/31/18/2180910622..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 President Donald Trump’s scaremongering over November’s midterms appears to have been effective, with just 45 percent of Americans saying they expect the elections to be conducted fairly, according to a new poll.

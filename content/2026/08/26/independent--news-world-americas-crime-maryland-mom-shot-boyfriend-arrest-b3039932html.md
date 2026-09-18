@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Six of Shawanda Alston’s seven children were home at the time of the
   shooting
 image: https://static.the-independent.com/2026/08/26/20/20/Untitled-design-(13).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 A Maryland mother of seven died Tuesday after her boyfriend allegedly shot her in the head while she was holding their 2-month-old daughter.

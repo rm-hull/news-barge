@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: The Mount School has unveiled new creative facilities as neighbouring
   arts hub The Moxie reveals plans to open in Holgate, York
 image: https://www.yorkpress.co.uk/resources/images/21380436.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## First look: York school unveils new dance studio as arts hub prepares to open

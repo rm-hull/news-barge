@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Disturbing and AI-generated versions of Dr Seuss character have been
   used to threaten schools and communities
 image: https://i.guim.co.uk/img/media/2adfb85c17a930fac6fbc1e5aa37fe85d6cce230/253_31_1792_1433/master/1792.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa4f40e90825c6cad476a06689be1c93
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Schools and law enforcement authorities in the US are issuing warnings against a viral “Cat in the Hat” social media trend in which disturbing or AI-generated versions of the Dr Seuss character are used to threaten students, schools and communities.

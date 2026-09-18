@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A North East industry leader has joined chemical sector bosses in calling
   on the Prime Minister to recognise chemicals as a foundational industry…
 image: https://www.thenorthernecho.co.uk/resources/images/21366685.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Drivers are warned of delays as temporary traffic lights are installed
   on two York roads.
 image: https://www.gazetteherald.co.uk/resources/images/21014312.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 *(Image: Newsquest)*

@@ -9,6 +9,10 @@ description: The pipeline shutdown has put pressure on Saudi oil supplies to Eur
   as further conflict in the region threatens shipping routes. Riyadh has yet to comment
   on reports that some refiners face delays until November.
 image: https://images.euronews.com/articles/stories/09/91/53/62/1200x675_cmsv2_b6e3431f-b9ec-546c-bdc8-b0266aa6bf8b-9915362.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## The pipeline shutdown has put pressure on Saudi oil supplies to Europe as further conflict in the region threatens shipping routes. Riyadh has yet to comment on reports that some refiners face delays until November.

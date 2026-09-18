@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Tyrannosaurus inhabited western North America during the Cretaceous Period
   roughly 66 million years ago, near the end of the dinosaur era
 image: https://static.independent.co.uk/2024/10/04/20/iStock-1312015176.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- History
 ---
 
 Chemical evidence embedded within Tyrannosaurus rex teeth indicates that the formidable predator was warm-blooded, maintaining an internal body temperature comparable to that of a human. Researchers noted that the discovery should fundamentally reshape public understanding of the famous dinosaur.

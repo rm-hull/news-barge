@@ -9,6 +9,11 @@ description: Reform UK-led Barnsley Council has announced its intention to withd
   its climate emergency declaration and its climate targets as part of its “war on
   woke”.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjUzZjVlYzFiLWNmZGMtNGEwOC1iNjg2LWM2ZDM1OTU1YzQ2ZToyMmViYTYxZC1mYzMzLTRjYWUtOTQ0My04NDExNzlkNWY3YzM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Barnsley Reform - climate targets scrapped: 'The war on woke is only just beginning'

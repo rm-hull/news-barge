@@ -7,6 +7,11 @@ scraped_at: '2026-09-05T15:06:07Z'
 published: '2026-09-05T00:00:00Z'
 description: A ram raid has taken place at a jewellers.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20789784.jpg?type=og-image&xType=0&yType=292
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Pixabay)*

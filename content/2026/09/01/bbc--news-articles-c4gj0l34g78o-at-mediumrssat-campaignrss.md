@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: The star makes an emotional farewell as she wraps up a tour she's described
   as her "last hurrah".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8517/live/fdadde60-995b-11f1-b2ab-0dd01740f9f6.jpg
+categories:
+- UK
+- News & Politics
+- Travel
+- Society & Culture
 ---
 
 ![Ariana Grande sits on the stage, surrounded by flowers, as she sings on her Eternal Sunshine tour](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8517/live/fdadde60-995b-11f1-b2ab-0dd01740f9f6.jpg)

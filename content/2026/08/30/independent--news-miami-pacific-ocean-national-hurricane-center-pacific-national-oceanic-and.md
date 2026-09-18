@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: Tropical Storm Karina has strengthened into a hurricane in the Pacific
   Ocean
 image: https://static.independent.co.uk/2026/08/30/12/Tropical_Weather_125_6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Tropical Storm Karina strengthened into a hurricane in the Pacific Ocean on Sunday and could become a major storm this week, forecasters said. The cyclone's center was at far out sea and was not threatening land.

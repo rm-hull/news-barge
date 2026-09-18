@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: A recent client survey by Older Citizens Advocacy York (OCAY) revealed
   that just 14 recorded awards led to an annualised first-year value of…
 image: https://www.gazetteherald.co.uk/resources/images/21426686.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Older people are securing vital financial support thanks to targeted advocacy services helping them navigate complex benefits systems.

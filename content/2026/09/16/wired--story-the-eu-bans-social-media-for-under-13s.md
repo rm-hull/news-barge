@@ -9,6 +9,9 @@ description: The bloc wants to curb Big Tech’s grip on children with its new E
   ACTS, but age checks, parental oversight, and privacy concerns could make its plan
   difficult to implement.
 image: https://media.wired.com/photos/6aa9bdf63aba230bcb567601/191:100/w_1280,c_limit/Business_EU's%20Under-15s%20Social%20Media%20Restrictions%20Are%20Not%20A%20Ban%20and%20Won't%20Work%20Anyway_v3.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 The European Union has announced it will restrict children’s access to social media across member states in a bid to free them from what President of the Commission Ursula von der Leyen described as the “capture [of] their attention, their focus, their minds” by the platforms.

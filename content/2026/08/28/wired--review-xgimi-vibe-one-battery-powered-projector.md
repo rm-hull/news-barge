@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: It's a Full HD smart projector that's fun, portable, and $250. Just keep
   it to nighttime and dark rooms, though.
 image: https://media.wired.com/photos/6a90caae879a1ee9037eecfd/191:100/w_1280,c_limit/Review--XGIMI-Vibe-One-Battery-Powered-Projector.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 The fact that a battery-powered, Google-certified, Netflix-streaming, Full HD LCD projector can cost less than $250 is remarkable. The fact that it’s actually pretty good verges on preposterous. The XGIMI Vibe One manages both, which is great news you’re looking to project your next bingeable series just about anywhere.

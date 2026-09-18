@@ -10,6 +10,11 @@ description: The Keighley and Worth Valley Railway Beer and Music Festival will 
   this October, transforming five miles of heritage railway into a steam-powered pub
   crawl.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmMwZDEzN2RiLTlmOTAtNDVlYy05ZmMwLTgzMThhYjhhMzIyMzoyZjVkYzdhOC02ZjMzLTQyYmEtOTk3NC1iMmQwMDUwMGQ1Yzk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Music
 ---
 
 # Keighley Railway: Yorkshire heritage station to host a beer and music festival transforming rail line into a steam-powered pub crawl

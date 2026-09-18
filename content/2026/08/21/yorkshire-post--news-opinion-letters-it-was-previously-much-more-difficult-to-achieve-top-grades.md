@@ -8,6 +8,11 @@ scraped_at: '2026-08-21T13:06:42Z'
 published: '2026-08-21T00:00:00Z'
 description: 'From: Alec Suchi, Bradford.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjg4YzIwZjk4LThhYjYtNDFhMC05OWNhLTNjYjliOTM4MTQzZjowNmFiMmFjMi01OTUxLTQ4ZGMtYTYzYS1iMzc1MTYxN2E2OTg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Careers & Productivity
 ---
 
 # It was previously much more difficult to achieve top grades at both O and A levels than it is today - Yorkshire Post Letters

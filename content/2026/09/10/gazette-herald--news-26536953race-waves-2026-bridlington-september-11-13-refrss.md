@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Classic cars, motorcycles and a spectacular Wall of Death are set to
   draw crowds as Race the Waves returns to Bridlington this weekend.
 image: https://www.gazetteherald.co.uk/resources/images/21432489.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 A beach racing event is returning to East Yorkshire this weekend with a three-day event.

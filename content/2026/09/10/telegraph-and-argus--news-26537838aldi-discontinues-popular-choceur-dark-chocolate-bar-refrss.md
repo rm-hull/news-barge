@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Aldi has confirmed it has discontinued its Choceur Dark Chocolate Bar,
   much to the disappointment of shoppers.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21433228.jpg?type=og-image&xType=0&yType=59
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: Patrick Glover)*

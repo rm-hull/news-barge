@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Norway’s new king faces the immediate task of strengthening support for
   the monarchy
 image: https://static.independent.co.uk/2026/08/28/09/2026-08-28T071301Z_1287521287_RC2OLJAPBCFS_RTRMADP_3_NORWAY-ROYALS-KING-HAAKON.JPG?trim=128,0,128,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Norway has a new king following the death of Harald V on Friday.

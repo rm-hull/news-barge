@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: Mr Odey took legal action against the regulator over the ban and its
   decision to fine him.
 image: https://static.independent.co.uk/2026/09/14/14/35ea2825439c8d6ec1946e24c1ffedf8Y29udGVudHNlYXJjaGFwaSwxNzc5MjA1MTcx-2.58543392.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Former hedge fund manager Crispin Odey has lost a legal challenge against the Financial Conduct Authority (FCA) over its decision to ban him from the UK finance industry over the handling of allegations of sexual misconduct against him.

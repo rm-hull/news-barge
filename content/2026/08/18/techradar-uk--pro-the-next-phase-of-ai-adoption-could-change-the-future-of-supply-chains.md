@@ -7,6 +7,9 @@ scraped_at: '2026-08-18T13:04:04Z'
 published: '2026-08-18T00:00:00Z'
 description: AI and the future of supply chains
 image: https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A line of robots typing at computers](https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL.jpg) 

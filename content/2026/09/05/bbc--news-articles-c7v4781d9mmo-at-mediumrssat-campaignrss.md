@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Several papers feature stories on what they say is Liam and Noel Gallagher's
   first joint interview in over 20 years.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa2c/live/ab4a4980-a97b-11f1-aa25-9d12a5feb00a.png
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![The headline on the front page of the Sunday Telegraph reads: “PM's Israel sanctions are 'risk to UK security'”.](https://ichef.bbci.co.uk/ace/standard/1040/cpsprodpb/c6be/live/51eb98c0-a96d-11f1-aed2-8d6da8d75094.jpg)

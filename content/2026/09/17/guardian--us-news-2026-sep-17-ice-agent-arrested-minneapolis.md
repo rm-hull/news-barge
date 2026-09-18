@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Christian Castro faced assault charges after shooting Venezuelan man
   through the door of his apartment while children were present
 image: https://i.guim.co.uk/img/media/4818e77960856a5da56f4a9528664d28ec97649b/412_0_4118_3294/master/4118.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a3120486bdf7baf2bebfe1dc3e19630e
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 A federal immigration officer wanted on assault charges for shooting and wounding a Venezuelan man in Minneapolis was arrested there on Wednesday, eight months after a confrontation that became a flashpoint over Donald Trump’s deportation sweeps.

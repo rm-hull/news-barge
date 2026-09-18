@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: Fewer people applied for U.S. unemployment benefits last week, another
   sign that layoffs remain low and that most Americans enjoy job security
 image: https://static.independent.co.uk/2026/08/07/05/US_Economy_Jobs_Report_48131.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 Fewer people applied for U.S. unemployment benefits last week, another sign that layoffs remain low and that most Americans enjoy job security.

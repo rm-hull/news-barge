@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Helen Paterson’s work on advancing how police and courts understand memory
   is recognised in prestigious Eureka prizes
 image: https://i.guim.co.uk/img/media/35addbfcdf9acb152b2c3df46eb207dfc5f6dbcf/159_4_1441_1153/master/1441.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5c98e1be6ac40d6f32da712a35abe932
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 Memory is an imperfect thing: research shows that recollections of single events – a purse being snatched, say – differ to those about repeated or ongoing events, such as incidents of domestic and family violence.

@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: Ted Lasso season 4 continues this week — this is when you can watch episode
   4 on Apple's streaming platform.
 image: https://cdn.mos.cms.futurecdn.net/NA3h5ihamxwkijUDqWzK9K-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Brendan Hunt, Jason Sudeikis and Tanya Reynolds in Ted Lasso season 4](https://cdn.mos.cms.futurecdn.net/NA3h5ihamxwkijUDqWzK9K.jpg) 

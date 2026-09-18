@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Three roads in Storwood will close for works expected to take two days
   from September 1.
 image: https://www.yorkpress.co.uk/resources/images/16957573.jpg?type=og-image&yType=49
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Newsquest)*

@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Father Dionysios Tabakis says his views are those of Orthodox church,
   ‘nothing more, nothing less’
 image: https://i.guim.co.uk/img/media/80dc7e38d76c149b73c1012468aadde5127e1362/317_0_4165_3333/master/4165.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c0ce8bd882e7a32c17dec80601a634b6
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A Greek Orthodox priest whose home-recorded album of drone metal and religious dubstep has made him a cult figure in experimental music circles has issued a statement in which he has clarified his stance on homosexuality and the Greek radical right.

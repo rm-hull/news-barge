@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: A potentially life-changing £220,000 project to build a new youth facility
   in Harrogate where “young people can form new friendships” is gaining momentum.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjkwMjUzZjNkLTg0MjktNGEwOC04NmM4LWJkZDRjODAwMTI4YjpmZjExODgxNC05NmY3LTRiZWUtODVmZi01YWFhNjhiMWI2ODE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Self-Improvement
 ---
 
 # Fundraising under way for new £220k youth facility in Harrogate which it's hoped will transform young lives

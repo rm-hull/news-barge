@@ -8,6 +8,13 @@ published: '2026-09-07T00:00:00Z'
 description: Police have issued CCTV of a man they want to speak to after stock worth
   £30 was stolen from a store on Fossgate, York, on August 17, 2026.
 image: https://www.gazetteherald.co.uk/resources/images/21421002.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Shopping & Deals
+- Business & Entrepreneurship
 ---
 
 *(Image: North Yorkshire Police)*

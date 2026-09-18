@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Plans to strengthen legislation already going through parliament might
   mean donors having to meet stricter UK residence requirements
 image: https://i.guim.co.uk/img/media/63a87c06fabf6a237fecb9a3571903fd8eeab300/605_0_4240_3392/master/4240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=005507a50d0101c4d56f88be6f62cc54
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Andy Burnham’s government could thwart Reform’s unprecedented £72m donations with retrospective restrictions on political donors that will include tough new residency requirements, ministers have announced.

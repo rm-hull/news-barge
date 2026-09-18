@@ -11,6 +11,11 @@ description: In a recent documentary marking a decade since Brexit, Nigel Farage
   foreign-looking folk queuing up to enter Britain and promised leaving the EU would
   cut immigration.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmNkNmY0ODM1LTdlM2QtNGU0Yy1iNTBmLWQ4NzFjMmUwNGViZDo2MWM1NGU2Yi0yZTExLTQ5MzEtYjM3ZC0yMzgyZTgzOWIyYzQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Why we need to be more honest when it comes to the immigration debate - Matt Bromley

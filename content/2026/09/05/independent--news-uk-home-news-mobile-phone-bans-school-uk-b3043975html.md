@@ -9,6 +9,12 @@ published: '2026-09-05T00:00:00Z'
 description: Schools now have a legal obligation to keep children off their mobile
   phones for the first time. But teachers disagree on which method is most effective
 image: https://static.independent.co.uk/2026/09/04/12/2255668482..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
+- Law & Justice
+- Technology & Software
 ---
 
 This week, schools have reopened for the new academic year tasked with a huge responsibility – keeping children off their mobile phones.

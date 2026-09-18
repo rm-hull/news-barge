@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: President Donald Trump’s usually loyal social media followers responded
   negatively to his defense of artificial intelligence and data centers this week
 image: https://static.independent.co.uk/2026/09/16/16/2294071798..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Society & Culture
 ---
 
 President Donald Trump’s Truth Social posting spree attempting to quash fears over the rise of artificial intelligence was met with a rare show of revolt from his base.

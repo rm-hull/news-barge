@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Earl Parker suffered a stroke in April while on a solo motorbike ride
   in the Yorkshire Dales.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aea4/live/908f68c0-9d53-11f1-aac2-870643eea2ac.jpg
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 ![Earl Parker on the left in a blue fleece shaking hands with Ashley Hird in a black jacket with the Yorkshire Dales National Park in the background](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/aea4/live/908f68c0-9d53-11f1-aac2-870643eea2ac.jpg)

@@ -10,6 +10,9 @@ published: '2026-08-20T00:00:00Z'
 description: Although AI models continue to improve in metrics and benchmarks, fundamental
   improvements may not come for a while
 image: https://cdn.mos.cms.futurecdn.net/HPfcbGdBSppPbtF6JuqUBJ-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Sam Altman talking](https://cdn.mos.cms.futurecdn.net/HPfcbGdBSppPbtF6JuqUBJ.jpg) 

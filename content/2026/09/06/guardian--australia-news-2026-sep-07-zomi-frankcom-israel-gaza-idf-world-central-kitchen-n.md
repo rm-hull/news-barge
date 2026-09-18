@@ -9,6 +9,9 @@ published: '2026-09-06T00:00:00Z'
 description: Greens defence spokesman says ‘words are just distractions’ until government
   takes action
 image: https://i.guim.co.uk/img/media/fbf424c515f9b213f9cd8f694dcab6846293659a/0_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=161f05916b34529511a0bfb66c66fd7a
+categories:
+- UK
+- News & Politics
 ---
 
 The Greens have criticised inflammatory statements from the former Israel Defense Forces officer who ordered the attack which killed Zomi Frankcom, accusing the Albanese government of weakness over its failure to halt military exports and impose new sanctions.

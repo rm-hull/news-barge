@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: A police cordon placed along Bridge Street in York has been removed -
   with the road now reopen to vehicles.
 image: https://www.yorkpress.co.uk/resources/images/21415899.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 A police cordon placed along a section of a main York city centre road has been removed - with the road now reopen to vehicles.

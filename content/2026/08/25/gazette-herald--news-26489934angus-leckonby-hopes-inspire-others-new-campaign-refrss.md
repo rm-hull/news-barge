@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Angus Leckonby is part of a new national campaign by Coca-Cola and Special
   Olympics GB that aims to inspire people with intellectual disabilities.
 image: https://www.gazetteherald.co.uk/resources/images/21363236.jpg?type=og-image&xType=0&yType=76
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

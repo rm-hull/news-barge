@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: BBC Scotland's chief sportswriter Tom English analyses Rangers' convincing
   Old Firm victory over Celtic at Ibrox.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a4ef/live/15bc74f0-af76-11f1-aafc-c90fa48bb0ed.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Derek McInnes](https://ichef.bbci.co.uk/ace/standard/909/cpsprodpb/a4ef/live/15bc74f0-af76-11f1-aafc-c90fa48bb0ed.jpg)

@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: Tens of thousands of mourners have paid their respects to Norway's King
   Harald V, who died at 89
 image: https://static.independent.co.uk/2026/08/29/11/Norway_King_Harald_27244.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Tens of thousands of mourners paid their respects to Norway's King Harald V on Saturday, placing flowers and condolence cards in front of the royal palace in Oslo a day after the monarch died at the age of 89.

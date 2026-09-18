@@ -9,6 +9,8 @@ scraped_at: '2026-08-19T04:50:48Z'
 published: '2026-08-19T00:00:00Z'
 description: The feature will build on its Insulin Resistance Trends tool
 image: https://cdn.mos.cms.futurecdn.net/AgUNwYV57X23xzkHdvUgQb-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Google Pixel 11 phone in hibiscus and image of body scans](https://cdn.mos.cms.futurecdn.net/AgUNwYV57X23xzkHdvUgQb.jpg) 

@@ -9,6 +9,9 @@ published: '2026-09-12T00:00:00Z'
 description: The US president’s short visit to Ireland over the weekend is expected
   to be met with protests
 image: https://static.independent.co.uk/2026/09/12/08/01M2A9SA61B6EA3A2TS6CE6FS6.jpg?trim=0,35,0,35&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Nine months before Donald Trump was voted in as US president for the first time in 2016, he was asked at a campaign rally about a large golf course he purchased on a picturesque sliver of Ireland’s Atlantic coast.

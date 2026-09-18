@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: A little extra walking never hurt anyone - people should stop complaining
   about the longer walk to the National Railway Museum, says today's…
 image: https://www.yorkpress.co.uk/resources/images/21349736.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 *(Image: NQ)*

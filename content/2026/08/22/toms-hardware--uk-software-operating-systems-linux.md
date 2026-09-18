@@ -7,6 +7,9 @@ scraped_at: '2026-08-22T16:36:18Z'
 published: '2026-08-22T00:00:00Z'
 description: Discover more about Linux with insights from the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/X6iB5cWC9stabSJtgczKnd-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Marketing image for the Voodoo 3 graphics card](https://cdn.mos.cms.futurecdn.net/X6iB5cWC9stabSJtgczKnd-320-80.jpg)

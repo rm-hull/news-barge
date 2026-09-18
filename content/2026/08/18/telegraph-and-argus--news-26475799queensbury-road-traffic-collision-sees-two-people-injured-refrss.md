@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: A police cordon is in place following a road traffic collision earlier
   today.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21337892.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 A police cordon is in place after two women were injured in a road traffic collision today.

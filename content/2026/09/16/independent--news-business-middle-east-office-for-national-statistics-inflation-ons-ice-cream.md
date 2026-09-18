@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Renewed hostilities in the Middle East in recent weeks have contributed
   to a sharp rise in the cost of fuel.
 image: https://static.independent.co.uk/2026/09/16/10/dc29260b45bbfee6caf2c1f7aced4c35Y29udGVudHNlYXJjaGFwaSwxNzg5NjM2NzQx-2.68522655.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Household staples such as pasta, margarine and tea all contributed to last month’s jump in inflation, along with a rise in the cost of fuel and long-haul air fares.

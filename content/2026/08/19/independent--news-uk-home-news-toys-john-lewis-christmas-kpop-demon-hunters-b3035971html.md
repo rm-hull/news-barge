@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T01:48:28Z'
 published: '2026-08-19T00:00:00Z'
 description: The list has been released more than four months ahead of Christmas Day
 image: https://static.independent.co.uk/2025/12/02/15/57/iStock-173042961.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Shopping & Deals
 ---
 
 A K-Pop Demon Hunters singing doll and a £300 doll’s house are set to be among the bestselling toys this Christmas, according to John Lewis.

@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: A stronger jet stream will bring a distinctly autumnal look to our weather
   this week, but is there a September heatwave on the horizon later this month?
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/2aaa/live/049167d0-af62-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Two people cross the road with umbrellas, one has been turned inside out by the wind](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/2aaa/live/049167d0-af62-11f1-b1d1-571ed4d7ff2c.jpg)

@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: A new wellbeing cafe is to open in Ripon with “generous” funding from
   Ripon City Council.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmUzZjc1NGQxLWM4NDMtNGE0My1hNjY4LWQ4ZmU5Y2JmNTA1YTo1ZTYwYTk0OS0yZjI1LTRjZDgtYTYzYi02Y2YzNjUzNzBlM2M=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 # Leading Ripon charity is ready to launch new wellbeing café after 'generous' donation

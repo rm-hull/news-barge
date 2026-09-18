@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: Ripon-based Econ Engineering has invested £1.1m in a new laser cutting
   machine at its manufacturing headquarters.
 image: https://mmo.aiircdn.com/409/6aa93ebfcb414698a87.jpg
+categories:
+- Local
+- Harrogate
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa93ebfcb414698a87.jpg) 

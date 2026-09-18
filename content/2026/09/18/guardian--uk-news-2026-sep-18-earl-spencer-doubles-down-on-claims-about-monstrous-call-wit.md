@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Charles Spencer, Diana’s brother, claims then prince told him ‘we’ll
   forget her soon enough’
 image: https://i.guim.co.uk/img/media/25f4cc78ec7e4202258c1d6fc2bcb6a2dadd3c7f/267_0_2573_2058/master/2573.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=703ac5c9bd633ca14c66378607b07802
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Earl Spencer has doubled down on his bombshell claim that King Charles said of Diana, Princess of Wales, “rest assured, we’ll forget her soon enough” days after her death, saying he is telling the truth.

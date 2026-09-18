@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The Cadbury Dairy Milk Winter Mint Crisp bar is a popular flavour among
   Brits but is only available in the months leading up to Christmas.
 image: https://www.thenorthernecho.co.uk/resources/images/21370114.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Newsquest)*

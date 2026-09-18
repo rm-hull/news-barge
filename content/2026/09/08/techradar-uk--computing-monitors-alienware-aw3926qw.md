@@ -8,6 +8,8 @@ published: '2026-09-08T00:00:00Z'
 description: The 39-inch 5K2K Alienware AW3926QW is probably the best OLED gaming
   monitor yet, but it does have one pesky problem.
 image: https://cdn.mos.cms.futurecdn.net/pSxwHiBPDFYbborBBzAs9Y-2100-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

@@ -9,6 +9,10 @@ description: Since the 1990s, researchers have wondered if unexpected results fr
   gallium-based neutrino detectors are a sign of a new kind of particle, but a new
   study suggests that revising their calculations could explain the anomaly
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308318508.jpg
+categories:
+- Science
+- Technology & Software
+- True Crime
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308318508.jpg?w=840)

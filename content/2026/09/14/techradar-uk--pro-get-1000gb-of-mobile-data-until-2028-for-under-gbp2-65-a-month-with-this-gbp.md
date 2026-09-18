@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Need loads of mobile data? This preloaded £58 SIM deal gives you 1000GB
   a month until 2028 on Three and Vodafone with zero monthly bills.
 image: https://cdn.mos.cms.futurecdn.net/SaWtQpSJMo5Pyqf3DbA7gE-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![1000GB Data SIM from Three](https://cdn.mos.cms.futurecdn.net/SaWtQpSJMo5Pyqf3DbA7gE.jpg) 

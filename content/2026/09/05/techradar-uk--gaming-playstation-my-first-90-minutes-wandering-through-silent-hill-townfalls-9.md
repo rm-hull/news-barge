@@ -9,6 +9,8 @@ published: '2026-09-05T00:00:00Z'
 description: We go hands-on with an extended section of the next Silent Hill release
   at Gamescom 2026.
 image: https://cdn.mos.cms.futurecdn.net/b64j2ZpVKbiqVFijyLfutM-2560-80.png
+categories:
+- Technology & Software
 ---
 
 ![Silent Hill: Townfall promotional imagery.](https://cdn.mos.cms.futurecdn.net/b64j2ZpVKbiqVFijyLfutM.png) 

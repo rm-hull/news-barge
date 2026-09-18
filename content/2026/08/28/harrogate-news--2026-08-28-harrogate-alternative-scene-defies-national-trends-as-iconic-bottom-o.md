@@ -10,6 +10,10 @@ description: Harrogate’s longest-running alternative, metal, and punk club nig
   Bottom of the Bottle, is making a major return to celebrate its 25th Anniversary
   Party.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/DJ-Trev-2013.webp
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 Harrogate’s longest-running alternative, metal, and punk club night, Bottom of the Bottle, is making a major return to celebrate its **25th Anniversary Party**. Helmed by legendary local star** DJ Trev**, the night of noisy nostalgia is back for a highly anticipated one-off reunion.

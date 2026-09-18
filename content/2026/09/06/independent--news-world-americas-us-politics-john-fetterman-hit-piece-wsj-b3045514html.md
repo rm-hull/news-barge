@@ -9,6 +9,9 @@ description: The Wall Street Journal reported this week that the Pennsylvania De
   has shown ‘little interest’ in his job, often avoiding constituents and skipping
   out on Senate business
 image: https://static.independent.co.uk/2026/09/06/14/08/GettyImages-2275699438.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Senator John Fetterman dismissed a scathing profile of his Senate tenure as a “hit piece” driven by “disgruntled staffers.”

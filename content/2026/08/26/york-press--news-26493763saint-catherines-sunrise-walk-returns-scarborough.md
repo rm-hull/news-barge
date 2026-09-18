@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Saint Catherine’s has launched its annual Sunrise Walk, now in its 18th
   year, taking place in Scarborough next month.
 image: https://www.yorkpress.co.uk/resources/images/21369033.jpg?type=og-image&xType=0&yType=123
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Health & Fitness
 ---
 
 *(Image: Emma Warley)*

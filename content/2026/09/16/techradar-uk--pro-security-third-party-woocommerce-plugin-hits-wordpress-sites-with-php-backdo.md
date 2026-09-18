@@ -8,6 +8,8 @@ scraped_at: '2026-09-16T13:27:05Z'
 published: '2026-09-16T00:00:00Z'
 description: Attackers are actively exploiting a recently patched flaw
 image: https://cdn.mos.cms.futurecdn.net/zHBWWxpmu5iienhz4xVsXa-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![WooCommerce](https://cdn.mos.cms.futurecdn.net/zHBWWxpmu5iienhz4xVsXa.jpg) 

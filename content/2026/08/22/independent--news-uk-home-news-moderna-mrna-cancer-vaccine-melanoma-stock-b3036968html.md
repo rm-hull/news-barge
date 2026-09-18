@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Melanoma is the most aggressive form of skin cancer causing about 2,600
   deaths a year in the UK
 image: https://static.independent.co.uk/2026/08/20/11/2026-08-19T100015Z_915824590_RC2LCR9SMG3X_RTRMADP_3_MERCK-MODERNA-CANCER-VACCINE.JPG?trim=0,209,0,209&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Science
 ---
 
 A personalised vaccine given in combination with a drug has been shown to stop tumors returning in skin cancer patients.

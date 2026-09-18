@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: York College has become the first in the UK to offer fully funded heart
   screening to its student athletes.
 image: https://www.gazetteherald.co.uk/resources/images/21365218.jpg?type=og-image&xType=0&yType=83
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 A college has become the first in the UK to offer fully funded heart screening to its student athletes.

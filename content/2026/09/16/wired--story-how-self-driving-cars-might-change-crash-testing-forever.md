@@ -9,6 +9,10 @@ description: Lie down in a car, and you’re more likely to get seriously hurt i
   crash. But a driverless future is forcing governments to revisit long-standing safety
   issues.
 image: https://media.wired.com/photos/6aa45f4a3ba3acde40ed8b71/191:100/w_1280,c_limit/Self-Driving-Cars-Gear-THOR-AV-50M_Reclined%20Zero%20Gravity%20Seat.jpg
+categories:
+- Technology & Software
+- Science
+- Automotive
 ---
 
 In a video posted on X, a Tesla enthusiast hops into what was once the driver’s seat of a new matte gold Cybercab. “Once” because the vehicle, which officially hit the streets earlier this month as part of Tesla’s Robotaxi ride-hail service, doesn’t have a steering wheel or brake pedals.

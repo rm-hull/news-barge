@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Renewed scrutiny comes after police officer accused of falsifying records
   in order to close the cases of people who were later found dead
 image: https://i.guim.co.uk/img/media/e64544af30657fd0f55b257a91b44800fa60e1af/174_1613_3619_2895/master/3619.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=122a8b9656a63a90c18288ed057ab9bc
+categories:
+- UK
+- News & Politics
+- True Crime
+- Business & Entrepreneurship
 ---
 
 South Korean police will re-examine about 310,000 missing persons cases closed over the past three years, prompted by a scandal in which an officer was arrested on suspicion of falsifying records to close files on two people who were later found dead.

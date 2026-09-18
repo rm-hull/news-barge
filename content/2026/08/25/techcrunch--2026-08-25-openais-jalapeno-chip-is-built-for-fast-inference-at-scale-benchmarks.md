@@ -10,6 +10,9 @@ description: Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registere
   more tokens per user and more throughput per kilowatt than the currently available
   state-of-the art.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Jalapeno-chip-final.jpeg?resize=1200,900
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 At the Hot Chips conference on Tuesday, OpenAI shared a more detailed look at Jalapeño, including the first batch of benchmark results for the new system. Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the-art inference processors.

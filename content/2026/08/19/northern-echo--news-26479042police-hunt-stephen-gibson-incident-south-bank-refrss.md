@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A police hunt is underway to locate a man in his 30s wanted in connection
   with attempted murder.
 image: https://www.thenorthernecho.co.uk/resources/images/21343112.jpg?type=og-image&xType=0&yType=93
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 A police hunt is underway to locate a man in his 30s wanted in connection with an attempted murder.

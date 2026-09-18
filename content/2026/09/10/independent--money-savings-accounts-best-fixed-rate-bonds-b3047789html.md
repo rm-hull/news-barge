@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Fixed term bonds lock away your cash for a period — but guarantee you
   a return even if interest rates move
 image: https://static.independent.co.uk/2026/09/10/10/12/iStock-1477402260-(1).jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The potential for rising interest rates has homeowners facing the prospect of higher mortgage rates – but the flip side is that savings rates are rising too.

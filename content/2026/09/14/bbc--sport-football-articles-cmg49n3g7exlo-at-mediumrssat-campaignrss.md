@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Arsenal will contact refereeing body Pro Ref over the incident that saw
   Ezri Konsa concede a penalty in Saturday's win over Sunderland.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4b2f/live/dca8cbf0-b02e-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Referee completely wrong to award penalty - Ashley Williams

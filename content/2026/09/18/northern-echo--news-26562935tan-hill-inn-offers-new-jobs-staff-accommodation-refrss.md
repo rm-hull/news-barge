@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Britain's highest pub in North Yorkshire is on the hunt for new staff,
   offering the chance to live and work amid some of the country's…
 image: https://www.thenorthernecho.co.uk/resources/images/21473735.jpg?type=og-image&xType=0&yType=88
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: The Tan Hill Inn)*

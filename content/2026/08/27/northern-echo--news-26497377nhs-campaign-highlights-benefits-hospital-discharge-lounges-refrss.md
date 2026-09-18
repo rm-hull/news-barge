@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: County Durham and Darlington NHS Foundation Trust has celebrated its
   discharge lounges, highlighting their role in supporting safe, timely patient…
 image: https://www.thenorthernecho.co.uk/resources/images/20964426.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A campaign highlighting the vital role of hospital discharge lounges is taking place across County Durham and Darlington this month.

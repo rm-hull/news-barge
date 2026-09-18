@@ -8,6 +8,9 @@ published: '2026-09-04T00:00:00Z'
 description: A former high-ranking Democratic legislator in New Mexico already convicted
   in federal fraud case has pleaded guilty to related state charges
 image: null
+categories:
+- News & Politics
+- UK
 ---
 
 A former high-ranking Democratic legislator in New Mexico accused of diverting millions of dollars meant for vocational education in the state’s largest school district to businesses and charities in which she had an interest has pleaded guilty to state charges that include fraud and money laundering.

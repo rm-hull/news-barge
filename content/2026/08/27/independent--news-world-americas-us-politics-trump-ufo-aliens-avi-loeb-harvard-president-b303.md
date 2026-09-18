@@ -7,6 +7,9 @@ scraped_at: '2026-08-27T12:00:50Z'
 published: '2026-08-27T00:00:00Z'
 description: The Trump administration has released five batches of UFO files so far
 image: https://static.independent.co.uk/2026/08/26/14/download.-2.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Trump has made a point of releasing UFO-related materials to the public, but if little green men ever visit Earth they’re unlikely to care much about our politics or who is in the White House, according to one of the president’s advisors on UFOs.

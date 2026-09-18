@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: A teenager has been sentenced to life in prison after pleading guilty
   on Wednesday to the 2022 murder of his 10-year-old cousin in Wisconsin.
 image: https://static.the-independent.com/2022/04/25/20/newFile-1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Society & Culture
 ---
 
 A teenager has been sentenced to life in prison after pleading guilty on Wednesday to the 2022 murder of his 10-year-old cousin in Wisconsin.

@@ -10,6 +10,11 @@ description: A gang who smuggled migrants into the UK on boats and lorries and r
   to them as ‘chickens’ to try and evade capture have been jailed for a total of almost
   40 years.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/16/8/14/Untitled-design-(4).png?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Smuggling gang who referred to migrants as 'chickens' jailed for almost 40 years

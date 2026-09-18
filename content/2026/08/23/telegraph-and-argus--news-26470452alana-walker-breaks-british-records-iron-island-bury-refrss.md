@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: An adaptive strongman is preparing to represent Great Britain on the
   world stage after smashing two British records.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20802657.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: T&A)*

@@ -9,6 +9,10 @@ description: Electric motorcycles are bringing Africa’s energy transition into
   Maasai Mara game reserve, where rangers are using solar-charged bikes to patrol
   wildlife areas more quietly, and to pursue suspected poachers
 image: https://static.independent.co.uk/2026/09/14/02/Kenya_EV_Wildlife_29665.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Joshua Kijape eases his motorcycle through the tall grass, listening for movement in the bush. There is no engine rumble, no exhaust and little warning for anything ahead.

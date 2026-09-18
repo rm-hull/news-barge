@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Australia is being exploited by an ally that could draw it, however unwillingly,
   into war with China, experts warn
 image: https://i.guim.co.uk/img/media/e66c71a9d6ef4d98064b919858e2e3fb3e2f1882/363_0_4663_3733/master/4663.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=27416b854f179641f6026049fc38e8a0
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 “Physical security matters,” said Kevin Rudd, at his axiomatic best before the National Press Club this week.

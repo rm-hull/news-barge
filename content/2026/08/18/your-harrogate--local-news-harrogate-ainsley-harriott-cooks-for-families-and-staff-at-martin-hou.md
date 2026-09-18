@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: TV chef Ainsley Harriott has helped prepare meals for families and staff
   during a visit to Martin House Children's Hospice.
 image: https://mmo.aiircdn.com/409/6a841061c67e82cd37b.jpg
+categories:
+- Local
+- Harrogate
+- Lifestyle & Fashion
 ---
 
 ![](https://mmo.aiircdn.com/409/6a841061c67e82cd37b.jpg) 

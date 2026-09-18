@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Grint, now 38, will play his character as an adult in the Harry Potter
   spin-off play in New York.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ef1/live/a87f1fd0-a15d-11f1-aaf8-119f176ff4ce.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- Comedy & Entertainment
 ---
 
 ![Rupert Grint in a dark shirt and white T-shirt, smiling and posing in front of a blue background](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1ef1/live/a87f1fd0-a15d-11f1-aaf8-119f176ff4ce.jpg)

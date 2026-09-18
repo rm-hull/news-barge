@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T11:17:08Z'
 published: '2026-08-28T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/unnamed.jpg
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 The Aldwark Arms, a traditional pub in an idyllic village setting near York, has been sold.

@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Breast cancer patients in Harrogate could receive faster treatment decisions
   thanks to pioneering new AI technology introduced at Harrogate District Hospital.
 image: https://mmo.aiircdn.com/409/6a8453e80f33a333fd6.jpg
+categories:
+- Local
+- Harrogate
+- Technology & Software
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8453e80f33a333fd6.jpg) 

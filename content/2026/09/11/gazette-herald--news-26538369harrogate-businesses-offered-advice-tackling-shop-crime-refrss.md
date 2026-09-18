@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Retailers in Harrogate are being invited to a free event focused on tackling
   shop crime and improving safety.
 image: https://www.gazetteherald.co.uk/resources/images/21434375.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Harrogate BID)*

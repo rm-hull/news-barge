@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: A New Hampshire judge has dismissed Pamela Smart's latest petition for
   a new trial
 image: https://static.independent.co.uk/2026/09/17/22/Pamela_Smart_Petition_59512.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A New Hampshire judge on Thursday dismissed the latest petition for a new trial from Pamela Smart, who is serving life in prison for orchestrating the murder of her husband by her teenage student more than three decades ago.

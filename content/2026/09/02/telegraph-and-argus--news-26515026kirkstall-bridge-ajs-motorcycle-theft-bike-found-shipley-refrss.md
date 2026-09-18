@@ -7,6 +7,11 @@ scraped_at: '2026-09-02T12:45:57Z'
 published: '2026-09-02T00:00:00Z'
 description: A stolen motorcycle has been recovered by police.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21400622.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: WYP)*

@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Croft Circuit will host two days of motorsport action next weekend, with
   sidecars, saloons, sports cars and the Battle of Britain Trophy Race all on…
 image: https://www.thenorthernecho.co.uk/resources/images/20896080.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 Croft Circuit is preparing to welcome drivers and spectators from across the country for a busy weekend of motorsport when the annual Battle of Britain meeting returns on August 22 and 23.

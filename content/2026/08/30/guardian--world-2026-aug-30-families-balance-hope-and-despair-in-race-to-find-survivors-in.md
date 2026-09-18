@@ -10,6 +10,10 @@ description: The walls of teaching hospital in Nepal fill with pictures of unide
   victims as authorities collect DNA samples and plan burials before morgues fill
   up
 image: https://i.guim.co.uk/img/media/85c08f12aca94cf3bba4c613b643f7b91766f442/458_0_4582_3665/master/4582.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec79c4fe8de2dbab92d0b10b86dc0e49
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Some of them are young, some old; most of them appear to be men. Some of them could be sleeping, except for the mud that covers their bodies. Some, it seems, would be impossible to recognise even if you knew them well.

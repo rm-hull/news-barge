@@ -8,6 +8,10 @@ scraped_at: '2026-09-07T19:53:29Z'
 published: '2026-09-07T00:00:00Z'
 description: And will Trump succeed in limiting mail-in voting before the midterms?
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0j72y80.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ## Episode details

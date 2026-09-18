@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: At San Francisco conference, OpenAI chief Sam Altman calls for more rigorous
   security measures
 image: https://i.guim.co.uk/img/media/5d5fcfa525347b3468737a9795e643b7bcc66eb1/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=72e8332305e280fbe3cd97c66e5a5578
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Anthropic’s CEO took the stage at a conference in San Francisco on Tuesday to reiterate his call for a slowdown of AI development, while Nvidia’s CEO argued against such deceleration.

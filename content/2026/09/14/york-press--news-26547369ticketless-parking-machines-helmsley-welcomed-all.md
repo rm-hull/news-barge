@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: A NORTH Yorkshire councillor has said the new parking machines being
   installed across the county have had a positive impact
 image: https://www.yorkpress.co.uk/resources/images/21450911.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: Freelancer)*

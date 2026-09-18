@@ -9,6 +9,9 @@ description: Reducing fishing quotas, rescuing endangered species from the water
   testing geoengineering could help soften ocean heat impacts from the record El Niño,
   some oceanographers argue
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312399289.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312399289.jpg?w=840)

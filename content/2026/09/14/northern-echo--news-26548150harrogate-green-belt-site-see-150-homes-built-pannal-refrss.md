@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Plans for up to 150 new homes in green belt land near Harrogate would
   help address a severe shortage of housing in the area, according to the…
 image: https://www.thenorthernecho.co.uk/resources/images/21452027.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 Plans for up to 150 new homes in green belt land near Harrogate would help address a severe shortage of housing in the area, according to the developer behind the scheme.

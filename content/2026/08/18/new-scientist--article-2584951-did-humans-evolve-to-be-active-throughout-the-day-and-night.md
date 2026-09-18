@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Evidence from hunter-gatherers suggests humans aren't diurnal but cathemeral,
   with bouts of activity at nighttime – a sleep pattern similar to some lemurs
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308290189.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308290189.jpg?w=840)

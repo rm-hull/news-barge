@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: The cooling of the North Atlantic is creating waviness in the jet stream
   and high-pressure ridging over Europe, a study finds
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308998450.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![glacier calving event in East Greenland](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308998450.jpg?w=840)

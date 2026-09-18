@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: John Sweeney was serving a whole-life sentence after being convicted
   in 2011 of the two murders.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/937a/live/aabbe1e0-a188-11f1-9ebf-d7a2f4c11284.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A custody-style photograph showing a Sweeney wearing a dark cap, denim shirt layered under a dark jacket and a light-coloured top, standing against a plain light background.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/937a/live/aabbe1e0-a188-11f1-9ebf-d7a2f4c11284.jpg)

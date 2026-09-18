@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: Thousands of golf fans visiting the Solheim Cup in the Netherlands are
   enjoying local and national specialties
 image: https://static.independent.co.uk/2026/09/11/13/Netherlands_Solheim_Cup-Food_Golf_2_447.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Travel
+- Food & Cooking
 ---
 
 Sherry Ford took a bite of her Dutch meatball roll and wiped mayonnaise off her chin. And her coat. And her sleeve.

@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Trade war escalates after negotiations break down with Trump’s aggressive
   tariff agenda
 image: https://static.independent.co.uk/2026/08/24/15/2291058527..?trim=267,0,267,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Canada is rolling out a slate of retaliatory trade moves against the U.S. in response to Donald Trump’s latest tariffs after negotiations between the neighboring nations broke down in an escalating trade war.

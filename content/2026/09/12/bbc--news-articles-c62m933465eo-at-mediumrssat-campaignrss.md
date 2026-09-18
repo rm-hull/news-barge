@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Iraq removes a military commander and opens investigations into the attack
   that came from an area bordering Iran.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03a0/live/0047f800-ae96-11f1-b92e-1f49080ec3cb.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 How Houthi gains in Yemen could drive up oil prices

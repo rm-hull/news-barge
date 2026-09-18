@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Apple Music will require artists to label their AI-generated music so
   users know what they’re getting.
 image: https://cdn.mos.cms.futurecdn.net/mHR88ToNSF9ZfWouuiPsLW-1920-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ![The Apple Music app icon against a red background on an iPhone.](https://cdn.mos.cms.futurecdn.net/mHR88ToNSF9ZfWouuiPsLW.jpg) 

@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Humanitarian organizations are mobilizing to aid survivors along the
   Nepal-China border after catastrophic floods struck the region Wednesday
 image: https://static.independent.co.uk/2026/08/28/12/Nepal_Flash_Floods__753_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 As rescue teams continue searching for hundreds of people missing along the Nepal-China border following catastrophic floods, humanitarian organizations are mobilizing to aid survivors.

@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Two equine vets have launched a new independent practice in Easingwold
   after being made redundant when York's Minster Equine Vets closed.
 image: https://www.yorkpress.co.uk/resources/images/21446653.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Two York vets build thriving new practice after shock closure left them jobless

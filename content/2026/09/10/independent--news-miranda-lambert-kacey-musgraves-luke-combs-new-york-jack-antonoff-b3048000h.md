@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Ella Langley leads the 2026 Country Music Association Awards nominations
   with nine nods, thanks to her hit “Choosin’ Texas.”
 image: https://static.independent.co.uk/2026/09/10/14/Music-CMA-Award-Nominations_63_55.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
+- Arts & Culture
 ---
 
 Ella Langley, riding the wave of her crossover megahit “Choosin’ Texas,” leads the nominations for the 2026 Country Music Association Awards with nine nods, followed by her mentor Miranda Lambert with six.

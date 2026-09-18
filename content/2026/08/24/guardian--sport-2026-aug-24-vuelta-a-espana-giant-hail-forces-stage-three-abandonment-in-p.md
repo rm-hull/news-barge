@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: A torrential hailstorm in the French Pyrenees forced the abandonment
   of the third stage of the Vuelta a España
 image: https://i.guim.co.uk/img/media/d11a8ec43ab84bbab816b01c2d35730dd73e6ba9/466_0_4788_3831/master/4788.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=18e2497517b5f95bfaae97ec0efcbc6d
+categories:
+- UK
+- News & Politics
+- Travel
+- Sports
+- History
 ---
 
 The third stage of the Vuelta a España ended without a winner after being halted because of hail on Monday.

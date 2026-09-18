@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The National Drug Law Enforcement Agency arrested Esther Ogunmabo on
   suspicion of selling skunk
 image: https://static.independent.co.uk/2026/08/24/19/49/20260823105414-pxR290-1-great-grandma.png?trim=0,109,0,191&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Police in Nigeria have arrested a 101-year-old great-grandmother on suspicion of selling drugs.

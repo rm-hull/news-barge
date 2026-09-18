@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: 'Fire Emblem: Fortune’s Weave is an exceptional tactical RPG that masterfully
   blends tremendous turn-based combat, enjoyable exploration, and stellar storytelling.'
 image: https://cdn.mos.cms.futurecdn.net/LpdNB8hFhCgFMmHteyX7td-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ### TechRadar Verdict

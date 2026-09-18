@@ -9,6 +9,10 @@ scraped_at: '2026-09-18T19:00:37Z'
 published: '2026-09-18T00:00:00Z'
 description: Researchers receive a $6,500 bounty after reporting the vulnerabilities
 image: https://cdn.mos.cms.futurecdn.net/YUDxAZxxyWFMPWzwJRmWvH-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![generic hack screen](https://cdn.mos.cms.futurecdn.net/YUDxAZxxyWFMPWzwJRmWvH.jpg) 

@@ -10,6 +10,11 @@ description: A settlement announced Wednesday between Meta and dozens of states 
   one of its biggest legal fights, but the social media giant is still facing litigation
   elsewhere over its products’ effects on young people’s mental health
 image: https://static.independent.co.uk/2026/08/26/22/APTOPIX_US_Meta_Trial_7_55_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Health & Fitness
 ---
 
 A settlement announced Wednesday between Meta and dozens of states resolves one of its biggest legal fights, but the social media giant is still facing litigation elsewhere over its products' effects on young people's mental health.

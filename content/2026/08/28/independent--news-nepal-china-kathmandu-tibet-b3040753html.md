@@ -10,6 +10,10 @@ description: The death toll from massive flash floods has risen to 469 in Nepal,
   said Friday, as rescuers work to find hundreds of people still missing in the area
   on the Nepal-China border
 image: https://static.independent.co.uk/2026/08/28/04/China_Nepal_Flash_Floods_5_595.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Death toll from flash floods rises with rescuers in Nepal and China working to find hundreds missing

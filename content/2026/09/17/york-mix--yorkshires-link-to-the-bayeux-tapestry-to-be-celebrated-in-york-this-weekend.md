@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T13:23:20Z'
 published: '2026-09-17T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/The-Yorkshire-Museum.-Image-Courtesy-of-York-Museums-Trust-2.webp
+categories:
+- Local
+- York
+- Comedy & Entertainment
 ---
 
 The Bayeux Tapestry excitement is extending into York – as the Yorkshire Museum prepares to launch a fun weekend programme of events to celebrate the display of the tapestry at the British Museum.

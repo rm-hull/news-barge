@@ -9,6 +9,11 @@ description: One of the biggest challenges that Britain faces is that of youth u
   The high number of young people not in education, employment or training (Neets)
   is portentous of an economy headed for the rocks.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM2NDJkMjU1LTIzZTgtNDQwMC05ZWRkLTUzNWY2ZjJiM2Y0NToxODA4ODJlYi01ZDkwLTRhMjEtOTk3MC0zMzFhMzIzNDk0ZDY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # A fall in the number of Neets but the challenge still remains

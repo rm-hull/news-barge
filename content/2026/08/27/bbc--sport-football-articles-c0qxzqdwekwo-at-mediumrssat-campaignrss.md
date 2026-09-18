@@ -9,6 +9,10 @@ description: Jack Grealish's preference would be to make a return to Everton sho
   he leave Manchester City in the remaining days of the transfer window, sources have
   told BBC Sport.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c1b7/live/27fb9400-a1fe-11f1-a97e-999c5aae08bf.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Jack Grealish playing for Manchester City](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/c1b7/live/27fb9400-a1fe-11f1-a97e-999c5aae08bf.jpg)

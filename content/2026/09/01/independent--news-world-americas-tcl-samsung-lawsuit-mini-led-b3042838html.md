@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Filed in Los Angeles federal court, the suit claims Samsung’s conduct
   "has misled consumers and diverted sales from TCL's genuine Mini LED televisions”
 image: https://static.independent.co.uk/2026/09/01/15/2276998786..?trim=105,0,105,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Irvine-based consumer electronics firm TCL North America has filed a lawsuit against Samsung Electronics America, alleging the company falsely advertised its M Model televisions as featuring advanced Mini LED technology when the sets lack that feature.

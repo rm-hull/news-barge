@@ -9,6 +9,10 @@ description: Officials in the Trump administration sought to scrap plans for rel
   to a site approved under the Biden administration in favour of repurposing another
   building just blocks from the current FBI headquarters in the nation’s capital.
 image: https://images.euronews.com/articles/stories/09/87/80/71/1200x675_cmsv2_f0d8936f-2ec4-5f9e-8dec-a8abb3c21ea7-9878071.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## Officials in the Trump administration sought to scrap plans for relocation to a site approved under the Biden administration in favour of repurposing another building just blocks from the current FBI headquarters in the nation’s capital.

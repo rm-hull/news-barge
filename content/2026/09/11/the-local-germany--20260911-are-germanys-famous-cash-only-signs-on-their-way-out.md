@@ -8,6 +8,13 @@ published: '2026-09-11T00:00:00Z'
 description: Under new government plans, businesses across Germany could soon be required
   to offer card or mobile payments alongside cash.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-618437194.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Anyone who has lived in Germany for a while has probably encountered the famous “cash only” (*Nur Barzahlung*) sign.

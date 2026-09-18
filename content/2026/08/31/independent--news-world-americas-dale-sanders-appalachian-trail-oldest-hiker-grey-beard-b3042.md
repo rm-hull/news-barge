@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Dale Sanders, who hikes under the name Grey Beard, originally set the
   Appalachian Trail age record in 2017
 image: https://static.independent.co.uk/2026/08/31/18/APTOPIX_Appalachian_Trail-Oldest_Hiker_27783.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Falls affect more than 14 million older adults in the U.S. every year, but few experience them quite as frequently as 91-year-old Dale Sanders.

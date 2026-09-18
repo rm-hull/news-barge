@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: ViewX just launched a 27-inch screen that shows 3D images without glasses,
   and it already blew past its funding goal
 image: https://cdn.mos.cms.futurecdn.net/2YLaCUJfLjWyBbuh4URDeX-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![ViewX glasses-free spatial 3D display](https://cdn.mos.cms.futurecdn.net/2YLaCUJfLjWyBbuh4URDeX.jpg) 

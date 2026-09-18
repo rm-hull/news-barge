@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: The revelations in Anthropic's threat intelligence report come after
   a former top researcher at the company warned of the risks of AI to humanity.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/090c/live/88ca35f0-ad6d-11f1-8edd-ada2fcb84b27.jpg
+categories:
+- UK
+- News & Politics
+- Science
+- Technology & Software
 ---
 
 ![Anthropic logo is seen in this picture illustration taken 16 August 2026.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/090c/live/88ca35f0-ad6d-11f1-8edd-ada2fcb84b27.jpg)

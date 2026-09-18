@@ -8,6 +8,9 @@ scraped_at: '2026-09-15T11:27:29Z'
 published: '2026-09-15T00:00:00Z'
 description: Lady Justice Thirlwall’s report comes almost a year later than anticipated
 image: https://static.independent.co.uk/2026/09/15/7/41/lucy-letby-new.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A major report into the hospital where killer nurse Lucy Letby carried out her crimes is set to be published on Tuesday afternoon.

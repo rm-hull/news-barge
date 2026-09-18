@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: A POTENTIAL breakthrough in the treatment of a rare and life-limiting
   disease has been made by researchers
 image: https://www.thetelegraphandargus.co.uk/resources/images/21461060.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
+- Science
 ---
 
 *(Image: University of Bradford)*

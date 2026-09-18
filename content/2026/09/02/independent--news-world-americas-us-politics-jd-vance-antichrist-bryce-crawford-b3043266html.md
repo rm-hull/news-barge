@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: Discussing his spiritual beliefs with Christian podcaster Bryce Crawford,
   Vance also defended President Trump’s AI Jesus post from earlier this year
 image: https://static.independent.co.uk/2026/09/02/7/03/Vance.png?trim=0,194,0,20&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 JD Vance has said that the Antichrist may be “walking among us”, in an interview about his Roman Catholic faith.

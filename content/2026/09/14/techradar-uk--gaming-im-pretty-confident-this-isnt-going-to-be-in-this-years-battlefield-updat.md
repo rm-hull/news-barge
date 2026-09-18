@@ -11,6 +11,11 @@ description: 'I spoke to PUBG: Dednet director Dave Curd at Gamescom, who explai
   how the team is leaning into to the weird and wonderful with character abilities
   to make its vibrant and violent ''90s-inspired shooter stand out.'
 image: https://cdn.mos.cms.futurecdn.net/yX2DkGaSfK8VxhWrhsBxhA-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 ![A character from PUBG: Dednet wielding a gun with a doll holding a drill rides on his back](https://cdn.mos.cms.futurecdn.net/yX2DkGaSfK8VxhWrhsBxhA.jpg) 

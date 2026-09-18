@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: The old adage used to be that English players came at a premium. Now
   that appears to simply apply to a player already in the Premier League.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3b66/live/568cf390-a77b-11f1-b2d5-535b3b3d379f.jpg
+categories:
+- UK
+- News & Politics
+- Video Gaming
+- Sports
 ---
 
 ![A collage of players featuring Iliman Ndiaye, Savio and Carlos Baleba](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/3b66/live/568cf390-a77b-11f1-b2d5-535b3b3d379f.jpg)

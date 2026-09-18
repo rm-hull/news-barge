@@ -8,6 +8,10 @@ scraped_at: '2026-08-26T01:54:18Z'
 published: '2026-08-25T00:00:00Z'
 description: AI power to the people
 image: https://cdn.mos.cms.futurecdn.net/3Bk9NDKZ5ot8CWHYtH4qGk-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![Sam Altman/Photo Agency](https://cdn.mos.cms.futurecdn.net/3Bk9NDKZ5ot8CWHYtH4qGk.jpg) 

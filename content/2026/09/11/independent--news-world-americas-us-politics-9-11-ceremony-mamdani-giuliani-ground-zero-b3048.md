@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Vice President JD Vance, former presidents and mourners gather at Ground
   Zero for 25th anniversary memorial
 image: https://static.independent.co.uk/2026/09/11/13/2294688252..?trim=551,0,551,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 New York City Mayor Zohran Mamdani shook hands with former Mayor Rudy Giuliani as families, mourners and politicians gathered at the site of the September 11 attacks, 25 years after the devastation.

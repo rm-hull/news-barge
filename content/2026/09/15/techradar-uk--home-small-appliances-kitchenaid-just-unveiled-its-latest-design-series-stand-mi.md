@@ -8,6 +8,10 @@ scraped_at: '2026-09-15T13:29:04Z'
 published: '2026-09-15T00:00:00Z'
 description: Almost too pretty to bake with.
 image: https://cdn.mos.cms.futurecdn.net/MihRAhyvAVijEHTfPJQmdE-2560-80.jpg
+categories:
+- Technology & Software
+- Lifestyle & Fashion
+- Home, Garden & DIY
 ---
 
 ![KitchenAid Luminaire stand mixer on kitchen counter](https://cdn.mos.cms.futurecdn.net/MihRAhyvAVijEHTfPJQmdE.jpg) 

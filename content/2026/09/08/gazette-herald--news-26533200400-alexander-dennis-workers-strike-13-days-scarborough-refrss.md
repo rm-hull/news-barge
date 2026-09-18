@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: Hundreds of staff at a major North Yorkshire manufacturing business are
   expected to continue strike action in a months-long dispute over pay.
 image: https://www.gazetteherald.co.uk/resources/images/21230766.jpg?type=og-image&xType=0&yType=364
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 Hundreds of staff at a major North Yorkshire manufacturing business are expected to continue strike action in a months-long dispute over pay.

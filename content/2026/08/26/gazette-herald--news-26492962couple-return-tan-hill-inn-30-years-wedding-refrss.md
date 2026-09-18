@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A couple has returned to the Tan Hill Inn in the Yorkshire Dales, where
   they got married, to celebrate their 30th wedding anniversary.
 image: https://www.gazetteherald.co.uk/resources/images/21367937.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Comedy & Entertainment
 ---
 
 A couple has returned to a pub in the Yorkshire Dales where they got married to celebrate their 30th wedding anniversary.

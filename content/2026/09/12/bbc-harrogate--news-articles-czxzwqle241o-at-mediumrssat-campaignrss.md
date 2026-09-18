@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Children in Selby are to receive free books through country music icon
   Dolly Parton's literacy scheme.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce8a/live/c72d3f50-a146-11f1-9311-09d4e1fc9016.jpg
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 ![Dolly Parton, then a middle-aged woman with longe blonde hair, speaking into a microphone on stage.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ce8a/live/c72d3f50-a146-11f1-9311-09d4e1fc9016.jpg)

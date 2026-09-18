@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T01:53:44Z'
 published: '2026-08-20T00:00:00Z'
 description: Aug. 14 - 20, 2026
 image: https://static.independent.co.uk/2026/08/20/22/India_International_Kite_Festival_496_1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Aug. 14 - 20, 2026

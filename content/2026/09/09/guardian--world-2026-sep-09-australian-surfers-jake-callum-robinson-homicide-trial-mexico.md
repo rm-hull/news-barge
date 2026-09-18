@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Three men are on trial over the death of brothers Jake and Callum Robinson
   and their friend, US citizen Jack Carter Rhoad, in Ensenada
 image: https://i.guim.co.uk/img/media/6246f2d2fbcca883458f73bf49150c7e1e9ea8b7/137_0_4066_3253/master/4066.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e55852146fcf1c312cc231b2cc3d7f2e
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 The father of two Australian surfers killed in Mexico two years ago testified in court on Tuesday that his life had been turned into hell, as the high-profile trial continued into its second day.

@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Wallis police keep records of people reported missing since 1925, mostly
   in mountainous areas and rivers.
 image: https://images.euronews.com/articles/stories/09/88/03/40/1200x675_cmsv2_00027aeb-0b81-58b9-8b6b-a696f2259759-9880340.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Wallis police keep records of people reported missing since 1925, mostly in mountainous areas and rivers.

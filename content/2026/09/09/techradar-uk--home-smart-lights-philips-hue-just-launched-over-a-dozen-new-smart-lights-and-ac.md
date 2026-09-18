@@ -8,6 +8,9 @@ scraped_at: '2026-09-09T12:57:14Z'
 published: '2026-09-09T00:00:00Z'
 description: All the brightest new launches, and where to buy them.
 image: https://cdn.mos.cms.futurecdn.net/XMPLDLSNvS3F8qUkfiMo4C-2520-80.jpg
+categories:
+- Technology & Software
+- Shopping & Deals
 ---
 
 ![Split image of Philips Hue Screen Sync camera mounted on TV and Philips Hue Nanoleaf panels on wall](https://cdn.mos.cms.futurecdn.net/XMPLDLSNvS3F8qUkfiMo4C.jpg) 

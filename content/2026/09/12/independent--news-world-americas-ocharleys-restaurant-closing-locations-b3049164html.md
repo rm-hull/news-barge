@@ -7,6 +7,10 @@ scraped_at: '2026-09-12T18:20:46Z'
 published: '2026-09-12T00:00:00Z'
 description: O’Charley’s operated 250 locations at the height of its business
 image: https://static.independent.co.uk/2026/09/12/17/22/Screenshot-2026-09-12-at-1-30-12-PM.png?trim=0,148,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 After 55 years in operation, O'Charley's is shuttering its remaining 49 company-owned locations.

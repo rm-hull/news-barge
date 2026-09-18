@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Honolulu Mayor Rick Blangiardi is working to bring pandas to the Honolulu
   Zoo
 image: https://static.independent.co.uk/2026/08/31/23/Honolulu_Zoo_Panda_Quest_427_6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 When Honolulu Mayor Rick Blangiardi decided he wanted pandas at the Honolulu Zoo, he approached the Chinese Consulate-General in Los Angeles, who gave him some advice: Go to China.

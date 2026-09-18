@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: The four-year agreement will cover rice farms across three Indian states,
   reaching about 100,000 hectares at peak delivery.
 image: https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Google has agreed to buy 1 million carbon credits from Indian climate-tech startup Mitti Labs through 2030, in what the companies say is the largest publicly announced deal to date for credits generated from cutting methane emissions in rice farming.

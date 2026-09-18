@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: A father of seven remains in hospital with significant, life changing
   injuries seven months after he was involved in a crash with two teenage riders…
 image: https://www.thenorthernecho.co.uk/resources/images/20567085.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: NEWSQUEST)*

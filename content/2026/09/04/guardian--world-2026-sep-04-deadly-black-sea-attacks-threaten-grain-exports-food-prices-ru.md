@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Russian and Ukrainian strikes in July killed more crew than in whole
   war to that month, preventing grain exports
 image: https://i.guim.co.uk/img/media/b316fc3c3d56ea64a1517405e751efc3cad4180e/469_0_6831_5464/master/6831.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ba8e8caba3cccde68041e63447a50dc
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 A summer of hostilities in the Black Sea proved deadly for seafarers, as Russia and Ukraine attacked each other’s ships and port infrastructure, preventing vital grain exports and prompting concerns that the conflict will push global food prices even higher.

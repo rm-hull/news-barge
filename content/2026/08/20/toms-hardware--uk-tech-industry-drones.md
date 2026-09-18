@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T13:07:09Z'
 published: '2026-08-20T00:00:00Z'
 description: Discover more about Drones with insights from the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/cDXJBLUFxWijbbBF4JWhXB-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/cDXJBLUFxWijbbBF4JWhXB-320-80.jpg)

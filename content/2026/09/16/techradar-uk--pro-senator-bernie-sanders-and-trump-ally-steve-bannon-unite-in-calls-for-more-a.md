@@ -8,6 +8,9 @@ scraped_at: '2026-09-16T22:54:52Z'
 published: '2026-09-16T00:00:00Z'
 description: More US politicians advocate for greater AI regulation
 image: https://cdn.mos.cms.futurecdn.net/9YhV4h4LA4CiffRRFNkv2W-1920-80.jpg
+categories:
+- Technology & Software
+- News & Politics
 ---
 
 ![U.S. Senator Bernie Sanders during a campaign for the 2020 presidential bid, speaking to supporters at Grand Park in downtown Los Angeles on Saturday, March 23, 2019.](https://cdn.mos.cms.futurecdn.net/9YhV4h4LA4CiffRRFNkv2W.jpg) 

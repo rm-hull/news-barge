@@ -10,6 +10,9 @@ description: President Trump’s post comes days after a court filing suggested 
   his administration could, once again, target a former Olympian in connection with
   the Reflecting Pool
 image: https://static.independent.co.uk/2026/08/21/7/11/Screenshot-2026-08-21-at-08-56-26.png?trim=27,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump has slapped a mocked-up image of his face onto the surface of the Lincoln Memorial Reflecting Pool - in algae green.

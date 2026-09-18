@@ -9,6 +9,9 @@ published: '2026-08-22T00:00:00Z'
 description: Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million
   orders a day, nearly triple its November volume.
 image: https://techcrunch.com/wp-content/uploads/2026/08/flipkart-minutes.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Indian startups spent years getting consumers accustomed to having groceries and everyday goods delivered within minutes. Now Walmart-owned Flipkart is rapidly closing the gap with those quick-commerce pioneers, as global rival Amazon mounts its own push into instant delivery.

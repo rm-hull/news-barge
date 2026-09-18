@@ -9,6 +9,10 @@ description: KAYAK reveals the best-value destinations and travel dates for an a
   escape, plus where to go if you want to avoid border queues as the EES rolls out
   across Europe.
 image: https://images.euronews.com/articles/stories/09/88/05/31/1200x675_cmsv2_5ad673bb-e6db-557d-bee2-4fdd0162cdec-9880531.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## KAYAK reveals the best-value destinations and travel dates for an autumn escape, plus where to go if you want to avoid border queues as the EES rolls out across Europe.

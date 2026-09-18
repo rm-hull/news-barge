@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: DESIGNED to embrace its spectacular setting, this bespoke architectural
   masterpiece is perfect for a discerning buyer in the market for a home…
 image: https://www.thenorthernecho.co.uk/resources/images/21410951.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
+- Arts & Culture
 ---
 
 DESIGNED to embrace its spectacular setting, this bespoke architectural masterpiece is perfect for a discerning buyer in the market for a home that’s not only decidedly different but also offers a wealth of everything from stylish accommodation (which extends to over 4,100sq.ft) to panoramic countryside views, a substantial south-facing garden, extensive entertaining terraces and a private paddock beyond.

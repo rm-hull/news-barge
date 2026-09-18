@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: A 58-year-old man wanted on warrant was arrested by police in Bradford
   city centre on Friday morning.
 image: https://www.thetelegraphandargus.co.uk/resources/images/11815384.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 A 58-year-old man wanted on warrant was arrested by police in Bradford city centre on Friday morning.

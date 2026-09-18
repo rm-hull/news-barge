@@ -9,6 +9,8 @@ scraped_at: '2026-09-11T22:30:04Z'
 published: '2026-09-11T00:00:00Z'
 description: US could go to war with China over AGI
 image: https://cdn.mos.cms.futurecdn.net/MmBupUuqfKaoWhB7xEsZC7-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A conceptual image featuring Donald Trump and China President Xi Jinping on a screen, with undulating stocks and a dollar bill in the background.](https://cdn.mos.cms.futurecdn.net/MmBupUuqfKaoWhB7xEsZC7.jpg) 

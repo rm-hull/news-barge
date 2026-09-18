@@ -8,6 +8,9 @@ scraped_at: '2026-09-07T19:54:21Z'
 published: '2026-09-07T00:00:00Z'
 description: The CEO who cried AGI?
 image: https://cdn.mos.cms.futurecdn.net/q7Q3z2TuLLm4vQNkXTkDaj-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Nvidia CEO Jensen Huang holding the RTX Spark chip](https://cdn.mos.cms.futurecdn.net/q7Q3z2TuLLm4vQNkXTkDaj.jpg) 

@@ -9,6 +9,9 @@ published: '2026-09-18T00:00:00Z'
 description: There is a sizeable group of Lib Dem MPs who openly question whether
   the party's problem is with its leader, while others support his stance.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7433/live/060e9a70-b2ae-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Sir Ed Davey asks a question during Prime Minister's Questions in the House of Commons](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7433/live/060e9a70-b2ae-11f1-bc1f-3f186ca4140c.jpg)

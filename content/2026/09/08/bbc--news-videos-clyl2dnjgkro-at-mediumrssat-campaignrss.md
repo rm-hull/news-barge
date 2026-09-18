@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: The BBC spoke to people in Sydney about Australia's plans to force social
   media companies to allow users to easily opt in or out of personalised algorithms.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e103/live/a2b7d6d0-ab4b-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Society & Culture
 ---
 
 # 'Good to have choice': Australians on opting out of social media algorithms

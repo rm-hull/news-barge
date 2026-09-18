@@ -9,6 +9,10 @@ description: 'The unseasonably high September temperatures follow a series of ex
   summer heatwaves across Europe, which scientists say have been intensified and prolonged
   by human-driven climate change. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/18/41/1200x675_cmsv2_bb1d4e50-84fa-5d40-b186-046377f2d099-9901841.jpg
+categories:
+- Europe
+- News & Politics
+- Science
 ---
 
 ## The unseasonably high September temperatures follow a series of extreme summer heatwaves across Europe, which scientists say have been intensified and prolonged by human-driven climate change.

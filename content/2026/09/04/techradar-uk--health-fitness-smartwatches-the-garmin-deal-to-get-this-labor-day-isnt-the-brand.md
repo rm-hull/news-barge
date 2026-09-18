@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: Forget the Garmin Fenix 9 — I'm a Garmin expert, and you should pick
   up these Garmin Fenix 8 Labor Day deals instead.
 image: https://cdn.mos.cms.futurecdn.net/cX3ReTE9qDB5KQGNhxHF3i-2037-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
 ---
 
 ![Garmin Fenix 8 AMOLED watch on wrist](https://cdn.mos.cms.futurecdn.net/cX3ReTE9qDB5KQGNhxHF3i.jpg) 

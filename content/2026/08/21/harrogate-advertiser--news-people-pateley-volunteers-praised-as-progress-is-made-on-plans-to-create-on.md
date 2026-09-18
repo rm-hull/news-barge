@@ -10,6 +10,10 @@ description: “Dedicated” volunteers in Pateley Bridge have been praised afte
   community-led project to create one of the best bicycle pump tracks in North Yorkshire
   took a new step forward.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjFmNDM5ZGIzLTM1NzItNDhmYy1iYjYxLTRhZjY1YjNjMDA1MzpkZDU5NzkyOS04YjgxLTQyZmQtOTViZS04M2UyOTdkMjVhNmI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 # Pateley volunteers praised as progress is made on plans to create 'one of the best bicycle pump tracks in North Yorkshire'

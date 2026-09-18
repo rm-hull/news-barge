@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: The UK would be following in the footsteps of several European countries
   who have banned on trade linked to settlements
 image: https://static.independent.co.uk/2026/09/08/11/2293564181..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 The UK government is set to announce a ban on all trading on goods from Israeli West Bank settlements, in a move expected to prompt fierce backlash from the US and Israel.

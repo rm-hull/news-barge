@@ -12,6 +12,11 @@ description: Britain was built to keep the cold out, not the heat. As we breathe
   than the whole of 1976, and became the first year on record to reach 35°C in May,
   June and July alike.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmY0N2UzZWM5LWRiNjMtNDhkNy1hZTVhLTUwNjJlMTBhZmM2Mjo3Y2Q1NzdhOC03NDIyLTRlMDItOGY4MC1iM2M0MmU3OTE2NDY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # How policy is designing out cooling solutions just as the temperature is rising in Britain - Chris Hocknell

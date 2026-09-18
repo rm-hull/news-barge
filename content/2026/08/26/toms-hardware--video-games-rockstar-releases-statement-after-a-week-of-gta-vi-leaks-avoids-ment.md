@@ -8,6 +8,10 @@ scraped_at: '2026-08-26T13:11:19Z'
 published: '2026-08-26T00:00:00Z'
 description: This is probably not the “sorry” that Cyberleek expected.
 image: https://cdn.mos.cms.futurecdn.net/sfaR9E2WdYAZf7vQrVsrWT-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![GTA VI logo](https://cdn.mos.cms.futurecdn.net/sfaR9E2WdYAZf7vQrVsrWT.png) 

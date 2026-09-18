@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Rachael Maskell MP has welcomed a date being set for a public inquiry
   into the Tees, Esk and Wear Valleys NHS Foundation Trust (TEWV).
 image: https://www.gazetteherald.co.uk/resources/images/21473999.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

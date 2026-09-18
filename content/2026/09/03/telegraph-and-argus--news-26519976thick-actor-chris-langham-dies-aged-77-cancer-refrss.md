@@ -9,6 +9,13 @@ published: '2026-09-03T00:00:00Z'
 description: Chris Langham, who was known for his roles in TV shows like The Thick
   of It, has died at the age of 77.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21407619.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 *(Image: BBC)*

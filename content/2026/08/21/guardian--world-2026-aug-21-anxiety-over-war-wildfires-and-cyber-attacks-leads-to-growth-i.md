@@ -9,6 +9,12 @@ published: '2026-08-21T00:00:00Z'
 description: Value of banknotes in circulation rises from €1bn in 2016 to €1.6bn in
   2026 as people advised to keep stash of cash
 image: https://i.guim.co.uk/img/media/3d86e0a74d5b086fa0a264cb2c5d7c8a58d86989/202_0_3540_2832/master/3540.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d159efdf186becff371acf7447fd617d
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 The number of banknotes in circulation in the EU is increasing despite widespread smartphone payments, new data shows, with wildfires ripping through parts of Europe fuelling demand for an emergency stash of cash.

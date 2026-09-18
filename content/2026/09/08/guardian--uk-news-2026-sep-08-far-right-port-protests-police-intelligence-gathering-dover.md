@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Whitehall officials also ask why laws meant to clamp down on the wearing
   of masks at demonstrations were not used
 image: https://i.guim.co.uk/img/media/ff8f13b74fe9f5aa84927570a06436ed1ba9fdbc/252_0_4000_3201/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fc146cd2b8dca3cc729eef3f7cca506
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Police have been told by the government they expect better intelligence gathering after masked far-right groups took to the streets at the weekend, the Guardian has learned, as the Kent force admitted mishandling warnings of potential trouble.

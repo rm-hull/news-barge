@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Air raid alerts and sounds of explosions rang out in Ukraine's capital
   as Russian forces launched drone strikes early on Tuesday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/472f/live/84ecd810-ab25-11f1-b7f9-4f7d6b8f3d19.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![People sleeping on camping mats and sitting in fold out chairs inside a metro station during a Russian strike in Kyiv.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/472f/live/84ecd810-ab25-11f1-b7f9-4f7d6b8f3d19.jpg)

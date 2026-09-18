@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: The book, released next Tuesday, marks the first time Earl Spencer has
   spoken at length about Princess Diana
 image: https://static.independent.co.uk/2024/03/21/12/GettyImages-1434946686.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Earl Spencer’s bombshell book about his sister, the late Princess Diana, has not been released yet, but the biography is already causing a stir.

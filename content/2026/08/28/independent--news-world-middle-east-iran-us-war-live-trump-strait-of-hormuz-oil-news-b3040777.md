@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Doha has called for the US to roll back its tough sanctions, and bring
   an end to the six-month conflict
 image: https://static.independent.co.uk/2026/08/28/9/58/HQyhaM5XUAES1LX.jpeg?trim=41,0,84,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Iranian foreign minister Abbas Araghchi has said that resuming diplomatic negotiations with Washington remains possible, but only if the US abandons its aggressive pressure strategy.

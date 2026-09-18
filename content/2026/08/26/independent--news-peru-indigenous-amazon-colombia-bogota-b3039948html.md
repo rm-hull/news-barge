@@ -9,6 +9,10 @@ description: A Peruvian court has convicted four men of murder-for-hire and sent
   them to between 15 and 35 years in prison for the 2023 killing of an Indigenous
   Kichwa leader and rainforest defender
 image: https://static.independent.co.uk/2026/08/25/02/Peru_Amazon_Defender__3997.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A Peruvian court on Monday evening convicted four men of murder-for-hire and sentenced them to between 15 and 35 years in prison for the 2023 killing of Indigenous rainforest defender Quinto Inuma Alvarado, in a closely watched case seen as a test of accountability for violence against Indigenous and environmental defenders in the Amazon.

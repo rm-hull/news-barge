@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A Northumbria police officer was sacked for assaulting a man in front
   of his terrified eight-year-old grandson.
 image: https://www.thenorthernecho.co.uk/resources/images/16339414.jpg?type=og-image&xType=0&yType=67
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: POLICE)*

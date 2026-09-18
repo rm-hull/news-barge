@@ -10,6 +10,10 @@ description: Floating tentacled predators pulse and swirl in hypnotic patterns i
   the dark museum space, lit primarily by images projected on walls and the light
   from the saltwater tanks
 image: https://static.independent.co.uk/2026/08/19/05/Florida_Jellyfish_Museum_198_9.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 The floating tentacled predators pulse and swirl in hypnotic patterns in the dark museum space, lit primarily by images projected on the walls and the glowing light from the saltwater tanks.

@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: During a nine-day Senate recess in August, Trump put forward 13 judicial
   candidates
 image: https://static.independent.co.uk/2026/09/16/09/55e23c8ea4cfd85097ac6edb4ad5a0d1Y29udGVudHNlYXJjaGFwaSwxNzg5NjMzMzkw-2.85845739.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Facing uncertainty over Republican control of the U.S. Senate, President Donald Trump's administration is moving quickly to secure confirmation for a broad slate of federal judicial appointments before the end of the year.

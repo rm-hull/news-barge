@@ -9,6 +9,11 @@ description: '"Our system issue is now resolved, we are operating normally and w
   as hard as possible to clear the backlog of flights," air traffic control operator
   NATS has said. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/64/78/1200x675_cmsv2_4943be17-b707-5e29-be37-68fbe340040b-9906478.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ## "Our system issue is now resolved, we are operating normally and working as hard as possible to clear the backlog of flights," air traffic control operator NATS has said.

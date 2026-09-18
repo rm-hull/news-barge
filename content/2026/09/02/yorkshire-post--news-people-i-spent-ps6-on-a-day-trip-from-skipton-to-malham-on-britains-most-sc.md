@@ -8,6 +8,11 @@ scraped_at: '2026-09-02T12:44:47Z'
 published: '2026-09-02T00:00:00Z'
 description: I used to think that nothing beat a good drive.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmIxNzM4OGUwLWEzM2YtNGEwMy05MWZhLWVmYmRkOTE5NWU0NjoyOGMyNWE5NS1jYTM2LTQ0NDYtOWRlNC01M2E3NzM5YTI3OTc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # "I spent £6 on a day trip from Skipton to Malham on Britain’s most scenic bus route – it will be even cheaper in 2027"

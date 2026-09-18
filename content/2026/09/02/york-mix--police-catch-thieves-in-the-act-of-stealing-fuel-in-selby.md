@@ -7,6 +7,11 @@ scraped_at: '2026-09-02T12:44:31Z'
 published: '2026-09-02T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/selby-fuel-theft-29-aug-2026-nyp.webp
+categories:
+- Local
+- York
+- True Crime
+- News & Politics
 ---
 
 Police have thwarted an attempt to steal fuel in Selby.

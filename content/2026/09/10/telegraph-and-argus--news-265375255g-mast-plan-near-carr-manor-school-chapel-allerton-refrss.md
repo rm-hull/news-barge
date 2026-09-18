@@ -9,6 +9,12 @@ published: '2026-09-10T00:00:00Z'
 description: EE seeks approval for a 19m 5G mast on Stainbeck Road, Chapel Allerton,
   Leeds, amid coverage concerns and safety questions. Consultation ends…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21433363.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Google)*

@@ -8,6 +8,9 @@ published: '2026-08-23T00:00:00Z'
 description: DRAM reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/smfS6N7aideSB7eA7JSz2H-450-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ## Latest about DRAM

@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Fresh predictions would bring levels close to those seen after Russia’s
   invasion of Ukraine in 2022
 image: https://static.independent.co.uk/2026/05/25/10/2238091047..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Household energy costs could rise by over £400 in the new year, forecasters have warned, as financial pressure from conflict in the Middle East continues to affect fuel prices.

@@ -10,6 +10,10 @@ description: Derek McInnes could be in the stand for his first Old Firm match as
   manager after a hearing date of 31 August was set for his appeal against a touchline
   ban.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ad2e/live/99a241b0-861c-11f1-aba5-dfbb15fd1ac1.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Rangers manager Derek McInnes](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ad2e/live/99a241b0-861c-11f1-aba5-dfbb15fd1ac1.jpg)

@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: Researchers spotted an unusual gamma-ray signal in three galaxy clusters,
   which may be a telltale sign of dark matter – or some even more exotic phenomenon
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308914049_637a72.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308914049_637a72.jpg?w=840)

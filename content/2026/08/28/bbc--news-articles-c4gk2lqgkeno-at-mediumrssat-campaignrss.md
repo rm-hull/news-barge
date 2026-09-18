@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Seven people accused of causing damage at Trump's resort could receive
   longer sentences if convicted.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/94d9/live/3af77860-a2f5-11f1-8d5b-155abe464768.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![A white building at Trump Turnberry is seen daubed with red paint.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/94d9/live/3af77860-a2f5-11f1-8d5b-155abe464768.jpg)

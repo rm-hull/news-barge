@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Jude Bellingham looks fit and ready to build on his World Cup form as
   he aims to rediscover his best at Real Madrid under Jose Mourinho.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/27e1/live/334893c0-a83a-11f1-b3a7-d5de760fef6e.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Jude Bellingham](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/27e1/live/334893c0-a83a-11f1-b3a7-d5de760fef6e.jpg)

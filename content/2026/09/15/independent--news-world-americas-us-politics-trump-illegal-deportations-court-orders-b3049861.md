@@ -10,6 +10,11 @@ description: 'Immigration attorneys say DHS in such a hurry to hit targets and e
   people ‘they aren’t actually looking at the legality of some of this stuff’ but
   department insists: ‘The law is on our side’'
 image: https://static.independent.co.uk/2026/09/01/19/2026-09-01T161213Z_53057502_RC2EANADS0HT_RTRMADP_3_USA-TRUMP-MIGRATION.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Law & Justice
 ---
 
 The Trump administration has deported more than 170 migrants in violation of court orders since last year, according to a report.

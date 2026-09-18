@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: An historic County Durham sex offender who was jailed for abuse on a
   girl more than 30 years ago has died in HMP Northumberland.
 image: https://www.thenorthernecho.co.uk/resources/images/20313264.jpg?type=og-image&xType=0&yType=101
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: PRISON REPORT)*

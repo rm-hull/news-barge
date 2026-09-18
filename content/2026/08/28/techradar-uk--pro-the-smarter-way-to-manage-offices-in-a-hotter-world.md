@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T11:15:59Z'
 published: '2026-08-28T00:00:00Z'
 description: How workplace data can beat the heat
 image: https://cdn.mos.cms.futurecdn.net/cnsWkMrXZfFuz5FGFGK72n-2309-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 ![Workers gather around a desk in a futuristic office](https://cdn.mos.cms.futurecdn.net/cnsWkMrXZfFuz5FGFGK72n.jpg) 

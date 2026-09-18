@@ -9,6 +9,10 @@ scraped_at: '2026-08-30T19:18:29Z'
 published: '2026-08-30T00:00:00Z'
 description: Fine, I’ll do it myself.
 image: https://cdn.mos.cms.futurecdn.net/uvS8pvPPERWH4avEKBf4DG-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![the blades on the front fan of a jet engine](https://cdn.mos.cms.futurecdn.net/uvS8pvPPERWH4avEKBf4DG.png) 

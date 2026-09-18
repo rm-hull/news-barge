@@ -9,6 +9,10 @@ description: Agostino Abbatiello, 24, is also being called ‘Austin Powders,’
   and ‘Kirk Cocaine’ on social media. He’s among 14 people charged over an alleged
   drugs ring at the prestigious college
 image: https://static.the-independent.com/2026/08/18/21/07/Agostino-Abbatiello.png?trim=180,0,181,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 The alleged kingpin of a student drug ring at Pennsylvania State University is being mocked online after being locked up without bail following a sting operation in an off-campus fraternity house.

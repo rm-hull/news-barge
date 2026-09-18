@@ -7,6 +7,9 @@ scraped_at: '2026-09-17T19:42:40Z'
 published: '2026-09-17T00:00:00Z'
 description: Can Luke Littler complete his 2026 darts clean sweep in Amsterdam?
 image: https://cdn.mos.cms.futurecdn.net/etXh7oLvUqNK6nCxWr5T7C-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Luke Littler in action during his Semi Final against Gian van Veen on day eight of the 2026 Betfred World Matchplay at Winter Gardens](https://cdn.mos.cms.futurecdn.net/etXh7oLvUqNK6nCxWr5T7C.jpg) 

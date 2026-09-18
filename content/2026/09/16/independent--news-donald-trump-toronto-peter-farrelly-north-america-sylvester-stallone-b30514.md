@@ -10,6 +10,10 @@ description: The 51st Toronto International Film Festival has unspooled against 
   backdrop of rising tensions between the U.S. and Canadian governments, though it
   would be hard to tell it from the convivial atmosphere on the ground
 image: https://static.independent.co.uk/2026/09/16/20/2_26_TIFF_-_Day_One_92786.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The 51st Toronto International Film Festival has unspooled against a backdrop of r ising tensions between the U.S. and Canadian governments, though it would be hard to tell it from the convivial atmosphere on the ground.

@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Two people have been taken to hospital after a car ended up on its roof
   following a crash in Thornton-le-Street.
 image: https://www.gazetteherald.co.uk/resources/images/19596005.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 *(Image: Newsquest)*

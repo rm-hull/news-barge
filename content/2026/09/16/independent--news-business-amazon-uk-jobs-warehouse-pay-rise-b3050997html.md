@@ -7,6 +7,11 @@ scraped_at: '2026-09-16T13:28:12Z'
 published: '2026-09-16T00:00:00Z'
 description: Rises will range from 5.2 per cent to 5.6 per cent
 image: https://static.independent.co.uk/2024/07/26/14/GettyImages-452347587.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Amazon has announced a pay increase of up to 5.6 per cent for thousands of frontline staff across the UK.

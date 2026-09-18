@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: The collapse was caused by a landslide, while local officials say the
   death toll is likely to rise as recovery efforts continue
 image: https://i.guim.co.uk/img/media/34be23302ee16b159f4f8f4198d738ec90cd0139/0_272_577_462/master/577.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb7577c6820ed63fd05de328acd7cceb
+categories:
+- UK
+- News & Politics
+- True Crime
+- History
 ---
 
 More than 100 people have died after an artisanal goldmine at a small village in western Central African Republic (CAR) caved in due to a landslide, local officials and aid workers said on Wednesday.

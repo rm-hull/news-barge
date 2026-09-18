@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Leeds is “severely constrained” in terms of housing due to being the
   largest city in western Europe with no mass transit network.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/05/15/16/16/Elland-Road-future-vision--Credit-RISE-and-LFG.jpg?trim=120,0,177,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # West Yorkshire mass transit could add tens of thousands of homes to Leeds, report finds

@@ -9,6 +9,12 @@ published: '2026-08-28T00:00:00Z'
 description: Rotherham and Doncaster locals were wrongly informed about how to make
   objections to plans for a new solar farm, the Planning Inspectorate (PI) has revealed.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRkNGRhZWJiLTViN2ItNDc4My1iZDRmLWU5MTBkMzU2MzU4YTo1N2U3MjM0NS04ZmRkLTRhMWEtYWRhMS0zZDZjYmMzMDdhYmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
+- Science
 ---
 
 # Solar farm objection deadline extended after inspectorate reveals applicant error

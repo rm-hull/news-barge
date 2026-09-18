@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T12:48:51Z'
 published: '2026-09-11T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-central-homes-aerial-crop.webp
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 A massive project decades in the making has taken a huge step forward as the first phase of plans for a brand-new city quarter in York received planning permission.

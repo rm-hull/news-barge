@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: An inclusive disco for young adults with special educational needs and
   disabilities is celebrating its second anniversary in Harrogate.
 image: https://mmo.aiircdn.com/409/6a9e9829ee13e4bd893.jpg
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9e9829ee13e4bd893.jpg) 

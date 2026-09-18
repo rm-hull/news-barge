@@ -7,6 +7,11 @@ scraped_at: '2026-09-04T04:22:12Z'
 published: '2026-09-04T00:00:00Z'
 description: Seven youngsters have signed with professional football clubs
 image: https://www.thetelegraphandargus.co.uk/resources/images/21407346.jpg?type=og-image&xType=0&yType=163
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Supplied)*

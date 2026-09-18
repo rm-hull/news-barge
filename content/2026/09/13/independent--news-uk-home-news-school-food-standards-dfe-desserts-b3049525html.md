@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: ‘These are once-in-a-generation changes,’ says education minister Lucy
   Powell
 image: https://static.independent.co.uk/2026/06/04/12/03/iStock-607762830.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Sweetened baked treats served to school pupils face major cutbacks as part of the first overhaul of school food guidelines in over ten years. Under the new measures designed to combat tooth decay and youth obesity, any permitted desserts must either contain or be served alongside fruit.

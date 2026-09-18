@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: If you want to get rid of your TV licence, you can still watch a lot
   of shows and services on-demand.
 image: https://www.gazetteherald.co.uk/resources/images/21343427.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
+- Technology & Software
 ---
 
 If you watch any TV on the BBC or anything that is broadcast live, you must have a TV licence for your household.

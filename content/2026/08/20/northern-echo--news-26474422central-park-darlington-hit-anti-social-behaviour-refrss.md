@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Residents on Darlington’s unfinished Central Park estate have faced off-road
   bikes, noise and thefts from cars in what a councillor called a…
 image: https://www.thenorthernecho.co.uk/resources/images/21339209.jpg?type=og-image&xType=0&yType=249
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Residents at an unfinished housing estate in Darlington have been targeted by anti-social behaviour, with a councillor warning people to report incidents directly to police.

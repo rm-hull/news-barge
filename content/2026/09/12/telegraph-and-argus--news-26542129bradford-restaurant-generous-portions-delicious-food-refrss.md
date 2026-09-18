@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Jinnah in Bradford is a great restaurant if you want to try some traditional
   Kashmiri food.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21441965.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 Bradford is known for being home to a huge range of restaurants serving cuisines from around the world.

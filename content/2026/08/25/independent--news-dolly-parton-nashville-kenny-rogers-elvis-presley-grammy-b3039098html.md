@@ -9,6 +9,12 @@ published: '2026-08-25T00:00:00Z'
 description: Dolly Parton, the beloved music and film star known for her vibrant personality
   and poignant songwriting, has died
 image: https://static.independent.co.uk/2026/08/25/19/Music_Dolly_Parton_44578.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Music
+- Arts & Culture
 ---
 
 Dolly Parton, the country music icon whose soaring vibrato vocals, poignant songwriting and sparkling costumes defined her rise from a log cabin in the Tennessee mountains to the height of stardom and acclaim, has died. She was 80 years old.

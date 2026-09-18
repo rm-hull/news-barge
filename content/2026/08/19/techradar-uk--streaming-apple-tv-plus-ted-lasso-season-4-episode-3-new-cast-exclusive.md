@@ -10,6 +10,9 @@ published: '2026-08-19T00:00:00Z'
 description: TechRadar talks to three of Ted Lasso's new cast members to discuss their
   characters, and the challenges facing women's soccer.
 image: https://cdn.mos.cms.futurecdn.net/CXsLfwwkCG7C9yt69K6MZA-2000-80.jpg
+categories:
+- Technology & Software
+- Comedy & Entertainment
 ---
 
 ![A collage image of Lizzie, 'Boots', and Gemma in Ted Lasso season 4](https://cdn.mos.cms.futurecdn.net/CXsLfwwkCG7C9yt69K6MZA.jpg) 

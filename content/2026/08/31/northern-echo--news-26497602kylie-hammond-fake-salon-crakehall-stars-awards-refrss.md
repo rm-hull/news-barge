@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: A North Yorkshire hair extensions specialist has been crowned the best
   in the UK in her first year of trading in North Yorkshire, marking a major…
 image: https://www.thenorthernecho.co.uk/resources/images/21375035.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: Supplied)*

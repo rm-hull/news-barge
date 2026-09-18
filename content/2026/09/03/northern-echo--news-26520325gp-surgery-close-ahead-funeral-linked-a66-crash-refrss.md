@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A GP surgery is set to close early due to a funeral linked to the fatal
   A66 crash, with disruption in the area expected.
 image: https://www.thenorthernecho.co.uk/resources/images/21408337.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: GOOGLE)*

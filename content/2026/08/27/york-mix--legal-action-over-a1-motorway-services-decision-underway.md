@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T22:13:11Z'
 published: '2026-08-27T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/07/proposed-vale-of-york-motorway-service-station-at-kirby-hill-pd.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 Campaigners fighting plans for a motorway service area near Boroughbridge have taken the first formal step towards challenging North Yorkshire Council’s decision in the High Court.

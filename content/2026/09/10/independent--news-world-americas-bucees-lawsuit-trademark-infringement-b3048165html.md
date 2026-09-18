@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Born United has been ordered to stop selling the merchandise featuring
   the Buc-ee’s logo and destroy all of its merchandise depicting the mascot
 image: https://static.independent.co.uk/2026/09/10/17/11/Screenshot-2026-09-10-at-1-11-18-PM.png?trim=0,112,0,159&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 A South Carolina-based clothing company has been ordered to pay rest stop giant Buc-ee's $850,000 to settle a trademark infringement lawsuit.

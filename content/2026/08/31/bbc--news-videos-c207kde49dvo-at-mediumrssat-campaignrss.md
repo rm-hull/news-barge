@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: President Donald Trump announced the US has struck a deal to control
   more than 65 billion barrels of proven oil reserves.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/81a1/live/4f216fd0-a589-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 # Watch: Why is the US-Venezuela oil deal so controversial?

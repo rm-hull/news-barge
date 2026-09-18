@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: 'Nioh 3: Hell Rising kicks off the game''s post-launch content with a
   bang. New weapons, enemies, and bosses all make it a must-play.'
 image: https://cdn.mos.cms.futurecdn.net/nq3Mb4HzzDetsnRSDXGQyE-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
+- Sports
 ---
 
 ### TechRadar Verdict

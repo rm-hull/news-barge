@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: A man and woman have been arrested over alleged thefts in Harrogate as
   North Yorkshire Police try to find the items' owners.
 image: https://www.yorkpress.co.uk/resources/images/21463598.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

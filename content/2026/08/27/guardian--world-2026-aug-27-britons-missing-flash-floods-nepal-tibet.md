@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Rescue teams are searching for nearly 1,400 missing people, mostly tourists,
   after floods killed at least 270
 image: https://i.guim.co.uk/img/media/defa1996afc73d2115dd23ef1bd6a8f366f5bcce/225_0_2333_1867/master/2333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0c9f36240d8152f19e43dda50c4b6b43
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Rescue teams in Nepal are searching for at least 33 British nationals who are among those missing after flash floods ravaged its border with Tibet, killing at least 270 people.

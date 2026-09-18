@@ -8,6 +8,13 @@ published: '2026-08-21T00:00:00Z'
 description: The Wild Orchard is a hidden gem in Bradford and offers dishes that are
   packed "full of flavour".
 image: https://www.thetelegraphandargus.co.uk/resources/images/19745252.jpg?type=og-image&yType=125
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
+- Travel
+- Arts & Culture
 ---
 
 *(Image: Newsquest)*

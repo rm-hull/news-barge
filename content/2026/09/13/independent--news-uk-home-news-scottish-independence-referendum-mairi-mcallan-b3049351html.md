@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: John Swinney is due to meet Plaid Cymru leader Rhun ap Iorwerth alongside
   Sinn Féin vice president Michelle O’Neill in Cardiff on Monday
 image: https://static.independent.co.uk/2026/09/09/14/61047d749ef9ce4f5bebe71da18ea67aY29udGVudHNlYXJjaGFwaSwxNzg5MDQ1MjM3-2.84753297.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Travel
 ---
 
 A fresh vote on Scottish independence remains "not off the table", a senior minister has said, despite earlier remarks from the Prime Minister.

@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The gender gap is particularly pronounced within the AI industry where
   women are being left behind at the top levels, LinkedIn’s data showed.
 image: https://static.independent.co.uk/2023/10/25/12/25093417-ebefeae9-c79f-4d68-9611-9611e8a390a4.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Women’s representation in the workplace drops sharply as they progress from entry level to senior roles across the UK, new data reveals.

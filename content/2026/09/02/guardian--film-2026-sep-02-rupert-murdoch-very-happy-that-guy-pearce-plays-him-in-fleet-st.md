@@ -9,6 +9,12 @@ published: '2026-09-02T00:00:00Z'
 description: Actor says the press baron’s daughter Elisabeth told him her father was
   pleased, ‘but he hadn’t seen the film at that point’
 image: https://i.guim.co.uk/img/media/0da888fc25409a334fb73a68fb1362937c97cdbe/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69825c8dce7b6ca6cf95e5486e5a040a
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 Rupert Murdoch is “very happy” that he’s being portrayed by Guy Pearce in a new film about the origins of British tabloid the Sun, the Australian actor has said.

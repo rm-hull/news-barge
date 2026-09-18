@@ -9,6 +9,12 @@ published: '2026-08-31T00:00:00Z'
 description: A plot of council-owned grazing land in Queensbury will be sold at auction
   later this month.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21386295.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: BTG Eddissons)*

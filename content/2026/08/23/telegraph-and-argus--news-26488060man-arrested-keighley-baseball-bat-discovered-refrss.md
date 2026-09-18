@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: A wanted man was arrested in Keighley after police discovered a wooden
   baseball bat hidden beside the driver's seat of his car.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21359434.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 A wanted man was arrested in Keighley after police discovered a wooden baseball bat hidden beside the driver's seat of his car.

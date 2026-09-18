@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The 62-year-old said that his "world was turned upside down" when a brain
   tumour was discovered.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/85e4/live/9e515620-9caa-11f1-84cf-fd4cfd9d6c84.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 ![Trevor Nelson attends night 4 of the "Usher: Past Present Future" tour at The O2 Arena on April 05, 2025 in London, England](https://ichef.bbci.co.uk/ace/standard/636/cpsprodpb/85e4/live/9e515620-9caa-11f1-84cf-fd4cfd9d6c84.jpg)

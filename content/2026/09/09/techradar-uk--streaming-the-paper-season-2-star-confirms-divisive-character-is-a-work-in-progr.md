@@ -10,6 +10,10 @@ description: By the end of season 1, fans either loved or loathed Esmeralda with
   inbetween. But with The Paper season 2 just days away, star Sabrina Impacciatore
   thinks she's still a 'work in progress'.
 image: https://cdn.mos.cms.futurecdn.net/zePrKJskeEnjqmuryLcorV-1920-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
+- Film & TV
 ---
 
 ![Esmeralda talks to the cameras while sat behind her desk](https://cdn.mos.cms.futurecdn.net/zePrKJskeEnjqmuryLcorV.jpg) 

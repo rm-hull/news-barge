@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: The Trump administration has imposed sanctions on the president of the
   International Criminal Court and one of its top prosecutors
 image: null
+categories:
+- News & Politics
+- UK
 ---
 
 The Trump administration has imposed sanctions on the president of the International Criminal Court and one of its top prosecutors as it continues a campaign to dismantle the tribunal, which it accuses of trying to unfairly prosecute U.S. and Israeli soldiers for alleged crimes in Afghanistan, Iraq and Gaza.

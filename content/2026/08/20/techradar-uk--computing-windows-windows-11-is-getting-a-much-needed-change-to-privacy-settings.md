@@ -8,6 +8,8 @@ scraped_at: '2026-08-20T16:48:17Z'
 published: '2026-08-20T00:00:00Z'
 description: Microsoft is finally changing app permissions to make sense for all software.
 image: https://cdn.mos.cms.futurecdn.net/vH3uAMdVXGozQL59FQf8gm-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Close-up of webcam on MSI Prestige 14 Flip laptop, with pink wall in background](https://cdn.mos.cms.futurecdn.net/vH3uAMdVXGozQL59FQf8gm.jpg) 

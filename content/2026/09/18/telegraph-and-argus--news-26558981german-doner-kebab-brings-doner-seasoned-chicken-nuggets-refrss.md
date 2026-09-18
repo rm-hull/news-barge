@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: German Doner Kebab (GDK) has launched its first-ever chicken nuggets,
   now available in all UK restaurants nationwide including the Bradford branch
 image: https://www.thetelegraphandargus.co.uk/resources/images/21467992.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: Since portfolio companies often pivot and expand into competing markets,
   investors view occasional conflicts of interest as unavoidable for large VC firms.
 image: https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1027979078-604311108-composite.jpg?resize=1200,675
+categories:
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 The Justice Department has launched a probe into Andreessen Horowitz regarding the firm’s partners serving on the boards of competing companies, Bloomberg reported.

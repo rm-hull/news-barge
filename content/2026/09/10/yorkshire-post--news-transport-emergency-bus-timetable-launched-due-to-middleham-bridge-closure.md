@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A bus service linking Middleham, Leyburn and Ripon is operating to an
   emergency timetable following the closure of Middleham Bridge.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmU5ZGJhOTk2LThjNjItNGNkNC1hZjA4LTRhMzg5N2YwOWFjODo0YmZkOGZmYy02ZmQ2LTQwYWEtOGM1Mi00MjJhMzgyZGVmMjA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Emergency bus timetable launched due to Middleham Bridge closure

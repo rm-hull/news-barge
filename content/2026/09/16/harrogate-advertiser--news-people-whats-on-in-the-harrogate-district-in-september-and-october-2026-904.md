@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: 'If you are planning to go out this weekend in the Harrogate district
   – or in the next month or so – here are the shows, gigs and comedy not to miss:'
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmU3YWVlZGVjLWQyNjAtNDU5Yy04MjQyLTAxOTQzMDQxZDU0NzowY2RlNWM2OC1mZTk4LTQ4YzctYWUyNy03MjFhZmI5MzA2NWE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Travel
 ---
 
 # What's On in the Harrogate district in September and October 2026

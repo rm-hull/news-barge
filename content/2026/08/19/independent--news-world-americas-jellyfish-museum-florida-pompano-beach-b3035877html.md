@@ -9,6 +9,10 @@ description: Floating tentacled predators pulse and swirl in hypnotic patterns i
   the dark museum space, lit primarily by images projected on walls and the light
   from the saltwater tanks
 image: https://static.independent.co.uk/2026/08/19/18/24/AP26229734326799.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Inside a darkened venue in South Florida, glowing saltwater tanks and wall projections cast light upon tentacled predators as they swirl and pulse in hypnotic rhythms.

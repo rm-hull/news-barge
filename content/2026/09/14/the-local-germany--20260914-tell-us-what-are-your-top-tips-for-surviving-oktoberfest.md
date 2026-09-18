@@ -10,6 +10,12 @@ description: Every autumn, Munich’s Theresienwiese transforms into the site of
   around the globe, we’d love to hear your advice on how to make the most of the experience
   - or just survive.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-619020034.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Travel
+- Society & Culture
 ---
 
 Oktoberfest 2026 is set to kick off at midday on Saturday when the Mayor of Munich taps the first keg in the Schottenhamel tent with the famous cry *O'zapft is!* (The keg is tapped!)

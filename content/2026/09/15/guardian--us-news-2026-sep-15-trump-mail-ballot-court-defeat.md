@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Election officials continue push to assure Americans mail ballots are
   safe after supreme court rules against president
 image: https://i.guim.co.uk/img/media/1ac9c0452d508f3e8dbc41e07f40ce2909703d10/232_0_3777_3023/master/3777.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=48627cbe887046fe39b9ae6d92498c4c
+categories:
+- UK
+- News & Politics
 ---
 
 After the US supreme court halted Donald Trump’s efforts to make it significantly harder to vote by mail in the midterms, US election officials are redoubling their efforts to convince Americans it is safe to cast their ballots by mail.

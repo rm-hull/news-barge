@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: A Utah judge is set to decide whether there's enough evidence against
   the man accused of killing Charlie Kirk to put him on trial for aggravated murder
 image: https://static.the-independent.com/2026/09/01/05/Charlie_Kirk_Shot_94113.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Utah judge is expected to decide Tuesday whether the man accused of killing conservative activist Charlie Kirk will face trial on an aggravated murder charge that could make him eligible for the death penalty.

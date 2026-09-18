@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Darlington and Cockerton libraries attracted hundreds of children and
   families to summer activities during the National Year of Reading 2026,…
 image: https://www.thenorthernecho.co.uk/resources/images/21455684.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Hundreds of children and families took part in summer activities at Darlington’s libraries, boosting creativity, learning and reading while book borrowing soared.

@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Vice president rejects characterisation of Iran conflict as a ‘war’ and
   claims that major combat operations only lasted ‘about six weeks’
 image: https://static.independent.co.uk/2026/09/04/09/2026-09-03T183521Z_1924004863_RC2UBNAO2XPY_RTRMADP_3_USA-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 JD Vance has faced backlash after appearing to dismiss reports that a US strike killed five people, including two children, at a wedding gathering in southern Iran.

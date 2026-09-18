@@ -7,6 +7,8 @@ scraped_at: '2026-08-31T16:08:30Z'
 published: '2026-08-31T00:00:00Z'
 description: Fintech layoffs reveal AI hype masking deeper structural issues
 image: https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A robot standing thoughtfully in front of a giant digital display with code on it](https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL.jpg) 

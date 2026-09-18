@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: Darlington was transformed for a day of live music and comedy as the
   Last Train Home Festival took over the town's venues.
 image: https://www.thenorthernecho.co.uk/resources/images/21416334.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- Music
 ---
 
 Darlington was transformed for a day of live music and comedy as the Last Train Home Festival took over the town's venues.

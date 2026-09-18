@@ -9,6 +9,10 @@ description: Trump remains mesmerized by Putin even as the Kremlin helps Iran ki
   Americans and weaken US influence around the globe, explains world affairs editor
   Sam Kiley
 image: https://static.independent.co.uk/2026/09/01/10/2292889275..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 In an age of rogue lawlessness dominating international affairs since Donald Trump returned to the Oval Office and then staggered about the globe like a toddler with a chainsaw, it is inevitable that other outlaw nations, Russia and Iran, would see opportunity in the mayhem.

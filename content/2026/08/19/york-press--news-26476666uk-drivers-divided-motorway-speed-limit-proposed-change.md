@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: When asked if they believed the UK motorway speed limit would change,
   a pool of UK drivers was somewhat divided
 image: https://www.yorkpress.co.uk/resources/images/18200249.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
+- Automotive
 ---
 
 *(Image: Ben Birchall/PA Wire)*

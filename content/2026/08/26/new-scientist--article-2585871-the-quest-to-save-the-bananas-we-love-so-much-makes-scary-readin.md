@@ -9,6 +9,9 @@ description: Without serious technical efforts, banana crops faces collapse worl
   James Woodford enjoys a passionate plea from leading researcher James Dale in his
   new book, The Future of Bananas
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308733669.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Banana Tree Plantation with Bananas Hanging; Shutterstock ID 1560262256; purchase_order: -; job: -; client: -; other:](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308733669.jpg?w=840)

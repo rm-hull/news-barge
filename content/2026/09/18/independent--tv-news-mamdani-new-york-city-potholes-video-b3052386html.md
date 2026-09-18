@@ -14,6 +14,10 @@ description: 'New York City mayor Zohran Mamdani has marked the repair of the ci
   of the year on Staten Island, marking the highest number of potholes filled in the
   first 100 days of a year in more than a decade.'
 image: https://cdn.jwplayer.com/v2/media/L5X15eqk/poster.jpg?width=720
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 ## Showing now | News

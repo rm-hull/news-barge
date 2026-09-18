@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Review due next week expected to say patients should be ‘triaged’ and
   offered support without formal diagnosis
 image: https://i.guim.co.uk/img/media/4dd3c839648b26311d05a5dc92b361607b27cf15/254_0_4242_3394/master/4242.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a5623d9962359ad9cdd98c891797116
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Proposals to limit the number of patients being formally diagnosed with attention deficit hyperactivity disorder have been atacked as “rationing” healthcare and pushing children and adults to self-diagnosis via social media.

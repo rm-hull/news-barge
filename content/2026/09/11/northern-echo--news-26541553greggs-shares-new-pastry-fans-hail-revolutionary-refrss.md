@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Greggs has revealed its new 'Bake Duo' creation on social media as the
   Newcastle-founded chain continues to operate more than 200 stores…
 image: https://www.thenorthernecho.co.uk/resources/images/21403316.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Greggs has unveiled a giant savoury pastry it is jokingly calling its “biggest technological breakthrough yet”.

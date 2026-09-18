@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Trains were cancelled or delayed on Tuesday after objects were found
   on tracks at multiple locations.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eda4/live/dbe5e120-b0de-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Two people are seen from behind looking up at an information board at Zwolle station in Zwolle, Netherlands, where trains are facing significant disuption](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/eda4/live/dbe5e120-b0de-11f1-b1d1-571ed4d7ff2c.jpg)

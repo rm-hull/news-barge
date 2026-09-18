@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The Eric Clapton-owned Burythorpe House Hotel near Malton has scored
   one-star for food hygiene, meaning ‘major improvement necessary’.
 image: https://www.yorkpress.co.uk/resources/images/21351329.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 ## Top North Yorkshire hotel owned by Eric Clapton scores one-star for food hygiene

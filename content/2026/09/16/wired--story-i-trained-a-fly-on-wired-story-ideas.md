@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: I used an open-source map of a fruit fly’s brain to vibe code a website
   called PitchFly. Its headline suggestions were delightfully bananas.
 image: https://media.wired.com/photos/6aa8849459082b83fd22fcf8/191:100/w_1280,c_limit/AI-Lab-This-Fly-Can-Come-Up-With-WIRED-Stories-Businesspsd.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Meet PitchFly, WIRED’s latest editorial recruit.

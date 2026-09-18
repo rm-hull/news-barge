@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Advice on PC building and the best PC builds around, from the expert
   team at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/ihsSqsHBGmoax6s82AtRz5-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Careers & Productivity
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/ihsSqsHBGmoax6s82AtRz5-320-80.jpg)

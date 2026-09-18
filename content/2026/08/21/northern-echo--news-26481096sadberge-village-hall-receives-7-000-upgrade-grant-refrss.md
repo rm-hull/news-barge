@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A village hall near Darlington that serves as a hub for community activities
   has received a four-figure boost to replace its ageing floor, ensuring…
 image: https://www.thenorthernecho.co.uk/resources/images/21349127.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Supplied)*

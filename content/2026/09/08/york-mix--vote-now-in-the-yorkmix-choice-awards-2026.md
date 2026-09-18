@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T19:25:43Z'
 published: '2026-09-08T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/ym-choice-2026-asset.png
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 The YorkMix Choice awards are back for 2026 and once again hundreds of local businesses are asking for your vote to help them reach the shortlist!

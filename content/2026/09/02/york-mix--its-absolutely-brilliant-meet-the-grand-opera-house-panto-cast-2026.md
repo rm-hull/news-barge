@@ -8,6 +8,10 @@ scraped_at: '2026-09-02T19:23:00Z'
 published: '2026-09-02T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/the-further-adventures-of-peter-pan-goh-2026.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 The countdown to Christmas has officially started – oh yes it has! – as we met the cast of *The Further Adventures of Peter Pan: The Return of Captain Hook* at the Grand Opera House York.

@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: THE multimillion-pound cost of purchasing a new office building has been
   disclosed by North Yorkshire Council.
 image: https://www.yorkpress.co.uk/resources/images/20672329.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## Multimillion-pound price of council’s new office revealed

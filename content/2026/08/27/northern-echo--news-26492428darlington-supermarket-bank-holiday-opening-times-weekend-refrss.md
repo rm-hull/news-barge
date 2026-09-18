@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Planning a Bank Holiday shop? Check the latest opening times for Tesco,
   Aldi, Asda, Morrisons, Lidl, Sainsbury's and more stores across…
 image: https://www.thenorthernecho.co.uk/resources/images/20764443.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Darlington shoppers planning a last-minute barbecue, family get-together or Bank Holiday food are being urged to check opening times before heading out this weekend.

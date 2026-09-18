@@ -14,6 +14,9 @@ description: Count Binface has announced whether he is standing as a candidate t
   Sir Keir announced he would stand down as MP for the London constituency when Parliament
   returned on 1 September.
 image: https://cdn.jwplayer.com/v2/media/JJJbRnu1/poster.jpg?width=720
+categories:
+- News & Politics
+- UK
 ---
 
 ## Showing now | News

@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: If your holiday isn't complete without the perfect photo, these stunning
   destinations could provide your next viral Instagram post, and the…
 image: https://www.thenorthernecho.co.uk/resources/images/21419610.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 While many of us choose our holiday destinations based on adventure, relaxation or low prices, it can also be because the place is beautiful and aesthetically pleasing.

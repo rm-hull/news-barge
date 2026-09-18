@@ -10,6 +10,9 @@ description: The decision by experts to start specifically asking voters if they
   Rupert Lowe’s party is a highly significant development in the UK’s fragmented politics.
   Political Editor David Maddox explains why
 image: https://static.independent.co.uk/2026/08/26/12/2288133856..?trim=21,0,21,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 It was in autumn 2022 when political pollsters began officially including Reform UK in their surveys, alongside the main political parties. The significant move meant Reform were added to the list of parties put in front of voters when asked who they support – throwing them into the same bracket as Labour, the Tories, Lib Dems and Greens.

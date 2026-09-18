@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Liverpool face Tottenham in the third round of the EFL Cup, Manchester
   United play Brighton and Manchester City draw Norwich.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4123/live/4ad2af40-a190-11f1-9e49-ab6cded816f9.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A close up picture of the EFL Cup trophy](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4123/live/4ad2af40-a190-11f1-9e49-ab6cded816f9.jpg)

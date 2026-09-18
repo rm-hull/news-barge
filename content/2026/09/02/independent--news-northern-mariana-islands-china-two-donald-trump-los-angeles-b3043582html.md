@@ -10,6 +10,9 @@ description: The Chinese government is pressing for answers after a Chinese man 
   hours after being taken into custody by U.S. Immigration and Customs Enforcement
   on a U.S. territory
 image: https://static.independent.co.uk/2026/08/26/05/Immigration_ICE_Arrests_7832_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Chinese government is pressing for answers after a Chinese man died hours after being taken into custody by U.S. Immigration and Customs Enforcement in a U.S. territory.

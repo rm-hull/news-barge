@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: 'CD Projekt Red has announced The Witcher 3: Wild Hunt Remastered, a
   free upgrade featuring all-new improvements and revamped gameplay features.'
 image: https://cdn.mos.cms.futurecdn.net/d8VExDkDoKuUGadJWQSHHn-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![The Witcher 3: Wild Hunt Remastered](https://cdn.mos.cms.futurecdn.net/d8VExDkDoKuUGadJWQSHHn.jpg) 

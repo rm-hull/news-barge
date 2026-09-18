@@ -8,6 +8,11 @@ scraped_at: '2026-08-18T13:03:39Z'
 published: '2026-08-18T00:00:00Z'
 description: Yet, this does not mean judges are allowed to use AI.
 image: https://cdn.mos.cms.futurecdn.net/5hdMf9ngWuyFWXqzgbQH3S-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Law & Justice
+- Society & Culture
 ---
 
 ![Gavel in front of ChatGPT Screen](https://cdn.mos.cms.futurecdn.net/5hdMf9ngWuyFWXqzgbQH3S.jpg) 

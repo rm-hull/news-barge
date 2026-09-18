@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: Business leaders will discuss North East regeneration, investment and
   growth at the BUSINESSiQ Impact event at Darlington College on September 25.
 image: https://www.thenorthernecho.co.uk/resources/images/21417583.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Impact)*

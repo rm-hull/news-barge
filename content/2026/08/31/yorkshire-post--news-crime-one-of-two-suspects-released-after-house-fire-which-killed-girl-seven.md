@@ -10,6 +10,11 @@ description: A 23-year-old man continues to be questioned in connection with a m
   investigation following a house fire which killed a seven-year-old girl and her
   aunt, while a 31-year-old man has been released with no further charge.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/28/09/v2-image-production-e1e78f2d76ddf903e1051e63fc4c7a24Y29udGVudHNlYXJjaGFwaSwxNzg3OTkyMjI0-2.85667736.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # One of two suspects released after house fire which killed girl, seven, and aunt

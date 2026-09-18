@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T19:44:02Z'
 published: '2026-09-17T00:00:00Z'
 description: Michail Antonio is West Ham’s all-time top Premier League goalscorer
 image: https://static.independent.co.uk/2026/04/22/13/01KH70GRZY6MS9A2JVNK0YZ0PF.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Footballer Michail Antonio has been convicted of failing to identify the driver of his Lamborghini supercar when it was suspected of involvement in a motoring offence in central London.

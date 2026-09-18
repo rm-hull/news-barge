@@ -10,6 +10,10 @@ description: Hashim Thaçi, who served as both president and prime minister, was
   Specialist Chambers, as tens of thousands who had gathered in Prishtina expecting
   his acquittal watched proceedings on a livestream.
 image: https://images.euronews.com/articles/stories/09/91/55/31/1200x675_cmsv2_8ebb3a29-0ec7-501b-8f73-59ee67aba596-9915531.jpg
+categories:
+- Europe
+- News & Politics
+- True Crime
 ---
 
 ## Hashim Thaçi, who served as both president and prime minister, was found guilty of murder, torture, cruel treatment and arbitrary detention by the Kosovo Specialist Chambers, as tens of thousands who had gathered in Prishtina expecting his acquittal watched proceedings on a livestream.

@@ -10,6 +10,11 @@ description: U.S. household income finally topped pre-pandemic levels last year,
   stark sign of how the past five years of rising prices have limited Americans’ earnings
   and purchasing power
 image: https://static.independent.co.uk/2026/09/15/17/Income_Poverty__9761.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 U.S. household income finally topped pre- pandemic levels last year, a stark sign of how the past five years of rising prices have limited Americans’ earnings and purchasing power.

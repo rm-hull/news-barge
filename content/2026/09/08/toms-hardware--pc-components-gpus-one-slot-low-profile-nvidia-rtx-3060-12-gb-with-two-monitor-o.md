@@ -9,6 +9,9 @@ scraped_at: '2026-09-08T12:51:03Z'
 published: '2026-09-08T00:00:00Z'
 description: 12 GB of VRAM wasn't supposed to be a lot, but these days it's a luxury.
 image: https://cdn.mos.cms.futurecdn.net/chLrh2VfSisKGzyVjAjaXF-1488-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Low Profile RTX 3060 12 GB](https://cdn.mos.cms.futurecdn.net/chLrh2VfSisKGzyVjAjaXF.png) 

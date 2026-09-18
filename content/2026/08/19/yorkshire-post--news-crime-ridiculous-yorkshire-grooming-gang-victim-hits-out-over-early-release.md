@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A victim of a Bradford grooming gang says it is “ridiculous” that one
   of her abusers is being released on Monday, after serving only half of his sentence.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ5YjZhM2UzLWY4NDgtNDNmNy04N2MwLTAyZmJjOWVkNzM3Nzo5NGIxNmM1NS00ODBjLTQyOGQtYTM1Zi0xNTdlYzJkYjI3ZTk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Comedy & Entertainment
 ---
 
 # 'Ridiculous' - Yorkshire grooming gang victim hits out over early release of offender

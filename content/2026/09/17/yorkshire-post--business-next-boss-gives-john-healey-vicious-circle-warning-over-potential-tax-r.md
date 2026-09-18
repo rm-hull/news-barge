@@ -10,6 +10,12 @@ description: Retail giant Next has warned against tax increases in next month’
   as it said consumers were already under mounting pressure from Iran war inflation
   and a weak jobs market.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRmYWQ2NDgzLTg4ZjQtNGUyYS05Nzc3LTU5OGFhZmE3NWIzZTplMTEzZmMzNi02NTJjLTQwMWEtOWJmZS1jNmYwZmUzOWFjMzY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # Next boss gives John Healey 'vicious circle' warning over potential tax rises in first Budget

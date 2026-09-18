@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Beyoncé, Cher, Elton John and Miley Cyrus have all worn Mackie's glittery
   ensembles.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc87/live/341ef1b0-b0ad-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 **Iconic fashion designer Bob Mackie, who has died aged 87, spent his career styling the biggest stars in his signature bedazzled, feathered and beaded couture.**

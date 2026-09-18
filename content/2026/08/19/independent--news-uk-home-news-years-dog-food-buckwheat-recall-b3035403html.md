@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: A ‘potential link’ has been found between a key ingredient, buckwheat,
   and an eye condition
 image: https://static.independent.co.uk/2026/08/18/21/18210457-af545f36-b044-4dc5-8380-5f65a8e5447b.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Pets & Animals
 ---
 
 A high-end pet food brand has initiated a recall following dozens of reports regarding suspected eye problems in dogs.

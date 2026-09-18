@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: Days before his departure, Atom founder Mark Mullen spoke candidly to
   BUSINESSiQ
 image: https://www.thenorthernecho.co.uk/resources/images/21467251.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Just weeks before Atom bank announced that its co-founder and chief executive Mark Mullen was stepping down, he gave BUSINESSiQ a characteristically candid interview. Now, his comments offer a revealing final perspective on the bank, its North East roots and the industry he never intended to join.

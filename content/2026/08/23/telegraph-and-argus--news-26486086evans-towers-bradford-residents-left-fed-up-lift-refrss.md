@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: A Bradford resident says he and all of his neighbours have been left
   "fed up" by a lift that frequently breaks down in their tower block.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21356531.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: T&A)*

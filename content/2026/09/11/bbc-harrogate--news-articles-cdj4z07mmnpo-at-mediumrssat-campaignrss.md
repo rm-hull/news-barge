@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Mia Howarth, from Horbury, filmed Alfie Lovett hanging out of her car
   window before the fatal crash.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d51a/live/14207ca0-2136-11f1-9423-efef9a372d61.jpg
+categories:
+- Local
+- Harrogate
+- Film & TV
 ---
 
 ![A young woman with long dark hair featuring blonde streaks sits against a plain light‑coloured wall, wearing a black sweatshirt.](https://ichef.bbci.co.uk/ace/standard/384/cpsprodpb/d51a/live/14207ca0-2136-11f1-9423-efef9a372d61.jpg)

@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Yorkshire Water has begun work on a section of York's inner ring road
   which was badly damaged in Sunday's storm.
 image: https://www.yorkpress.co.uk/resources/images/21392892.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 A section of York's inner ring road which was damaged in Sunday’s storm is set to remain closed for "a few days" as repair work is carried out.

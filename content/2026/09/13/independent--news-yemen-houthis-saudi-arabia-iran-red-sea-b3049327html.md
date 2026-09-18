@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Iran-backed Houthis in Yemen have claimed new attacks on Saudi Arabia,
   escalating tensions in the region
 image: https://static.independent.co.uk/2026/09/13/07/Saudi_Arabia_Yemen_War_633_9.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Iran-backed Houthis in Yemen overnight claimed new attacks on neighboring Saudi Arabia, as Yemen's Saudi-backed government described the rebels' swift advance along the Red Sea coast as a “painful” development in a new front in the Iran war.

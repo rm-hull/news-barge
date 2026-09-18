@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: The UK's largest retailer of musical instruments and music equipment
   has reported strong trading.
 image: https://www.gazetteherald.co.uk/resources/images/21423485.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Music
+- Business & Entrepreneurship
 ---
 
 *(Image: Pic supplied)*

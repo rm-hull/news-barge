@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Weekend warmth gives way to rain and strong winds for many into the start
   of the new week.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/98e4/live/fae34f20-a9e2-11f1-803f-7f2a9199ddc4.jpg
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
+- Travel
 ---
 
 ![A woman stands with a black umbrella next to a wall in the rain](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/98e4/live/fae34f20-a9e2-11f1-803f-7f2a9199ddc4.jpg)

@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling
   for pacing agreements between labs.
 image: https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2063425288.jpg?resize=1200,818
+categories:
+- Technology & Software
+- Science
 ---
 
 An Anthropic researcher has resigned over fears that unrestrained development of self-improving AI models will end up killing us all.

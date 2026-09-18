@@ -9,6 +9,9 @@ published: '2026-09-15T00:00:00Z'
 description: Comments come after court on Monday rejected the president’s mail ballot
   restrictions ahead of the November midterm elections
 image: https://i.guim.co.uk/img/media/e48b61b98a1bf6d559e4aa6edc955c2766a7b38d/58_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=eed369e9d309eb53eedc05a2ce6614a4
+categories:
+- UK
+- News & Politics
 ---
 
 Lawmakers have given their support to the supreme court’s rejection of Donald Trump’s bid to restrict mail ballots for the midterm elections.

@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: Six people have been arrested following a series of raids across Leeds
   following an investigation into the theft of cargo from lorries across the UK.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/11/16/2026_08_11_15_21_36_705_ASH_E3F7C939312F4F25A7E0F1820F7F6D6D.JPG?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- History
 ---
 
 # Six arrested in Yorkshire over thefts of cargo from HGVs across the country

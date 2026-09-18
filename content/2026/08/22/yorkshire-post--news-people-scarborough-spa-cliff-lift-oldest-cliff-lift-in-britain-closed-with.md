@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Scarborough Spa Cliff Lift has been closed with immediate effect, it
   has been announced.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmIwYmVjMWM1LTVmMGItNDk5ZS05MDU3LWE3ZmY4OWZhYzQ3YTo3NDJlM2E5OC1iZmNmLTQ4MGUtOGMxYS1hZjNmNWQ0NGYwNWM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # Scarborough Spa Cliff Lift: Oldest cliff lift in Britain closed with immediate effect as explanation issued

@@ -9,6 +9,10 @@ description: The AfD and the Trump administration, with its special envoys Steve
   and Jared Kushner, are bound into a commercial friendship run out of the Kremlin
   by one man, writes world affairs editor Sam Kiley
 image: https://static.independent.co.uk/2026/09/07/14/2026-09-05T182036Z_10760307_RC26DNAW5760_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-USA.JPG?trim=18,0,18,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The success of Germany’s far-right Alternative for Germany (AfD) in state elections could herald a disaster for Ukraine, a European victory for Vladimir Putin, and a stampede of greed over democracy orchestrated by one man.

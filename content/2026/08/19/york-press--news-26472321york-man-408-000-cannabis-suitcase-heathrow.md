@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: A York man tried to smuggle drugs worth up to £408,000 into the UK, the
   city’s magistrates heard. Samson Wildwood, 40, was caught by a routine…
 image: https://www.yorkpress.co.uk/resources/images/21164991.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Stefan Rousseau/PA)*

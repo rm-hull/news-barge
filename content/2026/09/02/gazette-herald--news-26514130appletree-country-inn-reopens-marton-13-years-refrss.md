@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: The Appletree Country Inn at Marton reports a “fantastic” re-opening
   after 13 long years of closure.
 image: https://www.gazetteherald.co.uk/resources/images/21374487.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 A North Yorkshire village pub reports a “fantastic” re-opening after 13 long years of closure.

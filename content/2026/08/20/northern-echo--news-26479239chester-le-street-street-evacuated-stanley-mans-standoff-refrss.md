@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: A man high on drink and drugs was involved in a police standoff in which
   he threatened officers with a suspected firearm.
 image: https://www.thenorthernecho.co.uk/resources/images/21343489.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: Durham Constabulary)*

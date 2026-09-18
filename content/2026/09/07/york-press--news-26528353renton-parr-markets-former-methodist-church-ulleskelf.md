@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T19:53:18Z'
 published: '2026-09-07T00:00:00Z'
 description: A former church in a North Yorkshire village is up for sale for £179,995.
 image: https://www.yorkpress.co.uk/resources/images/21420373.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 ## Former Methodist church in North Yorkshire village goes to market at £179,995

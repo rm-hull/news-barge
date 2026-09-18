@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: The editor-in-chief of Stars and Stripes says the Pentagon has fired
   the editor-in-chief of Stars and Stripes, as well as its publisher and a reporter
 image: https://static.independent.co.uk/2026/08/19/22/Media_Pentagon_Stars_and_Stripes_2_594.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Comedy & Entertainment
 ---
 
 The Pentagon on Friday fired the editor-in-chief of Stars and Stripes, as well as its publisher and a reporter, the editor said. He said he was dismissed for insubordination after an interview he gave that objected to any potential censorship by the U.S. military.

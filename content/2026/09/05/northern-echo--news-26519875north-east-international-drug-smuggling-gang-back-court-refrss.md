@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Members of an international drug smuggling ring who imported cannabis
   into the North East will have to wait to learn how much they will have to pay…
 image: https://www.thenorthernecho.co.uk/resources/images/21407657.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Members of an international drug smuggling ring who benefited to the tune of almost £5m importing cannabis will have to wait to learn how much they will have to pay back.

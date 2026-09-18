@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Flight disruption has ruined holidays and left passengers sleeping on
   airport floors - so what are their rights?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/33d2/live/4c8e86c0-ad1a-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Catie and Phil stand in a bedroom looking down at their open suitcase.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/33d2/live/4c8e86c0-ad1a-11f1-a540-61c3f7fc4e6c.jpg)

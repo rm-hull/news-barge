@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: President Donald Trump invites fresh hostility by dismissing all concerns
   about artificial intelligence and refusing to take seriously appeals for its regulation
 image: https://static.independent.co.uk/2026/09/14/18/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Society & Culture
 ---
 
 President Donald Trump had another busy day on Truth Social Monday, notably ranting about opposition to AI and data centers, which has inspired fresh calls for his removal from office under the 25th Amendment.

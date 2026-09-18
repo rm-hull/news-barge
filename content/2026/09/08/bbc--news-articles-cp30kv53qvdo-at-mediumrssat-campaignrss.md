@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: A spokesman says they were not told in advance about the letter sent
   on behalf of the king, although palace sources deny this.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/49f9/live/385da4e0-ab5f-11f1-9647-01c7ddc5a2b1.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Meghan holding onto Harry's arm, while Harry waves his hand](https://ichef.bbci.co.uk/ace/standard/977/cpsprodpb/49f9/live/385da4e0-ab5f-11f1-9647-01c7ddc5a2b1.jpg)

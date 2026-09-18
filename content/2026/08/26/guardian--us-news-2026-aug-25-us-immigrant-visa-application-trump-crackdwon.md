@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: Move by state department to limit access is part of Trump’s crackdown
   on both lawful and undocumented immigration
 image: https://i.guim.co.uk/img/media/2d303f1c00bd3175b4c5f7faebac7877b8e08984/339_0_4858_3889/master/4858.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67e2016f1609ca1c4f1321c858fb01e9
+categories:
+- UK
+- News & Politics
 ---
 
 All US immigrant visa applications have been paused by the Trump administration as the state department moves to tighten restrictions and limit access to applicants who they deem could end up relying on US assistance, a state department official confirmed Tuesday.

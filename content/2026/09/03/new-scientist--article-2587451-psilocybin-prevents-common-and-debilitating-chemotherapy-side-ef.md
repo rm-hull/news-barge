@@ -10,6 +10,10 @@ description: Many people who have chemotherapy develop numbness, tingling and pa
   in their hands and feet, which can disrupt their treatment. But research suggests
   that psilocybin, the psychedelic in magic mushrooms, could prevent this side effect
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310395142.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![Digital artwork featuring magic mushrooms, which contain the psychedelic compound psilocybin](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310395142.jpg?w=840)

@@ -8,6 +8,12 @@ published: '2026-08-30T00:00:00Z'
 description: A junction improvement scheme that was first proposed over seven years
   ago is expected to get a £6.6 million boost next week.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21386920.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: T&A)*

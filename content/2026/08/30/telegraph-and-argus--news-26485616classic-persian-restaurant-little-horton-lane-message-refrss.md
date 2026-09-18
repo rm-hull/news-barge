@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: A long-running Bradford restaurant is deciding to look forward to its
   next chapter rather than the end of the story.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21356738.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: T&A)*

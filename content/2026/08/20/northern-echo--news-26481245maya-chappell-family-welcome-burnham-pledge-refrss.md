@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: Andy Burnham’s promise to “push the system as hard as I can” to keep
   child killers behind bars has been welcomed by the family of a murdered…
 image: https://www.thenorthernecho.co.uk/resources/images/21255082.jpg?type=og-image&xType=0&yType=464
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Andy Burnham’s promise to “push the system as hard as I can” to keep child killers behind bars has been welcomed by the family of a murdered County Durham toddler.

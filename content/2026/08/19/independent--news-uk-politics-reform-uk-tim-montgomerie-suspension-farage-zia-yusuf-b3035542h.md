@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: Tim Montgomerie says he will make his suspension a ‘test case’ for the
   party
 image: https://static.independent.co.uk/2026/08/19/10/10/PA-77337190.jpg?trim=44,0,45,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The civil war within Reform UK has intensified after a high-profile ally of Nigel Farage vowed to challenge his suspension to test whether the party can “tolerate free speech”.

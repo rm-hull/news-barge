@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: Geordie Coppers premieres on Channel 4 tonight. Here's everything we
   know about the new series following Northumbria Police, Street Rangers and…
 image: https://www.thenorthernecho.co.uk/resources/images/21453190.jpg?type=og-image&xType=0&yType=6
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 A brand-new documentary series following the people who police the North East will hit TV screens tonight.

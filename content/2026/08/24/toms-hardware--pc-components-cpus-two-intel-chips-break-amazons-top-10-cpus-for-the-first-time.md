@@ -8,6 +8,9 @@ scraped_at: '2026-08-24T16:51:25Z'
 published: '2026-08-24T00:00:00Z'
 description: The parts in question offer remarkably good value for specific purposes.
 image: https://cdn.mos.cms.futurecdn.net/7KQvfZGvqYD7sjeou4kTrU-1999-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Core Ultra 250K Plus and 270K Plus on a box](https://cdn.mos.cms.futurecdn.net/7KQvfZGvqYD7sjeou4kTrU.jpg) 

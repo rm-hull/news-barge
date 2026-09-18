@@ -8,6 +8,13 @@ published: '2026-08-18T00:00:00Z'
 description: Lanre Fakunle has joined McCormicks Solicitors in Harrogate as the new
   head of employment law.
 image: https://www.gazetteherald.co.uk/resources/images/21329048.jpg?type=og-image&xType=0&yType=786
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Law & Justice
+- Careers & Productivity
 ---
 
 *(Image: Kate Mallender Photography)*

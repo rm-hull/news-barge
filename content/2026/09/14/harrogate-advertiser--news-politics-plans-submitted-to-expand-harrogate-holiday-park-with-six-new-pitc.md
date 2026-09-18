@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Plans have been submitted to expand a Harrogate holiday park to meet
   growing demand for more spacious and private rural holiday accommodation.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmNmZWIzZWU1LWMwMzMtNGY1ZC1hNTA5LTVjYjM2ZjM2ZjIxNzo0ZTc5NWUwNC1lNDlmLTQwNGEtODFlMS03MWQ4Zjc5N2YxM2I=.jpg?crop=3:2,smart&trim=&width=674&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 # Plans submitted to expand Harrogate holiday park with six new pitches to meet growing demand

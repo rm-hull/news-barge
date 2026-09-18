@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Northern Irish social media personality John Nellis is taking part in
   the 2026 series of Strictly Come Dancing. Here is all to know about him.
 image: https://www.yorkpress.co.uk/resources/images/21447787.jpg?type=og-image
+categories:
+- Local
+- York
+- Comedy & Entertainment
 ---
 
 *(Image: Ray Burmiston/BBC)*

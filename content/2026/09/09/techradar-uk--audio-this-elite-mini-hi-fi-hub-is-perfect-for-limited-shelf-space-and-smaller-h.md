@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The Marantz MCR 60n is a small-form hi-fi system which fits into any
   home space, yet offers a range of handy features.
 image: https://cdn.mos.cms.futurecdn.net/mQfnVPiDswaWYfVMcin32H-2089-80.jpg
+categories:
+- Technology & Software
+- Lifestyle & Fashion
+- Home, Garden & DIY
 ---
 
 ![The Marantz MCR 60n on a wooden shelf, next to some headphones.](https://cdn.mos.cms.futurecdn.net/mQfnVPiDswaWYfVMcin32H.jpg) 

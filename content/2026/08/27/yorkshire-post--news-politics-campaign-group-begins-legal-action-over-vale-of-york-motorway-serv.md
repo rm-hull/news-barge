@@ -9,6 +9,12 @@ description: Campaigners fighting plans for a motorway service area near Borough
   have taken the first formal step towards challenging North Yorkshire Council’s decision
   in the High Court.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmRjN2NmMzIwLWYzNTQtNDY3Ni05MTY0LTEwMTcwMTFkMDY1YTozZjA2MTEzNi0yZjU2LTQyZjQtYTE5NC0yYzQzNzc1NGY5ZDM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 # Campaign group begins legal action over Vale of York motorway services decision

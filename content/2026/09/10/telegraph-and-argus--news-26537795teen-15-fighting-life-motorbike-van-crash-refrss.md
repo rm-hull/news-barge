@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: A teenage boy, who was riding motorbike, is fighting for his life following
   a crash with a van on a major road.
 image: https://www.thetelegraphandargus.co.uk/resources/images/14861168.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 A TEENAGE boy, who was riding a motorbike, is fighting for his life following a crash with a van on a major road.

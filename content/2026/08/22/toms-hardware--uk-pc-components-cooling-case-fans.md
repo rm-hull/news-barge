@@ -8,6 +8,9 @@ published: '2026-08-22T00:00:00Z'
 description: Case Fan reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/bHVvkEjm7Ncs54FJqakUWo-320-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Thermalright Fan Frame Vision-1 fan accessories](https://cdn.mos.cms.futurecdn.net/bHVvkEjm7Ncs54FJqakUWo-320-80.png)

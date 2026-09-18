@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: Judge appears poised to keep federal prosecutors away from David Hearn
   after Jeanine Pirro suggested more charges could be coming
 image: https://static.independent.co.uk/2026/09/04/21/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A judge in Washington, D.C. appears prepared to block Donald Trump’s administration and prosecutors from charging a former Olympian a second time for damage to the Lincoln Memorial Reflecting Pool.

@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: A Sunderland road has been closed overnight following a crash - with
   drivers diverted around the scene of the incident.
 image: https://www.thenorthernecho.co.uk/resources/images/21437838.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: GOOGLE)*

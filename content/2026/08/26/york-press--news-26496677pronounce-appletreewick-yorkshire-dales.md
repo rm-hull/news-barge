@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Appletreewick has a very confusing name to pronounce that often catches
   non-locals out.
 image: https://www.yorkpress.co.uk/resources/images/21372997.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: Getty)*

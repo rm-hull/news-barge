@@ -9,6 +9,12 @@ published: '2026-08-30T00:00:00Z'
 description: New company reportedly quickly fell behind with promised repayments to
   administrator
 image: https://i.guim.co.uk/img/media/339120e026a08d4477d3d9095caaa7d66c696ae2/298_0_5200_4160/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e4ff3ef0aed6bc52ae487bb60740140d
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 A recruitment executive who was allowed to buy back the assets of his bust company in instalments, despite it accumulating almost £3m of debt, has placed his new business into liquidation after falling behind with promised payments to the administrator.

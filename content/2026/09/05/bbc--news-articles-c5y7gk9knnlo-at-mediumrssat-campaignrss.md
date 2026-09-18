@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Sarah Khalifa is best known for her TV programme Mission Impossible which
   dealt with crime issues.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Sarah Khalifa wearing a white long-shirted with her folded left arm, the hand touching her long hair, sits by the side of a road inside a red-roped cordoned area, beyong which people walk on a road the other side of which has rows of sunbathed buildings](https://ichef.bbci.co.uk/ace/standard/626/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png)

@@ -10,6 +10,9 @@ description: The event is expected to be a notable one, as Apple is rumored to u
   Ternus as CEO, who is scheduled to take the reins of the tech giant from Tim Cook
   on September 1.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.45.18-PM.png?resize=1200,927
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Apple announced on Wednesday that its next launch event is taking place on September 9, with a “Surprise and Shine” tagline.

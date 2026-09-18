@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Figures released today by the Home Office show that there was also a
   fall across legal migration arrivals, asylum claims and small boat arrivals.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d6e/live/66851bb0-a20d-11f1-9090-b51af3a01fc2.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![People in a dingy](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/9d6e/live/66851bb0-a20d-11f1-9090-b51af3a01fc2.jpg)

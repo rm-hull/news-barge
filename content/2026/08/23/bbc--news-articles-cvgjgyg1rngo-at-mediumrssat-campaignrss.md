@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Labour called the plan "unserious and unworkable" and accused Reform
   of pushing "gimmicks and division".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/098c/live/b1e152d0-8819-11f1-981c-7d4dd1ef3d1d.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Richard Tice, in blue jacket, white shirt, and black and white tie, points with his finger while talking to reporters](https://ichef.bbci.co.uk/ace/standard/992/cpsprodpb/098c/live/b1e152d0-8819-11f1-981c-7d4dd1ef3d1d.jpg)

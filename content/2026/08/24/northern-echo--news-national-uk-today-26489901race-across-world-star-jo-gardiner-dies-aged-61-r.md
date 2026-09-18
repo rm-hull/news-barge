@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Race Across the World star Jo Gardiner has died at the age of 61 following
   a battle with cancer, a year after her son Sam died in a car crash.
 image: https://www.thenorthernecho.co.uk/resources/images/21363189.jpg?type=og-image&xType=0&yType=2
+categories:
+- Local
+- UK
+- News & Politics
+- Science
 ---
 
 *(Image: Studio Lambert/BBC/PA Wire)*

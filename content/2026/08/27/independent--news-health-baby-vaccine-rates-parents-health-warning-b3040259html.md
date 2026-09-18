@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: New data has revealed that uptake rates for vaccines protecting babies
   have fallen once more
 image: https://static.independent.co.uk/2026/08/27/11/2235105431..?trim=76,0,75,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- Health & Fitness
 ---
 
 Uptake rates for every routine vaccine provided to protect babies from severe illnesses have dropped once again, latest official data reveals.

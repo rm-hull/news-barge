@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Long summer days are made for spending outdoors and we love glamping
   escapes.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21190514.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: Canopy & Stars)*

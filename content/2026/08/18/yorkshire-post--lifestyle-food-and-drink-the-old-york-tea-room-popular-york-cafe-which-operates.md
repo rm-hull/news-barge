@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: A popular cafe in York that operates at full capacity with long queues
   of visitors will be expanding with a takeaway next to York Minster.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQyOTA4Mjg0LWY0NjctNGFiOC1hM2FmLWQ5NzhiNDA4ODU4Nzo0ZmI2NTNmMi00NzNhLTRhODYtYTBmMS0yMzUyNTYxNTgwZmM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 # The Old York Tea Room: Popular York cafe which operates 'at capacity' to expand with takeaway next to York Minster

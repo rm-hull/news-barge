@@ -9,6 +9,10 @@ description: Georgia’s top diplomat told Euronews that Tbilisi remains committ
   EU accession and that Europe needs Georgia for its prosperity and security. But
   according to the FM, it all comes down to whether Europeans “are serious about enlargement”.
 image: https://images.euronews.com/articles/stories/09/91/57/55/1200x675_cmsv2_8ef8b7d9-e103-5759-8cf1-69613483016c-9915755.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Georgia’s top diplomat told Euronews that Tbilisi remains committed to EU accession and that Europe needs Georgia for its prosperity and security. But according to the FM, it all comes down to whether Europeans “are serious about enlargement”.

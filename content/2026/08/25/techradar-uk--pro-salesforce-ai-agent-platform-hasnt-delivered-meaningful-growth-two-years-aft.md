@@ -8,6 +8,9 @@ scraped_at: '2026-08-25T13:08:14Z'
 published: '2026-08-25T00:00:00Z'
 description: Customers are still working out how to benefit from AI agents
 image: https://cdn.mos.cms.futurecdn.net/AGpcwbtfGPLkKaK6gatPLW-970-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Salesforce Agentforce](https://cdn.mos.cms.futurecdn.net/AGpcwbtfGPLkKaK6gatPLW.jpg) 

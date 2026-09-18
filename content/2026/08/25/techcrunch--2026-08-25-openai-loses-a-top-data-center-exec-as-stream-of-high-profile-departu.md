@@ -10,6 +10,9 @@ description: Before Malone left, OpenAI had already reshuffled its infrastructur
   org, shifting his reporting line away from President Greg Brockman and putting Vice
   President Sachin Katti in charge of the group.
 image: https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 OpenAI has lost yet another executive, and the timing of this one stands out in particular given this individual oversaw the execution of the company’s data center strategy.

@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: US Army turns AI agents into cyber specialists as rivals race ahead with
   machines operating at unprecedented speed
 image: https://cdn.mos.cms.futurecdn.net/22wor5zabvQx45LnjDAFpb-1920-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Sports
 ---
 
 ![U.S. Army AI](https://cdn.mos.cms.futurecdn.net/22wor5zabvQx45LnjDAFpb.png) 

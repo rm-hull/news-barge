@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Darlington is due a warm and mostly sunny weekend, with temperatures
   reaching 22C on Sunday and only a slight chance of isolated showers.
 image: https://www.thenorthernecho.co.uk/resources/images/20961446.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 Residents across Darlington can look forward to a pleasant weekend as highs of 22C and sunshine are expected.

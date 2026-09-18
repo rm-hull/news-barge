@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T21:31:59Z'
 published: '2026-08-19T00:00:00Z'
 description: easyJet has announced it will stop flying from Leeds Bradford Airport.
 image: https://www.yorkpress.co.uk/resources/images/21341843.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 ## EasyJet pulls out of Leeds Bradford Airport with flights axed

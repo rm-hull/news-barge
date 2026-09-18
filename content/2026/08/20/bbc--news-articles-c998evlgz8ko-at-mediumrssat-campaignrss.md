@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: European countries and Canada pile on pressure over Israel's plans to
   expand settlements in a strategically vital part of the occupied West Bank.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Wide view of a highway near the Israeli settlement of Maale Adumim in the area of the so-called E1 project in Jerusalem, in the occupied West Bank, taken in February 2026.](https://ichef.bbci.co.uk/ace/standard/980/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg)

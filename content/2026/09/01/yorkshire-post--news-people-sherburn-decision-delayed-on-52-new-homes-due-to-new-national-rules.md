@@ -9,6 +9,11 @@ description: A decision on plans for up to 52 homes in a Ryedale village has bee
   delayed after planning officers changed their recommendation following the publication
   of new national planning rules.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmM1MWY1NWE5LTMxMGQtNDgzYi1hNGUyLTkyZmMwZDNiMGU5MDoxYWM5ZGI1Mi02Y2M1LTQ4ZGItOTUyZC0zNmM5NmZjYzAxYzE=.jpg?crop=3:2,smart&trim=&width=773&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Sherburn: Decision delayed on 52 new homes due to new national rules

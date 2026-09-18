@@ -9,6 +9,11 @@ description: Besides a social media post from US President Donald Trump, the Whi
   House has said little about what he is calling “the biggest oil deal in world history”
   in Venezuela.
 image: https://images.euronews.com/articles/stories/09/89/47/16/1200x675_cmsv2_0c6413d8-8de6-59ed-8588-2fdacc894124-9894716.jpg
+categories:
+- Europe
+- News & Politics
+- History
+- Society & Culture
 ---
 
 ## Besides a social media post from US President Donald Trump, the White House has said little about what he is calling “the biggest oil deal in world history” in Venezuela.

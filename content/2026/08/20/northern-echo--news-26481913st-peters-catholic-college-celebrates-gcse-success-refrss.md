@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: Students at a North East secondary school are celebrating significant
   improvements across most subjects, with headteacher praising pupils’ hard…
 image: https://www.thenorthernecho.co.uk/resources/images/21348823.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
+- Self-Improvement
 ---
 
 *(Image: Supplied)*

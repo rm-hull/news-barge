@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: A special day celebrating dogs and their owners is returning to the Himalayan
   Garden & Sculpture Park near Ripon next month.
 image: https://mmo.aiircdn.com/409/6a885327d2acbee15e8.jpg
+categories:
+- Local
+- Harrogate
+- Pets & Animals
 ---
 
 ![](https://mmo.aiircdn.com/409/6a885327d2acbee15e8.jpg) 

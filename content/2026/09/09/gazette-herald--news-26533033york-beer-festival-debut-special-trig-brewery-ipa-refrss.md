@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: York Beer Festival returns to St Lawrence’s Church from September 16
   to 19, with CAMRA’s 100th Meridian Mountain IPA making its debut with Trig…
 image: https://www.gazetteherald.co.uk/resources/images/21426968.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 A special brew is set to take centre stage at a popular beer festival in York next week.

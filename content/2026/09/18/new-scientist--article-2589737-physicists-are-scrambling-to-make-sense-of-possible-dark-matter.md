@@ -9,6 +9,9 @@ description: Following the possible recent detection of a dark matter particle, 
   have already come up with a veritable cornucopia of possible models for what sort
   of particle it might have been
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310543559.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![The LUX-ZEPLIN main detector in a surface lab before installation underground](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310543559.jpg?w=840)

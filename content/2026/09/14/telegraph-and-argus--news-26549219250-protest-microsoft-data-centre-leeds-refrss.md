@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Microsoft data centre in Leeds sparks environmental protest and more
   than 42,000 sign petition.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21453702.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 ### What is the Public Notice Portal?

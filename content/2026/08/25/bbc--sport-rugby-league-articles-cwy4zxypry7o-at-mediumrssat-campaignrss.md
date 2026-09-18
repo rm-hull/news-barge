@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Rugby league legend Sir Billy Boston, one of the game's greatest try
   scorers, dies aged 92.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ff1f/live/bfa0cbe0-9a0b-11f1-a7ab-8b30adf0800a.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 ![Billy Boston in action for Wigan](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/33b4/live/48cd7ad0-a05b-11f1-aed2-8d6da8d75094.jpg)

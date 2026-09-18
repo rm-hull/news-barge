@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Relocation coincides with proposed laws that opponents say would entrench
   power of US tech billionaires in country
 image: https://i.guim.co.uk/img/media/6530dde530c9682a6aaf8996143d85aacca7dd43/681_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aee646bee574b69016b8b5608492f447
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Dozens of protesters converged on Peter Thiel’s mansion in Buenos Aires this week after a congressional session raised questions about the billionaire’s presence in the country.

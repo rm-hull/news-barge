@@ -8,6 +8,13 @@ published: '2026-08-28T00:00:00Z'
 description: A former banker is encouraging others to follow their passions after
   switching careers to become a social worker.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21376041.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Supplied)*

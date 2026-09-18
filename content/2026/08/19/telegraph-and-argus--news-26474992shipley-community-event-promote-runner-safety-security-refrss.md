@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A COMMUNITY event promoting runner safety and bike security is set to
   take place in Shipley this month.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20675849.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: WYP)*

@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: An “extremely dangerous” banned driver drove at speeds of 120mph in 30mph
   pedestrian zones while trying to shake off police officers.
 image: https://www.thenorthernecho.co.uk/resources/images/21437858.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: DURHAM POLICE)*

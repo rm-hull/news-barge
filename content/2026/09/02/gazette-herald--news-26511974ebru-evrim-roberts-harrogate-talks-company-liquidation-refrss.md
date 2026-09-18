@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: The entrepreneur behind the highly regarded North Yorkshire Pilates company
   Ebru Evim Ltd has recalled how she fought to save the business and deal…
 image: https://www.gazetteherald.co.uk/resources/images/21376356.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 The entrepreneur behind a highly regarded North Yorkshire Pilates company has recalled how she fought to save the business and deal with many other challenges.

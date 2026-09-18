@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Jack Cunningham has been jailed for 13 months after throwing scalding
   coffee at a mental health worker at Roseberry Park hospital.
 image: https://www.thenorthernecho.co.uk/resources/images/21432200.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A man threw scalding coffee over a mental health worker leaving him screaming in pain.

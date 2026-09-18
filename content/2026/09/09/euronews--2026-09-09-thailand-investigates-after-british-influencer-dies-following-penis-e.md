@@ -9,6 +9,10 @@ description: The case has reignited debate about medical tourism, with Thailand 
   leading destination for visitors from abroad seeking healthcare, including cosmetic
   procedures.
 image: https://images.euronews.com/articles/stories/09/90/68/08/1200x675_cmsv2_71ec1643-fb09-5a2d-870e-a6701411d1c1-9906808.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## The case has reignited debate about medical tourism, with Thailand a leading destination for visitors from abroad seeking healthcare, including cosmetic procedures.

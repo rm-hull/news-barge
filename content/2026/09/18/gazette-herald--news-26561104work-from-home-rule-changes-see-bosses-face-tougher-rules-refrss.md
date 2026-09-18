@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: Work-from-home rules could change as employers are told to properly consider
   flexible working requests before rejecting them.
 image: https://www.gazetteherald.co.uk/resources/images/21467533.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 Employers could face tougher rules when rejecting work-from-home and flexible working requests, under plans announced by Andy Burnham's government.

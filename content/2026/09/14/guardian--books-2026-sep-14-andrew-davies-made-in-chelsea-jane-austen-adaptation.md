@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: Screenwriter points to parallels between two worlds while academic says
   some of author’s characters ‘would make perfect reality show contestants’
 image: https://i.guim.co.uk/img/media/630eaa2d30ecd9a68ae5d863a8e802f45bc6835b/184_0_4167_3333/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8bfa31ab27ed42c12ce37a1d93ca73af
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- Film & TV
 ---
 
 If Jane Austen’s novels run on closed social worlds, courtship rituals, status anxiety, gossip and relentless scrutiny of who’s coupling with who, it follows that the obvious contemporary equivalent would be reality television.

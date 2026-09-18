@@ -10,6 +10,10 @@ description: A Harrogate entrepreneur who has travelled and explored 57 countrie
   the jungles of Borneo and camping beneath the stars in Africa – is now using a lifetime
   of adventure to inspire the next generation of explorers.
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/07/11/IMG_7212_1787057824_c383a588-4f2c0583d784253b.jpg?crop=3:2,smart&trim=&width=640&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 # Harrogate entrepreneur sets out to pass on wanderlust to next generation

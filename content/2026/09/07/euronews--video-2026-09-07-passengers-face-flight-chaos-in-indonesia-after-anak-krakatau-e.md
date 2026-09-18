@@ -9,6 +9,10 @@ description: Video. Passengers queue for refunds at Airport in Indonesia, as Ana
   Krakatau ash closes eight airports, cancels 2,300 flights and strands over 268,000
   travellers.
 image: https://images.euronews.com/articles/stories/09/90/44/57/1200x675_cmsv2_9629b5da-e3a4-5952-aa4e-9133f1d5ec73-9904457.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 Passengers crowd the halls and counters at Soekarno-Hatta Airport in Tangerang as monitors show cancelled flights after the Anak Krakatau eruption.

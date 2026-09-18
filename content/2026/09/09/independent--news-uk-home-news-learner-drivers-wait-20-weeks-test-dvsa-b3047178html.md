@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: While the number of tests taken have reached a record-high, waiting times
   remain “too long” for some
 image: https://static.independent.co.uk/2026/04/10/13/08/IMG_2810-2.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Learner drivers in Britain are facing average wait times of 20 weeks to book a driving test, according to the latest figures from the Driver and Vehicle Standards Agency (DVSA).

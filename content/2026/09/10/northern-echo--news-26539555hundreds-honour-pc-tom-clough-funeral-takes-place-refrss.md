@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Hundreds of mourners stood in silence as PC Tom Clough made his final
   journey through Kirkleatham, honouring the much-loved police officer killed in…
 image: https://www.thenorthernecho.co.uk/resources/images/21436202.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Hundreds of mourners stood in silence as PC Tom Clough made his final journey through Kirkleatham, honouring the much-loved police officer killed in the line of duty.

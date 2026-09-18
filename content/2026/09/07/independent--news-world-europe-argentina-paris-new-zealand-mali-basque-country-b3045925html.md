@@ -10,6 +10,10 @@ description: Four people, including two linked to France's extreme right, are se
   to stand trial in Paris for the killing of former Argentina rugby player Federico
   Martín Aramburú
 image: https://static.independent.co.uk/2026/09/07/12/France_Aramburu_Killing_Trial_87_3_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Four people including two men linked with France’s extreme right are set to stand trial in Paris over the killing of former Argentina rugby player Federico Martín Aramburú.

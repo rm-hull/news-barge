@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: Wynsors World of Shoes is set to close 17 stores across the UK, with
   one in West Yorkshire. Here's the full list.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21449585.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Pixabay)*

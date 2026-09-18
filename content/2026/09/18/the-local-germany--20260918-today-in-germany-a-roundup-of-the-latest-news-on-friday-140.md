@@ -9,6 +9,10 @@ description: CDU promises fuel price relief ahead of key elections, Germany inau
   biggest offshore wind farm to date, third death reported in Frankfurt Airport malaria
   outbreak and more news on Friday, September 18th.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-619849012.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
 ---
 
 **Friday's top story:CDU promises fuel price relief ahead of key elections**

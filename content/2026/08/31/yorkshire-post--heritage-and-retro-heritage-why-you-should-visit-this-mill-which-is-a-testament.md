@@ -9,6 +9,11 @@ description: Ian Burdall is an artist living in Saltaire with his wife and son. 
   is a regular contributor to the Saltaire Arts Trail, and exhibits every year at
   the Staithes Festival of Art and Heritage which runs from September 11 to 13.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjNlNTQ1N2IyLTI0MjYtNDQ5ZS1hZDY0LTVhYmY5ZTNhNzBiMDo5YWQyMTUyOC01NGMzLTRlNzYtOWNlMy1lYjkyNmU5NzQxMzM=.jpg?crop=3:2,smart&trim=&width=1097&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # 'Why you should visit this mill which is a testament to Yorkshire ingenuity'

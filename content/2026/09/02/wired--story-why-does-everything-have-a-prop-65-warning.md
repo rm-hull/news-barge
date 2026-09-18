@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Prop 65 was meant to inform consumers, not to tell them which products
   to buy. But a product without a warning isn’t necessarily free of contaminants.
 image: https://media.wired.com/photos/6a97a097e07384174b88adb7/191:100/w_1280,c_limit/A-Prop-65-Warning-Doesn%E2%80%99t-Mean-What-You-Think.jpg
+categories:
+- Technology & Software
+- Science
+- Personal Finance & Investing
 ---
 
 My first encounter with a Prop 65 warning was on the back of my TV.

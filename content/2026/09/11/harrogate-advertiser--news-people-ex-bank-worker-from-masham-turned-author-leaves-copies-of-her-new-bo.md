@@ -10,6 +10,11 @@ description: A writer from Masham whose road to becoming a published author bega
   with the passing of her father says she was inspired by JK Rowling to leave her
   latest book in public places for people to discover.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjgwMWFhNjk1LTQ1ZjUtNDZkMi04MmU0LTY0MDNiYmRmZjA3ODoyNTZhMDA0Ni1lZDQ4LTRjNDgtODA2Zi0zMWU1MGQzOGE2Yzk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Arts & Culture
+- Books & Literature
 ---
 
 # Ex-bank worker from Masham turned author leaves copies of her new book in unusual places to be discovered

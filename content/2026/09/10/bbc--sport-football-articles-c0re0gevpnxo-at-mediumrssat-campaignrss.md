@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Gainsborough Trinity condemn a person who has been approaching players
   while falsely claiming to be their manager.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b2c3/live/a69d9fc0-acfc-11f1-beae-535b95a24b3e.jpg
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
+- Society & Culture
 ---
 
 ![Russ Wilcox wearing a black jacket with a Gainsborough Trinity badge on the chest](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/b2c3/live/a69d9fc0-acfc-11f1-beae-535b95a24b3e.jpg)

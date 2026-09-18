@@ -10,6 +10,9 @@ published: '2026-09-18T00:00:00Z'
 description: Diablo 5 senior game director Joe Shely has explained how Blizzard is
   making a sequel for fans who love the series for their own specific reasons.
 image: https://cdn.mos.cms.futurecdn.net/FnrjWQbuB9eyNpWJSonsZm-2000-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Diablo 5](https://cdn.mos.cms.futurecdn.net/FnrjWQbuB9eyNpWJSonsZm.jpg) 

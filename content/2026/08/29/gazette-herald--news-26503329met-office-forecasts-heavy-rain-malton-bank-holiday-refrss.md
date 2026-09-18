@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: The Met Office has forecast heavy rain across Malton this bank holiday
   weekend.
 image: https://www.gazetteherald.co.uk/resources/images/19978679.jpg?type=og-image&xType=0&yType=149
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: Canva)*

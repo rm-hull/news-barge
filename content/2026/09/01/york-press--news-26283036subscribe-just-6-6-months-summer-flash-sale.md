@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: York readers who want to subscribe to The Press can enjoy an exclusive
   offer of £6 for 6 months or save over 50 per cent annually.
 image: https://www.yorkpress.co.uk/resources/images/21187764.jpg?type=og-image&xType=2
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Newsquest)*

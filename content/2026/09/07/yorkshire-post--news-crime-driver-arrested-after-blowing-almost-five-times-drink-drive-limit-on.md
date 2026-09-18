@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A man has been arrested after blowing almost five times the drink-drive
   limit in Yorkshire this weekend.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjU0NGFiMDVhLTk5ODktNDZmNi04YTE1LTg2OTQ5MjRmMTUwYTowOTgxNTk2NC1kNjQ0LTRjN2MtOWM0Yi1jM2UwZmY0YjE2Yzk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Driver arrested after blowing almost five times drink-drive limit on roadside

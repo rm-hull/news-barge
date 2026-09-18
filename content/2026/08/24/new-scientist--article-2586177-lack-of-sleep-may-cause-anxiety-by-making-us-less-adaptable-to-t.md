@@ -10,6 +10,11 @@ description: People who were deprived of sleep overnight didn't seem to adapt to
   in a potentially threatening space, which may help explain the link between a lack
   of shuteye and anxiety
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308905889.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
+- Self-Improvement
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308905889.jpg?w=840)

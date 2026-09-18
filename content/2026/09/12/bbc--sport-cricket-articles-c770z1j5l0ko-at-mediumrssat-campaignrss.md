@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: England survive an almighty scare to eventually win the third Test against
   Pakistan by eight wickets and complete a 3-0 clean sweep.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b861/live/409db100-aea1-11f1-8972-d5c52a82c3b8.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Highlights: Root and Cox guide England to victory after early scare

@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Tributes have been paid to a man who brought 'warmth and joy to those
   around him' who died in East Yorkshire.
 image: https://www.gazetteherald.co.uk/resources/images/21418444.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 TRIBUTES have been paid to a man who brought 'warmth and joy to those around him.'

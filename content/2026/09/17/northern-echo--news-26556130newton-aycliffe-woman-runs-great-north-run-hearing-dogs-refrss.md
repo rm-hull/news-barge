@@ -9,6 +9,12 @@ published: '2026-09-17T00:00:00Z'
 description: Michelle Mlatilik from Newton Aycliffe completed the Great North Run
   to raise money for Hearing Dogs for Deaf People, inspired by the life-changing…
 image: https://www.thenorthernecho.co.uk/resources/images/21463932.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Pets & Animals
 ---
 
 A Newton Aycliffe woman completed the Great North Run to raise money for the charity whose hearing dogs have transformed her aunt’s life.

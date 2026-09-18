@@ -10,6 +10,10 @@ description: Argentina has renewed its threat to invade the Falklands and Britai
   can do little to stop it – good news for Putin and Israel, says world affairs editor
   Sam Kiley
 image: https://static.independent.co.uk/2026/09/04/14/2292750781..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The United States and Israel have created a global atmosphere so chaotic that Argentina’s president feels bold enough to threaten the invasion of British territory – the Falkland Islands.

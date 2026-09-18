@@ -7,6 +7,8 @@ scraped_at: '2026-08-25T16:50:53Z'
 published: '2026-08-25T00:00:00Z'
 description: Weighing control against convenience when choosing VPS hosting
 image: https://cdn.mos.cms.futurecdn.net/kuojQtPGFyBij7yr4xp27o-1376-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Someone setting up a VPS via their laptop in a minimalist office](https://cdn.mos.cms.futurecdn.net/kuojQtPGFyBij7yr4xp27o.jpg) 

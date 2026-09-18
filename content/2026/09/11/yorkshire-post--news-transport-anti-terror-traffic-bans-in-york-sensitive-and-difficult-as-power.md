@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: The use of powers banning traffic from York city centre during Christmas
   Markets and other events is sensitive and difficult, the council’s leader has said.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE5Y2RiNDAzLTc3NzQtNDE5ZC04MWE4LTU4NjllM2M3MzIwODpjYWZjYjIzNC00ODc0LTRkYTktOWI4My1hZWFjN2Y0YmZlYzE=.jpg?crop=3:2,smart&trim=&width=639&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Anti-terror traffic bans in York 'sensitive and difficult' as powers approved

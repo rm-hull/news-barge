@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: The average cinema ticket price paid over the first half of 2026 was
   £12.97.
 image: https://static.independent.co.uk/2023/01/23/09/13113502-6837c8dd-25ee-41b3-8265-ba9bd3b517cb.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Upmarket cinema chain Everyman has revealed a boost in sales as average ticket prices neared £13 amid the success of box office hits such as The Devil Wears Prada 2 and Project Hail Mary.

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: US vice-president says he’s ‘extremely skeptical’ of Iran reports when
   asked whether US was responsible for deaths
 image: https://i.guim.co.uk/img/media/67a2676a343a87febf2b99f8a8bbae0b706e00cc/966_0_4846_3878/master/4846.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=045f87dd86b434d1ff605d768a124e4a
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The US vice-president, JD Vance, said “sometimes things happen” when asked on Thursday whether an American strike was responsible for killing four people, including a child, at a wedding celebration in southern Iran this week.

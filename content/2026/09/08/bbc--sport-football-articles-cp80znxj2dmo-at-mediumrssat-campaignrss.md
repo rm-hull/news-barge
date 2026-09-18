@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Three wins in a row, top of the table, unity at the club - are West Ham
   ready to leave the past behind on and off the pitch?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5ca1/live/0f01ee70-abd3-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![West Ham captain Jarrod Bowen](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/54c2/live/4c0f5910-abc4-11f1-b109-879e35c24276.jpg)

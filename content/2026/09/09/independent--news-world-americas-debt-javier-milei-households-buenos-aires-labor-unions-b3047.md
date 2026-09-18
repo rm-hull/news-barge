@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Martín Taborda's dream of graduating from Argentina’s University of Buenos
   Aires has slipped away
 image: https://static.independent.co.uk/2026/09/09/11/Argentina_Debt_16599.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 At 18, Martín Taborda began studying law at Argentina’s prestigious University of Buenos Aires, hoping to become the first in his family to graduate. Just two years later, that dream has slipped out of reach.

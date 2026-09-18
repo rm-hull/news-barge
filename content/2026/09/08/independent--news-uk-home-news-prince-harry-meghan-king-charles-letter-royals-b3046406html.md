@@ -8,6 +8,10 @@ scraped_at: '2026-09-08T12:51:30Z'
 published: '2026-09-08T00:00:00Z'
 description: The Duke and Duchess of Sussex returned to the UK last month
 image: https://static.independent.co.uk/2026/09/08/10/2026-09-07T154249Z_1460278541_RC2O8HARBAQ5_RTRMADP_3_BRITAIN-ROYALS.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Prince Harry and Meghan Markle say they are “surprised” by the King’s letter making it clear the couple will remain non-working royals.

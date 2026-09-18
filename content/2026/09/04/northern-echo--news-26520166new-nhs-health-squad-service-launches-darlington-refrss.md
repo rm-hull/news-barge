@@ -8,6 +8,12 @@ scraped_at: '2026-09-04T12:41:31Z'
 published: '2026-09-04T00:00:00Z'
 description: A NEW service is bringing healthcare directly to people who need it most.
 image: https://www.thenorthernecho.co.uk/resources/images/21408070.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Chris Booth)*

@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: Druzhkivka lies on the road linking strategic towns and cities known
   as the ‘fortress belt’
 image: https://static.independent.co.uk/2026/08/31/08/2026-08-31T060514Z_1617074918_RC2O5NA1UVZ6_RTRMADP_3_UKRAINE-CRISIS-DRUZHKIVKA-FRONTLINE.JPG?trim=30,0,30,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Travel
+- Society & Culture
 ---
 
 Charred vehicles line empty roads littered with the debris of destroyed buildings, while the thud of artillery fire gives way to the sharp, high-pitched hum of an attack drone.

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: York Sport Village is set to reopen its two swimming pools after a technical
   problem caused them to close temporarily.
 image: https://www.yorkpress.co.uk/resources/images/20246937.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: Supplied)*

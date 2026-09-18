@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: The lane closures are on the four-lane southbound M1 from junction 42
   for Lofthouse to junction 41 for the A650 and Carrgate.
 image: https://www.yorkpress.co.uk/resources/images/21382504.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
 ---
 
 *(Image: Highways England)*

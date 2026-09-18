@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Video. Fans honour Dolly Parton in Nashville and Sevierville as New York's
   Empire State Building turns pink following the country music legend's death.
 image: https://images.euronews.com/articles/stories/09/88/97/61/1200x675_cmsv2_137c5243-dc3b-5e14-a1ec-4f8818ba800c-9889761.jpg
+categories:
+- Europe
+- News & Politics
+- Music
+- History
 ---
 
 Fans gathered in Nashville on Tuesday, 25 August, to leave flowers at a mural honouring Dolly Parton and remember the country music legend's deep connection to Tennessee.

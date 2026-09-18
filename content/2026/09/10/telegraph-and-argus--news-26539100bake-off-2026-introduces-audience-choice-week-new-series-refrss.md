@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: The Great British Bake Off has introduced a new week with challenges
   created by the viewers.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21407928.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
+- Comedy & Entertainment
 ---
 
 *(Image: Patch Dolan/Channel 4)*

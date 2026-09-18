@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Decision comes despite the Iran war showing the need for the U.S. to
   learn lessons about drone warfare from Ukraine
 image: https://static.independent.co.uk/2026/08/05/09/2275799511..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A drone warfareUS Army unit in Europe has been told to return to being a traditional infantry battalion.

@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Police have carried out specialist patrols to detect vehicles sporting
   false registration plates.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21336790.jpg?type=og-image&xType=0&yType=134
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: West Yorkshire Police)*

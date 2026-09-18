@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Meet the Darlington actress, singer and impressionist turning a backstage
   habit into a growing social media career.
 image: https://www.thenorthernecho.co.uk/resources/images/21452642.jpg?type=og-image&xType=0&yType=6
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Meet the Darlington actress, singer and impressionist turning a backstage habit into a growing social media career.

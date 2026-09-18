@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Ed Fine still uses the black briefcase that was part of the iconic image
   from 11 September, 2001
 image: https://static.independent.co.uk/2021/09/07/16/AFP_9EX6BR.jpg?trim=158,0,968,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A man captured in an iconic photograph walking away from the Twin Towers with a black briefcase on 9/11 has spoken of how missing an elevator and taking the stairs saved his life.

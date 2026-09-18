@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: A statement on the blues-rock band's website said he died on Monday in
   hospice
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6780/live/cc50cbf0-9b42-11f1-bd52-f9704e8e5c82.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ![Drummer Frank Beard of ZZ Top performs behind a drum kit onstage during Day 1 of the 2023 Stagecoach Festival on 28 April 2023 in Indio, California.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6780/live/cc50cbf0-9b42-11f1-bd52-f9704e8e5c82.jpg)

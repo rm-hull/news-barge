@@ -10,6 +10,9 @@ description: The Environmental Protection Agency is seeking additional public co
   as it tries to redefine the scope of the nation’s bedrock clean water law to significantly
   limit the wetlands it covers
 image: https://static.independent.co.uk/2026/09/04/15/EPA_Water_Rule_1_445.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Environmental Protection Agency is seeking additional public comments as it tries to redefine the scope of the nation’s bedrock clean water law to significantly limit the wetlands it covers.

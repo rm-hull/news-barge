@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: McDonald's is bringing a new worldwide menu to all 62 North East restaurants,
   featuring favourites from Germany, Canada, Australia and beyond.
 image: https://www.thenorthernecho.co.uk/resources/images/21463905.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Travel
 ---
 
 McDonald's fans across the North East are about to get a taste of menu favourites usually only available thousands of miles away.

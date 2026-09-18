@@ -8,6 +8,8 @@ published: '2026-09-07T00:00:00Z'
 description: These tiny mini PCs now pack 192GB RAM and enough power to run massive
   AI models locally today
 image: https://cdn.mos.cms.futurecdn.net/yXNt8Hatk4tYAnvJC7b45N-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Acemagic F9A](https://cdn.mos.cms.futurecdn.net/yXNt8Hatk4tYAnvJC7b45N.png) 

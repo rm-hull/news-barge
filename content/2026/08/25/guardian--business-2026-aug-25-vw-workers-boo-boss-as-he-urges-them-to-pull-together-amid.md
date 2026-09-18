@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Oliver Blume faces workforce at German HQ as carmaker struggles against
   Chinese competition and US tariffs
 image: https://i.guim.co.uk/img/media/ad5b9fb848f9da063293105f4cd9669d2f533ca9/636_0_4520_3616/master/4520.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=55e2f502f542a3414406c30617e76a02
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 The chief executive of Volkswagen has faced boos and whistles of protest at the company’s headquarters after telling thousands of workers that a comprehensive reorganisation, which could include job losses and factory closures, is vital for its future.

@@ -9,6 +9,12 @@ published: '2026-09-03T00:00:00Z'
 description: A Butterwick's hospice nurse has been struck off after a regulator found
   she subjected a colleague to a 'campaign of bullying and…
 image: https://www.thenorthernecho.co.uk/resources/images/18638899.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Sports
 ---
 
 A hospice nurse has been struck off after a regulator found she subjected a colleague to a 'campaign of bullying and harassment'.

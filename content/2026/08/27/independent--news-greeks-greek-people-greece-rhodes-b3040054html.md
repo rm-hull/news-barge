@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Saint Fanourios, the Orthodox Christian patron saint of lost things,
   is honored each August 27 with prayers and traditional orange-flavored cake
 image: https://static.independent.co.uk/2026/08/27/05/Greece-Lost-And-Found-Patron_Saint__5263.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Religion & Spirituality
+- Arts & Culture
 ---
 
 For the careless and despairing alike, there’s a special day on the Orthodox Christian calendar to provide relief — with the help of some orange-flavored cake.

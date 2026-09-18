@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Mowbray Road in Sunderland and several surrounding streets will close
   for around five months to allow housing development works
 image: https://www.thenorthernecho.co.uk/resources/images/18699764.jpg?type=og-image&yType=2
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Archive)*

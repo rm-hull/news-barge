@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: The Hospitality Association York (HAY) has partnered with HOPING York
   Street Kitchen to deliver regular meals and support for people in need.
 image: https://www.gazetteherald.co.uk/resources/images/21340891.jpg?type=og-image&xType=0&yType=65
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 A hospitality group is teaming up with a homeless charity to deliver regular meals and support for people in need.

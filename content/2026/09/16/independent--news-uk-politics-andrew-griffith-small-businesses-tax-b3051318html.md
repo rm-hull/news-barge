@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: In his first major speech Andrew Griffith will also urge the Government
   to take further steps to help small businesses and self-employed people
 image: https://static.independent.co.uk/2026/09/16/15/2026-08-31T141237Z_863272891_RC2ZSAAXDVKY_RTRMADP_3_BRITAIN-POLITICS.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 John Healey cannot afford to raise taxes at the Budget following similar moves by his predecessor Rachel Reeves, the shadow chancellor will warn.

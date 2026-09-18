@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Britain's newly-crowned champion seagull impersonator has insisted the
   birds are "much misunderstood".
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE3OTIzNzBkLThmOTctNGRmMS1iNDViLTQ4NDQ0OWM4N2IzNjpmN2YwNWViYy1kNjQ1LTQxNGYtOGQyZi1lZWI2YTY2MzljNzg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # WATCH: Champion seagull impersonator from Yorkshire says birds get a bad press after squawking to victory

@@ -9,6 +9,11 @@ description: Germany's 'Elternzeit' may sound like time off, but the first year 
   a baby can be lonely, chaotic and full of admin. From Familienzentren to Kleinanzeigen,
   journalist and new parent Imogen Goodman writes about how to get through it.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-omar-lopez-vTknj2OxDVg-unsplash.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Family & Parenting
 ---
 
 Back in July, my daughter turned one, surrounded by family, some of her new baby friends and friends from my old life in Berlin. While she munched on her banana cake, the other parents were quick to congratulate us – and especially me – on making it through the first year.

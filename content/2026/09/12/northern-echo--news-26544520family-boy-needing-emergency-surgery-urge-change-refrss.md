@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: A young boy's journey through a terrifying medical ordeal has inspired
   a powerful call for change.
 image: https://www.thenorthernecho.co.uk/resources/images/21444535.jpg?type=og-image&xType=0&yType=90
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 The family of a six-year-old boy who was left "breathing through an airway the size of a straw" after chemotherapy for a brain tumour affected his vocal cords are calling for change.

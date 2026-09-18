@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: RHS Harlow Carr celebrates 25 years of RHS stewardship with a daily series
   of expert gardener talks in Harrogate from 21 September to 4 October 2026.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2013/01/RHS-Harlow-Carr.jpg
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
 ---
 
 **HARROGATE** — Regional tourism leads and environmental specialists have detailed a new public event series on the edge of the town, unlocking backstage access to one of the North of England’s most prominent botanical archives.

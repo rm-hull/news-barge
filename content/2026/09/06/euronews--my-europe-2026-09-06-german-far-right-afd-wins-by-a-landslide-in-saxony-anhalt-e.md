@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: 'If the AfD manages to form a government, it would be the first far-right
   party to lead a German state since World War II #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/32/92/1200x675_cmsv2_1fe477fa-25b0-5cf7-b625-f643b81d288a-9903292.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## If the AfD manages to form a government, it would be the first far-right party to lead a German state since World War II

@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: SKIPTON'S MP is urging Craven people to have their say on the future
   of transport over the next more than 20 years.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21435915.jpg?type=og-image&xType=0&yType=478
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 SKIPTON'S MP is urging Craven people to have their say on the future of transport over the next more than 20 years.

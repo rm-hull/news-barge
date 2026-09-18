@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: ‘How can it be 25 years and we still have no justice?’ Terry Strada asked
   from the stage, addressing the US leaders present
 image: https://static.independent.co.uk/2026/09/11/13/47/AP26254480561554.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Law & Justice
 ---
 
 A 9/11 widow interrupted Friday's annual reading of victims' names at ground zero in New York City to accuse Saudi Arabia of complicity in the al Qaeda terror attacks that claimed thousands of innocent lives.

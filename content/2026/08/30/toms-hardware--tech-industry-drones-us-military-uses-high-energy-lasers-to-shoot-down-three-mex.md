@@ -9,6 +9,9 @@ scraped_at: '2026-08-30T13:47:42Z'
 published: '2026-08-30T00:00:00Z'
 description: Star Wars on the Mexican border.
 image: https://cdn.mos.cms.futurecdn.net/3gZ5WyVBpLHbxDQhWgzTek-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![an anti-drone laser system mounted on a vehicle](https://cdn.mos.cms.futurecdn.net/3gZ5WyVBpLHbxDQhWgzTek.jpg) 

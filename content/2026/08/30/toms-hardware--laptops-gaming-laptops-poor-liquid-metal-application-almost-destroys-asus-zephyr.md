@@ -9,6 +9,9 @@ scraped_at: '2026-08-30T13:47:51Z'
 published: '2026-08-30T00:00:00Z'
 description: Liquid metal and laptops don't mesh well.
 image: https://cdn.mos.cms.futurecdn.net/f98kn6LTf9puLMozhrFM5F-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Asus Zephyrus M16 poor liquid metal application](https://cdn.mos.cms.futurecdn.net/f98kn6LTf9puLMozhrFM5F.png) 

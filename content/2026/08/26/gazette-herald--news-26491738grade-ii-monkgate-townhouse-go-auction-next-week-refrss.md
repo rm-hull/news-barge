@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A Grade II listed York townhouse described as a 'renovator's dream home'
   is set to go to auction next week.
 image: https://www.gazetteherald.co.uk/resources/images/21366081.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 A GRADE II listed York townhouse described as a 'renovator's dream home' is set to go to auction next week.

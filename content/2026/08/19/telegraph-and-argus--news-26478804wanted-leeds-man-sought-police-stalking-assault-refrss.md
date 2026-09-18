@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T21:31:37Z'
 published: '2026-08-19T00:00:00Z'
 description: POLICE are appealing for help to locate a wanted man from Leeds.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21342775.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Supplied)*

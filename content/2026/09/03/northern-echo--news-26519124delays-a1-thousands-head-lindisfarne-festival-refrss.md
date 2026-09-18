@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Drivers have been warned to expect delays on the A1 near Elwick as thousands
   of festivalgoers head to Lindisfarne Festival.
 image: https://www.thenorthernecho.co.uk/resources/images/21369690.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Supplied)*

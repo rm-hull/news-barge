@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Ten months after a ceasefire was declared, thousands of Palestinians
   in Gaza are still reported missing.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f5b/live/9a846da0-9a4f-11f1-96c4-e7f87215742d.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Ahmed al Madhoun smiles as he holds his bike.](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/5f5b/live/9a846da0-9a4f-11f1-96c4-e7f87215742d.jpg)

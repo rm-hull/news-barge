@@ -7,6 +7,11 @@ scraped_at: '2026-08-25T08:56:16Z'
 published: '2026-08-25T00:00:00Z'
 description: UK coins bearing the portrait of Queen Elizabeth II remain legal tender
 image: https://static.independent.co.uk/2026/08/25/07/01M0VR5TZKQDK90E1BC3FR79CY.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Personal Finance & Investing
 ---
 
 Over seven million 10p pieces featuring the King’s portrait are being released into general UK circulation for the first time, and will soon begin appearing in everyday pockets and wallets nationwide.

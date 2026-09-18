@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: The two children stepped onto the pitch accompanied by captain Bruno
   Fernandes and goalkeeper Senne Lammens
 image: https://static.independent.co.uk/2026/08/30/19/d6f02f840bc428a6f222f30114be243fY29udGVudHNlYXJjaGFwaSwxNzg4MjAxMDY1-2.85696786.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The two sons of a police officer killed in a head-on collision in Teesside walked out with Manchester United at Old Trafford on Sunday.

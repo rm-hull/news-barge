@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Campaigners claim a long-awaited review of North Yorkshire Council’s
   controversial school transport policy is designed to protect the authority…
 image: https://www.thenorthernecho.co.uk/resources/images/21189540.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Campaigners claim a long-awaited review of North Yorkshire Council’s controversial school transport policy is designed to protect the authority rather than families and rural communities.

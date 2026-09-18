@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Former Emmerdale stars Matthew Wolfenden and Roxy Shahidi have revealed
   an exciting new project together after leaving the ITV soap.
 image: https://www.yorkpress.co.uk/resources/images/21434266.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 *(Image: ITV)*

@@ -7,6 +7,11 @@ scraped_at: '2026-08-31T16:08:18Z'
 published: '2026-08-31T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/white-house-clifton-york-harry-archer-carter-towler-1.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
+- Health & Fitness
 ---
 
 An historic York building has been transformed and is set to open to the public in weeks.

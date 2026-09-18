@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The site for the huge development is 60 miles away from the prestigious
   private school in Berkshire
 image: https://static.independent.co.uk/2026/09/02/8/11/BNPS_EtonSouthDownsKingPoundbu006.png?trim=0,456,0,132&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Eton College has sparked anger by unveiling controversial plans to build a new town over unspoilt countryside.

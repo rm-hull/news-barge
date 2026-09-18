@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: A cracking line-up of Britain’s greatest authors and speakers has been
   unveiled for the forthcoming Raworths Harrogate Literature Festival.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjEzNTM1Mzc4LTA0ZTctNDg3Yy1iMjk2LTU3YTE3NGE4NzhkNTpiZjJlYzZmNS1lZDYwLTRiOTktYWIxZC0zODhiMTI0Mzk5ZjU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Arts & Culture
+- Books & Literature
 ---
 
 # Raworths Harrogate Literature Festival 2026 has everything from gardens to The Beatles, Dame Prue Leith to Kate Mosse

@@ -9,6 +9,12 @@ published: '2026-08-18T00:00:00Z'
 description: The custom build from Microsoft's Chinese joint venture was scheduled
   to retire in February 2027.
 image: https://cdn.mos.cms.futurecdn.net/kwYoKE38RG555URzD9KEcH-1280-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Windows 10 wallpaper origin story](https://cdn.mos.cms.futurecdn.net/kwYoKE38RG555URzD9KEcH.jpg) 

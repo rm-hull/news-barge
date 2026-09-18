@@ -9,6 +9,13 @@ published: '2026-08-28T00:00:00Z'
 description: Labour MP for Middlesbrough and Thornaby East Andy McDonald has described
   the ongoing violence as “terrorism”.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/27/16/cs-240cc076-f16c-48cc-8c78-de3509a6f1ba.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 # Hundreds of additional officers drafted to Middlesbrough to help with spate of deadly incidents

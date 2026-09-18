@@ -9,6 +9,8 @@ scraped_at: '2026-09-18T04:34:21Z'
 published: '2026-09-17T00:00:00Z'
 description: Samsung Display's new OLED generation can deliver up to 30% better efficiency.
 image: https://cdn.mos.cms.futurecdn.net/um6Rvqu9dKmJxbyNPA3TaR-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A collage image. On the left is a phones a phone screen emitting an extremely bright light from the screen. On the right are two business executives on stage greeting each other](https://cdn.mos.cms.futurecdn.net/um6Rvqu9dKmJxbyNPA3TaR.jpg) 

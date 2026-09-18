@@ -8,6 +8,11 @@ scraped_at: '2026-09-02T12:45:33Z'
 published: '2026-09-02T00:00:00Z'
 description: 'From: Roger Backhouse, Upper Poppleton, York.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmYwMGE5ZDBjLTNmOTUtNDE2MC05N2NkLTRkNzdiMGEyMjdlMDphN2NiM2U3Ni02MTRjLTQ1YjktOTZjZC1lNGI2N2M0ODcyNjM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # An outright ban on fireworks would be welcome on many fronts - Yorkshire Post Letters

@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Analysts are expecting household bills to increase after the Middle East
   conflict affected wholesale prices.
 image: https://static.independent.co.uk/2026/08/25/15/2b8256b07999a146d2c8305faf01b7a9Y29udGVudHNlYXJjaGFwaSwxNzg3NzU0MDcz-2.22381837.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Households are bracing for a winter squeeze from energy bills as regulator Ofgem is expected to raise the price cap to a three-year high.

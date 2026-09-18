@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Maternity services at York Hospital have been rated ‘good’ after the
   Care Quality Commission (CQC) found there has been a “significant…
 image: https://www.gazetteherald.co.uk/resources/images/20152152.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 *(Image: Dominic Lipinski/PA Wire)*

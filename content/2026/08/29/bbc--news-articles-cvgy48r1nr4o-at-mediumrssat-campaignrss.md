@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: The imminent return of Parliament will put the new prime minister under
   real scrutiny, with MPs finally getting a chance to grill him.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/84e7/live/9e49e220-a2f7-11f1-8d5b-155abe464768.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Andy Burnham wearing a dark navy suit jacket, white shirt and blue tie and dark-rimmed glasses - a crowd of people, not in focus, are behind him](https://ichef.bbci.co.uk/ace/standard/715/cpsprodpb/84e7/live/9e49e220-a2f7-11f1-8d5b-155abe464768.jpg)

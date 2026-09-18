@@ -10,6 +10,9 @@ description: WeatherNext 3 is the latest wave of a sea change in meteorology bro
   out by deep learning techniques. Google says it will start feeding into weather
   information users see in search, Google Maps, and Gemini.
 image: https://techcrunch.com/wp-content/uploads/2026/09/2-Figure-How-WeatherNext-3-works.png?resize=1200,675
+categories:
+- Technology & Software
+- Science
 ---
 
 Scientists at Google DeepMind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior more often.

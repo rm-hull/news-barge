@@ -7,6 +7,9 @@ scraped_at: '2026-08-30T19:17:53Z'
 published: '2026-08-30T00:00:00Z'
 description: No one was injured in the flash floods, park officials said
 image: https://static.independent.co.uk/2026/06/20/03/Grand_Canyon-Hikers_Dead_76753.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Dozens of people were evacuated over the weekend from Grand Canyon National Park after flash floods inundated parts of the park.

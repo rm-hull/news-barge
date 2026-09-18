@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A North East couple hope to help other families after the heartbreaking
   loss of their son.
 image: https://www.thenorthernecho.co.uk/resources/images/21444774.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 A North East couple hope to help other families after the heartbreaking loss of their son.

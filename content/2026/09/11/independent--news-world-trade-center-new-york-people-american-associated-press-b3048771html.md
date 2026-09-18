@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Standing amid the rubble that was what was left of the World Trade Center
   hours after the attacks of Set
 image: https://static.independent.co.uk/2026/09/11/16/America_25__Objects_Golf_Ball_9364_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Sports
 ---
 
 I stood amid the rubble of the World Trade Center, passing buckets of debris down a line of volunteers and first responders. It was hours after the Sept. 11, 2001, attacks. A little white object poking out of the gray ash caught my attention.

@@ -7,6 +7,11 @@ scraped_at: '2026-09-05T11:50:12Z'
 published: '2026-09-05T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/cctv-matalan-clifton-moor-york-4-august-2026.webp
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Lifestyle & Fashion
 ---
 
 Police have issued this photograph after a theft at a York store.

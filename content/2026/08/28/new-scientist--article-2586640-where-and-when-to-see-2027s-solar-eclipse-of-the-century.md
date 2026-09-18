@@ -9,6 +9,10 @@ description: The total solar eclipse on 2 August 2027 is due to be the longest o
   until the year 2114, and researchers, eclipse chasers and tourists alike are on
   the edge of their seats
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309648588.jpg
+categories:
+- Science
+- Technology & Software
+- History
 ---
 
 ![A person takes a picture as the moon partially covers the sun during a total solar eclipse as seen from Spain on 12 August 2026](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309648588.jpg?w=840)

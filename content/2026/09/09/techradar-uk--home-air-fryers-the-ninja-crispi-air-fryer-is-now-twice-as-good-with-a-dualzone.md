@@ -10,6 +10,9 @@ published: '2026-09-09T00:00:00Z'
 description: Choose two cooking settings, and sync the zones so your whole meal is
   ready at the same time.
 image: https://cdn.mos.cms.futurecdn.net/xWhiyVNxWXxGi8RQgHUfJd-1490-80.png
+categories:
+- Technology & Software
+- Food & Cooking
 ---
 
 ![Person removing drawer of vegetables from Ninja Crispi Dual Zone Air Fryer](https://cdn.mos.cms.futurecdn.net/xWhiyVNxWXxGi8RQgHUfJd.png) 

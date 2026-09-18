@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: President attacks insiders who revealed details of Iran briefing with
   Tulsi Gabbard to Wall Street Journal last month, threatening repercussions
 image: https://static.independent.co.uk/2026/09/18/09/2026-09-17T233405Z_937773796_RC2BLNATCWAE_RTRMADP_3_USA-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 President Donald Trump has lashed out at leakers in his own administration after a series of behind-the-scenes reports on the Iran war.

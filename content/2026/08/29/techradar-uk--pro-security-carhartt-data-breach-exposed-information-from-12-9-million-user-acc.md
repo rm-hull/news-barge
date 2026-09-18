@@ -7,6 +7,10 @@ scraped_at: '2026-08-29T19:24:01Z'
 published: '2026-08-29T00:00:00Z'
 description: Negotiations broke down, and the hackers leaked everything they stole
 image: https://cdn.mos.cms.futurecdn.net/mdjvPqJZZunuCQDrfEuBFM-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![A hooded figure in front of a laptop. Digital symbols obscure his face and appear to be pouring out of his head](https://cdn.mos.cms.futurecdn.net/mdjvPqJZZunuCQDrfEuBFM.jpg) 

@@ -8,6 +8,10 @@ scraped_at: '2026-09-03T12:48:04Z'
 published: '2026-09-03T00:00:00Z'
 description: Does your cyber insurance policy offer you enough protection?
 image: https://cdn.mos.cms.futurecdn.net/5rDPr5xYvLwnkP7ZvpR2w3-2122-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Caution sign data unlocking hackers. Malicious software, virus and cybercrime, System warning hacked alert, cyberattack on online network, data breach, risk of website](https://cdn.mos.cms.futurecdn.net/5rDPr5xYvLwnkP7ZvpR2w3.jpg) 

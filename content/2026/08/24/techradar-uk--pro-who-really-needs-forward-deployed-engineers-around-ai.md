@@ -7,6 +7,9 @@ scraped_at: '2026-08-24T09:00:04Z'
 published: '2026-08-24T00:00:00Z'
 description: What value do Forward Deployed Engineers offer customers?
 image: https://cdn.mos.cms.futurecdn.net/Z89KwLLBdGLuNm2q4tXDKL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![An office worker speaking to a colleague in an office at night. The co-worker is seated in front of computers](https://cdn.mos.cms.futurecdn.net/Z89KwLLBdGLuNm2q4tXDKL.jpg) 

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: AI leaders worry antitrust law could stand in the way of what they view
   as an increasingly urgent push to coordinate a slowdown in AI development.
 image: https://media.wired.com/photos/6aa304df834bd0176b553b6c/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Anthropic-AI-Slowdown-Business.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 OpenAI has asked members of Congress in recent weeks for clear guidance about whether orchestrating an industry-wide slowdown on frontier AI development would be legal, people close to the company tell WIRED.

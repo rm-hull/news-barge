@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Local businesses are the heart of our communities - I’m proud to support
   them.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21243875.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *This week's MP coumn is written by Shipley MP Anna Dixon*

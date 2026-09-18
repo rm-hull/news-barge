@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: A Ferrari worth more than £2 million has attracted attention after being
   spotted parked in Harrogate.
 image: https://mmo.aiircdn.com/409/6aa405c9729889ebcae.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa405c9729889ebcae.jpg) 

@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: African rainmakers have long served as spiritual leaders in their communities,
   performing rituals to implore the deities for rainfall
 image: https://static.independent.co.uk/2026/09/15/06/Africa_Rainmakers_81326.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The farmers who paid David Nabutsilili money to summon rain were angry when they received so much of it that their vegetable gardens were left flooded. They chased him up and down the hills, stopping when he fell upon a rock and broke a femur. That was his punishment.

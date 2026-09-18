@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Plans for six assisted living homes, described as a modest contribution
   to meeting a major housing shortfall, are being considered by Stockton…
 image: https://www.thenorthernecho.co.uk/resources/images/21298306.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ### What is the Public Notice Portal?

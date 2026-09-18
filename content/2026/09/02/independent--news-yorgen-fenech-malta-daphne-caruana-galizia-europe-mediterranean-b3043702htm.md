@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: A jury has acquitted the Maltese businessman accused of masterminding
   the 2017 car bomb killing of journalist Daphne Caruana Galizia
 image: https://static.independent.co.uk/2026/09/02/19/Malta_Journalist_Killed_Trial_39299.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A jury in Malta on Wednesday acquitted the Maltese businessman accused of being the mastermind of the 2017 car bomb killing of crusading investigative journalist Daphne Caruana Galizia.

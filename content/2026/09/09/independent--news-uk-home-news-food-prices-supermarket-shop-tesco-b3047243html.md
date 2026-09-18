@@ -9,6 +9,12 @@ published: '2026-09-09T00:00:00Z'
 description: An average food shop could rise to almost £150 by next summer the Food
   and Drink Federation warned
 image: https://static.independent.co.uk/2026/08/12/13/05/GettyImages-2289625426.jpg?trim=21,0,21,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Shoppers have been warned that food prices could soar over the next few months due to pressures from global conflict and extreme weather.

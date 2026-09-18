@@ -7,6 +7,11 @@ scraped_at: '2026-09-14T15:00:46Z'
 published: '2026-09-14T00:00:00Z'
 description: The PM says he wants to make it easier to start and grow a business
 image: https://static.independent.co.uk/2026/09/14/07/2294301628..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 Andy Burnham is set to call for a “culture shift” on Monday when he meets business leaders at Downing Street to pledge backing for entrepreneurs.

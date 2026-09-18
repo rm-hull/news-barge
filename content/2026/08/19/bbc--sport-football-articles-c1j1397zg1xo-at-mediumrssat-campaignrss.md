@@ -9,6 +9,10 @@ description: Marcus Rashford says he would like to play football without his "na
   being mentioned every day" after Gary Neville tried to start a conversation about
   the Manchester United forward on a podcast.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/025f/live/4a8ac680-9c0e-11f1-bab6-dd87b521d67e.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Marcus Rashford](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/025f/live/4a8ac680-9c0e-11f1-bab6-dd87b521d67e.jpg)

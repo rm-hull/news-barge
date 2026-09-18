@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: Test-run games without dumping them to your precious SSD. Less friction
   more fun.
 image: https://cdn.mos.cms.futurecdn.net/ujdrnFj7KsYUGnaXtPXBVi-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![PS3 games](https://cdn.mos.cms.futurecdn.net/ujdrnFj7KsYUGnaXtPXBVi.jpg) 

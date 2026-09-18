@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: The Environmental Protection Agency also plans rule repealing federal
   finding that greenhouse gases from power plants specifically pose a threat
 image: https://i.guim.co.uk/img/media/d8a0602d001fe27589a958c1ef430867291db5fd/465_180_2454_1964/master/2454.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=932cc3dd3ac34baef2e1653500a9554b
+categories:
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 EPA set to scrap power-plant pollution limits - reports

@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: A County Durham antiques centre will appear on BBC One this week after
   being chosen as a filming location for Antiques Road Trip.
 image: https://www.thenorthernecho.co.uk/resources/images/21459115.jpg?type=og-image&xType=0&yType=384
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 A County Durham antiques centre will appear on BBC One this week after being chosen as a filming location for Antiques Road Trip.

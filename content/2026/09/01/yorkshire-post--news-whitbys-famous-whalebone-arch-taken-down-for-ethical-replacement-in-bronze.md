@@ -8,6 +8,12 @@ published: '2026-09-01T00:00:00Z'
 description: Whitby’s whalebone arch has been taken down, to be replaced by a replica
   cast in bronze.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmM0ZDIzNDM2LTkwMDYtNGI5Ny04ZjI2LWViNjZlYzllMzAyODpjM2M2ODhjYS1lNjY4LTQxODAtOTEwNy1jMjRjY2M4YzU0MmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- History
 ---
 
 # Whitby's famous whalebone arch taken down for 'ethical' replacement in bronze

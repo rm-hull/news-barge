@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: Planning, organising and remembering household tasks falls disproportionately
   to mothers - here are some tips to help.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3208/live/d6a01a10-a6c9-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
+- Self-Improvement
+- Family & Parenting
 ---
 
 ![A woman holds a calendar and is writing things down, while a small child peers at the calendar](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3208/live/d6a01a10-a6c9-11f1-b109-879e35c24276.jpg)

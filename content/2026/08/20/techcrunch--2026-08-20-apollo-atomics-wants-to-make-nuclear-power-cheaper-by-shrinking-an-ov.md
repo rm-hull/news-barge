@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: Y Combinator alumnus Apollo Atomics is shrinking a key nuclear reactor
   part, which promises to slash the cost of electricity below natural gas.
 image: https://techcrunch.com/wp-content/uploads/2026/08/apollo-atomics-nuclear-reactor.jpg?resize=1200,576
+categories:
+- Science
+- Technology & Software
 ---
 
 The nuclear power industry is undergoing something of a renaissance, with startups raking in funding to develop advanced reactors in a quest to lower costs. But based on recent projections, it’s unlikely those reactors will be cost-competitive anytime soon.

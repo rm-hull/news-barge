@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Jet2 have warned customers that their entire package holidays will be
   cancelled if they make this mistake by not reading the terms and conditions.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21382677.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Kennedy News and Media)*

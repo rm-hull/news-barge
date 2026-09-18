@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A popular 70s folk duo, Bob Fox and Stu Luckley, will perform an "unmissable"
   show at Reeth Memorial Hall in September.
 image: https://www.thenorthernecho.co.uk/resources/images/21369636.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 *(Image: Supplied)*

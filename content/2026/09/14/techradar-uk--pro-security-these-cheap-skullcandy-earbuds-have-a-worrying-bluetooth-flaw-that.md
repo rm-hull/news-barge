@@ -9,6 +9,9 @@ published: '2026-09-14T00:00:00Z'
 description: Apple can push a firmware fix to earbuds already in your pocket - but
   Skullcandy cannot reach yours at all for now
 image: https://cdn.mos.cms.futurecdn.net/G3oxprCVAwUWdyxSFfSoQL-1619-80.jpeg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Person listening to music](https://cdn.mos.cms.futurecdn.net/G3oxprCVAwUWdyxSFfSoQL.jpeg) 

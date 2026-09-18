@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Ever wondered how to pronounce Fylingthorpe? We reveal the correct way
   to say this North Yorkshire village name near Robin Hood's Bay, plus its…
 image: https://www.yorkpress.co.uk/resources/images/21378580.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: GOOGLE)*

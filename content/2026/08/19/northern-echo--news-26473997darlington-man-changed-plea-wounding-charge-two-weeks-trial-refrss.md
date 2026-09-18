@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A man was told to expect "a lengthy prison sentence" after changing plea
   and admitting wounding a woman with intent to cause her grievous…
 image: https://www.thenorthernecho.co.uk/resources/images/21337362.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: DURHAM POLICE)*

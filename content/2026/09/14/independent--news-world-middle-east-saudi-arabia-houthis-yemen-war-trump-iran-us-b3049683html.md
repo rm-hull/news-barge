@@ -10,6 +10,11 @@ description: Washington has largely ignored the lingering disruption created by 
   Houthis around the Red Sea. But a wider conflict with Saudi Arabia could force them
   to intervene, writes James C. Reynolds
 image: https://static.independent.co.uk/2026/09/08/15/2026-09-08T134308Z_2029447331_RC2XENAU1JWU_RTRMADP_3_SAUDI-YEMEN-HOUTHIS.JPG?trim=0,573,0,573&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 Yemen’s Houthi rebels have forced a lightning offensive to the Red Sea coast, assuming control over another vital waterway in the region and threatening to expand the frozen US-Israeli conflict with Iran to the east.

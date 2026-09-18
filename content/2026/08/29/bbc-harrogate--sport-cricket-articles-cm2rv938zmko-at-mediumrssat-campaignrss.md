@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Leicestershire openers Rishi Patel and Sheridon Gumbs bat through bowler-friendly
   conditions on a heavily weather-affected day three against Yorkshire at Scarborough.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9c4d/live/3b344420-a3c2-11f1-b13c-0d78069132fa.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![Leicestershire opener Rishi Patel looks in after playing a shot at Scarborough](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/9c4d/live/3b344420-a3c2-11f1-b13c-0d78069132fa.jpg)

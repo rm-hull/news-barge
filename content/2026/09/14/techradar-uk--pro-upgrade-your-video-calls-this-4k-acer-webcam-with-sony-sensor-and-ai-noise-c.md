@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: This Acer webcam packs 4K video, PDAF autofocus and AI noise cancellation
   into a sub-$40 / £40 package for upgrading your online meetings and streaming.
 image: https://cdn.mos.cms.futurecdn.net/3xrGNjfiRNMetAsaS7ucpC-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Creator Economy & Marketing
 ---
 
 ![Acer A640 4K Webcam](https://cdn.mos.cms.futurecdn.net/3xrGNjfiRNMetAsaS7ucpC.jpg) 

@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Plans have been submitted for the old Fulton's frozen food store in a
   town centre.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21312345.jpg?type=og-image&xType=0&yType=85
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: submitted)*

@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: US Commerce Secretary Howard Lutnick falsely suggested that data centres
   don't use water.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d62c/live/66265bf0-a886-11f1-a291-b542ee92de7c.png
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 # Examining US official's claim that data centres 'don't use water'

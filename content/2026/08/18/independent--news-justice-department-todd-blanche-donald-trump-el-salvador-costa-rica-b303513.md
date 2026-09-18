@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: The Justice Department is pushing to revive criminal charges against
   Kilmar Abrego Garcia
 image: https://static.independent.co.uk/2026/08/18/18/Deportation_Error_Abrego_Garcia_329_9.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Society & Culture
 ---
 
 The Justice Department is pushing to revive criminal charges against Kilmar Abrego Garcia, telling a federal appeals court late Monday that a judge erred in his scathing ruling that called the case against the man mistakenly deported to an El Salvador prison an “abuse of prosecuting power.”

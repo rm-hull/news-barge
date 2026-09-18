@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Conservative MP for Thirsk and Malton Kevin Hollinrake asks the Prime
   Minister how he will pay for Labour's new proposals
 image: https://www.yorkpress.co.uk/resources/images/21373445.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- News & Politics
 ---
 
 *Who's going to pay the bill, Andy? asks Conservative MP for Thirsk and Malton Kevin Hollinrake*

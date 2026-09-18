@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: The Archer 8 Ultra launches first, while the Deco 8 Ultra arrives in
   Q1 2027
 image: https://cdn.mos.cms.futurecdn.net/tt9dMS98e3rXjUgvKeKwTH-1916-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![TP-Link Archer 8](https://cdn.mos.cms.futurecdn.net/tt9dMS98e3rXjUgvKeKwTH.png) 

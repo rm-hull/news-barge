@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: California has long been farm country, and its oceans soon could be,
   too
 image: https://static.independent.co.uk/2026/09/10/11/California_Kelp_Farm__4659.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 California has long been farm country, and its oceans soon could be, too.

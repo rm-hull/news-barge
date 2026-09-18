@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: A MULTI-MILLION pound expansion could soon deliver tens of thousands
   of extra diagnostic tests for patients each year.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21063268.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ### What is the Public Notice Portal?

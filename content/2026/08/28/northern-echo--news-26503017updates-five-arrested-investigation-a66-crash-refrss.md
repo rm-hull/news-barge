@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Five people arrested as part of the investigation into the fatal A66
   crash have now been bailed or charged, Cleveland Police have confirmed.
 image: https://www.thenorthernecho.co.uk/resources/images/21369245.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Five people arrested as part of the investigation into the fatal A66 crash have now been bailed or charged, police have confirmed.

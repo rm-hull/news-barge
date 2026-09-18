@@ -8,6 +8,9 @@ scraped_at: '2026-09-17T19:42:58Z'
 published: '2026-09-17T00:00:00Z'
 description: Natural gas will play a big role in US data centers
 image: https://cdn.mos.cms.futurecdn.net/7N4ZtNATBytQgNsTt95woQ-2560-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Power cables stretching out in front of the horizon](https://cdn.mos.cms.futurecdn.net/7N4ZtNATBytQgNsTt95woQ.jpg) 

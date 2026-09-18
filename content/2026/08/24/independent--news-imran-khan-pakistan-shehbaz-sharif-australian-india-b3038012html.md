@@ -10,6 +10,10 @@ description: Famous cricketers from around the world have renewed their appeal f
   the medical treatment of former star player turned politician Imran Khan in a letter
   to Pakistan Prime Minister Shehbaz Sharif
 image: https://static.independent.co.uk/2026/08/18/14/PAKIST%C3%81N-IMRAN_KHAN_99232.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Famous cricketers from around the world have renewed their appeal for the medical treatment of former star player turned politician Imran Khan in a letter to Pakistan Prime Minister Shehbaz Sharif.

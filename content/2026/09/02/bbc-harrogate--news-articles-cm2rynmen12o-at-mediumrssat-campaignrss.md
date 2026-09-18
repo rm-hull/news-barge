@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Iyaz Igbal was involved in a drugs supply line between Yorkshire and
   Lancashire, police say.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/210c/live/64c21760-a61d-11f1-b109-879e35c24276.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![A police mugshot of a man with black hair and beard and brown eyes wearing a pale blue fleece top and a grey sweatshirt](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/210c/live/64c21760-a61d-11f1-b109-879e35c24276.jpg)

@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: The show was "rested" after co-host Andrew Flintoff was injured in a
   crash during filming in 2022.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/265f/live/62c2da00-a201-11f1-a97e-999c5aae08bf.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Film & TV
 ---
 
 ![The Stig by a red car](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/265f/live/62c2da00-a201-11f1-a97e-999c5aae08bf.jpg)

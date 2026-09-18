@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Former Darlington MP Peter Gibson has urged LGBT veterans from the North
   East impacted by a gay ban to claim compensation before December.
 image: https://www.thenorthernecho.co.uk/resources/images/21389461.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: PA Wire)*

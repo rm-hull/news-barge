@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: A six-bedroom Victorian house is for sale in Valley Drive, Harrogate,
   with offers over £1,250,000.
 image: https://www.yorkpress.co.uk/resources/images/21370239.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Six-bedroom Harrogate house with historic musical connection on sale for £1.25m

@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Richard Hammond has said he is “scared” he may face worsening memory
   loss due to a brain injury sustained in a dragster crash near York.
 image: https://www.gazetteherald.co.uk/resources/images/21418244.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 *(Image: James Manning/PA Wire)*

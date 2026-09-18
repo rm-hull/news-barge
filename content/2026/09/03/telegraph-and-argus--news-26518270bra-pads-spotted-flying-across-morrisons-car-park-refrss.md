@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Shoppers were left “disgusted” after bra pads were spotted “flying” across
   a Morrisons car park.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21405170.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
 ---
 
 SHOPPERS were left “disgusted” after bra pads were spotted “flying” across a Morrisons car park.

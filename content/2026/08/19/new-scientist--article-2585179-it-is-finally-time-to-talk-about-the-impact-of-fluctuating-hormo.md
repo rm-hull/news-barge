@@ -9,6 +9,10 @@ description: For decades, women have felt the need to hide the impact of changes
   their hormones, while scientists have excluded women from research to avoid hormonal
   fluctuations complicating their research. Thankfully, this is starting to change
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308643212.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![four-person-holding-each-others-waist](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308643212.jpg?w=840)

@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: Uefa is pursuing criminal proceedings against Fifa president Gianni Infantino
   over the scrapped plan to sell off stakes in the World Cup.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c868/live/9d8b94e0-a22b-11f1-bd6a-3d72a7f54a3e.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Uefa president Aleksander Ceferin and Fifa boss Gianni Infantino watch a football match from the stands](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c868/live/9d8b94e0-a22b-11f1-bd6a-3d72a7f54a3e.jpg)

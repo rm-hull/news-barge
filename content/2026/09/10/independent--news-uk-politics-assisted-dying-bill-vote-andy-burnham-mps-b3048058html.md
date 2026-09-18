@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: The new prime minister indicated he will not vote on the revived bill
   so he would not ‘unduly influence the debate’
 image: https://static.independent.co.uk/2026/08/28/16/01KZN51MRC9QCKQKW68HFFJSVJ.jpg?trim=112,0,112,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Society & Culture
 ---
 
 Andy Burnham will not take part in tomorrow’s crucial vote on assisted dying as the future of the controversial legislation rests on a knife edge.

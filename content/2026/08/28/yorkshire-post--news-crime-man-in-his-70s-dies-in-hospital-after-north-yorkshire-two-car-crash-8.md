@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: A man in his 70s has died after being taken to hospital following a two-car
   crash on a North Yorkshire road.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/28/16/10/B1363-York-Road-approaching-Sutton-on-the-Forest.png?trim=0,60,0,60&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # Man in his 70s dies in hospital after North Yorkshire two-car crash

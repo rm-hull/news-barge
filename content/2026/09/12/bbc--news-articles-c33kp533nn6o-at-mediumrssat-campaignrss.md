@@ -8,6 +8,9 @@ published: '2026-09-12T00:00:00Z'
 description: Officials say a rail fragment was found on the tracks after Friday's
   crash of a passenger train that left 44 people injured.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/57a4/live/cdfa4090-aea6-11f1-8972-d5c52a82c3b8.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A derailed carriage of a passenger train in Cléon, northern France. Photo: 12 September 2026.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/57a4/live/cdfa4090-aea6-11f1-8972-d5c52a82c3b8.jpg)

@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: The current outbreak is ‘unusually large and rapidly increasing,’ a health
   official warned
 image: https://static.independent.co.uk/2023/08/25/15/3_2.png?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Family & Parenting
 ---
 
 Vulnerable people in the UK have been warned not to eat runny eggs due to a developing salmonella outbreak.

@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Callum Storr also denies having an inappropriate relationship with a
   victim of domestic abuse.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5562/live/6cc7ed70-aacf-11f1-aa35-df10e5ff32f4.jpg
+categories:
+- Local
+- Harrogate
+- Relationships & Dating
 ---
 
 ![Red and cream building in the middle of the picture with the logo of North Yorkshire Police on the front of the building. In front of the building is a car park with a road to the left of the image. Trees and a hedge are to the right of the picture](https://ichef.bbci.co.uk/ace/standard/978/cpsprodpb/5562/live/6cc7ed70-aacf-11f1-aa35-df10e5ff32f4.jpg)

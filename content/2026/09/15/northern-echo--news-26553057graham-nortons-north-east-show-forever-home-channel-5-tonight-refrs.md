@@ -9,6 +9,12 @@ published: '2026-09-15T00:00:00Z'
 description: Graham Norton's new Channel 5 drama Forever Home was filmed across Northumberland
   and County Durham. Here's everything we know.
 image: https://www.thenorthernecho.co.uk/resources/images/21414993.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 *(Image: Broomley Grange)*

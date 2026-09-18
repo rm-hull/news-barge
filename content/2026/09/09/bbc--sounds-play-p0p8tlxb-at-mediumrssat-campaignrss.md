@@ -7,6 +7,9 @@ scraped_at: '2026-09-11T12:49:58Z'
 published: '2026-09-09T00:00:00Z'
 description: And journalist Peter Bergen on his interview with Bin Laden before 9/11
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0j72y80.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ## Episode details

@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: The pilot had reported a "cabin fire in the back" of American Airlines
   Flight 2398, which landed safely.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c85e/live/8f3dc3c0-9e09-11f1-95e0-53a570c83624.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![The front of an air plane with the American logo on a runway.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c85e/live/8f3dc3c0-9e09-11f1-95e0-53a570c83624.jpg)

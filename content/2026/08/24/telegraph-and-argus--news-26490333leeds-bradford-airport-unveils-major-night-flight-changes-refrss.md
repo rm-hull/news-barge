@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: LEEDS Bradford Airport is taking the next step in a major transformation
   to night flights
 image: https://www.thetelegraphandargus.co.uk/resources/images/21363949.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Clevershot)*

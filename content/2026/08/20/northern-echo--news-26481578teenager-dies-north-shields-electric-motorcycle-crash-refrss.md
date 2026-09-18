@@ -8,6 +8,13 @@ published: '2026-08-20T00:00:00Z'
 description: An 18-year-old electric motorcycle rider, McKenzie Ratcliffe, died after
   a collision with a green Mercedes Sprinter van on Waterville Road in North…
 image: https://www.thenorthernecho.co.uk/resources/images/21349313.jpg?type=og-image&xType=0&yType=178
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
+- Technology & Software
+- Travel
 ---
 
 *(Image: Google Maps)*

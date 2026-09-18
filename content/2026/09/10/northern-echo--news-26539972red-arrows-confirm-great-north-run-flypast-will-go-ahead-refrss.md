@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: The Red Arrows have confirmed their planned appearance at the Great North
   Run will go ahead, despite concerns following the cancellation of an air…
 image: https://www.thenorthernecho.co.uk/resources/images/21436745.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: GAVIN ENGELBRECHT)*

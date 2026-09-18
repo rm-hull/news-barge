@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: The Queen braved some of the first heavy rain in weeks to attend the
   Sky Bet Ebor Festival at York Racecourse.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE3Zjc4NDg0LTkyMDEtNDliNi04N2FmLTA2ZmY2ZGNjZGQwYzowMGQ1NDVhOS1lZDkxLTRhNmMtOTM1Zi04NzNlMGU4NzIyNWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 Camilla was announced as “the most welcome visitor here at York today” as she arrived at the North Yorkshire venue during a downpour.

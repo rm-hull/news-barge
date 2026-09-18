@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: With the UK set for its sixth heatwave, Yorkshire beaches are looking
   as tempting as ever.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmM1MWJlNWUyLWQ5NDMtNGE3Ni1hM2Y4LWE2ZjdmNWIwMzVmOTo2MDYwMTJmMS1mOTI2LTRjMzktYjIyNS05ODIxMDM3NGMwNzM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Yorkshire beaches you can reach on the train ahead of sixth heatwave

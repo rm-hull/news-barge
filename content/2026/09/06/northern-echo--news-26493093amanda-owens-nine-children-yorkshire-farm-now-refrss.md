@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: From Raven and Reuben to youngest daughter Nancy, here's where Amanda
   and Clive Owen's nine Our Yorkshire Farm children are now and what…
 image: https://www.thenorthernecho.co.uk/resources/images/21340602.jpg?type=og-image&xType=0&yType=44
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
+- Society & Culture
 ---
 
 When Our Yorkshire Farm first arrived on Channel 5, viewers watched Amanda and Clive Owen raising nine children in one of the most remote corners of the Yorkshire Dales.

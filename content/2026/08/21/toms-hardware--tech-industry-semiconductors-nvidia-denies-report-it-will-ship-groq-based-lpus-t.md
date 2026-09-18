@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: There are no LPU sales in China and no China-specific variant on the
   roadmap.
 image: https://cdn.mos.cms.futurecdn.net/49QX9DhQjJDwWiR2NPT9tD-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Rubin GPU next to Groq LPU](https://cdn.mos.cms.futurecdn.net/49QX9DhQjJDwWiR2NPT9tD.jpg) 

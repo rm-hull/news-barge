@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Strong winds uprooted trees and caused widespread blackouts on the island
   of Kauai
 image: https://static.independent.co.uk/2026/09/09/09/download.-2.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Severe gales and heavy rain triggered by Hurricane Lowell battered the western islands of Hawaii on Tuesday, severing power to thousands and tearing up stretches of coastal roads.

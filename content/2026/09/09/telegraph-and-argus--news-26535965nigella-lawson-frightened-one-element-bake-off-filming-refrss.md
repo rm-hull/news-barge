@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Nigella Lawson found filming for the show difficult when sending bakers
   home and would avoid eye contact with them/
 image: https://www.thetelegraphandargus.co.uk/resources/images/20579105.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 *(Image: Chenying Cannell / PA)*

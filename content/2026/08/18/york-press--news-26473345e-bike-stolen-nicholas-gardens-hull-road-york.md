@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T13:04:22Z'
 published: '2026-08-18T00:00:00Z'
 description: An e-bike was stolen from a house in a York suburb.
 image: https://www.yorkpress.co.uk/resources/images/21333982.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: North Yorkshire Police)*

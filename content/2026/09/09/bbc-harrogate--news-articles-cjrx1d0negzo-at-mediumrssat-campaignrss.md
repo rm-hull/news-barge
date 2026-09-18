@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: A review recommends changes to the home-to-school travel policy launched
   in 2024.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9521/live/e4750910-ab98-11f1-aa04-efbf6a882854.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![Two children look out the front of a bus.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/9521/live/e4750910-ab98-11f1-aa04-efbf6a882854.jpg)

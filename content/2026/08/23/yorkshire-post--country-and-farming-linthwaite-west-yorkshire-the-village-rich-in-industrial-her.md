@@ -9,6 +9,11 @@ description: The industrialisation of the Colne Valley in the 19th century saw t
   fusion of several hillside hamlets about four miles west of Huddersfield, today
   recognised as Linthwaite.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjcyZDg3YjUyLWM1YjQtNDM4ZS04MjNhLWIxN2ZkZTYyY2RiOTpkZjYyMWI5NC00ZTI5LTRiMzctYWI3MC03ZGRkYTdlYjgyODI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Linthwaite, West Yorkshire: The village rich in industrial heritage

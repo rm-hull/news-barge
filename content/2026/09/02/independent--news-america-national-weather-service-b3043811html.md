@@ -9,6 +9,10 @@ description: A major bridge over the Chicago River got stuck for more than four 
   Wednesday after it lifted up to allow a boat to pass, snarling traffic in Chicago's
   downtown
 image: https://static.independent.co.uk/2026/09/02/23/Chicago_Stuck_Bridge_44854.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A major bridge in downtown Chicago remained stuck in the raised position for more than four hours Wednesday after dangerous heat caused its components to expand.

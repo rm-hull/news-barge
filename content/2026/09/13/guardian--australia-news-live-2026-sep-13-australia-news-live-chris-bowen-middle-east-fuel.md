@@ -8,6 +8,10 @@ scraped_at: '2026-09-13T07:25:50Z'
 published: '2026-09-13T00:00:00Z'
 description: This blog is now closed
 image: https://i.guim.co.uk/img/media/cda14f773a1cbac9797abd59e3b1aeaba88aae4b/314_0_3726_2981/master/3726.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=65e9372321b76dcb366da84cd3433a8a
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The South Australian government says there are three new detections of H5 bird flu, including an endangered Australian sea lion. Photograph: Brad Leue/Alamy

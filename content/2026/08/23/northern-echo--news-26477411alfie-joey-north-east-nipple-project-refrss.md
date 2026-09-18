@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: Alfie Joey writes about his incredible niece and her business partner
   who are improving lives after cancer
 image: https://www.thenorthernecho.co.uk/resources/images/21340498.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 **Alfie Joey writes about his incredible niece and her business partner who are improving lives after cancer**

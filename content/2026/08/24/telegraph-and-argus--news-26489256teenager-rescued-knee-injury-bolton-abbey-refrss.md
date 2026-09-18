@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: A TEENAGE walker was rescued after suffering a serious knee injury on
   a popular route through the Valley of Desolation near Bolton Abbey.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21361981.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
+- Sports
 ---
 
 *(Image: UWFRA)*

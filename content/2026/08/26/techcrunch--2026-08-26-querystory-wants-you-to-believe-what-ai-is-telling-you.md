@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: The startup came out of stealth with $6 million in seed funding and a
   plan to use LLMs and cybersecurity know-how to make AI queries coherent.
 image: https://techcrunch.com/wp-content/uploads/2026/08/QueryStory-Groups-8-1.jpg?resize=1200,799
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Shapor Naghibzadeh learned the value of a good story in 2009 as a Google sysops engineer. When hackers backed by China set their sights on the search giant as part of an effort dubbed Operation Aurora, he was called into a hastily assembled war room to explain what exactly was going on in the company’s servers.

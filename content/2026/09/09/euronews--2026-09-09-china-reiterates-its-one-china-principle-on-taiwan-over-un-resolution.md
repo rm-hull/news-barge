@@ -9,6 +9,10 @@ description: Beijing reaffirmed its One-China principle following a renewed disp
   over the interpretation of a UN resolution that defined lawful representation of
   China at the world's foremost intergovernmental body.
 image: https://images.euronews.com/articles/stories/09/90/74/12/1200x675_cmsv2_cf6d6197-58f0-5526-aa60-2c827638ebad-9907412.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 **Euronews**

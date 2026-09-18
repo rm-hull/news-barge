@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Hostinger’s AI resolved 91% of 1.5 million monthly support chats. Now,
   a major upgrade expands its role to manage SEO, marketing, and web builds.
 image: https://cdn.mos.cms.futurecdn.net/Fj7os7h67zv73ZDn55nX5i-1920-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Creator Economy & Marketing
 ---
 
 ![Hostinger AI agent](https://cdn.mos.cms.futurecdn.net/Fj7os7h67zv73ZDn55nX5i.png) 

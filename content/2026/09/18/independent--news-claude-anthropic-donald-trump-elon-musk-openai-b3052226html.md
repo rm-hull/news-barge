@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Anthropic has announced that its AI model, Claude, is significantly aiding
   in the development of building its successor
 image: https://static.independent.co.uk/2026/09/09/19/Anthropic_Researcher_Resignation_85781.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Anthropic's Claude is helping the company develop the next, more intelligent version of the model, the artificial intelligence lab said in an announcement Thursday.

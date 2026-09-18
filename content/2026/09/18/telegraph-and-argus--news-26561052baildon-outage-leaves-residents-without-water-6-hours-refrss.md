@@ -7,6 +7,11 @@ scraped_at: '2026-09-18T13:00:36Z'
 published: '2026-09-18T00:00:00Z'
 description: Residents of a Bradford district town have been left without water.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21207881.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: T&A Camera Club)*

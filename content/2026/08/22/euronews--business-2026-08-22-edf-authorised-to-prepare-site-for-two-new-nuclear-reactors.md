@@ -9,6 +9,10 @@ description: A sudden influx of jellyfish forced EDF to shut down three reactors
   a plant in northern France. In early August, heatwave and jellyfish left a fifth
   of France's nuclear capacity offline.
 image: https://images.euronews.com/articles/stories/09/88/47/39/1200x675_cmsv2_bccacc4f-f1fe-5304-a35f-69412ecc6478-9884739.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 **Serge Duchêne** with

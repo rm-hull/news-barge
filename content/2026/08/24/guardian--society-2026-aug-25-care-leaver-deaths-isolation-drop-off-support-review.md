@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: Death rate three to four times higher than among general population blamed
   on isolation of those leaving care
 image: https://i.guim.co.uk/img/media/79fb17098ba251d6caa5157ee2cfd4b59fe2d9e9/1357_0_2899_2319/master/2899.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d4cbea8648ca9939daedc214ff0c03af
+categories:
+- UK
+- News & Politics
 ---
 
 Profound isolation contributed to the deaths of more than 100 care leavers in England in a year, with a dramatic drop-off in support from social services at 18 leading to catastrophic consequences, a review has found.

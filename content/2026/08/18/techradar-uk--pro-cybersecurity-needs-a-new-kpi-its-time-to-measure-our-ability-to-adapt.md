@@ -7,6 +7,8 @@ scraped_at: '2026-08-18T13:04:02Z'
 published: '2026-08-18T00:00:00Z'
 description: Rethinking cybersecurity metrics for an AI-driven world
 image: https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Concept art representing cybersecurity principles](https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW.jpg) 

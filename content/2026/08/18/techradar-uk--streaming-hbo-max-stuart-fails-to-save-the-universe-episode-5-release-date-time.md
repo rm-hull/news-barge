@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: New worlds and Big Bang Theory cameos have been hitting us like there's
   no tomorrow. So, when does Stuart Fails to Save the Universe episode 5 hit HBO Max?
 image: https://cdn.mos.cms.futurecdn.net/Ry5FCidt4aECzNtRkb2uf5-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Stuart looks horrified at a piece of paper](https://cdn.mos.cms.futurecdn.net/Ry5FCidt4aECzNtRkb2uf5.jpg) 

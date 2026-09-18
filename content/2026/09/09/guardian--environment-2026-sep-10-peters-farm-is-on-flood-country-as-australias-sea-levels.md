@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Climate Council forecasts more than 267,000 coastal properties will be
   damaged by flooding by 2100, costing hundreds of billions of dollars
 image: https://i.guim.co.uk/img/media/f9eafa6373f70e1d2e489b322032bbe4624e57ad/738_311_4001_3201/master/4001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=342bd3d7f5cbedf98607c5eb46b530b8
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 When grazier Peter Lake moved to the Clarence Valley in the New South Wales northern rivers region in 2007, he knew was “buying in flood country with … eyes open”.

@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Discover more about Handheld Gaming with insights from the experts at
   Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/VFZAGkPfiuEJKYKtdJdhXK-320-80.png
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Asus ROG Xbox Ally X2](https://cdn.mos.cms.futurecdn.net/VFZAGkPfiuEJKYKtdJdhXK-320-80.png)

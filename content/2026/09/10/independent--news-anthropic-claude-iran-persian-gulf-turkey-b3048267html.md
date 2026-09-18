@@ -10,6 +10,11 @@ description: Anthropic says it has blocked efforts by bad actors to use its arti
   intelligence models for malicious activity such as cyberattacks, surveillance, and
   research that could have led to biological weapons
 image: https://static.independent.co.uk/2026/09/09/19/Anthropic_Researcher_Resignation_85781.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Science
 ---
 
 Anthropic said Thursday it has blocked efforts by bad actors to use its artificial intelligence models for malicious activity such as cyberattacks, surveillance, and research that could have led to biological weapons.

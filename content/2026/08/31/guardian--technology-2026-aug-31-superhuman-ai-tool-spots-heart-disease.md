@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Technology trained on millions of routine ECGs could fast-track high-risk
   patients for treatment
 image: https://i.guim.co.uk/img/media/088efc360811ce7fbc25edd6ca021efcd0e70df6/200_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77bf17fe53ec0a07adf2bc6735132f05
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Technology & Software
 ---
 
 Doctors have developed a “superhuman” AI tool that can spot heart disease in less than two seconds.

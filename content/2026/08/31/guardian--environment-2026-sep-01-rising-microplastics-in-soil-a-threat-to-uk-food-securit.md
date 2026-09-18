@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Report calls for legally binding targets to cut microplastic pollution
   as soil ‘is a complex living ecosystem’
 image: https://i.guim.co.uk/img/media/56a5ba562711602294bbd692995ce1ec72a8cf68/326_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=191b7d46e6a3317e74695617ff309116
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The accumulation of microplastics in soil presents an emerging threat to the UK’s food security, according to scientists, MPs and campaigners who have called for legally binding targets to cut microplastic pollution.

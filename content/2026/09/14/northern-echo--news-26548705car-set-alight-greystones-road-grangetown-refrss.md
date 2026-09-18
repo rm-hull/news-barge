@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A car was completely destroyed in a suspected arson attack on Greystones
   Road in Grangetown, in the early hours.
 image: https://www.thenorthernecho.co.uk/resources/images/21207643.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: FIRE SERVICE)*

@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: BUSBY House has remained in the same family since 1917, a much loved
   home that has no doubt evolved over the years as its occupants – and their…
 image: https://www.thenorthernecho.co.uk/resources/images/21440425.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 BUSBY House has remained in the same family since 1917, a much loved home that has no doubt evolved over the years as its occupants – and their requirements – have changed and fashions and trends have come and gone.

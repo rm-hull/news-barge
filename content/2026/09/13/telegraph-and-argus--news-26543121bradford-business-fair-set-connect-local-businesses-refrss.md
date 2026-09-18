@@ -8,6 +8,12 @@ published: '2026-09-13T00:00:00Z'
 description: A MAJOR business event will offer networking, workshops, and support
   for new and established businesses
 image: https://www.thetelegraphandargus.co.uk/resources/images/21407849.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: Supplied)*

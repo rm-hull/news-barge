@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Grape Tree has opened its doors at the Market Cross Shopping Centre in
   Selby.
 image: https://www.gazetteherald.co.uk/resources/images/21366172.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 A new health food retailer has opened its doors, bringing fresh choice to shoppers in North Yorkshire.

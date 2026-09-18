@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: BBC Sport's football experts pick out the standout transfers that could
   go through before Tuesday's 23:00 BST English deadline.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/97ab/live/00b64170-a496-11f1-b109-879e35c24276.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Split image of Julian Alvarez, Cody Gakpo and Enzo Fernandez](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/97ab/live/00b64170-a496-11f1-b109-879e35c24276.png)

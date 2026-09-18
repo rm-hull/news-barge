@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Housebuilder Taylor Wimpey has been issued with a warning after construction
   workers worked over permitted hours at a development between Marske and Redcar.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjk3NTliMTM4LTM0MWEtNDBiYy04ZGRmLWU3NGQ1MTE1NmExYjo4YjU5N2I5OS1lYjhmLTQwODgtODQ0My0zMzFmNzNjMGIxZDY=.png?crop=3:2,smart&trim=&width=678&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Taylor Wimpey: Housebuilder apologises after flouting operating hours on new estate

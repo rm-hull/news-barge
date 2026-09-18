@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Insiders at the firm fear tech’s advancement could cause human extinction
   while others are calling it a ‘setup’
 image: https://i.guim.co.uk/img/media/3d6259c7c4a22f7ecae82e1aef45d9bc1fff8bd3/147_152_2937_2350/master/2937.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=62360734033791f995b12f58a811b555
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Science
 ---
 
 A day after a former researcher at Anthropic made an apocalyptic declaration about artificial intelligence, more researchers and staff members at the AI startup publicly agreed with him and posted their own dire warnings.

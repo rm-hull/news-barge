@@ -9,6 +9,10 @@ description: The highest court in Massachusetts has issued a public reprimand ag
   a district court judge who was accused of allowing an immigrant to escape U.S. Immigration
   and Customs Enforcement custody
 image: https://static.independent.co.uk/2026/09/10/18/Judge_Immigration_Investigation_39_38.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The highest court in Massachusetts on Thursday issued a public reprimand against a district court judge who was accused of allowing an immigrant to escape U.S. Immigration and Customs Enforcement custody.

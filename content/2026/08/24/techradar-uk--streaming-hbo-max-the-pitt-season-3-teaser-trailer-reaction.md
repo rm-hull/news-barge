@@ -10,6 +10,9 @@ description: While the full series won't debut until early 2027, fans just got t
   first look at The Pitt season 3 — and the first trailer already looks like one medic's
   crowning moment.
 image: https://cdn.mos.cms.futurecdn.net/sVGXmmqrNcsp6fFh4uFZ5Q-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Dr. Robby looks forlorn while walking through the hospital hallway](https://cdn.mos.cms.futurecdn.net/sVGXmmqrNcsp6fFh4uFZ5Q.jpg) 

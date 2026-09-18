@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A Middlesbrough author who wrote ‘The Man who robbed a bank with a banana’
   was arrested when he tried to fulfil his fantasy.
 image: https://www.thenorthernecho.co.uk/resources/images/21379210.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Books & Literature
 ---
 
 *(Image: Amazon website)*

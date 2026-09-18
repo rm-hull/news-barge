@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: A York interior designer has opened up a brand-new studio and shop, Juicehaus,
   in Bishopthorpe Road.
 image: https://www.gazetteherald.co.uk/resources/images/21415016.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 A YORK interior designer has opened up a brand-new studio and shop.

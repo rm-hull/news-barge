@@ -9,6 +9,11 @@ description: The Puerto Rican artist has picked up seven Emmy Awards for his Sup
   Bowl LX show at the pre-ceremony gala ahead of the main event on 14 September in
   Los Angeles.
 image: https://images.euronews.com/articles/stories/09/90/32/26/1200x675_cmsv2_510c5247-cd35-5b3a-8492-9e50f3865678-9903226.jpg
+categories:
+- Europe
+- News & Politics
+- Film & TV
+- Comedy & Entertainment
 ---
 
 ## The Puerto Rican artist has picked up seven Emmy Awards for his Super Bowl LX show at the pre-ceremony gala ahead of the main event on 14 September in Los Angeles.

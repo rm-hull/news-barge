@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: Police and crime scene investigators (CSI) are on Balmer Hill in Gainford,
   near Darlington, after an incident on Saturday (August 29) that has seen…
 image: https://www.thenorthernecho.co.uk/resources/images/21389852.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 - Welcome to The Northern Echo's live blog.

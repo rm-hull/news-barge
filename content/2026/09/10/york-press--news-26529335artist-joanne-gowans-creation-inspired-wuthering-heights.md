@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T12:54:46Z'
 published: '2026-09-10T00:00:00Z'
 description: WHAT does it take to make an heirloom of the future?
 image: https://www.yorkpress.co.uk/resources/images/21421669.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Artist's intricate work captures Wuthering Heights in jewels

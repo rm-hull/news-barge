@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Police and a judge have praised the bravery of a girl whose actions led
   to a York paedophile being jailed for more than 22 years.
 image: https://www.yorkpress.co.uk/resources/images/20794013.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
+- True Crime
 ---
 
 *(Image: Newsquest)*

@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: Plans to extract up to 23.5 million tonnes of ash from a huge mound next
   to Drax Power Station have been approved with limits on when the site can be worked.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmNmNzE2ODU3LWQ3OWEtNDZmNy1iOTMxLTg2YTIyMWRiMzg3Yzo5MWUzMmY3MC0wNjM0LTQ0YjItYjE1NC1hODEwZGM5ZmJjOTk=.jpg?trim=754,0,270,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 # More than 23 tonnes of ash to be removed from huge mound near Drax Power Station

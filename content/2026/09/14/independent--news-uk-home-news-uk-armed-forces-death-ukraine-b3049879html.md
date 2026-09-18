@@ -7,6 +7,11 @@ scraped_at: '2026-09-14T15:00:16Z'
 published: '2026-09-14T00:00:00Z'
 description: The person died in a crash, officials said
 image: https://static.independent.co.uk/2024/08/09/12/newFile-1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- True Crime
 ---
 
 A member of the UK armed forces has been killed in a crash in Ukraine, the Ministry of Defence (MoD) has said.

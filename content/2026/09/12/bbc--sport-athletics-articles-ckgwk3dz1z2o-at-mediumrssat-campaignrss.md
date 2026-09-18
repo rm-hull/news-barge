@@ -10,6 +10,10 @@ description: Keely Hodgkinson is again denied a major prize by rival Audrey Werr
   - but reveals she had to overcome a torn hamstring to make the start line at the
   World Athletics Ultimate Championship.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ffcd/live/fc6c5290-aee4-11f1-9031-9328289c9edb.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Werro prevails over rivals in close 800m battle

@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Shoppers are being warned about a possible shortage of sausages and other
   meat sold at Tesco, Sainsbury's and Morrisons.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21399341.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Getty)*

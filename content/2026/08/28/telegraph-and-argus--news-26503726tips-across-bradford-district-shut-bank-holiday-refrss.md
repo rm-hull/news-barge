@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T11:15:54Z'
 published: '2026-08-28T00:00:00Z'
 description: Tips across the Bradford district will shut on Monday.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21383911.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Bradford Council)*

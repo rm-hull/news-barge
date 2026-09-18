@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Police cordoned off a street in Bradford city centre after an attack
   this afternoon.
 image: https://www.thetelegraphandargus.co.uk/resources/images/12150181.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: UGC)*

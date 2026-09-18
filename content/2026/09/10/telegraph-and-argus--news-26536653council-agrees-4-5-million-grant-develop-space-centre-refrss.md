@@ -9,6 +9,12 @@ published: '2026-09-10T00:00:00Z'
 description: Council bosses have agreed to £4.5 million funding to help a US company
   set up a space testing centre in a Bradford district town.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21119342.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Hayfield Robinson)*

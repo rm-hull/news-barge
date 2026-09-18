@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: A York woman ditched her Krispy Kreme habit to lose 13 stone on Mounjaro
   and has saved £4,000 in a year by cutting out Uber Eats.
 image: https://www.gazetteherald.co.uk/resources/images/21392236.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 A YORK woman ditched her Krispy Kreme habit to lose 13 stone on Mounjaro and has saved £4,000 in a year by cutting out Uber Eats.

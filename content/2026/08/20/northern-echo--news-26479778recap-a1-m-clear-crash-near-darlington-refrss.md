@@ -7,6 +7,11 @@ scraped_at: '2026-08-20T13:07:46Z'
 published: '2026-08-20T00:00:00Z'
 description: The A1(M) has been partially blocked following a crash near Darlington.
 image: https://www.thenorthernecho.co.uk/resources/images/20352968.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ## Our live feed has now finished.

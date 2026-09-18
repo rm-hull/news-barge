@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: The Princess of Wales completed the climb in aid of the hospital where
   she was treated for cancer.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbb7/live/c80c76f0-add7-11f1-871b-cb14676e811d.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Catherine meeting nursing staff at the Royal Marsden in London](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cbb7/live/c80c76f0-add7-11f1-871b-cb14676e811d.jpg)

@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: A North East MP has voiced concern in Parliament for a constituent caught
   up in devastating floods in Nepal.
 image: https://www.thenorthernecho.co.uk/resources/images/21438417.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A North East MP has voiced concern in Parliament for a constituent caught up in devastating floods in Nepal.

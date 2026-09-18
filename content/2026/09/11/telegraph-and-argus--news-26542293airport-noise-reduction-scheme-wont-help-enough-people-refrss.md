@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: A resident living beneath the Leeds Bradford Airport flight path says
   aircraft noise is regularly disrupting her sleep.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21439867.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Mike Simmonds)*

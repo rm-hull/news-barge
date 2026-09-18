@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: North Carolina DA says girl, 17, who disseminated attackers’ manifesto
   charged with murder by aiding and abetting
 image: https://i.guim.co.uk/img/media/7d51464183fd5b9da982103e0170557a688d56dd/584_0_5840_4672/master/5840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb1a46ee47dbab6d47ece582d7044e53
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 A 17-year-old North Carolina girl who recorded a livestream of a shooting that killed three people at a San Diego mosque and disseminated the attackers’ white-supremacist writings has been charged with murder by aiding and abetting, a district attorney said on Monday.

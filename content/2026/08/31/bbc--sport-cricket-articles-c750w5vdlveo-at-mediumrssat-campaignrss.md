@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Glenn McGrath-like Ollie Robinson has Australia to thank for bringing
   back into fashion an age-old tactic which is fuelling his success.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/044d/live/48f6ef80-a4b3-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Highlights: England humble poor Pakistan to confirm series win at Lord's

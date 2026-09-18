@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: ‘I'm not gonna take any advice off a guy that's the king of bankruptcies,’
   Doug Ford said after Donald Trump described him as a ‘flunky’
 image: https://static.independent.co.uk/2026/08/24/18/05/GettyImages-2251896794.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Ontario Premier Doug Ford unleashed a verbal attack on President Donald Trump, calling him a “dictator” and “the king of bankruptcies” after the United States imposed a 50 percent tariff on a range of Canadian goods.

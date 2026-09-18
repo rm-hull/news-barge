@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Nick Kyrgios is eligible to return to tennis after accepting a one-month
   ban for testing positive for cocaine.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8ca1/live/ba4fcfa0-a6ff-11f1-9deb-1f1584451e2c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Nick Kyrgios looks down during a match](https://ichef.bbci.co.uk/ace/standard/820/cpsprodpb/8ca1/live/ba4fcfa0-a6ff-11f1-9deb-1f1584451e2c.jpg)

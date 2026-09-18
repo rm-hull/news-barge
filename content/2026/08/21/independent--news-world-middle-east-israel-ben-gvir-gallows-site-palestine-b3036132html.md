@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The ‘depraved’ move normalises violence against Palestinians in Israel,
   human rights groups warn
 image: https://static.independent.co.uk/2025/09/22/7/20/SEI264491737.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Israel’s far right national security minister is facing a major backlash over the construction of a gallows site to execute Palestinians sentenced to death at a prison in Israel.

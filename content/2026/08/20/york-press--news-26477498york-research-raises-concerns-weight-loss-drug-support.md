@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A new study at York St John University has revealed that nearly half
   of UK users of weight-loss drugs rely on social media for information.
 image: https://www.yorkpress.co.uk/resources/images/21340633.jpg?type=og-image&xType=0&yType=4
+categories:
+- Local
+- York
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: York St John University)*

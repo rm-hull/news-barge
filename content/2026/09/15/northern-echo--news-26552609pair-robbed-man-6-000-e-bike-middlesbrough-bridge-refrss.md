@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Callum Briggs and Joshua Peters were jailed for robbing a cyclist of
   his £6,000 e-bike on a Middlesbrough bridge.
 image: https://www.thenorthernecho.co.uk/resources/images/21458831.jpg?type=og-image&xType=0&yType=50
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Two thugs who forced a man off his £6,000 e-bike have been jailed for robbery.

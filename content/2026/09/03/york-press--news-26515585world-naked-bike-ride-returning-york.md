@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T04:14:53Z'
 published: '2026-09-03T00:00:00Z'
 description: Here's why York cyclists are stripping off for this unusual annual ride
 image: https://www.yorkpress.co.uk/resources/images/21401402.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 **World Naked Bike Ride: why it is returning to York**

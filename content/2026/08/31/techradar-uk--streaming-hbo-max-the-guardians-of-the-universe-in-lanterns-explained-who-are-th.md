@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: Lanterns episode 3 pulls back the curtain on the Guardians of the Universe
   — here's what you need to know about them.
 image: https://cdn.mos.cms.futurecdn.net/5dj2xVParmF5CEJUb73yk4-1600-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![John Stewart looking serious in Lanterns episode 3](https://cdn.mos.cms.futurecdn.net/5dj2xVParmF5CEJUb73yk4.jpg) 

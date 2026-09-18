@@ -8,6 +8,10 @@ scraped_at: '2026-08-28T22:15:31Z'
 published: '2026-08-28T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/Colliergate_St_Saviourgate_corner.jpeg
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 TRADERS have spoken out about antisocial behaviour and street drinking plaguing a part of York.

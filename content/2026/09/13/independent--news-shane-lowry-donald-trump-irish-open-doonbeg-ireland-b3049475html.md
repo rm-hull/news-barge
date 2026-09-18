@@ -7,6 +7,10 @@ scraped_at: '2026-09-13T22:22:32Z'
 published: '2026-09-13T00:00:00Z'
 description: Shane Lowry didn't just win the Irish Open for the second time
 image: https://static.independent.co.uk/2026/09/13/19/Irish_Open_Golf_58595.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Shane Lowry gave his home crowd and President Donald Trump plenty to cheer Sunday when he turned a four-shot lead into a runaway at Doonbeg, closing with a 7-under 63 to break the Irish Open record with an 11-shot victory.

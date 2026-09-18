@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Union Quay Dental’s Kathryn Eccles and Jamie Dury have completed the
   Copenhagen Ironman, raising £1,743 so far for The Percy Hedley Foundation.
 image: https://www.thenorthernecho.co.uk/resources/images/21349992.jpg?type=og-image&xType=0&yType=48
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Two North East dentists have completed a full-distance Ironman challenge in Copenhagen, raising £1,743.

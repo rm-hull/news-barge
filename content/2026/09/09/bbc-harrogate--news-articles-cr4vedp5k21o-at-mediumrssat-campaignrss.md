@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Phill Blunt, from Scarborough, finally admitted the offence more than
   two years after the attack.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f8d5/live/e057c720-ac31-11f1-b483-f5be285e6b7e.png
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![A custody photo of a man with very short dark hair. He is wearing a grey t-shirt and sat in front of a grey background.](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/f8d5/live/e057c720-ac31-11f1-b483-f5be285e6b7e.png)

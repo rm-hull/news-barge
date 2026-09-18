@@ -9,6 +9,10 @@ scraped_at: '2026-09-10T12:54:19Z'
 published: '2026-09-10T00:00:00Z'
 description: Credit cards work, but debit card support is spotty and conditional.
 image: https://cdn.mos.cms.futurecdn.net/bVqPHLV7CFqmsPwKnUs5aU-1360-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Valve Steam Machine](https://cdn.mos.cms.futurecdn.net/bVqPHLV7CFqmsPwKnUs5aU.jpg) 

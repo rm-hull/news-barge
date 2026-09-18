@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Nearly 4 million women in England can order a self-testing kits to check
   for high-risk HPV.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e70/live/3e5420e0-9fd4-11f1-a291-b542ee92de7c.png
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Cervical screening test](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2e70/live/3e5420e0-9fd4-11f1-a291-b542ee92de7c.png)

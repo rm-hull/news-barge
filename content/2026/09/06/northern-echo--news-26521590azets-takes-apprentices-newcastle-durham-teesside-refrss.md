@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: Azets has hired 22 new graduates and school leavers for its offices in
   Newcastle, Durham, and Teesside.
 image: https://www.thenorthernecho.co.uk/resources/images/21409909.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Careers & Productivity
+- Education & Learning
 ---
 
 *(Image: Azets)*

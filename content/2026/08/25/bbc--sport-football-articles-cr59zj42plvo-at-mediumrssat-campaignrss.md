@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Thirteen managers have won the Premier League title, but which of them
   will make it into our top 10 covering the competition's history?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/17d0/live/08b84ff0-9f21-11f1-b2a2-8945a27a2843.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Mourinho, Ferguson, Guardiola graphic](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/2656/live/01ca0710-9e22-11f1-aed2-8d6da8d75094.jpg)

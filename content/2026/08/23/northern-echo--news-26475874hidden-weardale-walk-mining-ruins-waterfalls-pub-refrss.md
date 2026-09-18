@@ -8,6 +8,12 @@ published: '2026-08-23T00:00:00Z'
 description: Discover Slitt Wood near Westgate, a hidden Weardale walk with tumbling
   waterfalls, ancient woodland, lead-mining ruins and a classic pub finish.
 image: https://www.thenorthernecho.co.uk/resources/images/21343130.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- History
 ---
 
 *(Image: Gerald Hirst)*

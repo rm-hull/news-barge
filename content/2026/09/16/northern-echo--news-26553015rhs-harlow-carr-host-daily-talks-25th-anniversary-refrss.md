@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Gardeners are being offered a rare chance to hear directly from the experts
   behind one of the North of England's most beautiful gardens as part…
 image: https://www.thenorthernecho.co.uk/resources/images/21459280.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

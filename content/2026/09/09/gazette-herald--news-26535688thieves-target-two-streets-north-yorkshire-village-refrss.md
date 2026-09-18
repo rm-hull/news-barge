@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The county's police force said the burglaries and suspicious activities
   took place in Hensall overnight between Monday and Tuesday (September 7…
 image: https://www.gazetteherald.co.uk/resources/images/19226588.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Kevin Glenton)*

@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: The North York Moors National Park is launching Mindful Month in September,
   offering events and activities focused on nature, art and heritage to…
 image: https://www.thenorthernecho.co.uk/resources/images/21329514.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 Nature, art and ancient sites across the North York Moors are set to be featured in a national park initiative designed to help people discover places and activities where they can relax, slow down and take a break from busy daily life.

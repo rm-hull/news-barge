@@ -7,6 +7,9 @@ scraped_at: '2026-09-10T12:54:18Z'
 published: '2026-09-10T00:00:00Z'
 description: Anthony Lee was the Conservative’s director of campaigning
 image: https://static.independent.co.uk/2024/06/20/11/tony%20lee%20laura%20saunders%20split.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Conservative Party’s former director of campaigning and his Parliamentary candidate wife have admitted cheating at gambling on the date of the 2024 general election.

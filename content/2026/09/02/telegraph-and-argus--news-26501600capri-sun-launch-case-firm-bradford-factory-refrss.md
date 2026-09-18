@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: A major drinks manufacturer is being taken to court over an alleged contract
   dispute.
 image: https://www.thetelegraphandargus.co.uk/resources/images/17897510.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A major drinks manufacturer with a factory in Bradford is being sued for more than £3 million at the High Court in a contract dispute.

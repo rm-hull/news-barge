@@ -10,6 +10,10 @@ description: BBC Sport football expert Chris Sutton takes on legendary guitarist
   Man City fan Johnny Marr, plus the BBC readers and AI with his predictions for this
   weekend's Premier League fixtures.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0580/live/cad7b9a0-b271-11f1-b1d1-571ed4d7ff2c.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A picture of Chris Sutton with wording next to it that says BBC Sport columnist Chris Sutton](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/87c0/live/f73a32d0-33e1-11f0-96c3-cf669419a2b0.png)

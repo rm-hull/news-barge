@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: A popular York event is set to return next month - bringing climate awareness
   and body acceptance to the city.
 image: https://www.yorkpress.co.uk/resources/images/13359812.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Naked cyclists to descend on York city centre next week

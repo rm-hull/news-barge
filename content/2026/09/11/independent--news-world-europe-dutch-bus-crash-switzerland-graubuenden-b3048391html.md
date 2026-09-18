@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: A Dutch tour bus has overturned in eastern Switzerland, resulting in
   several deaths and injuries, according to police
 image: https://static.independent.co.uk/2026/09/10/22/Switzerland_Bus_Accident__9896.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Police say five people have died and 40 others were injured after a Dutch tour bus slammed into a roadside crash barrier and overturned in eastern Switzerland.

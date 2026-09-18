@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Plans to turn the basement of a Conservation Area building into four
   flats have been refused, with one officer saying the application includes “a…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21386014.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Google)*

@@ -9,6 +9,9 @@ description: United States Capitol Police have arrested a California man with wh
   they said was a guillotine in the bed of a pickup truck parked near the U.S. Capitol
   complex
 image: https://static.the-independent.com/2026/08/26/8/22/2.png?trim=0,49,6,36&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 U.S. Capitol Police arrested a California man Tuesday after officers said they found a guillotine in the bed of his pickup truck parked near the Capitol complex.

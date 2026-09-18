@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: England face a chase of 130 to win the third Test after Pakistan debutant
   Razaullah produces some thrilling resistance on day three at Edgbaston.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d9f2/live/1df3fb20-ae0e-11f1-b502-e5cdfe1c097c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Razaullah - the 21-year old debutant who blew England away

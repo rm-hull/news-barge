@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Summit Foods is recalling various filled wraps, which are sold in UK
   supermarkets such as Sainsbury's and Morrisons.
 image: https://www.yorkpress.co.uk/resources/images/21371882.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

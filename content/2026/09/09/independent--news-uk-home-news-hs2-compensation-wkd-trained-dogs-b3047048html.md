@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Matthew Wiggins successfully argued that the government’s actions had
   severely impacted his business
 image: https://static.independent.co.uk/2026/09/09/7/03/100-FOR-PICS-AND-WORDS-PLEASE-DO-NOT-REUSE-WITHOUT-PERMISSION-87821765.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 A celebrity dog whisperer who was forced to shut his exclusive kennels to clear the path for the HS2 rail project has been awarded a government compensation payout exceeding £5m.

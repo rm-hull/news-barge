@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: A 97-year-old woman, Guna Maya Bohara, survived the flash floods and
   was rescued using an excavator.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/983c/live/3900eaa0-a318-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 # 97-year-old woman rescued after Nepali floods looked like 'a warrior'

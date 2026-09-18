@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Libya has become a major hub for synthetic drugs and other narcotics
   on their way to local users and other parts of Africa
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2021/03/18/19/Muammar-Gaddafi.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Authorities in Libya have seized a shipment of tens of thousands of ecstasy pills, each marked with the face of ousted leader Muammar Gaddafi.

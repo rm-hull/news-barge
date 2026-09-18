@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: President Donald Trump argues northern ally should not expect favorable
   treatment after tariff hikes
 image: https://static.independent.co.uk/2026/08/31/8/45/Trump-Gowdy.png?trim=0,323,0,134&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Donald Trump has defended his bitter trade war with Canada by arguing that America’s neighbor to the north is not a state and therefore not eligible for favorable terms.

@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T21:31:56Z'
 published: '2026-08-19T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/queen-camilla-york-races-ebor-19-aug-2026-18.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 The Queen was announced as “the most welcome visitor here at York today” as she arrived at the racecourse during a downpour.

@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Guidelines stipulate that school uniform policies for the 2027/28 school
   year onwards must include the option for girls to wear trousers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40f6/live/fbcb7b60-adf7-11f1-ad53-0d91a06f3150.jpg
+categories:
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 ![Connie is in her school uniform. Her auburn hair is tied back. She's standing against a wall.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/40f6/live/fbcb7b60-adf7-11f1-ad53-0d91a06f3150.jpg)

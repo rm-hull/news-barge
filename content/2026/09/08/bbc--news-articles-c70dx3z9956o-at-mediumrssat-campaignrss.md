@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: The Welsh singer has appeared as an on-off coach on the singing competition
   since it premiered in 2012.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1159/live/d60f7e30-ab7c-11f1-8e51-e5fcf5842a15.jpg
+categories:
+- UK
+- News & Politics
+- Music
+- Sports
 ---
 
 ![Sir Tom Jones in a blue suit stood in front of a red backdrop with the words The Voice UK on it.](https://ichef.bbci.co.uk/ace/standard/846/cpsprodpb/1159/live/d60f7e30-ab7c-11f1-8e51-e5fcf5842a15.jpg)

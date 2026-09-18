@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: An opposition group and a resident say Myanmar’s military has conducted
   an airstrike on a Buddhist monastery in the central Sagaing region, killing 14 people
 image: https://static.independent.co.uk/2026/08/21/16/Myanmar_Civil_War_31887.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 An airstrike on Friday by Myanmar’s military on a Buddhist monastery in Myanmar ’s central Sagaing region killed 14 people who were taking part in a weeklong meditation retreat, an opposition group and a resident said.

@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: A river that is home to about 500 saltwater crocodiles is given the OK
   to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/daef/live/b3ed1ef0-b277-11f1-8456-c95813ee5c28.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![An Australian saltwater crocodile basks on a riverbank](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/daef/live/b3ed1ef0-b277-11f1-8456-c95813ee5c28.jpg)

@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: Hundreds of Lindsay Clancy supporters have gathered to silently support
   the Massachusetts woman on trial in the killings of her three children
 image: https://static.independent.co.uk/2026/08/20/15/Lindsay_Clancy_Trial_45867.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Family & Parenting
 ---
 
 Hundreds of Lindsay Clancy supporters, many wearing pink, gathered Thursday outside the courthouse where she is on trial in the killings of her three children.

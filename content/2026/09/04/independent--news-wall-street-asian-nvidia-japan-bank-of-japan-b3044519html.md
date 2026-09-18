@@ -8,6 +8,12 @@ published: '2026-09-04T00:00:00Z'
 description: Asian shares are mostly higher as regional market sentiment got a boost
   from the rally on Wall Street, led by tech stocks
 image: https://static.independent.co.uk/2026/09/04/04/Japan_Financial_Markets_15119.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 Asian shares were mostly higher in early Friday trading, as regional market sentiment got a boost from the rally on Wall Street, mostly from big technology stocks.

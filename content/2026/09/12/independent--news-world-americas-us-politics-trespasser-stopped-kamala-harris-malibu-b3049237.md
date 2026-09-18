@@ -8,6 +8,9 @@ published: '2026-09-12T00:00:00Z'
 description: Neither former Vice President Kamala Harris or her husband were home
   at the time of the incident
 image: https://static.independent.co.uk/2026/09/12/23/2282216734..?trim=101,0,101,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Police were called to former Vice President Kamala Harris’s home in Malibu after a woman reportedly trespassed onto the property uninvited, according to local reports.

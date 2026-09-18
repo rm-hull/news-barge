@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Tierra Walker, 37, was diagnosed with pre-eclampsia at 20 weeks, and
   family says denial of abortion led to death
 image: https://i.guim.co.uk/img/media/870b1c71921a9aa5e66a8a138488d9c64fbfb8df/0_0_4606_3684/master/4606.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ce737bb255217609ebc79de6e20afdf
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Family & Parenting
 ---
 
 A wrongful death lawsuit filed on Tuesday accuses Ken Paxton, the Texas attorney general, doctors and state health officials of contributing to the death of a pregnant San Antonio woman whose family says she was denied an abortion that could have saved her life.

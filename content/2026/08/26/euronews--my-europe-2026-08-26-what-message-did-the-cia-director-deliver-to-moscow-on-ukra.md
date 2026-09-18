@@ -10,6 +10,10 @@ description: 'The Kremlin says John Ratcliffe met Russian intelligence officials
   the trip fuelled speculation that the CIA director was carrying a warning from Washington.
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/97/22/1200x675_cmsv2_2d26d57e-e0cd-5a5b-966d-3760a4148b4d-9889722.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## The Kremlin says John Ratcliffe met Russian intelligence officials but not Vladimir Putin during his surprise visit to Moscow on Tuesday. The secrecy surrounding the trip fuelled speculation that the CIA director was carrying a warning from Washington.

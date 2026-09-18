@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Valentina Foster's parents say their lives were changed forever by her
   "devastating loss".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/963c/live/66bc8170-a615-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Family & Parenting
 ---
 
 ![Valentina Foster is wearing pink glittery Minnie Mouse ears with a bow and a black and white bomber jacket. She has shoulder-length blonde hair and blue eyes and is smiling at the camera. She is standing in front of a building with white columns and ornate windows.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/963c/live/66bc8170-a615-11f1-a291-b542ee92de7c.jpg)

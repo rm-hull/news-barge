@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Updated draft highway code follows several court rulings assigning blame
   for road accidents to careless pedestrians
 image: https://i.guim.co.uk/img/media/f7181ab704b060f006e06bedaf83b669b987fb3b/478_0_4172_3337/master/4172.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=200bc5461fbdc36eefc69f27968c3c46
+categories:
+- UK
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 Italy’s updated highway code will target pedestrians who stare at their mobile phones while crossing the road, as the country’s transport ministry strives to improve road safety by cracking down on perilous distractions.

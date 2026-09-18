@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Concerns about speeding in a residential York street have prompted plans
   to tackle the issue.
 image: https://www.gazetteherald.co.uk/resources/images/21462595.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 CONCERNS about speeding in a residential York street have prompted plans to tackle the issue.

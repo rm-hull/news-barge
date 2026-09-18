@@ -8,6 +8,8 @@ published: '2026-08-28T00:00:00Z'
 description: A Russian loitering munition can fly for six hours and carry more than
   50 kilograms toward distant targets
 image: https://cdn.mos.cms.futurecdn.net/vqC2P3Yd6xwVstjW8G9DQb-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Russian Garpia-A1E loitering munition](https://cdn.mos.cms.futurecdn.net/vqC2P3Yd6xwVstjW8G9DQb.jpg) 

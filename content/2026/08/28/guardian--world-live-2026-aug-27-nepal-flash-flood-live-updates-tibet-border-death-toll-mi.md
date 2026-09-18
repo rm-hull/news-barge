@@ -7,6 +7,9 @@ scraped_at: '2026-08-28T11:16:33Z'
 published: '2026-08-28T00:00:00Z'
 description: This live blog has now closed
 image: https://i.guim.co.uk/img/media/d3ed0d7f79733a9985c59c487ee4d8b4a01a8509/0_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=303746cc4aea781f15d35eeb4e95b8a2
+categories:
+- UK
+- News & Politics
 ---
 
 A drone view shows mud covering buildings and property following devastating floods at Trishuli in Nuwakot district, Nepal, on Thursday. Photograph: Navesh Chitrakar/Reuters

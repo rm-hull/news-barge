@@ -8,6 +8,8 @@ published: '2026-09-12T00:00:00Z'
 description: The GMKtec EVO-X3 is a mini PC with a difference, as it's built for local
   AI, and features the AMD’s Ryzen AI Max+ 395, Radeon graphics and a 50-TOPS NPU.
 image: https://cdn.mos.cms.futurecdn.net/qNSsq22MYBv3nmt5gWE2af-1200-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Lee Ellis, 55, is charged in connection with the incident which happened
   in Wakefield on Saturday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0287/live/9d501050-9ac9-11f1-a74b-2f66a3b83590.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Blue and white police tape cordons off a woodland pathway.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/0287/live/9d501050-9ac9-11f1-a74b-2f66a3b83590.jpg)

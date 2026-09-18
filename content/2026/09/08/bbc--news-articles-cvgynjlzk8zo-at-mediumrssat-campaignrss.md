@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Chris Rokos plans to open an office in Athens, reports say, and was ranked
   third in the Sunday Times's list of the UK's top taxpayers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4254/live/73808720-ab5c-11f1-9647-01c7ddc5a2b1.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Chris Rokos sitting in a room wearing a dark blue jumper and blue jeans. In the background there is a fireplace, sofa and chest of drawers.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4254/live/73808720-ab5c-11f1-9647-01c7ddc5a2b1.jpg)

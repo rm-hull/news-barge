@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: Ed Miliband to reassert support for Palestinian rights and a two-state
   solution in move fiercely criticised by US and Israel
 image: https://i.guim.co.uk/img/media/a4f6226b391e4d444522dbf5d467fe78aeeb6baa/317_0_3264_2612/master/3264.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=027bd6e36944d88856c67e8f9b5960bf
+categories:
+- UK
+- News & Politics
 ---
 
 Ed Miliband will announce a broad reset of the UK’s relations with Israel on Tuesday, promising the government will take a more active approach in supporting the Palestinian cause.

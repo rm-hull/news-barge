@@ -8,6 +8,10 @@ scraped_at: '2026-08-25T20:40:01Z'
 published: '2026-08-25T00:00:00Z'
 description: The company's new fundraising total now stands at $232 million.
 image: https://techcrunch.com/wp-content/uploads/2024/10/unnamed-2.png?w=1152
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 Stability AI, the startup behind AI image generation model Stable Diffusion, has raised $76 million in Series B funding. The new haul brings the company’s fundraising total to $232 million.

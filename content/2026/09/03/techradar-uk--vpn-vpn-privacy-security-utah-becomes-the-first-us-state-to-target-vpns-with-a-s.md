@@ -10,6 +10,9 @@ description: Senate Bill 73 officially hits the books, but ongoing litigation an
   fierce pushback from major VPN providers leave the future of internet privacy in
   Utah hanging in the balance.
 image: https://cdn.mos.cms.futurecdn.net/i5GRReqaUfe7cJjs88tHwf-2119-80.jpg
+categories:
+- Technology & Software
+- News & Politics
 ---
 
 ![Welcome to Utah State Sign in Western USA - stock photo](https://cdn.mos.cms.futurecdn.net/i5GRReqaUfe7cJjs88tHwf.jpg) 

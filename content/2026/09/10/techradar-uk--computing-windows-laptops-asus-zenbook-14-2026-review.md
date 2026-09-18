@@ -9,6 +9,8 @@ published: '2026-09-10T00:00:00Z'
 description: The new Asus Zenbook 14 features the same super portable body — but is
   the performance any better?
 image: https://cdn.mos.cms.futurecdn.net/w5pdLNmYhsdCkfgFoTdLob-2520-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

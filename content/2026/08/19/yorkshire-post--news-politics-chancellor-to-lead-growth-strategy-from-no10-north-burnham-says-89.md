@@ -9,6 +9,11 @@ description: The Prime Minister’s plans to hand responsibilities for economic 
   to the new No10 North are not a demotion for Chancellor John Healey and the Treasury,
   Angela Rayner has said.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/07/26/15/13/01KYA8HZT6DTSYCH8CSV2G6E1V.jpg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Chancellor to lead growth strategy from No10 North, Burnham says

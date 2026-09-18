@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Yorkshire Water has begun the next phase of a £15million upgrade to wastewater
   infrastructure in and around Pannal.
 image: https://mmo.aiircdn.com/409/6980fd9125bad.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![](https://mmo.aiircdn.com/409/6980fd9125bad.jpg) 

@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: President’s very realistic AI slop video, posted to his official Truth
   Social account, forces Pentagon to step in with a denial
 image: https://static.independent.co.uk/2026/08/31/7/54/trump-kharg-2.JPG?trim=0,173,0,120&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The Defense Department was forced on Monday to deny the U.S. had struck Iran’s main petroleum export facility after President Donald Trump posted a fake but very realistic AI-generated video showing a purported attack by American forces.

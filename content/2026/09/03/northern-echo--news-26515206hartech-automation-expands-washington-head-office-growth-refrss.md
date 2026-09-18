@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: AN engineering firm has expanded its North East head office after securing
   new contracts and entering global markets.
 image: https://www.thenorthernecho.co.uk/resources/images/21400906.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

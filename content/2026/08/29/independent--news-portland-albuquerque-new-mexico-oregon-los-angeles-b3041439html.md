@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Two cities have found a relatively novel way to reduce high-speed crashes
   by rewarding law-abiding drivers rather than just punishing the lead-footed ones
 image: https://static.independent.co.uk/2026/08/29/11/Speed_Triggered_Stoplights_56496.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Automotive
 ---
 
 Officials struggled for years to curb high-speed crashes along a residential corridor cutting through Albuquerque, New Mexico, but simply punishing the lead-footed drivers didn’t seem to work.

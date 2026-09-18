@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: This desktop packs 748GB of memory and a price tag that could buy you
   a house down payment
 image: https://cdn.mos.cms.futurecdn.net/fA7AKnpbEzjkvbz59bxutP-1920-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Supermicro Gold Series GPU Super AI Station (ARS-511GD-NB-LCC-01-G2)](https://cdn.mos.cms.futurecdn.net/fA7AKnpbEzjkvbz59bxutP.png) 

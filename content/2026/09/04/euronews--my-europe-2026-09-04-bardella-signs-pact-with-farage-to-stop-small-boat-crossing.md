@@ -9,6 +9,9 @@ description: 'At the Reform UK Party conference on Friday, Nigel Farage and Jord
   Bardella signed an agreement, vowing to end irregular migrant crossings "forever",
   should their respective parties come to power. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/19/45/1200x675_cmsv2_b7589fcb-0d00-5850-970a-5afca1f9b7a5-9901945.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## At the Reform UK Party conference on Friday, Nigel Farage and Jordan Bardella signed an agreement, vowing to end irregular migrant crossings "forever", should their respective parties come to power.

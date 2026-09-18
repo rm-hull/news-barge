@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Morgan Gibbs-White was left out of England's World Cup squad - will his
   continued good form be impossible for Thomas Tuchel to ignore?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/df57/live/4ed623b0-a7b2-11f1-b5cf-8556ae508a51.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Morgan Gibbs-White clenches his fists in celebration](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/df57/live/4ed623b0-a7b2-11f1-b5cf-8556ae508a51.jpg)

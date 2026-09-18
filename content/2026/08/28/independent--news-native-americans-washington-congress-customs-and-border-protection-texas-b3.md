@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: The federal government has agreed to extend the pause on border construction
   in Big Bend National Park until mid-September
 image: https://static.independent.co.uk/2026/08/28/01/Immigration_Border_Wall_316_3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The federal government agreed in court on Friday to extend a pause on border related construction in Big Bend National Park until mid September, a move welcomed by those challenging the contentious project in the area.

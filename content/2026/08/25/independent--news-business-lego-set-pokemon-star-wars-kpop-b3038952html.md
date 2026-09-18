@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Lego revealed it is aiming to switch to paper-based bags for its sets
   across all factories by 2027
 image: https://static.independent.co.uk/2026/08/25/09/2271375143..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Lego has posted record sales for the first half of 2026, with revenues rising by more than a fifth thanks to strong demand for its World Cup and KPop Demon Hunters ranges.

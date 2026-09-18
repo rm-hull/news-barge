@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Hannah Thomson, 29, from Newcastle, has spoken about rebuilding her life
   after the death of her husband, finding a new sense of purpose as cabin…
 image: https://www.thenorthernecho.co.uk/resources/images/21331015.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 A North East woman who lost her husband has spoken about rebuilding her life and finding a new sense of purpose after becoming cabin crew and travelling the world.

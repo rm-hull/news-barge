@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Harrogate para powerlifter Lottie McGuinness has appeared on CNN to speak
   out about a controversial advert featuring actress Sydney Sweeney.
 image: https://mmo.aiircdn.com/409/6aa8e460f13d39b9c71.jpg
+categories:
+- Local
+- Harrogate
+- Health & Fitness
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa8e460f13d39b9c71.jpg) 

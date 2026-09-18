@@ -9,6 +9,11 @@ description: The family of a 45-year-old man killed after being struck by a car 
   Bradford have paid tribute to someone who “made the world brighter just by being
   in it”.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/08/10/20/eugenMATTA.jpeg?trim=165,0,436,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # ‘He made the world brighter’: Tribute to man, 45, killed in crash

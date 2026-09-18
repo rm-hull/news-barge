@@ -8,6 +8,9 @@ published: '2026-08-22T00:00:00Z'
 description: 'The 23 year old suspect placed one single order for some 300 pizzas
   worth €8, 583, used politicians'' names and issued threats in delivery notes. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/48/34/1200x675_cmsv2_78d5d4ad-5de1-5e55-9c2a-14d8378ee2af-9884834.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## The 23 year old suspect placed one single order for some 300 pizzas worth €8, 583, used politicians' names and issued threats in delivery notes.

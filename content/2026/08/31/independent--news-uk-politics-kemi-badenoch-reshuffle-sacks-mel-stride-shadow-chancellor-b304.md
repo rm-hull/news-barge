@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Andrew Griffith, who was a senior Treasury minister that worked on the
   disastrous mini-Budget, is promoted from shadow business secretary to shadow chancellor
 image: https://static.independent.co.uk/2026/08/31/13/cade107e99f9dac0716964a51fc06a9bY29udGVudHNlYXJjaGFwaSwxNzg4MjYzNTgy-2.83391141.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Tory leader Kemi Badenoch has ruthlessly sacked her shadow chancellor, Sir Mel Stride, and replaced him with one of the architects of Liz Truss’s disastrous mini-Budget.

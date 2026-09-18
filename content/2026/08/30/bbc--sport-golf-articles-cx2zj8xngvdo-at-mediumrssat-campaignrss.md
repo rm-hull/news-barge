@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: At times it felt like there was a certain inevitability about Scottie
   Scheffler collecting his second Fedex Cup title on Sunday.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a09a/live/b2cd5300-a4c1-11f1-be76-7d0faa1b13a7.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Scottie Scheffler with the Fedex Cup](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a09a/live/b2cd5300-a4c1-11f1-be76-7d0faa1b13a7.jpg)

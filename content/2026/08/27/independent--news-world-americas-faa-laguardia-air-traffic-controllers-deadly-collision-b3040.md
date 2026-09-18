@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: The March collision left two pilots dead and at least six other people
   seriously injured
 image: https://static.independent.co.uk/2026/03/25/14/05/LaGuardia-Crash-347nnde2.jpeg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The Federal Aviation Administration is pushing to fire two air traffic controllers who left work early before an Air Canada jet crashed into a firetruck at LaGuardia Airport in March, according to a report.

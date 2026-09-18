@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Asian shares and U.S. futures are mixed after U.S. markets were closed
   for the Labor Day holiday
 image: https://static.independent.co.uk/2026/09/08/06/South_Korea_Financial_Markets_563_2.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Asian shares and U.S. futures were mixed Tuesday after markets on Wall Street were closed for the Labor Day holiday.

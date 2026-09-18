@@ -9,6 +9,8 @@ published: '2026-09-05T00:00:00Z'
 description: We're looking back over the last week to pick out the most important
   stories published on TechRadar.
 image: https://cdn.mos.cms.futurecdn.net/rx9K3vzvWVv4nkeE59EdeX-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![ICYMI](https://cdn.mos.cms.futurecdn.net/rx9K3vzvWVv4nkeE59EdeX.jpg) 

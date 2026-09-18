@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Video. Tivoli Gardens in Copenhagen opens Hikari, a Japanese-inspired
   district with neon lights, art, a new ride and views of the historic Japanese Tower.
 image: https://images.euronews.com/articles/stories/09/88/06/04/1200x675_cmsv2_082b0fa4-066e-5f71-aa06-2bb9cf52cd45-9880604.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 At Tivoli Gardens in Copenhagen, the new Hikari district glows with neon signs, lanterns and Japanese-style architecture under the Demon roller coaster.

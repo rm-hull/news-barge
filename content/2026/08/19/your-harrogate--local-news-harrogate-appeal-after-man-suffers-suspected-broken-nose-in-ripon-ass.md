@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Police are appealing for witnesses after a man suffered a suspected broken
   nose during an assault in Ripon.
 image: https://mmo.aiircdn.com/409/66bdda1c36f5f.jpg
+categories:
+- Local
+- Harrogate
+- True Crime
 ---
 
 ![](https://mmo.aiircdn.com/409/66bdda1c36f5f.jpg) 

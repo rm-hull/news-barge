@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Iranian hackers were accused of carrying out an unprecedented attack
   on a British power generator last month
 image: https://static.independent.co.uk/2026/09/01/20/01/GettyImages-2292878242.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Iranian hackers have targeted critical American infrastructure with cyberattacks in recent weeks, a new report has claimed, as fresh strikes threatened to plunge Washington and Tehran back into all our war.

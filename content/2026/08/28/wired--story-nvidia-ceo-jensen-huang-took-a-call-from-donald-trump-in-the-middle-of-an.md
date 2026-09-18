@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: The unexpected interruption came hours before the president wrote a congratulatory
   post on Truth Social about the company’s most recent earnings report.
 image: https://media.wired.com/photos/6a9205e11fef496705b5c9f7/191:100/w_1280,c_limit/Jensen-Took-Call-From-Trump-Business-2212801537.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
+- News & Politics
 ---
 
 President Donald Trump interrupted Nvidia’s all-hands staff meeting on Thursday morning when he called CEO Jensen Huang midway through, three sources who witnessed the interaction tell WIRED.

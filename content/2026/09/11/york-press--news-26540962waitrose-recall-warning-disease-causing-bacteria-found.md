@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Symptoms include fever, vomiting and headaches, with some cases even
   resulting in convulsions. In rare cases, the infection can lead to meningitis.
 image: https://www.yorkpress.co.uk/resources/images/21437887.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 *(Image: Getty Images)*

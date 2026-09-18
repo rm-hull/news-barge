@@ -8,6 +8,11 @@ scraped_at: '2026-09-11T12:49:13Z'
 published: '2026-09-11T00:00:00Z'
 description: 'From: Chris Broome, on behalf of South Yorkshire Climate Alliance, Sheffield.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI4OTBlZDM1LTgyZWUtNGYwOS1hYzY5LWY0NTEzMTNkMjM2Nzo5YTVjMzEwNC1iZGNiLTRjMDYtOTUxNS0xMzczZTljMWQ4MWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Why Doncaster Sheffield Airport reopening is problematic for the environment - Yorkshire Post Letters

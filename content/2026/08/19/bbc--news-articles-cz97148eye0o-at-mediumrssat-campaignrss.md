@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: The co-founder of Little Moons shares her advice for anyone thinking
   about starting a business of their own.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b0d/live/04272360-9bd1-11f1-bb4d-1147ef2e78e5.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 ![Vivien Wong wearing a white lace camisole and bright pink wool cardigan sitting on a grey sofa in a plush home](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/6b0d/live/04272360-9bd1-11f1-bb4d-1147ef2e78e5.jpg)

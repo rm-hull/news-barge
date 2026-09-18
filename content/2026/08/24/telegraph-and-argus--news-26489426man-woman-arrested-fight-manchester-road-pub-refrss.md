@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Police have confirmed they made two arrests following a reported fight
   in a Bradford pub on Saturday night.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21362424.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Pexels)*

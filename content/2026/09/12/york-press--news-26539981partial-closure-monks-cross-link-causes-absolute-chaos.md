@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: A partial closure of Monks Cross Link near York’s Outer Ring Road, which
   has caused “absolute chaos” for drivers, will remain in place until…
 image: https://www.yorkpress.co.uk/resources/images/21436719.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Partial closure of road near York Outer Ring Road in place until November

@@ -10,6 +10,10 @@ description: The majority of a short but vital new road for Harrogate drivers at
   Gill has finally opened to traffic today but disruption is still likely to continue
   until October.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmE3MzYwMDQxLWY1OGItNDUzZC1hYmJkLWUwNmYyNjcyZWU4NDo0ZjM0YTE3OS0yMjM2LTRjMjQtOThlOS1iNDRhMGRlMDQxNzM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 # Finally an end to landslips on A59 as 'largest highways project ever undertaken' by North Yorkshire Council nears completion

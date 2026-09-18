@@ -9,6 +9,9 @@ published: '2026-08-22T00:00:00Z'
 description: With plug-in solar soon to be legal in the UK, you may be investing,
   and these batteries let you store your generated power.
 image: https://cdn.mos.cms.futurecdn.net/SzTw9wn9r88HhWhWyj9xxS-2000-80.jpg
+categories:
+- Technology & Software
+- Home, Garden & DIY
 ---
 
 ![EcoFlow Stream](https://cdn.mos.cms.futurecdn.net/SzTw9wn9r88HhWhWyj9xxS.jpg) 

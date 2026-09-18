@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Interior Department quietly awards more than $2.5M to another firm to
   fix the beleaguered monument
 image: https://static.independent.co.uk/2026/09/03/22/2292500998..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Donald Trump’s administration has funneled another $2.65 million of taxpayer funds into renovating the Lincoln Memorial Reflecting Pool, bringing total costs for the project to nearly $20 million.

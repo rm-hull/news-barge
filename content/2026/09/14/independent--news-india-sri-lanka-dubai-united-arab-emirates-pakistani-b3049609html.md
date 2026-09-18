@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Political tensions between India and Pakistan have spilled onto the cricket
   field again
 image: https://static.independent.co.uk/2026/09/14/07/Women%27s_Asia_Cup_Final_Cricket_24546.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Political tensions between India and Pakistan spilled onto the cricket field again Sunday when India’s women refused to accept the Asia Cup cricket trophy from Asian Cricket Council chairman Mohsin Naqvi.

@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Palestinian teenagers Omar al-Naasan and Khalil Abu Alia were shot dead
   when Israeli settlers and soldiers entered a village in the occupied West Bank.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bf50/live/afcc7190-a84f-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 # 'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC

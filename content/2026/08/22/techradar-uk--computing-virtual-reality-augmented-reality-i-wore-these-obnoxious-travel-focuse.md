@@ -8,6 +8,9 @@ scraped_at: '2026-08-22T16:37:10Z'
 published: '2026-08-22T00:00:00Z'
 description: Room to grow, but we all have to start somewhere
 image: https://cdn.mos.cms.futurecdn.net/hNBrezUnj82PJsZLWbzzrP-2560-80.png
+categories:
+- Technology & Software
+- Travel
 ---
 
 ### TechRadar Verdict

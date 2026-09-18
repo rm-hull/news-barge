@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Ben Stonehouse, who works at the Talbot Hotel in Malton, took home the
   Duty Manager of the Year title from The Coaching Inn Group.
 image: https://www.yorkpress.co.uk/resources/images/21425552.jpg?type=og-image&xType=0&yType=533
+categories:
+- Local
+- York
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

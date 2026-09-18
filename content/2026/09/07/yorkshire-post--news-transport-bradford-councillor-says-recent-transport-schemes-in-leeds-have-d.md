@@ -10,6 +10,11 @@ description: Recent roadworks in Leeds have done a “hell of a lot of damage”
   city centre and are encouraging Bradford residents to shop elsewhere – a local Councillor
   has claimed.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRjMGI2MDY4LTU1MzAtNDg5Ni1hYWJkLTI1Yjk4ZTIyMTY4NDoyZWIzMDkyNC02NDJlLTQyZTEtYmI3MS04ZTliNWEwZDkyN2I=.jpg?crop=3:2,smart&trim=&width=547&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Bradford Councillor says recent transport schemes in Leeds have "damaged" city centre

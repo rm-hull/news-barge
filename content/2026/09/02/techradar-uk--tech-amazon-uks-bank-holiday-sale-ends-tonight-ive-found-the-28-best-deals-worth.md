@@ -10,6 +10,10 @@ description: I've looked through the Amazon UK bank holiday sale for one last ti
   before it officially ends tonight and picked out 28 of the best deals that I genuinely
   recommend buying for quality and value for money.
 image: https://cdn.mos.cms.futurecdn.net/bvt3957WXu6zL5BMXmqr9i-2560-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Shopping & Deals
 ---
 
 ![A collage of products from the latest Amazon sale, including a Kindle Colorsoft, Crucial SSD, Amazon Echo Spot, Blink doorbell, Ninja air fryer, Lenovo laptop, Ember TV and Garmin smartwatch.](https://cdn.mos.cms.futurecdn.net/bvt3957WXu6zL5BMXmqr9i.jpg) 

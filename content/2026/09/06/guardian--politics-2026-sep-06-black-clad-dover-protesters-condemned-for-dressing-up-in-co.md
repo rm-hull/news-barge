@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Business secretary says masked anti-immigration protest was ‘not something
   we would want’ on British streets
 image: https://i.guim.co.uk/img/media/70cd1ddff7221708adb05e3140dcbd192bdb8d0f/500_0_2352_1882/master/2352.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9bfe2a6a6279f8d2939de39bfb875e5a
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A cabinet minister has condemned the blocking of Dover roads by dozens of masked and black-clad people on Saturday.

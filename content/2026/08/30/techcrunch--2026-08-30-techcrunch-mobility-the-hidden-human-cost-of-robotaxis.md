@@ -8,6 +8,8 @@ published: '2026-08-30T00:00:00Z'
 description: Welcome back to TechCrunch Mobility, your hub for the future of transportation
   and now, more than ever, the role AI is playing in it.
 image: https://techcrunch.com/wp-content/uploads/2026/08/waymo-jaguar-ipace.jpg?resize=1200,633
+categories:
+- Technology & Software
 ---
 
 *Welcome back to**TechCrunch Mobility**, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!*

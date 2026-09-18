@@ -7,6 +7,11 @@ scraped_at: '2026-09-08T19:25:32Z'
 published: '2026-09-08T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/01/york-monk-bar-car-park.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 A business leader has urged York council to outline its plans for a car parking strategy, saying higher fees are discouraging residents from shopping local.

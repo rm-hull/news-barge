@@ -9,6 +9,9 @@ published: '2026-09-06T00:00:00Z'
 description: It's been a big week for Nvidia's next instalment of DLSS, with the tech
   seemingly reaching a major turning point.
 image: https://cdn.mos.cms.futurecdn.net/6rLn9bm594drr7izET26mG-1920-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![A young teenager is playing a PC game and celebrating](https://cdn.mos.cms.futurecdn.net/6rLn9bm594drr7izET26mG.jpg) 

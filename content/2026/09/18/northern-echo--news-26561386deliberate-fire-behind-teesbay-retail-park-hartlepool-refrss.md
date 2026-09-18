@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: The incident happened on land behind Teesbay Retail Park, Hartlepool,
   on Thursday (September 17) at around 9.30pm, following reports of a bin fire.
 image: https://www.thenorthernecho.co.uk/resources/images/18563962.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: CLEVELAND FIRE BRIGADE)*

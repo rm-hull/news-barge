@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: A diagnosis can help people with early-stage Alzheimer’s qualify for
   drugs
 image: https://static.independent.co.uk/2026/08/21/11/01M0HN8C63H2096WGM0YSMYPTY.jpg?trim=0,10,0,10&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Science
 ---
 
 New blood tests might predict Alzheimer’s years before symptoms but doctors say they aren't quite ready yet — and you don’t need a test before trying to lower the risk.

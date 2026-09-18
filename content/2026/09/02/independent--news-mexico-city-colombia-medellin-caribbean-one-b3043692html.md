@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Puerto Rican singer-songwriter Kany García is bringing her intimate,
   personal music to bigger stages with her Puerta Abierta tour in the United States
 image: https://static.independent.co.uk/2026/09/02/18/Kany_Garcia_35636.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 Puerto Rican singer-songwriter Kany García has built her Latin Grammy -winning career on intimate, deeply personal music, but now she is bringing that connection with fans to bigger stages as her Puerta Abierta tour heads to the United States.

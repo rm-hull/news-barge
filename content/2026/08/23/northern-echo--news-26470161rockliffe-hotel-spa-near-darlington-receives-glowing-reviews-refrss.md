@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: A luxury spa near Darlington has been praised for 'amazing' food and
   its 'fantastic' spa.
 image: https://www.thenorthernecho.co.uk/resources/images/21337607.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A luxury spa near Darlington has received glowing reviews from guests.

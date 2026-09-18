@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Ripon-educated Richard Hammond bought a £1.9 million bachelor pad in
   Wales earlier this year after his divorce.
 image: https://www.yorkpress.co.uk/resources/images/20030085.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: discovery+)*

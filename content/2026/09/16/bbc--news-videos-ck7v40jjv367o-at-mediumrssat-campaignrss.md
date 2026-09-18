@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Sheeran's backing band and all of his support acts pulled out of his
   US tour, so what happens now?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/596e/live/b7bd9d10-b1b5-11f1-bdcf-d393eb724fa3.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 # Watch: Will Ed Sheeran cancel his tour as support acts quit?

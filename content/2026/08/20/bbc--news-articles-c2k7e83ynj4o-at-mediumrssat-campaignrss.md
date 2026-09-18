@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: It comes after a 60-day ceasefire expired on Monday, with no sign of
   a diplomatic or military off-ramp to the conflict.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/725b/live/5ef21940-9c2a-11f1-aa8e-d328e95deb46.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Business & Entrepreneurship
 ---
 
 ![Trump, wearing a suit and no tie and a white "USA" hat, descending from airplane steps](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/725b/live/5ef21940-9c2a-11f1-aa8e-d328e95deb46.jpg)

@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: A Toby Carvery showed signs of activity this morning after firefighters
   were called to a kitchen fire at the restaurant.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21417638.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: T&A)*

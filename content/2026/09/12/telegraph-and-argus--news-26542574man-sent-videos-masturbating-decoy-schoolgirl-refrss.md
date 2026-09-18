@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: A man who sent videos of himself masturbating to a 14-year-old girl was
   actually messaging a decoy profile operated by an adult from a paedophile…
 image: https://www.thetelegraphandargus.co.uk/resources/images/20535577.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Self-Improvement
 ---
 
 *(Image: Pixabay)*

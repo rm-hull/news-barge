@@ -7,6 +7,11 @@ scraped_at: '2026-09-15T11:27:46Z'
 published: '2026-09-15T00:00:00Z'
 description: A farmer has submitted plans to erect a polytunnel for 50 breeding ewes.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21455969.jpg?type=og-image&xType=0&yType=195
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
 ---
 
 ### What is the Public Notice Portal?

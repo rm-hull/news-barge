@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: Timescales for proposals to ditch recycling boxes for wheelie bins in
   York have been set out along with more details about the scheme.
 image: https://www.gazetteherald.co.uk/resources/images/21036245.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 TIMESCALES for proposals to ditch recycling boxes for wheelie bins in York have been set out along with more details about the scheme.

@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The RNLI says it hopes to have the lifeboat station operational again
   as soon as possible.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1943/live/d5de9080-b28a-11f1-8096-b33a1297275a.jpg
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 ![Aerial picture showing Portsmouth Lifeboat Station  lifeboat station](https://ichef.bbci.co.uk/ace/standard/769/cpsprodpb/1943/live/d5de9080-b28a-11f1-8096-b33a1297275a.jpg)

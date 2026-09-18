@@ -8,6 +8,9 @@ scraped_at: '2026-09-14T15:00:07Z'
 published: '2026-09-14T00:00:00Z'
 description: Politicians are increasingly worried about AI's capabilities
 image: https://cdn.mos.cms.futurecdn.net/DFBL65zBbMWH2hNHzTrEuk-1920-80.jpg
+categories:
+- Technology & Software
+- News & Politics
 ---
 
 ![Donald Trump sings executive order](https://cdn.mos.cms.futurecdn.net/DFBL65zBbMWH2hNHzTrEuk.jpg) 

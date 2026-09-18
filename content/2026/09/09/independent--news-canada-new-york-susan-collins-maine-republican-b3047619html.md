@@ -10,6 +10,10 @@ description: The trade war between the U.S. and Canada escalated once again as t
   U.S. announced upcoming import bans on most alcoholic beverages from Canada, along
   with other products including whey, molasses and motorcycles
 image: https://static.independent.co.uk/2026/08/22/18/Canada_Tariffs_47651.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 The trade war between the U.S. and Canada escalated again this week as the U.S. announced import bans on most alcoholic beverages from Canada, along with other products including whey, molasses and motorcycles.

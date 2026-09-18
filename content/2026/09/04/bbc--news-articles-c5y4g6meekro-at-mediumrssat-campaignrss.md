@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Germany has blamed Russia for an attack on Leipzig airport but there
   has been a series of suspicious incidents elsewhere.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f3a3/live/c697e520-a841-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![A blurred image of a man defusing a bomb on an airport runway](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/f3a3/live/c697e520-a841-11f1-aed2-8d6da8d75094.jpg)

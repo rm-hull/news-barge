@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Sulaiman Tajzai bought the weapon from a shop near his home in Leeds
   and travelled to the victim’s address in London that same day
 image: https://static.independent.co.uk/2026/09/13/11/58/Custody-Image-TAJZAI.jpg?trim=41,0,53,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 An 18-year-old has admitted murder after purchasing a knife and travelling more than 150 miles to fatally stab a man accused by his family of stalking.

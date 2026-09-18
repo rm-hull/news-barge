@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: NSW police called to Redfern on Wednesday night found a 17-year-old with
   a partially severed hand
 image: https://i.guim.co.uk/img/media/554d2a6beb218a5c025d3d1f3e9bcea631762520/282_0_2816_2253/master/2816.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=38e9d84b5effd2c6ad7a137b397b8401
+categories:
+- UK
+- News & Politics
 ---
 
 A teenage boy will face court today after a “near-complete amputation” of a boy’s hand during an alleged assault in Sydney on Wednesday night.

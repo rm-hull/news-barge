@@ -8,6 +8,10 @@ scraped_at: '2026-09-03T22:31:04Z'
 published: '2026-09-03T00:00:00Z'
 description: Follow the day’s news live.
 image: https://i.guim.co.uk/img/media/4ca5cfaea4f860f8cd42de45ec371cbe68e189f1/915_0_4549_3640/master/4549.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=669ea948b9b4ed9ef0d329cecb673a33
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A drone view shows houses damaged by flash floods surrounded by sludge, mud and debris along the swollen Trishuli River in Devighat, Nepal. Photograph: Rajesh Kumar Singh/AP

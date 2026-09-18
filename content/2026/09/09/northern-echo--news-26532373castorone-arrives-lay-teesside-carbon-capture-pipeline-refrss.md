@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The Castorone has arrived in the Southern North Sea to begin laying a
   pipeline between Teesside and the Endurance storage site.
 image: https://www.thenorthernecho.co.uk/resources/images/21426002.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Supplied)*

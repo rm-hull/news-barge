@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Marius Borg Høiby will be granted permission to attend the funeral on
   September 9
 image: https://static.independent.co.uk/2026/02/03/12/29/GettyImages-2165187213.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The disgraced son of Norway’s new queen will be allowed to leave house arrest despite a recent rape conviction to attend the state funeral of King Harald V.

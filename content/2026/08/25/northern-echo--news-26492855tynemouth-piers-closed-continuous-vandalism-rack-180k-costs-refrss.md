@@ -9,6 +9,12 @@ published: '2026-08-25T00:00:00Z'
 description: North and South Piers at the Port of Tyne remain closed after repeated
   vandalism caused more than £180,000 in damage, security and repair costs.
 image: https://www.thenorthernecho.co.uk/resources/images/21367845.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Port of Tyne)*

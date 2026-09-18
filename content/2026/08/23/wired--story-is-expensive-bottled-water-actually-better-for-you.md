@@ -9,6 +9,10 @@ description: Luxury water can contain different minerals and taste noticeably di
   But a remote source, alkaline pH, and high price do not necessarily mean better
   hydration.
 image: https://media.wired.com/photos/6a887120972ab76be668fd4e/191:100/w_1280,c_limit/expensiveWater_Lead.jpg
+categories:
+- Technology & Software
+- Science
+- Health & Fitness
 ---
 
 Water is supposed to be the simplest thing we consume. The premium bottled water industry has transformed it into something that requires a backstory.

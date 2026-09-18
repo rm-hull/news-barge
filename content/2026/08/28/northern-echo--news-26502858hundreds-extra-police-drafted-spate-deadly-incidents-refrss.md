@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Hundreds of extra police officers have been drafted in after a spate
   of deadly incidents have saw nine die in Middlesbrough.
 image: https://www.thenorthernecho.co.uk/resources/images/21383199.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: NORTHERN ECHO)*

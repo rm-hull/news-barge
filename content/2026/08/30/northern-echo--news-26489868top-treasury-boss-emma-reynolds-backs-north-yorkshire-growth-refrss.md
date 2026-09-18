@@ -8,6 +8,12 @@ published: '2026-08-30T00:00:00Z'
 description: A top Treasury boss has vowed the Government will provide the funding
   to back growth on North Yorkshire high streets after revealing a £40m…
 image: https://www.thenorthernecho.co.uk/resources/images/21363262.jpg?type=og-image&xType=0&yType=170
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 A top Treasury boss has vowed the Government will provide the funding to back growth in North Yorkshire after revealing a £40m investment connected to high streets.

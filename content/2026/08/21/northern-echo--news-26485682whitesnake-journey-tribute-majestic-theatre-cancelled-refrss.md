@@ -9,6 +9,12 @@ published: '2026-08-21T00:00:00Z'
 description: A classic rock tribute show due to take place at a Darlington theatre
   has been cancelled after low ticket sales meant it was no longer…
 image: https://www.thenorthernecho.co.uk/resources/images/21355914.jpg?type=og-image&xType=0&yType=104
+categories:
+- Local
+- UK
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 *(Image: SARAH CALDECOTT)*

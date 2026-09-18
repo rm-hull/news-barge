@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The county's fire and rescue service said two crews from Harrogate were
   called to Norwood at 7.35pm last night (Tuesday, September 15) to…
 image: https://www.yorkpress.co.uk/resources/images/20906881.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: North Yorkshire Police)*

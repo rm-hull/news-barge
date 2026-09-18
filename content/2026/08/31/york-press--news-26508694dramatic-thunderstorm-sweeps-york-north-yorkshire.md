@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Emergency services have been called to sites in York and North Yorkshire
   after a dramatic thunderstorm caused disruption across the region.
 image: https://www.yorkpress.co.uk/resources/images/21391639.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 Emergency services have been called to multiple sites in York and North Yorkshire after a dramatic thunderstorm caused disruption across the region.

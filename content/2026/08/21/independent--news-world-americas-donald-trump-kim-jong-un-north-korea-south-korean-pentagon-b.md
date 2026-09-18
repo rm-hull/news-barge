@@ -10,6 +10,10 @@ description: The U.S. and South Korean militaries are wrapping their annual dril
   six days earlier than initially scheduled in a conciliatory gesture toward North
   Korea
 image: https://static.independent.co.uk/2026/08/21/06/Koreas_US_43218.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The U.S. and South Korean militaries were wrapping up their annual drills six days earlier than initially scheduled on Friday in a conciliatory gesture toward North Korea, though the North said the step isn't enough to convince it to return to talks.

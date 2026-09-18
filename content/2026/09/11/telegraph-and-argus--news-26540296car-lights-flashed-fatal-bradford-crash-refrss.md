@@ -9,6 +9,12 @@ published: '2026-09-11T00:00:00Z'
 description: A man has denied racing with his friend in their cars on a Bradford road
   just moments before a crash that left his friend with injuries that he did…
 image: https://www.thetelegraphandargus.co.uk/resources/images/17835822.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Automotive
 ---
 
 A man has denied racing with his friend in their cars on a Bradford road just moments before a crash that left his friend with injuries that he did not survive.

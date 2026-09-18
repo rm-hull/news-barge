@@ -8,6 +8,10 @@ scraped_at: '2026-08-26T08:57:00Z'
 published: '2026-08-26T00:00:00Z'
 description: Anna Spielmann and Jerome Gilloux defend their E-MTB titles on Day 1
 image: https://cdn.mos.cms.futurecdn.net/zXteaYAomvBy7irknPhuH4-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Video Gaming
 ---
 
 ![Alan Hatherly airborne at the UCI Mountain Bike World Championships in 2025](https://cdn.mos.cms.futurecdn.net/zXteaYAomvBy7irknPhuH4.jpg) 

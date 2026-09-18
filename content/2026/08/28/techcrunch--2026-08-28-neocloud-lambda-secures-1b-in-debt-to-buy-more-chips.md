@@ -9,6 +9,10 @@ description: Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chi
   and lease them to Microsoft. It's the latest in a string of loans, underscoring
   the high cost of the AI boom.
 image: https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Lambda, an AI cloud company that buys computing chips and rents them out to businesses, has raised $1 billion in private, short-dated debt to buy Nvidia’s AI chips that it will lease to Microsoft, Bloomberg reports.

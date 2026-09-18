@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A man has been jailed after a petrol bomb was thrown at a Rotherham home
   where seven people, including an 11-month-old baby and two children, were inside.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/02/15/v2-image-production-19f759f123d3ad5cb2f5d15fe4b55c17Y29udGVudHNlYXJjaGFwaSwxNzg4NDQzODc5-2.11678392.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 # Man jailed after petrol bomb thrown at Rotherham home with baby and children inside

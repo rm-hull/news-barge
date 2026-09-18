@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: A domestic abuser started stalking his ex-partner within hours of being
   released from prison, despite an order banning him from going near her, York…
 image: https://www.gazetteherald.co.uk/resources/images/21412737.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: North Yorkshire Police)*

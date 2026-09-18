@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: THE work of Shipley artists from the past - whose art ranges from a military
   memorial to a set of miniatures - is the focus of a new book.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21380628.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 THE work of Shipley artists from the past - whose art ranges from a military memorial to a set of miniatures - is the focus of a new book.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T12:53:32Z'
 published: '2026-09-10T00:00:00Z'
 description: Joshua Cammidge appeared at Westminster Magistrates’ Court on Thursday
 image: https://static.independent.co.uk/2026/08/05/14/2289181587..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A British national was prepared to sabotage a drone factory in the UK on behalf of Russia’s intelligence services, a court has heard.

@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: St Oswald’s Church in West Rounton is one of North Yorkshire’s lesser-known
   historic gems, with its roots reaching back almost 900 years.
 image: https://www.thenorthernecho.co.uk/resources/images/21386737.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: GOOGLE)*

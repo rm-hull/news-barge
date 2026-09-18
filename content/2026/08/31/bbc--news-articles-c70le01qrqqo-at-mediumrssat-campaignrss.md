@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: Monday's papers are dominated by changes to the government's early release
   scheme for prisoners in England and Wales.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b9e/live/53f1b210-a4c4-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![The headline on the front page of the Times reads: "Early release blocked for manslaughter prisoners".](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/34c3/live/5c1ee670-a4b9-11f1-aed2-8d6da8d75094.jpg)

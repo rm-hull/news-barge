@@ -8,6 +8,13 @@ published: '2026-09-11T00:00:00Z'
 description: 'Progress Under Pressure: Health, which focuses on the North East, is
   calling for greater diversity in NHS leadership.'
 image: https://www.thenorthernecho.co.uk/resources/images/21433392.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Self-Improvement
+- Careers & Productivity
 ---
 
 A new report is calling for greater diversity in NHS leadership to better reflect the communities they serve.

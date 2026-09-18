@@ -9,6 +9,9 @@ published: '2026-09-17T00:00:00Z'
 description: Government estimates that one in 60 adults in Fiji now living with HIV,
   as escalating use of methamphetamine fuels ‘epidemic’
 image: https://i.guim.co.uk/img/media/2fbd472d3604a22f2de69ca6c211cf23694f4847/378_0_2000_1600/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5f0979df61d6d3d436d134c18facd1d
+categories:
+- UK
+- News & Politics
 ---
 
 Fiji has declared a national HIV emergency amid a spike in infections as the Pacific nation grapples with a correlating rise in methamphetamine use.

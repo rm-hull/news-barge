@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Harborne and Delo’s cash could buy a massive head start in an election,
   but spending big has possible pitfalls
 image: https://i.guim.co.uk/img/media/019b3ab23bbcb918ccc3b563ddc68e337af1b247/425_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2acfa6855aab19d9c7d6069814c66161
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Nigel Farage once said he could spend his £5m gift from Christopher Harborne on Ferraris if he wanted to, given its unconditional nature.

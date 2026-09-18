@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Families of former Middlesbrough players and coaches are backing a national
   petition 'Head Safe' to reduce heading in football training.
 image: https://www.thenorthernecho.co.uk/resources/images/17240474.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: NORTHERN ECHO)*

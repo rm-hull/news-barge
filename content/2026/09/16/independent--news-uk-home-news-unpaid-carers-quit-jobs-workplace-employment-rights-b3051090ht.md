@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Prime Minister Andy Burnham has previously said that caring for a loved
   one without adequate support can and does ‘break people’
 image: https://static.independent.co.uk/2024/06/10/00/07124922-5a31dcc3-e370-414c-b7a8-fbe8eb382b62.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 More than 1,500 workers across the UK are resigning every day to care for a loved one, a charity has estimated, describing the situation as "deeply worrying".

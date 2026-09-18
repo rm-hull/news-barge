@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: Amazon is seeking approval to expand its drone delivery service across
   Darlington, with a wider UK rollout the ultimate goal.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21440949.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Amazon is on the “precipice” of dramatically expanding its drone delivery service in the UK, with the tech giant expecting approval to cover the whole of Darlington “very soon”.

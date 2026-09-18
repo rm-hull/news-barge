@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: The jury now faces a seventh day of deliberations in the triple-murder
   trial.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/737f/live/484b4750-a802-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Law & Justice
 ---
 
 # Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror

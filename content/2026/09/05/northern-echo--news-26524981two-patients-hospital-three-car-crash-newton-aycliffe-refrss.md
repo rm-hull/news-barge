@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Two patients have been taken to hospital following a three car smash
   in Newton Aycliffe this morning.
 image: https://www.thenorthernecho.co.uk/resources/images/21414735.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: NORTHERN ECHO)*

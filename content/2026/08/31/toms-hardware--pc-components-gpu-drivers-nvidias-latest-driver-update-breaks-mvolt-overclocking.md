@@ -9,6 +9,9 @@ scraped_at: '2026-08-31T16:08:26Z'
 published: '2026-08-31T00:00:00Z'
 description: Using the app results in a driver crash.
 image: https://cdn.mos.cms.futurecdn.net/Axh3XNQ6DqK4KMfxtoMRBU-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Nvidia GeForce RTX 5090](https://cdn.mos.cms.futurecdn.net/Axh3XNQ6DqK4KMfxtoMRBU.jpg) 

@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Get all of the latest People news from Harrogate Advertiser. Providing
   a fresh perspective for online news.
 image: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Careers & Productivity
 ---
 
 ![Pannal Cricket Gala will take place on Sunday, August 30 with a feast of activities at Burn Bridge Lane in Harrogate. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjY5OTBmMGIwLWY1YTctNDBjMi04ODZkLWIxYTIwM2I1YTk4Yjo5YzdjMGViMy0zNmZkLTQ5MTctODY4MC0xMThkZWFmZjhlMzg=.jpg?crop=5:4,smart&trim=&quality=70&width=616)

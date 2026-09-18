@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A driver has been reported to court and had their vehicle seized after
   officers stopped a car on a Bradford road and discovered it was being driven…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21403927.jpg?type=og-image&xType=0&yType=235
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: West Yorkshire Police)*

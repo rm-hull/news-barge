@@ -9,6 +9,10 @@ description: India's Aircraft Accident Investigation Bureau said the aircraft de
   a triple-hydraulic failure, with the autopilot disengaging and a stall warning triggered
   for two seconds.
 image: https://images.euronews.com/articles/stories/09/90/13/05/1200x675_cmsv2_63656d55-a8b0-53ea-af14-b4cc62258904-9901305.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## India's Aircraft Accident Investigation Bureau said the aircraft detected a triple-hydraulic failure, with the autopilot disengaging and a stall warning triggered for two seconds.

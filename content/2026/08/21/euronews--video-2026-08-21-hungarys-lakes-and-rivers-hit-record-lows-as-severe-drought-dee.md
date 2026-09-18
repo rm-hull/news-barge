@@ -9,6 +9,10 @@ description: Video. Hungary is facing a severe water crisis, with prolonged heat
   drought driving water levels sharply lower. Around 99% of the country is under severe
   or extreme drought, while desertification threatens the Great Hungarian Plain.
 image: https://images.euronews.com/articles/stories/09/88/34/59/1200x675_cmsv2_0f48767e-0541-589f-a268-cdc4d7fe1b72-9883459.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 At **Lake Velence**, Hungary’s third-largest lake, the water level at Agárd fell to around** 20 centimetres on 16 August**. That is far below the roughly 150 centimetres considered optimal for August and well below the previous record low of 53 centimetres, recorded during the 2022 drought.

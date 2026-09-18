@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Darlington agency MBM wins PALI deal to roll out commission-free booking
   software for 120 Irish leisure firms, with savings, growth and potential…
 image: https://www.thenorthernecho.co.uk/resources/images/21436275.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Darlington marketing firm MBM has landed a major international deal.

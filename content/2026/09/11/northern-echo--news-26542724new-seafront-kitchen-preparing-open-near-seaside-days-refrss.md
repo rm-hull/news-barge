@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Seafront Kitchen is set to open at Saltburn House, with its owners promising
   an authentic taste of Saltburn and a menu with something for everyone.
 image: https://www.thenorthernecho.co.uk/resources/images/21440959.jpg?type=og-image&xType=0&yType=125
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 A new restaurant is preparing to open at one of Saltburn's best-known seafront locations later this month.

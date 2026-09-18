@@ -7,6 +7,10 @@ scraped_at: '2026-09-13T13:18:01Z'
 published: '2026-09-13T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/dreamstime_118095676.webp
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 More details have been revealed about York’s upcoming new horror book shop – and they’re spine-tingling thrilling.

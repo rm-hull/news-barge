@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Daniel Thomas, known as Danny Tommo, is charged with trespass at Dover
   port to ‘film and shout at vessels arriving’
 image: https://static.independent.co.uk/2026/08/27/17/47/Danny-Tommo.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A man is facing charges of trespass and harassment after allegedly entering the Port of Dover to film and shout at boats arriving on the British coast.

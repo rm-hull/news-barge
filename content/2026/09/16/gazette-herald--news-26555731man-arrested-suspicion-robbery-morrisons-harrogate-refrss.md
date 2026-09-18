@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A 51-year-old man has been arrested on suspicion of robbery at a Morrisons
   Daily in Harrogate.
 image: https://www.gazetteherald.co.uk/resources/images/21463382.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Google Maps)*

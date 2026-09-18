@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Middlesbrough Council has unveiled new traffic restrictions, cycle lanes
   and traffic-calming measures for central and north Middlesbrough
 image: https://www.thenorthernecho.co.uk/resources/images/19414256.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: Supplied)*

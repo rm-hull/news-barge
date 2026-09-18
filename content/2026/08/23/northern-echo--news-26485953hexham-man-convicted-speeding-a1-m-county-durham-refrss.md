@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Hexham motorist Robert Justin Flaws had a conviction for failing to identify
   a driver set aside at Peterlee Magistrates’ Court before admitting…
 image: https://www.thenorthernecho.co.uk/resources/images/17255767.jpg?type=og-image&xType=0&yType=19
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: PA MEDIA)*

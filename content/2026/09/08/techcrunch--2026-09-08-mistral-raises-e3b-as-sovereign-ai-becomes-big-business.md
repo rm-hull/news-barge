@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: The French AI lab has raised €3 billion at a €21 billion valuation in
   a Series D round led by Samsung, Scaleup Europe, and PSG Equity.
 image: https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 French AI lab Mistral AI on Tuesday said it has raised €3 billion (about $3.58 billion) at a post-money valuation of more than €21 billion (about $24.39 billion), confirming earlier rumors.

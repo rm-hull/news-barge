@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Max Dowman shines with two goals against Ipswich Town - but boss Mikel
   Arteta warns Arsenal cannot rush his development.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b307/live/6c0e2650-b151-11f1-8912-fb2bed4049e7.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Max Dowman with a drinks bottle](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b307/live/6c0e2650-b151-11f1-8912-fb2bed4049e7.jpg)

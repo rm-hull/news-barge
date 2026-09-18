@@ -9,6 +9,8 @@ published: '2026-09-16T00:00:00Z'
 description: Fortify moves ExpressVPN's router-level protection onto GL.iNet's higher-performance
   Flint 2 hardware, with a year of the Advanced plan included
 image: https://cdn.mos.cms.futurecdn.net/EhxdqibmHMeyEMfrKMJA3h-2048-80.png
+categories:
+- Technology & Software
 ---
 
 ![Promo image of new ExpressVPN router, Fortify](https://cdn.mos.cms.futurecdn.net/EhxdqibmHMeyEMfrKMJA3h.png) 

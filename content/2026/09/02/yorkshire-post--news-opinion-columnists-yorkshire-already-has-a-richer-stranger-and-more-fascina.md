@@ -11,6 +11,13 @@ description: The Death of Robin Hood opens this week. Starring Hugh Jackman as t
   instance presents audiences with an especially dark, violent and brooding imagining
   of an aged Robin and his ultimate death at an island nunnery.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE2OTBiYmY4LWRlZWQtNDI1Ni1hNDI4LWZkNmZhMzU5OWUwMDpiNDU5ZDIyZi02ZjA2LTQ5NjQtYmEyZS1mMDEwOWQ3YzJhMDk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
+- Arts & Culture
+- Comedy & Entertainment
 ---
 
 # Yorkshire already has a richer, stranger and more fascinating version of the Robin Hood story - Michael Carter

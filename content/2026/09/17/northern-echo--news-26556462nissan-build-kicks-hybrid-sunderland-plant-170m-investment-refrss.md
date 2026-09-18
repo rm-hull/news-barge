@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: Nissan will build its European Kicks hybrid in Sunderland, where it has
   made cars for 40 years.
 image: https://www.thenorthernecho.co.uk/resources/images/21464355.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 *(Image: Nissan/PA Wire)*

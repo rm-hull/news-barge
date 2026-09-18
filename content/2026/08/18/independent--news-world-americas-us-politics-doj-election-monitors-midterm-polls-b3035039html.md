@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The president has repeatedly claimed elections are ‘rigged’ against Republican
   candidates — except for those they win, in most cases
 image: https://static.independent.co.uk/2026/08/18/16/2243288664..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The Department of Justice is planning to deploy the largest number of election monitors to survey the upcoming midterms — a major push as President Donald Trump promotes false claims of election fraud in the United States.

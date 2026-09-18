@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: The debt-laden retailer said it was boosted by hot weather and the World
   Cup over the latest quarter.
 image: https://static.independent.co.uk/2026/01/21/09/21090440-c8761636-3f3e-4519-9f2f-16ccfa822427.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Sports
 ---
 
 Morrisons has revealed its strongest sales growth for more than a year as the supermarket group’s turnaround gathers pace.

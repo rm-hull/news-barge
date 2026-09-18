@@ -10,6 +10,9 @@ published: '2026-09-17T00:00:00Z'
 description: The Nyrius Phoenix Home aims to clear the cables and deliver true 4K/60
   without drilling, drivers or wiring.
 image: https://cdn.mos.cms.futurecdn.net/AMsur7sY75ejvEhKJXGyd4-2048-80.png
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Image of the Nyrius Phoenix Home wireless HDMI in use in a neutrally decorated room](https://cdn.mos.cms.futurecdn.net/AMsur7sY75ejvEhKJXGyd4.png) 

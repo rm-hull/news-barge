@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Bureau of Meteorology suggests El Niño has already broken records, with
   Pacific ocean temperature change exceeding 2C in six months
 image: https://i.guim.co.uk/img/media/a2f91bc742026d2671c758ad588e2b9c73cba020/776_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eeaa507d9517be02c048010f41a3a0af
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The growing El Niño weather phenomenon to Australia’s east is already breaking heat records, with forecasts showing it will likely easily surpass previous events, according to Australia’s Bureau of Meteorology, as seperate research suggested climate change had greatly shortened the odds of the event hitting record extremes.

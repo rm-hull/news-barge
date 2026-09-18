@@ -10,6 +10,10 @@ description: TV chef Ainsley Harriott has visited Martin House Children’s Hosp
   to help prepare dinner for young people staying at the hospice and members of its
   care
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/harrietmartinhouse.webp
+categories:
+- Local
+- Harrogate
+- Lifestyle & Fashion
 ---
 
 TV chef Ainsley Harriott has visited Martin House Children’s Hospice to help prepare dinner for young people staying at the hospice and members of its care team.

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Harrogate Town AFC have completed the three-month loan signing of 23-year-old
   Leyton Orient and former Spurs midfielder Michael Craig.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Leyton-Orient-midfielder-Michael-Craig.webp
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 Harrogate Town AFC have completed the signing of Leyton Orient midfielder **Michael Craig** on a three-month loan contract. The 23-year-old arrive at the EnviroVent Stadium with extensive League One experience, boasting over 80 appearances in the third tier for both Orient and Reading. The Scotland youth international joins just in time for Town’s home double-header against Tamworth and AFC Fylde.

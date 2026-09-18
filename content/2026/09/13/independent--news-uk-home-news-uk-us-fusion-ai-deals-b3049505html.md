@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Representatives from both nations will officially seal the arrangements
   during the Global Fusion Summit taking place in London on Monday
 image: https://static.independent.co.uk/2026/07/21/00/d3f2d94185df95c6c60556d53046bcb1Y29udGVudHNlYXJjaGFwaSwxNzg0NjQyMDQ2-2.80984724.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Britain and the United States are preparing to enter into two formal agreements designed to deepen bilateral co-operation on artificial intelligence and fusion power, in an effort to accelerate a breakthrough in clean energy generation.

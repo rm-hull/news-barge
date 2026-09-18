@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: Postal Service illegally defied court orders with ‘secretive’ and ‘rushed’
   process to implement new rules, anonymous official says
 image: https://static.independent.co.uk/2026/08/31/18/2278806479..?trim=20,0,20,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 An anonymous federal official has warned members of Congress that Donald Trump’s “secretive, rushed” and “chaotic” plans for the U.S. Postal Service to implement new rules for mail-in ballots could disenfranchise millions of voters this fall.

@@ -10,6 +10,10 @@ description: 'Thirty years after Argentine cumbia star Gilda died in a tour bus 
   the beloved singer has become something more to many fans: a miracle-working folk
   saint'
 image: https://static.independent.co.uk/2026/09/08/05/Argentina_Gilda_Anniversary_37237.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 Thirty years ago this Monday, Argentina was left stunned when a tour bus carrying a beloved cumbia singer, known by her stage name Gilda, collided with a truck. Miriam Alejandra Bianchi died at age 34, but she lives on in legend as a miracle-working folk saint.

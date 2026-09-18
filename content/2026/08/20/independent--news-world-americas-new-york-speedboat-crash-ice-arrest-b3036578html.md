@@ -9,6 +9,10 @@ description: Authorities attributed the disaster to an overcrowded boat, imprope
   decision-making by Hernandez, a lack of required commercial licenses, and the failure
   to secure a life jacket on the infant
 image: https://static.independent.co.uk/2026/08/20/18/Ljs2YToyy6vcrJw0L9y1PTSSS9Q0V_u0IWVNkil2IzumzfFW_bBicJfC0wCGUYBN7Qv09eNE2TuBfpMovyewCswRqzgoJ_0SKANy..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The operator of the speedboat that capsized during a tour of the Statue of Liberty, resulting in the drowning of a mother and her infant, has been arrested by immigration authorities who allege he was in the country illegally.

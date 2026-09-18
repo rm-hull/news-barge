@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: BACK in the day, the first two weeks of August meant Wakes Week, or Factory
   Fortnight as folk called it.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21380220.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 BACK in the day, the first two weeks of August meant Wakes Week, or Factory Fortnight as folk called it.

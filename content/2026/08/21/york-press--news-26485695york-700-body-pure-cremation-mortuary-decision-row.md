@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: A row has erupted over a decision on plans for a mortuary housing 700
   bodies in York.
 image: https://www.yorkpress.co.uk/resources/images/21356002.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 ## Row erupts over 700-body mortuary plans for York decision

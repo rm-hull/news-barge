@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Private student halls are springing up in Scotland's cities in ever increasing
   numbers yet rents continue to soar.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bfd9/live/1b38fcb0-b1e6-11f1-ac01-a9af2f94b2cc.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Lara wearing glasses and a light-coloured zip-up fleece standing outdoors beneath leafy trees, with stone terraced buildings and parked cars visible in the background.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/bfd9/live/1b38fcb0-b1e6-11f1-ac01-a9af2f94b2cc.jpg)

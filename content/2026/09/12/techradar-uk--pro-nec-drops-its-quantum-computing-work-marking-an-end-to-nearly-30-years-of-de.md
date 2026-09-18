@@ -8,6 +8,9 @@ published: '2026-09-12T00:00:00Z'
 description: NEC's quantum computing retreat leaves Fujitsu gaining experienced researchers
   while the Japanese giant shifts toward applications instead
 image: https://cdn.mos.cms.futurecdn.net/vpMLrxEHJQtnxiskpWyFuZ-1600-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![A Quantum Computer Inside A Well-Lit Lab](https://cdn.mos.cms.futurecdn.net/vpMLrxEHJQtnxiskpWyFuZ.jpg) 

@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Ireland joins joins Dutch broadcaster in refusing to take part in 2027
   song contest, in second consecutive year of protests
 image: https://i.guim.co.uk/img/media/bb12c55882877de8f3159627b5ed57cef2831725/206_0_3724_2981/master/3724.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b9a3ea8d5bec9a37c092ec7652f2c4e6
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Ireland is to boycott Eurovision for the second year running over the “appalling” ongoing killing in Gaza, the national broadcaster has said.

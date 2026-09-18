@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: With direct flights taking little more than an hour, Amsterdam remains
   one of the most accessible European getaways for Teesside travellers.
 image: https://www.thenorthernecho.co.uk/resources/images/18910804.jpg?type=og-image&xType=0&yType=68
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 Just over an hour from Teesside sits one of Europe's most popular city break destinations, where visitors can find stunning canal views, independent cafés and renowned museums.

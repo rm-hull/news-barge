@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: A radiologist who's a former Fox News contributor will be facing lawmakers
   as President Donald Trump’s third nominee for surgeon general
 image: https://static.independent.co.uk/2026/09/16/12/Congress__673_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Dr. Nicole Saphier, President Donald Trump's third nominee to serve as surgeon general, will face lawmakers at her confirmation hearing Wednesday in the latest attempt to fill the post known as the nation's doctor.

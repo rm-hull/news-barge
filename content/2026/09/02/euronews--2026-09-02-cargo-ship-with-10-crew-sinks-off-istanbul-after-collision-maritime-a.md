@@ -9,6 +9,10 @@ description: The collision occurred 18 nautical miles (33 kilometres) off the Si
   district on the western edge of Istanbul province, the governor's office said on
   X.
 image: https://images.euronews.com/articles/stories/09/89/81/24/1200x675_cmsv2_64b25271-3170-551e-9962-f10454468e60-9898124.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## The collision occurred 18 nautical miles (33 kilometres) off the Silivri district on the western edge of Istanbul province, the governor's office said on X.

@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Beer lovers across Teesside have helped raise thousands of pounds for
   the Great North Air Ambulance Service by pushing barrels more than 50 miles.
 image: https://www.thenorthernecho.co.uk/resources/images/21426801.jpg?type=og-image&xType=0&yType=276
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Beer lovers across Teesside have helped raise thousands of pounds for the Great North Air Ambulance Service by pushing barrels more than 50 miles.

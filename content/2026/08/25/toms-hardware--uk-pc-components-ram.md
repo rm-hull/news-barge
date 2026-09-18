@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: RAM reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/Qdj6oxJ9H7Snacxk9ML8XD-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/Qdj6oxJ9H7Snacxk9ML8XD-320-80.jpg)

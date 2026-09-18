@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Trump officials have raised national security concerns regarding Huawei
   during his first term and pushed to counter its international expansion
 image: https://static.independent.co.uk/2026/09/11/20/57/GettyImages-2252098056-(1).jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 In a bid to expand the American technology footprint across Africa and counter Chinese market dominance, the Trump administration has issued a $99.6 million loan to Africell, the continent’s sole U.S.-owned mobile network operator.

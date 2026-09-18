@@ -9,6 +9,11 @@ description: More stretches of A-roads in East Yorkshire will go dark as thousan
   more street lights are switched off in a move aimed at helping the environment and
   saving money in the long run.
 image: https://www.yorkshirepost.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # 2,500 street lights to be switched off on A roads in Yorkshire

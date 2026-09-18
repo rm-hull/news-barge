@@ -10,6 +10,9 @@ description: An identity theft search site claimed to have more than 150 million
   license photos stolen from an ID verification service. The crime site has now shut
   down.
 image: https://techcrunch.com/wp-content/uploads/2026/09/hegseth-nexus-crime-e1788376444397.jpg?resize=1200,982
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 If you have handed over your driver’s license, passport, or other form of identity document to verify your information in the real world, like at a bar, a weed store, or when booking a car rental, there’s a good chance it’s now been stolen in a suspected massive data breach.

@@ -9,6 +9,10 @@ description: Ten days after floods devastated Nepal, one woman and one man were 
   alive on Saturday in separate search and rescue operations. Meanwhile, more than
   5,000 people remain missing and at least 1,300 were killed.
 image: https://images.euronews.com/articles/stories/09/90/24/98/1200x675_cmsv2_43a9a614-f3b5-5906-be37-ce666031cd49-9902498.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Ten days after floods devastated Nepal, one woman and one man were pulled alive on Saturday in separate search and rescue operations. Meanwhile, more than 5,000 people remain missing and at least 1,300 were killed.

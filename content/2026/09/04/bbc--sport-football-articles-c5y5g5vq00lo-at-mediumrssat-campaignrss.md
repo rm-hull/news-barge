@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: How Liverpool and Ipswich Town's players rated following their Premier
   League match.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9626/live/8030c050-a898-11f1-b29d-29a1a5e1e667.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Isak's early double gives Liverpool victory over Ipswich

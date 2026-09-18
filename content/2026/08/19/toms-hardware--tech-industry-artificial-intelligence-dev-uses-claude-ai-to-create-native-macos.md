@@ -10,6 +10,9 @@ published: '2026-08-19T00:00:00Z'
 description: '''HP never shipped a working macOS driver'' for this model, says the
   dev.'
 image: https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![HP Laser 1008a printer](https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT.jpg) 

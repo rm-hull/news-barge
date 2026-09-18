@@ -10,6 +10,10 @@ description: Maduro who has called himself a “prisoner of war” and his captu
   immunity. Their attorneys argued that only Venezuelan courts have the right to prosecute
   them.
 image: https://images.euronews.com/articles/stories/09/89/93/77/1200x675_cmsv2_87b3506b-1e86-595c-8d89-9d676a517125-9899377.jpg
+categories:
+- Europe
+- News & Politics
+- True Crime
 ---
 
 ## Maduro who has called himself a “prisoner of war” and his capture a “kidnapping” has requested all charges against him and his wife be dropped on grounds of diplomatic immunity. Their attorneys argued that only Venezuelan courts have the right to prosecute them.

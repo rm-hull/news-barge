@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: The officer who fired the fatal shot has been placed on administrative
   leave
 image: https://static.independent.co.uk/2026/09/15/23/34/donkey.png?trim=23,0,186,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A Georgia property owner is suing a Cedartown police officer who fatally shot her family’s donkey during a search operation late last month.

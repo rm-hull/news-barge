@@ -7,6 +7,11 @@ scraped_at: '2026-09-08T12:51:52Z'
 published: '2026-09-08T00:00:00Z'
 description: The European Union’s highest court ruled in IKEA’s favour on Tuesday
 image: https://static.independent.co.uk/2026/09/08/13/2267068924..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Business & Entrepreneurship
 ---
 
 The European Union’s highest court has ruled that trademark holder Inter IKEA can pursue legal action against a Belgian anti-immigration party over its use of the brand in political campaigning.

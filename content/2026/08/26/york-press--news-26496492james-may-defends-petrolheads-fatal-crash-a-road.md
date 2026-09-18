@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: James May has defended social media platforms after a fatal crash reignited
   debate over online content promoting reckless driving.
 image: https://www.yorkpress.co.uk/resources/images/20063717.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: DriveTribe)*

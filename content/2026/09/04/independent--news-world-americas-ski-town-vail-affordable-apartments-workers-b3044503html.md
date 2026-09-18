@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: ‘You should have a great view, you should have a convenient commute to
   work, you should feel like a part of this community,’ the town’s mayor said
 image: https://static.independent.co.uk/2026/09/04/0/26/639107320673370000.jpeg?trim=0,730,0,462&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The town of Vail, an exclusive ski resort in the Colorado Rockies, is building a $189 million housing complex just to give workers an affordable place to live with a short commute.

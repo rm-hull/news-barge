@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Acomb Parish Church Hall will be transformed into a family-friendly club
   night later this month.
 image: https://www.gazetteherald.co.uk/resources/images/21420663.jpg?type=og-image&xType=0&yType=108
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 *(Image: Supplied)*

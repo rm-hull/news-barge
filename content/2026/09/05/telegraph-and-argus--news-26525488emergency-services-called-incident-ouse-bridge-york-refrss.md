@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Emergency services have been called to an incident along Ouse Bridge
   in York.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21415635.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Newsquest)*

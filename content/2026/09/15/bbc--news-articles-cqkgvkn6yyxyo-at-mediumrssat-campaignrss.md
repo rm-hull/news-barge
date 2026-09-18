@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Tributes were also paid at the Emmy Awards to Dolly Parton, James Van
   Der Beek and Tim Curry.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b61e/live/aa9ca160-b0ef-11f1-8d94-cf0ec84c39cd.jpg
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 ![Macaulay Culkin, Annie Murphy and Dan Levy speak during a tribute to the late Catherine O'Hara at the Emmy Awards in Los Angeles, California](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/b61e/live/aa9ca160-b0ef-11f1-8d94-cf0ec84c39cd.jpg)

@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: A drone carrying an explosive device was discovered at the airport close
   to Ukrainian cargo planes on 4 August.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a6b5/live/bf0d1e90-a618-11f1-9ca2-a3e18de91b7b.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![A police investigator works on the tarmac with a robot capable of defusing explosives near a Ukrainian Antonov cargo plane at Leipzig/Halle Airport on 5 August](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a6b5/live/bf0d1e90-a618-11f1-9ca2-a3e18de91b7b.jpg)

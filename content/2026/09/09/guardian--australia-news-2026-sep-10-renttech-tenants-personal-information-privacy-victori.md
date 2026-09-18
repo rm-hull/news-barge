@@ -9,6 +9,12 @@ published: '2026-09-09T00:00:00Z'
 description: Some rental platforms encourage hopeful tenants to share ‘excessive’
   amount of information, Consumer Policy Research Centre review finds
 image: https://i.guim.co.uk/img/media/631cdd9e2efa637e9d8a09235ed4e7a1e72cc0f0/523_0_4333_3467/master/4333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91b53cc047cf59dfb0caab4a0865120f
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 So-called “RentTech” companies may be circumventing new Victorian laws designed to protect tenants’ personal data by asking for information outside the rental application process, a review as found.

@@ -9,6 +9,10 @@ description: Duane Davis is being accused of planning the fatal 1996 Las Vegas s
   which claimed the life of hip-hop’s rising star Tupac Shakur. Davis was the first
   to be charged in connection with the murder, after he was indicted in 2023.
 image: https://images.euronews.com/articles/stories/09/87/79/72/1200x675_cmsv2_4e0014df-3e79-5909-ac92-6e14a90e8fa3-9877972.jpg
+categories:
+- Europe
+- News & Politics
+- True Crime
 ---
 
 ## Duane Davis is being accused of planning the fatal 1996 Las Vegas shooting which claimed the life of hip-hop’s rising star Tupac Shakur. Davis was the first to be charged in connection with the murder, after he was indicted in 2023.

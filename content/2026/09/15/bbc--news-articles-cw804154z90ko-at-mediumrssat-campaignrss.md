@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The effective interest rate on US government bonds over 10 years, known
   as the 10-year Treasury yield, has risen as high as 5.04% but has eased back since.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0838/live/ae2bcee0-b12c-11f1-b199-f1c9bc04a179.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Lots of people from behind walking down a street in New York City on a sunny day](https://ichef.bbci.co.uk/ace/standard/1408/cpsprodpb/0838/live/ae2bcee0-b12c-11f1-b199-f1c9bc04a179.jpg)

@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Specsavers has submitted a planning application for the refurbishment
   of a vacant retail unit at Unit Three, 117-119 Walkergate in Beverley, the…
 image: https://www.gazetteherald.co.uk/resources/images/21463459.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: astley / East Riding of Yorkshire Council planning)*

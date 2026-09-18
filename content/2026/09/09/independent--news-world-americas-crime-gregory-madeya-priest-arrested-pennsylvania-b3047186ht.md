@@ -10,6 +10,10 @@ description: Gregory Allen Madeya, 69, was arrested in Vero Beach, Florida, last
   and extradicted to Pennsylvania, where he allegedly stole from three churches prior
   to his suspension in February 2024
 image: https://static.the-independent.com/2026/09/09/10/28/Gregory-Allen-Madeya.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A former Catholic priest has been arrested and accused of stealing $740,000 from his church, its affiliates and parishioners – and even his own mother.

@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: Timnit Gebru argues that AI companies are stoking fears of extinction
   to avoid discussing actual harms, like autonomous weapons.
 image: https://media.wired.com/photos/6aa2e16e1ef586476d0a1793/191:100/w_1280,c_limit/Backchannel-Timnit-Gebru-Business.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Here at WIRED we’ve been trying to make sense of at least two incidents in the AI industry this week: First, the major fight over a million-dollar math problem and whether OpenAI surreptitiously borrowed the work of other researchers to solve the problem first. A day later, an Anthropic researcher—who had previously worked at OpenAI—very publicly quit his job, citing concerns about how both companies were handling AI safety. Another technical staffer at Anthropic said in response that people at the company “really do earnestly believe AI could kill all humans! I personally think it is >10% within the next decade.” (Note the exclamation point.)

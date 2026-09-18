@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: The House Oversight Committee has voted to recommend holding billionaire
   Leon Black in contempt of Congress in the investigation of Jeffrey Epstein
 image: https://static.independent.co.uk/2026/09/16/01/Congress_Epstein_Leon_Black_7_989.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The House Oversight Committee voted Tuesday to recommend that billionaire Leon Black be held in contempt of Congress for failing to comply with a subpoena for testimony in the investigation of Jeffrey Epstein.

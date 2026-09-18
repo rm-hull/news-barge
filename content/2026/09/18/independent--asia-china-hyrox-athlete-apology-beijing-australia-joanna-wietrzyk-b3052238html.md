@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Joanna Wietrzyk said she is ‘deeply sorry for the discomfort and disruption’
   that her defecation caused during a Hyrox event in Beijing
 image: https://static.independent.co.uk/2026/09/14/10/02/Screenshot-2026-09-14-153607.png?trim=14,0,64,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 An Australian Hyrox athlete who went viral after soiling herself during a race in Beijing - before going on to win - has apologised and forfeited her victory.

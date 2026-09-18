@@ -9,6 +9,10 @@ description: 'Meanwhile, Spain''s interior minister called for calm after Ceuta 
   clashed with police during protests against migrants who have remained in the enclave
   following a mass influx. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/34/58/1200x675_cmsv2_cbb616c5-b14e-5ccb-ad11-5b6eb696474a-9893458.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Meanwhile, Spain's interior minister called for calm after Ceuta residents clashed with police during protests against migrants who have remained in the enclave following a mass influx.

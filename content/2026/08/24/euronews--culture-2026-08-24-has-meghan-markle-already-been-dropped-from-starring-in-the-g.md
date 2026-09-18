@@ -10,6 +10,11 @@ description: There has been speculation that Meghan Markle was set to make her r
   The Gentlemen was on the table... and has now apparently been withdrawn “after intense
   backlash in the UK”...
 image: https://images.euronews.com/articles/stories/09/88/64/38/1200x675_cmsv2_bb3a4bf3-042f-503c-a0e2-28e9782d310e-9886438.jpg
+categories:
+- Europe
+- News & Politics
+- Comedy & Entertainment
+- Film & TV
 ---
 
 ## There has been speculation that Meghan Markle was set to make her return to acting following her return to the UK. A rumoured role in Guy Ritchie’s show The Gentlemen was on the table... and has now apparently been withdrawn “after intense backlash in the UK”...

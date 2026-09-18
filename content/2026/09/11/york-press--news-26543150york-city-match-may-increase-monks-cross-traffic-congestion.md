@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: The local authority said York City's EFL Division Two fixture versus
   Swindon Town kicking off at 3pm at the LNER Community Stadium could…
 image: https://www.yorkpress.co.uk/resources/images/17728389.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
+- News & Politics
 ---
 
 ## Heavy traffic expected around York shopping park this weekend, council says

@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A BUS operator has been criticised by campaigners after being awarded
   a major contract under a new transport scheme.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21346480.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

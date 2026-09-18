@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: The road was closed for several hours while officers investigated the
   circumstances of the crash
 image: https://static.independent.co.uk/2021/11/12/22/GettyImages-1127748001.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Three people have been arrested after a car hit three cyclists on a road, killing two of the riders.

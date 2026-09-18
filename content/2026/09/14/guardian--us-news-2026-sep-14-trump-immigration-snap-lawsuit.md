@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: The policy allows immigration officers the authority to deny green cards
   to those using public benefits
 image: https://i.guim.co.uk/img/media/490b681f87124fc3052dc664118a9d9f5075666e/698_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d888e2f37d26b181570c9c0369349a3e
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A coalition of 22 states and the District of Columbia sued the Trump administration on Monday over a new policy that would allow individual immigration officers to deny green cards based on use of public benefits.

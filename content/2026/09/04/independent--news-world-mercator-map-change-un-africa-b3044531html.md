@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Africa-led campaign asks governments, schools and tech firms to move
   away from the centuries-old Mercator projection
 image: https://static.independent.co.uk/2025/08/14/10/19/mercator-projection-map.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Business & Entrepreneurship
 ---
 
 The UN general assembly is due to vote on a resolution calling for the world to move away from the traditional Mercator map, which shrinks the size of Africa and exaggerates northern landmasses, in favour of designs that more accurately reflect the true size of countries.

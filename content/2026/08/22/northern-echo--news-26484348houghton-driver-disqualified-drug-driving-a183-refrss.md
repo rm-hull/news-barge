@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Stephanie Goodall, of Houghton-le-Spring, has been banned from driving
   for 12 months after admitting a drug-driving offence in County Durham, Newton…
 image: https://www.thenorthernecho.co.uk/resources/images/20765304.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: Newsquest)*

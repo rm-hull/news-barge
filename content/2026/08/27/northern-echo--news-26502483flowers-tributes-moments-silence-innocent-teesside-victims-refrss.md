@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: Tributes have been paid to an innocent child and her aunt who died in
   a house fire, as Teesside also fell silent to remember two police officers…
 image: https://www.thenorthernecho.co.uk/resources/images/21381990.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- Arts & Culture
 ---
 
 Tributes have been paid to an innocent child and her aunt who died in a house fire, as Teesside also fell silent to remember two police officers killed in the line of duty.

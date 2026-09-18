@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Traffic is building on the A19 Northbound near the Osmotherley and Ellerbeck
   turnings following reports of a crash.
 image: https://www.thenorthernecho.co.uk/resources/images/21377265.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 - Good afternoon, welcome to this Northern Echo live breaking news blog.

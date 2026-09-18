@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: The man ‘aggressively shoved his way through the crowd’ and was armed
   with two pistols, the sheriff says
 image: https://static.the-independent.com/2026/09/07/08/2026-09-07T015951Z_1645008419_RC2UDNAOC8BA_RTRMADP_3_USA-POLITICS-ATTACKS.JPG?trim=50,0,50,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A man armed with pistols and brass knuckles has been arrested after lunging at a Democratic gubernatorial candidate at a county fair in Ohio.

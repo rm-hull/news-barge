@@ -10,6 +10,9 @@ description: On our new Real World AI stage, we’ll be focusing on the intersec
   between the digital and physical, and all the ways we’ll continue to see a blending
   of the two.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200
+categories:
+- Technology & Software
+- Science
 ---
 
 At our past TechCrunch Disrupt events, AI has taken center stage, both throughout our programming and in a stage of its own. This year, the technology, implications, and players are so rapidly developing and widespread that we’re expanding the single AI stage into two!

@@ -9,6 +9,8 @@ published: '2026-09-03T00:00:00Z'
 description: Sam Altman’s smart glasses confession is a huge clue about OpenAI’s hardware
   plans
 image: https://cdn.mos.cms.futurecdn.net/o3fZbP7CRSPBqyzSX9nZPW-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Jony Ive and Sam Altman](https://cdn.mos.cms.futurecdn.net/o3fZbP7CRSPBqyzSX9nZPW.jpg) 

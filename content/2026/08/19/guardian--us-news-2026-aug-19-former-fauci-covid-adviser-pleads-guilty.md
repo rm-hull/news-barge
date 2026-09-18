@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: David Morens confessed to concealing government documents linked to grant
   research funding
 image: https://i.guim.co.uk/img/media/30004bf800ed70629918451e1f2e0a1d84b5cca7/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9bc0526f2b60fb90295b42613528a3f2
+categories:
+- UK
+- News & Politics
 ---
 
 A former adviser to infectious disease expert Anthony Fauci pleaded guilty on Tuesday to conspiring to evade public records laws and conceal government documents related to grant research funding and the Covid-19 pandemic.

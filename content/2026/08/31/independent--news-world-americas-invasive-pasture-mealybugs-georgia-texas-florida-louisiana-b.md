@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The invasive bugs can be anywhere from 1 millimeter to 5 millimeters
   long
 image: https://static.independent.co.uk/2026/08/31/16/36/Pasture-mealybugs.jpeg?trim=198,0,52,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A tiny invasive insect that officials say is a “serious threat” to local agriculture has been spotted in several Southern US states.

@@ -8,6 +8,8 @@ scraped_at: '2026-09-08T19:26:04Z'
 published: '2026-09-08T00:00:00Z'
 description: Liquid Network is still disrupted, but users can breathe a sigh of relief
 image: https://cdn.mos.cms.futurecdn.net/UweTPZX99rMmYJQoBvPT44-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Bitcoin](https://cdn.mos.cms.futurecdn.net/UweTPZX99rMmYJQoBvPT44.jpg) 

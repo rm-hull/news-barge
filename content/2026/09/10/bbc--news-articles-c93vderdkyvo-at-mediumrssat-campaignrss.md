@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: Cancer care has got worse since the government announced plans to speed
   up waiting times and save more lives, BBC analysis shows.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4465/live/866c8070-ac68-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![An older man wearing a black polo shirt, sits at a restaurant table with views of the countryside. He is smiling at the camera.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/4465/live/866c8070-ac68-11f1-a540-61c3f7fc4e6c.jpg)

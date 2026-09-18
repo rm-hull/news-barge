@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Ten Harrogate cyclists complete the grueling La Lapébie event in twin
   town Bagnères-de-Luchon, tackling 3,380m of climbing in extreme 36C heat.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/bikers-10.webp
+categories:
+- Local
+- Harrogate
+- Travel
+- Sports
 ---
 
 **HARROGATE** — A coordinated contingent of regional endurance athletes has returned from the French Pyrenees after completing one of Europe’s most challenging mountain cyclosportives to commemorate a historic international civic partnership.

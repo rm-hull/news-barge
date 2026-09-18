@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: British Prime Minister Andy Burnham announces the U.K. will help Ukraine
   make its own long-range missiles
 image: https://static.independent.co.uk/2026/08/24/15/Russia_Ukraine_War_Britain_851_1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 British Prime Minister Andy Burnham said Monday that the U.K. will help Ukraine make its own long-range missiles by sharing classified technical information for British components.

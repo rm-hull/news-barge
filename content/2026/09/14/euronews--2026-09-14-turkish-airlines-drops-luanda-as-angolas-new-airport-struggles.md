@@ -10,6 +10,10 @@ description: The Istanbul carrier permanently axed Luanda, along with four other
   its new airport opened in 2023. The facility was built for 15 million annual passengers
   but handled fewer than 800,000 in 2025.
 image: https://images.euronews.com/articles/stories/09/91/27/95/1200x675_cmsv2_185bbf21-ac42-5295-ae4e-666739373c1b-9912795.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## The Istanbul carrier permanently axed Luanda, along with four other African routes, becoming the latest international airline to exit the Angolan capital since its new airport opened in 2023. The facility was built for 15 million annual passengers but handled fewer than 800,000 in 2025.

@@ -8,6 +8,8 @@ published: '2026-08-30T00:00:00Z'
 description: Preinstalled bloatware on our laptops is getting out of hand, but Windows
   11 isn't helping.
 image: https://cdn.mos.cms.futurecdn.net/dSSb9s3nydFSpsbC2cT2tX-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![design composite of a laptop in use](https://cdn.mos.cms.futurecdn.net/dSSb9s3nydFSpsbC2cT2tX.jpg) 

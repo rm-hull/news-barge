@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: His arrest as his son was entering his ninth month on the USS Abraham
   Lincoln sparked intense backlash
 image: https://static.independent.co.uk/2026/08/25/21/EEUU-MARINERO-PADRE_ARRESTADO_4_269.jpg?trim=0,0,68,103&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The father of a sailor onboard the troubled USS Abraham Lincoln has been released from ICE custody after his arrest sparked intense backlash.

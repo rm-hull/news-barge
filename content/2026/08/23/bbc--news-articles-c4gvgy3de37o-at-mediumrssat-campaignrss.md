@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: PC Matthew Blades and PC Tom Clough died when a car driving the wrong
   way on the A66 near Middlesbrough struck their vehicle.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png
+categories:
+- UK
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 ![Pictures of the two officers. Both are smiling. PC Blades has smart stubble and short fair hair. PC Clough also has stubble and short dark hair.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png)

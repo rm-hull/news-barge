@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: BBC Sport takes a look at some of the Premier League's greatest opening-day
   debuts, including Alan Shearer's Blackburn blinder and Michu's Swansea screamers.
 image: https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a20c/live/89ac3320-9bf6-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 # Aguero and Shearer star in best opening-round debuts

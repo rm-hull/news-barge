@@ -9,6 +9,11 @@ description: 'In today’s newsletter: No Bayeux ticket? Everything you need to 
   about the sold-out exhibition – from its epic journey to London to a Game of Thrones
   likeness'
 image: https://i.guim.co.uk/img/media/6630095a4c8605c0965d5051b3c9954ee9794d71/574_0_3997_3199/master/3997.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=df99e8714a41c74517cbb22ba5466fc4
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 Good morning. If you live in the UK, you have probably heard about the Bayeux tapestry exhibition, which opens today, and you probably haven’t got a ticket. The digital queue was nine-hours long when they first went on sale in July, and the exhibition has already broken the British Museum’s record for the number of tickets sold in a single day.

@@ -7,6 +7,10 @@ scraped_at: '2026-08-30T19:18:41Z'
 published: '2026-08-30T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/04/crash-a64-bilbrough-top-28-apr-2026-matthew-hodgson-2.webp
+categories:
+- Local
+- York
+- Automotive
 ---
 
 The A64 eastbound was closed on the a64 at York this lunchtime with no cars moving.

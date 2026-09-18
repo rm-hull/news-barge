@@ -9,6 +9,10 @@ description: A looming 22 percent benefit cut is driving midterm voters to deman
   solutions — because lawmakers elected this cycle will still be in office when trust
   funds deplete in late 2032, voters say candidates cannot ignore the crisis
 image: https://static.independent.co.uk/2026/09/17/20/14/GettyImages-1346574062.jpeg?trim=0,183,0,182&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A vast majority of voters in key Senate battleground states favor candidates who present explicit plans to reform Social Security over those who pledge to leave the program untouched, according to research conducted by the Peterson Foundation.

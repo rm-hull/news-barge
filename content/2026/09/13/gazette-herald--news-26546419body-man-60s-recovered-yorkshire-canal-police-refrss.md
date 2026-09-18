@@ -7,6 +7,11 @@ scraped_at: '2026-09-13T18:46:29Z'
 published: '2026-09-13T00:00:00Z'
 description: A body has been recovered from Ripon Canal.
 image: https://www.gazetteherald.co.uk/resources/images/21448384.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 *(Image: Peter Byrne/PA Wire)*

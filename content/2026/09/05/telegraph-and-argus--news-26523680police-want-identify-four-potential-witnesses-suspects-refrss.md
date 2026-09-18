@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Here's a round-up of potential witnesses and suspects sought by police
   in connection with alleged crimes in Bradford and the wider district.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21412779.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: WYP)*

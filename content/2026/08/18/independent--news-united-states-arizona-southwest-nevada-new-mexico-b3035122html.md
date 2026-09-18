@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: The evaporative cooler was an essential invention perfected in the U.S.
   before central air conditioning became mainstream
 image: https://static.independent.co.uk/2026/08/18/18/America_25__Objects_Swamp_Cooler_381_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Before air conditioning spread across the United States, before temperatures increased and the world heated up, people in the Southwest sweltered.

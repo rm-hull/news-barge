@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A call for support in York to ban forms of religious animal slaughter
   has been branded a thinly-veiled racist attack.
 image: https://www.gazetteherald.co.uk/resources/images/20722230.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 A CALL for support in York to ban forms of religious animal slaughter has been branded a thinly-veiled racist attack.

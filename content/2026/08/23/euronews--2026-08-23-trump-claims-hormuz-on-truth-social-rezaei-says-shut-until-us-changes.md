@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Rezaei told Iranian state TV that the Strait of Hormuz is closed, despite
   US claims, and will not reopen until America changes its 'behaviour'.
 image: https://images.euronews.com/articles/stories/09/86/77/14/1200x675_cmsv2_e8cfdf20-ad74-5ed1-bb17-995cab5f2d2b-9867714.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Rezaei told Iranian state TV that the Strait of Hormuz is closed, despite US claims, and will not reopen until America changes its 'behaviour'.

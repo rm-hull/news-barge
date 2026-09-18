@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: As the new school year kicks in, the debate around student AI use is
   raging
 image: https://static.independent.co.uk/2026/08/21/05/Education_AI_Literacy_97581.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Education & Learning
 ---
 
 Millions of students every day turn to AI chatbots for help with schoolwork, emotional support and personal advice — often unaware of where their conversations and other personal information end up.

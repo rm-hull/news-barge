@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: The council has resumed fridge and freezer acceptance at its Wallsend
   Road site and reopened bulky-waste collection bookings for the appliances.
 image: https://www.thenorthernecho.co.uk/resources/images/21374666.jpg?type=og-image&xType=0&yType=141
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Google Maps)*

@@ -11,6 +11,10 @@ description: Ahead of The Independent’s Climate 100 List being published later
   – now, Brockovich tells David Callaway, her attention has turned to the burgeoning
   issue of data centres
 image: https://static.independent.co.uk/2026/09/10/14/13/erin-brockovich.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 It’s been more than 30 years since Erin Brockovich made history – and had a movie made after her – for standing against one of America’s largest power companies and winning a $333m groundwater pollution suit for a small California town. People still email her with environmental concerns.

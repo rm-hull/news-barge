@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Farming lobby says shoppers will see emptier shelves and higher prices
   because of restrictions on backpackers
 image: https://i.guim.co.uk/img/media/597d7efcc5301fe1f966c3566d48138ae1a668b7/617_0_6713_5373/master/6713.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4691d388493e288c45e5707195fd99ca
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 The farming lobby’s claim that immigration rule changes will increase food prices for households is wrong, Tony Burke has said, describing moves to speed up processing of backpacker visas as a positive step for agriculture.

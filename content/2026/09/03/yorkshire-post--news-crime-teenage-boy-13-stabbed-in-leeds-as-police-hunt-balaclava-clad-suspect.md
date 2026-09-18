@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: A 13-year-old boy suffered a significant stab wound in what police believe
   was a targeted attack in Leeds.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/03/8/05/Shepherds-Lane-Leeds.png?trim=0,37,0,37&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # Teenage boy, 13, stabbed in Leeds as police hunt balaclava-clad suspect

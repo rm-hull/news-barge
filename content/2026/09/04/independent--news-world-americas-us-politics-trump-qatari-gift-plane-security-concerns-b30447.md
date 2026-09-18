@@ -8,6 +8,9 @@ published: '2026-09-04T00:00:00Z'
 description: The decision comes after Trump said in July that the plane would be taken
   out of service and ‘maxed out’ with additional security upgrades
 image: https://static.independent.co.uk/2026/07/20/11/2283706530..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump plans to fly to Ireland next week on the Boeing 747 donated by Qatar, despite concerns over its security and unfinished upgrades, a senior White House official told the *Washington Post*.

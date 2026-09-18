@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: Former President Joe Biden has confirmed his attendance at the New York
   City memorial event, while Trump will be at the Pentagon
 image: https://static.independent.co.uk/2026/09/02/12/57/GettyImages-2281591012.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 All four living former presidents have confirmed plans to attend the 25th anniversary of the September 11, 2001 terrorist attacks in New York City, which President Donald Trump will skip, reportedly because he would not be allowed to make a speech.

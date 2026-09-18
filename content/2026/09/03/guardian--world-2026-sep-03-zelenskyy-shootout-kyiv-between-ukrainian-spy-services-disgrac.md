@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Domestic security service says clash with military intelligence directorate
   ‘definitely shouldn’t have happened’
 image: https://i.guim.co.uk/img/media/5e1e5326ce6691927b07811b7906004d8467dd4b/140_9_2607_2085/master/2607.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=35658082e6d4c40d0f83076f1ead76da
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Several people have been injured in a shootout in central Kyiv between two branches of Ukraine’s security services, in an incident Volodymyr Zelenskyy described as “disgraceful”.

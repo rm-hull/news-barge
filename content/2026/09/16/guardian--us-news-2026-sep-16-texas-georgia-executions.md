@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Texas execution would be the fifth in the state, while Georgia has yet
   to put anyone to death this year
 image: https://i.guim.co.uk/img/media/d0c4167e5ef6a06aed92fd32cb06e112108431b0/270_0_3854_3083/master/3854.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c07599e32c2bb941dfbd16120ea80033
+categories:
+- UK
+- News & Politics
+- History
+- True Crime
 ---
 
 A man convicted in the shooting deaths of three people is set to be executed Wednesday in Texas. Meanwhile, another execution that was scheduled for the same time in Georgia has been halted by a judge.

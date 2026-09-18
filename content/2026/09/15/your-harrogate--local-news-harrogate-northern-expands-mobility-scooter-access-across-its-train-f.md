@@ -9,6 +9,10 @@ description: Passengers using mobility scooters across North Yorkshire will now 
   able to travel on every type of train in Northern’s fleet, provided they have a
   free permit and their scooter meets the relevant requirements.
 image: https://mmo.aiircdn.com/409/6aa937b02bfc47273f7.jpg
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa937b02bfc47273f7.jpg) 

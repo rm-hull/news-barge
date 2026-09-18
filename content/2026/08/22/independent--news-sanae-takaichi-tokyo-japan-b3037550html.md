@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Japanese Prime Minister Sanae Takaichi has been increasingly seen secluding
   herself at home
 image: https://static.independent.co.uk/2026/08/22/15/Japan_Official_Residence__4_3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Japanese Prime Minister Sanae Takaichi, who is increasingly seen secluding herself at home, said on Saturday that she is using her official residence next to her office more for work to maximize efficiency.

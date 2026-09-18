@@ -10,6 +10,12 @@ description: Various governments have touted RAF Linton-on-Ouse as a sensible so
   to ending the use of migrant hotels. However, that is clearly undermined by the
   lack of infrastructure around the site.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmMxYzZhZmFlLTFmM2EtNGRmYi05MWJhLWIzOGRhNGY0ZjM4NjowNGMzMzQzOC01OTJiLTQzZjgtOTVkNi05MzFjYTRlMWJhMDM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- News & Politics
 ---
 
 # Water supply uncertainty another reason to ditch Linton-on-Ouse asylum centre plans

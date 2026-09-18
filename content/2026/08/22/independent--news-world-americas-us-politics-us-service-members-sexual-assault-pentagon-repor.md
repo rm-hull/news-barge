@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: The report marks another year of improving trends in the effort to tackle
   sexual assault in the military
 image: https://static.independent.co.uk/2026/08/22/01/2290604372..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A Pentagon report released on Friday shows an increase in U.S. service members reporting unwanted sexual contact to authorities. Although more personnel are now willing to step forward, the overall frequency of these incidents has dropped over the past year.

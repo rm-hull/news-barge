@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: North Yorkshire Police have launched a search for a missing woman from
   York.
 image: https://www.yorkpress.co.uk/resources/images/21341936.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: North Yorkshire Police)*

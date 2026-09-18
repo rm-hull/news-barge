@@ -9,6 +9,12 @@ published: '2026-08-30T00:00:00Z'
 description: The family of murdered County Durham toddler Maya Chappell have spoken
   of their relief after the Government confirmed her mother will be blocked…
 image: https://www.thenorthernecho.co.uk/resources/images/21389443.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- Family & Parenting
 ---
 
 The family of murdered County Durham tot Maya Chappell have spoken of their relief at changes to the Government's early release scheme which will keep her mum behind bars.

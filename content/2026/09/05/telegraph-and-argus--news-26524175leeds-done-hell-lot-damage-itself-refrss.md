@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: Recent roadworks in Leeds have done a “hell of a lot of damage” to the
   city centre and are encouraging Bradford residents to shop elsewhere –…
 image: https://www.thetelegraphandargus.co.uk/resources/images/16383881.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 RECENT roadworks in Leeds have done a “hell of a lot of damage” to the city centre and are encouraging Bradford residents to shop elsewhere – a local councillor has claimed.

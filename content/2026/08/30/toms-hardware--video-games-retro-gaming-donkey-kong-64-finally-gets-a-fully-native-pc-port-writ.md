@@ -8,6 +8,10 @@ scraped_at: '2026-08-30T19:17:49Z'
 published: '2026-08-30T00:00:00Z'
 description: All without the use of AI.
 image: https://cdn.mos.cms.futurecdn.net/g9mwqfQ48c4bbCPufZvAWh-2452-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Donkey Kong 64: Recompiled](https://cdn.mos.cms.futurecdn.net/g9mwqfQ48c4bbCPufZvAWh.png) 

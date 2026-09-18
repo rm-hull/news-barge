@@ -10,6 +10,13 @@ description: Market traders have welcomed the restoration of one of the most rec
   landmarks in a North Yorkshire town and said it had given the area ‘a new lease
   of life’.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmIyZjhjYmNlLTc1ZGQtNDVhMC04YzJiLTc0ZWM1ZDU5ZWJjMjpkOTA2ZWQ5My0xY2FmLTRjNWItYWE0Ni01NTdiODllNWE5NTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- History
 ---
 
 # 'Unlike any other’ - Traders return to historic Yorkshire market after £1.3m restoration

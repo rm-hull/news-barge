@@ -7,6 +7,10 @@ scraped_at: '2026-09-16T13:28:22Z'
 published: '2026-09-16T00:00:00Z'
 description: A teenager has been taken to hospital following a reported assault.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20318582.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Newsquest)*

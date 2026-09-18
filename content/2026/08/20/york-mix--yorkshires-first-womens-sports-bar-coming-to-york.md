@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T16:47:48Z'
 published: '2026-08-20T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/york-68-gillygate-hera-women-sports-bar-plan-ldrs.webp
+categories:
+- Local
+- York
+- Sports
 ---
 
 A venue claiming to be the first women’s sports bar and café in Yorkshire is coming to York.

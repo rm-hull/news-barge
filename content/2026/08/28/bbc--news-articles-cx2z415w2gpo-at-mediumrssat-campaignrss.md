@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Some of the most dramatic footage from the deadly flash flooding is hidden
   from public view in China.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 Video shows scale of flash flood hitting Nepal-Tibet border

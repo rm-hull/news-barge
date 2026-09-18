@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The condensed two-week runoff campaign has proved contentious following
   an August 11 primary that saw both candidates emerge at the top of the field
 image: https://static.independent.co.uk/2026/08/25/10/2291352144..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 South Carolina Republicans return to the polls on Tuesday to decide a high-stakes U.S. Senate primary runoff, choosing between Sen. Darline Graham and U.S. Rep. Ralph Norman just one month after the sudden death of Lindsey Graham.

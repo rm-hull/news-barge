@@ -10,6 +10,10 @@ published: '2026-08-27T00:00:00Z'
 description: Rainbow Six Tactics game director Martial Potron has confirmed players
   won't be able to achieve a 100% non-lethal playthrough.
 image: https://cdn.mos.cms.futurecdn.net/8WiMX9df6Y6aYWLRAkDx7E-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
+- Sports
 ---
 
 ![Rainbow Six Tactics](https://cdn.mos.cms.futurecdn.net/8WiMX9df6Y6aYWLRAkDx7E.jpg) 

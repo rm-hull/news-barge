@@ -11,6 +11,10 @@ description: Video. From horse-drawn ploughs to autonomous tractors, Ireland’s
   modern farming, serving as a vital meeting point for the wider European agricultural
   community.
 image: https://images.euronews.com/articles/stories/09/91/75/89/1200x675_cmsv2_001382a6-0470-5f80-9c84-b5ef8b5f1dd6-9917589.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 The 95th edition took place at Screggan, near Tullamore in County Offaly, from **15 to 17 September**, drawing more than** 350 competitors**and** tens of thousands of visitors** from Ireland and across the EU.

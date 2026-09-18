@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: TV star Amanda Owen is continuing work to transform a derelict Yorkshire
   Dales farmhouse into a family home.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20165023.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
 ---
 
 TV star Amanda Owen and her family are continuing work to transform a derelict Yorkshire Dales farmhouse into a family home.

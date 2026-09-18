@@ -7,6 +7,11 @@ scraped_at: '2026-08-26T13:11:25Z'
 published: '2026-08-26T00:00:00Z'
 description: 'From: Peter Brown, Cleckheaton.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE2ZGE1YWEwLWY5MTItNDQ0Yy04NjYxLTY2ODI5NjI5MDM4ODpkZjJmMzk3Zi1hYWVhLTQ1NTQtYTkyNy1jMzNmM2Y3NzEyYmM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Clacton by-election was not a reflection of EU support - Yorkshire Post Letters

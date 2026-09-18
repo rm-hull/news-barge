@@ -9,6 +9,11 @@ description: Volkswagen shares rose 6% on Friday after the company’s board of 
   approved sweeping cost cuts aimed at confronting challenges including ferocious
   Chinese competition and US tariffs
 image: https://static.independent.co.uk/2026/09/03/21/Germany_42175.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Volkswagen shares rose 6% on Friday after its board of directors approved sweeping cost cuts aimed at confronting challenges including ferocious Chinese competition and US tariffs.

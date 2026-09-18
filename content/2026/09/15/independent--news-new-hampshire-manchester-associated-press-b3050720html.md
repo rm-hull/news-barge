@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: A mistrial has been declared in the case of a former New Hampshire youth
   detention center worker charged with repeatedly raping a teenage boy
 image: https://static.independent.co.uk/2026/09/15/18/Youth_Center_Abuse_26836.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A New Hampshire judge declared a mistrial Tuesday in the case of a former youth detention center worker charged with repeatedly raping a teenage boy after his accuser briefly testified about allegations involving other staff.

@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Daniel Thomas claims to have organised a protest against migrants in
   Dover which saw dozens of men in black clothes and balavlavas block roads
 image: https://static.independent.co.uk/2026/09/07/16/01M1Y63Q5GA0TBF0ZN9XWRR7KD.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The founder of a group of protesters who blocked roads in Dover on Saturday has confronted Reform UK’s Zia Yusuf, telling him his party leader Nigel Farage needs to be “careful with his words”.

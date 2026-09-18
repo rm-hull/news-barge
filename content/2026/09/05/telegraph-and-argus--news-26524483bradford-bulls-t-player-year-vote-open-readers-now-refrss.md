@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: BRADFORD Bulls hold their end of season awards at the Cedar Court Hotel
   on Friday, September 18, but who do you want to see named T&A Player of…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21414041.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 *(Image: Tom Pearson)*

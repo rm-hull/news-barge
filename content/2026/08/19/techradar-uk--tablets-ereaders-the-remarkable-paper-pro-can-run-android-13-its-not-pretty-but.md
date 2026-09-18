@@ -8,6 +8,9 @@ scraped_at: '2026-08-19T21:31:48Z'
 published: '2026-08-19T00:00:00Z'
 description: You could say this project is... remarkable...
 image: https://cdn.mos.cms.futurecdn.net/K4qRABUBJWfvNXgEvDcT4S-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![reMarkable Paper Pro writing tablet](https://cdn.mos.cms.futurecdn.net/K4qRABUBJWfvNXgEvDcT4S.jpg) 

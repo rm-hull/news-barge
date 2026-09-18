@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Beijing is tightening its drone ban to include possession within city
   limits
 image: https://static.independent.co.uk/2026/09/13/09/Beijing_Drones_54179.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Beijing is banning the possession of drones within city limits in new rules announced Sunday that further tighten its regulations on drones, which already include a May ban on sales of the devices. The ban on possession will come into effect in mid-November.

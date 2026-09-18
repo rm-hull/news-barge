@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Retailer’s message is ‘fashion with a small f’ as it picks up on trends
   and brings styles for everyone to debut runway show
 image: https://i.guim.co.uk/img/media/ab4a22941ebfa92a4b3940226cd1f8cdf6a209d6/306_0_3057_2445/master/3057.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7efc562fa36cd8cca0c81d0273fc5d03
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Lifestyle & Fashion
 ---
 
 Joan Collins declared the coats “very chic”, and has her eye on a graceful ivory evening dress with caped shoulders. Kemi Badenoch plans to snap up the classic black tuxedo jacket. If the British public are as enthusiastic as the celebrity front row, Marks & Spencer’s first ever London fashion week catwalk looks like a hit.

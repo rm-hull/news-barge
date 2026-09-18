@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: In London, defence stocks were among the worst performers in the FTSE
   100 amid uncertainty over government spending.
 image: https://static.independent.co.uk/2026/08/28/17/136cd5623fec99502d7c3b009212d561Y29udGVudHNlYXJjaGFwaSwxNzg4MDE5MzM0-2.71822086.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Stock prices in London closed higher on Friday, joining a broader rally across European and US equities, while Federal Reserve chairman Kevin Warsh’s inflation warning boosted expectations for higher US interest rates.

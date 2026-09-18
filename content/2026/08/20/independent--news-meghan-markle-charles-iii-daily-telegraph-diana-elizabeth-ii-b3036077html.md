@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Prince Harry and his wife, Meghan, will return to the United Kingdom,
   seemingly marking an end to a yearslong rift with the royal family
 image: https://static.independent.co.uk/2026/08/20/05/Britain_Prince_Harry_Timeline__48_3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Prince Harry and his wife, Meghan, will return to the United Kingdom, seemingly marking the end to a yearslong rift between them and the royal family.

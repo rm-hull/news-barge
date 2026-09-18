@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Residents of Mansouri in southern Lebanon are witnessing the destruction
   of their village by Israeli drones
 image: https://static.independent.co.uk/2026/09/11/14/Lebanon_Israel_War_62699.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A group of men and children gathered Friday at a vantage point overlooking their village in southern Lebanon, watching from a distance as Israeli drones descended, carrying boxes laden with explosives to be dropped on houses.

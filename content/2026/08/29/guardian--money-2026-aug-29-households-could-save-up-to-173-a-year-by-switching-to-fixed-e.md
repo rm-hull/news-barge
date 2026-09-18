@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Moving tariffs will cushion the blow from the October price cap rise
   and the increase widely predicted for January
 image: https://i.guim.co.uk/img/media/dfcddaef1fd008f51fcf6bb82943f25fbdd90140/278_0_2444_1957/master/2444.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2baa7c57728dc21aebc6de5cb23e6aa2
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 With higher energy bills looming and warnings of worse to come in the new year, many households could save up to £173 a year by switching to a fixed deal.

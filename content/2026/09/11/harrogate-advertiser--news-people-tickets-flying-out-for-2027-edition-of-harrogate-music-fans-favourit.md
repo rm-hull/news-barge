@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Tickets sales for a family-friendly summer event often called Harrogate
   fans’ favourite music festival are already flying out for next year.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjM0NGY0ZGFkLWI0N2ItNGNiZS1iY2EwLTBlYzEwZjYzZGMxODowYjY3NWYxZi0yYTgzLTQ5MTctOTg3MS0wNGE3OGFiMmJjZmU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 # Tickets flying out for 2027 edition of Harrogate music fans' favourite music festival

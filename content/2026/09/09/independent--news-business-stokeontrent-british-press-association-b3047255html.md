@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: It comes after the Stoke-on-Trent-based group, which is made up of several
   companies, said it was exploring a possible sale in August.
 image: https://static.independent.co.uk/2026/09/09/12/70cdb14e021e39fbe5b88729f4efa63aY29udGVudHNlYXJjaGFwaSwxNzg5MDM5ODMx-2.79169244.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 British engineering firm Goodwin has struck a £1.1 billion deal to sell parts of its business, which supplies components for submarines and naval vessels.

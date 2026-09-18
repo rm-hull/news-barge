@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Fact-finding mission says military strikes on school in Minab and sports
   facility in February constitute war crimes
 image: https://i.guim.co.uk/img/media/74ac2ef9d7e4902b853910136d3db05f4d35e2ae/402_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06c29d4b974fabb05577f1fc8478091b
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 A UN fact-finding mission has determined there are reasonable grounds to believe the US was behind military strikes on a school and a sports facility in Iran in February that killed 120 children, and that these constituted war crimes.

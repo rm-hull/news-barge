@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Longer-term measures to reduce travellers' access to a famous piece of
   Calderdale open space are being considered, says a council.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21422238.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 LONGER-TERM measures to reduce travellers’ access to a famous piece of Calderdale open space are being considered, says a council.

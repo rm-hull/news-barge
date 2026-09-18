@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Amy, not her real name, has told the BBC how her family and friends sent
   crucial evidence to police which led to the arrest of rapist Christopher Malcolm.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea88/live/a79787c0-ad0a-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A selfie of two people standing in front of snow-covered trees. The person on the left has their face blurred. The man on the right is smiling, and wearing a beige hoodie under a black North Face puffer jacket.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ea88/live/a79787c0-ad0a-11f1-b1d1-571ed4d7ff2c.jpg)

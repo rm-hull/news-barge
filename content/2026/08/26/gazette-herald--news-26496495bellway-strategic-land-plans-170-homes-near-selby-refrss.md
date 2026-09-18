@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Bellway Strategic Land put forward outline proposals to North Yorkshire
   Council on July 27 for the development on a 23-acre site in Brayton, near…
 image: https://www.gazetteherald.co.uk/resources/images/19206492.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 ### What is the Public Notice Portal?

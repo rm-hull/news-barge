@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: CrossCountry hopes to run a full train service today (August 24) after
   a power cut caused major disruption on Sunday.
 image: https://www.yorkpress.co.uk/resources/images/21360935.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 *(Image: Getty)*

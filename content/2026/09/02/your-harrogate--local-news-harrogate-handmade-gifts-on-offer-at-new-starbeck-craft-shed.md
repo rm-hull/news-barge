@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: A garden shed filled with handmade gifts, decorations and trinkets has
   opened in Starbeck.
 image: https://mmo.aiircdn.com/409/6a97bfe89359dfdd858.jpg
+categories:
+- Local
+- Harrogate
+- Arts & Culture
+- Home, Garden & DIY
+- Crafts & Hobbies
 ---
 
 ![](https://mmo.aiircdn.com/409/6a97bfe89359dfdd858.jpg) 

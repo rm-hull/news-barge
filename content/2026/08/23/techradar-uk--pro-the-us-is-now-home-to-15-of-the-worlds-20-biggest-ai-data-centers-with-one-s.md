@@ -8,6 +8,9 @@ published: '2026-08-23T00:00:00Z'
 description: The US has 15 of the world's 20 biggest hyperscale markets as data center
   expansion moves beyond traditional technology hubs
 image: https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A data center with racks of servers and lots of lights glowing](https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M.jpg) 

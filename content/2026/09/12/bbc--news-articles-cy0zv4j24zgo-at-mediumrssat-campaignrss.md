@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Tom Felton talks about taking on Broadway, Rupert Grint following his
   footsteps and a new Harry Potter generation.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5584/live/43fdac50-adda-11f1-8b98-35ffe039e825.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![Tom Felton attends The 78th Annual Tony Awards Red Carpet at Radio City Music Hall on June 08, 2025 in New York City.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5584/live/43fdac50-adda-11f1-8b98-35ffe039e825.jpg)

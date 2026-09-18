@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: BBC Verify has used satellite imagery to track the mysterious phenomenon,
   which has surprised people around the world.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fbc3/live/1bb95520-a702-11f1-aed2-8d6da8d75094.png
+categories:
+- UK
+- News & Politics
+- Science
+- Technology & Software
 ---
 
 # Satellite images show how Canadian 'island' vanished before turning up 20 miles away

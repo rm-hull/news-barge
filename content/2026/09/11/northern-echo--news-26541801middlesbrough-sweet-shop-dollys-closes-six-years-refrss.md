@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: The owner of Dolly's sweet shop in Middlesbrough has announced its immediate
   closure, saying the time has come to prioritise family life and…
 image: https://www.thenorthernecho.co.uk/resources/images/21439493.jpg?type=og-image&xType=0&yType=110
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
+- Business & Entrepreneurship
 ---
 
 *(Image: Google Maps)*

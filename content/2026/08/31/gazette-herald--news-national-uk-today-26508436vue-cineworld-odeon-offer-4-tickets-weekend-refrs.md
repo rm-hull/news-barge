@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Film fans can get cinema tickets for £4 at Vue, Cineworld, Odeon and
   Showcase Cinemas this weekend only to celebrate National Cinema Weekend.
 image: https://www.gazetteherald.co.uk/resources/images/21391205.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 *(Image: Getty)*

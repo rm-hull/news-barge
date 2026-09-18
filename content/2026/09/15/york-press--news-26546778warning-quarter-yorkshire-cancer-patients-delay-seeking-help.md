@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: People across Yorkshire are being urged to contact their GP without delay
   if they have concerns about their health after new figures revealed a…
 image: https://www.yorkpress.co.uk/resources/images/21450184.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Jonathan Pow/[jp@jonathanpow.com](mailto:jp@jonathanpow.com))*

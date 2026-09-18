@@ -9,6 +9,11 @@ description: A California couple’s surrogate who refused their wishes to have 
   is asking the U.S. Supreme Court to intervene in a custody dispute over the 4-week-old
   child who was born with a serious heart defect
 image: null
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Family & Parenting
 ---
 
 A California couple's surrogate who refused their wishes to have an abortion has asked the U.S. Supreme Court to intervene in a custody dispute over the 4-week-old child who was born with a serious heart defect.

@@ -9,6 +9,9 @@ description: Inadvertently killing endangered animals while logging a forest or 
   a dam would no longer be considered illegal under a new interpretation of the Endangered
   Species Act
 image: https://static.independent.co.uk/2026/09/17/21/Trump_Endangered_Species_82636.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Inadvertently killing endangered animals while logging a forest or building a dam would no longer be considered illegal under a new interpretation of the Endangered Species Act by federal officials, marking a sea change by President Donald Trump’s administration in how the landmark environmental law is enforced.

@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: Tim Montgomerie says his appeal will be a test of whether the party can
   tolerate free speech.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e865/live/af1af4c0-9b7e-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 'I'm going to fight,' says suspended Reform UK member Tim Montgomerie

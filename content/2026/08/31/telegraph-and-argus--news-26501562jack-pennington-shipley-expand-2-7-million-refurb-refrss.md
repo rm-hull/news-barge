@@ -9,6 +9,13 @@ published: '2026-08-31T00:00:00Z'
 description: A family-owned Bradford business is set to modernise and expand its historic
   site with the help of a £1.4 million funding boost.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21380706.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- History
 ---
 
 *(Image: Newsquest)*

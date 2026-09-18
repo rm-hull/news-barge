@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Customers in Wetherspoons in York and Selby are set to enjoy cheaper
   pints and meals for one day only.
 image: https://www.gazetteherald.co.uk/resources/images/21438413.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 *(Image: Supplied)*

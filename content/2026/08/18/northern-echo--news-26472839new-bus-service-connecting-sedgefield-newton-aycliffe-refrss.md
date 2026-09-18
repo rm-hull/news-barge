@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A new weekday bus service linking Sedgefield, Chilton and Newton Aycliffe
   will launch on September 1.
 image: https://www.thenorthernecho.co.uk/resources/images/21336471.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A new bus service connecting Sedgefield, Chilton, and Newton Aycliffe will come into force from Tuesday, September 1.

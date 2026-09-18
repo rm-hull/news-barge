@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Chihuahuas are known as ‘small but mighty’, and the findings could partly
   tell us why
 image: https://static.independent.co.uk/2025/05/23/15/05/iStock-1128461217.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 It turns out that one of the smallest dog breeds, the chihuahua, is part wild coyote, according to recently published genetic research. The chihuahua breed originated in Mexico but is now a popular canine companion worldwide.

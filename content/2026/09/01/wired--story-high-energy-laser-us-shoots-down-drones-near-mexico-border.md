@@ -9,6 +9,9 @@ description: The US Army’s laser system is part of a new generation of directe
   weapons capable of detecting, tracking, and destroying drones with a concentrated
   beam of light.
 image: https://media.wired.com/photos/6a95da7f647dbf9631296928/191:100/w_1280,c_limit/l%C3%A1ser%20antridrones%20Estados%20Unidos%20M%C3%A9xico.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 This week, the US Army used a high-energy multipurpose laser to shoot down three drones near the US-Mexico border, which official reports claimed were “posing a physical threat to US military personnel and CBP partners,” referring to Customs and Border Patrol.

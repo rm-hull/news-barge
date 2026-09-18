@@ -8,6 +8,9 @@ published: '2026-09-04T00:00:00Z'
 description: The Netflix exclusive gameplay trailer pulled in 30m views in four days.
   What more can we learn about the most-anticipated title of the 21st century?
 image: https://cdn.mos.cms.futurecdn.net/WCL3w4vb5tsG7m4G2jkXsW-1024-80.webp
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Imagery of Grand Theft Auto 6.](https://cdn.mos.cms.futurecdn.net/WCL3w4vb5tsG7m4G2jkXsW.webp) 

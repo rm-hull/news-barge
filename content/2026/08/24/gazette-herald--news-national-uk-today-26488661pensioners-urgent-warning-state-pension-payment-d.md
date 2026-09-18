@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: State Pension, PIP, Universal Credit and other DWP payments due on August
   31 will be paid early. See the full list of affected benefits.
 image: https://www.gazetteherald.co.uk/resources/images/21157976.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 *(Image: Getty Images)*

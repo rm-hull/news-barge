@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Singapore's prime minister Lawrence Wong will see his annual pay rise
   to 3.6 million Singapore dollars ($2.8m; £2.1m).
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/25d5/live/40541500-ab58-11f1-b471-ff02eb3eac27.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Lawrence Wong in a black suit and white shirt addresses a crowd on a podium](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/25d5/live/40541500-ab58-11f1-b471-ff02eb3eac27.jpg)

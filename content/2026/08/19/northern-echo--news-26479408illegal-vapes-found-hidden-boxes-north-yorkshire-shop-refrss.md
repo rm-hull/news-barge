@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: Illegal vapes have been found hidden in confectionery boxes in a shop
   in North Yorkshire.
 image: https://www.thenorthernecho.co.uk/resources/images/21343834.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: North Yorkshire Council)*

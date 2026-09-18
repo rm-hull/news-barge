@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: Darren Mundy, a Whitley Bay artist, has created a hand-painted Sycamore
   Gap-inspired sculpture called The Dream for St Oswald’s Hospice’s Peter…
 image: https://www.thenorthernecho.co.uk/resources/images/21460968.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- Music
 ---
 
 A hand-painted sculpture inspired by the famous Sycamore Gap tree is going under the hammer in the North East, three years after the landmark was felled.

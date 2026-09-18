@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: The Trump administration had asked the court to lift a federal judge's
   temporary block on new rules for mail-in ballots.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10bf/live/6758e8d0-b0e7-11f1-ae0d-6f5ba3aa85ac.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![File image of US President Donald Trump speaking into a microphone](https://ichef.bbci.co.uk/ace/standard/861/cpsprodpb/10bf/live/6758e8d0-b0e7-11f1-ae0d-6f5ba3aa85ac.jpg)

@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Key government meeting this month will consider US bid to try James ‘Fergie’
   Chambers over alleged support for Hamas
 image: https://i.guim.co.uk/img/media/5ee6419d2d9d2c9c71788b9331a935f477223ac7/936_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2fb1f335266d27a82cd0c7d8ad155fe1
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Attorneys for James “Fergie” Chambers, the US citizen and wealthy donor to leftwing and humanitarian projects worldwide who is currently imprisoned in Madrid and sought in extradition, have submitted a brief ahead of a decisive government meeting on the case.

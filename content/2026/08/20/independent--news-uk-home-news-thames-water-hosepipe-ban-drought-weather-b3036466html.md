@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Thames Water is one of many firms around the country to have a hosepipe
   ban in force, as more than 27m people face restrictions on water use
 image: https://static.independent.co.uk/2026/08/17/23/2288618455..?trim=4,0,4,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Thames Water has said its hosepipe ban is likely to be enforced until the end of the year.

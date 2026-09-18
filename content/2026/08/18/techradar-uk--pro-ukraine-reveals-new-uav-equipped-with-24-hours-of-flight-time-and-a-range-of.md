@@ -8,6 +8,8 @@ published: '2026-08-18T00:00:00Z'
 description: This new Ukrainian drone can reportedly fly for 24 hours, raising questions
   about how far Kyiv's long-range campaign can reach
 image: https://cdn.mos.cms.futurecdn.net/JCDEzcxp5ihCkCfvxYFTHK-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Ukrainian Dovbush T40 unmanned aerial system](https://cdn.mos.cms.futurecdn.net/JCDEzcxp5ihCkCfvxYFTHK.png) 

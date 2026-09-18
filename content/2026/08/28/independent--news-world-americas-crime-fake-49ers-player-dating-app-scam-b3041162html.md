@@ -9,6 +9,11 @@ description: Daejon Labrayae Love allegedly posted videos in luxury sports cars 
   used search engine results to convince victims he was high-earning wide receiver
   for San Francisco 49ers
 image: https://static.the-independent.com/2026/08/28/17/14/NFL-scam.png?trim=0,67,0,66&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Federal authorities have charged two men with operating a multi-state romance scheme that defrauded at least 26 women out of approximately $1.3 million, using a fabricated NFL persona to target victims through dating applications.

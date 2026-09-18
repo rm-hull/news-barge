@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: New mayoral powers and continued reporting on the Duchess of Sussex's
   television role lead Sunday's papers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0464/live/fa6b22c0-9e7a-11f1-aed2-8d6da8d75094.png
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 !["Mayors given power to block nimby protests" reads the headline on the front page of the Sunday Times.](https://ichef.bbci.co.uk/ace/standard/1040/cpsprodpb/351f/live/0bef8100-9e6f-11f1-aed2-8d6da8d75094.jpg)

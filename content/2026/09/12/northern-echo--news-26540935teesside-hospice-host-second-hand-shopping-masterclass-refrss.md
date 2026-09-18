@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Jen Graham, known as Charity Shop Girl, will appear at Teesside Hospice’s
   Second Hand September Fashion Show.
 image: https://www.thenorthernecho.co.uk/resources/images/21438031.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A charity shop influencer and BBC star is set to host a second-hand shopping masterclass in Teesside.

@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Hong Kong used to be one of the only places in Chinese territory where
   people could gather to mark the 1989 crackdown.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/48ba/live/11753770-ad8b-11f1-8ea7-df517b57beba.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Chow Hang-Tung](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/48ba/live/11753770-ad8b-11f1-8ea7-df517b57beba.jpg)

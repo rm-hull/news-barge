@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Bishop Burton College has secured £2.502 million from the Department
   for Education’s Construction Skills Capacity Fund.
 image: https://www.yorkpress.co.uk/resources/images/21374836.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Bishop Burton College secures £2.5m to expand construction training

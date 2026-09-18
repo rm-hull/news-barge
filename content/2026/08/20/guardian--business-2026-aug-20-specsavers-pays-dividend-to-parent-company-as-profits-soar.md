@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Pre-tax profits rose at high street opticians to £429.7m in the year
   to February while sales rose 7% to £4.3bn
 image: https://i.guim.co.uk/img/media/a2fe314d5c00f23e77082773a9b7f6e90b2a6df1/263_0_2750_2200/master/2750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c0960ee16a4afe97eb967d63af30f674
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Specsavers has paid £12m to its parent company controlled by founders Doug and Dame Mary Perkins after the high street opticians’ profits increased by more than a quarter.

@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Mount Kailash, a Himalayan peak in Tibet, is sacred to several religious
   traditions and draws pilgrims from across the region
 image: https://static.independent.co.uk/2026/08/27/03/China_Nepal_Flash_Floods_23518.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 More than 100 of the nearly 1,300 people missing after massive floods in a border area of Nepal and China were on a pilgrimage to Mount Kailash, a sacred site in the Himalayas. The disaster left at least 168 people dead and displaced hundreds of people across the Himalayan region.

@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: A man convicted of killing a teenage girl who rejected his romantic advances
   and wounding two of her friends was put to death Tuesday
 image: https://static.the-independent.com/2026/09/01/9/52/harold-gene-lucas.webp?trim=46,0,320,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A man convicted of killing a teenage girl who turned down his romantic advances and wounding two of her friends was put to death on Tuesday, marking the first of three lethal injections scheduled to take place in Florida this month.

@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: A mum whose bloating made her look "six months pregnant" was told it
   was just "anxiety" - but it turned out to be a rare bowel disease.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/31/7/18/MixCollage-31-Aug-2026-08-16-AM-5068.jpeg?trim=70,0,71,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # Mother whose bloating made her look 'six months pregnant' was told it was anxiety before rare diagnosis

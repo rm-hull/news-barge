@@ -7,6 +7,11 @@ scraped_at: '2026-09-09T12:56:34Z'
 published: '2026-09-09T00:00:00Z'
 description: The actor will appear at Westminster Magistrates’ Court on 21 October
 image: https://static.independent.co.uk/2025/09/23/16/39/01K5TYRAYY9A489Z99BD3CCGX8.jpeg?trim=0,1,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Comedy & Entertainment
 ---
 
 Actor Noel Clarke has been charged with a number of sexual offences, the Metropolitan Police has confirmed.

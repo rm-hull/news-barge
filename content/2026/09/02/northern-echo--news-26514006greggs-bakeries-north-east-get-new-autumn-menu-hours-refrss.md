@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Greggs launches its new autumn menu tomorrow (September 3) with 11 new
   and returning items back on offer for North East fans.
 image: https://www.thenorthernecho.co.uk/resources/images/21400020.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 Greggs fans have less than 24 hours left to wait before the bakery chain's eagerly anticipated autumn menu lands in stores across the North East.

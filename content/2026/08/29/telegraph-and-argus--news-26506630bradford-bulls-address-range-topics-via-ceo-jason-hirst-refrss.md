@@ -8,6 +8,12 @@ published: '2026-08-29T00:00:00Z'
 description: BRADFORD Bulls have sunk to the bottom of Betfred Super League having
   lost 10 of their last 11 games, with CEO Jason Hirst feeling compelled to…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21196008.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Sports
 ---
 
 BRADFORD Bulls have sunk to the bottom of Betfred Super League having lost 10 of their last 11 games.

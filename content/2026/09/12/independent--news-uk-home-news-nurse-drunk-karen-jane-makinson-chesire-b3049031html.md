@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Karen Jane Makinson said she was unable to use her phone to book a taxi
   because she was unfamiliar with the app
 image: https://static.independent.co.uk/2026/09/12/10/2248433108..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A care home nurse has been suspended after a tribunal found she went to work “drunk” and needed help from her colleagues to book a taxi home.

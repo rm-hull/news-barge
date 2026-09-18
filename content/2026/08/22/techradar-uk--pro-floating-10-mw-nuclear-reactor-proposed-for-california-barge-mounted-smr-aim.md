@@ -8,6 +8,9 @@ published: '2026-08-22T00:00:00Z'
 description: A nuclear reactor on a boat could power 15,000 California homes if regulators
   ever say yes
 image: https://cdn.mos.cms.futurecdn.net/LBTaMajp8LNwTKKrsyxMrM-1920-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Bluecore Energy](https://cdn.mos.cms.futurecdn.net/LBTaMajp8LNwTKKrsyxMrM.png) 

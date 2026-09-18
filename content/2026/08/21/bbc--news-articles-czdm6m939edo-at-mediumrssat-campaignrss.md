@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: The former PM and seven of his ministers have added to the collection,
   which began in 1931.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d950/live/1edb8ce0-9cb3-11f1-84cf-fd4cfd9d6c84.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 ![A pile of books entitled Keir Starmer, the biography](https://ichef.bbci.co.uk/ace/standard/965/cpsprodpb/d950/live/1edb8ce0-9cb3-11f1-84cf-fd4cfd9d6c84.jpg)

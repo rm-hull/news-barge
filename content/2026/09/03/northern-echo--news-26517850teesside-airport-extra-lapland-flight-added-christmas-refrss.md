@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: An extra Lapland day trip has been added from Teesside Airport for Christmas
   2026 after strong demand saw an earlier departure sell out.
 image: https://www.thenorthernecho.co.uk/resources/images/20781972.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 A magical day trip to Lapland from a North East airport has proved so popular that an extra festive-season flight has been added.

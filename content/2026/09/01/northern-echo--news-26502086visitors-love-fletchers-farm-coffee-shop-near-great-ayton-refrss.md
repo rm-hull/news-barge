@@ -8,6 +8,12 @@ published: '2026-09-01T00:00:00Z'
 description: Fletchers Farm Coffee Shop near Great Ayton has been praised for its
   breakfasts, Sunday lunches, homemade cakes and picturesque farm setting.
 image: https://www.thenorthernecho.co.uk/resources/images/21381345.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 *(Image: TRIPADVISOR)*

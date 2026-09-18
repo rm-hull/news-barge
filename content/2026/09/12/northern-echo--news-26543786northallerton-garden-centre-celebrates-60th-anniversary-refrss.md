@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: A family-run garden centre near Northallerton is celebrating its 60th
   anniversary after winning glowing customer reviews.
 image: https://www.thenorthernecho.co.uk/resources/images/21445658.jpg?type=og-image&xType=0&yType=597
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 A family-run garden centre in Northallerton is celebrating its 60th anniversary after winning glowing customer reviews.

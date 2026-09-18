@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A pregnant woman has gone missing after leaving hospital, sparking an
   urgent Durham Police appeal.
 image: https://www.thenorthernecho.co.uk/resources/images/21416602.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: DURHAM CONSTABULARY)*

@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Time restrictions on disabled bus passes are set to be scrapped following
   an almost two-year campaign by Harrogate and Knaresborough MP Tom Gordon.
 image: https://mmo.aiircdn.com/409/69ce794f1a283.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/69ce794f1a283.jpg) 

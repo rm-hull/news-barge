@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The mother, who was held for six years in Iran, welcomed the appointment
   of the UK’s first envoy for complex consular cases Alistair Burt
 image: https://static.independent.co.uk/2025/11/23/14/16/542269.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Nazanin Zaghari-Ratcliffe has welcomed the appointment of the first ever dedicated envoy to help Britons detained abroad but warned it must not be an “excuse for the government’s inaction”.

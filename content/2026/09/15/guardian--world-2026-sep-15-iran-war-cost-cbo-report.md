@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Damaging budget report estimates cost would grow $3bn per month and stockpile
   could take five years to rebuild
 image: https://i.guim.co.uk/img/media/b583b5bf20c40c87208269327b35eef54acdca45/811_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=42e0d807c1c6b721245cb400b33944cf
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The war in Iran has cost the US at least $38bn and left its stockpile of defensive missiles so depleted it could take five years to rebuild, the non-partisan Congressional Budget Office (CBO) has found, in a damaging report less than two months before midterm elections where the war and the cost of living crisis will likely hurt Republicans at the polls.

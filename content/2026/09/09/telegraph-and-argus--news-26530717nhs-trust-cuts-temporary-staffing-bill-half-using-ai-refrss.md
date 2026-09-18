@@ -8,6 +8,13 @@ published: '2026-09-09T00:00:00Z'
 description: A HOSPITAL trust has cut its temporary staffing bill by up to 50 per
   cent with the help of artificial intelligence.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19515582.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 *(Image: NHS)*

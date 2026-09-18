@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Collectors are eagerly awaiting the first release of the 30th anniversary
   Pokémon trading cards.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4fb6/live/d75feea0-adcf-11f1-82c1-5ff19bf7a2f2.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ![A young woman with dark hair, wearing a denim jacket with a Pokémon badge on it is smiling at the camera. She is standing in front of a display of Pokémon cards in a shop.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4fb6/live/d75feea0-adcf-11f1-82c1-5ff19bf7a2f2.jpg)

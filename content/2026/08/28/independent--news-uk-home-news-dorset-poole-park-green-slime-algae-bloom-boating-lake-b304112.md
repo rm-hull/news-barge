@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: ‘It stinks and is disgusting,’ disgruntled business owners say as public
   avoids park in Dorset
 image: https://static.independent.co.uk/2026/08/28/14/22/40-FOR-FIRST-USE-20-FOR-SECOND-USE-AND-10-FOR-ANY-USE-AFTER--PLEASE-FLAG-REUSE-TO-PIC-DESK-3cfcba33.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A picturesque boating lake in Dorset has been covered in green algae, as nearby businesses have reported a dip in sales due to the “disgusting” outbreak.

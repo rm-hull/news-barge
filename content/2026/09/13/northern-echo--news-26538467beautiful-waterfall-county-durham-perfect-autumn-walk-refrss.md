@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: Low Force Waterfall is often overlooked for the larger High Force Waterfall,
   but it's definitely not one you should miss.
 image: https://www.thenorthernecho.co.uk/resources/images/21434582.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Getty)*

@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Unsung heroes becoming exhausted, isolated and are reaching their breaking
   point, the head of a York organisation has warned.
 image: https://www.gazetteherald.co.uk/resources/images/17374830.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 UNSUNG heroes who are saving the economy billions are becoming exhausted, isolated and are reaching their breaking point, the head of a York organisation has warned.

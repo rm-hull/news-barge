@@ -7,6 +7,11 @@ scraped_at: '2026-08-19T08:53:00Z'
 published: '2026-08-19T00:00:00Z'
 description: A retailer is planning to open its flagship store in England in York.
 image: https://www.gazetteherald.co.uk/resources/images/21337768.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

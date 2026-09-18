@@ -10,6 +10,11 @@ description: Amongst all the proud parents sharing their shiny ‘first day at s
   showed a picture of her teenage son by a swimming pool with what looked suspiciously
   like a beer in hand - ‘First Day of Year 9’ it said.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmEyYTE4NTJiLTM5MjYtNGMzMS1hMTljLWQ2NTgwOWIyYTMwMzozN2Q0M2MyNS1iN2Q5LTQyZjUtYjlmMC01M2UwYzI3NmI3Y2M=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 # Fining feckless parents for school absences is not working - Jayne Dowle

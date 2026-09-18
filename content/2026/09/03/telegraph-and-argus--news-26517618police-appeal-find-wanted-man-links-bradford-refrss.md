@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Police have launched an appeal to find a wanted man who has links to
   Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21404436.jpg?type=og-image&xType=0&yType=123
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Warwickshire Police)*

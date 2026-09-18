@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: A smallholding at Deighton near York has gone on the market with a guide
   price of £995,000.
 image: https://www.yorkpress.co.uk/resources/images/21437066.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## Smallholding near York on the market for £995,000

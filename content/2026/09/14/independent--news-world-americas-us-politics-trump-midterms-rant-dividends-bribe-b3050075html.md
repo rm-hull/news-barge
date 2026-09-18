@@ -9,6 +9,9 @@ published: '2026-09-14T00:00:00Z'
 description: Even some Republicans have poured cold water on Trump’s plan to offer
   $5,000 payments to voters next year — if they win
 image: https://static.independent.co.uk/2026/09/14/11/ab254c8c8b113147e7ae09eb0bc11845Y29udGVudHNlYXJjaGFwaSwxNzg5NDYwMDMx-2.85845739.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump on Monday complained that Democrats’ efforts to win a majority in Congress in the November midterm elections are blocking his plan to reward voters for electing Republicans with $5,000 payments to every American adult.

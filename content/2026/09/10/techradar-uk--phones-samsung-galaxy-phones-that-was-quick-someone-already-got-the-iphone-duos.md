@@ -9,6 +9,8 @@ published: '2026-09-10T00:00:00Z'
 description: Here's what the iPhone Duo transition animation looks like running on
   a Samsung Galaxy Z Fold 8.
 image: https://cdn.mos.cms.futurecdn.net/mkdBjn7EFeWEUG5jogpj3S-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A hand holding the iPhone Duo next to a hand holding the Samsung Galaxy Z Fold 8](https://cdn.mos.cms.futurecdn.net/mkdBjn7EFeWEUG5jogpj3S.jpg) 

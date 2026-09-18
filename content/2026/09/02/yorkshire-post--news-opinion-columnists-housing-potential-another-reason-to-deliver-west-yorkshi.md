@@ -9,6 +9,12 @@ description: Britain’s housing shortage is well documented and unless policyma
   start thinking more creatively, then the issue will only continue to worsen. Parts
   of the country like Leeds are also suffering from poor public transport connectivity.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjVmYjAxZDA2LWFkMjYtNDEyYy04NWYzLThmODk4NDg0YzQxZTo3YTNkNzdmNy1iMGRiLTQzMmUtYTRjOS0wZTllM2ViMTllODE=.jpg?crop=3:2,smart&trim=&width=631&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 # Housing potential another reason to deliver West Yorkshire mass transit

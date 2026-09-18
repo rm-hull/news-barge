@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Restaurants, cafés, pubs and bars across Harrogate are preparing to offer
   discounted menus as part of Restaurant Week.
 image: https://mmo.aiircdn.com/409/66d7160ebcdfe.jpg
+categories:
+- Local
+- Harrogate
+- Food & Cooking
 ---
 
 ![](https://mmo.aiircdn.com/409/66d7160ebcdfe.jpg) 

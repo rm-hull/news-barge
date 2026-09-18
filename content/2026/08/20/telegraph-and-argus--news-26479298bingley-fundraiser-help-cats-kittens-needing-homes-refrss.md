@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: A FUNDRAISER is set to take place in support of cats and kittens in need
   of new homes.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21343649.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Pets & Animals
+- Personal Finance & Investing
 ---
 
 *(Image: Supplied)*

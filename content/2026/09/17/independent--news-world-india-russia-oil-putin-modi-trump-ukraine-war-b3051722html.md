@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Graham’s bill to hit Russian oil importers has potential implications
   for US-India ties and international energy market, says New Delhi
 image: https://static.independent.co.uk/2026/09/17/09/2026-09-11T164029Z_1619927432_RC24HNAZB3NQ_RTRMADP_3_BRICS-SUMMIT-PUTIN-MODI.JPG?trim=38,0,38,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The US house of representatives on Wednesday passed a major sanctions and tariff bill to intensify economic pressure on Russia over its invasion of Ukraine, allowing the Donald Trump administration to impose strict tariffs of up to 100 per cent on nations like India.

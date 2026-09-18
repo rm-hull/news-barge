@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Drug cartels in Mexico are increasingly using car bombs and explosives
   in drones and roads
 image: https://static.independent.co.uk/2026/09/04/18/Mexico_Violence_4549_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Drug cartels across Mexico are increasingly turning to car bombs, explosives-laden drones and improvised explosive devices, a trend that could further strain Mexico’s already tense relationship with U.S. President Donald Trump, who has repeatedly threatened military action against the cartels.

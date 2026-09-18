@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Beef stars Oscar Isaac and Carey Mulligan are among the nominees at the
   ceremony in Los Angeles.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee34/live/754b5420-8b33-11f1-b170-2de1c3aec73b.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ![Zendaya attends the Los Angeles premiere of HBO's Euphoria season three - she is wearing a black halterneck dress and hoop earrings](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/ee34/live/754b5420-8b33-11f1-b170-2de1c3aec73b.jpg)

@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: The families of Ann Mary Mathew and Anjana Hari are seeking answers after
   prosecutors said the victims and accused killer were all best friends
 image: https://static.the-independent.com/2026/09/11/17/00/Anila-Baby.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A 32-year-old California woman faces two counts of first-degree murder following separate, fatal attacks in San Jose and Milpitas that left two mothers dead within 90 minutes of each other.

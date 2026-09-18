@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: The Ministry of Justice has confirmed an investigation is underway after
   a Bradford man died while in prison in June this year.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21473406.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 THE MINISTRY of Justice has confirmed an investigation is underway after a Bradford man died while in prison in June this year.

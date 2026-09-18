@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T13:24:35Z'
 published: '2026-09-17T00:00:00Z'
 description: Heavy rain has caused widespread flooding across northern Vietnam
 image: https://static.independent.co.uk/2026/09/17/10/Vietnam_Flooding_33338.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Heavy rain caused flooding across parts of northern Vietnam on Thursday, disrupting travel, inundating homes and pushing several rivers above dangerous levels, authorities and state media said.

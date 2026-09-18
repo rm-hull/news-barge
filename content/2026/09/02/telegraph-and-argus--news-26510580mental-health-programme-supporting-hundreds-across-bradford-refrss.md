@@ -7,6 +7,12 @@ scraped_at: '2026-09-02T12:45:12Z'
 published: '2026-09-02T00:00:00Z'
 description: A MENTAL health programme is making a difference in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21224095.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
+- Self-Improvement
 ---
 
 *(Image: Getty Images)*

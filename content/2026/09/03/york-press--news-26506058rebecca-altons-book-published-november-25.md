@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: The father of a North Yorkshire woman who passed away in her 20s has
   spoken about his ‘amazing’ daughter ahead of the publication of her book.
 image: https://www.yorkpress.co.uk/resources/images/21387262.jpg?type=og-image&xType=0&yType=1144
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## 'She’s the most amazing person' - tribute to North Yorkshire woman who died at 26

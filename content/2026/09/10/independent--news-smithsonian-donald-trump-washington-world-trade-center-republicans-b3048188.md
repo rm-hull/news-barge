@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: The Smithsonian's National Museum of American History is honoring the
   25th anniversary of the Sept. 11 attacks with a special exhibit
 image: https://static.independent.co.uk/2026/09/10/19/Smithsonian_Bunch_Retires_956_9.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Arts & Culture
 ---
 
 Seat belts and a flight attendant call button from the doomed United Airlines Flight 93. A purse filled with keys and a wallet recovered from the World Trade Center site. The telephone that sat on U.S. Solicitor General Ted Olson's desk when his wife, Barbara, called from a hijacked airplane.

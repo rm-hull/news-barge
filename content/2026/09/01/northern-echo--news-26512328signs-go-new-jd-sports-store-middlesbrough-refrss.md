@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Signs have gone up for a new JD Sports store in a vacant unit of a Middlesbrough
   shopping centre.
 image: https://www.thenorthernecho.co.uk/resources/images/21397010.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 Signs have gone up for a new JD Sports store in Middlesbrough.

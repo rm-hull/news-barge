@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: The prime minister said Britain needed to be brutally honest about the
   ‘series of wrong turns’ it had taken in the last 40 years
 image: https://i.guim.co.uk/img/media/7360e6185ef11948d2a212b5ea0ad627c7680477/865_446_5315_4252/master/5315.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=36a804c316ae6ead2214194ff693d890
+categories:
+- UK
+- News & Politics
 ---
 
 Andy Burnham has blamed Brexit and Margaret Thatcher for a decade of low growth in the UK, arguing that Britain needs to be brutally honest about having taken “a series of wrong turns” in the last 40 years.

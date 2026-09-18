@@ -8,6 +8,9 @@ published: '2026-08-24T00:00:00Z'
 description: Israeli strikes and tank fire in Gaza have killed at least four people,
   including two children, according to hospital officials
 image: https://static.independent.co.uk/2026/08/24/20/APTOPIX_Israel_Palestinians_Gaza_9353_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Palestinian residents of war-battered Gaza fled homes and businesses as Israeli strikes and tank fire killed at least four people Monday, including two children, hospital officials said, a week after a U.S. delegation asked Israel to draw down attacks.

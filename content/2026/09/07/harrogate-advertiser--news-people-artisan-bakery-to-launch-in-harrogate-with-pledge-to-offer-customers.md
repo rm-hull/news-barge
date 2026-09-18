@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: A new artisan cafe is to open soon in Harrogate promising to offer customers
   the “the best coffee you'll have ever tasted”.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmJlNGIwYmE3LTJjYTMtNDc1NC04ZjcyLTkzMmRhY2IzN2UxYzo1OWY3ZGQwMS1iNTM5LTQ2NDYtYTI4Ny1hOTMyNWZiZTJjNzI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Food & Cooking
+- Business & Entrepreneurship
 ---
 
 # Artisan bakery to launch in Harrogate with pledge to offer customers 'best coffee you'll have ever tasted'

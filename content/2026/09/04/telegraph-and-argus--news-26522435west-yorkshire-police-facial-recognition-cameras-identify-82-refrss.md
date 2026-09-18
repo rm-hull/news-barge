@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: FACIAL recognition cameras have identified more than 80 wanted suspects
   since their rollout began in West Yorkshire.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21411216.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: West Yorkshire Police)*

@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Amounting to 65 billion barrels of crude, the deal is labelled by one
   ex-envoy as a colonialist "fever dream".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ec4/live/35678a40-ea1b-11f0-a258-11bf68011d10.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Collage image of President Donald Trump wit blue suit and light blue tie, and Venezuela vice president Delcy Rodriguez](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3ec4/live/35678a40-ea1b-11f0-a258-11bf68011d10.jpg)

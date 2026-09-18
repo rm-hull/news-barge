@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: The national and regional publisher is also shutting its KentLive, AberdeenLive
   and GalwayBeo titles.
 image: https://static.independent.co.uk/2026/09/16/12/16113757-77d350c2-5c93-4edb-82e4-c492e7f2d377.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Technology & Software
 ---
 
 Daily Mirror and Daily Express publisher Reach is axing more than 200 editorial roles as part of an ongoing cost-cutting overhaul that will also see three titles close.

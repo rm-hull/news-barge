@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Police sought to reassure residents over longstanding concerns at St
   Peter's Church, outlining action taken before a fire severely damaged the…
 image: https://www.thenorthernecho.co.uk/resources/images/21470328.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 Concerns about St Peter's Church were raised at a Bishop Auckland community meeting days after a major fire reignited scrutiny of the troubled building.

@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: The California teen is remembered as an animal lover who loved the outdoors
   and was known for driving a pink car
 image: https://static.the-independent.com/2026/08/29/19/53/Untitled-design-(2).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A California drug dealer was found not guilty of murder and involuntary manslaughter Thursday in the fentanyl-related death of a 17-year-old girl who died just two weeks before high school graduation.

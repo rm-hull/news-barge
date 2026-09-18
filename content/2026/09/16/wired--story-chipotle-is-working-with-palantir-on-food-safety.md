@@ -9,6 +9,10 @@ description: The burrito chain has enlisted Palantir for a platform that monitor
   pest incidents, employee illnesses, and other factors. The partnership comes after
   a nightmare summer for food safety across the US.
 image: https://media.wired.com/photos/6aaac3f9abaa64afbb2e9683/191:100/w_1280,c_limit/091626-Chipole%20Palantir.jpg
+categories:
+- Technology & Software
+- Science
+- Health & Fitness
 ---
 
 Fast-casual burrito chain Chipotle is working with the data infrastructure giant Palantir.

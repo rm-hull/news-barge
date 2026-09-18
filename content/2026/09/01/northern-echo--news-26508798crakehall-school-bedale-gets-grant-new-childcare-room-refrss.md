@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: A local primary school has received a grant to develop a dedicated room
   for before and after school care.
 image: https://www.thenorthernecho.co.uk/resources/images/21391718.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: SHAEFER PR)*

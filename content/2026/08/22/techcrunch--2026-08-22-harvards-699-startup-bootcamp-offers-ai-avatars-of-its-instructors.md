@@ -8,6 +8,9 @@ published: '2026-08-22T00:00:00Z'
 description: In the HBS Foundry program, AI avatars provide feedback during practice
   pitches and board meetings.
 image: https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 As Harvard Business School seeks to expand its reach, it’s leaning on AI avatars to provide individual feedback.

@@ -10,6 +10,10 @@ published: '2026-08-24T00:00:00Z'
 description: The $370 million to $620 million system would double as a seafloor sensor
   array.
 image: https://cdn.mos.cms.futurecdn.net/KHySyR6J9rvmwETnRdiEMV-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Antarctica](https://cdn.mos.cms.futurecdn.net/KHySyR6J9rvmwETnRdiEMV.jpg) 

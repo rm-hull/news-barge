@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: The police watchdog the Independent Office for Police Conduct (IOPC)
   confirmed it has launched an investigation into the fatal crash
 image: https://static.independent.co.uk/2026/08/22/12/251736d3960bd8c21c26d54c30b8dcb0Y29udGVudHNlYXJjaGFwaSwxNzg3NDgzNTcy-2.85627472.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Seven people have died, including two police officers, in a car crash following a chase in the early hours of Saturday morning.

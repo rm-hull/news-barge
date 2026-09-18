@@ -9,6 +9,12 @@ description: Ladbrokes and Coral owner Entain has revealed around 400 jobs are b
   cut worldwide as it blamed increased gambling taxes and warned more could be at
   risk amid speculation over plans to double machine games duty in the Budget.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmY4YjQ0MDNmLTgzNGUtNDM0ZC1iN2JlLTJjZjI5Y2M3YzYzNjo4YTVlMTJhNC01MDdkLTRjZjEtYTkxYS0wNDkxZWExZjI0YTk=.jpg?crop=3:2,smart&trim=&width=1024&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # Entain: Coral and Ladbrokes owner to cut a fifth of customer care jobs globally

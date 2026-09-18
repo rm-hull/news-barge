@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: Police in Wakefield are appealing for the public’s help in reporting
   any information on the whereabouts of a man who is wanted after a serious…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21343929.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 *(Image: West Yorkshire Police)*

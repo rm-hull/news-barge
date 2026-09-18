@@ -7,6 +7,11 @@ scraped_at: '2026-08-25T20:40:59Z'
 published: '2026-08-25T00:00:00Z'
 description: More than 50,000 wildfires have been logged across the country this year
 image: https://static.independent.co.uk/2026/08/25/18/download..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Society & Culture
 ---
 
 Authorities issued evacuation orders on Tuesday across parts of rural Texas as a fast-expanding wildfire spread through ranchland, forcing local schools to delay or cancel classes.

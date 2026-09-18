@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: The political commentator, who defected from the Tories 18 months ago,
   was suspended from Reform UK last month.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb68/live/652ae040-9b25-11f1-9a2c-6d6ac3827d20.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Tim Montgomerie, with short cropped hair and a grey beard, is wearing an open necked shirt and suit jacket. He is in the Newsnight studio](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/bb68/live/652ae040-9b25-11f1-9a2c-6d6ac3827d20.jpg)

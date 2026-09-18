@@ -9,6 +9,9 @@ published: '2026-09-05T00:00:00Z'
 description: Farage’s speech to Reform UK conference disrupted by several hecklers
   carried out by security
 image: https://static.independent.co.uk/2026/09/04/18/01M1PRGPN4CH42R64NFJYCCSTH.jpg?trim=0,25,0,25&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Nigel Farage has vowed not to be “distracted” by “a highly co-ordinated campaign of attacks” in his speech at the Reform UK conference.

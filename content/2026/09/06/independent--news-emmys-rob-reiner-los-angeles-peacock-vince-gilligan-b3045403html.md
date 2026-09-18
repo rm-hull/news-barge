@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: The Television Academy is presenting the majority of its Primetime Emmys
   this weekend at the Peacock Theater in Los Angeles
 image: https://static.independent.co.uk/2026/09/06/05/Emmys_3_16_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 Top nominees “The Pitt,” “Hacks,” “Pluribus” and “Widow’s Bay” will have chances to stock up on Emmys Sunday at an early ceremony eight days before the main awards show and telecast.

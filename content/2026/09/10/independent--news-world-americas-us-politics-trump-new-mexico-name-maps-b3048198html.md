@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Over the weekend, Trump posted at least seven maps suggesting the state
   should be renamed ‘New America’
 image: https://static.independent.co.uk/2026/09/10/18/25/89183b44d45973ad-cf4fb16f4800.jpeg?trim=0,15,0,13&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Lawmakers from New Mexico have urged Apple and Google not to rename the state on their mapping apps after President Donald Trump suggested restyling it as “New America.”

@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: A $330 mini PC with dual 2.5GbE and M.2 slots might just be the value
   purchase of 2026 — if you bring your own storage and RAM
 image: https://cdn.mos.cms.futurecdn.net/Qme8xZZwaJkvKrTqs46znA-1280-80.webp
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![The GMKtec Nucbox M5 Ultra Pictured](https://cdn.mos.cms.futurecdn.net/Qme8xZZwaJkvKrTqs46znA.webp) 

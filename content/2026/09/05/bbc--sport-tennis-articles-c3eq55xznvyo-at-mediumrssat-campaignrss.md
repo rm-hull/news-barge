@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: Zheng Qinwen fights back from 5-0 down in the deciding set and stares
   down match point to stun American 22nd seed Madison Keys.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1213/live/a3fcc9c0-a965-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Qinwen Zheng falls to the ground in celebration after beating Madison Keys](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1213/live/a3fcc9c0-a965-11f1-b109-879e35c24276.jpg)

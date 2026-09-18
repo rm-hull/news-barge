@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Smuggling gangs are now packing larger numbers of migrants onto fewer,
   bigger craft
 image: https://static.independent.co.uk/2026/08/19/07/tGGpd2QdBw7Hnf8Yj34wfR17kYT67vz5KACOX5tdP-1CVRNeXbAPN6Rks-IkhJMMlapfVacUKXEQOME48eHciqLuV_qM9ivvYF_K..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Government action against small boat Channel crossings is starting to "bear fruit," according to the Home Secretary, following a drop in summer arrivals to their lowest point since 2019.

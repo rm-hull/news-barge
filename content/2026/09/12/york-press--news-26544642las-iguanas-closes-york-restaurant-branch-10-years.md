@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Latin-American chain Las Iguanas has closed its York restaurant 10 years
   after opening in the city centre.
 image: https://www.yorkpress.co.uk/resources/images/21444500.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 *(Image: Newsquest)*

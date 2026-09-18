@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The game starts as a reheated Witcher 3, but evolves into something much
   more focused.
 image: https://media.wired.com/photos/6a98768add3b222b1bf79e6d/191:100/w_1280,c_limit/The-Blood-of-Dawnwalker.jpg
+categories:
+- Technology & Software
+- Science
+- Video Gaming
 ---
 
 I drink the blood of my fourth rat tonight. It’s only got so much life to give, so as soon as I drain it, I know I'll need to feed again. My hunger is not fulfilled. My health bar is only half full. I need more blood. Now.

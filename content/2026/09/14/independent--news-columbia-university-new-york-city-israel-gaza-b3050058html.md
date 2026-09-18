@@ -9,6 +9,10 @@ description: Palestinian activist Mahmoud Khalil is suing Columbia University, a
   it failed to address harassment against him and other members of a pro-Palestinian
   campus group
 image: https://static.independent.co.uk/2026/09/14/18/Campus_Protest_Mahmoud_Khalil_14_56.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Palestinian activist Mahmoud Khalil sued Columbia University on Monday, alleging it failed to address harassment against him and other members of a pro-Palestinian campus group and retaliated against them when they reported it.

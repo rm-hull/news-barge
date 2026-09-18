@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: Tottenham are in advanced talks to sign Iliman Ndiaye from Everton, with
   Richarlison set to move in the opposite direction as part of separate negotiations.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c386/live/8c089d30-a45b-11f1-a291-b542ee92de7c.png
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![Richarlison and Iliman Ndiaye](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/c386/live/8c089d30-a45b-11f1-a291-b542ee92de7c.png)

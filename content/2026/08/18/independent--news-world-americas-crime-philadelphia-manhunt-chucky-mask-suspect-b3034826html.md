@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Footage shows man in halloween-style mask suspected of harassing multiple
   people in Philadelphia during 20 minute spree
 image: https://static.the-independent.com/2026/08/18/8/11/42543yf.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 A manhunt is underway in Philadelphia after a suspect in a Chucky-style mask threatened and chased multiple people, asking one woman if she was “ready to die”, according to police.

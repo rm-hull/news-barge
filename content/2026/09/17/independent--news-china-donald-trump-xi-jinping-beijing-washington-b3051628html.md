@@ -10,6 +10,11 @@ description: As concern rises over the risks of artificial intelligence, hopes f
   any kind of global approach on safety depend on cooperation between the U.S. and
   China
 image: https://static.independent.co.uk/2026/09/15/12/China_AI_What_To_Know_15895.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Science
 ---
 
 As concern rises over the risks of artificial intelligence, hopes for any kind of global approach depend on cooperation between the U.S. and China — superpowers that seem only to be more skeptical of each other's AI strategy.

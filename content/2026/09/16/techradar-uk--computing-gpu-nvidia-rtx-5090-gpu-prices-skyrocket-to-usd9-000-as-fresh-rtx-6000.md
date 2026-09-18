@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: The RTX 5090 keeps getting pricier somehow, so who knows how much the
   next-gen flagship will cost.
 image: https://cdn.mos.cms.futurecdn.net/iH6Sehz2iwz8bH5Yrpprb6-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![The GeForce RTX logo on the Nvidia GeForce RTX 5090](https://cdn.mos.cms.futurecdn.net/iH6Sehz2iwz8bH5Yrpprb6.jpg) 

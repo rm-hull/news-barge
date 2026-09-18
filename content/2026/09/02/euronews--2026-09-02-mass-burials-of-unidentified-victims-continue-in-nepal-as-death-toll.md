@@ -10,6 +10,10 @@ description: Many were outraged and expressed their disapproval after the govern
   largely Hindu community objected to the measure which they say goes against religious
   traditions.
 image: https://images.euronews.com/articles/stories/09/89/79/12/1200x675_cmsv2_721ab617-e02e-5716-935c-841bed6559cf-9897912.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Many were outraged and expressed their disapproval after the government revealed it intended to carry out mass “temporary” burials of the deceased. Nepal’s largely Hindu community objected to the measure which they say goes against religious traditions.

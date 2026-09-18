@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: The Lakeland Dry:Soon heated airer dries a huge load of washing for less
   than 50p. After reviewing a lot of gadgets I'm never giving this back.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20138460.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Jade Wright)*

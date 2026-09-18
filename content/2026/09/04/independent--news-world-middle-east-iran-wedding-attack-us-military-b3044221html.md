@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T12:42:12Z'
 published: '2026-09-04T00:00:00Z'
 description: The Iranian Red Crescent has called for an investigation into the incident
 image: https://static.independent.co.uk/2026/09/03/7/32/tag_reuters-com-2026_newsml_RC23BNASDV7N_116037912-reuters-1dbbd0db.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 At least five people were killed in a suspected US attack that hit a wedding in Iran after Tehran and Washington exchanged the heaviest strikes between them since July.

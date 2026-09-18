@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: Yorkshire’s Finest, a decade-long project by photographer David Charles,
   features portraits of well-known figures including Dame Judi Dench, Sean…
 image: https://www.gazetteherald.co.uk/resources/images/21384302.jpg?type=og-image&xType=0&yType=907
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 A PHOTOBOOK of Yorkshire celebrities is raising funds for a cancer charity, and includes images of its patron, a York-born icon of stage and screen.

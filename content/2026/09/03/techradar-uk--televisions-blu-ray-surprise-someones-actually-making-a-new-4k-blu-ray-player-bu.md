@@ -10,6 +10,10 @@ published: '2026-09-03T00:00:00Z'
 description: Magnetar's Ultima is a reference-grade player for UHD Blu-Ray, SACD,
   DVD, CD and digital sources too
 image: https://cdn.mos.cms.futurecdn.net/4cgx2VddPzYai4VuQf3dhH-1600-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Music
 ---
 
 ![The Magnetar Ultima 4K Blu-ray player, which consists of two large silver units stacked on top of each other](https://cdn.mos.cms.futurecdn.net/4cgx2VddPzYai4VuQf3dhH.jpg) 

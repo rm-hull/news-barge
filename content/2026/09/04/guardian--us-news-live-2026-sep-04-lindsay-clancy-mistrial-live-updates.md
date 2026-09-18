@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Judge declares mistrial after delay due to defense seeking intervention
   from higher court
 image: https://i.guim.co.uk/img/media/7de87ac95b4e5ca593e3406607bfb31298d98a85/249_53_2227_1782/master/2227.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5a44df8ad646077b6c5032ffc3350de6
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 The judge has now declared a mistrial after jurors failed for a third time to reach a verdict on whether Lindsay Clancy is criminally responsible for killing her children.

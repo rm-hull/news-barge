@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Declan Donnelly has apologised after shoplifting from an M&S store -
   here is the full story as told on the Hanging Out with Ant and Dec podcast.
 image: https://www.yorkpress.co.uk/resources/images/21409495.jpg?type=og-image&xType=0&yType=72
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Tim Markland/PA Wire)*

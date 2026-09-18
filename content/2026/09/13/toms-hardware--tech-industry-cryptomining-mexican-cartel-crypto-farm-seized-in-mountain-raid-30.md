@@ -9,6 +9,9 @@ published: '2026-09-13T00:00:00Z'
 description: Police raided a facility in Puebla's mountains and found 300 GPUs, electrical
   infrastructure, and satellite equipment.
 image: https://cdn.mos.cms.futurecdn.net/vZTixu9pzvdLkseqLS3M4b-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![GPU mining](https://cdn.mos.cms.futurecdn.net/vZTixu9pzvdLkseqLS3M4b.jpg) 

@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: Vice president offers ‘meta analysis’ of Netflix romantic comedy series,
   suggesting it serves as ‘a massive cultural criticism of millennial decision-making’
 image: https://static.independent.co.uk/2026/09/17/8/06/jd-vance-emily-in-paris.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
+- Film & TV
+- Arts & Culture
 ---
 
 Vice President JD Vance has revealed he is a fan of the Netflix romantic comedy series *Emily in Paris*, offering a “meta analysis” of its meaning and calling showrunner Darren Star “the Shakespeare of our time.”

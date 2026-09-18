@@ -10,6 +10,10 @@ description: Vulcan oven mitts, spaceship baking dishes, and an out-of-this-worl
   communicator grater—you'll need warp speed to Klingon to this limited edition kitchen
   kit, ideal for perfecting the broth of Khan.
 image: https://media.wired.com/photos/6a9ebac0cc808342636de78d/191:100/w_1280,c_limit/StarTrekLeCreu.jpg
+categories:
+- Technology & Software
+- Science
+- Food & Cooking
 ---
 
 Logic clearly dictates that the needs of the penne outweigh the needs of the stew, or the bun. While this would have been a gloriously fan-faithful reason for Le Creuset, the French-Belgian maker of colorful cookware for more than a century, to materialize its new limited-edition Star Trek collection, the range is being launched in celebration of 60 years of the cult sci-fi show.

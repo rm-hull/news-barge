@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: A young man was left unconscious and another injured after an early morning
   attack in a County Durham McDonald’s.
 image: https://www.thenorthernecho.co.uk/resources/images/21447948.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: GOOGLE)*

@@ -9,6 +9,10 @@ description: Families sheltering in a school in Lebanon's city of Tyre are some 
   the hundreds of thousands of people displaced by the latest conflict between Israel
   and Hezbollah
 image: https://static.independent.co.uk/2026/08/31/10/CORRECTION_Lebanon_Displaced_Schools_31_74.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Eleven-year-old Fatima Khashab helps her mother tidy the small area where their family sleeps, in a row of makeshift living quarters in a school gymnasium.

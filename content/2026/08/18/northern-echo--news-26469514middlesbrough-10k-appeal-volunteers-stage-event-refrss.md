@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: The 2026 Middlesbrough Runs are set to bring thousands of runners to
   Teesside, with organisers appealing for more volunteers to help deliver the…
 image: https://www.thenorthernecho.co.uk/resources/images/21328028.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Supplied)*

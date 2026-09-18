@@ -9,6 +9,12 @@ published: '2026-09-06T00:00:00Z'
 description: A Teesside woman who scooped £119 million in the lottery seven years
   ago has now given away nearly half her fortune to help good North East causes.
 image: https://www.thenorthernecho.co.uk/resources/images/21417070.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: TOM WILKINSON/ PA WIRE)*

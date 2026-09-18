@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Ministers given emergency briefing about changes to algorithm decisions
   just three days before tool rollout
 image: https://i.guim.co.uk/img/media/272206408e0750fdcf355b672245abc6bf19b1db/917_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da7d2ffa4c3831cae25302d881bc79f7
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Senior department of health officials were in turmoil before the rollout of an algorithm to determine funding packages for older Australians, after discovering legislation had been drafted so rigidly that the tool could not legally be overridden by aged care assessors.

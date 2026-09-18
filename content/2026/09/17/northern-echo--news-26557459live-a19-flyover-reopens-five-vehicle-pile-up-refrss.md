@@ -7,6 +7,11 @@ scraped_at: '2026-09-17T13:22:57Z'
 published: '2026-09-17T00:00:00Z'
 description: A19 flyover has been closed by police after a crash involving five vehicles.
 image: https://www.thenorthernecho.co.uk/resources/images/20989574.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 - Good morning, welcome to The Northern Echo's live blog on an incident on the A19.

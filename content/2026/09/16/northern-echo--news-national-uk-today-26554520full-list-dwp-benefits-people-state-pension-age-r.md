@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: Millions of older people could be missing out on benefits, free bus passes
   and other help with everyday costs. Find out what you may be entitled to.
 image: https://www.thenorthernecho.co.uk/resources/images/20638376.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 *(Image: Getty Images)*

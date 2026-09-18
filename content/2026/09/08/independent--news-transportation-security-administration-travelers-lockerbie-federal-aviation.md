@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: The aviation security system that travelers encounter at U.S. airports
   was built layer by layer, often after attacks or attempted attacks exposed new vulnerabilities
 image: https://static.independent.co.uk/2026/09/08/11/Sept_11_Air_Travel_63556.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Taking a commercial flight from a U.S. airport generally requires a boarding pass to get anywhere near a gate, security screening controlled by the federal government and careful attention to the contents of carry-on bags.

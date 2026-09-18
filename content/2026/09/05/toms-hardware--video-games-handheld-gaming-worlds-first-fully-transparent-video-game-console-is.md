@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: Based on the open source Arduboy platform, this handheld weighs just
   1.8 ounces (50g) and comes with 400 pre-loaded games.
 image: https://cdn.mos.cms.futurecdn.net/X7eyARPbW4bJH4csiTPsXQ-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
+- Business & Entrepreneurship
 ---
 
 ![Arduview transparent handheld game console](https://cdn.mos.cms.futurecdn.net/X7eyARPbW4bJH4csiTPsXQ.jpg) 

@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T12:48:07Z'
 published: '2026-09-03T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/aldwark-house-york-side-gsv.webp
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 New details have emerged about plans to improve fire safety at a block of flats gutted by a blaze in York.

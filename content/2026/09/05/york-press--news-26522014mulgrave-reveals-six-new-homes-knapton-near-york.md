@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Mulgrave Properties is building six detached family houses at Pinfold
   Court in Knapton.
 image: https://www.yorkpress.co.uk/resources/images/21410536.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Mulgrave)*

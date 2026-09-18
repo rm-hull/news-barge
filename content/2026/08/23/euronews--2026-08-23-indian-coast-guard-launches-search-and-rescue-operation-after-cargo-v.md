@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: The crew consisted of 20 Chinese nationals, three Myanmar nationals,
   and one Bangladeshi, the Indian Coast Guard said.
 image: https://images.euronews.com/articles/stories/09/88/50/94/1200x675_cmsv2_b124ebdd-935d-53c7-9986-2d855a7d92b9-9885094.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## The crew consisted of 20 Chinese nationals, three Myanmar nationals, and one Bangladeshi, the Indian Coast Guard said.

@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Debate over the link between fly tipping and tip closures has continued
   this week, with Bradford Council officers giving differing views to politicians.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRlZmY3MmUzLTE5OGQtNDkyNC05OWY1LTZhMTI3NDYzMzk1Nzo2OTQyMTE4MC1jZDZkLTQ2MzEtYTAyYS1lMDFjNTI3NGY1ZmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # 'No evidence' tip closures leading to more fly-tipping, say council officers

@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Three new industrial and warehouse units at Cropton Court in York have
   been fully let to growing businesses.
 image: https://www.gazetteherald.co.uk/resources/images/21428645.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Pic supplied)*

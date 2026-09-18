@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Celtic manager Martin O'Neill says his team have a "million miles to
   go" after defeat in Austria.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/62ff/live/3a0293a0-a0dd-11f1-9eb4-25fa73e257d0.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 ![Martin O'Neill takes responsibility](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/62ff/live/3a0293a0-a0dd-11f1-9eb4-25fa73e257d0.jpg)

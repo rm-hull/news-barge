@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: Police are investigating an alleged theft after a passenger is alleged
   to have refused their fare from York city centre.
 image: https://www.gazetteherald.co.uk/resources/images/21350675.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 *(Image: North Yorkshire Police)*

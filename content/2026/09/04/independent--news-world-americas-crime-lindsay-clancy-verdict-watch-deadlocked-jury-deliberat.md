@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: The jury has twice told Judge William Sullivan that it is unable to agree
   on a verdict
 image: https://static.the-independent.com/2026/09/04/14/12/AP26247504215747.jpg?trim=0,122,0,121&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Law & Justice
 ---
 
 The deadlocked jury in the Lindsay Clancy trial has begun deliberating for a seventh day after a holdout juror led to a heated exchange between the judge and Clancy’s defense attorney.

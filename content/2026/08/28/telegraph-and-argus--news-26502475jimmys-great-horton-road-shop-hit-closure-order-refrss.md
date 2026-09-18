@@ -9,6 +9,12 @@ published: '2026-08-28T00:00:00Z'
 description: SHOPS that have been linked to criminal activity, including the sales
   of nitrous oxide, have been temporarily shut down.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21381916.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- True Crime
 ---
 
 *(Image: T&A)*

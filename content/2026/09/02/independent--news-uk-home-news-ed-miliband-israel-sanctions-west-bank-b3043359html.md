@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: 'Gideon Saar: ‘If Britain acts against Israel, Israel will act against
   Britain’'
 image: https://static.independent.co.uk/2026/09/02/11/2292526164..?trim=1,0,2,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Israel has cautioned that it will respond in kind should the UK impose sanctions over its plans to expand illegal West Bank settlements.

@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: A federal immigration officer wanted on assault charges for shooting
   and wounding a Venezuelan man in Minneapolis was arrested
 image: https://static.the-independent.com/2026/09/17/13/58/hennepin-county-jail.webp?trim=104,0,176,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 An ICE agent accused of shooting a Venezuelan man through an apartment door and then lying about what happened has been arrested in Minneapolis, eight months after the incident became a flashpoint in President Donald Trump’s immigration crackdown.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T19:10:08Z'
 published: '2026-09-11T00:00:00Z'
 description: A go-to marketplace for gig jobs
 image: https://cdn.mos.cms.futurecdn.net/YhnihdbySyaBpCSJTQ8jwV-1800-80.png
+categories:
+- Technology & Software
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 ### TechRadar Verdict

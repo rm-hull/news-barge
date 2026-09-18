@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Get all of the latest Latest news from Harrogate Advertiser. Providing
   a fresh perspective for online news.
 image: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![Official opening of Little Ferns Pre-School at coppice Valley Primary Academy with Harrogate Mayor Coun Viv Poskitt. (Picture Gerard Binks)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmNmMDdiYWU0LTE5YTQtNDkyOS1hNmQzLWEyNjRlMDk1NmU1ZDozZGY2OGZmYS0wZTQyLTQ4MWMtYWU2NC1kYTRkMjlmNTk3MzA=.jpg?crop=5:4,smart&trim=&quality=70&width=616)

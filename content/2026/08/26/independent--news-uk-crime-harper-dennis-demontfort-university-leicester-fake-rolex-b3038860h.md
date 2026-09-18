@@ -8,6 +8,10 @@ scraped_at: '2026-08-26T08:57:10Z'
 published: '2026-08-26T00:00:00Z'
 description: Harper Dennis was found guilty of manslaughter following a two-week trial
 image: https://static.independent.co.uk/2026/08/25/17/01M0WSN8QQBJ7PBQ9FGCGED8HQ.jpg?trim=1348,0,1348,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A 19-year-old student who fatally stabbed a former friend in the heart following a dispute over a fake Rolex watch has been jailed for 10 years for manslaughter.

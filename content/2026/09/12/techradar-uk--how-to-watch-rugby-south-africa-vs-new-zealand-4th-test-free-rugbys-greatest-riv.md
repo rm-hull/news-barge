@@ -8,6 +8,9 @@ scraped_at: '2026-09-12T16:37:08Z'
 published: '2026-09-12T00:00:00Z'
 description: The Springboks take a 2-1 lead into the final match in Baltimore
 image: https://cdn.mos.cms.futurecdn.net/NgNSUPeMXnUvtfNe3uTU2W-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![New Zealand's number eight Ardie Savea scores a try in the third Rugby's Greatest Rivalry international rugby union match against South Africa at the FNB Stadium in Johannesburg, on September 5, 2026](https://cdn.mos.cms.futurecdn.net/NgNSUPeMXnUvtfNe3uTU2W.jpg) 

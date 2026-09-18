@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Newcastle-based homebuilider Bellway is celebrating its 80th anniversary
   of building homes in the North East and across Britain.
 image: https://www.thenorthernecho.co.uk/resources/images/21332019.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: Bellway)*

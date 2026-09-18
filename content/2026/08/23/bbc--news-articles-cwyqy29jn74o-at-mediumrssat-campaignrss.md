@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: The social media posts have prompted police forces in Ireland and the
   UK to issue statements that the images are fake.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6d0/live/d9818a60-9f0e-11f1-bca9-4d339be997b1.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Society & Culture
 ---
 
 ![A person dressed Cat in the Hat character](https://ichef.bbci.co.uk/ace/standard/683/cpsprodpb/e1cc/live/c24d6df0-9ef0-11f1-aed4-af6fe65bfcd6.jpg)

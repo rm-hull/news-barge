@@ -8,6 +8,10 @@ scraped_at: '2026-09-17T19:43:19Z'
 published: '2026-09-17T00:00:00Z'
 description: Timothy Allen Smith’s wife said he died ‘doing something he loved’
 image: https://static.independent.co.uk/2026/09/17/14/42/GettyImages-2292514748.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Human remains found in the Grand Canyon this week have been identified as a missing pilot who vanished alongside two friends during deadly flash floods.

@@ -7,6 +7,11 @@ scraped_at: '2026-08-22T08:42:58Z'
 published: '2026-08-22T00:00:00Z'
 description: AN evening of music and memories was made possible by a generous gift.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21354673.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

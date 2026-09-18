@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: The 9/11 Memorial and Museum in New York City does not allow politicians
   to speak at Ground Zero to maintain a nonpartisan stance
 image: https://static.independent.co.uk/2026/08/28/14/2234169999..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump reportedly plans to mark the 25th anniversary of the September 11, 2001, terrorist attacks at the Pentagon, not Ground Zero in New York City – in part because he cannot give a speech.

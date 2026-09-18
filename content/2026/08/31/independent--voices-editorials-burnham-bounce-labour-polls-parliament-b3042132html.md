@@ -9,6 +9,9 @@ description: 'Editorial: Returning to parliament, the new prime minister must co
   himself and his party to better government as the only path left to win approval
   from voters'
 image: https://static.independent.co.uk/2026/08/31/13/2026-08-27T102124Z_1703089874_RC2Y6NA78JJ3_RTRMADP_3_BRITAIN-POLITICS.JPG?trim=4,0,4,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Bad news – and some less bad news – for Britain’s new-ish prime minister. First, the bad news: the high priest of psephology, Professor Sir John Curtice, believes the “Burnham bounce” lasted only two weeks; polling numbers, albeit somewhat disparate, corroborate his conclusion, and the mere fact that Andy Burnham isn’t Sir Keir Starmer has not been enough to propel Labour into a commanding lead over their current nearest rivals Reform UK – even after a challenging summer for Nigel Farage.

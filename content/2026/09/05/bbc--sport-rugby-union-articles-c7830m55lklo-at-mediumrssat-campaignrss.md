@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: South Africa eventually overpower a spirited New Zealand as the world
   champions came on strong in the final quarter in Soweto to take a 2-1 series lead.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b400/live/0fef39d0-a950-11f1-ae8c-2528accc9a1a.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- History
 ---
 
 ![Jesse Kriel](https://ichef.bbci.co.uk/ace/standard/932/cpsprodpb/2b25/live/0a74d1c0-a94d-11f1-ae8c-2528accc9a1a.jpg)

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Matthew Eric Jenkins, 20, had just moved to Florida to take part in the
   Disney College Program, his father said
 image: https://static.independent.co.uk/2026/09/10/20/1978614503..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 A 20-year-old Disney cast member died after he was apparently struck by lightning — just a week after he moved to Florida to work at Walt Disney World.

@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: A North Yorkshire farming family has diversified its business with the
   opening of two new padel courts at Poplars Farm in Ferrensby.
 image: https://mmo.aiircdn.com/409/6a9699d8e8f3fa8e1b9.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9699d8e8f3fa8e1b9.jpg) 

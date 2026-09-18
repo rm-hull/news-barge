@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Texas-based Buc-ee’s now operates in at least a dozen states, which are
   primarily Republican-leaning or conservative
 image: https://static.independent.co.uk/2026/08/25/21/2222938921..?trim=47,0,47,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The CEO of Buc-ee’s says the beloved convenience chain will focus expansion on conservative states as the beaver-themed brand faces scrutiny over its repeated trademark lawsuits.

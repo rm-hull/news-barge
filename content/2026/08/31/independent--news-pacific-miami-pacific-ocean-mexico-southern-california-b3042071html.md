@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Forecasters say Hurricane Karina has strengthened into a powerful Category
   4 storm in the Pacific Ocean but isn’t threatening land
 image: https://static.independent.co.uk/2026/08/31/11/Tropical_Weather_63_77.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Karina strengthens into a Category 4 hurricane in the Pacific far from land, forecasters say

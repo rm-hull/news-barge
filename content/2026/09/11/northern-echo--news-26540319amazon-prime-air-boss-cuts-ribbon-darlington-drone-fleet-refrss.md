@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: Prime Air boss David Carbon said Darlington is “not just a model for
   the UK but a model for Europe” as he cut the ribbon on its ready-to-go…
 image: https://www.thenorthernecho.co.uk/resources/images/21437243.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

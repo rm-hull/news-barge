@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The French regulator found 95% of the listings analysed failed to comply
   with its rules, with 40% offering no price reduction and 48% raising prices.
 image: https://static.independent.co.uk/2026/08/20/15/fe9c5cafcfef835ae8b5c020320ed2c5Y29udGVudHNlYXJjaGFwaSwxNzg3MzIwODg3-2.58154194.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Fast fashion firm Boohoo has been fined 2.3 million euros (£2 million) by the French consumer watchdog over misleading pricing practices.

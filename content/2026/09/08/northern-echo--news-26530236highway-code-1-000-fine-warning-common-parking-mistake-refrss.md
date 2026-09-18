@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: Motorists not familiar with the Highway Code may be unaware of rule 248,
   which could see anyone parking on the road outside their home fined
 image: https://www.thenorthernecho.co.uk/resources/images/19948462.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 *(Image: Getty Images)*

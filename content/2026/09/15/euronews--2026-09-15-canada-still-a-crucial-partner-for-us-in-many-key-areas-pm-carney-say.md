@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Carney made the comments at a two-day Investment Summit in Toronto as
   Canada seeks to diversify and bring new investment into the country.
 image: https://images.euronews.com/articles/stories/09/91/46/54/1200x675_cmsv2_92a20e55-8261-5ab8-91f6-f27bd2c2631b-9914654.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ## Carney made the comments at a two-day Investment Summit in Toronto as Canada seeks to diversify and bring new investment into the country.

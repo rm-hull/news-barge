@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Gardeners don’t need to take the hacksaw to the shrub border yet with
   the notion of making a fresh start
 image: https://static.independent.co.uk/2026/09/10/19/2291409990..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Home, Garden & DIY
 ---
 
 UK gardens took a battering this summer as a heat dome settled over western Europe, and much of the green and pleasant land turned a dusty beige.

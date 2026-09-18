@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: TWO men who completed a 1,000-mile trek across Britain have raised £12,000
   for Marie Curie
 image: https://www.thetelegraphandargus.co.uk/resources/images/21383645.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

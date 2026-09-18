@@ -10,6 +10,10 @@ description: Baku has implemented a simplified visa entry procedure for internat
   to 30 September, eligible travellers can obtain a visa on arrival at the country’s
   international airports.
 image: https://images.euronews.com/articles/stories/09/90/67/18/1200x675_cmsv2_05894d5e-1b58-5e0d-aea2-1b5ca34b0c12-9906718.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## Baku has implemented a simplified visa entry procedure for international visitors planning to attend the Formula 1 Azerbaijan Grand Prix. From 25 August to 30 September, eligible travellers can obtain a visa on arrival at the country’s international airports.

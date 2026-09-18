@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Joshy Thomas, deputy manager at Mulberry Court in Rawcliffe, has received
   a ten-year service award from Barchester Healthcare.
 image: https://www.yorkpress.co.uk/resources/images/21328759.jpg?type=og-image&xType=0&yType=156
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Barchester)*

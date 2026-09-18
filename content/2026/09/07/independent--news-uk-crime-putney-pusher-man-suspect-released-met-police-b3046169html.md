@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Met Police continuing to investigate 44-year-old man, who was arrested
   in connection with the incident in June
 image: https://static.independent.co.uk/2024/04/10/11/putney%20pusher%203.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A man arrested in connection with the notorious “Putney pusher” case has been released under investigation, the Metropolitan Police have said.

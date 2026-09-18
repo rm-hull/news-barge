@@ -8,6 +8,9 @@ scraped_at: '2026-09-15T22:52:40Z'
 published: '2026-09-15T00:00:00Z'
 description: Follow the day’s news live
 image: https://i.guim.co.uk/img/media/0b7bfc41642085e38090c8eb813ab4102d6e29de/3064_546_2823_2259/master/2823.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4b25a6b24227278ee00eaca87ee20ac5
+categories:
+- UK
+- News & Politics
 ---
 
 ‘Ball was dropped’ on antisemitism, former spy boss says

@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: St Francis Xavier School on Darlington Road came first among North Yorkshire’s
   41 state secondary schools in the FindGreatSchools ranking.
 image: https://www.thenorthernecho.co.uk/resources/images/21429439.jpg?type=og-image&xType=1&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: GOOGLE)*

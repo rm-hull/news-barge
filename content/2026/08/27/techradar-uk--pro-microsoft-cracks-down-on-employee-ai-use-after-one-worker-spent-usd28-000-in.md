@@ -8,6 +8,10 @@ scraped_at: '2026-08-27T22:13:10Z'
 published: '2026-08-27T00:00:00Z'
 description: Microsoft thinks AI usage should be meaningful, not excessive
 image: https://cdn.mos.cms.futurecdn.net/TaxPLZc75WiicpmgZNzWzL-2560-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 ![A woman out of focus in the background touches the word AI, lit up in glowing yellow light, in the foreground. The woman is wearing smart glasses](https://cdn.mos.cms.futurecdn.net/TaxPLZc75WiicpmgZNzWzL.jpg) 

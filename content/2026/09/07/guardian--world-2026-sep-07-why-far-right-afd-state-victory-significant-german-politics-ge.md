@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: Aftershocks of party’s win in Saxony-Anhalt will ripple across Germany,
   with two more state elections this month
 image: https://i.guim.co.uk/img/media/275c8b357a9d099eede7e330a8f9680e00446daa/876_742_2354_1884/master/2354.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=98eb462c39f023537b949cbc089877c5
+categories:
+- UK
+- News & Politics
 ---
 
 Germany is reeling from the biggest far-right victory in a state election since the Nazi period after voters in Saxony-Anhalt in the former communist east gave the anti-immigration, pro-Kremlin Alternative für Deutschland (AfD) party a thumping first-place finish of 44%, just short of an absolute majority.

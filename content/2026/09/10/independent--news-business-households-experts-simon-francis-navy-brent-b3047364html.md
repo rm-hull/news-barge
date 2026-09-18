@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Experts warned that the latest surge in wholesale prices could feed through
   into consumer energy bills in the winter.
 image: https://static.independent.co.uk/2026/09/09/15/7484d347617485371b2bd530a749bdfbY29udGVudHNlYXJjaGFwaSwxNzg5MDQ4MjYw-2.66572121.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Experts have warned that households could be facing further pain on energy bills as oil prices surge above 100 dollars a barrel and UK gas prices reach a near four-year high.

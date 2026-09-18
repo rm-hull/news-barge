@@ -9,6 +9,10 @@ description: In one crash, the driver of a 2024 Blazer EV said they had to "deli
   steer the vehicle into a concrete curb" to slow it down and avoid a "catastrophic
   intersection collision."
 image: https://techcrunch.com/wp-content/uploads/2022/09/MY24-Chevrolet-Equinox-EV-3LT.jpg?resize=1200,632
+categories:
+- Technology & Software
+- Automotive
+- Science
 ---
 
 General Motors electric vehicles, including ones built in partnership with Honda, are now facing increased scrutiny from the top U.S. auto safety regulator after hundreds of incidents, more than 20 crashes or fires, and at least six injuries.

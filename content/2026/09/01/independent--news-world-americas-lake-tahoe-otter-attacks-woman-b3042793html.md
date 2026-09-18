@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Lynnette Bellin says an aggressive otter pulled her underwater at Lake
   Tahoe before attacking her with its claws and teeth
 image: https://static.independent.co.uk/2026/09/01/14/2058897253..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A Nevada woman needed 38 stitches after being attacked by an otter while swimming in Lake Tahoe — with the vicious assault so intense it felt like her attacker “was a human.”

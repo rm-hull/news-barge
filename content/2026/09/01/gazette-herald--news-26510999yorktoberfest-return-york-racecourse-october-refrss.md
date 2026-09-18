@@ -7,6 +7,11 @@ scraped_at: '2026-09-01T13:27:57Z'
 published: '2026-09-01T00:00:00Z'
 description: A popular York beer festival is set to return this autumn with a twist.
 image: https://www.gazetteherald.co.uk/resources/images/21395249.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 A POPULAR York beer festival is set to return this autumn with a twist.

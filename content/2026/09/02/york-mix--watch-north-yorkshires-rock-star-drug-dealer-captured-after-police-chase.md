@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T12:45:01Z'
 published: '2026-09-02T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/nathan-stone-drug-dealer-scarborough-arrest-yt-nyp.webp
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 This is the moment when a North Yorkshire drug dealer who claimed to live “like a rock star” was taken down by police.

@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: The four-legged robots are equipped with cameras and Wi-Fi connectivity
   and can travel at speeds of up to about 5 feet per second
 image: https://static.independent.co.uk/2026/08/29/20/08/GettyImages-2284356989.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Immigration and Customs Enforcement plans to spend up to $2 million on robotic “dogs,” according to federal records.

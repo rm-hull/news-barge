@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: One of Knaresborough's best-known pubs has celebrated its reopening following
   a major refurbishment.
 image: https://mmo.aiircdn.com/409/6a981e4116c641e351a.jpg
+categories:
+- Local
+- Harrogate
+- Food & Cooking
 ---
 
 ![](https://mmo.aiircdn.com/409/6a981e4116c641e351a.jpg) 

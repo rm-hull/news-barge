@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: UK Prime Minister Andy Burnham has said London will continue "to support
   Ukraine 100%".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/27ac/live/08b5c2c0-9b4e-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 # Why has Russia threatened the UK and what happens next?

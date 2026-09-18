@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Many males are returned even if they have been trafficked but Home Office
   must now consider new legal guidance
 image: https://i.guim.co.uk/img/media/0b8ca8669c52c8b202104af1794be26107102f31/340_0_4924_3941/master/4924.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=80e3a9b09da5e1cfa353846f0e16ad47
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The Home Office could be blocked from deporting many young male trafficking victims to Albania after a major court ruling.

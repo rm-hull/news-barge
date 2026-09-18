@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Kynren – The Storied Lands, County Durham’s new live-action show park,
   is a finalist at the 2026 Park World Excellence Awards.
 image: https://www.thenorthernecho.co.uk/resources/images/21436228.jpg?type=og-image&xType=0&yType=426
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 An attraction in Bishop Auckland has been shortlisted for three international awards just weeks after launching its latest venture.

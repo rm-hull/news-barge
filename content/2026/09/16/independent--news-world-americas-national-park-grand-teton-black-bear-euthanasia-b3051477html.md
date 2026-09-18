@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: ‘It is everyone’s responsibility to help keep bears wild,’ Grand Teton
   National Park officials say
 image: https://static.independent.co.uk/2026/09/16/20/47/812345653_1993447691246414_8207455915618473653_n.jpeg?trim=51,0,41,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A Wyoming national park is calling out parkgoers whose “poor decisions” led to the euthanization of a black bear.

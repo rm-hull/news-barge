@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Gabriel Levy was sentenced to more than two years in jail at Leeds Crown
   Court on Wednesday
 image: https://static.independent.co.uk/2026/08/26/13/01M0Z1X6VDXST2758FX83MBQ6P.jpg?trim=339,0,339,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A 21-year-old man who targeted two mosques with death threats in the aftermath of a lethal attack on a Manchester synagogue has been sentenced to more than two years in prison, prosecutors have announced.

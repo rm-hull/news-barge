@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: An 11-year-old boy has been seriously injured after falling off an e-scooter
   on a major Bradford road.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21285253.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: PA)*

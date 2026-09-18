@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: A man and seven boys are held on suspicion of attempted murder after
   four people were stabbed.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7388/live/a1feaae0-adba-11f1-a1fc-c76e930e8813.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- True Crime
 ---
 
 ![Two people, a man and a woman, dressed in light blue overalls looking down towards the ground.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/7388/live/a1feaae0-adba-11f1-a1fc-c76e930e8813.jpg)

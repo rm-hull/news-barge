@@ -9,6 +9,12 @@ published: '2026-09-16T00:00:00Z'
 description: Todmorden has been named one of the cheapest places to retire to in England
   and it has lots of vibrant restaurants and an interesting history.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21452624.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
+- History
 ---
 
 *(Image: Getty)*

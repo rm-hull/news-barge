@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A Netflix series starring Dame Imelda Staunton, Nicola Coughlan and Toby
   Jones has begun filming in Whitby.
 image: https://www.gazetteherald.co.uk/resources/images/21462884.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 A NETFLIX series starring Dame Imelda Staunton, Nicola Coughlan and Toby Jones has begun filming in Whitby.

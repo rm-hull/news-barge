@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Hundreds of people are preparing to bare all and run into the North Sea
   at sunrise as the North East Skinny Dip returns to Druridge Bay in September.
 image: https://www.thenorthernecho.co.uk/resources/images/21375212.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Justine Gillespie)*

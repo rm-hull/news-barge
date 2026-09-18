@@ -10,6 +10,11 @@ description: Photos of Dolly Parton’s rise from humble Tennessee roots to coun
   music icon, actor, businesswoman and philanthropist. Known for hits including “Jolene”
   and “I Will Always Love You,” Parton has died at 80.
 image: https://static.independent.co.uk/2026/08/25/19/Obit_Dolly_Parton_9814_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Music
 ---
 
 Dolly Parton’s life and career as a country music icon, actor and philanthropist, in photos

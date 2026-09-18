@@ -7,6 +7,12 @@ scraped_at: '2026-09-11T19:09:59Z'
 published: '2026-09-11T00:00:00Z'
 description: Judge said it was some of the worst behaviour he had come across
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/11/10/26/Benstock.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
+- Society & Culture
 ---
 
 # 'Monster' who spent years raping and beating young children in Leeds jailed for 37 years

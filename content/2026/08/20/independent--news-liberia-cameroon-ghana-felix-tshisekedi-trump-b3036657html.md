@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: The United States has sent 20 deportees to Liberia as part of a new deal
   involving 1,200 migrants
 image: https://static.independent.co.uk/2026/08/20/20/Liberia_US_Deportees_7756_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Society & Culture
 ---
 
 Twenty migrants deported from the United States arrived in Liberia on Thursday, the first group of an eventual 1,200 deportees that the West African country says it will receive from the U.S. under a new deal.

@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Moves to avoid potential delays to a York housing development have been
   approved.
 image: https://www.yorkpress.co.uk/resources/images/21443374.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 ## Moves to avoid delays to 'important' York housing development backed

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Thousands of young Orthodox Christians have taken part in a candlelit
   procession in Romania's capital, part of the International Meeting of Orthodox Youth
 image: https://static.independent.co.uk/2026/09/03/10/Romania_International_Meeting_of_Orthodox_Youth_75224.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Thousands of young Orthodox Christians gathered in Romania’s capital for a candlelit procession that illuminated a trail from the giant National Cathedral to Patriarchate Hill, a historic site considered sacred to Romanian Orthodoxy.

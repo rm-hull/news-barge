@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: THE great-great-grand-daughter of the man who founded The Northern Echo
   more than 150 years ago has been in Darlington this week from her home in…
 image: https://www.thenorthernecho.co.uk/resources/images/10860887.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 The great-great-granddaughter of the man who founded The Northern Echo more than 150 years ago has been in Darlington this week from her home in Australia to stand in his footprints.

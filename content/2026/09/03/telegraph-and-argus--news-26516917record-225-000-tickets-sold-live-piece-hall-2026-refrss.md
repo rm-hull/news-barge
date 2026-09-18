@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: The first headliner of Live at The Piece Hall 2027 has been teased after
   the Halifax venue sold a record-breaking 225,000 tickets this past summer.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21403448.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Cuffe and Taylor)*

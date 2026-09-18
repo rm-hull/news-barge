@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T22:14:21Z'
 published: '2026-08-27T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/ycfc-fenwick-ollie-pearce-17.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 There were queues inside Fenwick York this afternoon – as York City FC striker Ollie Pearce met with football fans.

@@ -7,6 +7,11 @@ scraped_at: '2026-09-11T12:49:38Z'
 published: '2026-09-11T00:00:00Z'
 description: THE West Yorkshire Organic Group will hold its 35th annual show
 image: https://www.thetelegraphandargus.co.uk/resources/images/19927610.jpg?type=og-image&xType=0&yType=50
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Google Maps)*

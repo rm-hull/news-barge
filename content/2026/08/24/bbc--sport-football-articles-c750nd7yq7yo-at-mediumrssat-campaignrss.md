@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: An analysis of Julian Alvarez's future with the transfer window closing
   on 1 September - and the Argentine's chances of a move from Atletico Madrid to Arsenal.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/097a/live/784830d0-9fb5-11f1-bff6-57f1422ebb0b.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Julian Alvarez pictured looking to the side while sat on the bench during Atletico Madrid's match against Villarreal in August.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/097a/live/784830d0-9fb5-11f1-bff6-57f1422ebb0b.jpg)

@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: A teenager agreed to give a younger boy a ride on a quad bike, but crashed
   into a lamppost, throwing his unrestrained passenger to the ground.
 image: https://www.thenorthernecho.co.uk/resources/images/20480908.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: The Northern Echo)*

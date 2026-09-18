@@ -10,6 +10,10 @@ description: 'Academics – and a former director of Australia’s Classificatio
   – say Halloween: The Game’s ban due to ‘incentivised drug use’ highlights an incoherent
   set of standards'
 image: https://i.guim.co.uk/img/media/2d00d59461704425390fb74429398239f2dbb7e5/239_0_1109_887/master/1109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=82429091cbb44933769b8511d75d2870
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 Halloween’s Michael Myers is one of film’s most feared boogeymen, responsible for some of the most brutal on-screen deaths in horror cinema. US video game developer Illfonic looked to reproduce those terrors in its upcoming title Halloween: The Game, with gruesome killings a major focus of the gameplay: for instance, you can stomp another player’s head through a toilet seat, or fry their brain by throwing them through a television screen.

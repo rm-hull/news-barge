@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Teachers at the epicenter of Congo's Ebola outbreak are calling for a
   delayed reopening of schools due to the ongoing Ebola outbreak
 image: https://static.independent.co.uk/2026/08/27/16/Congo_Ebola_Teachers_37817.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
 ---
 
 Parents and teachers at the epicenter of Congo's fast-moving Ebola outbreak are urging authorities to delay the reopening of schools as infections continue to outpace efforts to contain the disease.

@@ -10,6 +10,9 @@ published: '2026-09-07T00:00:00Z'
 description: I saw UGreen’s new AI-led NAS tech in action, and it could be a total
   game-changer for your home.
 image: https://cdn.mos.cms.futurecdn.net/DhrRjyPnjED6Qi4TSi3Fya-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![UGreen HomeAgent on display at IFA 2026](https://cdn.mos.cms.futurecdn.net/DhrRjyPnjED6Qi4TSi3Fya.jpg) 

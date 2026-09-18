@@ -7,6 +7,10 @@ scraped_at: '2026-08-29T13:49:59Z'
 published: '2026-08-29T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/The-Ballad-of-Mulan-Production-shot-06-Credit-Malcolm-Tam-small.webp
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 Discover the real Chinese heroine that inspired Disney’s animation and live-feature *Mulan* in show coming to York.

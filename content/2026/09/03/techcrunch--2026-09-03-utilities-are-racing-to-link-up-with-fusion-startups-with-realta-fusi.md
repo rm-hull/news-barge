@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: The grid has been straining under the weight of new AI data centers,
   and that has utilities courting fusion startups.
 image: https://techcrunch.com/wp-content/uploads/2025/05/realta-fusion-device.jpeg?resize=1200,900
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Fusion startup Realta Fusion this week announced a deal with Madison Gas and Electric that will place one of the first grid-connected fusion power plants in the country in Wisconsin. The partnership comes as utilities around the world have been jockeying to court fusion startups, a courtship that says as much about utilities’ anxiety over future power supply as it does about fusion’s progress.

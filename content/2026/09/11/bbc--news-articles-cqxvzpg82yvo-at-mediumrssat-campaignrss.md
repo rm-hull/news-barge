@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: The Green Party leader said the party is the "underdog" in Holborn and
   St Pancras but "can win".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d808/live/0f1e2400-7172-11f1-a417-dfae8167aae6.png
+categories:
+- UK
+- News & Politics
 ---
 
 ![Zack Polanski is wearing a dark coloured jacket and green shirt. He has stubble and short, dark hair. He is stood in front of two microphones and a red background.](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/d808/live/0f1e2400-7172-11f1-a417-dfae8167aae6.png)

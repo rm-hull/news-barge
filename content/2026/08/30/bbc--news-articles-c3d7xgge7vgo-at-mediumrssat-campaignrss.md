@@ -8,6 +8,9 @@ published: '2026-08-30T00:00:00Z'
 description: Finn Joughin, a 22-year-old student activist, was arrested in the Palestinian
   village of Umm Al-Kheir.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cec4/live/fdcbbaf0-a4b1-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Finn Joughin, a 22-year-old student activist, was arrested in Umm Al-Kheir on Saturday. He is smiling and looking directly at the camera. He is wearing a soft canvas hat and wearing a blue shirt with cream-coloured floral motifs.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/cec4/live/fdcbbaf0-a4b1-11f1-b109-879e35c24276.jpg)

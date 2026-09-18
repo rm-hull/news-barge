@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Ludek Miklosko, who has died aged 64, was a cult figure with West Ham
   supporters after his move to London in 1990.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fe22/live/17d69a90-30a6-11f0-8519-3b5a01ebe413.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Sports
 ---
 
 ![Ludek Miklosko is applauded by fans before West Ham's match against Liverpool in December 2024](https://ichef.bbci.co.uk/ace/standard/774/cpsprodpb/fe22/live/17d69a90-30a6-11f0-8519-3b5a01ebe413.jpg)

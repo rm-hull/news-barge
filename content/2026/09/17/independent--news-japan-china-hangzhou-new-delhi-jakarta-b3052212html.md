@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: The Asian Games are often identified as the second most important multisports
   event after the Summer Olympic Games
 image: https://static.independent.co.uk/2026/09/18/00/Asian_Games_Cruise_Ship_22763.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Video Gaming
+- Sports
 ---
 
 The Asian Games open Saturday in Nagoya, Japan, and are often identified as the second most important multisports event after the Summer Olympic Games.

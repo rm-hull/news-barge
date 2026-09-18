@@ -10,6 +10,10 @@ description: The update turns product recommendations into a more direct revenue
   for creators, and for Amazon, the move puts its massive online marketplace inside
   one of the most popular video platforms.
 image: https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2242441443.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Creator Economy & Marketing
+- Business & Entrepreneurship
 ---
 
 YouTube announced on Thursday that eligible creators in the U.S. can now tag Amazon products in their content and receive a cut of sales. Creators can link Amazon products in their shorts, long-form videos, and livestreams.

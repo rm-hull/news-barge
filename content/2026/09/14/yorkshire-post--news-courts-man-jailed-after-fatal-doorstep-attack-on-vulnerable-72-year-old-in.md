@@ -8,6 +8,12 @@ published: '2026-09-14T00:00:00Z'
 description: A man who fatally injured a 72-year-old by punching him on the doorstep
   of his Wakefield home has been jailed for six years and three months.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/14/17/14/MixCollage-14-Sep-2026-06-35-PM-4053.jpeg?trim=70,0,71,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- News & Politics
 ---
 
 # Man jailed after fatal doorstep attack on vulnerable 72-year-old in Wakefield

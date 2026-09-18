@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Max Lederer, longtime head of the US military news outlet, says his ‘philosophy
   of leadership’ differs from Pentagon’s
 image: https://i.guim.co.uk/img/media/17197d95ed687df8be54e0d9c7cb3a0f2de145bd/715_379_2814_2253/master/2814.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06eecbfe0cc77331e77942286fb9e0b6
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 The long-serving publisher of Stars and Stripes could face an early dismissal just days after the taxpayer-funded military news outlet’s reporting revealed deteriorating conditions on the USS Abraham Lincoln aircraft carrier, according to a news report.

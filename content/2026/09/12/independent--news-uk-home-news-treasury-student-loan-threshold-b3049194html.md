@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Ministers have also agreed to explicitly clarify that loan conditions
   can be altered by future administrations
 image: https://static.independent.co.uk/2026/05/14/14/01K3314X2XR9HM6F6ED13BSRZT.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The Treasury has refused to rule out unfreezing the earnings threshold for university graduates, stating that all elements of the student finance system remain under review.

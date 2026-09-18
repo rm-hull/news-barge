@@ -9,6 +9,12 @@ published: '2026-09-16T00:00:00Z'
 description: North Yorkshire Police is appealing for help to locate the next of kin
   of a 59-year-old woman from Harrogate following her death.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmJlYTk3NDQyLWUxMTQtNGYwYi1iYWNjLWI3NmVhZTQ1MGE3ZDo3Mzc0Y2YxYy03MGQ0LTRlM2MtYWUzNS05N2ZlMTk3NGYxMTA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 # North Yorkshire Police issue appeal to help find next of kin following death of Harrogate woman

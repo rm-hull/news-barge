@@ -8,6 +8,11 @@ scraped_at: '2026-08-20T13:07:14Z'
 published: '2026-08-20T00:00:00Z'
 description: The York 50+ Festival is back next month. Grace Hammond reports.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjk2YjRlY2E1LWQ3YTctNGJmOC04ZThmLTRhOTExMzY1MTdkNzoxMjMyN2ViYy1iMTRjLTQyYWUtYWUxMy01NWYzNjc2YjZlNDA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # York 50+ Festival: Bob Towner legacy lecture, Mad Hatters March and friendship lunches at The Chopping Block

@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: A Buddhist monk who was punched and kicked by masked youths in a North
   East park has thanked residents for their support, saying he bears no anger…
 image: https://www.thenorthernecho.co.uk/resources/images/21380847.jpg?type=og-image&xType=0&yType=23
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Provided)*

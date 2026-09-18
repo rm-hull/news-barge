@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Renewed fighting has erupted between government forces and militias near
   Somalia’s southwestern city of Baidoa
 image: https://static.independent.co.uk/2026/09/03/13/Somalia_Violence_27647.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 Renewed fighting erupted early Thursday between government forces and militias on the outskirts of Somalia’s southwestern city of Baidoa, with reports of heavy gunfire and civilians fleeing their homes.

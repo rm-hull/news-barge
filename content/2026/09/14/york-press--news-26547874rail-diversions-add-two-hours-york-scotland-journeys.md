@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: LNER passengers face diversions via Carlisle and journeys up to two hours
   longer during Newcastle–Edinburgh works from September 19 to October 4.
 image: https://www.yorkpress.co.uk/resources/images/21451602.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Newsquest)*

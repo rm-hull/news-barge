@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Review to give Defense Secretary Hegseth at least four troop options
   by November 6
 image: https://static.independent.co.uk/2026/08/27/08/2291623777..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Internal Pentagon documents reveal that Defense Secretary Pete Hegseth will receive at least four distinct options for American troop dispositions in Europe by November 6, well ahead of the review's official December completion deadline.

@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: Trump has been seeking another summit with Kim Jong-un, following three
   meetings in 2018 and 2019
 image: https://static.independent.co.uk/2026/08/19/14/28/GettyImages-1159161650.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 North Korea declared on Monday that Washington’s hostile policy remains unchanged and pledged to continue strengthening its nuclear capabilities, rebuffing repeated American calls for denuclearization.

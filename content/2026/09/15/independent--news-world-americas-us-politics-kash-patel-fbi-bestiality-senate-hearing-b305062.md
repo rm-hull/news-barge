@@ -9,6 +9,9 @@ published: '2026-09-15T00:00:00Z'
 description: FBI director defends loosening hiring practices amid purge of agents
   and apparent staffing crisis at the law enforcement agency
 image: https://static.independent.co.uk/2026/09/15/15/2295413984..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 FBI Director Kash Patel was repeatedly forced to clarify during a Senate hearing whether the nation’s top law enforcement agency was employing people who committed acts of bestiality, quickly derailing hotly anticipated testimony under an avalanche of criticism and controversy.

@@ -8,6 +8,11 @@ scraped_at: '2026-09-18T12:59:39Z'
 published: '2026-09-18T00:00:00Z'
 description: The University of Bradford has dropped in ranking in a prestigious guide.
 image: https://www.thetelegraphandargus.co.uk/resources/images/17905315.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Newsquest)*

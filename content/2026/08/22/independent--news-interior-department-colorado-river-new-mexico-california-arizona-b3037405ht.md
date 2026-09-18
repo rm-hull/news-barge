@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Federal officials have announced sharp water cuts for the next two years
   for three Western states that rely on the imperiled Colorado River
 image: https://static.independent.co.uk/2026/07/31/16/Climate_Colorado_River_63961.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Federal officials announced sharp water cuts for the next two years on Friday for three Western states that rely on the imperiled Colorado River.

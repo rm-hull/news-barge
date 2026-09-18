@@ -10,6 +10,9 @@ description: A Democratic congresswoman says the person Immigration and Customs 
   agents targeted in Maine last month when an officer shot and killed a motorist was
   not subject to a final removal order
 image: https://static.independent.co.uk/2026/08/18/20/ICE_Shooting_Maine_76995.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The person Immigration and Customs Enforcement agents targeted in Maine last month when an officer shot and killed a motorist was a roommate who was not subject to a final removal order, a Democratic congresswoman from the state said.

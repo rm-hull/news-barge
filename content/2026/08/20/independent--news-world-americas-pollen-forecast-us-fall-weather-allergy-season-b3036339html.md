@@ -9,6 +9,10 @@ description: Ragweed is the biggest culprit of fall allergies - a single plant c
   produce up to a billion grains of irritating pollen that can travel hundreds of
   miles
 image: https://static.independent.co.uk/2026/08/20/13/25/GettyImages-2255906994.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Seasonal allergy sufferers beware: This fall is looking like a pollen bomb in many parts of the United States, due to increasingly warm and wet weather.

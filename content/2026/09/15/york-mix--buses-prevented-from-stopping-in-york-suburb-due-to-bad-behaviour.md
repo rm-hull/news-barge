@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T11:26:43Z'
 published: '2026-09-15T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-chapelfields-bus-westield-labour-fb.webp
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 Buses were prevented from stopping in a York suburb last night (Monday) due to youths causing trouble.

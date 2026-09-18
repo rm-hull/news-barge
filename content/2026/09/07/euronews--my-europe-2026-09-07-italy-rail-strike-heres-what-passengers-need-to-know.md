@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: 'Passengers can request a full refund, although the deadline for doing
   so varies depending on the type of service. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/36/07/1200x675_cmsv2_035a9b55-6509-5121-9b5a-0ec2f66d571c-9903607.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 **Euronews**

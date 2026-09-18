@@ -8,6 +8,10 @@ scraped_at: '2026-09-15T13:29:29Z'
 published: '2026-09-15T00:00:00Z'
 description: Harry Brook's side face The Lions in a three-match series
 image: https://cdn.mos.cms.futurecdn.net/ZYznxsS4frRG8UwGatZXhA-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Film & TV
 ---
 
 ![Harry Brook of England hits out during the 5th Vitality IT20 match between England and India at the Utilita Bowl on July 11, 2026 in Southampton, England](https://cdn.mos.cms.futurecdn.net/ZYznxsS4frRG8UwGatZXhA.jpg) 

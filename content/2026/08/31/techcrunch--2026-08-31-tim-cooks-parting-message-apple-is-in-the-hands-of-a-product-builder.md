@@ -10,6 +10,10 @@ description: 'Tim Cook’s farewell memo to Apple employees offers a glimpse at 
   he wants John Ternus to be seen: as a product builder with deep experience across
   the iPhone, Mac, AirPods, and other major hardware lines.'
 image: https://techcrunch.com/wp-content/uploads/2026/04/Apple-John-Ternus-Tim-Cook_Full-Bleed-Image.jpg.xlarge_2x.jpg?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 On his last day as Apple CEO, Tim Cook offered a rousing endorsement of his successor: John Ternus, the company’s senior vice president of hardware engineering. In a memo to employees, Cook reminded staff that he’s “not leaving Apple,” just stepping away from the role of CEO, while declaring that “few people understand what it takes to build products that change the world the way John does.”

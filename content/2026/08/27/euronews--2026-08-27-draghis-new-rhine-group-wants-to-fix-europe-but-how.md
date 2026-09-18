@@ -9,6 +9,10 @@ description: Video. Draghi’s new Rhine Group wants to fix Europe. But how? Eur
   speaks to Executive Director Luis Garicano about the group’s mission, members and
   why now.
 image: https://images.euronews.com/articles/stories/09/89/16/41/1200x675_cmsv2_74ea6e0d-45b8-5ef3-9e93-6bad899391fe-9891641.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Euronews speaks to Rhine Group's Executive Director Luis Garicano about the group’s mission, members and why now, as calls grow for the European Commission to implement the Draghi Report faster. The launch of the platform also marks the return of the former ECB central banker to the forefront of Europe’s economic debate. Garicano tells Euronews the goal remains the same: to stop a trajectory of slow decline. **“We want Europe to be an innovation superpower.”**

@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Britain’s plants and species haven’t had time to adapt to extreme conditions
   – and are already suffering
 image: https://static.independent.co.uk/2026/08/14/10/2290420135..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 While wildfires dominated the headlines this summer, the effects of extreme heat and drought are also visible on a much smaller scale: parched lawns, wilting and browning trees and dry ditches and bogs. These changes may look temporary, but for wildlife they can have consequences that last long after the rain returns.

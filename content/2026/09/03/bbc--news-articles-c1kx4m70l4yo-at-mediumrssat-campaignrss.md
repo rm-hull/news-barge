@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: The US president says the UK was not "there to help me" in his ongoing
   war with Iran.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bbd3/live/c8f1c0a0-a7b2-11f1-b5cf-8556ae508a51.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Society & Culture
 ---
 
 ![US President Donald Trump speaks during an End of Summer BBQ event with Republican lawmakers in the Rose Garden of the White House in Washington DC.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/bbd3/live/c8f1c0a0-a7b2-11f1-b5cf-8556ae508a51.jpg)

@@ -10,6 +10,9 @@ published: '2026-09-09T00:00:00Z'
 description: 'Creative Assembly worked closely with Games Workshop to ensure the Total
   War: Warhammer 40,000 player experience was as "authentic" as possible.'
 image: https://cdn.mos.cms.futurecdn.net/uk6sqoAJZmEjWgiWSeQ3QU-1920-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Total War: Warhammer 40,000](https://cdn.mos.cms.futurecdn.net/uk6sqoAJZmEjWgiWSeQ3QU.jpg) 

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: It is the latest in a string of high-profile art thefts in Europe that
   has again put the security of museums and galleries in the spotlight.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/346b/live/006bdfb0-aba1-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 What we know about the Renoir museum heist

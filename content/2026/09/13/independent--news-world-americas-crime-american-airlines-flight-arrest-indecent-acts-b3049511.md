@@ -7,6 +7,11 @@ scraped_at: '2026-09-13T22:22:06Z'
 published: '2026-09-13T00:00:00Z'
 description: The flight was not diverted despite the disturbance by the passenger
 image: https://static.the-independent.com/2026/09/13/21/2026-09-02T140007Z_79238018_RC296R9KAB1L_RTRMADP_3_AMERICAN-AIRLINE-PREMIUM-SEATS.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Film & TV
 ---
 
 A woman was taken into custody by law enforcement in Miami after she allegedly undressed on her flight and began acting indecently.

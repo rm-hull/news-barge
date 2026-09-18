@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: An independent coffee shop in the town where Sam Fender grew up will
   close next month, after almost a decade in business and six years in North…
 image: https://www.thenorthernecho.co.uk/resources/images/21473804.jpg?type=og-image&xType=0&yType=188
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A North East coffee shop in the hometown of chart-topping singer Sam Fender has announced it will close its doors after six years in the town and almost a decade in business.

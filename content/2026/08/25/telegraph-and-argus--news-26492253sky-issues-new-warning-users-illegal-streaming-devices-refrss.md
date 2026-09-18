@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: Sky has issued a fresh warning to those using illegal streaming devices
   as the 2026/27 Premier League season gets underway.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21364337.jpg?type=og-image&xType=0&yType=16
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Film & TV
 ---
 
 Sky has issued a fresh warning to those using illegal streaming devices as the new Premier League season gets underway.

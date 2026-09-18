@@ -9,6 +9,9 @@ published: '2026-08-28T00:00:00Z'
 description: 'Exclusive: Michael Boren, a senior official overseeing the US Forest
   Service, is accused by Democratic senators of ‘inappropriate interference’'
 image: https://i.guim.co.uk/img/media/b33f6c08bb79f68bf101b89a2a08d52e3be08157/312_0_3120_2496/master/3120.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26330aa597979574c39e0c0ca7e47515
+categories:
+- UK
+- News & Politics
 ---
 
 Donald Trump’s administration is facing calls to launch an investigation into allegations that Michael Boren, a senior official who oversees the US Forest Service, pressed agency staff to deploy additional resources to fight a fire burning near his Idaho ranch.

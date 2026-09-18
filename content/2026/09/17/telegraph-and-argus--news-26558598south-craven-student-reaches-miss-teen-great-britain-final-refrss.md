@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: A student says it is a 'dream come true' after winning a place in the
   grand final of Miss Teen Great Britain 2026.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21467420.jpg?type=og-image&xType=0&yType=23
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Caitlin Walsh)*

@@ -9,6 +9,11 @@ description: 'To mark the 35th anniversary, the country’s president, Emomali R
   set out plans for economic growth, hydropower, investment, and a stronger international
   presence. #Focus'
 image: https://images.euronews.com/articles/stories/09/91/56/09/1200x675_cmsv2_c896357b-2e60-5424-8eec-b49e658e18d1-9915609.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## To mark the 35th anniversary, the country’s president, Emomali Rahmon, set out plans for economic growth, hydropower, investment, and a stronger international presence.

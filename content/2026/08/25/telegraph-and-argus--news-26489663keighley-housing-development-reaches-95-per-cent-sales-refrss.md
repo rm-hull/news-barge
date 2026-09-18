@@ -7,6 +7,12 @@ scraped_at: '2026-08-25T08:55:45Z'
 published: '2026-08-25T00:00:00Z'
 description: A NEW housing development in Keighley has reached a major sales milestone.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21362734.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Supplied)*

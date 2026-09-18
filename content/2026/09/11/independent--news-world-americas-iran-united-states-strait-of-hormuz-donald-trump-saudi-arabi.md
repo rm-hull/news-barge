@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: The United States has succeeded in loosening Iran's grip over the Strait
   of Hormuz while virtually shutting down Iran's own exports
 image: https://static.independent.co.uk/2026/09/08/05/APTOPIX_Iran_War_Strait_of_Hormuz_56787.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 In recent weeks, the United States has succeeded in loosening Iran's grip over the Strait of Hormuz while virtually shutting down Iran's own oil exports, accelerating its economic free fall.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T04:15:51Z'
 published: '2026-09-03T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/billy-johnson.webp
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 A notorious thief pointed a knife at a young man at a cash machine in a busy York street and told him: “If you don’t get the money, I’ll stab you.”

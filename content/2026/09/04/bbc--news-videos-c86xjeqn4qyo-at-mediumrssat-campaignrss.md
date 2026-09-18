@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Chris Mason speaks from the Reform UK conference as two of its senior
   officials step down following a Channel 4 investigation.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c78/live/b940e670-a859-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 # Mason: 'Not what Farage wanted today to look like'

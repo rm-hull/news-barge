@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Ukraine's third-biggest city Odesa decides this week whether to ban Russian-language
   content in music and literature in public.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5fec/live/5ccc6200-a87e-11f1-824a-0fc4c5d895ae.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![Activists holding placards take part in a rally in support of introducing a moratorium on the public use of Russian-language cultural products on July 8, 2026 in Odesa, Ukraine](https://ichef.bbci.co.uk/ace/standard/854/cpsprodpb/5fec/live/5ccc6200-a87e-11f1-824a-0fc4c5d895ae.jpg)

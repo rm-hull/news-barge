@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Police are appealing for information to help trace two missing Vietnamese
   men.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21337476.jpg?type=og-image&xType=0&yType=32
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

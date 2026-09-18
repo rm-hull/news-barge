@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Thousands of residents will soon be able to secure their place at one
   of County Durham's most popular Bonfire Night events.
 image: https://www.thenorthernecho.co.uk/resources/images/20131142.jpg?type=og-image&xType=0&yType=51
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: THE NORTHERN ECHO)*

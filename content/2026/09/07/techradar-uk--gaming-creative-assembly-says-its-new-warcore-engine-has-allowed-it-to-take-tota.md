@@ -11,6 +11,8 @@ published: '2026-09-07T00:00:00Z'
 description: 'Creative Assembly has shared just how much its new Warcore engine has
   enabled it to improve almost every aspect of Total War: Warhammer 40,000.'
 image: https://cdn.mos.cms.futurecdn.net/MfYEaZiY6XmdJzBmeUXQ97-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Total War: Warhammer 40,000](https://cdn.mos.cms.futurecdn.net/MfYEaZiY6XmdJzBmeUXQ97.jpg) 

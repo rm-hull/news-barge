@@ -7,6 +7,12 @@ scraped_at: '2026-09-17T13:23:24Z'
 published: '2026-09-17T00:00:00Z'
 description: A HOUSING association is celebrating four decades of supporting communities
 image: https://www.thetelegraphandargus.co.uk/resources/images/21463286.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

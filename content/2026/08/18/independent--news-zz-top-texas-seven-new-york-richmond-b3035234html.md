@@ -8,6 +8,10 @@ scraped_at: '2026-08-18T20:35:19Z'
 published: '2026-08-18T00:00:00Z'
 description: Frank Beard, the drummer for ZZ Top, has died at 77
 image: https://static.independent.co.uk/2026/08/18/21/Obit_-_Frank_Beard_36638.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 Frank Beard, the drummer for the Texas boogie-rock trio ZZ Top who kept the tempo for the band’s biggest hits like “Sharp Dressed Man,” “Legs” and “Gimme All Your Lovin,’” has died. He was 77.

@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: BBC Verify used ship-tracking websites to follow UK and French vessels
   which monitored the migrant boat in the English Channel.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05d5/live/3d84a920-aadb-11f1-a291-b542ee92de7c.png
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 # What we know about the journey of the Portsmouth migrant boat

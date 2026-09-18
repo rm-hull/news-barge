@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Get all of the latest Latest news from Harrogate Advertiser. Providing
   a fresh perspective for online news.
 image: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![Harrogate’s Great Yorkshire Showground welcomed a host of talented, big named DJs and musicians to Symphonic Ibiza including BBC Radio 2's Vernon Kay for a sunny evening to remember.  (Picture Sam Ashton)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmI3ZjVhNjRiLTRhMTgtNDlmZi1iMDRiLTM2M2FmODZiMGY4Nzo4ZTFkNWUxZS1iMWJhLTQzODUtOTFkMy0zMDdiODhkZmU4NTI=.jpg?crop=5:4,smart&trim=&quality=70&width=616)

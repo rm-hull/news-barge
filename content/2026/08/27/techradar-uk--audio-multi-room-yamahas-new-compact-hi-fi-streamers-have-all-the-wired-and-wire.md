@@ -10,6 +10,8 @@ published: '2026-08-27T00:00:00Z'
 description: 'Yamaha has unveiled two new music devices, set to sell in November:
   a compact streamer and a streaming amp.'
 image: https://cdn.mos.cms.futurecdn.net/XNqYtBF63L5wedgSxMeRkg-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Yamaha WXC-70A on a shelf.](https://cdn.mos.cms.futurecdn.net/XNqYtBF63L5wedgSxMeRkg.jpg) 

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The gesture triggered mockery from Trump’s critics, celebration by his
   supporters and a steady stream of memes from everyone in between
 image: https://static.independent.co.uk/2026/08/24/12/49/GettyImages-2291195629-(1).jpeg?trim=181,0,181,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 President Donald Trump waved the green flag to start the Freedom 250 Grand Prix IndyCar race in Washington, D.C. Sunday — a brief, ceremonial moment that quickly swept social media.

@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: President Donald Trump has transformed the White House Rose Garden by
   adding statues of America’s founders
 image: https://static.independent.co.uk/2026/08/22/13/Trump_Rose_Garden_Statues_67271.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Instead of adding new roses, President Donald Trump’s White House Rose Garden is growing statues.

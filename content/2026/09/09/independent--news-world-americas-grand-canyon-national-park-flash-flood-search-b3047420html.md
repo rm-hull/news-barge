@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: ‘These last nine days have been the hardest days that my family has endured,’
   the hiker’s wife wrote in a Tuesday Facebook post
 image: https://static.independent.co.uk/2026/09/09/16/11/missinggrandcanyon.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Arizona’s Grand Canyon National Park announced a recovery plan for the canyon’s water system Tuesday as search operations continue following August’s deadly flash flooding.

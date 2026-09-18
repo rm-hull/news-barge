@@ -7,6 +7,11 @@ scraped_at: '2026-08-18T19:36:31Z'
 published: '2026-08-18T00:00:00Z'
 description: A crash has blocked part of the M62.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20679147.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Highways England)*

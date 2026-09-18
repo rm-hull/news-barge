@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: WORK is about to begin to rescue a building that is the first of its
   kind in the world but which has been slowly, and sadly, falling down for the…
 image: https://www.thenorthernecho.co.uk/resources/images/21353006.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 Work is about to begin to rescue a building that is the first of its kind in the world but which has been slowly, and sadly, falling down for the last 50 years.

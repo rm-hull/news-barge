@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Apple today introduced its first foldable device, named the iPhone Duo,
   at its "Surprise and Shine" iPhone event held in Cupertino. The phone is the first
 image: https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Apple today introduced its first foldable device, named the iPhone Duo, at its “Surprise and Shine” iPhone event held in Cupertino. The phone is the first marquee device launched under the company’s new CEO, John Ternus.

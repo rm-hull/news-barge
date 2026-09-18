@@ -9,6 +9,10 @@ description: Days after a missile strike hit a home in southern Iran during a we
   celebration, images show the destruction left behind and mourners gathering for
   a mass funeral for those killed.
 image: https://static.independent.co.uk/2026/09/04/20/APTOPIX_Iran_US_War_72598.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Photos show destruction and mourning after a strike on an Iranian wedding

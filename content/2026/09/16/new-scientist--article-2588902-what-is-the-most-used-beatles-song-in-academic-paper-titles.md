@@ -9,6 +9,10 @@ description: Feedback enjoys a new piece of research delving into papers whose t
   mention Beatles songs – but wonders if there is an ulterior motive at work for those
   who pulled it together
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312555278.jpg
+categories:
+- Science
+- Technology & Software
+- Music
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312555278.jpg?w=840)

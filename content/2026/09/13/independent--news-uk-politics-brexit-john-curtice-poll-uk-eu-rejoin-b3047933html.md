@@ -9,6 +9,9 @@ published: '2026-09-13T00:00:00Z'
 description: 'Exclusive: But another referendum could still be on a knife edge, Sir
   John Curtice suggests'
 image: https://static.independent.co.uk/2026/09/13/7/31/burnham-eu.avif?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Support for rejoining the European Union is at its highest level since the Brexit vote – but political leaders need to seize the opportunity or it will all come to nothing, the UK’s leading polling guru has warned.

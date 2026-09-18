@@ -9,6 +9,10 @@ description: Video. A restored 1912 industrial complex now houses a contemporary
   centre, opening with Hikmah, featuring an installation from the Guggenheim Museum
   collection.
 image: https://images.euronews.com/articles/stories/09/90/46/88/1200x675_cmsv2_1c5e572a-41e4-5e7c-a405-1d32191d70ae-9904688.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 A 1912 industrial building designed by architect Wilhelm Heinzelman has been given a very different second life. First used as a tram depot and later as a diesel power station, the site has been restored as the Centre for Contemporary Arts Tashkent, with its industrial character deliberately preserved.

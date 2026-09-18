@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Despite talks between US envoys and both Putin and Zelensky, the expectation
   in Kyiv is the fighting will continue, writes James Landale.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77dd/live/92218f50-aa29-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![Ukraine's President Volodymyr Zelenskiy, U.S. Special Envoy Steve Witkoff and Jared Kushner, U.S. President Donald Trump's son-in-law, after a joint news conference,](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/77dd/live/92218f50-aa29-11f1-a291-b542ee92de7c.jpg)

@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: ‘Landmarks’ side of the medal features the Allianz Arena in Munich, Germany,
   rather than Allianz Stadium in Sydney
 image: https://i.guim.co.uk/img/media/bcb5be27066d591f5b99283bdb63f22018974ba1/0_0_1975_1580/master/1975.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7acfa25ea0cee64d78a633427d176dee
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 In a week’s time, the proud runners finishing the Sydney Marathon will receive a medal showing the landmarks they have just sped past – plus one they definitely didn’t.

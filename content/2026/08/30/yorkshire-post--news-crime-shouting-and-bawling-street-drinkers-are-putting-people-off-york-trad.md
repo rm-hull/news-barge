@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: Traders have spoken out about antisocial behaviour and street drinking
   plaguing a part of York.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM1YTA3NzE2LTFlNWEtNGRmYS1iZTI3LTQ0NTVlNGU5M2JjNzoxZTZjZjc4My00NTdjLTQyNTEtOWZlNC04MGQ0MTE3MTdiZDg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # 'Shouting and bawling' street drinkers are putting people off, York traders warn

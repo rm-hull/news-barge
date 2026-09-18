@@ -9,6 +9,11 @@ description: Filip Hrgovic shatters Moses Itauma's world-title dream as the Brit
   appears to punch himself out in an extraordinary heavyweight world-title contest
   in London.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7f9c/live/a595bab0-a3fe-11f1-94f0-8d62ae00a5eb.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- History
 ---
 
 ![Filip Hrgovic lands a punch on Moses Itauma](https://ichef.bbci.co.uk/ace/standard/983/cpsprodpb/7f9c/live/a595bab0-a3fe-11f1-94f0-8d62ae00a5eb.jpg)

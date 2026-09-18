@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: A burst water main has flooded a railway line between Saltburn-by-the-Sea
   and Middlesbrough.
 image: https://www.yorkpress.co.uk/resources/images/21415344.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

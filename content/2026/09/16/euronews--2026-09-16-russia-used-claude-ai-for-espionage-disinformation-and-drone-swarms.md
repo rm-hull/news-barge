@@ -10,6 +10,11 @@ description: Anthropic's latest report on the abuse of its AI model found that a
   Ukrainian defence ministries and drone suppliers, while separate operators ran pro-Kremlin
   disinformation in Africa and Moldova.
 image: https://images.euronews.com/articles/stories/09/91/56/59/1200x675_cmsv2_2c07023a-a3c7-5c4e-9c4e-a9e86c33f53e-9915659.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ## Anthropic's latest report on the abuse of its AI model found that a Russian-linked hacking group used Claude to automate attacks on more than 20 organisations, including Ukrainian defence ministries and drone suppliers, while separate operators ran pro-Kremlin disinformation in Africa and Moldova.

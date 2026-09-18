@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: Poor enforcement of building safety regulations in Pakistan has been
   blamed for the high death toll in fires.
 image: https://images.euronews.com/articles/stories/09/88/89/69/1200x675_cmsv2_38482c75-67a9-5c5a-aec9-78861297fa72-9888969.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Poor enforcement of building safety regulations in Pakistan has been blamed for the high death toll in fires.

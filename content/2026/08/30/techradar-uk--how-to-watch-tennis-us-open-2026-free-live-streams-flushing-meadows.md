@@ -8,6 +8,9 @@ published: '2026-08-30T00:00:00Z'
 description: All the ways to watch US Open 2026 live streams – including for FREE
   – with Berrettini vs Wawrinka headlining the Round 1 action at Flushing Meadows.
 image: https://cdn.mos.cms.futurecdn.net/BRSg2naNovcURuUxPKq7g7-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Carlos Alcaraz in action at US Open 2026](https://cdn.mos.cms.futurecdn.net/BRSg2naNovcURuUxPKq7g7.jpg) 

@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: British Transport Police have issued an update after a major incident
   disrupted trains between York and North Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/19188317.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 ## Person dies with paramedics and officers rushing to incident

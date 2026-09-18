@@ -10,6 +10,8 @@ published: '2026-08-26T00:00:00Z'
 description: Metro 2039 creative director Andriy Shevchenko has revealed that 4A Games'
   latest game engine allows "billions" of objects to create a dense, realistic world.
 image: https://cdn.mos.cms.futurecdn.net/nagrTYSY2axRaQEh2BmC64-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Metro 2039](https://cdn.mos.cms.futurecdn.net/nagrTYSY2axRaQEh2BmC64.jpg) 

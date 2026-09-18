@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: PM makes first major spending announcement on policy priority – but uses
   money set aside by Starmer and backtracks on social housing vow
 image: https://static.independent.co.uk/2026/08/21/16/01M0JDRR2PCDEB2955RW40M8RK.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Andy Burnham has announced the comeback of the council house as he unveiled a £10bn package to build 70,000 new homes in England.

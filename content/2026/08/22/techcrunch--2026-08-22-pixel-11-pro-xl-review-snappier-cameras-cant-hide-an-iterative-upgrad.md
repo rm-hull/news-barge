@@ -10,6 +10,8 @@ description: Google’s Pixel 11 Pro XL brings snappier cameras and genuinely us
   AI features like Rambler, but its iterative upgrades may not be enough to tempt
   recent Pixel owners.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Pixel-11-Pro-XL-main.jpg?resize=1200,675
+categories:
+- Technology & Software
 ---
 
 If you buy the new Pixel 11 Pro, you might have to proactively tell people that you bought the latest phone, unless they are following each and every launch. The main reason is that the Pixel 11 doesn’t *look* that different from prior models. The main updates to its aesthetics are its new colors, which are admittedly gorgeous, and the addition of a small glowing light on the back of the phone, which has limited use.

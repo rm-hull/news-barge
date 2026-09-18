@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Meta is defending itself in a California federal court against allegations
   that its social media business poses harms to children and teenagers
 image: https://static.independent.co.uk/2026/08/19/20/US_Meta_Trial_57_74.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Meta insists it has a long history of protecting its youngest customers as it defends itself against a swath of lawsuits alleging its social media empire harms children.

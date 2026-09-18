@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Neighbours heard loud bangs as windows smashed before collision that
   prompted 17 arrests
 image: https://static.independent.co.uk/2026/08/25/17/01M0WX0EDVW90VR4PSCSSR7WHM.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A house reportedly owned by the father of a teenager who died in a crash that killed two police officers was rammed by a car before the collision.

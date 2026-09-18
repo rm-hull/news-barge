@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: Andy Burnham is set to become the first serving Prime Minister to take
   part in the AJ Bell Great North Run.
 image: https://www.thenorthernecho.co.uk/resources/images/21446896.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Andy Burnham is set to become the first serving Prime Minister to take part in the Great North Run to raise money for a homelessness charity.

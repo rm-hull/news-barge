@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Elena Rybakina demonstrates why she is the best women's player in the
   world by beating Aryna Sabalenka to win her first US Open title.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4f42/live/2b64b920-af03-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Elena Rybakina lifts the US Open trophy with Aryna Sabalenka looking on](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1640/live/9be39be0-aefd-11f1-812c-df2830a6d395.jpg)

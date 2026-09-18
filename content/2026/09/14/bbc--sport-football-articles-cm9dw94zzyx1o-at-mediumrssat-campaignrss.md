@@ -9,6 +9,10 @@ description: Stoke City centre-half Luke Graham and Sevilla striker Robbie Ure w
   receive their first full Scotland call-ups on Tuesday when Sebastien Pocognoli names
   his first squad as head coach.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/13fd/live/57f44cd0-b070-11f1-b1d1-571ed4d7ff2c.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Luke Graham and Robbie Ure](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/13fd/live/57f44cd0-b070-11f1-b1d1-571ed4d7ff2c.png)

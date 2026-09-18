@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T13:07:24Z'
 published: '2026-08-20T00:00:00Z'
 description: Why network readiness determines long-term AI returns
 image: https://cdn.mos.cms.futurecdn.net/gMavKmnr8ZGuzV56Abc7DM-2560-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![A digital representation of the globe with digital lines connecting parts of it, below binary figures](https://cdn.mos.cms.futurecdn.net/gMavKmnr8ZGuzV56Abc7DM.jpg) 

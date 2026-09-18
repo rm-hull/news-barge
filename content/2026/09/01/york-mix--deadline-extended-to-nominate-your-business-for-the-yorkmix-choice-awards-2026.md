@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T19:22:59Z'
 published: '2026-09-01T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/10/choice-2025-27.webp
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 Nominations have extended for our YorkMix Choice Awards 2026.

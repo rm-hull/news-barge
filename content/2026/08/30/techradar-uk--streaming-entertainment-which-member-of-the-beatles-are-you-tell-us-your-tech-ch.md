@@ -8,6 +8,9 @@ published: '2026-08-30T00:00:00Z'
 description: A big fan of The Beatles? This 30-question tech personality quiz will
   determine which band member you're most like.
 image: https://cdn.mos.cms.futurecdn.net/jf8yreF9aidjNLx2knUaqm-1920-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ![the beatles abbey road album cover](https://cdn.mos.cms.futurecdn.net/jf8yreF9aidjNLx2knUaqm.jpg) 

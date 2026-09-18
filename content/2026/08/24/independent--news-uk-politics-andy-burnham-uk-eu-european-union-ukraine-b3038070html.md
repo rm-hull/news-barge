@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The comments come ahead of a summit between the UK and EU which is due
   to take place later this year
 image: https://static.independent.co.uk/2026/08/23/12/2290777169..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Andy Burnham has suggested that Britain plans to take a "bolder" approach towards forging closer relations with the European Union.

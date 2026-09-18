@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A national social care charity with an 80-year history in Darlington
   has unveiled a new name as it sets out plans to expand its impact while keeping…
 image: https://www.thenorthernecho.co.uk/resources/images/21453933.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A national social care charity with an 80-year history in Darlington has unveiled a new name as it sets out plans to expand its impact while keeping the town at the heart of its operations.

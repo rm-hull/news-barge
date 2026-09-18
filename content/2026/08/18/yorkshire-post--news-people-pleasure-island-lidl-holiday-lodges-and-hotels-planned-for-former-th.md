@@ -10,6 +10,11 @@ description: The redevelopment of the former Pleasure Island theme park site in 
   will be back before councillors to decide on it “ideally as soon as possible”, a
   councillor has said – but only once due diligence checks have been completed.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjc1MWY0NGNiLTRjOGItNDljMy05Mzc2LTlmODMxMjRhZmI2MzpjZWIzNDYzMS0xNjE0LTQ5NzMtYjkxMC1hZTE4YWU5NTNkMzQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Pleasure Island: Lidl, holiday lodges and hotels planned for former theme park site

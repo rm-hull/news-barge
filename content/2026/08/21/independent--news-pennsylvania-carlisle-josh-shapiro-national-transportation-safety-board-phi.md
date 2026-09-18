@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Federal investigators have pulled intact data cards from a state police
   helicopter and Cessna aircraft that collided near a runway in central Pennsylvania
 image: https://static.independent.co.uk/2026/08/21/00/Helicopter_Plane_Crash_Pennsylvania_34735.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Federal investigators have pulled intact data cards from a state police helicopter and Cessna plane that collided at a small airport in central Pennsylvania, killing the plane’s pilot.

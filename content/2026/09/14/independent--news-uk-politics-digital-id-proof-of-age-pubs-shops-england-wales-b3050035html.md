@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The changes to the licensing act that come into force on Tuesday apply
   to businesses in England and Wales
 image: https://static.independent.co.uk/2026/09/14/16/21/iStock-1306107388.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Pubs and retail outlets will be permitted to accept digital ID as valid proof of age when purchasing alcohol under new laws.

@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Environmental Secretary Angela Eagle said the government wants people
   to have ‘clear, reliable information’ about air pollution
 image: https://static.independent.co.uk/2026/08/26/17/2286428003..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A free text message and email warning system has been introduced by the Government to alert people across the UK when air pollution reaches high levels in their local area.

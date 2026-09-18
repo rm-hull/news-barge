@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: An MoD spokesperson responds by saying Britain stands "shoulder to shoulder"
   with Ukraine.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![People watch as smoke rises above a Wildberries facility following a reported Ukrainian drone strike at the Koledino Industrial Park near Podolsk in Russia on 16 August.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg)

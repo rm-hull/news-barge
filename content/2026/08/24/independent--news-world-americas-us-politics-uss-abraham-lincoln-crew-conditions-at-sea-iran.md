@@ -10,6 +10,10 @@ description: Iranian attacks that devastated a key US base in the Persian Gulf f
   the Navy to resupply the aircraft carrier from a faraway island in the Indian Ocean.
   Now it’s steaming home
 image: https://static.independent.co.uk/2026/08/20/21/57/USS-Lincoln.webp?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The food shortages and other problems that sparked outrage over substandard conditions on the USS *Abraham Lincoln* stemmed from Iranian attacks that devastated a key Navy base on the island nation of Bahrain — leaving the ship to rely on supplies from an outpost about 2,200 miles away.

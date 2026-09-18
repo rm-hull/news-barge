@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The project has brought traffic chaos and drawn complaints from residents,
   but it has also given archaeologists a rare glimpse into Tbilisi's past
 image: https://static.independent.co.uk/2026/09/09/14/2026-09-09T090224Z_1463501207_RC29ANAH9KYK_RTRMADP_3_GEORGIA-ARCHAEOLOGY-TBILISI.JPG?trim=0,26,0,26&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Roadworks that may have frustrated residents have yielded an archaeological prize: a cache of 10th-century pottery among the oldest medieval works ever found in the Georgian capital.

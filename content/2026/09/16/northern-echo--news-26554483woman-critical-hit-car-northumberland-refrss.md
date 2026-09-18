@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: A woman remains in a critical condition in hospital five days after being
   hit by a car in Northumberland.
 image: https://www.thenorthernecho.co.uk/resources/images/21461588.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: GOOGLE)*

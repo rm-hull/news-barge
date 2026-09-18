@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Trump ally should cut budget deficit rather than try to suppress bond
   yields, says billionaire Stanley Druckenmiller
 image: https://i.guim.co.uk/img/media/be918940d30a02e65544b700c175128ac8cf0775/586_0_4175_3340/master/4175.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=45081b8e1adeb105c78bc1d6d14a2cd3
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Scott Bessent’s attempt to calm the bond markets and push down America’s cost of borrowing have attracted a rebuke from the US Treasury secretary’s former mentor.

@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: She will say artificial intelligence has enormous potential but the Government
   will not ignore the risks posed by the technology.
 image: https://static.independent.co.uk/2026/09/15/07/edf554c56b8161edec3242c922424639Y29udGVudHNlYXJjaGFwaSwxNzg5NTM5MDcx-2.85365555.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Science
 ---
 
 The Government will “heed the warnings” of artificial intelligence (AI) experts who have highlighted the risks the technology could pose, First Secretary Louise Haigh will say on Tuesday.

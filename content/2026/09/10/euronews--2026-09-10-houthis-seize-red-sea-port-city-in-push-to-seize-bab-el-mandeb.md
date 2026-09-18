@@ -9,6 +9,9 @@ description: The Houthis' latest offensive is meant to replicate Iran's Hormuz b
   in the Bab el-Mandeb, with Red Sea coastal towns and islands in the crucial waterway
   among their next military objectives.
 image: https://images.euronews.com/articles/stories/09/90/85/08/1200x675_cmsv2_5265a0b1-49f4-5b63-9e41-9da0c8c97776-9908508.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## The Houthis' latest offensive is meant to replicate Iran's Hormuz blockade in the Bab el-Mandeb, with Red Sea coastal towns and islands in the crucial waterway among their next military objectives.

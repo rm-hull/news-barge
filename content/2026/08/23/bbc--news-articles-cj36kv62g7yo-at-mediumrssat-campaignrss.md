@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: The final film in the folk horror trilogy brings closure to the saga
   as well as its creator's family after more than 50 years.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/158f/live/ed9a2d40-9ef0-11f1-aed4-af6fe65bfcd6.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 ![Two men in their 50s either side of a poster for The Wicker Man outside a cinema. Dominic, on the left, is in a tweed suit and has glasses and thick hair. Justin (right) is in a cord suit and has a beard. They are smiling and pointing at the poster.](https://ichef.bbci.co.uk/ace/standard/746/cpsprodpb/158f/live/ed9a2d40-9ef0-11f1-aed4-af6fe65bfcd6.jpg)

@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: A motorist jumped the lights at a level crossing and drove through its
   closing gates, York magistrates heard.
 image: https://www.yorkpress.co.uk/resources/images/12712423.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: UGC)*

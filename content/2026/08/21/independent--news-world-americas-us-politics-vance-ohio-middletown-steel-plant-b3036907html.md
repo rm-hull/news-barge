@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Vice President JD Vance will return to his hometown Friday to campaign
   for Republican candidates
 image: https://static.independent.co.uk/2024/11/08/04/SEI227987728.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Vice President JD Vance will return to his Ohio hometown Friday to campaign for Republicans at the steel plant where his grandfather worked for nearly four decades, as the GOP fights to hold key offices in a state that has shifted firmly to the right.

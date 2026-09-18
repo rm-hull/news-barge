@@ -8,6 +8,9 @@ scraped_at: '2026-09-14T20:18:21Z'
 published: '2026-09-14T00:00:00Z'
 description: Be prepared for sticker shock
 image: https://cdn.mos.cms.futurecdn.net/GREi4LEjsga68aPho9Xe6B-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Valve Steam Frame](https://cdn.mos.cms.futurecdn.net/GREi4LEjsga68aPho9Xe6B.jpg) 

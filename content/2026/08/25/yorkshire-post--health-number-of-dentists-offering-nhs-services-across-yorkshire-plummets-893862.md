@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: There are just nine NHS practices for every 100,000 people in North Yorkshire
   and the Humber.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/07/28/00/v2-image-production-583532ade375a4fb905197ea7f3770e9Y29udGVudHNlYXJjaGFwaSwxNzcyNzg0MDcy-2.4182370.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # Number of dentists offering NHS services across Yorkshire plummets, new figures show

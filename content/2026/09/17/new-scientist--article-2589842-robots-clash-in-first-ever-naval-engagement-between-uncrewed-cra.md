@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Earlier this month, the Ukrainian Navy used an uncrewed vessel to attack
   and sink an uncrewed naval robot operated by Russian forces
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312813537.jpg
+categories:
+- Science
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Ukrainian Sargan destroys Russian MBEK in the Black Sea](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312813537.jpg?w=840)

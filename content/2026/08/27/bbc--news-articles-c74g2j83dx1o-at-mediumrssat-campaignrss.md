@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Sir Ridley Scott's post-apocalyptic epic explores the feeling of hope
   in a pandemic-riddled world.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f7f6/live/4e92e7b0-a2a5-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![Jacob Elordi appears dishevelled with shaggy hair, a beard and wearing a light green t-shirt.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/4fca/live/3ad0c4e0-a2a5-11f1-b109-879e35c24276.jpg)

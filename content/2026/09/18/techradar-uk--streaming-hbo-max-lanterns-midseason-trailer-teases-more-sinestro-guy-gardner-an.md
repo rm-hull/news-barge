@@ -10,6 +10,8 @@ published: '2026-09-18T00:00:00Z'
 description: Lanterns fans have spotted a crucial new detail about Hal Jordan in its
   latest trailer — and it might confirm a major theory about him.
 image: https://cdn.mos.cms.futurecdn.net/Ru2sV5Hfpzg3tnoWfG5xmg-1600-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Aaron Pierre's John Stewart sitting in a jail cell and looking at Nathan Fillion's Guy Gardner who's off-camera in Lanterns episode 6](https://cdn.mos.cms.futurecdn.net/Ru2sV5Hfpzg3tnoWfG5xmg.jpg) 

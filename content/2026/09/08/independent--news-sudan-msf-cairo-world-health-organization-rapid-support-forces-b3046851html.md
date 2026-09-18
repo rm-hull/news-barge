@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Aid groups say three dozen health facilities in Sudan are closing this
   year due to global aid cuts
 image: https://static.independent.co.uk/2026/09/08/20/Sudan_Aid_Cuts_8_137.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Society & Culture
 ---
 
 An additional three dozen health facilities serving more than 400,000 people in Sudan are closing this year due to global aid cuts, worsening a dire humanitarian situation in a country torn by more than three years of war, aid groups said Tuesday.

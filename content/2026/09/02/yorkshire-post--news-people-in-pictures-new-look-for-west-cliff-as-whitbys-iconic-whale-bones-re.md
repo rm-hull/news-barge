@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Whitby’s iconic whale bones have been removed, leaving townsfolk and
   visitors with a very different view from the West Cliff.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjljZDAzMDYyLWRjZWMtNDZlMi05ZWJmLWE3M2JlY2Q0MzU0MjoxMGI4MWQyNC1iNzkzLTQ0YzUtYjRhMS02NmQxMWRjZGNjZjY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 Years of exposure to the weather on the coast has led to significant deterioration in the arch’s condition, meaning the bones now need to be replaced.

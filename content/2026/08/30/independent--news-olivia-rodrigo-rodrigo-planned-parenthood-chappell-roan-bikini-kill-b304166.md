@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: Olivia Rodrigo is fundraising for women's well-being with a benefit show
   geared toward her young audience
 image: https://static.independent.co.uk/2026/08/30/05/Philanthropy_Olivia_Rodrigo_67233.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Evoking the same do-it-yourself pop-rock feminism of her '90s musical influences, Olivia Rodrigo raised $20 million for women's well-being with a benefit show that activated her young audience.

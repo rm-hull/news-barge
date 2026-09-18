@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: Retrospective plans for a city centre education provider that opened
   in a listed office building last year have been submitted to Bradford Council.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21342164.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: T&A)*

@@ -9,6 +9,11 @@ description: 'The European Parliament’s rapporteurs on the proposed Industrial
   Act are closing the EU market to Chinese investment in sectors where Beijing is
   dominant, going further than what the European Commission suggested. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/53/34/1200x675_cmsv2_50116a23-0686-5484-bf87-5a3bd47d4005-9905334.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## The European Parliament’s rapporteurs on the proposed Industrial Accelerator Act are closing the EU market to Chinese investment in sectors where Beijing is dominant, going further than what the European Commission suggested.

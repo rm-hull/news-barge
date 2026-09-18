@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Zendaya, Noah Wyle, Sarah Snook and Colman Domingo are among the stars
   nominated for acting prizes.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/02f2/live/2ca28070-b09c-11f1-9e7d-cb2f675dfcb0.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 ![Kate O'Flynn accepts the Outstanding Supporting Actress in a Comedy Series Award for 'Widow's Bay' during the 78th annual Emmy Awards ceremony held at the Peacock Theater in Los Angeles, California, USA, 14 September 2026](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/02f2/live/2ca28070-b09c-11f1-9e7d-cb2f675dfcb0.jpg)

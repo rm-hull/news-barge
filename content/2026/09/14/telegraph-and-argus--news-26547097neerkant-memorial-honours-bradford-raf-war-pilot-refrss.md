@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: WHEN the village of Neerkant, Netherlands, gathered on Sunday, June 21,
   it marked the end of a long journey.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21450058.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 WHEN the village of Neerkant, Netherlands, gathered on Sunday, June 21, it marked the end of a long journey.

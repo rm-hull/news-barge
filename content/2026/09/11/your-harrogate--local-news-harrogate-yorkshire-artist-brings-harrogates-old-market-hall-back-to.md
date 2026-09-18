@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Harrogate's former Old Market Hall has been brought back to life in a
   new collection by award-winning Yorkshire artist Claire Baxter.
 image: https://mmo.aiircdn.com/409/6aa3b44f0fd1fd073db.jpg
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa3b44f0fd1fd073db.jpg) 

@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Marshall Rawson was seen marching alongside the League of the South during
   the deadly 2017 rally in Charlottesville, Virginia, a new report finds
 image: https://static.independent.co.uk/2026/09/16/1/57/Charlottesville-rally.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 A Republican running for a seat in the Florida House of Representatives marched with neo-Nazis in the infamous “Unite the Right” rally in Charlottesville, Virginia, in 2017, according to a new report.

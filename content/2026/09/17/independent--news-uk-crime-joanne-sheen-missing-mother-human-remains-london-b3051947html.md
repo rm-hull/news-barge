@@ -8,6 +8,10 @@ scraped_at: '2026-09-17T19:43:14Z'
 published: '2026-09-17T00:00:00Z'
 description: Joanne Sheen had not been seen since December 2019
 image: https://static.independent.co.uk/2026/09/17/13/37/jo-sheen.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Police have confirmed that human remains found in woodland in southwest London following a wildfire are those of a Southampton mother-of-three who went missing nearly seven years ago.

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Concern is growing for a man missing miles away from home, last seen
   this morning.
 image: https://www.thenorthernecho.co.uk/resources/images/21426969.jpg?type=og-image&xType=0&yType=113
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Cleveland Police)*

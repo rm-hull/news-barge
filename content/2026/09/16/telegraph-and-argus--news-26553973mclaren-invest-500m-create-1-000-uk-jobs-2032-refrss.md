@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: McLaren will invest £500m in Yorkshire and Surrey, creating 1,000 jobs
   by 2032, with a new UK factory and South Yorkshire R&D expansion planned.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19933745.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: PA)*

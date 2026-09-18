@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Students and staff from Gordonstoun, a private school in Moray which
   the King attended, uncovered the remains
 image: https://static.independent.co.uk/2026/08/31/00/27154627-0e90e88f-7623-4375-b583-e0011823757e.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A group of students from the school The King attended, have discovered the remains of what is thought to be a medieval Viking church on an uninhabited Scottish island.

@@ -10,6 +10,10 @@ description: Nadia Perrier’s husband Michael was a fit and healthy professiona
   before he suffered a sudden cardiac arrest in 2021. Faced with losing the father
   of her unborn child at five months pregnant, one person’s actions changed everything
 image: https://static.independent.co.uk/2026/08/28/9/36/20241225_132636.jpeg?trim=218,0,86,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 When Nadia Perrier’s phone flashed up with her mother-in-law’s number, she immediately sensed something was badly wrong.

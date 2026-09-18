@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: GoPro is merging with a company that builds AI infrastructure, and will
   continue supporting existing consumer products.
 image: https://techcrunch.com/wp-content/uploads/2026/09/13-h13-lens-cover-gcm-50-1920-375.webp?resize=1200,899
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 After years of financial struggles, action camera pioneer GoPro is being acquired for $285 million.

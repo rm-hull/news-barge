@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: The new review found exercise-based rehabilitation slashed the risk of
   heart attacks by 28 per cent
 image: https://static.independent.co.uk/2026/09/10/11/e88101b8f9b9fc7fc36b611ae2220119Y29udGVudHNlYXJjaGFwaSwxNzg5MTIzMzg5-2.85519666.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Researchers say prescribing exercise to people with heart problems could slash hospital admissions, with home-based digital programmes just as beneficial as in-person sessions.

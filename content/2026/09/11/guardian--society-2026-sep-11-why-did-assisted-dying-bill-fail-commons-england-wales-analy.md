@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: MPs quietly withdrew support when it became clear it was not a priority
   of Andy Burnham’s government
 image: https://i.guim.co.uk/img/media/cae5a5ab7180687206a89d407d6306798b2cbf97/72_0_446_357/master/446.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=487921f0356345e417fddf76e2cd73f3
+categories:
+- UK
+- News & Politics
 ---
 
 After two years of impassioned arguments, tearful personal testimonies, noisy protests and ethical dilemmas, the assisted dying bill for England and Wales failed on a knife edge.

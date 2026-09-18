@@ -9,6 +9,8 @@ published: '2026-09-09T00:00:00Z'
 description: Apple has equipped the iPhone Duo with some of its most advanced components,
   while stripping back some staple features — here’s why I still want it on day one.
 image: https://cdn.mos.cms.futurecdn.net/2WcUMrqUX8RYvbBs5RF2Se-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The iPhone Duo on a light colored background](https://cdn.mos.cms.futurecdn.net/2WcUMrqUX8RYvbBs5RF2Se.jpg) 

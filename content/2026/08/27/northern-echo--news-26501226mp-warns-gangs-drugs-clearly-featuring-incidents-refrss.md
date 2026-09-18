@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Middlesbrough MP Andy McDonald has said that gangs and drugs are 'clearly
   featuring' in the recent incidents across Teesside.
 image: https://www.thenorthernecho.co.uk/resources/images/13739315.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A Middlesbrough MP has warned gangs and the drugs trade are “clearly featuring” in a series of incidents across Teesside which have rocked the area.

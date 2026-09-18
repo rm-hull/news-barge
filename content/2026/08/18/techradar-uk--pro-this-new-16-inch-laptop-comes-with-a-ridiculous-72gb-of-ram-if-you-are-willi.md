@@ -8,6 +8,8 @@ scraped_at: '2026-08-18T01:50:06Z'
 published: '2026-08-18T00:00:00Z'
 description: Plenty of memory, but an uncertain timeline
 image: https://cdn.mos.cms.futurecdn.net/nTUzk4CFoE77cimqC8y2RJ-1800-80.webp
+categories:
+- Technology & Software
 ---
 
 ![The Schenker Element 16 laptop picture](https://cdn.mos.cms.futurecdn.net/nTUzk4CFoE77cimqC8y2RJ.webp) 

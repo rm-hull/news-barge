@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: The demonstrators are wearing masks and preventing traffic from accessing
   the port, according to reports
 image: https://static.independent.co.uk/2026/09/05/8/15/Screenshot-2026-09-05-at-09-41-45.png?trim=0,74,0,74&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Officers are currently “engaging” with protesters clad in balaclavas blocking access to the Port of Dover, Kent Police has said.

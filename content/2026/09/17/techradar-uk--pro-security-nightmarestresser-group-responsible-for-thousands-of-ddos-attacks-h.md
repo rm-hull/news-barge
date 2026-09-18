@@ -8,6 +8,9 @@ scraped_at: '2026-09-17T19:44:00Z'
 published: '2026-09-17T00:00:00Z'
 description: Two domains seized by the DoJ
 image: https://cdn.mos.cms.futurecdn.net/sbNPJUhCyuLprR43BrwCoK-2309-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![DDoS inscribed on a digital background made up of numbers](https://cdn.mos.cms.futurecdn.net/sbNPJUhCyuLprR43BrwCoK.jpg) 

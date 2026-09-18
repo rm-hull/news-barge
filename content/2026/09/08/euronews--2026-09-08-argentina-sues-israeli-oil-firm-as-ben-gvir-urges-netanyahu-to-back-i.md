@@ -11,6 +11,10 @@ description: Argentina is to file criminal charges against several companies lin
   as Milei steps up his offensive against the Sea Lion project with new sanctions
   and measures to bolster territorial defence.
 image: https://images.euronews.com/articles/stories/09/90/50/24/1200x675_cmsv2_6256a54f-72d7-576b-9575-e08ed0ac8ad2-9905024.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## Argentina is to file criminal charges against several companies linked to Israeli oil firm Navitas for operating without authorisation in the Falklands, as Milei steps up his offensive against the Sea Lion project with new sanctions and measures to bolster territorial defence.

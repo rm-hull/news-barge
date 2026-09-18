@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: The X Factor is set to finally return to ITV after seven years, as reports
   suggest bosses have discussed bringing it back.
 image: https://www.yorkpress.co.uk/resources/images/19494605.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 *(Image: ITV)*

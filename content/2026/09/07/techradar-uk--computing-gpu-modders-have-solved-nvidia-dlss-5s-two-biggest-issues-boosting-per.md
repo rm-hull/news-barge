@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: The Swapper and Autopilot mods for DLSS 5 allow for easily applying the
   tech to all kinds of games, with a nifty additional trick in the case of the latter.
 image: https://cdn.mos.cms.futurecdn.net/aVVGwyeKbyPmdcU6WfmBif-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![A PC gamer looking happy](https://cdn.mos.cms.futurecdn.net/aVVGwyeKbyPmdcU6WfmBif.jpg) 

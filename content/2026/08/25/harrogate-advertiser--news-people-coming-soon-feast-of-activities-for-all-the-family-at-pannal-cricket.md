@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Harrogate is to host a traditional family gala packed with fun for everyone
   this bank holiday weekend after a surge of popular demand.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjY5OTBmMGIwLWY1YTctNDBjMi04ODZkLWIxYTIwM2I1YTk4Yjo5YzdjMGViMy0zNmZkLTQ5MTctODY4MC0xMThkZWFmZjhlMzg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Family & Parenting
 ---
 
 # Coming soon: Feast of activities for all the family at Pannal Cricket Gala in Harrogate

@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Andy Burnham commended Sainsbury’s for ‘stepping up’ while his government
   addresses youth employment crisis
 image: https://static.independent.co.uk/2024/11/07/12/2024-11-07T082348Z_345728437_RC29CAASLC87_RTRMADP_3_SAINSBURY-S-RESULTS.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 Supermarket chain Sainsbury’s will provide around 10,000 work experience opportunities for young people in disadvantaged areas, the government announced, as part of efforts to address youth unemployment.

@@ -8,6 +8,9 @@ published: '2026-09-07T00:00:00Z'
 description: UK correspondent Daniel Sandford looks at the link between small boat
   protests in Dover and Portsmouth over the weekend.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee8d/live/2d5813b0-aadc-11f1-aa35-df10e5ff32f4.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 # What we know about anti-migrant protests and organiser Danny Thomas

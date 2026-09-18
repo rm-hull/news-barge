@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T16:48:29Z'
 published: '2026-08-20T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/02/Murton-Arms.jpg
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 Works to transform an empty York village pub will soon be underway.

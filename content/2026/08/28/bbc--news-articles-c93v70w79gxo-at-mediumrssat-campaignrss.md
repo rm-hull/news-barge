@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Among the British nationals reported missing are a 13-year-old girl and
   14-year-old boy.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6516/live/9a603130-a2bd-11f1-b109-879e35c24276.png
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![A split image of Pramod Poudel's wife (left) and Neetu Goyal Tiwari (right). Both are smiling](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6516/live/9a603130-a2bd-11f1-b109-879e35c24276.png)

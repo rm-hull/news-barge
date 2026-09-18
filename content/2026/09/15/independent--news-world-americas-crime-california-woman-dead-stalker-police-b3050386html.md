@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The suspect had previously placed an Apple AirTag on the victim’s car
   in order to track her movements, authorities claim
 image: https://static.the-independent.com/2026/09/15/10/33/rohit.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A California woman was shot dead in the street by a man who had stalked her for months, authorities say.

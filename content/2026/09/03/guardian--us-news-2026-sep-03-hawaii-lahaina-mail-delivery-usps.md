@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Wildfire victims rebuilt their homes in Lahaina only to find USPS had
   ‘eliminated’ their addresses – while houses that didn’t burn receive mail as normal
 image: https://i.guim.co.uk/img/media/2d77c58943c5dc696111cef9f57e3a76e934927b/0_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1be2f153c2b80489c9f4d5b97a839077
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Two months after a devastating wildfire whipped through Lahaina in August 2023, Pam Reader was allowed back to see what was left of her home. With a heavy heart, she returned to the Hawaiian oceanside town now filled with endless blocks of burned houses. As she rounded her corner, she saw the only thing remaining was her bright turquoise mailbox.

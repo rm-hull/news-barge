@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: Brain cells and chemical signals could hold the missing piece of memory
   that today's silicon computers cannot reproduce
 image: https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![A robot standing thoughtfully in front of a giant digital display with code on it](https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL.jpg) 

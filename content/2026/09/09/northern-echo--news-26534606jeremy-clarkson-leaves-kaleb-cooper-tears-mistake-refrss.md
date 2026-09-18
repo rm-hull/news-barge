@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Jeremy Clarkson left co-star Kaleb Cooper close to tears after making
   his "worst mistake" on Diddly Squat Farm - see what he did.
 image: https://www.thenorthernecho.co.uk/resources/images/20956678.jpg?type=og-image&xType=0&yType=292
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Prime Video/PA)*

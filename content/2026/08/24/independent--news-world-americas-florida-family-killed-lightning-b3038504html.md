@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: A family of four from Florida has been forever changed after lightning
   struck as they were arriving at an aunt’s home for dinner
 image: https://static.independent.co.uk/2026/08/24/20/35/Screenshot-2026-08-24-at-4-35-02-PM.jpg?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 A Florida father has been left heartbroken after his wife and two-year-old daughter were killed in a lightning strike over the weekend.

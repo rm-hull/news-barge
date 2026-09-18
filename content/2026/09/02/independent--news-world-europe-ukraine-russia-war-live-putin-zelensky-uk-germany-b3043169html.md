@@ -8,6 +8,10 @@ scraped_at: '2026-09-02T04:20:49Z'
 published: '2026-09-02T00:00:00Z'
 description: Putin said the warning sounded like “state terrorism” and vowed to respond
 image: https://static.independent.co.uk/2026/09/01/21/2291455394..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Volodymyr Zelensky has deemed Russian airspace to be “completely unsafe” in a warning to airlines ahead of Ukrainian drone attacks.

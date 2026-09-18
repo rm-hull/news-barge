@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Radley has closed its last remaining stores after falling into administration
   earlier this year.
 image: https://www.yorkpress.co.uk/resources/images/21396816.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: The US House is back after a five-week recess; government funding is
   guaranteed through 30 September
 image: https://i.guim.co.uk/img/media/43c94052cabd6a179a4c4796c3fc197e5ad19f65/631_0_4385_3508/master/4385.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=fd9173c08b9edd790ef225d77afb45c3
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 House lawmakers return to Capitol Hill as Republicans hope to pass stopgap spending bill

@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Riyadh has increased its use of the East-West pipeline since the start
   of the Middle East war to bypass the closure of the strait of Hormuz
 image: https://i.guim.co.uk/img/media/5522d0dc1ce938b9cf8dd25dc20f8c37ab803777/481_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=589ebdf553c1f0e07d6c71c4d3c4cf55
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Saudi authorities said Friday drones launched from Iraq led to the temporary closure of a crucial oil export route used to bypass the lockdown of the strait of Hormuz.

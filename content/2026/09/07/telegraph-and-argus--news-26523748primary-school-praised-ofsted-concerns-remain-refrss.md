@@ -9,6 +9,12 @@ published: '2026-09-07T00:00:00Z'
 description: An "improving school" where pupils feel safe and well supported still
   has significant work to do on attendance, teaching and achievement,…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21413866.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
+- Self-Improvement
 ---
 
 *(Image: Newsquest)*

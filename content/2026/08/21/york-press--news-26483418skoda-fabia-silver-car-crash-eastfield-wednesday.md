@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T08:54:05Z'
 published: '2026-08-21T00:00:00Z'
 description: Police are hunting for a silver car that fled the scene after a crash.
 image: https://www.yorkpress.co.uk/resources/images/21016392.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
 ---
 
 *(Image: Supplied)*

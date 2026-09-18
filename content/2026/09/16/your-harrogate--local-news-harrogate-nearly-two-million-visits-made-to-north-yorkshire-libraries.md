@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Visits to North Yorkshire’s libraries have risen by six per cent in a
   year, with almost two million trips made to branches across the county.
 image: https://mmo.aiircdn.com/409/6aaaa5685a93728963f.jpg
+categories:
+- Local
+- Harrogate
+- Personal Finance & Investing
 ---
 
 ![](https://mmo.aiircdn.com/409/6aaaa5685a93728963f.jpg) 

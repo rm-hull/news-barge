@@ -9,6 +9,9 @@ published: '2026-09-05T00:00:00Z'
 description: The United States ambassador to Israel has condemned Israeli settler
   violence in the occupied West Bank, calling it an “act of terror.”
 image: https://static.independent.co.uk/2026/09/05/17/Israel_Palestinians_42198.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The United States ambassador to Israel condemned Israeli settler violence in the occupied West Bank again on Saturday, calling the behavior an “act of terror" as he visited with Palestinian American residents shaken by months of attacks.

@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: Details of the letter come as the 35-year-old aide’s proximity and ‘devotion’
   to the president have ‘unnerved some of her colleagues,’ according to the report
 image: https://static.independent.co.uk/2026/08/17/17/2286569812..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Natalie Harp, President Donald Trump’s fiercely loyal aide, once wrote a letter to him in which she gushed about wanting “things to always be right between us,” according to a report.

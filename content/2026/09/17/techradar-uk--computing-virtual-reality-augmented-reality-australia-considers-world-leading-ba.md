@@ -9,6 +9,9 @@ published: '2026-09-17T00:00:00Z'
 description: The Australian state might soon ban smart glasses as privacy concerns
   continue to grow.
 image: https://cdn.mos.cms.futurecdn.net/mo4iTniTE2n7XnEur3iDbd-2560-80.jpg
+categories:
+- Technology & Software
+- News & Politics
 ---
 
 ![A person wearing the new Meta Ray-Ban Blayzer glasses](https://cdn.mos.cms.futurecdn.net/mo4iTniTE2n7XnEur3iDbd.jpg) 

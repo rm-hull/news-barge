@@ -8,6 +8,9 @@ published: '2026-09-12T00:00:00Z'
 description: ‘The scheme’s been costed, it’s funded, and it will be continued beyond
   this year,’ says veterans minister Calvin Bailey
 image: https://static.independent.co.uk/2026/05/27/13/2245249847..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Free rail transport will be provided over Remembrance weekend to the bereaved relatives of armed forces personnel killed in service, under a new Ministry of Defence initiative.

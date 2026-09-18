@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Keith Short can be found with a pint and a sketchbook in the corner of
   The Grapes – and his pictures on the walls. Christopher Hallam meets him.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjdkZjI2MzczLTQwZWMtNGM3OS1hMGM2LWY0OTIwMjM1ZDNhMTplZDA3NjAwOS1mYTI0LTRjZDItOTU3OS04NWY2ZTBlMzc1Nzg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Keith Short: Meet the fascinating Sheffield 'Irish Triangle' artist you may have seen doodling in pubs like The Grapes

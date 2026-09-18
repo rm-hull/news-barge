@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Readers reminisce about the long-lost York record shops they still miss
   today
 image: https://www.yorkpress.co.uk/resources/images/17330265.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 ## Before HMV: the York record shops we have loved and lost

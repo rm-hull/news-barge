@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Ukrainian drones spark fire at a logistics hub belonging to online retailer
   Ozon, after weeks of attacks targeting Wildberries
 image: https://static.independent.co.uk/2026/08/24/09/2291275685..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Andy Burnham has arrived in Kyiv to honour Ukraine’s Independence Day, just hours after at least three people were killed in a Russian attack on the outskirts of Kharkiv.

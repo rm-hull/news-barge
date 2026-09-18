@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Plans for 70 new homes near St Wilfrid's Primary School, St John's School
   and Bishop Auckland College are set to be decided by councillors.
 image: https://www.thenorthernecho.co.uk/resources/images/21456509.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 ### What is the Public Notice Portal?

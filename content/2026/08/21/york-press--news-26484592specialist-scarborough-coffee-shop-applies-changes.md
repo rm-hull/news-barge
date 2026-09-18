@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: A SPECIALIST coffee shop in North Yorkshire has applied for a new licence
   from the council.
 image: https://www.yorkpress.co.uk/resources/images/21354470.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 This article is brought to you by our exclusive subscriber partnership with our sister title USA Today,

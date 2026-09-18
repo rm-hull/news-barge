@@ -8,6 +8,9 @@ scraped_at: '2026-09-09T19:15:58Z'
 published: '2026-09-09T00:00:00Z'
 description: AI data centers aren't just consuming water, they're poisoning it too
 image: https://cdn.mos.cms.futurecdn.net/BnVEW5NVYG22Tcg6Mka4GV-2560-80.jpg
+categories:
+- Technology & Software
+- Health & Fitness
 ---
 
 ![AI robot generating AI content and draining earth: the impact of AI on water consumption and environment](https://cdn.mos.cms.futurecdn.net/BnVEW5NVYG22Tcg6Mka4GV.jpg) 

@@ -8,6 +8,8 @@ scraped_at: '2026-09-04T12:42:38Z'
 published: '2026-09-04T00:00:00Z'
 description: The Romo 2's uses DJI's drone expertise to deliver precise navigation.
 image: https://cdn.mos.cms.futurecdn.net/NXFMAKwRdHMVhX2YbcEHrC-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![DJI Romo 2 robot vacuum in reviewer's home](https://cdn.mos.cms.futurecdn.net/NXFMAKwRdHMVhX2YbcEHrC.jpg) 

@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: Joseph Henry Stott, the driver of a car which tragically collided with
   19-year-old Bailey Chadwick as he walked home from work near Pateley Bridge in the
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Bailey-Chadwick.webp
+categories:
+- Local
+- Harrogate
+- History
 ---
 
 **Joseph Henry Stott**, the driver of a car which tragically collided with** 19-year-old Bailey Chadwick** as he walked home from work near Pateley Bridge in the Yorkshire Dales, has admitted he had been drinking alcohol before he got behind the wheel.

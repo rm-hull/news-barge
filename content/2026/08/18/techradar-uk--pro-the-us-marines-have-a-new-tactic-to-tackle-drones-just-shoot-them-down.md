@@ -7,6 +7,8 @@ scraped_at: '2026-08-19T01:49:28Z'
 published: '2026-08-18T00:00:00Z'
 description: BANG, and the drone is gone
 image: https://cdn.mos.cms.futurecdn.net/SmXJnbg7YJXU4pWnBa9GJD-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![US Marine demonstrates bullet-damaged drone](https://cdn.mos.cms.futurecdn.net/SmXJnbg7YJXU4pWnBa9GJD.png) 

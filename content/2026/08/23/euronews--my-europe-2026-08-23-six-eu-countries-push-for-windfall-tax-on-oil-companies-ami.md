@@ -9,6 +9,11 @@ description: 'Citing surging profits amid the Middle East war, six EU countries,
   Germany and Italy, want finance ministers to discuss the levy at next month’s meeting
   in Dublin. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/50/57/1200x675_cmsv2_af197834-3cca-5d3e-a940-7597500c9bee-9885057.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## Citing surging profits amid the Middle East war, six EU countries, including Germany and Italy, want finance ministers to discuss the levy at next month’s meeting in Dublin.

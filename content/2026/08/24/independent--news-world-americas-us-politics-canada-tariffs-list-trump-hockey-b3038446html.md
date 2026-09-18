@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: Canadian Prime Minister Mark Carney said his government will impose ‘dollar
   for dollar’ retaliatory duties on American products
 image: https://static.independent.co.uk/2026/08/24/18/04/GettyImages-2291058527.jpeg?trim=0,0,416,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A new round of President Donald Trump’s tariffs on Canadian imports is now in effect, threatening to raise costs on products ranging from hockey sticks and honey to clothing, furniture and cameras. The 50 percent levies — which apply to about $20 billion worth of Canadian goods — took effect Saturday after last-minute negotiations between Washington and Ottawa fell apart.

@@ -9,6 +9,10 @@ description: For a third time, the US House has voted to end the war in Iran, ap
   a war powers resolution that would halt President Donald Trump’s ability to continue
   military action without congressional approval.
 image: https://images.euronews.com/articles/stories/09/91/64/03/1200x675_cmsv2_bed7c402-2e9e-5409-ab90-4ec2c387891c-9916403.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## For a third time, the US House has voted to end the war in Iran, approving a war powers resolution that would halt President Donald Trump’s ability to continue military action without congressional approval.

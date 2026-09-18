@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: People on hold to HMRC for more than 30 minutes would get a tax credit
   under plans announced by Robert Jenrick.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d5b/live/551fe6a0-a147-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Robert Jenrick, in a suit and tie, makes a point at a press conference, with a Union flag and a brick wall behind him](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/3d5b/live/551fe6a0-a147-11f1-a291-b542ee92de7c.jpg)

@@ -7,6 +7,11 @@ scraped_at: '2026-09-05T11:50:25Z'
 published: '2026-09-05T00:00:00Z'
 description: GORKA Márquez is set to star in a new festive dance show in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21411763.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

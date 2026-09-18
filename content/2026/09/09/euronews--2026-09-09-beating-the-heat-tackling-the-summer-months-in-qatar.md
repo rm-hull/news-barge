@@ -10,6 +10,10 @@ description: As temperatures soar past 50°C, Qatar taps cutting-edge engineerin
   climate-conscious architecture, we explore how Qatar is redefining what it means
   to live, work and thrive in extreme temperatures.
 image: https://images.euronews.com/articles/stories/09/85/52/67/1200x675_cmsv2_88bedfe0-d282-578f-922b-5d5fa06ce7b3-9855267.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 **Euronews**

@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: More than 1 in 10 people in the U.S. rely on SNAP to purchase food, with
   most beneficiaries earning incomes below the poverty line
 image: https://static.independent.co.uk/2026/08/21/20/41/GettyImages-2244208854.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Participation in the largest federal food aid program in the United States has fallen by over 13 percent in a single year—a decline far sharper than government projections as work mandates and other measures in President Donald Trump's "big beautiful bill" take effect.

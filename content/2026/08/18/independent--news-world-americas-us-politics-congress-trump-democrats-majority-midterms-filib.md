@@ -9,6 +9,9 @@ description: Democrats, learning from their experiences in Trump 1.0, are plotti
   more effective oversight for a potential post-Blue Wave environment, writes John
   Bowden — even if the president is fixated on the filibuster
 image: https://static.independent.co.uk/2026/08/18/04/2026-08-16T215031Z_1613976147_RC2XZMAT6DVO_RTRMADP_3_USA-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump has told voters his greatest fear: Should Democrats return to power in both chambers of Congress next year, he’ll face a third impeachment effort, watch Democrats pack the Supreme Court and see his enemies end the legislative filibuster.

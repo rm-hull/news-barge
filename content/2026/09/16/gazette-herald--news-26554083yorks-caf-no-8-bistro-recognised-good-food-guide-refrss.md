@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: A York bistro has earned a place in the prestigious Good Food Guide after
   being named one of UK’s best informal fine-dining restaurants.
 image: https://www.gazetteherald.co.uk/resources/images/21462036.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
+- Travel
 ---
 
 A CITY bistro has earned a spot in the Good Food Guide after impressing diners and inspectors alike.

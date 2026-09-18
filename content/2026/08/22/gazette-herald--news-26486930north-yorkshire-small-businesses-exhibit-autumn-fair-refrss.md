@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Fresh designs from Yorkshire will take centre stage at the UK's largest
   retail buying show this September.
 image: https://www.gazetteherald.co.uk/resources/images/21355204.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Submitted)*

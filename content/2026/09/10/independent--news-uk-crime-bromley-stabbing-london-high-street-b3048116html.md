@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T19:06:46Z'
 published: '2026-09-10T00:00:00Z'
 description: London Ambulance Service was called to the scene on Thursday afternoon
 image: https://static.independent.co.uk/2026/09/10/17/01M263KQXS7DWS4RQ4BEQ0JFZ1.jpg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Seven people have been arrested after multiple people were stabbed in south-east London, Metropolitan Police said.

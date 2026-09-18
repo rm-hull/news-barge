@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: His travel companion called for help after reaching National Park Service
   rangers but it was too late
 image: https://static.independent.co.uk/2026/08/25/13/08/iStock-2278934710.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A French tourist has died after getting stranded in a national park as temperatures reached 116 degrees Fahrenheit (46C).

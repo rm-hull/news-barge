@@ -10,6 +10,10 @@ description: A Russian drone struck a train near the Ukraine-Poland border short
   after senior visiting officials, including the former prime ministers of the U.K.
   and Sweden, passed through
 image: https://static.independent.co.uk/2026/09/13/19/Russia_Ukraine_War_9_763.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A Russian drone struck a train near the Ukraine- Poland border on Sunday shortly after senior visiting officials — including the former prime ministers of the U.K. and Sweden -- passed through, Ukraine’s state rail operator said.

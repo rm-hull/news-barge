@@ -9,6 +9,10 @@ description: At least five people were killed and 86 remain missing after a fire
   aboard a ferry near a popular tourist destination in the Philippine province of
   Palawan, the coast guard said Thursday.
 image: https://images.euronews.com/articles/stories/09/90/80/13/1200x675_cmsv2_d1a02274-0140-5b35-82e9-8481f4917b2c-9908013.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## At least five people were killed and 86 remain missing after a fire erupted aboard a ferry near a popular tourist destination in the Philippine province of Palawan, the coast guard said Thursday.

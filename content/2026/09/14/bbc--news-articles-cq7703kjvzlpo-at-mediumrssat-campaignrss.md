@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Lord Wormald became the shortest-serving cabinet secretary in the history
   of the post when he left in February.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/983d/live/99bb56f0-b0b7-11ef-a0f2-fd81ae5962f4.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Lord Wormald has short grey hair, a dark-coloured jacket and a white shirt which has the top button open.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/983d/live/99bb56f0-b0b7-11ef-a0f2-fd81ae5962f4.jpg)

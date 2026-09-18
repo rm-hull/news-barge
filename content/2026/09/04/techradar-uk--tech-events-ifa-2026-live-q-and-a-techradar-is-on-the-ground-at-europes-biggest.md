@@ -8,6 +8,8 @@ scraped_at: '2026-09-04T18:58:38Z'
 published: '2026-09-04T00:00:00Z'
 description: Hallo from Berlin!
 image: https://cdn.mos.cms.futurecdn.net/TFEVELAyM5stxNA4P4u3DQ-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![View of the facade of the Berlin Congress Palace announcing the IFA trade fair in Germany on August 24, 2026.](https://cdn.mos.cms.futurecdn.net/TFEVELAyM5stxNA4P4u3DQ.jpg) 

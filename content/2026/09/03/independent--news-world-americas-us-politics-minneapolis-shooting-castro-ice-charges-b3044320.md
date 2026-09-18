@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: Christian Castro is accused of trying to cover up the shooting of a Venezuelan
   man during Operation Metro Surge
 image: https://static.independent.co.uk/2026/08/27/01/2259275050..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Federal prosecutors are set to charge an Immigration and Customs Enforcement officer who was accused of shooting a Venezuelan immigrant and then lying about it.

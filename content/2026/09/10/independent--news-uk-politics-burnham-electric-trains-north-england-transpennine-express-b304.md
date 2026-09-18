@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: The new trains will cut journey times by up to 10 minutes between Manchester
   and Leeds and up to 14 minutes between Manchester and York
 image: https://static.independent.co.uk/2026/09/10/18/10174523-3d81e4ee-6d4c-45bf-883f-67bc3a1c2893.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A £1 billion scheme for 29 new battery-electric trains will "bring faster, more reliable journeys to the North", Andy Burnham has stated.

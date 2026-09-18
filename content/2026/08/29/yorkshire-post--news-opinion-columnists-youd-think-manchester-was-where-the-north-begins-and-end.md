@@ -10,6 +10,11 @@ description: Earlier in the week your correspondent cringed as our Prime Ministe
   arrived in Ukraine wearing a polo shirt. Before the ink was dry on those words,
   he was pictured plucking at a guitar with one of the war-torn country’s soldiers.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmNhNTM0OGE1LTViMjAtNGE2Zi1iY2MxLTFjM2QwOWZlYmRlNzozY2E1YjJkZS1jMzAwLTQ5ZGYtOWZjMS1iZmU2YWRjODNjZTA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # You’d think Manchester was where the North begins and ends for Andy Burnham - Sarah Todd

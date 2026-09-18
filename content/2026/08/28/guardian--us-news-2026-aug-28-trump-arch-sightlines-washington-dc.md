@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: National Park Service, which backs the 250ft arch, says it is likely
   to disrupt historical significance of dozens of sites
 image: https://i.guim.co.uk/img/media/626ffdbb76edbd528ee90a503063256bc4bba006/68_0_3748_2999/master/3748.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=00a4cc640e819392b791932af47a3ad5
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 A new National Park Service report backs Donald Trump’s proposed arch, despite what it says are adverse effects to the sightlines of a host of landmarks in Washington, including the Washington Monument and the Lincoln and Jefferson memorials.

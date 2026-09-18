@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: North Yorkshire arsonist who broke into a man’s home and deliberately
   set fire to the empty flat has narrowly avoided prison.
 image: https://www.thenorthernecho.co.uk/resources/images/9436024.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: Newsquest)*

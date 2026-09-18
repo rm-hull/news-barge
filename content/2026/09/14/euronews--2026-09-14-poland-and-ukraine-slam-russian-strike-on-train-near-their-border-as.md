@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: The strike hit a Warsaw-bound train near to the border a short time after
   another train carrying various foreign dignitaries passed through the same track.
 image: https://images.euronews.com/articles/stories/09/91/23/54/1200x675_cmsv2_048dcdb1-50b9-569f-b796-4a0155d9582e-9912354.jpg
+categories:
+- Europe
+- News & Politics
+- History
+- Sports
 ---
 
 ## The strike hit a Warsaw-bound train near to the border a short time after another train carrying various foreign dignitaries passed through the same track.

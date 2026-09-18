@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Data suggests "significantly higher" rates of referral for gender-affirming
   surgery compared with English services, according to the health board.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd7d/live/a29b9ab0-a394-11f1-aed2-8d6da8d75094.png
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![St David's Hospital building exterior](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fd7d/live/a29b9ab0-a394-11f1-aed2-8d6da8d75094.png)

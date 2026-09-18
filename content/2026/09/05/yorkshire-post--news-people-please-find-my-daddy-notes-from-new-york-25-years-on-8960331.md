@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Andrew Vine and Bruce Rollinson headed to New York 25 years ago to cover
   the aftermath of the worst terror attack on American soil.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY0ZDY5OThmLTkwZjctNDg4Yi1iMDRmLWIzNzZlNTRlZmNjMDpiYmFhOGZkOC04NTJkLTRiMmQtYmQwNy01ZDIyZWJkODRmZjY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # “Please find my daddy”: Notes from New York 25 years on

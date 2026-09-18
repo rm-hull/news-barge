@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: South Korea's delegation slams the wooden containers housing its athletes
   at the Asian Games in Nagoya city.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fcba/live/af1dbb70-b199-11f1-bcc9-0dceb5c756df.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Wooden containers lined next to each other](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/fcba/live/af1dbb70-b199-11f1-bcc9-0dceb5c756df.jpg)

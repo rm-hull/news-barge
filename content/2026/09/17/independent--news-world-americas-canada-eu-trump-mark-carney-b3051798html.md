@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The U.S. president was not impressed after EU leader Ursula von der Leyen
   opened the door for Canada to become an associate member
 image: https://static.independent.co.uk/2026/09/17/11/2026-09-17T095938Z_1620467557_RC2XKNAGKBBN_RTRMADP_3_EU-CANADA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Mark Carney has accused Donald Trump of economic “coercion” after he threatened to impose tariffs on the EU following an announcement Canada could become the bloc’s first associate member.

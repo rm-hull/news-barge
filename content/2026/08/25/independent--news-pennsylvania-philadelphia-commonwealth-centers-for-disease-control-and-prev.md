@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Pennsylvania health officials report that two unvaccinated residents
   have died from measles
 image: https://static.independent.co.uk/2026/08/17/21/Vaccination_Rates_34154.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Two unvaccinated Pennsylvania residents have died from measles, state health officials said Tuesday, the first measles-related deaths in the U.S. this year.

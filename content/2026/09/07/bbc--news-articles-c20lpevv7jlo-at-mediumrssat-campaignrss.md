@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: The letter has been sent to Prince Harry's team, the government, military
   and Lord Lieutenants, Palace sources say.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1cd1/live/6e721f30-aac8-11f1-8881-75c1b8a858c8.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Prince Harry and Meghan](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/1cd1/live/6e721f30-aac8-11f1-8881-75c1b8a858c8.jpg)

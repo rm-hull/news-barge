@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: The AI startup has been at loggerheads with the Pentagon over the use
   of AI by the US military.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a72/live/1e9bf7b0-a299-11f1-b81f-99addc8c0403.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ![US President Donald Trump and Secretary of Defense Pete Hegseth listen to questions from the press during a Cabinet meeting.](https://ichef.bbci.co.uk/ace/standard/863/cpsprodpb/8a72/live/1e9bf7b0-a299-11f1-b81f-99addc8c0403.jpg)

@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: The Fairphone Gen 6 Plus is a mid-range phone at a steep price, but that
   might just be the cost of a fairer world.
 image: https://cdn.mos.cms.futurecdn.net/JCfitUY7XQtpZ2UGt4enwe-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![The Fairphone Gen 6 Plus resting on a black table](https://cdn.mos.cms.futurecdn.net/JCfitUY7XQtpZ2UGt4enwe.jpg) 

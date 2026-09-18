@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: One question asked by many after last week's fire is why some homes escaped
   unscathed?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7848/live/56a49a00-9be5-11f1-ba30-ddd78081057f.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![An aerial image taken with a drone of fire damaged properties in Stourbridge, Britain, 14 August 2026.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/7848/live/56a49a00-9be5-11f1-ba30-ddd78081057f.jpg)

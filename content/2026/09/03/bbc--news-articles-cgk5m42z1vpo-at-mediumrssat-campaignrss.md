@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: 'The party''s continued prominence has brought what prominence always
   brings: scrutiny, says BBC political editor Chris Mason.'
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a8a9/live/b201b4b0-a729-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Reform UK leader Nigel Farage speaks during a press conference in London.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a8a9/live/b201b4b0-a729-11f1-b109-879e35c24276.jpg)

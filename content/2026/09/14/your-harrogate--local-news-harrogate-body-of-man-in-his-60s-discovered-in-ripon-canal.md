@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T15:00:14Z'
 published: '2026-09-14T00:00:00Z'
 description: The body of a man in his 60's has been discovered in the Ripon Canal.
 image: https://mmo.aiircdn.com/409/679b218716442.jpg
+categories:
+- Local
+- Harrogate
+- Health & Fitness
 ---
 
 ![](https://mmo.aiircdn.com/409/679b218716442.jpg) 

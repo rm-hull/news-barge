@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: The Times and Sunday Times published its Good University Guide 2027 today
   (Friday, September 18).
 image: https://www.yorkpress.co.uk/resources/images/10209672.jpg?type=og-image
+categories:
+- Local
+- York
+- Education & Learning
 ---
 
 ## How did York's higher education institutions rank in annual university guide?

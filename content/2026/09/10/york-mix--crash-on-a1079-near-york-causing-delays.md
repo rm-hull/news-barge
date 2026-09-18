@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T12:54:27Z'
 published: '2026-09-10T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/06/police-accident-sign-car.webp
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 There was a crash on the A1079 near York this morning (Thursday).

@@ -8,6 +8,8 @@ published: '2026-09-07T00:00:00Z'
 description: Ugreen's cute robot 100W four-port GaN charger scored 5 stars in our
   tests, and it's a great way to give your home office desk some fun personality.
 image: https://cdn.mos.cms.futurecdn.net/kJSpddWBGGswWTrKkFrk4S-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![UGreen Uno Charger 100W plugged in with blushing emoji on display](https://cdn.mos.cms.futurecdn.net/kJSpddWBGGswWTrKkFrk4S.jpg) 

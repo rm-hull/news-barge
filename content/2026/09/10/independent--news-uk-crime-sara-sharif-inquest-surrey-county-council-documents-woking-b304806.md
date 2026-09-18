@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The 10-year-old Sara Sharif was found dead at her home in Woking, Surrey
   in August 2023
 image: https://static.independent.co.uk/2025/11/13/15/5b71e3d70ab798ff305c0dd468c284bfY29udGVudHNlYXJjaGFwaSwxNzYzMTMzMDE0-2.78456474.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Surrey County Council has been directed by a coroner to disclose more than 24,000 documents for the inquest into the death of 10-year-old Sara Sharif.

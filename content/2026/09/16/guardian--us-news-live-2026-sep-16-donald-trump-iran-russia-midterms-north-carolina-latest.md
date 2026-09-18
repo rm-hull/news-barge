@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: The action is likely the last House vote on issue ahead of the midterm
   elections
 image: https://i.guim.co.uk/img/media/b8ffcf1157f85ab206570f3c9123e029c6e3dc54/588_0_5883_4706/master/5883.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ea8ec655ba13c01307586526cd6b8005
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 For a third time, the US House has voted to end the war in Iran, approving a war powers resolution that would halt president Donald Trump’s ability to continue military action without congressional approval.

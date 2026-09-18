@@ -10,6 +10,9 @@ description: Trump has said the $257 million (around €222.72) allocated by Con
   — a condition federal courts have twice ruled cannot be met without Congressional
   approval.
 image: https://images.euronews.com/articles/stories/09/91/49/40/1200x675_cmsv2_e954760b-0a1d-5c62-91c8-354262a03ff9-9914940.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Trump has said the $257 million (around €222.72) allocated by Congress for the repairs would only be released if the renaming was permitted to proceed — a condition federal courts have twice ruled cannot be met without Congressional approval.

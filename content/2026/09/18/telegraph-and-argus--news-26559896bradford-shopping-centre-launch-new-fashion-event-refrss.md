@@ -7,6 +7,11 @@ scraped_at: '2026-09-18T13:00:52Z'
 published: '2026-09-18T00:00:00Z'
 description: A SHOPPING centre is set to launch a new eco-friendly fashion event
 image: https://www.thetelegraphandargus.co.uk/resources/images/21469411.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Supplied)*

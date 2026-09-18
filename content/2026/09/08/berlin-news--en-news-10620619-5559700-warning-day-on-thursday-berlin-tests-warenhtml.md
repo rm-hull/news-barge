@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: 'Don’t be alarmed: the sirens will be wailing in Berlin again this week.
   This is part of a nationwide test.'
 image: https://www.berlin.de/binaries/asset/image_assets/10620613/ratio_4_3/1788848177/800x600/
+categories:
+- Berlin
+- Germany
+- News & Politics
 ---
 
 © dpa

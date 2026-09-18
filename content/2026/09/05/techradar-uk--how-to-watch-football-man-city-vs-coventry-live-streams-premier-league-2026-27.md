@@ -9,6 +9,9 @@ published: '2026-09-05T00:00:00Z'
 description: A title contender meets a relegation candidate as Enzo Maresca's side
   aims to make it three wins from three
 image: https://cdn.mos.cms.futurecdn.net/AmEkmeo6W6vHxABJSUgbcb-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Erling Haaland of Manchester City applauds the fans during the Premier League match between Manchester City and Bournemouth](https://cdn.mos.cms.futurecdn.net/AmEkmeo6W6vHxABJSUgbcb.jpg) 

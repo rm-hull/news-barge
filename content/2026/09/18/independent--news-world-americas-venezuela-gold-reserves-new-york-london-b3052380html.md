@@ -9,6 +9,10 @@ description: Venezuela is nearing a deal to move $4 billion (£2.9 billion) in g
   from the Bank of England to the Federal Reserve Bank of New York after a years-long
   legal tussle, it has been reported.
 image: https://static.independent.co.uk/2026/09/18/11/2026-09-16T180201Z_1369036476_RC25BNA3Q2E1_RTRMADP_3_USA-VENEZUELA-COLOMBIA.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Venezuela is nearing a deal to move $4 billion (£2.9 billion) in gold from the Bank of England to the Federal Reserve Bank of New York after a years-long legal tussle, it has been reported.

@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: A new Christmas movie filming in York has announced its latest cast member
   – a rescued Beagle named Mateo. Mateo will star alongside former Doctor…
 image: https://www.gazetteherald.co.uk/resources/images/21447718.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 *(Image: Supplied)*

@@ -7,6 +7,10 @@ scraped_at: '2026-09-06T22:07:18Z'
 published: '2026-09-06T00:00:00Z'
 description: Around 140 migrants are brought ashore by lifeboats near Eastney in Portsmouth
 image: https://static.independent.co.uk/2026/09/06/21/01M1W6EASBNAT7CGEHCXWV5C85.jpg?trim=176,0,176,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Dozens of demonstrators have descended on Portsmouth after migrants headed towards the Hampshire coast on a small boat were intercepted and brought ashore.

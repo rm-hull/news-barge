@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: Perplexity's India revenue rose about 60% after the Airtel offer ended
   for new users, even as downloads declined.
 image: https://techcrunch.com/wp-content/uploads/2026/08/perplexity-app.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Perplexity spent the past year running one of the biggest AI growth experiments, giving its premium service away to customers of Indian telecom giant Airtel. Now, as the earliest of those free subscriptions expire, the results are starting to emerge, offering an early test of whether bundling paid AI services can create lasting users and revenue after the giveaway ends.

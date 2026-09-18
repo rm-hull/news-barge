@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Move is latest deterioration in trade relations between neighbors with
   historically strong economic ties
 image: https://i.guim.co.uk/img/media/f7ea250d483dd414a2a05713c7763b803c19366f/671_0_6298_5039/master/6298.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=19f60daad69f260b14fe11492d7b18bf
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Donald Trump announced a new 50% tariff on automobiles and crucial raw materials from Canada, the latest deterioration in trade relations between the two neighbors with historically strong economic ties.

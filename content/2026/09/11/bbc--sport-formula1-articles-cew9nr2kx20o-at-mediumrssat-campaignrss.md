@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: George Russell says the new Madrid circuit is "very high risk" after
   Arvid Lindblad crashes in Friday practice at the Spanish Grand Prix.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4fd8/live/b3bd0ba0-ae00-11f1-9b77-ddcb406ce9c0.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Arvid Lindblad's damaged Racing Bulls is removed from the Madring circuit by a rescue vehicle after his crash during second practice for the Spanish Grand Prix](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4fd8/live/b3bd0ba0-ae00-11f1-9b77-ddcb406ce9c0.jpg)

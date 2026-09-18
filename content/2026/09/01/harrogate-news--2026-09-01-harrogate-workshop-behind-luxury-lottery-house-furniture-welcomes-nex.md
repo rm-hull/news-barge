@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: 'A Harrogate family business whose furniture features in luxury television
   lottery prize houses is celebrating a milestone closer to home: welcoming the next'
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Ken-Reeves.webp
+categories:
+- Local
+- Harrogate
+- Technology & Software
 ---
 
 A Harrogate family business whose furniture features in luxury television lottery prize houses is celebrating a milestone closer to home: welcoming the next generation into its workshop.

@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: More Americans are becoming aware of ties between drinking alcohol and
   health harms
 image: https://static.independent.co.uk/2026/08/21/15/2236446743..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 The number of Americans who say they drink alcohol is at a record low for the second consecutive year.

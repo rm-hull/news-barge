@@ -9,6 +9,9 @@ description: Former councillor Alastair Chambers, 45, said the mix-up happened w
   he returned to the capital Kathmandu on a humanitarian aid flight after volunteering
   in a remote village
 image: https://static.independent.co.uk/2026/09/01/05/2292444789..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Authorities in Nepal mistakenly announced that a British aid worker had been rescued, confusing him with a survivor of the devastating flash floods that struck the country last week.

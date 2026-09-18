@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Lando Norris beats George Russell to pole position at the Dutch Grand
   Prix in a frantic scramble to complete laps before a late shower of rain.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/74a4/live/d01f3ad0-9e3c-11f1-bb45-576721ee33bb.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Lando Norris won the Dutch Grand Prix from pole position in 2024](https://ichef.bbci.co.uk/ace/standard/963/cpsprodpb/74a4/live/d01f3ad0-9e3c-11f1-bb45-576721ee33bb.jpg)

@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Video footage circulating on social media appears to show passengers
   in life jackets sitting on the overturned ship as they wait to be reached.
 image: https://images.euronews.com/articles/stories/09/89/44/69/1200x675_cmsv2_1ad617d0-284b-532d-b493-db460471fe97-9894469.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## Video footage circulating on social media appears to show passengers in life jackets sitting on the overturned ship as they wait to be reached.

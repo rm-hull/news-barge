@@ -10,6 +10,10 @@ description: Rasheed Rahman had carried out another random stabbing attack two m
   before murdering Camden local Mark Carroll – but was not tracked down by police
   after delays in gathering CCTV
 image: https://static.independent.co.uk/2026/07/01/10/16/Rahman2.png?trim=75,0,77,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A violent teenager who was released on police bail twice – leaving him free to murder a beloved grandfather in a “shocking and cowardly” attack – has been jailed for life.

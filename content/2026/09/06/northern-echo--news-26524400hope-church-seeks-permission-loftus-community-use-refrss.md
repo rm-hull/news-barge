@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A church is seeking retrospective planning permission from Redcar and
   Cleveland Council for a former Co-op building in Loftus used as a base for its…
 image: https://www.thenorthernecho.co.uk/resources/images/21413895.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A church is seeking retrospective planning permission from Redcar and Cleveland Council for a former Co-op building in Loftus used as a base for its activities.

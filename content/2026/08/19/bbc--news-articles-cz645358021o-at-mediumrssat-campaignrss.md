@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The bodies of Paul Lafferty and Gary Beaton were found in a flat in Patrick's
   Chancellor Street on Sunday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8852/live/5678d210-9bc4-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Two men side by side. They are in close up. The man on the left is bald with stars tattooed on his neck. The man on the right has dark hair.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8852/live/5678d210-9bc4-11f1-a291-b542ee92de7c.jpg)

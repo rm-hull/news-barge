@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: The 38-year-old becomes one of just over 100 people who have stood on
   all 1,072 summits.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7c73/live/a8bb2dc0-9e44-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Person taking a selfie on a rocky mountain ridge, wearing a red hiking top and backpack, with rugged stone formations, grassy slopes, and dramatic cloudy skies in the background.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/7c73/live/a8bb2dc0-9e44-11f1-a291-b542ee92de7c.jpg)

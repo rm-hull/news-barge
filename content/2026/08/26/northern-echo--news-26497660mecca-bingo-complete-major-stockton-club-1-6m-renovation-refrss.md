@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: Mecca Bingo has completed a £1.6 million refurbishment of its Stockton
   venue, featuring a new social bingo lounge.
 image: https://www.thenorthernecho.co.uk/resources/images/21374715.jpg?type=og-image&xType=0&yType=38
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 A major bingo hall in Teesside has completed a £1.6 million makeover, introducing a new social bingo lounge and upgraded facilities.

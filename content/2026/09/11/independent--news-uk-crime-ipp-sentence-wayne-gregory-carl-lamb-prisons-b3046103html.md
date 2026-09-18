@@ -10,6 +10,10 @@ description: 'Exclusive: Over-tariff IPP prisoners have resorted to horrifying a
   of self-harm, including Wayne Gregory, who has mutilated his own face, and Carl
   Lamb, who cut off his own ear, as Amy-Clare Martin reports'
 image: https://static.independent.co.uk/2026/09/08/15/16/ippsplitnew.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Inside a cell at on a wing for vulnerable inmates in Lancashire, Wayne Gregory left a message smeared in blood on the wall for the prison officers who found him: “Just in case I die, IPP killed me.”

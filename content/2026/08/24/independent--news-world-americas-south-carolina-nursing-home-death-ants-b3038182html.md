@@ -10,6 +10,10 @@ description: Alzheimer’s patient Shelba Catterton, 83, believed to have wander
   of nursing home door left open by employee before being fatally attacked by insects,
   family alleges in legal complaint
 image: https://static.independent.co.uk/2026/08/24/12/18/Shelba-Catterton.png?trim=39,0,690,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 A South Carolina nursing home is being sued by the family of an elderly Alzheimer’s patient who died after being swarmed by fire ants, sustaining over 1,000 bites and stings, according to a lawsuit.

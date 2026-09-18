@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: PLANS to extend a prominent outdoor mural on a Grade-II listed building
   in a North Yorkshire town centre have been approved by councillors.
 image: https://www.gazetteherald.co.uk/resources/images/21356812.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 PLANS to extend a prominent outdoor mural on a Grade-II listed building in a North Yorkshire town centre have been approved by councillors.

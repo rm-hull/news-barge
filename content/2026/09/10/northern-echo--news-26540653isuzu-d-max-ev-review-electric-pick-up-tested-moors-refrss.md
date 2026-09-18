@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Arriving in the North York Moors in the Isuzu D‑Max EV feels oddly apt.
   In these rural parts, a tough, no‑nonsense pick‑up has always been…
 image: https://www.thenorthernecho.co.uk/resources/images/21437641.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 Arriving on the North York Moors in the Isuzu D‑Max EV feels oddly apt.

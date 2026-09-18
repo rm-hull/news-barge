@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T08:49:45Z'
 published: '2026-08-18T00:00:00Z'
 description: Newcastle United sign defender Amar Dedic from Benfica for around £30m.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a94e/live/6dc4a2a0-9ad9-11f1-b2f7-5d1639b20e22.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Amar Dedic](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a94e/live/6dc4a2a0-9ad9-11f1-b2f7-5d1639b20e22.jpg)

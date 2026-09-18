@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Florida chef Elijah Button faces a tough situation after losing his Affordable
   Care Act health insurance due to a premium hike
 image: https://static.independent.co.uk/2026/08/25/11/Healthcare_Florida_Fallout_1_23_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Florida chef Elijah Button was chopping onions in June when his knife slipped and sliced his middle finger to the bone.

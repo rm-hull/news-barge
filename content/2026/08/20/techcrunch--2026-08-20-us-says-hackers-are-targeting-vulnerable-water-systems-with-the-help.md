@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: Hackers are targeting internet-connected Siemens controllers used in
   water facilities around the United States.
 image: https://techcrunch.com/wp-content/uploads/2026/08/water-system-1253161473.jpg?w=863
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Amidst a spate of ongoing cyberattacks targeting water systems across the country, the U.S. government’s security agencies are warning that hackers are actively breaking into Siemens devices used in critical infrastructure.

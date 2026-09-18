@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Manchester United's highly-rated 15-year-old forward JJ Gabriel is on
   the verge of leaving the club.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e77e/live/42b9fe20-b10e-11f1-9065-997784e11373.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Manchester United forward JJ Gabriel](https://ichef.bbci.co.uk/ace/standard/700/cpsprodpb/e77e/live/42b9fe20-b10e-11f1-9065-997784e11373.jpg)

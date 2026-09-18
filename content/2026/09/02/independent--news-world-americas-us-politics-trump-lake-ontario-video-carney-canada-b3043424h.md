@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: The Truth Social video came just hours after Canadian PM urged Trump
   to get serious about trade negotiations
 image: https://static.independent.co.uk/2026/09/02/14/28/Screenshot-2026-09-02-at-10-18-35-AM.png?trim=333,0,108,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Canadian Prime Minister Mark Carney’s demand that “the Americans stop doing memes” appears to have fallen on deaf ears when it comes to President Donald Trump.

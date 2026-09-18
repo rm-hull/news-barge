@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: From archive-inspired art and audio drama to coding and digital making,
   a new season of free activities at York Explore has something for all ages
 image: https://www.gazetteherald.co.uk/resources/images/21385684.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *Free creative workshops for all ages launch at York Explore*

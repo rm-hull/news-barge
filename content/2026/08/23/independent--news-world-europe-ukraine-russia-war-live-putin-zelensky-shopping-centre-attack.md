@@ -7,6 +7,10 @@ scraped_at: '2026-08-23T01:56:18Z'
 published: '2026-08-23T00:00:00Z'
 description: Andrey Kelin reportedly left his role in July
 image: https://static.independent.co.uk/2026/08/22/19/2026-08-22T155055Z_625699259_RC2Q3NALWC0M_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-PUTIN.JPG?trim=3,0,3,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Vladimir Putin has reportedly pulled Russia’s ambassador from London, accusing Britain of taking the “path of confrontation”.

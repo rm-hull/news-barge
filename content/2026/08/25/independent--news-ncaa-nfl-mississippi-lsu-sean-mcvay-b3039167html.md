@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: The Big Ten has become the first conference to ban football players who
   have signed professional contracts from returning to play at its schools
 image: https://static.independent.co.uk/2026/08/25/21/Pick_Six_What%27s_New_Football_37649.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Video Gaming
 ---
 
 The Big Ten became the first conference Tuesday to adopt a rule prohibiting football players who have signed professional contracts from returning to play at its schools as college sports finds itself mired in lawsuits and disputes over eligibility.

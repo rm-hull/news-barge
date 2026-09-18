@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A historic pub dating back more than 400 years is set to go under the
   hammer.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21406102.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 A HISTORIC pub dating back more than 400 years is set to go under the hammer.

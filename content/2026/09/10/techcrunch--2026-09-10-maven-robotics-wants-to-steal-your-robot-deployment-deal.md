@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Maven Robotics emerged from stealth today with a $100 million Series
   A and active deployments.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Hamza-Khalid-2-1.jpg?resize=800,1200
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 In 2024, Maven Robotics was brand new, and they had nothing — “a cartoon of a robot and a team of people,” CEO and co-founder Hamza Derbas told TechCrunch.

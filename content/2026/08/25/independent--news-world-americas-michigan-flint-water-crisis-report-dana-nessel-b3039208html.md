@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The 101-page report details the crisis and the failed effort to hold
   officials criminally accountable
 image: https://static.independent.co.uk/2025/07/01/18/05/GettyImages-2172473201.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Michigan Attorney General Dana Nessel stated that a report published Tuesday regarding the Flint lead-water crisis represents the last measure her office can pursue toward establishing accountability. The release follows a state Supreme Court decision years prior that dismissed criminal charges against a former governor along with eight other individuals.

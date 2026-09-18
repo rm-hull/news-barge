@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: A chef has reached the final of one of the UK’s most prestigious culinary
   competitions.
 image: https://www.gazetteherald.co.uk/resources/images/21469958.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- Food & Cooking
 ---
 
 *(Image: Freelancer)*

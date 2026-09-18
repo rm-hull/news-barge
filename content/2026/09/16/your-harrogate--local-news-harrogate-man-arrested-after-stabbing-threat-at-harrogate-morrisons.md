@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: A man has been arrested following a robbery at Morrisons Daily on King
   Edward’s Drive in Harrogate.
 image: https://mmo.aiircdn.com/409/678e046af38c1.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/678e046af38c1.jpg) 

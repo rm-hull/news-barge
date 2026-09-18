@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Nvidia said Hugging Face hosts over 3 million models and is used by over
   18 million developers.
 image: https://techcrunch.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2.jpeg?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 After weeks of swirling rumors, Nvidia confirmed today that it has acquired Hugging Face for $12.93 billion. Hugging Face’s platform hosts three million models, one million applications used by over 18 million developers, and half a million datasets.

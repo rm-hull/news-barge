@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: Students at Wyvern Academy in Darlington celebrated GCSE results day
   success, with top grades, proud teachers and exciting plans for the future.
 image: https://www.thenorthernecho.co.uk/resources/images/21345498.jpg?type=og-image&xType=0&yType=113
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 Excitement was running high at Wyvern Academy in Darlington, as students collected their GCSE results alongside friends and family, celebrating their achievements and looking ahead to the next chapter.

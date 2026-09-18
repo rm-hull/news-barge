@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: From Girls Aloud and Chesney Hawkes to Pete Tong, Carl Cox and deadmau5,
   Tall Trees in Yarm welcomed some huge names during its nightclub heyday.
 image: https://www.thenorthernecho.co.uk/resources/images/21392525.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Tall Trees in Yarm was once one of the biggest names in North East nightlife, attracting thousands of clubbers as well as an extraordinary list of famous performers.

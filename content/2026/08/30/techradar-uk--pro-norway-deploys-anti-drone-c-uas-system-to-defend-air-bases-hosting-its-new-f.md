@@ -8,6 +8,8 @@ published: '2026-08-30T00:00:00Z'
 description: Norway is putting automated defenses around its F-35s after mysterious
   drone sightings disrupted airports across the region
 image: https://cdn.mos.cms.futurecdn.net/t38ZxURMXpQ2CUL46emGYV-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![HAL10 launcher integrated into Norway’s C-UAS](https://cdn.mos.cms.futurecdn.net/t38ZxURMXpQ2CUL46emGYV.jpg) 

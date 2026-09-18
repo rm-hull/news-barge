@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A LONG-STANDING charity has announced a new name after more than a century
   of service.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21453369.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 A LONG-STANDING charity has announced a new name after more than a century of service.

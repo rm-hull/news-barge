@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A popular café at one of Redcar’s best known visitor attractions is set
   to reopen under new management.
 image: https://www.thenorthernecho.co.uk/resources/images/21403186.jpg?type=og-image&xType=0&yType=150
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: THE NORTHERN ECHO)*

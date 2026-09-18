@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: The exact times the Red Arrows will fly over Great North Run runners
   and spectators this weekend.
 image: https://www.thenorthernecho.co.uk/resources/images/21438993.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: TOM BANKS)*

@@ -8,6 +8,9 @@ scraped_at: '2026-08-26T13:11:46Z'
 published: '2026-08-26T00:00:00Z'
 description: HP and Huawei to share patents in a multi-year agreement
 image: https://cdn.mos.cms.futurecdn.net/fVvA9tr87QfPys6VEUqGJS-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Huawei](https://cdn.mos.cms.futurecdn.net/fVvA9tr87QfPys6VEUqGJS.jpg) 

@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: Federal environment department tells industry representatives the government
   does not want to ‘exacerbate cost of living pressures’
 image: https://i.guim.co.uk/img/media/d3cc664724e6376ff66f5f578425e07d3bfbc731/1000_957_5680_4544/master/5680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=92e6d130ca8a1d8372b023fbafb21dc2
+categories:
+- UK
+- News & Politics
 ---
 
 The Albanese government has been accused of breaking a promise after it shelved a longstanding commitment to bring in packaging standards intended to force manufacturers and retailers to cut plastic waste.

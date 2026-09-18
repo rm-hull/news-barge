@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: At least 124 land and environmental defenders were killed worldwide in
   2025, with Latin America accounting for 85% of the deaths
 image: https://static.independent.co.uk/2026/09/16/00/Climate_Environmental_Defenders_Report_531_2.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 At least 124 land and environmental defenders were killed around the world last year, with Latin America accounting for 85% of the deaths as conflicts over land and natural resources continued to put Indigenous people and small-scale farmers at risk, according to a report released Wednesday.

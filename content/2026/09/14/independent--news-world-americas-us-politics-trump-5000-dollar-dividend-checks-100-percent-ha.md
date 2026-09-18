@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: The president claims he can dole out the money without congressional
   approval, despite Republican House Speaker Mike Johnson saying otherwise
 image: https://static.independent.co.uk/2026/09/10/09/2294432281..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 President Donald Trump claims his offer to give $5,000 to every American adult if Republicans keep control of Congress is "100 percent" on track — and that he knows “exactly how” to come up with the budget-busting amount of cash.

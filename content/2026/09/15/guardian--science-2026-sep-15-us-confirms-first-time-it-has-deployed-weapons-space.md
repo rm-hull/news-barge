@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Analysts warn of an acceleration in high-risk arms race with Russia and
   China in Earth’s orbit
 image: https://i.guim.co.uk/img/media/3875d16b209d713c2fd48a7fbccf12b5c38d1004/406_0_4079_3263/master/4079.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf5dff0de5de242e36608ca20e11c17c
+categories:
+- UK
+- News & Politics
+- Science
+- Technology & Software
 ---
 
 The US has deployed weapons in space, the US military has confirmed, in an extraordinary public announcement that analysts warn will accelerate a high-risk arms race with Russia and China in Earth’s orbit.

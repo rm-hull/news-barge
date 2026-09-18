@@ -8,6 +8,9 @@ published: '2026-08-23T00:00:00Z'
 description: The president took a ceremonial lap of the track before the race, which
   is the culmination of a summer of events to mark the country's 250th birthday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5457/live/115de7a0-9f21-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Donald Trump waves a green flag as he stands next to his wife Melania who is smiling and clapping](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/5457/live/115de7a0-9f21-11f1-a291-b542ee92de7c.jpg)

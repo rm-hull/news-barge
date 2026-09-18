@@ -9,6 +9,12 @@ published: '2026-09-09T00:00:00Z'
 description: A body has been found in the search for a 15-year-old boy who got into
   difficulty in the sea while on a family holiday.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2025/08/07/8/53/Untitled-design-2025-08-07T095613-108.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
+- Society & Culture
 ---
 
 # Body found for missing Yorkshire teenager who was swept out to sea on family holiday

@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: Discover more about Cyber Security with insights from the experts at
   Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/8Ht5WmB2A95EErFNdy8QmN-320-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![a Flock camera with a street in the background](https://cdn.mos.cms.futurecdn.net/8Ht5WmB2A95EErFNdy8QmN-320-80.png)

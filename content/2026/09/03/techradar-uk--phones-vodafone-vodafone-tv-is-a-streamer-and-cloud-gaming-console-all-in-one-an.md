@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: Vodafone TV is a streaming service and set top box that combines access
   to loads of streaming apps with a cloud gaming platform.
 image: https://cdn.mos.cms.futurecdn.net/icTDJkicnHjEHzC6cRgsTA-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![The Vodafone TV box and remote being held in the hand](https://cdn.mos.cms.futurecdn.net/icTDJkicnHjEHzC6cRgsTA.jpg) 

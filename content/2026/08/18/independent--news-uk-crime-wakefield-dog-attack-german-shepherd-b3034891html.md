@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T13:04:29Z'
 published: '2026-08-18T00:00:00Z'
 description: The German Shepherd dog has been seized by police officers
 image: https://static.independent.co.uk/2026/08/18/08/82fa999d040f0d7ea4ce0772a2ab5709Y29udGVudHNlYXJjaGFwaSwxNzg3MTIyNDU4-2.85593480.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A man has appeared in court accused of manslaughter after his German Shepherd fatally bit a man on a footpath in Wakefield following an argument about “right of way”.

@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: A woman accused of killing her friend in a 120mph Lamborghini crash claims
   he triggered a "boost" by tampering with the supercar's…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21429920.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: CPS / West Yorkshire Police / SWNS)*

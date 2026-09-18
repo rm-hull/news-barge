@@ -9,6 +9,10 @@ description: A Jerusalem court has acquitted a man accused of attacking a Cathol
   nun, citing an insanity defense, but orders psychiatric hospitalization for up to
   six years
 image: https://static.independent.co.uk/2026/08/27/11/Jerusalem_Nun_Attacked_12185.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A Jerusalem Magistrate’s Court judge acquitted a man accused of attacking a Catholic nun based on his insanity defense, but ordered him committed to psychiatric hospitalization for up to six years.

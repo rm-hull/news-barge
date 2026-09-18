@@ -9,6 +9,13 @@ description: Creative Enterprise, part of Creative UK, has announced the launch 
   a new specialist business growth programme designed to help screen businesses scale
   and build sustainable growth.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjlmZDMwZThlLTYxY2YtNDY1OS05MWNmLWU5Y2JkMzcyMWM3ZTpkODUxZWMzYy05Y2I2LTQ3MTUtYTc0OC0zZjBmMWYwMTJmMGM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Technology & Software
+- Creator Economy & Marketing
 ---
 
 # New scheme launched to aid firms working in film, TV and games

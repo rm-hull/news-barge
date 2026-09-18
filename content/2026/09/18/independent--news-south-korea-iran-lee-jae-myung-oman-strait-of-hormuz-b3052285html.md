@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Iran says it has struck an oil tanker trying to transit the Strait of
   Hormuz
 image: https://static.independent.co.uk/2026/09/18/07/South_Korea_US_Iran_Protest_96119.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Self-Improvement
 ---
 
 Iran says it has struck an oil tanker trying to transit the Strait of Hormuz. And South Korea says it is considering expanding the operations of a naval operation in the Gulf of Aden off the Arabian Peninsula to protect its ships and oil routes.

@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Call for ‘constitutional change in Wales, Scotland and Northern Ireland’
   likely to challenge Burnham’s devolution agenda
 image: https://i.guim.co.uk/img/media/d8c494075f964bc1b31957ce6f18933e99d95166/3_0_5901_4724/master/5901.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0542a1a6fc011a2cbf8cfb9c947ecd53
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 The first ministers of Wales, Scotland and Northern Ireland are to affirm their countries’ right to seek independence from the UK at a summit that is likely to challenge Andy Burnham’s devolution agenda.

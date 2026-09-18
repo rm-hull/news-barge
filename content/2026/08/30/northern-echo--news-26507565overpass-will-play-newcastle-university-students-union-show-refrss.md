@@ -8,6 +8,13 @@ published: '2026-08-30T00:00:00Z'
 description: Rising indie band Overpass have told fans they are “so excited” to perform
   in Newcastle after playing to a huge crowd at Leeds Festival 2026.
 image: https://www.thenorthernecho.co.uk/resources/images/21389603.jpg?type=og-image&xType=0&yType=1210
+categories:
+- Local
+- UK
+- News & Politics
+- Music
+- Technology & Software
+- Video Gaming
 ---
 
 *(Image: LIAM RUSSELL)*

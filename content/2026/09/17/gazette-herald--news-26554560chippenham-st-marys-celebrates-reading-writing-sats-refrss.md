@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: St Mary's Catholic Primary School in Chippenham saw 96 reach the expected
   writing standard and 88 in reading, beating national averages.
 image: https://www.gazetteherald.co.uk/resources/images/21461703.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 *(Image: St Mary’s Catholic Primary School)*

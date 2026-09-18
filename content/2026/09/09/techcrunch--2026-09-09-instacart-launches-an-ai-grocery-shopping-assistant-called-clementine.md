@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Instacart is the latest app to bake a conversational AI assistant into
   its platform.
 image: https://techcrunch.com/wp-content/uploads/2022/09/instacart-logo.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Instacart is the latest app to bake a conversational AI assistant into its platform. The company announced on Wednesday that it’s launching a new AI-powered grocery shopping assistant called Clementine that can turn a conversation, grocery list, or recipe into a ready-to-buy cart.

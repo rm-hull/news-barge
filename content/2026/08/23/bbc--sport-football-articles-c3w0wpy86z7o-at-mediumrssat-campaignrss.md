@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Does Savinho's £75m move from Manchester City to Tottenham represent
   a sporting success for the Abu Dhabi-owned club?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ff03/live/3a05b270-9e20-11f1-bc51-19e4b5ccc0f6.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![The back of Savino's shirt with his head turned to the side](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ff03/live/3a05b270-9e20-11f1-bc51-19e4b5ccc0f6.jpg)

@@ -9,6 +9,12 @@ published: '2026-08-25T00:00:00Z'
 description: Opening inquests into the deaths of two police officers and one of the
   five people travelling in a Volkswagen Passat in the A66 crash are due to be…
 image: https://www.thenorthernecho.co.uk/resources/images/21367256.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 Inquests will be opened into the deaths of two police officers and one of the five people killed in the A66 crash this week.

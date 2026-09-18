@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Zhenhao Zou was convicted of raping 10 women but he is thought to have
   committed further crimes.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20fc/live/e67b6d10-f9da-11ef-9e61-71ee71f26eb1.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![Police custody image of Zhenhao Zou](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/20fc/live/e67b6d10-f9da-11ef-9e61-71ee71f26eb1.jpg)

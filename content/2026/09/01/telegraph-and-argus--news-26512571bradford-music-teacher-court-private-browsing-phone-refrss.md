@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: A former freelance music teacher who was banned from the profession for
   life after downloading indecent images of children has been given another…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21397441.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: T&A)*

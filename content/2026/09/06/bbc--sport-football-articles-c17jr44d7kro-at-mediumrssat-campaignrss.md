@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: Manchester United boss Michael Carrick remains optimistic despite his
   side dropping another two points at Everton.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7e4d/live/ebe07000-aa0c-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Manchester United have picked up four points from the first three Premier League games](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7e4d/live/ebe07000-aa0c-11f1-aed2-8d6da8d75094.jpg)

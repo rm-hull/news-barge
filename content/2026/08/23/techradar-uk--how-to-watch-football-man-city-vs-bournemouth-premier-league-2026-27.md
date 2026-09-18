@@ -8,6 +8,9 @@ scraped_at: '2026-08-23T12:57:54Z'
 published: '2026-08-23T00:00:00Z'
 description: It's all change in both dugouts as City host the Cherries
 image: https://cdn.mos.cms.futurecdn.net/q95SvLfofyML6gh4KXh8HX-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Erling Haaland of Manchester City applauds the fans after the 2026 FA Community Shield match between Arsenal and Manchester City at Principality Stadium on August 16, 2026 in Cardiff, Wales](https://cdn.mos.cms.futurecdn.net/q95SvLfofyML6gh4KXh8HX.jpg) 

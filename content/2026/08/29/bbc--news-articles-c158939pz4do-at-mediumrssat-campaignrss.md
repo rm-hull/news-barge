@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Police say at least six other people were also injured in the incident
   at the Big Church Festival.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ec8/live/5cdf5720-a383-11f1-b109-879e35c24276.png
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 What we know about the incident at the Big Church Festival

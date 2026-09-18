@@ -7,6 +7,11 @@ scraped_at: '2026-08-20T08:52:52Z'
 published: '2026-08-20T00:00:00Z'
 description: Darlington pupils achieve record results at Haughton Academy
 image: https://www.thenorthernecho.co.uk/resources/images/21345185.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Supplied)*

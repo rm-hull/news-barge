@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Canada has dodged President Donald Trump’s threat of 50% tariffs — at
   least for now
 image: https://static.independent.co.uk/2026/08/19/22/Canada-US_Trade_276_6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Canada and the United States moved closer Wednesday to finalizing a trade agreement that would avert threatened 50% U.S. tariffs, with a senior Canadian official calling the emerging terms “a very good deal for Canada” while cautioning that negotiations were not complete.

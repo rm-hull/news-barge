@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Both Good Good and Callaway erased the advertisement late Friday following
   outcry over its depiction of violence against women,
 image: https://static.independent.co.uk/2026/08/23/14/50/iStock-477389000.jpg?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 YouTube content creator Good Good Golf, set to serve as the title sponsor for an upcoming PGA Tour tournament this fall, faced swift criticism after publishing and then removing a promotional video for a Callaway golf driver that showed a man pushing a woman to the ground as she reached for the club.

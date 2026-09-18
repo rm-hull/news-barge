@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: As rescue efforts enter their fifth day following the Nepal flash floods,
   some of today's papers report on the climbing death toll.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/91d4/live/e79454a0-a3fc-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![The headline on the front page of the Independent reads: 'We've not given up': Anguish of families as flood toll climbs.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a103/live/58ee7900-a3f3-11f1-a291-b542ee92de7c.png)

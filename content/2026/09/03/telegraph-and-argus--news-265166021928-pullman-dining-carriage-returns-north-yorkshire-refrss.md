@@ -7,6 +7,11 @@ scraped_at: '2026-09-03T12:48:31Z'
 published: '2026-09-03T00:00:00Z'
 description: A FULLY restored 1928 Pullman dining carriage has returned to service.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21401412.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 *(Image: North Yorkshire Moors Railway)*

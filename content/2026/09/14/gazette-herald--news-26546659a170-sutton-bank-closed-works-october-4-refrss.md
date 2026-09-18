@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: The A170 is closed at Sutton Bank in both directions from Cross Hill
   to Sutton Bank National Park Centre.
 image: https://www.gazetteherald.co.uk/resources/images/17447508.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 ROAD users are reminded that a main road in North Yorkshire has closed for three weeks while essential safety and improvement work is carried out.

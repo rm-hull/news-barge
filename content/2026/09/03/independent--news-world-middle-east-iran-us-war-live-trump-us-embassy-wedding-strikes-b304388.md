@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Fighting between the US and Iran has seen the biggest exchange of fire
   since July
 image: https://static.independent.co.uk/2026/09/03/07/2026-09-03T000426Z_1820436409_RC2CBNASSZR2_RTRMADP_3_USA-TRUMP.JPG?trim=0,15,0,15&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Donald Trump has labelled Iran’s strikes on US targets as a “love tap” after US forces had hit the country “very hard” in yet another bizarre rant.

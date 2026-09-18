@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Priyanka Chopra Jonas has executive produced The Cycle of Love, based
   on an Indian artist who cycled from India to Europe to reunite with his wife.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/012c/live/3e5be0b0-9d71-11f1-b109-879e35c24276.png
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 # Priyanka Chopra Jonas on making a film about love and caste inequality

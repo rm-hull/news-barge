@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A man has been arrested and charged after several vehicles were damaged
   in a hospital car park in Middlesbrough.
 image: https://www.thenorthernecho.co.uk/resources/images/19734471.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: GOOGLE)*

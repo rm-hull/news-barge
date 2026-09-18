@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: A police and crime commissioner (PCC) has slammed a £2m sum handed to
   Cleveland Police from the government.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY3N2RkZTFkLWZjNDQtNDgwOS04Y2U5LTI2OWJiNDc3YWVlMTo5OWRjN2QyMy1lZjUwLTQyYjgtOTFmNi02MWVhMDEwZmZlYzM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # 600 extra police officers ‘come to help’ in Cleveland

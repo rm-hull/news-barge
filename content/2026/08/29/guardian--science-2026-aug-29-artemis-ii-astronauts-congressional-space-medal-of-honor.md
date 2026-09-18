@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen received
   the Congressional Space Medal of Honor
 image: https://i.guim.co.uk/img/media/019f4167d3d66d36a454b92c2a3b2d4d40c64dc7/1_1_6879_5503/master/6879.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b36a3861f6161991f538f251bdd96a9
+categories:
+- UK
+- News & Politics
+- Science
+- History
 ---
 
 The Artemis II astronauts who flew around the moon in April received the US’s highest space honor on Friday.

@@ -8,6 +8,13 @@ published: '2026-09-04T00:00:00Z'
 description: We found out if people are happy to pay 50p to use the public toilets
   in Silver Street in York and how the cost compares to other cities in Europe.
 image: https://www.gazetteherald.co.uk/resources/images/21407532.jpg?type=og-image&xType=0&yType=204
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 Locals and visitors to York might find it hard to pin down the location of some of the city centre public loos, but nobody seems to object to spending 50p to “spend a penny”.

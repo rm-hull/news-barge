@@ -9,6 +9,10 @@ description: The driver who slammed her SUV into a Los Angeles bus, killing two 
   before a news helicopter that was covering it crashed will face murder charges,
   a prosecutor said Thursday
 image: https://static.the-independent.com/2026/09/17/22/Helicopter_Crash_Los_Angeles_83432.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 An SUV driver accused of being high on drugs when she plowed into a Los Angeles city bus has been charged with murdering two passengers in a crash that preceded a second tragedy when a news helicopter covering the scene went down, killing three more people.

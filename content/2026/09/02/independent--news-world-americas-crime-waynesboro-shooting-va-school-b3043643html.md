@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Governor Abigail Spanberger said she was aware of the shooting and is
   monitoring the situation
 image: https://static.the-independent.com/2026/09/02/17/Virginia_School_Emergency_56555.jpg?trim=0,150,0,150&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A shooting has been reported at Westwood Hills Elementary School in Waynesboro, Virginia, prompting an evacuation of the building.

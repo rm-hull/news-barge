@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: Family members pin photos of Nepal’s missing to hospital wall as people
   try not to give up hope on loved ones
 image: https://i.guim.co.uk/img/media/b626a08a17b491be380d00f8586810add80e9bb6/1083_214_3997_3197/master/3997.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe09ae87d3682c4f9d93d34191ce457f
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- Society & Culture
 ---
 
 Posters of missing people line the wall of the hospital, the glue still fresh beneath. A schoolgirl smiling in her uniform; a beaming, chubby-cheeked baby; a couple smiling on their wedding day; a young man, hands on hips, atop a mountain peak; a young girl with flowing hair, peaking out from behind a door.

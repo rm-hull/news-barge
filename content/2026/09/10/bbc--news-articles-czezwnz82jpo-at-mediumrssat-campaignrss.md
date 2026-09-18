@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: A 999 call from the Eddie Hill and Jayden Long from Snowdon was not properly
   escalated.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c07c/live/9ef97c10-ad08-11f1-beae-535b95a24b3e.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A black and white photo of Eddie and Jayden, smiling side by side. They are both holding pints or beer. Jayden has a hat on and has short stubble and is wearing a black hoodie. Eddie has short dark hair and is wearing a jumper.](https://ichef.bbci.co.uk/ace/standard/502/cpsprodpb/c07c/live/9ef97c10-ad08-11f1-beae-535b95a24b3e.jpg)

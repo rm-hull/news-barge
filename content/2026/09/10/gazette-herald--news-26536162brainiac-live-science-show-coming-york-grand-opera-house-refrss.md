@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Brainiac Live, the Olivier Award-winning family science show inspired
   by the Sky One TV hit, is coming to the Grand Opera House York.
 image: https://www.gazetteherald.co.uk/resources/images/21431450.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 *(Image: Grand Opera House York)*

@@ -8,6 +8,9 @@ scraped_at: '2026-08-19T13:10:07Z'
 published: '2026-08-19T00:00:00Z'
 description: Embedding AI to deliver value
 image: https://cdn.mos.cms.futurecdn.net/66VqvPPDZuo2kdKYFpXWkK-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A female office worker smiling as she presents data on a giant display](https://cdn.mos.cms.futurecdn.net/66VqvPPDZuo2kdKYFpXWkK.jpg) 

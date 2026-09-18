@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: A monitoring group has found that there were more incidents of anti-Muslim
   prejudice and hate in the first six months of this year than in the whole of 2023
 image: https://static.independent.co.uk/2026/05/22/16/6a0a68daf106d60ad19a4e02314d70fcY29udGVudHNlYXJjaGFwaSwxNzc5NTQ4OTk5-2.84640554.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Incidents of anti-Muslim prejudice and hate in London during the first six months of this year have already exceeded the total figure recorded for the whole of 2023, according to a monitoring group.

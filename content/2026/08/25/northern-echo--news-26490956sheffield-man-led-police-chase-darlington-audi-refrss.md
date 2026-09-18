@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: A man convicted of dangerous driving in an early hours’ police pursuit
   in Darlington risked receiving a prison sentence after failing two…
 image: https://www.thenorthernecho.co.uk/resources/images/21366659.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: DURHAM POLICE)*

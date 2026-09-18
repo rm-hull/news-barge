@@ -9,6 +9,12 @@ description: Five more people have been arrested following investigations into e
   surrounding the crash on the A66 in which two police officers and five people in
   a Volkswagen Passat died, police have said.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/24/09/v2-image-production-c0a92e7da25c95d4a3db7542f9f0ecc0Y29udGVudHNlYXJjaGFwaSwxNzg3NjQzOTg2-2.85637378.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
 ---
 
 # A66: Five more people - including 16-year-old boy - arrested over fatal crash

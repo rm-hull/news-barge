@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The kingdom condemns the targeting of Sidr, which was reportedly hit
   by unknown projectiles in the Strait of Hormuz on Monday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7003/live/d674cf10-a6ef-11f1-9e4c-79c1c0e340c6.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![File photo showing commercial ships anchored in the Strait of Hormuz, off the coast of Bandar Abbas, Iran (10 August 2026)](https://ichef.bbci.co.uk/ace/standard/828/cpsprodpb/7003/live/d674cf10-a6ef-11f1-9e4c-79c1c0e340c6.jpg)

@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Emmerdale star Jeff Hordley won an NTA for playing Cain Dingle after
   his prostate cancer storyline, in an emotional speech at the NTAs.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21430109.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: PA)*

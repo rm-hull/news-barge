@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Cole, described as an ‘extraordinary talent’, also appeared in Waiting
   for God, Tenko and had an extensive theatre career
 image: https://i.guim.co.uk/img/media/c110f11f131d80095d80e1e3be2d64a68ff33d67/423_0_5844_4677/master/5844.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=94bb1225e118737e183fc6388cb19bca
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- Film & TV
 ---
 
 The actor Stephanie Cole, best known for roles in Coronation Street, Waiting for God and Open All Hours, has died aged 84.

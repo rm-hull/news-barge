@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: A swan taken to Whitby Wildlife Sanctuary after repeatedly returning
   to its dead mate in Stockton has been released back into the wild following…
 image: https://www.thenorthernecho.co.uk/resources/images/19025826.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 The mate of a swan that was killed in Teesside last week has been released back into the water after refusing to leave its partner's side.

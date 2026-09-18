@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Four people have been charged with murder following the death of a newborn
   baby girl.
 image: https://www.thetelegraphandargus.co.uk/resources/images/12278004.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Police)*

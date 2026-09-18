@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: One person was taken to hospital after a car overturned in Bradford in
   the early hours of this morning.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20487350.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Pixabay)*

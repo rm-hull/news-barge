@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: A new multi-sports bar with a 23ft LED screen covering two floors, 27
   TVs, and interactive darts is set to open this month.
 image: https://www.thenorthernecho.co.uk/resources/images/21445209.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: PNEUMA GROUP)*

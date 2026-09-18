@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T13:04:44Z'
 published: '2026-08-18T00:00:00Z'
 description: A series of roads will be closed in York for the Ebor Festival this week.
 image: https://www.yorkpress.co.uk/resources/images/20905091.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Mike Egerton/PA Wire)*

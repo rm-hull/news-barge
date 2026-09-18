@@ -9,6 +9,11 @@ description: The satirical collaboration between a creative studio and the music
   behind Big Data, “Bezzy” is a cute little doll that spews the sounds of real data
   centers.
 image: https://media.wired.com/photos/6aac73877233731358b63afc/191:100/w_1280,c_limit/AdoptADataCenter-Bezzy-Hero.png
+categories:
+- Technology & Software
+- Science
+- Music
+- Arts & Culture
 ---
 
 Uh oh, we got a cute alert! It’s Bezzy, your adorable, cuddly, anthropomorphized server-rack and stuffed-animal friend! Give this soft lil’ doll a squeeze, and it shall sing you its telltale song: the piercing, grinding ambient squeals emitted from a real US data center.

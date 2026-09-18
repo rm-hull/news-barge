@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Residents and anglers in a Doncaster village must work together to save
   a popular lake from a fishing ban, the area’s city councillors have said.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI1MDM3ZmEzLTg2OTktNGJmYS1hMDE1LTc2Y2NkYTJkNzA2Mjo4ODM4YmRhZi02M2JkLTQxYzEtYWZlMy00OWU5MzU4MDUwZjY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Outdoors & Nature
 ---
 
 # ‘We must work together to stop fishing ban,’ say councillors amid uproar

@@ -10,6 +10,10 @@ description: Shoppers can visit the Atorie website and buy handbags or clothes m
   from the same material — and coming from the same factory — that manufacturers use
   in high-end goods.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Atoire.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Shopping & Deals
+- Technology & Software
 ---
 
 Fashion startup Atorie announced Thursday a $9.5 million seed round with investors, including a16z speedrun, Night Capital, and Lightspeed Ventures’ Jeremy Liew.

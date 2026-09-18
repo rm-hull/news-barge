@@ -11,6 +11,10 @@ description: A staged return to a restored and fit-for-purpose aid budget should
   world's challenges are too large to be met by increased donor funding; we need to
   also use Britian’s influence
 image: https://static.independent.co.uk/2026/08/26/16/01KJDRTVDHWB9PQS7ERZ2ARH41.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Last year, aid from the world's wealthiest countries fell by more than a fifth, the steepest annual drop on record and it happened just as humanitarian need was surging to historic levels.

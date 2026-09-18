@@ -9,6 +9,8 @@ published: '2026-08-28T00:00:00Z'
 description: Sony's new Bravia 6 TV is a mid-range OLED, but its panel is believed
   to be more like the LG B6.
 image: https://cdn.mos.cms.futurecdn.net/os6TNuWyFmk6mKiU3veox8-1280-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Sony Bravia 6 atop a dark wood TV unit in a cosily lit living room](https://cdn.mos.cms.futurecdn.net/os6TNuWyFmk6mKiU3veox8.jpg) 

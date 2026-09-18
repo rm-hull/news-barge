@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Twenty-five years after the Sept. 11 attacks, current and former Associated
   Press journalists who witnessed them recall the day
 image: https://static.independent.co.uk/2026/09/10/05/Sept_11_AP_Was_There_43476.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Karen Matthews was getting her 3-year-old daughter ready for preschool in her Manhattan apartment on Sept. 11, 2001, when she heard a loud boom, unlike anything she’d ever heard before.

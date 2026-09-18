@@ -8,6 +8,9 @@ published: '2026-08-24T00:00:00Z'
 description: Discover more about Networking with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/KHySyR6J9rvmwETnRdiEMV-450-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 # Networking

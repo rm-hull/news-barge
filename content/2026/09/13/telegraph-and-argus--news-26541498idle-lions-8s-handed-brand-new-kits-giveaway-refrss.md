@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: A GRASSROOTS football team has been kitted out in style thanks to a nationwide
   community giveaway
 image: https://www.thetelegraphandargus.co.uk/resources/images/21438811.jpg?type=og-image&xType=0&yType=230
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Supplied)*

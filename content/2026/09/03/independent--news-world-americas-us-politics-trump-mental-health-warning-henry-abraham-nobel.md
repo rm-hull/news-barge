@@ -9,6 +9,10 @@ description: ‘I mean, if an airline pilot had half of the symptoms that the pr
   of the United States has, we would not let him on an airplane,’ Dr. Henry David
   Abraham said
 image: https://static.independent.co.uk/2026/09/03/11/27/GettyImages-2292883112.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A Nobel Peace Prize winner warned that President Donald Trump’s mental health and access to nuclear weapons make him “more dangerous” now.

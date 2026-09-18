@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: 'Held on Tuesday, 15 September 2026, the event—titled Martin House Children’s
   Hospice Conference 2026: Inspiring Excellence—unfolded within the organisation''s'
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/GSB_4898.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 **BOSTON SPA**— More than 70 healthcare professionals gathered at Martin House Children’s Hospice this week to participate in the charity’s first dedicated conference focused on advancing paediatric palliative care standards across Yorkshire.

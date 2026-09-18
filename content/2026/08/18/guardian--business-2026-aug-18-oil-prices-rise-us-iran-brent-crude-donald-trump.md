@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Brent crude rises above $90 a barrel for the first time since 30 July
   after US president tells Tehran to surrender
 image: https://i.guim.co.uk/img/media/35c3792de76d98515facea91d10823e4dcbba753/421_0_2857_2286/master/2857.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6b52964b256e98422307491b6890af15
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Oil prices have risen again after the two-month window to negotiate a peace deal in the US-Israel war on Iran expired on Monday with no end to the conflict in sight.

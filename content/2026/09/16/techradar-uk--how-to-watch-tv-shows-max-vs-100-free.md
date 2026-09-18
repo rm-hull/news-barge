@@ -8,6 +8,10 @@ scraped_at: '2026-09-16T19:33:01Z'
 published: '2026-09-16T00:00:00Z'
 description: Max Verstappen takes on 100 drivers in the world's biggest go-kart race
 image: https://cdn.mos.cms.futurecdn.net/53H5FNd8WL6uixQ26x5Zfg-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Video Gaming
 ---
 
 ![Max Verstappen of the Netherlands and Oracle Red Bull Racing looks on in the Pitlane during previews ahead of the F1 Grand Prix of Spain at Madring on September 10, 2026 in Madrid, Spain](https://cdn.mos.cms.futurecdn.net/53H5FNd8WL6uixQ26x5Zfg.jpg) 

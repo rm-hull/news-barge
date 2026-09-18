@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T16:50:52Z'
 published: '2026-08-25T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/crane-dakota-hotel-construction-rougier-street-york-2.webp
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 This is why Rougier Street in the centre of York is now closed to traffic.

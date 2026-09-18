@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: The £60m project will be funded by the Department for Work and Pensions
   and the Department for Transport
 image: https://static.independent.co.uk/2026/08/10/14/19/iStock-2263466939.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 Holders of disabled bus passes across England will be granted round-the-clock free travel starting in April next year.

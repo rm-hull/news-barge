@@ -8,6 +8,12 @@ published: '2026-08-30T00:00:00Z'
 description: Happy Valley and Grantchester star James Norton grew up on the edge of
   North Yorkshire’s Howardian Hills, a childhood he has described as…
 image: https://www.thenorthernecho.co.uk/resources/images/21378829.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
+- Comedy & Entertainment
 ---
 
 A corner of North Yorkshire known for its rolling countryside, woodland and historic estates also helped shape one of Britain’s best-known actors, Happy Valley and Grantchester star James Norton.

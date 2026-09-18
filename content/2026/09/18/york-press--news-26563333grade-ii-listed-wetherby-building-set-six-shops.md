@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: A historic town centre building is set to be converted into retail units
   under plans to safeguard its long-term future.
 image: https://www.yorkpress.co.uk/resources/images/21474227.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Google)*

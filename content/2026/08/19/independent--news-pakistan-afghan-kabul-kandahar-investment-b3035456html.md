@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Sporadic fighting between Afghanistan and Pakistan has left the border
   between the countries closed to trade
 image: https://static.independent.co.uk/2026/08/19/09/Afghanistan_Grapes_to_Raisins_61142.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 It’s grape season in Afghanistan’s southern province of Kandahar, and the harvest this year is plentiful. But that’s small comfort for the region’s grape producers and workers, who say fighting between Afghanistan and Pakistan has left them unable to access their primary market.

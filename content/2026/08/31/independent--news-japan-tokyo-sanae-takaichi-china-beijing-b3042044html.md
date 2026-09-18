@@ -11,6 +11,11 @@ description: Japan’s Defense Ministry has disclosed details of an 8.9 trillion
   increase significantly after the government adopts new security and defense plans
   later in the year
 image: https://static.independent.co.uk/2026/08/31/10/Japan_Defense_Spending_72717.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Japan plans to use drones, artificial intelligence and new methods of warfare as it adapts its defense strategies to suit changing times, according to details of an 8.9 trillion yen ($55.6 billion) budget request for the coming fiscal year disclosed by the Defense Ministry on Monday.

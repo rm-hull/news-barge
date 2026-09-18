@@ -10,6 +10,10 @@ description: The Hanish archipelago fell after hundreds of government-allied for
   have been displaced in two weeks of fighting, as the internationally recognised
   government vows to regroup.
 image: https://images.euronews.com/articles/stories/09/91/27/14/1200x675_cmsv2_46c1ef7a-97c1-5143-abca-e01c2e8c06a5-9912714.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## The Hanish archipelago fell after hundreds of government-allied forces withdrew, adding to Houthi control of Mokha and Perim Island. More than 80,000 people have been displaced in two weeks of fighting, as the internationally recognised government vows to regroup.

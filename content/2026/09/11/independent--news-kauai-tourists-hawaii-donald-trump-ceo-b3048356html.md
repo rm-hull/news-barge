@@ -10,6 +10,10 @@ description: Tourism officials are asking visitors to steer clear of one of Hawa
   most picturesque islands during recovery from the latest tropical storm to thrash
   the state
 image: https://static.independent.co.uk/2026/09/11/05/Hawaii_Hurricane_87865.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Tourism officials are asking visitors to steer clear of one of Hawaii’s most picturesque islands as residents and businesses work to recover from the latest tropical storm to thrash the state.

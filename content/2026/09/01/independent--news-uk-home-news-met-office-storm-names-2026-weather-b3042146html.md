@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The UK’s Met Office, Ireland’s Met Éireann, and KNMI in the Netherlands
   have been naming storms since 2015
 image: https://static.independent.co.uk/2026/01/09/8/01/Winter-weather-Jan-9th-2026-1sdsonqo.jpeg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Meteorologists have decided Austen, Boelo and Chloe will be the first named storms of the 2026/27 season, after more than 40,000 public suggestions.

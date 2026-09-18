@@ -8,6 +8,9 @@ published: '2026-09-05T00:00:00Z'
 description: Indira Talwani’s ruling presents major setback for president as first
   states begin to send out mail ballots for midterms
 image: https://i.guim.co.uk/img/media/419d930eeb3d308871cfdee82f6bddf81c772990/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5fe6cb7944c454e79159fc90d0cb618c
+categories:
+- UK
+- News & Politics
 ---
 
 A federal judge on Friday again blocked Donald Trump’s executive order to impose sweeping restrictions on mail-in voting, the latest in a legal back-and-forth playing out less than two months before election day.

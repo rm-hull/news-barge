@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: Watch live as MPs vote again on the UK’s assisted dying bill as it returns
   to parliament on Friday (11 September).
 image: https://static.independent.co.uk/2026/09/11/07/019f18c13e827b5eb6110325264784bcY29udGVudHNlYXJjaGFwaSwxNzg5MTkyNTY2-2.78335510.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Watch live as MPs vote again on the UK’s assisted dying bill as it returns to parliament on Friday (11 September).

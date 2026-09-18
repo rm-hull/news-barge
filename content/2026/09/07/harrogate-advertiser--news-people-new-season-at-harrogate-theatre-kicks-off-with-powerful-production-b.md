@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Harrogate Theatre’s new Autumn Drama Season got off to a bang, literally,
   with an enthralling production set in the Thatcher era.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjllYWU3YTczLTg0ZmQtNDQ3NC05NmJiLWQ5ZDY1NDA0MmRhODoyMTA1MDc1OS0yMjFkLTQzODItYTRkMy1hZDEwYmIwOTlhYWI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Film & TV
 ---
 
 # New season at Harrogate Theatre kicks off with powerful production by acclaimed Leeds playwright Philip Stokes

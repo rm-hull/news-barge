@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Rain has returned to the North East after weeks of dry weather, with
   Darlington set for a wet Thursday before drier weekend conditions.
 image: https://www.thenorthernecho.co.uk/resources/images/20259125.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: SARAH CALDECOTT)*

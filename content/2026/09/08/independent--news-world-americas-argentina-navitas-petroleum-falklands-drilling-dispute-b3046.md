@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Argentina’s government filed criminal charges against Israeli-owned energy
   company Navitas Petroleum
 image: https://static.independent.co.uk/2026/09/08/11/2292747926..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Argentina's government said on Monday it will file criminal charges against energy company Navitas Petroleum and its executives for operating in the Falkland Islands.

@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The iconic singer of the French duo Rita Mitsouko has died from a sudden,
   aggressive form of cancer.
 image: https://images.euronews.com/articles/stories/09/91/42/75/1200x675_cmsv2_2bf2c8e4-e405-5a9e-b006-7b5b8ac8221e-9914275.jpg
+categories:
+- Europe
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 ## The iconic singer of the French duo Rita Mitsouko has died from a sudden, aggressive form of cancer.

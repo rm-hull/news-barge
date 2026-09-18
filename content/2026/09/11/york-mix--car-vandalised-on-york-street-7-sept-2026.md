@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T12:49:18Z'
 published: '2026-09-11T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/bellfarm-avenue-york-gsv.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 Police are investigating after a car was vandalised on a York street.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T13:24:18Z'
 published: '2026-09-17T00:00:00Z'
 description: Sara Kahsai was 29 when she found out she had FGM as a baby.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d66c/live/47896d30-b1e2-11f1-ac01-a9af2f94b2cc.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 ![A woman with black hair, tied back, large gold earrings is smiling at the camera.  She is wearing a brown cardigan.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/d66c/live/47896d30-b1e2-11f1-ac01-a9af2f94b2cc.jpg)

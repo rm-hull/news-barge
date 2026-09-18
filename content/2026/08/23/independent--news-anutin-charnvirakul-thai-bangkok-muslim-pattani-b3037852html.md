@@ -9,6 +9,9 @@ published: '2026-08-23T00:00:00Z'
 description: Thailand’s Prime Minister Anutin Charnvirakul has held an urgent meeting
   with security officials after coordinated violence erupted in three southern provinces
 image: https://static.independent.co.uk/2026/08/23/20/Australia_Thailand_36791.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Thailand ’s Prime Minister Anutin Charnvirakul, already facing a flood crisis in the country’s north, held an urgent meeting on Sunday with high-level security officials in response to coordinated violence overnight in three southern provinces where a small-scale Muslim insurgency is active.

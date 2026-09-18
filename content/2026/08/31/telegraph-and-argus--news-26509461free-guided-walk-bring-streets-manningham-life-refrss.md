@@ -7,6 +7,11 @@ scraped_at: '2026-08-31T16:07:41Z'
 published: '2026-08-31T00:00:00Z'
 description: A free guided walk will bring history to life on the streets of Manningham.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21392887.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: UGC)*

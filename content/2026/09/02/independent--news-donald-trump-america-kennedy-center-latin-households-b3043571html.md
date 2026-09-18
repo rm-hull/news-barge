@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The U.S. Mint will start selling a $1 coin to celebrate America's 250th
   birthday, featuring President Donald Trump's face on one side
 image: https://static.independent.co.uk/2026/09/02/15/Trump_Coin_23736.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The $1 coin designed to celebrate America's 250th birthday and seemingly President Donald Trump, whose face gazes from one side of the gold finish, will go on sale Wednesday, according the U.S. Mint.

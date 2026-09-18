@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Three more GOP members voted for war powers resolution to force withdrawal
   from the conflict as election looms
 image: https://i.guim.co.uk/img/media/9115fc44904b0e0d4405c9c88717c6dc1404ce4b/599_0_6002_4800/master/6002.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6b0356595e25f328f50e95b436459f5d
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 As the US war with Iran drags on, the ranks of Republicans signaling the conflict is a liability for their party continues to grow.

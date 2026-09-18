@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Some Memphis and Southaven citizens are snapping up Starlink's discounted
   offer.
 image: https://cdn.mos.cms.futurecdn.net/gNtfGAaNBGwriPWDdH4oTZ-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Music
 ---
 
 ![a Starlink satellite dish and router set up on a building overlooking a city skyline](https://cdn.mos.cms.futurecdn.net/gNtfGAaNBGwriPWDdH4oTZ.png) 

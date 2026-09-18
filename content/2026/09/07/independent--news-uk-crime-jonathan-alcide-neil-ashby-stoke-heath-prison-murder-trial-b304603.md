@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Jonathan Alcide is accused of murdering his cellmate Neil Ashby at HMP
   Stoke Heath last year
 image: https://static.independent.co.uk/2026/09/07/14/43/Stoke-Heath-prison-2026-communal-areas-1024x768-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A man accused of murdering his cellmate allegedly had paranoid thoughts and told the victim, “I’m worried I’m going to strangle you”, before killing him, a court has heard.

@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A 50-year-old man has been arrested on suspicion of grievous bodily harm
   with intent after an assault on Bishopton Road, Stockton.
 image: https://www.thenorthernecho.co.uk/resources/images/21474139.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: GOOGLE)*

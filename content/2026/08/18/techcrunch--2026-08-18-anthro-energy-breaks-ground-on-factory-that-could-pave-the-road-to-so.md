@@ -9,6 +9,8 @@ published: '2026-08-18T00:00:00Z'
 description: Battery materials startup Anthro Energy has broken ground on a Louisville
   factory to make electrolytes, including those for solid-state batteries.
 image: https://techcrunch.com/wp-content/uploads/2026/08/anthro-energy-electrolyte.jpg?resize=1200,675
+categories:
+- Technology & Software
 ---
 
 Anthro Energy broke ground on Tuesday on a factory in Louisville, Kentucky, that can make enough battery materials for more than 300,000 electric vehicles.

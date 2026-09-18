@@ -9,6 +9,9 @@ description: Los Angeles Mayor Karen Bass and California Attorney General Rob Bo
   were reportedly alerted to an impending exit announcement, though the deadline passed
   without a formal statement from the studio
 image: https://static.independent.co.uk/2026/09/17/0/43/GettyImages-2263189527.jpeg?trim=0,8,0,8&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Paramount Skydance is scoping out commercial property in Nashville as it weighs moving its operations out of Los Angeles, according to sources with knowledge of the search.

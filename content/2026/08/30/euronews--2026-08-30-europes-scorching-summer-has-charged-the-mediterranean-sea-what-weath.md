@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Weather forecasters have warned that parts of Europe will be entering
   “flash-flood season” following a blistering summer.
 image: https://images.euronews.com/articles/stories/09/89/23/42/1200x675_cmsv2_bec5e682-0e8f-597d-a5de-5d1d4692d0f4-9892342.jpg
+categories:
+- Europe
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 ## Weather forecasters have warned that parts of Europe will be entering “flash-flood season” following a blistering summer.

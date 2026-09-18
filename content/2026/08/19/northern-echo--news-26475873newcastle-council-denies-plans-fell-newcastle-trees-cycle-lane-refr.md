@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: Reform UK’s Newcastle and North Tyneside branch alleged on social media
   that trees along Stamfordham Road in Newcastle are at risk of being felled…
 image: https://www.thenorthernecho.co.uk/resources/images/21337893.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Reform UK - Newcastle and North Tyneside)*

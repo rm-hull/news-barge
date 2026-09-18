@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: David Wilson Homes will host its Part Exchange weekend at the Chaloners
   Green development in Whitby, North Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/21438662.jpg?type=og-image&xType=187&yType=0
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: David Wilson Homes)*

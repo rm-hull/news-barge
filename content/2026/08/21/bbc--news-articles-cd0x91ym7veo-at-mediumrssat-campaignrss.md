@@ -8,6 +8,12 @@ published: '2026-08-21T00:00:00Z'
 description: The UK's first national day for victims and survivors of terrorism takes
   place on Friday - and means more to this man than many.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a399/live/36ece130-9c95-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- History
+- True Crime
+- Society & Culture
 ---
 
 ![A man in a black jacket and with glasses, ginger hair and a beard stands on the riverside by the River Thames with Westminster Bridge and the London Eye in the background.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/a399/live/36ece130-9c95-11f1-a291-b542ee92de7c.jpg)

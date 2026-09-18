@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: Asian shares are trading mixed after artificial-intelligence stocks slid
   overnight
 image: https://static.independent.co.uk/2026/09/15/04/APTOPIX_Financial_Markets_Wall_Street_98593.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Asian shares were trading mixed early Tuesday, after a rtificial-intelligence stocks slid overnight.

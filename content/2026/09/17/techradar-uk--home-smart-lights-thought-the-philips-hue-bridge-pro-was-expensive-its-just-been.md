@@ -9,6 +9,8 @@ published: '2026-09-17T00:00:00Z'
 description: Prices for the Philips Hue Bridge Pro have gone up by $40, but new 'Bridgeless
   Sync' could be a game-changer.
 image: https://cdn.mos.cms.futurecdn.net/HhwDShSv98bUNMHiW8EJHo-1500-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Philips Hue Bridge Pro.](https://cdn.mos.cms.futurecdn.net/HhwDShSv98bUNMHiW8EJHo.jpg) 

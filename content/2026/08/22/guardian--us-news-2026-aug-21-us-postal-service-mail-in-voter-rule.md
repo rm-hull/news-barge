@@ -9,6 +9,9 @@ published: '2026-08-22T00:00:00Z'
 description: Rule would require states to provide federal government with information
   on voters in return for delivering ballots
 image: https://i.guim.co.uk/img/media/0041148d1c69b5c88e2a04ca609119d46ee30da5/619_0_4170_3336/master/4170.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b99105e9b94c429e5611f443ba25508
+categories:
+- UK
+- News & Politics
 ---
 
 The US Postal Service prepared to publish a final rule late on Friday to impose new requirements on states to provide the federal government with information on voters before the November midterm congressional elections, despite a pair of court orders that currently block the changes from taking effect.

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Steinem died away at her home in New York City, surrounded by loved ones
   Wednesday, her foundation announced in an Instagram post Thursday
 image: https://static.independent.co.uk/2026/09/03/11/2026-09-03T102206Z_65824530_RC2MBNAY2CPW_RTRMADP_3_PEOPLE-GLORIA-STEINEM.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Gloria Steinem, the journalist and women’s activist who became an icon of the modern feminist movement, died Wednesday at 92 years old, her foundation announced in an Instagram post Thursday.

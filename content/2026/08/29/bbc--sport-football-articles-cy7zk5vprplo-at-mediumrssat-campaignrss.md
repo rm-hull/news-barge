@@ -10,6 +10,11 @@ description: David Moyes says "supporters aren't always wrong" after Everton fan
   voice their opposition to the potential sale of teenage midfielder Harrison Armstrong
   during the 1-1 draw at Bournemouth.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3d0c/live/764885c0-a3d2-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 Tarkowski strikes late to rescue draw for Everton at Bournemouth

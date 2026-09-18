@@ -9,6 +9,9 @@ scraped_at: '2026-08-18T19:36:17Z'
 published: '2026-08-18T00:00:00Z'
 description: bLLC might remain exclusive to desktop for Nova Lake family.
 image: https://cdn.mos.cms.futurecdn.net/rxLeKvgEq52xDLyGj6HuGA-1200-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Intel Core Ultra](https://cdn.mos.cms.futurecdn.net/rxLeKvgEq52xDLyGj6HuGA.jpg) 

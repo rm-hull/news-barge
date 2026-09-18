@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Educational leaders in the North East have warned that cyber resilience
   should now be seen as a safeguarding priority.
 image: https://www.thenorthernecho.co.uk/resources/images/21433378.jpg?type=og-image&xType=0&yType=348
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Digital Safety CIC)*

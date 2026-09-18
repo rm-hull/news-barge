@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: The National Railway Museum in York has teamed up with York Ghost Merchants
   to hide 30 hand-crafted ghost figures in its Station Hall.
 image: https://www.gazetteherald.co.uk/resources/images/21378111.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- History
 ---
 
 Hidden ghosts will haunt the halls of a museum this autumn as part of a new half-term trail.

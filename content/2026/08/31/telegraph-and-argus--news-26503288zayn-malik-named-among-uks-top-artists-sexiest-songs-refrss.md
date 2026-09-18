@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: Zayn Malik has been named one of the UK's top artists for "sexiest" songs
   in a new playlist study
 image: https://www.thetelegraphandargus.co.uk/resources/images/12206503.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 ZAYN Malik has been named one of the UK's top artists for "sexiest" songs in a new playlist study.

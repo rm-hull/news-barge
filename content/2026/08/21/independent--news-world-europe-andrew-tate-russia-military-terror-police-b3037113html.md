@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: ‘It is absurd to equate a day at the range with military training,’ representatives
   for the Tate brothers said of clip showing them in front of a tank
 image: https://static.independent.co.uk/2026/08/21/14/00/taterussia5-d77ba010.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Andrew Tate and his brother Tristan Tate have been reported to Britain’s counter-terror policing unit and the Home Office over an alleged “Russian propaganda” video.

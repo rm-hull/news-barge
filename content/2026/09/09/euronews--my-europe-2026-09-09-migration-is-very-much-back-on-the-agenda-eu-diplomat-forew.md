@@ -9,6 +9,11 @@ description: 'Good morning. Angela Skujins here on newsletter duty, writing this
   I watch the sun rise over the tarmac at Brussels Zaventem airport. I came here outrageously
   early because Europe Today never stops, and neither does this newsletter! #EuropeToday'
 image: https://images.euronews.com/articles/stories/09/90/67/52/1200x675_cmsv2_b3d9b213-cdb7-52d4-83c8-dfea60d1f8ae-9906752.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- History
 ---
 
 ## Good morning. Angela Skujins here on newsletter duty, writing this while I watch the sun rise over the tarmac at Brussels Zaventem airport. I came here outrageously early because Europe Today never stops, and neither does this newsletter!

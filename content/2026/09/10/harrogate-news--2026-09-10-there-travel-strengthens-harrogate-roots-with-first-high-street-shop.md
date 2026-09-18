@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Harrogate independent agency There Travel, founded by Colin Ord and Jake
   Todhunter, expands to the high street with its first retail shop opening this September.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/There-Travel.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Lifestyle & Fashion
 ---
 
 **Harrogate-based independent travel agency There Travel is set to open its first high street shop** at the end of September, strengthening the company’s existing roots in the town and marking a major milestone in its growth. Founded in 2024 by owners Colin Ord and Jake Todhunter, There Travel has been based in Harrogate for some time, while building a growing business through its team of homeworkers.

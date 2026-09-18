@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: The pop star's first album since 2021 deals with the mental health fallout
   of perimenopause.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb5d/live/4c098a70-a797-11f1-b64a-71b1e45ff5c7.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ![Promotional photograph of Natalie Imbruglia in a denim jacket, with her head resting in her right hand](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/eb5d/live/4c098a70-a797-11f1-b64a-71b1e45ff5c7.jpg)

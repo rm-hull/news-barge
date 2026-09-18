@@ -7,6 +7,8 @@ scraped_at: '2026-08-27T22:13:41Z'
 published: '2026-08-27T00:00:00Z'
 description: Hackers are going after internet-connected PLCs
 image: https://cdn.mos.cms.futurecdn.net/ZtdYh6C8PhDP5njg8EtK6M-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Aerial view of water treatment factory at city wastewater cleaning facility](https://cdn.mos.cms.futurecdn.net/ZtdYh6C8PhDP5njg8EtK6M.jpg) 

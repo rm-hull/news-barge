@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: A volcanic eruption in Indonesia has disrupted hundreds of flights and
   closed airports this weekend.
 image: https://www.thenorthernecho.co.uk/resources/images/21416239.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- History
 ---
 
 *(Image: Getty)*

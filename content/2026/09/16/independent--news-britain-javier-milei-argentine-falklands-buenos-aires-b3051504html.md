@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: An Argentine judge has ordered British and Israeli companies to stop
   developing an oilfield off the British-controlled Falkland Islands
 image: https://static.independent.co.uk/2026/09/16/21/Argentina_Falklands_5_21.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 An Argentine federal judge on Wednesday ordered British and Israeli companies to stop developing an oilfield off the Falkland Islands, opening a new legal front in the decades-old sovereignty dispute between Argentina and Britain that Argentine President Javier Milei has revived in recent weeks.

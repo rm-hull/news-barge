@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Justice Natalie Adams says she is troubled by expert evidence about rape
   allegations in slain woman’s police statement
 image: https://i.guim.co.uk/img/media/7fa62bfc36ccb37a298bc169d36fa4819d9a0a7c/0_505_2520_2015/master/2520.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=41db8b2cdbab9b370b46c9b272467d59
+categories:
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 Molly Ticehurst’s ex-boyfriend will not face a life sentence for her domestic violence murder, a crime which galvanised a national movement against gendered abuse.

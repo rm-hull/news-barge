@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: A new generation of Islamic terror supporters are using AI to spread
   ‘Slop Jihad’ to new audiences on TikTok.
 image: https://media.wired.com/photos/6a982ebefa116206d0ee4c52/191:100/w_1280,c_limit/Jihadi%20Slop.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Over a decade ago, the Islamic State released a disturbing video that depicted its members lowering men locked in a cage into a swimming pool and drowning them. Today, that video has been reproduced as a SpongeBob SquarePants cartoon depicting fish in orange jumpsuits inside the cage, as SpongeBob lowers the cage into the water while Squidward films the scene.

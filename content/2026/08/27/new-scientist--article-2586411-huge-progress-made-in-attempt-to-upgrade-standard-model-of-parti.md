@@ -10,6 +10,9 @@ description: A challenging mathematical effort undertaken by a team of undergrad
   has put bounds on a promising set of ways to break and upgrade the standard model
   of particle physics
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309553154.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![artist's impression of a dark gamma-ray burst in a star forming region](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309553154.jpg?w=840)

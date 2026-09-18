@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: LIV Golf still intends to start its new league early next year after
   filing for bankruptcy protection in the United States.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/584c/live/36426000-aba1-11f1-8e72-a346833ed029.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Golfer Bryson DeChambeau putts in front of a big blue and white LIV Golf sign](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/584c/live/36426000-aba1-11f1-8e72-a346833ed029.jpg)

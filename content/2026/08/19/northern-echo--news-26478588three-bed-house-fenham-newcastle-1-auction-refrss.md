@@ -8,6 +8,11 @@ scraped_at: '2026-08-19T21:32:42Z'
 published: '2026-08-19T00:00:00Z'
 description: This three-bedroom house could be yours for just £1.
 image: https://www.thenorthernecho.co.uk/resources/images/21343147.jpg?type=og-image&xType=0&yType=204
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 This three-bedroom house could be yours for just £1, but it may need a bit of work.

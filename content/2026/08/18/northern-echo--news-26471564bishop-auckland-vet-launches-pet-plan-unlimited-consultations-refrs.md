@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: Local vet launches a pet healthcare plan with unlimited vet visits and
   no exclusions for long-term health conditions
 image: https://www.thenorthernecho.co.uk/resources/images/21313885.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Pets & Animals
 ---
 
 *(Image: Nico Russell)*

@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: The prime minister lists his financial interests for the first time since
   returning to Parliament.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b9b7/live/74e51b20-9b40-11f1-bd52-f9704e8e5c82.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 ![Andy Burnham](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/b9b7/live/74e51b20-9b40-11f1-bd52-f9704e8e5c82.jpg)

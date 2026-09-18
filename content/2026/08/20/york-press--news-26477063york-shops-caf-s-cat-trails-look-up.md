@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: York is more than shops, cafés and cat trails - just look up, says our
   lead letter writer.
 image: https://www.yorkpress.co.uk/resources/images/21340358.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
+- Food & Cooking
 ---
 
 *(Image: The Press)*

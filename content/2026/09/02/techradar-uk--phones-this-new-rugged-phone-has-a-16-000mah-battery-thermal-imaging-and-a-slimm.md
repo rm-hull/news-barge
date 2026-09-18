@@ -9,6 +9,8 @@ published: '2026-09-02T00:00:00Z'
 description: The Oukitel WP70 Ultra combines an enormous battery with solid specs
   and some eye-catching features for adventurers.
 image: https://cdn.mos.cms.futurecdn.net/fUee8mNLqyyNB2KvUisNUC-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Oukitel WP70 Ultra on an orange background](https://cdn.mos.cms.futurecdn.net/fUee8mNLqyyNB2KvUisNUC.jpg) 

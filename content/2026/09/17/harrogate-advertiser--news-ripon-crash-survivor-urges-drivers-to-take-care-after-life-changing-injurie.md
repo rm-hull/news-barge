@@ -9,6 +9,10 @@ description: A Ripon man who suffered life-changing brain and spinal injuries in
   crash is speaking out during Major Trauma Awareness Week to urge drivers to take
   greater care on the roads.
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/17/15/58/Josh-sitting-in-a-wheelchair-in-hospital-for-the-first-time.jpeg?trim=163,0,617,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Technology & Software
 ---
 
 # Ripon crash survivor urges drivers to take care after life-changing injuries

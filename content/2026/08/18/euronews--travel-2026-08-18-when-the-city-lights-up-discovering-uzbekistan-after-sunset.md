@@ -9,6 +9,11 @@ description: Summer evenings bring people back into the streets of Samarkand, Bu
   Khiva and Tashkent, where restaurants, parks and historic squares remain busy long
   after sunset.
 image: https://images.euronews.com/articles/stories/09/81/97/60/1200x675_cmsv2_7529f9b2-0a16-590c-a810-4adbad49030e-9819760.jpg
+categories:
+- Europe
+- News & Politics
+- History
+- Travel
 ---
 
 ## Summer evenings bring people back into the streets of Samarkand, Bukhara, Khiva and Tashkent, where restaurants, parks and historic squares remain busy long after sunset.

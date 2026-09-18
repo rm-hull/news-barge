@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: The CEO of Anthropic said the artificial-intelligence industry should
   slow its fast-moving development to give safety measures time to catch up
 image: https://static.independent.co.uk/2026/09/12/17/Anthropic_AI_Slowdown__7476.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The CEO of Anthropic said Saturday the artificial-intelligence industry should slow its fast-moving development to give safety measures time to catch up. Without it, Dario Amodei warned AI could be capable within six to 12 months of leading a swarm that could take over the entire internet, among other risks.

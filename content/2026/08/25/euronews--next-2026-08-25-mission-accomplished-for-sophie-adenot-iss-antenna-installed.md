@@ -9,6 +9,10 @@ description: After her 18 August spacewalk as the first French woman in orbit, S
   Adenot has again left the ISS with US astronaut Anil Menon to successfully replace
   a station antenna.
 image: https://images.euronews.com/articles/stories/09/88/85/49/1200x675_cmsv2_cdec8a8e-730d-5c40-9b7c-1c297ddff50d-9888549.jpg
+categories:
+- Europe
+- News & Politics
+- Science
 ---
 
 ## After her 18 August spacewalk as the first French woman in orbit, Sophie Adenot has again left the ISS with US astronaut Anil Menon to successfully replace a station antenna.

@@ -8,6 +8,9 @@ published: '2026-09-04T00:00:00Z'
 description: President told battleground lawmakers at a Rose Garden dinner Wednesday
   that he will be heavily involved in the final 30 days
 image: https://static.independent.co.uk/2026/09/04/13/19/GettyImages-2293245877.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Republicans in some of the most competitive races in the country have told President Donald Trump's political operation that they do not want him campaigning in their districts this fall — including in seats he won by double digits two years ago.

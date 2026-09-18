@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: We look at the remarkable history behind Shambles, York's most famous
   street where wonky buildings have been causing people to crane their…
 image: https://www.gazetteherald.co.uk/resources/images/21381642.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Society & Culture
 ---
 
 With schools about to reopen, some people may already be pining for summer holidays that now feel a distant memory. But who needs the Leaning Tower of Pisa when York has the leaning buildings of Shambles?

@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: A Bradford butchers slapped with a one-star food hygiene rating has admitted
   he was "out of the country" at the time of the inspection.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21321470.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: T&A)*

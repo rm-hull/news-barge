@@ -7,6 +7,8 @@ scraped_at: '2026-09-10T12:53:21Z'
 published: '2026-09-10T00:00:00Z'
 description: Independent visual assurance prevents AI-generated software blind spots
 image: https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A robot standing thoughtfully in front of a giant digital display with code on it](https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL.jpg) 

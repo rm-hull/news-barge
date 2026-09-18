@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Born before the Titanic sank, Ethel Caterham has seen out two world wars
   and survived Covid at 110.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5816/live/830a6300-9cac-11f1-b366-155f83b9d1f8.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Ethel Caterham sat holding a card with a picture of the King and Queen on the cover.](https://ichef.bbci.co.uk/ace/standard/753/cpsprodpb/5816/live/830a6300-9cac-11f1-b366-155f83b9d1f8.jpg)

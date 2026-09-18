@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Graham Low highlights some of the ways we can tell our bodies are getting
   stronger and fitter – even if the scales aren’t budging
 image: https://www.thenorthernecho.co.uk/resources/images/21356078.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Alamy/PA)*

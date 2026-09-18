@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Stephen Aarons said he tried to use ChatGPT to create a ‘bulletproof
   summary’ during a murder conviction appeal
 image: https://i.guim.co.uk/img/media/372f56916f0dae58bb508ebabb72e6037a90f7b4/336_0_3360_2688/master/3360.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6a7771deeef804aeb8f6b3cc5fda87c2
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A defense lawyer appealing his client’s murder conviction submitted a legal brief containing made-up police testimony and witnesses fabricated by OpenAI’s ChatGPT, New Mexico’s highest court said.

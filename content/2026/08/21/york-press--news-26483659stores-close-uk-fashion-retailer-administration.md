@@ -7,6 +7,12 @@ scraped_at: '2026-08-21T08:54:45Z'
 published: '2026-08-21T00:00:00Z'
 description: All UK stores have closed after a popular fashion retailer entered administration.
 image: https://www.yorkpress.co.uk/resources/images/20518659.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Shopping & Deals
+- Lifestyle & Fashion
 ---
 
 *(Image: Newsquest Archive)*

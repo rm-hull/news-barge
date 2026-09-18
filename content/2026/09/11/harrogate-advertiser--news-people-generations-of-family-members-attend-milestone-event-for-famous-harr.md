@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Several generations of the Jesper family gathered for a night of memories
   and celebration to mark the 125th anniversary of one of Harrogate’s oldest shops.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjA0ZmY4NGIzLTM5ZmItNGFkNS1hMmYzLTQ3NjgxOTIwODBkMTo4MThiODYyOS1iMTUwLTRkM2UtYmRlZS01ZDE2NjM4ZDA2Mjg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- History
 ---
 
 # Generations of family members attend milestone event for famous Harrogate business founded in 1901

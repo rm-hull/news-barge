@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: I've been using hi-fi giant FiiO 's first gaming headset, but it has
   a few weak areas (including one surprising one).
 image: https://cdn.mos.cms.futurecdn.net/aQYjQqbZF87TCURdCsRkaE-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ### TechRadar Verdict

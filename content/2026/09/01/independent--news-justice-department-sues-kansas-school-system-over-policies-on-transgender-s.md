@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: The U.S. Department of Justice has filed a lawsuit against the school
   system in Kansas City, Kansas, over its policies on transgender students
 image: https://static.independent.co.uk/2026/08/13/19/DOJ_California_Prisons_Investigation_296_2.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Law & Justice
 ---
 
 The U.S. Department of Justice filed a federal lawsuit Tuesday against the school system in Kansas City, Kansas, over its policies on transgender students.

@@ -7,6 +7,11 @@ scraped_at: '2026-08-30T19:17:40Z'
 published: '2026-08-30T00:00:00Z'
 description: A woman has spoken of her narrow escape from deadly flash flooding.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21390328.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: BBC)*

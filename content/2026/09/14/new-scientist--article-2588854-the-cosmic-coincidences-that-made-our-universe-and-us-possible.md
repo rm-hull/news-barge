@@ -9,6 +9,9 @@ description: The sun and moon are positioned just right for us to see total sola
   eclipses, and the make-up of the universe is just right for life. Columnist Leah
   Crane wonders if it’s really all one big coincidence
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311640219.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311640219.jpg?w=840)

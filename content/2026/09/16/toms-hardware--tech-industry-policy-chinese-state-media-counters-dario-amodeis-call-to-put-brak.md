@@ -8,6 +8,9 @@ scraped_at: '2026-09-16T13:28:10Z'
 published: '2026-09-16T00:00:00Z'
 description: China Daily posits that Amodei's move was made “to blunt China’s AI advance."
 image: https://cdn.mos.cms.futurecdn.net/xac7n5MNGJHifUGMbvwcY6-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![the Chinese flag on a chip](https://cdn.mos.cms.futurecdn.net/xac7n5MNGJHifUGMbvwcY6.png) 

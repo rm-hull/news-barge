@@ -8,6 +8,9 @@ scraped_at: '2026-09-02T19:22:14Z'
 published: '2026-09-02T00:00:00Z'
 description: A crewless sailboat has fired two live missiles at RIMPAC
 image: https://cdn.mos.cms.futurecdn.net/bFN23MznAqSXFFMSyVPdjJ-1920-80.png
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Arleigh Burke-class guided-missile destroyers fire standard missile 2 (SM-2)](https://cdn.mos.cms.futurecdn.net/bFN23MznAqSXFFMSyVPdjJ.png) 

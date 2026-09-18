@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Sagal Abdi-Wali, who came from Somalia in the 1990s, likely to face Zack
   Polanski in Holborn and St Pancras contest
 image: https://i.guim.co.uk/img/media/d982e21571efb45aab1895d0db195f68ca836382/31_0_2810_2249/master/2810.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=367fe635a9699f7674b391eed73940fc
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- History
 ---
 
 A former child refugee who became the leader of Camden council has been selected to be the Labour candidate for the byelection in Holborn and St Pancras.

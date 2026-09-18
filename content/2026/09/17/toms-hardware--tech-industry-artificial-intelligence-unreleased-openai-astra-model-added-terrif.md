@@ -9,6 +9,10 @@ scraped_at: '2026-09-17T13:24:17Z'
 published: '2026-09-17T00:00:00Z'
 description: This seems bad.
 image: https://cdn.mos.cms.futurecdn.net/R3SJBJ54DiKoh94Tckk9Tf-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Society & Culture
 ---
 
 ![Sam Altman](https://cdn.mos.cms.futurecdn.net/R3SJBJ54DiKoh94Tckk9Tf.jpg) 

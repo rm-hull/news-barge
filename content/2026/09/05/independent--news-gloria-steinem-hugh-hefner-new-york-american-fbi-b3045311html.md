@@ -9,6 +9,10 @@ description: Robin Morgan, a wholesome child star of the 1940s and ‘50s who gr
   to become an all-American radical as a poet, essayist, editor and leading second-wave
   feminist, has died
 image: https://static.independent.co.uk/2026/09/05/18/Robin_Morgan__7345.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Robin Morgan, a wholesome child star of the 1940s and ‘50s who grew up to become an all-American radical as a poet, essayist, editor and second-wave feminist, has died. She was 85.

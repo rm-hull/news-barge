@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: County Durham and Darlington Police and Crime Commissioner Joy Allen
   has renewed her call for tougher action against drivers who film and share…
 image: https://www.thenorthernecho.co.uk/resources/images/21379736.jpg?type=og-image&xType=0&yType=163
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 The County Durham PCC has backed Government calls for social media companies to remove videos showing dangerous driving, following the fatal A66 crash.

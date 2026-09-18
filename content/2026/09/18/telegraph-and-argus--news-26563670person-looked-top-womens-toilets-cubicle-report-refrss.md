@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: Police have released an image of a man they would like to speak to following
   an incident at business premises in West Yorkshire.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21474769.jpg?type=og-image&xType=0&yType=23
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Huge AI spending plans and the ongoing war in Iran are driving up borrowing
   costs around the world.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/47b0/live/d36b9110-a6cb-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![An American flag waves against a backdrop of cranes and storage containers in Los Angeles.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/47b0/live/d36b9110-a6cb-11f1-a291-b542ee92de7c.jpg)

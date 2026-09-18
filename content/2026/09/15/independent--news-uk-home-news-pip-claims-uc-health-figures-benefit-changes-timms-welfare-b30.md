@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: The benefit is ‘not fit for purpose’, according to one senior Labour
   minister
 image: https://static.independent.co.uk/2026/08/25/16/22/iStock-2255698360.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 The number of people claiming the Personal Independence Payment (Pip) has hit a record high of 4.1 million, official figures show.

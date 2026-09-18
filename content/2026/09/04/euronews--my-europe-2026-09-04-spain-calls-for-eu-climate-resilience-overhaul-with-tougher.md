@@ -9,6 +9,9 @@ description: 'Spain wants Brussels to make climate resilience a binding, funded 
   policy and is willing to consider new EU-level charges – including on oil and gas
   profits – to fund it. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/14/00/1200x675_cmsv2_2677358d-6628-58a7-acdd-477ef3095dd5-9901400.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Spain wants Brussels to make climate resilience a binding, funded EU policy and is willing to consider new EU-level charges – including on oil and gas profits – to fund it.

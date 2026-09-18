@@ -10,6 +10,11 @@ description: The Trump administration named four officials to take over senior r
   at the Food and Drug Administration, including the agency’s top leaders for drugs
   and vaccines
 image: null
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Society & Culture
 ---
 
 The administration of President Donald Trump filled four senior positions at the Food and Drug Administration on Tuesday, promoting several officials who had been serving in acting roles to permanently fill the spots, including the agency’s top leaders for drugs and vaccines.

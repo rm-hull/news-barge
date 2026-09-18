@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Prime minister will use national cabinet meeting to assuage premiers
   over new AI law as AEMO forecasts seven-fold rise in datacentre power use
 image: https://i.guim.co.uk/img/media/3c0d143aecdba181739eb496831beace5e0c9caa/1370_208_4244_3395/master/4244.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=41e04df4c25e9fc4556cab901accbf2e
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Anthony Albanese will seek to use Wednesday’s high-stakes talks with premiers to quell growing unhappiness about national controls on datacentre developments, promising new approval laws will complement state rules.

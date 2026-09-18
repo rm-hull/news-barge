@@ -9,6 +9,10 @@ description: The Hungary Grand Slam 2026 opened in Budapest with a thrilling fir
   day. Giliazova, Ashpiz, Leiva Sanchez, Yotov and Funakubo claimed gold as athletes
   from 67 nations returned to the Papp Laszlo Arena.
 image: https://images.euronews.com/articles/stories/09/90/86/93/1200x675_cmsv2_3a58dd63-5132-5db6-b9ee-e68b9b42d5be-9908693.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 **Euronews** with

@@ -9,6 +9,10 @@ description: Video. Nepal’s army rescues hundreds from a flooded hydropower tu
   as more than 1,500 remain missing, while the Nepali diaspora holds vigils in New
   York.
 image: https://images.euronews.com/articles/stories/09/89/24/29/1200x675_cmsv2_02eddd7e-5b0e-5422-85bd-0fc07c8418da-9892429.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 In Rasuwa, army rescuers were filmed pulling a man from thick mud at the entrance to a hydropower tunnel and helping others to safety before evacuating survivors by helicopter.

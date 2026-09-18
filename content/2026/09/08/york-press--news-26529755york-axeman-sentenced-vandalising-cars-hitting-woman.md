@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: An axeman who assaulted a woman and vandalised her car has been given
   the longest possible suspended prison sentence by York magistrates.
 image: https://www.yorkpress.co.uk/resources/images/21215945.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: LDRS)*

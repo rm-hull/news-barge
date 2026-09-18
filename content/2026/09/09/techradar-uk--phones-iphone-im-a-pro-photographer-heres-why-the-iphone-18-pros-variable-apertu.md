@@ -10,6 +10,8 @@ description: Apple has put a mechanical aperture in the iPhone camera for the fi
   time — here's how that will impact the user experience of the iPhone 18 Pro and
   Max models that have the feature.
 image: https://cdn.mos.cms.futurecdn.net/8vcFqXfkHSkJXR2kMo4z5X-1913-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Screenshot from Apple's September 2026 event](https://cdn.mos.cms.futurecdn.net/8vcFqXfkHSkJXR2kMo4z5X.jpg) 

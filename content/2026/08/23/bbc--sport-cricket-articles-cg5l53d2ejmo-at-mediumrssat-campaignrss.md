@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: The ECB is investigating after videos circulating online appear to show
   England bowler Brydon Carse being led away from a nightclub in handcuffs.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1bc5/live/da4425d0-9f08-11f1-8ab2-7700e58d1417.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Brydon Carse](https://ichef.bbci.co.uk/ace/standard/919/cpsprodpb/1bc5/live/da4425d0-9f08-11f1-8ab2-7700e58d1417.jpg)

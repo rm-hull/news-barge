@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Nigella Lawson has given an update on he future, saying she is “a bit
   nervous” about her latest work as a judge on The Great British Bake Off
 image: https://www.thenorthernecho.co.uk/resources/images/21338954.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Sean Dempsey/PA)*

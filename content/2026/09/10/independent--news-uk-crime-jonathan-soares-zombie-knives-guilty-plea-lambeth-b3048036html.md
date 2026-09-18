@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Jonathan Soares, 20, pleaded guilty on Thursday following a Met Police
   investigation
 image: https://static.independent.co.uk/2026/09/10/14/13/Jonathan-Soares-split.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A man who imported illegal zombie knives and sold them online, including to people he knew were school children, has pleaded guilty following a Metropolitan Police investigation.

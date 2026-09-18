@@ -7,6 +7,11 @@ scraped_at: '2026-09-16T13:27:18Z'
 published: '2026-09-16T00:00:00Z'
 description: A West Yorkshire man has died in unexplained circumstances in Sicily.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20137622.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Supplied)*

@@ -10,6 +10,10 @@ description: According to a new report from the department’s Office of Inspect
   former Labor Secretary Lori Chavez-DeRemer oversaw a “toxic, intimidating and humiliating”
   work environment and engaged in numerous violations of department policy
 image: https://static.independent.co.uk/2026/09/03/15/Trump_23879.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 Former Labor Secretary Lori Chavez-DeRemer oversaw a “toxic, intimidating and humiliating” work environment and engaged in numerous violations of department policy, according to a new report from the department’s Office of Inspector General.

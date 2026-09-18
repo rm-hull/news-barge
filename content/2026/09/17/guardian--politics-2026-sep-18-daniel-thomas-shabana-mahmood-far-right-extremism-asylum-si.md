@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Shabana Mahmood says she wants to distinguish between far-right extremism
   and legitimate local concerns over asylum sites
 image: https://i.guim.co.uk/img/media/ead47d9ce15f9093219bbf3b078304aaa0d08a1b/0_1_1779_1422/master/1779.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d43e5b621800ebf1da917f61ad2500ca
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Shabana Mahmood has described the anti-asylum activist Daniel Thomas as “a far-right and outright racist” who will feel “the full force of the law” if his organisation commits crimes near contested asylum sites such as Piddington.

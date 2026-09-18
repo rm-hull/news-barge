@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: HeeHaw, a beloved pet donkey, was bottle raised in the family’s Georgia
   home
 image: https://static.independent.co.uk/2026/08/31/12/16/HeeHaw-donkey-shot-and-killed-Georgia.jpeg?trim=524,0,756,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Pets & Animals
+- Family & Parenting
 ---
 
 A Georgia family demands answers after they say cops shot and killed their beloved pet donkey during a search for a missing person over the weekend.

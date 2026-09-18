@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: The Blaze beat Somerset in the Women's One-Day Cup to strengthen their
   treble hopes, while there were also wins for Surrey, Hampshire and Lancashire.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/39ee/live/0de28ef0-aa16-11f1-bbe8-51444f709166.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![Emma Jones of The Blaze](https://ichef.bbci.co.uk/ace/standard/1552/cpsprodpb/39ee/live/0de28ef0-aa16-11f1-bbe8-51444f709166.jpg)

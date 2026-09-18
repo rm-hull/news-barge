@@ -8,6 +8,8 @@ scraped_at: '2026-08-27T12:01:14Z'
 published: '2026-08-27T00:00:00Z'
 description: Save your cash as color E Ink just isn’t there yet
 image: https://cdn.mos.cms.futurecdn.net/3ys2puJpmsSxGQUP4XL6Eg-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A split image showing the Kindle Scribe Colorsoft (left) and the 3rd generation Kindle Scribe with frontlight (right)](https://cdn.mos.cms.futurecdn.net/3ys2puJpmsSxGQUP4XL6Eg.jpg) 

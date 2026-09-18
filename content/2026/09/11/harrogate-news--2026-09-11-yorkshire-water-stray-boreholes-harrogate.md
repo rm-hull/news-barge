@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Yorkshire Water will begin drilling three 30m boreholes on The Stray
   in Harrogate from 17 September as part of a £1.5bn storm overflow investment plan.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Watercourse.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 **HARROGATE**— Infrastructure engineering teams are scheduled to arrive on The Stray next week to begin extensive ground surveys ahead of planned modifications to Harrogate’s wastewater network.

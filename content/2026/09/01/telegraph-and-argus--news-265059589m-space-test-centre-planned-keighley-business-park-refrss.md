@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Keighley could soon be home to the only “space test” centre in the North
   thanks to a £9m scheme that will be discussed by Council bosses next…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21119342.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Hayfield Robinson)*

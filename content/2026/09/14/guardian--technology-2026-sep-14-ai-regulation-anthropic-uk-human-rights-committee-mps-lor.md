@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Warning follows series of safety incidents, with parliamentary committee
   saying threats include public face-scanning and deepfakes
 image: https://i.guim.co.uk/img/media/0fa1e24c8026a54f3f1dcbcd747f7ee270db7c77/1527_365_5799_4642/master/5799.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a493094bb77c670477a5a6ea4bec3556
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 OpenAI has urged British lawmakers to capitalise on renewed fears over AI safety and impose legislation reining in the technology.

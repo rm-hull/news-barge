@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The global AI race is being hit by very localised political and environmental
   concerns
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fda/live/b901c2a0-b101-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Faisal Islam](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2d88/live/aec02270-b0e6-11f1-bc1f-3f186ca4140c.png)

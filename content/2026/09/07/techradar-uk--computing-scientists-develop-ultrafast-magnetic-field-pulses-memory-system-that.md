@@ -10,6 +10,9 @@ published: '2026-09-07T00:00:00Z'
 description: A new scientific paper outlines a way to cut AI data center energy usage
   by ‘orders of magnitude’
 image: https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk-2560-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Data centre.](https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk.jpg) 

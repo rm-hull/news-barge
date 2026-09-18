@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: There are suspensions on the Metropolitan and Jubilee lines and a nearby
   Amazon warehouse has been evacuated
 image: https://static.independent.co.uk/2026/08/28/12/32/Screenshot-2026-08-28-at-12-3A3-copy-40a3328a.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Huge amounts of smoke can be seen near Wembley Stadium after a large fire broke out on an industrial estate, forcing a nearby Amazon warehouse to evacuate.

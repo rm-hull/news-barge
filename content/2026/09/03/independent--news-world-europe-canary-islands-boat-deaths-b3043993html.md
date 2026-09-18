@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T12:49:09Z'
 published: '2026-09-03T00:00:00Z'
 description: Inscriptions on the boat’s hull suggest that it had travelled from Gambia
 image: https://static.independent.co.uk/2026/09/03/10/2026-09-03T061547Z_1359126776_RC2GBNAOIPNG_RTRMADP_3_MIGRATION-SPAIN-CANARY-ISLANDS.JPG?trim=3,0,3,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 At least 80 people are feared dead after a boat that had been adrift for 26 days was discovered off Spain’s Canary Islands, an NGO has said.

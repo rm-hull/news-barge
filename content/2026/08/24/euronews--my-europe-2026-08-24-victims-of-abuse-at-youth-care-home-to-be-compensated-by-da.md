@@ -10,6 +10,9 @@ description: 'According to the Ministry of Social Affairs, between 1949 and 1976
   stay of the 13 former residents in this home, which was under state supervision."
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/69/45/1200x675_cmsv2_a3a0dc36-6b3a-5d02-816e-814a9c11a1e2-9886945.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## According to the Ministry of Social Affairs, between 1949 and 1976, personal accounts and its files showed "serious and systemic failings during the stay of the 13 former residents in this home, which was under state supervision."

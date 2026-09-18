@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: Video. Israeli airstrikes killed at least five Palestinians in Gaza City
   on Monday, according to hospital officials and rescuers, amid ongoing violence.
 image: https://images.euronews.com/articles/stories/09/89/67/50/1200x675_cmsv2_b78e4742-71a9-5baa-8827-ba81a1032b59-9896750.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 Israeli airstrikes killed at least five Palestinians in Gaza City on Monday, according to hospital officials and rescuers.

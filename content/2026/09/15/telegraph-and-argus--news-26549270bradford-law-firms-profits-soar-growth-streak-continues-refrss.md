@@ -7,6 +7,12 @@ scraped_at: '2026-09-15T11:26:54Z'
 published: '2026-09-15T00:00:00Z'
 description: A law firm has recorded its sixth consecutive year of financial growth.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21453805.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Lucille Moore)*

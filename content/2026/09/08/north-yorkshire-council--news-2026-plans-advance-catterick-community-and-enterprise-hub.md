@@ -9,6 +9,12 @@ description: A multi-purpose community hub for Catterick Garrison is a step clos
   to opening its doors, with backing being sought for plans to run the facility when
   it welcomes its first visitors next year.
 image: https://www.northyorks.gov.uk/sites/default/files/2026-09/2CattRegen.jpg
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- Business & Entrepreneurship
 ---
 
 ![Catterick Community and Enterprise Hub](https://www.northyorks.gov.uk/sites/default/files/2026-09/2CattRegen.jpg) 

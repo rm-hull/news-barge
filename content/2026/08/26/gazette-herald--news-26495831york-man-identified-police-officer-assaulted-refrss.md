@@ -8,6 +8,13 @@ published: '2026-08-26T00:00:00Z'
 description: The incident took place at around 6.20pm on Saturday, August 22, on Scarcroft
   Hill, shortly after the conclusion of the Ebor Festival at York…
 image: https://www.gazetteherald.co.uk/resources/images/21358832.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 A MAN has been identified following the alleged assault of a police officer in York.

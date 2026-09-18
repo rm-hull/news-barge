@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: One of Yorkshire’s largest Pick Your Own farms is preparing to celebrate
   a decade of pumpkin picking as more than 175,000 pumpkins are readied for…
 image: https://www.yorkpress.co.uk/resources/images/21464469.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 ## Yorkshire farm celebrates 10 years of autumn attraction with 175,000 pumpkins to pick

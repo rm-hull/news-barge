@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T08:52:57Z'
 published: '2026-08-20T00:00:00Z'
 description: Two police officers injured in crash at Carlisle airport west of Harrisburg
 image: https://static.independent.co.uk/2026/08/20/06/download..?trim=0,24,0,24&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A pilot was killed and two police officers injured after a light aircraft collided with a hovering police helicopter during a training exercise in Pennsylvania.

@@ -8,6 +8,9 @@ published: '2026-09-07T00:00:00Z'
 description: The far-right party is trying to form a government in the state after
   falling three seats short of a majority.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/742c/live/a801c5d0-aa9a-11f1-ab09-7f2415c9a652.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Ulrich Siegmund, who has greying hair and a short beard and wears a navy suit jacket with a light blue shirt, smiles and waves as he arrives at a press conference on Monday](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/742c/live/a801c5d0-aa9a-11f1-ab09-7f2415c9a652.jpg)

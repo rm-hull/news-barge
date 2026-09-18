@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T12:01:20Z'
 published: '2026-08-27T00:00:00Z'
 description: Plans to transform an empty York shop have taken a step forward.
 image: https://www.yorkpress.co.uk/resources/images/21376443.jpg?type=og-image
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 ## Transformation of empty York shop takes step forward

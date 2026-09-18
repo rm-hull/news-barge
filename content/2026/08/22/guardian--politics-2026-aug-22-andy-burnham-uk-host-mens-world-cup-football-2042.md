@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: PM tells regional mayors he is keen to see tournament hosted in UK for
   first time after almost eight decades
 image: https://i.guim.co.uk/img/media/0cd35690714d1312ba2f7b0bf00e0fc57538a6d4/228_0_4161_3331/master/4161.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9154f906af5496c6044fc9a72859fae1
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Andy Burnham has said he wants to bring the men’s World Cup to the UK in 2042, a move which would see the tournament return to these shores for the first time in almost eight decades.

@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: Transferring files and data across platforms is more straightforward
   than ever.
 image: https://media.wired.com/photos/6a904a3b36f6c0403d01480b/191:100/w_1280,c_limit/AndroidIOS.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Whisper it quietly, but certain bricks in Apple’s walled garden might be getting taken away.

@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A developer has been given the go-ahead to build two new units at a well-known
   Calderdale industrial estate - 20 years after one might have been…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21372412.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

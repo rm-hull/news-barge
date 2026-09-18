@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Freedom was seated along the baseline wearing a black shirt that read
   "WOMAN noun. adult human female"
 image: https://static.independent.co.uk/2026/08/24/06/2291740286..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Society & Culture
 ---
 
 Former NBA center Enes Kanter Freedom was ejected from Sunday night's WNBA game between the Indiana Fever and Chicago Sky after a confrontation with Sky guard Natasha Cloud late in the third quarter.

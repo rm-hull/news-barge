@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Police have issued an update following a major incident which affected
   train services earlier this week.
 image: https://www.yorkpress.co.uk/resources/images/21382478.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
+- True Crime
 ---
 
 *(Image: Image: Newsquest)*

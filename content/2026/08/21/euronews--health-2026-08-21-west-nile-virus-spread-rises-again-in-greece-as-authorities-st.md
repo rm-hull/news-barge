@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: Particular emphasis is placed on tackling mosquitoes, with targeted spraying
   in areas where their populations are found in higher concentrations.
 image: https://images.euronews.com/articles/stories/09/88/24/50/1200x675_cmsv2_ae2f2177-645b-5d7a-b344-7ded9c85285e-9882450.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Particular emphasis is placed on tackling mosquitoes, with targeted spraying in areas where their populations are found in higher concentrations.

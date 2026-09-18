@@ -9,6 +9,8 @@ published: '2026-09-08T00:00:00Z'
 description: Price hikes seem to be inevitable every few months due to the RAM crisis,
   and it looks like GPUs are about to be affected again.
 image: https://cdn.mos.cms.futurecdn.net/96HfDfoQkB8kcAaKKqtfGJ-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A graphics card with a row of fans with a cyanotic purple backlight in a futuristic design](https://cdn.mos.cms.futurecdn.net/96HfDfoQkB8kcAaKKqtfGJ.jpg) 

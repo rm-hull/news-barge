@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: POLICE are urging residents to remain vigilant following vehicle registration
   plate thefts.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18681349.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Stock)*

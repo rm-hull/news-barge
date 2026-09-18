@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: A 43-day nurses’ strike in Kenya that paralyzed public hospitals has
   ended after the government and the nurses’ union signed a return-to-work agreement
 image: https://static.independent.co.uk/2026/09/08/16/Kenya_Nurses_Strike_6_435.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A 43-day strike by hospital nurses in Kenya ended on Wednesday after the government and union signed a return-to-work agreement.

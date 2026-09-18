@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Children's commissioner Dame Rachel de Souza has backed called for more
   support for parents and carers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b72/live/8181d940-a4e6-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
+- Society & Culture
 ---
 
 ![Dame Rachel de Souza, Children's Commissioner for England, wears a polka-dot blouse. She has auburn hair.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1b72/live/8181d940-a4e6-11f1-a291-b542ee92de7c.jpg)

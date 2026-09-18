@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Green Party leader Zack Polanski has said he intends to run in a by-election
   to become MP in Sir Keir Starmer's constituency.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21406045.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: PA)*

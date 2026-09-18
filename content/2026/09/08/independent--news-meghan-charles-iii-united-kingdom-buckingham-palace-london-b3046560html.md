@@ -10,6 +10,10 @@ description: Prince Harry and his wife, Meghan, were surprised by the way Buckin
   Palace released a letter that made clear they remain non-working members of the
   royal family
 image: https://static.independent.co.uk/2026/08/19/23/Britain_Prince_Harry_12485.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 Prince Harry and his wife, Meghan, were surprised by the way Buckingham Palace released a letter that made clear they remain non-working members of the royal family even though they have returned to the United Kingdom.

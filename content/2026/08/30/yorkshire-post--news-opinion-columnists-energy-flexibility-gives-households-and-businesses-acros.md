@@ -12,6 +12,12 @@ description: Britain has enough electricity. The challenge is not whether we hav
   when and where electricity is used to help every household and business in Yorkshire
   paying an energy bill.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjc0YTAxMjdhLWJlNDUtNGZjYi1iNTcwLTgxZDNjNzNhY2ZjZDowYjIyMmEzYi1kYzk0LTQ5NDktYWIwMC05ODYwZWRmZjMzOTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # Energy flexibility gives households and businesses across Yorkshire a choice - Rebecca Beresford

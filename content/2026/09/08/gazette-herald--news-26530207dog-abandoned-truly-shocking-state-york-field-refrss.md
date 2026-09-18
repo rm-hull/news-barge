@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: A dog has been found abandoned in a “truly shocking” state in York, the
   RSPCA said.
 image: https://www.gazetteherald.co.uk/resources/images/21422923.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- News & Politics
 ---
 
 *(Image: RSPCA)*

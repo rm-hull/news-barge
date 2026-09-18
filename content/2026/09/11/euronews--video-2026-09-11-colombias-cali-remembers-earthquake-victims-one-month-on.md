@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Video. Residents of Cali gathered to honour those killed in the August
   10 earthquake, releasing white balloons and laying flowers one month after the disaster.
 image: https://images.euronews.com/articles/stories/09/90/99/07/1200x675_cmsv2_bb91afea-8407-5ea6-8b19-533cd2fdb358-9909907.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 Residents of Cali gathered on September 10 to mark one month since a powerful earthquake struck southwestern Colombia. During a memorial ceremony, people laid flowers, lit candles and released white balloons in honour of the victims.

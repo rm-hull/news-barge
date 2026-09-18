@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Pensioners who do not want the Winter Fuel Payment have just days to
   opt out, with a key phone deadline of September 18.
 image: https://www.yorkpress.co.uk/resources/images/21441500.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Getty Images)*

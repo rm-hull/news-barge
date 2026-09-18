@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Ministry of Defence says person, who has yet to be identified, died in
   road traffic incident not believed to be result of hostile action
 image: https://i.guim.co.uk/img/media/423d79c7c6ade77078c4600a8f1cac6181b6bef6/509_0_2991_2392/master/2991.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f5959d918ec9da0f14ca3b4ea20bdf4
+categories:
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 A member of the UK armed forces has been killed in a crash in Ukraine, the Ministry of Defence said.

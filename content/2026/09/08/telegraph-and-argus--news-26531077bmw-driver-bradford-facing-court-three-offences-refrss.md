@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: A BMW driver is facing court after being spotted during police patrols
   in Bradford city centre.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21424173.jpg?type=og-image&xType=0&yType=634
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: West Yorkshire Police)*

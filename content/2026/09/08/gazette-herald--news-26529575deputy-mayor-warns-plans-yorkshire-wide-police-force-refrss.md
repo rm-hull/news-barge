@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: Jo Coles, deputy mayor for policing, fire, and crime, warns a Yorkshire-wide
   police force could put rural communities at risk.
 image: https://www.gazetteherald.co.uk/resources/images/20466584.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Supplied)*

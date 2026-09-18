@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can
   build its own long-range missiles.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e5db/live/1c356520-9fbe-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 Is UK's Storm Shadow missile a game changer for Ukraine?

@@ -9,6 +9,10 @@ scraped_at: '2026-08-21T13:05:48Z'
 published: '2026-08-21T00:00:00Z'
 description: LG describes it as a dream OLED display.
 image: https://cdn.mos.cms.futurecdn.net/YLc7XqnT8VzZoR4bksiGoa-1024-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Arts & Culture
 ---
 
 ![LG Display introduces FLiPP for OLED displays](https://cdn.mos.cms.futurecdn.net/YLc7XqnT8VzZoR4bksiGoa.jpg) 

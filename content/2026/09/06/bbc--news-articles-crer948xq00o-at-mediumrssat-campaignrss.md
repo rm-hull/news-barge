@@ -9,6 +9,11 @@ published: '2026-09-06T00:00:00Z'
 description: The company is struggling with the impact of tariffs as well as the fallout
   from a major cyber attack last year.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ded7/live/5b81c800-a9db-11f1-803f-7f2a9199ddc4.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![A silver Land Rover Defender parked on a road](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/ded7/live/5b81c800-a9db-11f1-803f-7f2a9199ddc4.jpg)

@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: A man convicted over a “Texas Killing Fields” death has been sentenced
   by a jury to 20 years in prison
 image: https://static.independent.co.uk/2026/09/03/17/Texas_Killing_Fields_Trial_38441.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Sports
 ---
 
 A man convicted over a “ Texas Killing Fields ” death was sentenced to 20 years in prison Thursday in a rare trial related to the bodies of dozens of women found near Houston beginning in the 1970s.

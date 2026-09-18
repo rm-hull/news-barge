@@ -8,6 +8,13 @@ published: '2026-09-01T00:00:00Z'
 description: AS the long summer holidays draw to a close, families across the region
   are turning their attention to going back to school. Whether your children…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21384462.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
+- Society & Culture
+- Education & Learning
 ---
 
 *(Image: PA)*

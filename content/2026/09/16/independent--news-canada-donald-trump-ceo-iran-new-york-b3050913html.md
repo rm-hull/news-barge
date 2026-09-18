@@ -10,6 +10,11 @@ description: Small business owners in the United States and Canada say a trade w
   between their countries is hurting sales while they are also dealing with rising
   expenses from higher fuel costs
 image: https://static.independent.co.uk/2026/09/16/05/US_Canada_Tariffs_Small_Business_363_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 A trade war between the United States and Canada is making it more difficult and expensive for small businesses in the economically entwined countries to operate, according to business owners caught in the crossfire.

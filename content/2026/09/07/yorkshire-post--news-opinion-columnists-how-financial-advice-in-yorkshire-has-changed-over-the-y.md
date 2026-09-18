@@ -9,6 +9,11 @@ description: For years, when wealthy families chose an adviser, the conversation
   started with credentials – the qualifications, the technical expertise, the track
   record. Being reachable sat further down the list, as a nice-to-have.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjI0ODZiMTQ4LTZkOGEtNGI4MC04YmU3LWFlZTdhOTBiMTA3YzoyMzQzZmYxOC1iZjkxLTRiY2UtYmUwMC1hMjU0NzQwMjM2Zjg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # How financial advice in Yorkshire has changed over the years - Tom Klouda

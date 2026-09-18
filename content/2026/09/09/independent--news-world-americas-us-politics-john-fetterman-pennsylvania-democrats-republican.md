@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Fetterman has acknowledged his isolation in the party as he maintains
   staunch support of Israel’s war in Gaza
 image: https://static.independent.co.uk/2025/11/11/17/42/fox-and-friends-(67).jpg?trim=0,50,0,50&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Around two years ago, Sen. John Fetterman was one of the most sought-after surrogates on the campaign trail, traveling across Pennsylvania to rally voters for Democrats in local, state, and federal contests.

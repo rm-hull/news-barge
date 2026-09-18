@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: FAMILY and friends of Pride of Britain winner Luke Mortimer are taking
   a much-deserved rest after completing a massive 131 mile car push challenge.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21402807.jpg?type=og-image&xType=0&yType=77
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 FAMILY and friends of Pride of Britain winner Luke Mortimer are taking a much-deserved rest after completing a massive 131 mile car push challenge.

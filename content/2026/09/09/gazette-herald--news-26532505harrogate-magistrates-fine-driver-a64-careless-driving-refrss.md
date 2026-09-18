@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: A North Yorkshire driver convicted of an A64 motoring offence kept his
   licence after he told magistrates his mental health would suffer if he were…
 image: https://www.gazetteherald.co.uk/resources/images/19320855.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 *(Image: PA)*

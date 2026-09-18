@@ -9,6 +9,11 @@ description: From flooding the zone to fighting back as the country reels from o
   state election and heads directly into two more, Inside Germany is our weekly look
   at some of the recent news and talking points that you may have missed.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260411__A7FY3J2__v1__MidRes__GermanyPoliticsVotePartyDemo.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- History
 ---
 
 The fact that we all saw it coming somehow didn’t make it any less shocking. On Monday morning news magazine Der Spiegel described the state election results from Saxony-Anhalt as “a political earthquake of magnitude 9.0”.

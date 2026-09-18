@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: A protest is affecting "all routes" in and out of the Port of Dover today
   (September 5).
 image: https://www.thenorthernecho.co.uk/resources/images/21414445.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Getty)*

@@ -9,6 +9,9 @@ description: Apple’s new folding iPhone Duo is finally here, alongside refresh
   models. Our primer has all the details you need to choose the iPhone 18 that’s right
   for you.
 image: https://media.wired.com/photos/6aa2d2e676850b4862a36c92/191:100/w_1280,c_limit/Which-iPhone-18-Model-Should-You-Buy-.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 With a fresh folding form factor, the new iPhone Duo is Apple’s most radical redesign in years. It lands alongside the more familiar-looking iPhone 18 Pro and iPhone 18 Pro Max. There’s no regular iPhone 18, or at least, not yet. Rumors suggest we may see a more affordable base model, perhaps flanked by an iPhone 18e and a second-generation iPhone Air, in spring 2027.

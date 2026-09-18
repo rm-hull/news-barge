@@ -8,6 +8,13 @@ published: '2026-08-22T00:00:00Z'
 description: Several people have died in a car crash following a police pursuit in
   the early hours of Saturday morning.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjI4ZDI2NDhjLTdiYWUtNDI3Yy1iNTE1LTI1N2JmZDA2NzYyOTo1NDVjOTQ1MS00Mzk1LTQyYmItYjM0MC01MThmYWNhYzcxOTk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- Technology & Software
+- News & Politics
 ---
 
 Seven people, including two police officers, died in the crash on the A66 near Middlesbrough in the early hours of this morning, Cleveland Police said.

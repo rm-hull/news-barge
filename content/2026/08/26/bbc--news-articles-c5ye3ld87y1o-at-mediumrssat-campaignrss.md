@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Investigators say the fires started accidentally in fields where farming
   machinery was being used.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5632/live/f95fd430-a162-11f1-81f3-a1eb67c44aaf.png
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Burnt out homes near a railway line. Three gardens are a charred black mess with shell houses next to them](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/5632/live/f95fd430-a162-11f1-81f3-a1eb67c44aaf.png)

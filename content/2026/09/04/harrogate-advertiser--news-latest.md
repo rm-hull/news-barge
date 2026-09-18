@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Get all of the latest Latest news from Harrogate Advertiser. Providing
   a fresh perspective for online news.
 image: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![Wednesday, September 16: The Highwayman by John Godber at Harrogate Theatre. Also 7.30pm. Part of HT Drama series. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmU4M2JkNzZiLWJkYWMtNGRjZi1hMmVmLTQwNjY5MTRkNzFjMDpiZDc4ZTJiMy0wYzYwLTRlNzktODI3Ni1jMzVmYTg3YWM2OTQ=.jpg?crop=5:4,smart&trim=&quality=70&width=616)

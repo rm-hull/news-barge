@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Treatment is already required by parole boards in several countries,
   but some feel the practice is unethical
 image: https://i.guim.co.uk/img/media/fe4c794d5f08739193b46d8a72db3255e91ef4d9/568_0_1863_1491/master/1863.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ffb48cc7fca119a98f013b523d428da1
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 For some prisoners with problematic sexual arousal (PSA), “images of sex flood their minds” all of their waking hours, according to Prof Belinda Winder, a leading forensic psychologist who has evaluated the use of drugs to control libidos.

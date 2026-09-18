@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: New York congresswoman breaks from other progressives and fully embraces
   DSA even while eyeing future presidential ambitions
 image: https://static.independent.co.uk/2026/08/24/12/00/GettyImages-2167191009.jpeg?trim=48,0,48,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Rep. Alexandria Ocasio-Cortez officially rejoined the Democratic Socialists of America’s New York chapter this week after previously letting her membership lapse, and the organization said the potential 2028 contender remains in “good standing” with the group.

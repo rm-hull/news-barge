@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: The Humber Bridge is shut to high-sided and vulnerable vehicles due to
   strong winds.
 image: https://www.gazetteherald.co.uk/resources/images/20862411.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 *(Image: Pixabay)*

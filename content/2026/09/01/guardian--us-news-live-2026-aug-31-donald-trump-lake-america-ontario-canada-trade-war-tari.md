@@ -8,6 +8,9 @@ scraped_at: '2026-09-01T04:59:34Z'
 published: '2026-09-01T00:00:00Z'
 description: This live blog is now closed.
 image: https://i.guim.co.uk/img/media/a12f130efd3aba9158fe4850d4a6987b3df59fdc/700_0_6756_5407/master/6756.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=82750871193d4a2aca917aaa2e136875
+categories:
+- UK
+- News & Politics
 ---
 
 The Supreme Court issued a decision on Monday that gives Donald Trump the ability to proceed with his plans for construction of a new White House ballroom.

@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: A North East teenager has used the power of laughter to help him pass
   his toughest test. PETER BARRON reports
 image: https://www.thenorthernecho.co.uk/resources/images/21377384.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 *A North East teenager has used the power of laughter to help him pass his toughest test.**PETER BARRON** reports* 

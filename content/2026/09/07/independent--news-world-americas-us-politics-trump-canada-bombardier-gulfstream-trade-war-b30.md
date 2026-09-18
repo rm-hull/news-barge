@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: President repeats baseless claims about Canadian banks as Ottawa’s retaliatory
   tariffs set to go into effect at midnight on Tuesday
 image: https://static.independent.co.uk/2026/09/03/13/2026-09-01T151936Z_1847696710_RC20VLAKPE60_RTRMADP_3_USA-TRUMP-TARIFFS-CANADA.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 President Donald Trump called for Bombardier to be shut out of the American market, declaring in a social media post that the Canadian plane manufacturer’s aircraft "aren't good enough."

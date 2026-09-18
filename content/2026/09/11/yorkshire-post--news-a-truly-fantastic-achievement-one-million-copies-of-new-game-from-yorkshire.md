@@ -9,6 +9,12 @@ published: '2026-09-11T00:00:00Z'
 description: A new video game published by Yorkshire firm Team17 has sold over a million
   copies on its first day of release.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjhhNmE3OGFlLWNiMGItNDU3My04ZjdjLThhNzc1ZWE2YTQ3OTpkNzg3YzZhOS0yMWEzLTRlYTUtYjM3ZS0yNDA5YWM0N2E1YjI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 # “A truly fantastic achievement”: One million copies of new game from Yorkshire publisher sold in first day

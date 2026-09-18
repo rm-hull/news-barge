@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: The conflict is continuing to ‘squeeze’ the British economy, thinktanks
   warn
 image: https://static.independent.co.uk/2026/08/31/11/01M0PR858SQW93SD7PCCDJ3J0C.jpg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The US-Iran war is set to deal a severe financial blow to UK families, cutting into average household spending power by £2,400 over the next two years.

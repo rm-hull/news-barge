@@ -10,6 +10,10 @@ description: Families gather at the shattered remains of the Shajareh Tayyebeh s
   in Minab, Iran, to grieve and remember some 120 children killed by a U.S. airstrike
   on the war’s first day. A final accounting of the attack has not been made.
 image: https://static.independent.co.uk/2026/09/09/07/APTOPIX_Iran_School_37952.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 Photos show what remains of an Iranian school where some 120 children died in a U.S. strike

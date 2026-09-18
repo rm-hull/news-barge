@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A swanky Middlesbrough restaurant has bounced back from the worst possible
   food hygiene rating to be one away from the top score. Bazaar Restaurant,…
 image: https://www.thenorthernecho.co.uk/resources/images/21233298.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 A swanky North East restaurant has bounced back from the worst possible food hygiene rating to be one away from the top score.

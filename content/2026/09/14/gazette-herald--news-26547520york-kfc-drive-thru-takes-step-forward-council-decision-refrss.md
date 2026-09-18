@@ -7,6 +7,11 @@ scraped_at: '2026-09-14T14:59:06Z'
 published: '2026-09-14T00:00:00Z'
 description: A NEW drive-thru which is set to open in York has taken a step forward.
 image: https://www.gazetteherald.co.uk/resources/images/19136414.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

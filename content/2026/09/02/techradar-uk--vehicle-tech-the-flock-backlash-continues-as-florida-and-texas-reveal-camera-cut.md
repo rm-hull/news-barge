@@ -9,6 +9,8 @@ published: '2026-09-02T00:00:00Z'
 description: Two more states are scaling back their use of Flock cameras, over concerns
   about how the tech can be misused.
 image: https://cdn.mos.cms.futurecdn.net/FxMzh8xnBa3LCTagLY7nsC-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Flock Safety Camera](https://cdn.mos.cms.futurecdn.net/FxMzh8xnBa3LCTagLY7nsC.jpg) 

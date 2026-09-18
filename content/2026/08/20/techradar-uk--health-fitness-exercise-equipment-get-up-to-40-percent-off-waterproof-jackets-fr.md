@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Contrary to what it might feel like, this sunshine isn't going to last
   forever.
 image: https://cdn.mos.cms.futurecdn.net/pisB336x62XDGGuY8Do2D3-2560-80.jpg
+categories:
+- Technology & Software
+- Travel
+- Lifestyle & Fashion
 ---
 
 ![Selection of waterproof jackets against a rainy day background](https://cdn.mos.cms.futurecdn.net/pisB336x62XDGGuY8Do2D3.jpg) 

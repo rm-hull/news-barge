@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: 46-year-old chief inspector Kevin Lacks-Kelly, the outgoing Head of the
   UK National Wildlife Crime Unit (NWCU), has been awarded the Wildlife Crime…
 image: https://www.thenorthernecho.co.uk/resources/images/21461811.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: SUBMIT)*

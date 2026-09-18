@@ -8,6 +8,9 @@ scraped_at: '2026-08-20T20:41:26Z'
 published: '2026-08-20T00:00:00Z'
 description: Get to know Khloé's inner circle with this fresh reality series
 image: https://cdn.mos.cms.futurecdn.net/UTqYh7uqy356d2mFiXFpqU-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Promotional image for the reality series The Girls: A Khloe Kardashian Project](https://cdn.mos.cms.futurecdn.net/UTqYh7uqy356d2mFiXFpqU.jpg) 

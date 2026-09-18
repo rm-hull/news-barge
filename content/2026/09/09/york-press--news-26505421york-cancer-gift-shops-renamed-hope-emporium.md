@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: York Against Cancer’s shops at York Community Stadium and York Hospital
   will now be known as The Hope Emporium.
 image: https://www.yorkpress.co.uk/resources/images/21386312.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: York Against Cancer)*

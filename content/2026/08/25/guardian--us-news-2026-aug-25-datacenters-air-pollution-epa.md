@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Trump administration proposes new rule to dismantle requirement for datacenters
   to publicly report air pollution
 image: https://i.guim.co.uk/img/media/6dc6477a6aef9030110753e8936419ff3ea2ab58/159_0_3332_2666/master/3332.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ece96f800a9e401fcde5d9d72035ad67
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A new rule proposed by the Trump administration aims to kill public notification for datacenter air pollution, public health advocates warn, and allow emission permits to be issued behind closed doors.

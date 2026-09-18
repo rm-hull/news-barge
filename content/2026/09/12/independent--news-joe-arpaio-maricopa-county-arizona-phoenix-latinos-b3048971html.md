@@ -10,6 +10,9 @@ description: A federal judge who ruled 13 years ago that Hispanics were racially
   in then-Arizona Sheriff Joe Arpaio’s immigration crackdowns has rejected a bid to
   end the court’s supervision of the sheriff’s office
 image: https://static.independent.co.uk/2026/09/12/01/Arizona_Sheriff-Racial_Profiling_24275.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A judge who ruled 13 years ago that Hispanics were racially profiled in then-Arizona Sheriff Joe Arpaio’s immigration crackdowns has rejected a bid to end the court’s supervision of the sheriff’s office.

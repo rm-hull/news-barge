@@ -7,6 +7,11 @@ scraped_at: '2026-08-20T16:47:55Z'
 published: '2026-08-20T00:00:00Z'
 description: The FTSE 100 index closed up just 4.81 points at 10,748.16.
 image: https://static.independent.co.uk/2026/08/20/17/dc34bf9e27246d9a8055c772acca97b2Y29udGVudHNlYXJjaGFwaSwxNzg3MzI1OTY1-2.82985241.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Technology & Software
 ---
 
 The FTSE 100 struggled for direction on Thursday, closing little changed, with miners and oil stocks providing support and balancing a hefty fall in JD Sports Fashion after a profit warning.

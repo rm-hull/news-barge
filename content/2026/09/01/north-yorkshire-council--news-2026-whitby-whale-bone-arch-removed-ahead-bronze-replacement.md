@@ -9,6 +9,12 @@ description: One of Whitby’s most recognisable landmarks has been removed toda
   September 1), with ethical bronze replicas set to be put in its place to preserve
   the town’s maritime heritage.
 image: https://www.northyorks.gov.uk/sites/default/files/2026-09/2whale%20bones%20removed.jpg
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- History
 ---
 
 ![Whitby whale bones being removed](https://www.northyorks.gov.uk/sites/default/files/2026-09/2whale%20bones%20removed.jpg) 

@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: A Chester-le-Street play park has said that their staff have faced an
   increase in verbal abuse over the six-week school holidays.
 image: https://www.thenorthernecho.co.uk/resources/images/7997033.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: THE NORTHERN ECHO)*

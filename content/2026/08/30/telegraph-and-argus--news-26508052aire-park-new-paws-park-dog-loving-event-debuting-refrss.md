@@ -7,6 +7,11 @@ scraped_at: '2026-08-30T19:17:30Z'
 published: '2026-08-30T00:00:00Z'
 description: A new dog-friendly event is set to debut this September.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21390489.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: UGC)*

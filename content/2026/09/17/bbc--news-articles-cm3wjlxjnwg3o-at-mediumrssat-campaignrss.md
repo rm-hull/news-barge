@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: Fred Again, PinkPantheress and Travis Scott provide new music for the
   blockbuster - but not all fans are happy.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f33/live/f0215a40-b2ad-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
+- Music
+- Film & TV
+- Technology & Software
 ---
 
 ![Computer generated but extremely lifelike image shows character Lucia in a gym, wearing large over-ear headphones and a grey hoodie with a black "Baddie" logo print. She's heavily backlit by the sun as she stares moodily at the viewer.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/8b90/live/84b5ecf0-b2a1-11f1-bd7d-0f16235ccc4c.jpg)

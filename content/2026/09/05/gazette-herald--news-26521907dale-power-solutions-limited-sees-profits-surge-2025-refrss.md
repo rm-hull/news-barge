@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: A Scarborough firm has seen a surge in profits after a busy 2025 full
   of expansion and investment.
 image: https://www.gazetteherald.co.uk/resources/images/21410427.jpg?type=og-image&xType=0&yType=22
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Dale Power Solutions)*

@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Another week, another letter or two about our changing climate and the
   problems it creates
 image: https://www.gazetteherald.co.uk/resources/images/20573527.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Science
 ---
 
 *(Image: Getty Images)*

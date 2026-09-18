@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: Brazilian President Luiz Inácio Lula da Silva has signed measures to
   lower fuel prices, just weeks before the presidential election
 image: https://static.independent.co.uk/2026/09/09/23/Brazil_Lula_Justice_93173.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Brazilian President Luiz Inácio Lula da Silva signed a decree and a provisional measure Wednesday aimed at lowering fuel prices, weeks ahead of the presidential election and as the U.S.-Iran war drives up the cost of filling the tank.

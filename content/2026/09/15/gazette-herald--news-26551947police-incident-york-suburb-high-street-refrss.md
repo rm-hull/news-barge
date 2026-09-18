@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Officers from North Yorkshire Police have rushed to an incident in Front
   Street, Acomb.
 image: https://www.gazetteherald.co.uk/resources/images/21457711.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 - North Yorkshire Police officers were seen rushing to an incident in Front Street, Acomb.

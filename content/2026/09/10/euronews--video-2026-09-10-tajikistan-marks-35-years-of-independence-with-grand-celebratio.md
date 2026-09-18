@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Video. Dushanbe saw colourful celebrations marking Tajikistan’s 35th
   anniversary, including a grand parade, cultural performances and fireworks.
 image: https://images.euronews.com/articles/stories/09/90/91/46/1200x675_cmsv2_fd1ae619-3b4e-5ecf-935d-88afee2608c5-9909146.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 Tajikistan marked the 35th anniversary of its independence with a military parade in Dushanbe, where more than 27,000 personnel took part in a ceremonial march at Independence Square.

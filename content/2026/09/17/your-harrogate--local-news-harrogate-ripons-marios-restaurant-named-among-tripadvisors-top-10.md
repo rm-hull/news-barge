@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Mario's Restaurant in Ripon has won a Tripadvisor Travellers' Choice
   award for 2026.
 image: https://mmo.aiircdn.com/409/6aabd35a8e426d4e480.jpg
+categories:
+- Local
+- Harrogate
+- Travel
+- Food & Cooking
 ---
 
 ![](https://mmo.aiircdn.com/409/6aabd35a8e426d4e480.jpg) 

@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T16:48:16Z'
 published: '2026-08-20T00:00:00Z'
 description: The A31 through the New Forest has been closed for nearly two weeks
 image: https://static.independent.co.uk/2026/08/20/16/2290450933..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Wildlife across the New Forest will require decades to recover following a severe wildfire that destroyed ancient beech and oak trees that had stood at the site for hundreds of years, Forestry England has warned.

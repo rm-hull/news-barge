@@ -10,6 +10,10 @@ description: ‘No one should have to give birth, receive treatment for an infec
   or undergo surgery in a healthcare facility without access to clean water,’ says
   WaterAid
 image: https://static.independent.co.uk/2026/08/18/15/2277923841..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Almost one billion people around the world rely on healthcare facilities without water, leaving patients and health workers without one of the most fundamental requirements for safe care.

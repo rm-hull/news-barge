@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Chancellor John Healey said the government is 'committed to meeting our
   fiscal rules'
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5711/live/12719030-9d21-11f1-ab6e-831b967255ae.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Chancellor of the Exchequer John Healey arrives in Downing Street to attend the first Cabinet meeting hosted by the newly appointed Prime Minister Andy Burnham in London, United Kingdom on July 21, 2026](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/5711/live/12719030-9d21-11f1-ab6e-831b967255ae.jpg)

@@ -9,6 +9,12 @@ published: '2026-09-04T00:00:00Z'
 description: A Bradford man has been charged with a series of drug offences following
   an investigation by a police team targeting organised crime and drug supply…
 image: https://www.thetelegraphandargus.co.uk/resources/images/20910125.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest)*

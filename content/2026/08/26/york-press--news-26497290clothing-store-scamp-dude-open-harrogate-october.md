@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T16:57:21Z'
 published: '2026-08-26T00:00:00Z'
 description: Fashion brand Scamp & Dude is setting up shop in the centre of Harrogate.
 image: https://www.yorkpress.co.uk/resources/images/20686131.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 ## Fashion store loved by Alison Hammond and Davina McCall coming to North Yorkshire

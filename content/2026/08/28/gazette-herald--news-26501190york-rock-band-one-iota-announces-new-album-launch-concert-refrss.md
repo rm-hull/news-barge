@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: York rock band One Iota is set to launch their new album with an upcoming
   concert at the Joseph Rowntree Theatre.
 image: https://www.gazetteherald.co.uk/resources/images/21379900.jpg?type=og-image&xType=0&yType=7
+categories:
+- Local
+- Harrogate
+- York
+- Music
+- Arts & Culture
 ---
 
 *(Image: One Iota)*

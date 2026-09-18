@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Victorian court of appeal also to consider whether triple murder and
   attempted murder convictions should be quashed
 image: https://i.guim.co.uk/img/media/179ea9ee8d7a132742cba734ebb059a2c6aa5333/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ad6bc9cc89f7730baab4ed33808cd601
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Mushroom killer Erin Patterson is appealing against her convictions for murdering Don and Gail Patterson and Heather Wilkinson, and attempting to murder Ian Wilkinson. Prosecutors are appealing against her sentence, arguing she should remain in prison for life without parole. Composite: AP/Guardian Design

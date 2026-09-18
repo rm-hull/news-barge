@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The caffeine content in Costa’s cappuccino is the equivalent of around
   four cans of Red Bull, Which? found.
 image: https://static.independent.co.uk/2026/08/25/00/25165321-fcf6a2cd-0aaa-4ae6-a19b-2acf21528ecb.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Coffee drinkers may be getting more or less caffeine in their drinks than they anticipated, with levels varying “wildly” between popular high street chains, a new study shows.

@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Hundreds of police officers lined the street at the funeral of a colleague
   who was killed in a collision on the A66.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/09/15/47/01M237V5YE46S6H883KGJ7VMKR.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Hundreds of police line street at A66 crash colleague’s funeral

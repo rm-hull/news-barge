@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Almost 75% of England remains in drought following an exceptionally dry
   spring and summer.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/495e/live/addfcfe0-b22b-11f1-a59b-25df709671d5.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Four people, separated into two couples, walk through rain along a street with restaurants either side. They are wearing coats and each pair are sharing an umbrella.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/495e/live/addfcfe0-b22b-11f1-a59b-25df709671d5.jpg)

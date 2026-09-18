@@ -9,6 +9,10 @@ description: No deaths have been reported, but at least six people have been inj
   including three first responders, with several mountaintop houses destroyed, according
   to local media.
 image: https://images.euronews.com/articles/stories/09/88/63/88/1200x675_cmsv2_f0c6bdf2-a6de-59de-bc43-22427e421990-9886388.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## No deaths have been reported, but at least six people have been injured, including three first responders, with several mountaintop houses destroyed, according to local media.

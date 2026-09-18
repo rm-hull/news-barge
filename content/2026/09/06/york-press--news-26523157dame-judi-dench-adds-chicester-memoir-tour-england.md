@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: 'Dame Judi Dench will be taking the stage across England from Tuesday,
   October 20 for a collection of evenings titled Judi Dench: Is it Too Late to…'
 image: https://www.yorkpress.co.uk/resources/images/21095096.jpg?type=og-image&yType=919
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Aaron Chown / PA Wire)*

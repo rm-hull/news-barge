@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: “There’s no reason we can’t think that, at some point in the future,
   we can have volcano forecasts that are like weather forecasts.”
 image: https://media.wired.com/photos/6aa44cdc4de88ba2f8bc1c56/191:100/w_1280,c_limit/Qualia-Predicting-Volcanoes-cr-Celsius-Pictor-Social.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 *The original version of**this story** appeared in*Quanta Magazine*.*

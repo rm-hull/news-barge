@@ -9,6 +9,10 @@ description: Naval engineer Ilya Espino de Marotta takes the helm on Monday as t
   first woman to lead the Panama Canal administration, stepping into the role at a
   challenging time for the vital maritime route
 image: https://static.independent.co.uk/2026/09/07/14/Panama_Canal_3_283.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Naval engineer Ilya Espino de Marotta takes the helm Monday as the first woman to lead the Panama Canal administration, stepping into the role at a challenging time for the vital maritime route.

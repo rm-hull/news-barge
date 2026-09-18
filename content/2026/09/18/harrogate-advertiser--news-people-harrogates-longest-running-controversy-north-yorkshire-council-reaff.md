@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: The war of words over Harrogate’s £11 million Gateway project for the
   town centre may have gone silent but the controversial scheme is far from dead.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjQyYjFkNWRhLTI5NjEtNDUxOS04ODllLWU0Y2IyMGRmY2JjMjo1OGUzZDMxNi1mZmNmLTQzZjItOTVlOS01MWZiODI3MDc4ZTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 # Harrogate's longest-running controversy: North Yorkshire Council reaffirms its commitment to Gateway project

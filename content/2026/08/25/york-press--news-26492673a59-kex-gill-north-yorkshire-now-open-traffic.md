@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: A new stretch of a major North Yorkshire road has opened to traffic following
   the largest highways project ever undertaken by the county council.
 image: https://www.yorkpress.co.uk/resources/images/21367097.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## New section of key North Yorkshire route opens to traffic today

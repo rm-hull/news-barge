@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Trump official insists federal agents would only deploy to polling locations
   to address active threats or execute existing warrants
 image: https://static.independent.co.uk/2026/08/27/15/2026-08-27T121728Z_1931352203_RC2Z6NAC5CK8_RTRMADP_3_USA-IMMIGRATION-CONNECTICUT.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 Department of Homeland Security Secretary Markwayne Mullin has accused Democrats of using rhetoric to unfairly demonize Immigration and Customs Enforcement and undermine President Donald Trump’s immigration agenda.

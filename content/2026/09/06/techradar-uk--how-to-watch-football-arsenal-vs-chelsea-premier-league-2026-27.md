@@ -9,6 +9,9 @@ published: '2026-09-06T00:00:00Z'
 description: A London derby at the Emirates today in which both sides defend 100 per
   cent records
 image: https://cdn.mos.cms.futurecdn.net/GixG6yU5fDJEkwJWQXGM3R-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Bukayo Saka of Arsenal calling for the ball during a Premier League 2026/27 match .](https://cdn.mos.cms.futurecdn.net/GixG6yU5fDJEkwJWQXGM3R.jpg) 

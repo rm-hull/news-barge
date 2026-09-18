@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T13:22:54Z'
 published: '2026-09-17T00:00:00Z'
 description: Men’s breakfast club helps isolated Wetherby residents
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/17/13/BreakfastClub_1789648473_cfe51258-ee4579450809fe1c.jpg?crop=3:2,smart&trim=&width=1125&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Health & Fitness
 ---
 
 # Wetherby charity’s men’s breakfast club grows in mental health boost bid

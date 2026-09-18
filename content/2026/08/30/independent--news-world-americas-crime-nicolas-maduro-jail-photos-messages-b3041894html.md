@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Maduro and his wife were charged with conspiracy to commit narco-terrorism
   and import cocaine into the US
 image: https://static.the-independent.com/2026/08/30/20/31/Nicolas-Maduro-New-York-jail-cell.jpeg?trim=0,4,0,4&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Deposed Venezuelan leader Nicolás Maduro said he was “standing firm” in a statement shared on social media Sunday along with photos from the New York prison where he has been held since his capture by American forces.

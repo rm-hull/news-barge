@@ -9,6 +9,11 @@ description: Here amid their ongoing thirtieth anniversary, the Scottish post-ro
   wizards offer a ninety-five minute set that fully maximises their catch-and-release
   euphoria.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVlYzBhY2U4LTA4OGYtNDczMy05NDY3LWExMjYxZTg3N2RlMzozYzhlMDk1Zi03OWQ1LTRmMWYtOTUyZS02YjUzNTcxNmUzMDg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Music
 ---
 
 # Gig review: Mogwai at Brudenell Social Club

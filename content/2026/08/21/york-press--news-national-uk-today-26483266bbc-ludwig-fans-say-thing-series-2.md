@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Ludwig has returned for a second series and fans have praised the show's
   new episodes so far.
 image: https://www.yorkpress.co.uk/resources/images/21352637.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
+- Arts & Culture
 ---
 
 ## Ludwig fans all say the same thing about BBC drama as first episodes of series 2 air

@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T14:13:42Z'
 published: '2026-09-07T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/cctv-shell-garage-hull-road-york-28-july-2026.webp
+categories:
+- Local
+- York
+- True Crime
 ---
 
 Do you know this man?

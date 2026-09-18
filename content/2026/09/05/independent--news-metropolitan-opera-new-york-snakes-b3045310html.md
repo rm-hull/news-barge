@@ -9,6 +9,10 @@ description: Snakes auditioned for a role in the Metropolitan Opera’s “Così
   in New York, where performer Zoe Ziegfeld tested their comfort on stage. A boa constrictor
   named Princess won the part, with Nala as her understudy.
 image: https://static.independent.co.uk/2026/09/05/18/Snake_Auditions__639_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Photos show snakes auditioning for a role at New York’s Metropolitan Opera

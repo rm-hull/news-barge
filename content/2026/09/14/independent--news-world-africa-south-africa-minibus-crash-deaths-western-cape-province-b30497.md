@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: The crash started with the two minibus taxis colliding head-on, after
   which an SUV crashed into them, the Western Cape Mobility department said
 image: https://static.independent.co.uk/2026/09/14/11/2290361782..?trim=0,1085,1109,579&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Automotive
+- Technology & Software
 ---
 
 At least 21 people have been killed and several others severely injured following a head-on collision between two minibus taxis and a third vehicle on a major highway in South Africa, authorities said on Monday.

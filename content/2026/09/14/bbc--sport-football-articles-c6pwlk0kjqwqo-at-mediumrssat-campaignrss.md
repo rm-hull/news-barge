@@ -9,6 +9,10 @@ description: The video assistant referee for the Manchester derby, Matt Donohue,
   his assistant VAR, Blake Antrobus, are not appointed for this weekend's Premier
   League games.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5343/live/94cdb350-b05a-11f1-9902-771b6dd8af6a.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Manchester City striker Erling Haaland scores for his side as team-mate Enzo Fernandez watches on after failing to make contact with a diving header](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/5343/live/94cdb350-b05a-11f1-9902-771b6dd8af6a.jpg)

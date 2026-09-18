@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: The major supermarkets have recalled a coleslaw and a crumble, which
   pose a potential allergy risk
 image: https://static.independent.co.uk/2026/03/18/16/18154212-8ff14d38-df7f-416d-a678-80a8b2ae065c.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Two major supermarkets are recalling food products that have been labelled incorrectly and pose a potential allergy risk.

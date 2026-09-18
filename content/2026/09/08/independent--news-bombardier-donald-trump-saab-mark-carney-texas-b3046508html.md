@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: U.S. President Donald Trump has threatened to ban the sale of aircraft
   from Canada’s Bombardier unless it manufactures planes in the United States
 image: https://static.independent.co.uk/2026/09/08/11/Canada_Tariffs_Bombardier_34673.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 U.S. President Donald Trump has threatened to ban the sale of aircraft from Canada’s Bombardier unless it manufactures planes in the United States.

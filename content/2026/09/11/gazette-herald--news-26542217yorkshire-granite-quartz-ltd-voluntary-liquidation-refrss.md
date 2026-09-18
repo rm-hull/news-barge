@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: Knaresborough construction business Yorkshire Granite and Quartz Ltd
   has gone into liquidation with creditors owed more than £300,000.
 image: https://www.gazetteherald.co.uk/resources/images/21439968.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Staff)*

@@ -10,6 +10,10 @@ description: A federal judge ruled the Trump administration illegally labeled An
   a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit
   continues in Washington.
 image: https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798
+categories:
+- Business & Entrepreneurship
+- News & Politics
+- Technology & Software
 ---
 
 A federal judge in California ruled on Thursday evening that the Trump administration’s designation of Anthropic as a supply-chain risk was illegal.

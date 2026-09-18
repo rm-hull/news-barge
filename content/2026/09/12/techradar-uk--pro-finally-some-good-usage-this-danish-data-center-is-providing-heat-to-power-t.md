@@ -8,6 +8,9 @@ published: '2026-09-12T00:00:00Z'
 description: Meta’s Denmark facility is turning unwanted data center heat into warmth
   for thousands of household radiators
 image: https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg
+categories:
+- Technology & Software
+- Home, Garden & DIY
 ---
 
 ![Data center](https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN.jpg) 

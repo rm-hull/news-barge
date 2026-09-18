@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: MARKET traders have welcomed the restoration of one of the most recognisable
   landmarks in a North Yorkshire town and said it had given the area ‘a…
 image: https://www.gazetteherald.co.uk/resources/images/21377985.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Business & Entrepreneurship
 ---
 
 MARKET traders have welcomed the restoration of one of the most recognisable landmarks in a North Yorkshire town and said it had given the area ‘a new lease of life’.

@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: Police had been alerted after an ‘ignited container’ was thrown towards
   the site
 image: https://static.independent.co.uk/2026/04/17/10/2271054474.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Two men and a teenage boy have admitted taking part in an arson attack on the UK office of a Persian media company.

@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: Bangladeshi complainants allege Rampal power station’s pollution and
   climate risks threaten the Sunderbans, a world heritage site
 image: https://i.guim.co.uk/img/media/cb8b518834f8d8cefcab803c5eb0c8e6c7663a36/953_0_6696_5357/master/6696.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b316d20ffde9f91520c4a678b0c07336
+categories:
+- UK
+- News & Politics
 ---
 
 Barclays Bank is facing a formal complaint over its financial links to a coal-fired power station near the Sundarbans, the world’s largest mangrove forest and home to millions of people in Bangladesh and India.

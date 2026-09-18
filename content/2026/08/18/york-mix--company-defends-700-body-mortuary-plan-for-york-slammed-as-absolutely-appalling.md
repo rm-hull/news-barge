@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T19:35:37Z'
 published: '2026-08-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/york-mortuary-site-hudson-court-great-northern-way-york-business-park-aerial-gsv.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 Plans for a mortuary storing up to 700 bodies in York have been defended by the company behind them.

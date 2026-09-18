@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: A large Bradford secondary school where staff don't feel safe as pupils
   fight and throw furniture has been placed into special measures by…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21432662.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: Newsquest)*

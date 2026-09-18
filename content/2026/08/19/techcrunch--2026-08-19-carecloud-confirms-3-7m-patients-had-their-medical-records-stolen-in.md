@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: The cyberattack at CareCloud resulted in one of the largest reported
   data breaches in the U.S. healthcare industry this year.
 image: https://techcrunch.com/wp-content/uploads/2019/07/hacking-surveillance1.png?resize=1200,674
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Hackers have stolen the personal information and medical records of more than 3.75 million people in a data breach at health data giant CareCloud, the company has confirmed with federal regulators. The disclosure marks the first confirmation of the scale of the data breach, which is now confirmed to be the fifth-largest theft of health data in 2026 so far.

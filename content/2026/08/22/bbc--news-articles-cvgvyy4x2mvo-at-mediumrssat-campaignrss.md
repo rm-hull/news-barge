@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: New 50% levy on $20bn of Canadian imports comes into force after last
   minute breakdown in trade talks.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Canadian Prime Minister Mark Carney attends the announcement of a Quebec-Newfoundland hydro agreement](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg)

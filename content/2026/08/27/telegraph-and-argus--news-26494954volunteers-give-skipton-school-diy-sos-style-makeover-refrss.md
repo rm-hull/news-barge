@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A school has praised the "unbelievable" efforts of more than 30 volunteers
   who transformed its building and grounds in just one day.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21368818.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: UGC)*

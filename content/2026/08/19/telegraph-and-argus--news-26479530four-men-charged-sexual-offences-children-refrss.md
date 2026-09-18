@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Four men have been charged with serious sexual offences against teenage
   girls in Kirklees and are due to appear in court in September.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20423669.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Newsquest)*

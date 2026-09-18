@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: Security companies are scrambling to build products that can monitor
   not just agents but also the tools and add-ons they use.
 image: https://techcrunch.com/wp-content/uploads/2026/09/hiddenlayer.jpg?resize=1200,900
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 When AI security startup HiddenLayer raised its $50 million Series A three years ago, one of the big questions in the space was whether the AI threats the startup was protecting against would manifest in enough quantity to make for a real market. As my former colleague Kyle Wiggers noted at the time, it was difficult to pin down real examples of attacks against AI at scale.

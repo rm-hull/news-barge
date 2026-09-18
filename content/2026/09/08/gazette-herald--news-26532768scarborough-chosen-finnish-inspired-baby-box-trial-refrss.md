@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A Nordic-inspired maternity support package will be introduced in a North
   Yorkshire town by the county’s elected mayor.
 image: https://www.gazetteherald.co.uk/resources/images/21426582.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 A Nordic-inspired maternity support package could be introduced in a North Yorkshire town by the county’s elected mayor.

@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: ‘We will not be bullied into silence or submission,’ Kerry Kennedy wrote
   on social media
 image: https://static.independent.co.uk/2026/09/18/15/53/GettyImages-2250948105.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 John F. Kennedy’s niece praised a Democratic lawmaker as a “national hero” for challenging President Donald Trump’s proposed changes to the Kennedy Center in Washington, D.C.

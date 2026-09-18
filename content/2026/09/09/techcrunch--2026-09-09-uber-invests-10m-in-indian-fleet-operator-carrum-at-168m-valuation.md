@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Carrum Mobility operates about 5,100 vehicles in India and is Uber's
   largest fleet partner for its premium Uber Black service in the country.
 image: https://techcrunch.com/wp-content/uploads/2026/09/uber-black-india.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Automotive
 ---
 
 Uber has invested $10 million in Indian fleet management startup Carrum Mobility in a Series B round as the ride-hailing giant increases its reliance on large fleet operators to supply vehicles and drivers in the South Asian nation.

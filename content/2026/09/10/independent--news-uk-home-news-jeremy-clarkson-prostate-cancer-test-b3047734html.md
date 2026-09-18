@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: The Stockholm3 test is said to be ‘more effective’ than the standard
   PSA test in detecting aggressive prostate cancer
 image: https://static.independent.co.uk/2026/06/17/9/38/Jeremy-Clarkson-speaks-from-hospital-bed-after-cancer-diagnosis.jpeg?trim=0,56,0,55&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Men in London will be able to access a £99 prostate cancer test that is thought to be more effective than the NHS standard PSA detection.

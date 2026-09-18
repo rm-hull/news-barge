@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Conservative leader Kemi Badenoch stated the party no longer supports
   hitting net zero by 2050, while Reform UK branded the target ‘net stupid zero’
 image: https://static.independent.co.uk/2026/09/14/13/6664bb97715e0d104e92f7467143481cY29udGVudHNlYXJjaGFwaSwxNzg5NDc1OTQ0-2.85807531.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Andy Burnham has asserted his firm intention to achieve net zero by 2050 while unveiling nearly £30 million in funding for community-led renewable energy schemes.

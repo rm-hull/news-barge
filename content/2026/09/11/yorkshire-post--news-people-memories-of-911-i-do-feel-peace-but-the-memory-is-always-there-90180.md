@@ -9,6 +9,11 @@ description: Lynn Rusk speaks to Pentagon survivor Marilyn Wills and former Worl
   Trade Center bond trader Stefan Horlacher, 25 years on from the 9/11 attacks about
   a day – and an aftermath – they can never forget.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmNjMDY5NjhlLWQ2MjItNDc4OC05YmE4LTAzMGUzOTczYWY3ZTpkOTQxY2I2Mi1iZWViLTQ1ZDEtYjk2Ni1iMmRkMjk2YzNiMDk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Memories of 9/11: ‘I do feel peace, but the memory is always there’

@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Being on-call means you can’t fully switch off and must stay reachable
   and ready to work if your employer needs you
 image: https://static.independent.co.uk/2026/08/21/18/31/iStock-1213590814.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 It’s 4am, you’ve finally drifted off, and then the phone rings. It’s work calling. You have to go in.

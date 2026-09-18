@@ -10,6 +10,11 @@ description: A barrier who plotted a revenge attack with a career criminal who h
   been shot as part of a violent turf war between drugs gangs has been jailed for
   more than three years.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/07/14/10/Samreen-AKHTAR.jpg?trim=625,0,161,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Barrister caught plotting revenge over Yorkshire shooting as part of gang turf war

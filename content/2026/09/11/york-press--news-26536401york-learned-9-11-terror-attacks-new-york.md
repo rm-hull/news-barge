@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: 'Remembering 9/11 in York: from shock in The Evening Press newsroom to
   York''s response to the September 11 terror attacks that changed the world.'
 image: https://www.yorkpress.co.uk/resources/images/21431744.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- York
+- Society & Culture
+- News & Politics
+- History
 ---
 
 ## 'We can hear the voices of lost souls' - how York reacted to the 9/11 attacks

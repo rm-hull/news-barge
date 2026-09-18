@@ -9,6 +9,10 @@ description: Video. Canadians in Vancouver reacted to Prime Minister Mark Carney
   proposal for closer ties with the European Union, including possible “associate
   member” status.
 image: https://images.euronews.com/articles/stories/09/91/83/59/1200x675_cmsv2_bc4c1455-4c64-553b-ad09-e6616289d2af-9918359.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 Canadians in Vancouver have reacted to Prime Minister Mark Carney’s proposal to deepen ties between Canada and the European Union.

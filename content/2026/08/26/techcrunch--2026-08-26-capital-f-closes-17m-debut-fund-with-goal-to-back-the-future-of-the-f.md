@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: The firm backs companies building in the “female economy,” or the markets
   where women drive demand — women’s health, digital commerce, and AI tools.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Margaret-Coblentz-and-Dawn-Dobras.png?w=934
+categories:
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 Capital F, one of the few all-female-led VC firms, announced Wednesday the $17 million close of its debut fund.

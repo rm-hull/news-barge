@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Susan Clancy’s testimony echoed emotional accounts the day before from
   Lindsay’s mother and sister
 image: https://static.the-independent.com/2026/08/18/19/download.-1.?trim=18,0,18,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 Lindsay Clancy’s former mother-in-law was called to testify by the defense on Tuesday, in the fourth week of her murder trial.

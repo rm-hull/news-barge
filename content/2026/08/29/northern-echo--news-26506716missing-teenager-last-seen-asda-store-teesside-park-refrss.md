@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Police are searching for a missing teenager who was last seen at the
   ASDA store at Teesside Park in Stockton.
 image: https://www.thenorthernecho.co.uk/resources/images/21388204.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: CLEVELAND POLICE)*

@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: North East businesswoman Michelle Sheekey is encouraging students disappointed
   by their GCSE results not to give up on their ambitions after growing…
 image: https://www.thenorthernecho.co.uk/resources/images/21120281.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: GWP)*

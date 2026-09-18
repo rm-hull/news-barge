@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: A “self-centred, deceitful liar" has been found guilty of causing the
   death of well-known York motorcyclist and author Nick Gilroy.
 image: https://www.yorkpress.co.uk/resources/images/21337019.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
 ---
 
 *(Image: Submitted)*

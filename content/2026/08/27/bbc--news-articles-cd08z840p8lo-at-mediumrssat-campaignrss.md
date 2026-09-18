@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: One woman says her father, mother, sister and sister's children were
   carried away before her eyes.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7c53/live/5e79d6c0-a1e2-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 Watch: People pulled from mud in Nepal after deadly flash floods

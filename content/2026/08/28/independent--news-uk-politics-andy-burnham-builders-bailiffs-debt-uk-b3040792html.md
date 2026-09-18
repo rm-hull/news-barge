@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T11:16:16Z'
 published: '2026-08-28T00:00:00Z'
 description: Burnham feels his plan will ‘put cowboy builders out of business’
 image: https://static.independent.co.uk/2026/08/27/17/76fb4283cdb7d6a89b3a86265043e98dY29udGVudHNlYXJjaGFwaSwxNzg3OTI5NTEy-2.85621626.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 New measures targeting "cowboy builders" who exploit homeowners, alongside a crackdown on private bailiffs using intimidating tactics against people in debt, have been unveiled by Andy Burnham.

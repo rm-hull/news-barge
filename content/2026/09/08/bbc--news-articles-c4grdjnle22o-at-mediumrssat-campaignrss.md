@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Foreign Secretary Ed Miliband is expected to outline proposals targeting
   goods from Israeli-occupied areas on Tuesday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/270b/live/676c01e0-ab24-11f1-993d-a17289144c06.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Israeli bulldozers near a new settlement in the West Bank](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/270b/live/676c01e0-ab24-11f1-993d-a17289144c06.jpg)

@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: The annual Battle of Britain commemoration will take place in September
   at the Cenotaph in Middlesbrough.
 image: https://www.thenorthernecho.co.uk/resources/images/5478542.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: Supplied)*

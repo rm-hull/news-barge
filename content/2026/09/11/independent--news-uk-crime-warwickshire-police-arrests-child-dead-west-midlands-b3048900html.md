@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Police received reports of a child in cardiac arrest just before midday
   on Friday
 image: https://static.independent.co.uk/2026/09/11/20/38/Police-have-closed-part-of-Long-Street-Atherstone-as-enquiries-continue.png?trim=0,181,0,180&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Police have arrested two people on suspicion of child neglect after a one-year-old girl was found dead at a home in Warwickshire on Friday.

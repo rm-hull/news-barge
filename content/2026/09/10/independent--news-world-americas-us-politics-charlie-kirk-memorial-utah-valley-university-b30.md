@@ -9,6 +9,9 @@ description: Some students are protesting on the anniversary of Kirk’s death a
   the university canceled classes and allowed Turning Point USA to host a memorial
   at its event center
 image: https://static.independent.co.uk/2026/09/10/18/16/GettyImages-2176767213.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Charlie Kirk's image still haunts many students at Utah Valley University one year after the right-wing political activist’s assassination on their college campus.

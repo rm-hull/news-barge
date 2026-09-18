@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Southbank residents have joined forces to explore how they can stockpile
   food and supplies in case of extreme weather events.
 image: https://www.yorkpress.co.uk/resources/images/21424442.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Gareth Fuller/PA Wire)*

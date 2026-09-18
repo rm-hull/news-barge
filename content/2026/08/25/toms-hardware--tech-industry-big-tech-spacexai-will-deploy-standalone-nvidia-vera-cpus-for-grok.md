@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: SpaceXAI becomes the second announced hyperscale customer for standalone
   Vera after Meta.
 image: https://cdn.mos.cms.futurecdn.net/tAXNckhbwBFZknaHqvpJe7-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![Nvidia Vera CPU](https://cdn.mos.cms.futurecdn.net/tAXNckhbwBFZknaHqvpJe7.jpg) 

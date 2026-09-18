@@ -7,6 +7,11 @@ scraped_at: '2026-09-15T11:27:12Z'
 published: '2026-09-15T00:00:00Z'
 description: Ground work to start on The Stray in Harrogate
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/15/08/Water_1789403290_9294c046-1b785b705fa919ab.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 # Yorkshire Water to start £1.5bn of investment in Harrogate's infrastructure

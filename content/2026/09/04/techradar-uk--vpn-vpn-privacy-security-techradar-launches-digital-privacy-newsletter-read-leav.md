@@ -8,6 +8,9 @@ scraped_at: '2026-09-04T18:59:30Z'
 published: '2026-09-04T00:00:00Z'
 description: Discover our new weekly email, and keep surveillance capitalism at bay
 image: https://cdn.mos.cms.futurecdn.net/xrP5KPar5BTwVvtjMVsizj-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A woman's silhouette stands before a massive glowing portal shaped like a human fingerprint.](https://cdn.mos.cms.futurecdn.net/xrP5KPar5BTwVvtjMVsizj.jpg) 

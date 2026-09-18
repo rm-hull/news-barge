@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: Riyadh says it will retaliate after overnight attacks by Iran-backed
   Yemen group on oil facilities wound more than 70
 image: https://i.guim.co.uk/img/media/9adb8d5d53978cd04f15c8bb241cb31a957a82c1/150_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33421af2f9323236e8cbfa055dcdcb4f
+categories:
+- UK
+- News & Politics
 ---
 
 Yemen’s Iran-backed Houthis have attacked four cities in Saudi Arabia, wounding more than 70 people and setting oil installations ablaze in what appeared to be a significant expansion of the Middle East war.

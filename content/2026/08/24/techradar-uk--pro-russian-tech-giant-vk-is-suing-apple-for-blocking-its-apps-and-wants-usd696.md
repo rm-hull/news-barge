@@ -8,6 +8,8 @@ published: '2026-08-24T00:00:00Z'
 description: Apple faces a massive Russian court fight after VK demands its banned
   apps be returned
 image: https://cdn.mos.cms.futurecdn.net/kNeWB7Msf3ccXLSNmaE8wV-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Court gavel](https://cdn.mos.cms.futurecdn.net/kNeWB7Msf3ccXLSNmaE8wV.jpg) 

@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: The York family business Rafi's Spicebox has been saved through a restructuring
   deal.
 image: https://www.yorkpress.co.uk/resources/images/21356518.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Jobs and much-loved York family business saved by restructure and pre-pack sale

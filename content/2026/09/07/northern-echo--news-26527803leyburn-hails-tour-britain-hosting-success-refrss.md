@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: A council has hailed the town’s hosting of the Tour of Britain as a success,
   while acknowledging that for some businesses and residents the event…
 image: https://www.thenorthernecho.co.uk/resources/images/21419386.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A council has hailed the town’s hosting of the Tour of Britain as a success, while acknowledging that for some businesses and residents the event was not “all raindrops and kittens”.

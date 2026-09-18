@@ -9,6 +9,10 @@ description: The Bolivian Defence Minister said the first explosion "involved bl
   powder from pyrotechnic material stored at the site," while the second, "much larger"
   blast was still being investigated.
 image: https://images.euronews.com/articles/stories/09/90/23/33/1200x675_cmsv2_466cbcf3-80b6-5ded-b393-cc587510b056-9902333.jpg
+categories:
+- Europe
+- News & Politics
+- True Crime
 ---
 
 ## The Bolivian Defence Minister said the first explosion "involved black powder from pyrotechnic material stored at the site," while the second, "much larger" blast was still being investigated.

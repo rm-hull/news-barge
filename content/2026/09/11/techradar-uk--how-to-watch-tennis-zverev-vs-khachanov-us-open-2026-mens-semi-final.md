@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: It’s a battle of the heavy hitters as the top seed takes on the powerful
   Russian
 image: https://cdn.mos.cms.futurecdn.net/vGNQtUTQVDzCVeuw6AAtXc-819-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Alexander Zverev rects against Alejandro Tabilo during a Men's Singles match on Day Seven of the 2026 US Open at USTA Billie Jean King National Tennis Center.](https://cdn.mos.cms.futurecdn.net/vGNQtUTQVDzCVeuw6AAtXc.jpg) 

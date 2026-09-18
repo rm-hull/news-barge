@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: A Darlington florist is celebrating their ruby milestone after 40 years
   of blooming success serving generations of customers.
 image: https://www.thenorthernecho.co.uk/resources/images/20871342.jpg?type=og-image&xType=0&yType=12
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A Darlington florist is celebrating its ruby milestone after 40 years of blooming success serving generations of customers.

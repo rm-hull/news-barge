@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Northumberland County Council is helping children in care participate
   in the Altra Kielder Marathon junior races.
 image: https://www.thenorthernecho.co.uk/resources/images/21378008.jpg?type=og-image&xType=0&yType=35
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: Supplied)*

@@ -9,6 +9,8 @@ published: '2026-08-26T00:00:00Z'
 description: A 'trusted' Linux device can impersonate an Apple device and access already-shared
   Find My locations
 image: https://cdn.mos.cms.futurecdn.net/AkzcwhimnzzysrwQDQfyAe-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Find My iPhone displayed in settings](https://cdn.mos.cms.futurecdn.net/AkzcwhimnzzysrwQDQfyAe.jpg) 

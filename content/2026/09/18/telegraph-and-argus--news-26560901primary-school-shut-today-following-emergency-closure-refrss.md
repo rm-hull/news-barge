@@ -7,6 +7,11 @@ scraped_at: '2026-09-18T13:00:42Z'
 published: '2026-09-18T00:00:00Z'
 description: A Bradford primary school has been forced to shut today.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21470995.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Google Maps)*

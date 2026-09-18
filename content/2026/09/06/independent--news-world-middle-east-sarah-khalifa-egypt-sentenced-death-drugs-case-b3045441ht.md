@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Khalifa is best known for hosting ‘Mission Impossible’, a programme focused
   on crime and security
 image: https://static.independent.co.uk/2026/09/06/8/38/pars-france-france.jpg?trim=449,229,322,121&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Egyptian television presenter Sarah Khalifa has been sentenced to death by hanging, along with 11 other defendants in a major drugs case, according to reports.

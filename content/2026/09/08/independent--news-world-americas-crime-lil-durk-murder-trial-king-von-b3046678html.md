@@ -10,6 +10,11 @@ description: Prosecutors contend that the 33-year-old rapper, whose real name is
   Banks, bankrolled and ordered a hit team to travel from Chicago to Los Angeles to
   kill rival Atlanta rapper Tyquian Bowman
 image: https://static.the-independent.com/2024/10/25/10/GettyImages-1978659877.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Music
 ---
 
 Closing arguments are expected today in the federal trial of Grammy-winning rapper Lil Durk, who is accused of orchestrating a targeted 2022 murder-for-hire that left a rival’s cousin dead in broad daylight near the Beverly Center.

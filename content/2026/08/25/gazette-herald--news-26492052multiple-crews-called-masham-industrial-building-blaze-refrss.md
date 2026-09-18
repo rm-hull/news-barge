@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: North Yorkshire Fire and Rescue Service said crews from Bedale, Leyburn,
   Ripon, Thirsk, Harrogate and Northallerton were called to Masham, near…
 image: https://www.gazetteherald.co.uk/resources/images/20979439.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: North Yorkshire Fire and Rescue Service)*

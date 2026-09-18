@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: AI can enhance leadership, but authenticity, judgement and trust remain
   human
 image: https://cdn.mos.cms.futurecdn.net/cnsWkMrXZfFuz5FGFGK72n-2309-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Workers gather around a desk in a futuristic office](https://cdn.mos.cms.futurecdn.net/cnsWkMrXZfFuz5FGFGK72n.jpg) 

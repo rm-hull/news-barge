@@ -9,6 +9,13 @@ published: '2026-09-18T00:00:00Z'
 description: Newcastle’s The Catalyst-based National Innovation Centre for Data has
   generated more than £140 million for the UK economy since launching nine…
 image: https://www.thenorthernecho.co.uk/resources/images/21468246.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 *(Image: Supplied)*

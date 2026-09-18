@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Thousands of Great North Runners will be greeted with messages of encouragement
   from friends, family and supporters as they make their way from…
 image: https://www.thenorthernecho.co.uk/resources/images/21435235.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: LUMO | INSTAGRAM)*

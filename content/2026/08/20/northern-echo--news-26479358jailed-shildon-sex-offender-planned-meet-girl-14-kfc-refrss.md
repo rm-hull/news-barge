@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: A former serviceman is starting his second long prison sentence over
   his continuing "sexual preoccupation with young girls".
 image: https://www.thenorthernecho.co.uk/resources/images/21343749.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Durham Constabulary)*

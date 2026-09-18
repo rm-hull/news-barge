@@ -8,6 +8,9 @@ published: '2026-08-22T00:00:00Z'
 description: On the latest episode of Equity, we wonder why the DOJ is investigating
   startup board seats.
 image: https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Following a Bloomberg report that the Department of Justice is investigating venture firm Andreessen Horowitz for holding board seats with rival AI companies, VCs told TechCrunch that they were baffled.

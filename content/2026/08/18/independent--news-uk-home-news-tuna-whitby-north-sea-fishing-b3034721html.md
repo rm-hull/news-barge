@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Hollywood stars like Clark Gable and David Niven were drawn to the area
   for the chance to catch the enormous 'Tunny' fish
 image: https://static.independent.co.uk/2026/08/18/8/50/BNPS_NorthSeaBluefinTuna_01.jpeg?trim=2057,0,721,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Anglers and conservationists are heralding the first bluefin tuna fish to be caught and landed in the North Sea for almost 90 years.

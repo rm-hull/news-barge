@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: Better Home & Finance is accusing its former CEO, Vishal Garg, of violating
   SEC rules in an attempt to forcibly take back the company
 image: https://static.independent.co.uk/2021/12/06/09/Vishal%20Garg%20Better%20dot%20com.jpg?trim=0,152,0,152&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 Vishal Garg — the former CEO who once fired 900 of his workers over a Zoom call — is now being sued by his own company.

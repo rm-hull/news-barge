@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: UK PM to announce support for France in setting up missile assembly lines
   during his Kyiv visit, as coalition of willing meets later today
 image: https://i.guim.co.uk/img/media/93773bfe720fcbdfe80dfe8b1cd5bbadcaa31357/949_1115_4204_3363/master/4204.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=9fd315f828751d1b328de7ac0e560e87
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Ukraine's foreign affairs minister Andrii Sybiha (left) greets UK prime minister Andy Burnham upon his arrival by train in Kyiv this morning. Photograph: Henry Nicholls/AFP/Getty Images

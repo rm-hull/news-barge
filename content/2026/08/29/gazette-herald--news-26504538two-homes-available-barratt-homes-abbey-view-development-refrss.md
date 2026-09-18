@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Just two homes remain for sale at Abbey View, a Barratt Homes' new-build
   development in Whitby.
 image: https://www.gazetteherald.co.uk/resources/images/20635359.jpg?type=og-image&xType=0&yType=167
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 *(Image: Barratt Homes)*

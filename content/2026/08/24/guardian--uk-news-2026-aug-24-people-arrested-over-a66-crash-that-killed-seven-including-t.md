@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Nine men and three women aged between 19 and 61 arrested as part of investigation
   of events leading to deadly collision
 image: https://i.guim.co.uk/img/media/704446d06ede8a2e2acc7449968d0897595800b6/160_0_3840_3073/master/3840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a37a54af4289f1d70c38b91022008ebb
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Twelve people have been arrested on suspicion of offences including being involved with organised crime as part of the investigation into events leading to a crash on the A66 that killed two police officers and five others.

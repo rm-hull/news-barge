@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Dr Mohamed Al Kuwaiti told Euronews the UAE was hit online and from the
   air at the same time, and says international law still has no answer for it.
 image: https://images.euronews.com/articles/stories/09/91/77/98/1200x675_cmsv2_c8667684-3ad9-5013-a0fc-480262731f30-9917798.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ## Dr Mohamed Al Kuwaiti told Euronews the UAE was hit online and from the air at the same time, and says international law still has no answer for it.

@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: In April 1970, Gloria Steinem invited Lynn Sherr, who was then an Associated
   Press feature writer, into her Manhattan home
 image: https://static.independent.co.uk/2026/09/03/14/Gloria_Steinem_197___6941.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 EDITOR'S NOTE: Gloria Steinem, who died Wednesday, was a freelance journalist who had not yet founded Ms. Magazine when she invited The Associated Press into her apartment for a feature on a life that found her equally comfortable at high-society dinners and in tenement halls.

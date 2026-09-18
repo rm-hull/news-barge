@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: China’s Jingdezhen porcelain sites were inscribed on UNESCO’s World Heritage
   List in 2026
 image: https://static.independent.co.uk/2026/09/17/02/China_Porcelain_Heritage_15237.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Arts & Culture
 ---
 
 Chinese porcelain artist Chen Qing has a vivid memory of her grandfather. It was the only time he wrote down the formula for her family’s distinctive red pigment.

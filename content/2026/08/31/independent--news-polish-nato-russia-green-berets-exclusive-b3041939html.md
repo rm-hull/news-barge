@@ -10,6 +10,10 @@ description: Members of the Polish special forces are taking part in an exercise
   simulates moving through enemy lines and launching a drone strike on a key enemy
   location
 image: https://static.independent.co.uk/2026/08/31/01/Germany_US_Ukraine_Military_Exercise_41374.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 On a moonless and rainy night, a group of soldiers emerged from a ramshackle building meant to resemble a church. The alpine terrain loomed over them as they quietly set off for the tree line of the German countryside a short distance away.

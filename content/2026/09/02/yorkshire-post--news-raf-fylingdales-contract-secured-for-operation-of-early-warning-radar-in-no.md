@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Government services provider Serco has renewed its contract for the operation
   and maintenance of the landmark radar at RAF Fylingdales in North Yorkshire.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmU2YWQ3MjIwLThkNzUtNDkyOC1iZTkyLTI2YTdiNDk3MTJhYjo5YTZkYWMzMi0xMTNkLTQyMTAtYWE1Yy01NDAwNTg1ODc2NDU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # RAF Fylingdales: Contract secured for operation of Early Warning Radar in North Yorkshire

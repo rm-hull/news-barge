@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T19:01:52Z'
 published: '2026-09-18T00:00:00Z'
 description: Penalties for Lifetime ISA withdrawals continue to soar
 image: https://static.independent.co.uk/2026/08/27/15/01K472P9RS8WF4W3QRQYYNYPBK.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Nearly £119m was lost by Lifetime ISA (LISA) holders last year due to much-criticised withdrawal rules, new HMRC data has revealed.

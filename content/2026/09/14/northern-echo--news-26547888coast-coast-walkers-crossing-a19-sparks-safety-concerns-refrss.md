@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Concerns that walkers on the Coast to Coast National Trail are putting
   themselves at risk by attempting to cross the A19 on foot are set to be…
 image: https://www.thenorthernecho.co.uk/resources/images/21451595.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 Concerns that walkers on the Coast to Coast National Trail are putting themselves at risk by attempting to cross the A19 on foot are set to be raised with the mayor of York and North Yorkshire.

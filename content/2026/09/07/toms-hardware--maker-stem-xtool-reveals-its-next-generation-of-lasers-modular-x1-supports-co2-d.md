@@ -8,6 +8,10 @@ scraped_at: '2026-09-07T14:13:56Z'
 published: '2026-09-07T00:00:00Z'
 description: The X1 will combine gantry and galvo technology in one machine.
 image: https://cdn.mos.cms.futurecdn.net/HPXbDwcuT5atbASBqEfme5-1999-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![xTool](https://cdn.mos.cms.futurecdn.net/HPXbDwcuT5atbASBqEfme5.jpg) 

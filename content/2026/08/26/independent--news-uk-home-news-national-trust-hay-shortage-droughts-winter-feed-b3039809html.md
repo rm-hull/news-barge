@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Hay meadows that normally produce 150 tonnes at Wimpole Estate in Cambridgeshire
   have yielded nothing, the conservation charity said
 image: https://static.independent.co.uk/2026/08/26/16/01M0YQA5Z161ZGMNH6T2DXB1Q1.jpg?trim=764,1267,973,1338&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Drought conditions have left a National Trust estate facing a hay shortage, with stalling grass growth forcing livestock onto winter feed months early.

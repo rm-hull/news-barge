@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: The tabloid boasted in a now-deleted article that they found White and
   promised to reveal her ‘secret new life’
 image: https://i.guim.co.uk/img/media/4723df1aef17144a6a6daaef2a992bb393928af9/0_315_3575_2858/master/3575.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3441694c102b115f832002b01cca8db8
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The Daily Mail newspaper secretly tailed and photographed a woman in Detroit and then published an article and photographs falsely accusing her of being former The White Stripes drummer Meg White, even after she told the newspaper it had mistaken her identity, multiple sources have told the Guardian.

@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: Xbox is seemingly rolling out a dynamic promotion for lapsed Game Pass
   subscribers.
 image: https://cdn.mos.cms.futurecdn.net/w45mwZVkeXsU9zTc2kScqg-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Xbox Game Pass](https://cdn.mos.cms.futurecdn.net/w45mwZVkeXsU9zTc2kScqg.jpg) 

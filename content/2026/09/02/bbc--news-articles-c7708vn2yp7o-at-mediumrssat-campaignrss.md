@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: City Hall officials say the Nissan Micra does not belong to the mayor
   or Transport for London.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d822/live/f901e500-a6ad-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Sadiq Khan wearing a blue suit](https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/d822/live/f901e500-a6ad-11f1-aed2-8d6da8d75094.jpg)

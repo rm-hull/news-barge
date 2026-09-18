@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Families are being invited to celebrate the end of summer with a free
   day of entertainment in Harrogate's Valley Gardens.
 image: https://mmo.aiircdn.com/409/6a8407214c9eba3d3e9.jpg
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8407214c9eba3d3e9.jpg) 

@@ -9,6 +9,10 @@ description: Malaysia hosts more than 215,000 refugees and asylum seekers regist
   with the UN refugee agency, including more than 126,000 Rohingya from Myanmar, its
   largest refugee community.
 image: https://images.euronews.com/articles/stories/09/89/17/07/1200x675_cmsv2_ce4c3b7e-d003-50cb-91dc-4bac37c55b5d-9891707.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Malaysia hosts more than 215,000 refugees and asylum seekers registered with the UN refugee agency, including more than 126,000 Rohingya from Myanmar, its largest refugee community.

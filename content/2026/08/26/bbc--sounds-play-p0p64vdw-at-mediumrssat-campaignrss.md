@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T23:24:29Z'
 published: '2026-08-26T00:00:00Z'
 description: What will Prince Harry and Meghan’s new life in the Cotswolds look like?
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 ## Episode details

@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Grassroots footballers will receive new kit and training equipment through
   a sponsorship from father-and-son McDonald’s franchisees investing in…
 image: https://www.yorkpress.co.uk/resources/images/21466924.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: Supplied)*

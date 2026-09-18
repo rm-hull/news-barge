@@ -10,6 +10,10 @@ description: Houthi fighters reached Perim Island which divides the Bab el-Mande
   takeover of the strait. Together with Iran's Hormuz blockade, this puts roughly
   a third of the world's seaborne trade under hostile control.
 image: https://images.euronews.com/articles/stories/09/90/99/08/1200x675_cmsv2_9d17efba-04ce-51c6-af32-36ff48811b1f-9909908.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Houthi fighters reached Perim Island which divides the Bab el-Mandeb into two shipping lanes after government forces withdrew, completing the group's takeover of the strait. Together with Iran's Hormuz blockade, this puts roughly a third of the world's seaborne trade under hostile control.

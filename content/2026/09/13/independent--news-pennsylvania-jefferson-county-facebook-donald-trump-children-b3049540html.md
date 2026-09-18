@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: A Pennsylvania woman's death is the state's third this year involving
   the measles virus
 image: https://static.independent.co.uk/2026/08/29/00/Measles_Deaths_658_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A Pennsylvania woman has died from complications associated with measles, the third death in the state this year involving the virus.

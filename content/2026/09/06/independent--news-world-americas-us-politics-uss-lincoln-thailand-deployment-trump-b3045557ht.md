@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: While in the resort town of Pattaya, some service members expressed that
   their main priority was FaceTiming their loved ones
 image: https://static.independent.co.uk/2026/09/02/12/Thailand_US_Carrier_71913.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 U.S. service members assigned to the USS *Abraham Lincoln* are speaking out about their record-long, nearly nine-month deployment at sea, during which they supported the ongoing Iran war.

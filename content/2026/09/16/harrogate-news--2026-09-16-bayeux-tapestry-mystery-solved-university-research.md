@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: A local university professor has completely rewritten history by solving
   the millennium-old riddle behind the design of the iconic Bayeux Tapestry.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/The-Yorkshire-Museum.-Image-Courtesy-of-York-Museums-Trust1.webp
+categories:
+- Local
+- Harrogate
+- History
 ---
 
 For centuries, international scholars fiercely debated why the masterpiece was configured in such a remarkably long, narrow strip. The answer has officially been uncovered by **Professor Christopher Norton**, Professor Emeritus of Art History, whose meticulous architectural analysis proved the textile was custom-made to fit precisely along the nave walls of Bayeux Cathedral for its consecration in 1077.

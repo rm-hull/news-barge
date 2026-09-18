@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: None of this is going to be especially reassuring in the post-apocalyptic
   wasteland, even if we do 'beat China', writes Holly Baxter
 image: https://static.independent.co.uk/2026/09/14/10/2294722142..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 If you were wondering who’s going to stop AI from gaining consciousness, going rogue and messing with the nuclear codes ... or turning off the electric grid ... or shutting down air traffic control, I have some good news. The answer is Donald Trump.

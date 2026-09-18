@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: A heartbroken Newton Aycliffe family have set off on a rat run to Benidorm
   in memory of a nine-year-old girl who died just 24 hours after being…
 image: https://www.thenorthernecho.co.uk/resources/images/21364839.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A heartbroken family have set off on a charity road trip in memory of a nine-year-old girl who died just 24 hours after being diagnosed with cancer.

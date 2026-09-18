@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Almost half a million free books have been handed out to children across
   Bradford through a scheme created by legendary music star Dolly Parton who…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21376289.jpg?type=og-image&yType=5
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: Jan Winters)*

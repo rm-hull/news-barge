@@ -8,6 +8,13 @@ published: '2026-09-18T00:00:00Z'
 description: The alleged incident is said to have happened in the early hours of Thursday
   (September 17) in the alleyway linking Spurriergate with Church Lane.
 image: https://www.gazetteherald.co.uk/resources/images/21467732.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 *(Image: Kevin Glenton)*

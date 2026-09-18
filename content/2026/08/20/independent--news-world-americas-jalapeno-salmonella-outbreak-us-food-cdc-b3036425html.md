@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Salmonella is responsible for an average of 1.35 million infections in
   the U.S. each year
 image: https://static.independent.co.uk/2026/06/05/07/2219174151..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The number of salmonella cases linked to Mexican jalapeños contaminated with the life-threatening bacteria is growing across the U.S., new federal data shows.

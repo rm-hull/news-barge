@@ -7,6 +7,12 @@ scraped_at: '2026-09-08T12:51:03Z'
 published: '2026-09-08T00:00:00Z'
 description: A NEW food van has been named in honour of a long-serving catering manager.
 image: https://www.thenorthernecho.co.uk/resources/images/21421872.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

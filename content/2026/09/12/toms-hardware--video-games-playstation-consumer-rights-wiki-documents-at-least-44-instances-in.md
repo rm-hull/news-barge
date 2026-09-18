@@ -10,6 +10,10 @@ published: '2026-09-12T00:00:00Z'
 description: The detailed sourcing directly attacks Sony's legal claim that a reasonable
   person wouldn't expect to own their digital purchases on the PlayStation Store.
 image: https://cdn.mos.cms.futurecdn.net/iEPZmfxkTcaDCWyzQMRdcZ-2353-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Jack Tretton proudly announces that the PlayStation 4 supports used games during the system's launch showcase in 2014.](https://cdn.mos.cms.futurecdn.net/iEPZmfxkTcaDCWyzQMRdcZ.jpg) 

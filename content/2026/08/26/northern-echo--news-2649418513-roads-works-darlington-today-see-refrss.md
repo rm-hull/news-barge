@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: Drivers face 13 sets of road restrictions, including the A68 Woodland
   Road and Faverdale.
 image: https://www.thenorthernecho.co.uk/resources/images/21148761.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- Automotive
 ---
 
 *(Image: GOOGLE)*

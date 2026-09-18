@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A woman whose husband died from an aggressive form of skin cancer is
   urging new Prime Minister Andy Burnham to make reforms to bereavement payments.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21340492.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 A WOMAN whose husband died from an aggressive form of skin cancer is urging new Prime Minister Andy Burnham to make reforms to bereavement payments.

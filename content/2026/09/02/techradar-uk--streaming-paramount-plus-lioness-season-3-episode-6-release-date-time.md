@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: Two timelines are becoming messier by the minute... and that's not exactly
   a good thing. So, when does Lioness season 3 episode 6 arrive on Paramount+?
 image: https://cdn.mos.cms.futurecdn.net/DdnNgW3YfqtYJh3BsgZenE-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Byron and Kaitlyn look across a desk](https://cdn.mos.cms.futurecdn.net/DdnNgW3YfqtYJh3BsgZenE.jpg) 

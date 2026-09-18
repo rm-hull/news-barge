@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Nixon bested Alexander Vindman to win Democratic nomination and now faces
   Republican Ashley Moody in November
 image: https://i.guim.co.uk/img/media/10698ec1c01975d93a532605c8596f9c33705ed9/902_0_4558_3648/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2c83d16b1334916a788f70026e48ddae
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 In an upset for the Democratic establishment, progressive Angie Nixon won the party’s US Senate primary in Florida, beating former army intelligence officer Alexander Vindman.

@@ -9,6 +9,9 @@ published: '2026-08-22T00:00:00Z'
 description: The two-day racing extravaganza is expected to draw upwards of 140,000
   spectators, the city’s mayor has said
 image: https://static.independent.co.uk/2026/08/21/17/41/GettyImages-2290493130.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Freedom 250 Grand Prix begins today in Washington, D.C., bringing high-speed, IndyCar racing to streets around the National Mall for the first time.

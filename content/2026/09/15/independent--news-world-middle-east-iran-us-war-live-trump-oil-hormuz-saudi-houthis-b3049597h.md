@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Oil prices rose by 3% to over $108 on Monday after new Houthi strikes
   on Saudi Arabia and Iranian attacks on ships in the Gulf
 image: https://static.independent.co.uk/2026/09/09/09/2026-09-08T134501Z_1198003014_RC2MDNAPQOXP_RTRMADP_3_IRAN-CRISIS-SOUTH-KOREA.JPG?trim=0,524,0,524&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 US President Donald Trump has said he is “open” to negotiations with Iran, but stressed the final decision rests with him.

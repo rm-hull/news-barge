@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Real Madrid have a strong interest in signing 15-year-old Manchester
   United forward JJ Gabriel.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8d9e/live/4aa28b40-b26a-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Manchester United forward JJ Gabriel](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8d9e/live/4aa28b40-b26a-11f1-b1d1-571ed4d7ff2c.jpg)

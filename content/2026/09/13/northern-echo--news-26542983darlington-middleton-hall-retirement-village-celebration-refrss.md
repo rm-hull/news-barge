@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: BALLROOM and Latin dancing sparked a week of celebration for a retirement
   community.
 image: https://www.thenorthernecho.co.uk/resources/images/21441403.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 BALLROOM and Latin dancing sparked a week of celebration for a retirement community.

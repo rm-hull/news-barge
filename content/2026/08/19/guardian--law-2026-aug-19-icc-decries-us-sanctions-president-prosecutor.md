@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Trump administration put sanctions on the international criminal court’s
   president and a senior trial lawyer
 image: https://i.guim.co.uk/img/media/e431a3e1e8bd6e0a01c8abb8e19bf2af56d4f9b0/458_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=75978595ac02da9d194c35342682cd6b
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 The international criminal court on Wednesday condemned the latest US sanctions targeting senior ICC staff, including its president, as a “flagrant attack” on the global tribunal’s independence and vowed to continue seeking justice for atrocities around the world.

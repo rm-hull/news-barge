@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: North Yorkshire Police said it happened at around 11.40am on Friday,
   August 21 in Haxby, in York Road near the junction with Holly Tree Lane.
 image: https://www.yorkpress.co.uk/resources/images/19226588.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
+- News & Politics
 ---
 
 *(Image: Newsquest)*

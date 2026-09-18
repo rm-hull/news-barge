@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Andrew Luke, 53, of Bailey Rise, Peterlee, has been fined after admitting
   assault by beating a woman and using threatening or abusive behaviour…
 image: https://www.thenorthernecho.co.uk/resources/images/19733238.jpg?type=og-image&yType=592
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: The Northern Echo)*

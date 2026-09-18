@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: A learner driver was stopped by police in Stockton, driving an uninsured
   car with a tyre worn down to the cords during a roadside safety check.
 image: https://www.thenorthernecho.co.uk/resources/images/20664981.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 A learner driver was caught behind the wheel of an uninsured car with a tyre worn down to the cords during a police stop in Teesside.

@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Angelynn Mock, formerly of KTVI Fox 2 in St Louis, thought her elderly
   mom was “the devil”
 image: https://static.the-independent.com/2026/08/25/11/23/angie-mock-split-9869333d.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A former news anchor has pleaded guilty to stabbing her mother to death on Halloween morning last year.

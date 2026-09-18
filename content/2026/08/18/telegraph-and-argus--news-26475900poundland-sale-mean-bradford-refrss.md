@@ -9,6 +9,12 @@ published: '2026-08-18T00:00:00Z'
 description: A HIGH street giant which employs more than 12,000 workers could be up
   for sale, less than a year after it changed hands.
 image: https://www.thetelegraphandargus.co.uk/resources/images/16085514.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Poundland)*

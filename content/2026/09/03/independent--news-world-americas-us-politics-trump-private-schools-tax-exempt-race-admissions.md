@@ -9,6 +9,11 @@ description: Under a proposed rule, schools would lose their tax-exempt status i
   they considered race in schools programs such as admissions, scholarships, athletics
   and more
 image: https://static.independent.co.uk/2026/09/03/21/2250795897..?trim=0,163,0,163&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
+- Society & Culture
 ---
 
 The Trump administration wants to disqualify private schools from tax-exempt status if they consider race in school programs, impacting as many as 18,000 educational institutions.

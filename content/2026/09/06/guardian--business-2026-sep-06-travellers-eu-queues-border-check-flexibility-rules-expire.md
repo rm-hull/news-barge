@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Sources indicate some members states will not enforce EES biometric controls
   after 6 September deadline
 image: https://i.guim.co.uk/img/media/028814bd68a4796d9e854133b481c4781c98306e/93_193_4343_3474/master/4343.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=80e47138b60b9173f346a99e5c1cb0ab
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Travellers to the EU could face renewed border queues as flexibility measures for the bloc’s entry-exit system officially come to an end – although numerous sources have indicated that some member states will not enforce biometric checks.

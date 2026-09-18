@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Leaders of the BRICS nations are meeting in New Delhi for a summit focused
   on trade, investment and global conflicts
 image: https://static.independent.co.uk/2026/09/12/05/India_BRICS_9517_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Leaders of the BRICS nations were meeting in New Delhi on Saturday for a summit focused on trade, investment and global conflicts, as the bloc seeks a bigger role in shaping the global agenda for emerging and developing countries.

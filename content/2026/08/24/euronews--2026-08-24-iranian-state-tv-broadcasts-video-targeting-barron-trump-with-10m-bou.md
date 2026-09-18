@@ -9,6 +9,10 @@ description: Tehran state-run media has broadcast footage purportedly tracking U
   President Donald Trump's youngest son, showing the location of his university, escort
   vehicles and Secret Service posts, and alleging his movements were "fully monitored".
 image: https://images.euronews.com/articles/stories/09/88/56/71/1200x675_cmsv2_5beb1805-1d75-5fe8-ac04-e4dba037b7e0-9885671.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 **Euronews Persian**

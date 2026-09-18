@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T13:23:14Z'
 published: '2026-09-17T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/03/york-station-platform-5-train-information-boards-2026.webp
+categories:
+- Local
+- York
+- True Crime
 ---
 
 Rail passengers travelling between Leeds, York and Selby face disruption today (Thursday).

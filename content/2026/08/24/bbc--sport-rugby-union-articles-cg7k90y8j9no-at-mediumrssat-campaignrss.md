@@ -8,6 +8,9 @@ published: '2026-08-24T00:00:00Z'
 description: Sacha Feinberg-Mngomezulu pays for an indifferent showing in South Africa's
   series opener against New Zealand, as the fly-half drops to the Springbok bench.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/70f0/live/1fde1c70-9fab-11f1-bff6-57f1422ebb0b.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Sacha Feinberg-Mngomezulu is stripped of possession by New Zealand](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5155/live/8ef132d0-9fa8-11f1-bff6-57f1422ebb0b.jpg)

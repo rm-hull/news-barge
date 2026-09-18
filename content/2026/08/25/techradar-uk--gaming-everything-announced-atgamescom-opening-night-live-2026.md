@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T20:41:00Z'
 published: '2026-08-25T00:00:00Z'
 description: Everything announced at Gamescom Opening Night Live 2026.
 image: https://cdn.mos.cms.futurecdn.net/2thWLsYKojL53QHbwm7yr3-1280-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
+- Sports
 ---
 
 ![Gamescom 2026](https://cdn.mos.cms.futurecdn.net/2thWLsYKojL53QHbwm7yr3.jpg) 

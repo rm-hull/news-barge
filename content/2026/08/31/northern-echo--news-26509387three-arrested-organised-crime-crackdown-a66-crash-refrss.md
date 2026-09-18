@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Three more people have been arrested as Cleveland Police continues a
   major crackdown on serious and organised crime launched in the wake of the…
 image: https://www.thenorthernecho.co.uk/resources/images/21357921.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: North News & Pictures Ltd)*

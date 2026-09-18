@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: A plan to convert a Salem Street property into a six-bedroom HMO has
   been rejected after more than 100 people signed a petition opposing the…
 image: https://www.thenorthernecho.co.uk/resources/images/21378230.jpg?type=og-image&xType=0&yType=81
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Google Maps)*

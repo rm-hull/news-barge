@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: Advocates and experts describe the Trump administration’s climate rollbacks
   as gifts to polluters at expense of planet
 image: https://i.guim.co.uk/img/media/ea860ffeb44fb7a2e26a2b1fb0f0399ec819d0c5/611_0_6125_4899/master/6125.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb4fa0be6968bc74d55e106aae4552f1
+categories:
+- UK
+- News & Politics
 ---
 
 The US Environmental Protection Agency (EPA) is poised to formally repeal carbon pollution standards for coal- and gas-fired power plants, according to reports.

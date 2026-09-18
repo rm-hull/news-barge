@@ -9,6 +9,9 @@ published: '2026-09-14T00:00:00Z'
 description: Britain has told Afghans to find their own way to the UK. But the new
   route is paved with danger, as Holly Bancroft finds out
 image: https://static.independent.co.uk/2026/08/28/12/23/a.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Farhad, a former sergeant in the Afghan special forces, spent his days hiding in the hotel room he shares with two of his daughters, aged 17 and nine, and his four-year-old son.

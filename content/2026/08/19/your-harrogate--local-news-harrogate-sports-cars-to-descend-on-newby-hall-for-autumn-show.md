@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Car enthusiasts are set to descend on Newby Hall next month as a popular
   motoring show returns to the historic estate.
 image: https://mmo.aiircdn.com/409/662269b53e34e.jpg
+categories:
+- Local
+- Harrogate
+- Automotive
 ---
 
 ![](https://mmo.aiircdn.com/409/662269b53e34e.jpg) 

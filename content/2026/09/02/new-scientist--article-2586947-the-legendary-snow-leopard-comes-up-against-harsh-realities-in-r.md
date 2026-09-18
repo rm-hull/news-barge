@@ -10,6 +10,9 @@ description: In Kulbhushansingh Suryawanshi's The Ghost of the Mountains, the ne
   myth of the elusive snow leopard becomes a way of understanding all that we stand
   to lose from the forces of climate change
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309445169.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Snow leopard. Wild {Panthera uncia} Ladakh, India](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309445169.jpg?w=840)

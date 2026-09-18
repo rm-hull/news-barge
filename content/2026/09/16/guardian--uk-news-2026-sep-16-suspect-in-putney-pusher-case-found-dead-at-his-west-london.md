@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: HSBC director Nicholas Brandram, 44, was found unresponsive by emergency
   services on Tuesday evening
 image: https://i.guim.co.uk/img/media/ace8d34a02d532850e404de4ab0c8ca6fdf2246e/0_0_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5e71d1e58e9a63d34c66ec24d7ef050c
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 A senior city banker suspected of pushing a woman into the path of a moving bus in the “Putney pusher” case has been found dead.

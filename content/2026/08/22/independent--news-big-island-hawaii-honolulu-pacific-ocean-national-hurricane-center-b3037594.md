@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: The National Hurricane Center says Tropical Storm Moke has formed in
   the Pacific Ocean
 image: https://static.independent.co.uk/2026/08/22/18/Tropical_Weather_Hawaii_Extreme_Weather__4_37.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Tropical Storm Moke advanced toward Hawaii Saturday, likely bringing more heavy rainfall and strong gusts to the Big Island, where residents are still dealing with the aftermath of heavy flooding and damaging winds from Hurricane Lala.

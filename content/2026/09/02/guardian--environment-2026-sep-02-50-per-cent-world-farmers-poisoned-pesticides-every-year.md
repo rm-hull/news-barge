@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Study reveals that pesticide poisoning kills 11,000 people each year,
   with India accounting for nearly 60% of fatalities
 image: https://i.guim.co.uk/img/media/52efe842cca5785b2f13b82605be6d0460ca734c/741_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d69ce62d17a56d379dbf41f200a6861a
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 Almost half of the world’s farmers are poisoned by pesticides every single year, a study has found.

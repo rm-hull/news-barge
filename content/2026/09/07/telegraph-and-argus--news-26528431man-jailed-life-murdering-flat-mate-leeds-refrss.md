@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: A man has been jailed for life after being found guilty of murdering
   his flat-mate in a brutal attack on New Year's Day.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21420530.jpg?type=og-image&xType=0&yType=425
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

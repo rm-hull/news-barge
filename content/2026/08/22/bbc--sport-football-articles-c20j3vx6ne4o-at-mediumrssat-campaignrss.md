@@ -10,6 +10,10 @@ description: Tottenham midfielder James Maddison says having five children aged 
   and under - including a second set of twins - helpfully distracted him from his
   ACL injury last season.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a155/live/9df36a60-9c78-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 My family got me through injury - Maddison

@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Relatives of missing tourists asked for blood samples and photos, as
   efforts continue to rescue trapped hydropower workers
 image: https://i.guim.co.uk/img/media/e9520f579e6ca9edd8cf949416cbd4d34caf03c2/609_0_4171_3338/master/4171.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f396a4900c7e8dc3fc55b8fd8f146a6b
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Nepali rescuers have built temporary bridges to reach remote areas and dug through the ruins of hydropower projects in the Himalayas to rescue hundreds of trapped workers, as the death toll passed 1,000 nearly a week after devastating floods left a trail of destruction across the country’s towns and valleys.

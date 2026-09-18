@@ -7,6 +7,8 @@ scraped_at: '2026-08-19T08:52:54Z'
 published: '2026-08-19T00:00:00Z'
 description: AI anxiety is driving skilled workers to quit
 image: https://cdn.mos.cms.futurecdn.net/EfTsAupcDos9r8i2UJGKUM-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A female office worker looking on as a male office worker types on a keyboard in front of a monitor](https://cdn.mos.cms.futurecdn.net/EfTsAupcDos9r8i2UJGKUM.jpg) 

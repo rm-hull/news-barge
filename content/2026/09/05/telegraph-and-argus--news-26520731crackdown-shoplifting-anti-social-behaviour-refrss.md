@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Police have launched a crackdown on shoplifting and anti-social behaviour
   at retail sites along Valley Road as officers set out their latest…
 image: https://www.thetelegraphandargus.co.uk/resources/images/12543707.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: T&A)*

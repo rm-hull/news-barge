@@ -9,6 +9,13 @@ description: Potentially life-saving health checks are being offered for free to
   across North Yorkshire after tens of thousands of people in the county are estimated
   to be undiagnosed with high blood pressure.
 image: https://www.northyorks.gov.uk/sites/default/files/2026-09/Know%20your%20Numbers%20image%201.jpg
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- Health & Fitness
+- Society & Culture
 ---
 
 ![Someone taking a blood pressure reading](https://www.northyorks.gov.uk/sites/default/files/2026-09/Know%20your%20Numbers%20image%201.jpg) 

@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Lando Norris takes a superb pole position for McLaren at the Spanish
   Grand Prix, beating Mercedes' Kimi Antonelli and Red Bull's Max Verstappen.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/05ff/live/d42b5e60-aebd-11f1-ae38-d350b022f499.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Lando Norris clenches his left fist in celebration while holding the pole position award at the Spanish Grand Prix](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/05ff/live/d42b5e60-aebd-11f1-ae38-d350b022f499.jpg)

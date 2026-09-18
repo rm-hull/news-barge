@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: An Ohio man has been found incompetent to stand trial after his 16 grandchildren
   were found living in filthy conditions
 image: https://static.the-independent.com/2026/09/09/23/Ohio_Abused_Children_3167_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 An Ohio grandfather accused of keeping 16 of his grandchildren trapped in a filth-ridden 'house of horrors' has been declared mentally unfit to face trial over the horrific neglect.

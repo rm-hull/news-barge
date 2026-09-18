@@ -10,6 +10,12 @@ description: Fiscal devolution is important if the Prime Minister is going to pu
   a tourist tax is a step in that direction. How the mayors wield these powers will
   be key to how welcoming people are.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE4NWYyODhjLWFiYzctNGZhOS1iZjYxLTZlMDY3MjQzMWE1ZToxNzIzZDI0Ni1jZjU5LTQ1MDYtYTMyZC05ODZiNTk2YzNkNzQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # Tourism tax must not be allowed to damage regional economies

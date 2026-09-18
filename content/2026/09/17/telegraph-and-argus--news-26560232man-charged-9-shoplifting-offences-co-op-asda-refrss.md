@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: A man has been charged with a series of shoplifting offences at stores
   in Bradford and Guiseley.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20228996.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Police Scotland)*

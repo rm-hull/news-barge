@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Doctors told Elle Black if she had gone to hospital later the outcome
   could have been quite different.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/746d/live/f6018bc0-a96a-11f1-b850-096ea2f533db.jpg
+categories:
+- UK
+- News & Politics
+- Science
+- Health & Fitness
 ---
 
 ![A girl with curly dark hair, wearing a white dress and black graduation cap and gown. She is stood in front of a flowerbed of pink flowers, with trees and people in the background, and is smiling at the camera.](https://ichef.bbci.co.uk/ace/standard/788/cpsprodpb/746d/live/f6018bc0-a96a-11f1-b850-096ea2f533db.jpg)

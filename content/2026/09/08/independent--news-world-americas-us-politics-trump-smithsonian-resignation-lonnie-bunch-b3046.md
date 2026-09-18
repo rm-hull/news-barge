@@ -7,6 +7,9 @@ scraped_at: '2026-09-08T19:25:01Z'
 published: '2026-09-08T00:00:00Z'
 description: Lonnie Bunch says the decision has been made ‘with very mixed emotions’
 image: https://static.independent.co.uk/2026/09/08/18/2245077622..?trim=651,726,84,376&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Lonnie Bunch, the first Black secretary of the Smithsonian Institution, has announced that he will retire from the role.

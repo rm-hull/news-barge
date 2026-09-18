@@ -10,6 +10,11 @@ description: A Florida grand jury report, submitted to the court earlier this ye
   determined Florida officials ‘misappropriated’ $10 million of a $67 million settlement
   intended to repay those who were over-billed for medical services for children
 image: https://static.independent.co.uk/2026/08/27/17/1244624302..?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Personal Finance & Investing
 ---
 
 A Florida grand jury reportedly found that members of Governor Ron DeSantis’ administration “misappropriated” $10 million in taxpayer-owed settlement funds to an organization affiliated with Casey DeSantis to be used on political activities.

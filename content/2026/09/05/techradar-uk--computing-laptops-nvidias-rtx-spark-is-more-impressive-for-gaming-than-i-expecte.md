@@ -9,6 +9,8 @@ published: '2026-09-05T00:00:00Z'
 description: Nvidia's RTX Spark left a strong, long-lasting impression on me after
   my hands-on at Gamescom 2026, and I'm hoping handheld makers might step up.
 image: https://cdn.mos.cms.futurecdn.net/CFqnGgUPQWSVvYu2dUtXnm-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![RTX Spark-enabled laptops on a black stage](https://cdn.mos.cms.futurecdn.net/CFqnGgUPQWSVvYu2dUtXnm.jpg) 

@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Blackberry, blueberry and raspberry yields have been particularly strong,
   the British Berry Growers said
 image: https://static.independent.co.uk/2026/08/27/08/2291817057..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 Britain has seen a bumper berry crop after a record-breaking summer has caused concern for farmers with wildfires and water shortages.

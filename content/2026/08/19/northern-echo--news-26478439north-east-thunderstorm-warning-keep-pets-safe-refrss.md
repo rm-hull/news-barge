@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Pet owners are being urged to prepare for thunderstorms in the North
   East, with vets sharing advice on reducing anxiety and preventing animals from…
 image: https://www.thenorthernecho.co.uk/resources/images/16100567.jpg?type=og-image&xType=0&yType=35
+categories:
+- Local
+- UK
+- News & Politics
+- Pets & Animals
 ---
 
 Pet owners are being urged to prepare their cats and dogs for thunderstorms expected to hit the North East over the next two days.

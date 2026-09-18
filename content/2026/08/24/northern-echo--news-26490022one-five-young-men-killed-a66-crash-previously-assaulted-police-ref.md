@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: One of the five young men killed in the devastating A66 crash had previously
   admitted assaulting police officers, court records reveal.
 image: https://www.thenorthernecho.co.uk/resources/images/21363565.jpg?type=og-image&xType=0&yType=52
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 One of the five young men killed in the devastating A66 crash had previously admitted assaulting police officers, court records have revealed.

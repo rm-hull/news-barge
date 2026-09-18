@@ -9,6 +9,10 @@ description: The American chipmaker launched what they have described as a ‘pe
   supercomputer’ in Berlin on Friday, designed and made for a “completely new era
   of computing” driven by AI.
 image: https://images.euronews.com/articles/stories/09/90/46/69/1200x675_cmsv2_7aa071d9-e235-5fe2-9be5-38f4b60909a3-9904669.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## The American chipmaker launched what they have described as a ‘personal supercomputer’ in Berlin on Friday, designed and made for a “completely new era of computing” driven by AI.

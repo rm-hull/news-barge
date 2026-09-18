@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: Government lawyers tell coroner disclosing intelligence would pose serious
   risk to national security
 image: https://i.guim.co.uk/img/media/7a2d7ba0af4f1476b6ed17b1a5f1c46f488b0f3b/982_0_4910_3928/master/4910.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1a2b4e12bfe4c4f0500b9e160a72625
+categories:
+- UK
+- News & Politics
 ---
 
 Ministers are seeking to block intelligence material from being heard at an inquest into the death of two men killed in the 2025 Manchester synagogue attack.

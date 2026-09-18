@@ -10,6 +10,10 @@ description: US Treasury Secretary Scott Bessent has announced the launch of wha
   greatest financial offensive ever directed at an adversary, with further details
   due later on Monday.
 image: https://images.euronews.com/articles/stories/09/88/59/85/1200x675_cmsv2_6cd28975-e8aa-547d-a8bc-2586957f3f7d-9885985.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## US Treasury Secretary Scott Bessent has announced the launch of what he calls an 'economic D-Day' against Iran, describing the campaign as the single greatest financial offensive ever directed at an adversary, with further details due later on Monday.

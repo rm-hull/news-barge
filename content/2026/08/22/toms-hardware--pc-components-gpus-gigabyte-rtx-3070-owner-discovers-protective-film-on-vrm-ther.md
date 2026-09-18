@@ -9,6 +9,9 @@ scraped_at: '2026-08-22T12:56:42Z'
 published: '2026-08-22T00:00:00Z'
 description: Assembly error causes RTX 3070 to run hot.
 image: https://cdn.mos.cms.futurecdn.net/MiHtw2ttm6WuGbJUdv8KXD-1365-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Protective film on top of the VRM thermal pads spotted inside a Gigabyte RTX 3070 GPU](https://cdn.mos.cms.futurecdn.net/MiHtw2ttm6WuGbJUdv8KXD.jpg) 

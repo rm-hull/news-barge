@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Lethal autonomous weapon systems are generally understood as weapon systems
   that select targets and apply force without human intervention.
 image: https://images.euronews.com/articles/stories/09/88/77/43/1200x675_cmsv2_7755412b-b3cd-5e7d-a0e5-78579c0c70ab-9887743.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## Lethal autonomous weapon systems are generally understood as weapon systems that select targets and apply force without human intervention.

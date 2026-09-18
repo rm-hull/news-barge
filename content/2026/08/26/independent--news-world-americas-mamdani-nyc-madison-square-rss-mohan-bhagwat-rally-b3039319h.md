@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Mohan Bhagwat, chief of the Rashtriya Swayamsevak Sangh (RSS), is scheduled
   to speak at a Manhattan event
 image: https://static.independent.co.uk/2026/08/26/06/2288495125..?trim=0,3,0,3&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 New York City mayor Zohran Mamdani said on Tuesday he did not support an upcoming event in his city featuring the leader of the Hindu nationalist group that is the ideological parent of India's ruling Bharatiya Janata Party (BJP).

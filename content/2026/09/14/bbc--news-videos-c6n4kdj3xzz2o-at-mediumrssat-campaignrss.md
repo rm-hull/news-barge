@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Chief political correspondent Henry Zeffman explains who's behind Reform
   UK's £72m in donations.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee4a/live/2b7526a0-b031-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 # What you need to know about the huge donations to Reform UK

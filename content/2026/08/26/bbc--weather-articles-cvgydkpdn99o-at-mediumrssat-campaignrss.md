@@ -9,6 +9,10 @@ description: The Met Office has issued fresh thunderstorm warnings for Thursday 
   the potential for England and Wales to see flash flooding as the unsettled weather
   continues.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/e8aa/live/6a6817c0-a148-11f1-9311-09d4e1fc9016.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Two people stand under a pink umbrella sheltering from the rain with the Westminster skyline in the background](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/e8aa/live/6a6817c0-a148-11f1-9311-09d4e1fc9016.jpg)

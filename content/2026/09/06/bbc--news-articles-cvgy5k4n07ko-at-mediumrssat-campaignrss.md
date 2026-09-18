@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: More than 150,000 airline passengers are stranded after ash was detected
   in airspace near Jakarta following the eruptions.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9193/live/bc786310-a9bf-11f1-a47c-49756d8d78ae.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Watch: Lava fountain and ash cloud as Indonesia volcano erupts

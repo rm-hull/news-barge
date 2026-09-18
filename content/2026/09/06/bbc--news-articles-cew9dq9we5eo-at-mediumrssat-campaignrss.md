@@ -8,6 +8,9 @@ published: '2026-09-06T00:00:00Z'
 description: The "exceptionally well organised" protest "caught several agencies on
   the hoof", the leader says.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fdf3/live/eadd6010-a9d9-11f1-803f-7f2a9199ddc4.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 Masked men chanting "stop the boats" at Port of Dover

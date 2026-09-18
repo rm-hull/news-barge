@@ -10,6 +10,10 @@ description: Indonesian rescuers on Wednesday are searching for five photojourna
   two crew members and a guide who went missing while traveling by speedboat to cover
   eruptions of Anak Krakatau volcano in the Sunda Strait
 image: https://static.independent.co.uk/2026/09/09/05/Indonesia_Volcano_Eruption_45533.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Indonesian rescuers searched for eight people who went missing at sea while heading the island of Anak Krakatau to report on a volcanic eruption, officials said Wednesday.

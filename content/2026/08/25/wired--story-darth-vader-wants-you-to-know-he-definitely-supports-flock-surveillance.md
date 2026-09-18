@@ -9,6 +9,9 @@ description: Anthony Ralphs was frustrated by the San Diego City Council's suppo
   for Flock. He decided it would take something more than reasoned argument to get
   their attention.
 image: https://media.wired.com/photos/6a8cc344dd042d49c2d1d2d3/191:100/w_1280,c_limit/Politics_%E2%80%98Darth%20Vader%E2%80%99%20Explains%20His%20Pro-Flock%20Stance_v1.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 At the San Diego City Council’s most recent budget meeting, Sith Lord Darth Vader had some points to make. Between gasping breaths, Vader praised the council’s recent votes to renew its contract with the surveillance company Flock Safety, which has been making headlines recently as more and more stories of police officers abusing its tools have continued to come out—and as a WIRED review of code for a new AI tool already in use by some police departments has made clear that it is watching far more than just license plates.

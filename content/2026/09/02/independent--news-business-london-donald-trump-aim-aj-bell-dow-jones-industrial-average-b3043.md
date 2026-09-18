@@ -7,6 +7,12 @@ scraped_at: '2026-09-02T19:22:05Z'
 published: '2026-09-02T00:00:00Z'
 description: .
 image: https://static.independent.co.uk/2026/09/02/17/eb257f10349290a5a636f9442650c0f2Y29udGVudHNlYXJjaGFwaSwxNzg4NDUyMjMw-2.73406289.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Stocks in London fell on Wednesday as elevated oil prices and bond yields pushed investors to the sidelines, with looming US jobs data adding to the cautious mood.

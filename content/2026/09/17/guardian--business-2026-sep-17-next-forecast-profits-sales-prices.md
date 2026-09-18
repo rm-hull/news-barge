@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: FTSE 100 retailer, which owns UK rights to US brands Gap and Victoria’s
   Secret, says prices could rise in autumn
 image: https://i.guim.co.uk/img/media/783e8775f03d3afbdfe7a6ba2d8abef6f3784815/644_446_3558_2846/master/3558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4a24fdb92fa3b7453a51d3b815b1a2f6
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Next has thanked warmer weather for an “unexpected” boost in sales, leading the clothing retailer to raise its profit forecasts for the fourth time this year.

@@ -8,6 +8,9 @@ published: '2026-08-30T00:00:00Z'
 description: Nvidia’s AI hardware push is getting even bigger as AWS prepares massive
   new computing capacity for customers worldwide
 image: https://cdn.mos.cms.futurecdn.net/THrQgcJizbtksGzNr9f3qb-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Nvidia Blackwell GPU](https://cdn.mos.cms.futurecdn.net/THrQgcJizbtksGzNr9f3qb.jpg) 

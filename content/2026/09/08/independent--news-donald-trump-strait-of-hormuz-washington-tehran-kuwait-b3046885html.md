@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: The U.S. has struck multiple Iranian tankers in response to more attempted
   missile attacks on a Navy warship
 image: https://static.independent.co.uk/2026/09/07/22/APTOPIX_Iran_War_Strait_of_Hormuz_29749.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The U.S. on Tuesday struck multiple Iranian tankers in response to more attempted missile attacks on a Navy warship, according to a U.S. official, who spoke on condition of anonymity to discuss sensitive military operations.

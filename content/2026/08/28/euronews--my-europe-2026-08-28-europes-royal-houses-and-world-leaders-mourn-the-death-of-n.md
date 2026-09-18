@@ -9,6 +9,10 @@ description: 'Europe''s oldest reigning monarch, King Harald had been in hospita
   in Oslo since 17 August, suffering from haemolytic anaemia, a condition caused by
   an abnormally rapid destruction of red blood cells. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/35/23/1200x675_cmsv2_657370fb-0eb8-5339-8a83-43f1e2783ec1-9893523.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Europe's oldest reigning monarch, King Harald had been in hospital in Oslo since 17 August, suffering from haemolytic anaemia, a condition caused by an abnormally rapid destruction of red blood cells.

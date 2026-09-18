@@ -8,6 +8,10 @@ scraped_at: '2026-09-02T22:33:47Z'
 published: '2026-09-02T00:00:00Z'
 description: Follow the day’s news live
 image: https://i.guim.co.uk/img/media/bd933ebd06ab2542c9907e3dda3c072898f67024/159_0_2286_1829/master/2286.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=574a6f1680c213429c925fdc6e832016
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Treasurer Jim Chalmers has pointed to several factors unrelated to recent tax changes that would contribute to a dip in house prices, such as interest rates. Photograph: Hollie Adams/Reuters

@@ -8,6 +8,10 @@ scraped_at: '2026-08-29T13:49:22Z'
 published: '2026-08-29T00:00:00Z'
 description: No details on resolution either.
 image: https://cdn.mos.cms.futurecdn.net/JBoMqFsHXVdepshijzND6G-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![GTA VI cover art](https://cdn.mos.cms.futurecdn.net/JBoMqFsHXVdepshijzND6G.jpg) 

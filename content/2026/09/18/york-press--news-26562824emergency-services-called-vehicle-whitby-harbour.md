@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: A driver has been taken to hospital after their vehicle entered Whitby
   Harbour.
 image: https://www.yorkpress.co.uk/resources/images/21235226.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
 ---
 
 *(Image: Whitby RNLI Lifeboat)*

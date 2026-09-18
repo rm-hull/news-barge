@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Torrential rain has struck Japan’s north-central prefectures of Ishikawa
   and Toyama
 image: https://static.independent.co.uk/2026/08/27/09/Japan_Extreme_Weather_Heavy_Rain_957_5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Torrential rain struck Japan’s north-central prefectures of Ishikawa and Toyama on Thursday, triggering flooding and landslides, closing roads and stranding people in flooded homes and vehicles.

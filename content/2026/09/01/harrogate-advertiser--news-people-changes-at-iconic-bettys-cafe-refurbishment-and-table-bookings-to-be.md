@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Bettys tea rooms at RHS Garden Harlow Carr is to close for a “refresh”
   for the first time in its history.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjc1ZmJlMTkzLWY3ZjQtNDk1NC1iMWI0LTk3Yzc5ZjYwYmUwMzo1MTgwNGEwZC00ZTgyLTRlY2YtODQzMS1kODBlMTlkMzI4NzA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Home, Garden & DIY
 ---
 
 # Changes at iconic Bettys cafe: Refurbishment and table bookings to be introduced at Harlow Carr gardens

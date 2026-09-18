@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Former U.S. poet laureate Robert Pinsky has received a $100,000 lifetime
   achievement award
 image: https://static.independent.co.uk/2026/09/09/21/Books-Poetry_Awards__3963.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Former U.S. poet laureate Robert Pinsky has received a $100,000 lifetime achievement award and poet-children's author Nikki Grimes has been named the next Young People's Poet Laureate, the Poetry Foundation announced Wednesday.

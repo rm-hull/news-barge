@@ -9,6 +9,9 @@ published: '2026-09-15T00:00:00Z'
 description: Union statement comes after Nigel Farage says a Reform UK government
   would stop unions funding Labour if they block £72m donations to his party
 image: https://i.guim.co.uk/img/media/319ede727f93aa0da1da84beb0fda39afdd49ebf/458_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=96998725188d06e73f76e1ac4e29a852
+categories:
+- UK
+- News & Politics
 ---
 
 Reform UK party leader Nigel Farage speaking during the Reform UK party conference, in Birmingham, Britain earlier this month on 5 September, 2026. Photograph: Temilade Adelaja/Reuters

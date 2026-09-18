@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: Cataclean Plato Racing had only just won its first major race in early
   August before it entered into administration.
 image: https://www.thenorthernecho.co.uk/resources/images/21155446.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 *(Image: Knockhill Racing Circuit)*

@@ -9,6 +9,11 @@ description: A probation officer from Barnsley has spoken of her pride at achiev
   a lifelong dream after being selected to represent England at this year’s Endurance
   GB Home Internationals.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmU3Mjk2ZDgzLWM1NDAtNGFlZC1iYjc3LTcyODVjZDRhODQyMDphOTM2NmEyYS02NzU3LTRhY2MtYTAwMi01ZTZmZmM0ZGUwYjU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Probation officer and her horse Zaz pass the test of endurance

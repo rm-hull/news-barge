@@ -9,6 +9,9 @@ description: Democratic campaigns like El-Sayed’s are embracing charisma, brav
   and some ‘really cool’ strategies — and aren’t afraid to jump into the lion’s den
   of conservative media, strategists on both sides of the aisle tell John Bowden
 image: https://static.independent.co.uk/2026/09/01/15/2026-09-01T100036Z_2014661970_RC2ZTMA19YU4_RTRMADP_3_USA-ELECTON-BLACK-VOTERS.JPG?trim=26,0,27,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Conservatives keep falling for the far-left’s charm offensive. First it was Donald Trump, beaming up at a stoic-looking Zohran Mamdani, then the newly elected mayor of New York City, at a White House visit that confounded Fox News and Mamdani’s opponents alike — even contributing to a Republican dropping out of the gubernatorial race against Gov. Kathy Hochul.

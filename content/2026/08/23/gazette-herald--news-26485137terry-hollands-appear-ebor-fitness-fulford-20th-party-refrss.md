@@ -8,6 +8,11 @@ scraped_at: '2026-08-23T08:44:06Z'
 published: '2026-08-23T00:00:00Z'
 description: A famous strongman is set to appear at a gym’s 20th birthday celebration.
 image: https://www.gazetteherald.co.uk/resources/images/21355284.jpg?type=og-image&xType=0&yType=451
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 A FAMOUS strongman is set to appear at a gym’s 20th birthday celebration.

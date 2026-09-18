@@ -8,6 +8,8 @@ published: '2026-09-16T00:00:00Z'
 description: A Ukrainian drone boat reportedly hunted down a Russian counterpart,
   creating a new chapter in Black Sea drone warfare
 image: https://cdn.mos.cms.futurecdn.net/m6kBqoCAc29ipreVBTj3TQ-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Unmanned Navy-operated drone boat](https://cdn.mos.cms.futurecdn.net/m6kBqoCAc29ipreVBTj3TQ.png) 

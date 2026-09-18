@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: The Arizona senator shepherded the confirmation of conservative supreme
   court justice Brett Kavanaugh
 image: https://i.guim.co.uk/img/media/ad309bdaff1a93653eb3d99e2899e4d2433b197e/739_0_4801_3840/master/4801.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=099c6f9b42b11e04d0c54f8b54ebb97f
+categories:
+- UK
+- News & Politics
 ---
 
 Jon Kyl, a Republican former US senator from Arizona who shepherded conservative supreme court justice Brett Kavanaugh through his confirmation hearing, died on Thursday at 84, his family announced.

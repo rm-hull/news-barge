@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: A registered nurse is set to "take the plunge" this month by opening
   a new clinic in a town centre.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21434085.jpg?type=og-image&xType=0&yType=116
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A REGISTERED nurse is set to "take the plunge" this month by opening a new clinic in a town centre.

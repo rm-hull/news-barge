@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Drivers have been warned of severe traffic along a major road on York’s
   Outer Ring Road.
 image: https://www.yorkpress.co.uk/resources/images/21416786.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## 'Absolute chaos' - severe traffic along part of York Outer Ring Road

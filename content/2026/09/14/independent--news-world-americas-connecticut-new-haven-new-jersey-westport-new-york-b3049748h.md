@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Flash flooding brought on by heavy rains has prompted road closures,
   water rescues and commuter rail problems across the tristate area
 image: https://static.independent.co.uk/2026/09/14/11/Extreme_Weather_Flash_Floods_35769.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Flash flooding brought on by heavy rains prompted road closures, water rescues and commuter rail problems across the tristate area Sunday.

@@ -10,6 +10,9 @@ description: Video. At least two people were killed and 13 others wounded on Sun
   according to local medical sources cited by news agencies. Israel said the strike
   targeted two Hamas engineers involved in weapons production.
 image: https://images.euronews.com/articles/stories/09/91/26/59/1200x675_cmsv2_9c37be98-ae3b-512f-98ee-b788a2666ac4-9912659.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 Images from the scene showed the vehicle engulfed in flames as people nearby tried to put out the fire. Civil defence teams later inspected the burned-out wreckage, while ambulances took the casualties to Al-Shifa Hospital. Medical staff received the dead and wounded at the hospital.

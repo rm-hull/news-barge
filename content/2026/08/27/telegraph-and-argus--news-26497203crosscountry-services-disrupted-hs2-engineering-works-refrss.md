@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: RAIL improvement works are set to cause disruption for passengers over
   the bank holiday weekend.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21373979.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: CrossCountry)*

@@ -7,6 +7,11 @@ scraped_at: '2026-09-02T19:23:23Z'
 published: '2026-09-02T00:00:00Z'
 description: The Environment Agency has published waste crime heatmaps covering England.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmM1YTViYzYwLTM4MDQtNDMxMS1iNWE1LWQ0ZWJkMDczMTVhZDplNDA3ZWIzNi1lZTRjLTQ5ZDItYWM3ZC1mNWQxMmI1YzQ0YTg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Yorkshire is one of England's waste crime hotspots - find how your area compares

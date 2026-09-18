@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: While many workers have the day off, most big consumer-facing businesses
   are open
 image: https://static.independent.co.uk/2026/09/06/19/2293551193..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 The origins of Labor Day, which falls on Monday, date back to the late 19th century, when activists first sought to establish a day that would pay tribute to workers.

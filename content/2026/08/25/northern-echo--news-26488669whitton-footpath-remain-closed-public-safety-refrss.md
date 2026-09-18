@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Public Footpath No. 4 in Whitton, Stockton, will remain closed for a
   further six months after the Secretary of State for Transport approved an…
 image: https://www.thenorthernecho.co.uk/resources/images/19109350.jpg?type=og-image&xType=0&yType=109
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: Pixabay)*

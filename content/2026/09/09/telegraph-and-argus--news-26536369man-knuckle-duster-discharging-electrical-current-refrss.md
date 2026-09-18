@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A Bradford man who was involved in operating a significant Class A drugs
   line has been jailed for six years.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21431710.jpg?type=og-image&xType=0&yType=671
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: West Yorkshire Police)*

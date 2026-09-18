@@ -8,6 +8,10 @@ scraped_at: '2026-08-19T21:31:36Z'
 published: '2026-08-19T00:00:00Z'
 description: The hidden gallery will reopen next month
 image: https://static.independent.co.uk/2026/08/19/20/21/01M0DKA24VGABSWJMMYDXFKF0P.jpg?trim=43,0,43,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A hidden gallery at the Natural History Museum that has been closed since the Second World War will reopen.

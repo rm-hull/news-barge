@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Radio 2 DJ, who stepped back from work commitments in June, says operation
   went ‘incredibly well’
 image: https://i.guim.co.uk/img/media/f56dc487893c35b3fdbbb03e47e4500e632e6f9d/252_0_2493_1994/master/2493.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb7fdc444463fcbf16d15187c3f70c89
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Trevor Nelson, the BBC Radio 2 DJ, has revealed he had surgery after being diagnosed with a brain tumour and is now on the mend.

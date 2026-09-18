@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Video. AfD candidate Ulrich Siegmund casts his ballot in Saxony-Anhalt,
   where his party is seeking a historic breakthrough in the state election.
 image: https://images.euronews.com/articles/stories/09/90/31/58/1200x675_cmsv2_21281f91-54bf-56e6-9d76-b3be3fdaec5d-9903158.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 Alternative for Germany (AfD) candidate Ulrich Siegmund cast his ballot Sunday in Saxony-Anhalt’s state election, arriving at the polling station in his hometown of Tangermünde with his wife Julia.

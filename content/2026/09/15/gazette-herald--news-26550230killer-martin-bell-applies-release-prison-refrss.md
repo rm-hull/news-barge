@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The Parole Board confirmed a hearing is to take place - but Gemma's sister
   Naomi Carrack said Bell is "not somebody we want walking the…
 image: https://www.gazetteherald.co.uk/resources/images/3142866.jpg?type=og-image&xType=0&yType=338
+categories:
+- Local
+- Harrogate
+- York
+- Music
 ---
 
 *(Image: Supplied)*

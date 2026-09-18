@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: The owner of a business behind a new venture where he grew up in York
   has spoken about his plans and when it could open.
 image: https://www.yorkpress.co.uk/resources/images/21382004.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## York business owner's new venture where he grew up and when it could open

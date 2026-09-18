@@ -7,6 +7,10 @@ scraped_at: '2026-09-06T22:06:20Z'
 published: '2026-09-06T00:00:00Z'
 description: Staffordshire Police said the death is being treated as ‘unexplained’
 image: https://static.independent.co.uk/2026/02/03/10/c62f00a9c046089f5e01404c9ce72f12Y29udGVudHNlYXJjaGFwaSwxNzcwMjAwNzQ0-2.18755944.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A three-month-old girl has died while camping with her family in a Staffordshire woodland, police have said.

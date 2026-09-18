@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Filey Academy is celebrating the achievement of Year 11 students, with
   another year of improved results.
 image: https://www.gazetteherald.co.uk/resources/images/21350669.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Education & Learning
 ---
 
 *(Image: Provided)*

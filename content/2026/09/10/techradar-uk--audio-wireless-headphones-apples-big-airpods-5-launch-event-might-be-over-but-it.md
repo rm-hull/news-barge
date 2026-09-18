@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: Rumors point to the Beats 360 releasing later in September, thanks to
   a recent firmware update to the cans.
 image: https://cdn.mos.cms.futurecdn.net/dhYBHopZJvTnhXm4RvPCD8-2034-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Beats Culver City Campus](https://cdn.mos.cms.futurecdn.net/dhYBHopZJvTnhXm4RvPCD8.jpg) 

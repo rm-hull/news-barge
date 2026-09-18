@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: Today’s contests will help shape the fiercely contested midterms this
   fall to determine control of Congress
 image: https://i.guim.co.uk/img/media/ce57174e301acbf64d21d5842f89a0e015130622/714_8_3318_2654/master/3318.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=b790eda52d9a440ba1744c17ba84af7f
+categories:
+- UK
+- News & Politics
 ---
 
 Redistricting scrambles Florida primary as Alaska awaits Dan Sullivan vs Dan Sullivan

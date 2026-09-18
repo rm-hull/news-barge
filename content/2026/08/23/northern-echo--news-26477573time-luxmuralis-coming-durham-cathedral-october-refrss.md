@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Luxmuralis will transform Durham Cathedral with its new Time installation
   this October, featuring immersive projections, soundscapes and journeys…
 image: https://www.thenorthernecho.co.uk/resources/images/21340846.jpg?type=og-image&yType=777
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 Visitors will be able to travel through wormholes, explore the mysteries of time and watch Durham Cathedral transformed by light and sound when Luxmuralis returns this autumn.

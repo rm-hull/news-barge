@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T12:47:59Z'
 published: '2026-09-03T00:00:00Z'
 description: The 41-room hotel is on the market for £8.5m
 image: https://static.independent.co.uk/2026/09/02/13/08/f85f5fe7-58b3-4ba8-b6c9-1d6028626959-0-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 A Grade-II listed Victorian hotel in the heart of the New Forest National Park in Hampshire has hit the market for £8.5m.

@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Two cadaver canines noticed the odor of human remains in the basement
   of a Kansas City home, leading police to the body
 image: https://static.the-independent.com/2026/09/04/12/05/Screenshot-2026-09-04-at-12-59-22.png?trim=31,0,4,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Missouri man has been accused of killing his business partner and burying his remains beneath fresh concrete.

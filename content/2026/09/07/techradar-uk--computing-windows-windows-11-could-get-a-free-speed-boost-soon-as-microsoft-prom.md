@@ -9,6 +9,8 @@ published: '2026-09-07T00:00:00Z'
 description: Microsoft exec also underlined promise that Windows 11 will run better
   on 8GB of RAM.
 image: https://cdn.mos.cms.futurecdn.net/JuVM646RCCEKeLguKcXpeb-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![businessman holding clock by laptop](https://cdn.mos.cms.futurecdn.net/JuVM646RCCEKeLguKcXpeb.jpg) 

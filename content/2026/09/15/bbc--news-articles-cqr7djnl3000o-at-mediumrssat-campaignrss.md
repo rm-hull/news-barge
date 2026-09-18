@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: An ongoing review into Personal Independence Payments (Pip) has found
   the system is "not fit for purpose".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b5c/live/a4776670-b104-11f1-a451-6b1ff10ed362.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Close up shot of a person looking at bills and receipts on a table next to a calculator in their kitchen. They are wearing a blue jumper and the kitchen sink is in the background.](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/1b5c/live/a4776670-b104-11f1-a451-6b1ff10ed362.jpg)

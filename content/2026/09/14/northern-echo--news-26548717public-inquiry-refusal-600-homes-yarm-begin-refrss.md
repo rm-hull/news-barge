@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A public inquiry into the refusal of a "ridiculous" plan for 600 new
   homes in Yarm is set to get underway tomorrow.
 image: https://www.thenorthernecho.co.uk/resources/images/19684819.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: P+HS ARCHITECTS / TAYLOR WIMPEY)*

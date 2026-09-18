@@ -9,6 +9,10 @@ description: '"I would ask residents in the areas where the shaking was particul
   strong to remain vigilant for the possibility of another earthquake of a similar
   magnitude," Japanese Prime Minister Sanae Takaichi said.'
 image: https://images.euronews.com/articles/stories/09/88/51/42/1200x675_cmsv2_678f8edc-2e3d-570d-8fd6-c6c0658c0a9a-9885142.jpg
+categories:
+- Europe
+- News & Politics
+- Science
 ---
 
 ## "I would ask residents in the areas where the shaking was particularly strong to remain vigilant for the possibility of another earthquake of a similar magnitude," Japanese Prime Minister Sanae Takaichi said.

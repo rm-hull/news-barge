@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: A 65-year-old woman has died after the car she was driving crashed into
   a wall in Huddersfield.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/11/10/16/The-junction-of-Heaton-Road-and-Church-Street-in-Paddock.png?trim=0,69,0,69&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
+- Technology & Software
 ---
 
 # Woman, 65, dies after car crashes into wall

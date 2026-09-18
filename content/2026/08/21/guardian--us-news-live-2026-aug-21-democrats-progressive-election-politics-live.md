@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: First Muslim woman and Afghan American elected to California legislature
   held lead throughout race over main opponent Melissa Hernandez
 image: https://i.guim.co.uk/img/media/8cb13f6c1fe8847928709d5912e73d1a6b33e6df/934_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=46f758472c2fe36049ade4dc075031e2
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Democrats rally behind progressive Aisha Wahab after her win in California special election

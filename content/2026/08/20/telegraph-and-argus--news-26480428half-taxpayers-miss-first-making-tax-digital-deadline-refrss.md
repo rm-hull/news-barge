@@ -8,6 +8,13 @@ published: '2026-08-20T00:00:00Z'
 description: NEARLY half of people eligible for digital tax reporting have missed
   the first quarterly deadline for Making Tax Digital (MTD) for Income Tax.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21345842.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Supplied)*

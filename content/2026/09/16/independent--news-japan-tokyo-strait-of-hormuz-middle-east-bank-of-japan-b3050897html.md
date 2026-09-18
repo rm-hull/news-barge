@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Japan’s trade deficit totaled $7 billion last month, as surging oil prices
   sent the cost of imports soaring
 image: https://static.independent.co.uk/2026/09/16/03/Japan_Trade_63556.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Japan’s trade deficit totaled 1.1 trillion yen ($7 billion) last month as surging oil prices due to the conflicts in the Middle East sent the cost of imports soaring.

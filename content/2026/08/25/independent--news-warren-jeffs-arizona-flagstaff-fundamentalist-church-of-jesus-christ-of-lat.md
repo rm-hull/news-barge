@@ -10,6 +10,9 @@ description: A polygamous sect leader already serving a 50-year federal prison s
   for orchestrating sex involving children is scheduled to be sentenced on separate
   state convictions
 image: https://static.independent.co.uk/2026/08/25/13/Polygamous_Sect_Arizona_Bateman_9_471.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A polygamous sect leader already serving a 50-year federal prison sentence for orchestrating sex involving children is scheduled to be sentenced Tuesday on separate state convictions for hauling girls through a community in northern Arizona in an unventilated trailer.

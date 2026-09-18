@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: The Bradford (Park Avenue) squad in the club’s final-ever Football League
   season contained plenty of talent, with one such player defended after a…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21331558.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Newsquest)*

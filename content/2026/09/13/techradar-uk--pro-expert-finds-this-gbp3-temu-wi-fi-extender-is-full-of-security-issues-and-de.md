@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: This six-antenna £3 Wi-Fi extender came with a secret password shared
   across every unit running its firmware
 image: https://cdn.mos.cms.futurecdn.net/q8rXV4rnByXw28AGiSLWQg-1920-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Temu Wi-Fi Extender](https://cdn.mos.cms.futurecdn.net/q8rXV4rnByXw28AGiSLWQg.png) 

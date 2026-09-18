@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Hundreds of people gathered at Millennium Square in Leeds, protesting
   against Microsoft's plans for a data centre complex.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/12/16/40/20260912_132242.jpg?trim=191,0,192,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Hundreds protest against Microsoft data centre in Leeds

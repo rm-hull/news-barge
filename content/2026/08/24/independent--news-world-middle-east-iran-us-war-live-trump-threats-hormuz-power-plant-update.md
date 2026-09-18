@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Iran’s new security chief warns Gulf neighbours they will be treated
   as ‘enemies’ if they join Trump’s economic war
 image: https://static.independent.co.uk/2026/08/22/03/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Iran’s security chief Mohsen Rezaei has threatened “earthquake-like” retaliation should US president Donald Trump take any further action.

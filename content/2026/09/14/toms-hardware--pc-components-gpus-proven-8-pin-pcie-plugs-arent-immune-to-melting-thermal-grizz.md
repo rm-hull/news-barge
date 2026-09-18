@@ -8,6 +8,9 @@ scraped_at: '2026-09-14T15:00:55Z'
 published: '2026-09-14T00:00:00Z'
 description: 8-pin connectors can melt too.
 image: https://cdn.mos.cms.futurecdn.net/kmxG3xPY2zgARQU2e6CYcX-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Damaged PCIe 8-pin connectors on a Thermal Grizzly WireView adapter](https://cdn.mos.cms.futurecdn.net/kmxG3xPY2zgARQU2e6CYcX.jpg) 

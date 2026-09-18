@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: Small firms cite labour and operating costs as reasons for scaling back
   hiring, the UK's statistics body says.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1774/live/6a464c30-9a27-11f1-90d9-9d833c0912f2.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 ![A female office worker sitting in front of a laptop and looking at her phone](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/1774/live/6a464c30-9a27-11f1-90d9-9d833c0912f2.jpg)

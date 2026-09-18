@@ -10,6 +10,10 @@ description: Citing the importance of the First Amendment, a federal judge in Ca
   in its quest to deport noncitizens who the government says have disrupted college
   campuses as they expressed their views
 image: https://static.independent.co.uk/2026/08/29/18/Ideological_Deportation_32_57.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Citing the importance of the First Amendment, a federal judge in California says the U.S. government is unconstitutionally silencing critics of Israel's war in Gaza and others as part of the Trump administration 's quest to deport noncitizens who it says disrupted college campuses while expressing their views.

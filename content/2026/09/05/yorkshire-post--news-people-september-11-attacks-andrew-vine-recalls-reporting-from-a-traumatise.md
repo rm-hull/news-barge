@@ -9,6 +9,12 @@ published: '2026-09-05T00:00:00Z'
 description: Friday marks the 25th anniversary of the September 11 2001 terrorist
   attacks on the United States which killed almost 3,000 people.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjgwNjkyMjgyLTZlYTUtNDA0NC1hOGQ4LTRiZWJiOTNjOTM4YTpjYjdhOWNiZS1jMDZhLTRhYjUtYTFmMi02YmM4MDkwMzhiMWM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- History
 ---
 
 # September 11 attacks: Andrew Vine recalls reporting from a traumatised New York

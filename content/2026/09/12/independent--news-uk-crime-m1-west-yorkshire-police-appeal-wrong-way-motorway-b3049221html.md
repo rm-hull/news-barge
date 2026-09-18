@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: This is the latest incident amid a spate of tragic road collisions with
   vehicles driving the wrong way down the road
 image: https://static.independent.co.uk/2026/09/12/21/10/Screenshot-2026-09-12-at-22-18-41.png?trim=0,36,0,35&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Automotive
 ---
 
 A man has been seriously injured after two cars were involved in a wrong-way crash on the M1.

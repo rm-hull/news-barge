@@ -8,6 +8,10 @@ scraped_at: '2026-09-14T20:17:29Z'
 published: '2026-09-14T00:00:00Z'
 description: A lot of questions, not a lot of answers
 image: https://cdn.mos.cms.futurecdn.net/BWHxcEJLH3bh9bDzN4jUQd-509-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![woman uses phone near smart wall plug](https://cdn.mos.cms.futurecdn.net/BWHxcEJLH3bh9bDzN4jUQd.jpg) 

@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Patsy Kensit has made her return to Emmerdale and said it is "wonderful"
   to be back in the Dales.
 image: https://www.yorkpress.co.uk/resources/images/21413608.jpg?type=og-image
+categories:
+- Local
+- York
+- Self-Improvement
 ---
 
 *(Image: YouTube/ITV)*

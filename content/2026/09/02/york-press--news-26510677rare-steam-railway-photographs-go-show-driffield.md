@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: The East Yorkshire Railway Society (EYRS) will hold its next gathering
   on September 14 at Driffield Community Centre.
 image: https://www.yorkpress.co.uk/resources/images/21394832.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Society & Culture
 ---
 
 ## Railway society to showcase historic steam photographs in Driffield

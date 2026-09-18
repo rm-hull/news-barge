@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Manchester United agree a fee of up to £70m for Brighton midfielder Carlos
   Baleba.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/30b6/live/c4242c40-9d9c-11f1-bff5-1bcd013e5a56.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Carlos Baleba of Brighton & Hove Albion celebrates in front of the supporters](https://ichef.bbci.co.uk/ace/standard/586/cpsprodpb/30b6/live/c4242c40-9d9c-11f1-bff5-1bcd013e5a56.jpg)

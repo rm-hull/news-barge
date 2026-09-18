@@ -7,6 +7,12 @@ scraped_at: '2026-09-05T18:12:07Z'
 published: '2026-09-05T00:00:00Z'
 description: Ramraiders have hit a business in a busy Bradford street
 image: https://www.thetelegraphandargus.co.uk/resources/images/21415169.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ## Our live feed has now finished.

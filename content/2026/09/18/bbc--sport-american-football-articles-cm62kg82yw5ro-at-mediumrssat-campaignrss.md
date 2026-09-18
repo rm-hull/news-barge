@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Wembley will host its first American college football game on Saturday
   and one of Kansas' most famous fans could be among the 60,000 crowd.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/51ea/live/101f3500-b2c8-11f1-9830-658a48c7da16.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Taylor Davis celebrates after recovering a fumble for the Kansas Jayhawks against the Missouri Tigers in September 2026](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/51ea/live/101f3500-b2c8-11f1-9830-658a48c7da16.jpg)

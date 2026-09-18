@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: ‘I call him Talafreako,’ Trump said of James Talarico. ‘Becuase he is.
   He’s a freaky guy. He’s got something wrong with him’
 image: https://static.independent.co.uk/2026/09/11/14/04/GettyImages-2286142415.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 James Talarico, the Democratic nominee for U.S. Senate in Texas, revealed that President Donald Trump’s derisive nickname for him has become a best-selling piece of campaign merchandise.

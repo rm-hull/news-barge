@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Officials say more than 100 people were thought to have been trapped
   in the tunnel in Rasuwa.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5398/live/462924e0-a2c3-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 # Nepal army rescues survivors from hydropower tunnel

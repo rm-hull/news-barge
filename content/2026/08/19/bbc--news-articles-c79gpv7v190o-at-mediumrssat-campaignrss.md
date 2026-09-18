@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: A new jab extended the length of time patients were cancer free, but
   it is unclear for how long.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed5d/live/40f76380-9bfa-11f1-bbc9-198f60b94eaf.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 ![Close-up of a healthcare professional administering an injection into a person's upper arm, with white gloved hands holding a syringe and cotton swab during a vaccination appointment.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/ed5d/live/40f76380-9bfa-11f1-bbc9-198f60b94eaf.jpg)

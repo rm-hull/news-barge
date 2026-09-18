@@ -12,6 +12,11 @@ description: Poor Emmy is getting old. Her legs are getting stiffer, and her hea
   tan patches. The dark bits have faded to a whiter shade of pale. And yet, her love
   for life remains undiminished.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZiODBlNjEyLWIwNzUtNDljMC05MTU2LTEyNWU4MGYxODVkNTpkODMyMWU5Ni04YzNiLTRjMGMtOTVlMC0wNDlmZTAzMGZlNDk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # The Yorkshire Vet: Old dog, new tricks and a backpack - Julian Norton

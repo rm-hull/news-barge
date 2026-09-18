@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Amodei's call comes amid growing concerns that AI models may become able
   to inflict serious damage worldwide.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Dario Amodei hld the closed fingers of his left hand together as he mades a point. He is wearing a white shirt and blue jacket, black-rimmed glasses and has slightly curly hair. He is sat against a blue background, with a yellow-lit square just behind and to the left of his head.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg)

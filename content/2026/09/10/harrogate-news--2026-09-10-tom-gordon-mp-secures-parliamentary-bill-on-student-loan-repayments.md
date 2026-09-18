@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Harrogate and Knaresborough MP Tom Gordon has secured a Parliamentary
   Bill to review unfair student loan terms and protect graduates from rising repayments.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/tom-gordon-house-2.webp
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 Tom Gordon, the Liberal Democrat MP for Harrogate and Knaresborough, has secured a Bill in Parliament on student finance to tackle the student loans crisis affecting hundreds of thousands of graduates.

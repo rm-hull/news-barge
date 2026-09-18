@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: York Outer MP Luke Charters says health and social care reform can no
   longer be delayed and is inviting people to help shape the future of care.
 image: https://www.yorkpress.co.uk/resources/images/21331091.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
+- News & Politics
 ---
 
 *(Image: Submitted)*

@@ -8,6 +8,9 @@ scraped_at: '2026-08-31T21:27:44Z'
 published: '2026-08-31T00:00:00Z'
 description: G.Skill's AMD EXPO ULL family continues to grow.
 image: https://cdn.mos.cms.futurecdn.net/4V8U4jbuXfo7BUf6UMYq9M-2100-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Flare X5X](https://cdn.mos.cms.futurecdn.net/4V8U4jbuXfo7BUf6UMYq9M.jpg) 

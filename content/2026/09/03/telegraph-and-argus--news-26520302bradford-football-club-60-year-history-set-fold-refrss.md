@@ -8,6 +8,12 @@ scraped_at: '2026-09-03T19:17:29Z'
 published: '2026-09-03T00:00:00Z'
 description: A Bradford football club with a proud 60-year history is folding.
 image: https://www.thetelegraphandargus.co.uk/resources/images/3719196.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
+- History
 ---
 
 *(Image: Tom Smith)*

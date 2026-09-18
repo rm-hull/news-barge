@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T20:17:58Z'
 published: '2026-09-14T00:00:00Z'
 description: The BBC's Tom Gerken is hands-on with the latest virtual reality headset.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbe3/live/2c24b1a0-b05f-11f1-9902-771b6dd8af6a.png
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Watch: BBC’s Tom Gerken gets his hands on Valve's Steam Frame

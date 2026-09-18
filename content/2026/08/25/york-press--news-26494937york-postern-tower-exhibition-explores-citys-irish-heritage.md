@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: An exhibition in Fishergate Postern Tower is shedding light on York's
   Irish heritage, tracing the famine migrants who settled beside the…
 image: https://www.yorkpress.co.uk/resources/images/21370946.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Arts & Culture
 ---
 
 ## Exhibition within York’s ancient walls reveals city’s long-hidden Irish heritage

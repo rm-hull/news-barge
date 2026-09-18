@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: The family of a 15-year-old is racing against time to raise £75,000 for
   potentially life-saving cancer treatment abroad.
 image: https://www.thenorthernecho.co.uk/resources/images/21338056.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Provided)*

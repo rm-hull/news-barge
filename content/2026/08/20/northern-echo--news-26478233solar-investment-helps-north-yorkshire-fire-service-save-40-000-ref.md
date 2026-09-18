@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: North Yorkshire firefighters have revealed they have already saved more
   than £40,000 in electricity costs this year, helping free up vital funds as…
 image: https://www.thenorthernecho.co.uk/resources/images/21342210.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: NYFRS)*

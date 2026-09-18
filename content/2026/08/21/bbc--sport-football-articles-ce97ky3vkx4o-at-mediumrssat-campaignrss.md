@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Liverpool have an improved bid of £60m for winger Yankuba Minteh rejected
   by Brighton but talks between the clubs continue.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4457/live/9f853380-9cb0-11f1-84cf-fd4cfd9d6c84.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ![Yankuba Minteh pictured during a Brighton match](https://ichef.bbci.co.uk/ace/standard/768/cpsprodpb/4457/live/9f853380-9cb0-11f1-84cf-fd4cfd9d6c84.jpg)

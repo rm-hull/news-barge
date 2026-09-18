@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Harrogate Town AFC have signed Torquay centre back Sam Dreyer, for an
   undisclosed fee.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Sam-Dreyer.webp
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 Harrogate Town AFC have signed Torquay centre back Sam Dreyer, for an undisclosed fee.

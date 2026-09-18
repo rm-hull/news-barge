@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Initiative aims to keep alive age-old skill, and at Muchelney Abbey in
   Somerset improve habitat for the shrill carder bee
 image: https://i.guim.co.uk/img/media/35bce8075159ac9d972953e626980f800fce33d1/632_0_5523_4424/master/5523.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ade916f4f5b1f83fbddd258a5ea7c1c
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 It sounds like something out of a Thomas Hardy novel: a merry band of men and women roaming the West Country cutting meadows by hand in exchange for hunks of bread and cheese.

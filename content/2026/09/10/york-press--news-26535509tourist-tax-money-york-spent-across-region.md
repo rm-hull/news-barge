@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Money raised in York from a proposed £1-a-night fee on overnight visitor
   stays would go into a pot to be spent across the region, the county’s…
 image: https://www.yorkpress.co.uk/resources/images/19564731.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Supplied)*

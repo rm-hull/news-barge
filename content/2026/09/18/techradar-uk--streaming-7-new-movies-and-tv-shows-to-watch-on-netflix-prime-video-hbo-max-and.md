@@ -9,6 +9,9 @@ published: '2026-09-18T00:00:00Z'
 description: From MobLand and Slow Horses' return, to Reacher's first spin-off, here's
   what's new on the biggest streamers this week.
 image: https://cdn.mos.cms.futurecdn.net/XBEtHi8hyRVzdYysSdJfjN-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Helen Mirren's Maeve and Tom Hardy's Harry standing and flanking a seated Pierce Brosnan's Conrad in MobLand season 2](https://cdn.mos.cms.futurecdn.net/XBEtHi8hyRVzdYysSdJfjN.jpg) 

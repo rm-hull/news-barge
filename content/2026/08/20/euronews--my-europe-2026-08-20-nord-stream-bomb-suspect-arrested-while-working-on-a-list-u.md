@@ -9,6 +9,10 @@ description: 'The Ukrainian suspect had previously been held in Poland for his a
   role in destroying the pipelines but Warsaw refused to extradite him to Germany.
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/28/03/1200x675_cmsv2_56c13054-dce3-5042-aa69-82af50509775-9882803.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## The Ukrainian suspect had previously been held in Poland for his alleged role in destroying the pipelines but Warsaw refused to extradite him to Germany.

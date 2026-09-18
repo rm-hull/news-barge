@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: A Texas appeals court has ruled that the trial judge improperly allowed
   Sandy Hook parents to exceed a statutory cap on damage awards
 image: https://static.independent.co.uk/2026/08/21/15/32/GettyImages-1425979534.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Law & Justice
 ---
 
 A Texas court has slashed a $50 million judgment against Infowars founder Alex Jones to just $1.5 million.

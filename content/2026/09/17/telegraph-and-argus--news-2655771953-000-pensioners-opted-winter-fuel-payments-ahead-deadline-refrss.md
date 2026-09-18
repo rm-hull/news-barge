@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Thousands of pensioners rejected Winter Fuel Payment as millions face
   HMRC clawback, new figures reveal.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20595024.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Gareth Fuller/PA Wire)*

@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The Met Office has forecast an ‘intense downpour’ across parts of England
   and Wales after the driest July on record
 image: https://static.independent.co.uk/2026/08/19/7/49/Screenshot-2026-08-19-at-08-43-22.png?trim=0,5,0,5&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Thunderstorms and heavy rain are set to hit much of the UK on Wednesday with a risk of flooding for some parts of the country.

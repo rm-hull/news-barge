@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The BBC's Shaimaa Khalil breaks down the key arguments as the long-awaited
   trial gets under way.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/12f3/live/af2297f0-9aa4-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 # Watch: What we learned from opening statements in Tupac murder trial

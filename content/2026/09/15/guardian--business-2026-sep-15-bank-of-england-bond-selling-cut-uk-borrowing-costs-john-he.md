@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Economists urge John Healey to press Bank to change policy that is costing
   the exchequer billions of pounds
 image: https://i.guim.co.uk/img/media/5b8b5674860046bfc8252b26545461af3cafe458/1361_0_6777_5425/master/6777.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=42bf4fb33f1b70f9d86763228038885f
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Economists have urged the chancellor, John Healey, to press the Bank of England to slow down its bond-selling programme that has already cost the exchequer billions of pounds.

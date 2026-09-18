@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: A BBC investigation has found smuggling gangs are running low on small
   boats, forcing rival gangs to work together and load more migrants on larger boats.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4eaa/live/bd210150-a75d-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 # BBC witnesses 'taxi boat' picking up migrants multiple times in a day

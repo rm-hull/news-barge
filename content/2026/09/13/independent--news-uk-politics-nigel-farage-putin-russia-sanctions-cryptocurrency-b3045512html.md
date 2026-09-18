@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Labour has claimed the Reform UK leader has questions to answer over
   his judgement
 image: https://static.independent.co.uk/2026/09/06/10/2026-09-05T165232Z_2015186287_RC24DNAB9CQY_RTRMADP_3_BRITAIN-POLITICS-REFORM-CONFERENCE.JPG?trim=699,469,121,760&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Labour have said that the “questions keep piling up” for Nigel Farage after footage emerged of him admitting he knew Russians used cryptocurrency to cheat Ukraine war sanctions, but invested in the sector anyway.

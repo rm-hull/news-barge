@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Woman’s family says she died of injuries after being shot in the head
   while sitting inside a tent near Khan Younis
 image: https://i.guim.co.uk/img/media/bf6ef76ba83fc39ae31761cdff23813105914be5/281_0_3388_2712/master/3388.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b4683f2bcdb128ced4f8a6f9747ad14
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A pregnant Palestinian woman died on Saturday from injuries sustained after being shot in the head by Israeli forces south of Khan Younis, according to her family and medical workers, as strikes across Gaza killed at least 10 people in 48 hours.

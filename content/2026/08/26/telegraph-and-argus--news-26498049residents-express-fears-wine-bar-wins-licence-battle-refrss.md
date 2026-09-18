@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: A proposed wine bar has had its licence approved despite fears that neighbours
   would no longer be able to enjoy “peace and quiet” in their own…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21375452.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Pixabay)*

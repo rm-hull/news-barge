@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Hundreds of people have turned out to search for Noah Woods after he
   went missing on Tuesday afternoon
 image: https://static.independent.co.uk/2026/09/16/7/00/noah.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 ![](https://cdn.jwplayer.com/v2/media/89vobBIu/poster.jpg?width=720)

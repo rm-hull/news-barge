@@ -8,6 +8,12 @@ published: '2026-08-22T00:00:00Z'
 description: Lord O'Neill, former chief economist at Goldman Sachs, was tipped to
   become Andy Burnham's chief economic adviser.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43f6/live/83b694f0-9dd2-11f1-b2b6-cb5bce61ac4a.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![Jim O'Neill in 2014](https://ichef.bbci.co.uk/ace/standard/937/cpsprodpb/43f6/live/83b694f0-9dd2-11f1-b2b6-cb5bce61ac4a.jpg)

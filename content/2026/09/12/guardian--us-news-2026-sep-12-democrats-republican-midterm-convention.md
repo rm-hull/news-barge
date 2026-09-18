@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Crowd member repeatedly said some Democrats ‘should be shot’ during Ted
   Cruz’s speech, without senator responding
 image: https://i.guim.co.uk/img/media/c3d255de99bd2e379acfcdce14151f76ae2a1d0a/515_0_4720_3776/master/4720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6293f671fb786052302ee771a90f03b6
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 On the night Republicans gathered to mourn the killing of Charlie Kirk and warn against the dangers of violent rhetoric, a crowd at the party’s irregular midterm convention in Dallas repeatedly called for a sitting Senate candidate to be shot, while the Republican senator at the podium never denounced or even noted the outbursts.

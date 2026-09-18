@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: Seven people have been arrested on suspicion of murder after a newborn
   baby girl was found dead at a Sheffield home.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/30/19/16/WhatsApp-Image-2026-08-30-at-7-06-39-PM.jpeg?trim=85,0,85,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- Family & Parenting
 ---
 
 # Seven arrested as murder probe launched after newborn baby girl dies

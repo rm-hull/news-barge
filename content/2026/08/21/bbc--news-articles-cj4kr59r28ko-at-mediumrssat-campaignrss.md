@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The 26-year-old was jailed for a year after he sparked anger with an
   expletive-laden post about the sacred holiday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e38/live/fdd312c0-9d02-11f1-8390-abef47452aa0.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Tourists walk on a beach in Bali](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1e38/live/fdd312c0-9d02-11f1-8390-abef47452aa0.jpg)

@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: A new beer festival starting today (Fri) is raising a glass to Yorkshire’s
   brewing talent.
 image: https://www.gazetteherald.co.uk/resources/images/21384442.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 A new beer festival starting today (Fri) is raising a glass to Yorkshire’s brewing talent.

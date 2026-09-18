@@ -9,6 +9,13 @@ published: '2026-09-09T00:00:00Z'
 description: Workers who use their own cars for business journeys are being reminded
   they could claim more after HMRC raised mileage rates from 45p to 55p
 image: https://www.thetelegraphandargus.co.uk/resources/images/21420048.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 *(Image: Getty Images)*

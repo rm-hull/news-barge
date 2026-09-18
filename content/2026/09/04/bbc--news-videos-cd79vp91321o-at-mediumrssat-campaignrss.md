@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: There are still hundreds of workers trapped in a network of tunnels that
   run along the Trishuli river.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5561/live/dbe464c0-a87e-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 # 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors

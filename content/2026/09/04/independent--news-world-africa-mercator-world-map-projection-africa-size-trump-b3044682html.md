@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Donald Trump’s interest in buying Greenland, citing it’s large size,
   was likely influenced by the distorted Mercator map
 image: https://static.independent.co.uk/2025/08/14/10/31/equal-earth-projection.jpeg?trim=0,275,0,273&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 *The article was originally published in August 2025 by**The Conversation** and is being republished by the Independent as the**UN votes on adopting the Equal Earth map projection.*

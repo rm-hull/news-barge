@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: The testimony is the strongest evidence yet supporting the defense’s
   argument that Clancy should not be held legally responsible for the murders
 image: https://static.the-independent.com/2026/08/19/22/2026-08-19T174718Z_1023477975_RC2Q1NACPI0V_RTRMADP_3_MASSACHUSETTS-CRIME-CLANCY.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Law & Justice
 ---
 
 A psychologist testifying for the defense said Wednesday that Lindsay Clancy was unable to understand the “wrongfulness” of killing her three children because of her mental health conditions.

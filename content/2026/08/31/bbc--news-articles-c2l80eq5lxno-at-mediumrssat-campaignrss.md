@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The request comes after Google made the switch for US-based users over
   the weekend. MapQuest, another US map provider, said it will not change the name.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d31/live/88b002d0-a54c-11f1-8689-6589354d0f8e.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![President Donald Trump pictured from his side profile in the Oval Office, with a sign behind him that reads 'Making the Great Lakes Even Greater' and that shows a map of the Great Lakes, with Lake Ontario being labled as LAKE AMERICA.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9d31/live/88b002d0-a54c-11f1-8689-6589354d0f8e.jpg)

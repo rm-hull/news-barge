@@ -9,6 +9,9 @@ published: '2026-08-30T00:00:00Z'
 description: Sony's entry-level RGB TV, the Bravia 7 II is a strong overall performer
   that might not beat OLED, but it gives it a good fight.
 image: https://cdn.mos.cms.futurecdn.net/HTcRdtqVhJPTqKSovC5YoD-2560-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ### TechRadar Verdict

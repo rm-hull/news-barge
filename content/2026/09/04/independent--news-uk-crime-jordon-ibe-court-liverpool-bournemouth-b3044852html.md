@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The footballer, who represented himself at the hearing, told the court
   ‘I made a serious mistake’
 image: https://static.independent.co.uk/2026/09/04/15/01M1NV8F9FJE0JX27JQ0Z4KZMA.jpg?trim=169,0,169,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Former Liverpool winger Jordon Ibe pulled a braid out of his ex-girlfriend’s hair during an argument where she called him a “druggy”.

@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: The Texas teenager convicted of fatally stabbing a 17-year-old athlete
   at a high school track meet was denied a new trial on Saturday.
 image: https://static.the-independent.com/2026/08/21/02/TQBnvQpH_fug5XRkbfJ53pLd1xUeEcUCvXXQzL6nCPpAeMYHuhLjSlq6oe3TshPNXJzdYpOUDLv9c7O0R-p_kbPp2Mn1k6nVp36H..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The Texas teenager convicted of fatally stabbing a 17-year-old athlete at a high school track meet was denied a new trial on Saturday.

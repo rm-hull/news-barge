@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T22:13:52Z'
 published: '2026-08-27T00:00:00Z'
 description: And do businesses still pay for this service?
 image: https://cdn.mos.cms.futurecdn.net/f2GLUne7zpq7A9ovZ473TY-1376-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![woman sat at a desk using a macbook to do lead generation](https://cdn.mos.cms.futurecdn.net/f2GLUne7zpq7A9ovZ473TY.jpg) 

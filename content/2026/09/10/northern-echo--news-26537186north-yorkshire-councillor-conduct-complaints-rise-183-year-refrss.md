@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Council officers are continuing to face a “sustained heavy workload”
   dealing with complaints about the conduct of councillors in North Yorkshire.
 image: https://www.thenorthernecho.co.uk/resources/images/21048766.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 Council officers are continuing to face a “sustained heavy workload” dealing with complaints about the conduct of councillors in North Yorkshire.

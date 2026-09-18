@@ -8,6 +8,10 @@ scraped_at: '2026-09-15T13:29:19Z'
 published: '2026-09-15T00:00:00Z'
 description: Quentin Tarantino continues to expand his career as an author
 image: https://static.independent.co.uk/2026/09/15/12/France_Cannes_2_25_Nouvelle_Vague_Red_Carpet_6_928.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Quentin Tarantino has stepped back from directing in recent years, but he continues to build upon his career as an author. The upcoming spinoff from his “Once Upon a Time ... in Hollywood” will be accompanied by Tarantino's novelization of the new film.

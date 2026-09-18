@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Council officers are continuing to face a sustained heavy workload dealing
   with complaints about the conduct of councillors in North Yorkshire.
 image: https://mmo.aiircdn.com/409/6a30094c3dfd7358fff.jpg
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
+- News & Politics
 ---
 
 ![](https://mmo.aiircdn.com/409/6a30094c3dfd7358fff.jpg) 

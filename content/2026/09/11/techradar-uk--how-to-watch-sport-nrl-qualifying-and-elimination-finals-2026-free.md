@@ -8,6 +8,10 @@ scraped_at: '2026-09-11T12:49:25Z'
 published: '2026-09-11T00:00:00Z'
 description: It's 6th vs 7th first up as South Sydney take on Newcastle
 image: https://cdn.mos.cms.futurecdn.net/rbfF4tYqKu3K6BEipBBd6K-1024-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Sports
 ---
 
 ![Cody Fletcher of the Rabbitohs slides in for a try.](https://cdn.mos.cms.futurecdn.net/rbfF4tYqKu3K6BEipBBd6K.jpg) 

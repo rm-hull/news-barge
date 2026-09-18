@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Government sources say legislation aimed at China poses a risk to British
   businesses and must be addressed
 image: https://i.guim.co.uk/img/media/fa4dea6ad0a9e303d08729a8c38ddd875c7e66e0/0_242_3544_2835/master/3544.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d5efae84558fa9bc636407458b8230b9
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The UK government’s EU reset summit will be delayed again unless the bloc agrees to discuss legislation that could lock British business out of parts of EU industry, government sources have said.

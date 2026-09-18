@@ -8,6 +8,11 @@ scraped_at: '2026-09-05T15:06:43Z'
 published: '2026-09-05T00:00:00Z'
 description: A takeaway in the Bradford district has a one-star food hygiene rating.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21384747.jpg?type=og-image&xType=0&yType=10
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Google Maps / Street View)*

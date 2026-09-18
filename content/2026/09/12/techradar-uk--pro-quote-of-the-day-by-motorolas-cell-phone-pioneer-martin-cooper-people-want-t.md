@@ -10,6 +10,9 @@ published: '2026-09-12T00:00:00Z'
 description: The concept of the mobile phone was a radical departure from the copper-based
   communications system
 image: https://cdn.mos.cms.futurecdn.net/MB6pJa8ZzL8fom8JKMHzwV-1590-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Martin Cooper](https://cdn.mos.cms.futurecdn.net/MB6pJa8ZzL8fom8JKMHzwV.jpg) 

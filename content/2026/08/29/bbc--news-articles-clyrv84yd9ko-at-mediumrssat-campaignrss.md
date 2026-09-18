@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Who is to blame for the summer drought, and can England future-proof
   its water supplies?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0ed1/live/17fc92d0-a2f2-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Esme Stallard](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/144a/live/8ec2aae0-a2ec-11f1-a291-b542ee92de7c.png)

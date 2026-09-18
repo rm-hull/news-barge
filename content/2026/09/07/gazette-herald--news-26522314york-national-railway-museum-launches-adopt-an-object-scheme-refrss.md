@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: York's NRM is launching a new scheme where you can adopt one of 6 iconic
   objects
 image: https://www.gazetteherald.co.uk/resources/images/21410966.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *York National Railway Museum launches adopt-an-object scheme*

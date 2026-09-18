@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Forecasters projected Moke to deposit as much as 10 inches of rain across
   the Big Island
 image: https://static.independent.co.uk/2026/08/22/18/Tropical_Weather_Hawaii_Extreme_Weather__4_37.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Tropical Storm Moke swept past Hawaii on Sunday, delivering heavy rainfall to Big Island communities that are still recovering from the aftermath of Hurricane Lala.

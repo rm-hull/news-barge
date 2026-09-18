@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: A Pakistani nurse who rescued the sole surviving newborn from a hospital
   fire that killed 14 other infants will receive one of the country’s top civil awards
 image: https://static.independent.co.uk/2026/08/29/17/Pakistan_Hospital_Fire_28552.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 A Pakistani nurse who rescued the sole surviving newborn from a hospital nursery fire that killed 14 other infants will receive one of the country’s most prestigious civil awards.

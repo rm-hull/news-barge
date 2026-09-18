@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Andrés Molina hasn’t been heard from since the double earthquakes hit
   Venezuela on June 24
 image: https://static.independent.co.uk/2026/09/06/12/Venezuela_Earthquake_Search_5454_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 With hands full of flyers, Antonella Molina, her nephew Pedro Molina, and a group of friends stepped carefully through the rubble that remains throughout La Guaira after two catastrophic back-to-back earthquakes 10 weeks ago.

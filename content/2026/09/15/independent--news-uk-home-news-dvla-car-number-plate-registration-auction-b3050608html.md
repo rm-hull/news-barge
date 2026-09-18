@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The plates which commanded the highest prices often included ‘recognisable
   words, phrases or references’
 image: https://static.independent.co.uk/2025/06/03/00/feb19f28c9e3c3ec619265a71f4d2991Y29udGVudHNlYXJjaGFwaSwxNzQ4OTYxNzQ2-2.79779661.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Four number plates have been sold for a combined £68,324 in DVLA’s recent September auction.

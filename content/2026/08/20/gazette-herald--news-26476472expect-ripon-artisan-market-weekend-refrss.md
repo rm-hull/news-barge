@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: The Ripon Artisan Market returns to the city’s marketplace this weekend,
   organised by Little Bird Made.
 image: https://www.gazetteherald.co.uk/resources/images/21339167.jpg?type=og-image&xType=0&yType=114
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: Little Bird Made)*

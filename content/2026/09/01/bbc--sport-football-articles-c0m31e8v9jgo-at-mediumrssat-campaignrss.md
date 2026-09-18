@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Sunderland have beaten Crystal Palace to the signing of Malick Fofana
   from Lyon.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2282/live/62217d40-a65c-11f1-90c0-d91d8bc7338d.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Fofana scored two goals and provided one assist in an injury-hit 2025-26 season](https://ichef.bbci.co.uk/ace/standard/993/cpsprodpb/2282/live/62217d40-a65c-11f1-90c0-d91d8bc7338d.jpg)

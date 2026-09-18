@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The electric-auto maker will officially debut its steering-wheel-free
   robotaxi on Thursday. But building the vehicle is the easy part.
 image: https://media.wired.com/photos/6a9737841b1c34eff9cd25ce/191:100/w_1280,c_limit/GettyImages-2259673201.jpg
+categories:
+- Technology & Software
+- Science
+- Automotive
 ---
 
 Matte gold, sloped, and steering-wheel-free, the Tesla Cybercab seems designed to catch the eyes of looky-loos. Now rubberneckers may have more opportunities: Tesla is set to host an event on Thursday at its Austin, Texas, headquarters to debut the Cybercab.

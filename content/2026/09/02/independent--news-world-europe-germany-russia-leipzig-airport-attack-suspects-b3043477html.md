@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Russia has called the accusations ‘entirely fabricated’ and aimed at
   ‘escalating tensions in Russian-German relations’
 image: https://static.independent.co.uk/2026/09/01/18/2026-09-01T171557Z_478355540_RC2DSMASU1T8_RTRMADP_3_GERMANY-SECURITY-RUSSIA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 German authorities have identified two suspects in connection with an attempted drone attack on Leipzig/Halle Airport last month, according to new reports.

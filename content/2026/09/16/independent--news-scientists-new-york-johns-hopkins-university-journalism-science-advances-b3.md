@@ -7,6 +7,10 @@ scraped_at: '2026-09-16T19:32:26Z'
 published: '2026-09-16T00:00:00Z'
 description: A new study has found that the T
 image: https://static.independent.co.uk/2026/09/16/19/T_Rex_Body_Temperature_89293.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Using fossilized teeth, scientists have finally taken the T. rex's temperature — and it wasn't too different from our own.

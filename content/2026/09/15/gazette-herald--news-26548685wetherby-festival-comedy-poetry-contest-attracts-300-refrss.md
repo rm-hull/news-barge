@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: A free comedy poetry competition launched by a local arts festival is
   helping to give humorous verse a platform, attracting hundreds of entries and…
 image: https://www.gazetteherald.co.uk/resources/images/21453191.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Comedy & Entertainment
 ---
 
 *(Image: Supplied)*

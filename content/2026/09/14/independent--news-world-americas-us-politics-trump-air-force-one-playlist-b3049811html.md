@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Some of the artists on Trump’s playlist have previously asked the president
   to not use their songs at his rallies
 image: https://static.independent.co.uk/2026/09/14/10/2294722142..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 President Trump shared his personal playlist with reporters on Air Force One, telling the journalists that he wanted to make them “happy.”

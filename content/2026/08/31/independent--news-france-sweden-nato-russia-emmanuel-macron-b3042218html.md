@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: France and Sweden have signed agreements for France to supply the Nordic
   country with four modern frigates
 image: https://static.independent.co.uk/2026/08/31/16/Sweden_France__3379.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- History
 ---
 
 France and Sweden signed agreements Monday to supply the Nordic country with 4 modern frigates, strengthening the defenses of NATO’s newest member in the strategically important Baltic Sea region, where Russia uses key shipping lanes and airspace.

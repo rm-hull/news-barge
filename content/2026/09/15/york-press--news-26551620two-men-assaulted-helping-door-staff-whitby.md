@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Two men are reported to have been assaulted while trying to help door
   staff outside a bar in Whitby.
 image: https://www.yorkpress.co.uk/resources/images/21457319.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

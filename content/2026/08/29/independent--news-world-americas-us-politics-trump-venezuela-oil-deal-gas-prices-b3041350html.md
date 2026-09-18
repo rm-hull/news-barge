@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: The agreement would give the US control of 65 billion barrels of Venezuelan
   oil
 image: https://static.independent.co.uk/2026/08/29/01/2291906874..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The U.S. has reached an agreement with Venezuela to take control of 65 billion barrels of the South American country’s oil reserves, President Donald Trump said on Friday

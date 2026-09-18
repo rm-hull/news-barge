@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Tributes have been paid to Lucia Sisic, who had a lifelong experience
   with a heart condition.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8924/live/46c368b0-ac3d-11f1-aa42-a9647fd0ba61.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Lucia Sisic pictured from the neck up, is smiling at the camera, she is indoors and a cabinet with glasses in it is visible over her shoulder](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/8924/live/46c368b0-ac3d-11f1-aa42-a9647fd0ba61.jpg)

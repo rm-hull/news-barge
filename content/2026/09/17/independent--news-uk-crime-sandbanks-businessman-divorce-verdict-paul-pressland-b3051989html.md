@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: Paul Pressland said that while he was relieved at being cleared of the
   alleged attack, there were 'no winners'
 image: https://static.independent.co.uk/2026/09/16/12/06/BNPS_PaulPressland_05.jpeg?trim=115,391,279,491&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A wealthy property developer has been found not guilty of strangling his estranged wife in a divorce row at their £3m Sandbanks home.

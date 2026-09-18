@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Jorge Ortega, 61, hit his head on the concrete platform at Ilford station
   and died of a severe traumatic brain injury two days after in December 2024
 image: https://static.independent.co.uk/2024/12/24/12/dffc0ba6755866117d215dfac808c893Y29udGVudHNlYXJjaGFwaSwxNzM1MTI5MjUz-2.78416557.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 An Elizabeth Line railway worker died after a single punch from a “angry” passenger, a court has heard.

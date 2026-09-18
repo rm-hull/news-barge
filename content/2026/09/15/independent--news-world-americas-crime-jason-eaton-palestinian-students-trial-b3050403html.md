@@ -9,6 +9,9 @@ description: Jason Eaton insisted he was acting on orders from the CIA and Mossa
   when he shot three Palestinian college students who were walking past his home a
   few days after Thanksgiving
 image: https://static.the-independent.com/2026/09/15/11/download.-1.?trim=0,3,0,3&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A quiet college town became the backdrop for horror when an afternoon walk ended in bloodshed, leaving three childhood friends permanently altered and launching a high-stakes legal battle over mind, motive, and murder.

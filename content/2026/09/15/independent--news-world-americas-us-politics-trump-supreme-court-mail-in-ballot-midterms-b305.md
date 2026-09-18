@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: The Supreme Court on Monday rejected President Donald Trump’s bid to
   restrict mail ballots for the midterm elections
 image: https://static.independent.co.uk/2026/09/01/14/27/GettyImages-2262888005.jpg?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 On Monday, the Supreme Court turned down President Donald Trump's request to limit mail-in voting ahead of the midterm elections, ending a series of urgent legal challenges as voting is already underway.

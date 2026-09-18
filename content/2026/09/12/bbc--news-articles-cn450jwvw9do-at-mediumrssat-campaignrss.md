@@ -8,6 +8,9 @@ published: '2026-09-12T00:00:00Z'
 description: Rival demonstrators march through Portsmouth as new police powers come
   into force.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/226c/live/e39915d0-aeaa-11f1-8972-d5c52a82c3b8.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Anti-migration protesters waving St George flags and flanked by police officers](https://ichef.bbci.co.uk/ace/standard/838/cpsprodpb/226c/live/e39915d0-aeaa-11f1-8972-d5c52a82c3b8.jpg)

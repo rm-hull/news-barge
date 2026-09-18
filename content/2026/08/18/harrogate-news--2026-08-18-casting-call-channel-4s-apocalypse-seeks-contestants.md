@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: BAFTA-winning production company The Garden is hunting for ordinary people
   to put their survival skills to the ultimate test in a potential second series of
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/Final-flyer-QR-Code-survival.webp
+categories:
+- Local
+- Harrogate
+- Technology & Software
 ---
 
 **BAFTA-winning production company The Garden is hunting for ordinary people to put their survival skills to the ultimate test in a potential second series of Channel 4’s major new show,* Apocalypse*.**

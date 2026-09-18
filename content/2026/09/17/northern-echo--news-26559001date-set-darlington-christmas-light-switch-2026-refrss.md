@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: The date has been confirmed for Darlington's 2026 Christmas lights switch-on,
   with festive entertainment, special guests and a fireworks…
 image: https://www.thenorthernecho.co.uk/resources/images/20210056.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Sarah Caldecott)*

@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Jack Bailey, 18, from Dunnington, busks across York city centre and The
   Press caught up with him after an 80-minute slot.
 image: https://www.yorkpress.co.uk/resources/images/21407193.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 ## Meet the teenage York busker impressing crowds and cruise ship agent

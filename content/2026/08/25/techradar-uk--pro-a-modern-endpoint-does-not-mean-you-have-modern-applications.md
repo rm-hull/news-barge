@@ -7,6 +7,9 @@ scraped_at: '2026-08-25T16:51:12Z'
 published: '2026-08-25T00:00:00Z'
 description: Why application modernization must start before endpoint migration
 image: https://cdn.mos.cms.futurecdn.net/KNPUc7wQaTTAwBR9EVypsK-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![An outline of a cloud in neon orange, inside a circle of blue fibers, suggesting cloud computing](https://cdn.mos.cms.futurecdn.net/KNPUc7wQaTTAwBR9EVypsK.jpg) 

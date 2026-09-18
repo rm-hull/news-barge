@@ -8,6 +8,10 @@ scraped_at: '2026-09-12T12:10:12Z'
 published: '2026-09-12T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/the-old-liquor-store-york-inside.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 A well-known York restaurant is up for sale.

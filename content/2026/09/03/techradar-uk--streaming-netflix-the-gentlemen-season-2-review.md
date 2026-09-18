@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: The Gentlemen season 2 returns to Netflix on September 3 — and I'm pleased
   to say it's just as moreish as its debut... only much, much darker.
 image: https://cdn.mos.cms.futurecdn.net/Mce5GsQDQHkUJGfB4qofvQ-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Arts & Culture
 ---
 
 ### TechRadar Verdict

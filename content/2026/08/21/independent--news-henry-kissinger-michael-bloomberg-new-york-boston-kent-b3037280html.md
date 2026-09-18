@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Philanthropist Nancy Kissinger, the wife of former Secretary of State
   Henry Kissinger, has died
 image: https://static.independent.co.uk/2026/08/21/18/Nancy_Kissinger_323_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Philanthropist Nancy Kissinger, onetime foreign policy researcher and wife of former Secretary of State Henry Kissinger, has died. She was 92.

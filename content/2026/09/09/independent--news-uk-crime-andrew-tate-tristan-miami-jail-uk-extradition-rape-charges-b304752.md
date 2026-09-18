@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: A federal judge ruled on Wednesday that the Tate brothers must remain
   in custody in Miami
 image: https://static.independent.co.uk/2026/09/09/18/2026-09-09T172329Z_325935384_RC2CNKAFX7KT_RTRMADP_3_USA-TATE.JPG?trim=4,0,4,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Andrew and Tristan Tate must remain in custody in Miami as they fight extradition to the United Kingdom, where the brothers are accused of rape and sex trafficking, a federal judge ruled on Wednesday.

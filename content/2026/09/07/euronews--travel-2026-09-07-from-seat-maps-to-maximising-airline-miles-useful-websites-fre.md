@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: If you want to make sure your window seat actually has a window, or you’re
   looking to save cash by earning more miles, here are the sites you need to bookmark.
 image: https://images.euronews.com/articles/stories/09/90/39/47/1200x675_cmsv2_0a5ffd49-623a-587d-be1a-03bf1f807c1e-9903947.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 ## If you want to make sure your window seat actually has a window, or you’re looking to save cash by earning more miles, here are the sites you need to bookmark.

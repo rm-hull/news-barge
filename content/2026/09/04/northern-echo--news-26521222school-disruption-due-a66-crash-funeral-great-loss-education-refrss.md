@@ -8,6 +8,12 @@ published: '2026-09-04T00:00:00Z'
 description: WE understand that there may be hundreds, perhaps more, wanting to pay
   their respects at today’s funeral of one of the young men killed before his…
 image: https://www.thenorthernecho.co.uk/resources/images/21359469.jpg?type=og-image&xType=0&yType=230
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
+- Society & Culture
 ---
 
 *(Image: PA)*

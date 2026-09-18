@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: The National Drought Group - formed of the Government, Met Office, water
   companies and other stakeholders - met again today to discuss the situation.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmJiYTRlNGFiLWYzNTYtNGVjNi1hZjQ4LWIwYWY4Y2M1NTdjNDo0MzZhNWE2OS03NTgwLTQ4ODctYjFhNy0wYzFlZDZiMWZmOWI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Yorkshire Water told by National Drought Group to do 'everything to minimise leaks'

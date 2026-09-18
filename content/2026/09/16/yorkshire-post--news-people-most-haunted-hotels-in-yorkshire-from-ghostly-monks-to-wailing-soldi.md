@@ -7,6 +7,11 @@ scraped_at: '2026-09-16T13:27:42Z'
 published: '2026-09-16T00:00:00Z'
 description: From ghostly monks to wailing soldiers, Yorkshire is full of spooky stories.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmNmOWI2OWY1LTE2ZDMtNGEzZS1hODU4LTcwZGFjNmM4Y2YwYjpjZjBlYWFlZi04MzMyLTRhYzEtYmFkNi1hZjJjZDYzM2JmMmU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # Most haunted hotels in Yorkshire: From ghostly monks to wailing soldiers

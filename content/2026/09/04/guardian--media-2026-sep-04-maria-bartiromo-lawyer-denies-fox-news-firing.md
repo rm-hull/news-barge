@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Fox announced host’s departure Thursday but gave no explanation, only
   saying it was effective immediately
 image: https://i.guim.co.uk/img/media/54202a20d2d8a4779f2c9139bdc2e36bf93f428f/984_559_4052_3243/master/4052.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=649158ab19848350bca6aaf8b296de52
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Maria Bartiromo’s lawyer sharply denied that she was fired from her job at Fox News on Friday, after reports that she was dismissed after divulging the network’s editorial guidance to the White House.

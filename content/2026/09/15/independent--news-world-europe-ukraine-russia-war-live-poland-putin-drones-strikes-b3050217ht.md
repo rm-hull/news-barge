@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Major Russian attack comes as Nato fighter jet shot down a drone in Lithuania
   shortly after midnight
 image: https://static.independent.co.uk/2026/09/08/10/2293654259..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Poland scrambled fighter jets in the early hours of Tuesday as it responded to Russia's latest attack on Ukraine involving jet-powered drones.

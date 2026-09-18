@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: Police have launched an investigation after reports of a vehicle being
   “egged” in a Scarborough car park.
 image: https://www.yorkpress.co.uk/resources/images/21365384.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
+- True Crime
+- News & Politics
 ---
 
 *(Image: Pixabay)*

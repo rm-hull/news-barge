@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: A mountain-biking Darlington teenager was told he was "very lucky" to
   be alive after plunging around seven feet from his bike in woodland.
 image: https://www.thenorthernecho.co.uk/resources/images/21411042.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 A mountain-biking teenager was told he was "very lucky" to be alive after plunging around seven feet from his bike in woodland.

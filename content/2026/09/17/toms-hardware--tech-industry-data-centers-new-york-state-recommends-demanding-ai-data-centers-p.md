@@ -9,6 +9,11 @@ scraped_at: '2026-09-17T13:23:08Z'
 published: '2026-09-17T00:00:00Z'
 description: Proposal could funnel more than $9 billion into New York towns’ coffers.
 image: https://cdn.mos.cms.futurecdn.net/qdpwyk7M9YSzwdiLj4qhtZ-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![a data center in Virginia](https://cdn.mos.cms.futurecdn.net/qdpwyk7M9YSzwdiLj4qhtZ.png) 

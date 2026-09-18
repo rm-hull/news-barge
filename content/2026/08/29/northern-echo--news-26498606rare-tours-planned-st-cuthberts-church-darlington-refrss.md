@@ -9,6 +9,12 @@ published: '2026-08-29T00:00:00Z'
 description: St Cuthbert’s Church in Darlington will welcome visitors as part of Heritage
   Open Days, offering music, history, crafts and conservation…
 image: https://www.thenorthernecho.co.uk/resources/images/21376517.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 *(Image: Stuart Boulton)*

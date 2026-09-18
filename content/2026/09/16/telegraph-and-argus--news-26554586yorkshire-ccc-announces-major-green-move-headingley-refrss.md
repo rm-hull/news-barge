@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: YORKSHIRE County Cricket Club has signed a new partnership with clean
   energy tech firm UrbanChain
 image: https://www.thetelegraphandargus.co.uk/resources/images/13438935.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: PA)*

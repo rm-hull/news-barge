@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Maia Bouchier's stunning century helps England women seal their record
   one-day international chase of 282 to beat Ireland in the series opener.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/024b/live/1837a650-a62f-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Highlights: Bouchier delivers as England secure record-breaking win

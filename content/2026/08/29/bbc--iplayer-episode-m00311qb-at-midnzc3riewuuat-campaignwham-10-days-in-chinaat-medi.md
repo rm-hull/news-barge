@@ -9,6 +9,11 @@ description: Unseen and beautifully restored footage captures Wham!'s historic 1
   China tour, where George Michael and Andrew Ridgeley brought western pop to a curious
   and expectant nation.
 image: https://ichef.bbci.co.uk/images/ic/1200x675/p0p5myvx.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 # Wham! 10 Days in China

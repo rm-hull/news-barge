@@ -9,6 +9,8 @@ published: '2026-08-26T00:00:00Z'
 description: OM System shared a YouTube teaser announcing the launch of a digital
   rangefinder-style camera, and it's coming on September 9
 image: https://cdn.mos.cms.futurecdn.net/A5TUAY9BMaD5Xn5v4CwsSN-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Olympus Pen-F digital rangefinder camera on a scratched wooden table](https://cdn.mos.cms.futurecdn.net/A5TUAY9BMaD5Xn5v4CwsSN.jpg) 

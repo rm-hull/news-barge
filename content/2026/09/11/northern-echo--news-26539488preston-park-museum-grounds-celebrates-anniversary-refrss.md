@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: THE Spence Building at Preston Park Museum has welcomed more than 100,000
   visitors in its first year.
 image: https://www.thenorthernecho.co.uk/resources/images/21435798.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Stuart Boulton)*

@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: LIVE facial recognition (LFR) technology will be used at Leeds Festival
   for the first time this year, West Yorkshire Police have confirmed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18441802.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Matthew Eachus)*

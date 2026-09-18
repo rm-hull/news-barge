@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: The French president says he has tasked the government with protecting
   critical infrastructure and defence industry sites.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72d4/live/9686b940-b360-11f1-8f19-bd786ea30d0b.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Emmanuel Macron, wearing a dark suit and tie, gestures with his left hand at a lecturn in the Elysee Palace with French and European Union flags behind him.](https://ichef.bbci.co.uk/ace/standard/863/cpsprodpb/72d4/live/9686b940-b360-11f1-8f19-bd786ea30d0b.jpg)

@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Lewis Greathead, 32, of Hawthorn Road, Spennymoor, has been given a suspended
   prison sentence after admitting assault causing actual bodily harm to…
 image: https://www.thenorthernecho.co.uk/resources/images/19733238.jpg?type=og-image&yType=592
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: The Northern Echo)*

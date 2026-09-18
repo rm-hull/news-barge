@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: BBC special correspondent Allan Little met the "Butcher of Bosnia" in
   the early months of the Bosnian war.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e8bc/live/3a985690-a233-11f1-80a2-67c89a95284e.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Bosnian Serb General Ratko Mladic leaves a meeting at the airport in Sarajevo, Bosnia and Herzegovina April 13, 1993. He is wearing a green and gold military peaked cap.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/e8bc/live/3a985690-a233-11f1-80a2-67c89a95284e.jpg)

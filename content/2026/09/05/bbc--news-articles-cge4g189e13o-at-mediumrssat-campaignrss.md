@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: It will bring together forces across England to target organised crime
   groups and drivers who dodge fines.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cfa1/live/9b4de2e0-a91b-11f1-a3dc-e78e2c02425d.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A male police officer stands with a notepad next to a silver car. A police car is just behind it](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/cfa1/live/9b4de2e0-a91b-11f1-a3dc-e78e2c02425d.jpg)

@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: Ukraine’s leadership has described the internal conflict as ‘absolutely
   disgraceful’
 image: https://static.independent.co.uk/2026/09/03/8/10/ukraine-friendly-fire-20dc38f0.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Volodymyr Zelensky has condemned Ukraine’s domestic and military intelligence agencies over a “disgraceful” shootout that erupted between agents in the streets of Kyiv on Wednesday.

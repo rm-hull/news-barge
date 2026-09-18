@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Vladmir Teslov, 27, charged after allegedly seeking to provide information
   about Ukrainian forces to ‘Russian intelligence services’
 image: https://i.guim.co.uk/img/media/d5e43bc671746cebfb46719aa9c59a84f32f8510/430_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=75cc0195ad1c9c256c58dc13d00a9b7b
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Australian police have charged a man who allegedly joined the Ukrainian military and sought to provide information about its activities to people he suspected were Russian agents.

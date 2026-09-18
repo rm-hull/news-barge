@@ -8,6 +8,9 @@ published: '2026-08-30T00:00:00Z'
 description: All the ways to watch Day 1 live streams at 2026 US Open online and from
   anywhere – including for FREE – as the stars get things started at Flushing Meadows.
 image: https://cdn.mos.cms.futurecdn.net/LxJMZDj2Lt4sKWSVxKYcRA-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Venus Williams in action during practice during Fan Week as part of the 2026 US Open at USTA Billie Jean King National Tennis Center.](https://cdn.mos.cms.futurecdn.net/LxJMZDj2Lt4sKWSVxKYcRA.jpg) 

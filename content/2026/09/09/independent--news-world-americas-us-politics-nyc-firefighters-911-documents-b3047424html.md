@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: NYFD union leaders are pressing for health care protections for thousands
   of sick members after ‘disgusting’ revelations
 image: https://static.independent.co.uk/2026/09/01/19/1248496468..?trim=34,0,34,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A massive tranche of never-before-released documents shows how New York City officials knew the potentially devastating consequences of exposure to Ground Zero toxins in the aftermath of the September 11, 2001 terror attacks.

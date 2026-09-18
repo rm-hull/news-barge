@@ -7,6 +7,11 @@ scraped_at: '2026-08-29T06:58:43Z'
 published: '2026-08-29T00:00:00Z'
 description: 'Can you make notes of any changes or points:'
 image: https://www.thenorthernecho.co.uk/resources/images/21377435.jpg?type=og-image&xType=0&yType=1054
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 THE two faces of Middlesbrough, as seen from the air by our regular contributor, Northern Perspectives.

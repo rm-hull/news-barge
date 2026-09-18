@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: One witness said the encounter seemed like ‘some twisted game’ to the
   masked man
 image: https://static.independent.co.uk/2026/08/20/19/28/Untitled-design-(5).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The man accused of terrorizing multiple people in Philadelphia while wearing a Chucky mask and asking a jogger if she was “ready to die” has been identified by police.

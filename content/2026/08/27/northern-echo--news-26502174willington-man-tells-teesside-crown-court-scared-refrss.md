@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A Willington man accused of killing his biological dad within hours of
   seeing him for the first time has told a court he only pushed him gently.
 image: https://www.thenorthernecho.co.uk/resources/images/20370365.jpg?type=og-image&xType=0&yType=315
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 A man accused of killing his biological dad within hours of seeing him for the first time has told a court he only pushed him gently.

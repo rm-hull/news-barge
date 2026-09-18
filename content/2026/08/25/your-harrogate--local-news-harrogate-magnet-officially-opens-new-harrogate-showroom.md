@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Kitchen retailer Magnet has officially opened its new showroom in Harrogate
   town centre.
 image: https://mmo.aiircdn.com/409/6a8d4caf4d66533632e.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8d4caf4d66533632e.jpg) 

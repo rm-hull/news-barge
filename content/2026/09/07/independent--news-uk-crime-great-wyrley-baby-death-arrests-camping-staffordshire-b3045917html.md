@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Staffordshire Police confirmed the arrest of two men and two women after
   a three-month-old child died on Saturday
 image: https://static.independent.co.uk/2025/10/13/10/41/Stafford-child-deaths-incident-cr9uc9ob.jpeg?trim=237,0,238,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Two men and two women have been arrested on suspicion of murder over the death of a three-month-old girl who was camping with family in Great Wyrley, Staffordshire Police said.

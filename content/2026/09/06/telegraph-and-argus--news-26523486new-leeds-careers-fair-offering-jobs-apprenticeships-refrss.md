@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: A NEW careers fair is coming to Leeds, promising jobs, training, and
   a fresh start for job seekers.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21412529.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

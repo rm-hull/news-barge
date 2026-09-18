@@ -8,6 +8,8 @@ published: '2026-09-10T00:00:00Z'
 description: We scored the Anker Prime 200W GaN desktop charger 4.5 stars in our review,
   and with 200W power across 6 ports, it's an easy recommendation for your desk.
 image: https://cdn.mos.cms.futurecdn.net/QkqrCFfN3tFRHFZxNXPawi-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Anker Prime Charger (200W, 6 ports, GaN) on stone surface against pink background](https://cdn.mos.cms.futurecdn.net/QkqrCFfN3tFRHFZxNXPawi.jpg) 

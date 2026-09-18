@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Grunge Included 2026, the UK’s first academic conference dedicated to
   the genre, will take place at York St John University.
 image: https://www.yorkpress.co.uk/resources/images/21329423.jpg?type=og-image&xType=0&yType=75
+categories:
+- Local
+- York
+- History
 ---
 
 ## UK’s first academic grunge conference to explore music and culture in York

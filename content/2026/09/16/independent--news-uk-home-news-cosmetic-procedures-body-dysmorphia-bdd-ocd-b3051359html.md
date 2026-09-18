@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: New draft guidance says the patient should be referred to a specialist
   instead
 image: https://static.independent.co.uk/2026/09/16/15/38/iStock-2269371483.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Health officials have advised that people seeking cosmetic procedures ought to be screened for body dysmorphic disorder (BDD).

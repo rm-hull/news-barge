@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: A man who treated his partner “appallingly” by squeezing her neck until
   she was almost breathless has narrowly avoided immediate prison.
 image: https://www.thenorthernecho.co.uk/resources/images/21443567.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: PUBLIC)*

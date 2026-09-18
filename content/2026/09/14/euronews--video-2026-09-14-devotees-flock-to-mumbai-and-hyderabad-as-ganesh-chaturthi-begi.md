@@ -9,6 +9,10 @@ description: Video. India began its annual Ganesh Chaturthi celebrations on Mond
   14 September, as Hindu families and community groups installed brightly decorated
   idols of Ganesha in homes and public shrines.
 image: https://images.euronews.com/articles/stories/09/91/30/56/1200x675_cmsv2_52c91e5f-4759-5889-abd7-faa1f8af32dc-9913056.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 In Mumbai, markets filled with devotees buying Ganesha idols, flowers, sweets and other offerings for the festival dedicated to the elephant-headed god of wisdom and prosperity. Smaller idols were carried home, while larger ones were taken through the streets on decorated trucks, accompanied by drummers and chanting devotees.

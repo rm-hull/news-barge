@@ -10,6 +10,9 @@ description: Chris Wright declines to say when gas prices will begin to go down,
   claimed that loosening fuel standards would counterbalance continued conflict in
   the Strait of Hormuz
 image: https://static.independent.co.uk/2026/09/06/14/43/chriswright_sotu_926.jpg?trim=0,42,0,41&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump’s energy chief hesitated to say whether gas prices would go up or down, with the midterms only two months away.

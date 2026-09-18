@@ -10,6 +10,10 @@ description: Video. Dozens of Israelis demonstrated outside the Knesset in West 
   on 17 September, accusing political leaders of using regional tensions to interfere
   with the 27 October parliamentary election.
 image: https://images.euronews.com/articles/stories/09/91/80/68/1200x675_cmsv2_fa8864a8-ba2b-532b-b336-fbb47c3407aa-9918068.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 Some protesters wore masks bearing **Benjamin Netanyahu’s** face, while others carried placards warning of an “election disruption war”. A missile-shaped sign suggested that a new security crisis could be used to justify postponing the vote.

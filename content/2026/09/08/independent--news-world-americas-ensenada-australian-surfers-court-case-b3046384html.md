@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Prosecutors say the men were killed during an attempt to steal their
   pickup truck
 image: https://static.independent.co.uk/2026/09/08/07/Mexico_Murder_Trial_27734.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Three men charged with murder in the 2024 killings of two Australian brothers and an American friend went on trial Monday in Mexico’s Baja California state, court officials said.

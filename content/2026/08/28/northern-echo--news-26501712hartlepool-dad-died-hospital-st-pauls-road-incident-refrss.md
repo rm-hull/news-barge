@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Anthony Armstrong, known as Tony, died at James Cook Hospital in Middlesbrough
   on July 30 this year, after an incident on St Paul's Road in…
 image: https://www.thenorthernecho.co.uk/resources/images/21380953.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: CLEVELAND POLICE)*

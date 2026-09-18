@@ -9,6 +9,9 @@ published: '2026-09-14T00:00:00Z'
 description: We're mere days away from the Harrigans' chaotic return to the small
   screen. But when does MobLand season 2 episode 1 arrive on Paramount+?
 image: https://cdn.mos.cms.futurecdn.net/SqSxan6tdDxkBh5iA5nu8-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Maeve cheers in victory](https://cdn.mos.cms.futurecdn.net/SqSxan6tdDxkBh5iA5nu8.jpg) 

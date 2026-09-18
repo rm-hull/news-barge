@@ -8,6 +8,8 @@ scraped_at: '2026-09-17T19:43:12Z'
 published: '2026-09-17T00:00:00Z'
 description: Organic, not silicon
 image: https://cdn.mos.cms.futurecdn.net/fUFkhU5GPAG6EsP2Nx9iBY-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A TSMC Silicon Wafer](https://cdn.mos.cms.futurecdn.net/fUFkhU5GPAG6EsP2Nx9iBY.jpg) 

@@ -8,6 +8,12 @@ published: '2026-08-22T00:00:00Z'
 description: Nestled in the North York Moors, Rosedale offers a picturesque 8.5-mile
   walk through history and nature.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21343298.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
+- History
 ---
 
 THERE is something very English about Rosedale on the North York Moors. It is also mostly quiet walking. The low level moors and dale floor combine with the industrial remains of the lead mining industry to offer a pleasant day to explore.

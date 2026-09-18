@@ -8,6 +8,9 @@ scraped_at: '2026-09-18T04:34:16Z'
 published: '2026-09-17T00:00:00Z'
 description: Flock really isn't popular, and the cops aren't helping
 image: https://cdn.mos.cms.futurecdn.net/MNtmpT5HC2DfhN6gBzHR3f-2560-80.jpg
+categories:
+- Technology & Software
+- True Crime
 ---
 
 ![A flock camera in front of a blue sky](https://cdn.mos.cms.futurecdn.net/MNtmpT5HC2DfhN6gBzHR3f.jpg) 

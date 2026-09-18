@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: A warning has been issued to shoppers after a Snugly weighted stuffed
   toy has been flagged as a serious risk of suffocation to young children.
 image: https://www.gazetteherald.co.uk/resources/images/21358831.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 *(Image: OPSS)*

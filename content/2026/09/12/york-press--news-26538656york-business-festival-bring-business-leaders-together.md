@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: York is set to host a major gathering of business leaders, entrepreneurs
   and industry experts.
 image: https://www.yorkpress.co.uk/resources/images/21434793.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ## Major York business event to tackle range of issues facing employers today

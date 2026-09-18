@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: A man has been arrested after a police incident prompted the closure
   of part of the M621 on Friday morning.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21304007.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: UGC)*

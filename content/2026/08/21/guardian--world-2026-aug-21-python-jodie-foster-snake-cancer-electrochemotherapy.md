@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Chester zoo resident, 23, ‘back to her usual feisty self’ after electrochemotherapy
   for tumour in her jaw
 image: https://i.guim.co.uk/img/media/ef9fee5d3345a3f4013ed0342b0cd03aeba79b0d/525_0_4376_3500/master/4376.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7afa4699d7e9774b4df9786d9a0185d1
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 A 15ft (4.5-metre) python is believed to be the first snake in the world to be given a pioneering, life-saving cancer treatment normally used on humans.

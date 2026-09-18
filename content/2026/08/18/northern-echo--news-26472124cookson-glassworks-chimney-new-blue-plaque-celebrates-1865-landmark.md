@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A new South Tyneside blue plaque has been installed on the former Cookson
   Glassworks chimney in South Shields, commemorating the town’s historic…
 image: https://www.thenorthernecho.co.uk/resources/images/21332168.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: South Tyneside Council)*

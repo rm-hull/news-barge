@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: I used a sous vide machine and guidance from infectious disease experts
   to pasteurize eggs without hard-boiling them.
 image: https://media.wired.com/photos/6a8c751405c1c68fdba8f759/191:100/w_1280,c_limit/Want-Safer-Eggs--A-Sous-Vide-Machine-Might-Be-the-Answer.jpg
+categories:
+- Technology & Software
+- Science
+- Food & Cooking
 ---
 
 It may finally be safe to eat lettuce again after June’s horrifying—and bagged-salad-trust-destroying—cyclospora outbreak. But the summer of ’26’s foodborne illness train rolls on with a new rash of recalls: for salmonella.

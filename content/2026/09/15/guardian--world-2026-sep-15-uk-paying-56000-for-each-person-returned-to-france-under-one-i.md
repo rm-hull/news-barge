@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Home secretary defends cost, saying it is about the same or cheaper than
   putting someone up in a hotel for a year
 image: https://i.guim.co.uk/img/media/96fd6730a8c17c9d33b92dd6eab60482d28419ef/345_0_4120_3296/master/4120.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=41fa2b2a3a6d435c857190a7fd54c394
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 The government’s “one in, one out” deal is costing about £56,000 for every person sent back to France, Shabana Mahmood has told MPs.

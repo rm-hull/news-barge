@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T19:23:20Z'
 published: '2026-09-02T00:00:00Z'
 description: A spat has broken out between two York bars over plans for a beer garden.
 image: https://www.yorkpress.co.uk/resources/images/21403007.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 ## Beer garden plan spat between neighbouring York bars

@@ -9,6 +9,9 @@ published: '2026-09-18T00:00:00Z'
 description: Former prime minister says US would ‘scuttle itself back to San Diego’,
   leaving Australia to deal with retribution from China
 image: https://i.guim.co.uk/img/media/cf336835591699f9e38978e80e1f4e23ebe0ed35/918_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=00284d28ce04b9f3c8ef5eb92f5a4334
+categories:
+- UK
+- News & Politics
 ---
 
 Aukus critic Paul Keating has said the submarine deal is locking Australia in to any future US conflict with China – “a war America would certainly lose” – and making Australia a target for retribution.

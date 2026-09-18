@@ -10,6 +10,10 @@ description: In a Euronews Forum panel in Dubai, Azerbaijan’s presidential adv
   committed to preserving the Christian heritage on its territory as it is part of
   its history.
 image: https://images.euronews.com/articles/stories/09/91/64/04/1200x675_cmsv2_69695f40-f25d-5ae6-99c1-3b2cb48f1c15-9916404.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## In a Euronews Forum panel in Dubai, Azerbaijan’s presidential advisor Hikmet Hajiyev said peace with Armenia is “an uphill struggle,” but Azerbaijan is committed to preserving the Christian heritage on its territory as it is part of its history.

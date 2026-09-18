@@ -9,6 +9,12 @@ published: '2026-08-18T00:00:00Z'
 description: PLANS to expand a dog walking site have been refused over concerns it
   would lead to run ins between children and “excitable” dogs.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19314765.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Pets & Animals
+- Family & Parenting
 ---
 
 *(Image: Pixabay)*

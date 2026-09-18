@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Authorities in Pattaya announced a crackdown on prostitution ahead of
   the aircraft carrier’s arrival
 image: https://static.independent.co.uk/2026/09/01/15/2026-08-29T100042Z_1933532682_RC2VWJARBOEJ_RTRMADP_3_IRAN-CRISIS-USA-MILITARYFAMILIES.JPG?trim=0,534,0,309&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 The troubled USS Abraham Lincoln docked at a resort in Thailand after more than 250 days at sea and extended deployment in the Middle East.

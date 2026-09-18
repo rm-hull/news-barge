@@ -10,6 +10,10 @@ description: Helped by Serena and Venus Williams playing doubles again, ESPN had
   largest viewership through three rounds of the U.S. Open since the younger sister
   last competed in 2022
 image: https://static.independent.co.uk/2026/09/05/21/US_Open_Tennis_38533.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Williams sisters' return to play doubles at the US Open helps ESPN to an increase in viewers

@@ -8,6 +8,9 @@ published: '2026-08-30T00:00:00Z'
 description: The Liux Big microcar is made in Spain. The startup thinks it can compete
   in a crowded market with its tiny electric car built around sustainability.
 image: https://techcrunch.com/wp-content/uploads/2026/08/LIUX-BIG-Factory-001.png?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Cars in European cities are smaller than ever. But as Europe’s appetite for microcars has grown, the cute Italian ‘yoghurt pots’ have largely given way to small Chinese EVs. Even Smart, the the iconic ultracompact car brand, has moved manufacturing to China.

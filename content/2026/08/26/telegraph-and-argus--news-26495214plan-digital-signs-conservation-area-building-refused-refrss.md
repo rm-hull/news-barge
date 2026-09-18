@@ -8,6 +8,13 @@ published: '2026-08-26T00:00:00Z'
 description: Large digital signs on a Bradford city centre building would harm a Conservation
   Area – planners have decided.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21039421.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Arts & Culture
+- Technology & Software
 ---
 
 *(Image: T&A)*

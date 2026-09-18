@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: For 66 years, the smell of freshly baked goods has drawn customers through
   the doors of a much-loved Darlington bakery where the same family has…
 image: https://www.thenorthernecho.co.uk/resources/images/21411121.jpg?type=og-image&xType=0&yType=91
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 For 66 years, the smell of freshly baked goods has drawn customers through the doors of a much-loved Darlington bakery where the same family has served generations of shoppers.

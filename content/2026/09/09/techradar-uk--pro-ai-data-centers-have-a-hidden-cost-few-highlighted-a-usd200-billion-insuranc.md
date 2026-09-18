@@ -8,6 +8,10 @@ scraped_at: '2026-09-10T04:31:46Z'
 published: '2026-09-09T00:00:00Z'
 description: Insurers have identified a lucrative new market
 image: https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk-2560-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Data centre.](https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk.jpg) 

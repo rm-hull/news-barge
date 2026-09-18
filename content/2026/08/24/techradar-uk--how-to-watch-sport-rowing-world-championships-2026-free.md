@@ -8,6 +8,9 @@ published: '2026-08-24T00:00:00Z'
 description: All the ways to watch Rowing World Championships 2026 live streams –
   including for FREE – with Oliver Zeidler and Karolien Florijn in action in Amsterdam.
 image: https://cdn.mos.cms.futurecdn.net/Qzn3BrmsSd5MwmX6Ka2fXa-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Rower Oliver Zeidler celebrates winning men's single sculls gold at the Paris 2024 Olympics](https://cdn.mos.cms.futurecdn.net/Qzn3BrmsSd5MwmX6Ka2fXa.jpg) 

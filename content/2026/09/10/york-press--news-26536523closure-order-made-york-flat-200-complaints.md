@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Magistrates have made a three-month closure order on a York flat at the
   centre of hundreds of incidents of anti-social behaviour.
 image: https://www.yorkpress.co.uk/resources/images/21356512.jpg?type=og-image&xType=0&yType=27
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: TVP Reading/ Facebook)*

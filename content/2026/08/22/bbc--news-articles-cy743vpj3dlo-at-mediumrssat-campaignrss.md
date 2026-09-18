@@ -8,6 +8,12 @@ published: '2026-08-22T00:00:00Z'
 description: Videos of extreme cleaning posted on social media often go viral and
   are watched millions of times.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9292/live/e42bd600-9d3d-11f1-bc05-aff3aa1f91c7.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Film & TV
+- Comedy & Entertainment
 ---
 
 ![Two women in a selfie. The woman on the right has ginger hair tied back and a fringe. Her colleague has brown hair which has been tied back. They are wearing white hazmats suit and navy face masks.](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/9292/live/e42bd600-9d3d-11f1-bc05-aff3aa1f91c7.jpg)

@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The Massachusetts Division of Marine Fisheries has launched the “Flat
   is Back” campaign to promote flounder, an underutilized flatfish
 image: https://static.independent.co.uk/2026/09/15/17/Flounder_Campaign_Massachusetts_43_95.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Aperol spritzes. Dubai chocolate. Dill pickle, well, everything. Thanks to Instagram and TikTok, food trends have never been more of-the-moment, with even seemingly mundane ingredients like cottage cheese enjoying a sudden resurgence.

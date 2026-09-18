@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Police said the bike was travelling in convoy with a second bike, whose
   rider left the scene before officers arrived
 image: https://static.independent.co.uk/2026/09/04/10/01M1NWZVBJ3J4YYJGKCVP7Z1BH.jpg?trim=136,13,742,13&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A mother has paid tribute to a four-year-old boy as her “pride and joy” after he was killed when the off-road motorbike he was a passenger on collided with a car.

@@ -7,6 +7,11 @@ scraped_at: '2026-09-05T11:49:13Z'
 published: '2026-09-05T00:00:00Z'
 description: Almost 3,000 people died in the terror attacks on New York in 2001.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjA4MWE2NTdmLTJiZDktNDI4MS1hN2E3LTE3NjAxMTJhNjYwYjowZjU2NzZmMC1lMjlhLTRkZWEtODAwOC00Y2FmZDhjY2Q4YjQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 Along with photographer Bruce Rollinson and feature writer John Woodcock, Andrew Vine was dispatched to New York by The Yorkshire Post to cover the aftermath of the worst terrorist attack in history.

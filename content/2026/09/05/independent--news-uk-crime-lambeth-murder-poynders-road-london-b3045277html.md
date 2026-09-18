@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Police were called to a property in Lambeth on Friday evening and a man
   was pronounced dead at the scene
 image: https://static.independent.co.uk/2026/04/29/11/29111337-668f05b5-e81a-4bbe-a8d1-918e1ec3fcce.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Police have started a murder probe following the death of a man in South London.

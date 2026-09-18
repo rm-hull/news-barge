@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T13:05:53Z'
 published: '2026-08-21T00:00:00Z'
 description: Lawsuit says Logitech should return tariff refunds to customers
 image: https://cdn.mos.cms.futurecdn.net/WL6YNSveMbtJt9RgG6z2WV-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![The Logitech POP Icon Keys keyboard against a blue background.](https://cdn.mos.cms.futurecdn.net/WL6YNSveMbtJt9RgG6z2WV.jpg) 

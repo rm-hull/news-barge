@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: The USS Lincoln is docking close to Pattaya, known for its raucous nightlife,
   and for sex tourism.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/201f/live/e9641b80-a681-11f1-b276-f1ba527f802d.jpg
+categories:
+- UK
+- News & Politics
+- Travel
+- Lifestyle & Fashion
 ---
 
 ![The USS Abraham Lincoln](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/201f/live/e9641b80-a681-11f1-b276-f1ba527f802d.jpg)

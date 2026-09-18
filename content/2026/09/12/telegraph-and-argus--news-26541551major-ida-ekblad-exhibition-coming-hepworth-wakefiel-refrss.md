@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: NORWEGIAN artist Ida Ekblad will open a major solo exhibition at The
   Hepworth Wakefield later this year.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21439070.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Aaron Stempien)*

@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: 'Exclusive: Badenoch did not like ‘rude’ Sunak and wanted to ‘bring him
   down’ as PM, new book by Sir Anthony Seldon claims'
 image: https://static.independent.co.uk/2026/08/21/15/43/GettyImages-2183326354-copy-f0b84323.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Kemi Badenoch “had no respect” for former Conservative prime minister Rishi Sunak and secretly tried to bring him down before the last general election, a new book has claimed.

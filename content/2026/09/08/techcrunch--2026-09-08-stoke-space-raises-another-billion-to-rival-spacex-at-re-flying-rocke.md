@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: Stoke has "completed the initial closing" of a $1B Series E round intended
   to help it reach orbit and prepare a new, larger rocket for operations.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Stage2.jpg?resize=1200,800
+categories:
+- Science
+- Technology & Software
 ---
 
 The fuel for a fully reusable rocket that can unlock truly low-cost access to space isn’t methane or liquid oxygen. It’s cash, and Stoke Space Technologies is tanking up. The company has now “completed the initial closing” of a $1 billion Series E round intended to help it reach orbit and prepare a new, larger rocket for operations.

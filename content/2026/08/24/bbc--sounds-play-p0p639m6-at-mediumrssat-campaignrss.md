@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Canadian Prime Minister Mark Carney says he will match US tariffs “dollar
   for dollar”.
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0j72y80.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## Episode details

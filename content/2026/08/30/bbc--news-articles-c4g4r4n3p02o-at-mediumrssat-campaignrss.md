@@ -7,6 +7,10 @@ scraped_at: '2026-08-31T05:22:49Z'
 published: '2026-08-30T00:00:00Z'
 description: Young people say gardening offers joy, serenity and a sense of community.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d92e/live/f001ee10-a067-11f1-ab4b-e3f95ee34b2e.jpg
+categories:
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 ![Hannah is a woman in her early 30s. She has long blonde hair and is smiling at the camera. She's pictured in front of flowering plants](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d92e/live/f001ee10-a067-11f1-ab4b-e3f95ee34b2e.jpg)

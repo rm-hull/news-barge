@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: Yorkshire v Leicestershire final day abandoned without a ball being bowled
   with hosts claiming nine points and Foxes 11 in Division One.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1648/live/4c20c9c0-a467-11f1-b370-b9b7934350c8.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![A lone fan in the stands at North Marine Road on the final day.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/1648/live/4c20c9c0-a467-11f1-b370-b9b7934350c8.jpg)

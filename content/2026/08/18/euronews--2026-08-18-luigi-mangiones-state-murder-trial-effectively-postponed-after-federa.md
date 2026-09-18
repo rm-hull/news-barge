@@ -10,6 +10,11 @@ description: Mangione’s attorneys argued that he was being double charged for 
   pleaded guilty to the stalking and fatal shooting of UnitedHealthcare CEO Brian
   Thompson in 2024.
 image: https://images.euronews.com/articles/stories/09/87/80/29/1200x675_cmsv2_579bf729-7ddc-5f33-9f95-95bd8c5e3677-9878029.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- True Crime
 ---
 
 ## Mangione’s attorneys argued that he was being double charged for the same “criminal transaction” pleading for the state case to be tossed out. Mangione pleaded guilty to the stalking and fatal shooting of UnitedHealthcare CEO Brian Thompson in 2024.

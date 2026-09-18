@@ -10,6 +10,9 @@ description: Netflix has revealed the first details of the upcoming Grand Theft 
   6 extended look, including runtime, and confirmed all footage shown will be captured
   on the base PlayStation 5.
 image: https://cdn.mos.cms.futurecdn.net/SaNor5hWkzZMq2mVHY6sJY-2560-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/SaNor5hWkzZMq2mVHY6sJY.jpg) 

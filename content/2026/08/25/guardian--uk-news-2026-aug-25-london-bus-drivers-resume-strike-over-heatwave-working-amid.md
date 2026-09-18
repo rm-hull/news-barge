@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Drivers concerned that bus operator’s offer to retrofit cabs on 730 buses
   will not be complete by next summer
 image: https://i.guim.co.uk/img/media/580ac904eeffa388170d17100a85c55fce0e4686/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a25cd90d770d4787aa8fe23fcecf71d
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 London bus drivers have resumed strike action over having to work in high temperatures, amid fears that proposed improvements to air conditioning will not be complete by next summer.

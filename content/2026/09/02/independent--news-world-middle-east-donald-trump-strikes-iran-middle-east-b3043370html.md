@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: US Centcom said it had struck IRGC air defences and maritime assets as
   Iran targeted American bases across the region
 image: https://static.independent.co.uk/2026/09/02/9/17/Iran-796e99f7.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 US president Donald Trump has insisted he “couldn’t care less” if Iran signs a “worthless” deal to end the war, as both sides launched fresh strikes in the spiralling conflict.

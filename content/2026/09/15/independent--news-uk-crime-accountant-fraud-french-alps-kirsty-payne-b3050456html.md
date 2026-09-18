@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Kirsty Payne initially claimed the cash was for a family member’s medical
   treatment
 image: https://static.independent.co.uk/2026/02/13/14/02/iStock-619378970-(1).jpeg?trim=0,14,0,14&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 A chartered accountant has been jailed after defrauding her employer of more than £40,000 before spending it all on a ski trip to the French Alps.

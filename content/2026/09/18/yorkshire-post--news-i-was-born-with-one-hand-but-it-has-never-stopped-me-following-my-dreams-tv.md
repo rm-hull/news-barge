@@ -11,6 +11,11 @@ description: When Bruce Kenneth moved from his native New Jersey to West Yorkshi
   a change of career as he decided to pursue his dream of being a furniture designer
   and maker – despite only being born with one hand.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjNkYjhiYjM2LTgzNDktNDE3MS04MmNjLWYyMDliNTE1NDMwODoxMTFmYjkyMy1hZjM2LTQxMjMtOGViYi1mZDIwNzVmM2ZjOGM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # "I was born with one hand but it has never stopped me following my dreams," TV furniture maker Bruce Kenneth

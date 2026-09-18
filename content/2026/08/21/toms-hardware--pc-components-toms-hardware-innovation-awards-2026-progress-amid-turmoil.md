@@ -7,6 +7,9 @@ scraped_at: '2026-08-21T16:47:43Z'
 published: '2026-08-21T00:00:00Z'
 description: Affordable memory and storage are the only missing link.
 image: https://cdn.mos.cms.futurecdn.net/EDLHqMQ8ViAEzb8xLyQsiS-1280-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Tom's Hardware Innovation Awards 2026 cover image](https://cdn.mos.cms.futurecdn.net/EDLHqMQ8ViAEzb8xLyQsiS.png) 

@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Inmates would take over ‘basic’ road maintenance duties, allowing skilled
   crews to focus on fixing 500,000 potholes
 image: https://i.guim.co.uk/img/media/73072e232729e9e5b2619fbe84f4dee47245dff1/653_0_6530_5224/master/6530.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=35295c96d8896d3beccb9a352ce8d327
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Victorian prisoners will be put to work on road maintenance as part of Labor’s plan to fix the state’s potholes if re-elected.

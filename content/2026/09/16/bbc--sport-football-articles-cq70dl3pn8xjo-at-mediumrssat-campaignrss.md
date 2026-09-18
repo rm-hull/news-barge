@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: There's nothing quite like the satisfaction of unearthing an absolute
   Fantasy Premier League bargain - so who are the most iconic picks ever?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9662/live/058c3d40-b0fc-11f1-a451-6b1ff10ed362.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Graphic with Mahrez, Michu and Alexander-Arnold](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/a1f4/live/2009f780-b0fb-11f1-a540-61c3f7fc4e6c.jpg)

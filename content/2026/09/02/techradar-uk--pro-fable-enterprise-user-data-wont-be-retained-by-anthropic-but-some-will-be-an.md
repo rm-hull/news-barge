@@ -8,6 +8,9 @@ scraped_at: '2026-09-02T19:22:13Z'
 published: '2026-09-02T00:00:00Z'
 description: Is this the perfect solution?
 image: https://cdn.mos.cms.futurecdn.net/BnRBWco2bXVJajjdUuW7CY-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Fable 5, from Anthropic](https://cdn.mos.cms.futurecdn.net/BnRBWco2bXVJajjdUuW7CY.jpg) 

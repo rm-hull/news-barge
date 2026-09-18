@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: The Queen was one of a number of high-profile figures who donated books
   a library that was burned down.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f2d2/live/c63e9e90-a862-11f1-ae45-e9984fc27c77.png
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- Books & Literature
 ---
 
 ![Queen Camilla in a dress of white circles on a black background talks to a boyu and two girls in green school uniform.](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/f2d2/live/c63e9e90-a862-11f1-ae45-e9984fc27c77.png)

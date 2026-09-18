@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: A woman who rented out homes to two al-Qaeda members speaks publicly
   for the first time - to the BBC.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa12/live/55bbb480-a2d3-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Holly Ratchford wears a straw cowboy hat while standing in the desert in an undisclosed location in the west of the United States.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/fa12/live/55bbb480-a2d3-11f1-aed2-8d6da8d75094.jpg)

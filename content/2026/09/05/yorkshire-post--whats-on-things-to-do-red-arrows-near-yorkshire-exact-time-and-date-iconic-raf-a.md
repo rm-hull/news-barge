@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: This weekend the iconic Red Arrows will be flying over the Chatsworth
   Country Fair which could be observed from nearby areas in Yorkshire.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRmOGI1NTYwLTUzZjgtNGU5Ni1iMGI1LWUyOTMxMTMyMjMyMDo5M2NiMWE5ZS0xNDMxLTQ5N2QtYmI3OS0xMDZmODU2NzZiZmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Red Arrows near Yorkshire: Exact time and date iconic RAF aircraft will be flying over Chatsworth Country Fair 2026

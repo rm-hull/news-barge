@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: One of the newest additions to Kirklees Council has put forward new plans
   for change, after Cabinet meetings were axed for months.
 image: https://www.yorkshirepost.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Councillor’s new promise to get Cabinet meetings ‘back on track’

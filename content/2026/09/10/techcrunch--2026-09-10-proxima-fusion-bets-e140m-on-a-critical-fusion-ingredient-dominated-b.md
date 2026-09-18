@@ -10,6 +10,9 @@ description: Proxima Fusion said Wednesday it plans to build a €140 million ($
   million) factory to produce fusion-grade high-temperature superconducting (HTS)
   tape, which will provide the startup with key component to its reactor design.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Proxima-Manufacturing-7.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Proxima Fusion is betting on a critical ingredient for its fusion reactors: superconducting tape.

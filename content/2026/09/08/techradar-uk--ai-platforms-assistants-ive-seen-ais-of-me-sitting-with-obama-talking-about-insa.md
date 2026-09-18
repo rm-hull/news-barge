@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: AI can fake a famous face, but can it deliver a convincing performance?
   Two Hollywood stars share their experiences
 image: https://cdn.mos.cms.futurecdn.net/oqaaYsXyo6NK8tyZZNp34f-2560-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Comedy & Entertainment
 ---
 
 ![George Clooney at The Future of Creativity hosted by Finch & Partners and CAA in Venice.](https://cdn.mos.cms.futurecdn.net/oqaaYsXyo6NK8tyZZNp34f.jpg) 

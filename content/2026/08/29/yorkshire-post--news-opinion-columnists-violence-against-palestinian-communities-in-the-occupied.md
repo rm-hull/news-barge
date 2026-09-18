@@ -10,6 +10,13 @@ description: The inhumane violence against Palestinian communities in the occupi
   West Bank must end. What is happening cannot be dismissed as a series of isolated
   confrontations or the actions of a handful of individuals.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE3ZDY2Y2Y4LWJhZjQtNGY5Yy1iZjQxLTk4NzhhNGRlMzYxNDo2MGJiMjA5OC1hZTRkLTQ0MmQtOWI0My04NWQyZTAzZjVjM2M=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- Arts & Culture
+- History
 ---
 
 # Violence against Palestinian communities in the occupied West Bank must end - Qari Asim

@@ -8,6 +8,12 @@ published: '2026-08-22T00:00:00Z'
 description: The Maple Leaf Café opened at Canada Fields caravan park and farm, near
   Yafforth, Northallerton, North Yorkshire earlier this year.
 image: https://www.thenorthernecho.co.uk/resources/images/21339504.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Travel
 ---
 
 Another weekend, another cycle ride, and another café stop – this time at a new-ish venue that a few people have mentioned to me is worth a visit.

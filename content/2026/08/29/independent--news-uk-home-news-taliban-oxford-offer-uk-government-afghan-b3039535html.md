@@ -10,6 +10,10 @@ description: Aisha Khurram has not seen her family in five years after she fled 
   – now she won’t be able to fulfil her dream of studying at Oxford University due
   to new Home Office rules
 image: https://static.independent.co.uk/2026/08/27/9/44/PHOTO-2026-08-26-15-37-58.jpg?trim=0,18,0,17&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
 ---
 
 An Afghan human rights activist who was offered a place on a prestigious course at Oxford University has been blocked from entering the UK.

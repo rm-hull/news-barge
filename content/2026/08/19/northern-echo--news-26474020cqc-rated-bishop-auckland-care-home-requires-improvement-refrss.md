@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Bishop Auckland care home The Fields has been rated ‘requires improvement’
   after inspectors uncovered a string of serious failures.
 image: https://www.thenorthernecho.co.uk/resources/images/21337565.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: SARAH CALDECOTT)*

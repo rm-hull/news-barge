@@ -8,6 +8,11 @@ scraped_at: '2026-09-14T14:59:50Z'
 published: '2026-09-14T00:00:00Z'
 description: The road trip holds a special place in Americans' hearts
 image: https://static.independent.co.uk/2026/09/14/14/America_25_-The_Road_5_421.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Automotive
 ---
 
 There's something about the American road trip.

@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Breeze-blocking in windows is a 'crude and unsympathetic intervention'
   downgrading the look of a Halifax town centre street, say unhappy…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21372698.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 ### What is the Public Notice Portal?

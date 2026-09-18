@@ -10,6 +10,10 @@ description: A new report by the Amazon Environmental Research Institute has fou
   that gold mining poses a significant threat to Indigenous lands in the Brazilian
   Amazon
 image: https://static.independent.co.uk/2026/09/15/21/Brazil_Amazon_Indigenous_Mining_35528.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Indigenous lands face the greatest threat from the expansion of gold mining in the Brazilian Amazon, according to an analysis released Tuesday by the nonprofit Amazon Environmental Research Institute, known as IPAM.

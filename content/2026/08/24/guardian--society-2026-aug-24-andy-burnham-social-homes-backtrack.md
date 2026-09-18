@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: About 40% of £10bn from Affordable Homes Programme will now go on types
   of housing such as sheltered and shared ownership
 image: https://i.guim.co.uk/img/media/09f660e804607aaa7ea9082a76c4d21be4031afe/1460_0_2631_2105/master/2631.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=392cdac7f645b5c89b7d9ff2646ef906
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Real Estate
 ---
 
 Andy Burnham has backtracked on his proposal to rip up the government’s housing plans and boost social home building.

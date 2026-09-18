@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Burna Boy is set to headline the halftime show at the NFL's first regular-season
   game in Paris
 image: https://static.independent.co.uk/2026/09/17/13/Music_NFL_Burna_Boy_52464.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Video Gaming
 ---
 
 Burna Boy is returning to Stade de France for another historic moment, headlining halftime at the NFL’s first regular-season game in Paris.

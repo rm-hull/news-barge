@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: A one-minute silence has been held at the scene of a devastating Grangetown
   house fire which killed a seven-year-old girl and her aunt.
 image: https://www.thenorthernecho.co.uk/resources/images/21378655.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A minute's silence has been held at the scene of a devastating house fire which killed a seven-year-old girl and her aunt.

@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: A newly married couple take an unusual method of transport to their wedding
   reception.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/32c0/live/195c6c60-a791-11f1-b64a-71b1e45ff5c7.jpg
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 ![Liz Masding and Mike Markham-Lee are sitting on the long black and white dragon boat. There are multiple rowers holding oars on the boat.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/32c0/live/195c6c60-a791-11f1-b64a-71b1e45ff5c7.jpg)

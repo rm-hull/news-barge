@@ -9,6 +9,8 @@ published: '2026-09-11T00:00:00Z'
 description: Here’s everything you need to know about Live Rewind, Apple’s controversial
   new Apple Watch feature.
 image: https://cdn.mos.cms.futurecdn.net/pQgtyLWmytpSru3K9u6wu4-1472-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Live Rewind feature on an Apple Watch.](https://cdn.mos.cms.futurecdn.net/pQgtyLWmytpSru3K9u6wu4.jpg) 

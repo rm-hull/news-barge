@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Darlington transformation gathers pace as regeneration, STEM, rail station
   and Economic Campus investment shape the North East’s future at…
 image: https://www.thenorthernecho.co.uk/resources/images/21465786.jpg?type=og-image&xType=0&yType=19
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The Chief Executive at Darlington Borough Council says the town is undergoing “one of the most significant periods of transformation in its history” as major projects change the landscape across the North East.

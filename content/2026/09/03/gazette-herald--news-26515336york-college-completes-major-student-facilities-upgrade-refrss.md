@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A new beauty training centre and upgraded lecture theatre have been completed
   at York College.
 image: https://www.gazetteherald.co.uk/resources/images/21401075.jpg?type=og-image&xType=0&yType=214
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: Bowman Riley)*

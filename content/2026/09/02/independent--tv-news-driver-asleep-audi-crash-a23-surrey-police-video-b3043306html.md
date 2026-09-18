@@ -19,6 +19,11 @@ description: An Audi driver was captured yawning and falling into a “microslee
   when appearing at court in June. On 25 August at Guildford Crown Court he was jailed
   for six years for causing death by dangerous driving.
 image: https://cdn.jwplayer.com/v2/media/wVStJRqx/poster.jpg?width=720
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Automotive
 ---
 
 ## Showing now | News

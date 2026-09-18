@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: President’s order strips nearly 3m acres of Bears Ears and Grand Staircase-Escalante,
   sacred tribal sites, of safeguards
 image: https://i.guim.co.uk/img/media/6ac8e3a3560a88095d192c5be64de2c991c870df/704_0_7025_5621/master/7025.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b90856301a376a28f75d5c024964f449
+categories:
+- UK
+- News & Politics
 ---
 
 Patagonia, the outdoor clothing and gear company, has joined a lawsuit challenging Donald Trump’s decision to significantly reduce the Bears Ears and Grand Staircase-Escalante national monuments in Utah, removing protections from nearly 3m acres.

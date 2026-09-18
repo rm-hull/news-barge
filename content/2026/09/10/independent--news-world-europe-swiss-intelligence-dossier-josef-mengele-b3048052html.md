@@ -9,6 +9,11 @@ description: Swiss federal intelligence has released a 200-page dossier on Nazi 
   criminal Josef Mengele, known as the "Angel of Death" for his horrific experiments
   at Auschwitz
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/03/23/16/mengele-rex.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- History
 ---
 
 The Swiss federal intelligence service on Thursday released a 200-page dossier on Josef Mengele, the infamous Nazi war criminal and German doctor dubbed the "Angel of Death" for conducting horrific medical experiments on Auschwitz prisoners.

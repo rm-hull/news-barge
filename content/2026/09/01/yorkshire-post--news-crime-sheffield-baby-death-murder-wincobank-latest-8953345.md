@@ -8,6 +8,12 @@ published: '2026-09-01T00:00:00Z'
 description: Police investigating the death of a newborn baby in Sheffield have been
   given more time to question five people arrested on suspicion of murder.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/01/10/40/WhatsApp-Image-2026-09-01-at-11-18-55-(2).jpeg?trim=0,156,0,155&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # Sheffield baby murder: Police given more time to question five arrested

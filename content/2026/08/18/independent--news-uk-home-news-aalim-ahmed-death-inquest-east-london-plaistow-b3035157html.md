@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Aalim Ahmed died after falling from a kitchen window at the residential
   block in Plaistow, east London in 2024
 image: https://static.independent.co.uk/2026/08/18/17/16/Walthamstow-Coroners-Court.png?trim=0,197,0,20&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A young boy who fell to his death from a 15th-floor window had lived in a "clearly loving environment", an inquest has been told.

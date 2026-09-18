@@ -8,6 +8,9 @@ published: '2026-09-12T00:00:00Z'
 description: Chinese president’s arrival in Delhi seen as step towards reconciliation
   after deadly 2020 military clash
 image: https://i.guim.co.uk/img/media/cad574533a5de5a1eb333d303a2c514eb446b225/167_0_1498_1198/master/1498.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=15259f5592e9ae5d7e0e36082e89ac84
+categories:
+- UK
+- News & Politics
 ---
 
 The Chinese president, Xi Jinping, has received a red-carpet welcome in India for a summit of Brics developing nations, as regional rivals Beijing and Delhi make a public display of thawing relations while quietly competing to lead at a time of shaky US global dominance.

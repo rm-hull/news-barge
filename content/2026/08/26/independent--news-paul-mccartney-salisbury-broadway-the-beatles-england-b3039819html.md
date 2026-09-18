@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: The Gideon Bible has become a symbol of America's roadside culture and
   Protestant tradition
 image: https://static.independent.co.uk/2026/08/26/17/America_25__Objects_Gideon_Bible_77994.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Arts & Culture
+- Travel
 ---
 
 “Rocky Raccoon checked into his room, only to find Gideon’s Bible.”

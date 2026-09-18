@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Plans to install life-saving equipment in York city centre have been
   dropped.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjhlOGU0NWM3LTRhMDYtNDA1Mi1hYWVjLTA5NDFjZWY3Yjk0YjoyMzRlYTU3OS0wZjI2LTRhNTQtYTM2Ni1kZmZlNDU5ZGJkYjE=.jpg?crop=3:2,smart&trim=&width=639&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Plans for 'life-saving' defibrillator and bleed kit in York city centre dropped

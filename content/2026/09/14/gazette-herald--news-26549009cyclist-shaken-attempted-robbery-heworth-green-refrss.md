@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A cyclist has been left “shaken” after two men tried to rob him in Heworth
   Green, York, police said.
 image: https://www.gazetteherald.co.uk/resources/images/20998481.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 *(Image: Newsquest)*

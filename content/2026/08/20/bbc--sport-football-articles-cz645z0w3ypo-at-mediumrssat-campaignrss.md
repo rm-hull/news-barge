@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Spurs open talks with Manchester City to sign attacking duo Omar Marmoush
   and Savinho.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a624/live/8092d520-9c71-11f1-b109-879e35c24276.png
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Split image showing Savinho and Omar Marmoush](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/a624/live/8092d520-9c71-11f1-b109-879e35c24276.png)

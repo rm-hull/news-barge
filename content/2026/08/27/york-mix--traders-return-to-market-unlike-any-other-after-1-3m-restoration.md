@@ -7,6 +7,11 @@ scraped_at: '2026-08-27T12:00:58Z'
 published: '2026-08-27T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/whitby-town-hall-refurb-1.webp
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Market traders have welcomed the restoration of one of the most recognisable landmarks in a North Yorkshire town and said it had given the area ‘a new lease of life’.

@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: 'Exclusive: A campaign targeting older Britons who take home less than
   the state pension has started'
 image: https://static.independent.co.uk/2026/08/25/14/56/pensioner-letter-money-istock.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Hundreds of thousands of pensioners are set to be contacted by the Department for Work and Pensions (DWP) as it begins work to cut £370 million from the benefits bill.

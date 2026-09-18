@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: A series of road and footpath closures will affect York and surrounding
   villages as utility and repair works take place.
 image: https://www.yorkpress.co.uk/resources/images/19217207.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: The Press)*

@@ -8,6 +8,8 @@ published: '2026-08-31T00:00:00Z'
 description: A 21-year-old Linus Torvalds introduced Linux on Usenet, having no idea
   how far his small project would eventually travel
 image: https://cdn.mos.cms.futurecdn.net/MRcAF4wnJU8Qb7Bv7Lb9yd-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Linux penguin logo on wood](https://cdn.mos.cms.futurecdn.net/MRcAF4wnJU8Qb7Bv7Lb9yd.jpg) 

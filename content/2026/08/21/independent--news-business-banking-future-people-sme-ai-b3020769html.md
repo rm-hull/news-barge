@@ -10,6 +10,11 @@ description: As technology automates routine transactions, businesses are demand
   Commercial Banking at Lloyds, about why the future of commercial banking relies
   on human empathy, local knowledge and walking the factory floor
 image: https://static.independent.co.uk/2026/07/27/13/24/GettyImages-2202310407-Technology-Sector.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 A more automated, efficient future for business is pitched to us daily: one where technology streamlines routine processes and empowers teams to work faster and smarter. As AI adoption accelerates and unlocks new efficiencies, it must be seen as a lever to support business growth which we know is the core focus for many founders of the UK's 5.7 million small and medium-sized enterprises (SMEs); whether that means expanding production, unlocking new export markets, or investing with confidence in a changing economy.

@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: How Manchester United and Ipswich Town's players rated following their
   Premier League match.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cb8e/live/5f3b8b60-a49b-11f1-837c-8514728b4183.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 Fernandes hat-trick helps Man Utd recover to beat Ipswich

@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: A cyclist has died after a crash with a Mercedes on Nissan Way, Washington,
   Sunderland. Northumbria Police arrested a man and are appealing for…
 image: https://www.thenorthernecho.co.uk/resources/images/21443057.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: Northumbria Police)*

@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: How the heartwarming response to a headteacher’s MND diagnosis showed
   the real community spirit of Teesside. PETER BARRON reports
 image: https://www.thenorthernecho.co.uk/resources/images/21416349.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *How the heartwarming response to a headteacher’s MND diagnosis showed the real community spirit of Teesside.**PETER BARRON** reports*

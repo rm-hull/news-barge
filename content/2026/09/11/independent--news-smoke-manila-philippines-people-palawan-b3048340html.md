@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Rescuers are being hampered by the smoky, charred condition of a ferry
   drifting in Philippine waters after a fire onboard that left 84 people missing
 image: https://static.independent.co.uk/2026/09/11/04/Philippines_Ferry_Fire_6_17.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Rescuers were hampered by the smoky, charred condition of a ferry drifting in Philippine waters Friday after a fire onboard that left 84 people missing and killed at least five.

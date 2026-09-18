@@ -9,6 +9,8 @@ published: '2026-08-21T00:00:00Z'
 description: The Godox iT32's clever built-in magnetic remote trigger makes off-camera
   flash a cinch
 image: https://cdn.mos.cms.futurecdn.net/NENmF7qWnM4rgrd92yZ5Eh-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Godox iT32 camera flash in the hand, there's dappled tree light in the background (left) and TechRadar Cameras Editor Tim Coleman's holding a Canon camera up to his eye with the flash attached (right)](https://cdn.mos.cms.futurecdn.net/NENmF7qWnM4rgrd92yZ5Eh.jpg) 

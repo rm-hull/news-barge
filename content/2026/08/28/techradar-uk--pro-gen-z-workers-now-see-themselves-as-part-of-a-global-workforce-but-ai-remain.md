@@ -8,6 +8,9 @@ scraped_at: '2026-08-28T22:14:22Z'
 published: '2026-08-28T00:00:00Z'
 description: Gen Z workers want more human interactions
 image: https://cdn.mos.cms.futurecdn.net/EfTsAupcDos9r8i2UJGKUM-2560-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
 ---
 
 ![A female office worker looking on as a male office worker types on a keyboard in front of a monitor](https://cdn.mos.cms.futurecdn.net/EfTsAupcDos9r8i2UJGKUM.jpg) 

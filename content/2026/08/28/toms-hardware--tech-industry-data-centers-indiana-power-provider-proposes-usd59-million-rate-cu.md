@@ -9,6 +9,11 @@ scraped_at: '2026-08-28T11:15:53Z'
 published: '2026-08-28T00:00:00Z'
 description: Some good news for a change.
 image: https://cdn.mos.cms.futurecdn.net/nMpGxyNRpeTtdVGXCfFq7g-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![electricity transmission towers](https://cdn.mos.cms.futurecdn.net/nMpGxyNRpeTtdVGXCfFq7g.png) 

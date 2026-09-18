@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Molly and Taylor Haylett explain the changes to how they managed their
   finances when they started a family.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a593/live/bd412620-a7a2-11f1-a7ad-37a1f7dc081c.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 ![Molly and Taylor Haylett on a boat in the water smiling](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a593/live/bd412620-a7a2-11f1-a7ad-37a1f7dc081c.jpg)

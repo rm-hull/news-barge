@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: Officials in Mexico, Iceland and Denmark fire back after Trump posts
   trollish threat to annex all of North and Central America
 image: https://static.independent.co.uk/2026/09/07/17/12/trump-truth-social-map.png?trim=18,0,103,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 In a post on Truth Social, Donald Trump envisioned all of North and Central America under the U.S. flag, an image that quickly triggered a major diplomatic incident and fractured already-frayed relationships as the president pursues his imperial ambitions.

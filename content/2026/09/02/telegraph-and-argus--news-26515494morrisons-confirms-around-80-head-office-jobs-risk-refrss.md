@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: Morrisons has confirmed that around 80 jobs at its Bradford head office
   have been placed at risk of redundancy as part of proposals to streamline…
 image: https://www.thetelegraphandargus.co.uk/resources/images/12946594.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: Newsquest)*

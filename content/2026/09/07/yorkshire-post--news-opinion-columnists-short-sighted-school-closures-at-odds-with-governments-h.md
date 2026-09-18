@@ -12,6 +12,12 @@ description: Just in time for the start of the new school year, the House of Lor
   Services Committee is warning that government policy shows a worrying lack of foresight
   when it comes to falling school rolls.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjJiNGQyNWU5LTBhOTUtNDk4Zi1hOGNiLTEwNTljMWE5Mzc4ZjpkYzdjMzc2MS1lNTIwLTRkMzQtODk0NS0zYjVhYzJmMWJkOGQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 # Short-sighted school closures at odds with Government’s housebuilding ambitions - Jayne Dowle

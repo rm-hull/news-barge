@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Public finance minister Hannah Mary Goodland told MSPs a pause on all
   developments would ‘send the wrong message’ to potential investors.
 image: https://static.independent.co.uk/2026/09/16/18/16164221-980e5aee-8166-4a3f-8488-61f38bea1db1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 New guidance to assist planning decisions on new data centres will be issued by the Scottish Government before Christmas, MSPs have been promised.

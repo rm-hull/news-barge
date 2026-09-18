@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: Our rebranded Boston event, TechCrunch Founder Summit (formerly All Stage),
   is back on November 4th! And we are looking for some incredible volunteers to
 image: https://techcrunch.com/wp-content/uploads/2026/08/54571034038_4825307406_k.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Our rebranded Boston event, TechCrunch Founder Summit (formerly All Stage), is back on November 4th! And we are looking for some incredible volunteers to help us make this event happen. If you are interested in finding out what goes into building tech events, apply to volunteer. If you are selected, not only will you get a behind-the-scenes look at how events are produced, but you’ll also earn a ticket to enjoy the event before or after your shift. On top of that, you’ll get a free pass to experience Disrupt in 2027. Talk about added value!

@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Red House School in Norton is celebrating outstanding GCSE results, with
   97.5 per cent of pupils achieving grades 9–4 and more than one in five…
 image: https://www.thenorthernecho.co.uk/resources/images/21354031.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: GWP)*

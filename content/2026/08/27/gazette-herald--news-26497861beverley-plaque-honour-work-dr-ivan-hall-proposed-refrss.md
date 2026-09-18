@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: A planning application has been submitted for listed building consent
   to install a metal plaque on the external wall of 11 Ladygate in Beverley, in…
 image: https://www.gazetteherald.co.uk/resources/images/21375039.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: East Riding of Yorkshire Council planning)*

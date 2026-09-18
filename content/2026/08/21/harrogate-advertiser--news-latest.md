@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Get all of the latest Latest news from Harrogate Advertiser. Providing
   a fresh perspective for online news.
 image: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![Harrogate Heritage Open Days - Join Sir Thomas Ingilby at All Saints’ Church in Ripley to hear about his swashbuckling relative Rear-Admiral Sir Robert Barrie, who is buried at the church. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmE4M2E4NmFjLWU2MDAtNGI1NS04ZWY2LWVjY2NhMjM5N2E3ZDo1YmNiYjZhYi1lMWM1LTQyM2MtODA4Mi05NjM4MzczNjhhNTU=.jpg?crop=5:4,smart&trim=&quality=70&width=616)

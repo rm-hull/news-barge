@@ -10,6 +10,10 @@ description: 'Exclusive: Dayna Zegarelli was unable to fill a new set of prescri
   in the British Virgin Islands, and risks blindness from a worsening of her optic
   lesions, according to court filings'
 image: https://static.independent.co.uk/2024/07/18/10/Blank-2048-x-1536-%2898%29.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A Los Angeles grandmother suffering from multiple sclerosis was thrown off a cruise ship in the British Virgin Islands, without her essential medications, after she was accused of “stealing” a half-bottle of wine she insists was included in her vacation package, according to a multimillion-dollar federal lawsuit filed Wednesday and obtained by *The Independent.*

@@ -10,6 +10,11 @@ description: A new Human Rights Watch report says drug gangs and rebel groups in
   are increasingly recruiting children for dangerous tasks, including piloting drones
   carrying explosives
 image: https://static.independent.co.uk/2026/08/24/18/Colombia_Child_Recruitment_965_1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Society & Culture
 ---
 
 Drug gangs and rebel groups in Colombia are increasingly recruiting children and using them to perform potentially lethal tasks that include piloting explosives-laden drones, Human Rights Watch said in a report published Monday.

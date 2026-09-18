@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: A pregnant woman in Kyiv mourns her 21-year-old husband, who was killed
   in action
 image: https://static.independent.co.uk/2026/09/03/16/Russia_Ukraine_War_68_88.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A pregnant woman in a black dress stood at the head of her 21-year-old husband’s casket Tuesday in Kyiv, mourning the man she met when they were both soldiers fighting Russia's full-scale invasion of their country.

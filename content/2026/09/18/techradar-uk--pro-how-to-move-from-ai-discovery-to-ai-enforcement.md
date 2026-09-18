@@ -7,6 +7,9 @@ scraped_at: '2026-09-18T13:00:12Z'
 published: '2026-09-18T00:00:00Z'
 description: Discovery found the AI. Enforcement has to stop it.
 image: https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![A robot hand touching a locked digital shield blocking a human from accessing data](https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej.jpg) 

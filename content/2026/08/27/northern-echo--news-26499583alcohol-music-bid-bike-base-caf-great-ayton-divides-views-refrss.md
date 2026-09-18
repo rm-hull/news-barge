@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: A bid to allow alcohol sales and live music at a café and bike hire business
   near Great Ayton has divided the local community, with dozens of…
 image: https://www.thenorthernecho.co.uk/resources/images/21377560.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 A bid to allow alcohol sales and live music at a café and bike hire business near Great Ayton has divided the local community, with dozens of residents writing both in support and opposition.

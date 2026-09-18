@@ -10,6 +10,11 @@ description: Almost 2,000 people have signed a petition calling for urgent actio
   to repair a landslip in Knaresborough amid fears further deterioration this winter
   could make the problem much worse.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjZkMDM5YjllLTM5MTctNDU5ZC04MDg2LWRhNzQ3Njg5ZDFmMzo0MGEyOGYxMC1jN2Q2LTQ2MWQtOTdjMy1hM2I1NDhlNjU4NmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Society & Culture
+- News & Politics
 ---
 
 # Repairs to landslip in Knaresborough not expected until 2027 despite 2,000-signature petition

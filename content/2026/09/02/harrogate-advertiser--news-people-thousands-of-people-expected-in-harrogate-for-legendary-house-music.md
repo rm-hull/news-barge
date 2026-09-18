@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: A Harrogate bar is to host a ‘Love to Be Pre Party’ this weekend to get
   the celebrations started for the biggest ever dance music event held on the Stray.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjMzMzYxZDE3LWY4ODctNGNhZS05MzQ2LTQ1OGM2Y2RiNmEwMzo4YTE0YzVlZC0wODJkLTQ1MzgtOTU5MC0zMzg4ZDNlMTc3NjE=.jpg?crop=3:2,smart&trim=&width=1080&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 # Thousands of people expected in Harrogate for legendary house music festival this weekend

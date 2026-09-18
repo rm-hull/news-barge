@@ -9,6 +9,9 @@ published: '2026-08-28T00:00:00Z'
 description: Campaigners have urged the prime minister to introduce a mandatory alcolock
   programme for ‘high-risk and repeat drink-driving offenders’
 image: https://static.independent.co.uk/2025/08/10/23/093fec75b39a6540cbbfaf9e1ce6a0a7Y29udGVudHNlYXJjaGFwaSwxNzU0OTQ5NzMx-2.29530390.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Senior police officers and road safety campaigners have written to Prime Minister Andy Burnham urging him to introduce alcolocks for motorists who repeatedly drink-drive.

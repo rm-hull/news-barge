@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Police are appealing for information after a rise in nuisance and illegal
   motorbike activity in three Bradford district towns.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21404586.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 POLICE are appealing for information after a rise in nuisance and illegal motorbike activity in three Bradford district towns.

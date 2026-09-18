@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: North Yorkshire Council has launched an investigation to find a precious
   memorial to a five-year-old Harrogate girl which her distraught mum fears is lost.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjUwNWJkZTAyLTc4OTYtNGIwMC04ZDkzLTg1OWJkNDE1MGQxZjpmYjA1NGJiYi00YjMzLTQ3YTYtODcwNi03YWNmZDNjMGUzYzE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- True Crime
 ---
 
 # Harrogate family left distraught by mysterious 'disappearance' of memorial to little Charlotte who died aged five

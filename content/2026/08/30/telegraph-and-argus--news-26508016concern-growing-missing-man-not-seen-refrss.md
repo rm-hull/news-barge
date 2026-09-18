@@ -7,6 +7,11 @@ scraped_at: '2026-08-30T19:18:45Z'
 published: '2026-08-30T00:00:00Z'
 description: A man has been missing for two weeks.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21390413.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 A man has been missing for two weeks.

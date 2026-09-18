@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T12:48:32Z'
 published: '2026-09-11T00:00:00Z'
 description: Work has started on the new Gail's Bakery in Harrogate town centre.
 image: https://mmo.aiircdn.com/409/6aa3e8d5c5a9aefd82f.jpg
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa3e8d5c5a9aefd82f.jpg) 

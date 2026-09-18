@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Horrifying video shared on social media showed the pair sitting on the
   tracks moments before the train hit them
 image: https://static.independent.co.uk/2026/09/14/19/30/GettyImages-1905673723.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Two college friends, fatally struck by a New York City subway train while sitting on the tracks, appeared not to realize it was about to hit them, according to reports.

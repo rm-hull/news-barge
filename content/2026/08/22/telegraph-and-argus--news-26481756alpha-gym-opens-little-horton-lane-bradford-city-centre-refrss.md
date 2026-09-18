@@ -9,6 +9,12 @@ published: '2026-08-22T00:00:00Z'
 description: A Bradford fitness entrepreneur is preparing to open a new gym in Little
   Horton after building a loyal following through a community-focused…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21357248.jpg?type=og-image&xType=0&yType=1100
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Health & Fitness
 ---
 
 *(Image: Osama Malik)*

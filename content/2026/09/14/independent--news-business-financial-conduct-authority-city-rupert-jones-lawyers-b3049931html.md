@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Mr Odey had taken legal action against the Financial Conduct Authority
   over its decision to ban him from the UK finance industry.
 image: https://static.independent.co.uk/2026/09/14/15/30bf034f29b79fe5a2cde1ff749957d4Y29udGVudHNlYXJjaGFwaSwxNzg5NDgwOTc2-2.58155136.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Former hedge fund manager Crispin Odey “acted to save his own skin” during an investigation into sexual misconduct allegations against him and showed “arrogant entitlement”, the Financial Conduct Authority (FCA) has said.

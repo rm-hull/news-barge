@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: England captain Meg Jones wants the Red Roses to have access to fertility
   support and egg freezing.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b39e/live/0f354fd0-ad5a-11f1-a0e7-8f5838117f3d.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Meg Jones playing for England](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/b39e/live/0f354fd0-ad5a-11f1-a0e7-8f5838117f3d.jpg)

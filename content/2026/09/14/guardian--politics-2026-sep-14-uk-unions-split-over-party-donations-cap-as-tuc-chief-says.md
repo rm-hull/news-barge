@@ -9,6 +9,9 @@ published: '2026-09-14T00:00:00Z'
 description: Union leaders meet on Monday to discuss possible support for a domestic
   cap on political donations
 image: https://i.guim.co.uk/img/media/6afa04a8c5e56ce30376a4b83238efb82686c45c/1832_2476_1653_1323/master/1653.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11eed8fdd28342eaf0b39fbaf3016ea5
+categories:
+- UK
+- News & Politics
 ---
 
 The head of Britain’s trade union movement, Paul Nowak, has said the government must act to “stop the super-rich corrupting our politics”, as union leaders met on Monday to discuss possible support for a domestic cap on donations.

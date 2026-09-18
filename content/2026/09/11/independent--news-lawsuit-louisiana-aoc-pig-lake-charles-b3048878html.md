@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: A group of fishers and seafood processors in southwest Louisiana is suing
   Venture Global, a liquefied natural gas company
 image: https://static.independent.co.uk/2026/09/11/20/Gas_Terminal_Construction_Seafood_662_2.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A group of commercial fishers, fishing guides and seafood processors in southwest Louisiana is suing liquefied natural gas company Venture Global, claiming that dredging operations in preparation for the construction of a new terminal resulted in a sediment spill that killed millions of oysters and diminished catches of finfish, crabs and shrimp.

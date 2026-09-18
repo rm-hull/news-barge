@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Police say ‘several shots fired at a large group of people’ during event
   at horse racing track
 image: https://static.independent.co.uk/2026/08/30/08/2292158513..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Police say one person has died and five are wounded after a shooting at a rave party in Aarau in northern Switzerland.

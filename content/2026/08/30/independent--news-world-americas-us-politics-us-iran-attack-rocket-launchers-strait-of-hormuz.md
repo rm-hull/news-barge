@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: The renewed attack comes as the war, which had largely been locked in
   a stalemate, has continued with no end in sight for six months
 image: https://static.independent.co.uk/2026/08/30/20/31/GettyImages-2271668787.jpeg?trim=0,121,0,121&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The U.S. military attacked Iranian rocket launchers positioned in the Strait of Hormuz, marking its first offensive operation in a month, a U.S. official told The Associated Press on Sunday.

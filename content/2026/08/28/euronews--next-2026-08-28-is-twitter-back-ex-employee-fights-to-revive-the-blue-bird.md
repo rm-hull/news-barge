@@ -9,6 +9,11 @@ description: Is Twitter back? A startup including former Twitter staffer Stephen
   launched a new platform this week, giving users early access to a “reclaimed” social
   media platform and the chance to take the fight to Elon Musk.
 image: https://images.euronews.com/articles/stories/09/89/25/65/1200x675_cmsv2_d7569b3e-dc05-5792-b3b3-fc8e28aee5d0-9892565.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ## Is Twitter back? A startup including former Twitter staffer Stephen Coates launched a new platform this week, giving users early access to a “reclaimed” social media platform and the chance to take the fight to Elon Musk.

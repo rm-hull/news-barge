@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Ripon and Skipton MP Sir Julian Smith has urged the Prime Minister to
   reverse planned inheritance tax changes affecting family farms.
 image: https://mmo.aiircdn.com/409/6a994bae95387c09993.jpg
+categories:
+- Local
+- Harrogate
+- Personal Finance & Investing
 ---
 
 ![](https://mmo.aiircdn.com/409/6a994bae95387c09993.jpg) 

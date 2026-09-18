@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Dolly Parton was a beloved icon whose influence spans music, film and
   philanthropy
 image: https://static.independent.co.uk/2026/08/26/05/Obit_Dolly_Parton_55824.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
+- Arts & Culture
 ---
 
 There are few inalienable truths: Everyone was born, everyone will die, and everyone loved Dolly Parton.

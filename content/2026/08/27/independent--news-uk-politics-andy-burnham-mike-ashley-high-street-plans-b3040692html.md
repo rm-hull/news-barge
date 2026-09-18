@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: The Frasers founder has heavily criticised the prime minister, warning
   that shops will be “further devastated” unless business rates are cut
 image: https://static.independent.co.uk/2026/08/27/21/99c1b79f68bc547402a9938b25b318b6Y29udGVudHNlYXJjaGFwaSwxNzg3OTQ2MzYz-2.75414538.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Billionaire businessman Mike Ashley has described Andy Burnham’s high street recovery strategy as "delusional", insisting it will fail to help salvage British retail.

@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: DC’s top prosecutor defends Trump’s troop deployments as the president
   threatens lawsuits over a report that doubted their impact
 image: https://static.independent.co.uk/2026/08/21/20/18/jeanine-pirro.png?trim=0,219,0,219&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 With her job as Washington, D.C.’s top prosecutor potentially on the line, U.S. Attorney Jeanine Pirro is coming to Donald Trump’s defense as he threatens lawsuits and demands retractions over reports that his surge of federalized troops into the nation’s capital has done little to combat crime.

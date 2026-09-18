@@ -9,6 +9,11 @@ description: As traditional banks increasingly spurn their US clients who live o
   international credit unions may be a viable option for the banking and investment
   needs of Americans living in Germany.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-603390341.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Accessing US financial services while living abroad is important for US citizens for several reasons – not least of which is the need to pay taxes.

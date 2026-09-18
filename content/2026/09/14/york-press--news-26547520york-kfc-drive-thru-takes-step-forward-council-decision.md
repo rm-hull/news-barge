@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T15:01:08Z'
 published: '2026-09-14T00:00:00Z'
 description: A NEW drive-thru which is set to open in York has taken a step forward.
 image: https://www.yorkpress.co.uk/resources/images/19136414.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## New drive-thru coming to York takes next steps

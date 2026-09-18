@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The 31-year-old woman suffered ‘severe injuries’ in the knife attack
   at the Rosenheim train station and died in hospital
 image: https://static.independent.co.uk/2026/08/30/13/Germany_Fatal_Stabbing_6394_.jpg?trim=0,184,0,183&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A suspect in the fatal stabbing of a 31-year-old British woman at a railway station in southern Germany has been detained in a psychiatric hospital, police have said.

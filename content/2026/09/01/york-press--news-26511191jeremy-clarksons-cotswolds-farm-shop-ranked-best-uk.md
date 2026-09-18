@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Jeremy Clarkson’s Diddly Squat Farm Shop has been named the best in the
   UK based on Tripadvisor ratings, Google review scores and Instagram…
 image: https://www.yorkpress.co.uk/resources/images/20834527.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: PA / Prime Video)*

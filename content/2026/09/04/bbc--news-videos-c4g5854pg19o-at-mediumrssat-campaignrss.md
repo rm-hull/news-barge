@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The BBC's Ione Wells explains what could happen now as the case of the
   US mother accused of murdering her three children ends in no verdict.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1351/live/558a88f0-a892-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 # Watch: What is a mistrial and what does it mean for Lindsay Clancy?

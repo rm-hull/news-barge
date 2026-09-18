@@ -8,6 +8,9 @@ scraped_at: '2026-09-15T13:30:04Z'
 published: '2026-09-15T00:00:00Z'
 description: Agents were uploading malicious packages
 image: https://cdn.mos.cms.futurecdn.net/MZeWJhJjT34M4nQvMMX7fg-1376-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![an ai agent sat at a laptop](https://cdn.mos.cms.futurecdn.net/MZeWJhJjT34M4nQvMMX7fg.jpg) 

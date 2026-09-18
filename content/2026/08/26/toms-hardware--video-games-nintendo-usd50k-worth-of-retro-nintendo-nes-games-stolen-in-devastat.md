@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Thieves broke into a home in Washington and stole 850 retro NES games
   thought to be worth more than $50k.
 image: https://cdn.mos.cms.futurecdn.net/rEXj3Bhvdr38acVmX67dZS-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
 ---
 
 ![NES games](https://cdn.mos.cms.futurecdn.net/rEXj3Bhvdr38acVmX67dZS.jpg) 

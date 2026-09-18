@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: Burnham's first parliamentary day as PM and the UK records "hottest summer
   ever" - what is leading Wednesday's papers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4aa4/live/77faa4c0-a652-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 !["Brexit and Thatcher to blame for UK's era of low growth, says PM," reads the headline on the front page of the Guardian.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/8cc6/live/ceb67ca0-a64b-11f1-b109-879e35c24276.jpg)

@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: A popular Thai restaurant and hotel between York and Pocklington has
   been put up for sale.
 image: https://www.yorkpress.co.uk/resources/images/21421106.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
+- Food & Cooking
+- Business & Entrepreneurship
 ---
 
 ## Landmark hotel and restaurant near York on the market for £1.5million

@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T19:41:33Z'
 published: '2026-09-15T00:00:00Z'
 description: Pennsylvania officials are reporting a fourth measles-associated death
 image: https://static.independent.co.uk/2026/08/17/21/Vaccination_Rates_34154.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Pennsylvania officials have reported a fourth measles-associated death.

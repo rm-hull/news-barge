@@ -9,6 +9,10 @@ description: Popular tourist spots, including the Bright Angel Campground, the N
   Kaibab Trail and Phantom Ranch, home to a historic canteen and dormitories, remained
   closed on Sunday.
 image: https://images.euronews.com/articles/stories/09/89/49/21/1200x675_cmsv2_3034dfd8-a1ba-5520-a5df-ea2b879c7dff-9894921.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## Popular tourist spots, including the Bright Angel Campground, the North Kaibab Trail and Phantom Ranch, home to a historic canteen and dormitories, remained closed on Sunday.

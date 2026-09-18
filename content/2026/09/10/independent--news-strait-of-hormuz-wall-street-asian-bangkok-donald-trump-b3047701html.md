@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Asian shares have skidded following a retreat on Wall Street as the price
   of crude oil again trades above $100 a barrel
 image: https://static.independent.co.uk/2026/09/10/04/South_Korea_Financial_Markets_88735.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Asian shares skidded Thursday following a retreat on Wall Street as the price of crude oil again traded above $100 a barrel.

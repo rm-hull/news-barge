@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Salmonella outbreaks are seemingly everywhere right now. A good temperature
   probe is the last and best line of defense.
 image: https://media.wired.com/photos/6a8c7ae512c52ac70f8bd568/191:100/w_1280,c_limit/This-Is-the-One-Food-Safety-Gadget-I-Trust-to-Prevent-Salmonella.jpg
+categories:
+- Technology & Software
+- Science
+- Food & Cooking
 ---
 
 It is the summer of salmonella, it seems. Multiple overlapping salmonella outbreaks now sprawl across at least 30 states as of late August, even as cases of prodigious-poop-causing parasite cyclospora seem to be receding. Hundreds have been sickened, and simultaneous recalls are in effect for products as diverse as eggs, granola, jalapeño peppers, greens powders, nut butters, and dog food.

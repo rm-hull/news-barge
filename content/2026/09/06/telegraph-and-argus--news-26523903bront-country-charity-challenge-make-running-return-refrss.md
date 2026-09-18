@@ -9,6 +9,11 @@ published: '2026-09-06T00:00:00Z'
 description: A CHARITY challenge is calling on runners and riders to take on the rugged
   terrain of Brontë Country.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21413098.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 A CHARITY challenge is calling on runners and riders to take on the rugged terrain of Brontë Country.

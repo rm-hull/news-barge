@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Move would allow mayors to greenlight large-scale developments and have
   more say on national housing funding
 image: https://i.guim.co.uk/img/media/08972ae99068d18226a9f405d1b6b47c1f49e9b5/1675_152_1607_1286/master/1607.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f85a448e03382671d2e613cfb3f98edf
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Andy Burnham will give mayors new powers to take control of local planning decisions and greenlight large-scale developments in proposals to be presented next week.

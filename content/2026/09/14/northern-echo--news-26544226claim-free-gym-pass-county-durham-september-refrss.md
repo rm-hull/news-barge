@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Durham County Council is offering free fitness events, leisure passes
   and September challenges, as part of National Fitness Day on September 16.
 image: https://www.thenorthernecho.co.uk/resources/images/21443667.jpg?type=og-image&xType=0&yType=325
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: zakmen/Pixabay)*

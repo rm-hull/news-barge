@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: North Yorkshire Police said the alleged serious sexual offence took place
   last night (Wednesday, September 16) in an alleyway which links…
 image: https://www.yorkpress.co.uk/resources/images/21467727.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
+- True Crime
+- Sports
 ---
 
 ## 22-year-old man arrested after alleged serious offence in York

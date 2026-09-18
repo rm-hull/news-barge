@@ -9,6 +9,9 @@ description: Video. Russian strikes hit Ukraine’s Sumy and Odesa regions overn
   on 27 August. At least one person was killed and seven injured, according to regional
   authorities.
 image: https://images.euronews.com/articles/stories/09/89/14/35/1200x675_cmsv2_a3df7e0d-4fbb-5245-945c-fd89045c0c7a-9891435.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 In Sumy, strikes hit a residential area, sparking fires that damaged homes and commercial buildings. Emergency crews were deployed to three locations as residents surveyed the damage.

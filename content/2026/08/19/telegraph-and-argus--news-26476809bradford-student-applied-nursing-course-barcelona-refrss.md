@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A NIGHT out in Barcelona led to a life-changing decision for one student
   in Bradford
 image: https://www.thetelegraphandargus.co.uk/resources/images/21339677.jpg?type=og-image&xType=0&yType=61
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 A NIGHT out in Barcelona led to a life-changing decision for one student.

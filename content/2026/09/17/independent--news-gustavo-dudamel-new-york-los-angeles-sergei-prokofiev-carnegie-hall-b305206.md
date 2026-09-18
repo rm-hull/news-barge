@@ -8,6 +8,10 @@ scraped_at: '2026-09-17T19:42:59Z'
 published: '2026-09-17T00:00:00Z'
 description: Gustavo Dudamel has taken over as music director of the New York Philharmonic
 image: https://static.independent.co.uk/2026/09/17/17/Dudamel_in_New_York__7659.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 Gustavo Dudamel jumped up and down on FAO Schwarz’s giant keyboard during his first trip to New York as a 14-year-old.

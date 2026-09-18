@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Armed police carried out raids at multiple properties in Bradford in
   the early hours of this morning (18 August).
 image: https://www.thetelegraphandargus.co.uk/resources/images/21337922.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: PA)*

@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Men’s mental health and suicide prevention charities have flocked to
   support a local memorial football match.
 image: https://www.thenorthernecho.co.uk/resources/images/21410411.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: UGC)*

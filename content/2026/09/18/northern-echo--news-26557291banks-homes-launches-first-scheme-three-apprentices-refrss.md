@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: A County Durham housebuilder Banks Homes has launched its first apprenticeship
   scheme to train new talent and create careers in the property…
 image: https://www.thenorthernecho.co.uk/resources/images/21465823.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

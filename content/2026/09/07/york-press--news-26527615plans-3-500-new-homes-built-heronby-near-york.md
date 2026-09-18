@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Views are being sought on a masterplan to create 3,500 new homes, a country
   park, schools, a health centre and more on the Heronby site near York.
 image: https://www.yorkpress.co.uk/resources/images/21419124.jpg?type=og-image
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 *(Image: Supplied)*

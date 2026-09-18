@@ -9,6 +9,12 @@ published: '2026-09-04T00:00:00Z'
 description: The Education Secretary said there are “huge anxieties in the community”
   as a string of schools close due to disruption from an A66 crash…
 image: https://www.thenorthernecho.co.uk/resources/images/21409541.jpg?type=og-image&xType=0&yType=161
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
+- Society & Culture
 ---
 
 The Education Secretary said there are “huge anxieties and worries in the community” amid a string of school closures due to an A66 crash funeral.

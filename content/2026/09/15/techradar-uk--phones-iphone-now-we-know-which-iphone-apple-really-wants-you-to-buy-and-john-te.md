@@ -8,6 +8,9 @@ scraped_at: '2026-09-15T22:52:59Z'
 published: '2026-09-15T00:00:00Z'
 description: Apple's new CEO pulls out the Duo at a starry, high-profile event
 image: https://cdn.mos.cms.futurecdn.net/DQErjdwGUi7u54zxQYqs7S-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![John Ternus and iPhone Duo](https://cdn.mos.cms.futurecdn.net/DQErjdwGUi7u54zxQYqs7S.jpg) 

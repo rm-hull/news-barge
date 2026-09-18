@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A Bishop Auckland bakery which produces around 150 handmade pies every
   day has been named among the top 10 in a regional search for the best in the…
 image: https://www.thenorthernecho.co.uk/resources/images/21398149.jpg?type=og-image&xType=0&yType=359
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 A Bishop Auckland bakery which produces around 150 handmade pies every day has been named among the top 10 in a regional search for the best in the business.

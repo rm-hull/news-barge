@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: A man from Harrogate has been arrested following an overnight firearms
   discharge in Barnsley.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/02/North-Yorkshire-Police.webp
+categories:
+- Local
+- Harrogate
+- Health & Fitness
 ---
 
 A man from Harrogate has been arrested following an overnight firearms discharge in Barnsley.

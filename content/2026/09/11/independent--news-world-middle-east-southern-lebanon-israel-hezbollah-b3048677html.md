@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: The Ali al-Taher ridge has become one of the most contested areas of
   the war between Israel and Hezbollah
 image: https://static.independent.co.uk/2026/09/11/14/2026-09-10T205220Z_1521864378_RC2EGNAO2F9G_RTRMADP_3_IRAN-CRISIS-ISRAEL-LEBANON.JPG?trim=0,150,0,150&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The Israeli military destroyed an underground Hezbollah base at southern Lebanon's Ali al-Taher ridge, Prime Minister Benjamin Netanyahu and Defence Minister Israel Katz said on Thursday.

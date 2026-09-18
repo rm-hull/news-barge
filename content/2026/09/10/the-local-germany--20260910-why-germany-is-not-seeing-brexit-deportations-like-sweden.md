@@ -9,6 +9,11 @@ description: Thousands of British nationals have been refused Brexit residency r
   in Sweden, with many facing deportation. We look at how Germany has taken a different
   approach – and the problems British residents still face here.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20200201__1OL6S5__v1__MidRes__GermanyBritainEuBrexitPolitics.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Society & Culture
 ---
 
 While British nationals living in the EU before the Brexit cut-off date were assured they would retain their residency rights under the Withdrawal Agreement (WA), the reality has been very different in some countries.

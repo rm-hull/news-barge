@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Three ward councillors are urging residents to comment on plans to build
   55 homes on land in the Bradford district.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21400347.jpg?type=og-image&xType=0&yType=84
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: UGC)*

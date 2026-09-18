@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Row centres on stake held by Patarkatsishvili family in bottled water
   firm it jointly owns with Russian oligarch
 image: https://i.guim.co.uk/img/media/833db171346c8a7e3cee30f2bf5b0fcca58793f9/456_0_4539_3633/master/4539.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99748faa193f93f40055b36be217d6e1
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A British theatre impresario and her billionaire family are embroiled in a bitter dispute with Ukrainian authorities seeking to seize a water company they jointly own with a Russian oligarch.

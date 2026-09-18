@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: ‘If we don’t want children to be harmed, the justice system has to work,’
   the philanthropist said
 image: https://static.independent.co.uk/2026/06/12/20/08/Screenshot-2026-06-12-at-4-26-35-PM.png?trim=15,0,55,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Arts & Culture
 ---
 
 Billionaire philanthropist Melinda French Gates claimed Jeffrey Epstein “could have been stopped” in an interview published after lawmakers questioned her ex-husband, Microsoft co-founder Bill Gates, over his ties to the late sex offender.

@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: PC Matthew Blades and PC Tom Clough died in a head-on collision on the
   A66 near Middlesbrough.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c67/live/44a1a960-a3a6-11f1-af36-fffc938dca63.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Rear view of a football team - wearing red strips - standing to attention in front of a bank of  stadium seats, with other players to the side. A screen above shows the image of two men.](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/4c67/live/44a1a960-a3a6-11f1-af36-fffc938dca63.jpg)

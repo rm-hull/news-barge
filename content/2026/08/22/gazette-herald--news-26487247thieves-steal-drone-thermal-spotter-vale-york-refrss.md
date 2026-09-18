@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Thieves have stolen a drone, thermal spotter and night vision device
   among other items from cars in a North Yorkshire village.
 image: https://www.gazetteherald.co.uk/resources/images/21358253.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 *(Image: Pixabay)*

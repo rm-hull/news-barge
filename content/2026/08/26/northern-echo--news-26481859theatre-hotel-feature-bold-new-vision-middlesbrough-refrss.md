@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: A major theatre and a new hotel are flagship projects today being unveiled
   as the “biggest changes to Middlesbrough in a generation”.
 image: https://www.thenorthernecho.co.uk/resources/images/21368317.jpg?type=og-image&xType=0&yType=29
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ### What is the Public Notice Portal?

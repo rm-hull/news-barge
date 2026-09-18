@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: The catamaran-style boat was traveling from the port of Kyrenia, also
   known as Girne, to the Turkish port of Tasucu
 image: https://static.independent.co.uk/2026/08/30/12/2026-08-30T114323Z_1845177345_RC2Z8NAMVJ3Q_RTRMADP_3_CYPRUS-VESSEL-CAPSIZE.JPG?trim=0,144,0,144&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 At least seven people have died and many remain missing after a ferry carrying nearly 270 passengers capsized off the coast of northern Cyprus on Sunday.

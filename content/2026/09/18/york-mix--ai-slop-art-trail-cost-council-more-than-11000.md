@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T13:00:42Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/07/scarborough-400th-anniversary-deckchair-trail-1.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 A council spent more than £11,000 on an ‘AI slop’ deckchair trail as part of a North Yorkshire town’s 400th anniversary celebration.

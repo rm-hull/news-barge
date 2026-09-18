@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: What Amanda Owen is doing now after Our Yorkshire Farm, from life with
   Clive and their nine children to Ravenseat, Anty John's and her TV…
 image: https://www.thenorthernecho.co.uk/resources/images/21451239.jpg?type=og-image&xType=0&yType=80
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Amanda Owen became one of Britain’s best-known farmers when millions watched her extraordinary family life on Our Yorkshire Farm.

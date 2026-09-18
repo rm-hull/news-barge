@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Sarah Jones told MPs the violence sparked by the arrival of 120 migrants
   in a single dinghy was "intimidating and thuggish".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dbc9/live/51c266c0-aaea-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 ![Police officers stand in line in riot gear at scene of Portsmouth protest](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/dbc9/live/51c266c0-aaea-11f1-a291-b542ee92de7c.jpg)

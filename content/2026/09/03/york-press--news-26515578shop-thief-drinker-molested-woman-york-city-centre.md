@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: A once successful business owner is today a sex offender, shop thief
   and street drinker, York magistrates heard.
 image: https://www.yorkpress.co.uk/resources/images/20255187.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Haydn Lewis)*

@@ -8,6 +8,13 @@ published: '2026-08-31T00:00:00Z'
 description: Council leader Alec Brown called the virtual meeting following recent
   fatal incidents that are being probed by police.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmYwNTYwNDQ1LTdkMzAtNDNjNy05MjNjLTM0OTNmMGMzNDRkNDo2NWYzNTQ4Ni1mZjA3LTQ4NjYtYThiMC0xZDFjMDU5MmEyMmI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 # Community safety briefing for councillors after deaths in South Bank and Grangetown

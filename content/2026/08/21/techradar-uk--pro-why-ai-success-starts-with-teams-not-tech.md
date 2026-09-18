@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The AI differentiator will be how organizations prepare their people
   and unlock their business's knowledge
 image: https://cdn.mos.cms.futurecdn.net/hvkxS6YQxDoEiTLwWEaPJL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![Three office workers sitting together in front of a laptop in an office](https://cdn.mos.cms.futurecdn.net/hvkxS6YQxDoEiTLwWEaPJL.jpg) 

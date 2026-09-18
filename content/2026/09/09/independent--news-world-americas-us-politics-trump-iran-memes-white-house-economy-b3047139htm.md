@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Across social media platforms over Labor Day weekend, Trump and the White
   House released an unusually heavy barrage of memes
 image: https://static.independent.co.uk/2026/08/30/1/18/trump-lake-america-truth-social.png?trim=174,0,174,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 While President Donald Trump confronts real-world political challenges—struggling to curb inflation, defeat the Iranian government, and revive American manufacturing through tariffs—his online presence tells a drastically different story.

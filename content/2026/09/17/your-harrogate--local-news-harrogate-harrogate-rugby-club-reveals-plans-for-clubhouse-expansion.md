@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Harrogate Rugby Club has launched a public consultation on plans to expand
   its clubhouse and build four covered padel courts.
 image: https://mmo.aiircdn.com/409/6aabcf71a994ae20a4f.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6aabcf71a994ae20a4f.jpg) 

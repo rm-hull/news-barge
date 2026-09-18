@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Police continue to question a 23-year-old man over the fire in which
   a girl, 7, and her aunt died.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2f93/live/902483b0-a47f-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A composite image of Natalie McDonald and Valentina Foster. McDonald is wearing a white wedding dress with a tiara perched on her head. She has long dark hair and is holding a bouquet of white roses with four blue ones dotted within it. Valentina wears an electric blue dress with white flowers on the neckline and waist. She has long light brown hair with a blue and white headband. She is holding a small white basket with white and blue roses and she wears white gloves.](https://ichef.bbci.co.uk/ace/standard/907/cpsprodpb/2f93/live/902483b0-a47f-11f1-a291-b542ee92de7c.jpg)

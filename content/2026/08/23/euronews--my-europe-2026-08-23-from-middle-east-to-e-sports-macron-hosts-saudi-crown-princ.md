@@ -10,6 +10,11 @@ description: 'Long ostracised on the international stage after the murder of Sau
   journalist and dissident Jamal Khashoggi, "MBS" has in recent years regained status
   as a valued strategic partner. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/52/66/1200x675_cmsv2_92697cf1-952f-5e95-a1ec-1457f2298851-9885266.jpg
+categories:
+- Europe
+- News & Politics
+- History
+- Business & Entrepreneurship
 ---
 
 **Serge Duchêne**

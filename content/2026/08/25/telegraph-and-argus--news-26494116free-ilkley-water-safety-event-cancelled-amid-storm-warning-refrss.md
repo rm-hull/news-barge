@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A WATER safety event has been cancelled due to the forecast for heavy
   rain and a Met Office Yellow Weather Warning.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21093993.jpg?type=og-image&xType=0&yType=389
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Yorkshire Water)*

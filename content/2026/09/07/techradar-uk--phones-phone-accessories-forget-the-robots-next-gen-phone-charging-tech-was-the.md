@@ -10,6 +10,8 @@ published: '2026-09-07T00:00:00Z'
 description: I saw a lot of cool gadgets at IFA Berlin 2026, but charging tech from
   the likes of UGreen, Belkin, and ESR were a real highlight for me.
 image: https://cdn.mos.cms.futurecdn.net/omh2FBuXo4eHGcNJQRtZEC-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![UGreen and ESR chargers beside one another](https://cdn.mos.cms.futurecdn.net/omh2FBuXo4eHGcNJQRtZEC.jpg) 

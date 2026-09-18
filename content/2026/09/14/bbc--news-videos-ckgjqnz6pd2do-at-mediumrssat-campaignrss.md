@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: The BBC's AI correspondent Marc Cieslak explains what artificial intelligence
   is and whether it could cause a threat to humanity.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f680/live/adccb140-b063-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Science
+- Technology & Software
 ---
 
 # BBC AI correspondent answers: What is AI? Can it be stopped?

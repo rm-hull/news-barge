@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Housing minister Matthew Pennycook said the change was "essential" for
   helping mayors "effectively deliver new homes".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7205/live/1fb3cdf0-9d83-11f1-adf5-2dc21c9cc109.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Housing development](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7205/live/1fb3cdf0-9d83-11f1-adf5-2dc21c9cc109.jpg)

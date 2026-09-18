@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: The UK Civil Aviation Authority (CAA) has issued a list of holiday gadgets
   which are often packed incorrectly, ahead of a busy weekend for Newcastle…
 image: https://www.thenorthernecho.co.uk/resources/images/19986662.jpg?type=og-image&xType=0&yType=170
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Newcastle and Teesside International Airports will be busy over the next few days as passengers enjoy a Bank Holiday break away.

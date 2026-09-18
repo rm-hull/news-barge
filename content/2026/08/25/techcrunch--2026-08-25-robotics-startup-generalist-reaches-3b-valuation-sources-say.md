@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: The $200 million extension comes just months after the physical AI startup
   reached a $2 billion valuation.
 image: https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Generalist, a robotics startup, is now valued at $3 billion after raising additional capital led by 8VC, according to two people with knowledge of the funding.

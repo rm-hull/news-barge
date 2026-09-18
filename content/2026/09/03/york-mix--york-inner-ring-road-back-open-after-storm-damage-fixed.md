@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T12:48:04Z'
 published: '2026-09-03T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-tower-street-fishergate-gyratory-roadworks-sept-2026-cyc.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 Good news for York drivers – the inner ring road is fully open.

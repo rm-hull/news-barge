@@ -8,6 +8,10 @@ scraped_at: '2026-08-20T20:41:21Z'
 published: '2026-08-20T00:00:00Z'
 description: The brothers have had a fractured relationship for a number of years.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6c5/live/90906020-9cc4-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Relationships & Dating
 ---
 
 # Watch: What does Harry's return mean for his fractured relationship with William?

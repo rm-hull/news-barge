@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The Killers frontman asks big questions on his third solo album, which
   takes a detour into country.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca8a/live/32c68bf0-9bd8-11f1-bb4d-1147ef2e78e5.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ![Brandon Flowers holds a stetson in his right hand and gives a wry look to the camera as he poses outside a stereotypical American motel](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/ca8a/live/32c68bf0-9bd8-11f1-bb4d-1147ef2e78e5.jpg)

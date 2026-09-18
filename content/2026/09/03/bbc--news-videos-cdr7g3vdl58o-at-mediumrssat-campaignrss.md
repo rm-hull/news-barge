@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with
   attractions including humanoid robots dancing to K-pop hits.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 # Could robots be the future of theme parks?

@@ -9,6 +9,11 @@ description: NFL veteran Calais Campbell knew he wanted to keep playing, even af
   a family tragedy this summer resulting in his mother’s death and his brother being
   charged with murder
 image: https://static.independent.co.uk/2026/08/18/18/Ravens_Camp_Football_32757.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Family & Parenting
 ---
 
 NFL veteran Calais Campbell knew he wanted to keep playing, even after a family tragedy this summer resulting in his mother’s death and his brother being charged with murder.

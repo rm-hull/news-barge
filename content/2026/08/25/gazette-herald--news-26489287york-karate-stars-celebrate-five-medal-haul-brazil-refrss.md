@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: Two young Karate athletes, Artem and Lewis, have returned with world
   championship medals after representing England on the global stage.
 image: https://www.gazetteherald.co.uk/resources/images/21362085.jpg?type=og-image&xType=0&yType=104
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- History
 ---
 
 Two young athletes have returned with world championship medals after representing England on the global stage.

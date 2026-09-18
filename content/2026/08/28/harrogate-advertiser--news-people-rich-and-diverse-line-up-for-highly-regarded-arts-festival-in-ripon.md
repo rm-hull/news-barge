@@ -10,6 +10,11 @@ description: A highly-regarded arts festival in Ripon which combines the cream o
   classical music with such celebrities as Sir Derek Jacobi, Geraldine McEwan and
   Simon Armitage is back soon with a stunning programme for 2026.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmViZGMyNTQzLTQxNTYtNDBmNC05Y2YxLTlhYTcyMDAyNTM0MDpjNWFiMjMzNC04NTFjLTQ0ZjUtYWJmYy0xZjA4YmM5ZGEzZTE=.jpg?crop=3:2,smart&trim=&width=840&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
+- Arts & Culture
 ---
 
 # 'Rich and diverse line-up' for highly-regarded arts festival in Ripon which presents cream of classical music

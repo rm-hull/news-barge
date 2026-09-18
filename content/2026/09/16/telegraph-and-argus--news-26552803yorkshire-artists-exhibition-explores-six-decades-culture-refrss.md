@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: FROM Saltaire Teddy Boys to Whitby Goths, artist Claire Baxter has brought
   together six generations of fashion and music - and the Yorkshire places…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21459069.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Music
 ---
 
 FROM Saltaire Teddy Boys to Whitby Goths, artist Claire Baxter has brought together six generations of fashion and music - and the Yorkshire places that shaped them - in a new exhibition.

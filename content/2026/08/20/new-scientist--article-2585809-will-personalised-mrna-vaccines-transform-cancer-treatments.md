@@ -9,6 +9,10 @@ description: A personalised mRNA cancer vaccine has produced positive results in
   final-stage trial involving skin cancer, raising hopes that this approach could
   work against many cancers
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308925555.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308925555.jpg?w=840)

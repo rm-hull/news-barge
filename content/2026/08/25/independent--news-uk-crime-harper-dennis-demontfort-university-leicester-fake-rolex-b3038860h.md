@@ -8,6 +8,10 @@ scraped_at: '2026-08-25T13:08:01Z'
 published: '2026-08-25T00:00:00Z'
 description: Harper Dennis was found guilty of manslaughter following a two-week trial
 image: https://static.independent.co.uk/2026/02/10/12/24/Harper-Dennis-court-case-5zqvzi33.jpeg?trim=167,0,169,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Self-Improvement
 ---
 
 A student who stabbed his former friend through the heart after they fell out over a fake Rolex watch has been found guilty of manslaughter.

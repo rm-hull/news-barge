@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Two arrests have been made in connection with the murder investigation
   after a house fire on Wednesday
 image: https://static.independent.co.uk/2026/08/28/16/2291588455..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A house fire in Middlesbrough that killed two people and a crash on the nearby A66 last weekend, which left seven people dead, are not being treated as linked by police.

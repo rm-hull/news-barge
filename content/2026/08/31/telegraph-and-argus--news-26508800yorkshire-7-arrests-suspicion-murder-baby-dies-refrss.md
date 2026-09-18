@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Seven people have been arrested on suspicion of murder after the death
   of a newborn girl in Sheffield.
 image: https://www.thetelegraphandargus.co.uk/resources/images/16313373.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: PA)*

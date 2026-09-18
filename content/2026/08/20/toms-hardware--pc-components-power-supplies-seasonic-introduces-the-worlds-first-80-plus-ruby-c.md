@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: The new unit is a direct relative of the Seasonic Prime TX-1600, featuring
   Ruby certification rather than Titanium or Platinum.
 image: https://cdn.mos.cms.futurecdn.net/ohndDcC7jHmAUvfFf39TEV-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Seasonic TX-1600 PSU](https://cdn.mos.cms.futurecdn.net/ohndDcC7jHmAUvfFf39TEV.png) 

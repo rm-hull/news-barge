@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Tees Cottage Pumping Station in Darlington has improved visitor access
   thanks to new funding.
 image: https://www.thenorthernecho.co.uk/resources/images/21407536.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A historic pumping station in Darlington has improved visitor access thanks to new funding.

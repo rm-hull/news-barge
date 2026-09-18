@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: The story of ChatGPT's creation and Sam Altman's monentary firing as
   OpenAI CEO gets a chilling first teaser.
 image: https://cdn.mos.cms.futurecdn.net/Xk8qKKqUdW4UVRLZSVJKrT-1600-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Andrew Garfield's Sam Altman with a sinister smile in Neon's OpenAI movie Artificial](https://cdn.mos.cms.futurecdn.net/Xk8qKKqUdW4UVRLZSVJKrT.jpg) 

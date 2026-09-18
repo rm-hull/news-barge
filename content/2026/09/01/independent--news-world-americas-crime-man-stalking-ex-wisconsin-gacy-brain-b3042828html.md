@@ -9,6 +9,10 @@ description: Benjamin C. Larson was allegedly found with a disturbing collection
   human skulls, skeletal remains and a jar purportedly containing part of a serial
   killer’s brain
 image: https://static.the-independent.com/2026/09/01/14/54/Untitled-design-(1).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A Wisconsin man accused of stalking his ex-girlfriend for more than a decade was allegedly found with a disturbing collection of human skulls, skeletal remains and a jar purportedly containing part of serial killer John Wayne Gacy’s brain.

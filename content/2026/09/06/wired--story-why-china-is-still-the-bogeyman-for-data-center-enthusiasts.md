@@ -9,6 +9,11 @@ description: Polls show that overwhelming majorities of Americans hate data cent
   China makes a perfect scapegoat for tech leaders and their allies—the only problem
   is a lack of evidence.
 image: https://media.wired.com/photos/6a998bf0d9ba7b75ced0a131/191:100/w_1280,c_limit/DataCenterColumn1.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
+- Society & Culture
 ---
 
 *Welcome to the first edition of Power Play! From now until the midterms, senior writer Molly Taft will be sharing their thoughts every Sunday on this political season’s hottest issue: data centers. We welcome reader comments, and will be answering questions from the comments section in future editions.*

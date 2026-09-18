@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The same class of bombs raised concerns under the Biden administration
   because of the risk of large civilian casualties in densely populated Gaza
 image: https://images.euronews.com/articles/stories/09/91/49/56/1200x675_cmsv2_d068ccdd-399e-58a0-960d-8298a9bb730a-9914956.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## The same class of bombs raised concerns under the Biden administration because of the risk of large civilian casualties in densely populated Gaza

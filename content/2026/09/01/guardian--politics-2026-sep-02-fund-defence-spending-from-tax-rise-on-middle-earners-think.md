@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Resolution Foundation argues that UK’s internationally low ‘tax wedge’
   must rise to pay for defence ambitions
 image: https://i.guim.co.uk/img/media/0c73d65e2b5467e66b931883c93349636cbabba5/772_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78895fa4f17a44561d4685dc1f808fe1
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The chancellor, John Healey, must be prepared to raise taxes for middle earners if he wants to fund significantly higher defence spending, the Resolution Foundation thinktank has said.

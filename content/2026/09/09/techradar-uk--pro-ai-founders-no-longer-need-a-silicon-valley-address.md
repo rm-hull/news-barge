@@ -7,6 +7,9 @@ scraped_at: '2026-09-09T12:56:28Z'
 published: '2026-09-09T00:00:00Z'
 description: The next generation of European AI giants starts with today's operators
 image: https://cdn.mos.cms.futurecdn.net/ywSwn3oGxXv4PfcRPZmTrc-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Man coding programmer, software developer working on digital tablet with binary, html computer code on virtual screen](https://cdn.mos.cms.futurecdn.net/ywSwn3oGxXv4PfcRPZmTrc.jpg) 

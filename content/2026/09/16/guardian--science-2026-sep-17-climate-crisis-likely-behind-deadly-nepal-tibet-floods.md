@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Scientists say global heating was a destabilising factor in collapse
   of 200,000 sq metre glacier in August
 image: https://i.guim.co.uk/img/media/0d4c471b83e2aad31168203ad0e0c4a7892689be/487_0_2453_1962/master/2453.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=036ecf7bd2a5384154c58f5db0041076
+categories:
+- UK
+- News & Politics
+- Science
+- History
 ---
 
 Climate breakdown probably weakened the glacier that collapsed causing catastrophic floods and killing hundreds of people in Nepal and Tibet last month, the first scientific study of the disaster has found.

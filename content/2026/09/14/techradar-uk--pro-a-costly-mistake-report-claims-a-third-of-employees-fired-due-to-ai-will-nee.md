@@ -8,6 +8,11 @@ scraped_at: '2026-09-15T04:46:09Z'
 published: '2026-09-14T00:00:00Z'
 description: Surely some mistake?
 image: https://cdn.mos.cms.futurecdn.net/XHBG2PFugd2NXxfu95hpLB-1920-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Angry man ripping out his hair in front of his laptop](https://cdn.mos.cms.futurecdn.net/XHBG2PFugd2NXxfu95hpLB.jpg) 

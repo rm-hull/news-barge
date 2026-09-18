@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Flights have been grounded as Nats tackle an air traffic control issue
   across at least 15 airports
 image: https://static.independent.co.uk/2026/09/08/14/06/heathrow-grounded.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Airports across the UK are experiencing disruption after an air traffic control “technical issue”.

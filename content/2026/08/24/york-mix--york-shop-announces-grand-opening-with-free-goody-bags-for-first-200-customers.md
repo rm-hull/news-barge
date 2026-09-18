@@ -7,6 +7,11 @@ scraped_at: '2026-08-24T20:43:22Z'
 published: '2026-08-24T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/miniso-coney-street-york-opening-poster-1.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Lifestyle & Fashion
 ---
 
 A new store on York’s Coney Street has announced its opening date – with the first customers receiving a free goodie bag of treats.

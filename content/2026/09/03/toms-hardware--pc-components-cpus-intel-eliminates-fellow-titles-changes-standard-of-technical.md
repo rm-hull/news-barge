@@ -9,6 +9,10 @@ scraped_at: '2026-09-03T12:49:05Z'
 published: '2026-09-03T00:00:00Z'
 description: Different designation, different role.
 image: https://cdn.mos.cms.futurecdn.net/3qAuWorrwTksrwq4GhoeEL-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Intel](https://cdn.mos.cms.futurecdn.net/3qAuWorrwTksrwq4GhoeEL.png) 

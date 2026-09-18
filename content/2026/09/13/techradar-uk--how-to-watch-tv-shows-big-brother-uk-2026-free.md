@@ -7,6 +7,10 @@ scraped_at: '2026-09-13T13:18:31Z'
 published: '2026-09-13T00:00:00Z'
 description: The OG reality gameshow returns for a bumper season
 image: https://cdn.mos.cms.futurecdn.net/s7fSJhFDURzLrGaFpfv53N-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Video Gaming
 ---
 
 ![The eye logo for Big Brother 2026](https://cdn.mos.cms.futurecdn.net/s7fSJhFDURzLrGaFpfv53N.jpg) 

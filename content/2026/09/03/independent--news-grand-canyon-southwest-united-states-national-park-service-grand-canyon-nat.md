@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T12:48:21Z'
 published: '2026-09-03T00:00:00Z'
 description: It was a monster of a storm that formed within minutes
 image: https://static.independent.co.uk/2026/08/31/20/Grand_Canyon_Flooding_78619.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Like clockwork, clouds build up in the afternoon, the wind starts to swirl and the skies darken. Then the rain comes.

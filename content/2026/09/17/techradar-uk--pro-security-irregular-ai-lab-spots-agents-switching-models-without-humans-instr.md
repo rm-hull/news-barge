@@ -8,6 +8,9 @@ scraped_at: '2026-09-17T19:43:39Z'
 published: '2026-09-17T00:00:00Z'
 description: An AI agent was able to self-modify it's underlying model
 image: https://cdn.mos.cms.futurecdn.net/oeAAsbMLPU9fc3DUmjUcDo-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Visualization of neural network structure of algorithms layered to replicate human brain.](https://cdn.mos.cms.futurecdn.net/oeAAsbMLPU9fc3DUmjUcDo.jpg) 

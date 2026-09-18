@@ -9,6 +9,10 @@ description: National Hispanic Heritage Month is being celebrated across the U.S
   The celebration highlighting Latino diversity and culture runs from Sept. 15 to
   Oct. 15
 image: https://static.independent.co.uk/2026/09/15/05/Hispanic_Heritage_Month_63658.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Celebrations across the U.S. are expected in observance of National Hispanic Heritage Month, showcasing the vast diversity and culture of Latinos.

@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Angus Taylor and Matt Canavan claim drastic cut to price of cigarettes
   and moves to legalise vapes will combat illicit tobacco trade
 image: https://i.guim.co.uk/img/media/a1c64c841063dd80697a50613066e0d911457bd7/480_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd1be5235c7e4b0ea03150237c83a19a
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Leading public health experts, the Australian Medical Association and Labor have rejected Angus Taylor’s plan to cut tobacco excise by 80%, labelling the move to curb soaring illegal cigarette sales as a backward step on tobacco control.

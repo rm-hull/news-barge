@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Tim Montgomerie suggested in a podcast that ‘Nigel has fallen out of
   love with Zia’
 image: https://static.independent.co.uk/2026/07/01/12/10/tim-montgomerie.png?trim=20,0,22,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Reform UK has suspended a high-profile supporter and one-time Farage ally after he criticised the party’s home affairs spokesperson Zia Yusuf for not being a “team player”.

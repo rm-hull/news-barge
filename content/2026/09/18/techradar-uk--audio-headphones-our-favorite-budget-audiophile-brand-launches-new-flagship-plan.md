@@ -10,6 +10,10 @@ published: '2026-09-18T00:00:00Z'
 description: The Fiio FT15 is a flashy new follow-up to the FT5, bringing refinements
   across the board for a slightly higher price.
 image: https://cdn.mos.cms.futurecdn.net/2bUf2JeyuHSPKmYcywHuM9-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![The FiiO FT15 on a black background.](https://cdn.mos.cms.futurecdn.net/2bUf2JeyuHSPKmYcywHuM9.jpg) 

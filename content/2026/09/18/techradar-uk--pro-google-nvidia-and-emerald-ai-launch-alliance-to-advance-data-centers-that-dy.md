@@ -8,6 +8,9 @@ scraped_at: '2026-09-18T19:01:27Z'
 published: '2026-09-18T00:00:00Z'
 description: Is this the technology data centers have been crying out for?
 image: https://cdn.mos.cms.futurecdn.net/EXNQBTCyrwZX8rEgVYmHD4-1920-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![An artistic depiction of Meta's new data center in Alberta, Canada.](https://cdn.mos.cms.futurecdn.net/EXNQBTCyrwZX8rEgVYmHD4.png) 

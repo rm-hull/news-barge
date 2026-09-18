@@ -7,6 +7,11 @@ scraped_at: '2026-08-25T13:08:17Z'
 published: '2026-08-25T00:00:00Z'
 description: 'From: Martin J. Phillips, Tinshill Lane, Leeds.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjA0MmYyYTJkLTA3MmMtNDA1Yi1hYjczLTFjYTA3ZGQ0NzYwMDozZTVkZDM4MS00N2Y1LTQyODktODM4Ni0xMzA2NzE2MjRhMjM=.jpg?trim=0,2,0,2&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # New Thorpe Park station would be a waste of money - Yorkshire Post Letters

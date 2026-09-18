@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Gloria Steinem died less than three weeks before the release of her newest
   book
 image: https://static.independent.co.uk/2026/09/03/19/Fall_Book_Preview__4272.jpg?trim=800,0,800,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Gloria Steinem died just weeks before the release of her latest memoir, “An Unexpected Life.” She was 92, but gave no indication in the book that it would be her last.

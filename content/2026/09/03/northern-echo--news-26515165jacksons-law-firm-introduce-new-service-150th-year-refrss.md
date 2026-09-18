@@ -7,6 +7,12 @@ scraped_at: '2026-09-03T12:48:22Z'
 published: '2026-09-03T00:00:00Z'
 description: A LAW firm has launched a new specialist intellectual property (IP) service.
 image: https://www.thenorthernecho.co.uk/resources/images/21400798.jpg?type=og-image&xType=0&yType=804
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Christopher Owens)*

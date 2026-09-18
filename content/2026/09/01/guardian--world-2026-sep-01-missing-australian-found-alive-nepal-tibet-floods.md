@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Five missing Australians have been found since Tuesday morning, bringing
   the total citizens unaccounted for to 38
 image: https://i.guim.co.uk/img/media/48477762badca8eea5a8a2a3ec4a3ab8acfe6d77/233_0_2333_1867/master/2333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4f00f54293b0935ccbdb911612b6d65f
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 A total of five Australians missing after devastating floods ravaged the Nepal-Tibet border last week have been found.

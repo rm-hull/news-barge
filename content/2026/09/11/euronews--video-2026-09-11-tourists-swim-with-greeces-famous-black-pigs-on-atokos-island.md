@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Video. Greece's tiny Atokos island attracts tourists who swim with its
   Mediterranean black pigs, feed them fruit and share the unusual encounter online.
 image: https://images.euronews.com/articles/stories/09/91/03/60/1200x675_cmsv2_251ada3a-2ca9-5710-bc9f-ed7fcfa87fb8-9910360.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 Atokos, a tiny private island in Greece's Ionian Sea, has become a popular stop for visitors drawn by its unusual residents. Tourists arrive by boat to swim alongside Mediterranean black pigs, feed them fruit and watch them roam the beach.

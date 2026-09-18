@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Black's lawyers have denounced the Oversight Committee's pursuit of the
   former head of a private equity firm as an abuse of congressional power
 image: https://static.independent.co.uk/2026/09/16/21/2283425248..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 The House agreed to hold billionaire Leon Black in contempt of Congress Wednesday and referred the matter to the Department of Justice after he defied the Oversight Committee's subpoenas in its investigation into disgraced financier Jeffrey Epstein.

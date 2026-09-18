@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: James Judge died in hospital following the altercation in Wakefield on
   August 15
 image: https://static.independent.co.uk/2026/08/18/12/7a744b3f739a30d2b70e5a4c6258ad4dY29udGVudHNlYXJjaGFwaSwxNzg3MTM5NzE2-2.85593479.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The male owner of a dog which fatally bit another man following an argument about “right of way” has denied manslaughter.

@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Donald Trump is to arrive later on Saturday at Dublin Airport for a two-day
   visit to the country.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac44/live/b00e6bd0-ae5e-11f1-8a9e-031899e1c94f.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Donald Trump is wearing a navy suit jacket with a white shirt and a bright red tie.](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ac44/live/b00e6bd0-ae5e-11f1-8a9e-031899e1c94f.jpg)

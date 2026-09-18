@@ -10,6 +10,11 @@ description: Now the UK government plans to introduce new legislation that would
   companies face fines and potential criminal liability, and signaled similar plans
   could extend to Snapchat and Instagram.
 image: https://media.wired.com/photos/6aa03e5ade01d165fd766963/191:100/w_1280,c_limit/UK-Gave-Apple-Google-Three-Months-To-Block-Child-Nudity-Business-961092282.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 In June, the UK government told Big Tech it had three months to make taking, viewing, or sharing images of child nudity on their devices impossible. “I expect tech firms to make that happen,” said then prime minister Keir Starmer. “But if they choose not to, then we will act and change the law.”

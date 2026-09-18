@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: From the 1950s to the 2020s, Kusama produced vivid paintings, sculptures
   and vast installations that often drew on her experience of hallucinations
 image: https://i.guim.co.uk/img/media/68341279febaa1d142dd19321d4c9405ceb511e6/348_0_2811_2248/master/2811.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=18af89c3dda3e753c8e4b864c004c60c
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 Yayoi Kusama, the Japanese outsider artist who reached superstar status after decades living in a psychiatric hospital, has died aged 97.

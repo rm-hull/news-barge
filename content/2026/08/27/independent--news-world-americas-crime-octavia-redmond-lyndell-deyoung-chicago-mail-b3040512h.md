@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: The teenager received a five-year sentence for killing 48-year-old Octavia
   Redmond
 image: https://static.the-independent.com/2026/08/27/16/45/Screenshot-2026-08-27-at-17-00-33.png?trim=51,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A man has been charged after allegedly forcing a teenager to kill a postal carrier along her route.

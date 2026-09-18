@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Fountains Abbey & Studley Royal Walk has been named among the best Sunday
   walks for the Bank Holiday.
 image: https://www.yorkpress.co.uk/resources/images/21384041.jpg?type=og-image&xType=0&yType=54
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: National Trust Images/, Chris Lacey)*

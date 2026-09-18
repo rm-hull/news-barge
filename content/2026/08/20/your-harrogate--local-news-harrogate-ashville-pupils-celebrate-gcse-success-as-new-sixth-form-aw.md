@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Pupils at Ashville are celebrating after achieving another strong set
   of GCSE results.
 image: https://mmo.aiircdn.com/409/6a871b948c5ccbfb1ea.jpg
+categories:
+- Local
+- Harrogate
+- Self-Improvement
 ---
 
 ![](https://mmo.aiircdn.com/409/6a871b948c5ccbfb1ea.jpg) 

@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Home Office document provides guidance on gender equality and respect
   in public
 image: https://static.independent.co.uk/2026/08/19/20/16/Screenshot-2026-08-19-213047.png?trim=136,0,128,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Andy Burnham has defended advice handed to asylum-seekers by the government, telling them rape and domestic abuse are serious crimes.

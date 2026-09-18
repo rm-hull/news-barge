@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Minister condemns groups behind Hampshire disorder and says officers
   were injured as they repelled ‘aggression’
 image: https://i.guim.co.uk/img/media/c677eb37876d1d7e585eb6cb93d7b8a552cbb463/0_593_1507_1205/master/1507.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d6d8d40b95b6c139ae3fef44fb29bbdd
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Batons and synthetic pepper spray were used to repel hundreds of masked, black-clad vigilantes in Portsmouth on Sunday, it has emerged, as the policing minister said officers had been injured as they repelled organised “aggression”.

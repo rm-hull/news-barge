@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T12:41:42Z'
 published: '2026-09-04T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/unit-5-millfield-lane-nether-poppleton-york-gsv.webp
+categories:
+- Local
+- York
+- Careers & Productivity
 ---
 
 A York office building could be converted into a place of worship under new plans.

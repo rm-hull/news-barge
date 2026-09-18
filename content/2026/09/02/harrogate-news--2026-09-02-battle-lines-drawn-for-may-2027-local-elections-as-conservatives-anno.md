@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: The local political landscape is heating up ahead of the North Yorkshire
   Council and Knaresborough Town Council elections scheduled for May 2027, with the
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/reeton1.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 The local political landscape is heating up ahead of the **North Yorkshire Council** and**Knaresborough Town Council** elections scheduled for**May 2027**, with the Conservative Party officially selecting transport professional Tyler Reeton to contest the Knaresborough East division.

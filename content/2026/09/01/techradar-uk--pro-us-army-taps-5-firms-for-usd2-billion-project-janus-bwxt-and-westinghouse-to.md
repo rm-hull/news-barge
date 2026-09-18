@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: Army hands five companies $2 billion to build nuclear microreactors at
   bases across five different states
 image: https://cdn.mos.cms.futurecdn.net/tHmeSzeFHMpEMVM3KENNUQ-1920-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Nuclear Power Plant](https://cdn.mos.cms.futurecdn.net/tHmeSzeFHMpEMVM3KENNUQ.png) 

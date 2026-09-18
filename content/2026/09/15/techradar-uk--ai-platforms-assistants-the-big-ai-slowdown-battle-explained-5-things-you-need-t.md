@@ -9,6 +9,9 @@ published: '2026-09-15T00:00:00Z'
 description: Could AI get to the stage where it can end humanity? Big tech bosses
   think so, but the White House disagrees.
 image: https://cdn.mos.cms.futurecdn.net/ty5BDP36zawvsuihZ9y2nC-2000-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Dario Amodei during a speech next to Sam Altman](https://cdn.mos.cms.futurecdn.net/ty5BDP36zawvsuihZ9y2nC.jpg) 

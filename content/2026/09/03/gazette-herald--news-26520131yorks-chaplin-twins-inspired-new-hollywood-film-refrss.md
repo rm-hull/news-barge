@@ -8,6 +8,13 @@ published: '2026-09-03T00:00:00Z'
 description: A Hollywood film inspired by York's most famous twins puts the fascinating
   lives of sisters Greta and Freda Chaplin back in the spotlight
 image: https://www.gazetteherald.co.uk/resources/images/19426260.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 *A Hollywood film inspired by York's most famous twins puts the fascinating lives of sisters Greta and Freda Chaplin in the spotlight again*

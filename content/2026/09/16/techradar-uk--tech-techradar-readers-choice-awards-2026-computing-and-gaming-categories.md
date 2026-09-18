@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: The winners are 100% voted by you, so pick your winners in laptops, gaming
   accessories, and more!
 image: https://cdn.mos.cms.futurecdn.net/U5TNfAwJ6UZvneuHpKCFF7-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![The TechRadar Readers Choice Awards logo on a patterned background](https://cdn.mos.cms.futurecdn.net/U5TNfAwJ6UZvneuHpKCFF7.jpg) 

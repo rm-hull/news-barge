@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: The group’s main Middle Eastern franchise partner expects to shut most
   of its stores next year as part of a review launched amid the ongoing Iran war.
 image: https://static.independent.co.uk/2026/08/14/17/13175604-067622f3-0744-4021-afb9-604f8a439245.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Mothercare has warned over a “highly uncertain” future for the firm after its Middle East partner revealed it was set to close most of its franchised stores across the region next year.

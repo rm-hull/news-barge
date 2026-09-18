@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: A 2025 investigation identified two suspected grave sites linked to people
   who died in detention at Mezzeh
 image: https://static.independent.co.uk/2026/09/12/10/2026-09-12T050015Z_58503228_RC233DAI68EX_RTRMADP_3_SYRIA-AIRPORT-GRAVES.JPG?trim=168,0,168,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Syrian government plans to turn a former military airport in Damascus into a hub for private jets are raising alarm among rights groups and residents who say redevelopment could disturb suspected mass graves and override private land claims.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T14:59:22Z'
 published: '2026-09-14T00:00:00Z'
 description: Russia has secured ‘near-zero net gains’ since March, said the ISW
 image: https://static.independent.co.uk/2026/09/13/17/2026-09-12T144938Z_541326783_RC2QHNARFZL8_RTRMADP_3_UKRAINE-CRISIS-ATTACK-LUTSK.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Nearly all of Russia’s territorial gains this year have been wiped out, according to a new assessment by the Institute for the Study of War.

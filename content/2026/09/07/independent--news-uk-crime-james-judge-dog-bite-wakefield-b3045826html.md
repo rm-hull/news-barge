@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T14:14:27Z'
 published: '2026-09-07T00:00:00Z'
 description: Lee Ellis is due to appear at Leeds Crown Court on 26 September
 image: https://static.independent.co.uk/2026/08/17/13/01M07VZNCGSNVD7RXB2GWD86BC.jpg?trim=168,0,168,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A man bitten by a dog on a footpath died from complications of a wound on his leg, an inquest has heard.

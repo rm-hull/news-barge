@@ -9,6 +9,10 @@ description: The US defense secretary faces internal dissent and discord at the 
   accused of focusing on culture war issues and his own political ambitions as the
   Iran war drags on
 image: https://i.guim.co.uk/img/media/bb0b40fe4ad859e195c4994e7732c97a77187798/1730_767_3375_2701/master/3375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d99a3286f7dc3af5cfeb54ca53e0a356
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 In a different Washington, under a different president, a return to the well-worn playbook of all-out sanctions to counter Iran might have been the signal for a publicity-hungry US secretary of defense to adopt a lower profile.

@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Seven people were arrested on suspicion of murder after the infant was
   found dead in the Wincobank area of Sheffield on Sunday
 image: https://static.independent.co.uk/2025/10/12/10/44649f503b9bb24c01444c13f23ebeceY29udGVudHNlYXJjaGFwaSwxNzYwMzQ3NzQz-2.37991383.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A newborn baby who was found dead in a Sheffield property died from stab wounds, police said.

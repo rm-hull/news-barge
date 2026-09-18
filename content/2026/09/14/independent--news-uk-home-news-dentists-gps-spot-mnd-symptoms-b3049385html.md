@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Motor neurone disease is frequently difficult to identify in its early
   stages
 image: https://static.independent.co.uk/2026/09/14/06/01KNBN7AT4GH6AAMWJ5YR4XWFQ.jpg?trim=0,345,0,345&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Healthcare professionals, including dentists and GPs, are being offered targeted training to spot potential early signs of motor neurone disease (MND) under a brand new initiative.

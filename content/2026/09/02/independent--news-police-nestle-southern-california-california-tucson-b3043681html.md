@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Pabst Blue Ribbon wants its beer back, and it’s offering a reward to
   help that happen
 image: https://static.independent.co.uk/2026/08/31/16/Beer_Heist_43449.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Pabst Blue Ribbon wants its beer back, and it's offering a reward to help that happen.

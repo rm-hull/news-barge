@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Risk of fresh flooding had forced rescue teams to withdraw as residents
   rushed up hills to escape possible river surge
 image: https://i.guim.co.uk/img/media/3d9b134af42fcf5be0c903258ae03d2147807bb0/988_0_3450_2760/master/3450.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc4d656a950960413cf07c9f60b94a21
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Rescuers searching for survivors of deadly flash floods on the Nepal-Tibet border have resumed their efforts after suspending operations when a debris dam burst its bank on Friday, increasing the risk of fresh flooding.

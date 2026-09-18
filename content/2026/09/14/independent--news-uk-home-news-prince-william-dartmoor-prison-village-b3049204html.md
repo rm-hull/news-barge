@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: William will visit Princetown on Tuesday to unveil the Princetown Community
   Fund
 image: https://static.independent.co.uk/2026/09/12/20/01M2A6PE05RN47EBC4MXVC1ET6.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The Prince of Wales will launch a new regeneration fund next week to assist the isolated rural community situated alongside Dartmoor prison.

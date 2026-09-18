@@ -9,6 +9,10 @@ description: Donald Trump has signed an executive order to rename Lake Ontario "
   America" in the US, as his administration's trade dispute with neighbouring Canada
   intensifies.
 image: https://images.euronews.com/articles/stories/09/89/18/78/1200x675_cmsv2_6d6a31d2-7fd6-548a-a7c8-323ed3c18c71-9891878.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Donald Trump has signed an executive order to rename Lake Ontario "Lake America" in the US, as his administration's trade dispute with neighbouring Canada intensifies.

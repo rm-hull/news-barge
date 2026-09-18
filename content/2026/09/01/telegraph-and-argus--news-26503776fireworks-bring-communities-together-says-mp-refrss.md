@@ -8,6 +8,12 @@ published: '2026-09-01T00:00:00Z'
 description: Bradford South MP Judith Cummins feels fireworks should bring communities
   together - not make people feel under siege.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21383995.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
+- Family & Parenting
 ---
 
 **This week's MP column is written by Bradford South MP Judith Cummins, who feels fireworks should bring communities together - not make people feel under siege.**

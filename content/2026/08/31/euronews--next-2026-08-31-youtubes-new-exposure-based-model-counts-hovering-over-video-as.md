@@ -9,6 +9,11 @@ description: YouTube's new "exposure-based model" counts a view from the first f
   across shorts, long-form videos, podcasts and livestreams, inflating creators' headline
   numbers without changing how much they actually get paid.
 image: https://images.euronews.com/articles/stories/09/89/56/00/1200x675_cmsv2_be0803b1-8126-5dfc-9ab3-eeb22a65c52d-9895600.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+- Creator Economy & Marketing
 ---
 
 ## YouTube's new "exposure-based model" counts a view from the first frame, across shorts, long-form videos, podcasts and livestreams, inflating creators' headline numbers without changing how much they actually get paid.

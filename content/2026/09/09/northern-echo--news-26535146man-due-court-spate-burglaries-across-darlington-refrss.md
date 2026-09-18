@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: A Middlesbrough man has been charged with 20 offences following a spate
   of burglaries and attempted burglaries across Darlington.
 image: https://www.thenorthernecho.co.uk/resources/images/17182011.jpg?type=og-image&xType=0&yType=74
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: NORTHERN ECHO)*

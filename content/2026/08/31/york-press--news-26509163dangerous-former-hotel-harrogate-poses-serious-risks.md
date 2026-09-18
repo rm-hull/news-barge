@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: Two children gained access to a dangerous abandoned building in Harrogate,
   prompting a police warning to parents.
 image: https://www.yorkpress.co.uk/resources/images/21392482.jpg?type=og-image
+categories:
+- Local
+- York
+- Family & Parenting
+- Society & Culture
+- News & Politics
 ---
 
 ## Police warning after children enter 'dangerous' abandoned North Yorkshire hotel

@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: A York man has called on English Heritage to tackle damage to the historic
   mound at Clifford's Tower.
 image: https://www.gazetteherald.co.uk/resources/images/21369414.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Business & Entrepreneurship
 ---
 
 A YORK man has called on English Heritage to tackle damage to the historic mound at Clifford's Tower after witnessing people climbing on and sliding down its slopes.

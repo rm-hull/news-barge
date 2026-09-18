@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Method enables antibodies to be extracted and mass-produced by microbial
   cells, scientists say
 image: https://static.independent.co.uk/2026/09/11/9/36/Spectacled-cobra-(Naja-naja)-from-the-Indian-Institute-of-Science-(IISc)-campus-in-Bengaluru.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- Technology & Software
 ---
 
 Scientists from India and Denmark have developed an antivenom cocktail that offers broad protection against venom from diverse cobra species, a game-changer that could prevent thousands of deaths worldwide.

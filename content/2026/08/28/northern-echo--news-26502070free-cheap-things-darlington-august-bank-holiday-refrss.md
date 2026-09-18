@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Darlington families looking for things to do over the August Bank Holiday
   weekend can enjoy free town-centre entertainment, outdoor walks and…
 image: https://www.thenorthernecho.co.uk/resources/images/13220589.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: The Northern Echo)*

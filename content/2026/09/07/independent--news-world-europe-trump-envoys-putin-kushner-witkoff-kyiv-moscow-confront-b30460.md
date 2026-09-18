@@ -8,6 +8,9 @@ published: '2026-09-07T00:00:00Z'
 description: Steve Witkoff and Jared Kushner were confronted by Ukrainian journalist
   Dmytro Gordon
 image: https://static.independent.co.uk/2026/09/07/16/2293369355..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump’s peace envoys Steve Witkoff and Jared Kushner have been confronted over their talks with “war criminal” Russian president Vladimir Putin.

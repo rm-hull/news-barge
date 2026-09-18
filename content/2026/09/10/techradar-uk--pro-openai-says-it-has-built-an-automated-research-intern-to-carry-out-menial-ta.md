@@ -8,6 +8,10 @@ scraped_at: '2026-09-10T22:31:04Z'
 published: '2026-09-10T00:00:00Z'
 description: This intern cannot make coffee
 image: https://cdn.mos.cms.futurecdn.net/gN6Qsf7QSmrmYwtYPr47HY-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![OpenAI logo on smartphone, reflected on main screen](https://cdn.mos.cms.futurecdn.net/gN6Qsf7QSmrmYwtYPr47HY.jpg) 

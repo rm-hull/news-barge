@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: US Central Command accused Iran of targeting commercial shipping and
   American service members deployed in the region.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Several ships sit in a large body of water, with fog on the horizon and blurred rocks in the foreground.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg)

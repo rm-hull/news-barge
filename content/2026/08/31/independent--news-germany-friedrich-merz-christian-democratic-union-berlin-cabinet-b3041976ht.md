@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: An election in eastern Germany on Sunday could produce the first far-right
   state governor in the country’s post-World War II history
 image: https://static.independent.co.uk/2026/08/31/06/Germany_Election_89769.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 An election in eastern Germany on Sunday could produce the first far-right state governor in the country's post-World War II history as Chancellor Friedrich Merz and his unpopular national government struggle to dispel what he calls “widespread moroseness.”

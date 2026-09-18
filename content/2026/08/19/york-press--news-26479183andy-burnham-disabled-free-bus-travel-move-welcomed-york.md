@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The expansion of free bus travel for disabled people has been welcomed
   in York.
 image: https://www.yorkpress.co.uk/resources/images/21343956.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## 'Vital step'- expansion of free bus travel welcomed in York

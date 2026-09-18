@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Haakon VIII promises to uphold 1814 constitution but his queen misses
   ceremony because of post-surgery ‘complications’
 image: https://i.guim.co.uk/img/media/01fc77ea699f50b020f9a23ea3a266e9b8314e08/849_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=93e27168bbee959c3085aa5da247c7af
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 King Haakon VIII swore an oath of allegiance before Norway’s parliament on Tuesday in the first major stage in the passing of the crown since the death of his father after 35 years on the throne.

@@ -8,6 +8,12 @@ published: '2026-09-04T00:00:00Z'
 description: Children are back at school and a tech expert has revealed the iPhone
   and Android parental controls every parent should know about.
 image: https://www.gazetteherald.co.uk/resources/images/21411774.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
+- Family & Parenting
 ---
 
 *(Image: Daisy Daisy)*

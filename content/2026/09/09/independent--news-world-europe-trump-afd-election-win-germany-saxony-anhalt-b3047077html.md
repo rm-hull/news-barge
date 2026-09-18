@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: The Alternativ fur Deutschland (AfD) won 44 per cent of the vote in Saxony-Anhalt
   but fell short of a majority
 image: https://static.independent.co.uk/2026/09/08/18/10/GettyImages-2292989189-(1).jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Donald Trump has said the historic state election victory for the far-right AfD party in Germany was sparked by the country’s “horrible” immigration rules - and claimed the party is “on the rise”.

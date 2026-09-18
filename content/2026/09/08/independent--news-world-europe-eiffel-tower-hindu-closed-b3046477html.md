@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A delegation of 100 people linked to the Hindu group made a private visit
   to the tower
 image: https://static.independent.co.uk/2026/09/08/05/2026-09-07T153349Z_1266849540_RC2FENAOBBKP_RTRMADP_3_FRANCE-EIFFEL-TOWER.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 Employees at France’s Eiffel Tower launched a protest after a Hindu religious delegation visiting the monument over the weekend allegedly requested “limited interactions” with female staff.

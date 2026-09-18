@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Fierce fighting between government troops and militias in Somalia's southwestern
   city of Baidoa has killed dozens, including at least four civilians
 image: https://static.independent.co.uk/2026/08/18/18/Somalia_Violence_35672.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 Hours of fierce fighting between government troops and militias that killed dozens of combatants in Somalia’s southwestern city of Baidoa also left at least four civilians dead and 98 others wounded, a hospital official said Tuesday.

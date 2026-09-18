@@ -7,6 +7,12 @@ scraped_at: '2026-08-27T12:00:39Z'
 published: '2026-08-27T00:00:00Z'
 description: Many men feel that dieting is a ‘feminised space’, researchers found
 image: https://static.independent.co.uk/2026/08/27/7/15/man-woman-exercising.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Science
+- Self-Improvement
 ---
 
 Men with partners may find it easier to lose weight, a new study exploring gendered attitudes to dieting has found.

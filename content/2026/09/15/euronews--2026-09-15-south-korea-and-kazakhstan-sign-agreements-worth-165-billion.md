@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: Kazakhstan called for doubled trade and deeper cooperation in industry,
   critical minerals, technology, automotive manufacturing and the Middle Corridor.
 image: https://images.euronews.com/articles/stories/09/91/43/77/1200x675_cmsv2_bd373d51-bd0d-5d98-bb36-3b6c97d2aa70-9914377.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ## Kazakhstan called for doubled trade and deeper cooperation in industry, critical minerals, technology, automotive manufacturing and the Middle Corridor.

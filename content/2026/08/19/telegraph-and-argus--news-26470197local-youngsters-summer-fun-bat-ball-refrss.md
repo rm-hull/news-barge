@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: CRICKET is a game associated with summer. Whether it’s watching or playing,
   in a local club or with a group of friends, people of all ages enjoy…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21329018.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 CRICKET is a game associated with summer. Whether it’s watching or playing, in a local club or with a group of friends, people of all ages enjoy the game.

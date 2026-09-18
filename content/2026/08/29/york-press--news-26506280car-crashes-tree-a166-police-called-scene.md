@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Humberside Fire and Rescue Service said crews were called at 7.11am yesterday
   (Friday, August 28) to the A166 Garrowby Hill close to Bishop Wilton.
 image: https://www.yorkpress.co.uk/resources/images/21387716.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Newsquest)*

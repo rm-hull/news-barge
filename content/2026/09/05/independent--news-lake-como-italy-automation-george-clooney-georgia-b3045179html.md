@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: Moto Guzzi enthusiasts now have a new reason to visit the iconic Italian
   motorcycle's headquarters
 image: https://static.independent.co.uk/2026/09/05/10/Italy_Moto_Guzzi_48542.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Automotive
 ---
 
 After extensive renovation by the Italian motorcycle manufacturer Moto Guzzi, aficionados this year had fresh reasons for a pilgrimage to the lakeside spot where their beloved two-cylinder bikes are hand-built.

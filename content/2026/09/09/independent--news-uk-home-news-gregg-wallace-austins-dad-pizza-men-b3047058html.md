@@ -7,6 +7,12 @@ scraped_at: '2026-09-09T12:56:33Z'
 published: '2026-09-09T00:00:00Z'
 description: Will Mcllory says no women will be employed in any of his branches
 image: https://static.independent.co.uk/2026/04/03/20/0cf9d1e4ff059b0626088352bd0f04bdY29udGVudHNlYXJjaGFwaSwxNzc1MzI5MjI5-2.30148374.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 A new pizza joint backed by disgraced former *MasterChef* host Gregg Wallace will only hire men, its owner has announced.

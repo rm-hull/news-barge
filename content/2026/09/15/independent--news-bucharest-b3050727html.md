@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Romanian farmers rallied outside government headquarters in Bucharest
   to protest export restrictions and the government's handling of animal disease outbreaks.
 image: https://static.independent.co.uk/2026/09/15/18/APTOPIX_Romania_Farmers_Protest_42311.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Photos of Romanian farmers protesting export restrictions

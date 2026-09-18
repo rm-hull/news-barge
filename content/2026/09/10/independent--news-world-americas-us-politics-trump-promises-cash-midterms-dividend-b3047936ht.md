@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: This week, Trump vowed to send $5,000 to every adult American citizen
   if Republicans retain their majorities in the midterm elections
 image: https://static.independent.co.uk/2026/09/10/12/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump made one of his boldest promises yet on stage Wednesday night at the Republican midterm convention in Texas - he vowed to send $5,000 to every adult American citizen if Republicans retain control of the House and Senate in November’s midterm elections.

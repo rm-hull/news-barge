@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Maryland judge issues preliminary injunction blocking Trump’s executive
   order targeting what he termed ‘birth tourism’
 image: https://i.guim.co.uk/img/media/c2146ff6aa447a2e4c5a1522c82a7b4ae56acdd2/568_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=8f43d0091415250d9f9a8f9cdb832fa0
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Demonstrators in Washington DC hold placards referencing the 14th amendment during a supreme court hearing on the issue earlier this year Photograph: Kylie Cooper/Reuters

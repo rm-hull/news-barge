@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: The 30-year-old from Birmingham went missing on Saturday as he was descending
   from Musa Ka Musala.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b352/live/33fe6140-a6b0-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Travel
+- History
 ---
 
 ![Alexander Harris, a man in black shorts and a grey jacket and wearing sunglasses, is posing in front of a stone formation and Pakistan flags](https://ichef.bbci.co.uk/ace/standard/716/cpsprodpb/85b2/live/f0eb1540-a6ac-11f1-b048-153395f36aa1.jpg)

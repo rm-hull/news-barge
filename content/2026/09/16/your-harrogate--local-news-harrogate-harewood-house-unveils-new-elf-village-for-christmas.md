@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Harewood House has revealed plans for a new immersive Elf Village as
   part of its Christmas celebrations.
 image: https://mmo.aiircdn.com/409/6aaa442673366d8bd6c.jpg
+categories:
+- Local
+- Harrogate
+- Home, Garden & DIY
 ---
 
 ![](https://mmo.aiircdn.com/409/6aaa442673366d8bd6c.jpg) 

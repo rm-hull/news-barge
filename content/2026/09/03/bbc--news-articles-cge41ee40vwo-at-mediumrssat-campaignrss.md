@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: The Green Party leader intends to run in the Holborn and St Pancras seat
   following Sir Keir Starmer's resignation as MP.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc07/live/9cad4bc0-a76e-11f1-993c-a325009c1935.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Zack Polanski, wearing a black jacket and green T-shirt.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/dc07/live/9cad4bc0-a76e-11f1-993c-a325009c1935.jpg)

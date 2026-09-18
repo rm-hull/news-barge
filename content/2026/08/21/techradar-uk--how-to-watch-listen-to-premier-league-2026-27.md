@@ -7,6 +7,9 @@ scraped_at: '2026-08-21T08:54:12Z'
 published: '2026-08-21T00:00:00Z'
 description: Here's how to listen to the Premier League from anywhere this season
 image: https://cdn.mos.cms.futurecdn.net/vZeiXu6VehApCToVqn2Zf8-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Bukayo Saka and Mikel Arteta of Arsenal lift the Premier League Trophy after the Premier League match between Crystal Palace FC and Arsenal at Selhurst Park on May 24, 2026 in London, England](https://cdn.mos.cms.futurecdn.net/vZeiXu6VehApCToVqn2Zf8.jpg) 

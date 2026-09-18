@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: A federal judge late Sunday ordered that the U.S. Postal Service not
   implement President Donald Trump’s executive order limiting mail balloting
 image: https://static.independent.co.uk/2026/09/14/06/2026-09-14T021020Z_1000114421_RC2MINA0CLDT_RTRMADP_3_USA-TRUMP-IRELAND.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Efforts by the administration to reshape national voting rules have encountered another major legal hurdle after a federal judge ruled late Sunday that the U.S. Postal Service must not implement President Donald Trump’s executive order restricting mail-in balloting, just as the Supreme Court prepares to consider the matter.

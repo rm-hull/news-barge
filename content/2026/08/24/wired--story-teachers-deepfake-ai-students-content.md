@@ -9,6 +9,11 @@ description: The deepfake epidemic in schools is affecting more than students. F
   teachers tell WIRED about becoming targets of sexualized, AI-generated content—and
   how difficult it was to find accountability.
 image: https://media.wired.com/photos/6a765908081b1adce8ee2226/191:100/w_1280,c_limit/080726-teachers-deepfakes-ai.jpg
+categories:
+- Technology & Software
+- Science
+- Education & Learning
+- Society & Culture
 ---
 
 For Luis DeSantiago, a substitute teacher in Los Banos, California, it started with a few text messages. On March 12, as he was working his other part-time job at a coffee shop, his phone lit up. A fellow barista said there was an AI photo circulating on social media. Her cousin wanted to know if it was DeSantiago.

@@ -11,6 +11,9 @@ description: The Justice Department said that the domain seizures made the botne
   into the botnet's code and were critical for the botnet's communication and essential
   operations.
 image: https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 The FBI has seized a series of domains that were used by a large-scale botnet to coordinate and launch China-backed cyberattacks against American targets.

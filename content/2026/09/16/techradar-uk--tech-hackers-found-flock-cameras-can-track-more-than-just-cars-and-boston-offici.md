@@ -8,6 +8,9 @@ scraped_at: '2026-09-16T22:53:46Z'
 published: '2026-09-16T00:00:00Z'
 description: Is there a right way to use ALPR?
 image: https://cdn.mos.cms.futurecdn.net/MNtmpT5HC2DfhN6gBzHR3f-2560-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![A flock camera in front of a blue sky](https://cdn.mos.cms.futurecdn.net/MNtmpT5HC2DfhN6gBzHR3f.jpg) 

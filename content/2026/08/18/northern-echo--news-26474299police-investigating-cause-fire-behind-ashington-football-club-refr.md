@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Northumberland Fire and Rescue Service tackled a grass fire covering
   about 40 square metres near the Ashington AFC stadium.
 image: https://www.thenorthernecho.co.uk/resources/images/21335344.jpg?type=og-image&yType=44
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A football club has slammed "reckless behaviour" after a fire broke out near its stadium.

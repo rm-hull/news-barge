@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Most economists had forecast zero borrowing last month while the OBR
   had predicted a £500 million surplus
 image: https://static.independent.co.uk/2026/07/31/21/fa5bea1b8e4cbd37419c604e7b7c036eY29udGVudHNlYXJjaGFwaSwxNzg1NjE1NzAw-2.85372673.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Official figures showing an unexpected rise in government borrowing to £1.8 billion last month have laid bare the severe fiscal pressure on new Chancellor John Healey ahead of his first Budget.

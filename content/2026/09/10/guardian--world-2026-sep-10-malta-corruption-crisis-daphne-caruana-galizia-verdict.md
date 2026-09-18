@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Labour peer tells Council of Europe inquiry failure to implement legal
   protections still putting journalists at risk
 image: https://i.guim.co.uk/img/media/a1bd6d0525e08f53b2a0a8e000e81cae1e75a56e/312_0_3393_2715/master/3393.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=237602fd8dcb7c025b1ce7ae87fcd5b8
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Malta is vulnerable to “repeated instances of high-level corruption” unless it strengthens the rule of law and protections for journalists, the Labour peer Shami Chakrabarti said at the opening of an inquiry into judicial failures following the death of Daphne Caruana Galizia.

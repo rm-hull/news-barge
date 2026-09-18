@@ -7,6 +7,11 @@ scraped_at: '2026-08-29T13:50:26Z'
 published: '2026-08-29T00:00:00Z'
 description: The race is too close to call
 image: https://static.independent.co.uk/2026/08/29/09/2026-08-28T215653Z_483208391_RC2W7NAAR3O6_RTRMADP_3_ICELAND-EU.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Society & Culture
 ---
 
 Icelanders vote on Saturday on whether to reopen membership talks with the European Union, with islanders split down the middle after months of debate focused on the cost of living, security and control over fishing waters.

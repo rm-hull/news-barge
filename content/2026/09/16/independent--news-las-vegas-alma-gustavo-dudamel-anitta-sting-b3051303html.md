@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: A selected list of nominees to the Latin Grammys 2026, as announced on
   Wednesday by The Latin Recording Academy
 image: https://static.independent.co.uk/2026/09/16/14/Music-Latin-Grammys-Nominees_75552.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
 ---
 
 Here's a selected list of nominees for the Latin Grammys 2026 as announced on Wednesday by the Latin Recording Academy. The 27th edition of the Latin Grammys will be celebrated on Nov. 12 in Las Vegas.

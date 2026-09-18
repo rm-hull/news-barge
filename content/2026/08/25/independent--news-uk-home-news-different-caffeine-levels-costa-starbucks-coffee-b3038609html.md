@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Costa’s cappuccino is the equivalent of around four cans of Red Bull,
   the study found
 image: https://static.independent.co.uk/2026/08/25/06/908329112..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Those enjoying their morning coffee on the commute face ‘wildly’ different levels of caffeine, a new study shows.

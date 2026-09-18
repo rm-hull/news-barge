@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: North Yorkshire councillors are to consider whether a series of breaches
   involving the county’s pension fund should be reported to the Pensions…
 image: https://www.thenorthernecho.co.uk/resources/images/21048766.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 North Yorkshire councillors are to consider whether a series of breaches involving the county’s pension fund should be reported to the Pensions Regulator.

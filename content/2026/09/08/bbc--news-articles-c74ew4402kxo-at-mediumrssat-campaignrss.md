@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: The presenter said it had been "deeply rewarding" but added that "now
   is the right time for a change".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/36c9/live/5d567720-ab7f-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Monty Don pictured on Gardeners' World in 2024](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/36c9/live/5d567720-ab7f-11f1-a291-b542ee92de7c.jpg)

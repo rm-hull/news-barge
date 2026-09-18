@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: North Yorkshire Police are appealing for information after an attempted
   robbery and an affray in Micklegate, Selby.
 image: https://www.yorkpress.co.uk/resources/images/21431551.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: North Yorkshire Police)*

@@ -12,6 +12,10 @@ description: Amy-Clare Martin has spent the past three years spearheading a camp
   vital need to protect the public with what is fair and just – and why Andy Burnham
   is right to tackle the problem
 image: https://static.independent.co.uk/2026/08/04/16/19/IPP-FRONT-PAGE-COMP.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 When I first started investigating indefinite sentences in November 2023, there had been horrifying spike in suicides among prisoners.

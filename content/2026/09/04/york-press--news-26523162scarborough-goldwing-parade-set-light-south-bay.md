@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: A dazzling parade of illuminated motorbikes is set to light up the North
   Yorkshire coast next week.
 image: https://www.yorkpress.co.uk/resources/images/21412178.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## North Yorkshire coast to host stunning illuminated motorcycle parade

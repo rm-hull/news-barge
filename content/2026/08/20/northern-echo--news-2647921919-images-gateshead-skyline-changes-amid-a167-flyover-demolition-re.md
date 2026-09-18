@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: New pictures show the former A167 Gateshead Highway flyover almost entirely
   removed above Park Lane roundabout as demolition enters its latest phase.
 image: https://www.thenorthernecho.co.uk/resources/images/21343392.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 New images show the changing Gateshead skyline as demolition continues on its major flyover.

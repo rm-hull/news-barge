@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: South Africa police have cautioned against assuming that all the killings
   are linked but many women are afraid.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e812/live/08938de0-b27d-11f1-94d0-89db86965db8.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Sports
 ---
 
 ![Members of the South African Police Service Forensic Pathology Services dressed in white protective gears work on a crime scene with police with their car nearby](https://ichef.bbci.co.uk/ace/standard/980/cpsprodpb/e812/live/08938de0-b27d-11f1-94d0-89db86965db8.jpg)

@@ -9,6 +9,11 @@ description: Video. Gamescom 2026 has opened in Cologne, bringing together devel
   industry professionals and gamers for the world’s largest trade fair dedicated to
   computer and video games.
 image: https://images.euronews.com/articles/stories/09/89/13/16/1200x675_cmsv2_e02630e2-1914-5e7c-ae70-bcdbab39d3a7-9891316.jpg
+categories:
+- Europe
+- News & Politics
+- Video Gaming
+- Technology & Software
 ---
 
 The event is bigger than ever this year, with the entire 233,000-square-metre exhibition space sold out for the first time. More than 1,700 exhibitors from 67 countries and regions are taking part, surpassing last year’s record of 1,568.

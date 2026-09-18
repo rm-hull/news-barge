@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: A Darlington nightclub has reopened with a packed launch weekend, fire
   performers and a headline DJ set.
 image: https://www.thenorthernecho.co.uk/resources/images/21438374.jpg?type=og-image&xType=0&yType=219
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A Darlington nightclub reopened with a packed launch weekend, fire performers and a headline DJ set.

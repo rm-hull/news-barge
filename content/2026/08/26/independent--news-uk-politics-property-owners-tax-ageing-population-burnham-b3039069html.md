@@ -8,6 +8,10 @@ scraped_at: '2026-08-26T08:57:27Z'
 published: '2026-08-26T00:00:00Z'
 description: Andy Burnham has refused to rule out tax rises in the autumn Budget
 image: https://static.independent.co.uk/2026/08/25/18/01M0SX9HTSNN8NVDJQRWPMWCV1.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Andy Burnham should hike taxes on pensioners to bolster Britain’s public finances, an influential policy think tank has said.

@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: More than 40 Australians are among several thousand people unaccounted
   for after catastrophic flooding on the Nepal-Tibet border
 image: https://i.guim.co.uk/img/media/766a0975f0025da29575ce7503f053e3e5127922/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc50e3fa43e03e3220744c9516517f6c
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 An 11-year-old child, an ADF member and many other pilgrims and trekkers have been named among the Australians missing after deadly flash floods and landslides tore through valleys on the Nepal-Tibet border.

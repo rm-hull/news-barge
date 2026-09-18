@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Alexander Csergo sentenced over reckless foreign interference after preparing
   documents for duo who approached him on LinkedIn
 image: https://i.guim.co.uk/img/media/63fea7bb4f983066d9a735bfa7cce4e77d52bc52/1865_202_6518_5215/master/6518.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e4114c3bccd8ae84485d9c386b73c94f
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A seemingly innocuous message on a social media platform has snowballed into a Sydney man being jailed for foreign interference.

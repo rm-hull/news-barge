@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: An effort to transform the world of sports through steroid use doesn't
   exactly seem to be bearing financial fruit.
 image: https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2278069583.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 I traveled to Las Vegas in May to watch the Enhanced Games — a one-of-a-kind sports competition that lets athletes compete while using the kind of performance-enhancing drugs typically banned in professional sports. The games, derided as the “steroid Olympics,” were put on by a telehealth company backed by the likes of Peter Thiel and staffed by veterans of the crypto, AI, and biotech industries.

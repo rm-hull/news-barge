@@ -10,6 +10,10 @@ published: '2026-08-23T00:00:00Z'
 description: Project Sandhills 2.0 builds on an earlier project that produced the
   Lancer UGV, shared with Ukraine.
 image: https://cdn.mos.cms.futurecdn.net/mxASZdo48m8Uo3tTEQhh8n-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Edda turret](https://cdn.mos.cms.futurecdn.net/mxASZdo48m8Uo3tTEQhh8n.jpg) 

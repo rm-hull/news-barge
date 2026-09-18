@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: Guy Carpenter found himself in court after moving a deer carcass off
   the A66 - and does not feel the prosecution is in the public interest.
 image: https://www.thenorthernecho.co.uk/resources/images/21425126.jpg?type=og-image&xType=0&yType=192
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *“The process feels like it has been the punishment. It does not feel as if it is in the public interest.”*

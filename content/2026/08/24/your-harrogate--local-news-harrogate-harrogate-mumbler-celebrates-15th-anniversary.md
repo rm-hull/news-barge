@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Harrogate Mumbler is celebrating 15 years of helping local parents find
   activities, businesses and friendship.
 image: https://mmo.aiircdn.com/409/6a8c3e45ee273c9cc0b.jpg
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
+- Family & Parenting
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8c3e45ee273c9cc0b.jpg) 

@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Harrogate Food and Drink Festival attracted impressive crowds at Ripley
   Castle over the weekend.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjBjZjU2NDUzLTgwMjEtNDZhYS1iNDk1LTU4ZmNmMTc5YmEyYjo5NDAzMTFkNS1jNjhkLTQ3NWItOTRhMS1jN2UyMjZhYmUyNTI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 Located amid the beautiful backdrop of the castle, the two-day event had something for everyone, from The Foodie Olympics to live demos by celebrity chefs, independent street food vendors and bars, as well as new stages, live music, fun rides and family entertainment.

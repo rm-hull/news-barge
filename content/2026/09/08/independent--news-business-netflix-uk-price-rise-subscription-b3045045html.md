@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A spokesperson for Netflix said the latest updates to pricing ‘reflect
   improvements to our wide range of entertainment and the quality of our service’
 image: https://static.independent.co.uk/2026/07/28/16/2275884687..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Technology & Software
 ---
 
 Netflix has raised the prices of its UK subscriptions, with its cheapest plan jumping by a third in the latest round of hikes.

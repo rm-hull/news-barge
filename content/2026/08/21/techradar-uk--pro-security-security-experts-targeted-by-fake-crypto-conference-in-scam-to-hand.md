@@ -7,6 +7,8 @@ scraped_at: '2026-08-21T16:48:25Z'
 published: '2026-08-21T00:00:00Z'
 description: Huntress discovers a new twist to the ClickFix tale
 image: https://cdn.mos.cms.futurecdn.net/y7GLevUTEjLYdujEYsv668-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Back view of hooded internet criminal hacking laptop in the dark, stealing credit card details](https://cdn.mos.cms.futurecdn.net/y7GLevUTEjLYdujEYsv668.jpg) 

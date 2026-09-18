@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Trimethylbenzoyl diphenylphosphine oxide (TPO) is a chemical compound
   used to help them cure and harden under UV or LED light.
 image: https://www.thenorthernecho.co.uk/resources/images/19355933.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Giorgio Trovato/Unsplash)*

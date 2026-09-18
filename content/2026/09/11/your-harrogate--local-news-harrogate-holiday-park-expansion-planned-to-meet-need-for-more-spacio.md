@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Plans have been submitted to expand a North Yorkshire holiday park to
   meet growing demand for more spacious and private rural holiday accommodation.
 image: https://mmo.aiircdn.com/409/6aa4140a0d9d8b16ca0.jpg
+categories:
+- Local
+- Harrogate
+- Travel
+- Home, Garden & DIY
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa4140a0d9d8b16ca0.jpg) 

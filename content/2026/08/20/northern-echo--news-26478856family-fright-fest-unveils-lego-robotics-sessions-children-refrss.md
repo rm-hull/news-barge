@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Lintz Hall Farm in Burnopfield is expanding its Family Fright Fest programme
   this autumn with new Lego robotics workshops alongside Halloween…
 image: https://www.thenorthernecho.co.uk/resources/images/21342894.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Supplied)*

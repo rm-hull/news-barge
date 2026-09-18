@@ -9,6 +9,12 @@ published: '2026-08-30T00:00:00Z'
 description: Thousands of runners and supporters filled the streets of Middlesbrough
   on Sunday for the town’s annual 10K.
 image: https://www.thenorthernecho.co.uk/resources/images/21390368.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
+- Society & Culture
 ---
 
 Thousands of runners helped show the "true spirit of Teesside" as they filled the streets of Middlesbrough on Sunday for the town’s annual 10K, the race winner said.

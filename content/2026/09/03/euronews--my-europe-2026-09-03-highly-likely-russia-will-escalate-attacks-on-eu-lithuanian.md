@@ -9,6 +9,10 @@ description: 'While commending Berlin for attributing the attempted Leipzig dron
   attack to Russia, Lithuania''s foreign affairs minister warns stronger EU-wide deterrence
   is needed to prevent further escalation. #12MinutesWith'
 image: https://images.euronews.com/articles/stories/09/89/86/95/1200x675_cmsv2_c6c22158-6de7-5d08-a135-ad01b8d8c81a-9898695.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## While commending Berlin for attributing the attempted Leipzig drone attack to Russia, Lithuania's foreign affairs minister warns stronger EU-wide deterrence is needed to prevent further escalation.

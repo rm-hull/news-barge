@@ -9,6 +9,9 @@ description: US President Donald Trump and Vice President JD Vance are scheduled
   visit the sites of the 11 September 2001 attacks on Friday, with Trump expected
   to deliver a speech at the Pentagon.
 image: https://images.euronews.com/articles/stories/09/90/97/21/1200x675_cmsv2_9267bc5f-86ab-5e17-aafa-f913b56ff5a4-9909721.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## US President Donald Trump and Vice President JD Vance are scheduled to visit the sites of the 11 September 2001 attacks on Friday, with Trump expected to deliver a speech at the Pentagon.

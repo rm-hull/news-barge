@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: A fire at a wedding party in Congo's capital Kinshasa has left at least
   22 people dead
 image: https://static.independent.co.uk/2026/09/05/21/Congo_Fire_962_6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A fire at a wedding party in Congo 's capital Kinshasa left at least 22 people dead, the regional mayor said Saturday. Several others were injured.

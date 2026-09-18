@@ -9,6 +9,10 @@ description: Plaintiffs are asking a federal judge to stop Trump, Harp, Scavino 
   others from posting exclusive government announcements on Truth Social, while charging
   up to $100k for advance access to posts
 image: https://static.independent.co.uk/2026/09/01/19/2026-08-31T200330Z_1987451156_RC2W9NA5OQCX_RTRMADP_3_USA-TRUMP.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Natalie Harp and Dan Scavino, two of President Donald Trump’s top White House aides, are being sued alongside the president over a service that would grant buyers early access to Trump’s Truth Social posts.

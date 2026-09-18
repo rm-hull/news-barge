@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: One month of living costs in London equates to five months in Thailand’s
   Chiang Mai
 image: https://static.independent.co.uk/2026/09/09/10/15/GettyImages-2114356648.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Soaring rental prices mean British cities are more expensive to live than some of Europe’s most popular destinations – with Manchester now more costly than Milan.

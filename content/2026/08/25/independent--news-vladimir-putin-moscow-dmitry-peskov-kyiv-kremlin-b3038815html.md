@@ -10,6 +10,10 @@ description: Russian President Vladimir Putin has signed a decree allowing the g
   to take temporary control of critical infrastructure if private owners fail to protect
   it from Ukrainian drone attacks or repair it afterward
 image: https://static.independent.co.uk/2026/08/25/11/Russia_India_93846.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Russian President Vladimir Putin signed a decree allowing the government to temporarily take control of critical infrastructure if private owners fail to protect it from Ukrainian drone attacks or rebuild it after strikes, apparently the latest indication that Moscow is feeling the strain of war.

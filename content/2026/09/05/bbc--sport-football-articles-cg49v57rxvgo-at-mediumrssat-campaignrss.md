@@ -9,6 +9,10 @@ description: Manager Michael Carrick and chief executive Omar Berrada are united
   their viewthat Manchester United can be successful despite the club's relatively
   low summer spending.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2c82/live/af1eb410-a90d-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Manchester United head coach Michael Carrick](https://ichef.bbci.co.uk/ace/standard/926/cpsprodpb/2c82/live/af1eb410-a90d-11f1-aed2-8d6da8d75094.jpg)

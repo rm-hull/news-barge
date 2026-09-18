@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T08:52:40Z'
 published: '2026-08-19T00:00:00Z'
 description: It is believed that the man was buried as an offering
 image: https://static.independent.co.uk/2026/08/18/22/Peru_Archeology_89373.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Archaeologists have found the skeletal remains of an adult human near the base of an ancient pyramid in Peru.

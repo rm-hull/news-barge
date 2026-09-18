@@ -9,6 +9,12 @@ published: '2026-09-01T00:00:00Z'
 description: Many bank and finance apps have AI tools embedded to help you manage,
   move or control your money better
 image: https://static.independent.co.uk/2026/08/19/14/29/image-(19).png?trim=0,117,0,183&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 When was the last time you logged into your bank and asked the app to do something, rather than manually moving money or checking something yourself?

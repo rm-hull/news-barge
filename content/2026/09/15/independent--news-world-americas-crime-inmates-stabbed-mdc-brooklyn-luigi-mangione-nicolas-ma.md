@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Several inmates’ injuries were so severe that they had to seek medical
   treatment outside of the jail, according to federal officials
 image: https://static.the-independent.com/2026/09/15/22/45/Screenshot-2026-09-15-at-6-31-46-PM.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Multiple inmates have been stabbed and slashed during a major brawl at the federal jail in New York City that is currently housing UnitedHealthcare CEO killer Luigi Mangione and disgraced former Venezuelan President Nicolás Maduro.

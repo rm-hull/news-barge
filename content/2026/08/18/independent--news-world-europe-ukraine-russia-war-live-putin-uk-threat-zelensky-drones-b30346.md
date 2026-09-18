@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: MoD responds by saying Britain stands 'shoulder to shoulder' with Ukraine
   against Russian aggression
 image: https://static.independent.co.uk/2026/08/18/05/2026-08-13T091254Z_1867858621_RC2LXMAX8YI5_RTRMADP_3_RUSSIA-NATO-PUTIN.JPG?trim=0,90,0,90&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Russia has come under a major aerial attack from Ukraine for the second night in a row as a swarm of at least 620 drones targeted the Moscow region, according to mayor Sergei Sobyanin.

@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: President conflates central bank’s interest rate with what a consumer
   would pay based on a credit score
 image: https://static.independent.co.uk/2026/09/16/22/2295644591..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 President Donald Trump on Wednesday slammed the Federal Reserve after the central bank raised its benchmark rate for the first time in more than three years with a nonsensical rant in which he lectured the bank on how to run monetary policy, insisting interest rates "should be 1%, or less," hours

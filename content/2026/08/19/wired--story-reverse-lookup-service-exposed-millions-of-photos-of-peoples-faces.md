@@ -9,6 +9,9 @@ description: The people-search tool ClarityCheck says its reverse image search s
   is “private and secure”—but it left a database containing more than 9 million image
   files exposed.
 image: https://media.wired.com/photos/6a43d616847560b1128c28ca/191:100/w_1280,c_limit/Security_Data%20Broker%20Leak%20Exposes%208%20Million%20Photos%20of%20People%E2%80%99s%20Faces_v1.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 When someone uploads a photo to the people-search tool ClarityCheck, the website has a clear message: “Your reverse image search is private and secure.” New research, though, shows that the website left more than 9 million image files, including photographs of people’s faces, publicly exposed. And a second misconfiguration publicly exposed people’s email addresses and phone numbers.

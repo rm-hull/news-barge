@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Although Mark Carney welcomed offer to become bloc’s first associate
   member, no one seems to know what that means
 image: https://i.guim.co.uk/img/media/2c6a99dd24de1f33112dc6a099c0855096e25752/485_0_4482_3585/master/4482.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8f55679830eee1c45968968909a1d8ca
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Mark Carney received a rapturous reception in the European parliament when he gave his speech on Thursday welcoming a proposal for Canada to become the EU’s first-ever associate member.

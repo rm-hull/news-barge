@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Government assessment warns of supply shock that could leave homes and
   businesses without gas within a decade
 image: https://i.guim.co.uk/img/media/3c9a77cc1ffaad52ea0d0155067ef6a10e1a2fa8/33_0_1757_1406/master/1757.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9daf1384cad9c7ddd9b814273290e8e8
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Great Britain risks running out of gas in the 2030s despite its growing clean energy sources, unless ministers take “unprecedented” action to guard against a future supply shock, according to an official assessment.

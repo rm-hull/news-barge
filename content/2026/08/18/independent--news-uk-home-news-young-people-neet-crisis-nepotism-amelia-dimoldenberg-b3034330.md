@@ -9,6 +9,9 @@ description: Amelia Dimoldenberg, star of Chicken Shop Date, said the YouTube se
   wouldn’t exist without a youth club that ‘now doesn’t exist due to austerity cuts
   by the Conservative government’
 image: https://static.independent.co.uk/2026/08/17/14/2202514824..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Young people “need nepotism” these days in order to get out of unemployment, YouTube star Amelia Dimoldenberg has said as she warned about the “rejection loop” faced by the NEET generation.

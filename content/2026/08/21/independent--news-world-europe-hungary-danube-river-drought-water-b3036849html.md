@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The shrinking of Lake Velence reflects a wider water emergency facing
   Hungary
 image: https://static.independent.co.uk/2026/08/21/06/Hungary_Drought_Water_Conservation_24396.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A fisherman stepped ashore at a small harbour on Hungary’s Lake Velence last week, climbing up a dock plank left steeply inclined by record-low water levels.

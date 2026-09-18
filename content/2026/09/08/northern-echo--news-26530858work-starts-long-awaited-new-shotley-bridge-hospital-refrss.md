@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Site preparation has begun for the new Shotley Bridge Hospital after
   years of delays and campaigning.
 image: https://www.thenorthernecho.co.uk/resources/images/21423900.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: NHS)*

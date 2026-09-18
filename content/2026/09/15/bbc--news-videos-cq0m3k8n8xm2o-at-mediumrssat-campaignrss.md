@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Speaking to the BBC, the Welsh actor described the "surreal" experience
   of becoming the first person to win two lead acting prizes in one night.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3468/live/5cfde840-b150-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 # 'Luck and timing': Matthew Rhys on his historic Emmy Awards double win

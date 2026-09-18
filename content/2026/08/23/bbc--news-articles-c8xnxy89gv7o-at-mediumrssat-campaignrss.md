@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: The review of how rates are calculated in England and Wales could lead
   to reform of the system.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f38/live/0b0cedf0-9ed7-11f1-9253-c70a43a5293b.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![A man wearing a blue top pouring a pint in a pub](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/7f38/live/0b0cedf0-9ed7-11f1-9253-c70a43a5293b.jpg)

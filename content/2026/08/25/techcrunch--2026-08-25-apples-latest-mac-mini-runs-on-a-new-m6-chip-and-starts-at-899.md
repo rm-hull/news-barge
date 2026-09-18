@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: The base model of the Mac Mini comes with 256GB of storage, 16GB of RAM,
   and costs $899.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Apple-Mac-mini-hero-260825_big.jpg.large_2x.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Apple on Tuesday unveiled a new Mac Mini that runs on the latest iteration of its “M” processors, the M6.

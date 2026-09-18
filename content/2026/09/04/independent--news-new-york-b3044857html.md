@@ -10,6 +10,10 @@ description: A new watchdog report concludes that former Labor Secretary Lori Ch
   oversaw a “toxic, intimidating and humiliating” work environment and engaged in
   numerous violations of department policy
 image: https://static.independent.co.uk/2026/09/04/15/Labor_Secretary_Watchdog_79992.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Internal watchdog report: Former Labor Secretary oversaw hostile work environment, misused funds

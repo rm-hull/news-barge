@@ -11,6 +11,9 @@ description: Casualty's 40th anniversary special episodes arrive on BBC iPlayer 
   September 5th — so I asked its cast for the perfect TV antidote after the explosive
   mayhem.
 image: https://cdn.mos.cms.futurecdn.net/kAL2kMi8c9mvUMyZjaDmii-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![A promotional shot of the cast of Casualty's 40th anniversary episodes](https://cdn.mos.cms.futurecdn.net/kAL2kMi8c9mvUMyZjaDmii.jpg) 

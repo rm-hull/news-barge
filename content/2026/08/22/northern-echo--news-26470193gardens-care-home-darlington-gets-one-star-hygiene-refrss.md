@@ -8,6 +8,12 @@ published: '2026-08-22T00:00:00Z'
 description: The Gardens Care Home, in Pondfield Close, Darlington, was visited by
   food safety officers on July 7 this year and received a rating of one out of…
 image: https://www.thenorthernecho.co.uk/resources/images/21330398.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Lifestyle & Fashion
 ---
 
 *(Image: NORTHERN ECHO)*

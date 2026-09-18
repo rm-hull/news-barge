@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: A landslide triggered by the quake had blocked access to the village
   where Paulina Pobi had lived, leaving her buried under the collapsed remains
 image: https://i.guim.co.uk/img/media/fd22749f04637ea01d00ce2275517f3f68bda830/382_0_3472_2777/master/3472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aca7c89649268d6de93e1dac7feac102
+categories:
+- UK
+- News & Politics
+- Travel
+- History
 ---
 
 An 84-year-old woman has been discovered alive in the flattened remains of her home three days after a powerful earthquake hit eastern Indonesia, authorities have confirmed.

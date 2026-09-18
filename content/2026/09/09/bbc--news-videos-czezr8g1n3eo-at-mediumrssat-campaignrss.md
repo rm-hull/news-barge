@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The driveway of the beach-front house collapsed on Tuesday morning, according
   to local authorities.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20fb/live/2d759300-ac2a-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 # Sinkhole appears outside Malibu home thought to belong to Nicolas Cage

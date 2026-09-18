@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: President had complained that Fox News was not reporting on the Iran
   war to his liking
 image: https://static.independent.co.uk/2026/08/28/18/2237007654..?trim=124,0,124,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Fox News host Bret Baier pushed back on air after President Donald Trump complained about one of his colleagues' coverage of the Iran war.

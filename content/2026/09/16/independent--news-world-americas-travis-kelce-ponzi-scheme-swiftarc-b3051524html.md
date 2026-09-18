@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: It’s unlikely that 36-year-old Kelce is the only professional athlete
   caught up in the fraudulent enterprise
 image: https://static.independent.co.uk/2026/09/16/21/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- True Crime
 ---
 
 Kansas City Chiefs tight end Travis Kelce was named as one of the victims of a Ponzi scheme that defrauded investors out of more than $35 million, a prosecutor in Missouri stated.

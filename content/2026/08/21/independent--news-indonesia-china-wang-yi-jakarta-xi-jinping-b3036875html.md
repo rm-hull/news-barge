@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Top ministers for Indonesia and China have discussed increasing defense
   cooperation and strengthening food and energy security between their countries
 image: https://static.independent.co.uk/2026/08/21/09/Indonesia_China_42696.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Top ministers for Indonesia and China discussed increasing defense cooperation and strengthening food and energy security between their countries at their meetings Friday in Jakarta.

@@ -10,6 +10,11 @@ description: Carney said the equivalent dollar-for-dollar counter-tariffs will f
   on sectors such as dairy, steel, household appliances, farming equipment, electronics,
   and pulp and paper
 image: https://static.independent.co.uk/2026/08/22/16/10/AP26229818447651.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Early Saturday, the United States imposed 50% import tariffs on $20 billion in Canadian goods.

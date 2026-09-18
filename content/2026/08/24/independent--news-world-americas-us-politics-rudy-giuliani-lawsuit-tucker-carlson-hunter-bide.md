@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Giuliani took issue with a claim that the Hunter Biden laptop story was
   tied to an alleged Israeli influence operation
 image: https://static.independent.co.uk/2026/05/04/15/31/FILES-US-POLITICS-GIULIANI-ml41trc4.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Former Trump lawyer and New York City mayor Rudy Giuliani is threatening to sue Tucker Carlson and Hunter Biden over a recent podcast interview about the Biden laptop scandal.

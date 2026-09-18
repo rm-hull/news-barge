@@ -9,6 +9,9 @@ published: '2026-09-18T00:00:00Z'
 description: ‘Every day, we respond to aggression. Russia must choose peace,’ Ukrainian
   president says
 image: https://static.independent.co.uk/2026/09/14/10/2280540140..?trim=514,1098,401,275&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Explosions sounded near Poland on Thursday during a daytime Russian drone attack, Polish and Ukrainian authorities said.

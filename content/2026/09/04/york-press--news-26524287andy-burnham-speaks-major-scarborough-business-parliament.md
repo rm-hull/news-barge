@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: PRIME Minister Andy Burnham has spoken about a major North Yorkshire
   business during a debate in the House of Commons.
 image: https://www.yorkpress.co.uk/resources/images/21413804.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 PRIME Minister Andy Burnham has spoken about a major North Yorkshire business during a debate in the House of Commons.

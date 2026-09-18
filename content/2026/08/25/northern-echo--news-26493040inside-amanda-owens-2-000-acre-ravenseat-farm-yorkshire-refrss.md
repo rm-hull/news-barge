@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Inside Amanda Owen’s remote 2,000-acre Ravenseat Farm in the Yorkshire
   Dales, made famous by Channel 5’s Our Yorkshire Farm.
 image: https://www.thenorthernecho.co.uk/resources/images/21368043.jpg?type=og-image&xType=0&yType=174
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 For millions of viewers, the stone walls, windswept fields and surrounding moorland of Ravenseat Farm became almost as recognisable as the family who lived there.

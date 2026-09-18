@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Fatalities included people who inhaled toxic fumes from fires or became
   trapped inside burning homes.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a2d/live/1ff5d2e0-a20b-11f1-a291-b542ee92de7c.png
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A split image imposed over the BBC Verify colours and branding shows an e-scooter on fire in a hallway in a home. Flames are emerging from the rear of the scooter in the first image, before engulfing the entire frame in the second.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/4a2d/live/1ff5d2e0-a20b-11f1-a291-b542ee92de7c.png)

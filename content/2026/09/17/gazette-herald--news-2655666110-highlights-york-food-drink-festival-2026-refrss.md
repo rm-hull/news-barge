@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: York's popular Food and Drink Festival returns on Friday with celebrity
   chefs, tastings, and plenty of opportunities to tuck in
 image: https://www.gazetteherald.co.uk/resources/images/21464545.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 *10 highlights of York Food and Drink Festival 2026 – starting tomorrow*

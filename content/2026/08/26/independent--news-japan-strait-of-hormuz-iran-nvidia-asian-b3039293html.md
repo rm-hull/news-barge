@@ -9,6 +9,11 @@ description: Asian shares are mostly higher as investors keep an eye on the ongo
   talks over reopening the Strait of Hormuz, which remains largely shut down because
   of the war in Iran
 image: https://static.independent.co.uk/2026/08/26/05/South_Korea_Financial_Markets_25685.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Asian shares mostly rose in early Wednesday trading, as investors kept an eye on the ongoing talks over reopening the Strait of Hormuz, which remains largely shut down because of the war in Iran.

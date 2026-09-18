@@ -8,6 +8,10 @@ scraped_at: '2026-08-28T22:14:18Z'
 published: '2026-08-28T00:00:00Z'
 description: Former Cambridge professor Jason Arday was found dead earlier this month
 image: https://static.independent.co.uk/2026/08/20/18/45/7fc50490-9cc3-11f1-9182-d13e1a2797dc-copy-8d64eed2.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Ghent University has permitted Nathan Cofnas, the US academic who accused late Cambridge University professor Jason Arday of plagiarism, to resume selected academic work while a disciplinary inquiry continues, the Belgian institution announced on Friday.

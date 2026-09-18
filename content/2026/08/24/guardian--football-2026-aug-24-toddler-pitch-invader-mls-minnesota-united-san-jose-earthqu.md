@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: A toddler interrupted a Major League Soccer match between Minnesota United
   and San Jose Earthquakes on Saturday
 image: https://i.guim.co.uk/img/media/b700a2f509356e7a81db7c34439dc22365746a53/202_0_3353_2683/master/3353.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0d3d7f7476a5574fe1f123567bcc91d4
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 A toddler interrupted a Major League Soccer match between Minnesota United and San Jose Earthquakes on Saturday by invading the pitch – a bizarre scene punctuated by an on-air analyst saying, “There’s a baby on the field.”

@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: DHS is willing to pay up to $5M to hire a firm to collect ‘public voter
   history files’ from all 50 states
 image: https://static.independent.co.uk/2026/09/03/20/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Immigration and Customs Enforcement is looking to pay a company up to $5 million to collect voter information — including ballot history — for virtually every American as part of the Trump administration’s war on “fraud.”

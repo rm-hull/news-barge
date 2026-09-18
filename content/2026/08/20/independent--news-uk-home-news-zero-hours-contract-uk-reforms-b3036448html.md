@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: More than 1.2 million people were working under zero-hours contracts
   as their only or main employment at the end of 2025
 image: https://static.independent.co.uk/2026/02/24/17/32/beer-bartender-zero-hours-worker.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Employers in certain sectors will have been concerned to read reports from the UK government that the costs of promised reforms to “zero hours contracts” under the Employment Rights Act 2025 may be anything up to £2.9 billion.

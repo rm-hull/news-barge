@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Devolution is already delivering for our city and its people argues York
   Outer MP Luke Charters
 image: https://www.yorkpress.co.uk/resources/images/21462500.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 DEVOLUTION is one of those words that can make people’s eyes glaze over.

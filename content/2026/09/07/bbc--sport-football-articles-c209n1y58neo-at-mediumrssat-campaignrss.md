@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Red Star Belgrade fans unveil a tifo of war criminal Ratko Mladic before
   their derby win over Partizan Belgrade on Sunday.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3596/live/ee8808c0-aaae-11f1-9eba-7de947fa7cd1.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A tifo of Ratko Mladic](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f501/live/5c60b870-aaae-11f1-9eba-7de947fa7cd1.jpg)

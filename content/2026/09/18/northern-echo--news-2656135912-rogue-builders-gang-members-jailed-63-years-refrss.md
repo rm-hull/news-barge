@@ -9,6 +9,12 @@ published: '2026-09-18T00:00:00Z'
 description: An organised crime group exploited the grief of a newly bereaved widow
   and cheated her out of £133,400, a crown court heard.
 image: https://www.thenorthernecho.co.uk/resources/images/21470342.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 An organised crime group exploited the grief of a newly bereaved widow and cheated her out of £133,400, a crown court heard.

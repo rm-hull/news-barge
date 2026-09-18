@@ -10,6 +10,10 @@ description: Thirty charred bodies found inside a burned passenger ferry in the 
   Philippines have arrived at a port for identification after a ship fire that killed
   at least 35 people
 image: https://static.independent.co.uk/2026/09/12/07/Philippines_Ferry_Fire_4525_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Thirty charred bodies found inside a burned passenger ferry in the western Philippines arrived at a port Saturday for identification after a ship fire killed at least 35 people and left more than 50 others missing earlier this week.

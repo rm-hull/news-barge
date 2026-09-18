@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Cambodia claims it no longer hosts any compounds for international online
   scams
 image: https://static.independent.co.uk/2026/08/28/17/Cambodia_Scam_Compounds_89_39.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Cambodia, notorious for being a major center for international online scams, claimed Friday it no longer hosts any of the compounds where the lucrative cybercrime was carried out, although some remain skeptical.

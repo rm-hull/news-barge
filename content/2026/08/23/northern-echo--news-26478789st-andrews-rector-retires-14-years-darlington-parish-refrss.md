@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Revd Mark East has retired after 37 years in ministry, including 14 years
   as rector of St Andrew’s Church in Darlington, where he was praised for…
 image: https://www.thenorthernecho.co.uk/resources/images/21344687.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 *(Image: Supplied)*

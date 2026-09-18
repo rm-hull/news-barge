@@ -10,6 +10,10 @@ published: '2026-09-16T00:00:00Z'
 description: Repairs are underway, but Amazon hasn't said when customers can expect
   them to be completed.
 image: https://cdn.mos.cms.futurecdn.net/83tohMm46WQCYhhbLZ9CT6-2045-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Amazon - AWS logo](https://cdn.mos.cms.futurecdn.net/83tohMm46WQCYhhbLZ9CT6.jpg) 

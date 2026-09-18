@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A series of temporary road closures will be introduced across North Yorkshire
   as North Yorkshire Council carries out works including water mains…
 image: https://www.thenorthernecho.co.uk/resources/images/19155903.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Newsquest)*

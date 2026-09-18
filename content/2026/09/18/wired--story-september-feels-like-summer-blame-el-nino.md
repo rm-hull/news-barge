@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: Heat records are being shattered thanks to a boost from the natural climate
   pattern—and burning fossil fuels, of course.
 image: https://media.wired.com/photos/6aac1b1c1a00b3c7bbe06e95/191:100/w_1280,c_limit/GettyImages-2295112506%20(1).jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 A summer that started early across the US has no intention of quitting, even as the calendar turns to autumn.

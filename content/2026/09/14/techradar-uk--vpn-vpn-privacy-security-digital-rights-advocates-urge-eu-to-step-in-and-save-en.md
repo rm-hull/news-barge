@@ -9,6 +9,9 @@ published: '2026-09-14T00:00:00Z'
 description: Privacy groups warn the law could compel European tech companies to weaken
   encryption and retain user metadata
 image: https://cdn.mos.cms.futurecdn.net/v5uJXT3rfBPPWgYjftNta-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Technology background with national flag of Canada on the left, closeup of EU Commission's President Von der Leyen on the left](https://cdn.mos.cms.futurecdn.net/v5uJXT3rfBPPWgYjftNta.jpg) 

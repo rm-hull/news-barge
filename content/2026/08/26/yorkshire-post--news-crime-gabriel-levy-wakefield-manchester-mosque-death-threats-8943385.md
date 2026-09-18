@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A man who made death threats to two mosques in the wake of the Manchester
   synagogue attack has been jailed for more than two years, prosecutors have said.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/26/11/01/Levy.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Man jailed for making mosque death threats after Manchester synagogue attack

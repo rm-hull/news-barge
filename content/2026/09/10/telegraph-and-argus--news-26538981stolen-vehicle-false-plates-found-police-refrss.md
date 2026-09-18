@@ -8,6 +8,12 @@ scraped_at: '2026-09-10T19:07:11Z'
 published: '2026-09-10T00:00:00Z'
 description: A stolen vehicle with false registration plates has been located.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21435174.jpg?type=og-image&xType=0&yType=81
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 *(Image: West Yorkshire Police)*

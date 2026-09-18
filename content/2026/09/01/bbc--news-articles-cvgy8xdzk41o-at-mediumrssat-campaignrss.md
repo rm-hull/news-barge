@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: A Tory frontbench reshuffle and Victoria Beckham making "some dosh" lead
   some of Tuesday's papers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ef72/live/e7e01bd0-a58a-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 !["Kemi gets Tories battle ready with ruthless reshuffle," reads the headline on the front page of the Daily Mail.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/e53a/live/e3ba7d10-a581-11f1-aed2-8d6da8d75094.jpg)

@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: A Darlington bakery founded to help young people overcome barriers has
   grown rapidly after a major expansion saw its workforce triple in size.
 image: https://www.thenorthernecho.co.uk/resources/images/21440649.jpg?type=og-image&xType=0&yType=170
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 A Darlington bakery founded to help young people overcome barriers has grown rapidly after a major expansion saw its workforce triple.

@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Discover more about Data Centers with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/uvS8pvPPERWH4avEKBf4DG-320-80.png
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![the blades on the front fan of a jet engine](https://cdn.mos.cms.futurecdn.net/uvS8pvPPERWH4avEKBf4DG-320-80.png)

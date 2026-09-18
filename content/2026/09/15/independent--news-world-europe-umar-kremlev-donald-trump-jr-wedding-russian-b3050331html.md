@@ -9,6 +9,9 @@ published: '2026-09-15T00:00:00Z'
 description: The married couple have said that the payments funded an ‘extraordinarily
   generous wedding gift’
 image: https://static.independent.co.uk/2026/09/15/7/01/umar-kremlev.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Umar Kremlev, a Russian oligarch linked to President Vladimir Putin, helped bankrolled Donald Trump Jr’s three-day luxury wedding in the Bahamas.

@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: DARLINGTON’S Longfield Academy has praised the dedication of students
   after recording fantastic GCSE results, with close friends Erin Finlay and…
 image: https://www.thenorthernecho.co.uk/resources/images/21348459.jpg?type=og-image&yType=1000
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 DARLINGTON’S Longfield Academy has praised the dedication of students after recording fantastic GCSE results, with close friends Erin Finlay and Charlie Hall among those achieving top marks.

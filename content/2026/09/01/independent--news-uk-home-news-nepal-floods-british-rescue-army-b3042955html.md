@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: The British national, who has not yet been identified, was among 273
   foreign citizens the Nepali Army said it had rescued so far
 image: https://static.independent.co.uk/2026/09/01/18/2292479596..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A British male has been rescued almost a week after devastating floods which killed more than 1,000 people hit Nepal.

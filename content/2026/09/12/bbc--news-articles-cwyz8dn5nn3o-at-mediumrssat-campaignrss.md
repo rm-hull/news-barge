@@ -8,6 +8,9 @@ published: '2026-09-12T00:00:00Z'
 description: Prime Minister Ulf Kristersson has promised cabinet jobs for the Sweden
   Democrats, but the rival left-wing bloc has a narrow lead in the polls.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3cfc/live/fe574770-add8-11f1-bc1f-3f186ca4140c.png
+categories:
+- UK
+- News & Politics
 ---
 
 ![A composite image of Social Democratic Party leader Magdalena Andersson and Prime Minister Ulf Kristersson. Andersson, who is mid-speech, has a blonde bob and wears a navy blazer and top. Kristersson, who is also mid-speech, has short brown hair and wears glasses, a navy suit and tie and white shirt](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3cfc/live/fe574770-add8-11f1-bc1f-3f186ca4140c.png)

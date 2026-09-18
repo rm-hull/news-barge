@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: President Donald Trump and his Republican Party wrapped up an unusual
   convention in Dallas on Thursday, hoping to strengthen their midterm election prospects
 image: https://static.independent.co.uk/2026/09/11/09/2294430987..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump and his Republican Party concluded an unconventional gathering in Dallas on Thursday, seeking to bolster their midterm election prospects.

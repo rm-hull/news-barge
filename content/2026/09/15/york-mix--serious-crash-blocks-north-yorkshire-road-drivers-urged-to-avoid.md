@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T19:40:32Z'
 published: '2026-09-15T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/10/police-library-road-closed-istock.webp
+categories:
+- Local
+- York
+- Automotive
 ---
 
 A serious crash has closed a North Yorkshire road tonight (Tuesday).

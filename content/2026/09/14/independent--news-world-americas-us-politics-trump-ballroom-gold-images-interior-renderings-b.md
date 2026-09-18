@@ -9,6 +9,10 @@ description: President shows off detailed concept art illustrating the inside of
   $600 million pet project, revealing a cavernous space with marble flooring, chandeliers
   and more than a hint of Mar-a-Lago
 image: https://static.independent.co.uk/2026/09/14/13/01/ballroom.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Home, Garden & DIY
 ---
 
 President Donald Trump has released new detailed renderings of the interior of his controversial White House ballroom, revealing it to be decked out in his beloved gold trim.

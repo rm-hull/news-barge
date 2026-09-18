@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A row has erupted over a decision on plans for a mortuary housing 700
   bodies in York.
 image: https://www.gazetteherald.co.uk/resources/images/21356002.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 ### What is the Public Notice Portal?

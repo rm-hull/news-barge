@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: The decision to hold interest rates at 3.75% marks the sixth time in
   a row that the MPC has not changed borrowing costs.
 image: https://static.independent.co.uk/2026/09/17/12/915193ba3141fdefb9ebcd9793c14df3Y29udGVudHNlYXJjaGFwaSwxNzg5NzE3ODYx-2.81206558.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The Bank of England has held interest rates at 3.75%, but policymakers warned that pressure to raise rates is building as the Iran war goes on.

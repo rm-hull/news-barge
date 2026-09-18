@@ -9,6 +9,10 @@ description: Within the Israeli Reform movement, which constitutes a minor segme
   of Judaism in the country, there is a distinct push to send more young Israelis
   overseas to work as camp counselors
 image: https://static.independent.co.uk/2026/05/31/19/2026-05-31T183352Z_845229995_RC2HKLAS2W2M_RTRMADP_3_ISRAEL-PALESTINIANS-USA-PARADE.JPG?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Concerns are growing among Israelis across the political and religious spectrum over a fraying bond with younger Jewish Americans, who place less importance on supporting Israel as part of their identity compared to older generations, a recent AP-NORC survey reveals.

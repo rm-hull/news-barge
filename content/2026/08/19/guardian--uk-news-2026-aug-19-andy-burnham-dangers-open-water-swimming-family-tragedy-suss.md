@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: Parents and daughter died in incident in Shoreham-by-Sea, with girl from
   same family in critical condition
 image: https://i.guim.co.uk/img/media/74885ce94e680456e71b9928320bb12bb46f9f09/129_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=03b5d30f3394107749678e1f7f190533
+categories:
+- UK
+- News & Politics
+- Family & Parenting
+- Society & Culture
 ---
 
 Andy Burnham has warned of the dangers of open-water swimming as he called the deaths of a mother, father and their teenage daughter who got into difficulty in water off Sussex “a terrible family tragedy”.

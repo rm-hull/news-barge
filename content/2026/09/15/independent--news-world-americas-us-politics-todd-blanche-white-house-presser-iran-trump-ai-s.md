@@ -9,6 +9,9 @@ published: '2026-09-15T00:00:00Z'
 description: The awkward lawyer attempted to deflect questions on the president, AI,
   Iran and the Supreme Court — and made everything a lot worse, writes Holly Baxter
 image: https://static.independent.co.uk/2026/09/15/21/2295458964..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Karoline Leavitt is long gone but the show must go on — and Tuesday, in her place for the White House press conference, was the aggressively bland Todd Blanche. A painfully awkward man who currently serves as the United States Attorney General and formerly served as Donald Trump’s personal lawyer, Blanche spent most of his time at the podium talking about sweat.

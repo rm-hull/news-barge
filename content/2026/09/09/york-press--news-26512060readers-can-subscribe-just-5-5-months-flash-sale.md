@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: Readers who want to subscribe to our news site can enjoy an exclusive
   offer of £5 for 5 months or save over 40 on an annual subscription during…
 image: https://www.yorkpress.co.uk/resources/images/21396372.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

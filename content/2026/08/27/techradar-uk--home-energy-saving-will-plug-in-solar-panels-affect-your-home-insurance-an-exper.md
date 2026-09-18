@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: Plug-in solar panels are now legal in the UK, but make sure you have
   all the facts before fitting them.
 image: https://cdn.mos.cms.futurecdn.net/nRNZ2GecVWNcXzzerwmyHj-2560-80.jpg
+categories:
+- Technology & Software
+- News & Politics
 ---
 
 ![Couple installing solar panel on balcony](https://cdn.mos.cms.futurecdn.net/nRNZ2GecVWNcXzzerwmyHj.jpg) 

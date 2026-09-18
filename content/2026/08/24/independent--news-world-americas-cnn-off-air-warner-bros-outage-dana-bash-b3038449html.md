@@ -8,6 +8,9 @@ published: '2026-08-24T00:00:00Z'
 description: TV journalist Dana Bash was conducting a panel on President Trump’s trade
   war with Canada when the glitch occurred
 image: https://static.independent.co.uk/2026/08/24/18/58/Screenshot-2026-08-24-at-2-35-33-PM.jpg?trim=0,208,0,207&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 CNN went off the air for about 30 minutes after a Warner Bros. Discovery outage impacted its channels.

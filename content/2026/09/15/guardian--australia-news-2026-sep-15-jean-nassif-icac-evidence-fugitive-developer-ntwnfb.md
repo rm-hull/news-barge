@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Nassif declares ‘I’m not corrupt’, threatens to pull out of evidence
   and waves handwritten notes at counsel assisting Peggy Dwyer
 image: https://i.guim.co.uk/img/media/607a699ab11a846f7b50d2a28ce4988f18d40030/498_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e29255a5ca379683be7a4dbfdfa353c
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Fugitive property developer Jean Nassif has declared he is “not corrupt”, claimed his daughter was forced to plead guilty to fraud and threatened to take the New South Wales government to The Hague in an explosive appearance at the state’s corruption watchdog.

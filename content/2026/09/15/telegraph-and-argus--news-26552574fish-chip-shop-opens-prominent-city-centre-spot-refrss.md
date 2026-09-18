@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: A fish and chip shop has opened in a prominent spot in Bradford city
   centre.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21458755.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: T&A)*

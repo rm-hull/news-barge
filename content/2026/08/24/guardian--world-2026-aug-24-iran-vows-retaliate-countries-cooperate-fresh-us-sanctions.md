@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Test of US rhetoric will rest on whether nations such as India, China
   and Russia view economic threats as credible
 image: https://i.guim.co.uk/img/media/1c53731d00240da07c0478d86a442c495226b762/258_0_3392_2713/master/3392.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c5fa29d7e5cdcd695694dbef58b3953c
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Tehran has vowed to retaliate against any country that cooperates with the US attempt to impose fresh sanctions against Iran in what the Treasury secretary, Scott Bessent, has billed as “the single greatest financial offensive ever marshalled against an adversary”.

@@ -7,6 +7,9 @@ scraped_at: '2026-09-17T13:24:02Z'
 published: '2026-09-17T00:00:00Z'
 description: The hottest premium AI feature might eventually be an off switch
 image: https://cdn.mos.cms.futurecdn.net/DF2tckBfozvW8HVfqf49X7-1920-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![Meta One log and and man backing away.](https://cdn.mos.cms.futurecdn.net/DF2tckBfozvW8HVfqf49X7.jpg) 

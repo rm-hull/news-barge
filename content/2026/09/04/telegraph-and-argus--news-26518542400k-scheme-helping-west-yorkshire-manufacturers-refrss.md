@@ -8,6 +8,12 @@ published: '2026-09-04T00:00:00Z'
 description: A NEW cyber security programme is aiming to strengthen digital defences
   across the manufacturing sector.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21146442.jpg?type=og-image&xType=0&yType=570
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: SYMCA)*

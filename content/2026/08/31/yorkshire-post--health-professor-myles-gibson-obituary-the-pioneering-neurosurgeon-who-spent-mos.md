@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Robert Myles Gibson, who has died at 99, was a respected neurosurgeon
   who helped pioneer the development of modern pre-hospital care in the UK.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjFhMjY2YjM1LTU2YTQtNGE3YS1iOTMzLWEyZTU1ODNjZTc4Yjo3MjkxMzAwYS1mZGZmLTQ5OTAtYmI5Mi0yZjI0MDZjZGY3M2Y=.jpg?crop=3:2,smart&trim=&width=480&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Science
 ---
 
 # Professor Myles Gibson obituary: The pioneering neurosurgeon who spent most of his career in Yorkshire

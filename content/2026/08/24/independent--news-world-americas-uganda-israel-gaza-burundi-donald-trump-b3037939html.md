@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Officials say military officials from Uganda and Burundi have visited
   Israel to discuss deploying troops to Gaza
 image: https://static.independent.co.uk/2026/08/24/05/APTOPIX_Israel_Palestinians_Gaza__3539.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Military officials from Uganda and Burundi visited Israel last week to discuss deploying troops to Gaza as part of an international security force envisioned by U.S. President Donald Trump’s Board of Peace for the fragile ceasefire, according to officials.

@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Tom Byabagamba, a former commander of President Paul Kagame’s elite presidential
   guard, has died in prison after 12 years behind bars
 image: https://static.independent.co.uk/2026/08/26/16/Rwanda_Military_Officer%27s_Death_97928.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Tom Byabagamba, a former commander of President Paul Kagame’s elite presidential guard who later was convicted of inciting insurrection, has died in prison after spending a dozen years behind bars, his brother said. He was 59.

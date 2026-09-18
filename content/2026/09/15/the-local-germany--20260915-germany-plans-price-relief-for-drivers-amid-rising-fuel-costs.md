@@ -9,6 +9,11 @@ description: Fuel costs have surged in Germany over the last two weeks, with pet
   rising by around 12 cents per litre and diesel by more than 20 cents. Now German
   Chancellor Friedrich Merz has pledged relief for drivers.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-603883643.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Drivers across Germany are having to dig deeper into their wallets as petrol and diesel prices rise amid turmoil in the Middle East.

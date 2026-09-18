@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: The Japanese currency has now reached its highest level against the Australian
   dollar in six months, ending the years-long decline that saw a boom in tourism
 image: https://i.guim.co.uk/img/media/80eece6bf8adebe33850ee747bd2df2074f9faf6/817_0_6570_5259/master/6570.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cf4cf3090f9b33e396406c276df1ab4f
+categories:
+- UK
+- News & Politics
+- Travel
+- Personal Finance & Investing
 ---
 
 In the unpredictable world of global currency markets, there has been one safe bet: that the Japanese yen would continue its relentless decline.

@@ -9,6 +9,12 @@ description: The National Fire Chiefs Council said 1,132 wildfires have now been
   across England and Wales in 2026 so far – a record high for the amount between January
   and this time of year.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE0MmQ0NTMzLWRiNjItNGRkYi05NDg5LTdiNGM0MTRmZTdkMzowNTNhMzE2MC0xYzlkLTRjMGUtOTBhOS00MjgzNzk1Yjg1M2E=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Sports
 ---
 
 # Government plans for extreme weather 'worst case scenario'

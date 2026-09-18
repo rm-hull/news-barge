@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: High construction costs and the Iran war are threatening the key manifesto
   pledge, the housing secretary says.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a10/live/afc97b40-af69-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 Watch: Angela Rayner says target will be difficult to meet but government "taking action" on social housing

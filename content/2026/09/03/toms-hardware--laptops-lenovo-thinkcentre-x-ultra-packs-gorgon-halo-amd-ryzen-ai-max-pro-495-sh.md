@@ -8,6 +8,9 @@ scraped_at: '2026-09-03T19:17:14Z'
 published: '2026-09-03T00:00:00Z'
 description: Up to 128GB of integrated memory
 image: https://cdn.mos.cms.futurecdn.net/a6CZy6pnatTYhPmL2ToANn-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![ThinkCentre X Ultra](https://cdn.mos.cms.futurecdn.net/a6CZy6pnatTYhPmL2ToANn.jpg) 

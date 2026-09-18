@@ -8,6 +8,9 @@ published: '2026-08-23T00:00:00Z'
 description: Ukrainian military units have already spent nearly one billion dollars
   snapping up drones through this wild new online marketplace
 image: https://cdn.mos.cms.futurecdn.net/BeAREttbucsGpCdQRYjzkn-1920-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Brave1 Market with customizable drones](https://cdn.mos.cms.futurecdn.net/BeAREttbucsGpCdQRYjzkn.png) 

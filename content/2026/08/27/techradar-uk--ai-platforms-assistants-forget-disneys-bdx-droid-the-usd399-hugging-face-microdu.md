@@ -8,6 +8,8 @@ scraped_at: '2026-08-27T22:14:02Z'
 published: '2026-08-27T00:00:00Z'
 description: Microduck is Pollen Robotics' new programmable robot
 image: https://cdn.mos.cms.futurecdn.net/NQ4VdVv5uX2tma7U8JQrsU-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Microduck from Pollen Robotics](https://cdn.mos.cms.futurecdn.net/NQ4VdVv5uX2tma7U8JQrsU.jpg) 

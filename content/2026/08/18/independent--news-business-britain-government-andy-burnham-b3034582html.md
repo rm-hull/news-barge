@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The Confederation of British Industry has called on the Government to
   make the next 10 years Britain’s ‘adoption decade’.
 image: https://static.independent.co.uk/2026/08/18/00/17153406-0250b55f-e9a9-40e0-a2bb-62cf2373d4df.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The rollout of artificial intelligence (AI) must be made a national economic priority and firms need to move past “pilot mode” to avoid being left behind in the race to adopt the new technology, according to an influential business group.

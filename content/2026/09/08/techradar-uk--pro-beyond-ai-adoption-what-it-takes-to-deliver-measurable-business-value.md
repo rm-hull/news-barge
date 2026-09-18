@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T12:51:34Z'
 published: '2026-09-08T00:00:00Z'
 description: Turning AI adoption into business value
 image: https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![Robots in a data center](https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL.jpg) 

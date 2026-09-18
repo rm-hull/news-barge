@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Railway officials said it was unclear why the workers did not leave the
   site when the train was approaching, or what the lookout people were doing.
 image: https://images.euronews.com/articles/stories/09/88/21/81/1200x675_cmsv2_078267c6-cbec-5d3c-81df-fe3c93e4b622-9882181.jpg
+categories:
+- Europe
+- News & Politics
+- Careers & Productivity
 ---
 
 ## Railway officials said it was unclear why the workers did not leave the site when the train was approaching, or what the lookout people were doing.

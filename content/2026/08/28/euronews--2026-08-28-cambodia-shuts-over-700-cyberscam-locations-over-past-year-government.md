@@ -9,6 +9,12 @@ description: The UN Office on Drugs and Crime (UNODC) said last year that hundre
   of industrial-scale scam centres across Asia generate just under €35 billion in
   annual profits.
 image: https://images.euronews.com/articles/stories/09/89/30/28/1200x675_cmsv2_985cd8fe-ac1f-51d3-a250-00a0a87f9300-9893028.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ## The UN Office on Drugs and Crime (UNODC) said last year that hundreds of industrial-scale scam centres across Asia generate just under €35 billion in annual profits.

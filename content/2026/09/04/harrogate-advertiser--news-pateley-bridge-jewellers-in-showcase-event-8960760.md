@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Talented Pateley Bridge-based artisans will join fine jewellers and silversmiths
   from across the country in an exclusive selling exhibition this month.
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/04/13/44/Alice-Clarke.jpeg?trim=0,0,1,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 # Pateley Bridge jewellers in showcase event

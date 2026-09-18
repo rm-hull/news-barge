@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: Kyiv’s strikes have knocked out nearly a third of the country’s major
   oil refineries
 image: https://static.independent.co.uk/2026/08/19/13/2026-08-17T132052Z_554628504_RC290NAVC4OT_RTRMADP_3_RUSSIA-CRISIS-FUEL.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Russian police have arrested citizens complaining of fuel shortages at the pump, as Ukraine’s drone campaign sparked fighting at petrol stations and rationing.

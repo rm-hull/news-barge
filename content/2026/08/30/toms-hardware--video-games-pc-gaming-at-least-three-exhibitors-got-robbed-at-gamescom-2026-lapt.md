@@ -8,6 +8,10 @@ scraped_at: '2026-08-30T13:46:35Z'
 published: '2026-08-30T00:00:00Z'
 description: The incident has got a solo indie developer in tears.
 image: https://cdn.mos.cms.futurecdn.net/bBBmMspvuGawDbvGBpFnAi-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![the crowd at Gamescom 2026](https://cdn.mos.cms.futurecdn.net/bBBmMspvuGawDbvGBpFnAi.png) 

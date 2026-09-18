@@ -9,6 +9,12 @@ published: '2026-08-30T00:00:00Z'
 description: The Deerness Valley Way runs for 8.5 miles along a former railway line
   from Broompark, near Durham City, to Crook, offering walking and cycling…
 image: https://www.thenorthernecho.co.uk/resources/images/21370197.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- Sports
 ---
 
 *(Image: Gerald Hirst)*

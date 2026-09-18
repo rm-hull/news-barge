@@ -10,6 +10,10 @@ description: Russia and China have vetoed a U.N. resolution that would have auth
   U.N. experts to keep monitoring sanctions that were reimposed against Iran over
   its nuclear program
 image: https://static.independent.co.uk/2026/09/01/00/United_Nations_Funding_42177.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Russia and China vetoed a United Nations resolution Thursday that would have authorized U.N. experts to keep monitoring sanctions that were reimposed against Iran last year over its nuclear program.

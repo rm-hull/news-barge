@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: BBC Sport F1 correspondent Andrew Benson answers your latest questions
   before the season resumes with the Dutch Grand Prix.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/62d1/live/a9183fd0-97cb-11f1-a927-0dfab640b8c9.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Cadillac's Valtteri Bottas on track during the 2026 Belgian Grand Prix](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/62d1/live/a9183fd0-97cb-11f1-a927-0dfab640b8c9.jpg)

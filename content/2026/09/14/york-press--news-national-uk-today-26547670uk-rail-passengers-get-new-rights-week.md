@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Rail passengers in the UK will get the right to switch rail operators
   for free when trains are cancelled from Sunday, September 20
 image: https://www.yorkpress.co.uk/resources/images/21451614.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 *(Image: James Manning/PA Wire)*

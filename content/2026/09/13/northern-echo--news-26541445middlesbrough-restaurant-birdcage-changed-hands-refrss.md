@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: The Birdcage in Middlesbrough has changed ownership, while the trio behind
   the restaurant turn their focus to their two Stockton venues.
 image: https://www.thenorthernecho.co.uk/resources/images/21438983.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A popular Middlesbrough restaurant has changed hands, with the former owners moving on to a new chapter after an "unforgettable journey".

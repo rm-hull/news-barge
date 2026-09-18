@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: North Yorkshire Police have renewed their appeal to find missing North
   Yorkshire woman, Tracey Smith, who disappeared in July.
 image: https://www.gazetteherald.co.uk/resources/images/21336934.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 POLICE have renewed their appeal to find a missing North Yorkshire woman who disappeared in July.

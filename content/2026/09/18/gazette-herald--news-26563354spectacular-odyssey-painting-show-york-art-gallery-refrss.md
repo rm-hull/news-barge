@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A spectacular painting of Homer’s Odyssey has gone on public display
   at York Art Gallery.
 image: https://www.gazetteherald.co.uk/resources/images/21474297.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: Claire Collinson Photography)*

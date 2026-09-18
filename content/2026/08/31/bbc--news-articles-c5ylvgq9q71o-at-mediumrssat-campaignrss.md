@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Rescuers have resorted to explosives as they struggle to reach trapped
   workers, as the flooding death toll reaches 939.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6dce/live/98bb2c90-a556-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![People in camouflage clothing and wearing helmets stand at the entry to a tunnel](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6dce/live/98bb2c90-a556-11f1-b109-879e35c24276.jpg)

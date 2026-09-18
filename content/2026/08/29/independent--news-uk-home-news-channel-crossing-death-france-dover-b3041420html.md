@@ -7,6 +7,10 @@ scraped_at: '2026-08-29T13:49:12Z'
 published: '2026-08-29T00:00:00Z'
 description: It came after 494 migrants arrived in the UK on Thursday
 image: https://static.independent.co.uk/2026/08/20/16/01M0FSYXFJY1Y4QD6HNS91XPCS.jpg?trim=67,0,67,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 One person has died and 72 more were rescued from a boat carrying more than 110 people which was trying to reach the UK.

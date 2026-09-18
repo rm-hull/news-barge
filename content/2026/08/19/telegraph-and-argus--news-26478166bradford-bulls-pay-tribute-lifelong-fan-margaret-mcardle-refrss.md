@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: BRADFORD Bulls have paid tribute to lifelong supporter Margaret McArdle
   following her passing.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21341806.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 *(Image: Bradford Bulls)*

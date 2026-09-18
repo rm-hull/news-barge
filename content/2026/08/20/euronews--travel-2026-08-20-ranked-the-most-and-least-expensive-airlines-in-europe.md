@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: AirAdvisor ranked 23 European carriers by cost, revealing the best value
   airlines for your next trip away.
 image: https://images.euronews.com/articles/stories/09/79/28/45/1200x675_cmsv2_fd2397f5-3e9e-5bd0-b8a2-eb669d6c93c6-9792845.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## AirAdvisor ranked 23 European carriers by cost, revealing the best value airlines for your next trip away.

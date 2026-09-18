@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: Tees Valley Mayor Ben Houchen has welcomed the promise of greater powers
   to supercharge development and projects across our region.
 image: https://www.thenorthernecho.co.uk/resources/images/21374893.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: Tom Banks)*

@@ -10,6 +10,11 @@ description: What started off as one sewing machine, Wm Sugden has grown over th
   last 150 years into a business making garments and uniforms for everyday heroes
   in Yorkshire.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmFmN2JjZWM0LTIwODUtNDk0Yi05YzA0LTA0NGUzYzlkZGM0MTo4MzIxNmQ0Ni03ZDRkLTRlY2YtYjM5Yy0zNTE0MDhkN2M3ZWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # Wm Sugden: ‘We’ve been making garments and uniforms for everyday heroes in Yorkshire for more than 150 years’

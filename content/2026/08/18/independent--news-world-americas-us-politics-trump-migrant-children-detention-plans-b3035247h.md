@@ -10,6 +10,11 @@ description: Officials are looking for operators for ‘emergency influx facilit
   that can hold thousands of unaccompanied migrant children and pack eight kids into
   a room sharing one toilet, shower and sink
 image: https://static.independent.co.uk/2026/08/18/21/2288466180..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Family & Parenting
 ---
 
 The Trump administration is proposing a sprawling shelter facility that can detain up to 3,000 unaccompanied migrant children who arrived in the U.S. without a parent or guardian.

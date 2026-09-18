@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: National Highways said the A1 is closed southbound between junction 41
   and junction 39 near Pontefract.
 image: https://www.gazetteherald.co.uk/resources/images/21429581.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Highways England)*

@@ -11,6 +11,13 @@ description: In a healthy democracy, political disputes are settled at the ballo
   in the wrong direction. The risks of weaponising the legal system against political
   rivals are profound.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmJjZTEyODZhLTgzZmItNDdiNi1hNjNiLWZlYjU5ZWRlMzg1MjozMTNjNDIwNC03ODUwLTQyY2YtYjhlMC0yZjFkYWVhMjRkZmQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
+- History
 ---
 
 # Weaponising justice jeopardises American democracy - William Cooper

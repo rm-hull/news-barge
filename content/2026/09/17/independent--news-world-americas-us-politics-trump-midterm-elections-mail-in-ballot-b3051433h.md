@@ -9,6 +9,9 @@ description: The Supreme Court stopped him, for now, but the president is on a c
   to control the midterms. Election officials are trying to tune out the noise, Alex
   Woodward writes
 image: https://static.independent.co.uk/2026/09/16/18/2026-09-13T174217Z_1520962141_RC2HINAVP76O_RTRMADP_3_USA-TRUMP-IRELAND.JPG?trim=180,0,1831,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump has hit a wall.

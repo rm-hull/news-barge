@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Danette Colbert was caught after using the victim’s credit card at a
   New Orleans gas station and other stores in the area
 image: https://static.the-independent.com/2025/02/07/8/56/vlcsnap-2025-02-07-08h13m23s563.png?trim=18,106,0,22&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A woman was convicted of negligent homicide Thursday in the death of a Telemundo television reporter who had been visiting New Orleans to cover the Super Bowl.

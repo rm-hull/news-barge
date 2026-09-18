@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A former car sales worker who swapped car dealerships for pasties after
   being furloughed during Covid now serves around 250 Sunday dinners a week.
 image: https://www.thenorthernecho.co.uk/resources/images/21419064.jpg?type=og-image&xType=0&yType=16
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A former car sales worker who swapped car dealerships for pasties after being furloughed during Covid now serves around 250 Sunday dinners a week.

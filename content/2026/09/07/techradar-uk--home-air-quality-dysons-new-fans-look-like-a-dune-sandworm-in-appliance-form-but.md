@@ -7,6 +7,9 @@ scraped_at: '2026-09-07T14:13:33Z'
 published: '2026-09-07T00:00:00Z'
 description: A world away from the sleek, loop fans Dyson is known for
 image: https://cdn.mos.cms.futurecdn.net/p9GPcGZ4Z2UCZ2HyvimXXL-2560-80.jpg
+categories:
+- Technology & Software
+- Lifestyle & Fashion
 ---
 
 ![Dyson HushJet fans on display at IFA](https://cdn.mos.cms.futurecdn.net/p9GPcGZ4Z2UCZ2HyvimXXL.jpg) 

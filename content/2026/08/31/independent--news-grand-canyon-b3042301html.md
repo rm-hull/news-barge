@@ -10,6 +10,10 @@ description: A deadly flash flood in the Grand Canyon forced visitors to evacuat
   and destroyed its only water pipeline. The national park can be dangerous in summer,
   when monsoon season brings the risk of sudden thunderstorms and flooding.
 image: https://static.independent.co.uk/2026/08/31/20/APTOPIX_Grand_Canyon_Flooding_94972.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Deadly flash flood forces Grand Canyon evacuations and water restrictions, in photos

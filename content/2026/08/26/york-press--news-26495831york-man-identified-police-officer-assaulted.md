@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: The incident took place at around 6.20pm on Saturday, August 22, on Scarcroft
   Hill, shortly after the conclusion of the Ebor Festival at York…
 image: https://www.yorkpress.co.uk/resources/images/21358832.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 ## Wanted man identified after alleged assault on police officer in York

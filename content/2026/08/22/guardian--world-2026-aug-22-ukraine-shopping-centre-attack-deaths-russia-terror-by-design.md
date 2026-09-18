@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Kaja Kallas, the EU’s top diplomat, threatens harshest sanctions yet
   on Russia after strike on Kryvyi Rih, the home town of Volodymyr Zelenskyy
 image: https://i.guim.co.uk/img/media/2cc528426ef20eae7438615f8906db2f009b85dc/37_0_970_776/master/970.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=852122a8fca3edd8b84d413495e9bd01
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Russian drones have slammed into a busy shopping centre in central Ukraine, killing 16 people in an attack that Volodymyr Zelenskyy condemned as “cynical and despicable”.

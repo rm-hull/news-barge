@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Funding has been granted to Greater Manchester, the West Midlands and
   West Yorkshire as well as £6bn for London.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ec1/live/bb8353b0-a006-11f1-8317-891a2cbab3c5.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![The tops of new build houses standing in a  row](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9ec1/live/bb8353b0-a006-11f1-8317-891a2cbab3c5.jpg)

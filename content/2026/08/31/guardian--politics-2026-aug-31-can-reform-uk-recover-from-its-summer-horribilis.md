@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Clacton, funding, internal divisions – party prepares for annual conference
   next week after a season of missteps
 image: https://i.guim.co.uk/img/media/a2066f87a6eca152f1e59dd25a9765924b50ca91/581_0_4332_3466/master/4332.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78f4538cad723c3f24aea2d7c8e4bcde
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Senior Reform UK figures like to boast that the summer time – and parliament’s longest recess – is when the party makes hay.

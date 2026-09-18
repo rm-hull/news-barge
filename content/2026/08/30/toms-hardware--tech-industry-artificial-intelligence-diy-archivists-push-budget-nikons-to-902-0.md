@@ -8,6 +8,9 @@ scraped_at: '2026-08-30T13:46:32Z'
 published: '2026-08-30T00:00:00Z'
 description: There's a chance that
 image: https://cdn.mos.cms.futurecdn.net/VPbW5b8NY95wsWtsy8qjbH-1632-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Urdu script book](https://cdn.mos.cms.futurecdn.net/VPbW5b8NY95wsWtsy8qjbH.png) 

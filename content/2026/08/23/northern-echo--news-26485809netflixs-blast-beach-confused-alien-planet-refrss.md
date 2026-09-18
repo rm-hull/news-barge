@@ -9,6 +9,12 @@ published: '2026-08-23T00:00:00Z'
 description: Once one of Britain's most polluted coastlines, Seaham's Blast Beach
   is now a striking beauty spot known for its red pools, film links and…
 image: https://www.thenorthernecho.co.uk/resources/images/19415713.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
+- Science
 ---
 
 At first glance, a beach in County Durham looks more like the surface of an alien planet than a stretch of North East coastline.

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: The latest Pisa report also warned of a global decline in teenagers'
   reading skills.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/390e/live/3b434ad0-aabe-11f1-9bcd-4de40c4158ea.jpg
+categories:
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 ![Students in green school uniforms sit at desks reading books during a classroom lesson. Pencil pots and study materials are visible on the tables, with a noticeboard and classroom displays in the background.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/390e/live/3b434ad0-aabe-11f1-9bcd-4de40c4158ea.jpg)

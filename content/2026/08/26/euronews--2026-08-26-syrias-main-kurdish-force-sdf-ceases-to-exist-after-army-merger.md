@@ -9,6 +9,10 @@ description: Commander Mazloum Abdi announced the SDF's dissolution at the presi
   palace in Damascus, ending the existence of the Kurdish-led force that served as
   Washington's main partner against the so-called Islamic State terrorist group.
 image: https://images.euronews.com/articles/stories/09/88/87/39/1200x675_cmsv2_64a43d39-fc08-5bb0-bc0f-ba8f81d4b88b-9888739.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Commander Mazloum Abdi announced the SDF's dissolution at the presidential palace in Damascus, ending the existence of the Kurdish-led force that served as Washington's main partner against the so-called Islamic State terrorist group.

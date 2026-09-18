@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T16:52:09Z'
 published: '2026-08-24T00:00:00Z'
 description: A changing of the guard is brewing at The Three Swans in Selby.
 image: https://www.yorkpress.co.uk/resources/images/21364286.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Pic supplied)*

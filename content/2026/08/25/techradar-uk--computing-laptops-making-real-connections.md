@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: How Snapdragon helps Flock Together founder Ollie Olanipekun build communities
   beyond the screen
 image: https://cdn.mos.cms.futurecdn.net/yC8YAkUg6zd8nWVafedjNo-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Please login or signup to comment

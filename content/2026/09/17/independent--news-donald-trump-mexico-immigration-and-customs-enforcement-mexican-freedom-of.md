@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Newly obtained data on the unprecedented surge of border crossings over
   the past decade is shedding light on who entered the U.S. and where they went
 image: https://static.independent.co.uk/2026/09/17/11/After_The_Border_Overview_36165.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Newly obtained data on the unprecedented surge of border crossings over the past decade is shedding light on who entered the U.S. and where they went. Here is some information on the crossings, the data on 4.5 million migrants, and how The Associated Press obtained and analyzed it.

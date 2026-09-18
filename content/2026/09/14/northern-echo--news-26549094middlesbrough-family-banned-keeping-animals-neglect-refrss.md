@@ -9,6 +9,12 @@ published: '2026-09-14T00:00:00Z'
 description: A mother, her partner and her son have been banned from keeping animals
   after three Jack Russell terriers were found severely neglected, with one…
 image: https://www.thenorthernecho.co.uk/resources/images/21453568.jpg?type=og-image&xType=0&yType=100
+categories:
+- Local
+- UK
+- News & Politics
+- Pets & Animals
+- Family & Parenting
 ---
 
 *(Image: RSPCA)*

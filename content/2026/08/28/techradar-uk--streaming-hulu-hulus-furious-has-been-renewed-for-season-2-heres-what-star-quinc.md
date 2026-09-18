@@ -7,6 +7,9 @@ scraped_at: '2026-08-28T22:15:36Z'
 published: '2026-08-28T00:00:00Z'
 description: The Nora Washington actress told me what she wants in season 2
 image: https://cdn.mos.cms.futurecdn.net/Xo8rBH2nefZFGETFbxBRhX-1032-80.webp
+categories:
+- Technology & Software
+- Society & Culture
 ---
 
 ![Emmy Rossum and Quincy Tyler Bernstine in Furious](https://cdn.mos.cms.futurecdn.net/Xo8rBH2nefZFGETFbxBRhX.webp) 

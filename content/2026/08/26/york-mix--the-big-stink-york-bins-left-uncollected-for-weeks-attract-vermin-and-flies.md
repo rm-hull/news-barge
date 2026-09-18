@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T04:52:12Z'
 published: '2026-08-26T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/groves-york-bins-not-collected-august-2026-ldrs-7.webp
+categories:
+- Local
+- York
+- Comedy & Entertainment
 ---
 
 Bin bags left uncollected for weeks in a York neighbourhood have been ripped open by animals and infested with flies, residents say.

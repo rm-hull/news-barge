@@ -9,6 +9,11 @@ description: The UK’s self-sufficiency in key foods such as wheat, meat and an
   vegetables has fallen in the last 30 years, farming leaders warn, as they call for
   action to reverse the trend.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI2NGY4NWRlLTg3Y2QtNGFiNi1hOWVmLWY5MjMyNWU2NzMwYjo4Y2RkMDM1OS02NWRlLTQ4ZDEtYWUxNC1iOTk1MzczZGZmYTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # Farmers in call to make UK more self-sufficient in everyday foods

@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Temple Quarter Enterprise Campus near to station will make it easier
   for students and staff to commute
 image: https://i.guim.co.uk/img/media/427ba87f73bdeca4042a8c920c38f5f942b94c81/913_0_9101_7280/master/9101.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b6f7e9b5797a7240451dea053b30cd4b
+categories:
+- UK
+- News & Politics
+- Science
+- Education & Learning
 ---
 
 Not so long ago, the first impression for visitors arriving by train to Bristol’s main railway station was a derelict building described by David Cameron as looking like the entrance to a war zone.

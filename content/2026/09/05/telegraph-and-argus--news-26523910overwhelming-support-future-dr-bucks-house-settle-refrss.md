@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Hundreds have shared their views on the future of an historic building
   in the heart of Settle.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18502994.jpg?type=og-image&xType=0&yType=98
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 ### What is the Public Notice Portal?

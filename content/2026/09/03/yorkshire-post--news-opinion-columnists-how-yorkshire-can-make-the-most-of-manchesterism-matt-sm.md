@@ -11,6 +11,11 @@ description: When Andy Burnham talked about "good growth in every postcode" as M
   is his government going to scale ‘Manchesterism’ nationally, to also benefit communities
   in Leeds, Sheffield and Doncaster?
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjk2YzFmZjc5LWQ1NTAtNGM3ZC1iNjY5LTE1ZDUwYmM2ODNkMzo0MDNiZTMyYy1iZjY0LTRjOWEtYTkxNi04ZGJjNDdkOTUyYzM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # How Yorkshire can make the most of ‘Manchesterism’ - Matt Smith

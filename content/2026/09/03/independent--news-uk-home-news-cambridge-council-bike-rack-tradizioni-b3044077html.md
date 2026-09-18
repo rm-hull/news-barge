@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The owner of Tradizioni only learned of the plans when workers in hi-vis
   started measuring up on Wednesday
 image: https://static.independent.co.uk/2026/09/03/11/05/TRADIZIONI.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 A Cambridge restaurateur has criticised a council’s “silly” decision to install public bike racks in his eatery’s outdoor dining area.

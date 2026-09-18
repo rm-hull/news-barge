@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Nepali and Tibetan communities plan vigils and work to raise funds for
   recovery in ‘devastating’ time
 image: https://i.guim.co.uk/img/media/5e75fb450694ed8aeaaa4cacc84a53f6089fc403/395_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3fa5570b4cefd7c51b2c2e52f9bd9f5d
+categories:
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 Australia’s Nepali community plan to host vigils to remember the victims of the Nepal-Tibet flood disaster to coincide with a day of mourning, as the number of people killed continues to rise.

@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: British far-right pundit breaks silence on ICE arrest and deportation
   and says he was ‘really, really terrified’
 image: https://i.guim.co.uk/img/media/d5f52adb1efe586f2a374584030bc28ec37ac121/480_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=165fcfbfb0bc1b8f6b417a3152478218
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Milo Yiannopoulos, the British far-right commentator who was arrested last week by Immigration and Customs Enforcement (ICE) officers in Louisiana and deported to the United Kingdom, has broken his silence about the experience, saying that “for the first time I know what it feels like to be really, really terrified”.

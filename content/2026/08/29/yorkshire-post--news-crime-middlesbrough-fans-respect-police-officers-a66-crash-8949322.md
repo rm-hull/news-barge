@@ -9,6 +9,12 @@ description: Football fans have paid their respects to the two constables killed
   the head-on crash on the A66 and other Cleveland Police officers as the force continues
   to investigate a spate of incidents in the area.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/29/14/56/01M16NQSC8B86WQKPN9SKM0TDQ.jpg?trim=0,60,0,59&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # Middlesbrough fans pay respects to police officers killed in A66 horror crash

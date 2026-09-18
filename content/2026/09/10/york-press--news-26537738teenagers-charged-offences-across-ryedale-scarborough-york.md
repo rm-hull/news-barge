@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Two teenagers have been charged following investigation into offences
   across North Yorkshire
 image: https://www.yorkpress.co.uk/resources/images/20713502.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: Lewis Clarke)*

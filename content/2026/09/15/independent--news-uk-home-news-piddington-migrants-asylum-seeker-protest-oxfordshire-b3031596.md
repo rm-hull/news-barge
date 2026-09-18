@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Andy Burnham has previously said that wealthy areas of Britain must ‘play
   their part’ in housing asylum seekers
 image: https://static.independent.co.uk/2026/08/12/8/31/Screenshot-2026-08-12-at-09-20-55.png?trim=0,22,0,21&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A quaint village in Oxfordshire will hold a symbolic independence “referendum” on Tuesday - over concerns about a nearby military site being used to house asylum seekers.

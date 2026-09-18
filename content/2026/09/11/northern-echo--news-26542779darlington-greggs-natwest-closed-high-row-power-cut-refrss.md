@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: A dozen Darlington town centre businesses were left without power during
   the lunch rush hour after an outage.
 image: https://www.thenorthernecho.co.uk/resources/images/21441001.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Businesses in Darlington town centre were plunged into darkness and forced to close after a power outage.

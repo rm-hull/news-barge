@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Yet again, England are dealing with a player involved in a late-night
   incident. Only strong action will ensure there are no more, writes Stephan Shemilt.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7206/live/0f2cf580-9f2f-11f1-ba42-39f12a57ee10.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![England cricketer Brydon Carse](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7206/live/0f2cf580-9f2f-11f1-ba42-39f12a57ee10.jpg)

@@ -8,6 +8,10 @@ scraped_at: '2026-09-10T12:54:42Z'
 published: '2026-09-10T00:00:00Z'
 description: The dress is estimated to sell for between £110,000 and £220,000
 image: https://static.independent.co.uk/2024/01/09/11/SALE%20TheCrown%20%2011363742A.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 The famous “revenge dress” that wowed the nation when worn by the late Diana, Princess of Wales, is going up for auction.

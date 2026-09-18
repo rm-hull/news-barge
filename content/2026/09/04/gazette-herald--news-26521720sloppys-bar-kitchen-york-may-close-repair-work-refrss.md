@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Sloppy's Bar & Kitchen in Castlegate may have to close its doors for
   the second time since opening following the discovery of a collapsed…
 image: https://www.gazetteherald.co.uk/resources/images/21410448.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 A TOP York burger restaurant may have to close its doors for the second time since opening following the discovery of a collapsed pipe.

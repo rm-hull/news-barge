@@ -8,6 +8,8 @@ published: '2026-09-14T00:00:00Z'
 description: Meta’s Muse proved remarkably capable at handling digital errands, but
   its usefulness depends on granting an unsettling amount of access to personal information.
 image: https://cdn.mos.cms.futurecdn.net/oThcXBvjEBFUXAR2RHFW9k-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Meta Muse](https://cdn.mos.cms.futurecdn.net/oThcXBvjEBFUXAR2RHFW9k.jpg) 

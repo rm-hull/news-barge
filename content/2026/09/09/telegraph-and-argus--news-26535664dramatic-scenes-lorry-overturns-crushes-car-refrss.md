@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: A lorry overturned in a dramatic Bradford crash, crushing a parked car
   and horse box.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21430711.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Newsquest)*

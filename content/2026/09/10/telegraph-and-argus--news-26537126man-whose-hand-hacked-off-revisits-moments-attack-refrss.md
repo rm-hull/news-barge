@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: A man who had his arm hacked off at the wrist in a ferocious nighttime
   machete attack has revisited the moments leading up to the brutal assault.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19443664.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Telegraph & Argus)*

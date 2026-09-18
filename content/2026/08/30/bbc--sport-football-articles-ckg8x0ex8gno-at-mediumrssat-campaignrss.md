@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: The widow and two children of PC Matthew Blades will be at Old Trafford
   for Manchester United's Premier League game with Ipswich.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f752/live/0afb3210-a466-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Manchester United](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f752/live/0afb3210-a466-11f1-a291-b542ee92de7c.jpg)

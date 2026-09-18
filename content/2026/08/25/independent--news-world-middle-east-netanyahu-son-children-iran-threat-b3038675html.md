@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Netanyahu’s coalition is trailing in opinion polls two months before
   an October 27 general election
 image: https://static.independent.co.uk/2026/08/17/14/2026-08-10T111823Z_2133718736_RC2IULATYH0L_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-PLAN.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Israeli Prime Minister Benjamin Netanyahu has claimed that Iran tried to kill one of his sons.

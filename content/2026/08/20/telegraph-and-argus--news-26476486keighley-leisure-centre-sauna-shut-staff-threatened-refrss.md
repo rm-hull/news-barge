@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: A sauna has been closed to the public following repeated incidents of
   anti-social behaviour.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21340770.jpg?type=og-image&xType=0&yType=113
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Mike Simmonds)*

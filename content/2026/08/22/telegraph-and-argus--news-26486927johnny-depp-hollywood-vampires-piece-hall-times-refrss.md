@@ -7,6 +7,11 @@ scraped_at: '2026-08-22T12:57:24Z'
 published: '2026-08-22T00:00:00Z'
 description: Johnny Depp will be in Halifax tonight.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21357686.jpg?type=og-image&xType=0&yType=282
+categories:
+- Local
+- Bradford
+- News & Politics
+- Comedy & Entertainment
 ---
 
 *(Image: UGC)*

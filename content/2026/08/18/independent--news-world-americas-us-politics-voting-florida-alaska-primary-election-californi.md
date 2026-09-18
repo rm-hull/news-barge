@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The vote could provide clues about which party will emerge with control
   of the House of Representatives and the Senate in November's midterm elections
 image: https://static.independent.co.uk/2026/08/18/11/download..?trim=4,0,4,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Voters in Alaska, Florida and California will go to the polls on Tuesday to determine which candidates will run in the November midterm elections when control of Congress is at stake.

@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Congressman says defense secretary repeatedly violated constitution through
   his handling of Iran war
 image: https://i.guim.co.uk/img/media/252e55ee2ae79e5bfe22730751189c830ed431d4/177_0_4338_3470/master/4338.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78f4376df9f7c7a37dde022636d9e59a
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Republican congressman Thomas Massie on Tuesday proposed impeaching Pete Hegseth, saying the defense secretary had repeatedly violated the constitution through his handling of war with Iran and the deaths of civilians in conflicts worldwide.

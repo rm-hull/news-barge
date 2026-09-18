@@ -10,6 +10,11 @@ description: 'Eager to unlock new markets for EU businesses, the European Commis
   for approval by EU governments and the European Parliament – but sources told Euronews
   that Paris is set to oppose the move if it goes ahead. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/67/69/87/1200x675_cmsv2_698a3e59-4d80-5151-b177-fa667b168d89-9676987.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## Eager to unlock new markets for EU businesses, the European Commission plans to accelerate trade deal ratification by circulating only English versions for approval by EU governments and the European Parliament – but sources told Euronews that Paris is set to oppose the move if it goes ahead.

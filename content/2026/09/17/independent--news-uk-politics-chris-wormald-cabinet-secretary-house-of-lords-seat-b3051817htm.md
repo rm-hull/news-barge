@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Sir Chris Wormald left his role as head of the civil service back in
   February
 image: https://static.independent.co.uk/2024/12/02/13/Chris-Wormald.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 Sir Chris Wormald, the former head of the civil service, has officially taken his seat in the House of Lords.

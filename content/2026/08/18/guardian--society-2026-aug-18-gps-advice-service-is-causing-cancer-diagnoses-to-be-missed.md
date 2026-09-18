@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Advice and guidance services for doctors in England found to be creating
   risk of missed or late detection of illness
 image: https://i.guim.co.uk/img/media/1cba6dca96336694725679402cbf1349f38140f9/487_26_3450_2760/master/3450.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a27e5c09e3970b77f4b888668141eed0
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Cancer diagnoses have been missed or delayed because of a system designed for GPs to seek specialist advice before referring patients to hospital, according to an investigation.

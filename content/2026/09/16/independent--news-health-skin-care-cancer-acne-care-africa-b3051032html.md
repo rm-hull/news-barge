@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: ‘Skin disease is everywhere, but healthcare for skin disease is not,’
   says lead author of new report
 image: https://static.independent.co.uk/2026/09/16/09/2261080411..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Arts & Culture
 ---
 
 People with debilitating skin conditions face a global “crisis” in access to treatment due to a shortage of specialist doctors, a major new study has found.

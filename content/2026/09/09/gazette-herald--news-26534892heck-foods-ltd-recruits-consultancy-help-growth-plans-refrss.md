@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: A meaty new contract will see a West Yorkshire consultancy supporting
   the multi-million pound expansion of North Yorkshire's well-known HECK!…
 image: https://www.gazetteherald.co.uk/resources/images/21429721.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Pic supplied)*

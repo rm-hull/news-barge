@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Popcorn-carrying movie goers were evacuated from a Darlington cinema
   after six wheelie bins set ablaze under DL1.
 image: https://www.thenorthernecho.co.uk/resources/images/21444029.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 Popcorn-carrying movie goers were evacuated from a Darlington cinema after six wheelie bins set ablaze at DL1.

@@ -9,6 +9,9 @@ published: '2026-08-29T00:00:00Z'
 description: Harp has reportedly been nicknamed the “human printer” for the way in
   which she prints out information
 image: https://static.independent.co.uk/2026/08/29/00/2291893192..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Stephen Miller, the architect of Donald Trump’s hardline deportation policy, puts anti-immigration content in front of Trump aide Natalie Harp to ensure that it gets seen by the president, a report says.

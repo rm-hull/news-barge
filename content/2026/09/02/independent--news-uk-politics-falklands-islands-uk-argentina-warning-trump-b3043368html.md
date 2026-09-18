@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Argentine president Javier Milei is to make a ‘national announcement’
   on Thursday and vowed his country would defend its interests ‘with tooth and nail’
 image: https://static.independent.co.uk/2026/09/02/11/2026-08-22T221523Z_2021664573_RC24NMAFXFLH_RTRMADP_3_MOTOR-F1-ARGENTINA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Argentina’s president has issued a fresh warning to the UK over the sovereignty of the Falkland Islands, saying his country would defend its interests “with tooth and nail, no matter who it bothers”.

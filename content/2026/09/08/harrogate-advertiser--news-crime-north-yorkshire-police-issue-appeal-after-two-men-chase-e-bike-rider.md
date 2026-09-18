@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: North Yorkshire Police is appealing for information and witnesses following
   an affray incident involving three men in Harrogate.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjQ5ZWZkYjQ1LTlkOTEtNDcwNC1iZTlkLWQ3YjRkMzM5YWU3MTpmOWQ3OWQyZS1kZWZmLTRmMTItODhmOC03MGZkM2FhYWI0MGE=.jpg?crop=3:2,smart&trim=&width=639&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 # North Yorkshire Police issue appeal after two men chase e-bike rider through Harrogate streets

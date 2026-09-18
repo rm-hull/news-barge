@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Police are appealing for information after a large amount of cabling
   was stolen from the grounds of Harrogate District Hospital.
 image: https://mmo.aiircdn.com/409/6618fdf7b4b99.jpg
+categories:
+- Local
+- Harrogate
+- True Crime
+- News & Politics
 ---
 
 ![](https://mmo.aiircdn.com/409/6618fdf7b4b99.jpg) 

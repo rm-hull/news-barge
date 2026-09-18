@@ -9,6 +9,11 @@ description: 'Europe claims four places among the world’s top 10 cities for ec
   strength, liveability and future potential: London, Paris, Dublin and Zurich. The
   US accounts for five, led by New York.'
 image: https://images.euronews.com/articles/stories/09/91/57/84/1200x675_cmsv2_c3a2509a-0a84-5e85-b1f6-cb20cebf97e7-9915784.jpg
+categories:
+- Europe
+- News & Politics
+- History
+- Society & Culture
 ---
 
 ## Europe claims four places among the world’s top 10 cities for economic strength, liveability and future potential: London, Paris, Dublin and Zurich. The US accounts for five, led by New York.

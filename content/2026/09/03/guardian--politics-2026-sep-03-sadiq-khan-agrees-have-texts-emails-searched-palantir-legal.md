@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: US tech company has sued London mayor after he prevented it from working
   with Metropolitan police
 image: https://i.guim.co.uk/img/media/3247b2c9df7e3cceb0352fec6e7d14252445f343/1630_0_4870_3898/master/4870.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ee7641b53a7afa3f2574c950ed4a882
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Sadiq Khan has agreed for his text messages and emails to be searched as part of a legal battle with Palantir, the high court has been told, after he prevented the US technology company from working with the Metropolitan police.

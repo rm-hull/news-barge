@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The consumer watchdog said they were trying to find out if the three
   companies were not showing full prices upfront to customers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb7b/live/d50ea0f0-9bce-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![A young woman sitting at her laptop while holding a credit card](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/eb7b/live/d50ea0f0-9bce-11f1-b109-879e35c24276.jpg)

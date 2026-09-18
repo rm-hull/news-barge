@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Her family is among hundreds anxiously waiting for news after the deadly
   flash floods.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/01ad/live/9696afa0-a2c9-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Subhrasree Chakraborty in Nepal](https://ichef.bbci.co.uk/ace/standard/939/cpsprodpb/9f32/live/ec373900-a2ad-11f1-ab20-f9f4f61e8913.jpg)

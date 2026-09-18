@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: The man was allegedly trying to access another tenant’s space in the
   building, Google said in a statement
 image: https://static.the-independent.com/2026/08/29/17/1074330220..?trim=118,0,118,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 A Brooklyn man was arrested on arson charges Friday after allegedly setting himself on fire in the lobby of a Lower Manhattan building housing Google.

@@ -8,6 +8,9 @@ scraped_at: '2026-09-16T13:27:09Z'
 published: '2026-09-16T00:00:00Z'
 description: Agentic AI's increased pressure to reduce cyber risk
 image: https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Robots in a data center](https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL.jpg) 

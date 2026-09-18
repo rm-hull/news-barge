@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: The national debt has surpassed a record $40 trillion, highlighting the
   impact of defense costs, social programs, and interest on the deficit
 image: https://static.independent.co.uk/2026/07/29/04/Financial_Markets_Wall_Street_7_852.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The national debt surpassed a record $40 trillion on Wednesday, a staggering milestone as defense costs, social programs like Social Security and Medicare and interest on the burgeoning deficit make up an enormous share of federal spending.

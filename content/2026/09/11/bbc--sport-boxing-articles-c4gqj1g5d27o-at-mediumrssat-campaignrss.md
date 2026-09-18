@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Conor Benn and Ryan Garcia both comfortably make the welterweight limit
   for their WBC title fight despite concerns at how they would fare on the scales.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5821/live/63332c00-ae0a-11f1-b502-e5cdfe1c097c.png
+categories:
+- UK
+- News & Politics
+- Sports
+- Health & Fitness
 ---
 
 Garcia is a 'one-dimensional fighter' - Nigel Benn

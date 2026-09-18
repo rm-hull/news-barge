@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T19:41:10Z'
 published: '2026-09-15T00:00:00Z'
 description: ‘Her children are dead. She should be dead too,’ Nancy Mace declared
 image: https://static.independent.co.uk/2026/09/15/15/26/GettyImages-2273736649.jpeg?trim=0,2,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Representative Nancy Mace says that Lindsay Clancy should face “public execution” after killing her own children at her home in Massachusetts.

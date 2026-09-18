@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A BMW driver was treated on the roadside after colliding with the central
   reservation on the southbound A19 near Peterlee.
 image: https://www.thenorthernecho.co.uk/resources/images/21347109.jpg?type=og-image&xType=0&yType=93
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: Google Maps)*

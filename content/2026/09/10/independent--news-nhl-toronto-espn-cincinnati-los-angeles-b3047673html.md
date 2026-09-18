@@ -9,6 +9,10 @@ description: Barry Melrose, a hockey player-turned-coach who led the Los Angeles
   to the 1993 Stanley Cup Final before going on to a long career in broadcasting the
   sport, has died
 image: https://static.independent.co.uk/2026/09/10/02/Melrose_Hockey_31393.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Barry Melrose, a hockey player-turned-coach who led the Los Angeles Kings to the 1993 Stanley Cup Final before going on to a long career in broadcasting the sport, has died. He was 70.

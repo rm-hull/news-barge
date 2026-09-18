@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: Pentagon spokesman Sean Parnell posted a furious response to the report
   on social media before he was fact-checked by X-users, reporters and lawmakers
 image: https://static.independent.co.uk/2026/08/31/14/40/GettyImages-2291621111.jpg?trim=0,30,0,30&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Pentagon’s spokesman is facing backlash for falsely claiming that it is a “crime” for journalists to publish classified information following a report that some military leaders were critical of extending President Donald Trump’s war in Iran.

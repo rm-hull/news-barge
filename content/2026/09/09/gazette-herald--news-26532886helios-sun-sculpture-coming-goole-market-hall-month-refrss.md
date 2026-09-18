@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The touring artwork Helios, created by UK artist Luke Jerram, will light
   up Goole Market Hall later this month.
 image: https://www.gazetteherald.co.uk/resources/images/21426829.jpg?type=og-image&xType=0&yType=379
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

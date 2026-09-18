@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: A prominent three storey building facing the war memorial in Harrogate
   town centre is being redeveloped ready for opening after being unoccupied for months.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjViZGFiZjQ5LTYxMjctNGNhYy1hMjkxLWJmMWM4MDljZDRiNToxOWU4YTFiNS1jODhhLTRhMjgtOGU5OS05NDMyYmI0ZjM0OGU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 # Well-known Harrogate firm to reopen three storey building near Bettys tearooms

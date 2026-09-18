@@ -7,6 +7,11 @@ scraped_at: '2026-09-09T19:15:58Z'
 published: '2026-09-09T00:00:00Z'
 description: Plans for a shop and flats in a historic York building have been blocked.
 image: https://www.yorkpress.co.uk/resources/images/21432587.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Arts & Culture
 ---
 
 ## Shop and flats in centuries-old York building blocked

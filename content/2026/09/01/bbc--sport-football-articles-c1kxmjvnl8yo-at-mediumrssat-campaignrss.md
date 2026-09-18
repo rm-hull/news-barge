@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Aston Villa complete the signings of Senegal winger Ibrahim Mbaye from
   Paris St-Germain and English centre-back Taylor Harwood-Bellis from Southampton.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/750c/live/ff9281a0-a5f8-11f1-aed2-8d6da8d75094.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Mbaye and Harwood-Bellis](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/750c/live/ff9281a0-a5f8-11f1-aed2-8d6da8d75094.png)

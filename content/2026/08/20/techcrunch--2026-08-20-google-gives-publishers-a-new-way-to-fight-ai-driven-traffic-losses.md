@@ -9,6 +9,9 @@ description: Google is giving publishers a new button that lets readers make the
   a preferred source across Search, Discover, and Google News, potentially boosting
   their traffic as AI search sends fewer clicks to the web.
 image: https://techcrunch.com/wp-content/uploads/2026/08/01-ps-button-Family_resized.width-2000.format-webp.webp?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 As AI continues to kill traffic to websites, Google on Thursday threw a bone to those publishers negatively impacted by the change. It’s now allowing readers to push a button on a publisher’s website to indicate it’s a “favorite source” they’d like to see highlighted more often across Google Search, Discover, and Google News.

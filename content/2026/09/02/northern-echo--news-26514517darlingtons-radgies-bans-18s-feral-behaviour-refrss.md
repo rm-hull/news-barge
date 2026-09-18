@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A Darlington street food spot has announced that anyone under the age
   of 18 must now be accompanied by an adult when visiting, citing ongoing issues…
 image: https://www.thenorthernecho.co.uk/resources/images/20944239.jpg?type=og-image&xType=0&yType=199
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: THE NORTHERN ECHO)*

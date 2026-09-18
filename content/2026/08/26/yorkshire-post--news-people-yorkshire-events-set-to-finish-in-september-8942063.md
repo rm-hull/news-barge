@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: From flowerpot sculptures to wildflower picking, summer has brought a
   flurry of events to Yorkshire.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjMzNjc3MzAyLTNmZTItNDBkZS1iYmRjLTA5M2MyNzNkOWU3ODo0MjExMDg3Zi1hMGM4LTQ1MzEtOWExMy1lYzhlZGIxZTAzMzY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Yorkshire events set to finish in September

@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Serious violent and sexual offenders may be confined to areas of just
   a few miles after leaving prison on probation.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e93/live/e7605c80-9e8f-11f1-8854-6b09b84b2062.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 ![A woman looks out of a window while sitting on a bed.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/4e93/live/e7605c80-9e8f-11f1-8854-6b09b84b2062.jpg)

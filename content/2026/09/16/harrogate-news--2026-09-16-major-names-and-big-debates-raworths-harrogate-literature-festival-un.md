@@ -10,6 +10,10 @@ description: 'Sharon Canavar, Chief Executive of Harrogate International Festiva
   said: The Raworths Harrogate Literature Festival 2026 really does have something
   for'
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Dame-Prue-Leith.webp
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 **HARROGATE**— The full programme for the 14th annual Raworths Harrogate Literature Festival has been officially unveiled, bringing a characteristically high-profile mix of television household names, political analysts, and major memoirs to the town this October.

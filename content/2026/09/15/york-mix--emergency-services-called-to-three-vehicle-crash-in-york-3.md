@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T11:26:49Z'
 published: '2026-09-15T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/11/police-car-flashing-lights-ny.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 Emergency services were called to a three-vehicle crash in York last night (Monday).

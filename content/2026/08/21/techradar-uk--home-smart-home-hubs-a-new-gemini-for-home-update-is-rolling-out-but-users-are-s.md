@@ -9,6 +9,8 @@ published: '2026-08-21T00:00:00Z'
 description: Gemini for Home is getting some new upgrades, but users are still waiting
   for Google to fix the real problems.
 image: https://cdn.mos.cms.futurecdn.net/StcadX9qZd5xhesHz6nRhM-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Google Home Speaker](https://cdn.mos.cms.futurecdn.net/StcadX9qZd5xhesHz6nRhM.jpg) 

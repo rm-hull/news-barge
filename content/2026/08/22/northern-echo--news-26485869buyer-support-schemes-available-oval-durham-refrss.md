@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: David Wilson Homes is promoting a range of buyer support schemes at The
   Oval development at Old Durham Gate in County Durham, where three and…
 image: https://www.thenorthernecho.co.uk/resources/images/21356393.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: David Wilson Homes)*

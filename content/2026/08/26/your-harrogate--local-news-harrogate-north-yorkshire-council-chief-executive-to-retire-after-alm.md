@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: North Yorkshire Council’s chief executive Richard Flinton has announced
   he will retire from his role at the end of March next year.
 image: https://mmo.aiircdn.com/409/6a8ed333e354a825e71.jpg
+categories:
+- Local
+- Harrogate
+- Personal Finance & Investing
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8ed333e354a825e71.jpg) 

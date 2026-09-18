@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Longstanding poll reveals public opinions on disability benefits and
   Labour’s big challenge on NHS satisfaction
 image: https://static.independent.co.uk/2026/09/07/13/4e309e4056eae5e72c44343cae8ef242Y29udGVudHNlYXJjaGFwaSwxNzg4ODcwNDc4-2.85730188.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Health & Fitness
 ---
 
 Almost half of people think the government should spend more on disabled people, meaning proposals to cut disability benefits are likely to be “politically risky” for any major party, a new survey suggests.

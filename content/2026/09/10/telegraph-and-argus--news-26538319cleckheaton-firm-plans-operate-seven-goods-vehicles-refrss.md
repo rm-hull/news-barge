@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: A Cleckheaton-based business is applying for a goods vehicle operator's
   licence.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21434328.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 *(Image: Google Street View)*

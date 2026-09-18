@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: A judge in Honduras has dismissed the fraud and money laundering case
   against former president Juan Orlando Hernández
 image: https://static.independent.co.uk/2026/09/02/00/Honduras_Former_President_Case_Dismissed_18842.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 A judge in Honduras on Tuesday dismissed the case against former president Juan Orlando Hernández for fraud and money laundering charges, clearing him of any pending charges in the Central American nation.

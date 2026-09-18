@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: An accountant who stole more than £300,000 from her former employer over
   a four-year period has been ordered to pay back just over £52,000.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18666690.jpg?type=og-image&xType=0&yType=833
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: West Yorkshire Police)*

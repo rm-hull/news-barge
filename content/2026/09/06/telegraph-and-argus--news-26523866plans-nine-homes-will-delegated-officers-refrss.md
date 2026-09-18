@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: PROPOSED new housing developments in Craven of up to nine homes will
   soon be automatically decided by officers and not elected councillors, heard a…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21214389.jpg?type=og-image&xType=0&yType=376
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
+- Personal Finance & Investing
 ---
 
 *(Image: NYC)*

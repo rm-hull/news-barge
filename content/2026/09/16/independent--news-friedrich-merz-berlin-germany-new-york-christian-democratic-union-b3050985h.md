@@ -9,6 +9,10 @@ description: German Chancellor Friedrich Merz has canceled a trip to the U.N. Ge
   Assembly next week as he faces mounting pressure at home during a string of difficult
   state elections
 image: https://static.independent.co.uk/2026/09/16/08/Germany_Iraq_62135.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 German Chancellor Friedrich Merz has canceled a trip to the U.N. General Assembly next week as he faces mounting pressure at home during a string of difficult state elections.

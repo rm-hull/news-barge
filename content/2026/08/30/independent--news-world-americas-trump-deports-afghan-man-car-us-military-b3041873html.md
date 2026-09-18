@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: US has deported dozens of people to the Central African Republic, including
   an Afghan whose brothers helped military
 image: https://static.independent.co.uk/2026/06/12/17/2026-06-12T142022Z_1015994939_RC2ESLA4KMNV_RTRMADP_3_USA-TRUMP-IRAN-CENTRALAFRICA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Sports
 ---
 
 Dozens of individuals were deported to the Central African Republic by the United States on Saturday, including an Afghan man whose brothers assisted the US military, according to his lawyer and a rights group.

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: North Yorkshire Council said Heygate Bank between Rosedale Abbey and
   Egton Bridge is shut until Monday, September 21.
 image: https://www.yorkpress.co.uk/resources/images/19485644.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Newsquest)*

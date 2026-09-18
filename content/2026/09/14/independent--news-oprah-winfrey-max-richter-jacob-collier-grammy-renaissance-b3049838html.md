@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Oprah Winfrey will host “Oprah Winfrey's AHA” at the Sphere in Las Vegas
   from April 2-4
 image: https://static.independent.co.uk/2026/09/14/13/Event_Oprah_Winfrey_AHA_43724.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Oprah Winfrey stood alone at the Sphere, attempting to comprehend what she had witnessed after U2’s opening night performance in 2023. Mesmerized by the multisensory event, the Queen of All Media had a thought: Could she use the groundbreaking, 4D capabilities of the globe-shaped arena to help others reach their highest potential?

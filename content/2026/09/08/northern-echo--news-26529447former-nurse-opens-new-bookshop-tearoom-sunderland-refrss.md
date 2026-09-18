@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Hayley Beckinsale launched Chapter 13 on Frederick Street in Sunderland
   city centre on July 13, following a 16-year career in nursing.
 image: https://www.thenorthernecho.co.uk/resources/images/21421877.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A former nurse has swapped scrubs for stories with the launch of a new bookshop and tearoom.

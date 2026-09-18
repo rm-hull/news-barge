@@ -10,6 +10,10 @@ description: 'The Portuguese Institute for Sea and Atmosphere (source in Portugu
   rest of mainland Portugal, except Lisbon, Setúbal and Faro, under yellow warning.
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/87/88/08/1200x675_cmsv2_040e52f2-7071-557a-895d-063805867061-9878808.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## The Portuguese Institute for Sea and Atmosphere (source in Portuguese) has placed nine districts under orange warning until 18:00 this Tuesday, with the rest of mainland Portugal, except Lisbon, Setúbal and Faro, under yellow warning.

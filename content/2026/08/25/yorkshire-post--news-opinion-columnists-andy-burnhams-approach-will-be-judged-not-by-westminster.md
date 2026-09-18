@@ -11,6 +11,11 @@ description: Walking down the high street of almost any Yorkshire town and you c
   region - Marks & Spencer, Debenhams, and BHS - are gone. Independent businesses
   are sadly disappearing too.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjhiYWFiYWE0LWQ5ZTgtNDI4My04YmFjLWUyYTk0YjBiMmM0NjpjOGQ0NTJhNy0wYTI1LTRkOGYtYTczOS01OWVkYWJkMmZlMTg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Andy Burnham’s approach will be judged not by Westminster headlines but on Yorkshire high streets - Kim Samuel

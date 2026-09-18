@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Compact discs are back, with searches for players up 96% at John Lewis
   and popular models sold out online
 image: https://i.guim.co.uk/img/media/464588bc0c0614568224bfafd4b6ed969bb28359/1362_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d5a6319eeb0b6664a3fb3afed842525e
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 With more than 800 million people subscribing to a music streaming service, wireless speakers have become a familiar sight in homes. But expect to get reacquainted with a different object to play music soon: the CD player, once consigned to obsolescence, is back.

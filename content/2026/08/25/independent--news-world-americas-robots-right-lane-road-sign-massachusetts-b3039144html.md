@@ -9,6 +9,10 @@ description: The unusual sign is actually the product of a speculative fiction p
   imagining a future in which robots have taken on the bulk of labor and are demanding
   equal rights
 image: https://static.independent.co.uk/2026/08/25/19/20/Screenshot-2026-08-25-at-3-30-38-PM.png?trim=0,52,0,42&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A strange road sign along a highway in Lexington, Massachusetts, has drivers and bikers scratching their heads.

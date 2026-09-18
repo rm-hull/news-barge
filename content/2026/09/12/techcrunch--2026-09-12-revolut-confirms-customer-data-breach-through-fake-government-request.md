@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Revolut said it notified affected customers and alerted the relevant
   government agency, law enforcement, and financial regulators.
 image: https://techcrunch.com/wp-content/uploads/2025/11/revolut.png?resize=1200,629
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- News & Politics
 ---
 
 British fintech Revolut confirmed that it disclosed sensitive customer information to an unauthorized third party after receiving fraudulent requests sent from a legitimate government agency email domain.

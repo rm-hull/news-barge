@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: There is no certainty that the idea will ever get off the ground, let
   alone become a blueprint for other countries, writes Katya Adler.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/28eb/live/3741ab90-b2c8-11f1-9830-658a48c7da16.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Watch: Is Canada about to join the EU?

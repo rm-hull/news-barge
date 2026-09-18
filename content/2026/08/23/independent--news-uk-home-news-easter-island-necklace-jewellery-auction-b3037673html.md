@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: The collector has ‘made quite a good return’, Wiltshire auction house
   says
 image: https://static.independent.co.uk/2026/08/21/8/39/BNPS_PendantWorthThousands_01.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 A damaged wooden pendant bought for under £100 eight months ago has sold at auction for £75,000, after triggering an international bidding war.

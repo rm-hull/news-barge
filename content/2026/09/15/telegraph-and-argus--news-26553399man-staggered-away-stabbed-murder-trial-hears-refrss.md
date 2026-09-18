@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: A jury has heard how a man groaned and then staggered away after he was
   stabbed with a 17cm chef’s knife in a doorstep altercation.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20611112.jpg?type=og-image&xType=0&yType=113
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: West Yorkshire Police)*

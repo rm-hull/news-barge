@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Storm systems are named by procedures set by the World Meteorological
   Organisation and the lists of names are reused every six years.
 image: https://images.euronews.com/articles/stories/09/88/89/03/1200x675_cmsv2_4c5dda61-422c-5ae5-8da4-8fcfaa0a5f74-9888903.jpg
+categories:
+- Europe
+- News & Politics
+- History
+- Business & Entrepreneurship
 ---
 
 ## Storm systems are named by procedures set by the World Meteorological Organisation and the lists of names are reused every six years.

@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: TV celebrity Gok Wan has called a major Harrogate music event on the
   Stray his “favourite festival to play”
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAxYjk0ZDZhLTM3NzQtNDlkNC1iMzYwLTQyNmJiNzdhYmI3NzpmMjBiMDE5Yy1jMGJhLTRjODQtODRhNy0wMmQ1YjEyZDA4ZGQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
+- Arts & Culture
 ---
 
 # Review: Thousands of fans lap up Harrogate Love to Be..event which was 'our best festival to date'

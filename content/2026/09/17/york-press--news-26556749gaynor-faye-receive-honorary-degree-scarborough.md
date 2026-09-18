@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Gaynor Faye will receive an honorary Master of Arts from CU Scarborough
   in recognition of her contribution to television as an actor, writer and…
 image: https://www.yorkpress.co.uk/resources/images/21464813.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
+- Arts & Culture
 ---
 
 ## Yorkshire star Gaynor Faye honoured for championing county on screen

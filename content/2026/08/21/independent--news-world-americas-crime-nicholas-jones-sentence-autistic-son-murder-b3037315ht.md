@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The boy was shot in the head in his grandparent’s yard, police said at
   the time of the murder
 image: https://static.the-independent.com/2026/08/21/19/42/iStock-157394898.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A California father has pleaded no contest to murder in the shooting death of his 9-year-old autistic son.

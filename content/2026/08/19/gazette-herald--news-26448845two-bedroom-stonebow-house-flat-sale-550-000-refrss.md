@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: A flat inside one of York’s most talked-about buildings, Stonebow House,
   has gone up for sale - for £550,000.
 image: https://www.gazetteherald.co.uk/resources/images/21293261.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 A flat has hit the market in one of York’s most divisive buildings.

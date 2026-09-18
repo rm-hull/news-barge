@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Video. Historic boats parade along Venice's Grand Canal as crowds gather
   near Rialto Bridge for the annual Regata Storica and rowing celebrations.
 image: https://images.euronews.com/articles/stories/09/90/50/07/1200x675_cmsv2_82dd04d3-bed7-5b3b-b446-5715626ce82b-9905007.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 Venice’s Grand Canal came alive on Sunday as historic boats sailed through the heart of the city for the annual Regata Storica.

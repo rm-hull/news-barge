@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: The Garmin Fenix 8 AMOLED is $250 off, plus I found deals on Garmin Vivoactive
   5 and Forerunner 265.
 image: https://media.wired.com/photos/6a84a2c1a6695ec2cd8e3a52/191:100/w_1280,c_limit/The-Best-Garmin-Watch-I%E2%80%99ve-Tested-Is-25-Percent-Off-Right-Now.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Garmin watches are some of the best fitness trackers you can get, but they aren't exactly cheap—many of my favorite ones cost $500 or more. Thankfully, you can usually find a good Garmin watch deal with enough patience and a keen eye. Right now, some of my favorite models, including the Garmin Fenix 8, Garmin Vivoactive 5, and Garmin Forerunner 165, are over 20 percent off. If you've been thinking about trying out Garmin (or upgrading from an older model), now is a good time to buy.

@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Renovation work is gathering pace at the former Billingham Beck Visitor
   Centre, which is being turned into a pizza restaurant.
 image: https://www.thenorthernecho.co.uk/resources/images/21438106.jpg?type=og-image&xType=0&yType=449
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 Renovation work is gathering pace at the former North East visitor centre, which is being turned into a pizza restaurant.

@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Loxie and Robin Williams returned home on Thursday to find firefighters
   trying to save their home.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e89/live/61d0af20-9bdd-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 ![A woman with brown hair, glasses and a white patterned T-shirt next to a man with a green cap, blue shirt and sunglasses with one arm over her shoulder and the remains of their fire-damaged home behind them](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/447b/live/4db03fb0-9bdd-11f1-a291-b542ee92de7c.jpg)

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: ‘I honestly never imagined that being successful could put our home at
   risk’, says bakery founder Matthew Jones
 image: https://static.independent.co.uk/2026/09/10/11/58/bread-ahead.jpeg?trim=287,0,49,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Bread Ahead’s future at Borough Market is in doubt after the bakery said it has been told it needs to leave the iconic food market for being “too successful”.

@@ -7,6 +7,11 @@ scraped_at: '2026-09-15T13:29:19Z'
 published: '2026-09-15T00:00:00Z'
 description: The president dismissed concerns about AI and data centers as a ‘hoax‘
 image: https://static.independent.co.uk/2026/09/15/12/22/930423762b5e7656.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 President Donald Trump dismissed warnings Monday that the rise of AI could lead to robots marching on U.S. cities — just a week after sharing an AI-generated image depicting exactly that.

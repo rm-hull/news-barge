@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The prices are up but still less than a quarter of the level seen during
   Russia’s invasion of Ukraine
 image: https://static.independent.co.uk/2026/08/19/10/2272267019..?trim=132,0,158,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 UK natural gas prices have hit a three-year high, raising concerns that households will face an extended period of higher energy bills through winter and beyond.

@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Dr Kirk Heilbrun says he believes Clancy took children’s lives so they
   wouldn’t ‘suffer’ after she killed herself
 image: https://i.guim.co.uk/img/media/fa607f938744a7441819afba5272d55134f0903c/296_0_2407_1926/master/2407.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2790356a0243f25c35c498249df2ec98
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 With just days to go before the murder trial for Lindsay Clancy concludes, a forensic psychologist called by the prosecution testified on Monday that he did not believe she was experiencing acute psychosis when she killed her three children.

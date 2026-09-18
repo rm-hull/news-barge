@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Reform UK alleged 'foreign donations sting' and Argentine president's
   looming 'threat' over Falklands are the papers' top stories.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c05a/live/1b1ac820-a7e7-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 !["Putin growing more reckless as his inner circle shrinks, warn UK security insiders," reads the headline on the front page of the i Paper.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/8252/live/a5471670-a7d8-11f1-a291-b542ee92de7c.jpg)

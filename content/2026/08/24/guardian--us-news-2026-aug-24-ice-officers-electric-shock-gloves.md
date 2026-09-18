@@ -8,6 +8,9 @@ published: '2026-08-24T00:00:00Z'
 description: Civil liberties groups decry plan to use gloves linked to death of Kentucky
   man allegedly shocked 27 times in county jail
 image: https://i.guim.co.uk/img/media/b53be6e14494e9fb23126a22dd5e854a5240f40c/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=31043b17731a57126e5a5c0a17a5d904
+categories:
+- UK
+- News & Politics
 ---
 
 Plans to supply Immigration and Customs Enforcement (ICE) officers with special gloves that can deliver electric shocks have alarmed experts and drawn scrutiny amid some high-profile lawsuits over their use in local correctional facilities.

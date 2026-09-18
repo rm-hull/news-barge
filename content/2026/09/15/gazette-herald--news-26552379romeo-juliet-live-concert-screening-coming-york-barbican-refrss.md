@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: A popular York venue is set to host a special screening of Baz Luhrmann's
   acclaimed Romeo + Juliet as part of a global tour marking the…
 image: https://www.gazetteherald.co.uk/resources/images/21458558.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 A popular York venue is set to host a special screening of Baz Luhrmann's acclaimed Romeo + Juliet as part of a global tour marking the film's 30th anniversary.

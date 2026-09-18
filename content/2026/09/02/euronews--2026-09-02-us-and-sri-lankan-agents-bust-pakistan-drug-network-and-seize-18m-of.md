@@ -9,6 +9,10 @@ description: Sri Lanka's Public Security Minister Ananda Wijepala told parliamen
   that most of the illegal drugs originated in Afghanistan and Pakistan and were being
   smuggled into the island by sea.
 image: https://images.euronews.com/articles/stories/09/89/81/91/1200x675_cmsv2_ca1d4377-85df-5171-9095-ba715d745954-9898191.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Sri Lanka's Public Security Minister Ananda Wijepala told parliament that most of the illegal drugs originated in Afghanistan and Pakistan and were being smuggled into the island by sea.

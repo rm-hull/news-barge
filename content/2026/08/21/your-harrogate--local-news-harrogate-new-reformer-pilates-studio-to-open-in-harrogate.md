@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T13:06:40Z'
 published: '2026-08-21T00:00:00Z'
 description: A new Reformer Pilates studio is set to open in Harrogate next month.
 image: https://mmo.aiircdn.com/409/6a88407652a23d4fb85.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![](https://mmo.aiircdn.com/409/6a88407652a23d4fb85.jpg) 

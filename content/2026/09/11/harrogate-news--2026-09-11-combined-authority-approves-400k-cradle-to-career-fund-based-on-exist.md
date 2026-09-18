@@ -9,6 +9,11 @@ description: The York and North Yorkshire Combined Authority has approved a £40
   Cradle to Career Fund to roll out early-years literacy and baby box pilots across
   the region.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/David-Skaith-at-Selby-Library.webp
+categories:
+- Local
+- Harrogate
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 **HARROGATE**— Children and young people across York and North Yorkshire are set to benefit from a new

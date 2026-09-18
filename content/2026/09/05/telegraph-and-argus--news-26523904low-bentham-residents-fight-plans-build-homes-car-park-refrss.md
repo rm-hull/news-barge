@@ -7,6 +7,11 @@ scraped_at: '2026-09-05T18:12:31Z'
 published: '2026-09-05T00:00:00Z'
 description: Residents are fighting plans to build homes on a car park.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21408547.jpg?type=og-image&xType=262&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
 ---
 
 ### What is the Public Notice Portal?

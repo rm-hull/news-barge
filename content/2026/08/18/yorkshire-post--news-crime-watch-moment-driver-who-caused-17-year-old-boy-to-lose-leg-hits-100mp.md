@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: A man from Bradford who drove over 100mph in a 30mph zone and left a
   17-year-old boy life changing injuries including the loss of his leg has been jailed.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZjOTIxMTY3LTVlNTEtNDFmNS1hNjQ4LTI1NDNkY2MwMGZjZDoyYTU3Mzg1Yy1kMjg1LTQ5MzktOTg0Mi04ZTYyNmYzODU0ODU=.png?crop=3:2,smart&trim=&width=353&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Self-Improvement
 ---
 
 # Watch moment driver who caused 17-year-old boy to lose leg hits 100mph in 30mph zone

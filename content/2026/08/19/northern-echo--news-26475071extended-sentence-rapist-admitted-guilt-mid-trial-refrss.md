@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A "dangerous" rapist who "humiliated and degraded" a woman, leaving her
   with significant psychological harm, is starting a…
 image: https://www.thenorthernecho.co.uk/resources/images/21336526.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Cleveland Police)*

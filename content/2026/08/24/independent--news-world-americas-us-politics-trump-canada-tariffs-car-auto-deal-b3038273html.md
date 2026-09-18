@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: President Donald Trump’s justification for starting the trade war is
   not based in reality
 image: https://static.independent.co.uk/2026/08/24/14/26/GettyImages-2239796069.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 President Donald Trump threatened to punish American car owners and buyers by unilaterally imposing a 50 percent import tax on any car or auto parts produced in Canada, escalating the unprovoked trade war he has been waging against America’s northern neighbor since returning to power last year.

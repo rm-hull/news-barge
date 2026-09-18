@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: An unlicensed and uninsured North Yorkshire motorcyclist's "recklessness"
   killed a beloved granddad on a major road in Leeds.
 image: https://www.yorkpress.co.uk/resources/images/21403902.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: West Yorkshire Police)*

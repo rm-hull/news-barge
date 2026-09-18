@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Don't get caught out at the airport. Check hand luggage sizes and cabin
   bag allowances for Ryanair, easyJet, Jet2, Wizz Air and more.
 image: https://www.thenorthernecho.co.uk/resources/images/20892676.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Getty Images)*

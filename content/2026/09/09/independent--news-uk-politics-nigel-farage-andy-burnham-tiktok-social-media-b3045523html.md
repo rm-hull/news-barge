@@ -9,6 +9,9 @@ description: New research seen by The Independent shows that Andy Burnham’s so
   media videos on pub snacks, toy buses, the cost of Freddos and playing a guitar
   with a soldier are outdoing the Reform UK leader’s efforts
 image: https://static.independent.co.uk/2026/07/23/12/01KY7CAR6E11MPE0DANPZ990JB.jpg?trim=0,562,0,562&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Nigel Farage’s reputation as the best party leader at using social media to communicate with voters is under threat, according to a new analysis which suggests he has been overtaken by the new prime minister.

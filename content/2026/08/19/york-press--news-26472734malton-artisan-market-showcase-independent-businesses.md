@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Handcrafted treats and creative stalls will fill Malton’s Market Place
   this weekend as the town’s monthly artisan market returns from Little…
 image: https://www.yorkpress.co.uk/resources/images/21333212.jpg?type=og-image&xType=0&yType=108
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Little Bird Artisan Markets)*

@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Tributes have been paid to Pavlo Sadokha, a leading voice for Ukrainians
   in Portugal
 image: https://static.independent.co.uk/2026/09/17/15/16/dyzajn-bez-nazvy-1-e1789394138593-1536x876.webp?trim=0,0,0,222&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 An inquiry has been launched after a Ukrainian activist and critic of Putin’s Russia was found dead in Portugal.

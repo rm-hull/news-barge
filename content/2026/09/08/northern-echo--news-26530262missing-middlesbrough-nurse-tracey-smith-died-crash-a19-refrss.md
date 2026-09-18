@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: An inquest has opened into the death of a woman whose body was found
   in a car almost four weeks after she was reported missing.
 image: https://www.thenorthernecho.co.uk/resources/images/21422969.jpg?type=og-image&xType=0&yType=18
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 An inquest has opened into the death of a woman whose body was found in a car almost four weeks after she was reported missing.

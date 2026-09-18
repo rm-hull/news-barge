@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Commission president says EU must ‘urgently reimagine our partnerships’
   as she makes unprecedented offer
 image: https://i.guim.co.uk/img/media/179c4fd55266eda34a2bc6699269748145048c70/289_0_2861_2288/master/2861.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f5b77efe28b6ac0352aa9fed0d145019
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Canada has been invited to become the first “associate member” of the EU by the European Commission president, Ursula von der Leyen.

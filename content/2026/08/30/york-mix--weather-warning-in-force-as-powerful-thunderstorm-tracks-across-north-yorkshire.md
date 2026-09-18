@@ -8,6 +8,10 @@ scraped_at: '2026-08-30T22:42:19Z'
 published: '2026-08-30T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/8c5b6a0f-d24a-4c31-889a-615eb631076b.jpg
+categories:
+- Local
+- York
+- Science
 ---
 
 A weather warning is still in force across North Yorkshire.

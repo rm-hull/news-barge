@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: At least 600 flights cancelled as airlines call for overhaul of ATC system
   after third incident in as many years
 image: https://i.guim.co.uk/img/media/5d9b58fb7bef6b6a747c9b3b06642cd5c998a797/1088_0_6247_5000/master/6247.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=915f37a7b212aa0c7190d827f8e067a6
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Hundreds of thousands of air passengers had flights delayed or cancelled after another UK air traffic control technical glitch kept planes grounded for hours on Tuesday.

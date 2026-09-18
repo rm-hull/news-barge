@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: North Yorkshire Mayor David Skaith will lead a historic joint trade mission
   to India this October to boost jobs, exports, and investment for the region.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Mayors-India-Trade-Mission.webp
+categories:
+- Local
+- Harrogate
+- History
+- Business & Entrepreneurship
 ---
 
 **Mayor David Skaith will lead a delegation of North Yorkshire businesses** to India this October in a historic, first-ever joint trade mission alongside the mayors of South and West Yorkshire. The “White Rose” collective aims to secure new jobs, exports, and major investment for the region by showcasing its unique economic strengths on the international stage.

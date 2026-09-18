@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Lawmakers say agency hasn’t released ‘meaningful’ records concerning
   death of nearly blind refugee in Buffalo
 image: https://i.guim.co.uk/img/media/7ee0bf3f78adc4e8672f2522a608d8b161e3cb56/510_856_1780_1424/master/1780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26875b2804248d3d48affd9bd8b10032
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Democratic lawmakers are demanding that the Department of Homeland Security turn over records and fully cooperate with an investigation into the death of Nurul Amin Shah Alam, a nearly blind Rohingya refugee who died after US border agents left him outside a closed coffee shop on a freezing night in Buffalo earlier this year.

@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A pub is on the lookout for a new operator to take the reins, with no
   upfront costs.
 image: https://www.thenorthernecho.co.uk/resources/images/21420169.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A Bishop Auckland pub is on the lookout for a new operator to take the reins.

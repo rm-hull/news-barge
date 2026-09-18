@@ -9,6 +9,10 @@ description: In northern Greece, cut-price illegal pesticides smuggled in by org
   crime networks are tempting cash-strapped farmers, despite mounting evidence of
   the risks to health and the environment.
 image: https://images.euronews.com/articles/stories/09/85/64/46/1200x675_cmsv2_daf2e739-4066-5688-a92d-1fda0ac8117c-9856446.jpg
+categories:
+- Europe
+- News & Politics
+- Science
 ---
 
 **Euronews**

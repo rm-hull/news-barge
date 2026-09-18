@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: A ‘Traveller site’ of approximately 50 caravans has been set up in a
   North Yorkshire village and work has allegedly begun ‘without planning…
 image: https://www.yorkpress.co.uk/resources/images/21468639.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Contributed)*

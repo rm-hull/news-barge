@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Sir Kevin Sinfield has urged people to “come out and cheer us on” ahead
   of his latest endurance challenge for motor neurone disease (MND)…
 image: https://www.gazetteherald.co.uk/resources/images/17507283.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 *(Image: Danny Lawson/PA Wire)*

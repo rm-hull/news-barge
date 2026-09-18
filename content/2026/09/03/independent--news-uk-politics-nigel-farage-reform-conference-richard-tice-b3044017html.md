@@ -9,6 +9,10 @@ description: In an astonishing admission, Reform’s deputy leader Richard Tice 
   admitted that the party needs to get the country to ‘love Nigel Farage again’ –
   and that’s a big problem for the party, as political editor David Maddox explains
 image: https://static.independent.co.uk/2026/09/02/15/688a40188983ac00e3500649c22044d5Y29udGVudHNlYXJjaGFwaSwxNzg4NDQzNjE4-2.85531729.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 After dominating British politics for most of the last two years, Nigel Farage and his battered Reform UK party arrive in Birmingham for their conference with myriad problems.

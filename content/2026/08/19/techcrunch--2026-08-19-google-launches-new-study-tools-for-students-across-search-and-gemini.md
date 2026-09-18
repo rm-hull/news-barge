@@ -9,6 +9,9 @@ description: The launch of the new study features marks Google's latest effort t
   make Gemini the AI assistant that students turn to when learning and studying, as
   it continues to compete with companies like OpenAI.
 image: https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Education & Learning
 ---
 
 Google on Wednesday announced a slew of new study tools across Search and Gemini, including AI-generated interactive visuals, 3D simulations, a dedicated student hub, customized practice quizzes, and more.

@@ -10,6 +10,10 @@ description: A trial for a former Libyan intelligence official charged in the 19
   bombing of Pan Am Flight 103 over Scotland is on track to start in January after
   a delay caused by the discovery of new evidence
 image: https://static.independent.co.uk/2026/08/24/23/Lockerbie_Suspect_Trial_99483.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 A trial in the U.S. for a former Libyan intelligence official charged in the 1988 bombing of Pan Am Flight 103 over Scotland is on track to start in January after a delay caused by the discovery of new evidence in the decades-old case.

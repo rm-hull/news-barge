@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Nidec Corp., a Japanese motor maker, has revealed 844 cases of misconduct
   related to quality controls over the past decade
 image: https://static.independent.co.uk/2026/09/04/11/Japan_Nidec_Scandal_69276.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Scandal-ridden Japanese motor maker Nidec Corp. released Friday the findings of a company investigation that found 844 cases of misconduct related to quality controls spanning the last decade.

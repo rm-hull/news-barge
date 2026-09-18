@@ -9,6 +9,10 @@ description: '"Europe is among the continents warming the fastest, driven by hum
   climate change. Rapidly retreating glaciers and thawing permafrost are destabilising
   high mountain regions," glaciologist Olaf Eisen said. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/15/73/1200x675_cmsv2_9c800d4c-ad33-5a46-b9fd-3d1df39106ac-9891573.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 **Laura Fleischmann**

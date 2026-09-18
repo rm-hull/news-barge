@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Annabelle Boucher wants the law changed after she paid thousands to divorce
   her coercive ex-husband.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5421/live/7e7cdc30-a78f-11f1-9bb7-af8e8fd3d806.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![A woman with dark brown hair and a fringe is sat on a mustard-colour sofa wearing a blue silk shirt. She has her hands on her lap.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/5421/live/7e7cdc30-a78f-11f1-9bb7-af8e8fd3d806.jpg)

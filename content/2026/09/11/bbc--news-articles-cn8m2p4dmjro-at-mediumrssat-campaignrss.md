@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T12:49:07Z'
 published: '2026-09-11T00:00:00Z'
 description: Premier League winger Sorba Thomas's Land Rover overturns in Cottingham.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5987/live/9c3a1210-adc5-11f1-82c1-5ff19bf7a2f2.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A silver car is overturned on its roof with all the doors open, glass shattered on the road. It is half on the pavement next to a bush, half on the road.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/5987/live/9c3a1210-adc5-11f1-82c1-5ff19bf7a2f2.jpg)

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: The winners have been unveiled in the RAF’s annual photographic competition.
   Dean Murray reports.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmM3YWM0N2RiLTUzZWQtNDg2ZC04ODM1LWUzMDFlMTFlNDgwYzo0YjFlZjM1Yy0zNzIxLTQzYjItOTE3Ny1hN2NhNmZkZjc3Y2Q=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 Stunning photographs of RAF aircraft in action, life in the cockpit and sporting battles are among the winners and runners-up of the 2026 Royal Air Force Photographic Competition.

@@ -7,6 +7,12 @@ scraped_at: '2026-08-26T08:57:30Z'
 published: '2026-08-26T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/millie-wright.webp
+categories:
+- Local
+- York
+- Society & Culture
+- Self-Improvement
+- Arts & Culture
 ---
 
 A York children’s charity is marking an incredible five years of transforming the lives of families at Leeds Children’s Hospital.

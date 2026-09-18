@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T18:59:38Z'
 published: '2026-09-04T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/michaela-golding.webp
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 The former manager of a Filey care home has been jailed after she stole more than £50,000 from vulnerable residents and their families.

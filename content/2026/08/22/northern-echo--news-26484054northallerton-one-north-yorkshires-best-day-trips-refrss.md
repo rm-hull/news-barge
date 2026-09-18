@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Big Brother winner Jordan Sangha has highlighted Northallerton's history,
   high street and unique attractions, showing why it's a great…
 image: https://www.thenorthernecho.co.uk/resources/images/21146017.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A Big Brother star insists that Northallerton deserves to be on your 'must-visit' weekend list.

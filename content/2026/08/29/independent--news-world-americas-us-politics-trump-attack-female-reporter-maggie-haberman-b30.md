@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: Trump labeled New York Times reporter Maggie Haberman ‘unattractive’
   and a ‘stalker’ after she reported on his plans for the 25th anniversary of 9/11
 image: https://static.independent.co.uk/2026/08/29/15/00/Trump-Haberman.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump faced backlash over his latest attack on a female reporter, whom he called “unattractive,” a “stalker” and derisively nicknamed after insect larvae.

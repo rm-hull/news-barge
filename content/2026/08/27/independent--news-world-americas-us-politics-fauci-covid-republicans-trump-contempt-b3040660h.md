@@ -7,6 +7,9 @@ scraped_at: '2026-08-27T22:13:47Z'
 published: '2026-08-27T00:00:00Z'
 description: Republican lawmakers voted to hold Fauci in contempt earlier this month
 image: https://static.independent.co.uk/2026/08/27/21/2026-08-21T222313Z_1981507680_RC2VNMAM94YL_RTRMADP_3_HEALTH-CORONAVIRUS-USA-FAUCI.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Republican-led effort to hold Dr. Anthony Fauci in contempt of Congress has reportedly stalled amid concern from the White House that it’s not legally sound.

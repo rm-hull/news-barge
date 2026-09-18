@@ -8,6 +8,10 @@ scraped_at: '2026-09-11T19:08:55Z'
 published: '2026-09-11T00:00:00Z'
 description: Banks need to get better at reporting issues
 image: https://cdn.mos.cms.futurecdn.net/y7GLevUTEjLYdujEYsv668-2560-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Back view of hooded internet criminal hacking laptop in the dark, stealing credit card details](https://cdn.mos.cms.futurecdn.net/y7GLevUTEjLYdujEYsv668.jpg) 

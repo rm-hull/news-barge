@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Police have issued a photograph of a man officers want to speak to in
   connection with a radiator being stolen from a home in Ripon.
 image: https://www.gazetteherald.co.uk/resources/images/21446767.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

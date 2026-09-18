@@ -9,6 +9,12 @@ published: '2026-08-31T00:00:00Z'
 description: Dawson & Sanderson, a travel agent that has served the North East for
   more than 60 years, will open a new branch at M Parkway Shopping Centre in…
 image: https://www.thenorthernecho.co.uk/resources/images/21266761.jpg?type=og-image&xType=0&yType=92
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Travel
 ---
 
 A travel agent that has been helping North East families make memories for more than 60 years is opening a new Middlesbrough branch next month.

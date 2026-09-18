@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Harrogate drivers attempting to use a main road were hit by new roadworks
   last night.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjQyN2MyMjI5LTMyY2MtNGY4OC1hMzFhLWIyZDhkNGFlMDVlNTphYmJkYWMwYi05NjJlLTQzY2MtOGQzOS0yMDkyMTk3ODgwYmU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Automotive
 ---
 
 # Criticism as latest set of temporary traffic lights 'spring up' on Harrogate's Knaresborough Road

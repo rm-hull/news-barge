@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: Airlink says the manoeuvre with two planes in close formation involved
   careful and precise planning.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04bd/live/21055af0-a528-11f1-a291-b542ee92de7c.png
+categories:
+- UK
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 Watch: Moment two planes fly less than 50 feet above stadium

@@ -10,6 +10,9 @@ published: '2026-09-10T00:00:00Z'
 description: Fable's "style-weaving" combat system is intended for a modern audience,
   while remaining faithful to the classic role-playing game (RPG) series.
 image: https://cdn.mos.cms.futurecdn.net/v8jLt9PQXcNKZFuhUYR9Dc-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Fable](https://cdn.mos.cms.futurecdn.net/v8jLt9PQXcNKZFuhUYR9Dc.jpg) 

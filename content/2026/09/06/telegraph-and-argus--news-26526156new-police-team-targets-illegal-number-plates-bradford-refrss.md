@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A new national police team will target illegal number plates used to
   dodge fines and support organised crime in West Yorkshire.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21416828.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: W Yorks Police)*

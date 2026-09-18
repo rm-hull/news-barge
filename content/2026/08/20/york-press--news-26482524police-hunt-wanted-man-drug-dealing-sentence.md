@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: North Yorkshire Police are hunting for a man wanted for breaching the
   terms of his prison release licence.
 image: https://www.yorkpress.co.uk/resources/images/21351419.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: North Yorkshire Police)*

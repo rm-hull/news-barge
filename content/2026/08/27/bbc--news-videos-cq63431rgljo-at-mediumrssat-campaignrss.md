@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: At least 160 people have been killed along the Nepal-Tibet border as
   rescuers struggle to reach the disaster zone.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/734d/live/7cfde3c0-a1f1-11f1-bf30-b9c45f18ad85.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 # People pulled from mud in Nepal after deadly flash floods

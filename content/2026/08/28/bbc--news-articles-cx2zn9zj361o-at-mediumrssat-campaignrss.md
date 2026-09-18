@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: As part of an $18bn settlement in a child-safety lawsuit, Meta announced
   new restrictions on its apps. We asked families what they thought.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8e90/live/9843a980-a25f-11f1-883e-b50da2634501.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
+- Society & Culture
+- Technology & Software
 ---
 
 ![Julianna (left), Paige (centre) and mum Elizabeth Cardner at a baseball game](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/8e90/live/9843a980-a25f-11f1-883e-b50da2634501.jpg)

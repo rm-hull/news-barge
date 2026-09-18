@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: A startup called Mostik has a wild new approach to combining the capabilities
   of AI models.
 image: https://media.wired.com/photos/6a973d9ebb1b14821345f01b/191:100/w_1280,c_limit/AI-Lab-Russian-Mathematicians-Got-AI-Models-to-Communicate-Subconsciously-Business.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 I recently met with some brilliant Russian mathematicians who showed me a way for artificial intelligence models to communicate via something akin to machine telepathy.

@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Sunny skies and warmer temperatures are set to return to Darlington and
   South Durham this weekend, with forecasters predicting highs of 21C by…
 image: https://www.thenorthernecho.co.uk/resources/images/21164929.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 After a mixed and unsettled week of weather, conditions looks to improve across Darlington, South Durham and the wider Tees Valley area this weekend.

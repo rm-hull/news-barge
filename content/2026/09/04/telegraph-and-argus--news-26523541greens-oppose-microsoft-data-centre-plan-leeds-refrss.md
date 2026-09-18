@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: A backlash to the building of a Microsoft data centre is gathering pace
   after Green Party councillors voiced their opposition.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21412594.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Microsoft)*

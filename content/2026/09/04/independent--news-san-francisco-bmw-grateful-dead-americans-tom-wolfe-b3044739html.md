@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: A school bus that played a key role in the 1960s hippie movement has
   returned to San Francisco
 image: https://static.independent.co.uk/2026/09/04/12/Forever_Grateful_Exhibit_77667.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Ken Kesey's school bus — once painted in bright, swirly colors and driven across the country on a psychedelic journey — is back in San Francisco after 60 years as the centerpiece of a new exhibition celebrating the legacy of the Grateful Dead, a band that rose from the city’s famed hippie movement.

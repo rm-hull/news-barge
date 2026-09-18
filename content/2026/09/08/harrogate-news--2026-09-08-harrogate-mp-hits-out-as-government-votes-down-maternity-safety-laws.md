@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: The rejection of the law comes amid skyrocketing national anxieties over
   the state of NHS maternity provisions. Recent independent inspectorate reports have
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/maternity-tom.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Society & Culture
 ---
 
 **HARROGATE**— The Liberal Democrats have fiercely criticised the Government after ministers voted down a series of crucial amendments to the Health Bill designed to legally transform safety standards across British maternity services.The proposed legislative changes would have forced a legally binding duty on ministers to ensure every single NHS maternity unit in the country achieves a “Good” or “Outstanding” safety rating from the Care Quality Commission (CQC). The amendments also sought to mandate one-to-one midwifery care alongside 24/7 consultant presence on every active labour ward.

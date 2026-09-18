@@ -9,6 +9,9 @@ description: A protester was met with boos, and then the vice president’s fier
   after waving a Mexican flag inside the Dallas stadium where the Republican midterm
   convention is being held
 image: https://static.independent.co.uk/2026/09/11/2/44/GettyImages-2294067004.jpg?trim=2,0,2,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Vice President JD Vance has offered to buy a protester who interrupted his speech at the Republican midterm convention a plane ticket to Mexico.

@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: North East technology leaders are calling for closer engagement with
   public sector commissioners and greater opportunities to test new technologies.
 image: https://www.thenorthernecho.co.uk/resources/images/21374366.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 North East technology leaders are calling for closer engagement with public sector commissioners and greater opportunities to test new technologies.

@@ -10,6 +10,11 @@ description: A cloud has once again shrouded the village of Linton-on-Ouse as a 
   of ill-conceived plans to house hundreds of male asylum seekers at the former RAF
   base there.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY0NGM5ZWQ0LTE5MmMtNGE0MC1iZDQ1LTBhMWYyNDlmOWRlMTo0NWU1ZThkNi0yMzY3LTQzMTctYjk3Ni02NWJlMDQwYjliOTc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Andy Burnham’s devolution agenda would be undermined if Linton-on-Ouse asylum centre plans are waved through

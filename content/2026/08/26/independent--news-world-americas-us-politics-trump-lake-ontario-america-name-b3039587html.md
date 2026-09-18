@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: '‘You guys can’t even put DC in the right place on the map,’ one commenter
   wrote, while another chimed in: ‘Ah yes DC in lovely North Carolina’'
 image: https://static.independent.co.uk/2026/08/26/11/19/HQlTEpWXIAAq4eU.jpeg?trim=0,0,187,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The White House released a map labeling Lake Ontario as “Lake America” — but that wasn’t the only geographical detail it got wrong.

@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: Fire Ant is now targeting routers, authentication servers, and Linux
   management hosts
 image: https://cdn.mos.cms.futurecdn.net/EEXAxCUDKAq3frELz3rVYY-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A group of 7 hackers, 6 slightly blurred in the background and one in the foreground, all wearing black with hoods pulled up over their heads. You cannot see their faces.](https://cdn.mos.cms.futurecdn.net/EEXAxCUDKAq3frELz3rVYY.jpg) 

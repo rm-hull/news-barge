@@ -9,6 +9,12 @@ published: '2026-08-27T00:00:00Z'
 description: Residents have spoken of the moment emergency services swooped on their
   quiet street in Fulford, York, after a “massive explosion” which left a…
 image: https://www.gazetteherald.co.uk/resources/images/21375969.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Newsquest)*

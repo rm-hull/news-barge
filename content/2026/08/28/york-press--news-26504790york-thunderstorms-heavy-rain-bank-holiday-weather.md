@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: A yellow warning has been issued for thunderstorms and heavy rain over
   York today with the forecast set to remain 'unsettled' over the…
 image: https://www.yorkpress.co.uk/resources/images/9130242.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Chris Booth)*

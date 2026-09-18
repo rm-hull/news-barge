@@ -9,6 +9,9 @@ scraped_at: '2026-09-09T19:15:40Z'
 published: '2026-09-09T00:00:00Z'
 description: Dreame's new robovac will waft about your hard floors on a cloud of steam
 image: https://cdn.mos.cms.futurecdn.net/ds9wFRPCwrkxwDu7Hee3cU-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Dreame Aqua20 Pro Ultra Roller X Complete robot vacuum on show at IFA](https://cdn.mos.cms.futurecdn.net/ds9wFRPCwrkxwDu7Hee3cU.jpg) 

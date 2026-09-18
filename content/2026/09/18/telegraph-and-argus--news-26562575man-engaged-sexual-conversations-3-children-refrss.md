@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A Bradford man who used social media to engage in sexual conversations
   with children has been jailed for more than five years.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21473209.jpg?type=og-image&xType=0&yType=231
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: West Yorkshire Police)*

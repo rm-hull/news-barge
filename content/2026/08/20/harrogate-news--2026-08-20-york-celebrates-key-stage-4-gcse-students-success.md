@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: City of York Council education leaders have congratulated students across
   the city as they receive their GCSE and Key Stage 4 results today (Thursday 20
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/School-leavers-next-steps-1-york.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Education & Learning
 ---
 
 City of York Council education leaders have congratulated students across the city as they receive their GCSE and Key Stage 4 results today (Thursday 20 August).

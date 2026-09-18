@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: In Indonesia’s Kalimantan, fires have ravaged tens of thousands of acres,
   with suffocating smoke reaching Malaysia and putting Singapore on alert
 image: https://i.guim.co.uk/img/media/a3d2552502e934f46ba885639f8c25da4ddfbd50/614_0_4080_3264/master/4080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=918957d6f81144bb28f0d973cd570256
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Suwadi can barely see five metres in front of him when he steps outside his home in Indonesian Borneo.

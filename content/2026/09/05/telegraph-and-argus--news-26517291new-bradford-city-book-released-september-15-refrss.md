@@ -8,6 +8,13 @@ published: '2026-09-05T00:00:00Z'
 description: John Dewhirst has been a prolific writer about the history of Bradford
   City and his latest book about the club is out on September 15.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21413926.jpg?type=og-image&xType=0&yType=55
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
+- Arts & Culture
+- Books & Literature
 ---
 
 *(Image: Sent by Amberley Publishing)*

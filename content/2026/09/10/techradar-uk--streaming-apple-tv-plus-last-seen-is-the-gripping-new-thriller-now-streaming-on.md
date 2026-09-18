@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: Last Seen has made its Apple TV debut — but, if you think you know where
   its story is going, think again.
 image: https://cdn.mos.cms.futurecdn.net/DJAqrgKcfD2j5BKJjS5buU-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Ian looks at a computer screen while wearing a headset](https://cdn.mos.cms.futurecdn.net/DJAqrgKcfD2j5BKJjS5buU.jpg) 

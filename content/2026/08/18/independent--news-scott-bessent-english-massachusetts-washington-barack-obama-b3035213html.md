@@ -10,6 +10,10 @@ description: A Massachusetts woman who told police that she brought homemade fir
   to the U.S. Capitol to kill Treasury Secretary Scott Bessent has been sentenced
   to just over six years in prison
 image: null
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Massachusetts woman who told police that she brought homemade firebombs to the U.S. Capitol to kill Treasury Secretary Scott Bessent was sentenced on Tuesday to just over six years in prison.

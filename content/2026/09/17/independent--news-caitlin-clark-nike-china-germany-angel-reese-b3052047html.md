@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Caitlin Clark doesn’t have to wait much longer for her first signature
   shoe to come out
 image: https://static.independent.co.uk/2026/09/17/17/Clark_Sneaker_Basketball_19614.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Caitlin Clark doesn't have much longer to wait for her first signature shoe to come out.

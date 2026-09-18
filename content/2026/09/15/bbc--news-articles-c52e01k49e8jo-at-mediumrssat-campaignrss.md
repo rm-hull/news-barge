@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The former England winger crashed his Lamborghini into motorway barriers
   in May.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/225a/live/77b8e540-a0ca-11f1-ad58-4d48ded76db6.jpg
+categories:
+- UK
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 ![Raheem Sterling in a red and white Feyenoord club shirt.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/225a/live/77b8e540-a0ca-11f1-ad58-4d48ded76db6.jpg)

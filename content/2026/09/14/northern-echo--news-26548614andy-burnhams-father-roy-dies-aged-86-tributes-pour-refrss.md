@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Tributes have started pouring in from Labour Party supporters and members
   of parliament following the death of Andy Burnham's father.
 image: https://www.thenorthernecho.co.uk/resources/images/21452538.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: House of Commons/UK Parliament/PA Wire)*

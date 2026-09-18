@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: Marti Pellow and Gabrielle will headline the opening night of Opulence
   at Lumley Castle before Groove Armada, Todd Terry and Sam Divine lead a huge…
 image: https://www.thenorthernecho.co.uk/resources/images/21374365.jpg?type=og-image&xType=0&yType=50
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- Sports
 ---
 
 *(Image: Google Maps)*

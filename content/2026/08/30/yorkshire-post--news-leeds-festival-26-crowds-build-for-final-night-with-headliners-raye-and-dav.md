@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: Revellers have been dancing up a storm for Leeds Festival despite the
   odd drop of rain as crowds build at Bramham Park for tonight's final act.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmEyNTVjODUzLWI3MTctNDUyMC1hZWMzLWEwZDhiZWVlZjg3Yjo5NDM1Zjg2OC05OWJhLTQ4MzMtYjZiYS00MjViMDg2NzI4YTg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Leeds Festival '26: Crowds build for final night with headliners RAYE and Dave

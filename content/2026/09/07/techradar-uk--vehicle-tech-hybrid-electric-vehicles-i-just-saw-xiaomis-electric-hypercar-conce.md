@@ -9,6 +9,8 @@ scraped_at: '2026-09-07T14:14:11Z'
 published: '2026-09-07T00:00:00Z'
 description: Xiaomi EVs are finally coming to Europe
 image: https://cdn.mos.cms.futurecdn.net/RXi8aHr9uZx4GmMYkVBgPA-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Xiaomi EV, pictured at IFA 2026](https://cdn.mos.cms.futurecdn.net/RXi8aHr9uZx4GmMYkVBgPA.jpg) 

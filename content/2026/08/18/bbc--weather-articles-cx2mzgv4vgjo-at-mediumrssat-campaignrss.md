@@ -9,6 +9,10 @@ description: Heavy showers are expected over the next few days, bringing a risk 
   flash flooding. But there are early indications heatwave conditions could return
   in September.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/e16a/live/a7c507b0-9a43-11f1-a86b-519b4d19bbee.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![People with umbrellas walk over a bridge in a rain storm with skyscrapers and a river and another bridge in the background](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/e16a/live/a7c507b0-9a43-11f1-a86b-519b4d19bbee.jpg)

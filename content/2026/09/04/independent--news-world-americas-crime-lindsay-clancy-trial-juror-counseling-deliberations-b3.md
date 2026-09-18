@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: The strain on jurors in the Lindsay Clancy trial had been clear for days
   as they repeatedly moved to end deliberations
 image: https://static.the-independent.com/2026/09/04/20/2026-09-04T192853Z_937396315_RC2JCNAGB38P_RTRMADP_3_MASSACHUSETTS-CRIME-CLANCY.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The Lindsay Clancy case has ended in mistrial but for the jury, it could be the start of the emotional fallout.

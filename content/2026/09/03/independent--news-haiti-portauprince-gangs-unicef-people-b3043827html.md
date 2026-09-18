@@ -10,6 +10,9 @@ description: More than 100 mourners in Haiti have attended funerals inside a chu
   where gangs recently executed more than 30 people in an attack that shook the troubled
   country
 image: https://static.independent.co.uk/2026/09/03/01/APTOPIX_Haiti_Violence_68772.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 More than 100 mourners attended funerals Wednesday inside a church where gangs recently executed more than 30 people in an attack that shook the troubled country.

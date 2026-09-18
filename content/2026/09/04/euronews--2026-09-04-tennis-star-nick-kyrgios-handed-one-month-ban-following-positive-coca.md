@@ -9,6 +9,10 @@ description: Kyrgios has entered a treatment programme and will forfeit his €6
   prize money and ranking points from the ATP Tour event in Mallorca where he tested
   positive for the drug.
 image: https://images.euronews.com/articles/stories/09/90/11/29/1200x675_cmsv2_c6467192-db1b-55d8-83ca-957f33eb19b3-9901129.jpg
+categories:
+- Europe
+- News & Politics
+- Health & Fitness
 ---
 
 ## Kyrgios has entered a treatment programme and will forfeit his €6,570 prize money and ranking points from the ATP Tour event in Mallorca where he tested positive for the drug.

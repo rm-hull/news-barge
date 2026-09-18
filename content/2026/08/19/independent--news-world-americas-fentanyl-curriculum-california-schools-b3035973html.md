@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: High school students across the state will be educated on the dangers
   of fentanyl in eight 50-minute sessions
 image: https://static.independent.co.uk/2026/08/19/20/36/iStock-1418549190.jpg?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
 ---
 
 School districts across California have added fentanyl awareness lessons to their curriculum in a new push to educate students about the dangers of the drug.

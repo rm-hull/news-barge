@@ -7,6 +7,12 @@ scraped_at: '2026-08-30T13:47:54Z'
 published: '2026-08-30T00:00:00Z'
 description: A sci-fi satire show arrives in Bradford this autumn.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21379739.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 *(Image: Submit)*

@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The 62-year-old man is remanded in custody and will appear at Norwich
   Crown Court on 14 September.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a63d/live/b1b7bdf0-9af5-11f1-930b-57cfba7235f9.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Three police officers are pictured standing in a road. They are wearing yellow vests and all have caps on](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a63d/live/b1b7bdf0-9af5-11f1-930b-57cfba7235f9.jpg)

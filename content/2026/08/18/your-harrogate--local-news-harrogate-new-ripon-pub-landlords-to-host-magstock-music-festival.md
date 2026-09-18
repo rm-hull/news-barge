@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Seven live acts are set to take to the stage at a new music festival
   in Ripon later this month.
 image: https://mmo.aiircdn.com/409/6a83fdaeba70ecacecf.jpg
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 ![](https://mmo.aiircdn.com/409/6a83fdaeba70ecacecf.jpg) 

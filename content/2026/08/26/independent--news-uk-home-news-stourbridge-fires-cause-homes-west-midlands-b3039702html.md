@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T16:56:45Z'
 published: '2026-08-26T00:00:00Z'
 description: Families were forced to flee their homes as the fires rapidly spread
 image: https://static.independent.co.uk/2026/08/26/11/2291439610..?trim=0,630,0,630&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Two fires that destroyed 19 homes in Stourbridge were started accidentally in a field where agricultural machinery was being used, West Midlands Fire Service said.

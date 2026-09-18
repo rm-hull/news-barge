@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Barriers have been erected outside The Brow Lounge on Newgate Street
   after unconfirmed reports of a crash.
 image: https://www.thenorthernecho.co.uk/resources/images/21362248.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Dramatic pictures show the aftermath of a crash which left a Bishop Auckland beauty business severely damaged.

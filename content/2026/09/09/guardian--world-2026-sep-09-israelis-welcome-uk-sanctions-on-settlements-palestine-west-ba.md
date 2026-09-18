@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Ed Miliband’s intervention was ‘inevitable’ after Israeli government
   and security failures, say former ministers and diplomats
 image: https://i.guim.co.uk/img/media/b7b81eae06b9a4d1cc259ea081d36258f9007bc5/98_0_3288_2632/master/3288.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ff254c77f3a1ad56c02a864e0c17db41
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Prominent Israelis have welcomed new UK sanctions as a necessary response to settlement expansion and spiralling violence in the occupied West Bank.

@@ -10,6 +10,9 @@ published: '2026-09-14T00:00:00Z'
 description: Moore's law held up for many years, with engineers finally reaching the
   physical limitations of silicon in the last decade or so
 image: https://cdn.mos.cms.futurecdn.net/Pe5Gp5s3AXZSYvmSKQDo7N-977-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Gordon Moore](https://cdn.mos.cms.futurecdn.net/Pe5Gp5s3AXZSYvmSKQDo7N.jpg) 

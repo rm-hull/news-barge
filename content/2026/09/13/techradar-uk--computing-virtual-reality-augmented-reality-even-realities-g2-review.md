@@ -8,6 +8,9 @@ scraped_at: '2026-09-13T18:46:50Z'
 published: '2026-09-13T00:00:00Z'
 description: Stylish but inconsistent
 image: https://cdn.mos.cms.futurecdn.net/xnavpvV8i4yPjxfgZziLMa-2560-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ### TechRadar Verdict

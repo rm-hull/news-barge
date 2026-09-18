@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Iranian state media says an Iranian commercial ship has been struck near
   the Strait of Hormuz, with one person killed
 image: https://static.independent.co.uk/2026/09/13/07/Saudi_Arabia_Yemen_War_633_9.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 An Iranian commercial ship was struck early Sunday near the Strait of Hormuz, with one person killed, Iranian state media say.

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A heritage railway is inviting visitors to step behind the scenes as
   part of a nationwide festival of history and culture.
 image: https://www.yorkpress.co.uk/resources/images/21332087.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
+- History
 ---
 
 *(Image: NYMR)*

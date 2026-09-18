@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: World champion Lando Norris says he expects other teams to challenge
   for victory after securing pole position for Sunday's final Dutch Grand Prix.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a421/live/eb17d720-9e4b-11f1-8871-ff7211da55c9.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Lando Norris chats to George Russell after qualifying](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a421/live/eb17d720-9e4b-11f1-8871-ff7211da55c9.jpg)

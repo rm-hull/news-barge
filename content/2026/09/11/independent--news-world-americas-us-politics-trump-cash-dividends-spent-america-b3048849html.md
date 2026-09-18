@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: The eye-catching proposal has drawn immediate skepticism, including questions
   about its legality and cost
 image: https://static.independent.co.uk/2026/09/11/18/2026-09-11T142123Z_1864013106_RC22HNAQBROY_RTRMADP_3_USA-SEPT11-PENTAGON.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 President Donald Trump says his proposed $5,000 “Trump dividends” would come with a significant caveat: Recipients would have to spend the money in the United States.

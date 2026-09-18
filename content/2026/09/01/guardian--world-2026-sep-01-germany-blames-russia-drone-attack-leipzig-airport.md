@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Government says ‘dangerous behaviour’ is part of effort by Moscow to
   cause damage with hybrid attacks
 image: https://i.guim.co.uk/img/media/1cfc6837aab44ac5c2377f58e2c83e957146631f/531_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6dc2cf5c8411f6c219e821998790483b
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The German government has blamed Russia for the drone attack on Leipzig airport last month, calling it “dangerous behaviour” and part of a systematic and concerted effort by Moscow to “cause great damage” through a large number of hybrid attacks.

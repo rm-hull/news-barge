@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: With support for drives up to 8TB, plus SD and MicroSD card slots, the
   main limitation is the device's 10 Gbps interface.
 image: https://cdn.mos.cms.futurecdn.net/JELLkAw4TQeRA2FYkfGHLC-1999-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Sharge Disk Pro 2 Ultra](https://cdn.mos.cms.futurecdn.net/JELLkAw4TQeRA2FYkfGHLC.jpg) 

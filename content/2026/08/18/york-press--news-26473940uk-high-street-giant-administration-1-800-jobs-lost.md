@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: A high street giant collapsed into administration, resulting in the loss
   of 1,800 jobs.
 image: https://www.yorkpress.co.uk/resources/images/16284140.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Matt Simpson)*

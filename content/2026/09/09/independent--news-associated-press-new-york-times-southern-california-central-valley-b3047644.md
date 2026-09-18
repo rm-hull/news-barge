@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: One of the organizers who says she was sexually abused by Latino labor
   leader César Chavez decades ago has sued nonprofits tied to him
 image: https://static.independent.co.uk/2026/09/09/23/Cesar_Chavez_Allegations_Lawsuit_94864.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Self-Improvement
 ---
 
 One of the organizers who said she was sexually abused by Latino labor leader César Chavez decades ago has sued nonprofits tied to him.

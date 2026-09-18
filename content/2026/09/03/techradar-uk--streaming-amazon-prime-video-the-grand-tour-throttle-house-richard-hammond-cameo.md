@@ -10,6 +10,9 @@ description: Throttle House fans have called the channel a 'spiritual successor'
   Top Gear for years — but The Grand Tour presenters had no idea what was coming when
   they booked Richard Hammond.
 image: https://cdn.mos.cms.futurecdn.net/f82J97EsiDrRU6srcnse24-1920-80.jpg
+categories:
+- Technology & Software
+- History
 ---
 
 ![James, Francis and Thomas look at something on a racetrack](https://cdn.mos.cms.futurecdn.net/f82J97EsiDrRU6srcnse24.jpg) 

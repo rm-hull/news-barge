@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: The offer of extra money by the government reduces the prospect of strike
   action by the largest teaching union.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ead1/live/0f0811d0-b1da-11f1-8c0b-c1113bf3b7c0.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![A teacher addressing pupils in a school classroom](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/ead1/live/0f0811d0-b1da-11f1-8c0b-c1113bf3b7c0.jpg)

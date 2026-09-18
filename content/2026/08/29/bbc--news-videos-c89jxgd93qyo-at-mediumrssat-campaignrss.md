@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Footage of the flash floods have become almost impossible to find on
   China’s heavily censored internet.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b94e/live/86531210-a3c2-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 # China censors videos showing deadly flash floods on the Nepal-Tibet border

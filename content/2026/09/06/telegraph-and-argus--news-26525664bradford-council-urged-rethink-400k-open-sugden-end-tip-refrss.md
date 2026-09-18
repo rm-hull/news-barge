@@ -8,6 +8,13 @@ published: '2026-09-06T00:00:00Z'
 description: Artists and creative workers are calling on Bradford Council to reconsider
   plans to divert £400,000 of arts funding.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21415938.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Artists and creative workers are calling on Bradford Council to reconsider plans to divert £400,000 of arts funding.

@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A body has been found in the search for a missing teenager who was visiting
   Pembrokeshire in Wales on holiday from Yorkshire.
 image: https://www.gazetteherald.co.uk/resources/images/14362654.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 A body has been found in the search for a missing teenager who got into difficulty in the sea in Pembrokeshire whilst on a family holiday from Yorkshire.

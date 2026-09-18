@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: The federal cyber agency's warning comes amid a wave of suspected Iran-backed
   cyberattacks targeting critical water systems across the United States.
 image: https://techcrunch.com/wp-content/uploads/2026/08/water-waste-water-2099931275.jpg?resize=1200,917
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 U.S. cybersecurity agency CISA said it has observed cyberattacks targeting over 100 internet-exposed systems across the U.S. water and wastewater sector, amid a wave of hacks targeting American critical infrastructure.

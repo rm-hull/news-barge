@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: Plug-in solar panels are now legal, but plug-in batteries have yet to
   receive the green light.
 image: https://cdn.mos.cms.futurecdn.net/gkmdRXeMm3J7VF9tLBwxJg-2560-80.jpg
+categories:
+- Technology & Software
+- Home, Garden & DIY
 ---
 
 ![Couple standing on balcony holding solar panel](https://cdn.mos.cms.futurecdn.net/gkmdRXeMm3J7VF9tLBwxJg.jpg) 

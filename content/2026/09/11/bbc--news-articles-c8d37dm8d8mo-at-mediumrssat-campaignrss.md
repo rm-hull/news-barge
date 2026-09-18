@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: France's transport minister says 180 passengers were on board the train
   operating the Rouen-Caen route in Normandy.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e072/live/267036e0-ae24-11f1-9042-891b220b1e31.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Police seal the area after a passenger train derailed in northern France. Photo: 11 September 2026](https://ichef.bbci.co.uk/ace/standard/929/cpsprodpb/e072/live/267036e0-ae24-11f1-9042-891b220b1e31.jpg)

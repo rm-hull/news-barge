@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Blaze near Crawley destroyed 140 vehicles, damaged nearby businesses
   and led to power cuts on Saturday night
 image: https://i.guim.co.uk/img/media/3a70da8db0b25e0cabecb4e290accbd6569e0189/86_0_3576_2863/master/3576.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a56da2d884ca5a31bf0d2099fe83c80a
+categories:
+- UK
+- News & Politics
+- Automotive
 ---
 
 A man has been arrested on suspicion of arson after a fire tore through a car park used by people flying from Gatwick airport, destroying about 140 vehicles.

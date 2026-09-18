@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T13:03:28Z'
 published: '2026-08-18T00:00:00Z'
 description: Ukrainian forces used unmanned aircraft manufactured by two UK companies
 image: https://static.independent.co.uk/2026/08/18/01/110C7qCm-2u4wPkYbbUszJdMfuoUZc_mbj6_dlIT9bb22N4OIN9XdXfzTT-zmyiFrdfu3H-4xaOL6BNfJuZzyVMLheRchh_8ZwcQ..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Russia has warned of “consequences” following reports that British-built drones were deployed to hit targets on its mainland for the first time.

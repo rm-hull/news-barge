@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: York Talking News recently celebrated its 50th anniversary with the release
   of its 600th edition on September 1.
 image: https://www.gazetteherald.co.uk/resources/images/21407417.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 An audio news magazine in York for the visually impaired has marked its 50th anniversary.

@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: Sixty One, a four-star country hotel near Durham is on the market for
   £2.1 million after its price was cut.
 image: https://www.thenorthernecho.co.uk/resources/images/21056694.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: SAVILLS)*

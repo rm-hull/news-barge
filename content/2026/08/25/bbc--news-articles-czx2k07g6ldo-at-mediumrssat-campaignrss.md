@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The singer rose from humble beginnings to become one of the most beloved
   entertainers in the world.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1f38/live/d8f6ed50-4e1f-11f1-ac78-2112837ce2aa.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 **Dolly Parton, the country music superstar from the Smoky Mountains of Tennessee, rose from humble beginnings to become one of the most beloved entertainers in the world.** 

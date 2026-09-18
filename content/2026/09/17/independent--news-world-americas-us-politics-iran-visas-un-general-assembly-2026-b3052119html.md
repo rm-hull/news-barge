@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: The decision on the Iranian visas was announced a day after the State
   Department denied visas to Palestinian President Mahmoud Abbas and his delegation
 image: https://static.independent.co.uk/2026/09/17/19/18/GettyImages-2237118182.jpg?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Trump administration has granted entry visas to key Iranian figures, including the country's president and foreign minister, enabling them to attend next week’s UN General Assembly high-level sessions in New York despite an ongoing conflict between the two nations.

@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Mladić was jailed for genocide during the 1990s Bosnian war and the EU
   warned Serbia not to glorify the convicted war criminal.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1cbf/live/7beeaca0-aac3-11f1-9bcd-4de40c4158ea.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![An Orthodox priest blesses the coffin of late Bosnian Serb military leader Ratko Mladic during a public memorial on the day of his funeral ceremony at St Lukas church in Belgrade, on September 7, 2026](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1cbf/live/7beeaca0-aac3-11f1-9bcd-4de40c4158ea.jpg)

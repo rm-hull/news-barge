@@ -7,6 +7,10 @@ scraped_at: '2026-09-12T12:09:45Z'
 published: '2026-09-12T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/05/traffic-jam-congestion-dreamstime.webp
+categories:
+- Local
+- York
+- Sports
 ---
 
 Drivers are being warned about ‘absolute carnage’ today (Saturday) due to a road closure on the day of a York City home game.

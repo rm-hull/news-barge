@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: Plans have been lodged for a flagship STEM centre in a “major milestone”
   for Darlington’s Science Park.
 image: https://www.thenorthernecho.co.uk/resources/images/21406004.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Science
 ---
 
 *(Image: CITYHEART)*

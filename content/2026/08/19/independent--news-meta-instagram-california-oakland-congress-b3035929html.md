@@ -10,6 +10,11 @@ description: A former engineering director at Meta who has testified before Cong
   about child safety on Instagram told jurors at a landmark trial that the company
   took a “don’t ask, don’t tell” approach on kids under 13 on its platforms
 image: https://static.independent.co.uk/2026/08/19/00/APTOPIX_US_Meta_Trial_37693.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 A former engineering director at Meta who has testified before Congress about child safety on Instagram told jurors Wednesday at a landmark trial that the company took a “don’t ask, don’t tell” approach on kids under 13 on its platforms.

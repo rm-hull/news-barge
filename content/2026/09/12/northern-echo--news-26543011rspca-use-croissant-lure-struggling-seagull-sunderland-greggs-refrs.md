@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: RSPCA officers used a croissant to rescue a seagull tangled in fishing
   line outside a Greggs in Sunderland, later releasing it safely.
 image: https://www.thenorthernecho.co.uk/resources/images/21441481.jpg?type=og-image&xType=0&yType=98
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: RSPCA)*

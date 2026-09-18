@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Money raised from a proposed visitor levy in York “must stay in York”,
   Rachael Maskell MP has said.
 image: https://www.gazetteherald.co.uk/resources/images/21438439.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Newsquest)*

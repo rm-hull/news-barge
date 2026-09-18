@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: A man has been arrested in connection with reported racial abuse in Piccadilly,
   York.
 image: https://www.yorkpress.co.uk/resources/images/21063453.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: A York woman reported missing a week ago has been found safe and well,
   North Yorkshire Police has announced.
 image: https://www.gazetteherald.co.uk/resources/images/19897311.jpg?type=og-image&xType=0&yType=15
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Newsquest Archive)*

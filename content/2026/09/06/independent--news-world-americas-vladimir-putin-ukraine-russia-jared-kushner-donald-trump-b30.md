@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: U.S. envoys Steve Witkoff and Jared Kushner are set to arrive in Kyiv
   as part of a renewed diplomatic push to hold talks over Russia’s war against Ukraine
 image: https://static.independent.co.uk/2026/09/06/09/Russia_US_67522.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 U.S. envoys Steve Witkoff and Jared Kushner are set to arrive in Kyiv on Sunday in their first visit to the Ukrainian capital as part of a renewed push for peace in Russia’s full-scale invasion of Ukraine.

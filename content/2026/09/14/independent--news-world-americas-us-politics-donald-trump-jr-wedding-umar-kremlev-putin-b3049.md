@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Kremlin-connected International Boxing Association chief Umar Kremlev
   funneled money into renting a private island
 image: https://static.independent.co.uk/2026/09/14/15/2294362819..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A Russian oligarch closely tied to Vladimir Putin bankrolled Donald Trump Jr.’s wedding to Bettina Anderson, whose three-day weekend nuptials in the Bahamas cost hundreds of thousands of dollars.

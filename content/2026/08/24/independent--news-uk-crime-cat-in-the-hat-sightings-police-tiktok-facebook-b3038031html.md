@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: The ‘sighting’ videos and images have been shared by a host of accounts
   on TikTok, Facebook and X, many only created within the past week
 image: https://static.independent.co.uk/2026/08/24/11/48/cathat.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Comedy & Entertainment
 ---
 
 Police forces have responded to an online craze showing Dr Seuss’ famous Cat in the Hat character on streets across the UK and Ireland.

@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: A DOLLY Parton Imagination Library project will be set up in a North
   Yorkshire town as part of a plan to encourage reading and school readiness.
 image: https://www.gazetteherald.co.uk/resources/images/21374732.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 A DOLLY Parton Imagination Library project will be set up in a North Yorkshire town as part of a plan to encourage reading and school readiness.

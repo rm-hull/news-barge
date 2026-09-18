@@ -10,6 +10,9 @@ description: Emails reveal that Iranian officials had significant influence over
   Iranian immigrants in the U.S. were sent back to their home country in 2025, despite
   tensions between the countries
 image: https://static.independent.co.uk/2026/08/15/16/46/GettyImages-2267552550.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Newly disclosed emails show U.S. immigration officials worked directly with Iranian representatives to deport Iranian nationals in 2025, even as tensions between Washington and Tehran were escalating.

@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A unique dining event at the Rudding Park Hotel in Harrogate is set to
   challenge the senses and support a good cause.
 image: https://www.gazetteherald.co.uk/resources/images/21427267.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: Eventbrite)*

@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: How the joule thief circuit “steals” energy from seemingly depleted power
   cells.
 image: https://media.wired.com/photos/6a8372555b7045e98c48385f/191:100/w_1280,c_limit/Science_Squeeze%20More%20Juice%20out%20of%20a%20Dead%20Battery!_v1.jpg
+categories:
+- Technology & Software
+- Science
+- Health & Fitness
 ---
 
 You’re walking the dog at night, and your little flashlight, which has been getting dimmer, conks out. Instead of stumbling home in the dark, wouldn't it be great if you could somehow eke a little more energy out of the batteries inside?

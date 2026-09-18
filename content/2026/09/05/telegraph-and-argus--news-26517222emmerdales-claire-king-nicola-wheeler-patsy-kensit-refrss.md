@@ -8,6 +8,12 @@ scraped_at: '2026-09-05T11:50:02Z'
 published: '2026-09-05T00:00:00Z'
 description: IT’S been quite the week in Emmerdale.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21403814.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Comedy & Entertainment
+- Film & TV
 ---
 
 IT’S been quite the week in Emmerdale.

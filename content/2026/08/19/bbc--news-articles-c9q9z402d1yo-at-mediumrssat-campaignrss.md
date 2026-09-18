@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Some pupils in England will be able to see their grades on their phones
   from 11:00 BST on Thursday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b521/live/5e586fc0-9bc6-11f1-98c6-93bfcdb08681.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Education & Learning
 ---
 
 ![A teenage boy with short light brown hair sits indoors, holding and looking at a black smartphone. He wears a light grey sweatshirt over a white shirt. The blurred background features a painting on the wall and a blue sofa behind him.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/b521/live/5e586fc0-9bc6-11f1-98c6-93bfcdb08681.jpg)

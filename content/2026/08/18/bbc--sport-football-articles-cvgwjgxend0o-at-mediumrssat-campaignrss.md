@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Erling Haaland will hope for a record-equalling fourth Golden Boot this
   season - but who could challenge him as the Premier League's top-scorer?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dd0d/live/02d7e550-9184-11f1-9587-294e25c71c14.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 ![Erling Haaland with 2025-26 Premier League Golden Boot](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/dd0d/live/02d7e550-9184-11f1-9587-294e25c71c14.jpg)

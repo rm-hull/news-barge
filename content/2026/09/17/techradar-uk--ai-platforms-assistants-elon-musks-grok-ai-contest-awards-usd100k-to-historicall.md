@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: There are some reasonably impressive visuals in this 5-minute shortened
   down take on The Odyssey, as well as lots of issues.
 image: https://cdn.mos.cms.futurecdn.net/dFVUQKPTxNjF4uS3dH3YD9-2000-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Arts & Culture
 ---
 
 ![The Odyssey in AI](https://cdn.mos.cms.futurecdn.net/dFVUQKPTxNjF4uS3dH3YD9.jpg) 

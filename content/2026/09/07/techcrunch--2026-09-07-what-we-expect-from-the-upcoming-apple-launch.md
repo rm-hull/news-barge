@@ -8,6 +8,9 @@ published: '2026-09-07T00:00:00Z'
 description: While Apple's first foldable iPhone Ultra will headline the September
   9 launch, we're also expecting news about AirPods and HomePods.
 image: https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1182217069.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 It’s finally happening — this week, we are (probably) about to see Apple’s first foldable iPhone, more than five years after Samsung launched its first foldable phone.

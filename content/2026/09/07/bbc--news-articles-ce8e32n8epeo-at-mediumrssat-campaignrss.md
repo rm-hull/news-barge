@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Five people were killed and five others seriously injured when the Boeing
   767-300 overshot the runway at Miami International Airport.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c84c/live/fc526aa0-ab02-11f1-93bd-5b304745dac3.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Homendy: 'In the van were seven persons'

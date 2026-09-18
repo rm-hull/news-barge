@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Sunderland’s Satchi Salons has been named Best Hair Salon of the Year
   at the UK Hair and Beauty Awards, with younger members of the team also…
 image: https://www.thenorthernecho.co.uk/resources/images/21377922.jpg?type=og-image&xType=0&yType=17
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Satchi)*

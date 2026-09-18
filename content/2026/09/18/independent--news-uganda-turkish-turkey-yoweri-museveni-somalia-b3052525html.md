@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Hundreds of Ugandans have demonstrate outside the Turkish Embassy to
   demand the extradition of dissident Fred Lumbuye
 image: https://static.independent.co.uk/2026/09/18/14/Uganda_Turkey_Tensions__6639.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Hundreds of Ugandans demonstrated outside the Turkish Embassy on Friday to demand the extradition of a dissident whose online activities are seen by local authorities as anti-government propaganda.

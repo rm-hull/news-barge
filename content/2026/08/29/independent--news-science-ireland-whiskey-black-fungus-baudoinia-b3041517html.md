@@ -8,6 +8,10 @@ scraped_at: '2026-08-29T19:24:05Z'
 published: '2026-08-29T00:00:00Z'
 description: The ‘angels’ share’ could be more dangerous than we think
 image: https://static.independent.co.uk/2026/08/29/15/2155338352..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Irish whiskey is one of Ireland’s great export success stories. Exports were worth over €930 million in 2025, with the country’s much-loved spirit being sold all over the world.

@@ -8,6 +8,9 @@ scraped_at: '2026-08-19T08:52:02Z'
 published: '2026-08-19T00:00:00Z'
 description: Mykhailo Fedorov says Ukraine faces ‘systemic crisis of governance’
 image: https://static.independent.co.uk/2026/01/14/15/15/G-oQFhKXwAA6GiA.jpeg?trim=0,356,0,113&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Ukraine’s former defence minister has called for wartime elections in a direct challenge to president Volodymyr Zelensky.

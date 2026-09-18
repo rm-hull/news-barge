@@ -8,6 +8,11 @@ scraped_at: '2026-08-19T13:10:15Z'
 published: '2026-08-19T00:00:00Z'
 description: 'From: Otto Inglis, Crossgates, Fife.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjAxODk5ZmNjLTczYjktNDE2OC1iYmE1LTU3YmY4ODgyZmIwYjo2MzkwMjM4YS0wNGYxLTQ4MzgtYjFjYi04ZDRlZWY5YmQwOTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # The British establishment consistently persecutes those who do the right thing - Yorkshire Post Letters

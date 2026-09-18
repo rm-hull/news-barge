@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: Duchy College (formerly Harrogate Ladies’ College) is celebrating pupil
   excellence with an outstandingset of results.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/25/7/09/DesignTechnology.jpeg?trim=60,0,60,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Education & Learning
+- Self-Improvement
 ---
 
 # Duchy College pupils celebrate outstanding exam results after year of hard work

@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: World number one Jannik Sinner and Britain's Jack Draper pull out of
   the upcoming US Open through injury.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 !['Breaking' graphic](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png)

@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: The Hemerdon tungsten and tin mine in Devon will receive up to £71 million
   from the National Wealth Fund.
 image: https://static.independent.co.uk/2026/08/25/11/f307b9034e83d7c7d129068b651cd35dY29udGVudHNlYXJjaGFwaSwxNzg3NzQxMDM3-2.85365880.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 John Healey has said Government investment in a tungsten mine in Devon will help bolster Britain’s defence and nuclear industries.

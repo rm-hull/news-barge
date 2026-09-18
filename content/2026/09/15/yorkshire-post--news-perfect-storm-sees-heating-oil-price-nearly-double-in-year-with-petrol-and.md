@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Customers “can’t afford” the price of heating oil which has nearly doubled
   in price in a year due to a “perfect storm” of world events.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjg3YzUwN2UwLWMxMzctNDRhZi05ODgwLTg3Y2EzNDZhNzIxMzpmNTNhY2I2Yi02NjYzLTQxNjQtYjA2NS1lYzk5MGUyODc1OWI=.jpg?crop=3:2,smart&trim=&width=713&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # 'Perfect storm' sees heating oil price nearly double in year, with petrol and diesel at four-year high

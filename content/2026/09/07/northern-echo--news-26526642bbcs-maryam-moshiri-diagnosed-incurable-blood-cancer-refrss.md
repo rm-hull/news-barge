@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: BBC News presenter Maryam Moshiri, 49, has revealed she has been diagnosed
   with polycythaemia vera (PV), a rare form of blood cancer.
 image: https://www.thenorthernecho.co.uk/resources/images/21417569.jpg?type=og-image&xType=0&yType=239
+categories:
+- Local
+- UK
+- News & Politics
+- Science
+- Health & Fitness
 ---
 
 *(Image: PA)*

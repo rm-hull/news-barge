@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Learning to ride a bike, a classic childhood milestone, is now happening
   in school gyms and playgrounds
 image: https://static.independent.co.uk/2026/09/16/05/Education_Learning_to_Bike_25843.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 For generations, kids have learned how to ride a bike — a quintessential childhood milestone — in driveways, on sidewalks and in neighborhood streets. Now, they're learning in school gyms and playgrounds.

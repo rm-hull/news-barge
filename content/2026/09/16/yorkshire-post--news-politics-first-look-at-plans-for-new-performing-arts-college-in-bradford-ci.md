@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: The first images of a planned 500 student performing arts college in
   the heart of Bradford city centre have been revealed.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRjYjI4ZmRmLTJjMDMtNDY2OS1hZDc1LWVkZDQyMDQ0MTdkMjowMzA5NWY1ZC01YWVhLTQxZjQtYjhhOC1lNzBmZGNhMDQxYjc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # First look at plans for new performing arts college in Bradford city centre

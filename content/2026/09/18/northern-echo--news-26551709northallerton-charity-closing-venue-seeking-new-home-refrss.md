@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: Northallerton charity Hambleton Community Action will close its UpFront
   venue in early December, appealing for help to find a new community base.
 image: https://www.thenorthernecho.co.uk/resources/images/21457561.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 A North Yorkshire charity is closing its Northallerton community venue later this year and is appealing for help to find a new home.

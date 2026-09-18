@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: President Donald Trump is embracing his inner cowboy, seeking to gallop
   into this week’s Republican convention in Dallas
 image: https://static.independent.co.uk/2026/09/08/01/07-57465b58226e45c6bda46314df4896d7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Channeling a western persona, President Donald Trump is heading to Dallas for this week's Republican convention to rescue his party's prospects ahead of the upcoming midterm elections.

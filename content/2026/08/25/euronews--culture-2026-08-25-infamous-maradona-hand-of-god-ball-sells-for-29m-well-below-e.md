@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The Adidas Azteca ball, used for both of Maradona’s goals against England
   in the 1986 World Cup, fell well short of its €8.6 million presale estimate.
 image: https://images.euronews.com/articles/stories/09/88/76/14/1200x675_cmsv2_be1895f8-e823-5a38-af87-cc01d63ad1f1-9887614.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## The Adidas Azteca ball, used for both of Maradona’s goals against England in the 1986 World Cup, fell well short of its €8.6 million presale estimate.

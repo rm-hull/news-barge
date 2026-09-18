@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Prosecutors argued Clancy made a calculated decision to murder the children,
   while the defence argued that she was suffering from postpartum psychosis.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a8d1/live/4db59af0-a240-11f1-804a-af7f2afa0e85.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
+- Law & Justice
 ---
 
 Watch: What is postpartum psychosis and why is it central in the Lindsay Clancy trial?

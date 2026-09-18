@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Budget carrier says airlines could go bust as it cuts passenger targets
   to reduce exposure to ‘unhedged winter oil’
 image: https://i.guim.co.uk/img/media/b52864d4c0b9d2ab7fa534706c339430bddbd71f/183_0_2102_1682/master/2102.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9b8e1af1aafd7a67536c328c85ca1fe
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Ryanair has warned that air fares in Europe will jump next year if the oil price remains high and that some airlines could go bust.

@@ -8,6 +8,11 @@ scraped_at: '2026-09-07T14:13:21Z'
 published: '2026-09-07T00:00:00Z'
 description: About 15,000 people in Britain live with the disease
 image: https://static.independent.co.uk/2024/07/26/15/Sabrina-Carpenter-%281%29.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Science
 ---
 
 BBC News presenter Maryam Moshiri has revealed she is living with blood cancer.

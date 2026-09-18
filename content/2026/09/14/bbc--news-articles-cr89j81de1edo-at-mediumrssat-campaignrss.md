@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Romanian van driver Visile Barbu's appeal against deportation was dismissed
   by a judge.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c183/live/15086f80-b02c-11f1-a540-61c3f7fc4e6c.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Rebecca Comins](https://ichef.bbci.co.uk/ace/standard/918/cpsprodpb/b6ec/live/4b165340-3ae9-11ef-8c96-dd344d6fff85.png)

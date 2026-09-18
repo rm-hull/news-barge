@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Yorkshire Water has launched flood protection schemes in Carlton Miniott
   and Easingwold to tackle long-standing issues.
 image: https://www.gazetteherald.co.uk/resources/images/21334265.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Yorkshire Water)*

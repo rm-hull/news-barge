@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A Calderdale town’s £81 million flood alleviation scheme is not now likely
   to start until 2028, the Environment Agency has confirmed.
 image: https://www.yorkshirepost.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Calderdale town's controversial £81m flood scheme faces new delay

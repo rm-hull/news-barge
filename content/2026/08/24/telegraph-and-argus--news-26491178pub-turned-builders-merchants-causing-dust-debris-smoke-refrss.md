@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Residents objecting to plans to officially turn a former Halifax pub
   into a builders' and plumbers' merchants said dust, debris and smoke…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21161268.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
 ---
 
 ### What is the Public Notice Portal?

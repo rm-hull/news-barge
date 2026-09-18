@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Nat and Nik Fraser-Edwards want a change in the law so once an embryo
   has been made, a donor can't withdraw consent.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/030b/live/2b07d250-a6cf-11f1-b0c9-07afcdd8053c.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Two blonde, white women, one with her hair tied up and the other with her hair down, in big black coats, stand side by side with their arms around each other. Both are smiling and one of them is holding up a pregnancy test and her wedding ring is visible. They are stood on a beach and in the background there is sand, rocks, as well as the sea.](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/030b/live/2b07d250-a6cf-11f1-b0c9-07afcdd8053c.jpg)

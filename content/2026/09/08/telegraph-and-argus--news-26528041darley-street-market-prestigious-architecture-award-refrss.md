@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: Bradford's Darley Street Market has been shortlisted for a prestigious
   architecture award.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20093579.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Other)*

@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T08:55:20Z'
 published: '2026-08-25T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/01/firefighters-demo-hydraulic-cutting-free-car-dreamstime.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 Emergency services were called to a serious crash in York last night (Monday).

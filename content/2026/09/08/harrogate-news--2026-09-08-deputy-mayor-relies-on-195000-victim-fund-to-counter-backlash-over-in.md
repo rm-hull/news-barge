@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: York and North Yorkshire Deputy Mayor Jo Coles has issued a strategic
   public statement on the Government’s incoming emergency prisoner early release scheme,
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Jo-Coles-Headshot-2-1.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 **York and North Yorkshire Deputy Mayor Jo Coles** has issued a strategic public statement on the Government’s incoming emergency prisoner early release scheme, pointing to a newly secured**£195,000 grant** as local authorities brace for a national policy change they cannot block.

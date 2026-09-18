@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Bulls may have come away from Toulouse empty-handed on the scoreboard,
   but the club's travelling supporters ensured the atmosphere felt like a…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21396156.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 Bradford Bulls may have come away from Toulouse empty-handed on the scoreboard, but the club's travelling supporters ensured the atmosphere felt like a home game in the south of France.

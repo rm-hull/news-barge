@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A video accompanying the announcement showed military personnel boarding
   a ship
 image: https://static.independent.co.uk/2026/09/08/7/50/Screenshot-2026-09-08-at-08-30-32.png?trim=0,63,0,63&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The US has celebrated the sinking of another Ecuadorian boat that it claims was linked to the criminal group Los Choneros.

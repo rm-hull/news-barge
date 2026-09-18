@@ -9,6 +9,9 @@ description: Harp’s relationship with Trump has recently been under scrutiny a
   it was revealed that she was in the catering truck with the president during his
   secret plane swap in July
 image: https://static.independent.co.uk/2026/09/09/19/45/GettyImages-2290266450.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The White House has defended President Donald Trump’s $45,000 gifts to his close aide Natalie Harp and other young women in the administration.

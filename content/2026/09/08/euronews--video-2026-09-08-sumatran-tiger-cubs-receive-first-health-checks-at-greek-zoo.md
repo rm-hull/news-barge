@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Video. Three critically endangered Sumatran tiger cubs receive vaccinations
   and microchips at a zoo near Athens as part of conservation efforts.
 image: https://images.euronews.com/articles/stories/09/90/58/53/1200x675_cmsv2_c13bb4c1-f530-5e5f-9865-4e8e3fa1ed8e-9905853.jpg
+categories:
+- Europe
+- News & Politics
+- Health & Fitness
 ---
 
 Three Sumatran tiger cubs have undergone their first health checks at Attica Zoological Park near Athens, receiving vaccinations and microchips for identification. Born in July, the two-month-old cubs were briefly separated from their mother for the examination.

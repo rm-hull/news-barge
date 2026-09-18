@@ -9,6 +9,10 @@ description: At least 161 deaths have been linked to the disruption that followe
   US aid cuts by new research, Liz Cookman reports. Half of them were women who died
   during pregnancy or childbirth, and 30 were newborn or foetal deaths
 image: https://static.independent.co.uk/2026/09/03/13/2232011419..?trim=0,6,0,6&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A newborn was admitted to Nangarhar Regional Hospital in eastern Afghanistan in February last year with sepsis and birth asphyxia, needing a constant supply of oxygen to survive. Yet the oxygen plant that supplied piped oxygen to 50 paediatric beds had stopped functioning – a month before, the Trump administration had ordered a freeze on US foreign aid.

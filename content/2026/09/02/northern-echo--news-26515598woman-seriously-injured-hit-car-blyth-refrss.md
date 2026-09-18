@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A woman in her 40s remains in hospital after suffering serious injuries
   in a collision involving a Ford Kuga at a Blyth roundabout.
 image: https://www.thenorthernecho.co.uk/resources/images/21401429.jpg?type=og-image&xType=0&yType=228
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Northumbria Police)*

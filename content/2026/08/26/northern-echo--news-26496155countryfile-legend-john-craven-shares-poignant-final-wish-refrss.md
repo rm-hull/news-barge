@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: BBC Countryfile legend John Craven has shared a "poignant final wish"
   according to a new report.
 image: https://www.thenorthernecho.co.uk/resources/images/21012662.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Jon Lewis)*

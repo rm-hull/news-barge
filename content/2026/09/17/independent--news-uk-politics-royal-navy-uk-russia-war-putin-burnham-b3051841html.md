@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Navy chief Sir Gwyn Jenkins believes Russia is ‘the greatest threat to
   our security today’
 image: https://static.independent.co.uk/2026/09/17/12/2295029335..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 The UK must bolster its warfighting readiness as Russia "is probing us for weakness" in the North Atlantic, the head of the Navy has warned.

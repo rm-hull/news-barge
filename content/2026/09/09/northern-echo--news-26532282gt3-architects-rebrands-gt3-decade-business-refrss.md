@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: Newcastle-based GT3 Architects will now be known simply as GT3 after
   marking a decade in business.
 image: https://www.thenorthernecho.co.uk/resources/images/21425907.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 An architecture firm has marked a decade in business with a new name, brand and website.

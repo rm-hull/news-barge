@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Lisa Nandy says government will introduce legislation after talks end
   without breakthrough
 image: https://i.guim.co.uk/img/media/0be792a79d390397c89f84c4dad23ed8ae0f956a/255_0_1477_1181/master/1477.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6d720878094b564f7174680455812304
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Apple and Google will be forced to block explicit images on children’s smartphones by law in the UK after talks failed to produce a breakthrough, the government has said.

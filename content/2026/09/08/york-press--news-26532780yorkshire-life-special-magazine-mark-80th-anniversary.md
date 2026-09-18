@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T19:24:56Z'
 published: '2026-09-08T00:00:00Z'
 description: Yorkshire Life is celebrating 80 years with a special anniversary edition.
 image: https://www.yorkpress.co.uk/resources/images/21349144.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Yorkshire Life celebrates 80 years with special anniversary edition

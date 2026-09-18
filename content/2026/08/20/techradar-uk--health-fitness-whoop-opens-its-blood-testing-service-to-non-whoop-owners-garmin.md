@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: Whoop’s Advanced Labs blood-testing service no longer requires a Whoop
   membership, opening access to Apple and Garmin users.
 image: https://cdn.mos.cms.futurecdn.net/A8grFDVDUrotc8YjDcsUzG-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A Garmin watch, a Whoop band and an Apple Watch side by side.](https://cdn.mos.cms.futurecdn.net/A8grFDVDUrotc8YjDcsUzG.jpg) 

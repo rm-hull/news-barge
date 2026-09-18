@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: It’s cosmic justice that Darlene Love, whose career in music so often
   went uncredited in her youth, still sings so well at age 85
 image: https://static.independent.co.uk/2026/09/14/23/2_26_TIFF_-__Darlene_Love__I_Know_Where_I%27ve_Been__Portrait_Session_48378.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 It’s cosmic justice that Darlene Love, whose career in music so often went uncredited in her youth, still sings so well at age 85.

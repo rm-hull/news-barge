@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: M&S has revealed it is bringing back its gingerbread and white chocolate
   cookies for the festive period.
 image: https://www.thenorthernecho.co.uk/resources/images/19397390.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Jonathan Brady/PA Wire)*

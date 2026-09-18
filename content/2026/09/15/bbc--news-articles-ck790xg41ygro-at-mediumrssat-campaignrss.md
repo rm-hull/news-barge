@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The US Air Force Secretary says the weapons are necessary to defend the
   country against enemy action.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea01/live/8817c3e0-b0a4-11f1-a49c-4d6441eda2b0.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![The Pituffik Space Base (formerly Thule Air Base) is pictured in northern Greenland, on October 4, 2023. It shows a large satelitte dish in front of containers, with a cloudy orange sky in the background.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ea01/live/8817c3e0-b0a4-11f1-a49c-4d6441eda2b0.jpg)

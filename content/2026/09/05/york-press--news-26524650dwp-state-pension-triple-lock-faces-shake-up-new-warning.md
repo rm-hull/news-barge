@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: The State Pension triple lock could be replaced with a “double lock”,
   a former Conservative pensions secretary has suggested, in a major warning…
 image: https://www.yorkpress.co.uk/resources/images/21411955.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Maja Smiejkowska)*

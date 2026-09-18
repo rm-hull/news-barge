@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Denby has closed down all of its remaining stores earlier than expected
   following high demand.
 image: https://www.yorkpress.co.uk/resources/images/21374364.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Denby)*

@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: The chief constable of Cleveland Police has praised her “selfless” and
   “committed” force, but said it needs more funding.
 image: https://www.thenorthernecho.co.uk/resources/images/21415122.jpg?type=og-image&xType=0&yType=56
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: NORTHERN ECHO)*

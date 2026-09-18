@@ -8,6 +8,8 @@ scraped_at: '2026-09-18T04:33:19Z'
 published: '2026-09-17T00:00:00Z'
 description: Trustworthy cases to protect your new handset
 image: https://cdn.mos.cms.futurecdn.net/xaWHXZAwCpErmfkTF37Ucg-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Google Pixel 11 cases](https://cdn.mos.cms.futurecdn.net/xaWHXZAwCpErmfkTF37Ucg.jpg) 

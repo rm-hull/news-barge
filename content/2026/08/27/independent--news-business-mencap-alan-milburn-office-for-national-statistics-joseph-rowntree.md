@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T12:01:25Z'
 published: '2026-08-27T00:00:00Z'
 description: The total of so-called Neets had gone over a million earlier this year.
 image: https://static.independent.co.uk/2026/08/27/10/27095542-4274b2df-8c17-41d4-9d73-b64652dd12cd.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The number of young people not in education, employment or training has fallen in recent months after going over one million earlier this year, official figures have shown.

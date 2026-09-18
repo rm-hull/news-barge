@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Discover more about Retro Gaming with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/g9mwqfQ48c4bbCPufZvAWh-320-80.png
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Donkey Kong 64: Recompiled](https://cdn.mos.cms.futurecdn.net/g9mwqfQ48c4bbCPufZvAWh-320-80.png)

@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: As the UN adopts a new world map to reflect Africa's true size, let's
   take a closer look at what different maps get right and wrong.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e80e/live/d224a510-a92f-11f1-bb81-8fbd2d2d397c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- History
 ---
 
 ![Side-by-side maps of Africa comparing two map projections. The Mercator projection on the left makes Africa appear smaller in comparison with Europe to its north. The Equal Earth projection on the right shows a longer, more proportionally accurate shape of the continent.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/722b/live/e7c4b610-a873-11f1-b109-879e35c24276.png)

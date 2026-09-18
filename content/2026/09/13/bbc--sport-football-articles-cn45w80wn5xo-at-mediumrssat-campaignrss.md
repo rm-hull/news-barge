@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Enzo Maresca and Michael Carrick will go head to head in Sunday's Manchester
   derby, with their teams set up very differently.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9ccb/live/718bc0c0-ae35-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A stylistic compilation of Manchester City manager Enzo Maresca and Manchester United boss Michael Carrick in the foreground and Erling Haaland and Bruno Fernandes in the background.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/9ccb/live/718bc0c0-ae35-11f1-b1d1-571ed4d7ff2c.jpg)

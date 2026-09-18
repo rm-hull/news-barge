@@ -9,6 +9,12 @@ published: '2026-09-04T00:00:00Z'
 description: Police are looking for missing 14-year-old Ava Rose-White, who was last
   seen in Middlesbrough town centre.
 image: https://www.thenorthernecho.co.uk/resources/images/21409650.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 *(Image: Cleveland Police)*

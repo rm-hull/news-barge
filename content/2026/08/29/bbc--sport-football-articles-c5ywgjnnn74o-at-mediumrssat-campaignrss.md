@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Liverpool are closing in on a deal to sign forward Bradley Barcola, which
   will increase doubts over Cody Gakpo's future.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/999a/live/4e4ad390-a394-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Bradley Barcola celebrates a goal for France](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/999a/live/4e4ad390-a394-11f1-a291-b542ee92de7c.jpg)

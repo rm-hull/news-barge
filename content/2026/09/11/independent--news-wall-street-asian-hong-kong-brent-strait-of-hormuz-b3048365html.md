@@ -7,6 +7,11 @@ scraped_at: '2026-09-11T12:49:48Z'
 published: '2026-09-11T00:00:00Z'
 description: Asian shares are declining while tracking Wall Street losses
 image: https://static.independent.co.uk/2026/09/10/04/South_Korea_Financial_Markets_88735.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Asian shares declined Friday tracking Wall Street losses, while oil prices gained with Brent crude trading above $108 a barrel in its highest since May.

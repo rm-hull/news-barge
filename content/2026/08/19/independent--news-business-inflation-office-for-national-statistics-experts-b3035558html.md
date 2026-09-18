@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Experts are predicting further inflation pain later this year caused
   by the ongoing Middle East conflict.
 image: https://static.independent.co.uk/2026/08/19/11/19110313-785b8520-d992-4249-9cca-0123347f5282.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Inflation has hit its highest level since early spring after last month’s double-digit hike in energy prices.

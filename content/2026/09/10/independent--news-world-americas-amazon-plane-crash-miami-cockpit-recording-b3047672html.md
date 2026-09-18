@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Five people were killed after the plane smashed into a cleaning company
   van Sunday afternoon
 image: https://static.independent.co.uk/2026/09/10/1/46/GettyImages-2294018978.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 One of the pilots of the Amazon cargo plane that overshot a runway at Miami International Airport warned they were going too fast for landing, the National Transportation Safety Board has said.

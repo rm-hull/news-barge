@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: Matthew DuPlessis, 35, was given a sentence of nine years and three months
   following the death of Charlotte Dodd
 image: https://static.independent.co.uk/2026/08/29/22/01M17N3S9PTX17S5ATJCA86Y4H.jpg?trim=415,0,415,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A man who initially lied to police by claiming his girlfriend was killed in a hit-and-run has been jailed over her death.

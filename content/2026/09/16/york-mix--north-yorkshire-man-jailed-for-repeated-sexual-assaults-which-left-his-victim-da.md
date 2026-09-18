@@ -8,6 +8,10 @@ scraped_at: '2026-09-16T22:54:19Z'
 published: '2026-09-16T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/malcolm-peirson-dale.webp
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 A 62-year-old man has been jailed for over 11 years for repeatedly sexually assaulting a much younger woman who had been left “psychologically damaged”.

@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: BRADFORD Council is introducing 'no waiting at any time' restrictions
   on Thornton Road and Water Lane.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21350281.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Google Street View)*

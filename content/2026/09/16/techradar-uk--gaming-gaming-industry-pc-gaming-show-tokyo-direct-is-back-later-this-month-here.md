@@ -8,6 +8,10 @@ scraped_at: '2026-09-16T19:31:39Z'
 published: '2026-09-16T00:00:00Z'
 description: Here's how you can catch this weekend's The PC Gaming Show Tokyo Direct.
 image: https://cdn.mos.cms.futurecdn.net/srg7QsE9Kw3G9dgF2cibCQ-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
+- Sports
 ---
 
 ![The key art for the 2026 PC Gaming Show Tokyo Direct presentation](https://cdn.mos.cms.futurecdn.net/srg7QsE9Kw3G9dgF2cibCQ.jpg) 

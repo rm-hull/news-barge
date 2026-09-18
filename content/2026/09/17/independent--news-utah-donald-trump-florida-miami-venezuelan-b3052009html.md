@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Many Venezuelan immigrants are shunning Florida and turning instead to
   communities in places like Utah
 image: https://static.independent.co.uk/2026/09/17/11/APTOPIX_After_The_Border_Shunning_Florida_5_389.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Society & Culture
 ---
 
 Snow-covered mountains ringing a valley of wide, free-flowing roads remind Venezuelan transplants that the growing suburbs south of Salt Lake City offer what Miami can’t.

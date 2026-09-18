@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: Mykhailo Fedorov’s appeal is most direct challenge to Volodymyr Zelenskyy
   since Russian invasion in 2022
 image: https://i.guim.co.uk/img/media/fc39a51604167a9a72d7d2a0db42086333854387/1024_0_2384_1906/master/2384.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=884539a417c68e7dd15e352a0e667241
+categories:
+- UK
+- News & Politics
 ---
 
 Ukraine’s recently dismissed former defence minister Mykhailo Fedorov has called for a wartime presidential election in the most direct political challenge to Volodymyr Zelenskyy since the start of Russia’s full-scale invasion in 2022.

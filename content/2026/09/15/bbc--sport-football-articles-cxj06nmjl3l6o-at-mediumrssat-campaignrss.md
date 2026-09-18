@@ -10,6 +10,10 @@ description: After Brentford overcame Reading to reach the Carabao Cup fourth ro
   head coach Keith Andrews believes the video assistant referee (VAR) is preventing
   referees from making decisions in matches.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/42c4/live/be018000-b152-11f1-8912-fb2bed4049e7.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Keith Andrews with his hands together](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/42c4/live/be018000-b152-11f1-8912-fb2bed4049e7.jpg)

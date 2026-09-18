@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Louise Haigh made the announcement to the Trade Unions Congress (TUC)
   in Brighton
 image: https://static.independent.co.uk/2026/09/15/16/20fb61dd33c541b9780be77fcf11e999Y29udGVudHNlYXJjaGFwaSwxNzg5NTcxOTgx-2.85864090.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Labour has pledged to make it harder for employers to block staff doing their job from home, in a bid to hand more power to workers.

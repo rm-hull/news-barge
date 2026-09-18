@@ -9,6 +9,11 @@ description: Lausanne marked a major day for Swiss judo as the 2028 World Champi
   agreement was signed, the Grand Slam was officially opened and adaptive judo athletes
   joined the action. Aurélien Bonferroni’s bronze delighted the home crowd.
 image: https://images.euronews.com/articles/stories/09/89/36/95/1200x675_cmsv2_d1478597-75e8-5711-9964-de4c28ad3de3-9893695.jpg
+categories:
+- Europe
+- News & Politics
+- History
+- Sports
 ---
 
 **Euronews with IJF**

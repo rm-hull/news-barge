@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: Steve Witkoff and Jared Kushner have visited Moscow and Kyiv over the
   weekend
 image: https://static.independent.co.uk/2026/09/06/13/2026-09-06T113237Z_813050006_RC2MDNA0WDY8_RTRMADP_3_UKRAINE-CRISIS-USA-ENVOYS.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Negotiations between Ukraine and the US have been hailed as “very substantive” by Zelensky, as the Trump administration renewed its push to end Russia's four-and-a-half-year war in Ukraine.

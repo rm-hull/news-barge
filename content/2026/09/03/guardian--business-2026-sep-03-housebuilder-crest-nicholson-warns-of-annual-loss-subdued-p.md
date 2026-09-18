@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: Firm will complete fewer homes than expected in year to 31 October –
   between 1,350 and 1,400
 image: https://i.guim.co.uk/img/media/e40551b2a9ebc44ab3390c76ab456a04a0f35a87/1002_368_3208_2569/master/3208.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7919afc752081a928fe79ef83bb68bc
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Real Estate
 ---
 
 The British housebuilder Crest Nicholson has warned of a surprise loss this year as it bemoaned difficult trading in a “subdued” property market.

@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: State government says ‘breach bail, go to jail’ laws raise risk of overcrowding
   in jails, while one expert warns they may lead to ‘cruel outcomes’
 image: https://i.guim.co.uk/img/media/81ea877f0a3272230c0b602e079db440cb4dcb54/613_0_4187_3350/master/4187.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cafd1172d72578ae43fbd86a58abb62e
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The Queensland government’s latest law and order crackdown – subjecting some children as young as 10 to a mandatory sentence of a year behind bars – could lead to “cruel outcomes”, according to human rights lawyers.

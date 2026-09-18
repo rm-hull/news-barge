@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: Harvard University Medical School has agreed to pay $53 million to settle
   a class action lawsuit over its former morgue manager’s illegal sale of human remains
 image: https://static.independent.co.uk/2026/08/20/23/Harvard_Body_Parts_Suit_74128.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Harvard Medical School says it agreed to pay $53 million to settle class action lawsuits by relatives of body donors whose remains were sold on the black market by its former morgue manager.

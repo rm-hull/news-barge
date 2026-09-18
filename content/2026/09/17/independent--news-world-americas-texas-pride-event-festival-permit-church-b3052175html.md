@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: The Southlake City Council approved the permit for the Pride event last
   year
 image: https://static.independent.co.uk/2026/09/17/21/28/Screenshot-2026-09-17-at-5-10-42-PM.png?trim=0,73,0,187&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 City officials in Southlake, Texas, have denied a Pride festival a permit to hold an event scheduled for this October despite granting the same permit last year, according to local reports.

@@ -9,6 +9,9 @@ scraped_at: '2026-08-20T13:07:12Z'
 published: '2026-08-20T00:00:00Z'
 description: PineNote and PineTab2 stock is expected to run dry within three months.
 image: https://cdn.mos.cms.futurecdn.net/vrcuV9XtYLVH8Vr6HXifeF-1280-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![The PineNote revealed](https://cdn.mos.cms.futurecdn.net/vrcuV9XtYLVH8Vr6HXifeF.jpg) 

@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Fans are flocking to Leeds Festival in their thousands in time for its
   Thursday night launch at Bramham Park.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmFjNjUxYTEzLTJmZDMtNDgzMy1hYmRlLWFmNmQxY2Q0NGI1MzowY2RjZTViOS05ZjI4LTQ5YjYtYmYxYS02Y2MyNjVmM2FiZTU=.jpg?crop=3:2,smart&trim=&width=1179&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 # Everything you need to know if you are going to Leeds Festival 2026 to see headliners Charli xcx, Florence & The Machine and Fontaines DC

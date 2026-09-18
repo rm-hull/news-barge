@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: A Durham restaurant is offering diners who live in a DH postcode 10 per
   cent off their bill under a new local discount scheme.
 image: https://www.thenorthernecho.co.uk/resources/images/17678419.jpg?type=og-image&xType=0&yType=360
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: The Northern Echo)*

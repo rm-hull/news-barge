@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: PARENTS are being warned that term-time holidays could now lead to higher
   fines.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21362280.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: Getty Images)*

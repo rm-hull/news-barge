@@ -9,6 +9,12 @@ published: '2026-09-11T00:00:00Z'
 description: A former York firefighter who travelled to New York after the 2001 terrorist
   attack on the World Trade Center has recalled the “utter dismay” of…
 image: https://www.yorkpress.co.uk/resources/images/21432151.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Sports
+- News & Politics
 ---
 
 *(Image: Bruce Reid)*

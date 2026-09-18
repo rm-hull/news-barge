@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: UK national security advisor says Europe should be ready to endure 'real
   hardship' this winter to keep economic pressure on Moscow
 image: https://static.independent.co.uk/2026/09/13/9/45/Screenshot-2026-09-13-at-10-26-04.png?trim=0,97,0,96&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 A Ukrainian sea drone shot and destroyed a Russian unmanned boat in what Volodymyr Zelensky’s navy says marks the “first-ever naval battle” between maritime drones.

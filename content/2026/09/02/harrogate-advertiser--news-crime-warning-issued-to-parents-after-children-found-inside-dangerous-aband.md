@@ -10,6 +10,11 @@ description: Parents and carers are being urged to speak to their children about
   dangers of exploring abandoned buildings after two youngsters were found inside
   a derelict property in Harrogate.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmMxOWM1YTk4LTNiMzUtNGUyMi05ZmI3LTU1MmE0YWNmYmM4ZTplMGQzZTExYi1kZmVlLTQ5YmItOGE4NS1jZWI1OGJjZjVmZDA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Family & Parenting
+- Society & Culture
 ---
 
 # Warning issued to parents after children found inside dangerous abandoned building in Harrogate

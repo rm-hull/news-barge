@@ -10,6 +10,12 @@ description: There’s a fine line between comedy and condescension. Someone rea
   should explain it to the people at the Met Office who thought they could make us
   all laugh by naming acts of God after cartoon characters.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjhiNWRmYTc0LTIwNjctNDJiZi1hYzBkLTI5NmQ3ZGNjMWEzNzo4M2RlYTdlYy1mMDUxLTRmYWMtOWI5NC0wZjMxZjljOWE2ODM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 # Why is the Met Office making light of human misery with silly names for storms? - David Behrens

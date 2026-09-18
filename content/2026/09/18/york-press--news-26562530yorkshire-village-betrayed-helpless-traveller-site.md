@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Furious residents say they feel “betrayed and helpless” after a Traveller
   site was built in the North Yorkshire countryside without planning…
 image: https://www.yorkpress.co.uk/resources/images/21473070.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Villagers left 'betrayed and helpless' by Traveller site build

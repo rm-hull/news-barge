@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The prime minister Andy Burnham has said that the couple’s security arrangements
   were a ‘private matter’
 image: https://static.independent.co.uk/2026/08/19/22/72upjKg60WlgC5Tr8WyLNlfSKvlrUmkl7k3gq8SHKcQC0dWDUJP0ohuvXIERRulAySBgoBxgrfgL3HQfn7fjdA60JgECFFdKKMGj..?trim=201,0,200,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The public thinks Prince Harry and Meghan should pay for all or at least part of their security detail, a new poll has revealed.

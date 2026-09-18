@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: AWARD-WINNING comedian Michael Spicer is heading back on tour and he
   is coming to Leeds.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21375994.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Comedy & Entertainment
 ---
 
 *(Image: Rebecca Willow)*

@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Rubbish left in York streets for weeks has now been collected following
   anger over bin bags being ripped open and becoming fly-infested.
 image: https://www.yorkpress.co.uk/resources/images/21369479.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 ## 'Ripped apart and fly-infested' rubbish collected from York streets after outcry

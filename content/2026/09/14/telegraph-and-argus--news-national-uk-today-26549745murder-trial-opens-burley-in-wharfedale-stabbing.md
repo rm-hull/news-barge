@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: A jury has heard how a man allegedly fatally wounded a stranger outside
   his on/off partner’s flat by deliberately stabbing him once in the abdomen…
 image: https://www.thetelegraphandargus.co.uk/resources/images/20611112.jpg?type=og-image&xType=0&yType=113
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

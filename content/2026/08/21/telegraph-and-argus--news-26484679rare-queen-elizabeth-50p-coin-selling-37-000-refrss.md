@@ -9,6 +9,12 @@ published: '2026-08-21T00:00:00Z'
 description: A rare Queen Elizabeth 50p coin is selling for over £37,000 - more than
   74,000 times its face value.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21349628.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: eBay)*

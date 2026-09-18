@@ -8,6 +8,8 @@ published: '2026-08-19T00:00:00Z'
 description: Apple may have accidentally leaked its AirPods with Cameras plans, and
   it's clear that this is the last thing our ears need.
 image: https://cdn.mos.cms.futurecdn.net/SeyySRCWyA8uETQ8MbGzdB-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Apple AirPods Pro 3 either worn by a man standing in front of a red-brick wall, or on a table with gray twine cover](https://cdn.mos.cms.futurecdn.net/SeyySRCWyA8uETQ8MbGzdB.jpg) 

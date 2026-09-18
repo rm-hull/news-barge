@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Customers in England and Wales will be able to use digital IDs to buy
   alcohol so people do not need to give out "sensitive personal…
 image: https://www.thenorthernecho.co.uk/resources/images/21454338.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Customers will be able to use a digital ID to purchase alcohol under new government rules from Tuesday (September 15).

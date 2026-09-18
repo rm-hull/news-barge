@@ -12,6 +12,12 @@ description: The big event for North Yorkshire this last weekend was Stage 4 of 
   to healthy diets and popular sport, it`s now sponsored by Lloyds Bank, with an ever-increasing
   media profile.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE3NDcwNGE0LWRhYTQtNGUyZi1iMGViLWE1MTg2ZjhiMzc0OTo1YmQ3OGJjNC1mN2EyLTRhNDQtOGU1OC03OTkxZTNhNDk1YzU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
+- Sports
 ---
 
 # Tour of Britain shone a spotlight on North Yorkshire’s glorious landscape - Carl Les

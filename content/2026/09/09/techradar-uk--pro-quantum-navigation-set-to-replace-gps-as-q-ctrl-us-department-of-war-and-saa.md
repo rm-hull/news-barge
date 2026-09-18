@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Three countries just tested GPS-free navigation in the air, at sea, and
   across military radar networks
 image: https://cdn.mos.cms.futurecdn.net/U8EMRgNDt3a9Cv8iNUaaNE-1920-80.jpeg
+categories:
+- Technology & Software
+- Science
+- Travel
 ---
 
 ![iPhone 13 rumors](https://cdn.mos.cms.futurecdn.net/U8EMRgNDt3a9Cv8iNUaaNE.jpeg) 

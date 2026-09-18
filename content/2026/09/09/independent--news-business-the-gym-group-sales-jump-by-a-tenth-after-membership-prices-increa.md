@@ -7,6 +7,11 @@ scraped_at: '2026-09-09T12:57:08Z'
 published: '2026-09-09T00:00:00Z'
 description: Membership numbers also topped one million during the first half of 2026.
 image: https://static.independent.co.uk/2026/09/09/08/c3049b89458ea323b86d8a19eed23a28Y29udGVudHNlYXJjaGFwaSwxNzg5MDIyMzUw-2.79366347.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Sports
 ---
 
 The Gym Group has revealed its sales jumped by a tenth in the first half of the year after increasing its prices and topping one million members.

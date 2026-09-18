@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Self-described misogynist and his brother, Tristan, are playing role
   to generate income from online attention, Miami court filing says
 image: https://i.guim.co.uk/img/media/7d16680c74e0c75f771a9977f473a8c52bc08317/38_0_6668_5336/master/6668.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2be57bd83df76f5badc9047a33c19694
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Andrew Tate rented supercars and borrowed a yacht to appear “uberwealthy” and generate online engagement, his lawyer has said.

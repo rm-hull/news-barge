@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: St Ives Country Park has things for children to do as well as lots of
   walking routes to follow.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21354934.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
 ---
 
 If you are looking for a day out that “offers something for the whole family”, you might want to visit St Ives Country Park.

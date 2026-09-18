@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The United States plans to send a military hospital ship to Peru’s Pacific
   coast next year to help with the effects of El Nino
 image: https://static.independent.co.uk/2026/08/20/01/Peru_US_El_Nino_77_95.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 The United States will send a military hospital ship to Peru’s Pacific coast next year to help Peru cope with the effects of the El Nino climate phenomenon as part of a broader collaboration with the South American country, U.S. Ambassador to Peru Bernie Navarro announced Wednesday.

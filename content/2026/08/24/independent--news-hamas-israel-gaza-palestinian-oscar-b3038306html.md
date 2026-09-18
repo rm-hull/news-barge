@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The Venice Film Festival has added a new documentary about the civilian
   toll of the Israel-Hamas war to its lineup
 image: https://static.independent.co.uk/2026/08/24/15/Venice_Film_Festival-Gaza_55579.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 The Venice Film Festival has added a new documentary about the civilian toll of the Israel-Hamas war to its lineup. “NAZA,” from two of the filmmakers behind the Oscar-winning documentary “No Other Land,” will screen in the main competition, festival organizers said Monday.

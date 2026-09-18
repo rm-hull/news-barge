@@ -10,6 +10,11 @@ description: There are not many hearing emergencies that require someone going t
   Sudden Sensorineural Hearing Loss (SSNHL) and is one of the few genuine hearing
   emergencies.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjEwNDliZDgwLTQ0ODUtNGY4MC04MTA0LTEzMjE0Y2M5OTZmODo4Mzk5MzEzNS1jYzU1LTRiODYtYTYyMC02MGVkZDUyNDU3ZjU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # Urgent action is needed in the case of sudden hearing loss - Andy Armitage

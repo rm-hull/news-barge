@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: The retailer told shareholders that Mr McDonald has replaced Tim Morris
   in the role with immediate effect.
 image: https://static.independent.co.uk/2025/09/19/16/19162148-f996c6f8-c1ee-446d-846e-331948f7528e.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Iain McDonald has returned to Debenhams as the online fashion firm’s chairman as it continues its major turnaround programme.

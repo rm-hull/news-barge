@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Republicans have done little to distance themselves from the president’s
   most unpopular policies, Eric Garcia writes. That will cost them
 image: https://static.independent.co.uk/2026/08/24/14/17/GettyImages-2290822103.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 President Donald Trump took time Monday to threaten a 50 percent tariff on cars and auto parts produced in Canada - and give members of his own party yet another controversial decision to defend on the campaign trail.

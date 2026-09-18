@@ -8,6 +8,9 @@ published: '2026-08-30T00:00:00Z'
 description: The prime minister says he will keep hundreds more criminals behind bars
   but doing so requires complex changes.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bfa2/live/0733f3e0-a445-11f1-a751-eff8928911ec.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 Watch: PM confirms PC Harper's killers will remain in prison

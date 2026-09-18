@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Two-year-old Mollie Murray from Montrose has a rare genetic disorder
   that makes her extremely sensitive to ultraviolet light
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f12d/live/f5b7a5f0-9fb0-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 ![A woman with a spotty top sits on a sofa next to a child in a red outfit](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/fc73/live/8a0f1420-9f9a-11f1-a83c-33ebef033ca4.jpg)

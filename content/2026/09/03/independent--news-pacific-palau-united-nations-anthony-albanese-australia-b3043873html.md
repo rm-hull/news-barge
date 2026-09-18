@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Stormy weather can send the Pacific Ocean flooding into people's homes
   in small, remote island nations
 image: https://static.independent.co.uk/2026/09/03/06/Palau_Pacific_Islands_Forum_61_87.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Travel
 ---
 
 When stormy seas batter Melekeok state on Palau’s biggest island, the Pacific Ocean floods right into people’s homes.

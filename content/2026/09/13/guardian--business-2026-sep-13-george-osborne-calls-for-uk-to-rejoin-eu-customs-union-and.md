@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Ex-Tory chancellor says economy has ‘fallen off a cliff’ since Brexit
   but rejoining union could be ‘quite simple’
 image: https://i.guim.co.uk/img/media/a3bad83b962aca5c7b73784f9b4dc90c8428f85f/578_0_5511_4410/master/5511.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3974ffc68cc7c950b52bd41a7a939cef
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The former chancellor George Osborne said Britain’s economy had “fallen off a cliff” since Brexit and that rejoining the European Union’s customs union would be the fastest route to recovery.

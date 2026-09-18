@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: A Harrogate jeweller has revealed the UK's most popular proposal locations
   and launched a competition for engaged couples.
 image: https://mmo.aiircdn.com/409/6a8d8d635d9bee94234.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8d8d635d9bee94234.jpg) 

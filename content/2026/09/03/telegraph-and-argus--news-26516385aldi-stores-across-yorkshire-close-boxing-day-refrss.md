@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: ALDI stores in Yorkshire will close on Boxing Day to give staff a proper
   break it has been confirmed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20590752.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Daniel Graves)*

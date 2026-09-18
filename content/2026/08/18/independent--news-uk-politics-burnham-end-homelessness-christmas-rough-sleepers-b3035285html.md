@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: This week, the government has committed to ‘offer everyone a route off
   the streets this Christmas’
 image: https://static.independent.co.uk/2026/08/18/12/fdd383dcf39c0b7597a38f2e4546db93Y29udGVudHNlYXJjaGFwaSwxNzg3MTM4MDE0-2.85564288.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Andy Burnham has promised to work to "get everyone in for Christmas" as part of his ongoing pledge to eradicate rough sleeping.

@@ -10,6 +10,11 @@ description: Caught in the crossfire of an increasingly violent internal war are
   civilians living around Colombia’s primary cocaine trafficking routes in northern
   and western areas of the country. Alex Croft reports
 image: https://static.independent.co.uk/2026/09/11/15/2239832054..?trim=0,8,0,8&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 As Colombian troops push through the dense Amazon rainforest in a full-scale war against guerrilla militant groups, technology is reshaping how they fight.

@@ -8,6 +8,8 @@ published: '2026-09-17T00:00:00Z'
 description: 'Umamusume: Pretty Derby is coming to a major motorsport event in a new
   collaboration.'
 image: https://cdn.mos.cms.futurecdn.net/gMNTZLBp29ctLGFHCVr8ng-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Umamusume: Pretty Derby is a popular mobile game.](https://cdn.mos.cms.futurecdn.net/gMNTZLBp29ctLGFHCVr8ng.png) 

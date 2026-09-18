@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: All Creatures Great and Small is returning for Series 7 – but where is
   Darrowby? The fictional town is filmed in the Yorkshire Dales village of…
 image: https://www.thenorthernecho.co.uk/resources/images/21381583.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 *(Image: CHANNEL5)*

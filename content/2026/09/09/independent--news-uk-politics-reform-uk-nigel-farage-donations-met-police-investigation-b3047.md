@@ -10,6 +10,10 @@ description: Nigel Farage has insisted he and his aides ‘had done nothing ille
   and that no money changed hands – but the Met says ‘there are potential offences
   requiring investigation’
 image: https://static.independent.co.uk/2026/09/06/11/55506b05f453a788ca4499af4278dd49Y29udGVudHNlYXJjaGFwaSwxNzg4Nzc1NjAz-2.85740931.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The Metropolitan Police have launched a criminal investigation into claims that Reform UK breached party donation rules on illegal foreign funding.

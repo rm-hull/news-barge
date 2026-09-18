@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: A Darlington chippy is winning praise for crispy batter, generous portions
   and 10/10 curry sauce, earning a 4.8-star TripAdvisor rating.
 image: https://www.thenorthernecho.co.uk/resources/images/21421331.jpg?type=og-image&yType=38
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: @lunchingwithloz/Instagram)*

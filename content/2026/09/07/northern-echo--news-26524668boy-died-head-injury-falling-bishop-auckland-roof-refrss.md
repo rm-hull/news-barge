@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: A 12-year-old boy died from a severe traumatic brain injury after falling
   through the roof of a farm building in Bishop Auckland, an inquest has…
 image: https://www.thenorthernecho.co.uk/resources/images/21085634.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: SARAH CALDECOTT)*

@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: A heartbroken mum is facing what should have been her daughters tenth
   birthday without her little girl whose life was tragically cut short from…
 image: https://www.thenorthernecho.co.uk/resources/images/21364839.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: FAMILY)*

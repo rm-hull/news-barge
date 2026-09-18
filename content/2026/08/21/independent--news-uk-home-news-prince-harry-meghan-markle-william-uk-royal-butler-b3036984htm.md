@@ -10,6 +10,10 @@ description: 'Exclusive: Grant Harrold, who worked for the King and Queen Camill
   as well as Prince William, Princess Kate and Prince Harry up until 2011, tells The
   Independent what Harry and Meghan’s shock return means for the royal family'
 image: https://static.independent.co.uk/2024/11/06/17/newFile-4.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Prince Harry’s shock return to the UK has always been on the cards, a former royal butler has claimed, pointing to the Duke’s close bond to his father, King Charles, during his childhood.

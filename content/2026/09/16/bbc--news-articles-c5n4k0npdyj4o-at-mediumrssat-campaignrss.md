@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Tributes have been paid to Major Paul Wilks, who was described as a "gifted
   leader".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a82e/live/8fe632e0-b04b-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![A close-up shot of a British soldier's uniform. A black and brown Union Jack patch is visible on their shoulder. The rest of the uniform is green, white and brown camouflage.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/a82e/live/8fe632e0-b04b-11f1-b1d1-571ed4d7ff2c.jpg)

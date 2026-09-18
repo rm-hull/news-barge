@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Six more people hospitalised after incident at Big Church festival near
   Steyning
 image: https://i.guim.co.uk/img/media/162bc1779242029c4aed9db9cf37228d506f97bc/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd21244b3f1edc195bd5d03c31dea1aa
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A 41-year-old man has died and at least six other people have been injured after a large sign fell at a Christian festival in West Sussex, police said.

@@ -7,6 +7,9 @@ scraped_at: '2026-09-01T19:23:48Z'
 published: '2026-09-01T00:00:00Z'
 description: The PM pledges "more substantial change" during his first speech to MPs.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2fde/live/e798fe40-a61a-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 # Watch: Key moments from Andy Burnham's first Commons speech as PM

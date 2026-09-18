@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Kyle Spitze of Tennessee faced federal charges for targeting girls online
   as part of ‘764 network’ investigated by FBI
 image: https://i.guim.co.uk/img/media/c46a9f1f5c4593f59c0f00440a2a7cbdc86df619/499_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b43be426989a42571851a5e33404bc3
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A 27-year-old Tennessee man described by the US justice department as a “nihilistic violent extremist” was sentenced to 77 years in prison on Wednesday for his targeting of girls online as part of the 764 network, an online group the FBI calls a form of “modern-day terrorism”.

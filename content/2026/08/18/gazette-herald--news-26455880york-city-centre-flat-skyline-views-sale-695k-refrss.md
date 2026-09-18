@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A sixth-floor flat at Ryedale House, offering panoramic views across
   York’s historic skyline, has been listed for £695,000.
 image: https://www.gazetteherald.co.uk/resources/images/21303525.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 A sixth-floor flat offering panoramic views across York’s historic skyline has been listed for £695,000.

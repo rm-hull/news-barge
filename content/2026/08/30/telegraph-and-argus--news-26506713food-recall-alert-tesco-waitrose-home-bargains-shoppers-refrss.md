@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Shoppers are being urged to check their fridges and cupboards after a
   series of food safety alerts and recalls at major UK supermarkets.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20655822.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Getty Images/iStockphoto)*

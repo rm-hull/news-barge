@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Wednesday's fatal shooting of a man in his 40s comes after a university
   student was gunned down on Tuesday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/adee/live/50b6ac50-a72a-11f1-8021-a75f7d345353.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A blue and white checked police tape](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/adee/live/50b6ac50-a72a-11f1-8021-a75f7d345353.jpg)

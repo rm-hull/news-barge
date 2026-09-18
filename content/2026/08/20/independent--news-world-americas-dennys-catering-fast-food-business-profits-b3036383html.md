@@ -9,6 +9,11 @@ description: The diner chain, which has over 1,200 locations across the U.S., ha
   struggled since the pandemic with declining numbers of customers and higher food
   costs
 image: https://static.independent.co.uk/2026/08/20/16/37/CateringBox_Office_NoSyurp.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Denny’s is planning to expand its catering service in an attempt to boost the ailing diner chain, according to *Restaurant Dive.*

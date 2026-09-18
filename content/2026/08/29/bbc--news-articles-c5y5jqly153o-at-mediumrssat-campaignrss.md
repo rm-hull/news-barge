@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: We spoke to experts about how the breathing technique used by soldiers
   and influencers works.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03c5/live/089499f0-a153-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 ![Person wearing a plain white T-shirt standing in the foreground with one hand placed on their chest. Their eyes are closed and a wristwatch is visible on one wrist. The background consists of a plain grey wall, with directional light creating areas of shadow across the wall and part of the upper body.](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/f461/live/48a21cd0-a152-11f1-92f3-2381193e5eb4.jpg)

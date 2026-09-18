@@ -9,6 +9,10 @@ description: Flood warning notifications were issued to people's phones througho
   Sunday morning as rescue workers tried to evacuate a main route connecting Kathmandu
   to one of the places most severely affected by Wednesday's devastating floods.
 image: https://images.euronews.com/articles/stories/09/89/43/29/1200x675_cmsv2_c278860c-b461-5dd4-8b1c-d1c107b614f7-9894329.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## Flood warning notifications were issued to people's phones throughout Sunday morning as rescue workers tried to evacuate a main route connecting Kathmandu to one of the places most severely affected by Wednesday's devastating floods.

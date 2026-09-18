@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: It turned out that Emmy’s new backpack was not quite as successful as
   we had hoped.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ0ZWQ4ZTdkLWY0NDItNGEyYi1iNzkyLTYxYzNlNmMyYzhkMDoxZDQzNmU3Yi05NjNmLTQzMzAtOWM5Yi1kMmI0NWNiY2U1Yjk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 # I tried out a doggy backpack for my aging Emmy but it didn't go to plan - Julian Norton

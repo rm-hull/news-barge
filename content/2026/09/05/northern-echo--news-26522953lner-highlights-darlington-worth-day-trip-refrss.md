@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: From Hopetown and South Park to independent cafés and Rockliffe Hall,
   discover the best things to do in Darlington in a recent LNER video.
 image: https://www.thenorthernecho.co.uk/resources/images/20829033.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 The weekend is here, so it's time for a fun adventure - and whether you already live in Darlington or have never been, there is so much to see and do that you may be unaware of.

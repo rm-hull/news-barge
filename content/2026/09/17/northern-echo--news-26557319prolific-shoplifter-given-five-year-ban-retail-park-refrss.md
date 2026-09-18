@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: A prolific shoplifter has been banned from entering a retail park after
   being handed what police believe is the district's "lengthiest…
 image: https://www.thenorthernecho.co.uk/resources/images/21465804.jpg?type=og-image&xType=0&yType=134
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: CLEVELAND POLICE)*

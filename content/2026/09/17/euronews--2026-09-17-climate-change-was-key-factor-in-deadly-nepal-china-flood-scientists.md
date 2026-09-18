@@ -9,6 +9,10 @@ description: Researchers said the flood was caused by a "compound crisis" shaped
   long-term warming, glacier retreat, permafrost thaw and geological instability.
   A 2015 earthquake is also thought to have played a role.
 image: https://images.euronews.com/articles/stories/09/91/65/88/1200x675_cmsv2_e89e50fc-1cfe-5672-a688-a54d58c7c16b-9916588.jpg
+categories:
+- Europe
+- News & Politics
+- Science
 ---
 
 ## Researchers said the flood was caused by a "compound crisis" shaped by long-term warming, glacier retreat, permafrost thaw and geological instability. A 2015 earthquake is also thought to have played a role.

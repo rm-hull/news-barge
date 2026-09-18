@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: One of Trump's longest serving and most loyal aides, Harp was thrust
   again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9db2/live/5fb103a0-9c02-11f1-b0bd-839fb1d8b591.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Natalie Harp walks off Air Force One wearing a sleeveless printed red dress. She is smiling and has a laptop in her hands.](https://ichef.bbci.co.uk/ace/standard/950/cpsprodpb/9db2/live/5fb103a0-9c02-11f1-b0bd-839fb1d8b591.jpg)

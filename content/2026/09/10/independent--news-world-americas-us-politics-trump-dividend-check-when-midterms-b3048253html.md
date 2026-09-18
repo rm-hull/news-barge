@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: The White House has offered few details about the plan to send $5,000
   checks to Americans after the midterms
 image: https://static.independent.co.uk/2026/09/10/11/25/2294432281-getty-673bba04.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 President Donald Trump has offered a vague answer when asked about the timing of the $5,000 “Trump Dividend” checks he said his administration would send to Americans after the midterms.

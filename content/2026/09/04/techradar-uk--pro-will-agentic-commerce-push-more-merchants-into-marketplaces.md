@@ -7,6 +7,9 @@ scraped_at: '2026-09-04T12:41:39Z'
 published: '2026-09-04T00:00:00Z'
 description: How will agentic commerce effect the marketplace?
 image: https://cdn.mos.cms.futurecdn.net/vUGGQXBvMLxK65oJegUwgk-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Someone typing at a keyboard, with an ecommerce shopping cart symbol floating in the air.](https://cdn.mos.cms.futurecdn.net/vUGGQXBvMLxK65oJegUwgk.jpg) 

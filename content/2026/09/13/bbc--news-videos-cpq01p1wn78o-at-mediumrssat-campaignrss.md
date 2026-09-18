@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Thousands turned out to witness Céline Dion perform in Paris on Saturday,
   her first show after a six year illness-induced hiatus.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/48da/live/a8cca6a0-af1e-11f1-936a-359304b79ff2.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 # 'She's back': Fans dance, sing and cry after Céline Dion's comeback concert in Paris

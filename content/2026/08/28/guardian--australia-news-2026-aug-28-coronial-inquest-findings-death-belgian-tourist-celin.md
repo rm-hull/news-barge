@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Coroner finds 31-year-old deviated from a walking track as dusk fell,
   four days before the winter solstice
 image: https://i.guim.co.uk/img/media/5f4bb33d2d8085ffc147083bd9ab17a85c7e1a70/0_265_1674_1338/master/1674.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fbaa3c605d7f5644b16c49778340b0d2
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Overlapping errors, including a lack of preparation in near-freezing winter weather, contributed to the death of a Belgian tourist on a wilderness track.

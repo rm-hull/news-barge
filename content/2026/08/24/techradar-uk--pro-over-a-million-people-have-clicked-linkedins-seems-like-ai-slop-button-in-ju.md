@@ -8,6 +8,9 @@ scraped_at: '2026-08-24T11:54:03Z'
 published: '2026-08-24T00:00:00Z'
 description: The battle against LinkedIn AI slop is going well
 image: https://cdn.mos.cms.futurecdn.net/UMfvYpANmdmdE8jBmnEsEn-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Frustrated User](https://cdn.mos.cms.futurecdn.net/UMfvYpANmdmdE8jBmnEsEn.jpg) 

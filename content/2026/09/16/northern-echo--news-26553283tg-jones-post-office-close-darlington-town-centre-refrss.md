@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: TG Jones is set to close in Darlington, along with the town centre’s
   only Post Office, it has been confirmed.
 image: https://www.thenorthernecho.co.uk/resources/images/18770670.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: THE NORTHERN ECHO)*

@@ -9,6 +9,9 @@ published: '2026-08-23T00:00:00Z'
 description: Welcome back to TechCrunch Mobility — your central hub for news and insights
   on the future of transportation.
 image: https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675
+categories:
+- Technology & Software
+- Automotive
 ---
 
 *Welcome back to**TechCrunch Mobility**— your central hub for news and insights on the future of transportation. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!*

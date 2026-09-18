@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: Prime Minister Andy Burnham has said he is “devastated” after seven people,
   including two police officers, were killed in a head-on crash on the…
 image: https://www.thenorthernecho.co.uk/resources/images/21356689.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: NEWSQUEST)*

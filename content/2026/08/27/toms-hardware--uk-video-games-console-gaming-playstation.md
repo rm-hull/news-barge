@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: PlayStation reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/9eE73Lb2hrEUgfbpQ6VJcV-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/9eE73Lb2hrEUgfbpQ6VJcV-320-80.jpg)

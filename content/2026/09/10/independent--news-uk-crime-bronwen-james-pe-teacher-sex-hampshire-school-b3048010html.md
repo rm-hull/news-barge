@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Bronwen James was found guilty following a trial at Winchester Crown
   Court
 image: https://static.independent.co.uk/2026/09/10/14/01M22RB4RGN9RNWVQ1FS70RK5X.jpg?trim=51,0,51,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
 ---
 
 A PE teacher who “exploited her position” at a Hampshire school has been found guilty of having sex with a schoolboy.

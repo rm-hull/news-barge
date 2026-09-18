@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Withernsea High School, Kingsway Primary, and Marshlands Primary have
   had solar panels installed through a Department for Education grant.
 image: https://www.gazetteherald.co.uk/resources/images/21438431.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Science
 ---
 
 Three schools in East Riding are now harnessing the power of the sun.

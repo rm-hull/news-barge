@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Performers of We Will Rock You, which is set to arrive at Darlington
   Hippodrome, received physiotherapy support from the Woodlands Hospital.
 image: https://www.thenorthernecho.co.uk/resources/images/21404885.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Cast members from a hit musical tuned up for their latest show with a special visit to a Darlington hospital.

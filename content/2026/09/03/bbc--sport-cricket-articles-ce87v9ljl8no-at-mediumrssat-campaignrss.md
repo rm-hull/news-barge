@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Former England captain Michael Vaughan is critical of a 43% ticket price
   increase for next year's men's Ashes Test at Edgbaston.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e4f0/live/ea428800-a75a-11f1-9e2e-5b393fbc8b79.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A general view of Edgbaston cricket ground](https://ichef.bbci.co.uk/ace/standard/986/cpsprodpb/e4f0/live/ea428800-a75a-11f1-9e2e-5b393fbc8b79.jpg)

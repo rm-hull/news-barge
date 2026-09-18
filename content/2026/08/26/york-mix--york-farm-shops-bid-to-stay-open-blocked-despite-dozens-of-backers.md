@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T23:24:30Z'
 published: '2026-08-26T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/07/farmers-cart-at-oakwood-farm-near-strensall-york-fb.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 A York farm shop which called on people to back its bid to continue operating has had its bid for planning permission blocked.

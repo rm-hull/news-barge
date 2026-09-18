@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Estimated 100,000 Yemenis displaced amid renewed fighting as Qatar sounds
   alarm over Bab al-Mandab strait
 image: https://i.guim.co.uk/img/media/3d46576558674f731a30ef983b43fa418b4297eb/883_38_4447_3557/master/4447.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da1d7bd0fba18e22488ef4cb883e39ae
+categories:
+- UK
+- News & Politics
 ---
 
 Saudi cities faced the threat of a second day of Houthi attacks as fighting across Yemen led the UN to warn of a humanitarian crisis with 100,000 Yemenis already displaced.

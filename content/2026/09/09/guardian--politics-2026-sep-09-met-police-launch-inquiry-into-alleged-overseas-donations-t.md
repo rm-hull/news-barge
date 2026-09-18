@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Scotland Yard confirms it is investigating allegations broadcast by Channel
   4 News after undercover sting
 image: https://i.guim.co.uk/img/media/a0973f4b4b23cf06d21ed559211d5d1d3c35e6f0/2307_0_3693_2955/master/3693.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=865c026340f8d08d43235658ffbc7bc0
+categories:
+- UK
+- News & Politics
 ---
 
 The financial scandal around Reform UK has deepened as police expanded their investigation into allegations of illegal foreign donations and the elections watchdog said it was considering regulatory steps.

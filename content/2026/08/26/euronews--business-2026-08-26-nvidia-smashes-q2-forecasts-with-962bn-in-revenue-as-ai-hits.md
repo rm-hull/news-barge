@@ -9,6 +9,12 @@ description: The chipmaker's data centre revenue surged 117% to $89 billion as i
   guided next quarter revenue to $108 billion, both above Wall Street expectations,
   without counting sales to China.
 image: https://images.euronews.com/articles/stories/09/89/04/37/1200x675_cmsv2_259cc852-16d1-5a1b-ab1f-a735f6f187b6-9890437.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ## The chipmaker's data centre revenue surged 117% to $89 billion as it guided next quarter revenue to $108 billion, both above Wall Street expectations, without counting sales to China.

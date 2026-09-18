@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: MORE than a dozen new homes could be built near a North Yorkshire town
   after the council rejected previous plans.
 image: https://www.yorkpress.co.uk/resources/images/21374836.jpg?type=og-image
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 ## Plan for 18 new homes at site of previously rejected proposals

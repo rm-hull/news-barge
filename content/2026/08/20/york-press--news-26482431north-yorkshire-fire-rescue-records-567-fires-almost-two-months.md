@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The number of fires in York and North Yorkshire in the last two months
   has more than doubled year-on-year, prompting warnings.
 image: https://www.yorkpress.co.uk/resources/images/21206620.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 *(Image: Max Downing)*

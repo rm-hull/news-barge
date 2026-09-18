@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Two Bradford MPs have spoken out after Parliament voted against legalising
   assisted dying.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21442127.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: PA)*

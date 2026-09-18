@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: 'Exclusive: The merciless stomping resulted in a shattered eye socket,
   a broken collarbone, and a lawsuit now pending in state court'
 image: https://static.independent.co.uk/2026/09/09/16/03/GettyImages-2197814067.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 An off-duty police officer and his wife were brutally assaulted outside a Waffle House in suburban Houston after arguing with one of the restaurant’s employees over a parking spot, according to a lawsuit reviewed by *The Independent*.

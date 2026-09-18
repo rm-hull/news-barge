@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Lady Justice Thirlwall condemns ‘complete failure’ to protect babies
   on neonatal unit at Countess of Chester hospital
 image: https://i.guim.co.uk/img/media/140f8f1d0518c160d69f8d5d164152b5f35719c3/314_0_1044_835/master/1044.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7394041d3d3a7f8846092cf82015733d
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 Three babies might have survived and seven others could have been protected if hospital bosses and doctors had taken action over concerns about the nurse Lucy Letby, an official inquiry into the deaths has concluded.

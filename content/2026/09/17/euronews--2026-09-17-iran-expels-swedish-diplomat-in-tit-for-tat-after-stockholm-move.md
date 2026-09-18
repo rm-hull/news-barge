@@ -9,6 +9,10 @@ description: Tehran summoned Sweden's ambassador and ordered one of its diplomat
   to leave within 48 hours after Stockholm expelled an Iranian embassy official for
   activities "incompatible with the Vienna Convention."
 image: https://images.euronews.com/articles/stories/09/91/71/91/1200x675_cmsv2_379344ae-8434-57ca-b775-342f9cbcc6fb-9917191.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Tehran summoned Sweden's ambassador and ordered one of its diplomats to leave within 48 hours after Stockholm expelled an Iranian embassy official for activities "incompatible with the Vienna Convention."

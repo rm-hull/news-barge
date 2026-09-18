@@ -10,6 +10,11 @@ description: Giuliani, who became known as ‘America’s mayor’ after the 200
   unleashed anti-Islam rhetoric on a right-wing network as he joins push to bar city’s
   first Muslim mayor from events
 image: https://static.independent.co.uk/2026/05/04/15/31/FILES-US-POLITICS-GIULIANI-ml41trc4.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 Former New York City Mayor Rudy Giuliani unleashed a series of anti-Muslim statements on a right-wing media network in recent days as he called for Mayor Zohran Mamdani to skip this week’s 25th anniversary events to mark the September 11 terror attacks.

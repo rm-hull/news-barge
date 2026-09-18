@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The long-rumored deal will give the chip giant access to—and help it
   promote—a huge repository of open-source AI models and data sets.
 image: https://media.wired.com/photos/6a906df0a8a32784cdb5c100/191:100/w_1280,c_limit/Nvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Nvidia has agreed to acquire Hugging Face, which makes online developer tools and maintains a massive library of open-source data sets, for nearly $13 billion. While the deal had been rumored for weeks, the companies made it official Thursday morning.

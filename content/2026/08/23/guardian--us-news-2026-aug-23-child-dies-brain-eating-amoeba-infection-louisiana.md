@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Lillian Smart of Ruston infected with fatal Naegleria fowleri, likely
   after swimming in Lake Claiborne, health officials say
 image: https://i.guim.co.uk/img/media/66e674c1ab077f100e2ffbe69bd71cd86d328598/0_173_1080_863/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ab7313a1755c3c965b105d2656efc92
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 An eight-year-old Louisiana girl has died after contracting a rare, typically fatal brain-eating amoeba after a swim in Lake Claiborne.

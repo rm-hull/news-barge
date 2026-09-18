@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A development of 32 homes could soon be built on a site near Shipley
   – a decade after plans for a major housing scheme were approved.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjcyM2U5YTAzLTIyZGQtNDZlMy05ZWM0LWM1YmVhYjEwMTNhODphODAyMzY4MC0zYjZiLTQxZTgtYjIwNC03MjBiZTc0MWM2Mzc=.jpg?crop=3:2,smart&trim=&width=626&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 # Shipley: Plans submitted for next stage of 'urban village' development in Yorkshire

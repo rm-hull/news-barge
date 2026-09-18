@@ -10,6 +10,12 @@ description: Few issues invoke the ire of Yorkshire’s public than the discharg
   affect bathing waters. The proud people in Yorkshire are rightly protective of the
   outstanding natural beauty in the region.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjU3NTIyOGYxLWRhMWMtNDQxYS1iODBmLTUwZjg5ZGIzYjk3NTpmNjY1YzRiNS0zNjBjLTRiZTctYjU5NC03NjA0MzljNGIyZjM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- Health & Fitness
 ---
 
 # Sewage discharge figures make for a grim read but campaigners are to be applauded

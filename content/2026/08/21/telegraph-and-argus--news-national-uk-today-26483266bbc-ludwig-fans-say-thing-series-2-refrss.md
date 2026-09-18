@@ -8,6 +8,12 @@ published: '2026-08-21T00:00:00Z'
 description: Ludwig has returned for a second series and fans have praised the show's
   new episodes so far.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21352637.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 Ludwig fans are all saying the same thing as the second series started airing last night (August 20).

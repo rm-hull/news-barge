@@ -10,6 +10,10 @@ description: 'Harrogate Theatre Choir’s Musical Director stated: The show expl
   the fascinating psychology of love through the greatest love songs from one hundred
   years'
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/20260214_200513890_iOS.webp
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 **HARROGATE**— Following a completely sold-out two-night debut earlier this year, Harrogate Theatre Choir has announced an ambitious, expanded sequel to its flagship production, set to take over the historic surroundings of The Crown Hotel next month.Scheduled for

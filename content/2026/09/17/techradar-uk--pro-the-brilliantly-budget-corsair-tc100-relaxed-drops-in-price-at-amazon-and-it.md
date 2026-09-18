@@ -9,6 +9,9 @@ description: Corsair's TC100 Relaxed is one of our favorite budget chairs but th
   discount makes it even better. Comfortable, supportive, and a top pick for work
   and play.
 image: https://cdn.mos.cms.futurecdn.net/ehsJSfnK5Qrz4NhvzPsqQH-1920-80.png
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![The Corsair TC100 Relaxed chair in a home office in front of a computer on a desk](https://cdn.mos.cms.futurecdn.net/ehsJSfnK5Qrz4NhvzPsqQH.png) 

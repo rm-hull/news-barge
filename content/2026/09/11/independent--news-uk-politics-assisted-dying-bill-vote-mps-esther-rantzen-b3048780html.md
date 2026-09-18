@@ -8,6 +8,9 @@ scraped_at: '2026-09-11T19:09:20Z'
 published: '2026-09-11T00:00:00Z'
 description: The former broadcaster was a prominent backer of a change in the law
 image: https://static.independent.co.uk/2026/09/11/16/2272518554..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Dame Esther Rantzen has described it as a “tragic day” after MPs rejected the assisted dying bill, which she has tirelessly campaigned for.

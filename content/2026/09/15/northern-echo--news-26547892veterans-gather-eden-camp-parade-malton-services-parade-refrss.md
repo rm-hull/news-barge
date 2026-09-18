@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: More than 650 veterans, serving personnel and military organisations
   from across the UK gathered at Eden Camp in Malton, North Yorkshire, for the…
 image: https://www.thenorthernecho.co.uk/resources/images/21451921.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: Jo Peirson)*

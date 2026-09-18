@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: Lee Cain said the government was making the same mistake ‘over and over
   again’
 image: https://static.independent.co.uk/2026/08/18/09/1186413215..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A series of Covid U-turns made by Boris Johnson’s government were like a “slow-moving car crash” that saw it make the same mistake “over and over again”, his former director of communications has said.

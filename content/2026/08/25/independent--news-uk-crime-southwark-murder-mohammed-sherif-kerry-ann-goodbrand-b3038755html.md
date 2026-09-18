@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: A 31-year-old woman was sadly pronounced dead at the scene by emergency
   services
 image: https://static.independent.co.uk/2025/09/08/15/4ad1818b86876c7491bc54dc456ebbc4Y29udGVudHNlYXJjaGFwaSwxNzU3NDI3MjM2-2.30798390.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A man has been charged with murder after a woman died falling from a height in south-east London.

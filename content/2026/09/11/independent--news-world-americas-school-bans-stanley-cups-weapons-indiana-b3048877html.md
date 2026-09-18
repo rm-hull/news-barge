@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Metal water bottles have skyrocketed in popularity in recent years as
   companies like Stanley have come out with a plethora of designs and sizes
 image: https://static.independent.co.uk/2026/09/11/18/01/GettyImages-1981319863.jpg?trim=103,0,105,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 A public school district in Indiana has banned Stanley cups and other metal water bottles out of fear that they can be used as weapons.

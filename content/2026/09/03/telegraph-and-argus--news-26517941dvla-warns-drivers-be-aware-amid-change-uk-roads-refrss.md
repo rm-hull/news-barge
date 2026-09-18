@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: The Driver and Vehicle Licensing Agency has issued a warning to UK drivers
   urging them to “be aware”.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20583237.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Automotive
 ---
 
 *(Image: ANTONS JEVTEREVS/Getty)*

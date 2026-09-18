@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Device could have serious applications for tracking a range of health
   issues, including irritable bowel syndrome and food intolerance
 image: https://static.independent.co.uk/2026/02/13/3/56/Smart-underwear-model.png?trim=116,0,117,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Science
 ---
 
 Scientists have developed a first-of-its-kind smart underwear to track how often people actually fart, an advance that could lead to new insights into human metabolism.

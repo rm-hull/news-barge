@@ -8,6 +8,10 @@ scraped_at: '2026-09-03T12:48:12Z'
 published: '2026-09-03T00:00:00Z'
 description: This 'Hatfield' Apple 1 previously sold for $686,000 in 2013.
 image: https://cdn.mos.cms.futurecdn.net/DRQtBUapbDgWzERaekH2hn-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![The ‘Hatfield’ Apple 1 auction](https://cdn.mos.cms.futurecdn.net/DRQtBUapbDgWzERaekH2hn.jpg) 

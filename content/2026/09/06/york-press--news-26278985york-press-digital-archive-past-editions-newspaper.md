@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: The Press is now offering readers a way to access past editions of the
   newspaper through its 'e-edition' function on its website.
 image: https://www.yorkpress.co.uk/resources/images/21181794.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 ## What to do if you missed a copy of The Press you wanted

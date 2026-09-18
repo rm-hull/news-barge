@@ -8,6 +8,13 @@ published: '2026-09-05T00:00:00Z'
 description: Gary Lineker's new ITV game show The Box airs tonight - here is everything
   you need to know from how to watch it to all of the celebrities…
 image: https://www.thenorthernecho.co.uk/resources/images/21415345.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
+- Comedy & Entertainment
+- Sports
 ---
 
 *(Image: Jane Barlow/PA Wire)*

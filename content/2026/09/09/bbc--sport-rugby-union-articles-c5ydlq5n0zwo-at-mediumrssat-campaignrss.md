@@ -10,6 +10,10 @@ description: England head coach Steve Borthwick will have his contract extended 
   the 2028 Six Nations in a bid to avoid uncertainty over his future before and during
   next year's Rugby World Cup.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9a5e/live/9cff5010-ac13-11f1-940e-bf738e043799.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![England coach Steve Borthwick shouts during a training session in June 2026](https://ichef.bbci.co.uk/ace/standard/779/cpsprodpb/9a5e/live/9cff5010-ac13-11f1-940e-bf738e043799.jpg)

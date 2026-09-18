@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: People are being invited to have their say on plans aimed at protecting
   and enhancing one of County Durham's most important wildlife sites…
 image: https://www.thenorthernecho.co.uk/resources/images/21452385.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Supplied)*

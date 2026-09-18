@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The Sussex family moved back two weeks ago after spending six years in
   the US, with Archie and Lilibet said to have started at their new school
 image: https://static.independent.co.uk/2026/09/08/11/4aff701cc04eb292f2ea0b322c059f63Y29udGVudHNlYXJjaGFwaSwxNzg4OTQzNDkx-2.83618974.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 The Duke and Duchess of Sussex are "happy to be back" in the UK, and getting Prince Archie and Princess Lilibet settled "remains their focus", a source has said.

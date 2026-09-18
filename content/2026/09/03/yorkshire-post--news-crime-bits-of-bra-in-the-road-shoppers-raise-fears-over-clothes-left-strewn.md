@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Shoppers were left “disgusted” after bra pads were spotted “flying” across
   Morrisons carpark in Heckmondwike.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ2MzY3OTNmLTFhZGMtNDNjZC05ZGE3LTY2MjY2Mjc4ODgwNDo4ODM3ZWZjYi0wYjNmLTQ3ODgtYWIxNS1mZGMxMTYyODRlZTk=.jpg?crop=3:2,smart&trim=&width=1170&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 # 'Bits of bra in the road': Shoppers raise fears over clothes left strewn across car park

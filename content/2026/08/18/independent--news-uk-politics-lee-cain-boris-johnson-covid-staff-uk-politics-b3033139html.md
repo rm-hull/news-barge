@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The former head of No 10 comms and Cummings ally on forgotten staff,
   the many ‘slow-moving car crashes’ of Covid, and Boris Johnson. Maja Anushka reports
 image: https://static.independent.co.uk/2026/08/17/10/46/hero-image-(80).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Lee Cain, the former No 10 director of communications, has revealed that attempts to cut the size of the government’s communications operation were blocked after an audit uncovered thousands more staff than previously thought.

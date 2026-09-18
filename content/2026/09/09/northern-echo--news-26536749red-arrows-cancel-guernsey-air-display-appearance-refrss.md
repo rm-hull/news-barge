@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The Red Arrows have cancelled an air display appearance days before they
   are due to fly over the Great North Run.
 image: https://www.thenorthernecho.co.uk/resources/images/19308503.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: PA)*

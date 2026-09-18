@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: I visited the abandoned Porth Wen Brickworks in Anglesey, with its own
   secret beach - here's why you should too.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21435349.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Patrick Glover)*

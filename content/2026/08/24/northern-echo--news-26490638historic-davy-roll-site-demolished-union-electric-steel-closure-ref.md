@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Demolition has begun at Gateshead’s former Davy Roll steelworks, ending
   more than 150 years of industrial history after Union Electric Steel UK…
 image: https://www.thenorthernecho.co.uk/resources/images/21364443.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 ### What is the Public Notice Portal?

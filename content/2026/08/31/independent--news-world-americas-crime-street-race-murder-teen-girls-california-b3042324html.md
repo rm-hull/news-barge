@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Maddalyn Dailey, 17, and Isabell Hill, 16, were ‘inseparable’ best friends
   beginning their senior year of high school when they were struck and killed
 image: https://static.the-independent.com/2026/08/31/21/01/Screenshot-2026-08-31-at-5-04-10-PM.jpg?trim=0,4,0,3&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Southern California man has been charged with murder after a high-speed street race ended with two teenage girls dead, according to officials.

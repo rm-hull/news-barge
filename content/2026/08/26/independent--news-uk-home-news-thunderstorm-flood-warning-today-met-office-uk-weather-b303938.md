@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: The Met Office has warned of flooding, power cuts and disruption across
   the country
 image: https://static.independent.co.uk/2026/08/19/13/01M0D1AFVDDVEB13TVRHAPQ231.jpg?trim=0,184,0,184&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Thunderstorm warnings have come into place across parts of the country as the Met Office warns of flooding and disruption.

@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: The Massachusetts mother is facing murder charges for killing her three
   children at their family home in 2023.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c43/live/4a3ec160-a62a-11f1-905b-8511af748865.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
+- Family & Parenting
 ---
 
 Watch: Judge orders deadlocked Clancy jurors to keep deliberating

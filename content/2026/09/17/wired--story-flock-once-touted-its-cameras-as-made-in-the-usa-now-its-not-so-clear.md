@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Flock reveals little about where its license plate readers are assembled,
   but the answer could have geopolitical and cybersecurity implications.
 image: https://media.wired.com/photos/6aa9b61b437d0124621287e4/191:100/w_1280,c_limit/Where-Flock-Cameras-Are-Made-Business.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
 ---
 
 Flock CEO Garrett Langley has said the company made its first license plate cameras in his Atlanta home, permanently scratching his dining table with drill marks. A decade later, where the company assembles its signature—and fiercely debated—product has become more of a mystery.

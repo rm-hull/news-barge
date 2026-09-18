@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: The US currently has around 10,000 rotational forces in Poland as well
   as 11 installation sites, with the US Army Garrison headquartered in Poznań.
 image: https://images.euronews.com/articles/stories/09/91/82/26/1200x675_cmsv2_923abaac-a3c3-53c5-b8b3-2690d58a6756-9918226.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## The US currently has around 10,000 rotational forces in Poland as well as 11 installation sites, with the US Army Garrison headquartered in Poznań.

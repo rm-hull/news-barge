@@ -8,6 +8,12 @@ published: '2026-08-22T00:00:00Z'
 description: Seven people, including two police officers, died in the crash on the
   A66 near Middlesbrough in the early hours of this morning, Cleveland Police said.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ1NDUzMTA0LWVhOWYtNDhhNC1hYjdiLWY0ZTNiZjZjMWY4Yjo0OGE4MTk3ZS03ZmM2LTRhNWYtODFhMi01OTZkY2JlMDRmODU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # A66: Two police officers among seven dead in horror crash as IOPC investigates

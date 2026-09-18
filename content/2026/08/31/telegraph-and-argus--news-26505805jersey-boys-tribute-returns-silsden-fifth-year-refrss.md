@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: THE Music of The Jersey Boys returns to Silsden with a lively Christmas
   tribute
 image: https://www.thetelegraphandargus.co.uk/resources/images/9614460.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: Newsquest)*

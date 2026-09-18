@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: THE songs of Gilbert O’Sullivan take me back to long car journeys of
   childhood holidays.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21348322.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 THE songs of Gilbert O’Sullivan take me back to long car journeys of childhood holidays.

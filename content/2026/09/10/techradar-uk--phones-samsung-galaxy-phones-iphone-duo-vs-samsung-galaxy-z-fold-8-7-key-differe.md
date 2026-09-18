@@ -8,6 +8,8 @@ published: '2026-09-10T00:00:00Z'
 description: We compare the iPhone Duo to its closest competitor, the Samsung Galaxy
   Z Fold 8.
 image: https://cdn.mos.cms.futurecdn.net/n5x3nWonFq2o2NXmPo8Xzf-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The iPhone Duo alongside the Samsung Galaxy Z Fold 8](https://cdn.mos.cms.futurecdn.net/n5x3nWonFq2o2NXmPo8Xzf.jpg) 

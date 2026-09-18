@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: A road connecting a coastal North Yorkshire town to the A64 has been
   closed after a crash.
 image: https://www.yorkpress.co.uk/resources/images/21368401.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Road connecting North Yorkshire town to the A64 closed after crash

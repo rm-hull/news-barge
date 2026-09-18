@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Bishop Auckland woman Molly Brown, 25, has been fined and ordered to
   pay compensation after admitting assaulting five police officers during an…
 image: https://www.thenorthernecho.co.uk/resources/images/19733238.jpg?type=og-image&yType=592
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: The Northern Echo)*

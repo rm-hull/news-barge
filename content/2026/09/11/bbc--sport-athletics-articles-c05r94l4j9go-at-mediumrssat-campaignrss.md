@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: The Ultimate Championship is posed as something different in athletics,
   but some things stay the same - pole vault star Armand Duplantis taking centre stage.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d824/live/b3452310-ae2d-11f1-ac6d-91eaec18841f.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Armand 'Mondo' Duplantis celebrates after being crowned Ultimate champion](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/d824/live/b3452310-ae2d-11f1-ac6d-91eaec18841f.jpg)

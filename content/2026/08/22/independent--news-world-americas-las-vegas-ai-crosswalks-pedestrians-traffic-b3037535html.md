@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Pilot program is near the Fremont Street Experience, an open-air, neon-lit
   entertainment hub, which draws more than 24 million visitors a year
 image: https://static.independent.co.uk/2026/08/22/14/33/Las-Vegass-new-trick-to-keep-pedestrians-safe-is-AI-to-control-traffic-signals.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Las Vegas is testing an AI-powered lighting system designed to make crosswalks safer and pedestrians more visible to drivers.

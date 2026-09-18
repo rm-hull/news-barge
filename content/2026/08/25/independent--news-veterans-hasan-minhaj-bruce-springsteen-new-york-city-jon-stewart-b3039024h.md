@@ -9,6 +9,10 @@ description: Stand Up for Heroes will celebrate its 20th anniversary this fall i
   New York City with a performance by Bruce Springsteen and jokes by Hasan Minhaj
   and Jon Stewart
 image: https://static.independent.co.uk/2026/08/25/17/Stand_Up_For_Heroes_8_87.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Stand Up for Heroes will celebrate its 20th anniversary this fall in New York City with a performance by Bruce Springsteen and jokes by Hasan Minhaj and Jon Stewart.

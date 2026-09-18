@@ -10,6 +10,10 @@ description: Dutch side SC Cambuur says fans were left with "burns, hearing dama
   and eye injuries" after Feyenoord supporters threw fireworks during Sunday's Eredivisie
   match.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2955/live/4e45a290-9fa6-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Feyenoord supporters set off fireworks and throw them onto the pitch near goalkeeper Tjark Ernst during their match at SC Cambuur](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2955/live/4e45a290-9fa6-11f1-aed2-8d6da8d75094.jpg)

@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Amanda Reid shaved her head daily in an attempt to fool her family and
   doctors
 image: https://static.independent.co.uk/2026/04/14/15/01KP5ZVD3BFYYK5M01FFXVKN3A.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Society & Culture
 ---
 
 A children’s nurse has been struck off after receiving £185,422.95 in pension payments by shaving her head daily to pretend she had terminal leukaemia.

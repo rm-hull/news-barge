@@ -10,6 +10,9 @@ description: Iran's President Pezeshkian made the offer at the SCO summit in Bis
   control of Hormuz and war compensation remain conditions Washington is unlikely
   to accept.
 image: https://images.euronews.com/articles/stories/09/89/67/39/1200x675_cmsv2_5cb08327-d3aa-54d5-b7ea-066561f6a86e-9896739.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 **Euronews Persian**

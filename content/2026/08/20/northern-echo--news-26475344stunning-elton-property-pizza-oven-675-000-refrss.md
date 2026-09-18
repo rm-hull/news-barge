@@ -9,6 +9,12 @@ published: '2026-08-20T00:00:00Z'
 description: The Old Farmhouse in Elton is on the market for £675,000, featuring extensive
   gardens, countryside views, an outdoor pizza oven, kitchen and its…
 image: https://www.thenorthernecho.co.uk/resources/images/21337038.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 Tucked away down a private lane on the edge of a village, this period farmhouse offers a slice of North East country living complete with far-reaching views and eye-catching outdoor features.

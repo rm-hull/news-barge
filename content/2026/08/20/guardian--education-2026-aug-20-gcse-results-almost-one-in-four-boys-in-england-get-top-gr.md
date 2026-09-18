@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Overall results slightly better than last year, with share receiving
   grades 7, 8 and 9 rising by 0.1 of a percentage point to 23.1%
 image: https://i.guim.co.uk/img/media/0ec3cdf962d9be289a570ffb9408017788fd9eeb/1068_0_5573_4459/master/5573.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=276d1f9e1ebd8a9418892e0a822ee8f1
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Almost one in four boys in England received top grades in maths while results in English improved across the board, helping to propel improved GCSE results for this year’s cohort of 16-year-olds.

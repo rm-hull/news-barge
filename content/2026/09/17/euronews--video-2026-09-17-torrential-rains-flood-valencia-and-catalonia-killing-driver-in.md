@@ -9,6 +9,11 @@ description: Video. Flooded streets, submerged cars and disrupted transport were
   across parts of Valencia and Catalonia on 17 September as torrential rain swept
   through eastern Spain.
 image: https://images.euronews.com/articles/stories/09/91/72/56/1200x675_cmsv2_d185c5f3-c325-57f5-a37b-4d25c94c4065-9917256.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
+- History
 ---
 
 Flooded streets, submerged cars and disrupted transport were reported across parts of Valencia and Catalonia on 17 September as torrential rain swept through eastern Spain.

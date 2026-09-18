@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: Bari Weiss is ‘enraptured’ with Cuomo, it is claimed, and is hoping to
   bring the former CNN anchor onboard
 image: https://static.independent.co.uk/2026/08/25/15/2219554876..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The editor-in-chief of CBS News wants to add fired CNN anchor Chris Cuomo to the network’s lineup of stars, according to a report.

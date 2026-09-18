@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: A COUNCIL has been reprimanded and told to carry out further searches
   for information about a major harbour project.
 image: https://www.gazetteherald.co.uk/resources/images/18015641.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A COUNCIL has been reprimanded and told to carry out further searches for information about a major harbour project.

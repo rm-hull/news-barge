@@ -9,6 +9,10 @@ description: Businesses are willing to flop back and forth as each lab releases 
   models, volatility that should give both companies' investors pause about how "sticky"
   enterprise AI spending really is.
 image: https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 Until both OpenAI and Anthropic get close enough to their planned IPOs to release their financials, we have to look to other sources for signs of how well their businesses are doing. One of those sources, Ramp, the corporate credit card and expense management company, has just released some surprising new data: OpenAI has started gaining on Anthropic with U.S. businesses.

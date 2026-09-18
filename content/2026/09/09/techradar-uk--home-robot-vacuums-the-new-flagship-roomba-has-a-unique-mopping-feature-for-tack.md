@@ -8,6 +8,8 @@ scraped_at: '2026-09-09T12:57:26Z'
 published: '2026-09-09T00:00:00Z'
 description: The Roomba Max 875 will mist stains away
 image: https://cdn.mos.cms.futurecdn.net/qL2vJXCTYqyHqNa73bwWyR-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Roomba Max 875 robot vacuum on show at IFA](https://cdn.mos.cms.futurecdn.net/qL2vJXCTYqyHqNa73bwWyR.jpg) 

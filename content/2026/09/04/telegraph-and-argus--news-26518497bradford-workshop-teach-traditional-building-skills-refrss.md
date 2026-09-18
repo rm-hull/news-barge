@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: A HANDS-ON workshop will give people the chance to try their hand at
   traditional lime mortar skills
 image: https://www.thetelegraphandargus.co.uk/resources/images/20093579.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Other)*

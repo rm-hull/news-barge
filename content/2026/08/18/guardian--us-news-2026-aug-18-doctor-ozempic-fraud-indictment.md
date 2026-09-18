@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Rodney Greer accused of securing unauthorized prescriptions for GLP-1
   drugs and selling them to customers
 image: https://i.guim.co.uk/img/media/64876f21c88dc2a424e7004e6e87354773faefeb/384_0_5982_4786/master/5982.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ff6bf77177743a45274f075967b7701d
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 An Illinois man allegedly impersonated doctors – and evidently referred to himself online as “$hotboy1” – is facing criminal charges that he secured unauthorized prescriptions for Ozempic and Mounjaro pharmaceutical drugs that facilitate weight loss and are taken by some for cosmetic rather than legitimate medical reasons.

@@ -8,6 +8,9 @@ published: '2026-08-24T00:00:00Z'
 description: Airbound's ultra-lightweight approach to drone delivery has attracted
   backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.
 image: https://techcrunch.com/wp-content/uploads/2026/08/airbound-drone.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Airbound, an Indian startup building autonomous drones, has raised $37 million in fresh capital as it pushes to make moving goods through the air as cheap as trucking them by road.

@@ -9,6 +9,12 @@ published: '2026-09-04T00:00:00Z'
 description: A Sudanese medic who fled persecution has rebuilt his healthcare career
   through an NHS scheme helping refugees return to work.
 image: https://www.thenorthernecho.co.uk/resources/images/21407275.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Business & Entrepreneurship
 ---
 
 A medic who was forced to flee Sudan after suffering persecution and torture has spoken of how a Teesside volunteering scheme offered him a fresh start.

@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Hundreds of cars driven through cones or barriers in England this year,
   says National Highways
 image: https://i.guim.co.uk/img/media/ccf52514ab9c82d7dd546e10d30514ce209d2362/59_0_2300_1840/master/2300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5c8684a7cbd3ff37eca55b383a86ce0f
+categories:
+- UK
+- News & Politics
+- Automotive
 ---
 
 Drivers ignoring roadwork closures to skip queues are putting lives at risk, National Highways has warned, after recording hundreds of incidents this year where cars were deliberately driven through cones or barriers.

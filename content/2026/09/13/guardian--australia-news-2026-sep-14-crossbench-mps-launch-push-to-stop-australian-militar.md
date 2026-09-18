@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: ‘Red lines’ legislation would forbid defence equipment technology or
   services being used, includes parts for F-35 fighter jets
 image: https://i.guim.co.uk/img/media/7512e60de3ea9ee94b9c1ef2d2e3df6dd6f38171/490_494_5331_4265/master/5331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=830f949b2cd438ad2ced3e12aba393df
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Crossbench MPs including David Pocock and Sophie Scamps will put pressure on the Albanese government to ban Australian goods from being used by the Israeli military – including for F-35 fighter jets – by introducing a bill designed to force it to adhere to international obligations.

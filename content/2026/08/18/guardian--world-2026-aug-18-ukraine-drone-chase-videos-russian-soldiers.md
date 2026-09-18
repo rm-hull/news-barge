@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Creators of chase compilations reject any moral qualms and say they show
   ‘death is waiting’ for those who join war
 image: https://i.guim.co.uk/img/media/e6d167e03153c659c4ab3af64a9568c8fd692ecb/463_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7525a2bd2778cbd8538782183cea1013
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
+- Technology & Software
 ---
 
 To many observers they will appear dehumanising and offensive. To many Ukrainians, however, they are a brutal reminder of the fate that awaits Russian soldiers who take part in Vladimir Putin’s invasion, as well as a potent propaganda weapon.

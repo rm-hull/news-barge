@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: Before Spark:York a famous novelist ran an aircraft factory in Piccadilly.
   Ivan Martin lifts the lid on this chapter in the city's hidden…
 image: https://www.yorkpress.co.uk/resources/images/21381213.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Before Spark York: Inside the Piccadilly aircraft factory run by a famous author

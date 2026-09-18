@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Police are searching for a missing 14-year-old boy from Redcar who was
   last seen wearing his school uniform.
 image: https://www.thenorthernecho.co.uk/resources/images/21437869.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: CLEVELAND POLICE)*

@@ -13,6 +13,12 @@ description: Fast train connectivity is everything. It’s clean, connects citie
   ‘levelling up’ schemes and help boost foreign investment, social mobility and modal
   shift.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjIxZTUwNTc3LTM2ZDAtNDA2ZS1iODhlLTAwN2NiYmFlYjU3Mzo4YTE4ZGEzMS01MGY2LTRjZmQtOGVjZS1lZmY3YjM1YTNkNTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 # Why Andy Burnham should back more fast trains to power up the North - Tony Lodge

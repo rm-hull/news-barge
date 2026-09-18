@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Prince Harry and his wife, Meghan, have decided to return to the United
   Kingdom but they won’t resume their roles as working members of the royal family
 image: https://static.independent.co.uk/2026/08/19/23/Britain_Prince_Harry_12485.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 Prince Harry and Meghan are returning to the UK with their children, British newspaper says

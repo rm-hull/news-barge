@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T22:14:10Z'
 published: '2026-08-27T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/christopher-norton.webp
+categories:
+- Local
+- York
+- True Crime
 ---
 
 Have you seen this man?

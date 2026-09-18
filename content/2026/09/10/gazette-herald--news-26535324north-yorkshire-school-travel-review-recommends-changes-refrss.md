@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: North Yorkshire Council has proposed improvements to its school travel
   policy to address concerns raised by families.
 image: https://www.gazetteherald.co.uk/resources/images/21428204.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: North Yorkshire Council)*

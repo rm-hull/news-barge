@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: The decision by James Cleverly to leave the shadow cabinet means Badenoch
   needs to have a reshuffle this week
 image: https://static.independent.co.uk/2026/01/06/11/32/Kemi-Badenoch-visit-to-Promo-Veritas-khe5txnu.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Kemi Badenoch is expected to carry out a major reshuffle which could see two big political names moved out of the shadow cabinet.

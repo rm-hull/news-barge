@@ -9,6 +9,9 @@ description: The California governor is trying to broker a deal with lawmakers a
   at further shielding utilities from financial trouble if their equipment sparks
   a wildfire
 image: https://static.independent.co.uk/2026/08/21/17/2224745994..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A single question has framed the start and culmination of California Gov. Gavin Newsom's nearly eight years in office: who ought to pay for devastation caused when utility equipment triggers a wildfire?

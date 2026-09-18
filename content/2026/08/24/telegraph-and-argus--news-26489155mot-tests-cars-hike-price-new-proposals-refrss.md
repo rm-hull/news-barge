@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: The cost of MOT tests on cars could nearly double under new guidelines
   proposed to the Government.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21358872.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Getty Images)*

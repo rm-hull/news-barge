@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Two teenagers have been charged following investigation into offences
   across North Yorkshire
 image: https://www.gazetteherald.co.uk/resources/images/20713502.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 *(Image: Lewis Clarke)*

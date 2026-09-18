@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: Discover more about Cyber Security with insights from the experts at
   Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/rssf7nwVXe3Fx3tJCdW5Ud-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/rssf7nwVXe3Fx3tJCdW5Ud-320-80.jpg)

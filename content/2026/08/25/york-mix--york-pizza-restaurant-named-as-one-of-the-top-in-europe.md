@@ -7,6 +7,11 @@ scraped_at: '2026-08-25T20:40:18Z'
 published: '2026-08-25T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/cresci-pizza.webp
+categories:
+- Local
+- York
+- Food & Cooking
+- Travel
 ---
 
 A York restaurant has been named one of the top 50 pizzerias in Europe.

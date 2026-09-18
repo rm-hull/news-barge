@@ -8,6 +8,10 @@ scraped_at: '2026-09-10T19:06:20Z'
 published: '2026-09-10T00:00:00Z'
 description: You don't need to pay the big bucks for six cores
 image: https://cdn.mos.cms.futurecdn.net/J47XMamtM6eBicNBMKV3cK-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
 ---
 
 ![AMD Ryzen 5 CPU](https://cdn.mos.cms.futurecdn.net/J47XMamtM6eBicNBMKV3cK.jpg) 

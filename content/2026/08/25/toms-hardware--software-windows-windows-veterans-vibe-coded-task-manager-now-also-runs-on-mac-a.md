@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: Plummer found time for this project while waiting in the hospital while
   his son had an appendectomy.
 image: https://cdn.mos.cms.futurecdn.net/7ndgbD4kf8HpWSzWyLQHKW-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![TMOG screenshots](https://cdn.mos.cms.futurecdn.net/7ndgbD4kf8HpWSzWyLQHKW.jpg) 

@@ -7,6 +7,11 @@ scraped_at: '2026-08-18T19:35:54Z'
 published: '2026-08-18T00:00:00Z'
 description: The FTSE 100 index closed up 7.74 points, or 0.1%, at 10,728.04.
 image: https://static.independent.co.uk/2026/08/18/17/7b9959d20d531b7b1cbca88cee50edddY29udGVudHNlYXJjaGFwaSwxNzg3MTU1OTA4-2.82985234.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The FTSE 100 outperformed European peers on Tuesday, with oil stocks on the up amid rising prices, and bond market concerns adding to the cautious mood.

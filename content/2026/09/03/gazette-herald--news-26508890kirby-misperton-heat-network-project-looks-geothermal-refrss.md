@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Cleaner greener energy and lower bills for Ryedale residents is the aim
   of two projects which are tapping the region’s natural geothermal heat to…
 image: https://www.gazetteherald.co.uk/resources/images/21392071.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Science
 ---
 
 *(Image: Freelancer)*

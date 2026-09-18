@@ -9,6 +9,11 @@ description: Many Americans in Germany have received letters from their US banks
   them that they may have to close their accounts due to a new EU banking requirements.
   We asked specialists in financial planning and tax to explain the implications.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260721__7C27M__v1__MidRes__CharlotteLandmarkBofaBuildingLightUpRedFoInclusion.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Personal Finance & Investing
 ---
 
 The EU is bringing in a new banking directive which affects non-EU banks dealing with clients who are resident in the EU – for example an American living in Germany who maintains at least one account in the US.

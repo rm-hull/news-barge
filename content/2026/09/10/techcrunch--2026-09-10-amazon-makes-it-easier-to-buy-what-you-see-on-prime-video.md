@@ -9,6 +9,9 @@ description: Amazon is expanding shopping integrations across Prime Video, letti
   viewers discover products tied to thousands of shows, movies, and live sports through
   X-Ray, its shopping app, and a new Lens-powered “Shop the Scene” feature.
 image: https://techcrunch.com/wp-content/uploads/2026/09/3.-X-Ray-Shop-Tab.png?resize=1200,675
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 Amazon is going to make it easier to shop when you’re watching TV. The retail giant on Thursday announced a series of new features that will allow customers to discover products across thousands of Prime Video titles through integrations with its existing X-Ray experience, which today displays real-time actor bios, character names, soundtrack music, and more. It will also introduce a new way to “shop the scene” using Amazon’s Lens technology, along with other updates.

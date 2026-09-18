@@ -7,6 +7,9 @@ scraped_at: '2026-09-02T12:44:56Z'
 published: '2026-09-02T00:00:00Z'
 description: AI autonomy raises risks, not immunity from legal accountability
 image: https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A robot's hand typing on a laptop keyboard](https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L.jpg) 

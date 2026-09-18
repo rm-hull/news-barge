@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The amount of dust in the atmosphere has fallen, which is good for our
   lungs, but is a loss for ecosystems that depend on wind-borne nutrients
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312685035.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312685035.jpg?w=840)

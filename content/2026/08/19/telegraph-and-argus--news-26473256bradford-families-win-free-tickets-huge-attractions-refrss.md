@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A SUMMER of fun could be just a ticket away for families in need of a
   budget-friendly day out.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21333916.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Supplied)*

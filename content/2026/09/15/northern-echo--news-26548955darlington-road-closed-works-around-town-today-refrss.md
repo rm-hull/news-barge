@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Drivers in Darlington face six roadworks schemes on Tuesday, September
   15, including a full road closure on Stanhope Road South.
 image: https://www.thenorthernecho.co.uk/resources/images/21453298.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: GOOGLE)*

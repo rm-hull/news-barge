@@ -9,6 +9,11 @@ description: Video. Young Mexicans are taking part in 'aura battles', where crea
   confidence and humour decide the winner. The trend is moving from social media to
   live events.
 image: https://images.euronews.com/articles/stories/09/88/33/39/1200x675_cmsv2_0315e29e-75e9-5b2a-a050-98ed767a9a8b-9883339.jpg
+categories:
+- Europe
+- News & Politics
+- Comedy & Entertainment
+- Technology & Software
 ---
 
 Participants face off in informal “aura battles”, using dance moves, poses, facial expressions and playful gestures to show who can command the crowd’s attention. There are no physical fights: spectators usually choose the winner based on confidence, charisma and creativity.

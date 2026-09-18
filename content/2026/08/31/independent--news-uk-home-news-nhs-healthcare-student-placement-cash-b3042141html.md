@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Health minister Alison McGovern said the plans are another step toward
   ‘building the NHS workforce patients need for the future’
 image: https://static.independent.co.uk/2022/12/02/14/713513639ee13fcae2a20186affd43efY29udGVudHNlYXJjaGFwaSwxNjcwMDc2Mzky-2.69786960.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Thousands of healthcare students will receive upfront cash support to cover travel and accommodation costs for clinical placements under new government plans.

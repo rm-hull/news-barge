@@ -8,6 +8,9 @@ published: '2026-09-07T00:00:00Z'
 description: Dark energy might be getting weaker. Scientists are wondering if interactions
   with dark matter in a “dark dimension” may be responsible.
 image: https://media.wired.com/photos/6a99589b075950c219e95201/191:100/w_1280,c_limit/DarkInteractions-cr-Ada%20Zejun%20Shen-Lede.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 *The original version of**this story** appeared in**Quanta Magazine.*

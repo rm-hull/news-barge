@@ -9,6 +9,12 @@ published: '2026-08-27T00:00:00Z'
 description: ‘The one thing we do know is that Charlotte was the hero,’ a neighbor
   said of the late 12-year-old
 image: https://static.the-independent.com/2026/08/27/09/download.-1.?trim=1856,0,1856,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
+- Arts & Culture
 ---
 
 A 12-year-old girl has been hailed as a hero after she tried desperately to save her family during a Montana mass shooting that left 8 dead.

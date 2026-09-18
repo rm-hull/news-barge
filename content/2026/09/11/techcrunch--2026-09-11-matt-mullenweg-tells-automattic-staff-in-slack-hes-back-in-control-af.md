@@ -10,6 +10,10 @@ description: In a Slack message seen by TechCrunch, Matt Mullenweg told Automatt
   employees he’s back in control of the company, days after its board put him on leave.
   Automattic has not yet confirmed the apparent reversal.
 image: https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-disrupt.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Careers & Productivity
 ---
 
 Matt Mullenweg has posted a message to Automattic’s Slack, claiming he is back in control as CEO of the WordPress.com parent company, according to a screenshot of the message seen by TechCrunch, which was confirmed by multiple employee sources. The post arrives only days after Automattic’s board voted to oust Mullenweg as CEO for unknown reasons.

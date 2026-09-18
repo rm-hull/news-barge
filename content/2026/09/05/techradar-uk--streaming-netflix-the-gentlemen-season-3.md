@@ -9,6 +9,9 @@ published: '2026-09-05T00:00:00Z'
 description: Thankfully, The Gentlemen season 3 was renewed before season 2 was even
   released on Netflix. Here's the latest on the Guy Ritchie show's return.
 image: https://cdn.mos.cms.futurecdn.net/uZZBTjJKjFMyKzXixhxs4V-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Theo James looks over his shoulder in a convertible](https://cdn.mos.cms.futurecdn.net/uZZBTjJKjFMyKzXixhxs4V.jpg) 

@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A woman has been arrested after officers were called to reports of a
   suspected drink driver on the Yorkshire coast.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjExYjA3ZjJlLTg0ZWUtNDI5Ni1hNjhmLTNlZWFlYTRhOTUyZTpmMGVhZjYwZi1mYjBhLTRkOTItOGE3Mi04NzZmYmQ4ODY0YzU=.jpg?crop=3:2,smart&trim=&width=1140&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Woman found asleep in front of vehicle arrested on suspicion of drink driving

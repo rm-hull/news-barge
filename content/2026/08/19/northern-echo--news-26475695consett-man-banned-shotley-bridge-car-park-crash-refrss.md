@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: Simon Whitely, 34, of Consett, was banned from driving for six months
   after admitting careless driving and failing to stop or report a crash in the…
 image: https://www.thenorthernecho.co.uk/resources/images/16132699.jpg?type=og-image&xType=0&yType=62
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

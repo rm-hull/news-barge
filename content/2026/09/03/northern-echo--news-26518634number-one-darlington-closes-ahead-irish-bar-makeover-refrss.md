@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A Darlington bar has closed its doors ahead of a revamp into a new Irish
   bar - with pictures showing work getting underway.
 image: https://www.thenorthernecho.co.uk/resources/images/21405846.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ### What is the Public Notice Portal?

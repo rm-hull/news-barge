@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The south-western village of Pomas was hardest hit, with hundreds of
   homes damaged and fifteen people taken to hospital.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/940f/live/15a64300-a00e-11f1-9bf0-5f4ec548648d.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Moment tornado tears through southern France

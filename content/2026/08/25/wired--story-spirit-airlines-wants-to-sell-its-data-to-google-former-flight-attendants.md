@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: “It never crossed my mind that they would be so bold as to sell our private
   data for AI,” says one former Spirit Airlines flight attendant.
 image: https://media.wired.com/photos/6a8c0dfe87be8a9e28b0d0b1/191:100/w_1280,c_limit/GettyImages-2274586366.jpg
+categories:
+- Technology & Software
+- Science
+- Arts & Culture
 ---
 
 Spirit Airlines may have declared bankruptcy this spring, but the budget airline is still worth something—to AI giants, at least. In mid-August, Google won a $10 million bid to purchase some 34 years of the airline’s data, from invoices and flight operations information to Wi-Fi sales, employee records, and crew pairings.

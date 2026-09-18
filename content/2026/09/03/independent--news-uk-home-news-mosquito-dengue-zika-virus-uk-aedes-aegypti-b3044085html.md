@@ -8,6 +8,11 @@ scraped_at: '2026-09-03T12:48:39Z'
 published: '2026-09-03T00:00:00Z'
 description: The invasive mosquito species is usually found in tropical climates
 image: https://static.independent.co.uk/2025/07/25/9/50/iStock-2155777642-(1).jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Lifestyle & Fashion
 ---
 
 For the first time, an invasive species of mosquito known to transmit diseases such as dengue and Zika virus has been discovered breeding in the UK.

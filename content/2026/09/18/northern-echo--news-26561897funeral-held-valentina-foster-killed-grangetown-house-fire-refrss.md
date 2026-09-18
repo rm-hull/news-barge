@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Hundreds wearing pink attended seven-year-old Valentina Foster’s funeral
   in Middlesbrough on September 18, weeks after she and aunt Natalie…
 image: https://www.thenorthernecho.co.uk/resources/images/21472419.jpg?type=og-image&xType=0&yType=38
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: NORTH NEWS)*

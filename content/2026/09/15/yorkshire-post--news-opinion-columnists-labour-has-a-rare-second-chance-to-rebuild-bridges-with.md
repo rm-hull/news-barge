@@ -10,6 +10,12 @@ description: Seldom does a political party get a second chance to fix its relati
   threatening to concrete vast swathes of its land and set off to undermine their
   very way of life at every turn.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE5YTJjMzk1LWZkNDMtNGZhOS05N2NmLTdhZDAzZDJiMDczZjoyNWU2ZDg2ZS1mYWUxLTQ5YjMtOTIyMy05ZDc2YTQ0MDYzMmU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 # Labour has a rare second chance to rebuild bridges with rural voters

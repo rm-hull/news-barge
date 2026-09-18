@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Trump-endorsed Paxton is in a competitive U.S. Senate race in Texas with
   Democrat James Talarico
 image: https://static.independent.co.uk/2026/09/10/1/31/GettyImages-2294404784.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump has trashed Texas Attorney General Ken Paxton in a keynote speech on the first night of a Republican convention meant to boost his and other GOP candidates’ midterm campaigns.

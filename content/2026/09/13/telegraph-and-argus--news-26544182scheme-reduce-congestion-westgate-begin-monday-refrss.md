@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: A nine-month scheme to ease congestion on a major route into Bradford
   city centre will begin on Monday.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19998942.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A NINE-month scheme to ease congestion on a major route into Bradford city centre will begin on Monday.

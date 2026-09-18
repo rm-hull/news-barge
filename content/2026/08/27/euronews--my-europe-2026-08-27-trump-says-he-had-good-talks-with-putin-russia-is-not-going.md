@@ -9,6 +9,10 @@ description: 'The Kremlin also dismissed as "scare stories" US media reports sug
   that Russia could attack NATO, following a rare visit by the CIA director to Moscow.
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/19/71/1200x675_cmsv2_4ea3f2c1-a145-53a8-942e-b822538a51e0-9891971.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## The Kremlin also dismissed as "scare stories" US media reports suggesting that Russia could attack NATO, following a rare visit by the CIA director to Moscow.

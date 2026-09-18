@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: All Saints RC School students in York have celebrated “phenomenal” GCSE
   results.
 image: https://www.yorkpress.co.uk/resources/images/21349227.jpg?type=og-image
+categories:
+- Local
+- York
+- Education & Learning
 ---
 
 ## Students celebrate 'phenomenal' GCSE results at top York school

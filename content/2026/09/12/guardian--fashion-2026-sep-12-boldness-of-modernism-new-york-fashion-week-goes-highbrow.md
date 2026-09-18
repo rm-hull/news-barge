@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Georgia O’Keeffe inspires the latest Calvin Klein while Michael Kors
   feels indebted to Alexander Calder
 image: https://i.guim.co.uk/img/media/bb9e8dad028138622011bfe5a54cf7ad1afc1692/0_0_3600_2880/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=996355df9f0d429f8a30efb2fc30bd1d
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Calvin Klein has taken a highbrow turn in the two years since Veronica Leoni took charge. The Italian designer, a philosophy graduate who was schooled in the chic design studios of Jil Sander and Celine, has shifted away from jeans, boxer shorts and logos, stripping the brand to its minimalist bones: slip dresses and simple coats, slim skirts and crisp T-shirts.

@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: A York teenager who consistently gives up her Saturdays to help maintain
   her local cemetery has been commended at the York Community Pride Awards.
 image: https://www.yorkpress.co.uk/resources/images/21443245.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Inspirational teen who gives up Saturdays to volunteer at local cemetery awarded

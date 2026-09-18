@@ -9,6 +9,11 @@ description: One advertisement featured a pornographic video with a deepfake clo
   resembling a prominent US politician. Apple removed the app from the App Store after
   an inquiry from WIRED.
 image: https://media.wired.com/photos/6a7b83f8c77bf6fe1feeaecb/191:100/w_1280,c_limit/Politics_An%20NSFW%20Ad%20Featuring%20a%20Deepfaked%20Elisa%20Slotkin%20Is%20Running%20on%20Meta%20Platforms_v1.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Meta platforms recently ran ads for an AI porn-generation tool that seemingly encouraged users to create deepfaked videos resembling female US politicians, despite the company’s policies against ads containing sexual material. It’s the latest in a series of failures by Meta to keep advertisements for tools that produce nonconsensual intimate imagery off its platforms.

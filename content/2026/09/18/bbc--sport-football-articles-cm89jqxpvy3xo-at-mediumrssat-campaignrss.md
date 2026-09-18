@@ -10,6 +10,10 @@ description: Sam Hutchinson is getting ready to play for Farnham Town in the sec
   qualifying round of the FA Cup - 19 years after making his Chelsea debut under Jose
   Mourinho.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8371/live/3dc5df20-b2a2-11f1-bd7d-0f16235ccc4c.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Sam Hutchinson (back row, third from left) lines up for Chelsea before a friendly against Paris St-Germain in New York in July 2012 - two months after the Blues won the Champions League](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d623/live/3e11cf50-b26d-11f1-b67f-2b40fa83cfed.png)

@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The men, both aged 25, collapsed on the course on Sunday, the Great Run
   Company says.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba17/live/c0bc8530-b03d-11f1-9ae0-e316eeb4632d.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![The backs of hundreds of runners running across the Tyne Bridge which is partially covered by scaffolding on the left. Spectators stand on the right, many holding up colourful signs and looking to the runners on the left.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/ba17/live/c0bc8530-b03d-11f1-9ae0-e316eeb4632d.jpg)

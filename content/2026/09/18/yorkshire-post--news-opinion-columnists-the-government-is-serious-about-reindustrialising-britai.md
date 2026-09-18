@@ -10,6 +10,11 @@ description: We’ve made a commitment to re-industrialise Britain – to bring 
   to every postcode of our country. And backing the proud communities of Stocksbridge,
   Rotherham, Wednesbury and Brinsworth is absolutely part of that commitment.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjU4Mzc5ZDg3LTY3MTMtNDVjYS1hNTg3LTczNjFhNGUyMTAxODo4ZGQxMzI3OS1hNDhkLTRmOGItODI1OC1lOTc4ZjMyZjcxNjI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # The Government is serious about reindustrialising Britain, with the steel sector playing its part - Jonathan Reynolds

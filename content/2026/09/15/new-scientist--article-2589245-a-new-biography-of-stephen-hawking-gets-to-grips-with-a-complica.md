@@ -10,6 +10,9 @@ description: Graham Farmelo has written the first authorised biography of the fa
   physicist. He should be applauded for digging into various controversies – but could
   have gone further, says Jacob Aron
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI312431714.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Stephen Hawking](https://www.newscientist.com/wp-content/uploads/2026/09/SEI312431714.jpg?w=840)

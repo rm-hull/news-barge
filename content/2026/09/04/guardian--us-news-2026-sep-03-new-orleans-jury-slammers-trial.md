@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Sean Alfortish and Leon Parker convicted on some counts but not murder
   charges linked to insurance fraud plot
 image: https://i.guim.co.uk/img/media/06756b6dd2dcd44433e867e6b1d55cf9bc4de431/2966_1301_5254_4203/master/5254.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7aedccb51ba0d188e1cfc13328086d44
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 A federal jury in New Orleans on Thursday returned a split verdict after more than 30 hours of deliberations in a three-week-long blockbuster fraud and murder trial that garnered headlines far beyond Louisiana.

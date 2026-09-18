@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Cleveland Police Chief Constable Victoria Fuller has confirmed the names
   of the two police officers killed in this morning’s crash on the A66 as…
 image: https://www.thenorthernecho.co.uk/resources/images/21358302.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: SARAH CALDECOTT)*

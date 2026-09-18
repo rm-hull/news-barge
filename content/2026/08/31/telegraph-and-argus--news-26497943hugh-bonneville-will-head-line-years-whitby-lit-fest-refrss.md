@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Downton Abbey star Hugh Bonneville will headline this year’s Whitby Lit
   Fest.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19802715.jpg?type=og-image&xType=0&yType=265
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: Supplied)*

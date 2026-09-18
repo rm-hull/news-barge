@@ -10,6 +10,10 @@ description: Major General Nikolai Varpakhovich, commander of a heavy bomber div
   was shot twice by a motorbike gunman near Engels airbase and airlifted to Moscow
   in serious condition.
 image: https://images.euronews.com/articles/stories/09/90/04/16/1200x675_cmsv2_75e75c1d-43a3-5f2c-8d37-3795ca3a369c-9900416.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## Major General Nikolai Varpakhovich, commander of a heavy bomber division and charged in absentia by Ukraine over the 2024 Okhmatdyt children's hospital strike, was shot twice by a motorbike gunman near Engels airbase and airlifted to Moscow in serious condition.

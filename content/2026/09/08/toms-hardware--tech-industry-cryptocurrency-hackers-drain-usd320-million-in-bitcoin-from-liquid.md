@@ -9,6 +9,11 @@ scraped_at: '2026-09-08T12:51:06Z'
 published: '2026-09-08T00:00:00Z'
 description: The nature of the exploit was "unusual"
 image: https://cdn.mos.cms.futurecdn.net/q9BqLa7vM7iU63EiCE6opD-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Bitcoin](https://cdn.mos.cms.futurecdn.net/q9BqLa7vM7iU63EiCE6opD.jpg) 

@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Bradford holidaymakers flying from Manchester Airport can now enjoy pre-flight
   pints and fry-ups at a new Wetherspoon pub.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21463491.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Manchester Airport)*

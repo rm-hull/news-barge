@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Ben Shelton powers past Frances Tiafoe in an all-American US Open semi-final
   to earn a spot in Sunday's final against number one seed Alexander Zverev.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3426/live/a8eefbc0-ae5a-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Ben Shelton smiles after winning his US Open semi-final](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/3426/live/a8eefbc0-ae5a-11f1-a540-61c3f7fc4e6c.jpg)

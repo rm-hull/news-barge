@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: South Korea is giving everyone free AI, and governments worldwide are
   watching
 image: https://cdn.mos.cms.futurecdn.net/pvkgvETjmqkheCK3xtsQx9-1920-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![AI brain coming out of laptop screen](https://cdn.mos.cms.futurecdn.net/pvkgvETjmqkheCK3xtsQx9.jpg) 

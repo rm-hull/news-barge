@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: A paedophile who groomed and repeatedly sexually assaulted a child has
   been put behind bars for a decade.
 image: https://www.thenorthernecho.co.uk/resources/images/21424884.jpg?type=og-image&xType=0&yType=138
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
+- Society & Culture
 ---
 
 *(Image: CLEVELAND POLICE)*

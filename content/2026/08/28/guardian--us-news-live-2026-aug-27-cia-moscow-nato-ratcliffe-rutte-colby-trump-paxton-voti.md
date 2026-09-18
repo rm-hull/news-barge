@@ -8,6 +8,10 @@ scraped_at: '2026-08-28T11:15:39Z'
 published: '2026-08-28T00:00:00Z'
 description: This live blog is now closed.
 image: https://i.guim.co.uk/img/media/2609851d8d0107c05a3f4ea409e352ec72c13464/92_0_5299_4240/master/5299.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=feddc1087edc78f52d2896ade2349a3a
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Trump signs order to rename Lake Ontario as 'Lake America'

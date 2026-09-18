@@ -7,6 +7,9 @@ scraped_at: '2026-08-28T22:15:31Z'
 published: '2026-08-28T00:00:00Z'
 description: Don't get quished, get peace of mind every time
 image: https://cdn.mos.cms.futurecdn.net/hxoKTQnziCWgojWmpRY8fW-960-80.jpg
+categories:
+- Technology & Software
+- Self-Improvement
 ---
 
 ![QR Code scanned via phone](https://cdn.mos.cms.futurecdn.net/hxoKTQnziCWgojWmpRY8fW.jpg) 

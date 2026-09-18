@@ -7,6 +7,9 @@ scraped_at: '2026-08-20T16:47:26Z'
 published: '2026-08-20T00:00:00Z'
 description: Trump's Gaza peace plan shares the fatal flaw of all previous deals
 image: https://static.independent.co.uk/2026/08/17/10/2261923280..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump’s Board of Peace published a 15-point roadmap for Gaza in late July in which Hamas would hand its weapons to a committee of Palestinian technocrats, certified by an international verification body, and Israel would withdraw from the strip in phases. After Israel officially rejected the plan on August 9, US envoy Jared Kushner flew to the Egyptian coast to meet Hamas representatives.

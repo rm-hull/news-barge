@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: A steam-powered pub crawl through Brontë Country is set to return as
   part of a unique beer and music festival.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21307903.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Music
 ---
 
 A steam-powered pub crawl through Brontë Country is set to return as part of a unique beer and music festival.

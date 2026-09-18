@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T12:45:37Z'
 published: '2026-09-02T00:00:00Z'
 description: A bus stop has been damaged in a York retail park.
 image: https://www.yorkpress.co.uk/resources/images/21400986.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: North Yorkshire Police)*

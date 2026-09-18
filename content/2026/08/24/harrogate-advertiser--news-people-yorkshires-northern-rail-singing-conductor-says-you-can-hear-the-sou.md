@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Harrogate’s renowned ‘singing conductor’ and artist Paul Mirfin has issued
   two new songs recorded live at Knaresborough railway station.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjY3MDUwNjU2LWZlMGEtNDgzYy1iNDUwLWM4ZGU1MzQwOGYzZTpmNGZiMWEwNS1kNDc5LTQ2ZjItOTI3NC1kM2EyN2EyODUzOWY=.jpg?crop=3:2,smart&trim=&width=714&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 # Yorkshire's Northern rail 'singing conductor' says 'you can hear the sound of Knaresborough railway station' in new recordings

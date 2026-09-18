@@ -10,6 +10,8 @@ description: Sony has announced its first-ever fisheye lens, the FE 8-14mm F3.5 
   It's designed for full-frame cameras and has a maximum 180-degree field of view
   which makes it an interesting choice for astrophotography and more.
 image: https://cdn.mos.cms.futurecdn.net/n4nMi5qYaMDVSpL4dcYqcn-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Sony FE 8-14mm F3.5 G fisheye lens attached to a Sony A7R V camera, close up of the bulbous front element](https://cdn.mos.cms.futurecdn.net/n4nMi5qYaMDVSpL4dcYqcn.jpg) 

@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Rights group claims 300 homes were destroyed in Tibet and number of missing
   people is ‘far higher’ than Beijing admits
 image: https://i.guim.co.uk/img/media/8143db2fa8974d65eddb0464c9b34eb884378730/1307_0_6534_5228/master/6534.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=17546c6abf1edcc75d977b3cfb41848c
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 A Tibetan advocacy group says hundreds of homes were destroyed on the Tibetan side of the border in last week’s deadly floods, raising questions about Beijing’s official account of the scale of the disaster.

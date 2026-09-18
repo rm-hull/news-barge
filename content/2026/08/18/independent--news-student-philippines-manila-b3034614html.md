@@ -10,6 +10,10 @@ description: Authorities say a high school student carrying two firearms shot to
   a fellow student before killing himself in a high school in a university campus
   in the southern Philippines
 image: https://static.independent.co.uk/2026/08/18/04/Philippines_Shooting_157_1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
 ---
 
 Student shot a classmate to death then killed himself at school in southern Philippines, mayor says

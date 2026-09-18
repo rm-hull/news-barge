@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: A fundraiser launched for the families of two Cleveland Police officers
   killed in the A66 crash has reached its target, surpassing £1.2 million.
 image: https://www.thenorthernecho.co.uk/resources/images/21367256.jpg?type=og-image&xType=0&yType=25
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A fundraiser launched for the families of two Cleveland Police officers killed in the A66 crash has reached its target, surpassing £1.2 million.

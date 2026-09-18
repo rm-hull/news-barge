@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Four Ripon Grammar School pupils celebrated achieving 10 or more grade
   9 GCSEs as the North Yorkshire school recorded one of its strongest sets of…
 image: https://www.thenorthernecho.co.uk/resources/images/21346350.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 Four Ripon Grammar School boys were on cloud nine as they celebrated achieving ten or more top grades in a stunning set of GCSE results.

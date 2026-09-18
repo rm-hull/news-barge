@@ -8,6 +8,10 @@ scraped_at: '2026-09-18T12:59:35Z'
 published: '2026-09-18T00:00:00Z'
 description: I, too, would love for my bank to charge me negative fees.
 image: https://cdn.mos.cms.futurecdn.net/gHmhFGMn3m34gQvLf5YwE5-2048-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
 ---
 
 ![Bitcoin drop](https://cdn.mos.cms.futurecdn.net/gHmhFGMn3m34gQvLf5YwE5.jpg) 

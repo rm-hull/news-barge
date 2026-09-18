@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Many of the passengers and crew are reported to have been rescued, say
   local media
 image: https://i.guim.co.uk/img/media/9c0c7eb582e6c1534e928ba6975f90559865a259/13_0_1125_900/master/1125.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b8a38d3840a71ed55d20cc0ced21f913
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 At least six people have died after a ferry carrying nearly 270 passengers and crew capsized off the coast of Turkish-occupied northern Cyprus, local media reported.

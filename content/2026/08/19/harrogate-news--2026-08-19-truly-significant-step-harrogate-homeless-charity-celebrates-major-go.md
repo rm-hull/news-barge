@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: The Harrogate Homeless Project has welcomed a substantial funding package
   aimed at tackling homelessness and rough sleeping across the Harrogate district,
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/HHP-webp.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 The Harrogate Homeless Project has welcomed a substantial funding package aimed at tackling homelessness and rough sleeping across the Harrogate district, backing up national commitments made by Prime Minister Andy Burnham.

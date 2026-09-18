@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Crowds descended on St John’s Chapel in County Durham on Saturday as
   the Weardale Show returned for its 156th edition.
 image: https://www.thenorthernecho.co.uk/resources/images/21389198.jpg?type=og-image&xType=0&yType=178
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 Crowds descended on St John’s Chapel in County Durham on Saturday as the Weardale Show returned for its 156th year.

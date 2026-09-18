@@ -8,6 +8,8 @@ scraped_at: '2026-09-12T12:08:39Z'
 published: '2026-09-12T00:00:00Z'
 description: For both the US and UK!
 image: https://cdn.mos.cms.futurecdn.net/8vcFqXfkHSkJXR2kMo4z5X-1913-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Screenshot from Apple's September 2026 event](https://cdn.mos.cms.futurecdn.net/8vcFqXfkHSkJXR2kMo4z5X.jpg) 

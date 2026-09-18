@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Leeds is among the top destinations where tickets are being snapped up
   in Northern's flash sale.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21404931.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: Northern)*

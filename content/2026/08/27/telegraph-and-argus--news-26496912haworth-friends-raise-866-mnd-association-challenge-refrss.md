@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A THREE-LEGGED charity challenge has raised £866.94 for the Motor Neurone
   Disease (MND) Association, in Haworth, West Yorkshire
 image: https://www.thetelegraphandargus.co.uk/resources/images/21373551.jpg?type=og-image&xType=0&yType=169
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

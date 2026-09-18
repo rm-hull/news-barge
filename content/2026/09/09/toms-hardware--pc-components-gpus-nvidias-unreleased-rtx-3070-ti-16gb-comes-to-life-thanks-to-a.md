@@ -9,6 +9,9 @@ scraped_at: '2026-09-09T12:56:44Z'
 published: '2026-09-09T00:00:00Z'
 description: Doing what Nvidia wouldn't.
 image: https://cdn.mos.cms.futurecdn.net/yEM7zXwVHypT7nAhDBVMek-2560-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![A VRAM-modded RTX 3070 Ti with 16GB of GDDR6 memory](https://cdn.mos.cms.futurecdn.net/yEM7zXwVHypT7nAhDBVMek.png) 

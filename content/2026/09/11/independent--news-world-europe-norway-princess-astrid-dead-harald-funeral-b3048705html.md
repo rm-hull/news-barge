@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Princess Astrid is reported to have said goodbye to her brother at the
   cathedral last week
 image: https://static.independent.co.uk/2026/09/11/14/download.-2.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Norway's Princess Astrid, the older sister of the late King Harald, died on Friday at the age of 94,  just days after the European King’s funeral.

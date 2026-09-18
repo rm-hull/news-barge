@@ -7,6 +7,11 @@ scraped_at: '2026-08-27T22:13:27Z'
 published: '2026-08-27T00:00:00Z'
 description: A hedgehog has died after being kicked by a group of youths.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21381574.jpg?type=og-image&xType=0&yType=423
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: West Yorkshire Police)*

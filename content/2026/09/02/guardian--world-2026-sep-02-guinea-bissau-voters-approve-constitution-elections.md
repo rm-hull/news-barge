@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Changes include fewer seats in parliament and new rules on presidential
   candidates ahead of December elections
 image: https://i.guim.co.uk/img/media/692482d12483ec49ad65ea5e84f3dcac37fd8adb/1150_407_4403_3526/master/4403.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7fac1a699d98965ecf5603759133b1ca
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands presidential powers ahead of elections due in December.

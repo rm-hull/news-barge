@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: County Durham-born Rowan Atkinson is being tipped to host one of the
   BBC's best-known shows, Top Gear, after a revival of the programme was…
 image: https://www.thenorthernecho.co.uk/resources/images/17739512.jpg?type=og-image&xType=0&yType=28
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
+- Comedy & Entertainment
 ---
 
 County Durham-born Rowan Atkinson is being tipped to host one of the BBC's best-known shows.

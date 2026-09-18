@@ -9,6 +9,10 @@ description: Archeologists are confronting an “unfathomable” loss as border 
   is set to cut across ranches that are home to unique historical sites, many of which
   haven’t been fully studied.
 image: https://media.wired.com/photos/6a8cb2ea1cb68a79f2a89e3d/191:100/w_1280,c_limit/Science_Border%20Wall%20Construction%20Threatens%206,000%20Years%20of%20History%20on%20Private%20Lands_v2.jpg
+categories:
+- Technology & Software
+- Science
+- History
 ---
 
 Outrage has exploded over border infrastructure that recently began tearing up pristine desert landscapes in Big Bend National Park. But there’s a quieter battle taking place on private lands in Texas, where the US border wall is set to cut across some of North America's richest archaeological sites, digging up ancient indigenous artifacts and fracturing millennia-old rock art in its path.

@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: Today’s Object of the Week is a collection of artworks inspired by some
   evocative historic landmarks, offering a fresh perspective on places that…
 image: https://www.thenorthernecho.co.uk/resources/images/21435844.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 Today’s Object of the Week is a collection of artworks inspired by some evocative historic landmarks, offering a fresh perspective on places that have captured imaginations for centuries.

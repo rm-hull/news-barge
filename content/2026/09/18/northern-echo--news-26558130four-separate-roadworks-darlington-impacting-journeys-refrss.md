@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Four Darlington roads are affected by roadworks this Friday, with restrictions
   continuing into October.
 image: https://www.thenorthernecho.co.uk/resources/images/21466792.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: GOOGLE)*

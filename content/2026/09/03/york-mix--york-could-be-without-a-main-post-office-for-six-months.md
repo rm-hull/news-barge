@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T12:48:42Z'
 published: '2026-09-03T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-post-office-coney-street-interior-main.webp
+categories:
+- Local
+- York
+- Careers & Productivity
 ---
 
 York could spend six months without a main Post Office.

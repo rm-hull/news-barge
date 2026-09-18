@@ -9,6 +9,12 @@ published: '2026-09-02T00:00:00Z'
 description: The future of Poundland, which has two stores in Norwich, is uncertain
   as its owner races to secure a sale before the crucial Christmas trading…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21401470.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Supplied)*

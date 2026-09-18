@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Nasty Gal was bought by Boohoo nearly a decade ago for 20 million US
   dollars (£14.8 million).
 image: https://static.independent.co.uk/2026/09/15/17/22100616-3423d02c-4167-4c96-b8c8-a175874b00cb.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Debenhams has sold women’s fashion brand Nasty Gal for 16 million US dollars (£11.9 million) as part of turnaround efforts to return the business to a profit.

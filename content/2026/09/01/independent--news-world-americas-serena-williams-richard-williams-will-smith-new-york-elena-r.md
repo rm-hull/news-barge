@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Thea Frodin is playing her first U.S. Open singles match against the
   No. 2 player in women’s tennis
 image: https://static.independent.co.uk/2026/09/01/02/US_Open_Serena%27s_Body_Double_Tennis_31195.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Video Gaming
 ---
 
 Thea Frodin is playing her first U.S. Open singles match against the No. 2 player in women's tennis.

@@ -11,6 +11,11 @@ description: Canadian Prime Minister Mark Carney says Canada would move faster t
   on about $20 billion worth of U.S. goods and the country braced for President Donald
   Trump’s response
 image: https://static.independent.co.uk/2026/09/08/17/Canada_US_Trade_Carney_924_3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Canadian Prime Minister Mark Carney said Tuesday that Canada would move faster to reduce its economic reliance on the United States as retaliatory tariffs took effect on about $20 billion worth of U.S. goods and the country braced for President Donald Trump’s response.

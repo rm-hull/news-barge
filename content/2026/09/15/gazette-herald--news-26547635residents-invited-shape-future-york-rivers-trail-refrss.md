@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Residents are being encouraged to help shape the future of the York rivers
   trail after the family-focused project reached more than 6,000 people and…
 image: https://www.gazetteherald.co.uk/resources/images/21451303.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 Residents are being invited to help shape the future of a popular York rivers trail after the project reached more than 6,000 people through family-focused channels during its first season.

@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: An overnight ban on the parking of campervans on the North Yorkshire
   coast has been expanded following a ‘displacement of problems’.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE3NzI1Yjc2LTAyY2YtNDVhMS04YTFiLWNhMDNkYmYwZmY5ZDozYjhjNWQ5Ny0wY2QyLTQ5M2ItYmNmYi1kMTVmNGNkYWI0MGU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Controversial campervan parking ban expanded on North Yorkshire coast

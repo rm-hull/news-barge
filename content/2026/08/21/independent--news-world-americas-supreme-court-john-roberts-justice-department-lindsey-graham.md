@@ -10,6 +10,9 @@ description: Supreme Court Chief Justice John Roberts is allowing the White Hous
   to continue construction on President Donald Trump’s $400 million ballroom project
   for now
 image: https://static.independent.co.uk/2026/08/21/21/Trump_White_House_Ballroom_Helipad_31712.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Supreme Court Chief Justice John Roberts is allowing the White House to continue construction on President Donald Trump’s $400 million ballroom project for now. Roberts signed a temporary order on Friday allowing work to continue while the court considers an emergency appeal from the Trump administration. Lower courts had ordered a halt to the project, finding that it must have congressional approval.

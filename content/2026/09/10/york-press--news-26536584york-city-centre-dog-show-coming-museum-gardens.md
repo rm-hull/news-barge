@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: York Museum Gardens is gearing up to host the city's first-ever city
   centre dog show next weekend.
 image: https://www.yorkpress.co.uk/resources/images/21432039.jpg?type=og-image&yType=208
+categories:
+- Local
+- York
+- Lifestyle & Fashion
+- Arts & Culture
 ---
 
 ## York Museum Gardens to host first-ever city centre dog show

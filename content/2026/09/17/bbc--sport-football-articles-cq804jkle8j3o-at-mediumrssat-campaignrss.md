@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Before Thomas Tuchel names his first squad since the World Cup on Friday,
   BBC Sport looks at the big questions facing the England boss.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5496/live/2b95ab20-b29b-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Thomas Tuchel in conversation with Jude Bellingham](https://ichef.bbci.co.uk/ace/standard/840/cpsprodpb/8c87/live/60798e10-b29b-11f1-a430-4d16ee157c41.jpg)

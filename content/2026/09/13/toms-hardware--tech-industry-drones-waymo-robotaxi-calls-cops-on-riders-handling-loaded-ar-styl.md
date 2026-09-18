@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Police that intercepted the car also found 'suspected marijuana and mace
   spray.'
 image: https://cdn.mos.cms.futurecdn.net/rHMgu2S3YA5XhAf4QbtgoQ-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- True Crime
 ---
 
 ![A Waymo robotaxi](https://cdn.mos.cms.futurecdn.net/rHMgu2S3YA5XhAf4QbtgoQ.jpg) 

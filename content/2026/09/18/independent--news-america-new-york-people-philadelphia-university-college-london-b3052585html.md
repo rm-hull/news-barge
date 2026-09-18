@@ -7,6 +7,11 @@ scraped_at: '2026-09-18T19:00:36Z'
 published: '2026-09-18T00:00:00Z'
 description: America is the land of possibility and the land of cockamamie schemes
 image: https://static.independent.co.uk/2026/09/18/14/America_25_-Nation_of_Suckers_17_18.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 America: land of possibility. And also: land of suckers.

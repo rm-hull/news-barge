@@ -9,6 +9,13 @@ published: '2026-08-22T00:00:00Z'
 description: Darlington and County Durham are dotted with villages whose histories
   stretch back hundreds of years, but not every medieval settlement survived.
 image: https://www.thenorthernecho.co.uk/resources/images/21341039.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Society & Culture
+- Travel
 ---
 
 Darlington and County Durham are dotted with villages whose histories stretch back hundreds of years, but not every medieval settlement survived into the modern era.

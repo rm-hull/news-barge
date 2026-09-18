@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Visitors are calling for Symphonic Ibiza to become a regular event in
   Harrogate following its successful debut at the Great Yorkshire Showground.
 image: https://mmo.aiircdn.com/409/6a842d065cb78c17f2c.jpg
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 ![](https://mmo.aiircdn.com/409/6a842d065cb78c17f2c.jpg) 

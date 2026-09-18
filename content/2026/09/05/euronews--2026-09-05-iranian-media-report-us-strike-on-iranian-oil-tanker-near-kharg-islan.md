@@ -9,6 +9,9 @@ description: Iranian media reported that an Iranian oil tanker was struck by US 
   on Saturday morning, a day after Iran reportedly fired missiles towards the Strait
   of Hormuz.
 image: https://images.euronews.com/articles/stories/09/90/24/59/1200x675_cmsv2_8b6389f0-dece-51d9-bd4c-248ade0e2fb3-9902459.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 **Euronews Persian**

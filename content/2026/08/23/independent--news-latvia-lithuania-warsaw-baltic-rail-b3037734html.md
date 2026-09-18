@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: A powerful cyclone has hit Latvia and Lithuania, leaving two people dead
   and more than half a million without electricity
 image: https://static.independent.co.uk/2026/08/23/12/Estonia_Weather_33441.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Two people died and around half a million people were left without electricity across Latvia and Lithuania after a powerful cyclone, bringing rain and strong winds, hit the region on Saturday and into Sunday morning.

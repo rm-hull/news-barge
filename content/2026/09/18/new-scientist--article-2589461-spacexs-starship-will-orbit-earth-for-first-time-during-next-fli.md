@@ -9,6 +9,9 @@ description: Starship's next test flight will be its first orbital mission. The 
   will also release working Starlink V3 satellites for the first time, making the
   flight the first commercially useful Starship mission
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312823359.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![SpaceX's Starship atop the Super Heavy V3 booster during the 13th launch on 24 July 2026](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312823359.jpg?w=840)

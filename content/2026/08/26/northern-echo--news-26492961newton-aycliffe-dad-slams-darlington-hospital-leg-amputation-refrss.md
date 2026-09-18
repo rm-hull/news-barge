@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A Newton Aycliffe dad says his life has “changed forever” after a cut
   on his toe led to his leg being amputated below the knee.
 image: https://www.thenorthernecho.co.uk/resources/images/21370953.jpg?type=og-image&xType=0&yType=100
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: SARAH CALDECOTT)*

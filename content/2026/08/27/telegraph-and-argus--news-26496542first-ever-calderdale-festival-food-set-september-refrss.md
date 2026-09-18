@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A NEW festival in Calderdale is set to celebrate the best of food and
   drink.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21373077.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 A NEW festival is set to celebrate the best of food and drink.

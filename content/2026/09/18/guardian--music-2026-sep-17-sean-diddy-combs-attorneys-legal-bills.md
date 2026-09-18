@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: The musician is serving a 50-month federal prison term for prostitution-related
   offenses
 image: https://i.guim.co.uk/img/media/d4c96da37ed4c2b19515c1239174b30bfeee9cc1/227_222_2769_2217/master/2769.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba7bbffbc9b6389ae3bf1a5f57e8dfda
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 Attorneys representing rapper Sean “Diddy” Combs say they are no longer acting for the disgraced star in a dispute over months of unpaid legal bills.

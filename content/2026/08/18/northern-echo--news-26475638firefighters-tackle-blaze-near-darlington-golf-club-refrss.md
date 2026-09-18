@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Fire crews were called to a blaze in a wooded area near a golf club in
   Darlington.
 image: https://www.thenorthernecho.co.uk/resources/images/21337567.jpg?type=og-image&xType=0&yType=3
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Mark Etherington)*

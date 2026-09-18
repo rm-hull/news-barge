@@ -9,6 +9,10 @@ description: The missile struck a tanker 63 nautical miles west of Yanbu, settin
   it ablaze, in the latest strike under the Houthis' announced blockade of Saudi Arabia,
   threatening its ability to export millions of barrels of crude oil per day.
 image: https://images.euronews.com/articles/stories/09/88/69/14/1200x675_cmsv2_7b72ff5b-e25a-5841-91d4-ed164083eb3f-9886914.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## The missile struck a tanker 63 nautical miles west of Yanbu, setting it ablaze, in the latest strike under the Houthis' announced blockade of Saudi Arabia, threatening its ability to export millions of barrels of crude oil per day.

@@ -7,6 +7,11 @@ scraped_at: '2026-08-21T01:53:25Z'
 published: '2026-08-20T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/police-a1079-barmby-moor-york-20-aug-2026.webp
+categories:
+- Local
+- York
+- Automotive
+- Travel
 ---
 
 Police have closed a stretch of road east of York tonight (Thursday).

@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Helicopter teams have searched the area for missing people after dozens
   rescued
 image: https://static.independent.co.uk/2026/08/30/22/24/BA-Creek-Flash-Flood-8-29-26.jpg?trim=208,0,208,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Fifteen people remained unaccounted for after dozens of people were rescued following a “significant flash food” in the Grand Canyon, according to park officials.

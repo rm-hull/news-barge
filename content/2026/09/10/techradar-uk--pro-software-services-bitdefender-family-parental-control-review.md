@@ -8,6 +8,8 @@ published: '2026-09-10T00:00:00Z'
 description: A comprehensive security bundle that combines powerful parental controls
   with an antivirus, password manager, and more
 image: https://cdn.mos.cms.futurecdn.net/KheyfvHiLszLvMHdwy3tY-1612-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

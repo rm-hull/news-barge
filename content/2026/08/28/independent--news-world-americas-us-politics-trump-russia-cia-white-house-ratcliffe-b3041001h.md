@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: President Trump dismissed suggestions that the CIA director was sent
   to Moscow over concerns that Russia could test NATO’s resolve
 image: https://static.independent.co.uk/2026/08/28/13/2269548484..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 President Trump did not brief some senior White House officials ahead of the director of the CIA’s visit to Russia earlier this week, it has been reported.

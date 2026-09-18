@@ -10,6 +10,9 @@ published: '2026-08-26T00:00:00Z'
 description: Metro 2039 will feature a new speaking protagonist, The Stranger, which
   allowed 4A Games to tell a darker, more personal story.
 image: https://cdn.mos.cms.futurecdn.net/3DujjpMPnJMmxNqKSwo7Wo-2560-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Metro 2039](https://cdn.mos.cms.futurecdn.net/3DujjpMPnJMmxNqKSwo7Wo.jpg) 

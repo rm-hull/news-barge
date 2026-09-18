@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: The UK entered an armed conflict with its Latin American rival over the
   windswept islands 44 years ago
 image: https://static.independent.co.uk/2026/09/04/06/2292748702..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 Argentina’s president has escalated his country’s claim over the Falkland Islands, vowing to “fight tooth and nail” to defend its interests.

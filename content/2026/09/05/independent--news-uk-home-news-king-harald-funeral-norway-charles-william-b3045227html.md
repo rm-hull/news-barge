@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: King Harald’s funeral will take place next week following his death at
   the age of 89 last month
 image: https://static.independent.co.uk/2026/09/02/19/download.-3.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Buckingham Palace has announced that the Prince of Wales will represent his father at the funeral of King Harald V of Norway next week.

@@ -10,6 +10,9 @@ description: 'Following talks in Kyiv with US envoys, Zelenskyy said, "We very m
   are counting on the support of our European partners if the war continues in winter
   -- and this is how it appears at the moment." #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/30/63/1200x675_cmsv2_b7d5179c-494e-550d-83c0-e04fc30030f8-9903063.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Following talks in Kyiv with US envoys, Zelenskyy said, "We very much hope that we will be able to reach agreements with our American partners, and we are counting on the support of our European partners if the war continues in winter -- and this is how it appears at the moment."

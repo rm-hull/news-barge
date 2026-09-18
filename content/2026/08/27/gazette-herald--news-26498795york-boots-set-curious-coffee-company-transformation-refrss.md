@@ -7,6 +7,11 @@ scraped_at: '2026-08-27T12:01:44Z'
 published: '2026-08-27T00:00:00Z'
 description: Plans to transform an empty York shop have taken a step forward.
 image: https://www.gazetteherald.co.uk/resources/images/21376443.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 ### What is the Public Notice Portal?

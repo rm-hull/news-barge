@@ -9,6 +9,10 @@ description: 'The prime minister''s announcement marks a sharp ideological and p
   break with the 2010-2026 Orbán governments and, since April''s government change,
   a key step forward for human rights and child protection in Hungary. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/17/91/1200x675_cmsv2_ff20b22e-54c0-5c4e-878f-6e20acd359d0-9911791.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 **Euronews/Horváth Ferenc**

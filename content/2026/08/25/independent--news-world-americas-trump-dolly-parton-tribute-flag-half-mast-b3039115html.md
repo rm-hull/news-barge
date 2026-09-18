@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Queen of Country Music’s death was announced Tuesday by her nephew Bryan
   Seaver
 image: https://static.independent.co.uk/2026/08/25/18/42/MixCollage-25-Aug-2026-02-47-PM-4518.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 President Donald Trump has ordered flags to be lowered at half mast to honor country music icon Dolly Parton after her death aged 80.

@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Four people have been arrested after armed police were called to an incident
   involving a weapon in Thornaby.
 image: https://www.thenorthernecho.co.uk/resources/images/11948501.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: NORTHERN ECHO)*

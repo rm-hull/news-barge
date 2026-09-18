@@ -10,6 +10,10 @@ description: An oil tanker was disabled after being struck by an unknown project
   off Oman, underscoring shipping risks as Iran maintains tight control over the Strait
   of Hormuz
 image: https://static.independent.co.uk/2026/08/25/10/Iran_War_51557.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 An oil tanker was hit with a projectile off the coast of Oman in the Strait of Hormuz, according to a report Tuesday that highlighted the ongoing dangers for shipping companies attempting to use the waterway while Iran holds it in firm control.

@@ -9,6 +9,8 @@ published: '2026-08-26T00:00:00Z'
 description: Plug-in solar kits become legal in the UK from August 27, but will you
   be buying one? Have your say in our poll.
 image: https://cdn.mos.cms.futurecdn.net/K8N6WcQTEVfbFoGB4dfhVK-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Man and woman standing on balcony holding solar panel](https://cdn.mos.cms.futurecdn.net/K8N6WcQTEVfbFoGB4dfhVK.jpg) 

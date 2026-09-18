@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Harry and Meghan’s children, Prince Archie and Princess Lilibet, are
   expected to start school in Britain in September.
 image: https://www.thenorthernecho.co.uk/resources/images/21344627.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: Aaron Chown/PA Wire)*

@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: Footage shows migrants attacking French police who attempted to intercept
   a small boat launch
 image: https://static.independent.co.uk/2026/08/20/16/01M0FSZ1N5E707TATHEY121BWR.jpg?trim=0,171,0,170&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Video footage has emerged of French law enforcement officers coming under attack from migrants while attempting to intercept a small boat launch on a northern beach.

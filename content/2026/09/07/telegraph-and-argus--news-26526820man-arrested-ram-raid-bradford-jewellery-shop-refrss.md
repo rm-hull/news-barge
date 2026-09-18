@@ -9,6 +9,12 @@ published: '2026-09-07T00:00:00Z'
 description: Man arrested after ram raid at Bradford jewellers on Duckworth Lane left
   shopfront smashed and customer injured.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21415170.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 *(Image: CCTV - Pakistani Jewellers)*

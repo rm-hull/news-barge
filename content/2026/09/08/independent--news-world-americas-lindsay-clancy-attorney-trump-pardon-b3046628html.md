@@ -11,6 +11,10 @@ description: Kevin Reddington spoke for the first time Tuesday about what comes 
   nurse is criminally responsible for killing Cora, 5, Dawson, 3, and 8-month-old
   Callan in 2023
 image: https://static.independent.co.uk/2026/09/08/14/01/Lindsay-Clancy-attorney-on-GMA.png?trim=0,79,56,82&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Lindsay Clancy’s defense attorney has appealed to President Donald Trump to pardon her for killing her three children after the high-profile case ended in a mistrial on the seventh day of deliberations last week.

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The S&P Global UK services PMI survey showed its highest reading since
   April.
 image: https://static.independent.co.uk/2024/08/27/13/21141315-c96150a0-2d71-45c4-ad6f-c5a0c807e2f2.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The UK’s services sector continued its recovery last month as activity grew at the fastest pace for four months, according to figures.

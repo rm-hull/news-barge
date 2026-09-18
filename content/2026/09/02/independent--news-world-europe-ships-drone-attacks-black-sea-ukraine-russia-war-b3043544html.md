@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Attacks by Russia and Ukraine against commercial shipping and port facilities
   has surged significantly and could escalate further
 image: https://static.independent.co.uk/2026/09/02/14/00/2026-09-02T121156Z_2126732745_RC2CANAL2LSU_RTRMADP_3_UKRAINE-CRISIS-BLACKSEA-SHIPS.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Merchant vessels and oil tankers navigating the Bosphorus strait are turning to improvised defences, including netting, water containers and tyres, in an effort to ward off intensifying Russian and Ukrainian drone strikes in the Black Sea, according to maritime security analysts and visual evidence.

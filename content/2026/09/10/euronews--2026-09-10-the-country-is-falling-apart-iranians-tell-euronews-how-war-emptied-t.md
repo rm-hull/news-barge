@@ -9,6 +9,11 @@ description: In a Euronews exclusive, Euronews Farsi spoke with drivers, small b
   owners and salaried workers about life in an economy where fuel prices doubled overnight,
   and people can no longer afford basic food items.
 image: https://images.euronews.com/articles/stories/09/90/82/50/1200x675_cmsv2_96fe3673-f9d4-5688-89b6-4b4987f22e6a-9908250.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## In a Euronews exclusive, Euronews Farsi spoke with drivers, small business owners and salaried workers about life in an economy where fuel prices doubled overnight, and people can no longer afford basic food items.

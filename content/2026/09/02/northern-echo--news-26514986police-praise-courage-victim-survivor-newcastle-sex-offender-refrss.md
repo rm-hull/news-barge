@@ -9,6 +9,12 @@ published: '2026-09-02T00:00:00Z'
 description: Police have praised the courage of a victim of child sexual crimes who
   has described the “everyday trauma” she has lived with since the offences…
 image: https://www.thenorthernecho.co.uk/resources/images/21400617.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 *(Image: Northumbria Police)*

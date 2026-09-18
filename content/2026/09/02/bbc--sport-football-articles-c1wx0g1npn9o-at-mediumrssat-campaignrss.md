@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: How Chelsea, Everton and Monaco all missed out after late-night drama
   on deadline day. Nizaar Kinsella reports.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8f60/live/b73688e0-a6d7-11f1-a291-b542ee92de7c.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Lamine Camara (left) and Folarin Balogun (right)](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8f60/live/b73688e0-a6d7-11f1-a291-b542ee92de7c.png)

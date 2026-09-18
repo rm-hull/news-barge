@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: A SOLD-OUT crowd packed The Piece Hall for Turnstile’s only UK headline
   show of the year.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21379718.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 *(Image: CUFFE & TAYLOR)*

@@ -9,6 +9,10 @@ description: The City Attorney’s Office has asked Meta to explain how the harm
   ads repeatedly ran on Facebook and Instagram. The company claims the ads are not
   under the city’s jurisdiction.
 image: https://media.wired.com/photos/6aa1c5b373b15b9694431f6d/191:100/w_1280,c_limit/GettyImages-2233066222.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 San Francisco’s city attorney has hit Meta with a cease-and-desist letter telling the company to stop “allowing” paid advertisements that include AI-generated child sexual abuse content and asked it to explain how the ads repeatedly ran on its platforms.

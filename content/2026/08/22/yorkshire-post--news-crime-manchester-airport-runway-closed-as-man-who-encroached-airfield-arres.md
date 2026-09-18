@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: Flights were diverted away from Manchester Airport on Friday evening
   as a man was arrested for encroaching the airfield.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjA4OTEwNDFhLWM3NzEtNDlhOS1hYjFjLTY1OWU5YTZkNGJiZjphN2NlZjUwNS00MzQ3LTRlOWUtODRjYi01Y2M3NjI2ODQ2MzY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Manchester Airport: Runway closed as man who encroached airfield arrested with flights diverted and delayed

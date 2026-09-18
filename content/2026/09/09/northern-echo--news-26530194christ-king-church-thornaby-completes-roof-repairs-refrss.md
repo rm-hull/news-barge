@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Christ the King Church in Thornaby has repaired its roof and cut its
   carbon footprint after securing a £37,000 grant.
 image: https://www.thenorthernecho.co.uk/resources/images/21422903.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: Supplied)*

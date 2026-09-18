@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Trump gave sizable holiday gifts to four White House aides, according
   to new financial disclosures released by the administration
 image: https://static.independent.co.uk/2026/09/08/06/2293006188..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Newly published financial disclosures from the administration reveal that President Donald Trump presented substantial holiday cash gifts to four of his White House aides.

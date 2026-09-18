@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: AG.AL claim the overall title and $7m (£5.1m) top prize at the third
   Esports World Cup in Paris.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5fbe/live/1d287780-9f99-11f1-a83c-33ebef033ca4.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 ![A fan at the Esports World Cup shouts into a megaphone, attempting to drum up support for his team.](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/5fbe/live/1d287780-9f99-11f1-a83c-33ebef033ca4.jpg)

@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: Opposition mounts as at least 20 projects proposed, including one in
   Fife billed as second largest in world
 image: https://i.guim.co.uk/img/media/e2a0d1349bc80c7d01a895dc55a30dfa0af25360/838_0_6829_5464/master/6829.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=93f49e80c34a44e6ffb59dd0d05559bc
+categories:
+- UK
+- News & Politics
 ---
 
 Kat Jones may be the closest thing Scotland has to Erin Brockovich in 2026. Standing in the shadow of Arthur’s Seat outside Holyrood, the 52-year-old is revving up the crowd of protesters around her. “Who is here from Lammermuir? Ayrshire? What about Aberdeen?” she calls to the crowd.

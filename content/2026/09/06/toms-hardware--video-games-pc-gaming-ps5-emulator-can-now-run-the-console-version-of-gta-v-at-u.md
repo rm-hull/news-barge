@@ -9,6 +9,10 @@ scraped_at: '2026-09-06T12:07:55Z'
 published: '2026-09-06T00:00:00Z'
 description: Can we really play GTA VI on PC before an official port?
 image: https://cdn.mos.cms.futurecdn.net/2s3c3BG6VKQvKTM2t6gARX-1274-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![PS5 version of GTA V being emulated on a PC](https://cdn.mos.cms.futurecdn.net/2s3c3BG6VKQvKTM2t6gARX.jpg) 

@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T23:23:47Z'
 published: '2026-08-26T00:00:00Z'
 description: ‘Boy, they’re not gonna take the trees out easily,’ the farmer has said
 image: https://static.independent.co.uk/2026/07/01/18/57/Screenshot-2026-07-01-at-2-01-01-PM.jpg?trim=0,4,0,3&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Home, Garden & DIY
 ---
 
 A California farmer has been ordered to destroy his fruit orchard after giving away thousands of pounds of free food.

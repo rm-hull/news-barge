@@ -9,6 +9,12 @@ published: '2026-09-14T00:00:00Z'
 description: College students and commuters across Redcar and East Cleveland will
   get more bus journeys and better connections under Arriva’s new timetable.
 image: https://www.thenorthernecho.co.uk/resources/images/16914157.jpg?type=og-image&xType=0&yType=91
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- Education & Learning
 ---
 
 *(Image: NEWSQUEST)*

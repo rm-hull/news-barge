@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: His comments sparked discussions around parenting, gender and culture,
   and just how important those three simple words are.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2060/live/ce15c1b0-a86d-11f1-bbad-43eaf67b94b6.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Family & Parenting
 ---
 
 ![A young blonde child wearing a yellow t-shirt is hugged by a man wearing a red t-shirt and a woman wearing a beige striped t-shirt.](https://ichef.bbci.co.uk/ace/standard/838/cpsprodpb/2060/live/ce15c1b0-a86d-11f1-bbad-43eaf67b94b6.jpg)

@@ -9,6 +9,12 @@ description: 'Following the cyberattack on the Berlin administration, the Senate
   given the all-clear: according to State Secretary for Digital Affairs Hauer, no
   data relevant to national security has been stolen.'
 image: https://www.berlin.de/binaries/asset/image_assets/10618870/ratio_4_3/1788777911/800x600/
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 © dpa

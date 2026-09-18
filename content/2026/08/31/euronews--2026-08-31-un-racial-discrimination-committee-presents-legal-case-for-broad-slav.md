@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: The document, which was approved last week but only published on Monday,
   is expected to provide a powerful new tool supporting reparations claims.
 image: https://images.euronews.com/articles/stories/09/89/51/39/1200x675_cmsv2_f402b88c-1e34-54a7-861a-c850195c7ce7-9895139.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ## The document, which was approved last week but only published on Monday, is expected to provide a powerful new tool supporting reparations claims.

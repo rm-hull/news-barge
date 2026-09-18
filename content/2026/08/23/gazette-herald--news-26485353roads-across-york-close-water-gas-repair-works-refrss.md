@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: A series of road and footpath closures will affect York and surrounding
   villages as utility and repair works take place.
 image: https://www.gazetteherald.co.uk/resources/images/16957573.jpg?type=og-image&yType=49
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Newsquest)*

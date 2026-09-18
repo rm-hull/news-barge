@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A MAJOR office redevelopment is taking shape in the heart of Leeds, West
   Yorkshire.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21378344.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

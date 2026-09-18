@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: China’s hacking campaign targeted NASA, the Federal Reserve, the US Senate,
   the Justice Department, and more, according to the DOJ.
 image: https://media.wired.com/photos/6a8f11191780b42ea223901b/191:100/w_1280,c_limit/FBIChinaHack.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
 ---
 
 For years, China's military and intelligence agencies, which carry out hacking campaigns against targets around the globe, have grown increasingly reliant on a vast web of proxy devices that enable and obfuscate their targeting. Now the FBI has named and disrupted one key network of those proxies—and in doing so, revealed just how extensively the hackers who used it reached into American government institutions and US critical infrastructure.

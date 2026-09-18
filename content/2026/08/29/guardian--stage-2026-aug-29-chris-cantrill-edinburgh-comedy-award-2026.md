@@ -10,6 +10,10 @@ description: Nominated in three previous years, the rambunctious standup – one
   of The Delightful Sausage – wins the prize for his show Rewilding while Marty Gleeson
   is named best newcomer for Dog Ear
 image: https://i.guim.co.uk/img/media/f336c1b68459a0a87de2836991bd626e2681b46b/1624_275_1488_1190/master/1488.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=71e9a0e225a2a3f3df5e6dffe4eb41cb
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 The annual Edinburgh comedy award has been won by the standup Chris Cantrill, two years after his comedy partner Amy Gledhill – in the raucous northern double act The Delightful Sausage – won the same prize.

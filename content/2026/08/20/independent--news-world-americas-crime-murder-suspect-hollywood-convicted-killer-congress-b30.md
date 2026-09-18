@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Patrick Kevin Spurlock was sentenced to 17 years in prison for shooting
   and killing a man in 2003
 image: https://static.the-independent.com/2026/08/20/16/38/Screenshot-2026-08-20-at-12-01-20-PM.png?trim=0,449,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Film & TV
 ---
 
 Police in Los Angeles have arrested a former state congressional candidate as a suspect in a triple killing.

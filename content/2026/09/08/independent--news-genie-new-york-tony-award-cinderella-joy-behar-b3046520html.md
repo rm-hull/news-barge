@@ -8,6 +8,11 @@ scraped_at: '2026-09-08T12:51:07Z'
 published: '2026-09-08T00:00:00Z'
 description: Sherri Shepherd plans to join the Broadway musical “Aladdin” as the Genie
 image: https://static.independent.co.uk/2026/09/08/12/Theater_Sherri_Shepherd_38_26.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Music
 ---
 
 Her wish is being granted: Sherri Shepherd plans to join the hit musical “Aladdin” as the Genie.

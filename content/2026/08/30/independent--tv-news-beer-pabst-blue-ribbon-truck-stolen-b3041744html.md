@@ -19,6 +19,10 @@ description: A beer truck filled with 40,000 pounds of Pabst Blue Ribbon has bee
   in Europe after thieves made off with the truck transporting them. "I know a thing
   or two about these kinds of things," the chocolate brand wrote on Instagram.
 image: https://cdn.jwplayer.com/v2/media/GfehPYGJ/poster.jpg?width=720
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 ## Showing now | News

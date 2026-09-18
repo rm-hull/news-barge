@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Simple is recalling its Skin Micellar Cleansing Water because of the
   potential presence of bacteria
 image: https://www.gazetteherald.co.uk/resources/images/21230158.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty)*

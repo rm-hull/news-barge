@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: 'Exclusive: New details underscoring depth of relationship between billionaire
   and party revealed in first episode of Guardian podcast The Populist'
 image: https://i.guim.co.uk/img/media/ea476ae370829a740d18311166316493f44d81e1/32_1_4876_3901/master/4876.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=870712bdc685dafed551591fd75b4431
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Pauline Hanson and Barnaby Joyce stayed overnight at Gina Rinehart’s $20m Brisbane mansion after fundraising events held for One Nation, Guardian Australia can reveal.

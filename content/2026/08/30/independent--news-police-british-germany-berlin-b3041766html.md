@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: Authorities have detained a man suspected of fatally stabbing a 31-year-old
   British woman in Rosenheim, Germany
 image: https://static.independent.co.uk/2026/08/30/13/Germany_Fatal_Stabbing_6394_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- History
 ---
 
 A man suspected of fatally stabbing a 31-year-old British woman with a knife early Sunday morning in the southern German town of Rosenheim was detained, authorities said.

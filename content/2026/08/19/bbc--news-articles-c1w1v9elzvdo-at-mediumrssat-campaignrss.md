@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Male prisons have less than 1,800 spaces available in England and Wales,
   the lowest level since March
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d2c1/live/1d42c130-9620-11f1-a7ab-8b30adf0800a.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![The ground floor central walkway of Benbow wing inside HMP/YOI Portland in Dorset, United Kingdom.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/d2c1/live/1d42c130-9620-11f1-a7ab-8b30adf0800a.jpg)

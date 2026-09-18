@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Police say a suspect has been arrested after a weekend shooting at a
   rave in northern Switzerland that left one person dead and five wounded
 image: https://static.independent.co.uk/2026/08/31/12/Switzerland_Shooting_52996.jpg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Suspect arrested after shooting at rave in Switzerland that left 1 person dead

@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: A motorbike has been stolen from outside Foxwood Community Centre in
   York.
 image: https://www.yorkpress.co.uk/resources/images/21379436.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
 ---
 
 *(Image: Google)*

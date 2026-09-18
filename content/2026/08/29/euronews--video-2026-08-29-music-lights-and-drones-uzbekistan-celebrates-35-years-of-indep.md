@@ -9,6 +9,11 @@ description: Video. Uzbekistan marked the 35th anniversary of its independence w
   a large-scale celebration in New Tashkent, featuring live music, dance, performances
   by international artists and a large-scale drone show.
 image: https://images.euronews.com/articles/stories/09/89/40/01/1200x675_cmsv2_d24aef0e-d576-5c4f-bbc1-773109db0336-9894001.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+- Music
 ---
 
 Uzbekistan marked 35 years of independence with a large-scale celebration in New Tashkent on 28 August 2026.

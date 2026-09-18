@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Karen Solomon went missing after her husband, Worcester Police Officer
   Kurt Solomon, was found dead
 image: https://static.the-independent.com/2026/08/18/18/59/6821058-library-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A mental health advocate suspected of killing her police officer husband was found dead on Monday, six days after she disappeared from their Massachusetts home, authorities said.

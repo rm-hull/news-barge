@@ -7,6 +7,9 @@ scraped_at: '2026-09-11T12:49:59Z'
 published: '2026-09-11T00:00:00Z'
 description: Stream any Prime Video content while abroad with our handy guide
 image: https://cdn.mos.cms.futurecdn.net/wje6R2NEE3T2MMyc8VWdrF-2560-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![The logo of e-commerce subscription service Amazon Prime is seen displayed on a smartphone in front of an abstract background](https://cdn.mos.cms.futurecdn.net/wje6R2NEE3T2MMyc8VWdrF.jpg) 

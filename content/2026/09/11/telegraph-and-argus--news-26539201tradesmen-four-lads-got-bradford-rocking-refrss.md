@@ -8,6 +8,13 @@ published: '2026-09-11T00:00:00Z'
 description: THE Tradesmen were in existence for only three years, from 1963-1966.
   Starting the group showed what can be done with talent and determination, even…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21435415.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Sports
+- History
 ---
 
 THE Tradesmen were in existence for only three years, from 1963-1966. Starting the group showed what can be done with talent and determination, even when you have no funds to speak of.

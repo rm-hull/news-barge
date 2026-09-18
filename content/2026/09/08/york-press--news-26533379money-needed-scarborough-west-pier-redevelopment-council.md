@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: The cost of a major harbour redevelopment project in North Yorkshire
   has increased since it was approved, the council has said.
 image: https://www.yorkpress.co.uk/resources/images/21000465.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 ## More money needed for harbour redevelopment in North Yorkshire town, council says

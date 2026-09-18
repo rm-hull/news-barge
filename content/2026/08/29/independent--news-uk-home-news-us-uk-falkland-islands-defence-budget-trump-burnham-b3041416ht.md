@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Donald Trump’s administration is reportedly looking for ways to incentivise
   the UK to increase its defence investment
 image: https://static.independent.co.uk/2026/08/29/09/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The US is said to have issued an ultimatum to Andy Burnham, threatening to withdraw its support for Britain’s sovereignty over the Falkland Islands if it does not increase defence spending.

@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: Nvidia GPU driver support is coming to an end for Windows 10 — here's
   what that means for security and your favorite PC games.
 image: https://cdn.mos.cms.futurecdn.net/gYocvkPAnx8FcKQz6eTGsa-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Confused PC gamer looking at screen](https://cdn.mos.cms.futurecdn.net/gYocvkPAnx8FcKQz6eTGsa.jpg) 

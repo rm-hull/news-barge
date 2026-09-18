@@ -9,6 +9,12 @@ published: '2026-08-23T00:00:00Z'
 description: Tributes have poured in for two “brave” police officers who died in a
   crash on the A66 in Teesside that killed five others on Saturday morning.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjMxYzIwYWNiLWVlMzctNGE5YS05YWY4LTEwOGViMDUyZDgyNTplOGUzNTQzOS03ZTI3LTQxYzgtODkyNi05MWIyOTJiZDhkMzE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # A66 crash: Two "incredibly brave" police officers remembered with names of Passat occupants released

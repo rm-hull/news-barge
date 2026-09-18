@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: The Lucas Museum of Narrative Art is opening in Los Angeles, showcasing
   a vast collection of creative work
 image: https://static.independent.co.uk/2026/09/02/18/Lucas_Museum_of_Narrative_Art_Preview_7465_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 The new Lucas Museum of Narrative Art will serve “Star Wars” fans what they crave, but the saga George Lucas spawned represents just one small corner of the galaxy of creative work within the walls of the Los Angeles institution he calls a "temple to the people’s art.”

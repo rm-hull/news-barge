@@ -7,6 +7,9 @@ scraped_at: '2026-09-07T19:53:57Z'
 published: '2026-09-07T00:00:00Z'
 description: We're about to go deeper into The Backrooms
 image: https://cdn.mos.cms.futurecdn.net/tFUwFA9LyqJL3gfxSvmf5P-1564-80.png
+categories:
+- Technology & Software
+- Careers & Productivity
 ---
 
 ![Chiwetel Ejiofor in Backrooms, where he's in an empty yellow room. He is touching a wall and looks scared.](https://cdn.mos.cms.futurecdn.net/tFUwFA9LyqJL3gfxSvmf5P.png) 

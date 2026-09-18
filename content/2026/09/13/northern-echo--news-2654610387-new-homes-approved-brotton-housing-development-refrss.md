@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: Eighty seven new homes will be built in Brotton, East Cleveland after
   councillors granted planning permission.
 image: https://www.thenorthernecho.co.uk/resources/images/21447549.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Real Estate
 ---
 
 Eighty seven new homes will be built in Brotton, East Cleveland after councillors granted planning permission.

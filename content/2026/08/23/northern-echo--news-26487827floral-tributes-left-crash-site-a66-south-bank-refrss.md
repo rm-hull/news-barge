@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Floral tributes have been left at the site of the devastating A66 crash
   which left seven people, including two police officers, dead.
 image: https://www.thenorthernecho.co.uk/resources/images/21359248.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 People have been leaving floral tributes at the site of the devastating A66 crash which left seven people, including two police officers, dead.

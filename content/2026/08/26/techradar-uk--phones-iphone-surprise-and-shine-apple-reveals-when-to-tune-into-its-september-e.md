@@ -9,6 +9,8 @@ scraped_at: '2026-08-26T16:57:23Z'
 published: '2026-08-26T00:00:00Z'
 description: We've been promised a surprise
 image: https://cdn.mos.cms.futurecdn.net/qFQb6btdAY79pqL3HsSSU8-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Apple Surprise and shine invite](https://cdn.mos.cms.futurecdn.net/qFQb6btdAY79pqL3HsSSU8.jpg) 

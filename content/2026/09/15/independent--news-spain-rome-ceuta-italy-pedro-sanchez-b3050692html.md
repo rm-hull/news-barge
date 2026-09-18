@@ -9,6 +9,11 @@ description: Italy has extended for another 15 days border checks on Spanish vis
   that it imposed after more than 72,000 migrants poured into Spain’s North African
   territory of Ceuta from Morocco in late July
 image: https://static.independent.co.uk/2026/09/15/17/Migration_Spain_Ceuta_35_92.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- History
 ---
 
 Italy on Tuesday extended for another 15 days border checks on visitors from Spain that it imposed after more than 72,000 migrants poured into Spain’s North African territory of Ceuta from Morocco in late July.

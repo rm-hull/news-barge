@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Aryna Sabalenka and Elena Rybakina will finish the Grand Slam season
   the way it started
 image: https://static.independent.co.uk/2026/09/12/17/US_Open_Tennis_62324.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Aryna Sabalenka and Elena Rybakina will finish the Grand Slam season the way it started.

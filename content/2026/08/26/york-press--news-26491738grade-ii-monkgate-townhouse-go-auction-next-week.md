@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: A Grade II listed York townhouse described as a 'renovator's dream home'
   is set to go to auction next week.
 image: https://www.yorkpress.co.uk/resources/images/21366081.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## 'Renovator's dream' six-bed Victoria townhouse to go under the hammer

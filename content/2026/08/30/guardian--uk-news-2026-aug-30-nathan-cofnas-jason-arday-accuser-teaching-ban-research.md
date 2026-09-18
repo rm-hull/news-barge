@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Nathan Cofnas told by Ghent University to work remotely as US ambassador
   claims credit for lifting of suspension
 image: https://i.guim.co.uk/img/media/e43550ba5e2245323342c27646ca576dbdd814e0/1703_797_3574_2860/master/3574.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=47608c88523bebab63b09bd032c8af80
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Prof Jason Arday’s accuser Nathan Cofnas has been barred from teaching on Ghent University campus for three months but has been allowed to continue his research position.

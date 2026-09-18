@@ -9,6 +9,10 @@ description: In January, Trump also threatened to decertify Bombardier aircraft 
   he raged against what he said was Canada's refusal to certify certain US-made Gulfstream
   planes.
 image: https://images.euronews.com/articles/stories/09/90/26/52/1200x675_cmsv2_87b6ac79-fd78-5238-b33a-c54b96a104a2-9902652.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## In January, Trump also threatened to decertify Bombardier aircraft as he raged against what he said was Canada's refusal to certify certain US-made Gulfstream planes.

@@ -9,6 +9,11 @@ description: On Aug. 27, 2026, President Donald Trump issued an executive order 
   Lake Ontario ‘Lake America,’ claiming his administration had already ‘notified all
   of the various people you have to notify’
 image: https://static.independent.co.uk/2026/08/31/20/49/GettyImages-2292883112.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 On Aug. 27, 2026, President Donald Trump issued an executive order renaming Lake Ontario “Lake America,” claiming his administration had already “notified all of the various people you have to notify.”

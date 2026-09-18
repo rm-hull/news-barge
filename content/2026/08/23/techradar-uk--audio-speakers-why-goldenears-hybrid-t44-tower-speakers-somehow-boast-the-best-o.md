@@ -8,6 +8,9 @@ scraped_at: '2026-08-23T20:36:30Z'
 published: '2026-08-23T00:00:00Z'
 description: Giving new definition to hybrid speakers
 image: https://cdn.mos.cms.futurecdn.net/4h84nzbP5AGhXgkGEHxpFX-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A wide shot of the Goldenear T44](https://cdn.mos.cms.futurecdn.net/4h84nzbP5AGhXgkGEHxpFX.jpg) 

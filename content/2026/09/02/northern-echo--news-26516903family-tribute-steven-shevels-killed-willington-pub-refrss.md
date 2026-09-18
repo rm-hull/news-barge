@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Family of Crook man killed outside Willington pub on Christmas Eve by
   his own son have spoken of their heartbreak.
 image: https://www.thenorthernecho.co.uk/resources/images/20370365.jpg?type=og-image&xType=0&yType=315
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 The family of man killed outside a County Durham pub on Christmas Eve by his own son have spoken of their heartbreak.

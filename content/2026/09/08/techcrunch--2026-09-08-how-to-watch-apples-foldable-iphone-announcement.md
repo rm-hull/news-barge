@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: Apple's annual iPhone event will stream live on September 9 at 10 a.m.
   PDT, and we're expecting big news.
 image: https://techcrunch.com/wp-content/uploads/2026/09/surprise-and-shine.webp?resize=1200,927
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Apple will host its annual iPhone event on Wednesday, September 9 at 10 a.m. PDT, and it’s expected to be a big one. All signs point to Apple’s long-awaited entrance into the foldable smartphone market, finally shipping this kind of hardware about seven years after Samsung did.

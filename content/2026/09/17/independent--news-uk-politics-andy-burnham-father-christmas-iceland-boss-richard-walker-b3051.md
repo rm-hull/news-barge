@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: UK’s former cost-of-living tsar, Richard Walker, warned the prime minister
   he needed to start making ‘unpopular decisions’ in the upcoming Budget
 image: https://static.independent.co.uk/2026/09/16/18/816fd23b2f759acc7bd49705c45b4d35Y29udGVudHNlYXJjaGFwaSwxNzg5NjUxODI3-2.85730188.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The government’s former cost-of-living tsar had warned Andy Burnham must stop acting like “Father Christmas”, telling the prime minister that British businesses aren't a “piggy bank” to be raided.

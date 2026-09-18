@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The Advertising Standards Authority found ‘that the RRP and associated
   savings claim were not genuine’.
 image: https://static.independent.co.uk/2026/09/02/00/7a40dc5f3ef27cbcac95a0a162c75828Y29udGVudHNlYXJjaGFwaSwxNzg4MzY3NjI2-2.25169964.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 An ad for Sports Direct has been banned after a watchdog found that the retail giant made misleading claims about a recommended retail price (RRP) and related savings.

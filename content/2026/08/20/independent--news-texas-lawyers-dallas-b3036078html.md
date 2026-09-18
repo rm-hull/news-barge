@@ -9,6 +9,10 @@ description: A judge is set to consider whether to grant Texas teen Karmelo Anth
   a new trial following his murder conviction in the stabbing death of a 17-year-old
   athlete at a high school track meet
 image: https://static.independent.co.uk/2026/08/20/05/Track_Meet_Student_Killed_93744.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A judge on Thursday will consider whether to grant Texas teenager Karmelo Anthony a new trial following his murder conviction earlier this summer in the stabbing death of a 17-year-old athlete at a high school track meet.

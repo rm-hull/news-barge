@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Texas senator called a ‘bootlicker’ for leaping to President Donald Trump’s
   defense over contested anecdote
 image: https://static.independent.co.uk/2026/09/10/9/20/Ted-Cruz.png?trim=50,494,0,51&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Texas Republican Sen. Ted Cruz has come to the defense of President Donald Trump after he was accused of inventing a story about being hauled away from an unsafe structure by firefighters in the wake of 9/11.

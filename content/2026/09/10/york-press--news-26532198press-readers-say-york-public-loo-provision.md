@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: York attracts millions of visitors every year, and debate continues about
   whether there are enough public toilets available in the city centre.…
 image: https://www.yorkpress.co.uk/resources/images/20828031.jpg?type=og-image&xType=0&yType=824
+categories:
+- Local
+- York
+- Society & Culture
+- News & Politics
 ---
 
 ## 'Pay as you go the logical answer to WC provision' - Press readers have their say

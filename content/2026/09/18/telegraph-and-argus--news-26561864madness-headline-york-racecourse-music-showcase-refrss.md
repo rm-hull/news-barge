@@ -7,6 +7,11 @@ scraped_at: '2026-09-18T12:59:43Z'
 published: '2026-09-18T00:00:00Z'
 description: Madness will headline Music Showcase Friday at York Racecourse.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21365783.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: Freelance)*

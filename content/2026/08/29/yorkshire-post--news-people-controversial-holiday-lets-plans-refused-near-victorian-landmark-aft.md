@@ -8,6 +8,12 @@ published: '2026-08-29T00:00:00Z'
 description: Controversial plans to build modern holiday let units near a Victorian
   landmark in North Yorkshire have been refused after a backlash from residents.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmY3ODc0YTExLWM0NGMtNGZlOS1iNDQwLWI3NDYxMzJhNjQ2NzphYjYxMzg2YS04OGQ2LTQwMTUtOTM2Ny1lNzBkODMxN2YwZGQ=.png?crop=3:2,smart&trim=&width=351&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
+- News & Politics
 ---
 
 # Controversial holiday lets plans refused near Victorian landmark after backlash

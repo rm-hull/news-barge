@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: After being announced earlier this year, adverts are now starting to
   appear in Apple Maps for users in the US and Canada.
 image: https://cdn.mos.cms.futurecdn.net/mhKvS6dpjejz6pfpDfKSo9-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Apple Maps on an iPhone](https://cdn.mos.cms.futurecdn.net/mhKvS6dpjejz6pfpDfKSo9.jpg) 

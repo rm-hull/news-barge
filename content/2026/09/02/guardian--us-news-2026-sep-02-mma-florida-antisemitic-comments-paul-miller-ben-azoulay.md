@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Paul Miller, an openly racist fighter, derided Ben Azoulay, and a spectator
   was ejected for waving a swastika flag
 image: https://i.guim.co.uk/img/media/9145f44699a94667d10efcc76886793ea8948beb/804_0_4902_3921/master/4902.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=70bcc42bc76f2218c3a9cd52d7cbddf8
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Democrats in Florida have condemned a professional mixed martial arts event in Orlando at which an openly racist fighter derided his beaten opponent as “a short little fucking Jew prick”, and a spectator was ejected for waving a giant swastika flag.

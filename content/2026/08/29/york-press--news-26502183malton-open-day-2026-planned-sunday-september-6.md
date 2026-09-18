@@ -7,6 +7,10 @@ scraped_at: '2026-08-29T06:59:45Z'
 published: '2026-08-29T00:00:00Z'
 description: A highly popular open stables day takes place next weekend.
 image: https://www.yorkpress.co.uk/resources/images/21301672.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: Freelancer)*

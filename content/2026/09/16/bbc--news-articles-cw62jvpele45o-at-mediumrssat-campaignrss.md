@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Authorities say the plane took off from the Rhône Valley and collided
   with a mountain slope about 10 minutes later.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b2bc/live/1bb49480-b216-11f1-8117-470b3119e06f.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Helicopter tail in foreground with rising smoke in the distance and emergency crews seen high in the Alps overlooking a mountain range](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b2bc/live/1bb49480-b216-11f1-8117-470b3119e06f.jpg)

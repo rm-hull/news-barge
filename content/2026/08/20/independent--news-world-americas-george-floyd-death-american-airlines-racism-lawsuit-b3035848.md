@@ -9,6 +9,10 @@ description: A baggage handler at Phoenix Sky Harbor International Airport furth
   claimed that two white supervisors reenacted the death of George Floyd in a ‘racially
   hostile and obscene’ photo that was posted on a bulletin board in the office
 image: https://static.independent.co.uk/2026/08/19/17/23/MixCollage-19-Aug-2026-01-09-PM-363.jpeg?trim=71,0,71,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A baggage handler for an American Airlines subsidiary claims she and other employees of color were subjected to ongoing bigotry by white coworkers who, among other things, mocked the death of George Floyd, quoted racist lines from *Django Unchained* while wearing ersatz KKK hoods, and hung a noose in a luggage sorting area, according to a federal lawsuit reviewed by*The Independent*.

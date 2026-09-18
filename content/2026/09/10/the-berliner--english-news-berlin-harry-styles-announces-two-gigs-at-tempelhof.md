@@ -9,6 +9,11 @@ description: The popstar's ongoing love affair with Berlin will reache its peak 
   2027. Berlin spent only a fraction of its available cycling infrastructure budget
   in 2025, as the expansion of the city's cycle path network continues to slow.
 image: https://www.the-berliner.com/wp-content/uploads/2026/09/imago0849101842h-scaled.jpg
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Technology & Software
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0849101842h-scaled.jpg)

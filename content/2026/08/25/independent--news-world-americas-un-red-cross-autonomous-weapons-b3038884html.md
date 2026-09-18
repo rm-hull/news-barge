@@ -9,6 +9,11 @@ description: The United Nations and the International Red Cross are urging count
   to adopt bans and restrictions on autonomous weapons systems, often called killer
   robots
 image: https://static.independent.co.uk/2026/08/25/12/UN-Killer_Robots_62465.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 The United Nations and the International Committee of the Red Cross intensified a joint appeal on Tuesday for countries to enact bans and restrictions on autonomous weapons systems — often called killer robots — warning that "the risks have intensified."

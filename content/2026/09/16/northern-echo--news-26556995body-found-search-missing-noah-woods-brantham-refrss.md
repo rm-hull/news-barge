@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A body has been found in the search for missing three-year-old Noah Woods
   in Brantham.
 image: https://www.thenorthernecho.co.uk/resources/images/21460043.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Suffolk police)*

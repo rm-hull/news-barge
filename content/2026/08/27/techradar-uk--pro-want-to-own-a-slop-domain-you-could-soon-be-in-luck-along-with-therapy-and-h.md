@@ -8,6 +8,9 @@ scraped_at: '2026-08-27T22:13:54Z'
 published: '2026-08-27T00:00:00Z'
 description: ICANN is reviewing 1,600+ new gTLDs
 image: https://cdn.mos.cms.futurecdn.net/JUrboXdNaRLYVSTeKsZxy8-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![The .ai domain name on a keyboard key](https://cdn.mos.cms.futurecdn.net/JUrboXdNaRLYVSTeKsZxy8.jpg) 

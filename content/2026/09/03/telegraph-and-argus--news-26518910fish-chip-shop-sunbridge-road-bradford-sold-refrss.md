@@ -8,6 +8,11 @@ scraped_at: '2026-09-03T12:48:35Z'
 published: '2026-09-03T00:00:00Z'
 description: A well-known fish and chip shop in Bradford city centre has been sold.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21406169.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest)*

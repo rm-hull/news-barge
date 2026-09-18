@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: 'Exclusive: Official UK security assessment found Microsoft cloud platform
   storing files was at potential risk from hostile hackers'
 image: https://i.guim.co.uk/img/media/cac874b0d63d48e39cf43ea5a61612e0817abaf2/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b19fb1a4b7d2ffd35ebeddd319ce5c2b
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Vast troves of highly sensitive police data are lying on Microsoft cloud platforms which an oﬃcial UK security assessment deemed to be vulnerable to “compromise” by foreign actors and the US government, a Guardian investigation can reveal.

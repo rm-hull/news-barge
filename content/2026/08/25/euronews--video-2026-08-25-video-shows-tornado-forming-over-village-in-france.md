@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Video. A tornado filmed near Pomas in southern France damages about 300
   homes and injures 39 people as rescue teams search affected villages.
 image: https://images.euronews.com/articles/stories/09/88/78/02/1200x675_cmsv2_760c858b-d4b9-52a6-bc99-b186bc7fe88f-9887802.jpg
+categories:
+- Europe
+- News & Politics
+- Film & TV
 ---
 
 A tornado filmed from Verzeille, near Pomas in southern France, swept through the area on Monday.

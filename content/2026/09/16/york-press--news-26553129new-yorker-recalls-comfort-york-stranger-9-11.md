@@ -9,6 +9,12 @@ published: '2026-09-16T00:00:00Z'
 description: A New Yorker has shared how a stranger in York brought hope in the aftermath
   of the 9/11 attacks during one of the darkest days in US history.
 image: https://www.yorkpress.co.uk/resources/images/21459590.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
+- Arts & Culture
+- History
 ---
 
 ## 'It made us feel we weren't alone' - stranger's kindness remembered on darkest day

@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Meanwhile, four people, including a child, were killed in the southern
   Russian city of Novorossiysk.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cd22/live/97c3c920-ac39-11f1-b483-f5be285e6b7e.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Burned out cars appear at the site of a Russian drone strike, amid Russia's attack on Ukraine, on a Ukraine-Moldova border crossing,](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/cd22/live/97c3c920-ac39-11f1-b483-f5be285e6b7e.jpg)

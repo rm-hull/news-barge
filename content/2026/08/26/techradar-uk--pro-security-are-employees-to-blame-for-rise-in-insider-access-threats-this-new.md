@@ -8,6 +8,10 @@ scraped_at: '2026-08-26T16:57:19Z'
 published: '2026-08-26T00:00:00Z'
 description: Every day, someone is selling access on the dark web
 image: https://cdn.mos.cms.futurecdn.net/Dtd9CSn6K6jfEdpnzch4zj-2121-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Security padlock and circuit board to protect data](https://cdn.mos.cms.futurecdn.net/Dtd9CSn6K6jfEdpnzch4zj.jpg) 

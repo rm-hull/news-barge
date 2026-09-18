@@ -7,6 +7,11 @@ scraped_at: '2026-09-17T19:42:38Z'
 published: '2026-09-17T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/SIMPLY-RED-2.webp
+categories:
+- Local
+- York
+- Music
+- Arts & Culture
 ---
 
 Soul band Simply Red are coming to the North Yorkshire coast next year.

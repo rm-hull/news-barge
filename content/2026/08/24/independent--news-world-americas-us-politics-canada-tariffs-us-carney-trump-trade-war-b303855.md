@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Prime Minister Mark Carney stated on Monday that the country may need
   to pivot away from matching US duties dollar for dollar
 image: https://static.independent.co.uk/2026/06/02/22/2203479723..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Canada is preparing to unveil retaliatory tariffs against the United States on Tuesday, an individual familiar with the strategy revealed, heightening a trade conflict that has worsened sharply after negotiations with the Trump administration fell through.

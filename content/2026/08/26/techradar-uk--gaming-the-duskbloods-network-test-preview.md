@@ -8,6 +8,8 @@ published: '2026-08-26T00:00:00Z'
 description: The Duskbloods feels like FromSoftware’s unique multiplayer philosophy
   at its best, but its time limits can be alarmingly demanding.
 image: https://cdn.mos.cms.futurecdn.net/iUkirGzWYGNwMCKf8dxU79-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Duskbloods screenshot featuring playable character Albert walking in a cathedral, illuminated red, with his back turned to the camera](https://cdn.mos.cms.futurecdn.net/iUkirGzWYGNwMCKf8dxU79.jpg) 

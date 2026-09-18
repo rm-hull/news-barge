@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Shares in the world's biggest humanoid robot maker started trading on
   Shanghai's Star market on Wednesday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f5e/live/f165f440-9b6c-11f1-b1cb-859c01609bc4.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A Unitree G1 humanoid robot is on display at a convention in Beijing.](https://ichef.bbci.co.uk/ace/standard/966/cpsprodpb/7f5e/live/f165f440-9b6c-11f1-b1cb-859c01609bc4.jpg)

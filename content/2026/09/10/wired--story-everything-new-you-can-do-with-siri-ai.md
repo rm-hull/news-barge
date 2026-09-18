@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: When iOS 27 arrives, it will bring with it a fully revamped assistant
   for your iPhone.
 image: https://media.wired.com/photos/6a9e944a1e3f7c600a7f4444/191:100/w_1280,c_limit/GettyImages-2255802700.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Siri made its debut on the iPhone in 2011, five years ahead of Google Assistant and 11 years before ChatGPT would open up to the public. Despite the head start, Apple's voice AI has been comprehensively overtaken in recent years, and made to look rather primitive compared to the many generative AI rivals it’s now up against.

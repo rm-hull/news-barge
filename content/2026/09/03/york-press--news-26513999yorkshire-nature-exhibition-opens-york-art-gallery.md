@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: 'Yorkshire’s Wild Side: Nature in Art will run from September 2 to October
   4, 2026, at Stephenson’s Gallery in Clifford Street.'
 image: https://www.yorkpress.co.uk/resources/images/21399493.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Stephenson's Gallery)*

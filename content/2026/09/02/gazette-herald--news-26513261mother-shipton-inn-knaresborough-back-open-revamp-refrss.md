@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: The well-known Mother Shipton Inn at Knaresborough reports a “absolutely
   crazy” reopening.
 image: https://www.gazetteherald.co.uk/resources/images/21398414.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Music
 ---
 
 A well-known North Yorkshire pub named after an iconic figure in its town reports a “absolutely crazy” reopening.

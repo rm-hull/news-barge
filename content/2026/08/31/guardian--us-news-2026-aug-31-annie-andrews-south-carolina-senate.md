@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: After Lindsey Graham’s death, Democrat Annie Andrews finds herself in
   a closely watched race as she seeks to flip his Republican seat
 image: https://i.guim.co.uk/img/media/bbd1cf52b76ed82670e3e10f1062f820a93f50cf/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=694bd9e8c067a7d2360b436dea4e6feb
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Annie Andrews was a dark horse Democrat challenging a five-term Republican in the US Senate when 314 Action, a political action fund devoted to electing scientists and doctors, first backed her.

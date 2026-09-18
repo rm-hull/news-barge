@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A man is wanted by North Yorkshire Police after allegedly tricking a
   woman into handing over £500 at a cashpoint in York city centre.
 image: https://www.yorkpress.co.uk/resources/images/21354767.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: North Yorkshire Police)*

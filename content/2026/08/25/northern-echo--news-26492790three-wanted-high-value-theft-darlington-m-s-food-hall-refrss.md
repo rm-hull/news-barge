@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Three women are wanted after a 'high value theft' from a Darlington Marks
   & Spencer store, police said.
 image: https://www.thenorthernecho.co.uk/resources/images/21367632.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: DURHAM POLICE)*

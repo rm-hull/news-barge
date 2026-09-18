@@ -8,6 +8,13 @@ published: '2026-08-23T00:00:00Z'
 description: A new community arts project is inviting Bradford residents to document
   their neighbourhoods and personal experiences through mobile photography.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21350873.jpg?type=og-image&xType=0&yType=216
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Society & Culture
+- Technology & Software
 ---
 
 *(Image: Odyssey Media House CIC)*

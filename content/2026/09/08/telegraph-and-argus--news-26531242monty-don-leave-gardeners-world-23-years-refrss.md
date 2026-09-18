@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Gardeners' World presenter Monty Don who hosted more than 700 episodes
   in 23 years is set to step down.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21424218.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 *(Image: BBC Studios)*

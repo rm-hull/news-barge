@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Wigan Warriors win a sixth League Leaders' Shield as they beat Catalans
   Dragons to wrap up top spot in Super League heading into the play-offs.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6056/live/bb19f3b0-ae21-11f1-ac3c-d9de82cf7bb1.jpg
+categories:
+- UK
+- News & Politics
+- Video Gaming
+- Sports
 ---
 
 ![Wigan Warriors celebrate Harry Smith's try against Catalans Dragons](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/6056/live/bb19f3b0-ae21-11f1-ac3c-d9de82cf7bb1.jpg)

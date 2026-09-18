@@ -9,6 +9,11 @@ description: The far-right leader, a close ally of Donald Trump, seemed to echo 
   rhetoric of the Trump administration. 'Colombians first, Colombians second, Colombians
   third, may that be clear to everyone,' de la Espriella said.
 image: https://images.euronews.com/articles/stories/09/88/72/98/1200x675_cmsv2_dff58e50-0902-5fdb-9d5e-d1084988efcc-9887298.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
+- History
 ---
 
 ## The far-right leader, a close ally of Donald Trump, seemed to echo the rhetoric of the Trump administration. 'Colombians first, Colombians second, Colombians third, may that be clear to everyone,' de la Espriella said.

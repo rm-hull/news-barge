@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: A former Compton gang detective testifies that Duane “Keffe D” Davis
   was a high-ranking “shot caller” in the South Side Compton Crips
 image: https://static.independent.co.uk/2026/08/26/05/Tupac_Trial_3396_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A former Compton gang detective testified Tuesday that Duane “Keffe D” Davis was a high-ranking “shot caller” whose authority meant younger gang members would not have opened fire on Tupac Shakur with Davis present unless he allowed it.

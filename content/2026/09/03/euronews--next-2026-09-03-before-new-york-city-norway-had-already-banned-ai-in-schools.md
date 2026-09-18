@@ -9,6 +9,11 @@ description: This move follows New York City clamping down on smartphone usage i
   schools last year, and has been widely supported across social media platforms like
   X.
 image: https://images.euronews.com/articles/stories/09/89/96/29/1200x675_cmsv2_4aa9af14-634a-5a8d-b9b0-471bfd76249d-9899629.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+- Society & Culture
 ---
 
 ## This move follows New York City clamping down on smartphone usage in schools last year, and has been widely supported across social media platforms like X.

@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Just seven fines were handed out for street urination in York in the
   first year of new powers being in force, despite clean ups numbering in the…
 image: https://www.yorkpress.co.uk/resources/images/19617495.jpg?type=og-image&xType=0&yType=466
+categories:
+- Local
+- York
+- Society & Culture
+- Health & Fitness
 ---
 
 ## Seven fines for street urination in York- despite 4,981 clean ups

@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Thankfully, the Harrigans are as chaotic as they've ever been — their
   family drama in MobLand season 2 is nothing short of exceptional.
 image: https://cdn.mos.cms.futurecdn.net/FMt7hfzJMmvqqiEpDWSo8b-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Arts & Culture
 ---
 
 ### TechRadar Verdict

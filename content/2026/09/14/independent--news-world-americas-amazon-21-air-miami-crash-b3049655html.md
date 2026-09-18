@@ -9,6 +9,10 @@ description: Amazon says it has suspended its partnership with 21 Air after one 
   the cargo carrier’s planes careened off a Miami runway last week and killed five
   people
 image: https://static.independent.co.uk/2026/09/14/05/Amazon_Plane_Overruns_Runway_65255.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Amazon has halted its working relationship with 21 Air following a deadly incident last week in which a cargo plane carrying the online retailer's packages overshot a Miami runway, resulting in five fatalities.

@@ -10,6 +10,11 @@ published: '2026-09-13T00:00:00Z'
 description: If you wanted, but couldn't afford, a B&O Beosound 9000 back in the day,
   this is probably the next best thing.
 image: https://cdn.mos.cms.futurecdn.net/EmuSX5mkD9xgW6JK2aGhbi-998-80.png
+categories:
+- Technology & Software
+- Hardware
+- Music
+- Personal Finance & Investing
 ---
 
 ![Syitren RM1 CD player](https://cdn.mos.cms.futurecdn.net/EmuSX5mkD9xgW6JK2aGhbi.png) 

@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: The by-election, which takes place on October 8, comes after Sir Keir
   Starmer revealed his plans to quit Parliament earlier this month
 image: https://static.independent.co.uk/2026/09/09/20/05/Sagal-Abdi-Wali.png?trim=55,0,61,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Labour has announced its candidate to contest the upcoming by-election for Sir Keir Starmer’s former seat after the former prime minister’s decision to step down from Parliament.

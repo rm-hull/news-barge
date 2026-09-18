@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A GP practice is getting into the festive spirit by sponsoring a popular
   community event.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21409470.jpg?type=og-image&xType=0&yType=238
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A GP practice is already getting into the festive spirit by sponsoring a popular community event.

@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: The international origins of the United States of America and its links
   to Yorkshire were explored on Saturday at Kiplin Hall and Gardens.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjI0ZTFhN2EyLTFhMmEtNDVlYS05ZjYxLTgxNWRlMzYzMWFiNzpiMjAxMmNkOS0yOTJmLTRhZGEtODEyNy04ZjU5MzI1ZGUzMzU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 Kiplin Hall is famed for its links to America via its first owner, a local man called George Calvert.

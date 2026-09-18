@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: The latest incident comes days after reports emerged Israel had struck
   a military airbase close to the Turkish border.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed19/live/4e4b3010-9e62-11f1-a386-a9605bab950d.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![An aerial view of the village of Beit Jinn in Damascus, Syria](https://ichef.bbci.co.uk/ace/standard/671/cpsprodpb/ed19/live/4e4b3010-9e62-11f1-a386-a9605bab950d.jpg)

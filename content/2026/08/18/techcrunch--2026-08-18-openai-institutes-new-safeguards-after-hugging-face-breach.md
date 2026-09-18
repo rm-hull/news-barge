@@ -9,6 +9,9 @@ description: The new safeguards include more detailed monitoring of models durin
   the development process, as well as greater emphasis on alignment and security during
   the post-training process.
 image: https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024
+categories:
+- Technology & Software
+- Health & Fitness
 ---
 
 On Tuesday, OpenAI announced a new batch of security policies focused on containing security incidents while models are being tested. The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.

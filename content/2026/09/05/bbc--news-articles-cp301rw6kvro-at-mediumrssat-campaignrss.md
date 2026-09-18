@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: The Prince of Wales will represent the King at the funeral of Harald
   V in Oslo next week.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c5f/live/c032d030-a2b2-11f1-9024-715001d09aeb.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![King Harald of Norway attends the Royal Wedding of Prince William to Catherine Middleton at Westminster Abbey on April 29, 2011 in London, England](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2c5f/live/c032d030-a2b2-11f1-9024-715001d09aeb.jpg)

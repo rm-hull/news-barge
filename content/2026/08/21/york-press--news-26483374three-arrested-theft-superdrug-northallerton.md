@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T08:54:27Z'
 published: '2026-08-21T00:00:00Z'
 description: Three women have been arrested after a cross county 'theft'.
 image: https://www.yorkpress.co.uk/resources/images/21352737.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: North Yorkshire Police)*

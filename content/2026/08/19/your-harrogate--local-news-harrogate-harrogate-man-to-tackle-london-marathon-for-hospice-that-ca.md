@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: A 25-year-old NHS worker is set to take on the London Marathon in memory
   of his grandad while raising money for Saint Michael's Hospice.
 image: https://mmo.aiircdn.com/409/6a859e58e8fd916ff9c.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![](https://mmo.aiircdn.com/409/6a859e58e8fd916ff9c.jpg) 

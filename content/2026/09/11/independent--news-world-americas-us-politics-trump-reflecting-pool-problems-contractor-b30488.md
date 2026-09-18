@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: The contractor blamed ‘human oversight’ and the combination of incompatible
   chemicals, according to a report
 image: https://static.independent.co.uk/2026/09/11/20/2026-09-08T181830Z_764863519_RC22FNASXCVQ_RTRMADP_3_USA-250-REFLECTING-POOL.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The contractor that refurbished the Lincoln Memorial Reflecting Pool acknowledged that its own faulty work — not sabotage — led the newly installed liner to become damaged, according to a new report.

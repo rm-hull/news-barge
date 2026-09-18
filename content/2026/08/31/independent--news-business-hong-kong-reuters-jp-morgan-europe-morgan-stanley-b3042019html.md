@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Investors will find how much the company is initially valued at when
   it makes its debut on the Hong Kong stock exchange on Tuesday.
 image: https://static.independent.co.uk/2026/08/31/09/0ac3fa081dffea047eb430dc5dbad2f2Y29udGVudHNlYXJjaGFwaSwxNzg4MDA3MTg3-2.78243374.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Fast fashion giant Shein is to make its stock market debut in a move which could value the company at as much as 27 billion US dollars (£19.8 billion).

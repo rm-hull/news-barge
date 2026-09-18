@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Oil prices have climbed and Asian shares have wavered as recurring violence
   in the Iran war heightens uncertainty over the future of the conflict
 image: https://static.independent.co.uk/2026/08/31/07/Japan_Financial_Markets_48916.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Oil prices climbed further and Asian shares were mixed Tuesday as recurring violence in the Iran war after more than a month with no significant fighting heightened uncertainty over the future of the conflict.

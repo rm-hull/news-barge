@@ -10,6 +10,11 @@ description: The rial has lost 63% of its value against the dollar since March, 
   Iran's central bank governor pledged a $2 billion injection while acknowledging
   inflation had placed "heavy pressure on people's livelihoods."
 image: https://images.euronews.com/articles/stories/09/89/83/73/1200x675_cmsv2_cecbd7ad-1e36-5219-a393-fd49d8a5d571-9898373.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 **Euronews Persian**

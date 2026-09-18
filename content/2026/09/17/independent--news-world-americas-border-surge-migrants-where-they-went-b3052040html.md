@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Some went to cities that have long been magnets for immigrants but increasingly,
   others found their way to smaller cities with less developed immigrant footholds
 image: https://static.independent.co.uk/2026/09/17/16/43/GettyImages-1451136412.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 An unprecedented surge in border crossings over the past decade reshaped America: Millions of people from more than 150 countries arrived, bringing the U.S. immigrant population to its highest levels ever.

@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Capital gains tax receipts totalled £24.2 billion in the 2024-25 tax
   year, an 89% increase on the year before, HMRC said.
 image: https://static.independent.co.uk/2026/01/13/13/13131759-d5b3eac9-419f-4ecb-9c9c-2287f826924b.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The Government collected a record amount from capital gains tax last year after rates increased under former chancellor Rachel Reeves, helping reel in an extra 180,000 taxpayers.

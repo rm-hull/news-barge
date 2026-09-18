@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Zack Polanski wants stricter rules to limit the use of water and energy
   by data centres for AI.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b524/live/4fb7b140-a2a8-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Watch: 'We need to slam the brakes on energy-guzzling data centres,' Polanski says

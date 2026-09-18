@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A 39-year-old man is receiving treatment after an attack involving a
   bladed weapon on Sedgemoor Road in Eston.
 image: https://www.thenorthernecho.co.uk/resources/images/19736039.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Police)*

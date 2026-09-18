@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: The closure will affect a section of the A1237 Outer Ring Road at the
   approach to the Haxby Road roundabout, including part of Haxby Road itself.
 image: https://www.gazetteherald.co.uk/resources/images/21440011.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: City of York Council)*

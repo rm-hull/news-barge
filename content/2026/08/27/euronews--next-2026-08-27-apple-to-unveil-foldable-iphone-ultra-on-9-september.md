@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: Incoming CEO John Ternus will present the company’s first foray into
   the foldable phone market, hitting shelves by the end of the year starting at €2,200.
 image: https://images.euronews.com/articles/stories/09/89/09/95/1200x675_cmsv2_8ffa9ee0-8adc-595a-af9f-4e25716881db-9890995.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ## Incoming CEO John Ternus will present the company’s first foray into the foldable phone market, hitting shelves by the end of the year starting at €2,200.

@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Trump has previously said he would not back Britain if Argentina invaded
   the Falkland Islands
 image: https://static.independent.co.uk/2026/09/12/12/2294850999..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 US President Donald Trump has said he expects to be called upon to “settle” any potential conflict in the ongoing row between the UK and Argentina on the sovereignty of the Falkland Islands.

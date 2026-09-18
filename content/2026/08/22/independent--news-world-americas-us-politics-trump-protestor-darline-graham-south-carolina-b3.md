@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: The crowd booed and chanted ‘USA’ at the protestor who wore a shirt that
   said ‘Kill Your Local Pedophile’
 image: https://static.independent.co.uk/2026/08/22/01/2026-08-21T235958Z_1745098741_RC2B3NAWI7GR_RTRMADP_3_USA-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 President Donald Trump’s stump speech for South Carolina Senator Darline Graham on Friday was briefly interrupted by a protester. Trump, however, appeared unfazed by the interjection, quipping that the demonstrator’s “mom is voting for us.”

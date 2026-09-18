@@ -8,6 +8,9 @@ scraped_at: '2026-09-10T12:53:54Z'
 published: '2026-09-10T00:00:00Z'
 description: As a barista myself, should I be worried?
 image: https://cdn.mos.cms.futurecdn.net/Sc2F93Bw82yKfJVpff64xK-2560-80.jpg
+categories:
+- Technology & Software
+- Food & Cooking
 ---
 
 ![Cosori Juni drip coffee machine](https://cdn.mos.cms.futurecdn.net/Sc2F93Bw82yKfJVpff64xK.jpg) 

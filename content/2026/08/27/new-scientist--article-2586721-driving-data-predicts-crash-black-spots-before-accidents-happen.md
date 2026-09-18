@@ -9,6 +9,10 @@ description: An analysis of data collected from hundreds of thousands of cars in
   offers an insight into driving behaviour that can be used to identify sections of
   road where crashes may occur in the future
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309549209.jpg
+categories:
+- Science
+- Technology & Software
+- Automotive
 ---
 
 ![Trails of car light going into Sydney Harbour Bridge at dusk](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309549209.jpg?w=840)

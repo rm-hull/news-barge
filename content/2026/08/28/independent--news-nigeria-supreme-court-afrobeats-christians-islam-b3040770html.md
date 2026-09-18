@@ -10,6 +10,10 @@ description: There is a thriving nightlife in Nigeria's conservative Sokoto stat
   which is known as the “seat of the caliphate” for its storied place in the birth
   and propagation of Islam in West and Central Africa
 image: https://static.independent.co.uk/2026/08/28/06/Nigeria_Nightlife_52888.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Multicolored strobe lights sweep across a dance floor soon to throng with sweaty revelers and shrilling voices singing along to Afrobeats in a nightclub that is thriving despite being in one of northern Nigeria’s most deeply conservative states.

@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: Poll also finds sizeable majorities who believe it should be easier to
   install air con in homes
 image: https://i.guim.co.uk/img/media/4e39147b5c857518774a3cce601cf0f4ce13b8e3/209_0_3758_3008/master/3758.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d4e343e310a9c1b1f617d2b6fa4ecdcf
+categories:
+- UK
+- News & Politics
 ---
 
 Given the choice, more people across six major European nations including the UK favour encouraging the adoption of air conditioning over keeping carbon emissions down, a survey has found.

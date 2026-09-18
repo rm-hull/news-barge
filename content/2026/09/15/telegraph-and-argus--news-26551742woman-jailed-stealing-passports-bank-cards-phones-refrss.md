@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: A woman who was given a chance under new sentencing powers aimed at reducing
   the prison population has been locked for more than three years.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21457518.jpg?type=og-image&xType=0&yType=898
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: West Yorkshire Police)*

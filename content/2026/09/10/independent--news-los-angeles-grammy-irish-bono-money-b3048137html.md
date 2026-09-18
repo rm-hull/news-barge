@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: MusiCares will honor Irish band U2 as its Persons of the Year at a gala
   in February
 image: https://static.independent.co.uk/2026/09/10/17/Music-MusiCares-U2_31652.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
+- Arts & Culture
 ---
 
 MusiCares will honor Irish band U2 as its Persons of the Year at a February gala kicking off Grammy Awards weekend.

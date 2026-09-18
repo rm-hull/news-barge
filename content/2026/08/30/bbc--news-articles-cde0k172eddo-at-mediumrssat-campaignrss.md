@@ -7,6 +7,10 @@ scraped_at: '2026-08-30T19:18:25Z'
 published: '2026-08-30T00:00:00Z'
 description: The baby was pronounced dead at a property in the Wincobank area of Sheffield.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/45aa/live/81e87090-c1ff-11ef-a2ca-e99d0c9a24e3.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 ![Signage for South Yorkshire on the side of a police car](https://ichef.bbci.co.uk/ace/standard/988/cpsprodpb/45aa/live/81e87090-c1ff-11ef-a2ca-e99d0c9a24e3.jpg)

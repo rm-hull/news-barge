@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: More than 100 Indians are missing at a vital Nepal-China trade crossing
   after devastating Himalayan floods.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a58/live/cf305410-a5e9-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Video shows scale of flash flood hitting Nepal-Tibet border

@@ -8,6 +8,10 @@ scraped_at: '2026-08-24T11:53:59Z'
 published: '2026-08-24T00:00:00Z'
 description: Tŷ Hyll was constructed from boulders weighing up to three tonnes
 image: https://static.independent.co.uk/2026/08/24/9/10/Jam_Press_JMP904664_pr.jpg?trim=33,0,33,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A famous and unique ‘ugly’ house steeped in Welsh folklore has gone on sale for £199,000 – but locals aren’t happy.

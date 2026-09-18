@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: Twin sisters Kristīne and Sintija Brence are academics who are putting
   on an international conference about grunge. John Blow hears more.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmM0YmI0OGNjLWRmZjktNGQ1Ni04NjVjLWM5MTQxZmJiMDE2YzplODg1YzQzYS1jNzc3LTRlZjAtOTBiMi1iZjU2ZjM2NzNlOTc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Nirvana, Soundgarden, Pearl Jam: York academics host conference on why grunge still resonates today

@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T16:51:50Z'
 published: '2026-08-24T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/rafis-spicebox-mixing-a-curry-pack-pr.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 A well-known York business that went into liquidation has been saved and is now trading under new owners.

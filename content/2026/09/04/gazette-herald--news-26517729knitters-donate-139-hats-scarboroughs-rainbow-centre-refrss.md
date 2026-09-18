@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: The Rainbow Centre was the focus of a challenge launched by Threads &
   Tales, Thornton Le Dale, to knit 100 hats.
 image: https://www.gazetteherald.co.uk/resources/images/21404488.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Threads and Tales Thornton Le dale)*

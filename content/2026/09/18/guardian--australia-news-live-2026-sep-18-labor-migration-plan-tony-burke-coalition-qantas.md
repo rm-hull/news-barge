@@ -8,6 +8,10 @@ scraped_at: '2026-09-18T04:34:11Z'
 published: '2026-09-18T00:00:00Z'
 description: Follow the day’s news live
 image: https://i.guim.co.uk/img/media/05469a2ebafa14f936aaeb961b83722496e66049/560_0_6627_5304/master/6627.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=133b1ee51e523a46423bf6e28ffcd417
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 AI is enabling foreign interference and hackers, home affairs department says

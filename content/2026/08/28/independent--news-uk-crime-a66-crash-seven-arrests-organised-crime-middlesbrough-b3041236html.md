@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T22:15:04Z'
 published: '2026-08-28T00:00:00Z'
 description: The A66 crash killed seven people, including two police officers
 image: https://static.independent.co.uk/2026/08/28/16/ec48e0c7b512463f8dc7567a3cb9aa59Y29udGVudHNlYXJjaGFwaSwxNzg4MDE2ODY2-2.85627739.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Cleveland Police have confirmed seven more men have been arrested as part of an operation to disrupt organised crime in the wake of the A66 crash.

@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Thai police also arrested a suspected female accomplice with whom the
   monk, who had taken a vow of celibacy, was filmed having sex.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/797d/live/a0a3a660-adc8-11f1-82c1-5ff19bf7a2f2.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Seized assets, including gold, jewellery, watches and Thai Baht bank notes](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/797d/live/a0a3a660-adc8-11f1-82c1-5ff19bf7a2f2.jpg)

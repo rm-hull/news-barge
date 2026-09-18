@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: A Harrogate community figure who once helped save the Sun Pavilion from
   ruin is launching a bid to have one of the town’s oldest pubs listed.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAwN2QzZDE2LWVhMjgtNDIwNy04ZmZiLTg2NDQzN2M3Zjk2MTphM2ZlYjllMC1iNzAyLTQ1OWQtYjlkNC1jMTc5ZmYxOWY5YjI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- History
 ---
 
 # Local historian's mission to protect well known Harrogate pub by getting it 'listed' by Historic England

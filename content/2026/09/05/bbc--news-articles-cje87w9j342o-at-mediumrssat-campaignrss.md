@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Nigel Farage's admirers in the party are calling for a stronger operation
   as the party aims for power.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6abb/live/e1f93b00-a924-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![A woman holding a sign saying I'm Voting Reform UK enters the Reform conference. The sign has autographs on it from Reform politicians.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6abb/live/e1f93b00-a924-11f1-aed2-8d6da8d75094.jpg)

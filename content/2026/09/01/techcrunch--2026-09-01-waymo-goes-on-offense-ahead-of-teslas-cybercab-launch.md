@@ -8,6 +8,8 @@ published: '2026-09-01T00:00:00Z'
 description: Waymo argued that fully autonomous vehicles aren't possible without using
   a mix of sensors and warned that pure end-to-end AI systems aren't safe enough.
 image: https://techcrunch.com/wp-content/uploads/2026/07/waymo-SF-getty.jpg?resize=1200,800
+categories:
+- Technology & Software
 ---
 
 Waymo argued last week that fully autonomous vehicles are not possible without using a mix of sensors, and that “pure end-to-end” AI systems are not safe enough — shots at Tesla, despite the Alphabet-owned company not naming names.

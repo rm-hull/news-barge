@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Rising living costs could heap pressure on PM Andy Burnham though it
   depends what happens in the coming months.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/71fb/live/6988a5c0-9bcd-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![A woman in jeans and carrying a large tote bag walking along a high street. She is seen in profile against the backdrop of a shop window in London and other shoppers are in the background](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/71fb/live/6988a5c0-9bcd-11f1-aed2-8d6da8d75094.jpg)

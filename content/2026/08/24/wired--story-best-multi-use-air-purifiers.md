@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: These WIRED-tested dual-purpose air purifiers also function as heaters,
   fans, art pieces, and more, offering the best of both worlds.
 image: https://media.wired.com/photos/6a89ff0f423b44b6336c94c7/191:100/w_1280,c_limit/The-Best-Multiuse-Air-Purifiers.jpg
+categories:
+- Technology & Software
+- Science
+- Arts & Culture
 ---
 
 If you're tight on space or just want a more aesthetically pleasing machine, the best air purifier for home depends on your needs.

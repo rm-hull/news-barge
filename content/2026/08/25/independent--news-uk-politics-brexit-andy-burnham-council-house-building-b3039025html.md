@@ -9,6 +9,12 @@ description: 'Exclusive: A lack of skilled workers and the impact of millions no
   being able to work here since Brexit means more than 200,000 EU workers have left
   the industry'
 image: https://static.independent.co.uk/2026/08/25/17/01KYM103X4AJ0CF410G67S5ZFG.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 Andy Burnham’s ambitions to build tens of thousands of new council houses is under threat because of a labour shortage caused by Brexit, industry leaders have warned.

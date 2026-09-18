@@ -9,6 +9,9 @@ description: Washington is running a campaign to ‘dismantle’ the internation
   to protect top Israeli officials like Benjamin Netanyahu from prosecution over alleged
   Gaza war crimes
 image: https://static.independent.co.uk/2026/08/26/18/2281287370..?trim=41,0,42,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Donald Trump administration’s targeting of the International Criminal Court with sanctions and insulting remarks is damaging America’s already shaky diplomatic relationship with key ally Japan.

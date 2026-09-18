@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: M&S shoppers are delighted to see the brand's most recognisable fashion
   name back with a new St Michael collection created with Aries.
 image: https://www.yorkpress.co.uk/resources/images/21325054.jpg?type=og-image&xType=0&yType=134
+categories:
+- Local
+- York
+- Lifestyle & Fashion
+- Shopping & Deals
 ---
 
 *(Image: Marks and Spencer)*

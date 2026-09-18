@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Fashion designer was convicted of hate crime by French court in 2011
   after series of racist and antisemitic remarks
 image: https://i.guim.co.uk/img/media/3e2e5713152a6332c29dbb41cc5baad9dc4a11c5/0_380_2826_2258/master/2826.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=413bb402cf893940a5ca731722eafc3b
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 The controversial fashion designer John Galliano announced on Monday that an exhibition honoring his work that New York’s Metropolitan Museum of Art had scheduled to open for the upcoming spring’s Met Gala is not going to go forward.

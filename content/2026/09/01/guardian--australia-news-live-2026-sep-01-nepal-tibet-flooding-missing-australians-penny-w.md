@@ -9,6 +9,9 @@ scraped_at: '2026-09-01T04:59:00Z'
 published: '2026-09-01T00:00:00Z'
 description: Follow updates live
 image: https://i.guim.co.uk/img/media/d7848242452d9aa0acd2640d70a203242b5331aa/1000_487_5615_4494/master/5615.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f8b98f45c82bf63aeafd3310c24f18f7
+categories:
+- UK
+- News & Politics
 ---
 
 Australia news live: PM shuts down questions of China ‘bullying’ on eve of Pacific forum; Victorian police officer charged after allegedly hitting teen with baton

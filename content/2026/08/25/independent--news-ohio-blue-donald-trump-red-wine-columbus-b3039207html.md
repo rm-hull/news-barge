@@ -10,6 +10,10 @@ description: A federal judge has blocked enforcement of an Ohio law requiring el
   residents to produce documentary proof of citizenship when attempting to register
   to vote at a motor vehicle bureau
 image: https://static.independent.co.uk/2026/08/25/22/Voting_Proving_Citizenship_Ohio_48147.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A federal judge on Tuesday temporarily blocked enforcement of an Ohio requirement that voters show proof of citizenship when registering to vote at a motor vehicle bureau, a rule that took effect for the first time this year.

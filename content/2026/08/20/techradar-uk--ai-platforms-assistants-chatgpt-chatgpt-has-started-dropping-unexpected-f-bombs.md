@@ -8,6 +8,9 @@ scraped_at: '2026-08-20T08:52:43Z'
 published: '2026-08-20T00:00:00Z'
 description: ChatGPT seems to be swearing a lot more lately
 image: https://cdn.mos.cms.futurecdn.net/qAhMkZbDtXPFWQpw4fddue-2560-80.jpg
+categories:
+- Technology & Software
+- News & Politics
 ---
 
 ![Swearing](https://cdn.mos.cms.futurecdn.net/qAhMkZbDtXPFWQpw4fddue.jpg) 

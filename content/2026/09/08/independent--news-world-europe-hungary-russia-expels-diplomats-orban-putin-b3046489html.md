@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: The move comes under Prime Minister Peter Magyar, who took office earlier
   this year
 image: https://static.independent.co.uk/2026/04/14/10/2248237434.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Russian Foreign Ministry said on Tuesday that it would retaliate against Hungary over Budapest's expulsion of 10 Russian diplomats, the state RIA news agency reported.

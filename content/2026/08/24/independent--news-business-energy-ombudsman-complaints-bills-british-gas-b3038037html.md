@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T08:59:46Z'
 published: '2026-08-24T00:00:00Z'
 description: Complaints over smart meters made up a significant proportion of complaints
 image: https://static.independent.co.uk/2026/08/20/11/02/iStock-1345466784.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Disputes over household energy bills drove a 16 per cent surge in official complaints during the first six months of 2026, fresh data reveals, reflecting ongoing strain on domestic budgets.

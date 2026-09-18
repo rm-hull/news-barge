@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: Vodafone has launched a new SuperMobile connectivity plan that's fast
   enough to power the ‘new world of generative AI.’
 image: https://cdn.mos.cms.futurecdn.net/d9QEcSoKNvwDX9Ju47DdJa-1780-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![VodafoneThree CEO Max Taylor and Lance Ulanoff side-by-side](https://cdn.mos.cms.futurecdn.net/d9QEcSoKNvwDX9Ju47DdJa.jpg) 

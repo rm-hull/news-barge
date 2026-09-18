@@ -11,6 +11,8 @@ description: Ahead of the iPhone 18 Pro's official launch, we sat down with Appl
   new VP of Hardware Engineering, Tom Marieb, to discuss the durability credentials
   of the iPhone 18 Pro and iPhone Duo.
 image: https://cdn.mos.cms.futurecdn.net/rCPbtPQovB3h5FFr5Rb5YZ-1024-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![An unfolded iPhone Duo on display](https://cdn.mos.cms.futurecdn.net/rCPbtPQovB3h5FFr5Rb5YZ.jpg) 

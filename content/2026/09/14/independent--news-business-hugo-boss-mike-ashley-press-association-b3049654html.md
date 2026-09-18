@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Sports Direct owner Frasers said it will now appoint a second representative
   onto Hugo Boss’s board after increasing its ownership of the brand.
 image: https://static.independent.co.uk/2024/08/28/08/27143755-48290d8a-0111-4cc3-92c7-2e39b152c438.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The chairman of Hugo Boss is to step down from the luxury fashion brand as Mike Ashley’s Frasers Group tightens its grip on the business.

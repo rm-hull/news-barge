@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: British Transport Police said a man who was in a van died at the scene,
   in Burscough.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b57/live/2bd615b0-a3d8-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Image shows a train stopped on a railway line, with fields on either side. An official in a hi-vis jacket can be seen standing in front of it.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/0b57/live/2bd615b0-a3d8-11f1-a291-b542ee92de7c.jpg)

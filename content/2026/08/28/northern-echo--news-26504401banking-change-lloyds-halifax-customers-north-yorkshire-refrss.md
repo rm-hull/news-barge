@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: A new banking hub has opened in Stokesley, giving residents and businesses
   access to cash services and face-to-face banking support from major high…
 image: https://www.thenorthernecho.co.uk/resources/images/21385008.jpg?type=og-image&xType=0&yType=123
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Cash Access UK)*

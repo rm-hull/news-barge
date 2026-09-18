@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Iran's government has made its first public statement since Tehran-backed
   rebels in Yemen entered a key port in a move that could threaten global shipping
 image: https://static.independent.co.uk/2026/09/10/22/Yemen_War_71277.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Iran's government on Friday called for an end to Saudi Arabia's blockade of Yemen and the immediate resumption of talks, in its first public statement since Iran-backed Houthi rebels entered a key Yemeni port and intensified their threat to a key global shipping alternative to the Strait of Hormuz.

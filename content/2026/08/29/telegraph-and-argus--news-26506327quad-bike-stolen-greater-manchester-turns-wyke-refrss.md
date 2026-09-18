@@ -7,6 +7,11 @@ scraped_at: '2026-08-29T13:50:00Z'
 published: '2026-08-29T00:00:00Z'
 description: A stolen quad bike was recovered by police during a foot patrol in Wyke.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21387754.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: WYP)*

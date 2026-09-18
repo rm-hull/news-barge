@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: OPEN any fridge in any kitchen across the UK and there is likely to be
   a jar of mayonnaise inside.
 image: https://www.yorkpress.co.uk/resources/images/21426310.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 ## Most people keep this product in their fridge - we put it to the test

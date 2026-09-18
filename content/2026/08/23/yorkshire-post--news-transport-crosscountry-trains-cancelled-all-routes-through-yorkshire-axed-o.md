@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: All CrossCountry train services in Yorkshire have been cancelled due
   to a power outage at the rail firm’s control centre.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/04/19/06/iconic-upload-pa-2025_08_22-1755874734816_1.jpg?trim=0,12,0,12&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # CrossCountry trains cancelled: all routes through Yorkshire axed over power failure

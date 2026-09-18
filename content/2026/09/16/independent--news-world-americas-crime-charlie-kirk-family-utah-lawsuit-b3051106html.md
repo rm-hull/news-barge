@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Charlie Kirk’s family is blaming Utah officials for failing to prevent
   the conservative activist’s assassination at a state university
 image: https://static.the-independent.com/2026/09/16/11/Charlie_Kirk_Shot_45596.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- History
 ---
 
 Charlie Kirk’s family has accused Utah officials of failing to prevent the conservative activist’s assassination, taking the first step toward a potential wrongful death lawsuit over alleged security failures at Utah Valley University.

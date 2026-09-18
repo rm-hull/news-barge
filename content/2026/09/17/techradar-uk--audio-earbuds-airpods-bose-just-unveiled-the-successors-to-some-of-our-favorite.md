@@ -9,6 +9,9 @@ published: '2026-09-17T00:00:00Z'
 description: 'Bose has two new clip-style earbuds: a follow-up to one of our top-rated
   pairs, plus a more affordable model.'
 image: https://cdn.mos.cms.futurecdn.net/BMG62ZMAmRWXTtSDCsgsZS-1028-80.jpg
+categories:
+- Technology & Software
+- Lifestyle & Fashion
 ---
 
 ![The Bose Sport Open Earbuds next to their case on a shelf.](https://cdn.mos.cms.futurecdn.net/BMG62ZMAmRWXTtSDCsgsZS.jpg) 

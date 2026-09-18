@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: SNL’s season 52 will debut on Sept. 26 featuring music from pop girl
   group Katseye
 image: https://static.independent.co.uk/2026/09/09/18/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Sports
 ---
 
 New York Knicks star Jalen Brunson, fresh off an NBA championship win, will host the season premiere of *Saturday Night Live* later this month, leading a roster of future guests that includes Inde Navarrette, Gracie Abrams, and Katseye.

@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: North Yorkshire Police said the theft happened in Cowstail Lane, Tockwith,
   between 10pm on Saturday, August 22 and 2.30am on Sunday, August 23 where…
 image: https://www.gazetteherald.co.uk/resources/images/21366644.jpg?type=og-image&xType=0&yType=109
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: North Yorkshire Police)*

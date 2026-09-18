@@ -9,6 +9,10 @@ description: Manchester United captain Bruno Fernandes and Manchester City forwa
   Khadija Shaw win the Professional Footballers' Associations men's and women's player
   of the year awards.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dab7/live/d49e1ff0-a070-11f1-a9ee-9bb6b032b6a3.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Split image of Bruno Fernandes (left), wearing a red Man United shirt and applauding, and Khadija Shaw (right), wearing a black Man City shirt and holding up a gold medal in her right hand](https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/dab7/live/d49e1ff0-a070-11f1-a9ee-9bb6b032b6a3.png)

@@ -9,6 +9,11 @@ description: The 5,525-mile U.S.-Canada border remains undefended, with nearly 3
   people and $2 billion in commerce crossing daily, while 800,000 Canadians live in
   the US
 image: https://static.independent.co.uk/2026/06/02/22/2261535758..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Negotiators from the U.S. and Canada are attempting to reach a truce on tariffs ahead of a 12:01 a.m. Wednesday deadline imposed by U.S. President Donald Trump.

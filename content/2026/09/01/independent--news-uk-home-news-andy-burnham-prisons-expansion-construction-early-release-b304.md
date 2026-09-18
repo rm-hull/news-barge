@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Around 5,000 prisoners were due to be released early from October under
   measures to ease overcrowding
 image: https://static.independent.co.uk/2026/08/11/16/2289162664..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The Justice Secretary has maintained that prisons will "still function properly" amid concerns over ministerial plans to convert laundries into cells to cope with overcrowding.

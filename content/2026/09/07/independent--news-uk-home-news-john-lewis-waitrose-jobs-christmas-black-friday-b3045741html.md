@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T14:14:47Z'
 published: '2026-09-07T00:00:00Z'
 description: Salaries start from £13 an hour, rising after a month and higher in London
 image: https://static.independent.co.uk/2026/08/10/11/5a6668841d1c99eee5e3e4feaa2cec7fY29udGVudHNlYXJjaGFwaSwxNzg2NDQzMTc2-2.83510040.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The John Lewis Partnership (JLP) is creating 10,000 seasonal jobs, including 6,000 in Waitrose.

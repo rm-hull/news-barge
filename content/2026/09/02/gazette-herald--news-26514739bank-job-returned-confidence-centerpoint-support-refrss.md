@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: Centrepoint were able to place him into accommodation and help him find
   a job.
 image: https://www.gazetteherald.co.uk/resources/images/21399500.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: Centrepoint)*

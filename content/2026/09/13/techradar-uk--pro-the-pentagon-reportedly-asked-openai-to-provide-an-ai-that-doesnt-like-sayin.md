@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: OpenAI and Pentagon face questions after disputed contract language reveals
   concerns over military AI restrictions
 image: https://cdn.mos.cms.futurecdn.net/bqTLGsRATg4oc47RW3PJbi-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![OpenAI logos](https://cdn.mos.cms.futurecdn.net/bqTLGsRATg4oc47RW3PJbi.jpg) 

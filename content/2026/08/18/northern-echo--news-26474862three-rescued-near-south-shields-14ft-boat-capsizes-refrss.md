@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Mariners have been warned to take extra care near the River Tyne after
   a 14ft cabin cruiser capsized and disappeared from sight off South Shields.
 image: https://www.thenorthernecho.co.uk/resources/images/21336196.jpg?type=og-image&xType=0&yType=53
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Tynemouth RNLI lifeboat)*

@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Four games is far too soon to be talking about who is in or out of the
   title race... isn't it? BBC Sport asks if this is already a two-horse race.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f8b9/live/e8f67450-b03f-11f1-bb36-29bb24d8b9b8.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 Haaland scores controversial winner as Man City win derby despite Foden red

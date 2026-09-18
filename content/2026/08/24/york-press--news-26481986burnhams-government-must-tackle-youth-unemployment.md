@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Who has the guts to tell Andy Burnham he is no longer a metro mayor,
   asks our letter writer who says Government must tackle youth unemployment.
 image: https://www.yorkpress.co.uk/resources/images/21350319.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 Who will tell Andy Burnham is he is no longer a metro mayor? asks our lead letter writer. (Image: PA)

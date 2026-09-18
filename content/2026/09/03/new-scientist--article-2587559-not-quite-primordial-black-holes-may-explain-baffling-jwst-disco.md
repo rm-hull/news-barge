@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: The James Webb Space Telescope seems to have discovered more ancient
   black holes than theory had predicted, and now we have a new way to explain why
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310514425.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![little red dot galaxies recorded by JWST](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310514425.jpg?w=840)

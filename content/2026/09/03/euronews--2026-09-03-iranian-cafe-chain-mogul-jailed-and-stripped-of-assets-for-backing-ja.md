@@ -10,6 +10,10 @@ description: Sadegh Saeedinia, manager of the Saeedinia café chain, was convict
   on Instagram and encouraging staff to strike, in one of the harshest sentences handed
   to a private entrepreneur since the unrest.
 image: https://images.euronews.com/articles/stories/09/90/04/95/1200x675_cmsv2_8a34ec41-fd7c-51d5-8f26-a208a9157551-9900495.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 **Euronews Persian**

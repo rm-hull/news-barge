@@ -10,6 +10,10 @@ description: US investigators have indicated that the strike, which Tehran says 
   four, was the result of a US bomb missing a nearby target, a Washington Post report
   says
 image: https://static.independent.co.uk/2026/09/07/16/2293366385..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The US defence ministry is investigating the strong possibility that an deadly airstrike on a wedding in Iran was the result of a US bomb missing a nearby target, according to a report.

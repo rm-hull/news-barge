@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T19:54:05Z'
 published: '2026-09-07T00:00:00Z'
 description: A hotel on the A63 between Leeds and Selby is up for sale for £2.8m.
 image: https://www.yorkpress.co.uk/resources/images/21420751.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 ## Well-regarded hotel goes on the market for £2.8m

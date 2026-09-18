@@ -8,6 +8,10 @@ scraped_at: '2026-08-18T13:03:43Z'
 published: '2026-08-18T00:00:00Z'
 description: A ship was hit by a projectile while sailing out of the Strait of Hormuz
 image: https://static.independent.co.uk/2026/08/18/11/Iran_War_Strait_of_Hormuz_1853_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A ship was hit by a projectile early Tuesday as it was sailing out of the Strait of Hormuz, according to the British military's UK Maritime Trade Operations center, and an Iranian official said the route would not be reopened until the United States meets Iran's conditions.

@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Arsenal agree a deal worth more than £50m to sign Aston Villa and England
   defender Ezri Konsa.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ae9d/live/ad505a30-9bbb-11f1-ae8a-8d57110c5ba6.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Aston Villa defender Ezri Konsa holding the Europa League trophy](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ae9d/live/ad505a30-9bbb-11f1-ae8a-8d57110c5ba6.jpg)

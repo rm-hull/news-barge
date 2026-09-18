@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: England appoint former Ashes-winning batter Kevin Pietersen to their
   white-ball coaching team in the build-up to the 2027 ICC Cricket World Cup.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e7d7/live/96afb7a0-aaa5-11f1-9eba-7de947fa7cd1.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Kevin Pietersen looks on during a commentary spell](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/e7d7/live/96afb7a0-aaa5-11f1-9eba-7de947fa7cd1.jpg)

@@ -8,6 +8,12 @@ published: '2026-08-29T00:00:00Z'
 description: Lord O’Neill said Mr Burnham had done a ‘great job so far’ as Prime Minister
   in creating a more positive atmosphere
 image: https://static.independent.co.uk/2026/08/28/19/3fa9940d94a7f454ba4ac8eb472e5dcbY29udGVudHNlYXJjaGFwaSwxNzg4MDI1NzQ2-2.85668947.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 A former Conservative Treasury minister has cautioned Andy Burnham against increasing capital gains tax, labelling it a "stupid" decision.

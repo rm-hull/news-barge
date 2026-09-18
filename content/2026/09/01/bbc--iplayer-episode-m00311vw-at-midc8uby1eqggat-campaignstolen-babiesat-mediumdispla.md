@@ -9,6 +9,11 @@ description: Revealing how the British state forced 250,000 unmarried women to g
   up their babies. Told by the mothers affected, this landmark documentary exposes
   the forced adoption scandal.
 image: https://ichef.bbci.co.uk/images/ic/1200x675/p0p655qh.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- History
 ---
 
 # Stolen Babies

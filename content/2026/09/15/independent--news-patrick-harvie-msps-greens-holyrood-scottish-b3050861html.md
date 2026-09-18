@@ -7,6 +7,9 @@ scraped_at: '2026-09-16T04:42:35Z'
 published: '2026-09-15T00:00:00Z'
 description: MSPs will debate the issue at Holyrood on Wednesday.
 image: https://static.independent.co.uk/2026/09/16/00/15170832-ef7a4e79-a28a-4390-86ad-417cef0ad95f.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Holyrood will vote on whether there should be a moratorium on new hyperscale data centres – with Scottish Greens insisting the move is needed to halt a “big tech free-for-all”.

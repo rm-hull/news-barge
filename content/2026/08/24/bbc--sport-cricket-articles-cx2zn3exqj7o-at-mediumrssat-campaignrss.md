@@ -9,6 +9,10 @@ description: A punishment to “send a shiver down the whole team” may be need
   Brydon Carse became the latest England cricketer involved in a drinking controversy,
   according to Michael Vaughan.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6cde/live/9ed1ceb0-9ff5-11f1-b150-d3e6f0a6b415.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![England fast bowler Brydon Carse](https://ichef.bbci.co.uk/ace/standard/1552/cpsprodpb/6cde/live/9ed1ceb0-9ff5-11f1-b150-d3e6f0a6b415.jpg)

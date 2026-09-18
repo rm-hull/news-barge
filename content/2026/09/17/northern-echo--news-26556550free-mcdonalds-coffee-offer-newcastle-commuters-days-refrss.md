@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: McDonald's will give away free McCafé coffees at Newcastle Central Station
   on September 24 as it launches a new lighter roast brew.
 image: https://www.thenorthernecho.co.uk/resources/images/17012606.jpg?type=og-image&xType=0&yType=18
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 McDonald's will hand out hundreds of free coffees to North East commuters next week as it launches its revamped McCafé range.

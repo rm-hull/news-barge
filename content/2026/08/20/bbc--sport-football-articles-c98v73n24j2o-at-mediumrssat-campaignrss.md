@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: Rangers beat Jablonec in the first leg of their Conference League play-off,
   but it wasn't a pretty watch, writes Tom English.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1537/live/1ecc22c0-9ce3-11f1-9e72-05a4f32fdb83.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 ![Derek McInnes](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/1537/live/1ecc22c0-9ce3-11f1-9e72-05a4f32fdb83.jpg)

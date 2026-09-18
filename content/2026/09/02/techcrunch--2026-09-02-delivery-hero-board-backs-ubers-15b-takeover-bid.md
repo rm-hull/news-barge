@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: If approved, the combined company would become one of the largest food
   delivery platforms in the world.
 image: https://techcrunch.com/wp-content/uploads/2026/09/delivery-hero-getty.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Delivery Hero’s board has signed off on Uber’s $15 billion takeover offer and recommended shareholders approve the deal, which would create one of the largest on-demand food delivery platforms in the world.

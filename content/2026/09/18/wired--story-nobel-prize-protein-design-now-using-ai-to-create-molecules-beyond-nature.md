@@ -10,6 +10,10 @@ description: David Baker spoke with WIRED en Español about where biological des
   is headed next and the great potential and risks of taking biology outside the bounds
   of the natural world.
 image: https://media.wired.com/photos/6aa98f4f37ffd297aa0995f9/191:100/w_1280,c_limit/WR-Nobel.jpg
+categories:
+- Technology & Software
+- Science
+- Health & Fitness
 ---
 
 The natural world as we know it represents only a fraction of what might exist. Based on this idea, AI BioDesign was born: a scientific project that combines artificial intelligence and large-scale laboratory experiments to design and test new molecules and biological functions that are not found in nature but are physically and chemically possible.

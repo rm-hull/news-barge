@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: PC Case reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/NgsJEkzj8esBrPXZtEj24M-320-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 Selecting your next PC case is a daunting task, but Tom's Hardware has you covered with industry-leading testing, reviews, and analysis. Here you can find all the details about the wide variety of cases available on the market, including news and reviews covering the entire gamut of offerings. You can also head to our best PC cases page for in-depth buying recommendations.

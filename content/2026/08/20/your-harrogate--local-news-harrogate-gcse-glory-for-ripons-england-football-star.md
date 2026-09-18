@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: One of England’s brightest young football prospects is celebrating top
   GCSE results after balancing her studies with an elite sporting career.
 image: https://mmo.aiircdn.com/409/6a86d862955e20ef0e8.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![](https://mmo.aiircdn.com/409/6a86d862955e20ef0e8.jpg) 

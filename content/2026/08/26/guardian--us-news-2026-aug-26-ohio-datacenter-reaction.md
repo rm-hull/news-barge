@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Piketon datacenter promises to generate thousands of jobs, but environmental
   groups voice concern over project
 image: https://i.guim.co.uk/img/media/1a85992c2a92508fe641b2d0f216578c80e9aa90/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c217cc7f29ce8a3664737dbbab66c142
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 On a winding road tucked away behind forests in the Appalachian foothills of southern Ohio is where OpenAI, Nvidia and Japanese investors are set to spend $500bn on one of the largest artificial intelligence datacenters on the planet.

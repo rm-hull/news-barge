@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: Christopher was sick of being ghosted by AI recruiters. So he unleashed
   ChatGPT on his robot interviewer.
 image: https://media.wired.com/photos/6a95faca62c1ea4a51e42ed9/191:100/w_1280,c_limit/Two-AI-Bots-Talking-to-Each-Other-Business-dv1959057.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Christopher has become accustomed to jumping through the endless hoops of the modern job hunt. Like many government contractors, his work has dried up in the DOGE era. Over the past six months, he has applied to roughly 700 jobs; in the vast majority of cases, he’s heard nothing back.

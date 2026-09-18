@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Precisely 180 years ago, a handful of New York news executives looking
   to save money on coverage had an idea
 image: https://static.independent.co.uk/2026/09/03/15/America_25__The_AP_in_History_452_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Precisely 180 years ago, a handful of New York news executives looking to save money on coverage had an idea. Today, it is called The Associated Press.

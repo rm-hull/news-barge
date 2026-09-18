@@ -16,6 +16,11 @@ description: Reform’s money trail is still dominating the headlines, with two 
   on frontier AI safety. New episodes of In The Room come out weekly. Listen to the
   latest on Apple Podcasts and Spotify, or watch on YouTube.
 image: https://cdn.jwplayer.com/v2/media/LEWjpK7D/poster.jpg?width=720
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ## Showing now | In The Room

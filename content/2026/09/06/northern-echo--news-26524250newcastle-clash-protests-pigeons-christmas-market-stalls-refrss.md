@@ -9,6 +9,11 @@ published: '2026-09-06T00:00:00Z'
 description: Pigeons, protests, and Christmas markets are at the centre of concerns
   over a “lack of respect” for a North East war memorial.
 image: https://www.thenorthernecho.co.uk/resources/images/21413617.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Pigeons, protests, and Christmas markets are at the centre of concerns over a “lack of respect” for a North East war memorial.

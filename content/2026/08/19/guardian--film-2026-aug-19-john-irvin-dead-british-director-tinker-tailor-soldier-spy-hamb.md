@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: The director’s BBC hit opened the door to Hollywood action films including
   Hamburger Hill, The Dogs of War and Raw Deal
 image: https://i.guim.co.uk/img/media/0317ef4e32da6b25535eb2fa3c162d44f5df3cef/227_0_4401_3521/master/4401.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a532394fe2b8c009e1f21cc69b0388c2
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 John Irvin, the British film-maker who directed the Bafta-winning BBC miniseries Tinker Tailor Soldier Spy, as well as films including Hamburger Hill, The Dogs of War and Raw Deal, has died aged 86.

@@ -10,6 +10,12 @@ description: European Union countries issued a total of 3.9 million new residenc
   the “highest level” since records began, according to new data. But which countries
   issue the most?
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-tahmeed-ahmad-KYfiXxoQYdo-unsplash.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 Overall some 355,350 more permits were issued by EU in 2025 compared to the previous year, according to new figures published by Eurostat, the EU statistical office.

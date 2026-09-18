@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: The placements will be offered directly to young universal credit claimants
   in a programme dubbed ‘Opening Shift’
 image: https://static.independent.co.uk/2026/09/07/22/01M1YA3CRY209V9JHWSZVTJXJT.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Thousands of work experience placements are set to be provided by the UK’s major retail brands as part of a broader government push to tackle youth unemployment.

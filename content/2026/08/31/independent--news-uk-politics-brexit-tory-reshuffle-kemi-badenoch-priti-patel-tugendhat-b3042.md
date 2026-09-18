@@ -10,6 +10,9 @@ description: Political editor David Maddox looks at the implications of the Tory
   replacing a Brexiteer ‘spartan’ with a former ardent Remainer as shadow foreign
   secretary
 image: https://static.independent.co.uk/2026/08/30/18/2290534297..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Reshuffles are not just about putting different faces in different jobs but about changing the message of the party – and its policy – going forward.

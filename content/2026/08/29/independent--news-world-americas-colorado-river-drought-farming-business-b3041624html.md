@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: The severely depleted Colorado River is causing grave concern for those
   who rely on it
 image: https://static.independent.co.uk/2026/08/29/13/Colorado_River_Drought_914_6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Located on the outskirts of Phoenix, a small town hugely reliant on the Colorado River has restricted development, reopened disused wells and negotiated new water agreements.

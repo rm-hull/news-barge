@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: As frustration over AI influencers has been growing, Instagram is limiting
   the reach of undisclosed AI profiles.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Instagram-label-.png?w=1200
+categories:
+- Technology & Software
+- Creator Economy & Marketing
 ---
 
 Instagram announced Monday that it’s changing how it labels AI-generated profiles and will start limiting the reach of accounts that feature AI-generated people without saying so.

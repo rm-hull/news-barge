@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A Bradford district man who says his life has been “devastated” by Long
   Covid has urged new Prime Minister Andy Burnham to do more to help…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21335308.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Newsquest)*

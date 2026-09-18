@@ -9,6 +9,10 @@ description: Trump says the ‘only control or ‘guardrails’ that AI needs is
   AND SMART PRESIDENT.’ That means nobody should expect urgent action from Washington
   on it, Eric Garcia writes.
 image: https://static.independent.co.uk/2026/06/03/19/2277317887..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Congress is back — at least for a little bit.

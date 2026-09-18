@@ -10,6 +10,9 @@ description: The three-day vote will fill 450 Duma seats and 11 regional governo
   Despite official denials of a new draft, fears of mobilisation are overshadowing
   the vote.
 image: https://images.euronews.com/articles/stories/09/91/88/05/1200x675_cmsv2_652b7102-b5e0-526a-a99a-53a3c63c0b62-9918805.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## The three-day vote will fill 450 Duma seats and 11 regional governorships, with only parties backing Putin and Russia's ongoing war in Ukraine on the ballot. Despite official denials of a new draft, fears of mobilisation are overshadowing the vote.

@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: Panasonic's new flagship Blu-ray player and recorder launches in Japan
   in October 2026.
 image: https://cdn.mos.cms.futurecdn.net/htuMjEoKqbKTEhVHwkGHNV-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![The Panasonic DMR-4X1010 Blu-ray player on a white surface with a pink background](https://cdn.mos.cms.futurecdn.net/htuMjEoKqbKTEhVHwkGHNV.jpg) 

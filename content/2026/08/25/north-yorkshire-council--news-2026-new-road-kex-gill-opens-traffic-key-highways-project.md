@@ -9,6 +9,13 @@ description: A vital new road in North Yorkshire has today opened to traffic in 
   move that has been heralded as key for generations to come using one of the most
   strategic routes in the country.
 image: https://www.northyorks.gov.uk/sites/default/files/2026-08/Kex%20Gill%20A59%20new%20road%20open%20to%20traffic.JPG
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- Travel
+- Automotive
 ---
 
 ![Traffic is pictured travelling along the new stretch of the A59 at Kex Gill today (Tuesday, August 25). The route is seen as one of the most strategically important highways in the country linking the east and west of England.](https://www.northyorks.gov.uk/sites/default/files/2026-08/Kex%20Gill%20A59%20new%20road%20open%20to%20traffic.JPG) 

@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The Wold Top Big Sky Beer Festival will take place on July 9 and 10,
   2027, at Hunmanby Grange, home of Wold Top Brewery.
 image: https://www.yorkpress.co.uk/resources/images/21397341.jpg?type=og-image&xType=0&yType=102
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Big Sky Beer Festival)*

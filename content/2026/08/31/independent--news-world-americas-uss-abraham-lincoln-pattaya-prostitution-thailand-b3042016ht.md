@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: The USS Abraham Lincoln will dock at Thailand's resort city of Pattaya
   where prostitution is legal
 image: https://static.independent.co.uk/2026/08/31/08/2026-08-31T060423Z_184318896_RC2N3MA6BIKD_RTRMADP_3_IRAN-CRISIS-THAILAND-USA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Local authorities in a Thai resort city have issued a crack down on prostitution ahead of a visit from a US Navy aircraft carrier carrying 5,000 sailors and Marines who have been at sea for over 200 days.

@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: The owner of two city centre businesses that were stripped of their licence
   to sell alcohol will appeal the “disproportionate” decision in court.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21035427.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Google Street View)*

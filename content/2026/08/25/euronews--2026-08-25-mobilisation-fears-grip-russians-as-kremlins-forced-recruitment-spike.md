@@ -9,6 +9,11 @@ description: Human rights groups said they recorded a surge in forced recruitmen
   since mid-August, amid reports that Russia is preparing a new mobilisation wave
   after September's elections.
 image: https://images.euronews.com/articles/stories/09/88/78/06/1200x675_cmsv2_8c0adbba-2ebd-5c33-bcc8-d0f253daf012-9887806.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ## Human rights groups said they recorded a surge in forced recruitment since mid-August, amid reports that Russia is preparing a new mobilisation wave after September's elections.

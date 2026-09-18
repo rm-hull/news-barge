@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: A man was reportedly stabbed in a Bradford street after a fight took
   place in the early hours of the morning.
 image: https://www.thetelegraphandargus.co.uk/resources/images/16543862.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: newsquest)*

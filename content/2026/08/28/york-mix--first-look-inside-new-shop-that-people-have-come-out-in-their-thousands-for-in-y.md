@@ -8,6 +8,10 @@ scraped_at: '2026-08-28T22:14:32Z'
 published: '2026-08-28T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/miniso-york-2.webp
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 A new shop opened in York today – with queues stretching down the street.

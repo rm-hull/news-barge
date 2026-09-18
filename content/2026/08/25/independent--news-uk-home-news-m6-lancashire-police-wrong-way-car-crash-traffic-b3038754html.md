@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Drivers have been reminded of the ‘utterly devastating consequences’
   after seven people died in a crash on the A66 in Middlesbrough
 image: https://static.independent.co.uk/2026/08/20/11/2291241190..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Automotive
+- Technology & Software
 ---
 
 Police have condemned “unacceptable” driving behaviour after several vehicles were caught driving in the wrong direction on the motorway following a crash.

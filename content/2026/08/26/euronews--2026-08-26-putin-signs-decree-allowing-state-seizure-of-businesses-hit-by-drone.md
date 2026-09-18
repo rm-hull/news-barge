@@ -10,6 +10,10 @@ description: The edict covers energy, transport, logistics and any facility deem
   Experts called it "hybrid nationalisation," warning it would be used to seize assets
   from companies under the pretext of security failure.
 image: https://images.euronews.com/articles/stories/09/88/73/65/1200x675_cmsv2_ff827d0c-235e-55c5-9a75-a3a1b44f4247-9887365.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## The edict covers energy, transport, logistics and any facility deemed critical to national security, and can be imposed by presidential instruction alone. Experts called it "hybrid nationalisation," warning it would be used to seize assets from companies under the pretext of security failure.

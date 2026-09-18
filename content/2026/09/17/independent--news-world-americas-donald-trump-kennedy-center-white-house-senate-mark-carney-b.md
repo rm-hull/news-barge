@@ -10,6 +10,9 @@ description: A federal judge has ordered the Kennedy Center to provide 30 days�
   before making any major physical changes to the building, including demolishing
   it — as President Donald Trump has threatened
 image: https://static.independent.co.uk/2026/09/17/21/Trump_88_81.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A federal judge on Thursday ordered the Kennedy Center to provide 30 days’ notice before making any major physical changes to the building, including demolishing it, as President Donald Trump has threatened. Trump said Wednesday that without his efforts to restore the aging building, “it’s going to close. It’ll end up being ripped down.”

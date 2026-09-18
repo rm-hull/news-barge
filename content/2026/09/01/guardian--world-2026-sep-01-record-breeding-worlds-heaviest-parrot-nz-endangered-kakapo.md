@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Critically endangered New Zealand bird enjoys record breeding season
   triggered by mass fruiting of native tree, pushing its numbers to 325
 image: https://i.guim.co.uk/img/media/515ab3fb4e54cf7a0179f9cb415c2b298530c293/0_523_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a1a692c9895fd63c9ec6ea118539e26
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 The population of the world’s heaviest parrot, the kākāpō, has surpassed 300 birds for the first time in 75 years, after a record breeding season triggered by the mass fruiting of a native New Zealand tree.

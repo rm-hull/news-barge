@@ -8,6 +8,12 @@ published: '2026-08-30T00:00:00Z'
 description: Paul Collingwood became one of England cricket’s most determined and
   decorated players, but his story began in Shotley Bridge.
 image: https://www.thenorthernecho.co.uk/resources/images/7835497.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
+- History
 ---
 
 Paul Collingwood became one of England cricket’s most determined and decorated players, but his story began in Shotley Bridge — the County Durham village where he first picked up a bat and learned the values that would define his career.

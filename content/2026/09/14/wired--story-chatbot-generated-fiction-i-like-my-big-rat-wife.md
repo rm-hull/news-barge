@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: While the publishing industry frets over how authors are using AI, many
   readers are taking things into their own hands.
 image: https://media.wired.com/photos/6aa091ab5bb8894d9970b282/191:100/w_1280,c_limit/Why-Get-Library-Card-When-Theres-ChatGPT-Culture.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 When Petra Ferraz de Novaes isn’t at work, she’s probably lost in a fantasy crafted with the help of artificial intelligence.

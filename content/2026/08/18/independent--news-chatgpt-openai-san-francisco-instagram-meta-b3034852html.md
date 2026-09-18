@@ -9,6 +9,10 @@ description: OpenAI is launching a version of ChatGPT designed for teenagers —
   first generation to grow up with artificial intelligence — who are already using
   it for schoolwork, questions about daily life and even companionship
 image: https://static.independent.co.uk/2026/08/18/12/ChatGPT_Teens_33976.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 OpenAI is launching a version of ChatGPT designed for teenagers — the first generation to grow up with artificial intelligence — who are already using it for schoolwork, questions about daily life and even companionship.

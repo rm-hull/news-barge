@@ -10,6 +10,10 @@ description: Are England a better team in September than in June? BBC cricket co
   Stephan Shemilt discusses the positives and negatives of the Test summer and what
   the next period may bring.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c72d/live/4e778bc0-aebf-11f1-89e2-171455bb2760.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Highlights: Root and Cox guide England to victory after early scare

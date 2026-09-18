@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Ten Harrogate cyclists have conquered a gruelling challenge in the French
   Pyrenees while representing the town in Bagnères-de-Luchon.
 image: https://mmo.aiircdn.com/409/6aaa40902f28e8c7d9f.jpg
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 ![](https://mmo.aiircdn.com/409/6aaa40902f28e8c7d9f.jpg) 

@@ -8,6 +8,8 @@ scraped_at: '2026-08-25T13:07:59Z'
 published: '2026-08-25T00:00:00Z'
 description: Stop trying to restore everything and start restoring what matters
 image: https://cdn.mos.cms.futurecdn.net/5rDPr5xYvLwnkP7ZvpR2w3-2122-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Caution sign data unlocking hackers. Malicious software, virus and cybercrime, System warning hacked alert, cyberattack on online network, data breach, risk of website](https://cdn.mos.cms.futurecdn.net/5rDPr5xYvLwnkP7ZvpR2w3.jpg) 

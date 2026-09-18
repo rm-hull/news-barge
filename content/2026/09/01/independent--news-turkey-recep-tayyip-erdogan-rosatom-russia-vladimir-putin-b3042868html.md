@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Turkish President Recep Tayyip Erdogan says Turkey is planning to expand
   its nuclear cooperation with Russia to build more power plants
 image: https://static.independent.co.uk/2026/09/01/16/Kyrgyzstan_SCO_Summit_45257.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Turkey is planning to expand its nuclear cooperation with Russia to build more power plants, President Recep Tayyip Erdogan said Tuesday.

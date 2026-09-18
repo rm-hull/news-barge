@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: State officials accused current and former Penn State students of packaging
   cocaine at fraternity houses and then selling it to their peers
 image: https://static.the-independent.com/2026/08/18/21/40/Screenshot-2026-08-18-at-5-23-02-PM.jpg?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 An inside look into one of the Pennsylvania State University fraternity houses at the center of an alleged cocaine trafficking ring has been shared on TikTok.

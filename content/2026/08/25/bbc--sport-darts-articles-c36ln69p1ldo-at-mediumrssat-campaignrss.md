@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Luke Littler loses to Jermaine Wattimena in the quarter-finals of the
   27th Players Championship contest of the year.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7f7f/live/64a45140-a0ae-11f1-a54e-272d756c341e.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 ![Luke Littler at the World Matchplay](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7f7f/live/64a45140-a0ae-11f1-a54e-272d756c341e.jpg)

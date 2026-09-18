@@ -7,6 +7,10 @@ scraped_at: '2026-08-22T20:35:35Z'
 published: '2026-08-22T00:00:00Z'
 description: Passengers suffered burns to their hands in the incident
 image: https://static.independent.co.uk/2026/08/18/13/18/GettyImages-2288343594.jpg?trim=208,0,208,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 An American Airlines passenger was treated for burns Friday after a laptop battery caught fire aboard a flight from Atlanta to Dallas, reportedly injuring four to five people.

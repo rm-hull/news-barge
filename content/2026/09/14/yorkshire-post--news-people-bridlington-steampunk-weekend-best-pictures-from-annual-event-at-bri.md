@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: Bridlington Steampunk Weekend returned over the weekend with a packed
   list of events.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjg2NjU1YTYwLThiYTQtNGY2MC1hODlkLTAwYmRkMzg3ZjcyNjo4MzVmZGU2Ny01N2NjLTQ2M2MtODk3MS0zZTkyNzQ1MWIzYTI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 The event took place inside the Royal Hall with entertainment, presentations, workshops and authors.

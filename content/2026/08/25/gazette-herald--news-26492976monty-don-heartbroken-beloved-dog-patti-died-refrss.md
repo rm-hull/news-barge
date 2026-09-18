@@ -7,6 +7,11 @@ scraped_at: '2026-08-25T13:08:50Z'
 published: '2026-08-25T00:00:00Z'
 description: Monty Don has shared that his dog Patti has died, saying he is "heartbroken"
 image: https://www.gazetteherald.co.uk/resources/images/21367606.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: James Manning/PA Wire)*

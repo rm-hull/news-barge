@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: A racist Middlesbrough drug dealer caught with £21k of cocaine told a
   court he had no memory of the abuse he inflicted on police officers.
 image: https://www.thenorthernecho.co.uk/resources/images/18519200.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- Sports
 ---
 
 *(Image: Cleveland Police)*

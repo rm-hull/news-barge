@@ -9,6 +9,10 @@ description: President Pezeshkian said Iran was in a position of "power and dign
   and should end the war on its own terms, even as Washington prepares to ramp up
   economic sanctions it described as "Economic D-Day."
 image: https://images.euronews.com/articles/stories/09/88/38/43/1200x675_cmsv2_0b3c679f-3de1-580e-a107-d26d8f4840b5-9883843.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## President Pezeshkian said Iran was in a position of "power and dignity" and should end the war on its own terms, even as Washington prepares to ramp up economic sanctions it described as "Economic D-Day."

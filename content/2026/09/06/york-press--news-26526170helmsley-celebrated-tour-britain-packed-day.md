@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: “Helmsley did us proud once again” was the overriding message as the
   town celebrated the visit of the Tour of Britain with a packed schedule of…
 image: https://www.yorkpress.co.uk/resources/images/21416867.jpg?type=og-image&xType=0&yType=1225
+categories:
+- Local
+- York
+- History
+- Travel
 ---
 
 ## 'Helmsley did us proud once again' as Tour of Britain comes to town

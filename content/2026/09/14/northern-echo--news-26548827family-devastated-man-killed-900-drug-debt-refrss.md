@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Aiden Matthews’ family describe their devastation after he died following
   a one-punch attack over a £900 drug debt. Three men jailed for…
 image: https://www.thenorthernecho.co.uk/resources/images/20384817.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 The family of a man killed with one punch over a £900 drug debt have spoken of the devastating impact of his death.

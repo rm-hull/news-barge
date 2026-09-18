@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: The University of Michigan plans to keep letter grades from appearing
   on transcripts for some first-year students
 image: https://static.independent.co.uk/2026/08/27/21/59/GettyImages-2503863.jpeg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
 ---
 
 Weeks after the University of Michigan made headlines with its plan to keep letter grades from appearing on the transcripts of some first-year students or affecting their GPAs, the decision continues to stir debate — with critics accusing the prestigious school of shielding students from reality and warning the move could backfire.

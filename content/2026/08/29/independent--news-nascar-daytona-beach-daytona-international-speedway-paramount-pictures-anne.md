@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: Tom Cruise will reprise his role as NASCAR driver Cole Trickle in a follow-up
   to “Days of Thunder.”
 image: https://static.independent.co.uk/2026/08/29/20/NASCAR_Days_of_Thunder_Auto_Racing__7857.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 Tom Cruise will reprise his role as NASCAR driver Cole Trickle in a follow-up to “Days of Thunder.”

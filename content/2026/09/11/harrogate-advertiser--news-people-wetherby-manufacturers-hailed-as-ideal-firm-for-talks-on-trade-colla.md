@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: A Wetherby firm said it was delighted to have been chosen for a visit
   from the British High Commissioner to explore trade opportunities in Pakistan.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjUzMDY2M2QwLWVkMzAtNGE2MC04MGU4LWZkYWU4ODUzNjJiMzo0NjlmMjQ0NC01MjdhLTQxMmMtODFhNi1kY2FhZTZjODIwMjI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 # Wetherby manufacturers hailed as 'ideal firm' for talks on trade collaboration between Britain and Pakistan

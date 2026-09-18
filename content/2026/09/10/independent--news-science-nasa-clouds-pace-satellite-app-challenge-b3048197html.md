@@ -7,6 +7,11 @@ scraped_at: '2026-09-10T22:30:06Z'
 published: '2026-09-10T00:00:00Z'
 description: The space agency is launching a citizen scientist challenge this month
 image: https://static.independent.co.uk/2026/09/10/20/27/GettyImages-1227720063.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- Technology & Software
 ---
 
 NASA wants you to have your head in the clouds – for science.

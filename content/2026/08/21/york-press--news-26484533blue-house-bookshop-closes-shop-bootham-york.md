@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The Blue House Bookshop has closed its doors to its former shop in Bootham
   a month early to embark on a brand-new chapter.
 image: https://www.yorkpress.co.uk/resources/images/21354413.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Much-loved bookshop closes doors after seven years to embark on new chapter

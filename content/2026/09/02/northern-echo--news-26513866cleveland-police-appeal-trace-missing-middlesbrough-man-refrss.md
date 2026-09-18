@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Police have issued an appeal to find missing Middlesbrough man Liam Loughlin,
   33, who was last seen on Marton Road heading towards James Cook…
 image: https://www.thenorthernecho.co.uk/resources/images/21399342.jpg?type=og-image&xType=0&yType=70
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: Cleveland Police)*

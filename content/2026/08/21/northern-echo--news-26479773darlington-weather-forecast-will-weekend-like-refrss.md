@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: The Met Office has forecast a mixed weather pattern for Darlington and
   County Durham over the weekend.
 image: https://www.thenorthernecho.co.uk/resources/images/19129207.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: MET OFFICE)*

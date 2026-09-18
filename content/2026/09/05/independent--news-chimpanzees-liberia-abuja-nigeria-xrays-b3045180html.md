@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: Chimpanzees once used in hepatitis B vaccine experiments are getting
   health checks at their new home in Liberia
 image: https://static.independent.co.uk/2026/09/05/10/Liberia_Chimapanzees_Sanctuary_57146.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A group of chimpanzees that were once used for hepatitis B vaccine experiments in laboratories have received health checks at their new home in Liberia, in hopes of giving them a second chance at a normal life.

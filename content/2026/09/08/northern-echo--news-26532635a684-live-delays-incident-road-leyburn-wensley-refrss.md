@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: There have been reports of an incident on the A684 between Leyburn and
   Wensley.
 image: https://www.thenorthernecho.co.uk/resources/images/21426363.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 - Good afternoon, welcome to this Northern Echo live breaking news blog.

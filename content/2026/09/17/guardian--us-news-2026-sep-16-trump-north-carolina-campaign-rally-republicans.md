@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: President stumps for Senate nominee Michael Whatley in North Carolina
   and urges voters to ‘crush the communists’
 image: https://i.guim.co.uk/img/media/0dbf3fa10f635bde46f7c284774b2c7ee0e3efc1/295_0_4228_3383/master/4228.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9194ccbcbcd4ff3eae9d08ba9f079ea6
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Donald Trump returned to the campaign trail on Wednesday, imploring North Carolina voters to “pretend I’m on the ticket” and “crush the communists” in the November elections at a rally in support of the Republican Senate nominee Michael Whatley.

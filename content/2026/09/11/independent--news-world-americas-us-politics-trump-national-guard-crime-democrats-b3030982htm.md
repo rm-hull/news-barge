@@ -10,6 +10,11 @@ description: President Donald Trump fumes at corporate donors who supported Cent
   for American Progress, after Democratic think-tank publishes report saying his federal
   law enforcement surges have been ineffective
 image: https://static.independent.co.uk/2026/08/11/11/kkTo9qZ4zR74jEHalvqPKkFrjvtowWns2XzaSwK7RFvxf2IL-wOaYfVT8OE7HG3fwqqDnnefbwurydrtbLnhjQ0cSVvVgXbTto7E..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 President Donald Trump has lashed out at everyone from Apple and Google to T-Mobile, Toyota and Walmart for supporting a left-leaning think-tank behind an unfavorable new report on crime in American cities.

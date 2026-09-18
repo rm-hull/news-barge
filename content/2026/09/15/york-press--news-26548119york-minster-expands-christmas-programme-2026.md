@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: York Minster is preparing to welcome a record number of worshippers this
   festive season with an expanded programme of Advent and Christmas services,…
 image: https://www.yorkpress.co.uk/resources/images/21077496.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Newsquest)*

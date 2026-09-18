@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: Speaker reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/EmuSX5mkD9xgW6JK2aGhbi-320-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 # Speakers

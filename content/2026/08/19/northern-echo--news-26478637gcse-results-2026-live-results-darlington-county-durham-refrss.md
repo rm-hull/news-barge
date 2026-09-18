@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Students across the North East and North Yorkshire are collecting their
   all-important GCSE results. Follow our blog live for updates.
 image: https://www.thenorthernecho.co.uk/resources/images/21342449.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 - Hello and welcome to The Northern Echo's live blog on GCSE results day.

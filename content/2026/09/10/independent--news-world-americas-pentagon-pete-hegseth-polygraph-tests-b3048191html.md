@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Polygraphs are ‘pseudo-scientific’ in that they measure physiological
   responses such as heart rate, blood pressure and perspiration
 image: https://static.independent.co.uk/2026/08/29/22/2291621194..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 In August 2026, government investigators subjected roughly 50 military officers and civilian employees on the Joint Staff to polygraph tests as part of an inquiry into press leaks about the Iran war and depleted U.S. munitions, according to *The New York Times*. The newspaper described the scope of the investigation as unprecedented in the modern military.

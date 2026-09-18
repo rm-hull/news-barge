@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Jury retires in Mark Faulds trial over allegations of grooming, rape
   and sexual abuse of a teenager in County Durham. He denies seven charges.
 image: https://www.thenorthernecho.co.uk/resources/images/20172131.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest)*

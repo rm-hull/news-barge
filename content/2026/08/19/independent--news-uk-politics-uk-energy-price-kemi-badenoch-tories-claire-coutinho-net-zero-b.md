@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: Green campaigners branded the Conservative’s plan to ditch net zero as
   a proposal that ‘flies in the face of all the real-world evidence’
 image: https://static.independent.co.uk/2026/08/19/10/01M0CPP7T5X0N9EK185KHJ7R8T.jpg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Green campaigners have branded the Conservatives’ plan to ditch net zero as a proposal that “flies in the face of all the real-world evidence”, after the party said it would prioritise cheap energy over decarbonising Britain’s power grid.

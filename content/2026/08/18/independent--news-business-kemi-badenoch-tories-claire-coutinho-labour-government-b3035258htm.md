@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: The shadow energy secretary will insist the UK ‘should focus all our
   attention on making electricity cheap’.
 image: https://static.independent.co.uk/2026/08/18/22/9903999c6d3f62c062cb1f763de63386Y29udGVudHNlYXJjaGFwaSwxNzg3MTUyNTYw-2.83912151.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Government should prioritise cheap energy over decarbonising Britain’s power grid, senior Conservative Claire Coutinho will say.

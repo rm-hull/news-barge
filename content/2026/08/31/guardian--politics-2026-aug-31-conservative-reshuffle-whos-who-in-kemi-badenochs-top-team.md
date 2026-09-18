@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: From a darling of the Tory right to a moderate former army officer, we
   profile the key players
 image: https://i.guim.co.uk/img/media/5d0869cdec9f1c6d793400571a27bb90b95eb922/143_0_3873_3099/master/3873.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f0484dd171a52aff12de8e4e167db3b7
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Kemi Badenoch has kicked off the return to parliament with a reshuffle of her top team in order to take on Andy Burnham and Reform UK. She has made sweeping changes to the shadow cabinet and ruthlessly axed her shadow chancellor. Here is a run-down of the new characters sitting across from Labour on the opposition frontbench.

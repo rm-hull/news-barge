@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Influencers hunting for viral views risk heavy fines and causing severe
   ecological damage
 image: https://static.independent.co.uk/2026/08/31/09/01M120N346NXMSCT640QRWPQD7.jpg?trim=125,0,125,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 A surge in social media videos showing influencers picking wild mushrooms is putting Epping Forest’s ecosystem at risk, experts have warned.

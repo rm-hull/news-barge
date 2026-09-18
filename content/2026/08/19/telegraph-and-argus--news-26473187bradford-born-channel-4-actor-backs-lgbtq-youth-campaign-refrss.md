@@ -8,6 +8,11 @@ scraped_at: '2026-08-19T08:52:41Z'
 published: '2026-08-19T00:00:00Z'
 description: A BRADFORD-BORN actor has joined a major new campaign.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21333842.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 *(Image: Supplied)*

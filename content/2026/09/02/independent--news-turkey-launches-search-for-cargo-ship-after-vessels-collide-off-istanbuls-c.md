@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Turkish officials say a search operation has been launched off the coast
   of Istanbul after two ships collided
 image: https://static.independent.co.uk/2026/09/02/07/Turkey-Ship-Search_3_964.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Turkey launched a search operation Wednesday off the coast of Istanbul after two ships collided and contact was lost with one vessel and its crew of 10, officials said.

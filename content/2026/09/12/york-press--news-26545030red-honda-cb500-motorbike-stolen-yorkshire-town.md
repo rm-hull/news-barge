@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: A red Honda motorbike has been stolen from a home in Eastfield, near
   Scarborough.
 image: https://www.yorkpress.co.uk/resources/images/21092212.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
 ---
 
 *(Image: Newsquest)*

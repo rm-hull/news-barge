@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: Dozens of charities have urged ministers to focus on support and opportunity
   instead of ‘the failed punitive approaches of the past’
 image: https://static.independent.co.uk/2026/08/18/16/22/iStock-2250051531.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Self-Improvement
+- Society & Culture
+- Health & Fitness
 ---
 
 Plans to strip health welfare benefits from individuals aged below 22 threaten to push vulnerable young people into poverty, campaigners have warned.

@@ -7,6 +7,9 @@ scraped_at: '2026-09-04T12:41:55Z'
 published: '2026-09-04T00:00:00Z'
 description: 'The Cloud Sovereignty Framework: measurable progress or missed opportunity?'
 image: https://cdn.mos.cms.futurecdn.net/pSreeHEMSHqVQg2TgPqbUL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A digital cloud on a blue digital landscape](https://cdn.mos.cms.futurecdn.net/pSreeHEMSHqVQg2TgPqbUL.jpg) 

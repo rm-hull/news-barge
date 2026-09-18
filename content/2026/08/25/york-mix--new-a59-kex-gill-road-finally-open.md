@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T13:08:14Z'
 published: '2026-08-25T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/Untitled1.jpg
+categories:
+- Local
+- York
+- Travel
 ---
 
 A new road in North Yorkshire has finally opened to traffic in a move that has been heralded as key for generations to come.

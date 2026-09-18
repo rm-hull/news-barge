@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: A jury foreperson says the lone holdout juror in Lindsay Clancy trial
   said he had reasonable doubt but still wouldn’t acquit
 image: https://static.independent.co.uk/2026/09/05/01/Lindsay_Clancy_Trial_15747.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A lone juror blocked the acquittal of Lindsay Clancy, despite acknowledging during deliberations that he had doubts about her guilt, the jury’s foreperson said in a TV interview Tuesday.

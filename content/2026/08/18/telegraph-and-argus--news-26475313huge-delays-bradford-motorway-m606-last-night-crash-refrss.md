@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: The incident happened on M606 northbound between Junctions 1 and 2 at
   around 9.25pm on Monday.
 image: https://www.thetelegraphandargus.co.uk/resources/images/17813216.jpg?type=og-image&xType=0&yType=4
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: T&A)*

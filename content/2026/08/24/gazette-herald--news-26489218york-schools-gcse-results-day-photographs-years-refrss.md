@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Can you spot yourself? Photos from GCSE results days across York and
   North Yorkshire between 2015 and 2025, capturing celebrations, pride and relief.
 image: https://www.gazetteherald.co.uk/resources/images/21361970.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Self-Improvement
 ---
 
 GCSE results day has long been one of the most memorable dates in the school calendar, from anxious envelopes and hugs in school halls to delighted smiles for the camera.

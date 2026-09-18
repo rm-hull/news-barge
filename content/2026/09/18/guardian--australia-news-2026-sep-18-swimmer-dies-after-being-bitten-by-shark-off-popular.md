@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Locals describe their shock at witnessing the incident at Sorrento beach
   on Friday morning
 image: https://i.guim.co.uk/img/media/0fe33b2cfb19583112c2d86b3120796294fcb0e4/184_0_1843_1474/master/1843.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9bb70077f2852cfb4af01745c07c5d21
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A man has died after being bitten by a shark off Sorrento beach in Perth’s north.

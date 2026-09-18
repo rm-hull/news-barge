@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: 'A woman reports carrying toxic substances in her handbag at Berlin airport.
   Police arrest her and evacuate Terminal 1. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/07/10/1200x675_cmsv2_3e5a9ece-1b61-5c81-bb93-33dd3d0d01ba-9900710.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 **Johanna Urbancik**

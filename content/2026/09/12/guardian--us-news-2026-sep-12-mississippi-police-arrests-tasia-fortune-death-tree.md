@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Officials still investigating death of Tasia Fortune, a Black woman,
   a day after man’s arrest in relation to killing
 image: https://i.guim.co.uk/img/media/0b1a4a16977fe04832e443b44c4baee4f958bdf3/342_0_4631_3705/master/4631.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd1a87445671d01d96bb5ebe6adffc9b
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Mississippi police said on Saturday they were still investigating the death of Tasia Fortune, a Black woman found hanging from a tree last month, a day after a man was arrested in connection with the killing.

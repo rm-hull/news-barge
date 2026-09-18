@@ -9,6 +9,12 @@ description: The argument to save British Steel was clear and it was one of the 
   occasions where there was cross-party consensus for the Government to step in and
   renationalise the steelmaker.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjcxNzRjNDEyLTMxY2YtNDBjYi04OTZmLTlhNjZjZjk5ODEwNDo1ZWRhYWFiNC1mYzBlLTQzY2ItYmIzNy02ZDBhNDBmZjdhMzc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Personal Finance & Investing
 ---
 
 # MPs right to ask what the plan is for British Steel as cost for taxpayer mounts

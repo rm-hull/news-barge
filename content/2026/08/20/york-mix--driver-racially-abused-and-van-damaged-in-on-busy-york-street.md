@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T16:47:59Z'
 published: '2026-08-20T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/04/two-police-vans-in-york-2025.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 Police are investigating after a man was racially abused in York city centre.

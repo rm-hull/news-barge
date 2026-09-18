@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Nine drivers were caught speeding during a police speed watch on a Bradford
   district road.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21438062.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: West Yorkshire Police)*

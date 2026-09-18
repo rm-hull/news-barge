@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A father accused of murdering his newborn baby boy more than six years
   ago has denied the charge and will stand trial.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/07/13/7/17/Worsfold.jpeg?trim=6,0,7,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Father denies murdering one-month-old son in Yorkshire in 2020

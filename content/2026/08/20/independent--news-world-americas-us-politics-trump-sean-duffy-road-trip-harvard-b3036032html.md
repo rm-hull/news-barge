@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: Sean Duffy’s ‘Great American Road Trip’ has finally been released on
   YouTube — with the comment section turned off
 image: https://static.independent.co.uk/2026/08/19/23/19/GettyImages-2288474365.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Transportation Secretary Sean Duffy’s family road trip reality show has finally been released, and it’s already turning heads with a conversation between him and one of his daughters.

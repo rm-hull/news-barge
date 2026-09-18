@@ -10,6 +10,9 @@ published: '2026-08-29T00:00:00Z'
 description: Many scientists have predicted AI will one day become more intelligent
   than humans
 image: https://cdn.mos.cms.futurecdn.net/uuKjnfsa7UerZN4hXJ7H8e-1024-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Claude Shannon at work](https://cdn.mos.cms.futurecdn.net/uuKjnfsa7UerZN4hXJ7H8e.jpg) 

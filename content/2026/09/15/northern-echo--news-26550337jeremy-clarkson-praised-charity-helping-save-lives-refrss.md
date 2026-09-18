@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Jeremy Clarkson and former Prime Minister David Cameron have been praised
   for encouraging men to assess their risk of prostate cancer, which has…
 image: https://www.thenorthernecho.co.uk/resources/images/21450912.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Science
 ---
 
 *(Image: Matthew Vincent/PA Wire)*

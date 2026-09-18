@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: England selection should no longer be restricted to players based at
   domestic clubs, according to cap centurion Courtney Lawes.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ad51/live/b681d660-aade-11f1-aa35-df10e5ff32f4.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Courtney Lawes walks past fans after getting off a coach](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/8bcb/live/8c6ffd80-aadd-11f1-aa35-df10e5ff32f4.jpg)

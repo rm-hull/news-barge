@@ -10,6 +10,11 @@ description: A leading member of the Peakland Environmental Farmers group has jo
   the same priority as emergency response amid continuing controversy over changes
   to the rules for controlled burning.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjUxNGIyZWE4LWU4YTQtNGQzMy1hMDBkLTFlNWNkOTAxYTg1YjpjZDcwMWE0Ni1kZTQ3LTQ1MTEtYjI3OC04NjA3N2MyNTU3NWI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Call to put wildlife prevention on equal footing

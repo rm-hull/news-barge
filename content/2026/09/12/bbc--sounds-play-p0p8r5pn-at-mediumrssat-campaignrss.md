@@ -8,6 +8,9 @@ scraped_at: '2026-09-12T22:13:58Z'
 published: '2026-09-12T00:00:00Z'
 description: How the record donations change the country’s political landscape.
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ## Episode details

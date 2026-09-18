@@ -10,6 +10,11 @@ description: As if dealing with the vagaries of the weather and the threat to ex
   worry about the safety of property and livestock cannot be dismissed by those who
   live and work in rural areas.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmRhYmY4Njg4LWViMmItNDViZi1iNzY3LTAyYzdhMjc2ZTAxZjoyMGRhZWRmYy0wOGMyLTRjNDctYTc1MC04NDMzMTBlNWZjZDc=.jpg?crop=3:2,smart&trim=&width=944&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # The country criminals who can steal a farmer’s livelihood - Stuart Minting

@@ -9,6 +9,10 @@ description: For the past decade, depression has been linked to a shrunken hippo
   which has a vital role in memory. But a large study using up-to-date scanning techniques
   suggests this may not be the case
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308285036.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308285036.jpg?w=840)

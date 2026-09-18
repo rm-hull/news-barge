@@ -8,6 +8,12 @@ scraped_at: '2026-09-17T13:22:55Z'
 published: '2026-09-17T00:00:00Z'
 description: The Dayton Literary Peace Prizes have announced this year's winners
 image: https://static.independent.co.uk/2026/09/17/11/Dayton_Prizes_21547.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Arts & Culture
+- Books & Literature
 ---
 
 A coming-of-age novel set in wartime Ukraine and the history of a Black church in South Carolina through slavery, the Civil Rights Movement and a gunman's killings in 2015 are this year's winners of Dayton Literary Peace Prizes.

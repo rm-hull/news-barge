@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: It's the first time the Duchess of Sussex had posted her family on her
   Instagram grid since they return to the UK last month.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad3a/live/07912460-af90-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Composite image of Harry and Meghan walking along a country path. He has his back to the camera as she turns to face it. They are holding hands. On the right hand side, Lilibet rides a bike with a red seat on the back carrying a doll, while Archie runs ahead of her.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ad3a/live/07912460-af90-11f1-a540-61c3f7fc4e6c.jpg)

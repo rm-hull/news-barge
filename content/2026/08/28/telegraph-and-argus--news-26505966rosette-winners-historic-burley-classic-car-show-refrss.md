@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: AS part of the Burley Summer Festival approximately 330 historic and
   modern classic cars and motorcycles, commercial vehicles, 4x4s, American,…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21387113.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
+- History
 ---
 
 *(Image: submitted)*

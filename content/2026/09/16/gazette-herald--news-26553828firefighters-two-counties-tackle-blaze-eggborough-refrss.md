@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: The county's fire and rescue service said three crews, including one
   from Pontefract in West Yorkshire, were called to the scene of a fire in…
 image: https://www.gazetteherald.co.uk/resources/images/21460838.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 FIREFIGHTERS from two counties have been tackling a blaze close to a former power station.

@@ -9,6 +9,13 @@ description: It is a national scandal that survivors of terrorist attacks are st
   being “mistreated and neglected”, campaigners have said as the UK marked the first
   dedicated memorial day for victims.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/07/24/08/v2-image-production-43dec6929e6aec00ad032671e0cba170Y29udGVudHNlYXJjaGFwaSwxNzM1MDM2OTYw-2.60386898.jpg?trim=526,0,1511,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
+- Society & Culture
 ---
 
 # ‘Neglect’ of terror attack victims a national scandal, survivors say

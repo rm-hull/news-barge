@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: Many tools fail to help victims find hidden cameras, microphones and
   trackers, leaving them at risk of ongoing surveillance
 image: https://i.guim.co.uk/img/media/0f06402ec28db55546af8c6a6eb2ccae3ed6fcd2/550_0_6105_4884/master/6105.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=db5174854f120cc78d55da6589039c54
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Commercial detectors intended to help domestic abuse victims find hidden spying devices may actually give them a false sense of security, a study has found.

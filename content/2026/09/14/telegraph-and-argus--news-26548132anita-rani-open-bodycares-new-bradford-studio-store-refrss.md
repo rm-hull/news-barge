@@ -8,6 +8,11 @@ scraped_at: '2026-09-14T15:00:38Z'
 published: '2026-09-14T00:00:00Z'
 description: A new store is set to open in The Broadway shopping centre this weekend.
 image: https://www.thetelegraphandargus.co.uk/resources/images/5574257.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: File picture)*

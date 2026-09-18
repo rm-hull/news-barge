@@ -9,6 +9,9 @@ published: '2026-08-22T00:00:00Z'
 description: A 283KB Rust module and two compiled shaders sit behind the character
   grid.
 image: https://cdn.mos.cms.futurecdn.net/RAiUvf9c7FMGbrkrWApGmZ-1469-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![ASCII cyberpunk city prototype runs on a Rust WebAssembly engine and WebGL shaders](https://cdn.mos.cms.futurecdn.net/RAiUvf9c7FMGbrkrWApGmZ.png) 

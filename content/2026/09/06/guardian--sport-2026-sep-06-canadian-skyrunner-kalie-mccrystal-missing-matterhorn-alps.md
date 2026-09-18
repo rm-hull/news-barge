@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: Canadian athlete Kalie McCrystal has gone missing during preparations
   for a record attempt in the Alps
 image: https://i.guim.co.uk/img/media/56523e8ee330b91985f6730a0176501399f034cc/407_0_1993_1595/master/1993.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b74938fdca1d321f98755cc674959f6d
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Canadian athlete Kalie McCrystal has gone missing during preparations for a record attempt in the Alps.

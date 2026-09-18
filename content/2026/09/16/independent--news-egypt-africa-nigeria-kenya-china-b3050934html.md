@@ -10,6 +10,10 @@ description: Egypt is pairing a planned 2,000-megawatt wind project with its fir
   turbine manufacturing plant, seeking to turn renewable energy into an industrial
   opportunity
 image: https://static.independent.co.uk/2026/09/16/06/Africa_Egypt_Wind_Energy_66258.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Egypt is betting that building wind turbines at home can help it build a renewable-energy industry, positioning it as a template for Africa’s push for renewable-energy industrialization.

@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Pope ran the route with Nestlé to highlight how food is produced and
   support The Felix Project, the UK’s largest food redistribution charity.
 image: https://www.gazetteherald.co.uk/resources/images/21456360.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 *(Image: PA / Supplied)*

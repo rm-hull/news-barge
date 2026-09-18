@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A black and white Jack Russell has attacked another dog in a coastal
   North Yorkshire town.
 image: https://www.gazetteherald.co.uk/resources/images/21352841.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Oldiefan)*

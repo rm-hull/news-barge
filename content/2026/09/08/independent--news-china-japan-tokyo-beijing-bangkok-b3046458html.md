@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Japan has protested Chinese controls that will limit its exports of a
   key chemical used to make computer chips
 image: https://static.independent.co.uk/2026/09/08/10/China_Japan_96794.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Japan has protested against Chinese controls that will limit its exports of a key chemical used to make computer chips, saying Tuesday that Tokyo is studying the potential impact on Japanese companies.

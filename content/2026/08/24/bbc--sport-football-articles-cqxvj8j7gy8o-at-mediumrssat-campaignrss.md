@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: The football with which Diego Maradona scored his famous 'hand of God'
   goal in the 1986 World Cup quarter-final victory over England is sold at auction.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f5e5/live/c6488df0-9f80-11f1-82a0-8dbe1008b861.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A person wearing white gloves places the football used in the 1986 World Cup quarter-final on a stand](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/f5e5/live/c6488df0-9f80-11f1-82a0-8dbe1008b861.jpg)

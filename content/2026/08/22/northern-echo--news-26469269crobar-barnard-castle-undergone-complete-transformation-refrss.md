@@ -7,6 +7,12 @@ scraped_at: '2026-08-22T08:42:18Z'
 published: '2026-08-22T00:00:00Z'
 description: CroBar in Barnard Castle has reopened after a complete renovation.
 image: https://www.thenorthernecho.co.uk/resources/images/21333725.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Arts & Culture
 ---
 
 *(Image: SARAH CALDECOTT)*

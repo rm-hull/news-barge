@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: With military haircuts and moustaches, the US sailors stand out against
   the flip-flops of the usual Pattaya crowd.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a1f2/live/315f2940-a748-11f1-a7f4-7146ff2fa146.jpg
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 Watch: Why US troops have a history in this raucous Thai city

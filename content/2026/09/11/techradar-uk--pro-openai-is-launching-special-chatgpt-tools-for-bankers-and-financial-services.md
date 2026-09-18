@@ -8,6 +8,10 @@ scraped_at: '2026-09-11T12:48:29Z'
 published: '2026-09-11T00:00:00Z'
 description: OpenAI reveals ChatGPT for Financial Services
 image: https://cdn.mos.cms.futurecdn.net/wHcAyYGs78vPdyfMePKcMM-999-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Woman working on spreadsheet](https://cdn.mos.cms.futurecdn.net/wHcAyYGs78vPdyfMePKcMM.jpg) 

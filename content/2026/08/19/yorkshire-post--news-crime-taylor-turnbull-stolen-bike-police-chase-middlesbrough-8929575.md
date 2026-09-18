@@ -9,6 +9,12 @@ published: '2026-08-19T00:00:00Z'
 description: A 20-year-old who drove into oncoming traffic in an off-road police chase
   around Middlesbrough on a stolen off-road bike has been spared jail.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/19/11/21/TURNBULL1.jpg?trim=0,158,0,96&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # 'You don't mess about, do you?' Watch moment biker, 20, is arrested after 2am Middlesbrough police chase

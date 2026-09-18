@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: CINEWORLD is offering £4 tickets for National Cinema Weekend, giving
   film fans the chance to enjoy the big screen for less.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21401538.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 *(Image: Supplied)*

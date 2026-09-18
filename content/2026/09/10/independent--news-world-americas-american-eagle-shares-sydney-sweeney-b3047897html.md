@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: American Eagle Outfitters' shares slumped over 11% in premarket trading
   on Thursday
 image: https://static.independent.co.uk/2026/09/10/11/2260714272..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 American Eagle Outfitters shares tumbled more than 11% in premarket trading on Thursday after a stagnant quarterly gross-margin forecast overshadowed a second-quarter revenue beat, driven by persistent weakness in its main brand—a year on from launching its controversial "Great Jeans" campaign featuring Sydney Sweeney.

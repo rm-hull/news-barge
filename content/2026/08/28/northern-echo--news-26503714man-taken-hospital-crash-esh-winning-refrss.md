@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: A man in his 60s was taken to the Freeman hospital after a crash in Esh
   Winning.
 image: https://www.thenorthernecho.co.uk/resources/images/21384196.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: NORTHERN PERSPECTIVES)*

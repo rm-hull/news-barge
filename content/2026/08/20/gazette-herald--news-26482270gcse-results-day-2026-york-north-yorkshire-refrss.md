@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: It's a 'bravo!’ to York pupils as thousands of children receive their
   first ever sets of exam grades on GCSE results day.
 image: https://www.gazetteherald.co.uk/resources/images/21345615.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 IT’S A ‘bravo!’ to York pupils as thousands of children receive their first ever sets of exam grades on GCSE results day.

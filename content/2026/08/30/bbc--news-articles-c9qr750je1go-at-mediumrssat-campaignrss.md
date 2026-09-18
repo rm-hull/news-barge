@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Five others in their twenties were injured after shots were fired at
   a techno event near Zurich.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2dc4/live/0a7a6950-a466-11f1-b370-b9b7934350c8.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Sports
 ---
 
 ![Three police officers in uniform, including a bulletproof vest reading Kantons Polizei at the back, stand watching a field cordoned off by white and red tape. A fourth officer sits inside a police car parked next to his colleagues](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2dc4/live/0a7a6950-a466-11f1-b370-b9b7934350c8.jpg)

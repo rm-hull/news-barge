@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The mayor of Norton has hit back at rumours on social meeting about an
   incident in the town earlier today (Wednesday).
 image: https://www.gazetteherald.co.uk/resources/images/21432235.jpg?type=og-image&xType=0&yType=896
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 *(Image: Newsquest)*

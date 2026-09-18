@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: New school uniform rules have come into force across the North East -
   limiting branded items and aiming to reduce overall costs for families.
 image: https://www.thenorthernecho.co.uk/resources/images/17392492.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 New rules coming into force this week will cut school-uniform costs for thousands of children returning to classrooms across Teesside and County Durham.

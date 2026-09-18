@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: BRADFORD has been named one of the cheapest cities in the UK to buy a
   burger
 image: https://www.thetelegraphandargus.co.uk/resources/images/18963336.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty)*

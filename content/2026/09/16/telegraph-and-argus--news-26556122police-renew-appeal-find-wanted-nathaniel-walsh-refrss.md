@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: West Yorkshire Police renew appeal to find Nathaniel Walsh, 35, wanted
   over disqualified driving and assault offences in Kirklees. Call 101 for…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21463928.jpg?type=og-image&xType=0&yType=392
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

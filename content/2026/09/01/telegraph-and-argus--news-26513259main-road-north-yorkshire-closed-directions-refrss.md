@@ -8,6 +8,11 @@ scraped_at: '2026-09-01T19:22:59Z'
 published: '2026-09-01T00:00:00Z'
 description: A MAIN road in North Yorkshire was partially closed this morning.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21394236.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: North Yorkshire Council Cameras)*

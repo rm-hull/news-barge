@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: US President has suggested he would not back Britain if Argentina invaded
   the Falkland Islands, in retaliation for the UK’s stance on the conflict
 image: https://static.independent.co.uk/2026/09/04/11/2026-09-02T235918Z_1894008785_RC2BBNAYP2JX_RTRMADP_3_USA-TRUMP.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Sports
 ---
 
 Donald Trump has claimed his Iran war is “saving” Britain from a nuclear attack, as he again hit out at the UK for refusing to join the conflict.

@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: There are around 34 cases of individuals charged with firearms offences
   in London who are all on bail pending trial
 image: https://static.independent.co.uk/2026/08/17/00/3722fc2c934d3b5a248c95294cc3e687Y29udGVudHNlYXJjaGFwaSwxNzg2ODAwNjgx-2.82010778.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Suspects accused of serious knife and firearm offences are being released on bail due to overcrowded prisons and a struggling justice system, the head of the Metropolitan Police has warned.

@@ -10,6 +10,11 @@ description: China has successfully recaptured the first stage of a rocket on la
   for the first time, state media reports, as the country seeks to advance its space
   program
 image: https://static.independent.co.uk/2026/08/19/04/China_Space_715_3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- History
 ---
 
 China has successfully recaptured the first stage of a rocket on land for the first time, state media reported Wednesday, as the country seeks to advance its space program.

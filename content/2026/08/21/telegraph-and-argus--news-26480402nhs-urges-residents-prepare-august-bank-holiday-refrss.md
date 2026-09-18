@@ -7,6 +7,11 @@ scraped_at: '2026-08-21T08:54:01Z'
 published: '2026-08-21T00:00:00Z'
 description: HEALTH chiefs are urging people to plan ahead for the summer bank holiday.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19515582.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Lanchester is a picturesque County Durham village known for countryside
   walks, independent shops, cafés, pubs and a rich history stretching back to…
 image: https://www.thenorthernecho.co.uk/resources/images/21378322.jpg?type=og-image&xType=0&yType=126
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 Just a short drive from Durham City, Lanchester has earned a reputation as one of County Durham’s most attractive villages, with visitors praising its peaceful atmosphere, countryside walks and thriving collection of independent shops.

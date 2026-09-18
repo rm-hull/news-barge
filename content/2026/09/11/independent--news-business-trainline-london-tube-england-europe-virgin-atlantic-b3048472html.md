@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: The online ticketing platform reported UK consumer net ticket sales of
   £2.1 billion for the six months to the end of August.
 image: https://static.independent.co.uk/2026/09/11/09/ea5b02f1c66f56d955a592cea0c1b4baY29udGVudHNlYXJjaGFwaSwxNzg5MjAxNDAx-2.79377639.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Sports
 ---
 
 Trainline has said its ticket sales growth was held back this year by London Tube strikes, heatwaves and the Government’s freeze on rail fares.

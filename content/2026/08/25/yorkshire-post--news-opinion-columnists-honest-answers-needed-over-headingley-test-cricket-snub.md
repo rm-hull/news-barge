@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: The absence of Headingley from the men’s Test cricket calendar until
   2029 is deeply disappointing on a number of levels.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmViYjZmYTYyLWRmNDMtNDQ0Yi04MzY3LWFmZjRmZDQ4MjQwMDo1ZjJkNWI1NC1hY2Y4LTRkMmItYjBiZi1hYTk0YTlkZGQzMGU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Honest answers needed over Headingley test cricket snub

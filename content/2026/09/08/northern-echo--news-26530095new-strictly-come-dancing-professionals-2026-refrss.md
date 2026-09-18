@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Strictly Come Dancing has changed its lineup of professional dancers
   for the new 2026 series with five new faces taking to the dancefloor.
 image: https://www.thenorthernecho.co.uk/resources/images/21416507.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 *(Image: BBC/BBC Studios)*

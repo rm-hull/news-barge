@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Prime minister Luxon admits there were ‘missed opportunities’ while apologising
   to three minor children
 image: https://static.independent.co.uk/2026/09/16/10/2233718314..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- Society & Culture
 ---
 
 The New Zealand government has apologised to the three children of fugitive Tom Phillips, who hid them in a dense forest for years before being killed by the police in a shootout.

@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Industry experts are concerned the removal of the Entry/Exit System’s
   temporary flexibilities will see border chaos return.
 image: https://images.euronews.com/articles/stories/09/90/16/86/1200x675_cmsv2_d8e82347-4925-538c-8452-78503d41baa0-9901686.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## Industry experts are concerned the removal of the Entry/Exit System’s temporary flexibilities will see border chaos return.

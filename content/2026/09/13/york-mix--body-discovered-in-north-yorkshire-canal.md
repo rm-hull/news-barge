@@ -7,6 +7,10 @@ scraped_at: '2026-09-13T18:47:08Z'
 published: '2026-09-13T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/11/police-crime-scene-tape.webp
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 An investigation has been launched after a body was discovered in Ripon canal.

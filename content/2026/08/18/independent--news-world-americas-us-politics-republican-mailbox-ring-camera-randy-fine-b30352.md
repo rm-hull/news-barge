@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: The Florida homeowner has decided not to press charges, according to
   a report
 image: https://static.independent.co.uk/2026/08/18/21/57/GettyImages-2208035312.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Rep. Randy Fine, a Florida Republican, was caught rifling through a homeowner’s mailbox, but he will not face charges, according to a new report.

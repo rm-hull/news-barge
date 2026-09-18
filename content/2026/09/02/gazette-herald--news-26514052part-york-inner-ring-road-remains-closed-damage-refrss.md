@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Part of York’s inner ring road remains closed as work gets underway to
   repair damage caused to the road in Fishergate during a thunderstorm.
 image: https://www.gazetteherald.co.uk/resources/images/21399566.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 *(Image: Dylan Connell)*

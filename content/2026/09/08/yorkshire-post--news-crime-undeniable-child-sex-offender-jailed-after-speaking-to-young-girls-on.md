@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A child sex offender has been jailed for more than five years after police
   presented evidence which was ‘watertight and undeniable’ in his case.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/07/14/07/jakeregan.jpg?trim=355,0,433,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # 'Undeniable' - Child sex offender jailed after speaking to young girls online

@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A proposed ban on first-cousin marriage has sparked debate, with a Keighley
   MP calling for action and a Bradford councillor urging caution.
 image: https://www.thetelegraphandargus.co.uk/resources/images/13374302.jpg?type=og-image&xType=0&yType=56
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 A Keighley MP and a Bradford councillor have expressed contrasting views on proposals that could see first-cousin marriage banned in the UK.

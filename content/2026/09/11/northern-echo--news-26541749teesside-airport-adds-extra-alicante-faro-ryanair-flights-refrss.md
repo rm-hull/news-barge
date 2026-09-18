@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Extra flights to Alicante and Faro have been added from Teesside Airport
   as demand for winter sun holidays grows across the region.
 image: https://www.thenorthernecho.co.uk/resources/images/21440676.jpg?type=og-image&xType=0&yType=97
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Sarah Caldecott)*

@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: The government says at no point was there a risk to the UK's energy system
   during the attack in July.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f5a/live/8ba750f0-9e95-11f1-b485-57ec149f4199.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Close-up hands of female using laptop in bed at night](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/9f5a/live/8ba750f0-9e95-11f1-b485-57ec149f4199.jpg)

@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T22:15:18Z'
 published: '2026-08-28T00:00:00Z'
 description: All the security you need, without paying for extras
 image: https://cdn.mos.cms.futurecdn.net/zG4cGkUmXJoZZf3QqdtiYB-1344-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Surfshark Antivirus running on a Mac laptop](https://cdn.mos.cms.futurecdn.net/zG4cGkUmXJoZZf3QqdtiYB.jpg) 

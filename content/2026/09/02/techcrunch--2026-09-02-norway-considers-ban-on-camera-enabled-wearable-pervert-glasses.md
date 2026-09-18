@@ -8,6 +8,8 @@ published: '2026-09-02T00:00:00Z'
 description: The Nordic country says wearable camera headsets need to be regulated
   given their privacy risks.
 image: https://techcrunch.com/wp-content/uploads/2026/09/zuck-glasses-2173579471-e1788354102893.jpg?resize=1200,761
+categories:
+- Technology & Software
 ---
 
 Norway is considering a ban on smart glasses and other camera-enabled wearable headsets as it seeks to regulate the controversial technology amid privacy concerns.

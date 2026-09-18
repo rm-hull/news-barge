@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: City of Durham MP Mary Kelly Foy has penned a letter to Health Secretary
   Yvette Cooper, asking for future NHS funding to be directed towards he…
 image: https://www.thenorthernecho.co.uk/resources/images/21392769.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 A County Durham MP has called on the government to back funding for the extension of the University Hospital of North Durham following revelations that the project had been previously snubbed.

@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: Frasers Travel Ltd was founded back in 1986 and offered holiday packages
   to various exotic destinations.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21347440.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

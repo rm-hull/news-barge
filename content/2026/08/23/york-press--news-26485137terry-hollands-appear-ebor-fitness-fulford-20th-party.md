@@ -8,6 +8,10 @@ scraped_at: '2026-08-23T09:45:34Z'
 published: '2026-08-23T00:00:00Z'
 description: A famous strongman is set to appear at a gym’s 20th birthday celebration.
 image: https://www.yorkpress.co.uk/resources/images/21355284.jpg?type=og-image&xType=0&yType=451
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 ## 'It's our way of saying thank you' - famous strongman to attend gym's 20th birthday

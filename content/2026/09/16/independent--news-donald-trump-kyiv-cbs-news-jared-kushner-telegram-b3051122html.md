@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: A Russian drone strike on a passenger bus in southern Ukraine has killed
   five people and wounded at least seven
 image: https://static.independent.co.uk/2026/09/16/11/Russia_Ukraine_War__5577.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A Russian drone struck a passenger bus in southern Ukraine early Wednesday, killing five people and wounding at least seven. President Volodymyr Zelenskyy described the attack, the latest in a series of Russian strikes on civilian transportation, as an “atrocity.”

@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Police in Arizona have confirmed that a shooting at a Tucson gay bar
   was a hate crime
 image: https://static.independent.co.uk/2026/09/02/19/Tucson_Shooting_Hate_Crime_34781.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Police in Arizona have confirmed that a shooting at a Tucson gay bar that left three people dead, including the shooter, was a hate crime.

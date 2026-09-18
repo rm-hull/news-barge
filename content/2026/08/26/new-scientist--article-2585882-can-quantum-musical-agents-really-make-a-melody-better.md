@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Feedback wonders if a bum note is being struck in a new paper exploring
   "quantum teleportation in multi-agent systems for interactive music”
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309454589.jpg
+categories:
+- Science
+- Technology & Software
+- Music
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309454589.jpg?w=840)

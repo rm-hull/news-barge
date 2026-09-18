@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Arrival marks the pair’s first visit to Ukraine and comes day after ‘substantive
   plans’ were discussed in Moscow
 image: https://i.guim.co.uk/img/media/894e23975128a19a89301a4a3b5ecf0390ebfe14/533_0_3692_2955/master/3692.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af9460d2d2ea064b7e96184d1ac939d5
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 The US negotiators Jared Kushner and Steve Witkoff have arrived in Kyiv for a second day of talks on how to end the war in Ukraine.

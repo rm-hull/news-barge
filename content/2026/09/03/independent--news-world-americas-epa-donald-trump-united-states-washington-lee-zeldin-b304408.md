@@ -9,6 +9,9 @@ description: A plan by the Environmental Protection Agency could make it harder 
   the public to learn about and comment on proposed AI data centers that have sparked
   a backlash in communities across the country and become a key election issue
 image: https://static.independent.co.uk/2026/09/03/12/Politics_Data_Centers_44641.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A plan by the Environmental Protection Agency could make it harder for the public to learn about and comment on proposed AI data centers that have sparked backlash in communities across the United States and transformed the midterm election landscape.

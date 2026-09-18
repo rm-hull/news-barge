@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Dozens of protesters milling around roads and roundabouts near the major
   port, forcing vehicles to a halt
 image: https://static.independent.co.uk/2026/09/05/11/01/Ay_audits_Youtube.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A large group of masked demonstrators has gathered at the Port of Dover, as Kent Police said they are “engaging” with protesters in the area.

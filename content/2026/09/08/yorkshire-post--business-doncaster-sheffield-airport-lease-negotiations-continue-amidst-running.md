@@ -10,6 +10,12 @@ description: Agreement is yet to be reached on changes to the Doncaster Sheffiel
   Airport lease required to unlock vital funding amidst concerns the reopening project
   is due to "run out of money" this month.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI3NWE5YzU3LWNjMzUtNDY4Ny04NDI0LTY1MWI4M2IyMzZlZTo5MzFhMGJjMy00MGI0LTQxMDctYjE3Ny0yZGJiMjM4ODM4NmU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 # Doncaster Sheffield Airport: Lease negotiations continue amidst 'running out of money' concerns

@@ -9,6 +9,8 @@ published: '2026-09-02T00:00:00Z'
 description: The games industry is in a precarious situation due to the RAM crisis,
   but CD Projekt Red's boss has faith that all will be well.
 image: https://cdn.mos.cms.futurecdn.net/ETEpHnWN47pJPF8J3Gze6V-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Ciri in the Witcher 4, alongside Sony's PS5 and Corsair's Vengeance RAM kit](https://cdn.mos.cms.futurecdn.net/ETEpHnWN47pJPF8J3Gze6V.jpg) 

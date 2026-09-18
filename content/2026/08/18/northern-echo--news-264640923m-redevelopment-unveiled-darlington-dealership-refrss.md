@@ -8,6 +8,13 @@ published: '2026-08-18T00:00:00Z'
 description: Drive Motor Retail has officially unveiled its newly redeveloped Darlington
   dealership, following an investment of over £3 million that has…
 image: https://www.thenorthernecho.co.uk/resources/images/21318802.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 *(Image: Supplied)*

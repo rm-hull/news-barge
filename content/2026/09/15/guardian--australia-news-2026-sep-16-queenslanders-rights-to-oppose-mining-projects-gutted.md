@@ -9,6 +9,9 @@ published: '2026-09-15T00:00:00Z'
 description: As minister says process needs to be ‘streamlined’, Greens and Lock the
   Gate say the legislation is ‘corrupt’ and tears up environmental protections
 image: https://i.guim.co.uk/img/media/de606218d0e0fd9fec4f6963b0a7eb3f5747aab2/335_0_1713_1370/master/1713.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b64fda53f521d2cba0d6ad5364b26d0e
+categories:
+- UK
+- News & Politics
 ---
 
 Queenslanders’ right to object to mining projects – including coal – would be “gutted” by new legislation that would ban opponents from being heard in court without the minister’s approval and then only if they owned a property within a 125km radius of the project.

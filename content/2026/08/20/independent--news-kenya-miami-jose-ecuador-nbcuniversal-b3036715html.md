@@ -9,6 +9,10 @@ description: The family of a Miami restaurateur say they are “devastated and h
   after he and six others were killed by a safari helicopter crash in a remote part
   of northern Kenya
 image: https://static.independent.co.uk/2026/08/20/22/ADDITION_Kenya_Helicopter_Crash_7883_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 The family of a Miami restaurateur say they are “devastated and heartbroken” after he and six others were killed by a safari helicopter crash in a remote part of northern Kenya.

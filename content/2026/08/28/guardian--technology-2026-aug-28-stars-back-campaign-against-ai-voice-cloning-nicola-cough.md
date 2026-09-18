@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: About 80 people sign open letter to Andy Burnham calling for legislation
   to protect voice ownership
 image: https://i.guim.co.uk/img/media/0462b48abda45181d440d2e6edc2119d4d1ffd58/784_371_4536_3629/master/4536.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=556fdd51fd9959778569d5edd86614b0
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Nicola Coughlan, Hugh Bonneville and Matt Lucas are among a group of actors backing a campaign against artificial intelligence voice cloning.

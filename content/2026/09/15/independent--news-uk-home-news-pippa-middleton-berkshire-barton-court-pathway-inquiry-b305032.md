@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: The Princess of Wales’ brother-in-law argued his family have a higher
   need for security
 image: https://static.independent.co.uk/2026/08/17/15/1252754945..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Pippa Middleton and her husband have the won the right to block a public footpath through her family’s country estate due to concerns over security.

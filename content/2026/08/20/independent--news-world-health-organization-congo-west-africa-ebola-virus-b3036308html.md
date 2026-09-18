@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: The World Health Organization says Congo will receive 70,000 doses of
   the Ervebo vaccine
 image: https://static.independent.co.uk/2026/08/19/09/Congo_Ebola_17549.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Congo will receive 70,000 doses of the Ervebo vaccine, which has been effective in past Ebola outbreaks, the World Health Organization and partners said Thursday, announcing a step seen as a major boost to efforts to contain what officials have described as the fastest Ebola outbreak in history.

@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: Officials say there was a stampede as they fled a fire that engulfed
   two schools in the eastern rebel-held city of Bukavu.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e261/live/77db64c0-ad28-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- Society & Culture
+- History
 ---
 
 ![Man in yellow t-shirt stands in piles of rubble and corrugated iron while three other people stand on the left of the picture. The rubble seems to go on for some distance and the air is hazy.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/e261/live/77db64c0-ad28-11f1-bc1f-3f186ca4140c.jpg)

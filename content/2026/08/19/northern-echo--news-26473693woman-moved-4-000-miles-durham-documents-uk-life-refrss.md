@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Ankita Joshi moved from India to Durham to study and is now building
   an online following by sharing the UK's everyday culture shocks, from…
 image: https://www.thenorthernecho.co.uk/resources/images/21331167.jpg?type=og-image&xType=0&yType=164
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: itsankislife on Instagram)*

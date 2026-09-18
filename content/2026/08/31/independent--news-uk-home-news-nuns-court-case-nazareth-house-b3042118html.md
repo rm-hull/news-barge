@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: A girl allegedly had soap forced into her mouth, which caused her to
   vomit
 image: https://static.independent.co.uk/2026/08/24/16/3acd90dc7b94bf36edf1d49dfef768d3Y29udGVudHNlYXJjaGFwaSwxNzg3NjY5ODAx-2.85648324.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- Health & Fitness
 ---
 
 A further hearing has been set in the case of five nuns accused of historic abuse against several children.

@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: The Lions visit the Swans at the SCG, aiming to move one step closer
   to a third flag in a row
 image: https://cdn.mos.cms.futurecdn.net/fsxcKy9bajsfgLhnTYW9f7-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Film & TV
 ---
 
 ![Josh Daicos of the Magpies tackles Cam Rayner of the Lions in the AFL match between Collingwood Magpies and Brisbane Lions at Melbourne Cricket Ground, on August 21, 2026, in Melbourne, Australia](https://cdn.mos.cms.futurecdn.net/fsxcKy9bajsfgLhnTYW9f7.jpg) 

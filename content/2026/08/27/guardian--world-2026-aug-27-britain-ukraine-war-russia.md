@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Kremlin threatens retaliation after Burnham says UK will help Ukraine
   start producing long-range missiles
 image: https://i.guim.co.uk/img/media/bd3530da9983b46f1c0d461c1e4b74c1c29e9a8a/327_0_2853_2282/master/2853.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2b769037121b363b97ef1f9e0a87aa57
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Russia has said it could retaliate against the UK for its support of Kyiv by striking military targets inside and outside Ukraine, amid reports that the director of the CIA warned the Kremlin against attacking Nato during a secretive visit this week.

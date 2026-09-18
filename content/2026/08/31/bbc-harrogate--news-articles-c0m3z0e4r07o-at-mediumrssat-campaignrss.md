@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Bike Base wants to sell alcohol and play music on its premises in the
   North York Moors.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3200/live/05ebea40-a226-11f1-bd6a-3d72a7f54a3e.jpg
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 ![A building which is clad in wooden planks with railings around it and seating. There is moorland around and a hill in the background.](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/3200/live/05ebea40-a226-11f1-bd6a-3d72a7f54a3e.jpg)

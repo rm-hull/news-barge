@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: Microsoft has debloated the right-click menu in a big way, but the cynics
   still aren't happy.
 image: https://cdn.mos.cms.futurecdn.net/hPXVSQQcqxtQVEuKQ2wooD-2048-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![A person using a Windows 11 laptop looking happy](https://cdn.mos.cms.futurecdn.net/hPXVSQQcqxtQVEuKQ2wooD.jpg) 

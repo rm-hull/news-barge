@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: 'Italian Prime Minister Giorgia Meloni spoke about her relationship with
   US President Donald Trum during an interview with the New York Times. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/40/92/1200x675_cmsv2_fbe4aa5c-0605-5d69-874f-5b486d47daa5-9884092.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Italian Prime Minister Giorgia Meloni spoke about her relationship with US President Donald Trum during an interview with the New York Times.

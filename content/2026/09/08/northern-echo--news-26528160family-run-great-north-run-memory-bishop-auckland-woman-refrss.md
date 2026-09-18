@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Family and friends of a Bishop Auckland woman described as “one in a
   million” will run the Great North Run in her memory and raise money for the…
 image: https://www.thenorthernecho.co.uk/resources/images/21420081.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Family and friends of a Bishop Auckland woman described as “one in a million” will run the Great North Run in her memory.

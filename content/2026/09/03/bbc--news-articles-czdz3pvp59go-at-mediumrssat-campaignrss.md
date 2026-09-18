@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Vicki Williams feared she would die in the classroom attack at Milford
   Haven Comprehensive School.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1fd4/live/4c99a8e0-841e-11f1-b3ec-1d7f0502d196.jpg
+categories:
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 ![Posed headshot image of vicki williams wearing red blouse and smiling. She has long blonde hair](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/1fd4/live/4c99a8e0-841e-11f1-b3ec-1d7f0502d196.jpg)

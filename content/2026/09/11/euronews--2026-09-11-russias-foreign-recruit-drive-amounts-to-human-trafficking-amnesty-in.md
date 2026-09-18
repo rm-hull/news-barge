@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: In a new report, human rights advocates say that in many cases the recruitment
   of foreigners into Russia's army amounts to the crime of human trafficking.
 image: https://images.euronews.com/articles/stories/09/90/97/55/1200x675_cmsv2_b2a09354-fa96-5e58-ad92-7f1be53163c7-9909755.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## In a new report, human rights advocates say that in many cases the recruitment of foreigners into Russia's army amounts to the crime of human trafficking.

@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: John Healey is looking to avoid increasing taxes on the public - but
   must find other ways to plug a gap in public finances
 image: https://static.independent.co.uk/2026/07/31/21/fa5bea1b8e4cbd37419c604e7b7c036eY29udGVudHNlYXJjaGFwaSwxNzg1NjE1NzAw-2.85372673.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Chancellor John Healey is reportedly considering policies for windfall tax on banks and oil companies in his first Budget, as speculation grows over ways he can tackle a gaping black hole in public finances.

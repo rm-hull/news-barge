@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: 'Did Ursula von der Leyen deliver on all the promises she made in last
   year''s State of the Union speech? Euronews puts her work to the test. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/24/21/1200x675_cmsv2_81008a16-dc2c-5da0-8b8e-e9e3b4ea8d65-9912421.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## Did Ursula von der Leyen deliver on all the promises she made in last year's State of the Union speech? Euronews puts her work to the test.

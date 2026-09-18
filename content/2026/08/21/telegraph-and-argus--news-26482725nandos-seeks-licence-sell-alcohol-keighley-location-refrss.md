@@ -7,6 +7,11 @@ scraped_at: '2026-08-21T08:53:45Z'
 published: '2026-08-21T00:00:00Z'
 description: NANDO'S has applied for a new licence at a Keighley retail park.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20504466.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: NQ)*

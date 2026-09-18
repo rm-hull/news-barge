@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Powers used during York's Christmas Market which saw Blue Badge holders
   and others barred from the city centre could become permanent.
 image: https://www.gazetteherald.co.uk/resources/images/20196842.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 Powers used during York’s Christmas Market which saw Blue Badge holders and others barred from the city centre could become permanent under proposals set for a decision.

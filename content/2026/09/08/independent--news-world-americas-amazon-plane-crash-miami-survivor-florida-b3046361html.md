@@ -10,6 +10,10 @@ description: ‘He’s alive, he’s breathing!’ emergency responders shout af
   wounded person in mangled car after Sunday’s deadly accident at Miami International
   Airport
 image: https://static.independent.co.uk/2026/09/08/09/2293576654..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Video of the Amazon cargo plane crash that killed five people at Miami International Airport Sunday has revealed the dramatic moment police discovered a miracle survivor trapped inside a mangled car.

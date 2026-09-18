@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Charley Hull and Lottie Woad will face the formidable pairing of Nelly
   Korda and Allisen Corpuz in Friday's opening match of the Solheim Cup in the Netherlands.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3496/live/307f3cc0-ad2b-11f1-980e-4fc6f1211def.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Charley Hull tees off](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/3496/live/307f3cc0-ad2b-11f1-980e-4fc6f1211def.jpg)

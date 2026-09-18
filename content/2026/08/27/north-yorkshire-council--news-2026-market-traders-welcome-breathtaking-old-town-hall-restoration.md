@@ -9,6 +9,13 @@ description: Market traders in Whitby have welcomed the restoration of one of th
   town's most recognisable landmarks and say it has given the area "a new lease of
   life".
 image: https://www.northyorks.gov.uk/sites/default/files/2026-08/WhitbyOTH2.jpg
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![The £1.3 million project to safeguard Whitby’s historic Grade II* listed Old Town Hall and bring it back into public use was completed this month, with market traders set to return to the Market Place today (Thursday, August 27).](https://www.northyorks.gov.uk/sites/default/files/2026-08/WhitbyOTH2.jpg) 

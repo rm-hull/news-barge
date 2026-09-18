@@ -9,6 +9,12 @@ published: '2026-09-13T00:00:00Z'
 description: Pupils "flourish" at a Bradford primary school where inspectors found
   children feel safe, valued and ambitious for the future.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21428776.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
+- Education & Learning
 ---
 
 *(Image: Mike Simmonds)*

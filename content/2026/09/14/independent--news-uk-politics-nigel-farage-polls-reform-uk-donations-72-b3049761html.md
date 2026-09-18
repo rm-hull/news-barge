@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Nigel Farage now has a net favourability rating of -45, identical to
   Sir Keir Starmer’s score just before his resignation as prime minister
 image: https://static.independent.co.uk/2026/09/13/10/86e96160adfe46080c883034e2fead10Y29udGVudHNlYXJjaGFwaSwxNzg5Mzc3Nzk5-2.85751860.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Nigel Farage‘s popularity has reached a record low, a new poll has shown, weeks after Reform’s annual party conference was overshadowed by allegations surrounding donations to the party.

@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: An incident of fly-tipping has sparked health and safety concerns in
   a busy supermarket car park.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21363603.jpg?type=og-image&xType=0&yType=126
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 An incident of fly-tipping has sparked health and safety concerns in a busy supermarket car park.

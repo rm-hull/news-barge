@@ -9,6 +9,8 @@ published: '2026-09-05T00:00:00Z'
 description: I tested the JBL Live Buds 4, and they’re an excellent-sounding option
   with a cool charging case.
 image: https://cdn.mos.cms.futurecdn.net/wtjDrBDyhfmSMYQUzzh9SM-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

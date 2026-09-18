@@ -7,6 +7,9 @@ scraped_at: '2026-08-18T13:03:48Z'
 published: '2026-08-18T00:00:00Z'
 description: Another victim of the CEVA Logistics supply chain attack steps forward
 image: https://cdn.mos.cms.futurecdn.net/uhBYCXndSH8w5FSohcafnX-1280-80.jpeg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Jiggly puff Angry](https://cdn.mos.cms.futurecdn.net/uhBYCXndSH8w5FSohcafnX.jpeg) 

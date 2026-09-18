@@ -9,6 +9,12 @@ published: '2026-09-16T00:00:00Z'
 description: An immature young man subjected his partner to an increasingly controlling
   and abusive relationship, forcing her to suffer in silence.
 image: https://www.thenorthernecho.co.uk/resources/images/20480908.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Relationships & Dating
+- Self-Improvement
 ---
 
 *(Image: The Northern Echo)*

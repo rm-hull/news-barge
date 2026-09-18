@@ -8,6 +8,9 @@ scraped_at: '2026-09-18T19:00:43Z'
 published: '2026-09-18T00:00:00Z'
 description: The FBI had to board at least one of the vessels
 image: https://cdn.mos.cms.futurecdn.net/GJ8T4oA8G7TYJwTEhkwJAF-2560-80.jpg
+categories:
+- Technology & Software
+- True Crime
 ---
 
 ![Representational image of a cybercriminal](https://cdn.mos.cms.futurecdn.net/GJ8T4oA8G7TYJwTEhkwJAF.jpg) 

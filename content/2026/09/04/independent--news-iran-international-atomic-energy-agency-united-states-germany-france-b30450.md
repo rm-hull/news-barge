@@ -11,6 +11,10 @@ description: The United States, Britain, France and Germany have drafted a resol
   that seeks to refer Iran to the U.N. Security Council for failure to comply with
   its nuclear nonproliferation obligations, diplomats say
 image: https://static.independent.co.uk/2026/09/04/22/Iran_Nuclear_83651.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The United States, Britain, France and Germany have drafted a resolution for possible consideration by the Board of Governors of the U.N. nuclear watchdog that seeks to refer Iran to the U.N. Security Council for failure to comply with its nuclear nonproliferation obligations, diplomats say.

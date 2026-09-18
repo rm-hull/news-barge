@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: Alcohol could be sold from a York Station vendor earlier under newly-lodged
   plans.
 image: https://www.gazetteherald.co.uk/resources/images/19791109.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ALCOHOL could be sold from a York Station vendor earlier under newly-lodged plans.

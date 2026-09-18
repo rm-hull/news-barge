@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Manchester City open talks with Chelsea in their bid to sign Argentina
   midfielder Enzo Fernandez.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d06d/live/6a65f2f0-a57c-11f1-ab36-5701eb724375.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Enzo Fernandez](https://ichef.bbci.co.uk/ace/standard/894/cpsprodpb/d06d/live/6a65f2f0-a57c-11f1-ab36-5701eb724375.jpg)

@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: An incident during which Brydon Carse was handcuffed is being investigated
   by Derbyshire Police, who say they are looking into allegations of assault.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a994/live/882f12e0-a1f2-11f1-bf30-b9c45f18ad85.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Brydon Carse, wearing a grey hoodie and backwards blue cap](https://ichef.bbci.co.uk/ace/standard/822/cpsprodpb/a994/live/882f12e0-a1f2-11f1-bf30-b9c45f18ad85.jpg)

@@ -7,6 +7,11 @@ scraped_at: '2026-08-29T19:23:50Z'
 published: '2026-08-29T00:00:00Z'
 description: The truck driver was reportedly ejected from the vehicle and injured
 image: https://static.independent.co.uk/2026/08/29/15/54/Untitled-design.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Automotive
+- Technology & Software
 ---
 
 A tractor-trailer truck crashed through an Interstate 80 railing near Truckee, California, injuring the driver and leaving its cab dangling 80 feet over a bridge.

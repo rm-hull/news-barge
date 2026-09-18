@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Nestle has confirmed it has discontinued Perrier Lemon in the UK after
   41 years.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21438149.jpg?type=og-image&xType=0&yType=117
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: Getty Images)*

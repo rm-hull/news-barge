@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Phantom Ranch, set up by Teddy Roosevelt, has welcomed exhausted hikers
   to its famed cabins for over a century
 image: https://i.guim.co.uk/img/media/ec5c0abc3ff60e9d5708108884812f42925c48fd/306_0_2299_1838/master/2299.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=03d1da937fb7bf47e4cbd2e6350c7136
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Phantom Ranch has been a solitary refuge visited by some of the most famous names of history. More typically, it’s been a beacon for the half-collapsed, exhausted and overheated hikers trudging down the Grand Canyon for more than a century.

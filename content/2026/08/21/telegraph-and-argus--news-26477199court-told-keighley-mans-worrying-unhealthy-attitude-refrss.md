@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A man who made indecent images of children will have to register as a
   sex offender for the next ten years.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21340323.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: T&A Camera Club)*

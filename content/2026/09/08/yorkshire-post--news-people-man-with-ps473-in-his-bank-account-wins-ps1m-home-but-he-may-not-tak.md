@@ -9,6 +9,12 @@ description: A security worker who won a £1m home in an online lottery revealed
   had just £4.73 in his bank account when he scooped the prize - but says he is considering
   not living there at all.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/08/10/31/unnamed.png?trim=0,22,0,168&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # Man with £4.73 in his bank account wins £1m home - but he may not take it

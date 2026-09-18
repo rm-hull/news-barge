@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: The musician would be the first major Western artist to play Russia since
   the invasion of Ukraine.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b7c/live/c5a0a7d0-9ae3-11f1-b2f7-5d1639b20e22.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Music
 ---
 
 ![Kanye West](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4b7c/live/c5a0a7d0-9ae3-11f1-b2f7-5d1639b20e22.jpg)

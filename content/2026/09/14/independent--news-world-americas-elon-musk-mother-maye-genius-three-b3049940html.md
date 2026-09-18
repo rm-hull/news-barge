@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: Maye Musk also defended her son against accusations of racism following
   his public support for far-right parties in Europe
 image: https://static.independent.co.uk/2023/09/15/17/GettyImages-1240408519.jpg?trim=2,0,1260,187&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Elon Musk’s mother has claimed the tech billionaire and world’s richest man was “a genius” by the time he was just three years old.

@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Police are searching for Karen Solomon, 58, who was last seen on foot
   in pajamas and may be armed
 image: https://static.the-independent.com/2026/08/18/18/48/777825425_1566547338501506_1626650965405626586_n.jpeg?trim=18,0,31,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Massachusetts woman who wrote a book praising police officers for their good deeds on the job is wanted in connection with the death of a cop inside her home.

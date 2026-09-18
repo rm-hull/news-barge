@@ -9,6 +9,8 @@ published: '2026-09-14T00:00:00Z'
 description: Google is loading its cheapest fitness tracker, the Google Fitbit Air,
   with premium tools from its Pixel Watch series to stay competitive.
 image: https://cdn.mos.cms.futurecdn.net/SRb7rTeToTpaSiKXz5cuU4-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Google Fitbit Air](https://cdn.mos.cms.futurecdn.net/SRb7rTeToTpaSiKXz5cuU4.jpg) 

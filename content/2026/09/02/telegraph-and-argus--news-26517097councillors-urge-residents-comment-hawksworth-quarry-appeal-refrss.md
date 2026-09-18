@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: RESIDENTS are being encouraged to have their say on controversial plans
   for Hawksworth Quarry after the operator lodged an appeal against the…
 image: https://www.thetelegraphandargus.co.uk/resources/images/20552576.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: submitted)*

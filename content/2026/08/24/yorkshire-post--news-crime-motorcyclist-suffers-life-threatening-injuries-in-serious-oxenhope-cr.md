@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: A 65-year-old motorcyclist has been left with life-threatening injuries
   after his bike struck a kerb and crashed into a wall in Oxenhope.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/24/11/33/Hebden-Bridge-Road.png?trim=0,74,0,73&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # Motorcyclist suffers life-threatening injuries after crashing into a wall in Oxenhope

@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: A Darlington family have spoken of their heartbreak after losing their
   seven-year-old son to a rare terminal illness just weeks after the death of a…
 image: https://www.thenorthernecho.co.uk/resources/images/21442924.jpg?type=og-image&yType=230
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A Darlington family have spoken of their heartbreak after losing their seven-year-old son to a rare terminal illness just weeks after the death of their much-loved grandmother.

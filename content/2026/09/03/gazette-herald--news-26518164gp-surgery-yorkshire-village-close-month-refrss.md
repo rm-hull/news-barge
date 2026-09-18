@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A GP surgery in Helperby, near Boroughbridge, has said it will be closed
   for a month due to “unforeseen circumstances”.
 image: https://www.gazetteherald.co.uk/resources/images/21405027.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Lynne Cameron/PA Wire)*

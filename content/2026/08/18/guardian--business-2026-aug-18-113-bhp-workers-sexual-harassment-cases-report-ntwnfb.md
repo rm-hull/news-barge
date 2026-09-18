@@ -9,6 +9,12 @@ published: '2026-08-18T00:00:00Z'
 description: Further 104 allegations not investigated due to ‘insufficient information
   or the wishes of the impacted person’, according to annual report
 image: https://i.guim.co.uk/img/media/43ceebf98d26b490b8bce0211155ee477acee9fc/208_0_3843_3076/master/3843.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8c67f7d51aae19c48c9817fa42df8385
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 More than 100 workers at BHP lost their jobs, or resigned, during the last financial year after sexually harassing colleagues, which included numerous instances of indecent touching, stalking and grooming.

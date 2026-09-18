@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Zheng Qinwen wins a set from 5-0 down for the second successive match
   as she shocks Iga Swiatek to reach the US Open quarter-finals.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1388/live/d641cd80-aae7-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Zheng Qinwen drops to the floor in celebration](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/18f3/live/cbabd780-aae7-11f1-aed2-8d6da8d75094.jpg)

@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Russia's parliamentary elections are under way, the first since the full-scale
   invasion of Ukraine in 2022.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa53/live/458257d0-b37d-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 # Watch: Voting under way in Russian election tightly controlled by Kremlin

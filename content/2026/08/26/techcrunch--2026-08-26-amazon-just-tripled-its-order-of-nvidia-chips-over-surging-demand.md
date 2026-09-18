@@ -9,6 +9,9 @@ description: Amazon is adding another 2 million Nvidia GPU chips to its data cen
   over the next two years. But this extended partnerships stretches beyond buying
   more chips.
 image: https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Amazon and Nvidia just got a lot closer. The two companies announced Wednesday an expanded partnership that includes a deal to add another 2 million Nvidia GPU chips to Amazon’s data centers.

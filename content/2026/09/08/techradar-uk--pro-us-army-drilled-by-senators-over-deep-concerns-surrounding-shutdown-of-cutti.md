@@ -10,6 +10,9 @@ published: '2026-09-08T00:00:00Z'
 description: The US Army is disbanding a futuristic drone battalion just when it is
   needed most
 image: https://cdn.mos.cms.futurecdn.net/dfCZV3VXYy9Efw5WUVLRWW-970-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Detailed view of the US Army uniform worn by soldiers in a military base. Flag of America on the uniform.](https://cdn.mos.cms.futurecdn.net/dfCZV3VXYy9Efw5WUVLRWW.jpg) 

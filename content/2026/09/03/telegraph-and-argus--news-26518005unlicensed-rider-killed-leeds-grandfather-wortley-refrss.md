@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: AN unlicensed motorcyclist has been jailed after causing the death of
   a much-loved grandfather.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21404813.jpg?type=og-image&xType=0&yType=466
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 AN unlicensed motorcyclist has been jailed after causing the death of a much-loved grandfather.

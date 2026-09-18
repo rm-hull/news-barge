@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Two men arrested after series of Ford thefts across KirkleesArrests made
   as police investigate spate of vehicle thefts
 image: https://www.thetelegraphandargus.co.uk/resources/images/20471794.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Pixabay)*

@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Sheeran tries to stay away from politics and controversy, but that stance
   has come in for criticism.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9367/live/17a69d10-b1b8-11f1-bdcf-d393eb724fa3.jpg
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 Will Ed Sheeran cancel his tour as support acts quit?

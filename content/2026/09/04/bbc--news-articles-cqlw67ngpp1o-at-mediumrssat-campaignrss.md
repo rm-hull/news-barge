@@ -8,6 +8,9 @@ published: '2026-09-04T00:00:00Z'
 description: Victoria Fuller tells the BBC Cleveland Police needs to become part of
   a larger, strategic force with greater resources.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/acf8/live/92573e10-a8a4-11f1-a291-b542ee92de7c.png
+categories:
+- UK
+- News & Politics
 ---
 
 PCs Matthew Blades and Tom Clough 'put the public before themselves', Cleveland Police chief says

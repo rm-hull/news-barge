@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: 'The main parties from each nation want to break away from the UK but
   have different positions on how and when this might take place. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/29/50/1200x675_cmsv2_37043806-5a2f-58e5-9f7e-ff0118fcc11b-9912950.jpg
+categories:
+- Europe
+- News & Politics
+- History
+- Sports
 ---
 
 ## The main parties from each nation want to break away from the UK but have different positions on how and when this might take place.

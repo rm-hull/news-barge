@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: The MTV Video Music Awards are returning to the West Coast with Snoop
   Dogg as host
 image: https://static.independent.co.uk/2026/09/10/19/Snoop_Dogg_73894.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
+- Film & TV
 ---
 
 The MTV Video Music Awards are returning to the West Coast this month and they've got a very West Coast host — Snoop Dogg.

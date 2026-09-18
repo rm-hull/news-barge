@@ -9,6 +9,8 @@ published: '2026-09-10T00:00:00Z'
 description: The new Apple Watch health monitoring tools are broader, smarter, and
   more personal.
 image: https://cdn.mos.cms.futurecdn.net/WddgqpgGSUhVQPC9fyoLyH-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Apple Watch and iPhone displaying heart health](https://cdn.mos.cms.futurecdn.net/WddgqpgGSUhVQPC9fyoLyH.jpg) 

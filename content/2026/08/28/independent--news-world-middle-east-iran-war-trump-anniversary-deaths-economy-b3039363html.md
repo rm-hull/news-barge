@@ -9,6 +9,11 @@ description: The US president has been sucked into a quagmire of his own making,
   both sides refusing to budge on red lines in negotiations. James C. Reynolds looks
   at the numbers behind a conflict that may prove to be Trump’s greatest miscalculation
 image: https://static.independent.co.uk/2026/08/09/09/2289510388..?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- History
 ---
 
 Barely a week after American bombs rained down across Iran, Donald Trump picked up the phone to a reporter at the *New York Post*. 

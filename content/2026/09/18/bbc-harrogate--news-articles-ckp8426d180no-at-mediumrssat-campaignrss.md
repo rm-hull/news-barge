@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: A group launches to connect North Yorkshire businesses and colleges with
   offshore energy projects.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb1c/live/ab74a000-b29e-11f1-bd7d-0f16235ccc4c.png
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![Composite image showing, on the left, a young man wearing a white short-sleeved shirt with epaulettes, white shorts and a peaked cap with a crest on it. On the right is an older man, wearing a navy-blue Naval-style jumper, light brown trousers and brown shoes. He is standing in front of a large ship on the River Tyne.](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/bb1c/live/ab74a000-b29e-11f1-bd7d-0f16235ccc4c.png)

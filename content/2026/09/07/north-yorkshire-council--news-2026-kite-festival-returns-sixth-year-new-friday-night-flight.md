@@ -9,6 +9,12 @@ description: A popular kite festival is to be extended to a third evening for th
   first time to give more visitors the opportunity to enjoy colourful displays, family
   activities and high-flying entertainment on the Yorkshire coast.
 image: https://www.northyorks.gov.uk/sites/default/files/2026-09/Filey%20Kite%20Festival%202.jpg
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- Travel
 ---
 
 ![Kites at Filey Kite Festival](https://www.northyorks.gov.uk/sites/default/files/2026-09/Filey%20Kite%20Festival%202.jpg) 

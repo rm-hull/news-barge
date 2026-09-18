@@ -7,6 +7,11 @@ scraped_at: '2026-08-31T16:07:45Z'
 published: '2026-08-31T00:00:00Z'
 description: The A19 Northbound is closed near the exit to Crathorne after a crash.
 image: https://www.thenorthernecho.co.uk/resources/images/21393213.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 - Good afternoon, this is The Northern Echo's coverage of a crash on the A19.

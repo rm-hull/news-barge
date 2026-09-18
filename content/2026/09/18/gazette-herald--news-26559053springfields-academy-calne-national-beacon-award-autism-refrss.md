@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A specialist school has been named one of just eight Beacon schools in
   the country.
 image: https://www.gazetteherald.co.uk/resources/images/21468117.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Education & Learning
 ---
 
 A specialist school has been named one of just eight Beacon schools in the country by the National Autistic Society.

@@ -9,6 +9,9 @@ description: Watch as Cherry Ventures partner Sophia Bendz joins Equity to dig i
   Sweden’s startup boom, from Lovable and Legora to founder networks, U.S. capital,
   and the forces shaping the Nordic tech ecosystem.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1193266208.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Vibe-coding darling Lovable just raised $400 million at a $13.3 billion valuation, roughly doubling its worth in eight months. But Lovable isn’t the only Stockholm startup putting up huge numbers lately — legal AI company Legora and health tech startup Neko Health are right there with it.

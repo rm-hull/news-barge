@@ -9,6 +9,10 @@ description: 'Exclusive: Linda Kitchen, whose husband Geoff died after severe tu
   on the Singapore Airlines flight, is among several passengers from the UK suing
   the airline for damages'
 image: https://static.independent.co.uk/2026/08/26/19/16/Geoff-and-Linda-Kitchen-1.jpeg?trim=53,0,53,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 The heartbroken wife of a man who died after a Singapore Airlines flight was hit by severe turbulence has described the terrifying moment their plane plunged 178ft in under five seconds.

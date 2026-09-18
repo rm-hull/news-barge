@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: One person has been taken to hospital after the air ambulance attended
   a medical incident in Eston.
 image: https://www.thenorthernecho.co.uk/resources/images/20958350.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: GNAAS)*

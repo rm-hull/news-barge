@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: The startup is trying to rethink the economics of cargo aircraft by removing
   pilots from the equation entirely.
 image: https://techcrunch.com/wp-content/uploads/2026/09/poseidon-aero-egret.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Silicon Valley is known for embracing the ethos of “move fast and break things.” Poseidon Aerospace’s co-founder and CEO David Zagaynov just wants to move things fast.

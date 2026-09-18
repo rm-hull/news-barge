@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: Robot-built homes are putting the North East at the forefront of construction
   innovation.
 image: https://www.thenorthernecho.co.uk/resources/images/19622413.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Home, Garden & DIY
 ---
 
 A North East construction company has introduced robots to help build homes due to a 'severe shortage of bricklayers'.

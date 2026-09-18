@@ -8,6 +8,10 @@ scraped_at: '2026-09-10T04:30:38Z'
 published: '2026-09-10T00:00:00Z'
 description: This live blog is now closed.
 image: https://i.guim.co.uk/img/media/ca931d3406707af18318e65ed1fc09914095e755/917_0_5485_4390/master/5485.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0d7b493d4e70f620f4082c3a5f16882a
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Donald Trump speaks during the Republican National Midterm Convention at the American Airlines Center in Dallas, Texas on 9 September. Photograph: Jim Lo Scalzo/EPA

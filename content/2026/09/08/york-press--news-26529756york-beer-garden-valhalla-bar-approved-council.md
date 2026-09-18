@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: A York bar has branded opposition from a neighbouring venue to its plans
   for a beer garden unfair.
 image: https://www.yorkpress.co.uk/resources/images/21422296.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: LDRS)*

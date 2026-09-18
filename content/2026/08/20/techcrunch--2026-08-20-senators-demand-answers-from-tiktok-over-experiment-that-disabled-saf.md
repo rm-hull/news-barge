@@ -9,6 +9,8 @@ published: '2026-08-20T00:00:00Z'
 description: The safeguard was designed to prevent users from being overwhelmed by
   harmful content, but TikTok wanted to determine whether it made the app less engaging.
 image: https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=1200,795
+categories:
+- Technology & Software
 ---
 
 Two senators have given TikTok a deadline to answer questions about an experiment that withheld a safety feature from 15 million U.S. users, including a teenager who later died by suicide.

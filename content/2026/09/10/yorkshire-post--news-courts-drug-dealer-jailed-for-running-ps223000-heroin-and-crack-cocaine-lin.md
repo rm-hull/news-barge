@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A drug dealer who ran a phone line supplying heroin and crack cocaine
   between West and North Yorkshire has been jailed for six years.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/10/8/42/Abubakr-Ahmed.jpeg?trim=522,0,411,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Drug dealer jailed for running £223,000 heroin and crack cocaine line across Yorkshire

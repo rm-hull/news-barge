@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: Andy Burnham has credited Harrogate and Knaresbrough MP Tom Gordon for
   his campaign to end time restrictions on disabled bus passes.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/18/16/39/WhatsApp-Image-2026-08-18-at-10-45-07.jpeg?trim=167,0,169,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Comedy & Entertainment
 ---
 
 # Yorkshire MP celebrates victorious disabled bus campaign

@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: The European Union's top diplomat says an attempted attack on a German
   airport blamed on Russia appears to be “state-sponsored terrorism.”
 image: https://static.independent.co.uk/2026/09/02/08/Germany_Russia_Explosive_Drone_69886.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The European Union’s top diplomat said Wednesday that an attempted attack on a German airport blamed on Russia appears to be “state sponsored terrorism,” as EU countries weighed their response.

@@ -10,6 +10,10 @@ description: European champion Audrey Werro came tantalisingly close to downing 
   oldest outdoor world record in athletics, finishing a little more than four tenths
   of a second off Jarmila Kratochvilova's 800m mark.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a6f1/live/9472a550-a254-11f1-a1d7-5567ac89ca4e.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Audrey Werro](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b225/live/e38e11c0-a253-11f1-a1d7-5567ac89ca4e.jpg)

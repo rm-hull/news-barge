@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: The Plough in Fadmoor is undergoing a transformation in preparation for
   reopening as a 'wet bar' serving drinks and snacks.
 image: https://www.gazetteherald.co.uk/resources/images/21383185.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 A VILLAGE pub made famous by a tv show with comedian Jon Richardson is planning to re-open in November.

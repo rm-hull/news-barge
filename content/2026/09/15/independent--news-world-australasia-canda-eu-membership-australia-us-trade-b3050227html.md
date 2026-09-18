@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Trade minister says Canberra is on the same page as Ottawa and ‘will
   take great interest in what Mark Carney does’
 image: https://static.independent.co.uk/2026/09/15/05/2267629456..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Australia is aligned with Canada’s efforts to seek closer ties with the EU as Ottawa faces an escalating trade dispute with the US.

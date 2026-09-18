@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: The sentencing of a Darlington driver who has previously admitted responsibility
   for a serious injury collision has been put back by a fortnight.
 image: https://www.thenorthernecho.co.uk/resources/images/19554091.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: The Northern Echo)*

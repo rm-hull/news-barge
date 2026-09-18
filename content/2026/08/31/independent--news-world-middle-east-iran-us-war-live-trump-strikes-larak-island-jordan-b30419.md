@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: Trump shares AI footage of what he claims is Iran’s Kharg Island ‘being
   blown to smithereens’
 image: https://static.independent.co.uk/2026/08/29/21/2026-08-28T235450Z_217972940_RC2S7NADDE5K_RTRMADP_3_USA-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Iran said it struck two US bases in Jordan in retaliation after Donald Trump's forces hit two rocket launchers on Iran's Larak Island on Sunday, marking the first American strikes on the Islamic Republic since late July.

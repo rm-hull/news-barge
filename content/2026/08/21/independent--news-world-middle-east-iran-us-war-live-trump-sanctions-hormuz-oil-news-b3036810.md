@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Over 750 members of the US military have been injured since the Iran
   war began
 image: https://static.independent.co.uk/2026/08/20/23/20/GettyImages-2289908104-(1).jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Iran has accused US president Donald Trump of threatening "economic terrorism" after the US treasury said it would introduce the “toughest sanctions in history" against Tehran.

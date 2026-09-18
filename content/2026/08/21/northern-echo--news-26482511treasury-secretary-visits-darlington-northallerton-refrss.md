@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Chief Secretary to the Treasury Emma Reynolds toured No.11 North at the
   Darlington Economic Campus and a soft play centre in Northallerton.
 image: https://www.thenorthernecho.co.uk/resources/images/21351559.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A top Treasury boss has vowed the Government will make devolution work and rejuvenate high streets during a visit to the region, making promises about two key priorities in The Northern Echo's manifesto.

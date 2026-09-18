@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: Collaborative Fund just bought into D.C. United and its stadium, with
   firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.
 image: https://techcrunch.com/wp-content/uploads/2026/09/DC-United.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Collaborative Fund, the 15-year-old, New York-based generalist venture firm that has roughly $1 billion under management and which made early bets on Lyft, Reddit, Sweetgreen, and Olipop, among others, is taking a stake in the soccer club D.C. United and its stadium, Audi Field.

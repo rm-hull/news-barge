@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: A new shop could be coming to York under plans from an established city
   retail business selling locally-made goods.
 image: https://www.yorkpress.co.uk/resources/images/20769138.jpg?type=og-image&xType=0&yType=321
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Shopping & Deals
 ---
 
 ## New shop plans for medieval building unveiled by established York retailer

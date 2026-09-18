@@ -8,6 +8,12 @@ published: '2026-09-14T00:00:00Z'
 description: Wynsors World of Shoes is set to close 17 stores across the UK - see
   the full list of locations.
 image: https://www.thenorthernecho.co.uk/resources/images/21449184.jpg?type=og-image&xType=0&yType=340
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Sports
 ---
 
 *(Image: Getty Images)*

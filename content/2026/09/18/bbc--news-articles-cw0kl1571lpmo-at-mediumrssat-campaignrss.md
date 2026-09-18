@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: The failure led to more than 2,000 flights being cancelled and hundreds
   of thousands of passengers affected.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f648/live/18fc40e0-b34b-11f1-91a3-393282eb9f17.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Passengers wait for flights and connections at the South terminal of Gatwick Airport on September 09, 2026.](https://ichef.bbci.co.uk/ace/standard/797/cpsprodpb/f648/live/18fc40e0-b34b-11f1-91a3-393282eb9f17.jpg)

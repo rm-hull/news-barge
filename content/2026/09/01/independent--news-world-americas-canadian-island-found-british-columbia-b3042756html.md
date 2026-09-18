@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Officials believe record-high water levels may have caused the island
   to break off from the reservoir’s shoreline
 image: https://static.independent.co.uk/2026/09/01/12/47/iStock-494673420.jpeg?trim=83,0,83,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A large tree-covered island that mysteriously appeared — then disappeared — in northwestern Canada has been found once again.

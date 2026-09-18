@@ -9,6 +9,10 @@ description: 'Small-boat crossings remain a highly contentious political issue i
   the UK, where tens of thousands of migrants arrive across the Channel each year.
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/07/53/1200x675_cmsv2_ddb79bd5-a36d-5ab6-9dc3-a845487ea657-9910753.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Small-boat crossings remain a highly contentious political issue in the UK, where tens of thousands of migrants arrive across the Channel each year.

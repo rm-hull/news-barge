@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Cancel your Xbox Game Pass subscription, and Microsoft might drop the
   price.
 image: https://cdn.mos.cms.futurecdn.net/EaS6y6QBRNAjF38G5vBGV5-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Xbox Game Pass](https://cdn.mos.cms.futurecdn.net/EaS6y6QBRNAjF38G5vBGV5.jpg) 

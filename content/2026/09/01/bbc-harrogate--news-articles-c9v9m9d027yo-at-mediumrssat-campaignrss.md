@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The landmark will be replaced by an ethical bronze replica early next
   year, the council says.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3244/live/605d78d0-a5dd-11f1-ae66-53604efd186f.jpg
+categories:
+- Local
+- Harrogate
+- History
 ---
 
 ![Workmen in hi vis jackets remove a whalebone from the Whitby coast using a crane.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/3244/live/605d78d0-a5dd-11f1-ae66-53604efd186f.jpg)

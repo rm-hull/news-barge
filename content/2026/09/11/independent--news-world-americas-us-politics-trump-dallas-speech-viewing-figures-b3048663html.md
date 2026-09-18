@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: The two-day Texas event failed to pull in large numbers and deliver the
   usual ‘Trump bump,’ according to preliminary viewing figures
 image: https://static.independent.co.uk/2026/09/10/16/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 President Donald Trump’s 105-minute speech on the opening night of his Republican midterm convention in Dallas was seen by fewer people than a typical audience for Fox News shows *Hannity* and*Gutfeld!*, according to preliminary viewing figures.

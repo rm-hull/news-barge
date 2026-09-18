@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: A walker suffered a leg injury on a North Yorkshire countryside trail,
   sparking a major mountain rescue operation.
 image: https://www.thenorthernecho.co.uk/resources/images/21452034.jpg?type=og-image&xType=0&yType=416
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Cleveland Mountain Rescue)*

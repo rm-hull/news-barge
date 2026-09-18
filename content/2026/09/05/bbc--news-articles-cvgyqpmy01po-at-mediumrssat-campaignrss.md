@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: After more than 10 years, Amelia Dimoldenberg announced Chicken Shop
   Date was shutting up shop.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f5c/live/bdb95030-a84e-11f1-80f8-c33181935c5a.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Amelia Dimoldenberg poses in a chicken shop, her chin propped on her right hand and sitting sideways in a traditional booth in front of white tiles and a menu on the wall. She has long blonde hair and blue eyes and wears a strappy checked dress.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7f5c/live/bdb95030-a84e-11f1-80f8-c33181935c5a.jpg)

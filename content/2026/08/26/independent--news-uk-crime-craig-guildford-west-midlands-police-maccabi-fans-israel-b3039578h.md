@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Maccabi Tel Aviv fans were banned from attending their team’s game against
   Aston Villa in Birmingham last year
 image: https://static.independent.co.uk/2026/01/16/16/81e1a24f4c0a8e21ff07e5b7088db8c1Y29udGVudHNlYXJjaGFwaSwxNzY4NjY0OTc4-2.81211325.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A police watchdog has launched an investigation into a former chief constable and three other officers following the controversy over the Maccabi Tel Aviv supporter ban.

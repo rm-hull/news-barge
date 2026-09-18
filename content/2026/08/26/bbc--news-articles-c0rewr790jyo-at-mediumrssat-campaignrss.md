@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Chloe Moffat died last year, after she was told of allegations she had
   shared sensitive confidential information about colleagues, which she denied.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/483c/live/991f88e0-a112-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Chloe Moffat's father David says there 'was no safeguarding' from the Treasury before Chloe took her own life

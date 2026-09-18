@@ -9,6 +9,10 @@ description: Known as Margaret Thatcher’s ‘favourite council’ for it’s h
   low tax rates, Wandsworth Council said it would raise tax on Band D properties by
   £958
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/02/18/14/wandsworth.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 A London council has confirmed it will raise council taxes by 94 per cent in the wake of an £84 million cut in government funding.

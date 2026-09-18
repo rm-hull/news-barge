@@ -8,6 +8,8 @@ scraped_at: '2026-08-24T16:52:05Z'
 published: '2026-08-24T00:00:00Z'
 description: AI is making forecasts faster
 image: https://cdn.mos.cms.futurecdn.net/Y9gz3ntBvZYTntd8XpFxfL-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A blue digital cloud containing lots of symbols on a dark blue background](https://cdn.mos.cms.futurecdn.net/Y9gz3ntBvZYTntd8XpFxfL.jpg) 

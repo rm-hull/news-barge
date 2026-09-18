@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T14:59:23Z'
 published: '2026-09-14T00:00:00Z'
 description: One civil servant says the situation has ‘ruined my mental health’
 image: https://static.independent.co.uk/2026/07/09/08/09080239-46e0cdb6-8381-482b-8ff2-3dc02eb90c0f.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Thousands of retired civil servants continue to face late or missing pension payments as administrator Capita oversees a growing caseload.

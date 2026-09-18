@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Venus Williams has not won a singles match in over a year but has received
   numerous wildcards to compete. The reasons why go beyond just tennis.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2bae/live/2fd008c0-a1ed-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Venus Williams waves to the crowd at the Cincinnati Open](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2bae/live/2fd008c0-a1ed-11f1-b109-879e35c24276.jpg)

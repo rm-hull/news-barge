@@ -9,6 +9,8 @@ description: As my 20s are set to come to an end later this year, I’ve officia
   reached the age where sleeping in the wrong position or stretching just a little
   too
 image: https://techcrunch.com/wp-content/uploads/2026/08/theragun-sense.png?resize=1200,788
+categories:
+- Technology & Software
 ---
 
 As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assumed they’d eventually end up collecting dust in a drawer.

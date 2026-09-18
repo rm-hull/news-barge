@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: Former Ibac head welcomes potential change that would capture actions
   that currently cannot be used to make corrupt findings
 image: https://i.guim.co.uk/img/media/d5f1696fa3905e006a9431f9ec06a88aefc8a742/476_0_4744_3797/master/4744.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ca4352932070a4b846bbc4dee1cda15f
+categories:
+- UK
+- News & Politics
 ---
 
 Ben Carroll has committed to changing the definition of “corruption” before the Victorian election in a move a former anti-corruption boss says could have captured the conduct of senior government figures had it been in place earlier.

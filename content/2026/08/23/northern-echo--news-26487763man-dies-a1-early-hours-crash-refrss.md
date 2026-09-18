@@ -7,6 +7,12 @@ scraped_at: '2026-08-23T09:45:59Z'
 published: '2026-08-23T00:00:00Z'
 description: A man has died after a crash on the A1(M).
 image: https://www.thenorthernecho.co.uk/resources/images/13871622.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- True Crime
 ---
 
 *(Image: PROVIDED)*

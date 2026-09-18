@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Authorities fear the death toll in Viacha will rise and warn people to
   stay away from the barracks due to a risk of further explosions.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38c6/live/2c42cd50-a8d2-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![An explosion at a military unit in Viacha, Bolivia September 4, 2026, in this screengrab taken from a social media video.](https://ichef.bbci.co.uk/ace/standard/804/cpsprodpb/38c6/live/2c42cd50-a8d2-11f1-a291-b542ee92de7c.jpg)

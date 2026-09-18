@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Both a teenage girl and a boy under 10-years-of-age were pronounced dead
   at the scene
 image: https://static.the-independent.com/2026/08/20/16/2251405871..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 A Nevada man killed his girlfriend and two children after finding out that she cheated on him with an ex, police say.

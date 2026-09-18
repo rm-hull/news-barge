@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Bettys at RHS Garden Harlow Carr will close for a month-long refurbishment
   to refresh its look and improve visitor experience.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21190896.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: Supplied)*

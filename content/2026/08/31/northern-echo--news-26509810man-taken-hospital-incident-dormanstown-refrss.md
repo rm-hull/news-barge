@@ -8,6 +8,12 @@ scraped_at: '2026-08-31T21:28:47Z'
 published: '2026-08-31T00:00:00Z'
 description: A person has been taken to hospital after an incident in Dormanstown.
 image: https://www.thenorthernecho.co.uk/resources/images/20958350.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Society & Culture
 ---
 
 *(Image: GNAAS)*

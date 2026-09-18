@@ -8,6 +8,12 @@ published: '2026-09-01T00:00:00Z'
 description: More than one million pensioners are now paying income tax at 40 or more,
   with the number doubling in just five years, new HMRC figures reveal.
 image: https://www.thenorthernecho.co.uk/resources/images/21214839.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Stefan Rousseau)*

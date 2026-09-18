@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Packs in everything parents need to monitor and protect their children
   online
 image: https://cdn.mos.cms.futurecdn.net/cNnr6vPMwMxTYNpfCqBCCC-1887-80.jpg
+categories:
+- Technology & Software
+- Family & Parenting
 ---
 
 ### TechRadar Verdict

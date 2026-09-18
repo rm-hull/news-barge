@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The record "is another clear signal of an ocean under growing stress",
   according to Dr Samantha Burgess from the European Copernicus climate change service.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 ![The Sun sets over an ocean. The sky is dark red and the silhouette of a ship sailing across the ocean in front of the Sun.](https://ichef.bbci.co.uk/ace/standard/977/cpsprodpb/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg)

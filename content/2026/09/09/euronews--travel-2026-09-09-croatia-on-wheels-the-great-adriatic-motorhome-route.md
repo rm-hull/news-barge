@@ -9,6 +9,12 @@ description: On a 25-day road trip we travel along a coastline of striking contr
   from Roman cities and Venetian towns to pebble beaches, islands and roads overlooking
   some of Europe's most spectacular scenery.
 image: https://images.euronews.com/articles/stories/09/90/47/18/1200x675_cmsv2_495181b0-cf2f-5827-a4a8-fdfde49954f9-9904718.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
+- Lifestyle & Fashion
+- Outdoors & Nature
 ---
 
 **David del Valle**

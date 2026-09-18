@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Nominees for the Abbey Road awards captured some of the past year's best
   moments in music.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e1fd/live/3465d440-ab53-11f1-b471-ff02eb3eac27.jpg
+categories:
+- UK
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 ![Liam Gallagher of Oasis with his eyes shaded by the peak of his hat, with a smile-shaped tambourine in his mouth](https://ichef.bbci.co.uk/ace/standard/691/cpsprodpb/0fe0/live/f2244ce0-aaaf-11f1-9eba-7de947fa7cd1.jpg)

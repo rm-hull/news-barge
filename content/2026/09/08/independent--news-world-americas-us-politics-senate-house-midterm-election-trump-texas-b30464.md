@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Democrats have found themselves competing in states that once seemed
   beyond their reach
 image: https://static.independent.co.uk/2026/09/06/22/2026-09-03T100013Z_249420166_RC2FMLA9DG56_RTRMADP_3_USA-ELECTION-DATA-CENTERS-REPUBLICANS.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Control of the Senate has unexpectedly become a closely contested battle with less than two months remaining until Election Day, despite earlier expectations that Republicans would comfortably maintain their majority for the final two full years of President Donald Trump’s term.

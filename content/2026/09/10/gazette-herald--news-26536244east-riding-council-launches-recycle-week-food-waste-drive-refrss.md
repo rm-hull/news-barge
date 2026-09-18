@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: East Riding of Yorkshire Council’s waste and recycling officers will
   visit venues across the region during Recycle Week.
 image: https://www.gazetteherald.co.uk/resources/images/21431569.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: East Riding of Yorkshire Council)*

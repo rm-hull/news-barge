@@ -9,6 +9,12 @@ description: Rising energy bills have been branded “difficult” by Prime Mini
   Burnham after Ofgem raised its price cap by 4 per cent to a three-year high and
   analysts forecast a further 9 per cent hike from January.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/07/27/10/v2-image-production-8c03e74e618ea27b6221840d010cda51Y29udGVudHNlYXJjaGFwaSwxNzYzNzk4MTEz-2.82499618.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # Ofgem price cap: how much are my bills set to rise?

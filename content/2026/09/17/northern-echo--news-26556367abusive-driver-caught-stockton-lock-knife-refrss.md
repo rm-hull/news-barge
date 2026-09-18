@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Wolviston man Carl Farrington was given six-month suspended sentence
   after driving away from police investigating drug dealers in Stockton with a…
 image: https://www.thenorthernecho.co.uk/resources/images/21464606.jpg?type=og-image&xType=0&yType=32
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 An "abusive" driver spotted outside a suspected drugs den was caught carrying a lock knife on his keyring.

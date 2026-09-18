@@ -7,6 +7,9 @@ scraped_at: '2026-08-26T13:12:23Z'
 published: '2026-08-26T00:00:00Z'
 description: AI coding accelerates software risk, demanding machine-speed governance
 image: https://cdn.mos.cms.futurecdn.net/F8GmZXNJTQZttVhvkvgpp9-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Hacking red and blue digital binary code matrix 01 background.](https://cdn.mos.cms.futurecdn.net/F8GmZXNJTQZttVhvkvgpp9.jpg) 

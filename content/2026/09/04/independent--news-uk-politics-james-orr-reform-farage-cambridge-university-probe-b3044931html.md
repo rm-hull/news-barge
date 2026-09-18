@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: James Orr stepped down from Reform UK after claims he arranged to have
   polling paid for by an overseas company
 image: https://static.independent.co.uk/2026/09/04/07/2289310528..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The University of Cambridge has launched a probe into associate professor James Orr after he was alleged to have breached political donation rules while working for Reform UK.

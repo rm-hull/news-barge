@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: A Russian drone targeted the train line the former prime minister was
   travelling on
 image: https://static.independent.co.uk/2025/02/24/9/28/Boris1.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Boris Johnson has hit out at Vladimir Putin after a Russian drone targeted the railway line he was travelling on.

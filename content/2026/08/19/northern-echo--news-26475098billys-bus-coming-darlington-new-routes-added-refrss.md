@@ -7,6 +7,11 @@ scraped_at: '2026-08-19T08:52:21Z'
 published: '2026-08-19T00:00:00Z'
 description: A bus service exclusively for dogs is set to launch in Darlington.
 image: https://www.thenorthernecho.co.uk/resources/images/21280240.jpg?type=og-image&xType=0&yType=233
+categories:
+- Local
+- UK
+- News & Politics
+- Pets & Animals
 ---
 
 A bus service exclusively for dogs is set to launch in Darlington after it's success elsewhere.

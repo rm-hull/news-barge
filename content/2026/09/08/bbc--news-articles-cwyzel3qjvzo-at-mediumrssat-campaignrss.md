@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: The 13-year-old will follow in the footsteps of his father, the Prince
   of Wales, by attending the elite private school.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3911/live/39b0e070-aabd-11f1-b960-379ca4827622.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Education & Learning
 ---
 
 ![Prince George at the Commonwealth Games in August 2026 with his father Prince William](https://ichef.bbci.co.uk/ace/standard/688/cpsprodpb/3911/live/39b0e070-aabd-11f1-b960-379ca4827622.jpg)

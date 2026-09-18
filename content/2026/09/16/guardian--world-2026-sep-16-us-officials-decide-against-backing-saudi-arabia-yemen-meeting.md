@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Iran-backed militants have offered Trump administration assurances over
   safety of Red Sea shipping
 image: https://i.guim.co.uk/img/media/e6fffccc4a635fe7146f5ff89a966ff13c7a59cc/50_0_1316_1053/master/1316.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f162b8239f0ee5faf2c760dc6b0a9c96
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Officials from the US met Houthi leaders over the weekend at the country’s embassy in Muscat, Oman, it has been confirmed, leading to the US decision not to intervene to help Saudi Arabia drive back a Houthi advance inside Yemen.

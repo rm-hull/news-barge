@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: A technical issue has sparked another day of major disruption at airports
   across the UK, including Newcastle and potentially Teesside as flights are…
 image: https://www.thenorthernecho.co.uk/resources/images/21166867.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 - Welcome to The Northern Echo’s live breaking blog on the major disruption to airports across the UK due to a technical issue.

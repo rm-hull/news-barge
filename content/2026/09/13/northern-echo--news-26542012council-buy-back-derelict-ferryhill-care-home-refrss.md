@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Durham County Council’s cabinet is set to discuss whether to buy back
   a long-derelict Ferryhill care home.
 image: https://www.thenorthernecho.co.uk/resources/images/21439656.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: GOOGLE)*

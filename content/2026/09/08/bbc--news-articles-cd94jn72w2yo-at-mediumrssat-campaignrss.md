@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: At least 30 men, women and children drowned when their dinghy capsized
   on 24 November 2021.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ee9/live/5c9c31a0-0277-11f1-b5e2-dd58fc65f0f6.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A red life jacket, bags, and other belongings left abandoned on a stony beach, following the death of at least 30 migrants on the English channel in November 2021](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1ee9/live/5c9c31a0-0277-11f1-b5e2-dd58fc65f0f6.jpg)

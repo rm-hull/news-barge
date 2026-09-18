@@ -10,6 +10,12 @@ description: A callous drug dealer left a woman for dead after crashing into the
   of her car - and only called the emergency services to make a false vehicle theft
   report.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/10/8/29/Mohammed-Khan.jpeg?trim=40,0,40,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
+- True Crime
 ---
 
 # Callous drug dealer left woman for dead after crashing into her during bid to escape police

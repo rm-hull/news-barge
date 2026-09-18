@@ -8,6 +8,10 @@ scraped_at: '2026-09-16T04:43:16Z'
 published: '2026-09-16T00:00:00Z'
 description: Moscow accused Denmark of ‘dangerous’ fly-bys near its warships
 image: https://static.independent.co.uk/2026/09/15/12/2293824159..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 ![](https://cdn.jwplayer.com/v2/media/xqRbAG0G/poster.jpg?width=720)

@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Study challenges belief that temple’s curves were designed to correct
   optical illusions that would have ruined its clean lines
 image: https://i.guim.co.uk/img/media/2232a9c1f0ca09a79a5bde7929077a60028834dc/595_0_2802_2242/master/2802.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=62a6146d354ceb1d2e83603511a360a0
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A mathematician has uncovered what may be one of the longest-running myths in history after studying optical illusions and the Parthenon, the famed Greek temple that overlooks Athens.

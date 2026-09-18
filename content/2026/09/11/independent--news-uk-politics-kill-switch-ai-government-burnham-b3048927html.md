@@ -8,6 +8,9 @@ scraped_at: '2026-09-11T22:30:16Z'
 published: '2026-09-11T00:00:00Z'
 description: Britain ‘cannot simply turn AI off’, the Cabinet Office said on Friday
 image: https://static.independent.co.uk/2026/09/10/15/252c1f67c39bc2b0a02b4c55e4e4a29bY29udGVudHNlYXJjaGFwaSwxNzg5MTM1OTE1-2.85735890.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Proposals to introduce a so-called "kill switch" to protect against an attack from rogue artificial intelligence have been turned down by Andy Burnham’s government.

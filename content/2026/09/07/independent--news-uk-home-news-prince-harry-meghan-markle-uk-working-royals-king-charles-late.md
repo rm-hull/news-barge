@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: The Sussexes must be treated as private citizens, says King amid confusion
   over the roles after UK return
 image: https://static.independent.co.uk/2026/09/07/15/1d8e3df33db9edac1d2c0654a4a9bf14Y29udGVudHNlYXJjaGFwaSwxNzg4ODc4NjEx-2.84292759.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Prince Harry and Meghan are not working royals, King Charles has confirmed following confusion over their roles since returning to the UK.

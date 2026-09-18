@@ -10,6 +10,11 @@ description: The mother of a seven-year-old boy who died following a crash in Hu
   has described how his death has “wrecked” her life as the driver responsible was
   jailed.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/10/16/29/MixCollage-10-Sep-2026-05-13-PM-5424.jpeg?trim=70,0,71,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # ‘I will never be who I used to be’: Mother’s anguish after boy, 7, killed in Huddersfield crash

@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Cullen voiced the heroic Optimus Prime in the Transformers TV series
   and then the Hollywood films.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9529/live/82879e30-a22d-11f1-bd54-531a21306a62.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Comedy & Entertainment
 ---
 
 ![Peter Cullen standing and smiling in front of a Transformers logo backdrop](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/9529/live/82879e30-a22d-11f1-bd54-531a21306a62.jpg)

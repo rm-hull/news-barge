@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: This week on “Uncanny Valley,” Andy Greenberg discusses sitting in on
   a war game simulating a cyberattack from the Chinese hacking group Volt Typhoon
 image: https://media.wired.com/photos/6a861888d3fed06f8e21101b/191:100/w_1280,c_limit/Uncanny-Valley-Podcast-Typhoon-Hack-Security-1130970903.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Earlier this year, insurance executives gathered in a Times Square conference room to play out a scenario: a Chinese cyberattack knocks out 5,000 US water utilities at once. If you think that’s a far-fetched scenario, think again. WIRED’s Andy Greenberg got rare access to the closed-door war game and walked away with some disturbing conclusions. This week, Brian Barrett sits down to talk with Andy about Volt Typhoon, the Chinese state-sponsored hacking group that’s spent the past three years pre-positioning itself inside American infrastructure.

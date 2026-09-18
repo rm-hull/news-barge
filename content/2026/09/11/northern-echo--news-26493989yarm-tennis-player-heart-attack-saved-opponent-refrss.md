@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Bryan Wrenn, 61, was playing in a match for Yarm Tennis Club against
   Saltburn on Tuesday, August 11, when he collapsed to the floor, requiring…
 image: https://www.thenorthernecho.co.uk/resources/images/21417632.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A tennis player who suffered a heart attack while on court has praised his opponent who speedily sought a defibrillator to save his life.

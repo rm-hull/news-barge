@@ -10,6 +10,10 @@ description: Colombian superstar Shakira pledged to help rebuild at least 10 sch
   in a remote region of her home country after a devastating earthquake struck last
   week, killing hundreds and affecting thousands of educational sites
 image: https://static.independent.co.uk/2026/07/20/00/MUNDIAL-ESPECT%C3%81CULOS_19_44.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Colombian superstar Shakira committed Monday to help rebuild at least 10 schools in a remote and hard-hit region of her home country after it suffered a devastating earthquake last week that killed hundreds and affected thousands of educational sites across western Colombia.

@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Rotherham Council has spent over £175,000 clearing fly-tipping from the
   streets and waste in public areas since 2024.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM2NGE0ZTVkLTc2OTktNDdiZC1hMzk3LTY5MDRiMzBhZmY4ZDowYmMyMzExZi05NzBmLTQ4ZjItODI5Zi05NjU1MjNhN2Y0MmM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # Council’s reveals cost of clearing fly-tipping from streets

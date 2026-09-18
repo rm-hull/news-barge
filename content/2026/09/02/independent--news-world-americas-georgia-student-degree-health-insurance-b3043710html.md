@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Dylan Merrell, who played football for Long Island University, says he
   opted out of the school’s insurance, but the school says otherwise
 image: https://static.independent.co.uk/2026/09/02/18/13/lui-athlete-2-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
+- Health & Fitness
 ---
 
 A college graduate from Georgia is being denied his diploma until he pays back a medical debt he incurred while he was enrolled at the university.

@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Wall Street will get key updates next week on closely-watched measures
   for consumer confidence and inflation
 image: null
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Wall Street will get key updates next week on closely-watched measures for consumer confidence and inflation.

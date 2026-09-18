@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: HSL Chairs has relocated its Stockton showroom to larger premises at
   Portrack Retail Park, strengthening its connection with Teesside customers.
 image: https://www.thenorthernecho.co.uk/resources/images/21379170.jpg?type=og-image&xType=0&yType=81
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A furniture company known for its comfy chairs, sofas and beds has moved to a new showroom in Teesside after outgrowing its old store.

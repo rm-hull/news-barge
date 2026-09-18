@@ -10,6 +10,9 @@ description: 'European Commission President Ursula von der Leyen said Europe mus
   sabotage incident last month. NATO Secretary General Mark Rutte said the Alliance
   must have the capabilities it needs to address such threats. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/83/87/1200x675_cmsv2_6fb03c82-dc10-5a3e-825c-70acfbc68290-9898387.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## European Commission President Ursula von der Leyen said Europe must prepare for a “new era of European security” after Russia was blamed for a drone sabotage incident last month. NATO Secretary General Mark Rutte said the Alliance must have the capabilities it needs to address such threats.

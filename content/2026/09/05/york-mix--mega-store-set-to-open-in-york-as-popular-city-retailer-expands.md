@@ -7,6 +7,11 @@ scraped_at: '2026-09-05T11:49:08Z'
 published: '2026-09-05T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/fullyfurnished-flooring-james-street.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Lifestyle & Fashion
 ---
 
 A York retailer is set to open a second location before the end of the year – and the owners described it as a “mega store”.

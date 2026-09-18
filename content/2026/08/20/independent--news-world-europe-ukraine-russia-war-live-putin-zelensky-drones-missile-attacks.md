@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Poland says it is activating a range of defensive measures in response
   to the strikes unfolding across the border
 image: https://static.independent.co.uk/2026/08/20/04/2290615026..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Russian forces have unleashed a major attack on Ukraine in the early hours today, with multiple ballistic missiles targeting the capital Kyiv.

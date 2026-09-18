@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Nabila Habiby, 39, admitted two charges of fraud in September 2025 but
   has still not been sentenced
 image: https://static.independent.co.uk/2026/05/14/10/1402354248.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A fraudster who pawned an £188,000 modern art collection belonging to former Premier League player Edgar Davids failed to appear in court for sentencing after alleging she was struck with a bag while travelling to the airport.

@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: ‘I’m not an AI accelerationist who believes it will lead to some techno-utopia,’
   former president writes
 image: https://static.independent.co.uk/2026/08/25/23/01KYH2WGCDDVGAZAACR8E1V48H.jpg?trim=6,0,6,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Barack Obama has weighed in on the dangers of artificial intelligence just a day after President Trump said that he could serve as a “guardrail.”

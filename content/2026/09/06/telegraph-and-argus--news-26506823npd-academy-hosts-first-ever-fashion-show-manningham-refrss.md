@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A Bradford sewing school hosted its first ever children's fashion show
   in Manningham.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21388375.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 A Bradford sewing school hosted its first ever children's fashion show in Manningham.

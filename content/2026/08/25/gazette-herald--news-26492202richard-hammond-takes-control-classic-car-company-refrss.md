@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Richard Hammond, who was educated in North Yorkshire, has taken control
   of a classic car restoration company which features in a TV show
 image: https://www.gazetteherald.co.uk/resources/images/21364890.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 Richard Hammond has taken control of a classic car restoration company which features in a TV show.

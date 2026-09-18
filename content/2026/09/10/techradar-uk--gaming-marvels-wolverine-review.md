@@ -10,6 +10,9 @@ published: '2026-09-10T00:00:00Z'
 description: Insomniac Games trades open-world web-swinging for scripted blood-spilling
   in a solid superhero romp.
 image: https://cdn.mos.cms.futurecdn.net/FzMSmg8ynakzfzSLFpiG3n-2560-80.png
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ### TechRadar Verdict

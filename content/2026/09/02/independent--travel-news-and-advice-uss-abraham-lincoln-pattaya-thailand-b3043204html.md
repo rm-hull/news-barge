@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T12:45:39Z'
 published: '2026-09-02T00:00:00Z'
 description: The Vietnam War launched the resort's sex tourism
 image: https://static.independent.co.uk/2026/09/02/06/2292483676..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 US Navy aircraft carrier Abraham Lincoln has steamed into Thailand's Laem Chabang on Wednesday with roughly 5,000 sailors and Marines who have spent 286 days at sea.

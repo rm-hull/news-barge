@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A teenager returned from Australia in time to collect her GCSE results
   after making sporting history as the youngest athlete ever selected to…
 image: https://www.thenorthernecho.co.uk/resources/images/21355764.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Supplied)*

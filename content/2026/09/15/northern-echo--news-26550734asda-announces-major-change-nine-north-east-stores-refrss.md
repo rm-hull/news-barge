@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Shoppers at nine Asda Express stores across the North East will begin
   noticing a major change on supermarket shelves as the retailer rolls out…
 image: https://www.thenorthernecho.co.uk/resources/images/20136685.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Asda)*

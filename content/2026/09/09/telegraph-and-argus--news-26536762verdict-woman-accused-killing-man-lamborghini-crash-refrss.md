@@ -9,6 +9,12 @@ published: '2026-09-09T00:00:00Z'
 description: The verdict has been delivered in the trial of a Bradford woman who denied
   causing the death of her friend in a horror crash involving a rented…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21432499.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
+- Technology & Software
 ---
 
 A Bradford woman has been found guilty of causing the death of her friend in a horror crash involving a rented Lamborghini.

@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: A Stockton pub described as a “hidden gem” which has been closed since
   2023 is set to welcome punters again after new owners announced plans to…
 image: https://www.thenorthernecho.co.uk/resources/images/21354468.jpg?type=og-image&xType=75&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: David Simpson)*

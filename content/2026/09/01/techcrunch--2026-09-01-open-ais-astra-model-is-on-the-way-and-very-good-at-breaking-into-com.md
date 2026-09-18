@@ -9,6 +9,8 @@ published: '2026-09-01T00:00:00Z'
 description: OpenAI previewed the precautions it is taking as it prepares to release
   Astra, its newest, cyber-critical LLM.
 image: https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798
+categories:
+- Technology & Software
 ---
 
 OpenAI shared new details on its forthcoming Astra model, which the company said is the first large language model to meet its “critical cybersecurity threshold,” in preparation for its imminent release.

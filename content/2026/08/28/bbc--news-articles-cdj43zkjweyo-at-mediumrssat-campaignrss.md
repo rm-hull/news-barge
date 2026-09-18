@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Footage shows cars being set on fire during an event for one of the young
   men who died in A66 crash.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce27/live/b8e285f0-a2cb-11f1-941c-8741c1a72471.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Police officers look at flowers at the Cleveland Police HQ in Middlesbrough. There are pictures of PC Matthew Blades and PC Tom Clough among the flowers.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ce27/live/b8e285f0-a2cb-11f1-941c-8741c1a72471.jpg)

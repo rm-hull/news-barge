@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's
   head of product.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Thibault-headshot.jpg?resize=1200,750
+categories:
+- Technology & Software
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 Users of OpenAI’s software engineering tool Codex might know Thibault Sottiaux as the guy who resets their token limits whenever the product hits a growth milestone. Now, OpenAI is trying to bring that dopamine hit to the rest of us with ChatGPT Work, a platform for white collar workers to leverage AI agents. I spoke to Sottiaux for our feature on the product and its challenges, but we wanted to share more of that conversation with our readers. Here’s a lightly edited and condensed version of our interview about winning over skeptics, discovery as a product design philosophy, and the cost of intelligence.

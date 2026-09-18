@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Australian social media users would be given a choice to opt out of algorithms
   under proposed laws announced by the government
 image: https://static.independent.co.uk/2026/09/08/10/Australia_Social_Media_81339.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Society & Culture
 ---
 
 Australian social media users would be given a choice to opt out of algorithms under proposed laws announced by the government Tuesday that would let users have more control over what they see on their social media feeds.

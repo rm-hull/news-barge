@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: Everton have called off a proposed deal to sell midfielder Harrison Armstrong
   to Nottingham Forest following a backlash from the club's supporters.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8023/live/d0699fe0-a453-11f1-94c9-7de5456f4d18.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Harrison Armstrong playing for Everton at Bournemouth](https://ichef.bbci.co.uk/ace/standard/683/cpsprodpb/8023/live/d0699fe0-a453-11f1-94c9-7de5456f4d18.jpg)

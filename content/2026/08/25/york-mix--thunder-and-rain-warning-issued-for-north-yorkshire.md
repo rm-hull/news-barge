@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T13:08:17Z'
 published: '2026-08-25T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/02/york-rain-cliffords-tower-dreamstime.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 There’s a Yellow level Met Office warning for thunderstorms and heavy rain across most of North Yorkshire on Thursday (Aug 27th)

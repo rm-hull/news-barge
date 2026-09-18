@@ -8,6 +8,12 @@ published: '2026-09-13T00:00:00Z'
 description: BUYERS looking for a stylish home that will serve as the base for a quieter
   pace of life should make sure to put Whinney Hill on their list of…
 image: https://www.thenorthernecho.co.uk/resources/images/21440112.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
+- Family & Parenting
 ---
 
 BUYERS looking for a stylish home that will serve as the base for a quieter pace of life should make sure to put Whinney Hill on their list of properties to view.

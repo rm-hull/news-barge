@@ -8,6 +8,9 @@ published: '2026-09-05T00:00:00Z'
 description: The sheriff’s office said the hikers “were advised by Gemini to bring
   far less food and water than their group required."
 image: https://techcrunch.com/wp-content/uploads/2017/11/gettyimages-677147499.jpg?resize=1200,600
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Three hikers were rescued from California’s Mount Shasta this week after using Google’s AI chatbot Gemini to plan their expedition, according to the Chicago Tribune.

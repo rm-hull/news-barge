@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: A group of young cyclists are bringing energy and community spirit to
   the streets of York.
 image: https://www.yorkpress.co.uk/resources/images/21443758.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
+- Arts & Culture
 ---
 
 ## Meet the growing York biking group litter picking in city

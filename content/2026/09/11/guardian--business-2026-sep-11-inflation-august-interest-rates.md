@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Annualized inflation rate was 3.4%, same as July, and core inflation,
   which omits energy and food prices, was up to 2.4%
 image: https://i.guim.co.uk/img/media/d9e3bf53f312fcfb2605b3930bdd5df613b2b9f3/0_0_4993_3993/master/4993.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa60efca13f8ae0e273617a287bbf049
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 US consumer prices remained stubbornly high in August as the end of the ceasefire between the US and Iran pushed energy prices up, according to data from the US Bureau of Labor Statistics released on Friday.

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: A missing dog from Sunderland has sparked an urgent public appeal for
   information in Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/21362014.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 ## Dog disappears from log cabin with urgent appeal for information

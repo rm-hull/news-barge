@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: After a year of real-world testing, the Tor Project is doubling down
   on circumvention and reliability instead of commercial-style features
 image: https://cdn.mos.cms.futurecdn.net/U24bAE3CMv9iXcbJEMwZta-722-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Tor VPN Beta app on Android phone, promo image](https://cdn.mos.cms.futurecdn.net/U24bAE3CMv9iXcbJEMwZta.png) 

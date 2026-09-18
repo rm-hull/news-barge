@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Police officer shared location of a woman with his relative who is accused
   of abusing woman
 image: https://i.guim.co.uk/img/media/88ed840a8daeffb470a10df206ed91862a03739c/683_3_2898_2318/master/2898.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f044c2d9b4d6fb0ce5ea6ac492875f47
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A San Jose police officer was fired for using his department’s Flock license plate tracking system to share the location of a woman with the suspect accused of abusing her, Chief Paul Joseph told NBC Bay Area on Friday.

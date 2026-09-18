@@ -10,6 +10,9 @@ description: Television procedurals resurrect dead characters when the writers' 
   a war in its sixth month, the president needs a subject he can still book — and
   Kim Jong-un is next, writes Andrew Feinberg
 image: https://static.independent.co.uk/2026/08/21/14/02/trump-cohen-daniels-split-e4ef3819.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 There is a move that daytime television producers make when a show has run out of plot. A character who died — buried, mourned, whose death powered two seasons of grief — walks back through the door. There was a secret hospital. There was an identical twin. The coma was faked.

@@ -8,6 +8,11 @@ scraped_at: '2026-08-19T04:51:19Z'
 published: '2026-08-19T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/07/cash-money-notes-king-charles-pa.webp
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 The York jobs market is holding steady and wages are going up, new figures show.

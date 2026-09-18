@@ -9,6 +9,10 @@ description: The U.S. government issued a travel alert for Americans planning to
   Mexicali in northern Mexico and temporarily suspended consular activities in the
   border city due to a “potential threat,” without providing details
 image: https://static.independent.co.uk/2026/08/07/02/M%C3%89XICO-GAS_71867.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The U.S. government issued a travel alert for Americans planning to visit Mexicali in northern Mexico and temporarily suspended consular activities in the border city due to a “potential threat,” without providing details.

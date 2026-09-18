@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Amid the increasingly heated U.S.-Canadian trade war, the Buffalo Bills
   of the National Football League have weighed in
 image: https://static.independent.co.uk/2026/09/10/12/2244676667..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The Buffalo Bills have offered an apparent gesture of international goodwill ahead of the season opener at their new home stadium near the U.S.-Canada border, coming amid an intensifying trade dispute between the two countries.

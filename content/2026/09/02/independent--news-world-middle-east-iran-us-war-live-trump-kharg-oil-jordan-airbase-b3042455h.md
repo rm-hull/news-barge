@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The latest US strikes follow Iranian attacks on shipping and American
   service members
 image: https://static.independent.co.uk/2026/09/02/0/21/GettyImages-2284319392.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 American forces have denied a claim from Iran’s paramilitary that it struck a US base in Jordan.

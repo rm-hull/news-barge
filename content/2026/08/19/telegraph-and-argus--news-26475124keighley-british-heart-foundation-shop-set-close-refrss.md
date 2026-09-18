@@ -8,6 +8,11 @@ scraped_at: '2026-08-19T08:53:00Z'
 published: '2026-08-19T00:00:00Z'
 description: A charity shop is preparing to close its doors for the final time.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21205953.jpg?type=og-image&yType=208
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: PA)*

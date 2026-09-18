@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: Outgoing congressman Thomas Massie urges justice department to launch
   immediate investigation
 image: https://i.guim.co.uk/img/media/0dd2688e5ac18e8e6706d39e66bd7e95e52b831c/1223_646_3354_2682/master/3354.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7d8b82f64dcff4da159cedec4051603e
+categories:
+- UK
+- News & Politics
 ---
 
 An outgoing Republican congressman accused billionaire Leon Black and David Copperfield, the illusionist, of being co-conspirators of the accused late sex trafficker Jeffrey Epstein, and repeated a call for the Department of Justice to launch an immediate investigation into the men, among others.

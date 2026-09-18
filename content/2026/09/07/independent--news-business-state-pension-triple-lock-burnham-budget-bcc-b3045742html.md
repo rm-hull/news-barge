@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: The triple lock will see the state pension rise by more than £500 per
   person in April 2027
 image: https://static.independent.co.uk/2026/09/07/00/e50c3d47e20027239fede7f3768928cdY29udGVudHNlYXJjaGFwaSwxNzg4NzY5OTYz-2.85735890.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 A major business organisation has urged Andy Burnham to scrap the state pension triple lock, claiming it would save over £3bn across just two years.

@@ -10,6 +10,10 @@ description: Serbian ministers attended despite earlier assurances no serving of
   his medals on display. The EU said any glorification of convicted war criminals
   "has no place in the EU or in EU candidate countries".
 image: https://images.euronews.com/articles/stories/09/90/39/76/1200x675_cmsv2_b9c92c2d-13b4-5414-ae2e-051150be04ab-9903976.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Serbian ministers attended despite earlier assurances no serving officials would be present, with Mladić's coffin arriving draped in the national flag and his medals on display. The EU said any glorification of convicted war criminals "has no place in the EU or in EU candidate countries".

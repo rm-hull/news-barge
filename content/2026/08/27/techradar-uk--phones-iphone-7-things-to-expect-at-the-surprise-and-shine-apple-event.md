@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: Apple's next big event is on September 9, and we're expecting to see
   loads of announcements — including the first foldable iPhone.
 image: https://cdn.mos.cms.futurecdn.net/uECAzrbUEVAyPyyBsSAC54-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A collage image showing the rumored new Home Hub display, iPhone 18 Pro and AirPods 4](https://cdn.mos.cms.futurecdn.net/uECAzrbUEVAyPyyBsSAC54.jpg) 

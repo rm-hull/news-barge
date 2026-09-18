@@ -9,6 +9,10 @@ description: Cole Palmer scores and sets up Joao Pedro as Chelsea give Xabi Alon
   a winning start against Alvaro Arbeloa's Fulham at Craven Cottage in the Premier
   League.
 image: https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8592/live/96f26f60-a004-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 # Palmer impresses as Chelsea edge past Fulham to give Alonso first win

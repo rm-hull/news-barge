@@ -9,6 +9,11 @@ description: Bodrum has long been shaped by its people and its landscape. Set al
   Türkiye’s Aegean Coast, the region combines ancient ruins, olive groves and a reputation
   for luxury travel.
 image: https://images.euronews.com/articles/stories/09/85/53/10/1200x675_cmsv2_b27207bb-7f99-5fca-b489-f7fc34b802c8-9855310.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
+- History
 ---
 
 **Lilly Douse**

@@ -9,6 +9,10 @@ description: 'Exclusive: Documents show officers from Maine to California worry 
   camera-equipped glasses will be used either to secretly record them or aid acts
   of terrorism'
 image: https://i.guim.co.uk/img/media/03f41f427333165fbf72c8ab3c4b65afa1b3cfda/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=117484266ca8c8bec2c048bd3fbc796c
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 In January, the New York Police Department’s counterterrorism unit sent out a memo warning police officers about a new potential “security and counterintelligence” threat: Ray-Ban Meta glasses.

@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Former Durham police officer groomed a vulnerable witness for a sexual
   relationship while investigating an assault, a misconduct hearing found.
 image: https://www.thenorthernecho.co.uk/resources/images/17293165.jpg?type=og-image&xType=0&yType=40
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: POLICE)*

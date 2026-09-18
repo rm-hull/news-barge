@@ -10,6 +10,11 @@ description: A South Korean court has ruled that North Korea should pay the Sout
   44.6 billion won, or about $32.5 million, for blowing up a joint liaison office
   between the countries in 2020
 image: https://static.independent.co.uk/2026/09/16/04/Koreas_Tensions_14413.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 A South Korean court has ruled that North Korea should pay the South 44.6 billion won ($32.5 million) for blowing up a joint liaison office between the countries in 2020 as their relations deteriorated following the collapse of nuclear negotiations between Pyongyang and Washington.

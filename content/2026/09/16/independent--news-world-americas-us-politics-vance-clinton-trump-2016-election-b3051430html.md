@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Vance, who became a senator with Trump’s backing, reached out to high-level
   Clinton campaign officials to stop him, a new report claims
 image: https://static.independent.co.uk/2026/09/11/07/2294612365..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Vice President JD Vance’s political evolution on MAGA and Donald Trump is well known, but a new report claims he went out of his way to try and stop the man who would later make him his running mate.

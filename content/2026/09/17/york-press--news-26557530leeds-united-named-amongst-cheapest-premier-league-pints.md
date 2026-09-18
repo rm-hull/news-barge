@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Leeds United has one one of the cheapest pints in the Premier League.
   The team are managed by Daniel Farke and play at Elland Road.
 image: https://www.yorkpress.co.uk/resources/images/19366285.jpg?type=og-image
+categories:
+- Local
+- York
+- Video Gaming
 ---
 
 *(Image: Mike Richard McCarthy /PA Wire)*

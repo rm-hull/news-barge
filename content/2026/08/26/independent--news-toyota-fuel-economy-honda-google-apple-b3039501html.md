@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Sport coupes have grown scarce, so the return of the Honda Prelude alongside
   the purist Toyota GR86 gives shoppers a rare and unusual choice
 image: https://static.independent.co.uk/2026/08/26/11/Behind_The_Wheel_Prelude_v_GR86_7_7_8.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Fun-to-drive coupes have been on the wane in the past few decades, which makes it worth paying attention when a new one shows up. The Honda Prelude returns after a 26-year hiatus for 2026, and it’s got some interesting elements to it. It comes standard with a frugal hybrid powertrain — which you wouldn’t necessarily associate with a performance coupe — combined with a specialized suspension and braking system to enhance the car’s handling and stopping.

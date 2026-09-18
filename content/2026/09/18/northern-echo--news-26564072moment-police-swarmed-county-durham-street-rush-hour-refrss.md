@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Durham Police close Front Street during an ongoing investigation, diverting
   buses and causing rush-hour traffic queues.
 image: https://www.thenorthernecho.co.uk/resources/images/21474952.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 Police cordoned off a County Durham high street on Friday afternoon with officers seen sweeping the road as part of an "ongoing investigation".

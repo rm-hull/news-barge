@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Video. Giant dahlia floats roll through Zundert in the Netherlands as
   crowds watch the annual Flower Parade, built by volunteers over several months.
 image: https://images.euronews.com/articles/stories/09/90/35/49/1200x675_cmsv2_4acad929-6fc2-54a5-b846-0f6279d17240-9903549.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 Spectators lined the streets of Zundert in the Netherlands on Sunday as giant floats covered in dahlias rolled through the town during the annual Flower Parade. Volunteers spent months building the displays, attaching hundreds of thousands of blooms by hand.

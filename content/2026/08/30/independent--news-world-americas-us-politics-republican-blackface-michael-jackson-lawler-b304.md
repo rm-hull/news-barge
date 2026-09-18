@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: New York Rep. Mike Lawler drew scrutiny two years ago after an old photo
   surfaced of him dressed in blackface as the King of Pop
 image: https://static.independent.co.uk/2026/08/29/20/34/HQ5fgAiXEAAD3-p.jpeg?trim=481,0,543,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A Republican lawmaker has revived memories of his blackface scandal with a social media post commemorating Michael Jackson’s birthday.

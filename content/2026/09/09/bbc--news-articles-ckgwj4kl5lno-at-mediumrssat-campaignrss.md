@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Tehran condemns the resolution, blaming US and Israeli strikes on its
   nuclear facilities for disrupting inspections.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/88f3/live/c77b2e90-ac86-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A Vantor satellite image shows tunnel construction activity and road infrastructure near the Natanz nuclear facility in the area around Pickaxe Mountain in Iran. Photo: September 2025.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/88f3/live/c77b2e90-ac86-11f1-b1d1-571ed4d7ff2c.jpg)

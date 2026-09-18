@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: A Malton Crew was called to a fire sighted in the open at 11.19pm last
   night (Monday).
 image: https://www.yorkpress.co.uk/resources/images/21367294.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 A Malton Crew was called to a fire sighted in the open at 11.19pm last night (Monday).

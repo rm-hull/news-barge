@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: And, is Prime Minister Andy Burnham fulfilling his council house building
   target?
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ## Episode details

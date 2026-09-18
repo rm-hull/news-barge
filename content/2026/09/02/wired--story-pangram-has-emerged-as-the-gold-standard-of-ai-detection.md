@@ -8,6 +8,9 @@ scraped_at: '2026-09-02T12:45:40Z'
 published: '2026-09-02T00:00:00Z'
 description: Meet the AI police who can make or break careers—in publishing and beyond.
 image: https://media.wired.com/photos/6a96e84e0b666cfc32288113/191:100/w_1280,c_limit/09012026-pangram-still.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Pangram is an AI startup with 24 employees, headquartered above a Popeyes in Brooklyn. It has raised $13 million to date—about 0.0072 percent of what OpenAI has—and was virtually unknown until earlier this year. But if Pangram is to be believed, it’s the one force standing in the way of a full machine takeover of the written word.

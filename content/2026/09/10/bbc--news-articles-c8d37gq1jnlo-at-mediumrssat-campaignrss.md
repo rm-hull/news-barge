@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Since the attacks, New York officials are working with new, complex technology
   to find traces of more than 1,000 victims.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ebb2/live/5bf48820-ad2a-11f1-980e-4fc6f1211def.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Juliette Scauso as a child with her father, Dennis](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/4480/live/25bd4a30-ad2a-11f1-980e-4fc6f1211def.jpg)

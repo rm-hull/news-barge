@@ -7,6 +7,11 @@ scraped_at: '2026-08-22T01:47:10Z'
 published: '2026-08-22T00:00:00Z'
 description: BRADFORD were in the market for new riders ahead of the 1953 season.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21351834.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Archives)*

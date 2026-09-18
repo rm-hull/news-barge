@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: North East passengers hit by cancellations have been told to check directly
   with their airline as disruption continues across the UK due to system…
 image: https://www.thenorthernecho.co.uk/resources/images/19649664.jpg?type=og-image&xType=0&yType=70
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: PA)*

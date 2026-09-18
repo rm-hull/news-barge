@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Belinda Ellams, an agency nurse, was working at Millbrow Care Home in
   Cheshire, when she made comments such as Muslims are going to ‘kill all white people’
 image: https://static.independent.co.uk/2026/08/06/09/q0sjW34zeEd3IAmd7Coy5uE8d9qr30wcPCeUO4vWXbMlNf2pALkbkPOegDlLUV0hMn2fYA2dtRV-zQQ8obAWCke8Vm7mgRZjCSMW..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A nurse handed a colleague nail scissors to defend herself against a feared attack by Muslims days after the Southport stabbings, a nursing tribunal has found.

@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T12:01:21Z'
 published: '2026-08-27T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/york-racecourse-horses-ebor-2026-pa.webp
+categories:
+- Local
+- York
+- Sports
 ---
 
 A stag-party man ran onto the track at York Racecourse as racehorses thundered towards him, forcing security staff into emergency action.

@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T13:11:50Z'
 published: '2026-08-26T00:00:00Z'
 description: A missing woman from London may have travelled to North Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/21374025.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Met Police)*

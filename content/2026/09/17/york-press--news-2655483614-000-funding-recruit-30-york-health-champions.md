@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: City of York Council has secured £14,000 from the York and North Yorkshire
   Combined Authority to expand its Community Health Champions programme,…
 image: https://www.yorkpress.co.uk/resources/images/21462137.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Supplied)*

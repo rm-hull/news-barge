@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T12:50:41Z'
 published: '2026-09-08T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/Harrogate1-scaled.jpg
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 More households facing homelessness are set to benefit from plans to expand the delivery of temporary accommodation across North Yorkshire by almost 25 per cent.

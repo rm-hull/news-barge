@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Virtually every American has been targeted by scammers in some way, exclusive
   new polling data shows
 image: https://static.independent.co.uk/2026/09/02/13/Global_Scams_Victims_What_To_Know__38_3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Scams in the U.S. have surged to a record high, and most people have been targeted. Americans reported a record $15.9 billion in losses last year to the Federal Trade Commission — a 25% increase from 2024, and likely a huge undercount. The FTC estimates that real losses in 2024 were close to $200 billion, or about $550 million every day.

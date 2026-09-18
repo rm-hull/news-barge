@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Arthur Addison, 39, of Grange Villa, has been given a suspended prison
   sentence after admitting carrying a large knife in a public place without…
 image: https://www.thenorthernecho.co.uk/resources/images/19691205.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: The Northern Echo)*

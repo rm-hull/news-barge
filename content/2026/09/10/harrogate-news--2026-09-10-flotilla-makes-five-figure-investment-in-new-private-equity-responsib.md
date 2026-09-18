@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: ESG advisory firm Flotilla Group commits a five-figure investment to
   launch an invite-only, pitch-free wellbeing event series for private equity teams.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/flotilla.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 **ESG technology and advisory firm Flotilla Group has committed a five-figure investment** to launch a new Responsible Investment Gathering series designed for sustainability professionals working within private equity. The year-long initiative moves completely away from traditional panel presentations and corporate sales pitches, replacing them with a monthly programme of relaxed, active, and invite-only wellbeing events.

@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: A walk around Upper Swaledale encapsulates much which makes the Yorkshire
   Dales a great area to explore
 image: https://www.yorkpress.co.uk/resources/images/21376505.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Yorkshire Dales walk has it all – moorland, rivers, waterfall, and a pub

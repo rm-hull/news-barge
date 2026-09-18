@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Kamala Harris repurposed her campaign account into a Gen-Z focused page
   that takes aim at President Trump’s gaffes and policies
 image: https://static.independent.co.uk/2026/08/20/12/2281851854..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Kamala Harris’ Gen-Z-focused social media page has taken a swipe at President Trump’s failed political endorsements.

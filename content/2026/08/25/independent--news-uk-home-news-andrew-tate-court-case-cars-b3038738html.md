@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T13:08:56Z'
 published: '2026-08-25T00:00:00Z'
 description: Lawyers argue the Tate brothers are ‘playing a role’
 image: https://static.independent.co.uk/2026/08/11/08/2026-08-07T132412Z_1173626410_RC2CNKA5AA1L_RTRMADP_3_USA-TATE.JPG?trim=4,0,4,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Andrew Tate’s lawyer has said the social media “influencer” rented supercars to appear wealthier than he is and generate more online engagement.

@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Fire crews are expected to remain at the scene of a major blaze at a
   farm in North Yorkshire ‘for some time’.
 image: https://www.yorkpress.co.uk/resources/images/21396918.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## REVEALED - Aftermath of North Yorkshire fire sparked by lightning strike

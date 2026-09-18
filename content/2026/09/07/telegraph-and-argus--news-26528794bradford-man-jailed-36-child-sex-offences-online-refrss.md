@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A “manipulative groomer” from Bradford has been handed an extended sentence
   of 12-and-a-half years after admitting 36 child sex offences.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21420971.jpg?type=og-image&xType=0&yType=634
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: West Yorkshire Police)*

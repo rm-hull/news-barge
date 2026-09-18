@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Decision not to pause proceedings means £18m report does not engage with
   concerns over former nurse’s conviction
 image: https://i.guim.co.uk/img/media/34bf9b009b636427984013404537ed58a0c1583d/1272_0_6484_5188/master/6484.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5fe4256bb6e34c42ed06bc0055c80483
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Just two months before Lady Justice Kathryn Thirlwall opened her inquiry into events at the Countess of Chester hospital and the crimes of Lucy Letby, a report by Chris Henley KC was published into the “atrocious” wrongful conviction of Andrew Malkinson for rape.

@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Residents near Middlesbrough have told the BBC of their concern after
   a spate of violent incidents in their area.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44f1/live/6367fd80-a31b-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 # 'It's destroying our town': Residents tell of concern after violent incidents near Middlesbrough

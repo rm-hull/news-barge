@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: An inspirational runner has completed his 42nd Great North Run while
   continuing a lifelong fundraising effort that has generated an estimated…
 image: https://www.thenorthernecho.co.uk/resources/images/21454257.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Manchester City sign winger Iliman Ndiaye from Everton in a deal worth
   up to £65m.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cc07/live/3b7bd6a0-a642-11f1-8c8e-6718c6924ee7.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Iliman Ndiaye poses with Manchester City shirt after signing from Everton in a deal worth up to £65m](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/cc07/live/3b7bd6a0-a642-11f1-8c8e-6718c6924ee7.jpg)

@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: This latest legal battle follows a Supreme Court procedural ruling favoring
   Trump just two days earlier
 image: https://static.independent.co.uk/2026/08/20/18/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Law & Justice
+- Business & Entrepreneurship
 ---
 
 A federal judge on Wednesday cleared a key hurdle for President Donald Trump’s executive order restricting mail voting, despite Democratic state officials launching a fresh legal challenge as the midterm elections draw near.

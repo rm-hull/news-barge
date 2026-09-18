@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Trade body says local chains would have to balance concerns with potential
   benefits of AI-enabled technology
 image: https://i.guim.co.uk/img/media/092980621b33770617e1cd5770cc6ae9ff39734f/121_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe080bded9affa57b8f2572da32c432f
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Cinemas across the UK are considering banning customers from wearing Meta’s smart glasses amid fears they could be used to pirate films.

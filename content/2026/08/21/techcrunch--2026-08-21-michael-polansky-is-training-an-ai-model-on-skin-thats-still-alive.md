@@ -10,6 +10,8 @@ description: Michael Polansky — better known publicly as Lady Gaga's partner a
   startup that keeps living human skin tissue alive for weeks outside the body to
   discover new skincare compounds, and is only now going public about it.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Michael_Polansky.jpg?resize=1200,759
+categories:
+- Technology & Software
 ---
 
 Michael Polansky is remarkably unassuming for someone operating in a corner of the world known for outsize egos.

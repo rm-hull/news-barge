@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Concerns about artificial intelligence evading human control have intensified
   in recent days
 image: https://static.independent.co.uk/2026/09/12/17/Anthropic_AI_Slowdown__7476.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Fears about out-of-control artificial intelligence and suggestions to hit the brakes on the technology's development aren't new, but they have recently found new life as warnings about rogue AI systems causing mayhem grow louder.

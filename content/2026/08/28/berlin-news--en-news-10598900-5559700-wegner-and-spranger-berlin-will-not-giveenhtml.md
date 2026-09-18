@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: Following the cyberattack on the city administration's data network,
   which came to light in mid-August, Berlin is facing an extortion attempt.
 image: https://www.berlin.de/binaries/asset/image_assets/10599314/ratio_4_3/1787941585/800x600/
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 © dpa

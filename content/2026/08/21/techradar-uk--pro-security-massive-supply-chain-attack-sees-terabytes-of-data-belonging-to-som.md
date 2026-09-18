@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: 'The LiteLLM breach needed no exploit: install the package, and a poisoned
   security scanner had already handed your cloud keys away'
 image: https://cdn.mos.cms.futurecdn.net/Dtd9CSn6K6jfEdpnzch4zj-2121-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Security padlock and circuit board to protect data](https://cdn.mos.cms.futurecdn.net/Dtd9CSn6K6jfEdpnzch4zj.jpg) 

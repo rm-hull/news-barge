@@ -9,6 +9,8 @@ scraped_at: '2026-09-04T12:41:15Z'
 published: '2026-09-04T00:00:00Z'
 description: I saw the new bots in action and got the insider scoop from a Dyson designer
 image: https://cdn.mos.cms.futurecdn.net/Ds6hwRapHZb9io4xz3cChN-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Dyson Nurovi robot vacuum](https://cdn.mos.cms.futurecdn.net/Ds6hwRapHZb9io4xz3cChN.jpg) 

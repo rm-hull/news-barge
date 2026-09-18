@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Manchester City complete the signing of Morocco midfielder Ayyoub Bouaddi
   from Lille in a £85.6m deal on a five-year contract.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f8b4/live/8c35e240-a13b-11f1-9311-09d4e1fc9016.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 ![Ayyoub Bouaddi in a Manchester City tracksuit top holding a pen with a contract on the desk in front of him](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/f8b4/live/8c35e240-a13b-11f1-9311-09d4e1fc9016.jpg)

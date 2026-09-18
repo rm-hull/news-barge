@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A MAN has been arrested and four people taken to hospital following a
   crash on a main road in North Yorkshire.
 image: https://www.gazetteherald.co.uk/resources/images/21381113.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 *(Image: Police)*

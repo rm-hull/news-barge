@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A COUNCIL in North Yorkshire has approved a new budget in case it has
   to make ‘difficult choices’.
 image: https://www.gazetteherald.co.uk/resources/images/20672329.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 A COUNCIL in North Yorkshire has approved a new budget in case it has to make ‘difficult choices’.

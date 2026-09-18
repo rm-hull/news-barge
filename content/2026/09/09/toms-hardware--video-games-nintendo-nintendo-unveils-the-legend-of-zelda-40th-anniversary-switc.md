@@ -9,6 +9,10 @@ scraped_at: '2026-09-09T12:56:40Z'
 published: '2026-09-09T00:00:00Z'
 description: No, this is not an Ocarina of Time-themed Switch 2.
 image: https://cdn.mos.cms.futurecdn.net/QCHtKLempBbg2Jak6MWwKb-1350-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![The Legend of Zelda™ – 40th Anniversary Edition Nintendo Switch 2, Pro Controller, and Carrying Case](https://cdn.mos.cms.futurecdn.net/QCHtKLempBbg2Jak6MWwKb.jpg) 

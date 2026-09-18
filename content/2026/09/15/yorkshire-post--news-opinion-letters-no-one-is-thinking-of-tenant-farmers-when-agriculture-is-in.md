@@ -8,6 +8,11 @@ scraped_at: '2026-09-15T11:27:16Z'
 published: '2026-09-15T00:00:00Z'
 description: 'From: Peter Auty, Sunnybank, Great Hatfield.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZhYWNjZWFiLTQ2NTMtNGUwMi1hOWMwLWZmZjZkMDdmOGQ4Nzo0NDU5ZjJmNy1mNDE0LTRkMGEtODM0Zi00ODUxMjk4YjZhNjE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # No one is thinking of tenant farmers when agriculture is in crisis - Yorkshire Post Letters

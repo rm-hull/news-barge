@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: The US rapper rolled back the years for more than two hours at the first
   of his two shows in London.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d643/live/eafef5b0-a8c4-11f1-998e-85baf5f0ad36.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ![Jay-Z raps into a microphone while performing on stage. He wears a black and white cardigan and a New York Yankees hat.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/d643/live/eafef5b0-a8c4-11f1-998e-85baf5f0ad36.jpg)

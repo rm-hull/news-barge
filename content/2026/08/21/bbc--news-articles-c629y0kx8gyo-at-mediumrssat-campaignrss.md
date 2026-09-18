@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Saja El-Khawas is the fourth person to die after her family got into
   difficulty in water off West Sussex.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8911/live/1fc38590-9da8-11f1-95ab-d3b679e2384a.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 ![ambulances and a helicopter lined up by the shore](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/8911/live/1fc38590-9da8-11f1-95ab-d3b679e2384a.jpg)

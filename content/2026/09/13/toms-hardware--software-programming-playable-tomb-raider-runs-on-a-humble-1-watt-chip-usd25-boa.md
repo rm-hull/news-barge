@@ -9,6 +9,9 @@ published: '2026-09-13T00:00:00Z'
 description: Microcontrollers remain admirably efficient but have gained significant
   processing muscle.
 image: https://cdn.mos.cms.futurecdn.net/AMMnDxVJMstjTqgsYNL2XQ-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![OpenLara on ESP32](https://cdn.mos.cms.futurecdn.net/AMMnDxVJMstjTqgsYNL2XQ.jpg) 

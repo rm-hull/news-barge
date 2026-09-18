@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: Corporate regulator finds insurers settling most claims with cash rather
   than by managing repairs or rebuilding, warning of ‘unfair outcomes’ for homeowners
 image: https://i.guim.co.uk/img/media/73ef64588dd84e18b6a962dc1dc7dcab037a40e5/575_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=76497c2646dbdc7528aef3ac6cd060e8
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Home insurers are overwhelmingly paying cash to settle claims, leaving Australians to foot blowouts in repair costs for their cyclone-damaged homes.

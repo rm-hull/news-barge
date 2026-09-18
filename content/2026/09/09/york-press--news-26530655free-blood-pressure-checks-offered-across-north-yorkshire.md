@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Free, potentially life-saving blood pressure checks are being offered
   to communities across North Yorkshire this week.
 image: https://www.yorkpress.co.uk/resources/images/21423633.jpg?type=og-image&xType=0&yType=1489
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 ## Free blood pressure checks offered across North Yorkshire this week

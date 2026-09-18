@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: The five-strong list features Ella Bruccoleri, Sheridan Smith, Ruth Jones,
   Vicky McClure and Judy Parfitt.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bdae/live/a8904180-9af4-11f1-930b-57cfba7235f9.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ![Ella Bruccoleri as Mary Bennet](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/bdae/live/a8904180-9af4-11f1-930b-57cfba7235f9.jpg)

@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: The chaotic nature of the men's draw has been a sharp contrast to the
   relative calm of the women's - but anyone can still win the US Open titles.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2d12/live/44dc31b0-aa46-11f1-aa8e-b7f5a9b1f3e0.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- Society & Culture
 ---
 
 ![Taylor Fritz, wearing a black-and-white T-shirt and white headband, screams during a US Open match](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/2d12/live/44dc31b0-aa46-11f1-aa8e-b7f5a9b1f3e0.jpg)

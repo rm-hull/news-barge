@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: Symbolic move to rename lake shared by US and Canada comes amid escalating
   trade war with northern neighbor
 image: https://i.guim.co.uk/img/media/1586ee752c1141711a22a6c478c71542d4fb0cc2/139_0_5997_4801/master/5997.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=29d669a59f945b830050189835c8f643
+categories:
+- UK
+- News & Politics
 ---
 
 Donald Trump signed an executive order on Thursday directing the federal government to rename Lake Ontario, making it Lake America, amid his escalating trade war with Canada.

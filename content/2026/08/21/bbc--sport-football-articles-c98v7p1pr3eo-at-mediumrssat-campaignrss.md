@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: Fifa ban Argentina midfielder Leandro Paredes for 10 matches over his
   role in clashes with Spanish players after the World Cup final.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4619/live/4e75a6e0-9d6f-11f1-bdcc-8926c4a74c43.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 ![Paredes](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/4619/live/4e75a6e0-9d6f-11f1-bdcc-8926c4a74c43.jpg)

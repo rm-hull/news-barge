@@ -10,6 +10,10 @@ description: Video. Ukraine said a Russian drone strike ignited a fire at a petr
   of Sunday, 13 September. Video filmed close to the crossing showed flames and thick
   smoke as firefighters tackled the blaze.
 image: https://images.euronews.com/articles/stories/09/91/22/80/1200x675_cmsv2_0635f03e-1b4b-529b-a711-fdbb007eed20-9912280.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 Falling drone debris set fire to a petrol station and several trucks near the Yahodyn border crossing in western Ukraine, according to Valentyna Chernysh, a spokesperson for the Volyn Customs Service. She told Ukrainian public broadcaster Suspilne that the checkpoint itself was not hit and remained intact. No one was injured.

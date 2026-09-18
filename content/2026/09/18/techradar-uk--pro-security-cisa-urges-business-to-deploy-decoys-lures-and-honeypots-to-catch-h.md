@@ -8,6 +8,9 @@ scraped_at: '2026-09-18T19:00:58Z'
 published: '2026-09-18T00:00:00Z'
 description: ZTNA is great, but it can be even better with a little honeypot
 image: https://cdn.mos.cms.futurecdn.net/MQg6bgb2ivV7eRFBy4HurZ-2560-80.jpg
+categories:
+- Technology & Software
+- Lifestyle & Fashion
 ---
 
 ![A 3d rendering of "sweet returns" or "liquid gold," the combination of the honey (the lure) and the coins (the asset) is a classic visual metaphor for a honeypot scam.](https://cdn.mos.cms.futurecdn.net/MQg6bgb2ivV7eRFBy4HurZ.jpg) 

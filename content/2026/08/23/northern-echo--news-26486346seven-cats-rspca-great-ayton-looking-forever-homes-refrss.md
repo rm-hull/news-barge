@@ -8,6 +8,12 @@ published: '2026-08-23T00:00:00Z'
 description: From affectionate lap cats to adventurous explorers, seven cats are searching
   for their forever homes at RSPCA Great Ayton.
 image: https://www.thenorthernecho.co.uk/resources/images/21356948.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Pets & Animals
+- Lifestyle & Fashion
 ---
 
 From playful teens to affectionate lap cats, seven felines are hoping to find their forever homes in the region.

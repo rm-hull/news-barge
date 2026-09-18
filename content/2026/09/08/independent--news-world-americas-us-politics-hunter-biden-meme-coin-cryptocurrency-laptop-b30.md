@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: Son of former president Joe Biden reportedly debuting $LAPTOP on Coinbase’s
   blockchain network Wednesday
 image: https://static.independent.co.uk/2026/05/19/20/2191851059..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Hunter Biden has announced he is launching a new cryptocurrency satirizing the infamous laptop scandal he found himself at the center of in 2020 and President Donald Trump’s own dabblings in the sector.

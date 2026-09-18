@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: The capital of Reykjavik was the only area where a majority supported
   the referendum
 image: https://static.independent.co.uk/2026/08/30/12/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Iceland has rejected a proposal to restart negotiations on joining the European Union.

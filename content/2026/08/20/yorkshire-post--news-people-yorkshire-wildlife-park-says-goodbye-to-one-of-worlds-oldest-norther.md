@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Yorkshire Wildlife Park has paid tribute to one of the world's oldest
   northern cheetahs after he was put to sleep at the age of 16.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/19/15/48/Brooke-the-cheetah-who-has-sadly-passed-away.jpeg?trim=191,0,192,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Yorkshire Wildlife Park says goodbye to one of world's oldest northern cheetahs

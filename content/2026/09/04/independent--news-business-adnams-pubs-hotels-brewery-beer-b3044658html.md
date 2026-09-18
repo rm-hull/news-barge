@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The drop in turnover was largely driven by the sale of a portion of its
   tenanted pub estate last year
 image: https://static.independent.co.uk/2026/09/04/10/1796944018..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Suffolk brewer and pub operator Adnams has posted further financial losses following weaker-than-expected performance during the first half of 2026.

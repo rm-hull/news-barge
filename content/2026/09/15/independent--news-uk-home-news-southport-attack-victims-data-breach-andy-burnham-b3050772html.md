@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: Staff at courts and tribunals service not linked to the case accessed
   private details without authority
 image: https://static.independent.co.uk/2026/07/24/13/30/southport-victims-split.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- True Crime
+- Law & Justice
 ---
 
 Government staff looked up details on computers of victims, survivors, and witnesses of the Southport attack when they had no right to, it has emerged.

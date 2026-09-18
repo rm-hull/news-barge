@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: Speaking at the party's conference, economy spokesman Robert Jenrick
   says Reform will be the "party of fiscal responsibility".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/740c/live/5eadba50-a7bc-11f1-b5cf-8556ae508a51.png
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 ![Robert Jenrick](https://ichef.bbci.co.uk/ace/standard/888/cpsprodpb/740c/live/5eadba50-a7bc-11f1-b5cf-8556ae508a51.png)

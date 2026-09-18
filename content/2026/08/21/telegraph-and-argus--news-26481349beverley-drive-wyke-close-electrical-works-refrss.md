@@ -7,6 +7,11 @@ scraped_at: '2026-08-21T08:54:02Z'
 published: '2026-08-21T00:00:00Z'
 description: A ROAD in Wyke will be temporarily closed for electrical works.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21348700.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Google Street View)*

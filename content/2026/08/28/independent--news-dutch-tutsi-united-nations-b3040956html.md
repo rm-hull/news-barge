@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: A Dutch court has convicted a Rwandan man of participating in the 1994
   genocide in Rwanda and sentenced him to life imprisonment
 image: https://static.independent.co.uk/2026/08/28/11/Netherlands_Rwanda_Genocide_577_5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A Dutch court on Friday convicted a Rwandan man of participation in his home country's 1994 genocide and sentenced him to life imprisonment.

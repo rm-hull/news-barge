@@ -9,6 +9,8 @@ published: '2026-09-09T00:00:00Z'
 description: As it grapples with a bevy of lawsuits, Suno said its new model, Suno
   v6, is not trained using music it used to train previous versions of the AI model.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Suno_Logo1.jpeg?resize=1200,600
+categories:
+- Technology & Software
 ---
 
 AI music model maker Suno on Wednesday unveiled a new model family called Suno v6, which it says was developed using licensed data from music labels and distributors such as Warner Music Group, BMG and Believe.

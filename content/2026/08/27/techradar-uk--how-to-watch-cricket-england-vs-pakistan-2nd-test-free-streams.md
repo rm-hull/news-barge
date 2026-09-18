@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: Babar Azam returns as Pakistan look to square the series at happy-hunting
   ground Lord's
 image: https://cdn.mos.cms.futurecdn.net/j4vMLU2E2CgcazP7xhacAD-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![England bowler Ollie Robinson celebrates after taking his 5th wicket of the innings](https://cdn.mos.cms.futurecdn.net/j4vMLU2E2CgcazP7xhacAD.jpg) 

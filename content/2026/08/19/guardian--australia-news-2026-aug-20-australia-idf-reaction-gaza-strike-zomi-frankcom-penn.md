@@ -10,6 +10,9 @@ description: Foreign minister says Australia is ‘outraged’ after Israeli gov
   decided not to pursue criminal proceedings over 2024 triple drone strike on humanitarian
   convoy
 image: https://i.guim.co.uk/img/media/fbf424c515f9b213f9cd8f694dcab6846293659a/100_78_2598_2078/master/2598.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6043eb30488ee6c7025ed90b89267d5d
+categories:
+- UK
+- News & Politics
 ---
 
 Australia’s foreign minister has expressed “outrage” and will call in the Israel ambassador over the IDF decision overnight not to open a criminal investigation into Gaza strikes that killed Australian aid worker Zomi Frankcom.

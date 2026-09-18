@@ -9,6 +9,8 @@ published: '2026-09-16T00:00:00Z'
 description: Our 100% reader-voted awards will crown the top tech of the last year,
   so have your say!
 image: https://cdn.mos.cms.futurecdn.net/J4bKCkKciuAH5vmxwYbvi5-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The logo for the TechRadar Readers' Choice Awards 2026](https://cdn.mos.cms.futurecdn.net/J4bKCkKciuAH5vmxwYbvi5.jpg) 

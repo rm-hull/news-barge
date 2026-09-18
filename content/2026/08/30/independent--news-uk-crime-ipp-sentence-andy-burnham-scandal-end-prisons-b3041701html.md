@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: The Independent has long campaigned for thousands of IPP prisoners who
   are jailed without hope
 image: https://static.independent.co.uk/2025/03/21/16/27/IPP-prisons-split.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The prime minister has announced he will end the injustice of indefinite jail terms in this parliament in a major victory for victims of the scandal.

@@ -10,6 +10,8 @@ published: '2026-09-12T00:00:00Z'
 description: LG has defended the data collection that happens on its TVs, saying its
   standard industry practice — but is that right?
 image: https://cdn.mos.cms.futurecdn.net/xvaeTxCnsxd8qV2JYMjiPZ-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![LG TV Reality Check](https://cdn.mos.cms.futurecdn.net/xvaeTxCnsxd8qV2JYMjiPZ.jpg) 

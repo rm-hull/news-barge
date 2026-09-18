@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The US is scooping up treasury bonds in an effort to raise their price
   and push yields down – but it’s not working
 image: https://i.guim.co.uk/img/media/5dcd0d4b92c7dc7799acaf1a9cc764439ae19b69/501_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf5f1c753ca35367c08ee4f756097a51
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 The bond market is driving the Trump administration crazy. Last week, the treasury secretary, Scott Bessent, announced that the government would sharply ramp up its purchase of treasury bonds, in an effort to raise their price and thus push down their yield, which amounts to the interest rate the government pays on its debt.

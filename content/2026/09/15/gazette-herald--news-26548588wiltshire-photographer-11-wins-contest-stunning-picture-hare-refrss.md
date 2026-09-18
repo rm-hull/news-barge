@@ -7,6 +7,11 @@ scraped_at: '2026-09-15T11:27:35Z'
 published: '2026-09-15T00:00:00Z'
 description: An 11-year-old boy from Wiltshire has won a national photography competition.
 image: https://www.gazetteherald.co.uk/resources/images/21452824.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 *(Image: Submitted)*

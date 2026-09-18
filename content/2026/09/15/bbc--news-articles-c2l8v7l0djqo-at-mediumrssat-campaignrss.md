@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The rise has reignited the debate about the state pension's long-term
   affordability and generational fairness.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fa5/live/91781d40-b0ea-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Elderly couple waiting on a train station platform](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/3fa5/live/91781d40-b0ea-11f1-a540-61c3f7fc4e6c.jpg)

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Climate change and the rising influence of El Niño saw August reach the
   record for warmest month.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eae1/live/3afbb100-ac5f-11f1-be57-03729df1d736.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![A number of people are crossing the street in Rome, in the shadow of the Colosseum,  - several are holding umbrellas and sunhats as protection from the Sun. The sky is blue and cloudless on the left of the picture some city buildings and trees can be seen.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/eae1/live/3afbb100-ac5f-11f1-be57-03729df1d736.jpg)

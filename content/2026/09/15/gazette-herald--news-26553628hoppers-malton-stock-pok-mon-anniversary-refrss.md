@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A Pokémon card shop is gearing up for a surge of fans as it marks the
   franchise’s 30th anniversary.
 image: https://www.gazetteherald.co.uk/resources/images/21213445.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Music
 ---
 
 *(Image: AQUA TCG)*

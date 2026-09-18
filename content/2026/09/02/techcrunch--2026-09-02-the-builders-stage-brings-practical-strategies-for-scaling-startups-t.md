@@ -9,6 +9,9 @@ description: Revealing the Builders Stage agenda for TechCrunch Disrupt 2026. Jo
   10,000 founders, VCs, and operators on October 13-15 in San Francisco. Register
   here.
 image: https://techcrunch.com/wp-content/uploads/2026/07/Builders-Stage_ArticleHeader_tc26_V2.png?resize=1200,675
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 The Builders Stage is returning to **TechCrunch Disrupt 2026**, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale successful companies.

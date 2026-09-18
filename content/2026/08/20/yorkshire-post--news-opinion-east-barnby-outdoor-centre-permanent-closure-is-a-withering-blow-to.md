@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: The permanent closure of East Barnby Outdoor Centre, after North Yorkshire
   Council opted to pull its funding, is a withering loss to the region.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmU0NzQ2NDhhLTVkOWMtNGYzMi04ZDhkLTc0NDkxMWRjODJhMDplMWJlZDU1ZC01ZDQ5LTRlY2MtYjM5NS1hZDE4YTBmZjVmMTM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # East Barnby Outdoor Centre: permanent closure is a withering blow to the region

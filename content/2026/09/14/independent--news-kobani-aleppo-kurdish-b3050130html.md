@@ -10,6 +10,11 @@ description: Mourners gathered in Kobani for the funeral of at least seven peopl
   killed in a prison fire and riot. The unrest reportedly began over plans to transfer
   inmates to Aleppo during tensions between Kurdish authorities and Syria’s government.
 image: https://static.independent.co.uk/2026/09/14/21/APTOPIX_Syria_Kurds_Funeral_5593_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Society & Culture
 ---
 
 Photos of the funeral for victims of a deadly prison fire and riot in northern Syria

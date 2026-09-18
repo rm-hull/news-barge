@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: The shooting comes four days after a woman randomly stabbed two people
   in Times Square
 image: https://static.independent.co.uk/2026/09/04/19/29/GettyImages-2293012513.jpg?trim=0,913,535,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A man was fatally shot by police on the the cables of New York City’s Brooklyn Bridge Friday after he ignored orders to drop a knife, cops say.

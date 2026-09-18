@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: Adeel Khan, described as the ‘leader’ of a network organising boats for
   migrants, helped his fellow inmate escape
 image: https://static.independent.co.uk/2024/11/28/12/2a5f6d78022467492700956e15de6eafY29udGVudHNlYXJjaGFwaSwxNzMyMjczNzAw-2.78177302.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A man has been jailed helping former soldier Daniel Khalife, who escaped prison and sparked a nation wide manhunt

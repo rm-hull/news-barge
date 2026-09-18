@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: WALLACE and Gromit will take centre stage in an immersive family experience
   this September.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21339792.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
+- Film & TV
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: The A19 southbound between A179 Sheraton and the Elwick turning is currently
   closed due to a 'multi-vehicle' crash, heavy delays are…
 image: https://www.thenorthernecho.co.uk/resources/images/21142851.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 ## Our live feed has now finished.

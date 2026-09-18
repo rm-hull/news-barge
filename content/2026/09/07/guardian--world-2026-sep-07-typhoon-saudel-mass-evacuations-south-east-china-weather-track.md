@@ -8,6 +8,9 @@ published: '2026-09-07T00:00:00Z'
 description: Torrential rain causes widespread damage; while north-west South Africa
   hit by thunderstorms and central-southern US faces oppressive heat
 image: https://i.guim.co.uk/img/media/ef2be4e6aa749e7b0782673cf1f8a8f3665a6664/642_0_6702_5363/master/6702.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=20ed5a221a3d1fcc2e029918254c9eef
+categories:
+- UK
+- News & Politics
 ---
 
 Typhoon Saudel brought days of torrential rain to Zhejiang, Jiangxi, Fujian and Guangdong provinces in south-east China last week. The city of Putian, in Fujian province, recorded 416.5mm of rain in a 24-hour period between Thursday and Friday, with surrounding villages recording more than 500mm in the same period. In Fujian, authorities estimate that almost 600,000 people were evacuated from high-risk, flood-prone areas. A further 128,000 people in 53 counties were also affected across Jiangxi, with emergency evacuations affecting 9,000 people.

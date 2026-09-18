@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: The series contains the Circular Ring 3 Pro and Circular Ring 3 Slim,
   with the Pro supporting ECG and Blood Pressure.
 image: https://cdn.mos.cms.futurecdn.net/63Ko2WH9CX3GSNh5q2SuxZ-2048-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Circular Ring 3 Slim](https://cdn.mos.cms.futurecdn.net/63Ko2WH9CX3GSNh5q2SuxZ.jpg) 

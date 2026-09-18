@@ -9,6 +9,10 @@ description: Sweden was once seen as one of the most liberal nations in Europe, 
   Swedes head to the polls for a tight contest that could see the far-right move from
   untouchable pariah to coalition partner, writes James C. Reynolds
 image: https://static.independent.co.uk/2026/09/11/10/2026-09-07T130725Z_161276850_RC2AENAWHCX1_RTRMADP_3_SWEDEN-ELECTION.JPG?trim=18,0,18,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 It was a point of national pride that at the height of the 2015 refugee crisis across Europe Sweden took in 163,000 asylum seekers, the second highest per capita across the continent – equivalent to one person for every 60 locals.

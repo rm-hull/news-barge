@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The U.S. Forest Service is filing a proposal to overturn the so-called
   roadless rule enacted during the final days of Bill Clinton’s presidency
 image: https://static.independent.co.uk/2026/08/18/20/02/GettyImages-2289377473.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The Trump administration announced Tuesday that it is proceeding with plans to repeal a quarter-century-old restriction on logging, road construction and development in national forest lands, drawing opposition from environmental groups across the country.

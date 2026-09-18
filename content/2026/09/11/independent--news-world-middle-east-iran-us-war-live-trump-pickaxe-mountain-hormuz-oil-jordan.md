@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: The capture could give Iran another potential point of leverage in its
   war with the US
 image: https://static.independent.co.uk/2026/09/10/19/Yemen_War_85952.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Iran-backed Houthi militants have captured Yemen's strategic port city of Mokha, raising fears it could bring them closer to targeting shipping through a critical waterway to the Red Sea.

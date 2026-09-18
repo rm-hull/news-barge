@@ -8,6 +8,10 @@ scraped_at: '2026-08-22T12:56:48Z'
 published: '2026-08-22T00:00:00Z'
 description: Eagles manager Pierre Sage takes charge of his first Premier League game
 image: https://cdn.mos.cms.futurecdn.net/DKheMoAm7GpQJDmubQZEcn-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
+- Sports
 ---
 
 ![Head coach Crystal Palace Pierre Sage looks on during Crystal Palace v AlUla FC - Pre-Season Friendly at Giuseppe Sinigaglia Stadium on July 31, 2026 in Como, Italy](https://cdn.mos.cms.futurecdn.net/DKheMoAm7GpQJDmubQZEcn.jpg) 

@@ -9,6 +9,12 @@ published: '2026-09-02T00:00:00Z'
 description: A Bradford-based fashion retailer has been granted permission to create
   a “flagship” store – and its CEO has said it will be an “important…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21395124.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ### What is the Public Notice Portal?

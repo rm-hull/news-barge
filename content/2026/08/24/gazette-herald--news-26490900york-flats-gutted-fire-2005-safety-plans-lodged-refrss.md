@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Works are planned to improve fire safety in a block of York flats where
   a large blaze left residents homeless and prompted an investigation.
 image: https://www.gazetteherald.co.uk/resources/images/21364905.jpg?type=og-image&xType=0&yType=199
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 ### What is the Public Notice Portal?

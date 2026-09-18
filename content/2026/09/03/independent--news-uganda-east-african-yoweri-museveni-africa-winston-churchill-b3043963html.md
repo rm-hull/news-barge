@@ -9,6 +9,10 @@ description: Ugandan authorities have named the country's prospective crude oil 
   "Pearl Sweet," marking a milestone as Uganda prepares for commercial production
   by the end of the year
 image: https://static.independent.co.uk/2026/09/03/08/Uganda_Oil_Milestone_75786.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Ugandan authorities on Wednesday named the country’s prospective crude oil blend “Pearl Sweet,” marking a milestone as the East African country gears up for commercial production by the end of the year.

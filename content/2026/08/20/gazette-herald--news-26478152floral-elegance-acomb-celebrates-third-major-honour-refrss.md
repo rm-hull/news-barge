@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Floral Elegance in Acomb, York, is celebrating a hat-trick of honours
   after a recent national industry award.
 image: https://www.gazetteherald.co.uk/resources/images/21341788.jpg?type=og-image&xType=6&yType=0
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: Floral Elegance)*

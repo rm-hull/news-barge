@@ -7,6 +7,9 @@ scraped_at: '2026-08-28T22:14:55Z'
 published: '2026-08-28T00:00:00Z'
 description: Discover more about Policy with insights from the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/Bvn9bjjn7RjjnHHyEAHmAP-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/Bvn9bjjn7RjjnHHyEAHmAP-320-80.jpg)

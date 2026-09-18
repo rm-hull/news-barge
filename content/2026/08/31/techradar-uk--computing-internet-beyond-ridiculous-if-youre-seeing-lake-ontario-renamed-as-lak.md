@@ -9,6 +9,8 @@ published: '2026-08-31T00:00:00Z'
 description: After an executive order from the White House, Google Maps is relabeling
   the Great Lake in its apps.
 image: https://cdn.mos.cms.futurecdn.net/dShAur2oD3u562Ac4iTWAE-1200-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Google Maps on a phone being held in someone's hand](https://cdn.mos.cms.futurecdn.net/dShAur2oD3u562Ac4iTWAE.jpg) 

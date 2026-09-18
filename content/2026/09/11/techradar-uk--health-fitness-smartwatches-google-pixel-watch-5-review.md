@@ -8,6 +8,8 @@ scraped_at: '2026-09-11T19:09:00Z'
 published: '2026-09-11T00:00:00Z'
 description: The Google Pixel Watch 5 is the best Android watch you can buy this year.
 image: https://cdn.mos.cms.futurecdn.net/9eodLRXMQbvTq9Hpc8orMF-2472-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

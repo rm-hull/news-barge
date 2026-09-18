@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Residents, police and wardens joined forces to clear drug paraphernalia,
   fly-tipped waste and overgrowth from a Chester-Le-Street back lane.
 image: https://www.thenorthernecho.co.uk/resources/images/21361847.jpg?type=og-image&xType=0&yType=469
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 A huge clean-up has transformed a back lane in Chester-le-Street after faeces, and discarded needles and overgrown plants filled the area.

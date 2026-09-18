@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A Hartlepool man has been charged with attempted murder after a police
   officer was hit by a car in Horden, County Durham.
 image: https://www.thenorthernecho.co.uk/resources/images/20589259.jpg?type=og-image&xType=0&yType=82
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: NORTHERN ECHO)*

@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: For some mainlanders, Hong Kong's independent bookstores are a window
   into a different, freer world.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/975a/live/cdbc9370-9c5f-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Independent publisher Leslie Ng speaking to journalists at the Hunter Bookstore, surrounded by piles of books and packed shelves](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0d6a/live/99741e70-9c65-11f1-a291-b542ee92de7c.jpg)

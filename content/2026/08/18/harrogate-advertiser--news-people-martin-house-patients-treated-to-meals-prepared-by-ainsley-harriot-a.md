@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Ainsley Harriott lent his culinary skills to Martin House Children’s
   Hospice in Wetherby
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/08/18/8/26/Ainsley-Harriott-Martin-House.png?trim=9,0,90,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 # Ainsley Harriott joins Martin House kitchen team during visit to Wetherby hospice

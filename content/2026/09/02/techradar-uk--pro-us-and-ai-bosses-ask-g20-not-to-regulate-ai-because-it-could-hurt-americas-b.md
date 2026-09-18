@@ -8,6 +8,8 @@ scraped_at: '2026-09-02T12:45:47Z'
 published: '2026-09-02T00:00:00Z'
 description: US tech advisor Michael Kratsios pushes for lighter AI regulation
 image: https://cdn.mos.cms.futurecdn.net/AvZcjmUMtehpuha5oJLcTB-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Who will win the AI race?](https://cdn.mos.cms.futurecdn.net/AvZcjmUMtehpuha5oJLcTB.jpg) 

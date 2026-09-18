@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: This Grade II listed townhouse in the heart of Norton has been transformed
   with striking botanical décor, luxury finishes and unique design…
 image: https://www.thenorthernecho.co.uk/resources/images/21368296.jpg?type=og-image&xType=0&yType=39
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
+- Arts & Culture
 ---
 
 A stunning Grade II listed townhouse in the heart of Teesside is proving that period properties don't have to choose between character and luxury.

@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: A man was taken to hospital and another arrested after a violent fight
   broke out in Stockton yesterday.
 image: https://www.thenorthernecho.co.uk/resources/images/12855408.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Sports
 ---
 
 *(Image: POLICE)*

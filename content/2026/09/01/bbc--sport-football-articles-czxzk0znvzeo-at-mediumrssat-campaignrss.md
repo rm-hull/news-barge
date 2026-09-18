@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Premier League clubs break their all-time summer transfer record after
   spending reaches £3.198bn.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2a0b/live/391a0f20-a611-11f1-a291-b542ee92de7c.png
+categories:
+- UK
+- News & Politics
+- Sports
+- Technology & Software
 ---
 
 ![Elliot Anderson, Morgan Rogers and Sandro Tonali](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/2a0b/live/391a0f20-a611-11f1-a291-b542ee92de7c.png)

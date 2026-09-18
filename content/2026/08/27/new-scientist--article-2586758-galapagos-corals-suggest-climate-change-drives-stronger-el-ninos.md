@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: Coral records from the Galapagos Islands indicate El Niños have been
   gathering strength over the past 40 years, in line with rising global temperatures
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309669877.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Sampling corals near the Galapagos islands](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309669877.jpg?w=840)

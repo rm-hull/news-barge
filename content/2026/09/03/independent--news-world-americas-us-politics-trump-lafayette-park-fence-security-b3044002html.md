@@ -9,6 +9,9 @@ description: The latest pieces of President Donald Trump’s wide-ranging Washin
   makeover are set for an airing in front of a federal panel that already has blessed
   his other big-ticket plans
 image: https://static.independent.co.uk/2026/09/03/09/2282409655..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A federal advisory panel is scheduled to review the latest additions to President Donald Trump's extensive redesign of Washington on Thursday, after previously approving major projects proposed by the administration.

@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Scott Bessent says the US will sever all economic ties with the country
   and that any nation partnering with Iran financially will also be isolated.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![US Treasury Secretary Scott Bessent's head and shoulders in profile. He has grey hair and glasses. He is wearing a grey suit with a US flag lapel pin, a silver tie, and a white shirt. Behind him in soft focus are US flags and a podium.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg)

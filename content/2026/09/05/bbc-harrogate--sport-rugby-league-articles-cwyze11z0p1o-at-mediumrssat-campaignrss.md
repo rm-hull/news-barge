@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: York Knights go 10th in Super League as they run in five tries to beat
   Catalans Dragons in Perpignan.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fe5f/live/1e48b7c0-a961-11f1-ad7a-15451c853d29.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![Liam Harris of York City Knights](https://ichef.bbci.co.uk/ace/standard/610/cpsprodpb/fe5f/live/1e48b7c0-a961-11f1-ad7a-15451c853d29.jpg)

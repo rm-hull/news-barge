@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T12:48:41Z'
 published: '2026-09-02T00:00:00Z'
 description: The US military is losing its senior leaders.
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0j72y80.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ## Episode details

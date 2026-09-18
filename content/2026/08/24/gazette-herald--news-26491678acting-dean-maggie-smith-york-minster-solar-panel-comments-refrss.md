@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: York Minster's role in solar panel installations across the region has
   been praised.
 image: https://www.gazetteherald.co.uk/resources/images/20327471.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 Solar panels fitted to the roof of York Minster have been celebrated after a record-breaking period of installations.

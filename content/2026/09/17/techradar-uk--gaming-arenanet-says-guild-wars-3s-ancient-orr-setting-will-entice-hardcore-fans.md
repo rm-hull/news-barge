@@ -10,6 +10,10 @@ published: '2026-09-17T00:00:00Z'
 description: Guild Wars 3 takes place in the ancient land of Orr, which ArenaNet believes
   will interest both hardcore fans and new players.
 image: https://cdn.mos.cms.futurecdn.net/ctP3uGQiRmUjGGNvMydU2M-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
+- Sports
 ---
 
 ![Guild Wars 3](https://cdn.mos.cms.futurecdn.net/ctP3uGQiRmUjGGNvMydU2M.jpg) 

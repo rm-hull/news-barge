@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A 25-metre mobile phone mast could be installed near new leisure centre
   facilities, if plans are agreed with the council.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21424412.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 ### What is the Public Notice Portal?

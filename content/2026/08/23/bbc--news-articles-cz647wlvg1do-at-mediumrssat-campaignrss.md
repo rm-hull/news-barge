@@ -8,6 +8,12 @@ published: '2026-08-23T00:00:00Z'
 description: Roehampton University offers students £2,000 a year to play esports alongside
   their studies.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e70/live/c3634490-9c9c-11f1-a5a0-114ca9d4a1bc.jpg
+categories:
+- UK
+- News & Politics
+- Video Gaming
+- Education & Learning
+- Technology & Software
 ---
 
 ![Six boys from the Roehampton esports team celebrating a win at a competition.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3e70/live/c3634490-9c9c-11f1-a5a0-114ca9d4a1bc.jpg)

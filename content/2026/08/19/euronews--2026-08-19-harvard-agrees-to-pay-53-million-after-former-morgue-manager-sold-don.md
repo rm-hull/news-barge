@@ -9,6 +9,11 @@ description: A Boston state court judge gave preliminary approval to the settlem
   on Tuesday, according to US media, with Harvard saying the distribution of funds
   is expected to take several months.
 image: https://images.euronews.com/articles/stories/09/88/07/23/1200x675_cmsv2_6464b964-1f2c-51ba-b880-5c2a58761851-9880723.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## A Boston state court judge gave preliminary approval to the settlement on Tuesday, according to US media, with Harvard saying the distribution of funds is expected to take several months.

@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: A CAMPAIGN is under way to protect summer job opportunities for young
   people.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20335544.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

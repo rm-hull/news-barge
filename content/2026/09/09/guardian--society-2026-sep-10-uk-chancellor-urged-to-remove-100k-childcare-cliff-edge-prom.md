@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Critics say threshold pushes higher-paid staff to cut back on work and
   often mothers to stop working to avoid losing entitlement
 image: https://i.guim.co.uk/img/media/dfbf8136d3ceab1b6d969acc9742e9464f49efb7/255_0_7654_6123/master/7654.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5f6f15789ce654a4ed0549c69e929ba1
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 John Healey has been urged to fix the £100,000 childcare “cliff edge”, that means some higher-paid employees cut back on work to avoid losing their entitlement.

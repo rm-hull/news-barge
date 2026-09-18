@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Home secretary tells officers to make ‘full use’ of their powers after
   masked vigilantes cause weekend of chaos
 image: https://i.guim.co.uk/img/media/19caae0a281523dd54589facbe33636c3230eda6/462_0_4630_3704/master/4630.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5fba42e00749520dd0c23e7b694289dd
+categories:
+- UK
+- News & Politics
 ---
 
 Shabana Mahmood has urged police to curb the activities of far-right, anti-migrant groups which have “obvious malign intent” after a weekend of chaos caused by balaclava-wearing vigilantes.

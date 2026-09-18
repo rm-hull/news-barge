@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: President Trump has continued to brush off the concerns, insisting the
   US has "virtually unlimited" stock just a few weeks ago.
 image: https://images.euronews.com/articles/stories/09/91/36/53/1200x675_cmsv2_aa66dc3a-7387-5099-b11f-94f87d9ce9e2-9913653.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## President Trump has continued to brush off the concerns, insisting the US has "virtually unlimited" stock just a few weeks ago.

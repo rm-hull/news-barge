@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: 'Exclusive: Tory Leader ‘whipped up negativity’ against Penny Mordaunt
   after her starring role in King’s coronation, says new book.'
 image: https://static.independent.co.uk/2026/08/26/16/46/10-PER-USE-PLEASE-FLAG-REUSE-TO-PIC-DESK.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 The row over reports that Kemi Badenoch is blocking a Commons return by Dame Penny Mordaunt has taken a new twist after a claim that the Tory leader is “jealous” of the “charismatic” ex-defence secretary.

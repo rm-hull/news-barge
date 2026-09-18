@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: Renewed calls to gate off a crime-hit Bradford city centre alleyway have
   been made following a reported stabbing.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20783406.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Bradford Council)*

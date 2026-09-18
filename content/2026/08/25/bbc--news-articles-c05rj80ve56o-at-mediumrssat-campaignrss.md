@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: What leverage does Canada, which sells about 70% of its goods to the
   US, actually have in this spiralling trade dispute?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b4c/live/df25db30-a01a-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 'Trump underestimates us': Doug Ford takes aim at US over tariffs

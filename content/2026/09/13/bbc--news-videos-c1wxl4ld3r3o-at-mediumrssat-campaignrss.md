@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Sir Henry Wood composed the melody for the centenary of the Battle of
   Trafalgar in 1905.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1813/live/3cb8cbb0-af0f-11f1-a65d-4542d2ba1a22.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 # Watch: Fantasia on British Sea-Songs at the Last Night of the Proms

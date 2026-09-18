@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Helmsley is gearing up to welcome thousands of visitors next weekend
   as the town plays host to a major sporting event.
 image: https://www.yorkpress.co.uk/resources/images/21370917.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: TONY BARTHOLOMEW)*

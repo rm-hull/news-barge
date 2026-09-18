@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Thomas the Baker, based on High Row, has been shortlisted in The Northern
   Echo’s Best Bakery 2026 competition.
 image: https://www.thenorthernecho.co.uk/resources/images/21392934.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: NORTHERN ECHO)*

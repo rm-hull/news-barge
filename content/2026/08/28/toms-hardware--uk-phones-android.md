@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: Android reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/wURzf9nJgxbUidK2zg7ajX-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Android smartphone](https://cdn.mos.cms.futurecdn.net/wURzf9nJgxbUidK2zg7ajX-320-80.jpg)

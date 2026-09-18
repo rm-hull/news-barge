@@ -9,6 +9,9 @@ scraped_at: '2026-09-10T12:54:13Z'
 published: '2026-09-10T00:00:00Z'
 description: No substitute for Spruce Pine for now, but a step in the right direction.
 image: https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Micron](https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH.jpg) 

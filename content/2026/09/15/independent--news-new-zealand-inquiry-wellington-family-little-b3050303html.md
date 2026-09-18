@@ -10,6 +10,10 @@ description: A major inquiry into New Zealand man Tom Phillips, who hid his chil
   in a forest for years before dying in a police shootout, criticizes officials for
   not taking the risks to the children seriously
 image: https://static.independent.co.uk/2026/09/15/08/New_Zealand_Missing_Family__22_6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A major inquiry into the case of New Zealand man Tom Phillips, who hid his children in dense forest for years before he died in a police shootout, has criticized officials for not taking seriously enough the harms and risks to the children early in the saga of their disappearance.

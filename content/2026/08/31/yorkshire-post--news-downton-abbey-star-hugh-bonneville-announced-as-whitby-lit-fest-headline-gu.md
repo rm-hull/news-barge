@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Downton Abbey star Hugh Bonneville has been announced as the headline
   guest at the forthcoming edition of Whitby Lit Fest.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjBkYTViYmJkLTc4ZDQtNDhlZi04NjMyLWYyNzA3MDU5ZjFkYTowN2RjMTI5OS1jNGViLTRmOGEtYTI5OS03NGFjMTNiNTQ2Y2U=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Music
 ---
 
 # Downton Abbey star Hugh Bonneville announced as Whitby Lit Fest headline guest

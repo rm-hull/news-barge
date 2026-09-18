@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: East Riding of Yorkshire Council said traffic restrictions on the A1079
   near Beverley will be removed on the evening of Friday, September 11,…
 image: https://www.yorkpress.co.uk/resources/images/19815250.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Contributed)*

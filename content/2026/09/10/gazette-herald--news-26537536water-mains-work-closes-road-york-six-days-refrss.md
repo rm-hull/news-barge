@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: City of York Council said Landsdowne Terrace is closed until 5pm on Wednesday,
   September 16.
 image: https://www.gazetteherald.co.uk/resources/images/19485644.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Newsquest)*

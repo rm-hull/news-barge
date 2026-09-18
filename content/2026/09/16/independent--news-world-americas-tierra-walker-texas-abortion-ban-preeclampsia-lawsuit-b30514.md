@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The 37-year-old Texan was 20 weeks pregnant when she passed away in December
   2024, two days after her final hospital visit for symptoms of preeclampsia
 image: https://static.independent.co.uk/2026/09/16/19/2026-09-16T161606Z_1595746698_RC2OYU9MCKGF_RTRMADP_3_USA-ABORTION-TEXAS.JPG?trim=250,0,250,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The family of Tierra Walker, a Texas woman who died from pregnancy complications, has filed a lawsuit targeting Republican Attorney General Ken Paxton and the doctors who treated her.

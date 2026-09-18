@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Rescuers worked through mud and debris in areas devastated by a flash
   flood along the Himalayan border between Nepal and China
 image: https://static.independent.co.uk/2026/08/28/08/Nepal_Flash_Floods_5833_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Rescuers worked through mud and debris Friday in areas devastated by a flash flood along the Himalayan border between Nepal and China.

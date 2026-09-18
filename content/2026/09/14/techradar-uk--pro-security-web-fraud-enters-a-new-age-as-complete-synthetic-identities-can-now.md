@@ -8,6 +8,9 @@ scraped_at: '2026-09-14T15:01:06Z'
 published: '2026-09-14T00:00:00Z'
 description: Your "digital Frankenstein" can pass KYC
 image: https://cdn.mos.cms.futurecdn.net/sFwyWVhzZ3pH6hBkwH8Lra-2560-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Several figures wearing paper bags on their heads with smiley faces drawn on them.](https://cdn.mos.cms.futurecdn.net/sFwyWVhzZ3pH6hBkwH8Lra.jpg) 

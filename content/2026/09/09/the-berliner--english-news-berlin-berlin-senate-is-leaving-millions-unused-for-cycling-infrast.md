@@ -9,6 +9,12 @@ description: Despite ample funding, the development of Berlin's bicycle infrastr
   stagnates. Berlin spent only a fraction of its available cycling infrastructure
   budget in 2025, as the expansion of the city's cycle path network continues to slow.
 image: https://www.the-berliner.com/wp-content/uploads/2026/09/imago0856224967h-scaled.jpg
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0856224967h-scaled.jpg)

@@ -7,6 +7,11 @@ scraped_at: '2026-09-16T19:32:30Z'
 published: '2026-09-16T00:00:00Z'
 description: All is ale and hearty for the start of the York CAMRA Beer festival today.
 image: https://www.yorkpress.co.uk/resources/images/21463704.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
+- Travel
 ---
 
 ## Ale and hearty start at major York beer festival

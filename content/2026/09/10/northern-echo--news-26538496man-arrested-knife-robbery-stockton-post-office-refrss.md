@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: A man in his 20s has been arrested on suspicion of robbery after allegedly
   entering a post office armed with a knife.
 image: https://www.thenorthernecho.co.uk/resources/images/21434592.jpg?type=og-image&xType=22&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: GOOGLE MAPS)*

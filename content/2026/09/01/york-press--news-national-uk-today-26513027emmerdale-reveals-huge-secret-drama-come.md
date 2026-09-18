@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: A huge secret has been revealed in the latest episode of Emmerdale involving
   Kim Tate and DS Thea Ramsden.
 image: https://www.yorkpress.co.uk/resources/images/21398087.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 *(Image: YouTube/ITV)*

@@ -8,6 +8,9 @@ scraped_at: '2026-08-20T20:42:05Z'
 published: '2026-08-20T00:00:00Z'
 description: Ground mount panels arrive first, with hybrid kits to follow in October
 image: https://cdn.mos.cms.futurecdn.net/zhFxW4ku7LCEqbPaAWYpJa-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A UKSOL plug-in solar kit](https://cdn.mos.cms.futurecdn.net/zhFxW4ku7LCEqbPaAWYpJa.jpg) 

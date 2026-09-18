@@ -9,6 +9,12 @@ published: '2026-09-15T00:00:00Z'
 description: A UK company has expanded into a new market, marking a milestone in its
   growth plans
 image: https://www.thetelegraphandargus.co.uk/resources/images/21454465.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Ade Wilson)*

@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Clément Vandenkerckhove is the result of a relationship between Prince
   Laurent and a Flemish singer
 image: https://static.independent.co.uk/2026/08/20/20/37/b941b6e0-9c7e-11f1-9653-11ace0f67d4d-jpg.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 A former car salesman has been formally recognised as a Belgian prince after a DNA test confirmed that he was a descendant of the royalty.

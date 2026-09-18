@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: Google’s new voice typing is pure magic, but subpar gaming performance
   and a useless rear LED keep these flagships from true greatness.
 image: https://media.wired.com/photos/6a84b66769f773e1f551bc6c/191:100/w_1280,c_limit/Review--Google-Pixel-11-Pro-and-Pixel-11-Pro-XL_HERO.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Classy design. Bright, colorful screen. Nice improvements to the camera experience. Magic Capture can be useful. Gemini Intelligence is helpful, if limited. Rambler might be Google's best feature in years. Still the only major Android phones with Qi2 magnets.

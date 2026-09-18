@@ -8,6 +8,10 @@ scraped_at: '2026-09-16T22:54:50Z'
 published: '2026-09-16T00:00:00Z'
 description: It's all about the ferroelectrics
 image: https://cdn.mos.cms.futurecdn.net/usHwZaRSu5KnAjSPZDWDta-1920-80.jpg
+categories:
+- Technology & Software
+- Science
+- Health & Fitness
 ---
 
 ![RAM sticks stacked on top of each other](https://cdn.mos.cms.futurecdn.net/usHwZaRSu5KnAjSPZDWDta.jpg) 

@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: New details have emerged about plans to improve fire safety at a block
   of flats gutted by a blaze in York.
 image: https://www.gazetteherald.co.uk/resources/images/21364996.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 ### What is the Public Notice Portal?

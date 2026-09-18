@@ -10,6 +10,12 @@ description: John Pickles who has died at 84, was a Yorkshire music producer who
   the novelty pop act Jive Bunny And The Mastermixers, which had number one hits with
   the medlies Swing The Mood, That’s What I Like and Let’s Party.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmFlZDkzMGNiLThhZjItNDg0ZS05OTM1LTZkYjdlOGM3ZjIwNjoyZGUyMGMzOS02ZTYxLTQ3YmQtYWE2Ni0xNTM5MTY2M2Y3NWY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Music
+- Arts & Culture
 ---
 
 # John Pickles obituary: The Yorkshire mastermind behind Jive Bunny And The Mastermixers

@@ -9,6 +9,12 @@ published: '2026-08-25T00:00:00Z'
 description: A store in Ripon has become the first in North Yorkshire to pioneer new
   eyesight technology for customers after a £34,000 investment.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmRjYWU4OTMxLTE4OTUtNDg2Yi04MzgyLWNiMmNiNzdhOGI0YTpkZDFhODU4OS1jNDZhLTRlMjQtYTFkNC0zM2MwZTM0ZmE0NmI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # New £34k investment at Ripon store will offer hi-tech help for customers experiencing dry eye problems

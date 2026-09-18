@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: He is also leaving the armed forces to pursue a new career in the private
   sector
 image: https://static.independent.co.uk/2026/09/01/16/c97f2240db413c669b985662b12f2419Y29udGVudHNlYXJjaGFwaSwxNzg4MzU4NjM5-2.70910462.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The senior equerry to the King and Queen, who captured widespread attention online, is to step down from his role supporting the royal family.

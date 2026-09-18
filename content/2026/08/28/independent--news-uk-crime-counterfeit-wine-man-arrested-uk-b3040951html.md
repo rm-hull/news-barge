@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T22:15:20Z'
 published: '2026-08-28T00:00:00Z'
 description: The man was arrested at an address in Essex last week
 image: https://static.independent.co.uk/2026/08/28/12/2250164110..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A man has been arrested on suspicion of fraud after making £500,000 selling bottles of counterfeit wine.

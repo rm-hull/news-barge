@@ -9,6 +9,10 @@ description: The proposal which the United States had drafted to extend the UN e
   panel’s mandate for a year was defeated by a vote of 11-2, with Somalia and Pakistan
   abstaining because of the Russian and Chinese vetoes.
 image: https://images.euronews.com/articles/stories/09/91/81/58/1200x675_cmsv2_2e4e4582-981d-5dc5-9ab1-b270ef44846b-9918158.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## The proposal which the United States had drafted to extend the UN expert panel’s mandate for a year was defeated by a vote of 11-2, with Somalia and Pakistan abstaining because of the Russian and Chinese vetoes.

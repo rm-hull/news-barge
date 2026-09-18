@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Match of the Day pundit Danny Murphy explains how Manchester City beat
   Manchester United at Old Trafford despite being down to 10 men for most of the game.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/db32/live/824c7730-afa5-11f1-a540-61c3f7fc4e6c.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Graphic for Danny Murphy's BBC Sport column](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/5866/live/4a841d90-e16a-11ef-a319-fb4e7360c4ec.png)

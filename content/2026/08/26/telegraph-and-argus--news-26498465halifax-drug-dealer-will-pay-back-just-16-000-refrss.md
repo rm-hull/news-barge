@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: A drug dealer who benefited by more than £360,000 will pay back just
   under £16,000.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21375948.jpg?type=og-image&xType=0&yType=595
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: West Yorkshire Police)*

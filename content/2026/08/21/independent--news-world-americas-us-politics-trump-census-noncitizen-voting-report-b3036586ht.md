@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Trump touts shoddy analysis and bogus data to claim ‘I WON THE ELECTION’
   as he pushes for sweeping restrictions on ballot access
 image: https://static.independent.co.uk/2026/08/20/18/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump’s ongoing crusade to prove he “won” the 2020 presidential election now relies on a dubious Census Bureau report that claims thousands of noncitizens “voted illegally.”

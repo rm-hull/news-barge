@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Troops escort settlers into al-Mughayyir and raze village outside Hebron
   as ethnic cleansing of West Bank continues
 image: https://i.guim.co.uk/img/media/8caf75c0b6765ad58f8e624407ff32725c5f1f22/385_0_4851_3883/master/4851.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84e9f018e1a5d6f2f822fe81636c1231
+categories:
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 Israelis have shot dead two teenagers in a Palestinian village encircled by settlers, and Israeli troops have razed an entire village outside Hebron, in the latest attacks in a surge of Israeli terror and ethnic cleansing across the occupied West Bank.

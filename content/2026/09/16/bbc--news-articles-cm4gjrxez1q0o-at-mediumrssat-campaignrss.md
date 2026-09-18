@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Forecasts of further rises in the inflation rate mean some analysts expect
   the Bank to act by the end of the year.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a58a/live/dab4a350-b1be-11f1-bdcf-d393eb724fa3.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![The exterior of the Bank of England with columns from a neighbouring building in the foreground.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a58a/live/dab4a350-b1be-11f1-bdcf-d393eb724fa3.jpg)

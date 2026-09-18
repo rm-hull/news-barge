@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: The WhatsApp money launderers arranged cash transfers in the UK and around
   the world with no paper trail.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e7b/live/835e38f0-a2fa-11f1-b109-879e35c24276.png
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![A composite image showing a stylised rendition of a phone with WhatsApp-style text message bubbles in grey and green, with one displaying currency symbols. On the right-hand side is an image of an IS militant with his face covered with a balaclava and carrying an assault rifle, with an image of war-torn Syria behind him.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/4e7b/live/835e38f0-a2fa-11f1-b109-879e35c24276.png)

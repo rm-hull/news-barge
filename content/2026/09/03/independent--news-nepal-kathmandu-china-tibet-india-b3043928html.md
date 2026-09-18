@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Some survivors in Nepal's relief camps after deadly floods are struggling
   to obtain essential medicines and cash
 image: https://static.independent.co.uk/2026/09/03/08/APTOPIX_Nepal_Flash_Floods_52348.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Some survivors sheltering in relief camps after deadly floods in Nepal were struggling Thursday to obtain essential medicines and cash, even as authorities provided food and other basic supplies to thousands of displaced people.

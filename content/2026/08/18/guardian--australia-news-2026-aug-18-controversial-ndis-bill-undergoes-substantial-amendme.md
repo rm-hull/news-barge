@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: David Pocock says legislation still includes ‘indiscriminate cut’ impacting
   thousands of participants but will pass lower house on Wednesday
 image: https://i.guim.co.uk/img/media/e42b30533457d8cb26aaedfc890434d0b0454c93/335_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a41c37a297d2521fd6619f6ef8f1b10e
+categories:
+- UK
+- News & Politics
 ---
 
 The government’s controversial NDIS bill will pass after “substantial” amendments were agreed to in a deal between Labor and the Coalition, with some of the changes attracting heavy criticism from the Greens, the ACT senator David Pocock and the disability community.

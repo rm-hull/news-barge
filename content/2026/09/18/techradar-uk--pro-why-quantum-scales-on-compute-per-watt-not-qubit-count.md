@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T19:01:25Z'
 published: '2026-09-18T00:00:00Z'
 description: Quantum scales on economic metrics
 image: https://cdn.mos.cms.futurecdn.net/d4oN2QTeNf8QYJDmjZnAKE-1920-80.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 ![Quantum computing](https://cdn.mos.cms.futurecdn.net/d4oN2QTeNf8QYJDmjZnAKE.jpg) 

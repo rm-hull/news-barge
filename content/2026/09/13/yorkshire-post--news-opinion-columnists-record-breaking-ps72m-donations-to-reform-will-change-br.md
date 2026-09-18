@@ -10,6 +10,12 @@ description: The combined £72m donations made by fellow Sheffield-born crypto-b
   Ben Delo and Christopher Harborne represent a hugely significant moment in British
   politics.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjUwZGYzOTU0LThjYWEtNDhkYy05ZjcwLTBjZDc3M2Q2MGJhNjo4YjQ3NGI1Yy05ZTcyLTQ1ZTktOTMxYi0wNmI4YTljODRhZWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- History
 ---
 
 # Record-breaking £72m donations to Reform will change British politics: The Yorkshire Post says

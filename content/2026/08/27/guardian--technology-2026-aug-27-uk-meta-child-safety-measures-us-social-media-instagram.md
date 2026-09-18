@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Minister calls for Instagram owner to extend sweeping new safeguards
   for young users to Britain
 image: https://i.guim.co.uk/img/media/4d8c4a856045f9bff055d4199099566e7c72cbb1/821_0_4865_3892/master/4865.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04ea3ff2b1ded8108784b9ed70330394
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The UK government expects the Instagram owner Meta to roll out the same protections for children in Britain as those it agreed in the US on Wednesday, as part of a court settlement that could cost the company up to $18bn (£13bn).

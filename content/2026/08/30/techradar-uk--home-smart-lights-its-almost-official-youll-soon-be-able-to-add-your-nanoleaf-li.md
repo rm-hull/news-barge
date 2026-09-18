@@ -9,6 +9,8 @@ published: '2026-08-30T00:00:00Z'
 description: We've got another indication that a previously rumored link-up between
   Philips Hue and Nanoleaf is happening.
 image: https://cdn.mos.cms.futurecdn.net/fNGUC26G9jWfHQrDpHqu2b-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The philips hue app next to nanoleaf shapes](https://cdn.mos.cms.futurecdn.net/fNGUC26G9jWfHQrDpHqu2b.jpg) 

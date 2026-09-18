@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T12:01:19Z'
 published: '2026-08-27T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/cctv-burglary-acorn-way-york-31-july-2026.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 Do you know this man?

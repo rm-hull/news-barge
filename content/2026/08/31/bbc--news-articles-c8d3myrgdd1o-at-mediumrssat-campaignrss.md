@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: This year's jab has a few tweaks, including changes to better combat
   the Super-K strain.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d73b/live/cf577dd0-a2f9-11f1-8d5b-155abe464768.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Sports
 ---
 
 ![A girl getting her nasal flu vaccine from her GP](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d73b/live/cf577dd0-a2f9-11f1-8d5b-155abe464768.jpg)

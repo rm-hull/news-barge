@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Melissa Mender-Franklin wanted to grow flowers and own a flower shop,
   but she had no land to grow them on
 image: https://static.independent.co.uk/2026/08/18/05/Gardening_Crowdsourcing_Flower_Beds_32353.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Home, Garden & DIY
 ---
 
 When Marisa Mender-Franklin walks through any of the nine flower farms she runs in Memphis, Tennessee, her first thoughts are of gratitude. Partly for the flowers and the bees, but mostly for the support of her neighbors.

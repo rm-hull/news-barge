@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: As extreme temperatures of 40C or more appear to become the norm, a group
   of filmmakers have taken an unorthodox approach to raising awareness
 image: https://static.independent.co.uk/2026/08/24/13/33/Screenshot-2026-08-24-at-14-54-04.png?trim=9,0,231,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 In a bid to bring public attention to the global climate crisis, a group of filmmakers have taken an unusual approach; recruiting OnlyFans stars.

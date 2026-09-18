@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: THE great days of the small, private bus operators began just after the
   First World War and faded out in the decades after the Second as they were…
 image: https://www.thenorthernecho.co.uk/resources/images/21432282.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 THE great days of the small, private bus operators began just after the First World War and faded out in the decades after the Second as they were overtaken by car ownership, but interest in them has never been greater.

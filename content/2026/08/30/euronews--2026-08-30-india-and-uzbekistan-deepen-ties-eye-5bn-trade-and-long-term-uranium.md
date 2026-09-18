@@ -9,6 +9,10 @@ description: The two governments also broadened cooperation on critical minerals
   defence, digital payments and transport. A new foreign minister-level mechanism
   will oversee implementation, alongside expanded education and regional links.
 image: https://images.euronews.com/articles/stories/09/89/44/21/1200x675_cmsv2_8183a4dc-2dbb-5d4a-9cd2-c65450ec50ed-9894421.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## The two governments also broadened cooperation on critical minerals, defence, digital payments and transport. A new foreign minister-level mechanism will oversee implementation, alongside expanded education and regional links.

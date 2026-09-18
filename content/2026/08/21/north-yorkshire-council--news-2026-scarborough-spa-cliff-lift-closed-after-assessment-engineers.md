@@ -9,6 +9,12 @@ description: Scarborough Spa Cliff Lift has been closed with immediate effect du
   to a number of issues which have been identified with its infrastructure and critical
   components.
 image: https://www.northyorks.gov.uk/sites/default/files/2026-08/1Scarborough%20Spa%20Cliff%20Lift.JPG
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- News & Politics
 ---
 
 ![An view of Scarborough Spa Cliff Lift with the beach in the background.](https://www.northyorks.gov.uk/sites/default/files/2026-08/1Scarborough%20Spa%20Cliff%20Lift.JPG) 

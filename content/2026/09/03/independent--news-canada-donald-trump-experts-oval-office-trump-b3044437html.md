@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: President Donald Trump falsely claimed on Wednesday that U.S. banks are
   not allowed to do business in Canada
 image: https://static.independent.co.uk/2026/09/03/21/Canada_US_Trade_16194.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 Asked about the trade war with Canada on Wednesday, President Donald Trump falsely claimed that U.S. banks are not allowed to do business with its neighbor to the north.

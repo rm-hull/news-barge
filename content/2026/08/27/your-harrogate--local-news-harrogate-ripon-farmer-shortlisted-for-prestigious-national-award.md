@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: A farmer near Ripon has been shortlisted for a prestigious national award
   after transforming the way his family farm operates.
 image: https://mmo.aiircdn.com/409/6a901d480a38523305c.jpg
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
 ---
 
 ![](https://mmo.aiircdn.com/409/6a901d480a38523305c.jpg) 

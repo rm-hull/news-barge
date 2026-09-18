@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: A wildlife rescuer has urged people to help injured animals after making
   a grim discovery near a Darlington school.
 image: https://www.thenorthernecho.co.uk/resources/images/21438680.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Darlington Bird Rescue)*

@@ -8,6 +8,10 @@ scraped_at: '2026-09-16T22:53:46Z'
 published: '2026-09-16T00:00:00Z'
 description: Young people have concerns
 image: https://cdn.mos.cms.futurecdn.net/YuCLf7xjRg2vqTaEQiTWDH-1920-80.jpg
+categories:
+- Technology & Software
+- Society & Culture
+- Health & Fitness
 ---
 
 ![AI worries](https://cdn.mos.cms.futurecdn.net/YuCLf7xjRg2vqTaEQiTWDH.jpg) 

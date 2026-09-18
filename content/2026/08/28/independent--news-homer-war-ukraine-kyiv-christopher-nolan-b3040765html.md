@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: A new production of the “The Odyssey” in wartime Kyiv reimagines Homer’s
   epic through the experience of modern Ukraine
 image: https://static.independent.co.uk/2026/08/28/05/Russia_Ukraine_War_Azov_Odyssey_47731.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 War’s timeless ache — death, captivity, the agonizing wait and the pull of home — has found a new stage in wartime Kyiv, with Homer’s epic reimagined as a contemporary Ukrainian odyssey.

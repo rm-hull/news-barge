@@ -9,6 +9,8 @@ published: '2026-09-07T00:00:00Z'
 description: The team at Philips Hue isn't just using AI for its own sake, and Merolla
   is "super excited" about what's next.
 image: https://cdn.mos.cms.futurecdn.net/JyMqRSWC9EKECK7fYn9JCm-800-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Philips Hue smart light](https://cdn.mos.cms.futurecdn.net/JyMqRSWC9EKECK7fYn9JCm.jpg) 

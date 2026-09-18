@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Bonnier Books will no longer publish UK’s top-selling true crime author
   following Guardian investigation
 image: https://i.guim.co.uk/img/media/90d089608b9b572ac486812a67922b126e1e657f/331_88_3170_2536/master/3170.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6526bbe48a1a31c854b9500cf3bc4e67
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 The main publisher of the bestselling true crime writer Christopher Berry-Dee has dropped the author after a Guardian investigation into allegations of violence and sexual abuse against him, which he denies. Waterstones has also removed his books from sale.

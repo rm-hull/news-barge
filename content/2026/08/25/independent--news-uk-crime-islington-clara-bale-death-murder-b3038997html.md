@@ -7,6 +7,11 @@ scraped_at: '2026-08-25T16:50:25Z'
 published: '2026-08-25T00:00:00Z'
 description: Four women and two men aged were arrested on suspicion of murder
 image: https://static.independent.co.uk/2026/08/25/16/01M0W6Q87K7274PMJ1Y6GC2EV1.jpg?trim=33,0,33,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- History
 ---
 
 A grieving family says the death of their “brilliant” daughter in a north London flat has left them with “an immeasurable void” in their lives.

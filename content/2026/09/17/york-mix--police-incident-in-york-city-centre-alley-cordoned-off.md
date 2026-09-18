@@ -8,6 +8,10 @@ scraped_at: '2026-09-17T13:23:42Z'
 published: '2026-09-17T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-police-incident-spurriergate-church-lane-alleway-17-sept-2026-1.webp
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 Police in York are investigating a serious sexual assault that took place last night (Wednesday).

@@ -8,6 +8,9 @@ published: '2026-09-12T00:00:00Z'
 description: The BBC is cutting the show because of financial pressures, sparking
   discussion about LGBTQ+ representation on TV.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dae6/live/c63cac10-adef-11f1-ad53-0d91a06f3150.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Four people, Michelle Visage, RuPaul, Graham Norton and Alan Carr, stand on a brightly lit runway in the foreground. The central figure wears a fitted black gown with long black gloves and stands in front of a circular golden backdrop. To the left, one person wears a short black-and-white striped dress with spiral designs on the chest. To the right, one person wears a black suit jacket with floral embroidery, and another wears a shiny red suit with floral embellishments. The stage features a reflective floor, a purple geometric wall pattern, and illuminated steps leading to the backdrop.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/75c8/live/d8f50ec0-ade9-11f1-bc1f-3f186ca4140c.jpg)

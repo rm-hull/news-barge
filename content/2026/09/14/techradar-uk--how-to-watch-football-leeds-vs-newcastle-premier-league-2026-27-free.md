@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: All the ways to watch Leeds vs Newcastle live streams in the Premier
   League 2026/27, including for free, as two unbeaten teams meet on Monday night.
 image: https://cdn.mos.cms.futurecdn.net/EaYSuxRkTBUNGmKNPTmzr-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Video Gaming
 ---
 
 ![James Trafford of Leeds United celebrates after Jayden Bogle scores Leeds' first goal of the Premier League 2026/27 game against Brighton & Hove Albion at American Express Stadium on September 5, 2026](https://cdn.mos.cms.futurecdn.net/EaYSuxRkTBUNGmKNPTmzr.jpg) 

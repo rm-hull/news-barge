@@ -8,6 +8,10 @@ scraped_at: '2026-08-25T13:08:37Z'
 published: '2026-08-25T00:00:00Z'
 description: Similar feats involving Crysis are probably still a long way off.
 image: https://cdn.mos.cms.futurecdn.net/m8WeqAwVHW4DJ8AykHcvTk-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Doom on an AI-designed CPU](https://cdn.mos.cms.futurecdn.net/m8WeqAwVHW4DJ8AykHcvTk.jpg) 

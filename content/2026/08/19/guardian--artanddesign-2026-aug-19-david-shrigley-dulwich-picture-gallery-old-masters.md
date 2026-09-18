@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Dulwich Picture Gallery show to feature British artist’s work hung next
   to paintings by Dutch and Flemish greats
 image: https://i.guim.co.uk/img/media/68cf107fb438029eedbdc05fb75a0788495cc59a/818_345_4090_3271/master/4090.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a62c688e275516daab702356e4ed83b
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 The contemporary UK artist David Shrigley will apply his trademark arch humour and distinctive artistic practice “in dialogue” with old masters of Dutch and Flemish painting in a major new solo exhibition in London.

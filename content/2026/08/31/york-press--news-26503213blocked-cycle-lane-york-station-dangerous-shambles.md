@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Our letter writer calls the blocked cycle lane to York Railway Station
   a 'dangerous shambles' - what is your view?
 image: https://www.yorkpress.co.uk/resources/images/21383044.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 ## Blocked cycle lane to York Railway Station called 'dangerous shambles'

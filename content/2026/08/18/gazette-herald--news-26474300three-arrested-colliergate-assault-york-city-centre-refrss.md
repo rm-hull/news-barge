@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A woman is recovering from her injuries and police investigations are
   continuing following an alleged assault in York city centre.
 image: https://www.gazetteherald.co.uk/resources/images/21335458.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 A WOMAN is recovering from her injuries and police investigations are continuing following an alleged assault in York city centre.

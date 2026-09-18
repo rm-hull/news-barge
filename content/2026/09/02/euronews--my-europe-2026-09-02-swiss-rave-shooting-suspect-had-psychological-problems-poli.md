@@ -9,6 +9,10 @@ description: 'Police said two pistols and an AK-74 rifle were found in the suspe
   vehicle, with initial forensic analysis linking the weapons to cartridge cases found
   at the scene. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/89/97/1200x675_cmsv2_a76e691b-5c40-5e28-a2bb-8af712084f79-9898997.jpg
+categories:
+- Europe
+- News & Politics
+- True Crime
 ---
 
 ## Police said two pistols and an AK-74 rifle were found in the suspect's vehicle, with initial forensic analysis linking the weapons to cartridge cases found at the scene.

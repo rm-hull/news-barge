@@ -8,6 +8,10 @@ scraped_at: '2026-09-06T04:28:48Z'
 published: '2026-09-06T00:00:00Z'
 description: Follow today’s news live
 image: https://i.guim.co.uk/img/media/75a1c5446f424c71e43f225adb33cad39eb3c56a/411_0_4111_3289/master/4111.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0147ab09e65a90a687efe2110c758241
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Up to 6,000 tradies will get free qualifications under a $78m federal scheme designed to tackle construction skills shortages.

@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Aliko Dangote, Africa's richest man, is opening a portion of his refinery
   to public ownership in Africa's biggest initial public offering
 image: https://static.independent.co.uk/2026/09/14/12/Nigeria-Dangote_Refinery__5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Nigerian industrialist Aliko Dangote opened his refinery to public ownership Monday with plans to raise $1.6 billion from retail investors across the continent in Africa’s biggest initial public offering, or IPO.

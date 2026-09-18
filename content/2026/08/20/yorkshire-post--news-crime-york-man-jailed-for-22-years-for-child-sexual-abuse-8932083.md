@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: A man has been jailed for 22 years for child sexual abuse offences and
   possessing indecent images of children.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjU3ZDk5NmYyLTA3OGUtNGMwYy1iNjkxLTBhNTI0ZjZhODE0ZDpjZTFlY2NlMy01OWM4LTRiNmItOTFkMC0wODAzNDE4OWU5MTM=.png?crop=3:2,smart&trim=&width=900&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
+- Society & Culture
 ---
 
 # York man jailed for 22 years for child sexual abuse

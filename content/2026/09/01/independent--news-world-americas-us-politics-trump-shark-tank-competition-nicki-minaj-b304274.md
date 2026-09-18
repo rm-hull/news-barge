@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: Nicki Minaj and Dean Cain are both ardent supporters of President Donald
   Trump
 image: https://static.independent.co.uk/2026/07/02/13/06/GettyImages-2258686448.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Trump administration is set to host its own *Shark Tan* k-style competition later this month, with rapper Nicki Minaj and*Superman* actor Dean Cain as judges.

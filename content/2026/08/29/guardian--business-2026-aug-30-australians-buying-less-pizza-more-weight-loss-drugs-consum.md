@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: August reporting season shows how consumers are responding to cost of
   living pressures and how retailers are responding
 image: https://i.guim.co.uk/img/media/c2ccbe52fb2b78770e836c26c0ceb37399a0822f/390_0_5918_4737/master/5918.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02edaa74c1cb2aff88e4b348c6202418
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 High petrol and diesel prices are causing Australians to turn to electric vehicles, with almost a third of new car sales in July being an EV. Photograph: Dan Himbrechts/AAP

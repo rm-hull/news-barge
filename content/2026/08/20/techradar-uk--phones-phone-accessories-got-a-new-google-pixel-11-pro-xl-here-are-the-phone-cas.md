@@ -8,6 +8,8 @@ scraped_at: '2026-08-20T20:42:02Z'
 published: '2026-08-20T00:00:00Z'
 description: Trustworthy cases to keep your phone protected and looking good.
 image: https://cdn.mos.cms.futurecdn.net/8UpTiMvemWuzp4HnXYk7vR-2128-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Selection of Google Pixel 11 Pro XL cases on a sun lounger next to a pool](https://cdn.mos.cms.futurecdn.net/8UpTiMvemWuzp4HnXYk7vR.jpg) 

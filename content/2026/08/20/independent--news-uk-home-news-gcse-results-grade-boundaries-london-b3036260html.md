@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The proportion of GCSE entries awarded top grades has risen from last
   year, but the rate scoring a decent pass has returned to pre-pandemic levels
 image: https://static.independent.co.uk/2026/08/20/11/01M0F855ESHSKV0QCT2X59CKAA.jpg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The gap in GCSE results has widened, with London extending its lead over northern England and the Midlands in top grades, exam figures show.

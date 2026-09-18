@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Raheem Sterling will appear in court next month to face charges of dangerous
   driving after crashing his car into motorway barriers in May.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/225a/live/77b8e540-a0ca-11f1-ad58-4d48ded76db6.jpg
+categories:
+- UK
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 ![Raheem Sterling in a Feyenoord club shirt](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/225a/live/77b8e540-a0ca-11f1-ad58-4d48ded76db6.jpg)

@@ -10,6 +10,10 @@ description: School buses for decades have maintained such a standard look acros
   the U.S. that “school bus yellow” is shorthand for the bright hue with a slight
   orange tint
 image: https://static.independent.co.uk/2026/08/21/16/America_25__Objects_School_Buses_886_2.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 They arrived in a kaleidoscope of colors, but one won. For decades, the American school bus has maintained such a standard look that “school bus yellow” is national shorthand for their deep, glossy hue.

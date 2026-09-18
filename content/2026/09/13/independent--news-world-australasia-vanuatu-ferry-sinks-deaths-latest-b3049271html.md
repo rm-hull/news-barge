@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Prime minister’s office says tragedy ‘result of strong winds and marine
   warnings not being heeded’
 image: https://static.independent.co.uk/2026/09/13/04/2273218903..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 Emergency teams were searching for more than 30 people after an inter-island ferry sank in Vanuatu, leaving at least one person dead.

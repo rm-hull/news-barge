@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Family of late King Oyo Nyimba Kabamba Iguru Rukidi IV reject committee’s
   choice of cousin and TV presenter as new monarch
 image: https://i.guim.co.uk/img/media/26f6df1db2da6edf8df0cbe6a88cccefcbc59278/551_0_3353_2682/master/3353.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3dcc7a510de9b20db46ba9d9c7db4f63
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 A traditional Ugandan kingdom has become engulfed in a bitter succession dispute after the family of a king who recently died rejected the selection of a television news anchor as his successor.

@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Officials say last week's fast-moving wildfire in western Canada destroyed
   or damaged about 150 structures, forcing over 20,000 people to evacuate
 image: https://static.independent.co.uk/2026/08/18/20/APTOPIX_Canada_Wildfires_94928.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 About 150 structures were destroyed or damaged by a fast-moving wildfire in western Canada that forced more than 20,000 people to evacuate last week, officials said Tuesday in the first detailed accounting of the toll.

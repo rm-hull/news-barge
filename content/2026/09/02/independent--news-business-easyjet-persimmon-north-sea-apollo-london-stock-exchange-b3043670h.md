@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: EayJet’s return comes six months after it was demoted to the lower ranks
   of the FTSE 250.
 image: https://static.independent.co.uk/2026/09/02/18/c70341a06be3f73f649d4a2b7b81f3a8Y29udGVudHNlYXJjaGFwaSwxNzg4NDUxODg4-2.79098136.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 EasyJet has rejoined the FTSE 100, but its return could be short-lived after the company agreed to be bought by a private equity firm in a £5.7 billion deal.

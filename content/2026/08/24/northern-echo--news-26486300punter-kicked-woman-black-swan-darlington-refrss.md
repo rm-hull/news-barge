@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: A man who tried to prevent onlookers from intervening in a pub brawl
   involving his partner, delivered a kick to the prone woman with whom she was…
 image: https://www.thenorthernecho.co.uk/resources/images/20709103.jpg?type=og-image&xType=0&yType=108
+categories:
+- Local
+- UK
+- News & Politics
+- Relationships & Dating
 ---
 
 *(Image: THE NORTHERN ECHO)*

@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Jo Boydell had been criticised for the company's handling of issues with
   its safety and security.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6abd/live/b8e96d70-9c6d-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 In an interview with the BBC, Travelodge chief executive Jo Boydell says she only became aware of the assault during the court case almost three years later

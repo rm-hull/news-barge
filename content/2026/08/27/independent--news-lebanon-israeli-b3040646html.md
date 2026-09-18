@@ -9,6 +9,11 @@ description: A basketball court at a public school in Tyre, Lebanon, has become 
   shelter, lined with rooms for children and families displaced from villages that
   were destroyed or remain occupied by Israeli forces.
 image: https://static.independent.co.uk/2026/08/27/20/Lebanon_Displaced_Schools__4423.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Family & Parenting
 ---
 
 A basketball court shelters displaced families in Lebanon, in photos

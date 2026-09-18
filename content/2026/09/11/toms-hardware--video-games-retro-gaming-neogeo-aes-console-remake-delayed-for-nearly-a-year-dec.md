@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Console should be a 1:1 hardware-based replica of the original home/arcade
   system.
 image: https://cdn.mos.cms.futurecdn.net/oFJLfBsf6h3L7KFfPwx3eN-1961-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![NeoGeo AES](https://cdn.mos.cms.futurecdn.net/oFJLfBsf6h3L7KFfPwx3eN.png) 

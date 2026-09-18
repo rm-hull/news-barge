@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: ‘Grand Theft Auto VI’ is nigh. Here’s what the developer revealed about
   its highly anticipated game.
 image: https://media.wired.com/photos/6a907fb15033b3e1c94cf8ed/191:100/w_1280,c_limit/5-Takeaways-GTA6-Gear-Jason_and_Lucia_Motel_landscape.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 It’s safe to say *Grand Theft Auto VI* is the most anticipated game ever. Thirteen years after the last entry in the series, rampant fervor and speculation about what features the game will include have ratcheted up. Today, Rockstar Games divulged more details through an exclusive livestream event on Netflix called*Grand Theft Auto VI: An Extended Look*. The spectacle was a 26-minute-long collection of gameplay, cutscenes, and game mechanics.

@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Paris has been grappling with intense heat and illustrator Marina Antonova
   captures this in her series ‘Chronicles of a Heating Planet’
 image: https://static.independent.co.uk/2026/09/15/06/France_Extreme_Heat_Artist_144_4.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 As Paris transitions into the cooler temperatures of autumn following months of intense heat, the memory of France’s hottest summer on record remains vivid — preserved in the work of illustrator Marina Antonova.

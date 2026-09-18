@@ -10,6 +10,10 @@ description: The case of a Texas teenager convicted of fatally stabbing a 17-yea
   track athlete from a rival team during a high school meet in suburban Dallas is
   back in court this week
 image: https://static.independent.co.uk/2026/08/19/05/Track_Meet_Student_Killed_66533.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A Texas teenager convicted of fatally stabbing a 17-year-old athlete at a high school track meet is arguing that a judge did not fairly preside over the high-profile case and is asking for a new trial.

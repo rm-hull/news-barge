@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: The conspiracy theory, which got its start in the pandemic, has long
   been debunked
 image: https://static.independent.co.uk/2026/09/11/07/2294074132..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 The Robert F. Kennedy Jr -led Health and Human Services Department, which has been working to limit vaccines, is now targeting 5G networks with a callout for the public’s comments on potential health effects related to the debunked theory.

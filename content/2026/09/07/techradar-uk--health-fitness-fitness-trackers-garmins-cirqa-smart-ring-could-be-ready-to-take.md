@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: Garmin’s top-secret Cirqa Smart Ring might have been revealed in a new
   leak
 image: https://cdn.mos.cms.futurecdn.net/APeFseMq7CAPenYrvDY6tS-2560-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![Oura Ring](https://cdn.mos.cms.futurecdn.net/APeFseMq7CAPenYrvDY6tS.jpg) 

@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Representatives from tech firms such as Nvidia and OpenAI were also part
   of the summit.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bc97/live/7b12bc60-b296-11f1-9b18-ad61bef6e34f.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![King Charles wearing a grey suit jacket and white shirt and pink tie, talking to Jensen Huang, the CEO of Nvidia, who is wearing a dark suit, white shirt and blue tie.](https://ichef.bbci.co.uk/ace/standard/820/cpsprodpb/bc97/live/7b12bc60-b296-11f1-9b18-ad61bef6e34f.jpg)

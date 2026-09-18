@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: A shop owner in the Bradford district has spoken of their disgust after
   yobs smashed two windows with a beer keg.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21408094.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: UpCycle)*

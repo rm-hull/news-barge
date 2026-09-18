@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Man, who had arrived in Turin from Miami via Istanbul, under investigation
   for smuggling and faces fine or prison
 image: https://i.guim.co.uk/img/media/08c4c0e4621a46ad3f045ac76fb6a76e94e526e1/71_0_1103_882/master/1103.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b444125028fbab68edc0368f738548e
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 An Italian man is facing a hefty fine or possible prison term after the dried head of a critically endangered crocodile was found in his luggage at Turin’s Caselle airport.

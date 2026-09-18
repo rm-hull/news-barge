@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: 'Awareness about wearing a hat has grown as Europe struggles with successive
   heatwaves and forest fires. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/51/55/1200x675_cmsv2_70f24620-b30d-5db7-bc54-3c19f8962555-9885155.jpg
+categories:
+- Europe
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 ## Awareness about wearing a hat has grown as Europe struggles with successive heatwaves and forest fires.

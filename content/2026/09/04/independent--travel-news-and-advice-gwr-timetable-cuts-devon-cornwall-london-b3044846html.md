@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: ‘Performance and punctuality hasn’t been good enough recently’ operator
   admits in email
 image: https://static.independent.co.uk/2026/09/04/14/02/Par_-_GWR_175112_blocking_platform_2.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 Great Western Railway is cutting its timetable in order to reduce cancellations caused by the unreliability of its fleet of trains.

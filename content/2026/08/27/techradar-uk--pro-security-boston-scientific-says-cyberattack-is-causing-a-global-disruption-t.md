@@ -8,6 +8,10 @@ scraped_at: '2026-08-27T22:14:23Z'
 published: '2026-08-27T00:00:00Z'
 description: The company did not say what kind of attack it suffered
 image: https://cdn.mos.cms.futurecdn.net/wV66hEbpJdAc4iPB7RwtkK-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Science
 ---
 
 ![An exclamation mark inside a red warning triangle, surrounded by email symbols, superimposed on someone typing on a laptop](https://cdn.mos.cms.futurecdn.net/wV66hEbpJdAc4iPB7RwtkK.jpg) 

@@ -9,6 +9,12 @@ published: '2026-08-21T00:00:00Z'
 description: Martin Foster did Clayton proud on the international stage on this day
   in 1976, as he helped England claim team glory against The Rest of the World.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21343750.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
+- History
 ---
 
 *(Image: UGC)*

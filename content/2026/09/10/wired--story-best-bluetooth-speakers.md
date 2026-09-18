@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T12:53:47Z'
 published: '2026-09-10T00:00:00Z'
 description: I tested portable speakers of all shapes and sizes, from pocket to party-sized.
 image: https://media.wired.com/photos/6aa200b3c37f42357d6ac6ea/191:100/w_1280,c_limit/The-Best-Bluetooth-Speakers-for-Tunes-Anywhere-You-Go.jpg
+categories:
+- Technology & Software
+- Science
+- Lifestyle & Fashion
 ---
 
 If you want to bring your music everywhere, the humble Bluetooth speaker is your best bet. You’ll lose some audio quality compared to bookshelf speakers, but these days, Bluetooth speakers sound pretty great, and let you blast the tunes wherever you go—the backyard, the beach, and beyond.

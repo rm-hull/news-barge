@@ -11,6 +11,11 @@ description: Photos show Gloria Steinem through the decades as a leading voice o
   co-founder, known for taking her message to rallies, marches and campuses, has died
   at 92.
 image: https://static.independent.co.uk/2026/09/03/14/Gloria_Steinem__6767.jpg?trim=0,14,0,14&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Arts & Culture
 ---
 
 Photos show Gloria Steinem through decades as a leading voice of the women’s movement

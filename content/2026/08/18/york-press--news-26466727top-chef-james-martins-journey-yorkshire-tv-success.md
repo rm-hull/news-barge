@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: From Castle Howard to TV fame, MAXINE GORDON looks back at the Yorkshire
   roots of top chef James Martin
 image: https://www.yorkpress.co.uk/resources/images/17281733.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## ‘I cooked for the Queen Mother aged 12’: James Martin on his Yorkshire childhood

@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Pubs will donate 5p from every pint of Carling sold this month to support
   food banks in their communities.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21404977.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Proper Pubs)*

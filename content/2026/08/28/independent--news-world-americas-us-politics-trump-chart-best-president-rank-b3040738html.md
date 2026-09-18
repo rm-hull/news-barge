@@ -10,6 +10,11 @@ description: President Trump remains popular with Republicans, though his approv
   ratings are low overall and historians tend to rank him as one of the worst presidents
   in history
 image: https://static.independent.co.uk/2026/08/28/1/40/Screenshot-2026-08-27-at-6-41-49-PM.png?trim=12,0,3,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 President Trump has shared a chart ranking the best U.S. presidents, and the Republican predictably put himself in the top spot, above such heavyweights as George Washington and Abraham Lincoln.

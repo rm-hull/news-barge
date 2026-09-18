@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Asian shares have declined after stocks slipped on Wall Street and as
   a bond market sell-off deepens
 image: https://static.independent.co.uk/2026/09/02/06/South_Korea_Financial_Markets__3472.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Asian shares tumbled Wednesday after stocks slipped on Wall Street and as a bond market sell-off deepened globally.

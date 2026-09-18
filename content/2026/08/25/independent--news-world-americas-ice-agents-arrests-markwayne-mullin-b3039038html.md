@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: In the month prior to Trump taking office, monthly immigration arrests
   hovered just above 8,000
 image: https://static.independent.co.uk/2026/08/11/21/2227416892..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Newly released government figures show that U.S. Immigration and Customs Enforcement arrested nearly 50,000 individuals in July, the highest single-month arrest total recorded so far under the second Trump administration.

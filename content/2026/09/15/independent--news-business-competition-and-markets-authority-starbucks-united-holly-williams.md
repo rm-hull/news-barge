@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The Competition and Markets Authority said the deal between the mutuals,
   which was announced in April, could ‘substantially’ lessen competition.
 image: https://static.independent.co.uk/2026/09/15/12/15115913-2f398cce-3d70-43ca-b9d8-22c36948d397.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The Co-operative Group’s planned takeover of rival Southern Co-op could face a full-scale investigation after the UK’s competition watchdog warned over the tie-up.

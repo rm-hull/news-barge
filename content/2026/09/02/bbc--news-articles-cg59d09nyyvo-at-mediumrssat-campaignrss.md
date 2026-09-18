@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Alastair Chambers says the mix-up was after he returned to Kathmandu
   after flying back in an aid helicopter.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/28d2/live/e33af8e0-a6aa-11f1-b048-153395f36aa1.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Alastair Chambers (centre) standing in between two others holding a sleeping bag and looking straight at the camera](https://ichef.bbci.co.uk/ace/standard/750/cpsprodpb/28d2/live/e33af8e0-a6aa-11f1-b048-153395f36aa1.jpg)

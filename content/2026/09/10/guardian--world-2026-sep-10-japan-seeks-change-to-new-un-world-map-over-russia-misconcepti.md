@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: The new ‘true-scale’ map shrinks Europe and North America while enlarging
   Africa – and depicts the disputed Kuril islands as ruled by Moscow
 image: https://i.guim.co.uk/img/media/df36572b9fe9c136ffa59888bc8f7842cc00a0ee/774_0_2745_2199/master/2745.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6775fc16965857e8e57a651656edd3c5
+categories:
+- UK
+- News & Politics
+- History
+- Society & Culture
 ---
 
 Japan has asked for the revision of a new world map adopted by the UN because it said it made the disputed Kuril islands appear to belong to Russia.

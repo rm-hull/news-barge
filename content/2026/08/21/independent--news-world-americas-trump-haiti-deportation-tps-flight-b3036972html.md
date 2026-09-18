@@ -10,6 +10,11 @@ description: The U.S. returned more than 160 individuals to Haiti on Thursday, m
   the first such flight since the Trump administration legally ended Temporary Protected
   Status for about 350,000 Haitians.
 image: https://static.independent.co.uk/2026/08/21/04/APTOPIX_Haiti_Displaced_39_56.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 The U.S. returned more than 160 individuals to Haiti on Thursday, marking the first such flight since the Trump administration legally ended Temporary Protected Status for about 350,000 Haitians.

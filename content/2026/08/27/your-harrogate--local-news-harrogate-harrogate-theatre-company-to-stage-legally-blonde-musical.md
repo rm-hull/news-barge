@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A Harrogate-based theatre company is bringing the hit musical Legally
   Blonde to the stage in Leeds.
 image: https://mmo.aiircdn.com/409/6a8ff76f6e535876bd1.jpg
+categories:
+- Local
+- Harrogate
+- Music
+- Arts & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8ff76f6e535876bd1.jpg) 

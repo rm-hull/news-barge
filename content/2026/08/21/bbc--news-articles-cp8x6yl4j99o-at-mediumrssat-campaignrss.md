@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The alarm was raised on board the Ambassador Ambition before it arrived
   in Dundee on Friday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1f6e/live/ecf9b430-9d53-11f1-aac2-870643eea2ac.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![MS Ambition cruise ship sits docked in a body of water](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/1f6e/live/ecf9b430-9d53-11f1-aac2-870643eea2ac.jpg)

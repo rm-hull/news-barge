@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: Soaring demand for services has led to tenfold increase in spending in
   a year in some areas, says NHS Alliance
 image: https://i.guim.co.uk/img/media/4ab8f4570aa8258dfa5258d795885015c9a2c6c9/772_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7f173475d6415915dc19dc7dc853e965
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 NHS leaders have warned that the costs of meeting soaring demand for attention deficit hyperactivity disorder (ADHD) and autism services in England are “running out of control” and have become unsustainable, with spending in some areas rising by as much as tenfold over the course of a year.

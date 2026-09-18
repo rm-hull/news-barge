@@ -9,6 +9,10 @@ scraped_at: '2026-09-08T12:52:02Z'
 published: '2026-09-08T00:00:00Z'
 description: 44 synths available for free — just bring your own ROMs.
 image: https://cdn.mos.cms.futurecdn.net/8nEQ8yniz5uzW626DusaiZ-2048-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Music
 ---
 
 ![Akai MPC3000 synth/sampler](https://cdn.mos.cms.futurecdn.net/8nEQ8yniz5uzW626DusaiZ.jpg) 

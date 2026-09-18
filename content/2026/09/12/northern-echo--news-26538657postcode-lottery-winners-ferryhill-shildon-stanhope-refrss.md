@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Ten North East postcodes have won thousands of pounds in the postcode
   lottery over the last week. Check to see if you have won below.
 image: https://www.thenorthernecho.co.uk/resources/images/14351921.jpg?type=og-image&yType=43
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Postcode Lottery)*

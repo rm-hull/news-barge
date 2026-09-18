@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Scientists call for occupational radiation protections for all aircrew
   members
 image: https://static.independent.co.uk/2026/08/18/3/33/A-view-of-interior-of-the-pilot-cockpit-and-flight-deck-of-a-Boeing-777-9-jetliner.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- Technology & Software
 ---
 
 Flight attendants and pilots face the highest risk of death from radiation-related cancer, even higher than nuclear technologists, a new analysis of over 500 occupations reveals.

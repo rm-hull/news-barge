@@ -9,6 +9,10 @@ description: The United States’ debt has surpassed a record $40 trillion, a st
   milestone as defense costs, social programs and interest on the burgeoning deficit
   make up an enormous share of federal spending
 image: https://static.independent.co.uk/2026/08/20/17/Trump__497_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The United States' debt surpassed a record $40 trillion Wednesday, a staggering milestone as defense costs, social programs and interest on the burgeoning deficit make up an enormous share of federal spending.

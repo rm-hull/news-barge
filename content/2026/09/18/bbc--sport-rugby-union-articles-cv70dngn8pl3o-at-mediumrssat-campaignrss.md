@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Canada captain Sophie de Goede says she still loses sleep over their
   World Cup final loss to England last year.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1491/live/9d056630-b348-11f1-91a3-393282eb9f17.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Health & Fitness
 ---
 
 ![Sophie de Goede, in a red short-sleeved shirt, looking dejected after the 2025 World Cup final with blurred team-mates in the background](https://ichef.bbci.co.uk/ace/standard/710/cpsprodpb/1491/live/9d056630-b348-11f1-91a3-393282eb9f17.jpg)

@@ -9,6 +9,10 @@ description: Cristy Maryori Villafranca-Trejo represents at least the seventh sp
   or parent of an active-duty U.S. military member removed under President Trump's
   immigration crackdown
 image: https://static.independent.co.uk/2026/08/25/01/Immigration_Military_Spouse_Deported_66765.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Federal authorities deported the wife of an active-duty U.S. soldier to her native Honduras on Monday, family members and the U.S. Department of Homeland Security confirmed.

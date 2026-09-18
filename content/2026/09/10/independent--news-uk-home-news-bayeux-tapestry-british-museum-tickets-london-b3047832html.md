@@ -7,6 +7,11 @@ scraped_at: '2026-09-10T12:53:51Z'
 published: '2026-09-10T00:00:00Z'
 description: A number of visitors have dressed in medieval clothing for the occasion
 image: https://static.independent.co.uk/2026/09/10/10/01M257NEA2N7C76BFVWN5FG96Z.jpg?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Arts & Culture
 ---
 
 Crowds of people are queuing up to see the Bayeux Tapestry exhibition, which is being displayed at the British Museum for the first time.

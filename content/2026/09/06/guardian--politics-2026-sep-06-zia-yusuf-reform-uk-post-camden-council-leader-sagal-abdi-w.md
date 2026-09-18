@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: Reform UK’s home affairs spokesperson has faced criticism within party
   after post about Sagal Abdi-Wali, a former child refugee
 image: https://i.guim.co.uk/img/media/265fa4b3ff3437d829e4c3b0982c687299c3a847/526_0_4531_3624/master/4531.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fb5cbb962086bc045fe1e7e3ad7e06c
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Labour has accused Reform’s Zia Yusuf of “straightforward racism” after he suggested the party’s frontrunner to replace Keir Starmer in the Holborn and St Pancras byelection was not British.

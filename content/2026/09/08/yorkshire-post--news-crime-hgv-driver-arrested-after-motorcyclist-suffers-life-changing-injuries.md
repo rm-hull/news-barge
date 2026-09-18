@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A HGV driver has been arrested after a 62-year-old motorcyclist suffered
   serious, potentially life-changing injuries in a crash in East Yorkshire.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmYxNmUyZTY1LTc5NTgtNDZiZi04MGMwLTExNDk3NTJlNzFmZTo0NDI3ZmMyYi02NTZjLTQyYTUtYWZmOS0wNzYxOTMzMTQ3ZjQ=.png?crop=3:2,smart&trim=&width=735&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # HGV driver arrested after motorcyclist suffers life-changing injuries in crash

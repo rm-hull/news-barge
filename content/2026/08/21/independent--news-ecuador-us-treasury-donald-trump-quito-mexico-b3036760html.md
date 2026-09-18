@@ -9,6 +9,10 @@ description: The U.S. Treasury has sanctioned 15 people involved in a network al
   shipping cocaine from Ecuador through Mexico to the U.S. The operation uses Ecuador-based
   fishing vessels to transfer cocaine to power boats heading north
 image: https://static.independent.co.uk/2026/08/21/01/Ecuador_Drug_Trafficking_US_Sanctions_42721.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The U.S. Treasury on Thursday sanctioned 15 people for their involvement in a network that allegedly shipped thousands of kilograms of cocaine per month from Ecuador through Mexico, destined for the United States.

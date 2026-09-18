@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: Whoever picked up the phone at Bradford’s Nelson Street Fire Station
   at 2.33pm on Monday August 21st, 1916, would never have imagined the scenes…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21369865.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
+- Film & TV
 ---
 
 Whoever picked up the phone at Bradford’s Nelson Street Fire Station at 2.33pm on Monday August 21st, 1916, would never have imagined the scenes the city’s firemen were about to witness.

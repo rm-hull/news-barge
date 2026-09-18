@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: The historic settlement reignites ongoing concern around how age-verification
   technology puts privacy at risk.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2267997264.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Meta reached an $18 billion settlement on Wednesday over a lawsuit brought by 29 U.S. states concerning children’s safety. The settlement is historic in scale as Meta agrees with a group of 52 attorneys general to implement sweeping changes to how minors use Instagram and Facebook.

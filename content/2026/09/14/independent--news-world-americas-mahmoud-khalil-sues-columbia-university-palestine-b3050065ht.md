@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: Khalil spent 104 days in a Louisiana immigration facility, missing the
   birth of his first child, until a federal judge in New Jersey ordered his release
 image: https://static.independent.co.uk/2026/09/14/18/2239340162..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Palestinian activist Mahmoud Khalil has sued Columbia University, alleging administrators failed to address harassment directed at him and members of a pro-Palestinian campus organization, and retaliated when the abuse was reported.

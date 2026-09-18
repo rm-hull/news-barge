@@ -9,6 +9,10 @@ scraped_at: '2026-08-26T16:56:06Z'
 published: '2026-08-26T00:00:00Z'
 description: The group has apparently been operating since 2018.
 image: https://cdn.mos.cms.futurecdn.net/CmM2jsgtAUNEHVoV48L8rh-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- News & Politics
 ---
 
 ![China chips](https://cdn.mos.cms.futurecdn.net/CmM2jsgtAUNEHVoV48L8rh.jpg) 

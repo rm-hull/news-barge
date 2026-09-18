@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Yorkshire Water’s project in Crambe aims to lower the frequency and volume
   of releases from a combined storm overflow for the River Derwent.
 image: https://www.gazetteherald.co.uk/resources/images/21430992.jpg?type=og-image&xType=0&yType=160
+categories:
+- Local
+- Harrogate
+- York
+- Music
 ---
 
 *(Image: Yorkshrie Water)*

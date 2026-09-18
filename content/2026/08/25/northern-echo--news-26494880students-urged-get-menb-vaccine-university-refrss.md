@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Students heading to university this Autumn are being urged to get the
   MenB vaccine as the NHS warns of meningitis risks in shared accommodation.
 image: https://www.thenorthernecho.co.uk/resources/images/19945470.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Young people preparing to start university or further education in the North East this Autumn are being urged to get vaccinated against meningococcal B (MenB) disease before moving into halls or shared accommodation.

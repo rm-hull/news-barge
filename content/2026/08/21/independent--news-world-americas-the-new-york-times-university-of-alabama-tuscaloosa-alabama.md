@@ -10,6 +10,10 @@ description: An Alabama jury finds The New York Times defamed a college basketba
   player by incorrectly reporting that he was at the scene of a fatal shooting in
   Tuscaloosa
 image: https://static.independent.co.uk/2026/08/21/03/Alabama_Shooting_Times_Lawsuit_45855.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 An Alabama jury on Thursday awarded $9.25 million in damages after finding that The New York Times defamed a college basketball player by incorrectly reporting that he was at the scene of a fatal shooting in Tuscaloosa.

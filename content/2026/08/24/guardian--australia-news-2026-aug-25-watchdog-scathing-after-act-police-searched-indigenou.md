@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Ombudsman Iain Anderson says he is concerned police ‘had no clearly understood
   definition of racial profiling’
 image: https://i.guim.co.uk/img/media/50db5a3035048c97f2b930c05b42660a207b96ff/378_0_3743_2995/master/3743.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=03248b32250554eea59b7ae5afec5906
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The commonwealth and ACT ombudsman has criticised the Australian federal police for failing to clearly define “racial profiling” after police in Canberra pulled guns on an Indigenous teenager who they mistook for a suspect in an aggravated burglary.

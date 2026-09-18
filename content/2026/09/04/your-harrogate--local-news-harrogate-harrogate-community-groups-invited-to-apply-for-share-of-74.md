@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Community groups and charities in Harrogate are being invited to apply
   for a share of more than £74,000 in grant funding.
 image: https://mmo.aiircdn.com/409/6a9a63a88140a778f0f.jpg
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9a63a88140a778f0f.jpg) 

@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: The government says the sites in Kent, Surrey and West Yorkshire contain
   22,000 tonnes of waste.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c0d/live/fb93daf0-9c6f-11f1-a291-b542ee92de7c.png
+categories:
+- UK
+- News & Politics
 ---
 
 ![Andy Burnham is wearing a dark-coloured jacket, light blue shirt and glasses. He has short black hair.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/6c0d/live/fb93daf0-9c6f-11f1-a291-b542ee92de7c.png)

@@ -10,6 +10,11 @@ description: Two men have been arrested on suspicion of murder in relation to th
   fire which took the lives of Natalie McDonald, 34, and seven-year-old Valentina
   Foster
 image: https://static.independent.co.uk/2026/08/27/15/4e432685481bca3f9383c9fd0d813c7aY29udGVudHNlYXJjaGFwaSwxNzg3OTI3NzY2-2.85667736.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- History
 ---
 
 The brother of a woman who died in a house fire which also killed a seven-year-old girl has said she was not involved with gangs.

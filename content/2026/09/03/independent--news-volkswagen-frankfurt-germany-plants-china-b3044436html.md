@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Volkswagen’s board has approved a major cost-cutting plan to address
   competition and tariffs
 image: https://static.independent.co.uk/2026/09/03/21/Germany_42175.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Volkswagen’s board of directors on Thursday approved a sweeping cost-cutting plan that would cut 50,000 jobs, slim the company's model line by half and end auto production at four German plants.

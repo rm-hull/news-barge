@@ -7,6 +7,11 @@ scraped_at: '2026-08-28T11:16:21Z'
 published: '2026-08-28T00:00:00Z'
 description: Burglars have struck and stolen tools in a York suburb earlier this week.
 image: https://www.gazetteherald.co.uk/resources/images/21384002.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Google Maps)*

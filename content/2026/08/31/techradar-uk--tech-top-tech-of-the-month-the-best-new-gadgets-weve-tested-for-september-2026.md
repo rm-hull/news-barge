@@ -8,6 +8,8 @@ scraped_at: '2026-08-31T21:28:05Z'
 published: '2026-08-31T00:00:00Z'
 description: Reviews Recap — our top-rated gadgets for September
 image: https://cdn.mos.cms.futurecdn.net/qN4Ustj7ndKNkuXCtGcDAf-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![DJI mic, Xiaomi phone and Marshall speaker in the hands of reviewers](https://cdn.mos.cms.futurecdn.net/qN4Ustj7ndKNkuXCtGcDAf.jpg) 

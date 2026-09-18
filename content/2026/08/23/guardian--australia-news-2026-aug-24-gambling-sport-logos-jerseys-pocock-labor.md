@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: Government says it hopes clubs will end jersey deals with wagering companies
   earlier, but calls it a commercial decision
 image: https://i.guim.co.uk/img/media/655191e186b4f05faaf68e74c6ec6a15265ca8d2/451_0_4510_3608/master/4510.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4424ecea8583d173b4c449f06170e4fc
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Sports
 ---
 
 Children across Australia will continue to see gambling logos on professional sport jerseys until up to 2032 despite the government’s pledge to break the link between sport and wagering.

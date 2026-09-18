@@ -8,6 +8,10 @@ scraped_at: '2026-08-19T13:10:19Z'
 published: '2026-08-19T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/778972176_27896466336686136_3667526035357892459_n-e1787141738855.jpg
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 Following the Government’s emergency alert message, The fire service in North Yorkshire is receiving a high number of calls from people concerned about neighbours having barbecues or outdoor fires.

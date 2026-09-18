@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: At least 130 people, including 23 children, were also injured when the
   shopping centre was hit, according to the regional head.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Watch: Video shows Russian drone strike Ukraine shopping mall

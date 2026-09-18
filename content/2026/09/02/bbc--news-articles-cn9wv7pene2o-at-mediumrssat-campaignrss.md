@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Burnham said he had already cut taxes, including VAT on energy bills
   and hospitality business rates.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95c5/live/e8573cc0-a6ec-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Andy Burnham in the House of Commons at Prime Minister's Questions. He is wearing a dark blue suit, white shirt and blue tie.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/95c5/live/e8573cc0-a6ec-11f1-aed2-8d6da8d75094.jpg)

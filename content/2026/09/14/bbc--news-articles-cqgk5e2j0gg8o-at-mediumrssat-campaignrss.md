@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Jack Clark says "most labs have different ways of being able to pull
   the plug", but says this may need to be a requirement.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/33f7/live/2a9699c0-b06e-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 AI "more powerful by the day", Anthropic co-founder tells BBC

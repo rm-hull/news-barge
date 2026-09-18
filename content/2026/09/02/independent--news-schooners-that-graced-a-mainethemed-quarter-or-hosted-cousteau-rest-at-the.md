@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: The company that owns two historic schooners that sank near Brooklyn's
   Gowanus Canal two months ago hasn't decided what to do with them yet
 image: https://static.independent.co.uk/2026/09/02/08/Sunken_Schooners_647_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 For more than a century, the Pilot and the Victory Chimes — two historic schooners with towering sails — have between them served the country in wartime, hosted the likes of Jacques Cousteau and graced the Maine state quarter.

@@ -10,6 +10,10 @@ description: Treasury Secretary Scott Bessent says U.S. secondary sanctions in t
   pipeline aim to block all potential sources of revenue for Iran, telling nations
   to cut economic ties to Tehran or face U.S. retaliation
 image: https://static.independent.co.uk/2026/08/24/21/Treasury_Bessent_86692.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Treasury Secretary Scott Bessent said Monday that new U.S. secondary sanctions in the pipeline aim to block all potential sources of revenue for Iran, telling nations to cut economic ties to Tehran or face U.S. retaliation. Tehran has withstood nearly five decades of punishing American sanctions. Ahead of the announcement, Iran’s currency hit a record low, dropping to 2.02 million to the U.S. dollar as trading opened on currency markets.

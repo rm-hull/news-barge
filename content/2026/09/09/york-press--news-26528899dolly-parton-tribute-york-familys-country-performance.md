@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Singer Ruth McNeil will take to the stage with son Tom on bass and daughter
   Molly on lead guitar and banjo as part of Steve Coates Music…
 image: https://www.yorkpress.co.uk/resources/images/21426998.jpg?type=og-image
+categories:
+- Local
+- York
+- Music
+- Arts & Culture
 ---
 
 ## Talented York family performing on stage for one night in musical spectacular

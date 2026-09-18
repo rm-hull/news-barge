@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A person has been taken to hospital after a large 999 river rescue mission
   in Durham yesterday (August 18).
 image: https://www.thenorthernecho.co.uk/resources/images/15032241.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: SARAH CALDECOTT)*

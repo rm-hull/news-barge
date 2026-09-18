@@ -9,6 +9,11 @@ description: Canada's Prime Minister Mark Carney shrugged off a threat of US ret
   on Thursday as he pitched a "new alliance" with Europe as a bulwark against outside
   pressures, in a closely watched speech to the European Parliament.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260917__C8KT6VU__v1__MidRes__FranceEuCanadaParliament.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 His speech came after EU chief Ursula von der Leyen suggested Canada could become the 27-nation bloc's first "associate member" in her annual "State of the European Union" address on Wednesday.

@@ -8,6 +8,10 @@ scraped_at: '2026-09-01T22:33:58Z'
 published: '2026-09-01T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/sim-balk-lane-near-bishopthorpe-infant-school-york-gsv.webp
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 A man made sexual gestures at a young girl near a York primary school.

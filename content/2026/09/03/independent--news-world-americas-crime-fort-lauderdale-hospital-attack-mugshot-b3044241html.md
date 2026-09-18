@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: In the mugshot, a gloved hand appears to be propping the heavily bruised
   man up
 image: https://static.the-independent.com/2026/09/03/14/23/Screenshot-2026-09-03-at-15-42-04.png?trim=85,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A man accused of fighting a police officer in a Florida hospital appears to be covered in blood and bruises in his chilling mugshot.

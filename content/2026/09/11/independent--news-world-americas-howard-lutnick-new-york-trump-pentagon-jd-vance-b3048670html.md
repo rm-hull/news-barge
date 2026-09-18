@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: President Donald Trump is set to observe Friday’s 25th anniversary of
   the Sept. 11 attacks by attending a ceremony at the Pentagon
 image: https://static.independent.co.uk/2026/09/11/14/APTOPIX_Sept_11_Anniversary_Pentagon_4462_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 President Donald Trump is set to observe Friday’s 25th anniversary of the Sept. 11 attacks by attending a ceremony at the Pentagon. It’s the second year in a row for Trump to mark the day at the Pentagon.

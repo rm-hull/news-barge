@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Representatives from nearly 200 countries have wrapped up United Nations
   desertification talks in Mongolia
 image: https://static.independent.co.uk/2026/08/28/16/Climate_COP17_Desertification_68831.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 Representatives from nearly 200 countries wrapped up United Nations desertification talks in Ulaanbaatar, Mongolia on Friday, seeking ways to keep land productive as climate change heats the planet and degraded soils and landscapes lose their ability to hold water, produce food and support livelihoods.

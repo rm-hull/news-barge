@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The controversy surrounding the VAR decision to allow Erling Haaland's
   winner in the Manchester derby has rumbled on for days, so what led to the error?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2a57/live/ac0f75f0-b1d9-11f1-8c0b-c1113bf3b7c0.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Refereeing decisions were 'baffling' - Rooney

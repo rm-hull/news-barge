@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: The site hosts a range of subscription-based content from cooking to
   fitness videos, but it is best known for pornography.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e7a/live/91d81fb0-a064-11f1-ab55-41a63a22b55d.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A phone with the OnlyFans logo on the screen](https://ichef.bbci.co.uk/ace/standard/724/cpsprodpb/7e7a/live/91d81fb0-a064-11f1-ab55-41a63a22b55d.jpg)

@@ -9,6 +9,10 @@ description: Rescue efforts have increasingly focused on 12 hydropower projects,
   about 900 workers are missing and roughly 500 are believed to be trapped in various
   tunnels, authorities said.
 image: https://images.euronews.com/articles/stories/09/90/36/51/1200x675_cmsv2_a47cc7c9-45fe-5642-a6fe-857519edf4d0-9903651.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## Rescue efforts have increasingly focused on 12 hydropower projects, where about 900 workers are missing and roughly 500 are believed to be trapped in various tunnels, authorities said.

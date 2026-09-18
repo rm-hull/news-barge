@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Trump’s Operation Economic Outcast is expected to push many Iranians
   into deeper poverty as food inflation soars
 image: https://i.guim.co.uk/img/media/4911834bbbfb6e9afabf8948de2ef91e67acaece/540_0_3943_3157/master/3943.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=958ab167167564b88fba4310c76578ad
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 For many Iranians, the new US sanctions campaign, called Operation Economic Outcast, seems superfluous given the grim economic situation in their country.

@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: ‘The Falkland Islands are British with the right to determine their own
   future’, the prime minister’s official spokesperson said
 image: https://static.independent.co.uk/2026/09/01/05/2292889323..?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Downing Street has hit back after Donald Trump suggested he was reviewing the United States’ position on British sovereignty over the Falkland islands.

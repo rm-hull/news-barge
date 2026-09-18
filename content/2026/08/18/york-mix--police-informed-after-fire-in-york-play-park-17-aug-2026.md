@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T08:50:43Z'
 published: '2026-08-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/09/north-yorkshire-fire-engine-york-2021.webp
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 Police have been called in after a fire in a play park.

@@ -9,6 +9,9 @@ published: '2026-08-23T00:00:00Z'
 description: Grassroots groups to urge PM to break with Starmer policy and impose
   full arms embargo on Israel
 image: https://i.guim.co.uk/img/media/ec0744852a17ac2bbbae27142080744bd3f9b1e2/889_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c548c2403a661ca36e7297684dcfe568
+categories:
+- UK
+- News & Politics
 ---
 
 Grassroots Labour groups are gearing up for a conference showdown with Andy Burnham over Gaza, as the party’s members seek to force the prime minister to recognise Israel’s actions as a genocide and impose a full arms embargo.

@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: After two goals and a swaggering display against Crystal Palace, Phil
   McNulty asks if this is Rayan Cherki's time to shine for Manchester City.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2142/live/6813fb90-a32a-11f1-8e46-c39d9fc92d9e.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Haaland and Cherki fire impressive Man City to victory at Palace

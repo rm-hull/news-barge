@@ -8,6 +8,8 @@ scraped_at: '2026-09-09T19:15:09Z'
 published: '2026-09-09T00:00:00Z'
 description: It’s been a long road for Apple to get here
 image: https://cdn.mos.cms.futurecdn.net/aAE9EyoV3p4bxKAqsoy6ZU-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Apple Duo and keynote image.](https://cdn.mos.cms.futurecdn.net/aAE9EyoV3p4bxKAqsoy6ZU.jpg) 

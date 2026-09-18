@@ -10,6 +10,11 @@ published: '2026-08-21T00:00:00Z'
 description: Xbox gamers now have an alternative to Seagate if they want to increase
   the capacity of their Series X|S consoles.
 image: https://cdn.mos.cms.futurecdn.net/uyc6JpWNuYp8MdBAXQBRWc-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
+- Business & Entrepreneurship
 ---
 
 ![SanDisk GX C50 expansion cards for the Xbox Seres X|S](https://cdn.mos.cms.futurecdn.net/uyc6JpWNuYp8MdBAXQBRWc.png) 

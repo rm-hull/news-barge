@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: This may well be the point when his honeymoon period as PM ends and the
   hard work begins, Damian Grammaticas writes.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a2ea/live/72f6d5e0-a597-11f1-9d75-23328fac5eb0.jpg
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 ![UK Prime Minister Andy Burnham talks with staff during a visit to a Sainsbury's supermarket in Nine Elms, London, on 26 August 2026](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a2ea/live/72f6d5e0-a597-11f1-9d75-23328fac5eb0.jpg)

@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: William Heidmeyer recounts hearing ‘three volleys’ of gunfire and seeing
   one man holding a pistol
 image: https://i.guim.co.uk/img/media/0366975d00a452bdc889ca6f663da2315599bc9d/140_0_3713_2971/master/3713.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d2cc85272d9f491ed463179ae268dcb9
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Former security officer describes witnessing aftermath of shooting

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Video posted on social media shows three people climbing out of sewer
   system at 4am, months after similar reports
 image: https://i.guim.co.uk/img/media/0a0e0411d615092c39562f21d28bc95e1b8ba26d/1094_1152_3562_2848/master/3562.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1800109b26ae2efaf335dd05e19844b3
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 New York City’s police department (NYPD) says it is investigating a recent video of three people emerging from a manhole in the latest such episode to cause mystery.

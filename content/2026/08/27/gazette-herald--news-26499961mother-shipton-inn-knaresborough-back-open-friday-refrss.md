@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: AN historic Knaresborough pub named after the town’s iconic Mother Shipton
   re-openson Friday (August 28) after a major revamp.
 image: https://www.gazetteherald.co.uk/resources/images/21378102.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 AN historic Knaresborough pub named after one of the town’s iconic figures re-opens on Friday (August 28) after a major revamp.

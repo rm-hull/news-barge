@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Businesses across York and North Yorkshire are urged to share their views
   and experiences to support important research about the region's…
 image: https://www.gazetteherald.co.uk/resources/images/21345083.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 **Businesses across York and North Yorkshire are being urged to share their views and experiences to support important research about the region's economy.**

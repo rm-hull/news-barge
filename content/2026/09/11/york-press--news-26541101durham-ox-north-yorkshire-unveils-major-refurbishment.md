@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: A North Yorkshire country inn has unveiled a major refurbishment, backed
   by a £580,000 loan from Lloyds.
 image: https://www.yorkpress.co.uk/resources/images/21438249.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 ## Top North Yorkshire pub unveils refurbishment backed by £580,000 loan

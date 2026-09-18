@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: According to latest numbers from the government, there have been 6,942
   cases and 3,349 fatalities
 image: https://static.independent.co.uk/2026/09/08/16/APTOPIX_Congo_Ebola_Burial_Teams_47169.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Local authorities confirmed that Congo’s record-breaking Ebola outbreak has expanded into a seventh province, with the rapid spread showing no indication of slowing down.

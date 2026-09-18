@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Discover more about Retro Gaming with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/KeSsu2KwokVwaR4LSBRDFL-320-80.png
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![a person playing Quake III on a computer from 2001](https://cdn.mos.cms.futurecdn.net/KeSsu2KwokVwaR4LSBRDFL-320-80.png)

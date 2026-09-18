@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: The latest shooting at a school in Thailand may increase interest in
   active shooter drills across Southeast Asia
 image: https://static.independent.co.uk/2026/09/03/15/Philippines_School_Safety_Drills_62349.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A school shooting this week in Thailand may spark greater interest in holding more active shooter drills at educational institutions, as Southeast Asian nations consider measures to curb gun violence.

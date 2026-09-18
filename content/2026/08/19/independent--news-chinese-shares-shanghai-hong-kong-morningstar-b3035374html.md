@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Shares of Unitree, one of China's largest humanoid robot makers, have
   soared as much as 629% in its public stock trading debut in Shanghai
 image: https://static.independent.co.uk/2026/08/19/06/China_Unitree_IPO_25397.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Shares of Unitree, one of China's largest humanoid robot makers, initially soared as much as 629% in its public stock trading debut Wednesday in Shanghai, in the latest highlight of investor optimism over China’s technological advances.

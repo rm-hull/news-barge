@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Duke and Duchess of Sussex were apparently given little notice before
   message was sent to the media
 image: https://i.guim.co.uk/img/media/593334323b00f54483e0834ea9ac9ff0c2d0ba32/218_0_2940_2352/master/2940.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ce208e54aeca5892ac030f57e9c2e9f
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The Duke and Duchess of Sussex were “surprised” at being given little notice of a formal letter sent to government departments and the military on behalf of King Charles reiterating their status as non-working royals.

@@ -11,6 +11,9 @@ description: Three staff members from the Stars and Stripes military news outlet
   of violating their First Amendment free speech rights to speak out against government
   interference in their work
 image: https://static.independent.co.uk/2026/08/19/22/Media_Pentagon_Stars_and_Stripes_2_594.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Three staff members from the Stars and Stripes military news outlet are suing to challenge their recent firings by the Pentagon, accusing the Trump administration of violating their First Amendment free speech rights to speak out against government interference in their work.

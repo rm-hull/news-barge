@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The city of Independence said it will enforce the closures and is not
   liable for anyone who enters the parks
 image: https://static.independent.co.uk/2026/08/26/16/40/Untitled-design-(11).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 An Oregon city is so strapped for cash that it has fenced off all its public parks and is shutting down its museums, and potentially its library, to cut costs.

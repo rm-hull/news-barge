@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: A federal judge has ruled in favor of artificial intelligence company
   Anthropic in its legal battle against the Pentagon
 image: null
+categories:
+- News & Politics
+- UK
+- Law & Justice
 ---
 
 A federal judge has ruled in favor of artificial intelligence company Anthropic in its legal battle against the Pentagon after the government labeled the company as a supply chain risk earlier this year.

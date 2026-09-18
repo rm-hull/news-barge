@@ -9,6 +9,12 @@ published: '2026-09-07T00:00:00Z'
 description: As York’s famous Chaplin twins inspire Hollywood film Bucking Fastard
   Press readers share memories of life with Greta and Freda in Tang Hall
 image: https://www.yorkpress.co.uk/resources/images/11909825.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 ## What York people remember about the twins behind new Hollywood film Bucking Fastard

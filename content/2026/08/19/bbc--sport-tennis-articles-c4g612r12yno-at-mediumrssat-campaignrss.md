@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Nick Kyrgios is provisionally suspended from tennis after testing positive
   for cocaine.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9430/live/d82d7ee0-9ba7-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Nick Kyrgios watches on during January's Australian Open](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/9430/live/d82d7ee0-9ba7-11f1-a291-b542ee92de7c.jpg)

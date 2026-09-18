@@ -10,6 +10,9 @@ published: '2026-08-21T00:00:00Z'
 description: LG rolls-out laser direct imaging lithography machine for chip packaging
   and high-density PCBs.
 image: https://cdn.mos.cms.futurecdn.net/te3qwyD3UwUQi9x9kotPCS-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![LG LDI tool](https://cdn.mos.cms.futurecdn.net/te3qwyD3UwUQi9x9kotPCS.jpg) 

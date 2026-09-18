@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The Oddfellows, an active group since 1810, is promoting friendship in
   its upcoming events.
 image: https://www.yorkpress.co.uk/resources/images/21403257.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Historic York group putting friendship at heart of September events

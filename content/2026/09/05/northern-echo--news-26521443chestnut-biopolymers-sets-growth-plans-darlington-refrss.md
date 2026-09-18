@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: Chestnut Biopolymers, based in Darlington, has transitioned from proving
   its technology to building a commercial business.
 image: https://www.thenorthernecho.co.uk/resources/images/21409717.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Chestnut Biopolymers)*

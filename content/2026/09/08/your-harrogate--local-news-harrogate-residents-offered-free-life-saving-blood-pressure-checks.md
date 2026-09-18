@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Residents across North Yorkshire are being encouraged to take advantage
   of free blood pressure checks this week.
 image: https://mmo.aiircdn.com/409/6a9fccfe156a7a93bab.jpg
+categories:
+- Local
+- Harrogate
+- Health & Fitness
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9fccfe156a7a93bab.jpg) 

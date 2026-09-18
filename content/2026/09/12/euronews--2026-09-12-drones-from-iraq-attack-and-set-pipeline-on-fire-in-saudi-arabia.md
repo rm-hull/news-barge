@@ -9,6 +9,10 @@ description: The East–West pipeline is crucial for shipping Saudi oil to the R
   bypassing the Strait of Hormuz. This latest incident risks driving oil and fuel
   prices even higher.
 image: https://images.euronews.com/articles/stories/09/91/09/01/1200x675_cmsv2_388824bd-c528-50dd-8a40-69adbd97348e-9910901.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## The East–West pipeline is crucial for shipping Saudi oil to the Red Sea, bypassing the Strait of Hormuz. This latest incident risks driving oil and fuel prices even higher.

@@ -9,6 +9,8 @@ published: '2026-08-25T00:00:00Z'
 description: Meet the Garmin Fenix 9 and the Garmin Fenix 9 Pro, which bring significant
   upgrades to the Fenix line.
 image: https://cdn.mos.cms.futurecdn.net/5k9zumvPnUNsPEnBSRCTtf-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Garmin Fenix 9](https://cdn.mos.cms.futurecdn.net/5k9zumvPnUNsPEnBSRCTtf.jpg) 

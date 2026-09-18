@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Lambie, a veteran and Tasmanian senator, says One Nation leader is showing
   her ‘true colours’
 image: https://i.guim.co.uk/img/media/4238a9c6cb1d94f6ccf8dab20766717918c18759/1097_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25e303781f6b8a7cc34f63710380f53f
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Jacqui Lambie has accused Pauline Hanson of being a “coward” for a One Nation cartoon calling the Liberal frontbencher Andrew Hastie a traitor, amid a growing spat between the One Nation leader and the former SAS captain.

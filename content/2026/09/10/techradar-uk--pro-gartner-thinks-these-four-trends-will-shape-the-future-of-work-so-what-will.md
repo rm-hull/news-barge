@@ -8,6 +8,10 @@ scraped_at: '2026-09-10T12:53:39Z'
 published: '2026-09-10T00:00:00Z'
 description: This is how the future of AI at work looks, Gartner believes
 image: https://cdn.mos.cms.futurecdn.net/kpe85PSML9a3odjj2PX8RL-2560-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 ![A female worker using a VR headset in an office in front of a futuristic display](https://cdn.mos.cms.futurecdn.net/kpe85PSML9a3odjj2PX8RL.jpg) 

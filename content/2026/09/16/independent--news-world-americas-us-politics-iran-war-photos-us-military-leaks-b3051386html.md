@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Previously unseen photos show the aftermath of Iranian strikes on US
   facilities in Saudi Arabia and Kuwait
 image: https://static.independent.co.uk/2026/09/16/19/42/HOjyi5AWgAAOuzw.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Active-duty U.S. service members have leaked photos to CBS News that depict damage to American military infrastructure in the Middle East during the Iran war.

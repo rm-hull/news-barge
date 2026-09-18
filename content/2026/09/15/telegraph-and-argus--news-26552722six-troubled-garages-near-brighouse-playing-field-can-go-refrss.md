@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A social housing provider can knock down a row of troubled garages near
   a playing field on an estate.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21458938.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
 ---
 
 ### What is the Public Notice Portal?

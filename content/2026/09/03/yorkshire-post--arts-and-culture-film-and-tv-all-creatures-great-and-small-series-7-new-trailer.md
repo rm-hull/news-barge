@@ -10,6 +10,12 @@ description: Some All Creatures Great and Small fans will not like it one bit. T
   trailer for the new series of the popular 5 drama puts the cat among the pigeons
   with a scene showing Siegfried kissing Dorothy - in Mrs Hall’s kitchen, of all places.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjA1Y2I0YzczLTFjNzktNDhhNS04Mzg5LTk5YjhmZTZkNTBiMDplN2QwY2U5MS02ODhiLTRlZWQtYjU0MS01MzE5MjRlZTNiODE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
+- Arts & Culture
 ---
 
 # All Creatures Great and Small Series 7 new trailer reveals Siegfried’s surprise kitchen kiss

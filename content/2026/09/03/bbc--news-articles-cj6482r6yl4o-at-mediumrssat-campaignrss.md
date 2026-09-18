@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: Al-Mughayyir's council says they were trying to stop settlers stealing
   sheep, but the Israeli military says they threw stones at its troops.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cc0/live/a22ffbc0-a772-11f1-993c-a325009c1935.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Relatives mourn two Palestinians who were killed in al-Mughayyir during an attack by Israeli settlers and soldiers, at a hospital in Ramallah, in the occupied West Bank (2 September 2026)](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4cc0/live/a22ffbc0-a772-11f1-993c-a325009c1935.jpg)

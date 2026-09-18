@@ -10,6 +10,12 @@ description: In June, a FEMA official infamous for claiming to have teleported t
   a Waffle House was reportedly ousted. He’s still employed by the government, though—and
   meeting with a Trump fixer.
 image: https://media.wired.com/photos/6a8f03eac7e16565c80849b7/191:100/w_1280,c_limit/WaffleHouseGregg.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 Gregg Phillips, an election denier who once claimed he teleported to a Waffle House, says he is still working in the Trump administration, after he was reportedly removed from his influential role overseeing the Federal Emergency Management Agency’s emergency response efforts in June.

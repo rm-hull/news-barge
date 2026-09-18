@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: Texas Republian attempts to pay tribute to the late country music superstar,
   only for things to go off the rails
 image: https://static.independent.co.uk/2026/08/27/16/2289546661..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Texas Republican Sen. Ted Cruz has been forced to delete a tribute to the late country music superstar Dolly Parton after the account he quoted quickly changed its username to humiliate him.

@@ -9,6 +9,10 @@ description: Activity books for adults are booming, mixing puzzles, pop culture 
   mysteries. Their success, led by Murdoku, shows a hunger for screen-free fun and
   a playful workout for the mind.
 image: https://images.euronews.com/articles/stories/09/89/23/44/1200x675_cmsv2_5fd681f7-0c3a-5c19-8f24-08520d3dec0f-9892344.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 ## Activity books for adults are booming, mixing puzzles, pop culture and mysteries. Their success, led by Murdoku, shows a hunger for screen-free fun and a playful workout for the mind.

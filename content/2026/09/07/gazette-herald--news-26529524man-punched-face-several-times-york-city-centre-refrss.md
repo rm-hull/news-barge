@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: A man was left seriously injured after being punched in the face several
   times in Clifford Street, York, police have said.
 image: https://www.gazetteherald.co.uk/resources/images/21421982.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- Health & Fitness
 ---
 
 *(Image: North Yorkshire Police)*

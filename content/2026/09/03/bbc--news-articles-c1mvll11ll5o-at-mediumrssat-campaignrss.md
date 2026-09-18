@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: At least 69 people were shot dead in 1960 but no-one has been prosecuted
   and victims want restitution.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c9c/live/a9194eb0-a618-11f1-a291-b542ee92de7c.png
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 ![Abraham Mofokeng in a brown patterned cardigan and beanie hat stands by a white monolith. Out of focus, in the background, are other white monoliths - they are part of a memorial.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6c9c/live/a9194eb0-a618-11f1-a291-b542ee92de7c.png)

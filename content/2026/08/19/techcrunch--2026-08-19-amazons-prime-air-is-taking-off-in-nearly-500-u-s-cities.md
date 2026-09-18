@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: Amazon is significantly expanding its Prime Air drone delivery service,
   with plans to reach nearly 500 U.S. cities by the end of 2026.
 image: https://techcrunch.com/wp-content/uploads/2026/08/amazon-prime-air-2026.jpg?w=1200
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Amazon announced Wednesday a major expansion of Amazon Prime Air, its drone delivery service, with plans to reach nearly 500 U.S. cities by the end of 2026. This marks a significant milestone as it expands the service’s footprint by roughly 6x its current reach.

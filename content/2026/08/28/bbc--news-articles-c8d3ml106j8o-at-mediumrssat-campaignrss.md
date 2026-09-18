@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Heaton's solo album tops the chart, while Parton's 1980 US hit reaches
   the UK top 40 at last.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e873/live/cfd2cfb0-a2f6-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ![A split image of Paul Heaton (left) and Dolly Parton](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/e873/live/cfd2cfb0-a2f6-11f1-b109-879e35c24276.jpg)

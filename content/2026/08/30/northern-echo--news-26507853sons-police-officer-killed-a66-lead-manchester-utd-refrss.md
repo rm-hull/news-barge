@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: Manchester United have been led out at Old Trafford on Sunday by the
   two sons of a police officer killed in a head-on crash on the A66.
 image: https://www.thenorthernecho.co.uk/resources/images/21390231.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 The sons of a police officer killed in the head-on A66 smash led out Manchester United at Old Trafford, as tributes have continued to be paid across the weekend.

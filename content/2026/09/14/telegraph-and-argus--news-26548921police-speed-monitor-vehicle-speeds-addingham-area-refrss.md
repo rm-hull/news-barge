@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: SPEED checks carried out by police in part of the Bradford district found
   that 15 vehicles were travelling faster than the 30mph limit.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21453145.jpg?type=og-image&xType=0&yType=644
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 SPEED checks carried out by police in part of the Bradford district found that 15 vehicles were travelling faster than the 30mph limit.

@@ -9,6 +9,9 @@ description: After three months of daily anti-government protests—dubbed the F
   Revolution—the sudden mass suspension of Instagram accounts has led to fears of
   brigading against demonstrators.
 image: https://media.wired.com/photos/6aaa98e271eb023ce9cd04f2/191:100/w_1280,c_limit/091626-Flaminggo%20Albania%20Meta.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 European lawmakers are calling for an investigation into Meta after the mass suspension of accounts posting about anti-government protests in Albania, in what observers believe is a coordinated brigading attack.

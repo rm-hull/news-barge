@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Footage shows the moment police chased down a drug dealer who boasted
   about living “like a rock star” before being jailed.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/03/6/30/stone-nathan-160294.jpeg?trim=554,0,232,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Watch: Drug dealer who lived ‘like a rock star’ chased down by police

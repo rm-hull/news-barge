@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen broke record
   for farthest distance traveled from Earth
 image: https://i.guim.co.uk/img/media/204f54fe96b9a20b5ff2ec283d776a874493da9e/490_0_4892_3915/master/4892.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=36d1b73c621e19c6e91146abcaada9bc
+categories:
+- UK
+- News & Politics
+- History
+- Travel
 ---
 
 The crew of the historic Artemis II lunar flyby mission have earned the US’s top space medal, officials have announced.

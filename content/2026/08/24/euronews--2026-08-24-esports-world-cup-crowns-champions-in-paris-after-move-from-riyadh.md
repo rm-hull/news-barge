@@ -9,6 +9,10 @@ description: The China-based AG.AL claimed the $7 million Club Championship as t
   seven-week tournament wrapped up its first edition outside Saudi Arabia after a
   short-notice relocation to France.
 image: https://images.euronews.com/articles/stories/09/88/61/21/1200x675_cmsv2_508653ce-d8ad-5522-a7d1-51be5750ee74-9886121.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## The China-based AG.AL claimed the $7 million Club Championship as the seven-week tournament wrapped up its first edition outside Saudi Arabia after a short-notice relocation to France.

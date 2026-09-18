@@ -7,6 +7,9 @@ scraped_at: '2026-09-16T19:32:05Z'
 published: '2026-09-16T00:00:00Z'
 description: Meta is handing over WhatsApp Business access to AI agents
 image: https://cdn.mos.cms.futurecdn.net/q6xnz9NJyKA7z3WTRVAFwK-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![The WhatsApp icon on an iPhone's display.](https://cdn.mos.cms.futurecdn.net/q6xnz9NJyKA7z3WTRVAFwK.jpg) 

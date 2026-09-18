@@ -9,6 +9,12 @@ published: '2026-09-04T00:00:00Z'
 description: A man has died following a three-vehicle crash on the A1(M) near Darlington.
   The road remains closed while investigation works continue.
 image: https://www.thenorthernecho.co.uk/resources/images/21411422.jpg?type=og-image&xType=0&yType=476
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- Technology & Software
 ---
 
 *(Image: UGC)*

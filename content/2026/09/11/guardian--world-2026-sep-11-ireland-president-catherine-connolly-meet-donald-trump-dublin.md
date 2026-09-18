@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: Many are rooting for vocal critic Catherine Connolly to let rip in Dublin
   meeting, but others hope she holds back
 image: https://i.guim.co.uk/img/media/3e1bce8e1aa2b3457278b2cc7a1fd4d2f02ad5d2/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0d0fc7b8e582e4ad43c4cbdfb3e58ffb
+categories:
+- UK
+- News & Politics
 ---
 
 Ireland’s president, Catherine Connolly, has called Donald Trump abhorrent and an abuser of power. In his sole previous comment on Connolly, the US president seemed to think she was a man. Now that they are about to meet, Ireland is holding its breath.

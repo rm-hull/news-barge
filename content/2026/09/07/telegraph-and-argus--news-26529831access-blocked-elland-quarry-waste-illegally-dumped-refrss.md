@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Access to a former Calderdale quarry where waste has been illegally dumped
   has been blocked by the Environment Agency.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21422413.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 Access to a former Calderdale quarry where waste has been illegally dumped has been blocked by the Environment Agency.

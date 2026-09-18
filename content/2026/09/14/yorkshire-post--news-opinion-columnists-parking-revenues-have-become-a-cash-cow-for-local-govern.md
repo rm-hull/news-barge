@@ -12,6 +12,11 @@ description: Every local council in the country is under financial pressure, but
   came in on a ticket proposing that shoppers and visitors could enjoy one hour’s
   free parking at council-owned carparks.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjlhNzdhODAyLTRlZTUtNDQzOC05NTJmLWY5ZGI5MmQ1Njk0YjpmMTc2ZGIzOC02NTFmLTRiMzMtOWQ5Zi0zNDY2YTJmNjY0NjM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # Parking revenues have become a cash cow for local government but it’s to the detriment of Yorkshire’s high streets - Jayne Dowle

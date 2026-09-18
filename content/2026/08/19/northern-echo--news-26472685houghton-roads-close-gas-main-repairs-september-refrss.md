@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Sunderland City Council has announced temporary road and footpath closures
   in Houghton-le-Spring from 7 September for gas main repair works,…
 image: https://www.thenorthernecho.co.uk/resources/images/18699764.jpg?type=og-image&yType=2
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Archive)*

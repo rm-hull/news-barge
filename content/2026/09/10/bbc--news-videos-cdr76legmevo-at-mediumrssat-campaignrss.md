@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Rescuers are searching for survivors after the vessel travelling from
   the mainland to a popular tourist destination caught fire.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3393/live/1674f6e0-ad02-11f1-a540-61c3f7fc4e6c.png
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 # What we know about the fatal Philippines ferry fire

@@ -7,6 +7,11 @@ scraped_at: '2026-08-21T13:06:39Z'
 published: '2026-08-21T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/cctv-halifax-atm-parliament-street-york-july-2026.webp
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Do you recognise this man?

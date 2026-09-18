@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Almost three quarters of England remains in drought after record-breaking
   dry weather this spring and summer
 image: https://static.independent.co.uk/2026/09/17/08/2293647440..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Torrential rain over the next seven months would be needed in order to bring much of the country out of drought, the Environment Agency has warned.

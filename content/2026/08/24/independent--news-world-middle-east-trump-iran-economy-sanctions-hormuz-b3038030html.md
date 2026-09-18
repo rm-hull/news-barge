@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: The U.S. president has threatened to impose unprecedented economic punishment
   on Iran, but experts tell Maira Butt that China may prove a huge obstacle
 image: https://static.independent.co.uk/2026/08/20/11/download..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The U.S. is set to unveil its plan for the “toughest sanctions in history” against Tehran on Monday after days of threats about an “economic D-Day”.

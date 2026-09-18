@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: ‘Now there's a woman with an extremely tight leash on the man she married,’
   one source said
 image: https://static.independent.co.uk/2026/09/18/13/11/GettyImages-2258843986.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 Within the halls of the Pentagon, Defense Secretary Pete Hegseth’s wife has been given an unflattering nickname, according to a new report.

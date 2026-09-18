@@ -8,6 +8,10 @@ scraped_at: '2026-09-06T04:28:15Z'
 published: '2026-09-06T00:00:00Z'
 description: The Pentagon chief warned that the Air Force ‘will confront this’
 image: https://static.independent.co.uk/2026/09/05/23/51/GettyImages-2293221834.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Defense Secretary Pete Hegseth has promised to protect military members who deliver religious greetings at New Mexico’s Kirtland Air Force Base.

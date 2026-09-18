@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: The A692 in Dipton has been closed after a car left the carriageway and
   crashed into a wall, bringing down power cables with it.
 image: https://www.thenorthernecho.co.uk/resources/images/21432682.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: GOOGLE)*

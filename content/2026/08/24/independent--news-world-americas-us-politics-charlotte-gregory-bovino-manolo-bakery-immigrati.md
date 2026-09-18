@@ -8,6 +8,9 @@ published: '2026-08-24T00:00:00Z'
 description: Manolo Betancur said he had a “tense conversation” about immigration
   enforcement in the city with Greg Bovino during the encounter
 image: https://static.independent.co.uk/2026/08/24/14/45/Screenshot-2026-08-24-at-15-26-45.png?trim=0,0,111,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A bakery owner in North Carolina says he denied entry to President Trump’s former Border Patrol commander during an encounter on Sunday.

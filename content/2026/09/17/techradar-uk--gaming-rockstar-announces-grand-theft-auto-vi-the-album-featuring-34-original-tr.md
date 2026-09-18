@@ -10,6 +10,10 @@ published: '2026-09-17T00:00:00Z'
 description: 'Rockstar Games has announced Grand Theft Auto VI: The Album, GTA 6''s
   official soundtrack that will launch alongside the game.'
 image: https://cdn.mos.cms.futurecdn.net/hYVggdAmjgiJdosJQEzrED-2000-80.jpg
+categories:
+- Technology & Software
+- Music
+- Video Gaming
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/hYVggdAmjgiJdosJQEzrED.jpg) 

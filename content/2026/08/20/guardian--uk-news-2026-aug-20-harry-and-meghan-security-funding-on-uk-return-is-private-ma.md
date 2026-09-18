@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Prime minister wishes couple well in their move back from the US to a
   non-royal residence outside London
 image: https://i.guim.co.uk/img/media/ac61bd01a3accbcd9ec84265406373ed866fc74e/488_0_4158_3326/master/4158.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3871c513ff1f33e988eb5bc9d27bff81
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Security funding for the Duke and Duchess of Sussex when they return to live in the UK this month is a “private matter”, Andy Burnham has said.

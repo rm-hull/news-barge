@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: ONE of the oldest coffee lounges in a North Yorkshire town has applied
   for a new licence from the council.
 image: https://www.yorkpress.co.uk/resources/images/21408796.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ONE of the oldest coffee lounges in a North Yorkshire town has applied for a new licence from the council.

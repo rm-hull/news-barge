@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: The A1(M) has been closed in both directions between J57 near Darlington
   to J58 Burtree Interchange following a crash.
 image: https://www.thenorthernecho.co.uk/resources/images/21411194.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ## Our live feed has now finished.

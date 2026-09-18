@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Cleveland Police is set to receive an extra £2 million to tackle serious
   and organised crime following major incidents in Middlesbrough.
 image: https://www.thenorthernecho.co.uk/resources/images/20243487.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Cleveland Police will receive an extra £2 million to tackle serious and organised crime following major incidents in Middlesbrough.

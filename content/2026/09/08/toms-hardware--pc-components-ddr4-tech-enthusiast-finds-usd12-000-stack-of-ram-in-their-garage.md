@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: However, these registered ECC DDR4 sticks will need to find a new home
   in a suitable Xeon, Epyc, or Threadripper system.
 image: https://cdn.mos.cms.futurecdn.net/ofDR97Gr4RXxuMVVBxNAYi-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Spare DDR4](https://cdn.mos.cms.futurecdn.net/ofDR97Gr4RXxuMVVBxNAYi.jpg) 

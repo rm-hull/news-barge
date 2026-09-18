@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T13:28:22Z'
 published: '2026-09-01T00:00:00Z'
 description: Hamlet is the next episode of The Shards
 image: https://cdn.mos.cms.futurecdn.net/bDXvjPpy65XgaBk9K4yva9-2000-80.webp
+categories:
+- Technology & Software
+- Film & TV
+- Comedy & Entertainment
 ---
 
 ![Headshots of the Shards main cast, lit with eerie blue lighting](https://cdn.mos.cms.futurecdn.net/bDXvjPpy65XgaBk9K4yva9.webp) 

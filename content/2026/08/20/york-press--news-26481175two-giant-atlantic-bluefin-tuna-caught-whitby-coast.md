@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: A remarkable chapter in Whitby's fishing history has been written this
   week, with the arrival of two giant Atlantic bluefin tuna.
 image: https://www.yorkpress.co.uk/resources/images/21348158.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Sports
 ---
 
 ## 'Remarkable' chapter in North Yorkshire fishing history with bluefin tuna arrival

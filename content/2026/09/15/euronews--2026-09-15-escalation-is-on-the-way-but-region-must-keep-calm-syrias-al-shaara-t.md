@@ -9,6 +9,10 @@ description: Answering Euronews' question at the Arab Media Summit in Dubai, Syr
   president said he hoped the situation "remains stable" but admitted "nobody can
   predict" what happens next, while urging Arab countries to work together.
 image: https://images.euronews.com/articles/stories/09/91/43/59/1200x675_cmsv2_bbf8ebfc-a271-5b68-bb76-fcd31e551702-9914359.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## Answering Euronews' question at the Arab Media Summit in Dubai, Syria's president said he hoped the situation "remains stable" but admitted "nobody can predict" what happens next, while urging Arab countries to work together.

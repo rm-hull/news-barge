@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Fifteen people have been killed in a blaze at the Amur Gas Chemical Complex
   in Russia’s Far East, the company that runs the plant said
 image: https://static.independent.co.uk/2026/08/27/18/Russia_Fire__6_93.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 A fire broke out at the Amur Gas Chemical Complex in Russia’s Far East earlier this week, killing 15, the plant's management said Thursday.

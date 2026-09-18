@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: BBC documentary Buried with Michael Sheen investigated toxic contamination
   across Wales
 image: https://static.independent.co.uk/2026/08/11/10/56/570143.jpg?trim=36,0,0,53&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Michael Sheen is set to give evidence to MPs following his involvement in a documentary probing alleged toxic contamination across Wales.

@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: Witton-le-Wear has been praised as a charming and picturesque County
   Durham village thanks to its riverside setting, history and countryside walks.
 image: https://www.thenorthernecho.co.uk/resources/images/21392682.jpg?type=og-image&xType=0&yType=189
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- Arts & Culture
 ---
 
 *(Image: Roy Davenport/CAMERA CLUB)*

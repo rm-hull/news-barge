@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Community organisations across York are being encouraged to apply for
   grants of up to £5,000 to help provide warm, welcoming spaces for residents…
 image: https://www.yorkpress.co.uk/resources/images/21454539.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: Supplied)*

@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: I’m catching up on Deathloop and The Forgotten City, two of the best
   time-loop games from 2021.
 image: https://cdn.mos.cms.futurecdn.net/VVpfRkKwxshMqRcPr6Eiid-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
+- Sports
 ---
 
 ![A screenshot of the video game Twelve Minutes.](https://cdn.mos.cms.futurecdn.net/VVpfRkKwxshMqRcPr6Eiid.jpg) 

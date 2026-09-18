@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: 'Two Easter sculpture trails from Discover: Eggsplore have raised £1,400
   to support youth groups in York and Haxby.'
 image: https://www.yorkpress.co.uk/resources/images/21338974.jpg?type=og-image&xType=0&yType=134
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,12 @@ published: '2026-09-14T00:00:00Z'
 description: Rawcliffe Rovers U16s boys' team has been awarded Sports Team of the
   Year at the York Community Pride 2026.
 image: https://www.gazetteherald.co.uk/resources/images/21446955.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- Video Gaming
 ---
 
 The MOST successful team in a club’s history, which has championed grassroots football, has been presented with a prestigious award.

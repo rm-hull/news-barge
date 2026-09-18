@@ -8,6 +8,10 @@ scraped_at: '2026-09-03T19:17:02Z'
 published: '2026-09-03T00:00:00Z'
 description: Yoga Pro 9n has up to 80W TDP.
 image: https://cdn.mos.cms.futurecdn.net/N7XeY9THig9x2BNMkaLqB7-1999-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Health & Fitness
 ---
 
 ![Lenovo RTX Spark Systems](https://cdn.mos.cms.futurecdn.net/N7XeY9THig9x2BNMkaLqB7.jpg) 

@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: THE Met Office has forecast a mix of sunshine and clouds for Bradford
   this weekend.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19032437.jpg?type=og-image&yType=188
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Pexels)*

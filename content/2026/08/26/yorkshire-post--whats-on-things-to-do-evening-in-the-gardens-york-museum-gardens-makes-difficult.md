@@ -10,6 +10,11 @@ description: The Evening in the Gardens event was set to take place this week at
   Museum Gardens but due to the upcoming thunderstorm warnings they have made the
   ‘difficult decision’ to cancel it.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE5M2ZiMzA1LTUxYmUtNGQ3OC05MDI4LWU3MGY2MzUzMDVjMzplODU4MDgxZS0xZTAwLTQyMjctYjUyZi1hMzkzNjA4NDcyZmU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Evening in the Gardens: York Museum Gardens makes ‘difficult decision’ to cancel as weather conditions expected to leave lawn ‘thoroughly drenched’

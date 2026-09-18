@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: The French First Lady is herself 24 years older than the president, who
   she met when he was 15
 image: https://static.independent.co.uk/2026/09/02/8/25/Screenshot-2026-09-02-at-09-39-35.png?trim=177,0,177,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Brigitte Macron’s daughter has revealed a new relationship with a surf instructor two decades younger, drawing comparisons with her mother’s marriage to the French president Emmanuel Macron.

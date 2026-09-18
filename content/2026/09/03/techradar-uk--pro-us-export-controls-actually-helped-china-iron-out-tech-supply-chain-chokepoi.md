@@ -8,6 +8,10 @@ scraped_at: '2026-09-03T19:17:13Z'
 published: '2026-09-03T00:00:00Z'
 description: Chinese companies benefited from US restrictions
 image: https://cdn.mos.cms.futurecdn.net/3yUNP35swQjB6uCRGc56g7-970-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Microchip on a motherboard with Flag of China and USA. Concept for the battle of global microchips production.](https://cdn.mos.cms.futurecdn.net/3yUNP35swQjB6uCRGc56g7.jpg) 

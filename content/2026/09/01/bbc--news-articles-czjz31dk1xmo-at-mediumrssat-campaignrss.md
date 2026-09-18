@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Dan Driscoll, the youngest-ever army secretary, was about 18 months into
   his post.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a89/live/5b901940-a590-11f1-99cc-29bfdc6830e7.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Secretary of the Army Dan Driscoll arrives for the United States Military Academy commencement ceremony in Michie Stadium at West Poin in New York as a service member salutes behind him.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4a89/live/5b901940-a590-11f1-99cc-29bfdc6830e7.jpg)

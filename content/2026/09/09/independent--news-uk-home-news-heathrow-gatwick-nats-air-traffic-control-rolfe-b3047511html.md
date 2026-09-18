@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Downing Street said the government still had confidence in the boss of
   National Air Traffic Services, Martin Rolfe
 image: https://static.independent.co.uk/2026/09/09/13/2294307059..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The number of flights cancelled after a technical failure of the UK’s air traffic control system rose above 2,000 on Wednesday, as the transport secretary told MPs that the meltdown suffered by passengers was avoidable.

@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: Iran responded to an assault on its Larak Island by targeting US bases
   in Jordan
 image: https://i.guim.co.uk/img/media/ee0922895b037426cd29c0b1af464f3c8ee2fadb/1065_0_6440_5152/master/6440.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=df3112e5044d47a849a43c52c49bcecb
+categories:
+- UK
+- News & Politics
 ---
 
 Trump vows the US will 'hit' Iran 'hard' after Tehran targeted US bases in Jordan

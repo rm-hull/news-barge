@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The Square & Compass and The Castle pubs in Harrogate are launching the
   Empty Chairs initiative this September to combat local social isolation.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/no-missing.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 **Two popular Harrogate district pubs are backing a national initiative** encouraging isolated residents to take a simple, life-changing step: head to their local inn, sit in a designated “empty chair,” and signal that they are open to a friendly chat.

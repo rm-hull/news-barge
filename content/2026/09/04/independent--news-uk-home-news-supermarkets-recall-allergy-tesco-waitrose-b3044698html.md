@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Tesco Finest Caesar & Smoked Bacon Coleslaw and Waitrose Rhubarb Crumble
   have been recalled over allergy fears
 image: https://static.independent.co.uk/2026/08/10/17/04/iStock-1428386188-(2).jpg?trim=3,0,3,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Two major supermarkets are recalling food products that have been labelled incorrectly and pose a potential allergy risk.

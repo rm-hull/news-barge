@@ -9,6 +9,10 @@ description: Sea shipping keeps Europe fed, fuelled and supplied — and this ye
   the Iran war's disruptions to shipping routes have thrust it into the headlines.
   Euronews looked at the busiest ports in Europe by volume of goods transported.
 image: https://images.euronews.com/articles/stories/09/89/97/27/1200x675_cmsv2_d7b47b6c-00aa-5d1d-812d-3e2a8720391f-9899727.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## Sea shipping keeps Europe fed, fuelled and supplied — and this year, the Iran war's disruptions to shipping routes have thrust it into the headlines. Euronews looked at the busiest ports in Europe by volume of goods transported.

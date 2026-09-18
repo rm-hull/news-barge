@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Despite the many health risks, sexual strangulation has become popular
   among young people—with some experts blaming adult content for normalizing it.
 image: https://media.wired.com/photos/6aa07601255190b17f3b2cac/191:100/w_1280,c_limit/Culture_A%20Teen%20Girl's%20Death%20Is%20Prompting%20Calls%20to%20Ban%20Choking%20in%20Porn_v2.jpg
+categories:
+- Technology & Software
+- Science
+- Health & Fitness
 ---
 
 An Australian teenage girl’s death, suspected to be preceded by consensual “choking” during sex, has renewed calls to ban showing the act in porn.

@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Morrisons has launched a new Chocolate Curves, which have been likened
   to Cadbury Snaps, which were discontinued 16 years ago.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21452611.jpg?type=og-image&xType=0&yType=60
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 Morrisons has launched a new chocolate snack that shoppers are comparing to a Cadbury favourite discontinued 16 years ago.

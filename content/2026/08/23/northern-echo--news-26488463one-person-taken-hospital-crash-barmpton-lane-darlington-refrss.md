@@ -7,6 +7,11 @@ scraped_at: '2026-08-23T20:35:35Z'
 published: '2026-08-23T00:00:00Z'
 description: One person has been taken to hospital after a crash in Darlington.
 image: https://www.thenorthernecho.co.uk/resources/images/20567085.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: NEWSQUEST)*

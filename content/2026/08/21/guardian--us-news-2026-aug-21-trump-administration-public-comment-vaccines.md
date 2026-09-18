@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Asking people to weigh in on adoption of different categories in move
   that will sow confusion and create access challenges, say experts
 image: https://i.guim.co.uk/img/media/8e4499b00d19392b06c73a7b2c9ca49d7e8f9e68/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46140c117e50904bb08ff4bfd7497c72
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The Trump administration is asking for public feedback on changes to the ways it recommends vaccines – likely opening the door to greater access challenges and confusion, experts say.

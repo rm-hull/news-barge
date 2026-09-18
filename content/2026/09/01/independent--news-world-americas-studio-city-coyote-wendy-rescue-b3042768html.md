@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: A coyote who has had a huge abscess or undiagnosed growth on her face
   for over a year and charmed Studio City residents is getting veterinary care today
 image: https://static.independent.co.uk/2026/09/01/13/32/Screenshot-2026-09-01-at-14-11-53.png?trim=205,0,68,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A coyote that charmed Studio City residents while enduring a large undiagnosed growth or abscess on her face for over a year is undergoing medical care after being secured by a wildlife rescue group.

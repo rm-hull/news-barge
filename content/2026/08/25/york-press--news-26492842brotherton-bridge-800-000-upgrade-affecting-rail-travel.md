@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Brotherton Bridge, near Knottingley has carried trains across the River
   Aire since the mid-19th century and will undergo essential engineering work…
 image: https://www.yorkpress.co.uk/resources/images/21367714.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 ## Passenger disruption expected as rail bridge in Yorkshire undergoes £800,000 upgrade

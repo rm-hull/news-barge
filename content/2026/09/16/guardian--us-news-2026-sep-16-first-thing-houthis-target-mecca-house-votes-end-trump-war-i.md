@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Vote comes amid Republican call to impeach defense secretary Pete Hegseth.
   Plus a catnapped bodega cat in Brooklyn is returned home
 image: https://i.guim.co.uk/img/media/a2ba6ddd16347d7801923aeaa828903436c00c2b/283_0_2835_2267/master/2835.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d41f9780c957d56b956c7b638ff831ff
+categories:
+- UK
+- News & Politics
 ---
 
 Good morning. Saudi Arabia’s air defenses intercepted and destroyed a Houthi drone south of Mecca yesterday before it entered prohibited airspace over the holy city. A spokesperson for the kingdom, which is fighting the Iran-aligned group in Yemen, said the security of Islam’s two holiest sites and of pilgrims was a “red line”. Mecca, home to shrines sacred to Muslims worldwide, is Islam’s holiest city and the focal point of the annual hajj pilgrimage.

@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: The European Court of Human Rights has criticized Turkey's courts over
   the imprisonment of philanthropist Osman Kavala
 image: https://static.independent.co.uk/2026/08/25/11/Turkey_Kavala_European_Court_84718.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Law & Justice
 ---
 
 The European Court of Human Rights on Tuesday criticized Turkey's courts over the imprisonment of prominent philanthropist Osman Kavala, saying it highlighted a “systemic problem” that was “marked by the detention and prosecution of political opponents, human-rights defenders and journalists.”

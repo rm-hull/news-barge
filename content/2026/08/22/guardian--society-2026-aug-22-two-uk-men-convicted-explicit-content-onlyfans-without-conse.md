@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: Separate criminal convictions come as domestic violence charities warn
   of tech-facilitated abuse and coercion
 image: https://i.guim.co.uk/img/media/932caeb067fa25b20e197fcea13315ec5999c1db/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4268063f5eb4db0aa84f2170226a61db
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 Two men have been convicted this week in separate criminal cases that revealed they had posted explicit content on OnlyFans without the full consent of the women whose images were uploaded.

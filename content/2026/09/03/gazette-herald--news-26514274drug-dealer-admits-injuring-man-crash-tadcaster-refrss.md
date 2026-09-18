@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A drug dealer driving an Audi has admitted causing a crash in a North
   Yorkshire town that left a man seriously injured.
 image: https://www.gazetteherald.co.uk/resources/images/19150606.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Glenn Pysher, 22, was shot dead by a police officer last month after
   knocking on the wrong door following a night out
 image: https://static.the-independent.com/2026/09/01/19/Wrong_House_Shooting__5456.jpg?trim=206,836,3567,655&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Pennsylvania police officer has been charged with voluntary manslaughter after killing Glenn Pysher, a college student who mistakenly tried to enter a stranger’s home after a night out.

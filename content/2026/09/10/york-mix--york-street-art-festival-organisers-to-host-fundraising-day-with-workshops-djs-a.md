@@ -8,6 +8,10 @@ scraped_at: '2026-09-10T12:54:07Z'
 published: '2026-09-10T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/Acomb-Fest-2.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 York artists are coming together for a fundraising day of street art, workshops and family fun – and to continue the legacy of Acombfest!

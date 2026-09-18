@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T12:57:23Z'
 published: '2026-09-09T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-river-ouse-from-millennium-bridge-evening-2025.webp
+categories:
+- Local
+- York
+- History
 ---
 
 Firefighters and river users combined to sort a problem on the river in York last night (Tuesday).

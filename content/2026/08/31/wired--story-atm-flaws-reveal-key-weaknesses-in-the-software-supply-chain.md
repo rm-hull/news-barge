@@ -9,6 +9,10 @@ description: A security researcher discovered nine vulnerabilities impacting ATM
   and authentication software. But the problems extend far beyond your local cash
   machine.
 image: https://media.wired.com/photos/6a72122f1c13f653315c774b/191:100/w_1280,c_limit/Security_ATMs%20Can%20Be%20Hacked%20Through%20The%20Software%20Supply%20Chain_v1.jpg
+categories:
+- Technology & Software
+- Science
+- Personal Finance & Investing
 ---
 
 For the past five years, security researcher Matt Burch has immersed himself in the esoteric and high-stakes world of ATM security, in which small software flaws can sometimes expose cold, hard cash. As Burch has bored deeper into the computers powering these digital lock boxes—and continued to find vulnerabilities in key digital security systems—he has started working to raise the alarm, not just about overlooked ATM flaws, but about how that same software used in other industries can introduce weaknesses in an array of critical systems.

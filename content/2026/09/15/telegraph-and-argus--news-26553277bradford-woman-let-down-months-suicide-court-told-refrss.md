@@ -9,6 +9,12 @@ published: '2026-09-15T00:00:00Z'
 description: A teenage soldier from Bradford was "let down" by two officers when she
   "told each of them enough to understand that she may have…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21459918.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
+- History
 ---
 
 *(Image: Family handout/PA)*

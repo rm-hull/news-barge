@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A Bradford councillor has urged young people to take care on electric
   scooters and bikes after a teenager was left fighting for his life following a…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21475241.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: T&A)*

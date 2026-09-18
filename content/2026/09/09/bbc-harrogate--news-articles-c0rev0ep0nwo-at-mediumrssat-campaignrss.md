@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The Devil's Arrows actually came from different site several miles away
   from previously thought.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78ab/live/5fb399b0-aabe-11f1-9bcd-4de40c4158ea.jpg
+categories:
+- Local
+- Harrogate
+- History
 ---
 
 ![One large grey stone monolith can be seen in the foreground with another in the background. They are in a field of crops. The sky is cloudy and grey.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/78ab/live/5fb399b0-aabe-11f1-9bcd-4de40c4158ea.jpg)

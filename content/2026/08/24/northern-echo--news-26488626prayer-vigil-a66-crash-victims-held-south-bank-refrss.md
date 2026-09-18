@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: A silent prayer vigil will be held in South Bank today (August 24) as
   the community continues to mourn seven people who died in the A66 crash.
 image: https://www.thenorthernecho.co.uk/resources/images/21360977.jpg?type=og-image&xType=0&yType=427
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A silent prayer vigil will be held in South Bank today (August 24) as the community continues to mourn seven people who died in the devastating A66 crash.

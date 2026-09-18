@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: There will be more overnight road closures as ongoing work to revamp
   the area outside York station takes a step forward.
 image: https://www.yorkpress.co.uk/resources/images/21298076.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Dylan Connell)*

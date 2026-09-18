@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Pest control experts say that wasps become more aggressive at this time
   of year because their food supply begins to run out
 image: https://www.thetelegraphandargus.co.uk/resources/images/21404385.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Careers & Productivity
 ---
 
 *(Image: Pierre Aden/Getty)*

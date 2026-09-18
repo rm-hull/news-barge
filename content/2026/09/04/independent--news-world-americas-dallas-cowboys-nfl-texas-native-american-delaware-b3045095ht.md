@@ -11,6 +11,11 @@ description: NFL career rushing leader Emmitt Smith is being sued by a Native Am
   business partners misappropriated a $2.5 million loan that was supposed to fund
   a wind farm project in Texas
 image: https://static.independent.co.uk/2026/09/05/00/Emmitt_Smith_Lawsuit_426_4.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 NFL career rushing leader Emmitt Smith is being sued by a Native American investment company over claims that the former Dallas Cowboys running back and his business partners misappropriated a $2.5 million loan that was supposed to fund a wind farm project in Texas.

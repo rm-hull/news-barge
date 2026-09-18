@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Ed Sheeran's Loop Tour faces chaos after four supporting acts quit in
   solidarity with Macklemore
 image: https://static.the-independent.com/2026/09/14/22/Music_Macklemore_Ed_Sheeran_425_3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Music industry insiders say artists who can fill stadiums typically have significant control over their tours, raising questions about Ed Sheeran’s claim that he had no say in Macklemore being dropped from his Loop Tour.

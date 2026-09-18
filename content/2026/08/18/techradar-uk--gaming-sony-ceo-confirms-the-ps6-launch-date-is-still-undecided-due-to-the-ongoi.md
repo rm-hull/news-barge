@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Sony CEO Hiroko Totoki has confirmed that the PlayStation 6 release date
   remains undecided due to the ongoing manufacturing component crisis and trade wars.
 image: https://cdn.mos.cms.futurecdn.net/ywUY6mV7YSBp5Pu2oJkxH4-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![The side panel of a PS5](https://cdn.mos.cms.futurecdn.net/ywUY6mV7YSBp5Pu2oJkxH4.jpg) 

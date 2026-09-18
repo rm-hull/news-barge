@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Farsley Cricket Club seeks Leeds planning permission for an all-weather
   bowling track and enclosed nets to improve senior, junior and community…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21433366.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Google)*

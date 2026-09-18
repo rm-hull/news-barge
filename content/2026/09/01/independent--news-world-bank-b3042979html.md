@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: Guinea-Bissau has voted to expand presidential powers and reduce the
   legislature
 image: https://static.independent.co.uk/2026/09/01/18/Guinea_Bissau_Referendum_79344.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Guinea-Bissau has voted in support of expanding presidential powers and trimming the country's legislature, electoral authorities announced Tuesday.

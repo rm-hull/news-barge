@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: THE conversion of a North Yorkshire army reserve centre into a business
   park has been officially approved by the council.The former Territorial…
 image: https://www.gazetteherald.co.uk/resources/images/21403004.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 THE conversion of a North Yorkshire army reserve centre into a business park has been officially approved by the council.

@@ -7,6 +7,10 @@ scraped_at: '2026-08-29T19:23:39Z'
 published: '2026-08-29T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/07/north-yorkshire-police-back-jacket-label-nyp.webp
+categories:
+- Local
+- York
+- Automotive
 ---
 
 Thieves have stolen items from a garage in a York suburb during an early morning burglary.

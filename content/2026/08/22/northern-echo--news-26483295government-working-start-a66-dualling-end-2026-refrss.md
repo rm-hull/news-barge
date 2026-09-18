@@ -8,6 +8,13 @@ published: '2026-08-22T00:00:00Z'
 description: The Government has reaffirmed its commitment to the £1.4bn A66 Northern
   Trans-Pennine scheme, with National Highways working to start construction…
 image: https://www.thenorthernecho.co.uk/resources/images/21352664.jpg?type=og-image&xType=0&yType=267
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 The Government has reaffirmed its commitment to the £1.4bn A66 dualling scheme, saying National Highways is working to begin construction by the end of this year.

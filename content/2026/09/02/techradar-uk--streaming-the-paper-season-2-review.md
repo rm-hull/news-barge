@@ -10,6 +10,9 @@ description: The Toledo Truth Teller is back to try and hit new heights, but the
   in The Paper season 2 often fall short. But what do we really expect from the Peacock
   Office spinoff?
 image: https://cdn.mos.cms.futurecdn.net/brsiyJsVkh5Twvg768GZTR-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ### TechRadar Verdict

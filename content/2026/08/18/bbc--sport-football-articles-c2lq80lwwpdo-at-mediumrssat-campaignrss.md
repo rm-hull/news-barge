@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The Arsenal captain had a hugely frustrating 2025-26 season despite leading
   his team to the title - but now appears fit and refreshed.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0e88/live/5ad68e20-9ad8-11f1-b2f7-5d1639b20e22.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Martin Odegaard celebrates during the Community Shield](https://ichef.bbci.co.uk/ace/standard/987/cpsprodpb/0e88/live/5ad68e20-9ad8-11f1-b2f7-5d1639b20e22.jpg)

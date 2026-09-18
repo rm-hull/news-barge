@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Former Premier League referee Mike Dean says he would stay in the centre
   circle for as long as he could during a match.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b90f/live/fc1412b0-a78c-11f1-9bb7-af8e8fd3d806.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 ![Referee Mike Dean points](https://ichef.bbci.co.uk/ace/standard/780/cpsprodpb/b90f/live/fc1412b0-a78c-11f1-9bb7-af8e8fd3d806.jpg)

@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A SpaceX rocket that blasted off from Texas in July, and crashed into
   the Indian Ocean, made an unexpected appearance off Christmas Island.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/32f8/live/0f3c86f0-9bef-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Science
+- Technology & Software
 ---
 
 # 'Incredible': SpaceX rocket spotted off Christmas Island coast

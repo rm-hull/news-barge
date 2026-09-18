@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: C&C will merge the Asahi wholesale business into its Matthew Clark Bibendum
   (MCB) operations following the deal.
 image: https://static.independent.co.uk/2025/10/03/10/03102140-8b2c47f6-8d45-4653-91ae-94cbe9a768c8.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Magners and Tennent’s lager maker C&C has agreed a deal to buy the UK wholesale arm of Japanese beer brand Asahi.

@@ -10,6 +10,11 @@ published: '2026-09-14T00:00:00Z'
 description: A new report says it's a sign developers are getting more savvy when
   it comes to overcoming resident pushback
 image: https://cdn.mos.cms.futurecdn.net/cqnY8rTnqnhLpHddCA5qrn-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![AI data center](https://cdn.mos.cms.futurecdn.net/cqnY8rTnqnhLpHddCA5qrn.jpg) 

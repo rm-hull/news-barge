@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: As families await news after the catastrophe, community members appeal
   for compassion in the face of hateful rhetoric
 image: https://i.guim.co.uk/img/media/32f9bcca364eda82b3174df9309da98b8f4041e1/752_0_6573_5261/master/6573.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=19c376cb8c4f7d9af0fedf0973602e58
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A slew of racist social media comments have been made towards Australians missing in the catastrophic Nepal-Tibet floods, prompting calls for greater accountability of major platforms to remove hateful rhetoric.

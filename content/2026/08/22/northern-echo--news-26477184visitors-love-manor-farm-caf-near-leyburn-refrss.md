@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Manor Farm Café in Bellerby, near Leyburn, is a popular biker stop praised
   for its breakfasts, burgers, friendly staff, and lively atmosphere.
 image: https://www.thenorthernecho.co.uk/resources/images/21340303.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: TRIPADVISOR)*

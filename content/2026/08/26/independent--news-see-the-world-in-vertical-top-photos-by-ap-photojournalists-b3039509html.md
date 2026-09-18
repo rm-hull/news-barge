@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T13:11:47Z'
 published: '2026-08-26T00:00:00Z'
 description: Aug. 19 - 25, 2026
 image: https://static.independent.co.uk/2026/08/26/11/Germany_Zoo_9_413.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Aug. 19 - 25, 2026

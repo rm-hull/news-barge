@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: As one card recently sold for £12m, opportunistic thefts have surged
   – envelopes are being opened en route, costing small businesses thousands
 image: https://i.guim.co.uk/img/media/05554e18fe4956642294dcff54102f9d2802f722/1019_1820_3265_2612/master/3265.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=52065ae6395e892cc7b9d78056956a9f
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Pokémon’s success over the last 30 years has seen it grow from a much-loved Game Boy classic, to a world-dominating brand with TV shows, spin-off games, toys and even a theme park. The trading card game is a huge part of that, with more than 85bn cards printed over its lifetime, and the appetite for them shows no signs of slowing down. Packs get snapped up after release so quickly it’s now almost impossible to find them in shops, and a booming resale market is driving the hobby into murky waters.

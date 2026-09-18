@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: CK Hutchison is seeking over $1.5 billion from Panama for damages to
   its investments after the country seized two ports at the ends of the Panama Canal
 image: https://static.independent.co.uk/2026/08/20/04/Hong_Kong_Panama_Ports_37813.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Hong Kong conglomerate CK Hutchison said Thursday it was seeking more than $1.5 billion in damages from Panama after the country seized two canal ports caught in the crosshairs of U.S.-China tensions.

@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Dubbed the ‘Bernie Bump,’ the increase would be paid on top of beneficiaries’
   regular Social Security benefits and annual cost-of-living adjustment
 image: https://static.independent.co.uk/2026/09/02/13/32/GettyImages-1346574062.jpeg?trim=0,37,0,37&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Millions of Social Security recipients could get an extra $200 a month under a proposal backed by Senator Bernie Sanders.

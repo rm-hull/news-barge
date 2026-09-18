@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: The conversion of a warehouse into a racket sport and pilates facility
   has been approved by council planners.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21412949.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: CPW Planning)*

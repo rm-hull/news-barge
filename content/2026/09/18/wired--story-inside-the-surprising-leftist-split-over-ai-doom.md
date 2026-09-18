@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: The left wants AI regulation. They just can't agree on what it should
   look like or how concerned they should be.
 image: https://media.wired.com/photos/6aa9a061b69918de8da37621/191:100/w_1280,c_limit/DSA-split-AI-regulation.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 On September 10, two days after researcher Jacob Coxon, who had recently quit his job at Anthropic, sounded the alarm about the industry potentially bringing about the end of humanity, the New York City Democratic Socialists of America posted a carousel of images on Instagram. The first slide was a drawing of an ouroboros—a dragon eating its own tail—set against a hot pink background. “AI alarmism and AI hype are the same story: both keep your attention on a science-fiction future to distract you from the real harms experienced in the present,” the image reads.

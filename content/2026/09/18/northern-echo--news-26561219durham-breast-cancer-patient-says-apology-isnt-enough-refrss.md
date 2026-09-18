@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: A County Durham breast cancer patient says an NHS apology is not enough
   after years of distress over surgery, wound care and delayed results.
 image: https://www.thenorthernecho.co.uk/resources/images/21471416.jpg?type=og-image&xType=0&yType=145
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A County Durham breast cancer patient has said an NHS apology cannot make up for years of “continued torment” after the trust admitted her care fell below expected standards.

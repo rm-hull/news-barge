@@ -9,6 +9,9 @@ published: '2026-08-28T00:00:00Z'
 description: The Stop Smart Glasses campaign aims to halt the mass adoption of 'pervert
   glasses'
 image: https://cdn.mos.cms.futurecdn.net/bdbpu4VJqM2NBuTamDNQBR-1920-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A Ray-Ban eyewear store in Rome, Italy, on Friday, July 11, 2025](https://cdn.mos.cms.futurecdn.net/bdbpu4VJqM2NBuTamDNQBR.png) 

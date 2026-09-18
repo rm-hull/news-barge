@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: A reader thinks outside the box on ways to mitigate against this slow-forming
   issue
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_304531134.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_304531134.jpg?w=840)

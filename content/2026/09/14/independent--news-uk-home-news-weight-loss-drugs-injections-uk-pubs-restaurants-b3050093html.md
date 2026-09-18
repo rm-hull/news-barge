@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: One in eight pubs and restaurants say they have fewer customers as a
   result of weight-loss drugs
 image: https://static.independent.co.uk/2026/09/04/10/1796944018..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
+- Health & Fitness
 ---
 
 Pubs and restaurants think they are losing business as a result of the boom in weight-loss drugs, according to a new report.

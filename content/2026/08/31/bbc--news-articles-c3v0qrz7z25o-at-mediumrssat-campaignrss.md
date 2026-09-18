@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: The firm's Hong Kong listing on Tuesday comes after a years-long quest
   to sell shares in New York and London.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afb0/live/cdd7dcb0-a5ac-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Shein's founder, Xu Yangtian (right), stands on a stage next to financial director Poppy Bao during the company's listing ceremony. Behind them is a blue screen showing Shein's shares down by 8.36%.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/afb0/live/cdd7dcb0-a5ac-11f1-a291-b542ee92de7c.jpg)

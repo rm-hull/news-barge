@@ -9,6 +9,10 @@ description: 'The Bochasanwasi Akshar Purushottam Swaminarayan Sanstha (BAPS) Hi
   temple in Paris has released a statement apologising for "any pain or inconvenience
   caused." #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/48/15/1200x675_cmsv2_5499ca51-879f-55a2-b8c5-119e781f3766-9904815.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 ## The Bochasanwasi Akshar Purushottam Swaminarayan Sanstha (BAPS) Hindu temple in Paris has released a statement apologising for "any pain or inconvenience caused."

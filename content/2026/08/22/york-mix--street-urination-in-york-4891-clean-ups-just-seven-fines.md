@@ -7,6 +7,10 @@ scraped_at: '2026-08-22T12:57:16Z'
 published: '2026-08-22T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/06/york-street-urination-and-defecation-fine-sign-ldrs.webp
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 Just seven fines were handed out for street urination in York in the first year of new powers being in force, despite clean ups numbering in the thousands.

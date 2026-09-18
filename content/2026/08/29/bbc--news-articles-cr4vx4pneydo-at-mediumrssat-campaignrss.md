@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: Two ships were seized within four days last week raising to at least
   13 the number attacked since January.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0877/live/0f940730-a20d-11f1-9090-b51af3a01fc2.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A man - with his back to the camera - stands on some rocks to the left of the picture. Holding a gun across his shoulders, he is looking out to sea where a tanker is in the far distance.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0877/live/0f940730-a20d-11f1-9090-b51af3a01fc2.jpg)

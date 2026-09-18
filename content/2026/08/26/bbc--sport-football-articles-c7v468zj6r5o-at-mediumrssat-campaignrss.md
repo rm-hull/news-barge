@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: After some early season setbacks, "proud" Wouter Vrancken believes Hearts
   are getting their rewards by securing Conference League progress.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9129/live/6b5c20a0-a188-11f1-9ebf-d7a2f4c11284.jpg
+categories:
+- UK
+- News & Politics
+- Video Gaming
 ---
 
 ![Hearts players celebrating](https://ichef.bbci.co.uk/ace/standard/950/cpsprodpb/9129/live/6b5c20a0-a188-11f1-9ebf-d7a2f4c11284.jpg)

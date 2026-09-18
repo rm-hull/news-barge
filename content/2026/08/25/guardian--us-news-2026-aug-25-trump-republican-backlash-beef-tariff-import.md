@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: Alarm as Republicans warn that ‘flooding’ stores with 300,000 metric
   tons of beef imports will hit US farmers
 image: https://i.guim.co.uk/img/media/628e963f9a99e5089f267fea6c145f966f72c407/735_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f8e68d6f07e8202de9f0b143ba998668
+categories:
+- UK
+- News & Politics
 ---
 
 Donald Trump is facing growing criticism from within his own party over his decision to temporarily pause US tariffs on foreign beef in a bid to bring down grocery prices.

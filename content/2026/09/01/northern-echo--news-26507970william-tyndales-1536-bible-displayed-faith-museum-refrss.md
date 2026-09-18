@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Today's Object of the Week is a rare survivor linked to one of the most
   significant moments in English history, with only a handful of copies…
 image: https://www.thenorthernecho.co.uk/resources/images/21302196.jpg?type=og-image&xType=0&yType=170
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: THE AUCKLAND PROJECT)*

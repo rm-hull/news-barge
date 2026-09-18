@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Burke was charged on April 20 with capital murder in the 2025 death of
   14-year-old Celeste Rivas Hernandez
 image: https://static.the-independent.com/2026/04/30/17/D4VD-CAD%C3%81VER_EN_AUTO-CRONOLOG%C3%8DA_525_2.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Singer D4vd, whose legal name is David Anthony Burke, has pleaded not guilty to murder and other charges stemming from the death of a 14-year-old Celeste Rivas Hernandez, whose dismembered and decomposing remains were found in the trunk of his Tesla at a Hollywood tow yard.

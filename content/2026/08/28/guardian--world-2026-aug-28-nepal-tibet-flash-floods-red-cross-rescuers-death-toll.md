@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Federation says it fears death toll of nearly 600 will continue to rise
   as rescuers reach cut-off areas
 image: https://i.guim.co.uk/img/media/801126947c8d8ca4588da62c64e532997fb1a82b/842_378_2721_2176/master/2721.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5742b017026f46c2a2a6e264d8c3b744
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 The Red Cross has said at least 93,000 people may have been affected by Wednesday’s flash floods on the Nepal-Tibet border, which have killed nearly 600 people, left another 1,900 missing, and triggered a huge rescue operation that is being hampered by fears of new flooding.

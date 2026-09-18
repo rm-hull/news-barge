@@ -9,6 +9,8 @@ published: '2026-09-07T00:00:00Z'
 description: The upcoming Boox Picco has a 3.97-inch screen and a USB-C port, but
   it lacks the magnets you'll find in rival Xteink devices.
 image: https://cdn.mos.cms.futurecdn.net/Hp89tUHx3o6hVMYmRsHuVQ-1525-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Boox Picco](https://cdn.mos.cms.futurecdn.net/Hp89tUHx3o6hVMYmRsHuVQ.jpg) 

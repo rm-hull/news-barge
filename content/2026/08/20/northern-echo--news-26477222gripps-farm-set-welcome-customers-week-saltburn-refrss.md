@@ -7,6 +7,11 @@ scraped_at: '2026-08-20T08:52:34Z'
 published: '2026-08-20T00:00:00Z'
 description: A family-run farm business is opening its doors after a two-year journey.
 image: https://www.thenorthernecho.co.uk/resources/images/21340472.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A North East family-run farm is opening its doors this week after a two-year journey.

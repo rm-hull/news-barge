@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: A recording of the interview Duane Davis conducted with detectives was
   played to the jury.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/37e6/live/437eb910-9d57-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Duane "Keffe D" Davis appears in court for his murder trial in Las Vegas](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/37e6/live/437eb910-9d57-11f1-a291-b542ee92de7c.jpg)

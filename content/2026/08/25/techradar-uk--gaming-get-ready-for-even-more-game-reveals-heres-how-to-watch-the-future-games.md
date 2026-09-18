@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: The Future Games Show returns with three digital showcases at Gamescom
   2026 — here's how you can watch.
 image: https://cdn.mos.cms.futurecdn.net/QVuTK2d8L4whLjDCKzvXZd-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Future Games Show Gamescom logo.](https://cdn.mos.cms.futurecdn.net/QVuTK2d8L4whLjDCKzvXZd.jpg) 

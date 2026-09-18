@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Drivers heading to this year’s Great North Run are being warned that
   extensive closures will affect Newcastle, Gateshead and South Tyneside on…
 image: https://www.thenorthernecho.co.uk/resources/images/21438482.jpg?type=og-image&xType=0&yType=94
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Drivers heading to this year’s Great North Run are being warned that extensive closures will affect Newcastle, Gateshead and South Tyneside on race day.

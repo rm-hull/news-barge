@@ -9,6 +9,11 @@ description: Algeria declared three days of mourning after wildfires killed 12 p
   and injured dozens. Authorities said 46 fires remained active, with 54 people hospitalised
   for burns, including six in critical condition.
 image: https://images.euronews.com/articles/stories/09/89/58/73/1200x675_cmsv2_dd1785db-973d-5a5f-b5f6-3bfba79ac476-9895873.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
+- Health & Fitness
 ---
 
 ## Algeria declared three days of mourning after wildfires killed 12 people and injured dozens. Authorities said 46 fires remained active, with 54 people hospitalised for burns, including six in critical condition.

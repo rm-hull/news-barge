@@ -10,6 +10,11 @@ description: Tension between Washington and Ottawa is already high, stoked by tr
   disputes and President Donald Trump's inflammatory comments about making Canada
   the 51st U.S. state
 image: https://static.independent.co.uk/2026/08/18/05/US_Canada_Trade_21444.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 The United States and Canada have wrangled for decades over trade, poking each other interminably over sore spots like Canadian softwood lumber imports and U.S. access to Canada’s protected dairy market.

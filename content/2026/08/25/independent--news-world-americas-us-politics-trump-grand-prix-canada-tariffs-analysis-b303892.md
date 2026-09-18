@@ -9,6 +9,10 @@ description: 'The Grand Prix and the re-escalated trade war are the same instinc
   press ahead with the unpopular thing, because the unpopular thing puts him at the
   center of it, writes Andrew Feinberg'
 image: https://static.independent.co.uk/2026/08/24/04/2026-08-24T003543Z_1996957514_RC2H4NA2UI82_RTRMADP_3_USA-250-GRAND-PRIX.JPG?trim=161,0,161,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The presidential limousine known as “The Beast” is relatively quick for a vehicle tipping the scales at more than nine tons, but it’s not nearly as fast as an IndyCar.

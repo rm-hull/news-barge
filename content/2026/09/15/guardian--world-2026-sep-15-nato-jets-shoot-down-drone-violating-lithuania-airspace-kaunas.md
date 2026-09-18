@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The drone, which reportedly entered from Belarus, was shot down near
   Pratkunai village in central-southern Lithuania
 image: https://i.guim.co.uk/img/media/7ad116642d1fd8d1cdef82e1a74a61b2a5f6ca93/152_0_1518_1214/master/1518.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fec08a4b88662d4b6bff472b370f2e46
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Nato fighter jets shot down a drone over Lithuania after an alert was issued in the capital, Vilnius, and surrounding region, while Poland scrambled fighter jets less than a day after retrieving a suspected Russian drone adrift in its waters.

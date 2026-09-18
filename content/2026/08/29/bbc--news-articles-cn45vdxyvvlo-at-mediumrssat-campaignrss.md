@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Turbulent international affairs have brought the vote forward, but the
   campaign has focused more on Iceland's vital fishing industry.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ad8/live/d86c20a0-a31d-11f1-8937-ebc435db1160.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Supporters of the 'No' campaign wave Icelandic flags during a rally against reopening Iceland's European Union accession negotiations in Reykjavik, Iceland, on August 27, 2026](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1ad8/live/d86c20a0-a31d-11f1-8937-ebc435db1160.jpg)

@@ -7,6 +7,10 @@ scraped_at: '2026-08-31T05:22:45Z'
 published: '2026-08-30T00:00:00Z'
 description: Physically inactive participants saw an even greater benefit
 image: https://static.independent.co.uk/2026/08/25/13/51/iStock-1481832268.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Catching up on sleep on the weekend is linked to better heart health and a lower risk of hypertension, according to new research.

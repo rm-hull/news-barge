@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Seals and sea lions often communicate by touch and share spaces with
   wild birds, placing them at risk of infection from H5N1 virus
 image: https://i.guim.co.uk/img/media/05ebf585f519f35661c068c72c735cdcf688c0e4/136_0_1333_1066/master/1333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=81382fe4d003ea7032196ac32ebeaccb
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 Since H5 bird flu arrived in Portland, Victoria, the situation has been “pretty grim” with many dead and suffering birds on the beach, and the dilemma of how to dispose of the carcasses, according to local resident Lynn Murrell.

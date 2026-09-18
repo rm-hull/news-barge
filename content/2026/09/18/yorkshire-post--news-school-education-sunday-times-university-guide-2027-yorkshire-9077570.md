@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A prestigious national list of the UK’s best universities has been released
   - with Yorkshire featured twice in the top 20.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/24/12/10/Your-paragraph-text-2026-08-24T133903-866.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # How Yorkshire fared in the 2027 list of UK’s best universities

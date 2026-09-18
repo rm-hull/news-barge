@@ -9,6 +9,10 @@ scraped_at: '2026-09-16T13:27:34Z'
 published: '2026-09-16T00:00:00Z'
 description: But it remains to be seen just how advanced those systems will be
 image: https://cdn.mos.cms.futurecdn.net/s8oZY8R9mUgEH85SaFQLu5-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Nvidia](https://cdn.mos.cms.futurecdn.net/s8oZY8R9mUgEH85SaFQLu5.png) 

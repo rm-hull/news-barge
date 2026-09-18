@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Durham County Council has backed plans to develop a 'once in a generation'
   vision for Chester-le-Street's Riverside.
 image: https://www.thenorthernecho.co.uk/resources/images/19228959.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ### What is the Public Notice Portal?

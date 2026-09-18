@@ -8,6 +8,11 @@ scraped_at: '2026-08-28T11:15:53Z'
 published: '2026-08-28T00:00:00Z'
 description: 'From: William Loneskie, Oxton, Lauder, Berwickshire.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjNjY2E0MjQ5LTUxZjUtNDAwNy1iMjc5LTI3ZDZlZDc3MTFkYTplNWQ3ZjU1YS0yNzQ0LTQzZmItYWRhMS1kMTNiOTFhMzYzYTM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Andy Burnham’s bellicosity is unlikely to go unpunished by Russia - Yorkshire Post Letters

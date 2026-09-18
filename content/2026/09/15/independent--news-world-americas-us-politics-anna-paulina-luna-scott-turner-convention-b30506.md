@@ -9,6 +9,10 @@ description: Florida congresswoman shrugs off Housing Secretary Scott Turner’s
   pointing out he is a former NFL player and ‘maybe went for a high five’ as they
   passed each other on stage
 image: https://static.independent.co.uk/2026/09/10/1/12/Screenshot-2026-09-09-at-6-13-25-PM.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Florida Republican Rep. Anna Paulina Luna has brushed aside suggestions that Housing and Urban Development Secretary Scott Turner attempted to smack her butt at last week’s Republican National Convention in Texas.

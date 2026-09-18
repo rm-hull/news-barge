@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The death toll in the catastrophic flooding in Nepal and Tibet has climbed
   past 900 with more than 4,700 missing
 image: https://static.independent.co.uk/2026/08/31/06/APTOPIX__Nepal_Flash_Floods_4766_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 The death toll in the catastrophic flooding in Nepal and Tibet climbed past 900 Monday with more than 4,700 missing.

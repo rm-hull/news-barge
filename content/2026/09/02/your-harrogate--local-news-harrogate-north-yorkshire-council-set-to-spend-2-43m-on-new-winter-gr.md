@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: A multimillion-pound deal to replace gritters and other winter maintenance
   vehicles used on North Yorkshire’s roads is set to be approved.
 image: https://mmo.aiircdn.com/409/6a982fb8ad5315406f9.jpg
+categories:
+- Local
+- Harrogate
+- Automotive
 ---
 
 ![](https://mmo.aiircdn.com/409/6a982fb8ad5315406f9.jpg) 

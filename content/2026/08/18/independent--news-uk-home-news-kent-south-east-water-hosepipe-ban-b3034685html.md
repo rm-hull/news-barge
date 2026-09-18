@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T08:50:38Z'
 published: '2026-08-18T00:00:00Z'
 description: Supply had been restored to thousands of properties after a major outage
 image: https://static.independent.co.uk/2026/08/18/09/01M09Z8Y41CK2GEQRJ1GW361G1.jpg?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Thousands of households across Kent are being asked to restrict their water usage to "essential" tasks following widespread disruptions to local supplies.

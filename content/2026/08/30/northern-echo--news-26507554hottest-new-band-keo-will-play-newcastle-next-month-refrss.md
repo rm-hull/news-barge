@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Hottest new band KEO have told fans they “can’t wait” to kick off their
   intimate album launch tour in Newcastle next month.
 image: https://www.thenorthernecho.co.uk/resources/images/21389547.jpg?type=og-image&xType=0&yType=573
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 *(Image: LIAM RUSSELL)*

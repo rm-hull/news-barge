@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: As public air monitors disappear, federal rollbacks and state laws are
   making it harder than ever to know what’s in the air
 image: https://i.guim.co.uk/img/media/906ae4f75c9a82db2a25fe1cdf7e4d956abc60ad/0_183_5235_4188/master/5235.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=79699ad7a6fa8300e01b48919f022c1d
+categories:
+- UK
+- News & Politics
 ---
 
 As the US’s network for monitoring air pollution deteriorates, a Floodlight investigation has found that the chemical industry is going state-to-state to restrict one of the few options citizens have left for holding polluters accountable: low-cost air sensors.

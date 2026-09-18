@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Doctors have told mum and dad Catrin and Dylan it could take years for
   a donor to materialise.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7861/live/4aeaeae0-9bed-11f1-ba30-ddd78081057f.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
+- Health & Fitness
 ---
 
 ![Macs Green is a small baby. He is lying in a hospital bed with a tube coming from his nose. He has an orange cuddly toy on his right](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7861/live/4aeaeae0-9bed-11f1-ba30-ddd78081057f.jpg)

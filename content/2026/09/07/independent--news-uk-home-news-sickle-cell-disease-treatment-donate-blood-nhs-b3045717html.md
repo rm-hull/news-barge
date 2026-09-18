@@ -7,6 +7,11 @@ scraped_at: '2026-09-07T14:13:17Z'
 published: '2026-09-07T00:00:00Z'
 description: Health experts say an estimated 16,000 additional volunteers are needed
 image: https://static.independent.co.uk/2024/08/28/10/121547ada5ecb9d28c9ae2a776976decY29udGVudHNlYXJjaGFwaSwxNzI0OTIwNjU1-2.70098868.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Science
 ---
 
 The NHS is currently able to meet only around half the demand for blood required to treat patients with sickle cell disease, according to health experts.

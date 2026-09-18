@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Steaming hot liquid can damage the cell lining on the way down to the
   stomach, experts say.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/779f/live/b37430c0-aaa8-11f1-9eba-7de947fa7cd1.jpg
+categories:
+- UK
+- News & Politics
+- Food & Cooking
+- Health & Fitness
 ---
 
 ![A woman reaches her hand out to pick up a steaming hot mug which is shiny and green-coloured](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/779f/live/b37430c0-aaa8-11f1-9eba-7de947fa7cd1.jpg)

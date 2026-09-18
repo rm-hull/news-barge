@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: Last year, Florida’s surgeon general said he hoped to end vaccine mandates
   in the state – equating them to a form of ‘slavery’
 image: https://static.independent.co.uk/2026/08/25/16/2290372400..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Florida health officials are trying to make good on their promise to end all vaccine requirements by introducing a new rule that would drop four required immunizations for public and private school attendance.

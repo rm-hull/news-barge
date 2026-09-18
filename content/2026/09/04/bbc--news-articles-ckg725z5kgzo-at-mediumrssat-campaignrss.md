@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: OpenAI said it could not "meaningfully respond" to the report's findings
   because it hadn't been allowed to review it ahead of publication.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ![A hand holds a phone which has the OpenAI logo on its screen.](https://ichef.bbci.co.uk/ace/standard/891/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg)

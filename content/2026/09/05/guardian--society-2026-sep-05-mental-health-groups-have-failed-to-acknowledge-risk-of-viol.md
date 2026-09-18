@@ -9,6 +9,12 @@ published: '2026-09-05T00:00:00Z'
 description: Sector has avoided issue because of stigma fears, expert warns ahead
   of closure of Nottingham attacks inquiry
 image: https://i.guim.co.uk/img/media/0a01e4974b1464dc2a348859ebc4150bc136d33c/0_0_5906_4724/master/5906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef24ef34892513b57e5facf5f1521c12
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Society & Culture
+- Self-Improvement
 ---
 
 Mental health organisations have “failed to acknowledge” the risk of violence from a minority of people with severe mental illnesses, the chief executive of Mind has said ahead of the closure of the inquiry into the Nottingham attacks.

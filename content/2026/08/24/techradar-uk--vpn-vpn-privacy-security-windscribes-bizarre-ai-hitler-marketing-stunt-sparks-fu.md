@@ -8,6 +8,10 @@ scraped_at: '2026-08-24T16:52:15Z'
 published: '2026-08-24T00:00:00Z'
 description: The VPN provider's attempt at edgy internet humor has misfired spectacularly
 image: https://cdn.mos.cms.futurecdn.net/QFVHFX64tUdtw2WUBRW4pU-2560-80.jpg
+categories:
+- Technology & Software
+- Comedy & Entertainment
+- Business & Entrepreneurship
 ---
 
 ![Windscribe VPN turned on on android device](https://cdn.mos.cms.futurecdn.net/QFVHFX64tUdtw2WUBRW4pU.jpg) 

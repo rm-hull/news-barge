@@ -10,6 +10,10 @@ description: New York is known as the city that never sleeps. But that comes at 
   price for US Open stars - including men's semi-finalists Ben Shelton and Alexander
   Zverev.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/27cc/live/8aabe6e0-ad70-11f1-9c69-71d92e5d6487.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Ben Shelton celebrates after beating Carlos Alcaraz in the 2026 US Open quarter-finals](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/27cc/live/8aabe6e0-ad70-11f1-9c69-71d92e5d6487.jpg)

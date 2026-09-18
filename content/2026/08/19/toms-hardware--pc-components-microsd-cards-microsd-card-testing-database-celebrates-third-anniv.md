@@ -9,6 +9,10 @@ scraped_at: '2026-08-19T13:09:47Z'
 published: '2026-08-19T00:00:00Z'
 description: Which microSD card brands and models are worth your money?
 image: https://cdn.mos.cms.futurecdn.net/zSC7KamvrhmL3aumd56atn-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Best MicroSD Express Cards](https://cdn.mos.cms.futurecdn.net/zSC7KamvrhmL3aumd56atn.jpg) 

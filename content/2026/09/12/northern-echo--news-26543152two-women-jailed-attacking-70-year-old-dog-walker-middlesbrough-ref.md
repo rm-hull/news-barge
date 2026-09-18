@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Two women have been jailed for helping viciously attack a 70-year-old
   pensioner in Middlesbrough.
 image: https://www.thenorthernecho.co.uk/resources/images/21441762.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Two women who helped a gang viciously attack a pensioner walking his dog have been jailed.

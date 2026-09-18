@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: NTSB’s chairwoman warned that the agency’s recommendations must be implemented
   ‘or we’re going to be here again’
 image: https://static.independent.co.uk/2026/09/08/21/2293572239..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 All five people who died when an Amazon cargo jet ran off the runway at Miami International Airport were inside a shuttle van used by an aircraft cleaning crew, authorities say.

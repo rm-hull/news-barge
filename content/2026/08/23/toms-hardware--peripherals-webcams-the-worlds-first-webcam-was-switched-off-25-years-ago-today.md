@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: Coffee pot watching was an important time saver for the 15-strong academic
   team who worked across several floors.
 image: https://cdn.mos.cms.futurecdn.net/3yurUPH49MgxYbgwxy4xPZ-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![A picture of the Trojan Room coffee pot, displayed in the XCoffee viewer.](https://cdn.mos.cms.futurecdn.net/3yurUPH49MgxYbgwxy4xPZ.jpg) 

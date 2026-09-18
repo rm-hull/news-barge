@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: Republicans appear to agree deck is stacked against them as Trump’s unpopularity
   grows
 image: https://static.independent.co.uk/2026/08/17/15/K5QFEQoP4fytH8Uf2Zx8FlpZrq84EQhhYWh47vYx8EE25cXMQrcJuyei4h1qGmCTHJZXn6rsmGkkPjmn6VvfiVjL_BgZOMMdtkQe..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump may be losing confidence in his party’s chances of holding onto the House in the midterms, if his son-in-law’s latest diplomatic efforts are any indication.

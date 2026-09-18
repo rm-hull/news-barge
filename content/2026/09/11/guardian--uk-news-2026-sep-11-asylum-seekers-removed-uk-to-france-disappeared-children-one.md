@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Rights groups say those missing after being deported under one in, out
   out deal include dozens of age-disputed children
 image: https://i.guim.co.uk/img/media/7085d62b9c97d68fea5714158902df06aaf8d151/222_342_2805_2244/master/2805.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0965fa332395d66649c314bfe6e1763f
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Sports
 ---
 
 Hundreds of asylum seekers including at least 41 age-disputed children who were removed to France under the “one in, one out” deal have disappeared, human rights organisations have said.

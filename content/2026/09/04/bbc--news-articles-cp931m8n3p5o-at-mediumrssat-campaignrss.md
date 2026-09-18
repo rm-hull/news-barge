@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Dame Angela Eagle warns the weather event could lead to extreme storms
   this winter.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa83/live/066833c0-a848-11f1-b3a7-d5de760fef6e.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![A cupboard filled with jars and tins of food.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/aa83/live/066833c0-a848-11f1-b3a7-d5de760fef6e.jpg)

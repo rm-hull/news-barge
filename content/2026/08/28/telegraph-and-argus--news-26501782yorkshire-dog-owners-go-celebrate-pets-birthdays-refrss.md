@@ -7,6 +7,11 @@ scraped_at: '2026-08-28T11:15:52Z'
 published: '2026-08-28T00:00:00Z'
 description: ALMOST three-quarters of Yorkshire dog owners celebrate their pets' birthdays.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21380960.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Pets & Animals
 ---
 
 *(Image: Supplied)*

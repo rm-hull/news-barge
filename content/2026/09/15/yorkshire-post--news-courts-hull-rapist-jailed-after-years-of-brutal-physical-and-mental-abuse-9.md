@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A man who subjected a woman to years of physical and mental abuse has
   been jailed for 13 years after being convicted of rape.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/14/17/54/MixCollage-14-Sep-2026-06-29-PM-2982.jpeg?trim=70,0,71,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # Hull rapist jailed after years of brutal physical and mental abuse

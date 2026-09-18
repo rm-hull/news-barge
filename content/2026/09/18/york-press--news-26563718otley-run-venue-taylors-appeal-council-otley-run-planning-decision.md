@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A food and drinks venue on the Otley Run pub crawl has been refused permission
   to fully operate as a bar.
 image: https://www.yorkpress.co.uk/resources/images/21474832.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
+- Sports
 ---
 
 *(Image: Google)*

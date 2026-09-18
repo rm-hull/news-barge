@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: Heworth Leisure Centre says it is “just as eager” to open Gateshead’s
   first indoor Aqua Play experience, but all equipment must be installed,…
 image: https://www.thenorthernecho.co.uk/resources/images/21378835.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Video Gaming
 ---
 
 *(Image: Heworth Leisure Centre)*

@@ -8,6 +8,12 @@ published: '2026-08-30T00:00:00Z'
 description: BBC historian and presenter Lucy Worsley has spoken to this newspaper
   ahead of her upcoming UK show on the history of the royals.
 image: https://www.gazetteherald.co.uk/resources/images/21007722.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
+- News & Politics
 ---
 
 Lucy Worsley, BBC presenter, historian and former chief curator at Historic Royal Palaces, will be exploring Britain's monarchy in front of a York audience as she brings her touring show to this city next month.

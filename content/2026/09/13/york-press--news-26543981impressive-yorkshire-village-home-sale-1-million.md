@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: An “impressive” home has hit the market in the “sought-after” Yorkshire
   village of Fangfoss – for almost £1 million.
 image: https://www.yorkpress.co.uk/resources/images/21443214.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 ## Inside ‘impressive’ home for sale in ‘sought-after’ Yorkshire village for almost £1m

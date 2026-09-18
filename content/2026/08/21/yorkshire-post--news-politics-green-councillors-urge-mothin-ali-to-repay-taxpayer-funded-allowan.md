@@ -10,6 +10,11 @@ description: Coun Mothin Ali is one of the Green Party’s most high-profile fig
   yet his granting of a Special Responsibility Allowance has raised concerns from
   fellow Leeds councillors.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2025/06/11/14/57/1000238034.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Green councillors urge Mothin Ali to repay taxpayer-funded allowance to Leeds City Council

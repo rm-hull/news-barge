@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Those in the medical profession say the HBO Max show about a US hospital
   emergency room is the most realistic medical drama yet.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b571/live/90c65250-addd-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Film & TV
 ---
 
 ![Dr. Michael “Robby” Robinavitch (Noah Wyle) looking exhausted, wearing black scrubs and holding a door open](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/6e1c/live/a2c58b40-ade4-11f1-bc1f-3f186ca4140c.jpg)

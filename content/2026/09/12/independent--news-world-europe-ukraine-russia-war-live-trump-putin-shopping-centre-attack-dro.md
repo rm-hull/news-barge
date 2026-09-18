@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Russian strikes kill five people in Ukraine while Ukrainian attacks kill
   two in Russia
 image: https://static.independent.co.uk/2026/09/12/07/2294304187..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Russian president Vladimir Putin warned European nations that sending troops to Ukraine would amount to “war with Russia” as Moscow escalated its drone strikes across the country.

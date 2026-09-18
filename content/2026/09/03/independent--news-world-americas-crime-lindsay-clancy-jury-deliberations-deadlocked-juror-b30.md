@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: The jury will return Friday to see if they can reach a decision on whether
   the Massachusetts mother is criminally responsible for killing her three children
 image: https://static.the-independent.com/2026/09/03/21/2026-09-03T201934Z_12295832_RC2WBNAE4FWC_RTRMADP_3_MASSACHUSETTS-CRIME-CLANCY.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Law & Justice
 ---
 
 The deadlocked jury in the Lindsay Clancy trial has been sent home without a verdict once again after a dramatic sixth day of deliberations.

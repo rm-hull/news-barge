@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Strength and mobility tests are often touted as measurements of healthy
   aging and even predictors of longevity, but they’re no crystal ball
 image: https://static.independent.co.uk/2026/08/22/13/Be_Well_Mobility_Tests_1374_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Hand grip strength. Balance tests. Standing up from a seated position on the floor. These physical challenges are often touted as measurements of healthy aging and even predictors of longevity.

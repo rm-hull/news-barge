@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: A man arrested in the hanging death of a 29-year-old Black woman in Mississippi
   has pleaded not guilty to a murder charge
 image: https://static.independent.co.uk/2026/09/12/00/Mississippi_Woman_Hanging_97212.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A man charged with murder in the hanging of a Black woman in Mississippi pleaded not guilty Monday during his first court appearance.

@@ -10,6 +10,11 @@ description: Vice President JD Vance says that if a 2024 assassination attempt h
   killed Donald Trump, he would have always wondered if it was part of a conspiracy
   and might not have accepted even another Republican as the next president
 image: https://static.independent.co.uk/2026/09/02/00/Vance_83397.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- True Crime
 ---
 
 Vice President JD Vance said in a podcast released Tuesday that if a 2024 assassination attempt had killed Donald Trump, he would have always wondered if it was part of a conspiracy and might not have accepted even another Republican as the next president.

@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: Israeli foreign minister Gideon Saar unveiled the counter-measures in
   response to sanctions on illegal West Bank settlements
 image: https://static.independent.co.uk/2026/09/08/15/39/Banned-split.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Twelve British MPs have been barred from entering Israel following the UK’s decision to impose sanctions on goods produced in illegal West Bank settlements.

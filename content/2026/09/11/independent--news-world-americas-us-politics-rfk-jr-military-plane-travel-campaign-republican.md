@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: ‘He's coming here soon to help us out,’ struggling Iowa Republican gubernatorial
   nominee Zach Lahn said before being photographed with the health secretary
 image: https://static.independent.co.uk/2026/09/11/07/2294074132..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Health Secretary Robert F. Kennedy Jr. used a $9,000-an-hour military jet to fly to Iowa for appearances with Republican candidates running in tight races ahead of the midterm elections — as the White House hopes he can help win over voters who don’t normally favor the GOP, according to a report.

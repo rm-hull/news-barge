@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: The MP for Keighley has demanded action after yet another major fire
   at Dalton Mills, warning "the situation cannot continue" following…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21446986.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 The MP for Keighley has demanded action after yet another major fire at Dalton Mills, warning "the situation cannot continue" following the fifth significant blaze at the historic site in five years.

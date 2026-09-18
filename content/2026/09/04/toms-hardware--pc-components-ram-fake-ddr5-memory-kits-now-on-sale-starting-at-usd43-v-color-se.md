@@ -8,6 +8,9 @@ scraped_at: '2026-09-04T12:41:56Z'
 published: '2026-09-04T00:00:00Z'
 description: How far are you willing to go for aesthetics?
 image: https://cdn.mos.cms.futurecdn.net/nuAejWdCwatdSdPxCktuYo-2048-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![V-Color 1+1 DDR5 Value Pack](https://cdn.mos.cms.futurecdn.net/nuAejWdCwatdSdPxCktuYo.jpg) 

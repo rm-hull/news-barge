@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Three fire engines were called to South Moor Chippy in Stanley after
   a fire broke out on Wednesday evening (August 26).
 image: https://www.thenorthernecho.co.uk/resources/images/20861477.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: CLEVELAND FIRE BRIGADE)*

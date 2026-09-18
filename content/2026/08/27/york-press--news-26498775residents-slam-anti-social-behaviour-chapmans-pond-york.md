@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Concerns have been raised after anti-social behaviour and overnight camping
   has caused a York beauty spot to become ‘trashed’.
 image: https://www.yorkpress.co.uk/resources/images/21376339.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
+- Society & Culture
 ---
 
 ## 'Such a shame' - residents fight back against damage and litter at much-loved pond

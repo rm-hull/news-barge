@@ -9,6 +9,9 @@ published: '2026-08-22T00:00:00Z'
 description: Australia's most populous state, NSW, was the first to commit to the
   plan
 image: https://static.independent.co.uk/2026/08/22/10/2291084271..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Australian capital will join a gun buyback scheme in response to the December shooting spree that killed 15 people at a Jewish festival in Sydney.

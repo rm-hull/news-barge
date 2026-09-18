@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: South Korea says the South Korean and U.S. militaries have agreed to
   shorten their drills at the U.S.'s request
 image: https://static.independent.co.uk/2026/08/18/17/APTOPIX_Koreas_US_Military_Drills_88885.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 South Korea says the South Korean and US militaries have agreed to shorten their drills

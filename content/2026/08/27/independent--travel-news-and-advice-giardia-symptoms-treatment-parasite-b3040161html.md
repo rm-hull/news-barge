@@ -7,6 +7,11 @@ scraped_at: '2026-08-27T12:01:18Z'
 published: '2026-08-27T00:00:00Z'
 description: Cases of the parasite have risen by more than 10 per cent
 image: https://static.independent.co.uk/2025/08/31/23/29152125-5d59dcd6-3e7e-4321-8e91-c335c373d2e3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Travel
 ---
 
 Holidaymakers are being urged to take precautions against a parasitic stomach bug, as cases of the infection rise by more than 10 per cent.

@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Jurors deliberated for seven days and told the judge three times that
   they were unable to reach a unanimous verdict
 image: https://static.the-independent.com/2026/09/04/21/2026-09-04T192558Z_1752530033_RC2JCNADUO37_RTRMADP_3_MASSACHUSETTS-CRIME-CLANCY.JPG?trim=96,0,96,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The judge in Lindsay Clancy’s murder case declared a mistrial Friday after deadlocked jurors failed to reach a verdict despite seven days of deliberations.

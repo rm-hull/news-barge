@@ -8,6 +8,9 @@ published: '2026-09-04T00:00:00Z'
 description: First lady joins large number of Republican lawmakers in ducking out
   of her husband’s two-day Texas summit next week
 image: https://static.independent.co.uk/2026/09/04/16/2291196024..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Melania Trump will not attend President Donald Trump’s midterms convention in Dallas next week, a major snub as her husband attempts to drum up momentum ahead of November’s elections.

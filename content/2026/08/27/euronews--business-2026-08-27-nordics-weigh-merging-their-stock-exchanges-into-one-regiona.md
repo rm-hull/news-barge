@@ -10,6 +10,10 @@ description: A group of the Nordic region's largest companies and investors is e
   into a single regional marketplace in an effort to deepen liquidity and win more
   listings.
 image: https://images.euronews.com/articles/stories/09/89/10/53/1200x675_cmsv2_57054cab-a1cc-5999-8d5a-0bd0dfc9fced-9891053.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## A group of the Nordic region's largest companies and investors is examining whether Sweden, Denmark, Norway and Finland could combine their national stock exchanges into a single regional marketplace in an effort to deepen liquidity and win more listings.

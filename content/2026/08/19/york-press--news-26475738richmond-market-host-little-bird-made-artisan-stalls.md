@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Little Bird Made will showcase handmade crafts and street food at Richmond’s
   historic market this weekend.
 image: https://www.yorkpress.co.uk/resources/images/21337690.jpg?type=og-image&xType=0&yType=77
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Handmade crafts and street food return to Richmond market this weekend

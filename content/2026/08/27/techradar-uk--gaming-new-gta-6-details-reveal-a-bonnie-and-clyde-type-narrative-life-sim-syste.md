@@ -11,6 +11,9 @@ published: '2026-08-27T00:00:00Z'
 description: New Grand Theft Auto 6 details have been revealed, giving fans a fresh
   idea of what to expect from the game's narrative and interactive gameplay systems.
 image: https://cdn.mos.cms.futurecdn.net/wcAzmfZGeCK5fM7c6eT2DC-2000-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/wcAzmfZGeCK5fM7c6eT2DC.jpg) 

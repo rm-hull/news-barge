@@ -9,6 +9,9 @@ published: '2026-08-23T00:00:00Z'
 description: Killing processes, disabling rival accounts, and building self-replicating
   malware
 image: https://cdn.mos.cms.futurecdn.net/ym4JdN8tZyMYq4wNvoyNWJ-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Anthropic Claude](https://cdn.mos.cms.futurecdn.net/ym4JdN8tZyMYq4wNvoyNWJ.jpg) 

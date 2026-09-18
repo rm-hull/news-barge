@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Nearly a century after the Nazis shut down Germany's world-famous Bauhaus
   school of design, the art movement has once again become a cultural battleground
 image: https://static.independent.co.uk/2026/09/03/06/Germany-Far_Right-Bauhaus_9_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 Nearly a century after the Nazis shut down the world-famous Bauhaus school of design, it has once again become a cultural battleground between Germany's establishment and the far-right Alternative for Germany party, which has called the art movement an “aberration of modernism.”

@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Kate Middleton's family tree reveals remarkable roots in Durham's mining
   communities, where generations of her ancestors worked…
 image: https://www.thenorthernecho.co.uk/resources/images/21424395.jpg?type=og-image&yType=613
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 The Princess of Wales may now be one of the most recognisable figures in the world, but her family story begins far from royal residences and state banquets.

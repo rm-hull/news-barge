@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Take full control of your desktop alerts by sending yourself recurring
   reminders and custom notifications triggered by specific events.
 image: https://media.wired.com/photos/6a980eee0cc86cbb73f68820/191:100/w_1280,c_limit/CustomeReminder.jpg
+categories:
+- Technology & Software
+- Science
+- Self-Improvement
 ---
 
 While there are plenty of ways to limit notifications on our digital devices and avoid distraction overload, there’s nothing inherently wrong with these alerts. They just need to be well managed and kept in their place.

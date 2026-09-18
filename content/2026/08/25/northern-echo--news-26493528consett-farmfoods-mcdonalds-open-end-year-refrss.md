@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: A new County Durham Farmfoods is on track to open before the end of the
   year, the company has said, as construction work gathers pace at the…
 image: https://www.thenorthernecho.co.uk/resources/images/21368714.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: NORTHERN ECHO)*

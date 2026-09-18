@@ -9,6 +9,10 @@ description: The UN Secretary-General told Euronews in Bishkek that some of the 
   actors in wars in the Middle East and Ukraine were in the room with him, and that
   it was time to "stop the madness".
 image: https://images.euronews.com/articles/stories/09/89/67/42/1200x675_cmsv2_9cf67309-752d-5646-87f7-ef7922f11a07-9896742.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 **Toby Gregory**

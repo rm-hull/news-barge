@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Funding from $560m invitation-only scheme prompts calls to make grant
   rules more transparent
 image: https://i.guim.co.uk/img/media/0277d759eddc4aa4b27bf0a8c41f1d63c493738b/20_0_6102_4884/master/6102.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b235b110131448d532a5e8bb464384af
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Anthony Albanese has claimed he did not know he was a member of his local golf club when his government gave it $6m for renovations, accusing the ABC of inappropriate reporting.

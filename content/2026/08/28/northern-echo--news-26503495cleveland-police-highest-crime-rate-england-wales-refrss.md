@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Cleveland has the highest overall crime rate in England and Wales, with
   Middlesbrough at the centre of a week of deadly violence and disorder.
 image: https://www.thenorthernecho.co.uk/resources/images/21358197.jpg?type=og-image&xType=0&yType=82
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Cleveland Police deals with the highest overall crime rate in England and Wales, with Middlesbrough at the centre of a week of deadly violence and disorder.

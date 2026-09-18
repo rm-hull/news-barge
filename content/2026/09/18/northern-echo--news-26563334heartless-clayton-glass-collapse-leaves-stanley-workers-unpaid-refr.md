@@ -9,6 +9,12 @@ published: '2026-09-18T00:00:00Z'
 description: Clayton Glass has been branded "heartless" and "sinister" after staff
   turned up for work only to learn they would not be paid…
 image: https://www.thenorthernecho.co.uk/resources/images/21474327.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 The firm behind a County Durham factory has been branded "heartless" after staff learnt they would not be paid and the firm was going into administration when they turned up for work.

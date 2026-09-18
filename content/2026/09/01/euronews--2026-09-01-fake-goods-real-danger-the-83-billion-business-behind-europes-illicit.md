@@ -9,6 +9,11 @@ description: A hidden network of organised crime is flooding European markets wi
   counterfeit goods worth billions, and investigators warn that consumers are unknowingly
   funding it.
 image: https://images.euronews.com/articles/stories/09/85/64/46/1200x675_cmsv2_b96c5b0f-7064-5d91-aaa1-911c6c03e37c-9856446.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## A hidden network of organised crime is flooding European markets with counterfeit goods worth billions, and investigators warn that consumers are unknowingly funding it.

@@ -7,6 +7,9 @@ scraped_at: '2026-09-01T22:33:41Z'
 published: '2026-09-01T00:00:00Z'
 description: Before you vote, you need to ensure that you’re registered to vote
 image: https://static.independent.co.uk/2026/09/01/21/2290035333..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 As the 2026 midterm elections enter the final stretch, it’s important to know your rights in case your vote is challenged.

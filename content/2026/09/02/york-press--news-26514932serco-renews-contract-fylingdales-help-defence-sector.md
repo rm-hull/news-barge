@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A new defence contract will help protect the UK from missile threats
   and support space monitoring.
 image: https://www.yorkpress.co.uk/resources/images/21400482.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 *(Image: Freelancer)*

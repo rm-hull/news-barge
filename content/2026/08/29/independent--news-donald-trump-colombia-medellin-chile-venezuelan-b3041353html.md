@@ -9,6 +9,9 @@ published: '2026-08-29T00:00:00Z'
 description: The United States Southern Command says that Colombian security forces
   captured a suspected senior leader of the Venezuelan gang Tren de Aragua
 image: https://static.independent.co.uk/2026/08/29/01/Colombia_Security_85623.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Colombian security forces captured a suspected senior leader of the Venezuelan gang Tren de Aragua, the U.S. Southern Command announced on Friday, hailing the arrest as a result of stronger military cooperation between the historically close allies.

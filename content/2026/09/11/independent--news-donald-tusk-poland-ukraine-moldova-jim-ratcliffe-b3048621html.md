@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: Polish Prime Minister Donald Tusk has warned of potential intensified
   Russian provocations at Ukraine's border crossings with Europe
 image: https://static.independent.co.uk/2026/09/11/13/Poland_Tusk_47318.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Two incidents along Ukraine's borders with Poland and Moldova this week are a preview of potential intensified Russian provocations at Ukraine's border crossing points with Europe, Polish Prime Minister Donald Tusk said.

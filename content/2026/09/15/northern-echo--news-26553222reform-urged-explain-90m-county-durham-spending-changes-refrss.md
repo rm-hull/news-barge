@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Durham council leaders have been urged to explain how communities will
   be affected by any proposed spending changes at an upcoming budget.
 image: https://www.thenorthernecho.co.uk/resources/images/20052721.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Council leaders have been urged to explain how communities will be affected by any proposed spending changes at an upcoming budget.

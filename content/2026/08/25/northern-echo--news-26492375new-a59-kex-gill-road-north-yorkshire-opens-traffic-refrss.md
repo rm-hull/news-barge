@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A "vital" new road has opened following the completion of the largest
   highways project ever undertaken by North Yorkshire Council, ending…
 image: https://www.thenorthernecho.co.uk/resources/images/21367099.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Provided)*

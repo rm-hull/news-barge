@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: There are more than two million robots working in China's factories -
   and they are scaling up fast.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b438/live/a8864e40-a009-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Science
 ---
 
 Watch: BBC visits factories in China with robot workers

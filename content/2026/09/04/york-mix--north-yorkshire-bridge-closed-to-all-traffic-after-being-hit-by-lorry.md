@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T18:59:37Z'
 published: '2026-09-04T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/middleham-leyburn-bridge-damage-4-sept-2026-1-nyc.webp
+categories:
+- Local
+- York
+- History
 ---
 
 An historic North Yorkshire bridge is shut for the foreseeable future after being hit by a truck.

@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: An Audi was seized by police after officers discovered it had been on
   the road for months without valid vehicle tax.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21447648.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: T&A)*

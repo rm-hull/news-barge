@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: A man has been arrested after a reported serious sexual assault in a
   York city centre alleyway.
 image: https://www.yorkpress.co.uk/resources/images/21467727.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Kevin Glenton)*

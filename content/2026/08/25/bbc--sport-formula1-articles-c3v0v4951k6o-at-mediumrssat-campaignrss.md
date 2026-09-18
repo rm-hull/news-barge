@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: BBC Sport F1 correspondent Andrew Benson answers your latest questions
   after the Dutch Grand Prix.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8d8a/live/e648ca20-9fd0-11f1-ba89-8d0bd2eb1384.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Mercedes' Kimi Antonelli pictured in his racing uniform at the Dutch Grand Prix](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/8d8a/live/e648ca20-9fd0-11f1-ba89-8d0bd2eb1384.jpg)

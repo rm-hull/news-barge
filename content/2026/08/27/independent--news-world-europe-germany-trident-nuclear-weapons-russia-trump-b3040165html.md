@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Fears have grown of a Russian attack on Nato as Trump considers withdrawing
   US troops from Europe
 image: https://static.independent.co.uk/2026/07/30/11/2203248579..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Germany is in talks to help fund Britain’s Trident nuclear deterrent programme as Europe seeks to bolster its defences against Russia, according to a report.

@@ -9,6 +9,12 @@ published: '2026-09-03T00:00:00Z'
 description: A Middlesbrough pervert has been locked up after he tried to incite a
   child to engage in sexual activity.
 image: https://www.thenorthernecho.co.uk/resources/images/21404706.jpg?type=og-image&xType=0&yType=52
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
+- Society & Culture
 ---
 
 *(Image: Cleveland Police)*

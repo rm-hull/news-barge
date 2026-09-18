@@ -9,6 +9,9 @@ scraped_at: '2026-08-28T11:15:54Z'
 published: '2026-08-28T00:00:00Z'
 description: Who watches the watchmen?
 image: https://cdn.mos.cms.futurecdn.net/rooXvESoBpBpBGCkrJPnwC-2059-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Robot arm beam](https://cdn.mos.cms.futurecdn.net/rooXvESoBpBpBGCkrJPnwC.jpg) 

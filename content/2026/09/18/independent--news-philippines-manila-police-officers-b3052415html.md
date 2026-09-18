@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: A shooting at a high school in the southern Philippines has left two
   14-year-old students and the teenage gunman dead
 image: https://static.independent.co.uk/2026/09/18/10/Philippines_School_Shooting_92514.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A shooting at a high school in the southern Philippines on Friday left two 14-year-old students and the teenage gunman dead and wounded at least 10 people, local government and police officials said.

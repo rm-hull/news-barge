@@ -9,6 +9,10 @@ description: Saudi Pro League side Al-Taawoun are ordered to play two matches be
   closed doors after supporters taunted Ruben Neves over the death of friend Diogo
   Jota.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7e84/live/b2b59ee0-b1ff-11f1-a4a7-291ff3d1006b.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Ruben Neves playing for Al-Hilal](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7e84/live/b2b59ee0-b1ff-11f1-a4a7-291ff3d1006b.jpg)

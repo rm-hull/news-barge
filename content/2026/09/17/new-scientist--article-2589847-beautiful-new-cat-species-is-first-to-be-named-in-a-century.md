@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: The enigmatic tiger cats of South America now encompass a new species
   – the tilcayo – bringing the number of known tiger cat species to five
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312819149.jpg
+categories:
+- Science
+- Technology & Software
+- Pets & Animals
+- Arts & Culture
 ---
 
 ![Leopardus tilcayo](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312819149.jpg?w=840)

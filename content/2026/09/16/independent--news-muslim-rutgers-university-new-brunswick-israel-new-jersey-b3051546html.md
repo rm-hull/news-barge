@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: In the harrowing aftermath of 9/11, universities began reckoning with
   the presence of Muslim Americans on campus
 image: https://static.independent.co.uk/2026/09/16/22/Chaplains_9_11_15637.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Saarah Abdul-Maajid chose to study at Rutgers University, in large part because she knew it had a Muslim chaplain and a Muslim center on campus where she would feel supported and valued.

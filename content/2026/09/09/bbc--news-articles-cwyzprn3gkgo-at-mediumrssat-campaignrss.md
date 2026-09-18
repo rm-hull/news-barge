@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: It comes after the network conducted a review amid a "rapidly changing
   media landscape".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f2e/live/b26fc5b0-ac40-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![A general view of the Channel 4 headquarters in Westminster on May 20, 2026 in London, United Kingdom.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5f2e/live/b26fc5b0-ac40-11f1-a540-61c3f7fc4e6c.jpg)

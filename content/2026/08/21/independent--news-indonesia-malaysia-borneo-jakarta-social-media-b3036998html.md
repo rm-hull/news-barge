@@ -10,6 +10,10 @@ description: Indonesian authorities warn they will take legal action against any
   starting open fires, as huge blazes on Borneo and elsewhere created a choking haze
   that blankets cities
 image: https://static.independent.co.uk/2026/08/21/11/Indonesia_Haze__5479.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Indonesia n authorities warned Friday they would take legal action against anyone who starts an open fire, as huge blazes on Borneo and elsewhere created a choking haze that blanketed cities and dense smoke drifted into neighboring Malaysia.

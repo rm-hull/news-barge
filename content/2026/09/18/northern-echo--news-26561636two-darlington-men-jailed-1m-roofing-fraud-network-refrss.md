@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Two Darlington men have been jailed for their part in a criminal operation
   that pressurised homeowners into paying vastly inflated prices for…
 image: https://www.thenorthernecho.co.uk/resources/images/21472022.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Two Darlington men have been jailed for their part in a criminal operation that pressurised homeowners into paying vastly inflated prices for unnecessary or poor-quality roofing and building work.

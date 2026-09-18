@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Caylin Tucker, 22, was out to dinner with her parents when she began
   to go into anaphylactic shock, according to a state lawsuit filed in Houston, Texas
 image: https://static.independent.co.uk/2026/09/14/19/26/GettyImages-1214966902.jpeg?trim=16,0,16,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
+- Family & Parenting
 ---
 
 A Cheesecake Factory patron with a severe peanut allergy went into anaphylactic shock after taking a bite of a dish she was assured would be peanut-free but came out of the kitchen “smothered in peanut sauce,” according to a lawsuit obtained by *The Independent*.

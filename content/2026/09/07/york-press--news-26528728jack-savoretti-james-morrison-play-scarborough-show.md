@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Jack Savoretti and James Morrison have been announced as the first headliners
   for Scarborough Open Air Theatre's 2027 season.
 image: https://www.yorkpress.co.uk/resources/images/21420892.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: (Image CUFFE & TAYLOR))*

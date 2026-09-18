@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: BBC Verify looks at footage showing the aftermath of a strike on a building
   in southern Iran.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a053/live/bb3c5450-a6c4-11f1-aed2-8d6da8d75094.png
+categories:
+- UK
+- News & Politics
 ---
 
 # What we know about reported strike on Iran wedding celebrations

@@ -9,6 +9,11 @@ description: Following the cyberattack on the Berlin state network, the alleged 
   may publish stolen data. This may also include citizens’ personal data. The State
   of Berlin has provided information on how those affected can respond.
 image: https://www.berlin.de/binaries/asset/image_assets/10611562/ratio_4_3/1788504386/800x600/
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Technology & Software
 ---
 
 © dpa

@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: Theories begin to emerge that plane may have landed too fast and too
   far down the runway to be able to stop in time
 image: https://i.guim.co.uk/img/media/13d51d4aa2d01dec344ac34b138fc3d73f48c8e7/240_0_2396_1917/master/2396.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=30d77eb800a9575b4bc4d9876fa9c93a
+categories:
+- UK
+- News & Politics
 ---
 
 Federal investigators got plans under way on Monday for determining what caused an Amazon cargo jet to barrel off a runway at Miami international airport on Sunday afternoon and crash, killing five people and injuring five others.

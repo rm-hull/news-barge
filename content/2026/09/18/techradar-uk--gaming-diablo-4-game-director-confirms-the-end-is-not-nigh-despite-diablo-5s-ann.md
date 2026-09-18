@@ -9,6 +9,9 @@ published: '2026-09-18T00:00:00Z'
 description: Not to worry, Diablo 4 fans! Despite the announcement of Diablo 5, Blizzard
   swears it will be making content for the game "for a long time."
 image: https://cdn.mos.cms.futurecdn.net/4dHdU5g3UM9jFnGiobbwth-2000-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Diablo 4](https://cdn.mos.cms.futurecdn.net/4dHdU5g3UM9jFnGiobbwth.jpg) 

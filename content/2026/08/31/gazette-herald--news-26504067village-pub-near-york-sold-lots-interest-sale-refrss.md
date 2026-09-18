@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: The Aldwark Arms, a village pub near York, has been sold after its previous
   owner entered liquidation.
 image: https://www.gazetteherald.co.uk/resources/images/21384339.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

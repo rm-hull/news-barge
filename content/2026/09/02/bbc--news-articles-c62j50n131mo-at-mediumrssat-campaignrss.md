@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: The Russian president wants to keep Britain guessing - and stressing
   - over Moscow's real intentions.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f73a/live/e93452f0-a6c3-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Russian President Vladimir Putin speaks during a press conference following the Shanghai Cooperation Organisation summit in Bishkek, Kyrgyzstan. Photo: 2 September 2026](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/eb36/live/4c752a20-a6be-11f1-b109-879e35c24276.jpg)

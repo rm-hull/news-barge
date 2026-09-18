@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: In the short-lived game, users were tasked with repelling a ‘Zombie Border
   Siege’
 image: https://static.independent.co.uk/2026/09/04/07/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 The White House has taken down a “Build the Wall” arcade game from its official website days after the owner of the Tetris brand warned it could constitute copyright infringement.

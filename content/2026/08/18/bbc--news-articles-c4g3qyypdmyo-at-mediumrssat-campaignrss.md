@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Conservationists remove the equivalent of 10,000 coins that had been
   wedged into the Giant's Causeway's pillars.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7dd0/live/f01ac420-9aff-11f1-a27d-25dca26018ed.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![A old rusted coin is held in a hand](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/7dd0/live/f01ac420-9aff-11f1-a27d-25dca26018ed.jpg)

@@ -8,6 +8,11 @@ scraped_at: '2026-09-10T12:54:51Z'
 published: '2026-09-10T00:00:00Z'
 description: 'From: Paul Morley, Ribblesdale Estate, Long Preston, Skipton.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVkYmVkMjM2LTVhOTUtNGIwNi04MWY2LWI1MThmMGY3ODAxNzoxMjM3M2U5NS0yMzc2LTRiZjItODMwNC1lMzlmNDdmZWViOTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Andy Burnham would be working down in the pit if it wasn’t for Margaret Thatcher - Yorkshire Post Letters

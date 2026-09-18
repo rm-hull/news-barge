@@ -10,6 +10,9 @@ description: 'Exclusive: IPP prisoner Leroy Douglas, whose incarceration has bee
   found to be unlawful and arbitrary by the United Nations, has finally been granted
   parole'
 image: https://static.independent.co.uk/2025/02/13/13/08/LeroyDouglas.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Twenty years since Leroy Douglas targeted a friend behind Cardiff railway station and stole his mobile phone, he is weeks away from finally being free.

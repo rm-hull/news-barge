@@ -8,6 +8,10 @@ scraped_at: '2026-08-27T22:13:44Z'
 published: '2026-08-27T00:00:00Z'
 description: General was convicted of genocide
 image: https://static.independent.co.uk/2026/08/27/14/2026-08-27T125029Z_1237156088_RC207NAT4O8A_RTRMADP_3_PEOPLE-RATKO-MLADIC.JPG?trim=197,0,197,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Ratko Mladic, the Bosnian Serb general known as the “Butcher of Bosnia” for his role in the Srebrenica massacre, has died aged 84.

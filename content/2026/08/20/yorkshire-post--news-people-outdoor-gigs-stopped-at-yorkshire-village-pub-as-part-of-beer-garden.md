@@ -9,6 +9,11 @@ description: Plans to open a beer garden bar at a village pub have been given th
   go-ahead after councillors were assured that outdoor live music would no longer
   be allowed at the venue.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRkOWExYmQzLTU1YzAtNGU3NC1iYTI5LTkyMzI3MGNiMTdjYjoxYTczOGM3Ni1iZDFmLTQ1Y2MtYWNjZS0yY2U3M2M1M2M4MmM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Outdoor gigs stopped at Yorkshire village pub as part of beer garden bar plan

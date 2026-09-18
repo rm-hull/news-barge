@@ -10,6 +10,10 @@ description: I've looked through this weekend's sale at Amazon UK and found 16 o
   the best tech deals that I'd recommend buying right now ahead of Prime Big Deal
   Days.
 image: https://cdn.mos.cms.futurecdn.net/TUiwub85R5fAfExAuYE8bL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Shopping & Deals
 ---
 
 ![A collage of tech deals from the weekend sale at Amazon UK, including a Dell laptop, Dreo heater, Kindle Scribe, Microsoft Surface, Fitbit Inspire, and Bose speaker.](https://cdn.mos.cms.futurecdn.net/TUiwub85R5fAfExAuYE8bL.jpg) 

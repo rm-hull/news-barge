@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Tom Gordon, The Liberal Democrat MP for Harrogate and Knaresborough is
   encouraging local business to share their experiences about the pressures they’re
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/tomg-hospt.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Tom Gordon, The Liberal Democrat MP for Harrogate and Knaresborough is encouraging local business to share their experiences about the pressures they’re facing, what’s working, and what the Government could do differently.

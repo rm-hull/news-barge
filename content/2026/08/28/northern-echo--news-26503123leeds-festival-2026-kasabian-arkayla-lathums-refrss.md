@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Kasabian Bring The Fire on Opening Day of Leeds Festival 2026, as Arkayla
   and The Lathums also open the show.
 image: https://www.thenorthernecho.co.uk/resources/images/21382824.jpg?type=og-image&xType=0&yType=170
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 August bank holiday weekend has become synonymous with the annual Leeds Festival in Bramham Park.

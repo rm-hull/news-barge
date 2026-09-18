@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: YOUNG people and families are invited to learn vital water safety skills
   at a free community event taking place at East Holmes Field in Ilkley on…
 image: https://www.thetelegraphandargus.co.uk/resources/images/18192488.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: NQ)*

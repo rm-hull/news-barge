@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Lib Dems accused Nigel Farage’s Reform of preferring to claim they would
   ‘send in the Navy at taxpayers’ expense’ and than admit they’re responsible
 image: https://static.independent.co.uk/2026/08/16/16/2281929169..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Andy Burnham has been urged to take the UK into the EU’s Migration and Asylum Pact to help tackle small boat arrivals.

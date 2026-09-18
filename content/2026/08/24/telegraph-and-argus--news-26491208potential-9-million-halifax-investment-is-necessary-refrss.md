@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: Potentially up to £9 million might be obtained to help restore and bring
   back into use a much-loved Halifax community centre - but councillors have…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21147637.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Potentially up to £9 million might be obtained to help restore and bring back into use a much-loved Halifax community centre – but councillors have been asked “but is it necessary?”

@@ -7,6 +7,9 @@ scraped_at: '2026-08-27T12:00:34Z'
 published: '2026-08-27T00:00:00Z'
 description: AI exposes the critical value of human expertise
 image: https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A close up of a person's eyes and face. They are wearing glasses and in one eye there's. a reflection of a digital brain](https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM.jpg) 

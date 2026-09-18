@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: A POPULAR Grade II* listed hotel in North Yorkshire has lost an appeal
   after the council refused its retrospective redecoration works.
 image: https://www.yorkpress.co.uk/resources/images/21396210.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Popular Grade II* listed North Yorkshire hotel loses appeal

@@ -9,6 +9,10 @@ description: 'Popularised on social media, this trend is attracting more and mor
   young people and tourists. Concerned about accidents, the city council is boosting
   prevention and considering dedicated zones to better regulate the practice. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/87/22/19/1200x675_cmsv2_f2a0f7ac-541d-5b9f-a208-9ccfe092ab97-9872219.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Popularised on social media, this trend is attracting more and more young people and tourists. Concerned about accidents, the city council is boosting prevention and considering dedicated zones to better regulate the practice.

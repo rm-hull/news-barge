@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A COASTAL tapas restaurant in a popular North Yorkshire town has applied
   for a new licence from the council.
 image: https://www.gazetteherald.co.uk/resources/images/21032998.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 A COASTAL tapas restaurant in a popular North Yorkshire town has applied for a new licence from the council.

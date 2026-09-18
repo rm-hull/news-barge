@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: Bobby Charles said he would make the appeal three or four weeks before
   Election Day
 image: https://static.independent.co.uk/2026/08/26/19/40/AP26238513246234.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Maine's Republican nominee for governor plans to request that federal law enforcement officers be stationed at polling locations across the state for this fall's midterm elections, according to audio obtained by *The Associated Press.*

@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: The Treehouse has a lunch and dinner menu where guests can dine in a
   "magical" location.
 image: https://www.thenorthernecho.co.uk/resources/images/21341388.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 A restaurant in the northeast has been praised for its "incredible setting" and "fabulous food."

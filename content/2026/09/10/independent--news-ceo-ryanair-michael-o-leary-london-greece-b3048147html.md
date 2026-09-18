@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Ryanair's CEO disputes claims that a passenger was partly sucked out
   of a window during a July flight
 image: https://static.independent.co.uk/2026/08/13/19/Ryanair_Dislodged_Window_9_495.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The CEO of Ryanair on Thursday disputed that a passenger injured during a flight on one of its planes in July was partly sucked out a broken window.

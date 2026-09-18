@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Sarah Jones warned that any protesters stepping ‘from peaceful protest
   into illegality will face the full force of the law’
 image: https://static.independent.co.uk/2026/09/07/18/01M1YC8P29QE5ST317DZ9F48DZ.jpg?trim=0,285,0,285&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Policing minister Sarah Jones has blamed the Conservatives for "the frustration we see in our communities today" following a weekend of anti-migrant demonstrations in Dover and Portsmouth.

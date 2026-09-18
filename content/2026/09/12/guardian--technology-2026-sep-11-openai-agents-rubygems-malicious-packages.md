@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Two months before hacking Hugging Face, malicious packages authored by
   internal OpenAI agents were uploaded to RubyGems
 image: https://i.guim.co.uk/img/media/65486c2e45ba4ef565230ab1fceaa0e07eedff11/331_0_5136_4109/master/5136.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=212871c2c52648c8147374cb66ee346a
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Agents being tested by OpenAI uploaded hundreds of malicious packages in a cyberattack on software service RubyGems in May, two months before they hacked open-source platform Hugging Face, the company confirmed Friday.

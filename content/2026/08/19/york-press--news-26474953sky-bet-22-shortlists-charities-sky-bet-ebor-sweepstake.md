@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Sky Bet, in partnership with York Racecourse, has announced the 22 shortlisted
   organisations for the Sky Bet Ebor Community Sweepstake 2026.
 image: https://www.yorkpress.co.uk/resources/images/21336305.jpg?type=og-image&xType=0&yType=209
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: Hannah Ali)*

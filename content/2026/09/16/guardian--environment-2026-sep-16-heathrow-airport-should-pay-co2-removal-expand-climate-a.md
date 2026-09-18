@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Climate Change Committee says government cannot expand airport without
   requiring aviation industry to clean up its emissions
 image: https://i.guim.co.uk/img/media/18b0ab9efd8a719e703c636e6aebbc396be59ee6/126_0_3987_3189/master/3987.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=42ad13fd61c700341e01970afa9d7113
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Heathrow airport should be allowed to expand only if airlines pay for the removal of carbon dioxide from the atmosphere, the government’s climate advisers have said.

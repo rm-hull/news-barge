@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: Casio’s surf-themed smartwatch has gone on sale right before the Garmin
   Fenix 9 makes its debut.
 image: https://cdn.mos.cms.futurecdn.net/rWfQNAwq8H4f5wp3RBuSsF-1681-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![The Casio GBX-H5600KI-5 Kanoa Igarashi smartwatch.](https://cdn.mos.cms.futurecdn.net/rWfQNAwq8H4f5wp3RBuSsF.jpg) 

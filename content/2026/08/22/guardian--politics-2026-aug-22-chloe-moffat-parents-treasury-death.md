@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: Couple considering suing for wrongful death after coroner found disciplinary
   process materially contributed to suicide
 image: https://i.guim.co.uk/img/media/c6f6ba73b00c4224800cad141f8361254605b93f/2096_443_4041_3232/master/4041.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46bc49f76ba0d2659fada3d295e7a1f4
+categories:
+- UK
+- News & Politics
+- Self-Improvement
+- Education & Learning
 ---
 
 When a coroner ruled this month that the Treasury “materially contributed” to Chloe Moffat’s death, her parents breathed out in bittersweet relief. For a year, David and Anne Moffat had been forced to become detectives in the worst case any parent could have to solve: why their daughter took her own life.

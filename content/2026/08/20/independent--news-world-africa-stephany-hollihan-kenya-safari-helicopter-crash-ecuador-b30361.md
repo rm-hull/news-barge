@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: A safari helicopter crashed Wednesday morning in a remote part of northern
   Kenya, killing seven people, including five Americans
 image: https://static.independent.co.uk/2026/08/19/18/PATgmW6r3EkgBJNdaLg_L6OJZgdfihb_a0RA1IJzsFDyFam00YaBQvUsOmm9qEfPMZh6RDx3WTrirzbJgcLsLBENyGW5SKfsEeLT..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A safari helicopter has crashed in a remote district of northern Kenya, killing all seven people on board, including five American citizens and the director of Ecuador’s national intelligence service, local police and the U.S. State Department have confirmed. The fatal aviation accident occurred on Wednesday morning in Samburu County.

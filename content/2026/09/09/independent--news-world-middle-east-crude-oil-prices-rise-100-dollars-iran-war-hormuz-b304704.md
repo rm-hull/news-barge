@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Tensions have renewed in the Middle East after Houthi forces struck several
   Saudi cities
 image: https://static.independent.co.uk/2026/07/31/08/2287341667..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The price of oil crossed the $100 a barrel mark for the first time since July as continued chaos in the Middle East spooked the market.

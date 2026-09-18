@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Kyle V Food has highlighted a takeaway in Billingham as one of his favourite
   Chinese takeaways, thanks to its menu range.
 image: https://www.thenorthernecho.co.uk/resources/images/21380621.jpg?type=og-image&xType=0&yType=461
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 A popular North East food reviewer insists that Billingham is home to the very best Chinese takeaways in the region.

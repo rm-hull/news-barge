@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The BBC's Tokyo correspondent Kurumi Mori tries Japan's latest food trend,
   instant noodles made using cold water.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b26/live/af1ac4e0-a5ca-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 # Cup noodles made with cold water? BBC tries Japan's viral snack

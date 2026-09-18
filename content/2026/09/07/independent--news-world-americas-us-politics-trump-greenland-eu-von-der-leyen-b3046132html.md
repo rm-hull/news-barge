@@ -8,6 +8,9 @@ published: '2026-09-07T00:00:00Z'
 description: The EU has increased its focus on Greenland since Trump began insisting
   that the United States should take control of the island for security reasons
 image: https://static.independent.co.uk/2026/08/01/1/55/GettyImages-2287747467.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The European Union responded to repeated threats from U.S. President Donald Trump to take over Greenland by reassuring the territory with promises of an enhanced partnership and hundreds of millions of euros in investment.

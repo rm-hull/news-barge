@@ -10,6 +10,10 @@ description: Documents released a year after the deadly shooting at a Minneapoli
   Catholic church and school detail a swift response by authorities but reveal little
   about the motive for the attack
 image: https://static.independent.co.uk/2026/08/27/16/School_Shooting_Minneapolis_52856.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Documents released a year after the deadly shooting at a Minneapolis Catholic church and school provide a detailed account of the swift and widespread response by law enforcement officers — who arrived within minutes and began triaging injured students.

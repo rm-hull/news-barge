@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Taco Bell is launching a treasure hunt across Darlington to celebrate
   the opening of its newest restaurant.
 image: https://www.thenorthernecho.co.uk/resources/images/21328743.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: CHRIS BOOTH)*

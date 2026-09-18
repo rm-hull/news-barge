@@ -7,6 +7,9 @@ scraped_at: '2026-08-31T16:07:22Z'
 published: '2026-08-31T00:00:00Z'
 description: How Agentic AI is changing the future of SaaS
 image: https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Hands typing on a tablet with AI superimposed in text in front](https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL.jpg) 

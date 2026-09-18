@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: The United States plans to phase out financial support for Namibia's
   HIV response programs
 image: https://static.independent.co.uk/2026/09/05/14/Trump_17517.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The United States will start phasing out its financial support for Namibia's HIV response programs, the latest among southern African countries to feel the effects of the withdrawal of foreign aid by the U.S. administration.

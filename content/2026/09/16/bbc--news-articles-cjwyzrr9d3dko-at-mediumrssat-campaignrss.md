@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Canada is seeking closer ties with EU after a breakdown in relations
   with the US and its president Donald Trump.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4305/live/f4857df0-b1cc-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A smiling Mark Carney, wearing a suit, walks alongside European Parliament President Roberta Metsola and Ursula von der Leyen at the European Parliament](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/b431/live/3960b020-b1b9-11f1-bdcf-d393eb724fa3.jpg)

@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The Birmingham-based company said it has also closed 28 trade counters
   across the UK.
 image: https://static.independent.co.uk/2026/09/09/11/09112916-926ca4ac-bd9b-4e46-ba02-3f10d9d5a928.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Flooring firm Headlam has cut 154 jobs after tumbling into administration.

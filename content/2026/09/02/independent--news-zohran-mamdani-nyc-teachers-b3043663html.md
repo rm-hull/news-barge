@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: New York City’s public school system will ban artificial intelligence
   for students through the 8th grade during the upcoming school year
 image: https://static.independent.co.uk/2026/09/02/17/Education_AI_Ban_New_York_381_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
+- Society & Culture
 ---
 
 New York City’s public schools will temporarily ban students in elementary and middle schools from using artificial intelligence tools in the upcoming school year, Mayor Zohran Mamdani announced Wednesday.

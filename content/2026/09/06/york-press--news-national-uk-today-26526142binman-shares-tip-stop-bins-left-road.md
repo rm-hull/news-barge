@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: The No.1 Binman on TikTok has shared his simple and easy trick to avoid
   having your bins left down the road after collection.
 image: https://www.yorkpress.co.uk/resources/images/21391611.jpg?type=og-image
+categories:
+- Local
+- York
+- Music
 ---
 
 *(Image: Getty)*

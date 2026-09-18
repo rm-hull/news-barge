@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: An Italian entrepreneur behind popular venues in Bradford and Leeds is
   preparing to open a third branch.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21358277.jpg?type=og-image&xType=0&yType=464
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Brigante)*

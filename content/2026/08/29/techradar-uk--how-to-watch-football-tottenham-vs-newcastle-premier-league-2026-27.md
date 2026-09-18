@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: Spurs and the Magpies are both looking for their first league victories
   of the new campaign
 image: https://cdn.mos.cms.futurecdn.net/gttMRJBGRmLKrdNxgTmAWh-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Video Gaming
 ---
 
 ![Sandro Tonali of Tottenham Hotspur during the Premier League match between Brentford and Tottenham Hotspur at Gtech Community Stadium in London, United Kingdom, on August 22, 2026.](https://cdn.mos.cms.futurecdn.net/gttMRJBGRmLKrdNxgTmAWh.jpg) 

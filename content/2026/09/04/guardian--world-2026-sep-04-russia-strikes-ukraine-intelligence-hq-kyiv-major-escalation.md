@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Volodymyr Zelenskyy says he has told SBU to deliver ‘appropriate, tangible
   response’ to Kyiv strike
 image: https://i.guim.co.uk/img/media/40369786be198a531f12b91b9d64a512923039e0/826_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=759e089fd1162c97cb7ab41cdb059615
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The head office of Ukraine’s SBU intelligence agency has been hit in a Russian drone attack, sending plumes of black smoke rising into the air in the heart of Kyiv.

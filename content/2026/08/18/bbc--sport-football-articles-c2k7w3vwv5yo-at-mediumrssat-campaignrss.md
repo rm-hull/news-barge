@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup,
   from Manchester City after a trophy-laden seven years with the Premier League club.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8159/live/543b3a30-9b2c-11f1-9a2c-6d6ac3827d20.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 'He's the professor' - Rodri's Manchester City journey

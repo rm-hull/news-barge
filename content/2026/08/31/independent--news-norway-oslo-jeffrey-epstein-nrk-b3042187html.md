@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: The coffin of the late King Harald V of Norway has traveled through the
   royal palace to its chapel
 image: https://static.independent.co.uk/2026/08/31/15/Norway_King_Harald_26289.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The coffin of late King Harald V of Norway traveled through the royal palace to its chapel on Monday, with Queen Mette-Marit joining the procession in her first official appearance since assuming the title.

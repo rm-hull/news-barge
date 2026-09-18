@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Britain's Harriet Dart says she felt "under the weather" as she struggles
   in the heat during her second-round loss to Marie Bouzkova at the US Open.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2735/live/7c6accd0-a7d6-11f1-809e-25fc74c1ec7d.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Sports
 ---
 
 ![Harriet Dart in action against Marie Bouzkova at the US Open](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2735/live/7c6accd0-a7d6-11f1-809e-25fc74c1ec7d.jpg)

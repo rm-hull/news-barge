@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Video. Chalk artists create portraits of the 40 Flight 93 passengers
   and crew at the Shanksville memorial ahead of the 25th anniversary of 9/11.
 image: https://images.euronews.com/articles/stories/09/90/95/49/1200x675_cmsv2_ecab18c4-5976-5466-9be5-378a7b899696-9909549.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 Chalk artists have gathered at the Flight 93 National Memorial in Shanksville, Pennsylvania, to draw portraits of the 40 passengers and crew members killed on September 11, 2001.

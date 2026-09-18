@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Popular Harrogate music event Vinyl Sessions is to return next month
   with a tribute to the great Amy Winehouse.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmExMTNmNGIwLTM0YTMtNDk3MC1iNGYxLTg1MzlhMGU5ZjhiZjo4YWRjNDNkMy0zMWRmLTRiNzAtOTRmNC0yNjczMmRlYjE4YjA=.jpg?crop=3:2,smart&trim=&width=1000&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 # Harrogate tribute night 20 years after Amy Winehouse's Back to Black album hit number one

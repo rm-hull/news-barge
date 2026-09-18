@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Hermitage Academy in County Durham is celebrating improved GCSE results
   after outperforming both national and County Durham averages across all…
 image: https://www.thenorthernecho.co.uk/resources/images/21355601.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Supplied)*

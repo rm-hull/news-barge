@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: The responses to NHTSA's questions so far are redacted entirely, citing
   "confidential business information."
 image: https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Waymo has responded to questions from the National Highway Traffic Safety Administration (NHTSA) as part of the regulator’s investigation into a January crash in which a robotaxi struck a child at low speed.

@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Authorities were caught off guard by the disruption, which they labelled
   a ‘protest’ despite mass intimidation tactics
 image: https://i.guim.co.uk/img/media/70cd1ddff7221708adb05e3140dcbd192bdb8d0f/381_0_2351_1882/master/2351.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d013e837fee124485abe2aa94efe8a27
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 To anybody watching the videos of a group of masked men, all wearing black, descending on the port of Dover last weekend, it was immediately obvious that something novel and disturbing was happening: a mass intimidation in uniform not seen in Britain since the 1930s.

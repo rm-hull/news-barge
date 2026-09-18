@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Microsoft is investigating reports of a nasty bug that breaks some PC
   games following the latest Windows 11 update.
 image: https://cdn.mos.cms.futurecdn.net/b4BaqDTfZg32izULhgfJ2T-2000-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Upset young gamer gesturing at PC monitor in frustration](https://cdn.mos.cms.futurecdn.net/b4BaqDTfZg32izULhgfJ2T.jpg) 

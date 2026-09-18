@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Former safeguarding minister Jess Phillips has said it is “utterly unforgiveable”
   that a North Yorkshire domestic abuse survivor was told her…
 image: https://www.yorkpress.co.uk/resources/images/21383918.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
+- True Crime
 ---
 
 *(Image: Supplied)*

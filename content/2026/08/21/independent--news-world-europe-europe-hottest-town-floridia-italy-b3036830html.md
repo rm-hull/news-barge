@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T08:54:09Z'
 published: '2026-08-21T00:00:00Z'
 description: Night-time temperatures are climbing too
 image: https://static.independent.co.uk/2026/08/21/07/2026-08-21T060007Z_1924384216_RC2P1NAFXKJC_RTRMADP_3_EUROPE-WEATHER-ITALY-SICILY.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Five years on from recording the highest temperature in European history, the inhabitants of Floridia measure extreme heat not by records, but by its toll on daily life—forcing people indoors, damaging livelihoods and eroding social ties.

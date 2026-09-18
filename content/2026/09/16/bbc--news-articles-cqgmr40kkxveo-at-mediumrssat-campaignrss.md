@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: A 29-year-old pedestrian who was the third victim of the unexplained
   crash has been identified.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/269b/live/b04f79b0-b212-11f1-95f2-19e1a2e8eef2.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![The National Transportation Safety Board released photos of the aftermath of the Los Angeles helicopter crash that killed three people.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/269b/live/b04f79b0-b212-11f1-95f2-19e1a2e8eef2.jpg)

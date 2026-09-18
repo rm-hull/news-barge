@@ -8,6 +8,11 @@ scraped_at: '2026-09-12T04:27:03Z'
 published: '2026-09-12T00:00:00Z'
 description: RAND report warns of a US space workforce crisis
 image: https://cdn.mos.cms.futurecdn.net/8Lhc2Pmpds8V2SDEhPSdsY-1920-80.jpg
+categories:
+- Technology & Software
+- History
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/8Lhc2Pmpds8V2SDEhPSdsY.jpg) 

@@ -10,6 +10,10 @@ description: A doctor at Martin House Children’s Hospice is launching a new bo
   Thirsk this weekend, drawing on her experiences caring for seriously ill children
   and
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Dr-Michelle-with-book.webp
+categories:
+- Local
+- Harrogate
+- Family & Parenting
 ---
 
 A doctor at Martin House Children’s Hospice is launching a new book in Thirsk this weekend, drawing on her experiences caring for seriously ill children and their families.

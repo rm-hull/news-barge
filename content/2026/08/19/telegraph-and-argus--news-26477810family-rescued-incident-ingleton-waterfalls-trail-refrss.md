@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: One person was rushed to hospital after a family was rescued when falling
   into difficulty at a popular beauty spot.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21340221.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 One person was rushed to hospital after a family was rescued when falling into difficulty at a popular North Craven beauty spot.

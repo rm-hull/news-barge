@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: As many as 50 people are thought to have been inside the five-storey
   hostel when it came down.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a286/live/1c93d200-a9f4-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Rescuers race to free people trapped after building collapse in Delhi

@@ -8,6 +8,9 @@ published: '2026-09-06T00:00:00Z'
 description: The row has erupted days after Mr Miliband said the UK would ‘reset’
   its policy on Israel
 image: https://static.independent.co.uk/2026/09/05/22/af12ebdbd07ec5169b3886d72cbd2691Y29udGVudHNlYXJjaGFwaSwxNzg4NzMxMTky-2.85448561.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The US ambassador to Israel has accused the Labour government of “Jew hate” after Ed Miliband said vital medicines on their way to Gaza were being blocked.

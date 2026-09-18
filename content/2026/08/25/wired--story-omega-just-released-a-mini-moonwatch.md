@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T08:55:35Z'
 published: '2026-08-25T00:00:00Z'
 description: Say hello to a revamped collection of perfectly proportioned 38-mm Speedmasters.
 image: https://media.wired.com/photos/6a8d4a7500aa0aeb44d47176/191:100/w_1280,c_limit/32430385001002_SP_Packshot_ThreeQuarter_4x5_RVB.jpg
+categories:
+- Technology & Software
+- Science
+- Self-Improvement
 ---
 
 I have skinny wrists. So skinny, in fact, that during the craze from the late 1990s to early 2010s, when watch cases started to tip over 48 mm, it became hard to find pieces that suited those of us not blessed (or cursed) with Schwarzenegger-sized forearms. Thankfully, watch case sizes have calmed down considerably since then, and now it's easy to find smaller models, particularly around that 38- to 40-mm Goldilocks zone.

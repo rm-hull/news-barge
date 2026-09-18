@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: This 13-port dock from Anker has a 6-in-1 detachable hub, triple display
   support, and charges your phone and laptop.
 image: https://cdn.mos.cms.futurecdn.net/3tcvfNZPagtMS4w8c9bLSS-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Nano Laptop Docking Station deal](https://cdn.mos.cms.futurecdn.net/3tcvfNZPagtMS4w8c9bLSS.jpg) 

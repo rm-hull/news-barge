@@ -8,6 +8,12 @@ published: '2026-09-01T00:00:00Z'
 description: Prices for tech products also increased over the month as chip and memory
   shortages linked to the AI boom impacted the sector
 image: https://static.independent.co.uk/2026/09/01/00/1b26f4814f194eee08063bf92b2760a7Y29udGVudHNlYXJjaGFwaSwxNzg4MDEzMzY1-2.70611759.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 British consumers have been hit by the fastest-growing prices in two years, new data shows, as the cost of living continues to bite in the wake of the Iran war and tech-related payment surges.

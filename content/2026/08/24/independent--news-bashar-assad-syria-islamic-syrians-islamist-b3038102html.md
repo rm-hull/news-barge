@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: A court in Damascus has sentenced former grand mufti Ahmad Badreddine
   Hassoun to life in prison
 image: https://static.independent.co.uk/2026/08/24/10/Syria_Mufti_Sentenced_6_617.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A former Islamic religious leader was sentenced to life in prison on Monday in the latest Syrian court trial of officials affiliated with the rule of ex-President Bashar Assad.

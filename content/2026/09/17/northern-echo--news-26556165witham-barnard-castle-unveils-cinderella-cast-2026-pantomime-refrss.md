@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: The Witham has launched its 2026 production of Cinderella and unveiled
   the cast bringing the fairy-tale favourite to life in Barnard Castle.
 image: https://www.thenorthernecho.co.uk/resources/images/21464046.jpg?type=og-image&xType=0&yType=1221
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 Barnard Castle shall go to the ball with Cinderella as the fairy-tale favourite returns for the town's Christmas pantomime.

@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: German security authorities discovered handguns stashed in a forest near
   Berlin last year
 image: https://static.independent.co.uk/2026/08/21/13/2290227823..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Germany is in touch with Romania over the possible extradition of a man detained there in connection with a gun stash found in a forest near Berlin last year, said Interior Minister Alexander Dobrindt on Friday.

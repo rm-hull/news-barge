@@ -9,6 +9,13 @@ description: The families of two police officers who were killed in a head-on co
   on the A66 have been given “overwhelming” support from around the world, a Police
   Federation Chair said.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjYxYzM1MTg1LWU1YmEtNDNiOC1iODE0LWNlZTFkMDUwNmZiNTpiN2I5MTgwYy05YTAzLTRjZjQtYjQ2NC02NDdmMjJhMzhkN2Q=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 # ‘Overwhelming’ support for families of A66 crash officers ahead of Pc Matthew Blades’ funeral

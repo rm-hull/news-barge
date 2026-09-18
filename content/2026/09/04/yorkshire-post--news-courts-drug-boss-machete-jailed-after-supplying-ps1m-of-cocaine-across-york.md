@@ -9,6 +9,12 @@ description: A drug dealer who used the name ‘machete’ while employing other
   cocaine has been jailed for 12 years after supplying an estimated £1m worth of the
   Class A drug.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/04/14/35/andrew-savage.jpeg?trim=57,0,183,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 # Drug boss ‘Machete’ jailed after supplying £1m of cocaine across Yorkshire

@@ -10,6 +10,10 @@ description: Game-changing HIV drug Lenacapavir will soon be saving lives across
   country, writes Molly Thompson, yet marginalised communities in the global south
   who made this possible still don’t have access
 image: https://static.independent.co.uk/2026/03/22/16/11/0P4A1924-2.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Hundreds of people across England living with multidrug-resistant HIV will soon have access to lenacapavir, a breakthrough HIV treatment. The decision, announced by the NHS this week, has been welcomed by HIV campaigners who had been calling for this because lenacapavir will be life-saving for many people living with HIV in the UK who have run out of other treatment options.

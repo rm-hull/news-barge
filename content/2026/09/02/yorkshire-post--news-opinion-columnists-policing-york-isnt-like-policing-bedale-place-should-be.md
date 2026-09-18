@@ -12,6 +12,11 @@ description: The paint is not yet dry on signs for the new Number 10 North, but 
   improving public services. So, when a Home Office white paper on police reform barely
   mentions the word, alarms should sound.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRlYjgxZDVlLTMyYzEtNDVlNS04NTA4LTk1ZjM1MjM5MDgzNDozZTFjZTYzYi0zNWU1LTRkMDEtYjBmZi1jMmVlZjFiMGMzZDM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Policing York isn’t like policing Bedale, place should be at the heart of police reform - Jo Coles

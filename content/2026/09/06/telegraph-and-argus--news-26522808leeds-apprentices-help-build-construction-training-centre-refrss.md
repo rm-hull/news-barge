@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A TEAM of apprentices has helped build a construction training centre
   for young people
 image: https://www.thetelegraphandargus.co.uk/resources/images/21411693.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Supplied)*

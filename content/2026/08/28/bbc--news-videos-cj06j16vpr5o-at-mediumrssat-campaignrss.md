@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Laura Bicker explains how a lake which formed after the recent landslide
   near the Nepal-Tibet border is raising fears of a second flood.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e51/live/a823f770-a2d1-11f1-941c-8741c1a72471.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 # Watch: Why rescuers fear new barrier lake could cause new Nepal-Tibet flood

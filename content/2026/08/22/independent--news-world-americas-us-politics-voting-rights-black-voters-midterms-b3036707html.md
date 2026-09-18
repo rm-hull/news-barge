@@ -10,6 +10,9 @@ description: The Supreme Court loosened the rules allowing redistricting. Eric G
   breaks down the numbers and they show that Black voters are protesting with their
   ballots — and their growing numbers could swing 2026 midterms
 image: https://static.independent.co.uk/2026/08/21/21/2290640794..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Angie Nixon, the minority leader in Florida’s state house, shocked many last week when she beat Alex Vindman, the incredibly well-funded former national security official who became a hero for many liberals after he testified during President Donald Trump’s first impeachment trial.

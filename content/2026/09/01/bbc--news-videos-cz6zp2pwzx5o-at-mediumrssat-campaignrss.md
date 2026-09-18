@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: BBC presenter Anoushka Mutanda-Dougherty describes what it was like when
   Duane "Keffe D" Davis was found guilty of murdering the famous rapper.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0869/live/c74d0eb0-a5ac-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 # What it was like inside court for Tupac Shakur’s murder trial verdict

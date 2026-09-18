@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Plans to close Bridlington Community Unit, which provides elderly care,
   will result in the ‘worst possible outcome for patients and…
 image: https://www.yorkpress.co.uk/resources/images/21350499.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Google)*

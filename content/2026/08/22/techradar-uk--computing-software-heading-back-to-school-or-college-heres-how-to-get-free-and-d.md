@@ -9,6 +9,8 @@ published: '2026-08-22T00:00:00Z'
 description: These are the secret ways you can get free and cheap software for all
   your devices.
 image: https://cdn.mos.cms.futurecdn.net/L7LLbMsGVPft6dDjhhmPvA-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A person working on a laptop.](https://cdn.mos.cms.futurecdn.net/L7LLbMsGVPft6dDjhhmPvA.jpg) 

@@ -7,6 +7,11 @@ scraped_at: '2026-08-28T11:15:30Z'
 published: '2026-08-28T00:00:00Z'
 description: SHAUN the Sheep is bringing spooky fun to Bradford this half term.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21379173.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Alice Brown)*

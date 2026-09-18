@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: ABS says CPI was 3.5% in July, casting doubt on Reserve Bank meeting
   its 2.5% inflation target without further hike
 image: https://i.guim.co.uk/img/media/ded625f2f56d2bfbc7f20677b7734b06fc80192c/446_0_4446_3559/master/4446.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ed97f6fb02dfe8e3b27393266b0cf5a
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Fears are growing that the Reserve Bank will hit millions of mortgage holders with a fourth rate hike this year, after inflation eased in July but by far less than expected.

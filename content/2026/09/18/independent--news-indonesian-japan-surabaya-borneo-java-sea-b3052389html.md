@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Rescue teams in Indonesia have recovered three bodies from a capsized
   ferry
 image: https://static.independent.co.uk/2026/09/18/10/Indonesia_Ferry_Accident_74522.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Sports
 ---
 
 Rescue teams in Indonesia on Friday recovered three bodies from a capsized ferry while preparing to salvage the wreckage of the accident Sunday, bringing the confirmed death toll to nine with 126 people still missing, officials said.

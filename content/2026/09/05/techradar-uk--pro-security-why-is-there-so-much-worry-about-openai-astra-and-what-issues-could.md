@@ -8,6 +8,8 @@ published: '2026-09-05T00:00:00Z'
 description: As OpenAI unveils GPT-6 Astra, cybersecurity experts question whether
   the model's 'recurrent depth' reasoning was properly tested.
 image: https://cdn.mos.cms.futurecdn.net/S8KxZGx6n8eh2LiPG7yz36-1280-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![OpenAI GPT-6 Astra](https://cdn.mos.cms.futurecdn.net/S8KxZGx6n8eh2LiPG7yz36.jpg) 

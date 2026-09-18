@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Jose Carlos Hoyoz-Munoz was arrested after a family altercation and handcuffed
   for ‘combative’ behavior
 image: https://i.guim.co.uk/img/media/209609195f3db0b76d55fc663f53b62e2d326665/90_0_2819_2256/master/2819.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c13ded287e3577fa3fd0707158a96671
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 A cadre of Los Angeles police officers beat and restrained a handcuffed man in July, minutes before he was found dead in a jail cell, according to newly released body-cam footage.

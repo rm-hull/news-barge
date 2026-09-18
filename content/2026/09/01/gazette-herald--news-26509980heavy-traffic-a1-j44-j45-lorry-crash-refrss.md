@@ -8,6 +8,12 @@ published: '2026-09-01T00:00:00Z'
 description: Motorists are being warned of heavy traffic on the A1 following a crash
   involving a lorry.
 image: https://www.gazetteherald.co.uk/resources/images/21394046.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

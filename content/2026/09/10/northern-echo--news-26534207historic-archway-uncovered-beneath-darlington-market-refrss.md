@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Ornate Victorian archways uncovered during upgrade works outside Darlington
   Market have sparked speculation about secret tunnels beneath the town,…
 image: https://www.thenorthernecho.co.uk/resources/images/21428971.jpg?type=og-image&xType=0&yType=117
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Conspiracy theories, secret tunnels and long-forgotten passageways have all been suggested after an ornate archway was uncovered during works outside Darlington Indoor Market.

@@ -8,6 +8,13 @@ published: '2026-09-14T00:00:00Z'
 description: City of York Council's finance spokesperson has answered questions ahead
   of work starting on next year's budget.
 image: https://www.gazetteherald.co.uk/resources/images/21028693.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 CITY of York Council's finance spokesperson has answered questions on affordable housing, major projects and plans for charges on tourists ahead of work starting on next year's budget.

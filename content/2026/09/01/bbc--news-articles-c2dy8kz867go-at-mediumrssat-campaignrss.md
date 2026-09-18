@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The cost of dining out is getting increasingly hard to swallow - but
   clever planning can net you cheaper deals.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a9ca/live/ec63ff60-9017-11f1-b783-f784376ffc11.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Close up of four women putting their drinks together in a 'cheers' motion. They are sat around a wooden table with plates of food in front of them.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a9ca/live/ec63ff60-9017-11f1-b783-f784376ffc11.jpg)

@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Former York College student, Joshua Kay-Shaw, who suffered life-changing
   injuries in a car crash, has received a settlement to support his…
 image: https://www.gazetteherald.co.uk/resources/images/21456464.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Self-Improvement
 ---
 
 A former York College student who suffered life-changing injuries in a car crash has received a settlement to support his rehabilitation.

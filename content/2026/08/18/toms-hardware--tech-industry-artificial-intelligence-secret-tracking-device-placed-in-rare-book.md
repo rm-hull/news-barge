@@ -8,6 +8,9 @@ scraped_at: '2026-08-18T13:04:07Z'
 published: '2026-08-18T00:00:00Z'
 description: An operation exposed by an AirTag.
 image: https://cdn.mos.cms.futurecdn.net/znEoC4Piw9Cq6GX6FGxRqW-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![A book with its spine strained.](https://cdn.mos.cms.futurecdn.net/znEoC4Piw9Cq6GX6FGxRqW.jpg) 

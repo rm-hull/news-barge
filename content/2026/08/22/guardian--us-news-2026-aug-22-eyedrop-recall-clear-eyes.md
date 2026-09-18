@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: Prestige Brand Holdings has voluntarily recalled a batch of its Clear
   Eyes eye drops after FDA alert
 image: https://i.guim.co.uk/img/media/769b4b8243788f118ce87d2ccedaff5971169d06/491_0_4901_3922/master/4901.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc406516a2debdf23f121f412a23026c
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Nearly 40,000 bottles of eye drops are being pulled from store shelves across the US over concerns about potential contamination, according to the Food and Drug Administration (FDA).

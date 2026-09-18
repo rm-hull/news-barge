@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Harp has attracted considerable attention over what some observers describe
   as her intense devotion to Trump and outsize influence
 image: https://static.independent.co.uk/2026/08/19/23/53/GettyImages-2290266450.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Natalie Harp — President Donald Trump’s executive assistant and recent subject of intense media scrutiny — repeatedly declined to obtain security clearance during a period of more than a year while working at the White House, according to a new report.

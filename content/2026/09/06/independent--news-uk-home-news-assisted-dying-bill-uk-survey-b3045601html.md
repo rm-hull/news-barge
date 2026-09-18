@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: MPs will debate and vote on the legislation when it returns to the House
   of Commons on Friday
 image: https://static.independent.co.uk/2026/07/29/14/033f7576422ad2b0afa348c24da96d21Y29udGVudHNlYXJjaGFwaSwxNzg1NDE4Nzg0-2.80630511.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Six in 10 people support the return of the assisted dying bill to parliament, according to new polling.

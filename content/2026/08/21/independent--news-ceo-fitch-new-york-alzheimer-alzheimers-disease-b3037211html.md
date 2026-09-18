@@ -10,6 +10,11 @@ description: The former CEO of Abercrombie & Fitch has been ruled mentally compe
   to stand trial for alleged sex trafficking after being hospitalized for months for
   dementia and Alzheimer’s symptoms
 image: https://static.independent.co.uk/2026/08/21/16/Sexual_Misconduct_Abercrombie_38_1_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Business & Entrepreneurship
 ---
 
 The former CEO of Abercrombie & Fitch is mentally competent to stand trial as he faces sex trafficking charges after being hospitalized for months for dementia and Alzheimer’s symptoms, a federal judge ruled.

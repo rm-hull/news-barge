@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Community facilities could be improved if plans are agreed for a new
   cafe and solar panels at a church.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21469483.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Google)*

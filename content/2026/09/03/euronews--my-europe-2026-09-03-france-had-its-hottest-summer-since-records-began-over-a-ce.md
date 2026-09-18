@@ -9,6 +9,10 @@ description: 'According to Meteo France, the summer of 2026 recorded an average 
   of 24 °C covering day and nighttime, 3.6 C above the normal average, and higher
   than in 2003, when temperatures were 2.7 C above normal. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/06/12/1200x675_cmsv2_8cc8ee33-94af-5125-acda-850d7d7a23d0-9900612.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## According to Meteo France, the summer of 2026 recorded an average temperature of 24 °C covering day and nighttime, 3.6 C above the normal average, and higher than in 2003, when temperatures were 2.7 C above normal.

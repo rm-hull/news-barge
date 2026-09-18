@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Iran has targeted U.S. Gulf allies, firing drones at Kuwait and Bahrain
   after U.S. airstrikes in Iran
 image: https://static.independent.co.uk/2026/09/02/13/Iran_War_Strait_of_Hormuz_69912.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Iran targeted Gulf allies of the United States on Wednesday, firing drones at Kuwait and Bahrain after a night of U.S. aerial bombardment of Iran.

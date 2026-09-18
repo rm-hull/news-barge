@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: The Scottish government spent almost £100,000 on official visits to the
   United States in June.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f2b/live/baa83ad0-9c75-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 ![John Swinney, who is bald and wearing glasses, walks on a city street in formal wear](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4f2b/live/baa83ad0-9c75-11f1-a291-b542ee92de7c.jpg)

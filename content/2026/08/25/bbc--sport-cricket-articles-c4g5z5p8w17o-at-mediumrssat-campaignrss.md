@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: England captain Joe Root says he is "hacked off" and "disappointed" at
   the incident involving fast bowler Brydon Carse at a Derby nightclub.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f63b/live/5cb95b00-a082-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Joe Root speaks to the media with sponsors boards behind him](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/f63b/live/5cb95b00-a082-11f1-aed2-8d6da8d75094.jpg)

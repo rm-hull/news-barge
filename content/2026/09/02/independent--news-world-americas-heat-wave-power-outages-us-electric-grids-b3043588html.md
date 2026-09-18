@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The risk of power outages is expected to escalate across a broad swath
   of the US as intense heat tests electricity supplies
 image: https://static.independent.co.uk/2026/09/02/15/00/GettyImages-2153309254.jpg?trim=0,300,0,481&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Millions of homes and businesses across the Midwest and Mid-Atlantic face an increased threat of power outages on Wednesday as intense heat places severe strain on electricity networks.

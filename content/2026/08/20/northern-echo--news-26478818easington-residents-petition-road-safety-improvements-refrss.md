@@ -9,6 +9,12 @@ published: '2026-08-20T00:00:00Z'
 description: Residents have called for new road safety measures and a designated pedestrian
   crossing amid concerns over speeding and dangerous driving.
 image: https://www.thenorthernecho.co.uk/resources/images/21342877.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Automotive
 ---
 
 Residents have called for new road safety measures and a designated pedestrian crossing amid concerns over speeding and dangerous driving.

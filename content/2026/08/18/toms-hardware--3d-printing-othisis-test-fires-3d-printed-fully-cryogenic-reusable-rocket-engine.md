@@ -8,6 +8,10 @@ scraped_at: '2026-08-18T13:04:22Z'
 published: '2026-08-18T00:00:00Z'
 description: After only two years in business, too.
 image: https://cdn.mos.cms.futurecdn.net/PSFUfuE7Hq6n5EfydZaDNW-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![A C-1 Radiamic Rocket Engine is seen on display in the How Things Fly Smithsonian National Air and Space Museum.](https://cdn.mos.cms.futurecdn.net/PSFUfuE7Hq6n5EfydZaDNW.jpg) 

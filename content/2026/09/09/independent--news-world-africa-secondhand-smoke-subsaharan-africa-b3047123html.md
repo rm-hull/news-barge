@@ -9,6 +9,9 @@ description: Exposure to second-hand smoke caused 1.7 million deaths globally in
   according to the latest statistics, but has fallen sharply in wealthier countries.
   Sub-Saharan Africa saw the largest increase in the world due to a rising population
 image: https://static.independent.co.uk/2026/09/09/10/1246758312..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The number of people exposed to second-hand smoke in sub-Saharan Africa has nearly doubled since 1990, in contrast to significant progress in reducing exposure in high income countries.

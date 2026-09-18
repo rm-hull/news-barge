@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Police have set out neighbourhood priorities for Little Horton as officers
   step up action against anti-social behaviour and suspected drug dealing…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21069892.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Machine Headz)*

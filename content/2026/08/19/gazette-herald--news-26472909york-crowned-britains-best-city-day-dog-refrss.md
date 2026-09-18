@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: York has been named Britain's best destination for a dog-friendly day
   out after new research from Tails.com.
 image: https://www.gazetteherald.co.uk/resources/images/21333466.jpg?type=og-image&xType=0&yType=233
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Tails.com)*

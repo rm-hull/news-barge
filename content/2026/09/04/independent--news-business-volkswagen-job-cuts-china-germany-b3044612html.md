@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Volkswagen has been under unprecedented pressure to restructure the business
   model that underpinned its success for decades
 image: https://static.independent.co.uk/2026/09/04/09/2026-09-04T040012Z_1742280732_RC2WUT9T3TJQ_RTRMADP_3_VOLKSWAGEN-REDUNDANCIES.JPG?trim=0,100,0,100&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Volkswagen Group is preparing to trim its vehicle range substantially while removing 50,000 roles under newly introduced corporate restructuring plans.

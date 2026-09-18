@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Anthony Beamson, 30, of Shotton Colliery, has been banned from driving
   for a further three months after admitting driving while disqualified and…
 image: https://www.thenorthernecho.co.uk/resources/images/16132699.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: PA MEDIA)*

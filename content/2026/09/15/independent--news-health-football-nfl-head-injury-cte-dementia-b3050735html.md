@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: There are an estimated 100,000-150,000 concussion cases linked to high
   school football each year
 image: https://static.independent.co.uk/2026/09/15/20/1228248243..?trim=236,0,236,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A high school football rule, introduced 12 years ago to reduce serious head injuries among players, has had an unintended benefit: fewer leg injuries.

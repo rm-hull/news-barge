@@ -10,6 +10,10 @@ description: Long lines have formed outside gas stations in Iran's capital as pe
   rush to fill their tanks amid fuel shortages, fears of higher prices and new U.S.
   sanctions
 image: https://static.independent.co.uk/2026/08/25/17/Iran_Economy_83542.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Lines have grown outside gas stations across Tehran in recent weeks as the United States has tightened its blockade and threatened more severe sanctions, with some people waiting for two hours or more to fill up.

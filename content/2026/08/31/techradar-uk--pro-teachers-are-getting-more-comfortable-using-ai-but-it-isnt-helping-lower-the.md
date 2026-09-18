@@ -8,6 +8,10 @@ scraped_at: '2026-08-31T16:08:45Z'
 published: '2026-08-31T00:00:00Z'
 description: Around 80% of teachers now use AI at work
 image: https://cdn.mos.cms.futurecdn.net/DroFFmiArXg2SARc9KPh44-2000-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
+- Education & Learning
 ---
 
 ![Teacher using a smartphone at his desk with blackboard behind](https://cdn.mos.cms.futurecdn.net/DroFFmiArXg2SARc9KPh44.jpg) 

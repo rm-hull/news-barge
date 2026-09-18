@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Plans to extract up to 23.5 million tonnes of ash from a huge mound beside
   Drax Power Station have been approved, with strict limits on working…
 image: https://www.thenorthernecho.co.uk/resources/images/21432857.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Plans to extract up to 23.5 million tonnes of ash from a huge mound next to Drax Power Station have been approved with limits on when the site can be worked.

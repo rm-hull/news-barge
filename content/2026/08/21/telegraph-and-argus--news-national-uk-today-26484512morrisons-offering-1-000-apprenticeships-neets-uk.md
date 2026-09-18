@@ -8,6 +8,12 @@ published: '2026-08-21T00:00:00Z'
 description: Morrisons wants to help more young people get into work by offering 1,000
   apprenticeships.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21352952.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Kennedy News/Morrisons)*

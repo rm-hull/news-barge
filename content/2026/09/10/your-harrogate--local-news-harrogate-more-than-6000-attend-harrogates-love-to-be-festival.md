@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: More than 6,000 house music fans attended the Love to Be Festival in
   Harrogate at the weekend.
 image: https://mmo.aiircdn.com/409/6aa276c09cd3f20585a.jpg
+categories:
+- Local
+- Harrogate
+- Music
+- Arts & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa276c09cd3f20585a.jpg) 

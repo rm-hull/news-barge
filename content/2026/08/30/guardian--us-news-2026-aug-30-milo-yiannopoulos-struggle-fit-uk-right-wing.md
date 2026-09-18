@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: ‘Alt-right’ agitator and former Trump backer deported from US is said
   also to be too extreme for Reform
 image: https://i.guim.co.uk/img/media/4c8ba1e27e3789ea39e561ad7db5dfc8cbf9d1a1/59_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b7180c2db5877061961cae9a3d893bf
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 As he arrives back in the UK after being deported from the US by the Trump administration, the far-right provocateur Milo Yiannopoulos may be wondering what lies ahead for him in his native country.

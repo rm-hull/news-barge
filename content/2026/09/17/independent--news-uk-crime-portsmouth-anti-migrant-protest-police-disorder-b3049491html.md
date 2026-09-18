@@ -7,6 +7,9 @@ scraped_at: '2026-09-17T13:23:10Z'
 published: '2026-09-17T00:00:00Z'
 description: Seven officers were treated at the scene for injuries
 image: https://static.independent.co.uk/2026/09/17/9/04/Hampshire-Split.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Police have released photos of four men they’d like to speak to after disorder at an anti-migrant protest on Sunday 6 September.

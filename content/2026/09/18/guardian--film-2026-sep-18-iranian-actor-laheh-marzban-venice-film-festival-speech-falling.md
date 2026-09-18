@@ -10,6 +10,10 @@ description: Marzban, who won a best actress award for her portrayal of a woman 
   hostage by her father in Falling House, has received condemnations from authorities
   after dedicating her prize to ‘the women of Iran’
 image: https://i.guim.co.uk/img/media/d02329264456230ced39634db221cace4752acca/2438_180_2281_1824/master/2281.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=692d25f8e1e3e79df05eeb93e0fc6571
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 An Iranian actress who won the best newcomer award at the Venice film festival has come under severe attack from the country’s authorities and state media after highlighting the plight of women in Iran in her acceptance speech.

@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Little Boro will transform Middlesbrough's Centre Square into a free
   pop-up creative village featuring art, workshops, performances and family…
 image: https://www.thenorthernecho.co.uk/resources/images/21439841.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A new creative neighbourhood made from repurposed shipping containers is set to transform the heart of Middlesbrough.

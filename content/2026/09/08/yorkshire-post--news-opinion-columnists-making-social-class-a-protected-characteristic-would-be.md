@@ -10,6 +10,12 @@ description: A recent report by the Sutton Trust called Crossing Paths examines 
   socio-economic background, gender, ethnicity, and geography interact to shape educational
   achievement and labour market outcomes for disadvantaged young people in England.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjFhN2JmMTYzLTg2NTktNDhmZC1iYTRhLTI0MmEyOGUxN2JkYTo0MjE0YmM3My1iMjQ3LTRhYjktYmMwNy1lZjRhYmJlN2NmYWM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- Education & Learning
 ---
 
 # Making social class a protected characteristic would be an important step towards an education system that values potential over privilege - Matt Bromley

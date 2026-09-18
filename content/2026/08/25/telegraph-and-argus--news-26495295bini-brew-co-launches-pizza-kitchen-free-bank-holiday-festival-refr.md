@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: FRESHLY baked sourdough pizzas, live music and carnival games will be
   on offer as Bini Brew Co celebrates the launch of its new permanent pizza…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21371413.jpg?type=og-image&xType=0&yType=53
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
+- Music
 ---
 
 *(Image: Nick Helliwell)*

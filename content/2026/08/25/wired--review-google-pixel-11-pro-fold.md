@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: A polished update to Google’s foldable brings real improvements, but
   the price bump and rampant competition make it a tough sell.
 image: https://media.wired.com/photos/6a8ddc85c2027e53c53387d2/191:100/w_1280,c_limit/Pixel%2011%20Pro%20Fold%208%20SOURCE%20Simon%20Hill.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 The Google Pixel 11 Pro Fold is a predictably iterative improvement over last year’s foldable, with slight upgrades to performance and the camera, but it comes with an unwelcome $100 price bump. The IP68 rating for water and dust resistance and the Qi2 25W support for faster magnetic charging are standouts in a category where Google is lagging, but it has never been known for its hardware. Software is where the company excels, and some folks will appreciate the unrivaled AI-infused software features.

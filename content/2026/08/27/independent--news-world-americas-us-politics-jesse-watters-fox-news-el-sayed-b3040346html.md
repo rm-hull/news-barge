@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: This week, the Fox News presenter admitted that he has a soft spot for
   Abdul El-Sayed, the Democratic nominee for US Senate in Michigan
 image: https://static.independent.co.uk/2026/08/27/13/30/Screenshot-2026-08-27-at-9-01-33-AM.png?trim=0,234,0,233&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Fox News’ Jesse Watters jokingly attacked his co-host for “gay shaming” him over his bromance with Abdul El-Sayed, the Democratic nominee for U.S. Senate in Michigan, who asked Watters if he was circumcised during a recent interview.

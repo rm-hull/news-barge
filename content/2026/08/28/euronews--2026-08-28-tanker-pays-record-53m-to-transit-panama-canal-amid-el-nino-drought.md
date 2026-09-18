@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: The US-built canal's main users are the United States, China, Japan,
   Chile and South Korea.
 image: https://images.euronews.com/articles/stories/09/89/22/28/1200x675_cmsv2_e8dcef5b-1a47-5216-a8c3-732d470bf5b0-9892228.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## The US-built canal's main users are the United States, China, Japan, Chile and South Korea.

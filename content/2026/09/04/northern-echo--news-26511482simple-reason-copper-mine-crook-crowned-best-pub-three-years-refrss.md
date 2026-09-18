@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: The Copper Mine has been crowned The Northern Echo Best Pub 2026 for
   a third year running.
 image: https://www.thenorthernecho.co.uk/resources/images/21403372.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: SARAH CALDECOTT)*

@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Jean Nassif tells inquiry his statements were ‘all talk’ borne from frustration
   with former building commissioner David Chandler and 2GB radio shockjock Ray Hadley
 image: https://i.guim.co.uk/img/media/5ee73183719174872b2070340a6897455a63f4b4/288_119_822_657/master/822.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=74c6e056a038c40f212c3c4ce3cf2d7b
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The fugitive property developer Jean Nassif has bragged about taking down his political foes and bolstering the right wing of the Liberal party in calls played to the New South Wales corruption watchdog, as he vowed to “speak [his] heart” at his much-anticipated appearance.

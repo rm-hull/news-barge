@@ -9,6 +9,10 @@ description: A volcano erupted in Indonesia on Sunday, prompting the cancellatio
   of all flights at Jakarta’s Soekarno-Hatta International Airport and disrupting
   other domestic airports.
 image: https://images.euronews.com/articles/stories/09/90/34/45/1200x675_cmsv2_06136d88-91a2-5720-9c9d-8de09b755507-9903445.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## A volcano erupted in Indonesia on Sunday, prompting the cancellation of all flights at Jakarta’s Soekarno-Hatta International Airport and disrupting other domestic airports.

@@ -8,6 +8,9 @@ published: '2026-09-04T00:00:00Z'
 description: Vice President JD Vance said that the United States was investigating
   a deadly strike on an Iranian wedding earlier this week
 image: https://static.independent.co.uk/2026/09/04/08/download.-4.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The United States is investigating a deadly strike on a wedding gathering in southern Iran after weapons experts reviewing verified images and video concluded the blast was likely caused by a direct hit from a U.S. munition, Vice President JD Vance said Thursday.

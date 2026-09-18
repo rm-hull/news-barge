@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: Adult learners who returned to education alongside work and family commitments
   are celebrating their GCSE results at Harrogate College.
 image: https://mmo.aiircdn.com/409/6a871da2d4a1cc7d2a3.jpg
+categories:
+- Local
+- Harrogate
+- Education & Learning
+- Careers & Productivity
+- Self-Improvement
 ---
 
 ![](https://mmo.aiircdn.com/409/6a871da2d4a1cc7d2a3.jpg) 

@@ -9,6 +9,10 @@ description: '"We are continuing to monitor aerial threats, ensure the smooth ru
   of trains and take every possible measure to ensure the safety of passengers and
   railway staff," Ukrzaliznytsia said. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/16/73/1200x675_cmsv2_188dced6-9f33-5b2e-8129-cbe57543e4c3-9911673.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## "We are continuing to monitor aerial threats, ensure the smooth running of trains and take every possible measure to ensure the safety of passengers and railway staff," Ukrzaliznytsia said.

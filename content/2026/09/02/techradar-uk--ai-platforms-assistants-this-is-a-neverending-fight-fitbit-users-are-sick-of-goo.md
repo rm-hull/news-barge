@@ -10,6 +10,9 @@ published: '2026-09-02T00:00:00Z'
 description: Fitbit users are reporting Google Health’s AI logging wildly incorrect
   food metrics.
 image: https://cdn.mos.cms.futurecdn.net/2yHEj7RR9QpUSvzcPym7Vf-2121-80.jpg
+categories:
+- Technology & Software
+- Health & Fitness
 ---
 
 ![Angry man shouting at mobile phone while sitting at a desk](https://cdn.mos.cms.futurecdn.net/2yHEj7RR9QpUSvzcPym7Vf.jpg) 

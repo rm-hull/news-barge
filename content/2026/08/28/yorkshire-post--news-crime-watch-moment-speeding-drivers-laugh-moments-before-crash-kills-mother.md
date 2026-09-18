@@ -9,6 +9,11 @@ description: This video shows the moment two motorists laugh and compliment each
   about their cars moments before causing a crash which killed a mother and her daughter
   on the way to school.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/28/11/56/Riyat-Bhachu.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 # Watch moment speeding drivers laugh moments before crash kills mother and daughter

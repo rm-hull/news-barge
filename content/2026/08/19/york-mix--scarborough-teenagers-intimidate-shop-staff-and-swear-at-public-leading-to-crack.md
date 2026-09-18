@@ -8,6 +8,10 @@ scraped_at: '2026-08-19T08:52:16Z'
 published: '2026-08-19T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/08/police-officers-outside-dreamstime.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 Police imposed a dispersal order in Scarborough last night after a day of trouble from teenagers.

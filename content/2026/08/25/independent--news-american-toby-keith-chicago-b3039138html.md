@@ -8,6 +8,10 @@ scraped_at: '2026-08-25T20:40:38Z'
 published: '2026-08-25T00:00:00Z'
 description: It’s red
 image: https://static.independent.co.uk/2026/08/25/20/25__Objects_Red_Solo_Cup_78_15.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 It’s red. It’s soft plastic. And it probably contains your favorite beverage.

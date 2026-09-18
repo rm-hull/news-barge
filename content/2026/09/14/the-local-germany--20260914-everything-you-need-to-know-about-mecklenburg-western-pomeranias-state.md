@@ -10,6 +10,12 @@ description: Foreign residents can’t vote in Mecklenburg-Western Pomerania's e
   on September 20th. But the result could shape everything from integration policy
   and schools in the state to the wider mood of German politics.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-618506491.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Society & Culture
+- History
 ---
 
 On Sunday September 20th, voters in Mecklenburg-Western Pomerania, Germany's north-eastern Baltic Sea state, will elect a new state parliament.

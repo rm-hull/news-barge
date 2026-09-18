@@ -7,6 +7,11 @@ scraped_at: '2026-08-25T13:08:28Z'
 published: '2026-08-25T00:00:00Z'
 description: Parenting lessons could improve exam results - in today's letters.
 image: https://www.yorkpress.co.uk/resources/images/21345781.jpg?type=og-image
+categories:
+- Local
+- York
+- Education & Learning
+- Self-Improvement
 ---
 
 *(Image: Newsquest)*

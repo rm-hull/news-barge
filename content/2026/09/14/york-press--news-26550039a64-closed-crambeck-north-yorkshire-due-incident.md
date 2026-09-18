@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T20:18:08Z'
 published: '2026-09-14T00:00:00Z'
 description: A MAIN road in North Yorkshire is closed both ways.
 image: https://www.yorkpress.co.uk/resources/images/21234979.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: North Yorkshire Police)*

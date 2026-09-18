@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Study suggests nuclear testing fundamentally altered the region’s tectonic
   landscape, making earthquakes stronger and more frequent for years afterwards
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/11/30/01/kimkjongun-three.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- Health & Fitness
 ---
 
 Scientists have observed a strange increase in seismic activity at North Korea’s Mount Mantap, where Pyongyang conducted underground nuclear tests between 2006 and 2017.

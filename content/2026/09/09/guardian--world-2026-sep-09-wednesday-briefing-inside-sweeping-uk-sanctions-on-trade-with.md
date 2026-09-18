@@ -9,6 +9,9 @@ description: 'In today’s newsletter: Ed Miliband has announced the strongest s
   on Israel’s actions ever issued by the the UK government, but will it make a meaningful
   difference to Palestinians?'
 image: https://i.guim.co.uk/img/media/d9734320b2021c7eab5aaf9cb7a52cdf6c75bd22/377_0_3077_2463/master/3077.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6d3cb645bcc91d2bca128f0d6fd98f8b
+categories:
+- UK
+- News & Politics
 ---
 
 Good morning. For almost half a century, British governments have condemned illegal Israeli settlements, acknowledging they represent an obstacle to peace and threaten the prospect of a two-state solution. And yet no government has ever compelled Israel to stop its expansion.

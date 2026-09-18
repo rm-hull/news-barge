@@ -7,6 +7,9 @@ scraped_at: '2026-08-30T05:16:41Z'
 published: '2026-08-30T00:00:00Z'
 description: The stakes are higher than ever as Amy and Kirsten head to the Arctic
 image: https://cdn.mos.cms.futurecdn.net/ioPXjEEyohRGtxNyxucQs5-1595-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Vigil season 3](https://cdn.mos.cms.futurecdn.net/ioPXjEEyohRGtxNyxucQs5.jpg) 

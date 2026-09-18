@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T09:01:09Z'
 published: '2026-08-24T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/06/traffic-jam-istock.jpg
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 A crash is causing problems on the A64 this morning (Monday).

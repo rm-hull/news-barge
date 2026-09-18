@@ -10,6 +10,11 @@ description: It can be hard to love the BBC sometimes, and especially so when th
   horribly self-satisfied advert comes on featuring famous names patting the corporation
   on the back for doing such a splendid job.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ4YTJmODRhLTViMjktNDJjZC1iMzQ4LTdmMzVjMDA5YjQ5YjoxZWUzYTlmNS00MGFlLTQ2ZDQtODhlNC05NDA5YThjZGE2ZWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # What has the BBC ever done for me? How about it ditch the dross like Mrs Brown’s Boys and focus on quality instead - Andrew Vine

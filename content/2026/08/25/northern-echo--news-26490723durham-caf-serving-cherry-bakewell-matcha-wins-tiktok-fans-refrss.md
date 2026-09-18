@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: A family-run Durham Market Hall café is attracting attention with quirky
   drinks including Cherry Bakewell matcha and Rolo iced coffee.
 image: https://www.thenorthernecho.co.uk/resources/images/21365165.jpg?type=og-image&xType=0&yType=369
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 Tucked away in the bustle of Durham Market Hall, an independent family-run café is drawing customers in with some unconventional coffee creations.

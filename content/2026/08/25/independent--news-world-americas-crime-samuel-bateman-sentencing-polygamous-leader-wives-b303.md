@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: He was one of the trusted followers of Warren Jeffs, who is serving a
   life sentence in Texas for sexual assault of children
 image: https://static.the-independent.com/2026/08/25/15/EEUU-SECTA_POL%C3%8DGAMA_57119.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Film & TV
 ---
 
 A polygamous sect leader featured in Netflix’s *Trust Me: The False Prophet* is set to be sentenced Tuesday after three girls were rescued from harrowing conditions inside an unventilated trailer.

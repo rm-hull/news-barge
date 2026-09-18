@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Physiotherapist Francesca Moulton raised more than £1,100 for charity
   by running the Great North Run in memory of her grandfather, helping patients…
 image: https://www.thenorthernecho.co.uk/resources/images/21456199.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

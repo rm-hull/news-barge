@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Newcastle Trampoline Park and Gym is undergoing a £400,000, plus getting
   upgrades, including a new activity zone designed for children, young…
 image: https://www.thenorthernecho.co.uk/resources/images/21385993.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 A North East trampoline park is undergoing an upgrade worth over £400,000 to create a new activity zone.

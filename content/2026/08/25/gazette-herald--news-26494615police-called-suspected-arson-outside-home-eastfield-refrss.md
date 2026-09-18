@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: North Yorkshire Police is investigating an alleged arson outside a home
   in North Yorkshire.
 image: https://www.gazetteherald.co.uk/resources/images/19323953.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 *(Image: Supplied)*

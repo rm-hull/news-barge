@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Authorities in Rome have unveiled what is believed to be the largest
   fresco and mosaic complex of ancient Rome
 image: https://static.independent.co.uk/2026/09/08/13/Italy-Ancient_Fresco_79244.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Authorities on Tuesday unveiled what is believed to be the largest fresco and mosaic complex of ancient Rome, a 1st century AD depiction of a maritime city in what became the largest bath complex in the world.

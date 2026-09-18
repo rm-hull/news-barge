@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: A man admits endangering lives at sea after piloting a dinghy with a
   then-record number of migrants.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fbd/live/34e077e0-8777-11f1-b430-afa19a42b819.jpg
+categories:
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 ![A Border Security Command vessel on the sea with a large black inflatable dinghy hanging from a crane alongside. The dinghy is several metres long and attached to the side of the boat.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/3fbd/live/34e077e0-8777-11f1-b430-afa19a42b819.jpg)

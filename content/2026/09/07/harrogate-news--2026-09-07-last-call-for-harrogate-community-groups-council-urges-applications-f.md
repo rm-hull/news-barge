@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: HARROGATE — Local charities, voluntary groups, and non-profit organisations
   are facing a rapidly approaching deadline to secure essential funding. Harrogate
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2023/11/StrayBonfire2023_00012.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 **HARROGATE**— Local charities, voluntary groups, and non-profit organisations are facing a rapidly approaching deadline to secure essential funding.** Harrogate Town Council**is urging community entities to submit their applications for the** 2026/27 Small Grants Scheme**before the window slams shut on** Tuesday 15 September 2026**.

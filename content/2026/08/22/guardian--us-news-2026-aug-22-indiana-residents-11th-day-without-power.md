@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: 33,124 residents still in the dark as utility company says it is working
   to restore power in north-west of state
 image: https://i.guim.co.uk/img/media/d7094952c1c7eebabb825d5731e36f545b17d225/741_0_5415_4333/master/5415.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cf0154d426c0c7975c8d523aa86fbc8e
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 Thousands of residents of north-west Indiana on Saturday were headed for their 11th day without electric power after storms swept through the state, toppling trees and power lines, earlier in August.

@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Emergency services are at the scene of a major fire at Dalton Mills in
   Keighley this evening.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21446548.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 Emergency services are at the scene of a major fire at Dalton Mills in Keighley this evening.

@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Germany's AfD has hailed a "historic result" and is projected to win
   more than 44% of the vote, far ahead of the conservative CDU on 18.4%.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Top candidate of the far-right Alternative for Germany (AfD), Ulrich Siegmund, with party co leaders Alice Weidel and Tino Chrupalla, reacts after polls closed, on the day of the Saxony-Anhalt state elections](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg)

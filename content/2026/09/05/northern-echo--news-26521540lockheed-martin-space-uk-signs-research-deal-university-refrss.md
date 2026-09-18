@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: LOCKHEED Martin Space UK has signed a long-term research deal with Northumbria
   University.
 image: https://www.thenorthernecho.co.uk/resources/images/21409853.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Science
+- Business & Entrepreneurship
 ---
 
 *(Image: North News & Pictures Ltd)*

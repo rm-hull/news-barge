@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Pima County Sheriff’s Department said that the remains had been at the
   desert location for an ‘extended period of time’
 image: https://static.the-independent.com/2026/08/01/13/27/Untitled-design-(12).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Human remains have been found 15 miles from the home of missing 84-year-old Nancy Guthrie.

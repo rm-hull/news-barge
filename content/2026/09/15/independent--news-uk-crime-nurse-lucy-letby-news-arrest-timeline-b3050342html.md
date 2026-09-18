@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The findings of The Thirwall Inquiry into how Lucy Letby was able to
   repeatedly kill and harm babies on a hospital neonatal unit is about to be published
 image: https://static.independent.co.uk/2024/07/05/11/3f70e613f2e3c48a539df5b56bb1c1b9Y29udGVudHNlYXJjaGFwaSwxNzIwMjUwMTg2-2.76753374.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 The long-anticipated findings of a public inquiry into how Lucy Letby was able to murder seven babies at a hospital neonatal unit will be published on Tuesday.

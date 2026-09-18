@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T13:07:22Z'
 published: '2026-08-25T00:00:00Z'
 description: Widespread and persistent rain is forecast to hit the UK this week
 image: https://static.independent.co.uk/2026/08/24/8/09/Screenshot-2026-08-24-at-08-26-46.png?trim=96,0,96,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Thunderstorms and heavy rain are expected across the UK this week as a wet and unsettled put an end to a hot and dry summer.

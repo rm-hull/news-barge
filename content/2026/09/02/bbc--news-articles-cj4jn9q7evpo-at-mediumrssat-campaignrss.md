@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: The 23-year-old is charged with aggravated murder, a capital offence
   in Utah, and six other counts.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4fe7/live/9ee301c0-795e-11f1-b976-0b9c15b0ccfc.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Watch: Moment Tyler Robinson pleads not guilty in Charlie Kirk's death

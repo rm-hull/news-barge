@@ -7,6 +7,10 @@ scraped_at: '2026-09-06T12:07:16Z'
 published: '2026-09-06T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/10/york-firefighter-engine.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 Emergency services were called to a three-vehicle crash last night (Saturday).

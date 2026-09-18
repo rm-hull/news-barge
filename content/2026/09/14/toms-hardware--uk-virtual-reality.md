@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Discover more about Virtual Reality with insights from the experts at
   Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/GREi4LEjsga68aPho9Xe6B-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 # Virtual Reality

@@ -8,6 +8,10 @@ scraped_at: '2026-09-16T13:28:19Z'
 published: '2026-09-16T00:00:00Z'
 description: Regional data reveals some differences in the cost of fuel to motorists
 image: https://static.independent.co.uk/2026/06/05/16/05152208-a7b7224d-defc-4263-a469-aafcad935deb.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Inflation jumped to 3.1 per cent in August, driven by rising petrol and diesel prices, the latest official statistics have revealed.

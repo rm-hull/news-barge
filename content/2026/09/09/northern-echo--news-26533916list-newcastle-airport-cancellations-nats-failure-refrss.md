@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: Newcastle Airport passengers are facing further cancellations and delays
   as the fallout from a major air traffic control system failure continues to…
 image: https://www.thenorthernecho.co.uk/resources/images/21427086.jpg?type=og-image&xType=0&yType=340
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: SARAH CALDECOTT)*

@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Police are asking people if they think action to tackle anti-social behaviour
   behaviour at a bus station has worked.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20586783.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Lesley Tate)*

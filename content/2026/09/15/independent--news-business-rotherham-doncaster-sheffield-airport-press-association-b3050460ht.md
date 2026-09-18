@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: The cost savings are to largely come from ‘reductions in employee-related
   costs’, indicating that more workers will be affected by the shake-up.
 image: https://static.independent.co.uk/2026/09/15/12/15120001-d46d17bf-4dad-45d4-b332-cc90beb6b0cd.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 More jobs are at risk at property developer Harworth after it disclosed plans to slash costs amid efforts to save about £7.4 million a year.

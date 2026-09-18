@@ -10,6 +10,11 @@ description: Nurse Razia Noreen had just checked on 15 newborns at a major gover
   hospital in Pakistan’s capital and was preparing injections when she spotted flames
   through a window
 image: https://static.independent.co.uk/2026/09/01/18/Pakistan_Hospital_Fire_59965.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Family & Parenting
 ---
 
 Razia Noreen and her colleagues had just checked on the 15 newborns in their care at the hospital nursery in Islamabad and were preparing injections for some of them in an adjacent room when she saw noticed something unusual: flames.

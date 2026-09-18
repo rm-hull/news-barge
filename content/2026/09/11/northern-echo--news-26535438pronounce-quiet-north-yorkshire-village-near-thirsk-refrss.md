@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: North Yorkshire is full of places whose names are harder to say than
   they first appear. How you pronounce Asenby near Thirsk.
 image: https://www.thenorthernecho.co.uk/resources/images/21430354.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: GOOGLE)*

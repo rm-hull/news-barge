@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: The search for Joe narrows, but the fight isn't over. So, when does Lioness
   season 3 episode 7 arrive on Paramount+?
 image: https://cdn.mos.cms.futurecdn.net/rMd365DafrUh6Bt4RmLvZS-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Sports
 ---
 
 ![Joe walks along a hallway with a man behind her](https://cdn.mos.cms.futurecdn.net/rMd365DafrUh6Bt4RmLvZS.jpg) 

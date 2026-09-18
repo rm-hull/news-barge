@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Most economists are expecting gross domestic product (GDP) to have shown
   no growth in July.
 image: https://static.independent.co.uk/2021/09/23/08/23075803-69c6ba09-1850-43e1-a7b7-34e5e7b83d01.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 UK economic growth is set to have ground to a halt in July, as consumers swapped spending in shops for drinking in pubs amid the heatwaves and Fifa World Cup, economists think.

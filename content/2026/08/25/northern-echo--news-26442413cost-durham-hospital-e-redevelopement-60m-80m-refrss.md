@@ -9,6 +9,12 @@ published: '2026-08-25T00:00:00Z'
 description: Plans for a new emergency department at University Hospital of North
   Durham will have to start again after funding failed to materialise and the…
 image: https://www.thenorthernecho.co.uk/resources/images/21283246.jpg?type=og-image&xType=0&yType=193
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Plans for a much-needed extension Durham's A&E department are back at square one after a health boss admitted there was no funding in place to deliver them.

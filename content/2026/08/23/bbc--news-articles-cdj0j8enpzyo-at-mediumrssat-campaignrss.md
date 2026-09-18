@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Officers had been pursing a car before it went the wrong way down a dual
   carriageway.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e0e/live/11b179c0-9ebc-11f1-94b5-69fe6cc868f9.jpg
+categories:
+- UK
+- News & Politics
+- Automotive
 ---
 
 ![An overturned car is seen under a tarp, surrounded by police vehicles on a road.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/3e0e/live/11b179c0-9ebc-11f1-94b5-69fe6cc868f9.jpg)

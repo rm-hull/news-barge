@@ -9,6 +9,9 @@ description: The new Apple Watch includes several “intelligent” listening fe
   that have privacy and security baked in. But the protections can’t change the facts
   of what the tools do.
 image: https://media.wired.com/photos/6aa1b207ccc1bba18de2d004/191:100/w_1280,c_limit/GettyImages-2293832136.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 The new Apple Watch Series 12 and Ultra 4 come not just with better fitness tracking and upgraded noise reduction, but also a whole new way to listen.

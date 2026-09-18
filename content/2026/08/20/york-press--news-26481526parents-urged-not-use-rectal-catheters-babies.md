@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Parents have been urged not to use rectal catheters on their babies to
   help relieve gas and digestion issues
 image: https://www.yorkpress.co.uk/resources/images/21347421.jpg?type=og-image
+categories:
+- Local
+- York
+- Family & Parenting
+- Health & Fitness
 ---
 
 *(Image: Getty Images)*

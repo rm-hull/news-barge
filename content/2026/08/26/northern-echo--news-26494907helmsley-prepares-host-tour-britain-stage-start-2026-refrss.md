@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: Helmsley is set to host the start of the penultimate stage of the 2026
   Lloyds Tour of Britain, welcoming some of the world’s top cyclists and…
 image: https://www.thenorthernecho.co.uk/resources/images/21370918.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Travel
 ---
 
 A North Yorkshire town is preparing to welcome some of the world's top cyclists as a famous stage race returns, bringing national attention and a day of celebrations for residents and visitors alike.

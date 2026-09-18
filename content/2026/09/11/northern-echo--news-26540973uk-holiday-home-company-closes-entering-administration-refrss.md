@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: UK holiday home manufacturer Sunseeker Holiday Home has ceased trading
   after collapsing into administration, resulting in the loss of around 80 jobs.
 image: https://www.thenorthernecho.co.uk/resources/images/21437910.jpg?type=og-image&xType=0&yType=170
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

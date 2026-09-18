@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: It is the latest in a series of increasing warnings about the safety
   threat posed by artificial intelligence.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cace/live/40c59310-ac2a-11f1-9bd9-7b7da208bd5c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Science
 ---
 
 ![Claude logo on a smartphone](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/cace/live/40c59310-ac2a-11f1-9bd9-7b7da208bd5c.jpg)

@@ -9,6 +9,10 @@ description: Dom Bess delivers a first five-wicket haul of the season to hand Yo
   a crucial victory in their nail-biting County Championship relegation battle with
   Hampshire.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/329c/live/556dd430-9f05-11f1-8ab2-7700e58d1417.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![Yorkshire players mob stand-in skipper Dom Bess after a wicket](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/329c/live/556dd430-9f05-11f1-8ab2-7700e58d1417.jpg)

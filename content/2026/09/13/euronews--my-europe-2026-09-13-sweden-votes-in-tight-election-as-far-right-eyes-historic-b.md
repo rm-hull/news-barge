@@ -9,6 +9,11 @@ description: 'Swedish Prime Minister Ulf Kristersson and opposition leader Magda
   Andersson are battling for the premiership. Kristersson has said that, if he wins,
   the far right could join his government. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/15/26/1200x675_cmsv2_dcaca0a5-71ae-567c-93e1-d461f098b436-9911526.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
+- History
 ---
 
 ## Swedish Prime Minister Ulf Kristersson and opposition leader Magdalena Andersson are battling for the premiership. Kristersson has said that, if he wins, the far right could join his government.

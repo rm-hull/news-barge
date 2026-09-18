@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Residents are campaigning to restore Gawthorpe Water Tower amidst fears
   that the historic landmark will fall into ruin.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmU1MjAwYTgyLTY2ZWUtNGI3YS05NWNhLTRmNzE4NzNmNmRkMTpiOWJkMTMzZC0xODQxLTQ1MzktOWUwYS01NWY4Y2NiOTAxMDI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Gawthorpe Water Tower: The West Yorkshire community campaigning to save a beloved Grade II listed water tower

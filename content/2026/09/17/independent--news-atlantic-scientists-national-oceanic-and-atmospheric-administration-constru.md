@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Habitat restoration project manager Ellie Mason sees prime Atlantic salmon
   habitat on the Narraguagus River, but the fish are missing
 image: https://static.independent.co.uk/2026/09/17/18/Salmon_Habitat_Restoration_Maine_97744.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 On a recent canoe trip to the remote upper reaches of the Narraguagus River, Ellie Mason saw prime Atlantic salmon habitat everywhere.

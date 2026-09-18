@@ -7,6 +7,12 @@ scraped_at: '2026-09-03T12:48:48Z'
 published: '2026-09-03T00:00:00Z'
 description: A housebuilder has opened two new showhomes at a West Yorkshire development
 image: https://www.thetelegraphandargus.co.uk/resources/images/21401394.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Home, Garden & DIY
 ---
 
 *(Image: Mark Waugh)*

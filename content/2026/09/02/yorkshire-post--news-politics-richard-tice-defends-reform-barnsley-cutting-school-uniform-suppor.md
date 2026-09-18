@@ -10,6 +10,11 @@ description: Reform deputy leader Richard Tice has backed his party’s plans to
   back school uniform support in Barnsley, saying the councillors are “doing a great
   job”.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/07/27/16/v2-image-production-443480d7b8dda6efe7a16ebc638277e7Y29udGVudHNlYXJjaGFwaSwxNzY2NDQ2MDQ0-2.82816638.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Careers & Productivity
 ---
 
 # 'Great job': Richard Tice defends Reform Barnsley cutting school uniform support

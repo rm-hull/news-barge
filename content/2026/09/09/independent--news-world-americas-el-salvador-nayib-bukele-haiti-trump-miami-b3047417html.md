@@ -11,6 +11,10 @@ description: Temporary legal protections for about 200,000 immigrants from El Sa
   them, as it has done with hundreds of thousands from Venezuela, Haiti and other
   countries
 image: https://static.independent.co.uk/2026/09/09/16/Immigration_TPS_El_Salvador_62735.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Temporary legal protections for about 200,000 immigrants from El Salvador was in limbo Wednesday as a deadline neared for the Trump administration to decide if they should end, as it has done for hundreds of thousands from Venezuela, Haiti and other countries.

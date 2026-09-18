@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: The Coaching Inn Group recently hosted a celebratory dinner on August
   6 at The Talbot Hotel in Malton.
 image: https://www.gazetteherald.co.uk/resources/images/21381048.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 A hotel group has marked 30 years in business with a special anniversary event.

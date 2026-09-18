@@ -9,6 +9,10 @@ description: In 2023, thousands of migrants from West Africa arrived in Lockland
   Ohio, nearly doubling the town’s population so suddenly it seemed to some that it
   happened overnight
 image: https://static.independent.co.uk/2026/09/17/11/After_The_Border_Melting_Pot_26222.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 He keeps his American clothes in the closet: jeans, T-shirts, a hard hat for his job at a meatpacking plant.

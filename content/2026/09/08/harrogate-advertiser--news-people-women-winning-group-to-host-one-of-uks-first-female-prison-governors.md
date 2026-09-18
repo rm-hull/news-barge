@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: One of the UK’s first female prison governors is coming to Harrogate
   to lift the lid on “notorious criminals” in the latest Women Winning Group talk.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmRkYWNjODhlLWNjNTktNDNmOS04NTA1LTQ5N2M0NTI3MjIxNzpkNGYyZjNmYy0xZjQ4LTQwOWMtYmM4My0wYTIxN2JkM2EyMzU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Society & Culture
 ---
 
 # Women Winning Group to host one of UK’s first female prison governors who dealt with Yorkshire Ripper

@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Apple has admitted that some roles are being impacted as it shifts its
   focus away from certain initiatives.
 image: https://techcrunch.com/wp-content/uploads/2024/06/Apple-Vision-Pro-global-availability-e1718041644616.jpg?resize=1200,676
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Apple is chopping down the team behind the Vision Pro, its long-suffering VR headset, while eliminating positions across a number of other teams, Bloomberg reported.

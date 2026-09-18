@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: A Darlington beauty queen has raised more than £1,000 for charity in
   memory of the great grandad she tragically lost to a brain tumour.
 image: https://www.thenorthernecho.co.uk/resources/images/21463483.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A Darlington beauty queen has raised more than £1,000 for charity in memory of the great grandad she tragically lost to a brain tumour.

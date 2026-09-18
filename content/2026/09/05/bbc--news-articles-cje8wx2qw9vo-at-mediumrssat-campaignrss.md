@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: Middle East tensions have choked the production and transportation of
   oil, causing a surge in the price of car and jet fuels.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d0f0/live/38040b40-a882-11f1-824a-0fc4c5d895ae.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Richard Branson wearing a white t-shirt with the Team GB, Virgin Atlantic, and Paralympics GB logos in the right side of the chest with red lettering, an Adidas logo on the left side of the chest in red, and three red stripes on each arm. He is standing on the runway of Heathrow Airport. Behind him are a Virgin Atlantic plane and the terminal buildings in soft focus.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/d8db/live/9c5d25b0-a87b-11f1-824a-0fc4c5d895ae.jpg)

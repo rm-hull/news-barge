@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: McKenzie Ratcliffe’s parents have paid tribute to their “amazing young
   man” after the 18-year-old died in an electric motorcycle collision in…
 image: https://www.thenorthernecho.co.uk/resources/images/21372559.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 *(Image: Northumbria Police/Family Handout)*

@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The famous stately home has featured in several high-profile films including
   the 2005 superhero movie
 image: https://static.independent.co.uk/2026/08/24/16/1179964546..?trim=4,0,4,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 The custodians of the Grade I-listed Buckinghamshire mansion used as Wayne Manor in *Batman Begins* have responded to local authority demands for ecological checks, insisting their team is already on the case.

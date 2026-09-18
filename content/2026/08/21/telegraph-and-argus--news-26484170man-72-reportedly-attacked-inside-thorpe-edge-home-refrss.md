@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: Police are hunting "three or four people wearing dark clothing and carrying
   weapons" after a man was reportedly attacked in his Bradford…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21354171.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: T&A)*

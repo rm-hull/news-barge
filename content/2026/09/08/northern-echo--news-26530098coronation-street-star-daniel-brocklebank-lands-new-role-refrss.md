@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: 'Former Coronation Street star Daniel Brocklebank, who played vicar Billy
   Mayhew, has landed a new role in in The Hunger Games: On Stage.'
 image: https://www.thenorthernecho.co.uk/resources/images/21422755.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Lindsey Parnaby/PA)*

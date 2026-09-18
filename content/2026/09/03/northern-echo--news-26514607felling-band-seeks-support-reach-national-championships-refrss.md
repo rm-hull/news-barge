@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Felling Band, with more than 150 years of history, is calling on community
   support to help it reach the national stage.
 image: https://www.thenorthernecho.co.uk/resources/images/21400253.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 *(Image: Felling Band)*

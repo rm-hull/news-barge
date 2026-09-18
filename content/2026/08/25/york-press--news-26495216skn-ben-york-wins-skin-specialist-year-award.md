@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Award-winning skin therapies SKN by Ben is celebrating after being recognised
   for his contribution to the beauty industry.
 image: https://www.yorkpress.co.uk/resources/images/21371251.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## York skin therapist takes home prestigious award

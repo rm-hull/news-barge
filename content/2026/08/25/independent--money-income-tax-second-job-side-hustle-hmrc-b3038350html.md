@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Whether you’re making extra cash delivering takeaways, taxi-driving,
   creating content or anything else, you need to know the rules which apply
 image: https://static.independent.co.uk/2026/08/25/8/11/GettyImages-2282214195.jpeg?trim=0,42,0,42&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 With the elevated cost of living, more Brits than ever are finding ways to make money alongside their regular job.

@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: BBC Sport explores the ongoing dispute over scheduling issues and late-night
   finishes at tennis' Grand Slam events.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ef14/live/75725970-a524-11f1-960d-bf7772625996.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Sofia Kenin shakes hands with Venus Williams after winning their 2026 US Open first round match at Arthur Ashe Stadium in Flushing Meadows, New York City](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ef14/live/75725970-a524-11f1-960d-bf7772625996.jpg)

@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: A fundraiser supporting one of County Durham’s best-loved annual community
   events has been cancelled after organisers said ticket sales were lower…
 image: https://www.thenorthernecho.co.uk/resources/images/21465828.jpg?type=og-image&xType=0&yType=79
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Stuart Boulton)*

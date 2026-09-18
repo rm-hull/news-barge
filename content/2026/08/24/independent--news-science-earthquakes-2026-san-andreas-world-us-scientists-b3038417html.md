@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Colombia, Venezuela, Japan, Indonesia, Spain and Mexico have all seen
   large quakes this summer. But experts tell Julia Musto it’s all normal
 image: https://static.independent.co.uk/2026/08/19/20/35/GettyImages-2289687525.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- History
 ---
 
 Major earthquakes have caused devastation around the world this summer.

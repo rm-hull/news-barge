@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: Apple Maps is following President Trump's executive order to change the
   name of Lake Ontario to Lake America.
 image: https://techcrunch.com/wp-content/uploads/2026/09/apple-maps-lake-america.png?w=1108
+categories:
+- News & Politics
+- Technology & Software
 ---
 
 Apple has followed Google’s lead and officially changed the name of Lake Ontario to “Lake America” on its Apple Maps service less than a week after President Trump ordered the change.

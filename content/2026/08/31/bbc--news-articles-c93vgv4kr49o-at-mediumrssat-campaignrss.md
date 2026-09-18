@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Jurors have five options before them as they decide the fate of the former
   nurse charged with killing her three children.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c17/live/80180ab0-a4d3-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Lindsay Clancy in court](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/5c17/live/80180ab0-a4d3-11f1-b109-879e35c24276.jpg)

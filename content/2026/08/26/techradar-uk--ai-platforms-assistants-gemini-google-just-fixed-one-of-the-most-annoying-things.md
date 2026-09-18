@@ -8,6 +8,8 @@ scraped_at: '2026-08-26T23:23:30Z'
 published: '2026-08-26T00:00:00Z'
 description: Google just made Gemini Live feel much more human
 image: https://cdn.mos.cms.futurecdn.net/G3W8mLEazK3AC7jfPY2ZG4-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Google Gemini mobile icon app on a screen closeup smartphone iPhone closeup.](https://cdn.mos.cms.futurecdn.net/G3W8mLEazK3AC7jfPY2ZG4.jpg) 

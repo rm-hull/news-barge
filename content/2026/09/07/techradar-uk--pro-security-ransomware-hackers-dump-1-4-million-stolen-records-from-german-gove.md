@@ -7,6 +7,9 @@ scraped_at: '2026-09-07T14:14:38Z'
 published: '2026-09-07T00:00:00Z'
 description: Incident descrbed as an "extremely serious crime"
 image: https://cdn.mos.cms.futurecdn.net/3HY9z6jmzyHFPZFAtvox2a-2000-80.jpg
+categories:
+- Technology & Software
+- True Crime
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/3HY9z6jmzyHFPZFAtvox2a.jpg) 

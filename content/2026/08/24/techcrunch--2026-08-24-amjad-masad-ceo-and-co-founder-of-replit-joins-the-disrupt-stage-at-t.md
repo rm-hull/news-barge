@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective
   on the future of programming and Replit's role in developing it.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Amjad-Masad-Disrupt-Stage-2026.png?w=1200
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The AI boom has made it possible for a significantly wider range of people to dip into development, create code, and launch software for the first time. There are pros and cons to this, even for established developers who are being pushed to use it to produce work faster.

@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: HHS releases report linking ‘gender ideology’ to political violence –
   a study scientists say was poorly conducted
 image: https://i.guim.co.uk/img/media/8c1c9ca7ca569f9a6ba784a572e575753891e8c3/458_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=968c202a5a9c8d6757c8907b3a3624c5
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The US Department of Health and Human Services (HHS) recently released a report linking “gender ideology” to leftwing authoritarianism and political violence – a study scientists say was poorly conducted and “nakedly political”, likely leading to greater politicization of science and health.

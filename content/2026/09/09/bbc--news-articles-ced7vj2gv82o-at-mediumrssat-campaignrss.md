@@ -9,6 +9,10 @@ description: Declassified documents show Spanish and Moroccan authorities were a
   to social media calls for a mass migrant crossing the day before tens of thousands
   entered Ceuta.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13d6/live/5b9af280-ac92-11f1-ab14-5b9069dc795d.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Migrants queue for a Red Cross food distribution at Trampolin beach, following recent mass crossings of migrants from Morocco to Ceuta.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/13d6/live/5b9af280-ac92-11f1-ab14-5b9069dc795d.jpg)

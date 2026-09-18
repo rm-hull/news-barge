@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Younger generations are thought to be more susceptible to impulse spending.
   The BBC looks at ways to get it under control.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3444/live/d1483030-8ff3-11f1-a10e-47119dd4425c.jpg
+categories:
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 ![Ella Hewitt stands in a street](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/3444/live/d1483030-8ff3-11f1-a10e-47119dd4425c.jpg)

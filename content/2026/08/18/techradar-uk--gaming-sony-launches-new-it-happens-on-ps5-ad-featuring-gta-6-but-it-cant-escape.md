@@ -10,6 +10,9 @@ description: Fans still angry with Sony's plan to end physical disc production h
   brigaded another video comment section, this time a PS5 ad featuring Grand Theft
   Auto 6.
 image: https://cdn.mos.cms.futurecdn.net/ScNA7GtpLy8tqFJYau6JCL-2560-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ![GTA 6 still from the 'It Happens On PS5' ad](https://cdn.mos.cms.futurecdn.net/ScNA7GtpLy8tqFJYau6JCL.jpg) 

@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Nature, art, and ancient sites are set to inspire a season of reflection
   and relaxation.
 image: https://www.gazetteherald.co.uk/resources/images/21329513.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: Pretty Gritty)*

@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: Anti-social behaviour in a public cemetery has led to the council locking
   a gate to restrict access.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21356821.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Newsquest)*

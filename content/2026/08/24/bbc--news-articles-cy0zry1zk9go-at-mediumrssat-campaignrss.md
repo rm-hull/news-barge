@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Bradley Townsend left South Yorkshire in April, telling his family he
   was going to Romania.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8d45/live/19d00870-9fbf-11f1-8648-8d7b77845e6d.png
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![A young man looks at the camera. He has relatively short, dark hair and is wearing a dark polo shirt.](https://ichef.bbci.co.uk/ace/standard/681/cpsprodpb/8d45/live/19d00870-9fbf-11f1-8648-8d7b77845e6d.png)

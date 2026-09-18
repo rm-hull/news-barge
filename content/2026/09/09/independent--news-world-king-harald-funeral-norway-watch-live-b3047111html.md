@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The Prince of Wales will attend the funeral of King Harald V of Norway
   on Wednesday in Oslo
 image: https://static.independent.co.uk/2026/09/09/09/2293735077..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Watch live as King Harald V of Norway is laid to rest on Wednesday in a series of ceremonies marking the culmination of 13 days of national mourning, following his death at the age of 89.

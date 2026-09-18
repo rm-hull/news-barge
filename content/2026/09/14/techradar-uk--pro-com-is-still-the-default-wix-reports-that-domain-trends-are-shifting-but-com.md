@@ -9,6 +9,9 @@ published: '2026-09-14T00:00:00Z'
 description: I spoke to Inbal Geva at Wix Domains to discuss domain trends and opportunities
   in 2026
 image: https://cdn.mos.cms.futurecdn.net/gEuZ8EbW57VbSsQ5ikNBiE-1920-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Headshot of Inbal Geva product lead at wix domains on a purple background](https://cdn.mos.cms.futurecdn.net/gEuZ8EbW57VbSsQ5ikNBiE.png) 

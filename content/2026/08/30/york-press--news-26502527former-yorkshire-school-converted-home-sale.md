@@ -8,6 +8,10 @@ scraped_at: '2026-08-30T05:15:59Z'
 published: '2026-08-30T00:00:00Z'
 description: A former school converted into a home has hit the market in Tockwith.
 image: https://www.yorkpress.co.uk/resources/images/21382045.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 ## Former school converted into home hits the market in Yorkshire village – look inside

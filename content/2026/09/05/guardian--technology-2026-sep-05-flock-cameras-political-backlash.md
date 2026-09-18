@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Politicians on the right and left are pushing back against Flock as more
   Americans voice opposition to the tech
 image: https://i.guim.co.uk/img/media/e4d1851cb1d29f8deb1840d7271a1a9965ac6d0d/272_0_2999_2399/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26728fe351cf95c13c3368a4a9f5c21e
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Growing factions from both sides of the political aisle in the US are pushing back against surveillance cameras made by a single company, a rare response in a sharply divided country with a president pushing an unwaveringly pro-tech agenda.

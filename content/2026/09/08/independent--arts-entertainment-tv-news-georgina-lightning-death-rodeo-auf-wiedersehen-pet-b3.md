@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: Auf Wiedersehen, Pet actor Tim Healy described the actor as a ‘lovely
   lady and a joy to work with’
 image: https://static.the-independent.com/2026/09/08/13/49/georgina-lightning.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 Tributes have been paid to actor and filmmaker Georgina Lightning, who has been remembered as a "role model" following her death at the age of 63.

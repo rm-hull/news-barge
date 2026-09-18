@@ -7,6 +7,11 @@ scraped_at: '2026-09-06T04:28:14Z'
 published: '2026-09-06T00:00:00Z'
 description: Treetops Farm in Stutton, near Tadcaster, is for sale – for £1.25 million.
 image: https://www.yorkpress.co.uk/resources/images/21412089.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## Look around North Yorkshire farm as it hits the market – for £1.25 million

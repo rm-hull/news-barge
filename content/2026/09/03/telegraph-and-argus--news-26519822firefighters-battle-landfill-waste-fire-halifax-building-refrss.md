@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Firefighters tackled a huge landfill-waste fire inside a building last
   night.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21407578.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 *(Image: Pixabay)*

@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: The annual Pyromusical returns this Halloween, promising thousands of
   fireworks choreographed to music and a few seasonal surprises.
 image: https://www.thenorthernecho.co.uk/resources/images/20022624.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- Music
 ---
 
 A spectacular firework display will light up the sky in Bishop Auckland this Halloween.

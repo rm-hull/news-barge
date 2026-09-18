@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Two Audi convertible cars and a motorbike with a L plate have been involved
   in a road rage incident close to the Bishopthorpe Road Nunnery Lane…
 image: https://www.yorkpress.co.uk/resources/images/21358657.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
+- Travel
 ---
 
 *(Image: Google Street View)*

@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: A new pre-school for children aged three and four has officially opened
   in Harrogate.
 image: https://mmo.aiircdn.com/409/6aa3a4ae8ee8dfbc26d.jpg
+categories:
+- Local
+- Harrogate
+- Family & Parenting
+- Society & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa3a4ae8ee8dfbc26d.jpg) 

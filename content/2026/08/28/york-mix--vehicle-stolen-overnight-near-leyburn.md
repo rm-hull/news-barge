@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T11:17:06Z'
 published: '2026-08-28T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/788952224_37965074709805723_3276055162486565932_n.png.jpeg
+categories:
+- Local
+- York
+- Automotive
 ---
 
 Police are asking for help in tracing the vehicle pictured here.

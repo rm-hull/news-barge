@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Future series will no longer be broadcast on BBC Three as the show moves
   to a streaming platform owned by its production company.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/716f/live/1b5de710-ac86-11f1-ab14-5b9069dc795d.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Technology & Software
 ---
 
 ![Michelle Visage, Graham Norton, Ru Paul and Alan Carr on the main stage of Ru Paul's Drag Race UK. Michelle is wearing a latext dress, graham a golden blazer, and ru is wearing a pink and red dress with red furry boots. Alan is wearing a pink shirt and a leopard print blazer, stage lights illuminate the background and everyone is smiling at the camera for a promotional image.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/716f/live/1b5de710-ac86-11f1-ab14-5b9069dc795d.jpg)

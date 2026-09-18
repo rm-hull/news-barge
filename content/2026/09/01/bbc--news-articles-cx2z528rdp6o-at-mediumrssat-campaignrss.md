@@ -9,6 +9,9 @@ description: Tory leader Kemi Badenoch said Burnham was offering "more governmen
   control, more taxes and more politicians", as he addressed MPs for the first time
   as PM.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31e9/live/bc2c3960-a652-11f1-aed2-8d6da8d75094.png
+categories:
+- UK
+- News & Politics
 ---
 
 Watch: Key moments from Burnham's first Commons speech as PM

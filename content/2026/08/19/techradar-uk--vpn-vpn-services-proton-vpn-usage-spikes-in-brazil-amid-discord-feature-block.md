@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: Gamers and online communities are turning to circumvention tools to bypass
   a targeted regulatory restriction on the popular chat app's video features
 image: https://cdn.mos.cms.futurecdn.net/Qbby4dAqk9puJfzptL2i7k-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A phone showing the Discord app and logo](https://cdn.mos.cms.futurecdn.net/Qbby4dAqk9puJfzptL2i7k.jpg) 

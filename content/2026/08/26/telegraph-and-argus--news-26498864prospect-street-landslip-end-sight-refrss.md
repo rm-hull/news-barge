@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Three years on, frustrated residents want to see an end in sight to problems
   posed by a landslide which has closed a Halifax road since.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21376451.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 Three years on, frustrated residents want to see an end in sight to problems posed by a landslide which has closed a Halifax road since.

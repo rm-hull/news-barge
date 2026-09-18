@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Plans to create a new indoor padel and pickleball centre in Peterlee
   will be discussed by a Durham County Council planning committee on Tuesday.
 image: https://www.thenorthernecho.co.uk/resources/images/21423423.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: GOOGLE)*

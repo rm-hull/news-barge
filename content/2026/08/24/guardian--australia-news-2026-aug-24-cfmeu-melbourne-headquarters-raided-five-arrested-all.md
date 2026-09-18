@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Police arrest five men and search six properties including the union’s
   Victorian headquarters
 image: https://i.guim.co.uk/img/media/1d559bffca2a201b97445bacb67a8732d9e797e6/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d24bef77e0c726b442abf5026fa904f6
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Two men have been charged and Victorian police have seized drugs, guns and cars linked to the Construction, Forestry and Maritime Employees Union (CFMEU) as part of an investigation into alleged corruption in the building industry.

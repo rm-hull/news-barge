@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T13:23:25Z'
 published: '2026-09-17T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/10/20mph-sign-istock.webp
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 Concerns about speeding in a residential York street have prompted plans to tackle the issue.

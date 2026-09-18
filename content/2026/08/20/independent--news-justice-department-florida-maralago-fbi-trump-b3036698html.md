@@ -10,6 +10,11 @@ description: Investigators are seeking to interview law enforcement officials in
   with the FBI search of Donald Trump’s Mar-a-Lago estate as part of a Florida-based
   inquiry aiming to establish a conspiracy against the Republican president
 image: https://static.independent.co.uk/2026/08/20/21/Trump_26838.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Society & Culture
 ---
 
 Justice Department investigators have sought to interview law enforcement officials related to the FBI search of Donald Trump's Mar-a-Lago estate as part of a Florida-based inquiry aiming to establish a conspiracy against the Republican president, multiple people familiar with the matter said Thursday.

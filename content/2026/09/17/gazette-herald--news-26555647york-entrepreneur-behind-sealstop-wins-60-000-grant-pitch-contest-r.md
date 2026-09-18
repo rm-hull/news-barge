@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Belle Richardson, founder of York-based SealStop, has secured a £60,000
   grant through the Great Ideas programme, part of Mayor David Skaith’s…
 image: https://www.gazetteherald.co.uk/resources/images/21463627.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

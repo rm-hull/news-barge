@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The former England forward Raheem Sterling has been charged after a crash
   involving a Lamborghini on the motorway, police have said
 image: https://i.guim.co.uk/img/media/63a4a3308783145a775870d086411de236bf13c9/2439_377_2883_2306/master/2883.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a59c4a36c65bf3df9a774d4b3519df32
+categories:
+- UK
+- News & Politics
+- Automotive
 ---
 
 The former England forward Raheem Sterling has been charged with dangerous driving and possession of nitrous oxide after a crash involving a Lamborghini on the motorway, police have said.

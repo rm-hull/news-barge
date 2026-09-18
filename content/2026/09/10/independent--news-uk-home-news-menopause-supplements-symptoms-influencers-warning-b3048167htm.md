@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: It comes amid a growing ‘menopause gold rush’ in the supplement industry,
   researchers said
 image: https://static.independent.co.uk/2026/06/18/14/18124405-27f972ad-4795-49f1-b8a0-bd2a21bb0c40.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A study has revealed that certain supplements marketed to ease menopause symptoms omit key nutrients and feature a "huge variation" in vitamin and mineral doses which could trigger side-effects if consumed long-term.

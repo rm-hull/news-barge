@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: How an alliance of tech startups, MAHA operatives, and actual medical
   experts made millennial women the new face of hormone therapy.
 image: https://media.wired.com/photos/6a918d74cd8b286be7911d2a/191:100/w_1280,c_limit/Perimenopause-main-web-2400x2000.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 *Content warning: This story includes references to suicidal ideation.*

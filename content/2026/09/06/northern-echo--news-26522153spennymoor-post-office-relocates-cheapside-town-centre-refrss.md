@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Spennymoor Post Office has relocated to Cheapside in the former Lloyds
   Bank building.
 image: https://www.thenorthernecho.co.uk/resources/images/21410787.jpg?type=og-image&xType=0&yType=243
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 A post office has relocated to a new town centre location to improve access and support regeneration plans.

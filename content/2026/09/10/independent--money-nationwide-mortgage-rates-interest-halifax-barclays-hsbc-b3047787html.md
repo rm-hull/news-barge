@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Those needing renewed deals are being told not to wait to arrange a new
   fix
 image: https://static.independent.co.uk/2026/05/21/09/21093706-cf60a21e-af28-4100-b130-b8b15d0bce1e.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Homeowners are being warned not to delay renewing a mortgage deal after Nationwide Building Society become the latest major lender in the UK to lift rates.

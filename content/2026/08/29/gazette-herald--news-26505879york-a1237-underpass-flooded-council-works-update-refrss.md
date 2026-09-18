@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Walkers, cyclists and others using a York underpass have had to traverse
   a large pool of stagnant water, with works to planned to address it.
 image: https://www.gazetteherald.co.uk/resources/images/21386959.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 WALKERS, cyclists and others using a York underpass have had to traverse a large pool of stagnant water, with works to planned to address it.

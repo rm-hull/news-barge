@@ -9,6 +9,12 @@ published: '2026-08-25T00:00:00Z'
 description: A purple Lamborghini and two BMWs were seized for the 'epitome of anti-social
   vehicle use'.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21368140.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Automotive
 ---
 
 *(Image: WYP)*

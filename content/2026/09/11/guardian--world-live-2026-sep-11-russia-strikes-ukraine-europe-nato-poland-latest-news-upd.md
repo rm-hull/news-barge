@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: Ulf Kristersson’s comments come ahead of the parliamentary election taking
   place this Sunday
 image: https://i.guim.co.uk/img/media/a67ffb5e87c0dafdab01f4d7889b50154a541bb6/504_0_4796_3838/master/4796.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a0c52af2ba1c64aa59c2b3a86dced2d7
+categories:
+- UK
+- News & Politics
 ---
 
 Sweden's PM channels Trump as he wants to 'make Sweden great again'

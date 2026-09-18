@@ -9,6 +9,8 @@ published: '2026-09-01T00:00:00Z'
 description: JioHotstar will only have entertainment content when it launches in the
   UK, Canada, and Singapore.
 image: https://techcrunch.com/wp-content/uploads/2026/09/JioHotstar-Brand-Identity-Horizontal-1.jpeg?resize=1200,675
+categories:
+- Technology & Software
 ---
 
 JioHotstar, the streaming platform controlled by Indian conglomerate Reliance Industries, is taking its brand outside India for the first time and will replace Hotstar in the U.K., Canada, and Singapore as it begins a wider global push.

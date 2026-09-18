@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Prosecutors argue Tate and his brother Tristan are a flight risk and
   should not be released on bail.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2ed0/live/f97fedf0-a073-11f1-958e-e3912aa2af08.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Andrew Tate speaking to the media in March 2025. He gestures with his hand and speaks while several microphones are pointed towards him.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2ed0/live/f97fedf0-a073-11f1-958e-e3912aa2af08.jpg)

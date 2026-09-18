@@ -9,6 +9,8 @@ scraped_at: '2026-09-09T04:32:29Z'
 published: '2026-09-09T00:00:00Z'
 description: An Xbox Series drone killer?
 image: https://cdn.mos.cms.futurecdn.net/vqC2P3Yd6xwVstjW8G9DQb-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Russian Garpia-A1E loitering munition](https://cdn.mos.cms.futurecdn.net/vqC2P3Yd6xwVstjW8G9DQb.jpg) 

@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T13:24:30Z'
 published: '2026-09-17T00:00:00Z'
 description: A NEW police station has officially opened its doors
 image: https://www.thetelegraphandargus.co.uk/resources/images/21467950.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: West Yorkshire Police)*

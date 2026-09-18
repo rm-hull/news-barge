@@ -8,6 +8,9 @@ scraped_at: '2026-08-28T11:16:53Z'
 published: '2026-08-28T00:00:00Z'
 description: Heavy Android apps have some work to do.
 image: https://cdn.mos.cms.futurecdn.net/wURzf9nJgxbUidK2zg7ajX-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Android smartphone](https://cdn.mos.cms.futurecdn.net/wURzf9nJgxbUidK2zg7ajX.jpg) 

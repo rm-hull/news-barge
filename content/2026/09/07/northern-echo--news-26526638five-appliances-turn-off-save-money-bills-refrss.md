@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: With energy bills rising in October, an expert has revealed a few of
   the appliances you can turn off to save some extra money.
 image: https://www.thenorthernecho.co.uk/resources/images/21416616.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Energy bills are set to rise again from October with the energy price cap increasing by 4%.

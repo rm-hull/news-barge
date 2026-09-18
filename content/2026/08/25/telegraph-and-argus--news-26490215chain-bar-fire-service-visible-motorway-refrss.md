@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Emergency services were called to Chain Bar roundabout at 10.09am this
   morning (August 24) following reports of a road traffic collision.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20364753.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Telegraph & Argus)*

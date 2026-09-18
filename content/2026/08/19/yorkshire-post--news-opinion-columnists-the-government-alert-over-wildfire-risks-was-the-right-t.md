@@ -11,6 +11,11 @@ description: It would be churlish not to comment positively (don’t fall off yo
   do to send out the mobile phone emergency message warning about the extremely high
   risk of wildfires nationally.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE0MmQ0NTMzLWRiNjItNGRkYi05NDg5LTdiNGM0MTRmZTdkMzowNTNhMzE2MC0xYzlkLTRjMGUtOTBhOS00MjgzNzk1Yjg1M2E=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # The Government alert over wildfire risks was the right thing to do - Sarah Todd

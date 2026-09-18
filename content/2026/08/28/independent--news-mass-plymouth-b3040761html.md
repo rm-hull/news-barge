@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Jurors in the Lindsay Clancy trial are set to resume determining whether
   she was responsible for her actions when she killed her three children in 2023
 image: https://static.independent.co.uk/2026/08/28/05/Lindsay_Clancy_Trial_62928.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Jurors in the Lindsay Clancy trial were set Friday to resume determining whether she was responsible for her actions when she killed her three children in 2023.

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Two Little Bird Made artisan markets will take place this weekend in
   Easingwold and Acomb.
 image: https://www.yorkpress.co.uk/resources/images/21419819.jpg?type=og-image&xType=0&yType=194
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Little Bird Artisan Markets)*

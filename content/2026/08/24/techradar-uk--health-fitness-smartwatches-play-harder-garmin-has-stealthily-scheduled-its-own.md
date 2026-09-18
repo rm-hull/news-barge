@@ -9,6 +9,8 @@ published: '2026-08-24T00:00:00Z'
 description: Garmin's 'Play Harder' event is likely the debut of the industry's worst-kept
   secret smartwatch — the Fenix 9.
 image: https://cdn.mos.cms.futurecdn.net/ixR8S2rN5WBkhaAeW3hyiY-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Garmin Fenix 8](https://cdn.mos.cms.futurecdn.net/ixR8S2rN5WBkhaAeW3hyiY.jpg) 

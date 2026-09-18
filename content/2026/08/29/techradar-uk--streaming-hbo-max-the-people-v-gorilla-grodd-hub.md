@@ -9,6 +9,9 @@ published: '2026-08-29T00:00:00Z'
 description: Here's everything we know so far about the DCU's crime mockumentary series
   The People v Gorilla Grodd.
 image: https://cdn.mos.cms.futurecdn.net/kMhY77mSogaASd6FFy4wgK-1280-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Jimmy Olsen sitting at his Daily Planet desk and holding a newspaper in 2025's Superman movie](https://cdn.mos.cms.futurecdn.net/kMhY77mSogaASd6FFy4wgK.jpg) 

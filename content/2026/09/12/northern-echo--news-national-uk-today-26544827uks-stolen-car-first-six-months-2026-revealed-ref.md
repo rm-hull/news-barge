@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Data from the DVLA for the first six months of 2026 has revealed which
   is the most stolen individual car
 image: https://www.thenorthernecho.co.uk/resources/images/21444996.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: Getty Images)*

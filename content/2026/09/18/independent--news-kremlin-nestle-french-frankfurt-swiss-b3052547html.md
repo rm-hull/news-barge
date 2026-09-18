@@ -10,6 +10,10 @@ description: The Kremlin ordered the Russian businesses of Swiss-based food and 
   a procedure that previously has led to the sale of Western businesses at knockdown
   prices
 image: https://static.independent.co.uk/2026/09/18/14/Russia_Business_85776.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The Kremlin has ordered the Russian businesses of Swiss-based food and beverage company Nestle and French retailer Auchan placed in temporary administration, procedure that previously has led to the forced sale of Western businesses to Russian owners at knockdown prices.

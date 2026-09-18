@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The latest escalation in an ongoing trade war between the US and Canada
   will see new levies on goods from steel to furniture, fresh tuna and makeup.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e708/live/0a3afb60-a0ad-11f1-a54e-272d756c341e.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![A Canadian flag visible on the ArcelorMittal Dofasco steel plant in Hamilton.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/e708/live/0a3afb60-a0ad-11f1-a54e-272d756c341e.jpg)

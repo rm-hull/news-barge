@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Video. Nearly 3,000 American flags fill Pepperdine University's Malibu
   campus as visitors gather to remember the victims of the September 11 attacks.
 image: https://images.euronews.com/articles/stories/09/90/96/36/1200x675_cmsv2_585101ab-e6c6-52c6-bf51-bc48fa49a0ad-9909636.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 Nearly 3,000 American flags cover the lawn at Pepperdine University in Malibu, California, for the annual “Wave of Flags” commemoration of the September 11 attacks.

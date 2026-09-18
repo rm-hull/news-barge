@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: THIS year is the 150th anniversary of the opening to passenger traffic
   of the Settle-Carlisle Railway.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21435717.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 THIS year is the 150th anniversary of the opening to passenger traffic of the Settle-Carlisle Railway.

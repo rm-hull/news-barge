@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: Adriana Turk, 74, believed she was the last person left alive in her
   family before a DNA test reunited her with dozens of family members across the world
 image: https://static.independent.co.uk/2026/08/21/9/58/Reunion-15-(1)-8.jpg?trim=109,326,100,391&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Arts & Culture
 ---
 
 When Adriana Turk’s brother died last year, she thought she was left alone in the world, as she thought the rest of her family had been killed in the Holocaust.

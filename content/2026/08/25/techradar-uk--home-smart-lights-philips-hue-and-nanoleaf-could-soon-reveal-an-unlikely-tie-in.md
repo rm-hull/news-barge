@@ -9,6 +9,8 @@ published: '2026-08-25T00:00:00Z'
 description: A new Philips Hue module could let you connect your Nanoleaf lights to
   the Hue app.
 image: https://cdn.mos.cms.futurecdn.net/fNGUC26G9jWfHQrDpHqu2b-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The philips hue app next to nanoleaf shapes](https://cdn.mos.cms.futurecdn.net/fNGUC26G9jWfHQrDpHqu2b.jpg) 

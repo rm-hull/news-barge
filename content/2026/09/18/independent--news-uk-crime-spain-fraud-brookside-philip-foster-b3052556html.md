@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Philip Foster will be extradited to the UK to serve his eight-and-a-half-year
   sentence
 image: https://static.independent.co.uk/2025/02/28/19/3326de18ac85ab449d38891cd331af3eY29udGVudHNlYXJjaGFwaSwxNzQwODU2MjEx-2.79221304.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A former *Brookside* actor has been arrested in Spain after being convicted of a £13.6 million fraud.

@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A 77-year-old man has died after suffering life-threatening injuries
   when he was hit by a car in an Aldi car park in Brighouse.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/19/9/46/david-bush-memorial-photo.jpeg?trim=42,0,186,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # 'Much-loved' grandfather dies after being hit by car in Aldi car park

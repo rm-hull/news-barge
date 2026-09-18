@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: A history book chronicling Sherburn's doctors over 199 years, titled
   Sherburn – A History of Village Doctors, will be released next month.
 image: https://www.yorkpress.co.uk/resources/images/21399745.jpg?type=og-image&xType=0&yType=94
+categories:
+- Local
+- York
+- History
 ---
 
 *(Image: Supplied)*

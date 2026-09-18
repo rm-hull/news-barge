@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Zou kept a trophy box of women’s belongings and filmed nine of the rapes
   on women as they lost consciousness
 image: https://static.independent.co.uk/2025/06/19/02/9deac63f9b3b82a7f0856d2c45407e03Y29udGVudHNlYXJjaGFwaSwxNzQ5NjMyNjQ3-2.79283874.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Detectives investigating convicted rapist Zhenhao Zou, who drugged and raped 10 women in London and China, say they have uncovered evidence linking him to more alleged offences.

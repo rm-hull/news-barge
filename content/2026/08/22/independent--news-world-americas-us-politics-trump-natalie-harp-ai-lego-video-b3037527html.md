@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: In the latest artificial intelligence-generated Lego parody, Harp follows
   Trump closely, carrying a printer to keep up a steady stream of positive news
 image: https://static.independent.co.uk/2026/08/22/13/16/AI-LEGO-Donald-Trump-Natalie-Harp.png?trim=69,138,19,148&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Amid widespread speculation about President Donald Trump’s close relationship with White House aide Natalie Harp, the pair are featured in a new AI-generated Lego-themed video poking fun at the 35-year-old staffer’s devotion.

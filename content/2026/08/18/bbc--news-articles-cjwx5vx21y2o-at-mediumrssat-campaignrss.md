@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: The change, which has been welcomed by campaign groups, will come into
   effect in England from April.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c3bf/live/f373b690-9a64-11f1-b792-a710e56a11dc.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A person in a motorised wheelchair wearing an orange jacket and a white hat boards a bus in London using a wheelchair ramp in October 2025](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/c3bf/live/f373b690-9a64-11f1-b792-a710e56a11dc.jpg)

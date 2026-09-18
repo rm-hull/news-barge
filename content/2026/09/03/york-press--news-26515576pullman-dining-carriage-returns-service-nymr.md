@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: A historic dining carriage has returned to service after a decade-long
   restoration.
 image: https://www.yorkpress.co.uk/resources/images/21401412.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 ## Historic Pullman dining carriage returns after decade-long restoration

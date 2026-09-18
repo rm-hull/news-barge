@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Reform UK Kirklees has been called out by Conservative councillors after
   endorsing Westminster’s Accelerator Programme.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21379678.jpg?type=og-image&xType=0&yType=281
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: LDR)*

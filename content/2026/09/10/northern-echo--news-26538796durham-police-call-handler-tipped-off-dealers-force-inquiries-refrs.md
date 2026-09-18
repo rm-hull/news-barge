@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A police call handler with a drug addiction kept his dealers “onside”
   by passing on confidential information about police inquiries into their…
 image: https://www.thenorthernecho.co.uk/resources/images/21434988.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 A police call handler with a drug addiction kept his dealers “onside” by passing on confidential information.

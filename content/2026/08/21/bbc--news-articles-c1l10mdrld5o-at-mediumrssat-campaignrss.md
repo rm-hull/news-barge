@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Three activists were accused of inciting others to subvert state power
   under the China-introduced law.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d436/live/0a8eae40-9d0b-11f1-8a23-b9fc4847a391.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Chow Hang-tung](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/d436/live/0a8eae40-9d0b-11f1-8a23-b9fc4847a391.jpg)

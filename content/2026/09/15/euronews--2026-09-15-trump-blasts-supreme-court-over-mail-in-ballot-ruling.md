@@ -9,6 +9,9 @@ description: Trump had sought to limit mail-in voting ahead of November's key mi
   elections, which will determine the makeup of Congress for his final two years in
   office.
 image: https://images.euronews.com/articles/stories/09/91/46/06/1200x675_cmsv2_ebe1b6d2-0513-551e-a3af-61fce6ee2697-9914606.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Trump had sought to limit mail-in voting ahead of November's key midterm elections, which will determine the makeup of Congress for his final two years in office.

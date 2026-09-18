@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: Stacy Hunter was killed by her estranged husband weeks after he was released
   on bail - her family wish the authorities had intervened further.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ddf5/live/43673220-a178-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A woman and man pictured on top of a hill, taking a selfie. The woman has long brown braided hair, the man has short fair hair, a beard and glasses](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/2486/live/beffe710-a155-11f1-92f3-2381193e5eb4.jpg)

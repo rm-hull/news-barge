@@ -7,6 +7,11 @@ scraped_at: '2026-09-07T14:14:19Z'
 published: '2026-09-07T00:00:00Z'
 description: Detectives investigating a ram raid at a jewellers have made an arrest.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjg1N2U2NDBkLTIzZTktNDM3YS04ZmEwLWI1NzIxMDliNWU2MTo0MjkwMmEzYy0yNDY1LTRjMDEtYWQzZi04MmMyMTk0ZDdjNWE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Customer injured during ram raid on jewellers in Yorkshire

@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Trees found to emit more of potentially toxic rubber compound as city
   temperatures rise
 image: https://static.independent.co.uk/2026/08/20/5/41/High-isoprene-levels-found-in-Beijing-attributable-to-the-tree-species-present.jpeg?trim=70,0,382,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Some trees emit potentially toxic vapours that could increase urban ozone pollution, according to a new study that could change the way green spaces are designed in cities.

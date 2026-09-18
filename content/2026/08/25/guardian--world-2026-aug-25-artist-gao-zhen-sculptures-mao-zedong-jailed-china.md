@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Gao Zhen sentenced to three years in prison after already spending two
   years in detention
 image: https://i.guim.co.uk/img/media/b1bbc5caec0cd2ecd899cbf9294b8ca6672df039/0_215_2006_1604/master/2006.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cf5435eec1a6381304e2be6f2d529f4a
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Gao Zhen, a prominent Chinese artist known for provocative sculptures of the former leader Mao Zedong, has been sentenced to three years in prison after being found guilty of slandering China’s “heroes and martyrs”. The sentencing came two years after he was detained while visiting the country with his family, according to his wife and human rights groups.

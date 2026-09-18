@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Andy Burnham said AI posed risks to national security but could also
   offer solutions to keeping the country safer.
 image: https://static.independent.co.uk/2026/09/08/15/090aa3c4b03cf8e4b5b7a748caf97682Y29udGVudHNlYXJjaGFwaSwxNzg4OTYwODQy-2.85735890.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Andy Burnham has recognised "risks to national security" posed by artificial intelligence, as a prominent safety researcher at Anthropic suggested the technology could destroy humanity over the coming decade.

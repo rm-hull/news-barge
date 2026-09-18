@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: Two violent thugs who were involved in a brutal knife attack were captured
   on CCTV confronting their victim outside a Middlesbrough shop.
 image: https://www.thenorthernecho.co.uk/resources/images/21412060.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- Sports
 ---
 
 Two violent thugs who were involved in a brutal knife attack were captured on CCTV confronting their victim outside a shop.

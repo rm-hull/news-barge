@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Why Nevil Shute should not be linked to the R101 disaster, says our lead
   letter writer.
 image: https://www.yorkpress.co.uk/resources/images/21420040.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: Photo from Air Museum..)*

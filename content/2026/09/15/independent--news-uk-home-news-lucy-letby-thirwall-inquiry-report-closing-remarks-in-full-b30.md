@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: ‘There was complete failure at all levels to invoke safeguarding procedures
   at any point’, Lady Justice Thirlwall said
 image: https://static.independent.co.uk/2026/09/15/16/2294902388..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Law & Justice
 ---
 
 The Thirlwall Inquiry report, which looked at events at the Countess of Chester Hospital which led to former nurse Lucy Letby’s convictions for the murder of seven babies, has made a total of 14 recommendations.

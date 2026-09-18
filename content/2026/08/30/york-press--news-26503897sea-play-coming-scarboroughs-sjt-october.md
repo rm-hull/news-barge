@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: A new play inspired by the canoe man story is set to hit Scarborough's
   Stephen Joseph Theatre (SJT) this October.
 image: https://www.yorkpress.co.uk/resources/images/21384110.jpg?type=og-image&xType=0&yType=209
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## New play inspired by infamous canoe man story coming to Scarborough

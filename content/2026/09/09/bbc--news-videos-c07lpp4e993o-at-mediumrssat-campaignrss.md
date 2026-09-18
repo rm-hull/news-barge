@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Police say they hope the drill will help prepare students, as concern
   grows over the increase in school shootings in South East Asia.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c3f5/live/77450b20-ac0a-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 # Inside Thailand's school shooter drills following recent attacks

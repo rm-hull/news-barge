@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: In his new capacity as workforce head, Mannion will oversee the implementation
   of the trust's overarching employment strategy, directing regional recruitment
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Chris-Mannion-1.webp
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 **HARROGATE**— Harrogate and District NHS Foundation Trust (HDFT) has formally expanded its executive leadership team with the appointment of Chris Mannion as its new Chief People Officer.Mannion joined the local healthcare provider earlier this month, transitioning directly from his previous post as Deputy Director of Workforce and Organisational Development at Mid Yorkshire Teaching NHS Trust, a position he had maintained since 2019.

@@ -7,6 +7,11 @@ scraped_at: '2026-08-26T23:24:59Z'
 published: '2026-08-26T00:00:00Z'
 description: Three lanes of the M62 westbound have been closed due to a spillage.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20679147.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 *(Image: Highways England)*

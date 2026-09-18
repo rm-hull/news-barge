@@ -8,6 +8,10 @@ scraped_at: '2026-08-19T13:10:39Z'
 published: '2026-08-19T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/03/finley-barrett-carter-britains-got-talent-2026-1.webp
+categories:
+- Local
+- York
+- Comedy & Entertainment
 ---
 
 York-based mental health charity Menfulness has announced the full line-up for its night of entertainment – including a *Britain’s Got Talent* star and local talent.

@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Incumbent, 80, beats back challenge from Seth Moulton, who argued Markey
   was too old to be effective at his job
 image: https://i.guim.co.uk/img/media/5a99c8e295a0f0ac0fbee7aeae94096d62210051/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8d2820a6aea5102da3f971bb8946ebe2
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Senator Ed Markey won the Democratic primary in Massachusetts on Tuesday, beating back a challenge from Seth Moulton, a congressman who tried to unseat him by arguing to voters his opponent was too old to be effective at his job.

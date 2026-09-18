@@ -8,6 +8,9 @@ scraped_at: '2026-08-24T11:47:28Z'
 published: '2026-08-24T00:00:00Z'
 description: Why fragmented, unstructured data is limiting AI's value
 image: https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A robot standing thoughtfully in front of a giant digital display with code on it](https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL.jpg) 

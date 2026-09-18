@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Dozens evacuated after flash-flood event near Bright Angel Canyon and
   Phantom Ranch, officials say
 image: https://i.guim.co.uk/img/media/be6ab41ca13f50a425306a5a81b41eeec8ff353a/252_0_7560_6048/master/7560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f86e91da6458c3eb30f66b2f11ff3a8
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 One person died and about 15 people were missing or unaccounted for after a major flash flood swept through the Grand Canyon national park in Arizona on Saturday afternoon, according to the National Park Service.

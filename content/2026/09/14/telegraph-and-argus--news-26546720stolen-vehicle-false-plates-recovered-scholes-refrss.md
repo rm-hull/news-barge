@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A stolen vehicle with false registration plates has been recovered by
   police.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21449264.jpg?type=og-image&xType=0&yType=93
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: West Yorkshire Police)*

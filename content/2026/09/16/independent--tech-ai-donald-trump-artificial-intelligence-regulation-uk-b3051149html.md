@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: The UK is doing ‘groundbreaking’ work on AI safety – but the risk all
   depends on what the US and and China decide, says Jonathan Black
 image: https://static.the-independent.com/2026/09/16/13/2294075590..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 A former national security adviser has given a stark warning that any hope for proper global regulation of AI will depend on decisions made by the US.

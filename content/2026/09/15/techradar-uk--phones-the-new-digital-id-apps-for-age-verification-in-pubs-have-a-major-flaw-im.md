@@ -9,6 +9,9 @@ published: '2026-09-15T00:00:00Z'
 description: Pubs, restaurants, and other venues are now able to accept digital ID
   apps as proof of age for younger customers.
 image: https://cdn.mos.cms.futurecdn.net/Pa7BSKdLUbdasiZ2QbnpB3-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Two pints on a table next to a hand holding a phone showing Yoti age verification](https://cdn.mos.cms.futurecdn.net/Pa7BSKdLUbdasiZ2QbnpB3.jpg) 

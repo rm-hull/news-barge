@@ -8,6 +8,12 @@ scraped_at: '2026-09-04T12:41:27Z'
 published: '2026-09-04T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/matthew-thomas-banks.jpg
+categories:
+- Local
+- York
+- Society & Culture
+- Health & Fitness
+- Self-Improvement
 ---
 
 A man has been sent to prison after subjecting a York woman to a “terrifying” sexual assault that left her feeling “less than human”.

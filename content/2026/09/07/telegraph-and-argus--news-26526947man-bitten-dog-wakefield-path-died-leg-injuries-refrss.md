@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: A man bitten by a dog on a footpath died from complications of a wound
   on his leg, an inquest opening has heard.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21333640.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: SWNS)*

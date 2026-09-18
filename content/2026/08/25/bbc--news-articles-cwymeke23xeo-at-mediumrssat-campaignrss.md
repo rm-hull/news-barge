@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: People on the food scene look at the rise of influencers and the role
   of social media in the industry.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe8e/live/abb70220-9d53-11f1-aac2-870643eea2ac.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Comedy & Entertainment
 ---
 
 ![Oscar is wearing dark rimed glasses and is smiling at the camera whilst holding up a cheeseburger. He's standing in front of orange graffiti.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/fe8e/live/abb70220-9d53-11f1-aac2-870643eea2ac.jpg)

@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: Wi-Fi Motion is part of Wi-Fi Shield, which is a subset of Comcast's
   new Xfinity Shield service
 image: https://cdn.mos.cms.futurecdn.net/wjg5xrrZ3oKsb9Gbc7E26h-1564-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Comcast Xfinity](https://cdn.mos.cms.futurecdn.net/wjg5xrrZ3oKsb9Gbc7E26h.jpg) 

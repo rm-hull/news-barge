@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Grab last-minute seats for less with a verified Gametime discount code
   for up to 10% off, first-purchase coupons, and lowest price guarantee credits.
 image: https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/191:100/w_1280,c_limit/WIRED-Coupons-R2_11.png
+categories:
+- Technology & Software
+- Science
+- Video Gaming
 ---
 
 I’ve lost count of how many times I’ve scored insanely cheap concert and baseball tickets on Gametime. There are plenty of ticket marketplaces to compare, but I usually find some of the best last-minute deals on Gametime, especially if it’s for a same-day event. Take my word for it, and better yet, save a little extra with a Gametime promo code and Gametime discount codes I’ve rounded up below.

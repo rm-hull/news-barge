@@ -8,6 +8,8 @@ published: '2026-09-08T00:00:00Z'
 description: Alogic's new 6K monitor with a hidden webcam will set you back nearly
   $3,100 when it finally launches this fall
 image: https://cdn.mos.cms.futurecdn.net/4qCHPk7kJVUMBw9Z79Y7Qc-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Alogic Clarity 6K Monitor](https://cdn.mos.cms.futurecdn.net/4qCHPk7kJVUMBw9Z79Y7Qc.png) 

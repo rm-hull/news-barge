@@ -9,6 +9,9 @@ description: Amazon is adding a scam-detection feature to Alexa for Shopping tha
   can verify whether suspicious emails, texts, and other messages actually came from
   the retailer.
 image: https://techcrunch.com/wp-content/uploads/2026/09/alexa-shopping-ai-hero-lm.jpg?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Amazon is turning to AI to help fight scammers, the company announced on Wednesday. The retailer said some 360,000 customers every year reach out to its customer service department wondering whether a message they received from Amazon is real or a scam. Now, customers will be able to ask Amazon’s consumer AI service, Alexa for Shopping, to help answer that question instead.

@@ -9,6 +9,9 @@ published: '2026-08-28T00:00:00Z'
 description: “Do we need to look at the ceiling before going to the bathroom? Can
   we actually trust the water is safe to drink?” asks one GSA worker.
 image: https://media.wired.com/photos/6a91b05ee53c7743d5ea6694/191:100/w_1280,c_limit/IMG_9724.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 About 1,600 federal employees who work at the General Services Administration have been forced to relocate from their office on F Street in Washington, DC, to the Theodore Roosevelt Federal Building, roughly two blocks away. Workers say the new building, which also houses staff from the Office of Personnel Management has mice, a caved-in bathroom ceiling, and drinking water that needs to be run for five to 10 seconds before it is clear.

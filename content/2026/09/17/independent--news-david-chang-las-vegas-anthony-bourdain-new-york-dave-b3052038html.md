@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Chef David Chang's new CNN travel series, “The Detour with David Chang,”
   explores America's culinary landscape
 image: https://static.independent.co.uk/2026/09/17/16/TV-The_Detour_with_David_Chang__44_5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 In an episode of his new CNN travel series, chef David Chang is cruising down the highway on his way to Las Vegas when he stops at a humble truck stop off Interstate 15.

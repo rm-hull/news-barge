@@ -9,6 +9,9 @@ description: Blunt congressman tells The Independent that Congress is not good a
   regulating while his colleagues are split on the matter amid fears artificial intelligence
   could one day run amok
 image: https://static.independent.co.uk/2026/09/16/19/2287238020..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Amid calls to regulate AI and President Donald Trump saying he is all the guardrail America needs, a conservative Republican from Tennessee is bluntly warning that Congress is not up to the task.

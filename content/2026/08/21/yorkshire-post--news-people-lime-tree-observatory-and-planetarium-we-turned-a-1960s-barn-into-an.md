@@ -8,6 +8,13 @@ published: '2026-08-21T00:00:00Z'
 description: The Lime Tree Observatory and Planetarium in North Yorkshire has now
   been open for ten years. Liana Jacob speaks to one of those who founded the centre.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM5YWI5YTMxLWRhOGItNDNjMi05NmM0LWE4YzM3YWY4MmVhNjpkOWQ5ZTIzNC0yMGYyLTRlYjctYTVmNC02ZTRjYzc1ZDA0YzI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Science
+- Society & Culture
+- History
 ---
 
 # Lime Tree Observatory and Planetarium: ‘We turned a 1960s barn into an astronomy hub and 10 years later we’re so popular we struggle to accommodate people’

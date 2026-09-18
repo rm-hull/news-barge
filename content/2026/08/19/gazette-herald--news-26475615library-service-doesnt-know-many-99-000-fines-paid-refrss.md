@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: The county council which operates more than 40 libraries across North
   Yorkshire does not know how many people are banned from its sites.
 image: https://www.gazetteherald.co.uk/resources/images/21337470.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 The county council, which operates more than 40 libraries across North Yorkshire, does not know how many people are banned from its sites.

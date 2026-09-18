@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Harry and Meghan stepped down as working royals and moved to California
   more than six years ago
 image: https://static.independent.co.uk/2026/08/20/01/UD3opRc4rPtnZOLHqR5s_XloAMxKUxFq7pV9_q_WLBT-KcWa6xuIoNy0jhXkLIj7kk659VxGjU0SAZe3uLoUfBnu6w3QDVxSWVUR..?trim=5,0,5,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Prince Harry and Meghan are planning to move their family back to the UK later this month after six years of living in the US, according to British media reports, but are not expected to return as working members of the royal family.

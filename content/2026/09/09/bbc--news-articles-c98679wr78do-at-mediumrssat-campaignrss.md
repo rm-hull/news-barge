@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Germany's chancellor clashes with AfD leader Alice Weidel, saying her
   migration policy amounts to "ethnic cleansing" for skilled workers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c567/live/db519c50-ac3c-11f1-aa42-a9647fd0ba61.png
+categories:
+- UK
+- News & Politics
 ---
 
 ![A man in a blue jacket and tie on the left and a woman dressed in white on the right](https://ichef.bbci.co.uk/ace/standard/970/cpsprodpb/c567/live/db519c50-ac3c-11f1-aa42-a9647fd0ba61.png)

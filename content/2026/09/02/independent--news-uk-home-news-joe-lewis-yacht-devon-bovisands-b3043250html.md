@@ -7,6 +7,11 @@ scraped_at: '2026-09-02T12:44:32Z'
 published: '2026-09-02T00:00:00Z'
 description: ‘I hope he takes it to the Mediterranean next year!’
 image: https://static.independent.co.uk/2026/09/02/7/06/billionaire-joe-1596917.jpg?trim=0,266,0,266&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Billionaire Joe Lewis has been accused of "blocking" the sea view for holidaymakers after docking his £200million super yacht in front of two family resorts.

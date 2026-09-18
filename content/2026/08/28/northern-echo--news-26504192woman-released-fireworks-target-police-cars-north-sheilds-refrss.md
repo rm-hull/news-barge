@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: A woman has been released on bail following reports of disorder at what
   was believed to be a vigil in North Shields recently.
 image: https://www.thenorthernecho.co.uk/resources/images/21384532.jpg?type=og-image&xType=0&yType=138
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: Northumbria Police)*

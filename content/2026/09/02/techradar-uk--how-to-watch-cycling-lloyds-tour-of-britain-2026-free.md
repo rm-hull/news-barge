@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: Big-time bike racing returns to the UK for the 22nd addition of the Lloyds
   Tour of Britain.
 image: https://cdn.mos.cms.futurecdn.net/4gcvzFtK7zNUyqYyCNs8US-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 - **Lloyds Tour of Britain 2026: Wednesday, September 2 to Sunday, September 6**

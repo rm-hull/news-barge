@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Winemakers can produce bubbly up to 15% ABV following an unusual harvest
   that produced sweeter grapes.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e6fd/live/129bea30-aea9-11f1-8972-d5c52a82c3b8.jpg
+categories:
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 ![Bottles of champagne](https://ichef.bbci.co.uk/ace/standard/982/cpsprodpb/e6fd/live/129bea30-aea9-11f1-8972-d5c52a82c3b8.jpg)

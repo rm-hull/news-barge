@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: The North East Automotive Alliance (NEAA) has teamed up with Lookers
   Motor Group to offer exclusive deals on British-built Nissan models.
 image: https://www.thenorthernecho.co.uk/resources/images/21374456.jpg?type=og-image&xType=0&yType=607
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
+- Business & Entrepreneurship
 ---
 
 *(Image: David James Wood)*

@@ -8,6 +8,12 @@ published: '2026-08-21T00:00:00Z'
 description: Starting a new school can be daunting for students, but parents can help
   ease the transition
 image: https://static.independent.co.uk/2026/08/21/12/Be_Well_Making_Friends_38444.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
+- Family & Parenting
+- Self-Improvement
 ---
 
 For students starting at a new school, the first day holds many questions: Will they see any familiar faces? Who will they sit with at lunch? Who will they play with at recess?

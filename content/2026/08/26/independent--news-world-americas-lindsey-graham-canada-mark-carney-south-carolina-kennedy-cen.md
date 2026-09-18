@@ -10,6 +10,10 @@ description: Canada has struck back at the United States with retaliatory tariff
   on about $20 billion in American goods, including steel, dairy products, appliances
   and farm equipment, as the trade war between the once-friendly neighbors escalates
 image: https://static.independent.co.uk/2026/08/26/14/US_Canada_Trade_88558.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Canada is striking back at the United States with retaliatory tariffs on about $20 billion worth of American goods, including steel, dairy products, appliances and farm equipment, as the trade war between the once-friendly neighbors escalates.

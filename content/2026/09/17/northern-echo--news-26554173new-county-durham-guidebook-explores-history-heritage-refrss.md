@@ -8,6 +8,13 @@ published: '2026-09-17T00:00:00Z'
 description: 'Stephen Platten has published County Durham: A Guide, a new illustrated
   hardback exploring the landscapes, communities, industrial heritage and…'
 image: https://www.thenorthernecho.co.uk/resources/images/21461277.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- History
+- Travel
 ---
 
 *(Image: Supplied)*

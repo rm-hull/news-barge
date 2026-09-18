@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Darlington charity Forever Eight has been shortlisted among the final
   four for the Tyne and Tees Pride of Britain Awards.
 image: https://www.thenorthernecho.co.uk/resources/images/21431185.jpg?type=og-image&xType=0&yType=62
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A Darlington charity has said it is an 'honour' to be shortlisted for the Tyne and Tees Pride of Britain Awards.

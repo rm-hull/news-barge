@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: The Environmental Protection Agency plans to repeal rules limiting greenhouse
   gas emissions from coal and natural gas power plants
 image: https://static.independent.co.uk/2026/09/04/15/EPA_Water_Rule_1_445.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 The Environmental Protection Agency is expected to repeal rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and natural gas, an action that Administrator Lee Zeldin has said would remove billions of dollars in costs for the industry and help “unleash” American energy.

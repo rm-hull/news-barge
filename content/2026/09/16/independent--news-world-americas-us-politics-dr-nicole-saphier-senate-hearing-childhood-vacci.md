@@ -10,6 +10,10 @@ description: Broad scientific consensus has established no connection exists bet
   childhood vaccines and autism, though the Trump administration has repeatedly sought
   to re-examine the topic
 image: https://static.independent.co.uk/2026/09/16/22/2026-09-16T153910Z_1971158546_RC2EKNAFMOGM_RTRMADP_3_USA-CONGRESS-HEALTH.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 President Donald Trump’s third nominee for surgeon general, Dr. Nicole Saphier, expressed support for childhood vaccines during a tense Senate confirmation hearing on Wednesday.

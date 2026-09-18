@@ -8,6 +8,12 @@ published: '2026-09-04T00:00:00Z'
 description: YOUNG people gathered to tackle youth unemployment using artificial intelligence
   at a new event.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21405898.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

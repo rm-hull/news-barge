@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: A London listing from Revolut would be a major boon for the city’s stock
   market, following a dearth of recent floats.
 image: https://static.independent.co.uk/2025/09/23/22/23114937-8646394c-5703-4bc5-8dc3-ab31714aa7a6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The founder and boss of Revolut has said the bank is considering a dual stock market listing in London and New York.

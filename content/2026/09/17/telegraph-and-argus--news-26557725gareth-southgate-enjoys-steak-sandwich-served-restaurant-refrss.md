@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: A popular restaurant has revealed it welcomed former England manager
   Sir Gareth Southgate this week.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21466356.jpg?type=og-image&xType=0&yType=1024
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
+- Business & Entrepreneurship
 ---
 
 *(Image: The Ilkley Cow/Facebook)*

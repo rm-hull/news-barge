@@ -9,6 +9,9 @@ published: '2026-08-29T00:00:00Z'
 description: Investors, founders, and operators from across Europe arrived for the
   annual Nordic TechBBQ conference to talk about how humans can have agency over AI.
 image: https://techcrunch.com/wp-content/uploads/2026/08/TechBBQ.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 At TechBBQ in Copenhagen, the conversation among investors, founders, and operators from across Europe wasn’t just about what to build with AI, but who should control it. No matter where you were during the annual Nordic conference, from onstage to cocktail hours and after-parties, the chatter kept coming back to how Europe can gain more control over the technology powering AI.

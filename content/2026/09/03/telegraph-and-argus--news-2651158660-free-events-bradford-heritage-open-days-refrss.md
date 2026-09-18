@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: More than 60 free events will be held across the Bradford district during
   this year’s Heritage Open Days.
 image: https://www.thetelegraphandargus.co.uk/resources/images/16602581.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Newsquest)*

@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: The opening of a new shop will bring a high quality addition to Harrogate’s
   high street sector.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjJhZTQzYWVkLTIxZjMtNGE4Ny05MTNiLTk0MTQ5NDU3ZmQ0MDoyZjEzYWRiYy05N2QxLTQ4YWItYjUzMS01ODNjNWM3NWJkNDE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 # Talented designer's journey from quality goods handmade at home to her own physical store in Harrogate town centre

@@ -9,6 +9,11 @@ scraped_at: '2026-09-10T22:29:56Z'
 published: '2026-09-10T00:00:00Z'
 description: The sale is "our way of saying thank you to Nintendo players."
 image: https://cdn.mos.cms.futurecdn.net/uneps7xms57jgZpmDy6nrc-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Video Gaming
 ---
 
 ![Shopper carrying a Nintendo bag outside of the Nintendo store in New York City.](https://cdn.mos.cms.futurecdn.net/uneps7xms57jgZpmDy6nrc.jpg) 

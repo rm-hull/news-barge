@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Despite the recent hot and dry weather, brides are leaving nothing to
   chance and the quirky tradition of burying a sausage the night before their…
 image: https://www.yorkpress.co.uk/resources/images/21370297.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 ## How Emmerdale star and 'lucky sausage' help brides have sunny wedding days

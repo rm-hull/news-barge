@@ -9,6 +9,10 @@ description: Gloria Steinem, the feminist trailblazer, writer and activist who h
   define the modern women’s movement in the US, has died at 92. Here are some of her
   most memorable quotes.
 image: https://images.euronews.com/articles/stories/09/90/01/02/1200x675_cmsv2_01fccf53-763c-5406-bd7e-b9ace97f8180-9900102.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 ## Gloria Steinem, the feminist trailblazer, writer and activist who helped define the modern women’s movement in the US, has died at 92. Here are some of her most memorable quotes.

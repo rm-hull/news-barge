@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Determining how useful different quantum computers are has been a long
   running challenge – now researchers appear to have the answer
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312576967.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312576967.jpg?w=840)

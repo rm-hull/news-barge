@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Madrid government changes stance after previously saying anyone who entered
   territory illegally would be sent back
 image: https://i.guim.co.uk/img/media/069f8257b36e5d24f0a347c57a8c64391082621d/82_0_3328_2664/master/3328.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=994ff355594b49b9ae2fa98fcf4eb2c4
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The Spanish government has U-turned and said it will allow 500 migrant children in Ceuta to relocate to the mainland.

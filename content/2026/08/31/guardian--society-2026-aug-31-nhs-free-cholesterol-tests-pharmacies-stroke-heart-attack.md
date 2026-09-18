@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Checks at pharmacies for people aged 40 to 84 are aimed at identifying
   those at risk of heart attack or stroke
 image: https://i.guim.co.uk/img/media/f85d7fa8de8886f35b574dddaa857cb47c364f7c/506_0_4074_3259/master/4074.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a647b5713b3a14b876000a426478997
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 The NHS in England is to offer free finger-prick blood tests for cholesterol on the high street for the first time under plans to reduce heart disease and stroke deaths by a quarter within the next decade.

@@ -10,6 +10,9 @@ description: '"The United States has a strong interest in continuing to develop 
   robust and competitive artificial intelligence industry that sets the standard for
   the practice and procedure of AI use globally," the brief reads.'
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 In a lawsuit that The New York Times filed against OpenAI, the Trump administration has contributed a 20-page brief in defense of the ChatGPT maker’s unlicensed use of copyrighted material to train its LLMs.

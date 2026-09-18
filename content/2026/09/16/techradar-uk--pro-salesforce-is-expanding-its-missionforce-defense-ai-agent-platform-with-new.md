@@ -8,6 +8,9 @@ scraped_at: '2026-09-16T19:31:37Z'
 published: '2026-09-16T00:00:00Z'
 description: Salesforce celebrates one year of Missionforce with new expansions
 image: https://cdn.mos.cms.futurecdn.net/dfCZV3VXYy9Efw5WUVLRWW-970-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Detailed view of the US Army uniform worn by soldiers in a military base. Flag of America on the uniform.](https://cdn.mos.cms.futurecdn.net/dfCZV3VXYy9Efw5WUVLRWW.jpg) 

@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: A Darlington bakery says it cannot keep up with demand for its school
   cake and custard slices as customers flock in for traditional favourites.
 image: https://www.thenorthernecho.co.uk/resources/images/21403716.jpg?type=og-image&xType=0&yType=591
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 A Darlington bakery says it cannot keep up with demand for its school cake and custard slices as customers flock in for traditional favourites.

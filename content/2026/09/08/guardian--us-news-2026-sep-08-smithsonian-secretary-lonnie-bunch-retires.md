@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T19:25:49Z'
 published: '2026-09-08T00:00:00Z'
 description: ‘I have to be honest, it has been stressful,’ Lonnie Bunch III says
 image: https://i.guim.co.uk/img/media/6b87c6aa34caec34406152c90dcb16c412748ba2/502_0_5010_4009/master/5010.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=48ab8013b2cf2c77f4006b3d125c47c8
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 The Smithsonian Institution’s secretary, Lonnie Bunch III, will retire at the end of the year amid Donald Trump’s attacks on the museum’s content and independence.

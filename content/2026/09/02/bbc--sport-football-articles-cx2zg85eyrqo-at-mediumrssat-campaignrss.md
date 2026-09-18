@@ -9,6 +9,10 @@ description: Feared in attack but light at the back? Liverpool have spent more t
   £200m in the transfer window but questions remain over whether the squad has enough
   depth.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c396/live/a95425d0-a6bd-11f1-ae1e-219da1d6451a.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Bradley Barcola tugging on his Liverpool shirt badge with a smile on his face as he celebrates joining Liverpool](https://ichef.bbci.co.uk/ace/standard/633/cpsprodpb/c396/live/a95425d0-a6bd-11f1-ae1e-219da1d6451a.jpg)

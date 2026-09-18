@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Today's Object of the Week is a collection that traces one North East
   artist’s lifelong determination to record the world around her, from…
 image: https://www.thenorthernecho.co.uk/resources/images/21416447.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Wellcome Collection, London)*

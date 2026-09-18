@@ -8,6 +8,10 @@ scraped_at: '2026-09-02T12:44:33Z'
 published: '2026-09-02T00:00:00Z'
 description: Mass layoffs may no longer be a concern
 image: https://cdn.mos.cms.futurecdn.net/YAfTZpUerneYbaoSzWniHV-970-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![person using an AI PC to code](https://cdn.mos.cms.futurecdn.net/YAfTZpUerneYbaoSzWniHV.jpg) 

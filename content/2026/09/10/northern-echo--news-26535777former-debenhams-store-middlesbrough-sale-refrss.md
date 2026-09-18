@@ -7,6 +7,12 @@ scraped_at: '2026-09-10T12:54:43Z'
 published: '2026-09-10T00:00:00Z'
 description: The former Debenhams store in Middlesbrough has hit the market once again.
 image: https://www.thenorthernecho.co.uk/resources/images/21430905.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ### What is the Public Notice Portal?

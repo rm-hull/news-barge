@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T19:53:15Z'
 published: '2026-09-07T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/cctv-serious-assault-clifford-street-york-27-june-2026.webp
+categories:
+- Local
+- York
+- Sports
 ---
 
 A man was seriously hurt after being attacked in York.

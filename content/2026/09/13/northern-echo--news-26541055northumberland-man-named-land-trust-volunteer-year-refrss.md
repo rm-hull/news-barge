@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: Nigel Green, a volunteer from Slaley, has been named Volunteer of the
   Year by the Land Trust.
 image: https://www.thenorthernecho.co.uk/resources/images/21435084.jpg?type=og-image&xType=0&yType=425
+categories:
+- Local
+- UK
+- News & Politics
+- Outdoors & Nature
 ---
 
 *(Image: Fiona Dryden)*

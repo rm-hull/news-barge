@@ -9,6 +9,10 @@ description: President Donald Trump promises to reward voters if they back Repub
   candidates at November’s midterms but provides few specifics, inviting questions
   and controversy
 image: https://static.independent.co.uk/2026/09/10/09/2294432281..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 President Donald Trump has pledged to send out a $5,000 check to every American citizen if his Republican Party keeps hold of their majority across Congress in November’s midterms, a gesture already inviting questions and controversy.

@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: ALLERSTON Treasure hunt - Churches Together in Allerston are organising
   a treasure hunt around the village on Saturday, August 29.
 image: https://www.gazetteherald.co.uk/resources/images/21371187.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
+- Outdoors & Nature
 ---
 
 *(Image: Nick Fletcher)*

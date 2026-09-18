@@ -10,6 +10,10 @@ description: A major survey of Linton-on-Ouse residents has revealed overwhelmin
   opposition to Home Office proposals to house 1,200 male asylum seekers at the former
   RAF
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/LInton-village-and-base.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 **A major survey of Linton-on-Ouse residents** has revealed overwhelming opposition to Home Office proposals to house 1,200 male asylum seekers at the former**RAF Linton-on-Ouse** site, with a significant number of families stating they plan to move away if the scheme proceeds.

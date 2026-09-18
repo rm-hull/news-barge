@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Prime minister praised for rejecting US trade proposal as Trump shows
   little interest in retreating from dispute
 image: https://i.guim.co.uk/img/media/e6071ba36e600ce983b80af2024aafc2f19d0b66/1210_0_5776_4620/master/5776.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c6db7963a0f4ab519365f2ccc22a67bb
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Mark Carney said on Monday that while American negotiators saw the French language in Canada as an “irritant … in Quebec, these are rights,” days after receiving widespread praise from political leaders for rejecting a US trade proposal that many perceived as weakening the country’s Francophone culture.

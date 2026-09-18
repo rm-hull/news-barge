@@ -8,6 +8,12 @@ published: '2026-09-04T00:00:00Z'
 description: A WORLD first in death-defying stunts and aerial acrobatics was born
   in Yorkshire in the 1980s under a circus movement called Skinning the Cat.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjFhMGQ3OTJmLThjOWYtNDA0My05YmQ5LWEzNjJiZmI5ZmY2ODowOThjNTA1Yi0yMDI3LTRjOGQtOWY0NS1iY2ZlMzBkMzczMjg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Society & Culture
 ---
 
 # Sharing the limelight of Yorkshire daredevil circus troupe

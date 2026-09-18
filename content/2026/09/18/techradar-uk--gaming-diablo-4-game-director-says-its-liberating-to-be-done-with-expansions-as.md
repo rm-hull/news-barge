@@ -11,6 +11,9 @@ description: Blizzard has confirmed that Diablo 4 won't receive any more expansi
   as it will continue the game's story through seasons, something the team is glad
   about.
 image: https://cdn.mos.cms.futurecdn.net/KqinH94xSBYjRSednwJ7wk-2000-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Diablo 4](https://cdn.mos.cms.futurecdn.net/KqinH94xSBYjRSednwJ7wk.jpg) 

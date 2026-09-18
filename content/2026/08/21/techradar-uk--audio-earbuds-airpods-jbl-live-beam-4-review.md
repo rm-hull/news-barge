@@ -10,6 +10,8 @@ published: '2026-08-21T00:00:00Z'
 description: These JBL earbuds have a touchscreen-fitted charging case, and they might
   just be my favorite model of 2026 — here’s why.
 image: https://cdn.mos.cms.futurecdn.net/EphrZLo3AVitvhGXaGXtFc-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

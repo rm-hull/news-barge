@@ -10,6 +10,10 @@ description: 'The boundaries of the EU are inevitably informed by geography – 
   the bloc’s limits and open the door to a new form of association with Brussels.
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/32/40/1200x675_cmsv2_c67d1b47-3bee-5658-9653-0fd277288b89-9893240.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## The boundaries of the EU are inevitably informed by geography – but Canada, which shares the EU’s values and its vision of the world order, could challenge the bloc’s limits and open the door to a new form of association with Brussels.

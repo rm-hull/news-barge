@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: A 'knife-wielding' robber fled a BP petrol station in Stockton after
   allegedly targeting the business shortly after midnight.
 image: https://www.thenorthernecho.co.uk/resources/images/21429840.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: GOOGLE)*

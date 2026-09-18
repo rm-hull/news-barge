@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: 'From Tang Hall to Hollywood: MAXINE GORDON looks at the lives of the
   mysterious York twins who have inspired the new film Bucking Fastard'
 image: https://www.yorkpress.co.uk/resources/images/19451743.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 ## From Tang Hall to Hollywood: the mysterious York twins who fascinated the world

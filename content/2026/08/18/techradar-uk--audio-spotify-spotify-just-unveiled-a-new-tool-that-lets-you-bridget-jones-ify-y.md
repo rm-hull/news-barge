@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: Spotify's new Playlist Notes let you add context and background about
   the songs you love the most.
 image: https://cdn.mos.cms.futurecdn.net/8MfDZjQBfRSj7bUSZbSdiP-2000-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ![Three smartphones showing Playlist Notes in Spotify](https://cdn.mos.cms.futurecdn.net/8MfDZjQBfRSj7bUSZbSdiP.jpg) 

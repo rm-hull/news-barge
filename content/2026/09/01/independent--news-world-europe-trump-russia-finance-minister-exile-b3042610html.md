@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: Anton Siluanov last attended the meeting via video link in April 2022,
   prompting Western officials to walk out
 image: https://static.independent.co.uk/2026/09/01/10/2026-08-31T150853Z_251325442_RC2Q9NAYZ3N2_RTRMADP_3_G20-FINANCE.JPG?trim=100,0,101,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump is facing a major backlash after inviting Russia’s finance minister to the G20 summit following three years of exile due to Moscow’s war on Ukraine.

@@ -9,6 +9,10 @@ description: The company told TechCrunch he is "pursuing new endeavors." Karklin
   be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's
   board of directors in November 2025.
 image: https://techcrunch.com/wp-content/uploads/2026/09/pivotal-helix.jpg?resize=1200,633
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Careers & Productivity
 ---
 
 The CEO of a flying car company backed by Larry Page has left the company.

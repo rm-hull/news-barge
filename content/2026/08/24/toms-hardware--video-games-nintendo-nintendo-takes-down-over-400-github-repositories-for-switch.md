@@ -9,6 +9,9 @@ scraped_at: '2026-08-24T11:48:50Z'
 published: '2026-08-24T00:00:00Z'
 description: Fork found in kitchen.
 image: https://cdn.mos.cms.futurecdn.net/kW5bsKx4FR5T3m3PeYqGDL-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Nintendo](https://cdn.mos.cms.futurecdn.net/kW5bsKx4FR5T3m3PeYqGDL.png) 

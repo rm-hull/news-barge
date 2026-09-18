@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: ONE of the North East’s best-known business leaders has praised the “incredible”
   progress of a development to transform a farm into a training…
 image: https://www.thenorthernecho.co.uk/resources/images/21438759.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ONE of the North East’s best-known business leaders has praised the “incredible” progress of a development to transform a farm into a training and employment hub for autistic people.

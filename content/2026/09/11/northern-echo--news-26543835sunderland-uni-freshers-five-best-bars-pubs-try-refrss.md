@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Freshers looking for a fun night out in Sunderland are spoilt for choice,
   with plenty of pubs and bars within easy walking distance of the…
 image: https://www.thenorthernecho.co.uk/resources/images/21443368.jpg?type=og-image&yType=933
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Ira Lee Nesbitt/Pixabay)*

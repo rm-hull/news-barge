@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Molar from large mammal that once lived in North America is in ‘immaculate
   condition’ after discovery in Bay Area
 image: https://i.guim.co.uk/img/media/671c27b56264b92dd4704de9278b2758c7cc6dcc/0_327_1344_1075/master/1344.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4984ed17792ca38020bd1238d800b3b1
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 A 10,000 year-old tooth in remarkable condition from an ancient Pacific mastodon, a large mammal that once inhabited North America, was recently discovered by a California scientist.

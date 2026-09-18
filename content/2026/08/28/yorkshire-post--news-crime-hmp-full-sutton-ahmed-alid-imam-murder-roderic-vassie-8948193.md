@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: A serving prisoner accused of stabbing an imam five times in the head
   and neck has denied attempted murder.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/07/23/22/v2-image-production-8cfd8ce8bd3f30cfa4144d25a5e02497Y29udGVudHNlYXJjaGFwaSwxNzMxNzUxMTM5-2.1055737.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # HMP Full Sutton: Serving prisoner denies attempting to murder imam in Yorkshire jail

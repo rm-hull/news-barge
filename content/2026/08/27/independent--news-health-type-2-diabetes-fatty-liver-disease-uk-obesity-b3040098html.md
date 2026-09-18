@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Overweight or inactive individuals face higher risk of developing MASLD,
   alongside people with type 2 diabetics, the over-50s and those with high blood pressure
 image: https://static.independent.co.uk/2026/06/17/18/56/iStock-2190916816.jpeg?trim=0,148,0,147&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Diagnoses of a liver condition linked to obesity and type 2 diabetes have increased fivefold over a decade, according to a new study.

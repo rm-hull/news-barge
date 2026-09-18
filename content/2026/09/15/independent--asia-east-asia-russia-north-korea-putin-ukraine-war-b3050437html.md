@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: North Korea dictator was responding to a message of gratitude from the
   Kremlin for the troops he has already committed to the invasion
 image: https://static.independent.co.uk/2026/08/16/12/2026-08-16T020537Z_1227022854_RC2LKGAECWTA_RTRMADP_3_NORTHKOREA-RUSSIA.JPG?trim=0,9,0,9&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 North Korean leader Kim Jong Un has vowed to “expand and deepen” his cooperation with Russia and support for what he called Vladimir Putin’s “sacred war”, presumed to be a reference to the invasion of Ukraine.

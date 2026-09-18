@@ -7,6 +7,10 @@ scraped_at: '2026-08-29T13:50:24Z'
 published: '2026-08-29T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/ghost-reading-canva.png
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 A brand new bookshop is set to ‘thrill and chill’ in York.

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Press Association given list of 65 items from publicly owned collection
   that have gone missing since 2024
 image: https://i.guim.co.uk/img/media/425cd5cc84d47e85a34639c21d97c6907c28e3be/0_0_4936_3948/master/4936.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f782ad8f429c255dbec7b08409affe8e
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A photograph of Benjamin Disraeli, an engraved portrait of William Wilberforce and a cartoon of Barbara Castle have all been misplaced by the UK parliamentary authorities, a freedom of information (FoI) request has revealed.

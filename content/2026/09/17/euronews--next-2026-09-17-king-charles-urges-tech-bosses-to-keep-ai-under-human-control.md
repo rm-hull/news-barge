@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The UK has a significant role in AI safety through its AI Security Institute
   and research community, but the sector itself is dominated by the US and China.
 image: https://images.euronews.com/articles/stories/09/91/77/78/1200x675_cmsv2_a89ef78c-9ef7-5b7f-91cb-f74b5f2b1dd8-9917778.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## The UK has a significant role in AI safety through its AI Security Institute and research community, but the sector itself is dominated by the US and China.

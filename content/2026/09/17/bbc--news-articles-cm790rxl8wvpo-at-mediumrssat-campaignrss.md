@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: Alex Batty, who vanished aged 11 in 2017, says a new job has given him
   renewed purpose.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/62c8/live/2c105740-b1c8-11f1-8493-1910d79d53eb.jpg
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
+- Arts & Culture
 ---
 
 ![Alex Batty has short brown hair and is wearing glasses, and an orange high vis jacket.](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/62c8/live/2c105740-b1c8-11f1-8493-1910d79d53eb.jpg)

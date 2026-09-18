@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Calum, who was paired with Jake, has revealed he has quit Channel 4's
   Gogglebox, having moved to Australia - see who will be replacing him.
 image: https://www.thenorthernecho.co.uk/resources/images/21437839.jpg?type=og-image&xType=0&yType=61
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 *(Image: Channel 4/PA)*

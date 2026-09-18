@@ -9,6 +9,10 @@ description: Huw Pill reiterated his concerns about the risks of leaving interes
   rates unchanged, saying he was uncomfortable with the ‘wait-and-see’ approach of
   fellow policymakers
 image: https://static.independent.co.uk/2026/09/03/17/0db0d0ba092b9c4f5e47895f2674ffcfY29udGVudHNlYXJjaGFwaSwxNzg4NTM3OTA0-2.85122365.jpg?trim=571,429,0,429&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Interest rates should be increased to curb growing inflation risks triggered by the energy crisis in the Middle East, the Bank of England’s chief economist has warned.

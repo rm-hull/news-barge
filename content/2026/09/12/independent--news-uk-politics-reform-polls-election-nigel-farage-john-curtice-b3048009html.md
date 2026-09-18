@@ -9,6 +9,9 @@ published: '2026-09-12T00:00:00Z'
 description: 'Exclusive: Calling an early vote would be a risky move for Burnham despite
   Reform’s slump, Sir John Curtice warns'
 image: https://static.independent.co.uk/2026/09/11/11/01/burnham-farage-split.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Andy Burnham would be unwise to call an early general election because Reform UK could still become the largest party in Parliament, the UK’s leading polling expert has said.

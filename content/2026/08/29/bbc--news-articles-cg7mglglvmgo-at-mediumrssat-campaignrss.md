@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Co-housing residents live in a Grade II listed mansion for the same price
   as a two-bed house.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc08/live/5aac5350-a08a-11f1-8116-c5aabe4388a9.png
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![Dol-llys Hall taken from the far side of a long-grass lawn. The hall is painted light yellowy cream and has a slate tiled roof. To the left and right of a round tower-like protuberance are two covered verandas with supporting posts. Six large arched white-framed leaded windows are visible on both floors, with three chimney sets on the roof. The house is framed by large, mature woods. Some washing is visible on a line to the right of the picture.](https://ichef.bbci.co.uk/ace/standard/575/cpsprodpb/dc08/live/5aac5350-a08a-11f1-8116-c5aabe4388a9.png)

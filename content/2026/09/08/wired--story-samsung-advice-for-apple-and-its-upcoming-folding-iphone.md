@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: The competition is “absolutely welcome” by the pioneering Korean giant,
   but Samsung warns that the device’s “weight” is crucial.
 image: https://media.wired.com/photos/6a9a9f34f91d7f394a999078/191:100/w_1280,c_limit/DSC_9107.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 On the eve of Apple’s highly anticipated folding iPhone, Samsung isn’t feeling threatened. Instead, the folding smartphone pioneer says the competition is “absolutely welcome.”

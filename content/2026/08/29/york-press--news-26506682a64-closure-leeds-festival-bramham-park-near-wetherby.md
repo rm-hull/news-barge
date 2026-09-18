@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: Police are advising motorists of several temporary traffic management
   measures in place around the Leeds Festival site at Bramham Park near Wetherby…
 image: https://www.yorkpress.co.uk/resources/images/21388166.jpg?type=og-image
+categories:
+- Local
+- York
+- Music
+- Travel
 ---
 
 ## REMINDER: One-way system on key Yorkshire road as major music festival gets underway

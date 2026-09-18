@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Nobody could have predicted that today's main global headline would be
   Trump's desire to see a unified Ireland.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9948/live/1ffb4fe0-919e-11f1-b6b0-d5690aa17db0.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![U.S. President Donald Trump delivers remarks at Red Rock Casino Resort Spa in Las Vegas, Nevada, U.S., August 5, 2026. It is a head-and-shoulders shot and he is wearing a blue jacket and shiny red tie.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/9948/live/1ffb4fe0-919e-11f1-b6b0-d5690aa17db0.jpg)

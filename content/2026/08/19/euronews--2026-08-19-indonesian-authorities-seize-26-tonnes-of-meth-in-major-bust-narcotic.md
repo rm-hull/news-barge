@@ -9,6 +9,9 @@ description: Indonesia has some of the world's toughest anti-drug laws, includin
   the death penalty for traffickers, but has maintained a moratorium on executions
   for several years.
 image: https://images.euronews.com/articles/stories/09/87/99/70/1200x675_cmsv2_47b62e17-1fb1-5e82-978c-d867234b555f-9879970.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Indonesia has some of the world's toughest anti-drug laws, including the death penalty for traffickers, but has maintained a moratorium on executions for several years.

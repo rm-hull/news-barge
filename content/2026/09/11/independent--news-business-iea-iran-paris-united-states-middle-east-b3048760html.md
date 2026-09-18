@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: The Paris-based agency is now predicting 2026 worldwide oil consumption
   dropping by 2.5 million barrels a day versus 2025 as prices surge.
 image: https://static.independent.co.uk/2025/12/01/13/01133811-13708e61-0b0f-4028-8cc1-51099036b974.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 The global oil demand outlook has been slashed once again by the International Energy Agency (IEA) as it warned the ongoing Iran war would not see supplies return to normal until 2027.

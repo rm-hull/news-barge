@@ -9,6 +9,10 @@ description: 'German security services are still investigating the foiled drone 
   on Leipzig/Halle airport. Leads point to two suspects, one reportedly linked to
   Russia''s GRU military intelligence. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/30/23/1200x675_cmsv2_77c8d57a-3e1f-5869-b4db-8a44ec03110a-9903023.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 **Euronews Berlin**

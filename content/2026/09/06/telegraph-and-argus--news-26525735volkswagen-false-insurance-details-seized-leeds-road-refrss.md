@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: A car has been seized after it was found to be uninsured. Police stopped
   a Volkswagen on Leeds Road and discovered the driver had provided false…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21416086.jpg?type=og-image&xType=0&yType=431
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 *(Image: West Yorkshire Police)*

@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A Grangetown woman has described the moment she held the hand of a woman
   who jumped from an upstairs window to escape a blazing house.
 image: https://www.thenorthernecho.co.uk/resources/images/21374566.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Owen Humphreys/PA Wire)*

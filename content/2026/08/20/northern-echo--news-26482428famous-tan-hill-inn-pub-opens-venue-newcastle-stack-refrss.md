@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: The Tan Hill Inn, the UK's highest pub, has expanded beyond Yorkshire
   for the first time in more than 300 years by opening a street food outlet…
 image: https://www.thenorthernecho.co.uk/resources/images/21351247.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Supplied)*

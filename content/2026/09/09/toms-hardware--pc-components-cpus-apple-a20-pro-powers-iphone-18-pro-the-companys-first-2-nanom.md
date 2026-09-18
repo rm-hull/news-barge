@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Apple's new A20 Pro SOC will power the iPhone 18 Pro and iPhone Duo as
   its first 2 nm smartphone chip.
 image: https://cdn.mos.cms.futurecdn.net/V3rEUVpL2q4YM9d2nhavs-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Apple iPhone Duo](https://cdn.mos.cms.futurecdn.net/V3rEUVpL2q4YM9d2nhavs.jpg) 

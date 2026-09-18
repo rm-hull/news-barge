@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: An amnesty for political offenses committed in Thailand over the past
   two decades has taken effect
 image: https://static.independent.co.uk/2026/08/25/03/Thailand_Amnesty_Law_81_52.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 An amnesty for political offenses committed in Thailand over the past two decades took effect Monday, but the law excludes some of the more serious cases, including those involving lese majeste, or defaming the monarchy.

@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: An RAF meteorologist from North Yorkshire earned himself an unexpected
   cameo in a blockbuster movie after responding to an appeal from film…
 image: https://www.thenorthernecho.co.uk/resources/images/21445917.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 *(Image: RAF LEEMING)*

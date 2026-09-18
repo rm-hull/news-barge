@@ -8,6 +8,8 @@ published: '2026-09-10T00:00:00Z'
 description: Ukraine’s BARS drone gets a major upgrade with heavier warheads, longer
   range, and new AI guidance features
 image: https://cdn.mos.cms.futurecdn.net/W9RVerhmmu7oGfVvUmtKNE-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Ukrainian BARS-SM jet-powered strike drone](https://cdn.mos.cms.futurecdn.net/W9RVerhmmu7oGfVvUmtKNE.png) 

@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: The government says the law is intended to protect the rights of young
   girls, but critics say it is fuelling anti-Muslim feeling.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cd65/live/c08394c0-a843-11f1-b3a7-d5de760fef6e.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![A stock image of a girl wearing a blue headscarf. She is sitting down in a classroom, facing with her back towards the camera.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cd65/live/c08394c0-a843-11f1-b3a7-d5de760fef6e.jpg)

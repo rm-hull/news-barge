@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Experts tell BBC Verify the pipeline's closure could cut oil supplies
   by as much as 3.6 million barrels per day.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6491/live/f14f3560-b10c-11f1-a540-61c3f7fc4e6c.png
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 ![A satellite image of a damaged oil refinery](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/6491/live/f14f3560-b10c-11f1-a540-61c3f7fc4e6c.png)

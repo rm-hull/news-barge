@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Mount Anak Krakatoa is an active volcano that sits in the Sunda Strait,
   between the islands of Java and Sumatra.
 image: https://images.euronews.com/articles/stories/09/90/29/00/1200x675_cmsv2_782438b8-0209-5882-a2ee-c779b9e2ef02-9902900.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## Mount Anak Krakatoa is an active volcano that sits in the Sunda Strait, between the islands of Java and Sumatra.

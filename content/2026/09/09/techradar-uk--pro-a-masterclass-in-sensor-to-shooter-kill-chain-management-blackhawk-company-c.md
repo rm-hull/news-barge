@@ -8,6 +8,8 @@ published: '2026-09-09T00:00:00Z'
 description: American soldiers entered Hohenfels expecting a tough drill, then Ukrainian
   drone operators changed the battlefield completely
 image: https://cdn.mos.cms.futurecdn.net/sz6gFYTwfpR5a6TbDhtViJ-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Modified Ukrainian Drone](https://cdn.mos.cms.futurecdn.net/sz6gFYTwfpR5a6TbDhtViJ.png) 

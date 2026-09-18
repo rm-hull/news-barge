@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T22:34:53Z'
 published: '2026-09-02T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/07/st-sampsons-york-beer-garden-7.webp
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 Plans for a new beer garden in the heart of York have been criticised by another bar operator.

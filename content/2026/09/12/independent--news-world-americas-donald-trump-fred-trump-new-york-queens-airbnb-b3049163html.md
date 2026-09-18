@@ -9,6 +9,9 @@ description: Donald Trump’s childhood home has sold for nearly $2 million afte
   renovation transformed the New York City residence from a mold-ridden cat den to
   modern abode
 image: https://static.independent.co.uk/2026/09/12/18/Trump_Boyhood_Home_27177.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump's childhood home has sold for nearly $2 million after a renovation transformed the New York City residence from a mold-ridden cat den to a modern abode.

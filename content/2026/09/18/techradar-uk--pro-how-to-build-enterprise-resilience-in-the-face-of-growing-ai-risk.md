@@ -7,6 +7,9 @@ scraped_at: '2026-09-18T12:59:25Z'
 published: '2026-09-18T00:00:00Z'
 description: Enterprise resilience practices now must account for AI-driven risk
 image: https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Phishing, E-Mail, Network Security, Computer Hacker, Cloud Computing Cyber Security 3d Illustration](https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX.jpg) 

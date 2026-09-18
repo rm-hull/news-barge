@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T12:48:15Z'
 published: '2026-09-03T00:00:00Z'
 description: Overall the thieves made off with 40,000 pounds of beer
 image: https://static.independent.co.uk/2026/08/30/14/2196642449..?trim=0,6,0,6&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Pabst Blue Ribbon really wants its beer back, and it's happy to pay.

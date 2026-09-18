@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T12:57:01Z'
 published: '2026-09-09T00:00:00Z'
 description: Patients show 52 per cent drop in bad cholesterol levels within six months
 image: https://static.independent.co.uk/2026/09/09/9/35/Medical-workers-treat-an-intubated-patient.jpeg?trim=0,86,0,85&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A single dose of an experimental jab has been found to cut “bad” cholesterol levels by half within six months of treatment in a small Chinese gene-editing trial, a new study reveals.

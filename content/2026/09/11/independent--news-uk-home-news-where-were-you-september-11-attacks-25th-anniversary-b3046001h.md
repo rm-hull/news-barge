@@ -9,6 +9,12 @@ description: As the 25th anniversary of the September 11 attacks approaches, we 
   to hear from readers about where you were and what you remember of that historic
   moment in 2001
 image: https://static.independent.co.uk/2026/09/07/14/2293023703..?trim=35,0,35,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Arts & Culture
+- Self-Improvement
 ---
 
 Twenty-five years ago this Friday, four hijacked planes changed the course of modern history.

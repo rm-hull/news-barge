@@ -9,6 +9,11 @@ description: Alongside the thousands of Americans killed on 9/11, dozens of Euro
   lost their lives that day — and 25 years on, some of the people accused of being
   behind the attacks have still not faced justice.
 image: https://images.euronews.com/articles/stories/09/90/91/45/1200x675_cmsv2_92428fd9-3311-5d0a-85ad-712fcbe66105-9909145.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
+- History
 ---
 
 ## Alongside the thousands of Americans killed on 9/11, dozens of Europeans lost their lives that day — and 25 years on, some of the people accused of being behind the attacks have still not faced justice.

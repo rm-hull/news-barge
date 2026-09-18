@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Geordie Coppers executive producer Gilly Greenslade reveals how Channel
   4 gained access to Newcastle's police, street rangers and council teams.
 image: https://www.thenorthernecho.co.uk/resources/images/21442834.jpg?type=og-image&xType=0&yType=482
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A new Channel 4 show following police officers, street rangers and council staff in the North East hopes to challenge perceptions of policing by showing "the people behind the uniform", its executive producer has said.

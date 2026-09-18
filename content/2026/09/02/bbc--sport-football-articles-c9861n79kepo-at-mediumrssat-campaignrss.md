@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Everton's transfer deadline day debacle over Folarin Balogun leaves owners
   The Friedkin facing fan mutiny, says chief football writer Phil McNulty.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6163/live/609a7b90-a6be-11f1-ae1e-219da1d6451a.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![United States striker Falorin Balogun](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/6163/live/609a7b90-a6be-11f1-ae1e-219da1d6451a.jpg)

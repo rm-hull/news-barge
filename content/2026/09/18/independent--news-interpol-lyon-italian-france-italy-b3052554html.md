@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Interpol is rolling out a new tool to track down hidden criminal assets,
   and an Italian crime boss was one of the first to feel its effects
 image: https://static.independent.co.uk/2026/09/18/14/CORRECTION_France_Interpol_Silver_Notice_2_2_1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Interpol is rolling out a new tool to help police track down hidden criminal assets and an Italian crime boss was one of the first to feel its effects.

@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The vote marks the sixth time in a row that the bank’s Monetary Policy
   Committee has kept rates on hold
 image: https://static.independent.co.uk/2026/09/17/09/2026-09-16T151650Z_1831158041_RC2EKNAI1GI7_RTRMADP_3_BRITAIN-BOE.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The Bank of England has kept interest rates at 3.75 per cent, despite mounting pressure to hike rates after an uptick in inflation.

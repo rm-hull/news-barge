@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: A teenager has been charged after a 13-year-old boy was stabbed in Leeds
   during the Bank Holiday weekend.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjU1ZjVmMDM3LWY4MzktNDYzYy1hN2JlLTM2OWNlMDRiOTkzMTo5NzZkNjdjOS1lNmI3LTRmN2ItOWY2MC1hYmRlOWY0MTFkYjY=.jpg?crop=3:2,smart&trim=&width=640&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 # Teenager charged after boy, 13, stabbed in Leeds during Bank Holiday weekend

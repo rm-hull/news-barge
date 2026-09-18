@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: He is the product of a relationship between Prince Laurent and a Flemish
   singer
 image: https://static.independent.co.uk/2026/08/20/20/37/b941b6e0-9c7e-11f1-9653-11ace0f67d4d-jpg.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 A former car salesman has officially been named a Belgian prince after the brother of the nation’s king recognised his secret child formally.

@@ -9,6 +9,11 @@ description: 'The strikes come a day after Russia launched a major daytime drone
   on the city of Kryvyi Rih, the hometown of Ukrainian President Volodymyr Zelenskyy.
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/45/40/1200x675_cmsv2_f3beca8c-f381-5879-8445-39d606bf6313-9884540.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
+- History
 ---
 
 ## The strikes come a day after Russia launched a major daytime drone attack on the city of Kryvyi Rih, the hometown of Ukrainian President Volodymyr Zelenskyy.

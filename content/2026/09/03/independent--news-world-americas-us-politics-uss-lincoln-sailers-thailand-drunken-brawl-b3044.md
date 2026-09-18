@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: The aircraft carrier is currently docked in Thailand after spending 286
   days at sea
 image: https://static.independent.co.uk/2026/09/02/12/Thailand_US_Carrier_56146.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A pair of U.S. service members have been sent back to the USS Abraham Lincoln after a drunken fight in Thailand, where the aircraft carrier is currently at port following a record 286 days at sea, according to a new report.

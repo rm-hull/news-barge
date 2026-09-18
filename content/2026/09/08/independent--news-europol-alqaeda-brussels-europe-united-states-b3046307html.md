@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Jihadist groups still pose a major threat to Europe, but 25 years after
   the 9/11 attacks a new menace driven by young people online is emerging
 image: https://static.independent.co.uk/2026/09/08/06/Belgium_EU_Counter_Terrorism_26362.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A quarter of a century after the Al-Qaeda attacks on the United States, jihadist groups still pose a major threat to security in Europe, but a new menace has surfaced that is driven mostly by young people online and the authorities are worried.

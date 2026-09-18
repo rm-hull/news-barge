@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Taking the stand could be Duane ‘Keffe D’ Davis' only way to explain
   his about-face to jurors
 image: https://static.independent.co.uk/2026/08/20/17/2026-08-19T222434Z_1929420622_RC2Y1NARXE9N_RTRMADP_3_PEOPLE-TUPAC-MURDER-COURT.JPG?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A defense attorney for the ex-gang leader accused of orchestrating the drive-by killing of Tupac Shakur had an unusual message for jurors this week: don’t take his client’s “bullshit” seriously.

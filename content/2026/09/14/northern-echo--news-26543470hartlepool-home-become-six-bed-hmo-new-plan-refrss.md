@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Hartlepool HMO plans - An Elwick Road home could become a six-person
   house in multiple occupation, with Hartlepool Council's decision expected…
 image: https://www.thenorthernecho.co.uk/resources/images/21442532.jpg?type=og-image&xType=0&yType=158
+categories:
+- Local
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 *(Image: Google Maps)*

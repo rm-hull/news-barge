@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The green energy boss previously said the new North Sea drilling would
   be a ‘betrayal’ if given the green light by the government
 image: https://static.independent.co.uk/2026/07/09/15/2237728035..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Environmental campaigner Dale Vince has backed the approval of the controversial Jackdaw and Rosebank oil and gas fields in a surprising U-turn.

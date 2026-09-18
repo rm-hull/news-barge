@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Plans to extract and reuse million tonnes of ash from a mound next to
   Drax are given the go-ahead.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a77b/live/0a955290-acf1-11f1-a8ae-35fb3e785e0c.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![An aerial image of Drax power station showing several cooling towers set among a large site with buildings. The power station is surrounded by green land.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a77b/live/0a955290-acf1-11f1-a8ae-35fb3e785e0c.jpg)

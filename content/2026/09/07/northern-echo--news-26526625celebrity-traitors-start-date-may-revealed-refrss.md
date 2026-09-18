@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: The start date for the second series of Celebrity Traitors may have been
   confirmed by Richard Osman and it's soon.
 image: https://www.thenorthernecho.co.uk/resources/images/20866196.jpg?type=og-image&xType=0&yType=20
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 *(Image: BBC/Studio Lambert/Euan Cherry)*

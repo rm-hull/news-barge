@@ -9,6 +9,9 @@ published: '2026-08-23T00:00:00Z'
 description: Public roads across D.C. have been converted into an IndyCar race track
   for the event to celebrate the country’s 250th anniversary
 image: https://static.independent.co.uk/2026/08/23/09/2291620528..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump’s historic IndyCar race is set to roar through the streets of Washington, D.C., Sunday.

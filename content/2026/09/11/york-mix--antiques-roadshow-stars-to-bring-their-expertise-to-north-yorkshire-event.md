@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T19:09:07Z'
 published: '2026-09-11T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/susan-rumfitt.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 Familiar faces of Sunday evening TV are bringing their expertise to a York abbey this month.

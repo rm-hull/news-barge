@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Chain tells customers to ‘pipe down’ and use earphones instead, calling
   its venues ‘an oasis of tranquillity’
 image: https://i.guim.co.uk/img/media/5467d3de7117b6127260420179080290ecc322ed/1120_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a89f4829feadccfc0f4600204ac6ba1
+categories:
+- UK
+- News & Politics
+- Music
+- Technology & Software
 ---
 
 The pub chain Wetherspoons has banned customers from playing music or taking calls on speaker after growing complaints about the noise.

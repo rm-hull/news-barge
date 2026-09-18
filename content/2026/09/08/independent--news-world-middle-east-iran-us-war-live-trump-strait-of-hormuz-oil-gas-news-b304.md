@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T12:52:09Z'
 published: '2026-09-08T00:00:00Z'
 description: Iranian rhetoric comes as US sanctions punish its ailing economy
 image: https://static.independent.co.uk/2026/09/08/07/2026-09-08T011743Z_1255130506_RC2HENA50ED1_RTRMADP_3_IRAN-CRISIS-YEMEN-SAUDI.JPG?trim=0,493,290,493&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The Iran-backed Houthi rebels have attacked several cities in Saudi Arabia, wounding 73 people and knocking operations at energy facilities offline, the Saudi-led coalition said on Tuesday in a further sign of the conflict spreading as diplomacy stalls.

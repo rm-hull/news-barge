@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: ‘This is a profoundly flawed decision that endangers our children and
   is an affront to Texas values,’ Ken Paxton says
 image: https://i.guim.co.uk/img/media/76cc4b799fe6f4acdeec9acf1feaa3c09b071e2d/72_0_2928_2343/master/2928.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=202f0018ea18742045d058c821da21d5
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Family & Parenting
 ---
 
 A federal judge has, for a second time, struck down a Texas state law banning drag performances in settings where children may be present.

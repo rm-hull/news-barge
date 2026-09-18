@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Former England captain Michael Vaughan says he "really fears" for Pakistan
   after their heavy defeat in the first Test at Headingley.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6dc5/live/83526340-9d82-11f1-adf5-2dc21c9cc109.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Highlights: England ease to huge win against Pakistan on day three at Headingley

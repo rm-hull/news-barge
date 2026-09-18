@@ -10,6 +10,11 @@ description: Iran's economy is poised for more instability as the Trump administ
   tries to coerce other countries into ending all financial dealings with the Islamic
   Republic
 image: https://static.independent.co.uk/2026/08/27/14/Iran_Sanctions_Trade_65_91.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Iran’s economy, already strained by high inflation, years of Western sanctions and a war that has sharply reduced oil revenue, is poised for more instability as the Trump administration tries to coerce other countries into ending all financial dealings with the Islamic Republic.

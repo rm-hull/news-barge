@@ -7,6 +7,11 @@ scraped_at: '2026-08-21T16:48:33Z'
 published: '2026-08-21T00:00:00Z'
 description: A new report focuses on cutting electricity costs.
 image: https://static.independent.co.uk/2026/08/21/16/93dac63286d53dfc6cc71e4d4a9399ebY29udGVudHNlYXJjaGFwaSwxNzg3NDA2MDgz-2.83795734.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 In the introduction to a report on the future of the energy system, shadow energy secretary Claire Coutinho said: “Only a 10th of the UK’s emissions come from our electricity grid. The remaining 90% come from transport, heating and the rest of our economy.

@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: A POETRY festival is set to return with a packed day of readings, reflection
   and creativity
 image: https://www.yorkpress.co.uk/resources/images/21458129.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Poetry festival returns to Bishop Burton for eighth year

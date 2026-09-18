@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Xbox and Ikea collab alert! This unique nine-piece collection for gamers
   arrives this fall and has a slew of Easter eggs.
 image: https://media.wired.com/photos/6a8c1c817e094df45d7c1f8f/191:100/w_1280,c_limit/PH210899.jpg
+categories:
+- Technology & Software
+- Science
+- Video Gaming
 ---
 
 Ikea has taken another swing at a gaming gear collection, but this time it brought in a ringer: Xbox. The new nine-piece range, revealed at Gamescom in Cologne, Germany, came about not through whiteboard marketing brainstorms, but a meeting between the Xbox and Ikea design teams at Milan Design Week in 2024.

@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Dr Alex Armitage is eating only food grown, reared or caught in Shetland
   during September.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41e7/live/0eb27c50-aaca-11f1-9ffe-379165646670.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Food & Cooking
 ---
 
 ![A man with dark hair, wearing a dark blue shirt, sits at a green outdoor table. He is surrounded by shrubs in a rockery. He has samples of honey and milk on the table.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/41e7/live/0eb27c50-aaca-11f1-9ffe-379165646670.jpg)

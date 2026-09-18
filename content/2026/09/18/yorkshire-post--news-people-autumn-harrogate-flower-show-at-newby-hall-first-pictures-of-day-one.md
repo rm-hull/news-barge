@@ -8,6 +8,11 @@ scraped_at: '2026-09-18T12:59:18Z'
 published: '2026-09-18T00:00:00Z'
 description: The Autumn Harrogate Flower Show at Newby Hall is underway on Friday.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE5NWM3MGEyLTViZTItNDMyMy05MjlmLWVkZDZhYTQ0ZTYxNjplN2ExNTE2MS1mYTYxLTQzNWQtOWQ0Mi0wNmFjMmE5ZTU2Njk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 The show opened on Friday for three days of horticultural excellence, autumn colour and inspiration, as the show celebrates its 50th anniversary.

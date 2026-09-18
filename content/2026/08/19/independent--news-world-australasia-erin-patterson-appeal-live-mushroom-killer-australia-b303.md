@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Patterson’s lawyer says jurors were housed alongside police, media and
   others connected to the high-profile trial
 image: https://static.independent.co.uk/2026/08/19/03/2026-08-18T235347Z_1238708359_RC2ZDGA82Z7E_RTRMADP_3_AUSTRALIA-DEATHS-MUSHROOMS.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Law & Justice
 ---
 
 ![](https://static.independent.co.uk/2026/08/19/03/2026-08-18T235347Z_1238708359_RC2ZDGA82Z7E_RTRMADP_3_AUSTRALIA-DEATHS-MUSHROOMS.JPG)

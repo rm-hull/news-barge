@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: The union for Boston Symphony Orchestra musicians has authorized the
   first strike in the ensemble's 145-year history
 image: https://static.independent.co.uk/2026/08/23/04/Boston_Symphony_Strike_62859.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
+- History
 ---
 
 The union for Boston Symphony Orchestra musicians authorized the first strike in the ensemble's 145-year history on Saturday.

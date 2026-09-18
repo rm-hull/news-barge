@@ -8,6 +8,9 @@ scraped_at: '2026-08-25T13:08:49Z'
 published: '2026-08-25T00:00:00Z'
 description: Bundle also includes a Pelican case and a Dbrand Killswitch.
 image: https://cdn.mos.cms.futurecdn.net/VFZAGkPfiuEJKYKtdJdhXK-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Asus ROG Xbox Ally X2](https://cdn.mos.cms.futurecdn.net/VFZAGkPfiuEJKYKtdJdhXK.png) 

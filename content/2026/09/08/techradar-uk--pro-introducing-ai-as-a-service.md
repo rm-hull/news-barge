@@ -7,6 +7,9 @@ scraped_at: '2026-09-08T12:51:35Z'
 published: '2026-09-08T00:00:00Z'
 description: How Agentic AI is impacting the IT industry
 image: https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A person typing on a laptop and using a tablet. Only their upper torso, arms and hands are visible. Text superimposed on the image shows AI](https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML.jpg) 

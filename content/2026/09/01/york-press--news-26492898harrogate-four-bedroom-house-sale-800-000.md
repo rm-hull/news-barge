@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: A four-bedroom house in Harrogate, located on The Grove, is on the market
   for offers over £800,000.
 image: https://www.yorkpress.co.uk/resources/images/21367813.jpg?type=og-image&xType=0&yType=157
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## Harrogate home near The Stray with parkland views for sale at £800,000

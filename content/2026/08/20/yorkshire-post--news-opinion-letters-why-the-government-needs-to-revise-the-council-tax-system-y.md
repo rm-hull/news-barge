@@ -8,6 +8,11 @@ scraped_at: '2026-08-20T13:06:57Z'
 published: '2026-08-20T00:00:00Z'
 description: 'From: Philip Hutchinson, Scarr Green Close, Meltham.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjk5NDQ3NWY2LTNlNmQtNDg3YS1hMmVhLWQ3NzJlMjY0MGVmODplYjkyNjBhYi02N2JiLTRkOWYtYTQ3Yi0yODY3MDkxM2Q4ZTE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Why the Government needs to revise the Council Tax system - Yorkshire Post Letters

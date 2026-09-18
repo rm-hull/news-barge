@@ -9,6 +9,12 @@ description: Pubs serve as a critical linchpin in driving a district’s economi
   the chief executive of Pub is The Hub says, as the Government awarded £3m to the
   Yorkshire-based charity.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmNiODU4ZTcxLTU1NTQtNGU4ZS05Y2VmLTE5NDAyMDFlYzI0NzpkYjg1YjI0ZS0wZjZhLTRmNzMtOGI3Zi02NTE1NjZhNjAzNjY=.jpg?crop=3:2,smart&trim=&width=824&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 # Pubs as hubs are crucial to high streets' revival, Yorkshire leads say

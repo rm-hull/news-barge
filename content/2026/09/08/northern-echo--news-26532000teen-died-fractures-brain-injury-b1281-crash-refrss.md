@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: A “much loved” teenager died from multiple fractures and a catastrophic
   brain injury after a County Durham crash, an inquest has heard.
 image: https://www.thenorthernecho.co.uk/resources/images/21278530.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- Science
 ---
 
 *(Image: DURHAM POLICE)*

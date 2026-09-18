@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: Teesside Crown Court heard Mark Faulds allegedly groomed and sexually
   abused a teenager. Her aunt secretly recorded her account.
 image: https://www.thenorthernecho.co.uk/resources/images/20172131.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: Newsquest)*

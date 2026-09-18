@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A man is due to appear in court today charged with manslaughter following
   the death of another man who was bitten by a dog.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/17/10/43/police-quiz-mur-1590985.jpeg?trim=166,0,167,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Man due in court after being charged with manslaughter over dog bite death

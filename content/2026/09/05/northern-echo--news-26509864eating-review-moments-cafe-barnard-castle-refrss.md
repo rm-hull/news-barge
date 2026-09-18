@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: EATING out is about more than just food. So many places do decent sandwiches,
   homemade quiches, plus great cakes and, increasingly, good coffee.
 image: https://www.thenorthernecho.co.uk/resources/images/21393685.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 EATING out is about more than just food. So many places do decent sandwiches, homemade quiches, plus great cakes and, increasingly, good coffee.

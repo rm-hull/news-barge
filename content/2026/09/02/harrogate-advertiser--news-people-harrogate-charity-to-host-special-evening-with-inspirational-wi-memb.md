@@ -10,6 +10,10 @@ description: The ‘Calendar Girl’ who came up with the idea and was played by
   actress Helen Mirren in the hit movie is to open up in Harrogate soon about her
   amazing and inspirational story.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAxNDFkNDM0LTU5YjQtNDBlOC05NDI2LTAwY2YyMDQwMDRiNjpmZTZiOGQ5OC1lZjBkLTQ5MjMtYWFlZS03N2JjMTlkMDMyYjk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 # Harrogate charity to host special evening with inspirational WI member who came up with idea for Calendar Girls

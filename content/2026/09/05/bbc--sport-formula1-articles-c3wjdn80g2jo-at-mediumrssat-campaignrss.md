@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: Pierre Gasly delivered the biggest surprise pole position in F1 for years
   in Italy as the leading contenders had scrappy qualifying sessions.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/da7f/live/4940fe30-a950-11f1-ae8c-2528accc9a1a.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 ![Pierre Gasly gives a thumbs-up at the camera after taking pole position for the Italian Grand Prix](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/da7f/live/4940fe30-a950-11f1-ae8c-2528accc9a1a.jpg)

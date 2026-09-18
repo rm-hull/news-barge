@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Tottenham sign Brazil winger Savinho from Manchester City for an initial
   £75m.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f37b/live/af288520-a067-11f1-ab4b-e3f95ee34b2e.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Savinho in action for Manchester City](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f37b/live/af288520-a067-11f1-ab4b-e3f95ee34b2e.jpg)

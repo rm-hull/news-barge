@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Archaeologists in Peru have unveiled skeletal remains near Huaca Pucllana,
   an ancient pyramid in Lima
 image: https://static.independent.co.uk/2026/08/18/22/Peru_Archeology_55628.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Archaeologists in Peru on Tuesday unveiled the skeletal remains of an adult they believe was buried as an offering near the base of Huaca Pucllana, an ancient adobe pyramid in Lima, the nation’s capital.

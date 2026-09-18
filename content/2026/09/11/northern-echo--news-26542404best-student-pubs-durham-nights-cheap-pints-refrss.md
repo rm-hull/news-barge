@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Discover the best student pubs in Durham, from The Half Moon and The
   Shakespeare to the historic Undercroft Bar in Durham Castle.
 image: https://www.thenorthernecho.co.uk/resources/images/20863205.jpg?type=og-image&xType=0&yType=319
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 Durham may be one of the UK's smallest university cities, but its student nightlife packs a serious punch.

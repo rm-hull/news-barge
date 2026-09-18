@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A deep partial lunar eclipse will be visible across the UK before dawn
   on Friday, August 28, with more than 90 per cent of the Moon covered by…
 image: https://www.thenorthernecho.co.uk/resources/images/20045826.jpg?type=og-image&xType=0&yType=38
+categories:
+- Local
+- UK
+- News & Politics
+- Science
 ---
 
 *(Image: SHANE DEW)*

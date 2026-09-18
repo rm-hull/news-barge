@@ -7,6 +7,9 @@ scraped_at: '2026-08-29T19:24:04Z'
 published: '2026-08-29T00:00:00Z'
 description: The capital is not set to vote on a new mayor until 2028.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2689/live/dc707fb0-a3be-11f1-b13c-0d78069132fa.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![James Cleverly wears a suit and holds a microphone](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2689/live/dc707fb0-a3be-11f1-b13c-0d78069132fa.jpg)

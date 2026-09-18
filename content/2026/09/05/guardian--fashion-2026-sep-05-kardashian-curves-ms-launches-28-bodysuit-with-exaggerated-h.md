@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: The ‘hip boost’ aims to create hourglass silhouette, much like Kim Kardashian’s
   shapewear brand’s padded shorts
 image: https://i.guim.co.uk/img/media/da308337c3b259c2c22b2587e2ada06f2a52c20c/0_269_1920_1536/master/1920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aa01fc858464cb8bb6a850cfaad687c3
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 For decades shapewear has been used to compress and cinch. But now there is a sub-genre emerging. Rather than shrinking a silhouette, it aims to add inches.

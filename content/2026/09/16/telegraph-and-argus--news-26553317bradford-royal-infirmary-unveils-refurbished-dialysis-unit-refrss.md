@@ -7,6 +7,12 @@ scraped_at: '2026-09-16T13:28:28Z'
 published: '2026-09-16T00:00:00Z'
 description: A newly refurbished Acute Renal Dialysis Unit has opened.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21459905.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

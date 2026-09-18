@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Spectrum Building leaseholders awaiting payouts after freeholder, Arinium,
   went bankrupt shortly after 2024 blaze
 image: https://i.guim.co.uk/img/media/bde2f669a9a4427005074bc6fd517399ce31c4c1/469_207_4380_3504/master/4380.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b1aa3288d533989956ae51840409ecf3
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Sarah Williams vividly remembers the night in 2016 when she camped overnight in a car park to put down a deposit on a flat in the newly completed Spectrum Building in Dagenham, east London.

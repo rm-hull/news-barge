@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: ‘Both of us had ended up facing each other, so we knew we could create
   a distraction,’ Rudy Giuliani said
 image: https://static.independent.co.uk/2026/09/11/13/06/Screenshot-2026-09-11-at-9-47-28-AM.png?trim=0,122,0,121&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Former New York City Mayor Rudy Giuliani disclosed what he told Mayor Zohran Mamdani during their viral face-to-face exchange at Friday’s ceremony marking the 25th anniversary of the September 11, 2001, terror attacks.

@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: A reportedly stolen Lamborghini was seized after being spotted by patrolling
   officers.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21380820.jpg?type=og-image&xType=0&yType=617
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 A reportedly stolen Lamborghini was seized after being spotted by patrolling officers.

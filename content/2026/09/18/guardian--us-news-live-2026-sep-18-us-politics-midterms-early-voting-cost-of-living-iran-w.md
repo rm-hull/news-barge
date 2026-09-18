@@ -9,6 +9,9 @@ published: '2026-09-18T00:00:00Z'
 description: Campaigning or control of Congress is expected to ramp up as some states
   open early voting
 image: https://i.guim.co.uk/img/media/f6287da7fd9bd90a7b12e08e76992e99d8a890bc/0_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c931240ca72b79773bcc8363ae2be6c9
+categories:
+- UK
+- News & Politics
 ---
 
 Early voting begins in midterms as cost of living and Iran war loom large

@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Earl says his memoir has been written to correct ‘untruths’ told about
   his older sister
 image: https://static.independent.co.uk/2026/09/18/16/57/earl-spencer-bbc-58f55d15.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Earl Spencer has insisted he is “telling the truth” about a claim in his new book that the King told him that his sister Diana would be forgotten “soon enough” following her death.

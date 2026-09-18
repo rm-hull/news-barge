@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T01:55:08Z'
 published: '2026-08-21T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/BOWLING-FOR-SOUP-HEADLINE-SCARBOROUGH-OPEN-AIR-THEATRE-1.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 Music legends Nile Rodgers and CHIC will bring the curtain down on a sensational summer of live music at Scarborough Open Air Theatre this weekend.

@@ -9,6 +9,9 @@ description: Uber is laying off about 3,300 people, or about 10% of its global h
   in a bid to reduce management layers and invest more in its ride-sharing, delivery,
   and robotaxi divisions.
 image: https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2211281388.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to cut management layers and invest more in its ride-sharing, delivery and robotaxi divisions. The company announced the changes in an internal email sent by CEO Dara Khosrowshahi and published online Wednesday.

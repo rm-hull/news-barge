@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: The former health secretary said he had received an ‘unbelievable volume’
   of homophobic abuse since being appointed to the new role
 image: https://static.independent.co.uk/2026/08/27/00/2288371694..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Wes Streeting has shared the “unbelievable volume” of homophobic abuse he has abused since becoming the first openly gay defence secretary.

@@ -7,6 +7,12 @@ scraped_at: '2026-09-07T14:13:50Z'
 published: '2026-09-07T00:00:00Z'
 description: MOST people want to be remembered for kindness, not career success.
 image: https://www.thetelegraphandargus.co.uk/resources/images/6852521.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Self-Improvement
+- Careers & Productivity
 ---
 
 *(Image: Mark Lewis)*

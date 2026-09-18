@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: THE Group for Action on Leeds Bradford Airport (GALBA) has pledged to
   oppose Leeds Bradford Airport's latest proposals to change its night…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21365573.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: submitted)*

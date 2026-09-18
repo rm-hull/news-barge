@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The Nurovi line includes three robovacs. But to get the model I’m most
   intrigued by, you’ll need a Costco membership.
 image: https://media.wired.com/photos/6aab23852d174664403341f6/191:100/w_1280,c_limit/Dyson-Just-Dropped-New-Lidar-Powered-Robot-Vacuums.-Here%E2%80%99s-a-Look-at-Each-Model.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Around this time of year, new products launch left and right. I wrote similar words just yesterday ahead of Boox launching its latest devices. And now, Dyson, one of the big names in vacuum cleaners, just launched three innovative products.

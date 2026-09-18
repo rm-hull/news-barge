@@ -9,6 +9,8 @@ published: '2026-09-04T00:00:00Z'
 description: The Lexar Muse takes a different approach to SSD storage, though the
   custom connector may not suit everyone.
 image: https://cdn.mos.cms.futurecdn.net/YvHG5nuXWSZegoo24ekadD-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Lexar Muse](https://cdn.mos.cms.futurecdn.net/YvHG5nuXWSZegoo24ekadD.jpg) 

@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Residents fear Hamsterley will become 'cut off' after Durham County Council
   agreed to permanently close a road into the village from the…
 image: https://www.thenorthernecho.co.uk/resources/images/21470324.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: NORTHERN ECHO)*

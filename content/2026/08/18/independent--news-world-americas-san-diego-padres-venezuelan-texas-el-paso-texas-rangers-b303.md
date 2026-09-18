@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: A player development instructor for the San Diego Padres has been detained
   by U.S. immigration officials
 image: https://static.independent.co.uk/2026/08/18/19/Immigration_Baseball_Coach_48976.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A former Venezuelan baseball player working for the San Diego Padres was detained by U.S. immigration officials after arriving in Texas on a work trip for the club, his family said Tuesday.

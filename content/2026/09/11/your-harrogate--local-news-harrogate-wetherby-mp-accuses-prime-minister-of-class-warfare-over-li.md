@@ -9,6 +9,10 @@ description: Wetherby's MP has accused the Prime Minister of engaging in class w
   over suggestions that asylum seekers should be housed in middle-class areas as he
   stepped up his opposition to plans for a migrant centre at former RAF Linton-on-Ouse.
 image: https://mmo.aiircdn.com/409/6aa3df22efdc353564e.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa3df22efdc353564e.jpg) 

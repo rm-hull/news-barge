@@ -8,6 +8,10 @@ scraped_at: '2026-08-31T21:27:46Z'
 published: '2026-08-31T00:00:00Z'
 description: Follow updates live
 image: https://i.guim.co.uk/img/media/c26027cc925f7bbc5d4aaad4ac66a6673d5ef405/936_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2d8710933eab82bd9f71a777f6161792
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 The typical capital city home price has slipped back below $1m as the number of buyers fall, Cotality says. Photograph: zstockphotos/Getty Images/iStockphoto

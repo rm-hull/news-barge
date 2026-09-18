@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Three openers and live band for Sheeran’s tour depart after removal of
   Macklemore over ‘free Palestine’ comments
 image: https://i.guim.co.uk/img/media/95a6b051d6c7fa35902b400c2bdedd98289ebd91/302_0_3023_2419/master/3023.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ca52a65c71ed67282d2048f0f71c6b8
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 All four supporting acts for upcoming dates of Ed Sheeran’s Loop tour have withdrawn in solidarity with fellow opening act Macklemore, as backlash grows to his removal from the tour over onstage comments in support of Palestine.

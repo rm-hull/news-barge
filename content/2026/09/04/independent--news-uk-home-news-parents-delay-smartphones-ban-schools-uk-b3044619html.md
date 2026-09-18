@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Parents who make a pact to delay giving their children smartphones until
   14 improve the mental health of the group as a whole, a study has suggested
 image: https://static.independent.co.uk/2026/05/27/7/10/iStock-1500076836.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- Health & Fitness
 ---
 
 Parents who collectively make a pact to delay giving their children smartphones until they are 14 years old improve the mental health of the group as a whole, a new study has suggested.

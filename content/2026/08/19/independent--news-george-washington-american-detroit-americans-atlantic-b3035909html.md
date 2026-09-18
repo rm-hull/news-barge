@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Ice cream was a rare and expensive treat for centuries because of the
   difficulty of storing ice
 image: https://static.independent.co.uk/2026/08/19/19/America_25__Objects_Ice_Cream_Cone__6995.jpg?trim=3,0,3,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Food & Cooking
 ---
 
 Read this quickly, before it melts.

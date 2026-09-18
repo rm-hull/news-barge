@@ -9,6 +9,10 @@ description: Hundreds of people gathered on Monday at a mass funeral in eastern 
   to mourn 27 young victims of a school fire, as families wept and officials laid
   down wreaths and made speeches
 image: https://static.independent.co.uk/2026/09/14/22/Congo_School_Fire_31979.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Hundreds of people gathered on Monday at a mass funeral in eastern Congo to mourn 27 young victims of a fire that engulfed two schools, as families wept and officials laid down wreaths and made speeches.

@@ -9,6 +9,9 @@ description: The Trump administration has been fighting with California official
   over offshore oil projects and the state's coastal commission, which works to protect
   the state's shores
 image: https://static.independent.co.uk/2026/09/03/15/California_Coast_Trump_46849.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Trump administration is ratcheting up its fight to get more crude flowing through California and reverse the state's efforts to move away from fossil fuels.

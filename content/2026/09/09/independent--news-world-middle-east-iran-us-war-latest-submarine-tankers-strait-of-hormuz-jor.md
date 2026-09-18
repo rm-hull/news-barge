@@ -8,6 +8,10 @@ scraped_at: '2026-09-09T12:56:32Z'
 published: '2026-09-09T00:00:00Z'
 description: Iranian rhetoric comes as US sanctions punish its ailing economy
 image: https://static.independent.co.uk/2026/09/09/1/07/GettyImages-2289908029.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The US says a submarine drone “malfunctioned” before it fell into Iranian hands, adding that it was an older model and not being used for sensitive operations.

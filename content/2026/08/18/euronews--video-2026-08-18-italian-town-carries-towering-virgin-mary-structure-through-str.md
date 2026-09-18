@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Video. Thousands gather in Sora, Italy, as devotees carry a 16-metre-high
   illuminated structure through the streets for the Feast of the Assumption.
 image: https://images.euronews.com/articles/stories/09/87/89/21/1200x675_cmsv2_c4271b3b-22a5-57a1-98c4-99b16400efe4-9878921.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 Thousands of people gathered in Sora, Italy, on 14 August for the traditional 'Macchina dell'Assunta' procession. Footage shows the 16-metre-high illuminated structure, topped by a statue of the Virgin Mary, being carried through the town's streets as crowds watch and join the celebrations.

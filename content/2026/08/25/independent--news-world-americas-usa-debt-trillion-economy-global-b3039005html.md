@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: US national debt has passed a record US$40 trillion. This milestone is
   a major warning sign
 image: https://static.independent.co.uk/2026/08/25/15/14/GettyImages-2290607514.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 US national debt has passed a record US$40 trillion (£29.4 trillion). This milestone is a major warning sign. It reveals vulnerabilities that threaten the long-term economic stability of the US and the rest of the world.

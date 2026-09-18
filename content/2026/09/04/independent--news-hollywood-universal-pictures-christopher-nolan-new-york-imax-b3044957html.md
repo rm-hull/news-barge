@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Hollywood has just wrapped up its best summer in a decade and its biggest
   vibe shift since the pandemic
 image: https://static.independent.co.uk/2026/09/04/17/Film-Summer_Box_Office_Comeback_21864.jpg?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 Hollywood has just wrapped up its best summer in a decade and its biggest vibe shift since the pandemic.

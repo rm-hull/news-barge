@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: A plug in solar kit that costs about $1,000 ‘pays for itself in three
   years’, one expert said
 image: https://i.guim.co.uk/img/media/a96d64488d367e4d6190b91daf678f11ea9f0511/1637_0_6024_4819/master/6024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=785972c3ba709f0f4530b8f279ab9cb4
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Millions of Australians could be saving up to $370 a year on energy bills and doing their bit for the climate crisis if Labor followed the UK’s lead in legalising plug-in solar panels, an advocacy group has said.

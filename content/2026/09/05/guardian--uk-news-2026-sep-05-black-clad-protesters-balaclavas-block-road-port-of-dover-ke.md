@@ -8,6 +8,9 @@ published: '2026-09-05T00:00:00Z'
 description: Traffic on A20 in and out of port grinds to halt as Kent police say they
   are in attendance and engaging with group
 image: https://i.guim.co.uk/img/media/65221c4d71bb8f0a612a43c5a17d4f810e567007/54_0_994_795/master/994.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=24fb34507238a364d94b5a968dfe3b23
+categories:
+- UK
+- News & Politics
 ---
 
 Dozens of people dressed in black and wearing balaclavas have blocked the road at the port of Dover in Kent, forcing closures in both directions.

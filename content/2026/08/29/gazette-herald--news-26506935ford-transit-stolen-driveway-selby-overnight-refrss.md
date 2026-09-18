@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: North Yorkshire Police a white Ford Transit van with grey decals was
   stolen from a driveway in the Selby area overnight between 10.50pm on Monday,…
 image: https://www.gazetteherald.co.uk/resources/images/21388570.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 *(Image: North Yorkshire Police)*

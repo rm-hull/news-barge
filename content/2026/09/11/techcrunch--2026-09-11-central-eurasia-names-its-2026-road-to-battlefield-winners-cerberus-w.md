@@ -11,6 +11,10 @@ description: Cerberus, WeGlobal AI, and LOOQ took the top three spots at the reg
   Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this
   October.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Regional-Final-R2B-2026-2.png?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Sports
 ---
 
 Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in Startup Battlefield 200 at TechCrunch Disrupt 2026 in San Francisco on October 13-15, before 10,000+ tech leaders attending. The three emerged from a field of 22 finalists, chosen from a record 726 applications across 39 countries. Meet these winners at Disrupt by **registering for your ticket here**.

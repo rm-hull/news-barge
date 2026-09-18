@@ -10,6 +10,10 @@ description: The Seinfeld and Curb Your Enthusiasm creator says Dershowitz, who 
   also defended Jeffrey Epstein and Harvey Weinstein, ‘only has himself to blame’
   for being ostracised
 image: https://i.guim.co.uk/img/media/9bcbdb9e43ba55ae32bfff48c924e9a9ce2d0489/263_0_2625_2100/master/2625.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=16c9c3df2707c0b9dca3642b4a4b6203
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Larry David has opened up about the collapse of his friendship with Alan Dershowitz, saying that Dershowitz “made a deal with the devil” when he became Donald Trump’s lawyer.

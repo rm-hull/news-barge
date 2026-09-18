@@ -13,6 +13,10 @@ description: Eric Wu, who built and ran Opendoor before stepping away in 2022, h
   Lennar to tackle a labor shortage severe enough that data center projects alone
   now need 4,000 to 5,000 workers apiece.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Construction-worker-Ray-Bans.png?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Careers & Productivity
 ---
 
 Eric Wu built and ran Opendoor, one of the more ambitious real estate startups of the last decade, before stepping away in 2022 after fast-rising interest rates abruptly slowed down home sales. He spent a year resetting — he’d been running the company for eight years at that point — and could have easily jumped into investing when he felt done with his hiatus. But like a lot of founders, he’s so convinced that AI will be the defining tech platform of his lifetime that he more recently decided instead to dive back into company building. As he told me during a call earlier this summer, “I knew if I looked back in 10 years and didn’t do something related to it, I’d probably regret that.”

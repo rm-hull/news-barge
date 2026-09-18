@@ -10,6 +10,10 @@ description: California governor’s name has been thrown out as a potential Dem
   candidate in the 2028 presidential election — as have AOC, Pete Buttigieg and Kamala
   Harris
 image: https://static.independent.co.uk/2026/09/15/1/14/GettyImages-2292819671.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 California Governor Gavin Newsom has revealed that he won’t run for president in 2028 if former Vice President Kamala Harris does.

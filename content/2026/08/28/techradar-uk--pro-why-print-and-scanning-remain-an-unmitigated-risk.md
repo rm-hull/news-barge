@@ -7,6 +7,8 @@ scraped_at: '2026-08-28T11:17:07Z'
 published: '2026-08-28T00:00:00Z'
 description: Printers and vendors are overlooked security risks with regulatory consequences
 image: https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A pink triangle with a red exclamation mark inside on a blue digital landscape](https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL.jpg) 

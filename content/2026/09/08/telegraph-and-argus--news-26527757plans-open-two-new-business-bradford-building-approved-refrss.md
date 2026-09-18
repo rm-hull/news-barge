@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: TWO new businesses could soon be opening in one of Bradford’s most prominent
   buildings – one that has links to King Charles.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21419451.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

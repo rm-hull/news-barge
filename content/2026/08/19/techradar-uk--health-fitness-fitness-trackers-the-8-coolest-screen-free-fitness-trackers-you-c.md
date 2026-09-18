@@ -8,6 +8,9 @@ scraped_at: '2026-08-19T21:32:46Z'
 published: '2026-08-19T00:00:00Z'
 description: Screenless supremacy?
 image: https://cdn.mos.cms.futurecdn.net/t5FC27dkbdH7sypuznnqDC-1920-80.jpg
+categories:
+- Technology & Software
+- Health & Fitness
 ---
 
 ![Garmin Cirqa, RingConn Gen 3, Google Fitbit Air](https://cdn.mos.cms.futurecdn.net/t5FC27dkbdH7sypuznnqDC.jpg) 

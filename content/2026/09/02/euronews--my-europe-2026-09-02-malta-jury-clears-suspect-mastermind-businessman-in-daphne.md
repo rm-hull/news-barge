@@ -9,6 +9,10 @@ description: 'His arrest in 2019, as he was sailing away from Malta on his yacht
   sparked a series of mass protests in the country that culminated with Prime Minster
   Muscat’s resignation. #EuropeNews'
 image: https://static.euronews.com/articles/stories/04/83/11/28/1200x675_cmsv2_09e2d377-a480-5cf6-a23e-fc9fc4a2ec59-4831128.jpg
+categories:
+- Europe
+- News & Politics
+- True Crime
 ---
 
 ## His arrest in 2019, as he was sailing away from Malta on his yacht, sparked a series of mass protests in the country that culminated with Prime Minster Muscat’s resignation.

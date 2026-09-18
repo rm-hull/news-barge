@@ -9,6 +9,10 @@ description: The independence vote in the Oxfordshire village has echoes of a 19
   Ealing comedy, political editor David Maddox notes – but Labour needs to understand
   that this is not a laughing matter
 image: https://static.independent.co.uk/2026/09/16/08/01M2MGX45H7AKP8KERD4G15M9Q.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 When nationalist leaders in Scotland, Wales and Northern Ireland banded together earlier this week – demanding the independence of their various nations – Andy Burnham probably did not appreciate he would face a separatist vote just days later.

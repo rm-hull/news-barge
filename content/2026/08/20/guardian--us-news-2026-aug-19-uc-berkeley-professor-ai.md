@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Zvezdelina Stankova says she used AI to ‘help edit’ an article about
   some of her students being ‘five to eight years’ behind
 image: https://i.guim.co.uk/img/media/b0737dbfc40f80895fc18921898acf8cea40f791/210_0_3876_3100/master/3876.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f5fe8a3bf0e63b21702fa773f1034c7
+categories:
+- UK
+- News & Politics
+- Education & Learning
+- Technology & Software
 ---
 
 A math professor at the University of California, Berkeley, criticizing a “severe” math deficiency among students in an op-ed for the San Francisco Standard, admitted to using artificial intelligence to help edit the piece.

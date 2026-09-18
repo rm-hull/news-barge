@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: The man had taken his two boys on the trip but is said to have left one
   behind when he got tired.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b92b/live/3baa1370-9dfb-11f1-898b-91bf436c749f.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Mount Fuji is pictured from the skies with a ring of white cloud bordering the frame of the image](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/b92b/live/3baa1370-9dfb-11f1-898b-91bf436c749f.jpg)

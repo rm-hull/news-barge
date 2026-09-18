@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: The US Army is putting $192 million behind TITAN as Palantir and Anduril
   begin building battlefield data systems
 image: https://cdn.mos.cms.futurecdn.net/PNWqRia2RbH5kXxRw7ajM5-1920-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Palantir](https://cdn.mos.cms.futurecdn.net/PNWqRia2RbH5kXxRw7ajM5.png) 

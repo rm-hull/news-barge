@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A long-established Durham charity which has raised hundreds of thousands
   of pounds for local good causes over the past 50 years is appealing for new…
 image: https://www.thenorthernecho.co.uk/resources/images/21452298.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

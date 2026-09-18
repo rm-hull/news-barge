@@ -9,6 +9,9 @@ published: '2026-09-12T00:00:00Z'
 description: Donald Trump’s last-ditch midterms pitch to voters comes as Republican
   candidates are falling behind in polling red-purple states, writes John Bowden
 image: https://static.independent.co.uk/2026/09/11/20/2294075557..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump’s latest desperate act has even Republicans scratching their heads.

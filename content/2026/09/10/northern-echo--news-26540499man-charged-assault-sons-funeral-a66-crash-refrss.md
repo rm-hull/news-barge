@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A man has been charged with assault and obstructing police at a funeral
   for one of five young men killed in a head-on crash with a marked police car…
 image: https://www.thenorthernecho.co.uk/resources/images/21364637.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: SOCIAL MEDIA)*

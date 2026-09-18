@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Russia has launched a large aerial assault in and around Ukraine's capital
   that has killed at least 11 people
 image: https://static.independent.co.uk/2026/09/01/07/Russia_Ukraine_War_81992.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Russia launched a large aerial assault in and around Ukraine’s capital overnight into Tuesday morning, killing at least 11 people and wounding more than a dozen others, including three children, local authorities said.

@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Met Office forecasts heavy rain, thunderstorms and strong winds for the
   UK over the bank holiday weekend.
 image: https://www.yorkpress.co.uk/resources/images/21382482.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: Getty Images)*

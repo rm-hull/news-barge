@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The 17-year-olds were charged over an alleged attack in Sydney’s south-west
   on Saturday
 image: https://i.guim.co.uk/img/media/3f3ea57854e32ae76adc806360e6bbb03bd05d0f/334_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6cd8acd387342d53b45f742db3389969
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Three teenage boys have been charged over the alleged rape of a 17-year-old girl at a home in Sydney’s south-west on Saturday.

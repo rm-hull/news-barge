@@ -9,6 +9,10 @@ description: The U.S. government has announced a drought disaster for more than 
   dozen cities and towns in Puerto Rico as water woes deepen across the U.S. territory,
   with no relief in sight
 image: null
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 The U.S. government announced a drought disaster on Wednesday for more than two dozen cities and towns in Puerto Rico as water woes deepen across the U.S. territory, with no relief in sight.

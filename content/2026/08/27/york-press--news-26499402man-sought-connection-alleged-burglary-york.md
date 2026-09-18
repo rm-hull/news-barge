@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Police investigating an alleged burglary in Acorn Way, York, have issued
   a photograph of a man officers want to speak to.
 image: https://www.yorkpress.co.uk/resources/images/21377371.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
+- News & Politics
 ---
 
 *(Image: North Yorkshire Police)*

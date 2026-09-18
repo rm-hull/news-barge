@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A man who admitted street-level cannabis dealing has been jailed for
   offences committed in December 2022.
 image: https://www.thenorthernecho.co.uk/resources/images/21451309.jpg?type=og-image&xType=0&yType=72
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Durham Constabulary)*

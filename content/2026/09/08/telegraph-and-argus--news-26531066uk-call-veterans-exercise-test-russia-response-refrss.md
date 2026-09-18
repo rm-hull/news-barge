@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Military veterans are set to be called up as Britain strengths its preparations
   to face the growing threat from Russia.
 image: https://www.thetelegraphandargus.co.uk/resources/images/16078739.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: MoD)*

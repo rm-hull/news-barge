@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: OpenAI said that the integration provides read-only access to health
   records for clinicians.
 image: https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024
+categories:
+- Health & Fitness
+- Technology & Software
 ---
 
 OpenAI said today that it is integrating ChatGPT Health with Epic’s electronic health record (EHR) system, which holds data for over 325 million patients, to let clinicians import patient data and use AI to ask questions. The company said that in certain systems, it will also integrate ChatGPT directly within EHR workflows.

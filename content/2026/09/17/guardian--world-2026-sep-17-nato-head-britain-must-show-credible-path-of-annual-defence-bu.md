@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Mark Rutte said Britain will need to steadily increase defence spending
   to meet Nato target of 3.5% of GDP by 2035
 image: https://i.guim.co.uk/img/media/a57ab9d2d223b448c7a786cea4716a01fd234f15/58_0_1349_1080/master/1349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e0d0704c92315e8950a49df271bfe6c
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Britain needs to show “a credible path” of annual increases in its defence budgets to meet a Nato target of spending nearly £30bn more on the military by the middle of the next decade, the head of the alliance said on Thursday.

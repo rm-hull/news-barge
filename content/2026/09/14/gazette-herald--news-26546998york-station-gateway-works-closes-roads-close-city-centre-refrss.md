@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: City of York Council said Queen Street and Station Road will close from
   8pm tonight (September 14) while the works are undertaken.
 image: https://www.gazetteherald.co.uk/resources/images/21141718.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Newsquest)*

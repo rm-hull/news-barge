@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Scale of deportations made public for first time amid criticism of hardline
   approach to UK citizens
 image: https://i.guim.co.uk/img/media/70d8578212a00fd82f4c8824245e1ff0e02cdbd7/0_1149_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33428b53eb3e4c5f5457ebf375cad87a
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Sweden has confirmed 458 British citizens have been deported or forcibly removed by police since Brexit.

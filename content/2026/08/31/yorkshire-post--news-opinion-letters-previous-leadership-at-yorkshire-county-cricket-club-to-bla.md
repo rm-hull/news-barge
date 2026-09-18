@@ -8,6 +8,11 @@ scraped_at: '2026-08-31T16:08:04Z'
 published: '2026-08-31T00:00:00Z'
 description: 'From: Tim Emmott, Sovereign House, Harrogate.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjk0MzE3Y2QxLWQwOTctNGQ3Yy1iNzQyLWVjM2Q1ZjljZmM3Zjo5MzU0YzA3NC02MDY0LTQ1NjUtODRjZC0wYjFjMDNkNGZlMTg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Previous leadership at Yorkshire County Cricket Club to blame for a lack of tests at Headingley - Yorkshire Post Letters

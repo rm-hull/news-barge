@@ -9,6 +9,11 @@ description: Adam Lyth's half-century backed up George Hill's five-wicket haul a
   Yorkshire and Hampshire trade blows in their County Championship clash at Utilita
   Bowl.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2241/live/89bee090-9d92-11f1-9233-8716b68cda7b.jpg
+categories:
+- Local
+- Harrogate
+- Sports
+- History
 ---
 
 ![Yorkshire's George Hill bowls a delivery](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/2241/live/89bee090-9d92-11f1-9233-8716b68cda7b.jpg)

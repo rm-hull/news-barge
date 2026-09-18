@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Liberia’s former vice president has been sent to prison to await trial
   on drug trafficking and other charges
 image: https://static.independent.co.uk/2026/08/19/21/Liberia_Drugs_27_64.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Liberia's former vice president was sent to prison on Tuesday to await trial on drug trafficking and other charges, after a court in the West African country denied her request to be released on humanitarian grounds for medical treatment.

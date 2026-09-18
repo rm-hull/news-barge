@@ -8,6 +8,9 @@ scraped_at: '2026-08-25T16:50:45Z'
 published: '2026-08-25T00:00:00Z'
 description: Uber hit with second-largest GDPR fine
 image: https://cdn.mos.cms.futurecdn.net/ipCFiKhTNtyRt4De2BoRPL-1600-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Uber Eats](https://cdn.mos.cms.futurecdn.net/ipCFiKhTNtyRt4De2BoRPL.jpg) 

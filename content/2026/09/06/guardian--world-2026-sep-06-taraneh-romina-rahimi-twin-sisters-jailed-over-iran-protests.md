@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: Taraneh Rahimi was told prison guards would rape her sister, Romina,
   if she did not sign a confession
 image: https://i.guim.co.uk/img/media/ce72bfd109e3793dc187f3eab311d7996bee2a51/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=56a356aafd04a4449db4f3ed6aae7fdf
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 The twins were 19 and still in high school when they were taken from their beds in the dead of night by masked men later identified as being sent by the Islamic Revolutionary Guards Corps.

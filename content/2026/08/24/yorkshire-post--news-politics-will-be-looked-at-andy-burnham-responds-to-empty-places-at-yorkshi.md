@@ -10,6 +10,11 @@ description: Andy Burnham has said the possibility of filling hundreds of curren
   to reduce the mass early release of criminals including the killers of PC Andrew
   Harper.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjUxNmU4MGJkLTg3NzQtNGJkOS05MDIyLTVhMzJkOGE0YzEzZjo5ZGVlNTBkMC03ZTM3LTQyYzAtYmI0Zi1lZDhhOWRlYmI5ZWY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # ‘Will be looked at’: Andy Burnham responds to empty places at Yorkshire ‘super-prison’ as early release decision looms

@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: A uniquely designed five-bedroom family home in Sundew Heath, Harrogate,
   is on sale for £525,000.
 image: https://www.yorkpress.co.uk/resources/images/21303363.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 ## Look inside the unique £525,000 Harrogate home with artist’s studio and gym

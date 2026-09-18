@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: York City FC has kicked off the new season with a sponsorship deal for
   the 26/27 season with Specsavers York.
 image: https://www.gazetteherald.co.uk/resources/images/21412091.jpg?type=og-image&xType=0&yType=175
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 *(Image: Supplied)*

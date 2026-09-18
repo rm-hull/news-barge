@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Laura Jones, 32, says she ‘cannot believe people walk around without
   any pain’ after suffering for decades with multiple health conditions
 image: https://static.independent.co.uk/2026/09/02/15/37/Laura-Jones.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A woman with endometriosis has been left to feel like a “drug addict” as she says she needs strong painkillers to make it through the day.

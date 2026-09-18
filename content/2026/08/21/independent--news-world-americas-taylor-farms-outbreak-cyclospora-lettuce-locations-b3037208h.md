@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: There are now 27,000 cases of the parasitic infection reported across
   the country
 image: https://static.independent.co.uk/2026/08/11/20/2285922462..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- True Crime
 ---
 
 America’s largest outbreak of deadly explosive diarrhea-causing cyclosporiasis may have just gotten even bigger.

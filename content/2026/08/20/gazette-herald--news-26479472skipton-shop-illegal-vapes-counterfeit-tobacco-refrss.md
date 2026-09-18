@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: North Yorkshire consumer watchdogs found illegal vapes and counterfeit
   tobacco hidden in sweet boxes in a store that put profit above public safety.
 image: https://www.gazetteherald.co.uk/resources/images/21343834.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 *(Image: North Yorkshire Council)*

@@ -7,6 +7,11 @@ scraped_at: '2026-08-25T16:51:17Z'
 published: '2026-08-25T00:00:00Z'
 description: A “much-loved” York man, 37, died by suicide, a coroner has concluded.
 image: https://www.gazetteherald.co.uk/resources/images/10884849.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 *(Image: Richard Doughty Photography.)*

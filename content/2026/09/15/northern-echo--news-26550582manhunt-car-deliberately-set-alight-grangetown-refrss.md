@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Emergency services were called to the A1053 on Greystones Road just after
   midnight on Monday (September 14), following reports of an overturned…
 image: https://www.thenorthernecho.co.uk/resources/images/21456014.jpg?type=og-image&xType=0&yType=10
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: GOOGLE)*

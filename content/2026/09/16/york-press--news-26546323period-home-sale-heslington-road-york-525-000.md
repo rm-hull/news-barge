@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: A "charming" period home has hit the market in Heslington Road, York,
   for £525,000.
 image: https://www.yorkpress.co.uk/resources/images/21448013.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 ## ‘Charming’ period home hits the market in York – have a look inside

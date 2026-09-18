@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: A Newton Aycliffe man was prosecuted and ordered to pay more than £900
   after failing to clear waste from his property.
 image: https://www.thenorthernecho.co.uk/resources/images/21433292.jpg?type=og-image&xType=0&yType=98
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: DURHAM COUNTY COUNCIL)*

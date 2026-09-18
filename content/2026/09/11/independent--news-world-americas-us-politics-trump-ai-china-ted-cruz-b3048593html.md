@@ -9,6 +9,9 @@ description: President Donald Trump rejects anxiety over potential existential t
   posed by artificial intelligence but warns against allowing China to take the lead
   in developing it
 image: https://static.independent.co.uk/2026/09/11/12/2026-09-11T034031Z_1093061284_RC2RGNADY2UE_RTRMADP_3_USA-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump has dismissed concerns about artificial intelligence posing an existential threat to humanity but stressed it was important for the U.S. to “win” the battle for control of the technology with China.

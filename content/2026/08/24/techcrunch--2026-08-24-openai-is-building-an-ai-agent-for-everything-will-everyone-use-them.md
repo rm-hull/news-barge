@@ -8,6 +8,9 @@ published: '2026-08-24T00:00:00Z'
 description: Inside the frontier lab’s push to bring AI agents from software engineers
   to the masses.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-23-at-8.41.55-PM.png?w=729
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 How much control are you willing to give an LLM over your digital life?

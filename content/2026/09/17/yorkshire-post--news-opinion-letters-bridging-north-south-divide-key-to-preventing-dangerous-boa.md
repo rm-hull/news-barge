@@ -8,6 +8,11 @@ scraped_at: '2026-09-17T13:23:33Z'
 published: '2026-09-17T00:00:00Z'
 description: 'From: Bryn Glover, Dallowgill, Kirkby Malzeard, Ripon.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmRhYzFiNjg0LWJkZWQtNDEwYi1iMTU4LTIzZWNhYmUyMmRlNTo4YjNlMTQwMi0yNDZiLTQ4MTUtODc0NC0zYzI4MDc2MmI5NGQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Bridging North-South divide key to preventing dangerous boat crossings - Yorkshire Post Letters

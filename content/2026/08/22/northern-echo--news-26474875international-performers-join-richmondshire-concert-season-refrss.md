@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Classical music lovers in North Yorkshire are being promised a season
   packed with internationally acclaimed performers as Richmondshire Concerts…
 image: https://www.thenorthernecho.co.uk/resources/images/21329724.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 *(Image: Supplied)*

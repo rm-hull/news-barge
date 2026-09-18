@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: A York office building could be converted into a place of worship under
   new plans.
 image: https://www.gazetteherald.co.uk/resources/images/21408455.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

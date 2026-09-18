@@ -7,6 +7,11 @@ scraped_at: '2026-09-01T19:22:38Z'
 published: '2026-09-01T00:00:00Z'
 description: Autumn has arrived, and the weather is getting cosier.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmU0MGM5MTgyLWY0YTEtNDY2NC05ODQ1LThiNTE2NWQwMTUxMjo3MTYzYmM0ZC0zMDQwLTQ2YmItOGVkYy02OWVjMTI0ZWVhOWY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # The best places to see Yorkshire's autumn leaves

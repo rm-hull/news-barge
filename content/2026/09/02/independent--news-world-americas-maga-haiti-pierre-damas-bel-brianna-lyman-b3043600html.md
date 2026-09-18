@@ -10,6 +10,10 @@ description: The family of Pierre Damas Bel says the 20-year-old college student
   his own life after losing his temporary protected status and was forced to wear
   an ankle monitor
 image: https://static.independent.co.uk/2026/09/02/15/16/Screenshot-2026-09-02-at-11-34-33-AM.png?trim=0,38,0,38&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A MAGA pundit appeared to blame a Haitian immigrant for endangering the lives of Americans on the road when he reportedly took his own life by walking into traffic.

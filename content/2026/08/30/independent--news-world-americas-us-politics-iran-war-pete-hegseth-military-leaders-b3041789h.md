@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: Some of the military’s top brass were prompted to speak out after it
   was revealed that troops could remain in the Middle East into 2027
 image: https://static.independent.co.uk/2026/08/30/15/2275243533..?trim=0,4,0,4&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A recent Pentagon assessment warned Defense Secretary Pete Hegseth that maintaining the current level of military operations against Iran could leave the U.S. less able to respond to threats elsewhere and protect the homeland, according to a new report.

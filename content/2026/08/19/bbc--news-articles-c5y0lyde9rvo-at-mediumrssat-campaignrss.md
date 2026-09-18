@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Harvard Medical School has agreed to pay $53 million to families who
   alleged the school mishandled the donated remains of loved ones.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40e2/live/b9987e60-9b4a-11f1-a4d5-27953a73ef84.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![The main building of Harvard Medical School](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/40e2/live/b9987e60-9b4a-11f1-a4d5-27953a73ef84.jpg)

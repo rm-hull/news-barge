@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Joe Black Coffee Roasters is set to close after 76 years in business,
   having entered voluntary liquidation.
 image: https://www.yorkpress.co.uk/resources/images/21466114.jpg?type=og-image&xType=0&yType=144
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

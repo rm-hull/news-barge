@@ -8,6 +8,11 @@ scraped_at: '2026-08-27T22:14:06Z'
 published: '2026-08-27T00:00:00Z'
 description: Another major investmnet in AI ecosystem?
 image: https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Nvidia](https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf.jpg) 

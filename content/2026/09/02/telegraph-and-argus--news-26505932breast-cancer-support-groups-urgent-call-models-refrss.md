@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: A breast cancer support group could be forced to cancel a fashion show
   due to a lack of support.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21387111.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Bosom Friends Bradford)*

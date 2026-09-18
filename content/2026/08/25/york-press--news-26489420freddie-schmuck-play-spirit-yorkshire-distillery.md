@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Freddie Schmuck will perform at the Pot Still Coffee Shop at Spirit of
   Yorkshire Distillery in Hunmanby.
 image: https://www.yorkpress.co.uk/resources/images/21362319.jpg?type=og-image&xType=0&yType=199
+categories:
+- Local
+- York
+- Music
 ---
 
 *(Image: Spirit of Yorkshire Distillery)*

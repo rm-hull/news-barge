@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T12:53:22Z'
 published: '2026-09-10T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/middleham-bridge-north-yorkshire-road-closed-ldrs.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 A bus service linking Middleham, Leyburn and Ripon is operating to an emergency timetable following the closure of Middleham Bridge.

@@ -9,6 +9,10 @@ description: The European Central Bank has raised interest rates by a quarter po
   lifting its deposit rate to 2.5%, as the energy shock driven by the Iran war pushes
   eurozone inflation higher and forces a second hike in three months.
 image: https://images.euronews.com/articles/stories/09/90/74/17/1200x675_cmsv2_463b6d43-9905-5262-af4a-109197edefe6-9907417.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ## The European Central Bank has raised interest rates by a quarter point, lifting its deposit rate to 2.5%, as the energy shock driven by the Iran war pushes eurozone inflation higher and forces a second hike in three months.

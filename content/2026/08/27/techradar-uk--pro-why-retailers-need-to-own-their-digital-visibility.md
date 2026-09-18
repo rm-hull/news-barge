@@ -7,6 +7,9 @@ scraped_at: '2026-08-27T12:01:01Z'
 published: '2026-08-27T00:00:00Z'
 description: The website remains valuable as AI changes online discovery
 image: https://cdn.mos.cms.futurecdn.net/vUGGQXBvMLxK65oJegUwgk-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Someone typing at a keyboard, with an ecommerce shopping cart symbol floating in the air.](https://cdn.mos.cms.futurecdn.net/vUGGQXBvMLxK65oJegUwgk.jpg) 

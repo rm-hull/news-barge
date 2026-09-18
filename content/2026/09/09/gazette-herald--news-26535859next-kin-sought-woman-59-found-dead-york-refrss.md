@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A woman has been found dead in York. North Yorkshire Police has joined
   the Coroner's Office in helping to find her next of kin.
 image: https://www.gazetteherald.co.uk/resources/images/21176571.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: PA)*

@@ -13,6 +13,9 @@ description: Westminster is back, and so is conference season, beginning with Re
   come out weekly. Listen to the latest on Apple Podcasts and Spotify, or watch on
   YouTube.
 image: https://cdn.jwplayer.com/v2/media/dsDApXYE/poster.jpg?width=720
+categories:
+- News & Politics
+- UK
 ---
 
 ## Showing now | In The Room

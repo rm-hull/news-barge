@@ -9,6 +9,11 @@ published: '2026-09-06T00:00:00Z'
 description: An eastern German region is voting in an election that could bring to
   power the first far-right state government in the nation’s post-World War II history
 image: https://static.independent.co.uk/2026/09/06/11/Germany_Election_17188.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 An eastern German region was voting Sunday in an election that could bring to power the first far-right state government in the nation’s post-World War II history.

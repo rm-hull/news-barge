@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Despite recent wet conditions, ‘further significant rainfall’ is needed
   before drought conditions can end, environment bosses warn
 image: https://static.independent.co.uk/2026/09/08/10/14/Screenshot-2026-09-08-at-11-21-51.png?trim=172,0,173,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 After a summer of record-breaking heatwaves and extreme dry conditions, rain is falling on England again.

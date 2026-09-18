@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: A visual look at how Washington’s relationship with Caracas has gone
   from cordial to ‘predatory’
 image: https://i.guim.co.uk/img/media/f786c71cadf0bb98e3424bcac0ec21b74a90ec6c/1_0_4998_4000/master/4998.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4eb54abebd954f1470b3fd7502602320
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Written in the middle of the last century, the US Department of State memo conveys its message in a curt and undiplomatically honest tone: the glue that binds Washington to Caracas is, and is always likely to be, oil.

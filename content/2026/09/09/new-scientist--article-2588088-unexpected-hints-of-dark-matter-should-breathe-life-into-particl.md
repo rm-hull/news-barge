@@ -10,6 +10,9 @@ description: With little in the way of significant discoveries since 2012, there
   been mutterings that particle physics is at a dead end. However, new dark matter
   results suggest an exciting new way to hunt for reality's undiscovered ingredients
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310675902.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310675902.jpg?w=840)

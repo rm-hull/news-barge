@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Le Creuset is bringing its biggest UK Factory to Table Sale back to Harrogate
   later this month.
 image: https://mmo.aiircdn.com/409/6a9aa536a514210e27c.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9aa536a514210e27c.jpg) 

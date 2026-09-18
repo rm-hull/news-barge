@@ -10,6 +10,11 @@ published: '2026-08-27T00:00:00Z'
 description: Bipartisan resistance seems to come from reported and observable impacts
   at other sites.
 image: https://cdn.mos.cms.futurecdn.net/ZJHe5GD6PvvVnP72E7Miu5-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- News & Politics
+- Society & Culture
 ---
 
 ![A 'No Data Center!' sign at a protest](https://cdn.mos.cms.futurecdn.net/ZJHe5GD6PvvVnP72E7Miu5.png) 

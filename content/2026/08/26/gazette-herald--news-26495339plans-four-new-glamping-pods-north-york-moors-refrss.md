@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A SET of new remotely managed glamping pods could be built in the North
   York Moors National Park.
 image: https://www.gazetteherald.co.uk/resources/images/21371504.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 A SET of new remotely managed glamping pods could be built in the North York Moors National Park.

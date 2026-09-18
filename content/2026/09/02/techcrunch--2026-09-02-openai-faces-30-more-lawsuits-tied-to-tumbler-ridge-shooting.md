@@ -9,6 +9,8 @@ description: Edelson PC is filing 30 new lawsuits against OpenAI over the Tumble
   Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane,
   though evidence remains unconfirmed.
 image: https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024
+categories:
+- Technology & Software
 ---
 
 Edelson PC, the law firm that filed seven lawsuits against OpenAI in April on behalf of victims and families connected to the Tumbler Ridge mass shooting, is filing 30 additional complaints this week. The new plaintiffs include teachers, a principal, and students who were in the building during the attack but not physically shot.

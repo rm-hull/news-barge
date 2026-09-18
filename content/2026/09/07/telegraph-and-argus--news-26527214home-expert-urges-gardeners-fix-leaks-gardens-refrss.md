@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Frogs can become quite noisy if they shelter in your garden but there
   is an easy way to deter them from your home.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21417242.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
 ---
 
 As the autumn starts, the weather is likely to get a lot cooler and wetter, which should help revive plants in your garden.

@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Police have closed roads near Middlesbrough's Riverside Stadium after
   an 'incident'.
 image: https://www.thenorthernecho.co.uk/resources/images/21454360.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 - Welcome to The Northern Echo's live blog on an incident on Dockside Road, Middlesbrough.

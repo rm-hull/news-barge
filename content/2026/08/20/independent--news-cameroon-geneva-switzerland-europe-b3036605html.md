@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: President Paul Biya has returned to Cameroon after more than two months
   abroad
 image: https://static.independent.co.uk/2026/08/06/13/Cameroon_Biya_6_794.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 President Paul Biya returned Thursday to Cameroon after staying abroad for more than two months, which had raised concerns about the 93-year-old leader's health and a possible power vacuum in the Central African country.

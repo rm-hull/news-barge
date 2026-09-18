@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Designer Outlet York welcomed more than 800,000 shoppers during a busy
   summer 2026 season.
 image: https://www.yorkpress.co.uk/resources/images/21400321.jpg?type=og-image&xType=0&yType=137
+categories:
+- Local
+- York
+- Lifestyle & Fashion
+- Business & Entrepreneurship
 ---
 
 ## New shops and 800,000 summer shoppers - life at popular York shopping centre

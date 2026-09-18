@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Aston Villa, Manchester City and Newcastle are closing in on Monaco's
   record for transfer income generated in a single window.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b41f/live/6abb1df0-a141-11f1-9311-09d4e1fc9016.png
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Sandro Tonali, Morgan Rogers and Savinho are shown in Tottenham, Chelsea and Manchester City shirts](https://ichef.bbci.co.uk/ace/standard/1552/cpsprodpb/b41f/live/6abb1df0-a141-11f1-9311-09d4e1fc9016.png)

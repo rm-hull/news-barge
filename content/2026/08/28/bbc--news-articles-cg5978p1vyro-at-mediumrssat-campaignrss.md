@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: The mural on a snooker club wall has gone viral - but artist says "touch-ups"
   are still needed.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1594/live/6fc84100-a20f-11f1-9090-b51af3a01fc2.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![A large painted wall showing a snooker player dressed in black about to take a shot on the table](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/1594/live/6fc84100-a20f-11f1-9090-b51af3a01fc2.jpg)

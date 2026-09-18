@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: In Spain, the traditional folding hand fan is all the rage amid the summer's
   intense heat
 image: https://static.independent.co.uk/2026/09/01/10/17/iStock-2243601039.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 A traditional accessory has become ubiquitous across crowded Spanishmetro carriages and sunlit plazas this year, driven by the intense summer heat.

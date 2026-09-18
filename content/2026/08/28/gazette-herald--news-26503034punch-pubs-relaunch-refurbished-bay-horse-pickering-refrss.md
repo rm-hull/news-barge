@@ -7,6 +7,12 @@ scraped_at: '2026-08-28T22:15:30Z'
 published: '2026-08-28T00:00:00Z'
 description: A pub has reopened its doors in Pickering following a major investment.
 image: https://www.gazetteherald.co.uk/resources/images/21382695.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 A Ryedale pub has reopened its doors following a major investment.

@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: This would be Meghan's first significant acting role since her marriage
   to Prince Harry.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9235/live/6a8b1d10-7bcd-11f1-b543-9988255dfa81.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ![Duchess of Sussex, head and shoulders pic](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/9235/live/6a8b1d10-7bcd-11f1-b543-9988255dfa81.jpg)

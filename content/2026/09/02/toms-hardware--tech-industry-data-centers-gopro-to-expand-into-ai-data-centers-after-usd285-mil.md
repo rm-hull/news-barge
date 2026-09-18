@@ -10,6 +10,11 @@ published: '2026-09-02T00:00:00Z'
 description: The deal still needs final approval from the shareholders of both companies,
   though.
 image: https://cdn.mos.cms.futurecdn.net/uL6kyfvTkZobmzEhtKSn6F-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![a GoPro Hero13 Black](https://cdn.mos.cms.futurecdn.net/uL6kyfvTkZobmzEhtKSn6F.png) 

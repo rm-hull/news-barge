@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T19:06:46Z'
 published: '2026-09-10T00:00:00Z'
 description: Only about 70 big-fin squid have ever been observed or collected
 image: https://static.independent.co.uk/2026/09/10/6/47/Deepsea-bigfin-squid-spotted-off-California-coast.jpeg?trim=0,240,192,529&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 An elusive deep-sea squid has been filmed in a rare encounter off the coast of California, marking the first time the species has been spotted in the northeastern Pacific region.

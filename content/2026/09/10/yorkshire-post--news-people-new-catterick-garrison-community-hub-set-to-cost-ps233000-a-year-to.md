@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: North Yorkshire Council will need to pay £233,000 a year to operate a
   new community building being built in Catterick Garrison.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI1ODZkYmYzLTU4YzEtNDIyOS05Njg2LTllZTQ2YzBiN2Y4YjpmYmJjODY3Zi1jNmIxLTQ5YmEtYmQ2NC1iYmQ5NDdmODlkMTE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 # New Catterick Garrison community hub set to cost £233,000 a year to run

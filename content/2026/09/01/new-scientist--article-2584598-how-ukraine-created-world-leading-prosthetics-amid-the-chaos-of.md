@@ -9,6 +9,10 @@ description: Injuries from the war in Ukraine have forced the country to develop
   advanced prostheses and fit them in record numbers. What can the rest of the world
   learn from its efforts?
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308183988.jpg
+categories:
+- Science
+- Technology & Software
+- History
 ---
 
 ![Esper Hand retopology](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308183988.jpg?w=840)

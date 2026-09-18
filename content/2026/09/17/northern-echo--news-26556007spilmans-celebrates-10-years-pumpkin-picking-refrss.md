@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Spilmans, one of Yorkshire’s biggest pick-your-own farms is marking a
   decade of pumpkin picking, with more than 175,000 pumpkins ready for harvest…
 image: https://www.thenorthernecho.co.uk/resources/images/21464469.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Spilmans)*

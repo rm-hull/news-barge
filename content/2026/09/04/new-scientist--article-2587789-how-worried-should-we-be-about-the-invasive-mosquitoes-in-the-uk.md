@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Invasive mosquitoes that can carry viruses like dengue, chikungunya and
   Zika have been found breeding in east London
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310691631.jpg
+categories:
+- Science
+- Technology & Software
+- News & Politics
 ---
 
 ![An Aedes aegypti mosquito](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310691631.jpg?w=840)

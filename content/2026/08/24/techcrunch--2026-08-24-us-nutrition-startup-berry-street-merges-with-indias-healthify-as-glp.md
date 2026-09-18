@@ -9,6 +9,8 @@ published: '2026-08-24T00:00:00Z'
 description: Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht
   will act as co-CEOs of the new entity.
 image: https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1203768533.jpg?resize=1200,801
+categories:
+- Business & Entrepreneurship
 ---
 
 U.S. nutrition startup Berry Street said on Monday it has merged with Khosla Ventures-backed Indian startup Healthify to bank on the popular trend of people turning to GLP-1 drugs to lose weight.

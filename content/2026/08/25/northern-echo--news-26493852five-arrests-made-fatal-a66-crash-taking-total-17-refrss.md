@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Five more people have been arrested and a man has been charged following
   a major investigation into the events leading up to the fatal A66 crash.
 image: https://www.thenorthernecho.co.uk/resources/images/21358362.jpg?type=og-image&xType=0&yType=41
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Five more people have been arrested and a second man charged as part of a major investigation into the events leading up to a horror crash on the A66.

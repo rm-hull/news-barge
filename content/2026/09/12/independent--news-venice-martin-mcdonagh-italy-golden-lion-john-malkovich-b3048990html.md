@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: The 83rd Venice Film Festival wraps up Saturday with the jury awards,
   including the Golden Lion
 image: https://static.independent.co.uk/2026/09/11/20/Italy_Venice_Film_Festival_Primetime_Red_Carpet_83_46.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Arts & Culture
 ---
 
 The 83rd Venice Film Festival ends Saturday with the presentation of jury awards including the Golden Lion for best film.

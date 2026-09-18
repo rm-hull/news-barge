@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Film crews have descended on Saltburn for a new Netflix series - with
   an international movie star spotted on set.
 image: https://www.thenorthernecho.co.uk/resources/images/21430006.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 *(Image: JULIE HUNT)*

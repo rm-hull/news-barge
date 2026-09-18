@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Police have resumed the search for the body of a woman who was murdered
   more than 30 years ago - as her killer makes a bid for freedom.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/15/18/19/Peter-Turner-to-apply-to-be-released-from-prison.jpeg?trim=40,0,40,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Murderer in bid for freedom as police continue to search for body after more than 30 years

@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Climate change-driven drought and heat is turning leaves brown earlier
   than usual in some areas
 image: https://static.independent.co.uk/2026/08/26/13/39/GettyImages-56056827.jpeg?trim=0,201,0,201&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 This fall’s foliage forecast is out, telling leaf peepers where they can see the best colors of the season.

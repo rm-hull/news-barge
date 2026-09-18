@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Workers could turn 19 days of annual leave into 47 days away from work
   next year by cleverly booking around the 2027 bank holidays.
 image: https://www.gazetteherald.co.uk/resources/images/21365156.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Careers & Productivity
 ---
 
 *(Image: Getty Images)*

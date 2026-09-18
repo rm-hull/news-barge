@@ -9,6 +9,10 @@ description: Chinese President Xi Jinping’s return to Cairo comes as Egypt and
   push their relationship beyond infrastructure and trade into technology, defence
   and a broader strategic partnership with regional implications.
 image: https://images.euronews.com/articles/stories/09/89/72/65/1200x675_cmsv2_5dac4ebe-9f65-5dad-bcab-7a48c0fe9d95-9897265.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Chinese President Xi Jinping’s return to Cairo comes as Egypt and China push their relationship beyond infrastructure and trade into technology, defence and a broader strategic partnership with regional implications.

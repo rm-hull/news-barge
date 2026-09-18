@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Matt Bradley and crew assaulted while interviewing woman who said settlers
   had driven family out of home
 image: https://i.guim.co.uk/img/media/81e4145c4f90c62703e678a89b5ee0d33d54f09d/282_35_653_523/master/653.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c130b5b385eda128f557e0b1e105fb28
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 A Palestinian woman and an NBC News team are reported to have been attacked and injured by masked Israeli settlers in the Israeli-occupied West Bank on Saturday, amid worsening confrontations in the area.

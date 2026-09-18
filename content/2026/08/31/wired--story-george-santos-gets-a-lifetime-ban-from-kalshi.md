@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The former US representative was also fined more than $71,000 for allegedly
   attempting to manipulate the prediction market.
 image: https://media.wired.com/photos/6a958e6735670edd292eaf69/191:100/w_1280,c_limit/george-santos-kalshi.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
 ---
 
 Former Republican congressman George Santos has received a first-of-its-kind lifetime ban from the prediction market platform Kalshi, which has also fined him $71,356 for violating its rules around insider trading and market manipulation.

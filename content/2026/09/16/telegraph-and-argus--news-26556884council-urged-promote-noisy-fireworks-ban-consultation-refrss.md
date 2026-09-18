@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Not only should a council respond to Government consultation over restricting
   sale of excessively loud fireworks, it should promote it to local…
 image: https://www.thetelegraphandargus.co.uk/resources/images/16089182.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Not only should a council respond to Government consultation over restricting sale of excessively loud fireworks, it should promote it to local organisations who may have an interest in it.

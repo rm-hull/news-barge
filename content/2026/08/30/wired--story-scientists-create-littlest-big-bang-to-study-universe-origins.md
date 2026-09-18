@@ -8,6 +8,9 @@ published: '2026-08-30T00:00:00Z'
 description: The discovery redefines how large atoms need to be to produce the extreme
   state of matter found in the early universe.
 image: https://media.wired.com/photos/6a91cdabbb3a85e785f50a72/191:100/w_1280,c_limit/2191305242
+categories:
+- Technology & Software
+- Science
 ---
 
 In the very first moments of the universe, matter didn’t exist as we know today. A millionth of a second or so after the big bang, the universe was a dense, hot soup scientists call quark-gluon plasma (QGP). For several years, particle colliders—which smash molecules together at nearly the speed of light—have been able to replicate this state, but often using heavy elements like lead.

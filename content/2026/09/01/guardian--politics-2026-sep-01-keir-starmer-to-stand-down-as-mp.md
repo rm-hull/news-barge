@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Former PM says it is right time to go, which will trigger byelection
   that Greens’ Zack Polanski could target
 image: https://i.guim.co.uk/img/media/1d561bc95a22fe26e5f0e01ae9fb464d8115f120/712_0_3242_2594/master/3242.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d37b932460aaa2ede23d87dc0519230a
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Keir Starmer is to quit as the MP for Holborn and St Pancras, saying it is the right time for him to leave the Commons.

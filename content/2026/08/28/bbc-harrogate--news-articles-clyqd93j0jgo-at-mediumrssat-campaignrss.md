@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Border security and asylum minister Anna Turley says the site is subject
   to several feasibility checks.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5318/live/11da6b50-a2ea-11f1-a789-b16da4059b6b.png
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 ![An old road sign pointing to the former RAF base at Linton-on-Ouse.](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/5318/live/11da6b50-a2ea-11f1-a789-b16da4059b6b.png)

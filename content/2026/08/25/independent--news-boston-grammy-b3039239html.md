@@ -10,6 +10,10 @@ description: The Boston Symphony Orchestra and its musicians have ratified a thr
   contract, avoiding what could have been the first strike in the ensemble’s 145-year
   history
 image: https://static.independent.co.uk/2026/08/23/04/Boston_Symphony_Strike_62859.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 The Boston Symphony Orchestra and its musicians ratified a three-year contract Tuesday, avoiding what could have been the first strike in the ensemble’s 145-year history.

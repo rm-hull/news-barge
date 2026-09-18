@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Canada is seeking a "unique alliance" with the European Union but is
   not looking to become a member
 image: https://static.independent.co.uk/2026/09/03/13/2026-09-01T151936Z_1847696710_RC20VLAKPE60_RTRMADP_3_USA-TRUMP-TARIFFS-CANADA.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Canada is pursuing a "unique alliance" with the European Union as Prime Minister Mark Carney looks to deepen economic ties beyond the United States amid an escalating trade war with Washington.

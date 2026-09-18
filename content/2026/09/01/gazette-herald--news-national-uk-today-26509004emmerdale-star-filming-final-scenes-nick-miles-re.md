@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Emmerdale actress Nicola Wheeler revealed she was "gutted" after filming
   her final scenes with her on-screen husband, Jimmy, played by…
 image: https://www.gazetteherald.co.uk/resources/images/21392305.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 *(Image: YouTube/ITV)*

@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Danish Prime Minister Mette Frederiksen has expressed frustration over
   unsolicited beauty advice
 image: https://static.independent.co.uk/2026/08/24/16/Denmark_Prime_Minister_Body_Shaming_85894.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Danish Prime Minister Mette Frederiksen is fed up with getting unsolicited beauty advice.

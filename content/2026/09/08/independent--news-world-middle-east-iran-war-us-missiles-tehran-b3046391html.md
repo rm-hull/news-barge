@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Iran state media says a ballistic missile with improved capabilities
   demonstrates Tehran's shifting stance toward taking preemptive action against threats
 image: https://static.independent.co.uk/2026/09/08/05/Iran_War_Strait_of_Hormuz_7_788.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Iran has issued a fresh threat to the US over its newly upgraded ballistic missile, with officials warning that the nation "will take action against any threat, even before it is carried out."

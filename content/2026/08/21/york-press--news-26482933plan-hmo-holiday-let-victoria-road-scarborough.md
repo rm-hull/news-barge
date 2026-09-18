@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: PLANS to turn a residential house into a holiday let and HMO have met
   with objections from councillors in a North Yorkshire town.
 image: https://www.yorkpress.co.uk/resources/images/21352034.jpg?type=og-image
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 ## Plan to turn North Yorkshire house into HMO and holiday let meets ire

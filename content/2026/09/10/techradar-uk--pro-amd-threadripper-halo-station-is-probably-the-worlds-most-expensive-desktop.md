@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: AMD is putting data center-class AI hardware on a desk with Threadripper
   Halo Station and its massive memory pool
 image: https://cdn.mos.cms.futurecdn.net/FVLD9arUgUVA3EkWjuNreK-1920-80.png
+categories:
+- Technology & Software
+- Science
 ---
 
 ![AMD Threadripper Halo Station coming in 2027](https://cdn.mos.cms.futurecdn.net/FVLD9arUgUVA3EkWjuNreK.png) 

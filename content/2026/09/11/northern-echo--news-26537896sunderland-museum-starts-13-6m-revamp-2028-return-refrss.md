@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: A £13.6 million redevelopment is under way at Sunderland Museum & Winter
   Gardens, with the hope of returning in 2028.
 image: https://www.thenorthernecho.co.uk/resources/images/21433742.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 A £13.6 million redevelopment is under way at Sunderland Museum & Winter Gardens.

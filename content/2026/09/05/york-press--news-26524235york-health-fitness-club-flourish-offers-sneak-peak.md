@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: A new state-of-the-art health and fitness club has offered a sneak peak
   inside the historic York building it has taken over ahead of its opening.
 image: https://www.yorkpress.co.uk/resources/images/21413586.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 ## Sneak peak inside state-of-the-art health club opening in 'beautiful' York building

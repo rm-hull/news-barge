@@ -10,6 +10,11 @@ description: The October increase follows a January rise and is the first double
   above its 4% target in an economy already squeezed by the costs of its war, sanctions
   and a 21% key interest rate.
 image: https://images.euronews.com/articles/stories/09/89/82/71/1200x675_cmsv2_cc34c5bc-c8b7-5767-8594-a151bc5c1339-9898271.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## The October increase follows a January rise and is the first double tariff hike in four years. The central bank warned it would push annual inflation further above its 4% target in an economy already squeezed by the costs of its war, sanctions and a 21% key interest rate.

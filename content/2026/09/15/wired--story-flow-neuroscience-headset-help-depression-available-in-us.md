@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The device made by Flow Neuroscience is approved by the FDA and could
   help people get off antidepressants—but it costs $2,200.
 image: https://media.wired.com/photos/6aa8633c181b95a3e876fad6/191:100/w_1280,c_limit/New-Headset-to-Cure-Depression-Science-FLOW29472(2).jpg
+categories:
+- Technology & Software
+- Science
+- Health & Fitness
 ---
 
 An at-home wearable for the treatment of depression is now available by prescription in the US.

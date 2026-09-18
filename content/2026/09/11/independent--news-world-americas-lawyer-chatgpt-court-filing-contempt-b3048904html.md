@@ -7,6 +7,11 @@ scraped_at: '2026-09-11T22:30:27Z'
 published: '2026-09-11T00:00:00Z'
 description: The defense attorney called the errors ‘an honest mistake’
 image: https://static.independent.co.uk/2026/09/08/8/37/GettyImages-2275802564.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Law & Justice
+- Business & Entrepreneurship
 ---
 
 A defense lawyer has been held in contempt over a brief containing made-up police testimony and witnesses fabricated by OpenAI's ChatGPT, according to New Mexico's highest court.

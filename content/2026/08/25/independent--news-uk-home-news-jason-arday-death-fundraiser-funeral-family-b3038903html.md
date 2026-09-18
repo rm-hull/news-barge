@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T16:51:05Z'
 published: '2026-08-25T00:00:00Z'
 description: The GoFundMe was set up to support Professor Jason Arday’s family
 image: https://static.independent.co.uk/2026/08/25/14/01M08J974JDKKHM2J1MK7F65TX.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 Professor Jason Arday’s family have said they are “deeply moved by the extraordinary support” after a fundraiser launched in his memory topped £224,000.

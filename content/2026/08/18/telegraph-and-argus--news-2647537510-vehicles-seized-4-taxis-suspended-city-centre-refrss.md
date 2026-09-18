@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: A joint initiative by Bradford Council and West Yorkshire Police led
   to 10 vehicle seizures and an arrest.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21337321.jpg?type=og-image&xType=0&yType=85
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Bradford Council / West Yorkshire Police)*

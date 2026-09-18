@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: It is understood the deal values Hyrox at around 600 million US dollars
   (£444 million).
 image: https://static.independent.co.uk/2026/09/08/17/08164247-a63a0aa4-76d4-43ee-b907-7a4e8bc60504.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 A consortium led by private equity firm L Catterton has bought majority control of popular fitness brand Hyrox.

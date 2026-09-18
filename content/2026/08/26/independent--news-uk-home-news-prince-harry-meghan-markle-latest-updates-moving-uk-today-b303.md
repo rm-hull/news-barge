@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Prince Harry and Meghan expected to return to UK before new term starts
   after Prince Archie and Princess Lilibet enrolled in British schools
 image: https://static.independent.co.uk/2026/08/23/09/2026-08-21T180854Z_1186727855_RC2RQKAMMKFP_RTRMADP_3_BRITAIN-ROYALS-MEGHAN.JPG?trim=3,0,3,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The Duke and Duchess of Sussex have reportedly landed in the UK after it was announced they were moving their family from California back to Britain.

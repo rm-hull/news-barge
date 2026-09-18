@@ -10,6 +10,10 @@ description: Keir Starmer took office in July 2024 following a landslide victory
   the general election but has since overseen a massive decline in popularity for
   the government as discontent with his leadership grew
 image: https://static.independent.co.uk/2026/07/16/12/download.-2.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Sir Keir Starmer has announced he will step down as the MP for Holborn and St Pancras, a move that will trigger a by-election in the London constituency.

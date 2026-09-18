@@ -10,6 +10,11 @@ description: Prices for basic medicines such as paracetamol and insulin have sky
   costs in Iran are paid out of pocket, leaving the most vulnerable patients unable
   to afford treatment.
 image: https://images.euronews.com/articles/stories/09/90/74/11/1200x675_cmsv2_9d43be0f-5f55-5b45-865d-11c843f734a1-9907411.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Health & Fitness
 ---
 
 **Euronews Persian**

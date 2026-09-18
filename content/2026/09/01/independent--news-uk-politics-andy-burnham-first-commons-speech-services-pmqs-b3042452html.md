@@ -9,6 +9,9 @@ description: Today’s Commons statement, his first since becoming prime ministe
   be the first chance for MPs to probe Mr Burnham on the slew of policies that he
   announced over the summer during parliamentary recess
 image: https://static.independent.co.uk/2026/09/01/00/fee3d6910e8681fb650ffd7954ea26b9Y29udGVudHNlYXJjaGFwaSwxNzg4MzAwNzQ1-2.85668888.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Andy Burnham will call for greater public control over water, energy and transport in his first House of Commons appearance since becoming prime minister.

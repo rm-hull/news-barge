@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: Proposals to restore part of a historic Yorkshire farmhouse and convert
   two barns into new homes have been submitted to planners.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE0Yjc3ZjVhLTgwMDEtNGI0MS05MmEyLTU1OTc4YjExZDNkMzplYzM1ZTllYS1kZWJiLTQ4ZDAtOGZlOC1jZGMzYWYyYTQ2Njk=.jpg?crop=3:2,smart&trim=&width=811&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
+- History
 ---
 
 # Grade II-listed Yorkshire farmhouse dating back to 1600s set to be restored

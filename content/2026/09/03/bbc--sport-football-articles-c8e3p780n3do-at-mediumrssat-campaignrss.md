@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: The governing bodies have traded blows since Fifa president Gianni Infantino's
   scrapped plan to sell off stakes in the World Cup to private investors.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5525/live/946ce110-a7c7-11f1-8174-fd95759f3bfe.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Gianni Infantino holding the World Cup trophy](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/5525/live/946ce110-a7c7-11f1-8174-fd95759f3bfe.jpg)

@@ -9,6 +9,9 @@ published: '2026-08-22T00:00:00Z'
 description: I’ve spent a month with the Samsung Galaxy Z Fold 8, and it’s turned
   me into a foldable believer.
 image: https://cdn.mos.cms.futurecdn.net/urGVc25XhSYAus78WxKbUU-1750-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Samsung Galaxy Z Fold 8 product shots](https://cdn.mos.cms.futurecdn.net/urGVc25XhSYAus78WxKbUU.jpg) 

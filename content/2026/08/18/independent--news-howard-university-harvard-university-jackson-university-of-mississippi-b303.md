@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Professor Kamal Ali and his team at Jackson State University are developing
   sensors to study oysters' responses to environmental changes
 image: https://static.independent.co.uk/2026/08/18/19/Jackson_State_Research_Status_34_21.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Professor Kamal Ali and his team of Jackson State University student researchers spent their summer tending to a crate of oysters, magnets and wires.

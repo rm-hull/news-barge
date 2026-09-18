@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: This week, everyone needs to fall in line... Apocalypse Now style. But
   d when does Stuart Fails to Save the Universe episode 8 hit HBO Max?
 image: https://cdn.mos.cms.futurecdn.net/KPcETFgts8qtFehNcLFxth-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![The cast pose in front of a space backdrop](https://cdn.mos.cms.futurecdn.net/KPcETFgts8qtFehNcLFxth.jpg) 

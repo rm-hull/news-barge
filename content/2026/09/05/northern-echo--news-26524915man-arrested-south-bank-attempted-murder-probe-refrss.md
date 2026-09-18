@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: A man wanted by police in connection to an 'attempted murder' in South
   Bank has been arrested.
 image: https://www.thenorthernecho.co.uk/resources/images/21339691.jpg?type=og-image&xType=0&yType=42
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: UGC)*

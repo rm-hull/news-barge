@@ -9,6 +9,12 @@ published: '2026-09-15T00:00:00Z'
 description: Mathilde Arcel, who won the Volpi Cup on Saturday for her role in Golden
   Lion winner Woman Unknown, said job offers have now begun to arrive
 image: https://i.guim.co.uk/img/media/fe3ca0c3c52441d4281bfcd22389234903c8399b/212_0_2120_1696/master/2120.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=229eaabd1cd3d28faf58a6cad95abc9d
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
+- Sports
+- Business & Entrepreneurship
 ---
 
 The winner of this year’s best actress prize at the Venice film festival has revealed that she is on unemployment benefits and had to fly to back to Copenhagen to report to the job centre before receiving her award.

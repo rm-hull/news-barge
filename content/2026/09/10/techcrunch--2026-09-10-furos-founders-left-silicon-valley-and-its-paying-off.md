@@ -9,6 +9,10 @@ description: The three 28-year-old founders behind energy startup Furo moved fro
   Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly
   U.S. backers.
 image: https://techcrunch.com/wp-content/uploads/2026/09/furo-cofounders.jpg?resize=1200,900
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 U.S. venture capitalists once insisted that international startups move stateside before they would write a check. The three 28-year-old founders behind Furo are convinced that their decision to leave Silicon Valley and move back to their home country of Germany has paid off in both VC dollars and business growth.

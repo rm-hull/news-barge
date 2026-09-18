@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: A York collective is celebrating more than a decade of poetry, rap and
   performance with a new season featuring some of the UK’s biggest names.
 image: https://www.yorkpress.co.uk/resources/images/21252888.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Kirkpatrick Photography)*

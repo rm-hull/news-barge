@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: An ABBA tribute concert had fans dancing in the aisles at York Minster
   earlier this month.
 image: https://www.gazetteherald.co.uk/resources/images/21355376.jpg?type=og-image&xType=0&yType=564
+categories:
+- Local
+- Harrogate
+- York
+- Music
 ---
 
 An ABBA tribute concert had fans dancing in the aisles of one of York’s most historic venues.

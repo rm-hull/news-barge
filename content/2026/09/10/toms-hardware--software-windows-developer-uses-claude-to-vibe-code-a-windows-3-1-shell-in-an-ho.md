@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: Small download can deliver a quick shot of early-1990s Wintel nostalgia,
   if you need it.
 image: https://cdn.mos.cms.futurecdn.net/n54CgvW5GHW7QPC4NMM4WR-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![ReProgman screenshot](https://cdn.mos.cms.futurecdn.net/n54CgvW5GHW7QPC4NMM4WR.jpg) 

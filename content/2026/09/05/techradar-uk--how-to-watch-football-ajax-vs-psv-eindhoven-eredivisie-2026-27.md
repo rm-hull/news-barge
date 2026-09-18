@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: All the ways to watch Ajax vs PSV Eindhoven live streams, with Tolu Arokodare
   and Ricardo Pepi set to light up the Eredivisie game at Johan Cruyff Arena.
 image: https://cdn.mos.cms.futurecdn.net/bJFSqV9edtvVHCZV3XLeu-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
+- Sports
 ---
 
 ![Jorthy Mokio and Ricardo Pepi during the Ajax v PSV Eindhoven game on May 2, 2026](https://cdn.mos.cms.futurecdn.net/bJFSqV9edtvVHCZV3XLeu.jpg) 

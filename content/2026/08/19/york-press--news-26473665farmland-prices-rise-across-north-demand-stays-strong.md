@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: New analysis from Savills shows that farmland values are holding steady
   in the North of England despite a dip in supply.
 image: https://www.yorkpress.co.uk/resources/images/21334444.jpg?type=og-image&xType=0&yType=441
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Farmland values hold firm across North despite wider market decline

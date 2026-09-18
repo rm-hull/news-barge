@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Elsie Lamb was born in the Cineworld at Broughton, Flintshire, about
   40 minutes into the film.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/58f2/live/f5e7a2e0-b104-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ![A baby in a red baby grow](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/58f2/live/f5e7a2e0-b104-11f1-bc1f-3f186ca4140c.jpg)

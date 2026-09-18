@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: A Louisiana jury has convicted a woman of negligent homicide in the death
   of a television reporter who had been visiting New Orleans to cover the Super Bowl
 image: https://static.independent.co.uk/2026/09/18/02/Super_Bowl_Reporter_Death_43443.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Louisiana jury convicted a woman of negligent homicide on Thursday in the death of a Telemundo television reporter who had been visiting New Orleans to cover the Super Bowl, according to the Jefferson Parish district attorney's office.

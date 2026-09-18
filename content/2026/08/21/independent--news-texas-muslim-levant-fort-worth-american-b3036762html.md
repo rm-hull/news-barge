@@ -9,6 +9,10 @@ description: Texas barbecue is often defined by salt-and-pepper brisket and pork
   but a new wave of Muslim pitmasters are gaining recognition for serving halal meats
   and putting their own spin on one of the states’ most iconic culinary traditions
 image: https://static.independent.co.uk/2026/08/21/01/Texas_Halal_Barbecue._46288.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 At 9 a.m. on a scorching Saturday in June, nearly 100 people were already lined up outside Goldee’s BBQ, a small, wooden-shack restaurant.

@@ -9,6 +9,9 @@ published: '2026-09-12T00:00:00Z'
 description: It's Fiji vs Canada and Japan vs the USA to secure a place in the Grand
   Final in Tokyo
 image: https://cdn.mos.cms.futurecdn.net/anVo2AbHQowH33vioVXAYd-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Elia Canakaivata of Fiji dives in to score a try.](https://cdn.mos.cms.futurecdn.net/anVo2AbHQowH33vioVXAYd.jpg) 

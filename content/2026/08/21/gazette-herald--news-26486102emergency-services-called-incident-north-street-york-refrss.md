@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Emergency services have been called to York city centre following an
   incident. Crews from North Yorkshire Fire and Rescue, along with York Rescue…
 image: https://www.gazetteherald.co.uk/resources/images/21356494.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 - Emergency services have been called to North Street in York city centre following an incident.

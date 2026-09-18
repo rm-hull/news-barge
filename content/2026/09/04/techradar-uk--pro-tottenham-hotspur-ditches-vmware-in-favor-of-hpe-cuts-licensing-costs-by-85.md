@@ -8,6 +8,9 @@ scraped_at: '2026-09-04T12:42:15Z'
 published: '2026-09-04T00:00:00Z'
 description: Tottenham just quit VMware
 image: https://cdn.mos.cms.futurecdn.net/qXmgkSfHC9wZMbha3JPVA6-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Tottenham Hotspur Stadium](https://cdn.mos.cms.futurecdn.net/qXmgkSfHC9wZMbha3JPVA6.jpg) 

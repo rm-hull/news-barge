@@ -8,6 +8,13 @@ published: '2026-09-07T00:00:00Z'
 description: Jadebay Limited, which trades under the name Nöa & Nani, has entered
   administration after 26 years.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21417874.jpg?type=og-image&yType=320
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 *(Image: Getty Images)*

@@ -8,6 +8,9 @@ published: '2026-09-12T00:00:00Z'
 description: The inquiry into the former nurse is expected to find failures by her
   hospital to ensure patient safety.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c31c/live/f467e630-ad1e-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Designed image using Lucy Letby mugshot with hospital in background](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/c31c/live/f467e630-ad1e-11f1-b1d1-571ed4d7ff2c.jpg)

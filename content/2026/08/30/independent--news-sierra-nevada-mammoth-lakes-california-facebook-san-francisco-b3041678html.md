@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Volunteers rescued a climber who was stranded on a ledge in the Sierra
   Nevada in an operation that spanned more than 15 hours
 image: https://static.independent.co.uk/2026/08/30/06/California_Climber_Rescued_4_661.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Volunteers carried out a more than 15-hour operation to rescue a man who got off route in the Sierra Nevada and was stranded on a small ledge, the Mono County Sheriff Search and Rescue Team said.

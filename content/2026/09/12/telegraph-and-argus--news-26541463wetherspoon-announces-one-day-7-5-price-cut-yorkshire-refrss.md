@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Three Wetherspoon pubs will cut the price of all food and drink by 7.5
   per cent for one day only.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21420821.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Martin Humby)*

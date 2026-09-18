@@ -8,6 +8,9 @@ published: '2026-08-23T00:00:00Z'
 description: Kean, who had a three-month absence from Congress earlier this year,
   has developed a reputation for being intensely private
 image: https://static.independent.co.uk/2026/08/23/15/2287209125..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A *New York Times* reporter says she was denied entry to a campaign event in New Jersey for Republican lawmaker Tom Kean and had the police called on her, despite other journalists being present inside. 

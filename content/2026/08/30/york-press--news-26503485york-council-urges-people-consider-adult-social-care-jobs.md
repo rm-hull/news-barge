@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: A fresh call has been issued by City of York Council for people to consider
   a career in adult social care.
 image: https://www.yorkpress.co.uk/resources/images/21383488.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
+- News & Politics
 ---
 
 *(Image: City of York Council)*

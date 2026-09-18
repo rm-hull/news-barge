@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: The Redcliffe Farm Shop has been named one of the best in the UK thanks
   to its "fabulous" café and range of local produce.
 image: https://www.yorkpress.co.uk/resources/images/21362649.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 ## 'Perfect' farm shop easy to reach from York named one of the best in the UK

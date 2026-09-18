@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Experts say conspiracy theorizing about the identity and motive of Charlie
   Kirk’s killer will likely continue for a long time to come.
 image: https://media.wired.com/photos/6aa18f229ba60a161c7e4cb9/191:100/w_1280,c_limit/charlie-kirk-conspiracies.jpg
+categories:
+- Technology & Software
+- Science
+- Arts & Culture
 ---
 
 In the days after the assassination of conservative activist and Turning Point cofounder Charlie Kirk, the online reaction was a mess. Graphic videos of the shooting were everywhere within minutes of his death, far-right figures called for violence and vengeance, and right-wing lawmakers and influencers called for the cancellation—and worse—of anyone celebrating. Then, the conspiracy theories began.

@@ -9,6 +9,9 @@ description: The feature, announced this week, allows Brave's users to sign up f
   websites and other online services without having to share their personal email
   addresses.
 image: https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Chrome alternative Brave just added a good reason to make the switch to its browser: email aliases. The feature, announced this week, allows Brave’s users to sign up for websites and other online services without having to share their personal email addresses.

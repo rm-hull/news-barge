@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T12:42:15Z'
 published: '2026-09-04T00:00:00Z'
 description: After renewed strikes this week, does either side have an exit strategy?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a51/live/5d415e40-a7aa-11f1-b78b-6b70b0a83270.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![General view of a five-storey building in Tehran. The building has been shelled-out by a reported missile attack, the outer brickwork is no longer visible and instead the building is hollowed out but is still standing. It is surrounded by rubble](https://ichef.bbci.co.uk/ace/standard/825/cpsprodpb/9a51/live/5d415e40-a7aa-11f1-b78b-6b70b0a83270.jpg)

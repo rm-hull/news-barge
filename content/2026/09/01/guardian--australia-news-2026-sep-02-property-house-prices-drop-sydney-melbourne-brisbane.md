@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Cotality data reveals property prices are now falling in more than 90%
   of Australian suburbs, while economists expect market downturn to continue
 image: https://i.guim.co.uk/img/media/1251eabbbd0c2489a4072a3e7f4f63ba0fe4eeba/622_0_6218_4975/master/6218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e87b96cf408a65fb539b01c5bdb42d0a
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Real Estate
 ---
 
 The prospect of the steepest property market downturn in history will not stop the Reserve Bank from delivering a fourth interest rate hike as it battles to bring inflation back under control, economists say.

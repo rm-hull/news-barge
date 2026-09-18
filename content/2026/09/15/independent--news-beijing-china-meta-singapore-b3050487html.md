@@ -10,6 +10,10 @@ description: China has introduced new border control rules that could ban citize
   from leaving the country if they engage in illegal activities threatening national
   or industrial security
 image: https://static.independent.co.uk/2026/09/15/13/China_Border_Controls_81798.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 New Chinese border control rules taking effect Tuesday could ban citizens from leaving the country if they engage in illegal activity that endangers national or industrial security.

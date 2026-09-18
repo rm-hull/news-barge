@@ -8,6 +8,9 @@ published: '2026-09-04T00:00:00Z'
 description: Opening of HMP Millsike in April 2025 was ‘chaotic’ with basic processes,
   such as locking doors and counting prisoners, not being followed
 image: https://static.independent.co.uk/2025/03/27/20/48/01JQC3W8R5GH99ZX2QB6EKPQ52.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Britain’s newest prison was understaffed and unsafe when it opened last year and is still struggling with a “chronic shortfall” of prison officers, a damning inspection report has found.

@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: PureGym is planning to open around 60 new sites in 2026 with long-term
   ambitions for more than 750 additional locations worldwide.
 image: https://www.yorkpress.co.uk/resources/images/21382529.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

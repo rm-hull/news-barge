@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Harrogate MP Tom Gordon introduces a Ten-Minute Rule Bill on 15 September
   2026 to force a Treasury review of Plan 2 student loan repayment thresholds
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/tom-gordon-stud-loans.webp
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 **WESTMINSTER** — Harrogate and Knaresborough MP Tom Gordon is spearheading a legislative challenge against the Treasury, introducing a fresh parliamentary mandate to force a total structural review of the national student finance framework.

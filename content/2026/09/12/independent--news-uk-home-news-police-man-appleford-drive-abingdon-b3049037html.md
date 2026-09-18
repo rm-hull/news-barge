@@ -7,6 +7,10 @@ scraped_at: '2026-09-12T12:10:13Z'
 published: '2026-09-12T00:00:00Z'
 description: A 36-year-old man, from Abingdon, was arrested on suspicion of murder
 image: https://static.independent.co.uk/2026/09/12/9/12/Screenshot-2026-09-12-at-10-26-45.png?trim=0,14,0,13&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A man has been arrested on suspicion of murdering an 88-year-old woman.

@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Former Doctor Who star and Blue Peter presenter Peter Purves is to play
   Father Christmas in a new festive film shot in York and North Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/21385828.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

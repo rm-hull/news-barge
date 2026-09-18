@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The scent, which will be available for a limited time only, goes on sale
   September 22, the first day of fall
 image: https://static.the-independent.com/2026/09/10/20/54/Ferrara-Brach-s-Ode-to-Candy-Corn.jpeg?trim=38,0,15,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Halloween superfans can now *smell* like their favorite spooky staple. 

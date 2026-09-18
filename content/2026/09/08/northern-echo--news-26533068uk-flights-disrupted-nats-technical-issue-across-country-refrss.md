@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T19:24:54Z'
 published: '2026-09-08T00:00:00Z'
 description: An air traffic control fault has disrupted flights across the UK.
 image: https://www.thenorthernecho.co.uk/resources/images/21427086.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: SARAH CALDECOTT)*

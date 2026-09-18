@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: A Durham fine dining restaurant founded by a couple who quit their jobs
   to pursue their dream is preparing to leave its city centre home after three…
 image: https://www.thenorthernecho.co.uk/resources/images/21422930.jpg?type=og-image&xType=0&yType=40
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 A fine dining restaurant is preparing to leave its city centre home after three years.

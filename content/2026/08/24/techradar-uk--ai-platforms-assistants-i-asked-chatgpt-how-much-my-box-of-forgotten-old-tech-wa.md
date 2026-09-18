@@ -8,6 +8,8 @@ scraped_at: '2026-08-24T11:48:20Z'
 published: '2026-08-24T00:00:00Z'
 description: My unwanted Wii was surprisingly valuable
 image: https://cdn.mos.cms.futurecdn.net/bp9DFnmuP5UDPnBbqM2Dph-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Nintendo Wii](https://cdn.mos.cms.futurecdn.net/bp9DFnmuP5UDPnBbqM2Dph.jpg) 

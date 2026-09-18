@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: DARLINGTON’S MP has unveiled a new piece of office art which she has
   commissioned from an artist she discovered when she admired a dress he had…
 image: https://www.thenorthernecho.co.uk/resources/images/21350849.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Darlington's MP has unveiled a new piece of office art which she has commissioned from an artist she discovered when she admired a dress he had made his wife.

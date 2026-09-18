@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: A start-up in India is combining dogs' highly sensitive sense of smell
   with artificial intelligence to explore a new approach to cancer screening.
 image: https://images.euronews.com/articles/stories/09/90/51/69/1200x675_cmsv2_08815c1f-088a-5146-bc0d-0c0f29e053d3-9905169.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## A start-up in India is combining dogs' highly sensitive sense of smell with artificial intelligence to explore a new approach to cancer screening.

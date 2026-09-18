@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Coronary heart disease kills twice as many women as breast cancer in
   the UK each year
 image: https://static.independent.co.uk/2025/06/05/00/04095618-f62a9431-35fd-4051-9cc3-3b10cc38ede1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Routine breast screenings aided by artificial intelligence could be used to detect heart disease, new research has found.

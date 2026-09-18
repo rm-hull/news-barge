@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: 'Several Hollywood celebs are ditching the massive eight-figure checks
   and exotic movie sets for a rising format: microdramas.'
 image: https://techcrunch.com/wp-content/uploads/2023/12/shutterstock_movie_director.jpg?resize=1200,717
+categories:
+- Film & TV
+- Comedy & Entertainment
 ---
 
 Hollywood’s finest — the people accustomed to massive eight-figure checks and exotic movie sets — are now betting on something much smaller: microdramas.

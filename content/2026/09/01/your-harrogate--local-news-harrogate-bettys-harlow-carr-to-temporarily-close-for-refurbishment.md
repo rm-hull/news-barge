@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Bettys Café Tea Rooms at RHS Garden Harlow Carr will temporarily close
   next week as the popular destination undergoes a refresh.
 image: https://mmo.aiircdn.com/409/6a968cd2255173b0aea.jpg
+categories:
+- Local
+- Harrogate
+- Lifestyle & Fashion
 ---
 
 ![](https://mmo.aiircdn.com/409/6a968cd2255173b0aea.jpg) 

@@ -9,6 +9,12 @@ published: '2026-08-22T00:00:00Z'
 description: Police are looking for the owner of this dog which they say was on a
   lead when it bit a man's leg last week.
 image: https://www.gazetteherald.co.uk/resources/images/21357785.jpg?type=og-image&xType=0&yType=99
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Pets & Animals
 ---
 
 *(Image: North Yorkshire Police)*

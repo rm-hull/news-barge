@@ -9,6 +9,10 @@ description: Video. Aerial footage shows a sinkhole where Nicolas Cage's Malibu 
   stood after coastal erosion from Hurricane Marie remnants triggered a gas leak and
   road closure.
 image: https://images.euronews.com/articles/stories/09/90/82/66/1200x675_cmsv2_0c02c966-b900-5052-914a-6e9976e21650-9908266.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 Aerial footage shows a large sinkhole where the driveway of a Malibu mansion once stood, after coastal erosion linked to the remnants of Hurricane Marie. The collapse opened a gaping hole in front of the property, which entertainment outlets say belongs to actor Nicolas Cage.

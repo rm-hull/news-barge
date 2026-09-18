@@ -9,6 +9,10 @@ description: Foreign secretary Ed Miliband said he would soon announce moves to 
   to Israeli government policies, protect the viability of the Palestinian state and
   ‘target sanctions at those who participate in illegal settlement expansion’
 image: https://static.independent.co.uk/2026/08/20/14/2278401445..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The UK has clashed with Israel over a controversial settlement project in the occupied West Bank.

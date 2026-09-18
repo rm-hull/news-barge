@@ -10,6 +10,11 @@ published: '2026-08-26T00:00:00Z'
 description: He told investors that he’s using an AI supercomputer to generate returns
   of up to 15% to 30% annually.
 image: https://cdn.mos.cms.futurecdn.net/hwbXnfQReY3k6GhBpKYMwP-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Bitcoin theft](https://cdn.mos.cms.futurecdn.net/hwbXnfQReY3k6GhBpKYMwP.jpg) 

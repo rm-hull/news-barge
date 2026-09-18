@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The blaze started on the top floor of the five-storey hotel before spreading
   through the resort
 image: https://static.independent.co.uk/2026/09/09/10/06/chile-fire.webp?trim=0,34,0,78&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Sports
 ---
 
 A group of US ski racers and their team have lost all of their belongings after a large fire tore through a Chile ski resort hotel days before a major race.

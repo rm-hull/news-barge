@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: A man has been sentenced to 18 years in prison for multiple counts of
   rape.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21365834.jpg?type=og-image&xType=0&yType=439
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: West Yorkshire Police)*

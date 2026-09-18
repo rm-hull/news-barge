@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Once prevalent across the UK, this mollusc is now only found in one lake
   in Wales.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ead9/live/f1274f90-abbd-11f1-be3c-77d601a01c16.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A glutinous snail in a tank in Dudley Zoo.  The small, brown mollusc, flecked with spots of gold slithers across a surface covered in green algae.](https://ichef.bbci.co.uk/ace/standard/1408/cpsprodpb/ead9/live/f1274f90-abbd-11f1-be3c-77d601a01c16.jpg)

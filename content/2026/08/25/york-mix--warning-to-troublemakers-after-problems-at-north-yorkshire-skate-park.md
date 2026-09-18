@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T08:55:08Z'
 published: '2026-08-25T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/781006191_3452076478293128_2681550426558204024_n.jpg
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 Reports of criminal damage, vandalism, bullying and antisocial behaviour are creating an unpleasant and potentially dangerous environment at Norton and Malton Skate Park.

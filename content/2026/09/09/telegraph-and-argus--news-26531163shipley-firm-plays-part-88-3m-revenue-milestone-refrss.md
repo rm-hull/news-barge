@@ -8,6 +8,13 @@ published: '2026-09-09T00:00:00Z'
 description: A call-handling company has helped its parent group reach £88.3 million
   in UK revenue.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21424378.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 *(Image: Google Street View)*

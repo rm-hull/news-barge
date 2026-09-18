@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Yorkshire Water’s chief executive has visited Rawdon to see the impact
   of major waterworks.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21425605.jpg?type=og-image&xType=0&yType=31
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: submitted)*

@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Batteries now meet almost half of the grid’s dispatchable power needs
   during hours of highest demand
 image: https://i.guim.co.uk/img/media/503060979e8edb156177f3d40c8a7b697dc06428/1624_278_4136_3309/master/4136.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6beae066f96e21175d187e664a693bfe
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Australia’s dependence on gas for power during the evening, when the grid is under the most pressure, has fallen by almost nearly 70% over the past year as batteries surged in, replacing the fossil fuel.

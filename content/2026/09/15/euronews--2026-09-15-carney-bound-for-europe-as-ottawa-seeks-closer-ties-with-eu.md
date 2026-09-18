@@ -9,6 +9,10 @@ description: Carney is reportedly expected to use the trip to seek a new arrange
   with the EU that could allow Canadians to live and work across the bloc without
   visa restrictions.
 image: https://images.euronews.com/articles/stories/09/91/48/27/1200x675_cmsv2_9aa5c4f8-bd14-5654-941d-f9875568033f-9914827.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## Carney is reportedly expected to use the trip to seek a new arrangement with the EU that could allow Canadians to live and work across the bloc without visa restrictions.

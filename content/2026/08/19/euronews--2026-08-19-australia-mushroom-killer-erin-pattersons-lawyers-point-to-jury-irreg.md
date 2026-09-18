@@ -9,6 +9,9 @@ description: Patterson was found guilty last year of murdering her husband's par
   and an elderly aunt in 2023 by serving them a beef Wellington lunch laced with lethal
   death cap mushrooms.
 image: https://images.euronews.com/articles/stories/09/87/98/43/1200x675_cmsv2_f2ee8b0c-09eb-5dee-8235-e14c3f330c81-9879843.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Patterson was found guilty last year of murdering her husband's parents and an elderly aunt in 2023 by serving them a beef Wellington lunch laced with lethal death cap mushrooms.

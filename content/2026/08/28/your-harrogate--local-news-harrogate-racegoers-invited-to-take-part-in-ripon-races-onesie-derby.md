@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Racegoers are being invited to wear their best animal onesies for a special
   race at Ripon Racecourse this Bank Holiday Monday.
 image: https://mmo.aiircdn.com/409/6a913ceebccc674c9d3.jpg
+categories:
+- Local
+- Harrogate
+- Lifestyle & Fashion
 ---
 
 ![](https://mmo.aiircdn.com/409/6a913ceebccc674c9d3.jpg) 

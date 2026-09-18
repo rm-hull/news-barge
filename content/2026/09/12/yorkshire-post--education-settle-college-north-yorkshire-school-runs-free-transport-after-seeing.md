@@ -10,6 +10,11 @@ description: A North Yorkshire secondary school is to provide free transport for
   pupils after its Year 7 intake fell by almost 30 per cent following the introduction
   of the council’s new home-to-school transport policy.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjZkYzE0MGU4LTQ0MzYtNDgxZC1iZjczLTAwMzI5YzE5MjVkOTo3OTNiY2JjMi01NGYyLTQ5NmYtODE4MS1hMzM0NDcyYjdhNWE=.jpg?crop=3:2,smart&trim=&width=636&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Settle College: North Yorkshire school runs free transport after seeing fall in numbers following policy change

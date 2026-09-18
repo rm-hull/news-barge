@@ -9,6 +9,9 @@ published: '2026-08-29T00:00:00Z'
 description: Les Kiss faces his toughest challenge since taking over as the Wallabies'
   head coach
 image: https://cdn.mos.cms.futurecdn.net/yDmoLcV9TAZznXPKF4kBVW-819-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Argentina's prop Tomas Rapetti is tackled by South Africa's Boan Venter during the Rugby Union one-off test match between Argentina and South Africa at the Jose Amalfitani stadium in Buenos Aires.](https://cdn.mos.cms.futurecdn.net/yDmoLcV9TAZznXPKF4kBVW.jpg) 

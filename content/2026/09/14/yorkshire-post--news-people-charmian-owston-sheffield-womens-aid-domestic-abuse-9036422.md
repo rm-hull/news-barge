@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: A domestic abuse survivor said it took her a year and a half at a Sheffield
   refuge to understand the coercive control she had experienced.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/11/16/52/IMG_5067.jpeg?trim=1008,0,1008,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # 'I came here and my life changed' - Survivor says refuge helped her understand extent of domestic abuse

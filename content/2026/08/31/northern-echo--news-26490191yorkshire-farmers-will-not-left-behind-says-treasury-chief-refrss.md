@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: A senior Treasury chief has insisted rural communities will not be left
   behind by the Government's drive to shift investment and…
 image: https://www.thenorthernecho.co.uk/resources/images/21351559.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 A Treasury chief has insisted rural communities will not be left behind by the Government's drive to shift investment and decision-making away from Westminster.

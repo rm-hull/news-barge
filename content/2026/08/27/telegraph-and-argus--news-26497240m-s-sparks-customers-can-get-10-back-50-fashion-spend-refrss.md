@@ -8,6 +8,13 @@ published: '2026-08-27T00:00:00Z'
 description: MARKS & Spencer is offering Sparks customers £10 back on fashion purchases
   of £50 or more this bank holiday weekend
 image: https://www.thetelegraphandargus.co.uk/resources/images/21374064.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Lifestyle & Fashion
 ---
 
 *(Image: Supplied)*

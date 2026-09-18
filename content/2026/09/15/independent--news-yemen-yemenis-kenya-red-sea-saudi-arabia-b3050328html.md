@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: A fuel shortage in Yemen is hampering the movement of people fleeing
   the country’s escalating fighting and seeking safety across the Red Sea in Djibouti
 image: https://static.independent.co.uk/2026/09/15/09/Mideast_Wars_Yemen_9_481.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A fuel shortage in Yemen is hampering the movement of people fleeing the country’s escalating fighting and seeking safety across the Red Sea in Djibouti, with the U.N. migration agency warning that more Yemenis are ready to make the crossing by boat.

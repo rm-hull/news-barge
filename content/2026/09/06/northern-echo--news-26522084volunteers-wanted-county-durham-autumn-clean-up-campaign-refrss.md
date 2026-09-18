@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: The Big Autumn Clean in County Durham is the latest seasonal litter-picking
   scheme from Durham County Council.
 image: https://www.thenorthernecho.co.uk/resources/images/21410704.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 A county-wide clean-up campaign is calling on residents to help tackle litter and keep communities tidy.

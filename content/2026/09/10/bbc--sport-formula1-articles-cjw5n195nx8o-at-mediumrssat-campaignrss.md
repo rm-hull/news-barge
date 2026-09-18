@@ -9,6 +9,10 @@ description: After F1’s explosion in popularity away from its European heartla
   sport is coming home. Why Madrid? Because it is beautiful… and has a very big expo
   centre on the outskirts.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6356/live/471fff50-ab87-11f1-83f1-8f6cbf03142e.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 45-year wait: F1 returns to Madrid

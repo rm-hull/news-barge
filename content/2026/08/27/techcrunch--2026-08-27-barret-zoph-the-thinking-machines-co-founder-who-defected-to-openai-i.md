@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and
   also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.
 image: https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The game of musical chairs for AI executives continues. Barret Zoph, a co-founder of the AI startup Thinking Machines who left the company earlier this year to rejoin OpenAI, has found yet another job.

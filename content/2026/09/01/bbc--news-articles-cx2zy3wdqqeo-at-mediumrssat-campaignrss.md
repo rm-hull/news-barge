@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: BBC correspondents in Delhi and Moscow look at why the Indian PM made
   a very public peace plea to his Russian ally.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e98/live/59804970-a5fb-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 Watch: Modi tells Putin "move on from an endless war to an end of war"

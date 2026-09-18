@@ -10,6 +10,10 @@ description: Scientists can now get more accurate safety data by testing drugs o
   organ-on-a-chip devices and organoids, meaning that there's increasingly less need
   to harm animals
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310501779.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310501779.jpg?w=840)

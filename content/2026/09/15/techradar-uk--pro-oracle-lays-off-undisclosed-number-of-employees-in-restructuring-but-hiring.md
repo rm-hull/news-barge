@@ -8,6 +8,10 @@ scraped_at: '2026-09-15T19:41:46Z'
 published: '2026-09-15T00:00:00Z'
 description: Oracle layoffs signpost workforce restructuring
 image: https://cdn.mos.cms.futurecdn.net/d1435f2e8502b951cabe11c5a1c09bd9-900-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 ![Oracle](https://cdn.mos.cms.futurecdn.net/d1435f2e8502b951cabe11c5a1c09bd9.jpg) 

@@ -10,6 +10,11 @@ description: An exceptional Harrogate entrepreneur who has turned her gluten fre
   food firm into a national success story has won a grant of £50k in a Dragon’s Den
   style event.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjk5NDlhZGVhLWY1N2QtNDU0ZS1iMzA5LTY4Yzk0NmY4ODQ0ZjplYTI5NzFhMy1iYWY1LTQ2NWYtODMxOS1jNDQxNDBkYjFiNzQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 # Harrogate gluten free food company wins a slice of £800,000 funding from Mayor of York and North Yorkshire

@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Over half of the UK’s health benefit claimants would be stripped of their
   payments under the plans announced by Reform UK
 image: https://static.independent.co.uk/2026/08/17/15/55/Steven-Morris-Campaigns-Officer-at-Sense.jpeg?trim=217,90,65,333&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Angry benefit claimants have hit back at Reform UK proposals to overhaul the UK’s welfare system.

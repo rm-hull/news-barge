@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: A major fly-tip has still not been cleared, two weeks after Holmewood
   and Bierley councillors raised it directly with senior managers at Bradford…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21441010.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Cllr Matt Edwards)*

@@ -8,6 +8,9 @@ published: '2026-08-22T00:00:00Z'
 description: The bond market is one of the few forces in the world strong enough to
   get politicians to snap to attention
 image: https://static.independent.co.uk/2026/08/20/20/Trump__3_5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The bond market is one of the few forces in the world strong enough to get politicians to snap to attention. It also helps dictate how much ordinary people have to pay on their mortgages and car loans, as well as how much they earn from their savings accounts and 401(k) plans.

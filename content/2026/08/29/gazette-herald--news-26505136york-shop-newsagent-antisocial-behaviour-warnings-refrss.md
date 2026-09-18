@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: Traders have spoken out about antisocial behaviour and street drinking
   plaguing a part of York.
 image: https://www.gazetteherald.co.uk/resources/images/21385847.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 TRADERS have spoken out about antisocial behaviour and street drinking plaguing a part of York.

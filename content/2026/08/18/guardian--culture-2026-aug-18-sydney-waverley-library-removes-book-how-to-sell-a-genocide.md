@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Author Adam Johnson criticises Waverley council saying ‘reality is often
   upsetting’ while Palestinian group says libraries should hold ‘challenging’ books
 image: https://i.guim.co.uk/img/media/b056db7ab05362c43d8f671aa547451d98764a52/160_0_5355_4284/master/5355.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e116e017a2f140fd58a7b50d518d2a13
+categories:
+- UK
+- News & Politics
+- Books & Literature
+- Arts & Culture
 ---
 
 A Sydney library has removed a book critical of Israel called How to Sell a Genocide, following a complaint reportedly from a survivor of the Bondi beach terror attack.

@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: TWO men have been arrested after a man in his 20s was injured with injuries
   consistent with gunshot wounds to both arms.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18681349.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Stock)*

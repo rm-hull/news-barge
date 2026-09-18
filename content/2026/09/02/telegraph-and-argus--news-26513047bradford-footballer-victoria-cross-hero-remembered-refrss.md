@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: A FALLEN footballer who became a war hero is the subject of a newly released
   biography.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21398058.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Police said before the vehicle entered the road a cyclist was knocked
   off their bike and parked car were damaged.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f90/live/8c3e7300-a065-11f1-b109-879e35c24276.png
+categories:
+- UK
+- News & Politics
+- Automotive
 ---
 
 ![A dual carriageway with green bushes on either side and hills in the background.](https://ichef.bbci.co.uk/ace/standard/882/cpsprodpb/7f90/live/8c3e7300-a065-11f1-b109-879e35c24276.png)

@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Survivors of terror attacks gathered today at the first annual National
   day for Victims and Survivors of terrorism.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/27aa/live/140edd20-9d7c-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 # Watch: Emotional survivors describe how terror attacks changed their lives

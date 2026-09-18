@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Party leader in England and Wales seen as favourite to contest Holborn
   and St Pancras after Starmer’s resignation
 image: https://i.guim.co.uk/img/media/2843c9d9eb9e2d4f8a6a881ae53dd9db0bad9642/369_162_4143_3315/master/4143.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f3e84b6757cd2ec0f510e8ccaf19a877
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Zack Polanski moved a step closer in his quest to become an MP on Wednesday, with local Green party members supporting him to become the party’s candidate in the Holborn and St Pancras byelection.

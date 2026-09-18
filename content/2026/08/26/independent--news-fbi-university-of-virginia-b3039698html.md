@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The prosecution has resumed questioning its final witness in the murder
   trial against Lindsay Clancy
 image: https://static.independent.co.uk/2026/08/26/15/Lindsay_Clancy_Trial_55768.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The prosecution resumed questioning its final witness Wednesday in the murder trial against Lindsay Clancy, with an FBI psychiatrist returning to the stand before the defense questions him and closing arguments begin.

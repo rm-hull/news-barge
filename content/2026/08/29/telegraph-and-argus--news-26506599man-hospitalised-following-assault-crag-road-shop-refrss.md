@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: A man in his 30s was taken to hospital with facial injuries after being
   assaulted in what is believed to be a targeted attack.
 image: https://www.thetelegraphandargus.co.uk/resources/images/12150181.jpg?type=og-image&xType=0&yType=55
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: UGC)*

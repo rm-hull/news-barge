@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: The Marshall Stockwell III almost sounds as luxurious as it looks, and
   boasts almighty power for its size.
 image: https://cdn.mos.cms.futurecdn.net/WircVhdY7uZoEYgz7SjXMG-2520-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ### TechRadar Verdict

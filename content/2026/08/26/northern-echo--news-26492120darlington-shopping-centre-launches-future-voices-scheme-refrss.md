@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A Darlington shopping centre manager has launched a new youth-led initiative
   to support teenagers aged 14 and over during the school holidays.
 image: https://www.thenorthernecho.co.uk/resources/images/21366787.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

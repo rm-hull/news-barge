@@ -9,6 +9,12 @@ published: '2026-09-02T00:00:00Z'
 description: Amazon's Prime Video will be the exclusive local streaming home of six
   NHL teams this season as part of a multiyear agreement announced by the league
 image: https://static.independent.co.uk/2026/09/02/17/Prime_Video_Broadcasts_Hockey_58624.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Video Gaming
+- Technology & Software
 ---
 
 Amazon’s Prime Video will be the exclusive local streaming home of six NHL teams this season as part of a multiyear agreement announced by the league Wednesday.

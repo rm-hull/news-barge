@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: Those leaving care have a death rate around four times higher than the
   general population, a new review reveals.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a48/live/51e34860-a07a-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A young woman with brown hair, a pink top and a blue packpack walks down a street](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/2a48/live/51e34860-a07a-11f1-a291-b542ee92de7c.jpg)

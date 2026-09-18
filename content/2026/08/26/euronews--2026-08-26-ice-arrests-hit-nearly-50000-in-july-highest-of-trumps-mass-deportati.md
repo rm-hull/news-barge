@@ -9,6 +9,10 @@ description: The month before President Donald Trump returned to office, immigra
   arrests stood at just over 8,000, mostly involving immigrants transferred from local
   or state detention facilities to ICE for deportation.
 image: https://images.euronews.com/articles/stories/09/88/91/91/1200x675_cmsv2_f53f75cb-eeaa-510e-af65-67b910d86f0d-9889191.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## The month before President Donald Trump returned to office, immigration arrests stood at just over 8,000, mostly involving immigrants transferred from local or state detention facilities to ICE for deportation.

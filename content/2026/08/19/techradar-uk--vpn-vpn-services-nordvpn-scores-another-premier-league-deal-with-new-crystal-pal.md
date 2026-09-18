@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The cybersecurity giant adds a second Premier League club to its roster
   in just a week, aiming to keep matchday browsing safe and secure for Eagles fans
 image: https://cdn.mos.cms.futurecdn.net/RmRV6RognjKcifUF4sMYbc-1300-80.png
+categories:
+- Technology & Software
+- Sports
+- Video Gaming
 ---
 
 ![Crystal Palace and NordVPN's representatives holding holding a team's shirt named as NordVPN in the stadium's pitch](https://cdn.mos.cms.futurecdn.net/RmRV6RognjKcifUF4sMYbc.png) 

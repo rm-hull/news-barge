@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: A NEW partnership is aiming to boost opportunities for young people through
   the power of sport in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21356006.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A NEW partnership is aiming to boost opportunities for young people through the power of sport.

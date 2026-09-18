@@ -7,6 +7,8 @@ scraped_at: '2026-09-15T19:41:29Z'
 published: '2026-09-15T00:00:00Z'
 description: '"This is devastating for people who don''t take showers"'
 image: https://cdn.mos.cms.futurecdn.net/5DhwmrZ5Fwe9E26HGPpVQd-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Assorted video chat apps are seen on an iPhone, including Zoom, Skype, Google Meet, Discord, FaceTime, Messenger, Marco Polo, WhatsApp, and Cisco Webex Meetings.](https://cdn.mos.cms.futurecdn.net/5DhwmrZ5Fwe9E26HGPpVQd.jpg) 

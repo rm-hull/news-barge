@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: No player in Europe's top five leagues has scored more goals than Donyell
   Malen since his Roma debut in January - BBC Sport examines his transformation.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2808/live/0b3a06f0-b1e7-11f1-ac01-a9af2f94b2cc.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Donyell Malen shoots at goal while playing for Roma](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2808/live/0b3a06f0-b1e7-11f1-ac01-a9af2f94b2cc.jpg)

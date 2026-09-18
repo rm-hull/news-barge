@@ -10,6 +10,11 @@ description: Financial filings show that keeping the Michigan plant running beyo
   its May 2025 retirement date has accumulated approximately $259 million in costs
   so far
 image: https://static.independent.co.uk/2026/09/11/19/2261216001..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 A federal appeals court handed a defeat to the Trump administration on Friday, ruling that the Energy Department overstepped its legal authority when it forced a Michigan coal-fired power plant to stay open past its scheduled retirement date last year.

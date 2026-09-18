@@ -7,6 +7,9 @@ scraped_at: '2026-08-28T22:14:00Z'
 published: '2026-08-28T00:00:00Z'
 description: There's a lot of capital pouring into the business of giving models away.
 image: https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Everyone’s waiting for Nvidia to confirm this week’s most interesting tech deal: A reported $13 billion acquisition of Hugging Face, a platform for sharing open-weight AI models and benchmarks.

@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Indigenous senators have criticised One Nation leader, saying the comments
   showed ‘wilful ignorance’
 image: https://i.guim.co.uk/img/media/0d51061aea98b49caa9f8d3aeb727a8bbe169911/2214_970_4173_3339/master/4173.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f2855ddf3918dd4ddb40de0d6dcfee63
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Federal parliamentarians from across the political spectrum have joined in condemning resurfaced comments by Pauline Hanson as “nasty” and “derogatory”, after she labelled Indigenous Australians the “most primitive race on Earth”.

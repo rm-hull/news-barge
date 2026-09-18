@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The couple are said to be returning to the UK later this month for ‘an
   extended period of time’
 image: https://static.independent.co.uk/2026/08/20/07/2026-08-19T225250Z_194887265_RC2IG9ANP7TK_RTRMADP_3_BRITAIN-ROYALS-HARRY-AND-MEGHAN.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A number of Donald Trump’s MAGA allies have mocked Prince Harry and Meghan Markle on social media after reports suggested their decision to leave the United States is partly because of their dislike of President Donald Trump.

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Humberside Police is being urged to reconsider plans to axe the jobs
   of dozens of police staff as part of plans to save £5 million.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmRiZjU3NDhjLWU0MmYtNDY5Yy05MzE5LTEwZmU5ODUyYjljZjphM2YwMDVhYy0zZTRiLTQ0ZjgtYWJjZi0xYTU2YmY1ZjRjNmU=.jpg?crop=3:2,smart&trim=&width=621&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # Humberside Police urged not to axe police staff as part of plans to save £5m

@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: Our first official look at what's going down in Vice City — featuring
   confirmed PS5 gameplay capture.
 image: https://cdn.mos.cms.futurecdn.net/aE5Re6ecAS5LdTgqPEoR5N-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![A split image showing the GTA 6 logo, the Netflix logo on an iPad, and Jason and Lucia dancing in the game](https://cdn.mos.cms.futurecdn.net/aE5Re6ecAS5LdTgqPEoR5N.jpg) 

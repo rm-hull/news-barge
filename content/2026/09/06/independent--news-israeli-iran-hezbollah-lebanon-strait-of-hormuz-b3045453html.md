@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: Iran says it struck a U.S. military boat in the Strait of Hormuz, marking
   the latest exchange between the countries after a month of calm
 image: https://static.independent.co.uk/2026/09/06/10/Lebanon_Israel_Iran_War_16697.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Iran said Sunday that it struck an unmanned U.S. military boat in the Strait of Hormuz, marking the latest exchange of fire between the countries after a month of relative calm.

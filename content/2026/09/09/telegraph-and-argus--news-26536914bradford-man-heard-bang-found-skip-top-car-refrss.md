@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: A Bradford man escaped injury after a skip lorry overturned outside his
   home, crushing his car and spilling rubbish into three gardens.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21432493.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 A Bradford man had a lucky escape after a skip lorry overturned outside his home, crushing his car and spilling rubbish into three gardens.

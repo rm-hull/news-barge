@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Drone exploded 160km from main airport as Moldova forced to shut airspace
   due to incoming Russian drones
 image: https://static.independent.co.uk/2026/09/10/04/2293732949..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Ukrainian president Volodymyr Zelensky's flight from Moldova to Norway was delayed after it was almost hit by a Russian drone, Norwegian prime minister Jonas Gahr Store said.

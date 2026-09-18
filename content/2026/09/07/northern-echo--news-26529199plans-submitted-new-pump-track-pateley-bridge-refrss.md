@@ -9,6 +9,12 @@ published: '2026-09-07T00:00:00Z'
 description: Plans have been submitted to replace an existing BMX track in Pateley
   Bridge with a new purpose-built pump track designed to cater for everyone from…
 image: https://www.thenorthernecho.co.uk/resources/images/21421505.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Music
 ---
 
 Plans have been submitted to replace an existing BMX track in Pateley Bridge with a new purpose-built pump track designed to cater for everyone from beginners to experienced riders.

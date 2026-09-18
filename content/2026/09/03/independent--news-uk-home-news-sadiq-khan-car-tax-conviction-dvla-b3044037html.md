@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: The Mayor of London was prosecuted last month by the DVLA for keeping
   an unlicensed vehicle
 image: https://static.independent.co.uk/2026/09/02/06/d8ee1c57a76854d4e6506a3f03b98a15Y29udGVudHNlYXJjaGFwaSwxNzg4Mzc2NzY3-2.85459826.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A car tax conviction against Lord Sadiq Khan has been formally withdrawn after a request by the DVLA.

@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T12:01:16Z'
 published: '2026-08-27T00:00:00Z'
 description: Clancy, 36, did not testify during the five-week trial
 image: https://static.the-independent.com/2026/08/27/05/CORRECTION_Lindsay_Clancy_Trial_56957.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Closing arguments are set for Thursday in the murder trial of Lindsay Clancy, bringing jurors closer to deciding a case centered on the deaths of her three young children and difficult questions surrounding her mental health at the time.

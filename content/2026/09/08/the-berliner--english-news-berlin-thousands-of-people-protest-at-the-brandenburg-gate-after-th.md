@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: 14,000 people showed up to demonstrate again the AfD's success. 14,000
   people showed up to protest the AfD's success in Saxony-Anhalt state elections.
 image: https://www.the-berliner.com/wp-content/uploads/2026/09/imago0866193416h-scaled.jpg
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0866193416h-scaled.jpg)

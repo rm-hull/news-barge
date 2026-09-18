@@ -11,6 +11,10 @@ description: A human rights group in Haiti has published a report that reveals n
   security holes as authorities struggle to contain violent gangs in the Caribbean
   country
 image: https://static.independent.co.uk/2026/09/01/14/APTOPIX_Haiti_Gang_Violence_71_57.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A human rights group in Haiti has published a report that reveals new details about one of the country’s biggest massacres in recent years and unveils security holes as authorities struggle to contain violent gangs.

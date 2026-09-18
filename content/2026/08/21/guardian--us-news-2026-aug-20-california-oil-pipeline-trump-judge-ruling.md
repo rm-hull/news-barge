@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: State sought to stop system off coast of Santa Barbara from resuming
   operations after Trump ordered its reopening
 image: https://i.guim.co.uk/img/media/72094ce431c4146443a1277d6ab3f83fac27d8c0/987_0_4935_3948/master/4935.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=df03b933ee85874228d5f45561ccb2fb
+categories:
+- UK
+- News & Politics
 ---
 
 An oil pipeline can continue to operate off the California coast after a judge gave it the green light this week, despite the opposition of state regulators and environmental groups.

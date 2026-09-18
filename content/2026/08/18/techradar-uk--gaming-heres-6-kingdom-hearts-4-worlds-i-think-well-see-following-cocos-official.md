@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: I don’t just want these six Kingdom hearts 4 worlds to be in the game,
   I know they will be.
 image: https://cdn.mos.cms.futurecdn.net/SkQwbXeyNs3nhiK8AqBCsk-2000-80.png
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Mickey Mouse, Sora, and Riku from Kingdom Hearts 4. Sora is disguised to blend into the Coco world.](https://cdn.mos.cms.futurecdn.net/SkQwbXeyNs3nhiK8AqBCsk.png) 

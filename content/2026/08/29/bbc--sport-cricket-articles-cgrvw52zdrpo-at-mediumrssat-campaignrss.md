@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Former captain Michael Vaughan backs batter Dan Lawrence for a run in
   England's Test side. How would you solve impending selection headache?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb3b/live/82d14b10-a3d2-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Lawrence battles dismal weather conditions to score an impressive 50

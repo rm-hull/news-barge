@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T12:48:11Z'
 published: '2026-09-03T00:00:00Z'
 description: A missing Welsh man may be in Whitby, North Yorkshire Police has said.
 image: https://www.yorkpress.co.uk/resources/images/21405265.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: Aberystwyth and Machynlleth Police)*

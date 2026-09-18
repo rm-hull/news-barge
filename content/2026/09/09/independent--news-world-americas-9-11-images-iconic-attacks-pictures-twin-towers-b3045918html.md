@@ -9,6 +9,11 @@ description: Images of the terror unleashed on America, in which 2,977 innocent 
   were murdered by 17 terrorists who also died in the attacks, are as devastating
   now as they were in the moment
 image: https://static.independent.co.uk/2021/09/07/12/2021-09-01T060907Z_18813017_RC28KR78H4WU_RTRMADP_3_USA-SEPT11-FILE.JPG?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Society & Culture
 ---
 
 The trauma of 9/11 still lingers 25 years on from the attacks on New York City and Washington, D.C., that left nearly 3,000 people dead.

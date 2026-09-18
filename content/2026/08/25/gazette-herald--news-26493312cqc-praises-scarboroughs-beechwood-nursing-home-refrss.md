@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A NORTH Yorkshire nursing home has been praised for its ‘positive culture’
   and personalised care by the CQC.
 image: https://www.gazetteherald.co.uk/resources/images/21368339.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 A NORTH Yorkshire nursing home has been praised for its ‘positive culture’ and personalised care by the CQC.

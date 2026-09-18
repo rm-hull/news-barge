@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: Citizens are turning to privacy tools in record numbers to bypass sweeping
   new regulations that mandate strict internet logging and user identity verification.
 image: https://cdn.mos.cms.futurecdn.net/wYZjT2CMEhMRLCQ3hrDRp5-1193-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Proton VPN new mobile app interface – promo image](https://cdn.mos.cms.futurecdn.net/wYZjT2CMEhMRLCQ3hrDRp5.png) 

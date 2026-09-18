@@ -7,6 +7,10 @@ scraped_at: '2026-09-05T15:05:49Z'
 published: '2026-09-05T00:00:00Z'
 description: A Volkswagen Caddy van has been stolen from Broughton Road in Malton.
 image: https://www.yorkpress.co.uk/resources/images/21414920.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: North Yorkshire Police)*

@@ -10,6 +10,9 @@ published: '2026-09-10T00:00:00Z'
 description: Docked variable refresh rate is here at last — but not all games will
   support it.
 image: https://cdn.mos.cms.futurecdn.net/6aNDoJviH3gBH4x6efduij-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![The Nintendo Switch 2 in docked mode in front of a TV, with an inset of the HDMI port on the Nintendo Switch 2's dock](https://cdn.mos.cms.futurecdn.net/6aNDoJviH3gBH4x6efduij.jpg) 

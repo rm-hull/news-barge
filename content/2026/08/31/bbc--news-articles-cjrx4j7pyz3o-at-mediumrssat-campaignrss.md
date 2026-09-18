@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Rabbi Daniel Walker says members of the Jewish community are feeling
   increasingly vulnerable.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a9b/live/0249c460-a2c2-11f1-9024-715001d09aeb.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Rabbi Daniel Walker, who is wearing a black blazer, shirt and tie and a kippah on his head, is starring directly at the camera.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/9a9b/live/0249c460-a2c2-11f1-9024-715001d09aeb.jpg)

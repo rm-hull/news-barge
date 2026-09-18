@@ -10,6 +10,10 @@ description: President Donald Trump urged Republican lawmakers facing tough reel
   and he pledged to campaign in all of the roughly three dozen contests that are likely
   to determine control of Congress
 image: https://static.independent.co.uk/2026/09/03/15/Trump_23879.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 President Donald Trump urged Republican lawmakers facing tough reelection campaigns to run on his record in the White House despite his sagging popularity, and he pledged to campaign in all of the roughly three dozen contests that are likely to determine control of Congress.

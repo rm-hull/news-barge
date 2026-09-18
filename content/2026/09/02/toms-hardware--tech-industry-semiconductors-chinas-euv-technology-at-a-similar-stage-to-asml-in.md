@@ -8,6 +8,10 @@ scraped_at: '2026-09-02T12:45:56Z'
 published: '2026-09-02T00:00:00Z'
 description: Where are immersion DUV lithography scanners?
 image: https://cdn.mos.cms.futurecdn.net/pzamkiuguieyRnBYqYYHkW-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![ASML](https://cdn.mos.cms.futurecdn.net/pzamkiuguieyRnBYqYYHkW.jpg) 

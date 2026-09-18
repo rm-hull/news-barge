@@ -9,6 +9,10 @@ description: Melting snow appears to have weakened a steep glacier at an altitud
   of 5 kilometres, causing it to plummet around a kilometre into the river valley
   below
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309559746.jpg
+categories:
+- Science
+- Technology & Software
+- Travel
 ---
 
 ![flash floods in Nepal's Nuwakot district on 26 August 2026](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309559746.jpg?w=840)

@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The group - which includes Audi, Porsche, Skoda as well as the VW brand
   - plans to cut a total of 100,000 by 2030.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b1a3/live/90a60580-a7fd-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![A Volkswagen employee presents a Volkswagen ID.3 car during a press presentation. He has his hand over a car, in a mossy green colour, parked in a tunnel full of white LED panels.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/b1a3/live/90a60580-a7fd-11f1-b109-879e35c24276.jpg)

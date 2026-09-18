@@ -8,6 +8,11 @@ scraped_at: '2026-08-24T01:54:21Z'
 published: '2026-08-24T00:00:00Z'
 description: Follow live
 image: https://i.guim.co.uk/img/media/625ee813420c1ad78d1ed4092a88ff2939a53a21/642_0_6418_5137/master/6418.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=70c892674863cf9b8c2965611fd251dc
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Barnaby Joyce says a fellow One Nation MP made a mistake on Sunday by suggesting the minor party’s migration numbers would not be much different to Labor’s, AAP reports.

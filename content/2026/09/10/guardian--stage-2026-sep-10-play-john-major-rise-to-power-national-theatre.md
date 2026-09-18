@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Play is one of eight world premieres in programme with global conflict
   and political upheaval at its heart
 image: https://i.guim.co.uk/img/media/1aba024efeb504624d63a00482c0286244d0d5a1/347_0_3374_2698/master/3374.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9dd7af53d4d4e7c32e724527706cfdfb
+categories:
+- UK
+- News & Politics
 ---
 
 A new play about John Major’s rise to power, written by James Graham, will premiere at the National Theatre in London next year, as part of a season that puts political upheaval and global conflict at the heart of its programme.

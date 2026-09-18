@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: President announces beef imports to be sold at below-market rates until
   just after Election Day
 image: https://static.independent.co.uk/2026/08/21/08/2291329696..?trim=149,0,149,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 President Donald Trump is claiming to have struck a deal to flood the U.S. market with as much as 300,000 tons of beef imported from abroad and sold under price controls in a bid to lower prices ahead of the November midterm elections.

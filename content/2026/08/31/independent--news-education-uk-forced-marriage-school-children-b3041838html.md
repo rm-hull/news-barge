@@ -7,6 +7,11 @@ scraped_at: '2026-08-31T16:08:19Z'
 published: '2026-08-31T00:00:00Z'
 description: ’I know that when schools open in September, there will be missing children’
 image: https://static.independent.co.uk/2024/11/26/00/25141849-9409ed2e-e56e-482b-ac08-d5d68469d785.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- Society & Culture
 ---
 
 At least 100 children aged 12 or younger have been referred to the government’s forced marriage unit over the last five years, figures show, alongside warnings from a campaigner that "there will be missing children" when schools re-open after the summer holidays.

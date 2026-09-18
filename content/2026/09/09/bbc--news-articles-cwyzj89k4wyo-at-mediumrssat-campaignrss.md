@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Menstrual cycles are highly individual, making blanket advice found on
   social media difficult to apply, researchers say.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e98f/live/0907ac30-a6e7-11f1-9e4c-79c1c0e340c6.png
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Sarah Mackay is pictured doing hip thrusts with a barbell in the gym.](https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/e98f/live/0907ac30-a6e7-11f1-9e4c-79c1c0e340c6.png)

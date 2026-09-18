@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Every morning at 9 a.m., Ukrainians observe a nationwide minute of silence
   for the soldiers and civilians killed in Russia’s full-scale invasion.
 image: https://static.independent.co.uk/2026/09/11/17/Russia_Ukraine_War_49925.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Photos show Kyiv pausing for Ukraine’s daily minute of silence

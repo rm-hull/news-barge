@@ -8,6 +8,10 @@ scraped_at: '2026-08-19T21:31:55Z'
 published: '2026-08-19T00:00:00Z'
 description: The investment comes amid Navi plans to go public.
 image: https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-634332718.jpg?resize=1200,781
+categories:
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Indian fintech Navi has raised $100 million from Prosus, marking the first institutional funding for the eight-year-old startup founded by Flipkart co-founder Sachin Bansal (pictured above, right).

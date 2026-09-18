@@ -8,6 +8,12 @@ published: '2026-08-21T00:00:00Z'
 description: We taste tested pies from various supermarkets including Sainsbury's
   and Morrisons.
 image: https://www.yorkpress.co.uk/resources/images/21336724.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
+- Lifestyle & Fashion
+- Health & Fitness
 ---
 
 ## Eat up: I tried supermarket chicken pies and found the best

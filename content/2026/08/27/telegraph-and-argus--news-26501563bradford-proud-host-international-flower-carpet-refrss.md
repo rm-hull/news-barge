@@ -8,6 +8,11 @@ scraped_at: '2026-08-27T22:13:22Z'
 published: '2026-08-27T00:00:00Z'
 description: THE street-lamps of the ocean; and behold,
 image: https://www.thetelegraphandargus.co.uk/resources/images/21380442.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 THE street-lamps of the ocean; and behold,

@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Angela Rayner says manifesto pledge is not being dropped but focus is
   now on building council houses
 image: https://i.guim.co.uk/img/media/b2fa224f6632e69f64ab5361fca2a9ef8d6777e7/259_0_3050_2440/master/3050.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d6901786c338d8247cf06a0c245a6a68
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The government is unlikely to meet its target of building 1.5m homes in England, Angela Rayner has acknowledged, saying there was only a “slim chance” enough houses would be built before the next election.

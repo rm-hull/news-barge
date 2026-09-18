@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: The family of a Sherburn Village dad killed in a crash have paid tribute
   to a "cheeky smile."
 image: https://www.thenorthernecho.co.uk/resources/images/21380461.jpg?type=og-image&xType=0&yType=143
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: DURHAM CONSTABULARY)*

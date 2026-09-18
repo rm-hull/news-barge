@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Billionaire Alex Beard and his former deputy appear in London court over
   alleged payments to west African officials
 image: https://i.guim.co.uk/img/media/e14eb5458f81e12aa6c490cc4437d3bcb5957185/436_0_4357_3486/master/4357.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f2a58f1376626e5aa1e7d8051bea8399
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Glencore’s billionaire former head of oil trading has pleaded not guilty to two bribery charges after allegedly facilitating payments to west African officials in order to advance the Swiss commodity group’s operations in the continent.

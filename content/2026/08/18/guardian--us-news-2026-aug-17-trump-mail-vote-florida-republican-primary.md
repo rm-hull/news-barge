@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: President, who has decried mail-in ballots amid false claims of election
   fraud, issued March order to curb voting by mail
 image: https://i.guim.co.uk/img/media/003e9202effcf1a9debbeb583f57a1dd546a3250/643_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99686c86149e31bbc3a462f193d5ac38
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Donald Trump voted by mail in Florida’s Republican primary, Politico reports, citing Palm Beach county voting records. The White House has confirmed the president’s mail-in vote, according to the New York Times, which added that this is at least the third time the president has mailed his ballot.

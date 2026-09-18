@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Students at St Aidan's Church of England High School are celebrating
   after the school recorded some of its best-ever GCSE results.
 image: https://mmo.aiircdn.com/409/6a86d6c155b923e8495.jpg
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 ![](https://mmo.aiircdn.com/409/6a86d6c155b923e8495.jpg) 

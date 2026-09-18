@@ -11,6 +11,10 @@ description: Fans of 'Peaky Blinders' can now step into the fictional world of t
   the Garrison Tavern, take on missions, place bets and interact with characters in
   an underworld inspired by the hit series.
 image: https://images.euronews.com/articles/stories/09/88/18/68/1200x675_cmsv2_a936d862-3aa3-5e3b-aae4-d2687fe7bb96-9881868.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 ## Fans of 'Peaky Blinders' can now step into the fictional world of the Shelby family at a new immersive experience near London Bridge. Visitors can explore the Garrison Tavern, take on missions, place bets and interact with characters in an underworld inspired by the hit series.

@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Long-awaited Thrilwall inquiry examined how the former nurse was able
   to murder babies at a Chester neonatal unity over a two-year period
 image: https://i.guim.co.uk/img/media/52718705e1fb4cf5d0d9e96da6fc047a4d615968/1543_670_3938_3151/master/3938.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3ee9ea8d99d190188ee4c9c9ace7f2d7
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Lucy Letby inquiry report to be published after repeated delays

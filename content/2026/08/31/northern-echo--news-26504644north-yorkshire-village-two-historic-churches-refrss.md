@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Crathorne is a small North Yorkshire village near Stokesley with a remarkable
   heritage claim.
 image: https://www.thenorthernecho.co.uk/resources/images/21385230.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: GOOGLE)*

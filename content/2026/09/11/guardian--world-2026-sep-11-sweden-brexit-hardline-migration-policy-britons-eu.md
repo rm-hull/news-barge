@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Sweden has ordered more Britons, including vulnerable people, to leave
   post-Brexit than any other EU country
 image: https://i.guim.co.uk/img/media/f966075b38c9bae98f4e8b1b4a2d92a378e32aca/630_0_4210_3368/master/4210.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ed21cab20b916a55307063cd60dec88
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 He arrived with nothing other than the clothes he wore that morning. Hours later he was banged up in a detention centre close to a Stockholm airport to await deportation.

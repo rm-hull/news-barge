@@ -7,6 +7,11 @@ scraped_at: '2026-09-10T12:54:32Z'
 published: '2026-09-10T00:00:00Z'
 description: Filming is taking place in Bradford city centre today.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21435204.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 BRADFORD is set to play a starring role in the new season of Channel 5's hit All Creatures Great and Small.

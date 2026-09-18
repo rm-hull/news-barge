@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: The owner of a café and bike hire business has welcomed a decision by
   councillors to allow the venue permission to sell alcohol and host live music…
 image: https://www.thenorthernecho.co.uk/resources/images/21377560.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The owner of a café and bike hire business has welcomed a decision by councillors to allow the venue permission to sell alcohol and host live music despite concerns from neighbouring residents.

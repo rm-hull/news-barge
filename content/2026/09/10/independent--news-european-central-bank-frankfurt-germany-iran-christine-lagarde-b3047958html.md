@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: The European Central Bank is raising interest rates to cool inflation
   that is being fed by high oil prices from the Iran war
 image: https://static.independent.co.uk/2026/09/10/13/Europe_Economy_7_3_6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The European Central Bank raised interest rates Thursday to cool inflation that is being fed by high oil prices from the Iran war. The decision was supported by a stronger-than-expected economy that suggests businesses can weather the higher borrowing costs.

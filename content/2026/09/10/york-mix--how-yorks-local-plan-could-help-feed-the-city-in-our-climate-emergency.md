@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T19:07:04Z'
 published: '2026-09-10T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/fruit-and-veg-market-dreamstime.webp
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 **Climate change is going to hit food production. But there is a way York could plan to feed its residents, says climate activist* Geoff Beacon***

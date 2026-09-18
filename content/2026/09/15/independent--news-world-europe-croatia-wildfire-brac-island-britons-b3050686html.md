@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: Dozens of tourists were evacuated from the Brač island on Croatian navy
   and fishing boats
 image: https://static.independent.co.uk/2026/09/15/16/25/Brac.jpeg?trim=0,247,0,247&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- History
+- Outdoors & Nature
 ---
 
 Hundreds of people including British tourists have evacuated a Croatian island after a major wildfire broke out, with one recalling fleeing “as a wall of flames closed in”, according to reports.

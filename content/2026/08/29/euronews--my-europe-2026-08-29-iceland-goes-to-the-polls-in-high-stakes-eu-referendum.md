@@ -9,6 +9,9 @@ description: 'Icelanders vote today on whether to resume EU membership talks in 
   high-stakes referendum. Polls show the race is too close to call, with a slim Yes
   lead eroding in the final stretch. Results are expected early on Sunday. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/26/39/1200x675_cmsv2_d2683eba-33a2-5c6c-9105-d05dc7063306-9892639.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Icelanders vote today on whether to resume EU membership talks in a high-stakes referendum. Polls show the race is too close to call, with a slim Yes lead eroding in the final stretch. Results are expected early on Sunday.

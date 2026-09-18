@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: US energy department warns of potential for outages in PJM Interconnection,
   serving 67 million from DC to Chicago
 image: https://i.guim.co.uk/img/media/ee29a4a58bfd71d6888e335327a31e5764712199/185_0_1871_1497/master/1871.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7df499dc6e06c2ef63196c29a4d8797
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The risk of power outages is expected to escalate across a broad swath of the United States on Wednesday as intense heat will test the capacity of electricity supplies serving millions of homes and businesses from the midwest through the mid-Atlantic.

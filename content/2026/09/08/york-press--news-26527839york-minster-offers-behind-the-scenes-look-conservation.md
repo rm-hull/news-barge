@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: York Minster is opening its doors to showcase the craftsmanship behind
   its conservation and heritage work next week.
 image: https://www.yorkpress.co.uk/resources/images/21419432.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: York Minster)*

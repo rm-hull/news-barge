@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Richmond Dales Amateur Swimming Club has moved summer training sessions
   to Ellerton Lake in North Yorkshire, helping the club overcome rising pool…
 image: https://www.thenorthernecho.co.uk/resources/images/21376566.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A North Yorkshire swimming club has found a way to tackle rising pool hire costs and continue offering sessions throughout the summer.

@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Germany's autonomous vehicle regulations have made it a hotspot for autonomous
   vehicle testing and eventual commercial robotaxi deployment.
 image: https://techcrunch.com/wp-content/uploads/2026/07/waymo-SF-getty.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Automotive
+- Science
 ---
 
 Waymo said Tuesday it plans to launch a robotaxi service in Munich, months after the Alphabet-owned autonomous vehicle company set up an entity in Germany.

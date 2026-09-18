@@ -7,6 +7,8 @@ scraped_at: '2026-09-11T19:10:10Z'
 published: '2026-09-11T00:00:00Z'
 description: The Guinness World Records Gamer’s Edition 2027 is out now
 image: https://cdn.mos.cms.futurecdn.net/WyDauF7r6qAGPqkACCR6C9-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![GTA 6 characters side by side. A woman sings into a microphone, a man stands in a backyard, and another man stands in a recording studio.](https://cdn.mos.cms.futurecdn.net/WyDauF7r6qAGPqkACCR6C9.jpg) 

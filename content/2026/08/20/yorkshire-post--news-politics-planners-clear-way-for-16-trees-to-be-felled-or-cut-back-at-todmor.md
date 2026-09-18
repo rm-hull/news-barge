@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Sixteen trees can be felled at a Todmorden home, after planners decided
   not to make any of them subject to full-scale tree preservation orders (TPOs).
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmEyZWIxODliLTY3YjEtNDIwZS1iOThlLTYyNzAzZGI5NzdkNjpiZDBlZTA2YS1iY2IxLTQ2YWEtYTMyOS1iOTRlOTkxYjI4NzY=.jpg?crop=3:2,smart&trim=&width=983&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 # Planners clear way for 16 trees to be felled or cut back at Todmorden home

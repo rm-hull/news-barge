@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Attack on depot owned by Ukraine military causes detonations and huge
   fire, damaging residential buildings
 image: https://i.guim.co.uk/img/media/19018d1efae13efcc9417eafcf5990f5fe1699aa/364_0_3113_2490/master/3113.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc836449d15f5aaad47618548236f059
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 At least 37 people have been killed after a Russian drone struck a warehouse near Kyiv’s western suburbs that was storing “explosive objects”.

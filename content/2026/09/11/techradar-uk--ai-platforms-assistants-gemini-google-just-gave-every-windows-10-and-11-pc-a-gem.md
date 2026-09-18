@@ -9,6 +9,8 @@ published: '2026-09-11T00:00:00Z'
 description: Google’s new Windows app turns [Alt] + [Space] into a dedicated Gemini
   shortcut, making its AI faster and easier to access than through a browser.
 image: https://cdn.mos.cms.futurecdn.net/W98DrhkUta9HRS94m5sgj5-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Windows 11 laptop and Gemini](https://cdn.mos.cms.futurecdn.net/W98DrhkUta9HRS94m5sgj5.jpg) 

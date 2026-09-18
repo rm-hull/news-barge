@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Kirsty McNeill reaffirms Labour’s 0.7% of GDP pledge and promises value
   for money to allay voter concerns
 image: https://i.guim.co.uk/img/media/7a4abec8af756c8657bd8a2a9db8888f2379a009/355_0_10932_8748/master/10932.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b847d3c1f0b6bf11218f9eb11e0bb8d2
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The development minister, Kirsty McNeill, has declared herself “a huge believer in aid”, as she reaffirmed Labour’s manifesto pledge to return to a target of 0.7% of national income spending.

@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: High ranking Republicans and voters head to Dallas this week in a desperate
   attempt to rally support ahead of the midterms
 image: https://static.independent.co.uk/2024/10/08/10/GettyImages-577293120.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Republicans are heading to Dallas this week for a two-day event conceived by President Donald Trump to energize his base prior to the upcoming midterm elections.

@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: AI-native account startup Rillet became a unicorn, led by Iconiq, after
   it doubled its ARR in the past three months, it said.
 image: https://techcrunch.com/wp-content/uploads/2025/05/Nicolas-Kopp-Founder-and-CEO-3.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 AI accounting startup Rillet announced a $100 million Series C at a $1 billion valuation on Tuesday, led by Iconiq. Returning investors include Andreessen Horowitz and Sequoia. Rillet, which emerged from stealth in 2024, is quickly becoming one of the hottest AI startups in the enterprise resource planning (ERP) industry.

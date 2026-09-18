@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: The 112th Wensleydale Show is set to return to Leyburn, bringing thousands
   of visitors together for a celebration of farming, food and rural life at…
 image: https://www.thenorthernecho.co.uk/resources/images/21372491.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: Supplied)*

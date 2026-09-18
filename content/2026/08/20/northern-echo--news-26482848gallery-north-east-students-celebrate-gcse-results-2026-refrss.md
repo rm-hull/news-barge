@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: View our gallery of GCSE Results Day 2026 as students across the North
   East celebrate their achievements and look ahead to the next stage of their…
 image: https://www.thenorthernecho.co.uk/resources/images/21352112.jpg?type=og-image&xType=0&yType=142
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 Thousands of teenagers across the North East are celebrating, as GCSE results day brought smiles, relief and pride to schools across the region.

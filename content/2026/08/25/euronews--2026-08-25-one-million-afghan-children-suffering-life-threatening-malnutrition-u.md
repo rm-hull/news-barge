@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Afghanistan has endured repeated periods of widespread hunger in recent
   decades as it has struggled through civil war and other crises.
 image: https://images.euronews.com/articles/stories/09/88/80/66/1200x675_cmsv2_19340f17-5b14-57b3-a7f6-8772016f35ce-9888066.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Afghanistan has endured repeated periods of widespread hunger in recent decades as it has struggled through civil war and other crises.

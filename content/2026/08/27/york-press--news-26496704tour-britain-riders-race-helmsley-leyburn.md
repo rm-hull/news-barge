@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: The Tour of Britain race begins in September and marks the second time
   in four years that the event has called at Helmsley.
 image: https://www.yorkpress.co.uk/resources/images/21370917.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Sports
 ---
 
 ## Helmsley prepares to welcome Tour of Britain riders for penultimate stage

@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Police uncovered a cannabis grow in an upstairs flat after being called
   about suspicious activity above Filthy's in Seaham.
 image: https://www.thenorthernecho.co.uk/resources/images/21415367.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: GOOGLE)*

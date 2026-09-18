@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T13:23:34Z'
 published: '2026-09-17T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/08/firefighters-fire-appliance-dreamstime.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 Two fire crews successfully protected buildings after a blaze threatened to get out of control last night (Wednesday).

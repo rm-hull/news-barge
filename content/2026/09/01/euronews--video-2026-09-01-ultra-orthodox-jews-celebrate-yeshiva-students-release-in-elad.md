@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Video. Ultra-Orthodox Jewish men in Elad welcomed a yeshiva student released
   from military prison amid Israel’s continuing dispute over Haredi conscription.
 image: https://images.euronews.com/articles/stories/09/89/65/22/1200x675_cmsv2_670bde55-f5de-535a-9251-8f7ce6e8babe-9896522.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 Ultra-Orthodox Jewish men in Elad welcomed the release of fellow yeshiva student Shimon Heimlich from military prison, according to a report published this week.

@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: A pharmacist has issued a salmonella warning as cases in the UK continue
   to rise - see symptoms and how to avoid it.
 image: https://www.gazetteherald.co.uk/resources/images/21382057.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Getty)*

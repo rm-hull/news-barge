@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Roberto de Zerbi has had time and money over the summer to start creating
   a new-look Tottenham. So how are they shaping up?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ae30/live/c51559b0-9e02-11f1-afde-61b39e745f81.jpg
+categories:
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 ![Roberto de Zerbi delivers a team talk](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/ae30/live/c51559b0-9e02-11f1-afde-61b39e745f81.jpg)

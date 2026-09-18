@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Mothercare, a former hgih street giant that sells baby essentials, could
   collapse under financial pressures.
 image: https://www.thenorthernecho.co.uk/resources/images/21329675.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Getty)*

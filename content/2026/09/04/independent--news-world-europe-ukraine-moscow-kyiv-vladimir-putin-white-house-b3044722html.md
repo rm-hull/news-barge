@@ -9,6 +9,9 @@ description: Russian attacks killed at least three people in Ukraine overnight, 
   said Friday, as President Volodymyr Zelenskyy said US envoys are expected in Kyiv
   within days as part of renewed diplomatic efforts
 image: https://static.independent.co.uk/2026/09/04/11/Russia-Ukraine-War_5383_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Russian attacks overnight killed at least three people in Ukraine, local officials said Friday, after President Volodymyr Zelenskyy said U.S. envoys are expected to visit Kyiv within the coming days as part of renewed diplomatic efforts to end the war.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T19:15:23Z'
 published: '2026-09-09T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/camblesforth-roundabout-a1041-a645-gsv.webp
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 Police are searching for the driver of an Audi after a crash near Selby left a cyclist in hospital.

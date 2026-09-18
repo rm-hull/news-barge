@@ -9,6 +9,8 @@ published: '2026-09-15T00:00:00Z'
 description: The new allowed websites list feature lets you punch a hole in a blocked
   category without switching off the whole filter
 image: https://cdn.mos.cms.futurecdn.net/cxKVQSj7YyZWaXxVj37ee5-663-80.png
+categories:
+- Technology & Software
 ---
 
 ![Graphic of Surfshark's web content blocker, promo image of the new allowed website list feature](https://cdn.mos.cms.futurecdn.net/cxKVQSj7YyZWaXxVj37ee5.png) 

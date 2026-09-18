@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: One of the world’s most famous steam engines is coming to the North East
   this autumn — and for the first time, it will thunder through the…
 image: https://www.thenorthernecho.co.uk/resources/images/21385063.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: STEPHEN BOTTRILL)*

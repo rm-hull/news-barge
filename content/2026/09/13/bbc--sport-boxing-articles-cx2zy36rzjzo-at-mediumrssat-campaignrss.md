@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: As the biggest night of Conor Benn's career plummets into freefall in
   Las Vegas, what did we learn and what does it mean for the rest of his career?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ced6/live/a143b5a0-af36-11f1-aff8-4b59b73a0d8d.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Conor Benn looking dejected](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ced6/live/a143b5a0-af36-11f1-aff8-4b59b73a0d8d.jpg)

@@ -9,6 +9,12 @@ description: Police have been sent in from across the country after a series of 
   incidents, starting with the head-on crash that killed two police officers and five
   young men.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/28/9/49/01M13KR66RKJ1YEWXBPMMH1E7G.jpg?trim=275,0,309,802&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # A66 crash: multiple cars torched at vigil to one of victims as police continue to make arrests

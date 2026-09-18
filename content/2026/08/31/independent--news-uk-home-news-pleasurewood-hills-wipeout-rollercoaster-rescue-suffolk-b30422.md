@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: People were stuck 50 ft in the air when the carriage on the Wipeout ride
   came to a stop
 image: https://static.independent.co.uk/2026/08/31/16/48/suffolk-firefighters-rescue-passengers-from-pleasurewood-hills-rollercoaster1-xa4c17290.webp?trim=364,0,302,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Technology & Software
 ---
 
 Twenty-seven people have been rescued after becoming stuck on a rollercoaster at the Pleasurewood Hills theme park in Lowestoft in Suffolk.

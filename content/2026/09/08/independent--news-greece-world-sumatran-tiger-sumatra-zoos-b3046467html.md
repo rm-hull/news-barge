@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Three Sumatran tiger cubs born at a zoo near Athens are offering hope
   for one of the world’s most endangered big cats
 image: https://static.independent.co.uk/2026/09/08/11/APTOPIX_Greece_Endangered_Tigers_74463.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 The world’s most endangered tigers have started a family in Greece, offering hope for a predator that is rapidly vanishing from the wild.

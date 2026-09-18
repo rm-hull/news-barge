@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: UK government reviewing allegations about My Surrogacy Journey after
   complaints about medical costs
 image: https://i.guim.co.uk/img/media/fec66d3e929be428ab1cf79601155c3b4d6bc90c/661_0_6630_5304/master/6630.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a42a968607a37524cedbf08caee32f1d
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 The UK government has said it is reviewing allegations about a British-owned surrogacy service after surrogates in Mexico who faced health complications including a hysterectomy had their insurance claims rejected.

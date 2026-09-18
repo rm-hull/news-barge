@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: One of Bradford’s most prominent empty units will soon become the city’s
   latest bar.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21352492.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: T&A)*

@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T04:46:16Z'
 published: '2026-09-14T00:00:00Z'
 description: The war with Iran has plunged the world into an energy crisis
 image: https://static.independent.co.uk/2026/09/14/22/Mideast_Wars__1245.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Saudi Arabia's closure of a major oil pipeline after a recent attack is raising fears that global energy markets in crisis because of the war with Iran could face even starker shortages, pushing prices higher for fuel and other essentials.

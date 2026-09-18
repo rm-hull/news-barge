@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: ‘AI risks developing darker capacities – perhaps even to take life,’
   Charles says
 image: https://static.independent.co.uk/2026/09/17/14/78a99edf4eaf7ae9773454cdbef741b7Y29udGVudHNlYXJjaGFwaSwxNzg5NzM1ODM3-2.85883549.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 King Charles warned of the “existential dangers” if artificial intelligence (AI) systems end up in the wrong hands as he addressed tech industry leaders at a summit focusing on the future of the sector.

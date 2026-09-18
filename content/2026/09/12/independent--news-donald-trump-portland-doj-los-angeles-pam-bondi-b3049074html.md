@@ -9,6 +9,10 @@ description: The U.S. Justice Department has struggled to secure felony convicti
   against most of the 102 protesters arrested since last year for assaulting federal
   authorities in four major cities
 image: https://static.independent.co.uk/2026/09/12/13/Federal_Enforcement_Prosecutions_51637.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The U.S. Justice Department failed to secure felony convictions against most of the 102 protesters arrested in four major cities last year on charges of assaulting federal authorities — a record far below the norm in federal assault prosecutions.

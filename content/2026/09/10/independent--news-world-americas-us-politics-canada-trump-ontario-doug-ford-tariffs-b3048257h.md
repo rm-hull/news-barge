@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Doug Ford said Thursday that Trump had unintentionally bolstered Canada
   by forcing it to decrease its reliance on the U.S.
 image: https://static.independent.co.uk/2026/09/10/20/25/GettyImages-2251897034.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Ontario Premier Doug Ford said Thursday he hopes U.S. President Donald Trump’s Republicans lose both the House and Senate in the midterm elections, arguing voters should penalize the president for his escalating trade conflict with Canada.

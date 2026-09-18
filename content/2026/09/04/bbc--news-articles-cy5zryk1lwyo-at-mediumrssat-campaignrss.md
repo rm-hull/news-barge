@@ -7,6 +7,10 @@ scraped_at: '2026-09-05T11:49:53Z'
 published: '2026-09-04T00:00:00Z'
 description: The former Great British Bake Off star says ageing is something to celebrate.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1960/live/dce16010-a786-11f1-b2d5-535b3b3d379f.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![Dame Prue Leith smiles as she poses with her hand on her hip in front of a bright orange background. She is wearing very colourful glasses and a very colourful floral blouse, along with an oversized orange chain necklace. She has short grey hair.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1960/live/dce16010-a786-11f1-b2d5-535b3b3d379f.jpg)

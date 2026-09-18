@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T22:31:35Z'
 published: '2026-09-03T00:00:00Z'
 description: Benjamin Azariah Southworth, 40, hosts the ‘Yass, Jesus’ podcast
 image: https://static.the-independent.com/2026/09/03/20/56/Screenshot-2026-09-03-at-3-56-01-PM.png?trim=0,112,0,111&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A Christian podcaster was arrested after he allegedly made threats against President Donald Trump and his personal attorney.

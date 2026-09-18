@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The charges follow an attack on Saturday in which a man died and his
   wife and daughter were injured.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/74f7/live/eda65ab0-a3b0-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Two police officers stand beside a police car, wearing yellow hi-vis waterproof coats. There is a row of terraced houses in front of them.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/74f7/live/eda65ab0-a3b0-11f1-aed2-8d6da8d75094.jpg)

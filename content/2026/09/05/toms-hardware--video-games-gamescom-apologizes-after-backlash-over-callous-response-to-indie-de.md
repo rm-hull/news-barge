@@ -9,6 +9,9 @@ published: '2026-09-05T00:00:00Z'
 description: “Our first response did not strike the right tone, and it did not show
   the people affected the empathy they deserved. We are sorry.”
 image: https://cdn.mos.cms.futurecdn.net/PUNG9mrmukHYgPbnSA97t7-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![the crowd at Gamescom 2026](https://cdn.mos.cms.futurecdn.net/PUNG9mrmukHYgPbnSA97t7.png) 

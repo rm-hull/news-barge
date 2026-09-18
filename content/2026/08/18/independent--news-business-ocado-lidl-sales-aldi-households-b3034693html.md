@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Supermarket prices rose by 2.1% in the four weeks to August 9, down significantly
   on the 2.6% the month before and the lowest rate since October 2024.
 image: https://static.independent.co.uk/2026/08/18/08/18082217-741c8d37-d341-4e17-b7bb-3ccfcbc4fa7e.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Grocery price inflation has fallen back sharply to its lowest level for nearly two years as shoppers increasingly turned to chilled finger foods in the summer heatwaves, according to new figures.

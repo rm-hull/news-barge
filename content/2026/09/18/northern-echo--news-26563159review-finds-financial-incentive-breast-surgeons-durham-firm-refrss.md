@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Cathedral Surgical Services Limited (CSS Ltd) had an arrangement with
   County Durham and Darlington Foundation Trust (CDDFT) based on “individual…
 image: https://www.thenorthernecho.co.uk/resources/images/21012282.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 There was a “clear financial incentive” for a private company run by a breast surgeon who performed mastectomies to see more patients, according to an NHS-commissioned review.

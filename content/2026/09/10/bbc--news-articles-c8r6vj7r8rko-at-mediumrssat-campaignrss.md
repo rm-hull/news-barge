@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Analysts question if the US president's election year offer is workable,
   legal or affordable.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a721/live/979ac0a0-ad26-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![US President Donald Trump speaks on the first day of the Midterm Republican National Convention in Texas](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/a721/live/979ac0a0-ad26-11f1-a540-61c3f7fc4e6c.jpg)

@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: Labour MPs in York have welcomed the government’s ban on trade with illegal
   Israeli settlements in the West Bank.
 image: https://www.gazetteherald.co.uk/resources/images/21430736.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: AP Photo/Majdi Mohammed)*

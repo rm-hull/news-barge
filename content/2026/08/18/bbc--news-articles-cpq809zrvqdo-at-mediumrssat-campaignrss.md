@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: German authorities seize dinghies and life jackets during their first
   raids under a new law that cracks down on smuggling.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3113/live/6ce86220-9815-11f1-a7ea-19f04b81e9a0.png
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 The BBC's Jess Parker takes a look at the 'huge haul' of seized items in the secret warehouse

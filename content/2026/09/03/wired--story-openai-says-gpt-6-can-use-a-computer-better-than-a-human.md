@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: OpenAI leaders think the company’s next generation model, which excels
   at computer use and coding, may mark a major milestone in AI development.
 image: https://media.wired.com/photos/6a99abf8b2409d6188eae980/191:100/w_1280,c_limit/GPT-6-Can-Use-Computer-Better-Than-Human-Business-1015939026.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 OpenAI announced Thursday the launch of its next generation AI model, GPT-6 Astra, which the company claims is state of the art at navigating computers and web browsers, writing software, and solving difficult math problems.

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered
   laptops and mini PCs, designed to run AI models right on your computer.
 image: https://media.wired.com/photos/6a988e1369e7125a8c650442/191:100/w_1280,c_limit/We-Just-Got-Our-First-Real-Look-at-AI-PCs-with-Nvidia%E2%80%99s-RTX-Spark-%E2%80%98Superchip%E2%80%99.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Three months ago, Nvidia took the wraps off its RTX Spark “superchip” and a handful of future laptops that would use it. It felt like a consequential moment in the history of the PC, despite all the questions that remained.

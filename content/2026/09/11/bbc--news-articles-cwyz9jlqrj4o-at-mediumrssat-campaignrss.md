@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: The cabinet minister tells the BBC she wanted to ensure the plans could
   survive potential legal actions.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1c1a/live/4d131150-ad20-11f1-826f-933990eae6f0.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Local Government Secretary Angela Rayner speaking on the Political Thinking with Nick Robinson podcast](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/1c1a/live/4d131150-ad20-11f1-826f-933990eae6f0.jpg)

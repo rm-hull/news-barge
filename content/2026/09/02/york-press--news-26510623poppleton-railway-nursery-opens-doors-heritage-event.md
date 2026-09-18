@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Poppleton Community Railway Nursery is hosting a Heritage Open Day and
   Sale on September 12.
 image: https://www.yorkpress.co.uk/resources/images/21394777.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Poppleton's historic railway nursery to host open day and plant sale

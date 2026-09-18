@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T19:06:27Z'
 published: '2026-09-10T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2022/04/752x424-Hull-Trains-Humber-Bridge-27022020.jpg
+categories:
+- Local
+- York
+- Sports
 ---
 
 Hull Trains, which runs from Selby and Howden to London, says it will not be able to run a service on Christmas Eve this year.

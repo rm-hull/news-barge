@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Hospitality businesses across York and North Yorkshire report a boost
   to trade thanks to our hot summer but also some challenges.
 image: https://www.yorkpress.co.uk/resources/images/21329830.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## York businesses report booming trade in hot summer - but challenges too

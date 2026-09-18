@@ -8,6 +8,9 @@ scraped_at: '2026-09-18T13:00:35Z'
 published: '2026-09-18T00:00:00Z'
 description: Scraping copyrighted content is still being debated
 image: https://cdn.mos.cms.futurecdn.net/yqUDvUuEyqbGb9vPDZphgN-1440-80.jpg
+categories:
+- Technology & Software
+- Society & Culture
 ---
 
 ![Agentisk AI](https://cdn.mos.cms.futurecdn.net/yqUDvUuEyqbGb9vPDZphgN.jpg) 

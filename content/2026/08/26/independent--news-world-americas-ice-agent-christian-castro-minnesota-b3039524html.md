@@ -10,6 +10,10 @@ description: An ICE agent charged in Minnesota with firing his gun through a hou
   door, striking a man in his leg, and then lying to justify the shooting, could walk
   out of a South Texas jail if a federal judge does not intervene
 image: https://static.independent.co.uk/2026/08/26/10/03/Screenshot-2026-08-26-at-11-35-39.png?trim=354,0,124,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 An ICE agent accused of shooting a man through the front door of a Minneapolis home and then lying about what happened could be released from a Texas jail Thursday unless a federal judge intervenes.

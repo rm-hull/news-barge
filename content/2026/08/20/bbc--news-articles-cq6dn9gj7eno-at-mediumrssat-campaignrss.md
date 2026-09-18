@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Melting sea ice from climate change has opened up the region for giant
   whales to undertake "feeding frenzies".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a1da/live/98b70b10-9bd8-11f1-bb4d-1147ef2e78e5.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![The image is captured from above by a drone. In the right side of the image,  four huge fin whales - their long bodies fully visible in the clear blue water - swim in a group. Two small research boats are dwarfed by the marine mammals, as they observe from a safe distance - they are in the top and bottom left corners of the image.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/900d/live/ac698e90-9bb9-11f1-ae8a-8d57110c5ba6.jpg)

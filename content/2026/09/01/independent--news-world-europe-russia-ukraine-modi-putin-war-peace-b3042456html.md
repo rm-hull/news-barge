@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: India is one of the biggest buyers of Russian oil and that trade is helping
   Moscow replenish its budget despite Western sanctions
 image: https://static.independent.co.uk/2026/09/01/06/download..?trim=0,124,0,124&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Indian prime minister Narendra Modi implored Vladimir Putin during a meeting in Kyrgyzstan that Russia’s war in Ukraine needed to end for the sake of humanity.

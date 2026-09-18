@@ -7,6 +7,10 @@ scraped_at: '2026-09-16T04:43:05Z'
 published: '2026-09-16T00:00:00Z'
 description: LEGENDARY magician Penn Jillette is heading out on tour.
 image: https://www.yorkpress.co.uk/resources/images/21207045.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: Supplied)*

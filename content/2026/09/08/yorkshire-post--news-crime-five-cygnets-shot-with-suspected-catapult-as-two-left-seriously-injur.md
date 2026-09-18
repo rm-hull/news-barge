@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Police are appealing for information after five cygnets were shot on
   a canal in Rotherham, leaving two of the young swans in a serious condition.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/08/15/33/swan-cignets.webp?trim=376,0,306,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Five cygnets shot with suspected catapult as two left seriously injured

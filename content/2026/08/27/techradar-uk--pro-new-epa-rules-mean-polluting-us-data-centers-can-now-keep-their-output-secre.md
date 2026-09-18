@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: America's data center boom faces another controversy as EPA considers
   dropping mandatory public notice for minor pollution permits
 image: https://cdn.mos.cms.futurecdn.net/zwBWPNAfpJdnNkfJY3wUKM-2560-80.jpg
+categories:
+- Technology & Software
+- News & Politics
 ---
 
 ![A data center in a blue light](https://cdn.mos.cms.futurecdn.net/zwBWPNAfpJdnNkfJY3wUKM.jpg) 

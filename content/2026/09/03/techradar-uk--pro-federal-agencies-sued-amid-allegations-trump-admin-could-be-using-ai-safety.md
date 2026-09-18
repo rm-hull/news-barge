@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: US government agencies criticized for failing to reveal very many details
   at all about how its tests the safety of frontier models.
 image: https://cdn.mos.cms.futurecdn.net/gZWeSm7TfJqCmsgQBrYCnL-1920-80.jpg
+categories:
+- Technology & Software
+- News & Politics
 ---
 
 ![donald trump at trump rally smirking at camera](https://cdn.mos.cms.futurecdn.net/gZWeSm7TfJqCmsgQBrYCnL.jpg) 

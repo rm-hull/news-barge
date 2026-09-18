@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: Looking for an alternative to fast fashion, Eve Ogden Schaub decided
   to create a garment from homegrown flax
 image: https://i.guim.co.uk/img/media/2164a91ec44207b7b0003de520dd9a151481cc18/0_295_1290_1031/master/1290.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0dae1668072c785ff5cc20279476c2a9
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 From crop tops to shorts and brightly patterned dresses, many of today’s clothes are the result of fast fashion. But one woman is taking a radical approach to challenging this trend by growing her own dress.

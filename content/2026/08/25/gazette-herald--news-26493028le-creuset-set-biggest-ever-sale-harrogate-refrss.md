@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A popular cookware company Le Creuset says it will host its ‘biggest
   sale ever’ in North Yorkshire next month.
 image: https://www.gazetteherald.co.uk/resources/images/20734910.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 A POPULAR cookware company Le Creuset says it will host its ‘biggest sale ever’ in North Yorkshire next month.

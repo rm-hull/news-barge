@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Peter Marinker is taking on one of Samuel Beckett's most famous plays
   alone on a London stage.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0499/live/84b46410-9d5d-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- Comedy & Entertainment
 ---
 
 ![Peter Marinker in dress rehearsals for the play Krapp's Last Tape. He is wearing an old grey dressing gown and sitting in front of a desk. There is a tape recorder in front of him and some silver boxes containing reel-to-reel tapes.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0499/live/84b46410-9d5d-11f1-aed2-8d6da8d75094.jpg)

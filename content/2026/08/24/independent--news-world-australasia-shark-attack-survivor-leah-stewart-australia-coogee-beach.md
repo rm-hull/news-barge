@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Sydney schoolteacher Leah Stewart lost an arm after being attacked by
   a suspected great white shark in June
 image: https://static.independent.co.uk/2026/06/15/7/50/105018813_1781498396917855_r.jpeg?trim=23,0,23,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 An Australian woman who lost an arm in a shark attack said thoughts of her young daughter drove her to fight for her life as she faced the "monster".

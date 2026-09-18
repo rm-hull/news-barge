@@ -8,6 +8,9 @@ published: '2026-09-05T00:00:00Z'
 description: Ruling allows defense department to proceed for now in exerting greater
   editorial control over military news outlet
 image: https://i.guim.co.uk/img/media/28a6d4d584aaee15675af89663fbbe5829d4ad4b/399_0_3990_3192/master/3990.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4104ffbce74c1feb8da3cae643abcc81
+categories:
+- UK
+- News & Politics
 ---
 
 A federal judge has declined to stop the Pentagon from firing journalists who say they were illegally punished for speaking out about the need for the Stars and Stripes publication to maintain its editorial independence.

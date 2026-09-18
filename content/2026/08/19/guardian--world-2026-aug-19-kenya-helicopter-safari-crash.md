@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Officials say all seven people onboard killed, including Telemundo executive
   and Ecuador intelligence chief
 image: https://i.guim.co.uk/img/media/9fdcdc66a749e2c2d744573e77ae9530705a5893/47_0_1505_1204/master/1505.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aeffdd09cc38a327ab748663726e6102
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department.

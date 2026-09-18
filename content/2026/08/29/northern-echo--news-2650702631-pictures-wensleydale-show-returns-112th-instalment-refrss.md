@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: 31 pictures as thousands of visitors headed to the 112th Wensleydale
   Show, celebrating farming, food and countryside life in the Yorkshire Dales.
 image: https://www.thenorthernecho.co.uk/resources/images/21388758.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: ANDY FUTERS)*

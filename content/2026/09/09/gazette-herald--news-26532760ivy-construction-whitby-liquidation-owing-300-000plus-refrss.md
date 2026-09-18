@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: Whitby firm Ivy Construction has gone into liquidation with debts of
   more than £300,000.
 image: https://www.gazetteherald.co.uk/resources/images/21426768.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: PA)*

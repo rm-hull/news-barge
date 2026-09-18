@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: On Friday, the financial agency raised Portugal's debt rating from "A"
   to "A+", with a "stable" outlook, the agency said in a published note.
 image: https://images.euronews.com/articles/stories/09/90/26/06/1200x675_cmsv2_98e0b04b-e23e-5fe9-b0bd-2c3f7a869ebd-9902606.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 ## On Friday, the financial agency raised Portugal's debt rating from "A" to "A+", with a "stable" outlook, the agency said in a published note.

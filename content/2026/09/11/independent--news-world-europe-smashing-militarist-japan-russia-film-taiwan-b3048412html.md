@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Taiwan says Russia is helping China push its narrative of a rising military
   threat from Japan
 image: https://static.independent.co.uk/2026/09/01/05/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A screening of a film in a small room in a downtown Taipei office building has raised fears in the country’s government.

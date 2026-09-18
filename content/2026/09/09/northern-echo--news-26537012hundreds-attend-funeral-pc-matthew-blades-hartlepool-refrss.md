@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: The heartbroken wife of PC Matthew Blades has spoken of the “unimaginable”
   pain of losing her husband and the father of her two young sons as…
 image: https://www.thenorthernecho.co.uk/resources/images/21432566.jpg?type=og-image&xType=0&yType=33
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 The heartbroken wife of PC Matthew Blades has described the “unimaginable” pain of losing her husband as hundreds gathered to pay their respects at his funeral.

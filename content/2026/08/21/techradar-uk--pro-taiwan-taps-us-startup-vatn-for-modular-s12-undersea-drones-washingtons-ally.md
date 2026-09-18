@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: Taiwan turns to a small US defense startup for modular underwater drones
   amid growing pressure beneath the waves
 image: https://cdn.mos.cms.futurecdn.net/En3kz99nQshxj26oApm3HM-1920-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Vatn S12 AUV](https://cdn.mos.cms.futurecdn.net/En3kz99nQshxj26oApm3HM.png) 

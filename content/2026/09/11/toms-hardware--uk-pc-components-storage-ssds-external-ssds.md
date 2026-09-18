@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: External SSD reviews, news and features, created for the hardcore PC
   enthusiast by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/JELLkAw4TQeRA2FYkfGHLC-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ## Explore External SSDs

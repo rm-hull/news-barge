@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: The MP for Keighley said “the situation cannot continue” after a fifth
   major fire in as many years at Dalton Mills in the town.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2025/07/27/14/17/dalton-mills.jpg?trim=61,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # 'Deeply infuriating’ - Latest major fire at Yorkshire landmark sparks frustration

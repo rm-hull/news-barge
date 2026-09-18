@@ -9,6 +9,12 @@ published: '2026-08-21T00:00:00Z'
 description: A Massachusetts charter fishing captain and a client have caught what
   they believe is the largest Atlantic blue marlin in U.S. East Coast history
 image: https://static.independent.co.uk/2026/08/21/22/Giant_Marlin_41542.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- History
+- Business & Entrepreneurship
 ---
 
 Damon Sacco had never seen anything like the fish he and fellow anglers fought for hours in the waters off Massachusetts. As it rose from the depths, it looked like a glimmering blue spaceship.

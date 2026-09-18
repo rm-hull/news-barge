@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: Businesses in York and North Yorkshire are set to benefit from a new
   round of export help with £300,000 of grants available.
 image: https://www.gazetteherald.co.uk/resources/images/21367114.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Pic supplied)*

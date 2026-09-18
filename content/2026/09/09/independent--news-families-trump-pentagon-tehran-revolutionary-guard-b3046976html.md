@@ -10,6 +10,10 @@ description: The Shajareh Tayyebeh school in the southern Iranian city of Minab 
   become a place to wrestle with grief and preserve the memories of some 120 children
   killed here by an American airstrike on the first day of the war on Iran
 image: https://static.independent.co.uk/2026/09/09/06/Iran_School_43597.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The sun set over this southern Iranian city, and Heydar Sadeghi was where he can be found almost every evening: on a bench next to the shattered remains of his grandson’s school. His face was soaked with tears.

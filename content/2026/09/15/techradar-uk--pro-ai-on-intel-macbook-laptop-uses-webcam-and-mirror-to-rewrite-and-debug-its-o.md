@@ -8,6 +8,8 @@ published: '2026-09-15T00:00:00Z'
 description: Schroeder skips human testers entirely and lets a coding agent watch
   its own screen through a webcam
 image: https://cdn.mos.cms.futurecdn.net/LDNo5xaNNmgFfASnboDh2A-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Intel MacBook webcam watching its own screen](https://cdn.mos.cms.futurecdn.net/LDNo5xaNNmgFfASnboDh2A.png) 

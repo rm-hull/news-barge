@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: Residents are being invited to comment on four proposals affecting listed
   buildings and conservation areas in Middlesbrough, including plans for new…
 image: https://www.thenorthernecho.co.uk/resources/images/18954988.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: NQ)*

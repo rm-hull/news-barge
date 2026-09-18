@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Treasury Secretary Scott Bessent is pitching a financial literacy campaign
   to the world's largest economies
 image: https://static.independent.co.uk/2026/09/01/21/G2__Finance_Ministers_1_452.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Driven in part by his own experience with poverty as a child, Treasury Secretary Scott Bessent is pitching a financial literacy campaign to leaders of the world's largest economies and suggesting an investment account program begun under President Donald Trump as a model for it.

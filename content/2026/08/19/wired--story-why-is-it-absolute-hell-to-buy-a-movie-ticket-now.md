@@ -9,6 +9,11 @@ description: 'Overwhelmed theater apps and a scarcity mindset around exclusive b
   formats for blockbusters like “Dune: Part Three” and “The Odyssey” have led to the
   “concertification” of movies.'
 image: https://media.wired.com/photos/6a84cf4b5fff3cefc910e1b0/191:100/w_1280,c_limit/Summer-of-Movie-Ticket-Concertification-Culture.jpg
+categories:
+- Technology & Software
+- Science
+- Film & TV
+- Arts & Culture
 ---
 
 The conclusion to Denis Villeneuve’s epic *Dune* trilogy is still four months away, but the anticipation was palpable on Tuesday, the first day of ticket presales.

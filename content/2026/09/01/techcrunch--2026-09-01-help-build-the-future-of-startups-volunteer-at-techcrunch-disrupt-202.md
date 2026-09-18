@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: TechCrunch Disrupt is where those moments happen. And we can't pull it
   off without volunteers like you.
 image: https://techcrunch.com/wp-content/uploads/2026/08/TechCrunch-Disrupt-2025-Day-3.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 Every breakthrough company starts somewhere. Every founder who changed the world had a moment where they found their people, discovered their next co-founder, or got the advice that shifted everything.

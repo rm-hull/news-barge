@@ -9,6 +9,10 @@ description: 'The global average air temperature in August was 1.65°C above the
   reference value. With prolonged and early heatwaves, Western Europe broke the summer
   temperature record set in 2003. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/70/67/1200x675_cmsv2_e438e79c-92c4-5b5e-8543-6e4c6ac4385d-9907067.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## The global average air temperature in August was 1.65°C above the pre-industrial reference value. With prolonged and early heatwaves, Western Europe broke the summer temperature record set in 2003.

@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T08:52:56Z'
 published: '2026-08-19T00:00:00Z'
 description: Gastric cancer is the fifth leading cause of cancer death worldwide
 image: https://static.independent.co.uk/2026/08/19/3/03/Soda-sweetened-with-high-fructose-corn-syrup.jpeg?trim=143,0,190,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 People who drink sugary beverages daily are at a higher risk of developing stomach cancer, a new study warns while hinting that artificial sweeteners can lower the danger.

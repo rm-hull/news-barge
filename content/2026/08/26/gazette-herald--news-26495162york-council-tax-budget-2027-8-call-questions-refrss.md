@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: People have been urged to submit their questions about City of York Council's
   upcoming budget.
 image: https://www.gazetteherald.co.uk/resources/images/20475955.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- News & Politics
 ---
 
 PEOPLE in York have been urged to share the questions they have about the council’s budget as work gets underway on plans for the coming financial year.

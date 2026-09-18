@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The tribunal heard Mr Bullen sent six unsolicited images ‘in various
   states of undress’
 image: https://static.independent.co.uk/2026/08/26/10/2026-08-03T201112Z_658353101_RC2UKV93QTMI_RTRMADP_3_SNAP-RESULTS.JPG?trim=17,0,17,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 An assistant headteacher at a primary school who was caught sending explicit pictures of himself to a teenage boy on Snapchat said he “craved attention” as a “sexual thrill”, a tribunal heard.

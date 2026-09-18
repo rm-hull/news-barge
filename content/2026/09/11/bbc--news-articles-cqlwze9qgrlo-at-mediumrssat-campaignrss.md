@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: A levy on overnight stays in England and Wales, 9/11 anniversary and
   Dame Esther Rantzen lead Friday's papers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/829a/live/f69710b0-ad6a-11f1-a768-5185b2544e5f.png
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![The headline on the front page of the Guardian reads: “'A hammer blow': plan for English tourist tax angers hotel industry”.](https://ichef.bbci.co.uk/ace/standard/774/cpsprodpb/cd25/live/90d41290-ad5c-11f1-bc1f-3f186ca4140c.jpg)

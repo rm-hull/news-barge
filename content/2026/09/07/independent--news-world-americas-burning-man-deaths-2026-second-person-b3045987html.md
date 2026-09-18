@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Burning Man draws tens of thousands of visitors each year to the Black
   Rock Desert in Nevada
 image: https://static.independent.co.uk/2026/08/31/15/1645978971..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A second Burning Man attendee was found dead at his camp, one day after another man died at the Nevada festival.

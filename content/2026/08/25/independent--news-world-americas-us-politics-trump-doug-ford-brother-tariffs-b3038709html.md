@@ -10,6 +10,9 @@ description: President Donald Trump slams Ontario premier as tariff tensions esc
   by comparing him unfavorably to his deceased sibling, the colorful former Toronto
   mayor to whom he has himself been likened
 image: https://static.independent.co.uk/2026/08/25/09/485394151..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump has escalated his war of words with Ontario Premier Doug Ford by comparing him unfavorably to his late brother and fellow politician Rob Ford.

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The company said it plans to dig more than 150 kilometers of tunnels
   in the Middle Eastern country.
 image: https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1311710604.jpg?resize=1200,770
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 Elon Musk’s tunneling company, The Boring Company, has raised a $3 billion Series D funding round that pushes its valuation to $23 billion.

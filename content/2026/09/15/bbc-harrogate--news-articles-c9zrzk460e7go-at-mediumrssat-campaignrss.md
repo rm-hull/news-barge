@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The sister of a woman who was killed in Yorkshire in 2000 has objected
   to the killer's release bid.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f876/live/f1c33a40-b0c7-11f1-a2b7-314e849a6e43.jpg
+categories:
+- Local
+- Harrogate
+- True Crime
 ---
 
 ![A young woman is near the camera. She has dark hair and dark eyes and is smiling, looking to the side.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/f876/live/f1c33a40-b0c7-11f1-a2b7-314e849a6e43.jpg)

@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: Antonella Molina and her nephew Pedro are searching for 18-year-old Andres
   Molina in La Guaira, Venezuela
 image: https://static.independent.co.uk/2026/09/06/12/Venezuela_Earthquake_Search_5454_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Antonella Molina, her nephew Pedro Molina and a group of friends set out at 8 a.m. on a recent Saturday, hands full of flyers, walking carefully through the rubble that remains throughout La Guaira after two catastrophic back-to-back earthquakes 10 weeks ago.

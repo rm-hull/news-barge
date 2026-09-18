@@ -8,6 +8,8 @@ published: '2026-09-16T00:00:00Z'
 description: The winners are 100% voted by you, so pick your winners in phones, tablets,
   drones, cameras and more!
 image: https://cdn.mos.cms.futurecdn.net/g2jMwTMb95UAjejp9nSuU7-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The TechRadar Readers Choice Awards logo on a patterned background](https://cdn.mos.cms.futurecdn.net/g2jMwTMb95UAjejp9nSuU7.jpg) 

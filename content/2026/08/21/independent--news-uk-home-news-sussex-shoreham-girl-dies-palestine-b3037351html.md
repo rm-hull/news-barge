@@ -7,6 +7,12 @@ scraped_at: '2026-08-21T20:36:28Z'
 published: '2026-08-21T00:00:00Z'
 description: Saja El-Khawas had been in critical condition in hospital
 image: https://static.independent.co.uk/2026/08/19/17/53/Shoreham-split.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Society & Culture
+- Family & Parenting
 ---
 
 A six-year-old girl who was pulled from the sea at Shoreham on Tuesday along with three of her family members has died in hospital.

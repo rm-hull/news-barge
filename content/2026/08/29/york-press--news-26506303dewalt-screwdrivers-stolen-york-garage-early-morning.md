@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: North Yorkshire Police said a number of DeWalt screwdrivers were stolen
   from the scene in Lumley Road, Clifton around 1.47am on Thursday, August 27.
 image: https://www.yorkpress.co.uk/resources/images/19226588.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
 ---
 
 *(Image: Kevin Glenton)*

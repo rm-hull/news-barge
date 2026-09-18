@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: The discussions have been described as ‘substantive’ as the US seeks
   to bridge the chasm between Kremlin demands and Ukrainian red lines
 image: https://static.independent.co.uk/2026/09/06/16/2293318083..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 US special envoys Steve Witkoff and Jared Kushner arrived in Kyiv on Sunday for high-stakes negotiations with Ukrainian president Volodymyr Zelensky, capping a high-wire weekend of shuttle diplomacy aimed at breaking a long-standing stalemate in the war.

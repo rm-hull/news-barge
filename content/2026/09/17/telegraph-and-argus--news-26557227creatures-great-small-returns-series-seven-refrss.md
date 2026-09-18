@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: All Creatures Great and Small is returning to screens with a seventh
   series.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21435204.jpg?type=og-image&xType=0&yType=840
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Film & TV
 ---
 
 *(Image: Playground Television UK 2/PBS/Channel 5 Television/Jay Brooks)*

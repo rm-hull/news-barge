@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: Top city chef Ahmed Abdalla announces his surprise departure from one
   of York's best restaurants,
 image: https://www.gazetteherald.co.uk/resources/images/21412276.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
+- Travel
 ---
 
 *Great British Menu chef Ahmed Abdalla is leaving top York restaurant Legacy, reports MAXINE GORDON*

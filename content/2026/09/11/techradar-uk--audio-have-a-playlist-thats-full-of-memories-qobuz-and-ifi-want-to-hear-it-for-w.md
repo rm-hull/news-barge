@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: Music streaming service Qobuz and hi-fi tech maker iFi have teamed up
   for World Alzheimer's Month with a competition.
 image: https://cdn.mos.cms.futurecdn.net/PfhjrTGec6LoRqVSPXLtfB-1920-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ![iFi iDSD GR 2 plugged into music player and headphones](https://cdn.mos.cms.futurecdn.net/PfhjrTGec6LoRqVSPXLtfB.jpg) 

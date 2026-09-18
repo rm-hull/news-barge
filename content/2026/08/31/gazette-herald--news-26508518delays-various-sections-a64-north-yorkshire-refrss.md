@@ -7,6 +7,11 @@ scraped_at: '2026-08-31T16:07:41Z'
 published: '2026-08-31T00:00:00Z'
 description: Traffic is building on a main road in North Yorkshire this morning (Monday).
 image: https://www.gazetteherald.co.uk/resources/images/21287521.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Contributed)*

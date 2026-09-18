@@ -9,6 +9,10 @@ scraped_at: '2026-09-15T11:26:18Z'
 published: '2026-09-15T00:00:00Z'
 description: Play it again, Sam.
 image: https://cdn.mos.cms.futurecdn.net/ZwKwBGT6Ao4MECeuHFNjZF-2048-80.png
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Error](https://cdn.mos.cms.futurecdn.net/ZwKwBGT6Ao4MECeuHFNjZF.png) 

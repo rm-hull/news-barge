@@ -10,6 +10,9 @@ description: While Oura has largely dominated the smart ring market for years, a
   number of rivals are now racing to dethrone it by trying all sorts of approaches
   to get an edge over it.
 image: https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The smart ring market is getting crowded, and Oura isn’t waiting around to see what happens next: it officially filed to go public on September 3. The Finnish company’s revenue nearly doubled to $1.21 billion for the nine months ended June 30.

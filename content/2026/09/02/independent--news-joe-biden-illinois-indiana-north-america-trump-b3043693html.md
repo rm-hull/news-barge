@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: A federal judge has ordered the U.S. Forest Service to halt a logging
   project in Illinois' Shawnee National Forest
 image: https://static.independent.co.uk/2026/09/02/18/Shawnee_National_Forest_Logging_6_425.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A federal judge this week ordered the U.S. Forest Service to suspend a commercial logging project in southern Illinois’ Shawnee National Forest, finding the 2024 approval of the project under President Joe Biden violated the Endangered Species Act.

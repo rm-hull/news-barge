@@ -7,6 +7,9 @@ scraped_at: '2026-09-07T14:14:53Z'
 published: '2026-09-07T00:00:00Z'
 description: Get ready for the season finale
 image: https://cdn.mos.cms.futurecdn.net/HV7U6uzSWNjHRNVUYzTXXY-1798-80.png
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Hayes Warner as Debbie Schaffer and Kaia Gerber as Susan Reynolds in The Shards.](https://cdn.mos.cms.futurecdn.net/HV7U6uzSWNjHRNVUYzTXXY.png) 

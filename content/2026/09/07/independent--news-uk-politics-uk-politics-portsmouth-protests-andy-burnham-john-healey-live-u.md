@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: Lee Anderson called the protesters ‘decent patriotic Brits who’ve had
   enough’
 image: https://static.independent.co.uk/2026/09/07/01/9bfc35a5737a9d13196fdc1ac5c5c43aY29udGVudHNlYXJjaGFwaSwxNzg4ODI0MDQw-2.85766974.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Police are hunting to identify offenders after police were injured and cars were damaged in anti-migration protests.

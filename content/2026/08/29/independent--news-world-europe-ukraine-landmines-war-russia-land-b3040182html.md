@@ -9,6 +9,11 @@ description: Ukraine has been littered with mines since Putin invaded the countr
   in 2022, posing a devastating risk to civilians. Antonina Kulhava, a humanitarian
   deminer, tells Maira Butt how she is trying to make her country safer
 image: https://static.independent.co.uk/2026/08/27/14/38/Unknown-4.jpg?trim=0,0,157,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 Every morning, Antonina Kulhava wakes up to the whirr of Russian drones.

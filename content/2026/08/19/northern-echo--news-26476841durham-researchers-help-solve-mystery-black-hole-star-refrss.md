@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: Researchers at Durham University helped discover a possible new type
   of cosmic object, a ‘black hole star’, using NASA’s James Webb Space…
 image: https://www.thenorthernecho.co.uk/resources/images/20697045.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Science
+- Technology & Software
 ---
 
 Stargazers across County Durham have spent recent days looking upwards for celestial events including the Perseid meteor shower and this month’s solar eclipse.

@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: Some areas in the country had the ‘first meaningful rain for a long time”
   this week
 image: https://static.independent.co.uk/2026/08/20/11/2291241190..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Large parts of the UK have been hit with heavy showers and thunderstorms on Thursday, bringing the threat of flooding and travel disruption.

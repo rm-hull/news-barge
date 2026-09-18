@@ -9,6 +9,10 @@ description: A new study says at least one in four ex-NFL players who died betwe
   2016 and 2021 had a degenerative brain disease but the true figure could be much
   higher.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/549e/live/2fb714c0-a088-11f1-bfeb-dfb02ea642ef.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 ![Brain scans of a former NFL player who was diagnosed with CTE](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/549e/live/2fb714c0-a088-11f1-bfeb-dfb02ea642ef.jpg)

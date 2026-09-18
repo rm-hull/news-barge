@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: The prosecution’s final witness played excerpts from Davis’ previous
   interviews and recorded jail calls
 image: https://static.the-independent.com/2026/08/27/00/2026-08-26T211221Z_1410278710_RC2L6NAI9NGM_RTRMADP_3_PEOPLE-TUPAC-MURDER-COURT.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Sports
 ---
 
 Prosecutors rested their case Wednesday in the murder trial of Duane “Keffe D” Davis, calling 24 witnesses in the case over the 1996 killing of Tupac Shakur.

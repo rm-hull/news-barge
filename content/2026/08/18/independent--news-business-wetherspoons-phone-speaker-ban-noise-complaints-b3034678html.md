@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Chairman and founder Sir Tim Martin labelled the pubs as ‘an oasis of
   tranquillity and contemplation’
 image: https://static.independent.co.uk/2026/08/17/22/01M08QS5JMVGWCJ7ZTFJBYX765.jpg?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Music
 ---
 
 Pub chain JD Wetherspoon has banned customers from playing music or taking calls on loud speaker following complaints that noise was driving people "nuts".

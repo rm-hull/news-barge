@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Last year the organisation African Parks admitted human rights abuses
   were committed by its rangers in Congo-Brazzaville.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e417/live/35b281d0-9fc9-11f1-81b8-016fbb74ef71.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Sports
 ---
 
 ![Prince Harry staring to his right wearing an African Parks cap and shirt with sunglasses](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/e417/live/35b281d0-9fc9-11f1-81b8-016fbb74ef71.jpg)

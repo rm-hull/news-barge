@@ -10,6 +10,13 @@ description: A lot has been said about Britain’s place in a world that is rapi
   changing. There has been a marked shift since the start of Donald Trump’s second
   term as President of the United States.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjVhODlhOGQ5LTBiYmQtNDA5Zi1iYjIxLWYxOGI1YTUyMTBlYzowOGI3Mzk4YS04MGI4LTQ4M2MtYmNlMi0xYzRjZjA0OTFjMmY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- History
+- Society & Culture
 ---
 
 # What Britain’s sanctions on illegal Israeli settlements tell us about the shifting world order

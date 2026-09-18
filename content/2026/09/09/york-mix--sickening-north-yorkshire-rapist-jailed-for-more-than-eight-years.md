@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T12:56:35Z'
 published: '2026-09-09T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/phill-blunt.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 A rapist responsible for a ‘sickening offence’ has been sent to prison.

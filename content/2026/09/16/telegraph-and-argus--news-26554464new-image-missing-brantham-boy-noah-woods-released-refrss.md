@@ -8,6 +8,11 @@ scraped_at: '2026-09-16T13:27:46Z'
 published: '2026-09-16T00:00:00Z'
 description: Police have released a new image of a missing three-year-old boy.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21460952.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: Suffolk Constabulary)*

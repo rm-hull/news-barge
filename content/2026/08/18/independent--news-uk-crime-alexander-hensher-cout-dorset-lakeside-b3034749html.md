@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Alexander Hensher, 48, whose address was given as a £2m Chelsea townhouse,
   appeared at Weymouth Magistrates' Court
 image: https://static.independent.co.uk/2026/08/18/8/02/BNPS_AlexanderHensher_02.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A wind farm tycoon was exposed for having child porn after he went into a computer repair shop and asked them to wipe his hard drives.

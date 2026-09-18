@@ -9,6 +9,9 @@ published: '2026-08-30T00:00:00Z'
 description: Measles cases surge to 35-year high as deaths in Pennsylvania spark clash
   between the governor and Trump’s health secretary
 image: https://static.independent.co.uk/2026/08/29/23/2026-08-24T215824Z_1279344927_RC2UPLA71WEO_RTRMADP_3_USA-HEALTH-RFK-MERCK-CO.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Health and Human Services Secretary Robert F. Kennedy Jr. has accused “fear-mongering” politicians and journalists of hyping up “so-called measles deaths” as he defended the Trump administration in the face of a historic spike in U.S. measles cases.

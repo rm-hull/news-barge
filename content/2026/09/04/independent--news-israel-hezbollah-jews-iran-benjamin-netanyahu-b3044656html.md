@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: Israel has released four Lebanese prisoners to the International Committee
   of the Red Cross as part of a deal with Lebanon
 image: https://static.independent.co.uk/2026/09/04/10/CORRECTION_Lebanon_Israel_3_363.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Four prisoners from Lebanon held in Israel were released and handed over to the International Committee of the Red Cross Friday as part of a deal between the two countries. In return, Lebanon agreed to search for the bodies of Jewish Lebanese citizens who went missing during the country's civil war decades ago.

@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: Trump makes racist remark about Arab-sounding names as he jokes about
   his Iran war in Dallas
 image: https://static.independent.co.uk/2026/09/10/03/2026-09-10T021849Z_1486929624_RC22GNA0PN71_RTRMADP_3_USA-ELECTION-REPUBLICANS.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump made an off-color reference to the father of Princess Diana’s boyfriend, Dodi Fayed, during his remarks Wednesday at the Republican midterm convention in Dallas as he joked about his war in Iran.

@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: An event in London featured a video from Prime Minister Andy Burnham
   as well as speeches from family members of victims of the attacks
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c4eb/live/7716b720-add6-11f1-a40e-b70f4378d974.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A man stands at a podium in front of a seated audience at the Queen Elizabeth Olympic Park](https://ichef.bbci.co.uk/ace/standard/837/cpsprodpb/c4eb/live/7716b720-add6-11f1-a40e-b70f4378d974.jpg)

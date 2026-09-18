@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A man and a woman have been charged following the discovery of six people
   inside a lorry in Yorkshire.
 image: https://www.gazetteherald.co.uk/resources/images/20475206.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 *(Image: Dave Higgens / PA Wire)*

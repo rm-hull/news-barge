@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: A “fabulous” family home with Minster views has hit the market off Heslington
   Road in York – for £650,000.
 image: https://www.yorkpress.co.uk/resources/images/21410689.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 ## Look inside this ‘fabulous’ family home for sale in York – with Minster views

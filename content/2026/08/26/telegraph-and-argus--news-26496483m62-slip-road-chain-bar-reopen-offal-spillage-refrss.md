@@ -8,6 +8,11 @@ scraped_at: '2026-08-26T13:12:10Z'
 published: '2026-08-26T00:00:00Z'
 description: A road on the motorway has reopened after an offal spillage this morning.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21373051.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: Highways England)*

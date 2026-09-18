@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: NEXT weekend, the Darlington Rhythm ‘n’ Blues Festival celebrates its
   30th anniversary with a huge programme of gigs lasting three days.
 image: https://www.thenorthernecho.co.uk/resources/images/21405839.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 NEXT weekend, the Darlington Rhythm ‘n’ Blues Festival celebrates its 30th anniversary with a huge programme of gigs lasting three days.

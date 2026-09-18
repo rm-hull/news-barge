@@ -8,6 +8,10 @@ scraped_at: '2026-09-02T12:44:58Z'
 published: '2026-09-02T00:00:00Z'
 description: No, this does not mean GTA VI can run on a Switch 2.
 image: https://cdn.mos.cms.futurecdn.net/iwm5jZCX5W5LNzxXPj8VYE-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Grand Theft Auto V running natively on a Nintendo Switch](https://cdn.mos.cms.futurecdn.net/iwm5jZCX5W5LNzxXPj8VYE.jpg) 

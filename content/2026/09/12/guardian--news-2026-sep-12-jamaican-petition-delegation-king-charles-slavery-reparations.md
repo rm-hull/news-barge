@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Petition to king, who remains Jamaica’s head of state, is formally lodged
   in landmark visit to UK by officials
 image: https://i.guim.co.uk/img/media/1c2dbacb3799105d4e0f77d6315b1d0ae1ca5ae8/1351_102_5986_4789/master/5986.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=21fb7c2b08c9637520d40d704347c4b6
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 A palpable surge of emotion swept through Brixton’s New Park Road Baptist church as the packed congregation rose to sing Bob Marley’s Redemption Song.

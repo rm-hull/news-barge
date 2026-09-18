@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: Hundreds of fire safety actions were overdue in council-owned blocks
   of flats in Darlington, a report has found.
 image: https://www.thenorthernecho.co.uk/resources/images/18634713.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: The Northern Echo)*

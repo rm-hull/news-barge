@@ -9,6 +9,12 @@ published: '2026-09-13T00:00:00Z'
 description: A social worker from Shipley has been named a finalist for a national
   award on the back of personal accolades made by his staff and care leavers.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21388339.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Careers & Productivity
+- Arts & Culture
 ---
 
 *(Image: Sidiq Ali)*

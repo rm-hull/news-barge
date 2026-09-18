@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Karen Ward and Jacqueline Warrington will take part in Acquire at Ampleforth,
   a three-day, free-entry event next weekend.
 image: https://www.yorkpress.co.uk/resources/images/21423796.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Yorkshire artisans to showcase traditional skills at upcoming exhibition

@@ -9,6 +9,12 @@ published: '2026-08-24T00:00:00Z'
 description: Cleveland Police have released further details of 11 arrests and one
   charge made during their investigation into the fatal A66 crash.
 image: https://www.thenorthernecho.co.uk/resources/images/21358820.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- Technology & Software
 ---
 
 Police have confirmed further details about 12 arrests, including one man who has been charged, amid a probe linked to the horrific A66 crash that left two police officers dead.

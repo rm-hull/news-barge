@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Alan Wotton was convicted following a two-week trial at Portsmouth Crown
   Court
 image: https://static.independent.co.uk/2026/09/01/15/29/Andrew-Avery.png?trim=0,100,0,100&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 An 83-year-old man has been found guilty of murdering his nephew whom he stabbed to death before setting fire to his own home following an argument over his inheritance.

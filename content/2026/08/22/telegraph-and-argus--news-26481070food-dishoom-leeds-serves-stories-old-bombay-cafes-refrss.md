@@ -8,6 +8,13 @@ published: '2026-08-22T00:00:00Z'
 description: WHEN colourful Art Deco buildings started to appear in 1930s Bombay,
   the new look was seen as a stylish defiance of the established order.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21347762.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Lifestyle & Fashion
+- Food & Cooking
 ---
 
 WHEN colourful Art Deco buildings started to appear in 1930s Bombay, the new look was seen as a stylish defiance of the established order.

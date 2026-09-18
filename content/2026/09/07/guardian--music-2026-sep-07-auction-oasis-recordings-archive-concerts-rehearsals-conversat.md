@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Guide price of archive documenting concerts, rehearsals, soundchecks
   and conversations between £1.2m and £1.6m
 image: https://i.guim.co.uk/img/media/88de698c6c4c2ccfab41efae44ba40242b7e8b0c/124_29_1853_1483/master/1853.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3902a1a923e93404d35bb7f747c4d448
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 An archive of more than 100 hours of Oasis recordings, including concerts, rehearsals and candid conversations between Noel and Liam Gallagher, is to be auctioned for up to £1.6m despite objections from the band.

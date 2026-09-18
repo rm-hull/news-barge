@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Popular footwear retailer Office has opened its doors at Teesside Park
   - here is your first look inside.
 image: https://www.thenorthernecho.co.uk/resources/images/21406203.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 ### What is the Public Notice Portal?

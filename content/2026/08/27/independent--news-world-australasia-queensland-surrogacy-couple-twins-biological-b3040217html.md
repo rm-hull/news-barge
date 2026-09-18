@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T12:00:57Z'
 published: '2026-08-27T00:00:00Z'
 description: Court rules babies were ‘gestational twins’ and not birth twins
 image: https://static.independent.co.uk/2026/06/26/14/26134958-ab9dfff8-c85b-4742-9b47-d11b6911896c.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A woman in Australia has given birth to biologically unrelated twins in a unique case.

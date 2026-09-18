@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Scarlett Moffatt became a household name from her family sofa on Gogglebox,
   but her story began in Bishop Auckland.
 image: https://www.thenorthernecho.co.uk/resources/images/20362981.jpg?type=og-image&xType=0&yType=170
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 Scarlett Moffatt became a household name from her family sofa on Gogglebox, but her story began in Bishop Auckland - the County Durham town she has continued to call home throughout her TV career.

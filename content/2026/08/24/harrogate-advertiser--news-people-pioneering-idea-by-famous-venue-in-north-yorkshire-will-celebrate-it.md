@@ -10,6 +10,10 @@ description: Ripon Racecourse has announced the appointment of poet and author A
   Pickthall as its first-ever Poet in Residence, believed to be the first role of
   its kind at a Yorkshire racecourse.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjBhOWNlYzk0LWE0NDQtNGFjYi05YzY2LTZjNDNjNzdmOTFlYzo4YWFkYjg4ZC1iYWQ3LTRkNTMtOTU2Ni1jNjM4MGFlOGViODQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 # Pioneering idea by famous venue in North Yorkshire will celebrate its heritage 'in a fresh way'

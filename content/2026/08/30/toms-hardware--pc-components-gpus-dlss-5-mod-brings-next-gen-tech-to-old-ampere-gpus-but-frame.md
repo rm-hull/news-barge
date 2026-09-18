@@ -8,6 +8,10 @@ scraped_at: '2026-08-30T19:18:41Z'
 published: '2026-08-30T00:00:00Z'
 description: The leaked DLL that keeps on giving.
 image: https://cdn.mos.cms.futurecdn.net/A5B8BfAZTyVWEpy5TRr3UY-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Nvidia DLSS 5](https://cdn.mos.cms.futurecdn.net/A5B8BfAZTyVWEpy5TRr3UY.jpg) 

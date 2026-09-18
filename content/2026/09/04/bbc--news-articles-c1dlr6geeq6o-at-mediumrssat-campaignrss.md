@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Internet sleuths spotted sets of numbers in posters suggesting the map
   co-ordinates for Celtic's Parkhead stadium in Glasgow.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2189/live/60fe27d0-a85d-11f1-aed2-8d6da8d75094.png
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Sports
 ---
 
 ![Still from a video showing two boys sitting in a chip shop with a fridge full of drinks and a number of posters](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/2189/live/60fe27d0-a85d-11f1-aed2-8d6da8d75094.png)

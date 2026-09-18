@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The Lynch family confirmed that lawyers have launched a successful Court
   of Appeal bid to challenge some of the findings
 image: https://static.independent.co.uk/2025/04/28/12/9bd18cc7f6d653c88980ef81572cf20bY29udGVudHNlYXJjaGFwaSwxNzQ1OTI2NDU2-2.41973060.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Mike Lynch’s estate has been allowed to challenge part of a ruling ordering it to pay Hewlett-Packard Enterprise (HPE) more than $1.2 billion over its acquisition of software company Autonomy.

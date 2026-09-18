@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Mercedes' George Russell leads from start to finish to win the sprint
   race at the Dutch Grand Prix.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9431/live/ff2acc20-9e16-11f1-95e0-53a570c83624.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![George Russell](https://ichef.bbci.co.uk/ace/standard/926/cpsprodpb/9431/live/ff2acc20-9e16-11f1-95e0-53a570c83624.jpg)

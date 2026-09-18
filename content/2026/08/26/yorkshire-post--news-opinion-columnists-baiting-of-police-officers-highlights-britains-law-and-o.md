@@ -9,6 +9,12 @@ description: Britain needs to face up to the fact that it has a major crime prob
   The Police Federation’s comments that young people were “baiting police officers”
   with dangerous driving is indicative of a wider collapse in law and order.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmMwMGJlNGFlLTI3MDAtNDY0NS1iNTI4LTNkMTYxYjhhY2E0Yzo3YTA5NDc2NC1mYzEzLTRmOWUtOWE4MC00MzIxOGQ1YTM4Y2U=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
 ---
 
 # Baiting of police officers highlights Britain’s law and order problem

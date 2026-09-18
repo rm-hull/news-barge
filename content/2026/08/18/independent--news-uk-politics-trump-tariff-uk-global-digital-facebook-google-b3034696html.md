@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Donald Trump issued the threat in June over the UK’s digital tax on American
   companies - but has so far not followed it up
 image: https://static.independent.co.uk/2026/08/17/21/taEfPcSEgblxMgOAe8huCKjTSMpYz9UmtwTgiiEl5SaEVo8rLZsefAJvEapK7tlrs3-f_S6ueklLiPzjLpNU8EMaTYZFZzjMNF3q..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Donald Trump’s threat of a 100 per cent import tariff on the UK over Britain’s digital services tax on American social media firms is “not a bluff”, a US trade representative has said.

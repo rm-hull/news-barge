@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: An investment is helping to tackle cable theft, vandalism and trespass
   on the East Coast Main Line in a collaboration between Network Rail and the…
 image: https://www.yorkpress.co.uk/resources/images/21405060.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## New patrols target cable theft and trespass on East Coast Main Line

@@ -7,6 +7,10 @@ scraped_at: '2026-09-12T18:20:05Z'
 published: '2026-09-12T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-city-vs-swindon-town-12-sept-2026.webp
+categories:
+- Local
+- York
+- Sports
 ---
 
 In-form attacker Alex Newby bagged a brace to take his season’s tally to six as York City thumped 10-man Swindon 4-0 at the LNER Community Stadium.

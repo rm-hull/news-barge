@@ -9,6 +9,10 @@ description: Ortega hit back at Washington dismissing US pressure while the refo
   - which also extends presidential terms to seven years - still requires a second
   legislative vote before taking effect in January.
 image: https://images.euronews.com/articles/stories/09/89/94/94/1200x675_cmsv2_c277fa8d-b3df-5db9-8ffe-15ebc642895c-9899494.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Ortega hit back at Washington dismissing US pressure while the reform - which also extends presidential terms to seven years - still requires a second legislative vote before taking effect in January.

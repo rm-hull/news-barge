@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: AN ‘unviable’ church in a North Yorkshire village will be converted into
   flats after plans were approved despite local objections.
 image: https://www.yorkpress.co.uk/resources/images/21351101.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 ## 'Unviable' church to be converted into house despite neighbour objections

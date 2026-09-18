@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: Even by Trump's own unconventional standards, his promise to voters was
   bizarre, writes North America editor Sarah Smith.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c58c/live/d05e49f0-ad82-11f1-819a-35064b7d8b20.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 BBC’s Samira Hussain explains what needs to happen for Trump's $5,000 gift to become reality

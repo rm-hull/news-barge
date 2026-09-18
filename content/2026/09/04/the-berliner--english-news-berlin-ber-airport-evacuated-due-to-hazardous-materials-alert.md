@@ -9,6 +9,11 @@ description: Terminal 1 was evacuated after a woman reportedly claimed to be car
   a hazardous substance. Berlin Brandenburg Airport's Terminal 1 was evacuated following
   a hazardous materials alert, causing flight delays and cancellations.
 image: https://www.the-berliner.com/wp-content/uploads/2026/09/imago0865826313h-scaled.jpg
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0865826313h-scaled.jpg)

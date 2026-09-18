@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: The Trump administration also sought to dismiss a lawsuit challenging
   the arch plans
 image: https://static.independent.co.uk/2026/08/03/18/46/Screenshot-2026-08-03-at-11-10-47-AM.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Initial work will begin over the next two weeks on the Trump administration’s controversial 250-foot triumphal arch project, Interior Secretary Doug Burgum announced on Thursday.

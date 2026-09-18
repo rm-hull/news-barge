@@ -8,6 +8,12 @@ published: '2026-09-13T00:00:00Z'
 description: MANCHESTER’S 1990s club scene will be celebrated in a “indie musical”
   coming to Bradford city centre next month.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20044034.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 *(Image: Tom Arber)*

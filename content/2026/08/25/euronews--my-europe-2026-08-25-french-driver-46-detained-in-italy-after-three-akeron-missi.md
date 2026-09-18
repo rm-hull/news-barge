@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: 'The 46-year-old said he was working as a subcontractor for a French
   company that specialises in transporting military goods. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/86/83/1200x675_cmsv2_742c7db4-a247-5a3e-afd9-2ad2b806b444-9888683.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- History
 ---
 
 **Euronews**

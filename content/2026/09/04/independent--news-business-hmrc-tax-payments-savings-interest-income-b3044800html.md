@@ -7,6 +7,11 @@ scraped_at: '2026-09-04T18:58:26Z'
 published: '2026-09-04T00:00:00Z'
 description: The issue has been acknowledged by the UK’s tax authority since 2021
 image: https://static.independent.co.uk/2025/08/08/8/24/iStock-1467014395-(1).jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 HMRC will review over 100,000 cases from the 2025-26 tax year after complaints that a technical error in place for five years could mean people have been overcharged.

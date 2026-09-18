@@ -9,6 +9,9 @@ description: A Chinese agency says the two recalls affecting some 3 million vehi
   can mostly be fixed by over-the-air updates—but they will also require physical
   warning stickers and camera-related updates.
 image: https://media.wired.com/photos/6a88c764f06dc0383e8c9d25/191:100/w_1280,c_limit/GettyImages-964985876-resized.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Government regulators have spent the last year asking serious questions about Tesla’s electronic, retractable door handles, a cool-looking automotive design flourish that has since been imitated by plenty of competitors.

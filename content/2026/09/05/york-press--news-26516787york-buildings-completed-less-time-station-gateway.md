@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: The Yorkshire Museum, hotels, theatres, and even the station itself are
   among the York buildings that took less time to construct than the current…
 image: https://www.yorkpress.co.uk/resources/images/13352659.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 ## York landmarks that were built faster than York Station Gateway scheme

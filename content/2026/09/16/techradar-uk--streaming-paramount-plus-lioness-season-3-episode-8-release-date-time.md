@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: It's been a bumpy ride, but we've finally reached the big finale. So,
   when does Lioness season 3 episode 8 arrive on Paramount+?
 image: https://cdn.mos.cms.futurecdn.net/7mdGzwaq6hNFBkY3gJCiFo-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Sports
 ---
 
 ![Joe argues with her husband](https://cdn.mos.cms.futurecdn.net/7mdGzwaq6hNFBkY3gJCiFo.jpg) 

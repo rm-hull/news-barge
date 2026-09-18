@@ -8,6 +8,9 @@ scraped_at: '2026-09-11T22:30:25Z'
 published: '2026-09-11T00:00:00Z'
 description: It's about the stack
 image: https://cdn.mos.cms.futurecdn.net/KPkcVSMyiTsPZ9QjHvoDtX-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Uber Wayve Vehicle](https://cdn.mos.cms.futurecdn.net/KPkcVSMyiTsPZ9QjHvoDtX.jpg) 

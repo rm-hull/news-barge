@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: A POST-PUNK band were left stunned after hearing their music played during
   a match at Elland Road.
 image: https://www.yorkpress.co.uk/resources/images/21459331.jpg?type=og-image
+categories:
+- Local
+- York
+- Music
 ---
 
 *(Image: Supplied)*

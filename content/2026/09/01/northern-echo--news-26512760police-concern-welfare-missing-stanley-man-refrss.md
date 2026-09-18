@@ -8,6 +8,12 @@ published: '2026-09-01T00:00:00Z'
 description: Police are appealing for help to find Joseph, 30, who has been reported
   missing from his home in Stanley. Officers say they are concerned for his…
 image: https://www.thenorthernecho.co.uk/resources/images/21397785.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 *(Image: DURHAM POLICE)*

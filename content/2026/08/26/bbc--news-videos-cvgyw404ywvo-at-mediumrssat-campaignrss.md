@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: The BBC's entertainment correspondent Colin Patterson looks at why the
   singer attracted such a range of fans.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a8da/live/86708d20-a0f9-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
+- Film & TV
+- Music
 ---
 
 # What was behind Dolly Parton's widespread appeal?

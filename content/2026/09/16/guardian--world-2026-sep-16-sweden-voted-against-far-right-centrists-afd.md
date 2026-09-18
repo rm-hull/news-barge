@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Even as the ‘extremist’ AfD seeks further election gains in Germany,
   Europe’s leaders can learn from Sweden’s dangerous embrace with far-right ideology
 image: https://i.guim.co.uk/img/media/2320bc0848788fb945b165fcfb69500931255964/424_24_6707_5366/master/6707.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67f2d0ef51cf2c6847caec7330ce0ddf
+categories:
+- UK
+- News & Politics
 ---
 
 Europe’s focus turned nervously to Sweden on Sunday, after an explosive election in Germany just a week earlier placed a far-right party, officially classed as “extremist”, on the brink of power in a German state for the first time since the Nazi era. A party with neo-Nazi roots has been pulling the government’s strings in Sweden for the last four years – would the country’s general election put the far right formally in government? Or would enough Swedes opt for a gear change, having seen the Sweden Democrats’ hardline (some would say poisonous) agenda in action?

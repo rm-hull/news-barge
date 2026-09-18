@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: The capture by the rebels of a stretch Yemen's strategic coastline is
   the group's most impressive military coup for several years.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/82b5/live/066e1ff0-ae16-11f1-aa28-67f8824e7b72.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![A Yemeni government tank fires in the desert during what officials say are clashes with Iran-aligned Houthi rebels a screen grab obtained from a handout video released on 9 September 2026](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/e2e9/live/c2bfacc0-ae0f-11f1-b502-e5cdfe1c097c.jpg)

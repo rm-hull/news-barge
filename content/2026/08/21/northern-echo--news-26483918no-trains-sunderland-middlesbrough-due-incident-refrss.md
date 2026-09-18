@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Rail passengers are facing delays and cancellations between Sunderland
   and Middlesbrough this morning after a trespass incident.
 image: https://www.thenorthernecho.co.uk/resources/images/21353489.jpg?type=og-image&xType=0&yType=45
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: PA MEDIA)*

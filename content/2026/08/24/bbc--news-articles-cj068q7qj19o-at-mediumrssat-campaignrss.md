@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The government faces opposition to its proposals from MPs who believe
   a ban will not work.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ded3/live/dc9e0600-9fa5-11f1-bff6-57f1422ebb0b.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![A stock image showing looking at the social media application menu, which includes apps for Instagram, Facebook and TikTok, on his smartphone.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ded3/live/dc9e0600-9fa5-11f1-bff6-57f1422ebb0b.jpg)

@@ -7,6 +7,11 @@ scraped_at: '2026-08-22T08:42:52Z'
 published: '2026-08-22T00:00:00Z'
 description: A JOURNEY into railway history is set to return to the tracks this summer
 image: https://www.thetelegraphandargus.co.uk/resources/images/21356220.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 A JOURNEY into railway history is set to return to the tracks this summer.

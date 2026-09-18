@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: When kitchen burnout hits, figuring out what to make for dinner every
   day can feel like an impossible task
 image: https://static.independent.co.uk/2026/08/29/06/Be_Well_Breaking_Dinner_Ruts_13751.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 When kitchen burnout hits, figuring out what to make for dinner every day can feel like an impossible task.

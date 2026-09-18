@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: The World of James Herriot in Thirsk will launch a new Heartbeat exhibition,
   with former Heartbeat actor David Lonsdale officially opening the…
 image: https://www.thenorthernecho.co.uk/resources/images/21361596.jpg?type=og-image&xType=0&yType=15
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- Film & TV
 ---
 
 *(Image: The World of James Herriot)*

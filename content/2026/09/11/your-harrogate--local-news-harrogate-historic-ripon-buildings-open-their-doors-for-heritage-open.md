@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Two Ripon buildings with links to a Victorian tiled mural and the city’s
   newspaper industry have joined this year’s Heritage Open Days programme.
 image: https://mmo.aiircdn.com/409/6aa3f23a5f82b23b804.jpg
+categories:
+- Local
+- Harrogate
+- History
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa3f23a5f82b23b804.jpg) 

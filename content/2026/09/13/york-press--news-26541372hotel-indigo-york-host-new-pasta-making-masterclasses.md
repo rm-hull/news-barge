@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Pasta Evangelists is launching its Pasta Academy experience at Hotel
   Indigo York later this month.
 image: https://www.yorkpress.co.uk/resources/images/21438539.jpg?type=og-image&xType=0&yType=122
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 *(Image: Hotel Indigo York)*

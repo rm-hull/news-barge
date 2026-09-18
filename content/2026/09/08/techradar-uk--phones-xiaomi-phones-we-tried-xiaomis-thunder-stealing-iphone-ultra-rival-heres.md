@@ -9,6 +9,8 @@ published: '2026-09-08T00:00:00Z'
 description: The Xiaomi 18 Fold is the latest in a growing line of shorter, wider
   foldables — here are our first impressions of the device.
 image: https://cdn.mos.cms.futurecdn.net/Kh7NnqJvPXLKN353oGFsVE-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Xiaomi 18 Fold being held in the hand](https://cdn.mos.cms.futurecdn.net/Kh7NnqJvPXLKN353oGFsVE.jpg) 

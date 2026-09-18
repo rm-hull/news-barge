@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Instinct’s new email feature lets the AI agent create and manage accounts,
   contact businesses, handle support requests, and do more on users' behalf.
 image: https://techcrunch.com/wp-content/uploads/2026/09/instinct-email.jpeg?w=1200
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Instinct, the buzzy new AI assistant now valued at $2.5 billion, is rolling out a new feature that will allow it to do more on its users’ behalf: It’s giving everyone Instinct email addresses.

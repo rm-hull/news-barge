@@ -9,6 +9,10 @@ description: The Israel Defense Forces (IDF) said it had targeted Hezbollah infr
   in southern Lebanon "in response to Hezbollah’s attempted attack yesterday against
   IDF troops operating in the security zone."
 image: https://images.euronews.com/articles/stories/09/90/24/07/1200x675_cmsv2_6bb4169a-a8ed-554b-8933-16cb4e6052f8-9902407.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## The Israel Defense Forces (IDF) said it had targeted Hezbollah infrastructure in southern Lebanon "in response to Hezbollah’s attempted attack yesterday against IDF troops operating in the security zone."

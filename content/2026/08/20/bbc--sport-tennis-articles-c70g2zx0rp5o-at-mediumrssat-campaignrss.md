@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: The US Open will offer the biggest prize fund in Grand Slam history with
   a total of $108 million (£79.2m) on offer - marking a 20% increase on last year.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0fcc/live/f7399a30-9cbf-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Carlos Alcaraz and Aryna Sabalenka pose with their US Open singles trophies](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/0fcc/live/f7399a30-9cbf-11f1-b109-879e35c24276.jpg)

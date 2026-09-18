@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Hamas has accused Israel of using the row over kite-flying to justify
   further attacks on Palestinians
 image: https://static.independent.co.uk/2026/08/25/08/2291405255..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Israel has threatened to shoot down kites sent across its border from Gaza, saying they will be treated “the same as a drone” despite admitting there is no evidence they contain explosives.

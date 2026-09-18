@@ -8,6 +8,13 @@ published: '2026-09-17T00:00:00Z'
 description: Police are investigating an allegation of serious sexual assault that
   took place in York city centre last night (Wednesday, September 16)
 image: https://www.gazetteherald.co.uk/resources/images/21467732.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
+- Society & Culture
 ---
 
 - Police are guarding the entrance to an alleyway linking Spurriergate to Church Lane close to St Michael's Church

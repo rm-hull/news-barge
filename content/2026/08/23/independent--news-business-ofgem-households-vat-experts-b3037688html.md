@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Regulator Ofgem will on Wednesday reveal the level of the annual energy
   price cap for the three months from October to December.
 image: https://static.independent.co.uk/2026/08/23/09/adaac3486f69e770b5cd26242219a33dY29udGVudHNlYXJjaGFwaSwxNzg3Mzk5NjIz-2.65068090.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Households are set to find out how much energy bills will change ahead of winter as the conflict in the Middle East continues to push prices upwards.

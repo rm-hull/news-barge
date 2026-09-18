@@ -9,6 +9,9 @@ description: By framing their efforts as a “slowdown” rather than an industr
   push for better security standards, AI labs may have set themselves up for years
   of regulatory headaches.
 image: https://media.wired.com/photos/6aab095b6efac6d4d3b8cb0b/191:100/w_1280,c_limit/AI-Slowdown-Antitrust-Mess-Business.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Following multiple reports of AI agent swarms hacking websites and coordinating via secret message boards, along with a dire message for humanity from an outgoing Anthropic engineer, leading AI companies have called for a coordinated AI development “slowdown.” Alongside various versions of this specific phrase—slowdown—they’ve also expressed concerns that doing so would run afoul of antitrust laws.

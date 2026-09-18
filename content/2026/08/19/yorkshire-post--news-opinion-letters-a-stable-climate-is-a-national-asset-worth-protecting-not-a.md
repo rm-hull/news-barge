@@ -8,6 +8,11 @@ scraped_at: '2026-08-19T13:10:09Z'
 published: '2026-08-19T00:00:00Z'
 description: 'From: Julian Briggs, Sheffield.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmEwMzFiMjQ5LWJmMjYtNDA3My1hZWM4LWU5ZTAwZmJiNzBkOTphMGIwZmE3ZC1kYzdhLTRhOGItYjA2Mi04OTZiNTI2OTgyMTY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # A stable climate is a national asset worth protecting, not a partisan cause - Yorkshire Post Letters

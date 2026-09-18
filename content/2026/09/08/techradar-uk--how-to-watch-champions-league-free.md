@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T19:25:06Z'
 published: '2026-09-08T00:00:00Z'
 description: Stream the opening gameweek of the Champions League for free
 image: https://cdn.mos.cms.futurecdn.net/oKdHUEQrxMZdYMcRPRp7Wg-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Video Gaming
 ---
 
 ![Kylian Mbappe of Real Madrid celebrates after the team's victory in the UEFA Champions League 2025/26 League Phase MD1 match between Real Madrid C.F. and Olympique de Marseill](https://cdn.mos.cms.futurecdn.net/oKdHUEQrxMZdYMcRPRp7Wg.jpg) 

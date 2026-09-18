@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Arsenal have already spent more than £100m this summer as they look to
   defend their Premier League title - so why do they want Ezri Konsa as well?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/52b9/live/69de6c30-9ca4-11f1-a5a0-114ca9d4a1bc.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Ezri Konsa and Bukayo Saka](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/52b9/live/69de6c30-9ca4-11f1-a5a0-114ca9d4a1bc.jpg)

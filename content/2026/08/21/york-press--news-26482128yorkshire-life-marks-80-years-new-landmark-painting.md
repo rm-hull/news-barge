@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Linda Mellin’s artwork, titled Yorkshire Life, features landmarks from
   across the county in celebration of Yorkshire Life magazine's 80th…
 image: https://www.yorkpress.co.uk/resources/images/21350544.jpg?type=og-image&xType=0&yType=113
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Yorkshire artist celebrates magazine's 80th anniversary with new painting

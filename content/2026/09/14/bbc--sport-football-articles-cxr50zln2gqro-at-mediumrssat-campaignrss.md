@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: After every round of Premier League matches this season, Troy Deeney
   gives us his team of the week. Do you agree with his choices?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8410/live/8bad5110-b080-11f1-b1d1-571ed4d7ff2c.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Troy Deeney banner](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4013/live/4bb795a0-5990-11ef-8f0f-0577398c3339.jpg)

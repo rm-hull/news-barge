@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Top Gear and Grand Tour star Richard Hammond has broken his silence on
   his new relationship.
 image: https://www.gazetteherald.co.uk/resources/images/21164673.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Relationships & Dating
 ---
 
 Richard Hammond has broken his silence on his new relationship with an Oxford school governor following his shock divorce.

@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Colleges say there are multiple barriers preventing young people from
   attending college
 image: https://static.independent.co.uk/2026/06/25/10/25103616-adad47b0-d329-48ea-be80-8cce98b77406.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Official figures likely undercount the true scale of youth unemployment, the Children’s Commissioner has cautioned, warning of a "blind spot" that leaves tens of thousands of young people "slipping through the cracks".

@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: British fashion brand Scamp & Dude is set to open its first permanent
   store in the North in Harrogate.
 image: https://mmo.aiircdn.com/409/6a8ecc4b61c10bfa17b.jpg
+categories:
+- Local
+- Harrogate
+- Lifestyle & Fashion
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8ecc4b61c10bfa17b.jpg) 

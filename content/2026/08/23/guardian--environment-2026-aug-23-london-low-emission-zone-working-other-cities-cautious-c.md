@@ -10,6 +10,10 @@ description: Similar initiatives have been launched from Barcelona to Bogotá, b
   they have misinformation, political pressure and vested interests stacked against
   them
 image: https://i.guim.co.uk/img/media/12cb31040c22f3b30a55b35e53b9d34f45b5ce0b/0_0_3291_2633/master/3291.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1bf9efb4a92f4f37c3f01b5fdae53749
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Ten years ago, Alastair Harper was an advocate for young people’s health sitting in a stuffy meeting room in London planning an air pollution campaign. “My phone started buzzing,” he said. “I took the call, and then told the room I needed to leave immediately.

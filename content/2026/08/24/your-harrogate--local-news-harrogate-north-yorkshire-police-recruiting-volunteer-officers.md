@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: People across the Harrogate district are being encouraged to join North
   Yorkshire Police as volunteer police officers.
 image: https://mmo.aiircdn.com/409/688b80f25c9b8.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Society & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/688b80f25c9b8.jpg) 

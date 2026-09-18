@@ -9,6 +9,12 @@ published: '2026-08-24T00:00:00Z'
 description: The move would amount to the largest mass revocation of visas in American
   history
 image: https://static.independent.co.uk/2026/08/24/21/2288211618..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 Trump launches 'gold card' visas for wealthy immigrants

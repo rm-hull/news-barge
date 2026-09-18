@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: U.S. officials have confirmed cases of a parasitic illness tied to lettuce
   in three more states
 image: https://static.independent.co.uk/2026/08/27/22/Cyclospora_Outbreak_92942.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Parasitic illness cases linked to recalled iceberg lettuce have now been confirmed in 20 states, federal health officials said Thursday, expanding the scope of the largest outbreak of its kind in the U.S.

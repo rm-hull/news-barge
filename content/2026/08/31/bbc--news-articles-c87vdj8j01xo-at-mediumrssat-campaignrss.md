@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: Notting Hill Carnival, Europe's biggest street party, has celebrated
   its 60th year.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a42a/live/a21ff160-a55d-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 Watch: Notting Hill Carnival celebrates 60th anniversary

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Police are urgently appealing for help to trace a woman in her 60s who
   has been reported missing.
 image: https://www.thenorthernecho.co.uk/resources/images/21423409.jpg?type=og-image&xType=0&yType=207
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: CLEVELAND POLICE)*

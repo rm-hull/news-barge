@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Enzo Maresca's men seek a second successive victory as they head to Selhurst
   Park
 image: https://cdn.mos.cms.futurecdn.net/AmEkmeo6W6vHxABJSUgbcb-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Video Gaming
 ---
 
 ![Erling Haaland of Manchester City applauds the fans during the Premier League match between Manchester City and Bournemouth at Etihad Stadium in Manchester, United Kingdom, on August 23, 2026.](https://cdn.mos.cms.futurecdn.net/AmEkmeo6W6vHxABJSUgbcb.jpg) 

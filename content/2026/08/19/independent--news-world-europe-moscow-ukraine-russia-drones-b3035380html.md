@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T08:52:11Z'
 published: '2026-08-19T00:00:00Z'
 description: Ukraine is projecting the conflict deep into Russian territory
 image: https://static.independent.co.uk/2026/08/19/05/Russia_Ukraine_War_Drone_Regiment_95489.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A massive retail logistics centre on the outskirts of Moscow remained in flames on Sunday morning following an overnight strike by waves of Ukrainian drones, sending thick dark smoke into the sky.

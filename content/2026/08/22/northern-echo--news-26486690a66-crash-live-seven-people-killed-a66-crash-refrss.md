@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: There have been 'multiple fatalities' after a crash on the A66 in South
   Bank.
 image: https://www.thenorthernecho.co.uk/resources/images/21357844.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 - Good morning, welcome to this Northern Echo live breaking news blog.

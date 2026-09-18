@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: These are the 15 best Amazon Labor Day deals on WIRED-tested, WIRED-recommended
   products in 2026.
 image: https://media.wired.com/photos/6a9714bfd0250ac0c127b69e/191:100/w_1280,c_limit/WIRED%E2%80%99s-Top-Picks-and-Deals-for-the-Amazon-Labor-Day-Sale-(2026).jpg
+categories:
+- Technology & Software
+- Science
+- Careers & Productivity
 ---
 
 Amazon doesn't advertise its Labor Day sale as heavily as Prime Day and Black Friday, but the Amazon 2026 Labor Day Sale still offers some of the best deals of the year on an assortment of tech and home gear ranging from half off WIRED's previous top-pick wireless headphones, Sony's XM5 series ($198) to the best deal I've seen this year on WIRED's favorite laptop power bank, the EcoFlow Rapid Pro X ($180).

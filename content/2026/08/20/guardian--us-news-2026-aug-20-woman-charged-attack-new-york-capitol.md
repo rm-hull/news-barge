@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: Jessica Bowie, 35, of Albany, allegedly planned to deploy explosive before
   fleeing to IS-controlled territory in Syria
 image: https://i.guim.co.uk/img/media/39192fcc863ca7ba7a6ed9e8cc5d488708deec12/349_0_4884_3906/master/4884.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=65e22b03b05e9d930e161b9fce9206f8
+categories:
+- UK
+- News & Politics
 ---
 
 US authorities arrested and charged a New York woman with planning to carry out an Islamic State-inspired attack on the state’s capitol building in Albany, the justice department said on Thursday.

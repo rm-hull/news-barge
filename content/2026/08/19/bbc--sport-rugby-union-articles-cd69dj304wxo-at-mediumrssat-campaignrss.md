@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: World Cup-winning New Zealand international Ruby Tui, 34, signs a one-year
   deal with Trailfinders Women.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e139/live/14c55ed0-9bae-11f1-92e6-b1dfcecd4308.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Ruby Tui, in all black New Zealand kit, points towards the camera as she slides along the ground, with ball on ground to right of picture](https://ichef.bbci.co.uk/ace/standard/988/cpsprodpb/e139/live/14c55ed0-9bae-11f1-92e6-b1dfcecd4308.jpg)

@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: A £270,000 community fund is set to open for applications later this
   month.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21397613.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

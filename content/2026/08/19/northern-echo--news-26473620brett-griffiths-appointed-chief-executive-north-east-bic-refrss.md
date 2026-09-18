@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: A North East business support organisation has appointed a new chief
   executive as it looks to build on its legacy of helping businesses grow and…
 image: https://www.thenorthernecho.co.uk/resources/images/21334565.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: CREO COMMS)*

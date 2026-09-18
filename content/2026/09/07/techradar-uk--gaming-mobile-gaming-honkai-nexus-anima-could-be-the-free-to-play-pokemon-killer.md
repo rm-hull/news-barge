@@ -7,6 +7,9 @@ scraped_at: '2026-09-07T19:53:24Z'
 published: '2026-09-07T00:00:00Z'
 description: The Genshin Impact maker is coming for the creature collector crown
 image: https://cdn.mos.cms.futurecdn.net/KSn32MDjjBTUPPTyeqS52R-2560-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ![A promotional Honkai: Nexus Anima screenshot.](https://cdn.mos.cms.futurecdn.net/KSn32MDjjBTUPPTyeqS52R.jpg) 

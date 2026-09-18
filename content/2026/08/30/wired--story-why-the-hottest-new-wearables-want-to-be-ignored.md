@@ -8,6 +8,9 @@ published: '2026-08-30T00:00:00Z'
 description: Burnt out on wrist buzzes and notification overload? A new crop of minimalist
   wearables promises to collect your health data without demanding your attention.
 image: https://media.wired.com/photos/6a8f1c5ba84e455f12fd962b/191:100/w_1280,c_limit/NoScreenWearable.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 There’s a new kind of gadget on shelves, designed for you to ignore it 99 percent of the time—it only needs attention when its battery is low. I'm talking about the screen-free wearable. You rarely look at it or touch it, yet it collects health stats day and night so you can view them later on in an app, when you get the time—if you can find the time. No pressure.

@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Peterborough motorist Tarisai Taruvinga has been ordered to pay more
   than £1,000 and given six penalty points after failing to identify the driver…
 image: https://www.thenorthernecho.co.uk/resources/images/20185751.jpg?type=og-image&xType=0&yType=309
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Newsquest)*

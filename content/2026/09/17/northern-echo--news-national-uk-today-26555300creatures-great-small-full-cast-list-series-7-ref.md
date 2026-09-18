@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: Nicholas Ralph, Rachel Shenton and Samuel West are all back for a seventh
   series of All Creatures Great and Small on Channel 5
 image: https://www.thenorthernecho.co.uk/resources/images/21462829.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 *(Image: Channel 5)*

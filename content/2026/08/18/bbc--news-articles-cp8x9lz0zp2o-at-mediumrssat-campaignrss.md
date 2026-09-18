@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Rate This Bench founder Sam Wilmot says his favourite bench is in a South
   Gloucestershire churchyard.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5439/live/5e7bf5d0-9ae0-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![A bride and groom sit side-by-side on a wooden bench looking at the camera, with expressionless faces. The groom is wearing a dark suit with a pink flower attached to his jacket. The bride is wearing a long white dress draped over the side of the bench, and is holding a bouquet of flowers.](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/5439/live/5e7bf5d0-9ae0-11f1-aed2-8d6da8d75094.jpg)

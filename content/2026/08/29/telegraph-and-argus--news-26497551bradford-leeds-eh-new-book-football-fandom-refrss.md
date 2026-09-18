@@ -8,6 +8,11 @@ scraped_at: '2026-08-29T13:49:59Z'
 published: '2026-08-29T00:00:00Z'
 description: ‘DO you wanna go to the pictures?’
 image: https://www.thetelegraphandargus.co.uk/resources/images/21374573.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Jay Croot)*

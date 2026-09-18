@@ -8,6 +8,13 @@ published: '2026-09-12T00:00:00Z'
 description: The new Christmas Penguin bar is inspired by the popular McVitie’s Penguin
   biscuit.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21443252.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 *(Image: McVities)*

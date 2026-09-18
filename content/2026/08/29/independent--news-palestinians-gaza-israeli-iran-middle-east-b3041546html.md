@@ -9,6 +9,9 @@ published: '2026-08-29T00:00:00Z'
 description: Israeli strikes and fire have killed three Palestinians and wounded others
   in Gaza, according to local health officials
 image: https://static.independent.co.uk/2026/08/29/16/APTOPIX_Israel_Palestinians_Gaza_68_95.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Israeli strikes and fire have killed three Palestinians in Gaza. And Iran’s leadership now centers on military generals and clerics who are long entrenched in the ruling theocracy.

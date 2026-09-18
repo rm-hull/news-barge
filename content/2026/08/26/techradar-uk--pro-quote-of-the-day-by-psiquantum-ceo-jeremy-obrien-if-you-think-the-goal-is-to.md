@@ -9,6 +9,10 @@ scraped_at: '2026-08-26T23:23:36Z'
 published: '2026-08-26T00:00:00Z'
 description: The race to build a useful quantum computer is heating up
 image: https://cdn.mos.cms.futurecdn.net/ozTBs4WCHtCAtyhnSskQ27-1024-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Science
 ---
 
 ![Jeremy O'Brien](https://cdn.mos.cms.futurecdn.net/ozTBs4WCHtCAtyhnSskQ27.jpg) 

@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Trump said the US would have to hit Iran ‘very hard’ if they found they’d
   been working on Pickaxe Mountain
 image: https://static.independent.co.uk/2026/09/10/13/46/Picakaxe-Mountain-cd1cc4e7.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The UN’s nuclear watchdog has said that nuclear activity is taking place at Iran’s Pickaxe Mountain, a day after new satellite imagery showed a surge in construction activity at the site.

@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: An “elegant” period townhouse has hit the market in Holgate Road, York
   – for £899,950.
 image: https://www.yorkpress.co.uk/resources/images/21384977.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 ## ‘Elegant’ period home hits the market in York for more than £890,000 – look inside

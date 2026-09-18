@@ -10,6 +10,10 @@ description: Tom Gordon, the Liberal Democrat MP for Harrogate and Knaresborough
   has hit the ground running in Parliament this week, raising local concerns with
   the First
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/gordon-in-parliament.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 Tom Gordon, the Liberal Democrat MP for Harrogate and Knaresborough, has hit the ground running in Parliament this week, raising local concerns with the First Secretary of State following his roundtable local hospitality representatives from across the local area.

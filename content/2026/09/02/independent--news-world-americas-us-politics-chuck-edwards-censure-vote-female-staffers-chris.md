@@ -9,6 +9,10 @@ description: The House has censured Rep. Chuck Edwards after an Ethics Committee
   concluded he engaged in persistent unprofessional and inappropriate conduct toward
   two young female staffers in his office
 image: https://static.independent.co.uk/2026/09/01/23/Congress_Ethics_Edwards_17725.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 In a near-unanimous 413-2 rebuke, the House voted Tuesday to censure Rep. Chuck Edwards (R-N.C.) after a damning ethics probe found he targeted two young female staffers with lavish gifts, intimate notes and unwanted personal advances.

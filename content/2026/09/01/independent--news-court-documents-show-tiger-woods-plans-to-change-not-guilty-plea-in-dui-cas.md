@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: Court documents showed Tuesday that Tiger Woods plans to change his not
   guilty plea in a DUI case stemming from a rollover crash in Florida
 image: https://static.independent.co.uk/2026/09/01/23/Tiger_Woods_Golf_19694.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Court documents showed Tuesday that Tiger Woods plans to change his not guilty plea in a DUI case stemming from a rollover crash in Florida.

@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: A 34-year-old man is arrested on suspicion of murder following a fatal
   fire in Hounslow.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/88c5/live/1c3282a0-9c13-11f1-994d-3b122d793956.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A view of a terraced-appearing house in Berkley Avenue in Hounslow with burnt windows and some police tape at the front](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/88c5/live/1c3282a0-9c13-11f1-994d-3b122d793956.jpg)

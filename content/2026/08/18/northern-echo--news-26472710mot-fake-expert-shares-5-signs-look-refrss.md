@@ -9,6 +9,12 @@ published: '2026-08-18T00:00:00Z'
 description: Drivers could think they have a valid and legal MOT certificate but it
   could be fake - here are five signs to look out for when it comes to…
 image: https://www.thenorthernecho.co.uk/resources/images/21332057.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Automotive
 ---
 
 *(Image: Getty)*

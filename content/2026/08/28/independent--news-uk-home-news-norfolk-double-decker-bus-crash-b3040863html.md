@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Neighbours described the sound of the crash as ‘like a bomb had gone
   off’
 image: https://static.independent.co.uk/2026/08/28/6/32/Screenshot-2026-08-28-at-07-56-copy-27525ad7.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Residents have described the moment a double-decker bus smashed into a period property in Norfolk as sounding “like a bomb had gone off”.

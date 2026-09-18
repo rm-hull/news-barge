@@ -10,6 +10,10 @@ published: '2026-08-31T00:00:00Z'
 description: Nvidia’s sole representative on the fourth annual TIME100 AI is its head
   of sustainability, who sits alongside Paris Hilton and Ben Affleck.
 image: https://cdn.mos.cms.futurecdn.net/VZnyT3m65yLr2GJztppGwU-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Jensen Huang and Lisa Su](https://cdn.mos.cms.futurecdn.net/VZnyT3m65yLr2GJztppGwU.jpg) 

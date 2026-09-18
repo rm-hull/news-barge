@@ -7,6 +7,11 @@ scraped_at: '2026-08-28T22:15:26Z'
 published: '2026-08-28T00:00:00Z'
 description: A man with links to Durham, Spennymoor and Seaham is wanted by police.
 image: https://www.thenorthernecho.co.uk/resources/images/21385328.jpg?type=og-image&xType=0&yType=217
+categories:
+- Local
+- UK
+- News & Politics
+- Relationships & Dating
 ---
 
 *(Image: DURHAM CONSTABULARY)*

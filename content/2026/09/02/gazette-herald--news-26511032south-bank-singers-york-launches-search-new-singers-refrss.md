@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: The South Bank Singers, a York-based chamber choir, is looking for new
   singers.
 image: https://www.gazetteherald.co.uk/resources/images/21073517.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Music
+- Arts & Culture
 ---
 
 A York-based chamber choir is looking for new singers.

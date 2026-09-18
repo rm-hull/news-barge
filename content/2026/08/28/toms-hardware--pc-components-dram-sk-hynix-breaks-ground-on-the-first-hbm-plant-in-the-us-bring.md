@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: The campus will also explore future packaging technologies with customers,
   partners, and academia.
 image: https://cdn.mos.cms.futurecdn.net/vdguSryvDxvr9spm9qGncn-1600-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![SK hynix](https://cdn.mos.cms.futurecdn.net/vdguSryvDxvr9spm9qGncn.jpg) 

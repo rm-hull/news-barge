@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: New warnings from the artificial-intelligence industry have revived debate
   over whether advanced AI models could escape human control and threaten humanity
 image: https://static.independent.co.uk/2026/09/09/19/Anthropic_Researcher_Resignation_85781.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Science
 ---
 
 New warnings from within the artificial intelligence industry have revived a long-running debate over whether advanced AI could escape human control and ultimately threaten humanity’s survival, and whether the companies developing the technology are doing enough to prevent such a scenario.

@@ -9,6 +9,10 @@ description: 'The crisis deepened Wednesday after a leaked report alleging Moroc
   forces helped push migrants across the border blindsided the government. Madrid
   denies having ignored warnings of an imminent breach. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/90/69/1200x675_cmsv2_b4f97632-1499-5f92-b14a-ae6bf650275d-9899069.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## The crisis deepened Wednesday after a leaked report alleging Moroccan forces helped push migrants across the border blindsided the government. Madrid denies having ignored warnings of an imminent breach.

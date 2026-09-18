@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The government has asked social media platforms to remove content featuring
   a dangerous driving trend
 image: https://static.independent.co.uk/2026/08/23/14/02/Jacob-Matusiak-a1d7e74a.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 One of the seven men killed in a “devastating” car crash near Middlesbrough on Saturday had previously shared videos of himself joyriding on social media.

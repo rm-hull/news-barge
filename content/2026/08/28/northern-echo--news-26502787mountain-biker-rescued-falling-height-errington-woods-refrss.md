@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: A mountain biker was rescued after falling from height and suffering
   facial injuries in Errington Woods woodland.
 image: https://www.thenorthernecho.co.uk/resources/images/21382475.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- Outdoors & Nature
 ---
 
 *(Image: CLEVELAND MOUNTAIN RESCUE TEAM)*

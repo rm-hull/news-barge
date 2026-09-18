@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Customers in the North East could soon use their phones to prove they
   are over 18 in pubs, bars and music venues under Government new rules.
 image: https://www.thenorthernecho.co.uk/resources/images/20859816.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Businesses across the North East can now choose to accept digital proof of age when selling alcohol under new rules.

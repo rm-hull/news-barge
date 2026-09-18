@@ -14,6 +14,10 @@ description: Andy Burnham played guitar with Ukrainian soldiers on his first off
   Burnham joked as he picked up the guitar and strummed a few chords, but declined
   to sing. The soldiers later sang an Oasis song to him.
 image: https://cdn.jwplayer.com/v2/media/vHEsR1ZQ/poster.jpg?width=720
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 ## Showing now | News

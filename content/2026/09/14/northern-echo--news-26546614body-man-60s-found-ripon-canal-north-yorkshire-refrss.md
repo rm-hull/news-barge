@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: The body of a man in his 60s was found in a canal in Ripon, North Yorkshire,
   by a member of the public.
 image: https://www.thenorthernecho.co.uk/resources/images/18415517.jpg?type=og-image&xType=0&yType=42
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: Getty Images/iStockphoto)*

@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Negotiations between the parties remain deadlocked as the waterway remains
   largely closed
 image: https://static.independent.co.uk/2026/08/18/10/2026-08-17T201539Z_332724854_RC2I0NAHEV1J_RTRMADP_3_USA-TRUMP-APPROVAL.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 President Donald Trump has declared the Strait of Hormuz as US territory in a post on Truth Social.

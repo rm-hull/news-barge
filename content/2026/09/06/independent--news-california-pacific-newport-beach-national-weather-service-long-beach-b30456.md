@@ -9,6 +9,10 @@ description: Hurricane Marie is creating dangerous conditions at beaches across 
   California over Labor Day weekend, with strong currents and huge waves presenting
   a threat to swimmers and surfers
 image: https://static.independent.co.uk/2026/09/06/21/Southern_California_Storms_51_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Hurricane Marie, well out in the Pacific, created flooding and dangerous conditions at some southern California beaches over Labor Day weekend, with strong currents and huge waves presenting a threat to swimmers and surfers.

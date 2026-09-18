@@ -7,6 +7,8 @@ scraped_at: '2026-08-26T08:57:16Z'
 published: '2026-08-26T00:00:00Z'
 description: AI can catch the next outbreak before it spreads
 image: https://cdn.mos.cms.futurecdn.net/ZzivZqzbMG6jdHYzun8e3L-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A male office worker presents data on a big display in the office](https://cdn.mos.cms.futurecdn.net/ZzivZqzbMG6jdHYzun8e3L.jpg) 

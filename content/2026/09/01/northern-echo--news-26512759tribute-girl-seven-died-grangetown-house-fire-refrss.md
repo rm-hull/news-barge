@@ -9,6 +9,12 @@ published: '2026-09-01T00:00:00Z'
 description: The family of a “beloved” seven-year-old girl who died in a devastating
   house fire alongside her aunt have paid tribute to her.
 image: https://www.thenorthernecho.co.uk/resources/images/21397582.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
+- Arts & Culture
 ---
 
 *(Image: THE NORTHERN ECHO / CLEVELAND POLICE)*

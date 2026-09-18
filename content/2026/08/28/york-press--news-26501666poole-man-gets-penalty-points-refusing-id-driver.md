@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: A man who failed to tell police who was driving his car when it was allegedly
   speeding through a village on the A64 in North Yorkshire today has six…
 image: https://www.yorkpress.co.uk/resources/images/20091973.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
 ---
 
 *(Image: Liam McBurney/PA Wire)*

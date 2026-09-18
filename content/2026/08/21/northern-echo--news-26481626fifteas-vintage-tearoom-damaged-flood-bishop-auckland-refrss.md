@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: The owners of a much-loved Bishop Auckland tearoom say they have been
   left “heartbroken” after arriving at work to find water pouring through…
 image: https://www.thenorthernecho.co.uk/resources/images/21351898.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 The owners of a much-loved Bishop Auckland tearoom say they have been left “heartbroken” after arriving at work to find water pouring through the ceiling in a devastating flood.

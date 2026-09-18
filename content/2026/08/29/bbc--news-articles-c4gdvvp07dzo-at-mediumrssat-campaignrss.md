@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: From lattes to pastries, UK foodies are embracing the humble sweetcorn
   as more than a pizza topping.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f5b6/live/d5c57ca0-a257-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 ![Images of pastries](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/94b6/live/9e1644b0-a257-11f1-aed2-8d6da8d75094.jpg)

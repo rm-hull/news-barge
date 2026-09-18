@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Increase from 1% to 1.25% follows US Federal Reserve and European Central
   Bank tightening monetary policy
 image: https://i.guim.co.uk/img/media/3aeb82702262ebf90109ebf3770da9384ab4c501/344_0_4087_3271/master/4087.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=add608ba30de041715b85ac0b9eb3be5
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Japan’s central bank has increased interest rates to a fresh 31-year high as it attempts to combat global inflation linked to the war in Iran.

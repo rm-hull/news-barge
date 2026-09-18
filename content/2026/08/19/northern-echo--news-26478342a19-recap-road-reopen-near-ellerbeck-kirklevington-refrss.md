@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: The A19 is closed in both directions between the A684 Ellerbeck and the
   A67 Kirklevington due to a multi vehicle crash.
 image: https://www.thenorthernecho.co.uk/resources/images/21342052.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 ## Our live feed has now finished.

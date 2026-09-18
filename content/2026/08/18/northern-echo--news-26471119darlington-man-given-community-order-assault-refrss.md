@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Graham Nelson, 45, of Jura Drive, Darlington, has been given a community
   order after pleading guilty at Newton Aycliffe Magistrates’ Court to…
 image: https://www.thenorthernecho.co.uk/resources/images/19691205.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: The Northern Echo)*

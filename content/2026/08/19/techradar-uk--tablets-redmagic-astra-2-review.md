@@ -9,6 +9,8 @@ published: '2026-08-19T00:00:00Z'
 description: With the RedMagic Astra 2, Nubia's gaming sub-brand has produced a compact
   yet powerful tablet with a unique cooling system.
 image: https://cdn.mos.cms.futurecdn.net/h6WAFPaEy8GBWAj7UJTC7b-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

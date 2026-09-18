@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Students at a Middlesbrough secondary school are celebrating a record-breaking
   year after achieving the best GCSE and vocational results in the…
 image: https://www.thenorthernecho.co.uk/resources/images/21350591.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Supplied)*

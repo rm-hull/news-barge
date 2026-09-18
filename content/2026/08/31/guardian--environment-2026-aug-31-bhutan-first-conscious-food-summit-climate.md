@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Organisers say people must revive spiritual relationship with food amid
   double threat of climate crisis and conflict
 image: https://i.guim.co.uk/img/media/9cf18c2a861b355684d4f6b0620e750d98eeb1f5/404_0_4292_3434/master/4292.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e43b1c7299086d596a7eb804d958a93
+categories:
+- UK
+- News & Politics
+- Relationships & Dating
 ---
 
 Mending the broken food system under the threat of climate-driven weather extremes will require more than economic fixes and intensive agriculture, according to the organisers of a pioneering summit this week, who say the world must revive its spiritual relationship with food.

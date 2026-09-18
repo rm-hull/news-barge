@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: 'Central Command told Iran''s Islamic Revolutionary Guard Corps: ‘If
   you shoot at two of our ships, we will impose an even higher economic cost’'
 image: https://static.independent.co.uk/2026/06/11/16/2026-06-11T145813Z_1991707813_RC261KANBJ43_RTRMADP_3_IRAN-CRISIS-KHARGISLAND-RISKS.JPG?trim=55,0,55,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The U.S. military says it struck three Iranian oil tankers Saturday, including one off the coast of Kharg Island, near Iran's key oil export hub.

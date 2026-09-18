@@ -9,6 +9,10 @@ description: Absolutely nobody — not Democrats, nor Trump’s allies, journali
   even Canadians — walked away with anything useful from the president’s nonsense
   order signing on Thursday, writes John Bowden
 image: https://static.independent.co.uk/2026/08/27/20/2291733364..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 What are we even doing anymore?

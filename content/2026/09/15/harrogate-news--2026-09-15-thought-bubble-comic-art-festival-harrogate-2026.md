@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The Thought Bubble Comic Art Festival returns to Harrogate from 9-15
   November 2026, confirming guest stars Charlie Adlard, Jeffrey Brown, and Tula Lotay.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/think-fest.webp
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 **HARROGATE** — Regional cultural leads and international publishing houses have descended on the district following the official program launch for the UK’s premier independent graphic art celebration.

@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: King Charles III is meeting with senior leaders from OpenAI, Anthropic,
   Google DeepMind and Nvidia to discuss artificial intelligence
 image: https://static.independent.co.uk/2026/09/03/12/Britain_France__2934.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 King Charles III is meeting Thursday with senior leaders from OpenAI, Anthropic, Google DeepMind and Nvidia to discuss artificial intelligence and make a plea to ensure the technology remains in the service of people and the planet.

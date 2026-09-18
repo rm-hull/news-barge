@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Some raised concerns around hygiene while others praised the competitor's
   resolve to finish the race and push through adversity.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5380/live/fc11c310-b02f-11f1-9ae0-e316eeb4632d.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![A woman holds a mobile phone with Hyrox branding on it.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5380/live/fc11c310-b02f-11f1-9ae0-e316eeb4632d.jpg)

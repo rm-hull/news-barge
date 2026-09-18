@@ -8,6 +8,11 @@ scraped_at: '2026-08-26T08:56:42Z'
 published: '2026-08-26T00:00:00Z'
 description: A Lotto ticket bought in West Yorkshire has turned a player into a millionaire.
 image: https://www.thetelegraphandargus.co.uk/resources/images/15645833.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Archive)*

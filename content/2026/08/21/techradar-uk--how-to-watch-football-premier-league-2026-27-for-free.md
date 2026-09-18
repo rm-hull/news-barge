@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: A sub-licensing agreement in Brazil means one Premier League game a week
   is free to watch
 image: https://cdn.mos.cms.futurecdn.net/Jwx53Z5gBJm9eJLo8d9pGc-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Video Gaming
 ---
 
 ![Cole Palmer of Chelsea looks on in the pouring rain during the Premier League match between Manchester United and Chelsea at Old Trafford on September 20, 2025 in Manchester, England.](https://cdn.mos.cms.futurecdn.net/Jwx53Z5gBJm9eJLo8d9pGc.jpg) 

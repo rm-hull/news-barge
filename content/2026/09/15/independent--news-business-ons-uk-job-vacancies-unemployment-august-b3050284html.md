@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The Office for National Statistics said there were 8,000 fewer vacancies
   quarter-on-quarter in the three months to August
 image: https://static.independent.co.uk/2025/04/15/8/53/Unemployment-rate-kyqmskg2.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 Job vacancies have fallen to a five-year low as small firms scale back recruitment due to soaring wage costs, according to official figures.

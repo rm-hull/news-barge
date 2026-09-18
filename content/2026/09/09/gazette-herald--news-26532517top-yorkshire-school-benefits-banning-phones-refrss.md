@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Top North Yorkshire school Cundall Manor has said that banning phones
   during the teaching day has resulted in students having “no pressure to…
 image: https://www.gazetteherald.co.uk/resources/images/21426228.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Education & Learning
 ---
 
 *(Image: Cundall Manor)*

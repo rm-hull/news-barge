@@ -7,6 +7,11 @@ scraped_at: '2026-09-18T13:00:49Z'
 published: '2026-09-18T00:00:00Z'
 description: A TEMPORARY closure will affect Station Road in Denholme due to gas works
 image: https://www.thetelegraphandargus.co.uk/resources/images/21469754.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: Google Street View)*

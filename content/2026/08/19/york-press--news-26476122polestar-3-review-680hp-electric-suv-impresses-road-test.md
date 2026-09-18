@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: The Polestar 3 feels blisteringly quick – so much so that my mother-in-law
   let out a little gasp when the road conditions allowed me to give the…
 image: https://www.yorkpress.co.uk/resources/images/21338742.jpg?type=og-image
+categories:
+- Local
+- York
+- Family & Parenting
 ---
 
 ## Polestar 3 review: 680hp electric SUV packs a punch with blistering pace and poise

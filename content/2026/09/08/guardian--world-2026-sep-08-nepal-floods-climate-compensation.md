@@ -10,6 +10,9 @@ description: Foreign minister Shisir Khanal tells the Guardian the world’s big
   economies need to help Nepal, which contributes less than 0.1% of global greenhouse
   gas emissions
 image: https://i.guim.co.uk/img/media/eaed8dd07123749fede2b9dfe1d9e9d22992d090/959_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cdf673bef0ebba8f33acfc584540a763
+categories:
+- UK
+- News & Politics
 ---
 
 Nepal is demanding $20m in climate compensation for the recent devastating floods, as a senior minister called on the world’s most polluting countries to “wake up” and accept shared responsibility for a disaster that led to the death or disappearance of more than 6,000 people.

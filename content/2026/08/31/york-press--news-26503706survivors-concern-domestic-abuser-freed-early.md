@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: A North Yorkshire domestic abuse survivor has said she is “deeply concerned”
   about the government’s early prisoner release scheme which could…
 image: https://www.yorkpress.co.uk/resources/images/21383918.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Supplied)*

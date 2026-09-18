@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Quantock Staghounds disputed the chronology of the footage published
   on social media
 image: https://static.independent.co.uk/2026/09/07/15/21/Screenshot-2026-09-07-at-16-16-29.png?trim=0,1,0,219&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Police have launched an investigation after footage was released of a deer hurtling for safety while pursued by people on horseback and on foot.

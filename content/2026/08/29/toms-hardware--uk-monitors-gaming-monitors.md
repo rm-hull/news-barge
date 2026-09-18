@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Gaming Monitor reviews, news and features, created for the hardcore PC
   enthusiast by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/zHkzVy3D7e2nTCNSsYFpYD-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ## Explore Gaming Monitors

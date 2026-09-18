@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Three Brother's Brewing - known for charity beer festivals - is heading
   to a new location this autumn to raise money for the Great North Air…
 image: https://www.thenorthernecho.co.uk/resources/images/21455783.jpg?type=og-image&xType=0&yType=74
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A Teesside brewery known for charity beer festivals is heading to a new location this autumn to raise money for a lifesaving North East cause.

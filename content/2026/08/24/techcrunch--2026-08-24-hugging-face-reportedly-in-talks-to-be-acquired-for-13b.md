@@ -9,6 +9,9 @@ description: Hugging Face has reportedly been fielding acquisition offers that w
   value the company at around $13B. But with the founders' feeling of responsibility
   to community, doubts arise as to whether a sale will happen.
 image: https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-logo-smartphone.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Hugging Face has been approached to sell at a valuation of $13 billion or more, Business Insider reported over the weekend.

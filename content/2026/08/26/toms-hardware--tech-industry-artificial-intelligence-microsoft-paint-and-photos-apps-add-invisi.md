@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: Server-issued GUID watermark gets applied to all images generated via
   Paint or Photos AI features, even those that are made locally on Copilot+ PCs.
 image: https://cdn.mos.cms.futurecdn.net/Lprea3UQKgEfTJQJKLT4qa-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Use Image Creator in Paint to generate AI art](https://cdn.mos.cms.futurecdn.net/Lprea3UQKgEfTJQJKLT4qa.jpg) 

@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Microsoft veterans Gabe Newell and Mike Harrington founded the company
   on August 24, 1996.
 image: https://cdn.mos.cms.futurecdn.net/MLRYtYpUEeXxhLewjL7FmP-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- History
 ---
 
 ![The Lobby of Valve Headquarters in Bellevue, WA](https://cdn.mos.cms.futurecdn.net/MLRYtYpUEeXxhLewjL7FmP.jpg) 

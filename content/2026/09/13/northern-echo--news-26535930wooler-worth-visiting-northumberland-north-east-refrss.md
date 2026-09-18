@@ -8,6 +8,12 @@ published: '2026-09-13T00:00:00Z'
 description: Discover Wooler, the Northumberland market town with independent shops,
   fascinating history and the spectacular Cheviot Hills on its doorstep.
 image: https://www.thenorthernecho.co.uk/resources/images/21431209.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Travel
 ---
 
 *(Image: Karen Tomkinson/CAMERA CLUB)*

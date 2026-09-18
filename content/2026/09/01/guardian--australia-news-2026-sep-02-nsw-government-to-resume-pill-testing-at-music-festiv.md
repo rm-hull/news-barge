@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: Use of sniffer dogs and searches will continue despite health and harm
   reduction groups arguing they could lead to riskier drug taking
 image: https://i.guim.co.uk/img/media/a12c4fe332917451ab6f022ca42257fce57c104c/150_0_1968_1575/master/1968.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6d62d6c2eaf32c66201483dd13d76225
+categories:
+- UK
+- News & Politics
 ---
 
 Drug testing will resume at New South Wales music festivals from October, but will not be rolled out into the wider community despite calls from peak health and harm reduction groups, while the controversial use of sniffer dogs and searches will continue.

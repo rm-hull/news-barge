@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The Yemen militant group captured the islands of Greater and Lesser Hanish,
   new the chokepoint of Bab al-Mandab strait
 image: https://i.guim.co.uk/img/media/0d73d909d1a2538485c626492748c53674c1966e/0_0_3840_3072/master/3840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=75486fa313ea5ee36d3db5532d4f7a78
+categories:
+- UK
+- News & Politics
+- Sports
+- History
 ---
 
 Yemen’s Houthi rebels have seized two strategic islands in the Red Sea, reinforcing the Iran-backed group’s ability to control a key shipping route, as concerns mount that the world is facing a new oil supply crisis.

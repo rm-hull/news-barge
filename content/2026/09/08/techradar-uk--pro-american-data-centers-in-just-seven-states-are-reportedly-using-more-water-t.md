@@ -8,6 +8,10 @@ scraped_at: '2026-09-08T04:25:42Z'
 published: '2026-09-08T00:00:00Z'
 description: Data centers in seven states consume 10.4 million acre-feet of water
 image: https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- News & Politics
 ---
 
 ![A data center with racks of servers and lots of lights glowing](https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M.jpg) 

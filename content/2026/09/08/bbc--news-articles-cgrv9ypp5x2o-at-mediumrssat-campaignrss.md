@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: The government said it will legislate "as soon as they can" but may "reassess"
   its plans if firms make the desired changes sooner.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec8e/live/f2e6ac40-ab90-11f1-aa04-efbf6a882854.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Close-up of a child's hands clasped around a black smartphone](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/ec8e/live/f2e6ac40-ab90-11f1-aa04-efbf6a882854.jpg)

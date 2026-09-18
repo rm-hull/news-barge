@@ -7,6 +7,11 @@ scraped_at: '2026-09-14T14:59:44Z'
 published: '2026-09-14T00:00:00Z'
 description: Police are investigating an attempted burglary at a home in Scarborough.
 image: https://www.yorkpress.co.uk/resources/images/21407476.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
+- News & Politics
 ---
 
 *(Image: Pixabay)*

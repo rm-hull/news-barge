@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Roie Galitz's breathtaking shot is one of the winners of the 2026 World
   Press Photo Contest, praised for its unusual perspective and scale
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307517761.jpg
+categories:
+- Science
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Title: Polar Bear on Sperm Whale Credit: ?? Roie Galitz Caption: A female polar bear feeds on a sperm whale carcass in the polar pack ice north of the Norwegian archipelago, Svalbard. 82?? North, International Waters, 8 July 2025. Story: Polar bears are primarily seal predators, but as ice retreats in the summer and hunting becomes harder, they increasingly rely on opportunistic scavenging. Near Svalbard, the ice-free season has lengthened by 20 weeks in the last 30 years. Sperm whales typically avoid ice-covered polar waters, so this carcass was a rare sight. Scientists speculate that after dying, the male sperm whale drifted north, carried by winds and currents. The photographer spent two days observing the scene from a small boat, capturing it by drone to reveal a scale difficult to grasp from sea level.](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307517761.jpg?w=840)

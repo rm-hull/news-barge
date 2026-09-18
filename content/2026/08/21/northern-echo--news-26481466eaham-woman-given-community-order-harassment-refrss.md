@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Lynn Brown, of Seaham, has been ordered to carry out 100 hours of unpaid
   work after being convicted of harassing a woman by repeatedly sending…
 image: https://www.thenorthernecho.co.uk/resources/images/19749067.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 *(Image: NORTHERN ECHO)*

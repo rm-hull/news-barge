@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: A decision on plans for up to 52 homes in a Ryedale village has been
   delayed after planning officers changed their recommendation following the…
 image: https://www.yorkpress.co.uk/resources/images/21321907.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 ## Decision on plans for up to 52 new North Yorkshire homes delayed

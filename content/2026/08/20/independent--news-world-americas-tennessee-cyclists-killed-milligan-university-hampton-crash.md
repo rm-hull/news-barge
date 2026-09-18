@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Milligan University said 11 members of its cycling team were on a morning
   training ride when they were hit by a driver
 image: https://static.independent.co.uk/2026/08/20/01/University_Cyclists_Killed_81_82.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Two members of a university cycling team were killed and seven others injured Wednesday after a car struck a group of riders in northeastern Tennessee, according to state officials.

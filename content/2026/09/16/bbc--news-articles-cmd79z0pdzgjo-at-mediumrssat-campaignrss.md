@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Hashim Thaci has been jailed for crimes including torture and murder
   during Kosovo's independence war with Serbia.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fb87/live/5e973200-b1b5-11f1-bdcf-d393eb724fa3.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Thaci, pictured in 2020](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/fb87/live/5e973200-b1b5-11f1-bdcf-d393eb724fa3.jpg)

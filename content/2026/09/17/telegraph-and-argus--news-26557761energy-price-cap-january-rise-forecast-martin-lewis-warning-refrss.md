@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Martin Lewis has issued an urgent energy warning after the January Price
   Cap was forecast to rise by 24.9. Here's what households need to know.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20643157.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 Martin Lewis has issued a fresh warning to households as the energy Price Cap is now predicted to soar by almost 25% in January.

@@ -8,6 +8,9 @@ scraped_at: '2026-09-14T20:18:06Z'
 published: '2026-09-14T00:00:00Z'
 description: Huawei accused of being a "criminal enterprise"
 image: https://cdn.mos.cms.futurecdn.net/fVvA9tr87QfPys6VEUqGJS-2560-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Huawei](https://cdn.mos.cms.futurecdn.net/fVvA9tr87QfPys6VEUqGJS.jpg) 

@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Paul McGinnety talks to PETER BARRON about is first 100 days as the new
   Chief Executive of the North East Autism Society
 image: https://www.thenorthernecho.co.uk/resources/images/21409826.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *Paul McGinnety talks to**PETER BARRON** about is first 100 days as the new Chief Executive of the North East Autism Society*

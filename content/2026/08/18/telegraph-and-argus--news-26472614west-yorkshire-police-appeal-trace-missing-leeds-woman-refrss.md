@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: Police are appealing for the public's help to trace a 25-year-old woman
   who has been reported missing from Leeds.
 image: https://www.thetelegraphandargus.co.uk/resources/images/17377414.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 *(Image: T&A)*

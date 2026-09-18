@@ -9,6 +9,12 @@ published: '2026-08-23T00:00:00Z'
 description: A 98-year-old woman who came to Britain as a refugee during the Second
   World War has been forced to leave her Bradford district care home.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21352743.jpg?type=og-image&xType=0&yType=388
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
+- Society & Culture
 ---
 
 *(Image: Suzanne Bennett)*

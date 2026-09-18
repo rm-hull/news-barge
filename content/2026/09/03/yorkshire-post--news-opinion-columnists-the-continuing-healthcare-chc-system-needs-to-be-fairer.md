@@ -10,6 +10,11 @@ description: All power to Dewsbury Independent MP Iqbal Mohamed, who is calling 
   CHC support, allowing seriously ill individuals access to NHS-funded social care,
   is outrageously difficult to access.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjcwZTFhYzU1LWQ3YjktNGExOC05MzRiLTg1NjVmNzVjMGMzZjoyNGI5M2VmMS04MmM2LTQ1MTktODkwOS02MjU0NWMyNjUyMjc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # The Continuing Healthcare (CHC) system needs to be fairer - Jayne Dowle

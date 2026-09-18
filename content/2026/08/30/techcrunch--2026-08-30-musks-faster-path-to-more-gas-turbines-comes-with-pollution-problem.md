@@ -10,6 +10,9 @@ description: Elon Musk says a secretive new SpaceX foundry will let him cast his
   it's a bet on a fuel source that's already triggering lawsuits and health studies
   everywhere his (and others') turbines have gone in.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Elon-Musk.jpg?w=1024
+categories:
+- Science
+- Technology & Software
 ---
 
 Elon Musk says he’s found a way to solve one of AI’s biggest bottlenecks by making a hard-to-manufacture turbine part himself.

@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Hadley is giving evidence in trial of former 2GB rival Jones, 85, who
   has pleaded not guilty to 22 indecent assault and sexual touching charges
 image: https://i.guim.co.uk/img/media/dfa038d539534f0d2d525e28dd785070103db3f1/251_0_7660_6129/master/7660.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6eaa167703324dc7a0993af637f113d8
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Broadcaster Ray Hadley has told a Sydney court he used a homophobic slur and derogatory names when talking about his colleague Alan Jones, after 2GB withdrew a secret offer of a $4m contract to take over Jones’s coveted breakfast slot.

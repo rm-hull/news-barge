@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to
   break down the latest in the Swedish tech ecosystem.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2178323206.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Sweden is perhaps one of the world’s hottest tech hubs right now. It has long been home to Spotify and Klarna, but this latest wave of companies — from legal AI startup Legora to vibe-coding tool company Lovable — has left everyone wondering what’s going on in one of the world’s happiest countries.

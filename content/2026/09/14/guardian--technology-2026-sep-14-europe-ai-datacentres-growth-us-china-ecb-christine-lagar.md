@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: Central bank chief says continent’s AI dependency could give trade partners
   unprecedented leverage in negotiations
 image: https://i.guim.co.uk/img/media/221847ebaf0cc8dedc211ee121968b599ff59096/102_0_6066_4853/master/6066.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=95c7a7e0ccfc4c128c2d401472fa896e
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Europe must develop its own AI technology and build more datacentres in order to nullify the threat of being cut off by the US or China, according to the president of the European Central Bank.

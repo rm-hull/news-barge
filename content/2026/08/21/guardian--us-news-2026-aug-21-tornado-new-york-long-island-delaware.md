@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: First responders also rescued flood-stranded people after storms unleashed
   heavy rains in the US north-east
 image: https://i.guim.co.uk/img/media/f72d24cffb4b4d712d986e3a03a881a23c390967/0_970_1268_1013/master/1268.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85dc522b5e55336984e2d4afe968ade7
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Travel
 ---
 
 Residents in Delaware’s capital and on Long Island, New York, were picking up the pieces on Friday after tornadoes touched down during sudden storms that battered the north-eastern US with heavy rains and left dozens of people stranded in their cars during flash flooding.

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: A council leader said he is “deeply concerned” that a number of schools
   are closing due to a funeral linked to the fatal A66 crash.
 image: https://www.thenorthernecho.co.uk/resources/images/21358260.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 A council leader said he is “deeply concerned” that schools have “felt they have no option but to close early” due to fears over the impact of an A66 crash funeral.

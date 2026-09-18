@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T15:00:28Z'
 published: '2026-09-14T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/York-Dog-Show-in-York-Museum-Gardens-Courtesy-of-York-Dog-Park.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 More details have been revealed for York’s first ever city centre dog show.

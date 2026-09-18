@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Two men caught tending a large, potentially lucrative cannabis farm,
   will be sentenced for their part in the operation, next week.
 image: https://www.thenorthernecho.co.uk/resources/images/21220771.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Science
 ---
 
 Two men caught tending a large, potentially lucrative cannabis farm, will be sentenced for their part in the operation, next week.

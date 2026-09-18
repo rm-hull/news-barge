@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Zoopla has revealed the areas in the North East where it is fastest and
   slowest to sell a property.
 image: https://www.thenorthernecho.co.uk/resources/images/21337337.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Getty)*

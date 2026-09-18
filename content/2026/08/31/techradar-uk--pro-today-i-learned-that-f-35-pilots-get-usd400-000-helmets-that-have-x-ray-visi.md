@@ -9,6 +9,8 @@ published: '2026-08-31T00:00:00Z'
 description: F-35 pilots each get a $400,000 helmet connected to six infrared cameras
   mounted to the airframe of their fighter jet
 image: https://cdn.mos.cms.futurecdn.net/6xscKM986e4DwpWQuLqctW-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![F-35 fighter jets in flight](https://cdn.mos.cms.futurecdn.net/6xscKM986e4DwpWQuLqctW.jpg) 

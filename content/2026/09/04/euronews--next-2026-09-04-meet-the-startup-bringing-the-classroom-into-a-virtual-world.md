@@ -10,6 +10,11 @@ description: Metatesk is bringing immersive technology into the classroom, using
   explain how technology can help young people understand complex ideas in a more
   engaging way.
 image: https://images.euronews.com/articles/stories/09/89/15/04/1200x675_cmsv2_57bd7234-2509-5c99-8d94-76730d415b32-9891504.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+- Education & Learning
 ---
 
 **Euronews**

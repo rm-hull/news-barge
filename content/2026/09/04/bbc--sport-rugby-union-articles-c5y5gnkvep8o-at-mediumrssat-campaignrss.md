@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Captain Siya Kolisi calls on the Springboks to summon inspiration from
   Soweto's pivotal part in South Africa's history as they host New Zealand on Saturday.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d6ae/live/12edc420-a89d-11f1-8c81-cb0151e9fb14.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Society & Culture
 ---
 
 ![Siya Kolisi celebrates scoring a try](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/07f9/live/9df4cf20-a89b-11f1-bec1-0df3834ee043.jpg)

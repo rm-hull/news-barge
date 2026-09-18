@@ -10,6 +10,10 @@ description: Ukraine increasingly contributes battlefield-tested designs and ope
   knowledge, while Britain can provide engineering expertise, industrial capacity,
   certification, capital and access to international markets
 image: https://static.independent.co.uk/2026/08/19/19/14/GettyImages-2287244853.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 When the UK allowed Ukraine to use British-supplied Storm Shadow cruise missiles against targets inside Russia in late 2024, Moscow predictably accused London of escalating the war and threatened retaliation.

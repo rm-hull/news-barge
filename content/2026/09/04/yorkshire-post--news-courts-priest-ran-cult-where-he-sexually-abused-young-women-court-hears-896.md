@@ -9,6 +9,11 @@ description: A Church of England priest ran a “cult” where he sexually abuse
   and got them to care for him and his wife at home wearing lingerie, a court has
   heard.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/07/26/18/v2-image-production-498f23361b0a1d25c440b62941c9cff0Y29udGVudHNlYXJjaGFwaSwxNzU1Nzg2ODk5-2.80854418.jpg?crop=3:2,smart&trim=&width=480&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Priest ran ‘cult’ where he sexually abused young women, court hears

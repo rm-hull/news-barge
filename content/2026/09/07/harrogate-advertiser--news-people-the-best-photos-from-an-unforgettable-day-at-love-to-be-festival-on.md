@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Thousands of music lovers descended on Harrogate on Saturday as Love
   to be... Festival returned to the Stray.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmM0Mzc3ZGRiLTNkN2ItNDVjMC05ZjUxLWFjM2VkNWFkNzJkMDo1MWUwMmYzMi01Mzk3LTRiYTQtODhiMy1mZDUxNGI3NjE4Y2Y=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Arts & Culture
+- Music
 ---
 
 The popular event brought together house music, live entertainment and a vibrant festival atmosphere, with crowds dancing throughout the day.

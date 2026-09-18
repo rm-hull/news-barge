@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: A BUILDING is on fire in North Yorkshire following a violent thunderstorm
   this evening (Sunday).
 image: https://www.yorkpress.co.uk/resources/images/21390526.jpg?type=og-image&xType=0&yType=530
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 ## Farm buildings on fire in North Yorkshire following storm - numerous crews at scene

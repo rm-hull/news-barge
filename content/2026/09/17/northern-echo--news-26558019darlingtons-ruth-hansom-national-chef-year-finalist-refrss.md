@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Darlington’s Ruth Hansom has been named a finalist in the National Chef
   of the Year competition once again.
 image: https://www.thenorthernecho.co.uk/resources/images/21466676.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Craft Guild of Chefs)*

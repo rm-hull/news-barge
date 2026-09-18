@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: North Yorkshire Police are investigating an alleged theft from a York
   service station.
 image: https://www.gazetteherald.co.uk/resources/images/21394813.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

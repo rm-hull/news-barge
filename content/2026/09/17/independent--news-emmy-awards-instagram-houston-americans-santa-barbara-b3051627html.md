@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Los Angeles has been a city viewed from above by news helicopters for
   nearly seven decades
 image: https://static.independent.co.uk/2026/09/17/05/APTOPIX_Helicopter_Crash_Los_Angeles_4_64.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Los Angeles has been viewed from above by news helicopters for nearly seven decades. When there was a wildfire, a mudslide or O.J. Simpson fleeing the police across its ribbons of highway, an “eye in the sky” tracked it and advised millions how to keep out of harm's way.

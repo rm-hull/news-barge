@@ -9,6 +9,11 @@ description: 197 election deniers are running for Congress or statewide office i
   43 states. Many of them are seeking roles that would put them in charge of voting
   for the 2028 presidential election.
 image: https://media.wired.com/photos/6aaaf568c03b2ca2d82a3999/191:100/w_1280,c_limit/Politics_These%20Are%20the%20Election%20Deniers%20Running%20for%20Office%20You%20Should%20Know%20About_v1.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
+- Society & Culture
 ---
 
 On November 3, when voters across the US go to the polls, almost 200 election deniers will be on the ballot. Many of them have repeatedly undermined the very process they are participating in, and they will be looking to win some of the most powerful elected positions in the country—positions that would help determine how voting goes in future elections.

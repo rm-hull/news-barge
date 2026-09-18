@@ -9,6 +9,12 @@ published: '2026-08-29T00:00:00Z'
 description: BEAUTIFULLY renovated and significantly improved by its current owners,
   Four Winds is an exceptional home in the exclusive semi-rural development of…
 image: https://www.thenorthernecho.co.uk/resources/images/21379950.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
+- Lifestyle & Fashion
 ---
 
 BEAUTIFULLY renovated and significantly improved by its current owners, Four Winds is an exceptional home in the exclusive semi-rural development of Brancepeth Manor Farm that seamlessly blends contemporary styling with charming character features.

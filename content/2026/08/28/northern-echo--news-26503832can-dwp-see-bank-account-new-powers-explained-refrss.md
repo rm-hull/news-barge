@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: A petition is calling for the DWP to reconsider its powers to check information
   held by banks about Universal Credit claimants
 image: https://www.thenorthernecho.co.uk/resources/images/21383585.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Joe Giddens)*

@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: A Darlington charity that supports women and children fleeing domestic
   abuse has received a £15,000 grant through Durham Freemasons to help provide…
 image: https://www.thenorthernecho.co.uk/resources/images/21367677.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
+- Society & Culture
 ---
 
 *(Image: Keith Blundy)*

@@ -12,6 +12,13 @@ description: The UK Government has just opened a call for evidence on an AI-enab
   Scotland, and Wales. For Yorkshire, with its energy, manufacturing, financial, legal,
   and health-tech ambitions, the opportunity is substantial.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjYxYzk4OThlLTJkOGYtNDNiOS04OTQ3LTcwMTgxNDM0YmExYjowMTIwMjExYy00NDBhLTQ1MTYtOTdjYy02YmYxMDgxMWMxYWM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 # Yorkshire needs to limit the authority for AI before agents get the keys - Dr Gleb Tsipursky

@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A major UK restaurant chain is shutting all of its sites across the country
   after more than five decades in business.
 image: https://www.thenorthernecho.co.uk/resources/images/21428185.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest)*

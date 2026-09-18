@@ -7,6 +7,11 @@ scraped_at: '2026-09-08T19:25:13Z'
 published: '2026-09-08T00:00:00Z'
 description: A person has been airlifted to hospital after a collision on the A684.
 image: https://www.thenorthernecho.co.uk/resources/images/21427549.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: YORKSHIRE AIR AMBULANCE)*

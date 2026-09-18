@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: The Lenovo ThinkPad T1g Gen8 is desktop-class power in a ThinkPad case.
   It might look portable, but this is a surprisingly heavy business laptop.
 image: https://cdn.mos.cms.futurecdn.net/dQPfrUx4CgXwY6jAT2mpB6-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ### TechRadar Verdict

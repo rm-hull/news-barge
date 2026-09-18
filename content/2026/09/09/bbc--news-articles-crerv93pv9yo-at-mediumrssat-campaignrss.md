@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The LA Rams will face the San Francisco 49ers in the first regular season
   American football game to be played Down Under.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e614/live/b746cb00-ac05-11f1-afbf-77fe6d25f635.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Men in red sports gear walk out of a tunnel into a stadium with fans behind them](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/3c39/live/ee4db2d0-abf6-11f1-8260-f57b5f356735.jpg)

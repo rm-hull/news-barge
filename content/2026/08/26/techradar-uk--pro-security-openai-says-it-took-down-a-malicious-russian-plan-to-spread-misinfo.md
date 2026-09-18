@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: The International Burke Institute was central to the social influence
   campaign, designed to paint Russia in a better light than its Western counterparts.
 image: https://cdn.mos.cms.futurecdn.net/MXqmsVRQzx9hefCvT8TupP-2560-80.jpg
+categories:
+- Technology & Software
+- News & Politics
 ---
 
 ![Shape of Russia filled with Russian flag-colored internet codes on a black hacking background](https://cdn.mos.cms.futurecdn.net/MXqmsVRQzx9hefCvT8TupP.jpg) 

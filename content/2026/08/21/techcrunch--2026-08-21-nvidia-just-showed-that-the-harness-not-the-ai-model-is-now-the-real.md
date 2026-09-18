@@ -10,6 +10,8 @@ description: Nvidia research shows that AI agents can perform well, and not go o
   the deep end, through fine-tuning, even if the AI model isn't that great at the
   task.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898
+categories:
+- Technology & Software
 ---
 
 Nvidia published some interesting new research on Friday suggesting it’s the harness, more than the underlying model, that is far more important when asking an AI to do long-horizon tasks. A harness is the software scaffolding around an AI model — the tools, memory management, and rules that turn a raw model into something that can act on its own.

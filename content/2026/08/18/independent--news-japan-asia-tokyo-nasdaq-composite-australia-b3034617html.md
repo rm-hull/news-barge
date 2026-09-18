@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Asian shares are declining, as rising oil prices and worries about inflation
   work as a dampener on some markets
 image: https://static.independent.co.uk/2026/08/18/04/Japan_Financial_Markets_99119.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Asian shares declined in early Tuesday trading, as rising oil prices and worries about inflation worked as a dampener on some markets, countering the optimism that had come from robust corporate earnings reports.

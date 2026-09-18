@@ -7,6 +7,8 @@ scraped_at: '2026-08-28T11:17:01Z'
 published: '2026-08-27T00:00:00Z'
 description: Russia is shifting focus to low-hanging fruit of the power grid
 image: https://cdn.mos.cms.futurecdn.net/sz6gFYTwfpR5a6TbDhtViJ-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Modified Ukrainian Drone](https://cdn.mos.cms.futurecdn.net/sz6gFYTwfpR5a6TbDhtViJ.png) 

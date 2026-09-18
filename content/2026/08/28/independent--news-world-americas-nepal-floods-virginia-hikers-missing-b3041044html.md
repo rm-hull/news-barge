@@ -10,6 +10,11 @@ description: Dozens of Americans, including community leaders from Northern Virg
   were traveling to Tibet’s sacred Mount Kailash when catastrophic flash floods struck
   the border region
 image: https://static.independent.co.uk/2026/08/28/14/2292434414..?trim=0,234,0,234&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- History
 ---
 
 Families in Northern Virginia are urgently seeking help to locate a group of ten local men who vanished during severe flooding along the Nepal-China border.

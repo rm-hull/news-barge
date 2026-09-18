@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: After one win in four Premier League games, the problems are mounting
   for Manchester United and manager Michael Carrick.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4070/live/d8628f60-b031-11f1-9ae0-e316eeb4632d.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Manchester United head coach Michael Carrick](https://ichef.bbci.co.uk/ace/standard/1552/cpsprodpb/4070/live/d8628f60-b031-11f1-9ae0-e316eeb4632d.jpg)

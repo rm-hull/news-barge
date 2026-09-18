@@ -7,6 +7,11 @@ scraped_at: '2026-08-24T11:49:38Z'
 published: '2026-08-24T00:00:00Z'
 description: A 17-year-old dog has gone missing while on holiday at a forest park.
 image: https://www.gazetteherald.co.uk/resources/images/21362014.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 A 17-year-old dog has gone missing while on holiday at a forest park.

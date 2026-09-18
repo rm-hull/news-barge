@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T04:57:30Z'
 published: '2026-08-24T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/04/lady-row-64-goodramgate-york-blacks-inside.webp
+categories:
+- Local
+- York
+- History
 ---
 
 Plans have gone in to turn one of York’s oldest shop buildings into an artisanal sweet shop.

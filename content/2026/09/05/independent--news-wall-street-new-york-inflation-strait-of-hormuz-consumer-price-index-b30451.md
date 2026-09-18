@@ -7,6 +7,10 @@ scraped_at: '2026-09-05T11:49:15Z'
 published: '2026-09-05T00:00:00Z'
 description: Wall Street will get several important updates about inflation this week
 image: https://static.independent.co.uk/2026/08/30/08/Financial_Markets_Wall_Street_24_78.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Wall Street will get several important updates about inflation this week.

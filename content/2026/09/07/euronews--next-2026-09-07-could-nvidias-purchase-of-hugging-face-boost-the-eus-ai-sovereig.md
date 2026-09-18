@@ -9,6 +9,11 @@ description: The deal, marking NVIDIA's increased focus on open-AI models, is li
   to draw significant regulatory concern from the EU due to its size and implications
   for the bloc's digital and AI sovereignty.
 image: https://images.euronews.com/articles/stories/09/90/16/18/1200x675_cmsv2_8204affa-3685-5d86-bc65-a1277dcfbc50-9901618.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 **Yaël Ossowski, EU Tech Loop with Euronews**

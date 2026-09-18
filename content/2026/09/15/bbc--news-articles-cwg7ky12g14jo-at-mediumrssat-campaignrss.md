@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The arrests are an escalation in the Turkish government's campaign targeting
   LGBTQ+ community and activists.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1d5c/live/f63256f0-b145-11f1-a383-57f33d64a166.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Turkish police detain dozens of LGBT rights protesters in Ankara, on September 15, 2026. The arrests interrupted a planned pro-LGBT demonstration in the capital a day after detentions of LGBT activists, media organizations, civil society groups and public figures across Turkey.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/1d5c/live/f63256f0-b145-11f1-a383-57f33d64a166.jpg)

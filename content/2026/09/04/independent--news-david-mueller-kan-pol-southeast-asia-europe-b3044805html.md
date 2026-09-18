@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T18:59:00Z'
 published: '2026-09-04T00:00:00Z'
 description: A handful of U.S. farmers are looking at a new solution to extreme weather
 image: https://static.independent.co.uk/2026/09/04/14/Climate_Perennial_Grains__614.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Bryce Black kneels in a wheat field battered by intense drought. He holds two strands, remarking on how small the seed head is compared with what's normal.

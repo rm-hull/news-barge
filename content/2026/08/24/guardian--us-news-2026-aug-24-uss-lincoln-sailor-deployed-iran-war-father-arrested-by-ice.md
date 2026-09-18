@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Joshua Aviles says he is on a nine-month Middle East deployment and learned
   his has father has been arrested while he was waiting for green card approval
 image: https://i.guim.co.uk/img/media/a37283b4858c8fd607e232f7ddc7818b35048404/200_0_1300_1040/master/1300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aa73cbeeb9221799ac8fd9999281ae66
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The father of a US sailor on board the USS Abraham Lincoln aircraft carrier deployed in the Middle East during the Iran war has been taken into federal immigration detention, the sailor said.

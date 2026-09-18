@@ -10,6 +10,12 @@ description: The ongoing saga to reopen Doncaster Sheffield Airport (DSA) is con
   to erode confidence. It was never going to be a straightforward project and there
   are multiple complex hurdles for local leaders to clear.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjNlOGExYzlkLTFhNWItNDQ3MC04ZjUzLWRlMjE4MmU0NDJjMzo0YTFhZWJiZi1lNDhiLTQ2MWYtYTIwMy00NjlhZjlhMjY5Yzk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 # Why the change in position on the Doncaster Sheffield Airport lease renegotiation deadline?

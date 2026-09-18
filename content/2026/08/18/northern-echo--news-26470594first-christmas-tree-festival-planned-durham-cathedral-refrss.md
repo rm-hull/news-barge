@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Durham Cathedral is set to launch its first-ever Christmas Tree Festival,
   bringing together organisations from across the region in a festive…
 image: https://www.thenorthernecho.co.uk/resources/images/21329945.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Durham Cathedral)*

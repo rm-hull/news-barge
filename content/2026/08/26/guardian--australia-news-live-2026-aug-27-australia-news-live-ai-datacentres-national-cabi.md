@@ -8,6 +8,10 @@ scraped_at: '2026-08-26T23:23:36Z'
 published: '2026-08-26T00:00:00Z'
 description: Follow live
 image: https://i.guim.co.uk/img/media/6f5c97eeaeb006a57c3de75f5cac52af0f74b14b/378_0_2863_2290/master/2863.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=af47f6a13515a5056158cf011d112a31
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The prime minister, Anthony Albanese, says Dfat officials are ready to provide consular assistance to Australians in Nepal, after the devastating flooding in the country.

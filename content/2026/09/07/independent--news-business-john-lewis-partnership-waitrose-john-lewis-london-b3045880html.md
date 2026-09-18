@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Of the roles, around 6,000 are with Waitrose’s 320 shops and 2,600 will
   be across John Lewis’s 36 shops.
 image: https://static.independent.co.uk/2026/09/07/11/bcde13bef715e69f5420eaec3019886dY29udGVudHNlYXJjaGFwaSwxNzg4ODYwOTg5-2.83842862.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The John Lewis Partnership (JLP) has said it is offering thousands of jobs to young workers as part of this year’s Christmas hiring drive.

@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Extreme weather has made brittle road surfaces more likely to crack,
   increasing strain on infrastructure
 image: https://i.guim.co.uk/img/media/094ca02eb0bb323542a20c778d9ed708ec0cab8f/342_0_5837_4670/master/5837.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b914dc462df3782b34ccfbf44de72156
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 The UK’s dilapidated roads are expected to get even worse, with motorists warned to expect a jump in the number of potholes as result of the country’s hottest summer on record.

@@ -7,6 +7,12 @@ scraped_at: '2026-09-09T12:56:54Z'
 published: '2026-09-09T00:00:00Z'
 description: The Indian restaurant has been ordered to pay the worker a total of £7,185
 image: https://static.independent.co.uk/2026/09/09/11/03/Screenshot-2026-09-09-at-12-44-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 A curry restaurant waiter has been awarded more than £7,000 after he was fired for asking his boss to speak to him “nicely”.

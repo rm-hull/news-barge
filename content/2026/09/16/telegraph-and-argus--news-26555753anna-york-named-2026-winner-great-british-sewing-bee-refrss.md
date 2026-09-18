@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Anna from York has been named this year’s winner of the Great British
   Sewing Bee.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21461729.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 A woman from Yorkshire has been named this year’s winner of the Great British Sewing Bee.

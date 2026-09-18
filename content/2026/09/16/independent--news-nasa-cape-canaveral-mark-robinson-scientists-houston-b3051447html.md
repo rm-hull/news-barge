@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Scientists have discovered a crater on the moon that's bigger than the
   Roman Colosseum, the result of a powerful impact two years ago
 image: https://static.independent.co.uk/2026/09/16/19/Moon-New_Crater_32981.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- History
 ---
 
 Scientists have discovered a crater on the moon that's bigger than the Roman Colosseum and is the result of a powerful impact two years ago that initially went undetected.

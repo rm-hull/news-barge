@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: All the ways to watch World Athletics Ultimate Championship 2026 for
   free from anywhere, including the schedule, broadcasters and TV channels.
 image: https://cdn.mos.cms.futurecdn.net/bFZLDKwk8RoWGAvRz2ej7G-981-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Josh Kerr, wearing sunglasses and the Scotland vest, holds his arms out in celebration at winning the mile at the Commonwealth Games 2026.](https://cdn.mos.cms.futurecdn.net/bFZLDKwk8RoWGAvRz2ej7G.jpg) 

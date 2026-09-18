@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: A grassroots market championing Yorkshire creatives is set to return
   to Haworth.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20680695.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: T&A)*

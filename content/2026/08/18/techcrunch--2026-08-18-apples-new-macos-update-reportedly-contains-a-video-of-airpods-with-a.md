@@ -9,6 +9,8 @@ published: '2026-08-18T00:00:00Z'
 description: A video in a MacOS Tahoe release candidate version shows a user wearing
   AirPods, looking at a book, and talking to Siri.
 image: https://techcrunch.com/wp-content/uploads/2024/09/PXL_20240909_184838058.PORTRAIT.jpg?resize=1200,900
+categories:
+- Technology & Software
 ---
 
 Apple seems to be preparing launch materials for its upcoming AirPods with a camera, a leaked video in the latest macOS update spotted by MacRumors suggests.

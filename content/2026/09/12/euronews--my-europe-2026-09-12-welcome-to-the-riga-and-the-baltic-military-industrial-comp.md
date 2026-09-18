@@ -10,6 +10,10 @@ description: 'Good morning. Angela Skujins penning this Friday newsletter from t
   battlefield tactics and the scintillating spirit of the rīdzinieki, aka Rigan people.
   #EuropeToday'
 image: https://images.euronews.com/articles/stories/09/90/97/25/1200x675_cmsv2_4f6913b0-3026-5f26-bb6b-bb82eb52cf49-9909725.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Good morning. Angela Skujins penning this Friday newsletter from the bitter Baltics, where I’ve just spent the last few days immersed in beetroot soup, battlefield tactics and the scintillating spirit of the rīdzinieki, aka Rigan people.

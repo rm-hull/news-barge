@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Hungary has ordered 10 Russian diplomats to leave the country over activities
   deemed unacceptable
 image: https://static.independent.co.uk/2026/09/08/11/Hungary_Russia_59198.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Hungary ordered 10 members of Russia’s diplomatic mission to leave the country over activities deemed unacceptable for diplomats, the government said Tuesday, and Russia said that it planned to respond.

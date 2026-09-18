@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: A County Durham parkrun community has raised thousands of pounds for
   lifesaving equipment and local charities after a medical emergency at an event…
 image: https://www.thenorthernecho.co.uk/resources/images/21439721.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: GOOGLE MAPS)*

@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Two women have been fined after waste linked to their homes was found
   dumped in separate fly-tipping incidents in Goole and Bridlington.
 image: https://www.gazetteherald.co.uk/resources/images/21395388.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 Two women have been fined after waste linked to their homes was found dumped in separate fly-tipping incidents.

@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: One person has been taken to hospital after an air ambulance was called
   to a crash in County Durham.
 image: https://www.thenorthernecho.co.uk/resources/images/17712363.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: GNAAS)*

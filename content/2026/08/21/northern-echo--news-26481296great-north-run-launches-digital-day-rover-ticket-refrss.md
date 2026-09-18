@@ -8,6 +8,12 @@ published: '2026-08-21T00:00:00Z'
 description: A new £6.50 digital Great North Run Day Rover ticket is being introduced
   for this year's event, giving runners and spectators unlimited travel…
 image: https://www.thenorthernecho.co.uk/resources/images/21349632.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Supplied)*

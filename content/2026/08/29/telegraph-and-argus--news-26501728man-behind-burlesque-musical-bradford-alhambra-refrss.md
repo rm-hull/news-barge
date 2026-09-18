@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: YOU might never have heard of Steven Antin, but you’re probably familiar
   with his work.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21380830.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 YOU might never have heard of Steven Antin, but you’re probably familiar with his work.

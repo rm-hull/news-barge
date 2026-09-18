@@ -10,6 +10,10 @@ description: 'US military says it destroyed five more Iranian oil tankers after 
   in retaliation, the Revolutionary Guards said on Wednesday. Jordan''s army said
   it shot down 18 missiles from Iran targeting the kingdom. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/65/57/1200x675_cmsv2_bade7183-da75-50da-acbb-3ba3e44b9da2-9906557.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## US military says it destroyed five more Iranian oil tankers after missile attacks on a Navy warship. Iran struck a US military base in Jordan with missiles in retaliation, the Revolutionary Guards said on Wednesday. Jordan's army said it shot down 18 missiles from Iran targeting the kingdom.

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: ‘Shocking’ breaches such as sweets and crisps at breakfast uncovered
   just before expansion of access to free school meals
 image: https://i.guim.co.uk/img/media/8727b52fc0cefbc84998de6d7578234e023dab82/670_24_6107_4888/master/6107.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3b59fc6f54884356768d0b69c5d2b6c
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Three-quarters of secondary schools in England are breaking the rules on food offered to pupils by serving chips, burgers and hash browns too often – and sweets and crisps at breakfast time, according to a report.

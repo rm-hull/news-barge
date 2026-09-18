@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Free, potentially life-saving blood pressure checks are being offered
   to communities across North Yorkshire this week.
 image: https://www.gazetteherald.co.uk/resources/images/21423633.jpg?type=og-image&xType=0&yType=1489
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 Free, potentially life-saving blood pressure checks are being offered to communities across North Yorkshire.

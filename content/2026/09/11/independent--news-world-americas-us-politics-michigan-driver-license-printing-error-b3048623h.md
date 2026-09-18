@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: ‘I looked at my license and see that this man was on here, and I automatically
   knew that it wasn’t right,’ one recipient said
 image: https://static.independent.co.uk/2026/09/11/12/24/GettyImages-1179228887.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Thousands of Michigan residents received driver’s licenses and state IDs bearing the photo of a random man, a mistake officials attributed to a printing error.

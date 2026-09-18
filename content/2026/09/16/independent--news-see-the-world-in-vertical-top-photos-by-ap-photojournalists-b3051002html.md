@@ -7,6 +7,10 @@ scraped_at: '2026-09-16T13:27:18Z'
 published: '2026-09-16T00:00:00Z'
 description: Sept. 10 - Sept. 16, 2026
 image: https://static.independent.co.uk/2026/09/16/09/Yemen_War_9776_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Sept. 10 - Sept. 16, 2026

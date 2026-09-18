@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Tory leader rules out coalition with Farage’s party and says ‘drama queens’
   who left will not be welcomed back
 image: https://i.guim.co.uk/img/media/71d34405327d208136835310eee0fe5a770a868a/1026_0_5131_4106/master/5131.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=13bf5d70e701c2c0661e77501a2580d4
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Kemi Badenoch has called defectors who left for Reform “some of the most dishonest people” she has ever met, as she ruled out allowing “drama queens” to return to the party.

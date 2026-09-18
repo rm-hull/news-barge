@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Speculation has been building recently that an announcement about Daniel
   Craig's successor could be close.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7ff0/live/291c78c0-a85e-11f1-aed2-8d6da8d75094.png
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ![A composite image showing, from left to right, Jacob Elordi, Jack Lowden and Callum Turner](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7ff0/live/291c78c0-a85e-11f1-aed2-8d6da8d75094.png)

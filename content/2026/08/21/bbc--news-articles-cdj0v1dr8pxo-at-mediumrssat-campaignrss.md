@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Peter Byers says he walks into Pocklington town centre "to make sure
   people know I'm still alive".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38db/live/ed70bc30-9c93-11f1-a38b-8bb91d2ef80e.jpg
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 ![Peter Byers is stood with his rollator walking aid in front of a lake. He is wearing a green fishing hat, sunglasses, a khaki fishing gilet and a grey-green shirt.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/38db/live/ed70bc30-9c93-11f1-a38b-8bb91d2ef80e.jpg)

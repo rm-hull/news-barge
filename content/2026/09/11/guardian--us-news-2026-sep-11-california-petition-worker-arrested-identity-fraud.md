@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: Prosecutors say James Brass orchestrated scheme to pay people on LA’s
   Skid Row to duplicate registered voters’ signatures
 image: https://i.guim.co.uk/img/media/f58713f0e41e1cb391e2afb74bb2d54069bb11af/215_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d115b32a281c60f26a191bf7294809ac
+categories:
+- UK
+- News & Politics
 ---
 
 A California ballot petition worker has been arrested and charged with identity fraud for allegedly paying people on Los Angeles’ Skid Row to forge the signatures of registered voters.

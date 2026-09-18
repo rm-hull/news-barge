@@ -7,6 +7,11 @@ scraped_at: '2026-08-28T11:15:50Z'
 published: '2026-08-28T00:00:00Z'
 description: WHO doesn’t love a slice of Victoria sponge?
 image: https://www.thetelegraphandargus.co.uk/resources/images/21365822.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 WHO doesn’t love a slice of Victoria sponge?

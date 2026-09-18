@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: Rescuers in Nepal have pulled a Chinese national alive from a hydropower
   tunnel, according to the prime minister’s office
 image: https://static.independent.co.uk/2026/09/05/09/APTOPIX_Nepal_Flash_Floods_63236.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Rescuers in Nepal pull a Chinese national alive from a hydropower tunnel 10 days after floods

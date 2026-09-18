@@ -10,6 +10,10 @@ description: Families who lost loved ones when a suitcase bomb detonated aboard 
   Am Flight 103 in 1988 had been preparing to attend the terrorism trial of the accused
   bombmaker
 image: https://static.independent.co.uk/2026/08/25/17/Lockerbie_Bombing_Families_32287.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The monumental collection of 76 statues in Suse Lowenstein’s backyard captures the moment she and other women learned their loved ones were killed when Pan Am Flight 103 was blown out of the sky over Lockerbie, Scotland, in 1988.

@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Can heavyweight Moses Itauma become world champion at 21 by beating Filip
   Hrgovic on Saturday or has the fast-tracked Briton arrived too soon?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5a48/live/f2897190-a08e-11f1-b109-879e35c24276.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 'I'd be the youngest heavyweight champion since Mike Tyson' - Itauma

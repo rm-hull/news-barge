@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Tens of thousands are still under evacuation orders or warnings amid
   ‘human-caused’, wind-driven blaze
 image: https://i.guim.co.uk/img/media/1eac02ef76fd62ba21d03ef83537c4d25956ca61/639_0_4592_3674/master/4592.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4337bacd8725aa6ace723fb93da00d98
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The Hawk fire is about 27% contained, authorities said on Monday afternoon, two days after the fast-moving, wind-driven wildfire sparked near Reno, Nevada.

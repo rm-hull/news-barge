@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: The Dell XPS 13 and MacBook Neo are both premium-feeling laptops with
   only 8 GB of RAM. Which $700 laptop is the better buy?
 image: https://media.wired.com/photos/6a84f088d3438cb732b6523c/191:100/w_1280,c_limit/xps-13-macbook-neo.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Ever since the MacBook Neo was announced this spring, I've been looking for a serious alternative. Not a cheap knockoff that sacrifices quality for price. No, no. I was hunting for a Windows laptop with the same goal as the MacBook Neo—hiding its compromises and delivering an otherwise premium laptop at a lower cost. For months, it was crickets.

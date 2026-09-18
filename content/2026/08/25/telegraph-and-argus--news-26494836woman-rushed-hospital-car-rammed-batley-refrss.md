@@ -8,6 +8,11 @@ scraped_at: '2026-08-25T16:51:50Z'
 published: '2026-08-25T00:00:00Z'
 description: Police are investigating after a car was "deliberately" rammed in Batley.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20919596.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Pixabay)*

@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: The MP for Pelton has said he is 'disgusted' after five dead rabbits
   were found lined up on a bus stop bench.
 image: https://www.thenorthernecho.co.uk/resources/images/21417156.jpg?type=og-image&xType=0&yType=85
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: LOUISE)*

@@ -9,6 +9,11 @@ description: The powerful natural climate phenomenon, that is developing over th
   Pacific Ocean, is likely to be the strongest in living memory, the Met Office has
   warned.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a941/live/d1c6f440-9d74-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Science
+- Health & Fitness
 ---
 
 # Watch: How does El Niño affect world weather?

@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: The potential for AI to automate scientific research and manufacturing
   must be balanced with new risks, Anthropic says.
 image: https://media.wired.com/photos/6a906eb1933ab0cdef306043/191:100/w_1280,c_limit/Anthropic-Releases-Tool-To-Let-AI-Agents-Loose-Business-2192443120.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Artificial intelligence agents might occasionally get confused and hack into other computers, but Anthropic thinks it has a way to unleash the little rascals into scientific labs and manufacturing facilities safely.

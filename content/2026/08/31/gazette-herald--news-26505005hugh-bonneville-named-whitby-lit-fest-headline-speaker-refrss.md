@@ -8,6 +8,13 @@ published: '2026-08-31T00:00:00Z'
 description: Hugh Bonneville will appear as a headline guest at Whitby Lit Fest, which
   runs from November 19 to 22 and brings together big-name authors and…
 image: https://www.gazetteherald.co.uk/resources/images/21390800.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
+- Arts & Culture
+- Comedy & Entertainment
 ---
 
 A MUCH-LOVED UK TV and film actor has been unveiled as a surprise headline guest for a four-day literary festival in a North Yorkshire coastal town.

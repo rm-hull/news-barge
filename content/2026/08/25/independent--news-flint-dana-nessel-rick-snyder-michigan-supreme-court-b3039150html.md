@@ -11,6 +11,10 @@ description: Michigan Attorney General Dana Nessel said a report on the lead-wat
   years after a state Supreme Court ruling shut down criminal cases against a former
   governor and eight other people
 image: https://static.independent.co.uk/2026/08/25/20/Flint_Water_88486.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Michigan Attorney General Dana Nessel said a report released Tuesday on the lead-water crisis in the city is the final step her office can take toward accountability, years after a state Supreme Court ruling shut down criminal cases against a former governor and eight other people.

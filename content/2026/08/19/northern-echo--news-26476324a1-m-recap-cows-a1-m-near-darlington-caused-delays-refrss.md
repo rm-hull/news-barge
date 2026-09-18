@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: There are currently severe delays around 58 minutes on the A1(M) near
   Low Coniscliffe, Darlington after a crash. We will be bringing you the latest…
 image: https://www.thenorthernecho.co.uk/resources/images/21278996.jpg?type=og-image&xType=0&yType=61
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ## Our live feed has now finished.

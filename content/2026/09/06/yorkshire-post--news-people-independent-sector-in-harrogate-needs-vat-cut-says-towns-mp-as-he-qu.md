@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A well-liked independent Harrogate cafe has been ‘bigged up’ in Parliament
   by the town’s MP as part of his campaign to slash VAT in the hospitality sector.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjhmOGU0MjZjLTUzYzYtNDgzMS1iNTU3LTUyM2UzMWRiMjcwMjplZDAwMzk4YS1lZDIwLTQ1YTYtODZjNi02MjYwYTc0NjdhNTA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Harrogate's 'friendliest coffee house’ praised in the House of Commons

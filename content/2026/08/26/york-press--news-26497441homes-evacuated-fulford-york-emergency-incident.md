@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Homes have been evacuated after an 'incident' involving emergency services
   in a York suburb.
 image: https://www.yorkpress.co.uk/resources/images/21232719.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 - Fire and police crews have been called after an 'incident' in a York suburb.

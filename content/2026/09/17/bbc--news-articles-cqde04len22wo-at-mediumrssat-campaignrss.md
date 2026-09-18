@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: In a statement, RTÉ said it feels Ireland's participation "cannot be
   justified given the appalling and ongoing loss of lives in Gaza".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/de0a/live/44542e60-b288-11f1-8096-b33a1297275a.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 ![People attend a pro-Palestine protest outside the RTE in Dublin, calling for a boycott of the Eurovision Song Contest.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/de0a/live/44542e60-b288-11f1-8096-b33a1297275a.jpg)

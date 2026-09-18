@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Ripon’s revered St Cecilia Orchestra has some great concerts coming up
   including appearances from two magnificent virtuoso soloists.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmNiNDA1MDNjLWE3YzgtNDBlMC05OTMxLWE0M2RlZmYzM2EzOTo5NDIyOTU2YS02ZmE4LTQwMTAtOTFkNi1kMTczYjQwYjIyODk=.jpg?crop=3:2,smart&trim=&width=640&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 # International soloists on line-up for 2026-27 season of Ripon’s revered St Cecilia Orchestra

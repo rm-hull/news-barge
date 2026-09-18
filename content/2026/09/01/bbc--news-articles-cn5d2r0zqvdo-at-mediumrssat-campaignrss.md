@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: NHS emergency departments are seeing more cases of self-harm, eating
   disorders and emotional distress in young people.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/87a9/live/8c4ae980-a620-11f1-bb6f-e5db02d232fa.png
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Girl looking out of the window](https://ichef.bbci.co.uk/ace/standard/918/cpsprodpb/87a9/live/8c4ae980-a620-11f1-bb6f-e5db02d232fa.png)

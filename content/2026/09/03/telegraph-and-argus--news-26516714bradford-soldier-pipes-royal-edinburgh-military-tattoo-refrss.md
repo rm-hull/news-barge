@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: A Bradford soldier has been at the biggest gig of his life, piping in
   this year's Royal Edinburgh Military Tattoo
 image: https://www.thetelegraphandargus.co.uk/resources/images/21403126.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 *(Image: Mark Owens)*

@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Brooklyn’s Eastern Parkway will buzz with steel drums and flag-draped
   floats on Monday during the West Indian Day Parade
 image: https://static.independent.co.uk/2026/09/07/05/West_Indian_Day_Parade_Haitians_92418.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Steel drums, flag-draped floats, and the smell of jerk chicken will fill Brooklyn’s Eastern Parkway on Monday, as hundreds of thousands turn out for the West Indian Day Parade, one of the largest celebrations of Caribbean culture in the country.

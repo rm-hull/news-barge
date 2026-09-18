@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: The Boston Symphony Orchestra has agreed with its musicians to extend
   their collective bargaining agreement by 48 hours
 image: https://static.independent.co.uk/2026/08/23/04/Boston_Symphony_Strike_62859.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 Boston Symphony Orchestra and musicians extend contract for 48 hours, delaying possible first strike

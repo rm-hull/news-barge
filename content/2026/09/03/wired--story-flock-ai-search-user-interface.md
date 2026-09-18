@@ -9,6 +9,9 @@ description: WIRED rebuilt Flock’s latest search tool from code the company se
   to a police officer’s browser. Its AI can keep watch across multiple cameras for
   anyone fitting a written description.
 image: https://media.wired.com/photos/6a8750d218568cdcce1a10fe/191:100/w_1280,c_limit/Security_Flock%20Lets%20Cops%20Conduct%20AI%20Search%20Using%20'Politics'_v1.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Flock Safety’s latest search tools give police several ways to find people on camera, not just the license plates on their cars. The capabilities sit inside a suite of software now at the center of dozens of police-stalking cases. WIRED collected and analyzed that software, and created a mockup of what officers see when interacting with the system.

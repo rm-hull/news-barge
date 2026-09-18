@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Auction house Sotheby's expects the dress to sell for up to $300,000
   (£220,000) when it goes under the hammer on 9 December.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/712b/live/9583d4a0-ad80-11f1-b787-81bf75d2ae07.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Shopping & Deals
 ---
 
 ![British royal Diana, Princess of Wales (1961-1997) wearing a black Christina Stambolian dress, attends a Vanity Fair party at the Serpentine Gallery in London, England, 20th November 1994.](https://ichef.bbci.co.uk/ace/standard/1408/cpsprodpb/712b/live/9583d4a0-ad80-11f1-b787-81bf75d2ae07.jpg)

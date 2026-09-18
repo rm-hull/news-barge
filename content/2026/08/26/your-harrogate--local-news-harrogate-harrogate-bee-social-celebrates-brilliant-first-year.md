@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: A Harrogate community group which helps local women make new friends
   is celebrating its first anniversary.
 image: https://mmo.aiircdn.com/409/6a8f01383637885b69a.jpg
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8f01383637885b69a.jpg) 

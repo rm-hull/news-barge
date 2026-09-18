@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Questions have been raised over how a new Greengates retailer can advertise
   "Premium Snus & Vapes" despite snus being banned in the UK…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21315292.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Questions have been raised over how a new Bradford retailer can advertise 'Premium Snus & Vapes' despite snus being banned in the UK for more than three decades.

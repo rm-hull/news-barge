@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Manhunt under way after Italian dies from her injuries in the town of
   Aarau in the early hours of Sunday
 image: https://i.guim.co.uk/img/media/a2a30e96120dae0bb30569ef1c9f6350b10d44df/0_0_4167_3333/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22e7c6225186bbcba319351b64e93e65
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 A manhunt is under way in Switzerland after a 22-year-old woman was killed and five people were injured, some seriously, in a shooting at a rave in the northern town of Aarau, local police have said.

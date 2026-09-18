@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: While bitterly cold weather has historically led to higher numbers of
   deaths than extreme heat, the gap is narrowing.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQ1MTBhNmZmLTgxYjgtNDZlMC1iZTNkLTMxMjRkNTk0MmU0NDo3NjNjYWFlMy0zZjY3LTRlODUtOWMzNi1jYTI3MzY3NjcyMmU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Almost 15,000 people die frome extreme heat and cold in Yorkshire, new figures reveal

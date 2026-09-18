@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: The Swans face the Dockers at the SCG, with a place in the Grand Final
   on the line
 image: https://cdn.mos.cms.futurecdn.net/hCz5Xr43Hamzfmva7gWMgP-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Film & TV
 ---
 
 ![Isaiah Dudley of the Dockers celebrates a goal during the 2026 AFL First Semi Final between the Fremantle Dockers and the Geelong Cats at Optus Stadium on September 11, 2026 in Perth, Australia](https://cdn.mos.cms.futurecdn.net/hCz5Xr43Hamzfmva7gWMgP.jpg) 

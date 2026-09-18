@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: The Voice UK has revealed its new presenters and judges who will be involved
   in the ITV show from its 2027 series
 image: https://www.gazetteherald.co.uk/resources/images/21444239.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
+- Music
 ---
 
 *(Image: ITV)*

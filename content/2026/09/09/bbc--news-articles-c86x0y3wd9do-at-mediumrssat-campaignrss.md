@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: He has been charged with sexual offences including sexual assault, voyeurism
   and exposure.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0bd3/live/d32e72b0-ac4a-11f1-96a2-2f464854ded4.jpg
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 ![Noel Clarke](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0bd3/live/d32e72b0-ac4a-11f1-96a2-2f464854ded4.jpg)

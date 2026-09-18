@@ -9,6 +9,11 @@ description: Xiaomi is done being just a phone brand. At IFA 2026, it laid out p
   to launch electric cars in Europe by 2027, all wired into a smart-home ecosystem
   it calls Human x Car x Home.
 image: https://images.euronews.com/articles/stories/09/90/29/76/1200x675_cmsv2_e6057179-d1bf-5b74-a703-4d3679d765f9-9902976.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+- Automotive
 ---
 
 ## Xiaomi is done being just a phone brand. At IFA 2026, it laid out plans to launch electric cars in Europe by 2027, all wired into a smart-home ecosystem it calls Human x Car x Home.

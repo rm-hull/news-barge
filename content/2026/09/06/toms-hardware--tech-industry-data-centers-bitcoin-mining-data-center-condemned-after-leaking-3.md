@@ -10,6 +10,10 @@ published: '2026-09-06T00:00:00Z'
 description: Oklahoma, El Reno city asserts that none of the costs related to the
   water leak at the property will be passed on to citizens.
 image: https://cdn.mos.cms.futurecdn.net/XmuLkBe7w5p64DzyCY4eH5-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
 ---
 
 ![A technician checks cryptomining immersion cooling](https://cdn.mos.cms.futurecdn.net/XmuLkBe7w5p64DzyCY4eH5.jpg) 

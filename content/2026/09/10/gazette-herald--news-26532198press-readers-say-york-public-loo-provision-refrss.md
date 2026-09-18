@@ -9,6 +9,12 @@ published: '2026-09-10T00:00:00Z'
 description: York attracts millions of visitors every year, and debate continues about
   whether there are enough public toilets available in the city centre.…
 image: https://www.gazetteherald.co.uk/resources/images/20828031.jpg?type=og-image&xType=0&yType=824
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- News & Politics
 ---
 
 YORK attracts millions of visitors every year, and a debate continues about whether there are enough public toilets available and whether a charge should be applied for using them.

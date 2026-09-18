@@ -9,6 +9,10 @@ description: Emergency services have been battling fires driven by an intensifyi
   El Niño climate pattern and a prolonged dry season, generating dense smoke that
   crossed into Malaysia and Brunei.
 image: https://images.euronews.com/articles/stories/09/88/76/43/1200x675_cmsv2_e0c71edf-5a26-5265-80f4-7159e433be60-9887643.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## Emergency services have been battling fires driven by an intensifying El Niño climate pattern and a prolonged dry season, generating dense smoke that crossed into Malaysia and Brunei.

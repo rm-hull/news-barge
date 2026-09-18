@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: President Donald Trump and first lady Melania Trump have made the short
   drive to the course of the Freedom 250 Grand Prix in Washington
 image: https://static.independent.co.uk/2026/08/23/18/APTOPIX_Freedom_25__IndyCar_Trump_93_43.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 For once, things will be moving quickly in the nation's capital as Washington hosts an IndyCar race through its streets.

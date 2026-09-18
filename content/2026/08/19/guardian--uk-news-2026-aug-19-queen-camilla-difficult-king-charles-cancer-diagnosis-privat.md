@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: In video celebrating Maggie’s cancer charity, queen recalls ‘longing
   to let it out’ on visit to centre in 2024
 image: https://i.guim.co.uk/img/media/3b63a71a246c44456f4a91710356256d47c3c539/306_0_1349_1080/master/1349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=90034efdd99cd5a7e4a70d7879ba0cb4
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 The queen has spoken for the first time of how difficult she found it to keep King Charles’s cancer a secret before it was announced publicly.

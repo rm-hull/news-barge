@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Land mines and unexploded bombs from conflicts of the last century still
   plague parts of Southeast Asia, claiming lives and limbs each year
 image: https://static.independent.co.uk/2026/08/18/05/Southeast_Asia_Landmines_2_691.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 En Poy was minding cattle in a former Khmer Rouge stronghold in Cambodia when he set off his first land

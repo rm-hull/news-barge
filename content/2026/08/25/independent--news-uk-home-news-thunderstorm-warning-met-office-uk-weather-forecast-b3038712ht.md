@@ -7,6 +7,9 @@ scraped_at: '2026-08-25T08:56:17Z'
 published: '2026-08-25T00:00:00Z'
 description: The yellow warning covers parts of England and Wales
 image: https://static.independent.co.uk/2026/08/19/13/01M0D1AFVDDVEB13TVRHAPQ231.jpg?trim=0,184,0,184&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Thunderstorm warnings have been issued across the country on Wednesday as the Met Office warns of flooding and disruption.

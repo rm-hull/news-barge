@@ -7,6 +7,11 @@ scraped_at: '2026-08-25T08:56:11Z'
 published: '2026-08-25T00:00:00Z'
 description: ‘We have a manifesto and I will honour that manifesto’
 image: https://static.independent.co.uk/2026/08/25/07/01M0TJ21ERMZYHDTWYSXCBVRVE.jpg?trim=2,0,2,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Arts & Culture
 ---
 
 Andy Burnham has refused to dismiss potential tax increases in the upcoming Budget, stating he "won’t be unrealistic" regarding the state of public finances.

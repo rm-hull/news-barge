@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: LGBT veterans impacted by the historical gay ban in the UK armed forces
   are being urged to claim financial redress ahead of a looming deadline.
 image: https://www.gazetteherald.co.uk/resources/images/21391213.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Society & Culture
 ---
 
 *(Image: Pixabay)*

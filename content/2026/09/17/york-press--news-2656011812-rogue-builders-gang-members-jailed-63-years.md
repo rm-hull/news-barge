@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: A newly bereaved widow who lost more than £133,400 was among 43 victims
   of a 22-member rogue builders gang brought to justice by a York-based team.
 image: https://www.yorkpress.co.uk/resources/images/21470342.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 ## Rogue builders gang had 43 victims including grieving widow cheated out of £133,400

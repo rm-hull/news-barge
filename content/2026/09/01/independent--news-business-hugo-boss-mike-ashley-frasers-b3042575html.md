@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Aseries of recent stock acquisitions has enabled the Sports Direct owner
   to expand its overall holding in the luxury business
 image: https://static.independent.co.uk/2026/09/01/09/2026-08-18T083402Z_804969013_RC2KDEARSELC_RTRMADP_3_HUGO-BOSS-STAKE-FRASERS.JPG?trim=0,188,0,188&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Frasers Group, the retail empire majority-owned by billionaire Mike Ashley, has outlined plans to assume majority control over the German fashion house Hugo Boss.

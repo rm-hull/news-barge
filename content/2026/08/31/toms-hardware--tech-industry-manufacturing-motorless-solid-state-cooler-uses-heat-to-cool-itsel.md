@@ -9,6 +9,10 @@ scraped_at: '2026-08-31T16:07:53Z'
 published: '2026-08-31T00:00:00Z'
 description: Device could potentially help cool data centers without electricity
 image: https://cdn.mos.cms.futurecdn.net/KqBokvkVTxM9Mkyjj2L4t-1280-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![elastocaloric cooling](https://cdn.mos.cms.futurecdn.net/KqBokvkVTxM9Mkyjj2L4t.jpg) 

@@ -9,6 +9,8 @@ published: '2026-09-15T00:00:00Z'
 description: iOS 27’s Spatial Reframing AI tool generated a non-existent person in
   a Redditor’s photo.
 image: https://cdn.mos.cms.futurecdn.net/pdPY2CnUYvpE8qjh2Mh89o-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Apple demonstrating the Spatial Reframing feature at WWDC 2026.](https://cdn.mos.cms.futurecdn.net/pdPY2CnUYvpE8qjh2Mh89o.jpg) 

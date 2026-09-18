@@ -9,6 +9,10 @@ scraped_at: '2026-09-17T13:23:45Z'
 published: '2026-09-17T00:00:00Z'
 description: The project is giving "We have Starlink at home" energy.
 image: https://cdn.mos.cms.futurecdn.net/TPpL3AULPVhwmkFHW2ZLcU-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Drone](https://cdn.mos.cms.futurecdn.net/TPpL3AULPVhwmkFHW2ZLcU.jpg) 

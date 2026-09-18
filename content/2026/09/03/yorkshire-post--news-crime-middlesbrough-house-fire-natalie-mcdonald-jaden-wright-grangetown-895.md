@@ -9,6 +9,11 @@ description: A woman who died alongside her niece in a house fire had the “mos
   wedding” just nine months earlier, and left behind a daughter who will miss her
   “forever”, her family have said.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/03/13/12/MCDONALD1.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 # Woman who died in house fire had ‘beautiful wedding’ nine months earlier

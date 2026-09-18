@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Construction has now begun on 152 new prison places at HMP Kirklevington
   Grange near Yarm in a bid to ease the prison overpopulation crisis.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmMwNjQ2Mzg4LWMyNDItNGQzZS05ZDRlLWVkN2I3ZGI4MjU1YjplMzI4ZDM0ZC0wNzRmLTRmZWQtOGI0Yi0wYTNiZjBlMzllZWY=.png?crop=3:2,smart&trim=&width=1135&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Construction begins on more than 150 new prison places in Yorkshire

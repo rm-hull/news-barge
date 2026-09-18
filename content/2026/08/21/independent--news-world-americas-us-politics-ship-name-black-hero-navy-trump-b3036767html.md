@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T04:50:51Z'
 published: '2026-08-21T00:00:00Z'
 description: No US aircraft carrier has ever been named after a sitting president
 image: https://static.independent.co.uk/2026/08/21/1/43/420527-N-ZZ999-101Y.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The U.S. Navy is considering changing the name of a new aircraft carrier that had been designated to honor Doris Miller, a Black sailor celebrated for his actions during the Japanese attack on Pearl Harbor during World War II, according to a new report.

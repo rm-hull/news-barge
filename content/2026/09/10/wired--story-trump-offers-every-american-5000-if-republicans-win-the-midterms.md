@@ -9,6 +9,12 @@ description: The eyebrow-raising proposal, delivered during the president’s sp
   at the midterm convention, would cost $1.2 trillion and would need congressional
   approval.
 image: https://media.wired.com/photos/6aa27ae7660f050841cec804/191:100/w_1280,c_limit/GettyImages-2294432281.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 President Donald Trump on Wednesday said that he would pay $5,000 to every adult US citizen if Republicans retained control of the US House and Senate in the midterm elections, seemingly in an effort to incentivize votes for his party.

@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Nigeria's parliament is suspending official visits to South Africa indefinitely
   over anti-immigrant protests targeting Africans
 image: https://static.independent.co.uk/2026/09/11/14/Nigeria_South_Africa_Migrants_83188.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Nigeria's parliament said Friday that it's suspending official visits to South Africa indefinitely over anti-immigrant protests targeting other Africans.

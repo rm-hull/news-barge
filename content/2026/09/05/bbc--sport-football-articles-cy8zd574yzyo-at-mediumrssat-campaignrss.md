@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: It might be too early to settle survival talk, but newly promoted Hull
   City have given themselves the perfect platform to build on in the Premier League.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f866/live/6b3e1970-a96c-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Aston Villa still winless after stalemate at Hull

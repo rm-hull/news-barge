@@ -8,6 +8,10 @@ scraped_at: '2026-08-18T13:04:36Z'
 published: '2026-08-18T00:00:00Z'
 description: A third-party seller may be to blame
 image: https://cdn.mos.cms.futurecdn.net/vUXiAqEeqFdiuorpHk5bw4-1706-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Lenovo Legion Pro 5](https://cdn.mos.cms.futurecdn.net/vUXiAqEeqFdiuorpHk5bw4.jpg) 

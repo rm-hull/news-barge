@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The Independent is joining with the Central London Authority in a bid
   to set a new world record with a life-saving purpose
 image: https://static.independent.co.uk/2026/08/21/14/16/iStock-1202967048-65581611.jpeg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 *The Independent* is proudly backing an extraordinary world record attempt that could help save thousands of lives and is taking place in London next month.

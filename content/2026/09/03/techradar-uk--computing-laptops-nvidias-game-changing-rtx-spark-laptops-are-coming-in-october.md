@@ -10,6 +10,8 @@ description: At IFA 2026, Nvidia announced that laptops from Microsoft, HP, Leno
   and more powered by its new RTX Spark chip will ship in October... but other details
   remain thin on the ground.
 image: https://cdn.mos.cms.futurecdn.net/ZrwVmEKuvLeNQhm3PhDeKa-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![RTX Spark laptops at IFA 2026](https://cdn.mos.cms.futurecdn.net/ZrwVmEKuvLeNQhm3PhDeKa.jpg) 

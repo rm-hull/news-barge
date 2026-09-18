@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Natalie Harp, a close aide to Donald Trump, has made headlines in recent
   weeks over her unusually personal relationship with the president
 image: https://static.independent.co.uk/2026/09/09/23/20/Screenshot-2026-09-09-at-7-38-34-PM.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Melania Trump’s top aide has revealed their true thoughts about Natalie Harp, whose close relationship with her boss, Donald Trump, has fueled recent speculation.

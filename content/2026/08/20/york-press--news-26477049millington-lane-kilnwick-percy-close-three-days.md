@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Millington Lane in Kilnwick Percy is set to close for three days due
   to safety concerns.
 image: https://www.yorkpress.co.uk/resources/images/19364158.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: Supplied)*

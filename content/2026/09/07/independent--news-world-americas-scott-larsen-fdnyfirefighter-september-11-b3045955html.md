@@ -9,6 +9,10 @@ description: Nearly 3,000 people perished across the attacks, which included tho
   strikes in New York, a third plane flown into the Pentagon, and a fourth crashing
   in a Pennsylvania field
 image: https://static.independent.co.uk/2026/09/03/11/40/stefan-schweinfest-911.jpg?trim=153,104,292,104&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 When the World Trade Center towers fell on September 11, 2001, Scott Larsen was just four years old. His father, a New York City firefighter who shared his name, lost his life in the disaster.

@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Plans have been submitted to build three new homes on vacant land in
   Witton Gilbert.
 image: https://www.thenorthernecho.co.uk/resources/images/21378234.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: GOOGLE)*

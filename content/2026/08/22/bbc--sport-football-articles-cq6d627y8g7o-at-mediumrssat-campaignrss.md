@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Gianni Infantino has been asked to stay away from a youth football tournament
   in the Dominican Republic this weekend by Concacaf president Victor Montagliani.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3d33/live/a7abc620-9e2f-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Fifa president Gianni Infantino](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/3d33/live/a7abc620-9e2f-11f1-aed2-8d6da8d75094.jpg)

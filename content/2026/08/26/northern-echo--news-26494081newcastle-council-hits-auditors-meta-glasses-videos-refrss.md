@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: Newcastle City Council has hit out at self styled 'auditors' who are
   “exploiting” vulnerable members of the public in videos filmed…
 image: https://www.thenorthernecho.co.uk/resources/images/21369497.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
+- Technology & Software
 ---
 
 *(Image: NEWCASTLE CITY COUNCIL)*

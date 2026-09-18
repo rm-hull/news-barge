@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: The AirPods 5 support better noise cancellation, Siri AI, and offer volume
   controls on the stem.
 image: https://techcrunch.com/wp-content/uploads/2026/09/airpods5-e1788977289405.png?w=1198
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Apple on Wednesday unveiled the latest generation of its wireless earbuds, the AirPods 5, introducing several upgrades like improved audio, stronger active noise cancellation, and expanded Siri and Apple Intelligence features.

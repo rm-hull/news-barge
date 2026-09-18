@@ -7,6 +7,10 @@ scraped_at: '2026-08-31T05:23:00Z'
 published: '2026-08-31T00:00:00Z'
 description: The US-Canada trade war is being felt on both sides of the border.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b95/live/4a224cf0-a4af-11f1-aed2-8d6da8d75094.png
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![A graphic  shows stylised images of the Canadian and US flags over graphs](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/4b95/live/4a224cf0-a4af-11f1-aed2-8d6da8d75094.png)

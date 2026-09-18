@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T12:49:06Z'
 published: '2026-09-03T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/david-mcdermott-york-city-fc.webp
+categories:
+- Local
+- York
+- History
 ---
 
 York City has paid tribute to former player David McDermott who’s died aged 38.

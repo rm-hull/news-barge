@@ -10,6 +10,13 @@ description: Business confidence in Yorkshire fell 15 points in August to 46 per
   according to the latest Business Barometer from Lloyds, despite many of the region’s
   firms planning to take on additional staff.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjFkYzZlZGQzLWIzZTYtNDc3OC05NjAxLWY5MDJiYzFkOTBjMTpjNTc0ODU4Mi01MDFjLTRjYmMtYmVkMC01MGE5MGVjMWVlZDE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 # Business confidence drops for Yorkshire firms despite many planning to increase staff numbers

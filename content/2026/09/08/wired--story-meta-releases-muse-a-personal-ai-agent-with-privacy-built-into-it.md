@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Designed to compete with OpenClaw and Instinct, the company says Muse
   can do everything from sell your car to book you a plane ticket.
 image: https://media.wired.com/photos/6a9e9eca147ff8c9409f7051/191:100/w_1280,c_limit/MetaSignalAi.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Meta announced Tuesday the release of Muse, a personal AI agent that people can message to automate digital tasks in a secure cloud environment, all while relying on security and privacy that the company says is “built into it” from the start.

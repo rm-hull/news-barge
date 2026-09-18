@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Emergency services were called to Portrack Lane at around 12.30pm today
   (August 29), following reports of a crash.
 image: https://www.thenorthernecho.co.uk/resources/images/21388304.jpg?type=og-image&xType=0&yType=8
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: GOOGLE)*

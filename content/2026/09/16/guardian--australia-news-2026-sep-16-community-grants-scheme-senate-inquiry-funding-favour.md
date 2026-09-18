@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Guardian Australia analysis adds to concerns over the federal scheme,
   which is to be the subject of a Senate inquiry
 image: https://i.guim.co.uk/img/media/c0d2266e86dc57d169c2aa401465db0c3fdc466d/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32d0e3ed925909d35eeacb533bd10b95
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Federal Labor seats have received over 90% of funds already awarded in the first five months of a controversial multi-million dollar grants program, adding to concerns over the scheme’s selection process.

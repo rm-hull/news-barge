@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: Many mayors welcome power to impose tourist tax but industry warns of
   ‘irreparable harm’ and job losses
 image: https://i.guim.co.uk/img/media/6671b801cff2b94540b41de8e1a648bee8d77536/1243_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0919444511e7035539edd31f4406e613
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 Ministers are facing a backlash from the hospitality industry after they announced mayors in England would be given sweeping powers to levy taxes on holiday accommodation such as hotels and Airbnbs.

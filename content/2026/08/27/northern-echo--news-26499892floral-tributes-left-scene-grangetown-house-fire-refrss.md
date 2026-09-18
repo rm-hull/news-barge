@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Floral tributes has been left at the scene of a Grangetown house fire
   which killed a seven-year-old girl and her aunt.
 image: https://www.thenorthernecho.co.uk/resources/images/21378078.jpg?type=og-image&xType=0&yType=188
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Floral tributes has been left at the scene of a Grangetown house fire which killed a seven-year-old girl and her aunt.

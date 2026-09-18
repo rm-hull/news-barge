@@ -9,6 +9,9 @@ description: The proposed class action alleges Meta illegally harvested people�
   and Instagram photos to train its AI image-generation models and to build its unreleased
   “NameTag” face recognition feature.
 image: https://media.wired.com/photos/6aa4120d92d2b4de236f2240/191:100/w_1280,c_limit/GettyImages-2289768151.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 A set of parents and their children in Illinois and California filed a lawsuit last week in federal court in Chicago alleging that Meta illegally used their Facebook and Instagram photos to build NameTag, an unreleased face-recognition system for its smart glasses, and to train generative AI models including Emu and Muse Image.

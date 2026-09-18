@@ -7,6 +7,11 @@ scraped_at: '2026-08-28T11:16:20Z'
 published: '2026-08-28T00:00:00Z'
 description: A CARE home hosted a dog show to mark National Dog Day.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21380004.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Pets & Animals
 ---
 
 *(Image: Supplied)*

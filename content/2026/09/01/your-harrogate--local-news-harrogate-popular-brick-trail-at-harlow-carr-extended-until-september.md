@@ -9,6 +9,10 @@ description: Families visiting RHS Garden Harlow Carr will have extra time to ex
   its Brick Explorers sculpture trail after the popular attraction was extended until
   27th September.
 image: https://mmo.aiircdn.com/409/6a314d928d8abbd4334.jpg
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 ![](https://mmo.aiircdn.com/409/6a314d928d8abbd4334.jpg) 

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: A cricket pavilion in the grounds of Studley Royal has been completely
   destroyed by fire.
 image: https://mmo.aiircdn.com/409/6a994e4b195d53061c7.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![](https://mmo.aiircdn.com/409/6a994e4b195d53061c7.jpg) 

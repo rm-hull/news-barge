@@ -10,6 +10,10 @@ description: 'Britain will share technical information on the SCALP cruise missi
   home. Ukraine is still seeking US approval to manufacture Patriot interceptors.
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/66/03/1200x675_cmsv2_82ea5970-bbd5-5b6c-9e4e-6e6df61bde99-9886603.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Britain will share technical information on the SCALP cruise missile with Ukraine, bringing Kyiv closer to producing the long-range strike weapon at home. Ukraine is still seeking US approval to manufacture Patriot interceptors.

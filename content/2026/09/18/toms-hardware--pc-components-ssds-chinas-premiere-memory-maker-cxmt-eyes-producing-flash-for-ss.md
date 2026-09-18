@@ -9,6 +9,10 @@ scraped_at: '2026-09-18T19:02:18Z'
 published: '2026-09-18T00:00:00Z'
 description: 3D NAND research program is reportedly underway.
 image: https://cdn.mos.cms.futurecdn.net/xAcRfURv3FSF2FBXM6N3a-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![CXMT](https://cdn.mos.cms.futurecdn.net/xAcRfURv3FSF2FBXM6N3a.jpg) 

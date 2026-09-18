@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A body has been found in the River Tyne during the search for missing
   Northumberland man Liam Potts.
 image: https://www.thenorthernecho.co.uk/resources/images/21330036.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 A body has tragically been found in the River Tyne during the search for missing 22-year-old soldier Liam Potts.

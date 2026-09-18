@@ -9,6 +9,12 @@ published: '2026-09-01T00:00:00Z'
 description: A drug-dealing addict who benefited by almost £26,000 will pay back…
   just £1.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21383590.jpg?type=og-image&xType=0&yType=586
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: West Yorkshire Police)*

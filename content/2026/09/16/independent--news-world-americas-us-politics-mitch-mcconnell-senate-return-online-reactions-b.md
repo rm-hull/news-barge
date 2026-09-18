@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: McConnell cited the lingering effects of childhood polio as a factor
   in his slow recovery
 image: https://static.independent.co.uk/2026/09/15/13/2295293401..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 While American workers routinely face unpaid time off or a complete lack of paid family leave, Senator Mitch McConnell returned to Capitol Hill after a 92-day absence with a guaranteed paycheck.

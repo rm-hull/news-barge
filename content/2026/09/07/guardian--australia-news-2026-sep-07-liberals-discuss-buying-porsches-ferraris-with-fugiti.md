@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Rightwing NSW powerbrokers are alleged to have received illegal political
   donations from fugitive developer
 image: https://i.guim.co.uk/img/media/2807559cb5a700e15b7c800cb24761e61d7ac961/1988_148_2294_1836/master/2294.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b316f9fd02faace87d7c9a38904a827c
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Two Liberal operatives traded photos and messages about whether to buy a Porsche or a Ferrari with payments they received for Toplace projects they got approved via a New South Wales government fast-track development process.

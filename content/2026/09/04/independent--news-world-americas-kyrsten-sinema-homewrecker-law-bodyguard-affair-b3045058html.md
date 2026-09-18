@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Sinema described their sexual encounters during a deposition in July,
   testifying the relationship became sexual in 2024 during a trip to Napa
 image: https://static.independent.co.uk/2026/09/04/21/31/GettyImages-1988743693.jpg?trim=46,0,46,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A judge has cleared the way for former U.S. Sen. Kyrsten Sinema to be sued under North Carolina’s homewrecker law.

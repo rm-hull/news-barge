@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Police in Sweden say the victim of a deadly sword attack at a school
   was a 17-year-old girl
 image: https://static.independent.co.uk/2026/08/22/12/Sweden_Sword_Attack_48942.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The victim of a deadly sword attack at a school in central Sweden was a 17-year-old girl, police said Saturday.

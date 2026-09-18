@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Changing one of the cornerstones of the British legal system was no mean
   feat - and it was a grief-stricken mother that took on the law and won.
 image: https://www.thenorthernecho.co.uk/resources/images/21433871.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: THE NORTHERN ECHO)*

@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A herd of rare White Park cattle has arrived to help transform 440 acres
   of farmland into a haven for wildlife.
 image: https://www.gazetteherald.co.uk/resources/images/21343455.jpg?type=og-image&xType=0&yType=684
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 A herd of rare White Park cattle has arrived to help transform 440 acres of farmland into a haven for wildlife.

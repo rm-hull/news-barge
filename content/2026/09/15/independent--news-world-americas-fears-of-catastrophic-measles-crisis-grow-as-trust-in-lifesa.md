@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Americans' trust in vaccines for deadly childhood diseases including
   measles has fallen in recent years, a new Reuters/Ipsos poll found
 image: https://static.independent.co.uk/2026/09/15/11/2026-09-14T215015Z_621477129_RC2NHJA1FIR8_RTRMADP_3_HEALTH-USA-MEASLES-POLL.JPG?trim=24,0,25,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Public confidence in vaccines for fatal childhood illnesses such as measles has eroded in the U.S., a new Reuters/Ipsos survey shows, posing a challenge as the country faces its most severe measles surge in decades.

@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: ‘DESPERATE’ residents on a North Yorkshire estate have hit out at ‘ridiculous’
   council plans to build a large care home near their homes.
 image: https://www.gazetteherald.co.uk/resources/images/21224119.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 ‘DESPERATE’ residents on a North Yorkshire estate have hit out at ‘ridiculous’ council plans to build a large care home near their homes.

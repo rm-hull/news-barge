@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: Traffic has now cleared following a vehicle fire on the A1(M) which caused
   major delays for motorists.
 image: https://www.thenorthernecho.co.uk/resources/images/20216592.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Automotive
 ---
 
 *(Image: Stuart Boulton/NOTHERN ECHO)*

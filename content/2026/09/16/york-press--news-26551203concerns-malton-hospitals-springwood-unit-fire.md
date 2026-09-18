@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: CONCERNS have been raised about the possible permanent loss of dementia
   services in a North Yorkshire town following a hospital fire.
 image: https://www.yorkpress.co.uk/resources/images/21456685.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 ## Fears for future of dementia services after hospital fire

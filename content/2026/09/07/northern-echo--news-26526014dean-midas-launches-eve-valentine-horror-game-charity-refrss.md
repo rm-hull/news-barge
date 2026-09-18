@@ -9,6 +9,12 @@ published: '2026-09-07T00:00:00Z'
 description: Award-winning North East film director Dean Midas has launched a new
   horror-themed party game inspired by the world of Eve Valentine, with proceeds…
 image: https://www.thenorthernecho.co.uk/resources/images/21416576.jpg?type=og-image&xType=0&yType=141
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 *(Image: DEAN MIDAS)*

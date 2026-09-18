@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A jury has heard how a man was charged with the manslaughter of his ‘dad’
   after he pushed him over in a Willington beer garden.
 image: https://www.thenorthernecho.co.uk/resources/images/20370365.jpg?type=og-image&xType=0&yType=315
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 A punter accused of killing a man in a Willington beer garden on Christmas Eve had only just found out the fellow pub-goer was his dad, a barman has claimed.

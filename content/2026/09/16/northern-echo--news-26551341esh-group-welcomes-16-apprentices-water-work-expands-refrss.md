@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: A new intake of apprentices has joined a growing North East engineering
   partnership as it expands to help deliver a major investment programme aimed…
 image: https://www.thenorthernecho.co.uk/resources/images/21456925.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 *(Image: Dawn McNamara)*

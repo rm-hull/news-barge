@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Sweaty Betty is celebrating the successful refresh of its Harrogate store
   following a positive response from customers.
 image: https://mmo.aiircdn.com/409/6a996ad4589431f24ff.jpg
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
 ---
 
 ![](https://mmo.aiircdn.com/409/6a996ad4589431f24ff.jpg) 

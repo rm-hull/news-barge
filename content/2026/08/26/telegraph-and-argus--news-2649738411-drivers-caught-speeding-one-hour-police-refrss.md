@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: 11 drivers were caught speeding in less than an hour during a police
   speed watch.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21374300.jpg?type=og-image&xType=0&yType=488
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: West Yorkshire Police)*

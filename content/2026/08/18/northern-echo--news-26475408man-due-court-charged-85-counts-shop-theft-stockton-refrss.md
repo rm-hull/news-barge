@@ -7,6 +7,12 @@ scraped_at: '2026-08-18T19:36:25Z'
 published: '2026-08-18T00:00:00Z'
 description: A man has been charged with a string of shop thefts.
 image: https://www.thenorthernecho.co.uk/resources/images/17033782.jpg?type=og-image&xType=0&yType=95
+categories:
+- Local
+- UK
+- News & Politics
+- Shopping & Deals
+- Personal Finance & Investing
 ---
 
 *(Image: UGC)*

@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Manager Michael Carrick insists he does not feel under pressure after
   Manchester United's EFL Cup exit.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f097/live/9de05b60-b220-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Youri Tielemans looks dejected](https://ichef.bbci.co.uk/ace/standard/840/cpsprodpb/85f8/live/7a7e2120-b220-11f1-b1d1-571ed4d7ff2c.jpg)

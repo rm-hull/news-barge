@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Lanterns' second episode comes to a streaming platform near you very
   soon — here's when and where you can watch it.
 image: https://cdn.mos.cms.futurecdn.net/D5UonVcXPo5uNZChf5wmQn-1600-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Hal Jordan looking over his right shoulder in HBO's Lanterns TV show](https://cdn.mos.cms.futurecdn.net/D5UonVcXPo5uNZChf5wmQn.jpg) 

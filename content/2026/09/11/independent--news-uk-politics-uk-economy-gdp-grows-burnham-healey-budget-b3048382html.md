@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: It marks a surprise uplift after economists were expecting the economy
   to show zero growth for the month
 image: https://static.independent.co.uk/2026/07/15/15/15152717-e953c7c3-7a76-4ff6-9d84-e78f87cdbd80.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Creator Economy & Marketing
 ---
 
 Increased use of AI helped the UK economy grow by 0.4 per cent in July, official figures show, in an unexpected boost for Andy Burnham.

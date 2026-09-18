@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Darlington man Joshua Norman jailed for 25 weeks after police found him
   carrying a knife; stolen bank cards were used to buy £300 of cigarettes.
 image: https://www.thenorthernecho.co.uk/resources/images/21420334.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 A Darlington man was caught with a four-inch kitchen knife in his pocket after plainclothes officers chased him down.

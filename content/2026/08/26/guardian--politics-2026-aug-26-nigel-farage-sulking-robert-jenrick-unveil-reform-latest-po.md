@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: The sense of futility hanging over the room was almost overwhelming as
   Robert Jenrick took the stage
 image: https://i.guim.co.uk/img/media/a599c250af427d19f07a40d4dac3f882da959102/349_0_3303_2643/master/3303.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=36f7e9d0d25e314e47111f7b0a846679
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 It’s turning out to be one of the longer sulks in Nigel Farage’s already sulk-filled career. Few politicians are better at having a strop and holding a grudge than Nige. At least on this side of the Atlantic. Donald Trump could give Farage a run for his money, but skin doesn’t come much thinner than Nige’s. He’s the soul of the Reform party as long as he’s the centre of attention and the yes-men and women – that’s everyone – around him are saying yes. But the moment reality challenges his narcissism, the mirror cracks.

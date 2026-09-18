@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Canadian PM is set to retaliate against tariffs levied by Donald Trump
   and criticized US officials over insults
 image: https://i.guim.co.uk/img/media/8d857fc058b9e91c6650da2a24687d0d8b7e4a2b/1019_0_6500_5199/master/6500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd7f16766973399393fffad063fba8bc
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Mark Carney has rebuked Donald Trump’s administration and urged officials in Washington to “start being serious” amid escalating trade tensions between the US and Canada.

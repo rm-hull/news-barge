@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Cases of death, fainting and dehydration were documented during a survey
   of 2,471 nurses for the Royal College of Nursing
 image: https://static.independent.co.uk/2026/05/19/16/55/PA-84260452.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 One nurse reported seeing maggots in wounds as patients deteriorated in “suffocating atmospheres” during the summer heat on NHS wards.

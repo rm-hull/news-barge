@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: President Trump’s support for the project contrasts the position held
   by two of his predecessors as commander-in-chief
 image: https://static.independent.co.uk/2026/08/19/8/40/Screenshot-2026-08-19-at-08-59-25.png?trim=0,0,54,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 President Trump has hinted at bringing the Keystone XL oil pipeline “back from the grave” in a pair of Truth Social posts.

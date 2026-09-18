@@ -10,6 +10,11 @@ description: Jurors in the Lindsay Clancy murder trial were set to resume trying
   reach a verdict, a day after telling the judge they couldn’t agree on whether she
   was criminally responsible for killing her three children
 image: https://static.independent.co.uk/2026/09/02/05/Lindsay_Clancy_Trial_54531.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Law & Justice
 ---
 
 Jurors in the Lindsay Clancy murder trial were set to resume deliberations Wednesday, a day after telling the judge they couldn’t agree on whether she was criminally responsible for killing her three children.

@@ -9,6 +9,9 @@ published: '2026-08-23T00:00:00Z'
 description: Photographs of the two police officers killed in a crash on Saturday
   morning lead several front pages on Monday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/199d/live/4d83be50-9f47-11f1-9116-292791475ce9.png
+categories:
+- UK
+- News & Politics
 ---
 
 ![The headline on the front page of the Times reads: “Burnham to gift Ukraine blueprints for missiles”.](https://ichef.bbci.co.uk/ace/standard/809/cpsprodpb/860c/live/7ecd6150-9f38-11f1-b109-879e35c24276.jpg)

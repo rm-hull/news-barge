@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: History suggests Ballon d’Or winners come from those who have recently
   lifted one of football's biggest trophies. Can Harry Kane become a rare exception?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/867e/live/60644180-aabd-11f1-b960-379ca4827622.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- History
 ---
 
 ![Harry Kane celebrating for England](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/867e/live/60644180-aabd-11f1-b960-379ca4827622.jpg)

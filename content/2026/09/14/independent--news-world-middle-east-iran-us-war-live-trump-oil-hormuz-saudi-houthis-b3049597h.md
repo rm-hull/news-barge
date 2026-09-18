@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Oil prices rose to over $107 on Monday after new Houthi strikes on Saudi
   Arabia and Iranian attacks on ships in the Gulf
 image: https://static.independent.co.uk/2026/09/09/09/2026-09-08T134501Z_1198003014_RC2MDNAPQOXP_RTRMADP_3_IRAN-CRISIS-SOUTH-KOREA.JPG?trim=0,524,0,524&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Oman announced late on Sunday that planned talks with Iran about the future of the Strait of Hormuz had been cancelled “in the interests of consensus”, scuppering hopes of a diplomatic breakthrough in the near term.

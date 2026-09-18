@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Residents have been evacuated from their homes today as police, fire
   and ambulance crews deal with a serious incident.
 image: https://www.gazetteherald.co.uk/resources/images/21376526.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 PEOPLE in York have been evacuated from their homes today as police, fire and ambulance crews deal with a serious incident.

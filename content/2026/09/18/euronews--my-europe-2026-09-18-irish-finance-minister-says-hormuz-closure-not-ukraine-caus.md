@@ -9,6 +9,10 @@ description: 'The Irish Finance Minister hit back against claims made by the US 
   Ukraine is causing the global energy crisis, saying de-escalation in the Middle
   East is the only solution. #12MinutesWith'
 image: https://images.euronews.com/articles/stories/09/91/76/14/1200x675_cmsv2_ad7c9a3c-8082-5c90-a735-83a433e8317e-9917614.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ## The Irish Finance Minister hit back against claims made by the US that Ukraine is causing the global energy crisis, saying de-escalation in the Middle East is the only solution.

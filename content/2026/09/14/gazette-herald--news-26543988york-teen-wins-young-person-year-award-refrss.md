@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A York teenager who consistently gives up her Saturdays to help maintain
   her local cemetery has been commended at the York Community Pride Awards.
 image: https://www.gazetteherald.co.uk/resources/images/21443245.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 A teen who consistently gives up her Saturdays to help maintain her local cemetery has been commended at the York Community Pride Awards.

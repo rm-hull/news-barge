@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: The Thirlwall Inquiry found repeated failures by hospital leaders to
   act on concerns.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/00ba/live/0925b040-b1c3-11f1-bdcf-d393eb724fa3.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A woman with long light blonde hair with a dark front section faces the camera.](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/00ba/live/0925b040-b1c3-11f1-bdcf-d393eb724fa3.jpg)

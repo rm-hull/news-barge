@@ -8,6 +8,8 @@ published: '2026-09-04T00:00:00Z'
 description: I tested the Google Pixel 11 Pro XL, and it's a familiar-feeling phone
   that still offers the ultimate Pixel experience.
 image: https://cdn.mos.cms.futurecdn.net/GLPVz7V3YystAP3UDjBDfe-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

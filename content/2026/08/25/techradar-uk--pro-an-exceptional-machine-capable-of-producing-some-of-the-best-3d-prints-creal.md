@@ -9,6 +9,9 @@ description: The 4.5-star Creality K2 Pro Combo 3D printer gets a big discount i
   the back-to-school sale, with 4-color printing, dual AI cameras and active chamber
   heating.
 image: https://cdn.mos.cms.futurecdn.net/L4Hk3MGv9LVFYthAm39M5D-1200-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Creality K2 Pro](https://cdn.mos.cms.futurecdn.net/L4Hk3MGv9LVFYthAm39M5D.jpg) 

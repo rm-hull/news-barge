@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: The comments came a day after Washington said it had struck Iranian oil
   tankers in response to Tehran's attacks on US warships in the region.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4169/live/c55f7eb0-aa0e-11f1-9220-c38a4a0d51b4.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 US Central Command released footage on Saturday showing strikes on Iran-linked tankers

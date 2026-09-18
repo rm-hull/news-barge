@@ -8,6 +8,10 @@ scraped_at: '2026-09-07T14:14:42Z'
 published: '2026-09-07T00:00:00Z'
 description: A huge dinghy carrying 140 migrants reached the UK on Sunday
 image: https://static.independent.co.uk/2026/09/07/10/de9f8cdcd639f060e94d1bcef429c95dY29udGVudHNlYXJjaGFwaSwxNzg4ODU5NjYw-2.85771340.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Hundreds of far-right demonstrators descended on Portsmouth on the weekend after a huge dinghy carrying 140 migrants reached the UK from Normandy.

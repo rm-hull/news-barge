@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Jason Murphy believes he knows who killed McKee in Derry, but culture
   of silence and mistrust of police is denying her family justice
 image: https://i.guim.co.uk/img/media/fbb889c25db3ef826b48140e99dcea6c1ef11bf0/0_407_1488_1190/master/1488.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84e4c77e00abd3b1606f47e3bc74fb58
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 When Lyra McKee was shot and killed on the night of 18 April 2019, approximately 150 people were in her vicinity. The 29-year-old journalist had watched in a crowd as rioting broke out in Derry, Northern Ireland. Police footage captured the grainy outline of a man firing a handgun.

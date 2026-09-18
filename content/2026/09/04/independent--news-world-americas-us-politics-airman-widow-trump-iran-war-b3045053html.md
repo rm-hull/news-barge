@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Maj. Alex Klinner, 33, was one of six military members onboard a KC-135
   refueling aircraft when it crashed while supporting operations against Iran
 image: https://static.independent.co.uk/2026/09/04/21/38/AP26247731142106.jpg?trim=156,702,779,701&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The widow of an airman killed on a combat mission in the Middle East has shared her outrage after it took a viral social media post to get issues related to her husband's benefits and basic pay months resolved.

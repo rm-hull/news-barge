@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A specialist school for some of Spennymoor's most vulnerable young people
   has been renamed to honour one the town's best-known artist.
 image: https://www.thenorthernecho.co.uk/resources/images/21416983.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: NORTHERN ECHO)*

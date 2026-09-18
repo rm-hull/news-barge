@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: Margaret Hodge says she did not swear at then Labour leader during infamous
   showdown in the House of Commons
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/04/06/18/IA7-46-Keleny.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A Labour grandee has revealed she spoiled her ballot paper in the 2019 general election to call then party leader Jeremy Corbyn an antisemite.

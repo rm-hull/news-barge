@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: A striking black dress worn by Princess Diana on the day her estranged
   husband admitted adultery is going up for auction at Sotheby’s
 image: https://static.independent.co.uk/2026/09/18/13/Britain_Princess_Diana_Dress__6184.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Revenge has rarely been so stylish.

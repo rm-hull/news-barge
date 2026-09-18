@@ -11,6 +11,9 @@ description: The European Union says it is closely watching how Serbia, one of i
   commander Ratko Mladic, who was convicted of genocide by a U.N. court but remains
   a hero to many Serbs
 image: https://static.independent.co.uk/2026/09/04/12/Serbia_Mladic__284_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The European Union is closely watching how membership candidate Serbia will handle the funeral of the former Bosnian Serb army commander Ratko Mladic, who was convicted of genocide by a U.N. court but remains a hero to many Serbs, an EU official said on Friday.

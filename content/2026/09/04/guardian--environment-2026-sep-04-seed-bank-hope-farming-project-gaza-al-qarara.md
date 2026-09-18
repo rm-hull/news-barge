@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Family-run Al-Qarara Seed Bank is helping to counter acute food insecurity
   after being destroyed in the war
 image: https://i.guim.co.uk/img/media/0522e1eaaff4b7c7e316acd329ad811841c98b65/379_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e2581bd3d5bd3ad812536d6cfe690a7a
+categories:
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 Salama Ayesh Muhanna still remembers the first seeds he planted on his family’s land in al-Qarara, Gaza. At just 17, Muhanna had proudly sprouted cucumbers.

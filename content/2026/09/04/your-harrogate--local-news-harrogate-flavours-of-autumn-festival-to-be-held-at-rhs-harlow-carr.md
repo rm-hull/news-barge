@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: A celebration of seasonal food and homegrown produce is coming to RHS
   Garden Harlow Carr this weekend.
 image: https://mmo.aiircdn.com/409/6a9ab0c59775c4a96e0.jpg
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9ab0c59775c4a96e0.jpg) 

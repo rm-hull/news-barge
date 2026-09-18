@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T12:49:16Z'
 published: '2026-09-11T00:00:00Z'
 description: Renewables and nuclear make up 73 per cent of Britain’s electricity generation
 image: https://static.independent.co.uk/2026/07/09/08/9ea9f192da93e2697b3f139849b22f32Y29udGVudHNlYXJjaGFwaSwxNzgzNjY4Mzkx-2.68471025.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Failure to accelerate updates to Britain’s ageing power grid to handle rising renewable generation could cost consumers billions of pounds by 2030, the official spending watchdog has warned.

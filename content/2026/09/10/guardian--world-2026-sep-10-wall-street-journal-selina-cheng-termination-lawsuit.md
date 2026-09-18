@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Dow Jones convicted of one count of deterring Selina Cheng from role
   at Hong Kong Journalist Association but cleared of second charge
 image: https://i.guim.co.uk/img/media/ce4bae6cd72ab4bfb1ca10d670be7c3d3e72e826/290_191_3177_2543/master/3177.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f58f128b2e9bea3c99f45132f5a33103
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 A Hong Kong court has convicted the publisher of the Wall Street Journal of deterring a reporter from taking up a trade union role, in a case that raised concerns about press freedom in the city.

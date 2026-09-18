@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Iranian-backed Houthi rebels in Yemen have captured a strategic island
   in the Bab el-Mandeb Strait
 image: https://static.independent.co.uk/2026/09/11/12/APTOPIX_Yemen_War_12845.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Iranian-backed Houthi rebels in Yemen seized a key island on Friday, after taking a Red Sea port in a threat to international shipping. Iran called on Saudi Arabia to end its blockade of Yemen and immediately resume talks.

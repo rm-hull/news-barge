@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T12:01:36Z'
 published: '2026-08-27T00:00:00Z'
 description: Dolly Parton was known for both her faith and acceptance
 image: https://static.independent.co.uk/2026/08/26/05/Obit_Dolly_Parton_9_412.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 In her 1994 memoir, Dolly Parton recounts in vivid detail the place where she found God.

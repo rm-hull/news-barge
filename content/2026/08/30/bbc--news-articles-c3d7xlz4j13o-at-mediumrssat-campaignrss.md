@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: British Transport Police say a man who was in a van died at the scene
   on Saturday afternoon.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/58e0/live/5fd04cf0-a47d-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Image shows the door to the driver's cab on a train. It is hanging off its hinges.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/58e0/live/5fd04cf0-a47d-11f1-b109-879e35c24276.jpg)

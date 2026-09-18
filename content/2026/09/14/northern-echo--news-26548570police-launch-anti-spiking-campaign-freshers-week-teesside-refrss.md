@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Police are urging students to stay vigilant as Freshers' Week gets underway,
   with anti-spiking patrols, awareness events and safety advice…
 image: https://www.thenorthernecho.co.uk/resources/images/20744264.jpg?type=og-image&xType=0&yType=23
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 Students starting college, sixth form or university this month are being urged to stay alert as police launch an anti-spiking campaign across Teesside.

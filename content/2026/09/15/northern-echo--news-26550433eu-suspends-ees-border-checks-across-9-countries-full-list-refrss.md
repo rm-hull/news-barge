@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The European Union (EU) has suspended the rollout of its new Entry/Exit
   System (EES) in at least nine countries - see the full list.
 image: https://www.thenorthernecho.co.uk/resources/images/21427537.jpg?type=og-image&xType=0&yType=347
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: Jordan Pettitt/PA Wire)*

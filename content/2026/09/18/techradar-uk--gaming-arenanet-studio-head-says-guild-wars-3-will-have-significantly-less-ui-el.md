@@ -10,6 +10,9 @@ published: '2026-09-18T00:00:00Z'
 description: Although it's a massively multiplayer online role-playing game (MMORPG),
   ArenaNet has confirmed that Guild Wars 3 will have a minimal HUD.
 image: https://cdn.mos.cms.futurecdn.net/bMhhQXzbwbMUy7A7wq4W63-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Guild Wars 3](https://cdn.mos.cms.futurecdn.net/bMhhQXzbwbMUy7A7wq4W63.jpg) 

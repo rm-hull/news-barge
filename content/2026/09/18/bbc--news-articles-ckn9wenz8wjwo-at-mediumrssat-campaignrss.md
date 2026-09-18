@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: A vehicle loaded with explosives rammed into a mosque building during
   Friday prayers, a senior police official says.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/629b/live/fef4ee20-b356-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Three men moving quickly on a road](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/3130/live/a19482e0-b356-11f1-bc1f-3f186ca4140c.jpg)

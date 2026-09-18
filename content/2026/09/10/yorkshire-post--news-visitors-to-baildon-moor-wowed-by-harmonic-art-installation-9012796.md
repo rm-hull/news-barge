@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Visitor to Baildon Moor have been wowed by a striking art installation
   that surprises the ears as well as the eyes.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM3Y2M5MjFiLWUwNmItNGMwNi1iZGUwLWNhMmRiMWE2MjQwZTo1MzVkNmQ1ZS0zMTE4LTQzMjctOTAxOC00ZDE2NTZlODkyMjY=.jpg?crop=3:2,smart&trim=&width=1080&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Visitors to Baildon Moor wowed by harmonic art installation

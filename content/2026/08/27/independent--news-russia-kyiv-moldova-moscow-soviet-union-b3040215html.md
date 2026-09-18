@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Russia has launched a massive attack on Ukraine, targeting nine cities
   with missiles and drones
 image: https://static.independent.co.uk/2026/08/27/10/Russia_Ukraine_War_34_69.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Russia bombarded cities across Ukraine with missiles and drones in an onslaught that began after nightfall Wednesday and continued into daylight hours Thursday, when explosions echoed around the capital Kyiv through the morning.

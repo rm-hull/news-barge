@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Adults who experience frequent fatigue are more likely to have symptoms
   of depression and anxiety
 image: https://static.independent.co.uk/2026/09/16/17/44/GettyImages-1079459904.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Nearly three-quarters of Americans are fatigued and some are feeling it more than others, according to a new analysis of federal data.

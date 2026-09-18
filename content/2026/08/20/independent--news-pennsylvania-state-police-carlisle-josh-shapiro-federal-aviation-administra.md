@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Authorities say a Pennsylvania State Police helicopter and a small plane
   have collided in midair and crashed
 image: https://static.independent.co.uk/2026/08/20/02/APTOPIX_Helicopter_Plane_Crash_Pennsylvania_36871.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 A Pennsylvania State Police helicopter and a small plane collided in midair and crashed Wednesday evening, officials reported.

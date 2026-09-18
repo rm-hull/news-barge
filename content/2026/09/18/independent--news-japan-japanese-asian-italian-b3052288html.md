@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: The Olympic Council of Asia is attempting to quell complaints about lodging
   for athletes and officials at the Asian Games
 image: https://static.independent.co.uk/2026/09/18/07/Asian_Games_26219.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The Olympic Council of Asia is attempting to quell complaints about lodging for athletes and officials at the Asian Games, which includes the use of converted wooden containers.

@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: JORVIK Viking Centre is offering a big discount on entry to two of York’s
   top attractions, DIG and Barley Hall.
 image: https://www.yorkpress.co.uk/resources/images/21383424.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
+- Sports
 ---
 
 ## JORVIK Viking Centre offers half-price entry to two York attractions

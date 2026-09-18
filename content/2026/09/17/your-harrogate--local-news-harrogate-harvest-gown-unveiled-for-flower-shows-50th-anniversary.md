@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: A harvest-inspired gown has been unveiled ahead of the Harrogate Autumn
   Flower Show, which opens tomorrow (Friday 18 September) at Newby Hall & Gardens.
 image: https://mmo.aiircdn.com/409/6aabdc2b0ccbfc18454.jpg
+categories:
+- Local
+- Harrogate
+- Home, Garden & DIY
 ---
 
 ![](https://mmo.aiircdn.com/409/6aabdc2b0ccbfc18454.jpg) 

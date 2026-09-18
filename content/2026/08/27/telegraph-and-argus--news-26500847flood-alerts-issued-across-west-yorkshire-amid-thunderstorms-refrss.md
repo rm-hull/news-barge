@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Flood alerts have been issued across West Yorkshire following a Met Office
   yellow weather warning for thunderstorms.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20645239.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Getty)*

@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: A drug dealer who sent thousands of bulk text messages advertising his
   illegal wares for sale in a Yorkshire market town has been jailed.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/26/13/25/Sadhiul-HAQUE.jpeg?trim=226,0,227,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 # Dealer who sent thousands of texts advertising drugs for sale in Yorkshire market town jailed

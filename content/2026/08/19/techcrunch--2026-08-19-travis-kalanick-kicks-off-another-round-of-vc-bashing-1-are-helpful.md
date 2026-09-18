@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: After raising $1.7 billion for his new robotics company Atoms, Travis
   Kalanick is introspective about the role VCs have played in his career.
 image: https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Travis Kalanick certainly has had a love-hate relationship with VCs over his career. As the founder of Uber he was a VC darling, raising what was then an unprecedented roughly $15 billion in venture funding during his tenure. Then, a boardroom battle with key investor Bill Gurley of venture firm Benchmark led to him being pushed out in 2017.

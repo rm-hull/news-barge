@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Robert Morris, who founded Gateway Church, was found guilty last year
   of sexually assaulting a young girl decades ago
 image: https://static.the-independent.com/2026/09/16/19/14/Robert-Morris.jpeg?trim=12,0,12,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Disgraced former megachurch pastor Robert Morris, who was once Donald Trump’s spiritual advisor, was seen sporting a black eye in a new sex offender registry photo.

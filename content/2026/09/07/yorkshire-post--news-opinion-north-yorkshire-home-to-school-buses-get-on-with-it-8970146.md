@@ -9,6 +9,12 @@ description: Politics aside, the amendments proposed to the home-to-school trans
   policy by the North Yorkshire Liberal Democrats group amount to common sense changes
   that clearly have the welfare and wellbeing of children front of mind.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjlmYWJhZDRmLThlN2EtNDU3ZC1hNTYzLTkzZDBjZDRhZDZkOTo4NWZhMGViNi1iMzBiLTRjMTktYjc5NS00YmEzMGNlM2JlZGI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 # North Yorkshire home-to-school buses: get on with it

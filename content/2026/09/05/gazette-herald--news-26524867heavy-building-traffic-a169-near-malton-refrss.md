@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Motorists are being warned of high and building traffic along the A169
   Northbound from Old Malton.
 image: https://www.gazetteherald.co.uk/resources/images/21361279.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 MOTORISTS are being warned of high and building traffic along a main road in North Yorkshire.

@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A cyclist was taken to hospital after a crash involving a grey Audi on
   the A1041 at the roundabout with the A645 near Camblesforth.
 image: https://www.gazetteherald.co.uk/resources/images/17956606.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 *(Image: North Yorkshire Police)*

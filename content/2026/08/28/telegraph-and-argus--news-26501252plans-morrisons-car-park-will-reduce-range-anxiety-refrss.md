@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: A new EV charging facility at a Morrisons supermarket will help reduce
   motorists’ “range anxiety.”
 image: https://www.thetelegraphandargus.co.uk/resources/images/21379951.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Automotive
 ---
 
 *(Image: Google)*

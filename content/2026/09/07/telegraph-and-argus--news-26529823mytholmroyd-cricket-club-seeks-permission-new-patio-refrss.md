@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A Calder Valley cricket club hopes to convert some of the club's outfield
   into a proper patio area for supporters.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21422405.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Image from the planning documents)*

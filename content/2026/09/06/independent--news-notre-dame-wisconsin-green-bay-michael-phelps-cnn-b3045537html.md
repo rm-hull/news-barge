@@ -7,6 +7,10 @@ scraped_at: '2026-09-06T18:16:22Z'
 published: '2026-09-06T00:00:00Z'
 description: Dan Hicks thought it was incredible when he reached 30 years at NBC Sports
 image: https://static.independent.co.uk/2026/09/06/16/NBC_Sports_Hicks_765_1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Dan Hicks thought it was incredible when he reached 30 years at NBC Sports. As he reaches another milestone, he considers it pretty remarkable.

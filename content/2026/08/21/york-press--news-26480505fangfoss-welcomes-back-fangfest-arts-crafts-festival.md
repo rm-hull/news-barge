@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Preparations are well underway for this year’s Fangfest, being held on
   September 5 and 6.
 image: https://www.yorkpress.co.uk/resources/images/21346088.jpg?type=og-image&xType=0&yType=169
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## More than 30 artists and craftspeople set for Fangfest near York

@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Nottingham Forest manager Oliver Glasner and Neco Williams believe VAR
   should not have ruled out defender's goal against Tottenham.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3723/live/8087f610-a95e-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Forest and Spurs still looking for first win after 0-0 draw

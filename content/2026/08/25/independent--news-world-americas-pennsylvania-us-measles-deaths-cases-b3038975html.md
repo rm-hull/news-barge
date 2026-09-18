@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Both deceased individuals - who are not being identified by the state
   - were unvaccinated residents of Lancaster County
 image: https://static.independent.co.uk/2026/08/25/15/17/measles_boy-cdc.jpeg?trim=3,0,4,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- True Crime
 ---
 
 Pennsylvania has reported the first measles deaths in the United States this year, and the first in the state in 35 years.

@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Alpine communities hit out after influencer videos draw huge queues to
   Friedrich August refuge in Dolomites
 image: https://i.guim.co.uk/img/media/d4e52799360ee97842aa32bf5d3559bffcf9165b/549_0_3560_2848/master/3560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a08f3e1927956554f82a39d39f611526
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Hundreds of people overwhelmed a mountain hut in the Italian Dolomites, not for the panoramic views but in search of a creamy pastry, reigniting the debate about social-media-driven tourism.

@@ -10,6 +10,10 @@ description: ICC judges reportedly ordered prosecutors to open a standalone inve
   alleged US crimes in Afghanistan. Afghan rights advocates warned the split risked
   undermining comprehensive justice.
 image: https://images.euronews.com/articles/stories/09/88/12/67/1200x675_cmsv2_4fb1392a-b27b-5fc5-89fd-44d0c2ed73b8-9881267.jpg
+categories:
+- Europe
+- News & Politics
+- True Crime
 ---
 
 ## ICC judges reportedly ordered prosecutors to open a standalone investigation into Taliban persecution of women, separating it from the probe that also covered alleged US crimes in Afghanistan. Afghan rights advocates warned the split risked undermining comprehensive justice.

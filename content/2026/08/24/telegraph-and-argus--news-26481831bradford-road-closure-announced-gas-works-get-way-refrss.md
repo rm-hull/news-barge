@@ -7,6 +7,11 @@ scraped_at: '2026-08-24T09:00:37Z'
 published: '2026-08-24T00:00:00Z'
 description: ROSSE Street in Bradford is set to close for gas works.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21349931.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Google Street View)*

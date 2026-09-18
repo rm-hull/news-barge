@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Harrogate-based Pantera Advisory Group has appointed chartered surveyor
   Tom Witten as director of plant and machinery.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Kevin-Counihan-Tom-Snook-Tom-Witten-Pantera.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Arts & Culture
 ---
 
 Harrogate-based Pantera Advisory Group has appointed chartered surveyor Tom Witten as director of plant and machinery.

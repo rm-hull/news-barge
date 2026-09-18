@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: A DOLLY Parton Imagination Library project will be set up in a North
   Yorkshire town as part of a plan to encourage reading and school readiness.
 image: https://www.yorkpress.co.uk/resources/images/21374732.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Mayor ‘incredibly proud’ to continue Dolly Parton’s legacy with North Yorks project

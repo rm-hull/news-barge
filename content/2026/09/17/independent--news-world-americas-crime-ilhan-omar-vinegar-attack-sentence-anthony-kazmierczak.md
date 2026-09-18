@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: In social media posts, Anthony Kazmierczak had criticized former President
   Joe Biden and referred to Democrats as ‘angry and liars’
 image: https://static.the-independent.com/2026/05/08/11/2257991385.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The man who sprayed vinegar at Democratic U.S. Rep. Ilhan Omar during a Minneapolis town hall meeting was sentenced Thursday to the 14 months in prison prosecutors had asked for.

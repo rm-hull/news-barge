@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: US president cancelled planned tariff imposition just hours before it
   was to come into force
 image: https://i.guim.co.uk/img/media/12da602febe03205845bb37499e38a0c05585ddb/178_0_4260_3408/master/4260.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c9d6db8dc7c08de190662fb00a1fe078
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Good morning. Donald Trump has paused his threatened punitive tariff on Canada just hours before it was due to come into effect. After Trump’s announcement, the Canadian prime minister, Mark Carney, said “substantial progress” had been made towards a trade deal, but more work was needed.

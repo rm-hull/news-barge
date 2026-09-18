@@ -8,6 +8,10 @@ scraped_at: '2026-08-22T12:57:08Z'
 published: '2026-08-22T00:00:00Z'
 description: This tiny dynamo delivers amazing drinks with the touch of a button
 image: https://cdn.mos.cms.futurecdn.net/6c6BXdHFjnSRdNkqvjFKh7-2560-80.jpg
+categories:
+- Technology & Software
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 ### TechRadar Verdict

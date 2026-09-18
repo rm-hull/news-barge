@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: At least 300,000 people were impacted by a technical glitch that caused
   mass cancellations this week
 image: https://static.independent.co.uk/2026/09/10/20/27/Gatwick-Airport-passenger.jpeg?trim=0,100,0,100&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 As chaos engulfed airports across the UK this week, one “hero” passenger stepped in to help dozens of customers at Gatwick.

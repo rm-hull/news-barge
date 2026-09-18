@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Lebara cuts its 10GB monthly SIM plan to £1.89 with unlimited UK calls,
   texts and 100 international minutes
 image: https://cdn.mos.cms.futurecdn.net/bwiS7s8hFEVHWzVpTAz3F8-2000-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Lebara 10GB monthly SIM plan](https://cdn.mos.cms.futurecdn.net/bwiS7s8hFEVHWzVpTAz3F8.jpg) 

@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: A different kind of data center is at the center of yet another water
   wastage situation in 2026
 image: https://cdn.mos.cms.futurecdn.net/XV8r57RnnjGhFjmspCnPn-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Bitcoin fail](https://cdn.mos.cms.futurecdn.net/XV8r57RnnjGhFjmspCnPn.jpg) 

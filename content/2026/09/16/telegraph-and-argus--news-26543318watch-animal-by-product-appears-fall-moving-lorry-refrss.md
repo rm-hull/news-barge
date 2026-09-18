@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A resident has raised concerns about repeated spillages of animal by-products
   from lorries passing through part of the Bradford district.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21442040.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Pets & Animals
 ---
 
 *(Image: Local resident)*

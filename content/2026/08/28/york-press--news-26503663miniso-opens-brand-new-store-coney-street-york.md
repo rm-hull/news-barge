@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: MINISO launched its latest store at 40 Coney Street, York, on Friday,
   August 28, drawing crowds from 10am ahead of a 12pm opening.
 image: https://www.yorkpress.co.uk/resources/images/21383829.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## FIRST LOOK: Excitement builds as customers queue outside York store's grand opening

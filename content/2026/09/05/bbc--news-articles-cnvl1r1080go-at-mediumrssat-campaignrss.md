@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Severe delays and cancellations are set to continue, with no trains between
   central London and the airport.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/de80/live/5ff9eda0-a962-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Crowds fill the concourse of London Paddington station with the departure boards blank showing no services.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/de80/live/5ff9eda0-a962-11f1-b109-879e35c24276.jpg)

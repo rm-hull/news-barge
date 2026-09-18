@@ -7,6 +7,9 @@ scraped_at: '2026-09-16T13:28:24Z'
 published: '2026-09-16T00:00:00Z'
 description: Sony has revealed two new PlayStation headsets.
 image: https://cdn.mos.cms.futurecdn.net/MCtHEJS7EhWnf3JGkroLQh-2560-80.png
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![The drivers of the PULSE Edge Wireless Headset.](https://cdn.mos.cms.futurecdn.net/MCtHEJS7EhWnf3JGkroLQh.png) 

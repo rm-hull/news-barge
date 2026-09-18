@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: The decision, announced by the chief of defence, comes just two months
   after Uganda said it would participate.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/08e9/live/9b830a50-ac55-11f1-9e64-05835b0b18f8.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Prince Harry announcing Uganda joining the Invictus Games in July](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/08e9/live/9b830a50-ac55-11f1-9e64-05835b0b18f8.jpg)

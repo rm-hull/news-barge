@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Discover more about Data Centers with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/qdpwyk7M9YSzwdiLj4qhtZ-320-80.png
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![a data center in Virginia](https://cdn.mos.cms.futurecdn.net/qdpwyk7M9YSzwdiLj4qhtZ-320-80.png)

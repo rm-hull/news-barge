@@ -10,6 +10,10 @@ description: An illegal immigrant has been jailed for life for murdering a man i
   the UK just three years after serving a sentence in Romania for a “strikingly similar”
   killing.
 image: https://static.independent.co.uk/2026/08/18/17/01M0AT0WKCZ621NBTG288WF6CW.jpg?trim=908,0,908,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 An illegal immigrant has been jailed for life for murdering a man in the UK just three years after serving a sentence in Romania for a “strikingly similar” killing.

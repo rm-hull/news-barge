@@ -9,6 +9,11 @@ description: US media quoted relatives of crew members saying living conditions 
   deteriorated on the USS Abraham Lincoln and there were also reports of several suicide
   attempts.
 image: https://images.euronews.com/articles/stories/09/88/26/48/1200x675_cmsv2_adae8832-467c-5f1f-a977-b081b887d28d-9882648.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 ## US media quoted relatives of crew members saying living conditions had deteriorated on the USS Abraham Lincoln and there were also reports of several suicide attempts.

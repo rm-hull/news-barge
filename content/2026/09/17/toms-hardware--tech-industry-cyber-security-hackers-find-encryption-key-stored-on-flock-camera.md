@@ -11,6 +11,10 @@ description: Flock claims that images are only briefly stored on its cameras bef
   being forwarded to the company’s servers, but a group of hackers determined that
   this wasn’t the case.
 image: https://cdn.mos.cms.futurecdn.net/8Ht5WmB2A95EErFNdy8QmN-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![a Flock camera with a street in the background](https://cdn.mos.cms.futurecdn.net/8Ht5WmB2A95EErFNdy8QmN.png) 

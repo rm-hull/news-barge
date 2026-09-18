@@ -7,6 +7,12 @@ scraped_at: '2026-09-15T19:41:46Z'
 published: '2026-09-15T00:00:00Z'
 description: A new children’s boutique has opened with a creative twist.
 image: https://www.yorkpress.co.uk/resources/images/21458456.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
+- Lifestyle & Fashion
+- Family & Parenting
 ---
 
 *(Image: Freelancer)*

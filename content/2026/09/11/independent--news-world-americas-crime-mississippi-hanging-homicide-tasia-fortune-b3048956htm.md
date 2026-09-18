@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: The arrest came after the medical examiner classified Tasia Fortune’s
   death as a homicide on Thursday
 image: https://static.the-independent.com/2026/09/11/22/27/Screenshot-2026-09-11-at-3-42-20-PM.png?trim=39,0,13,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Police in Jackson, Mississippi, arrested a man on Friday in connection with the killing of Tasia Fortune, a 29-year-old Black woman found hanging from a tree outside an abandoned home in the area last month.

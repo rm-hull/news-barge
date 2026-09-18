@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Ripon Racecourse has appointed Antony Pickthall as its first-ever poet
   in residence.
 image: https://www.thetelegraphandargus.co.uk/resources/images/6334315.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

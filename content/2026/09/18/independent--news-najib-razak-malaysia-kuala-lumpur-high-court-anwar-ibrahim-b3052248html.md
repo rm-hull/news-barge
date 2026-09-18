@@ -9,6 +9,9 @@ published: '2026-09-18T00:00:00Z'
 description: Malaysia’s king has granted former Prime Minister Najib Razak a rare
   royal clemency, allowing him to serve the rest of his prison term under house arrest
 image: https://static.independent.co.uk/2026/09/18/05/Malaysia_Corruption_Clemency_4743_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Malaysia’s king on Friday granted jailed former Prime Minister Najib Razak a rare royal clemency, allowing him to serve the remainder of his prison term for graft under house arrest.

@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: ITV is reportedly set to axe The Chase Around The World after just one
   series, according to the Daily Mail.
 image: https://www.yorkpress.co.uk/resources/images/21417605.jpg?type=og-image&xType=0&yType=160
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 *(Image: ITV)*

@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: The Trump administration has fimposed sanctions on additional aspects
   of Iran’s aviation industry
 image: https://static.independent.co.uk/2026/09/08/16/G2__Finance_Ministers_56742.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The Trump administration on Tuesday imposed sanctions on additional aspects of Iran's aviation industry, targeting more than two dozen commercial and private airlines as well as foreign cargo service providers in its new push to isolate Tehran from its remaining trading partners.

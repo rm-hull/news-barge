@@ -12,6 +12,11 @@ description: What do people in Helmsley and Hull have in common? One thing that 
   and autonomous firearms licensing authorities covering the ridings and cities of
   Yorkshire.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjkxNWY1MTQxLTMzZjEtNDRjYi1hMGI3LWFlOTEyMzVlYjNjYjowYjA1OTQzYy0yNjI3LTQ4ODctOWZkZi05MmY1YTA0NzJiYmI=.jpg?crop=3:2,smart&trim=&width=624&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # A uniform firearms licensing service would be welcomed by Yorkshire but recommendations miss the mark - Roger Seddon

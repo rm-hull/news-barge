@@ -9,6 +9,9 @@ published: '2026-09-17T00:00:00Z'
 description: It comes after the Green leader, who is standing as a candidate in the
   Holborn and St Pancras byelection, recorded a campaign video in Urdu
 image: https://i.guim.co.uk/img/media/56d3df0a2245dbb5a3364f62599237e169d48524/171_0_2325_1860/master/2325.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0a787054a51326456a150dfc46033a29
+categories:
+- UK
+- News & Politics
 ---
 
 Polanski is a member of the London assembly and today Sadiq Khan, the Labour mayor, was appearing before the assembly to take questions. As Polanski asked him a question about data centres, Khan, whose parents came to the UK from Pakistan, mocked him by replying in Urdu. Kumail Jaffer, a local democracy reporter, has the video here.

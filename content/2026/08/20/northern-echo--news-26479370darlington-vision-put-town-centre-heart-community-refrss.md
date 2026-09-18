@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Darlington town centre should be put "at the heart of our community"
   by 2030 under a new council strategy aimed at changing how the centre…
 image: https://www.thenorthernecho.co.uk/resources/images/20792445.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Sarah Caldecott)*

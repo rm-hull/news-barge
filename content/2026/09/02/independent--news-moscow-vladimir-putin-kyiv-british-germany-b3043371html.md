@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Ukraine’s Kyiv and Odesa regions have faced intense Russian aerial attacks,
   wounding at least eight civilians
 image: https://static.independent.co.uk/2026/09/02/11/Russia_Ukraine_War_84651.jpg?trim=84,0,84,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 Russian aerial attacks struck apartment buildings in Ukraine's Kyiv and Odesa regions overnight and Wednesday morning, wounding at least eight civilians, local officials said. The Ukrainian air force said those two regions bore the brunt of the latest attacks on the country.

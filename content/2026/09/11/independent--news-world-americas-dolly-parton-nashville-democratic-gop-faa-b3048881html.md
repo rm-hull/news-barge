@@ -10,6 +10,10 @@ description: In Nashville, Tennessee, Republican and Democratic leaders are in a
   ugly partisan battle over who controls the city's airport, but they agree on one
   thing
 image: https://static.independent.co.uk/2026/08/26/05/Obit_Dolly_Parton_9_412.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 In Nashville, Tennessee, the Republican-dominated state government and Democrat-controlled city government are engaged in an ugly battle for control of the city's airport.

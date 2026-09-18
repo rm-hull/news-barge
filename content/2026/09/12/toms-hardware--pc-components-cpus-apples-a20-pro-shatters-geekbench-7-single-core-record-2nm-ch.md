@@ -8,6 +8,9 @@ scraped_at: '2026-09-12T12:08:41Z'
 published: '2026-09-12T00:00:00Z'
 description: Eats Intel's entry Panther Lake CPUs for breakfast too.
 image: https://cdn.mos.cms.futurecdn.net/BSzu4mJ9YD7LDAdyLJoKZd-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Apple A20 Pro](https://cdn.mos.cms.futurecdn.net/BSzu4mJ9YD7LDAdyLJoKZd.jpg) 

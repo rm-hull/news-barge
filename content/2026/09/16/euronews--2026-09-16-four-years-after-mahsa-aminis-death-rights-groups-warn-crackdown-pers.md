@@ -10,6 +10,10 @@ description: Human rights groups said those who directed the violent suppression
   shuttered across her home region and the UN Special Rapporteur said four years of
   state violence had failed to extinguish the resistance.
 image: https://images.euronews.com/articles/stories/09/91/36/38/1200x675_cmsv2_e5c5b8e6-f6f4-5cd2-bb43-02482e66bc49-9913638.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Human rights groups said those who directed the violent suppression of the 2022 protests still control Iran's security apparatus, as Kurdish businesses shuttered across her home region and the UN Special Rapporteur said four years of state violence had failed to extinguish the resistance.

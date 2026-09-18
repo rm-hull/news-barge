@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: From meteor showers to a November supermoon, there are a number of impressive
   sights to behold in the autumn night sky.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aff8/live/ce59c3a0-ad0f-11f1-a035-c91dffce51bf.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![The November full moon shines bright white in a black sky, with the outline of tree branches in the foreground.](https://ichef.bbci.co.uk/ace/standard/902/cpsprodpb/aff8/live/ce59c3a0-ad0f-11f1-a035-c91dffce51bf.jpg)

@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: White House Press Secretary Karoline Leavitt officially stepped down
   last week — a replacement has yet to be revealed
 image: https://static.independent.co.uk/2026/09/01/23/07/GettyImages-2264014698.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The White House has planned its first press briefing in weeks, but it’s anyone’s guess who will be behind the podium after press secretary Karoline Leavitt left her post last week.

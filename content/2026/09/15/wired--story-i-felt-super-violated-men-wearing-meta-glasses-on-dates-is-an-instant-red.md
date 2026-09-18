@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: As anxieties over surveillance tech grow, unsuspecting singles are sharing
   stories of being covertly filmed on dates by Meta smart glasses.
 image: https://media.wired.com/photos/6aa2eb8ffb0534daebc7964c/191:100/w_1280,c_limit/Men-Wearing-Meta-Glasses-on-Dates-Culture-1243897106.jpg
+categories:
+- Technology & Software
+- Science
+- Film & TV
 ---
 
 Courtney McAnuff was out of a year-long relationship in the summer of 2024 and starting to date again when she agreed to grab drinks with a potential suitor.

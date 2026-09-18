@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: An inspiring floral festival is set to brighten up the city with blooms,
   creativity, and community spirit.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21356810.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A man who has been violent towards women defied a court ban by staying
   at the home of his latest victim, York magistrates heard.
 image: https://www.gazetteherald.co.uk/resources/images/20369953.jpg?type=og-image&xType=0&yType=12
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

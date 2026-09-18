@@ -9,6 +9,11 @@ description: Almost 2,000 people have signed a petition calling for urgent actio
   to repair a landslip in Knaresborough amid fears further deterioration this winter
   could make the problem much worse.
 image: https://mmo.aiircdn.com/409/6aacdc910f7b81e1712.jpg
+categories:
+- Local
+- Harrogate
+- Health & Fitness
+- Society & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6aacdc910f7b81e1712.jpg) 

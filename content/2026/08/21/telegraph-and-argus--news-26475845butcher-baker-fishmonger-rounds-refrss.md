@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: IT’S HARD to believe that in the days when lives are lived through the
   click of a keypad traders still go round communities delivering goods in a…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21337830.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 IT’S HARD to believe that in the days when lives are lived through the click of a keypad traders still go round communities delivering goods in a wicker basket.

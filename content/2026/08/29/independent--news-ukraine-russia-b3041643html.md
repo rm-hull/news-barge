@@ -9,6 +9,10 @@ description: A Russian drone strike on a warehouse triggered massive explosions 
   fires, killing 37 people and damaging dozens of nearby homes and buildings in the
   deadliest Russian attack in Ukraine this year.
 image: https://static.independent.co.uk/2026/08/30/01/APTOPIX_Russia_Ukraine_War_71_4_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Photos show destruction after Russia’s deadliest strike on Ukraine this year

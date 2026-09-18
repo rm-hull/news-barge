@@ -9,6 +9,11 @@ description: The Government finds itself in an invidious position when it comes 
   prison places. Sir Keir Starmer’s government allowed the early release of prisoners
   to free up some capacity and his successor could find himself in a similar position.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjZiYWU5ZjAzLTBhOTQtNDRkNy04MWJlLTgzMjRkY2I3ZGY3Njo1YzlhNGY4Ni0yMzczLTRhOTMtOTk2NC0yN2FlYmRlYWY1ODM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Where are the staff to oversee prison places going to come from?

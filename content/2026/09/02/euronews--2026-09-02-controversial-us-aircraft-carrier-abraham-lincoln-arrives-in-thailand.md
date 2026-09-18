@@ -9,6 +9,9 @@ description: Democratic lawmakers have called for an investigation into conditio
   on the USS Abraham Lincoln following reports of food shortages, broken plumbing
   and mental health crises.
 image: https://images.euronews.com/articles/stories/09/89/79/72/1200x675_cmsv2_95741e5a-ec2c-59f9-9a61-02087864e796-9897972.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Democratic lawmakers have called for an investigation into conditions on the USS Abraham Lincoln following reports of food shortages, broken plumbing and mental health crises.

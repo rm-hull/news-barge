@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Christmas toy sales are underway, with Tesco, Aldi, Lidl and Argos offering
   big discounts. Here’s how to use deal stacking to save more.
 image: https://www.yorkpress.co.uk/resources/images/21425096.jpg?type=og-image
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 *(Image: Getty Images)*

@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: 18 of 40 top apps collect your browsing history, and most of them do
   not need it
 image: https://cdn.mos.cms.futurecdn.net/SeRCc5giV8aBStuSbpEYEL-2266-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Halftone hand pointing on search bar with copy space. Browsing online information, data, surfing internet. SEO concept Modern retro vector illustration](https://cdn.mos.cms.futurecdn.net/SeRCc5giV8aBStuSbpEYEL.jpg) 

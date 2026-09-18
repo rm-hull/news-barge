@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: THE Duchy estate, set in Harrogate’s conservation area, enjoys the feel
   of a more genteel bygone time thanks to its wide roads where the houses…
 image: https://www.thenorthernecho.co.uk/resources/images/21439827.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 THE Duchy estate, set in Harrogate’s conservation area, enjoys the feel of a more genteel bygone time thanks to its wide roads where the houses – many of which are late Victorian and early Edwardian – are set back behind well-kept gardens and screened by greenery to protect their privacy, and from where residents can enjoy a leisurely walk to the town centre, the shops of Coldbath Road and the area around the Pump Rooms and Montpelier where independent shops, art galleries, pubs and cafes await.

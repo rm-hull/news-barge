@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Chelsea McGillivray, from Rutherglen, South Lanarkshire, fell into cardiac
   arrest during labour after what was believed to be a textbook pregnancy.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1033/live/8ecd3330-a552-11f1-8689-6589354d0f8e.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 ![Chelsea McGillivray. She is wearing a blue one-shoulder dress and her blonde hair is tied into a bun. She is smiling at the camera.](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/1033/live/8ecd3330-a552-11f1-8689-6589354d0f8e.jpg)

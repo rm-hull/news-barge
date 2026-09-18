@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: Redcar MP says Teesside community is ‘reeling’ as PM offers condolences
   and asks public to avoid speculation
 image: https://i.guim.co.uk/img/media/2ac5412043ca84b2366ba41ab226565941e8ded9/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b08554a66a9901dc1c36782b0ca5280c
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Technology & Software
 ---
 
 Tributes are being paid to two police officers who died on Teesside when a car travelling the wrong way along the A66 crashed head on into their vehicle, also killing five young men.

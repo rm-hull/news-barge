@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Around one in 20 women suffer from clinical levels of post-traumatic
   stress disorder after giving birth, says new study
 image: https://static.independent.co.uk/2026/09/10/15/46/iStock-2270856546.jpeg?trim=13,232,234,138&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Health & Fitness
 ---
 
 Routine post-traumatic stress disorder (PTSD) screening for expectant and new mothers could save the NHS £26 million annually, according to a new study examining the financial toll of birth trauma.

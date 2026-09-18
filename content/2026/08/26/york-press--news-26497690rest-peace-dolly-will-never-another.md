@@ -8,6 +8,10 @@ scraped_at: '2026-08-26T16:57:30Z'
 published: '2026-08-26T00:00:00Z'
 description: Our letter writer mourns the passing of music legend Dolly Parton
 image: https://www.yorkpress.co.uk/resources/images/21374732.jpg?type=og-image
+categories:
+- Local
+- York
+- Music
 ---
 
 **'Rest in Peace Dolly. There will never be another'**

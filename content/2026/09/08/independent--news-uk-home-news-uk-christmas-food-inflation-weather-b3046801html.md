@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: The government has been urged to ease pressure by relieving rising energy
   and regulatory costs on manufacturers, warning ‘resilience is wearing thin’
 image: https://static.independent.co.uk/2026/09/08/18/01M20GC1KSXKMGT49BPCDPEZGY.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Health & Fitness
 ---
 
 Supermarket shoppers face rising costs as food inflation is expected to reach almost 4 per cent by Christmas before peaking at 6.4 per cent in July next year, industry leaders have warned.

@@ -9,6 +9,9 @@ description: 'Brussels stayed mostly silent during Iceland''s referendum campaig
   which ended with 52.8% voting against resuming EU accession talks, echoing its muted
   response to Brexit a decade earlier. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/72/12/1200x675_cmsv2_6628f3df-978f-561a-a8b6-6e4432a170cb-9897212.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Brussels stayed mostly silent during Iceland's referendum campaign, which ended with 52.8% voting against resuming EU accession talks, echoing its muted response to Brexit a decade earlier.

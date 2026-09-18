@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Leah Stewart, who lost her arm in attack at Coogee Beach in June, said
   thoughts of her daughter drove her to fight the animal
 image: https://static.independent.co.uk/2026/06/15/7/50/105018813_1781498396917855_r.jpeg?trim=23,0,23,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A Sydney woman who survived a shark attack described how she fought back against a four-metre-long great white, repeatedly punching the predator as it dragged her under the water.

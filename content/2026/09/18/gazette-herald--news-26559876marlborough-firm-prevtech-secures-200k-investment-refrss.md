@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: Marlborough-based PrevTech has secured £200,000 to expand its facilities,
   recruit skilled staff and target new aerospace and defence opportunities.
 image: https://www.gazetteherald.co.uk/resources/images/21469408.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: The FSE Group)*

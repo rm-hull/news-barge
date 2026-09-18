@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Getting more REM sleep is associated with a lower risk of 83 diseases
   including heart failure, dementia, and Parkinson’s
 image: https://static.independent.co.uk/2026/09/18/3/03/Participant-taking-part-in-a-sleep-study.jpeg?trim=28,0,29,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Self-Improvement
 ---
 
 The type of sleep a person gets, rather than just the duration, influences the risk of developing dozens of diseases later in life, a large study of nearly 100,000 people reveals.

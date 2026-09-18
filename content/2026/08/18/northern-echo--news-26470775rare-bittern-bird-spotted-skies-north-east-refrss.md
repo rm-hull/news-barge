@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: A rare and famously secretive bird, the Bittern, has been spotted in
   the skies of the North East by a photographer.
 image: https://www.thenorthernecho.co.uk/resources/images/21330014.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 *(Image: Dave Pearce/CAMERA CLUB)*

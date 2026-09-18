@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Incident marks apparent escalation by Tehran in its in retaliation against
   UK over allowing US to use British bases
 image: https://i.guim.co.uk/img/media/677e2019dcd9c7efa20b39c0eef036ad95af750b/376_0_3743_2994/master/3743.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d63d6c51d00914f4310acd48f96e02d7
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Hackers linked to Iran have been blamed for a cyber-attack that caused a British power plant to be temporarily shut down.

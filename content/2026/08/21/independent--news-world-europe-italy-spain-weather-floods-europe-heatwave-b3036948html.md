@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Urgent weather warnings have been issued in Spain and Italy as heavy
   rain causes chaos after dramatic swing in conditions
 image: https://static.independent.co.uk/2026/08/21/12/43/spain-valencia-rain-02a1a0d2.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Heavy rain has triggered flash floods in Italy and Spain, just weeks after Europe experienced a scorching 40C heatwave and wildfires.

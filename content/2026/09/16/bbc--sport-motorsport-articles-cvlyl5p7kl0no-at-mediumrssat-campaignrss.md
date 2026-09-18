@@ -9,6 +9,10 @@ description: British racing driver Ollie Millroy says it is a "miracle I'm alive
   after fellow driver Loek Hartog "did everything right" when saving him from his
   blazing car.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/13cc/live/0c1599e0-b1e7-11f1-ac01-a9af2f94b2cc.jpg
+categories:
+- UK
+- News & Politics
+- Automotive
 ---
 
 ![Ollie Millroy](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/13cc/live/0c1599e0-b1e7-11f1-ac01-a9af2f94b2cc.jpg)

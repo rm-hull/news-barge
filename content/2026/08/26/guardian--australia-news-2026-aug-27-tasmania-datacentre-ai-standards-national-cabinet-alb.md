@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: Concerns over planning process as George Town council gives go-ahead
   for 288MW AI factory despite opposition from locals
 image: https://i.guim.co.uk/img/media/af0eeb92d48ff85ff0ebd1b6eff022785939ea80/426_0_4269_3414/master/4269.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ed42226fe7b62da6d8af4cd25b10bd03
+categories:
+- UK
+- News & Politics
 ---
 
 The day before Anthony Albanese secured agreement with states and territories to develop national datacentre standards, a small council in Tasmania was grappling with the existing regulations in the face of strong community opposition to a new AI factory planned for its town.

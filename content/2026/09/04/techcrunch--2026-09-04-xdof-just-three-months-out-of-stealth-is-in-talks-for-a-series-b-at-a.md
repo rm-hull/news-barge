@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: The round is being raised just months after the robot data startup exited
   from stealth.
 image: https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Less than three months after emerging from stealth, XDOF, a startup that collects real-world teleoperation data for training general-purpose robots, is in late-stage talks to raise a Series B at a valuation of about $1.2 billion valuation led by 8VC, several people with knowledge of the deal said.

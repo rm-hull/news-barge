@@ -9,6 +9,10 @@ description: GOP candidates quietly removing references to President Donald Trum
   amid concern his low approval ratings could adversely impact their own midterms
   prospects, according to reports
 image: https://static.independent.co.uk/2026/09/04/20/2026-09-04T193216Z_1523549726_RC2JCNAF4UTJ_RTRMADP_3_USA-TRUMP.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A number of Republican candidates facing tight races in November’s midterm elections have dropped mentions of President Donald Trump from their campaign websites, according to reports.

@@ -9,6 +9,11 @@ description: The reliably Republican South Dakota senate seat has an incumbent o
   the ballot. But PACs associated with AI labs and investors have already spent more
   money on the race than actual residents have.
 image: https://media.wired.com/photos/6aa820614ea2a5a4d9e48bf8/191:100/w_1280,c_limit/GettyImages-2258333098.jpg
+categories:
+- Technology & Software
+- Science
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Major super PACs associated with AI labs and investors have poured close to $1 million into incumbent Republican Mike Rounds’s South Dakota senate race, seeking to shape the outcome of a noncompetitive race amid a critical national debate over AI regulation.

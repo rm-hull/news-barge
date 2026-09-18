@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: North Yorkshire Police said criminal damage was caused to a black-coloured
   Mini Cooper in White Rose Avenue, New Earswick, between midnight and 5am…
 image: https://www.gazetteherald.co.uk/resources/images/19185057.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 *(Image: Newsquest)*

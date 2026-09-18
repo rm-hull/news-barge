@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: Top aides to President Donald Trump are pushing to keep the Iran war
   from escalating before November's midterm elections
 image: https://static.independent.co.uk/2026/09/02/11/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Senior advisers to President Donald Trump are attempting to prevent the military conflict with Iran from worsening ahead of November's midterm elections to curb potential Republican losses at the polls, according to four individuals knowledgeable about the discussions. However, this strategy is already facing severe pressure as exchange strikes between the United States and Iran persist.

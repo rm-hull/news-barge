@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: The online retail giant – known for selling extremely cheap clothes –
   has been planning to float since 2023
 image: https://static.independent.co.uk/2026/08/24/10/2026-08-04T043110Z_1360991244_RC27HIASCGA8_RTRMADP_3_SHEIN-IPO.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Shopping & Deals
 ---
 
 Online fast fashion retailer Shein could achieve a market valuation of up to $27 billion (£19.8 billion) when it makes its long-anticipated stock market debut in Hong Kong next week.

@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Jeffrey Mosteller pleaded no contest to charges relating to burning death
   of Thomas Cooper in Michigan
 image: https://i.guim.co.uk/img/media/0366c61e773ad897a477f4f1a2efa286ea7c1f7c/1_146_1578_1262/master/1578.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab06f86a675f87c15722b952707c5f96
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A former safety manager has been sentenced to one year and seven months in prison in connection with the death of a five-year-old Michigan boy who was killed in a fiery January 2025 explosion inside a hyperbaric oxygen chamber.

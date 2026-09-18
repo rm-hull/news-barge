@@ -9,6 +9,10 @@ description: Pupils at Harrogate Ladies’ College, which will become Duchy Coll
   next month, are celebrating the best 9-7 grade percentage at GCSE since 2023 and
   outstanding STEM results.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmFlZjY2NGRhLWRiOGItNDYyNS04ZmM2LTc5OWRmNmYwYzBiODoyZTdmMTkxZS04NzI4LTQwOTUtODkwYy0zMDRkNTU1ZjI4MzI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 # STEM success: Harrogate Ladies’ College pupils achieve outstanding GCSE results

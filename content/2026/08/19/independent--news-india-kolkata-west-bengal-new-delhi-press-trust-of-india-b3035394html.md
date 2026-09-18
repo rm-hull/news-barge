@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A fire in a hotel has killed at least nine people and injured six others
   in Kolkata, the capital of India’s West Bengal state
 image: https://static.independent.co.uk/2026/08/19/06/India_Hotel_Fire_38271.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Sports
 ---
 
 A fire broke out at a hotel in Kolkata in the early hours Wednesday, killing at least nine people and injuring six in the capital of India’s West Bengal state, police said.

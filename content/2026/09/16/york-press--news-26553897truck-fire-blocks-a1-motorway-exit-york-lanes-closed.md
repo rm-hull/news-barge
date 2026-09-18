@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: A truck fire has blocked the northbound exit ramp of the A1(M) this morning
   at junction 44 for the A64
 image: https://www.yorkpress.co.uk/resources/images/21460897.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
 ---
 
 ## Our live feed has now finished.

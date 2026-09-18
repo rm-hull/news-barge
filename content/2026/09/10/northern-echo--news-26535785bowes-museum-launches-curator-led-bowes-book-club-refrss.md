@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: A CURATOR-LED book club is inviting readers to discover the magic of
   literature and art through discussion and objects.
 image: https://www.thenorthernecho.co.uk/resources/images/21430930.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- Books & Literature
 ---
 
 *(Image: Supplied)*

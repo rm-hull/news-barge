@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: A Calderdale school is looking to build in some passing places into the
   tricky single-track route to the school.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21382885.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
 ---
 
 ### What is the Public Notice Portal?

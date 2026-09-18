@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: BRADFORD Teaching Hospitals has pledged to tackle racism head-on by adopting
   the NHS Race and Health Observatory’s seven anti-racism principles
 image: https://www.thetelegraphandargus.co.uk/resources/images/21345669.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Supplied)*

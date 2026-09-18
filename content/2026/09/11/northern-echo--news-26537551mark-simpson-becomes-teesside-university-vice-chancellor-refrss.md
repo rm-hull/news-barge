@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Former student, Professor Mark Simpson, has been named vice-chancellor
   of Teesside University, where his higher education journey began.
 image: https://www.thenorthernecho.co.uk/resources/images/21433389.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Teesside University)*

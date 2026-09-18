@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Generations of royals have attended the most prestigious and elite schools
   in the country
 image: https://static.independent.co.uk/2026/07/10/18/48/meghan-instagram.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Prince Harry and Meghan Markle’s children are set to attend British schools in September following the shock announcement that they will be returning from California this month.

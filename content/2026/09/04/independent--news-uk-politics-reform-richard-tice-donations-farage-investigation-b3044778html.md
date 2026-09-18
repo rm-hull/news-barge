@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: 'Exclusive: Labour chair Bridget Phillipson has written to Parliament’s
   commissioner for standards to ask him to probe reports'
 image: https://static.independent.co.uk/2026/09/04/12/2026-09-04T114749Z_1780531543_RC2ACNA7JRV5_RTRMADP_3_BRITAIN-POLITICS-REFORM-CONFERENCE.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Labour has called on Parliament's sleaze watchdog to investigate Reform UK’s Richard Tice over allegations of another unregistered donation to the party.

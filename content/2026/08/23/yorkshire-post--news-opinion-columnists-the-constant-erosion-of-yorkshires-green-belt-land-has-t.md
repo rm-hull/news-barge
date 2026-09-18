@@ -11,6 +11,11 @@ description: 'Fifty years ago, when I first came to work in the West Riding, peo
   the whole area would merge into a single, soulless settlement. There was even a
   name for it: Cleckuddersthorpe.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM4ZTgzYTA1LWZkZTItNGE4NS05NjA1LWMzNTA1NmJjODI5Njo5N2VhMjczNi03ZmE2LTRlZDgtYjc5Ni0yYTkwYWVhMzg4ODc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # The constant erosion of Yorkshire's green belt land has to be stopped - David Behrens

@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Tributes paid to ‘strong-willed, determined and deeply caring’ father-of-two
   Owain Davies
 image: https://static.independent.co.uk/2026/09/18/7/49/Owain-Davies-Amcanu-2048x1536.webp?trim=85,0,85,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A British millionaire businessman has been named as one of three people killed when a small plane crashed in the Swiss Alps this week.

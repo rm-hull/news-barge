@@ -8,6 +8,11 @@ scraped_at: '2026-08-20T13:07:52Z'
 published: '2026-08-20T00:00:00Z'
 description: Not even enough to buy 4GB of DDR4 nowadays
 image: https://cdn.mos.cms.futurecdn.net/kAur2rfLMuXGArbhKVE2jU-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![G.Skill Trident Z5 Neo RGB DDR5-6000 C26](https://cdn.mos.cms.futurecdn.net/kAur2rfLMuXGArbhKVE2jU.jpg) 

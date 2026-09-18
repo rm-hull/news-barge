@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The temporary rate increase is set to take effect October 4 and remain
   in place through January 17
 image: https://static.independent.co.uk/2026/08/26/15/2250976668..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 The United States Postal Service will raise rates by an average of 6 percent for several package-shipping services during the 2026 holiday season.

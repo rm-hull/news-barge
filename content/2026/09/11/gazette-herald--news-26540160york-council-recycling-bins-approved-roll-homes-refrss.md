@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: People have been begging for recycling bins in York, the council's environment
   spokesperson has said, as plans to ditch boxes face calls for a…
 image: https://www.gazetteherald.co.uk/resources/images/21036245.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 PEOPLE have been begging for recycling bins in York, the council's environment spokesperson has said, as plans to ditch boxes face calls for a rethink.

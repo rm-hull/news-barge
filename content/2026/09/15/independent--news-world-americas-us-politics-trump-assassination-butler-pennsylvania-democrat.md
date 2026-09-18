@@ -9,6 +9,10 @@ description: ‘We have reviewed this case over and over — looked into every n
   We have spoken to the families, the president — there is no cover-up here,’ Trump’s
   former FBI Deputy Director Dan Bongino said last year
 image: https://static.independent.co.uk/2026/08/11/12/2161436031..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 President Donald Trump has alleged that a “Democrat Plot” was behind the 2024 assassination attempt against him and claimed newly discovered information shows key evidence was missing, altered or corrupted.

@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: A PIECE of television history with a strong link to Craven reaches its
   finale later this month.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21410110.jpg?type=og-image&xType=0&yType=9
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Submitted)*

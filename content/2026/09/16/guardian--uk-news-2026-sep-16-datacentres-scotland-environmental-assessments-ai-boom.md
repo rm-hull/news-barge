@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Government announces before vote on moratorium that any projects above
   50MW must submit assessments in planning process
 image: https://i.guim.co.uk/img/media/f4c35ffc77668ec92a724e23db360ec4f31b7a93/1126_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb5f1f0600426a8342d7e08b7076ab67
+categories:
+- UK
+- News & Politics
 ---
 
 Large-scale datacentres will face mandatory environmental assessments before they can go ahead, the Scottish government has announced, amid growing public concern about the impact of the AI boom.

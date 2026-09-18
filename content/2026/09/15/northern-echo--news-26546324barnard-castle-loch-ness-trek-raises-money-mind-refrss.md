@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Two friends from County Durham have set off on an extraordinary walking
   challenge in a bid to raise money and awareness for men's mental health
 image: https://www.thenorthernecho.co.uk/resources/images/21448066.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: BRAD WHITMORE)*

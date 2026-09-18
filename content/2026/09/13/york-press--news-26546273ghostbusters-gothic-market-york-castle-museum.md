@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Mysterious character Black Phillip has insisted that their spooky gothic
   market in York will be safe – because he said he has “the Yorkshire…
 image: https://www.yorkpress.co.uk/resources/images/20774995.jpg?type=og-image
+categories:
+- Local
+- York
+- Comedy & Entertainment
 ---
 
 *(Image: Dylan Connell)*

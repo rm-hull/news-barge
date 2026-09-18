@@ -8,6 +8,10 @@ scraped_at: '2026-09-08T12:50:41Z'
 published: '2026-09-08T00:00:00Z'
 description: Microsoft engineer issues stark warning to developers
 image: https://cdn.mos.cms.futurecdn.net/WgYZVv6ucLUnQDJXEGANqc-2560-80.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 ![Female Programmer Coding on Desktop Computer With Six Displays in Dark Office](https://cdn.mos.cms.futurecdn.net/WgYZVv6ucLUnQDJXEGANqc.jpg) 

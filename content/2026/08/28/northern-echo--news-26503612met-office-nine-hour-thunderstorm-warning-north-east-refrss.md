@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: The Met Office has issued a yellow thunderstorm warning covering Middlesbrough,
   Stockton, County Durham and Darlington.
 image: https://www.thenorthernecho.co.uk/resources/images/20909152.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 People across Teesside and County Durham are being warned of thunderstorms, heavy rain and possible hail after the Met Office issued a yellow weather warning.

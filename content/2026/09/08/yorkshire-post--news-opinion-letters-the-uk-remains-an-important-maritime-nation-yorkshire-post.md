@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: 'From: Lester May, Lieutenant Commander, Royal Navy – retired, Reachview
   Close, Camden Town, London.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM3YTExMWJmLTE2NzYtNDA1ZC1iNjQ1LTY1MTRkYzYwOGEzMzo1Y2Q4Yjk5NC01MjYwLTRhNmItYWNiMC1hMTY0NDY3MmMwMmM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Sports
 ---
 
 # The UK remains an important maritime nation - Yorkshire Post Letters

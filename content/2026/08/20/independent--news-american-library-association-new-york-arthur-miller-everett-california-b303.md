@@ -10,6 +10,10 @@ description: Barbara Kingsolver, Percival Everett and Daniel Kraus are among the
   participating in a touring exhibition organized by the Pulitzers and the American
   Library Association."
 image: https://static.independent.co.uk/2026/08/20/12/Pulitzers_Exhibit_24615.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Barbara Kingsolver, Percival Everett and Daniel Kraus will be among the authors and other Pulitzer Prize-winning artists and journalists participating in a 20-city touring exhibition jointly organized by the Pulitzers and the American Library Association.

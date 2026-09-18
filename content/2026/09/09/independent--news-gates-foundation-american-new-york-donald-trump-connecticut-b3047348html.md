@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: A major American aid group has promised to send more medicines to high-need
   areas around the world with the support of a record large donation
 image: https://static.independent.co.uk/2026/09/09/14/Philanthropy_Americares_5_248.jpg?trim=101,0,101,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A major American aid group is promising to deliver more medicines in high-need areas around the world after receiving its largest ever donation.

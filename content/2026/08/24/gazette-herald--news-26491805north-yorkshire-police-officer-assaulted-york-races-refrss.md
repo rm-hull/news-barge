@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: North Yorkshire Police is investigating the alleged assault of a police
   officer after York races.
 image: https://www.gazetteherald.co.uk/resources/images/21366194.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 *(Image: North Yorkshire Police)*

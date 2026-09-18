@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Cotality says prices have declined in most capital cities over winter.
   Search the data to see how they have changed in your area
 image: https://i.guim.co.uk/img/media/c844ec2e5af698a6c19b386d257183d2fa547cd1/0_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc495cd17210a4ee9aefdb89e79667ba
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Australia’s property market is facing a rare price correction, as rising interest rates and less favourable tax settings for investors accelerate a downturn.

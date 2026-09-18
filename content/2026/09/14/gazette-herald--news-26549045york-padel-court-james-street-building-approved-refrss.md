@@ -7,6 +7,11 @@ scraped_at: '2026-09-14T20:18:47Z'
 published: '2026-09-14T00:00:00Z'
 description: The transformation of a York building has been given the go ahead.
 image: https://www.gazetteherald.co.uk/resources/images/21186356.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 ### What is the Public Notice Portal?

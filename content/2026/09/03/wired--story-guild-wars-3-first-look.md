@@ -9,6 +9,11 @@ description: When the beta arrives next year—15 years after its predecessor—
   Wars 3 will have a new momentum engine that makes combat in the game feel closer
   to an action RPG.
 image: https://media.wired.com/photos/6a9730f1eefd66b661ca46d6/191:100/w_1280,c_limit/Guild-Wars-3-Culture-GW3---Sinkhole.jpg
+categories:
+- Technology & Software
+- Science
+- Video Gaming
+- History
 ---
 
 Hardly a year goes by without me whistling the *Guild Wars 2* loading theme, rewatching clips of the original to soak up that Pre-Searing Ascalon nostalgia, or subjecting my wife to yet another Grawl impression. (Gui-la-la!)

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A Redcar café has vowed it "won't be beaten" after a break-in forced
   it to close for a day, with customers rallying behind the…
 image: https://www.thenorthernecho.co.uk/resources/images/21424763.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: The Boathouse and Terrace on Facebook)*

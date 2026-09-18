@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: August’s reading marks the 10th month in a row that overall activity
   has grown, but at the slowest rate since March.
 image: https://static.independent.co.uk/2026/09/01/10/ba15d06e5b2cda39de252e5d4d2e3277Y29udGVudHNlYXJjaGFwaSwxNzg4MzQyMDU3-2.81931277.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Growth in the UK’s manufacturing industry has slipped to a five-month low as smaller firms came under more pressure – but hiring activity picked up at the fastest pace in two years, new figures show.

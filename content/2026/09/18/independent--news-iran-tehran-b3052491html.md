@@ -9,6 +9,10 @@ description: Volunteers in combat gear, crowds waving flags and displays of mili
   hardware filled Tehran as hundreds of thousands joined a government-organized rally
   after months of war.
 image: https://static.independent.co.uk/2026/09/18/12/Iran_War_81_3_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Iran stages massive Tehran rally as volunteers pledge to take up arms, in photos

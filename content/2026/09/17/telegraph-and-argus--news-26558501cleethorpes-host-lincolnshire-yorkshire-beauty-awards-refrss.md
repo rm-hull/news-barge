@@ -7,6 +7,11 @@ scraped_at: '2026-09-17T13:23:36Z'
 published: '2026-09-17T00:00:00Z'
 description: A NIGHT of glamour will take centre stage in Cleethorpes this autumn.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21467337.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

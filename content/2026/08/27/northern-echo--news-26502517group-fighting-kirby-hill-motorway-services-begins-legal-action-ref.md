@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Campaigners fighting plans for a motorway service area near Boroughbridge
   have taken the first formal step towards challenging North Yorkshire…
 image: https://www.thenorthernecho.co.uk/resources/images/21216577.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Campaigners fighting plans for a motorway service area near Boroughbridge have taken the first formal step towards challenging North Yorkshire Council’s decision in the High Court.

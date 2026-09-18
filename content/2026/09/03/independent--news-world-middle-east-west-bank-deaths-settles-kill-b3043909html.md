@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: The attack comes amid a wave of intensified violence by settler militants
   in the occupied West Bank
 image: https://static.independent.co.uk/2026/09/03/07/2292027234..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Sports
 ---
 
 Two Palestinian teenagers have been killed in an attack by Israeli settler militants and army troops on their village in the occupied West Bank, local officials and the Palestinian health ministry said, amid an uptick in violence by Jewish settlers in the territory.

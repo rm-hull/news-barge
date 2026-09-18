@@ -8,6 +8,9 @@ scraped_at: '2026-09-15T19:41:46Z'
 published: '2026-09-15T00:00:00Z'
 description: That voicemail notification in your inbox could be a phishing lure
 image: https://cdn.mos.cms.futurecdn.net/vg86aqqGf8Pqp6mnfQPGGf-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Phishing](https://cdn.mos.cms.futurecdn.net/vg86aqqGf8Pqp6mnfQPGGf.jpg) 

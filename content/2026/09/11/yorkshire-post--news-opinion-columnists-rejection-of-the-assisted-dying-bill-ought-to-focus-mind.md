@@ -10,6 +10,11 @@ description: The arguments both for and against assisted dying in this country h
   been made with great clarity and passion. This is an issue where perhaps there is
   no right or wrong answer.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjkzYWI2Yzg3LWYwYTAtNDAzZi04NjE1LThhMzc3YTNmZDU5Mzo0MDdkMGQ1NC0xMjMwLTRjYTQtOWViOC1jZTA4NTZiNWEyMjI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Rejection of the assisted dying bill ought to focus minds on the health and care system

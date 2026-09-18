@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: Amazon is facing a new lawsuit from the FTC and 22 states for allegedly
   secretly charging businesses more for advertising.
 image: https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217247219.jpg?w=1024
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Amazon is facing a new lawsuit from the Federal Trade Commission (FTC) and 22 states, which accuse the company of secretly charging businesses more for advertising on its platform.

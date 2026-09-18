@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: The Goon Show Preservation Society has announced a tribute marking the
   75th anniversary of The Goon Show.
 image: https://www.yorkpress.co.uk/resources/images/21363923.jpg?type=og-image&xType=0&yType=15
+categories:
+- Local
+- York
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 *(Image: The Goon Preservation Society)*

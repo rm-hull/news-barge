@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Clive Owen announced the latest cohort of trainees will join its offices,
   including its York site.
 image: https://www.yorkpress.co.uk/resources/images/21373170.jpg?type=og-image&xType=0&yType=241
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Clive Owen)*

@@ -11,6 +11,8 @@ published: '2026-09-08T00:00:00Z'
 description: 'Invoke Studios has said Warlock: Dungeons & Dragons will encourage players
   to explore Darkon by offering a toggleable HUD and minimal waypoint guidance.'
 image: https://cdn.mos.cms.futurecdn.net/PwsuquHd3yKpWaJYLApfiF-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Warlock: Dungeons & Dragons](https://cdn.mos.cms.futurecdn.net/PwsuquHd3yKpWaJYLApfiF.jpg) 

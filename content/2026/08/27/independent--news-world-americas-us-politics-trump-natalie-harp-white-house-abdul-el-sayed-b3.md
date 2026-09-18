@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: Progressive joins in on the jokes around President Donald Trump and the
   role of the White House aide
 image: https://static.independent.co.uk/2026/08/27/11/2291624129..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Michigan Democratic Senate nominee Abdul El-Sayed has again mocked President Donald Trump – who has repeatedly hit out at El-Sayed – over his the role of White House aide Natalie Harp.

@@ -8,6 +8,13 @@ published: '2026-09-17T00:00:00Z'
 description: North Yorkshire Police said the alleged serious sexual offence took place
   last night (Wednesday, September 16) in an alleyway which links…
 image: https://www.gazetteherald.co.uk/resources/images/21467727.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
+- Sports
 ---
 
 A 22-year-old man has been arrested following an allegation of serious sexual assault in York city centre.

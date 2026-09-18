@@ -7,6 +7,9 @@ scraped_at: '2026-09-05T18:13:22Z'
 published: '2026-09-05T00:00:00Z'
 description: The officer has been put on administrative leave pending an investigation
 image: https://static.the-independent.com/2026/09/05/15/32/Screenshot-2026-09-05-at-11-30-05-AM.png?trim=64,0,62,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A Georgia cop has revealed why he shot a family’s beloved pet donkey as his department released the officer’s report to quell outrage over the killing.

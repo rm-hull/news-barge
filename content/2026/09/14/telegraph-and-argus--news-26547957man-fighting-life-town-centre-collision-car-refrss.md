@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: A man is fighting for his life following a collision with a car in a
   Bradford district town centre.
 image: https://www.thetelegraphandargus.co.uk/resources/images/10873066.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Newsquest)*

@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Ashville has praised pupils from its GCSE Class of 2026 after it achieved
   another “excellent” set of grades, complementing the success of its A Level high-performers.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmYwMmFmZmZhLTRlZmYtNDY3ZC1hYzhjLThjZTg1MjhmM2Y5YzowNmQzOTEwYi1lMjcyLTRlNGMtYTE0MS0yZjJiZGRmMzE0N2Q=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 # New Sixth Form Centre in Harrogate awaits for Ashville’s GCSE Class of 2026 celebrating top grades

@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: AN “absolutely phenomenal” £19m college building that will train the
   next generation of automotive engineers has opened in Bradford city centre.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21442646.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

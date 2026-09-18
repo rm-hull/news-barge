@@ -7,6 +7,9 @@ scraped_at: '2026-08-25T16:51:23Z'
 published: '2026-08-25T00:00:00Z'
 description: Emergency services were called to Brent Civic Centre on Tuesday afternoon
 image: https://static.independent.co.uk/2026/08/25/17/01M0WWG6HN4RJMTEFA0XSEDMZE.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A person has died following a stabbing in a building housing a London council headquarters and a library.

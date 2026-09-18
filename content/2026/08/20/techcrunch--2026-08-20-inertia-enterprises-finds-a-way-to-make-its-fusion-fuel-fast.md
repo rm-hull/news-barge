@@ -10,6 +10,9 @@ description: Fusion power startup Inertia Enterprises reduced the fuel filling p
   from a week to just a few hours. It's one of 10 hurdles the company must overcome
   to make a profitable power plant.
 image: https://techcrunch.com/wp-content/uploads/2023/08/nif-1209-18047.jpg?resize=1200,927
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Fusion startup Inertia Enterprises said it has found a way to cut the time it takes to make its fuel pellets from several days to just minutes.

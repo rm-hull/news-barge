@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: MasterChef star Mike Bartley has confirmed the opening date for Jörd
   in Bishop Auckland, with bookings set to open and Kickstarter backers first in…
 image: https://www.thenorthernecho.co.uk/resources/images/17228827.jpg?type=og-image&xType=0&yType=20
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: BBC)*

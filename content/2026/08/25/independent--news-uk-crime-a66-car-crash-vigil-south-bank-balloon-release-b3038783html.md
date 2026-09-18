@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Young people wearing masks arrived on scooters, off-road bikes and quad
   bikes
 image: https://static.independent.co.uk/2026/08/25/10/47/50-PER-USE-PLEASE-FLAG-REUSE-TO-PIC-DESK-fabfb7a9.jpeg?trim=179,0,180,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
+- Technology & Software
 ---
 
 Hundreds of people gathered at a tense vigil after seven people, including two police officers, died in a crash on the A66.

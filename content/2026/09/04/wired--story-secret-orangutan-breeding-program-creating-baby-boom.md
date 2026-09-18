@@ -9,6 +9,10 @@ description: The success of a program linking zoos across the US has created soc
   media stars and generated a wave of interest in how to protect the endangered great
   apes in the wild.
 image: https://media.wired.com/photos/6a98081e0e1a07689023de20/191:100/w_1280,c_limit/Ru_Orangutan-7.jpg
+categories:
+- Technology & Software
+- Science
+- Creator Economy & Marketing
 ---
 
 “It’s a girl!” Melissa Peterson exclaims.

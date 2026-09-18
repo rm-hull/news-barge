@@ -7,6 +7,9 @@ scraped_at: '2026-09-04T18:59:07Z'
 published: '2026-09-04T00:00:00Z'
 description: It's the aftermath of the wedding from hell
 image: https://cdn.mos.cms.futurecdn.net/RqHi9WeL8AsuHJqpvUNV2L-1902-80.png
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Nicola Walker walks across a bridge wearing a leopard print coat. Her hand is bandaged.](https://cdn.mos.cms.futurecdn.net/RqHi9WeL8AsuHJqpvUNV2L.png) 

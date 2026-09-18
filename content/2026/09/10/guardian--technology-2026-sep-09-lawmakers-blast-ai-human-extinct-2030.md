@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Former Anthropic employee Jacob Coxon said AI will become ‘superhuman
   systems’ that can cause human extinction by the end of the decade
 image: https://i.guim.co.uk/img/media/2b7a40c6cbcd6d16367850c23bef249a753aee37/458_0_4583_3668/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b95014e7363150aa31214b9558fd9127
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Just a day after three Anthropic researchers warned that artificial intelligence could kill off humanity within the decade, lawmakers have begun lashing out about the risks of the burgeoning technology.

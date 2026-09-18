@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Gibbins is due in court on Friday after being charged over his offensive
   social media comment
 image: https://static.independent.co.uk/2026/06/11/16/18/Gibbins-1-1000x1024-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Reform has suspended a councillor pending the outcome of legal proceedings after he was charged over a grossly offensive comment on social media regarding Nigerians.

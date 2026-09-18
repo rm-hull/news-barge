@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: A number of North East Beefeater restaurants are set to close permanently
   tomorrow (Thursday, September 10) as part of a major shake-up of the…
 image: https://www.thenorthernecho.co.uk/resources/images/21160872.jpg?type=og-image&xType=0&yType=182
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Travel
 ---
 
 *(Image: Christie Owen & Davies)*

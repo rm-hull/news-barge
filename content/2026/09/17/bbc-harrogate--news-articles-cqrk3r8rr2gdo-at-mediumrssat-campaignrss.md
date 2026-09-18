@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The increase comes despite an overall 5% fall in book issues compared
   with the previous year.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c452/live/ffdfad20-b1b2-11f1-bdcf-d393eb724fa3.jpg
+categories:
+- Local
+- Harrogate
+- Personal Finance & Investing
 ---
 
 ![A community library interior with bookshelves along one wall, a staff member seated at a desk and another person working further back near the children’s section decorated with colourful displays.](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/c452/live/ffdfad20-b1b2-11f1-bdcf-d393eb724fa3.jpg)

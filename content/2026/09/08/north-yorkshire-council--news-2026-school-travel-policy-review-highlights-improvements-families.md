@@ -9,6 +9,12 @@ description: Families could benefit from a series of proposed improvements to sc
   travel arrangements following our pledge to conduct a wide-ranging review of changes
   introduced two years ago.
 image: https://www.northyorks.gov.uk/sites/default/files/2026-09/School%20bus%20latest%201.jpg
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- Society & Culture
 ---
 
 ![A school bus](https://www.northyorks.gov.uk/sites/default/files/2026-09/School%20bus%20latest%201.jpg) 

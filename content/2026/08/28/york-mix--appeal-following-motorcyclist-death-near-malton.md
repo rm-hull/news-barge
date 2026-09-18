@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T11:16:05Z'
 published: '2026-08-28T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/788563318_1376348077993742_4054717335995899187_n.png.jpeg
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 There’s an update following an earlier appeal about a serious crash involving two men on motorcycles.

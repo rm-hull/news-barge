@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: The comedian received the Special Recognition prize at Tuesday night's
   awards.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fbdd/live/f2fe3300-ac2c-11f1-9bd9-7b7da208bd5c.jpg
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
+- Film & TV
+- Arts & Culture
 ---
 
 # Emotional moment as Alan Carr honoured at National Television Awards

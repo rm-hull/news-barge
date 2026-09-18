@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Discover more about Data Centers with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/NfHY3NspCpyezHV8GUeBmL-320-80.png
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![an under construction data center](https://cdn.mos.cms.futurecdn.net/NfHY3NspCpyezHV8GUeBmL-320-80.png)

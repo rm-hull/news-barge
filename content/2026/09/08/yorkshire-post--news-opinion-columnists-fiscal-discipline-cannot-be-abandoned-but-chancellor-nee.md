@@ -10,6 +10,11 @@ description: Chancellor John Healey is right to pledge fiscal discipline ahead o
   his first Budget next month. The idea that markets can be ignored and that Britain
   can just spend its way out of trouble only works in the realm of student politics.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjljMmZiNTAwLWRhZDUtNGZlMC1iZWIwLTNiMzA3OTYwZjMyYzo0NjQ2ZWYzMC0zNmQ4LTRjYzItYjk0MC1jODNhOTQzM2JmMGY=.jpg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # Fiscal discipline cannot be abandoned but Chancellor needs to pull a rabbit out of the hat at his first Budget

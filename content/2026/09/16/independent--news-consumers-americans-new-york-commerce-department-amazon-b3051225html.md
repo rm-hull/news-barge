@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Consumers stepped up their spending at a better-than-expected pace in
   August after an unexpectedly sharp pullback in July
 image: https://static.independent.co.uk/2026/09/16/13/Gasoline_Prices_Colorado_11941.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Consumers stepped up their spending at a better-than-anticipated pace in August after an unexpectedly sharp pullback in July.

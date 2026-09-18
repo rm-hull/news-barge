@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Ten people were reportedly stung by bees at the Intel manufacturing campus
   in Chandler, Arizona on Monday
 image: https://static.independent.co.uk/2026/09/14/19/20/Screenshot-2026-09-14-at-3-15-06-PM.jpg?trim=7,0,7,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- Technology & Software
 ---
 
 Three people have been hospitalized as a massive swarm of bees invaded an Intel manufacturing campus in Arizona and terrorized employees.

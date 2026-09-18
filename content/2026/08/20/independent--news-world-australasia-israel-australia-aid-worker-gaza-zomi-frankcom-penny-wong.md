@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Australian foreign minister says Israel’s decision ‘falls far short of
   the accountability we expect’
 image: https://static.independent.co.uk/2024/04/03/11/f85cf0ff-05db-4ad5-a48a-d530e2e17cc3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Australia’s foreign minister has said she is “outraged” over Israel’s decision not to pursue criminal proceedings against those involved in the 2024 Gaza strike that killed aid worker Zomi Frankcom and six other World Central Kitchen employees.

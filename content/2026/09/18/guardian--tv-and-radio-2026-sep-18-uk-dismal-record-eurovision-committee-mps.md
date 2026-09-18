@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Digital, culture, media and sport committee expected to hear evidence
   from BBC bosses and music industry experts
 image: https://i.guim.co.uk/img/media/77c3fd6417e6a36aeade1584e3e1d18f0f94a0bf/1648_60_5413_4334/master/5413.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9ae824ef40c41579335b994be093d07a
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Joe and Jake. Daz Sampson. Electro Velvet. Who could forget them?

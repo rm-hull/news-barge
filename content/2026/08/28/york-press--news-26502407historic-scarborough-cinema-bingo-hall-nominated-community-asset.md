@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: AN historic North Yorkshire leisure venue has been successfully nominated
   as an asset of community value.
 image: https://www.yorkpress.co.uk/resources/images/21381797.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
+- History
 ---
 
 ## Historic North Yorkshire cinema and bingo hall nominated as community asset

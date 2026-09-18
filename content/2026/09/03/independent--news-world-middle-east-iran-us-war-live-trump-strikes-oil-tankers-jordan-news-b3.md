@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Fighting between the US and Iran has seen the biggest exchange of fire
   since July
 image: https://static.independent.co.uk/2026/09/01/20/01/GettyImages-2292878242.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 President Donald Trump has said that the US is prepared to launch another attack on Iran at “any time”.

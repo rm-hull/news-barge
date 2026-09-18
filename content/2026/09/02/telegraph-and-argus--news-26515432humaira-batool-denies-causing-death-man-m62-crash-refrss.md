@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: A Bradford woman has denied causing the death of a man in a high-speed
   motorway crash involving a Lamborghini.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21401186.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 *(Image: West Yorks Police)*

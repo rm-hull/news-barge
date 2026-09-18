@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T19:54:04Z'
 published: '2026-09-07T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/07/st-sampsons-york-beer-garden-1.webp
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 York’s newest beer garden is set to become permanent.

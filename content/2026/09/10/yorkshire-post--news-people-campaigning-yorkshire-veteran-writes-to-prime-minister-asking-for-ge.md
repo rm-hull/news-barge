@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: An army veteran from Hull has issued a rallying call to local residents
   to sign an open letter to Prime Minister Andy Burnham.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM4YmIxZTc0LWM5NmItNDc5Mi1iZmFiLTFiYTI1NWU5MmZmMDowYzAyMmFjMC04OTg1LTQ3NzktYmRhNC1hMTY0ZWM2ZDQ2Mzk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Campaigning Yorkshire veteran writes to Prime Minister asking for 'generational shift'

@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Heart disease is is the leading cause of death for people with Type 2
   diabetes
 image: https://static.independent.co.uk/2026/08/03/14/46/GettyImages-2280584455-(1).jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 The U.S. Food and Drug Administration has approved the diabetes drug Mounjaro to lower the risk of major cardiovascular events in adults with Type 2 diabetes.

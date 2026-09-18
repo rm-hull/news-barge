@@ -9,6 +9,12 @@ description: Shinjuku ward targets accommodation in residential areas and near c
   sites as locals complain visitors disposing of rubbish improperly and being too
   noisy
 image: https://i.guim.co.uk/img/media/f4e2c4e9c7a0abdbbcdd9da0a11ed42ed9929853/47_0_3559_2847/master/3559.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7cfe33148f8250bcb5895c7c82444400
+categories:
+- UK
+- News & Politics
+- Travel
+- Society & Culture
+- Arts & Culture
 ---
 
 A neighbourhood in Tokyo popular with foreign tourists will ban visitors from using thousands of short-term rental accommodations after a slew of complaints about behaviour.

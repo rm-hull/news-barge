@@ -9,6 +9,9 @@ published: '2026-08-28T00:00:00Z'
 description: ‘Lake America? Lake America? You sad weirdo, NSNOW’s Chris Hayes says.
   ;Nobody wants this. You know what they want? They want cheaper gas’
 image: https://static.independent.co.uk/2026/08/28/7/42/Screenshot-2026-08-28-at-08-50-12.png?trim=0,0,37,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 MSNOW anchor Chris Hayes branded President Trump as “deeply pathetic” over the commander-in-chief’s bid to rename Lake Ontario.

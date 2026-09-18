@@ -9,6 +9,9 @@ published: '2026-09-17T00:00:00Z'
 description: The country’s migration settings have become a source of discontent –
   but will Tony Burke’s approach be seen as the right mix?
 image: https://i.guim.co.uk/img/media/23e0642a95fa00b2db1c1086e56a5c793e0ff2b0/505_0_5023_4021/master/5023.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b5e53a53d220d5960e33bbfc5e06583b
+categories:
+- UK
+- News & Politics
 ---
 
 Tony Burke has promised to make Labor’s existing migration policy work better rather than announcing a dramatic cut in numbers, arguing that populist promises to slash net overseas migration will “trash Australian services and trash the Australian economy”.

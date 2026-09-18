@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Residents, councillors, animal welfare advocates and health professionals
   gathered in Bradford city centre this weekend to call for stronger action…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21458384.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: T&A)*

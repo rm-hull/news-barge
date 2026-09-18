@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: Caffe Ginevra has four coffee shops around the north east including in
   Blyth and it can be found just steps away from the beach.
 image: https://www.thenorthernecho.co.uk/resources/images/21463642.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Travel
 ---
 
 *(Image: Tripadvisor)*

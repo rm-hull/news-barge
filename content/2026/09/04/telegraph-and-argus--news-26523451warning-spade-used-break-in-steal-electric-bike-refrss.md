@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: A thief used a garden spade to break into a Bradford district home and
   steal an electric bike.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21412446.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: Pixabay)*

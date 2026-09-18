@@ -10,6 +10,9 @@ description: Congo has received more than 16,000 doses of the Ervebo vaccine as 
   country grapples with the fastest Ebola outbreak in history, the country’s health
   minister said
 image: https://static.independent.co.uk/2026/08/22/09/Congo_Ebola_4_946.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Congo has received more than 16,000 doses of the Ervebo vaccine as the country grapples with the fastest Ebola outbreak in history, the country's health minister said.

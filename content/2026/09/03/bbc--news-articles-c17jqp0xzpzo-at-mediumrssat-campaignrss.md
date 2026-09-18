@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: The WMO has warned that the natural weather phenomenon could bring disruption
   to global economies.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067c/live/99ebc3c0-a70b-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![An aerial shot showing boats moving through brown floodwaters in a street. To the right are some trees and telephone wires, to the left is a corrugated iron building and some machinery.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/b726/live/54120bc0-a6bb-11f1-ae1e-219da1d6451a.jpg)

@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The ferry operator said a person was reported overboard on the MV Caledonian
   Isles 16:40 sailing from Brodick to Ardrossan.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/19ee/live/942278c0-9d8e-11f1-adf5-2dc21c9cc109.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![A crowd of people stands on a grassy area beside Clyde Marina, with yachts and sailboat masts visible behind a fence in the background. A large blue building marked “CLYDE MARINA” stands to the left, while people gather along the roadside and waterfront under bright sunshine. A speed limit sign and several parked vehicles are visible near the marina entrance.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/19ee/live/942278c0-9d8e-11f1-adf5-2dc21c9cc109.jpg)

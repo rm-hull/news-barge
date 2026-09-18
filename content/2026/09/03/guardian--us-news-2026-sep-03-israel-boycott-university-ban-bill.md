@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: GOP-backed bill mandates institutions receiving federal funds not impose
   restrictions on programs related to Israel
 image: https://i.guim.co.uk/img/media/0a3730162c2eced8a08078192216188966e783c8/901_403_5999_4800/master/5999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46612ab6f73b3f23a10e4243e1206657
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The US House of Representatives on Thursday passed a Republican-backed bill that would penalize universities that participate in boycotts of Israel, or attempt to prevent students from taking part in exchange programs with the country.

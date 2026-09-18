@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: North East health experts and organ donation nurses at University Hospitals
   Tees are urging more people to become donors during Organ Donation Week,…
 image: https://www.thenorthernecho.co.uk/resources/images/21463369.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

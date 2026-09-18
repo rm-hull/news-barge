@@ -9,6 +9,12 @@ published: '2026-09-15T00:00:00Z'
 description: A school supporting children with complex needs has been given exceptional
   Ofsted ratings for behaviour, inclusion and attendance - with strong…
 image: https://www.thenorthernecho.co.uk/resources/images/21451962.jpg?type=og-image&xType=0&yType=63
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
+- Society & Culture
 ---
 
 *(Image: Google Maps)*

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Newcastle United sporting director Ross Wilson says the club were preparing
   for former head coach Eddie Howe's departure for up to nine months.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e877/live/2efe0d10-aa90-11f1-ab09-7f2415c9a652.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Eddie Howe, wearing a black-and-white tracksuit stop, looks on before a Newcastle match](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e877/live/2efe0d10-aa90-11f1-ab09-7f2415c9a652.jpg)

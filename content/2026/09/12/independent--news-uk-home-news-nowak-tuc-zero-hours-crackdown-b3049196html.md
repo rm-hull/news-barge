@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: ‘It’s time for government to face down the business lobbyists and deliver
   its zero-hours crackdown in full,’ Paul Nowak is set to say at TUC Congress in Brighton
 image: https://static.independent.co.uk/2026/05/21/20/01KRWTRHVV9NRRXWENRR7M8EMR.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The Government is facing calls to follow through on its promised crackdown on zero-hours contracts, with union chiefs dismissing arguments against the policy as "baseless myths".

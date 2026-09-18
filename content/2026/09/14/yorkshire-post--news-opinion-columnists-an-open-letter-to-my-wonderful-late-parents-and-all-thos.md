@@ -11,6 +11,11 @@ description: Today I write a letter to my parents. It is almost a decade since m
   and still talk to them as I pass their photographs, a visible reminder of the unbreakable
   bond we were lucky enough to share.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZjNTVlZGIyLTc3MWYtNDIxMS05Y2EwLTI4ZGQ1YmM5YzM3OTo2MjVmNTFjZi0wMjQ5LTQ5MzctYTQ3NS0xNmJlNDljMjZkNjU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 # An open letter to my wonderful late parents and all those who adopt: Christa Ackroyd

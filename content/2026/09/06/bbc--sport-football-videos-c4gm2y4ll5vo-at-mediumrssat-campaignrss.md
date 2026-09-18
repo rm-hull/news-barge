@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Reigning champions Arsenal came from behind to beat big-spending Chelsea
   in a pulsating London derby at Emirates Stadium.
 image: https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ce40/live/0bbdd2d0-aa19-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 # Champions Arsenal come from behind to beat Chelsea

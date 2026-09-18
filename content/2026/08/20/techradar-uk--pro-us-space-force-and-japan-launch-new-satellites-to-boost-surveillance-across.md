@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: The U.S. and Japan just finished a secretive space project built specifically
   for watching threats in orbit
 image: https://cdn.mos.cms.futurecdn.net/f9dGRdQ2sWSAuYynbUZhNN-1920-80.png
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Quasi-Zenith Satellite 7 launches U.S. Space Domain Awareness payload](https://cdn.mos.cms.futurecdn.net/f9dGRdQ2sWSAuYynbUZhNN.png) 

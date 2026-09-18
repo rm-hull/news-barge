@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Experts warn low storage levels could push up gas prices further, leaving
   households with higher bills.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e55d/live/76f88ba0-a792-11f1-b64a-71b1e45ff5c7.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![A picture of a woman in a red t shirt and jeans leaned back on a sofa checking her energy consumption on a mobile app.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/e55d/live/76f88ba0-a792-11f1-b64a-71b1e45ff5c7.jpg)

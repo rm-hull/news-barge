@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: Save up to £270 on Canon cameras in this limited-time World Photography
   Day sale.
 image: https://cdn.mos.cms.futurecdn.net/G3NtUZuyX4M9Z4MH4Fyyua-2560-80.jpg
+categories:
+- Technology & Software
+- Photography & Video
 ---
 
 ![Canon EOS R6 Mark III](https://cdn.mos.cms.futurecdn.net/G3NtUZuyX4M9Z4MH4Fyyua.jpg) 

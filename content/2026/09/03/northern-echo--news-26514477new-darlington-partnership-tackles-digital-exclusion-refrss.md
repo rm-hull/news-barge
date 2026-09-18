@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: A new partnership between Learning & Skills Darlington and Teesside-based
   charity Furbd is aiming to tackle digital exclusion for adult learners.
 image: https://www.thenorthernecho.co.uk/resources/images/21400097.jpg?type=og-image&xType=0&yType=165
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Education & Learning
 ---
 
 *(Image: Darlington Borough Council)*

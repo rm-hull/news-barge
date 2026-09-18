@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: The Society of Professional Journalists is revising its Code of Ethics
   for the first time since 2014
 image: https://static.independent.co.uk/2026/09/01/15/Media_Ethics_Code_2_148.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Arts & Culture
 ---
 
 Walk into a corner of a newsroom somewhere and you can often find it affixed to a bulletin board, perhaps peeking out from behind the coffee pot: the Society of Professional Journalists’s Code of Ethics. It’s less than a thousand words, fitting neatly on a poster.

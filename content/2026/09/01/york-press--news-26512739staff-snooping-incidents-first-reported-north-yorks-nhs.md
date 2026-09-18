@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The NHS Trust that runs York and Scarborough hospitals has apologised
   after providing inaccurate figures regarding the wrongful access of patient…
 image: https://www.yorkpress.co.uk/resources/images/7285255.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 ## York NHS apologises over inaccurate data on staff snooping incidents

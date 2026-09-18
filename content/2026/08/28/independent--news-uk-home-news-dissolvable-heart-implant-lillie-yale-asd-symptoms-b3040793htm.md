@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: 'Lillie Yale received the device, known as Memosorb, to treat an atrial
   septal defect: a hole in the wall that divides the two upper chambers of the heart'
 image: https://static.independent.co.uk/2026/08/27/18/01M10WPKDBXHMZA8RV62W9TP0G.jpg?trim=286,0,1022,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A teenage girl has become the first UK patient to receive a dissolvable implant designed to close a hole in her heart roughly the size of a 10 pence piece.

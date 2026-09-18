@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T08:52:14Z'
 published: '2026-08-20T00:00:00Z'
 description: Lily Hooper, 18, disappeared while hiking in Nattai National Park
 image: https://static.independent.co.uk/2026/08/20/7/11/lily.jpg?trim=24,0,415,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 The body of an 18-year-old woman has been discovered more than a week after she disappeared while hiking in a remote area of New South Wales in Australia.

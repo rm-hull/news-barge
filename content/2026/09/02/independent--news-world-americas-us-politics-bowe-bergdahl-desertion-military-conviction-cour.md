@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Bergdahl, then a 23-year-old soldier, was stationed near Afghanistan's
   Paktika Province in June 2009 when he walked off his post without permission
 image: https://static.independent.co.uk/2026/09/02/15/37/AP26245495556296.jpg?trim=20,201,133,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 An appellate court has ruled that a federal judge lacked the authority to overturn former U.S. Army soldier Bowe Bergdahl's military conviction for deserting his post in Afghanistan prior to being abducted and held captive by Taliban-allied forces for nearly five years.

@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Two nonprofit organizations and 11 individuals, including six whose family
   members had been refused visas, challenged the policy
 image: https://static.independent.co.uk/2026/08/13/20/2288661691..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A federal judge in New York has struck down a Trump administration policy that suspended visa processing for citizens of 75 nations, including Afghanistan, Iran, Russia, and Somalia, whose nationals were deemed likely to require public assistance in the United States.

@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Cara Severino has spoken with her parents – but still faces a trek of
   more than 110km to reach Kathmandu on foot
 image: https://i.guim.co.uk/img/media/0d963d94c8e8e396ecb85228fcc92b2090f826ea/49_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=24abb5fa8219f813d1cb19a6d836c456
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 An Australian woman has made contact with her family, more than two days after she was reported missing in flash flooding in Nepal.

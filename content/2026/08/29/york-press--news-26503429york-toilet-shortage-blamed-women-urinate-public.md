@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Have you ever been caught short in York? An eye-witness shares an account
   and sets out why this is happening in York
 image: https://www.yorkpress.co.uk/resources/images/21383360.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
+- Lifestyle & Fashion
 ---
 
 ## Why two middle-aged women ended up urinating in York streets

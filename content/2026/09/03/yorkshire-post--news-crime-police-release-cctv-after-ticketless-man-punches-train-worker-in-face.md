@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Police have released CCTV of a man suspected of punching a train worker
   in the face when told to leave for not having a ticket.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/03/17/27/unnamed.png?trim=103,47,245,54&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Police release CCTV after ticketless man punches train worker in face

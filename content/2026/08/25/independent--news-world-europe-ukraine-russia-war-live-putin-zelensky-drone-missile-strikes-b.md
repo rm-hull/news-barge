@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Kyiv said it would look to strengthen its air defences in the region
   after talks with Andy Burnham on Monday
 image: https://static.independent.co.uk/2026/08/24/11/download..?trim=291,739,530,663&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Moscow has claimed it has hit a cargo ship in the Black Sea hours after Ukraine called for a “diplomatic” solution to escalating strikes.

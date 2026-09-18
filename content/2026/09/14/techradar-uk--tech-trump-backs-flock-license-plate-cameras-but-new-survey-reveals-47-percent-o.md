@@ -10,6 +10,9 @@ published: '2026-09-14T00:00:00Z'
 description: Amid police officer arrests and public opposition, Trump backs Flock’s
   controversial camera tech.
 image: https://cdn.mos.cms.futurecdn.net/idpsZZhdNRpeivNkS6A56g-2000-80.jpg
+categories:
+- Technology & Software
+- News & Politics
 ---
 
 ![Donald Trump during a speech next to a photo of a Flock camera](https://cdn.mos.cms.futurecdn.net/idpsZZhdNRpeivNkS6A56g.jpg) 

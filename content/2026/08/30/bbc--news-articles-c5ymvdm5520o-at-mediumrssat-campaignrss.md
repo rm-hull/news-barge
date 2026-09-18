@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Rajendra Dawadi leapt into action after receiving warnings over waters
   heading towards his school.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2da6/live/8518ba10-a482-11f1-bed8-470734b5b662.png
+categories:
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 Watch: Teacher saved the lives of 900 students after phone call

@@ -8,6 +8,9 @@ published: '2026-09-05T00:00:00Z'
 description: The second season of the Ohio-based Office spinoff is just around the
   corner. But when can you catch The Paper season 2 on Peacock?
 image: https://cdn.mos.cms.futurecdn.net/brsiyJsVkh5Twvg768GZTR-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![A promotional shot of the cast of The Paper season 2](https://cdn.mos.cms.futurecdn.net/brsiyJsVkh5Twvg768GZTR.jpg) 

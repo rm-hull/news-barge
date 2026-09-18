@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Paul Berriff says his life expectancy has been cut short because of being
   buried under rubble.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0126/live/bca22f20-ad15-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ![A man wearing a blue shirt and white ID badge stands in the destruction of the twin towers attack. There are metal girders sticking up and a digger behind them too.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0126/live/bca22f20-ad15-11f1-a540-61c3f7fc4e6c.jpg)

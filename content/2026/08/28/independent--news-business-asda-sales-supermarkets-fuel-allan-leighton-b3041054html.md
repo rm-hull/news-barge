@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Boss Allan Leighton suggested that the company has now completed roughly
   one third of this restructuring process
 image: https://static.independent.co.uk/2026/08/28/14/01KAGHAM9F7B7E2KHEGFKR0NB7.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 Asda has revealed that sales are on track to grow for the first time in two years, despite pressure on household budgets caused by the broader economic environment.

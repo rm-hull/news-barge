@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: The incredible Cuore Chamber Orchestra is to return to its home venue
   of Harrogate’s Royal Hall for the opening concert of its 2026-27 season.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjE4ZjhkMzY4LWIxZjctNDM3YS1iNzk0LWZlOTI0MzFlNjM3YzoxMDQzNzhhNC1hOTljLTQ3OTYtOTkxMS0zNTlmNjgyYzdmNGY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 # Looking ahead to the opening event of acclaimed Harrogate orchestra's new season

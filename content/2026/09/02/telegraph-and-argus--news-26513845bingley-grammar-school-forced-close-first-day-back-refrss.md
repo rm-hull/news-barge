@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Bingley Grammar School will be closed today, which was due to be its
   first day for students.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21399322.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Google Street View)*

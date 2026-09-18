@@ -9,6 +9,10 @@ description: A U.S. judge on Wednesday dismissed a lawsuit by Elon Musk's X seek
   to void a New York state law requiring social media companies to disclose how they
   monitor hate speech
 image: https://static.independent.co.uk/2026/08/26/13/40/GettyImages-2212189919.jpg?trim=385,57,268,924&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A federal judge has thrown out a lawsuit brought by Elon Musk's X, which sought to overturn a New York state law requiring social media companies to disclose how they monitor hate speech, extremism, harassment, foreign political interference, and disinformation.

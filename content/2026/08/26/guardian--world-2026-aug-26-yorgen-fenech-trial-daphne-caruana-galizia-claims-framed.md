@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Yorgen Fenech tells jury he had nothing to do with killing and alleges
   top adviser to Malta’s then PM was instigator
 image: https://i.guim.co.uk/img/media/b49f6bacf15503bab51f575e83720254653c040e/0_434_2463_1971/master/2463.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=894724b855c0ca4f99f2673e1c42fae8
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 A businessman on trial for the murder of the journalist Daphne Caruana Galizia has spoken about the charges for the first time in court since his arrest seven years ago, telling the jury he was framed by police and had nothing to do with the killing.

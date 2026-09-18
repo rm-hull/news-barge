@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: The Southeastern Conference is taking LSU to federal court in Alabama
   to prevent former NFL players from joining LSU's football team
 image: https://static.independent.co.uk/2026/08/25/01/WRIGHT-NFL_LSU_4381_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The Southeastern Conference's next — and maybe last — chance to keep players who spent time with NFL teams this summer from being added to LSU's football roster comes in a federal court in Alabama.

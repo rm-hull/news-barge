@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Steve Witkoff and Jared Kushner have led President Donald Trump's efforts
   to end the Russia-Ukraine war - but talks have stalled.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e39/live/bcf0df00-a86d-11f1-bbad-43eaf67b94b6.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![US negotiators Jared Kushner (left) and Steve Witkoff. Photo: April 2026](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/0e39/live/bcf0df00-a86d-11f1-bbad-43eaf67b94b6.jpg)

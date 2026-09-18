@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The Groovy Baby ‘I Spy a Fly’ failed to meet toy safety regulations,
   authorities said
 image: https://static.independent.co.uk/2026/09/16/16/11/ispy-a-fly-cover-9ce6141b.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 A children’s book has been urgently recalled from stores including Aldi and TK Maxx as it poses a risk of choking small children.

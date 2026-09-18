@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: AI risks widening the gap between the rich and poor unless it is deliberately
   built to serve people in the world’s poorest countries, new report says
 image: https://static.independent.co.uk/2026/09/14/17/2026-08-18T161021Z_238532188_RC21P1A1X29H_RTRMADP_3_ETCHED-FUNDING.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Billions of people risk being left behind by artificial intelligence because it does not understand their languages or the conditions they live in, the Gates Foundation has warned.

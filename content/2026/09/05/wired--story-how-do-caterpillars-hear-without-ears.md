@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: The research could do more than help unlock the mystery of caterpillar
   hearing. It could also help make microphones better.
 image: https://media.wired.com/photos/6a99561e6f7d62b638e21691/191:100/w_1280,c_limit/GettyImages-1404567195.jpg
+categories:
+- Technology & Software
+- Science
+- Self-Improvement
 ---
 
 In a quiet summer garden, a caterpillar perches on a branch, munching serenely on leaves. A moment later it freezes. It senses danger—and just in time. From behind, a wasp approaches, sizing up its prey.

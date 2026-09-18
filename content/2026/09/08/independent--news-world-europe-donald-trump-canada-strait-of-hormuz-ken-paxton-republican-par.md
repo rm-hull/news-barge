@@ -10,6 +10,11 @@ description: Canada struck back at U.S. President Donald Trump on Tuesday with t
   on about $20 billion worth of U.S. goods, in response to his latest round of tariffs
   on Canada
 image: https://static.independent.co.uk/2026/09/08/23/APTOPIX_Trump_37445.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Canada struck back at U.S. President Donald Trump on Tuesday with tariffs on about $20 billion worth of U.S. goods, in response to the latest round of tariffs on Canada. The outcome could resonate far beyond Canada, showing other governments whether a smaller U.S. ally can withstand Trump’s economic pressure.

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Ella was given the role after going to a job fair, but the group's "head
   office" is an empty property and claims on its website are false.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8bcd/live/7d8d0580-8a65-11f1-b2ab-0dd01740f9f6.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![Portrait of Ella with shoulder-length dark hair featuring pink highlights, standing outdoors in a Paisley town square. She is wearing a dark long-sleeved top and a small pendant necklace. Buildings, a bus, trees, and street activity appear softly blurred in the background under a partly cloudy sky.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/8bcd/live/7d8d0580-8a65-11f1-b2ab-0dd01740f9f6.jpg)

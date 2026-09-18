@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Plans to gate off a notorious Bradford city centre alleyway that “attracts
   serious criminal activity” have been approved.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21379475.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: T&A)*

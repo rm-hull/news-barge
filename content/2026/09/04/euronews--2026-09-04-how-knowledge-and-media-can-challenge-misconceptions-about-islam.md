@@ -10,6 +10,11 @@ description: 'Organised by the Islamic Civilization Center in Uzbekistan, the fo
   responsibility for misrepresentations of Islam and journalistic independence to
   Europe’s closer engagement with Central Asia. #Focus'
 image: https://images.euronews.com/articles/stories/09/88/65/76/1200x675_cmsv2_cf314b36-e101-5171-9a0c-49db9d99427c-9886576.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
+- Technology & Software
 ---
 
 ## Organised by the Islamic Civilization Center in Uzbekistan, the forum gathered nearly 300 participants from around 50 countries. Discussions ranged from responsibility for misrepresentations of Islam and journalistic independence to Europe’s closer engagement with Central Asia.

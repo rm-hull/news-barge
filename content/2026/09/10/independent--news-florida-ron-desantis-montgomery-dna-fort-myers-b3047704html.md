@@ -10,6 +10,11 @@ description: A Florida man convicted in one of a series of suspected killings th
   became known as the “Hog Trail Murders” in the 1990s is scheduled to become the
   state’s 15th person executed this year
 image: https://static.independent.co.uk/2026/08/18/05/Florida_Execution_64661.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Society & Culture
 ---
 
 A Florida man convicted in one of a series of suspected killings that became known as the "Hog Trail Murders” in the 1990s was scheduled Thursday to become the state's 15th person executed this year.

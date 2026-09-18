@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: An environmental group have accused Yorkshire Water of not protecting
   members of the public from sewage pollution in North Yorkshire.
 image: https://www.thenorthernecho.co.uk/resources/images/17908862.jpg?type=og-image&xType=0&yType=167
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Yorkshire Water has defended its record on improving water quality in the River Swale after campaigners accused the company of failing to move quickly enough to protect swimmers from sewage pollution.

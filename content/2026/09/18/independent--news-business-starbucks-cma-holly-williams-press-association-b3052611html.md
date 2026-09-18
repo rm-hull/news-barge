@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: The Co-operative group will reveal how it has fared in the six months
   to July and progress with its cost cutting programme.
 image: https://static.independent.co.uk/2025/11/10/00/07175031-6d9107b3-e32f-4ac1-b9c9-d74f3e16b2c6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The Co-op will update on its recovery efforts in interim results on Wednesday after a difficult start to the year for the group amid management upheaval and tougher trading.

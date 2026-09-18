@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: Norwegians have gathered for memorial services honoring the late King
   Harald V, who died at 89
 image: https://static.independent.co.uk/2026/08/30/11/Norway_Royals_49534.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Norwegians across the country lined up early Sunday in front of cathedrals and churches for memorial services held for the late King Harald V, who died at 89.

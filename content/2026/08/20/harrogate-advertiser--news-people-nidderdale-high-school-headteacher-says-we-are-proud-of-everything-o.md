@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Nidderdale High School is celebrating the success of its Year 11 students
   as they collect their GCSE exam results in a range of subjects.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjJhZDk0YzgwLTViODUtNGRlMy1hYWM4LTg4ODdmNmIxNzUwNjo0OThlODEzMy1mNzNiLTQzYWMtYjc4My04NmEzYjU2NjFiZDE=.jpg?crop=3:2,smart&trim=&width=1086&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 # Nidderdale High School headteacher says 'we are proud of everything our school community has done'

@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The woman charged in connection with a “glassing” in York city centre
   did not attend court for her case's first hearing before a crown…
 image: https://www.yorkpress.co.uk/resources/images/21335458.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Staff)*

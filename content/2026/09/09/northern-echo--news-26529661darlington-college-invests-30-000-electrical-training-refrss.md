@@ -9,6 +9,12 @@ published: '2026-09-09T00:00:00Z'
 description: DARLINGTON College has invested nearly £30,000 in upgrading its electrical
   training facilities.
 image: https://www.thenorthernecho.co.uk/resources/images/21422162.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 *(Image: Supplied)*

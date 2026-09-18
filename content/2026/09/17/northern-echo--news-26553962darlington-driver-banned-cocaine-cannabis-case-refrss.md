@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Damon Michael Bridges, 50, of Coatham Mundeville, Darlington, has been
   banned from driving for 56 days after admitting being in charge of a Ford…
 image: https://www.thenorthernecho.co.uk/resources/images/20765304.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Newsquest)*

@@ -7,6 +7,10 @@ scraped_at: '2026-09-16T13:27:48Z'
 published: '2026-09-16T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/a1m-j44-a64-aerial-gsv.webp
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 There are rush hour problems at a major road junction near York this morning (Wednesday).

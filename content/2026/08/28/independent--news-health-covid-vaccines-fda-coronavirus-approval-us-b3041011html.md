@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: The vaccines are expected to roll out at hospitals and pharmacies in
   just days
 image: https://static.independent.co.uk/2026/08/28/15/2242751862..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 The U.S. Food and Drug Administration has approved updated Covid vaccines as cases of coronavirus continue to surge this month across the nation.

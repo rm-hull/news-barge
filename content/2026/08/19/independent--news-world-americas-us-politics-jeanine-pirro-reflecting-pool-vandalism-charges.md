@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Prosecutors suggest a case against David Hearn could be ‘re-presented’
   unless a judge agrees to the Olympian’s motion to throw out the case
 image: https://static.independent.co.uk/2026/08/04/09/2284371606..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Despite dropping felony charges against a 67-year-old former Olympian accused of vandalizing the Lincoln Memorial Reflecting Pool, Donald Trump’s top federal prosecutor in Washington, D.C. isn’t ready to close the case.

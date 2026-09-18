@@ -10,6 +10,10 @@ description: A federal judge will consider whether to free Andrew and Tristan Ta
   from a Miami detention center while they challenge extradition to face rape and
   sex trafficking charges in the United Kingdom
 image: https://static.the-independent.com/2026/07/19/12/Tate_Brothers__2484.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A federal judge will decide Thursday whether social media influencers Andrew and Tristan Tate can walk out of a Miami detention center while they fight extradition to Britain on rape and sex trafficking charges.

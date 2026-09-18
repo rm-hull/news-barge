@@ -8,6 +8,11 @@ scraped_at: '2026-08-30T13:47:36Z'
 published: '2026-08-30T00:00:00Z'
 description: A taste of Sri Lanka and the Philippines has arrived at Shipley Market.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21386823.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 A TASTE of Sri Lanka and the Philippines has arrived at a local market.

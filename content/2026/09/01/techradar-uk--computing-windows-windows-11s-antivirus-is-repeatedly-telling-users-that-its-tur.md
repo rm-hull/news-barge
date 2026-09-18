@@ -10,6 +10,9 @@ published: '2026-09-01T00:00:00Z'
 description: Think Windows 11's antivirus is broken? Thankfully it isn't, although
   the app is suffering from a pretty frustrating bug.
 image: https://cdn.mos.cms.futurecdn.net/f5rHgMjfhkWWcCmCmjKyUj-1920-80.jpg
+categories:
+- Technology & Software
+- Society & Culture
 ---
 
 ![Annoyed Windows 11 user looking unhappy at their laptop](https://cdn.mos.cms.futurecdn.net/f5rHgMjfhkWWcCmCmjKyUj.jpg) 

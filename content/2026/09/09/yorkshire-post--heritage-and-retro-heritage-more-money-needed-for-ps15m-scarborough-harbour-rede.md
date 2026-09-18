@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: The cost of a major harbour redevelopment project in North Yorkshire
   has increased since it was approved, the council has said.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE5YjMwOTY5LTUzY2ItNGFjYy04OWJjLWFjNjAzY2M5ZDE2ZTpmYjAwMTdlMC00NGY3LTQyMGItOTJhOS0wNzc2M2VmOGIwM2Q=.png?crop=3:2,smart&trim=&width=813&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # More money needed for £15m Scarborough harbour redevelopment, says council

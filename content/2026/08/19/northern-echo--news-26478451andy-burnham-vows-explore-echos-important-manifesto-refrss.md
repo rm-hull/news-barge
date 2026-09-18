@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Prime Minister Andy Burnham has vowed to explore The Northern Echo’s
   "important" manifesto of six key priorities we want to see deliver.
 image: https://www.thenorthernecho.co.uk/resources/images/21342506.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Scott Heppell/PA Wire)*

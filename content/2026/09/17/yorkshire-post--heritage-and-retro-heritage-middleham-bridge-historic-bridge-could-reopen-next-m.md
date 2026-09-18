@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Middleham Bridge could reopen by the end of next month as plans progress
   to make the historic structure safe after it was hit by a lorry.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjBmYjk2ZWYyLWEzZmQtNDBiYy05ZGJmLWIwZmQ1MzhlMThkZjo4NDg1Y2FjMC0zMWNkLTQ0MjMtYThhYS1jYTcxZjIyZTBmODg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Middleham Bridge: Historic bridge could reopen next month after being hit by lorry

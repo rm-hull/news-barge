@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: A neurodivergent mum from Harrogate who spent nine months feeling trapped
   and overwhelmed inside her changing body, terrified for her unborn baby and
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/Ella-Smith-Dunn-2.webp
+categories:
+- Local
+- Harrogate
+- Health & Fitness
+- Family & Parenting
 ---
 
 A neurodivergent mum from Harrogate who spent nine months feeling trapped and overwhelmed inside her changing body, terrified for her unborn baby and struggling with “permanent anxiety”, is sharing her experience publicly for the first time as part of a new drive from Cocoon Healthcare, calling for greater awareness of neurodivergent motherhood and more adaptive maternity care. After an emergency c-section, Ella Smith-Dunn then struggled to bond with her newborn and remembers looking at her crying baby just two weeks later and asking her husband, “What have I done?”.

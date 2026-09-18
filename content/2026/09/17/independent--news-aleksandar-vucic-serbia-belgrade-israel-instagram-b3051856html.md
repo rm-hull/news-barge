@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Serbia’s President Aleksandar Vucic says he has inaugurated an assembly
   factory for Israeli drones in the Balkan country
 image: https://static.independent.co.uk/2026/09/17/12/Serbia_Israel_6769_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Serbia's President Aleksandar Vucic said Thursday he has inaugurated an assembly factory for Israel-made drones in the Balkan country to boost its military.

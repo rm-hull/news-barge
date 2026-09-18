@@ -8,6 +8,10 @@ scraped_at: '2026-08-27T12:01:32Z'
 published: '2026-08-27T00:00:00Z'
 description: Tougher standards mean businesses need to rethink their approach
 image: https://cdn.mos.cms.futurecdn.net/5pmsJs3KfnrtbsM98UsnG9-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![Android phone malware](https://cdn.mos.cms.futurecdn.net/5pmsJs3KfnrtbsM98UsnG9.jpg) 

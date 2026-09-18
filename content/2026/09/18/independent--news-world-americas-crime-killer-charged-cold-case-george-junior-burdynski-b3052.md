@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A group of child predators lived in George ‘Junior’ Burdynski’s neighborhood,
   according to the FBI
 image: https://static.the-independent.com/2026/09/18/14/13/Screenshot-2026-09-18-at-10-20-00-AM.png?trim=35,0,32,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- True Crime
 ---
 
 A suspect has been arrested in connection with the cold case disappearance and murder of 10-year-old George “Junior” Burdynski more than 30 years ago.

@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: The IOPC is continuing investigations into the conduct of 15 more members
   of staff
 image: https://static.independent.co.uk/2025/10/03/21/ad277b37ec580349f480750cef1e4cfdY29udGVudHNlYXJjaGFwaSwxNzU5NjA3MzU2-2.81846595.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Another Charing Cross police officer has been dismissed from the Met almost a year after BBC Panorama exposed inappropriate conduct in the force.

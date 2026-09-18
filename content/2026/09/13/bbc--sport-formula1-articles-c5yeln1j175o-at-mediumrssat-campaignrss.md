@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Mercedes' Kimi Antonelli wins the Spanish Grand Prix after McLaren's
   Lando Norris loses out because of the bad timing of a virtual safety car.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b2ac/live/923150e0-af86-11f1-913a-7151f234deb3.jpg
+categories:
+- UK
+- News & Politics
+- Automotive
 ---
 
 ![Kimi Antonelli raises his hand in celebration after winning the Spanish Grand Prix. An image of the Italian flag on a screen can be seen behind him](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/b2ac/live/923150e0-af86-11f1-913a-7151f234deb3.jpg)

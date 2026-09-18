@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: As the 25th anniversary approaches, the wait for the alleged mastermind
   of the attack to be put on trial goes on.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e30/live/c326db60-ab90-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 ![John Resta is on the left, he has dark hair and is wearing a white linen shirt and his wife Sylvia is on the right, with dark long hair and a blue short-sleeved shirt. She is pressed against him, her left hand on his chest. It has a wedding ring on it. They are both smiling. Behind them is grass with flowers.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0821/live/c8daefe0-ab79-11f1-aed2-8d6da8d75094.jpg)

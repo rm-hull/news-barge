@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Serena Williams is back at the U.S. Open for her first match at the Grand
   Slam tournament since 2022
 image: https://static.independent.co.uk/2026/08/25/14/APTOPIX_Cincinnati_Open_Tennis_4295_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Serena Williams is back at the U.S. Open for her first match at the Grand Slam tournament since 2022, playing mixed doubles alongside defending men's singles champion Carlos Alcaraz.

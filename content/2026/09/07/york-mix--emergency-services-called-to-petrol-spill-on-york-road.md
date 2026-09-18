@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T14:14:39Z'
 published: '2026-09-07T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/etty-avenue-york-2024-gsv.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 Both police and fire crews were called to a petrol spill on a York road this morning (Monday).

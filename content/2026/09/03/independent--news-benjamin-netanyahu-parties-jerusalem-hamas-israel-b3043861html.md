@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: As Israeli Prime Minister Benjamin Netanyahu seeks reelection, his main
   concern these days isn’t his political rivals
 image: null
+categories:
+- News & Politics
+- UK
 ---
 
 As Israeli Prime Minister Benjamin Netanyahu seeks reelection, his main concern these days isn’t his political rivals. It’s some of his biggest supporters.

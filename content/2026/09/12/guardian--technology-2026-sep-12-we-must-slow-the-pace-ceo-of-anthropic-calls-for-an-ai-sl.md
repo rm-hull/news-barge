@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: In a social media post, Dario Amodei proposed a plan including third-party
   evaluations of AI systems
 image: https://i.guim.co.uk/img/media/bb84259074a2c64ebed9b2c958f9985eb618beca/482_0_5532_4425/master/5532.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eabdf342f3645d8d82cc718116dd7cb4
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The CEO of the artificial intelligence company Anthropic issued a new appeal on Saturday for the AI industry to “slow down” and offered a three-part plan for doing so, saying that his company would “unilaterally” commit to the first of the steps.

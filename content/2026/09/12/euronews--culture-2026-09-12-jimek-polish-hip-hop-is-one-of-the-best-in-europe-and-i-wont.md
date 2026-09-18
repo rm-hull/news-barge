@@ -10,6 +10,11 @@ description: Two loves define Radzimir Dębski, aka Jimek - classical music and 
   and Nicki Minaj alike. Now he's talked to Euronews about his new album, featuring
   twelve Polish rappers and... a symphony orchestra.
 image: https://images.euronews.com/articles/stories/09/87/93/74/1200x675_cmsv2_d4281107-fd5e-52cd-9809-dc75921ccff8-9879374.jpg
+categories:
+- Europe
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 ## Two loves define Radzimir Dębski, aka Jimek - classical music and hip-hop. The Polish composer, conductor and producer has won praise from Beyoncé, Snoop Dogg and Nicki Minaj alike. Now he's talked to Euronews about his new album, featuring twelve Polish rappers and... a symphony orchestra.

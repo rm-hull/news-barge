@@ -9,6 +9,9 @@ published: '2026-09-14T00:00:00Z'
 description: British consular incidents involving suspected ‘drug mules’ grew from
   80 in 2023 to above 340 in 2025
 image: https://static.independent.co.uk/2026/09/14/15/2263046313..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The number of British nationals detained overseas on drug trafficking charges has surged more than fourfold over three years, official figures show, alongside a Government warning that penalties include life imprisonment and the death sentence.

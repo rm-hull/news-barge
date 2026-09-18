@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T22:34:34Z'
 published: '2026-09-02T00:00:00Z'
 description: Legal tender shows the president’s scowling face above the dates ‘1776-2026’
 image: https://static.independent.co.uk/2026/09/02/19/2026-09-02T181628Z_356698591_RC24BNAD88ZU_RTRMADP_3_USA-TRUMP-COIN.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 R.I.P. liberty?

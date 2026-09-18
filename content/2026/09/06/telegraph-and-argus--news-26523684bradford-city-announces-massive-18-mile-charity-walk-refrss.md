@@ -7,6 +7,11 @@ scraped_at: '2026-09-06T12:07:35Z'
 published: '2026-09-06T00:00:00Z'
 description: AN 18-mile charity walk is set to take place in support of mental health.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21412823.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

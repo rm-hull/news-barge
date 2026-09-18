@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: There have been four other confirmed fatal shark attacks in Australia
   this year
 image: https://static.independent.co.uk/2026/09/18/08/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A swimmer has died following a shark attack at a beach in Western Australia on Friday.

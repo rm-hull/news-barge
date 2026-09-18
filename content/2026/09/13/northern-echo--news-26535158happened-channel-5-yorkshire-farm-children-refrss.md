@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: What happened to Amanda and Clive Owen's nine children after Channel
   5 Our Yorkshire Farm ended, from Reuben's TV career to Raven's…
 image: https://www.thenorthernecho.co.uk/resources/images/21430005.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 For four years, millions watched Amanda and Clive Owen's children grow up on Our Yorkshire Farm.

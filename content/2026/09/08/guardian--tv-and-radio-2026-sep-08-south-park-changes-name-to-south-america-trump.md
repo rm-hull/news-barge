@@ -9,6 +9,10 @@ description: Satirical program’s new title is ‘inspired by bravery and patri
   of Apple and Google, who capitulated to Trump’s requests to change Lake Ontario
   to ‘Lake America’
 image: https://i.guim.co.uk/img/media/1f45a3e7d126583786f74f68aab87bf0a8ccaaaa/267_0_2667_2135/master/2667.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e07d647d3e0380be7d777fa39866aa4c
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 In light of Donald Trump’s attempts to rename a gulf, lakes and even states after “America”, South Park, the animated satirical program that has long skewered those in power, has announced an official name change. For its 29th season, the Comedy Central series will be known as “South America”.

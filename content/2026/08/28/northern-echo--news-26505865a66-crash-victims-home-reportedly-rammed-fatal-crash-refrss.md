@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: The home of the mum of A66 crash victim Theo Rae was reportedly rammed
   in the early hours of Saturday in the lead up to the fatal crash, The Sun has…
 image: https://www.thenorthernecho.co.uk/resources/images/21387010.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 The home of one of the A66 crash victims' mum was rammed amid a gang feud that lead-up to the horror smash, according to reports.

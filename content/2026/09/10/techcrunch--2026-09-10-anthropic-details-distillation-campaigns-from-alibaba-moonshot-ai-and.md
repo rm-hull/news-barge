@@ -10,6 +10,9 @@ description: A new report released Thursday by Anthropic alleges persistent dist
   attacks by China-based AI companies, which have escalated in recent months as competition
   in the space has intensified.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 A new report released Thursday by Anthropic alleged persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.

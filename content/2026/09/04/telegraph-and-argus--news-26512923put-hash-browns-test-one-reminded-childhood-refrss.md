@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: I’VE HEARD people order hash browns in diners many a time while watching
   American TV shows, but never tried them
 image: https://www.thetelegraphandargus.co.uk/resources/images/21397799.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 I’VE HEARD people order hash browns in diners many a time while watching American TV shows, but never tried them

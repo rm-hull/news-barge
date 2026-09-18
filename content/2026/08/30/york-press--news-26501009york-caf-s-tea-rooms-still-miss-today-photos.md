@@ -8,6 +8,12 @@ published: '2026-08-30T00:00:00Z'
 description: York has lost more than a few places for coffee and cake over the years
   - we look back on seven we still miss today.
 image: https://www.yorkpress.co.uk/resources/images/21379518.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
+- Travel
+- Lifestyle & Fashion
 ---
 
 ## 7 'lost' York cafés and tea rooms we still miss today

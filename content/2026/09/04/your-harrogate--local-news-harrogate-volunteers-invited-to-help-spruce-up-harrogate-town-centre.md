@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Volunteers are being invited to help spruce up Harrogate town centre
   as part of a new four-day initiative.
 image: https://mmo.aiircdn.com/409/6a9a9674a0effc5e264.jpg
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9a9674a0effc5e264.jpg) 

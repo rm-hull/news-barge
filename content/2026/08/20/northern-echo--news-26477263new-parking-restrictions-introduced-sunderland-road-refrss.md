@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: New waiting and loading restrictions are set to come into force on West
   Street in Sunderland from August 25 under a new traffic regulation order.
 image: https://www.thenorthernecho.co.uk/resources/images/20237062.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Web)*

@@ -10,6 +10,10 @@ description: Police in Southern California are investigating the theft of more t
   30,000 cans of Pabst beer in two separate heists from the same warehouse on the
   same day
 image: https://static.independent.co.uk/2026/08/31/16/Beer_Heist_43449.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Thieves made off with tens of thousands of cans of Pabst beer in two separate heists from a Southern California warehouse on the same day, police said.

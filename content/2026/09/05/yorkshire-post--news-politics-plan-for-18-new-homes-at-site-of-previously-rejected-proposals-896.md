@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: More than a dozen new homes could be built near a North Yorkshire town
   after the council rejected previous plans.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjIxMGE0YjYzLTVjOTQtNDU4Zi1hOWU4LWViNDgwNmQwZDdiMzpiZWZhM2Y5MC0xMTQ4LTQ0MmItOTcxYy03M2FjZjg3MmE5NmE=.jpg?crop=3:2,smart&trim=&width=885&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 # Plan for 18 new homes at site of previously rejected proposals

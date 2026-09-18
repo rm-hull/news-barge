@@ -10,6 +10,10 @@ description: Reported misuse of the surveillance cameras by law enforcement offi
   — and public distrust of the license plate readers — have led many municipalities
   to end contracts with Flock
 image: https://static.independent.co.uk/2026/08/27/14/2026-08-24T205756Z_1905524591_RC205NAOOU4B_RTRMADP_3_TECH-FLOCK.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 More than 100 cities across the country are rejecting Flock cameras amid growing privacy and safety concerns about the company’s sprawling network of automatic license plate readers.

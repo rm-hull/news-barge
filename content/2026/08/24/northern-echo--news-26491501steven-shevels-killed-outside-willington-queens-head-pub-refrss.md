@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Jurors have watched CCTV footage of heavily intoxicated man being pushed
   over onto concrete causing a fatal head injury outside Willington pub.
 image: https://www.thenorthernecho.co.uk/resources/images/20370365.jpg?type=og-image&xType=0&yType=315
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A man out for Christmas Eve drinks with family was killed when another pubgoer pushed him over, causing him to smash his head off a concrete path in a Willington beer garden, a court heard.

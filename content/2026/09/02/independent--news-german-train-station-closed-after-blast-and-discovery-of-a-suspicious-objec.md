@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Police have completely closed the train station in Augsburg, Germany,
   after a suspicious object exploded
 image: https://static.independent.co.uk/2026/09/02/09/Germany_Explosion_16467.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 German train station closed after blast and discovery of a suspicious object

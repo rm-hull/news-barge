@@ -8,6 +8,8 @@ scraped_at: '2026-08-31T16:08:32Z'
 published: '2026-08-31T00:00:00Z'
 description: Faster, smoother, better... and way pricier
 image: https://cdn.mos.cms.futurecdn.net/ttZf8Sq9amHMRKS3bWyFd9-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![OneXPlayer3 on a dark background](https://cdn.mos.cms.futurecdn.net/ttZf8Sq9amHMRKS3bWyFd9.jpg) 

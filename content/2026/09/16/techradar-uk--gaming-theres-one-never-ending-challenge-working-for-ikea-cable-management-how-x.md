@@ -11,6 +11,9 @@ published: '2026-09-16T00:00:00Z'
 description: We chat with Xbox and IKEA designers to learn how the YXSTABY collection
   combines practical needs for gamers with stylish design ideas
 image: https://cdn.mos.cms.futurecdn.net/2ENUqyqGzAaLcKfjbUUtdL-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![A wall of Xbox controllers in individual storage boxes](https://cdn.mos.cms.futurecdn.net/2ENUqyqGzAaLcKfjbUUtdL.jpg) 

@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Arsenal started last season as nearly men but their title win has given
   them a swagger - as Coventry discovered on the Premier League's opening night.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f54a/live/2cad59d0-9dac-11f1-b8c4-c1e59b96cddc.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Arsenal start title defence with comfortable win over Coventry

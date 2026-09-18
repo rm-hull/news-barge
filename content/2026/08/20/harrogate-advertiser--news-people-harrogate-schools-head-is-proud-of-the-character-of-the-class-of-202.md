@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Rossett School’s headteacher has praised the achievement, determination
   and character of Year 11 students as they received their results in Harrogate today.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmY3MmU1MGIyLTA2ZmEtNDVlNi04NmZhLWVmNmEyNzk0N2JkZDpiYzNhODNmNi00YTBhLTRmNDktYTFjMi1mZjY4ZTdmOTgzNGM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 # Harrogate school's head is 'proud' of the character of the Class of 2026

@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Jordan, a staunch U.S. ally that hosts American forces in the Mideast,
   has paid a price for its relationship with Washington
 image: https://static.independent.co.uk/2026/09/04/06/Mideast-Wars-Jordan_71236.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Jordan, a staunch U.S. ally that hosts American forces in the Mideast, has paid a price for its relationship with Washington, which has made the kingdom's military bases a target of repeat Iranian strikes.

@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: President hits out after Anthropic, OpenAI and SpaceX leaders back call
   to limit ‘reckless’ development
 image: https://i.guim.co.uk/img/media/ab08b09e0e2c6657c1d03f61973b739f341aef27/727_0_4595_3676/master/4595.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=80218ea317e80e2c4712969d13e47284
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Donald Trump has dismissed calls to increase controls on AI as a “sick conspiracy”, as stocks linked to the technology slumped after appeals from leading developers on the weekend for the industry to slow down.

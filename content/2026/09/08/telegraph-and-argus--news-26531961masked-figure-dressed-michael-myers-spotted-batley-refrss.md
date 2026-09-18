@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: A masked figure dressed as horror film character Michael Myers has been
   spotted on the streets.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21425495.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 *(Image: UGC)*

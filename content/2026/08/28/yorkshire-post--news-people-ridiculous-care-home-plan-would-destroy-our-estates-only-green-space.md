@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: ‘Desperate’ residents on a North Yorkshire estate have hit out at ‘ridiculous’
   council plans to build a large care home near their homes.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRhNjNiMjhiLWZlM2MtNDgyYS05MWU5LWU1MjA4NGNmMzgyZjozNjE3MGE0Yy1mZGExLTQ4Y2MtOGYyNS04ZjU2ZTA1YmQzYjg=.png?crop=3:2,smart&trim=&width=651&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 # ‘Ridiculous care home plan would destroy our estate’s only green space’ say angry residents

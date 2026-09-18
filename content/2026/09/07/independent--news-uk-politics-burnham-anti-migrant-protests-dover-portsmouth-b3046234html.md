@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Speaking to MPs and peers at a closed-doors meeting on Monday, the Prime
   Minister said the party’s mission must be to counter fear with positivity and hope
 image: https://static.independent.co.uk/2026/09/07/20/e7284eeaac234e5b1ff64dd6ac656e18Y29udGVudHNlYXJjaGFwaSwxNzg4ODk1NTY2-2.85730188.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Andy Burnham has urged Labour to halt the "politics of poison seeping into our streets” after a weekend of unrest at anti-migrant demonstrations.

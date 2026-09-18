@@ -8,6 +8,13 @@ published: '2026-09-18T00:00:00Z'
 description: Newcastle-based Spark Robotics says growing demand for its robots is
   helping businesses across multiple industries tackle staff shortages, improve…
 image: https://www.thenorthernecho.co.uk/resources/images/21462012.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
+- Careers & Productivity
 ---
 
 *(Image: Supplied)*

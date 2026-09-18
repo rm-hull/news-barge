@@ -8,6 +8,8 @@ scraped_at: '2026-09-17T13:23:06Z'
 published: '2026-09-17T00:00:00Z'
 description: Plus, a bigger battery inside
 image: https://cdn.mos.cms.futurecdn.net/MEqHhmQzBWQVD52a7Vuk5j-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Apple Watch Ultra 4 Review](https://cdn.mos.cms.futurecdn.net/MEqHhmQzBWQVD52a7Vuk5j.jpg) 

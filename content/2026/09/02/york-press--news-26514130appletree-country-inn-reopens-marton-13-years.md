@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The Appletree Country Inn at Marton reports a “fantastic” re-opening
   after 13 long years of closure.
 image: https://www.yorkpress.co.uk/resources/images/21374487.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## 'Fantastic' reopening for North Yorkshire village pub after 13-year closure

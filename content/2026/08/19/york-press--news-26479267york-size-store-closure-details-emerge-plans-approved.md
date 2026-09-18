@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: New details have emerged about the future of a store in York following
   the approval of changes to the building.
 image: https://www.yorkpress.co.uk/resources/images/21343540.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## When York store is set to close after transformation gets go ahead

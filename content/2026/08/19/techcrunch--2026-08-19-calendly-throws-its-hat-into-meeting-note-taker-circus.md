@@ -7,6 +7,8 @@ scraped_at: '2026-08-19T21:31:31Z'
 published: '2026-08-19T00:00:00Z'
 description: Calendly is also releasing a meeting scheduling assistant called Callie.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Callie-email-experience.jpeg?resize=1200,675
+categories:
+- Technology & Software
 ---
 
 Note-taking has quickly turned into a critical part of the productivity space, with many workplace software companies chasing the dream of having AI automate tasks based on action items created from meeting transcripts. Calendly, known for its scheduling and meeting booking software, is now entering the fray with a note-taking product.

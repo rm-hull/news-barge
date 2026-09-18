@@ -9,6 +9,11 @@ description: A driver who killed her boyfriend in a crash while filming him hang
   out of the car window has had her jail term increased by a year and a half at the
   Court of Appeal.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjAwYTRhNzk1LWJlOGQtNDc1Zi04OTNmLTk5ZDIxODA3NDczNjowZmY3MjA0MS0xZDRiLTQxMzUtYTk1OS00MmY2Mzg0NWIyZDA=.jpg?crop=3:2,smart&trim=&width=401&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 # Driver who killed boyfriend in crash while filming him has jail term increased

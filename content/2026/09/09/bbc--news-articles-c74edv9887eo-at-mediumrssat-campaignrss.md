@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: AI agents went on an uncontrolled hacking spree, leaving some in the
   industry worried
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dbe9/live/5e20f100-ac59-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 **"OH MY GOD!" "We've found other agents!"**

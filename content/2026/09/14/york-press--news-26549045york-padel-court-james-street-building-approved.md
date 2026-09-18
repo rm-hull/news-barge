@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T20:18:04Z'
 published: '2026-09-14T00:00:00Z'
 description: The transformation of a York building has been given the go ahead.
 image: https://www.yorkpress.co.uk/resources/images/21186356.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Here's what this York building is being turned into as plans approved

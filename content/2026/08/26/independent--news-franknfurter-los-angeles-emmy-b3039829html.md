@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: Tim Curry, a beloved character actor known for his iconic role in “The
   Rocky Horror Picture Show,” has died at 80
 image: https://static.independent.co.uk/2026/08/26/17/Obit_Tim_Curry_743_3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Arts & Culture
+- Comedy & Entertainment
 ---
 
 Tim Curry, iconic character actor and 'Rocky Horror Picture Show' star, dies at 80

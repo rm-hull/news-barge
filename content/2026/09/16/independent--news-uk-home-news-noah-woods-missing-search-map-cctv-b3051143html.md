@@ -7,6 +7,10 @@ scraped_at: '2026-09-16T13:27:25Z'
 published: '2026-09-16T00:00:00Z'
 description: Noah Woods was last seen at 3pm on Tuesday at a playground in Brantham
 image: https://static.independent.co.uk/2026/09/16/12/16112142-5bc727cd-ad86-4cca-981b-c6196d2adcb5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A desperate search is underway to find missing three-year-old Noah Woods who was last seen running away from a playground in Suffolk.

@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Dozens of Chinese firms are quietly deepening ties with Moscow's defense
   sector while Beijing publicly denies any involvement
 image: https://cdn.mos.cms.futurecdn.net/jToMQkVtCT4v6DQDUDWWxC-1920-80.png
+categories:
+- Technology & Software
+- Health & Fitness
 ---
 
 ![Putin and Xi shaking hands](https://cdn.mos.cms.futurecdn.net/jToMQkVtCT4v6DQDUDWWxC.png) 

@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A second case of bluetongue virus has been confirmed in North Yorkshire
   amid an escalating national outbreak.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjZlNmIwYTllLTk4OWUtNDJhMi04YzU3LWMyZDljYTJkMTgxNTphZTY5ZDY5MC1hOGZlLTQ5NTYtYTVhNi1lOGRhOWMzZjAwODk=.jpg?crop=3:2,smart&trim=&width=624&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Second case of bluetongue confirmed in North Yorkshire as outbreak escalates

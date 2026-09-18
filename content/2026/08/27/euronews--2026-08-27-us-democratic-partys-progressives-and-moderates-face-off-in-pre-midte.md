@@ -9,6 +9,10 @@ description: A string of recent primaries across the US have thrown new light on
   deep divisions between the party's political factions. Is opposition to Trump enough
   to unify the coalition?
 image: https://images.euronews.com/articles/stories/09/88/82/36/1200x675_cmsv2_0dec49df-83c7-5623-bc6e-c905c87c5ea3-9888236.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## A string of recent primaries across the US have thrown new light on the deep divisions between the party's political factions. Is opposition to Trump enough to unify the coalition?

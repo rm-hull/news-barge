@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: Two men in their 20s have died after taking part in this year's Great
   North Run.
 image: https://www.thenorthernecho.co.uk/resources/images/21452378.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: GNR)*

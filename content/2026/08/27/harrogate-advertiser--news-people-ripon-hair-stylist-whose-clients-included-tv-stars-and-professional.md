@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: A Ripon stylist has said it feels like it’s “just the start” after being
   named the UK's best hair extensions specialist.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmUzOTdhMjZlLTI4YWYtNDNkOC1hOGY1LWJmNjczNzI1MWY4NToyNzZkYmU3Ni0zNGRiLTRmZDMtOWMyNS1iMTEwMTZjMzE4YWM=.jpg?crop=3:2,smart&trim=&width=1086&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Lifestyle & Fashion
 ---
 
 # Ripon hair stylist whose clients included TV stars and professional models wins top UK award

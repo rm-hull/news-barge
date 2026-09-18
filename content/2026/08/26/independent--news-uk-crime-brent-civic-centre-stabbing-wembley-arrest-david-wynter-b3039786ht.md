@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T16:56:42Z'
 published: '2026-08-26T00:00:00Z'
 description: A teenage boy was stabbed to death at Brent Civic Centre on Tuesday afternoon
 image: https://static.independent.co.uk/2026/08/25/18/0b6e6869c8dcd0ac82674787953100f0Y29udGVudHNlYXJjaGFwaSwxNzg3NzY0NjU5-2.85657871.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Police have arrested a 15-year-old boy on suspicion of murder after a teenager was stabbed to death at a council headquarters building in London.

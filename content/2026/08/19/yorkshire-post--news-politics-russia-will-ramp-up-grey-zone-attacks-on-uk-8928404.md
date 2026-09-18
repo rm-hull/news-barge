@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: Moscow said there would be “consequences” after reports that British
   drones have been used to strike targets on Russia’s mainland for the first time.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/10/14/AP-2026-08-07-0099289ffbc24a4593e831aa77f1b18d.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Exclusive:Russia will ramp up 'grey zone' attacks on UK without greater deterrence - expert

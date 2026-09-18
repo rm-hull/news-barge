@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: Gas station giant Buc-ee’s has sparked a backlash in Ohio over one of
   its frequent trademark infringement lawsuits
 image: https://static.independent.co.uk/2026/08/23/06/Buc-ee%27s_Ohio_Outcry_23234.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A lip-licking alligator, a smiling moose and a hat-wearing bear are among the many cartoon animals to have found themselves in the crosshairs of Buc-ee’s, the popular Texas convenience store chain that has a penchant for protecting its buck-toothed beaver.

@@ -9,6 +9,9 @@ description: New research shows just one in five voters think Brexit has been a 
   heaping pressure on the new prime minister to improve Britain’s relationship with
   Europe
 image: https://static.independent.co.uk/2026/09/08/11/2281920381..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Andy Burnham is facing fresh pressure to scrap Labour’s Brexit ‘red lines’ after a major new poll found voters want Britain to develop closer ties with the European Union.

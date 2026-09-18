@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: An up-for-sale gourmet restaurant and hotel near Thirsk has had its asking
   price slashed by £400,000.
 image: https://www.thenorthernecho.co.uk/resources/images/21157305.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: GOOGLE)*

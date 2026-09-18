@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Thousands of music fans descended on the Great Yorkshire Showground for
   Harrogate's first-ever Symphonic Ibiza event last weekend.
 image: https://mmo.aiircdn.com/409/6a86c3fe19cc0e64641.jpg
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 ![](https://mmo.aiircdn.com/409/6a86c3fe19cc0e64641.jpg) 

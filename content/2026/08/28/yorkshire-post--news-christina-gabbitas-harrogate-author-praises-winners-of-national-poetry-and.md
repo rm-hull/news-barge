@@ -10,6 +10,12 @@ description: The power of one youngster’s poem inspired Harrogate author Chris
   Gabbitas to create a platform for children to learn and write about challenging
   subjects such as county lines exploitation and associated crime.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmY1NzlhMDczLTliM2MtNDNlMS1hMmM4LTYzNzNjNjM4YmE1MzplNWZmMjNiNi0zZTU3LTQwMTYtYjAwMC1hMDc4ZDdmOGY1Nzk=.jpg?crop=3:2,smart&trim=&width=981&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Books & Literature
 ---
 
 # Christina Gabbitas: Harrogate author praises winners of National Poetry and Lyric initiative

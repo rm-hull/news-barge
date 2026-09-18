@@ -9,6 +9,12 @@ published: '2026-09-15T00:00:00Z'
 description: Two people have been arrested as part of an ongoing investigation into
   reports of historic child sexual abuse at a former Bradford children's…
 image: https://www.thetelegraphandargus.co.uk/resources/images/20579082.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 *(Image: Pixabay)*

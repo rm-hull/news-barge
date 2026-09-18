@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: The Hoops aim to triumph on home turf ahead of the away leg of this play-off
   in Austria next week
 image: https://cdn.mos.cms.futurecdn.net/8opfpTt5pgxwrvkysovco-1920-80.png
+categories:
+- Technology & Software
+- Sports
+- Video Gaming
 ---
 
 ![Celtic manager Martin O'Neill with the Celtic and LASK badge](https://cdn.mos.cms.futurecdn.net/8opfpTt5pgxwrvkysovco.png) 

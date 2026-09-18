@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: The leader of North Yorkshire Council has expressed concern that the
   Government has effectively already decided to use the former RAF Linton-on-Ouse…
 image: https://www.thenorthernecho.co.uk/resources/images/21102471.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The leader of North Yorkshire Council has expressed concern that the Government has effectively already decided to use the former RAF Linton-on-Ouse base to house migrants, despite ministers insisting no final decision has been made.

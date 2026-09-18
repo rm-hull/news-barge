@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: BRADFORD Council is applying to keep 19 extra goods vehicles at a Shipley
   operating centre.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21434112.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 *(Image: Google Street View)*

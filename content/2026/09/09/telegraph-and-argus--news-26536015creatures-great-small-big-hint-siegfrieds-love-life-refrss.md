@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: All Creatures Great and Small season seven will bring Siegfried Farnon
   closer to possible love on Channel 5 this September.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21431314.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Helen Williams)*

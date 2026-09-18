@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A MAN has been jailed for setting a police van on fire during a demonstration
   in Leeds city centre.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21355837.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

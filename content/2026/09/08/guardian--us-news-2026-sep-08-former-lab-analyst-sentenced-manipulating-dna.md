@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Authorities accused Missy Woods of altering years worth of data in cases
   involving homicide, sexual assault and robbery
 image: https://i.guim.co.uk/img/media/4044f9abcb92434ebf9dafb3627c201b648cb38d/442_0_5258_4209/master/5258.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c9a806d3ad99eb4ad6e7c07c40bb855d
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 A judge sentenced a former forensic analyst for the Colorado Bureau of Investigation to 10 years in prison on Tuesday after authorities said her manipulation of DNA data had raised questions about the validity of hundreds of criminal cases.

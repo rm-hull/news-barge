@@ -9,6 +9,9 @@ published: '2026-09-13T00:00:00Z'
 description: Diablo 5's version of Sanctuary has been totally overrun by the forces
   of hell, say the devs behind the game.
 image: https://cdn.mos.cms.futurecdn.net/Vuvnto3cV5bWarYNZ5CDM-2000-80.jpg
+categories:
+- Technology & Software
+- History
 ---
 
 ![An image of Diablo's world, Sanctuary, destroyed in Diablo 5](https://cdn.mos.cms.futurecdn.net/Vuvnto3cV5bWarYNZ5CDM.jpg) 

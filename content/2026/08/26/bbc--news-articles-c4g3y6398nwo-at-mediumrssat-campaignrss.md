@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: The UK government claimes panels could help homes "significantly cut"
   energy bills.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9bb3/live/fda8dc80-a086-11f1-bfeb-dfb02ea642ef.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A solar panel hanging on a balcony, which also contains plants and flowers.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/9bb3/live/fda8dc80-a086-11f1-bfeb-dfb02ea642ef.jpg)

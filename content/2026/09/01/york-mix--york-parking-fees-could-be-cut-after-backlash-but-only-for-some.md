@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T19:22:48Z'
 published: '2026-09-01T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/bishopthorpe-road-car-park-york-feb-2026-scaled.webp
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 Proposals to cut some parking charges in York have been unveiled after a review of the highly controversial price hikes.

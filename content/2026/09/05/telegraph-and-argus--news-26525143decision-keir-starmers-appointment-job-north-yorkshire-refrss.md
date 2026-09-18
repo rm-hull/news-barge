@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: THE Government has made a decision on whether to appoint Keir Starmer
   to a job in Yorkshire following his resignation from the House of Commons.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19969256.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 THE Government has made a decision on whether to appoint Keir Starmer to a job in Yorkshire following his resignation from the House of Commons.

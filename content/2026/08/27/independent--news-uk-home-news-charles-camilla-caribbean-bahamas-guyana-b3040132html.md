@@ -7,6 +7,11 @@ scraped_at: '2026-08-27T12:01:04Z'
 published: '2026-08-27T00:00:00Z'
 description: Charles will visit the Bahamas, Guyana, and Antigua and Barbuda
 image: https://static.independent.co.uk/2026/08/27/09/2276407039..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- History
 ---
 
 King Charles is set to tour three Caribbean nations this autumn.

@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: A banned driver gave police another man’s name when he was stopped because
   he feared a longer driving ban.
 image: https://www.thenorthernecho.co.uk/resources/images/21443850.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: Durham Constabulary)*

@@ -8,6 +8,9 @@ scraped_at: '2026-08-25T01:48:15Z'
 published: '2026-08-25T00:00:00Z'
 description: A different kind of numbers game
 image: https://cdn.mos.cms.futurecdn.net/new7kozVtx7yeGs3pWmbfd-1264-80.png
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Samsung Logo](https://cdn.mos.cms.futurecdn.net/new7kozVtx7yeGs3pWmbfd.png) 

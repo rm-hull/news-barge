@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Tablets and computers have become essential for students, but they can
   also be distracting
 image: https://static.independent.co.uk/2026/08/27/05/Education-One_Tech_Tip-Technology_Distractions_61772.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
+- Technology & Software
 ---
 
 Tablets and computers have become crucial school supplies for many students. But the same devices children use to read text, write essays, solve math problems or research history projects can also offer distractions in the form of games, social media and web browsing.

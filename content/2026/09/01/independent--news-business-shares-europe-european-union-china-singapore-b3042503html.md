@@ -7,6 +7,11 @@ scraped_at: '2026-09-01T13:29:13Z'
 published: '2026-09-01T00:00:00Z'
 description: Shares in the business dropped by as much as 10% in early trading.
 image: https://static.independent.co.uk/2026/09/01/07/dcb3d1a65b63c18e89832f3b2868c419Y29udGVudHNlYXJjaGFwaSwxNzg4MzMwNjY5-2.78243375.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Fast fashion giant Shein has seen its shares slide after finally launching its stock market debut at a fraction of previous valuations of the company.

@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Apparently, we can now declare 2026 the hottest year on record - despite
   the fact that it’s still only August. This reminds me of a hapless…
 image: https://www.gazetteherald.co.uk/resources/images/20669272.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Archive)*

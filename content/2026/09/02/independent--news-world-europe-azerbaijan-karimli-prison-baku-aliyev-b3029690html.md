@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The family of Ali Karimli claims the regime is ‘deliberately trying to
   break him’ as they urged the UK to intervene in the pro-democracy leader’s case
 image: https://static.independent.co.uk/2026/04/29/13/30/image0.jpeg?trim=11,0,12,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The family of Azerbaijan’s detained pro-democracy opposition leader has claimed that the regime is “deliberately trying to break him” by denying him safe drinking water in prison, amid growing concern over his physical condition.

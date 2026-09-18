@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Gang leader threatens to kill hostages after attack in Kenscoff in which
   homes were also set alight
 image: https://i.guim.co.uk/img/media/68cb4b627f9923f458e7a6ed763c3cd35aa0ea00/197_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1d697c5bb51461deb9c8fd373b9f85ea
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 At least 47 people were killed and more than 50 others kidnapped when armed men attacked a once peaceful community near Haiti’s capital at the weekend, the UN has said.

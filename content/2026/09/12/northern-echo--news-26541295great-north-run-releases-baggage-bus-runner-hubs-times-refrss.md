@@ -8,6 +8,13 @@ published: '2026-09-12T00:00:00Z'
 description: Here's the ultimate runners' guide for those taking on the Great North
   Run this weekend.
 image: https://www.thenorthernecho.co.uk/resources/images/21438669.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
+- Health & Fitness
+- Travel
 ---
 
 *(Image: SARAH CALDECOTT)*

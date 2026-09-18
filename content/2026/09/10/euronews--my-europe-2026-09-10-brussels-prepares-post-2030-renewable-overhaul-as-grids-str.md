@@ -9,6 +9,10 @@ description: 'The European Commission’s renewable push comes as the EU co-legi
   the European Parliament and the Council, are working to tackle one of the biggest
   bottlenecks to new clean-power projects — the electrical grids. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/64/98/1200x675_cmsv2_b6fcee93-33df-5b38-9cad-7f60eb20e12b-9906498.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## The European Commission’s renewable push comes as the EU co-legislators, the European Parliament and the Council, are working to tackle one of the biggest bottlenecks to new clean-power projects — the electrical grids.

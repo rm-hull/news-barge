@@ -9,6 +9,11 @@ description: Prime Minister Andy Burnham’s directive to place responsibility f
   growth of UK plc with his Number 10 North brainchild should be seen as the gauntlet
   being laid down for all of the North.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjlhMDMyMDQ0LTVjZDctNDQ3NC05MGE4LWQwZWJkZjYwYmE5ZDpmMTkyZTYyOC03ODcxLTQwNmQtOGU5Zi1lMGU3YjViMWNhZGQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Number 10 North: the gauntlet has been laid down for all of the North, we have to run with it

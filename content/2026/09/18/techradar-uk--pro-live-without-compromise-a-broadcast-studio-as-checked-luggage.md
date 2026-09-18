@@ -7,6 +7,9 @@ scraped_at: '2026-09-18T13:00:26Z'
 published: '2026-09-18T00:00:00Z'
 description: Professional broadcast, packed for travel
 image: https://cdn.mos.cms.futurecdn.net/aBt4xDYv6hbiB3JyuDnEuM-2560-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ![A digital grid criss-crossing the lights of a city below](https://cdn.mos.cms.futurecdn.net/aBt4xDYv6hbiB3JyuDnEuM.jpg) 

@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Don’t suffer in silence, police are urging victims of domestic abuse
   after a ‘Jekyll and Hyde’ man was jailed for stalking his former partner.
 image: https://www.yorkpress.co.uk/resources/images/14094933.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
+- News & Politics
 ---
 
 *(Image: Newsquest)*

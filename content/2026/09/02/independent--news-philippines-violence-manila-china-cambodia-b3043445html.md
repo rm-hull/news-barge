@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: He had lost count of the number of times he was sold from company to
   company in the Philippines.
 image: https://static.independent.co.uk/2026/09/02/13/APTOPIX_Global_Scams_Compound_Photo_Essay_956_3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 He had lost count of the number of times he was sold from company to company in the Philippines.

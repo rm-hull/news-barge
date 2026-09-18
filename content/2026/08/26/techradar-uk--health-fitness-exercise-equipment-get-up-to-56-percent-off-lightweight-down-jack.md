@@ -8,6 +8,10 @@ scraped_at: '2026-08-26T13:11:41Z'
 published: '2026-08-26T00:00:00Z'
 description: Maximum cosiness; minimal weight and bulk
 image: https://cdn.mos.cms.futurecdn.net/ofu8kvosdc2DGCCsw4UikH-2560-80.jpg
+categories:
+- Technology & Software
+- Travel
+- Health & Fitness
 ---
 
 ![Selection of down jackets, floating against a frosty background](https://cdn.mos.cms.futurecdn.net/ofu8kvosdc2DGCCsw4UikH.jpg) 

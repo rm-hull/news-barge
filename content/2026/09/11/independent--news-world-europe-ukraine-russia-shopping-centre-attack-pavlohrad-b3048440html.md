@@ -8,6 +8,10 @@ scraped_at: '2026-09-11T12:48:42Z'
 published: '2026-09-11T00:00:00Z'
 description: Three teenage boys were injured in Moscow’s attack on Pavlohrad
 image: https://static.independent.co.uk/2026/09/11/08/2026-09-10T152528Z_1781811787_RC2FGNAMK5A6_RTRMADP_3_UKRAINE-CRISIS-ATTACK-PAVLOHRAD.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 At least five people were killed and 67 others were injured as Russian drones hit a shopping mall in Pavlohrad, Ukrainian authorities have said.

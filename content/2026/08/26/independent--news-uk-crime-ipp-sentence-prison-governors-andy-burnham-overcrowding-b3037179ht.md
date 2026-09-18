@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: 'Exclusive: Top prison governor warns rowing back on plans to release
   thousands of prisoners early risks leaving overcrowded prisons at breaking point'
 image: https://static.independent.co.uk/2024/10/18/11/Prisoners-Locked-Up-Indycomp-copy.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Andy Burnham must “be courageous and take action” to end the scandal of indefinite jail terms to prevent Britain’s overcrowded prisons splitting at the seams, a prisons chief has warned.

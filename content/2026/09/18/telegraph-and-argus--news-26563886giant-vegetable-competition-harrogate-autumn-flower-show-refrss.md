@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: The Giant Vegetable Competition at Harrogate Autumn Flower Show produced
   some impressive results.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21474440.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

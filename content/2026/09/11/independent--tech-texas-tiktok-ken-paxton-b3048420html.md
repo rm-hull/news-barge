@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: A Texas judge ruled on Thursday that TikTok violated the state's consumer
   protection law by misleading users
 image: https://static.the-independent.com/2026/09/11/08/2026-09-11T020958Z_1589109640_RC2MKHA1J0AX_RTRMADP_3_SOCIAL-MEDIA-TEXAS-TIKTOK.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A Texas court found TikTok in violation of state consumer protection laws after ruling that the social media platform misled the public about its underage content filtering and the effectiveness of its "Restricted Mode" safety settings.

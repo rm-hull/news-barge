@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: The lawsuit calls the House Oversight Committee's subpoenas, which ordered
   him to share nondisclosure agreements, "invalid".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80e4/live/b3cecac0-a7b1-11f1-b78b-6b70b0a83270.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Leon Black seen on Capitol Hill before a hearing with the House Oversight Committee in June](https://ichef.bbci.co.uk/ace/standard/868/cpsprodpb/80e4/live/b3cecac0-a7b1-11f1-b78b-6b70b0a83270.jpg)

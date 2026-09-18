@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: York Talking News recently celebrated its 50th anniversary with the release
   of its 600th edition on September 1.
 image: https://www.yorkpress.co.uk/resources/images/21407417.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## York Talking News marks 50 years with milestone 600th edition

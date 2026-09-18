@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: The former prime minister said he would be turning his concentration
   to international affairs
 image: https://static.independent.co.uk/2026/08/20/10/37/GettyImages-2177658423-005456e7.jpeg?trim=1,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Former prime minister Sir Keir Starmer is to step down as the MP for Holborn and St Pancras, a move that will trigger a by-election in the London seat.

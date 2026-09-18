@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Harry and Meghan returned to the UK last week after six years in the
   US
 image: https://static.independent.co.uk/2026/08/30/11/6e75d81b519ff443fd76d8828971ad88Y29udGVudHNlYXJjaGFwaSwxNzg4MTcxODIx-2.84292759.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Donald Trump has said he was “happy” to hear the news that Harry and Meghan have departed the US to return to the UK, as he stated that he was "not a fan" of the couple.

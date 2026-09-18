@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Emergency services have been called to York city centre following an
   incident. Crews from North Yorkshire Fire and Rescue, along with York Rescue…
 image: https://www.yorkpress.co.uk/resources/images/21356494.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 ## Our live feed has now finished.

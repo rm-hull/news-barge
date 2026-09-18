@@ -10,6 +10,9 @@ description: Uefa president Aleksander Ceferin rules himself out of the running 
   replace Gianni Infantino, but expects a candidate to challenge the Fifa president's
   leadership in March.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ef1f/live/398d1240-9f2c-11f1-92b7-313dc1d0a3e9.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Gianni Infantino (left) and Aleksander Ceferin (right)](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/ef1f/live/398d1240-9f2c-11f1-92b7-313dc1d0a3e9.jpg)

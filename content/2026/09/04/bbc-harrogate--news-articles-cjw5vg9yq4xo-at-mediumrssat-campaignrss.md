@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Michaela Golding, 58, is jailed after taking money from residents at
   the home she managed in Filey.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d823/live/af1d3c70-a868-11f1-ae45-e9984fc27c77.jpg
+categories:
+- Local
+- Harrogate
+- Personal Finance & Investing
 ---
 
 ![A woman with short blonde hair is frowning at the camera. She is wearing a read, white and black patterned top. She is in front of a grey background.](https://ichef.bbci.co.uk/ace/standard/839/cpsprodpb/d823/live/af1d3c70-a868-11f1-ae45-e9984fc27c77.jpg)

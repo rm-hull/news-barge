@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Andy Burnham has vowed to crack down on illegal waste dumping as he visited
   Bradford to announce new measure tackling waste crime and clearing the…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21348618.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: Scott Heppell/PA Agency)*

@@ -9,6 +9,10 @@ description: The grand jury unsealed a multi-count indictment charging Nick Rein
   with two counts of murder with special circumstances, alleging he personally used
   a knife to slaughter his 78-year-old father and 70-year-old mother
 image: https://static.the-independent.com/2026/08/13/13/2026-08-12T202040Z_1264964026_RC2LRJAA72C7_RTRMADP_3_PEOPLE-ROB-REINER.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Nick Reiner, the 33-year-old son of famed filmmaker Rob Reiner and photographer Michele Reiner, is set to appear in a downtown Los Angeles courtroom today for a high-stakes pretrial hearing following his grand jury indictment for the brutal murders of his parents inside their Brentwood home.

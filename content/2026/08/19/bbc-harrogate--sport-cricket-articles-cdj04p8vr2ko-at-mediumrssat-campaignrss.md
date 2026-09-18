@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: The Blaze post a record score in beating Durham in the One-Day Cup to
   stay top as Hampshire, Warwickshire and Somerset also win.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/338d/live/80b498f0-9bf8-11f1-bbc9-198f60b94eaf.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![Kathryn Bryce raises her bat as she celebrates her century](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/338d/live/80b498f0-9bf8-11f1-bbc9-198f60b94eaf.jpg)

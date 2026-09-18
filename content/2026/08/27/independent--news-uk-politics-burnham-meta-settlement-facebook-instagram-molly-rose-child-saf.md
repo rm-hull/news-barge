@@ -9,6 +9,11 @@ description: Rowan Ferguson, of the Molly Rose Foundation, which campaigns to pr
   young people being harmed by online content, called on the UK government to be ‘brave,
   bold and decisive in ways it hasn’t been before’
 image: https://static.independent.co.uk/2026/08/26/17/2291579760..?trim=0,252,0,252&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 Child-safety campaigners are urging prime minister Andy Burnham to clamp down on social media giants and force them to make changes in the wake of a settlement in the US between Meta and 29 US states.

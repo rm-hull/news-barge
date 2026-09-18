@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Health workers have been told they are not expected to carry on treating
   patients who are persistently racist.
 image: https://www.thenorthernecho.co.uk/resources/images/21416776.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Health workers have been told they are not expected to carry on treating patients who are persistently racist.

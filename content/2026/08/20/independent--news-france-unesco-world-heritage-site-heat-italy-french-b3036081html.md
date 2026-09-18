@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Champagne producers are racing to pick grapes as the region experiences
   its earliest harvest on record
 image: https://static.independent.co.uk/2026/08/20/05/France_Champagne_Harvest__399.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 Champagne producers are racing to pick their grapes as the region’s earliest harvest on record gets underway, after extreme heat and drought accelerated ripening, leaving growers a narrow window to preserve the quality of the region’s world-famous sparkling wine.

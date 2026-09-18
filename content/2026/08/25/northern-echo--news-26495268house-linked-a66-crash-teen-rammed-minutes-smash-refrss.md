@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: A house linked to one of the five men that died in the A66 crash was
   rammed minutes before the event that killed two officers, it has emerged.
 image: https://www.thenorthernecho.co.uk/resources/images/21371390.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 A house linked to one of the five men killed in the A66 crash was rammed less than an hour before the smash that killed two officers, it has emerged.

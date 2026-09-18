@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Pickelball is a growing sport in the UK. Lauren Taylor visits the Ionian
   coast to see what the fuss is all about.
 image: https://www.yorkpress.co.uk/resources/images/21362595.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
+- Lifestyle & Fashion
 ---
 
 ## I tried the pickleball craze on an active holiday – and I might be hooked

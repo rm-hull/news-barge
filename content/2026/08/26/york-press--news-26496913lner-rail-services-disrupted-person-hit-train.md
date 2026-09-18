@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Rail services have been disrupted today, with no services departing from
   London King's Cross or Peterborough until further notice after a…
 image: https://www.yorkpress.co.uk/resources/images/10160690.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 ## London to York rail services disrupted after person hit by train

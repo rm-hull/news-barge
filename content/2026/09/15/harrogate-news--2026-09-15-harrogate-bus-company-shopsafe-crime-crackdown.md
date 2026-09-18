@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The Harrogate Bus Company integrates operations into the Harrogate BID
   ShopSafe Alert app, joining 30+ businesses and police to tackle anti-social behaviour.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Harrogate_Crime-Reporting-1.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 **HARROGATE** — Regional transit chiefs have initiated a coordinated security expansion across the town center, linking municipal transport grids with local police networks to combat escalating anti-social behaviour and urban retail crime.

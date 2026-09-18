@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A memorial flight joined by F-15 jets over Denver was called off ‘following
   concerns raised by members of the community’
 image: https://static.independent.co.uk/2026/09/10/16/2026-08-25T151157Z_1222813650_RC23DEAMZK8D_RTRMADP_3_UNITED-ARLNS-CEO.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Society & Culture
 ---
 
 Officials in Denver this week warned residents not to fear the sight of U.S. fighter jets alongside a Boeing 777 commercial airliner above the city’s downtown on Friday morning, as the nation recognizes the 25th anniversary of the September 11 terror attacks.

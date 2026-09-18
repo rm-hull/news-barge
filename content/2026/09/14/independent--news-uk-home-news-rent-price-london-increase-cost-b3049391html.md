@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T15:01:10Z'
 published: '2026-09-14T00:00:00Z'
 description: Annual rent increases accelerated to 2.6% in July
 image: https://static.independent.co.uk/2026/07/07/09/2281568603..?trim=0,142,0,142&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Rising mortgage rates are intensifying pressure on the UK rental market, with annual price growth projected to reach 4% to 5% by the end of the year.

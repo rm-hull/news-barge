@@ -10,6 +10,10 @@ description: As Ottawa seeks partnerships with allies beyond the United States, 
   has announced deals this year to buy radar planes from Sweden’s Saab over American
   rivals, alongside submarines from Germany’s ThyssenKrupp
 image: https://static.independent.co.uk/2026/08/27/05/Canada_Defense_Boom_43435.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Inside a Toronto garment factory, the physical reality of Canada’s drive to diminish its reliance on American military suppliers is on clear display.

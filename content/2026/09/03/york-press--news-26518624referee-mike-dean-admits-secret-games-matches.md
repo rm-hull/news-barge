@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Former Premier League referee Mike Dean has revealed he occasionally
   set himself unofficial challenges during top-flight matches.
 image: https://www.yorkpress.co.uk/resources/images/17115763.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
+- Video Gaming
 ---
 
 ## Mike Dean admits to playing secret games during matches

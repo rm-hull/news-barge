@@ -8,6 +8,9 @@ published: '2026-08-24T00:00:00Z'
 description: As the memory shortage continues to cause trouble for hardware makers,
   Amazon says it is now being forced to pass on the costs to its consumers.
 image: https://techcrunch.com/wp-content/uploads/2025/09/echo-family-1.png?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Over the weekend, Amazon significantly raised the prices of its hardware devices, jacking them up by as much as 60 percent in some cases.

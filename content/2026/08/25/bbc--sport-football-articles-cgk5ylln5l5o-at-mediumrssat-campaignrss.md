@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: The Irish Football Association says it is "time for change" at Fifa and
   they will not be voting for president Gianni Infantino's re-election next year.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e75d/live/6a2b5e20-a09e-11f1-84a9-276d1a8e5a22.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Gianni Infantino](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/e75d/live/6a2b5e20-a09e-11f1-84a9-276d1a8e5a22.jpg)

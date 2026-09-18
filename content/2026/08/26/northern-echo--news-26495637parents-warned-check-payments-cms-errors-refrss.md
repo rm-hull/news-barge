@@ -8,6 +8,13 @@ published: '2026-08-26T00:00:00Z'
 description: Child maintenance payments can be too high or too low. Here's how parents
   can challenge a wrong calculation and the deadlines they need to know.
 image: https://www.thenorthernecho.co.uk/resources/images/21370585.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: Silvia Cozzi)*

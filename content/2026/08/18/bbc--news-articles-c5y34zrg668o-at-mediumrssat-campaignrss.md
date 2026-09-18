@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The PM communicated with a person posing as Susie Wiles, the chief of
   staff to Donald Trump.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/90c6/live/30bb9840-9afd-11f1-a27d-25dca26018ed.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Andy Burnham is wearing a dark-coloured jacket, white shirt and glasses. He has short black and grey hair. He is stood in front of two microphones and](https://ichef.bbci.co.uk/ace/standard/879/cpsprodpb/90c6/live/30bb9840-9afd-11f1-a27d-25dca26018ed.jpg)

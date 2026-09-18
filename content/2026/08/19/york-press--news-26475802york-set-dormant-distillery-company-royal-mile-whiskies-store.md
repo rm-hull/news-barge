@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T13:10:39Z'
 published: '2026-08-19T00:00:00Z'
 description: A retailer is planning to open its flagship store in England in York.
 image: https://www.yorkpress.co.uk/resources/images/21337768.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Flagship store of 'world-respected' retailer planned for York

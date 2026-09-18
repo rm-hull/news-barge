@@ -9,6 +9,12 @@ published: '2026-08-19T00:00:00Z'
 description: A younger girl from the same family is in a critical condition in hospital
   after the emergency
 image: https://static.independent.co.uk/2026/08/18/17/56/Screenshot-2026-08-18-at-18-06-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- Society & Culture
+- Health & Fitness
 ---
 
 A girl is fighting for her life in hospital after three of her family members died after getting into trouble in the water off Shoreham-by-Sea.

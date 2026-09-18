@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: The data search and AI giant confirmed unauthorized access to its systems
   during an incident on Tuesday, and said it was investigating the breach.
 image: https://techcrunch.com/wp-content/uploads/2026/08/alation.jpg?w=1186
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Days after reporting an incident affecting a number of its customers, enterprise data giant Alation on Thursday confirmed a cyberattack.

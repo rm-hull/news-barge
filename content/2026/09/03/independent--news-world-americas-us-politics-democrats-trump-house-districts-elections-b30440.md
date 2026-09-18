@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Democrats are dreaming of pulling off upsets in what might be called
   “reach” House districts, where Republicans usually win and likely will again
 image: https://static.independent.co.uk/2026/09/02/16/2166434504..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 These contests are far from toss-ups, yet Democrats are eyeing ambitious long-shot House districts where Republicans reliably hold power. The party hopes an unexpected political wave in November could narrow the gaps in these traditional GOP strongholds.

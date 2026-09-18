@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The MPC will vote on 17 September over whether to raise rates back to
   4 per cent
 image: https://static.independent.co.uk/2026/08/20/10/57/iStock-179462314.jpeg?trim=2,0,2,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 In under two weeks, a key vote will determine the next course of the UK economy, that could send mortgage costs spiralling.

@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A Darlington social club is bucking the trend at a time when many community
   venues face an uncertain future, according to its stewards.
 image: https://www.thenorthernecho.co.uk/resources/images/21449682.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied by Goffy Media)*

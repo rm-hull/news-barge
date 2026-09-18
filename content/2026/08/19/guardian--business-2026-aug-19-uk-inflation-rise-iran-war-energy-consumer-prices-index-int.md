@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Accelerating prices in July add to pressure on households, with chancellor
   saying ‘there is more to do to restore hope’
 image: https://i.guim.co.uk/img/media/4ca22deedb3ea37ee229f3cd0b29ab2ac1cd8a2e/321_0_3143_2514/master/3143.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b5c1248fe19f824285e17d4f288ef942
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 UK inflation rose to 2.9% in July as the impact of the Iran war on energy prices triggered a renewed cost of living squeeze for British households.

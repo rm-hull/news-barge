@@ -8,6 +8,9 @@ scraped_at: '2026-09-17T04:45:51Z'
 published: '2026-09-17T00:00:00Z'
 description: This live blog is now closed.
 image: https://i.guim.co.uk/img/media/65bd3eb6cf5562617132185226fdf539cafbb2b2/601_0_4473_3579/master/4473.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=78db3bf58f5ca368d75c82f3e0796ca0
+categories:
+- UK
+- News & Politics
 ---
 
 Trump claims he told Fed chair Kevin Warsh to vote with the rest of the board for rate hike

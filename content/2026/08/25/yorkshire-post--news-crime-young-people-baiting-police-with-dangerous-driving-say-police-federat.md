@@ -9,6 +9,13 @@ description: Young people are “baiting police officers” with dangerous drivi
   Police Federation of England and Wales said in the wake of the collision in which
   seven people, including two police officers, were killed.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/23/11/cs-056084c2-1ccc-4d22-b8ae-288cfcf28009.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 # Young people ‘baiting police’ with dangerous driving, say Police Federation

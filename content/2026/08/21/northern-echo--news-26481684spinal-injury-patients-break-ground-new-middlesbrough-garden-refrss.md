@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Patients recovering from spinal injuries have helped break ground on
   a new therapeutic garden at The James Cook University Hospital in…
 image: https://www.thenorthernecho.co.uk/resources/images/21350237.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Patients recovering from life-changing spinal injuries have helped break ground on a new therapeutic garden in the North East designed to support rehabilitation, wellbeing and recovery for thousands of people.

@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A body has been found in the search for a 15-year-old boy from Yorkshire
   who got into difficulty in the sea while on a family holiday.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21429672.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: PA)*

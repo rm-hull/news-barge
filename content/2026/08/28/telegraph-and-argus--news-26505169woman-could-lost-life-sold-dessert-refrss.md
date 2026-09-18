@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: A woman “could have lost her life” after a popular drive-thru sold her
   a “nut free” dessert that contained traces of Nutella.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21385913.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: T&A)*

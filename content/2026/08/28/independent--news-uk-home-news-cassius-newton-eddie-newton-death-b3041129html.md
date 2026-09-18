@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T22:13:59Z'
 published: '2026-08-28T00:00:00Z'
 description: Chelsea says it is ‘devastated’ to learn the news
 image: https://static.independent.co.uk/2026/08/28/14/56/cassius-newton.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The son of former Chelsea midfielder Eddie Newton died in the United Arab Emirates, along with his friend, after they went for a hike in 40C temperatures, has inquest has heard.

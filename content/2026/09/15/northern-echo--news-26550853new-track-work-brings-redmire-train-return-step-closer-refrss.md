@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A major new phase of work is under way to restore passenger train services
   to Wensleydale Railway.
 image: https://www.thenorthernecho.co.uk/resources/images/21456291.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

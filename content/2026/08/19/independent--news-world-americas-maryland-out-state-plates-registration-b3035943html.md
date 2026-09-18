@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: Maryland residents have until October 1 to register their cars in the
   state before facing fines
 image: https://static.independent.co.uk/2026/08/19/19/48/GettyImages-990699716.jpg?trim=35,0,35,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Maryland is cracking down on out-of-state license plates, giving drivers six weeks to register their cars properly.

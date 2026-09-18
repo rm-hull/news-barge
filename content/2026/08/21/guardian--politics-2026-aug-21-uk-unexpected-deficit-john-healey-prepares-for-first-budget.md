@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: July data shows total public debt was £2.98tn, or 94% of GDP – up £96bn
   on a year earlier
 image: https://i.guim.co.uk/img/media/eadf84d9e5d01ff500009590ac604fb156ba5f07/566_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b5c64ce791d4db1d90477cc6f699f92
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 The UK government ran a larger than expected £1.8bn deficit in July, underlining the challenges facing the chancellor, John Healey, as he draws up his first budget.

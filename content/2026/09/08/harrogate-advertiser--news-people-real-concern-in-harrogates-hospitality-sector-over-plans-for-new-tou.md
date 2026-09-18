@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Harrogate business leaders have reacted with skepticism to a new report
   recommending a new £1 a night visitor levy in York and North Yorkshire.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmYyNDMyODRhLWFkNGUtNGY0MC04ZDhkLTNlNjU1NTk5ZGVkZDo1MzUxZDA0MS00YzU0LTQxODUtOTczNS00YjQzYzRhOTAxMTM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 # 'Real concern' in Harrogate's hospitality sector over plans for new tourist tax in North Yorkshire

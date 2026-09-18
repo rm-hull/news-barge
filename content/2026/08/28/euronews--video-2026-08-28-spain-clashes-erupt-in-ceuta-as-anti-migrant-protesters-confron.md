@@ -9,6 +9,9 @@ description: Video. Clashes broke out between police and protesters in Spain’s
   African enclave of Ceuta on 27 August, amid growing tensions over the presence of
   thousands of migrants.
 image: https://images.euronews.com/articles/stories/09/89/26/23/1200x675_cmsv2_7fb4136a-d978-5739-893a-cfb86c0430dc-9892623.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 Police moved to disperse demonstrators at Trampolín and Benítez beaches after belongings and makeshift shelters used by migrants were set alight during the unrest. Footage broadcast by Spanish public television showed protesters throwing objects into bonfires as police pushed them back, while migrants retreated behind a police cordon on a pier.

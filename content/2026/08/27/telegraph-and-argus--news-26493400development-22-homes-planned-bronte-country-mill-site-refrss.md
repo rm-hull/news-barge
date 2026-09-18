@@ -8,6 +8,13 @@ published: '2026-08-27T00:00:00Z'
 description: A village mill in the Bradford district could be redeveloped as a housing
   estate if a new planning application is approved.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21368527.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Real Estate
+- Home, Garden & DIY
+- Personal Finance & Investing
 ---
 
 *(Image: Google)*

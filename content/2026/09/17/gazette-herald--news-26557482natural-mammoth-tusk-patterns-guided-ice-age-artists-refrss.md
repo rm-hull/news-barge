@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: ICE Age artists found inspiration in the natural world in more ways than
   one
 image: https://www.gazetteherald.co.uk/resources/images/21465979.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

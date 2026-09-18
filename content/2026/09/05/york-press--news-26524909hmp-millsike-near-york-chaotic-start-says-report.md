@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: A “chaotic” start and “consistent” staffing shortages are among the stark
   criticisms levelled at HMP Millsike near York in its first annual…
 image: https://www.yorkpress.co.uk/resources/images/19264267.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## 'Unready, understaffed and unsafe' - report on 'chaotic' start for prison near York

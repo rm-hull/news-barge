@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: Alessandro Rapinese said the prohibition was for public safety, adding
   "I know what it's like to be hit by one of these beasts".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9cc9/live/f3b6f660-9caf-11f1-84cf-fd4cfd9d6c84.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Sunny yellow buildings and greenery sit infront of green mountains overlooking Lake Como.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/9cc9/live/f3b6f660-9caf-11f1-84cf-fd4cfd9d6c84.jpg)

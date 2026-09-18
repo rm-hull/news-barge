@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Journalist Gabriel Macarthur has taken a look at the challenges facing
   the business incubator Spark York in helping traders take the next step…
 image: https://www.yorkpress.co.uk/resources/images/21420025.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Why getting a permanent place at Spark York is proving difficult

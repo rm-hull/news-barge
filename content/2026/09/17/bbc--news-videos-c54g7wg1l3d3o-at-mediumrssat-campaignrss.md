@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: The 0.25% increase comes despite fierce opposition from the US president,
   who has called for rates to be cut.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/abef/live/2985fd10-b22f-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 # Why Trump's hand-picked Fed chair defied him by raising interest rates

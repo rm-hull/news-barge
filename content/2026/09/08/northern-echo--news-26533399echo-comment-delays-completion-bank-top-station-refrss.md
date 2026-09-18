@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: IT takes a certain amount of skill to make a PR disaster out of a £160m
   project which is the biggest overhaul in a station’s 140 year history and…
 image: https://www.thenorthernecho.co.uk/resources/images/21427421.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Peter Reimann)*

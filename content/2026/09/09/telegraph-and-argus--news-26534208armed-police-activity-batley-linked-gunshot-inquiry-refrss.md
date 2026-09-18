@@ -8,6 +8,11 @@ scraped_at: '2026-09-09T12:57:22Z'
 published: '2026-09-09T00:00:00Z'
 description: Armed police were seen on a residential street last night.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21337922.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: PA)*

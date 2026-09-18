@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Public offering of Aliko Dangote’s Nigerian oil refinery business could
   swell his net wealth by two-thirds
 image: https://i.guim.co.uk/img/media/0dd7d54aa55fc6efb92d31ef2ef0090f02be60d8/1694_212_2444_1955/master/2444.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=49c8a48cf966cae0a59dc2b7a422bfca
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 The fortune of Africa’s richest person could swell by two thirds to nearly $60bn (£44bn) after his refinery in Nigeria listed publicly in the continent’s biggest-ever initial public offering.

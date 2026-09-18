@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: At a specialist childhood obesity clinic, almost all of the children
   are not in school. Why?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e3b8/live/37783600-a6c1-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
+- Society & Culture
 ---
 
 ![Alice Aylett Roberts](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/51c9/live/4b073ae0-a6c1-11f1-b109-879e35c24276.png)

@@ -8,6 +8,11 @@ scraped_at: '2026-09-01T13:28:37Z'
 published: '2026-09-01T00:00:00Z'
 description: Could initiate mass production in 2027.
 image: https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
+- Music
 ---
 
 ![Micron](https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH.jpg) 

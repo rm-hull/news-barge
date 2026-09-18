@@ -10,6 +10,10 @@ description: The Guatemalan president emphasized the country does not function a
   a ‘safe third country’ and that financial costs are covered by either Mexican or
   US authorities
 image: https://static.independent.co.uk/2026/08/19/22/2026-08-13T010844Z_2039020134_RC2MMEAR62Y2_RTRMADP_3_USA-TRUMP-ICE-GLOVES.JPG?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Approximately 2,300 Mexican nationals deported from the U.S. have landed in Guatemala so far in 2026, President Bernardo Arevalo revealed during an interview broadcast late Wednesday.

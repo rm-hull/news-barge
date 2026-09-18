@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: A decagon – a geometric polygon with 10 sides and 10 angles – has been
   found on Saturn, and nobody is quite sure how it got there
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310348374.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Saturn as captured by the Hubble Space Telescope on 29 August 2025. The black arrows mark the position of the decagon](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310348374.jpg?w=840)

@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: The Red Devils have a seat at Europe's top table again, with an Azerbaijani
   outfit providing the opposition on matchday one
 image: https://cdn.mos.cms.futurecdn.net/yZ7EfjqRsbkm9e72Hu3aWJ-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![HULL, ENGLAND - AUGUST 22: Bruno Fernandes of Manchester United during the Premier League 2026/27 match between Hull City and Manchester United at MKM Stadium on August 22, 2026 in Hull, United Kingdom. (Photo by Robbie Jay Barratt - AMA/Getty Images)](https://cdn.mos.cms.futurecdn.net/yZ7EfjqRsbkm9e72Hu3aWJ.jpg) 

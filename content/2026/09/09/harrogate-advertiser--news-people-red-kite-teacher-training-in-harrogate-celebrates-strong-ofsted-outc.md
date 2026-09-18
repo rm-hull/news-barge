@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: A Harrogate-based provider of teacher training has been rated strong
   in its latest Ofsted report.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmQ0YjRhNGNmLWU2MmItNDVlMi1hYTYxLWViZWU5ZDk3MGI3ZDplNGY5NWM1NS03NzdmLTQzZmEtYjBhMi02ODI5ZjYwOTk2ZDQ=.jpg?crop=3:2,smart&trim=&width=1024&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Education & Learning
+- Sports
 ---
 
 # Red Kite Teacher Training in Harrogate celebrates 'strong' Ofsted outcome in 10th anniversary year

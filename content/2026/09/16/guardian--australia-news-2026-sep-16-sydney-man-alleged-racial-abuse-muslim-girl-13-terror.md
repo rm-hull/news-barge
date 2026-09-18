@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Omar Yassine was arrested and charged with stalking and intimidation
   after allegedly hurling insults at year 8 student wearing a hijab
 image: https://i.guim.co.uk/img/media/9a0785521f735ce9448183d9355fb57ad83ac225/408_867_3159_2527/master/3159.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba1e3fdba8fffeedbe0c5637e9ac3ab8
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A middle-aged man accused of a “disgusting” Islamophobic attack on a 13-year-old girl has berated a judge after he was denied bail

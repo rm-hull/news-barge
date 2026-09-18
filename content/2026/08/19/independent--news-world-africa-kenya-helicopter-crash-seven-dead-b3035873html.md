@@ -9,6 +9,11 @@ description: The incident comes amid a growing number of helicopter crashes in K
   where the tourism industry relies heavily on domestic aviation companies to transport
   travelers to distant landmarks
 image: https://static.independent.co.uk/2026/08/19/18/PATgmW6r3EkgBJNdaLg_L6OJZgdfihb_a0RA1IJzsFDyFam00YaBQvUsOmm9qEfPMZh6RDx3WTrirzbJgcLsLBENyGW5SKfsEeLT..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Technology & Software
 ---
 
 Seven people, including a US media executive and four other Americans, have died after a safari helicopter crashed in a remote region of northern Kenya on Wednesday.

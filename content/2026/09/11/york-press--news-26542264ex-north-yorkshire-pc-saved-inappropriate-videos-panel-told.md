@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: A former North Yorkshire Police officer had extreme pornographic videos
   from a stag do WhatsApp group chat saved on his phone, a misconduct panel…
 image: https://www.yorkpress.co.uk/resources/images/19003059.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: Richard Doughty)*

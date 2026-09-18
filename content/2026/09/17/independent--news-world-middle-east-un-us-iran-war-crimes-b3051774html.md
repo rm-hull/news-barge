@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: U.N.-commissioned human rights experts say they have found “reasonable
   grounds” to believe the United States committed war crimes in two strikes in Iran
 image: https://static.independent.co.uk/2026/09/09/07/Iran_School_57351.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Human rights experts appointed by the United Nations’ top rights body say they have established "reasonable grounds" to believe the United States committed war crimes during two military strikes in Iran earlier this year, including an attack on an elementary school in the southern city of Minab.

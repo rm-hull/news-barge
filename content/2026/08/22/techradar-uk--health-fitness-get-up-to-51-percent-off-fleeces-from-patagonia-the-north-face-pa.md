@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: The cosiest, coolest fleeces from Passenger, The North Face, Rab and
   more — with up to 51% off
 image: https://cdn.mos.cms.futurecdn.net/NQNNRs3vWqcTDtbTwdDRmf-2560-80.jpg
+categories:
+- Technology & Software
+- Lifestyle & Fashion
+- Travel
 ---
 
 ![Models wearing fleece jackets](https://cdn.mos.cms.futurecdn.net/NQNNRs3vWqcTDtbTwdDRmf.jpg) 

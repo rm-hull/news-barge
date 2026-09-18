@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Israel has released four more Lebanese civilians who had been detained
   in southern Lebanon, a day after the first was freed
 image: https://static.independent.co.uk/2026/09/04/10/APTOPIX_Iran_War_Strait_of_Hormuz_54412.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Israel has released four more Lebanese civilians who had been detained by its forces in southern Lebanon. Ship traffic remains low on the Strait of Hormuz days after the U.S. and Iran exchanged attacks for the first time in a month.

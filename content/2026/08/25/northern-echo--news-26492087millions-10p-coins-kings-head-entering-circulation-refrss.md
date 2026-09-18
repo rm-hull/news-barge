@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: The Royal Mint has shared that millions of 10p coins with King Charles'
   portrait will be heading into circulation
 image: https://www.thenorthernecho.co.uk/resources/images/21366629.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Royal Mint/PA Wire)*

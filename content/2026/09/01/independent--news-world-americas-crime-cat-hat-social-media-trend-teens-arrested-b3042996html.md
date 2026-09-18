@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Authorities in Kentucky and Colorado have cracked down on the trend over
   concerns about students’ safety
 image: https://static.the-independent.com/2026/09/01/18/52/iStock-2196643224.jpg?trim=39,0,39,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A viral social media trend has landed teens in trouble with police in at least two states as authorities warn students about threats to school safety.

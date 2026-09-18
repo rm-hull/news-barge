@@ -9,6 +9,11 @@ description: Ayyoub Bouaddi belies his age with a mature Champions League perfor
   on his first Manchester City start to showcase why the club were so intent on signing
   the 18-year-old.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/74ba/live/5401f370-abcf-11f1-897e-d7c2bae07186.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 ![Ayyoub Bouaddi](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/74ba/live/5401f370-abcf-11f1-897e-d7c2bae07186.jpg)

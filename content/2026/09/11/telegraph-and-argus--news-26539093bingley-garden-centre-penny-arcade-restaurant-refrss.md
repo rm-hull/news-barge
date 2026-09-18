@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Woodbank Garden Centre has hundreds of plants to choose from as well
   as a pet store, restaurant, and penny arcade.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21435328.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: Tripadvisor)*

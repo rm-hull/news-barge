@@ -9,6 +9,12 @@ description: Public transport is not just about getting people from one place to
   A reliable network can transform towns, cities and villages. It can boost productivity
   and help deliver economic growth, connecting people to opportunities.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjNjMDg3ZjFlLTFlNjktNDFiZC1iNmI3LTAxOWI4MzlmMDg1YjowYjk4MTQ4Zi02ZmZjLTQwY2MtOGNlMS1jMjYwZTg3YWFlODA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 # Why free all day bus travel for disabled passengers is to be welcomed

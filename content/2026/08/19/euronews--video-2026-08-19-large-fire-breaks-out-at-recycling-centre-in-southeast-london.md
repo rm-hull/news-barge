@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Video. A large fire breaks out at a recycling centre in Deptford, southeast
   London, as 15 fire engines and around 100 firefighters tackle the blaze.
 image: https://images.euronews.com/articles/stories/09/87/97/78/1200x675_cmsv2_7217aade-4ad4-5db8-843a-5aac77f0548c-9879778.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 A large fire broke out at a recycling centre in Deptford, southeast London, sending thick smoke into the sky as people gathered to watch.

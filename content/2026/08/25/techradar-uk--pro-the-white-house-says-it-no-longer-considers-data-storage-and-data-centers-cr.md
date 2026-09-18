@@ -8,6 +8,8 @@ scraped_at: '2026-08-25T20:41:05Z'
 published: '2026-08-25T00:00:00Z'
 description: The move raises some critical policy questions
 image: https://cdn.mos.cms.futurecdn.net/qNRvum8x6AQhGt9NZWWgWB-1280-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Data center](https://cdn.mos.cms.futurecdn.net/qNRvum8x6AQhGt9NZWWgWB.jpg) 

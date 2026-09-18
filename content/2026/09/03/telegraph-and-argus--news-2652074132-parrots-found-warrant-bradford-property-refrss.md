@@ -9,6 +9,12 @@ published: '2026-09-03T00:00:00Z'
 description: More than 30 parrots suspected of being illegally imported into the UK
   were discovered during a multi-agency operation at a property.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21408880.jpg?type=og-image&xType=0&yType=542
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
+- Personal Finance & Investing
 ---
 
 More than 30 parrots suspected of being illegally imported into the UK were discovered during a multi-agency operation at a Bradford property.

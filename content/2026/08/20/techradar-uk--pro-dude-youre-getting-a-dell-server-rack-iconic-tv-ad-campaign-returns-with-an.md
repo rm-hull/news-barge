@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: The Dell Dude is seemingly back, just not to sell you a personal computer
   anymore
 image: https://cdn.mos.cms.futurecdn.net/VdLmveHHmartwK9V9KBAVJ-1920-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Dell Server](https://cdn.mos.cms.futurecdn.net/VdLmveHHmartwK9V9KBAVJ.png) 

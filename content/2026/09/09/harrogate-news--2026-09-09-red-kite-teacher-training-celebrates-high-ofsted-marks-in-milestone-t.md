@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: Red Kite Teacher Training achieves a Strong Standard across all primary
   and secondary provisions in its tenth anniversary year as a SCITT provider.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Trainees-Sept-2026-1.webp
+categories:
+- Local
+- Harrogate
+- Education & Learning
+- Sports
+- Health & Fitness
 ---
 
 **Red Kite Teacher Training** has secured a**Strong Standard** rating across all aspects of its primary and secondary provision following its latest inspection under Ofsted’s new Initial Teacher Education framework.

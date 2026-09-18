@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: An award-winning pet superstore has opened its doors in County Durham
   today, creating seven new jobs.
 image: https://www.thenorthernecho.co.uk/resources/images/21440324.jpg?type=og-image&xType=0&yType=341
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 An award-winning pet superstore has opened its doors in County Durham, creating seven new jobs.

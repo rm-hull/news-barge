@@ -7,6 +7,9 @@ scraped_at: '2026-08-25T16:50:40Z'
 published: '2026-08-25T00:00:00Z'
 description: Lica co-founders are going to work on Gamma's new research team.
 image: https://techcrunch.com/wp-content/uploads/2026/08/R6II0507.jpg?resize=1200,960
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Presentation startup Gamma has acquired Accel-backed design startup Lica in a bid to build out its own design research lab, TechCrunch has exclusively learned. Lica’s co-founders will lead the effort.

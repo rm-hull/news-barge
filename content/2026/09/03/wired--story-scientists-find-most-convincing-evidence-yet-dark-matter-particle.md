@@ -9,6 +9,11 @@ description: An underground detector recorded a strange interaction pointing to 
   particle with some properties that signify dark matter. The detection is small but
   promising.
 image: https://media.wired.com/photos/6a98924a0e116056ac219f35/191:100/w_1280,c_limit/932730082
+categories:
+- Technology & Software
+- Science
+- Film & TV
+- True Crime
 ---
 
 More than a kilometer underground, in what used to be a gold mine, inside a tank filled with tons of liquid xenon, “something” struck the nucleus of an atom. The tiny collision left an unusual energy signature that researchers are still unable to explain, but the scientists behind the experiment believe this could be the most convincing physical evidence of dark matter to date.

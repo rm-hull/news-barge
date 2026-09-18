@@ -7,6 +7,12 @@ scraped_at: '2026-09-08T12:50:41Z'
 published: '2026-09-08T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/yorkshire-air-ambulance-york-august-2026-1.webp
+categories:
+- Local
+- York
+- Automotive
+- Travel
+- Technology & Software
 ---
 
 The Yorkshire Air Ambulance was called to a serious collision in a village near Selby yesterday (Monday).

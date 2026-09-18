@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Major lenders have raised rates on new deals in recent days, leaving
   many borrowers needing to make a decision.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1d8/live/c8999ac0-ab71-11f1-9712-a14d469bace4.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Real Estate
 ---
 
 ![Two young women holding mugs sit on sofa surrounded by boxes and empty shelves.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/f1d8/live/c8999ac0-ab71-11f1-9712-a14d469bace4.jpg)

@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Discover the history of St John the Evangelist Church in Kirk Merrington,
   near Spennymoor, from its Norman origins to its role in a medieval siege.
 image: https://www.thenorthernecho.co.uk/resources/images/21378015.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: GOOGLE)*

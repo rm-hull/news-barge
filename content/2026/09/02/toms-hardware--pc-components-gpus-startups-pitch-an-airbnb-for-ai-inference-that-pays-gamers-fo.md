@@ -8,6 +8,10 @@ scraped_at: '2026-09-02T12:45:48Z'
 published: '2026-09-02T00:00:00Z'
 description: Your idle RTX 4090 could moonlight as a chatbot.
 image: https://cdn.mos.cms.futurecdn.net/ZnmibWeDaW8opTxR9rVBfE-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Nvidia GeForce RTX 4090](https://cdn.mos.cms.futurecdn.net/ZnmibWeDaW8opTxR9rVBfE.jpg) 

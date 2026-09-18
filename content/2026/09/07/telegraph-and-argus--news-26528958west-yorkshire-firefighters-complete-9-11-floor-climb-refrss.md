@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Five West Yorkshire firefighters travelled to Atlanta to complete a 110-floor
   memorial climb honouring the 343 firefighters killed on 9/11.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21421412.jpg?type=og-image&xType=0&yType=158
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 Five West Yorkshire firefighters have completed a 110-floor climb in the US in memory of colleagues killed in the 9/11 attacks.

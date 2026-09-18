@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Safety work and improvements to one of North Yorkshire’s most iconic
   routes will be extended this year during the road’s annual maintenance…
 image: https://www.gazetteherald.co.uk/resources/images/18485562.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: NYC)*

@@ -7,6 +7,12 @@ scraped_at: '2026-08-19T08:53:00Z'
 published: '2026-08-19T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/10/garforth-house-york-wk.webp
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- History
 ---
 
 One of the most expensive homes to come onto the York market in recent years has sold.

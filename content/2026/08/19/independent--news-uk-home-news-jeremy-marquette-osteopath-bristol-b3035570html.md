@@ -8,6 +8,10 @@ scraped_at: '2026-08-19T13:10:39Z'
 published: '2026-08-19T00:00:00Z'
 description: Jeremy Marquette also said that he does not ‘believe in rape’
 image: https://static.independent.co.uk/2026/08/19/11/44/1742073050120-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 An osteopath who told a patient “it’s OK to have sex with children as long as they have hit puberty” has been struck off.

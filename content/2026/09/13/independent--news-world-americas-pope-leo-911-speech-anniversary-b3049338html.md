@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: ‘I renew my prayers for those who lost their lives and for those who
   continue to bear the wounds of that tragic day’
 image: https://static.independent.co.uk/2026/09/13/11/Vatican_Pope_98_77.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Self-Improvement
 ---
 
 Marking the 25th anniversary of the 11 September terrorist attacks in his native country, Pope Leo XIV, history's first American pope, called for a renewed commitment to peace on Sunday.

@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Wholesale inflation picked up last month after cooling earlier this summer
   as higher oil and gas prices stemming from the Iran war are keeping costs elevated
 image: null
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Wholesale inflation picked up last month after cooling earlier this summer as higher oil and gas prices stemming from the Iran war are keeping costs elevated.

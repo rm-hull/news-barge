@@ -11,6 +11,11 @@ description: Last week the last of the exam results were posted and across the l
   all that was expected of them, be happy it is now all over. But please tell them
   it is not the be all and end all.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjdhNjFkZmIzLTkyZTktNGJhOC05MDc3LWNlMzg4YTViMDhkMjowYzBlNzhiYy0zMzJiLTQ2MTctOTA3Yy00NjBjZTFlY2Q0OTE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 # Barnsley Youth Choir's achievements show value of children learning music: Christa Ackroyd

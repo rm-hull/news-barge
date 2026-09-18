@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Israel's response to London's trade ban with Israeli settlements in the
   occupied West Bank shows how important this moment is.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c529/live/3bc5a6a0-9d8b-11f1-adf5-2dc21c9cc109.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Watch: There is ethnic cleansing in areas of the West Bank, says Miliband

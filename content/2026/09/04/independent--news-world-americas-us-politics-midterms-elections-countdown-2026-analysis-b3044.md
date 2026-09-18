@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: The Iran war, Elon Musk’s cash and who decides to spend money in Texas
   could all be curve balls this cycle, Eric Garcia writes
 image: https://static.independent.co.uk/2026/09/04/13/07/GettyImages-2290837206.jpeg?trim=0,114,0,114&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 On Thursday, the House of Representatives decided to cancel votes for the last two weeks of September, meaning that after next week’s break for Labor Day and Rosh Hashanah, the House will only be in business for four days until the midterm elections.

@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: A drunk who carried out a brutal attack on a couple in their own home
   has been locked up for six years.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21381655.jpg?type=og-image&xType=0&yType=580
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: West Yorkshire Police)*

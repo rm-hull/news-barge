@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: Hardliner Mohsen Rezaei also threatens American economic interests in
   first interview since appointment to supreme national security council
 image: https://i.guim.co.uk/img/media/9f4b6e8cc4cc111f0a7886d32b166aae30122886/257_4_1250_999/master/1250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc7f3b73c6cb35ba6b2d48d0da779d8d
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 The new leader of Iran’s top security body has warned its neighbours against joining new US efforts to squeeze Tehran’s economy, and threatened US commercial interests in the region, as Donald Trump doubled down on his fanciful view that the strait of Hormuz was a new US territory.

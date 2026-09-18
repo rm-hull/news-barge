@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Harrogate Homeless Project has welcomed a £547,000 funding package aimed
   at improving support for rough sleepers in the district.
 image: https://mmo.aiircdn.com/409/68243bd8a178e.jpg
+categories:
+- Local
+- Harrogate
+- Personal Finance & Investing
 ---
 
 ![](https://mmo.aiircdn.com/409/68243bd8a178e.jpg) 

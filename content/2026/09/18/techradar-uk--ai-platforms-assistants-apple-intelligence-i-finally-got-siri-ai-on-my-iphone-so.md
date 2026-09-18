@@ -9,6 +9,8 @@ published: '2026-09-18T00:00:00Z'
 description: I’ve waited years for Apple to fix Siri, and now I’ve started using it
   again
 image: https://cdn.mos.cms.futurecdn.net/o2L6HLk4Fqnq6wehjXWJY6-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Split screen image of Siri AI and ChatGPT Voice Mode.](https://cdn.mos.cms.futurecdn.net/o2L6HLk4Fqnq6wehjXWJY6.jpg) 

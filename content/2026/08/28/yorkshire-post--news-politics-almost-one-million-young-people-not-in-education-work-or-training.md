@@ -9,6 +9,11 @@ description: The number of young people not in education, employment or training
   fallen in recent months however is still close to one million, official figures
   have shown.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ2NGQ0ZDY2LWRmNGItNDMxMC1hM2QyLWNkNjQ2YjQzYmQzOToxMWZiMzJiOC01NDVhLTQ2NjctOTY5NC1lMzgxNDQxNzNlOWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Almost one million young people not in education, work or training

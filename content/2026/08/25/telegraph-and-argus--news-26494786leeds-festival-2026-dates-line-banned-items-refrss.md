@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Leeds Festival is starting this Thursday so here is everything you need
   to know before heading to the event.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21370669.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Getty)*

@@ -10,6 +10,11 @@ description: A spectacular performance at the Bishkek Arena opened the sixth edi
   national teams from every continent. Athletes will compete in 43 disciplines rooted
   in Asia's ancient nomadic culture.
 image: https://images.euronews.com/articles/stories/09/89/63/11/1200x675_cmsv2_185fa0bf-ba8b-55ff-981a-98b841270760-9896311.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 ## A spectacular performance at the Bishkek Arena opened the sixth edition of the World Nomad Games. This is the biggest competition yet, with more than 100 national teams from every continent. Athletes will compete in 43 disciplines rooted in Asia's ancient nomadic culture.

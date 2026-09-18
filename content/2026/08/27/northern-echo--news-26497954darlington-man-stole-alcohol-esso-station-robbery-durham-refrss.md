@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: A Darlington man has admitted taking part in a robbery at a petrol filling
   station near Durham in which alcohol was stolen.
 image: https://www.thenorthernecho.co.uk/resources/images/21375159.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 *(Image: Durham Constabulary)*

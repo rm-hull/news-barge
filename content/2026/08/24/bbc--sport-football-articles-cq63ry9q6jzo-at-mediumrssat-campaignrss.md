@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Ollie Watkins has been an Aston Villa legend but it appears his time
   at the club is nearing a painful end amid interest from Saudi Arabia.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/29c5/live/0d070e60-9fd6-11f1-b1ca-0b18d44a4d5d.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Ollie Watkins](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/78e2/live/e523f0a0-9fb9-11f1-b703-13ae65ccf6b5.jpg)

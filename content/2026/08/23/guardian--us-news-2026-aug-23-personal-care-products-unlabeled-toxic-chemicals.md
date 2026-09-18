@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Even products labeled ‘eco’, ‘green’ or ‘natural’ can contain dangerous
   compounds including Pfas
 image: https://i.guim.co.uk/img/media/7420f02ca56279ae46f2be586ec4fe821acba030/797_0_5018_4016/master/5018.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd9680320b4df141b87d96a8f7d2c106
+categories:
+- UK
+- News & Politics
+- Science
+- Health & Fitness
 ---
 
 Common personal care products widely contain unlabeled toxic chemicals, results from a new peer-reviewed study suggest. The testing of more than 110 items ranging from shampoo to baby lotions found evidence of unlabeled toxic chemicals in about 85%.

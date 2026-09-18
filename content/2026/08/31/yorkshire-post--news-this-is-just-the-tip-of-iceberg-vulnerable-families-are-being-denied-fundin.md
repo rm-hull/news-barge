@@ -10,6 +10,13 @@ description: Families across Britain are facing potentially catastrophic care co
   after being wrongly denied NHS funding which is supposed to support people with
   major, long-term healthcare needs, according to a Yorkshire lawyer.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY4ODQ4OGZjLTAzYjQtNGNjNS05ZjRiLTc4NzFhYTk4Yjc4ZDoyNGYyYWEyYS03NWQ0LTRmODctYmM5My1kZDhiNWVkODRkYjU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
+- Society & Culture
+- News & Politics
 ---
 
 # 'This is just the tip of iceberg': Vulnerable families are being denied funding, says lawyer

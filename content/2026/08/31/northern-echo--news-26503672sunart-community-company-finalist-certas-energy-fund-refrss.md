@@ -7,6 +7,11 @@ scraped_at: '2026-08-31T16:08:20Z'
 published: '2026-08-31T00:00:00Z'
 description: Huge news for Strontian! 🌿
 image: https://www.thenorthernecho.co.uk/resources/images/21383701.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Certas Energy)*

@@ -8,6 +8,8 @@ scraped_at: '2026-08-21T01:53:42Z'
 published: '2026-08-20T00:00:00Z'
 description: Could it be this simple?
 image: https://cdn.mos.cms.futurecdn.net/Huij6d3a7gBQ3JN9cxuzR-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A person perusing the recommendations on the Home screen of the Amazon Kindle Paperwhite (2024)](https://cdn.mos.cms.futurecdn.net/Huij6d3a7gBQ3JN9cxuzR.jpg) 

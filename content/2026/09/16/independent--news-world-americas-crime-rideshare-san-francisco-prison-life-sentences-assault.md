@@ -9,6 +9,10 @@ description: Orlando Vilchez Lazo reportedly worked as a Lyft driver before his 
   arrest and passed the company’s background check despite being an undocumented immigrant
   from Peru
 image: https://static.the-independent.com/2026/09/16/18/01/Untitled-design-(11).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A San Francisco man dubbed the “rideshare rapist” has been sentenced to 150 years in prison for posing as a rideshare driver to pick up women and sexually assault them.

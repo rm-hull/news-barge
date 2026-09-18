@@ -8,6 +8,13 @@ published: '2026-09-11T00:00:00Z'
 description: Regional leaders have welcomed plans announced by the Government to allow
   mayors to charge an overnight visitor tax.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRiMTQ2NWVjLWFjMDYtNGE1NS1iN2U3LWIwNjNmODI5ZGQzMDpiNzQ0NDAzOC1hYWQ5LTQ3NjYtOTU2Mi1jOWRlZDY2Y2Y4NmE=.png?crop=3:2,smart&trim=&width=434&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 # Regional leaders welcome tourist tax as industry airs concerns

@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Several papers focus on the UK defence spending targets and Chancellor
   John Healey's plans to shelve his target.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06e8/live/c35a78c0-a330-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![The headline on the front page of the Financial Times reads: 'Healy to defer defence spend target.'](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/5ca2/live/521189e0-a323-11f1-a291-b542ee92de7c.jpg)

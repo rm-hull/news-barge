@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Campaigners are set to march through Harrogate this weekend to raise
   awareness of the use of dogs in laboratory testing.
 image: https://mmo.aiircdn.com/409/6a9fc0878ddd4bbb795.jpg
+categories:
+- Local
+- Harrogate
+- Health & Fitness
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9fc0878ddd4bbb795.jpg) 

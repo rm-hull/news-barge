@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: A long-established service that has supported people with additional
   needs for four decades is set to close.
 image: https://www.thenorthernecho.co.uk/resources/images/21439491.jpg?type=og-image&xType=0&yType=381
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: GOOGLE MAPS)*

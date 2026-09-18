@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: A “fabulous” family home with Minster views has hit the market off Heslington
   Road in York – for £650,000.
 image: https://www.gazetteherald.co.uk/resources/images/21410689.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 A “fabulous” family home with Minster views has hit the market in York – for £650,000.

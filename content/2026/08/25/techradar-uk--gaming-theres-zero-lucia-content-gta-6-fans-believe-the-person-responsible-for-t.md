@@ -10,6 +10,9 @@ published: '2026-08-25T00:00:00Z'
 description: Grand Theft Auto 6 fans are convinced the person behind the ongoing leaks
   doesn't have access to the full game, but a restricted build.
 image: https://cdn.mos.cms.futurecdn.net/HNVgJmpYAHjj66mJwTtSVP-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/HNVgJmpYAHjj66mJwTtSVP.jpg) 

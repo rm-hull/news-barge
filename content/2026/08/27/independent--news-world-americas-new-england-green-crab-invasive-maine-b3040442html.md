@@ -10,6 +10,10 @@ description: The creatures thrive across varied habitats, consuming almost any f
   source, and reproducing rapidly; a female can release up to 185,000 eggs once or
   twice annually
 image: https://static.independent.co.uk/2026/08/26/14/Invasive_Species_Green_Crabs_927_8.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 As morning fog cleared across Maine's York River, Mike Masi and his two interns worked alongside a dock, sorting through a pile of the region's most reviled crabs in search of a select few that might feature on a New England diner's plate.

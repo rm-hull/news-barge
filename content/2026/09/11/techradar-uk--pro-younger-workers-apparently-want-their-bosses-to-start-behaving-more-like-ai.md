@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T12:49:25Z'
 published: '2026-09-11T00:00:00Z'
 description: Tell me what you want, what you really, really want
 image: https://cdn.mos.cms.futurecdn.net/bGwfWH6msj3nt7d7uk7oq6-1920-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
+- Self-Improvement
 ---
 
 ![A person making a sales call in an office.](https://cdn.mos.cms.futurecdn.net/bGwfWH6msj3nt7d7uk7oq6.jpg) 

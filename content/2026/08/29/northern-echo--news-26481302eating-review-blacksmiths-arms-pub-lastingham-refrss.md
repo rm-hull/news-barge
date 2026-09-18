@@ -9,6 +9,12 @@ published: '2026-08-29T00:00:00Z'
 description: THIS week’s review comes to you courtesy of the ladies of Updale Women’s
   Institute, writes Malcolm Warne
 image: https://www.thenorthernecho.co.uk/resources/images/21349834.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Travel
 ---
 
 This week’s review comes to you courtesy of the ladies of Updale Women’s Institute.

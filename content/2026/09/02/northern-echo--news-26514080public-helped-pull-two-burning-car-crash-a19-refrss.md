@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Members of the public helped pull two people from a burning car after
   a crash on the A19 near Crathorne.
 image: https://www.thenorthernecho.co.uk/resources/images/21393213.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: GOOGLE)*

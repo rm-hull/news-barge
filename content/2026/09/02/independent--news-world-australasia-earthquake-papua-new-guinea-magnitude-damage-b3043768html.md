@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T22:33:40Z'
 published: '2026-09-02T00:00:00Z'
 description: The magnitude 5.7 earthquake struck at 2004 GMT
 image: https://static.independent.co.uk/2025/04/14/17/53/iStock-923504666.jpeg?trim=0,142,0,142&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 An earthquake with a preliminary magnitude of 5.7 has struck Papua New Guinea, according to reports.

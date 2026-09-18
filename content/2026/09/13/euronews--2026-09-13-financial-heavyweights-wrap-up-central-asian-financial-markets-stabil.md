@@ -10,6 +10,11 @@ description: Around 8,000 participants from 90 countries, including representati
   under their control wrap up their sessions in Astana Finance Days with discussion
   about further development of Central Asian financial markets.
 image: https://images.euronews.com/articles/stories/09/91/30/32/1200x675_cmsv2_bdbe2a5f-51ea-559f-9184-c1d17e0e5728-9913032.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## Around 8,000 participants from 90 countries, including representatives of major global financial institutions and asset managers with more than €22 trillion under their control wrap up their sessions in Astana Finance Days with discussion about further development of Central Asian financial markets.

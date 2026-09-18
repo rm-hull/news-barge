@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: 'WELCOME to the modern South Asian wedding: hundreds of guests, several
   days of celebrations, designer outfits, mountains of food, fireworks, luxury…'
 image: https://www.thetelegraphandargus.co.uk/resources/images/21442971.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Pixabay)*

@@ -9,6 +9,9 @@ published: '2026-08-23T00:00:00Z'
 description: A first-time ATP Masters 1000 champion is guaranteed when the Frenchman
   plays the home favorite
 image: https://cdn.mos.cms.futurecdn.net/zKAy4YxfRRf7KcyN3GfQG5-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Frances Tiafoe celebrates his win against Brandon Nakashima during the Men's Semifinals on day twelve of the Cincinnati Open at the Lindner Family Tennis Center.](https://cdn.mos.cms.futurecdn.net/zKAy4YxfRRf7KcyN3GfQG5.jpg) 

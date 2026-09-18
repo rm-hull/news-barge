@@ -8,6 +8,11 @@ scraped_at: '2026-08-28T11:16:02Z'
 published: '2026-08-28T00:00:00Z'
 description: A rider has been reported after being stopped on an e-bike in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21378181.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: WYP)*

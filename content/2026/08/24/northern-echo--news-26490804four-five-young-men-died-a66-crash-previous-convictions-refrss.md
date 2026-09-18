@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Four of the five young men who died after their car hit a police vehicle
   on a dual carriageway had previously been convicted of crimes - some…
 image: https://www.thenorthernecho.co.uk/resources/images/21360941.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: SOCIAL MEDIA)*

@@ -10,6 +10,9 @@ description: The Palestinian American whose home in the occupied West Bank has b
   besieged by Israeli settlers criticized Israeli forces for not clearing them from
   his property 10 days since it began
 image: https://static.independent.co.uk/2026/08/18/12/Israel_Palestinians_West_Bank_277_4.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Palestinian American whose home in the occupied West Bank has been besieged for more than a week confronted Israeli settlers on his property Tuesday and demanded Israeli forces remove them from the area.

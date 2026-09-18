@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: The charges against Lam and 17 others are an extreme example of an increasingly
   common form of cybercrime
 image: https://static.independent.co.uk/2026/09/10/16/download.-4.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 A 22-year-old man pleaded guilty on Tuesday to pulling off one of the largest cryptocurrency thefts in history, duping a stranger out of bitcoin worth over $240 million.

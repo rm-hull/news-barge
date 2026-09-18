@@ -8,6 +8,9 @@ published: '2026-08-23T00:00:00Z'
 description: Natalie Harp, Trump’s executive assistant, was in the president’s spectator
   box along with first lady Melania Trump
 image: https://static.independent.co.uk/2026/08/23/19/download..?trim=244,0,244,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump and first lady Melania Trump were joined by family members, MAGA allies and White House staffers for the Freedom 250 Grand Prix Sunday**—** including devoted executive assistant Natalie Harp.

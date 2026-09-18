@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: ORMESBY Hall will open its doors to the public for free this month as
   part of Heritage Open Days
 image: https://www.thenorthernecho.co.uk/resources/images/21430164.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: @National Trust Images/Esme Mai)*

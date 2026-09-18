@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Wrapped Agency in York has appointed two new team members and announced
   five internal promotions.
 image: https://www.gazetteherald.co.uk/resources/images/21404658.jpg?type=og-image&xType=0&yType=80
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Wrapped Agency)*

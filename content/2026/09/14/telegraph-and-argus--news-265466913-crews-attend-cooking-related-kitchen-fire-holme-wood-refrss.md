@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Crews were called to a kitchen fire that broke out at a home in Holme
   Wood.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20364753.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Telegraph & Argus)*

@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Volunteers praised for transforming 'overgrown' Fulford Cemetery “bit
   by bit”
 image: https://www.yorkpress.co.uk/resources/images/21375168.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 **Fulford Cemetery volunteers thanked for improvements**

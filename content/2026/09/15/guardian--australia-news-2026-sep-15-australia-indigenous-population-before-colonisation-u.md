@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Study finds earlier numbers were underestimated, suggesting impact of
   diseases and massacres were much greater than previously thought
 image: https://i.guim.co.uk/img/media/e2009ea9527d314d1b8db783959fc226df5e54a3/1117_0_5586_4468/master/5586.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=65a814664864e6bcb2d4134b5667ce65
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The number of Aboriginal and Torres Strait Islander people in Australia before colonisation was dramatically underestimated, according to new research that suggests many more of them were killed.

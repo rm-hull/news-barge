@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A documentary about a retired Malham campsite owner and his lifelong
   fascination with UFOs is set to premiere this autumn.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21336214.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 A documentary about a retired Malham campsite owner and his lifelong fascination with UFOs is set to premiere this autumn.

@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: Dan Driscoll leaves after 18-months in the job with White House bogged
   down in Iran conflict
 image: https://static.independent.co.uk/2026/09/01/01/2026-08-31T231913Z_530877441_RC2FCLAELN2Q_RTRMADP_3_USA-ARMY-DRISCOLL.JPG?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Army Secretary Dan Driscoll is stepping down after 18 months on the job, the White House said Monday, in the latest departure of a top military leader during the Trump administration.

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A road closure is in place around Windsor Road and Hilda Place due to
   an ongoing fire in Saltburn.
 image: https://www.thenorthernecho.co.uk/resources/images/21427163.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 - Good afternoon, welcome to this Northern Echo live breaking news blog.

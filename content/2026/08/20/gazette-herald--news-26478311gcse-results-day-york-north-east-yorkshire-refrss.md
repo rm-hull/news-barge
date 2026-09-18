@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Make sure to follow along with The Press as our full GCSEs results day
   coverage is set to take place today (August 20) and in print tomorrow.
 image: https://www.gazetteherald.co.uk/resources/images/19862924.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

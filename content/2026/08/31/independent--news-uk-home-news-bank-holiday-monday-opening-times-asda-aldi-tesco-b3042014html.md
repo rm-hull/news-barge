@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Most supermarkets will be operating on reduced hours for the August bank
   holiday
 image: https://static.independent.co.uk/2026/04/09/7/55/GettyImages-497823444.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Many Britons will get to enjoy a day off on Monday for the UK’s last bank holiday until December.

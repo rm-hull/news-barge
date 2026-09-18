@@ -8,6 +8,12 @@ published: '2026-09-14T00:00:00Z'
 description: Existential fears about AI have once again reared their head - here's
   what you need to know.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f2b6/live/889402c0-b036-11f1-9ae0-e316eeb4632d.jpg
+categories:
+- UK
+- News & Politics
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![A stock image of a woman looking down at her smartphone, biting her nails nervously](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/f2b6/live/889402c0-b036-11f1-9ae0-e316eeb4632d.jpg)

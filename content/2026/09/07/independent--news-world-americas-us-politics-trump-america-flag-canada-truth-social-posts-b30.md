@@ -7,6 +7,9 @@ scraped_at: '2026-09-07T19:53:06Z'
 published: '2026-09-07T00:00:00Z'
 description: The president’s posts come amid an ongoing trade war with Canada
 image: https://static.independent.co.uk/2026/09/07/18/40/aa5ab775a7556bda.jpg?trim=0,19,0,18&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump posted an image on Truth Social on Monday showing a map where the United States covered all of continental North America and Greenland, the latest in a string of provocative posts with imperial undertones as the U.S. continues its trade war with Canada.

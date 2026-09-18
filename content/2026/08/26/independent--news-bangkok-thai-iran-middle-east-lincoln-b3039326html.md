@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: The U.S. aircraft carrier USS Abraham Lincoln is set to make a temporary
   stop in Thailand after its deployment in the Middle East
 image: https://static.independent.co.uk/2026/08/14/19/Iran_US_Aircraft_Carrier_364_1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The U.S. aircraft carrier USS Abraham Lincoln will make a stop in Thailand after its grueling deployment in the Middle East, Thai officials said Wednesday.

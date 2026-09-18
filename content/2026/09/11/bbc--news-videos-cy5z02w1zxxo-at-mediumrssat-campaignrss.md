@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Yemen's Houthis have seized territory near the Bab al-Mandab Strait -
   a key trade gateway for oil and global shipping.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cd1f/live/1252d580-adf4-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 # How global trade and oil prices could be hit by Houthi advance

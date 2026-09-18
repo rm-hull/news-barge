@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: A 35-acre business park is set for major investment and upgrades following
   its acquisition.
 image: https://www.thenorthernecho.co.uk/resources/images/21401093.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Suppled)*

@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: Burnham believes he will find ‘common ground’ with Trump despite his
   previous comments about the US president
 image: https://static.independent.co.uk/2026/08/26/10/2291562126..?trim=0,252,0,252&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Andy Burnham has stood by his previous comments about Donald Trump, claiming that the US president has likewise "said things as well".

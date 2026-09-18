@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Budget is one of the factors that community theatre companies must consider
   when deciding what shows to perform as STOS treasurer Christine Minott reflects.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjcwNzRmNmFlLTM0MGUtNGJhZS04ZGQ3LTlmYTcwNTkzYjQxZjo3YzA3YmE5OC03YTgyLTQxZDktYWZhMy1jZmY5YTIxN2RlY2E=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # 'Anything less than a sell out is not acceptable': The true cost of bringing community theatre to Sheffield's famous Lyceum

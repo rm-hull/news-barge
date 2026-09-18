@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: More than 626,000 people are expected to die from cancer in the US this
   year
 image: https://static.independent.co.uk/2026/09/11/14/08/GettyImages-53436647.jpeg?trim=0,10,0,8&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 America’s cancer treatment centers are continuing to face a years-long cancer drug shortage with implications for patient care, a new survey of more than 30 academic facilities reveals.

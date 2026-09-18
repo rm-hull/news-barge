@@ -8,6 +8,9 @@ scraped_at: '2026-08-29T13:50:16Z'
 published: '2026-08-29T00:00:00Z'
 description: Siya Kolisi returns from injury to captain the Springboks in Cape Town
 image: https://cdn.mos.cms.futurecdn.net/cHaFmZWXb4Mpmxb8mdtPV4-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![New Zealand wing Will Jordan dives to score a try during the Rugby's Greatest Rivalry international rugby union match against South Africa at Ellis Park Stadium in Johannesburg, on August 22, 2026](https://cdn.mos.cms.futurecdn.net/cHaFmZWXb4Mpmxb8mdtPV4.jpg) 

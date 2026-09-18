@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The company behind the much-loved Caramba Brazilian Steakhouse restaurants
   in York and Selby has gone into liquidation but a transfer to new owners…
 image: https://www.yorkpress.co.uk/resources/images/21369921.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 ## Much loved North Yorkshire restaurant saved after liquidation transfer

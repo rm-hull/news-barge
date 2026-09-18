@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Thermal Grizzly offers the halo CPU with the pop topped for an egregious
   price, yet it almost makes sense on this chip.
 image: https://cdn.mos.cms.futurecdn.net/wPFnMQRgcNRcBmAgKkm2km-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
 ---
 
 ![A product photo of a Thermal Grizzly delidded CPU.](https://cdn.mos.cms.futurecdn.net/wPFnMQRgcNRcBmAgKkm2km.jpg) 

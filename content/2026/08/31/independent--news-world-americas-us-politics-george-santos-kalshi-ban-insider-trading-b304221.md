@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: President Donald Trump commuted the disgraced ex-Congressman’s prison
   sentence last year
 image: https://static.independent.co.uk/2026/05/21/16/1815419947..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Prediction platform Kalshi has handed former U.S. congressman George Santos a lifetime ban and fined him $71,356 over allegations of insider trading.

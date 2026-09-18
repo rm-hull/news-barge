@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Two people have been taken to hospital after a serious crash on the A1(M)
   near Darlington. The road is expected to be shut for five hours.
 image: https://www.thenorthernecho.co.uk/resources/images/21411194.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: CONTRIBUTOR)*

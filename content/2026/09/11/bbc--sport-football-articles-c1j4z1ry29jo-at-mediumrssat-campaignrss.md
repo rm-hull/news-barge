@@ -10,6 +10,11 @@ description: Chelsea manager Xabi Alonso says striker Joao Pedro is similar styl
   to his former Real Madrid team-mate Karim Benzema and is at a comparable level to
   Manchester City's Erling Haaland.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c8bd/live/b38511e0-ade3-11f1-9a5c-a7a4083eb832.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Lifestyle & Fashion
 ---
 
 ![Joao Pedro holding his Player of the Month award](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c8bd/live/b38511e0-ade3-11f1-9a5c-a7a4083eb832.jpg)

@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Over 40% of films in LFF programme are female-made, but only two of 21
   gala films are directed by women
 image: https://i.guim.co.uk/img/media/02795ef029d96996045f4b0f505c6e0736bcf677/464_0_4383_3507/master/4383.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5eaf11b6bcf4a5095b5d2266c4d91545
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 Female film-makers are still being squeezed out of the industry as they progress beyond their debut films, the director of the London film festival has said, adding that “the dial does not seem to be moving”.

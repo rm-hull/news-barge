@@ -7,6 +7,9 @@ scraped_at: '2026-09-08T12:50:45Z'
 published: '2026-09-08T00:00:00Z'
 description: British sentiment toward data centers is still pretty negative
 image: https://cdn.mos.cms.futurecdn.net/DJqBvCh2nLiBZ3QhGnDSd6-1920-80.png
+categories:
+- Technology & Software
+- News & Politics
 ---
 
 ![The Fairwater AI datacenter design has two stories](https://cdn.mos.cms.futurecdn.net/DJqBvCh2nLiBZ3QhGnDSd6.png) 

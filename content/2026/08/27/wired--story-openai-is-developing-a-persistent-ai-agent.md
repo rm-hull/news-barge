@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Code reviewed by WIRED reveals the company is developing a feature that
   enables Codex to continue working proactively until it is “put to sleep.”
 image: https://media.wired.com/photos/6a905cdd60f4c0fdadcc5237/191:100/w_1280,c_limit/Model-Behavior-Illo-Template.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 OpenAI is developing a proactive, highly persistent version of its flagship AI agent, Codex, WIRED has learned.

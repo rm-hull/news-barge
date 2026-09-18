@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: Ann Ming and her grandson Kevin Hogg have opened up about the upcoming
   parole hearing for Billy Dunlop, who murdered Julie Hogg in 1989.
 image: https://www.thenorthernecho.co.uk/resources/images/21441926.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *“We are doing a life sentence. You are living and breathing it all the time.”*

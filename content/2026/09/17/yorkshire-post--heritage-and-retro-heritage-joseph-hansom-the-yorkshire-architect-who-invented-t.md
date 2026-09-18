@@ -10,6 +10,12 @@ description: Joseph Hansom was an architect from Yorkshire who invented the Hans
   cab in 1843 which was an early transportation vehicle in the form of a two-wheeled
   horse-drawn carriage.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjhiNDg3MzUyLWQ3MjgtNDg3NS05Yzg3LTU2NzExOTdlNmZlMzpkY2RlNjM2OS05MzBlLTQ4OWYtYWVjMy1iNGQzMjJhMTU2ZWI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Arts & Culture
 ---
 
 # Joseph Hansom: The Yorkshire architect who invented the Hansom cab in 1843 - a horse-drawn vehicle that was commonly used in cities worldwide during the Victorian era including the US

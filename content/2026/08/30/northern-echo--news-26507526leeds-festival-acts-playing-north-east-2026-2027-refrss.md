@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Here are some of the acts you can catch in the North East in 2026 and
   2027 after Leeds Festival this Bank Holiday weekend.
 image: https://www.thenorthernecho.co.uk/resources/images/21382813.jpg?type=og-image&xType=0&yType=569
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Adam Kennedy)*

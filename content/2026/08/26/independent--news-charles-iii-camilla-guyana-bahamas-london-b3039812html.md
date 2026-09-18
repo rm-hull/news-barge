@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: King Charles III and Queen Camilla will visit three countries in and
   around the Caribbean this fall
 image: https://static.independent.co.uk/2026/08/26/17/Britain_Royals_83257.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Travel
 ---
 
 King Charles III and Queen Camilla will visit three countries in and around the Caribbean when he travels to the region for the Commonwealth Heads of Government meeting, which begins Nov. 1 in St. John’s, the capital of Antigua and Barbuda.

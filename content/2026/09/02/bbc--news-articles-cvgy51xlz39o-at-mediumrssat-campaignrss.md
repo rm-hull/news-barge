@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: The Dutch central bank removes some of its gold reserves from the US
   and Canada, saying it is because of "increasing geopolitical unrest".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14d7/live/19860b20-a6e6-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- History
 ---
 
 ![Gold bars are neatly stacked on top of each other to form a pyramid shape.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/14d7/live/19860b20-a6e6-11f1-b109-879e35c24276.jpg)

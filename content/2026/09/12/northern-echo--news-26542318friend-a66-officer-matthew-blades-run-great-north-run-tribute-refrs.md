@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: The best friend of a police officer who lost his life on the A66 will
   carry on his fundraising challenge this weekend by running the Great North Run…
 image: https://www.thenorthernecho.co.uk/resources/images/21440858.jpg?type=og-image&xType=0&yType=126
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: DARAGH BURKE)*

@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Warren Buffett has been at the company for over 60 years, and served
   as chairman since 1970
 image: https://static.independent.co.uk/2026/09/18/12/2026-09-18T101743Z_1262787696_RC2MLNAG54UB_RTRMADP_3_BERKSHIRE-HATHAWAY-CHAIRMAN.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Warren Buffett is standing down as chairman of Berkshire Hathaway after leading the conglomerate for more than 50 years.

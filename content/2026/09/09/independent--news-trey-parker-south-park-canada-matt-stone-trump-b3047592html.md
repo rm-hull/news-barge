@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Trey Parker and Matt Stone, creators of "South Park," are changing the
   show's name to "SOUTH AMERICA," at least for now
 image: https://static.independent.co.uk/2026/09/09/21/TV-Media-South_Park-Trump_89364.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The creators of the long-running and enthusiastically insolent TV show “South Park” aren't known to be huge fans of President Donald Trump. However, they’ve decided to adopt one of his ideas — in a way.

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Harrogate and Knaresborough MP Tom Gordon is calling for a review of
   the student loan system through a new Parliamentary Bill.
 image: https://mmo.aiircdn.com/409/6aa298b7aa2bfe9478c.jpg
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa298b7aa2bfe9478c.jpg) 

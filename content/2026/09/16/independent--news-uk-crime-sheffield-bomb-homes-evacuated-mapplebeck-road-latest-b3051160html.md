@@ -7,6 +7,10 @@ scraped_at: '2026-09-16T13:28:08Z'
 published: '2026-09-16T00:00:00Z'
 description: A woman, 36, was charged under the Explosive Substances Act on Monday
 image: https://static.independent.co.uk/2026/09/16/11/46/Mapplebeck-Road.png?trim=0,222,0,221&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Dozens of homes have been evacuated and several roads closed as a bomb squad searches a house in Sheffield as part of an investigation into potential explosive substances.

@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Piddington residents vote over proposals to house up to 1,256 male asylum
   seekers nearby.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/97e4/live/1857ffa0-b1a0-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 Watch: Piddington referendum result is announced

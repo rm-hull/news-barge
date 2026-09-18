@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: President continues to push the Supreme Court and Congress to fall in
   line with his plan to implement federal control of the nation’s elections
 image: https://static.independent.co.uk/2026/08/18/16/2243288664..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 Desperate for the courts and Congress to get behind his sweeping proposals for federal control of elections, Donald Trump has suggested that he thinks Republican candidates would win every state if the Senate passes his nationwide voter ID proposal.

@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: 'France joins Slovakia in demanding delisting of Russian oligarch Usmanov
   ahead of sanctions deadline in sensitive talks held among EU ambassadors. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/06/44/1200x675_cmsv2_439a750c-fb96-5730-a4c3-2e5cc49ff457-9910644.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## France joins Slovakia in demanding delisting of Russian oligarch Usmanov ahead of sanctions deadline in sensitive talks held among EU ambassadors.

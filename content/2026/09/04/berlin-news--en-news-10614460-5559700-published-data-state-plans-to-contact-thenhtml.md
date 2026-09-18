@@ -9,6 +9,11 @@ description: The hacker group's ultimatum to the Berlin Senate has expired. Foll
   the unsuccessful extortion attempt, the data has been released. Those affected will
   be contacted.
 image: https://www.berlin.de/binaries/asset/image_assets/10614367/ratio_4_3/1788551703/800x600/
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 © dpa

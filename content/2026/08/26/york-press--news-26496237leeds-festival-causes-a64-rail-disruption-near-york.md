@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Drivers and rail passengers face disruption between York and Leeds from
   today as Leeds Festival and engineering works affect travel - what you need…
 image: https://www.yorkpress.co.uk/resources/images/19742918.jpg?type=og-image&xType=0&yType=93
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## A64 closure and train changes set for Leeds Festival weekend as thousands expected

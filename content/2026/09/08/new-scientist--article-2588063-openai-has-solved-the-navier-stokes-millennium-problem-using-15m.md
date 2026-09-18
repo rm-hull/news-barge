@@ -10,6 +10,10 @@ description: One of the trickiest problems in mathematics has now fallen to AI a
   just days of work. The groundbreaking result was announced amid rumour after similar,
   but less complete work, also created with AI, was announced just hours before
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311327716.jpg
+categories:
+- Science
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311327716.jpg?w=840)

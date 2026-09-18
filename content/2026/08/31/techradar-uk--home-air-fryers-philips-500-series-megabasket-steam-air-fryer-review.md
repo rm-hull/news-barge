@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: It’s more than just an air fryer, with its clever steam and steamfry
   functions
 image: https://cdn.mos.cms.futurecdn.net/wM8kQn8zDBqREGWSDkWgQX-2560-80.jpg
+categories:
+- Technology & Software
+- Food & Cooking
 ---
 
 ### TechRadar Verdict

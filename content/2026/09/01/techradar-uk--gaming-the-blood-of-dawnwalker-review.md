@@ -11,6 +11,9 @@ description: The Blood of Dawnwalker doesn't excel at everything it hopes to ach
   mechanics, but the ambition, some cleverly connected choices, and highlights in
   key story moments are well worthy of praise.
 image: https://cdn.mos.cms.futurecdn.net/62JrqAiRjmyfscWY5c3CXK-1920-80.jpg
+categories:
+- Technology & Software
+- Self-Improvement
 ---
 
 ### TechRadar Verdict

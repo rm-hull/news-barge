@@ -9,6 +9,9 @@ published: '2026-08-28T00:00:00Z'
 description: A significant number of users are having trouble getting their group
   chats to behave in Google Messages.
 image: https://cdn.mos.cms.futurecdn.net/PXTh8bHDXfS59UARHwbQWa-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![The bottom left corner of an Android phone, showing the Phone, Messages, Google icons and Google Search bar](https://cdn.mos.cms.futurecdn.net/PXTh8bHDXfS59UARHwbQWa.jpg) 

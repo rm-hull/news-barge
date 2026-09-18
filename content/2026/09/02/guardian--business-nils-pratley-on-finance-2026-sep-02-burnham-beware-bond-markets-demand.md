@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Fair to say the current sell-off is international, but the PM has said
   little yet to make investors rethink the UK’s status
 image: https://i.guim.co.uk/img/media/c4aa985612c834aacf4fece2e59ab7fb9d3d579f/508_49_4339_3470/master/4339.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=19bc809e74244a31cbdec86359dca793
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 It’s too soon to say the bond markets have turned on Andy Burnham. Tuesday’s spike in gilt yields, taking the UK’s 30-year borrowing costs to their highest level since 1998, was part of an international sell-off of government debt.

@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Online sleuths detected the error after Sydney Marathon unveiled the
   double-sided medal.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A photo showing the Sydney Marathon medal, as shared by organisers on social media.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg)

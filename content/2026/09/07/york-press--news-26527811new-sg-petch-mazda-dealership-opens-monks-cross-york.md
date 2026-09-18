@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T14:15:01Z'
 published: '2026-09-07T00:00:00Z'
 description: A new Mazda dealership has opened its doors at Monks Cross.
 image: https://www.yorkpress.co.uk/resources/images/21419440.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Pic supplied)*

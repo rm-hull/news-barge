@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Authorities say five people died when an Amazon cargo jet ran off the
   runway at Miami International Airport
 image: https://static.independent.co.uk/2026/09/08/16/Amazon_Plane_Overruns_Runway_21_93.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 All 5 killed in Miami cargo jet crash were in a van used by plane cleaners

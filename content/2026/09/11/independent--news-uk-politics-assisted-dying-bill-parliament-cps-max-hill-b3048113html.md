@@ -10,6 +10,10 @@ description: 'Exclusive: Sir Max Hill, former Director of Public Prosecutions, s
   the bill will provide better safeguards as figures reveal most assisted deaths are
   never properly scrutinised'
 image: https://static.independent.co.uk/2026/09/11/09/01KTKRGCP6TTATTW0EAMJCVRT8.jpg?trim=112,0,112,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The country’s former top prosecutor has warned that the assisted dying ban is failing to protect vulnerable people as figures reveal the majority of cases are never scrutinised by the Crown Prosecution Service.

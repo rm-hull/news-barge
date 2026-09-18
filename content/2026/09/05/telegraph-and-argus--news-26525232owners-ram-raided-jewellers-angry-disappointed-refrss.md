@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: The owners of a jeweller’s shop that was ram-raided in Bradford earlier
   today have expressed their anger and frustration.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21415368.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

@@ -9,6 +9,10 @@ description: The decision by Sir James Cleverly to leave the shadow cabinet has 
   Kemi Badenoch into a reshuffle with Tom Tugendhat expected to be made shadow foreign
   secretary
 image: https://static.independent.co.uk/2026/05/09/11/9189b2401b061fa5df9ba51e478a6970Y29udGVudHNlYXJjaGFwaSwxNzc4MjU3ODcx-2.81915713.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Kemi Badenoch has removed Dame Priti Patel as shadow foreign secretary as she starts a major reshuffle of her top team.

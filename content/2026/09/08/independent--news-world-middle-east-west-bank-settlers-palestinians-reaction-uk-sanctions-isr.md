@@ -9,6 +9,10 @@ description: Palestinians praised the ban but say it has taken too long - and th
   the government must go further if it wants to tangibly improve life in the West
   Bank
 image: https://static.independent.co.uk/2026/09/08/16/2244440918..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 West Bank Palestinians are welcoming the UK government’s unprecedented ban on trade with the Israeli settlements - but say it is long overdue and doesn’t go far enough.

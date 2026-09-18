@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Crews have started to contain a wildfire in the Sierra Nevada foothills
   near Reno, Nevada
 image: https://static.independent.co.uk/2026/08/25/09/download.-3.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Firefighters are gaining ground on a fast-moving wildfire near Reno, Nevada, after flames destroyed more than 30 homes and forced tens of thousands of residents to evacuate or prepare to flee.

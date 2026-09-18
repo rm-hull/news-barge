@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Prince Harry and his wife Meghan arrived in the United Kingdom as they
   make a fresh start in Britain after six years in the United States
 image: https://static.independent.co.uk/2026/08/26/13/Britain_Prince_Harry_944_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Prince Harry and his wife Meghan arrived in the United Kingdom on Wednesday, as they make a fresh start in Britain after six years in the United States, U.K. media reported.

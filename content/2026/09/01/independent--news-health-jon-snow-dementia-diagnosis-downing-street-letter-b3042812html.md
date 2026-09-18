@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T04:22:19Z'
 published: '2026-09-01T00:00:00Z'
 description: Jon Snow was diagnosed with Alzheimer’s back in 2023
 image: https://static.independent.co.uk/2023/03/18/00/698f4a8cbfe916e8aa8bde625adbdb30Y29udGVudHNlYXJjaGFwaSwxNjc5MTgyNTU3-2.59474750.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Campaigners including broadcaster Jon Snow, who has dementia, are calling for a "bold and ambitious" strategy for quicker access to accurate diagnosis, as research shows patients face months of delays.

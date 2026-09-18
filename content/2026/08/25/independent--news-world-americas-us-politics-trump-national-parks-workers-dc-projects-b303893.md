@@ -10,6 +10,9 @@ description: Workers reassigned to D.C. previously worked for parks across the c
   including in Alaska and California. Their duties have since included cleaning up
   the East Potomac golf course
 image: https://static.independent.co.uk/2026/08/25/14/47/GettyImages-2282945980.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 National Park Service emergency responders have been recruited to work on President Donald Trump’s beautification projects in Washington, D.C., including fountain renovations and repairs to the Lincoln Memorial Reflecting Pool, according to a new report.

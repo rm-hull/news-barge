@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: There is no doubt over the outcome of this vote, but for the Kremlin
   they are still an important moment.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8896/live/2707d6b0-b27c-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 Low expectations that Russia's election will bring peace closer, Steve Rosenberg reports

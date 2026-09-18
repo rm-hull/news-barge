@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: Operators are calling for urgent reform, as people across London struggle
   to make calls.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fea9/live/987a3970-ad4d-11f1-8963-d14e6edce0d0.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A mobile phone screen showing a no signal sign from a Google page.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/fea9/live/987a3970-ad4d-11f1-8963-d14e6edce0d0.jpg)

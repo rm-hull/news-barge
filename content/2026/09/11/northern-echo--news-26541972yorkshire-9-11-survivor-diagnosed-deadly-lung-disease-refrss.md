@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: A North Yorkshire man buried beneath rubble after the Twin Towers collapsed
   on top of him on September 11, 2001, lived to tell the tale — but was…
 image: https://www.thenorthernecho.co.uk/resources/images/21431120.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: Paul Berriff)*

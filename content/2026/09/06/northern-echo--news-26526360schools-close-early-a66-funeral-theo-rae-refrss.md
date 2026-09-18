@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Schools across Middlesbrough are set to close early for A66 crash victim
   Theo Rae’s funeral, days after MPs and councillors condemned closures.
 image: https://www.thenorthernecho.co.uk/resources/images/21357921.jpg?type=og-image&xType=0&yType=134
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: North News & Pictures Ltd)*

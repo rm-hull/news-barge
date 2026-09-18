@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: Air pollution in a town in Malaysia's Sarawak state has breached emergency
   levels due to haze from forest fires in neighboring Indonesia
 image: https://static.independent.co.uk/2026/09/04/10/Malaysia_Haze_75259.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Society & Culture
 ---
 
 Air pollution in a town in Sarawak state on Borneo Island breached Malaysia’s emergency-level threshold on Friday amid worsening haze linked to forest and land fires in neighboring Indonesia.

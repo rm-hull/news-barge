@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Police are appealing for help to trace the owners of horses found in
   Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21362004.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: WYP)*

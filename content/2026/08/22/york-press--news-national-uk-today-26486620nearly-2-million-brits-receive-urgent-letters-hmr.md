@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Nearly two million people will receive important letters from HMRC in
   the coming weeks about simple assessments.
 image: https://www.yorkpress.co.uk/resources/images/21357249.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

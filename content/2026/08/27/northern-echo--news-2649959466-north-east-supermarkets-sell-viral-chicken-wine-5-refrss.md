@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Shoppers in 66 Asda stores across the North East can pick up a bottle
   of viral “Chicken Wine” for £5 during the Bank Holiday weekend.
 image: https://www.thenorthernecho.co.uk/resources/images/21378058.jpg?type=og-image&xType=0&yType=726
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Asda)*

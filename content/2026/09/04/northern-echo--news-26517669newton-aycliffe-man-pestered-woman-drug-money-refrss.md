@@ -9,6 +9,13 @@ published: '2026-09-04T00:00:00Z'
 description: A man left his partner in financial difficulty after continuing to demand
   money from her for drugs even as their 16-month relationship petered out,…
 image: https://www.thenorthernecho.co.uk/resources/images/18443428.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Relationships & Dating
 ---
 
 *(Image: The Northern Echo)*

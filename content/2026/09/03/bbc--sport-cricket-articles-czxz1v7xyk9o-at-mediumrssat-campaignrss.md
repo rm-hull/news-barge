@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Issy Wong's first international five-wicket haul leads England to a six-wicket
   win over Ireland and seals the three-match series with a game to spare.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1238/live/eb05fd70-a7ba-11f1-b5cf-8556ae508a51.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 England power to easy victory and claim series win over Ireland

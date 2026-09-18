@@ -7,6 +7,12 @@ scraped_at: '2026-08-28T11:17:00Z'
 published: '2026-08-28T00:00:00Z'
 description: THE Brontë Birthplace will open its doors for a national festival
 image: https://www.thetelegraphandargus.co.uk/resources/images/21379489.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Travel
 ---
 
 THE Brontë Birthplace will open its doors for a national festival.

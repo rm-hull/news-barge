@@ -8,6 +8,10 @@ scraped_at: '2026-08-18T19:36:26Z'
 published: '2026-08-18T00:00:00Z'
 description: St. Jude Children’s Research Hospital has named Dr. Charles W
 image: https://static.independent.co.uk/2026/08/18/18/St._Jude_CEO__3_24.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 St. Jude Children’s Research Hospital named Dr. Charles W. M. Roberts its new president and chief executive officer Tuesday, replacing Dr. James R. Downing, who led the nonprofit for 12 years.

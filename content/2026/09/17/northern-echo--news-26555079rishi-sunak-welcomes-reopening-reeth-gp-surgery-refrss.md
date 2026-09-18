@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Rishi Sunak has praised efforts to save GP services at the Reeth Medical
   Centre in the Yorkshire Dales.
 image: https://www.thenorthernecho.co.uk/resources/images/21462559.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

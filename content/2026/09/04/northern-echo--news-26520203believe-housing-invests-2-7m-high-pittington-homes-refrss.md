@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: A £2.7 MILLION investment has delivered major improvements to almost
   every believe housing home in a County Durham village.
 image: https://www.thenorthernecho.co.uk/resources/images/21408193.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Supplied)*

@@ -9,6 +9,13 @@ published: '2026-09-13T00:00:00Z'
 description: The University of Bradford says 88 of graduates enter work or further
   study, as it responds to growing concerns over graduate unemployment and…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21427618.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 The University of Bradford says its focus on employability is helping students move successfully into work and further education.

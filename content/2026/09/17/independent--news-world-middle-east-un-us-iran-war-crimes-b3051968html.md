@@ -10,6 +10,11 @@ description: UN fact finding mission also found that Iran committed crimes again
   humanity, with a deadly crackdown on its own citizens who protested against the
   regime
 image: https://static.independent.co.uk/2026/09/09/07/Iran_School_57351.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- True Crime
 ---
 
 The United States is believed to have committed war crimes during two military strikes in Iran this year, including a devastating attack on a primary school which killed more than 120 children, a damning UN report says.

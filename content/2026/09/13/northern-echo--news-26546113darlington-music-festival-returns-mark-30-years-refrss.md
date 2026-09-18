@@ -9,6 +9,12 @@ published: '2026-09-13T00:00:00Z'
 description: Darlington's flagship music festival returns, celebrating 30 years of
   its Rhythm 'n' Blues origins.
 image: https://www.thenorthernecho.co.uk/resources/images/21447629.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 Darlington's flagship music festival returned this weekend, celebrating 30 years of its rhythm 'n' blues origins.

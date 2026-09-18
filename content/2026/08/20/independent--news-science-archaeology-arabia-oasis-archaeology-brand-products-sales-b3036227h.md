@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Study offers way to understand how ancient objects mediated producer-consumer
   relationships
 image: https://static.independent.co.uk/2026/08/20/9/47/Qurayyah-Painted-Ware-QPW-3.jpeg?trim=26,0,27,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 An oasis in Northwestern Arabia was once a popular centre 3,200 years ago, where “brands” of distinct, much sought-after pottery were sold, archaeologists have discovered in a new study.

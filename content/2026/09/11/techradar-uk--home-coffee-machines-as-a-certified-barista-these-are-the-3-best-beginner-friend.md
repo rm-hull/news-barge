@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Coffee-making doesn't have to be complicated or expensive — these three
   beginner-friendly machines makes it both affordable and easy.
 image: https://cdn.mos.cms.futurecdn.net/TkTrtoQRj6MQwWURkM8rjg-1920-80.jpg
+categories:
+- Technology & Software
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 ![Split image of three beginner-friendly coffee makers in use](https://cdn.mos.cms.futurecdn.net/TkTrtoQRj6MQwWURkM8rjg.jpg) 

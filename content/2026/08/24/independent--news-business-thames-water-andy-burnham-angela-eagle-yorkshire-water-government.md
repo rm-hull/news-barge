@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: The London & Valley Water consortium is said to be hoping to secure agreement
   for its deal this autumn to avoid the supplier being nationalised.
 image: https://static.independent.co.uk/2026/08/24/10/9e61a51370b462d550c355171be65e16Y29udGVudHNlYXJjaGFwaSwxNzg3NjQ5ODAx-2.68245662.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Thames Water’s creditors have revealed plans to appoint four new directors to the board of the stricken supplier if their rescue bid is given the green light to avoid it being nationalised.

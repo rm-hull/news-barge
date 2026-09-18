@@ -12,6 +12,10 @@ description: Donald Trump was interrupted by a heckler during a campaign rally i
   would be “furious” with her. Trump was campaigning for Senate candidate Michael
   Whatley, who will go up against former Democratic Governor Roy Cooper this fall.
 image: https://cdn.jwplayer.com/v2/media/kGuGvp3r/poster.jpg?width=720
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 ## Showing now | News

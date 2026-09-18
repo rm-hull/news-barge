@@ -9,6 +9,11 @@ description: A man has been jailed after deliberately driving a car onto a pavem
   at speed in an attempt to seriously harm staff and customers outside a Bradford
   casino.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/27/13/15/nadeem-khan.jpeg?trim=638,0,150,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Man jailed after using car as 'weapon' to target casino staff and customers

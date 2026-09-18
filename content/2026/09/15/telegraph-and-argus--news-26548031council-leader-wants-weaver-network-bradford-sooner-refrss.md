@@ -9,6 +9,12 @@ published: '2026-09-15T00:00:00Z'
 description: Bradford Council bosses are pushing for the new Weaver Network bus service
   to be rolled out in the district much sooner than planned.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21355178.jpg?type=og-image&xType=0&yType=64
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 *(Image: Harry Binns)*

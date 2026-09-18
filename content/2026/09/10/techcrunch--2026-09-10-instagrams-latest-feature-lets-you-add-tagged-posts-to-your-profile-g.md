@@ -9,6 +9,8 @@ published: '2026-09-10T00:00:00Z'
 description: Instagram's newest feature lets users take posts from the Tagged tab
   and move it to their main profile grid instead.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Instagram-tagged-posts.png?resize=1200,675
+categories:
+- Technology & Software
 ---
 
 Instagram is rolling out a small but useful new feature that gives users a little more control over what appears on their profiles. Starting today, you can add posts you’re tagged in directly to your main profile grid.

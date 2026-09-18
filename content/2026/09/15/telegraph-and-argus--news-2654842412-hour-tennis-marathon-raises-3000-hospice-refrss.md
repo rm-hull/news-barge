@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: Two local tennis players raised £3,035 for Sue Ryder Manorlands Hospice
   after completing a gruelling 12-hour tennis marathon at Riddlesden Tennis…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21452532.jpg?type=og-image&xType=0&yType=77
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
+- Lifestyle & Fashion
 ---
 
 Two local tennis players have raised £3,035 for Sue Ryder Manorlands Hospice after a 12-hour tennis marathon.

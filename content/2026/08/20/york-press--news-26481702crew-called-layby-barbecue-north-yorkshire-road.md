@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: A crew responded to reports of a fire seen near a main road in North
   Yorkshire yesterday evening (Wednesday).
 image: https://www.yorkpress.co.uk/resources/images/20200370.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Adam Duebel)*

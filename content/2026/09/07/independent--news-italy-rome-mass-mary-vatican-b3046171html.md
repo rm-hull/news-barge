@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: Pope Leo XIV has returned to a sanctuary where he prayed just after his
   election
 image: https://static.independent.co.uk/2026/09/07/19/Italy_Pope__4_6_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Pope Leo XIV returned Monday to a sanctuary where he prayed just after his election and revealed a permanent sign of his devotion to the place: a fresco depicting him praying that now adorns an upper cornice of the basilica.

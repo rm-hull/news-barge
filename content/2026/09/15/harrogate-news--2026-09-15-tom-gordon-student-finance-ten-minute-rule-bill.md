@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Harrogate and Knaresborough MP Tom Gordon pushes forward a cross-party
   bill to review "broken and unfair" student loans and frozen repayment thresholds.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/gordon-house.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 **WESTMINSTER**— Tom Gordon, Liberal Democrat MP for Harrogate and Knaresborough, presented a 10-Minute Rule Bill to review and fix student finance today.The Bill, co-sponsored by MPs from the Liberal Democrats, Labour, the Green Party, and Plaid Cymru, calls on the Chancellor to specifically review loan terms and conditions alongside repayment thresholds.

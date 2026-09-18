@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Widow’s Bay dominated this year’s ceremony, with The Pitt, Hacks and
   Pluribus landing other major categories
 image: https://i.guim.co.uk/img/media/fa3ee0a97676ff41ab94009919368af847e3a7bb/460_0_4161_3333/master/4161.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a4b32709e3a7b51b881b76339c18669
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ## **Best drama series**

@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: A colour obstacle course and dog show will feature when Pannal Cricket
   Gala returns this weekend.
 image: https://mmo.aiircdn.com/409/6a8c26acf3b14a39cb9.jpg
+categories:
+- Local
+- Harrogate
+- Sports
+- Comedy & Entertainment
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8c26acf3b14a39cb9.jpg) 

@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: THE 201st anniversary of the railway that got the world on track is being
   celebrated with an all-day festival at the site of the world’s oldest…
 image: https://www.thenorthernecho.co.uk/resources/images/21409965.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 THE 201st anniversary of the railway that got the world on track is being celebrated with an all-day festival at the site of the world’s oldest railway station.

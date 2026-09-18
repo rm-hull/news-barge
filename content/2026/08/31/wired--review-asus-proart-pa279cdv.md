@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: I wouldn’t call it cheap, but this monitor from Asus brings proper HDR-capable
   video editing to creators who couldn’t previously afford an OLED display.
 image: https://media.wired.com/photos/6a924947fa28f969266ba039/191:100/w_1280,c_limit/Review--Asus-ProArt-27-QD-OLED-(PA279CDV).jpg
+categories:
+- Technology & Software
+- Science
+- Film & TV
 ---
 
 I wouldn’t call it cheap, but this monitor from Asus brings proper HDR-capable video editing to creators who couldn’t previously afford an OLED display.

@@ -9,6 +9,13 @@ description: The powers will allow mayors to take over key planning applications
   will impact on economic growth, and direct councils whether to approve or reject
   them.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmU0ZTY2ODA5LTc5ZDYtNDUyOS1hMDEyLTBjMGQ2N2M5NDlmNDpmYjA1YWUxNy1mZWYwLTQ3MzktODQ1NC1iNjdiMjM0NmY4NDM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- News & Politics
 ---
 
 # Yorkshire mayors to be handed London-style powers to overrule major planning decisions

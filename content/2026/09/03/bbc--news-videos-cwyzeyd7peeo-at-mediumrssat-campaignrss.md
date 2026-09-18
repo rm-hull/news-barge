@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The BBC's Zoe Kleinman takes a ride on Uber's self-driving robotaxi as
   the service rolls out on Thursday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40c5/live/aaf5c6a0-a767-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 # Watch: BBC travels in self-driving Uber around London

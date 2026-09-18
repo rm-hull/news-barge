@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Millions of us do it, though few of us realise we do - but getting the
   right treatment can be life-changing.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c84/live/08ae0610-ad1f-11f1-826f-933990eae6f0.jpg
+categories:
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 ![Jaw pain after waking up or sleeping - Bruxisum, teeth grinding - stock photo](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7bfa/live/afda27d0-ad1e-11f1-b1d1-571ed4d7ff2c.jpg)

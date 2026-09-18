@@ -8,6 +8,10 @@ scraped_at: '2026-09-02T04:21:26Z'
 published: '2026-09-02T00:00:00Z'
 description: This live blog is now closed.
 image: https://i.guim.co.uk/img/media/cffa8bce21fb07a404e4d371de29bee755085571/759_0_5715_4575/master/5715.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a61214714724fc99d027cf81d50497b1
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 “The Oversight Committee has received whistleblower reports that President Trump’s attack on vote-by-mail for the 2026 election is more serious than previously understood,” Garcia said in a statement. “This new secret tracking system at the US Postal Service is faulty, untested, and threatens to totally disrupt ballot delivery for millions of American citizens.”

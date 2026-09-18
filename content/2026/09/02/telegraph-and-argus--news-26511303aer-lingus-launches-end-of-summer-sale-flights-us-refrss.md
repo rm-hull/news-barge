@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: AER Lingus has launched a major end-of-summer sale, offering discounted
   flights to North America and Ireland
 image: https://www.thetelegraphandargus.co.uk/resources/images/20586237.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
+- Business & Entrepreneurship
 ---
 
 *(Image: Aer Lingus)*

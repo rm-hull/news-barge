@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Emergency services scrambled to The Broadway, Bradford after a person
   in a mobility scooter fell while on an escalator.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21435338.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

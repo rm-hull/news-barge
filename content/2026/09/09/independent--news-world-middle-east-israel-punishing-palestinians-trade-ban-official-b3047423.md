@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Alon Liel said the decision to close the consulate was Israel’s message
   to the international community that ‘you are not helping the Palestinians’
 image: https://static.independent.co.uk/2026/09/08/16/2293674338..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Israel’s decision to close the East Jerusalem consulate is a punishment for Palestinians, ex-Israeli diplomats have told *The Independent**,* after the UK announced its trade ban.

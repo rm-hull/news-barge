@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: The Budget is only six weeks away and the economy is undoubtedly the
   biggest challenge facing the prime minister.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a48e/live/4c8ed8e0-b1d0-11f1-8493-1910d79d53eb.png
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![A split composite picture of Andy Burnham and John Healey, both in Downing Street carrying red folders.](https://ichef.bbci.co.uk/ace/standard/676/cpsprodpb/a48e/live/4c8ed8e0-b1d0-11f1-8493-1910d79d53eb.png)

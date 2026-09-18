@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: President Donald Trump has been promoting new data showing U.S. prescription
   drug prices fell 0.8% in July and are down 3.1% from a year ago
 image: https://static.independent.co.uk/2026/08/18/11/Drug_Prices_Explainer_63728.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump has been taking credit for new federal data that shows U.S. prescription drug prices fell 0.8% in July and are down 3.1% from a year ago, the steepest year-over-year drop since 1963.

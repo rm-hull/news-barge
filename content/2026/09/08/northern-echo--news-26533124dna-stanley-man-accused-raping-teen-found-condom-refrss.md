@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: A forensic expert told the court that DNA from a Stanley man and his
   alleged teenage victim was recovered from a used condom.
 image: https://www.thenorthernecho.co.uk/resources/images/20172131.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: Newsquest)*

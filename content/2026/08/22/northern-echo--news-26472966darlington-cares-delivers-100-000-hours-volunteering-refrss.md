@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: A CARING organisation, set up to connect businesses with good causes
   in a North East town, has reached “a proud milestone”.
 image: https://www.thenorthernecho.co.uk/resources/images/21333525.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A caring organisation, set up to connect businesses with good causes in a North East town, has reached “a proud milestone”.

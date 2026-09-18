@@ -8,6 +8,10 @@ scraped_at: '2026-09-16T13:27:30Z'
 published: '2026-09-16T00:00:00Z'
 description: Four men have been jailed following the incident that occurred last December
 image: https://static.independent.co.uk/2026/09/16/13/2249872490..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Four men have been jailed following an incident of violent disruption involving tear gas at a Heathrow Airport car park, which left victims vomiting blood and forced a hours-long terminal closure.

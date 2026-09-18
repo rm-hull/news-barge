@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Lewis Hamilton says he and Ferrari team-mate Charles Leclerc have "squashed"
   any controversy between them from the Italian Grand Prix.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3b9e/live/7d143220-ad3a-11f1-9bc8-3509bd1a4ead.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Lewis Hamilton goes into the gravel and loses places at the first chicane at Monza](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/3b9e/live/7d143220-ad3a-11f1-9bc8-3509bd1a4ead.jpg)

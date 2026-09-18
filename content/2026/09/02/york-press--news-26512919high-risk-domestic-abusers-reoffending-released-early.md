@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: There is a "high risk" of domestic abusers reoffending and "harm escalating"
   if they are released from prison early, York…
 image: https://www.yorkpress.co.uk/resources/images/9649040.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Simon Dack/NQ)*

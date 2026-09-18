@@ -10,6 +10,10 @@ description: Ibrahim Gusau has resigned as president of the Nigeria Football Fed
   after mounting pressure that followed the country’s failure to qualify for major
   tournaments
 image: https://static.independent.co.uk/2026/08/27/17/Nigeria_Federation_Soccer_26531.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Nigeria soccer federation president resigns after teams fail to reach major tournaments

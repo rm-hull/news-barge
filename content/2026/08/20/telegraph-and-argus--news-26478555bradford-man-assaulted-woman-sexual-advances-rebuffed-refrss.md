@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: A man who slapped and strangled a woman after she rebuffed his sexual
   advances has been locked up for two-and-a-half years.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21342333.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: West Yorkshire Police)*

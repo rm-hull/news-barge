@@ -8,6 +8,9 @@ scraped_at: '2026-08-31T16:08:49Z'
 published: '2026-08-31T00:00:00Z'
 description: Suspects have been released on bail pending investigation.
 image: https://cdn.mos.cms.futurecdn.net/Uw8GSJb5Eg3NjgZZ3HEjd7-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![The Star64 board layout](https://cdn.mos.cms.futurecdn.net/Uw8GSJb5Eg3NjgZZ3HEjd7.jpg) 

@@ -14,6 +14,11 @@ description: A weather presenter burst into uncontrollable laughter during a liv
   was longer than they expected and played during his segment, which set Osborn's
   giggles off.
 image: https://cdn.jwplayer.com/v2/media/mFXXLg72/poster.jpg?width=720
+categories:
+- News & Politics
+- UK
+- Sports
+- Comedy & Entertainment
 ---
 
 ## Showing now | News

@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: A woman has been left angered after receiving a parking charge when her
   card payment appeared to go through at a town centre car park.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21370311.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: UGC)*

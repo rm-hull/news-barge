@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: New York City mayor confirms he will attend memorial service but declines
   to respond to Giuliani’s remarks
 image: https://i.guim.co.uk/img/media/d92ba61bed6d2fc1c2a97e2998218bad268c6688/291_0_2911_2329/master/2911.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d3f54ccf584526447c286ff412a3b6db
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 New York mayor Zohran Mamdani is set to come face-to-face with Rudy Giuliani at the main September 11 memorial service, just days after the former mayor – who led the city at the time of the 2001 terrorist attacks – disparaged his Muslim religion and said he should skip the ceremony.

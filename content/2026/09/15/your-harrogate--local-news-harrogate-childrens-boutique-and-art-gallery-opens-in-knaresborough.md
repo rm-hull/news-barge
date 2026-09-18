@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: A new children's boutique with an in-store art gallery has opened on
   Knaresborough High Street.
 image: https://mmo.aiircdn.com/409/6aa8efc0ba0f6a1edc8.jpg
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa8efc0ba0f6a1edc8.jpg) 

@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: The US military, which has previously struck Iranian vessels in the region,
   did not issue an immediate statement
 image: https://static.independent.co.uk/2026/09/13/12/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Yemen’s Houthi rebels claimed on Sunday to have struck facilities at a military base in Saudi Arabia as the burgeoning conflict threatens to throw the region back into chaos.

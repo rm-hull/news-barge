@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: With no photograph, video or audio message released since his appointment
   a week into the war, Iranians are growing increasingly skeptical
 image: https://static.independent.co.uk/2026/08/28/14/2026-08-13T160901Z_117769817_RC2PXMAS2RQ3_RTRMADP_3_IRAN-CRISIS-TRUMP-AIRPLANES.JPG?trim=0,1,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
+- Creator Economy & Marketing
 ---
 
 Six months after the US and Israel launched a war that thrust a severely wounded Mojtaba Khamenei into the position of Iran's supreme leader, he remains entirely unseen and unheard by the public, leaving a void at the heart of state leadership.

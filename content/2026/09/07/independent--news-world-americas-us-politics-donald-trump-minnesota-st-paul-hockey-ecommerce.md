@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Hockey families in the U.S. are feeling the pinch from rising equipment
   costs
 image: https://static.independent.co.uk/2026/09/07/15/1302350935..?trim=25,0,25,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 In St. Paul, Minnesota, Kelly Rand’s twin teenage sons are going through constant growth spurts, forcing their family to buy replacement hockey equipment almost constantly.

@@ -8,6 +8,12 @@ published: '2026-09-14T00:00:00Z'
 description: Freshers' Week 2026 is nearly here. We've rounded up 10 popular bars
   and clubs across Teesside where students can meet new friends and…
 image: https://www.thenorthernecho.co.uk/resources/images/21454201.jpg?type=og-image&xType=0&yType=18
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
+- Lifestyle & Fashion
 ---
 
 Thousands of students will arrive in Teesside over the coming weeks as Freshers' Week gets underway.

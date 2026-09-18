@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Two former security chiefs argued that the agency has last trust under
   the Trump administration
 image: https://static.independent.co.uk/2026/02/16/16/01/US-POLITICS-IMMIGRATION-ICE-4rmtmxdb.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 As America reflects on the 25th anniversary of the 9/11, two former heads of the Department of Homeland Security argue the agency created in the aftermath of the attacks needs a dramatic “reset” after becoming politically “radioactive” in the Trump years.

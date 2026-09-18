@@ -10,6 +10,9 @@ description: The US president said Tehran could no longer pay large segments of 
   32 countries issued a joint statement condemning Iran's use of executions to silence
   dissent.
 image: https://images.euronews.com/articles/stories/09/88/81/97/1200x675_cmsv2_7a603c48-39dc-59ae-aacf-e4ced506489a-9888197.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 **Euronews Persian**

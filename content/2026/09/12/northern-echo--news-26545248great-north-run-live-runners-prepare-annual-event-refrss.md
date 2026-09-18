@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: The Great North Run - the world's largest half marathon - is returning
   to Newcastle this weekend. Follow this live blog for updates on the…
 image: https://www.thenorthernecho.co.uk/resources/images/19929500.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
+- Health & Fitness
 ---
 
 - Welcome to The Northern Echo's live breaking news blog on the Great North Run 2026.

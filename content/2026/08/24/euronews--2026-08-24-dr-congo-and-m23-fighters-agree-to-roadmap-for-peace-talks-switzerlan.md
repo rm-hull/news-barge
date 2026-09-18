@@ -9,6 +9,9 @@ description: Both sides had previously signed an agreement in Doha last year, bu
   fighting has continued in mineral-rich eastern DRC, a region that has endured years
   of conflict.
 image: https://images.euronews.com/articles/stories/09/88/52/25/1200x675_cmsv2_2ecd76d4-06fe-5921-9dca-644cbd1c7a47-9885225.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Both sides had previously signed an agreement in Doha last year, but fighting has continued in mineral-rich eastern DRC, a region that has endured years of conflict.

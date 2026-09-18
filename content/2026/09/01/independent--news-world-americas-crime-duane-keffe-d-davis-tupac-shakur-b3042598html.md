@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Duane “Keffe D” Davis was described by prosecutors as the ‘on-site commander
   of the effort to kill Tupac’
 image: https://static.the-independent.com/2026/09/01/02/2026-09-01T011852Z_1840940829_RC2U9NART7M9_RTRMADP_3_PEOPLE-TUPAC-MURDER-COURT.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Former gang leader Duane “Keffe D” Davis has been found guilty of orchestrating the 1996 murder of rap legend Tupac Shakur.

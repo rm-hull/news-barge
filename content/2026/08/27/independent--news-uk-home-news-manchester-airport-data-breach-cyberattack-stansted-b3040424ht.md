@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: It has been confirmed that three major UK airports were targeted by the
   attack
 image: https://static.independent.co.uk/2026/08/27/13/c45e4c33f3a74d89488add6616bc3a45Y29udGVudHNlYXJjaGFwaSwxNzg3OTE2Njgx-2.7022588.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Sports
 ---
 
 A cyber security breach targeting three major UK airports has led to the personal data of around 8.7 million customers being accessed, operator Manchester Airport Group (MAG) has confirmed.

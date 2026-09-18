@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Southeastern Conference Commissioner Greg Sankey is in court as athletes
   seek a ruling to play college football this fall, even after turning pro
 image: https://static.independent.co.uk/2026/08/25/21/Pick_Six_What%27s_New_Football_37649.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Southeastern Conference Commissioner Greg Sankey arrived early Thursday in a courtroom not far from LSU that is the focus of college football as several dozen athletes seek a ruling that could clear the way for them to play this fall — even after they turned pro.

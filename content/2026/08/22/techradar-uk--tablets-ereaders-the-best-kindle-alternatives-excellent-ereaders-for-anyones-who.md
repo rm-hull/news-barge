@@ -8,6 +8,9 @@ published: '2026-08-22T00:00:00Z'
 description: If you're sick of Amazon's unhelpful Kindle updates, these are the alternative
   ereader brands to check out.
 image: https://cdn.mos.cms.futurecdn.net/KytUVthX2VKCzbwthy8cCV-2560-80.jpg
+categories:
+- Technology & Software
+- Family & Parenting
 ---
 
 ![Two Kobo ereaders and a Boox ereader](https://cdn.mos.cms.futurecdn.net/KytUVthX2VKCzbwthy8cCV.jpg) 

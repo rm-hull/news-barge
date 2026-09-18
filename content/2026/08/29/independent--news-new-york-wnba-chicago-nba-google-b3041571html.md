@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Natasha Cloud didn’t want to waste time talking about Enes Kanter Freedom
   as she prepared for the Chicago Sky’s game against the New York Liberty
 image: https://static.independent.co.uk/2026/08/29/18/Fever_Sky_Basketball_48236.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Natasha Cloud didn't want to waste time and energy talking about Enes Kanter Freedom on Saturday as she prepared for the Chicago Sky's game against the New York Liberty.

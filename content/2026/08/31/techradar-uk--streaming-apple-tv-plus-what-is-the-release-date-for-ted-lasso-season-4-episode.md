@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: Ted Lasso season 4 episode 5 drops on Apple TV later this week — here
   are all of the release details you need to know.
 image: https://cdn.mos.cms.futurecdn.net/t4FSnTsF4hQsWAWtei5BL6-1600-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Ted holding his sunglasses down over his eyes in Ted Lasso season 4 episode 4](https://cdn.mos.cms.futurecdn.net/t4FSnTsF4hQsWAWtei5BL6.jpg) 

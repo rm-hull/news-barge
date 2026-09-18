@@ -9,6 +9,11 @@ scraped_at: '2026-09-02T19:22:55Z'
 published: '2026-09-02T00:00:00Z'
 description: The FBI says it has started looking into the leak.
 image: https://cdn.mos.cms.futurecdn.net/gsKrVXYoUhmCSoe8kTLovR-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- True Crime
+- Business & Entrepreneurship
 ---
 
 ![Driving licenses](https://cdn.mos.cms.futurecdn.net/gsKrVXYoUhmCSoe8kTLovR.jpg) 

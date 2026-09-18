@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Berlin is responding to high levels of drug use. Support services are
   also to be expanded for other addictions.
 image: https://www.berlin.de/binaries/asset/image_assets/10635856/ratio_4_3/1789483106/800x600/
+categories:
+- Berlin
+- Germany
+- News & Politics
 ---
 
 © dpa

@@ -8,6 +8,10 @@ scraped_at: '2026-09-04T18:58:36Z'
 published: '2026-09-04T00:00:00Z'
 description: Trump's politicians are standing up against data centers
 image: https://cdn.mos.cms.futurecdn.net/be6mQuQvsgNEvog4VqJA76-1920-80.png
+categories:
+- Technology & Software
+- News & Politics
+- Society & Culture
 ---
 
 ![Bloomberg](https://cdn.mos.cms.futurecdn.net/be6mQuQvsgNEvog4VqJA76.png) 

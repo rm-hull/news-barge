@@ -9,6 +9,11 @@ description: Attacks on education have surged worldwide. Education Above All Fou
   Dr Maleiha Malik says keeping children learning is possible, but conflict-caused
   damage cannot be undone easily.
 image: https://images.euronews.com/articles/stories/09/90/52/09/1200x675_cmsv2_89b40245-19e5-505b-8757-8782d3fe1666-9905209.jpg
+categories:
+- Europe
+- News & Politics
+- Education & Learning
+- Family & Parenting
 ---
 
 ## Attacks on education have surged worldwide. Education Above All Foundation's Dr Maleiha Malik says keeping children learning is possible, but conflict-caused damage cannot be undone easily.

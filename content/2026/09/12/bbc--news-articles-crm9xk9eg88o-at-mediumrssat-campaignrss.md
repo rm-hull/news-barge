@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Consumer group Which? has called the sale of jack mackerel, a cheaper,
   less nutritious species of fish, an example of "skimpflation".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0d0/live/06b5b760-aeb2-11f1-ae38-d350b022f499.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Fresh mackerel laid out on a wooden top](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/c0d0/live/06b5b760-aeb2-11f1-ae38-d350b022f499.jpg)

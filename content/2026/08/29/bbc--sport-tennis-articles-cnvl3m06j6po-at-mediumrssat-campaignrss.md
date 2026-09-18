@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Arthur Fery misses out on his first ATP Tour title with a straight-set
   defeat by Ignacio Buse in the final of the Winston-Salem Open.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/63be/live/b1466d50-a3ef-11f1-863f-8dae62681d3a.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Arthur Fery in action](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/63be/live/b1466d50-a3ef-11f1-863f-8dae62681d3a.jpg)

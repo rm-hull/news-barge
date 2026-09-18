@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Sam Altman and other tech CEOs say there are incentives to limit advancements
   in AI, as fears grow over the threats it poses to humanity.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2cc2/live/2332d760-b15f-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Why is Donald Trump so opposed to regulating AI?

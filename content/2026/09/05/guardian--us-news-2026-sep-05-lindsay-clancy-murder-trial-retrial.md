@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: District attorney must decide whether to retry case after jury’s failure
   to reach verdict despite hours of deliberation
 image: https://i.guim.co.uk/img/media/cdb348134cc74dcce67ea83ae7563f990dbe02b5/83_0_2741_2193/master/2741.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99cd5d7647d7ba16a03580733a0ae838
+categories:
+- UK
+- News & Politics
+- True Crime
+- Law & Justice
 ---
 
 Lindsay Clancy, prosecutors, defense lawyers, the judge and millions watching on are back where they started after her five-week trial over the murder of her three children ended in a mistrial.

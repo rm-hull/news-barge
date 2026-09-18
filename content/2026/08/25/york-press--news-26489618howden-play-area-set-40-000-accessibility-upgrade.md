@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The Ashes Playing Field Trust in Treeton Road has been awarded a major
   funding boost.
 image: https://www.yorkpress.co.uk/resources/images/21362679.jpg?type=og-image&xType=0&yType=60
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: East Riding of Yorkshire Council)*

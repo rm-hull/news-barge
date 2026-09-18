@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The dual-camera Birdfy Nest Duo gave me an astonishingly intimate look
   at everything from nest building to fledging.
 image: https://media.wired.com/photos/6a8a07d6381fc48bef281868/191:100/w_1280,c_limit/Review--Birdfy-Nest-Duo.jpg
+categories:
+- Technology & Software
+- Science
+- Arts & Culture
 ---
 
 Even though I've been a bird-watcher most of my life, nothing prepared me for the experience of witnessing—on my phone—the entire process of birds being born in my own backyard.

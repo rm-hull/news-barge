@@ -9,6 +9,11 @@ description: The car world is filled with designers still obsessed with shoehorn
   sex into their rides. Slate went a different route, and it’s why people are smitten
   with the charming electric pickup.
 image: https://media.wired.com/photos/6a84b0cc8ac5f1f93d411f28/191:100/w_1280,c_limit/Blank%20Slate%20-%20Profile.jpg
+categories:
+- Technology & Software
+- Science
+- Travel
+- Lifestyle & Fashion
 ---
 
 Tisha Johnson is a rare anomaly in the car world: a design leader for an automaker who is not a man. In a resolutely testosterone-fueled industry where, traditionally, women have seemingly been given positions of authority in design labs as long as they focus on interiors, colors, or material selections, very few have been afforded free rein on the most important visual element of the car, the exterior, let alone promoted to run the entire aesthetic show. Johnson has.

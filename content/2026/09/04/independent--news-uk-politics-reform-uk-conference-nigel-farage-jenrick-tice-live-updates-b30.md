@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: Reform UK’s conference in Birmingham begins as the party has sunk to
   third place in polls
 image: https://static.independent.co.uk/2026/09/03/21/69d051f1f0a48b7f4e7fee3763f27c3aY29udGVudHNlYXJjaGFwaSwxNzg4NTUxNjI5-2.85531739.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Nigel Farage is to announce that he will make Parliament “sit day and night” until all legislation is passed if Reform UK wins the next general election.

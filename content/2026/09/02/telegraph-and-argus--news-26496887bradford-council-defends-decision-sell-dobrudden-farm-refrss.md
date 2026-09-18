@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Bradford Council has defended its decision to sell a caravan park after
   facing criticism from Conservative councillors.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20172262.jpg?type=og-image&xType=0&yType=52
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Mike Simmonds)*

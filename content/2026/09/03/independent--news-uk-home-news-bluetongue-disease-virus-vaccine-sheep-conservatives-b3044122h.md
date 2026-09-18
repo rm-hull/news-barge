@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: Government figures show that 795 cases of the disease have been recorded
   across the UK in the 2026/27 season
 image: https://static.independent.co.uk/2025/12/06/20/409379185ae2cf50b2bcd529fde8bf60Y29udGVudHNlYXJjaGFwaSwxNzY1MTM4NzQz-2.5235179.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Conservatives have called for financial support for farmers, claiming ministers have been "asleep at the wheel" as bluetongue cases spread across the UK.

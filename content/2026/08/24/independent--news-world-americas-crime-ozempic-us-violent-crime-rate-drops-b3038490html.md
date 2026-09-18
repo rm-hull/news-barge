@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Americans consuming less alcohol may also be partially responsible for
   the decline, according to a report
 image: https://static.the-independent.com/2026/07/24/17/2266973572..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 As the U.S. marks its sharpest decrease in violent crime in recent history, researchers are leaving no stone unturned trying to decipher — with some even questioning whether the rise in Ozempic could be a factor in the lowered rates of violent offenses.

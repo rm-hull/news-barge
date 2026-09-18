@@ -9,6 +9,10 @@ description: As rescuers in Nepal struggle to find hundreds of workers in the tu
   that were buried in last week's flooding, attention has focus on where to rebuild
   crucial hydropower projects
 image: https://static.independent.co.uk/2026/08/31/12/Climate_Nepal_Infrastructure_64356.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Workers shoveled thick mud from a flood-ravaged power station in central Nepal, trying to revive a key node that supplies electricity to more than 20,000 people. But as they cleared debris from equipment buried by last week's catastrophic floods, there was hope the plant would not simply be rebuilt in the same place, beside the river that destroyed it.

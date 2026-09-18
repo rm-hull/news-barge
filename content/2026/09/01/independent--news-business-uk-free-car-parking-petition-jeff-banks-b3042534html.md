@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: British fashion designer Jeff Banks has signed the petition and called
   for shoppers to follow suit
 image: https://static.independent.co.uk/2024/12/21/00/20074712-f27ff8b6-b15c-46d3-a2d2-96adf0babbc7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Shoppers are being asked to back a nationwide campaign calling on the government to grant 90 minutes of free parking in town and city centres, aiming to help boost struggling high streets across Britain.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-12T12:10:01Z'
 published: '2026-09-12T00:00:00Z'
 description: An historic North Yorkshire industry is back on the map!
 image: https://www.yorkpress.co.uk/resources/images/21426435.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 ## Historic North Yorkshire industry is back on the map

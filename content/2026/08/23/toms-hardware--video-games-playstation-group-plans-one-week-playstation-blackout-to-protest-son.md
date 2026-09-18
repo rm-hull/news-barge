@@ -9,6 +9,10 @@ scraped_at: '2026-08-23T12:57:36Z'
 published: '2026-08-23T00:00:00Z'
 description: Can you stay away from your PlayStation for a week?
 image: https://cdn.mos.cms.futurecdn.net/tg95hzQEgMNoJTJZHb5oXU-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![PlayStation 5 Pro](https://cdn.mos.cms.futurecdn.net/tg95hzQEgMNoJTJZHb5oXU.png) 

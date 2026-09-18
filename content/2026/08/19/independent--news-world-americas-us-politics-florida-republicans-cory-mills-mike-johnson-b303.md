@@ -10,6 +10,9 @@ description: Cory Mills faced numerous allegations, but Johnson refused to tell 
   to go. Eric Garcia breaks down how Florida voters weighted ethics more heavily than
   the House Speaker has
 image: https://static.independent.co.uk/2026/08/19/18/2152358534..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 On Tuesday evening, Florida Republicans in the 7th district did something that **House Speaker Mike Johnson** so far has refused to do: they booted**Rep. Cory Mills**. 

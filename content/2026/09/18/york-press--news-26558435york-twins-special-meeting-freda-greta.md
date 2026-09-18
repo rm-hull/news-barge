@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: Twin sisters from York have spoken of their special connection with the
   two of the city’s renowned identical twins Freda and Greta.
 image: https://www.yorkpress.co.uk/resources/images/21464655.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
+- Society & Culture
+- History
 ---
 
 ## York identical twins say Freda and Greta understood what others never could

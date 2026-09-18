@@ -9,6 +9,9 @@ description: President Donald Trump’s call for a federal incentive to bring fi
   television production back to the United States won support Tuesday from three major
   unions representing Southern California entertainment workers.
 image: https://static.the-independent.com/2026/07/27/09/2264347909..?trim=168,679,807,514&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump’s call for a federal incentive to bring film and television production back to the United States won support Tuesday from three major unions representing Southern California entertainment workers.

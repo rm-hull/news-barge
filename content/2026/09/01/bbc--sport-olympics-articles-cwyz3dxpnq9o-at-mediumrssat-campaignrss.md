@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Australian Olympic breakdancer Rachael Gunn - known as Raygun - tells
   BBC Sport about the aftermath of her extraordinary experience at the 2024 Olympics.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3d5a/live/ccbfa430-a5d3-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Australian breakdancer Rachael Gunn - aka B-Girl Raygun - performs at the Paris 2024 Olympics.](https://ichef.bbci.co.uk/ace/standard/940/cpsprodpb/e82b/live/7367ee60-a08d-11f1-84af-1fbec28b23b2.jpg)

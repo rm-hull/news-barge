@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Lily Hooper has not been seen since leaving for a hike in Nattai national
   park, south-west of Sydney, on 12 August
 image: https://i.guim.co.uk/img/media/88767de4bf103f7cd1db7a710fb56defa740aef5/0_51_1638_1309/master/1638.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7affdcfdf2ffe443137c3976d68c916
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 The family of missing 18-year-old bushwalker Lily Hooper say they are “absolutely devastated” that she has not been found after a multi-agency search.

@@ -10,6 +10,8 @@ published: '2026-08-26T00:00:00Z'
 description: If the MacBook Neo's tech is good enough for a laptop, it's good enough
   for a cheaper desktop — and we've never needed one more.
 image: https://cdn.mos.cms.futurecdn.net/bjWjZPsDKTbNTuuH842anX-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A split image, with a hand holding the Mac Mini M4 on the left, and a photo of the Apple TV 4K on the right](https://cdn.mos.cms.futurecdn.net/bjWjZPsDKTbNTuuH842anX.jpg) 

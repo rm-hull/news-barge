@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The Irish hip-hop group encouraged the crowd to call the new Prime Minister
   a ‘w*****’
 image: https://static.the-independent.com/2026/08/31/10/01M1A9ZBE3GMHM9GM1PH7K5P75.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Irish hip-hop group Kneecap delivered another politically charged performance during their headline slot at Reading Festival, shouting "fBenjamin Netanyahu" and "Andy Burnham is a w**" to the crowd.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T15:01:13Z'
 published: '2026-09-14T00:00:00Z'
 description: Want more crunch when you munch or goo when you chew
 image: https://static.independent.co.uk/2026/09/14/05/Textured_Food_5_472.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Texture is becoming nearly as important as taste for consumers, pushing food and drink companies to develop products that are crunchier, gooier, creamier and chewier.

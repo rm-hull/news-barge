@@ -10,6 +10,10 @@ description: Katie Taylor ends illustrious career as a three-time undisputed wor
   champion as Croke Park gave one of Ireland's greatest sporting figures the grandest
   of farewells.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 !['Breaking' graphic](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png)

@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: SIR Keir Starmer could be appointed to a job in Yorkshire following his
   resignation from the House of Commons.
 image: https://www.thetelegraphandargus.co.uk/resources/images/13106580.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Careers & Productivity
 ---
 
 SIR Keir Starmer could be appointed to a job in North Yorkshire following his resignation from the House of Commons.

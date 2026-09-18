@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Crown concludes there is ‘insufficient evidence’ to convict Colonel Samantha
   Shepherd
 image: https://static.independent.co.uk/2026/04/14/16/01KKETWJQC6H313580FPMYK04F.jpg?trim=84,0,556,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Army colonel Samantha Shepherd has been found not guilty of failing to properly deal with abuse allegations made by Gunner Jaysley Beck before her death.

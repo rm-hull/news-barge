@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: A prolific shoplifter who stole thousands of pounds worth of goods has
   been banned from a retail park.
 image: https://www.thenorthernecho.co.uk/resources/images/21441057.jpg?type=og-image&xType=0&yType=176
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: CLEVELAND POLICE)*

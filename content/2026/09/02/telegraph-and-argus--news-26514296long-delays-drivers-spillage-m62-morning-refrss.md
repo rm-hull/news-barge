@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Motorists face delays of 35 minutes after a spillage closed two lanes
   on the M62.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21399841.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Highways England)*

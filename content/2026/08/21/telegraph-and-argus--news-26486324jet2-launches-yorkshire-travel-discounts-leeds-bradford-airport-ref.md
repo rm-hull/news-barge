@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Jet2 has launched a range of Yorkshire-exclusive travel discounts while
   reaffirming its commitment to Leeds Bradford Airport with its biggest ever…
 image: https://www.thetelegraphandargus.co.uk/resources/images/20833369.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: submitted)*

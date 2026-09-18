@@ -8,6 +8,8 @@ published: '2026-08-31T00:00:00Z'
 description: Microsoft says it's testing a fix for the widespread Outlook issues that
   have led to email delays and failures.
 image: https://techcrunch.com/wp-content/uploads/2024/06/microsoft-outlook-app.jpg?resize=1200,800
+categories:
+- Technology & Software
 ---
 
 Snow day? Microsoft on Monday confirmed a widespread, multi-hour outage affecting Outlook users, leading to email delays and failures, authentication issues, and other problems.

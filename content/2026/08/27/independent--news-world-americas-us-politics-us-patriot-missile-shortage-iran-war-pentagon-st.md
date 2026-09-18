@@ -9,6 +9,12 @@ published: '2026-08-27T00:00:00Z'
 description: U.S. missile stocks in Europe have been moved to the Middle East, where
   U.S. and Gulf allies have fired off significant numbers of interceptors
 image: https://static.independent.co.uk/2026/08/27/16/32/AP26239496643230.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- History
 ---
 
 The U.S. military is reportedly experiencing a “beyond critical” shortage of advanced missile interceptors in Europe, largely driven by President Donald Trump’s war with Iran.

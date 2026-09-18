@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: The United States’ relentless campaign against international justice
   is not a sign of a calm and self-assured sovereignty
 image: https://static.independent.co.uk/2026/08/31/17/31/GettyImages-2185244289.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 In The Autumn of the Patriarch (Gabriel García Márquez, 1975), the ageing dictator takes pleasure in just one thing: watching his fallen former colleagues playing cards in the room set aside for their exile, and revelling in their destitution and obsequiousness toward him. This portrayal of ageing power – obsessed with its own survival and with the spectacle of the downfall of once untouchable leaders – captures the fear of the moment when power ceases to protect those who once wielded it.

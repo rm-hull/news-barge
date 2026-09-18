@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T04:30:11Z'
 published: '2026-09-11T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/03/york-church-lane-shops-empty-cafe.webp
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 Shops said to be in a very poor condition are set for a revamp.

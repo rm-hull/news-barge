@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Bettys Café Tea Rooms at RHS Garden Harlow Carr will temporarily close
   for a refresh from 7 September.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/bettys-harrogate.webp
+categories:
+- Local
+- Harrogate
+- Lifestyle & Fashion
 ---
 
 Bettys Café Tea Rooms at RHS Garden Harlow Carr will temporarily close for a refresh from 7 September.

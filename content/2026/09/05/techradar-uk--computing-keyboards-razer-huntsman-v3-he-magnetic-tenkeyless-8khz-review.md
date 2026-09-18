@@ -10,6 +10,8 @@ published: '2026-09-05T00:00:00Z'
 description: Razer makes the Huntsman magnetic — but does it result in performance
   gains?
 image: https://cdn.mos.cms.futurecdn.net/iBmEJa59tRkTap4W4wVoYY-2520-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

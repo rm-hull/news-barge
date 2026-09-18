@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: ‘You know what happens if you don't vote? You go to hell, you know that?’
   Trump advises Republicans considering staying on the couch in November
 image: https://static.independent.co.uk/2026/09/11/04/2294071880..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump rounded out the final night of his two-day Republican midterm convention in Dallas by leading his audience in a mock version of the Pledge of Allegiance in which he made his followers promise to vote for his allies in the upcoming elections.

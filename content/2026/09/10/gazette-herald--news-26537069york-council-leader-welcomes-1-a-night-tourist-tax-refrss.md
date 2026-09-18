@@ -9,6 +9,13 @@ published: '2026-09-10T00:00:00Z'
 description: It is right that York receives its fair share of any income raised through
   a tourist tax, the council's leader has said.
 image: https://www.gazetteherald.co.uk/resources/images/9733891.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 IT is right that York receives its fair share of any income raised through a tourist tax, the council's leader has said.

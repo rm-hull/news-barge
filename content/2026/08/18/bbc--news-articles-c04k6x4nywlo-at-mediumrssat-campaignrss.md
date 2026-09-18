@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Georgina Grasso said she is taking some time to understand bipolar disorder
   after receiving her diagnosis.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/779c/live/2b2ecfb0-9bb5-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 ![Georgie Grasso stood in the Bake Off tent. She is wearing a beige apron and underneath it has a blue, pink and white marbled top. She is looking at the camera with her brown and blonde hair half tied up and half down. There is a cake to the left of her, which is a three tiered cake, in different shades of pink with flowers adorned on it.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/a2ec/live/a08dc8d0-9b0e-11f1-bb80-c1b1e1adeea5.jpg)

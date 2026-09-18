@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: Olympic 1500m medallist Jenny Simpson says a "chapter has ended" and
   she will not return to running after having a cardiac arrest.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5928/live/3cd29550-9d34-11f1-bc05-aff3aa1f91c7.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Health & Fitness
 ---
 
 ![USA's Jennifer Simpson holds up her bronze medal from the women's 1500m at the Rio 2016 Olympic Games](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5928/live/3cd29550-9d34-11f1-bc05-aff3aa1f91c7.jpg)

@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Russia has seized Nestle’s business, leaving the KitKat maker considering
   its next move.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21472051.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Chris North)*

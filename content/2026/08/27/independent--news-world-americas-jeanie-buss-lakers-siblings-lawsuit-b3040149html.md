@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: In the immortal words of Yogi Berra, `It's like déja vu all over again,'''
   the Los Angeles Superior Court legal action filed Monday states
 image: https://static.independent.co.uk/2026/08/27/09/2263178875..?trim=33,0,33,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Jeanie Buss has launched new legal proceedings to prevent her five siblings from divesting the family's remaining ownership share in the Los Angeles Lakers, reopening a dispute that originally went to court in 2017.

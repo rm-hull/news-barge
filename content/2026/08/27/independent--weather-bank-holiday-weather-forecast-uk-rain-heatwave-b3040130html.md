@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T12:01:07Z'
 published: '2026-08-27T00:00:00Z'
 description: Yellow thunderstorm warnings are in place on Thursday ahead of the weekend
 image: https://static.independent.co.uk/2026/08/27/7/55/Screenshot-2026-08-27-at-08-29-20.png?trim=68,0,69,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Bank Holiday weekend could be a wash-out as heavy rain and showers are forecast across the UK.

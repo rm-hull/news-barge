@@ -9,6 +9,8 @@ description: Watch as Equity breaks down what John Ternus inherits at Apple as N
   expands beyond chips, robotaxis heat up, and VCs pour money into the next wave of
   AI hardware.
 image: https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2287301688.jpg?resize=1200,800
+categories:
+- Technology & Software
 ---
 
 It’s officially the Ternus era at Apple.

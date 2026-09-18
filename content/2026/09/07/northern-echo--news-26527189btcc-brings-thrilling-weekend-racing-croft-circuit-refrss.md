@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: Thousands of motorsport fans descended on Croft Circuit as the Kwik Fit
   British Touring Car Championship returned to the track near Darlington for…
 image: https://www.thenorthernecho.co.uk/resources/images/21418512.jpg?type=og-image&xType=0&yType=125
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
+- Music
 ---
 
 Thousands of motorsport fans descended on Croft Circuit as the Kwik Fit British Touring Car Championship returned to the track near Darlington for an action-packed weekend of racing.

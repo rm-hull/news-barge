@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: One of the plane’s engines remained active, forcing fire crews to flood
   the engine in order to disable it
 image: https://static.independent.co.uk/2026/09/07/11/2293864878..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The trapped pilot of a plane that crashed at Miami airport, leaving 5 people dead, had to be rescued alongside his co-pilot while the aircraft was on fire, emergency responders said.

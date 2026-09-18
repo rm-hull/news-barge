@@ -8,6 +8,10 @@ scraped_at: '2026-09-10T12:53:17Z'
 published: '2026-09-10T00:00:00Z'
 description: People with nothing to hide are more likely to snoop on other's phones
 image: https://cdn.mos.cms.futurecdn.net/fdDmNCiwDdWg97kGfisHbA-2070-80.jpg
+categories:
+- Technology & Software
+- News & Politics
+- Society & Culture
 ---
 
 ![Large blue eyeball watching businesswoman working at computer](https://cdn.mos.cms.futurecdn.net/fdDmNCiwDdWg97kGfisHbA.jpg) 

@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: UTC South Durham celebrates 100 per cent T Level pass rate and impressive
   student destinations
 image: https://www.thenorthernecho.co.uk/resources/images/21345305.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Supplied)*

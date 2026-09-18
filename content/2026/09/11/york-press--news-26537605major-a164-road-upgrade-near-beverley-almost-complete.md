@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: The A164 and Jock’s Lodge Improvement Scheme, just outside Beverley,
   is nearing completion.
 image: https://www.yorkpress.co.uk/resources/images/21433441.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: East Riding of Yorkshire Council)*

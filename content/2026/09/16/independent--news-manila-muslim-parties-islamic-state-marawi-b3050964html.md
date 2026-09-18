@@ -10,6 +10,10 @@ description: Official results show candidates from parties associated with a for
   rebel group leading the first elections in a predominately Muslim region in the
   southern Philippines
 image: https://static.independent.co.uk/2026/09/15/06/APTOPIX_Philippines_Muslim_Election_845_9.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Candidates from parties associated with a former rebel group appeared to be leading the first elections in a predominately Muslim region in the southern Philippines, official results showed Wednesday.

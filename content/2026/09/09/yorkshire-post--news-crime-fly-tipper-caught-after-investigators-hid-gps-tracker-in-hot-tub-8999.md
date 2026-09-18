@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A fly-tipper was caught after council investigators hid a GPS tracker
   inside a hot tub during an undercover sting.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmYxN2QzN2Q5LTc0NTQtNDFhZC04NGRlLWZlMzQxNGFmOWI3Mzo3NzRiOTAwOC0zMjI5LTQzMmMtYWFhZS03MGQwM2FmOGI1ZmM=.jpg?crop=3:2,smart&trim=&width=1141&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Fly-tipper caught after investigators hid GPS tracker in hot tub

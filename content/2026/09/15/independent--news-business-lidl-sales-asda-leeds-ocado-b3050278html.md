@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Average customer spending on school uniform fell in the back-to-school
   period compared with a year ago.
 image: https://static.independent.co.uk/2026/09/15/08/14172758-3f540f73-f89c-4322-93b4-d6099eacfcc6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Grocery price inflation sped up in August amid signs that the cost of living is altering household spending choices, figures show.

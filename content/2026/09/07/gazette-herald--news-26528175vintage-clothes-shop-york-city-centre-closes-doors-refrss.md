@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: A vintage clothing shop in Grape Lane, York, has closed with the unit
   placed on the market.
 image: https://www.gazetteherald.co.uk/resources/images/21420056.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
+- Shopping & Deals
 ---
 
 *(Image: Newsquest)*

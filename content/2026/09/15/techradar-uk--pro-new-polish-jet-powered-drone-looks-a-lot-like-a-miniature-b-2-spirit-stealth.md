@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: This Polish loitering munition looks like a tiny B-2, carries 30kg, and
   joins a much larger strike network
 image: https://cdn.mos.cms.futurecdn.net/Q4Rc8StFTJqDpXnQezM8a8-1920-80.png
+categories:
+- Technology & Software
+- Lifestyle & Fashion
 ---
 
 ![Gladius 2 turbojet bomber](https://cdn.mos.cms.futurecdn.net/Q4Rc8StFTJqDpXnQezM8a8.png) 

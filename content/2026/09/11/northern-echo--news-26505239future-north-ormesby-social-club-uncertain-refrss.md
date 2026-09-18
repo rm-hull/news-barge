@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: The operator of the Big Tute has issued an emotional update about the
   future of the Middlesbrough social club.
 image: https://www.thenorthernecho.co.uk/resources/images/21268462.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The future of a Middlesbrough social club remains uncertain after the man tasked with keeping it running admits: "I don't know what the future holds."

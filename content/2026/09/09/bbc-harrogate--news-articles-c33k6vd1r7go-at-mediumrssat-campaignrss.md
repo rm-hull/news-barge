@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Overall demand for temporary accommodation has jumped in recent years,
   North Yorkshire Council says.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a65f/live/a2fefab0-ab87-11f1-83f1-8f6cbf03142e.jpg
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 ![Aerial view of a residential area with housing estates, roads, trees and surrounding countryside in North Yorkshire.](https://ichef.bbci.co.uk/ace/standard/947/cpsprodpb/a65f/live/a2fefab0-ab87-11f1-83f1-8f6cbf03142e.jpg)

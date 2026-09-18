@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: 'Exclusive: Sunak’s aides ‘worked forensically with his tacit support
   to undermine Johnson’, says Sir Anthony Seldon in new book'
 image: https://static.independent.co.uk/2023/03/20/15/38adc0a63e1c4fc4e68c085721e93dcbY29udGVudHNlYXJjaGFwaSwxNjc5NDExNjM4-2.56024125.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The row over Boris Johnson’s allegation that Rishi Sunak “stabbed him in the back” to become prime minister has been reignited by a new book that says Mr Sunak did plot against him.

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: North Yorkshire Council has been criticised after failing to provide
   a target date for resolving ongoing EE signal problems in Knaresborough.
 image: https://mmo.aiircdn.com/409/6a99175a3b62a3e0504.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![](https://mmo.aiircdn.com/409/6a99175a3b62a3e0504.jpg) 

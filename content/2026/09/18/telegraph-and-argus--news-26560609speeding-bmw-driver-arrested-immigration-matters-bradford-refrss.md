@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: An unlicensed driver stopped for speeding on a busy Bradford road was
   found to be committing a string of offences before being arrested over…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21470468.jpg?type=og-image&xType=0&yType=629
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: West Yorkshire Police)*

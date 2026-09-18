@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: The new joint operation uses laser-based technology capable of detecting,
   tracking, and disabling commercial drones linked to human and drug trafficking.
 image: https://media.wired.com/photos/6aa1c319e3b72ced9abda322/191:100/w_1280,c_limit/drones%20M%C3%A9xico%20EE%20UU%20operativo%202244404487.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Defense agencies of Mexico and the US have announced they are implementing a new collaborative strategy to combat drones used by criminal organizations. The operation, dubbed High Eagle, or Águila Alta, builds on recent tests of anti-drone technologies carried out along the border between the two countries.

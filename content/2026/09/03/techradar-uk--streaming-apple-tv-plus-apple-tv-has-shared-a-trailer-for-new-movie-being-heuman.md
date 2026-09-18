@@ -7,6 +7,9 @@ scraped_at: '2026-09-03T19:17:54Z'
 published: '2026-09-03T00:00:00Z'
 description: Could this be another win for Apple TV?
 image: https://cdn.mos.cms.futurecdn.net/bH5CRwCbNpk9ebdrAGz4ND-1200-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Ruth Madeley stars as Judith Heumann](https://cdn.mos.cms.futurecdn.net/bH5CRwCbNpk9ebdrAGz4ND.jpg) 

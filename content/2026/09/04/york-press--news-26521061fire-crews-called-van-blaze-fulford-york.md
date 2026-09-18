@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T12:42:22Z'
 published: '2026-09-04T00:00:00Z'
 description: Fire crews have been called to a van fire in a quiet street in York.
 image: https://www.yorkpress.co.uk/resources/images/21409377.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 ## Fire in quiet York street - emergency crews on scene

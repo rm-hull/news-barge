@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: The Stanford University breakthrough stands to open new doors for research
   into fatal neurodegenerative diseases
 image: https://static.independent.co.uk/2026/07/23/16/45/iStock-1320126950.jpeg?trim=0,107,0,106&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- Health & Fitness
 ---
 
 The human brain is not a single organ, but two separate systems that evolved independently before fusing together, according to groundbreaking new research.

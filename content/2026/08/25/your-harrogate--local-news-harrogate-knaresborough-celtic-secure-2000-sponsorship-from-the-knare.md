@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The Knaresborough Inn has pledged its continued support to Knaresborough
   Celtic Grassroots FC, providing a £2,000 sponsorship for the 2026/27 season.
 image: https://mmo.aiircdn.com/409/6a8d6ec6a843b96d13b.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8d6ec6a843b96d13b.jpg) 

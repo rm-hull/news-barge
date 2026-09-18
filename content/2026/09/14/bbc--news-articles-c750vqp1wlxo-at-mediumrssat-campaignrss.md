@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Inquest hears how Rolando Torres-Pena, 22, was able to strangle and kill
   Hugo Flint-Cahan on a hospital ward in east London.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1403/live/c0463800-b022-11f1-95e6-93ee8a80cb38.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Hugo smiles at the camera in a family photo](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/1403/live/c0463800-b022-11f1-95e6-93ee8a80cb38.jpg)

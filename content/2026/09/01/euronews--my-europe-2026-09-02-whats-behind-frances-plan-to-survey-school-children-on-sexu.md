@@ -10,6 +10,10 @@ description: 'For the first time, France''s annual school questionnaire on bully
   violence. Pupils will be able to choose whether or not to they wish to remain anonymous
   in this questionnaire, to be distributed in November #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/67/41/1200x675_cmsv2_03246d70-b82b-590a-bf1c-9d0a04c24bea-9896741.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## For the first time, France's annual school questionnaire on bullying — which has been handed out to pupils since 2023 — will include questions on sexual violence. Pupils will be able to choose whether or not to they wish to remain anonymous in this questionnaire, to be distributed in November

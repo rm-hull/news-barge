@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: An evening of podcasting in San Francisco (with a discount for WIRED
   readers).
 image: https://media.wired.com/photos/6aa848acc21d50d5e8a9dba9/191:100/w_1280,c_limit/2x1-1.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 What is the state of women in Silicon Valley?

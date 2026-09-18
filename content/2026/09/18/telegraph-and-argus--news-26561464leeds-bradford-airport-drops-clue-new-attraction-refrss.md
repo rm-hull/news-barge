@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Leeds-Bradford Airport has teased a forthcoming attraction - and users
   won't have long to wait.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21471747.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 LEEDS-BRADFORD Airport has teased a forthcoming attraction - and users won't have long to wait.

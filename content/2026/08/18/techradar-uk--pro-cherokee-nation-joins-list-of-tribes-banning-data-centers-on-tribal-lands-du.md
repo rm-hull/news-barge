@@ -9,6 +9,9 @@ scraped_at: '2026-08-18T19:35:54Z'
 published: '2026-08-18T00:00:00Z'
 description: Cherokee Nation won't support any new data centers without early consultation
 image: https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Robots in a data center](https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL.jpg) 

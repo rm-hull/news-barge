@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A DANCE session for over 55s will be held at a Bradford arts venue on
   Friday.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19894851.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: T&A)*

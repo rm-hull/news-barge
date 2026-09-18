@@ -9,6 +9,12 @@ description: Anthropic founder Amodei and OpenAI CEO Altman once worked together
   build a Super AI. Now, they are competing to be first. And that race is proving
   dangerous.
 image: https://cdn.prod.www.spiegel.de/images/72ed031c-c263-4f92-8b5c-c22358c1c46a_w1200_r1.778_fpx47_fpy69.jpg
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ![Dario Amodei and Sam Altman: Rivals in the race for artificial superintelligence. Dario Amodei and Sam Altman: Rivals in the race for artificial superintelligence.](https://cdn.prod.www.spiegel.de/images/72ed031c-c263-4f92-8b5c-c22358c1c46a_w1024_r1.5_fpx47_fpy69.jpg) 

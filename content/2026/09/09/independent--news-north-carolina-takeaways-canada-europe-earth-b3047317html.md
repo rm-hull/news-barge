@@ -9,6 +9,10 @@ description: Investors and scientists are restoring a 23-square-mile tract of pe
   in North Carolina to curb emissions of climate-warming carbon dioxide and regenerate
   native habitat
 image: https://static.independent.co.uk/2026/09/09/14/Climate_Peatlands_Restoration_Takeaways_55678.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Investors and scientists are restoring a 23-square-mile (60-square-kilometer) tract of peatland in North Carolina's Inner Banks to curb emissions of climate-warming carbon dioxide and regenerate native habitat.

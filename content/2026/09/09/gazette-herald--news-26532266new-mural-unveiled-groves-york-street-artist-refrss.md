@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A new mural has been unveiled in the Groves in York – and more artists
   are being sought to help brighten up the area further.
 image: https://www.gazetteherald.co.uk/resources/images/21425871.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: Dylan Connell)*

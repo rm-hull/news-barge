@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Iraq's government says attacks on a key Saudi oil pipeline were launched
   from Iraqi territory, pledging to investigate further
 image: https://static.independent.co.uk/2026/09/11/23/Yemen_War_4_481.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Attacks on a key Saudi oil pipeline were launched from Iraqi territory, said Iraq's government Saturday, pledging to probe further.

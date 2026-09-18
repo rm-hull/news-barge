@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: The county's police force said officers are investigating an alleged
   "assault" in Grange Avenue, Scarborough, which was said to have…
 image: https://www.yorkpress.co.uk/resources/images/19226588.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
+- True Crime
 ---
 
 *(Image: Newsquest)*

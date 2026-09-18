@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: A public inquiry into the region’s scandal-hit mental health trust will
   finally get underway next week.
 image: https://www.thenorthernecho.co.uk/resources/images/20307768.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A public inquiry into the region’s scandal-hit mental health trust will finally get underway next week.

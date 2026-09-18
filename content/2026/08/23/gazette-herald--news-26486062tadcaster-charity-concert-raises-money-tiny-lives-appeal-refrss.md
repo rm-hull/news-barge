@@ -8,6 +8,12 @@ published: '2026-08-23T00:00:00Z'
 description: Riley Smith Hall in Tadcaster recently hosted a music event which raised
   hundreds in aid of the Tiny Lives Appeal.
 image: https://www.gazetteherald.co.uk/resources/images/21356046.jpg?type=og-image&xType=0&yType=209
+categories:
+- Local
+- Harrogate
+- York
+- Music
+- Technology & Software
 ---
 
 Music fans helped raise hundreds of pounds for charity in a night of live entertainment.

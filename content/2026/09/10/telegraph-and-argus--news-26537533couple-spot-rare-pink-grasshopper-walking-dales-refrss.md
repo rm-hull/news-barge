@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: WELL this is a curiosity - a pink grasshopper, and it was spotted in
   the Yorkshire Dales.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21433348.jpg?type=og-image&xType=0&yType=466
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: John Fletcher)*

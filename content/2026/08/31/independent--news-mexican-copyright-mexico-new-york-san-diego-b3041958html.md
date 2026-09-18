@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Fresh ceviche is a staple of Mexican cuisine, but roasted ceviche is
   an unusual twist
 image: https://static.independent.co.uk/2026/08/31/06/Food-Voracious-Roasted_Ceviche_314_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Fresh ceviche is a staple of Mexican cuisine, but my husband and I were introduced to the concept of roasted ceviche at our wedding.

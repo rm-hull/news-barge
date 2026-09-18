@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T19:15:52Z'
 published: '2026-09-09T00:00:00Z'
 description: Tommy Robinson has denied the allegations in a written statement
 image: https://static.independent.co.uk/2026/04/17/20/2271558543.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Right-wing activist Tommy Robinson faces allegations of lying under oath regarding his personal finances, while fundraising drives conducted in his name may constitute fraud, a Channel 4 Dispatches investigation has alleged.

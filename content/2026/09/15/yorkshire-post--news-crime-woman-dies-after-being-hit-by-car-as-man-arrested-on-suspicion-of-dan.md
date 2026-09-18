@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: A 52-year-old woman has died after being hit by a car in Todmorden, with
   a 68-year-old man arrested on suspicion of causing death by dangerous driving.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/15/10/56/Kebs-Road-Todmorden.png?trim=0,51,0,51&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Woman dies after being hit by car as man arrested on suspicion of dangerous driving

@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: RENOWNED folk musician Jez Lowe is set to perform at St Mary’s Church
   in Richmond later this month.
 image: https://www.thenorthernecho.co.uk/resources/images/21421799.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 *(Image: Aidan Lowe)*

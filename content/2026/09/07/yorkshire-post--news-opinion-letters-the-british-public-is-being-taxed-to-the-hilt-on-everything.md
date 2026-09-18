@@ -8,6 +8,11 @@ scraped_at: '2026-09-07T14:14:57Z'
 published: '2026-09-07T00:00:00Z'
 description: 'From: William Loneskie, Oxton, Lauder, Berwickshire.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmNmZjFlOGJkLTI0ZTktNGZkZC1iZmJlLTNlYmM4MDNlMmQ3OTpjYzUyZDE0Zi00NmY0LTQzYzYtOTcyMS1kYjBiY2M0ZmU1MTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # The British public is being taxed to the hilt on everything - Yorkshire Post Letters

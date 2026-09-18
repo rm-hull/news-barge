@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Police are appealing for help to find a man wanted over shop thefts and
   outstanding court warrants.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21457082.jpg?type=og-image&xType=0&yType=215
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: The BBC asks people in Washington what they were doing on that day and
   how 11 September 2001 changed the country.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e57/live/99013e60-ad3a-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- History
 ---
 
 # Watch: Americans remember what they were doing on 9/11

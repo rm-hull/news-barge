@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: Adults in East Riding are being encouraged to brush up on their skills
   and take steps towards new opportunities.
 image: https://www.gazetteherald.co.uk/resources/images/21429641.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Harrogate
+- York
+- Education & Learning
+- Careers & Productivity
 ---
 
 Adults are being encouraged to brush up on their skills and take steps towards new opportunities.

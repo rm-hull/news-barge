@@ -10,6 +10,11 @@ description: Disney superfan Toni Kulusich has been accused of stalking her favo
   character, sparking discourse about boundaries with park actors. She tells WIRED
   the backlash is unfair.
 image: https://media.wired.com/photos/6a837d321c5a245a00779a77/191:100/w_1280,c_limit/Disney-Adult-Peter-Pan-CultureIMG_2764.jpg
+categories:
+- Technology & Software
+- Science
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 As a Disney content creator, Toni Kulusich posts meet-and-greet videos with lots of different Disneyland theme park characters. But her favorite is Peter Pan.

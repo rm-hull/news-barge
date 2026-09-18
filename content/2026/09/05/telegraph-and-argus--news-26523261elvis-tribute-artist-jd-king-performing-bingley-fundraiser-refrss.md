@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Aloha From Hawaii will take place at Bingley Arts Centre in January to
   raise vital funds to support humanitarian aid deliveries to Ukraine.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21412302.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 An Elvis tribute concert will raise vital funds to support humanitarian aid deliveries to Ukraine.

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Cost of living has hit campaign group while multinational breweries are
   threatening to squeeze out independents
 image: https://i.guim.co.uk/img/media/38ba2286001118cefdd63a78d42a4a3909e645cb/746_0_2411_1929/master/2411.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=27ec5e201a29fd7c625d29a8c2bb8218
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 For centuries, the wooden real ale pump has been the hallmark of a good British boozer. But now problems are brewing for the proper pint, as the Campaign for Real Ale has seen its membership sink to an eight-year low and its accounts show it is firmly in the red, making an £800,000 loss last year.

@@ -9,6 +9,10 @@ description: The seven claimants, who include Sir Elton John and Liz Hurley, hav
   to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing
   a privacy case.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b9d1/live/0b65a550-9d63-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Prince Harry, Liz Hurley and Elton John attend court.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/b9d1/live/0b65a550-9d63-11f1-a291-b542ee92de7c.jpg)

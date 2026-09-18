@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A Stockton doctor is set to face a medical tribunal over allegations
   of “dishonesty” and making ‘untrue’ medical records.
 image: https://www.thenorthernecho.co.uk/resources/images/21374004.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: PIXABAY)*

@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: In effort to prime chatbots to make pro-Israel arguments the site published
   124 reports, over 560,000 words in nine days, Guardian analysis shows
 image: https://i.guim.co.uk/img/media/4c5be9b6f1682a9aafe9cbdc94c89a258fa5cec5/999_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e4f8b5b0eb4778568ef5affd89f99ad4
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 A pro-Israel messaging website badged with the name of a thinktank that does not exist has published more than half a million words in nine days, built on a commercial platform that promises to optimize content so that AI chatbots will cite it.

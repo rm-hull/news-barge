@@ -9,6 +9,8 @@ published: '2026-08-29T00:00:00Z'
 description: Apple has pushed up the prices for Apple TV in the US and selected other
   countries, the fourth increase in four years.
 image: https://cdn.mos.cms.futurecdn.net/Rkct88Ntq9BGeYRf3U4Rcm-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Widow's Bay](https://cdn.mos.cms.futurecdn.net/Rkct88Ntq9BGeYRf3U4Rcm.jpg) 

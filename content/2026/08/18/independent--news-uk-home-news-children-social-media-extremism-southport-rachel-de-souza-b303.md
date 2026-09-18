@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Dame Rachel de Souza called for a stronger safeguarding response for
   children who are fixated with violence but have no clear extremist ideology
 image: https://static.independent.co.uk/2026/06/08/10/ec24f4658b80c24a47669d6cf3748e36Y29udGVudHNlYXJjaGFwaSwxNzgwOTk3NTk4-2.84548776.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Family & Parenting
 ---
 
 Children are becoming “intoxicated by extremism” and are increasingly becoming radicalised online, the children’s commissioner has said.

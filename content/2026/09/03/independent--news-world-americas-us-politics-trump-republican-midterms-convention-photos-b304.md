@@ -9,6 +9,9 @@ description: Invitation to upcoming GOP midterms convention in Texas reveals hig
   cost of a picture with the commander-in-chief - and considerably less for the vice
   president
 image: https://static.independent.co.uk/2026/09/02/13/2263416782..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Republicans attending their party’s upcoming midterms convention in Dallas, Texas, will be able to buy a photo opportunity with President Donald Trump for $88,600, according to a report.

@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Thomas Ridgway failed to tell his bosses that he was engaged to a registered
   child sex offender
 image: https://static.independent.co.uk/2022/07/01/12/newFile-6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
 ---
 
 A photography teacher at a £56,000-a-year boarding school has been barred from the profession after failing to disclose that he was engaged to a registered child sex offender.

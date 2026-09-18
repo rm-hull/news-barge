@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Wendell Berry, the influential Kentucky author who died this week at
   92, inspired many with his deep spiritual vision and his commitment to nature
 image: https://static.independent.co.uk/2026/09/04/12/Wendell_Berry_World__2287.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Religion & Spirituality
+- Arts & Culture
 ---
 
 For Kentucky author Wendell Berry, the environmental crisis he lamented to such great effect in his essays, poetry and fiction was also a human crisis — a deeply spiritual one.

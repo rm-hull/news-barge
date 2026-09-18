@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Lauren Smith, 35, of South Hetton, County Durham, has been banned from
   driving for 20 months and fined after admitting drink-driving in Peterlee
 image: https://www.thenorthernecho.co.uk/resources/images/20189139.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: None)*

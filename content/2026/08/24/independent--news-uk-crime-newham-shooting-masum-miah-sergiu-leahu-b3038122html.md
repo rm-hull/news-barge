@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Officers were called to St Bartholomew’s Road at about 3am following
   reports of gunshots
 image: https://static.independent.co.uk/2026/08/20/15/35/Screenshot-2026-08-20-at-16-14-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A man has been charged with murder after another man was fatally shot in east London.

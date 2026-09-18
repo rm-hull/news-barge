@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Screen limits will become mandatory in NSW schools from 2028 as federal
   education minister says students may need a ‘digital detox’
 image: https://i.guim.co.uk/img/media/ca747e14b1c06a8b6394b4aa49604f00e1ad34ad/960_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe904af594cf38a34eeecefdd845be75
+categories:
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 The New South Wales government has announced it will implement limits on screen time in public school classrooms and push for students to take part in daily “pen and paper” learning.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T19:08:44Z'
 published: '2026-09-11T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-phoenix-inn-george-street-2026-ldrs-4.webp
+categories:
+- Local
+- York
+- History
 ---
 
 Efforts to tackle the decay of a historic York pub have been given the go ahead.

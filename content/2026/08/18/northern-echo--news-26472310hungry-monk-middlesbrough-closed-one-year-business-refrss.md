@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: The Teesside restaurant known for its burgers, parmos and homemade Sunday
   roasts is shutting up shop just a year after opening.
 image: https://www.thenorthernecho.co.uk/resources/images/21332548.jpg?type=og-image&xType=0&yType=381
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Business & Entrepreneurship
 ---
 
 *(Image: Chapel)*

@@ -8,6 +8,11 @@ scraped_at: '2026-09-04T12:42:19Z'
 published: '2026-09-04T00:00:00Z'
 description: Most of the homicides tied to the ‘Texas Killing Fields’ remain unsolved
 image: https://static.the-independent.com/2026/04/01/15/12/James-Elmore-arrest.webp?trim=108,0,125,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Sports
 ---
 
 A man has been jailed for 20 years in a rare trial connected to the decades-long "Texas Killing Fields" investigation.

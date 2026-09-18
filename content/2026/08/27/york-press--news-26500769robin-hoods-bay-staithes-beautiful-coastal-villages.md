@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Two North Yorkshire coastal gems have been named the most beautiful seaside
   villages in the UK.
 image: https://www.yorkpress.co.uk/resources/images/17270884.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
+- Outdoors & Nature
 ---
 
 ## Much-loved North Yorkshire coastal villages named prettiest in the country

@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: TechRadar breaks down the biggest talking points from the Lanterns' most
   explosive episode so far.
 image: https://cdn.mos.cms.futurecdn.net/RHsjDGDjZd58HTUnJFA5Bc-1600-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Comedy & Entertainment
 ---
 
 ![John Stewart wearing some hospital clothes and standing at a bar in Lanterns episode 5](https://cdn.mos.cms.futurecdn.net/RHsjDGDjZd58HTUnJFA5Bc.jpg) 

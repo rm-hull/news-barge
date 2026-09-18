@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Proposals to build a 150 metre wind turbine on land between Todmorden
   and Bacup will need the permission of Calderdale Council for its key access…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21449808.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 ### What is the Public Notice Portal?

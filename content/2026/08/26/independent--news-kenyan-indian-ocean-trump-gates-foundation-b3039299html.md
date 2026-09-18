@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: The white sand beaches of one of Kenya's most popular tourist areas line
   a region with one of the country's highest rates of deaths around childbirth
 image: https://static.independent.co.uk/2026/08/26/05/Kenya_Dying_Mothers__936.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 As Penina Zawadi was wheeled to the operating room for a cesarean section, she gave her mother her jewelry for safekeeping, along with a reassuring word: She would have a safe delivery.

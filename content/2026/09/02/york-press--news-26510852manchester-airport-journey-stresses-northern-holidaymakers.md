@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: A study by TransPennine Express revealed 48 per cent of holidaymakers
   said the journey to Manchester Airport was the most stressful part of their…
 image: https://www.yorkpress.co.uk/resources/images/21395064.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Ian Howarth)*

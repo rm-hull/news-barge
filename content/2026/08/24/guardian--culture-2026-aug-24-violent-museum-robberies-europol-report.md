@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: EU police agency says shift could point to involvement of new criminal
   networks focused on specific artefacts
 image: https://i.guim.co.uk/img/media/4579528ccf5342cc3486b9ea7fb0f0230012a0d7/379_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=95e09ba535bf8863c02ab07e7e8fb80a
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Robberies at European museums are becoming increasingly violent, with thieves sometimes brandishing guns, assaulting staff and using sledgehammers, axes and even explosives to smash their way into buildings and display cases, according to a report by Europol.

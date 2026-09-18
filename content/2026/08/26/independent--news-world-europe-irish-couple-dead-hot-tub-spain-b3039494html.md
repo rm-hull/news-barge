@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The bodies were recovered at a property in Cullera, on the Valencian
   coast
 image: https://static.independent.co.uk/2026/08/26/9/15/iStock-1471678755-dde49137.jpeg?trim=0,35,74,102&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 An Irish couple were found dead in a hot tub by their teenage children at a holiday rental property in Spain on Tuesday, police said.

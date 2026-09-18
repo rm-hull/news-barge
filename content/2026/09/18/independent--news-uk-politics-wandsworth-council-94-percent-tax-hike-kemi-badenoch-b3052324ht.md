@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: The Conservative Party leader has blamed a ‘40 per cent cut’ from central
   government for the huge tax hike
 image: https://static.independent.co.uk/2026/09/18/08/2294652663..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The Conservative Party has "instructed lawyers" to challenge government cuts targeting a Tory-administered London council, which figures claim total 40 per cent.

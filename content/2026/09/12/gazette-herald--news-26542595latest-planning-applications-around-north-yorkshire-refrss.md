@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: North Yorkshire Council has considered multiple planning applications
   this week.
 image: https://www.gazetteherald.co.uk/resources/images/18954964.jpg?type=og-image&xType=0&yType=92
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Newsquest)*

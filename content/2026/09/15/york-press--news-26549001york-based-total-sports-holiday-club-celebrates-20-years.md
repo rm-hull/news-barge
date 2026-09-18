@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Total Sports, founded by Ollie Holliday in York, is celebrating 20 years
   of growth after expanding from a five-child holiday camp to serving around…
 image: https://www.yorkpress.co.uk/resources/images/21454291.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

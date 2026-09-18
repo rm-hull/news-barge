@@ -9,6 +9,12 @@ description: Sometimes just the titles of new books can reveal a lot about whatâ
   currently preoccupying a country. We take a look at the six novels on the shortlist
   for Germanyâ€™s most prestigious literary prize.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-617725645.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Books & Literature
+- Arts & Culture
 ---
 
 From climate anxiety to Germany's unresolved past, the six novels which have made it into the shortlist for this year's *Deutscher Buchpreis* offer a surprisingly useful guide to the ideas shaping the country today.

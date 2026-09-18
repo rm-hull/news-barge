@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: A driver who could have killed four men during a shocking incident in
   Bradford city centre has been jailed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21363936.jpg?type=og-image&xType=0&yType=808
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

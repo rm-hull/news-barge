@@ -8,6 +8,8 @@ published: '2026-08-25T00:00:00Z'
 description: Apple unveils these new processors alongside an updated Mac Mini and
   Mac Studio.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Apple-M6-and-M5-Ultra-hero-260825_big.jpg.medium_2x.jpg?resize=1200,675
+categories:
+- Technology & Software
 ---
 
 Apple announced two new processors on Tuesday, which power its new Mac Mini and Mac Studio models: the M5 Ultra and M6 chips.

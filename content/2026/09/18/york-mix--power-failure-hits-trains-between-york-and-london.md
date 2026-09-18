@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T13:00:24Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/york-railway-station-6-august-2026.webp
+categories:
+- Local
+- York
+- History
 ---
 
 There’s disruption to rail services on the East Coast Main Line today (Friday).

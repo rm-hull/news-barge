@@ -8,6 +8,8 @@ published: '2026-09-13T00:00:00Z'
 description: 'The Prusa CORE One+ Gen 2 INDX 8T is the 3D printer I''ve been waiting
   for: an 8-tool-changer that uses clever coloring technology to get advanced combinations.'
 image: https://cdn.mos.cms.futurecdn.net/GNnRJt76htsKSVQ77zBEhM-1200-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: How much money can you safely withdraw from your retirement savings and
   still make it last for decades?
 image: https://static.independent.co.uk/2025/07/21/16/iStock-508466061.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 How much you can safely withdraw from your pension is one of the biggest questions in personal finance.

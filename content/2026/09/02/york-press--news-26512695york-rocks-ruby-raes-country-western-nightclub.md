@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Since Ruby Rae's opened in York's former Jalou nightclub, thousands have
   been enjoying its country and western every weekend.
 image: https://www.yorkpress.co.uk/resources/images/21397557.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## IN PICTURES: New nightclub draws thousands through its doors each weekend

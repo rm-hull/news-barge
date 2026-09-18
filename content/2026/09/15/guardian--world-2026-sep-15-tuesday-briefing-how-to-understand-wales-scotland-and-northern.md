@@ -10,6 +10,10 @@ description: 'In today’s newsletter: Plaid Cymru, the SNP and Sinn Féin have 
   an agreement for greater powers, as pressure grows on Westminster over the UK’s
   future'
 image: https://i.guim.co.uk/img/media/3e5b30ccfbaf381659c4a23aebae3f98a506fe82/309_0_5383_4307/master/5383.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6625f5d7ae3dbf5cf47c139f4ed426a6
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Good morning. Back in May, the shape of British politics shifted dramatically. I’ll forgive you if you were too preoccupied refreshing Andrew Sparrow’s live blog for the latest speculation about Keir Starmer to notice, but since 7 May, centre-left nationalist parties that ultimately aspire to leave the UK have been in government for the first time simultaneously in Scotland, Wales and Northern Ireland.

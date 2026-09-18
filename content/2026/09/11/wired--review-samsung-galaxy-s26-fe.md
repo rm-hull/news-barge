@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Samsung is resting on its laurels with the midrange S26 FE, with an unwelcome
   price bump and only a new processor to show for it.
 image: https://media.wired.com/photos/6aa35a8b5d0d801ae42441bf/191:100/w_1280,c_limit/Samsung%20Galaxy%20S26%20FE%202%20SOURCE%20Simon%20Hill.jpg
+categories:
+- Technology & Software
+- Science
+- Film & TV
 ---
 
 Snapping shots in daylight with the main camera resulted in lovely photos I’d be happy to share. There’s plenty of detail, decent sharpness, pleasing dynamic range, and vibrant but not over-the-top colors. Samsung’s automatic Night Mode helps with low-light performance, as long as you hold still. The 2X zoom crops from the main camera and mostly does a good job.

@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: The finalized regulation could ultimately become a minor detail in the
   broader legal fight surrounding Trump's directive
 image: https://static.independent.co.uk/2026/07/28/02/2278806877..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 New requirements regarding mail ballots have been introduced by the U.S. Postal Service barely two weeks before some states begin sending them out. However, these updated guidelines will take effect only if the Supreme Court permits President Donald Trump's order restricting mail voting to proceed.

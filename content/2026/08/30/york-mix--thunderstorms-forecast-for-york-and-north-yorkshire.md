@@ -7,6 +7,10 @@ scraped_at: '2026-08-30T13:47:00Z'
 published: '2026-08-30T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/08/thunderstorm-warning-met-office-12-aug-2024.webp
+categories:
+- Local
+- York
+- History
 ---
 
 There is a warning to drivers in York and across North Yorkshire today (Sunday, August 30) as the Met Office has issued a yellow warning for heavy showers and thunderstorms.

@@ -9,6 +9,10 @@ description: Video. Rescuers in Nepal and Tibet continued searching for survivor
   on Sunday after flash floods along the border killed hundreds and left thousands
   missing, with aid flown into cut-off districts by helicopter.
 image: https://images.euronews.com/articles/stories/09/89/49/87/1200x675_cmsv2_554a025d-7683-5f93-9c34-ee495f132439-9894987.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 Rescuers were trying to find trapped workers in hydroelectric plant tunnels on Monday after catastrophic flooding in Nepal and Tibet killed at least 900 people and left more than 4,700 missing.

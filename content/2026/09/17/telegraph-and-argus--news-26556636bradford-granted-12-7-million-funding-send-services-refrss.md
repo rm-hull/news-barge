@@ -9,6 +9,12 @@ published: '2026-09-17T00:00:00Z'
 description: Bradford Council has been handed an extra £12.7 million to help fund
   the district’s SEND services.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20853788.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: T&A)*

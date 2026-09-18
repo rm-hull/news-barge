@@ -9,6 +9,10 @@ description: 'Ceuta and Melilla have been under Spanish rule since the 15th and 
   centuries and have never been part of the Moroccan state. The UN does not treat
   them as territories awaiting decolonisation, despite Rabat''s objections. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/88/75/1200x675_cmsv2_c4187fc4-33d0-534f-94f8-5d5f07f7de43-9908875.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Ceuta and Melilla have been under Spanish rule since the 15th and 16th centuries and have never been part of the Moroccan state. The UN does not treat them as territories awaiting decolonisation, despite Rabat's objections.

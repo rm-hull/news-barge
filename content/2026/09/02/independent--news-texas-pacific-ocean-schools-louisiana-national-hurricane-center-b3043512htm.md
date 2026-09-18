@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Tropical Storm Edouard has weakened into a depression but is still dumping
   heavy rain and flooding parts of Texas
 image: https://static.independent.co.uk/2026/09/02/14/Extreme_Weather_Tropical_Storm_Texas_78782.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 The former Tropical Storm Edouard weakened into a depression but dumped heavy rain, flooded roads and knocked down trees Wednesday in parts of Texas as it slowly moved north in the state.

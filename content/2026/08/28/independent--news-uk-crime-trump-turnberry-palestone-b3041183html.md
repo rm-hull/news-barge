@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: ‘Gaza is not for sale’ was painted on one of the greens, and holes on
   the course were dug up
 image: https://static.independent.co.uk/2025/04/11/13/396ff84edff595955e56f0da4448ec1bY29udGVudHNlYXJjaGFwaSwxNzQ0NDUwODE0-2.79369741.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Seven Palestine Action protesters accused of daubing pro-Palestinian graffiti on US President Donald Trump's Turnberry golf resort in Scotland could face longer sentences if found guilty due to what prosecutors have described as a "terrorist connection".

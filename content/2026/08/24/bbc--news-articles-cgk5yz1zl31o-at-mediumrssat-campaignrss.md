@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Several of the papers are calling on social media platforms to stop the
   sharing of videos posted by joyriders.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e22a/live/f1702280-a003-11f1-be2f-e7f87898c4d6.png
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Comedy & Entertainment
 ---
 
 ![The headline on the front page of the Times reads: “'Realistic' Burnham hints at tax increases in budget".](https://ichef.bbci.co.uk/ace/standard/809/cpsprodpb/4624/live/30c32470-a002-11f1-aed2-8d6da8d75094.jpg)

@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The new measures, including mandatory high-fibre options like lentils,
   aim to tackle childhood obesity
 image: https://static.independent.co.uk/2026/09/14/12/06/iStock-2264086668.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Sweetened baked treats served to school pupils face major cutbacks as part of the first overhaul of school food guidelines in over ten years.

@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The ChatGPT-maker said training will be slowed for two weeks while it
   puts the upgrades in place.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bc62/live/f7f452d0-9bbb-11f1-9cab-ed9e722cbe4c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![The OpenAI logo on a white phone backgorund, the phone is on a laptop keyboard](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/bc62/live/f7f452d0-9bbb-11f1-9cab-ed9e722cbe4c.jpg)

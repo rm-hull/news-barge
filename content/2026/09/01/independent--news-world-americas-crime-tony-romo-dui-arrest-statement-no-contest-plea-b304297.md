@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The former Dallas Cowboys quarterback opened up on his struggles with
   pain and alcohol in a lengthy statement
 image: https://static.the-independent.com/2026/07/24/19/50/Untitled-design-(1).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Former Dallas Cowboys quarterback and current CBS NFL analyst Tony Romo has issued a public apology after pleading no contest to a charge of operating while intoxicated.

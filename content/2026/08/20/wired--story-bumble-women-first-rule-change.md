@@ -9,6 +9,10 @@ description: The app now allows men to make the first move, suggesting its women
   positioning was limiting growth. It joins other dating apps now throwing everything
   at the wall in a bid to stay relevant.
 image: https://media.wired.com/photos/6a84b529f8933ad1e94fc497/191:100/w_1280,c_limit/Bumble-Niche-Dating-App-Dead-Culture.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Not even 24 hours after dating app Bumble announced it was getting rid of its trademark feature that requires women to make the first move, Robin H.’s inbox was already attracting unwanted attention.

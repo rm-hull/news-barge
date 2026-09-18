@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Business owners in both countries are navigating uncertainty and worry
   as the tit-for-tat import taxes ratchet up.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c2d4/live/a9cd8c00-9fa0-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Cindy Baldassi is in the foreground wearing sunglasses and a dark hoody and navy blue dress. She is looking at the camera and behind her is a beautiful blue lake and towering mountain peaks with snow on top of them.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/327a/live/4f7e5860-9fa0-11f1-a291-b542ee92de7c.jpg)

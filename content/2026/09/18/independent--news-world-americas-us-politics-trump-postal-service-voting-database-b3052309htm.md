@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: Trump’s efforts to largely eradicate mail voting turned the postal service
   into an unlikely arbiter of who is eligible to vote
 image: https://static.independent.co.uk/2026/09/18/08/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Work on a controversial computer database central to President Donald Trump’s effort to restrict voting by mail has been suspended by the U.S. Postal Service, following the Supreme Court’s decision to strike down his executive order this week.

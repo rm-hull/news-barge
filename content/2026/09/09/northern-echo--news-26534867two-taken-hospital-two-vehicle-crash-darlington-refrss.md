@@ -7,6 +7,11 @@ scraped_at: '2026-09-09T12:56:37Z'
 published: '2026-09-09T00:00:00Z'
 description: Two people were taken to hospital following a crash in Darlington.
 image: https://www.thenorthernecho.co.uk/resources/images/21429770.jpg?type=og-image&xType=0&yType=1572
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: NORTHERN ECHO)*

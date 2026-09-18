@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: OTLEY’S popular Wildlife Arts Festival will return this autumn with a
   packed programme celebrating nature through art, music, photography, film,…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21333716.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 OTLEY’S popular Wildlife Arts Festival will return this autumn with a packed programme celebrating nature through art, music, photography, film, books and talks.

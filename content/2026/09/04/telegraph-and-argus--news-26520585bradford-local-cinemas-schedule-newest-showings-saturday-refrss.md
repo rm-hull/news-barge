@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: BRADFORD cinema-goers have a packed Saturday of films, from family adventures
   to darker thrillers.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18984489.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 *(Image: Getty)*

@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: A former Durham Police officer has been accused of slamming his partner’s
   head against a wall and subjecting her to domestic abuse.
 image: https://www.thenorthernecho.co.uk/resources/images/21282401.jpg?type=og-image&xType=0&yType=83
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: Stuart Boulton)*

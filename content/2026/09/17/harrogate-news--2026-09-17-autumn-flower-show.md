@@ -9,6 +9,10 @@ description: 'Show Director Nick Smith said: This is a particularly special year
   the Harrogate Autumn Flower Show as we celebrate 50 years since the first show in
   1976.'
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/HFSAutmn2026Photocall30.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 **RIPON**— The Harrogate Autumn Flower Show officially opens tomorrow at Newby Hall & Gardens, marking a major milestone as the flagship horticultural event celebrates its 50th anniversary milestone.

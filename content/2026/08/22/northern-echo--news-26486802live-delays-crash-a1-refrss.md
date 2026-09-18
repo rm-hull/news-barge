@@ -7,6 +7,11 @@ scraped_at: '2026-08-22T12:57:12Z'
 published: '2026-08-22T00:00:00Z'
 description: There has been a 'serious collision' on the A1 in County Durham.
 image: https://www.thenorthernecho.co.uk/resources/images/21357466.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 - Good morning, welcome to this Northern Echo live breaking news blog.

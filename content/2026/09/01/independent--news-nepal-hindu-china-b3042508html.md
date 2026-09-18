@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: She knows her 21-year-old son is dead, but she didn't get a chance to
   see him before his body was committed to its cremation shroud.
 image: https://static.independent.co.uk/2026/09/01/07/APTOPIX_Nepal_Flash_Floods_28758.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 She knows her 21-year-old son is dead, but she didn't get a chance to see him before his body was committed to its cremation shroud.

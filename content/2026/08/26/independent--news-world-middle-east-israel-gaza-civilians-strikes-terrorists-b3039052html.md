@@ -10,6 +10,9 @@ description: A soldier has revealed how the IDF’s de facto policy of ‘retros
   incrimination’ was used after the August 2025 strike on Nasser hospital that killed
   an Independent Arabia journalist, reports Bel Trew
 image: https://static.independent.co.uk/2026/08/20/12/19/5772498-library.jpeg?trim=0,221,0,221&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Israeli military uses a de facto policy of “retrospective incrimination" for high-profile attacks that kill a large number of civilians without a clear military objective in Gaza, including deliberately counting Palestinians as “terrorists” even when unarmed, a soldier has revealed.

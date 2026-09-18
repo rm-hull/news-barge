@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: The rock band invite us into the studio to talk about the unexpected
   "third act" of their career.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03db/live/3655de80-a5ef-11f1-8348-fb0cb1cd9761.jpg
+categories:
+- UK
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 ![Kasabian perform inside Serge Pizzorno's home studio in Leicester](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/03db/live/3655de80-a5ef-11f1-8348-fb0cb1cd9761.jpg)

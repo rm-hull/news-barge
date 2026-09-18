@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The latest figures show the industry remained firmly in the contraction
   territory having been declining since January 2025.
 image: https://static.independent.co.uk/2025/09/04/10/04102328-73495bd0-66b8-49a4-a7a7-2c1326037b56.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The UK’s construction sector weakened further last month amid a deeper downturn in housebuilding, according to new figures.

@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Watch Redcar RNLI volunteers in action on BBC Two's Saving Lives at Sea
   as they rescue two walkers cut off by the tide.
 image: https://www.thenorthernecho.co.uk/resources/images/21421628.jpg?type=og-image&xType=0&yType=129
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A dramatic rescue off the Redcar coast will be showcased to a national television audience this week when Redcar RNLI features in BBC Two’s ‘Saving Lives at Sea’.

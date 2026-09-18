@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Three men have been arrested after a police pursuit near a Doncaster
   prison led to the discovery of a drone carrying suspected contraband.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/27/17/25/Doncaster_drone_arrest_still_1.jpeg?trim=661,0,539,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Watch: Police chase suspects after drone found near Doncaster prison

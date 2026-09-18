@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: Docking Station and Hub reviews, news and features, created for the hardcore
   PC enthusiast by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/ko5nmmiY9Js2ntbrP8NaXU-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/ko5nmmiY9Js2ntbrP8NaXU-320-80.jpg)

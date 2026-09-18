@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A man has been arrested after a car was driven on the wrong side of the
   road and crashed into another vehicle in Yorkshire.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/27/9/11/Crash-Beverley.png?trim=0,67,0,66&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # Police make arrest after driver crashes, runs away and 'throws cans into bush'

@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Records from the FEC indicate executives Gavin Sherry and Sundeep Madra
   already gave $443,000 to the RNC in June
 image: https://static.independent.co.uk/2026/08/27/10/2026-08-27T081024Z_1703107473_RC2YEMARPH1T_RTRMADP_3_NVIDIA-STOCKS.JPG?trim=0,50,0,50&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Nvidia is preparing to launch an employee-funded political action committee as part of an effort to shape U.S. policy, according to a person familiar with the decision.

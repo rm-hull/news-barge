@@ -9,6 +9,10 @@ description: Republican National Committee message appealing for donations ahead
   the midterms appears to acknowledge an issue keenly felt by voters but which the
   Trump administration has routinely downplayed
 image: https://static.independent.co.uk/2026/08/26/16/2026-08-24T180302Z_673128691_RC255NAVT0KJ_RTRMADP_3_USA-VANCE.JPG?trim=3,0,3,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The Republican National Committee has reportedly sent out texts signed by Vice President JD Vance and seeking to raise donations ahead of the midterms that frankly acknowledge the cost of living crisis, conceding: “Groceries cost what they cost.”

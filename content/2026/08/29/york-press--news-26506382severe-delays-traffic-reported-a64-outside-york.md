@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: The eastbound A64 between the A19 junction for Fulford and Selby and
   the A1079 junction for the east of York and Hull is running normally after…
 image: https://www.yorkpress.co.uk/resources/images/21387962.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## 'Severe delays' ease after crash on major road in York

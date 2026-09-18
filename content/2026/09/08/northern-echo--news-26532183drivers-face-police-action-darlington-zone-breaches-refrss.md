@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Drivers face police action if they keep ignoring restrictions in on Northgate
   in Darlington, Darlington Borough Council said.
 image: https://www.thenorthernecho.co.uk/resources/images/21425739.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: THE NORTHERN ECHO)*

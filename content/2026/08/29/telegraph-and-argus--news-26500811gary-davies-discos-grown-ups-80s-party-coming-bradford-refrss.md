@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Gary Davies is bringing his Discos for Grown Ups 80s Party to St George’s
   Hall, Bradford, for a night of iconic hits and dancefloor anthems.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21379323.jpg?type=og-image&xType=0&yType=208
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: Submitted)*

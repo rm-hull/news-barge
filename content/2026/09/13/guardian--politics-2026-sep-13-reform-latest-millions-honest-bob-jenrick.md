@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: The man who once helped Richard ‘Dirty’ Desmond save a load of tax was
   wheeled out to face Laura Kuenssberg
 image: https://i.guim.co.uk/img/media/97907031eed6683377f6e09ce5ab0984071ccfbd/465_0_2347_1878/master/2347.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=6b9b871587193db927251295b174eb81
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 You wait years for one party donation of £36m and then two come along at once. Reform can hardly believe its luck. All hail the crypto billionaires. Tacky pale turquoise suits all round. And Nigel Farage won’t have to worry about spending any of his own money – if you can call the £5m freebie his own money – on his security. Nor do those champagne and oyster lunches to discuss loose change donations of £500k from people living overseas pay for themselves. From now on Reform won’t need to bother getting out of bed for anything less than eight figures.
