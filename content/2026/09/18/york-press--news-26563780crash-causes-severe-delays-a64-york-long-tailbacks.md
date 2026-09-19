@@ -1,0 +1,21 @@
+---
+title: Crash closes lane on major York road with long tailbacks
+source_url: https://www.yorkpress.co.uk/news/26563780.crash-causes-severe-delays-a64-york-long-tailbacks/
+source_site: York Press
+source_slug: york-press
+scraped_at: '2026-09-19T04:30:26Z'
+published: '2026-09-18T00:00:00Z'
+description: A crash has closed laned of a major road in York. The A64 eastbound between
+  the A19 and A1079 Hull Road is seeing speeds down to ten miles per hour.
+categories:
+- Local
+- York
+- Travel
+- Automotive
+image: https://www.yorkpress.co.uk/resources/images/21385382.jpg?type=og-image
+---
+
+## Our live feed has now finished.
+
+* A crash closed one lane of the eastbound A64 this afternoon.
+* Delays of close to half an hour were reported as far back as the junction for Askham Bryan / A1237 Outer Ring Road from the Grimston Bar roundabout for the A1079
