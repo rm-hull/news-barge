@@ -1,0 +1,57 @@
+---
+title: PC Building
+source_url: https://www.tomshardware.com/uk/desktops/pc-building
+source_site: Tom's Hardware
+source_slug: toms-hardware
+scraped_at: '2026-09-19T12:29:50Z'
+published: '2026-09-19T00:00:00Z'
+description: Advice on PC building and the best PC builds around, from the expert
+  team at Tom's Hardware.
+categories:
+- Technology & Software
+- Hardware
+- Careers & Productivity
+image: https://cdn.mos.cms.futurecdn.net/R3HYp5NQj4sN6PaqkzisVH-320-80.jpg
+---
+
+![](https://cdn.mos.cms.futurecdn.net/R3HYp5NQj4sN6PaqkzisVH-320-80.jpg)
+
+If Edison and Stephenson had teamed up to build a gaming PC, it might have looked like this custom copper and wood all-AMD design.
+
+![](https://cdn.mos.cms.futurecdn.net/ihsSqsHBGmoax6s82AtRz5-320-80.jpg)
+
+A tech enthusiast says that they managed to put together a home lab-worthy Proxmox server using PC parts scavenged from the nearby county landfill.
+
+![](https://cdn.mos.cms.futurecdn.net/UGf3cR2nUt6StxjeptmAsd-320-80.jpg)
+
+A self-taught electronics tinkerer called Mike recently shared details of his retro-computing vacuum tube computer project.
+
+![](https://cdn.mos.cms.futurecdn.net/nYVKau5tqBwsj9B5FJ3qbA-320-80.jpg)
+
+A PC shop that spends over $10,000 a month on Amazon hardware says two AMD Ryzen 5 9600X orders arrived with the CPUs missing.
+
+![Asus ROG Edition 20 gaming PC build](https://cdn.mos.cms.futurecdn.net/LN4cNu3eyZUyPScMSPvxxC-320-80.jpg)
+
+What’s it like to build a PC with some of the most expensive components on the market? Asus sent us its ROG 20th anniversary components so we could find out for ourselves.
+
+![Powering a Desktop PC on 400 AA Alkaline Batteries](https://cdn.mos.cms.futurecdn.net/eg4Uuo9sB4KAie6rAGTQSP-320-80.png)
+
+A creator by the name of "Uwoslab" just jerry-rigged three battery banks together, each made up of 64 AA Alkaline cells, to form a giant 192-cell array that's enough to power an AM4 system.
+
+![](https://cdn.mos.cms.futurecdn.net/kuvSEGav6suFNU4cBrDMCF-320-80.jpg)
+
+The Terk Box v1.1 looks like the closest DIY alternative to Valve's Steam Machine yet. 3D print source files are available.
+
+![](https://cdn.mos.cms.futurecdn.net/FqqVQ2hhNVVFT8RXxxK7FV-320-80.jpg)
+
+A Japanese capsule toy maker has announced an official collaboration with ASRock, Gigabyte, MSI, and Intel to make tiny PC components that buyers 'can assemble and play with.'
+
+![Best PC Building Tool Deals](https://cdn.mos.cms.futurecdn.net/LXLjTM5FE8AzDz9tQLDuen-320-80.jpg)
+
+Deals You really do need all of these tools to keep your electronics in good order, and luckily they are all on offer.
+
+![](https://cdn.mos.cms.futurecdn.net/pWvJehRDYMR2ZRgqyevHnU-320-80.jpg)
+
+A Redditor's powerful gaming PC just might have just saved their life after its splintered G.Skill RAM sticks diverted a bullet shot through the wall.
+
+Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
