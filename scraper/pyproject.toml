@@ -11,6 +11,6 @@ dependencies = [
     "playwright>=1.62.0",
     "pyyaml>=6.0.3",
     "taxotag[litert]>=0.1.0",
-    "tqdm>=4.70.0",
+    "tqdm>=4.70.1",
     "trafilatura>=2.2.0",
 ]
