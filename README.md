@@ -70,11 +70,14 @@ Ensure [uv](https://github.com/astral-sh/uv) is installed.
 ```bash
 # Scrape
 cd scraper
+uv lock --upgrade
+uv sync
+# Ensure playwright browser is installed/updated
+uv run playwright install chromium
+
 uv run scrape.py --dry-run        # preview only
 uv run scrape.py                  # write to ../content/
 
-# Ensure playwright browser is installed
-uv run playwright install chromium
 
 # Build and preview the site
 cd ../site
