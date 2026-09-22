@@ -8,7 +8,7 @@
     "prestart": "[ -L content ] || ln -s ../content content",
     "prebuild": "[ -L content ] || ln -s ../content content",
     "build": "eleventy --config=eleventy.config.js && pagefind --site _site",
-    "start": "eleventy --config=eleventy.config.js --serve",
+    "start": "eleventy --config=eleventy.config.js --serve --incremental",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "format": "prettier --write ."
