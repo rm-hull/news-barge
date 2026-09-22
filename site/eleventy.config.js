@@ -236,6 +236,12 @@ export default function (eleventyConfig) {
   eleventyConfig.addGlobalData('lastUpdated', () => new Date().toISOString());
 
   // ── Filters ───────────────────────────────────────────────────────────────
+  eleventyConfig.addFilter('isoDate', (dateObj) => {
+    if (!dateObj) return '';
+    const date = new Date(dateObj);
+    return date.toISOString().split('T')[0];
+  });
+
   eleventyConfig.addFilter('readableDate', (dateObj) => {
     if (!dateObj) return '';
     return new Date(dateObj).toLocaleDateString('en-GB', {

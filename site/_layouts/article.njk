@@ -20,7 +20,7 @@ layout: base.njk
     </a>
 </div>
 
-<article class="article" itemscope itemtype="https://schema.org/NewsArticle" data-pagefind-body>
+<article class="article" itemscope itemtype="https://schema.org/NewsArticle" data-pagefind-body data-pagefind-sort="date:{{ scraped_at | isoDate}}">
     {% if title and title not in content %}<h1 itemprop="headline">{{ title }}</h1>{% endif %}
     {% if description and description not in content %}
     <p class="article-deck" itemprop="description">{{ description }}</p>

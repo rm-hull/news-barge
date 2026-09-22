@@ -40,6 +40,24 @@ permalink: /search/
 </section>
 <script src="/pagefind/pagefind-component-ui.js" type="module"></script>
 <script type="module">
+    // ─── PATCH: default sort by date descending ─────────────────────────
+  // The Component UI (v1.5.2) doesn't pass a "sort" option to pagefind.search().
+  // This wraps the internal pagefind instance to always include sort: { date: "desc" }.
+  // Remove this once you update to a Pagefind version that includes PR #1326.
+  const _manager = window.PagefindComponents.getInstanceManager();
+  const _instance = _manager.getInstance('default');
+
+  const _origDoLoad = _instance.__doLoad__;
+  _instance.__doLoad__ = async function () {
+    await _origDoLoad.call(this);
+    if (this.__pagefind__ && !this.__pagefind__._pfSortPatched) {
+      const orig = this.__pagefind__.search.bind(this.__pagefind__);
+      this.__pagefind__.search = (query, opts) =>
+        orig(query, { ...opts, sort: { date: "desc" } });
+      this.__pagefind__._pfSortPatched = true;
+    }
+  };
+  // ──────────────────────────────────────────────────────────────────────
   const params = new URLSearchParams(window.location.search);
   const q = params.get('q');
 
