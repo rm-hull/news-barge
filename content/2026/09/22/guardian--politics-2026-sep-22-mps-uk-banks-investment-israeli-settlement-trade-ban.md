@@ -1,0 +1,41 @@
+---
+title: British banks warned not to invest in planned Israeli settlement before UK
+  trade ban begins
+source_url: https://www.theguardian.com/politics/2026/sep/22/mps-uk-banks-investment-israeli-settlement-trade-ban
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-09-22T19:44:16Z'
+published: '2026-09-22T00:00:00Z'
+description: MPs send out letter as Israeli government seeks bids for construction
+  of large E1 settlement in West Bank
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
+image: https://i.guim.co.uk/img/media/94359a5ee18930d829cdd00c917f5404d5445b79/1438_0_7202_5760/master/7202.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af8b0711e581e696b14a9eece2d96aa9
+---
+
+British banks and financial institutions are receiving written warnings from MPs that they should not invest in Israel’s E1 settlement project even though new UK laws banning trade with illegal settlements are unlikely to be in place for months.
+
+A letter was sent to banks on Tuesday by the all-party Britain-Palestine group of MPs saying the onus was now on banks to review their obligations not to cooperate with new settlements.
+
+The foreign secretary, Ed Miliband, announced two weeks ago plans for a complete ban on trade with illegal settlements and new sanctions on those co-operating with building the settlements. But complex secondary legislation needed for the powers to come into force may take six to nine months to pass through parliament.
+
+The issue is urgent since the Israeli government is seeking bids for two tenders for the construction of as many as 3,400 houses, including more than 1,300 for which the tender closes on 25 October, two days before the elections.
+
+Israel’s finance minister, Bezalel Smotrich, said in 2025 that the E1 settlement “practically erases the two-state delusion” by splitting up territory that would be set aside for a Palestinian state. The settlement plan has long been delayed due to its uncontested political impact on the prospect of a two-state solution, still the main peace plan backed by the west and Gulf states.
+
+![Israel’s finance minister Bezalel Smotrich in dark suit holding a map with proposed settlement zone.](https://i.guim.co.uk/img/media/80fba1599bd6c18216507d127dd3b2b54c9549dd/1014_0_5059_4048/master/5059.jpg?width=445&dpr=1&s=none&crop=none)
+
+Finance, insurance and guarantees are required before construction starts. One of Miliband’s motives in acting earlier this month, before the Israeli elections, was not just to express his deep concern at the scale of settler violence in the West Bank but to deter UK finance from helping with the tenders or the construction. It has been alleged that he overrode some diplomatic advice in acting before the elections.
+
+The all-party group said: “The immediate question is what commitments institutions were willing to make while the detailed rules are being developed, and how they would respond when restrictions take effect”. The letter, signed by two Labour MPs, Debbie Abrahams and Andy McDonald, states: “Commitments made now may be difficult to unwind when restrictions commence; the allocation of costs will depend on the contracts and applicable law. We ask boards to consider this interim risk before agreeing new or increased commitments.”
+
+The letter adds: “We ask you to place potential E1 and settlement-related exposure on the board’s agenda and on the risk register, and to reach a reasoned decision on whether the associated sanctions, legal and reputational risk sits within the institution’s stated risk appetite.”
+
+It is argued that postcodes provide the locality of a product’s origin, and nothing is being attempted that would stop trade in general with Israel.
+
+Abrahams said: “We are not asking to pre-empt the law. We are asking boards a question they should be able to answer today: what exposure are you prepared to carry while the sanctions regime is written and on what evidence?”
+
+The all-party group said it intended to publish replies to its letter by 10 October.

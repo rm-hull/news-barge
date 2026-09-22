@@ -1,0 +1,57 @@
+---
+title: '‘Worse than the scramble for Oasis tickets’: England’s sustainable farming
+  funds run out in just six hours'
+source_url: https://www.theguardian.com/environment/2026/sep/22/england-farmers-miss-out-on-sfi-payments
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-09-22T19:44:40Z'
+published: '2026-09-22T00:00:00Z'
+description: Entire £233m budget for 2026 allocated in less than a day, leaving thousands
+  of farmers disappointed
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
+image: https://i.guim.co.uk/img/media/3cab5525c922a4f709031d956d4aeb6d710a177b/283_0_4241_3392/master/4241.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5cd60a4a1c4c24c3df60ea95d5789180
+---
+
+Thousands of farmers have been left empty-handed with the government’s 2026 nature funding spent in just six hours.
+
+The £233m sustainable farming incentive (SFI) scheme opened for applications from farmers at 10am on Tuesday.
+
+SFI is part of a package of payments that replaced the EU’s common agricultural policy, paying farmers to look after nature, soil and other public goods, rather than simply for farming and owning land.
+
+But by 4pm on Tuesday – just six hours after it opened – the government confirmed that the 2026 SFI scheme was closed for applications, with all of the budget allocated.
+
+For many farmers this was their first opportunity to apply to SFI since the scheme’s sudden closure in March 2025. The next opportunity to apply for funding will be in 2027.
+
+“Vicki Hird, the strategic lead on agriculture at The Wildlife Trusts, compared the scramble for SFI funding to “the scramble to get Oasis tickets” and said it was shocking to watch the funding disappear so quickly.
+
+“The government really needs to get the budget in order to ensure farmers have the funding they need for nature, food security and national security,” she said.
+
+Alice Groom, the head of sustainable land policy at the RSPB, said it was “unprecedented” for the budget to be used up so quickly. “We thought the money would go quickly but not necessarily in one day,” she said.
+
+“Defra doesn’t have a way of managing the budget. SFI is supposed to be spent on meeting environmental goals and transitioning to environmental farming, but it’s now first come first served.
+
+“There will likely be thousands of farmers who haven’t been able to apply for any funding, which will have implications for their ability to deliver for the environment on their farm,” she said.
+
+![A field of potatoes is artificially irrigated on a farm ](https://i.guim.co.uk/img/media/44b90974769bee2ed8408f7eb3b97932c40947be/0_0_3669_2446/master/3669.jpg?width=445&dpr=1&s=none&crop=none)
+
+Throughout the day, farmers who had been experiencing problems with their SFI applications had to wait up to five hours to speak to someone to get help. Martin Lines, the CEO of the Nature Friendly Farming Network, said this will have meant they won’t have spoken to someone until after the scheme had closed.
+
+This year has been extremely challenging for farmers because of crop-destroying heat and drought alongside soaring fertiliser costs tied to the war in Iran. The SFI funding will have been seen as a way for many farmers to invest in the future of their businesses, he said.
+
+after newsletter promotion
+
+Lines said the fact that thousands of farmers would inevitably miss out on funding was “terribly sad” and showed the “desperation” many farmers were experiencing.
+
+“If they can’t get access to the funding, how will they remain resilient?” he asked.
+
+Groom added that this would “absolutely” affect the government’s ability to meet its legally binding nature targets, including its statutory target to restore 30% of nature by 2030.
+
+“Lots of targets will be missed, we’re really worried,” she said.
+
+With farmers having suffered through what the NFU has described as the “toughest summer in a generation”, the employers’ association said the government must urgently set out a plan for the 2027 SFI scheme, with increased budget transparency.
+
+Andy Burnham, the prime minister, announced in August that there would be an extra £50m in funding for the 2026 SFI; that money was included in this funding round. The NFU said it welcomed this but “remains concerned that the limited SFI budget endangers longstanding environmental delivery and fails to recognise farmers’ desire to deliver greater environmental outcomes”.

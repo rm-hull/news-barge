@@ -1,0 +1,46 @@
+---
+title: Tim Westwood charged with two more sexual offences
+source_url: https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-09-22T19:44:50Z'
+published: '2026-09-22T00:00:00Z'
+description: The alleged sexual offences date back to 1991 and 2004.
+categories:
+- UK
+- News & Politics
+- Society & Culture
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f4fe/live/5c7c35b0-b6a1-11f1-b1d1-571ed4d7ff2c.jpg
+---
+
+![Tim Westwood looks solemn as he walks past a police officer with a member of his legal team walking behind him, outside Southward Crown Court in December.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/5ccd/live/d4976430-b6a0-11f1-a430-4d16ee157c41.jpg)
+
+Westwood appeared at Southwark Crown Court in December relating to earlier charges, where he pleaded not guilty
+
+**Former BBC Radio 1 and Capital Xtra DJ Tim Westwood has been charged with two more offences, the Metropolitan Police have said.**
+
+The charges are an alleged indecent assault against a teenage girl aged 16 to 17 in Hammersmith and Fulham in 1991 and the alleged sexual assault of an 18-year-old woman in Wandsworth in 2004.
+
+These charges are in addition to those brought against Westwood, 68, in October 2025 relating to seven women, which include four counts of rape.
+
+Westwood has previously denied multiple sex offences, including rape and sexual assault, and pleaded not guilty to earlier charges last December.
+
+Westwood is now facing a total of 17 charges involving nine women.
+
+Detective Superintendent Andy Furphy, from the Metropolitan Police Service, said: "The women who have made reports have placed their trust in us, and we remain committed to providing them with all available support.
+
+"Independent support is also available through Rape Crisis via its 24/7 Rape and Sexual Abuse Support Line."
+
+Westwood is due to appear at Westminster Magistrates' Court at a future date in relation to the two additional charges, the Met Police said.
+
+A trial relating to the original 15 charges is scheduled to begin at Southwark Crown Court on 25 January 2027.
+
+Catherine P Baccas, deputy chief crown prosecutor in the Crown Prosecution Service (CPS) London, said: "Today the Crown Prosecution Service has authorised two further charges of sexual assault and indecent assault against Tim Westwood.
+
+"Mr Westwood is already charged with nine counts of indecent assault, two counts of sexual assault and four counts of rape in relation to reported non-recent offences between 1983 and 2016 involving seven women.
+
+"These new charges, following an investigation by the Metropolitan Police, relate to separate reports of non-recent offences in 1991 and 2004 involving two additional women.
+
+"Our prosecutors have worked to establish that there is sufficient evidence to bring these additional charges to court and that it is in the public interest to pursue further criminal proceedings.
+
+"The Crown Prosecution Service reminds everyone that criminal proceedings are active, and the defendant has the right to a fair trial."
