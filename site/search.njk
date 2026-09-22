@@ -6,7 +6,7 @@ permalink: /search/
 <link href="/pagefind/pagefind-component-ui.css" rel="stylesheet">
 <section class="index-section">
   <h1 class="page-title">Search</h1>
-  <pagefind-input></pagefind-input>
+  <pagefind-input autofocus=true></pagefind-input>
   <pagefind-summary></pagefind-summary>
   <pagefind-results>
     <script type="text/pagefind-template">
@@ -39,4 +39,34 @@ permalink: /search/
   </pagefind-results>
 </section>
 <script src="/pagefind/pagefind-component-ui.js" type="module"></script>
+<script type="module">
+  const params = new URLSearchParams(window.location.search);
+  const q = params.get('q');
 
+  if (q) {
+    const manager = window.PagefindComponents.getInstanceManager();
+    const instance = manager.getInstance('default');
+
+    // Make sure the search bundle is loaded, then run the query
+    // (normally this only happens on focus, so we trigger it manually)
+    instance.triggerLoad().then(() => {
+      instance.triggerSearch(q);
+    });
+  }
+
+  const syncUrlWithSearch = (term) => {
+    const url = new URL(window.location.href);
+    if (term) {
+      url.searchParams.set('q', term);
+    } else {
+      url.searchParams.delete('q');
+    }
+    window.history.replaceState({}, '', url);
+  };
+
+  window.addEventListener('DOMContentLoaded', () => {
+    const manager = window.PagefindComponents.getInstanceManager();
+    const instance = manager.getInstance('default');
+    instance.on('search', (term) => syncUrlWithSearch(term));
+  });
+</script>
