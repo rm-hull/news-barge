@@ -1,0 +1,65 @@
+---
+title: Pupils to be offered vocational GCSEs in radical shake-up of system in England
+source_url: https://www.theguardian.com/education/2026/sep/23/vocational-gcse-radical-shake-up-education-system-england
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-09-23T22:06:55Z'
+published: '2026-09-23T00:00:00Z'
+description: Courses such as finance and construction form part of PM’s push for education
+  ‘that offers a path for everybody’
+categories:
+- UK
+- News & Politics
+- Education & Learning
+image: https://i.guim.co.uk/img/media/3e86adb79c560b532ed4f1eb8d5295f2ef3d0586/820_0_4331_3465/master/4331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7d3ad37926034b51ff061ce3b5a48f1b
+---
+
+Teenagers are to be offered a range of new vocational GCSEs under a radical shake-up of the school system in England designed to tackle a crisis that has left nearly a million young people out of work or training.
+
+From 2029, pupils will be able to supplement compulsory GCSE subjects such as English, maths and sciences with courses such as construction, creative media production and child development, marking the biggest changes to the qualification for more than a decade.
+
+The Department for Education (DfE) said the new GCSEs would be two-year courses taken in year 10 and 11, “with nationally set content, grading and assessment” and regulated by Ofqual, England’s qualifications watchdog, to the same standards as academic GCSEs.
+
+The courses are part of an effort by Andy Burnham to fulfil his pledge of “an education system that offers a path for everybody, academic and technical, in equal balance”, made the day after his election as MP for Makerfield.
+
+Announcing the new courses, the prime minister said: “We’ve all heard someone say ‘school wasn’t really for me’ because they were not given the chance to study vocational courses as well as traditional subjects.
+
+“That one-size-fits-all approach isn’t working, so we’re building an education system that values both academic and technical paths. I want to give all young people across Britain the hope that their future will be brighter, whether it starts at university or not.”
+
+Whitehall sources said the courses were expected to be offered from September 2029 but that the education secretary, Lucy Powell, wanted to move more quickly if possible, with schools given the option to add vocational GCSEs to their existing subjects.
+
+Powell said: “Time and again young people, parents and employers tell me they want schools to do more to help them understand and prepare for the jobs of the future. Our new vocational GCSEs will give young people a stronger connection to the careers and industries shaping our economy, helping them discover and develop their talents while maintaining high standards across our education system.
+
+“This is not about creating different routes for different children. It is about ensuring every child has access to a rich and ambitious education that opens doors, creates opportunity and prepares them for life beyond the classroom.”
+
+![Apprentice mechanic and mentor under a car on a platform](https://i.guim.co.uk/img/media/a42141b1e09fa5319dcecae79fc2ed7e31c89ea8/2328_0_5858_4692/master/5858.jpg?width=445&dpr=1&s=none&crop=none)
+
+The change is part of a range of measures that Burnham has announced since coming to power to tackle the Neets crisis, with a call to “value the hard hat as much as the graduation cap”. It follows plans to give local businesses a role in setting curriculums in their areas.
+
+In a review published in May, Alan Milburn said that without significant change the number of young people not in work or education could grow by 25% by the early 2030s, opening up a “generational fault line” between the young and old.
+
+Critics, however, say the focus on technical education risks widening the gap between richer and poorer children. Sam Freedman, a policy adviser to Michael Gove when he was education secretary, wrote last month: “The more we ration a full set of academic GCSEs to children from better-off families, the more we will bake in existing inequalities.”
+
+The shadow education secretary, Laura Trott, said the courses would mean lowered expectations for disadvantaged children who had benefited most from high standards.
+
+“Labour are sabotaging young people’s futures,” she said. “Just weeks after the latest Pisa results showed England’s pupils climbing into the world’s top 10 for reading, maths and science, they want to rip up the system and review existing GCSEs.
+
+“Soaring up international league tables didn’t happen by accident. It followed years of evidence-led reform built around knowledge, rigour and high expectations. Labour risks throwing that progress away and if English, maths and science become merely a ‘common entitlement’, not a requirement for new qualifications, we risk repeating the mistakes of the past.”
+
+after newsletter promotion
+
+The DfE said the subjects offered could include management and finance, creative media production, digital technology and building and construction, and would be designed to lead into further study including A-levels.
+
+The new GCSEs will replace the level-two vocational and technical awards offered by some schools in England, with travel and tourism and health and care courses among the most popular. About 350,000 technical awards and certificates were issued this year, compared with more than 5m GCSEs.
+
+School leaders said the success of the new courses would depend on having the resources and staffing to teach specialist subjects.
+
+The general secretary of the Association of School and College Leaders, Pepe Di’Iasio, said: “Reshaping and rebadging vocational and technical qualifications is well intentioned but will not in itself address the barriers to more young people taking these subjects. Reform needs to be accompanied by a strategy to ensure that schools have the staffing and resources to deliver them, and a campaign to raise public awareness of vocational and technical routes.”
+
+The general secretary of the National Education Union, Daniel Kebede, agreed. “These proposed changes will fall at the first hurdle unless there is sufficient investment in schools and the workforce,” he said.
+
+The general secretary of the NAHT school leaders’ union, Paul Whiteman, said: “In recent years, the content behind too many GCSEs became unwieldy and the over-reliance on final exams did not play to the strengths of all students.
+
+“It will be crucial these pitfalls are avoided in developing these qualifications and that the government works closely with educators, local leaders and employers to ensure they offer high-quality learning which sets young people up for future training, education or employment.”
+
+The government has also said it will launch a “national mission” by calling on employers to provide an additional 200,000 work experience placements to give young people exposure to the workplace by age 16. No 10 North will offer work experience for students aged 14 to 16 this academic year.
