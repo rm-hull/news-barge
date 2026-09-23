@@ -30,6 +30,6 @@ layout: base.njk
         {% if image and image | basename not in content and image | stripQueryParams not in content and image | stripImageSize | basename not in content %}
           <img src="{{ image }}" alt="{{ title }}" class="article-image">
         {% endif %}
-        {{ content | safe }}
+        {{ content | nerSearch(locations or [], people or [], organisations or []) | safe }}
     </div>
 </article>

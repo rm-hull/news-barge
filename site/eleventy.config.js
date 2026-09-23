@@ -286,6 +286,66 @@ export default function (eleventyConfig) {
     return url.replace(/-(\d+)-(\d+)(?=\.[a-z]+$)/i, '');
   });
 
+  function escapeRegExp(str) {
+    return String(str).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  eleventyConfig.addFilter('nerSearch', (html, ...termArrays) => {
+    if (!html) return html;
+    const input = typeof html === 'string' ? html : String(html);
+
+    const seen = new Set();
+    const terms = [];
+    for (const arr of termArrays) {
+      if (!Array.isArray(arr)) continue;
+      for (const raw of arr) {
+        if (raw == null) continue;
+        // Strip trailing sentence punctuation that sometimes leaks into
+        // extracted names ("Falkland Islands." -> "Falkland Islands").
+        const term = String(raw)
+          .trim()
+          .replace(/[.,;:!?]+$/, '');
+        if (!term) continue;
+        const key = term.toLowerCase();
+        if (seen.has(key)) continue;
+        seen.add(key);
+        terms.push(term);
+      }
+    }
+    if (terms.length === 0) return input;
+
+    // Escape for use in a regex alternation, longest first so multi-word
+    // phrases win over their shorter sub-strings.
+    const alternation = terms
+      .map(escapeRegExp)
+      .sort((a, b) => b.length - a.length)
+      .join('|');
+    const termPattern = new RegExp('\\b(?:' + alternation + ')\\b', 'gi');
+
+    // Only rewrite text that lives outside of HTML tags so attribute
+    // values (hrefs, alt text, ...) are left untouched.
+    const chunkRe = /<[^>]*>|[^<]+/g;
+    let out = '';
+    let m;
+    while ((m = chunkRe.exec(input)) !== null) {
+      const chunk = m[0];
+      if (chunk.charCodeAt(0) === 60 /* '<' */) {
+        out += chunk;
+      } else {
+        out += chunk.replace(termPattern, (match) => {
+          // Entities are proper nouns: avoid matching all-lowercase words
+          // that merely share a case-insensitive form (the pronoun "us"
+          // vs. the acronym "US").
+          if (/[A-Z]/.test(match)) {
+            return `<a href="/search/?q=${encodeURIComponent('"' + match + '"')}" class="searchable">${match}</a>`;
+          }
+          return match;
+        });
+      }
+    }
+    return out;
+  });
+
   eleventyConfig.addFilter('monthName', (monthIndex) => {
     const months = [
       'January',
