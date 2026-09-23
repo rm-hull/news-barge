@@ -1,0 +1,49 @@
+---
+title: Second man to be executed over 2005 triple homicide at Texas home
+source_url: https://www.independent.co.uk/news/world/americas/crime/kersean-ramey-death-penalty-texas-execution-b3055067.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-09-23T19:40:19Z'
+published: '2026-09-23T00:00:00Z'
+description: Ker’Sean Ramey, 41, is set to die by lethal injection, a week after the
+  other man convicted in the killings was put to death
+categories:
+- News & Politics
+- UK
+- True Crime
+image: https://static.the-independent.com/2026/09/23/05/Texas_Execution_3658_.jpg?trim=499,564,251,561&width=1200&height=800&crop=1200:800
+---
+
+![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)
+
+# Become an Independent member to bookmark this article
+
+Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.
+
+Join today
+
+Already a member? Log in
+
+A man is scheduled to be executed Wednesday after being found guilty of fatally shooting three people during a 2005 attempted robbery at a rural Texas home.
+
+Ker’Sean Ramey, 41, is set to die by lethal injection at the state penitentiary in Huntsville, a week after the other man convicted in the killings was put to death.
+
+He would be the sixth person executed so far this year in Texas, with three more scheduled.
+
+A jury convicted Ramey of capital murder and sentenced him to death over the shootings of Samuel Roberts, 24, Tiffani Peacock, 18, and Celso Lopez, 38, in the home they shared in the small city of Edna, about 100 miles (160 kilometers) southwest of Houston.
+
+Ramey and LeJames Norman believed there was cocaine in the house and hoped to steal it, according to court records. They found none and killed the three victims, who lived across the street from Norman.
+
+Norman was put to death September 16, also in Huntsville. He had no last words, and no relatives or friends of the victims witnessed that execution.
+
+![LeJames Norman](https://static.the-independent.com/2026/09/16/19/15/AP26258777739244.jpg)
+
+Attorneys for Ramey filed a final appeal to the U.S. Supreme Court arguing that there was no physical evidence linking him to the killings and that jurors never heard about how he suffered physical abuse as a child and grew up in poverty.
+
+Prosecutors have told lower courts that Ramey did not present any issues that would merit reconsidering the conviction.
+
+About a year after testifying at Ramey's trial, Norman pleaded guilty to capital murder and was sentenced to death by a jury.
+
+Norman testified that both he and Ramey shot the victims. Lopez was shot four times, including three in the back of his head; Peacock was shot twice in the head; and Roberts was shot five times in the chest, neck and head.
+
+During the trial, Ramey's attorneys blamed the shootings on Norman.
