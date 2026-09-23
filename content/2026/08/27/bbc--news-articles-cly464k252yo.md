@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Bhote Koshi river
+- Chamoli
+- Earth
+- Himalayas
+- India
+- Italy
+- Langtang Lirung
+- Lende Khola
+- Nepal
+- Nepal-Tibet
+- Rasuwa
+- Switzerland
+- Tibet
+- Trishuli
+people:
+- Mike Searle
+- Mohd Farooq Azam
+- Simon Cook
+organisations:
+- BBC
+- ICIMOD
+- International Centre for Integrated Mountain Development
+- Oxford University
+- US Geological Survey
+- USGS
+- University of Dundee
 ---
 
 Aerial footage shows floods on Nepal-Tibet border

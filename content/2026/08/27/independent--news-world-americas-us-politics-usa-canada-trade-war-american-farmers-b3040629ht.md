@@ -13,6 +13,28 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Argentina
+- Australia
+- Canada
+- China
+- Elk Point Basin
+- Iran
+- Mexico
+- Saskatchewan
+- Strait of Hormuz
+- U.S.
+- US
+- United States
+people:
+- Donald Trump
+- Jayash Paudel
+organisations:
+- Farm Bureau
+- Potash
+- The Conversation
+- Trump
+- University of Oklahoma
 ---
 
 U.S. President Donald Trump’s trade war with Canada is getting personal for American farmers.

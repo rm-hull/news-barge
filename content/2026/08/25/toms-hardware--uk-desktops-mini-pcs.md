@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/AvgL7izoWtiF7TwE5q246i-320-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Lisa Su
+organisations:
+- AMD
+- Apple
+- Beelink
+- EVO-X3
+- GMKtec
+- Geekom
+- Get Tom's Hardware
+- Intel
+- Mac Studio
+- OpenClaw
+- Qualcomm
+- RLOD
+- Reddit
+- Tom's Hardware
+- Valve
 ---
 
 Tom's Hardware is an industry leader in mini PC testing, reviews, and analysis. Here you can find all the details about the latest mini PCs, including news and reviews covering the entire gamut of modern systems featuring processors from AMD, Intel, Qualcomm, and Apple.

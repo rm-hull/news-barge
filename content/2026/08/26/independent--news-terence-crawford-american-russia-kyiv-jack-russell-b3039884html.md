@@ -12,6 +12,36 @@ image: https://static.independent.co.uk/2026/08/26/19/Russia_Ukraine_War_17628.j
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Bucha
+- Chernihiv
+- Donetsk
+- Iran
+- Kyiv
+- London
+- Russia
+- U.S.
+- Western Ukraine
+- Zelenskyy
+people:
+- Athos
+- Athos'
+- Donald Trump
+- Francisco Lopez
+- Freya
+- JD Vance
+- Jack Russell
+- Oleksii Movchan
+- Patrone
+- Terence Crawford
+- Vadym Danylchenko
+- Volodymyr Zelenskyy
+organisations:
+- Oval Office
+- The Associated Press
+- UNICEF
+- ___ Kellman
 ---
 
 Wait. President Volodymyr Zelenskyy, Ukraine's war chief, holding a puppy?

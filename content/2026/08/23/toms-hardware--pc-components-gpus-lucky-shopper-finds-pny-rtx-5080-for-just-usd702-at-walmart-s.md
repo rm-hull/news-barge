@@ -14,6 +14,23 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Shopping & Deals
+locations: []
+people:
+- Kunal Khullar
+- Tom
+organisations:
+- Amazon
+- Best Buy
+- GPU
+- Google News
+- Multi Frame Generation
+- Newegg
+- Nvidia
+- Nvidia’s
+- RTX
+- Reddit
+- Tom’s Hardware
+- Walmart
 ---
 
 ![A retail unit of the PNY GeForce RTX 5080 OC with a marked down price of $702.56 at Walmart](https://cdn.mos.cms.futurecdn.net/PGsSSZgSSxXDE7MJYVXRM7.jpg) 

@@ -12,6 +12,23 @@ image: https://static.independent.co.uk/2026/08/26/13/Japan_Netherlands_ICC_8964
 categories:
 - News & Politics
 - UK
+locations:
+- Afghanistan
+- Gaza
+- Japan
+- The Hague
+- U.S.
+- United States
+- Washington
+people:
+- Donald Trump
+- Sanae Takaichi
+- Shinzo Abe
+- Tomoko Akane
+- Toshimitsu Motegi
+organisations:
+- ICC
+- International Criminal Court
 ---
 
 The president of the International Criminal Court said Wednesday there is no reason she has to face U.S. sanctions, adding that she is asking Japan's government to work with Washington to avoid further escalating tensions.

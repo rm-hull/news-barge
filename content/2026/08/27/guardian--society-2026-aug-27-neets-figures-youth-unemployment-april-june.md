@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Europe
+- UK
+people:
+- Alan Milburn
+- Allen Simpson
+- Ben Harrison
+- Pat McFadden
+- Paul Nowak
+organisations:
+- Lancaster University
+- Neets
+- ONS
+- Office for National Statistics
+- TUC
+- UKHospitality
+- Work Foundation
 ---
 
 The number of young people not in education, employment or training (Neet) across the UK fell below 1 million in the latest three-month period.

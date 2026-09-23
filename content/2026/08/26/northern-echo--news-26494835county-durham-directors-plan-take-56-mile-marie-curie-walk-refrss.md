@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- County Durham
+- Darlington
+- Durham Cathedral
+- Durham City
+- Great North Run
+- Killhope
+people:
+- Brian
+- Chris
+- Erik Coates
+- Jason Oakes
+- Kevin Nicol
+- Liam Hall
+- Marie Curie
+- Michael Pallister
+- Phil
+organisations:
+- 0800 Repair
+- Alzheimer’s County Durham
+- PHS
 ---
 
 *(Image: Supplied)*

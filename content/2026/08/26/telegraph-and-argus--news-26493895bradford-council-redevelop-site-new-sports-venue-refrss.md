@@ -13,6 +13,30 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- '## Squire Lane'
+- Bradford
+- Heaton
+- Scotchman Road
+- Squire Lane
+- YOUR
+people:
+- Hamza Rehman
+- Ian Walker
+- Stephen Place
+organisations:
+- Bradford Council
+- Bradford West
+- Executive
+- Government
+- Green Party
+- Neighbourhoods and Communities
+- Public Notice Portal
+- Public Notice Portal BRADFORD Council
+- Reform UK-led council
+- Regeneration and Environment Scrutiny Committee
+- T&A
+- Telegraph & Argus
 ---
 
 *(Image: Green Party)*

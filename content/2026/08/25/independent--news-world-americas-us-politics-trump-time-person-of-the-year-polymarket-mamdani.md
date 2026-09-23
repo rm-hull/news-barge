@@ -12,6 +12,28 @@ image: https://static.independent.co.uk/2026/06/08/15/52/GettyImages-2247836301.
 categories:
 - News & Politics
 - UK
+locations:
+- Iran
+- Kalshi
+- New York
+- New York City
+- Polymarket
+- U.S.
+- White House
+people:
+- Christ
+- Donald Trump
+- JD Vance
+- Leo XIV
+- Pope
+- Zohran Mamdani
+organisations:
+- Archdiocese of Miami
+- Catholic Charities
+- Catholic Church
+- ICE
+- Prince of Peace
+- Trump
 ---
 
 In a few months, *TIME* will announce its annual Person of the Year. If prediction markets are to be believed, Donald Trump will be disappointed with the results.

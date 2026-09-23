@@ -16,6 +16,15 @@ categories:
 - Business & Entrepreneurship
 - Education & Learning
 - Careers & Productivity
+locations: []
+people:
+- Komal Iqbal
+- Malika Hussain
+organisations:
+- Clearing
+- LLB Law
+- Students’ Union
+- University of Bradford
 ---
 
 A PLACEMENT year has helped shape the career ambitions of a future solicitor.

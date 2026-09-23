@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Austin
+- Biba
+- Kensington Market
+- Knebworth
+- London
+- Opera
+- Zanzibar
+people:
+- Diana Moseley
+- Freddie
+- Kate Bailey
+- Mary Austin
+- Mercury
+- Tom Piper
+- Wendy de Smet
+organisations:
+- 'Alice: Curiouser and Curiouser'
+- Farrokh Bulsara
+- Freddie Mercury
+- Garden Lodge
+- Imperial College
+- Royal Shakespeare Company
+- Songbook Trail
+- Taylor Swift
+- Tower of London
+- V&A
 ---
 
 Eight famous costumes worn by Freddie Mercury, including the outfit featured on the cover of Queen’s debut album and the catsuit from the video for Bohemian Rhapsody, are to go on display at the V&A in London this autumn to mark what would have been the singer’s 80th birthday.

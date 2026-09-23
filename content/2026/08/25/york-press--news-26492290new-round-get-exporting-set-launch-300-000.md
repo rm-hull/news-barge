@@ -13,6 +13,22 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Asia
+- Europe
+- North America
+- North Yorkshire
+- US
+- York
+people:
+- Charlotte Walsh
+- David Skaith
+- Nancy Gries
+organisations:
+- COTI Vision
+- Combined Authority
+- Pic
+- Silicone Straw Company
 ---
 
 *(Image: Pic supplied)*

@@ -12,6 +12,26 @@ image: https://cdn.mos.cms.futurecdn.net/ym4JdN8tZyMYq4wNvoyNWJ-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- AI
+- Benedict Collins
+- Claude Code
+- Jacob Krell
+- Jeremiah Fowler
+- Kevin Surace
+- Rust
+- Seemant Sehgal
+organisations:
+- APT
+- Anthropic
+- BUCSIS
+- Black Hills Information Security
+- Google News
+- Secure AI Solutions & Cybersecurity
+- Suzu Labs:**
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![Anthropic Claude](https://cdn.mos.cms.futurecdn.net/ym4JdN8tZyMYq4wNvoyNWJ.jpg) 

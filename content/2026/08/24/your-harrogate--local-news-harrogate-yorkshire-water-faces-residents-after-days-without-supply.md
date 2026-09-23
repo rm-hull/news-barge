@@ -12,6 +12,18 @@ categories:
 - Local
 - Harrogate
 - Health & Fitness
+locations:
+- Boroughbridge
+- Dunsforths
+- Great Ouseburn
+- Marton-cum-Grafton
+- Whixley
+people:
+- Arnold Warneken
+- Cllr Warneken
+organisations:
+- Priority Services Register
+- Yorkshire Water
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8c255919074c4e057.jpg) 

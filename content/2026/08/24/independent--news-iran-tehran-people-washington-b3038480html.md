@@ -12,6 +12,14 @@ image: https://static.independent.co.uk/2026/08/24/20/Iran_Daily_Life_17826.jpg?
 categories:
 - News & Politics
 - UK
+locations:
+- Iran
+- Tehran
+- U.S.
+- US
+- Washington
+people: []
+organisations: []
 ---
 
 Photos of daily life in Tehran as Iran braces for new US sanctions

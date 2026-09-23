@@ -14,6 +14,66 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Afipsky
+- Britain
+- Chernihiv
+- China
+- Dnipro
+- Dnipropetrovsk
+- Europe
+- France
+- Germany
+- Halle Airport
+- Krasnodar
+- Kremlin
+- Kryvyi Rih
+- Kyiv
+- Leipzig
+- Moscow
+- North Korea
+- Novoshakhtinsky
+- Odesa
+- Pivdennyi
+- Rostov
+- Russia
+- Schkeuditz
+- Soniachna Gallereia
+- St Sophia Square
+- UK
+- US
+- Ukraine
+- United States
+people:
+- '## Trump'
+- '## Zelensky'
+- Andrei Fedorov
+- Andy Burnham
+- Danielle Bell
+- Donald Trump
+- Veniamin Kondratyev
+- Vladimir Putin
+- Volodymyr Zelensky
+- Zelensky Volodymyr Zelensky
+organisations:
+- '## Putin'
+- Afipsky
+- Antonov Airlines
+- DHL
+- Exilenova
+- HRMMU
+- Horodetskyi House
+- Kyiv
+- MBDA
+- NDR
+- Nato
+- Ozon
+- SCALP
+- Sueddeutsche Zeitung
+- Telegram
+- UN Human Rights Monitoring Mission in Ukraine
+- WDR
+- Wildberries
 ---
 
 Russian president Vladimir Putin has issued a presidential decree to allow the Russian state to take control of private critical infrastructure if they are not protected from Ukrainian drone attacks.

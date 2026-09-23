@@ -12,6 +12,19 @@ image: https://i.guim.co.uk/img/media/04e2750c268e7207cf2fb69e13bf809f2fafa13d/1
 categories:
 - UK
 - News & Politics
+locations:
+- City
+- UK
+- US
+people:
+- Jeffrey Epstein
+- Jes Staley
+- Snow White
+organisations:
+- Barclays
+- Disney
+- JP Morgan
+- JPMorgan Chase
 ---
 
 The former Barclays boss Jes Staley has denied having sex with a woman dressed as Snow White, after being questioned about an infamous email exchange about Disney princesses with Jeffrey Epstein.

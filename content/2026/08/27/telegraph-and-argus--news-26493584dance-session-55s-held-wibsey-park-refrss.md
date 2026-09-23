@@ -13,6 +13,13 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Bradford
+- Wibsey Park
+people: []
+organisations:
+- The Beacon
+- Yorkshire Dance
 ---
 
 *(Image: T&A)*

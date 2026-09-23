@@ -14,6 +14,15 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Buñol
+- India
+- La Tomatina
+- Spain
+people: []
+organisations:
+- EFE
+- La Tomatina
 ---
 
 Thousands of revellers descended on the Spanish town of Buñol on Wednesday for La Tomatina, hurling up to 165 tonnes of overripe tomatoes at each other in just over an hour.

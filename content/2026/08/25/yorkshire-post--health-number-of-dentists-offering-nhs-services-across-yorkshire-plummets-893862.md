@@ -14,6 +14,26 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- England
+- Humber
+- NHS
+- North Yorkshire
+- South Yorkshire
+- West Yorkshire
+people:
+- Mark Dayan
+- Shiv Pabary
+organisations:
+- BDA
+- British Dental Association
+- DHSC
+- Department of Health and Social Care
+- Labour
+- NHS
+- Nuffield Trust
+- The Nuffield Trust
+- The Yorkshire Post
 ---
 
 # Number of dentists offering NHS services across Yorkshire plummets, new figures show

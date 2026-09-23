@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- England
+- Plymouth
+- UK
+- Wales
+people:
+- Jake Davison
+- Kate Shepherd
+- Lee Freeman
+- Maxine
+- Sophie Martyn
+- Stephen Washington
+- Tim Bonner
+organisations:
+- CCTV
+- Countryside Alliance
+- Government
+- HMICFRS
+- HMICS
+- Home Office
+- Inspectorate of Constabulary and Fire & Rescue Services
 ---
 
 Problems with the gun licensing system are putting public safety at risk, official inspectors have warned.

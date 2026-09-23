@@ -14,6 +14,24 @@ categories:
 - York
 - Personal Finance & Investing
 - News & Politics
+locations:
+- York
+people:
+- Cllr Lomas
+- Debbie Mitchell
+- Eduardo Vieira
+- Katie Lomas
+organisations:
+- BBC
+- City of York Council
+- LDRS
+- Labour
+- Local Democracy Reporter
+- Local Democracy Reporting Service
+- Pixaby
+- The Press
+- York Council
+- York People
 ---
 
 ## Your questions sought on upcoming budget and council tax amid challenges facing York

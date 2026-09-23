@@ -10,6 +10,26 @@ description: I hate ChatGPT’s new 'ums', 'rights' and awkward pauses
 image: https://cdn.mos.cms.futurecdn.net/f2Q4YfcV69poffJkE4cGzJ-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- ChatGPT
+- US
+people:
+- AI
+- Arbor
+- ChatGPT
+organisations:
+- AI
+- Becca
+- Bonnier Books
+- ChatGPT
+- Google News
+- Inverse
+- New Scientist
+- TechRadar
+- The Guardian
+- VR
+- Vale
+- Wired
 ---
 
 ![A young woman uses a smartphone to interact with a GPT-based voice.](https://cdn.mos.cms.futurecdn.net/f2Q4YfcV69poffJkE4cGzJ.jpg) 

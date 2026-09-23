@@ -11,6 +11,34 @@ image: https://i.guim.co.uk/img/media/98bf0083a520236fb573a198df1f3f785590404a/5
 categories:
 - UK
 - News & Politics
+locations:
+- Andrews
+- China
+- Gulf
+- Iran
+- Kremlin
+- Kyiv
+- Maryland
+- Moscow
+- Russia
+- Tehran
+- US
+- Ukraine
+- Washington
+- White House
+people:
+- Bill Burns
+- Dimitry Peskov
+- Donald Trump
+- Glenn Beck
+- John Ratcliffe
+- Vladimir Putin
+organisations:
+- CIA
+- Nato
+- Pentagon
+- Wall Street Journal
+- Washington Post
 ---
 
 Donald Trump has downplayed a visit to Moscow by the CIA director, John Ratcliffe, as “semi-routine” after he turned up in the Russian capital unannounced, triggering a wave of speculation about the reasons for his trip.

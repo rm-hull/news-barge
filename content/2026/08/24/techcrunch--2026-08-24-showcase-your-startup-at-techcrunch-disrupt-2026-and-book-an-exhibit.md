@@ -12,6 +12,17 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/54890573133_6dd8482235_
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Expo Hall
+- Moscone West
+- San Francisco
+people: []
+organisations:
+- Disrupt
+- Expo Hall
+- PT
+- Silver Tier
+- VCs
 ---
 
 You don’t need a keynote session to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco’s Moscone West from October 13-15.

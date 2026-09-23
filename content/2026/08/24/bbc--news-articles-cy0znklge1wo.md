@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Self-Improvement
+locations:
+- Canterbury Crown Court
+- English Channel
+- South Sudan
+- UK
+people:
+- Chan Mathok Atak
+organisations:
+- BBC Radio Kent
+- Border Security Command
 ---
 
 ![A Border Security Command vessel on the sea with a large black inflatable dinghy hanging from a crane alongside. The dinghy is several metres long and attached to the side of the boat.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/3fbd/live/34e077e0-8777-11f1-b430-afa19a42b819.jpg)

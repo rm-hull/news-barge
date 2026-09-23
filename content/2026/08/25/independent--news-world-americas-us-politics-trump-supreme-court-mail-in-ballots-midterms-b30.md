@@ -11,6 +11,26 @@ image: https://static.independent.co.uk/2026/08/04/16/2277841693..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- D.C.
+- States
+- U.S.
+- Washington
+- White House
+people:
+- Donald Trump
+- Elena Kagan
+- Indira Talwani
+- Ketanji Brown Jackson
+- Sonia Sotomayor
+organisations:
+- Congress
+- Constitution
+- Postal Service
+- Senate
+- Supreme Court
+- Trump
+- U.S. Postal Service
 ---
 
 The Supreme Court will let Donald Trump implement a sweeping executive order for new mail-in voting rules that could significantly restrict voters’ access to ballots in high-stakes midterm elections this fall, but the legal battle is far from over.

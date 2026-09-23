@@ -14,6 +14,16 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Fairfield
+- Grosvenor Road
+- Grosvenor Road Playing Field
+people:
+- Paul McQuaid
+organisations:
+- ELG Planning
+- Stockton Council
+- Stockton Rugby Club
 ---
 
 # 'Community hub' - Historic rugby club plans new club house despite opposition from residents

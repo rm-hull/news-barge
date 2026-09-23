@@ -13,6 +13,15 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Iran
+- Northern Ireland
+- UK
+people:
+- Sarah Cardell
+organisations:
+- CMA
+- Competition and Markets Authority
 ---
 
 Hundreds of people affected by suppliers cancelling heating oil orders when energy prices spiked following the war with Iran are to receive compensation, the UK’s competition regulator has announced.

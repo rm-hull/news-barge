@@ -12,6 +12,27 @@ image: https://static.independent.co.uk/2024/10/18/11/Prisoners-Locked-Up-Indyco
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+people:
+- Abdullahi Suleman
+- Alex Norris
+- Andrew Harper
+- Andy Burnham
+- Josh Mcrae
+- Leroy Douglas
+- PC Harper
+- Shaun Lloyd
+- Tom Wheatley
+- Wayne Williams
+organisations:
+- IPP
+- Imprisonment for Public Protection
+- Ministry of Justice
+- New Labour
+- Prison Governors’ Association
+- The Independent
+- United Nations
 ---
 
 Andy Burnham must “be courageous and take action” to end the scandal of indefinite jail terms to prevent Britain’s overcrowded prisons splitting at the seams, a prisons chief has warned.

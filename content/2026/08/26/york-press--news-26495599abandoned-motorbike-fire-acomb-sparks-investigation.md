@@ -12,6 +12,13 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Acomb
+- York
+people:
+- Haydn Lewis
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Haydn Lewis)*

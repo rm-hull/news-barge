@@ -15,6 +15,26 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Everest
+- Great Coum
+- Ingleborough
+- Leeds
+- UK
+- Whernside
+- Yockenthwaite Moor
+- Yorkshire Dales
+- Yorkshire Dales National Park
+people:
+- Christian Stocker
+- Hewitt
+- Hiker
+organisations:
+- Dales
+- Doctors without Borders
+- Medecin sans Frontieres
+- Nuttall
+- University of Leeds
 ---
 
 # Hiker's almost accidental climb of 40 Yorkshire mountains may set a new world record

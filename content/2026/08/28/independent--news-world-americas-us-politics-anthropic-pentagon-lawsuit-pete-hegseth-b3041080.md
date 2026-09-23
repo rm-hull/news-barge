@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- U.S.
+- Washington, D.C.
+- White House
+people:
+- Claude
+- Dario Amodei
+- Donald Trump
+- Joe Biden
+- Michael Mongan
+- Pete Hegseth
+- Rita Lin
+organisations:
+- AI
+- Administration
+- Anthropic
+- ChatGPT
+- Department of Defense
+- Department of Justice
+- OpenAI
+- Pentagon
+- Trump
 ---
 
 In a legal victory for artificial intelligence firm Anthropic, a federal judge has ruled against the Pentagon over its decision earlier this year to designate the company a supply chain risk.

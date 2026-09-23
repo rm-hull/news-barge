@@ -12,6 +12,23 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Benidorm
+- Bordeaux
+- Dover
+- Rouen
+- The One Eyed Rat
+- Zaragoza
+people:
+- Scott Moon
+organisations:
+- Community Link
+- Friends of Spa Gardens
+- One Eyed Rat
+- Prostate Cancer UK
+- Ripon
+- Ripon’s Walled Garden
+- The One Eyed Rat
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8c086539058955440.jpg) 

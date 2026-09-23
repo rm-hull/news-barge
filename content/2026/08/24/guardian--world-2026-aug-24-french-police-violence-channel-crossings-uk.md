@@ -12,6 +12,14 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- France
+- UK
+people: []
+organisations:
+- Home Office
+- NGO
+- interior ministry
 ---
 
 People trying to cross the Channel to the UK have reported an increase in French police use of violence on beaches to prevent them from getting into dinghies, according to a French NGO.

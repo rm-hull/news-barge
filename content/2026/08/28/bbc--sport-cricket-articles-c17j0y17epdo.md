@@ -14,6 +14,29 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- England
+- Lord's
+- Pakistan
+- Sri Lanka
+- The Oval
+- UK
+people:
+- Imran Khan
+- Imran Khan.
+- Kasim Khan
+- Michael Atherton
+- Mohsin Naqvi
+- Sarfaraz Ahmed
+- Suleiman
+organisations:
+- ECB
+- England and Wales Cricket Board
+- Foreign, Commonwealth and Development Office
+- PCB
+- PTV
+- Pakistan Cricket Board
+- Sky Sports
 ---
 
 Sarfaraz denies knowing about Pakistan threat to end tour

@@ -14,6 +14,27 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Albert Road
+- Darlington
+- Ireland
+- North Road
+- UK
+people:
+- CHRIS BOOTH
+- Kalham Overson
+- Lucy Dee
+organisations:
+- Brand Operation Leader
+- Crunchwrap Supreme
+- Crunchy Taco Supreme
+- Darlington
+- KFC
+- QFM Group
+- Taco Bell
+- Taco Bell Rewards
+- Taco Bell UK
+- Volcano Burrito
 ---
 
 *(Image: CHRIS BOOTH)*

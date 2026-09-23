@@ -11,6 +11,33 @@ image: https://images.euronews.com/articles/stories/09/88/83/58/1200x675_cmsv2_7
 categories:
 - Europe
 - News & Politics
+locations:
+- Camp Springs
+- Joint Base Andrews
+- Kremlin
+- Kyiv
+- Maryland
+- Moscow
+- Riga
+- Russia
+- US
+- Ukraine
+- Vnukovo
+- Washington
+people:
+- Dmitry Peskov
+- Donald Trump
+- Jared Kushner
+- John Ratcliffe
+- Ksenia Karelina
+- Steve Witkoff
+- William Burns
+organisations:
+- CBS News
+- CIA
+- Globemaster III
+- Trump
+- US Air Force
 ---
 
 ## John Ratcliffe reportedly arrived in the Russian capital on Tuesday for meetings, in what appears to be his first visit to Russia as CIA director.

@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Bangladesh
+- Darwin
+- Great Barrier Reef Arena
+- Mackay
+- South Africa
+people:
+- :** Green
+- :** Shanto
+- :** Starc
+- Cameron Green
+- Lyon
+- Mackay
+- Mitchell Starc
+- Nathan Lyons
+- Pat Cummins
+- Shoriful Islam
+organisations:
+- Australia
+- Lyon
 ---
 
 ![Australia cricketer Mitchell Starc celebrates his 10th wicket in the match by holding the ball up](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9b89/live/6893c460-9ec0-11f1-8d1c-03afa0025cd9.jpg)

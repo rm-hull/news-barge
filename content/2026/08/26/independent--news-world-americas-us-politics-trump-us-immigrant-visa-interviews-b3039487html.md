@@ -13,6 +13,17 @@ categories:
 - UK
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- Gaza
+- Israel
+- U.S.
+people:
+- Donald Trump
+- Marco Rubio
+organisations:
+- State Department
+- Trump
+- U.S. State Department
 ---
 
 Immigrant visa interviews at U.S. embassies and consulates worldwide have been temporarily suspended as President Donald Trump's administration continues a broad immigration enforcement push during his second term.

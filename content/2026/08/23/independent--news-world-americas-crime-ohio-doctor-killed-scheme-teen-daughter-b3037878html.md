@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Delaware County
+- Delaware County Jail
+- Ohio
+people:
+- Bryanna Dutcher
+- Carlos Crawford
+- Christian Evans
+- Dajameous Payne
+- Tamela Dutcher
+organisations:
+- Delaware County Sheriff’s Office
+- International Journal of Adolescent Medicine and Health
+- NBC 4
+- NBC4
+- Richland Source
 ---
 
 An Ohio doctor who reportedly once published a paper on “violent and homicidal” adolescents and what leads teens to kill was allegedly shot dead by her 18-year-old daughter’s boyfriend and his friend.

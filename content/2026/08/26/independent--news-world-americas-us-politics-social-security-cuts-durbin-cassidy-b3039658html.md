@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- D-Ill.
+- D-Ore
+- D-Pa.
+- D-R.I.
+- D-Va.
+- R-Ohio
+- Sen
+- United States
+- Vermont
+people:
+- Bernie Moreno
+- Bernie Sanders
+- Bill Cassidy
+- Brendan Boyle
+- D-Mass.
+- Dick Durbin
+- Elizabeth Warren
+- Sheldon Whitehouse
+- Tim Kaine
+- Val Hoyle
+organisations:
+- AARP
+- Committee for a Responsible Federal Budget
+- Congress
+- Democratic Party
+- House Ways and Means Committee
+- Peter G. Peterson Foundation
+- Republican Bill Cassidy
+- Senate Finance Committee
+- Social Security
+- Social Security Advisory Board
+- The New York Times
+- Treasury Department
 ---
 
 Democrat Dick Durbin and Republican Bill Cassidy are spending their final months as senators attempting to protect tens of millions of Social Security beneficiaries from a projected 22% cut starting in six years.

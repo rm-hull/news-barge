@@ -13,6 +13,22 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- U.S.
+people:
+- Jowi Morales
+- Mete Karslioglu
+- Meteoric
+- Tom
+organisations:
+- Google News
+- Jowi Morales
+- Meta
+- Meteoric
+- Reflect Orbital
+- University of Cambridge
+- World Meteorological Organization
+- Y Combinator
 ---
 
 ![clouds behind some solar panels](https://cdn.mos.cms.futurecdn.net/vNEVWceFT8L4AN8TD2885j.png) 

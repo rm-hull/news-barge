@@ -12,6 +12,12 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Yorkshire
+people:
+- Alastair Harvey
+organisations:
+- Yorkshire Water
 ---
 
 *(Image: Yorkshire Water)*

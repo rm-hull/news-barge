@@ -12,6 +12,22 @@ categories:
 - UK
 - Society & Culture
 - Family & Parenting
+locations:
+- England
+- Home Office
+- UK
+people:
+- Angela Eagle
+- Rachel de Souza
+- Shabana Mahmood
+organisations:
+- Department for Education
+- Government
+- High Court
+- Home Office
+- JCHR
+- Joint Committee on Human Rights
+- Labour
 ---
 
 Forty people who disappeared as children from UK asylum seeker hotels have still not been located, prompting parliamentarians to demand the Government outline its efforts to trace them.

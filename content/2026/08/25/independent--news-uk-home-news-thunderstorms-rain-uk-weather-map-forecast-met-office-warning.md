@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- East Midlands
+- Leeds
+- London
+- Manchester
+- Newcastle
+- North East
+- North West
+- South East
+- South West
+- South of England
+- UK
+- Wales
+- West Midlands
+people: []
+organisations:
+- Met Office
+- Wales
 ---
 
 Thunderstorms and heavy rain are expected across the UK this week as a wet and unsettled put an end to a hot and dry summer.

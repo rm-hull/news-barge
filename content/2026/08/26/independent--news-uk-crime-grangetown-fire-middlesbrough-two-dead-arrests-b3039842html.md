@@ -14,6 +14,21 @@ categories:
 - UK
 - Society & Culture
 - True Crime
+locations:
+- A66
+- Birchington Avenue
+- Grangetown
+- Middlesbrough
+- Newcastle
+- Redcar
+- Royal Victoria Infirmary
+people:
+- Emily Harrison
+organisations:
+- Cleveland Local Policing Commander
+- Cleveland Police
+- RVI
+- The Independent
 ---
 
 A child is one of two people who died in a house fire near Middlesbrough less than a mile from the site of a crash on the A66 which killed seven people, police have said.

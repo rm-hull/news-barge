@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Britain
+- England
+- UK
+- Wales
+people:
+- Allen Simpson
+- Andy Burnham
+- Emma McClarkin
+- James Murray
+- Jerry Schurder
+- John Healey
+organisations:
+- British Beer & Pub Association
+- Treasury
+- UKHospitality
+- Wales
 ---
 
 The government has promised that business rate valuations will be “made fairer” for pubs and hotels in England and Wales, as Andy Burnham faces growing calls to help the UK’s struggling hospitality sector.

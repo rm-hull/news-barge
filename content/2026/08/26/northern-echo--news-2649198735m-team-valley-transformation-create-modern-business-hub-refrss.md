@@ -16,6 +16,27 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Centralway65
+- Gateshead
+- L7
+- North East
+- Seventh Avenue
+- St George’s House
+- Team Valley
+- Tees Valley
+- Tyne Tunnel Estate
+- YOUR
+people:
+- David Gibbs
+- Keith Taylor
+organisations:
+- 2MVA
+- Centralway65
+- L7
+- Public Notice Portal
+- Team Valley
+- UK Land Estates
 ---
 
 *(Image: Supplied)*

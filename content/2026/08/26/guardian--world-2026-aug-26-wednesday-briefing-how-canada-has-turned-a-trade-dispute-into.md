@@ -13,6 +13,76 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Austria
+- Beijing
+- Britain
+- Canada
+- China
+- DC
+- Davie
+- Davos
+- England
+- Francophone
+- Iran
+- Israel
+- Levis
+- Mexico
+- New York
+- Ottawa
+- Poland
+- Quebec
+- Rotterdam
+- Russia
+- South Yorkshire
+- UK
+- US
+- Ukraine
+- United States
+- White House
+people:
+- '***Leyland Cecco***'
+- '***Ukraine'
+- Andy Burnham
+- Billy Boston
+- Birminghan
+- Dolly Parton
+- Donald Trump
+- Ella Baron
+- Gary Gwadera
+- How Carney
+- Julian Borger
+- Lask
+- Leyland
+- Lucy Hough
+- Mark Carney
+- Oliver Bullough
+- Paul Krugman
+- Putin
+- Richard Sprenger
+- Rupert Lowe
+- Sam Coare
+- Samuel Adeniran
+- Scott Bessent
+organisations:
+- '** Times'
+- '**FT**'
+- Bank of England
+- Celtic
+- EU
+- ExxonMobil
+- Globe and Mail
+- Guardian
+- Labour
+- Leyland
+- Maple Scan
+- NFL
+- NY
+- Senate
+- Tercet Imperial
+- Trump
+- US Treasury
+- Wigan Warriors
 ---
 
 Good morning. When the Guardian asked Canadian readers whether they planned to boycott US products after dramatic escalations in the ongoing DC/Ottawa trade war, we received more than 2,000 responses within 12 hours.

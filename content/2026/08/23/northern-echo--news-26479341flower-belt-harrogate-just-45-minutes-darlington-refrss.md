@@ -14,6 +14,18 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Darlington
+- Flower Belt
+- Harrogate
+- North Yorkshire
+- Ripon
+- Thwaites Lane
+people:
+- Claude Monet
+- Wainwright
+organisations:
+- Tripadvisor
 ---
 
 *(Image: FLOWER BELT)*

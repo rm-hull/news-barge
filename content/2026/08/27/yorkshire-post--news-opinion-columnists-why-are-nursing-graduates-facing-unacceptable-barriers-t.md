@@ -15,6 +15,17 @@ categories:
 - Harrogate
 - York
 - Careers & Productivity
+locations:
+- England
+- NHS
+- PA
+people:
+- Jeff Moore
+organisations:
+- Government
+- NHS
+- RCN
+- Royal College of Nursing
 ---
 
 # Why are nursing graduates facing unacceptable barriers to entry level jobs

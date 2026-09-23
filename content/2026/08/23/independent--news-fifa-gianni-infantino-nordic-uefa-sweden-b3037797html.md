@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Caribbean
+- Denmark
+- Faeroe Islands
+- Finland
+- Iceland
+- North
+- Norway
+- Sweden
+people:
+- Gianni Infantino
+organisations:
+- AFC
+- Asian Football Confederation
+- CONCACAF
+- FIFA
+- UEFA
 ---
 
 Six Nordic national soccer associations piled more pressure on embattled FIFA President Gianni Infantino on Sunday by saying they had “lost confidence” in his leadership.

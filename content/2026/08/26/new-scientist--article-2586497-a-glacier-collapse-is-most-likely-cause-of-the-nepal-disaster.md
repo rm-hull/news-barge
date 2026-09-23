@@ -13,6 +13,30 @@ categories:
 - Science
 - Technology & Software
 - Travel
+locations:
+- Alps
+- Andes
+- Antarctica
+- Blatten
+- Canada
+- Chamoli
+- France
+- Himalayas
+- India
+- Kathmandu
+- Nepal
+- Nuwakot
+- Switzerland
+- Tibet
+people:
+- Dan Shugar
+- James Yungel
+- Kamal Kishore
+- Kristen Cook
+organisations:
+- United Nations Office for Disaster Risk Reduction
+- University of Calgary
+- University of Grenoble Alpes
 ---
 
 ![flash floods in Nepal's Nuwakot district on 26 August 2026](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309559746.jpg?w=840)

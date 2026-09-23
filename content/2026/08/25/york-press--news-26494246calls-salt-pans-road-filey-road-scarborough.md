@@ -12,6 +12,13 @@ categories:
 - York
 - Sports
 - Society & Culture
+locations:
+- Filey Road
+- Salt Pans Road
+- Scarborough
+people: []
+organisations:
+- Pickering
 ---
 
 *(Image: Pexels)*

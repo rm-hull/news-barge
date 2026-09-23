@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Africa
+- Europe
+- UK
+people:
+- Mark Thomas
+- Montagu
+organisations:
+- BBC
+- Montagu
+- Montagu's
+- RSPB
+- Royal Society for the Protection of Birds
 ---
 
 ![A handout photograph of a small fluffy harrier chicks, with a curved yellow and black beak.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/b099/live/38250e40-9f62-11f1-aed2-8d6da8d75094.jpg)

@@ -12,6 +12,17 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Mook Lane
+- North Yorkshire
+- Westow
+- northyorkshire
+people:
+- Ruby Rutter
+organisations:
+- Honda
+- North Yorkshire Police
+- Yamaha
 ---
 
 *(Image: North Yorkshire Police)*

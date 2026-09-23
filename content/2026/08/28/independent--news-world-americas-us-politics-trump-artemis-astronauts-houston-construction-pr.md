@@ -13,6 +13,38 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Annapolis
+- Colorado Springs
+- Houston
+- Low Earth Orbit
+- U.S.
+- West Point
+- White House
+people:
+- Donald Trump
+- Jeremy Hansen
+- Ken Paxton
+- Nixon
+organisations:
+- Air Force Academy
+- Air Force and Coast Guard
+- Army
+- Artemis II
+- Coast Guard Academy
+- Congressional Space Medal of Honor
+- International Space Station
+- Johnson Space Center
+- Mission Control
+- NASA
+- Navy
+- Senate
+- Space Force
+- Trump
+- U.S. Air Force Academy
+- U.S. Space Academy
+- U.S. Space Force
+- United States Space Force
 ---
 
 President Donald Trump on Friday used an award ceremony meant to honor NASA’s Artemis II astronauts to tease the creation of what he described as a “U.S. Space Academy” to be built at an as-yet unannounced site.

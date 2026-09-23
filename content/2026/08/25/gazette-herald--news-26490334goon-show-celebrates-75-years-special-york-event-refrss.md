@@ -14,6 +14,32 @@ categories:
 - York
 - Comedy & Entertainment
 - Arts & Culture
+locations:
+- AgeUK York
+- The Scenic Stage Theatre
+people:
+- Gary Brannan
+- Harry Secombe
+- Larry Stephens
+- Maurice Wiltshire
+- Michael Bentine
+- Peter Sellers
+- Richard Usher
+- Spike Milligan
+organisations:
+- AgeUK York
+- BBC Radio
+- Birmingham Comedy Festival
+- Borthwick Institute for Archives
+- East Campus
+- Goon Preservation Society
+- Goon Show Preservation Society
+- Milligan family
+- Spike Milligan Productions
+- The GSPS
+- The Goons
+- The Goons'
+- University of York
 ---
 
 *(Image: The Goon Preservation Society)*

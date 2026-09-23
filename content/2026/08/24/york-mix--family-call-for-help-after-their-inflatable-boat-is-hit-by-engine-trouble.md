@@ -11,6 +11,14 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Breighton
+- Ferry Lane
+- River Derwent
+people: []
+organisations:
+- '#### Ferry Lane'
+- Breighton A Humberside Fire & Rescue Service
 ---
 
 An alert went out after a boat suffered engine trouble late last night (Sunday).

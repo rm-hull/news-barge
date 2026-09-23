@@ -13,6 +13,27 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Florence
+- PA
+people:
+- Brat
+- Charli XCX
+- Charlie xcx
+- Dave
+- Drake
+- Grian Chatten
+- Kendrick Lamar
+- Raye
+- Von Dutch
+- Yui Mok
+organisations:
+- Best International Group
+- Chase & Status
+- Florence
+- Fontaines D.C.
+- Good Ones
+- Speed Drive
 ---
 
 Leeds Festival 2026 is starting tonight (Thursday, August 27) with people arriving at the campsite to get ready.

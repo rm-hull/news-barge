@@ -13,6 +13,45 @@ image: null
 categories:
 - News & Politics
 - UK
+locations:
+- Alaska
+- Iran
+- Israel
+- Kremlin
+- Kyiv
+- London
+- Middle East
+- Moscow
+- Russia
+- St. Petersburg
+- Tehran
+- Turkey
+- U.S.
+- US-Russia
+- Ukraine
+- Vnukovo
+- Washington
+- White House
+people:
+- Andrei Soldatov
+- Dmitry Peskov
+- Donald Trump
+- Emma Burrows
+- John Ratcliffe
+- Kyiv
+- Nikolai Patrushev
+- Sergei Naryshkin
+- Vladimir Putin
+- Volodymyr Yurchuk
+- Volodymyr Zelenskyy
+- William Burns
+organisations:
+- AP
+- CBS News
+- CIA
+- Security Council
+- Shahed
+- The Associated Press
 ---
 
 The Kremlin said Wednesday that CIA Director John Ratcliffe held talks in Moscow with his intelligence counterparts, a rare and secretive visit at a time when relations with Washington remain strained over Russia's war in Ukraine.

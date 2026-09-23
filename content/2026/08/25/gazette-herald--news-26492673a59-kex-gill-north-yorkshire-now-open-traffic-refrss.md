@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- East Yorkshire
+- Harrogate
+- Kex Gill
+- Kex Gill A59
+- New Road
+- North Yorkshire
+- North of England
+- Skipton
+- YOUR
+- York
+people:
+- Malcolm Taylor
+organisations:
+- A59
+- North Yorkshire Council
+- Public Notice Portal
 ---
 
 ### What is the Public Notice Portal?

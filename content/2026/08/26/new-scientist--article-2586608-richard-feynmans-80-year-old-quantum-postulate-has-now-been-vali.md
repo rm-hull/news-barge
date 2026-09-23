@@ -13,6 +13,15 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309575998.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- UK
+people:
+- Jörg Götte
+- Richard Feynman
+- Shi-Liang Zhu
+organisations:
+- South China Normal University
+- University of Glasgow
 ---
 
 ![Higgs boson, conceptual illustration](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309575998.jpg?w=840)

@@ -11,6 +11,43 @@ image: https://i.guim.co.uk/img/media/6cb7c05ad2b250f46203cd9341cbbd12075b7bdd/6
 categories:
 - UK
 - News & Politics
+locations:
+- Canada
+- China
+- Detroit
+- Detroit-Windsor
+- El-Sayed
+- Gordie Howe International Bridge
+- Iran
+- Lake Ontario “Lake America
+- Mexico
+- Michigan
+- North America
+- Rogers’
+- US
+- Windsor
+people:
+- Abdul El-Sayed
+- Barack Obama
+- Bernie Porn
+- Donald Trump
+- Drew Dilkens
+- JD Vance
+- Joe Biden
+- Mike Rogers
+- Patrick Anderson
+- Rogers’
+- Shawn Fain
+organisations:
+- Anderson Economic Group
+- Epic-MRA
+- Guardian
+- News
+- Senate
+- Trump
+- UAW
+- US Congress
+- United Auto Workers
 ---
 
 Every day $1bn worth of goods crosses the river dividing Detroit, Michigan, and Windsor, Ontario, two largely blue-collar US and Canadian cities that have come to act as one in the creation of North America’s auto industry.

@@ -12,6 +12,23 @@ categories:
 - Science
 - Technology & Software
 - Music
+locations:
+- Canada
+people:
+- Eduardo Miranda
+- Feedback
+- George Beauchamp
+- Helen Thomson
+- Jonathan Stoppi
+- Kangen Water
+- Karmela Padavic-Callaghan
+- Lumina Grooves
+- Pete Lloyd
+- Tom Lehrer
+organisations:
+- International Journal of Parallel
+- SQPAM
+- Stroke Association
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309454589.jpg?w=840)

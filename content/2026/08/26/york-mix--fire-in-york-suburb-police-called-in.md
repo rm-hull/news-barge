@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- '#### Boroughbridge Road'
+- Acomb
+- Boroughbridge Road
+- York
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
+- York “Crew
 ---
 
 Fire crews were called to an incident in a York suburb last night.

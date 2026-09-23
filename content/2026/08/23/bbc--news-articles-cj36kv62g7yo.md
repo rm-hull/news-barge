@@ -13,6 +13,38 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- Galloway
+- Hel
+- Iceland
+- London
+- Montreal
+- Nevada
+- Reykjavik
+- Shetland
+- UK
+- Voe
+people:
+- Arabella
+- Caroline
+- Christiane Schaldemose
+- Christopher Lee
+- Dominic Hardy
+- Francis Magee
+- John Haswell
+- Justin Hardy
+- Knox
+- Lynsey Rendall
+- Maeve
+- Martha Robertson
+- Robin Hardy
+- Wrath
+organisations:
+- BBC
+- FrightFest
+- Moviedrome
+- The Wicker Man
+- University of Quebec
 ---
 
 ![Two men in their 50s either side of a poster for The Wicker Man outside a cinema. Dominic, on the left, is in a tweed suit and has glasses and thick hair. Justin (right) is in a cord suit and has a beard. They are smiling and pointing at the poster.](https://ichef.bbci.co.uk/ace/standard/746/cpsprodpb/158f/live/ed9a2d40-9ef0-11f1-aed4-af6fe65bfcd6.jpg)

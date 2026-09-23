@@ -12,6 +12,13 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Keighley
+- UK
+- Woodhouse
+people: []
+organisations:
+- Keighley Neighbourhood Policing Team
 ---
 
 *(Image: WYP)*

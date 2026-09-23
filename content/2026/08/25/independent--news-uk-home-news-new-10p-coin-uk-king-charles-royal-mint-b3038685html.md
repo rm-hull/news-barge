@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- England
+- Royal Shield
+- Scotland
+- UK
+- United Kingdom
+people:
+- Charles
+- Christopher Ironside
+- Elizabeth II
+- Matthew Dent
+- Rebecca Morgan
+organisations:
+- NEW PENCE
+- Royal Mint
 ---
 
 Newly minted 10p coins will be entering circulation for the first time with the King’s portrait on one side – and the world’s largest grouse on the other.

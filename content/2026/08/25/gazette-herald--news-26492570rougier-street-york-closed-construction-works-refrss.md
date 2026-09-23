@@ -13,6 +13,28 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Bar Lane
+- Evans Dakota
+- George Hudson Street
+- KEY York
+- Kevin Glenton
+- Malmaison York
+- Micklegate Bar
+- Northern House
+- Rougier Street
+- Station Avenue
+- Station Road
+- Tanner Row
+- Toft Green
+- York Railway Station
+people: []
+organisations:
+- Alice Kavanagh
+- City of York Council
+- East Yorkshire
+- Rougier Street Closure
+- The Press
 ---
 
 A KEY York city centre road is closed as construction work continues on a new hotel.

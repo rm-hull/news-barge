@@ -11,6 +11,20 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Arkengarthdale
+- England
+- Swaledale
+- Yorkshire Dales
+people:
+- Guy Martin
+organisations:
+- Guy Martin
+- Local Democracy Reporting Service
+- Park Authority
+- Richmond Motor Club
+- Scott Trial
+- Yorkshire Dales National Park Authority
 ---
 
 ![A motorbike rider on his vehicle on an off-road track. He is riding up a hill while dozens of spectators behind tape watch on.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/729c/live/9f31cfc0-a2b8-11f1-9024-715001d09aeb.jpg)

@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Cleveland
+- Redcar
+- South Bank
+people:
+- Andy Burnham
+- Anna Turley
+- Matthew Blades
+- Tom Clough
+organisations:
+- A66
+- Cleveland Police
+- Great North Air Ambulance
 ---
 
 *(Image: NEWSQUEST)*

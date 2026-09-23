@@ -11,6 +11,24 @@ description: Meta’s settlement with 29 states allows it to retain certain data
 image: https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268918823.jpg?resize=1200,800
 categories:
 - Business & Entrepreneurship
+locations:
+- U.S.
+people:
+- Joshua Wurtzel
+- Peter Jackson
+- Philip N. Yannella
+organisations:
+- AGs
+- AGs’
+- AI
+- Blank Rome
+- COPPA
+- Children’s Online Privacy Protection Act
+- FTC
+- Greenberg Glusker LLP
+- Meta
+- Schlam Stone & Dolan LLP
+- Settlement Agreement
 ---
 
 In addition to paying out up to $18 billion and adding child safety measures, Meta’s settlement agreement with attorneys general from 29 states includes an interesting provision: The states have agreed not to sue Meta under existing child safety laws over its retention and use of children’s data.

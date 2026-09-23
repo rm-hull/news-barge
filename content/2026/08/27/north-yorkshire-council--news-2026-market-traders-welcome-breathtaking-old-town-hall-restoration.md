@@ -16,6 +16,28 @@ categories:
 - Government
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Dock End
+- New Quay Road
+- Old Town
+- Old Town Hall
+- Whitby
+people:
+- Gary Jamieson
+- Linda Wild
+- Mark Crane
+- Neil Swannick
+- Phil Trumper
+- Ross Powdrell
+organisations:
+- Align
+- Government’s Towns Fund
+- North Yorkshire Council
+- Old Town Hall
+- Town Hall
+- Whitby Market
+- Whitby Streonshalh
+- Whitby West division
 ---
 
 ![The £1.3 million project to safeguard Whitby’s historic Grade II* listed Old Town Hall and bring it back into public use was completed this month, with market traders set to return to the Market Place today (Thursday, August 27).](https://www.northyorks.gov.uk/sites/default/files/2026-08/WhitbyOTH2.jpg) 

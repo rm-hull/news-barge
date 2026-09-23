@@ -12,6 +12,19 @@ categories:
 - UK
 - History
 - Personal Finance & Investing
+locations:
+- Britain
+- British Isles
+- South Wales
+- UK
+people:
+- Charles
+- Elizabeth II
+- Rebecca Morgan
+organisations:
+- Royal Mint
+- Royal Mint Experience
+- UK Finance
 ---
 
 Over seven million 10p pieces featuring the King’s portrait are being released into general UK circulation for the first time, and will soon begin appearing in everyday pockets and wallets nationwide.

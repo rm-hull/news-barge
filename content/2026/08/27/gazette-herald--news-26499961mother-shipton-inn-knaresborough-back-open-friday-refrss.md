@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Apperley Bridge
+- Bradford
+- Knaresborough
+- Low Bridge
+- Mother Shipton Inn
+people:
+- Matthew Chapman
+- Mother Shipton
+organisations:
+- Pic
+- The Stansfield Arms
 ---
 
 AN historic Knaresborough pub named after one of the town’s iconic figures re-opens on Friday (August 28) after a major revamp.

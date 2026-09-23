@@ -12,6 +12,43 @@ image: https://static.independent.co.uk/2026/08/26/18/2281287370..?trim=41,0,42,
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Australia
+- East Asia
+- Gaza
+- Iran
+- Japan
+- North Korea
+- Pearl Harbour
+- Pyongyang
+- Senegal
+- South Korea
+- Takaichi
+- The Hague
+- Tokyo
+- US
+- US-Japan
+- Washington
+people:
+- Abdoulaye Seye
+- Alex Whiting
+- Benjamin Netanyahu
+- Bibi
+- Donald Trump
+- Marco Rubio
+- Ms Akane
+- Prof Whiting
+- Sanae Takaichi
+- Tomoko Akane
+organisations:
+- EU
+- Harvard Law School
+- ICC
+- International Criminal Court
+- Just Security forum
+- State Department
+- Trump
 ---
 
 The Donald Trump administration’s targeting of the International Criminal Court with sanctions and insulting remarks is damaging America’s already shaky diplomatic relationship with key ally Japan.

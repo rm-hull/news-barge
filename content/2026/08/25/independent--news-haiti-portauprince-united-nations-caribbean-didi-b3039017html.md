@@ -11,6 +11,35 @@ image: https://static.independent.co.uk/2026/08/25/16/APTOPIX_Haiti_Gang_Violenc
 categories:
 - News & Politics
 - UK
+locations:
+- Caribbean
+- Haiti
+- Kenscoff
+- Port-au-Prince
+- Puerto Rico
+- San Juan
+- United States
+people:
+- Didi
+- Izo
+- Jean Massillon
+- Johnson André
+- Kenscoff
+- Romain Le Cour
+- Viv Ansanm
+- Vladimir Paraison
+organisations:
+- BINUH
+- Global Initiative Against Transnational Organized Crime He
+- Haiti Observatory
+- Le Cour
+- Massillon
+- National Police
+- The Associated Press
+- U.N.
+- United Nations
+- United Nations Integrated Office
+- ___ Coto
 ---
 
 At least 47 people were killed and more than 50 others kidnapped after armed men attacked a once-peaceful community near Haiti’s capital earlier this week, the United Nations said Tuesday.

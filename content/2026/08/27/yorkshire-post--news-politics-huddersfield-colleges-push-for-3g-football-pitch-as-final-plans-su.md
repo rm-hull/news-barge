@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Huddersfield Road
+- Shelley College
+people: []
+organisations:
+- Huddersfield College
+- Kirklees Council
+- Shelley College
+- Sports Labs Ltd
 ---
 
 # Huddersfield colleges' push for 3G football pitch as final plans submitted

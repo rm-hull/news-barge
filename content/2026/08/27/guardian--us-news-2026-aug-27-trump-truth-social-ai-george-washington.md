@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Iran
+- Rose Garden
+- Tehran
+- US
+- Washington DC
+- White House
+people:
+- AI
+- Abraham Lincoln
+- Angelo Carusone
+- Donald Trump
+- Douglas MacArthur
+- George Patton
+- George Washington
+- Kim Jong-un
+- Kim Kardashian
+- Vladimir Putin
+organisations:
+- Carusone
+- Guardian
+- Media Matters
+- Trump
+- Truth Social
 ---
 
 Donald Trump knows the power of an image – of himself, with everyone from Vladimir Putin and Kim Jong-un to Kim Kardashian. How about George Washington?

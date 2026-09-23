@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Feversham Crescent
+- York
+people: []
+organisations:
+- Churchills Estate Agents
+- EPC
+- York Hospital
 ---
 
 A five-bedroom house with three reception rooms is for sale in York.

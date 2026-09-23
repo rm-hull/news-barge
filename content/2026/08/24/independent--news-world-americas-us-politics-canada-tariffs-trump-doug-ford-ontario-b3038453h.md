@@ -12,6 +12,32 @@ image: https://static.independent.co.uk/2026/08/24/18/05/GettyImages-2251896794.
 categories:
 - News & Politics
 - UK
+locations:
+- Alabama
+- America
+- Canada
+- Kentucky
+- Michigan
+- Ohio
+- Ontario
+- Ottawa
+- Toronto
+- U.S.
+- US
+- United States
+- Washington
+people:
+- Donald Trump
+- Doug Ford
+- Mark Carney
+- Rob Ford
+- Trump,” Ford
+organisations:
+- Ford
+- Pew Research Center
+- Steel
+- Trump
+- Truth Social
 ---
 
 Ontario Premier Doug Ford unleashed a verbal attack on President Donald Trump, calling him a “dictator” and “the king of bankruptcies” after the United States imposed a 50 percent tariff on a range of Canadian goods.

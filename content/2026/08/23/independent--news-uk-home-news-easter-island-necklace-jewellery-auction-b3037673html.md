@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Britain
+- Easter Island
+- Polynesian South Pacific
+- Rapa Nui
+- Salisbury
+- UK
+- Wiltshire
+people:
+- James Cook
+- Luke Hobbs
+organisations:
+- Woolley & Wallis
 ---
 
 A damaged wooden pendant bought for under £100 eight months ago has sold at auction for £75,000, after triggering an international bidding war.

@@ -14,6 +14,28 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Hutton Wandesley Estate
+- Martin House
+- Stables and Walled Garden
+- UK
+- Vale of York
+- Walled Garden
+- Yorkshire
+people:
+- Raymond James
+- Sasha
+organisations:
+- Hutton Wandesley Estate
+- Hutton Wandesley Stables
+- Hydra Figue
+- Melody
+- Miller Harris Pocket Editions
+- Peau Santal
+- Rose Silence
+- Samphire & Sage
+- Tea Tonique
+- Yorkshire Pop-Up
 ---
 
 # Indie shopping fair: The Yorkshire Pop-Up is back at Hutton Wandesley Estate near York

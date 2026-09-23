@@ -13,6 +13,26 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Australia
+- Edgbaston
+- England
+- Headingley
+- India
+- Leeds.
+- PA
+people:
+- Colin Graves
+- Headingley
+- Lord
+- Lord’s
+- Mike Egerton
+organisations:
+- ECB
+- England and Wales Cricket Board
+- Hollies
+- Western Terrace
+- Yorkshire County Cricket Club
 ---
 
 # Honest answers needed over Headingley test cricket snub

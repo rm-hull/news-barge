@@ -11,6 +11,21 @@ description: Barracuda explains why attackers are moving beyond the inbox and in
 image: https://cdn.mos.cms.futurecdn.net/5SZMvKovSPYfFCNFA9RxaV-1280-80.jpg
 categories:
 - Technology & Software
+locations:
+- UK
+people:
+- Mike Moore
+- Soundharya Bharani Poomalai
+organisations:
+- Associate Threat Analyst
+- B2B
+- B2C
+- Barracuda__,__
+- Google Calendar
+- Google News
+- ITProPortal
+- MFA
+- TechRadar Pro
 ---
 
 ![URL phishing](https://cdn.mos.cms.futurecdn.net/5SZMvKovSPYfFCNFA9RxaV.jpg) 

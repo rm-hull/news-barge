@@ -10,6 +10,34 @@ description: Apple faces a massive Russian court fight after VK demands its bann
 image: https://cdn.mos.cms.futurecdn.net/kNeWB7Msf3ccXLSNmaE8wV-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Kremlin
+- Moscow
+- Russia
+people:
+- Dmitry Peskov
+organisations:
+- '## VK'
+- App Store
+- Apple Distribution International Ltd
+- Apple Inc.
+- Apple Rus LLC
+- Communication Platform LLC
+- Efosa
+- European Union
+- Google Ireland Limited
+- Google News
+- Mail Cloud
+- Odnoklassniki
+- Skillbox
+- Tagansky District Court
+- TechRadar Pro
+- VK Messenger
+- VK Music
+- VK Video
+- VKontakte
+- Youla
+- Zen
 ---
 
 ![Court gavel](https://cdn.mos.cms.futurecdn.net/kNeWB7Msf3ccXLSNmaE8wV.jpg) 

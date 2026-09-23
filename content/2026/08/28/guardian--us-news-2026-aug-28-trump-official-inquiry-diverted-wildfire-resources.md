@@ -12,6 +12,25 @@ image: https://i.guim.co.uk/img/media/b33f6c08bb79f68bf101b89a2a08d52e3be08157/3
 categories:
 - UK
 - News & Politics
+locations:
+- Cabin Creek
+- Idaho
+- Sawtooth
+- US
+people:
+- Amy Klobuchar
+- Brooke Rollins
+- Donald Trump
+- Martin Heinrich
+- Michael Boren
+- Ron Wyden
+organisations:
+- Cabin Creek Fire
+- Department
+- Guardian
+- US Forest Service
+- USDA
+- Washington Post
 ---
 
 Donald Trump’s administration is facing calls to launch an investigation into allegations that Michael Boren, a senior official who oversees the US Forest Service, pressed agency staff to deploy additional resources to fight a fire burning near his Idaho ranch.

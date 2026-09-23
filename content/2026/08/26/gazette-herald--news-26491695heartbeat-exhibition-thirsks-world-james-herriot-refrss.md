@@ -13,6 +13,42 @@ categories:
 - York
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Aidensfield
+- Goathland
+- Heartbeat Country
+- Herriot Country
+- Hill
+- North York Moors
+- North Yorkshire
+- Thirsk
+- Whitby
+- World of James Herriot
+- Yorkshire Dales
+people:
+- Alf Wight
+- Alf!
+- Dad
+- David Lonsdale
+- David Stockwell
+- Goathland
+- Ian Ashton
+- James Herriot
+- Jason Bullard
+- Lee Jones
+- Nicholas Rhea
+- Peter Walker
+- Rhoda Walker
+- Sarah Walker
+organisations:
+- All Creatures Great
+- Gazette & Herald
+- Heartbeat
+- ITV
+- ITV3
+- The World
+- World of James Herriot
+- Yorkshire Television
 ---
 
 A NEW exhibition based on a popular television show opens this weekend.

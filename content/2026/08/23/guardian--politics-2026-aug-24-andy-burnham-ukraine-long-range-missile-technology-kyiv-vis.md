@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Britain
+- France
+- Germany
+- Kryvyi Rih
+- Kyiv
+- London
+- Moscow
+- Russia
+- UK
+- US
+- Ukraine
+- Zelenskyy
+people:
+- Andy Burnham
+- Donald Trump
+- Emmanuel Macron
+- Friedrich Merz
+- Kyiv
+- Mykhailo Fedorov
+- Volodymyr Zelenskyy
+organisations:
+- MBDA
+- Macron
+- Patriots
+- Scalp
 ---
 
 Britain will boost Ukraine’s capacity to make its own long-range missiles, Andy Burnham will announce on Monday, as he travels to Kyiv for the country’s independence day on his first foreign visit as prime minister.

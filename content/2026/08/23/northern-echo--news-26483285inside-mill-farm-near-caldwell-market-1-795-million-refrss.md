@@ -16,6 +16,19 @@ categories:
 - Real Estate
 - Home, Garden & DIY
 - Lifestyle & Fashion
+locations:
+- Caldwell Beck
+- Durham
+- Mill Farm
+- Teesdale
+- Virginia
+- Winston Grade II
+people: []
+organisations:
+- AGA
+- GSC Grays
+- Mill Farm
+- Yorkshire Dales
 ---
 
 Buyers looking for a home that’s much more than a house might well find everything on their wish list at Mill Farm, a rural property that encompasses a charming house, stunning gardens, equestrian facilities and both farmland and woodland.

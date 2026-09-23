@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- David Geffen Hall
+- Iraq
+- New York City
+- U.S.
+people:
+- Alex Warren
+- Bruce Springsteen
+- Hasan Minhaj
+- Jeff Ross
+- Jerry Seinfeld
+- Jim Gaffigan
+- John Mayer
+- John Mulaney
+- John Oliver
+- Jon Stewart
+- Josh Johnson
+- Ray Romano
+- Ricky Gervais
+- Seth Meyers
+- Stephen Colbert
+- Woodruff
+organisations:
+- ABC News
+- Bob Woodruff Foundation
+- Lincoln Center for the Performing Arts
+- New York Comedy Festival
+- Red Hot Chili Peppers
+- Stand Up for Heroes
+- The Daily Show
+- The Resilient
 ---
 
 Stand Up for Heroes will celebrate its 20th anniversary this fall in New York City with a performance by Bruce Springsteen and jokes by Hasan Minhaj and Jon Stewart.

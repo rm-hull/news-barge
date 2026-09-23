@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - Technology & Software
 - Society & Culture
+locations:
+- A66
+- Cleveland
+- County Kildare
+- Ireland
+- Middlesbrough
+- Ormesby
+- Saddington
+- Teesside
+people:
+- Cole Robert Worthy
+- Jacob Matusiak
+- Justin Kelly
+- Luke Pollard
+- Makai Saddington
+- Matt Storey
+- Matthew Blades
+- Michael Robert Cahill
+- PC Clough
+- Passat
+- Theo Rae
+- Theo Ray
+- Tom Clough
+organisations:
+- BBC Breakfast
+- BBC Radio 4
+- BBC Radio 5Live
+- BBC Verify
+- Garda
+- Lucozade
+- Meta and X
+- Ofcom
+- PC Blades
+- TikTok
 ---
 
 ![A young woman holding her iPhone while showing the TikTok app.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/ebfc/live/7de297d0-9da6-11f1-95ab-d3b679e2384a.jpg)

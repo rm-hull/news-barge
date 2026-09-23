@@ -13,6 +13,10 @@ categories:
 - Germany
 - News & Politics
 - Technology & Software
+locations:
+- Neukölln
+people: []
+organisations: []
 ---
 
 © dpa

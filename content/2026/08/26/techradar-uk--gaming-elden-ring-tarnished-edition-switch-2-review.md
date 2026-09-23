@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/6YYLzkNhC7TX4prvxRHSuJ-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Elden Ring
+- Soulslike
+- Torrent
+people:
+- Devil
+- Elden Ring
+- Idus Knight
+- Mario
+- Midsommar
+- Ray Harryhausen
+organisations:
+- HDR
+- Nintendo Switch
+- PS5
+- Xbox
 ---
 
 ### TechRadar Verdict

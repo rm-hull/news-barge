@@ -14,6 +14,50 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Britain
+- Cleveland
+- County Durham
+- Darlington
+- England
+- Eston
+- Grangetown
+- Haswell
+- London
+- Middlesbrough
+- Ruskin Avenue
+- South Bank
+- Steele Crescent
+- Teeside
+- UK
+- Westminster
+people:
+- Alec Brown
+- Andy Preston
+- Cole Robert Worthy
+- Cole Worthy
+- Jacob Matusiak
+- Jakub Matusiak
+- Jon McAdam
+- Josh Kirton
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- Michael Robert Cahill
+- Natalie McDonald
+- PC Matthew Blades
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- A66
+- Cleveland Council
+- Cleveland Police
+- Durham Constabulary
+- Middlesbrough
+- Redcar
+- TS6
+- The Independent
 ---
 
 Once a booming 19th-century powerhouse at the centre of the UK’s steel, iron and shipbuilding industry, Middlesbrough was a proud example of British business success on the northeast coast.

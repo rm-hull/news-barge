@@ -12,6 +12,35 @@ image: https://static.independent.co.uk/2026/08/05/00/Trump_National_Golf_Club_1
 categories:
 - News & Politics
 - UK
+locations:
+- Afghanistan
+- California
+- Hollywood
+- Iraq
+- LA
+- Los Angeles
+- Los Angeles-area
+- Rancho Palos Verdes
+- Torrance
+- Trump National Golf Course
+- U.S.
+people:
+- A.J
+- Bayne
+- Donald Trump
+- Jeanine John Taele
+- John Lonergan Jr.
+- Melania Trump
+- Meta Glasses
+organisations:
+- AT&T
+- Hollywood Mental Health Court
+- Marine Corps
+- National Defense Service Medal
+- Navy Unit Commendation
+- Republican National Committee
+- Secret Service
+- State Department
 ---
 
 A judge on Wednesday suspended criminal charges against a former U.S. Marine arrested at President Donald Trump’s Los Angeles-area golf course with ammunition and a gun in his vehicle. He is undergoing a psychiatric evaluation.

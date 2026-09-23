@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- UK
+people: []
+organisations:
+- FSA
+- Food Standards Agency
+- Morrisons
+- Pesto Orzo Salad
+- STEC
+- Sainsbury's
+- Tesco Finest Mozzarella Pearls
 ---
 
 *(Image: Getty Images)*

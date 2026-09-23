@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- AI
+- Bedford
+- Lexford
+- Lexington
+- Massachusetts
+people:
+- Betty Gau
+- John Basl
+organisations:
+- Artificial Intelligence
+- Boston.com
+- Commonwealth
+- Department of Robotic Affairs
+- Lexford Department of Robotic Affairs
+- Lexington Bicycle Advisory Committee
+- Northeastern University
 ---
 
 A strange road sign along a highway in Lexington, Massachusetts, has drivers and bikers scratching their heads.

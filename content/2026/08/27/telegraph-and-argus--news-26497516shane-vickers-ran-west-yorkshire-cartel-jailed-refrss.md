@@ -14,6 +14,27 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford Road
+- Cleckheaton
+- HMP Leeds
+- Silsden
+- Snapchat
+- West Yorkshire
+people:
+- '## Boy'
+- Erin Kitson-Parker
+- Katherine Robinson
+- Kirstie Watson
+- Miss Robinson
+- Shane Vickers
+organisations:
+- AI
+- Audi
+- Bradford Crown Court
+- Vickers’
+- West Yorkshire Cartel
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

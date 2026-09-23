@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- England
+- Ipswich Town
+- Portman Road
+- Sudan
+- UK
+people:
+- David Squire
+- Nasser Hamid
+organisations:
+- Premier League
+- Suffolk New College
 ---
 
 A student who escaped conflict in Sudan to live in the UK described passing his GCSE exams in maths and English as "one of the proudest moments in my life".

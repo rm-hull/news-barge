@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Halifax
+- West Parade
+- YOUR
+people:
+- A. Arshad
+organisations:
+- Belleview Architecture
+- Calderdale Council
+- Public Notice Portal
 ---
 
 ### What is the Public Notice Portal?

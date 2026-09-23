@@ -10,6 +10,22 @@ image: https://static.independent.co.uk/2026/08/25/17/01M0WWG6HN4RJMTEFA0XSEDMZE
 categories:
 - News & Politics
 - UK
+locations:
+- Brent Civic Centre
+- HA9
+- London
+- Wembley
+people:
+- Brent
+- Muhammed Butt
+organisations:
+- '![Brent Civic Centre'
+- Brent Council
+- London Ambulance Service
+- London’s Air Ambulance
+- Metropolitan Police
+- The Brent Civic Centre
+- Wembley Library
 ---
 
 A person has died following a stabbing in a building housing a London council headquarters and a library.

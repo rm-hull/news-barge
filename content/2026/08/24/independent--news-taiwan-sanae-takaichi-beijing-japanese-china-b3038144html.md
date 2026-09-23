@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Beijing
+- China
+- China-Japan
+- Haneda
+- Japan
+- South Korea
+- Taiwan
+- Tokyo
+- Yasukuni Shrine
+people:
+- Gaku Hashimoto
+- Sanae Takaichi
+- Shinichi Isa
+organisations:
+- CRA
+- Centrist Reform Alliance
+- Chinese Communist Party
+- Foreign Ministry
+- Komeito
+- Liberal Democratic Party
 ---
 
 A cross-party group of Japanese lawmakers headed to Beijing on Monday seeking to mend strained ties following Prime Minister Sanae Takaichi’s comment on Taiwan that angered China and led to tensions that have spilled over into the economy.

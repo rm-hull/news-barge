@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Beverley Minster
+- Beverley’s Flemingate
+- Flemingate Centre
+- YOUR
+- Yorkshire
+people:
+- Beverley
+- Chris Crookham
+- Jason Platten
+- Natalie
+- Sam Robinson
+organisations:
+- East Riding of Yorkshire Council
+- FORE Sims Limited
+- FORE!
+- Flemingate
+- Public Notice Portal
+- Wykeland Group
 ---
 
 ## Professional golfer's plans for entertainment venue in Yorkshire town approved

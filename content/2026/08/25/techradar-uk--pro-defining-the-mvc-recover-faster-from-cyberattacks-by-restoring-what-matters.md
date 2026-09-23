@@ -10,6 +10,20 @@ description: Stop trying to restore everything and start restoring what matters
 image: https://cdn.mos.cms.futurecdn.net/5rDPr5xYvLwnkP7ZvpR2w3-2122-80.jpg
 categories:
 - Technology & Software
+locations:
+- Europe
+- UK
+people: []
+organisations:
+- Board
+- Cohesity
+- Future plc
+- MVC
+- Minimum Viable Company
+- Minimum Viable Organization
+- TechRadar Pro
+- TechRadarPro
+- UK&I
 ---
 
 ![Caution sign data unlocking hackers. Malicious software, virus and cybercrime, System warning hacked alert, cyberattack on online network, data breach, risk of website](https://cdn.mos.cms.futurecdn.net/5rDPr5xYvLwnkP7ZvpR2w3.jpg) 

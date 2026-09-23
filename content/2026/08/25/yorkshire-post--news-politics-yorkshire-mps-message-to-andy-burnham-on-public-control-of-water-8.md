@@ -14,6 +14,40 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Downing Street
+- Greater Manchester
+- Harrogate
+- Hemsworth
+- Killingbeck
+- Normanton
+- Thames Water
+- Thames’
+- UK
+- US
+- Yorkshire
+people:
+- Andy Burnham
+- Bruce Rollinson
+- Emma Reynolds
+- Jon Trickett
+- Ms Shaw
+- Nicola Shaw
+organisations:
+- Aberdeen Investments
+- Apollo Global Management
+- Elliott Management
+- Government
+- ITV News
+- KKR
+- Labour
+- Ofwat
+- SAR
+- Thames Water
+- The Times
+- The Yorkshire Post
+- United Utilities
+- Yorkshire Water
 ---
 
 # 'Hold your nerve': Yorkshire MP's message to Andy Burnham on public control of water

@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Health & Fitness
 - Sports
+locations:
+- Antwerp
+- Belgium
+- Ethiopia
+- Europe
+- Frankfurt
+- Germany
+- Kenya
+- Namibia
+- Nigeria
+- South Africa
+- Tanzania
+- sub-Saharan Africa
+people:
+- Peter Tinnemann
+organisations:
+- CDC
+- Fraport
+- Hessische Rundfunk
+- Phanie/Rex Features It
+- Robert Koch Institute
 ---
 
 German health officials are seeking to reassure the public after two workers at the country’s biggest airport died of malaria.

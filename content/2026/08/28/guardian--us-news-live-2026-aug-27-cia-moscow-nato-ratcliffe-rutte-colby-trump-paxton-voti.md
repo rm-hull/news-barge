@@ -12,6 +12,139 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Alabama
+- Atlantic
+- Canada
+- City of Québec
+- Erie
+- Florida
+- Georgia
+- Great Lakes
+- Gulf of America
+- Gulf of Mexico
+- Haiti
+- Houston
+- Huron
+- Iran
+- Lake America
+- Lake Ontario
+- Lake Ontario “Lake America
+- Maine
+- Michigan
+- Mid-East
+- Middle East
+- Moscow
+- New York
+- North Carolina
+- Oregon
+- Ottawa
+- Pacific
+- Port-au-Prince
+- RFK
+- Samoa
+- Stadacona
+- Texas
+- U.S.
+- US
+- US-Canada
+- United States
+- Washington DC
+- Western New York
+- White House
+people:
+- Abraham Lincoln
+- Andrew Harnik
+- Andrew Jackson
+- Arthur M. Schlesinger Sr.
+- Barack Obama
+- Bill Clinton
+- Chuck Edwards
+- Curtis Hertel
+- Donald Trump
+- Donald Trump Jr
+- Donnacona
+- Dorian
+- Dwight Eisenhower
+- Edwards’
+- Erik Slavin
+- Franklin D Roosevelt
+- Franklin Roosevelt
+- George H W Bush
+- George W Bush
+- George Washington
+- Gerald Ford
+- Gretchen Whitmer
+- Harry Truman
+- Herbert Hoover
+- Jacques Cartier
+- James Garfield
+- Jennifer Balkcom
+- Jimmy Carter
+- Joe Biden
+- John F Kennedy
+- John Ratcliffe
+- Jonathan Ernst
+- Karoline Leavitt
+- Kathy Hochul
+- Ken Paxton
+- Lara Korte
+- Lyndon Johnson
+- Mark Carney
+- Max Lederer
+- Ms
+- Pete Hegseth
+- Richard Nixon
+- Robert F Kennedy Jr
+- Ron Wyden
+- Ronald Reagan
+- Shame
+- Sharpie
+- Stephanie Grisham
+- Susan Collins
+- Thomas Jefferson
+- Tim Kennedy
+- Vladimir Putin
+- William Henry Harrison
+- Woodrow Wilson
+organisations:
+- Air Force One
+- Associated Press
+- CBS News
+- CIA
+- Capital
+- Confederation of Canada
+- Congress
+- Declaration of Independence of the United States of America
+- Department of Finance
+- Department of Justice
+- Department of the Interior
+- Freedom of Information Act
+- GNIS
+- Guardian
+- Harvard
+- House Northern Border Caucus
+- House of Representatives
+- National Weather Service
+- Nato
+- Oval Office
+- Pentagon
+- RFK
+- RNC
+- Republican National Committee
+- Reuters
+- Senate
+- Sharpie
+- Stars and Stripes
+- Stripes’ Publisher
+- The New York Times
+- The Times
+- TikTok
+- Trump
+- U.S.S
+- US Department of Defense
+- US Geological Survey
+- US Navy
 ---
 
 Trump signs order to rename Lake Ontario as 'Lake America'

@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- Aberdeen
+- Balloch
+- Bedford Avenue
+- Cullen
+- Dunbartonshire
+- Grampian
+- Highlands and Islands
+- Moray
+people:
+- Alison McKenzie
+- Craig Findlater
+- David McColl
+- Julia Stephen
+- Kerry McCombie
+- Meaghan Murphy
+- Meaghann Murphy
+- Shirley Freeman
+- William Murphy
+organisations:
+- Aberdeen Sheriff Court
+- Aberdeen Sheriff Court.
+- BBC Action Line
+- BBC Scotland News
+- Meaghann Murphy
+- Police Scotland
 ---
 
 ![A young girl and boy, Meaghann and William Murphy when they were children, smiling at the camera.](https://ichef.bbci.co.uk/ace/standard/747/cpsprodpb/4a6a/live/c7101ba0-85c1-11f1-a407-4750df4c0797.jpg)

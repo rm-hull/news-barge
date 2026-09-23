@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Berlin
+people:
+- Wegner
+organisations:
+- Senate
+- State Criminal Police Office
 ---
 
 © dpa

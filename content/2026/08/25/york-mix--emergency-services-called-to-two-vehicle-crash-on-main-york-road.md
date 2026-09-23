@@ -11,6 +11,13 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- '#### Hull Road'
+- Hull Road
+- York
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 Emergency services were called to a crash on a main York road yesterday evening (Monday).

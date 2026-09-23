@@ -11,6 +11,29 @@ image: https://cdn.mos.cms.futurecdn.net/2xAqt73X4jVF8SZ7dLmMWX-2326-80.png
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Hollywood
+- Hulu
+- US
+people:
+- Alice Black
+- Catherine Grace
+- Elizabeth Meriwether
+- Emmy Rossum
+- Liz Meriwether
+- Lola Petticrew
+- Lucy Buglass
+- Nora Washington
+- Quincy Tyler Bernstine
+- Scoot McNairy
+organisations:
+- Bernstine
+- FBI
+- Google News
+- Lucy Goes
+- Rotten Tomatoes
+- TechRadar
+- The Simpsons
 ---
 
 ![Quincy Tyler Bernstine as Nora Washington in Hulu's Furious](https://cdn.mos.cms.futurecdn.net/2xAqt73X4jVF8SZ7dLmMWX.png) 

@@ -12,6 +12,22 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a97/live/68e58f
 categories:
 - UK
 - News & Politics
+locations:
+- China
+- Iran
+- Pakistan
+- Strait of Hormuz
+- Tehran
+- US
+- Washington
+people:
+- Ali Madanizadeh
+- Donald Trump
+- Mona
+- Scott Bessent
+organisations:
+- BBC
+- Treasury
 ---
 
 ![A woman wearing a white shirt and pink scarf carries shopping bags on her left arm in the middle of a market, where clothes can be seen hanging and other shoppers walk about](https://ichef.bbci.co.uk/ace/standard/971/cpsprodpb/ed90/live/792d3990-a079-11f1-bfeb-dfb02ea642ef.jpg)

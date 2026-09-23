@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Ebor
+- York Racecourse
+people:
+- Anthony Chappel-Ross
+- Camilla
+- Elizabeth Parker
+- Emma Farry
+- Frank Dwyer
+- Helena Towse
+- Mike Tipping
+- Natalie Fowler
+- Nigel French
+- Sasha Parker
+- William Derby
+organisations:
+- PA Wire
+- The Press
+- The Press Attendance
 ---
 
 Hot on the heels of this year’s four-day Ebor Festival which welcomed its royal patron, Queen Camilla, on the opening day, we look back at some of the stunning fashion statements captured at the races over the years.

@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - Technology & Software
 - Science
+locations:
+- Beijing
+- Chengdu
+- Chengdu.
+- China
+- Europe
+- France
+- Hangzhou
+- Leapmotor
+- Shenzhen
+- UK
+- US
+- Washington
+people:
+- Cao Li
+- Chen Tianyu.
+- Pang Kai
+- Susanne Bieller
+- Usain Bolt
+- Xi Jinping
+organisations:
+- AI
+- BBC
+- CRP Technology
+- DeepSeek
+- EV
+- Hangzhou Technician
+- Hangzhou Technician Institute
+- International Federation of Robotics
+- Leapmotor
+- Moonshot
 ---
 
 Watch: BBC visits factories in China with robot workers

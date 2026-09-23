@@ -10,6 +10,17 @@ description: For enthusiasts and pros, xTool's M2 laser cutter & engraver impres
 image: https://cdn.mos.cms.futurecdn.net/oq2eKCPf4zHrUachCiSDLX-1200-80.jpg
 categories:
 - Technology & Software
+locations:
+- M2
+- xTool
+people:
+- Alastair
+organisations:
+- AI
+- Amazon
+- Future
+- TechRadar Pro
+- xTool Studio
 ---
 
 ### TechRadar Verdict

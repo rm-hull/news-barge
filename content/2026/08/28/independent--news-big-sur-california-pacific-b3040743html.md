@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Big Sur
+- California
+- Highway 1
+- Monterey County
+- Pacific
+people: []
+organisations:
+- Plaskett Fire
+- Timber Fire
 ---
 
 Fire crews with water-dropping aircraft attacked a small wildfire that prompted new evacuations Thursday along California's remote Big Sur coast, where a much larger blaze has been burning for nearly three weeks.

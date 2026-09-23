@@ -11,6 +11,26 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A439 Warwick Road
+- A46
+- Birmingham Road
+- Fisherman's Car Park
+- Ingon Lane
+- Marraway
+- Sand Barn Lane
+- Stratford
+- Warwick Road
+people:
+- Ford
+- Steve Flavell
+organisations:
+- Audi
+- IOPC
+- Independent Office for Police Conduct
+- Warwickshire County Council
+- Warwickshire Police
+- West Midlands Ambulance Service
 ---
 
 ![An A road, with road markings. Trees line the road on either side side with 50mph speed limit signs either side.](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/9269/live/bb79d600-a083-11f1-bfeb-dfb02ea642ef.jpg)

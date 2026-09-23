@@ -11,6 +11,27 @@ image: https://images.euronews.com/articles/stories/09/88/91/08/1200x675_cmsv2_f
 categories:
 - Europe
 - News & Politics
+locations:
+- Borneo
+- Brunei
+- Indonesia
+- Jakarta
+- Jambi
+- Kuala Lumpur
+- Malaysia
+- Pekanbaru
+- Riau
+- Sarawak
+- Singapore
+- Sumatra
+people:
+- Abdullah
+- Farida
+- Prabowo Subianto
+organisations:
+- AFP
+- El Niño
+- IQ Air
 ---
 
 ## Fires between January and July burned more than 200,000 hectares of land, an area three times the size of the capital Jakarta, the government said last week.

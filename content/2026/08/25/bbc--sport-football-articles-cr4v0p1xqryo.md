@@ -13,6 +13,90 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Anfield
+- Chelsea
+- Craven Cottage
+- Fulham
+- Leicester City
+- Manchester City
+- Newcastle
+- Nottingham Forest
+- Selhurst Park
+- St. James' Park
+- Strasbourg
+- The City Ground
+people:
+- '## Enzo Maresca'
+- '## Marco Rose'
+- Alexander Isak
+- Alvaro Arbeloa
+- Andoni Iraola
+- Anthony Elanga
+- Anthony Gordon
+- Arne Slot
+- Bradley Barcola
+- Bruno Guimaraes
+- Cesar Palacios
+- Cole Palmer
+- Dominik Szoboszlai
+- Emersonn
+- Enzo Maresca
+- Erling Haaland
+- Evangelos Marinkis
+- Florian Wirtz
+- Gary O'Neil
+- Gonzalo Garcia
+- Guardiola
+- Jean-Phillipe Mateta
+- Joao Pedro
+- Joe Willock
+- Josh King
+- Josko Gvardiol
+- Julio Enciso
+- Kieran McKenna
+- Liam Delap
+- Liverpool Iraola
+- Marc Guehi
+- Marco Silva
+- Matthias Jaissle
+- Morgan Rogers
+- Nuno Espirito Santo
+- Oliver Glasner
+- Palace
+- Pierre Sage
+- Reece James
+- Robert Sanchez
+- Sandro Tonali
+- Xabi Alonso
+- Yankuba Minteh
+- Yoane Wissa
+organisations:
+- Arsenal
+- Bournemouth
+- Brentford
+- Chelsea
+- Cherries
+- Community Shield
+- Crystal Palace
+- Europa League
+- Everton
+- Every Forest
+- Fulham Tough
+- Ipswich Town Ipswich Town
+- Leeds United
+- Lens
+- Liverpool Iraola
+- Manchester City
+- Manchester City It
+- Newcastle United
+- Newcastle United Seconds
+- Nottingham Forest Poor
+- Premier League
+- Real Madrid
+- Sunderland
+- Toon Army
+- post-Pep Guardiola
 ---
 
 ![Fulham manager Alvaro Arbeloa and his Chelsea counterpart Xabi Alonso embrace at Craven Cottage](https://ichef.bbci.co.uk/ace/standard/660/cpsprodpb/8909/live/f480ddf0-a050-11f1-89c1-878f3735096b.jpg)

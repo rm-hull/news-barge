@@ -12,6 +12,22 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Barrow-in-Furness
+- Cumbria
+- Fulford
+- Northallerton
+- York
+people:
+- Jamie Lee Smith
+- Jemma Hill
+- Jonathan Leach
+- Ms Hill
+- Richard Doughty
+organisations:
+- TEWV
+- Tees, Esk
+- Wear Valleys NHS Foundation Trust
 ---
 
 *(Image: Richard Doughty Photography.)*

@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Anfield
+- Brighton
+- Crystal Palace
+- France
+- Gambia
+- Lyon
+- Netherlands
+- Paris St-Germain
+people:
+- Alexander Isak
+- Bradley Barcola
+- Cody Gakpo
+- Hugo Ekitike
+- Ismaila Sarr
+- Luis Diaz
+- Mohamed Salah
+- Yankuba Minteh
+organisations:
+- BBC Sport
+- Bradley Barcola
+- Brighton
+- France
+- Ligue
+- Liverpool
+- Liverpoolare
+- Manchester City
+- PSG
+- Paris St-Germain
+- Reds
+- Tottenham Hotspur
 ---
 
 ![Bradley Barcola](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e132/live/2a1deab0-a1f1-11f1-bf30-b9c45f18ad85.jpg)

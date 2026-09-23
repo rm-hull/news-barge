@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Grape Tree
+- Market Cross Shopping Centre
+- North Yorkshire
+- Selby
+people:
+- James Shepherd
+organisations:
+- Dransfield Properties
+- Grape Tree
+- Grape Tree to Market Cross
+- Market Cross
 ---
 
 ## New health food shop opens in North Yorkshire town

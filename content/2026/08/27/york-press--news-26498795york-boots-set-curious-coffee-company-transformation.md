@@ -11,6 +11,23 @@ categories:
 - Local
 - York
 - Home, Garden & DIY
+locations:
+- Clifton Green
+- Easingwold
+- Haxby
+- Ukraine
+- YOUR
+- York
+people:
+- Eddie Copley-Farnell
+organisations:
+- Boots
+- City of York Council
+- Clifton Green
+- Curious Coffee Company
+- Public Notice Portal
+- Public Notice Portal PLANS
+- The Curious Coffee Company
 ---
 
 ## Transformation of empty York shop takes step forward

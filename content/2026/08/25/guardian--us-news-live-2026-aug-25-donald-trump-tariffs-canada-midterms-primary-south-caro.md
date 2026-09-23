@@ -15,6 +15,99 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- Canada
+- China
+- Europe
+- Gulf of America
+- Gulf of Mexico
+- Iran
+- Kremlin
+- Lake America
+- Lake Ontario
+- Latvia
+- Lincoln
+- Middle East
+- Moscow
+- Myrtle Beach
+- New York
+- Oklahoma
+- Quebec
+- Riga
+- Russia
+- South Carolina
+- Tehran
+- Thailand
+- Toronto
+- Tulsa
+- US Camp Springs
+- US House
+- Ukraine
+- United Arab Emirates
+- United States
+- United States of America
+- Vnukovo
+- Washington DC
+people:
+- AP Darline Graham
+- Abraham Lincoln
+- Alamy Trump
+- Annie Andrews
+- Christine Fréchette
+- Cyndi Munson
+- Darline Graham
+- Donald Trump
+- Gentner Drummond
+- Guilty
+- Howard Lutnick
+- Jamieson Greer
+- Jared Kushner
+- John Cornyn
+- Kristen Holmes
+- Leyland Cecco
+- Lindsey Graham
+- Mark Carney
+- Meg Kinnard
+- Mike Mazzei
+- Nikki Haley
+- Ralph Norman
+- Ron Wyden
+- Scott Bessent
+- Senator Graham
+- Steven Witkoff
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- Anadolu
+- Anadolu/Getty Images Trump
+- Apple
+- CNBC
+- CNN
+- Commerce
+- Congress
+- Federal Election Commission
+- Flightradar24
+- Guardian
+- House Freedom Caucus
+- House of Representatives
+- MAGA INC
+- Navy Times and Stars and Stripes
+- Netflix
+- Oklahoma House
+- PAC
+- Pentagon
+- RM Nunes
+- RM Nunes/Alamy
+- Reuters
+- Senate
+- Spotify
+- Supreme Court
+- Thai Navy
+- Truth Social
+- US Navy
+- US Postal Service
+- USS Abraham Lincoln
+- United Nations Convention on the Law of the Sea
 ---
 
 Trump claims US could rename Lake Ontario as Lake America amid Canada trade war – live

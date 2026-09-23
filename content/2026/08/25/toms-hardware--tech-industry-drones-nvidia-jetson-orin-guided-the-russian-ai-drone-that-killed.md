@@ -13,6 +13,33 @@ image: https://cdn.mos.cms.futurecdn.net/YqyE7WKzDBtHaoJrTAM6zg-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Crimea
+- Russia
+- U.S.
+- Ukraine
+- Zaporizhzhia
+people:
+- Jetson Orin
+- Kateryna Bondar
+- Luke James
+- Mykhailo Fedorov
+- Serhiy Minaiev
+- Tetiana Bubynets
+- Tom
+organisations:
+- Center for Strategic and International Studies
+- GUR
+- Get Tom's Hardware
+- Google News
+- Jetson Orin
+- Jetsons
+- Kyiv
+- New York Times
+- Nvidia Jetson
+- Tom's Hardware
+- V2U
+- Zaporizhzhia
 ---
 
 ![Nvidia Jetson](https://cdn.mos.cms.futurecdn.net/YqyE7WKzDBtHaoJrTAM6zg.jpg) 

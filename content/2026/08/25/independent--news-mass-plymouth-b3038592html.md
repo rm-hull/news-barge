@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Massachusetts
+- U.S.
+people:
+- Callan
+- Cora Clancy
+- Dawson
+- Kevin Reddington
+- Kirk Heilbrun
+organisations: []
 ---
 
 After nearly a month of testimony, jurors in the Lindsay Clancy murder trial are set to hear from the final witnesses in a case that has largely been about her mental state when she strangled her three young children.

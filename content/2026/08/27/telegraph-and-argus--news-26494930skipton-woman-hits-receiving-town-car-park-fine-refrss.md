@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Rackhams
+- Skipton
+- Skipton’s High Street
+people:
+- Liz McNeil
+- Ms McNeil
+organisations:
+- Euro Car Parks
+- UGC
 ---
 
 *(Image: UGC)*

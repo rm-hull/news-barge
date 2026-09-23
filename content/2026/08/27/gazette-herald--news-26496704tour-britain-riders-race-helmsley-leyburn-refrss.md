@@ -14,6 +14,24 @@ categories:
 - York
 - History
 - Sports
+locations:
+- Ampleforth
+- Howardian Hills
+- Leyburn
+- Market Square
+- Newburgh Priory
+- North Yorkshire
+- Oulston
+people:
+- Carolyn Frank
+- Ellie Hook
+- Helmsley
+organisations:
+- Heart of Helmsley
+- Howardian Hills National Landscape
+- Libby Butler Jewellers
+- Mayoral High Street Fund
+- York and North Yorkshire Combined Authority
 ---
 
 Helmsley will host the penultimate stage of a national cycling race.

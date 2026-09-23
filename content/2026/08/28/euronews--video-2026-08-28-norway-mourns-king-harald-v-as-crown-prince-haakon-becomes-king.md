@@ -13,6 +13,19 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Norway
+- Oslo University Hospital
+- Rikshospitalet
+- Royal Palace
+people:
+- Haakon VII
+- Haakon VIII
+- Harald V
+- Jonas Gahr Støre
+- Olav V. His
+organisations:
+- Norwegian Royal Standard
 ---
 
 Norway is mourning King Harald V after the monarch died aged 89 at Oslo University Hospital’s Rikshospitalet at 6:35 a.m. local time on Friday, according to the Royal Palace. Hundreds of people gathered outside the palace to lay flowers and wreaths, while church bells rang across the country at noon. The Norwegian Royal Standard was flown at half-mast as officials and members of the public paid tribute to a king who had reigned for more than three decades.

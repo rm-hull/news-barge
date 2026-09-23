@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Health & Fitness
 - Sports
+locations:
+- Bolton Abbey
+- Bolton Abbey Estate
+- Valley of Desolation
+people: []
+organisations:
+- Bolton Abbey
+- North Yorkshire Police
+- Upper Wharfedale Fell Rescue Association
 ---
 
 *(Image: UWFRA)*

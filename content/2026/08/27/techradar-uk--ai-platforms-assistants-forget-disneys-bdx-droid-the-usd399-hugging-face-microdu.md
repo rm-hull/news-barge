@@ -10,6 +10,30 @@ description: Microduck is Pollen Robotics' new programmable robot
 image: https://cdn.mos.cms.futurecdn.net/NQ4VdVv5uX2tma7U8JQrsU-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Cream
+people:
+- Lance Ulanoff
+organisations:
+- AI
+- BBC
+- CNBC
+- CNN
+- Disney World
+- Good Morning America
+- Google News
+- Kelly and Mark
+- Lance
+- Lavender
+- Lifewire
+- Mashable
+- Medium
+- Microduck
+- NFC
+- Pollen Robotics
+- Sky
+- Today Show
+- Ziff Davis, Inc
 ---
 
 ![Microduck from Pollen Robotics](https://cdn.mos.cms.futurecdn.net/NQ4VdVv5uX2tma7U8JQrsU.jpg) 

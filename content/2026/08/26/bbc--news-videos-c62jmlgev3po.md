@@ -12,6 +12,13 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- India
+- Nepal-Tibet
+- UK
+people: []
+organisations:
+- BBC
 ---
 
 # Video shows scale of flash flood hitting Nepal-Tibet border

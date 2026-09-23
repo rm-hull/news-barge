@@ -14,6 +14,23 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford
+- Halifax
+- Leeds
+- New Bank
+- Prospect Street
+people:
+- Coun Hawkaluk
+- Coun Paul Hawkaluk
+- James Butterfield
+organisations:
+- Calderdale Council
+- Community Safety and Enforcement
+- Reform UK
+- Salterhebble
+- Skircoat Green
+- Southowram
 ---
 
 Three years on, frustrated residents want to see an end in sight to problems posed by a landslide which has closed a Halifax road since.

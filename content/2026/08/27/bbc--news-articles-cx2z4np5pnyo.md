@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- UK.
+- US
+people:
+- Donald Trumpannounced
+- Grace Dean
+- Mark Carney
+- artistYayoi Kusamadied
+organisations: []
 ---
 
 **This week, Japanese artistYayoi Kusamadied, Canadian Prime Minister Mark Carney and US President Donald Trumpannounced tariffson each other's countries after trade talks collapsed, and theDuke and Duchess of Sussexarrived back in the UK.**

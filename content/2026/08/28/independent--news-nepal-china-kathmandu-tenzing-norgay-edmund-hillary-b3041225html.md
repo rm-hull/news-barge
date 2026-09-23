@@ -14,6 +14,25 @@ categories:
 - UK
 - History
 - Travel
+locations:
+- Annapurna
+- Asia
+- Great Silk Road
+- Kathmandu
+- Mount Everest
+- Nepal
+- Nepal-China
+- New Zealand
+- Toronto
+people:
+- Ariel Estulin
+- Edmund Hillary
+- Rajendra Lama
+- Tenzing Norgay
+organisations:
+- Everest Base Camp
+- Nepal Mountaineering Association
+- The Associated Press
 ---
 
 The mountain range along the Nepal-China border has its dangers, most recently seen this week in the flash floods spurred by a glacier collapse that have killed hundreds and brought a wide swath of destruction.

@@ -13,6 +13,23 @@ categories:
 - UK
 - Law & Justice
 - Society & Culture
+locations:
+- Duxbury
+- Massachusetts
+- UK
+- USA
+people:
+- '![Clancy'
+- Callan
+- Cora
+- Dawson
+- Did Clancy
+- Kevin Reddington
+- Lindsay Clancy
+- Patrick Clancy
+organisations:
+- 988 Suicide and Crisis Lifeline
+- Samaritans
 ---
 
 Lindsay Clancy’s murder trial is now in the hands of a jury following a month of emotional testimony about the deaths of her three children in 2023 and the psychiatric issues she experienced before she killed them.

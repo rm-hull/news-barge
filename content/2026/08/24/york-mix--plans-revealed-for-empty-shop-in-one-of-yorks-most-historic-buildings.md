@@ -11,6 +11,22 @@ categories:
 - Local
 - York
 - History
+locations:
+- Blake Street
+- Our Lady’s Row
+- York
+people:
+- Marcus Doyle
+- Warren Booth
+organisations:
+- City of York Council
+- Goodramgate
+- Monk Bar
+- Owl Adventures
+- The Imaginarium
+- The Society of Alchemists on Shambles
+- The Yorkshire Soap Company
+- Yorkshire Soap Company
 ---
 
 Plans have gone in to turn one of York’s oldest shop buildings into an artisanal sweet shop.

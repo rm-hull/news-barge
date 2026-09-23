@@ -15,6 +15,41 @@ categories:
 - News & Politics
 - Technology & Software
 - True Crime
+locations:
+- CLEVELAND
+- Carmel
+- Darlington
+- Foxrush Close
+- Micklow Close
+- Middlesbrough
+- Redcar
+- South Bank
+- St John the Evangelist Church
+- Teesside Crown Court
+- Teesside Magistrates' Court
+people:
+- Cameron George
+- Dad
+- Forever
+- Kai Beattie
+- Matt
+- Matthew Blades
+- Matty
+- PC Blades’
+- PC Clough
+- SARAH CALDECOTT
+- Stuart Boulton
+- Tom Clough
+organisations:
+- A66
+- Carmel College
+- Cleveland Police
+- Cleveland Police Federation
+- Independent Office for Police Conduct
+- PC Blades
+- RTC
+- SARAH CALDECOTT
+- Volvo
 ---
 
 A fundraiser launched for the families of two Cleveland Police officers killed in the A66 crash has reached £1 million.

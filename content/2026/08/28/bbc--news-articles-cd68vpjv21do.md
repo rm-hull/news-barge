@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- China
+- Nepal
+- Nepal-Tibet
+- Syapru Besi
+- Timure
+- Trishuli River
+people:
+- Alex Murray
+- Argha Banerjee
+- Merlyn Thomas
+- Mesut Ersoz
+- Mike Hill.
+- Shruti Menon
+organisations:
+- BBC Verify
+- CCTV
+- Indian Institute of Science Education and Research
+- Planet Labs
+- Vantor
 ---
 
 Tracing the deadly path of the Nepal-Tibet flash flood

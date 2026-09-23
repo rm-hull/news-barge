@@ -15,6 +15,30 @@ categories:
 - History
 - Society & Culture
 - Arts & Culture
+locations:
+- Billings
+- Charlotte
+- Montana
+- UK
+- USA
+- Yellowstone County
+people:
+- Adam Ghekiere
+- Alan Michael Smith
+- Alan Smith
+- Barbara Smith
+- Charlotte Ghekiere
+- Chloe Ireland
+- Dana Smith
+- Evelyn Smith
+- Jennifer Mercer
+- Kent O’Donnell
+- Landon Ghekiere
+- Megan Ireland-Ghekiere
+- Owen Ireland
+organisations:
+- 988 Suicide and Crisis Lifeline
+- Associated Press
 ---
 
 A 12-year-old girl has been hailed as a hero after she tried desperately to save her family during a Montana mass shooting that left 8 dead.

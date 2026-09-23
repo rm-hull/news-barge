@@ -14,6 +14,26 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bolton Road
+- Bradford
+- Burnett Place
+- Forster Square
+- Juke
+- Napoleon’s Casino
+people:
+- '## Khan'
+- '## Man'
+- Allan Armbrister
+- Monday Khan
+- Nadeem Khan
+- Sophie McKone
+organisations:
+- Bradford Crown Court
+- CPS
+- Crown Prosecution Service
+- T&A
+- West Yorkshire Police
 ---
 
 *(Image: CPS)*

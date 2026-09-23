@@ -15,6 +15,26 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- America
+- Georgetown
+- U.S.
+- White House
+people:
+- Abraham Lincoln
+- Christopher W. Jones
+- George W. Bush
+- George Washington
+- Joe Biden
+- Michael Bailey
+- Mike Rothschild
+- Ronald Reagan
+- Trump
+organisations:
+- CNN
+- Life Magazine
+- Smithsonian
+- The New York Times
 ---
 
 President Trump has shared a chart ranking the best U.S. presidents, and the Republican predictably put himself in the top spot, above such heavyweights as George Washington and Abraham Lincoln.

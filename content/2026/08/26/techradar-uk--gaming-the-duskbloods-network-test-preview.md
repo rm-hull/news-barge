@@ -10,6 +10,23 @@ description: The Duskbloods feels like FromSoftware’s unique multiplayer philo
 image: https://cdn.mos.cms.futurecdn.net/iUkirGzWYGNwMCKf8dxU79-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- The Duskbloods
+people:
+- Albert
+- Bloodhand Jan
+- Elden Ring Nightreign**,*
+- Rhys Wood
+- Virtue
+- Zork
+organisations:
+- Google News
+- Nintendo Direct
+- Rhys
+- Sworn Enemy
+- TRG
+- TechRadar
+- Virtue
 ---
 
 ![The Duskbloods screenshot featuring playable character Albert walking in a cathedral, illuminated red, with his back turned to the camera](https://cdn.mos.cms.futurecdn.net/iUkirGzWYGNwMCKf8dxU79.jpg) 

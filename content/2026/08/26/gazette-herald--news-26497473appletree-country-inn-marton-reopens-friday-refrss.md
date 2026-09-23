@@ -13,6 +13,32 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Angel
+- Guernsey
+- Malton
+- Marlow
+- Marton
+- North Yorkshire
+- Pickering
+- Ripon
+- The Appletree
+- York
+people:
+- )* Connor
+- Connor Anderson
+- Mary Celeste
+- Matt Stanley
+- Nathan Joseph
+- Pic
+- Sam Smith
+- Tom Kerridge
+organisations:
+- AppleTree Country Inn
+- Appletree County Inn
+- Pic
+- The Coach
+- White Horse
 ---
 
 A North Yorkshire village pub re-opens this week after being closed for 13 long years.

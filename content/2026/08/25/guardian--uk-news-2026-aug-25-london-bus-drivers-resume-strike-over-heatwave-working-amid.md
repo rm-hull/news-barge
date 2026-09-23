@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Arriva North London
+- Barking
+- Edmonton
+- Enfield
+- Essex
+- Grays
+- Palmers Green
+- Stamford Hill
+- Tottenham
+people:
+- Sharon Graham
+organisations:
+- Arriva London
+- Arriva North London
+- Guardian
+- Transport for London
+- Unite
+- Wood Green
 ---
 
 London bus drivers have resumed strike action over having to work in high temperatures, amid fears that proposed improvements to air conditioning will not be complete by next summer.

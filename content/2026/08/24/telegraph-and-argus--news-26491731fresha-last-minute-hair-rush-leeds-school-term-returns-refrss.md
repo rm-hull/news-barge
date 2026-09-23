@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Family & Parenting
 - Lifestyle & Fashion
+locations:
+- Belfast
+- Leeds
+- Manchester
+- UK
+people:
+- Annabelle Taurua
+organisations:
+- Fresha
+- Newcastle
 ---
 
 *(Image: Pixabay)*

@@ -14,6 +14,26 @@ categories:
 - Technology & Software
 - Comedy & Entertainment
 - Film & TV
+locations:
+- Virgin River
+people:
+- Chris
+- Chuck Lorre
+- George Cooper Sr.
+- Kevin Sussman
+- Leanne Morgan
+- Stuart
+organisations:
+- Georgie & Mandy
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- The Guardian
+- Yahoo!
 ---
 
 ![Leanne smiles at something offscreen](https://cdn.mos.cms.futurecdn.net/deZFpkYoLH2D7ve2LjV8EL.jpg) 

@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Grangetown
+- Middlesbrough
+- Redcar
+people:
+- Adam Brook
+- Anna Turley
+- Emily Harrison
+organisations:
+- BBC Sounds
+- Cleveland Fire Brigade
+- Cleveland Local Policing
+- Cleveland Police
+- Incident Command Unit
+- Northern Powergrid
+- Redcar
 ---
 
 ![The roof of the property is badly burnt. There are pieces of wood or metal sticking up out of it. The holes where the windows were are blackened.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2b8f/live/04e1a840-a14c-11f1-9984-79078b996b73.jpg)

@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Appleby
+- Dales High Way
+- Malham Cove
+- Saltaire
+- Yorkshire Dales
+people: []
+organisations:
+- CRO
+- Cav Rescue Organisation
+- Cave Rescue Organisation
+- Yorkshire Ambulance Service
+- Yorkshire Dales National Park
 ---
 
 *(Image: Cav Rescue Organisation)*

@@ -14,6 +14,16 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- Harrogate
+- John Riseley
+people:
+- Andrea Egan
+- Andrew Matthews
+organisations:
+- The Yorkshire Post
+- Unison
+- Yorkshire Post Letters
 ---
 
 # Migrant workers are not the answer to the social care crisis - Yorkshire Post Letters

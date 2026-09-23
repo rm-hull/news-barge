@@ -12,6 +12,15 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people: []
+organisations:
+- AOC
+- Acer
+- Alienware
+- Asus
+- Dolby Vision
+- Get Tom's Hardware
 ---
 
 ## Explore Gaming Monitors

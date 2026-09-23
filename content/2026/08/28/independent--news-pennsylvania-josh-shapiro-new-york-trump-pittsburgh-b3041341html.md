@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Lancaster County
+- Mexico
+- Pennsylvania
+- Pittsburgh
+- U.S.
+- United States
+people:
+- Amesh Adalja
+- Janet Hamilton
+- Josh Shapiro
+- Paul Offit
+- Robert F. Kennedy Jr.
+- Stephen Diamantoni
+organisations:
+- AP
+- Associated Press Health and Science Department
+- Centers for Disease Control and Prevention
+- Children’s Hospital of Philadelphia
+- Council of State and Territorial Epidemiologists
+- Department of Science Education
+- Howard Hughes Medical Institute
+- Johns Hopkins Center for Health Security
+- Lancaster County Coroner
+- Pennsylvania Department of Health
+- Robert Wood Johnson Foundation
+- Trump
+- World Health Organization
 ---
 
 The recent announcement of Pennsylvania’s first measles-related deaths in decades has ignited a public feud among politicians and health officials who disagree over the role of the contagious disease in the fatalities.

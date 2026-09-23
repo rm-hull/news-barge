@@ -14,6 +14,35 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- A66
+- South Bank
+people:
+- Cole Robert Worthy
+- Jacob Matusiak
+- Jakub Matusiak
+- Makai Saddington
+- Matthew Blades
+- Matty
+- Michael Robert Cahill
+- PC Blades
+- Stuart Boulton
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- CLEVELAND POLICE
+- Cleveland Police
+- Cleveland Police Federation
+- FC Hartlepool
+- Independent Office for Police Conduct
+- NORTH NEWS LTD
+- PC Blades
+- PC Clough
+- SOCIAL MEDIA
+- Seaton Carew
+- Seaton Carew FC
+- seahawks
 ---
 
 Two football clubs have paid tribute to a coach and serving policeman who died in a devastating crash on the A66.

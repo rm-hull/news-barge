@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Bishop Auckland
+- Bishop Auckland West
+- County Durham
+- Deer Park
+- Eastgate
+- North Yorkshire
+- Santa
+- Stanhope Station
+- Weardale Railway
+- Wensleydale Railway
+people:
+- Claire Gibbons
+- Santa
+organisations:
+- Auckland Palace
+- Auckland Project
+- Faith Museum
+- Mining Art Gallery
+- Santa Express
+- Spanish Gallery
+- The Auckland Project
+- Weardale Railway
 ---
 
 *(Image: Weardale Railway)*

@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Humber
+- UK
+- Yorkshire
+people:
+- Judith Cummins
+- Karen Tyrell
+organisations:
+- 2026 Monitor
+- Bradford South
+- Drinkaware
+- House of Commons
+- Iggy & Lime
+- Yorkshire
 ---
 
 *(Image: Iggy & Lime)*

@@ -13,6 +13,16 @@ categories:
 - Science
 - Technology & Software
 - Health & Fitness
+locations:
+- Australia
+people:
+- Flaminia Ronca
+- Justin Rhodes
+- Tara Walker
+organisations:
+- Queensland Brain Institute
+- University College London
+- University of Illinois Urbana-Champaign
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309549206.jpg?w=840)

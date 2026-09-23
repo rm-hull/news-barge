@@ -11,6 +11,42 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Bramham Park
+- Brotherton Bridge
+- Church Fenton
+- Elmet
+- Halifax
+- Hull
+- Hull-Halifax
+- Knottingley
+- Leeds
+- Liverpool Lime Street
+- Micklefield
+- Moorthorpe
+- Network Rail
+- Newcastle
+- Redcar Central **Rail
+- River Aire
+- Scarborough
+- Selby
+- Sheffield
+- Sherburn
+- Ulleskelf
+- Wakefield Kirkgate
+- York
+people:
+- Karen Duffy
+organisations:
+- Leeds
+- Manchester Airport
+- Manchester Piccadilly
+- Manchester Victoria
+- Micklefield Train
+- Network Rail
+- Northern and TPE
+- TransPennine Express
+- York-Sheffield
 ---
 
 Trains between York, Selby and Leeds are being disrupted this weekend due to an engineering project.

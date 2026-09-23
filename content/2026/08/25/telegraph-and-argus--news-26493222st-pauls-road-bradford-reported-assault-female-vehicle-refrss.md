@@ -14,6 +14,14 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Manningham
+- St Paul's Road
+- West Yorkshire
+people: []
+organisations:
+- UGC
 ---
 
 *(Image: UGC)*

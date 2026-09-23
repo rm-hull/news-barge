@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Self-Improvement
+locations:
+- Australia
+- Bhotekoshi
+- Canberra
+- Kathmandu
+- Melbourne
+- Nepal
+- New South Wales
+- Nuwakot
+- Rockdale
+- Sydney
+- Upper Trishuli
+- Victoria
+people:
+- Ashok Bahadur Dhungel
+- Chiran Tiwari
+- Chudamani Sapkota
+- Penny Wong
+- Rakshya Pandey
+- Tenzin Khangsar
+- Tilak Pokhrel
+organisations:
+- ABC
+- ANMC
+- Australia Tibet Council
+- Australian Nepalese Multicultural Centre
+- Emergency Action Alliance
+- GoFundMe
+- Nepalese Welfare Society
+- Non-Resident Nepali Association
 ---
 
 Australia’s Nepali community plan to host vigils to remember the victims of the Nepal-Tibet flood disaster to coincide with a day of mourning, as the number of people killed continues to rise.

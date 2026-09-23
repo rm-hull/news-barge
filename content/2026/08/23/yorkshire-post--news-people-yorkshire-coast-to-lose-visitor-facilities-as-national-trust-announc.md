@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Cinder Way
+- North Yorkshire
+- Old Coastguard Station
+- Ravenscar
+- Robin Hood
+- Robin Hood’s Bay
+- Whitby
+people: []
+organisations:
+- National Trust
+- Scarborough
 ---
 
 # Yorkshire coast to lose visitor facilities as National Trust announces closures

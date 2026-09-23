@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Bradford
+- Burnsall
+- Halifax
+- Hornsea
+- River Wharfe
+- Yorkshire Dales
+- Yorkshire Water
+people:
+- Abdi Zubeir
+- Alastair Harvey
+- Palwasha Akbar
+- Reco Puttock
+organisations:
+- Yorkshire Water
 ---
 
 # Yorkshire Water: Bank holiday warning over reservoir dips following tragedies

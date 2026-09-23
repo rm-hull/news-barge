@@ -11,6 +11,13 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- Texas
+people:
+- Dolly Parton
+- Donald Trump
+- Ted Cruz
+organisations: []
 ---
 
 # Ted Cruz’s Dolly Parton tribute backfires in an unexpected way

@@ -14,6 +14,60 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - History
+locations:
+- Cherrybrook
+- Epsom Road
+- Hills Shire
+- Icac
+- Lebanon
+- NSW
+- Nassif’s
+- Parramatta
+- Perrottet
+- Rosebery
+- Sydney
+people:
+- Anita Perrottet
+- Antony Anisse
+- Charles Perrottet
+- Christian Ellis
+- David Chandler
+- David Elliott
+- Dominic Perrotet
+- Dominic Perrottet
+- Eleni Petinos
+- Gladys Berejiklian
+- Greenwood
+- Helen
+- Jean Nassif
+- Jeremy [Greenwood
+- Matt Kean
+- Peggy Dwyer SC
+- Stuart Ayres
+- Toplace
+organisations:
+- Anita Perrottet
+- Anita’s
+- BP
+- Baulkham Hills
+- Beckington
+- CCTV
+- Catholic Cemeteries Trust
+- Greenwood
+- Greyhounds NSW
+- Hills Shire Liberal
+- Icac
+- Independent Commission Against Corruption
+- Independent Commission against Corruption
+- JPG Advisory
+- Liberals
+- Macquarie Consulting
+- NSW Liberal
+- Nassif
+- Nassif?
+- Petinos
+- Premier National
+- Toplace
 ---
 
 Finally, we are hearing from one of the central characters, Charles Perrottet, in a saga that has occupied the Independent Commission against Corruption (Icac) for nearly four years.

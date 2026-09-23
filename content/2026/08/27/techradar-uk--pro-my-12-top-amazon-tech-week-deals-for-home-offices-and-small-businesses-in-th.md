@@ -11,6 +11,24 @@ image: https://cdn.mos.cms.futurecdn.net/SUEtJdZdsSbpZuHdbPDvmF-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Jabra Evolve
+- Wayne Williams
+organisations:
+- Amazon
+- DPD
+- Dell
+- Epson
+- Evri
+- Jabra
+- Logitech
+- PC
+- Philips
+- Royal Mail
+- TechRadar Pro
+- Wayne Williams
 ---
 
 ![Amazon Tech Week Sale](https://cdn.mos.cms.futurecdn.net/SUEtJdZdsSbpZuHdbPDvmF.jpg) 

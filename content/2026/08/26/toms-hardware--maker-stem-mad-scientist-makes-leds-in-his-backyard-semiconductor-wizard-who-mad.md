@@ -11,6 +11,19 @@ image: https://cdn.mos.cms.futurecdn.net/PikPUcv6RA3z557bbHue6K-1080-80.png
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Bruno Ferreira
+- Matthew Hartensveld
+- Tom
+organisations:
+- Alibaba
+- Google News
+- HBM
+- PC
+- RAM
+- Tom's Hardware
+- eBay
 ---
 
 ![Homemade LED](https://cdn.mos.cms.futurecdn.net/PikPUcv6RA3z557bbHue6K.png) 

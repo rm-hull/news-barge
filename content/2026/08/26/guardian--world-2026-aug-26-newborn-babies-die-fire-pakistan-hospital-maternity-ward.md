@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Islamabad
+- Pakistan
+people:
+- Aneeza Jalil
+- Asif Ali Zardari
+- Mustafa Kamal
+- Shehbaz Sharif
+- Sohail Ashraf
+organisations:
+- Dawn
+- Pakistan Institute of Medical Sciences
 ---
 
 At least 14 newborn babies have died in a fire that broke out in the maternity ward at one of Pakistan’s most prominent state hospitals.

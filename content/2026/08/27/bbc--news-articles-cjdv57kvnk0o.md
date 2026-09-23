@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Australia
+- Champs-Élysées
+- Japan
+- Kusama
+- London
+- Louis Vuitton
+- Manchester
+- Massachusetts.
+- Melbourne
+- New York
+- Paris
+- Provincetown
+- Sydney
+- Tokyo
+- Venice Biennale
+- Washington DC
+people:
+- Julia Fox
+- Yayoi Kusama
+- Yayoi Kusama,who
+- Yoko Ono
+organisations:
+- Aviva Studios
+- Hirshhorn Museum
+- Kusama
+- Louis Vuitton
+- Museum of Modern Art
+- National Museum of Modern Art
+- Smithsonian Institute
+- Tate Modern
 ---
 
 **Using bright colours, shapes, patterns and reflections, Japanese artist Yayoi Kusama,who has died at the age of 97, was known for creating extraordinary immersive worlds that delighted millions of people around the globe.**

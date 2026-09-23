@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Britain
+- Brooklyn
+- Cardiff
+- Essex
+- Fitzalan
+- UK
+- Wales
+people:
+- Brooklyn Bryan
+- Caroline Bryan
+- Helen Wilson
+- However
+- Julian Peto
+- Linda Langhelt
+- Mum
+- Phillip Gower
+- Richard Green
+organisations:
+- BBC Wales
+- Cancer Research UK
+- Cardiff Council
+- Fitzalan High School
+- Freedom of Information
+- Health and Safety Executive
+- High Court
+- Hugh James Solicitors
+- Redkite Solicitors
+- Welsh Government
+- Ystadau Cymru
 ---
 
 'Mum died young from asbestos - now my family want justice'

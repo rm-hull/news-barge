@@ -13,6 +13,30 @@ categories:
 - Technology & Software
 - Hardware
 - Film & TV
+locations: []
+people:
+- Tom
+- Zak Killian
+organisations:
+- ASUS
+- CES
+- DPI
+- DQHD
+- G60H
+- G7
+- G75SJ
+- G80SJ
+- G95SJ
+- Get Tom's Hardware
+- Google News
+- HotHardware
+- OLED
+- Odyssey
+- PC
+- Samsung
+- The Tech Report
+- Tom's Hardware
+- Zak
 ---
 
 ![A render showing four upcoming Samsung Odyssey gaming monitors.](https://cdn.mos.cms.futurecdn.net/XSQPA95wqvih9ZaU6ftKAb.jpg) 

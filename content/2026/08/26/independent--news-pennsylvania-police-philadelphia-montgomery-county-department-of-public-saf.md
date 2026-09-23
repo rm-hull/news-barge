@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Atlanta
+- Concord
+- Glenwood Pysher IV
+- Montgomery County
+- New Hampshire
+- New Jersey
+- Pennsylvania
+- Philadelphia
+- Upper Pottsgrove Township
+people:
+- Al Werner
+- Brumback
+- Glen Pysher
+- ____ Ramer
+organisations:
+- FaceTime
+- Montgomery County Department of Public Safety
+- Montgomery County Detective Bureau
+- St. Elizabeth University
 ---
 
 A 22-year-old college student killed by Pennsylvania police responding to a possible burglary had just realized he was at the wrong home and was waiting for friends to come get him when he was shot, his father said Wednesday.

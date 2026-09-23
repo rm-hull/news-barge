@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Al Ettifaq
+- Al-Nassr
+people:
+- Abdulelah Al Amri
+- Ange Postecoglou
+- Bento
+- Cristiano Ronaldo
+- Georgina Rodriguez
+- Postegoclou
+- Sadio Mane
+organisations:
+- Al-Ettifaq.
+- Al-Nassr
+- Ange Postecoglou
+- Liverpool
+- Nottingham Forest
+- Tottenham
 ---
 
 ![Ange Postecoglou on the sidelines during Al-Nassr's 3-2 win at Al Ettifaq](https://ichef.bbci.co.uk/ace/standard/967/cpsprodpb/aec7/live/aa9a65e0-a135-11f1-9311-09d4e1fc9016.png)

@@ -13,6 +13,23 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Huddersfield Road
+- Long Road
+- Low Moor
+- New Works Road
+- Wyke
+- YOUR
+people:
+- Carol
+- Jerry Smith
+- Jo Singh
+- Jo Singh Man
+- Judy Woods
+organisations:
+- Birkby's Brickworks
+- Pie and Peas
+- Public Notice Portal
 ---
 
 ### What is the Public Notice Portal?

@@ -12,6 +12,39 @@ image: https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- AI
+- China
+- OpenAI
+- U.S.
+- Washington
+- White House
+people:
+- Clem Delangue
+- David Sacks
+- Hugging Face
+- Jensen Huang
+organisations:
+- Alphabet’s GV
+- Amazon
+- Anthropic
+- Business Insider
+- CNBC
+- DGX Cloud
+- Financial Times
+- Google
+- Hugging Face
+- Hugging Face —
+- IBM Ventures
+- Kimi K3
+- Moonshot AI
+- Nvidia
+- OpenAI
+- OpenRouter
+- Salesforce Ventures
+- Stripe
+- TechCrunch
+- The Information
 ---
 
 Nvidia has agreed to buy Hugging Face for $12.9 billion, The Information reported Wednesday night, citing a source familiar with the matter. Business Insider, which first reported over the weekend that Hugging Face was fielding takeover interest, reported Wednesday night that the talks — which would value the company at more than $13 billion — had not yet produced a signed agreement and could still atomize.

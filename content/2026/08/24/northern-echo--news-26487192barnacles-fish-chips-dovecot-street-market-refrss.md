@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Dovecot Street
+- Stockton
+- Stockton-on-Tees
+- TS18 1LH
+people: []
+organisations:
+- Barnacle’s Fish & Chips
+- Yorkshire Shepherdess
 ---
 
 A popular Stockton chippy could be yours for just £50,000.

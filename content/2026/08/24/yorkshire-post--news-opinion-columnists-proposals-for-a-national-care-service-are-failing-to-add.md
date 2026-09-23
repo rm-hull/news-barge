@@ -14,6 +14,17 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- England
+- UK
+people:
+- Andrea Egan
+- Andrew Matthews
+- Andy Burnham
+- Jayne Dowle
+- Shabana Mahmood
+organisations:
+- UNISON
 ---
 
 # Proposals for a national care service are failing to add up without international workers - Jayne Dowle

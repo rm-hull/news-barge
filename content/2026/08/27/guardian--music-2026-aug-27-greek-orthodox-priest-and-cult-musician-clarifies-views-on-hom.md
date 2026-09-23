@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Crete
+- Greece
+people:
+- Dionysios Tabakis
+- Hitler
+organisations:
+- Guardian
+- Heat Crimes
+- New York Times
+- Orthodox Christian WordPress
+- Pitchfork
 ---
 
 A Greek Orthodox priest whose home-recorded album of drone metal and religious dubstep has made him a cult figure in experimental music circles has issued a statement in which he has clarified his stance on homosexuality and the Greek radical right.

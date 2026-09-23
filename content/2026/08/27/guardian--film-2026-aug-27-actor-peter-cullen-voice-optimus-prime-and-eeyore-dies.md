@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Hollywood
+- King Kong
+- Los Angeles
+- Vietnam
+people:
+- Arnold Schwarzenegger
+- Eeyore
+- Larry
+- Michael Bay
+- Optimus Prime
+- Peter Cullen
+- Shia LaBeouf
+organisations:
+- Autobots
+- Canadian TV
+- IGN
+- KITT
+- NPR
+- Optimus Prime
+- Optimus Prime in Transformers
+- The Sonny & Cher Show
+- Transformers TV
+- US Marine Corps
+- Winnie the Pooh
 ---
 
 Peter Cullen, the actor behind the voice of characters including Eeyore in Disney’s Winnie the Pooh franchise and Optimus Prime in Transformers, has died aged 85.

@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- China
+- South Carolina
+- Taiwan
+- U.S.
+people:
+- Darline Graham
+- Donald Trump
+- Lindsey Graham
+- Nikki Haley
+- Ralph Norman
+organisations:
+- Democratic Party
+- Senate
+- Super PAC MAGA Inc
+- The Associated Press
 ---
 
 Supporters of a losing Republican Senate candidate have booed Donald Trump during his concession speech.

@@ -16,6 +16,35 @@ categories:
 - News & Politics
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- DC
+- DavidGilbert.01
+- Phillips
+- US
+- Waffle House
+- White House
+people:
+- Catherine Engelbrecht
+- Donald Trump
+- Ed Martin
+- Gregg Phillips
+- Haters
+- Phillips’
+- 'True'
+organisations:
+- CIR
+- Center for Investigative Reporting
+- Department of Justice
+- FEMA
+- Federal Emergency Management Agency
+- Heritage Foundation
+- Office of Response and Recovery
+- Phillips’
+- TTV
+- True the Vote
+- Trump
+- Truth Social
+- WIRED
 ---
 
 Gregg Phillips, an election denier who once claimed he teleported to a Waffle House, says he is still working in the Trump administration, after he was reportedly removed from his influential role overseeing the Federal Emergency Management Agency’s emergency response efforts in June.

@@ -12,6 +12,63 @@ categories:
 - UK
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Argentina
+- Brazil
+- Frankfurt
+- Iran
+- London
+- Menlo Park
+- Oman
+- Paris
+- Peru
+- Strait of Hormuz
+- Tehran
+- UK
+- US
+- Wall Street
+people:
+- David Morrison
+- Hochschild
+- James Knightley
+- Russ Mould
+organisations:
+- 3i Group
+- AIM All-Share
+- AJ Bell
+- Alliance News
+- AstraZeneca
+- Autotrader
+- BP
+- Bank of America
+- British American Tobacco
+- Compass
+- Densitron
+- Deutsche Bank Numis
+- Facebook
+- FactSet
+- Federal Reserve
+- Hochschild Mining
+- Howden Joinery
+- IG Group
+- ING
+- Instagram
+- Intuit
+- JD Sports Fashion
+- Kansas City Fed
+- Macfarlane Group
+- Meta Platforms
+- Nexteq
+- Nvidia
+- PPHE Hotel Group
+- Park Plaza
+- QuickBooks
+- Sage Group
+- Shell
+- Softcat
+- Standard Chartered
+- Trade Nation
+- Treasury
 ---
 
 London’s FTSE 100 faded into the close on Wednesday, posting modest losses, as a strong US inflation print knocked sentiment ahead of Nvidia earnings.

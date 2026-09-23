@@ -13,6 +13,60 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- California
+- Dawson’s Creek
+- France
+- Garbage
+- Himalayas
+- Israel
+- Kathmandu
+- Kremlin
+- Langtang
+- Moscow
+- NYC
+- Nepal
+- Nepal-Tibet
+- New York
+- Texas
+- Tibet
+- US Capitol
+- Ukraine
+- Wall Street
+- White House
+people:
+- Arturo Béjar
+- Busy Philippshas
+- CJ Mahoney
+- Chappell Roan
+- David Hittner
+- Dmitry Peskov
+- Donald Trump
+- Eli
+- Glenn Beck
+- Jack Klein
+- James Van Der Beek
+- Jensen Huang
+- Jensen Huang.
+- Johana Bhuiyan
+- John Ratcliffe
+- Khalid
+- Mohammed
+- Nick Robins-Early
+- Olivia Rodrigo
+- Paige Triola
+- Shirley Manson
+organisations:
+- AI
+- CIA
+- Facebook
+- Instagram
+- Meta
+- Nvidia
+- Olivia Rodrigo-curated Daisy Chain Fields
+- Pentagon
+- Snap
+- TikTok
 ---
 
 Good morning. Meta has agreed to significant changes to its Instagram and Facebook apps in a settlement that ended a landmark lawsuit. The agreement curtails a major trial in California and will require the social media company to pay up to $18bn. Meta agreed to establish safeguards for teenage users, including daily usage limits and blocks on night-time use nationwide in the US.

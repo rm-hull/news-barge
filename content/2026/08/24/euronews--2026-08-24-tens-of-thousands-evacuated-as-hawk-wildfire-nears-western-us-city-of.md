@@ -13,6 +13,23 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Australia
+- California
+- Lake Tahoe
+- New Zealand
+- Reno
+- Sierra Nevada
+- US
+- Washoe County
+people:
+- Hillary Schieve
+- Joe Lombardo
+- Richard Edwards
+organisations:
+- CNN
+- Hawk Fire
+- InciWeb
 ---
 
 ## No deaths have been reported, but at least six people have been injured, including three first responders, with several mountaintop houses destroyed, according to local media.

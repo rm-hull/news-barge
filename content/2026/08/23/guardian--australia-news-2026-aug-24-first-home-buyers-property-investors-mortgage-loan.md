@@ -15,6 +15,34 @@ categories:
 - Personal Finance & Investing
 - Real Estate
 - Business & Entrepreneurship
+locations:
+- Adelaide
+- Australian Capital Territory
+- Geelong
+- Hobart
+- Melbourne
+- NSW
+- New South Wales
+- Perth
+- Queensland
+- South Australia
+- Tasmania
+people:
+- Anthony Albanese
+- Clare O’Neil
+- Peter Esho
+organisations:
+- 13x
+- ABS
+- ANZ
+- Australian Bureau of Statistics
+- Cotality
+- Guardian Australia
+- Helia
+- Housing Australia
+- LMI
+- Labor
+- Loan Market
 ---
 
 First home buyers are still taking out a large number of loans, with government backing, even as investors step back from Australia’s property market.

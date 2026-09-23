@@ -12,6 +12,28 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations: []
+people:
+- AI
+- Christian Cawley
+- Daniel Ek
+- Dario Amodei
+- David Senra
+- OpenAI
+- Sam Altman
+- Spotify
+organisations:
+- AI**
+- Altman
+- Anthropic
+- Chinese AI
+- Computer Weekly
+- ComputerActive
+- Google News
+- Linux Format
+- Matter Alpha
+- OpenAI
+- TechRadar Pro
 ---
 
 ![Sam Altman/Photo Agency](https://cdn.mos.cms.futurecdn.net/3Bk9NDKZ5ot8CWHYtH4qGk.jpg) 

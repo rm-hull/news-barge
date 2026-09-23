@@ -13,6 +13,45 @@ image: https://static.independent.co.uk/2026/08/21/12/download.-3.?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Africa
+- Bundibugyo
+- Bunia
+- Burundi
+- Central African Republic
+- DRC
+- Democratic Republic of Congo
+- Ebola
+- France
+- Ituri
+- Kigonze
+- North Kivu
+- South Sudan
+- UK
+- Uganda
+people:
+- Abdoule-Karim Diomande
+- Javid Abdelmoneim
+- Julien Harneis
+- Manenji Mangundu
+- Oxfam
+- Rory Stewart
+- Sarah Chieh-Wen Chiang
+organisations:
+- BBC Radio 4
+- DRC
+- Danish Refugee Council
+- ICRC Head of Programmes
+- International Committee of the Red Cross
+- MSF
+- Médecins Sans Frontières
+- Oxfam
+- The Independent
+- USAID
+- United Nations
+- United States Agency for International Development
+- WHO
+- World Health Organisation
 ---
 
 One hundred days into the Ebola outbreak in the Democratic Republic of Congo (DRC), the response is still struggling to keep pace as the virus overwhelms the systems trying to contain it.

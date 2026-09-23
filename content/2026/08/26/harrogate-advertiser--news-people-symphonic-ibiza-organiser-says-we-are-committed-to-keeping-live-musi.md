@@ -12,6 +12,37 @@ categories:
 - Local
 - Harrogate
 - Music
+locations:
+- Barnsley
+- Great Yorkshire Showground
+- Harrogate
+- Ibiza
+- Leeds
+- Manchester
+people:
+- Alison Limerick
+- Beth Gore
+- Chas Dingle
+- DJ Alex Bowen
+- Freddy White
+- Heather Small
+- Joe McElderry
+- Kym Sims
+- Lucy Pargeter
+- Rebecca Ferguson MBE
+- Ruby Jayne
+- Sam Ashby
+- Vernon Kay
+organisations:
+- BBC Radio 2
+- Christine Talbot ITV News
+- Emmerdale
+- Great Yorkshire Showground
+- Harrogate Harrogate
+- House
+- Smashby
+- Symphonic Ibiza
+- X Factor
 ---
 
 # Symphonic Ibiza organiser says 'we are committed to keeping live music at the Great Yorkshire Showground in Harrogate'

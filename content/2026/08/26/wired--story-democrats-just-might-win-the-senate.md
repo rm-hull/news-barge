@@ -14,6 +14,49 @@ categories:
 - Science
 - News & Politics
 - Society & Culture
+locations:
+- Alaska
+- America
+- Canada
+- Georgia
+- Iran
+- Maine
+- Michigan
+- North Carolina
+- Ohio
+- Texas
+- US
+people:
+- Abdul El-Sayed
+- Chuck Schumer
+- Dan J. Sullivan
+- Dan S. Sullivan
+- Donald Trump
+- Elon Musk
+- George W. Bush
+- Graham Platner
+- James Talarico
+- Jon Husted
+- Ken Paxton
+- Mary Peltola
+- Michael Whatley
+- Roy Cooper
+- Sherrod Brown
+- Susan Collins
+- Troy Jackson
+organisations:
+- AI
+- Cook Political Report
+- Emerson College
+- FEC
+- Hugo Lowell’sInner Loop
+- PAC
+- Paxton
+- Republican National Committee
+- Reuters/Ipsos
+- Senate
+- WIRED
+- YouGov
 ---
 
 With primary elections in the key 2026 battleground states largely complete, Democrats have emerged with several open paths to take the majority in the US Senate.

@@ -14,6 +14,43 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- North East
+- UK
+people:
+- Evans
+- Iain Nairn
+- Leonard Curtis
+- Roxoa
+- Sean Williams
+organisations:
+- Accell Group
+- Aldi, M&S
+- Ascend Airways
+- Bail & Stone
+- Beefeater
+- Bodycare
+- British Heart Foundation
+- Claire's
+- EcoJet Airlines
+- European Cargo
+- Gold Boutique
+- InPost
+- LK Bennett
+- Leading Labels
+- Morrisons
+- North Yorkshire
+- QP Jewellers
+- Quiz
+- Raleigh
+- Roxoa
+- Ruby & Oscar
+- Superdrug
+- TG Jones
+- The Gazette
+- Whitbread
+- Yodel
+- Zenith Aviation Limited
 ---
 
 *(Image: Getty Images)*

@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Billingham
+- Depot Road
+- Leeds
+- Port of Middlesbrough
+- Quarry Hill
+- Quarry House
+- Stockton
+- TS2 1LE
+- Wynyard
+- YOUR
+people: []
+organisations:
+- Davies & Sons Transport Limited
+- Dawson Transport Limited
+- LS2
+- Public Notice Portal
+- TS22 5SN
+- The Northern Echo
+- Traffic Commissioner
 ---
 
 *(Image: Supplied)*

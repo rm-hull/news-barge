@@ -14,6 +14,24 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford
+- Dover
+- Eritrea
+- PA
+- UK Territorial Waters
+- United Kingdom
+people:
+- Colin Burn
+- Gareth Fuller
+- Idris Abdu
+organisations:
+- Bradford Crown Court
+- English Channel
+- Home Office
+- RHIB
+- Rigid Hull Inflatable Boat
+- Tigrigna
 ---
 
 *(Image: Gareth Fuller/PA)*

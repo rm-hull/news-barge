@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Durham
+- England
+- SEDGEFIELD
+- Station Road
+people: []
+organisations:
+- CCTV
+- CSI
+- Durham Police
+- ECB
+- Sedgefield Cricket Club
+- The Northern Echo
 ---
 
 *(Image: SEDGEFIELD CRICKET CLUB)*

@@ -13,6 +13,30 @@ image: https://images.euronews.com/articles/stories/09/88/86/30/1200x675_cmsv2_b
 categories:
 - Europe
 - News & Politics
+locations:
+- Armenia
+- Kremlin
+- Moscow
+- Russia
+- West
+- Yerevan
+people:
+- Alexander Iskandaryan
+- Bagrat Mikoyan
+- Dmitry Peskov
+- Levon Kocharyan
+- Nikol Pashinyan
+- Robert Kocharyan
+- Samvel Karapetyan
+- Sedrak
+- Serzh Sargsyan
+- Vladimir Putin
+organisations:
+- Anti-Corruption Committee
+- Armenia Alliance
+- Caucasus Institute
+- European Union
+- Tashir Group of Companies
 ---
 
 ## Robert Kocharyan, who leads the Moscow-friendly opposition and maintains close ties with Putin, was detained alongside his son and four others in raids on family businesses. Analysts say the move sent "a signal to the Kremlin" about Pashinyan's intent to confront Russian-aligned political forces.

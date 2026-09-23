@@ -14,6 +14,40 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- CLEVELAND
+- Foxrush Close
+- Micklow Close
+- Middlesbrough
+- Middlesbrough**
+- Redcar
+- South Bank
+- Teesside Coroner’s Court
+- Teesside Crown Court
+- Teesside Magistrates' Court
+people:
+- Cameron George
+- Cole Robert Worthy
+- Dad
+- Jacob Matusiak
+- Kai Beattie
+- Makai Saddington
+- Matt
+- Matthew Blades
+- Michael Robert Cahill
+- Owen Humphreys
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- Cleveland Police
+- Cleveland Police Federation
+- Cleveland Police HQ
+- IOPC
+- Independent Office for Police Conduct
+- PC Blades
+- PC Clough
+- Passat
 ---
 
 Tributes continue to pour in for the two "hero" police officers whose lives were cut short after a horror crash on the A66.

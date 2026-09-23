@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- East Yorkshire
+- Fridaythorpe
+- Garrowby Hill
+- Garrowby Street
+- North Yorkshire
+- Pocklington
+- York Road
+people: []
+organisations:
+- Humberside Police
 ---
 
 *(Image: North Yorkshire Police)*

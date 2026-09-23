@@ -14,6 +14,26 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Georgia
+- Israel
+- New York City
+- U.S.
+- United States of America
+- Washington
+people:
+- Hunter Biden
+- Joe Biden
+- Netanyahu
+- Rudy Giuliani
+- Tucker Carlson
+organisations:
+- Dominion Voting Systems
+- Fox News
+- Newsmax
+- The Independent
+- The New York Post
+- Trump
 ---
 
 Former Trump lawyer and New York City mayor Rudy Giuliani is threatening to sue Tucker Carlson and Hunter Biden over a recent podcast interview about the Biden laptop scandal.

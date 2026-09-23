@@ -14,6 +14,16 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Ohio
+- US
+people:
+- Jed York
+organisations:
+- Leeds United
+- NFL
+- Rangers
+- San Francisco 49ers
 ---
 
 # Leeds United and Rangers co-owner Jed York sentenced to two days in US jail

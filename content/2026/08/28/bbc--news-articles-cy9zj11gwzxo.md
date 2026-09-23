@@ -11,6 +11,31 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b39/live/e5d601
 categories:
 - UK
 - News & Politics
+locations:
+- Ceuta
+- Melilla
+- Morocco
+- North Africa
+- Rabat
+- Spain
+- Trampolin
+- Trampolín
+people:
+- Fernando Grande-Marlaska
+- Javier Celaya
+- José Manuel Albares
+- José María Figaredo
+- Juan Jesús Vivas
+- Margarita Robles
+- Pedro Sánchez
+organisations:
+- Antena 3
+- Congress
+- PP
+- People's Party
+- Red Cross
+- Socialist Party
+- Vox
 ---
 
 ![Spanish armed police with riot shields on Trampolin beach, Ceuta, as anti-migrant protesters set fire to a migrant camp there. Their faces are blurred. Smoke can be seen rising in the air.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0b39/live/e5d60180-a2f9-11f1-8d5b-155abe464768.jpg)

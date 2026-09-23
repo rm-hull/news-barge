@@ -13,6 +13,27 @@ categories:
 - Local
 - Harrogate
 - Arts & Culture
+locations:
+- Harrogate
+- Ripley Castle
+people:
+- Andrew Harvey
+- Elena Race
+- Gerard Binks
+- Gracie Hartley
+- Mind
+- Nidhi Kothari
+- Tommy the
+organisations:
+- Elena Race
+- Harrogate Food Festival
+- Harrogate Food and Drink Festival
+- Ian's Mobile Farm
+- Picture Gerard Binks
+- Racey Cakes
+- Ripley Castle
+- Ripley Castle Nidhi Kothari
+- Tealicious NK
 ---
 
 Located amid the beautiful backdrop of the castle, the two-day event had something for everyone, from The Foodie Olympics to live demos by celebrity chefs, independent street food vendors and bars, as well as new stages, live music, fun rides and family entertainment.

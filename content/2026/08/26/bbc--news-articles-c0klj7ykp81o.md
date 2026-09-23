@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Alaska
+- Kremlin
+- Kyiv
+- Moscow
+- Russia
+- US
+- Ukraine
+- Washington
+- White House
+people:
+- '** Ratcliffe'
+- Dmitry Peskov
+- Donald Trump
+- John Foreman
+- John Ratcliffe
+- Steve Rosenberg
+- Vladimir Putin
+- William Burns
+organisations:
+- BBC News
+- CBS
+- CIA
+- Central Intelligence Agency
+- Pentagon
+- Peskov
+- Radio 4
+- Rossiyskaya Gazeta
+- US Central Intelligence Agency
 ---
 
 ![Director of the Central Intelligence Agency (CIA) John Ratcliffe](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/7061/live/1bd005c0-a141-11f1-9311-09d4e1fc9016.jpg)

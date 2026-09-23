@@ -11,6 +11,33 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Australia
+- Valkyrie
+- Wembley
+- York
+people:
+- Clint Goodchild
+- David Dickson
+- Elliott
+- Neil Gulliver
+- Richard Larking
+- York
+organisations:
+- Betfred Women’s Super League
+- Garbutt
+- Nunthorpe Grammar
+- Rugby Football League
+- Science City York
+- Shepherd Group
+- St Leonard’s Hospice
+- Super League
+- University of York
+- York Knights
+- York Knights’
+- York RLFC
+- York Valkyrie
+- Yorkshire Family
 ---
 
 New owners are in charge at York RLFC.

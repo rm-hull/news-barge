@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- East Midlands Railway
+- Leeds
+- London King's Cross
+- London King’s Cross
+- London St Pancras
+- Nottingham
+- Peterborough
+- Sheffield station
+people:
+- Eddie Dempsey
+- Philippa Cresswell
+organisations:
+- EMR
+- Hitachi
+- LNER
+- Network Rail
+- RMT
+- Rail, Maritime and Transport union
 ---
 
 # Train operator warns of bank holiday weekend disruption as workers stage walkout

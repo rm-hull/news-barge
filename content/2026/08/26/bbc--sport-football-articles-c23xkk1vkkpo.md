@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- Basingstoke
+- Berkshire
+- England
+- Hampshire
+- Lamborghini
+- M3
+- Minley Interchange
+people:
+- Chelsea
+- Raheem Sterling
+organisations:
+- Arsenal
+- BBC Sport
+- Chelsea
+- Feyenoord
+- Hampshire & Isle of Wight Constabulary
+- Lamborghini
+- Liverpool
+- Manchester City
+- Sterling
 ---
 
 ![Raheem Sterling in a Feyenoord club shirt](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/225a/live/77b8e540-a0ca-11f1-ad58-4d48ded76db6.jpg)

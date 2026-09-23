@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- Ilkley
+- Little Lane
+- Little Lane Taproom
+- Nick Helliwell
+people:
+- Emma Lishman
+- Ilkley
+- James Rudge
+- Nick Helliwell
+organisations:
+- Bini Brew Co
+- Bini Dough Co
+- Bini Fest
+- LS29 8HX
+- Taproom
 ---
 
 FRESHLY baked sourdough pizzas and stuffed dough balls are on the menu at a new kitchen launching this Bank Holiday weekend.

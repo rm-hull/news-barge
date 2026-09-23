@@ -14,6 +14,19 @@ categories:
 - UK
 - True Crime
 - Society & Culture
+locations:
+- Chippewa County
+- Chippewa Falls
+- Valley Vineyard Church
+- Wisconsin
+people:
+- Alicia Linzmeier
+- Carson Peters-Berger
+- Iliana “Lily” Peters
+- Michael Cohen
+- Peters'
+- Steven Gibbs
+organisations: []
 ---
 
 A teenager has been sentenced to life in prison after pleading guilty on Wednesday to the 2022 murder of his 10-year-old cousin in Wisconsin.

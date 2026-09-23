@@ -13,6 +13,20 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Atlantic Salmon
+- Kew Gardens
+- UK
+people:
+- Charles III
+- Elizabeth II
+- Martin Jennings
+- Peter Rabbit
+organisations:
+- Ben & Jerry's
+- HMRC
+- Kennedy News & Media
+- Royal Mint
 ---
 
 ## Rare £2 coin with fried egg error sells for more than 67 times its face value

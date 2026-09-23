@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Bromley Magistrates’ Court
+- East Ham
+- London
+- Nissan Duke
+- Range Rover
+- St Bartholomew’s Road
+people:
+- Dan Whitten
+- Masum Miah
+- Sergiu Leahu
+organisations:
+- Crimestoppers
+- DCI Whitten
+- Metropolitan Police
 ---
 
 A man has been charged with murder after another man was fatally shot in east London.

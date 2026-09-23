@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- C36
+- County Durham
+- Darlington
+- Lovesome Hill
+- Newsquest
+- North Yorkshire
+- Northallerton
+- Palms Hall Bungalow
+- Peterlee Magistrates' Court
+people:
+- Stuart Walker
+- Thomas Alderson
+organisations:
+- Toyota
 ---
 
 *(Image: Stuart Walker/Newsquest)*

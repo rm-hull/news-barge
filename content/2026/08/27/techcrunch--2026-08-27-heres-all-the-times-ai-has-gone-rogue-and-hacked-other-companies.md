@@ -12,6 +12,24 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/open-ai-chatgpt-anthrop
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- U.K.
+people:
+- '**Claude'
+- Gee
+- Hugging Face
+- Modal
+- OpenAI
+organisations:
+- ABC Australia
+- AI Security Institute
+- AISI
+- Anthropic AI
+- Irregular
+- Meta AI
+- OpenAI
+- Reuters
+- U.K.’s AI Security Institute
 ---
 
 In July, OpenAI admitted that one of its agents tasked with completing a cybersecurity experiment broke out of containment and hacked AI dataset platform Hugging Face. That incident, which got a full accounting from OpenAI yesterday, was the first publicly reported case where an LLM went rogue and autonomously hacked a third party.

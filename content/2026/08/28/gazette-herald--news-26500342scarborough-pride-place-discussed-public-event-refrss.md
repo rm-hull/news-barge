@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Scarborough
+- The Street
+people:
+- Heath Samples
+organisations:
+- Scarborough Neighbourhood Board
 ---
 
 *(Image: Supplied)*

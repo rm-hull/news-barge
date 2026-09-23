@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Food & Cooking
+locations:
+- Fodder Café
+- Great Yorkshire Showground
+- Harrogate
+- Main Ring
+people:
+- Leesa Collinge
+- Romi Foxx
+- Vanessa Pitt
+organisations:
+- Coffee Brothers
+- Fodder
+- Harrogate
+- Rant & Ramble
 ---
 
 A coffee-fuelled morning rave is set to bring music, movement and connection to Harrogate.

@@ -12,6 +12,14 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Chain Bar
+- Gildersome
+- Leeds
+- M62
+people: []
+organisations:
+- Highways England Motorway Cameras
 ---
 
 *(Image: Highways England Motorway Cameras)*

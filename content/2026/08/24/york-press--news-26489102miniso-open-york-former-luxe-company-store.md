@@ -12,6 +12,11 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Coney Street
+- York
+people: []
+organisations: []
 ---
 
 ## Major retailer promising 'endless fun and excitement' opens in York on Friday

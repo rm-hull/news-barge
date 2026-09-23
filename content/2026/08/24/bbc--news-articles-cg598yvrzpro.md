@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - Sports
 - Business & Entrepreneurship
+locations:
+- Adygea
+- Adygeysk
+- Amazon
+- Dagestan
+- Krasnodar
+- Kremlin
+- Makhachkala
+- Moscow
+- Nevinnomyssk
+- Odesa
+- Orenburg
+- Ozon
+- Russia
+- Russia.
+- Samara
+- Stavropol
+- Ukraine
+people:
+- Maria Lvova-Belova
+- Oleg Kiper
+- Ozon
+- Vladimir Putin
+organisations:
+- AFK Sistema
+- Amazon
+- BBC
+- Kyiv
+- Moscow Exchange
+- Ozon
+- Pandora
+- Telegram
+- Wildberries
 ---
 
 ![A screengrab from a video on social media showing flames rise from an Ozon facility following a Ukrainian drone strike in Makhachkala, Dagestan, Russia.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f16b/live/039a8ff0-9fa4-11f1-bff6-57f1422ebb0b.jpg)

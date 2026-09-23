@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Lhende River
+- Nepal
+- Rasuwagadhi
+- Sussex
+- Tibet
+- Uckfield
+people:
+- Pramod Poudel
+organisations:
+- BBC Radio Sussex
 ---
 
 A Sussex man has said he has not heard from his wife, mother, father, brother, and uncle in Nepal since the country was hit by a devastating flash flood.

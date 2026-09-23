@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Science
+locations: []
+people:
+- Daniel Daneshvar
+- Danshvar
+organisations:
+- British Medical Journal
+- CTE
+- Harvard Medical School
+- NFL
 ---
 
 ![Brain scans of a former NFL player who was diagnosed with CTE](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/549e/live/2fb714c0-a088-11f1-bfeb-dfb02ea642ef.jpg)

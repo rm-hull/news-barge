@@ -11,6 +11,15 @@ image: https://cdn.mos.cms.futurecdn.net/TaxPLZc75WiicpmgZNzWzL-2560-80.jpg
 categories:
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- AI
+people: []
+organisations:
+- AI
+- Flexera
+- Future plc
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A woman out of focus in the background touches the word AI, lit up in glowing yellow light, in the foreground. The woman is wearing smart glasses](https://cdn.mos.cms.futurecdn.net/TaxPLZc75WiicpmgZNzWzL.jpg) 

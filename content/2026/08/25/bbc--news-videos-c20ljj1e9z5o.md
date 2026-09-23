@@ -12,6 +12,13 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Tennessee
+people:
+- Dolly Parton
+- Michael Parkinson
+organisations:
+- BBC
 ---
 
 # 'We used flour for powder' - Dolly reflects on early life in 1979 BBC interview

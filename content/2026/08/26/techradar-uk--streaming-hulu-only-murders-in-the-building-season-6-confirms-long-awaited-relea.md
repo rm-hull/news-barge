@@ -12,6 +12,32 @@ image: https://cdn.mos.cms.futurecdn.net/6VPsLQjta8qhTdVHXQiYcS-1920-80.jpg
 categories:
 - Technology & Software
 - Lifestyle & Fashion
+locations:
+- London
+- Paris
+- Rome
+- US
+- Virgin River
+people:
+- Charles
+- Cinda Canning
+- Emily
+- George Cooper Sr.
+- Lily Collins
+- Mabel
+- Nicola Coughlan
+- Oliver
+- Olivia Colman
+organisations:
+- Disney
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Charles, Mabel and Oliver have tea on a sofa](https://cdn.mos.cms.futurecdn.net/6VPsLQjta8qhTdVHXQiYcS.jpg) 

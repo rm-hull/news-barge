@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Careers & Productivity
+locations:
+- England
+- Wales
+people:
+- Josh Felber
+organisations:
+- DWP State Pension
+- FLBR Motorsport
+- Home Bargains
+- St Michael
+- Tesco
+- Waitrose
 ---
 
 *(Image: Getty Images)*

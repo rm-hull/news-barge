@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Enumclaw
+- Forest Grove
+- Oregon
+- Portland
+- Seattle
+- US
+- Washington county
+people:
+- Benjamin Charles Parker
+- Caprice Massey
+- Shannon Wilde
+organisations:
+- Associated Press
+- Gun Violence Archive
+- Reuters
 ---
 
 A man suspected of killing five people in rural Oregon was found dead in a suspected suicide, local law enforcement officials said on Sunday.

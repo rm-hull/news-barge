@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Aude
+- Bordeaux
+- Europe
+- French Pyrenees
+- Grenoble
+- Grenoble. France
+- Isere
+- Marseille
+- Nice
+- Paris
+- Pomas
+- Toulouse
+people:
+- Philippe Tabarot
+organisations:
+- AFP
+- Météo-France
 ---
 
 Moment tornado tears through southern France

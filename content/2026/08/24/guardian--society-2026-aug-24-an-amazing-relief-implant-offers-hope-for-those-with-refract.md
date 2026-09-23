@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- England
+- London
+- Royal Brompton
+- Scotland
+people:
+- Angina
+- Cristian Jensen
+- Kevin Cheng
+- Ranil de Silva
+- Sonya Babu-Narayan
+- de Silva
+organisations:
+- British Heart Foundation
+- NHS
 ---
 
 “It’s an amazing relief, both physically and emotionally, to be able to live my life again normally, without feeling that I’m limited all the time in what I can do.”

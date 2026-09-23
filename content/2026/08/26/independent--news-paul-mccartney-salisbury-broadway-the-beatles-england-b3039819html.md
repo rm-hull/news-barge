@@ -15,6 +15,33 @@ categories:
 - History
 - Arts & Culture
 - Travel
+locations:
+- America
+- Broadway
+- England
+- Montana
+- Superior
+- U.S.
+- United States
+- White House
+people:
+- Gideon
+- God
+- Lori Anne Ferrell
+- Paul McCartney
+- Richard Nixon
+- Rocky Raccoon
+- Timothy K. Beal
+organisations:
+- AP
+- Associated Press
+- Ford Motor Co.
+- Gideon Bibles
+- Gideons International
+- Lilly Endowment Inc
+- Model T
+- The Beatles
+- The Conversation US
 ---
 
 “Rocky Raccoon checked into his room, only to find Gideon’s Bible.”

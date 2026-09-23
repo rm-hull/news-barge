@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Aldi
+- Julie Ashfield
+organisations:
+- '## Aldi August Specialbuys'
+- Aldi UK
+- Hot Air Multistyler
+- Lidl
+- Watchdog
 ---
 
 *(Image: Aldi)*

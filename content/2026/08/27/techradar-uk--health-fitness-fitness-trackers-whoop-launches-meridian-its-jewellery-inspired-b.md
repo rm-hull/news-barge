@@ -11,6 +11,21 @@ image: https://cdn.mos.cms.futurecdn.net/ArgdRMm2V5aDdWQQFcewRi-541-80.jpg
 categories:
 - Technology & Software
 - Lifestyle & Fashion
+locations:
+- Cardiff
+- Meridian
+people:
+- Matt Evans
+organisations:
+- Apple
+- Fitbit Luxe
+- Google News
+- Hermes
+- Men's Health
+- Meridian
+- Runner's World
+- TechRadar
+- Whoop MG
 ---
 
 ![Whoop Meridian bands](https://cdn.mos.cms.futurecdn.net/ArgdRMm2V5aDdWQQFcewRi.jpg) 

@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Dekara
+- Hausa
+- Niger State
+- Nigeria
+people:
+- Abdulmutallib Muqaddas Dindi
+- Ibrahim Abubakar
+- Jamilu Ibrahim
+organisations:
+- Facebook
+- Reuters
 ---
 
 An armed group has posted a video showing what residents said were about 600 women, children and older people abducted in an attack on a mosque in Nigeria’s north-central Niger State last week.

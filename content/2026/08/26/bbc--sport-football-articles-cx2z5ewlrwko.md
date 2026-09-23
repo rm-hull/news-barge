@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Brighton
+- City
+- Egypt
+- Etihad Stadium
+- Frankfurt
+- Haaland
+- London
+- Newcastle
+- West Ham
+people:
+- Andy Robertson
+- Dominic Solanke
+- Erling Haaland
+- Jan Paul van Hecke
+- Marcos Senesi
+- Martin Dubravka
+- Mateus Fernandes
+- Omar Marmoush
+- Richarlison
+- Roberto de Zerbi
+- Sandro Tonali
+- Savio
+organisations:
+- Arsenal
+- Bournemouth
+- Eintracht Frankfurt
+- Manchester City
+- Spurs
+- Tottenhamhave
 ---
 
 ![Manchester City forward Omar Marmoush](https://ichef.bbci.co.uk/ace/standard/949/cpsprodpb/d37f/live/a0422f70-a125-11f1-92eb-a9b3bbcf6f4a.jpg)

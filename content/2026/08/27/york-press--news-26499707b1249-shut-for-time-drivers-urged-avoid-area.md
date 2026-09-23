@@ -12,6 +12,14 @@ categories:
 - York
 - Travel
 - Automotive
+locations:
+- B1249
+- Dave Cox
+- North Yorkshire
+- Staxton Hill
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 ## Main road in North Yorkshire to be shut 'for some time' after crash

@@ -14,6 +14,31 @@ categories:
 - York
 - Sports
 - Lifestyle & Fashion
+locations:
+- America
+- Gatwick
+- Greece
+- Mark Warner
+- Mark Warner Paleros Beach Resort
+- Mytikas
+- PA
+- Palairos
+- Paleros Beach Resort
+- Pogonia
+- Turkey
+- UK
+people:
+- Freddie Fellows
+- John
+- Lauren Taylor
+- Mark Warner
+- Mark Warner.
+- Seren
+organisations:
+- Disney
+- LTA
+- Mark Warner
+- Mark Warner Paleros Beach Resort
 ---
 
 **Lauren Taylor visits the Ionian coast to play the fast-growing sport and explore the local area.**

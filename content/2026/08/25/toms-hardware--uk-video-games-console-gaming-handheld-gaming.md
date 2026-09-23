@@ -12,6 +12,17 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- China
+people:
+- Dante Leoncini
+organisations:
+- Asus
+- Get Tom's Hardware
+- Lenovo
+- MSI
+- Symbian
+- gamescom
 ---
 
 ![Asus ROG Xbox Ally X2](https://cdn.mos.cms.futurecdn.net/VFZAGkPfiuEJKYKtdJdhXK-320-80.png)

@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Europe
+- Germany
+- Malaysia
+- Norway
+- Oslo University Hospital
+- Palace Square
+people:
+- Astrid
+- Friedrich Merz
+- Harald V
+- Jeffrey Epstein
+- Jonas Gahr Støre
+- Marius Borg Høiby
+- Mette-Marit
+- Prince Haakon
+- Sonja
+organisations:
+- Oslo University Hospital
 ---
 
 ![Crown Prince Haakon of Norway (R) and Crown Princess Mette-Marit of Norway sit in a car as they arrive at the Oslo University Hospital](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/06e5/live/35ac1170-a1f3-11f1-bf30-b9c45f18ad85.png)

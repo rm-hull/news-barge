@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Australia
+people:
+- Brendan Rynne
+- My Bui
+- Phil O’Donaghoe
+organisations:
+- ABS
+- AMP
+- Australian Bureau of Statistics
+- Deutsche Bank
+- KPMG
+- NAB
+- RBA
+- Reserve Bank
 ---
 
 Fears are growing that the Reserve Bank will hit millions of mortgage holders with a fourth rate hike this year, after inflation eased in July but by far less than expected.

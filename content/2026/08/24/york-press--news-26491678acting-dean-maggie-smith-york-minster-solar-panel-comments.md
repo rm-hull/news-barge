@@ -13,6 +13,27 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Britain
+- Chapter of York
+- Humber
+- Malton
+- North Yorkshire
+- York Minster
+people:
+- Canon Maggie Smith
+- Canon Smith
+- David Skaith
+- Dean
+- Katie White
+- Ms White
+organisations:
+- '## York Minster'
+- Humber
+- Labour
+- Mayoral Renewables Fund
+- York Minster
+- Yorkshire
 ---
 
 ## York Minster 'continuing city leadership' as solar panels installations break records

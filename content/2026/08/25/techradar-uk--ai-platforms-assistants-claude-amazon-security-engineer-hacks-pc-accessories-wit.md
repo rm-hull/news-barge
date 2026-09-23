@@ -12,6 +12,17 @@ description: Some nifty tricks are pulled off by the security engineer — but t
 image: https://cdn.mos.cms.futurecdn.net/gYocvkPAnx8FcKQz6eTGsa-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- AI
+people:
+- Chaz Schlarp
+- Claude Opus
+organisations:
+- AI
+- Amazon
+- Dell
+- Google News
+- Hachette UK
 ---
 
 ![Confused PC gamer looking at screen](https://cdn.mos.cms.futurecdn.net/gYocvkPAnx8FcKQz6eTGsa.jpg) 

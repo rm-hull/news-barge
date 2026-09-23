@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- County Durham
+- Gateshead
+people:
+- Bob Fox
+- Stu Luckley
+organisations:
+- Glen Steward
+- Melody Maker
+- Reeth Memorial Hall
+- Reeth Post Office
+- The Davy Lamp Folk Club
+- The Sage
 ---
 
 *(Image: Supplied)*

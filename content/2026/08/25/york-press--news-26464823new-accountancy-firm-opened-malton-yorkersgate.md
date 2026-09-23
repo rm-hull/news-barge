@@ -12,6 +12,19 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Malton
+- North Yorkshire
+- Ryedale
+- York
+- Yorkersgate
+- Yorkshire Coast
+people:
+- Hayley
+- Jonathan Dowson
+- Phil Thompson
+organisations:
+- Lintons
 ---
 
 ## New tax and accountancy firm opens in North Yorkshire

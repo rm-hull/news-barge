@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Belfast
+- India
+- Maharashtra
+people:
+- Dimitrios A Lamprou
+- Rutuja N Meshram
+organisations:
+- Advanced Healthcare Materials
+- Advanced Manufacturing
+- Biofabrication andAdvanced Manufacturing
+- Queen’s University Belfast
+- School of Pharmacy
 ---
 
 A new dissolvable 3D-printed patch has been developed by researchers in Belfast with the aim of improving treatment for localised skin cancer.

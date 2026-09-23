@@ -13,6 +13,27 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- AI
+- China
+- Mount Pleasant
+- Wisconsin
+people:
+- Anton Shilov
+- Jensen Huang
+- Tom
+- Vera Rubin
+organisations:
+- AI Clouds
+- DRAM
+- Edge Computing
+- Get Tom's Hardware
+- Google News
+- Industrial and Enterprise
+- Nvidia
+- SK
+- TSMC
+- Tom’s Hardware
 ---
 
 ![Nvidia](https://cdn.mos.cms.futurecdn.net/RsUTZVhKxAwDnvgcvZQi5h.jpg) 

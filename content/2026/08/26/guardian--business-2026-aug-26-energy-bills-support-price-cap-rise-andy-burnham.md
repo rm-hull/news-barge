@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Gulf
+- Hormuz
+- Iran
+- Jackdaw
+- North Sea
+- Rosebank
+- Senedd
+- UK
+- US
+- Wales
+people:
+- Andy Burnham
+- Dale Vince
+- Ed Miliband
+- John Healey
+- Miatta Fahnbulleh
+- Paul Nowak
+- Rachel Reeves
+- Ruth Curtice
+organisations:
+- BBC’s Newsnight
+- Commons
+- FT Burnham
+- Labour
+- Resolution Foundation
+- Rosebank
+- Sun
+- Trades Union Congress
 ---
 
 Households are unlikely to receive further energy bills support before the October price cap, though more targeted measures could be looked at if there is a further shock in January, government sources said.

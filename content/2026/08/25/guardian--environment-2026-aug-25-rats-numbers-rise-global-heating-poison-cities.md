@@ -14,6 +14,27 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Alberta
+- Canada
+- Earth
+- Europe
+- New York
+- New York City
+- Norway
+- Saskatchewan
+- UK
+- US
+people:
+- Karen Wickerson
+- Richard Parr
+- Robert Corrigan
+- Steven Belmain
+organisations:
+- Center for Wild Animal Welfare
+- EU
+- Guinness
+- University of Greenwich
 ---
 
 “The rodents have paid for every single bill I’ve ever had – every mortgage, every car payment, every pint of Guinness,” says Dr Robert Corrigan. “It’s been a great ride and I’m still at it.”

@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Appletreewick
+- New Inn
+- River Wharfe
+- Yorkshire Dales
+people: []
+organisations:
+- Appletreewick
+- Bewildered Yorkshire
 ---
 
 *(Image: Getty)*

@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Amsterdam
+- Bunol
+- Buñol
+- Florida
+- Hyderabad
+- India
+- London
+- Mumbai
+- Spain
+- Sutamarchán
+people:
+- Francisco Franco
+- Romail Khokhar
+organisations:
+- EFE
+- La Tomatina
 ---
 
 Thousands of people gathered in the Spanish town of Buñol on Wednesday for the annual La Tomatina festival, painting the streets red with tons of overripe tomatoes.

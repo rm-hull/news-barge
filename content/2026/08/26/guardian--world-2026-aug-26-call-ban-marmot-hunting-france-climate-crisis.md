@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Alps
+- Austria
+- Canada
+- Europe
+- France
+- Germany
+- Grande Sassière
+- Italy
+- North America
+- Savoie
+- Switzerland
+- US
+people:
+- Beethoven
+- Christophe Bonenfant
+- Di Nicolantonio
+- Goethe
+- Pauline di Nicolantonio
+- Rébecca Garcia
+organisations:
+- AJAS
+- Association for Justice for Savoie Animals
+- CRNS
+- National Centre for Scientific Research
+- National Hunters Federation
+- University of Lyon
 ---
 
 Animal rights campaigners are gearing up for protests and petitions aimed at persuading the French government to ban the hunting of Alpine marmots.

@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Louisiana
+- New Orleans
+people:
+- Aaron Hebert
+- Brian Manix
+- Don Massey
+- Lawrence Hecker
+- Richard Arsenault
+- Richard Coon
+- Richard Trahant
+organisations:
+- Guardian
+- WWL Louisiana
 ---
 
 Survivors of child rape and other sexual abuse within New Orleans’s Roman Catholic archdiocese learned that $641,000 or so is the most they can individually get under a settlement approved in December to resolve a years-long bankruptcy protection case.

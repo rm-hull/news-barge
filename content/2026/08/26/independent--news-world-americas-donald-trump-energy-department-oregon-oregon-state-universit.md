@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Hawaii
+- Oregon
+- PacWave South
+- U.S.
+people:
+- Dan Hellin
+- Donald Trump
+organisations:
+- AP
+- Associated Press’
+- Department of Energy
+- Energy Department
+- Oregon State University
+- PacWave South
+- Trump
+- U.S. Navy
 ---
 
 The first large site in the continental U.S. for testing technologies that generate electricity from ocean waves is now open after securing a key green-energy approval from the Trump administration.

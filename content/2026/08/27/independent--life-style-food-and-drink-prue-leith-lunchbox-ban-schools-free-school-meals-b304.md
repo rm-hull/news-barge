@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Covid
+- UK
+people:
+- Prue Leith
+organisations:
+- Labour
+- Tesco
 ---
 
 Dame Prue Leith’s call for lunchboxes to be banned in schools has prompted a strong reaction from *Independent* readers, many of whom accused her of pushing the state further into territory that should be left to parents.

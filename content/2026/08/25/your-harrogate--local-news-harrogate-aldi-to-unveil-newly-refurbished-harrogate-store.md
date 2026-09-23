@@ -12,6 +12,15 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- Knaresborough
+- Oak Beck Road
+- Swallowtail Way
+- UK
+people: []
+organisations:
+- Aldi
 ---
 
 ![](https://mmo.aiircdn.com/409/6a1f04d11d1e5.jpg) 

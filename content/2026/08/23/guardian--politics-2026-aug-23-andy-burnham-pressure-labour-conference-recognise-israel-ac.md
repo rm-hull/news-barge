@@ -12,6 +12,32 @@ image: https://i.guim.co.uk/img/media/ec0744852a17ac2bbbae27142080744bd3f9b1e2/8
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- Gaza
+- Israel
+- Palestine
+- UK
+- West Bank
+people:
+- Andy Burnham
+- Dan Iley-Williamson
+- Ed Miliband
+- Emily Thornberry
+- Emmanuel Macron
+- Keir Starmer
+- Sasha Das Gupta
+organisations:
+- Campaign for Labour Party Democracy
+- Friends of the Earth
+- Greens
+- Guardian
+- Labour & Palestine
+- Momentum
+- PSC
+- Palestine Solidarity Campaign
+- UN
+- Unison
 ---
 
 Grassroots Labour groups are gearing up for a conference showdown with Andy Burnham over Gaza, as the party’s members seek to force the prime minister to recognise Israel’s actions as a genocide and impose a full arms embargo.

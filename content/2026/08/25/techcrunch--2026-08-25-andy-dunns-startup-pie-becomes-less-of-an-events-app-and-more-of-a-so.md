@@ -12,6 +12,29 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/lolla-2-comments-ticket
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Chicago
+- L.A.
+- Love Island
+- New York
+people:
+- Andy Dunn
+- Gen Z
+- Nadya Okamoto
+- Reddit
+organisations:
+- Accel
+- Bonobos’
+- Ev Williams
+- Facebook Groups
+- Forerunner
+- IRL
+- Lightspeed
+- Pie
+- Reddit
+- TechCrunch
+- Twitter
+- Zoomies
 ---
 
 Pie, the social app from Bonobos’ founder Andy Dunn, is taking its mission to connect people in real life one step further. On Tuesday, the startup launched a new communities feature that allows people to establish more permanent homes for their social groups on its app, offering an alternative to group texts, Facebook Groups, and other technologies people use to stay in touch.

@@ -10,6 +10,25 @@ image: https://cdn.mos.cms.futurecdn.net/UEZgdXicuEGvaFQrSYV3EA-1920-80.jpg
 categories:
 - Technology & Software
 - Pets & Animals
+locations:
+- UK
+people:
+- Christian Cawley
+- Edward Pope
+- Kirstine Dale
+organisations:
+- AI
+- Artificial Intelligence for the Earth Systems
+- Computer Weekly
+- ComputerActive
+- Google News
+- Linux Format
+- MLWP
+- Matter Alpha
+- Met Office
+- Met Office Science
+- NWP
+- TechRadar Pro
 ---
 
 ![The weather app on the Samsung Galaxy S26 Plus against a grass background.](https://cdn.mos.cms.futurecdn.net/UEZgdXicuEGvaFQrSYV3EA.jpg) 

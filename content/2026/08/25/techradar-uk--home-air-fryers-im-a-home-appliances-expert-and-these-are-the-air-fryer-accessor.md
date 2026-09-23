@@ -12,6 +12,13 @@ image: https://cdn.mos.cms.futurecdn.net/JgYmzLxfuf6dTmSS7BKEWG-2560-80.jpg
 categories:
 - Technology & Software
 - Food & Cooking
+locations: []
+people:
+- Ruth Hamilton
+organisations:
+- Google News
+- Ruth
+- TechRadar Homes
 ---
 
 ![Selection of air fryer accessories on a background of torn paper](https://cdn.mos.cms.futurecdn.net/JgYmzLxfuf6dTmSS7BKEWG.jpg) 

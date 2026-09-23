@@ -13,6 +13,14 @@ image: https://images.euronews.com/articles/stories/09/88/69/45/1200x675_cmsv2_a
 categories:
 - Europe
 - News & Politics
+locations:
+- Denmark
+- Solgarden
+people:
+- Tove Dohn Lauridsen
+organisations:
+- Lutheran Mission
+- Ministry of Social Affairs
 ---
 
 ## According to the Ministry of Social Affairs, between 1949 and 1976, personal accounts and its files showed "serious and systemic failings during the stay of the 13 former residents in this home, which was under state supervision."

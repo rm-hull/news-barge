@@ -13,6 +13,22 @@ categories:
 - Hardware
 - Personal Finance & Investing
 - Science
+locations:
+- Budapest
+- Graphisoft Park
+- Hungary.
+- Strait of Hormuz
+- Tennessee
+people:
+- Claude
+- Elon Musk
+- Satoshi Nakamoto
+organisations:
+- Bitcoin ATM
+- Cryptocurrency
+- GPU
+- Get Tom's Hardware
+- Pearl
 ---
 
 ![Bitcoin theft](https://cdn.mos.cms.futurecdn.net/hwbXnfQReY3k6GhBpKYMwP-320-80.jpg)

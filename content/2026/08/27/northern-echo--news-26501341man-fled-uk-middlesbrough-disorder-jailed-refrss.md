@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Alicante
+- Linthorpe Road
+- Middlesbrough
+- Newcastle Airport
+- Teesside
+- UK
+people:
+- Dave Sutherland
+- Jamie Latham
+- Man
+organisations:
+- Cleveland Police
 ---
 
 *(Image: Cleveland Police)*

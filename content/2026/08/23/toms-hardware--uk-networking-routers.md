@@ -11,6 +11,15 @@ image: https://cdn.mos.cms.futurecdn.net/tt9dMS98e3rXjUgvKeKwTH-320-80.png
 categories:
 - Technology & Software
 - Hardware
+locations:
+- US
+people:
+- Tom
+organisations:
+- FCC
+- Get Tom's Hardware
+- TP-Link
+- Wi-Fi Motion
 ---
 
 Finding the best Wi-Fi router for you is a challenge, but Tom's Hardware is an industry leader in Wi-Fi router testing, reviews, and analysis. Here you can find all the details about the latest and greatest routers, including news and reviews. You can also head to our best Wi-Fi routers page for in-depth buying advice.

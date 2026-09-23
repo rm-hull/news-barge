@@ -11,6 +11,16 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Middle East
+people:
+- Ed Dodman
+organisations:
+- Department for Energy Security
+- Energy Ombudsman
+- Government
+- Net Zero
+- Ofgem
 ---
 
 Disputes over household energy bills drove a 16 per cent surge in official complaints during the first six months of 2026, fresh data reveals, reflecting ongoing strain on domestic budgets.

@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Relationships & Dating
+locations:
+- Chilton
+people:
+- Amrit Jandoo
+- Jonathan Ellis
+- Mark McKone
+- Martin Towers
+- Millwood
+organisations:
+- Durham Crown Court
+- Harbour
+- Probation Service
+- The Recorder
 ---
 
 *(Image: The Northern Echo)*

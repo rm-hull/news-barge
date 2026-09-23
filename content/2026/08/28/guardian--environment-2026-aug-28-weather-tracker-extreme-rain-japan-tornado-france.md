@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Amami
+- Catalonia
+- Chiba
+- China
+- El Niño
+- Europe
+- France
+- Himi
+- Ishikawa
+- Italy
+- Kagoshima
+- La Niña
+- London
+- North Pacific High
+- Okinawa Island
+- Paris
+- Pomas
+- Sea of Japan
+- Spain
+- Toyama
+people:
+- Saudel
+organisations:
+- Meteorological Agency
 ---
 
 After an “unprecedented” deluge in Chiba in mid-August, Japan has experienced further extreme rainfall in recent days. Moisture from the Sea of Japan brought relentless heavy rain to the prefectures of Ishikawa and Toyama on Thursday.

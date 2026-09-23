@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+- Black Rock Desert
+- California
+- Gann
+- Hawk
+- New Zealand
+- Oregon
+- Pacific
+- Reno
+- Sierra Nevada
+- Spokane
+- US Route 395
+- Washington
+- Washoe
+people:
+- Darin Balaam
+- Jean Nelson-Dean
+- Jesse Murray
+- Joe Lombardo
+- Richard Edwards
+- Ruby Delatorre
+- Teresa Lenshyn
+organisations:
+- Burning Man
+- NV Energy
+- National Interagency Fire Center
+- Northwest Interagency Coordination Center
+- Truckee Meadows Fire Protection District
+- University of Nevada
 ---
 
 The Hawk fire is about 27% contained, authorities said on Monday afternoon, two days after the fast-moving, wind-driven wildfire sparked near Reno, Nevada.

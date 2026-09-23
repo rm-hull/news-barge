@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Europe
+- UK
+people: []
+organisations:
+- NHS
+- Queen Mary University of London
+- University of Glasgow
 ---
 
 Diagnoses of a liver condition linked to obesity and type 2 diabetes have increased fivefold over a decade, according to a new study.

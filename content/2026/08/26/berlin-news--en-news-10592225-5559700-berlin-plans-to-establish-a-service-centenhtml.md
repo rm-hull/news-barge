@@ -14,6 +14,11 @@ categories:
 - Germany
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Germany
+people: []
+organisations:
+- Department of Economic Affairs
 ---
 
 © dpa

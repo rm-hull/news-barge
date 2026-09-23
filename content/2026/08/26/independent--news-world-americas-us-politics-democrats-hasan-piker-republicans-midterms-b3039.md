@@ -14,6 +14,40 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Ann Arbor
+- Florida
+- Grand Rapids
+- Israel
+- Michigan
+- Washington
+people:
+- Abdul El-Sayed
+- Angie Nixon
+- Ben Rhodes
+- Bernie Sanders
+- Debbie Dingell
+- Dems
+- Hakeem Jeffries
+- Hasan Piker
+- Hillary Scholten
+- Jon Favreau
+- Kristen Welker
+- Michigander
+- Obama
+- PikerGate
+- Ro Khanna
+- Tom Bonier
+- Trump
+- Twitch
+organisations:
+- DSA
+- Democratic Party
+- Democratic Socialists of America
+- El-Sayed
+- House
+- NBC
+- Senate
 ---
 
 As the multi-day Democratic Party fight over association with Twitch streamer Hasan Piker continues, the party’s progressive flank and even some centrists fume that party leadership has once again lost the plot.

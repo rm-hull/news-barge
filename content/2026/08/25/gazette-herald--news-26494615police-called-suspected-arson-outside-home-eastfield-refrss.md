@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Eastfield
+- High Garth
+- North Yorkshire
+people: []
+organisations: []
 ---
 
 *(Image: Supplied)*

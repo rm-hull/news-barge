@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- France
+- Kyiv
+- Luxembourg
+- Soviet Union
+- U.K.
+- UK
+- Ukraine
+people:
+- Alar Karis
+- Andy Burnham
+- Antonio Costa
+- Luc Frieden
+- Maia Sandu
+- Volodymyr Zelenskyy
+organisations:
+- European Council
+- MBDA
+- SCALP
+- U.K. Government
 ---
 
 U.K. Prime Minister Andy Burnham arrived in Kyiv on Monday, where he is expected to meet President Volodymyr Zelenskyy and co-chair a meeting with the so-called coalition of the willing alongside other international leaders.

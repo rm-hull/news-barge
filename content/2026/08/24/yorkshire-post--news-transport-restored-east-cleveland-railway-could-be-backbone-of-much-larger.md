@@ -14,6 +14,31 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Britain
+- Cleveland Potash Boulby Mine
+- East Cleveland
+- Loftus
+- North York Moors
+- Redcar
+- River Tees
+- Saltburn
+- Skinningrove
+- Staithes
+- Tees Valley
+people:
+- Ben Houchen
+- Philip Chisholm
+- Tim Gray
+- Wayne Davies
+organisations:
+- Arupalso
+- British Steel
+- Loftusward
+- Sustrans
+- Tees Valley Combined Authority
+- Walk Wheel Cycle Trust
+- What East Cleveland
 ---
 
 # Restored East Cleveland railway could be ‘backbone of much larger tourism enterprise’

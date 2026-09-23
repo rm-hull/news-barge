@@ -13,6 +13,18 @@ categories:
 - Europe
 - News & Politics
 - Science
+locations:
+- Chiba
+- Ibaraki Prefecture
+- Japan
+- Saitama Prefecture
+- Tokyo
+people:
+- Sanae Takaichi
+organisations:
+- Fire and Disaster Management Agency
+- JMA
+- Japan Meteorological Agency
 ---
 
 ## "I would ask residents in the areas where the shaking was particularly strong to remain vigilant for the possibility of another earthquake of a similar magnitude," Japanese Prime Minister Sanae Takaichi said.

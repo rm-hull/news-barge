@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Bedale
+- Leeming Bar
+- Leyburn Station
+- Little White Bus
+people:
+- Nick Keegan
+organisations:
+- Wensleydale Railway
 ---
 
 A heritage railway is offering a special park and ride service for cycling fans.

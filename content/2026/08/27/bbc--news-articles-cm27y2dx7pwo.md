@@ -11,6 +11,31 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/55a5/live/920028
 categories:
 - UK
 - News & Politics
+locations:
+- Hampstead Heath
+- North London
+- Royal Free Hospital
+people:
+- Baroness Margaret Thatcher
+- Bill
+- Clare Morkane
+- Dame Jenni
+- Edwina Currie
+- Hillary Clinton
+- Jack Nicholson
+- Jenni Murray
+- Jennifer
+- Joan Baez
+- John Major
+- Mohit Bakaya
+- Tim Davie
+- Tony Murphy
+organisations:
+- BBC Radio 4
+- Metropolitan Police
+- Radio 4
+- Radio Academy Hall of Fame
+- then-BBC
 ---
 
 ![Dame Jenni Murray has a blue and red paisley pattened scarf over one shoulder and is wearing a black top, she has short hair and glasses which are perched on her nose and attached by a beaded string](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/55a5/live/920028e0-a20b-11f1-9090-b51af3a01fc2.jpg)

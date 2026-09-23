@@ -13,6 +13,64 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Australia
+- China
+- Europe
+- France
+- Frankfurt
+- Germany
+- Ireland
+- Japan
+- London
+- New York
+- Paris
+- Spain
+- UK
+- US
+people:
+- Chair Warsh
+- Jackson Hole
+- John Healey
+- Kathleen Brooks
+- Kevin Warsh
+- McBride
+- Ms Brooks
+- Samuel Tombs
+organisations:
+- Admiral Group
+- Air Wick
+- Airtel Africa
+- Alliance News
+- Auto Trader
+- BAE Systems
+- Babcock International
+- Bunzl
+- Calgon
+- Cillit Bang
+- FOMC
+- FT
+- Fed
+- Federal Reserve
+- Financial Times
+- HSBC Holdings
+- Hays
+- Howden Joinery
+- Investec
+- Melrose Industries
+- Mortein
+- NBS
+- Panmure Liberum
+- Pantheon Macroeconomics
+- SSE
+- Severn Trent
+- Sky News
+- Standard Chartered
+- Sunda Energy
+- Treasury
+- Vestacy
+- XP Power
+- XTB
 ---
 
 Stock prices in London closed higher on Friday, joining a broader rally across European and US equities, while Federal Reserve chairman Kevin Warsh’s inflation warning boosted expectations for higher US interest rates.

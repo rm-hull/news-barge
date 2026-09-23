@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Silicon Valley
+- US
+people:
+- AJ Merton
+- Andreessen Horowitz
+- Anduril
+- Blake Masters
+- Christopher Buskirk
+- Don Jr
+- Donald Trump
+- Donald Trump Jr
+- Jamie Raskin
+- Joe Biden
+- Omeed Malik
+- Palmer Luckey
+- Trump Jr
+organisations:
+- 1789 Capital
+- Anduril Inudstries
+- CNBC
+- CNN
+- Defense Policy Board
+- Department of Commerce
+- DoC
+- Guardian
+- New York Times
+- Pentagon
+- SEC
+- Trump Administration
+- Trump Jr
+- Trump Jr’s
+- US House of Representatives
+- Vulcan Elements
 ---
 
 Democrats on a powerful US congressional committee have launched an investigation into a venture capital firm which has thrived since recruiting Donald Trump’s son.

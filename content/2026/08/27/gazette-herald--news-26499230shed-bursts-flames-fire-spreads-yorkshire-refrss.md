@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Knaresborough
+- North Yorkshire
+- Stockwell Lane
+people:
+- Haydn Lewis
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Haydn Lewis)*

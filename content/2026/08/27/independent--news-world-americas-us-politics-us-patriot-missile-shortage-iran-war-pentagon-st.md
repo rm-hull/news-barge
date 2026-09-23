@@ -15,6 +15,54 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - History
+locations:
+- Europe
+- France
+- Germany
+- Gulf
+- Iran
+- Italy
+- Jasionka
+- London
+- Middle East
+- Moscow
+- Netherlands
+- Patriot
+- Poland
+- Prince Sultan
+- Romania
+- Russia
+- Rzeszow-Jasionka Airport
+- Spain
+- U.S.
+- US
+- Ukraine
+- Washington
+- al-Kharj
+people:
+- Biden
+- Donald Trump
+- Ed Arnold
+- John Ratcliffe
+- Kyiv
+- Mark Cancian
+- Martin O’Donnell
+- Vladimir Putin
+organisations:
+- Army Tactical Missile System
+- CIA
+- CSIS
+- Center for Strategic and International Studies
+- Marine
+- NATO
+- Pentagon
+- Royal United Services Institute
+- SAMP/T NG
+- SAMP/T —
+- The Associated Press
+- U.S. Army
+- U.S. Patriots
+- Wall Street Journal
 ---
 
 The U.S. military is reportedly experiencing a “beyond critical” shortage of advanced missile interceptors in Europe, largely driven by President Donald Trump’s war with Iran.

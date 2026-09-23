@@ -11,6 +11,40 @@ categories:
 - Local
 - York
 - History
+locations:
+- Beverley
+- Bradford Forster Square
+- Cambridge
+- East Coast Main Line
+- Edinburgh
+- Ely
+- Harrogate
+- Hull
+- Leeds
+- Letchworth Garden City
+- Lincoln
+- London
+- Middlesborough
+- Moorgate
+- Newcastle
+- Peterborough
+- Potters Bar
+- Royston
+- Skipton
+- Stevenage
+- Welwyn Garden City
+- York
+people: []
+organisations:
+- Aberdeen More
+- Bradford Interchange
+- Grand Central
+- Hull LNER
+- Kings Lynn
+- London Kings Cross
+- National Rail
+- Sunderland Great Northern
+- Welwyn Garden City Hull Trains
 ---
 
 There’s major disruption on the East Coast Main Line this afternoon after a person was hit by a train near Stevenage.

@@ -11,6 +11,21 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- UK
+people:
+- Puffin
+organisations:
+- Asda
+- Bird Gate
+- Caterpillar Gate
+- High Court
+- Lindt
+- M&S
+- Newsquest
+- Penguin
+- Puffin
+- Tesco
 ---
 
 *(Image: Getty)*

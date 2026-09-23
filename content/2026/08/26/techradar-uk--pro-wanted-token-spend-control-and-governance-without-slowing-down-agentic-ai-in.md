@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+people: []
+organisations:
+- AWS
+- Agentic AI
+- CFO
+- CIO
+- CIOs
+- CRM
+- Future plc
+- Gartner
+- IDC
+- MCP
+- Nutanix
+- SVP EMEA
+- Shadow AI’
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A robot in front of a digital screen, touching some of the symbols with its outstretched finger](https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL.jpg) 

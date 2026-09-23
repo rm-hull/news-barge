@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Derbyshire
+- England
+- Greater Manchester
+- Havant
+- Ilkeston
+- North Street
+- Waitrose
+- Wales
+people:
+- Andy Burnham
+organisations:
+- Champagne
+- GMP
+- Greater Manchester Police
+- Hampshire Police
+- Home Office
+- LBC
+- Waitrose
 ---
 
 Police have issued an appeal after £850 worth of Champagne was stolen from Waitrose.

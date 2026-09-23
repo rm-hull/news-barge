@@ -14,6 +14,14 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Scarcroft Hill
+- York Racecourse
+people: []
+organisations:
+- Crimestoppers
+- North Yorkshire Police
+- North Yorkshire Police)* Police
 ---
 
 *(Image: North Yorkshire Police)*

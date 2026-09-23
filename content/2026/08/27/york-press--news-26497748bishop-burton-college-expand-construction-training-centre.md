@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- YOUR
+people:
+- Danny Metters
+organisations:
+- Bishop Burton College
+- Department for Education’s Construction Skills Capacity Fund
+- Portal A
+- Public Notice Portal
 ---
 
 ## Bishop Burton College secures £2.5m to expand construction training

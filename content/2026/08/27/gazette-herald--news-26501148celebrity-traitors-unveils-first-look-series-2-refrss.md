@@ -14,6 +14,41 @@ categories:
 - York
 - Film & TV
 - Arts & Culture
+locations:
+- Ardross Castle
+- BBC
+- Scotland
+people:
+- Alan Carr
+- Amanda Holden
+- Amol Rajan
+- Bella Ramsey
+- Claudia Winkleman
+- Cody Burridge
+- Hannah Fry
+- James Acaster
+- James Blunt
+- Jerry Hall
+- Joanne McNally
+- Joe Lycett
+- Julie Hesmondhalgh
+- King Kenny
+- Leigh-Anne Pinnock
+- Maya Jama
+- Michael Sheen
+- Miranda Hart
+- Myha’la
+- Richard E. Grant
+- Rob Beckett
+- Romesh Ranganathan
+- Ross Kemp
+- Sebastian Croft
+- Sharon Rooney
+- Traitor
+organisations:
+- Neuroblastoma UK
+- Studio Lambert
+- The BBC
 ---
 
 *(Image: BBC/Studio Lambert/Cody Burridge)*

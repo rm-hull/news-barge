@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Brazil
+- Goiás
+- Joinville
+- Minas Gerais
+- Rio Grande
+- Rio de Janeiro
+- Santa Carina
+- Santa Catarina
+- Sul
+- São Paulo
+- United States
+people:
+- Amanda Maria Souza de Oliveira
+- Duda
+- Gabriele
+- Minnie Mouse
+- Natalia Grace
+- Renata Magalhaes
+- Rodrigo Gusso
+- Viviane Henriques
+organisations:
+- BBC Brasil
+- BBC Brasil.
+- Folha de Sao Paulo
+- SBT News Brasil
+- The Times
 ---
 
 A 37 year-old woman pretended to be a 12 year-old autistic girl to trick a family into giving her a place to live, in an extraordinary deception that lasted more than a year.

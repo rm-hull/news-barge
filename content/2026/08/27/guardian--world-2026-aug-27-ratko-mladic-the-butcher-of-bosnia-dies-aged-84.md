@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Balkans
+- Bosnia
+- Bozinovici
+- Europe
+- Sarajevo
+- Serbia
+- Srebrenica
+- The Hague
+- US
+- Yugoslavia
+people:
+- Butcher
+- Darko
+- Elizabeth Evenson
+- Graciela Gatti Santana
+- Munira Subašić
+- Radovan Karadžić
+- Ratko Mladić
+- Slobodan Milošević
+- Zeid Ra’ad al-Hussein
+organisations:
+- Human Rights Watch
+- ICTY
+- International Residual Mechanism for Criminal Tribunals
+- JNA
+- Mothers of Srebrenica
+- Nato
+- UN Protection Force
+- Yugoslav People’s Army
 ---
 
 Ratko Mladić, the infamous Serbian general who was serving a life sentence for genocide committed during the Bosnian war, has died in prison in The Hague.

@@ -13,6 +13,18 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Lucy North
+people:
+- Costa
+- Mike Haynes
+- Stefan Rousseau
+organisations:
+- DWP State Pension
+- Government
+- HMRC Personal Allowance
+- Maple Hazel
+- PA Wire
 ---
 
 *(Image: Stefan Rousseau)*

@@ -14,6 +14,45 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Asia
+- China
+- Shanghai
+- U.S.
+- Wuhan
+people:
+- Gelsinger
+- Joanna Yang
+- Luke James
+- Tom
+organisations:
+- 3D XPoint
+- CITIC Securities
+- CSC Financial
+- CXMT
+- ChangXin Memory Technologies
+- Counterpoint Research
+- EUV
+- FT
+- Financial Times
+- Get Tom's Hardware
+- Google News
+- IMFT
+- IPO
+- Intel
+- Kioxia
+- NAND
+- Ninety One
+- Optane
+- SK hynix
+- STAR Market
+- Samsung
+- Shanghai Stock Exchange
+- Solidigm
+- Tencent
+- U.S. Commerce Department
+- YMTC
+- Yangtze Memory Technologies Co
 ---
 
 ![YMTC](https://cdn.mos.cms.futurecdn.net/gvpMevmFmrpYoKystbq537.jpg) 

@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- UK
+people:
+- Andy Burnham
+organisations:
+- British Beer & Pubs Association
+- British Institute of Innkeeping and Hospitality Ulster
+- Guardian
+- UK Hospitality
 ---
 
 Pubs, bars and hotels have reported a “Burnham bounce” in optimism as a result of the prime minister’s overtures to the sector, polling suggests, but they warn that the goodwill could evaporate without further tax relief.

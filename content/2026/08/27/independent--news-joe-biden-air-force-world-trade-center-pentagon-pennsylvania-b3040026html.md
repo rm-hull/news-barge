@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Cuba
+- Guantanamo Bay
+- Pennsylvania
+- U.S.
+- United States
+people:
+- Ali Abdul Aziz Ali
+- Joe Biden
+- Khalid
+- Michael A. Schrama
+- Mohammed
+- Mustafa al-Hawsawi
+- Walid bin Attash
+organisations:
+- Air Force
+- Pentagon
+- World Trade Center
 ---
 
 A U.S. military judge on Wednesday set a summer 2028 trail date for Khalid Sheikh Mohammed and three others accused of plotting the Sept. 11, 2001, terrorist attacks.

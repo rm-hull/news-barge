@@ -13,6 +13,50 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- BBC
+- Consett
+- Coronation Street
+- County Durham
+- Derwent Valley
+- Ebchester
+- Hollywood
+- London
+- Mountview
+- Newcastle
+- North East
+- Quiet County Durham
+- River Derwent
+- Shotley Bridge
+- St Ebba’s Church
+- Tynemouth
+- Vindomora
+- Waterloo Road
+- Whitley Bay
+people:
+- Denise Welch
+- Kevin Keegan
+- Louis Healy
+- Matty Healy
+- Natalie Barnes
+- Spender
+- Steph Haydock
+- Tom Hardy
+organisations:
+- Blackfyne Grammar School
+- Byker Grove
+- County Durham
+- ITV
+- Loose Women
+- McDonald's
+- Mountview Academy of Theatre Arts
+- Newcastle FC New County Durham Farmfoods
+- Newcastle’s Live Theatre
+- Soldier Soldier
+- The 1975
+- Waterloo Road
+- Watford Palace Theatre
+- i-D Magazine
 ---
 
 Denise Welch is one of the North East’s best-known television personalities, but before Coronation Street, Waterloo Road and Loose Women, her teenage years were spent in the County Durham.

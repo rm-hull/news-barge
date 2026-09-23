@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- England
+- UK
+people:
+- Andrea Sella
+organisations:
+- Cancer Research UK
+- MHRA
+- Medicines and Healthcare products Regulatory Agency
+- NHS
+- University College London
+- World Health Organisation
 ---
 
 Experts have responded to claims that suggest the brush used in cervical cancer smear tests is sterilised in a “cancer-causing” chemical.

@@ -12,6 +12,40 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Chelsea
+- Crystal Palace
+- England
+- France
+- Holmesdale Road
+- Leicester City
+- Man City
+- Selhurst Park
+people:
+- Adam Wharton
+- Cantona
+- City
+- Dean Henderson
+- Didier Deschamps
+- Enzo Maresca
+- Erling Haaland
+- Georgi Kinkladze
+- Guardiola
+- Jamie Redknapp
+- Palace
+- Phil Foden
+- Rayan Cherki
+organisations:
+- Bournemouth
+- Crystal Palace
+- Eden Hazard
+- France
+- Lyon
+- Manchester City
+- Rayan Cherki
+- Selhurst Park
+- Sky Sports
+- TV
 ---
 
 Haaland and Cherki fire impressive Man City to victory at Palace

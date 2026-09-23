@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Batley
+people:
+- Abdullah Ibn Usman
+- Ahmed Lo
+- Danny Diez
+organisations:
+- A Dadipatel
+- Batley’s
+- Dadipatel Food Store
+- Google
+- Kirklees Council
 ---
 
 # Exciting plans pitched for Batley’s ‘best shop in the world’

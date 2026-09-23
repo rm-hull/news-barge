@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - History
 - Arts & Culture
+locations:
+- Old Brewery
+- Richmond
+- Teesdale
+- Teesside
+- Winston Behind
+people: []
+organisations:
+- Old Brewery
+- The Annexe
+- The Old Brewery
 ---
 
 *(Image: FINE & COUNTRY)*

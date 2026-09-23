@@ -13,6 +13,76 @@ categories:
 - News & Politics
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Bondi Beach
+- Clayton
+- Getty Images Sydney Harbour
+- Gove
+- Harbour Bridge
+- Isle Woodah
+- Melbourne
+- Nhulunbuy
+- Northern Australia
+- Northern Territory
+- Numbulwar
+- Suburban Rail Loop
+- Suburban Rail Loop Benita Kolovos
+- Sydney Harbour
+- Tampa
+- Victoria
+people:
+- Amanda Bardwell
+- Anthony Albanese
+- Ben Doherty
+- Brian Cassey
+- David Connolly
+- Greg Combet
+- James Ashby
+- Joel Carrett
+- Ken Leanfore
+- Kon Karapanagiotidis
+- Luke Gosling
+- Malcolm Roberts
+- Matt Stanton
+- Pauline Hanson
+- Raphael Arndt
+- Steve Markham
+- Virginia Bell
+organisations:
+- 9 Network
+- AAP
+- ABS
+- AP Supermarket
+- ASRC
+- Air Frontier
+- Asylum Seeker Resource Centre
+- Australian Financial Review
+- Australian Transport Safety Bureau
+- Bloomberg
+- Bondi
+- Church and State
+- Commission
+- Future Fund
+- Guardian Australia
+- Jaimi Joy
+- Luca Ittimani Woolworths’
+- Northern Territory Labor
+- One Nation
+- RBA
+- Reserve Bank
+- Reuters
+- SRL East
+- Suburban Rail Loop
+- Tampa
+- The Age
+- The Asylum Seeker Resource Centre
+- The Sydney Morning Herald
+- Transport Victoria
+- Transport for NSW
+- Woolies
+- Woolworth
+- Woolworths Victoria
+- Woolworths’ Disney Ooshies
 ---
 
 Inflation has dropped to 3.5% in the year to July, from 3.8%, as fuel prices rebounded in the month and building costs jumped.

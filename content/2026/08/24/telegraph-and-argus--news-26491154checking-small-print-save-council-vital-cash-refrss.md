@@ -15,6 +15,20 @@ categories:
 - Personal Finance & Investing
 - Careers & Productivity
 - Business & Entrepreneurship
+locations: []
+people:
+- Coun Adam Wilkinson
+- Coun Dan Sutherland
+- Coun Sutherland
+- Coun Wilkinson
+- Illingworth
+organisations:
+- Cabinet
+- Calderdale Council
+- Labour
+- Mixenden
+- Reform UK
+- Sowerby Bridge
 ---
 
 A local authority’s administration is going through the small print in council contracts to find savings which might help it out of a budget deficit hole.

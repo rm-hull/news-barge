@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Africa
+- Berkeley
+- Florida
+- Italy
+- Norway
+- Oslo
+- Palm Beach
+people:
+- '## Haakon'
+- Durek Verrett
+- Haakon VIII
+- Harald Fairhair
+- Harald V
+- Ingrid Alexandra
+- Jeffrey Epstein
+- Marius Borg Høiby
+- Mette-Marit Tjessem Høiby
+- Märtha Louise
+- Olav
+- Sonja
+- Sverre Magnus
+organisations:
+- Dagbladet*
+- Foreign Ministry
+- London School of Economics and Political Science
+- Mette-Marit
+- NRK
+- Oslo Cathedral
+- Royal Norwegian Naval Academy
+- University of California
+- VG
 ---
 
 Norway has a new king following the death of Harald V on Friday.

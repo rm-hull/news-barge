@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- UK
+people:
+- Natalie Wolfenden
+- Thomas Beresford
+organisations:
+- Blacks
+- THE Yorkshire Dales
+- Yorkshire Dales
 ---
 
 *(Image: Thomas Beresford)*

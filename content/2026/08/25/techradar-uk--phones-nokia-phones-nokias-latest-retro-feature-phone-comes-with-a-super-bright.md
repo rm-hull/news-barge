@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/aofZErny5tL3S9w8sbVQFY-2000-80.jpg
 categories:
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- England
+- Philippines
+- Stockport
+- USB-C
+people:
+- Dave
+- David Nield
+organisations:
+- Apple
+- Gizmodo
+- Google News
+- HMD Global
+- Nokia
+- PC Explorer
+- The Hardware Handbook
 ---
 
 ![The Nokia 300 Charge](https://cdn.mos.cms.futurecdn.net/aofZErny5tL3S9w8sbVQFY.jpg) 

@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- County Durham
+- DURHAM
+- M
+- Sherburn Village
+people:
+- Ryan Scarth
+organisations:
+- A1
+- Durham Constabulary
+- Serious Collision Investigation Unit
 ---
 
 *(Image: DURHAM CONSTABULARY)*

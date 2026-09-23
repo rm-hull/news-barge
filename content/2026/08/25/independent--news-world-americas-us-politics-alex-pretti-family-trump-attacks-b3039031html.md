@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Minneapolis
+- Minnesota
+- U.S.
+- White House
+people:
+- Alex Pretti
+- Donald Trump
+- Karoline Leavitt
+- Kristi Noem
+- Lauren Bis
+- Micayla Pretti
+- Michael Pretti
+- Renee Good
+- Renée Good
+- Stephen Miller
+- Steve Schleicher
+- Susan Pretti
+organisations:
+- Bis
+- Customs and Border Protection
+- DHS
+- Department of Homeland Security
+- Good Morning America
+- ICU
+- Justice Department
+- The Independent
+- Trump
+- Truth Social
 ---
 
 The family of Alex Pretti, the 37-year-old ICU nurse killed by federal agents earlier this year during immigration enforcement in Minneapolis, have pushed back on attacks launched by President Donald Trump and members of his administration.

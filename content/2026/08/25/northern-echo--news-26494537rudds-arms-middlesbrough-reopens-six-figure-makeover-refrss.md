@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Cockfield
+- Darlington
+- Greene King
+- Marton
+- Middlesbrough
+- North East
+people:
+- Greene King
+- Rob Watson
+organisations:
+- Rudds Arms
+- Sky Sports
+- TNT Sports
+- The Rudds Arms
 ---
 
 A popular North East pub has reopened with a fresh new look, including upgraded sports facilities and revamped outdoor space.

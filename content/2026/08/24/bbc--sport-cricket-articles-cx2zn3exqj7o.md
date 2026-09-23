@@ -13,6 +13,39 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Derby
+- England
+- Headingley
+- London
+- Lord's
+- New Zealand
+- Noosa
+- Pakistan
+- Stokes'
+- Wellington
+people:
+- Ben Duckett
+- Ben Stokes
+- Brydon Carse
+- Gus Atkinson
+- Harry Brook
+- Jacob Bethell
+- Joe Root
+- Josh Tongue
+- Matthew Potts
+- Michael Vaughan.
+- Phil Tufnell
+- Sonny Baker
+- Vaughan
+organisations:
+- BBC Radio 5 Live
+- Cricket Regulator
+- Derbyshire Police
+- Durham
+- England and Wales Cricket Board
+- Saracens
 ---
 
 ![England fast bowler Brydon Carse](https://ichef.bbci.co.uk/ace/standard/1552/cpsprodpb/6cde/live/9ed1ceb0-9ff5-11f1-b150-d3e6f0a6b415.jpg)

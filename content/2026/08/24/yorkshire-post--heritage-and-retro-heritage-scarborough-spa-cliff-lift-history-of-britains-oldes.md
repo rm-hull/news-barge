@@ -14,6 +14,38 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Birmingham
+- Britain
+- Central Cliff Lift
+- London
+- Manchester
+- North Cliff
+- Queens Parade Cliff
+- Scarborough Spa Cliff Lift
+- South Cliff
+- South Cliff Esplanade
+- Spa Buildings
+- Spa Grand Hall
+- St Nicholas Cliff
+people:
+- Crossley
+- Darryl Taylor
+- Lucas
+- Richard Ponter
+organisations:
+- Animated Objects
+- Clarke and Company
+- Cliff Lift
+- Hudswell
+- Metropolitan Railway Company
+- North Yorkshire Council
+- Scarborough Borough Council
+- Scarborough South Cliff Lift
+- Scarborough South Cliff Tramway Company Limited
+- Scarborough Spa
+- Scarborough Spa Cliff Lift.
+- Spa Saloon
 ---
 
 # Scarborough Spa Cliff Lift: History of Britain’s oldest funicular cliff lift that has closed after 150 years

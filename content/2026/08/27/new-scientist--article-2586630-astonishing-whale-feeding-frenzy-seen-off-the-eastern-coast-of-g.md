@@ -15,6 +15,19 @@ categories:
 - Technology & Software
 - Society & Culture
 - Travel
+locations:
+- Earth
+- Greenland
+- Norway
+- Svalbard
+people:
+- Greg Mortimer
+- Helen Czerski
+- Mads Peter Heide-Jørgensen
+- Sylvia Earle
+organisations:
+- Discovery Tours
+- Greenland Institute of Natural Resources
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309681078.jpg?w=840)

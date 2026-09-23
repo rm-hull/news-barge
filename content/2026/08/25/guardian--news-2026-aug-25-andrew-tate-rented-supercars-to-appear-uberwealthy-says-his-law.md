@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bedfordshire
+- Britain
+- England
+- Florida
+- Hertfordshire
+- Miami
+- Romania
+- UK
+- US
+people:
+- Andrew Tate
+- Tristan Tate
+- Vladimir Scorpius’
+organisations:
+- Aston Martin
+- CPS
+- Crown Prosecution Service
 ---
 
 Andrew Tate rented supercars and borrowed a yacht to appear “uberwealthy” and generate online engagement, his lawyer has said.

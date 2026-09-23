@@ -11,6 +11,23 @@ image: https://cdn.mos.cms.futurecdn.net/Be2biKBJvmWNyid55bUKKY-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Karolis Kaciulis
+- Monica J. White
+- Surfshark
+organisations:
+- Cure53
+- Dausos
+- Digital Trends
+- Google News
+- Monica
+- No Trace
+- SlashGear
+- Starter
+- Surfshark One
+- Tom’s Hardware
+- WePC
 ---
 
 ![Surfshark](https://cdn.mos.cms.futurecdn.net/Be2biKBJvmWNyid55bUKKY.jpg) 

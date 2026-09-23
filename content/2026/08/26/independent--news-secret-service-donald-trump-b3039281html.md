@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- Washington Hilton
+people:
+- Donald Trump
+organisations:
+- Office of Professional Responsibility
+- Secret Service
+- U.S. Secret Service
+- White House Correspondents' Association
 ---
 
 Three Secret Service officials have been placed on administrative leave pending investigation

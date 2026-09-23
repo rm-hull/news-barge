@@ -12,6 +12,30 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Canada
+- Dallas
+- Narang
+- North America
+- Northwest Arkansas
+- Phoenix
+- Santa Clara
+people:
+- Gatik
+- Gautam Narang
+organisations:
+- ARK Invest
+- Gatik
+- Intact Private Capital
+- Isuzu Motors
+- Koch Disruptive Technologies
+- Kroger
+- Loblaws
+- Millennium Management
+- PepsiCo
+- Qatar Investment Authority
+- Tyson Foods
+- Walmart
 ---
 
 Gatik, the autonomous vehicle startup known for its self-driving box trucks, has raised $200 million just two months after striking a multiyear commercial agreement with PepsiCo.

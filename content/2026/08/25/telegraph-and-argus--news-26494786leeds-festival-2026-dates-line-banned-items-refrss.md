@@ -13,6 +13,32 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bramham Park
+- Fontaines D.C.
+- Halfpint
+- Holland
+- Leeds
+- The Lathums
+people:
+- Adela
+- Dave
+- Declan McKenna
+- Geese
+- Jade
+- Maisie Peters
+- Raye
+- Skepta
+- Sombr
+organisations:
+- Blossoms
+- Charli XCX
+- Chase & Status
+- Florence
+- Kneecap
+- Role Model
+- The K’s
+- The Machine
 ---
 
 *(Image: Getty)*

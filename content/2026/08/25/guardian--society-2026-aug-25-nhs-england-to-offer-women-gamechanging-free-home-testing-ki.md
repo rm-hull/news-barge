@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- England
+people:
+- Athena Lamnisos
+- Michelle Mitchell
+- Sue Mann
+- Yvette Cooper
+organisations:
+- Cancer Research UK
+- Eve Appeal
+- NHS England
 ---
 
 Millions of women in England who have missed cervical screening appointments will be offered free home testing kits on the NHS.

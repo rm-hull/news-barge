@@ -15,6 +15,15 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 - Personal Finance & Investing
+locations:
+- Keighley
+- Low Street
+- North Street
+- West Yorkshire
+people:
+- Coversure Keighley
+organisations:
+- Coversure Keighley
 ---
 
 *(Image: Supplied)*

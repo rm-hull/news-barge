@@ -12,6 +12,37 @@ image: https://images.euronews.com/articles/stories/09/88/51/81/1200x675_cmsv2_5
 categories:
 - Europe
 - News & Politics
+locations:
+- Beirut
+- Europe
+- France
+- Russia
+- Ukraine
+- Élysée
+people:
+- André Glucksmann
+- Delphine Batho
+- Emmanuel Macron
+- François Hollande
+- Jean-Baptiste Marteau
+- Jean-Luc Mélenchon
+- Léa Salamé
+- Marine Le Pen
+- Marine Tondelier
+- Mikheil Saakashvili
+- Olivier Faure
+- Raphaël Glucksmann
+- Serge Duchêne
+- Vladimir Putin
+organisations:
+- Greens
+- Le Nouvel Obs
+- MEP
+- PS
+- Place Publique
+- Socialist Party
+- Socialists
+- TF1
 ---
 
 **Serge Duchêne**

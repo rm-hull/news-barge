@@ -13,6 +13,35 @@ categories:
 - Technology & Software
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Australia
+- Canada
+- Hollywood
+- Hulu
+- India
+- New Zealand
+- SGT
+- Singapore
+- UK
+- US
+people:
+- Cha Cha
+- Hayes Warner
+- Igby Rigney
+- Kaia Gerber
+- Lucy Buglass
+- Rhonda
+- Rhonda!”:**
+organisations:
+- Disney
+- Google News
+- Lucy Goes
+- Robert’s Party
+- Rotten Tomatoes
+- TechRadar
+- The Shards
+- The Simpsons
+- The Trawler
 ---
 
 ![Igby Rigney and Kaia Gerber in Hulu's The Shards](https://cdn.mos.cms.futurecdn.net/JCSrfgqjFynPDntVP6V8Mc.webp) 

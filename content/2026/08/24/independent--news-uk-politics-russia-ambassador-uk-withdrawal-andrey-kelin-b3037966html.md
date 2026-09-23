@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- London
+- Moscow
+- Russia
+- Salisbury
+- UK
+- Ukraine
+people:
+- Agatha Christie
+- Andrey Kelin
+- Andy Burnham
+- Vladimir Putin
+organisations:
+- Commonwealth and Development Office
+- Foreign Office
+- Ministry of Foreign Affairs
+- The Times
 ---
 
 Moscow has withdrawn its UK ambassador as relations between Britain and Russia continue to deteriorate amid Vladimir Putin’s war in Ukraine.

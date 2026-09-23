@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- '## Area'
+- '## Metropolitan'
+- Amazon
+- Aylesbury
+- Elizabeth line
+- Hannah Close
+- Harrow-on-the-Hill
+- Jubilee
+- London Marylebone
+- Neasden
+- Park Royal
+- Thameslink
+- Wembley Park
+- Wembley Stadium
+- Willesden Green
+people: []
+organisations:
+- DLR
+- Elizabeth
+- LFB
+- London Buses
+- London Fire Brigade
+- Mildmay
+- National Rail
+- Press Association
+- TfL
+- Thameslink
+- Transport for London
 ---
 
 Huge amounts of smoke can be seen near Wembley Stadium after a large fire broke out on an industrial estate, forcing a nearby Amazon warehouse to evacuate.

@@ -13,6 +13,32 @@ image: https://static.independent.co.uk/2026/08/24/20/05/Norovirus_3D_structural
 categories:
 - News & Politics
 - UK
+locations:
+- Brooklyn
+- Greenpoint
+- Manhattan
+- New York
+- New York City
+- Taco Bell
+- The Box House
+people:
+- Aherns
+- Michael Ahern
+- Plaintiff
+organisations:
+- Aherns
+- American Medical Association
+- Box House Hotel
+- Brooklyn Lantern
+- Bureau of Communicable Disease
+- Department of Health
+- Health Department
+- Manhattan Supreme Court
+- New York City Department of Health
+- The Box House
+- The Box House Hotel
+- The Brooklyn Lantern
+- The Independent
 ---
 
 A bride and groom – plus more than a quarter of their guests – were allegedly sickened by tainted charcuterie, croquettes and a “seasonal” dessert served at the trendy Brooklyn boutique hotel hosting their wedding reception, according to a state lawsuit reviewed by *The Independent*.

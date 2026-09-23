@@ -12,6 +12,61 @@ categories:
 - UK
 - News & Politics
 - Self-Improvement
+locations:
+- Afghanistan
+- America
+- Arlington National Cemetery
+- Australia
+- Birmingham
+- Britain
+- California
+- Cenotaph
+- Cotswolds
+- Iraq
+- London
+- Los Angeles
+- Melides
+- Montecito
+- Portugal
+- Sandringham
+- Sussex
+- UK
+- UK.
+- US
+- Washington DC
+people:
+- Archie
+- Christian Horner
+- Doria Ragland
+- Elizabeth
+- Emma Grede
+- Eugenie
+- Geri Horner
+- Guy Ritchie
+- Horners
+- Jack Brooksbank
+- James Govan
+- King
+- Lilibet
+- Love
+- Marlow Stern
+- Meghan Markle
+- Michael Verardo
+- Prince Harry
+- Sarah
+organisations:
+- Armed Forces
+- Duchess of Sussex
+- Invictus
+- Meghan
+- Netflix
+- Princess of Wales' Carol Service
+- Royal Household
+- Suits
+- The Gentlemen
+- Variety
+- Walter Reed National Military Medical Centre
+- Westminster Abbey
 ---
 
 ![Meghan holds onto Harry's arm as they wave at crowds while they walk from a car. Both are wearing brown. They are smiling.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4648/live/54b5a5b0-9fdf-11f1-9c90-a93a719154c7.jpg)

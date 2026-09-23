@@ -13,6 +13,45 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Africa
+- Amsterdam
+- Australia
+- Bahir Dar
+- California
+- California.
+- Earth
+- Ethiopia
+- Europe
+- Kenya
+- Menlo Park
+- Myanmar
+- Nairobi
+- Netherlands
+- UK
+- US
+people:
+- Abrham Meareg
+- Andrew Tate
+- Arturo Béjar
+- Donald Trump
+- Foxglove
+- Mark Zuckerberg
+- Martha Dimitratou
+- Meta
+- Rosa Curling
+organisations:
+- Congress
+- EU
+- European Commission
+- Facebook
+- Foxglove
+- Instagram
+- Meareg
+- Meareg’s
+- Meta
+- Repro Uncensored
+- Trump
 ---
 
 In October 2021, Abrham Meareg’s father, a professor of chemistry in Ethiopia’s northern town of Bahir Dar, was shot at close range and died outside his family home. This was in the middle of the country’s civil war.

@@ -13,6 +13,48 @@ categories:
 - Local
 - Harrogate
 - Travel
+locations:
+- All Saints’ Spofforth
+- Bilton Grange Estate
+- England
+- Fewston Cemetery
+- Harlow Hill Cemetery Walk
+- Harrogate
+- How Stean Gorge
+- Knaresborough
+- New Park
+- New Park Heritage Walk
+- Pannal Heritage Walk
+- Pateley Bridge
+- Ripley
+- South Stainley
+- St Wilfrid’s Church
+- Valley Gardens
+- Valley Gardens Walk
+- West Park Centre
+people:
+- Blind Jack
+- Michael Rennie
+- Robert Barrie
+- Thomas Ingilby
+organisations:
+- All Saints’ Church
+- All Saints’ Ripley
+- Bilton Historical Society
+- Harrogate Civic Society
+- Harrogate Club
+- Harrogate Heritage
+- Harrogate Library
+- Harrogate Masonic Hall
+- Harrogate Schools and Schooldays
+- Harrogate Theatre
+- Harrogate’s Old Magnesia Well Pump Room
+- National Trust
+- New Park Heritage Centre
+- Nidderdale Museum
+- Pateley Bridge Playhouse
+- Ripley Village Historic Walkabout
+- Washburn Heritage Centre
 ---
 
 # Preview: All you need to know about Harrogate Heritage Open Days 2026

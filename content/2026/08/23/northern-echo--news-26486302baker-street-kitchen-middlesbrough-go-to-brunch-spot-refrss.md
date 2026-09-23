@@ -15,6 +15,19 @@ categories:
 - Food & Cooking
 - Lifestyle & Fashion
 - Travel
+locations:
+- Baker Street
+- Baker Street Kitchen
+- County Durham Café
+- Middlesbrough
+- North Yorkshire
+- Teesside
+people: []
+organisations:
+- Baker Street Kitchen
+- Middlesbrough
+- Tees Valley Combined Authority
+- Teesside
 ---
 
 Finding a restaurant where you'll struggle to choose between a traditional full English and a good stack of pancakes is no easy task - but this Teesside brunch spot has spent years doing exactly that.

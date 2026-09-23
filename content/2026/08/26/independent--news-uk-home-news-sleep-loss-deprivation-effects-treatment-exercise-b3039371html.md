@@ -12,6 +12,13 @@ categories:
 - UK
 - Health & Fitness
 - Self-Improvement
+locations:
+- Canada
+people:
+- Madhura Lotlikar
+- Marc Roig
+organisations:
+- McGill University
 ---
 
 A new study has found a surprising way for struggling sleepers to boost their energy levels, suggesting it may be better to hit the pavement instead of the hay.

@@ -15,6 +15,24 @@ categories:
 - UK
 - Technology & Software
 - Society & Culture
+locations:
+- Americas
+- Caribbean
+- Cauca
+- Colombia
+- Latin America
+people:
+- Ivan Mordisco
+- Juanita Goebertus
+organisations:
+- FARC
+- Human Rights Defenders' Office
+- Human Rights Defenders’
+- Human Rights Watch
+- Meta
+- Revolutionary Armed Forces of Colombia
+- TikTok
+- United Nations
 ---
 
 Drug gangs and rebel groups in Colombia are increasingly recruiting children and using them to perform potentially lethal tasks that include piloting explosives-laden drones, Human Rights Watch said in a report published Monday.

@@ -12,6 +12,21 @@ image: https://cdn.mos.cms.futurecdn.net/fFVLZDuyDxjBzSATQtMHoD-1920-80.jpg
 categories:
 - Technology & Software
 - Health & Fitness
+locations: []
+people:
+- Alex Blake
+organisations:
+- Abbott Diabetes Care
+- Abbott Diabetes Care.
+- Apple
+- Creative Bloq
+- DKA
+- FDA
+- Google News
+- MacFormat
+- TechRadar
+- US Food and Drug Administration
+- iMore
 ---
 
 ![The Libre Duo 10 Day continuous glucose monitor (CGM) from Abbott Diabetes Care.](https://cdn.mos.cms.futurecdn.net/fFVLZDuyDxjBzSATQtMHoD.jpg) 

@@ -11,6 +11,19 @@ image: https://cdn.mos.cms.futurecdn.net/vrMEFCJwqm8ifxxPiMTShN-1920-80.png
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Hassam Nasir
+- Tom
+- TrashBench
+organisations:
+- '1060'
+- '1070'
+- GPU
+- Get Tom's Hardware
+- Google News
+- RGB
+- TrashBench
 ---
 
 ![Bolting-on a CPU cooler on a GTX 1080 Ti](https://cdn.mos.cms.futurecdn.net/vrMEFCJwqm8ifxxPiMTShN.png) 

@@ -12,6 +12,34 @@ image: https://media.wired.com/photos/6a8ec12c77fbaae8f5a47365/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Alabama
+- Artifactory
+- Hugging Face
+people:
+- Buck Shlegeris
+- Dane Stuckey
+- Davi Ottenheimer
+- Face
+- Jake Williams
+- Kirk
+- Kobayashi Maru
+- OpenAI
+- Starfleet
+organisations:
+- Anthropic
+- Black Hat
+- Chinese AI
+- ExploitGym
+- Hugging Face
+- Hunter Strategy
+- METR
+- Meta
+- Moonshot
+- No-Win Scenarios OpenAI
+- OpenAI Artifactory
+- Redwood Research
+- WIRED
 ---
 
 OpenAI announced Wednesday that it completed an investigation into what happened when its AI agents hacked into Hugging Face last month and published its most comprehensive report on the incident to date. For the most part, though, the 37-page document raises more questions than it answers, including about what preceded the incident and how OpenAI can stop another one like it from happening again.

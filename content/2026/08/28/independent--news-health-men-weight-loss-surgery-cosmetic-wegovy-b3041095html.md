@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- California
+- Hoboken
+- Lancaster
+- New Jersey
+- United States
+people:
+- AirSculpt
+- Bob Basu
+- Delila Foulad
+- Giovanni Di Napoli
+- Kandace Kichler
+- Mark C.
+- Michael Omidi
+- Mohammad Warrad
+- Rian Maercks
+- Sean Alemi
+- Walter Barrientos
+organisations:
+- Absci ABSI.O
+- AirSculpt
+- American Society of Plastic Surgeons
+- Cosmo N.V
+- Eli Lilly
+- GoodRx
+- Novo Nordisk
+- Pelage
+- Reuters
+- UCLA Health
+- Veradermics
+- Wegovy
+- Zepbound
 ---
 
 An increasing number of men across the United States are turning to cosmetic interventions to address loose skin, thinning hair, and dental concerns following significant weight loss driven by popular obesity drugs, according to patients and practitioners.

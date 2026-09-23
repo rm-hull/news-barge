@@ -13,6 +13,47 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- A66
+- Darlington
+- Eston Road
+- Lime Road
+- Middlesbrough
+- Normanby Road
+- Ormesby
+- Redcar
+- South Bank
+- Teesside
+people:
+- Cole Robert Worthy
+- Derrick Campbell
+- Elisia
+- God
+- Jacob Matusiak
+- Makai Saddington
+- Matt and Dad
+- Matthew Blades
+- Michael Robert Cahill
+- PC Blades
+- PC Blades'
+- PC Clough
+- Theo Rae
+- Theo Ray
+- Tom Clough
+- Vincent Haarhoff
+organisations:
+- BBC Verify
+- Carmel College
+- Cleveland Borough Council
+- Cleveland Police
+- Cleveland Police Federation
+- FC Hartlepool
+- IOPC
+- Independent Office for Police Conduct
+- PC Blades
+- Passat
+- Seaton Carew FC
+- TikTok
 ---
 
 ![Pictures of the two officers. Both are smiling. PC Blades has smart stubble and short fair hair. PC Clough also has stubble and short dark hair.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png)

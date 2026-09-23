@@ -12,6 +12,19 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- Boston
+- Germany
+people:
+- Rare
+organisations:
+- Atari ST
+- CTO
+- DoomPaint
+- GameStop
+- Get Tom's Hardware
+- MS Paint
+- Microsoft
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/9KTZb9ty7fkrE9HY3UHBjC-320-80.jpg)

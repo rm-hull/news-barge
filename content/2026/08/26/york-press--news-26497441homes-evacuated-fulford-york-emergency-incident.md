@@ -12,6 +12,10 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- York
+people: []
+organisations: []
 ---
 
 - Fire and police crews have been called after an 'incident' in a York suburb.

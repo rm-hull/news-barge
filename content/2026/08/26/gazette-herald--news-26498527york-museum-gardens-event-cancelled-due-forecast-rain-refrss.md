@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Music
+locations:
+- Bramham Park
+- Museum Gardens
+- Wetherby
+- York
+people:
+- Charli XCX
+organisations:
+- Florence
+- Fontaines D.C
+- Machine
+- York Museum Gardens
+- York Museums Trust
 ---
 
 *(Image: York Museums Trust)*

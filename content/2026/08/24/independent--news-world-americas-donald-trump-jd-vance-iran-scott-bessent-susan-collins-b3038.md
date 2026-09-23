@@ -14,6 +14,127 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Arizona
+- Beijing
+- Brewer
+- Brig
+- Canada
+- Canada-U.S.
+- China
+- Colombia
+- Ecuador
+- Equatorial Guinea
+- Florida
+- Guatemala
+- Honduras
+- Hong Kong
+- IRAN
+- Iran Trump
+- Islamic Republic
+- Israel
+- Key West
+- Liberia
+- Lincoln Joshua Aviles
+- Maine
+- Mark Banchereau
+- Mexico
+- Middle East
+- Minneapolis
+- New World
+- Nicaragua
+- Ohio
+- Ontario
+- Ottawa
+- Pacific
+- Qusra
+- Red Sea
+- Rose Garden
+- Saudi Arabia
+- Strait of Hormuz
+- Syria
+- Tehran
+- Turkey
+- U.S. Vance
+- UAE
+- US
+- USS Lincoln
+- United Arab Emirates
+- United States
+- United States of America
+- Washington
+- West Bank
+- White House
+- Wisconsin
+- Yemen
+people:
+- Charlie Kirk
+- Derrell Peel
+- Donald Trump
+- Doug Ford
+- Esmail Baghaei
+- Francis Donovan
+- George Floyd
+- JD Vance
+- Jamieson Greer
+- Karen Attiah
+- Lin Jian
+- Linda McMahon
+- Loui Ridi
+- Luis Manuel Aviles
+- Marco Rubio
+- Mark Carney
+- Meredyth Yoon
+- Mike Huckabee
+- Mohammad Bagher Qalibaf
+- Pete Hegseth
+- Ronald Reagan
+- Scott Bessent
+- Sorry
+- Susan Collins
+- Susan Collins’
+- Teodoro Obiang Nguema Mbasogo
+- Tommy Pigott
+- Wendy Cutler
+- Xi Jinping
+- Yahya Saree
+organisations:
+- AP
+- Ambrey
+- Asia Society Policy Institute
+- Asian Americans Advancing Justice-Atlanta
+- BRE Line
+- Border Patrol
+- CNBC
+- Congress
+- DHS
+- Department of Homeland Security
+- Egyptian Navy
+- Financial Times
+- Ford
+- Foreign Ministry
+- Great Hall of China
+- Hegseth
+- Instagram
+- Oklahoma State University
+- Pentagon
+- Pied Piper
+- Shenzhen Huamei
+- State Department
+- State Sponsor of Terrorism
+- State and Treasury
+- Sweet Ocean
+- Sweet Ocean Industrial Limited
+- The Associated Press
+- The Treasury
+- The Trump
+- The Washington Post
+- Treasury Department
+- U.S. Department of Agriculture
+- U.S. Southern Command
+- U.S. Treasury
+- United Kingdom Maritime Trade Organization
+- United States Senate
 ---
 
 Treasury Secretary Scott Bessent said Monday that new U.S. secondary sanctions in the pipeline aim to block all potential sources of revenue for Iran, telling nations to cut economic ties to Tehran or face U.S. retaliation. Tehran has withstood nearly five decades of punishing American sanctions. Ahead of the announcement, Iran’s currency hit a record low, dropping to 2.02 million to the U.S. dollar as trading opened on currency markets.

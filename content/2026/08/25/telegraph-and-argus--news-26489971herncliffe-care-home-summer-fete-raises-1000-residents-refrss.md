@@ -13,6 +13,26 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Keighley
+people:
+- '## Herncliffe'
+- Dad
+- Daisy Couture
+- David Hardman
+- Helen McAskill
+- Jacqui Ritchie
+- Julie Domaill
+- Mick Smith
+- Mr Hardman
+- Parkinson
+- Ruth Thompson
+- Ruth Thompson *(Image
+organisations:
+- '## Staff'
+- Daisy Couture
+- Herncliffe Care Home
+- Summit Care Group
 ---
 
 A CARE home summer fete raised £1,000 to fund days out and trips for its residents, with part of the money donated to charity.

@@ -14,6 +14,16 @@ categories:
 - Harrogate
 - Health & Fitness
 - Family & Parenting
+locations:
+- Harrogate
+people:
+- Ella Smith-Dunn
+- Gianna
+- Joe
+- Kate Mortimer
+- Moses
+organisations:
+- Cocoon Healthcare
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8ef18716553402584.jpg) 

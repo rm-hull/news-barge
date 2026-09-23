@@ -11,6 +11,30 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ba0/live/fcd691
 categories:
 - UK
 - News & Politics
+locations:
+- Libya
+- Lockerbie
+- Malta
+- Netherlands
+- Scotland
+- Tripoli
+- US
+- United States
+- Washington
+people:
+- '![Fhimah'
+- Abdulbasset Al Megrahi
+- Abu Agila Mohammad Masud Kheir Al-Marimi
+- Al Amin Khalifah Fhimah
+- Al Marimi
+- Muammar Gaddafi
+organisations:
+- BBC
+- FBI
+- Fhimah
+- Libyan Airlines
+- US Government
+- United Nations
 ---
 
 ![Fhimah (centre) being escorted by security officers and surrounded by journalists before a hearing in 1992 in connection with the Lockerbie bombing. He has short brown hair and a moustache and is wearing a yellow jacket and a white and blue striped short.](https://ichef.bbci.co.uk/ace/standard/940/cpsprodpb/3ba0/live/fcd691c0-a11d-11f1-92eb-a9b3bbcf6f4a.jpg)

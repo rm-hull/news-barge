@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Gulf of Oman
+- Iran
+- Pakistan
+- Persian Gulf
+- Strait of Hormuz
+- Tehran
+- US
+- Washington
+people:
+- Abbas Araghchi
+- Badr Albusaidi
+- Donald Trump
+- Kazem Gharibabadi
+organisations:
+- Fox News
 ---
 
 ## Iran and Oman held talks in Tehran to discuss the management of traffic passing through the Strait of Hormuz, as well as a joint mine-clearing project. Further negotiations are expected to discuss a permanent solution.

@@ -12,6 +12,21 @@ image: https://static.independent.co.uk/2026/08/25/16/2290372400..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Florida
+- U.S.
+- White House
+people:
+- Donald Trump
+- Joseph Ladapo
+- Robert F. Kennedy Jr.
+organisations:
+- CDC
+- Centers for Disease Control and Prevention
+- Florida Department of Health
+- Health and Human Services
+- Oval Office
+- The Independent
 ---
 
 Florida health officials are trying to make good on their promise to end all vaccine requirements by introducing a new rule that would drop four required immunizations for public and private school attendance.

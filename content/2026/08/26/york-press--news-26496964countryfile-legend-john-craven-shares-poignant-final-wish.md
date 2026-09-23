@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Banbury
+- Bridlington
+- Otley Chevin
+- Oxfordshire
+- Wharfedale
+- Whitby
+- Yorkshire
+people:
+- John Craven
+- Jon Lewis
+organisations:
+- BBC
+- Countryfile
+- Farmers' Guardian
+- Newsround
+- Wales Online
+- Whitby
+- Yorkshire
 ---
 
 *(Image: Jon Lewis)*

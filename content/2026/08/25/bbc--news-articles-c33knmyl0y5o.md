@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- China
+- Cuba
+- Iran
+- Israel
+- North Korea
+- Russia
+- Syria
+- Turkey
+- US
+- White House
+people:
+- Ahmed al-Sharaa
+- Asaad Hassan al-Shaibani
+- Bashar al-Assad
+- Donald Trump
+- Marco Rubio
+- Scott Bessent
+- Sharaa
+organisations:
+- Foreign Terrorist Organisation
+- HTS
+- Hayat Tahrir al-Sham
+- SANA
+- US Treasury
+- al-Nusra Front
+- al-Qaeda
 ---
 
 ![Two men in dark suits and red ties smile and shake hands in front of windows and American flags](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/0972/live/c3169dc0-a016-11f1-b109-879e35c24276.jpg)

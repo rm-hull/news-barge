@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Australia
+- Bhote Koshi
+- Bhote Koshi River
+- China
+- Finland
+- France
+- Gyirong
+- Kathmandu
+- Mount Kailash
+- Nepal
+- Nepal-China
+- Nepal-Tibet
+- Norway
+- Nuwakot
+- Rasuwa
+- South Korea
+- Switzerland
+- Tibet
+- Trishuli
+- UK
+people:
+- Ed Miliband
+- Kumar Adhikari
+- Shisir Khanal
+organisations:
+- Alpine Eco Trek
+- EU
+- Reuters
 ---
 
 Thirty-three British citizens including a 13-year-old girl are among more than 400 travellers missing after a flash flood on the Nepal-Tibet border, according to Nepal’s tourism board.

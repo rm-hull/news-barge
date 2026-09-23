@@ -11,6 +11,31 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Africa
+- Atlantic Ocean
+- Bermuda
+- Cabo Verde Islands
+- Caribbean
+- Cristobal
+- Louisiana
+- Texas
+- U.S. Gulf Coast
+- Vanderbilt-Ingram Cancer Center
+people:
+- Bertha
+- Dolly Parton
+- Jolene
+- Marcel Pariseau
+- Melissa
+organisations:
+- El Nino
+- NHC
+- NOAA
+- National Hurricane Center
+- National Oceanic and Atmospheric Administration
+- WMO
+- World Meteorological Organization
 ---
 
 The next tropical storm that develops in the Atlantic this hurricane season will be called Dolly.

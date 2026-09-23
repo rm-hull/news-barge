@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- London
+people:
+- Lauren Beeching
+- Matthew Rosengart
+- Selena Gomez
+- Williams
+organisations:
+- Disney
+- Honest London
 ---
 
 ![Close up of Selena Gomez in make-up and silver jewellery and waving over her shoulder](https://ichef.bbci.co.uk/ace/standard/898/cpsprodpb/b96e/live/2b586050-a20e-11f1-9090-b51af3a01fc2.jpg)

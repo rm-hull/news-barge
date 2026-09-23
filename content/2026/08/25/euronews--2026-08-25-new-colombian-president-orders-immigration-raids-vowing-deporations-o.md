@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- America
+- Barranquilla
+- Colombia
+- US
+- Venezuela
+people:
+- Abelardo de la Espriella
+- Ana Karina García
+- De La Espriella
+- De la Espriella
+- Donald Trump
+- Iván Duque
+- de la Espriella
+organisations:
+- Immigration
+- Juntos Se Puede
+- United Nations
 ---
 
 ## The far-right leader, a close ally of Donald Trump, seemed to echo the rhetoric of the Trump administration. 'Colombians first, Colombians second, Colombians third, may that be clear to everyone,' de la Espriella said.

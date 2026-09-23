@@ -13,6 +13,13 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Barmpton Lane
+- Darlington
+people:
+- Anna Barnes
+organisations:
+- Northern Echo
 ---
 
 - Good afternoon, welcome to this Northern Echo live breaking news blog.

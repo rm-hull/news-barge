@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- Caffe Nero
+- Costa
+- Greggs
+- Which?
+people:
+- Costa
+- Jessica Carson
+organisations:
+- Caffe Nero
+- Costa Coffee
+- Greggs
+- Pret A Manger
+- Starbucks
 ---
 
 Those enjoying their morning coffee on the commute face ‘wildly’ different levels of caffeine, a new study shows.

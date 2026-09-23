@@ -17,6 +17,98 @@ categories:
 - True Crime
 - Society & Culture
 - Sports
+locations:
+- Cairo
+- Gaza City
+- Independent Arabia
+- Israel
+- Khan Younis
+- Lebanon
+- Middle East Eye
+- Nasser Hospital
+- UAE
+- Yassin Building
+people:
+- '** Samaher'
+- Abdallah al-Attar
+- Abu Ahmed
+- Abu Mahmoud
+- Ahmed Abu Aziz
+- Ahmed Siam
+- Al Jazeera
+- Ali Abu Latifa
+- Amanda Nasser
+- Anas Al Sharif
+- Baraa Lafi
+- Bassem Abu Nimr
+- Bel Trew
+- Blind
+- Chris Cobb-Smith
+- Doaa Alshaikh Eid
+- Earshot
+- Francesca Albanese
+- Ghaith
+- God
+- Hadi Torfi
+- Hatem Khaled
+- Hatem Omar
+- Hussam al-Masri
+- Ibrahim Qannan
+- Ibrahim Salama
+- Imad Al-Shaer
+- Imad al-Shaer
+- Ismail Al-Thawabta
+- Jamal Badah
+- Kevin Jon Heller
+- Khaled Shaath
+- Khan Younis
+- Lawrence Abu Hamdan
+- Mariam Abu Dagga
+- Matan Cohen
+- Moaz Abu Taha
+- Mohamad Ghadour
+- Mohamed Sakr
+- Mohamed Salama
+- N.R. Jenzen-Jones
+- Nadav Weiman
+- Omar Abu Teim
+- Osama Musbah
+- Raed Saqr
+- Rafael Hayun
+- Reuters’ Hatem Omar
+- Saja
+- Travis Melin
+organisations:
+- Al-Jazeera
+- Al-Thawabta
+- Armament Research Services
+- Associated Press
+- Breaking the Silence
+- CPJ
+- Centre for Military Studies
+- Committee to Project Journalists
+- ER
+- Elbit Systems
+- GBV
+- GLIA
+- General Staff Fact-Finding and Assessment Mechanism
+- Ghad TV
+- Golani Brigade
+- Hamas
+- Hezbollah
+- ICU
+- IDF
+- NGO
+- Nasser Hospital
+- Palestine TV
+- Planet Labs
+- Reuters
+- Southern Command
+- The Independent
+- UN
+- University of Copenhagen
+- WHO
+- World Health Organisation
 ---
 
 **9.30am, 25 August 2025**

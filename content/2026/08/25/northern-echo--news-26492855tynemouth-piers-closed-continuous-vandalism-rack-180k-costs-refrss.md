@@ -15,6 +15,16 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- North Pier
+- North and South
+- North pier
+- Port of Tyne
+- South Pier
+- Tynemouth
+people: []
+organisations:
+- Northumbria Police
 ---
 
 *(Image: Port of Tyne)*

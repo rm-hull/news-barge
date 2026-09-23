@@ -11,6 +11,24 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/532b/live/81abd6
 categories:
 - UK
 - News & Politics
+locations:
+- Kennedy Center
+- National Mall
+- Potomac River
+- US
+- Washington
+- White House
+people:
+- Brantley Mayers
+- Donald Trump
+- John F Kennedy
+organisations:
+- Board
+- East Wing
+- Kennedy Center
+- Nation's Capital
+- Trump
+- US Institute of Peace
 ---
 
 ![Aerial shot of the Kennedy Center](https://ichef.bbci.co.uk/ace/standard/721/cpsprodpb/532b/live/81abd680-a164-11f1-81f3-a1eb67c44aaf.jpg)

@@ -10,6 +10,14 @@ image: https://cdn.mos.cms.futurecdn.net/aBt4xDYv6hbiB3JyuDnEuM-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- AI
+- Future plc
+- SAP EMEA
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A digital grid criss-crossing the lights of a city below](https://cdn.mos.cms.futurecdn.net/aBt4xDYv6hbiB3JyuDnEuM.jpg) 

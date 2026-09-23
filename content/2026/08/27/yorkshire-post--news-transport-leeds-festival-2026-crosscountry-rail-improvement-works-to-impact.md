@@ -15,6 +15,28 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Birmingham New Street
+- Britain
+- Coleshill Parkway
+- HS2
+- Leeds Festivals
+- London
+- Midlands
+- Reading
+- Saltley Viaduct
+- Stafford
+- Stoke-on-Trent
+- Water Orton
+- Wolverhampton
+people:
+- Mark Anderson
+- Patrick Cawley
+organisations:
+- CrossCountry
+- Manchester Village Pride
+- National Rail Enquiries
+- On Network Works for Network Rail and HS2
 ---
 
 # Leeds Festival 2026: CrossCountry rail improvement works to impact journeys this weekend ahead of music festival

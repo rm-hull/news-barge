@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Travel
 - History
+locations:
+- '## Bodrum'
+- Aegean Coast
+- Bodrum Castle
+- Euronews’ Lilly Douse
+- Europe
+- Lake Bafa
+- Lilly Douse
+- St. John
+- Türkiye
+people:
+- Lilly
+organisations:
+- Bodrum Museum of Underwater Archaeology
+- Knights
 ---
 
 **Lilly Douse**

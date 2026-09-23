@@ -9,6 +9,22 @@ description: Hackers are yet to claim the attack
 image: https://cdn.mos.cms.futurecdn.net/fLLbfyMxWuqokngy6WuMzH-1981-80.jpg
 categories:
 - Technology & Software
+locations:
+- Bosnia and Herzegovina
+- Canada
+- Sarajevo
+people:
+- LockBit
+- Sead
+organisations:
+- Al Jazeera Balkans
+- Google News
+- Hospital for Sick Children
+- LockBit
+- Represent Communications
+- SickKids Foundation
+- TechRadar Pro
+- U.S Bank
 ---
 
 ![healthcare](https://cdn.mos.cms.futurecdn.net/fLLbfyMxWuqokngy6WuMzH.jpg) 

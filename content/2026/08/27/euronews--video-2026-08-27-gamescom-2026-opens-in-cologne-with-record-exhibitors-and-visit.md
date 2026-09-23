@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - Video Gaming
 - Technology & Software
+locations:
+- Germany
+people: []
+organisations:
+- Gamescom
+- Nintendo
+- Sega
 ---
 
 The event is bigger than ever this year, with the entire 233,000-square-metre exhibition space sold out for the first time. More than 1,700 exhibitors from 67 countries and regions are taking part, surpassing last year’s record of 1,568.

@@ -12,6 +12,53 @@ image: https://static.independent.co.uk/2026/08/21/21/2290640794..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Black Belt
+- Callais
+- Deep South
+- Dougherty County
+- Duval
+- Florida
+- Gadsden County
+- Georgia
+- Jacksonville
+- Lee County
+- North Carolina
+- South Carolina
+- Tennessee
+- Washington
+- Williamsburg County
+people:
+- Alex Vindman
+- Alexandria Ocasio-Cortez
+- Angie Nixon
+- Black
+- Callais
+- David Wilkerson
+- Don Davis
+- Donald Trump
+- Duval
+- Gadsden
+- James Clyburn
+- Jon Ossoff
+- Justin Pearson
+- Kristal Knight
+- Marco Rubio
+- Martin Luther King
+- Ron DeSantis
+- Val Demings
+organisations:
+- Black
+- Callais
+- Civil Rights Movement
+- Democratic National Committee
+- Gadsden
+- Louisiana
+- Organize Tennessee
+- Section 2
+- State House
+- Supreme Court
+- The Independent
 ---
 
 Angie Nixon, the minority leader in Florida’s state house, shocked many last week when she beat Alex Vindman, the incredibly well-funded former national security official who became a hero for many liberals after he testified during President Donald Trump’s first impeachment trial.

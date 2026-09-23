@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Birchington Avenue
+- Grangetown
+- Middlesbrough
+people:
+- Andy Burnham
+- Emily Harrison
+- Lisa Kirton
+- Natalie McDonald
+- OWEN HUMPHRIES
+- Valentina Foster
+organisations:
+- '**__Cleveland Police__**'
+- Cleveland Fire Brigade
+- Cleveland Local Policing
+- Cleveland Local Policing Commander
+- Cleveland Police
+- Incident Command Unit
+- Redcar
+- THE NORTHERN ECHO
 ---
 
 Floral tributes has been left at the scene of a Grangetown house fire which killed a seven-year-old girl and her aunt.

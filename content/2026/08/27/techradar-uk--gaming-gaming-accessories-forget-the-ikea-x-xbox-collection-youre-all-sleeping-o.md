@@ -11,6 +11,17 @@ image: https://cdn.mos.cms.futurecdn.net/7btfa32Z7rsCsmQGkZF3EE-2560-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Malomrade
+- UK
+- US
+people:
+- Ruth Hamilton
+organisations:
+- Google News
+- IKEA
+- Ruth
+- TechRadar
 ---
 
 ![IKEA gaming accessories](https://cdn.mos.cms.futurecdn.net/7btfa32Z7rsCsmQGkZF3EE.jpg) 

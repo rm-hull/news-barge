@@ -12,6 +12,41 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- A66
+- Cleveland
+- Lime Road
+- Middlesbrough
+- Redcar
+- Teesside
+people:
+- Andy Burnham
+- Cole Robert Worthy
+- Cole Robert Worthy Anna Turley
+- Derrick Campbell
+- Jacob Matusiak
+- Lauren Somerville
+- Makai Saddington
+- Matt Storey
+- Matthew Blades
+- Michael Robert Cahill
+- PC Blades
+- PC Clough
+- Theo Rae
+- Theo Ray
+- Tom Clough
+- Victoria Fuller
+organisations:
+- A66
+- Cleveland Police
+- Cleveland Police Federation
+- Great North Air Ambulance
+- IOPC
+- Independent Office for Police Conduct
+- Passat
+- Seahawks
+- Seaton Carew FC
+- Teesside Cleveland Police and Crime
 ---
 
 ![An overturned car is seen under a tarp, surrounded by police vehicles on a road.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/3e0e/live/11b179c0-9ebc-11f1-94b5-69fe6cc868f9.jpg)

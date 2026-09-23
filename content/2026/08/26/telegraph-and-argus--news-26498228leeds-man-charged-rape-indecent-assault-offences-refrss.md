@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Black Caribbean
+- Harehills
+- Leeds Magistrates’ Court
+- West Yorkshire
+people:
+- Zephaniah McIntosh
+organisations:
+- West Yorkshire Police
 ---
 
 *(Image: Supplied)*

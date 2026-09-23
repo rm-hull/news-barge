@@ -14,6 +14,24 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Gaza
+- Iceland
+- Ireland
+- Israel
+- Netherlands
+- Slovenia
+- Spain
+people:
+- Bangaranga
+- Dara
+- Taco Zimmerman
+organisations:
+- AVROTROS
+- EBU
+- European Broadcasting Union
+- Eurovision —
+- NPO
 ---
 
 A Dutch broadcaster announced Monday it is boycotting the Eurovision Song Contest for a second year, calling it a “platform for division” because of tensions over Israel's involvement.

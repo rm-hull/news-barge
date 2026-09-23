@@ -14,6 +14,15 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Morrisons Girlington
+- Victoria Shopping Centre
+- Young Street
+people: []
+organisations:
+- Morrisons
+- Newsquest
+- Telegraph & Argus
 ---
 
 An incident of fly-tipping has sparked health and safety concerns in a busy supermarket car park.

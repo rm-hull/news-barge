@@ -11,6 +11,20 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- East of England
+- Leeds
+- London
+- Manchester
+- Newcastle
+- South of England
+- UK
+- Wales
+- West Midlands
+people: []
+organisations:
+- Met Office
+- Wales
 ---
 
 Unsettled weather, longer spells of rain and a chance of thunderstorms is expected in the UK as August draws to an end.

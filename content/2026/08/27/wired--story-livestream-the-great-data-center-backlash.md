@@ -13,6 +13,20 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- AI
+- DC
+- Silicon Valley
+- Washington
+people:
+- Hugo Lowell
+- Maxwell Zeff**
+- Molly Taft
+- Tim Marchman
+organisations:
+- AI
+- AMA
+- WIRED
 ---
 
 Just a couple of years ago, hearing the term “data center” wouldn’t have struck a nerve with most Americans. Now, mention the noisy oversized warehouses and you’ll spark a fierce debate. The infrastructure powering the AI industry is at the heart of heated discussions of politics, business, and the environment, and in the months leading up to the 2026 midterm elections, backlash to data centers has proven to be an issue activating Americans across the political spectrum. We’re excited to answer all your questions about data centers at WIRED’s next livestream AMA on **September 10 at 12pm ET / 9am PT**.

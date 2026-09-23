@@ -13,6 +13,32 @@ image: https://cdn.mos.cms.futurecdn.net/nxDGgasmtR5gDDCsVXUGtG-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Turin
+- Venice
+- Vera
+people:
+- Grace
+- Jake Roach
+- Tom
+- Vera Nvidia
+organisations:
+- AI
+- AMD
+- BP
+- CPU
+- Diamond Rapids
+- Grace
+- Hot Chips
+- Intel
+- LPDDR5X
+- Micron
+- Nvidia Vera
+- Olympus
+- RDIMM
+- SCF
+- SpaceXAI
+- Tom’s Hardware
 ---
 
 ![Nvidia Vera CPU](https://cdn.mos.cms.futurecdn.net/nxDGgasmtR5gDDCsVXUGtG.jpg) 

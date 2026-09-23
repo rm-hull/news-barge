@@ -11,6 +11,24 @@ image: https://static.independent.co.uk/2026/08/28/01/preview.jpg?trim=0,0,0,0&w
 categories:
 - News & Politics
 - UK
+locations:
+- Chicago
+- Houston
+- Los Angeles
+- Maine
+- Minneapolis
+- Nevada
+- U.S.
+people:
+- Catherine Cortez Masto
+- Cortez Masto
+- Donald Trump
+organisations:
+- Compliant Technologies LLC
+- Congress
+- Department of Homeland Security
+- ICE
+- U.S. Immigration and Customs Enforcement
 ---
 
 U.S. Immigration and Customs Enforcement has agreed to a $16.7 million deal for 6,000 pairs of gloves capable of delivering painful electric shocks, stating that officers will use them to subdue uncooperative detainees and protesters.

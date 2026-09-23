@@ -15,6 +15,25 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Ascot
+- Britain
+- England
+- Owlerton
+- Sheffield
+- Yorkshire
+people:
+- Abbie MacGregor
+- Andy Burnham
+- Kinsley
+- Laybourn
+- Rt Hon William Ormsby-Gore
+organisations:
+- Doncaster
+- Greyhound Board of Great Britain
+- Jordan Pettitt
+- University of Huddersfield
+- Yorkshire
 ---
 
 # Don’t vilify Greyhound racing, it supports thousands of jobs and is rooted in working class communities - Abbie MacGregor

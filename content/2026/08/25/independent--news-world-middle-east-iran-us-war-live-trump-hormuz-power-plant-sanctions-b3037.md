@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Gaza
+- Iran
+- Israel
+- Miami
+- New York
+- Strait of Hormuz
+- Tehran
+- US
+- Washington
+- White House
+people:
+- '## Hegseth'
+- Ali Madanizadeh
+- Ayatollah Ali Khamenei
+- Benjamin Netanyahu
+- Donald Trump
+- Pete Hegseth
+- Scott Bessent
+- Yair
+organisations:
+- Channel 14
+- Pentagon
+- Reuters Ipsos
+- Reuters/Ipsos
+- Scott Bessent
+- Treasury
+- Trump
+- United Nations
 ---
 
 US defence secretary Pete Hegseth has said US strikes against Iran are possible after Washington unveiled an “economic D-Day” against Tehran.

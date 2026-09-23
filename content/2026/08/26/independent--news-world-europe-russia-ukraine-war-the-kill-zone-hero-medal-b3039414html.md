@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Kharkiv
+- Kyiv
+- Moscow
+- Russia
+- Starlink
+- Ukraine
+people:
+- Hero
+- Malyi
+- Vladyslav Polskyi
+- Vladyslav!
+- Volodymyr Zelenskiy
+organisations:
+- 475th Assault Regiment
+- Kyiv
+- Polskyi
+- Reuters
 ---
 
 Ukrainian commander Vladyslav Polskyi knew he had to do something when he saw two wounded fighters stranded on the battlefield — one of them still strapped to a land drone immobilized by a Russian strike.

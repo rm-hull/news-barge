@@ -14,6 +14,17 @@ categories:
 - York
 - Family & Parenting
 - Lifestyle & Fashion
+locations:
+- 54North Homes
+- Acomb
+people:
+- Gavin Fisk
+- Ms Cumberland
+- Nicola Cumberland
+organisations:
+- 54North Homes
+- MUM
+- Nicola’s
 ---
 
 A MUM has hit out at the housing association responsible for her Acomb home after she said she and her children were left in "rat-infested" conditions.

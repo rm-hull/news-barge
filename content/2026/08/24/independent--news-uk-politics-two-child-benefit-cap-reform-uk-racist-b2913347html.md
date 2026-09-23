@@ -11,6 +11,33 @@ image: https://static.independent.co.uk/2026/01/26/12/20/Reform-UK-Launches-Vete
 categories:
 - News & Politics
 - UK
+locations:
+- Bishop Auckland
+- Brighton Pavilion
+- UK
+people:
+- Andrew Pakes
+- John McDonnell
+- Kit Malthouse
+- Lee Anderson
+- Liz Truss
+- Ms Pochin
+- Sam Rushworth
+- Sarah Pochin
+- Sian Berry
+organisations:
+- Ashfield
+- Government
+- Green Party
+- Helsby
+- House
+- Labour
+- Members of Parliament
+- Peterborough
+- Reform Party
+- Reform UK
+- Reform-UK-Launches-Veterans-for-Reform-During-A-Press-Conference-In-London-s9pnmnaq.jpeg
+- Tory
 ---
 
 Reform UK has been labeled racist for arguing that the two-child benefit cap should only be lifted for families where both parents are British and in full-time work.

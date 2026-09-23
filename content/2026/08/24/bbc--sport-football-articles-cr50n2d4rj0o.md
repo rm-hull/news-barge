@@ -14,6 +14,29 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Johan Cruyff Arena
+- Kooi Stadion
+- Leeuwarden
+people:
+- Arne Slot
+- Foort van Oosten
+- Giovanni van Bronckhorst
+- Jan Bluyssen
+- Play
+- Robert Eenhoorn
+- Tjark Ernst
+organisations:
+- ANP
+- Ajax
+- Eredivisie
+- Feyenoord
+- Groningen
+- KNVB
+- Kooi Stadion
+- Liverpool
+- Play
+- SC Cambuur
 ---
 
 ![Feyenoord supporters set off fireworks and throw them onto the pitch near goalkeeper Tjark Ernst during their match at SC Cambuur](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2955/live/4e45a290-9fa6-11f1-aed2-8d6da8d75094.jpg)

@@ -15,6 +15,23 @@ categories:
 - UK
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- Mexico
+- Miami
+- U.S.
+- United States
+people:
+- Christopher Landau
+- Julia Gelatt
+- Trump
+organisations:
+- DHS
+- Department of Homeland Security
+- Migration Policy Institute
+- State Department
+- The Associated Press
+- U.S. Citizenship and Immigration Services
+- ___ Salomon
 ---
 
 The Trump administration has trained much of its immigration crackdown on people who entered the United States illegally from Mexico and elsewhere, but it is intensifying another battle, this time with people who come legally.

@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bhote Koshi
+- Chamoli
+- Chhochen Khola
+- China
+- Dharali
+- Gyirong Port
+- India
+- Langtang Lirung
+- Nepal
+- Nepal-Tibet
+- Purepu Tsangpo
+- Tibet
+- Trishuli
+people:
+- Jakob Steiner
+- Mohd Farooq Azam
+organisations:
+- BBC
+- CCTV
+- International Centre for Integrated Mountain Development
+- Ministry of Water
+- University of Graz
 ---
 
 ![Barrier lake formed near Nepal and Tibet border](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/52e4/live/e6ac0c40-a2a3-11f1-ab20-f9f4f61e8913.jpg)

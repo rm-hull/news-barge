@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- A439 Warwick Road
+- A46
+- Birmingham Road
+- Stratford
+people:
+- Steve Flavell
+organisations:
+- Audi
+- Ford
+- IOPC
+- Independent Office for Police Conduct
+- The Independent
+- Warwickshire Police
 ---
 
 A man has died and a woman is critically injured after a pursuit involving a police vehicle and a car near Stratford.

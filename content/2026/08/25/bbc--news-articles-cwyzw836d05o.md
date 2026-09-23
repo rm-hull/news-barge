@@ -11,6 +11,34 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e344/live/b69753
 categories:
 - UK
 - News & Politics
+locations:
+- Bandar Abbas
+- Beijing
+- China
+- Gulf
+- Iran
+- Islamic Republic
+- Israel
+- Middle East.
+- MoU
+- Oman
+- Strait of Hormuz
+- Tehran
+- US
+- Washington
+people:
+- Abbas Araghchi
+- Ali Madanizadeh
+- Badr Albusaidi
+- Donald Trump
+- Scott Bessent
+- Xi Jinping
+organisations:
+- Memorandum of Understanding
+- MoU
+- Truth Social
+- US Navy
+- US Treasury
 ---
 
 Watch: What are these sanctions and who will be affected?

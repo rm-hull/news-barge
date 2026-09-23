@@ -12,6 +12,19 @@ image: https://cdn.mos.cms.futurecdn.net/GKhBbdqqZH3ZQa8xFuuvUh-1536-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Luke James
+- Tom
+organisations:
+- 8BitDo
+- AMD
+- GameSir
+- Google News
+- Microsoft
+- ROG Xbox Ally
+- Razer Basilisk
+- Xbox Mode
 ---
 
 ![Xbox marks 25 years with a translucent green accessory line, but none of it is Xbox hardware](https://cdn.mos.cms.futurecdn.net/GKhBbdqqZH3ZQa8xFuuvUh.jpg) 

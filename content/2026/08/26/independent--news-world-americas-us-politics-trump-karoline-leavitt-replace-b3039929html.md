@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Washington, D.C.
+- White House
+people:
+- Alina Habba
+- Anna Kelly
+- Donald Trump
+- JD Vance
+- Jennings’
+- Karoline Leavitt
+- Katie Miller
+- Margo Martin
+- Mike Pence
+- Mitch McConnell
+- Pete Hegseth
+- Scott Jennings
+- Stephen Miller
+- Steven Cheung
+- Susie Wiles
+organisations:
+- Air Force One
+- CBS News
+- CBS News’
+- CNN NewsNight
+- Homeland Security Department
+- Trump
+- White House Communications
 ---
 
 President Donald Trump has still not picked a replacement for his outgoing press secretary, Karoline Leavitt, just days before she leaves the White House.

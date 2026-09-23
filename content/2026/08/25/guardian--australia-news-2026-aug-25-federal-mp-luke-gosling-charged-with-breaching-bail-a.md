@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Australia
+- Canberra
+- Darwin
+- Northern Territory
+- Palmerston
+- Solomon
+people:
+- Angus Taylor
+- Anthony Albanese
+- Connelly
+- David Connolly
+- James Paterson
+- Luke Gosling
+- Solomon
+organisations:
+- Guardian Australia
+- Labor
+- Northern Territory Police Force
 ---
 
 Northern Territory police has charged federal Labor MP Luke Gosling with one count of breaching bail conditions less than one month after he was arrested over the alleged assault of the Territory’s administrator, David Connolly.

@@ -13,6 +13,26 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Blackpool
+- Currergate Nursing Home
+- Etihad Stadium
+- Fairmount Park
+- The Clubhouse
+people:
+- Emma
+- Konrad Czajka
+organisations:
+- Bradford Pride
+- Brookfield Care Home
+- Butlin’s
+- Currergate Nursing Home
+- Czajka Care Group
+- Fairmount Park
+- Manchester City
+- SSC Napoli
+- Staveley Birkleas Nursing Home
+- The Clubhouse
 ---
 
 In partnership with

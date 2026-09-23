@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Acropolis
+- Athens
+- Panama
+- Syntagma Square
+people:
+- Jack Yosif
+- Konstantinos Mallios
+- Lisa Sarigiannidou
+- Srdjan Nedeljkovic
+- Theodora Tongas
+organisations:
+- Red Cross
 ---
 
 Outside the Acropolis, a sea of hats bobs up and down the hill to the ancient site: straw boaters, Panama hats, baseball caps and bucket hats in the relentless heat.

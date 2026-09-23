@@ -12,6 +12,30 @@ image: https://static.independent.co.uk/2025/08/10/23/093fec75b39a6540cbbfaf9e1c
 categories:
 - News & Politics
 - UK
+locations:
+- Australia
+- Belgium
+- Britain
+- Canada
+- Greater Manchester
+- Netherlands
+- UK
+- US
+people:
+- Alcolocks
+- Andy Burnham
+- Simon Williams
+organisations:
+- '![Driver and Vehicle Licensing Agency'
+- Brake
+- Department for Transport
+- DfT
+- National Police Chiefs’ Council
+- RAC
+- Road Safety Foundation
+- Road Safety Great Britain
+- Royal Society for the Prevention of Accidents
+- Vehicle Licensing Agency
 ---
 
 Senior police officers and road safety campaigners have written to Prime Minister Andy Burnham urging him to introduce alcolocks for motorists who repeatedly drink-drive.

@@ -11,6 +11,43 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- Japan
+- London
+- Stamford Bridge
+- Strasbourg
+- Villa Park
+people:
+- Alejandro Garnacho
+- Chelseahave
+- Emiliano Martinez
+- Gonzalo Garcia
+- Guglielmo Vicario
+- Ian Maatsen
+- Josh King
+- Mike Penders
+- Morgan Rogers
+- Nicolas Jackson
+- Omari Kellyman
+- Robert Sanchez
+- Unai Emery
+- Villa
+- Villagoalkeeper Emiliano Martinez.
+- Zion Suzuki
+organisations:
+- Blues
+- Chelsea
+- Europa League
+- Fulham
+- Genk
+- Juventus
+- Luton Town
+- PSR
+- Parma
+- Tottenham
+- Villa
+- Villarreal
 ---
 
 ![Emiliano Martinez punches the air](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2cb9/live/9970a180-a243-11f1-804a-af7f2afa0e85.jpg)

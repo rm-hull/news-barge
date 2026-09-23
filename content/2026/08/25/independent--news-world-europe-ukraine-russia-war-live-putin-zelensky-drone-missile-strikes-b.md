@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Black Sea
+- Britain
+- Kremlin
+- Kryvyi Rih
+- Kyiv
+- Moscow
+- Nazi Germany
+- Odesa
+- Russia
+- UK
+- UK-Russia
+- UK-Ukraine
+- Ukraine
+people:
+- Andy Burnham
+- Bryony Gooch
+- Dmitry Peskov
+- Margarita Konovalova
+- Suha Kidwai
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- Central Bank
+- Coalition of the Willing
+- FSB
+- Kyiv
+- Nato
+- Pussy Riot
+- The Insider
 ---
 
 Moscow has claimed it has hit a cargo ship in the Black Sea hours after Ukraine called for a “diplomatic” solution to escalating strikes.

@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Family & Parenting
+locations:
+- UK
+people:
+- Aldi
+organisations:
+- OPSS
+- Office for Product Safety and Standards
+- Snugly
 ---
 
 *(Image: OPSS)*

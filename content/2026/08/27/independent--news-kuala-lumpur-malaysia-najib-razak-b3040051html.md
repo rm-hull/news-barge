@@ -14,6 +14,13 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people:
+- Ismail Sabri Yaakob
+- Muhyiddin Yassin
+- Najib Razak
+organisations:
+- 1MDB
 ---
 
 Malaysian former Prime Minister Ismail Sabri Yaakob was charged Thursday with failing to declare his assets, making him the nation's third leader to face criminal charges after leaving office.

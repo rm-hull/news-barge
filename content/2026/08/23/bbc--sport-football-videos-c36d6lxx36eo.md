@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- St James' Park
+- UK
+people:
+- Szoboszlai
+organisations:
+- Liverpool
+- Newcastle United
+- Premier League
 ---
 
 # Late penalty for Liverpool denies Newcastle win

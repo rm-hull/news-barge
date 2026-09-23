@@ -13,6 +13,16 @@ categories:
 - UK
 - Careers & Productivity
 - Business & Entrepreneurship
+locations: []
+people:
+- Keith Karlick
+- Michaela Weber
+organisations:
+- Commerce
+- Feedonomics FeedGrader
+- Google Shopping
+- VP Product Payments
+- YouTube
 ---
 
 *Feedonomics is a Business Reporter client*

@@ -12,6 +12,13 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Lucy Pittaway
+- North Yorkshire
+- York
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

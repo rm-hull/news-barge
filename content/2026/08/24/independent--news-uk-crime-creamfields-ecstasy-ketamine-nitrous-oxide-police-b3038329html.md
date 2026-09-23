@@ -11,6 +11,23 @@ image: https://static.independent.co.uk/2026/08/24/16/01M0SXSK4SJ1D41SCYRC5HRT78
 categories:
 - News & Politics
 - UK
+locations:
+- Creamfields
+- Daresbury
+- Warrington
+people:
+- Andy Blizard
+- Calvin Harris
+- Carl Cox
+- Martin Garrix
+organisations:
+- AURA
+- Amelie Lens
+- Cheshire Constabulary
+- Creamfields
+- Faithless
+- Swedish House Mafia
+- Underworld
 ---
 
 Ecstasy, ketamine and more than 200 canisters of nitrous oxide have been found buried beneath the grounds of the Creamfields festival site.

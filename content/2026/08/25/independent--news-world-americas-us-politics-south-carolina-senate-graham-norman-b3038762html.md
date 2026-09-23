@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Charleston
+- Myrtle Beach
+- R-S.C.
+- Sen
+- South Carolina
+- South China Sea
+- Taiwan
+- U.S.
+- United States
+- Washington
+people:
+- Annie Andrews
+- Charlie Kirk
+- Darline Graham
+- Darline Graham Nordone
+- Donald Trump
+- Jim DeMint
+- Lindsey Graham
+- Mike Lee
+- Nikki Haley
+- Ralph Norman
+- Rick Scott
+- Robert Tropiano
+organisations:
+- House
+- PAC MAGA Inc
+- R-SC
+- Senate
+- The Associated Press
+- Turning Point Action
 ---
 
 South Carolina Republicans return to the polls on Tuesday to decide a high-stakes U.S. Senate primary runoff, choosing between Sen. Darline Graham and U.S. Rep. Ralph Norman just one month after the sudden death of Lindsey Graham.

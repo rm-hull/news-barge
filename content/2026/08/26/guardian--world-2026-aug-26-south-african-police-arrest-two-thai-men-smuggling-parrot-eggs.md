@@ -11,6 +11,19 @@ image: https://i.guim.co.uk/img/media/e903e0b47376ef26a7278cd8f932b6e17e119b32/0
 categories:
 - UK
 - News & Politics
+locations:
+- Johannesburg
+- National Zoological Garden
+- OR Tambo
+- Pretoria
+- South Africa
+- Thailand
+people: []
+organisations:
+- Cites
+- Convention on International Trade in Endangered Species of Wild Fauna and Flora
+- Environmental Management Inspectorate
+- Green Scorpions”
 ---
 
 South African police have arrested two Thai nationals in separate incidents for allegedly attempting to smuggle endangered parrot eggs out of the country as authorities try to stem the tide of wildlife trafficking.

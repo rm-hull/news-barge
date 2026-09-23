@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Memphis
+- New York
+- Tennessee
+- U.S.
+- Washington, D.C.
+people:
+- Donald Trump
+- Leonard Adam Sipes Jr.
+organisations:
+- AI
+- Axios
+- FBI
+- Justice Department
+- National Guard
+- Ozempic
+- Trump
 ---
 
 As the U.S. marks its sharpest decrease in violent crime in recent history, researchers are leaving no stone unturned trying to decipher — with some even questioning whether the rise in Ozempic could be a factor in the lowered rates of violent offenses.

@@ -13,6 +13,69 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- America
+- Dearborn
+- Gaza
+- Howell
+- Iraq
+- Israel
+- Michigan
+- Minnesota
+- New York City
+- Palestine
+- Troy
+- US
+- Washington
+- White House
+people:
+- Abandon Biden
+- Abandon Harris
+- Abdul El-Sayed
+- Aisha Farooqi
+- Amin Hashmi
+- Amir Makled
+- Ann Arbor
+- Chris Gilmer-Hill
+- Democrats El-Sayed
+- Donald Trump
+- Donavan McKinney
+- Dorian Sdunek
+- El-Sayed Like Ahmed
+- Eli Savit
+- George Bush
+- George W Bush
+- Green
+- Haley Stevens
+- Jeremy Moss
+- Jill Stein
+- Joe Biden
+- Kamala Harris
+- Lexis Zeidan
+- Mike Rogers
+- Peggy Flanagan
+- Rashida Tlaib
+- Rima Mohammad
+- Samraa Luqman
+- Shereef Akeel
+- Waqas Sarwar
+- Will Lawrence
+- Yousef Rabhi
+- Zainab Bibi Ahmed
+- Zohran Mamdani
+organisations:
+- Aipac
+- Amnesty International
+- Arab Americans for Progress
+- GOP
+- Green
+- ICE
+- Immigration and Customs Enforcement
+- People’s Coalition
+- Senate
+- Trump
+- US House
+- Wayne State University
 ---
 
 Two years ago, Zainab Bibi Ahmed thought she had turned her back on the Democrats for good. Now, she is volunteering for the party’s US Senate nominee in Michigan, Abdul El-Sayed.

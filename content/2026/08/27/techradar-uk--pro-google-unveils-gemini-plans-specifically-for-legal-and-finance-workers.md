@@ -11,6 +11,44 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- Claude
+- Cleary
+- Connolly
+- Rahim Amir
+- Weil
+- Williams
+organisations:
+- AI
+- Anthropic
+- ChatGPT Work
+- CourtListener
+- Courtroom5
+- Deutsche Bank
+- DocuSign
+- Everlaw
+- Free Law Project
+- Freshfields
+- Frontier
+- Gemini Enterprise
+- Google Cloud
+- Google News
+- Harvey
+- Legora
+- Microsoft
+- NetDocuments
+- OpenAI
+- PC
+- PCs
+- RGB
+- RelativityOne
+- SFF
+- Solve Intelligence
+- TechRadar Pro
+- Thomson Reuters
+- Word
+- iManage
 ---
 
 ![Google](https://cdn.mos.cms.futurecdn.net/be83179733a5f75b64a917e1fa430080.jpg) 

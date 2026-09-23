@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Birmingham
+- London
+- UK
+people:
+- Joe Lycett
+- Tom Beck
+organisations:
+- Channel 4
+- Lycett Arms
+- The Lycett Arms
 ---
 
 Comedian Joe Lycett aims to "celebrate our British boozers" in a new live pub series set to broadcast on Channel 4.

@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Home, Garden & DIY
+locations:
+- London
+- UK
+people:
+- Graham Bell
+- James Reed
+- Lara Clarke
+- Lydia Lloyd
+- Marcia Kilgore
+- Vivien Wong
+organisations:
+- B&Q
+- Bell
+- Bloomberg Television
+- Lloyd
+- M&S
+- Reed Executive Ltd.
 ---
 
 ![Young woman relaxing at home with her dog in bed with candles and hot drink](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0aaa/live/ab0c2bb0-a1ff-11f1-a97e-999c5aae08bf.jpg)

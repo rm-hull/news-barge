@@ -11,6 +11,17 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- AI
+people: []
+organisations:
+- AI
+- Future plc
+- GenAI
+- LLM
+- MAISA
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A female worker using a VR headset in an office in front of a futuristic display](https://cdn.mos.cms.futurecdn.net/kpe85PSML9a3odjj2PX8RL.jpg) 

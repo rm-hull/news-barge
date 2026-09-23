@@ -12,6 +12,17 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Anglet
+- Bayonne
+- France
+people:
+- Elisabeth Leroux
+- Sophie Lainault
+organisations:
+- AFP
+- Air France
+- CFDT
 ---
 
 A flight attendant in France has succeeded in having her breast cancer recognised as an occupational disease, a first for the country’s aviation industry, her lawyer and a trade union said.

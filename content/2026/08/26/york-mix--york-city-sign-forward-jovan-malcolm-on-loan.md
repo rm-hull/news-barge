@@ -11,6 +11,31 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Accrington
+- Barrow
+- Gateshead
+- LNER Community Stadium
+- West Brom
+- West Bromwich Albion
+people:
+- City
+- Jovan Malcolm
+- Scott Lindsey
+organisations:
+- Baggies
+- Cheltenham
+- Chesterfield
+- City He
+- Forest Green Rovers
+- Gateshead
+- Heed’s
+- Minstermen
+- Reds
+- Solihull Moors
+- Stevenage
+- Wealdstone
+- York City
 ---
 
 York City today announced the signing of Jovan Malcolm, on loan from Stevenage.

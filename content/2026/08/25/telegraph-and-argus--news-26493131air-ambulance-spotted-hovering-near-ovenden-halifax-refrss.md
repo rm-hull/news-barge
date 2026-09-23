@@ -12,6 +12,14 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Halifax
+- Ovenden Wood Road
+- UGC
+people: []
+organisations:
+- West Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 *(Image: UGC)*

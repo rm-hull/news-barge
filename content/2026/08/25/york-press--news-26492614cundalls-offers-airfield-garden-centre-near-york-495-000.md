@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- '## Garden'
+- Cundalls Malton
+- Fangfoss
+- Full Sutton
+- Gowthorpe Lane
+- Holland
+- The Airfield Garden Centre
+- York
+people:
+- Cundalls
+organisations:
+- Airfield Nurseries
+- Cundalls
+- Fangfoss
 ---
 
 ## Garden centre near York goes on the market for £495,000

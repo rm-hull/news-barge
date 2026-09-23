@@ -12,6 +12,48 @@ image: https://cdn.mos.cms.futurecdn.net/spskqKYWG4h7MfYfWCiysg-1845-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- America
+- Arena
+- New York City
+people:
+- Danger
+- Doom
+- Green Goblin
+- Loki
+- Magik
+- Magneto
+- Marvel Tokon
+- Peni Parker
+- Rhys Wood
+- Storm
+- Thor
+organisations:
+- Arc System Works
+- Arc System Works'
+- Battle Guide
+- Black Panther
+- Capcom
+- DRM
+- Deadpool
+- Fighting Avengers
+- GameSir G7 Pro
+- Green Goblin
+- Iron Man
+- Knights of Doom
+- Magik, Star-Lord, Spider-Man
+- Marvel
+- PC
+- PS5
+- PSN
+- RIG
+- Razer Kitsune
+- Rhys
+- Sony
+- TRG
+- TechRadar
+- Wolverine
+- X-Men
 ---
 
 ### TechRadar Verdict

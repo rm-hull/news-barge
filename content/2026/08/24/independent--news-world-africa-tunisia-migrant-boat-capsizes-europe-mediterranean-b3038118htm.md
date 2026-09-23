@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Africa
+- Ben Guerdane
+- Djerba
+- Europe
+- Italy
+- Mediterranean
+- Tunisia
+- Zarzis
+people:
+- Houssem Eddine Jebabli
+- Mosaique
+organisations:
+- Amnesty International
+- Associated Press
+- EU
+- European Union
+- Mosaique FM
+- TAP
 ---
 
 At least two people have died and 12 remain missing after a boat carrying migrants overturned off the southern coast of Tunisia, the national guard confirmed on Saturday. A single survivor was rescued.

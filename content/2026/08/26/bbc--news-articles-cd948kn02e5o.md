@@ -12,6 +12,49 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Australia
+- Bhote Koshi
+- Canada
+- China
+- Dhading
+- Gorkha
+- Himalaya
+- Hindu Kush
+- India
+- Kathmandu
+- Khadga Bhanjyang
+- Malaysia
+- Narayani
+- Nepal
+- Nepal-Tibet
+- Netherlands
+- Nuwakot
+- Portugal
+- Rasuvagadhi Border
+- Rasuwa
+- South Africa
+- South Korea
+- Tibet
+- Tibet-Nepal
+- Trishuli Bazar
+- Trishuli River
+- UK
+- US
+- Ukraine
+- United Kingdom
+people:
+- Andy Burnham
+- Narendra Modi
+- Shreejana Shrestha
+- Xi Jinping
+organisations:
+- BBC Nepali
+- Building
+- Fishtail Tours
+- Foreign Ministry
+- Nepal Tourism board
+- United States Geological Survey
 ---
 
 Video shows scale of flash flood hitting Nepal-Tibet border

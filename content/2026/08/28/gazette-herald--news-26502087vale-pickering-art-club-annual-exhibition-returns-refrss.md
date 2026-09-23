@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Pickering
+- Potters Hill
+people:
+- Emma Dineen
+organisations:
+- Memorial Hall
+- Vale of Pickering Art Club
 ---
 
 The Vale of Pickering Art Club's annual exhibition is returning next month.

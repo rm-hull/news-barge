@@ -12,6 +12,32 @@ image: https://cdn.mos.cms.futurecdn.net/tqXiLu8s3qxn9dqa3yyVMW-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Australia
+- Plaud
+- UK
+- US
+people:
+- Graham Barlow
+- Plaud One
+organisations:
+- AI
+- Artefacts the Agent
+- BBC One Breakfast
+- BBC TV
+- Computeractive
+- Google Calendar
+- Google News
+- Mac
+- MacFormat
+- PC Pro
+- Plaud Agent
+- Plaud Intelligence
+- Plaud One
+- Radio 4
+- TBC
+- TechRadar
+- iMore
 ---
 
 ![Plaud One Explorer Edition](https://cdn.mos.cms.futurecdn.net/tqXiLu8s3qxn9dqa3yyVMW.jpg) 

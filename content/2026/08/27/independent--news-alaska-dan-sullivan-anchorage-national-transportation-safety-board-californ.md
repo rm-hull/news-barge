@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Alaska
+- Anchorage
+- California
+- Seldovia Slough
+- U.S.
+people:
+- Clint Johnson
+- Dan Sullivan
+- Daniel Simons
+- Eric Middlebrook
+- Lance Schmidt
+- Ronald Schmidt
+organisations:
+- Alaska Department of Public Safety
+- Federal Aviation Administration
+- NTSB
+- National Transportation Safety Board
 ---
 
 The pilot and three passengers killed when a small plane crashed in shallow waters near a remote coastal town in Alaska have been identified.

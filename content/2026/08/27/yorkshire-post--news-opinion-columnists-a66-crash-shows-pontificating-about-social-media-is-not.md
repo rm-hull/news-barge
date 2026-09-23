@@ -18,6 +18,30 @@ categories:
 - News & Politics
 - Society & Culture
 - Technology & Software
+locations:
+- Cleveland
+- Dublin
+- Ireland
+- M9
+- Middlesbrough
+- UK
+people:
+- Alex McCarthy
+- Burnham
+- Jack Kennedy
+- Jayne Dowle
+- Joe Carthy
+- Kamil Pustkowski
+- Matthew Blades
+- Owen Humphreys
+- Tom Clough
+organisations:
+- A66
+- BMW
+- Cleveland Police HQ
+- Labour
+- Ofcom
+- TikTok
 ---
 
 # A66 crash shows pontificating about social media is not enough - Jayne Dowle

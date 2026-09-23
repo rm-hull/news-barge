@@ -12,6 +12,30 @@ image: https://images.euronews.com/articles/stories/09/88/66/00/1200x675_cmsv2_6
 categories:
 - Europe
 - News & Politics
+locations:
+- AI
+- America
+- China
+- Michigan
+- Ohio
+- Texas
+- US
+- White House
+people:
+- Donald Trump
+- Greg Abbott
+- JD Vance
+- Jon Husted
+- Mike Rogers
+- Sherrod Brown
+organisations:
+- AI
+- Big Tech
+- Gallup
+- National Republican Senatorial Committee
+- Republican Party
+- Trump
+- US Senate
 ---
 
 ## Less than three months before the midterm elections, Republicans are already facing tough headwinds – and now an unlikely issue has the potential to galvanise voters against them even further.

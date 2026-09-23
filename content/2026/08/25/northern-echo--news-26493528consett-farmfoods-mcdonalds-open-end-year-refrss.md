@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Cockfield
+- Consett Iron Works
+- Genesis Way
+- Ponds Court
+- The Ponds Court
+- YOUR
+people:
+- Kathryn Rooney
+organisations:
+- Consett North
+- Darlington M&S Food Hall North East
+- Durham County Council
+- Farmfoods
+- HGV
+- McDonald’s
+- Project Genesis
+- Public Notice Portal
+- The King's Head
+- The Northern Echo
 ---
 
 *(Image: NORTHERN ECHO)*

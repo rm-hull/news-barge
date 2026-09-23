@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Britain
+- Devon
+- English West Country
+- Lac Léman
+- Lake Geneva
+- Lake Maggiore
+- Lake Thun
+- Switzerland
+people:
+- Jack
+- Lily
+- Neil Gilson
+- Pandas
+organisations:
+- Guinness World Records
+- Léman
 ---
 
 He staggered rather than sprang out of the lake but it wasn’t surprising.

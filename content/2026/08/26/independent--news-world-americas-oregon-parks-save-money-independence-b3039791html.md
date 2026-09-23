@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Oregon
+- Pioneer Park
+- Riverview Park
+- Salem
+people:
+- John Weatherall
+- Kate Schwarzler
+organisations:
+- City of Independence
+- Heritage Museum
+- Independence City Council
+- KOIN
 ---
 
 An Oregon city is so strapped for cash that it has fenced off all its public parks and is shutting down its museums, and potentially its library, to cut costs.

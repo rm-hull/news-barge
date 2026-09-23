@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- '## Portland'
+- Austin
+- Charlotte
+- Charlotte-Mecklenburg
+- City of Portland
+- Dignity Village
+- Dignity Village Dignity Village
+- Los Angeles
+- Missouri
+- North Carolina
+- Oregon
+- Phoenix
+- Seattle
+- Springfield
+- Texas
+- Travis County
+- U.S
+- U.S.
+- United States
+people:
+- Brandon Marc FinnResearch
+- Yetimoni Kpeebi
+organisations:
+- Community First
+- Community First Village
+- Dignity Village
+- School for Environment and Sustainability
+- The Conversation
+- University of Michigan
+- University of North Carolina
 ---
 
 Recent population estimates show that Charlotte, North Carolina, is the fastest-growing large city in the United States. The city added more than 20,000 residents between 2024 and 2025 and is rapidly approaching a population of 1 million.

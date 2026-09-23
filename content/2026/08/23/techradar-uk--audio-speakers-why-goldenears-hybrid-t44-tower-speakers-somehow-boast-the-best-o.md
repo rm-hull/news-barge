@@ -11,6 +11,26 @@ image: https://cdn.mos.cms.futurecdn.net/4h84nzbP5AGhXgkGEHxpFX-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- James Holland
+people:
+- Goldenear
+- James Holland
+- Kacey Musgraves’
+- Sandy Gross
+organisations:
+- AMT
+- Anthem
+- Definitive Technology
+- Goldenear
+- Google News
+- Homes & Gardens
+- Martin Logan
+- PML Sound International
+- Paradigm
+- Polk Audio
+- TechRadar
+- Top Ten Reviews
 ---
 
 ![A wide shot of the Goldenear T44](https://cdn.mos.cms.futurecdn.net/4h84nzbP5AGhXgkGEHxpFX.jpg) 

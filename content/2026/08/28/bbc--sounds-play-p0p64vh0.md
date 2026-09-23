@@ -11,6 +11,32 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Iran
+- Moscow
+- Russia
+- UK
+- Washington
+people:
+- Adam Fleming
+- Chris Gray
+- Eleanor Harrison-Dengate
+- Hugh Pym
+- Jack Maclaren
+- Joe Wilkinson
+- John Ratcliffe
+- Mike Regaard
+- Sam Bonham
+- Shashank Joshi
+- Trump
+organisations:
+- BBC Sounds
+- CIA
+- NATO
+- NHS
+- News and Current Affairs
+- Newscast
+- WhatsApp
 ---
 
 ## Episode details

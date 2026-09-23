@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/mDC76z55tQaYVFSYMAzKMH-1200-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Tom
+organisations:
+- AGI
+- AMD Zen
+- ARM
+- Apple
+- CPU
+- Capcom
+- Fujitsu
+- Get Tom's Hardware
+- IBM
+- Intel
+- Microarchitecture
+- Premium Arm
+- Premium Nvidia
+- UCIe
+- Wildcat Lake
 ---
 
 Microprocessors are the beating heart of your computer, and cutting edge technical advances continue to drive the technology forward. From chiplet tech and nanoprocessing to AI chips and more, Tom's Hardware is the industry standard for CPU news and reviews.

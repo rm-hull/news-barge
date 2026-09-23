@@ -12,6 +12,12 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Sydney
+people:
+- Martin Farrer
+- Nick Visser
+organisations: []
 ---
 
 Good morning and welcome to our live news blog. I’m **Martin Farrer** with the top overnight stories and then it will be**Nick Visser** with the main action.

@@ -14,6 +14,24 @@ categories:
 - UK
 - True Crime
 - Society & Culture
+locations:
+- Enumclaw
+- Forest Grove
+- Oregon
+- Portland
+- Washington
+people:
+- Alvin Raymond Chu
+- Benjamin Charles Parker
+- Caprice Massey
+- Linsey Mae Haraldsen
+- Mary Elizabeth Kimsey
+- Rowan Karla Kimsey
+- Rowan Kimsey
+- Stella Jade Kimsey
+- Stella Kimsey
+organisations:
+- Washington County Sheriff's Office
 ---
 
 The victims of what is being investigated as a quintuple homicide at a rural home outside Portland were identified Monday as the suspect's girlfriend, her mother, her grandmother and two friends, authorities said.

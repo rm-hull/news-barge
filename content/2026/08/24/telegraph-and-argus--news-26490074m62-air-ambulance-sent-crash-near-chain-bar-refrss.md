@@ -12,6 +12,13 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Chain Bar
+- M62
+people: []
+organisations:
+- Yorkshire Air Ambulance
+- Yorkshire Ambulance Service
 ---
 
 *(Image: Yorkshire Air Ambulance)*

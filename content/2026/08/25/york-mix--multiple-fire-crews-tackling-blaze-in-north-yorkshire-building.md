@@ -11,6 +11,17 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Bedale
+- Harrogate
+- Leyburn
+- Masham**
+- Northallerton
+- Ripon
+- Thirsk
+people: []
+organisations:
+- '#### Masham A North Yorkshire Fire & Rescue Service'
 ---
 
 There’s a large fire service response to a blaze in an industrial building this morning (Tuesday).

@@ -11,6 +11,32 @@ image: https://static.independent.co.uk/2026/08/24/23/Sudan_War_17595.jpg?width=
 categories:
 - News & Politics
 - UK
+locations:
+- Cairo
+- Darfur
+- Egypt
+- Khartoum
+- Sudan
+- U.S.
+- United Arab Emirates
+- United States
+people:
+- Abdel-Fattah Burhan
+- Donald Trump
+- God
+- Massad Boulos
+- Mohamed Hamdan Dagalo
+- Noha Elhennawy
+- Omar al-Bashir
+- Rosemary DiCarlo
+organisations:
+- RSF
+- Rapid Support Forces
+- SUNA
+- Security Council
+- The Associated Press
+- U.N
+- U.N.
 ---
 
 The United States is urging beefed-up U.N. sanctions against the warring parties in Sudan to build pressure on them to negotiate an end to the fighting that has killed at least 59,000 people, displaced some 13 million and pushed many parts of the African nation into famine.

@@ -13,6 +13,17 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- St Michael’s Hospice
+- Westminster
+people:
+- Tom Gordon
+organisations:
+- Harrogate
+- JustGiving Page
+- Knaresborough
+- MP
+- St Michael’s Hospice
 ---
 
 **Harrogate MP Tom Gordon has announced a dual fundraising initiative for St Michael’s Hospice, combining an upcoming parliamentary coffee morning with his fourth consecutive appearance at the Great North Run.**

@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations: []
+people:
+- Amanda Abbington
+- Giovanni Pernice
+- Ian West
+- James O’Brien
+- Molly Brown
+organisations:
+- Abbington
+- BBC Studios
+- BBC’s Sherlock
+- Newsquest
+- PA Wire
+- Strictly
+- The Daily Mail
 ---
 
 Giovanni Pernice has accused the BBC of failing to protect its stars on Strictly Come Dancing.

@@ -14,6 +14,45 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Birmingham
+- Brazil
+- Britain
+- Brussels
+- Greece
+- London
+- Los Angeles
+- Sweden
+- Tokyo
+- Zurich
+people:
+- Alison dos Santos
+- Amy Hunt
+- Armand 'Mondo' Duplantis
+- Athing Mu-Nikolayev
+- Audrey Werro
+- Cole Hocker
+- David Rudisha
+- Dos Santos
+- Dutchwoman
+- Emmanouil Karalis
+- Emmanuel Wanyonyi
+- Eugene 2022
+- Femke Broeders-Bol
+- Georgia Hunter-Bell
+- Jakob Ingebrigtsen
+- Jarmila Kratochvilova
+- Josh Kerr
+- Julien Alfred
+- Karsten Warholm
+- Keely Hodgkinson
+- Masai Russell
+- Melissa Jefferson-Wooden
+- Tobi Amusan
+organisations:
+- Commonwealth
+- Werro
+- Zurich Diamond League
 ---
 
 ![Audrey Werro](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b225/live/e38e11c0-a253-11f1-a1d7-5567ac89ca4e.jpg)

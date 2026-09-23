@@ -16,6 +16,15 @@ categories:
 - Food & Cooking
 - Lifestyle & Fashion
 - Business & Entrepreneurship
+locations:
+- Horsforth
+- Paradise Place
+- YOUR
+people: []
+organisations:
+- Leeds City Council
+- Public Notice Portal
+- Woodside Stores
 ---
 
 *(Image: Google)*

@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Iran
+- Michigan
+- U.S.
+people:
+- Abdul El-Sayed
+- Donald Trump
+- Fox
+- Jesse Watters
+- Mike Rogers
+- Yeah
+organisations:
+- Army
+- El-Sayed
+- FBI
+- Fox News
+- Fox News’
+- Republican Party
+- U.S. Senate
 ---
 
 Dr. Abdul El-Sayed, the Democratic nominee for U.S. Senate in Michigan, has raised eyebrows after asking Fox News’ Jesse Watters if he is circumcised during a combative prime-time interview.

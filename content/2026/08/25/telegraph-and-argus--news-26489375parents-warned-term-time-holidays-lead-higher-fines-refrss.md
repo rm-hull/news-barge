@@ -13,6 +13,13 @@ categories:
 - Bradford
 - News & Politics
 - Family & Parenting
+locations:
+- England
+- UK
+people:
+- Tom Vaughan
+organisations:
+- Confused.com
 ---
 
 *(Image: Getty Images)*

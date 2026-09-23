@@ -15,6 +15,22 @@ categories:
 - News & Politics
 - Food & Cooking
 - Travel
+locations:
+- Durham
+- Framwellgate Bridge,is
+- North East
+- Odeon
+- Riverside
+- Sambuca
+- Thai River
+- The Riverwalk
+people:
+- Sambuca
+organisations:
+- CHRIS BOOTH
+- Sambuca
+- Thai Central
+- Yorkshire Shepherdess
 ---
 
 *(Image: CHRIS BOOTH)*

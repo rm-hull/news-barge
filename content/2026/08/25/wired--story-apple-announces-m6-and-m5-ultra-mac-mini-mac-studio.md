@@ -12,6 +12,22 @@ image: https://media.wired.com/photos/6a8cd76feb242cc1b4100068/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- M4
+- M6
+people: []
+organisations:
+- Apple
+- GPU
+- Golden Gate
+- M5 Ultra
+- M5 Ultra Mac Studio
+- M6
+- Mac Mini
+- Mac Studio
+- Mac Studios
+- Max
+- UltraFusion
 ---
 
 Apple has announced fresh versions of the Mac Mini and Mac Studio desktop computers, alongside some new chips: the M6 and M5 Ultra.

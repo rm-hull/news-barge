@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Australia
+- Boston
+- Buckingham Palace
+- Cardiff
+- England
+- Great Britain
+- New Zealand
+- Sierra Leone
+people:
+- Billy Boston
+- Keir Starmer
+- Kris Radlinski
+- Lady Joan Boston
+- Mike Danson
+organisations:
+- Black
+- Boston
+- Lions
+- Wigan Rugby League
+- Wigan Warriors
 ---
 
 Billy Boston, the Welsh rugby league great who blazed a trail for Black sportspeople in Britain during the 1950s and ’60s, has died. He was 92.

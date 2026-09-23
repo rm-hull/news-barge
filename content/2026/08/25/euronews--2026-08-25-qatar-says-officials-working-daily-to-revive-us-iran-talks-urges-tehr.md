@@ -13,6 +13,23 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Doha
+- Hormuz Al-Ansari
+- Iran
+- Pakistan
+- Qatar
+- Strait of Hormuz
+- Tehran
+- US
+- Washington
+people:
+- Asim Munir
+- Majed Al-Ansari
+- Mohsin Naqvi
+organisations:
+- Foreign Ministry
+- UN
 ---
 
 ## Qatar says its officials are speaking to the parties daily to restart US-Iran negotiations, while urging Tehran to reopen and immediately restore freedom of navigation through the key energy route.

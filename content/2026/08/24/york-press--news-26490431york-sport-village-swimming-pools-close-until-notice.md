@@ -13,6 +13,12 @@ categories:
 - York
 - Sports
 - News & Politics
+locations:
+- Heslington
+- York
+people: []
+organisations:
+- York Sport Village
 ---
 
 *(Image: Pixabay)*

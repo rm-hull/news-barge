@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- China
+- US
+people:
+- Elon Musk
+organisations:
+- BBC
+- Geely
+- Tesla
+- US National Highway Traffic Safety Administration
+- XPeng
+- Xiaomi EVs
 ---
 
 ![A customer inspects the minimalistic hidden door handles on an electric car in a showroom.](https://ichef.bbci.co.uk/ace/standard/970/cpsprodpb/0e1b/live/441b98f0-9f52-11f1-8ce1-5fe0b29a148d.jpg)

@@ -13,6 +13,23 @@ categories:
 - Europe
 - News & Politics
 - Health & Fitness
+locations:
+- Belgium
+- France
+- Geel
+- Italy
+- Luxembourg
+- Netherlands
+- Portugal
+people: []
+organisations:
+- Aldi
+- Belgian Federal Agency for the Safety of the Food Chain
+- Carrefour
+- Colruyt
+- Delhaize
+- FASFC
+- Laerco
 ---
 
 ## Salmonella are a group of bacteria that can cause a gastrointestinal illness called salmonellosis. Symptoms of infection often include diarrhoea, a fever and abdominal cramps.

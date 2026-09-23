@@ -13,6 +13,29 @@ categories:
 - Technology & Software
 - Automotive
 - Travel
+locations:
+- China
+- Cornwall
+- Leon Poultney
+- UK
+people: []
+organisations:
+- BMW
+- BMW’s AI
+- BYD
+- CES
+- EVs
+- Ford
+- GLC Electric
+- Gemini AI
+- Google Drive
+- Google News
+- Honda
+- Leon
+- Mercedes'
+- Neue Klasse
+- Volvo EX60
+- XC60
 ---
 
 ![BMW iX3 v Volvo EX60](https://cdn.mos.cms.futurecdn.net/CTRYEgdbENJZzjFeLKMeA6.jpg) 

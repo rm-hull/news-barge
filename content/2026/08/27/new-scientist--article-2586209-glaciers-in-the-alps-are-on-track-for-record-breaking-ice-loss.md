@@ -13,6 +13,41 @@ categories:
 - Technology & Software
 - Travel
 - Sports
+locations:
+- Andes
+- Austria
+- Birch
+- Blatten
+- Canada
+- Chamonix
+- Danube
+- Europe
+- France
+- Lake Geneva
+- Matterhorn
+- Mediterranean
+- Po
+- Rhine
+- Rhône
+- Russia
+- Scandinavia
+- Swiss Alps
+- Switzerland
+- US
+- Valais
+people:
+- Andreas Bauder
+- Ilaria Santin
+- Matthias Huss
+- Mauro Werder
+- Rainer Prinz
+- Thomas Hudson
+organisations:
+- Belvédère Hotel
+- ETH Zurich
+- Rhône
+- University of Innsbruck
+- Werder
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309541914.jpg?w=840)

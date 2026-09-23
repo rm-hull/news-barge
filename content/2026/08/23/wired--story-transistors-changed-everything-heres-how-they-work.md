@@ -10,6 +10,12 @@ image: https://media.wired.com/photos/6a88b7a7b99cef7a28794f29/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations: []
+people: []
+organisations:
+- '## Electric Relays Telegraph'
+- Bell Labs
+- ENIAC
 ---
 
 Last week I revealed the sneaky physics behind the “joule thief,” an electrical circuit that lets you squeeze more energy out of seemingly dead batteries. The key, it turned out, was a clever pairing of a transformer and a transistor. But the transistor deserves its own headline, because it's maybe only the most important invention of the 20th century.

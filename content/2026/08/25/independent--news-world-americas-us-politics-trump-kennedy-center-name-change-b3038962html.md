@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Kennedy Center
+- Potomac River
+- Washington, D.C.
+people:
+- Donald J. Trump
+- Donald J. Trump Plaza
+- Donald Trump
+- John F. Kennedy
+- Joyce Beatty
+organisations:
+- Congress
+- Department of Justice
+- John F. Kennedy Memorial Center for the Performing Arts
+- Justice Department
+- Kennedy Center
+- The Post
+- The Post.
+- The Washington Post
+- The Washington Post.
+- Trump
 ---
 
 The Kennedy Center is in “terrible trouble,” “decrepit” and "embarrassing" to Washington, D.C. and “cannot survive” — structurally or financially — without Donald Trump’s name on the building.

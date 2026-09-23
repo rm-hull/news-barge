@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- America
+- China
+- Japan
+- Switzerland
+- US
+- United States
+people:
+- Eduardo Porter
+- Scott Bessent
+- Trump
+organisations:
+- Bessent
+- Federal Reserve
+- Loony Tunes
+- Nato
+- Trump
+- World Trade Organization
 ---
 
 The bond market is driving the Trump administration crazy. Last week, the treasury secretary, Scott Bessent, announced that the government would sharply ramp up its purchase of treasury bonds, in an effort to raise their price and thus push down their yield, which amounts to the interest rate the government pays on its debt.

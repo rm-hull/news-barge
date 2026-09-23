@@ -14,6 +14,21 @@ image: https://cdn.mos.cms.futurecdn.net/3AFweUVrDDeXMVn3nuk9ka-2560-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- China
+- Kenya
+- Nairobi
+people:
+- Tim
+- Timothy Coleman
+organisations:
+- Amateur Photographer
+- Canon
+- DJI
+- Google News
+- LandSpace
+- Osmo Action 6
+- TechRadar
 ---
 
 ![POV footage from the rocket achieving China's first orbital launch and recovery, recorded with a DJI Osmo Action 6](https://cdn.mos.cms.futurecdn.net/3AFweUVrDDeXMVn3nuk9ka.jpg) 

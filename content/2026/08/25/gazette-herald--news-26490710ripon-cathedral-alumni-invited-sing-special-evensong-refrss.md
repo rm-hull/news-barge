@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Ripon Cathedral
+people:
+- Ronny Krippner
+organisations:
+- BBC One
+- BBC Radio 3
+- BBC iPlayer
+- Girls’ Choir
+- Ripon Cathedral
 ---
 
 *(Image: Ripon Cathedral)*

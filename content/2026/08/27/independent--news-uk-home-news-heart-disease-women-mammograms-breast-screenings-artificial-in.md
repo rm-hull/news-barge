@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Israel
+- Munich
+- Ramat Gan
+- UK
+people:
+- Elena Arbelo
+- Viana Copeland
+organisations:
+- AI
+- British Heart Foundation
+- CVD
+- Chaim Sheba Medical Center
+- ESC Communication Committee
+- European Society of Cardiology
+- Tel Aviv University
 ---
 
 Routine breast screenings aided by artificial intelligence could be used to detect heart disease, new research has found.

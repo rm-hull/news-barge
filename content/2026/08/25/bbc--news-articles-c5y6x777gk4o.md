@@ -13,6 +13,38 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Dnipro
+- Dnipropetrovsk
+- Iran
+- Kharkiv
+- Kherson
+- Kryvyi Rih
+- Mykolaiv
+- Opishnya
+- Poltava
+- Russia
+- Trostyanets
+- US
+- Ukraine
+- Zaporizhzhia
+people:
+- Ihor Terekhov
+- Kateryna Stokolya
+- Mykola Riznyk
+- Oleksandr Melnychuk
+- Oleksandr Sirenko
+- Oleksandr Tolokonnikov
+- Shahed
+organisations:
+- BBC
+- BRSM Nafta
+- Centre for Information Resilience
+- Izvestia
+- Nafto Rynok
+- National Bank of Ukraine
+- Oil Market
+- Shahed
 ---
 
 ![Two women in red tops run as flames rise from a car and fuel dispenser following a drone attack by Russia on a petrol station near the city centre of Kharkiv on 3 July](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f371/live/4cdd5030-a07b-11f1-bfeb-dfb02ea642ef.jpg)

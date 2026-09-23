@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- Middlesbrough Residents
+- Redcar
+people:
+- Anna Turley
+organisations:
+- BBC
 ---
 
 # 'It's destroying our town': Residents tell of concern after violent incidents near Middlesbrough

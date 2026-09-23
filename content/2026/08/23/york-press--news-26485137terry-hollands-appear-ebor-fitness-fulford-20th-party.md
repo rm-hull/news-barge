@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Fulford
+- Hospital Fields Road
+- North Yorkshire
+people:
+- DJ James
+- Kevin
+- Natalie Garrington
+- Terry Hollands
+organisations:
+- Active Care Chiropractic
+- Athletica Physio
+- Bromwich Family Butchers
+- Ebor Fitness
+- Tristan
 ---
 
 ## 'It's our way of saying thank you' - famous strongman to attend gym's 20th birthday

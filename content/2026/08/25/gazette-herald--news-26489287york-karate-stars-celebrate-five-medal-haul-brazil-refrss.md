@@ -14,6 +14,21 @@ categories:
 - York
 - Sports
 - History
+locations:
+- Brazil
+- England
+- Tokyo
+- Vitória
+people:
+- Artem
+- Koten
+- Lewis
+- Simon Flint
+organisations:
+- Argon International
+- JKS England
+- JROC Highways Ltd
+- York Karate
 ---
 
 Two young athletes have returned with world championship medals after representing England on the global stage.

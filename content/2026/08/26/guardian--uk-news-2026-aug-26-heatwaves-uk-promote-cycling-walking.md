@@ -12,6 +12,17 @@ image: https://i.guim.co.uk/img/media/fc489efd3f48e8462de130053468f07bfe0ad7a6/1
 categories:
 - UK
 - News & Politics
+locations:
+- Iran
+- UK
+- US
+people:
+- Ben Plowden
+organisations:
+- Campaign for Better Transport
+- Department for Transport
+- Labour
+- ZEV
 ---
 
 Dozens of civil society groups have demanded the UK government do more to promote cycling and walking, after this summer’s extreme heat exposed the desperate need to decarbonise transport.

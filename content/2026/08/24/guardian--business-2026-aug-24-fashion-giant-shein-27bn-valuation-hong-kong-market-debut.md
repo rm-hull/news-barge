@@ -14,6 +14,26 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Beijing
+- China
+- France
+- HK
+- Hong Kong
+- Italy
+- London
+- New York
+- Paris
+- Shein
+- Singapore
+people:
+- Shein
+organisations:
+- Agence-France Presse
+- AliExpress
+- Amazon
+- BHV
+- Reuters
 ---
 
 Shein will debut on the Hong Kong stock exchange on 1 September, the fast-fashion retailer said on Monday, in a long-awaited listing that would value the group at close to $27bn.

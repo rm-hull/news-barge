@@ -13,6 +13,35 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- AI
+people:
+- Kasparov
+- Katie Paul
+- Lance Ulanoff
+- Mark Zuckerberg
+- Meta
+organisations:
+- Agentic AI
+- Artificial Intelligence
+- BBC
+- CNBC
+- CNN
+- Good Morning America
+- Google News
+- IBM
+- Kelly and Mark
+- Lance
+- Lifewire
+- Mashable
+- Medium
+- Meta
+- Meta's AI
+- Microsoft
+- OpenAI
+- Reuters
+- Today Show
+- Ziff Davis, Inc
 ---
 
 ![AI Sun](https://cdn.mos.cms.futurecdn.net/nJb2PZb68M3xpBFzUgJiRS.jpg) 

@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Bedale
+- Harrogate
+- Leyburn
+- Masham
+- North Yorkshire
+- Northallerton
+- Ripon
+- Thirsk
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: North Yorkshire Fire and Rescue Service)*

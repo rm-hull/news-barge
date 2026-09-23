@@ -15,6 +15,17 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- Humber
+- UK
+people:
+- Danny Lawson
+- Richard Gwilliam
+organisations:
+- AI
+- Humber Energy Board
+- Humber Gateway Offshore Windfarm
 ---
 
 # How the Humber can help meet tech sector's power demand - Richard Gwilliam

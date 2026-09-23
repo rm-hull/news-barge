@@ -13,6 +13,24 @@ categories:
 - Europe
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Arabian Sea
+- Gulf of Oman
+- Iran
+- Persian Gulf
+- Strait of Hormuz
+- Tehran
+- US
+- United States
+- Washington
+people:
+- Donald Trump
+- Scott Bessent
+organisations:
+- IRGC
+- Treasury Department
+- Trump
+- US Treasury
 ---
 
 ## "Any entity that facilitates money laundering on behalf of Iran will be removed from the US dollar system," US Treasury Secretary Scott Bessent said on Monday.

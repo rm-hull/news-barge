@@ -10,6 +10,17 @@ image: https://cdn.mos.cms.futurecdn.net/5PePJs3otkrp95gFXkBmJE-970-80.jpg
 categories:
 - Technology & Software
 - Careers & Productivity
+locations: []
+people:
+- Craig Hale
+- Henry Levak
+organisations:
+- Craig’s
+- Google News
+- Logitech
+- Robin and Zoom
+- Team Workspace Solutions GM
+- TechRadar Pro
 ---
 
 ![Logitech Spot](https://cdn.mos.cms.futurecdn.net/5PePJs3otkrp95gFXkBmJE.jpg) 

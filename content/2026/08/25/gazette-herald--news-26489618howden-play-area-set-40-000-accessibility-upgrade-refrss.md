@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- East Riding
+- Howden
+- Treeton Road
+- YOUR
+people:
+- Andy Wilson
+- Nick Coultish
+organisations:
+- Ashes Playing Field Trust
+- East Riding of Yorkshire Council
+- Public Notice Portal
 ---
 
 *(Image: East Riding of Yorkshire Council)*

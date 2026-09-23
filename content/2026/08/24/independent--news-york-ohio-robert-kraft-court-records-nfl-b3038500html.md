@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- California
+- Columbiana County
+- East Palestine
+- Florida
+- Levi's Stadium
+- Ohio
+- San Francisco
+- Santa Clara
+- Youngstown
+people:
+- Jed York
+- Jim Harbaugh
+- John Lynch
+- Kyle Shanahan
+- Robert Kraft
+- Vito Abruzzino
+organisations:
+- Mahoning Valley Human Trafficking Task Force
+- NFL
+- New England Patriots
+- Niners
+- San Francisco 49ers
+- York
 ---
 
 San Francisco 49ers owner Jed York was arrested over the weekend in Ohio and pleaded no contest to misdemeanor charges of disorderly conduct and possessing criminal tools.

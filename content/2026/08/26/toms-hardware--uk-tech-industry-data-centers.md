@@ -12,6 +12,24 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- AI
+- Alabama
+- Bitcoin
+- China
+- Guizhou
+people:
+- Blake Hurst
+- Jason Kelce
+- Taylor Swift
+organisations:
+- Cherokee Nation
+- EPA
+- Get Tom's Hardware
+- Huawei
+- IntelBrief
+- PJM Interconnection
+- Soufan Center
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/Mp6a5T3nkbtP8cssNG5sb9-320-80.jpg)

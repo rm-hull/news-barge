@@ -12,6 +12,13 @@ categories:
 - Technology & Software
 - Science
 - Arts & Culture
+locations:
+- West Coast
+people:
+- Birdfy
+organisations:
+- '## Eye Spy Birdfy'
+- Duo
 ---
 
 Even though I've been a bird-watcher most of my life, nothing prepared me for the experience of witnessing—on my phone—the entire process of birds being born in my own backyard.

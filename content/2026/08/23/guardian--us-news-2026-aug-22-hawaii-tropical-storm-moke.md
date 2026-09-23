@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Big Island
+- Hawaii
+- Honolulu
+- Lala
+- Maui
+people:
+- Casey Oswant
+- Josh Green
+- Lala
+organisations:
+- Moke
+- NWS
+- National Hurricane Center
+- National Weather Service
 ---
 
 Tropical Storm Moke is poised to slam into the south of Hawaii’s islands, with forecasters predicting heavy rains and strong winds on Saturday evening, just days after the region was hit by Hurricane Lala.

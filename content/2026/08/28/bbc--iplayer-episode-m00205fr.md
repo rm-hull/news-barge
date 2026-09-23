@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations: []
+people:
+- Blake Lively1h
+- Dev Patel
+- Emily Bronte2h
+- Emma Mackey
+- Evan Hansen
+- Julia Louis-Dreyfus1h
+- TárCate Blanchett
+organisations:
+- Aurora
 ---
 
 # Dear Evan Hansen

@@ -12,6 +12,19 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Bay of Bengal
+- China
+- India
+- Myanmar
+- Paradip
+people:
+- Sarbananda Sonowal
+organisations:
+- Coast Guard
+- Indian Coast Guard
+- MV Ocean Winner
+- Ports, Shipping and Waterways
 ---
 
 ## The crew consisted of 20 Chinese nationals, three Myanmar nationals, and one Bangladeshi, the Indian Coast Guard said.

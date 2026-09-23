@@ -11,6 +11,20 @@ image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e75d/live/6a2b5
 categories:
 - UK
 - News & Politics
+locations:
+- Northern Ireland
+- Republic of Ireland
+- Scotland
+people:
+- Gianni Infantino
+organisations:
+- Fifa
+- Football Associations of England
+- Gianni Infantino
+- IFA
+- Irish Football Association
+- Uefa
+- Wales
 ---
 
 ![Gianni Infantino](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/e75d/live/6a2b5e20-a09e-11f1-84a9-276d1a8e5a22.jpg)

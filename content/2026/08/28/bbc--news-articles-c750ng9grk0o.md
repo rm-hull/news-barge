@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- BBC
+- Dublin
+- Gallery
+- Reading
+- UK
+- US
+people:
+- Charli XCX
+- Da Shine
+- Dave
+- David Cronenberg
+- Ed Sheeran
+- Fred Again.
+- Geese
+- Jamie T
+- Raye
+- Skepta
+- Skye Newman
+- Yeah
+- Zombie
+organisations:
+- BBC Newsbeat
+- BBC Radio 1
+- Chase & Status
+- Florence
+- Fontaines DC
+- Half Real
+- House
+- Leeds
+- PlaqueBoyMax
+- Reading
+- Skepta
+- Sticks N Stones
+- The Machine
+- UF
 ---
 
 ![A black and white photo of Charli XCX leaning against a wall as she sings into a microphone. There is a bright white wall behind her which silhouettes her body.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/86ea/live/35df52c0-a32d-11f1-8e46-c39d9fc92d9e.jpg)

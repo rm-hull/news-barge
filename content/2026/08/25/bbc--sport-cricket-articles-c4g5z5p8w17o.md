@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Derby
+- England
+- London
+- Lord's
+- New Zealand
+- Noosa
+- Pakistan
+- Stokes'
+- Wellington
+people:
+- '** Carse'
+- Ben Duckett
+- Ben Stokes
+- Brendon McCullum
+- Brydon Carse
+- Gus Atkinson
+- Harry Brook
+- Jacob Bethell
+- Joe Root
+- Josh Tongue
+- Matthew Potts
+- Sonny Baker
+organisations:
+- Cricket Regulator
+- Durham
+- ECB
+- England and Wales Cricket Board
+- Saracens
 ---
 
 ![Joe Root speaks to the media with sponsors boards behind him](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/f63b/live/5cb95b00-a082-11f1-aed2-8d6da8d75094.jpg)

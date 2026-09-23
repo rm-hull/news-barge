@@ -12,6 +12,27 @@ image: https://static.independent.co.uk/2026/08/24/11/2026-08-24T100012Z_2898309
 categories:
 - News & Politics
 - UK
+locations:
+- Dallas
+- Iran
+- Michigan
+- South Carolina
+people:
+- Dave Wilson
+- Donald Trump
+- JD Vance
+- Jason Cabel Roe
+- Natalie Baldassarre
+- Ray Washburne
+- Rob Steele
+- Tom Barrett
+organisations:
+- Congress
+- House
+- RNC
+- Republican National Committee
+- Senate
+- Trump
 ---
 
 Republicans are increasingly looking to an unusual midterm convention in Dallas next month to revive the party’s momentum as voters sour on the economy and the war with Iran.

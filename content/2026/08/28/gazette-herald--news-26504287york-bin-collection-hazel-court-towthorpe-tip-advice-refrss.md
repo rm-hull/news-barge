@@ -14,6 +14,15 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Hazel Court
+- James Street
+- Towthorpe Moor Lane
+- York
+people: []
+organisations:
+- City of York Council
+- York Council
 ---
 
 York Council has confirmed what is happening with bin collections this bank holiday weekend.

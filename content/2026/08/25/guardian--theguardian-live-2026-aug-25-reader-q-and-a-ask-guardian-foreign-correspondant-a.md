@@ -13,6 +13,22 @@ image: https://i.guim.co.uk/img/media/a5effac18fe755410428e3b26378405044036759/0
 categories:
 - UK
 - News & Politics
+locations:
+- Afghanistan
+- Britain
+- Iraq
+- Kremlin
+- Libya
+- Moscow
+- Russia
+- Syria
+- Ukraine
+people:
+- Andy Burnham
+- Luke Harding
+- Putin
+organisations:
+- Guardian
 ---
 
 Luke Harding, author and award-winning foreign correspondent**,** has covered wars in Afghanistan, Iraq, Libya, Syria and most recently Ukraine. Between 2007 and 2011 he was the Guardian’s chief writer in Moscow before being expelled by the Kremlin.

@@ -11,6 +11,17 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- Craig Hale
+- Hugging Face
+- Jensen Huang
+organisations:
+- Craig’s
+- Google News
+- Hugging Face
+- Nvidia
+- TechRadar Pro
 ---
 
 ![Nvidia CEO Jensen Huang giving a speech](https://cdn.mos.cms.futurecdn.net/xuTDXHAaPZ88Ez2Ewo5NgQ.jpg) 

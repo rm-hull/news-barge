@@ -14,6 +14,20 @@ categories:
 - UK
 - Arts & Culture
 - Society & Culture
+locations:
+- England
+people:
+- Henry Shelford
+- Paula Sussex
+- Peter Fonagy
+organisations:
+- ADHD UK
+- Care Quality Commission
+- Government
+- Ms Sussex
+- NHS
+- PHSO
+- Parliamentary and Health Service Ombudsman
 ---
 
 Services for individuals with autism and ADHD are "under significant pressure", with patients "falling through the gaps", a watchdog has warned.

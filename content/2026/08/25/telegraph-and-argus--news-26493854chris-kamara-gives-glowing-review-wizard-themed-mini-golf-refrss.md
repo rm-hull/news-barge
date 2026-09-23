@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Dragon Tunnel
+- Leeds
+- St John’s Centre
+people:
+- Chris Kamara
+- Jeff
+organisations:
+- BANTAMS
+- The Hole In Wand
+- The Potions Cauldron
+- VAR
 ---
 
 *(Image: Supplied)*

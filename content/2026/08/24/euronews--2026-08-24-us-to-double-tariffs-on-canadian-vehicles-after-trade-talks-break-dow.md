@@ -12,6 +12,20 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Canada
+- Ottawa
+- U.S.
+- US
+- United States of America
+- White House
+people:
+- '## Trump'
+- Donald Trump
+- Mark Carney
+organisations:
+- Office of the United States Trade Representative
+- Truth Social
 ---
 
 ## "Canada has been ripping off the United States of America for years," the president wrote in a post on his Truth Social account.

@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- '#### Shipton Road'
+- Acomb
+- Shipton Road
+- York
+people: []
+organisations:
+- Acomb
+- North Yorkshire Fire & Rescue Service
+- Yorkshire Water
 ---
 
 An investigation was launched after was was seen “seen pouring out” of a building in York.

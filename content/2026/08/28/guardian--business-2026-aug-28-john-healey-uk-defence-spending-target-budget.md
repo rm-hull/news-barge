@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Britain
+- North Carolina
+- UK
+- US-Canada
+- Whitehall
+people:
+- Andy Burnham
+- John Healey
+- Keir Starmer
+- Rachel Reeves
+- Scott Bessent
+organisations:
+- G20
+- Nato
+- Sky News
+- Starmer
+- US Treasury
 ---
 
 The chancellor will delay setting out when the UK will meet the target of allocating 3% of GDP on defence until next year’s spending review, the Treasury has confirmed.

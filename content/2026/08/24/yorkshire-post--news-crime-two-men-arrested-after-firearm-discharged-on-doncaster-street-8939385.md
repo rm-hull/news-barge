@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Doncaster
+- Edlington
+- Gordon Road
+- Gordon Street
+- South Yorkshire
+people:
+- Claire Moss
+organisations:
+- Armed Crime Team
 ---
 
 # Two men arrested after firearm discharged on Doncaster street

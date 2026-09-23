@@ -11,6 +11,9 @@ categories:
 - Science
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations: []
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308834062.jpg?w=840)

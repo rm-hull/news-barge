@@ -12,6 +12,25 @@ categories:
 - Local
 - Harrogate
 - Careers & Productivity
+locations:
+- Birmingham
+- Mallard Grange
+- Mallard Grange Farm
+- Ripon
+- UK
+people:
+- Charles
+- David Brown
+- James Johnson
+- Mallard Grange
+organisations:
+- Farm Stay
+- Farm Stay UK
+- Farmers Guardian
+- James
+- Ripon
+- The Vox
+- Yorkshire Agricultural Society
 ---
 
 ![](https://mmo.aiircdn.com/409/6a901d480a38523305c.jpg) 

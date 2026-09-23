@@ -14,6 +14,20 @@ categories:
 - York
 - Education & Learning
 - Self-Improvement
+locations:
+- Harrogate
+people:
+- Joanna Fox
+organisations:
+- '## Duchy College'
+- Duchy College
+- Duchy College Pre-School
+- Duchy College Sixth Form
+- Further Maths
+- Harrogate Ladies’ College
+- Heads of Schools
+- Sixth Form
+- Sixth Form Centre
 ---
 
 # Duchy College pupils celebrate outstanding exam results after year of hard work

@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Grangetown
+- Middlesbrough
+- Redcar
+people:
+- Emily Harrison
+- Lisa Kirton
+- Natalie McDonald
+- Tina
+- Valentina Foster
+organisations:
+- BBC Sounds
+- Cleveland Local Policing Commander
+- Cleveland Police
 ---
 
 ![A composite image of Natalie McDonald and Valentina Foster. McDonald is wearing a white wedding dress with a tiara perched on her head. She has long dark hair and is holding a bouquet of white roses with four blue ones dotted within it. Valentina wears an electric blue dress with white flowers on the neckline and waist. She has long light brown hair with a blue and white headband. She is holding a small white basket with white and blue roses and she wears white gloves.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2263/live/c6177800-a192-11f1-9e49-ab6cded816f9.jpg)

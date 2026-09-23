@@ -11,6 +11,25 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- A34
+- Bolton House Road
+- Hyndburn
+- Kidlington
+- Lancashire
+- Oxfordshire
+- River Cherwell
+- Wembley Stadium
+- Wigan
+people:
+- Dame Angela Eagle
+- Emma Hardy
+- Philip Duffy
+organisations:
+- Acumen Waste Service
+- Cherwell
+- EA
+- Environment Agency
 ---
 
 A major five-month project to remove an illegal waste dump near the River Cherwell in Oxfordshire has been completed – landing taxpayers with a £6 million bill.

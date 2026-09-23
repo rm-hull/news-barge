@@ -11,6 +11,20 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- England
+- Europe
+- UK
+- West Africa
+- Wiltshire
+people:
+- Mark Thomas
+- Mo Constantine
+- Montagu
+organisations:
+- AU
+- Harrier
+- RSPB
 ---
 
 The UK’s rarest breeding bird has successfully raised six chicks after returning to nest at a secret location for a second year running, according to conservationists.

@@ -12,6 +12,54 @@ image: https://cdn.mos.cms.futurecdn.net/rnAs2TumGMLm3St6s9Z2Mm-1600-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- DC
+- Earth
+- Jordan
+- Korugar
+- Nebraska
+- Prohl Gosgotha
+- Qward
+- Rushville
+- UK
+- US
+people:
+- '## Sinestro'
+- Ethan Van Sciver
+- Geoff Johns
+- Gil Kane
+- Hal Jordan
+- John Broome
+- John Stewart
+- Kyle Chandler
+- Lanterns'
+- Mark Strong
+- Prohl
+- Ridley Scott
+- Thaal Sinestro
+- Tom
+- Ulrich Thomsen
+- Weaponers
+organisations:
+- DC Studios
+- DCU Chapter One
+- Disney Plus
+- Google News
+- Green Lantern
+- Green Lantern Corps
+- Green Lanterns
+- Guardians of Sinestro
+- HBO
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- NBC
+- Netflix
+- Sinestro Corps
+- Star Wars
+- TechRadar
+- Warner Bros
+- Yellow Lantern Corps
 ---
 
 ![Ulrich Thomsen's Sinestro wearing a white prison jump-suit and sitting down in Lanterns episode 2](https://cdn.mos.cms.futurecdn.net/rnAs2TumGMLm3St6s9Z2Mm.jpg) 

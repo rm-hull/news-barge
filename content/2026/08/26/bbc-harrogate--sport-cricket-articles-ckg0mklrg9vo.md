@@ -12,6 +12,54 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Chester-le-Street
+- Edgbaston
+- England
+- North Yorkshire
+- Southampton
+- Taunton
+- Taunton.
+people:
+- Abi Norgove
+- Brooke Halliday
+- Charley Phillips
+- Charlie Dean
+- Eleanor Larosa
+- Ellie Anderson
+- Emma Lamb
+- Emma Marlow
+- Freya Kemp
+- Georgia Elwiss
+- Grace Thompson
+- Issy Wong
+- Jess Jonassen
+- Kate Cross
+- Kathryn Bryce
+- Katie George
+- Kira Chathli
+- Lauren Winfield-Hill
+- Lucy Higham
+- Niamh Holland
+- Orla Prendergast
+- Sune Luus
+organisations:
+- Ampleforth College
+- Bears
+- Durham
+- Edgbaston
+- Essex
+- Farington
+- Hampshire
+- Headingley
+- Ireland
+- Lancashire
+- Somerset
+- Surrey
+- The Blaze
+- The Hundred
+- Warwickshire
+- Yorkshire
 ---
 
 ![Somerset bowler Ellie Anderson celebrates a wicket against Durham at Taunton.](https://ichef.bbci.co.uk/ace/standard/694/cpsprodpb/2ff0/live/e656d1c0-a16e-11f1-87d4-e91caee13898.jpg)

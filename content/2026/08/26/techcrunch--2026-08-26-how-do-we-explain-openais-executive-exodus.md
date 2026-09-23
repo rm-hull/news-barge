@@ -9,6 +9,25 @@ description: Was Greg Brockman the right executive all along?
 image: https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024
 categories:
 - Technology & Software
+locations: []
+people:
+- Chris Malone
+- Fidji Simo
+- Greg Brockman
+- Karen Hao
+- Kevin Weil
+- Sachin Katti
+- Sam Altman
+- Thibault Sottiaux
+organisations:
+- API
+- Anthropic
+- IPO
+- OpenAI
+- SEC
+- SpaceX
+- Stripe’s
+- TechCrunch
 ---
 
 OpenAI is the original frontier lab. Its latest publicly released model, GPT-5.6, is one of the most capable and efficient on the market. Its desktop app for agentic coding and workplace tasks has seen its user base grow by about 15 million subscribers in the last two months.

@@ -14,6 +14,14 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Manchester Road
+people:
+- '## Man'
+organisations:
+- Bradford Police
+- Crimestoppers
 ---
 
 *(Image: Pexels)*

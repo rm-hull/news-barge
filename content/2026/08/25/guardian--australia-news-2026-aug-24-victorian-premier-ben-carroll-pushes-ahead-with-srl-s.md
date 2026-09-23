@@ -12,6 +12,35 @@ image: https://i.guim.co.uk/img/media/543d4c01786031041efbd96eeb7fba5e68cffe23/2
 categories:
 - UK
 - News & Politics
+locations:
+- Box Hill
+- Burwood
+- Cheltenham
+- Clayton
+- Glen Waverley
+- Melbourne
+- Melbourne’s V/Line Melton
+- SRL East
+- Suburban Rail Loop
+- Victoria
+- Werribee
+people:
+- Ben Carroll
+- Daniel Andrews
+- Jacinta Allan
+- Matthew Guy
+- Stephen Conroy
+organisations:
+- Coalition
+- Guardian Australia
+- Labor
+- Melbourne Airport Rail
+- News24
+- Parliamentary Budget Office
+- SRL East
+- SRLA
+- Suburban Rail Loop Authority
+- Victorian Infrastructure Delivery Authority
 ---
 
 The Victorian opposition has described Ben Carroll’s plan to scale back new train stations along the Suburban Rail Loop to shave just over 5% off its total cost as “incredibly unimpressive and underwhelming”.

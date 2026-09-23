@@ -11,6 +11,25 @@ categories:
 - News & Politics
 - UK
 - Home, Garden & DIY
+locations:
+- California
+- Central Valley
+people:
+- Boy
+- Cesar Mora
+- Giumarra Brothers
+- John Migliazzo
+organisations:
+- Fresno Bee
+- Fresno County Superior Court
+- Giumarra Brothers
+- Giumarra Brothers Fruit Company
+- KMPH
+- Mora
+- Star Fruits Diffusion
+- The Associated Press
+- The Independent
+- TikTok
 ---
 
 A California farmer has been ordered to destroy his fruit orchard after giving away thousands of pounds of free food.

@@ -13,6 +13,30 @@ categories:
 - Harrogate
 - Comedy & Entertainment
 - Arts & Culture
+locations:
+- Harrogate
+people:
+- Alexei Sayle
+- Frank
+- Harry Enfield
+- Jason Byrne
+- Laura Smyth
+- Maisie Adam
+- Marcus Romer
+- Miriam Margolyes
+- Paul Merton
+- Rachel Mars
+- Reece Shearsmith
+- Richard Ayoade
+- Scummy Mummies
+- Seann Walsh
+- Suki Webster
+- Tez Ilyas
+organisations:
+- Harrogate Convention Centre
+- Harrogate Theatre
+- Royal Hall
+- Vet Dentist
 ---
 
 # Maisie Adam, Harry Enfield, and Miriam Margolyes will star in one of Harrogate's highlights of the year

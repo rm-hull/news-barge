@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Fir Park
+- Tynecastle
+people:
+- Derek McInnes
+- John Beaton
+- Kelechi Iheanacho
+- McInnes'
+- Sam Nicholson
+- Willie Collum
+organisations:
+- Celtic
+- Falkirk
+- Hearts
+- Motherwell
+- Old Firm
+- Rangers
+- Scottish FA
+- Sky Sports
+- VAR
 ---
 
 ![Rangers manager Derek McInnes](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ad2e/live/99a241b0-861c-11f1-aba5-dfbb15fd1ac1.jpg)

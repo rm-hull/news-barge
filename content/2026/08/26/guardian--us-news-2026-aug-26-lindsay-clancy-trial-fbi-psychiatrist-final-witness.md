@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Massachusetts
+- Plymouth
+- Rhode Island
+people:
+- Callan
+- Cora
+- Dawson
+- Gregory Saathoff
+- Jennifer Sprague
+- Kevin Reddington
+- Miss Clancy
+- Saathof
+organisations:
+- FBI
+- Women and Infants
 ---
 
 Testimony finished in the Lindsay Clancy trial on Wednesday, as a final witness for the prosecution laid out that he believed the Massachusetts mother knew right from wrong when she took the lives of her three young children before attempting to commit suicide in 2023.

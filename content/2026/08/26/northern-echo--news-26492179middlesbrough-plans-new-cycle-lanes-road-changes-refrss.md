@@ -13,6 +13,20 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Gilkes Street
+- Harris Street
+- Hartington Road
+- Newport Road
+- North-East
+- Parliament Road
+- YOUR
+people: []
+organisations:
+- Middlesbrough Central Library
+- Middlesbrough Council
+- Public Notice Portal
+- The Northern Echo
 ---
 
 *(Image: Supplied)*

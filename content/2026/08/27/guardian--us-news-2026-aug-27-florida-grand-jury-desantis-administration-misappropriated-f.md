@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Society & Culture
 - Personal Finance & Investing
+locations:
+- Hope Florida
+- Hopе Florida
+people:
+- Ashley Moody
+- Byron Donalds
+- Casey DeSantis
+- Centene
+- David Jolly
+- James Uthmeier
+- Ron DeSantis
+organisations:
+- CBS News Miami
+- Centene
+- Department of Legal Affairs
+- Hope Florida Foundation
+- Keep Florida Clean
+- New York Times
+- Senate
 ---
 
 A Florida grand jury has found that the administration of the governor, Ron DeSantis, “misappropriated” $10m in taxpayer money from a Medicaid settlement into the Hope Florida Foundation, a charity with ties to DeSantis’s wife, before the money was reportedly “funneled” into “two political action committees”.

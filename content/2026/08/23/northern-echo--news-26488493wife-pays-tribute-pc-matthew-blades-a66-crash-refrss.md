@@ -13,6 +13,39 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- A66
+- Carmel
+- College
+- Darlington
+- Mass
+- Middlesbrough
+- Redcar
+- South Bank
+- Teesside
+people:
+- Andy Burnham
+- Anna Turley
+- Dad
+- Forever
+- Matt
+- Matthew Blades
+- Matty
+- PC Blades
+- Pc Blades
+- Pc Blades’
+- Pc Matthew Blades
+- Shabana Mahmood
+- Stuart Boulton
+- Tom Clough
+- Victoria Fuller
+organisations:
+- A66
+- Carmel College
+- Cleveland Police
+- Cleveland Police Federation
+- RTC
+- The Notrhern Echo
 ---
 
 The heartbroken wife of Pc Matthew Blades has paid tribute to her “beloved husband”, “best friend” and the devoted father of their two young boys following his death in the A66 crash.

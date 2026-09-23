@@ -14,6 +14,15 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Bolton Road
+- Bradford
+people:
+- Nadeem Khan
+- Samuel Wilkinson
+organisations:
+- Bradford CID
+- Bradford Crown Court
 ---
 
 # Man jailed after using car as 'weapon' to target casino staff and customers

@@ -11,6 +11,31 @@ image: https://i.guim.co.uk/img/media/fd4f1b840dd01b597ddcd90c5994515f1cf0d76b/2
 categories:
 - UK
 - News & Politics
+locations:
+- Alexandria
+- California
+- Louis Armstrong New Orleans
+- Louisiana
+- Lousiana
+- New Orleans
+- US
+- United Kingdom
+- White House
+people:
+- Donald Trump
+- Kanye West
+- Laura Loomer
+- Marjorie Taylor Greene
+- Milo Yiannopoulos
+- Ye
+organisations:
+- Breitbart News
+- DHS
+- Department of Homeland Security
+- Fox News
+- ICE Custody
+- Immigration and Customs Enforcement
+- MSY
 ---
 
 Milo Yiannopoulos, a far-right British political commentator, was detained by Immigration and Customs Enforcement in Louisiana, according to the Department of Homeland Security (DHS).

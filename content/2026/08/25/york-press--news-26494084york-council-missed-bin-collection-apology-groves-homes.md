@@ -13,6 +13,21 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- BIN
+- Diamond Street
+- Earle Street
+- Emerald Street
+- The Groves
+- York
+people:
+- Groves
+- Ian Hoult
+- Stephanie Holdsworth
+organisations:
+- City of York Council
+- LDRS
+- York Council
 ---
 
 ## Bin bags 'ripped apart and fly-infested' after weeks of missed collections in York

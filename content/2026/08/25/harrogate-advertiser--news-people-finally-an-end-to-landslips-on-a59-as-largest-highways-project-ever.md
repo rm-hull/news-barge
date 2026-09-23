@@ -14,6 +14,19 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- A59
+- Church Hill
+- Harrogate
+- Kex Gill
+- North of England
+- Skipton
+people:
+- Coun Malcolm Taylor
+organisations:
+- A59
+- Harrogate Advertiser
+- North Yorkshire Council
 ---
 
 # Finally an end to landslips on A59 as 'largest highways project ever undertaken' by North Yorkshire Council nears completion

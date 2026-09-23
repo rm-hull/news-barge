@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Gannett Peak
+- Green River Lakes Trailhead
+- Missouri
+- Scott Lake
+- Sublette County
+- Wind River Range
+- Wyoming
+people:
+- Catherine L. Hanaway
+- Romel
+- Shaun Mackelprang
+- Sheila
+organisations:
+- Cowboy State Daily
+- Gannett Peak
+- Sublette County Sheriff’s Office
+- Tip Top Search and Rescue
+- Wyoming State
 ---
 
 A Missouri deputy attorney general has been found alive after being missing for six days after he went for a hike in the mountains.

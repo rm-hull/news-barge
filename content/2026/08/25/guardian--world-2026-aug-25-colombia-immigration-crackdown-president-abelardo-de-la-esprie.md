@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Argentina
+- Barranquilla
+- Caribbean
+- Chile
+- Colombia
+- US
+- Venezuela
+people:
+- Abelardo de la Espriella
+- De la Espriella
+- Donald Trump
+- Javier Milei
+- José Antonio Kast
+- María José Pizarro Rodríguez
+- de la Espriella
+organisations:
+- De la Espriella
+- El Tiempo
+- ICE
+- US Immigration and Customs Enforcement
 ---
 
 Colombia’s far-right president, Abelardo de la Espriella, has announced a crackdown on immigrants, ordering authorities to detain and deport people who are in the country irregularly or have committed crimes.

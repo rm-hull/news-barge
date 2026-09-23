@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Cemetery Road
+- Fishergate
+- Foss Islands Road
+- Fulford
+- Lawrence Street
+- Tadcaster
+- York
+people: []
+organisations:
+- Newsquest
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Newsquest)*

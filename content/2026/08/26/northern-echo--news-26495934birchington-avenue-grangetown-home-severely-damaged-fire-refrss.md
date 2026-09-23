@@ -14,6 +14,21 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Birchington Avenue
+- Grangetown
+- Middlesbrough
+people:
+- Anna Turley
+organisations:
+- Cleveland Fire Brigade
+- Cleveland Fire Brigade UK
+- Cleveland Police
+- Incident Command Unit
+- North East Ambulance Service
+- North News & Pictures Ltd
+- Northern Echo
+- Redcar & Cleveland
 ---
 
 Pictures from the scene show extensive damage to a Grangetown home after firefighters were called to an early morning blaze.

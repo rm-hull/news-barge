@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Sports
 - True Crime
+locations:
+- Brent Civic
+- Brent Civic Centre
+- Harrow
+- London
+- Neasden
+- Wembley Park Underground station
+- Wembley Stadium
+- Willesden
+people:
+- Chris Clarke
+- David Wynter
+- Demi
+- Kate
+- Met
+- Muhammed Butt
+organisations:
+- BBC London
+- BBC Radio London
+- Brent Council
+- Civic Centre
 ---
 
 ![A police cordon is in place outside Brent Civic Centre.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/0a98/live/65dd42d0-a124-11f1-92eb-a9b3bbcf6f4a.jpg)

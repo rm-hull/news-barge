@@ -14,6 +14,49 @@ categories:
 - News & Politics
 - Sports
 - History
+locations:
+- Brazil
+- County Durham
+- England
+- Hollywood
+- London
+- North East
+- PA
+- Palatinate
+- Quiet County Durham
+- Russia
+- South Hetton
+- Sunderland
+- Wembley
+people:
+- Denise Welch
+- John Walton
+- Kevin Keegan
+- Len
+- Lucy Griffiths
+- Steph Houghton
+- Tom Hardy
+- Zac Goodwin
+organisations:
+- Arsenal
+- BBC Sport
+- Boldon Girls
+- Centre of Excellence
+- County Durham
+- England Football
+- Houghton
+- Leeds United
+- Lionesses
+- Loose Women
+- Manchester City
+- National Football Museum
+- Newcastle FC
+- South Hetton
+- South Hetton Primary School
+- Sunderland A
+- Team GB
+- The County Durham
+- WSL
 ---
 
 *(Image: John Walton/PA)*

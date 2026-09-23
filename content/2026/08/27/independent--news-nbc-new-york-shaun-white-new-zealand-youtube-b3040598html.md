@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- New Zealand
+- Park City
+- Utah
+people:
+- Eileen Gu
+- Luke Harrold
+- Sena Tomita
+- Shaun White
+- Yuto Totsuka
+organisations:
+- NBC Sports
+- Peacock
+- Snow League
+- YouTube
 ---
 
 The Snow League, a halfpipe circuit created by Shaun White, reupped its deal with NBC Sports, which will show the league's four events this season.

@@ -13,6 +13,27 @@ categories:
 - Bradford
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Britain
+- Cheshire
+- Cornwall
+- Google Street View
+- Leeds
+- Myrtle Tavern
+- UK
+- Yorkshire
+people:
+- Luke Dejahang
+organisations:
+- Crown Pavilions
+- Google
+- Kirkstall Bridge Inn
+- Leeds
+- Myrtle Tavern
+- The Bulls Head
+- The Tartan Fox
+- Tripadvisor
+- YORKSHIRE
 ---
 
 *(Image: Google Street View)*

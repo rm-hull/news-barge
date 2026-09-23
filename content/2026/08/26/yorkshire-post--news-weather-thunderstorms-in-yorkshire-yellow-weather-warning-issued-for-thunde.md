@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Bradford
+- England
+- 'Harrogate ##'
+- Hull
+- Leeds
+- Sheffield
+- UK
+- Wales
+- York
+- Yorkshire
+people:
+- Steve Willington
+organisations:
+- Met Office
 ---
 
 # Thunderstorms in Yorkshire: Yellow weather warning issued for thundery rain this week in Leeds, York, Sheffield, Bradford, Hull and Harrogate

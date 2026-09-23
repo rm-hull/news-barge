@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- England
+- Middle East
+- Peckham
+- Scotland
+- Wales
+people:
+- Andy Burnham
+- Miatta Fahnbulleh
+organisations:
+- Energy Secretary
+- Labour Government
+- Ms Fahnbulleh
+- Ofgem
+- Peckham
+- Reddit
 ---
 
 The Government is considering "a range of support" for vulnerable households struggling with rising costs, the Energy Secretary stated ahead of an anticipated energy price cap increase.

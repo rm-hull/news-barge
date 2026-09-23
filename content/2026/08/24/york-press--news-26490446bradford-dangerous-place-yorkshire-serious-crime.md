@@ -13,6 +13,36 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Bradford East
+- Bradford West
+- Ed Nix
+- Humber
+- Ilkley
+- Keighley
+- North Yorkshire
+people:
+- Craven
+- Eccleshill
+- Imran Hussain
+- Matt Edwards
+- Naz Shah
+- Robbie Moore
+- Tong**
+organisations:
+- Bierley Green Party
+- Bradford
+- Crystal Roof
+- Doncaster
+- Government
+- Holme Wood
+- Hull
+- Ilkley
+- Labour
+- Newsquest
+- North East Lincolnshire
+- West Yorkshire Police
+- Wharfedale
 ---
 
 ## This is the most dangerous place in Yorkshire for serious crime

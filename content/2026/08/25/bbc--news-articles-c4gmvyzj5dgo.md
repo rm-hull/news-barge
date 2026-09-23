@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- England
+- France
+- Italy
+- Kanye West
+- Los Angeles
+- New York
+- Poland
+- Russia
+- St Petersburg
+- Times Square
+- Ukraine
+- United States
+people:
+- Heil Hitler
+- Kanye West
+- Vitaly Milonov
+- Ye
+organisations:
+- Adidas
+- BBC
+- Balenciaga
+- Gazprom Arena
+- Say Agency
+- Say Agency's Telegram
+- Wall Street Journal
 ---
 
 ![Kanye West](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4b7c/live/c5a0a7d0-9ae3-11f1-b2f7-5d1639b20e22.jpg)

@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Society & Culture
 - Family & Parenting
+locations:
+- Austin
+- Texas
+- US
+people:
+- Brigitte Bandit
+- David Hittner
+- Dolly Parton
+- Drag
+- James Talarico
+- Ken Paxton
+- Lady Gaga
+- Miley Cyrus
+organisations:
+- ACLU
+- All Texans
+- Senate
 ---
 
 A federal judge has, for a second time, struck down a Texas state law banning drag performances in settings where children may be present.

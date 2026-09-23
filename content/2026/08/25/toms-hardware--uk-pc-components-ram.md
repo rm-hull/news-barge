@@ -11,6 +11,20 @@ image: https://cdn.mos.cms.futurecdn.net/Qdj6oxJ9H7Snacxk9ML8XD-320-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Korea
+- Santa Clara
+people: []
+organisations:
+- Adata
+- CXMT
+- G.Skill
+- Get Tom's Hardware
+- Grace Blackwell
+- Premium Marvell
+- SK
+- Samsung
+- Vera Rubin
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/Qdj6oxJ9H7Snacxk9ML8XD-320-80.jpg)

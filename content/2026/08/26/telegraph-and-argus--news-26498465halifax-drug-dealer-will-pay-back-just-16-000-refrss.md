@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Calderdale
+- Halifax
+- Mount Pleasant Avenue
+people:
+- Amar Rashid
+- Jonathan Rose
+organisations:
+- Bradford Crown Court
+- Calderdale’s Precision Team
+- Halifax Neighbourhood Policing Team
+- Humber Regional Organised Crime Unit
+- West Yorkshire Police
+- West Yorkshire Police’s Specialist Support Group
 ---
 
 *(Image: West Yorkshire Police)*

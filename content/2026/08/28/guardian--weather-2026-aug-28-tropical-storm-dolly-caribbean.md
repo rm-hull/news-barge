@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Atlantic Ocean
+- Caribbean Sea
+- Cristobal
+- Dominican Republic
+- Guadeloupe
+- Haiti
+- Hispaniola
+- Leeward Islands
+- Louisiana
+- Pacific
+- Puerto Rico
+- US Gulf
+- Virgin Islands
+people:
+- Dolly Parton
+organisations:
+- El Niño
+- NHC
+- National Oceanic and Atmospheric Administration
+- Tropical Storm Arthur
+- US National Hurricane Center
+- WMO
+- World Meteorological Organization
 ---
 
 Remnants of Tropical Storm Dolly, which has been downgraded to an “open tropical wave”, were moving still across the Atlantic Ocean toward the Leeward Islands, and could bring heavy rainfall to parts of the Caribbean this weekend, the US National Hurricane Center (NHC) said on Friday..

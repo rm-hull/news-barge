@@ -13,6 +13,40 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- AI
+- Mount Pleasant
+- Wisconsin
+people:
+- Anton Shilov
+- Clem Delangue
+- Hugging Face
+- Tom
+organisations:
+- AMD Instinct
+- AWS Inferentia
+- Amazon
+- Anthropic
+- CUDA
+- Essential AI
+- Get Tom's Hardware
+- Google Cloud
+- Google News
+- Google TPU
+- Hugging Face
+- Illumex
+- Inference Endpoints
+- Intel CPUs
+- Kumo AI
+- Microsoft Azure
+- Nvidia
+- OpenAI
+- Poolside
+- Replylogainofhades
+- The Information
+- Tom’s Hardware
+- Transformers
+- Z.ai
 ---
 
 ![Nvidia](https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf.jpg) 

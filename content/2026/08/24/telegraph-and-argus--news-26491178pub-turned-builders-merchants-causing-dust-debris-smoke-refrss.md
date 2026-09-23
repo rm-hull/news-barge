@@ -14,6 +14,18 @@ categories:
 - Bradford
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Gibbet Street
+- Halifax
+- Warley Road
+- YOUR
+people:
+- J. Hussain
+organisations:
+- Calderdale Council
+- Jockey Inn
+- Public Notice Portal
+- U-Fix Building Supplies
 ---
 
 ### What is the Public Notice Portal?

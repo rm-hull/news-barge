@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Health & Fitness
 - Self-Improvement
+locations:
+- Birmingham
+- Great Britain
+- London
+- Nottingham
+- Scotland
+- Solihull
+- UK
+- Wales
+people:
+- Alan Milburn
+- Andy Burnham
+- Boots
+- Pat McFadden
+- Sadiq Khan
+organisations:
+- Boots HQ
+- Jobcentre
+- Labour
+- Neets
+- Sainsbury’s
 ---
 
 Work must be “part of the answer” to the mental health crisis among young people, the work and pensions secretary, Pat McFadden, has said as he met some of the first beneficiaries of Labour’s youth jobs guarantee scheme.

@@ -16,6 +16,43 @@ categories:
 - Arts & Culture
 - Books & Literature
 - Film & TV
+locations:
+- Archangel Lane
+- Bookish
+- Germany
+- Hollywood
+- India
+- London
+- UK
+- Wakefield
+people:
+- Alan Bennett
+- Bookish
+- Calderd
+- Cecil Day-Lewis
+- Connor Finch
+- Daniel Day-Lewis
+- Elliot Levey
+- Gabriel Book
+- Inspector Bliss
+- Jack
+- Ludwig
+- Lynn Rusk
+- Mark Gatiss
+- Max Carrados
+- Miss Marple
+- Mycroft
+- Nadia Albina
+- Nicholas Blake
+- Poirot
+- Ruth Codd
+- Sherlock Holmes
+organisations:
+- BBC
+- Bretton Hall College
+- Sherlock
+- The League of Gentlemen
+- UK TV
 ---
 
 # Mark Gatiss on is love for murder mysteries as detective drama series Bookish returns

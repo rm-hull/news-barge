@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Teesside Park
+- Weardale Railway
+people:
+- Becky Adlington
+- Becky Adlington OBE
+- Swim!
+organisations:
+- Santa Express
+- Swim!
+- Teesside Leisure Park
 ---
 
 A swim school created by an Olympic champion opening in Teesside later this year.

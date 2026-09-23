@@ -13,6 +13,20 @@ categories:
 - York
 - History
 - Travel
+locations:
+- Barley Hall
+- Coffee Yard
+- England
+- Grape Lane
+- Great Hall
+- Stonegate
+- York attraction York
+people:
+- Richard Jones
+- William Snawsell
+organisations:
+- Barley Hall
+- York Archaeology
 ---
 
 ## Step back in time as medieval warriors take over historic York attraction

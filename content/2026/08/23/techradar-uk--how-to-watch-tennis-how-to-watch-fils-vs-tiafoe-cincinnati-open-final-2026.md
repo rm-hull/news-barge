@@ -12,6 +12,52 @@ image: https://cdn.mos.cms.futurecdn.net/zKAy4YxfRRf7KcyN3GfQG5-2560-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Abu Dhabi
+- Australia
+- Canada
+- Cincinnati
+- Lindner Family Tennis Center.
+- London
+- Miami
+- Ohio
+- UK
+- UK.
+- US
+- United States
+- canada
+people:
+- Adrian Back
+- Alex de Minaur
+- Arthur Fils
+- Brandon Nakashima
+- Felix Auger-Aliassime
+- Flavio Cobolli
+- Frances Tiafoe
+- Jannik Sinner
+- Jiri Lehecka
+organisations:
+- AU
+- Fils
+- Formula 1
+- FourFourTwo
+- Future Publishing
+- NBA
+- Newsweek
+- NordVPN
+- Red Bull
+- Sky Sportsis
+- Sling TV
+- TSN
+- TechRadar
+- Tennis Channel
+- Tiafoe
+- WTA
+- World Soccer Magazine
+- Yahoo
+- beIN Sports
+- theTennis Channel**
+- tobeIN Sports
 ---
 
 ![Frances Tiafoe celebrates his win against Brandon Nakashima during the Men's Semifinals on day twelve of the Cincinnati Open at the Lindner Family Tennis Center.](https://cdn.mos.cms.futurecdn.net/zKAy4YxfRRf7KcyN3GfQG5.jpg) 

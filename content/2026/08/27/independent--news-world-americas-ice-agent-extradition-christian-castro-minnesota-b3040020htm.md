@@ -12,6 +12,31 @@ image: https://static.independent.co.uk/2026/08/27/01/2259275050..?trim=1,0,1,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Brownsville
+- Cameron County
+- Hennepin County
+- Mexico
+- Minneapolis
+- Minnesota
+- Texas
+- U.S.
+people:
+- Andrew Mahaleris
+- Christian Castro
+- Donald Trump
+- Fernando Rodriguez Jr.
+- Greg Abbott
+- Greg Abbott,” Moriarty
+- Julio Cesar Sosa-Celis
+- Julio Cesar Sosa-Celis.
+- Keith Ellison
+- Mary Moriarty
+organisations:
+- Court
+- ICE
+- Immigration and Customs Enforcement
+- Minnesota’s Bureau of Criminal Apprehension
 ---
 
 A federal judge on Wednesday declined to force Texas to extradite an Immigration and Customs Enforcement officer accused of shooting a man and lying about the incident during the immigration crackdown in Minneapolis.

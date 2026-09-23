@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Los Angeles
+- Oceanside
+- Orange
+- San Diego
+- Westminster
+people:
+- Ada William Obayuwana
+- Albert Tai Vu
+- Cassandra Marie Murrillo
+- ColdheartedAC
+- Murillo
+organisations:
+- DOJ
+- Department of Justice
+- Obayuwana
+- U.S. Treasury
 ---
 
 An aspiring Los Angeles rapper is among three people accused of stealing more than $8.1 million in checks, including Social Security and benefit payments.

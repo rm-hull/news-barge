@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Andes
+- Asia
+- Bhotekoshi River
+- Brahmaputra
+- Caucasus
+- European Alps
+- Ganges
+- Himalayas
+- Langtang Lirung
+- Lhende Khola River
+- Nepal
+- Tibet
+people:
+- Hamish Pritchard
+- Richard Waller
+organisations:
+- British Antarctic Survey
+- Intergovernmental Panel on Climate Change
+- International Centre for Integrated Mountain Development
+- Keele University
+- Science Media Centre
+- UN
+- US Geological Survey
 ---
 
 The devastating flash flood that has ripped through the border communities of Nepal and Tibet has heightened fears that the climate crisis is destabilising the geology of mountain and polar regions, threatening millions of people.

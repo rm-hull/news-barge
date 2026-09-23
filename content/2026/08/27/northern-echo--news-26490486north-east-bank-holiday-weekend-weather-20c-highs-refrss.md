@@ -14,6 +14,12 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- North East
+people:
+- Sarah Caldecott
+organisations:
+- Met Office
 ---
 
 *(Image: Sarah Caldecott)*

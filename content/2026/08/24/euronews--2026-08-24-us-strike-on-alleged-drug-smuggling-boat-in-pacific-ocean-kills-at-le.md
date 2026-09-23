@@ -13,6 +13,21 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Caribbean Sea
+- Eastern Pacific
+- Eastern Pacific Ocean
+- Latin America
+- Pacific Ocean
+- US
+- United States
+- Washington
+people:
+- Donald Trump
+organisations:
+- AFP
+- SOUTHCOM
+- US Southern Command
 ---
 
 ## The US military launched operation "Southern Spear" in early September, with President Donald Trump arguing Washington is effectively at war with drug cartels operating out of Latin America.

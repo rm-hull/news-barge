@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Arizona
+- Badwater Basin
+- Death Valley
+- Death Valley National Park
+- Formosa
+- Grand Canyon
+- North America
+- Southern California
+- US
+- United States
+- West Side Road
+people:
+- Mike Reynolds
+- Pierre Michel Formosa
+organisations:
+- National Park
+- National Weather Service
 ---
 
 ![A view of Badwater Basin, a surreal salt flat, the lowest point in North America during extreme heat wave in Death Valley National Park of California, United States on August 2, 2026](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a852/live/7a015a70-a021-11f1-b3eb-5d1755263a69.jpg)

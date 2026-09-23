@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- U.S.
+people:
+- Bethany Quam
+- General Mills
+- Robert F Kennedy
+organisations:
+- Big G Cereal
+- Campbell's Company
+- Cheerios
+- Cinnamon Toast Crunch
+- Conagra Brands
+- FDA
+- Froot Loops
+- General Mills
+- HHS
+- Health and Human Services
+- Kraft Heinz
+- Lucky Charms and Trix
+- Nestle
+- Reuters
+- WK Kellogg
 ---
 
 Food giant General Mills announced that all of its U.S. cereals will now be made without synthetic dyes.

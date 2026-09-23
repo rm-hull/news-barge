@@ -12,6 +12,21 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- Diamond Street
+- Earle Street
+- Emerald Street
+- Hazel Court
+- The Groves
+- York
+people:
+- Groves
+- Ian Hoult
+- Stephanie Holdsworth
+organisations:
+- City of York Council
+- The City of York Council
+- Towthorpe
 ---
 
 Household waste left in streets in York for weeks has now been collected following anger over bin bags being ripped open and becoming fly-infested.

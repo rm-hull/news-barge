@@ -13,6 +13,25 @@ categories:
 - York
 - Arts & Culture
 - Film & TV
+locations:
+- Thirsk
+people:
+- Alf Wight
+- Dad
+- David Lonsdale
+- David Stockwell
+- Ian Ashton
+- James Herriot
+- Nicholas Rhea
+- Peter N Walker
+- Sarah Walker
+organisations:
+- All Creatures Great
+- Heartbeat
+- ITV
+- The World
+- World of James Herriot
+- Yorkshire
 ---
 
 *(Image: The World of James Herriot)*

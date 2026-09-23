@@ -14,6 +14,15 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Ex-Durham
+- Shildon
+people:
+- PC D
+organisations:
+- Durham Police
+- KFC
+- Samsung
 ---
 
 *(Image: POLICE)*

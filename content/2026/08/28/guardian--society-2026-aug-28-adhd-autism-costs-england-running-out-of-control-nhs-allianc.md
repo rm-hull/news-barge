@@ -14,6 +14,13 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- England
+people:
+- Rebecca Gray
+organisations:
+- ICB
+- NHS Alliance
 ---
 
 NHS leaders have warned that the costs of meeting soaring demand for attention deficit hyperactivity disorder (ADHD) and autism services in England are “running out of control” and have become unsustainable, with spending in some areas rising by as much as tenfold over the course of a year.

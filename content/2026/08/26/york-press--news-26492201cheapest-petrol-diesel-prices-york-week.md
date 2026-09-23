@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- TADCASTER ROAD
+- York
+people: []
+organisations:
+- ASDA EXPRESS YORK
+- MORRISONS YORK
+- SAINSBURY'S MONKS
+- TESCO YORK
+- York
 ---
 
 *(Image: Archive)*

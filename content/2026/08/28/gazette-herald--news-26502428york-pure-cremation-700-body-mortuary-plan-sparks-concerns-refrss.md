@@ -13,6 +13,33 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Cheshire
+- Great Northern Way
+- Hudson Court
+- Knutsford
+- Nether Poppleton’s York Business Park
+- North East
+- Unit 1
+- YOUR
+- __Mortuary
+people:
+- Anne Hook
+- Cllr Rowley
+- Derwent
+- Martin Rowley
+- Osbaldwick
+organisations:
+- Google Street View
+- LDRS
+- Liberal Democrat Rural West Ward
+- Local Democracy Reporting Service
+- National Association of Funeral Directors
+- Public Notice Portal
+- Pure Cremation
+- Rowley & Sons
+- York Business Park
+- York Council
 ---
 
 ### What is the Public Notice Portal?

@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Atlanta
+- Chicago
+- Illinois
+- New York City
+- Springfield
+- Woodside Township
+people:
+- Antonio Romanucci
+- Ben Crump
+- Black
+- Daniel Fultz
+- Dawson Farley
+- God
+- Jesus
+- Sean Grayson
+- Sontae Massey
+- Sonya Massey
+organisations:
+- Bodycam
+- Illinois Prisoner Review Board
+- NBC News
+- The Associated Press
+- WCIA
 ---
 
 A former Illinois sheriff's deputy died in prison Sunday while serving time for fatally shooting Sonya Massey after she called 911 about a suspected prowler in her home, his lawyer said.

@@ -12,6 +12,21 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- BP Listerhills Road
+- Bradford
+- Phoenix Service Station
+people:
+- Murco Bingley
+organisations:
+- Asda Bradford
+- Asda Little Horton Automat
+- Asda West Bradford Automat
+- Sainsbury's Bradford
+- Shell Whetley Hill
+- Sun Garage
+- Tesco Bradford Buttershaw
+- Whetley Hill Service Station
 ---
 
 *(Image: Archive)*

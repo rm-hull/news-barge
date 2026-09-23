@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Bhote Koshi River
+- China
+- Gandak River
+- Gyirong
+- India
+- Malaysia
+- Nepal
+- Rasuwa
+- Shigatse
+- Syapru Besi
+- Tibet
+- Timure
+- Trishuli River
+- United Kingdom
+- United States
+people:
+- Balendra Shah
+- Narendra Pariyar
+- Raja Ram Basnet
+- Tula Bahadur BK
+- Xi Jinping
+organisations:
+- Reuters
+- Xinhua
 ---
 
 Hundreds are missing and at least 22 people have died after torrential floods hit the Himalayan border areas of Nepal and in Tibet in China.

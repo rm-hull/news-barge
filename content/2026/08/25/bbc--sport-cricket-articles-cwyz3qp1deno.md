@@ -12,6 +12,77 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+- Bangladesh
+- Colombo
+- England
+- Headingley
+- India
+- London
+- Lord's
+- Mackay
+- Manchester
+- Melbourne Cricket Ground
+- Pakistan
+- South Africa
+- Surrey
+- Tanzania
+- West Indies
+people:
+- '**Ben'
+- '**CricViz'
+- '**CricViz:** MS Dhoni'
+- '**Graham'
+- Bazball
+- Ben Snowball
+- Charles Dennett
+- Cheteshwar Pujara
+- Chris Crighton
+- Chris Woakes
+- Dartford:***
+- Eoin Morgan
+- Freddie Davidson
+- Harvey
+- Hastings
+- Hook
+- Jack
+- Joe Belham
+- Joe Root
+- Jordan Cox
+- Jos Buttler
+- Josh Tongue
+- KL Rahul
+- Kemar Roach
+- Kraigg Brathwaite
+- Leo
+- Lichfield
+- Liton Das
+- Llangrannog:***Which
+- MS Dhoni
+- Mahendra Singh Dhoni
+- Mitchell Starc
+- Mohammad Hafeez
+- Natland
+- Ollie Robinson
+- Paul Collingwood
+- Rahul Dravid
+- Sachin Tendulkar
+- Shivnarine Chanderpaul
+- Shoaib Malik
+- Stanmore
+- Stuart Broad
+- Tom Latham
+- Virat Kohli
+organisations:
+- Australia
+- BBC Sport
+- DRS
+- Derbyshire
+- India
+- MCG
+- Northampton:***Who
+- ODI
 ---
 
 ![Stuart Broad appeals for Tom Latham's wicket](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/f5ae/live/d6f75ff0-a075-11f1-bf10-9547e884d7b7.jpg)

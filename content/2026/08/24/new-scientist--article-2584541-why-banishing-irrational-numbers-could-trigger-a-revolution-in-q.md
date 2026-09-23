@@ -14,6 +14,48 @@ categories:
 - Science
 - Technology & Software
 - History
+locations:
+- Australia
+- Barcelona
+- Gisin
+- Hilbert
+- Hungary
+- Palmer
+- RaQM
+- Spain
+- Switzerland
+people:
+- Adán Cabello
+- Albert Einstein
+- Alice
+- Bob
+- Erwin Schrödinger
+- Hippasus
+- Howard Wiseman
+- John Stewart Bell
+- John von Neumann
+- Lajos Diósi
+- Leonardo Gerzon
+- Nicolas Gisin
+- Peter Shor
+- Roger Penrose
+- Stephen Hsu
+- Tim Palmer
+- von Neumann
+organisations:
+- Fira Gran Via
+- Griffith University
+- Hilbert
+- MWC
+- Michigan State University
+- Mobile World Congress
+- QuEra
+- RaQM
+- Shor’s
+- University of Geneva
+- University of Oxford
+- University of Seville
+- Wigner Research Centre for Physics
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308310306.jpg?w=840)

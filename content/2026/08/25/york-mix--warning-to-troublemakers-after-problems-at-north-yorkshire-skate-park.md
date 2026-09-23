@@ -11,6 +11,17 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Malton Skate Park
+- Norton
+people:
+- David Dunning
+- Ryan Swain
+organisations:
+- CCTV
+- North Yorkshire Police
+- Norton-on-Derwent Town Council
+- YorkMix Radio
 ---
 
 Reports of criminal damage, vandalism, bullying and antisocial behaviour are creating an unpleasant and potentially dangerous environment at Norton and Malton Skate Park.

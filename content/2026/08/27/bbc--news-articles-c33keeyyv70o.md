@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - True Crime
 - Law & Justice
+locations:
+- Massachusetts
+- UK
+- US
+people:
+- Jennifer Sprague
+- Kevin Reddington
+- Lindsay Clancy
+organisations:
+- Befrienders Worldwide
+- DSM
+- NHS
+- National Health Service
 ---
 
 Watch: What is postpartum psychosis and why is it central in the Lindsay Clancy trial?

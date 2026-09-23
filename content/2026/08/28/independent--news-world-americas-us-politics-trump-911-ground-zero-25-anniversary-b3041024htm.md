@@ -11,6 +11,36 @@ image: https://static.independent.co.uk/2026/08/28/14/2234169999..?width=1200&he
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Doonbeg
+- Ground Zero
+- Ireland
+- Joint Base Andrews
+- Manhattan
+- Maryland
+- New York City
+- Twin Towers
+- Washington, D.C.
+- White House
+people:
+- Anna Kelly
+- Barack Obama
+- Bill Clinton
+- Donald Trump
+- George W. Bush
+- Hillary Clinton
+- JD Vance
+- Joe Biden
+- Kamala Harris
+- Laura Bush
+- Melania Trump
+- Rudy Giuliani
+organisations:
+- National September 11 Memorial and Museum
+- New York Times
+- New York Yankees
+- Pentagon
 ---
 
 President Donald Trump reportedly plans to mark the 25th anniversary of the September 11, 2001, terrorist attacks at the Pentagon, not Ground Zero in New York City – in part because he cannot give a speech.

@@ -13,6 +13,16 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Town
+people:
+- Cathal Heffernan
+- Neil Harris
+- Simon Weaver
+organisations:
+- Barrow
+- Cambridge United
+- Harrogate Town AFC
 ---
 
 Harrogate Town AFC has comfirmed that Cathal Heffernan has joined Cambridge United for an undisclosed fee.

@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Baltics
+- Britain
+- Downing Street
+- France
+- Hertfordshire
+- Kremlin
+- Kyiv
+- London
+- Moscow
+- Poland
+- Russia
+- UK
+- Ukraine
+people:
+- Andrei Fedorov
+- Andy Burnham
+- Dmitry Peskov
+- Grant Shapps
+- Malcolm Rifkind
+- Maria Zakharova
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- BBC
+- Kyiv
+- Ministry of Defence
 ---
 
 Russia has warned it could strike British military targets over the UK’s support for Ukraine.

@@ -12,6 +12,13 @@ categories:
 - York
 - Automotive
 - Technology & Software
+locations:
+- Cowstail Lane
+- North Yorkshire
+- Tockwith
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 North Yorkshire Police officers are appealing for information following the theft of a motorcycle from Tockwith.

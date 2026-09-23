@@ -12,6 +12,61 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Aston Villa
+- Girona
+- Japan
+- La Liga
+- London
+- Man City
+- Manchester City
+- Middlesborough
+- South America
+- Spain
+- Stamford Bridge
+people:
+- Brian Marwood
+- Cavan Sullivan
+- Chelsea
+- Cole Palmer
+- Douglas Luiz
+- Jack Harrison
+- Liam Delap
+- Morgan Rogers
+- Oleksandr Zinchenko
+- Oscar Bobb
+- Pep Guardiola
+- Quique Carcel
+- Ryan McAidoo
+- Savinho
+- Savino
+- Savio
+- Shin Miidera
+- Taty Castellanos
+- Vitor Reiss
+organisations:
+- Aston Villa
+- Atletico Mineiro
+- BBC Sport
+- Begiristain
+- CFG
+- Champions League
+- Chelsea
+- City Football Group
+- Girona
+- La Liga
+- MLS
+- Manchester City
+- Morgan Rogers
+- PSV
+- Pep
+- Philadelphia Union
+- Premier League
+- Savinho
+- Tottenham
+- Troyes
+- Txiki
+- Yokohama F. Marinos
 ---
 
 ![The back of Savino's shirt with his head turned to the side](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ff03/live/3a05b270-9e20-11f1-bc51-19e4b5ccc0f6.jpg)

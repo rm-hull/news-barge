@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Technology & Software
 - Comedy & Entertainment
+locations:
+- Bristol
+- Gloucestershire
+- UK
+people:
+- '## More'
+- Adam Armstrong
+- Baljinder Kaur Sangha-Gill
+- Bristol Meg Houghton-Gilmour
+- Edward Surman
+- Jay Rayner
+- Jay Rayner Food
+- Oscar Bostock
+organisations:
+- BBC
+- Baljinder Kaur Gill
+- Bath
+- Emberwood
+- Financial Times
+- Meg Houghton-Gilmour
+- Nook Cheltenham
+- The Authentic Punjabee
+- The Bristol Sauce
+- TikTok
 ---
 
 ![Oscar is wearing dark rimed glasses and is smiling at the camera whilst holding up a cheeseburger. He's standing in front of orange graffiti.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/fe8e/live/abb70220-9d53-11f1-aac2-870643eea2ac.jpg)

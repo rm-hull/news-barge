@@ -11,6 +11,29 @@ image: https://static.independent.co.uk/2026/08/27/16/2289546661..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Cancun
+- Iran
+- Texas
+- U.S.
+people:
+- Brian Krassenstein
+- Cory Chase
+- Dolly Parton
+- Donald Trump
+- Heidi
+- JFK
+- Johnny Carson
+- Legend
+- Lyin’ Ted
+- Mark
+- Ted Cruz
+organisations:
+- NBC
+- RNC
+- Tucker Carlson Network
+- Twitter
+- anti-Trump Lincoln Project
 ---
 
 Texas Republican Sen. Ted Cruz has been forced to delete a tribute to the late country music superstar Dolly Parton after the account he quoted quickly changed its username to humiliate him.

@@ -12,6 +12,23 @@ image: https://cdn.mos.cms.futurecdn.net/wJJvsofdE94tEJuVpYkGFk-1920-80.png
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Cyberleek
+- Jowi Morales
+- Leonidas
+- Tom
+organisations:
+- AAA
+- Cyberleek
+- GTA VI
+- Google News
+- Grand Theft Auto VI
+- ISO
+- Jowi Morales
+- Netflix
+- Rockstar
+- Take-Two Interactive
 ---
 
 ![a clip from GTA VI trailer 2](https://cdn.mos.cms.futurecdn.net/wJJvsofdE94tEJuVpYkGFk.png) 

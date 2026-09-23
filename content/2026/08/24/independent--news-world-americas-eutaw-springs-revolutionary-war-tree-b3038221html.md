@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Eutaw Springs
+- S.C.
+- Santee River
+- SavATree
+- South Carolina
+people:
+- Alexander Stewart
+- Andrew Giordano
+- Aron Landsaw
+- Brig
+- Bryce Whitney
+- Francis Marion
+- Garrison Marcoux
+- Henry “Light-Horse Harry” Lee
+- Jake Love
+- Nathanael Greene
+organisations:
+- American Battlefield Trust
+- SavATree
+- South Carolina Battlefield Preservation Trust
+- Swamp Fox
 ---
 
 A massive live oak that stood on a South Carolina battlefield during one of the Revolutionary War’s bloodiest clashes is now fighting a battle of its own — against the decades-old measures once designed to save it.

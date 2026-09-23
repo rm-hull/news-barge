@@ -13,6 +13,25 @@ image: https://cdn.mos.cms.futurecdn.net/AnQTdsfDi6CsBxanpSjUtU-1080-80.png
 categories:
 - Technology & Software
 - Hardware
+locations:
+- India
+people:
+- Bruno Ferreira
+- Panic
+- Qwen
+- Redditor
+- Tom
+organisations:
+- Furmark
+- GLM
+- GPU
+- Google News
+- Lenovo Yoga
+- PC
+- Panic
+- Radeon
+- Redditor Alternative-Panic69
+- Tom's Hardware
 ---
 
 ![Lenovo Yoga with Radeon 7900 XT](https://cdn.mos.cms.futurecdn.net/AnQTdsfDi6CsBxanpSjUtU.png) 

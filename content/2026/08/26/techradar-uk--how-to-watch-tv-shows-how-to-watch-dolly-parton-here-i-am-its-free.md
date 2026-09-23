@@ -10,6 +10,47 @@ description: Following the heartbreaking loss of the country icon, stream the de
 image: https://cdn.mos.cms.futurecdn.net/pmj3ifTUMKNFPeEdFHRSVF-2560-80.png
 categories:
 - Technology & Software
+locations:
+- Canada
+- Nashville
+- Smoky Mountains
+- Tennessee
+- UK
+- US
+- United Kingdom
+people:
+- Dolly Parton
+- Jane Fonda
+- Jolene
+- Lily Tomlin
+- NordVPN
+- Tom Bailey
+organisations:
+- Amazon Fire**(Tablets
+- Android
+- BBC iPlayer
+- BBC iPlayer The BBC
+- BBC iPlayerHow
+- Dolly Parton
+- Elle Deco
+- Future Publishing
+- Google
+- Humax
+- Men's Health
+- NordVPN BBC
+- NordVPN**
+- Sky Glass
+- Sky Q
+- Sky StreamVirgin Media
+- Sony
+- TalkTalk
+- TechRadar
+- The Daily Telegraph
+- The Mail
+- The Sun
+- The Sunday Times
+- TiVo
+- YouView**(BT
 ---
 
 ![Dolly Parton: Here I Am](https://cdn.mos.cms.futurecdn.net/pmj3ifTUMKNFPeEdFHRSVF.png) 

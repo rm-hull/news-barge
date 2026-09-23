@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Law & Justice
+locations:
+- Kennedy Center
+- Washington, D.C.
+people:
+- Christopher R. Cooper
+- Donald J. Trump
+- Donald J. Trump Plaza
+- Donald Trump
+- Donald Trump-dominated
+- Howard Lutnick
+- John F.”
+- Joyce Beatty
+- Kennedy
+- Nathaniel Zelinsky
+organisations:
+- Beatty
+- Commerce
+- Congress
+- Department of Justice
+- Justice Department
+- Kennedy Center
+- The John F. Kennedy Memorial Center for the Performing Arts
+- The Trump Kennedy Center Fund
+- Trump Kennedy Center Fund
 ---
 
 The Kennedy Center’s Donald Trump-dominated board is trying to illegally flout court orders that block the president from sticking his name on the building, according to the legal team fighting to keep his hands off the venue.

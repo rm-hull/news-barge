@@ -11,6 +11,18 @@ categories:
 - Local
 - York
 - Comedy & Entertainment
+locations:
+- Diamond Street
+- Earle Street
+- Emerald Street
+- The Groves
+- York
+people:
+- Groves
+- Ian Hoult
+- Stephanie Holdsworth
+organisations:
+- City of York Council
 ---
 
 Bin bags left uncollected for weeks in a York neighbourhood have been ripped open by animals and infested with flies, residents say.

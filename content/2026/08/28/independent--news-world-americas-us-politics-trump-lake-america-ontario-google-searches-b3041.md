@@ -15,6 +15,29 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Canada
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- Lake Ontario Lake America
+- Ottawa
+- US
+- United States of America
+- Washington
+people:
+- Donald Trump
+- Harry Enten
+- Mark Carney
+organisations:
+- CNN
+- Confederation of Canada
+- Declaration of Independence
+- Department of the Interior
+- Enten
+- Google
+- Trump
 ---
 
 Search engine data shows that residents in every US state continue to search for “Lake Ontario” over President Donald Trump’s preferred moniker, “Lake America,” following his executive order to change the body’s federal name.

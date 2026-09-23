@@ -12,6 +12,44 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Britain
+- UK
+- Victoria
+people:
+- Anna Bishop
+- Barbara Castle
+- Benjamin Disraeli
+- Charles Dickens
+- David Livingstone
+- Denis MacShane
+- Florence Nightingale
+- Francis
+- Isambard Kingdom Brunel
+- John Jabez Edwin Mayall
+- John Major
+- Karl Marx
+- Margaret Beckett
+- Martin Rowson
+- Michael Faraday
+- Michael Heseltine
+- Michael Portillo
+- Victoria
+- William Holl
+- William John MacLeod
+- William Pitt the Younger
+- William Wilberforce
+organisations:
+- British Cartoonists’ Association
+- British Council
+- FoI
+- Foreign Office Christmas
+- Labour
+- Nato
+- Parliamentary Art Collection
+- Press Association
+- Royal Collection
+- Tory
 ---
 
 A photograph of Benjamin Disraeli, an engraved portrait of William Wilberforce and a cartoon of Barbara Castle have all been misplaced by the UK parliamentary authorities, a freedom of information (FoI) request has revealed.

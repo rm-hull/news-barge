@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Finchley
+- Harrow
+- Hemel Hempstead
+- Hertfordshire
+- London
+people:
+- Darren Scotchbrook
+- Madeleine Wolfe
+- Margaret Thatcher
+- Richard Luker
+- Sally-Anne Bowen
+- Tobias Oliver
+organisations:
+- Christ’s College
+- Sabrina Carpenter
 ---
 
 A chemistry teacher has been found guilty of indecently assaulting two teenage pupils at an all-boys school in the late 1980s.

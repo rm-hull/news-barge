@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- County Durham
+- NORTHUMBRIA
+- North East
+- River Tyne
+- River Tyne Man
+- The Boathouse
+- Wylam Bridge
+people:
+- Liam Potts
+- Rachael Rutherford
+organisations:
+- A1
+- Major Investigation Team
+- Marine Unit
+- NORTH NEWS LTD
+- Northumbria Police
 ---
 
 *(Image: NORTH NEWS LTD/NORTHUMBRIA POLICE)*

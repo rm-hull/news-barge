@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations: []
+people:
+- Jamie Carragher
+organisations:
+- BBC Sport
+- CBS Sports
+- HM Revenue and Customs
+- HMRC
+- High Court
+- Insolvency and Companies Court
+- Liverpool
+- Sky Sports
+- Sky Sports.
 ---
 
 Jamie Carragher, the former Liverpool defender, could face bankruptcy after HM Revenue and Customs (HMRC) filed a petition against him over an unpaid tax bill.

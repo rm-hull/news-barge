@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Allianz Arena
+- Allianz Stadium
+- Germany
+- Harbour Bridge
+- Munich
+- Opera House
+- Sydney
+people:
+- Ambrose Killian
+organisations:
+- Allianz Arena
+- Allianz Stadium
+- BBC
+- First Nations
+- Instagram
+- Sydney Marathon
+- Sydney Opera
 ---
 
 ![A photo showing the Sydney Marathon medal, as shared by organisers on social media.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg)

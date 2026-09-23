@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Self-Improvement
+locations:
+- Bishop Auckland
+- Darlington
+- Durham
+- Haughton le Skerne
+- St Andrew’s
+- St Andrew’s Church
+people:
+- Amy Gooding
+- Damon Bage
+- Elaine
+- Mark East
+- Rev East
+- Revd Rick Simpson
+- Rick Simpson
+- Sarah McTimoney
+organisations:
+- Bishop Auckland Hospital
+- County Durham
+- Darlington Area Dean
+- Darlington CAP Debt Centre
+- NHS
+- Rev East’s ministry
+- St Andrew's Church
+- St Andrew’s Parochial Church Council
 ---
 
 *(Image: Supplied)*

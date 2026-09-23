@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Kyiv
+- UK
+- Ukraine
+people:
+- Andy Burnham
+- Joe Inwood
+- Volodymyr Zelensky
+organisations: []
 ---
 
 # Is UK's Storm Shadow missile a game changer for Ukraine?

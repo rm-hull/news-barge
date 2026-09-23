@@ -12,6 +12,15 @@ categories:
 - Technology & Software
 - Travel
 - Health & Fitness
+locations:
+- Patagonia
+people:
+- Ruth Hamilton
+organisations:
+- Arc'Teryx
+- Google News
+- Ruth
+- TechRadar
 ---
 
 ![Selection of down jackets, floating against a frosty background](https://cdn.mos.cms.futurecdn.net/ofu8kvosdc2DGCCsw4UikH.jpg) 

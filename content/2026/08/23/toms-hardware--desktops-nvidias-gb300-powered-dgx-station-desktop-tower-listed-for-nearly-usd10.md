@@ -14,6 +14,26 @@ categories:
 - Hardware
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- DGX Station
+people:
+- Hassam Nasir
+- Tom
+organisations:
+- BMC
+- Blackwell Ultra GPU
+- Computex
+- DGX Station
+- Dell
+- Exxact
+- Get Tom's Hardware
+- Google News
+- Grace Blackwell
+- Grace CPU
+- HP
+- LPDDR5x RAM
+- Nvidia
+- VRAM
 ---
 
 ![Nvidia](https://cdn.mos.cms.futurecdn.net/wcb9tJ6dZa9eMEetcMLWJN.jpg) 

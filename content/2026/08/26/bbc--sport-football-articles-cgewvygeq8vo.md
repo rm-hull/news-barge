@@ -12,6 +12,38 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- England
+- Etihad Stadium
+- Nottingham Forest
+- Stamford Bridge
+people:
+- Alexander Isak
+- Bernardo Silva
+- Elliot Anderson
+- Enzo Fernandez
+- Enzo Fernandez.
+- Enzo Maresca
+- Javier Pastore
+- Nico Gonzalez
+- Rodri
+- Tijjani Reijnders
+- Xabi Alonso
+organisations:
+- Al-Qadsiah
+- Barcelona
+- Benfica
+- City
+- Eden Hazard
+- Fulham
+- Liverpool
+- Manchester Cityare
+- New Chelsea
+- Newcastle
+- PSG
+- Paris St-Germain
+- Real Madrid
 ---
 
 ![Enzo Fernandez in action for Chelsea during pre-season](https://ichef.bbci.co.uk/ace/standard/920/cpsprodpb/532f/live/e79a2900-a133-11f1-8c37-3f30331ac537.jpg)

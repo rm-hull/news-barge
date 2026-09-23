@@ -13,6 +13,17 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Britain
+- England
+- Fewston Reservoir
+- Harrogate
+- UK
+- Wales
+people:
+- Andrew Stevens
+organisations:
+- Met Office
 ---
 
 # Met Office weather forecast shows stormy weather front may be heading Harrogate's way

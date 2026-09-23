@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Filey
+- Gap Road
+- Hunmanby Gap
+- North Yorkshire
+- Reighton Gill
+people: []
+organisations:
+- Highway Authority
+- North Yorkshire Council
+- Yorkshire Water
 ---
 
 PLANS to build a large house at a clifftop location on the North Yorkshire coast have been refused over concerns about safety and its impact on neighbours.

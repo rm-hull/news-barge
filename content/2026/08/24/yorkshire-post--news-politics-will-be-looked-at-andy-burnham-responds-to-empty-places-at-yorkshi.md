@@ -15,6 +15,28 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Bradford
+- East Riding of Yorkshire
+- HMP Millsike
+- York
+people:
+- Alex Norris
+- Andrew Harper
+- Andy Burnham
+- Lord Timpson
+- PC Harper
+organisations:
+- Government
+- HMP Millsike
+- Independent Monitoring Board
+- Justice Secretary
+- Labour
+- Ministry of Justice
+- Mitie
+- MoJ
+- The Daily Telegraph
+- The Yorkshire Post
 ---
 
 # ‘Will be looked at’: Andy Burnham responds to empty places at Yorkshire ‘super-prison’ as early release decision looms

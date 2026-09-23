@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Belgium
+- Ghent
+people:
+- Herwig Reynaert
+- Jason Arday
+- Nathan Cofnas
+- Patrick Vernon
+- Petra De Sutter
+organisations:
+- Cofnas
+- Cofnas’
+- Ghent University
+- Guardian
+- Senate House
+- University of Cambridge
 ---
 
 Nathan Cofnas, the academic who accused Jason Arday of plagiarism, has been accused of having “very limited expertise” for his academic role by professors also working at Ghent University, who say he has a “far-right agenda”.

@@ -14,6 +14,32 @@ categories:
 - UK
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- Broward County Circuit Court
+- Dallas
+- Fort Lauderdale
+- Fort Worth
+- Maine
+- Pompano Beach
+- South Florida
+- Texas
+people:
+- Brenda Bertetchuk
+- Carline Hunter
+- Darren Rebelez
+- Jeffrey Wright
+- Keisha Mitchell
+- Margaret Bennett
+- Stephanie Davis
+- '],”'
+organisations:
+- Bertetchuk
+- BlackIHOP
+- CBS News
+- IHOP
+- IHOPs
+- Sunshine Restaurant Merger Sub, LLC
+- The Independent
 ---
 
 A group of BlackIHOP employees are suing the pancake chain over allegations they endured ceaseless bigotry from a supervisor who allegedly subjected them to “repeated racial slurs, disparaging comments, and an atmosphere of intimidation, ridicule and humiliation,” according to a lawsuit reviewed by *The Independent*.

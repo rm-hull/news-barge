@@ -12,6 +12,28 @@ image: https://i.guim.co.uk/img/media/477e4b57e8708325995c483a09c9726c05d11095/2
 categories:
 - UK
 - News & Politics
+locations:
+- Beachport
+- Hobart
+- Kangaroo Island
+- King Island
+- Limestone Coast
+- New South Wales
+- Port of Grassy
+- Queensland
+- South Australia
+- Tasmania
+- Victoria
+- Western Australia
+people:
+- Jack Gough
+- Julie Collins
+- Peter Malinauskas
+- Wes Ford
+organisations:
+- Australian Centre for Disease Preparedness
+- Invasive Species Council
+- SA
 ---
 
 A long-nosed fur seal has died from H5 bird flu in South Australia, marking the first confirmed case in a mammal on the Australian mainland.

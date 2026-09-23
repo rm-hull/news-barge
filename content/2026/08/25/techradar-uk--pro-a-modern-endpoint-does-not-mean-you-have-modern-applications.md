@@ -10,6 +10,13 @@ image: https://cdn.mos.cms.futurecdn.net/KNPUc7wQaTTAwBR9EVypsK-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- Future plc
+- MSIX
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![An outline of a cloud in neon orange, inside a circle of blue fibers, suggesting cloud computing](https://cdn.mos.cms.futurecdn.net/KNPUc7wQaTTAwBR9EVypsK.jpg) 

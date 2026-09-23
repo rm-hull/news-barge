@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bellevue Park
+- Queensland
+- Sydney
+people:
+- Alan Ngov
+- Coles
+- Fumin Rianto
+- Gary Mortimer
+- Kirsten Junor
+- Leah Weckert
+- Michael Toner
+- Ooshies
+organisations:
+- Coles
+- Coles’
+- Disney
+- Facebook Ooshie
+- Headstart International
+- LinkedIn
+- Marvel
+- Ooshies
+- Queensland University of Tehcnology
+- RBC Capital Markets
+- Reverse Garbage
+- Woolworths
+- YouGov Australia
 ---
 
 Woolworths’ latest Disney “Ooshie” collectibles have not only captivated Australian children, they have led to a short-term slump in competitor Coles’ sales.

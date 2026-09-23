@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Uniform Hub
+- Westgate
+people:
+- Dawn Coleman
+organisations:
+- Government
+- Living Well Bradford
+- Salvation Army
+- Shipley Salvation Army
+- Shipley Salvation Army Uniform Hub
+- UNIFORM
+- Uniform Exchange
 ---
 
 A UNIFORM exchange run by Shipley Salvation Army provided clothing to more than 500 children last year — and the charity expects demand to continue rising in 2026.

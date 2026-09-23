@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Birmingham
+- Britain
+- England
+- Pershore
+- Quarry Park Road
+- Racecourse Lane
+- Stoke
+- Stoke-on-Trent
+- Stourbridge Town Hall
+- Trent
+- UK
+- Wales
+- West Midlands
+- Willenhall
+- Wolverhampton
+- Worcestershire
+people:
+- Andy Burham
+- Chloe Fogg
+- Dudley
+- Loxie Williams
+- Martin Gorick
+- Robin
+- Simon Tuhill
+organisations:
+- Met Office
+- West Midlands Fire Service
+- West Midlands Fire Service.
 ---
 
 ![Burnt out homes near a railway line. Three gardens are a charred black mess with shell houses next to them](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/5632/live/f95fd430-a162-11f1-81f3-a1eb67c44aaf.png)

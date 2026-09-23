@@ -13,6 +13,38 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Aberdeen
+- Bedminster
+- County Clare
+- Doonbeg
+- Dublin
+- New Jersey
+- New York
+- Republic of Ireland
+- Scotland
+- South Ayrshire
+- Turnberry
+- U.S.
+- White House
+people:
+- Catherine Connolly
+- Charles III
+- Donald Trump
+- Donald Trump Jr
+- Eric Trump
+- Greg Norman
+- Keir Starmer
+- Micheal Martin
+- Rory McIlroy
+- Trumps
+- Ursula von der Leyen
+organisations:
+- Bethpage Black
+- European Commission
+- Hotel
+- The New York Post
+- Trump International Golf Links
 ---
 
 President Donald Trump has timed his upcoming trip to the Republic of Ireland to coincide with the final two days of the Irish Open.

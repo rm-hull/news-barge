@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- Britain
+- England
+- London
+- Northern Ireland
+- Scotland
+- UK
+- UK’
+- Wales
+people:
+- Hannah Charles
+- Jacquelyn McCormick
+- Kimon Andreas Karatzas
+organisations:
+- BBC
+- FSA
+- Food Standards Agency
+- Humber
+- Reading University
+- The Independent
+- UK Health Security Agency
+- UKHSA
+- Yorkshire
 ---
 
 One person has died and hundreds have been taken ill following an outbreak of food poisoning across the country.

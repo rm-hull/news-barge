@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- GTA San Andreas
+- GTA Vice City
+- San Andreas
+- Vice City
+people:
+- Gabe Newell
+- Mike Harrington
+- Valve
+organisations:
+- GTA 3
+- GTA III
+- Get Tom's Hardware
+- Microsoft
+- Minecraft
+- Nvidia Sega
+- TechTuber
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/MLRYtYpUEeXxhLewjL7FmP-320-80.jpg)

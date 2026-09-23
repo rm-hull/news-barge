@@ -14,6 +14,31 @@ categories:
 - Harrogate
 - York
 - Food & Cooking
+locations:
+- Blacker Hall Farm
+- Germany
+- Harrogate
+- London
+- Switzerland
+- USA
+- Wakefield
+people:
+- Edward Garthwaite
+- Stephanie Moon
+organisations:
+- BBC One
+- BBC Two
+- Barn Kitchen
+- Blacker Hall Farm
+- British Menu
+- Channel 5
+- Chef’s Programme
+- Ms Moon
+- Rudding Park Hotel
+- Street Market Chefs
+- The Barn Kitchen
+- The Dorchester
+- Wakefield
 ---
 
 # Great British Menu star Stephanie Moon to join Wakefield's Blacker Hall Farm

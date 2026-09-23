@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Libya
+- Lockerbie
+- Manhattan
+- Maryland
+- Montauk
+- Netherlands
+- New Jersey
+- New York
+- Scotland
+- U.S.
+- Washington
+- Washington, D.C.
+people:
+- Abu Agila Mohammad Mas’ud Kheir Al-Marimi
+- Alex
+- Alexia
+- Aphrodite Tsairis
+- Bert Ammerman
+- Dark Elegy
+- Lucas Lowenstein
+- Michael
+- Moammar Gadhafi
+- Peter
+- Philip Marcelo
+- Stephanie Bernstein
+- Suse Lowenstein
+- Thomas
+organisations:
+- FBI
+- Syracuse University
 ---
 
 The monumental collection of 76 statues in Suse Lowenstein’s backyard captures the moment she and other women learned their loved ones were killed when Pan Am Flight 103 was blown out of the sky over Lockerbie, Scotland, in 1988.

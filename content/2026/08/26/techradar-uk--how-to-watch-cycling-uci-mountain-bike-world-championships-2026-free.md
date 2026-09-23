@@ -12,6 +12,85 @@ categories:
 - Technology & Software
 - Sports
 - Video Gaming
+locations:
+- Australia
+- Belgium
+- Canada
+- Dolomites
+- France
+- Italy
+- New Zealand
+- Surfshark
+- Switzerland
+- UK
+- US
+- Valais
+- Vallnord
+people:
+- Aatif Sulleyman
+- Adrien Dailly
+- Alan Hatherly
+- Alessandra Keller
+- Anna Spielmann
+- Eddy Clerte
+- Elly Hoskin
+- Enduro
+- George Swift
+- Jackson Goldstone
+- Jenny Rissveds
+- Jerome Gilloux
+- Joris Ryf
+- Kate Courtney
+- Kathrin Stirnemann
+- Keegan Swenson
+- Mathieu van der Poel
+- Pump Track
+- Richard Rude Jr
+- Sabina Kosarkova
+- Surfshark
+- Tom Pidcock
+- Val di Sole
+- Valentina Höll
+- Victor Koretzky
+organisations:
+- AU
+- Aatif
+- Cross-Country Relay
+- Cross-Country Short Track
+- DHI
+- Downhill
+- E-MTB
+- E-Mountain Bike
+- Elite Men
+- Future Publishing
+- Gizmodo
+- L'Équipe
+- Mixed Team Relay
+- Newsweek
+- Premier League
+- Pump Track
+- RAI
+- RSI
+- RTBF
+- RTS
+- Rugby's Greatest Rivalry
+- SRF
+- Stan Sport
+- Super Rugby
+- Surfshark
+- TNT Sports
+- TNT Sports**
+- The Independent
+- Trusted Reviews
+- U23 Men
+- U23 Women
+- UCI
+- VRT
+- Val di Sole
+- Virgin Media
+- XCC
+- XCO
+- XCR
 ---
 
 ![Alan Hatherly airborne at the UCI Mountain Bike World Championships in 2025](https://cdn.mos.cms.futurecdn.net/zXteaYAomvBy7irknPhuH4.jpg) 

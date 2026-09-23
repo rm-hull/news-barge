@@ -13,6 +13,22 @@ categories:
 - UK
 - Society & Culture
 - True Crime
+locations:
+- D.C.
+- Lancaster County
+- Maryland
+- Pennsylvania
+- U.S.
+- United States
+people:
+- Debra Bogen
+- Paul Offit
+organisations:
+- CDC
+- Centers for Disease Control and Prevention
+- Children’s Hospital of Philadelphia
+- Commonwealth
+- The Independent
 ---
 
 Pennsylvania has reported the first measles deaths in the United States this year, and the first in the state in 35 years.

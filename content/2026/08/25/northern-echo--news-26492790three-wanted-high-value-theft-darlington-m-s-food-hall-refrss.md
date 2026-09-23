@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- DURHAM
+- Darlington
+- West Park
+people: []
+organisations:
+- CCTV
+- Darlington's M&S
+- Durham Police
+- M&S Food Hall
+- PC Nowicz
 ---
 
 *(Image: DURHAM POLICE)*

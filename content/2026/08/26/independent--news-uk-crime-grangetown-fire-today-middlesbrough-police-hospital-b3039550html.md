@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Birchington Avenue
+- Cleveland
+- Grangetown
+- Middlesbrough
+- Newcastle
+- Redcar
+- Royal Victoria Infirmary
+people:
+- Adam Brook
+- Emily Harrison
+organisations:
+- Cleveland Fire Brigade
+- Cleveland Police
+- Crimestoppers
+- Incident Command Unit
+- RVI
+- Redcar
+- The Independent
 ---
 
 A murder investigation has been launched after two people died in a house fire in Grangetown near Middlesbrough.

@@ -14,6 +14,34 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Benidorm
+- Darlington
+- Newton Aycliffe
+- Spain
+- The Great North
+people:
+- )* Kimberley
+- Alfie Joey
+- Bill
+- Buddy
+- Ellie Henry
+- Kimberley Hedley
+- Lisa Brown
+- Makayla *(Image
+- Mammy’
+- Matthew Blades
+- Millie Rose
+- Millie Rose Hedley
+- Mum Kimberley Hedley
+- STUART BOULTON
+- William
+- Zoe Sutton
+organisations:
+- PICU
+- RVI
+- The Great North Children’s Hospital
+- The Millie Rose Foundation
 ---
 
 *(Image: FAMILY)*

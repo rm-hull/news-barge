@@ -12,6 +12,35 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- Isle of Skye
+- James Street
+- Stonehenge
+- UK
+people:
+- Arthur
+- Clare Watson
+- Glen Coe
+organisations:
+- Beaverbrooks Harrogate
+- Brecon Beacons
+- Edinburgh Castle
+- Giants Causeway
+- Instagram
+- Isle of Skye
+- Lake District
+- London Eye
+- Mount
+- Peak District
+- Royal Crescent
+- Seat
+- St Michael
+- Stonehenge
+- Tower Bridge
+- UK’
+- White Cliffs of Dover
+- York Minster
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8d8d635d9bee94234.jpg) 

@@ -12,6 +12,17 @@ image: https://static.independent.co.uk/2026/08/26/01/Congress_1378_.jpg?width=1
 categories:
 - News & Politics
 - UK
+locations:
+- California
+- France
+- Julian
+- U.S. Capitol
+- US
+people:
+- Philan-Tam-Duy Le
+organisations:
+- Congress
+- United States Capitol Police
 ---
 
 Police arrest a California man after finding a guillotine near the US Capitol

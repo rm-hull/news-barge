@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Calder Valley
+- Hebden Bridge
+- Old Chamber Farm
+- Visit Calderdale
+people:
+- Keith Ingle
+organisations:
+- Calderdale Council
+- Calderdale Festival of Food
+- Calderdale Food Network
 ---
 
 A NEW festival is set to celebrate the best of food and drink.

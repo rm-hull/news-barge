@@ -15,6 +15,34 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Barcelona
+- Downing Street
+- Greater Manchester
+- Leeds
+- London
+- PA
+- Seville
+- Spain
+people:
+- Brett Jacob
+- Edward Glaeser
+- James Speakman
+- Leeds'
+- Manchesterism’
+organisations:
+- Barcelona of the North
+- Bilbao
+- Brudenell Social Club
+- Factory Records
+- Leeds
+- Manchester
+- PR
+- Present Works
+- Seville Strategy
+- Valencia
+- Yard Act
+- Yorkshire
 ---
 
 # How Leeds can be to Manchester what Seville is to Barcelona - Brett Jacob

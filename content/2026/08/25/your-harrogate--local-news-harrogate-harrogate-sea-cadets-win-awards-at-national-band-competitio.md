@@ -12,6 +12,23 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Greenwich
+- Harrogate
+people:
+- Sid Lovatt
+- Solo Drummer
+organisations:
+- AC Dowling
+- AC Rowlands
+- Best Drum Major
+- Bugle Band
+- Harrogate Sea Cadets
+- National Maritime Museum
+- Sea Cadets
+- Sea Cadets National Band Competition
+- Solo Bugler
+- TS Cleopatra
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8d33d8a3054e3ad40.jpg) 

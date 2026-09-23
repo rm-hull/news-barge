@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Cleveland
+- Middlesbrough
+- South Bank
+people:
+- Andy Burnham
+- Cole Robert Worthy
+- Jakub Matusiak
+- Kelly Cahill
+- Makai Saddington
+- Matt Storey
+- Matthew Blades
+- Michael Robert Cahill
+- PC Blades’
+- PC Clough
+- Sharon Morgan
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- Cleveland Police
+- Independent Office for Police Conduct
+- TikTok
 ---
 
 One of the seven men killed in a “devastating” car crash near Middlesbrough on Saturday had previously shared videos of himself joyriding on social media.

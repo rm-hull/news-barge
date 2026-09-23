@@ -11,6 +11,44 @@ image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/f669/live/02a
 categories:
 - UK
 - News & Politics
+locations:
+- Aberystwyth
+- Banbury
+- Basingstoke
+- Birmingham
+- Bristol.
+- Brize Norton
+- Caernarfon
+- Cambridge
+- Cardiff
+- Derby
+- England
+- Gloucester
+- Grantham
+- Hull
+- Ipswich
+- Kew Gardens
+- Leeds
+- Liverpool
+- London
+- Midlands
+- Northallerton
+- Northern Ireland
+- Nottingham
+- Oxford
+- Oxfordshire
+- Peterborough
+- Scotland
+- Settle
+- Sheffield
+- Stockport
+- UK
+- Wales
+- Wrexham
+people: []
+organisations:
+- BBC Weather
+- Met Office
 ---
 
 ![A man holding an umbrella and another man sheltering under a newspaper, walking down a street in the rain, with a city scene in the background](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/f669/live/02a8a940-a07d-11f1-bfeb-dfb02ea642ef.jpg)

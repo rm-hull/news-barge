@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Queensland
+people:
+- Bridget Burton
+- David Crisafulli
+- Deb Frecklington
+- William Wood
+organisations:
+- Griffith University
+- Queensland Human Rights Act
+- University of Queensland
 ---
 
 The Queensland government’s latest law and order crackdown – subjecting some children as young as 10 to a mandatory sentence of a year behind bars – could lead to “cruel outcomes”, according to human rights lawyers.

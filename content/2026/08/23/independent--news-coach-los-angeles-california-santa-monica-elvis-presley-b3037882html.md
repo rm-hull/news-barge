@@ -15,6 +15,34 @@ categories:
 - Film & TV
 - Comedy & Entertainment
 - Arts & Culture
+locations:
+- California
+- Los Angeles
+- Santa Monica
+people:
+- Alzheimer
+- Annette
+- Brian’s Song
+- Christine Armstrong
+- Clambake
+- Donna Reed
+- Elvis Presley
+- Eva Marie Saint
+- Francine Webster
+- Frank Sinatra
+- Girl Happy,” “Spinout
+- James Caan
+- Johnny Angel
+- Lou Adler
+- Mary Stone
+- Mike Farrell
+- Paul Newman
+- Shelley Fabares
+organisations:
+- CBS
+- Cedars-Sinai Medical Center
+- Los Angeles Times
+- The Associated Press
 ---
 
 Shelley Fabares, an actor who was a fixture on television for decades from her days as a young teenager on “The Donna Reed Show,” through “One Day at a Time” and “Coach,” has died. She was 82.

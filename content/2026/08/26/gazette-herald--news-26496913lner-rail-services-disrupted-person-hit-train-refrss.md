@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- London King's Cross
+- North Yorkshire
+- Peterborough
+- York
+people: []
+organisations:
+- :** A
+- CALM Helpline
+- Customer Solutions Team
+- Instagram
+- LNER
+- Newsquest
+- The Campaign Against Living Miserably
+- The Samaritans
 ---
 
 Rail services have been disrupted today after a person was hit by a train.

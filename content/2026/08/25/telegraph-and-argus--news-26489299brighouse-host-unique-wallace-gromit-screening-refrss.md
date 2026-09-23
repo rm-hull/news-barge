@@ -12,6 +12,15 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Brighouse
+- Central Methodist Church
+people:
+- Sam Harrison
+- WALLACE
+organisations:
+- Elland Silver Band
+- Wallace & Gromit
 ---
 
 *(Image: Supplied)*

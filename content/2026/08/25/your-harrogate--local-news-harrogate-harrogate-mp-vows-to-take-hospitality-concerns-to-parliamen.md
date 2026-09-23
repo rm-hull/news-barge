@@ -12,6 +12,16 @@ categories:
 - Local
 - Harrogate
 - Health & Fitness
+locations:
+- Harrogate
+- Knaresborough
+people:
+- Tom Gordon
+organisations:
+- Harrogate BID
+- Harrogate District Chamber of Commerce
+- Liberal Democrat
+- North Bar
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8d806ea1853de6f1b.jpg) 

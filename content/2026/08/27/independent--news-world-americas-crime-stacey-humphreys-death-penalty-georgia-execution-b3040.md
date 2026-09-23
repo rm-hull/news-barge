@@ -11,6 +11,38 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Atlanta
+- Cobb County
+- Dodge Durango
+- Dunwoody
+- Georgia
+- Glynn County
+- Humphreys’
+- Jackson
+- Powder Springs
+- Williams’
+- Wisconsin
+people:
+- Cynthia Brown
+- Cynthia “Cyndi” Williams
+- Humphreys'
+- Humphreys’
+- Jeep Humphreys
+- Kimberly McCoy
+- Lori Brown
+- Lori Williams
+- Robert McBurney
+- Stacey Humphreys
+- Wayne Bennett
+organisations:
+- Department of Corrections
+- Fulton County Superior Court
+- Georgia Supreme Court
+- Humphreys'
+- Paroles
+- State Board of Pardons
+- U.S. Supreme Court
 ---
 
 Authorities in Georgia intend to execute a man next month following his conviction for the fatal shootings of two Atlanta real estate agents over two decades ago.

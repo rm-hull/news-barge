@@ -12,6 +12,22 @@ image: https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-logo-smart
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- AI
+people:
+- Clem Delangue
+- Hugging Face
+organisations:
+- AI
+- Business Insider
+- GV
+- Hugging Face
+- IBM Ventures
+- Nvidia
+- OpenRouter
+- Salesforce Ventures
+- Stripe
+- TechCrunch Equity
 ---
 
 Hugging Face has been approached to sell at a valuation of $13 billion or more, Business Insider reported over the weekend.

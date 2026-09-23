@@ -14,6 +14,26 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- America
+- Baltimore
+- Calvert County
+- Kiplin Hall
+- Kiplin Hall and Gardens
+- Maryland
+- North Yorkshire
+- Richmond
+- Scotch Corner
+people:
+- George Calvert
+- James Hardisty
+- Kiplin Hall
+organisations:
+- A1
+- First Baron Baltimore
+- Jacobean Hall
+- Kiplin Hall and Gardens
+- Yorkshire Post
 ---
 
 Kiplin Hall is famed for its links to America via its first owner, a local man called George Calvert.

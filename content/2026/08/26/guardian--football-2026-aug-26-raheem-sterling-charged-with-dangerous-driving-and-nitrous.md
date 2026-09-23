@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- Basingstoke
+- Berkshire
+- England
+- Hampshire
+- Isle of Wight
+- M3
+- Minley
+- Stamford Bridge
+people:
+- Gareth Southgate
+- Raheem Sterling
+organisations:
+- Arsenal
+- Chelsea
+- Feyenoord
+- Google Play
+- Guardian
+- Lamborghini
+- Liverpool
+- Manchester City
+- QPR
+- iOS App Store
 ---
 
 The former England forward Raheem Sterling has been charged with dangerous driving and possession of nitrous oxide after a crash involving a Lamborghini on the motorway, police have said.

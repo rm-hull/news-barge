@@ -14,6 +14,21 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Keighley Road
+- North Yorkshire
+- RKzad
+- Skipton Bus Station
+- orlo.uk
+people:
+- Julian Smith
+- Lesley Tate
+- Paul Crabtree
+organisations:
+- CCTV
+- NYP
+- North Yorkshire Council
+- Skipton
 ---
 
 *(Image: Lesley Tate)*

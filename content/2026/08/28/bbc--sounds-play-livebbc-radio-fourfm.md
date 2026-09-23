@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - Music
 - Technology & Software
+locations:
+- Canada
+- North America
+- US
+people:
+- Alix Pickles
+- Americaster
+- Anthony Zurcher
+- Dolly Parton
+- George Dabby
+- Grace Reeve
+- Mark Carney
+- Michael Regaard
+- Purvee Pattni
+- Sam Bonham
+- Sumi Somaskanda
+- Trump
+organisations:
+- Americast
+- Anthony’s BBC
+- BBC News Podcasts
+- BBC Radio 4
+- BBC Sounds
+- Newscast
+- US Election Unspun
 ---
 
 ## Live now on Radio 4

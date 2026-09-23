@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Beale St.
+- Beale Street
+- Fourth Street
+- Memphis
+- Shooting
+- Tennessee
+- Union Ave.
+people:
+- Andre Wharton
+- Donald Trump
+- Evaniel Johnson
+- Steven White
+- Tyrin Johnson
+organisations:
+- AP
+- Memphis Safe Task Force
+- National Guard
+- Tennessee Bureau of Investigation
+- Tennessee National Guard
+- The Associated Press
+- Trump
 ---
 
 An autopsy has raised new questions about the fatal shooting of a 20-year-old man by Tennessee National Guard members assigned to President Donald Trump’s federal anti-crime operation in Memphis, finding that he was shot once in the back despite authorities saying he had turned toward troops with a gun.

@@ -12,6 +12,14 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people: []
+organisations:
+- Get Tom's Hardware
+- PS3
+- PS5
+- PSN
+- Sony
 ---
 
 ![PlayStation 5 Pro](https://cdn.mos.cms.futurecdn.net/tg95hzQEgMNoJTJZHb5oXU-320-80.png)

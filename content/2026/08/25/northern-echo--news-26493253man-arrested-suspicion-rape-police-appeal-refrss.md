@@ -14,6 +14,12 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- County Durham
+people: []
+organisations:
+- Cleveland Police
+- Crimestoppers
 ---
 
 *(Image: POLICE)*

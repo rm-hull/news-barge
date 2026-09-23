@@ -11,6 +11,23 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Bedfordshire
+- National Bowel Hospital
+- Rhys Hibbert
+- UK
+people:
+- Hani Marcus
+- Hibbert
+organisations:
+- AI
+- NHNN
+- National Hospital for Neurology and Neurosurgery
+- St Mark’s
+- UCL Hawkes Institute
+- UCL Queen Square Institute of Neurology
+- UCLH
+- University College London Hospitals NHS Foundation Trust
 ---
 
 A 48-year-old man has become the first patient in the world to have a brain tumour removed while medical teams usedreal-time artificial intelligence during surgery.

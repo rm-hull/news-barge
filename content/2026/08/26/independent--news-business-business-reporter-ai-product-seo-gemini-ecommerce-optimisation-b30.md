@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- AI
+- UK
+people:
+- AI
+- Dave Cain
+- Mike Edmonds
+- Sharon Gee
+- __**Andy Hoar
+organisations:
+- AI & Feedonomics
+- AI Data
+- Agentic Commercial Growth
+- Commerce
+- Euro Car Parts
+- Google Merchant
+- Google Merchant Center
+- LKQ Euro Car Parts
+- Paradigm B2B**__
+- PayPal
 ---
 
 *Feedonomics is a Business Reporter client*

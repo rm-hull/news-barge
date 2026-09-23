@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bark Park
+- Cow and Calf
+- Guiseley
+- Ilkley
+- Otley
+- Shipley
+- Skipton
+- UK
+people:
+- Billy
+- Laura Mohan
+organisations:
+- APW Cars
+- Billy's Bus
 ---
 
 *(Image: SWNS)*

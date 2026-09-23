@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Jonglei
+- Pajut
+- South Sudan
+- United States
+people:
+- Anita Kiki Gbeho
+- Riek Machar
+- Salva Kiir
+organisations:
+- Quick Reaction Force
+- UN
+- UNMISS
+- United Nations
+- United Nations Mission
 ---
 
 Two United Nations peacekeepers have been killed following an ambush by unidentified gunmen in a remote region of South Sudan, the UN mission in the country has confirmed.

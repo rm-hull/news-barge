@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Bournemouth
+- Britain
+- Derby
+- Ms Forest
+- St Andrews
+- UK
+people:
+- Alan Milburn
+- Andy Burnham
+- Gen Z
+- Helen Barnard
+- Iona Ledwidge
+- Ivy Forest
+- Ms Forest
+- Pat McFadden
+- Sharne
+- Spear
+- Trussell
+organisations:
+- Alstom Transport
+- Labour
+- Spear
+- Trussell
+- University of Manchester
+- Work and Pensions
 ---
 
 “Honestly, absolutely not – I don't ever see myself owning my own house because of how expensive it is,” says Ivy Forest, 25, from Bournemouth.

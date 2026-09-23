@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Crystal Palace
+- Everton
+- France
+- London
+- Selhurst Park
+people:
+- Jean-Philippe Mateta
+- Libby Payne
+- Ollie Watkins'
+- Palace
+- Palacehas
+organisations:
+- AC Milan
+- Aston Villa
+- BBC Sport
+- Bosman
+- Fifa
+- Jean-Philippe Mateta
+- Palace
+- Premier League
+- Rayo Vallecano
 ---
 
 ![Jean-Philippe Mateta warming up for Crystal Palace](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f0d9/live/24f29b60-9f2d-11f1-9470-1de69dec5d33.jpg)

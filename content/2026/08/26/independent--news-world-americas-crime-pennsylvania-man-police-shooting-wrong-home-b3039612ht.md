@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- New Jersey
+- Pennsylvania
+- Philadelphia
+- Upper Pottsgrove
+people:
+- Bubba
+- Erin Pysher
+- Glenn Pysher
+- Glenn “Bubba” Pysher
+- GoFundMe
+organisations:
+- Montgomery County District Attorney’s Office
+- Saint Elizabeth University
+- WPVI
 ---
 
 An unarmed Pennsylvania man was shot dead by police after mistakenly trying to enter a stranger’s home instead of his friend’s following a night of drinking.

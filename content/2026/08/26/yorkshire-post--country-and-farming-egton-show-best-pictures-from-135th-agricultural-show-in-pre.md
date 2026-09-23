@@ -14,6 +14,27 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Aislaby
+- Coloured Ryeland Sheep
+- Doncaster
+- Lealholm
+- Noondale Flock
+- North York Moors National Park
+- Shetland Sheep
+- Thornton-le-Dale
+people:
+- Charlton Jowsey
+- Eric Preston
+- Gorgeous George
+- James Hardisty
+- James Hardisty.
+- James Stenton
+- James Whitwell
+- Laura Teasdale
+organisations:
+- 135th Egton Agricultural
+- Egton Show
 ---
 
 The 135th Egton Show took place on Wednesday (Aug 26) in the pretty village in the North York Moors National Park.

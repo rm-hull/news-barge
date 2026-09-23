@@ -12,6 +12,40 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Europe
+- Iran
+- Kremlin
+- Kyiv
+- Latvia
+- Moscow
+- Riga
+- Russia
+- US Camp Springs
+- Ukraine
+- Washington DC
+- White House
+people:
+- Andy Burnham
+- Dmitry Peskov
+- Donald Trump
+- Jared Kushner
+- John Ratcliffe
+- Kash Patel
+- Steve Witkoff
+- Vladimir Putin
+- William Burns
+organisations:
+- Axios
+- CBS
+- CIA
+- Europe’s “Coalition of the Willing”
+- FBI
+- Flightradar24
+- KGB
+- Nato
+- US Air Force C-17A Globemaster III
+- Vnukovo International Airport
 ---
 
 CIA director John Ratcliffe made a short visit to Moscow on Tuesday to meet with Russian officials for talks not announced by the White House or the Kremlin, according to multiple US reports.

@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Durham
+- High Street
+- Stockton
+- Teesside
+people: []
+organisations:
+- Cleveland Police
+- Mercedes
 ---
 
 *(Image: GOOGLE)*

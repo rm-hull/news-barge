@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Arizona
+- Whiteriver
+people:
+- Cheesey
+organisations:
+- Arizona Department of Public Safety
+- Cheddar
+- Cheezus!
+- Facebook
+- Feta
+- Gouda!
+- Highway Patrol
+- The Independent
 ---
 
 That’s not Gouda!

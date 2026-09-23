@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Historic England
+- Northern House
+- Rougier Street
+- Station Road
+- Tanner Row
+- York
+people: []
+organisations:
+- Dakota Hotel
 ---
 
 This is why Rougier Street in the centre of York is now closed to traffic.

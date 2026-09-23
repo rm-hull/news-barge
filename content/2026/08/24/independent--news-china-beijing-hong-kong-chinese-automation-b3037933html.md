@@ -16,6 +16,37 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Beijing
+- Chengdu
+- China
+- San Francisco Bay University
+- U.S.
+- Washington
+people:
+- AI
+- Du Qinchun
+- Eswar Prasad
+- Fei Zhaojun
+- Plenum
+- Shujing He
+- Wang Zhicheng
+- Wu Jia
+- Xuenan Cao
+- Yang Zheng
+- Yanze Du
+- Zilan Qian
+- ____ Fu Ting
+organisations:
+- AI
+- AP
+- Cornell University
+- IDC
+- International Labor Organization
+- Microsoft
+- Oxford China Policy Lab
+- Plenum
+- Word
 ---
 
 Computer programmer Fei Zhaojun's boss asked him if artificial intelligence could soon replace humans in coding jobs. Two weeks later, he was laid off from his job in Beijing, together with about 160 of his colleagues.

@@ -11,6 +11,19 @@ image: https://i.guim.co.uk/img/media/41847a5ee52a0570679722ae1734a4160dd9bc22/5
 categories:
 - UK
 - News & Politics
+locations:
+- Boston
+- US
+- Washington DC
+people:
+- Barack Obama
+- Donald Trump
+- Indira Talwani
+organisations:
+- Brookings Institution
+- Congress
+- US Postal Service
+- USPS
 ---
 
 A federal judge on Thursday halted – at least for the moment – attempts to implement Donald Trump’s executive order limiting mail voting.

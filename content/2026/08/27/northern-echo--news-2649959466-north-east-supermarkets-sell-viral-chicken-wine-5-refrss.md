@@ -14,6 +14,41 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Ashington
+- Benwell
+- Billingham
+- Bishop Auckland
+- Blyth
+- Chester-le-Street
+- Cramlington
+- Darlington
+- Durham
+- Gateshead
+- Hartlepool
+- Hexham
+- Middlesbrough
+- Newcastle
+- North East
+- Peterlee
+- Redcar
+- Seaham
+- South Shields
+- Spennymoor
+- Stanley
+- Stockton
+- Sunderland
+- Thornaby
+- Wallsend
+- Washington
+people: []
+organisations:
+- Aldi
+- Asda
+- Darlington Bank
+- La Vieille Ferme
+- La Vieille Ferme Rosé
+- Tesco
 ---
 
 *(Image: Asda)*

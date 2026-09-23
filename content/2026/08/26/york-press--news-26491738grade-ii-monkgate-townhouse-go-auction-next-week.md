@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Grade II
+- Jorvik Viking Centre
+- Monkgate
+- Victoria
+- York Minster
+- designed’ York
+people:
+- Romilly Woodman-Wilcock
+organisations:
+- Auction House Hull
+- East Yorkshire
+- North Yorkshire Police
+- University of York
 ---
 
 ## 'Renovator's dream' six-bed Victoria townhouse to go under the hammer

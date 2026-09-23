@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Britain
+- Munich
+- UK
+people:
+- Bryan Williams
+- Nicholas Mills
+organisations:
+- American College of Cardiology
+- American Heart Association
+- British Heart Foundation
+- ESC
+- European Heart Journal
+- European Society of Cardiology
+- University of Edinburgh
+- World Heart Federation
 ---
 
 Doctors have agreed the world’s first universal definition of a heart attack, paving the way for millions of women to finally receive better treatment after decades of being “deprioritised”.

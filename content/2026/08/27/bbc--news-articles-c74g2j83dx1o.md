@@ -12,6 +12,42 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Australia
+- Brisbane
+- Colorado
+- UK
+- Victoria
+people:
+- Benjamin Lee
+- Covid
+- David Rooney
+- Frankenstein
+- Guy Pearce
+- Helen O'Hara
+- Hig
+- Jacob Elordi
+- Jasper
+- Josh Brolin
+- Mare of Easttown
+- Margaret Qualley
+- Peter Heller
+- Pops
+- Ridley Scott
+- Tim Robey
+organisations:
+- BBC
+- Cima Early
+- Dog Stars
+- Empire
+- Golden Globe
+- Hig
+- Navy Seal
+- Prometheus
+- The Dog Stars
+- The Guardian
+- The Hollywood Reporter
+- The Telegraph
 ---
 
 ![Jacob Elordi appears dishevelled with shaggy hair, a beard and wearing a light green t-shirt.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/4fca/live/3ad0c4e0-a2a5-11f1-b109-879e35c24276.jpg)

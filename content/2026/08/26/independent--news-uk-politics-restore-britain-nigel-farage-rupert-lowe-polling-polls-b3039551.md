@@ -13,6 +13,39 @@ image: https://static.independent.co.uk/2026/08/26/12/2288133856..?trim=21,0,21,
 categories:
 - News & Politics
 - UK
+locations:
+- Clacton
+- Great Yarmouth
+- Greater Manchester
+- London
+- Makerfield
+- Norfolk
+- Restore Britain
+people:
+- Charles
+- Common
+- Elon Musk
+- Esther McVey
+- Howard Cox
+- Luke Tryl
+- Nigel Farage
+- Restore
+- Rupert Lowe
+- Tommy Robinson
+- Zia Yusuf
+organisations:
+- BBC
+- EU
+- Greens
+- Judean People’s Front
+- Labour
+- Lib Dems
+- PCC
+- Public Accounts Committee
+- Reform UK
+- Restore
+- Tories
+- Ukip
 ---
 
 It was in autumn 2022 when political pollsters began officially including Reform UK in their surveys, alongside the main political parties. The significant move meant Reform were added to the list of parties put in front of voters when asked who they support – throwing them into the same bracket as Labour, the Tories, Lib Dems and Greens.

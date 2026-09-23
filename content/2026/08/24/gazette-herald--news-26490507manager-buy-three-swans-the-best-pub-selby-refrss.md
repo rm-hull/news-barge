@@ -12,6 +12,25 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Abbey
+- Buck Inn
+- Church Hill
+- SELBY
+- Selby
+- Selby’
+- Thornton Le Dale
+- York
+people:
+- Eddie Rodgers
+- Jess
+- Lauren Wilkinson
+- Sam Smith
+- Stuart
+organisations:
+- Google
+- Three Swans
+- Tripadvisor
 ---
 
 *(Image: Pic supplied)*

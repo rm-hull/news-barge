@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- U.K.
+- U.S.
+people: []
+organisations:
+- ATF
+- Congress
+- FBI
+- Lee Enterprises
+- Qilin
+- Synnovis
+- TechCrunch
+- U.S. Bureau of Alcohol, Tobacco, Firearms and Explosives
+- U.S. Marshals Service
 ---
 
 The U.S. Bureau of Alcohol, Tobacco, Firearms and Explosives, or ATF, says a cyberattack on one of its systems has been declared a “major incident,” a formal, legally defined classification that prompts a formal notification to lawmakers in Congress.

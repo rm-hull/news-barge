@@ -12,6 +12,18 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Knaresborough
+people: []
+organisations:
+- Drake's Fisheries
+- FEVA
+- Festival of Entertainment
+- Knaresborough Chamber
+- Knaresborough Town Criers
+- Knitting Pretty
+- Visual Arts
+- Yorkshire Eyewear
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8be5070283c8bb79c.jpg) 

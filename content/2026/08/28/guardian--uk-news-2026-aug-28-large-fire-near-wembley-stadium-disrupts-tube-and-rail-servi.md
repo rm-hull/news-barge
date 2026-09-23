@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Amazon
+- Deptford
+- Hannah Close
+- Jubilee
+- London Marylebone
+- Metropolitan
+- Neasden
+- Wembley Park
+- Wembley Stadium
+- West Hampstead
+people:
+- Andy Pennick
+organisations:
+- Environmental Services Association
+- LFB
+- PA Media
+- Transport for London
 ---
 
 A large fire has broken out at a waste facility close to Wembley Stadium in north-west London, disrupting tube and train lines in the area.

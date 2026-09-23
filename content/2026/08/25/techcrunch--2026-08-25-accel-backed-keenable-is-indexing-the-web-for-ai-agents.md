@@ -11,6 +11,32 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/Matthias-Petri-and-Andr
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Amazon
+- Europe
+- U.S.
+people:
+- Alexa
+- Andrey Styskin
+- Keenable
+- Matthias Petri
+- Zhenya Loginov
+organisations:
+- Accel
+- Amazon
+- Brave
+- Cloudflare
+- Conviction Partners
+- Exa
+- German AI
+- Google for AI
+- Gradium
+- Keenable
+- Microsoft
+- Petri
+- TechCrunch
+- Yandex
+- Yandex’s
 ---
 
 Search engines were built and optimized for people, who can’t spare the time or attention required to scan entire webpages. But as people increasingly use AI chatbots to search the web and do tasks, there’s a line of thinking that the Internet’s current infrastructure needs to be updated to cater to AI instead, as these bots can read and process much larger portions of information.

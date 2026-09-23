@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Carolina Herrera
+- Hollywood
+- US
+people:
+- Andie
+- Andy
+- Anne Hathaway
+- Benjamin
+- Kate Hudson
+- Matilda
+- Matthew McConaughey
+- Stacey Sher
+organisations:
+- Dallas Buyer's Club
+- Magic Mike
+- People magazine
 ---
 
 ![Kate Hudson and Matthew McConaughey standing together and smiling in formal dress, with red carpet activity behind them](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/7af8/live/f3045e00-a07a-11f1-bfeb-dfb02ea642ef.jpg)

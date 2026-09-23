@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations: []
+people:
+- Anne
+- Chloe Moffat
+- David Moffat
+- Emma Barnett
+- James Bowler
+organisations:
+- BBC Radio 4
+- Today
+- Treasury
 ---
 
 Chloe Moffat's father David says there 'was no safeguarding' from the Treasury before Chloe took her own life

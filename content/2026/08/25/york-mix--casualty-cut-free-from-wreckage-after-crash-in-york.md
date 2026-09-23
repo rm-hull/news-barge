@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- '#### College Road'
+- College Road
+- Copmanthorpe
+- Huntington
+- York
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
+- Tadcaster
 ---
 
 Emergency services were called to a serious crash in York last night (Monday).

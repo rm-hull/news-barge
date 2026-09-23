@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Gaza
+- Iran
+- Israel
+- Middle East
+- U.K.
+- UK
+- West Bank
+people:
+- Gideon Saar
+organisations:
+- Financial Times
+- Foreign Ministry
+- The Associated Press
 ---
 
 The U.K. government warned against any attempt by Israel to remove British officials from the Gaza ceasefire coordination center after reports that Israel was considering expelling U.K. and potentially other European officials.

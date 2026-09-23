@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- UK
+people:
+- Jamie Hartmann-Boyce
+organisations:
+- Action on Smoking and Health
+- NHS
+- The Cochrane
+- World Health Organization
 ---
 
 ![Two young men sit outside vaping. They are chatting, while looking at a mobile phone.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/55d4/live/9aa98d10-a08a-11f1-8116-c5aabe4388a9.jpg)

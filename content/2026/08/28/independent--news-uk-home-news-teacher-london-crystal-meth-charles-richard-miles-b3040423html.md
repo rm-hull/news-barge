@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Dubai
+- England
+- Hackney
+- Hanoi
+- New York
+- North London
+- Seoul
+- Shanghai
+people:
+- Charles Richard Miles
+- Miles'
+- Mr Miles
+- Shabana Robertson
+organisations:
+- Dwight School
+- International Baccalaureate
+- Teaching Regulation Agency
 ---
 
 A teacher at one of London’s top private schools has been banned from the classroom after he admitted to smoking crystal meth “on the weekends”.

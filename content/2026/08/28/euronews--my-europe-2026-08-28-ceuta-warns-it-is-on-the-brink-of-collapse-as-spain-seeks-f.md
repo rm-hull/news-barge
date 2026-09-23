@@ -13,6 +13,30 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Benzú
+- Ceuta
+- Europe
+- Madrid
+- Melilla
+- Morocco
+- North Africa
+- Spain
+people:
+- Fernando Grande-Marlaska
+- Juan Vivas
+organisations:
+- Assembly
+- Board of Spokespersons
+- Ceuta
+- EC
+- EU
+- EUAA
+- European Commission
+- European Union Agency for Asylum
+- Europol
+- Frontex
+- Interior Ministry
 ---
 
 ## Meanwhile, Spain's interior minister called for calm after Ceuta residents clashed with police during protests against migrants who have remained in the enclave following a mass influx.

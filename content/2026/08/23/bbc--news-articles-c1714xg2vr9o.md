@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Alton Towers
+- Bedfordshire
+- Dunstable
+- Eryri National Park
+- Manchester
+- Snowdon
+- Snowdonia
+- Wales'
+- West Bromwich
+- Yr Wyddfa
+people:
+- Alun Jones
+- Carl Lynch
+- Claire
+- Dalibor Sentic
+- Johann Go
+- Lucy Taylor
+- Marc Screeton
+- Peter
+- Tina Millard
+organisations:
+- BBC Wales
+- Eryri National Park Authority
+- University College London
+- Yr Wyddfa
 ---
 
 One climber was told "there's a queue" when he reached the mountain summit

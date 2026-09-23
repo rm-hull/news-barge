@@ -11,6 +11,32 @@ image: https://static.independent.co.uk/2026/08/27/09/2263178875..?trim=33,0,33,
 categories:
 - News & Politics
 - UK
+locations:
+- Los Angeles
+- Los Angeles Superior Court
+people:
+- Bob Iger
+- James
+- Janie
+- Jeanie Buss
+- Jerry Buss
+- Jesse—
+- Jim
+- Joey Buss
+- Johnny
+- Josh Kushner
+- Yogi Berra
+organisations:
+- Bob Iger
+- Buss Family Trust
+- ESPN
+- Electing Small Business Trust
+- Jo Ann
+- Jo Ann ESBT
+- Laker
+- Los Angeles Lakers
+- Los Angeles Superior Court
+- NBA
 ---
 
 Jeanie Buss has launched new legal proceedings to prevent her five siblings from divesting the family's remaining ownership share in the Los Angeles Lakers, reopening a dispute that originally went to court in 2017.

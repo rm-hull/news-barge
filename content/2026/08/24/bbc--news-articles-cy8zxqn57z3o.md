@@ -12,6 +12,38 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- America
+- Britain
+- Europe
+- France
+- Iran
+- Kyiv
+- Russia
+- UK
+- US
+- Ukraine
+- West
+people:
+- Andy Burnham
+- Ben Hodges
+- Donald Trump
+- Douglas Barrie
+- Volodymyr Zelenskiy
+- Volodymyr Zelensky
+organisations:
+- BBC
+- FPV
+- Fire Point
+- IISS
+- International Institute for Strategic Studies
+- Kyiv
+- Military Aerospace
+- Nato
+- Patriots
+- SCALP
+- Storm Shadow
+- US Army
 ---
 
 Is UK's Storm Shadow missile a game changer for Ukraine?

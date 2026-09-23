@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Oxford
+- UK
+- US
+- United States
+people:
+- Charlotte Head
+- Fatema Rajwani
+- Huda Ammori
+- Justice Johnson
+- Kate Evans
+- Leona Kamio
+- Samuel Corner
+- Scott Bessent
+- Trump
+organisations:
+- Court of Appeal
+- Department of the Treasury
+- Elbit Systems’ UK
+- Palestine Action
+- Supreme Court
+- UK Government
+- US Treasury
 ---
 
 Palestine Action has been designated a terrorist group by the US government, which has announced targeted sanctions against the UK-based direct action group.

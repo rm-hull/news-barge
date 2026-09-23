@@ -14,6 +14,20 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Diamond Street
+- Earle Street
+- Emerald Street
+- Hazel Court
+- The Groves
+- York
+people:
+- Groves
+- Ian Hoult
+- Stephanie Holdsworth
+organisations:
+- City of York Council
+- Towthorpe
 ---
 
 RUBBISH left in York streets for weeks has now been collected following anger over bin bags being ripped open and becoming fly-infested.

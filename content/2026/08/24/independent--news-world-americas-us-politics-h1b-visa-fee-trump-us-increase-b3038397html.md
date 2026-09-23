@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- Boston
+- U.S.
+- United States
+people:
+- Donald Trump
+organisations:
+- Federal Register
+- Homeland Security
+- Trump Gold Card’
+- U.S. Chamber of Commerce
+- U.S. Citizenship and Immigration Services
+- U.S. Department of Homeland Security
 ---
 
 President Donald Trump's administration has filed paperwork to make a $100,000 fee for new H-1B visas permanent despite a judge's ruling that the fee is unlawful.

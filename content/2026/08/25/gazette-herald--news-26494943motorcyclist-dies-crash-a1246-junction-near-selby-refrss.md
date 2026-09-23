@@ -12,6 +12,17 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- A1246
+- Holyrood Lane
+- North Yorkshire
+- PA
+- Selby
+people:
+- Richard McCarthy
+organisations:
+- CCTV
+- North Yorkshire Police
 ---
 
 *(Image: Richard McCarthy/PA)*

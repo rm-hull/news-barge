@@ -11,6 +11,16 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Essex
+people:
+- Simon Ashwin
+organisations:
+- FSA
+- Food Standards Agency
+- Metropolitan Police
+- NFCU
+- National Food Crime Unit
 ---
 
 A man has been arrested on suspicion of fraud after making £500,000 selling bottles of counterfeit wine.

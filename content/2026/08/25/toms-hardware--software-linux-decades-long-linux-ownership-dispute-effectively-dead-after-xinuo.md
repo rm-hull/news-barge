@@ -14,6 +14,32 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Xinuous
+people:
+- Mark Tyson
+- Tom
+- Xinuos
+organisations:
+- District Court
+- Google News
+- IBM
+- Intel
+- Linux
+- Monterey
+- Red Hat
+- SCO
+- SDNY
+- Santa Cruz Operation
+- Second Circuit
+- Sequent
+- Tom's Hardware
+- U.S. Court of Appeals
+- U.S. District Court
+- UNIX
+- United States Court of Appeals
+- Xinuos
+- Xinuos’
 ---
 
 ![Linux](https://cdn.mos.cms.futurecdn.net/Dny84DUN8dLTj7B9TUQBEB.jpg) 

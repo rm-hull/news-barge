@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Britain
+- Derbyshire
+- Downing Street
+- High Street
+- Maidenhead
+people:
+- Burnham
+- Harvey Nichols
+- Keir Starmer
+- Lord Rose
+- Michael Murray
+- Mike Ashley
+organisations:
+- Amazon
+- AndyBurnham
+- BBC
+- Budget
+- Financial Times
+- Frasers Group
+- Marks & Spencer
+- Sports Direct
 ---
 
 ![Businessman Mike Ashley wearing a white shirt, and green suit jacket, smiling at the camera as he walks with a man behind him](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/a954/live/16d5b030-a25c-11f1-a2c3-9b22da0a32fd.jpg)

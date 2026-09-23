@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Darlington
+- England
+- Evri
+- Ian West
+- Iceland
+- Morton Park
+- North Road
+- North Yorkshire
+- Victoria Road
+- Winbush Way
+- Woodland Road
+- Yarm Road
+- 'Yarm Road ###'
+people: []
+organisations:
+- Aldi
+- Asda
+- Bank Holiday
+- 'Bondgate ###'
+- Faverdale East Business Park
+- Lidl
+- Morrisons Daily
+- 'Neasham Road ###'
+- 'North Road ###'
+- PA Wire
+- 'Quacker Lane ###'
+- Sainsbury’s** Sainsburys
+- Tesco
+- Yarm Road Retail Park
 ---
 
 Darlington shoppers planning a last-minute barbecue, family get-together or Bank Holiday food are being urged to check opening times before heading out this weekend.

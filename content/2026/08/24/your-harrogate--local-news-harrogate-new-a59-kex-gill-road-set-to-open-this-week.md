@@ -12,6 +12,18 @@ categories:
 - Local
 - Harrogate
 - Technology & Software
+locations:
+- Church Hill
+- Fewston Reservoir
+- Harrogate
+- Kex Gill
+- Kex Gill road
+- Skipton
+people: []
+organisations:
+- A59
+- Kex Gill
+- North Yorkshire Council
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8be93fc6b19c1120b.jpg) 

@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Detroit
+- Flint River
+- Michigan
+people:
+- Dana Nessel
+- Flint
+- Rick Snyder
+organisations:
+- Associated Press
+- Congress
+- Flint
+- Supreme Court
 ---
 
 Michigan Attorney General Dana Nessel stated that a report published Tuesday regarding the Flint lead-water crisis represents the last measure her office can pursue toward establishing accountability. The release follows a state Supreme Court decision years prior that dismissed criminal charges against a former governor along with eight other individuals.

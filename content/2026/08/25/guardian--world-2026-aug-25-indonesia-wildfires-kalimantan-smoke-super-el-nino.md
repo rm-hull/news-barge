@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Asean
+- Brunei
+- Central Kalimantan
+- Indonesia
+- Indonesian Borneo
+- Jakarta
+- Kuala Lumpur
+- Lombok
+- Malaysia
+- Palangka Raya
+- Sade
+- Sarawak
+- Singapore
+- Sumatra
+- West Kalimantan
+- West Papua
+people:
+- Justin Sentian
+- Prabowo Subianto
+- Suwadi
+organisations:
+- Agence France-Presse
+- Antara
+- Associated Press
+- IQAir
+- Universiti Malaysia Sabahand
 ---
 
 Suwadi can barely see five metres in front of him when he steps outside his home in Indonesian Borneo.

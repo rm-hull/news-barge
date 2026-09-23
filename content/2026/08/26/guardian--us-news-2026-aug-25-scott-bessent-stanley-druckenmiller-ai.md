@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- AI
+- UC Berkeley
+- US
+people:
+- Paul Gigot
+- Scott Bessent
+- Stan Druckenmiller
+- Stanley Druckenmiller
+- Zvezdelina Stankova
+organisations:
+- AI
+- Guardian
+- New York Times
+- Notus
+- San Francisco Standard
+- The Times
+- Wall Street Journal
 ---
 
 Stanley Druckenmiller, a billionaire investor, said he used artificial intelligence to pen his viral Wall Street Journal op-ed in which he sharply criticized the interference of Scott Bessent, the US treasury secretary, in the US bond market.

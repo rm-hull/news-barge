@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Egypt
+- Jet2
+- London Luton
+- Rome
+- UK
+people:
+- David Hills
+organisations:
+- EU
+- EasyJet
+- Jet2
 ---
 
 *(Image: Jet2)*

@@ -14,6 +14,14 @@ categories:
 - UK
 - Music
 - History
+locations: []
+people:
+- Andris Nelsons
+- Chad Smith
+organisations:
+- BSO
+- Boston Musicians' Association
+- Boston Symphony Orchestra
 ---
 
 The union for Boston Symphony Orchestra musicians authorized the first strike in the ensemble's 145-year history on Saturday.

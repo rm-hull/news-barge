@@ -14,6 +14,25 @@ categories:
 - Technology & Software
 - Video Gaming
 - Sports
+locations:
+- Gamescom
+- Venice
+people:
+- Martial Potron
+- Porton
+- Six
+organisations:
+- Bomb Disposal
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- Hostage Rescue
+- NME
+- PC
+- Rainbow Six Tactics
+- TechRadar Gaming
+- Ubisoft
 ---
 
 ![Rainbow Six Tactics](https://cdn.mos.cms.futurecdn.net/8WiMX9df6Y6aYWLRAkDx7E.jpg) 

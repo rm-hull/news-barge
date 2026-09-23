@@ -13,6 +13,12 @@ categories:
 - York
 - Sports
 - Lifestyle & Fashion
+locations:
+- Greece
+- Mark Warner Paleros Beach Resort
+people:
+- Lauren Taylor
+organisations: []
 ---
 
 ## I tried the pickleball craze on an active holiday – and I might be hooked

@@ -14,6 +14,35 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Amsterdam
+- Austria
+- Brussels
+- Channel Tunnel
+- Europe
+- Frankfurt
+- Geneva
+- Italy
+- London St Pancras
+- Paris
+- Scandinavia
+- St Pancras
+- Temple Mills
+- UK
+- Vienna Central Station
+people:
+- Martin Jones
+organisations:
+- Brexit
+- Channel Tunnel
+- Deutsche Bahn
+- Eurostar
+- Gemini Trains
+- ORR
+- Office for Rail and Road
+- Politico
+- Trenitalia
+- Virgin Trains
 ---
 
 ## Catching a train from London to mainland Europe could soon become a lot easier, with services to Paris, Brussels and Amsterdam potentially departing as often as every 15 minutes by the end of the decade as Eurostar faces a wave of new competition.

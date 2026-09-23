@@ -11,6 +11,56 @@ image: https://cdn.mos.cms.futurecdn.net/k2chUC5xqNzoXkxE3VTcLd-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Catania
+- DC
+- France
+- Ibiza
+- Italy
+- Japan
+- Ljubljana
+- Luxembourg City
+- Marseille
+- Newark
+- Okinawa
+- Olbia
+- Portugal
+- San Francisco
+- Sardinia
+- Sicily
+- Slovenia
+- Spain
+- Terceira
+- Toulouse
+- US
+- United Next’
+- Valencia
+- Washington Dulles
+people:
+- Bruce Springsteen
+- Jacob Krol
+- Peter Wolkowski
+organisations:
+- A321XLR
+- Apple TV
+- CNBC
+- CNET
+- CNN Underscored
+- Disney
+- Economy
+- Google News
+- Jacob Krol
+- Marvel
+- Mashable
+- Men’s Journal
+- Newark Liberty International Airport
+- News for TechRadar
+- Polaris
+- Samsung
+- Spotify
+- TheStreet
+- United Airlines
+- United’s Head of Product Marketing
 ---
 
 ![United Airlines A321XLR](https://cdn.mos.cms.futurecdn.net/k2chUC5xqNzoXkxE3VTcLd.jpg) 

@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Florida
+- Sanford
+people:
+- Cecil Smith
+- Folks
+- Gigi Martin
+- Julie Hawkins Murphy
+- Neicy Badger
+- Richardson Noel
+organisations:
+- AC
+- Facebook
+- HVAC
+- NBC
+- Sanford Police
+- Sanford Police Department
+- WFLA
 ---
 
 A heating and air conditioning technician was arrested in Florida and charged with aggravated animal cruelty after a motion-activated camera captured him kicking a customer’s small dog inside a residence, police said.

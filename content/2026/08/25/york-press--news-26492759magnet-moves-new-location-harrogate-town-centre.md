@@ -11,6 +11,36 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Albert Street
+- Bewdley
+- Bingley
+- Darlington
+- Harrogate
+- Morello
+- Plantation House
+- Reed
+- Skipton Road
+- Soho
+- True Tea
+- UK
+- Yorkshire
+people:
+- James Cheetham
+- Michael Higgins
+- Ms Rose
+- Sophie Rose
+- Viv Poskitt
+organisations:
+- Ambleside Oak & Meadow
+- Chalk Blush
+- Harrogate
+- Magnet
+- NEFF
+- Pic
+- Store Operations
+- True Tea
+- Yorkshire
 ---
 
 *(Image: Pic supplied)*

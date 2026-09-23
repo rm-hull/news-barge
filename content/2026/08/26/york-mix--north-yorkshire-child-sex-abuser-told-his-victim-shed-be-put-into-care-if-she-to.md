@@ -13,6 +13,15 @@ categories:
 - York
 - Family & Parenting
 - Society & Culture
+locations:
+- North Yorkshire
+- Pickering
+people:
+- Carl Andrew Stevenson
+- Doug Stanway
+organisations:
+- North Yorkshire Police
+- York Crown Court
 ---
 
 A man who sexually abused a teenager multiple times has been jailed for 12 and a half years.

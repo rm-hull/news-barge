@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- A66
+- Cleveland
+- Downing Street
+- Kyiv
+- Middlesbrough
+- South Bank
+- Teesside
+- TikTok
+people:
+- Andy Burnham
+- Cole Robert Worthy
+- Jacob Matusiak
+- Lisa Nandy
+- Luke Pollard
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- PC Blades’
+- PC Clough
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- BBC Radio 5 Live
+- Cleveland Police
+- Ofcom
+- State for Culture, Media and Sport
+- Teesside Magistrates’ Court
+- TikTok
+- VW
 ---
 
 No 10 has described the glorification of dangerous driving on social media as “utterly disgraceful” as the government ordered TikTok to take down videos “celebrating” a trend to drive in the wrong direction.

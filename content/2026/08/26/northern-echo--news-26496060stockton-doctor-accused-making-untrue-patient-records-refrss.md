@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- Darlington
+- Newton Aycliffe
+- North East
+- Stockton
+people:
+- Yakuba Benjamin
+organisations: []
 ---
 
 *(Image: PIXABAY)*

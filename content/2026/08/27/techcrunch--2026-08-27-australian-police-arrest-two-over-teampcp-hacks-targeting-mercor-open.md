@@ -12,6 +12,25 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/teampcp-hacker-afp.jpg?
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Perth
+people:
+- Brett Leatherman
+- Brian Krebs
+- Ellis
+- Ruben Thomson
+organisations:
+- AI
+- Australian Federal Police
+- European Commission
+- FBI
+- GitHub
+- Justice Department
+- LiteLLM
+- Mercor
+- OpenAI
+- TeamPCP
+- TechCrunch
 ---
 
 Australian police have arrested two people in Perth accused of being members of TeamPCP, a prolific hacking group blamed for high-profile hacks against big tech giants in recent months. The two have been charged with more than a dozen hacking, money laundering, and other cybercrime offenses and are expected in court later on Thursday.

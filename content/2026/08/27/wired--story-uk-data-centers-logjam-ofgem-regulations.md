@@ -13,6 +13,25 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Europe
+- UK
+- US
+people:
+- Alex Burgoyne
+- Daniel Newton
+- Nathan Macwhinnie
+- Olivier Darmouni
+- Taco Engelaar
+organisations:
+- AI
+- HEC Paris Business School
+- Knight Frank
+- Neara
+- Nscale
+- Ofgem
+- Slaughter and May
+- WIRED
 ---
 
 As data center developers compete for a cut of the hundreds of billions of dollars flowing into the artificial intelligence industry, the queue to join the UK’s power grid has become jammed with projects that will likely never get built. The snarl is exacerbating already years-long wait times for viable projects, and it's messing with attempts to forecast energy demand and plan grid expansions.

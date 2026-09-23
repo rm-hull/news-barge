@@ -15,6 +15,26 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 - Arts & Culture
+locations:
+- Barkers Yard
+- County Durham
+- Helmsley
+- North East
+- North Yorkshire
+- Sheffield
+- York
+people:
+- Craven
+- Lynn Hempsall
+- Rowntree
+- Terry’s
+organisations:
+- BBC Dragons’ Den
+- BBC One
+- Helmsley Traditional Sweet Shop
+- Maxons
+- TripAdvisor
+- Yorkshire Mix
 ---
 
 *(Image: TRIPADVISOR)*

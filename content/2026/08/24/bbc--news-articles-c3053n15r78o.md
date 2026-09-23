@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Montrose
+- Tayside
+- UK
+people:
+- Kirsty Campbell
+- Mollie Murray
+- Rebecca Duncan
+- Ryan
+organisations:
+- Aberdeen
+- Archie Foundation
+- Mollie
+- NHS
+- The Archie Foundation
+- XP
 ---
 
 ![A woman with a spotty top sits on a sofa next to a child in a red outfit](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/fc73/live/8a0f1420-9f9a-11f1-a83c-33ebef033ca4.jpg)

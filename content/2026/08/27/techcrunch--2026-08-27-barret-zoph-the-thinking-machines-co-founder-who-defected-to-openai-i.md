@@ -12,6 +12,20 @@ image: https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Barret Zoph
+- Luke Metz
+- Mira Murati
+organisations:
+- AI
+- Gemini
+- Google
+- OpenAI
+- RL
+- TechCrunch
+- Thinking Machines
+- Wall Street Journal
 ---
 
 The game of musical chairs for AI executives continues. Barret Zoph, a co-founder of the AI startup Thinking Machines who left the company earlier this year to rejoin OpenAI, has found yet another job.

@@ -14,6 +14,18 @@ categories:
 - York
 - History
 - Business & Entrepreneurship
+locations:
+- Clifford's Tower
+- Guildhall
+- YORK
+people:
+- Clifford
+- Dave Merrett
+- Simon Bean
+- Tim Mudd
+organisations:
+- Clifford’s Tower
+- English Heritage
 ---
 
 A YORK man has called on English Heritage to tackle damage to the historic mound at Clifford's Tower after witnessing people climbing on and sliding down its slopes.

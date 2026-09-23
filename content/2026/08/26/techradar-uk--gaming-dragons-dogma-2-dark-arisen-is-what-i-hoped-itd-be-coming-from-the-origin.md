@@ -13,6 +13,24 @@ image: https://cdn.mos.cms.futurecdn.net/XXTyUsvZECvRdMXtkDbTKP-1920-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations:
+- Bitterblack Isle
+- GameRant
+- Norgan
+people:
+- Arisen
+- Isaiah Williams
+- Norgan
+organisations:
+- Birmingham City University
+- Capcom
+- Google News
+- Isaiah
+- Magick Archer
+- Norgan
+- PC Guide
+- PS5
+- TechRadar
 ---
 
 ![Undead dragon in Dragon's Dogma 2: Dark Arisen](https://cdn.mos.cms.futurecdn.net/XXTyUsvZECvRdMXtkDbTKP.jpg) 

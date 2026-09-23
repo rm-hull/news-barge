@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Binchester Roman Fort
+- Bishop Auckland
+- Britain
+- County Durham
+- Dere Street
+- North Yorkshire
+- River Wear
+- Vinovia
+people:
+- Binchester
+- John Castling
+organisations:
+- Binchester Roman Fort
+- Roma Antiqua
+- The Auckland Project
+- The Yorkshire Knight
+- US Independence
 ---
 
 Cavalry, ancient warriors and artillery demonstrations are set to bring County Durham's Roman past to life at one of the region's most important archaeological sites.

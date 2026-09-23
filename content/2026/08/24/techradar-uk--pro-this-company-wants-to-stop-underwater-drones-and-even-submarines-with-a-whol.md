@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/ivvRhs3HbMoNzGzktfnbHB-1024-80.png
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Rahim Amir
+organisations:
+- Advent
+- Anduril
+- Google News
+- Lockheed Martin
+- Ocean of Things
+- PC
+- PCs
+- RGB
+- Rotary and Mission Systems division
+- SFF
+- Sea Spear
+- TechRadar Pro
+- US Navy
+- Ultra Maritime
+- Ultramarine
 ---
 
 ![A render of Ultra Maritime's SSQ-125B and Sea Spear](https://cdn.mos.cms.futurecdn.net/ivvRhs3HbMoNzGzktfnbHB.png) 

@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Australia
+- Iran
+- US
+people:
+- Brett Morgan
+- Liz Westcott
+organisations:
+- Market Forces
+- Westcott
+- Woodside Energy
 ---
 
 Woodside Energy has scrapped its long-term emissions and clean energy targets, even after enjoying a period of windfall oil profits caused by the Iran conflict.

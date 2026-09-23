@@ -13,6 +13,35 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Afghanistan
+- Australia
+- Belgium
+- Canada
+- France
+- Halifax
+- Kandahar
+- New Zealand
+- North Yorkshire
+- Poland
+- RAF Elvington
+- Rtd
+people:
+- Geoff Cossins
+- Johanna Ropner
+- John ‘Geordie’ Lawson
+- RAF Leeming
+- Revd Charles “Taff” Morgan MBE RAF
+organisations:
+- Allied Air Forces
+- Allied Nations
+- Battle of Britain Memorial Flight
+- Commonwealth
+- HM The King
+- RAF Leeming
+- Sheriff of York
+- UK Air Staff
+- Yorkshire Air Museum
 ---
 
 A major memorial event is being planned in Yorkshire to honour the service and sacrifice of Allied air forces.

@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- UK
+people:
+- James Robinson
+- Madhu Kejriwal
+organisations:
+- Experian
+- FCA
+- Financial Conduct Authority
+- TransUnion
 ---
 
 A second major credit score firm has announced significant changes to its system, including the number consumers see on their file and the data used to assess them.

@@ -13,6 +13,22 @@ categories:
 - UK
 - Society & Culture
 - Film & TV
+locations:
+- Arizona
+- Bateman
+- Colorado City
+- Flagstaff
+- Hildale
+- Nebraska
+- Texas
+- Utah
+people:
+- '## Samuel Bateman'
+- Samuel Bateman
+- Warren Jeffs
+organisations:
+- Church of Jesus Christ of Latter-day Saints
+- Fundamentalist Church of Jesus Christ of Latter-day Saints
 ---
 
 A polygamous sect leader featured in Netflix’s *Trust Me: The False Prophet* is set to be sentenced Tuesday after three girls were rescued from harrowing conditions inside an unventilated trailer.

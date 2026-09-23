@@ -12,6 +12,24 @@ categories:
 - Technology & Software
 - Science
 - Arts & Culture
+locations:
+- New York
+- Nordic Flow
+- SwitchBot
+people:
+- Alexa
+- Lisa Wood Shapiro
+- Monet
+- PetAir
+- Van Gogh
+organisations:
+- Amazon Alexa
+- Best Humidifiers
+- Best Space Heaters
+- Blueair
+- Dreo
+- Google Home
+- SwitchBot Air Purifier Table
 ---
 
 If you're tight on space or just want a more aesthetically pleasing machine, the best air purifier for home depends on your needs.

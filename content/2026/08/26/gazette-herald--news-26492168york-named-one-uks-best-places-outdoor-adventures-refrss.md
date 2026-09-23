@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Blacks
+- Cleveland Way
+- Hambleton Hills
+- North Yorkshire
+- Sutton Bank
+- UK
+- Wolds
+- York
+people:
+- Natalie Wolfenden
+- York
+organisations:
+- Blacks
+- North York Moors
 ---
 
 North Yorkshire has been ranked as one of the best places in the UK for nature access, according to new research.

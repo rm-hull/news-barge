@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- California
+- Indiana
+- Kentucky
+- Mexico
+- Michigan
+- Minneapolis
+- Minnesota
+- Missouri
+- Ohio
+- Salinas
+- Taylor Farms
+- U.S.
+- West Virginia
+people:
+- Numerator
+organisations:
+- FDA
+- Numerator
+- Taco Bell
+- Taylor Farms
+- U.S. Food and Drug Administration
 ---
 
 Millions of U.S. households have stopped buying pre-bagged salad this summer following outbreaks of the explosive diarrhea-causing illness, cyclosporiasis, which has been linked to fresh produce.

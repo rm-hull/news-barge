@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Malta
+people:
+- Alfred Degiorgio
+- Caruana Galizia
+- Daphne Caruana
+- Daphne Caruana Galizia
+- Edwina Grima
+- George
+- Godwin Cini
+- Joseph Muscat
+- Keith Schembri
+- Melvin Theuma
+- Vincent Muscat
+- Yorgen Fenech
+organisations:
+- Amphora Media
+- Europol
 ---
 
 A businessman on trial for the murder of the journalist Daphne Caruana Galizia has spoken about the charges for the first time in court since his arrest seven years ago, telling the jury he was framed by police and had nothing to do with the killing.

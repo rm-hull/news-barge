@@ -12,6 +12,17 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Austria
+- Europe
+- Hungary
+- Slovakia
+- UK
+people: []
+organisations:
+- EU
+- S&P
+- The Lancet Planetary Health
 ---
 
 Europe’s intense heatwaves could hit insurers’ earnings as companies face a rise in claims linked to heat-related deaths and worsening health conditions, the rating agency S&P has said.

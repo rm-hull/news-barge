@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- County Durham
+- Crook
+- King’s Head
+- Queen's Head
+- Queen’s Head
+- Rockingham Road
+- Sunnybrow
+- The Queen’s Head
+- Willington
+people:
+- Angela
+- Jennifer Bolton
+- Jolyon Perks
+- Martin Greensmith
+- Paul Rooney
+- Steve
+- Steven Shevels
+- Trevor Greensmith
+- Wayne Palmer
+organisations:
+- THE NORTHERN ECHO
+- Teesside Crown Court
 ---
 
 A punter accused of killing a man in a Willington beer garden on Christmas Eve had only just found out the fellow pub-goer was his dad, a barman has claimed.

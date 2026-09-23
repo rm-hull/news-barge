@@ -13,6 +13,27 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Dagestan
+- Kurgan
+- Moscow
+- Oryol
+- Russia
+- Ukraine
+- Vladimir
+- Volgograd
+people:
+- John Ratcliffe
+- Kyiv
+- Putin
+- Volodymyr Zelenskyy
+organisations:
+- CIA
+- Foreign Intelligence Service
+- General Staff
+- Kyiv
+- Main Intelligence Directorate
+- State Duma
 ---
 
 ## Ukrainian intelligence said Moscow has already decided to call up 300,000 this year and 300,000 in 2027, driven by massive losses and a collapse in voluntary recruitment. Kyiv expects the announcement to come after September's elections.

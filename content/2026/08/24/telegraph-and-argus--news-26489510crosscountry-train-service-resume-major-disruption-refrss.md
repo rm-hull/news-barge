@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Derby
+- Leicester
+people:
+- Rob Hinds
+organisations:
+- CrossCountry
+- National Grid
 ---
 
 *(Image: Rob Hinds)*

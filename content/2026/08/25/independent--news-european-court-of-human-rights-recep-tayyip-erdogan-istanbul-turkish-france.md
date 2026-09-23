@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Law & Justice
+locations:
+- Ankara
+- Kavala
+- Turkey
+- U.S.
+people:
+- Osman Kavala
+- Recep Tayyip Erdogan
+organisations:
+- European Court of Human Rights
+- Kavala
 ---
 
 The European Court of Human Rights on Tuesday criticized Turkey's courts over the imprisonment of prominent philanthropist Osman Kavala, saying it highlighted a “systemic problem” that was “marked by the detention and prosecution of political opponents, human-rights defenders and journalists.”

@@ -12,6 +12,24 @@ categories:
 - Local
 - Harrogate
 - Travel
+locations:
+- Church Fenton
+- Halifax
+- Hull
+- Leeds
+- Micklefield
+- Moorthorpe
+- Selby
+- Sheffield
+- Sherburn-in-Elmet
+- Sovereign Square
+- Ulleskelf
+- York
+- Yorkshire
+people:
+- Alex Hornby
+organisations:
+- Northern
 ---
 
 ![](https://mmo.aiircdn.com/409/6a90122d865c64544a2.jpg) 

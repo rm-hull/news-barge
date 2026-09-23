@@ -11,6 +11,43 @@ image: https://static.independent.co.uk/2026/08/26/12/2291572781..?trim=91,0,91,
 categories:
 - News & Politics
 - UK
+locations:
+- Europe
+- Germany
+- Gulf
+- Hormuz
+- Iran
+- Kiev
+- Kremlin
+- Middle East
+- Moldova
+- Moscow
+- Poland
+- Russia
+- Tehran
+- US
+- Ukraine
+- United States
+people:
+- Donald Trump
+- John Ratcliffe
+- Katia Glod
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- ATACMS
+- Army Tactical Missile System
+- CIA
+- Council on Foreign Relations
+- EU
+- Kyiv
+- NATO
+- NEST
+- Navy
+- New Eurasia Strategies Centre
+- PrSM
+- The Post
+- The Washington Post
 ---
 
 Vladimir Putin believes Donald Trump has been “weakened” by the war in Iran and this could allow the Russian president to ramp up aggression in Europe, US intelligence has indicated.

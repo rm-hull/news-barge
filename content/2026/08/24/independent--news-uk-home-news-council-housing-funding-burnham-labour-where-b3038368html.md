@@ -12,6 +12,30 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- England
+- Greater Manchester
+- Liverpool
+- London
+- North East
+- South Yorkshire
+- UK
+- West Midlands
+- West Yorkshire
+people:
+- Andy Burnham
+- Angela Rayner
+- Keir Starmer
+- Rachel Reeves
+- Sadiq Khan
+organisations:
+- 39 Social and Affordable Homes Programme
+- Greater London Authority
+- MHCLG
+- Ministry for Housing, Communities and Local Government
+- Resolution Foundation
+- SAHP
+- The Independent
 ---
 
 The areas in line for a multi-billion pound boost in housing funding have been revealed as the government promises the “biggest council housebuilding revival in decades”.

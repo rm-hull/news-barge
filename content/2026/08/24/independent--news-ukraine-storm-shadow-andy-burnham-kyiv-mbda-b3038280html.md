@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Britain
+- Crimea
+- France
+- Iraq
+- Kremlin
+- Kyiv
+- Libya
+- Russia
+- Syria
+- U.K.
+- UK
+- Ukraine
+- United States
+people:
+- Andy Burnham
+- Dmitry Peskov
+- Douglas Barrie
+- Kyiv
+- Volodymyr Zelenskyy
+organisations:
+- International Institute for Strategic Studies
+- Kyiv
+- MBDA
+- SCALP
 ---
 
 British Prime Minister Andy Burnham said Monday that the U.K. will help Ukraine make its own long-range missiles by sharing classified technical information for British components.

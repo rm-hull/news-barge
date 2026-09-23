@@ -11,6 +11,34 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Britain
+- York
+people:
+- Andrew Waller
+- Andy D’Agorne
+- Andy Shrimpton
+- Cllr Ravilious
+- Cllr Waller**
+- D’Agorne**
+- Garry Taylor**
+- John Sisk
+- Kate Ravilious**
+- Son
+- Taylor
+organisations:
+- '***YorkMix Radio'
+- '**Labour transport'
+- City of York Council
+- Greens
+- LNER
+- Labour
+- Liberal Democrat
+- Liberal Democrat and Green Coalition
+- Liberal Democrat and Green administration
+- Opposition Liberal Democrat
+- Station Gateway
+- York Cycle Campaign**
 ---
 
 Cyclists in York can’t wait to try it out but as huge wooden planters block the route of York’s new Station Gateway Cycle Track, the council says **most** of it will soon be ready to use.

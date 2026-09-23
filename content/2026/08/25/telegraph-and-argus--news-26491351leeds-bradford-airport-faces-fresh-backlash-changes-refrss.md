@@ -11,6 +11,14 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations: []
+people:
+- Nick Hodgkinson
+organisations:
+- GALBA
+- Group for Action on Leeds Bradford Airport
+- LBA
+- Leeds Bradford Airport
 ---
 
 *(Image: Supplied)*

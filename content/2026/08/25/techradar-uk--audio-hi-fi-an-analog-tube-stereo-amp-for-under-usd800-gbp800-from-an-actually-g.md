@@ -13,6 +13,17 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Music
+locations:
+- Sylvania
+people:
+- Carrie Marshall
+- Fiio
+organisations:
+- DAC
+- Fiio
+- Google News
+- RCA
+- Unquiet Mind
 ---
 
 ![Product shot of the FiiO EA13 amplifier](https://cdn.mos.cms.futurecdn.net/qBLAduJCy3Q5fHULTvXHTZ.png) 

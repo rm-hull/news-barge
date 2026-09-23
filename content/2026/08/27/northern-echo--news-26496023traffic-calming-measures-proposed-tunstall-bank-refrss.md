@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- City Hall
+- North East
+- Plater Way
+- Skipsea View
+- Sunderland
+- YOUR
+people:
+- E Waugh
+organisations:
+- City Hall
+- Law and Governance
+- Public Notice Portal
+- Sunderland City Council
+- The Northern Echo
+- Tunstall Bank
 ---
 
 *(Image: Supplied)*

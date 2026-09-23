@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- China
+- India
+- Laos
+- Myanmar
+- Thailand
+people:
+- Aung San Suu Kyi
+- James Rodehaver
+- Min Aung Hlaing
+- Volker Türk
+organisations:
+- Arakan Army
+- UN
+- United Nations
 ---
 
 ## Myanmar's ruling junta seized power in a coup in 2021 that ousted Aung San Suu Kyi's elected government, ending a 10-year experiment with democracy and plunging the country into turmoil and a humanitarian crisis.

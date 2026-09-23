@@ -13,6 +13,47 @@ categories:
 - News & Politics
 - UK
 - Education & Learning
+locations:
+- America
+- Cambridge
+- Colorado
+- France
+- India
+- Indiana
+- Italy
+- Milwaukee
+- Ohio
+- Oxford
+- Salt Lake City
+- U.S.
+- United Kingdom
+- Yoder
+people:
+- Bruce Kusch
+- Gabriella Staten
+- Giles Sims
+- Jenna Kramer
+- Jill Cohen
+- John Thelin
+- Pam Downing
+- Robert Zemsky
+- Todd Wolfson
+- Wesley Hardy
+organisations:
+- AAUP
+- American Association of University
+- Brigham Young University-Idaho
+- College Board
+- College-in-3 Exchange
+- Ensign College
+- Indiana Wesleyan
+- Institute for Research on Higher Education
+- Mount Mary University
+- Newsweek
+- Northwest Commission on Colleges and Universities
+- RAND
+- SAT
+- University of Pennsylvania Graduate School of Education
 ---
 
 After repeatedly being passed over for jobs due to lacking a college degree, 34-year-old Giles Sims needed a quick solution. Responsible for supporting his wife and widowed mother, the laid-off web developer turned to an expanding selection of three-year degree programs.

@@ -11,6 +11,13 @@ image: https://media.wired.com/photos/6a8780fd964ec62bf0f4ca20/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- California
+people: []
+organisations:
+- Apple Intelligence
+- Instagram
+- Siri AI
 ---
 
 I’ve never used Apple's built-in Shortcuts app before, despite owning an iPhone for years. While automating tedious tasks sounded nice, the necessary scripting to trigger actions and thread them together felt overwhelming when I first opened the app. But my experience with the iOS 27 beta has completely changed my perspective on Shortcuts. What was previously clunky and forgotten now feels streamlined and essential.

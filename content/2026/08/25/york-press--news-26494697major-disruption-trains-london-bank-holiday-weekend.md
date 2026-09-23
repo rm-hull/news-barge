@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- '**York'
+- East Coast Main Line
+- Hitchin
+- London St Pancras
+- North Yorkshire
+- Nottingham
+- Peterborough
+- Sheffield
+- Welwyn
+people:
+- Eddie Dempsey
+- Philippa Cresswell
+organisations:
+- EMR
+- East Midlands Railway
+- RMT
+- Rail, Maritime and Transport
+- The Press
 ---
 
 *(Image: Staff)*

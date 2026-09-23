@@ -14,6 +14,29 @@ categories:
 - UK
 - Science
 - Travel
+locations:
+- Betrawati
+- Boulder
+- Earth
+- France
+- Kolpurtar
+- Langtang Lirung
+- Nepal
+- Nepal-China
+- Syapru Besi
+- Tibet
+- Trishuli River
+people:
+- Alton Byers
+- Dan Shugar
+- Kristen Cook
+organisations:
+- AP
+- Associated Press’
+- Institute of Arctic and Alpine Research
+- University of Calgary
+- University of Colorado
+- Université Grenoble Alpes
 ---
 
 As rescue teams searched for missing people following catastrophic flooding along the Nepal-China border, Earth scientists reviewed satellite imagery for clues to the cause and assessed the devastation.

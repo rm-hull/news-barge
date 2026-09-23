@@ -14,6 +14,22 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- '## York'
+- BHE Self Storage
+- Lambs Hill Farm
+- Strensall
+- Strensall’s Common
+- Towthorpe Moor Lane
+- Ukraine
+- YOUR
+people: []
+organisations:
+- BHE Self Storage
+- BHE Self-Storage
+- Public Notice Portal
+- Public Notice Portal A YORK
+- York Council
 ---
 
 ## York farm struggling with Brexit, coronavirus and Ukraine war suffers planning blow

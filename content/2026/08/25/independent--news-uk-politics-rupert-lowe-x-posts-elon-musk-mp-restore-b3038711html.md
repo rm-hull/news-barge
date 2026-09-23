@@ -13,6 +13,23 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Great Yarmouth
+- Restore Britain
+people:
+- Elon Musk
+- Lisa Nandy
+- Rupert Lowe
+organisations:
+- CPS
+- Crown Prosecution Service
+- Elon Musk
+- Elon Musk’s
+- MPs’
+- Reform UK
+- Restore Britain
+- Tesla
+- The Guardian
 ---
 
 Rupert Lowe has raked in over £100,000 from posts on X since being elected in 2024, as the Restore Britain leader is set to make more from social media posts than from his MP salary.

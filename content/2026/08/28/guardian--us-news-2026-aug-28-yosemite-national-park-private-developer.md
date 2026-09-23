@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- America
+- California
+- DC
+- Kingsbarn
+- US
+- Yosemite
+people:
+- Aubrie Spady
+- Doug Burgum
+- Jared Huffman
+- Jayson O’Neill
+- Jeff Pori
+- Trump
+organisations:
+- Department
+- Guardian
+- Kingsbarn Realty Capital
+- National Park Service
+- Notus
+- Save Our Parks
+- Trump
+- interior department
 ---
 
 The Trump administration is reportedly pushing to give a parcel of land inside Yosemite, the country’s first national park and one of its most popular, to a Nevada-based private developer.

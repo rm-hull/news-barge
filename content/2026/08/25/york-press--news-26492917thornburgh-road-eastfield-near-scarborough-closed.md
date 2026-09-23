@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- '## Road'
+- A64
+- Cayton Approach
+- Cayton Low Road
+- Dunslow Road
+- Eastfield
+- North Yorkshire
+- Scarborough
+- Thornburgh Road
+- York
+people: []
+organisations:
+- A64
 ---
 
 ## Road connecting North Yorkshire town to the A64 closed after crash

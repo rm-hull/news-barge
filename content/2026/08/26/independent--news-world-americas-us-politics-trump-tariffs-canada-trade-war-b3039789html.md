@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Canada
+- Lake America
+- Lake Ontario
+- U.S.
+- US
+- White House
+people:
+- Donald Trump
+- Doug Ford
+- Glenn Beck
+- Mark Carney
+organisations:
+- Associated Press
+- Bloomberg
+- Ford
+- The Independent
+- Trump
+- U.S. Office of the Trade Representative
 ---
 
 President Donald Trump is reportedly considering additional tariffs or other trade actions against Canada as the two countries exchange retaliatory measures over failed trade negotiations.

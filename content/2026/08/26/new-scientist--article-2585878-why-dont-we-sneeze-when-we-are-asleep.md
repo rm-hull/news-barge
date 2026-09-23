@@ -12,6 +12,19 @@ categories:
 - Science
 - Technology & Software
 - Health & Fitness
+locations:
+- Australia
+- Blackpool beach
+- Circa
+- Lancashire
+- London
+- Sydney
+- UK
+people:
+- Bryn Colton
+- Carol Stevenson
+- Herman D’Hondt
+organisations: []
 ---
 
 ![A woman falls asleep in a deckchair during the sunny weather on Blackpool beach, in Blackpool, Lancashire, UK, Circa 1985. (Photo by Bryn Colton/Getty Images)](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_303479822.jpg?w=840)

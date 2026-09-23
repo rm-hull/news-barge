@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Madison Square Garden
+- New York
+- New York City
+- Wolejsza
+people:
+- Rob Wolejsza
+organisations:
+- DEP
+- Emergency Services Unit
+- Environmental Protection Department
+- NBC News
+- NYPD
+- TikTok
 ---
 
 New York City’s police department (NYPD) says it is investigating a recent video of three people emerging from a manhole in the latest such episode to cause mystery.

@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Europe
+- Gulf
+- Iran
+- Russia
+- UK
+- Ukraine
+people:
+- John Healey
+- Rachel Reeves
+organisations:
+- Baringa
+- Cornwall Insight
+- EDF
+- Energy UK
+- Ofgem
 ---
 
 ![Stock photo shows a person ironing a T shirt in front of a window in their kitchen, next to a plug socket and with the washing machine behind them.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/3bfb/live/2c87e810-a13c-11f1-b109-879e35c24276.jpg)

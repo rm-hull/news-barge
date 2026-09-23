@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- China
+people:
+- Raghu Sreeramaneni
+organisations:
+- ABF
+- Ajinomoto
+- Get Tom's Hardware
+- Hot Chips
+- Kyoto University
+- LG
+- LPU
+- Nvidia
+- OpenAI
+- SMIC
+- Synopsys
+- The Information
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/3Bym5bRSoc2XYC2CRstQM3-320-80.jpg)

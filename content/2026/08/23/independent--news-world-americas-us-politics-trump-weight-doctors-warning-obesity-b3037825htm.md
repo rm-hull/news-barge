@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Georgia
+- White House
+people:
+- Davis Ingle
+- Diet Coke
+- Donald Trump
+- Joe Biden
+- Katie Miller
+- McDonald’s
+- Robert F. Kennedy Jr.
+- Ronny Jackson
+- Scott Kahan
+- Sleepy Joe
+- Stuart Fischer
+- Usha Vance
+- William Howard Taft
+organisations:
+- Diet Coke
+- Health and Human Services
+- McDonald’s
+- National Center for Weight and Wellness
+- Secret Service
+- The Independent
+- The Washington Post
+- Trump
 ---
 
 Doctors have warned that President Donald Trump’s weight gain is “a strong risk factor” for his health after the commander-in-chief has put on 23 pounds in three years, according to a report.

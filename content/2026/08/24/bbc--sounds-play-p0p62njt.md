@@ -11,6 +11,38 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Canada
+- Kyiv
+- Moscow
+- Russia
+- UK
+- US
+- Ukraine
+- Washington
+people:
+- Adam Fleming
+- Andy Burnham
+- Caitriona Perry
+- Chris Gray
+- Dafyyd Evans
+- James Landale
+- Jayme Poisson
+- Jem Westgate
+- Mark Carney
+- Sam Bonham
+- Shiler Mahmoudi
+- Trump
+- Zelensky
+organisations:
+- BBC Sounds
+- CBC
+- Front Burner
+- Kyiv
+- News and Current Affairs
+- Newscast
+- Trump
+- WhatsApp
 ---
 
 ## Episode details

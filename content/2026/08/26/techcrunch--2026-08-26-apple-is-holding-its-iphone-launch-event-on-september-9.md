@@ -13,6 +13,16 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-a
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Apple Park Campus
+- California
+- Cupertino
+people:
+- John Ternus
+- Tim Cook
+organisations:
+- Apple
+- Golden Gate
 ---
 
 Apple announced on Wednesday that its next launch event is taking place on September 9, with a “Surprise and Shine” tagline.

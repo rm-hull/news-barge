@@ -14,6 +14,39 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- James Street
+- Kilnsey Park Estate
+- Leeds Dock
+- Skipton
+people:
+- Anthony
+- Ellis Breese
+- Heidi Marfitt
+- Laura Ashley
+- Ms Evrim
+- Vanessa Roberts
+organisations:
+- Aldermore Bank
+- Apparatus Pilates
+- Barclays Bank
+- Barre
+- Business Finance Cumbria
+- Caramba Brazilian Steakhouse
+- Companies House
+- Ebru Evim Ltd
+- Ebru Evim Roberts
+- Evrimotion
+- FK Building Ltd of Harrogate
+- Frango Eduardo Ltd
+- Google
+- Guernsey Investments Ltd
+- HMRC
+- IMS Energy of York
+- Mat Pilates
+- PAYE
+- Reformer Pilates
+- Statement of Affairs
 ---
 
 *(Image: Picture by Heidi Marfitt)*

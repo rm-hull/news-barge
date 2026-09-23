@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- D.C.
+- Lockerbie
+- Netherlands
+- New York
+- U.S.
+- United Kingdom
+- Washington
+people:
+- Abu Agila Mohammad Mas’ud Kheir Al-Marimi
+- Dabney Friedrich
+- Moammar Gadhafi
+organisations:
+- John F. Kennedy International Airport
+- London Heathrow Airport
+- Syracuse University
 ---
 
 A federal judge on Monday postponed a trial in the U.S. for a former Libyan intelligence official charged in the 1988 bombing of Pan Am Flight 103, citing the discovery of new evidence that defense attorneys want to examine in the nearly 40-year-old case.

@@ -11,6 +11,28 @@ image: https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- China
+- Europe
+- Guian New Area
+- Guizhou
+- Inner Mongolia
+- Provinces
+- United States
+people:
+- Andrew Stokols
+- Simeng Deng
+organisations:
+- AI
+- DSET
+- Eastern Data Western Computing
+- Efosa
+- Google News
+- Huawei
+- Rystad Energy
+- Singapore Management University
+- TechRadar Pro
+- Via Techxplore
 ---
 
 ![A data center with racks of servers and lots of lights glowing](https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M.jpg) 

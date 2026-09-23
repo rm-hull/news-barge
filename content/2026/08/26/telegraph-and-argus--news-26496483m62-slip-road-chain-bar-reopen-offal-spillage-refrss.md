@@ -13,6 +13,25 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Bradford
+- Brighouse
+- Chain Bar
+- Chain Bar Interchange
+- Denholmegate Road
+- Highways England
+- Hipperholme
+- M606
+- M62
+- Westcroft Lane
+people: []
+organisations:
+- Chain Bar
+- M62
+- National Highways
+- T&A
+- Telegraph & Argus
+- West Yorkshire Police
 ---
 
 *(Image: Highways England)*

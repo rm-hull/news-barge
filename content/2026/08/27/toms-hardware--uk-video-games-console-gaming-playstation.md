@@ -12,6 +12,13 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people: []
+organisations:
+- Get Tom's Hardware
+- PS3
+- PS5
+- Sony
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/9eE73Lb2hrEUgfbpQ6VJcV-320-80.jpg)

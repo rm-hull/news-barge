@@ -14,6 +14,21 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Sydney
+- Sydney’s Downing Centre
+people:
+- '*”* Morrison'
+- Alan
+- C
+- Georgina Wright
+- Glenn Walsh
+- Jason Morrison
+- Jones
+organisations:
+- '**“** People'
+- 2GB
+- Alan Jones
 ---
 
 Fellow shock jock Jason Morrison has told the Alan Jones trial that guests at a luncheon hosted by the 2GB breakfast presenter were joking that Jones and a young staffer “look like a great couple” as the pair sat next to each other at a Sydney restaurant.

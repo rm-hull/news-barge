@@ -12,6 +12,36 @@ image: https://cdn.mos.cms.futurecdn.net/NA3h5ihamxwkijUDqWzK9K-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- Canada
+- India
+- New Zealand
+- North and South America
+- PT
+- SGT
+- Singapore
+- Ted Lasso
+- UK
+- US
+people:
+- '![Keely'
+- Brendan Hunt
+- Jason Sudeikis
+- Rebecca
+- Tanya Reynolds
+- Ted Lasso
+- Tom
+organisations:
+- Apple TV
+- Disney Plus
+- Google News
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Star Wars
+- TechRadar
 ---
 
 ![Brendan Hunt, Jason Sudeikis and Tanya Reynolds in Ted Lasso season 4](https://cdn.mos.cms.futurecdn.net/NA3h5ihamxwkijUDqWzK9K.jpg) 

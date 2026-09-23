@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Derby
+- Durham
+- England
+- Pakistan
+people:
+- Brydon Carse
+- Molly Malone
+organisations:
+- Carse
+- Cricket Regulator
+- Derbyshire Police
+- ECB
+- England and Wales Cricket Board
+- Gloucestershire
 ---
 
 ![Brydon Carse, wearing a grey hoodie and backwards blue cap](https://ichef.bbci.co.uk/ace/standard/822/cpsprodpb/a994/live/882f12e0-a1f2-11f1-bf30-b9c45f18ad85.jpg)

@@ -14,6 +14,17 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Creator Economy & Marketing
+locations:
+- Graze
+people:
+- Devin Gaffney
+- Graze
+- Mike McCue
+organisations:
+- Bluesky
+- Flipboard Graze
+- TechCrunch
+- The Tea
 ---
 
 Flipboard, the news magazine software company that has more recently invested in the open social web — the umbrella term for social platforms that let users, not one company, control their own data and audience — is making another big bet on that ecosystem. The company on Wednesday announced it’s acquiring the Portland-based feed-building startup Graze, which has been working to monetize the open social web by allowing feed creators to support themselves via ads.

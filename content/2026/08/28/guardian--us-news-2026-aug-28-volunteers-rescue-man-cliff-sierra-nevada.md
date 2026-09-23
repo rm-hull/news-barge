@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- California
+- Laurel
+- Mono
+- Sierra Nevada
+people:
+- Mendenhall
+- Mitchell Quiring
+organisations:
+- Facebook
+- New York Times
+- San Francisco Chronicle
 ---
 
 An ill-fated move left a man stranded on a 6in ledge over 10,000ft off the ground for hours in California’s Sierra Nevada mountain range, before a volunteer rescue team came to his aid.

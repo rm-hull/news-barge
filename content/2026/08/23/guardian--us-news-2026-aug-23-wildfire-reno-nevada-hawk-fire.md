@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Hawk
+- Nevada
+- Reno
+- Reno-Sparks Convention Center
+- Reno-Stead
+- Reno-Tahoe
+- Sierra
+- US Route 395
+- Washoe
+people:
+- Darin Balaam
+- Hawk
+- Hillary Schieve
+- Joe Lombardo
+- Reno
+organisations:
+- Associated Press
+- Truckee Meadows
+- Truckee Meadows fire and Rescue
+- University of Nevada
 ---
 
 A fast-moving Nevada wildfire exploded to more than 13,000 acres (5,200 hectares) early on Sunday, pushing from the Sierra foothills toward the center of Reno and forcing nearly 42,000 residents to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus.

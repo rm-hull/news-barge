@@ -12,6 +12,15 @@ image: https://techcrunch.com/wp-content/uploads/2022/06/52149453535_5cfc2ec394_
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Bill Gates
+organisations:
+- Anthropic
+- Gates Notes
+- Human Reserved
+- Microsoft
+- Responsible AI
 ---
 
 Bill Gates posted a long essay to his Gates Notes site today, showing just how much the Microsoft co-founder has been thinking about the social impacts of AI.

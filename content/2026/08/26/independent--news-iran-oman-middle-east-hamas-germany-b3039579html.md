@@ -14,6 +14,42 @@ categories:
 - UK
 - History
 - Business & Entrepreneurship
+locations:
+- Camp Stephan
+- Dubai
+- Gaza
+- Germany
+- Gulf of Oman
+- Iran
+- Iraq
+- Islamic Republic
+- Islamic State
+- Israel
+- Lincoln
+- Middle East
+- Mideast
+- Persian Gulf
+- Strait of Hormuz
+- Thailand
+- U.S.
+- US
+- United Arab Emirates
+people:
+- Abraham Lincoln
+- Donald Trump
+- Kazem Gharibabadi
+- Paul Griffiths
+organisations:
+- Dubai International Airport
+- Gaza Health Ministry
+- Hamas
+- Health Ministry
+- Irbil International Airport
+- Ministry of Peshmerga Affairs
+- Royal Thai Navy
+- The Associated Press
+- U.S. Navy
+- United Nations
 ---
 
 Iran will not allow military vessels to transit through the Strait of Hormuz under an agreement the Islamic Republic is currently negotiating with Oman, Iran's Deputy Foreign Minister told state TV late on Tuesday night.

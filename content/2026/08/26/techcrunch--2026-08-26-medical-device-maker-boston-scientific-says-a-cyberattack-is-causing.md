@@ -13,6 +13,21 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Science
+locations:
+- Cork
+- Ireland
+- U.S.
+people:
+- Chanel Hastings
+organisations:
+- Abbott Laboratories
+- Amazon Web Services
+- Boston Scientific
+- Medtronic
+- Microsoft
+- Stryker
+- TechCrunch
+- U.S. Securities and Exchange Commission
 ---
 
 A cyberattack on U.S. medical device maker Boston Scientific is causing an ongoing “global disruption” to its operations, according to a federal regulatory filing on Wednesday. This is the latest health tech giant to face a cyberattack in recent weeks.

@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Ex Dairy
+- Hollywood
+- North Street
+- York
+people:
+- Alice Kavanagh
+- Aquaman
+- Darren Greenwood
+- Jason Mamoa
+- Jorvik Blond
+organisations:
+- Google
+- The Press
+- The Whippet Inn
+- Tripadvisor
+- Whippet Inn
+- Yorkshire Ham Hock
+- Yorkshire Hussar
 ---
 
 As you may know, there’s a few of us in the office that do our food reviews.

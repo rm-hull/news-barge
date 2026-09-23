@@ -14,6 +14,25 @@ categories:
 - UK
 - Society & Culture
 - True Crime
+locations:
+- Enumclaw
+- Forest Grove
+- Oregon
+- Portland
+- Washington
+people:
+- Alvin Raymond Chu
+- Benjamin Charles Parker
+- Caprice Massey
+- Linsey Mae Haraldsen
+- Mary Elizabeth Kimsey
+- Rowan Karla Kimsey
+- Rowan Kimsey
+- Shannon Wilde
+- Stella Jade Kimsey
+- Stella Kimsey
+organisations:
+- Washington County Sheriff’s Office
 ---
 
 The five people found dead at a rural Oregon property have been identified as the suspected killer’s girlfriend, three generations of her family and two friends, authorities said Monday.

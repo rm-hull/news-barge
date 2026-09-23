@@ -14,6 +14,47 @@ categories:
 - News & Politics
 - Sports
 - Business & Entrepreneurship
+locations:
+- Argentina
+- Egypt
+- England
+- Lille
+- Manchester City
+- Morocco
+- Nottingham Forest
+- Spain
+people:
+- Ayyoub Bouaddi
+- Bernardo Silva
+- Elliot Anderson
+- Enzo Fernandez
+- Enzo Maresca
+- Leny Yoro
+- Nico Gonzalez
+- Omar Marmoush
+- Reijnders
+- Rodri
+- Savinho
+- Savio
+- Tijjani Reinders
+organisations:
+- Al-Qadsiah
+- Ayyoub Bouaddi
+- Barcelona
+- Chelsea
+- Europa League
+- KI
+- Ligue
+- Lille
+- Manchester City
+- Manchester Cityhave
+- Manchester United
+- Midfield
+- Newcastle
+- Premier League
+- Real Madrid
+- Spurs
+- Tottenham
 ---
 
 ![Ayyoub Bouaddi in a Manchester City tracksuit top holding a pen with a contract on the desk in front of him](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/f8b4/live/8c35e240-a13b-11f1-9311-09d4e1fc9016.jpg)

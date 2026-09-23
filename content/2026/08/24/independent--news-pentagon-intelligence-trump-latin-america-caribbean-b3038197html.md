@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Caribbean
+- Colombia
+- Eastern Pacific
+- Ecuador
+- Guatemala
+- Honduras
+- Latin America
+- Panama
+- U.S.
+people:
+- Francis Donovan
+- Pete Hegseth
+- Trump
+organisations:
+- Defense
+- Joint Task Force Western Hemisphere
+- Pentagon
+- U.S. Southern Command
 ---
 
 U.S. forces have struck another vessel in the eastern Pacific, killing two people the Pentagon says were trafficking drugs.

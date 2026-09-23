@@ -13,6 +13,30 @@ categories:
 - Europe
 - News & Politics
 - Health & Fitness
+locations:
+- Beijing
+- China
+- Gyirong
+- India
+- Mount Kailash
+- Nepal
+- Tibet
+- Trishuli 3A
+people:
+- Buddha Tamang
+- Raja Ram Basnet
+- Samjhana Thing
+- Ursula von der Leyen
+- Xi Jinping
+organisations:
+- AFP
+- CCTV
+- European Commission
+- European Union
+- International Red Cross
+- UN
+- UNICEF
+- US Geological Survey
 ---
 
 ## Rescuers were battling through mud even as the threat of new floods loomed, with emergency teams recovering 586 bodies so far and some of the dead swept downstream as far away as India.

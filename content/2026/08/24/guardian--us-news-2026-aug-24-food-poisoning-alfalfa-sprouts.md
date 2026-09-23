@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Florida
+- Indiana
+- Iowa
+- Kansas
+- Michigan
+- Minnesota
+- New Hampshire
+- New York
+- North Carolina
+- North Dakota
+- Pennsylvania
+- South Carolina
+- South Dakota
+- US
+- Washington
+- Wisconsin
+people: []
+organisations:
+- CDC
+- Everyday Sprouts Alfalfa Sprouts
+- Everything Sprouts
+- FDA
+- The Associated Press
+- US Centers for Disease Control and Prevention
+- US Food and Drug Administration
 ---
 
 US healthcare officials recently said a food-poisoning outbreak tied to alfalfa sprouts and involving multiple germs had sickened people in at least 15 states.

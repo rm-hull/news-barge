@@ -15,6 +15,32 @@ categories:
 - News & Politics
 - Music
 - Comedy & Entertainment
+locations:
+- Halifax
+- Hollywood
+- Manchester
+- UK
+people:
+- Alice Cooper
+- Baba O'Riley
+- Dave Vanian
+- David Bowie
+- Eloise
+- Jack Sparrow
+- Jeff Beck
+- Jimi Hendrix
+- Joe Perry
+- Johnny Depp
+- New Rose
+- Ozzy Osbourne
+- Tommy Henriksen
+organisations:
+- AC/DC
+- AO Arena
+- Aerosmith
+- CUFFE & TAYLOR
+- Cardiff Castle
+- Piece Hall
 ---
 
 *(Image: CUFFE & TAYLOR)*

@@ -12,6 +12,25 @@ image: https://cdn.mos.cms.futurecdn.net/DQz7EZ2ZfH2FfJgAEAW2kW-1200-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- China
+people:
+- Alex Blake
+organisations:
+- Aerospace Information Research Institute
+- Apple
+- CCTV
+- Chinese Academy of Sciences
+- Creative Bloq
+- Google News
+- MacFormat
+- S4000
+- SCMP
+- Sawes Energy Technology
+- South China Morning Post
+- TechRadar
+- Tsinghua University
+- iMore
 ---
 
 ![The S4000 airship used to generate electricity from the wind.](https://cdn.mos.cms.futurecdn.net/DQz7EZ2ZfH2FfJgAEAW2kW.jpg) 

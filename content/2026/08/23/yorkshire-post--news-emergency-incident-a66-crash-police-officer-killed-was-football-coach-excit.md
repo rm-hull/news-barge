@@ -16,6 +16,36 @@ categories:
 - True Crime
 - Automotive
 - News & Politics
+locations:
+- A66
+- Afghanistan
+- Cleveland
+- Iraq
+- Middlesborough
+- Middlesbrough
+- South Bank
+- UK
+people:
+- Graham Wettone
+- Matt Storey
+- Matthew
+- Matty
+- Owen Humphreys
+- Pc Blades
+- Pc Clough
+- Pc Tom Clough
+- Richard McCarthy
+- Victoria Fuller
+organisations:
+- Cleveland Police
+- Independent Office for Police Conduct
+- Metropolitan Police
+- PA Wire
+- Pc Blades
+- Pc Clough
+- Seahawks
+- Seaton Carew FC
+- U10 Lions
 ---
 
 # A66 crash: family hail police officer killed in horror smash as 'our hero'

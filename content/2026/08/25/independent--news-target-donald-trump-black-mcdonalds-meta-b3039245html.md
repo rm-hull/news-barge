@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Georgia
+- Minneapolis
+- Minnesota
+people:
+- Brian Cornell
+- Bruce Winder
+- Donald Trump
+- George Floyd
+- Jamal Bryant
+- Jaylani Hussein
+- Jim Crow-era
+- Michael Fiddelke
+- Monique Cullars-Doty
+- Nekima Levy Armstrong
+organisations:
+- DEI
+- Gucci
+- Human Rights Campaign
+- Jay-Z
+- McDonald’s
+- Meta
+- PR
+- Prada
+- Target Corporation
+- Trump
+- Walmart
 ---
 
 Retailer Target pulled a children’s Halloween costume from its shelves Monday after widespread social media backlash, apologizing for selling a garment critics said evoked racist minstrel caricatures.

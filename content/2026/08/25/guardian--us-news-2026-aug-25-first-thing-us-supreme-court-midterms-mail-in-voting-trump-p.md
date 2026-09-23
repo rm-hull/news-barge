@@ -12,6 +12,54 @@ image: https://i.guim.co.uk/img/media/4a9f9d9a35e0debbe5f1f29de3098fb6da308e93/3
 categories:
 - UK
 - News & Politics
+locations:
+- Arizona
+- Australia
+- California
+- Canada
+- China
+- Colombia
+- Colorado River
+- Eastern Pacific
+- Iran
+- Massachusetts
+- Minnesota
+- Nevada
+- Normandy
+- Pacific Ocean
+- San Jose
+- US
+- United States
+people:
+- Abelardo de la Espriella
+- Attiah**
+- Charlie Kirk
+- Derrick Johnson
+- Donald Trump
+- Ketanji Brown Jackson
+- Lisa Cox
+- Marco Rubio.
+- Mark Carney
+- Meg White
+- Scott Bessent
+- Scotty!
+- Toddler
+organisations:
+- Associated Press
+- Department of Homeland Security
+- Department of State
+- Donald Trump
+- MLS
+- Minnesota United
+- National Association for the Advancement of Colored People
+- Nations in the World
+- San Jose Earthquakes
+- SouthCom
+- Star Trek
+- US Southern Command
+- USS Enterprise
+- Washington Post
+- White Stripes
 ---
 
 Good morning. The US supreme court has sided with Donald Trump in his effort to crack down on mail-in voting, though it is unclear whether or not his administration will be able to take action before the midterm elections in November. The court’s justices voted 6-3 along ideological lines to lift an injunction that a judge in Massachusetts had placed in June on an executive order issued by the president. But a second injunction remains in place, and the ruling leaves room for legal challenges.

@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Canary Islands
+- Malaysia
+- Norway
+- Spain
+people:
+- Haakon
+- Harald
+organisations:
+- National Hospital
 ---
 
 The health of King Harald of Norway deteriorated over the weekend, the royal palace has said.

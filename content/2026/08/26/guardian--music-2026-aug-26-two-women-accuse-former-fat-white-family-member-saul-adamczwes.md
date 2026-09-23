@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Manchester
+- UK
+- US
+- Warmduscher
+people:
+- Fat Possum
+- Jessica Winter
+- Saul Adamczewski
+organisations:
+- Fat Possum
+- Fat White Family
+- Gossip Girl
+- Guardian
+- Metros
+- Rough Trade Liverpool
 ---
 
 Saul Adamczewski of Insecure Men and formerly of Fat White Family has been dropped by his record label and had tour dates cancelled after two women shared allegations of physical and emotional abuse against the musician.

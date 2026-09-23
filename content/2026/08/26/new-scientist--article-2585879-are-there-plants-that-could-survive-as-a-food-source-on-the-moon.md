@@ -12,6 +12,19 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_299709923.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- France
+- Haverbreaks
+- Lancashire
+- UK
+people:
+- Eric Kvaalen
+- John Davies
+- Les Essarts-le-Roi
+- Robin Maguire
+organisations:
+- Alien Planet Discover Plant Life
+- Biosphere 2
 ---
 
 **Are there any plants and creatures that could be taken to the moon and would survive, reproduce and be a viable food source in, say, 25 years’ time? (continued)**

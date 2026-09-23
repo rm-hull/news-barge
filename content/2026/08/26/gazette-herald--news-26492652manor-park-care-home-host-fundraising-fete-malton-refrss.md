@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Family & Parenting
+locations:
+- Fitzwilliam Ward
+- Malton Community Hospital
+- Old Malton
+- Town Street
+people:
+- Laura Clegg
+organisations:
+- Manor Park Care Home
 ---
 
 *(Image: NQ)*

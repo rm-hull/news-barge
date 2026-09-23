@@ -14,6 +14,20 @@ categories:
 - Local
 - Harrogate
 - True Crime
+locations:
+- Harrogate
+- Keighley
+- Padside
+- Riddlesden
+- UK
+- York Crown Court
+people:
+- Geoffrey Crossland
+- Sean Morris
+- Steve Bambridge
+organisations:
+- Crossland
+- York Crown Court
 ---
 
 # Former Harrogate shotgun fanatic spared jail after police find 'arsenal of weapons' in 'underground den'

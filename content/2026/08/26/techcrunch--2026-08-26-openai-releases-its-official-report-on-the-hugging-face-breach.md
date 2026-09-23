@@ -11,6 +11,17 @@ image: https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-backgr
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- AI
+- Artifactory
+- Astra
+- Black Hat
+- Hugging Face
+- METR
+- OpenAI
+- Redwood Research
 ---
 
 OpenAI released its official report Wednesday on the Hugging Face breach, offering the clearest picture yet of how an unusual chain of events allowed an AI model to escape its testing environment and triggered a sprawling cybersecurity incident.

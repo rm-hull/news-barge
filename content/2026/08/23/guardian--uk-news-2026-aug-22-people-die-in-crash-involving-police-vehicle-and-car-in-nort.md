@@ -12,6 +12,43 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Church Lane
+- Cleveland
+- Eston
+- Great North
+- Greater Manchester
+- Middlesbrough
+- Mottram
+- Normanby Road
+- North East
+- North Yorkshire
+- Redcar
+- Southbank
+- Tameside
+- Tees Valley
+- Teesside
+people:
+- Andy Burnham
+- Anna Turley
+- Ben Houchen
+- Brian Booth
+- Dale Cregan
+- David Taylor
+- Fiona Bone
+- Lauren Somerville
+- Matthew Blades
+- Nicola Hughes
+- Shabana Mahmood
+- Stephen Martin
+- Tom Clough
+- Victoria Fuller
+organisations:
+- A66
+- IOPC
+- Independent Office for Police Conduct
+- Police Federation of England and Wales
 ---
 
 Two police officers who died in a car crash near Middlesbrough in the early hours of Saturday have been named.

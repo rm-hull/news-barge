@@ -11,6 +11,29 @@ image: https://static.independent.co.uk/2026/08/26/15/2194418489..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Iran
+- New Jersey
+- Pennsylvania
+- White House
+people:
+- Ashley
+- Azita Sayan
+- Barron Trump
+- Butler
+- Charlie Kirk
+- Donald Trump
+- Hunter
+- Joe Biden
+- Jonathan Swan
+- Maggie Haberman
+- Melania Trump
+organisations:
+- New York Post
+- Office of the First Lady
+- Secret Service
+- The New York Post
+- Trump National Golf Club Bedminster
 ---
 
 President Donald Trump’s son, Barron, is reportedly keeping a low profile these days due to threats from Iran and the multiple attempts on his father's life.

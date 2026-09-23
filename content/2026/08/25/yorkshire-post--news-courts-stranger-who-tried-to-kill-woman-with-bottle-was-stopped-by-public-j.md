@@ -14,6 +14,32 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Barrow-in-Furness
+- Birmingham
+- Calais
+- Coventry
+- France
+- Headingley
+- Italy
+- Leeds
+- Libya
+- Luton
+- Manchester
+- Otley Road
+- Sudan
+- UK
+- West Yorkshire
+- York
+people:
+- Ibrahim Albashir
+- Katherine Robinson
+- Lucy Bacon
+- Richard James
+- Robin Mairs
+organisations:
+- Leeds Crown Court
+- Original Oak
 ---
 
 # Stranger who tried to kill woman with bottle was stopped by public, judge hears

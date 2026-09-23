@@ -12,6 +12,33 @@ image: https://cdn.mos.cms.futurecdn.net/J2ZuikomR7GQjg3ruMJA5A-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- MobLand
+- The Gentlemen
+- Virgin River
+people:
+- '## MobLand'
+- George Cooper Sr.
+- Guy Ritchie
+- Helen Mirren
+- Meghan Markle
+- Pierce Brosnan
+- Taylor Sheridan
+- Theo James
+- Tom Hardy
+organisations:
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Paramount
+- Radio Times
+- Stylist
+- TechRadar
+- The Gentlemen
+- The Hollywood Reporter
+- Variety
+- Yahoo!
 ---
 
 ![Tom Hardy in MobLand and Theo James in The Gentlemen](https://cdn.mos.cms.futurecdn.net/J2ZuikomR7GQjg3ruMJA5A.jpg) 

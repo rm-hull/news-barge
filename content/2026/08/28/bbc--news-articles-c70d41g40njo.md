@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Bidur Municipality
+- Birgunj
+- China
+- Devighat
+- Durbar Square
+- Gyirong
+- India
+- Kathmandu
+- Kolkata
+- Langtang
+- Mount Kailash
+- Nepal
+- Nuwakot
+- Raxaul
+- Syabrubesi
+- Tibet
+people:
+- Dwaipayan Mukherjee
+- Rina Banerjee
+- Shiva
+- Subhrasree Chakraborty
+- Sudipto Bhattacharya
+organisations:
+- CPR
+- Chakraborty
+- Mithila Express
 ---
 
 ![Subhrasree Chakraborty in Nepal](https://ichef.bbci.co.uk/ace/standard/939/cpsprodpb/9f32/live/ec373900-a2ad-11f1-ab20-f9f4f61e8913.jpg)

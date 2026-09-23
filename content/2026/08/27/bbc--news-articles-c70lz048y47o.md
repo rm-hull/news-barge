@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Church Lane
+- Eston
+- Hartlepool
+- Middlesbrough
+- Normanby Road
+- Teesside Coroner's Court
+people:
+- Matthew Blades
+- Matthew Blades.
+- PC Blades
+- PC Clough
+- Paul Appleton
+- Tom Clough
+organisations:
+- A66
+- BBC Sounds
+- Cleveland Police
+- Cleveland Police Federation
+- Independent Office for Police Conduct
+- PC Blades
+- PC Blades'
 ---
 
 ![Pictures of the two officers. Both are smiling. PC Blades, left, has stubble and short fair hair. PC Clough also has stubble and short dark hair.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png)

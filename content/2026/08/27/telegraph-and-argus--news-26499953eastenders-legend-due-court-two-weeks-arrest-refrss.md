@@ -13,6 +13,31 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Albert Square
+- BBC
+- Church Langley Way
+- Colchester Magistrates’ Court
+- George Street
+- Harlow
+- New Theatre
+- Oxford
+- Surrey
+- Tadworth
+people:
+- Alfie Moon
+- Bradley Walsh
+- Brian Conley
+- Joe Pasquale
+- Kat Slater
+- Scrooge
+- Shane Richie
+- Shane Roche
+organisations:
+- BBC
+- EastEnders
+- New Theatre
+- New Theatre Oxford
 ---
 
 *(Image: BBC)*

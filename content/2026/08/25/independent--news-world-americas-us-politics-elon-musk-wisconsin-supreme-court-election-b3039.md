@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Brown County
+- Green Bay
+- La Crosse County
+- U.S.
+- Wisconsin
+people:
+- Brad Schimel
+- Elon Musk
+- Susan Crawford
+- Tim Gruenke
+organisations:
+- Musk
+- SpaceX
+- Supreme Court
+- Tesla
+- Wisconsin Elections Commission
+- Wisconsin Supreme Court
 ---
 
 Elon Musk will not be prosecuted for offering $1 million to voters during the 2025 Wisconsin Supreme Court race, after a state prosecutor concluded Tuesday that no jury would find the pledge constituted election bribery.

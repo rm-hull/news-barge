@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Finland
+- US
+- USA
+- United States
+people:
+- Alysa Liu
+organisations:
+- Instagram
+- NBC
 ---
 
 'Oh my word!' - USA's Liu wins women's figure skating gold with stunning performance

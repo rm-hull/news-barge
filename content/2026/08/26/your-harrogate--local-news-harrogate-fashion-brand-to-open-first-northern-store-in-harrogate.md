@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - Lifestyle & Fashion
+locations:
+- Battersea Power Station
+- Brighton
+- Harrogate
+- James Street
+- Marlow
+- North
+people:
+- Jo Tutchener Sharp OBE
+organisations:
+- Bolt Room
+- Harrogate
+- Scamp & Dude
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8ecc4b61c10bfa17b.jpg) 

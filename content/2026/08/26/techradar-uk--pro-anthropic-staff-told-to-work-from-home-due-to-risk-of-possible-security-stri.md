@@ -11,6 +11,24 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- California
+- San Francisco
+people:
+- Craig Hale
+- Dario Amodei
+organisations:
+- AI
+- Allied Universal
+- Anthropic
+- Craig’s
+- Google News
+- OpenAI
+- SEIU
+- Service Employees International Union
+- SpaceX
+- TechRadar Pro
+- WSJ
 ---
 
 ![Dario Amodei](https://cdn.mos.cms.futurecdn.net/wSvr2XcdjMHeeAahcBvs54.jpg) 

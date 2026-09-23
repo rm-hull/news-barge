@@ -13,6 +13,48 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Church Lane
+- Cleveland
+- Eston
+- Lime Road
+- Middlesbrough
+- Normanby Road
+- South Bank
+- Teesside
+- Teesville
+- Teesworks
+people:
+- Channy Brown
+- Cole Robert Worthy
+- Derrick Campbell
+- Ellie Webster
+- Jakub Matusiak
+- Kelly Cahill
+- Makai Saddington
+- Matthew Blades
+- Matty
+- Michael Robert Cahill
+- Neil Hutchinson
+- PC Blades
+- PC Clough
+- Passat
+- Sharon Morgan
+- Theo Rae
+- Tom Clough
+- Victoria Fuller
+organisations:
+- A66
+- Cleveland Police
+- FC Hartlepool
+- Facebook
+- IOPC
+- Independent Office for Police Conduct
+- PC Blades
+- Seahawks
+- Seaton Carew FC
+- U10 Lions
+- VW
 ---
 
 Five teenagers and young men who died driving on the wrong side of the road in a crash which also killed two police officers have been named.

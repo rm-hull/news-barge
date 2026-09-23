@@ -14,6 +14,31 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- Asia Pacific
+- Earth
+- Egypt
+- Mongolia
+- Rangelands
+- Ulaanbaatar
+people:
+- Esther Penunia
+- Joao Campari
+- Yasmine Fouad
+organisations:
+- AP
+- Asian Development Bank
+- Asian Farmers Association
+- Associated Press
+- Associated Press’
+- Campari
+- Drought Resilience Investment Facility
+- Sibi Arasu
+- U.N.
+- UNCCD
+- United Nations
+- United Nations Convention to Combat Desertification
+- WWF International
 ---
 
 Representatives from nearly 200 countries wrapped up United Nations desertification talks in Ulaanbaatar, Mongolia on Friday, seeking ways to keep land productive as climate change heats the planet and degraded soils and landscapes lose their ability to hold water, produce food and support livelihoods.

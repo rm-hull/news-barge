@@ -12,6 +12,14 @@ categories:
 - Europe
 - News & Politics
 - Arts & Culture
+locations:
+- London
+people:
+- Christie
+- Piet Mondrian
+organisations:
+- Christie’s
+- Composition III
 ---
 
 A rare 1920 painting by Dutch master Piet Mondrian, Composition III, is set to go under the hammer at Christie’s in London this October. The abstract work, unseen in public for more than 25 years, is expected to fetch between £20m and £30m during the auction house’s Frieze Week sale.

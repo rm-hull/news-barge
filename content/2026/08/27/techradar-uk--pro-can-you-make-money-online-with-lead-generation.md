@@ -11,6 +11,24 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- India
+- West Bengal
+people:
+- Ritoban Mukherjee
+organisations:
+- AI
+- ChatGPT
+- Claude
+- Creative Bloq
+- Gizmodo
+- Google Calendar
+- IT Pro
+- LinkedIn
+- Quartz
+- Ritoban Mukherjee
+- TechRadar Pro
+- Tom's Guide
 ---
 
 ![woman sat at a desk using a macbook to do lead generation](https://cdn.mos.cms.futurecdn.net/f2GLUne7zpq7A9ovZ473TY.jpg) 

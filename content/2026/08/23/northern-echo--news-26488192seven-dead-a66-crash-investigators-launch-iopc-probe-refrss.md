@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- South Bank
+- Teesside
+people:
+- Cole Robert Worthy
+- Derrick Campbell
+- Jacob Matusiak
+- Jakub Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- SARAH CALDECOTT
+- STU BOULTON
+- Theo Rae
+- Tom Clough
+- Victoria Fuller
+organisations:
+- A66
+- Cleveland Fire Brigade
+- Cleveland Police
+- Great North Air Ambulance Service
+- IOPC
+- Independent Office for Police Conduct
+- North East Ambulance Service
+- PC Blades
+- PC Clough
 ---
 
 Investigators have been piecing together the events leading up to a devastating crash on the A66 which claimed the lives of seven people, including two police officers.

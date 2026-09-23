@@ -12,6 +12,32 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyI
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Amazon
+people:
+- Colette Kress
+- Jensen Huang
+- Peter DeSantis
+- Rubin
+- Vera
+organisations:
+- AI
+- AMD
+- AWS
+- Amazon Bedrock
+- Anthropic
+- GPU
+- Graviton CPU
+- Intel
+- Isaac
+- Nemotron
+- Nvidia Blackwell Ultra
+- OpenAI
+- Oracle
+- SageMaker
+- SpaceXAI
+- Vera CPUs
+- Web Services’
 ---
 
 Amazon and Nvidia just got a lot closer. The two companies announced Wednesday an expanded partnership that includes a deal to add another 2 million Nvidia GPU chips to Amazon’s data centers.

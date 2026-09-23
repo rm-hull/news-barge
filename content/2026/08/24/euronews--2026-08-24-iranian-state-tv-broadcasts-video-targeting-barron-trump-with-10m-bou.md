@@ -13,6 +13,34 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Earth
+- Florida
+- Iran
+- Islamic Republic
+- Islamic Revolution Square
+- New York
+- Tehran
+- US
+people:
+- '## Trump'
+- Ayatollah Ali Khamenei
+- Barron Trump
+- Donald Trump
+- Ivanka Trump
+- Mohammad-Javad Larijani
+- Mohsen Ghanbarian
+- Qassem Soleimani
+organisations:
+- Baghdad International Airport
+- Channel 3
+- Euronews
+- IRGC
+- New York Post
+- Quds Force
+- Secret Service
+- Tasnim
+- US Secret Service
 ---
 
 **Euronews Persian**

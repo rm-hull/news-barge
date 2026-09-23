@@ -15,6 +15,44 @@ categories:
 - News & Politics
 - History
 - Business & Entrepreneurship
+locations:
+- Europe
+- France
+- Gulf
+- Iran
+- Islamic Republic
+- Istanbul
+- Kingdom of
+- Kremlin
+- Middle East
+- Near and Middle East
+- Paris
+- Riyadh
+- Russia
+- Saudi Arabia
+- US
+- Ukraine
+- United States
+- Val-d'Oise
+people:
+- Emmanuel Macron
+- Jamal Khashoggi
+- Jamal] Khashoggi ?
+- Julien Bayou
+- Mohammed bin Salman
+- Serge Duchêne
+- Yannick Jadot
+- bin Salman
+- Élysée
+organisations:
+- Dragon Ball
+- Emmanuel Macron
+- Europe Écologie-Les Verts
+- Franco-Saudi Strategic Partnership Council
+- Le Parisien
+- MBS
+- United Nations
+- Élysée
 ---
 
 **Serge Duchêne**

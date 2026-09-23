@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- County Durham
+- North Shields
+- Peterborough
+- Peterlee Magistrates’ Court
+- Whittlesey
+people:
+- Tarisai Taruvinga
+organisations:
+- Durham Constabulary
+- Newsquest
+- Vauxhall
 ---
 
 *(Image: Newsquest)*

@@ -11,6 +11,14 @@ description: WhatsApp’s two-step verification previously relied on a six-digit
 image: https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800
 categories:
 - Technology & Software
+locations: []
+people: []
+organisations:
+- Facebook
+- Instagram
+- Meta
+- WhatsApp Passkeys
+- WhatsApps
 ---
 
 WhatsApp announced Tuesday that it’s launching new security features and updates to help users keep their accounts secure, including stronger two-step verification and the ability to add more than one passkey to your account. The Meta-owned app is also adding context to calls from unknown numbers.

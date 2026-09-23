@@ -15,6 +15,18 @@ categories:
 - Personal Finance & Investing
 - Real Estate
 - Business & Entrepreneurship
+locations:
+- Durham
+- North East
+- North Yorkshire
+- River Tees
+- Stockton
+- Teesside
+people: []
+organisations:
+- Aldi
+- Lidl
+- Pattinson Estate Agents
 ---
 
 *(Image: Pattinson Estate Agents)*

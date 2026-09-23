@@ -10,6 +10,16 @@ image: https://cdn.mos.cms.futurecdn.net/F8GmZXNJTQZttVhvkvgpp9-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- AI
+- CISO
+- Future plc
+- State of Software Security
+- TechRadar Pro
+- TechRadarPro
+- Veracode
 ---
 
 ![Hacking red and blue digital binary code matrix 01 background.](https://cdn.mos.cms.futurecdn.net/F8GmZXNJTQZttVhvkvgpp9.jpg) 

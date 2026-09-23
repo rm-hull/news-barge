@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Canada
+- Canada-U.S.
+- China
+- Michigan
+- Minnesota
+- New York
+- Ontario
+- Russia
+- U.S.
+- United States
+- United States of America
+- Washington
+people:
+- '## Trump'
+- Donald Trump
+- Doug Ford
+- Jamieson Greer
+- Mark Carney
+- Rob Ford
+organisations:
+- '## Ford'
+- General Motors
+- Pentagon
+- Progressive Conservative
+- Stellantis
+- The Associated Press
+- Trump
 ---
 
 Canada is preparing to unveil retaliatory tariffs against the United States on Tuesday, an individual familiar with the strategy revealed, heightening a trade conflict that has worsened sharply after negotiations with the Trump administration fell through.

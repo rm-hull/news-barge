@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Calder Holmes Park
+- Calder Valley
+- Calderdale
+- Hebden Bridge
+people: []
+organisations:
+- Calderdale Inside Out
+- Environment Agency
+- FBC
+- Flood and Coastal Erosion Risk Management Grant in Aid
+- Floodline
+- Full Business Case
+- Hebden Bridge Flood Alleviation Scheme
+- The Environment Agency
 ---
 
 # Calderdale town's controversial £81m flood scheme faces new delay

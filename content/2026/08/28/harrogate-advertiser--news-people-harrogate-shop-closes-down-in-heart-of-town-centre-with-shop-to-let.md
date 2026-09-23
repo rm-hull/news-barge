@@ -13,6 +13,19 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Beulah Street
+- Britain
+- Harrogate
+- Oxford Street
+- UK
+people: []
+organisations:
+- British Heart Foundation
+- Cancer Research UK
+- National Insurance
+- Oxfam
+- Vinted
 ---
 
 # Harrogate shop closes down in heart of town centre with 'shop to let' signs going up

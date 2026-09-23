@@ -13,6 +13,17 @@ categories:
 - UK
 - Family & Parenting
 - Health & Fitness
+locations:
+- England
+- London
+- UK
+people:
+- Mary Ramsay
+organisations:
+- PCV
+- UK Health Security Agency
+- UKHSA
+- World Health Organisation
 ---
 
 Uptake rates for every routine vaccine provided to protect babies from severe illnesses have dropped once again, latest official data reveals.

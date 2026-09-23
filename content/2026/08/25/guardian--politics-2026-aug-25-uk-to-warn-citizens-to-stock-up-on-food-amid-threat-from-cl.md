@@ -12,6 +12,33 @@ image: https://i.guim.co.uk/img/media/d5d28cd2216411e8a11b8e10e19912025b880a8b/4
 categories:
 - UK
 - News & Politics
+locations:
+- Berkshire
+- Britain
+- Iran
+- Kremlin
+- Kyiv
+- Russia
+- Slough
+- UK
+- Ukraine
+- Whitehall
+people:
+- Andy Burnham
+- Darren Jones
+- Dmitry Peskov
+- Keir Starmer
+- Louise Haigh
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- Cabinet Office
+- Cobra
+- FT
+- Guardian
+- Kyiv
+- Makerfield
+- Nato
 ---
 
 UK citizens will be told to stock up on tinned food and take steps to ensure they are prepared for national emergencies as part of a new government campaign to improve the nation’s resilience.

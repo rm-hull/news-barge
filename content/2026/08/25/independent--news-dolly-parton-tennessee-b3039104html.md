@@ -15,6 +15,12 @@ categories:
 - UK
 - Arts & Culture
 - Music
+locations:
+- Tennessee
+people:
+- Dolly Parton
+- Jolene
+organisations: []
 ---
 
 Dolly Parton’s life and career as a country music icon, actor and philanthropist, in photos

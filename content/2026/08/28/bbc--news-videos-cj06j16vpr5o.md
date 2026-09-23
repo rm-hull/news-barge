@@ -12,6 +12,12 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- China
+- Nepal-Tibet
+people:
+- Laura Bicker
+organisations: []
 ---
 
 # Watch: Why rescuers fear new barrier lake could cause new Nepal-Tibet flood

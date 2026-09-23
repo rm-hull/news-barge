@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Australia
+- Kangaroo Island
+- King Island
+- New Zealand
+- Philip Island.
+- Phillip Island
+- Phillip Island.
+- St Kilda
+- Summerlands
+- Tasmania
+- Victoria
+people:
+- Catherine Basterfield
+- Jaclyn Symes
+- James Todd
+- John Cockrem
+organisations:
+- Arthur Rylah Institute
+- Massey University
+- Phillip Island Nature Parks
+- Rangers
+- South Australia
 ---
 
 More than 1,000 little penguins have received their first dose of bird flu vaccine in Victoria, in what is believed to be the world’s largest vaccination program involving wild birds.

@@ -15,6 +15,14 @@ categories:
 - News & Politics
 - Family & Parenting
 - Society & Culture
+locations:
+- Brighouse
+people:
+- Christopher Klavins’
+- Christopher Smith
+- Klavins
+organisations:
+- Bradford Crown Court
 ---
 
 *(Image: Pexels)*

@@ -14,6 +14,23 @@ categories:
 - Local
 - Harrogate
 - Careers & Productivity
+locations:
+- Saint Michael's Hospice
+people:
+- Nicola Ridgeway
+- Sophie Fisher
+- Stacey Webster
+- Steve Moss-Blundell
+organisations:
+- Big Sleepout
+- Cedar Court Hotel Harrogate
+- Harrogate Homeless Project
+- Harrogate Rugby Club
+- Harrogate Spring Water
+- Hotel Manager
+- Saint Michael's Hospice
+- Titan Wealth
+- Your Harrogate team
 ---
 
 # 'Fantastic response' so far to forthcoming Big Harrogate Sleepout for vital work of two local charities

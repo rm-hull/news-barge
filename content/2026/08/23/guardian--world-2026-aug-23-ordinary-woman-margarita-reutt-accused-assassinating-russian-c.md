@@ -14,6 +14,40 @@ categories:
 - News & Politics
 - True Crime
 - History
+locations:
+- Anapa
+- Black Sea
+- Crimea
+- Crimean
+- Cuba
+- Kremlin
+- Minsk
+- Moscow
+- Novosibirsk
+- Reutt
+- Rostov
+- Russia
+- Samara-Adler
+- Sevastopol
+- Sochi
+- Sri Lanka
+- Thailand
+- Turkey
+- Ukraine
+- Vitauct
+- Yaroslavl
+people:
+- Gennadiy Garbuzov
+- Kyiv
+- Margarita Reutt
+- Margarita Yakovleva
+- Rita
+- Robert Shageev
+organisations:
+- FSB
+- Guardian
+- Telegram
+- Vitauct
 ---
 
 It was just after dawn in Sevastopol when a powerful explosion tore through a quiet square in a residential district of the Russian-occupied Crimean port city.

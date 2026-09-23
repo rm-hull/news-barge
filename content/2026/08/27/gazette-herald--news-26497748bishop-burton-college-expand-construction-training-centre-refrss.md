@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- YOUR
+people:
+- Danny Metters
+organisations:
+- Bishop Burton College
+- Department for Education’s Construction Skills Capacity Fund
+- Portal A
+- Public Notice Portal
 ---
 
 ### What is the Public Notice Portal?

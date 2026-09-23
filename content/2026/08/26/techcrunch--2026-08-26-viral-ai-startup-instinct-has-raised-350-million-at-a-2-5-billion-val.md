@@ -12,6 +12,16 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations: []
+people:
+- Noah Shinn
+organisations:
+- AI
+- Benchmark
+- Index Ventures
+- Instinct
+- Spear Street Technology
+- Wall Street Journal
 ---
 
 Instinct, a startup founded only last year and helmed by a 23-year-old, has managed to ride the wave of AI enthusiasm toward a gargantuan valuation over the course of the summer.

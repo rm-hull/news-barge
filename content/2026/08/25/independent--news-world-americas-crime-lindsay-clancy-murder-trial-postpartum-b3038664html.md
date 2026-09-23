@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Cleveland
+- Massachusetts
+- UK
+- USA
+people:
+- '![Clancy'
+- Avram Mack
+- Callan
+- Cora Clancy
+- Dawson
+- Kevin Reddington
+- Kirk Heilbrun
+- Lindsay Clancy
+- Paul Zeizel
+- Phillip Resnick
+organisations:
+- 988 Suicide and Crisis Lifeline
+- Samaritans
 ---
 
 Jurors in Lindsay Clancy’s murder trial are expected to hear from the final witnesses Tuesday after nearly a month of testimony centered on her mental state when she killed her three young children.

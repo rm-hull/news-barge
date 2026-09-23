@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- A64
+- Acomb
+- Fulford
+- Tadcaster
+- York
+people: []
+organisations:
+- Newsquest
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Newsquest)*

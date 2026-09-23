@@ -12,6 +12,17 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations: []
+people:
+- Merlyn Thomas
+- Mesut Ersoz
+- Sally Nicholls
+- Tom Joyner
+organisations:
+- BBC Verify
+- Cleveland Police
+- Middlesbrough
+- TikTok
 ---
 
 # Videos showing dangerous driving easily found on social media

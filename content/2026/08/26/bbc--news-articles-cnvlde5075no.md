@@ -12,6 +12,45 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Australia
+- Bhotekoshi River
+- Bhutan
+- China
+- Finland
+- France
+- Gyirong
+- Kathmandu
+- Mount Kailash
+- Nepal
+- Nepal-Tibet
+- Norway
+- Nukawot
+- Nuwakot
+- Rasuwa
+- Switzerland
+- Tibet
+- Trishuli
+- UK
+- US
+people:
+- Andy Burnham
+- Ed Miliband
+- Kumar Adhikari
+organisations:
+- Alpine Eco Trek
+- BBC
+- CCTV
+- EU
+- Fishtail Tours
+- Foreign Office
+- Kailash Journeys
+- National Disaster Risk Reduction and Management Authority
+- Nepal Tourism Board
+- PA
+- Press Association
+- Trekkers' Society
+- US Geological Survey
 ---
 
 ![Mud covers houses and a road following a flash flood at Trishuli in Nuwakot district, Nepal, August 26, 2026.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/e0e7/live/b8d38ff0-a159-11f1-b109-879e35c24276.jpg)

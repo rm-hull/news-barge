@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Darlington
+- Denton Hall
+- Europe
+- North East
+people:
+- Anna Clayton
+- Arapaho Gold
+- Barney McGrew
+- Chloe Dods
+- Danny Souter
+- Des Scott
+- Doug Graham
+- Lee Clark
+- Mae
+- Michael Dods
+- Peter Barron
+- Ralph
+- Zac
+organisations:
+- Arapaho Gold
+- Dakota Gold
+- Darlington
+- Great British Horseracing
+- HORSE-LOVERS
+- Northern Express
 ---
 
 HORSE-LOVERS turned out in force yesterday to be given a fascinating insight into life behind the scenes at a leading North East racing yard.

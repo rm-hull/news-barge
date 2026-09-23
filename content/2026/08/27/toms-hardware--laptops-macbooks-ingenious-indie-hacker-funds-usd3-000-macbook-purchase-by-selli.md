@@ -15,6 +15,26 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- BrandMyTesla
+- Im Bulent
+- Jonathan Wilke
+- Mark Tyson
+- Tom
+- Vincent
+organisations:
+- Apple
+- Brand My Mac
+- FAQ
+- Google News
+- IRL
+- NFT
+- Outbid
+- RISTI
+- Tom's Hardware
+- Twitter/X
+- VynseDev
 ---
 
 ![Brand My Mac website](https://cdn.mos.cms.futurecdn.net/2eNt2BcSrH25wjrHuFcYTe.jpg) 

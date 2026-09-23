@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Africa
+- Biombo
+- Bissau
+- Guinea-Bissau
+people:
+- Magda Robalo
+- Sandra Martins
+organisations:
+- Institute for Global Health and Development
+- Unicef
+- World Health Organization
 ---
 
 More than half of the mpox cases reported in Guinea-Bissau have been among children, local authorities have said, almost two months since the country announced an epidemic.

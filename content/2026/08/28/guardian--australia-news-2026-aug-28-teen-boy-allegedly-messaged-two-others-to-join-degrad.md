@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Sydney
+people:
+- Jai Rose
+- Jeff Tunks
+- Rhonda Riley
+- Sgt Riley
+organisations: []
 ---
 
 Two boys allegedly invited to join a “degrading” and “humiliating” gang-rape in Sydney have been granted bail.

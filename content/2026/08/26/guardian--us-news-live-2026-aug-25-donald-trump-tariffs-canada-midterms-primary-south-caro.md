@@ -13,6 +13,78 @@ image: https://i.guim.co.uk/img/media/520e2f2d26a6fbd0c991abe4e8ec356cb50122b9/5
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Aynor
+- California
+- East Tennessee
+- Georgia
+- Horry County
+- Julian
+- Lancaster
+- Michigan
+- Myrtle Beach
+- Myrtle Beach Convention Center
+- New York
+- North Carolina
+- Ohio
+- Pennsylvania
+- Richmond
+- South Carolina
+- US Capitol
+- United States Capitol Police
+- Washington DC
+people:
+- Aynor
+- Barack Obama
+- Bill Bullard
+- Bill Clinton
+- Chuck Schumer
+- Conway
+- Darline Graham
+- Dolly Parton
+- Donald Trump
+- George Chidi
+- George W Bush
+- Hakeem Jeffries
+- Hillary
+- Jon Ossoff
+- Josh Shapiro
+- Julius H. Goodson
+- Kristen McDonald Rivet
+- Lamar
+- Laura
+- Linda
+- Lindsey Graham
+- Michelle
+- Philan-Tam-Duy Le
+- Ralph Norman
+- Robert F Kennedy Jr
+- Roy Cooper
+- Russell Fry
+- Saul Loeb
+- Sherrod Brown
+- Tim Scott
+- Zachary Cogan
+organisations:
+- 4th Circuit US Court of Appeals
+- AFP
+- AP
+- Associated Press
+- Congress
+- District of Columbia
+- FCC
+- Federal Communications Commission
+- House Freedom Caucus
+- Imagination Library
+- National Republican Congressional Committee
+- National Republican Senatorial Committee
+- Postal Service
+- Senate
+- Supreme Court
+- Trump
+- US Postal Service
+- USPS
 ---
 
 Trump endorsement helps boost Darline Graham in South Carolina primary to replace her late brother in US Senate – live

@@ -11,6 +11,24 @@ image: https://cdn.mos.cms.futurecdn.net/CmM2jsgtAUNEHVoV48L8rh-320-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Slovakia
+- U.S.
+people:
+- Trump
+organisations:
+- AMD
+- Dutch National Cyber Security Centre
+- FBI
+- Geekom
+- Get Tom's Hardware
+- Microsoft
+- NASA
+- NCSC-NL
+- Senate
+- Siemens
+- U.S. Department of Justice
+- Web Audio
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/CmM2jsgtAUNEHVoV48L8rh-320-80.jpg)

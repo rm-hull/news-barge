@@ -12,6 +12,58 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Big Slough
+- Brandon
+- Calumet Townhomes
+- De Smet
+- Downtown
+- Kingsbury County
+- Lake Thompson
+- Laura Ingalls Wilder State Park
+- Main Street
+- Manchester
+- S.D.
+- Silver Lake
+- Sioux Falls
+- South Dakota
+- U.S. Highway 14
+- Wilder Pass
+people:
+- Aughenbaugh
+- Aughenbugh
+- De Smet
+- Grace Aughebaugh
+- Greg Carmon
+- Ingalls Wilder
+- Jordan Paul Scheuermann
+- Laura Ingalls Wilder
+- Rita Anderson
+- Todd Wilkinson
+organisations:
+- American Bank & Trust
+- Augustana University
+- Beautiful De Smet Committee
+- Build Dakota Scholarship
+- Buildner
+- De Smet
+- De Smet City Council
+- De Smet EDC
+- De Smet Economic Development Corp
+- De Smet Farm Mutual
+- DesCo Manufacturing
+- Ingalls Wilder
+- Legend Seeds
+- Lyle Signs
+- Maynard’s
+- Midstate Agronomy
+- Midwest Railcar Repair
+- News Watch
+- Riverview LLC
+- South Dakota News Watch
+- The Associated Press
+- United Way
+- Warne’s Appliance
 ---
 
 Even though it happened more than a decade ago, Rita Anderson can still recall the worry she felt as all her hard work, planning and fundraising to build a community and event center in De Smet appeared to be fizzling out at the very last minute.

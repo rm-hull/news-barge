@@ -12,6 +12,30 @@ categories:
 - Technology & Software
 - Arts & Culture
 - Video Gaming
+locations:
+- Hollywood
+- Seven Kingdoms
+people:
+- Charles Dance
+- George RR Martin
+- Jaime Lannister
+- Jon Snow
+- Lucy
+- Robb Stark
+- Tywin Lannister
+organisations:
+- AI
+- HBO
+- House Lannister
+- House Stark
+- Lucy Buglass
+- Lucy Goes
+- Rotten Tomatoes
+- Targaryens
+- TechRadar
+- The Simpsons
+- The Starks
+- White Walkers
 ---
 
 ![Game of Thrones: War for Westeros logo](https://cdn.mos.cms.futurecdn.net/8RKs7xshMSttENGZk8bLun.png) 

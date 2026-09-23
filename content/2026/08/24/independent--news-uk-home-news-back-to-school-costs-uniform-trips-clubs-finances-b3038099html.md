@@ -11,6 +11,15 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Middle East
+- UK
+people:
+- Fred Powell
+organisations:
+- Bank of England
+- Finder
+- Nationwide
 ---
 
 Families are paying more than £15,500 per child over the course of their school years in “hidden” expenses, new research has found, as the cost of living continues to rise.

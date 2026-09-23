@@ -11,6 +11,16 @@ image: https://cdn.mos.cms.futurecdn.net/V5oXmXxBJcyKZ2KE6GifJ7-320-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people: []
+organisations:
+- AI
+- Get Tom's Hardware
+- Micron
+- OWC
+- SanDisk
+- Seagate
+- Xbox
 ---
 
 ## Explore External SSDs

@@ -13,6 +13,23 @@ categories:
 - Local
 - Harrogate
 - Music
+locations:
+- Battersea Power Station
+- Brighton
+- Harrogate
+- James Street
+- Marlow
+- North of England
+people:
+- Alison Hammond
+- Davina McCall
+- Jo Tutchener Sharp OBE
+organisations:
+- Bolt Room
+- Castle Fine Art
+- Harrogate
+- Scamp & Dude
+- Scamp & Dued
 ---
 
 # Popular British fashion band picks Harrogate as location for its first store in North of England

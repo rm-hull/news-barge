@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Careers & Productivity
+locations:
+- Bradford
+- England
+- Wales
+people:
+- Josh Felber
+organisations:
+- DWP State Pension
+- FLBR Motorsport
+- Home Bargains
+- St Michael
+- Tesco
+- Waitrose
 ---
 
 *(Image: Getty Images)*

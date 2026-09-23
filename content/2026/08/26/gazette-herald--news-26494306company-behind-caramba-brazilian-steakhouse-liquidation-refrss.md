@@ -13,6 +13,31 @@ categories:
 - Harrogate
 - York
 - Food & Cooking
+locations:
+- Brook Street
+- Clifton Moor Retail Park
+- Selby
+- York
+people:
+- Dave Broadbent
+- Mike Jenkins
+- Rafi
+- Selby
+organisations:
+- AD Restaurants
+- AD Restaurants Ltd
+- BTG
+- Caramba Brazilian Steakhouse
+- Caramba Steakhouse
+- FK Building Ltd of Harrogate
+- Frango Eduardo Ltd
+- Google
+- JA Restaurants Ltd
+- NQ
+- Selby
+- Spicebox of York
+- Trapadvisor
+- Tripadvisor
 ---
 
 The company behind the much-loved Caramba Brazilian Steakhouse restaurants in York and Selby has gone into liquidation.

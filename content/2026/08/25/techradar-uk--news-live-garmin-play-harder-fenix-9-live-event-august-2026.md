@@ -9,6 +9,20 @@ description: Here's our coverage of Garmin's live 'Play Harder' event as it happ
 image: https://cdn.mos.cms.futurecdn.net/zQtzEtvsQ8XLGMeMPHrUaW-1700-80.jpg
 categories:
 - Technology & Software
+locations:
+- America
+- Australia
+- UK
+- US
+people:
+- Matt Evans
+organisations:
+- Edge
+- Garmin Fenix
+- Hello
+- InReach
+- TechRadar
+- YouTube
 ---
 
 ![Garmin Fenix 8 Pro](https://cdn.mos.cms.futurecdn.net/zQtzEtvsQ8XLGMeMPHrUaW.jpg) 

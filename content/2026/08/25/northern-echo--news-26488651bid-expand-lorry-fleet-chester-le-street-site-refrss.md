@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Chester-le-Street
+- County Durham
+- Leeds
+- Millbrook Road East
+- Quarry Hill
+- Southampton
+- YOUR
+people: []
+organisations:
+- DH3 2TB
+- Freemantle Business Centre
+- LS2 7UE
+- NVD U.K Ltd
+- O’Brien Business Park
+- Public Notice Portal
+- Public Notice Portal A
+- Quarry House
+- SO151JR
+- The Northern Echo
+- Yard G
 ---
 
 *(Image: Supplied)*

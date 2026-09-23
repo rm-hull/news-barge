@@ -13,6 +13,34 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- AI
+- Australia
+- China
+- Hong Kong
+- India
+- Iran
+- Japan
+- South Korea
+- Taiwan
+- U.S.
+- Wall Street
+people:
+- Stan Choe
+organisations:
+- Facebook
+- FactSet
+- Fed
+- Federal Reserve
+- Hang Seng
+- Instagram
+- Kospi
+- Meta Platforms
+- Nvidia
+- OpenAI
+- Samsung Electronics
+- Sensex
+- SoftBank Group
 ---
 
 Asian stocks were mixed on Thursday following modest losses on Wall Street, while oil prices declined.

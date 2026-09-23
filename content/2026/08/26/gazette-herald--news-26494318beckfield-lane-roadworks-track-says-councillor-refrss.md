@@ -15,6 +15,25 @@ categories:
 - Business & Entrepreneurship
 - News & Politics
 - Technology & Software
+locations:
+- Acomb
+- Beckfield Lane
+- East Yorkshire
+- Knapton Lane
+- Lidgett Grove
+- North Yorkshire
+- Ostman Road
+- Wetherby Road
+- YOUR
+- York
+people:
+- Cllr Rose
+- Jason Rose
+- Katie Lomas,a
+- Myself
+organisations:
+- Public Notice Portal
+- The Press
 ---
 
 ### What is the Public Notice Portal?

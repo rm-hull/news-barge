@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- CANADA
+- Canada
+- Mexico-Canada
+- Ottawa
+- U.S.
+- US
+- United States
+- United States of America
+- Washington
+- White House
+people:
+- Donald Trump
+- Mark Carney
+- Ronald Reagan
+organisations:
+- Automotive Parts
+- Bank of England
+- Nations in the World
+- Steel
+- Truth Social
 ---
 
 President Donald Trump threatened to punish American car owners and buyers by unilaterally imposing a 50 percent import tax on any car or auto parts produced in Canada, escalating the unprovoked trade war he has been waging against America’s northern neighbor since returning to power last year.

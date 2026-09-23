@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Filey
+- Harrogate
+- Helmsley Easingwold
+- Knaresborough
+- North Yorkshire
+- Richmond
+- York
+people:
+- David Skaith
+organisations:
+- City of York Council
+- Easingwold
+- Helmsley
+- North Yorkshire Council
+- Town Investment Plans
 ---
 
 ## New plans aim to shape future investment in Easingwold and Helmsley

@@ -16,6 +16,12 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Bradford
+people: []
+organisations:
+- Bradford Council
+- Osprey
 ---
 
 *(Image: Bradford Council)*

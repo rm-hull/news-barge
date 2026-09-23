@@ -11,6 +11,18 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- China
+people:
+- Dave Plummer
+organisations:
+- Get Tom's Hardware
+- Microsoft Defender
+- Ministry of State Security
+- RAM
+- TMOG
+- Task Manager
+- VLC
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/7ndgbD4kf8HpWSzWyLQHKW-320-80.jpg)

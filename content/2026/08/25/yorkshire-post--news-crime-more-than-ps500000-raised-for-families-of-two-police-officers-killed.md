@@ -14,6 +14,36 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- A66
+- Cleveland
+- Darlington
+- Euston
+- Middlesbrough
+- Sellafield
+people:
+- Lucy D’Orsi
+- Matthew Blades
+- Owen Humphreys
+- PC Blades
+- PC Clough
+- Paul Cooper
+- Pc Matthew Blades
+- Pc Tom Clough
+- Richard Clark
+- Tom Clough
+organisations:
+- BTP
+- British Transport Police
+- CNC
+- Civil Nuclear Constabulary
+- Cleveland Police
+- Cleveland Police Federation
+- FC Hartlepool
+- Reds
+- Seahawks
+- Seaton Carew FC
+- Sellafield Operational Policing Unit
 ---
 
 # More than £500,000 raised for families of two police officers killed in crash

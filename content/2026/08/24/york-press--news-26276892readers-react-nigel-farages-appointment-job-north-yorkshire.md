@@ -12,6 +12,34 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Clacton
+- Kirbymoorside
+- Manor of Northstead
+- North Yorkshire
+- Scarborough
+- The Manor
+- UK
+people:
+- Bailiff
+- Heidi
+- Joanne
+- Mick
+- NigeBoddy
+- Nigel Farage
+- Rachel Reeves
+- Sue
+organisations:
+- Crown Steward
+- Exchequer
+- House Of Commons
+- House of Commons
+- Manor of Northstead
+- PA)* Press
+- Reform UK
+- The Press
+- The Steward
+- TheGrumpyNihilist
 ---
 
 ## Objections raised against Nigel Farage’s appointment in North Yorkshire

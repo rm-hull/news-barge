@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Canada
+- Maine
+- Nova Scotia
+- US
+- Washington DC
+people:
+- Donald Trump
+- Jamieson Greer
+- Mark Carney
+- Susan Collins
+- Tim Houston
+organisations:
+- CBC News
+- Canadian Club
+- Charmin
+- Costco
+- Crown Royal
+- Procter & Gamble
+- World Bank
 ---
 
 Using the bathroom or having a cry is about to become more expensive for North Americans as the US and Canada enter a full-fledged trade war that threatens to flush away decades of peaceful trading between the two nations.

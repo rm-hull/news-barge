@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Bishop Auckland
+- Newgate Street
+people:
+- Andy Burnham
+organisations:
+- Durham A&E
+- Durham Police
+- Facebook
+- Kirklevington
+- Lego
+- NEAS
+- NORTHERN ECHO
+- North East Ambulance Service
+- Northern Echo
+- THE NORTHERN ECHO
+- The Brow Lounge
 ---
 
 Dramatic pictures show the aftermath of a crash which left a Bishop Auckland beauty business severely damaged.

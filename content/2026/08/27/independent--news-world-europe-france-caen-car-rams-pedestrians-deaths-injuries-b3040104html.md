@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Atlantic
+- Caen
+- France
+- Ouistreham
+- Russia
+people:
+- Bruno Coutanceau
+- Christophe Sueur
+- David Claviere
+- Pascal Markowsky
+organisations:
+- CCTV
+- Reuters
+- Specialised Crime Division
+- department of Calvados
 ---
 
 At least one person has been killed and 10 others have been injured after a car deliberately rammed into a group of pedestrians standing outside a train station in France.

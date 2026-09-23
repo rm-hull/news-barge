@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Atlantic
+- Iran
+- Mexico
+- Middle East
+- Myrtle Beach
+- South Carolina
+- South Carolina Sen
+- Strait of Hormuz
+- U.S.
+- United States
+- United States of America
+- Washington
+- White House
+people:
+- Barack Obama
+- Bill Clinton
+- Darline Graham
+- David Axelrod
+- Donald Trump
+- George W Bush
+- Joe Biden
+- Olivia Wales
+organisations:
+- Congress
+- House of Representatives
+- Independent
+- MAGA Inc
+- Oval Office
+- PAC
+- Reuters/Ipsos
+- Senate
+- Trump
 ---
 
 President Donald Trump intends to put himself at the front and center of this fall’s Republican midterms campaigning, despite not being on the ballot and in spite of his dire approval ratings, according to a report.

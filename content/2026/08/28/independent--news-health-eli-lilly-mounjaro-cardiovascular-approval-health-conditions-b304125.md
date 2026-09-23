@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Chapel Hill
+- Mounjaro
+- U.S.
+- US
+people:
+- Alzheimer
+- Lilly
+- Mounjaro
+organisations:
+- '## Liver disease Novo'
+- Danish Headache Center
+- Eli Lilly
+- European Medicines Agency
+- FDA
+- Food and Drug Administration
+- Novo Nordisk
+- U.S. Food and Drug Administration
+- University of North Carolina
+- Wegovy
+- Yale University
 ---
 
 US regulators on Friday authorized Eli Lilly's Mounjaro to lessen the likelihood of heart attacks and strokes in high-risk type 2 diabetes patients. The decision marks the latest step by manufacturers of GLP-1 drugs to broaden the clinical scope of their treatments.

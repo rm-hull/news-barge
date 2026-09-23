@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Earth
+- East Anglia
+- Enniskillen
+- Greenwich
+- Lerwick
+- London
+- Moon
+- Northern Ireland
+- Northern Ireland.
+- Philippines
+- Royal Observatory
+- Scotland
+- Sun
+- UK
+- Wales
+- south-east England
+people: []
+organisations:
+- BBC Weather
 ---
 
 ![Image of Moon with reddish tinge in cloudy skies](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3b60/live/f6d62c90-a1e5-11f1-b132-bb16290da3a7.jpg)

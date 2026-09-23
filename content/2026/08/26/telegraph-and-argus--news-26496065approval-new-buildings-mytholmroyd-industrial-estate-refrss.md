@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Calderdale
+- River Calder
+- Rochdale Canal
+- YOUR
+people:
+- L. Hayes
+organisations:
+- Calderdale Council
+- Canal and Rivers Trust
+- Environment Agency
+- Moderna Way
+- Mytholmroyd
+- Public Notice Portal
+- Public Notice Portal A
+- Wattlid Ltd
 ---
 
 ### What is the Public Notice Portal?

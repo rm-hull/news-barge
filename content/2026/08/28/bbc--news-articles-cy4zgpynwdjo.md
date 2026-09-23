@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Cheshire
+- England
+- Merseyside
+people:
+- Mel Merritt
+- Rebecca Gray
+organisations:
+- Care Quality Commission
+- Independent Healthcare Providers Network
+- NHS Alliance
+- National Autistic Society
+- News Daily
 ---
 
 ![Patient consultation](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8406/live/9fc9a130-a22f-11f1-b109-879e35c24276.png)

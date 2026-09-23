@@ -14,6 +14,18 @@ categories:
 - UK
 - Lifestyle & Fashion
 - Food & Cooking
+locations:
+- Buffalo
+- NY
+- New York
+- San Antonio
+- Texas
+people:
+- Cassy Joy Garcia
+organisations:
+- Little, Brown and Company
+- Monterey Jack
+- Voracious
 ---
 
 These Crispy Baked Buffalo Chicken Tacos from my cookbook “The Protein Meal Prep Plan” are stuffed with a collard slaw made with a protein-packed ranch dressing (yes … protein ranch!) that, I have a feeling, will surprise you by how delicious it is.

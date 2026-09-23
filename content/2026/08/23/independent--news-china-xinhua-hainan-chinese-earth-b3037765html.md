@@ -11,6 +11,17 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- China
+- Earth
+- Hainan
+- Wenchang
+people:
+- Chang’e
+organisations:
+- China Manned Space Agency
+- Wenchang Space Launch Site
+- Xinhua
 ---
 
 China said on Sunday it was postponing its planned ambitious Chang’e-7 lunar mission, which was set to carry out explorations including searching for water ice on the moon.

@@ -12,6 +12,39 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Balmoral
+- Buckingham Palace
+- California
+- Montecito
+- Princess of Wales
+- UK
+people:
+- Andy Burnham
+- Archie
+- Catherine
+- Charles
+- Elizabeth
+- Harry
+- Harry’s
+- Kate
+- Lilibet
+- Meghan
+- Queen
+- Ravec
+- William
+organisations:
+- Duchess of Sussex
+- Duke of Sussex
+- Executive Committee for the Protection of Royalty and Public Figures
+- Home Office
+- Metropolitan Police
+- Ravec
+- Risk Management Board
+- Royal Household –
+- Sussexes’
+- The Times
+- YouGov
 ---
 
 The public thinks Prince Harry and Meghan should pay for all or at least part of their security detail, a new poll has revealed.

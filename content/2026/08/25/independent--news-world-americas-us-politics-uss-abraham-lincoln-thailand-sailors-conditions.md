@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Florida
+- Iran
+- Key West
+- Middle East
+- Nicaragua
+- San Diego
+- Southeast Asia
+- Thailand
+- U.S.
+- UK
+- USA
+- USS Abraham Lincoln
+people:
+- Abraham Lincoln
+- Joshua Aviles
+- Luis Manuel Aviles Roa
+- Pete Hegseth
+organisations:
+- 988 Suicide and Crisis Lifeline
+- Border Patrol The
+- DHS
+- Department of Homeland Security
+- Facebook
+- ICE
+- Immigration and Customs Enforcement
+- Marines
+- Navy Times
+- Samaritans
+- Thai Navy
+- U.S. Border Patrol
+- U.S. Navy
 ---
 
 USS Abraham Lincoln is set to dock in Thailand next week, giving sailors a chance for “rest and recreation” after reports of declining conditions and mental health issues onboard the ship.

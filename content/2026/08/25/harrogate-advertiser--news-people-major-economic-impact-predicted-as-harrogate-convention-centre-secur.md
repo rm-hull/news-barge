@@ -14,6 +14,20 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Harrogate Convention Centre
+- Paris
+- Toronto
+- UK
+- Valley Gardens
+people:
+- Helen Lachmann
+- Jamila Bray
+organisations:
+- '## Harrogate Convention Centre'
+- Harrogate Convention Centre
+- ISSAID
+- The International Society of Systemic Autoinflammatory Diseases
 ---
 
 # 'Major economic impact' predicted as Harrogate Convention Centre secures contract to host international conference

@@ -12,6 +12,18 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Halifax Road
+- McDonald’s
+- Sun Wood Service Station
+people: []
+organisations:
+- Branch Busters Tree Services Limited
+- Calderdale Council
+- McDonalds
+- McDonald’s
+- Planning Committee
+- Shelf
 ---
 
 # Ash dieback blight on edge of McDonald’s site at Shelf

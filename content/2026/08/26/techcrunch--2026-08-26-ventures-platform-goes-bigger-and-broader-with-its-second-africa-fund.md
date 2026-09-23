@@ -13,6 +13,25 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Egypt
+- Ghana
+- Kenya
+- Nigeria
+- Norway
+- South Africa
+people:
+- Kola Aina
+organisations:
+- AI
+- Ashesi University Foundation
+- European Bank for Reconstruction and Development
+- Fund II
+- Fund I’s LPs
+- Norfund
+- SaaS
+- TechCrunch
+- Ventures Platform
 ---
 
 Ventures Platform has raised an oversubscribed $84 million second fund as the Pan-African venture firm expands beyond its home market of Nigeria with a strategy shaped by a tougher, more selective venture market.

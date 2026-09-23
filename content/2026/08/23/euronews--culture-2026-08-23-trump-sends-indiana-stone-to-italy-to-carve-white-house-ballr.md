@@ -13,6 +13,40 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Apuan Alps
+- California
+- Carrara
+- East Wing
+- Indiana
+- Italy
+- Oval Office
+- Pietrasanta
+- Tuscany
+- US
+- United States
+- Washington
+- Washington.
+- White House
+people:
+- Carrara
+- Donald Trump
+- Giancarlo Buratti
+- Giovanni Andrei
+- Joshua Fisher
+- Michelangelo
+- Thomas Jefferson
+organisations:
+- CBS
+- Capitol
+- Commission of Fine Arts
+- East Wing
+- MTStone Carrara S.r.l.
+- National Trust for Historic Preservation
+- Supreme Court
+- Thomas Aquinas College
+- Trump International Hotel
+- White House Management and Administration
 ---
 
 ## The sculptors of the White House's new ballroom façade remain unnamed. Indiana limestone will be worked in Italy, likely in Carrara, Tuscany, the historic centre of marble craft.

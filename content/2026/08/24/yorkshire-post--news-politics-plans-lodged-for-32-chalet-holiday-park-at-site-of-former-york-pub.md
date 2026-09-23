@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- A64
+- Four Alls Inn
+- Malton Road
+- Stockton
+- The Forest
+- York
+- York.
+people: []
+organisations:
+- City of York Council
+- Dennis Harley Developments Ltd
+- Starbucks
 ---
 
 # Plans lodged for 32-chalet holiday park at site of former York pub

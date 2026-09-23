@@ -12,6 +12,47 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Boston
+- Brick Community Stadium
+- Cardiff
+- Central Park
+- England
+- Great Britain
+- Neath
+- New Zealand
+- Pontypridd
+- Sydney Cricket Ground
+- Tiger Bay
+- Wembley
+- Wigan
+people:
+- Billy Boston
+- Clive Sullivan
+- Colin Dixon
+- Dickie Williams
+- Ellery Hanley
+- Gus Risman
+- Joan
+- Johnny Freeman
+- Junior Nsemba
+- Kai Pearce-Paul
+- Martin Offiah
+- Ray French
+- Roy Francis
+organisations:
+- BBC
+- Billy Boston
+- Cardiff International Athletic Club
+- Cardiff RFC
+- Hull KR
+- St Helens
+- Wakefield
+- Wales
+- Wembley
+- Wigan A
+- Wigan Great Britain
 ---
 
 ![Billy Boston in a black and white photo looks forward](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/4e34/live/bc31b550-a078-11f1-bf10-9547e884d7b7.jpg)

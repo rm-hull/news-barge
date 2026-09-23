@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Canada
+- Lake America
+- Lake Ontario
+- New York
+- Seneca
+- U.S.
+people:
+- Donald Trump
+- George Washington
+- J. Conrad Seneca
+- Mark Carney
+organisations:
+- Canadian Confederation
+- Interior Department
+- Iroquois Confederacy
+- Seneca Nation
+- Trump
+- U.S. Declaration of Independence
 ---
 
 The leader of the Seneca Nation in upstate New York is criticizing President Donald Trump's decision to rename Lake Ontario as “Lake America,” saying it violates a more than 225-year-old treaty and shows a “blatant disrespect” for the Indigenous people who gave it its name in the first place.

@@ -12,6 +12,22 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Caribbean
+- Haiti
+- Kenscoff
+- Port-au-Prince
+people:
+- Antonio Guterres
+- Marc Paul
+organisations:
+- Global Initiative Against Transnational Organized Crime
+- Haiti Observatory
+- Le Cour
+- National Police
+- Romain Le Cour
+- UN
+- United Nations
 ---
 
 ## In a video posted on social media, the gang leader threatened to kill the hostages if any of his members were harmed.

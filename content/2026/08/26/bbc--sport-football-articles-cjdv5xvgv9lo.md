@@ -14,6 +14,40 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Austria
+- Glasgow
+- Kairat
+- Linz
+people:
+- Anthony Ralston
+- Auston Trusty
+- Benjamin Nygren
+- Callum McGregor
+- Cameron Carter-Vickers
+- Camilo Duran
+- Dane Murray
+- Kasper Hogh
+- Kieran Tierney
+- Liam Scales
+- Luke McCowan
+- Martin O'Neill
+- Miguel Freckleton
+organisations:
+- AEK Athens
+- Atletico Madrid
+- Barcelona
+- Borussia Dortmund
+- Celtic
+- Cluj
+- Europa League
+- Ferencvaros
+- Kairat Almaty
+- LASK
+- Midtjylland
+- PSG
+- Sparta Prague
+- St Mirren
 ---
 
 ![Celtic captain Callum McGregor looks dejected](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/1fce/live/e1442240-a115-11f1-92eb-a9b3bbcf6f4a.jpg)

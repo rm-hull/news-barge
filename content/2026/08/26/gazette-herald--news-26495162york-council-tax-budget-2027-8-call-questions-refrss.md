@@ -15,6 +15,21 @@ categories:
 - York
 - Personal Finance & Investing
 - News & Politics
+locations:
+- York
+people:
+- Cllr Lomas
+- Debbie Mitchell
+- Katie Lomas
+organisations:
+- BBC
+- City of York Council
+- LDRS
+- Labour
+- Local Democracy Reporter
+- Local Democracy Reporting Service
+- The Press
+- York Council
 ---
 
 PEOPLE in York have been urged to share the questions they have about the council’s budget as work gets underway on plans for the coming financial year.

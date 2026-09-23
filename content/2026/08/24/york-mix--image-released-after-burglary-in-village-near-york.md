@@ -11,6 +11,13 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Escrick
+- Main Street
+people: []
+organisations:
+- North Yorkshire Police
+- Via
 ---
 
 Police investigating a burglary want to trace this woman.

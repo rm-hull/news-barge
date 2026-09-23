@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- U.S.
+people:
+- David D'Alessio
+- D’Alessio
+- Kenneth Custer
+- Lilly
+- Mounjaro
+organisations:
+- American Heart Association
+- Cardiometabolic Health division
+- Division of Endocrinology and Metabolism
+- Duke University School of Medicine
+- Eli Lilly
+- Food and Drug Administration
+- Gallup
+- Mounjaro
+- Trulicity
+- U.S. Food and Drug Administration
 ---
 
 The U.S. Food and Drug Administration has approved the diabetes drug Mounjaro to lower the risk of major cardiovascular events in adults with Type 2 diabetes.

@@ -13,6 +13,56 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Brexit
+- Britain
+- Europe
+- Germany
+- India
+- Italy
+- Newcastle
+- Turkey
+- UK
+- US
+people:
+- Andy Burnham
+- Anthony Seldon
+- Austin Wildmore
+- Boris Johnson
+- Brexit
+- Daisy Cooper
+- David Maddox
+- Douglas Doherty
+- James Mills
+- Keir Starmer
+- Marco Forgione
+- Mike Donovan
+- Mike Galsworthy
+- Millie Cooke
+- Naomi Smith
+- Nigel Farage
+organisations:
+- Apparel Studio Stockport
+- Best for Britain
+- Brexit
+- Canford Audio
+- Chartered Institute of Export and International Trade
+- Commons
+- DACS Audio
+- EU
+- European Movement UK
+- European Movement’s Business Impact Survey
+- G7
+- GCC
+- Gulf Cooperation Council
+- HM Revenue and Customs
+- HMRC
+- Labour
+- Lib Dem
+- Lib Dem Treasury
+- Logistics UK
+- Paws Pet Transport
+- Where Logistics UK
 ---
 
 Brexit is costing the UK £11.7bn a year in lost exports, stark new figures show, piling further pressure on Andy Burnham to rejoin the EU’s single market and customs union.

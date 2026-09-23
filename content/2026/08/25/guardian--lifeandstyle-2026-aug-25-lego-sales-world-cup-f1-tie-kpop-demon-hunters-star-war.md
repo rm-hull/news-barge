@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Americas
+- Asia Pacific
+- Billund
+- Denmark
+- Europe
+- Legoland
+- UK
+people:
+- Niels B Christiansen
+organisations:
+- British Toy and Hobby Association
+- Circana
+- Formula One
+- KPop Demon Hunters
+- Lego Group
 ---
 
 Lego sales have risen by more than a fifth as tie-ups with the football World Cup, Formula One and the hit film KPop Demon Hunters as well as its flower-based and Star Wars kits drive demand.

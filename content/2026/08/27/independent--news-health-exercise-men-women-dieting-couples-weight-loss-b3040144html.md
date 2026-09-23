@@ -13,6 +13,12 @@ categories:
 - Health & Fitness
 - Science
 - Self-Improvement
+locations: []
+people:
+- Justin Roberts
+organisations:
+- Anglia Ruskin University
+- The Times
 ---
 
 Men with partners may find it easier to lose weight, a new study exploring gendered attitudes to dieting has found.

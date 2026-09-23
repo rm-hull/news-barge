@@ -11,6 +11,38 @@ image: https://i.guim.co.uk/img/media/dd6da4bdd6d8ce379491c9a32f8885465ce8c851/3
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- Downing Street
+- Europe
+- Fire Point
+- Flamingo
+- France
+- Kremlin
+- Kyiv
+- London
+- Moscow
+- Russia
+- St Sophia
+- UK Ukraine
+- US
+- White House
+people:
+- Alexander Litvinenko
+- Andy Burnham
+- Dmitry Peskov
+- Keir Starmer
+- Kyiv
+- Luke Harding
+- Oleksandr Merezhko
+- Trump
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- Guardian Faber
+- Kyiv
+- Storm Shadow
+- Trump
 ---
 
 Since moving into Downing Street in July, Andy Burnham – a foreign policy neophyte – has expressed strong support for Ukraine. But on Monday he saw the bitter human cost of the war up close for the first time, visiting Kyiv during his first international trip as prime minister.

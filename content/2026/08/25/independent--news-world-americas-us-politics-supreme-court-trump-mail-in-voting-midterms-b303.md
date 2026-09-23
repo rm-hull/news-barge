@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Law & Justice
+locations:
+- Boston
+- California
+- Nevada
+- North Carolina
+- U.S.
+- Yolo County
+people:
+- Cisco Aguilar
+- David Becker
+- Derek Muller
+- Donald Trump
+- Jesse Salinas
+- Ketanji Brown Jackson
+- Rick Hasen
+- Tammy Patrick
+organisations:
+- Center for Election Innovation & Research
+- Congress
+- Department of Justice
+- Election Assistance Commission
+- Elections Center
+- Notre Dame
+- Postal Service
+- Senate
+- Supreme Court
+- Trump
+- U.S. Postal Service
+- UCLA
 ---
 
 A preliminary Supreme Court decision allowing President Donald Trump’s directive restricting mail-in voting has cast deep uncertainty over the voting process used by nearly a third of the American electorate, even if it fails to alter a single procedure ahead of the November midterms.

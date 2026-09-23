@@ -11,6 +11,29 @@ image: https://static.independent.co.uk/2026/08/25/21/2178234582..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Florida
+- Milton
+- Washington
+people:
+- Deanne Criswell
+- Donald Trump
+- Hampton Dellinger
+- Jamie Raskin
+- Joe Biden
+- Kristi Noem
+- Marn’i Washington
+- Ron DeSantis
+organisations:
+- Congress
+- FEMA
+- Homeland Security
+- House Oversight Committee
+- NewsNation
+- Office of Special Counsel
+- Survey123 —
+- Trump
+- then-FEMA
 ---
 
 FEMA staffers who canvassed homes in the aftermath of Hurricane Milton in 2024 illegally skipped over properties with signs promoting Donald Trump’s presidential campaign, according to a report from a federal watchdog.

@@ -15,6 +15,15 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Gaza
+- Israel
+- Jerusalem
+people:
+- Louis Frankenthaler
+organisations:
+- EU
+- European Union
 ---
 
 Around a dozen Israeli activists gathered outside European Union representative offices in east Jerusalem on 28 August, calling on the bloc to take a stronger position on the war in Gaza.

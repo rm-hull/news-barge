@@ -13,6 +13,17 @@ categories:
 - Science
 - Technology & Software
 - Health & Fitness
+locations:
+- UK
+- US
+people:
+- Arnold Schwarzenegger
+- Brendan Gabriel
+- David Glass
+- Duchenne
+organisations:
+- Regeneron
+- University of Aberdeen
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308827907.jpg?w=840)

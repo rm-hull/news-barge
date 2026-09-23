@@ -14,6 +14,51 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- America
+- Fort Belvoir
+- Fort Benning
+- Fort Bragg
+- Fort Drum
+- Fort Hood
+- Georgia
+- Kentucky
+- New York
+- North Carolina
+- Providence
+- R.I.
+- Texas
+- U.S.
+- US
+- United States
+- Virginia
+people:
+- Chuck Schumer
+- Dan Driscoll
+- Donald Trump
+- Jeff Waksman
+- Rex Geveden
+- Tori Shivanandan
+organisations:
+- AP
+- Antares Nuclear
+- Associated Press’
+- BWX Technologies
+- BWXT
+- Energy Department
+- Fort Campbell
+- Fort Drum
+- General Atomics Electromagnetic Systems
+- Janus Program
+- NRC
+- New York Democrat
+- Radiant Industries
+- Trump
+- U.S. Army
+- U.S. Army Corps of Engineers
+- U.S. Nuclear Regulatory Commission
+- Westinghouse Government Services
+- ___ McDermott
 ---
 
 The U.S. Army announced Wednesday that it plans to add nuclear microreactors at five military bases from New York to Texas as a reliable source of energy independent of the commercial electric grid.

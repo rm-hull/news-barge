@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- South Bank
+people:
+- Cole Robert Worthy
+- Jacob Matusiak
+- Jakub Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Passat
+- Pc Tom Clough
+- Theo Rae
+organisations:
+- Cleveland Police
+- IOPC
+- SOCIAL MEDIA
+- South Bank Police
 ---
 
 Police have confirmed the names of five people who died in the devastating A66 crash in the early hours of Saturday morning.

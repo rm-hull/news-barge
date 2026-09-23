@@ -13,6 +13,11 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations: []
+people: []
+organisations:
+- FBI
+- US Government
 ---
 
 The FBI is dropping a categorical hiring ban on applicants who have had sexual encounters with prostitutes and will instead consider in a more holistic manner at least some candidates who have engaged in the practice in the past, according to people familiar with the matter.

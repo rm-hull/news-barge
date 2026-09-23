@@ -14,6 +14,21 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Keighley Road
+- London
+- Scotland
+- Skipton Farmhouse Fare
+people:
+- Christine Jones
+- Janet Green
+- Kieran Howarth
+- Pam Brockbank
+- Robert Ogden
+- Ted Lee
+organisations:
+- Kent
+- Skipton Farmhouse Fare
 ---
 
 # Skipton Farmhouse Fare: ‘We have been selling sausages and pies for over 50 years and we've never changed our recipes’

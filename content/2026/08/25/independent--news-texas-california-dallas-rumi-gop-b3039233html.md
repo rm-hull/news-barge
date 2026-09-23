@@ -12,6 +12,29 @@ image: https://static.independent.co.uk/2026/08/25/23/Surrogate_Medical_Treatmen
 categories:
 - News & Politics
 - UK
+locations:
+- Alaska
+- America
+- Austin
+- California
+- Dallas
+- Los Angeles
+- Texas
+- West
+people:
+- Gabriel
+- Jeff Domen
+- Lee Budner
+- McKenna West
+- Nausheen Gilkar
+- Omar Ahmed
+- Rumi
+- Surrogate
+organisations:
+- Centers for Disease Control and Prevention
+- Report for America Statehouse News Initiative
+- The Associated Press
+- ___ Wilder
 ---
 
 A California couple in an escalating fight with their surrogate over a newborn with a life-threatening heart defect told a Texas court Tuesday that the child's condition has worsened and they are anguished by attempts to deny them parental rights because they previously wanted an abortion.

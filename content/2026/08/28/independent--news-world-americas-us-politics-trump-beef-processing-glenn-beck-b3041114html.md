@@ -11,6 +11,16 @@ image: https://static.independent.co.uk/2026/06/06/00/2280066027..?width=1200&he
 categories:
 - News & Politics
 - UK
+locations:
+- U.S.
+people:
+- Donald Trump
+- Glenn Beck
+organisations:
+- Farmers and Ranchers
+- Glenn Beck Program
+- Politico
+- Trump
 ---
 
 President Donald Trump announced an effort to allow ranchers to process their own beef - only after conservative political commentator Glenn Beck planted the idea in his head days ealirer. .

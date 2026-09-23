@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Darlington
+- Firthmoor Community Centre
+- North East
+people:
+- Angela Hutchinson
+- Champions’
+- Jemma Redhead
+- Louise Liddle
+- Stuart Boulton
+organisations:
+- Care Home Manager
+- Darlington Care Home Olympics
+- Darlington’s Bank
+- Firthmoor Community Centre
+- Grosvenor Park
+- Grosvenor Park Care Home
+- Marton Care Homes
+- Riverside View Care Home
+- Wellbeing Lead
 ---
 
 *(Image: Stuart Boulton)*

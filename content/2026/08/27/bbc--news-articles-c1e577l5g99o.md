@@ -11,6 +11,23 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/00b3/live/440ecd
 categories:
 - UK
 - News & Politics
+locations:
+- England
+- Wales
+people:
+- Alex Norris
+- Andy Burnham
+- Ellie Butt
+- Keir Starmer
+- Nicole Jacobs
+- Satvir Kaur
+- Shabana Mahmood
+organisations:
+- BBC
+- Home Office
+- Justice
+- Refuge
+- VAWG
 ---
 
 ![Male police officer wearing high visibility jacket and typing on keyboard as he sits behind computer screen](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/00b3/live/440ecda0-a245-11f1-804a-af7f2afa0e85.jpg)

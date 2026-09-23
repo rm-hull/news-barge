@@ -14,6 +14,39 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Australia
+- Beckington
+- Greyhound
+- Melbourne
+- NSW
+- New South Wales
+- New Zealand
+- UK
+- US
+people:
+- Anita Perrottet
+- Beckington
+- Charles Perrottet
+- Charles”
+- Christian Ellis
+- Dominic Perrottet
+- Jean Nassif
+- Jeremy Greenwood
+- Peggy Dwyer SC
+organisations:
+- BP
+- Catholic Cemeteries
+- Deliver Me Drinks
+- Greyhound Racing NSW
+- Icac
+- Inquiry
+- JPG Advisory
+- Liberal
+- Macquarie Consulting
+- NSW Liberals
+- New South Wales Independent Commission Against Corruption
+- Toplace
 ---
 
 The sister-in-law of Dominic Perrottet has rejected the suggestion she had been put in an “impossible situation” and lied under oath to cover illegal donations to her husband, an inquiry has heard.

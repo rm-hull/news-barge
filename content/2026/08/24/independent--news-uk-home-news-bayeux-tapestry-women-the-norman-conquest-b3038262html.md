@@ -11,6 +11,52 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Bayeux
+- Canterbury
+- Durham
+- England
+- Europe
+- France
+- Hastings
+- Leominster
+- Normandy
+- Northampton
+- PA
+- Rome
+- St Augustine’s Abbey
+- UK
+- Wessex
+- Westminster Abbey
+- Wilton Abbey
+- Worcester
+people:
+- Abbot Scolland
+- Alexandra Lester-Makin
+- Ann Williams
+- Earl of Wessex
+- Edith
+- Edward the Confessor
+- Emma
+- Godwin
+- Gytha
+- Hakon
+- Harold Godwinson
+- John
+- King Cnut
+- Marcus Aurelius
+- Natasha R. Hodgson
+- Norman
+- Swein Godwinson
+- Walcher
+- William the Conqueror
+organisations:
+- Barking Abbey
+- Bayeux Museum
+- Centre for History Heritage and Memory Studies
+- Eadgifu
+- Nottingham Trent University
+- The Conversation
 ---
 
 The Bayeux tapestry is one of the most famous pieces of material culture produced in medieval England. The tapestry is fundamentally important for our understanding of the Norman conquest, telling us what happened and how it was remembered.

@@ -14,6 +14,23 @@ categories:
 - Hardware
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Amazon Germany
+- Europe
+people:
+- Hassam Nasir
+- Tom
+organisations:
+- Amazon UK
+- GPU
+- Geizhals
+- Google News
+- MSI
+- Newegg
+- Nvidia
+- Samsung
+- TSMC
+- VRAM
 ---
 
 ![GeForce RTX 3060](https://cdn.mos.cms.futurecdn.net/MngUDZe8sK2je4YKbw69kN.jpg) 

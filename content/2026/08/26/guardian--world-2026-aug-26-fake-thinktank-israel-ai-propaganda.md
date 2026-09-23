@@ -13,6 +13,68 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Britain
+- Frankfurt
+- Gaza
+- Hanover
+- Israel
+- New York
+- US
+- United States
+- Washington
+people:
+- Brad Parscale
+- Daniel Rosenberg
+- Eden Bartel
+- Eran Shayovitch
+- Gideon Sa’ar
+- Hai Tran
+- Hasbara
+- Jonathan Pollard
+- Kan
+- Nick Cleveland-Stout
+- Pew
+- Piro
+- Res
+- Yossi Sarid
+organisations:
+- AI
+- AP-NORC
+- Aipac
+- Amnesty International
+- Bridges Partners
+- ChatGPT
+- Claude
+- Clock Tower
+- Clock Tower X
+- Davis Media NY
+- Facebook
+- GPT
+- Gallup
+- Gemini”
+- Hanover Institute
+- Hanover Institute for Public Policy
+- Havas Media
+- Havas Media Germany GmbH
+- Havas NV
+- LAPAM
+- LaPam
+- Palestinian Central Bureau of Statistics
+- Perplexity
+- Piro Inc
+- Politico
+- Quincy Institute
+- Res
+- Targeted Communications Global
+- The Guardian
+- TikTok
+- Trump
+- UN
+- World Bank
+- YNet
+- Ynet
+- YouTube
 ---
 
 A pro-Israel messaging website badged with the name of a thinktank that does not exist has published more than half a million words in nine days, built on a commercial platform that promises to optimize content so that AI chatbots will cite it.

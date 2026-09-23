@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- A19 Shipton Road
+- Foxwood Lane
+- Galtres Grove
+- St James Place
+- Thanet Road
+- York
+people: []
+organisations:
+- Newsquest
 ---
 
 *(Image: Newsquest)*

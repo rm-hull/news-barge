@@ -12,6 +12,16 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations: []
+people:
+- Steve Jobs
+organisations:
+- Apple
+- CFO Anat Ashkenazi
+- Nvidia
+- OpenAI
+- Oracle
+- RR Auction
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/tAXNckhbwBFZknaHqvpJe7-320-80.jpg)

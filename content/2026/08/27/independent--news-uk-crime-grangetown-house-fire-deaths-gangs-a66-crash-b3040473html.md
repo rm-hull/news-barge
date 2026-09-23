@@ -15,6 +15,41 @@ categories:
 - UK
 - True Crime
 - History
+locations:
+- Acklam
+- Birchington Avenue
+- Eastleigh
+- Grangetown
+- Middlesbrough
+- South Bank
+- South Wales
+- Steele Crescent
+people:
+- Andy Burnham
+- Andy Preston
+- Cole Worthy
+- Emily Harrison
+- Jacob
+- Jakub Matusiak
+- Josh Kirton
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Ms McDonald
+- Natalie McDonald
+- Passat
+- Paul Appleton
+- Pc Blades
+- Pc Clough
+- RIP Natalie
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- Cleveland Police
+- Hartlepool United
+- Middlesbrough
+- Teesside Coroners’ Court
 ---
 
 The brother of a woman who died in a house fire which also killed a seven-year-old girl has said she was not involved with gangs.

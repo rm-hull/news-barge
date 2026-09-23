@@ -12,6 +12,51 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Anfield
+- Castilla
+- Cobham
+- England
+- Liverpool
+- Newcastle
+- Real Madrid
+- Scotland
+- Spain
+- Surrey
+- Wales
+people:
+- Alonso Alonso
+- Alvaro Arbeloa
+- Anthony Gordon
+- Carlo Ancelotti
+- Craig Bellamy
+- Djimi Traore
+- Fernando Torres
+- Gerard Houllier
+- Jose Mourinho
+- Pep Guardiola
+- Rafael Benitez
+- Sam Allardyce
+- Steve Finnan
+- Vicente del Bosque
+- Xabi Alonso
+organisations:
+- AC Milan
+- BBC Sport
+- Bayer Leverkusen
+- Bayern Munich
+- Blackburn
+- Chelsea
+- Deportivo
+- Everton
+- Fulham
+- Liverpool
+- Newcastle
+- Panathinaikos
+- Premier League
+- Real Madrid
+- Seattle Sounders
+- Uefa
 ---
 
 ![Alvaro Arbeloa and Xabi Alonso celebrating after winning the 2012 European Championships with the Spanish national team](https://ichef.bbci.co.uk/ace/standard/973/cpsprodpb/4749/live/3bc6edd0-9bd8-11f1-bb4d-1147ef2e78e5.jpg)

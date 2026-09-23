@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Coral Gables
+- Florida
+- Pennsylvania
+- U.S.
+- White House
+people:
+- Andrew Pollard
+- Donald Trump
+- Jr
+- Jr.
+- Margaret Brennan
+- Mehmet Oz
+- Robert F Kennedy
+- Robert F. Kennedy
+organisations:
+- Annenberg Policy Center
+- CBS News
+- Centers for Disease Control and Prevention
+- Centers for Medicare and Medicaid Services
+- Department of Health and Human Services
+- Oxford Vaccine Group
+- Trump
+- U.S. Centers for Disease Control and Preventions
+- University of Oxford
+- University of Pennsylvania
 ---
 
 Trump official Dr. Mehmet Oz has risked the ire of the president by refuting his unsubstantiated claims about the safety of the MMR shot and stating it is “not a lethal vaccine.”

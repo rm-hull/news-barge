@@ -14,6 +14,22 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford
+- Frizinghall
+- Heaton
+people:
+- Green
+- Ian Walker
+- Khalid Mahmood
+- Matt Edwards
+organisations:
+- '## Fireworks'
+- BRADFORDIANS
+- Bierley
+- Bradford Council
+- Holme Wood
+- Neighbourhoods and Communities
 ---
 
 *(Image: T&A)*

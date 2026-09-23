@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- England
+- Iran
+- Russia
+- Scotland
+- StepChange
+- Ukraine
+- Wales
+people:
+- Emily Whitford
+organisations:
+- Cornwall Insight
+- Energy Price Guarantee
+- Energy UK
+- Ofgem
+- Trades Union Congress
 ---
 
 ![Woman in floral dress with blonde hair pinned up adjusts heating system in her home](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/b19a/live/2109aba0-a091-11f1-b11c-1bea5fc925f5.jpg)

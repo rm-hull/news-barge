@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Duval County
+- Florida
+- Jacksonville Beach
+- Utah
+- Washington
+people:
+- Christina Stifler
+- Fernandez Saldana
+- Henry Tenon
+- Jared Bridegan
+- Jesse Dreicer
+- Kirsten Bridegan
+- Mario Fernandez Saldana
+- Shanna Gardner
+organisations:
+- Clean Simple Eats
+- Fernandez Saldana
+- Microsoft
+- Stampin’ Up!
+- Tenon
 ---
 
 A man has been convicted of murder after arranging the fatal shooting of a Microsoft manager who was killed in front of his daughter in Florida.

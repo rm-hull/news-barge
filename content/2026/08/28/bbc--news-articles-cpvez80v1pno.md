@@ -12,6 +12,17 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Channel
+- Dover
+- Kent
+- UK
+people:
+- Shabana Mahmood
+organisations:
+- BBC Radio Kent
+- BBC Verify
+- Border Security Command
 ---
 
 ![An inflatable small boat overloaded with people pictured in April 2026](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e704/live/d0879b60-a2e3-11f1-a291-b542ee92de7c.jpg)

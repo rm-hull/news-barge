@@ -14,6 +14,27 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Carmel
+- Darlington
+- Mass
+- South Bank
+people:
+- Carl Baker
+- Dad
+- Forever
+- Matt
+- Matthew Blades
+- Matty
+- PC Blades
+- PC Thomas Clough She
+- Tom Clough
+organisations:
+- A66
+- Carmel College
+- Carmel College.
+- Cleveland Police
+- PC Blades
 ---
 
 *(Image: Carmel College.)*

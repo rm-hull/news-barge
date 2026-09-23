@@ -14,6 +14,21 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Meadow Well
+- North Shields
+- Northumbria Police
+- Waterville Road
+people:
+- Bonnie
+- Brogan
+- Craig Bartle
+- Leighton
+- McKenzie Ratcliffe
+- Olivia *(Image
+organisations:
+- Northumbria Police
+- Roads Policing Unit
 ---
 
 *(Image: Northumbria Police/Family Handout)*

@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Portholme Church
+- Portholme Road
+- Selby’s War Memorial Hospital
+people:
+- David Lewis
+organisations:
+- Friends of Selby Hospital
+- Selby Civic Society
 ---
 
 A hospital built as a living memorial to the fallen of the First World War will be the subject of an upcoming talk.

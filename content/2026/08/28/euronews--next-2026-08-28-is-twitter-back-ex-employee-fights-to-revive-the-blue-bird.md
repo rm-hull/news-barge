@@ -14,6 +14,38 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Brooklyn
+- Calif
+- Menlo Park
+- New York
+- Riverside
+people:
+- Bebeto Matthews
+- Colm Connolly
+- Damian Dovarganes
+- Elon Musk
+- John Ternus
+- Joyce Hatzidakis
+- Stephen Coates
+- Tony Avelar
+organisations:
+- AI
+- Apple
+- Birdhouse Constitution and Community Guidelines
+- Elon Musk
+- Elon Musk's X
+- Elon Musk’s
+- Facebook
+- Hardware Engineering
+- LinkedIn
+- Meta
+- Musk’s X
+- Operation Bluebird
+- Twitter —
+- Twitter.now
+- US District Court
+- US Patent and Trademark Office
 ---
 
 ## Is Twitter back? A startup including former Twitter staffer Stephen Coates launched a new platform this week, giving users early access to a “reclaimed” social media platform and the chance to take the fight to Elon Musk.

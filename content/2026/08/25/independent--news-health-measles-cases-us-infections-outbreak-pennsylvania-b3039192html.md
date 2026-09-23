@@ -11,6 +11,25 @@ image: https://static.independent.co.uk/2026/07/31/14/28/GettyImages-1355334.jpe
 categories:
 - News & Politics
 - UK
+locations:
+- Pennsylvania
+- Texas
+- U.S.
+- United States
+people:
+- Andrew Wakefield
+- Jr.
+- Robert F. Kennedy
+- Sean O’Leary
+organisations:
+- AAP
+- American Academy of Pediatrics
+- CDC
+- Centers for Disease Control and Prevention
+- Infectious Diseases Committee
+- U.S. Centers for Disease Control and Prevention
+- U.S. Department of Health and Human Services
+- World Health Organization
 ---
 
 Health officials confirmed on Tuesday that two Pennsylvania residents have died from measles, marking the first fatalities from the infection reported in the U.S. in 2026 and the state's first in 35 years.

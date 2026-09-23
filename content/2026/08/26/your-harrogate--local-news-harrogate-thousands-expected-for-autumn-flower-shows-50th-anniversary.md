@@ -12,6 +12,18 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- Newby Hall
+- Yorkshire
+people:
+- Jonathan Moseley
+- Stephanie Moon
+- Stuart Gill
+organisations:
+- Harrogate Flower Shows
+- Newby Hall
+- Yorkshire
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8ef0395db37f97394.jpg) 

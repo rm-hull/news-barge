@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Australia
+- California
+- Queensland
+people:
+- Jessica Allen
+- Jodie Wooldridge
+organisations:
+- BNJ
+- BRJ
+- Children's Court of Queensland
+- DZ
+- FZ
 ---
 
 A woman in Australia has given birth to biologically unrelated twins in a unique case.

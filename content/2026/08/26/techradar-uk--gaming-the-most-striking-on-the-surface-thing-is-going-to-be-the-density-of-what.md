@@ -12,6 +12,22 @@ description: Metro 2039 creative director Andriy Shevchenko has revealed that 4A
 image: https://cdn.mos.cms.futurecdn.net/nagrTYSY2axRaQEh2BmC64-2560-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- '**Bloch'
+- Andriy Shevchenko
+- Jon Bloch
+organisations:
+- 4A Games'
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- Metro
+- NME
+- PS5
+- TechRadar Gaming
+- Xbox Series S
 ---
 
 ![Metro 2039](https://cdn.mos.cms.futurecdn.net/nagrTYSY2axRaQEh2BmC64.jpg) 

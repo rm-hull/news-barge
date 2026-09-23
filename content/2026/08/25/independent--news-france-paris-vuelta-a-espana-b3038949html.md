@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Aude
+- France
+- Pomas
+people:
+- Marie-Hélène Bouissac
+organisations:
+- Meteo France
 ---
 
 A tornado ripped through a small village in southern France, damaging about 300 homes, destroying several cars and injuring dozens of people, authorities said Tuesday.

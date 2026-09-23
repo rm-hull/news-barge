@@ -14,6 +14,24 @@ categories:
 - Harrogate
 - History
 - Arts & Culture
+locations:
+- Great St Wilfrid
+- Market Square
+- Ripon Racecourse
+- Ripon Workhouse Museum
+- Saint Wilfrid
+- Spa Gardens
+- 'Yorkshire ## Ripon'
+people:
+- Antony Prince
+- Katie Scott
+- Lilla Bathurst
+- Tim Flanagan
+organisations:
+- Ripon BID
+- Ripon Business Improvement District
+- Ripon City Council
+- Ripon City Councils
 ---
 
 # Ripon proves it is a city on the rise as figures for footfall soar in this historic part of Yorkshire

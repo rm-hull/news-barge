@@ -15,6 +15,20 @@ categories:
 - Sports
 - Health & Fitness
 - Business & Entrepreneurship
+locations:
+- '** County Durham'
+- County Durham
+- Moorcock
+- Robin Hood’s Bay
+- Yorkshire
+people:
+- David Taylor-Gooby
+- Harmony Rose Parker
+- Joseph Chandy
+organisations:
+- EDMG
+- East Durham Medical Group
+- Peterlee Walking Club
 ---
 
 *(Image: Supplied)*

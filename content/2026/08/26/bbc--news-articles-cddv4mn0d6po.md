@@ -14,6 +14,27 @@ categories:
 - Travel
 - History
 - Lifestyle & Fashion
+locations:
+- Antigua
+- Atlantic Ocean
+- Bahamas
+- Barbados
+- Barbuda
+- Bermuda
+- Buckingham Palace
+- Caribbean
+- Guyana
+- US
+- Wales
+people:
+- Camilla
+- Charles III
+- Elizabeth II
+- Irma
+- King Charles III
+- Maria
+organisations:
+- Commonwealth Heads of Government
 ---
 
 ![King Charles III in a tan suit and purple tie. Queen Camilla is standing next to him in a green dress.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/f718/live/12c756c0-a152-11f1-aed2-8d6da8d75094.jpg)

@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Birchington Road
+- Grangetown
+- Leighton Road
+people:
+- Anna Barnes
+organisations:
+- Northern Echo
 ---
 
 - Good morning, welcome to this Northern Echo live breaking news blog.

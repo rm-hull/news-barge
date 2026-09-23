@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Iran
+- Israel
+- North Korea
+- Tehran
+- Tehran.’
+- US
+- Washington
+people:
+- Ali Khamenei
+- Bahar Ghandehari
+- Moein Khazaeli
+- Trump
+- Yalda Moaiery
+organisations:
+- CHRI
+- Center for Human Rights in Iran
+- Dadban
+- Guardian
+- Tehran University
 ---
 
 Iran has taken the first step towards criminalising contact with foreign media, in a move human rights groups have said attempts to “sever the entire Iranian society from the rest of the world”.

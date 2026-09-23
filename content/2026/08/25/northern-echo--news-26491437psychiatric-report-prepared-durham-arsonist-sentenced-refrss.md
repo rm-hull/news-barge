@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Society & Culture
 - Arts & Culture
+locations:
+- Darlington
+- Durham
+- Frank Street
+- Gilesgate
+- Willington
+people:
+- Alfie Mavin
+- Jennifer Coxon
+- Man
+- Miss Coxon
+- Peter Armstrong
+- Punter
+organisations:
+- Court of Appeal
+- Durham Constabulary
+- Mavin
+- Probation Service
+- Teesside Crown Court
 ---
 
 *(Image: Durham Constabulary)*

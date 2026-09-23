@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Technology & Software
 - Travel
+locations:
+- East Cleveland
+- Guisborough
+- Locke Road
+- North East
+- North Yorkshire
+- Redcar
+- Teesside
+- UK
+people:
+- Andy Gent
+- Carl Quartermain
+- Ian Carr
+organisations:
+- Cleveland Borough Council
+- Redcar
+- Tarmac
+- Universal Matter
+- Universal Matter UK
 ---
 
 A council in East Cleveland has become one of the first in the UK to use a new road resurfacing technology.

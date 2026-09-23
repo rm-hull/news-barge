@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - Music
+locations:
+- Popular York
+- Upgang Lane
+- Whitby
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Provided)*

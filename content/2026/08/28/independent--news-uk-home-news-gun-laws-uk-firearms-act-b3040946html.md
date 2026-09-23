@@ -10,6 +10,28 @@ image: https://static.independent.co.uk/2026/08/27/18/40/iStock-162522888.jpeg?t
 categories:
 - News & Politics
 - UK
+locations:
+- Biddick Drive
+- England
+- Plymouth
+- South Devon
+- Torbay
+- UK
+- Wales
+people:
+- Ian Arrow
+- Jake Davison
+- Kate Shepherd
+- Lee Freeman
+- Maxine
+- Sophie Martyn
+- Stephen Washington
+organisations:
+- CCTV
+- Government
+- HMICFRS
+- Home Office
+- Inspectorate of Constabulary and Fire & Rescue Services
 ---
 
 The gun licensing system is putting public safety at risk, inspectors have warned.

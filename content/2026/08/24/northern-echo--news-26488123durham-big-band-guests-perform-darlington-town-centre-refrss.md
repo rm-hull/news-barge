@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- Darlington Market Square
+- North East
+people:
+- Swing Manouche
+organisations:
+- Alumni All Stars
+- Durham Alumni Big Band
+- Durham Big Band
+- Durham Big Band Alumni
+- Durham Music Service
+- Durham University
 ---
 
 Music filled Darlington Market Square this weekend as the Durham Big Band Alumni and Friends brought an afternoon of swing, jazz and well-known tunes to the town centre.

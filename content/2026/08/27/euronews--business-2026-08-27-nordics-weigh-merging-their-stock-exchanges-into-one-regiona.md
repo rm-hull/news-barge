@@ -14,6 +14,50 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Britain
+- Denmark
+- Downing Street
+- Finland
+- Frankfurt
+- Germany
+- Gothenburg
+- London
+- Norway
+- Oslo
+- Sweden
+- Syria
+- Washington
+people:
+- Ahmed al-Sharaa
+- Christian Clausen
+- Jyrki Katainen
+- Keir Starmer
+- Kevin Warsh
+organisations:
+- Admincontrol
+- BlackRock
+- Capital Markets Track
+- EQT
+- Ericsson
+- Euroclear
+- Euronews
+- Euronext
+- Federal Reserve
+- Federal Reserve Board
+- Nasdaq Nordic
+- Nokia
+- Nord Pool
+- Nordea
+- Nordic Compass
+- Nordic Compass' Capital Markets Track
+- Nordics
+- Novo Nordisk Foundation
+- Oslo Børs
+- SEB
+- Saab
+- Wallenberg Investments
+- Ørsted
 ---
 
 ## A group of the Nordic region's largest companies and investors is examining whether Sweden, Denmark, Norway and Finland could combine their national stock exchanges into a single regional marketplace in an effort to deepen liquidity and win more listings.

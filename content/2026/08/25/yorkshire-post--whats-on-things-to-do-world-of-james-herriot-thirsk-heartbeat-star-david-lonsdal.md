@@ -14,6 +14,39 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Aidensfield
+- Goathland
+- Heartbeat Country
+- Herriot Country
+- Hill
+- North York Moors
+- North Yorkshire
+- Thirsk
+- Whitby
+- World of James Herriot
+- Yorkshire Dales
+people:
+- Alf Wight
+- Alf!
+- Dad
+- David Lonsdale
+- Ian Ashton
+- James Herriot
+- Jason Bullard
+- Lee Jones
+- Nicholas Rhea
+- Peter N Walker
+- Peter Walker
+- Rhoda Walker
+- Sarah Walker
+organisations:
+- All Creatures Great
+- Heartbeat
+- ITV
+- ITV3
+- The World
+- Yorkshire Television
 ---
 
 # World of James Herriot, Thirsk: Heartbeat star David Lonsdale to unveil new visitor experience at Yorkshire attraction

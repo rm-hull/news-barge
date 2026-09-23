@@ -10,6 +10,12 @@ description: Google is setting new memory-use limits for Android apps as AI data
 image: https://techcrunch.com/wp-content/uploads/2026/08/Pixel-11-Pro-XL-main.jpg?resize=1200,675
 categories:
 - Technology & Software
+locations: []
+people: []
+organisations:
+- AI
+- Android Developer
+- Google
 ---
 
 Google is making changes to its requirements for Android apps as developers face industrywide memory chip shortages driven by the AI data center boom. This week, the tech giant announced two new app quality requirements, one of which is focused on reducing apps’ memory usage and optimizing its code.

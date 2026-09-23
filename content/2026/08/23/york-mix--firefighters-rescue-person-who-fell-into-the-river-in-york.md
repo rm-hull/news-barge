@@ -11,6 +11,11 @@ categories:
 - Local
 - York
 - History
+locations:
+- York Fire Station
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 Emergency services came to the aid of someone in the river in York early this morning (Sunday).

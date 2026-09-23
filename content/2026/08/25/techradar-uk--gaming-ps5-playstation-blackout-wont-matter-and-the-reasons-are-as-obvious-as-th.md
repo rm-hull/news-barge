@@ -13,6 +13,36 @@ image: https://cdn.mos.cms.futurecdn.net/2yk6TrsX2CQKNEix3cZHBg-2560-80.jpg
 categories:
 - Technology & Software
 - Health & Fitness
+locations:
+- Gamescon
+people:
+- Cyberleek
+- DoesItPlay
+- Lance Ulanoff
+organisations:
+- BBC
+- CNBC
+- CNN
+- DoesItPlay
+- GTA
+- GameStop
+- Good Morning America
+- Google News
+- Kelly and Mark
+- Lance
+- Lifewire
+- Mashable
+- Medium
+- Netflix
+- PS5
+- PSN
+- PlayStation Network
+- Sony
+- Steam
+- Today Show
+- Xbox Live
+- Xbox Network
+- Ziff Davis, Inc
 ---
 
 ![PS5 game disc of Undisputed boxing game in case](https://cdn.mos.cms.futurecdn.net/2yk6TrsX2CQKNEix3cZHBg.jpg) 

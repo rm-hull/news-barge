@@ -15,6 +15,38 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- AI
+- Asia
+- Australia
+- Hong Kong
+- Iran
+- South Korea
+- Strait of Hormuz
+- Taiwan
+- Tokyo
+- U.S.
+- Wall Street
+people:
+- Claude
+- Jensen Huang
+- Kevin Warsh
+- Michelle Chapman
+- Stan Choe
+organisations:
+- AI
+- Anthropic
+- Best Buy
+- Dollar General
+- Dollar Tree
+- Fed
+- Federal Reserve
+- Kospi
+- Nvidia
+- S&P
+- Salesforce
+- Taiex
+- Treasury
 ---
 
 Shares were mostly higher Friday in Asia after Nvidia and other technology stocks led an advance on Wall Street.

@@ -15,6 +15,13 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- North Yorkshire
+- Scarcroft Hill
+- York Racecourse
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 A MAN has been identified following the alleged assault of a police officer in York.

@@ -13,6 +13,15 @@ categories:
 - Local
 - Harrogate
 - Travel
+locations:
+- Dales
+- Embsay & Bolton Abbey Railway
+people: []
+organisations:
+- Embsay & Bolton Abbey Railway
+- LNWR Directors’ Saloon
+- Thompson Bar
+- Yorkshire Dales
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8ef3b07ba4a749cd2.jpg) 

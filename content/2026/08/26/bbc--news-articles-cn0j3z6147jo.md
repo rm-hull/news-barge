@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Bayonne
+- France
+- North Pole
+- Paris
+- Poland
+- US
+- Warsaw Chopin Airport
+people:
+- Elisabeth Leroux
+- Sophie Lainault
+organisations:
+- Air France
+- Harvard Medical School
+- Lainault
 ---
 
 ![An air stewardess facing away from the camera shows passengers on a jet the emergency exist during a safety briefing. She is wearing a white shirt and her blonde hair is in a tight bun](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/737e/live/628a85a0-a135-11f1-9311-09d4e1fc9016.jpg)

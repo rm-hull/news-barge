@@ -12,6 +12,23 @@ image: https://static.independent.co.uk/2026/08/21/16/20/GettyImages-2158609439-
 categories:
 - News & Politics
 - UK
+locations:
+- Albania
+- Downing Street
+- France
+people:
+- Anthony Seldon
+- David Cameron
+- Lord Cameron
+- Mr Sunak
+- Rishi Sunak
+- Tom Egerton
+organisations:
+- Atlantic Books
+- EU
+- Labour
+- Reform
+- Tory
 ---
 
 David Cameron begged Rishi Sunak to call off the decision to hold the snap election in July 2024 which led to the biggest Conservative defeat in history, according to a new book.

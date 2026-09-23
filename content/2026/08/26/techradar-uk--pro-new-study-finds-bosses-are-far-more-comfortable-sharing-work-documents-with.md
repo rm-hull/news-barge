@@ -12,6 +12,19 @@ categories:
 - Technology & Software
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Christian Cawley
+organisations:
+- AI
+- Adobe Acrobat
+- Computer Weekly
+- ComputerActive
+- Google News
+- Linux Format
+- Matter Alpha
+- TechRadar Pro
 ---
 
 ![Group of businesspeople negotiating gathered in modern conference room, blurred silhouettes view, meeting behind closed glass doors. Business communication, workflow, decision-making, strategy sharing](https://cdn.mos.cms.futurecdn.net/u3naU2gsWfmSPy7XvMwZGL.jpg) 

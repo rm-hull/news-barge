@@ -14,6 +14,30 @@ categories:
 - UK
 - Travel
 - History
+locations:
+- Chicago
+- Costa Rica
+- Denver
+- Edinburgh
+- Fields’
+- Green Bay
+- O’Hare
+- Scotland
+- U.S.
+- Wisconsin
+people:
+- Fields
+organisations:
+- ABC 7
+- Customs and Border Patrol
+- FAA
+- Fields
+- Heather Fields’
+- O’Hare International Airport
+- TSA
+- The Independent
+- U.S. Department of Transportation
+- United Airlines
 ---
 
 A passenger aboard a United Airlines flight from Scotland to Chicago says a weather diversion turned the 8-hour flight into a 20-hour travel nightmare, as the airplane bathrooms “filled up,” and travelers were left stranded on the tarmac with nowhere to go.

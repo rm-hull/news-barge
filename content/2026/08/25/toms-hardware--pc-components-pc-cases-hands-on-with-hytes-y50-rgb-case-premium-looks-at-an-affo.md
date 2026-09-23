@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Hardware
 - Shopping & Deals
+locations:
+- Lian Li
+people:
+- Hyte
+- Mindstab Thrull
+- Myles Goldman
+organisations:
+- '## Bottom Line Hyte'
+- Get Tom's Hardware
+- IO
+- Molex
+- Nexus
+- PC
+- PSU
+- RGB
+- Tom's Hardware US
 ---
 
 ![Hyte Y50 RGB](https://cdn.mos.cms.futurecdn.net/NgsJEkzj8esBrPXZtEj24M.png) 

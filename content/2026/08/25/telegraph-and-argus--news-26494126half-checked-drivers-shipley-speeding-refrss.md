@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Lane Side
+- Station Road
+- Wilsden
+people: []
+organisations:
+- Shipley Neighbourhood Policing Team
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

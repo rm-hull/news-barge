@@ -15,6 +15,32 @@ categories:
 - News & Politics
 - Travel
 - Sports
+locations:
+- America
+- Chile
+- Europe
+- Huddersfield
+- Indianapolis
+- Michigan
+- United States
+people:
+- Adrian Meronk
+- Ian Poulter
+- Joaquin Niemann
+- Jon Rahm
+- Josele Ballester
+- Lee Westwood
+- Nick Faldo
+- Peter Uihlein
+- Scott O'Neil
+- Sergio Garcia
+- Tom McKibbin
+- Tyrrell Hatton
+organisations:
+- BBC Sport
+- DP World
+- LIV
+- PGA
 ---
 
 ![Sir Nick Faldo watches the ball down the fairway having driven from the tee](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0e34/live/c180b7e0-a08c-11f1-9234-011c63dfa263.jpg)

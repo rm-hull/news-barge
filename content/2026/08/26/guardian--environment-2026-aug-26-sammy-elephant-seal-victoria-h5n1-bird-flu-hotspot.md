@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Beachport
+- Glenelg
+- Heard Island
+- Macquarie Island
+- New Zealand
+- Portland
+- South Australia
+- Tasmania
+- Victoria
+people:
+- David Mould
+- Humphrey
+- Lynn Murrell
+- Neil
+- Rob Harcourt
+- Sammy
+organisations:
+- Macquarie University
+- Southwest Environment Alliance
+- Victorian Wildlife Alliance
 ---
 
 Since H5 bird flu arrived in Portland, Victoria, the situation has been “pretty grim” with many dead and suffering birds on the beach, and the dilemma of how to dispose of the carcasses, according to local resident Lynn Murrell.

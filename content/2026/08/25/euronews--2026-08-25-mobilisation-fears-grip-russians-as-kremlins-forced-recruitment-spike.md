@@ -14,6 +14,40 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Armenia
+- Belarus
+- Birobidzhan
+- Georgia
+- Kaliningrad
+- Kremlin
+- Moscow
+- Novorossiysk
+- Pennsylvania
+- Penza
+- Russia
+- Ukraine
+people:
+- Dmitry Peskov
+- Ivan Chuvilyaev
+- John Ratcliffe
+- Vasily Nebenzya
+- Volodymyr Zelenskyy
+organisations:
+- CIA
+- CSIS
+- Centre for Strategic and International Studies
+- EU
+- Euronews
+- Federal Penitentiary Service
+- General Staff
+- Idite
+- Russian Defence Ministry
+- State Duma
+- UN
+- Unified Register of Military Records
+- Wall Street Journal
+- inTransit
 ---
 
 ## Human rights groups said they recorded a surge in forced recruitment since mid-August, amid reports that Russia is preparing a new mobilisation wave after September's elections.

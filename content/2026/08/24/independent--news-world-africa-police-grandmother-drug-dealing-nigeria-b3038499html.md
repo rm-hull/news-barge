@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Apapa
+- Lagos
+- Lekki
+- Nigeria
+- Port of Laem Chabang
+- Thailand
+people:
+- Esther Ogunmabo
+- Etima Effiong Eekpo
+- Kingsley Effiong John
+- Ms Ogunmabo
+- Otobong Eyoh Etukudoh
+organisations:
+- NDLEA
+- National Drug Law Enforcement Agency
 ---
 
 Police in Nigeria have arrested a 101-year-old great-grandmother on suspicion of selling drugs.

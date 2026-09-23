@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Afghanistan
+- California
+- Hollywood
+- Iraq
+- Los Angeles
+- Los Angeles County
+- Los Angeles-area
+- Rancho Palos Verdes
+- Torrance
+- Trump National Golf Course
+- U.S.
+people:
+- A.J
+- Bayne
+- Donald Trump
+- Jeanine John Taele
+- John Lonergan Jr.
+- Melania Trump
+- Meta Glasses
+organisations:
+- AT&T
+- Hollywood Mental Health Court
+- Marine Corps
+- National Defense Service Medal
+- Navy Unit Commendation
+- Republican National Committee
+- Secret Service
+- State Department
 ---
 
 A judge on Wednesday suspended criminal proceedings against a former U.S. Marine who was arrested at President Donald Trump’s Los Angeles-area golf course with a gun and ammunition in his vehicle. He is now undergoing a psychiatric evaluation.

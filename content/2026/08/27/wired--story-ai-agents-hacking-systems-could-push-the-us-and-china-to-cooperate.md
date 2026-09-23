@@ -11,6 +11,49 @@ image: https://media.wired.com/photos/6a8f6fdecc498c3752a8bb2c/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- AI
+- Beijing
+- Chernobyl
+- China
+- New York
+- Shanghai
+- US
+- Washington
+- White House
+people:
+- Adriana Tapia
+- Bluesky
+- Daniel Roman
+- DeepSeek
+- Jensen
+- Kate Osborn
+- Katie Drummond
+- Kimi
+- Matt Giles
+- Pran Bandi
+- Scott Bessent
+- Stephen Casper
+- Trump
+- Well
+- Will Knight
+- Yeah
+- Zoë Schiffer
+organisations:
+- AGI
+- AI Lab
+- Anthropic
+- DeepSeek
+- Fudan University
+- Huawei
+- MIT
+- NVIDIA
+- OpenAI
+- OpenAI's
+- OpenClaw
+- Spotify
+- Unitree
+- WIRED
 ---
 
 The AI race has long been framed as a zero-sum game: Either the US or China will win in the end. But as concerns pile up around the increasing capabilities of AI models—especially AI agents—researchers in both countries are trying to team up to work on AI safety. This week, contributing editor Zoë Schiffer speaks with senior writer Will Knight about what he saw and heard on the ground when he visited China this summer—and why the two countries might actually need to start working together to avoid a major AI catastrophe.

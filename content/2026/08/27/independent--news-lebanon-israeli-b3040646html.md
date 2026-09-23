@@ -14,6 +14,11 @@ categories:
 - UK
 - Society & Culture
 - Family & Parenting
+locations:
+- Lebanon
+- Tyre
+people: []
+organisations: []
 ---
 
 A basketball court shelters displaced families in Lebanon, in photos

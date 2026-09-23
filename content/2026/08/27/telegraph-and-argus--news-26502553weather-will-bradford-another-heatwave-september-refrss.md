@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Atlantic
+- Bradford
+- Europe
+- UK
+people: []
+organisations:
+- MET Office
+- Met Office
+- UGC
 ---
 
 *(Image: UGC)*

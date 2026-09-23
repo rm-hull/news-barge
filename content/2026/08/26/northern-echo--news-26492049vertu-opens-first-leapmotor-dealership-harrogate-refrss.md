@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- China
+- Harrogate
+- Knaresborough
+- St James Retail Park
+- UK
+people:
+- Richard Burleigh
+- Robert Forrester
+organisations:
+- Citroën
+- Darlington
+- Group
+- HMRC
+- Leapmotor International
+- Peugeot
+- Starbucks
+- Stellantis
+- T03
+- Vertu Leapmotor Harrogate
+- Vertu Motors
+- Vertu Vauxhall Harrogate
 ---
 
 *(Image: Vertu Motors)*

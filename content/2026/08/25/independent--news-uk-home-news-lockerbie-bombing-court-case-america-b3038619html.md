@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- D.C.
+- Lockerbie
+- Netherlands
+- New York
+- Scotland
+- U.S.
+- US
+- United Kingdom
+- United States
+- Virginia
+- Washington
+people:
+- Abu Agila Mohammad Mas'ud Kheir Al-Marimi
+- Abu Agila Mohammad Mas’ud Kheir Al-Marimi
+- Dabney Friedrich
+- Dana Verkouteren
+- Erik Kenerson
+- Kara Weipz
+- Laura Buchan
+- Megrahi
+- Moammar Gadhafi
+- Rick Monetti
+- Robin Meriweather
+- Whitney Minter
+organisations:
+- BBC Radio Scotland
+- Crown Office
+- John F. Kennedy International Airport
+- London Heathrow Airport
+- Procurator Fiscal Service
+- Syracuse University
 ---
 
 The US trial of a former Libyan intelligence operative accused over the 1988 Pan Am Flight 103 bombing has been delayed after fresh evidence came to light, a federal judge ruled on Monday. Defence attorneys requested time to review the material in the case, which spans nearly four decades.

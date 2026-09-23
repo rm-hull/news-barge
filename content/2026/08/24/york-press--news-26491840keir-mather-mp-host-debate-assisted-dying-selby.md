@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- England
+- Kippax
+- North Yorkshire
+- Selby Town Hall
+- Wales
+people:
+- Bill
+- Keir Mather
+- Kim Leadbeater
+- Luke Charters
+- Rachael Maskell
+organisations:
+- End of Life
+- House of Commons
+- House of Lords
+- Terminally Ill Adults
+- York Central
+- York Outer
 ---
 
 ## MP to host debate on controversial assisted dying bill ahead of 'crucial' vote

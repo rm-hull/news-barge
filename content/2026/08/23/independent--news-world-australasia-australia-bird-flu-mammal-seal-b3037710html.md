@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Adelaide
+- Beachport
+- Heard Island
+- South Australia
+people:
+- Julie Collins
+- Ms Collins
+- Ms Fruean
+- Skye Fruean
+organisations:
+- Australian Broadcasting Corporation
 ---
 
 Australia has confirmed its first case of H5N1 bird flu in a mammal after testing of a long-nosed fur seal found in South Australia.

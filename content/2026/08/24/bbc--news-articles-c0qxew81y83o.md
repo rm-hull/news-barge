@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Iran
+- Pakistan
+- Strait of Hormuz
+- Tehran
+- US
+people:
+- Barrack Obama
+- Donald Trump
+- Joe Biden
+- Scott Bessent
+organisations:
+- Financial Times
+- Reuters
+- Trump
+- US Treasury
 ---
 
 ![US Treasury Secretary Scott Bessent's head and shoulders in profile. He has grey hair and glasses. He is wearing a grey suit with a US flag lapel pin, a silver tie, and a white shirt. Behind him in soft focus are US flags and a podium.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg)

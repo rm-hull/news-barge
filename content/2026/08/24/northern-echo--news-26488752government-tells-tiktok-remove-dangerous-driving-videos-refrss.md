@@ -13,6 +13,43 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Cleveland
+- Middlesbrough
+- South Bank
+- Teesside
+- TikTok
+- cleveland
+people:
+- Cole Robert Worthy
+- Dad
+- Forever
+- Jacob Matusiak
+- Jakub Matusiak
+- Luke Pollard
+- Makai Saddington
+- Matt Storey
+- Matthew Blades
+- Michael Robert Cahill
+- Pc Blades
+- Pc Blades’
+- Pc Clough
+- Pc Tom Clough
+- SARAH CALDECOTT
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- BBC Radio 4
+- Civil Nuclear Constabulary
+- Cleveland Police
+- Cleveland Police Federation
+- Government
+- Independent Office for Police Conduct
+- Passat
+- Pc Blades
+- Teesside Magistrates’ Court
+- TikTok
 ---
 
 The Government has urged TikTok to remove wrong-way driving videos as court records show one of the men killed in the A66 crash was awaiting trial over alleged crimes against police officers.

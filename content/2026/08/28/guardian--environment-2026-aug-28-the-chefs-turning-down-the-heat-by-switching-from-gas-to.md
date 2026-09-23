@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Apricity
+- Australia
+- Chinatown
+- London
+- Mayfair
+- UK
+people:
+- Andy Burnham
+- Camilla Born
+- Chantelle Nicholson
+- Chet Sharma
+- Ellen Chew
+- Jeremy Pang
+- Luke Burgess
+organisations:
+- Apricity
+- Bibi
+- Electrify Britain
+- GCC
+- Global Cooksafe Coalition
+- Guardian
+- Michelin Green Star
+- Rasa Sayang
+- Scholé
+- School of Wok
+- TUC
 ---
 
 Leaping flames, searing heat, copious sweat and scorchingly inventive swearing – restaurant kitchens are never a place for the faint-hearted, but this summer they have been sweltering in successive heatwaves to a dangerous degree.

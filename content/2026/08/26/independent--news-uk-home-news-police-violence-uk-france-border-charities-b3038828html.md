@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- English Channel
+- Europe
+- France
+- UK
+- UK-France
+people:
+- Katie Hall
+- Pava
+- Salomé Brun
+organisations:
+- Calais Appeal
+- English Channel
+- Home Office
+- Project Play
+- Refugee Women’s Centre
+- The Independent
 ---
 
 Police violence against people attempting to cross the English Channel has surged by 40 per cent this year, charities have said.

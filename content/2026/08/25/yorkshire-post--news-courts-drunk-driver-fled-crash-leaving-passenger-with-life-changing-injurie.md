@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Hessle Road
+- Hull
+- Sefton Street
+- West Dock Avenue
+people:
+- Daniel Malpass
+- Lewis Dagless
+- Malpass’
+organisations:
+- Ambulance Service
+- Hull Crown Court
+- Roads Policing Unit
 ---
 
 # Drunk driver fled crash leaving passenger with life-changing injuries

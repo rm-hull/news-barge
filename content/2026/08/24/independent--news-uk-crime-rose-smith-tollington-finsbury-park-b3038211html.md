@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Finsbury Park
+- London
+- Tollington Park
+people:
+- Ben Massink
+- Rose Smith
+organisations:
+- Crimestoppers
 ---
 
 Police have arrested a man on suspicion of murder after a "truly wonderful" great-grandmother died following a burglary at her address.

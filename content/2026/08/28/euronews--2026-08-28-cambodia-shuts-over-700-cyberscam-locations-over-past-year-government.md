@@ -15,6 +15,29 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Asia
+- Australia
+- Beijing
+- Cambodia
+- China
+- France
+- Japan
+- Singapore
+- South Korea
+- Thailand
+- UK
+- US
+- United States
+- Vietnam
+people:
+- Chen Zhi
+- Li Xiong
+organisations:
+- Huione Group
+- Prince Holding Group
+- UN Office on Drugs and Crime
+- UNODC
 ---
 
 ## The UN Office on Drugs and Crime (UNODC) said last year that hundreds of industrial-scale scam centres across Asia generate just under €35 billion in annual profits.

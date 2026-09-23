@@ -14,6 +14,39 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Afghanistan
+- Australia
+- Belgium
+- Canada
+- Elvington
+- Halifax
+- Kandahar
+- Museum
+- New Zealand
+- North Yorkshire
+- Poland
+- RAF
+- Rtd
+- York
+people:
+- Geoff Cossins
+- Johanna Ropner
+- John ‘Geordie’ Lawson
+- Rev Charles ‘Taff’ Morgan MBE RAF
+organisations:
+- 18 Standards
+- Allied Air Forces
+- Allied Nations
+- Battle of Britain Memorial Flight
+- Commonwealth
+- Embassies of France
+- Parade and Commemoration Service
+- RAF Leeming
+- UK Air Staff
+- YAM
+- Yorkshire Air Museum
+- Yorkshire Air Museum.
 ---
 
 # Battle of Britain Memorial Flight 2026: RAF aircraft to fly over Yorkshire museum as part of memorial event next month

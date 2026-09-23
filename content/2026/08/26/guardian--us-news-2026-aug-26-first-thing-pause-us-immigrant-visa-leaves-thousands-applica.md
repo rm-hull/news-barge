@@ -13,6 +13,53 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Abraham Lincoln
+- Boston
+- California
+- Caribbean
+- Florida
+- France
+- Haiti
+- Islamabad
+- Kennedy Center
+- Kenscoff.
+- Lincoln Memorial
+- Pakistan
+- Rhodes
+- South Carolina
+- US
+- Washington DC
+- Washington DC?** Trump
+- White House
+people:
+- Adam Mosseri
+- Alexis Petridis
+- Aneza Jalil
+- Bryan Seaver
+- Darline Graham
+- Dolly Parton
+- Donald J Trump
+- Donald J Trump Plaza
+- Hannah Marriott
+- Joanna Cuevas Ingram
+- John F Kennedy
+- Ralph Norman
+- Shehbaz Sharif
+organisations:
+- Congress
+- East Wing
+- Immigration and Customs Enforcement
+- Instagram
+- John F Kennedy Center for the Performing Arts
+- Meta
+- Meta?**
+- National Immigration Law Center
+- National Weather Service
+- Pakistan Institute of Medical Sciences
+- The John F Kennedy Center
+- Trump
+- US Senate
 ---
 
 Good morning. All US immigrant visa applications have been paused by the Trump administration as the state department moves to tighten restrictions and limit access to applicants whom they deem could need US assistance. The agency launched the initiative at all embassies and consulates in early August.

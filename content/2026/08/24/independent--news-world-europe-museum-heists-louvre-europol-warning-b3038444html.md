@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Europe
+- London
+- Louvre Museum
+- Paris
+- Romania
+people:
+- Eugenie
+organisations:
+- EU
+- Europol
+- London Bullion Market Association
+- Louvre Museum
 ---
 
 Art thieves across Europe are turning to increasingly violent stategies as specialized gangs are replaced by informal opportunists recruited via social media, Europol reported on Monday.

@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- Britain
+- Durham Castle
+- Durham Cathedral
+- Durham Market Place
+- Elvet Bridge
+- Framwellgate Bridge
+- North Yorkshire
+- Palace Green
+- St Nicholas’ Church
+people:
+- James Wilson
+organisations:
+- Durham Market Hall
+- Durham Markets
 ---
 
 *(Image: Supplied)*

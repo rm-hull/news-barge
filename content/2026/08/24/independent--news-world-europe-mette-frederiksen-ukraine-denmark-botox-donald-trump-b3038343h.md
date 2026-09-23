@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Denmark
+- Europe
+- Greenland
+- Russia
+- U.S.
+- Ukraine
+people:
+- Donald Trump
+- Instagram
+- Mette Frederiksen
+organisations:
+- European Union
+- Instagram
+- NATO
 ---
 
 Danish Prime Minister Mette Frederiksen is fed up with getting unsolicited beauty advice.

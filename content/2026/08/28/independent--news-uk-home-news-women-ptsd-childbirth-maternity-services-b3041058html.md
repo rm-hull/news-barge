@@ -14,6 +14,22 @@ categories:
 - Family & Parenting
 - Health & Fitness
 - Society & Culture
+locations:
+- England
+- UK
+people:
+- Baroness Amos
+- Donna Ockenden
+- Megan Foreman
+- Victoria Tzortziou-Brown
+organisations:
+- British Journal of General Practice
+- NHS England
+- NICE
+- Norwich Medical School
+- Royal College of GPs
+- UEA
+- University of East Anglia
 ---
 
 Thousands of women across the UK develop undiagnosed post-traumatic stress disorder (PTSD) each year after giving birth, new research has found.

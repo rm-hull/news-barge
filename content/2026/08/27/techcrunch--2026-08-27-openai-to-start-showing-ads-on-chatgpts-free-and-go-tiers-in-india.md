@@ -11,6 +11,24 @@ image: https://techcrunch.com/wp-content/uploads/2026/02/chatgpt-india-jagmeet-s
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Europe
+- India
+- U.S.
+people:
+- Dave Dugan
+organisations:
+- AI
+- IPL
+- Indian Premier League
+- Omnicom
+- OpenAI
+- The Information
+- The Wall Street Journal
+- Uber
+- WPL
+- WPP
+- Women’s Premier League
 ---
 
 It seems there is no escaping the ad industry.

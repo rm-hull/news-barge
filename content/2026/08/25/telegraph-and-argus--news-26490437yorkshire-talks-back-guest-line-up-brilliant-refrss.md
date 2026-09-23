@@ -13,6 +13,29 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Leeds
+people:
+- Agam Jung
+- Alexis Blake
+- Amy Walsh
+- Billy Bowness
+- Christine Talbot
+- Gareth Gates
+- Gaynor Faye
+- Jamie Jones-Buchanan
+- Matt Jameson
+- Matthew Haywood
+- Simon Fogal
+organisations:
+- Chapter 81 Studios
+- First Sight UK
+- Hot Flash
+- Leeds Rhinos
+- Patient.info
+- Rob Burrow Centre for MND
+- TV
+- Yorkshire Talks
 ---
 
 *(Image: Supplied)*

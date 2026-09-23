@@ -13,6 +13,18 @@ categories:
 - Local
 - York
 - History
+locations:
+- '**York'
+- Churchills
+- North Yorkshire
+- Sutton-on-the-Forest
+- UK
+- Upstairs
+- York
+people:
+- Churchills
+organisations:
+- Churchills
 ---
 
 ## Georgian home in ‘outstanding village setting’ for sale in Yorkshire – look inside

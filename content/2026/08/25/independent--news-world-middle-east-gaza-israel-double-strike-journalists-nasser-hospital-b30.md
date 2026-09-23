@@ -11,6 +11,35 @@ image: https://static.independent.co.uk/2026/08/25/08/Mideast_Wars_Journalists_K
 categories:
 - News & Politics
 - UK
+locations:
+- Gaza Strip
+- Israel
+- Khan Younis
+- Middle East
+- Nasser Hospital
+- North Africa
+people:
+- Abdel Kareem Hana
+- Ezz al-Din al-Masri
+- Hind Rajab
+- Hussam al-Masri
+- Julie Pace
+- Mariam Dagga
+- Nadav Weiman
+- Oded Ailam
+- Riyad Abu Dagga
+- Sara Qudah
+- Silence
+organisations:
+- AP
+- CPJ
+- Doctors Without Borders
+- Hamas
+- Military Advocate General’s Corps
+- Mossad
+- Reuters
+- Silence
+- The Associated Press
 ---
 
 It’s been a year since Israeli soldiers killed 22 Palestinians, including journalists and rescue workers, in a double strike on a hospital in Gaza. No one has been held accountable.

@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- England
+- India
+- Islamabad
+- Pakistan Tehreek-e-Insaf
+people:
+- Adam Gilchrist
+- Alastair Cook
+- Andrew Strauss
+- Belinda Clark
+- David Gower
+- Dilip Vengsarkar
+- Greg Chappell
+- Imran Khan
+- Kapil Dev
+- Kim Hughes
+- Michael Atherton
+- Michael Brearley
+- Nasser Hussain
+- Shehbaz Sharif
+- Steve Waugh
+- Sunil Gavaskar
+organisations:
+- Supreme Court
 ---
 
 ![Imran Khan wearing a black button-up shirt and speaking into a microphone, points dramatically. Behind him are other men, and a television camera](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/92fd/live/5223f330-9f6f-11f1-830e-359f4d9d175a.jpg)

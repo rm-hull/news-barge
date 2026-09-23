@@ -11,6 +11,26 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9bb3/live/fda8dc
 categories:
 - UK
 - News & Politics
+locations:
+- BBC
+- Germany
+- Great Britain
+- High Street
+- Middle East
+- UK
+- UK.
+people: []
+organisations:
+- Argos
+- British Gas
+- DNO
+- Distribution Network Operator
+- Electrical Safety First
+- Energy Networks Association
+- Energy Saving Trust
+- MCS
+- National Grid
+- UKSOL
 ---
 
 ![A solar panel hanging on a balcony, which also contains plants and flowers.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/9bb3/live/fda8dc80-a086-11f1-bfeb-dfb02ea642ef.jpg)

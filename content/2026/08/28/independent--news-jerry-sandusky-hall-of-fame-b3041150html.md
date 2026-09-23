@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Centre County
+people:
+- Jerry Sandusky
+- Joe Paterno
+- R.R.
+organisations:
+- Hall of Fame
+- Penn State
+- The Second Mile
 ---
 
 A judge has granted a hearing to explore claims that a man wants to recant allegations of sexual abuse years ago by Penn State assistant football coach Jerry Sandusky.

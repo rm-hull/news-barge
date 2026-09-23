@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Homes England
+- Iran
+- London
+people:
+- Andy Burnham
+- Angela Rayner
+- Gideon Amos
+- John Healey
+- Sadiq Khan
+- Shabana Mahmood
+organisations:
+- Guardian
+- ILR
+- Labour
+- Reform
+- Sunday Times
 ---
 
 Andy Burnham will give mayors new powers to take control of local planning decisions and greenlight large-scale developments in proposals to be presented next week.

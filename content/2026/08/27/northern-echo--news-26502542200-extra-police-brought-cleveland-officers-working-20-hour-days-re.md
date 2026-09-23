@@ -12,6 +12,34 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- A66
+- Cleveland
+- Durham
+- Grangetown
+- Humber
+- North Yorks
+- Northumbria
+- Redcar
+- South Bank
+- South Yorks
+- Teesside
+- West Yorks
+people:
+- Alec Brown
+- Anna Turley
+- Matthew Blades
+- Natalie McDonald
+- Tom Clough
+- Valentina Foster
+organisations:
+- A66
+- Cleveland Borough Council
+- Cleveland Police
+- National Crime Agency
+- Our Government
+- Redcar & Cleveland Council
+- Volkswagen
 ---
 
 *(Image: SARAH CALDECOTT)*

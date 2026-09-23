@@ -13,6 +13,28 @@ categories:
 - Local
 - York
 - History
+locations:
+- Bubwith
+- East Yorkshire
+- Foggathorpe
+- Fourways Campsite
+- Scotland
+- Somerset
+- The Black Swan
+- Toulouse
+- York
+people:
+- Aunt Dotty
+- Carol Countess Castle Stewart
+- Freddy
+- Loki
+- Martin Kirkham
+- Mum Dash
+- Rosa
+- Samson
+- Sue
+organisations:
+- Bottle Delicatessen
 ---
 
 Six Dalmatians, a birthday cake, Champagne and a campsite full of wagging tails near York made for a memorable celebration.

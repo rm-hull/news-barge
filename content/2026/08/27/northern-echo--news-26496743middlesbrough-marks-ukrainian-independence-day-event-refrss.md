@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Centre Square
+- Great Britain
+- Middlesbrough
+- Middlesbrough’s Centre Square
+- North East
+- Russia
+- UK
+- Ukraine
+people:
+- Ashley Phillips
+- Luke Henman
+- Luke Myer
+- Petro Rewko MBE
+organisations:
+- Association of Ukrainians
+- East Cleveland
+- Investing in People and Culture
+- Middlesbrough Council
+- Middlesbrough South
+- Middlesbrough Town Hall
+- Tottenham
 ---
 
 Supporters have gathered in a North East town to show solidarity with Ukraine as the country marked 35 years of independence while continuing to defend itself against Russia's ongoing invasion.

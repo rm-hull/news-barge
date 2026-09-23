@@ -13,6 +13,44 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- CLEVELAND
+- Middlesbrough
+- South Bank
+- St John the Evangelist Church
+- Teesside
+people:
+- Cole Robert Worthy
+- Dad
+- Forever
+- Jacob Matusiak
+- Makai Saddington
+- Matt
+- Matthew Blades
+- Michael Robert Cahill
+- PC Blades’
+- PC Clough
+- SARAH CALDECOTT
+- Theo Rae
+- Tom Clough
+- Wayne Fox
+organisations:
+- A66
+- Civil Nuclear Constabulary
+- Cleveland Police
+- FC Hartlepool
+- Independent Office for Police Conduct
+- PC Blades
+- PC Clough
+- Passat
+- RIP
+- Reds
+- Seahawks
+- Seaton Carew FC
+- TikTok
+- Volkswagen
+- Volvo
 ---
 
 Five young men who died after their vehicle hit a police car on a dual carriageway may have had links to “serious and organised criminal activity”, police said.

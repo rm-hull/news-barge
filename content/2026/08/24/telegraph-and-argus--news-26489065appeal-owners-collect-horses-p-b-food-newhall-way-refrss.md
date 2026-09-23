@@ -14,6 +14,15 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Newhall Way
+- Rooley Lane
+people: []
+organisations:
+- P&B Food Ltd
+- WYP)* POLICE
+- West Yorkshire Police
 ---
 
 *(Image: WYP)*

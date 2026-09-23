@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Connecticut
+- Stamford
+- UK
+- US
+people:
+- Gary Greenwood
+- Rachel Reeves
+organisations:
+- European Economic Area
+- Fed
+- Federal Reserve
+- NatWest Markets
+- Shore Capital
 ---
 
 NatWest has taken a step towards boosting its presence in the US following changes to ring-fencing rules under former chancellor Rachel Reeves.

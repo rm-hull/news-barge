@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Atlee Road
+- Cleveland
+- County Durham
+- Grangetown
+- Kingsley Road
+- Middlesbrough
+- South Bank
+- Steele Crescent
+- Teesside
+people:
+- Cole Worthy
+- Jacob Matusiak
+- Kai Inico
+- Makai Saddington
+- Matt Storey
+- Matthew Blades
+- Michael Robert Cahill
+- Natalie McDonald
+- Paul Appleton
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+- Wayne Fox
+organisations:
+- A66
 ---
 
 Seven more men have been arrested as part of an operation tackling alleged organised crime after the head-on crash on the A66 that resulted in seven deaths, Cleveland police have said.

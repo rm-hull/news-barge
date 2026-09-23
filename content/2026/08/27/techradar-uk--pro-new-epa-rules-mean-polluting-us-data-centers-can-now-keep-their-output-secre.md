@@ -11,6 +11,24 @@ image: https://cdn.mos.cms.futurecdn.net/zwBWPNAfpJdnNkfJY3wUKM-2560-80.jpg
 categories:
 - Technology & Software
 - News & Politics
+locations:
+- Texas
+people:
+- Donald Trump
+- Lee Zeldin
+- Mike Koerber
+organisations:
+- EPA
+- EPN
+- Efosa
+- Environmental Protection Network
+- Gallup
+- Google News
+- New Source Review
+- Office of Air Quality Planning and Standards
+- TechRadar Pro
+- Trump
+- US Environmental Protection Agency
 ---
 
 ![A data center in a blue light](https://cdn.mos.cms.futurecdn.net/zwBWPNAfpJdnNkfJY3wUKM.jpg) 

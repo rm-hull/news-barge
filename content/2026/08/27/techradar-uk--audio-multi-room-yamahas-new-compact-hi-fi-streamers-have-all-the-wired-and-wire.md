@@ -12,6 +12,29 @@ description: 'Yamaha has unveiled two new music devices, set to sell in November
 image: https://cdn.mos.cms.futurecdn.net/XNqYtBF63L5wedgSxMeRkg-2560-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Tom Bedford
+organisations:
+- AAC
+- AirPlay
+- Android Police
+- BGR
+- Digital Trends
+- GamesRadar
+- Google News
+- MusicCast
+- RCA
+- SBC
+- Spotify Connect
+- TechAdvisor
+- TechRadar
+- Tidal Connect
+- Tom Bedford
+- WXA-70A
+- WXC-70A
+- WhattoWatch
+- Yamaha
 ---
 
 ![The Yamaha WXC-70A on a shelf.](https://cdn.mos.cms.futurecdn.net/XNqYtBF63L5wedgSxMeRkg.jpg) 

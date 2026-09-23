@@ -15,6 +15,17 @@ categories:
 - Technology & Software
 - Health & Fitness
 - Self-Improvement
+locations:
+- Australia
+- Dallas
+- West
+people:
+- Ben Simon
+- Emma Sullivan
+- Eti Ben Simon
+organisations:
+- University of Melbourne
+- University of Texas
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308905889.jpg?w=840)

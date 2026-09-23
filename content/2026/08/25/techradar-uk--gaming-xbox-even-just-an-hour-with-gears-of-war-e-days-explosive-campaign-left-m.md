@@ -12,6 +12,27 @@ image: https://cdn.mos.cms.futurecdn.net/GdXDPCUcFMgz8W5emPiPAN-1600-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Kalona
+- Locust
+- Thrashball
+- UK
+people:
+- Dominic Santiago
+- Lucas Reyes
+- Mags Carter
+- Marcus Fenix
+organisations:
+- Dash
+- Edge
+- Google News
+- NPC
+- Official PlayStation Magazine UK
+- PC Gamer
+- PLAY
+- SFX
+- TechRadar
+- Xbox
 ---
 
 ![A screenshot from our Gears of War E-Day hands-on built on PC.](https://cdn.mos.cms.futurecdn.net/GdXDPCUcFMgz8W5emPiPAN.jpg) 

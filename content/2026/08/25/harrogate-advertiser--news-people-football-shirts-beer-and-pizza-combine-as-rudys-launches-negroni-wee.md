@@ -12,6 +12,20 @@ categories:
 - Local
 - Harrogate
 - Food & Cooking
+locations:
+- Harrogate
+- Italy
+people:
+- Cocchi Vermouth
+- Malfy Gin
+- Negroni
+- Rudy
+organisations:
+- Campari
+- Cocchi Vermouth
+- Malfy Gin
+- Rudy's FC
+- Rudy’s
 ---
 
 # Football shirts, beer and pizza combine as Rudy’s launches Negroni Week

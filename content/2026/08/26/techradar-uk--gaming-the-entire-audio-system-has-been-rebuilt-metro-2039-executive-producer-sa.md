@@ -13,6 +13,21 @@ image: https://cdn.mos.cms.futurecdn.net/vD8oNjGiPUrnW5gwHkHCYA-2560-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Metro
+people:
+- '**Bloch'
+- Andriy Shevchenko
+- Jon Bloch
+organisations:
+- 4A Games'
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- PS5
+- TechRadar Gaming
 ---
 
 ![Metro 2039](https://cdn.mos.cms.futurecdn.net/vD8oNjGiPUrnW5gwHkHCYA.jpg) 

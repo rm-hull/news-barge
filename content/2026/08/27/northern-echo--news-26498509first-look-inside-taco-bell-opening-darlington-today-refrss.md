@@ -15,6 +15,30 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Food & Cooking
+locations:
+- Albert Road
+- Darlington
+- Ireland
+- North East
+- North Road
+- STUART BOULTON
+- UK
+people:
+- Kalham Overson
+- Lucy Dee
+organisations:
+- Brand Operation Leader
+- Crunchwrap Supreme
+- Crunchy Taco Supreme
+- Darlington North Retail Park
+- Greggs
+- KFC
+- QFM Group
+- STUART BOULTON
+- Taco Bell
+- Taco Bell Rewards
+- Taco Bell UK
+- Volcano Burrito
 ---
 
 Here is an exclusive first look inside a brand new fast-food spot launching in Darlington today.

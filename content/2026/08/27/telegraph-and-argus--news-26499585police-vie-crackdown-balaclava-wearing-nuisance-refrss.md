@@ -13,6 +13,14 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford
+- West Royd
+- West Yorkshire
+people: []
+organisations:
+- T1 Shipley NPT
+- T1 Shipley Neighbourhood Policing Team
 ---
 
 *(Image: WYP)*

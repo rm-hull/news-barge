@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- District of Columbia
+- Florida
+- New Mexico
+- New York
+- UK
+- US
+people:
+- Alexa Knight
+- Arturo Béjar
+- Ellen Roome
+- Jools
+- Trevor Johnson
+- Zvika Krieger
+organisations:
+- 5 Live Breakfast
+- BBC
+- Big Tech
+- Big Tobacco
+- Facebook
+- Instagram
+- Mental Health Foundation
+- Meta
+- Radio 4
+- Reuters
+- Snap
+- Snapchat
+- TikTok
+- Today
+- YouTube
 ---
 
 ![A phone screen with the facebook and instagram logos on it. In the background is the meta logo.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3471/live/51e2ea60-a213-11f1-9090-b51af3a01fc2.jpg)

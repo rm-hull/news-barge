@@ -13,6 +13,18 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Canada
+- Ottawa
+- U.S.
+- US
+- Washington
+- White House
+people:
+- Donald Trump
+- Mark Carney
+organisations:
+- Office of the United States Trade Representative
 ---
 
 ## "We cannot accept what they've offered, and we will not give what they've asked," Carney said during a speech outlining Canada's position on the trade dispute with the US.

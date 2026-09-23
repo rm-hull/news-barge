@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- '![York'
+- Parliament Street
+- St John’s Ambulance
+- York
+people: []
+organisations:
+- Defibfinder
+- Nationwide Building Society
+- York Council
 ---
 
 # Plans for 'life-saving' defibrillator and bleed kit in York city centre dropped

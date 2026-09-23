@@ -11,6 +11,52 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- A34
+- Alan Ramsbottom Way
+- Ashford
+- Aymer Close
+- Bickershaw
+- Bolton House Road
+- Bradford
+- England
+- Gloucestershire
+- Greater Manchester
+- Hoads Wood
+- Hyndburn
+- Isle of Sheppey
+- Kent
+- Kidlington
+- Lancashire
+- Midland Road
+- Over
+- Oxfordshire
+- Power Station Road
+- River Cherwell
+- Runnymede
+- Sheffield
+- South Yorkshire
+- Surrey
+- Wales
+- West Yorkshire
+- Worthing Road
+people:
+- Andy Burnham
+- Angela Eagle
+- Baroness Sheehan
+- Charlie Coats
+- Gavin Lane
+- Keir Starmer
+organisations:
+- BBC
+- CLA
+- Country Land and Business Association
+- EIR
+- Environment Agency
+- Environmental Information Regulations
+- Highnam Parish Council
+- House of Lords
+- Liberal Dem
 ---
 
 Drone footage from November 2025 captured the scale of the Kidlington tip

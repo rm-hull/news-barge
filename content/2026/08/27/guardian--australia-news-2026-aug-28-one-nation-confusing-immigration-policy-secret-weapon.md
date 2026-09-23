@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Australia
+- Dubbo
+- Pacific
+- Queensland
+- Timor-Leste
+people:
+- Andre Mamet
+- Ausmaxx
+- Barnaby Joyce
+- David Farley
+- Malcolm Roberts
+- Pauline Hanson
+- Roberts’
+- Sarah Basford Canales
+organisations:
+- Daily Telegraph
+- Guardian Australia
+- Nationals
+- News Corp Bush Summit
+- Nom
+- One Nation
+- Pacific Australia Labour Mobility
+- Palm
 ---
 
 One Nation has experienced a swell in popular support in the past year, and has primarily done so off the back of tough talk on immigration – a policy area almost synonymous with its leader, Pauline Hanson.

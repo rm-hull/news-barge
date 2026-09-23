@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Gaza City
+- Israel
+- Russia
+- Tel Aviv
+- Venice Biennale
+people:
+- Ben Hania
+- Hind Rajab
+- Kaouther Ben Hania
+- Rachel Szor
+- Yuval Abraham
+organisations:
+- 972 Magazine
+- Golden Lions
+- Hamas
+- Local Call
+- NAZA
+- Naza
+- The Guardian
+- The Zone of Interest
 ---
 
 The Venice Film Festival has added a new documentary about the civilian toll of the Israel-Hamas war to its lineup. “NAZA,” from two of the filmmakers behind the Oscar-winning documentary “No Other Land,” will screen in the main competition, festival organizers said Monday.

@@ -14,6 +14,42 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Black Sea
+- Massachusetts
+- Michigan
+- New Zealand
+- Russia
+- Sochi
+- U.S.
+- Ukraine
+- United States
+people:
+- Aleksandr Antonov
+- Andre Khachatoorian
+- Chuck Zimmerman
+- David Barnes
+- Eric Lebson
+- Harold Jezler
+- Liz Richards
+- Marco Rubio
+- Olga Jezler
+- Paul Whelan
+- Robert Gilman
+- Robin Stultz
+- Sergei Magnitsky
+- Stephen Hubbard
+- Travis Leake
+- Trevor Reed
+organisations:
+- Federal Penitentiary Service
+- Foley Foundation
+- Global Reach
+- Hostage US
+- Marine Corps
+- Navy
+- State Department
+- The Associated Press
 ---
 
 Robert Gilman’s release from Russian custody this month heralded a long-awaited homecoming for the Marine veteran after more than four years behind bars.

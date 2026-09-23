@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Barnsley
+- Middle East
+- Moscow
+- Romania
+- Russia
+- South Yorkshire
+- UK
+- Ukraine
+people:
+- Aiden Minnis
+- Ben Stimson
+- Bradley Townsend
+- Vladimir Putin
+organisations:
+- Centre for Strategic and International Studies
+- FCDO
+- LBC
+- The Sun
 ---
 
 A British man has died fighting for Russia after being killed in a drone attack in Ukraine, according to a report.

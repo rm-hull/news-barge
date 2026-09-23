@@ -13,6 +13,38 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Asia
+- Bangladesh
+- Hanoi
+- India
+- Iran
+- Maldives
+- Mongolia
+- Nepal
+- Nguyen Huy Tu Street
+- Philippines
+- Timor-Leste
+- Vietnam
+people:
+- Do Ngoc Phuong Thuy
+- Do Viet Hung
+- Gen Z
+- Gen Z Vietnamese
+- Nguyen Sy Cuong
+- Nguyen Van Sau
+organisations:
+- BMW
+- Communist Party
+- Facebook
+- Instagram
+- Justice Tree
+- Ministry of Public Security
+- NSC
+- National Assembly
+- Threads and X.
+- VTV
+- Vietnam Television
 ---
 
 ![A woman in mint green clothes bends over a ring of flower bouquets arranged around the trunk of a roadside tree](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/15db/live/2c0d1d70-9d44-11f1-a137-179a8d1c790b.jpg)

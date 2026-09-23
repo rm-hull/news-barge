@@ -12,6 +12,49 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/199d/live/4d83be
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- Brussels
+- Duke and Duchess of Sussex
+- Metro
+- Middlesbrough
+- Moscow
+- UK
+- Ukraine
+- Wales
+people:
+- Andy Burnham
+- Cole Robert Worthy
+- Donald Trump
+- Graeme Biggar
+- Jacob Matusiak
+- Kevin Warsh
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- PC Tom Clough
+- Phil Newby
+- Theo Rae
+organisations:
+- Daily Express
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegraph
+- EU
+- Financial Times
+- MBDA
+- Manchester City
+- Metro
+- NCA
+- National Crime Agency
+- News Daily
+- Paper
+- Sun
+- The Financial Times
+- The Guardian
+- US Federal Reserve
+- Warsh
 ---
 
 ![The headline on the front page of the Times reads: “Burnham to gift Ukraine blueprints for missiles”.](https://ichef.bbci.co.uk/ace/standard/809/cpsprodpb/860c/live/7ecd6150-9f38-11f1-b109-879e35c24276.jpg)

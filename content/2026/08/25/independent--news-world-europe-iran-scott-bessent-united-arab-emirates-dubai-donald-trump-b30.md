@@ -14,6 +14,40 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Bahrain
+- China
+- Germany
+- Iran
+- Islamic Republic
+- Israel
+- Middle Eastern
+- Strait of Hormuz
+- Tehran
+- U.S.
+- UAE
+- United Arab Emirates
+- United States
+- Washington
+people:
+- Donald Trump
+- Esfandyar Batmanghelidj
+- Hashem Abadi
+- Mahmoud Chavoshi
+- Masoud Pezeshkian
+- Mohammad Farzanegan
+- Morteza Daryani
+- Sascha Bruchmann
+- Scott Bessent
+organisations:
+- Batmanghelidj
+- Bessent
+- Bourse & Bazaar Foundation
+- Fars
+- International Institute of Strategic Studies' Middle East
+- Tasnim
+- U.S. Treasury
+- University of Marburg
 ---
 
 Lines have grown outside gas stations across Tehran in recent weeks as the United States has tightened its blockade and threatened more severe sanctions, with some people waiting for two hours or more to fill up.

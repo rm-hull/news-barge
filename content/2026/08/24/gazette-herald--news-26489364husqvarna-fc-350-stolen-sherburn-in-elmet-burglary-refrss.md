@@ -14,6 +14,15 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- New Lane
+- North Yorkshire
+- Sherburn-in-Elmet
+people: []
+organisations:
+- Crimestoppers
+- Husqvarna FC
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

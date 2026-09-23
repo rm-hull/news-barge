@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Blake Street
+- York
+people:
+- '#### McDonald'
+organisations:
+- McDonald’s
+- North Yorkshire Police
+- Via
+- York A North Yorkshire Police
 ---
 
 Police are investigating an assault in a York fast food restaurant.

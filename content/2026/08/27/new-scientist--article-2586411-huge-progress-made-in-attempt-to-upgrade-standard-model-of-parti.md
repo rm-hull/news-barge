@@ -13,6 +13,20 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309553154.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Minnesota
+people:
+- Alan Kostelecky
+- Albert Einstein
+- Hendrik Lorentz
+- Jay Tasson
+- Neil Russell
+organisations:
+- Carleton College
+- Indiana University Bloomington
+- Lorentz
+- Northern Michigan University
+- SME
 ---
 
 ![artist's impression of a dark gamma-ray burst in a star forming region](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309553154.jpg?w=840)

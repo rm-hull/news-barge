@@ -13,6 +13,26 @@ categories:
 - Local
 - Harrogate
 - Travel
+locations:
+- Allhallowgate
+- Cumbria
+- High St Agnesgate
+- Low St Agnesgate
+- Minster Road
+- North East
+- Priest Lane
+- Residence Lane
+- Ripon
+- St Marygate Car Park
+- St Mary’s Gate
+- Stonebridgegate
+- Yorkshire
+people:
+- Mark Mawhood
+organisations:
+- North Yorkshire Council
+- Northern Gas Network
+- Northern Gas Networks
 ---
 
 # Essential work in Ripon by Northern Gas Network will bring weeks of road closures and temporary traffic lights

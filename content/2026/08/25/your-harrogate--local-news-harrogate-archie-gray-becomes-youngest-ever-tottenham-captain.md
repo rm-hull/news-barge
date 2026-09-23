@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - Sports
 - Video Gaming
+locations:
+- Gtech Community Stadium
+people:
+- Archie Gray
+- Roberto De Zerbi
+- SpursOfficial
+- Steve Perryman
+- Tottenham Hotspur
+organisations:
+- Brentford
+- Harrogate
+- Leeds United
+- Spurs
+- St John Fisher Catholic High School
+- Tottenham Hotspur
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8daa11c325cb72c46.jpg) 

@@ -14,6 +14,26 @@ categories:
 - Bradford
 - News & Politics
 - Science
+locations:
+- Belfast
+- Calton Hill
+- Earth
+- Edinburgh
+- Greenwich
+- Moon
+- Stonehenge
+- Sun
+- UK
+- Wiltshire
+people:
+- Comet Swift
+- Moon
+- Tuttle
+organisations:
+- BRADFORDIANS
+- Queen’s University
+- Royal Observatory
+- Sun
 ---
 
 *(Image: Getty Images)*

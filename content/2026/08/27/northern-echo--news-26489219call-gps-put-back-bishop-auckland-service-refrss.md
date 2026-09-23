@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- BAH
+- Bishop Auckland
+- Bishop Auckland General Hospital
+- Bishop Auckland Hospital
+- County Durham
+- County Durham NHS
+- Darlington
+- North East
+people:
+- Eliot Sykes
+- SARAH CALDECOTT
+- Stewart Findlay
+- Wes Streeting
+organisations:
+- A&E Durham NHS Trust
+- Advanced Nurse Practitioners
+- Bishop Auckland Hospital
+- DDHF
+- Darlington NHS Foundation Trust
+- Darlington NHS Trust
+- Dr Findlay
+- Durham Dales Health Federation
+- GP Federation
+- ICB
+- NORTHERN ECHO
+- North Cumbria Integrated Care Board
 ---
 
 A County Durham health boss has called for GPs to return to a service based at Bishop Auckland Hospital after funding cuts led to changes in how it is staffed.

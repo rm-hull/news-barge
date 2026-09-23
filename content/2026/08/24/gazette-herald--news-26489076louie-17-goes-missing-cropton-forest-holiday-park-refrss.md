@@ -12,6 +12,17 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Cropton Forest Holiday Park
+- Cropton Forest Park
+- Pickering
+- Sunderland
+people:
+- Louie
+- Susan
+organisations:
+- Crumb
+- Drone Star
 ---
 
 A 17-year-old dog has gone missing while on holiday at a forest park.

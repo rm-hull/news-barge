@@ -14,6 +14,23 @@ categories:
 - Local
 - Harrogate
 - Music
+locations:
+- Bilton Club
+- Harrogate
+people:
+- Chris Bramhall
+- DJ Trev
+- DJ Trev**
+organisations:
+- Bilton Club
+- Bilton Club Box Office
+- Bottom of the Bottle
+- East 17
+- Harrogate
+- Montey’s
+- The Beautiful South
+- The Blues Bar
+- The Den
 ---
 
 Harrogate’s longest-running alternative, metal, and punk club night, Bottom of the Bottle, is making a major return to celebrate its **25th Anniversary Party**. Helmed by legendary local star** DJ Trev**, the night of noisy nostalgia is back for a highly anticipated one-off reunion.

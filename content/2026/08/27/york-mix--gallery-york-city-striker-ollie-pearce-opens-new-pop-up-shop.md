@@ -11,6 +11,18 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Coppergate
+- Fenwick York
+- Pennsylvania
+- York City
+people:
+- Ollie Pearce
+- Scott Lindsey
+organisations:
+- YCFC
+- York City FC
+- York Revolution Baseball Team
 ---
 
 There were queues inside Fenwick York this afternoon – as York City FC striker Ollie Pearce met with football fans.

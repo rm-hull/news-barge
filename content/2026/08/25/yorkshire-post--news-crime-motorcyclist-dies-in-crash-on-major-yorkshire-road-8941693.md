@@ -15,6 +15,15 @@ categories:
 - Automotive
 - True Crime
 - News & Politics
+locations:
+- A1246
+- Holyrood Lane
+- Selby
+- Yorkshire
+people: []
+organisations:
+- CCTV
+- North Yorkshire Police
 ---
 
 # Motorcyclist dies in crash on major Yorkshire road

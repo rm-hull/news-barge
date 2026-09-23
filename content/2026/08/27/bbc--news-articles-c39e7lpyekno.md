@@ -11,6 +11,49 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c7c/live/02b5a4
 categories:
 - UK
 - News & Politics
+locations:
+- Amanda
+- Cardiff East Park & Ride
+- Cheshunt
+- England
+- Germany
+- Google Data Centre
+- Hertfordshire
+- Llanrumney
+- Newport
+- Seattle
+- UK
+- US
+- Wales
+people:
+- Alan Brown
+- Amanda Young
+- Anthony
+- Lizzie Bailey
+- Mark John
+- Sue Elias
+- Zack Polanski
+organisations:
+- AI Growth Zones
+- Acorn
+- CVUHB
+- Cardiff Council
+- Curtis Hall Ltd
+- Friends of the Earth
+- Green Party
+- Kierra Box
+- Making AI Work for Britain*,*
+- Newport City Council
+- Ofgem
+- Senedd Research
+- Tramshed Tech
+- University Hospital of Wales
+- University of Exeter
+- Vale University Health Board
+- Vantage Data Center
+- Vantage Data Center Campus
+- Water UK
+- Welsh Water
 ---
 
 ![A woman with long blonde hair stands in her garden. Behind her, beyond her garden fence, is a large data centre which looks like a tall warehouse](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/4c7c/live/02b5a460-a2a8-11f1-ab20-f9f4f61e8913.jpg)

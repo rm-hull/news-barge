@@ -13,6 +13,14 @@ categories:
 - York
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- North Yorkshire
+- York
+people:
+- Jessica Armitage
+organisations:
+- Made Smarter Yorkshire
+- SYMCA
 ---
 
 ## Support offered to York and North Yorkshire businesses to combat cyber threats

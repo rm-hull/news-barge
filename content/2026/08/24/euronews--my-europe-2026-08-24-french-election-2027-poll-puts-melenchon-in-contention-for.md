@@ -13,6 +13,42 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Châteauneuf-sur-Isère
+- France
+- Valence
+- Élysée
+people:
+- Bruno Retailleau
+- Emmanuel Macron
+- François Hollande
+- Gabriel Attal
+- Jean-Luc Mélenchon
+- Jérémie Iordanoff
+- Marine Le Pen
+- Marine Tondelier
+- Raphaël Glucksmann
+- Sébastien Lecornu
+- Yannick Jadot
+- Édouard Philippe
+organisations:
+- Green
+- Greens
+- LFI
+- LR
+- La France Insoumise
+- Le Pen
+- Les Républicains
+- M6
+- Macron
+- NFP
+- New Popular Front
+- Nupes
+- Philippe
+- Place Publique
+- RTL
+- Rassemblement National
+- Socialist Party
 ---
 
 ## Eight months before the presidential election, Jean-Luc Mélenchon is surging in the polls. The LFI leader could now reach the run-off, while the left is split between his bid and the alternative championed by Raphaël Glucksmann.

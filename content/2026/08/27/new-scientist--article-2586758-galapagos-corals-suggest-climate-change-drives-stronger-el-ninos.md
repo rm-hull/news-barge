@@ -11,6 +11,25 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309669877.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Galapagos Islands
+- Indonesia
+- La Niña
+- New York
+- Pacific Ocean
+- South Sumatra
+people:
+- Julia Cole
+- Mark Cane
+- Michael McPhaden
+organisations:
+- Columbia University
+- ENSO
+- El Niño
+- El Niños
+- NOAA
+- US National Oceanic and Atmospheric Administration
+- University of Michigan
 ---
 
 ![Sampling corals near the Galapagos islands](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309669877.jpg?w=840)

@@ -11,6 +11,20 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/microduck-morning.jpg?r
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Microduck
+people:
+- Clem Delangue
+- Hugging Face
+organisations:
+- AI
+- GitHub
+- Hugging Face
+- Nvidia
+- OpenAI
+- Pollen Robotics
+- Raspberry Pi
+- TechCrunch
 ---
 
 Hugging Face unveiled the Microduck on Thursday, a cute little duck-like robot that sells for $399 — and ships before Christmas.

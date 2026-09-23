@@ -14,6 +14,34 @@ categories:
 - York
 - Business & Entrepreneurship
 - Shopping & Deals
+locations:
+- Beverley
+- Blake Street
+- England
+- Goodramgate
+- Halifax
+- Harrogate
+- Hebden Bridge
+- Ilkley
+- Lady Row
+- Leeds
+- Monk Bar
+- YOUR
+- York
+people:
+- JONATHAN JACOB
+- Marcus Doyle
+- Warren Booth
+organisations:
+- City of York Council
+- Goodramgate
+- Haydn Lewis)* York’s Imaginarium and Society of Alchemist
+- Owl Adventures
+- Public Notice Portal
+- The Press
+- The Shambles
+- The Yorkshire Soap Company
+- Yorkshire Soap Company
 ---
 
 ### What is the Public Notice Portal?

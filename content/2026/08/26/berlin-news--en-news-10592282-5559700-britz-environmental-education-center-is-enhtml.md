@@ -13,6 +13,16 @@ categories:
 - Berlin
 - Germany
 - News & Politics
+locations:
+- Britz
+- Britzer Garten
+- Neukölln
+people:
+- Ute Bonde
+organisations:
+- CDU
+- Senate Chancellery
+- State of Berlin
 ---
 
 © dpa

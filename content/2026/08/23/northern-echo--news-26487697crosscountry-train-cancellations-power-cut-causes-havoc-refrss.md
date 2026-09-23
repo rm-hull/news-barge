@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Birmingham
+- Cambridge
+- County Durham
+- Darlington station
+- North East
+- Peterborough
+- Stansted Airport
+people: []
+organisations:
+- CrossCountry
+- Delay Repay
+- NORTHERN ECHO
 ---
 
 *(Image: NORTHERN ECHO)*

@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- County Durham
+- Newcastle
+- North East
+- Royal Victoria Infirmary
+- Shotton Colliery
+- Westminster
+people:
+- Andy Burnham
+- Dana Carr
+- Gemma Chappell
+- Maya Chappell
+- Michael Daymond
+- Rachael Walls
+organisations:
+- Consett AFC
+- The Northern Echo
 ---
 
 A charity football match is being held in memory of murdered County Durham toddler Maya Chappell, with money raised set to support families dealing with child loss.

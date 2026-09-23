@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Birchington Avenue
+- Grangetown
+- Middlesbrough
+- Royal Victoria Infirmary
+people:
+- Emily Harrison
+- STUART BOULTON
+organisations:
+- Cleveland Local Policing Commander
+- Cleveland Police
+- North News & Pictures Ltd
+- RVI
+- Redcar
 ---
 
 *(Image: STUART BOULTON)*

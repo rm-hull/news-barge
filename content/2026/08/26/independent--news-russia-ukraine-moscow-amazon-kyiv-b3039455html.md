@@ -15,6 +15,23 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Crimea
+- Lipetsk
+- Moscow
+- Nizhny Novgorod
+- Russia
+- Tambov
+- Ukraine
+people:
+- Gleb Nikitin
+- Igor Artamonov
+- Yevgeny Pervyshov
+organisations:
+- Amazon
+- Defense Ministry
+- Kyiv
+- Wildberries
 ---
 
 Ukrainian long-range drones struck a major warehouse belonging to Russia’s biggest online retailer for the second time in just over a month, starting a massive fire that destroyed it completely, local authorities said Wednesday.

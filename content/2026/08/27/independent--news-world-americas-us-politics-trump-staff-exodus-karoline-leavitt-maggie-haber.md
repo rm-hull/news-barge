@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Atlantic
+- Camp David
+- Iran
+- Minnesota
+- U.S.
+- White House
+people:
+- Karoline Leavitt
+- Kash Patel
+- Kristi Noem
+- Maggie Haberman
+- Natalie Harp
+- Pam Bondi
+- Pete Hegseth
+- Trump
+organisations:
+- CNN
+- Cabinet
+- DOJ
+- Epstein
+- FBI
+- Homeland Security
+- MS Now
+- New York Times
+- The Washington Post
+- Trump
+- Truth Social
 ---
 
 The mood inside the White House has reportedly taken a dive and numerous staffers could be heading towards the exit sometime soon, following Press Secretary Karoline Leavitt’s impending departure.

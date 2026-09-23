@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Estonia
+- Jelgava
+- Latvia
+- Lithuania
+- Poland
+- Riga
+people:
+- Andris Viksna
+organisations:
+- AP
+- Latvian Environment, Geology and Meteorology Center
 ---
 
 Two people died and around half a million people were left without electricity across Latvia and Lithuania after a powerful cyclone, bringing rain and strong winds, hit the region on Saturday and into Sunday morning.

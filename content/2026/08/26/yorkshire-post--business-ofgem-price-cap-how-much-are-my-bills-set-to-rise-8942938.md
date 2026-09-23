@@ -15,6 +15,21 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- London
+- Middle East
+- UK
+people:
+- Andy Burnham
+- Dame Clare Moriarty
+- Neil Kenward
+- Simon Francis
+organisations:
+- Citizens Advice
+- Cornwall Insight
+- End Fuel Poverty Coalition
+- Government
+- Ofgem
 ---
 
 # Ofgem price cap: how much are my bills set to rise?

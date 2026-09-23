@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Cleveland
+- Durham
+- Middlesbrough
+- North Yorkshire
+- Northumbria
+people:
+- Matthew Blades
+- Tom Clough
+- Wayne Fox
+organisations:
+- A66
 ---
 
 Twelve people have been arrested on suspicion of offences including being involved with organised crime as part of the investigation into events leading to a crash on the A66 that killed two police officers and five others.

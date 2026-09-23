@@ -13,6 +13,29 @@ categories:
 - Technology & Software
 - Hardware
 - Personal Finance & Investing
+locations:
+- Apple
+- Brandon Hill
+- NC
+people:
+- Brandon Hill
+- Nvidia.Reply You
+- Tom
+organisations:
+- AI
+- AnandTech
+- Apple
+- DailyTech
+- GPU
+- Get Tom's Hardware
+- Google News
+- Hot Hardware
+- M5 Ultra
+- Mac Studio
+- PC
+- RAM
+- SoC
+- Tom's Hardware
 ---
 
 ![Apple Mac Mini (M6)](https://cdn.mos.cms.futurecdn.net/AvgL7izoWtiF7TwE5q246i.jpg) 

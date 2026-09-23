@@ -16,6 +16,22 @@ categories:
 - Government
 - Careers & Productivity
 - Personal Finance & Investing
+locations:
+- County Hall
+- North Yorkshire
+- North of England
+- York
+people:
+- Cllr Carl Les
+- Richard Flinton
+organisations:
+- Brierley
+- CQC
+- North Yorkshire Council
+- North Yorkshire County Council
+- North Yorkshire Local Resilience Forum
+- Ofsted
+- Wokingham Council
 ---
 
 ![Richard Flinton pictured sitting on a bench in the grounds of County Hall in Northallerton.](https://www.northyorks.gov.uk/sites/default/files/2026-08/Richard%20Flinton%20in%20grounds%20of%20County%20Hall.jpg) 

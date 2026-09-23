@@ -12,6 +12,26 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- '## Katie Hill'
+- Emmerdale
+people:
+- Caitlin Todd
+- Charity Dingle
+- Ian West
+- Katie Hill
+- Leyla
+- Ross Barton
+- Sarah Sugden
+- Sophie Roper
+organisations:
+- Charity
+- Emmerdale
+- ITV
+- ITVX
+- PA Wire
+- STV Player
+- YouTube
 ---
 
 *(Image: PA)*

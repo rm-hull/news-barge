@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Berlin
+- Britain
+- Europe
+- Faslane
+- France
+- Germany
+- Israel
+- Moscow
+- Russia
+- Scotland
+- UK
+- US
+- Ukraine
+people:
+- Donald Trump
+- John Ratcliffe
+- Vladimir Putin
+organisations:
+- CIA
+- Nato
+- The Independent
+- The Telegraph
+- Trident
+- Wall Street Journal
 ---
 
 Germany is in talks to help fund Britain’s Trident nuclear deterrent programme as Europe seeks to bolster its defences against Russia, according to a report.

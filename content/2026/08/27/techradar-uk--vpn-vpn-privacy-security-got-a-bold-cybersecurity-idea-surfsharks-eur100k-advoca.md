@@ -13,6 +13,29 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- Gabriele Sinkeviciute
+- Monica J. White
+- Surfshark
+organisations:
+- Amnesty International
+- Cybersecurity Advocacy Fund
+- Digital Trends
+- Feedzai
+- Global Anti-Scam Alliance
+- Google News
+- Head of Product
+- Internews
+- Malmö University
+- Monica
+- No Trace
+- Norton
+- SlashGear
+- Starter
+- Surfshark Cybersecurity Advocacy Fund
+- Tom’s Hardware
+- WePC
 ---
 
 ![Surfshark's graphic showing a megaphone to symbolize a cybersecurity advocacy fund](https://cdn.mos.cms.futurecdn.net/ioiB44h6kTna9zt7qmvW8W.png) 

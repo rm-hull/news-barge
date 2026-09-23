@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - Automotive
 - Business & Entrepreneurship
+locations:
+- Britain
+- Darlington
+- Europe
+- Gateshead
+- Newton Aycliffe
+- North East
+- Sunderland
+- UK
+people:
+- David James Wood
+- Neil Davies
+- Paul Butler
+organisations:
+- JUKE
+- LEAF
+- Lookers Car Leasing Hub
+- Lookers Motor Group
+- Lookers Nissan
+- Mobilize Lease & Co UK Ltd
+- NEAA
+- Nissan Motor GB Limited
+- Nissan Sunderland
+- North East Automotive Alliance
+- Qashqai
+- Select Lease
 ---
 
 *(Image: David James Wood)*

@@ -13,6 +13,46 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Azerbaijan Park
+- Baku
+- Black Sea
+- Bostanlyk
+- Bukhara
+- Caspian Sea
+- Central Asia
+- Charvak
+- China-Kyrgyzstan-Uzbekistan
+- Europe
+- Kazakhstan
+- Khankendi
+- Lachin
+- Middle Corridor
+- Nakhchivan
+- New Tashkent
+- Sea Breeze Uzbekistan
+- South Caucasus
+- Uzbekistan Park
+people:
+- Heydar Aliyev Order
+- Ilham Aliyev
+- Oliy Darajali Dustlik
+- Shavkat Mirziyoyev
+organisations:
+- ABB
+- Agalarov Development
+- Allied Relations
+- Azerbaijan-Uzbekistan Investment Company
+- Davr Bank
+- European Commission
+- European Union
+- FIFA Council
+- Nizami National Pedagogical University
+- SOCAR
+- Supreme Interstate Council
+- Trans-Caspian
+- Urgench
+- UzA
 ---
 
 ## Presidents Shavkat Mirziyoyev and Ilham Aliyev signed a Treaty on Eternal Friendship in Tashkent and launched new projects in banking, energy, tourism and mining. The two countries will also co-host the FIFA U-20 World Cup in 2027.

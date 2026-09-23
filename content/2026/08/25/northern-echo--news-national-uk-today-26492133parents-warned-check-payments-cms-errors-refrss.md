@@ -15,6 +15,24 @@ categories:
 - Family & Parenting
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Westminster
+people:
+- Andy Burnham
+- Costa
+- Nusrat Siddique
+- Silvia Cozzi
+organisations:
+- BBC
+- CMS
+- Child Maintenance Service
+- DWP State Pension
+- GOV.UK
+- Maple Hazel
+- Mumsnet
+- Rayden Solicitors
+- Social Security and Child Support Tribunal
+- St Michael
 ---
 
 *(Image: Silvia Cozzi)*

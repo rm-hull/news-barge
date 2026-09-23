@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- :**County Durham
+- County Durham
+- Keepmoat
+- North East
+- Scotswood
+- UK
+people:
+- Darryl Stewart
+- Geoff Scott
+organisations:
+- Applebridge
+- CSCS
+- Keepmoat North East
+- NHBC Training Hub
+- National House Building Council
+- The Rise
+- Wearmouth Construction
 ---
 
 A major housebuilder is tackling the construction skills shortage by training the next generation of talent.

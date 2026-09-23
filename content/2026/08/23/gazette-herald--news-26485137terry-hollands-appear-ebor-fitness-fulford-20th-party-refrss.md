@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Fulford
+- Hospital Fields Road
+- North Yorkshire
+people:
+- DJ James
+- Kevin
+- Natalie Garrington
+- Terry Hollands
+organisations:
+- Active Care Chiropractic
+- Athletica Physio
+- Bromwich Family Butchers
+- Ebor Fitness
+- Tristan
 ---
 
 A FAMOUS strongman is set to appear at a gym’s 20th birthday celebration.

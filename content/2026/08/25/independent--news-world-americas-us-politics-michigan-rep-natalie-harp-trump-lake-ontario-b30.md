@@ -11,6 +11,33 @@ image: https://static.independent.co.uk/2026/08/25/16/45/GettyImages-2235613531.
 categories:
 - News & Politics
 - UK
+locations:
+- Canada
+- Georgia
+- Great Lakes
+- Lake America
+- Lake Natalie
+- Lake Ontario
+- Michigan
+- South Lawn
+- U.S.
+- United States
+- White House
+people:
+- Abdul El-Sayed
+- Debbie Dingell
+- Donald Trump
+- Hasan Piker
+- Jon Ossoff
+- Lake Natalie’
+- Michael Boulos
+- Mélanie Joly
+- Natalie Harp
+- Tiffany Trump
+organisations:
+- Industry of Canada
+- Twitch
+- U.S. Ottawa
 ---
 
 Michigan Representative Debbie Dingell made a massive dig at Donald Trump and his close aide Natalie Harp over the president's threat to rename Lake Ontario to the wildly creative “Lake America.”

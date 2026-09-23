@@ -12,6 +12,36 @@ image: https://i.guim.co.uk/img/media/08e5d43da04f138f98f9c033bbbf70a054a8e580/6
 categories:
 - UK
 - News & Politics
+locations:
+- Baltimore
+- Berlin
+- Bremgarten
+- Bulgaria
+- England
+- Europe
+- Florida
+- Halle
+- Maryland
+- Netherlands
+- North America
+- Romania
+- Texas
+- US
+- Volksbühne
+people:
+- Aileen Weibeler
+- Alice Weidel
+- James Brock
+- Jeff Wiltse
+- Katrice Rodrigues
+- Mamie Livingston
+organisations:
+- Alternative für Deutschland
+- Institute for Human Rights
+- Roma
+- Sibiu Aqua Park
+- Sport England
+- Unity Swimming
 ---
 
 It was meant to be an outing for Black children in Berlin and their families, offering them an exclusive afternoon at an outdoor pool set up by a local theatre.

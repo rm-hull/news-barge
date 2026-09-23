@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Hull
+- Manchester
+- Yorkshire
+people:
+- Vicky Napp
+organisations:
+- NHS
+- Yorkshire Cancer Research
 ---
 
 *(Image: Yorkshire Cancer Research)*

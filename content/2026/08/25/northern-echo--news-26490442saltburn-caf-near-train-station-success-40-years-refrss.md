@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- County Durham
+- East Cleveland
+- North Yorkshire
+- Saltburn
+- Side Hatch
+- Station Square
+people: []
+organisations:
+- Runway Coffee
+- Saltburn
+- Signals
+- Tees Valley Combined Authority
 ---
 
 Whether you're after a full breakfast before a day at the beach, a coffee while waiting for a train, or cocktails and live music as the sun goes down, this East Cleveland café has it all.

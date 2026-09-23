@@ -11,6 +11,26 @@ description: Plug-in solar kits become legal in the UK from August 27, but will 
 image: https://cdn.mos.cms.futurecdn.net/K8N6WcQTEVfbFoGB4dfhVK-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Germany
+- London
+- Square Mile
+- UK
+people:
+- Mark Wilson
+organisations:
+- Amazon
+- Arena
+- Currys
+- FourFourTwo
+- Google News
+- Lidl
+- Stuff
+- Stuff.tv
+- TechRadar
+- The Daily Telegraph
+- The Sunday Times
+- Trusted Reviews
 ---
 
 ![Man and woman standing on balcony holding solar panel](https://cdn.mos.cms.futurecdn.net/K8N6WcQTEVfbFoGB4dfhVK.jpg) 

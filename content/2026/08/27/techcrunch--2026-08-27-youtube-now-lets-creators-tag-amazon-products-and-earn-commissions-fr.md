@@ -14,6 +14,15 @@ categories:
 - Technology & Software
 - Creator Economy & Marketing
 - Business & Entrepreneurship
+locations:
+- Amazon
+- U.S.
+people: []
+organisations:
+- Amazon Influencer
+- Shopping Affiliate Program
+- YouTube Studio
+- YouTube Support
 ---
 
 YouTube announced on Thursday that eligible creators in the U.S. can now tag Amazon products in their content and receive a cut of sales. Creators can link Amazon products in their shorts, long-form videos, and livestreams.

@@ -12,6 +12,19 @@ categories:
 - Science
 - Technology & Software
 - Travel
+locations:
+- England
+- UK
+- Wales
+people:
+- Bob Ward
+organisations:
+- Climate Change Committee
+- Grantham Research Institute on Climate Change and the Environment in London
+- ONS
+- Office for National Statistics
+- UKHSA
+- UK’s Health Security Agency
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309546666.jpg?w=840)

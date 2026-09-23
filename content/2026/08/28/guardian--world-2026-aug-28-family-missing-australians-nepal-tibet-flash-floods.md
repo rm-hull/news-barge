@@ -13,6 +13,69 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Australia
+- Bhotekoshi
+- Brisbane
+- Delhi
+- Gyirong Post
+- India
+- Kathmandu
+- Lake Manasarovar
+- Mount Kailash
+- Nepal
+- Nepal-Tibet
+- Nepal.
+- New South Wales
+- New Zealand
+- Queensland
+- Rasuwa
+- Springfield
+- Sydney
+- Tibet
+- Tibet-Nepal
+- Trishuli
+- Victoria
+people:
+- Aarush
+- Alex Zelinsky
+- Amrit Bhusal
+- Ashwin
+- Bharat Mangwani
+- Chandrasekaran Muralitharan
+- Chitra Venkatraman
+- Jen
+- Kailash Journeys
+- Karan Bhardwaj
+- Kushagra Tiwari
+- Lakshmi Iyer
+- Narayan Panthi
+- Nava Pandey
+- Penny Wong
+- Rishab
+- Rudhra Iyer
+- Sagar Pandey
+- Shisir Khanal
+- Shylaja Muralitharan
+- Sreedharan
+- Suhaasini Kandimalla
+- Suhasini Kandimalla
+- Sumi Adhikari
+- Supreethini Kandimalla
+- Vaishnavi
+- Venkatraman Balakrishnan
+organisations:
+- Department of Foreign Affairs and Trade
+- Guardian
+- Himalayan Glacier Adventures
+- Isha Foundation
+- Kailash Journeys
+- Kathmandu Holiday
+- NeNas Foundation
+- Trekkers Society
+- University of Newcastle
+- WPHCCC
+- West Pennant Hills Cherrybrook Cricket Club
 ---
 
 The families of an Australian defence force member and two Sydney boys who went missing with their parents in Nepal remain hopeful they will be found safe.

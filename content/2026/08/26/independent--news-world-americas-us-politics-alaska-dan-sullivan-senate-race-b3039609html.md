@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Alaska
+people:
+- Dan J. Sullivan
+- Dan S. Sullivan
+- Dan Sullivan
+- Donald Trump
+- Mary Peltola
+organisations:
+- AP
+- Alaska Division of Elections
+- Associated Press
+- GOP
+- National Republican Senatorial Committee
+- New York Times
+- REAL DAN SULLIVAN
+- Senate
+- US Forest Service
 ---
 
 Dan J. Sullivan, a retired schoolteacher in Alaska who launched a campaign to take on the incumbent Senator with the same name, came away from last week’s primary with roughly 2.5 percent of the vote, according to the Associated Press.

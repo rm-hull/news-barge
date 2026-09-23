@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Cliff Road
+- Cockfield
+- King's Head
+- Langhurst
+- North East
+- Northumberland
+- River Tyne
+- Ryhope
+- South Tyneside Magistrates’ Court
+- Sunderland
+people:
+- Carl Robert Minto
+organisations:
+- Northumbria Police
 ---
 
 *(Image: SUBMITTED)*

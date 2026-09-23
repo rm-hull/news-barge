@@ -12,6 +12,21 @@ image: https://cdn.mos.cms.futurecdn.net/gkmdRXeMm3J7VF9tLBwxJg-2560-80.jpg
 categories:
 - Technology & Software
 - Home, Garden & DIY
+locations:
+- UK
+people:
+- Anker Solix
+- Regen
+organisations:
+- Anker Solix
+- Baseus Security
+- Google News
+- PC Format
+- PC Plus
+- Regen
+- SCA
+- Speciality Coffee Association
+- TechRadar
 ---
 
 ![Couple standing on balcony holding solar panel](https://cdn.mos.cms.futurecdn.net/gkmdRXeMm3J7VF9tLBwxJg.jpg) 

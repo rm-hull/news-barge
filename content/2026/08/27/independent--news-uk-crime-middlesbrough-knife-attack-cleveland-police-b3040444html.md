@@ -12,6 +12,35 @@ image: https://static.independent.co.uk/2026/08/26/15/2292153396..?trim=0,1,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- A66
+- Birchington Avenue
+- Eston
+- Grangetown
+- Middlesbrough
+- Newcastle
+- Royal Victoria Infirmary
+- Sedgemoor Road
+- South Bank
+- Steele Crescent
+people:
+- Alec Brown
+- Andy Burnham
+- Andy McDonald
+- Emily Harrison
+- Josh Kirton
+- Lisa Kirton
+- Ms McDonald
+- Natalie McDonald
+- Valentina Foster
+organisations:
+- Cleveland Council
+- Cleveland Police
+- Middlesbrough & Thornaby East
+- RVI
+- Redcar
+- The Times
+- Times Radio
 ---
 
 More than 200 police officers from around the country will be deployed to Middlesbrough following a series of violent incidents in the town which have left nine people dead.

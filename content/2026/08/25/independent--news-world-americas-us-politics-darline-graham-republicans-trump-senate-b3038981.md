@@ -12,6 +12,35 @@ image: https://static.independent.co.uk/2026/08/25/10/2291338266..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Darline
+- Myrtle Beach
+- South Carolina
+- South China Sea
+- Taiwan
+- U.S.
+people:
+- Blind
+- Darline Graham
+- Donald Trump
+- Henry McMaster
+- Lindsey Graham
+- Mark Sanford
+- Nancy Mace
+- Nikki Haley
+- Ralph Norman
+- Russell Fry
+- Trafalgar
+organisations:
+- Congress
+- House Freedom Caucus
+- MAGA Inc.
+- PAC
+- PACs
+- Senate
+- South Carolina Commission
+- Trump
+- Turning Point USA
 ---
 
 Republicans expect Sen. Darline Graham of South Carolina to lose her runoff race against Rep. Ralph Norman for the primary to replace her brother Lindsey Graham as the Republican nominee for Senate in November, according to a report

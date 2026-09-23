@@ -11,6 +11,31 @@ image: https://static.independent.co.uk/2026/08/26/17/21/GettyImages-1292639188.
 categories:
 - News & Politics
 - UK
+locations:
+- Albany
+- Covid
+- New York
+- Phoebe Putney Memorial Hospital
+- U.S.
+- United States
+people:
+- Blacke
+- Covid
+- James Black
+- Jodie Guest
+- William Schaffner
+organisations:
+- AARP
+- American Journal of Managed Care
+- BA
+- CDC
+- CIDRAP News
+- Centers for Disease Control and Prevention
+- Covid
+- Emory University’s Rollins School of Public Health
+- Stratus
+- Vanderbilt Health
+- WALB
 ---
 
 A familiar Covid variant is spreading around the U.S. – but the symptoms doctors are seeing are a little different than normal.

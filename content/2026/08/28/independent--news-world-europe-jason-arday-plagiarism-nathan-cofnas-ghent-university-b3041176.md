@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Arday
+- Belgium
+- Cambridge
+- Ghent
+- London
+- Trafalgar Square
+- US
+people:
+- Bill White
+- Emmanuel College
+- Ghent
+- Jason Arday
+- Joe Giddens
+- Nathan Cofnas
+organisations:
+- Cambridge University
+- Emmanuel College
+- Ghent University
 ---
 
 Ghent University has permitted Nathan Cofnas, the US academic who accused late Cambridge University professor Jason Arday of plagiarism, to resume selected academic work while a disciplinary inquiry continues, the Belgian institution announced on Friday.

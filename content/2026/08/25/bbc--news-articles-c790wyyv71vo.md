@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Jed York
+- Ohio
+- US
+people:
+- Andrew Cavenagh
+- Jed York
+organisations:
+- 49ers Enterprises
+- Columbiana County Municipal Court
+- East Palestine Police Department
+- Human Trafficking Task Force
+- Leeds United
+- Levi's Stadium.He
+- NFL
+- Premier League
+- Rangers
+- San Francisco 49ers
+- San Francisco 49ers Court
+- Tennessee Titans
+- The 49ers
+- York
 ---
 
 ![Police mugshot release of Jed York](https://ichef.bbci.co.uk/ace/standard/580/cpsprodpb/7da0/live/b4003d30-a06d-11f1-a9ee-9bb6b032b6a3.jpg)

@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Chapeltown
+- Grenoside
+- High Green
+- Paige Turner
+- Save Ecclesfield
+- Sheffield
+- Surrey Street
+people:
+- Green
+- Mike Egerton
+organisations:
+- Chapeltown Greenbelt
+- Green Party
+- Sheffield Green Party
+- Sheffield Local
+- Yorkshire Post Letters
 ---
 
 # Heatwaves show protecting greenbelt land is an imperative - Yorkshire Post Letters

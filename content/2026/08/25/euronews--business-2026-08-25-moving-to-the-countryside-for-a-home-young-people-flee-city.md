@@ -15,6 +15,24 @@ categories:
 - Personal Finance & Investing
 - Real Estate
 - Society & Culture
+locations:
+- Andalusia
+- Barcelona
+- Brussels
+- Catalonia
+- Cuenca
+- Madrid
+- Málaga
+- Spain
+- Teruel
+people:
+- María Matos
+organisations:
+- Bankinter
+- European Union
+- Fotocasa Research
+- INE
+- National Statistics Institute
 ---
 
 ## 13% of would-be homebuyers plan to move to towns under 10,000 residents. Often single 35-year-olds on average incomes, they see depopulated Spain as their only escape from a housing market that has shut them out.

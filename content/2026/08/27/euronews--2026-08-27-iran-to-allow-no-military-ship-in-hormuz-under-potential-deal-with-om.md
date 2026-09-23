@@ -13,6 +13,27 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Iran
+- Islamic Republic
+- Oman
+- Persian Gulf
+- Strait of Hormuz
+- Tehran
+- US
+- Washington
+people:
+- Abbas Araghchi
+- Ayatollah Ali Khamenei
+- Ayatollah Motjaba Khamenei
+- Donald Trump
+- Kazem Gharibabadi
+- Motjaba Khamenei
+- Scott Bessent
+organisations:
+- Al Jazeera
+- US Treasury
+- United Nations
 ---
 
 ## The latest development comes amid US President Donald Trump's threat to bomb Oman if it “gets in the way," as his administration opposes parts of the evolving agreement.

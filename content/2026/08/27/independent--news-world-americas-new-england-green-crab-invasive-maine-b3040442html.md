@@ -14,6 +14,46 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Alaska
+- Argentina
+- Atlantic
+- Australia
+- Boston
+- Cambridge
+- Connecticut
+- East Coast
+- Europe
+- Italy
+- Japan
+- Maine
+- Massachusetts
+- New Bedford
+- New England
+- New Hampshire
+- New York City
+- Rhode Island
+- South Africa
+- Venice
+- Washington County
+- West Coast
+- York River
+people:
+- Carolyn Tepolt
+- Chad Coffin
+- Jonah
+- Marissa McMahan
+- Mike Masi
+- Raquel Crosier
+- Tracy Chang
+- William Li
+organisations:
+- Fish Program
+- Lummi Nation
+- Manomet Conservation Sciences
+- PAGU
+- Shoalwater Bay Indian Tribe
+- Woods Hole Oceanographic Institution
 ---
 
 As morning fog cleared across Maine's York River, Mike Masi and his two interns worked alongside a dock, sorting through a pile of the region's most reviled crabs in search of a select few that might feature on a New England diner's plate.

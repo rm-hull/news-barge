@@ -13,6 +13,29 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- East Yorkshire
+- Europe
+- Keighley
+- North
+- South West
+- UK
+- Weybridge
+people:
+- Ele Brown
+- James Hardisty
+- Keighley
+- Richard Irvine
+- Robbie Moore
+organisations:
+- Defra
+- Environment Department
+- Ilkley
+- Labour
+- NFU
+- National Audit Office
+- The Yorkshire Post
+- Wales’
 ---
 
 # Farmers warned to 'remain vigilant' to foot and mouth amid 'surge' in bluetongue cases

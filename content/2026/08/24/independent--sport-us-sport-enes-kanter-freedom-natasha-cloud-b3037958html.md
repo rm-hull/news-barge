@@ -14,6 +14,29 @@ categories:
 - UK
 - Sports
 - Society & Culture
+locations:
+- Chicago
+- Indiana
+- Wintrust Arena
+people:
+- Aicha Coulibaly
+- Azura Stevens
+- Black
+- Caitlin Clark
+- DiJonai Carrington
+- Enes Kanter Freedom
+- Natasha Cloud
+- Royce White
+- Sophie Cunningham
+- Tash
+- Tyler Marsh
+organisations:
+- Chicago Sky
+- ESPN
+- Freedom
+- Indiana Fever
+- NBA
+- WNBA
 ---
 
 Former NBA center Enes Kanter Freedom was ejected from Sunday night's WNBA game between the Indiana Fever and Chicago Sky after a confrontation with Sky guard Natasha Cloud late in the third quarter.

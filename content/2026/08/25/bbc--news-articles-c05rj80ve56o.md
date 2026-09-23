@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Alabama
+- America
+- British Columbia
+- Canada
+- Kentucky
+- Maine
+- Michigan
+- Minnesota
+- New York
+- Ohio
+- Ontario
+- Ottawa
+- US
+- United States
+- Wisconsin
+people:
+- Angus Reid
+- David Eby
+- Doug Ford
+- Mark Carney
+- Trump
+organisations:
+- '## Energy'
+- Associated Press
+- CNN
+- Congress
+- EU
+- Finance Department
+- Ford
+- Senate
+- Trump
+- Wine Institute
+- Yale Budget Lab
 ---
 
 'Trump underestimates us': Doug Ford takes aim at US over tariffs

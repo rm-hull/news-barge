@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Arkengarthdale
+- Arkle Beck Wood
+- Birk Park Wood
+- Cuckoo Hill Wood
+- England
+- North Yorkshire
+- Swaledale
+- Yorkshire Dales
+- Yorkshire Dales National Park
+people:
+- Ian Nesbit
+organisations:
+- Hope Moor
+- Richmond Motor Club
+- Yorkshire Dales National Park Authority
 ---
 
 Long-term plans are to be drawn up to reduce the impact of the historic Scott Trial on ancient woodland and archaeological remains in the Yorkshire Dales.

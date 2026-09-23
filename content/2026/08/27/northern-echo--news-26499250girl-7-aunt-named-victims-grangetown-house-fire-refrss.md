@@ -15,6 +15,23 @@ categories:
 - History
 - True Crime
 - Society & Culture
+locations:
+- Birchington Avenue
+- Grangetown
+- Newcastle
+- Redcar
+- Royal Victoria Infirmary
+people:
+- Emily Harrison
+- Lisa Kirton
+- Natalie McDonald
+- Valentina Foster
+organisations:
+- Cleveland Fire Brigade
+- Cleveland Local Policing
+- Cleveland Local Policing Commander
+- Cleveland Police
+- Incident Command Unit
 ---
 
 A seven-year-old girl and her aunt have been named locally as the two people who died in a house fire that saw two men arrested on suspicion of murder.

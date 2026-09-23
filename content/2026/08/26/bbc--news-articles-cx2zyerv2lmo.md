@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Bhote Koshi
+- China
+- Kathmandu
+- Nepal
+- Rasuwa
+- Tibet
+people:
+- Balendra Shah
+- Narendra Pariyar
+- Yee Liang
+organisations:
+- BBC Nepali
+- Rasuwa
+- Red Cross
 ---
 
 ![Mud and sand are piled up against a hydropower plant affected by a flash flood in northern Nepal](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/6bd2/live/72e08190-a11f-11f1-92eb-a9b3bbcf6f4a.jpg)

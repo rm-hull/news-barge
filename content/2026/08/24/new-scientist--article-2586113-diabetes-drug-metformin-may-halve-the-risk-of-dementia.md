@@ -12,6 +12,20 @@ categories:
 - Science
 - Technology & Software
 - Health & Fitness
+locations:
+- New York
+- Sweden
+people:
+- José Luchsinger
+- Miia Kivipelto
+organisations:
+- Columbia University
+- DPP Outcomes Study
+- Diabetes Prevention Program
+- Karolinska Institute
+- Kivipelto
+- MET-FINGER
+- Metformin in Alzheimer’s Dementia Prevention
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309376731.jpg?w=840)

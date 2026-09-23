@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- A66
+- Birchington Avenue
+- Grangetown
+- Middlesbrough
+- Newcastle
+- Redcar
+- Royal Victoria Infirmary
+people:
+- Ellie
+- Emily Harrison
+organisations:
+- Cleveland Local Policing Commander
+- RVI
 ---
 
 A neighbour of a house caught in a fire which saw two people including a child die has recalled how local residents tried to rescue the occupants.

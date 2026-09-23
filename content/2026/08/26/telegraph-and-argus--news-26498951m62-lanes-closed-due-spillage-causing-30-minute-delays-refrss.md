@@ -12,6 +12,16 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- Bradford
+- Brighouse
+- Highways England
+- J26
+- M62
+people: []
+organisations:
+- J25
+- National Highways
 ---
 
 *(Image: Highways England)*

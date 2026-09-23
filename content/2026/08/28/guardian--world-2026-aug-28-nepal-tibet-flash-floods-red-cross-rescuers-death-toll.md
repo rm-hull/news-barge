@@ -12,6 +12,42 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bagmati
+- Bangladesh
+- Bidur
+- Britain
+- China
+- Chitwan
+- Geneva
+- Himalayas
+- India
+- Japan
+- Kathmandu
+- Langtang
+- Nepal
+- Nepal-Tibet
+- Nuwakot
+- Rasuwa
+- South Korea
+- Sri Lanka
+- Tibet
+- Trishuli River
+- US
+people:
+- David Fisher
+- Dinesh Bhattarai
+- Lila Pieters Yahia
+- Lok Bahadur Chhetri
+organisations:
+- Agence France-Presse
+- CCTV
+- IFRC
+- International Federation of Red Cross and Red Crescent Societies
+- Kathmandu Post
+- Red Cross
+- Reuters
+- UN
 ---
 
 The Red Cross has said at least 93,000 people may have been affected by Wednesday’s flash floods on the Nepal-Tibet border, which have killed nearly 600 people, left another 1,900 missing, and triggered a huge rescue operation that is being hampered by fears of new flooding.

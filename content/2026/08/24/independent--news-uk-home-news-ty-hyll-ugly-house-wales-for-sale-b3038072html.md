@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- A5
+- Betws-y-Coed
+- Capel Curig
+- North Wales’
+- Snowdonia National Park
+- The Ugly House
+people:
+- Catherine McGuinness
+- Hyll
+organisations:
+- Luxury Property News
+- Town and Country Property Auctions
 ---
 
 A famous and unique ‘ugly’ house steeped in Welsh folklore has gone on sale for £199,000 – but locals aren’t happy.

@@ -12,6 +12,22 @@ categories:
 - Berlin
 - Germany
 - News & Politics
+locations: []
+people:
+- Elif Eralp
+- Kristin Brinker
+- Lukas Krieger
+- Steffen Krach
+- Werner Graf
+organisations:
+- AfD
+- Alliance
+- Berlin State Agency for Civic Education
+- CDU
+- Federal Agency for Civic Education
+- SPD
+- The Greens
+- The Left
 ---
 
 © dpa

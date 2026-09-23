@@ -15,6 +15,44 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Cold Kirby
+- Diocese of York
+- England
+- Helmsley
+- Historic Yorkshire
+- North York Moors
+- North York Moors National Park
+- North York Moors'
+- Pilgrim Trail
+- Rievaulx
+- Saint Aelred
+- Saint Michael's Church
+- Saint Michael’s Lodge
+- St Michael’s Church
+- Sutton Bank Centre
+- Upper Ryedale
+people:
+- Helen Featherstone
+- Ian Robinson
+- Michael
+- Michael’s Lodge
+- Saint Aelred
+organisations:
+- Church of Saint Michael
+- Cleveland Way National Trail
+- Cold Kirby
+- Grade II
+- Heritage Fund
+- Historic England
+- Lent Pilgrimage
+- National Lottery
+- National Lottery Heritage Fund
+- Pilgrim Trail Society
+- Rievaulx Abbey
+- SAPT
+- Saint Aelred
+- The National Lottery Heritage Fund
 ---
 
 # St Michael’s Church at Cold Kirby: Historic Yorkshire church recently designated as Grade II listed building to be given new lease of life after closure through £122,760 grant

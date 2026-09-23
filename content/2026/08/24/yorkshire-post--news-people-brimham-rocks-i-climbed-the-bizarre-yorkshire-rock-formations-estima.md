@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Brimham Rocks
+- Leeds
+- Nidderdale National Landscape AONB
+- Yorkshire
+people:
+- Jenga
+organisations:
+- Brimham Rocks
+- Idol Rock
+- Mushroom Rock
+- National Trust
 ---
 
 # Brimham Rocks: “I climbed the bizarre Yorkshire rock formations estimated to be 320 million years old”

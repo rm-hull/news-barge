@@ -13,6 +13,29 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- China
+- U.S.
+- Washington
+people:
+- Gavin Sherry
+- Jensen Huang
+- Sundeep Madra
+- Trump
+- Xi
+organisations:
+- Alphabet
+- AnthroPAC
+- Anthropic
+- Bloomberg Government
+- Federal Election Commission
+- Google
+- Meta Platforms
+- NVPAC
+- Nvidia
+- PACs
+- Republican National Committee
+- Trump
 ---
 
 Nvidia is preparing to launch an employee-funded political action committee as part of an effort to shape U.S. policy, according to a person familiar with the decision.

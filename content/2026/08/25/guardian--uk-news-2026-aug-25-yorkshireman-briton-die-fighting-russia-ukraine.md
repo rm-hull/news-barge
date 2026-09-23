@@ -12,6 +12,29 @@ image: https://i.guim.co.uk/img/media/3b92b6c40976eed7ffc627611d0e908897a4625b/5
 categories:
 - UK
 - News & Politics
+locations:
+- Afghanistan
+- Barnsley
+- Britain
+- Donbas
+- Donetsk
+- Europe
+- Iraq
+- Lyman
+- Romania
+- Russia
+- South Yorkshire
+- UK
+- Ukraine
+people:
+- Aiden Minnis
+- Ben Stimson
+- Bradley Townsend
+- Tom Tugendhat
+organisations:
+- Donbas
+- Foreign Office
+- LBC
 ---
 
 A man from South Yorkshire is believed to be the first British citizen to die fighting for Russia in its war against Ukraine.

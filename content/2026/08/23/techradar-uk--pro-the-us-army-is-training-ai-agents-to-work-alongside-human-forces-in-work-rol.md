@@ -12,6 +12,21 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Sports
+locations: []
+people:
+- Christopher Eubank
+- Jeth Rey
+organisations:
+- ARCYBER
+- Army Cyber Command
+- Defense Innovation Unit
+- Efosa
+- G-6
+- Google News
+- Task Force Lexington
+- TechRadar Pro
+- U.S. Army AI
+- US Army
 ---
 
 ![U.S. Army AI](https://cdn.mos.cms.futurecdn.net/22wor5zabvQx45LnjDAFpb.png) 

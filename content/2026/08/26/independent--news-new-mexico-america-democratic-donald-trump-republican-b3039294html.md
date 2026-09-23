@@ -15,6 +15,82 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- America
+- Beaver Lake
+- Cass County
+- China
+- Council Bluffs
+- Dallas County
+- Doña Ana County
+- East Texas
+- Highway 75
+- Iowa
+- Lincoln
+- Missouri River
+- Murdock
+- Murray
+- Nebraska
+- New Mexico
+- Ohio
+- Omaha
+- Pennsylvania
+- Plattsmouth
+- Rio Grande
+- Santa Fe
+- Saudi Arabia
+- Scranton
+- Silicon Valley
+- Tyler
+- U.S.
+- United Arab Emirates
+- Wyoming
+people:
+- Barncastle Salopek
+- Chris Backemeyer
+- Chuck Gray
+- Donald Trump
+- Greg Abbott
+- Heather McKenzie
+- Jesus Rodriguez
+- Josh Shapiro
+- Judy Stroy
+- Kardal Coleman
+- Kathy Hochul
+- Ken Winston
+- Leighton Elise Eusebio
+- Mike Gage
+- Mike Johnson
+- Montoya Bryan
+- Murdock
+- Paige Cognetti
+- Rob Bresnahan
+- Samantha Barncastle Salopek
+organisations:
+- ABC News
+- AI
+- Center for Biological Diversity
+- Corn Grower’s State Bank
+- CyrusOne
+- Democratic New York
+- Democratic Party
+- Doña Ana County Commission
+- Fox News
+- House
+- Midwest Farmer's Coop
+- Nebraska Sierra Club
+- Nebraska State AFL-CIO
+- New Mexico Supreme Court
+- Oracle
+- Project Jupiter
+- Republican Party
+- Senate
+- Sierra Club
+- State Department
+- Stroy
+- Tenaska
+- Trump
+- U.S. Supreme Court
 ---
 
 In rural eastern Nebraska, a technology revolution could rise from fields of corn and soybean in the form of new data centers to power the artificial intelligence boom.

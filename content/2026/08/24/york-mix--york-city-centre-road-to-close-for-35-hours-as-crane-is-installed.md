@@ -11,6 +11,32 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- '#### Rougier Street'
+- Bridge Street
+- Clifford Street
+- Fawcett Street
+- Fishergate
+- George Hudson Street
+- Low Ousegate
+- Micklegate
+- Nessgate
+- Northern House
+- Nunnery Lane
+- Paragon Street
+- Prices Lane
+- Queen Street
+- Rougier Street
+- Skeldergate Bridge
+- Station Road
+- Tanner Row
+- Tower Street
+- York This
+people: []
+organisations:
+- Dakota Hotel
+- Tanner’s Moat
+- Wellington Row
 ---
 
 York drivers have been warned that a key city centre route will be hit by a closure tomorrow (Tuesday).

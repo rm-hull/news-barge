@@ -14,6 +14,16 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Bike Base
+- Dikes Lane
+- Great Ayton
+- North East
+people: []
+organisations:
+- Bike Base
+- Bike Base North York Moors Ltd
+- North Yorkshire Council
 ---
 
 A bid to allow alcohol sales and live music at a café and bike hire business near Great Ayton has divided the local community, with dozens of residents writing both in support and opposition.

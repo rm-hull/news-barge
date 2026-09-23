@@ -12,6 +12,34 @@ categories:
 - UK
 - True Crime
 - Society & Culture
+locations:
+- Bde Maka Ska Lake
+- Hennepin Avenue Bridge
+- Inver Grove Heights
+- Maple Grove
+- Minneapolis
+- Mississippi River
+- Republic of Ireland
+- Stevens Square
+- Stone Arch Bridge
+- UK
+- USA
+people:
+- David Goehl-Manolis
+- Karen Lynn Sognesand
+- Randip Eugene Satoskar
+- Timothy Standish Jr
+organisations:
+- 988 Suicide and Crisis Lifeline
+- CBS News
+- Dakota County Sheriff’s Office
+- Fox 9
+- Minneapolis Police Department
+- Minneapolis Star Tribune
+- National Alliance on Mental Illness Minnesota
+- Samaritans
+- The Independent
+- University of Minnesota
 ---
 
 Police in Minneapolis have sought to reassure members of the public after at least four people were found dead over a period of five days.

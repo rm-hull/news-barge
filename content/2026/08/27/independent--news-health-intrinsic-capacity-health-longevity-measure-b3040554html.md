@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- France
+people:
+- David Furman
+- John Beard
+organisations:
+- Buck Institute for Research on Aging
+- The New York Times
+- World Health Organization
 ---
 
 What if there were a way to determine how well someone was aging — without focusing on their ailments or diseases?

@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Sports
 - Health & Fitness
+locations:
+- Birmingham
+- Brussels
+- Glasgow
+- Kenya
+- Switzerland
+- Tokyo
+- Zurich
+people:
+- Audrey Werro
+- Femke Broeders-Bol
+- Georgia Hunter-Bell
+- Keely Hodgkinson
+- Lilian Odira
+organisations:
+- Diamond League
+- Keely Hodgkinson
+- Lausanne Diamond League
+- London Diamond League
 ---
 
 ![Keely Hodgkinson](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a9a0/live/f63244a0-9fe6-11f1-8ed1-41aaf1fca4f2.jpg)

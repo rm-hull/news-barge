@@ -12,6 +12,40 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/founder-summit-audience
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- AI
+- Boston
+- U.S.
+- USA
+people:
+- Alexandra Ames
+- George Bandarian
+- Greg Kurtzer
+- Gregory Kurtzer
+- IFTTT
+- Peter Farkas
+- Vikram Chaudhery
+organisations:
+- ADIN.AI
+- AI
+- Ambi Robotics
+- Blueprint Lab
+- CIQ
+- CMO
+- CentOS
+- Draper Associates
+- Exowatt
+- Fortune
+- Genoa Ventures
+- IRA
+- L’Oreal
+- Ollama
+- Red Hat
+- Rocky Linux
+- TechCrunch
+- Untapped Ventures
+- Vodafone
+- a16z Speedrun
 ---
 
 Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston on November 4 will be no different! We want to thank everyone who applied to take part in our programming and to help share their expertise with the startup community.

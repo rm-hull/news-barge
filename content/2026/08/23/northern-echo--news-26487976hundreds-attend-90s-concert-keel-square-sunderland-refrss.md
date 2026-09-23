@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Darlington
+- Keel Square
+- Sunderland
+people:
+- Amelle
+- Claire Richards
+- DJ Sammy
+- Natasha Hamilton
+organisations:
+- Atomic Kitten
+- EastEnders
+- Eternal
+- My Sunderland
+- Netflix
+- North News & Pictures Ltd
+- Sugababes
 ---
 
 Hundreds of music fans packed Keel Square as 90s pop stars brought a day of nostalgic hits to Sunderland.

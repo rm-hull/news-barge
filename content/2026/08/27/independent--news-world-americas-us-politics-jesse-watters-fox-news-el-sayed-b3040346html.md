@@ -11,6 +11,25 @@ image: https://static.independent.co.uk/2026/08/27/13/30/Screenshot-2026-08-27-a
 categories:
 - News & Politics
 - UK
+locations:
+- Michigan
+people:
+- ',” Watters'
+- Abdul El-Sayed
+- Hillary Clinton
+- Jesse Watters
+- Jessica Tarlov
+- Mike Rogers
+- Yeah
+organisations:
+- All
+- Democratic Socialists of America
+- Fox News
+- Fox News’
+- NFL
+- U.S. Senate
+- US Senate
+- Watters’
 ---
 
 Fox News’ Jesse Watters jokingly attacked his co-host for “gay shaming” him over his bromance with Abdul El-Sayed, the Democratic nominee for U.S. Senate in Michigan, who asked Watters if he was circumcised during a recent interview.

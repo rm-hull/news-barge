@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Battersea
+- Cambridge
+- London
+- Trafalgar Square
+- UK
+people:
+- Diane Abbott
+- Jason Arday
+- Julian Morris
+- Lord Woolley
+- Nathan Cofnas
+- Patrick Vernon
+- Prof Arday
+- Simon & Schuster
+organisations:
+- Ghent University
+- GoFundMe
+- London Inner South Coroner’s Court
+- Metropolitan Police
+- Stand Up to Racism for Prof Arday
+- University of Cambridge
 ---
 
 Professor Jason Arday was found unresponsive by family members days after resigning from his post at the University of Cambridge, an inquest has heard.

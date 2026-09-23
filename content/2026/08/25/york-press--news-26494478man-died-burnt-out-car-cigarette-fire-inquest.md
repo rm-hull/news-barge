@@ -12,6 +12,39 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- A64
+- County Galway
+- County Kildare
+- England
+- Ireland
+- Malton
+- Marishes Lane
+- Marishes Low Road
+- Merseyside
+- North Yorkshire
+- Norton
+- Ryedale
+- Spotted Cow
+people:
+- Adrian Keatley
+- Anna Atkinson-Spragg
+- Denis Hogan
+- Hugh Mulryan
+- John Kavanagh
+- Jonathan Leach
+- Mark Prescott
+- Ms Atkinson-Spragg
+- Much-loved’ York
+- Nora
+- Passat
+organisations:
+- Astra
+- Baroda Stud
+- Guinness
+- North Yorkshire Fire and Rescue Service
+- Racing Post
+- Spotted Cow
 ---
 
 *(Image: Baroda Stud)*

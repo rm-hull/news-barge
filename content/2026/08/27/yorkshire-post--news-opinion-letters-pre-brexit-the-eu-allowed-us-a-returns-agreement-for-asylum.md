@@ -13,6 +13,29 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Britain
+- Europe
+- Leeds
+- Linton-on-Ouse
+- North Yorkshire.
+- Owen Humphreys
+- PA
+- Roundhay
+- Rwanda
+- UK
+people:
+- Andy Burnham
+- Boris Johnson
+- Ed Davey
+- Kevin Hollinrake
+- Peter Packham
+organisations:
+- EU
+- European Union
+- Liberal Democrats
+- RAF Linton-On-Ouse
+- Yorkshire Post Letters
 ---
 
 # Pre-Brexit the EU allowed us a returns agreement for asylum seekers - Yorkshire Post Letters

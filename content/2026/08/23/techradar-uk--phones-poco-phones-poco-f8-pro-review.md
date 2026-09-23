@@ -12,6 +12,34 @@ image: https://cdn.mos.cms.futurecdn.net/MQi9vJGpG9gQKLxEK4urTj-2560-80.jpg
 categories:
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Australia
+- Dynamic Island
+- Gray
+- Hyper Island
+- UK
+- US
+people:
+- Nirave Gondhia
+- Poco
+organisations:
+- Apple
+- Black
+- Duracell
+- F8 Pro
+- Gemini
+- Google
+- House of Tech
+- IR
+- LocalSend
+- Nirave
+- OIS
+- Poco
+- Samsung
+- TechRadar
+- Titanium Silver
+- UX
+- Xiaomi
 ---
 
 ### TechRadar Verdict

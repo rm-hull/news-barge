@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - History
 - Sports
+locations:
+- Arabian Sea
+- Eyl
+- Gulf of Aden
+- Horn of Africa
+- Indian Ocean
+- Iran
+- Israel
+- Puntland
+- Red Sea
+- Somalia
+- Strait of Hormuz
+- United States
+- Yemen
+people: []
+organisations:
+- AFP
+- Global Integrated Shipping Information System
+- IMO
+- International Maritime Organisation
 ---
 
 ## The region, which hosts some of the world's busiest shipping routes, has seen traffic heavily disrupted since the Iran war began on 28 February, affecting shipping through the crucial Strait of Hormuz.

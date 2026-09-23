@@ -11,6 +11,99 @@ image: https://i.guim.co.uk/img/media/36c84248610af0ec823feca23e5ca89bdcf2bea9/5
 categories:
 - UK
 - News & Politics
+locations:
+- Albania
+- Balkans
+- Barnsley
+- Brandenburg
+- Bratislava
+- Britain
+- Buckingham Palace
+- Donbas
+- Donetsk
+- Europe
+- France
+- Germany
+- Halle
+- Iran
+- Israel
+- Joint Base Andrews
+- Kabelsketal
+- Kremlin
+- Kyiv
+- Latvia
+- Leipzig
+- Lyman
+- Middle East
+- Moldova
+- Montenegro
+- Moscow
+- New York
+- Paris
+- Riga
+- Russia
+- Saxony-Anhalt
+- Serbia
+- Slovakia
+- Spain
+- UK
+- US
+- Ukraine
+- United Kingdom
+- United States
+- Vatican
+- Washington
+- Yorkshire
+- Zelenskyy
+people:
+- Aaron Chown
+- Aiden Minnis
+- Alexander Stubb
+- Andy Burnham
+- António Costa
+- Ben Stimson
+- Bloomberg
+- Bradley Townsend
+- Camilla
+- Charles III
+- Deborah ColeandAndrew Rothreported
+- Dmitry Peskov
+- Donald J. Trump
+- Donald Trump
+- EPA Merz
+- Friedrich Merz
+- Hello
+- Jakub Gavlák
+- Jared Kushner
+- Jon Henley
+- Kate Connolly
+- Leo XIV
+- Merz We
+- Paul Gallagher
+- Ramil Sitdikov
+- Robert Fico
+- Sean Gallup
+- Sergei Lavrov
+- Steve Witkoff
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- AFP
+- AfD
+- Alternative for Germany
+- Antonov Airlines
+- Die Welt
+- EU
+- European Council
+- European Union
+- Guardian’s Europe
+- Kyiv
+- Nato
+- Reuters
+- Suspilne
+- Tass
+- Trump
+- Vatican News
 ---
 
 Kremlin accuses Burnham of wanting Ukraine war to continue

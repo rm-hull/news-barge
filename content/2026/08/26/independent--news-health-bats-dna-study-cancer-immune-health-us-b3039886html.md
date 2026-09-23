@@ -13,6 +13,18 @@ categories:
 - UK
 - Science
 - Health & Fitness
+locations:
+- Berkeley
+- North America
+people:
+- Elise Lauterbur
+- Juan Manuel “Manny” Vazquez
+- Manny Vazquez
+organisations:
+- Lauterbur
+- Penn State University
+- University of California
+- University of Vermont
 ---
 
 What if bats could help us to fight cancer?

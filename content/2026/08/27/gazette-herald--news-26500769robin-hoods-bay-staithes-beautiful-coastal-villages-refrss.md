@@ -14,6 +14,27 @@ categories:
 - York
 - Travel
 - Outdoors & Nature
+locations:
+- Aldeburgh
+- Blakeney
+- Hampshire
+- Lymington
+- Norfolk
+- North Yorkshire
+- Positano
+- Robin Hood's Bay
+- Staithes
+- Suffolk
+- UK
+- Whitby
+people:
+- Bay
+- James Cook
+- Robin Hood
+organisations:
+- Coke
+- Staithes
+- World Atlas
 ---
 
 TWO North Yorkshire coastal gems have been named the most beautiful seaside villages in the UK.

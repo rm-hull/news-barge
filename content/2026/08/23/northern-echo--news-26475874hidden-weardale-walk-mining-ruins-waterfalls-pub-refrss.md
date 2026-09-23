@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - Travel
 - History
+locations:
+- Durham Dales
+- Gerald Hirst
+- Hare and Hounds
+- High Mill
+- Low Slitt Lead Mine
+- Middlehope Burn
+- Middlehope Shield
+- North East
+- North Pennines
+- North Pennines National Landscape
+- River Wear
+- Slitt Mine
+- Slitt Vein
+- Slitt Wood
+- Slitt Wood Waterfalls
+- Weardale
+- West Rigg
+- West Rigg Geotrail
+- Westgate
+people:
+- Gerald Hirst
+- Slitt Mine
+- Slitt Wood
+organisations:
+- Hare and Hounds
+- UNESCO Global Geopark
+- Westgate
 ---
 
 *(Image: Gerald Hirst)*

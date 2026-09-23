@@ -14,6 +14,18 @@ categories:
 - UK
 - Automotive
 - Technology & Software
+locations:
+- Cleveland
+- Lancaster
+- Middlesbrough
+- South Bank
+people:
+- Jakub Matusiak
+- Matt Storey
+organisations:
+- A66
+- Lancashire Police
+- TikTok
 ---
 
 Police have condemned “unacceptable” driving behaviour after several vehicles were caught driving in the wrong direction on the motorway following a crash.

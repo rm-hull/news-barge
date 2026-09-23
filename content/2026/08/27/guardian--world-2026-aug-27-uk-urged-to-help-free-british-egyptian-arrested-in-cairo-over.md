@@ -11,6 +11,29 @@ image: https://i.guim.co.uk/img/media/f2e6a194394010105f06276f338d9d2f5de55c2c/1
 categories:
 - UK
 - News & Politics
+locations:
+- Birmingham
+- Cairo
+- Egypt
+- UK
+people:
+- Abdel Fatah al-Sisi
+- Alistair Burt
+- Arfan Rashid
+- Eid
+- Eman el-Shazly
+- Gurpreet Singh Johal
+- Hassan
+- Jagtar Singh Johal
+- Mona
+- Sisi
+- Zeesharn Moustapha
+organisations:
+- Foreign Office
+- Guardian
+- House of Commons
+- Human Rights Watch
+- YouTube
 ---
 
 The UK Foreign Office has been asked to intervene to secure the release of a British-Egyptian woman who it is claimed has been arrested in Cairo because of her sister’s political activism.

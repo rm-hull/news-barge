@@ -13,6 +13,28 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Bridge Street
+- High Street
+- Old Brewery
+- Station Road
+- Tadcaster
+- YOUR
+people:
+- Cllr Poskitt
+- Costa
+- Darren Greenwood
+- Humphrey Smith
+- Kirsty Poskitt
+- Sam Smith
+- Tad
+organisations:
+- Boston Spa
+- North Yorkshire Council
+- Public Notice Portal
+- Samuel Smith’s Brewery
+- Tadcaster Town Council
+- Vicarage Green
 ---
 
 ### What is the Public Notice Portal?

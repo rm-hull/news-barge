@@ -11,6 +11,20 @@ image: https://media.wired.com/photos/6a8f161ecb47509e08d69504/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Canada
+- Italy
+- Nepal
+- Tibet
+people:
+- Daniel Shugar
+- Joseph Shea
+organisations:
+- Reuters
+- The New York Times
+- US Geological Survey
+- University of Calgary
+- University of Northern British Columbia
 ---
 
 Roughly 160 people are dead and hundreds more—including dozens of international tourists—are missing after flash floods hit a region on the mountainous border of Nepal and Tibet on Wednesday. Devastating footage posted to social media shows people fleeing a wall of water that washed away buildings and vehicles.

@@ -14,6 +14,16 @@ categories:
 - York
 - Personal Finance & Investing
 - News & Politics
+locations:
+- Europe
+people:
+- Andy Burnham
+- Andy?
+- Malton Kevin Hollinrake
+organisations:
+- G7
+- Government
+- Thirsk
 ---
 
 *Who's going to pay the bill, Andy? asks Conservative MP for Thirsk and Malton Kevin Hollinrake*

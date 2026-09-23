@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Leeds
+- London
+people:
+- Inge Theron
+- Olivia Carson-Lee
+organisations:
+- FACEGYM Leeds
+- FaceGym Leeds
+- Victoria Gate
+- Victoria Leeds
+- Yorkshire
 ---
 
 *(Image: Supplied)*

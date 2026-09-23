@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Cardiff
+- UK
+people:
+- Andy Burnham
+- Paul Monaghan
+- Phil Cotter
+organisations:
+- Companies House
+- Fair Tax Foundation
+- House of Commons Treasury
+- Insolvency Service
+- SmartSearch
 ---
 
 Up to £464m has “moved through” more than 3,000 UK shell companies branded as beauty and convenience stores but apparently operating in the money-laundering and terrorist financing sectors, a new analysis sets out.

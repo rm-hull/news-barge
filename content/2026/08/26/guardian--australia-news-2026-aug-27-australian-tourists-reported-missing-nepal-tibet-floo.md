@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Australia
+- Canada
+- China
+- Finland
+- France
+- Kathmandu
+- Nepal
+- Nepal-Tibet
+- Norway
+- Nuwakot
+- Rasuwa
+- Switzerland
+- Tibet
+- Trishuli River
+- UK
+- US
+people:
+- Anthony Albanese
+- Penny Wong
+- Simon Ernst
+organisations:
+- Agence France-Presse
+- Department of Foreign Affairs and Trade
+- Dfat
+- Nepal Tourist Board
+- Press Association
 ---
 
 Dozens of Australian tourists are reportedly missing in the deadly flash floods that swept through the Nepal-Tibet border, as the Australian government says it is urgently working to confirm their welfare.

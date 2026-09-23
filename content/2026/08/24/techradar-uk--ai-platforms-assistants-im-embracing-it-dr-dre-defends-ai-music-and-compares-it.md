@@ -12,6 +12,39 @@ image: https://cdn.mos.cms.futurecdn.net/UVNxuGjYyv6pUpS9AdXSnS-2000-80.jpg
 categories:
 - Technology & Software
 - Music
+locations:
+- California
+people:
+- AI
+- Andre Romell Young
+- Boy George
+- David Guetta
+- Deezer
+- Dr. Dre
+- Eminem
+- Grimes
+- Paul McCartney
+- Qobuz
+- Timbaland
+- Tom Bedford
+organisations:
+- AI
+- Android Police
+- BGR
+- Bandcamp
+- Bose QuietComfort Headphones3
+- Digital Trends
+- Dre
+- GamesRadar
+- Google News
+- N.W.A
+- New York Times
+- Spotify
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- WhattoWatch
+- non-AI
 ---
 
 ![Dr. Dre and Eminem pose backstage during the 36th Annual Rock & Roll Hall Of Fame Induction Ceremony](https://cdn.mos.cms.futurecdn.net/UVNxuGjYyv6pUpS9AdXSnS.jpg) 

@@ -14,6 +14,24 @@ categories:
 - Health & Fitness
 - Food & Cooking
 - Pets & Animals
+locations:
+- Washington, D.C.
+people:
+- Ben Carson
+- Brooke] Rollins
+- Donald Trump
+- Dr. Ben Carson
+- Marlow Stern
+- Monica Hesse
+- Robert F. Kennedy
+organisations:
+- Agriculture Department
+- Department of Agriculture
+- Department of Housing and Urban Development
+- MAHA
+- Safeway
+- Trump
+- Washington Post
 ---
 
 President Donald Trump’s nutrition adviser has said kids should eat food fresh from the ground, and then suggested hot dogs as an option.

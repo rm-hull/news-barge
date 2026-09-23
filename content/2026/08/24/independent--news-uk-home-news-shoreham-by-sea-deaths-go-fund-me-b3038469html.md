@@ -13,6 +13,25 @@ categories:
 - UK
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- Lebanon
+- London
+- Rashidieh Camp
+- Shoreham Fort
+- Shoreham-by-Sea
+- UK
+- West Sussex
+people:
+- Adnan Hmidan
+- Hassan El-Khawas
+- James Collis
+- Saja El-Khawas
+- Sara El-Khawas
+- Zeina Alayn
+organisations:
+- CCTV
+- Palestinian Forum in Britain
+- Sussex Police
 ---
 
 A public appeal has raised thousands of pounds after members of acamily died following a sea incident that has shaken "our community to its core", the Palestinian Forum in Britain said.

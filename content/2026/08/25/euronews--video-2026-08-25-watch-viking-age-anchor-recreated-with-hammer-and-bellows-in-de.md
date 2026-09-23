@@ -12,6 +12,17 @@ categories:
 - Europe
 - News & Politics
 - Arts & Culture
+locations:
+- Aggersborg
+- Denmark
+- Gislinge
+- Limfjord
+- UK
+people:
+- Peter Madsbøl
+- Rowan Taylor
+organisations:
+- National School of Blacksmithing
 ---
 
 Students and lecturers hammer bloomery iron into a Viking Age anchor at Aggersborg in northern Denmark. The video shows the team heating the metal, operating bellows and shaping the anchor. A reconstructed boat is also seen sailing on the Limfjord.

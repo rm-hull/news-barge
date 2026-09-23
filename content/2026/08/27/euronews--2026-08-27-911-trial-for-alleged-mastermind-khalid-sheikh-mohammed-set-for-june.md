@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - History
 - True Crime
+locations:
+- Cuba
+- Guantanamo Bay
+- Pakistan
+- Pennsylvania
+- US
+people:
+- Ali Abdul Aziz Ali
+- Biden
+- Khalid
+- Mohammed
+- Mustafa al-Hawsawi
+- Osama bin Laden
+- Walid bin Attash
+organisations:
+- Al-Qaeda
+- CIA
+- Pentagon
+- World Trade Center
 ---
 
 ## The US used Guantanamo, an isolated naval base, to hold militants captured during the "War on Terror" that followed the September 11 attacks in a bid to keep the defendants from claiming rights under US law.

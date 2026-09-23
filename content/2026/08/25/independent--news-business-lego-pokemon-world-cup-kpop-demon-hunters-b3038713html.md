@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Iran
+- U.S.
+- Virginia
+people:
+- Niels Christiansen
+organisations:
+- Formula 1
+- Lego
+- Netflix
 ---
 
 Lego has posted record sales for the first half of 2026, with revenues rising by more than a fifth thanks to strong demand for its World Cup and KPop Demon Hunters ranges.

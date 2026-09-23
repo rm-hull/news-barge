@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- UK
+people:
+- Chloe MacKean
+- Hugh Fearnley-Whittingstall
+- Jamie Oliver
+organisations:
+- Bold Bean Co
+- Euromonitor International
+- Food Foundation
+- Harvester
+- Lidl GB
+- M&S
+- Madre Brava
+- Marks & Spencer
+- Navarrico
+- NielsenIQ
+- Quorn
+- Sainsbury’s
+- Subway
 ---
 
 British shoppers are munching more beans, lentils, tofu and tempeh – while cutting back on real and plant-based fake meat – to save money and improve their diet.

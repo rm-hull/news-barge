@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Birtley
+- Durham Crown Court
+- HMP Northumberland
+- North East
+people:
+- Aycliffe
+- David Callan
+- John Reay
+organisations:
+- A66
+- BBC
+- Durham Crown Court
+- NHS England
+- PPO
+- Prisons and Probation Ombudsman
 ---
 
 *(Image: PRISON REPORT)*

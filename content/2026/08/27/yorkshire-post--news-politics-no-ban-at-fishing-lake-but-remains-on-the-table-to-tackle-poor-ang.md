@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Askern Lake
+people:
+- Coun Squire
+- Gerald Squire
+- John Rowley
+- Vicky Lawson
+organisations:
+- Askern Angling Supplies
+- Askern Town Council
+- City of Doncaster Council
+- Doncaster Council
+- Yorkshire Swan & Wildlife Rescue Hospital
 ---
 
 # No ban at fishing lake, but remains on the table to tackle ‘poor angling practices’, council says

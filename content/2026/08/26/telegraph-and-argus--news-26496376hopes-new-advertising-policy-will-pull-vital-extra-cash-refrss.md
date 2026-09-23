@@ -15,6 +15,39 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Halifax
+- Hebden Bridge
+- Todmorden East
+people:
+- Ashley Evans
+- Cllr Courtney
+- Cllr Wood
+- Coun Padgett
+- Coun Wood
+- Dan Wood
+- Lib Dem
+- Luddenden Foot
+- Phil Pringle
+- Pride
+- Salterhebble
+- Sarah Courtney
+- Scott Patient
+- Southowram
+- Stephen Padgett
+- Val Mycroft
+- Warley
+organisations:
+- Cabinet
+- Calderdale Council
+- Governance and Business Committee
+- Greetland
+- Hipperholme and Lightcliffe
+- Lab
+- Northowram and Shelf
+- Reform UK
+- Skircoat Green
+- Victoria Theatre
 ---
 
 A cash-strapped council’s new advertising policy – including for some of its lampposts – could bring in some much-needed cash.

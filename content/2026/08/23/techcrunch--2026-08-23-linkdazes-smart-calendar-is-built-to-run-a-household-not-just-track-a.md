@@ -12,6 +12,14 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/Linkdaze-calendar.jpeg?
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- Google
+- Linkdaze
+- Skylight
+- Yahoo
+- iCloud
 ---
 
 With back-to-school season approaching (or already here in some places), keeping track of everyone’s schedules can get pretty chaotic. Between work, school, appointments, sports, chores, and everything else going on, a regular paper calendar just doesn’t cut it. That’s where Linkdaze’s smart digital calendar comes in — a touchscreen tablet built specifically to organize a household rather than a single person.

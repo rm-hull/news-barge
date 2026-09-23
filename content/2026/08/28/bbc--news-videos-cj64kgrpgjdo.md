@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Kathmandu
+- Nepal
+- Tibet
+people:
+- Andrew Webb
+- Dipak Bohara
+- Guna Maya Bohara
+- Jasmin Dyer
+- Kamal Pariyar
+- Mansi Kapur
+- Suneth Perera
+organisations:
+- BBC Nepali
 ---
 
 # 97-year-old woman rescued after Nepali floods looked like 'a warrior'

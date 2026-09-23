@@ -13,6 +13,15 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Clifton Moor Business Village
+- York
+people:
+- David Fulford
+organisations:
+- Acorn Commercial Finance
+- CCTV
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

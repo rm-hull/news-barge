@@ -15,6 +15,48 @@ categories:
 - Arts & Culture
 - True Crime
 - Society & Culture
+locations:
+- A66
+- Birchington Avenue
+- CLEVELAND
+- Cleveland
+- Eston
+- Grangetown
+- Hartlepool
+- Middlesborough
+- Middlesbrough
+- Ruskin Avenue
+- Sedgemoor Road
+- South Bank
+- Steele Crescent
+- Teesside Coroner's Court
+people:
+- Andy McDonald
+- Cole Robert Worthy
+- Cole Worthy
+- Jacob Matusiak
+- Jakub Matusiak
+- Josh Kirton
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Natalie McDonald
+- Paul Appleton
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- A66
+- BBC Radio 4
+- Cleveland Police
+- Labour
+- Middlesbrough
+- North News & Pictures Ltd
+- PC Blades
+- PC Clough
+- STUART BOULTON
+- THE NORTHERN ECHO
+- Thornaby East
 ---
 
 The brother of a woman killed in a horrific house fire alongside her seven-year-old niece has slammed the 'senseless' actions of 'some terrible people in the world'.

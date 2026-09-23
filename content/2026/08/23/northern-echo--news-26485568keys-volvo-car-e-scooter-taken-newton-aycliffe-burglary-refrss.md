@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Newton Aycliffe
+- Rowan Place
+- Scott Place
+- Stainmore Crescent
+people:
+- Cainan Lonsdale
+- Cole Cockburn
+- Dwayne Grimes
+- Mark McKone
+organisations:
+- CCTV
+- Durham Constabulary
+- Durham Crown Court
+- Seat
+- The Recorder
+- Volvo
 ---
 
 *(Image: Durham Constabulary)*

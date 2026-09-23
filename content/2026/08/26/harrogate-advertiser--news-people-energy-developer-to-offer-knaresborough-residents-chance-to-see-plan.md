@@ -13,6 +13,24 @@ categories:
 - Local
 - Harrogate
 - Travel
+locations:
+- Bar Lane
+- Bar Lane Solar Farm
+- Bristol
+- Knaresborough
+- Percy Beck Solar Farm
+- Scotton
+- Scriven
+- UK
+people:
+- Peter Thomas
+organisations:
+- Aura Power
+- Head of UK Development
+- Knaresborough
+- North Yorkshire Council
+- Power Boom
+- Stockwell Wellbeing Hub
 ---
 
 # Energy developer to offer Knaresborough residents chance to see plans for second solar farm near town

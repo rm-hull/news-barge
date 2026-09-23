@@ -14,6 +14,29 @@ categories:
 - UK
 - Society & Culture
 - True Crime
+locations:
+- America
+- Houston
+- U.S.
+people:
+- Alfred Bennett
+- Daniel Tirado Pantoja
+- Jose Trinidad Rojas Pliego
+- Lorenzo Salgado Araujo
+- Rojas Pliego
+- Ronaldo Salgado
+- Ross Miller
+- Salgado Araujo
+- Tirado Pantoja
+- Turbay
+- Victor Salgado
+organisations:
+- DHS
+- Department of Homeland Security
+- ICE
+- Report for America Statehouse News Initiative
+- The Associated Press
+- U.S. Immigration and Customs Enforcement
 ---
 
 A second witness to a fatal shooting in Houston by a federal immigration agent has been ordered released from custody after more than a month in detention.

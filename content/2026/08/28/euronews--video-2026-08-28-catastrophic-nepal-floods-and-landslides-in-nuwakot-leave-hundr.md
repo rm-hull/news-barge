@@ -13,6 +13,21 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Bidur
+- Devighat
+- District Hospital
+- Kathmandu
+- Narayani
+- Nepal
+- Nepal-Tibet
+- Nuwakot
+- Rasuwa
+- Trishuli Bazaar
+- Trishuli River
+people: []
+organisations:
+- Nepal Army
 ---
 
 Nuwakot district in central Nepal is facing widespread destruction after catastrophic flash floods and landslides swept through the region on 26 August, following the glacial collapse near the Nepal-Tibet border a day before.

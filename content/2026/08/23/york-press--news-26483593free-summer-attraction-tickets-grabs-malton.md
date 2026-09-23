@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Birmingham
+- Malton
+- UK
+people:
+- Sarah Harvey
+organisations:
+- NEC
 ---
 
 *(Image: Supplied)*

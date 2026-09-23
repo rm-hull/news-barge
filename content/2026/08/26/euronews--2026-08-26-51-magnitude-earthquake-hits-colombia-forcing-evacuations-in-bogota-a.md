@@ -13,6 +13,18 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Bogotá
+- Bucaramanga
+- Colombia
+- Floridablanca
+- Los Santos
+- Piedecuesta
+- Santander
+people: []
+organisations:
+- Colombian Geological Survey
+- SGC
 ---
 
 ## According to the Colombian Geological Survey, the quake hit at around 11:45 am local time on Wednesday, with the epicentre in Los Santos, in Colombia's Santander department.

@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Mowbray Park
+- North East
+- Sunshine Cooperative
+people:
+- Ciera Hudspith
+- Kerry Cook
+organisations:
+- Arts Council England
+- Culture House Sunderland
+- Garden Party
+- Growing Space Gallery
+- Museum Redevelopment Champions
+- Sunderland City Council
+- Sunderland Museum & Winter Gardens
+- The National Lottery Heritage Fund
+- The Wolfson Foundation
+- Winter Gardens
 ---
 
 *(Image: Sunderland City Council)*

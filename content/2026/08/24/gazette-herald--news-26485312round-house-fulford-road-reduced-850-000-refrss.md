@@ -14,6 +14,16 @@ categories:
 - York
 - Lifestyle & Fashion
 - Home, Garden & DIY
+locations:
+- Fulford Road
+- Grange Garth
+- Juliet
+- North Yorkshire
+- York
+people: []
+organisations:
+- The Press
+- The Round House
 ---
 
 A UNIQUELY designed three-bedroom home in a prime York location has seen its price slashed,

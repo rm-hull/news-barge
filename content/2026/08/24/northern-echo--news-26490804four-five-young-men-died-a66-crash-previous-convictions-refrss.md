@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- CLEVELAND
+- Middlesborough
+- Middlesbrough
+- South Bank
+- Teesside Magistrates’ Court
+people:
+- Cole Robert Worthy
+- Cole Worthy Theo Rae
+- Jacob Matusiak
+- Jacob Matusiak Jakub Matusiak
+- John Walker
+- Makai Saddington
+- Makai Saddington Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Michael Robert Cahill Michael Robert Cahill
+- Theo Rae
+- Theo Rae Theo Rae
+- Tom Clough
+organisations:
+- Cleveland Police
+- HM Courts & Tribunals Service
+- HMCTS
+- TikTok
+- Volkswagen
 ---
 
 *(Image: SOCIAL MEDIA)*

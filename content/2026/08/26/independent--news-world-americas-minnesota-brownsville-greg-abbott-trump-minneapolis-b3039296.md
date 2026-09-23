@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Brownsville
+- Cameron County
+- Mexico
+- Minneapolis
+- Minnesota
+- South Texas
+- U.S.
+people:
+- Christian Castro
+- Fernando Rodriguez
+- Greg Abbott
+- Jr.
+- Julio Cesar Sosa-Celis
+- Kimberly Ann Svendsen
+- Trevor W. Ezell
+- Trump
+organisations:
+- ICE
+- Minnesota’s Attorney General's Office
+- U.S. Immigration and Customs Enforcement
 ---
 
 An ICE agent charged in Minnesota with firing his gun through a house door, striking a man in his leg, and then lying to justify the shooting, could walk out of a South Texas jail on Thursday if a federal judge does not intervene.

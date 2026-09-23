@@ -11,6 +11,36 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5457/live/115de7
 categories:
 - UK
 - News & Politics
+locations:
+- DC.
+- National Mall
+- US Capitol
+- United States
+- Washington DC
+- White House
+people:
+- Curb-Agajanian Honda
+- Donald Trump
+- Felix Rosenqvist
+- Helena Humphrey
+- Josef Newgarden
+- Kyle Kirkwood
+- Melania Trump
+- Uncle Sam
+organisations:
+- Air Force
+- Air Force One
+- BBC
+- Chevrolet
+- F1
+- Formula 1
+- Honda
+- Melania Trump
+- National Gallery of Art
+- Ronald Reagan Washington National Airport
+- Statue of Liberty
+- The Beast
+- Washington Monument
 ---
 
 ![Donald Trump waves a green flag as he stands next to his wife Melania who is smiling and clapping](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/5457/live/115de7a0-9f21-11f1-a291-b542ee92de7c.jpg)

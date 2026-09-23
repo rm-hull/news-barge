@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- England
+- Middle East
+- Northern Ireland
+- Scotland
+- UK
+- Wales
+people:
+- Andy Burnham
+- Henry Nicholls
+- Rachel Reeves
+- Richard Neudegg
+organisations:
+- Cornwall Insight
+- Government
+- Ofgem
+- Uswitch
 ---
 
 Ofgem has announced it is raising its price cap to £1,723 per year for a typical dual fuel household, up £60 or 4% on current levels.

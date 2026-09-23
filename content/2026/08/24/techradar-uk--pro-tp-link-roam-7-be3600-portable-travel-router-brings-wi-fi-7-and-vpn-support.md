@@ -10,6 +10,19 @@ description: The TP-Link Roam 7 BE3600 turns public Wi-Fi into your own network 
 image: https://cdn.mos.cms.futurecdn.net/5UFdwbXbApMydf8nfH8kyF-1200-80.jpg
 categories:
 - Technology & Software
+locations:
+- Amazon
+- UK
+people:
+- Alastair
+- Wayne Williams
+organisations:
+- Airbnb
+- PC
+- Roam 7
+- TP-Link
+- TechRadar Pro
+- Wayne Williams
 ---
 
 ![TP-Link Roam 7](https://cdn.mos.cms.futurecdn.net/5UFdwbXbApMydf8nfH8kyF.jpg) 

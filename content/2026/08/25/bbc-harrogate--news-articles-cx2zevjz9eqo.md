@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - Travel
+locations:
+- A59
+- Blubberhouses
+- England
+- Harrogate
+- Kex Gill
+- North Yorkshire
+- Skipton
+people:
+- Malcolm Taylor
+organisations:
+- A59
+- North Yorkshire Council
 ---
 
 ![Vehicles travelling on a newly laid road with red and white cones lining the road on the far right of the picture. To the left of the picture is soil and a few light brown stones with short green grass.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/fd6f/live/e1dc9720-a064-11f1-ab55-41a63a22b55d.jpg)

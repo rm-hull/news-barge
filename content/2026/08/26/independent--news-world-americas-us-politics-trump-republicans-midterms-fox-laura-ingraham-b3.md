@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Alaska
+- Iowa
+- Iran
+- Nebraska
+- Ohio
+- South Carolina
+- U.S.
+- White House
+people:
+- Annie Andrews
+- Darline Graham
+- Jill Biden
+- Kamala Harris
+- Laura Ingraham
+- Lindsey Graham
+- Michael LaRosa
+- Ned Ryun
+- Trump
+organisations:
+- America Majority
+- Fox News
+- GOP
+- House of Representatives
+- Senate
 ---
 
 Fox News personality Laura Ingraham has urged Republicans to “get their act together” as the midterm elections draw near.

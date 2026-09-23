@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Bronx
+- D.C.
+- Florida
+- Michigan
+- Minnesota
+- New York
+- Queens-area
+- Sen
+- Wisconsin
+people:
+- Alexandria Ocasio-Cortez
+- Andrew Cuomo
+- Angie Nixon
+- Chuck Schumer
+- Francesca Hong
+- Kamala Harris
+- Will Lawrence
+- Zohran Mamdani
+organisations:
+- Alexandria Ocasio-Cortez
+- City & State
+- DSA
+- Democratic Party
+- Democratic Socialists
+- Democratic Socialists of America
+- Gallup
+- House
+- Senate
 ---
 
 Rep. Alexandria Ocasio-Cortez officially rejoined the Democratic Socialists of America’s New York chapter this week after previously letting her membership lapse, and the organization said the potential 2028 contender remains in “good standing” with the group.

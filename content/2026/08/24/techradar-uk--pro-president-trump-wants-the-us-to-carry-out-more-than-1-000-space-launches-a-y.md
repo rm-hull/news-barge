@@ -11,6 +11,30 @@ image: https://cdn.mos.cms.futurecdn.net/DFBL65zBbMWH2hNHzTrEuk-1920-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- AI
+- America
+- Earth
+- Mars
+- U.S.
+- US
+- White House
+people:
+- Donald Trump
+- Elon Musk
+- Michael Kratsios
+organisations:
+- Artemis
+- Congress
+- Efosa
+- Federal Aviation Administration
+- Google News
+- NASA
+- National Space Transportation Policy
+- SpaceX
+- SpaceX**
+- TechRadar Pro
+- Trump
 ---
 
 ![Donald Trump sings executive order](https://cdn.mos.cms.futurecdn.net/DFBL65zBbMWH2hNHzTrEuk.jpg) 

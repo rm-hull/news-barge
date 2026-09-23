@@ -10,6 +10,30 @@ image: https://ichef.bbci.co.uk/images/ic/1024x576/p0j72y80.jpg
 categories:
 - UK
 - News & Politics
+locations:
+- Canada
+- North America
+- US
+people:
+- Alix Pickles
+- Americaster
+- Anthony Zurcher
+- Dolly Parton
+- George Dabby
+- Grace Reeve
+- Mark Carney
+- Michael Regaard
+- Purvee Pattni
+- Sam Bonham
+- Sumi Somaskanda
+- Trump
+organisations:
+- Americast
+- Anthony’s BBC
+- BBC News Podcasts
+- BBC Sounds
+- Newscast
+- US Election Unspun
 ---
 
 ## Episode details

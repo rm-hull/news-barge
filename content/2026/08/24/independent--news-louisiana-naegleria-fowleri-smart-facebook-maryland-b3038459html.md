@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- America
+- Indiana
+- Lake Claiborne
+- Louisiana
+- Maryland
+- Minnesota
+- Naegleria
+- South Carolina
+- U.S.
+people:
+- Daniel
+- Heartbroken
+- Jeff Landry
+- Jesus
+- Kyle Roberts
+- Lillian Smart
+- Rebecca Smart
+- Stacey Grow
+organisations:
+- Facebook
+- Health Department
+- Louisiana Department of Health
+- Report for America Statehouse News Initiative
+- The Associated Press
+- ___ Brook
 ---
 
 An 8-year-old girl in Louisiana has died after being infected by an extremely rare brain-eating amoeba that is found in warm freshwater, her family says.

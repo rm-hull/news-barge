@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Bowes
+- County Durham
+- Darlington Memorial Hospital
+people: []
+organisations:
+- Bowes
+- Durham Police
+- NEAS
+- North East Ambulance Service
 ---
 
 *(Image: GOOGLE)*

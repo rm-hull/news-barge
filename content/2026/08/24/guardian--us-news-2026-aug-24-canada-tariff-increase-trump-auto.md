@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Alabama
+- CANADA
+- Canada
+- Japan
+- Kentucky
+- Korea
+- Michigan
+- Ohio
+- Quebec
+- U.S.
+- US
+- United Kingdom
+people:
+- Donald Trump
+- Mark Carney
+organisations:
+- European Union
+- Nations in the World
+- Trump
 ---
 
 Donald Trump announced a new 50% tariff on automobiles and crucial raw materials from Canada, the latest deterioration in trade relations between the two neighbors with historically strong economic ties.

@@ -13,6 +13,55 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- A66
+- America
+- Duke and Duchess of Sussex
+- Falkland Islands
+- Home Counties
+- Iran
+- Nepal
+- Restore Britain
+- UK
+- US
+- Washington
+people:
+- Andy Burnham
+- Charles III
+- Fergie
+- Gatley
+- Healy
+- Jeffrey Epstein
+- Jim O'Neill
+- Joey Essex
+- John Healey
+- Keir Starmer
+- King
+- Lord O'Neill
+- Nigel Farage
+- Paul Johnson
+- Sarah Ferguson
+organisations:
+- '**Daily Mail'
+- British TV
+- Budget
+- Commons
+- Daily Express
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegraph
+- Duchess of York
+- Financial Times
+- Guardian
+- Guardian**
+- Institute for Fiscal Studies
+- Labour
+- Nato
+- Pentagon
+- Reform UK
+- Sun
+- Treasury
 ---
 
 ![The headline on the front page of the Financial Times reads: 'Healy to defer defence spend target.'](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/5ca2/live/521189e0-a323-11f1-a291-b542ee92de7c.jpg)

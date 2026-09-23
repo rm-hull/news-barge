@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Charlotte
+- Mecklenburg
+- North Carolina
+- US
+- Ukraine
+people:
+- Decarlos Brown Jr
+- Frank Scott Haskell
+- Iryna Zarutska
+organisations:
+- Charlotte Area Transit System
+- Charlotte Observer
+- Iryna’s Law
+- Professional Security Services
+- Trump
 ---
 
 The family of Iryna Zarutska is suing Charlotte and a security company one year after the Ukrainian refugee was fatally stabbed onboard a light rail train in the North Carolina city.

@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Berlin
+- Czech Republic
+- Eisleben
+- Germany
+- Leipzig
+- Magdeburg
+- Poland
+- Potsdam
+- Querfurt
+- Saxony-Anhalt
+- Thuringia
+people:
+- Alexander Gauland
+- Björn Höcke
+- Frank Martin Widmaier
+- Gerd
+- Hans-Thomas Tillschneider
+- Hitler
+- Martin Sellner
+- Otto von Bismarck
+- Ulrich Siegmund
+organisations:
+- ARD
+- AfD
+- Alternative für Deutschland
+- BBC
+- Der Spiegel
 ---
 
 ![The black of a man wearing a khaki green t-shirt which says 'Deutschland, Meine Heimat' written in a Gothic-style font. The t-shirt shows the insignia of the iron cross](https://ichef.bbci.co.uk/ace/standard/770/cpsprodpb/55a5/live/2323ca40-a15b-11f1-92f3-2381193e5eb4.png)

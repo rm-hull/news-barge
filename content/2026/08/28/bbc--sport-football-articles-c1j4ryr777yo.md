@@ -12,6 +12,62 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Crystal Palace
+- England
+- Selhurst Park
+- Selhurst Park.
+people:
+- 5Adam Wharton
+- 6Abdukodir Khusanov
+- 6Daichi Kamada
+- 6Eddie Nketiah
+- 6Nico O'Reilly
+- 6Phil Foden
+- 6Ruben Dias
+- 6Takehiro Tomiyasu
+- 7Elliot Anderson
+- 7Erling Haaland
+- 7Jaydee Convot
+- 7Josko Gvardiol
+- 7Marc Guehi
+- 7Tyrick Mitchell
+- 8Antoine Semenyo
+- Ait-Nouri
+- Andy Wharton
+- Benitez
+- Bouaddi
+- Braithwaite
+- Cherki
+- Cherki.
+- Dean Henderson
+- Disasi
+- Donnarumma
+- Echeverri
+- Elegant
+- Elliot Anderson
+- Gianluigi Donnarumma:** Hardly
+- Gozo
+- Guessand
+- Hughes
+- Khalaili
+- Kovacic
+- Lerma
+- Lewis
+- Lively
+- McAidoo
+- McNeil
+- Mingueza
+- Munoz
+- Palace
+- Pino
+- Reis
+- Ruli
+- Strand Larsen
+organisations:
+- BBC Sport
+- Crystal Palace
+- Manchester City
 ---
 
 ![England midfielders Elliot Anderson and Andy Wharton contest possession in the Premier League game between Manchester City and Crystal Palace at Selhurst Park.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/510c/live/ef1d9800-a319-11f1-8937-ebc435db1160.jpg)

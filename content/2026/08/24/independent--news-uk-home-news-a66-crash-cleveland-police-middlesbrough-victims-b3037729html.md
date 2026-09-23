@@ -14,6 +14,46 @@ categories:
 - UK
 - Society & Culture
 - Arts & Culture
+locations:
+- A66
+- Church Lane
+- Cleveland
+- Eston
+- Lime Road
+- Middlesborough
+- Middlesbrough
+- Normanby Road
+- South Bank
+- Teesside
+- Teesville
+- Teesworks
+people:
+- Channy Brown
+- Cole Robert Worthy
+- Dad
+- Derrick Campbell
+- Ellie Webster
+- Forever
+- Jakub Matusiak
+- Kelly Cahill
+- Makai Saddington
+- Matt
+- Matthew Blades
+- Michael Robert Cahill
+- Neil Hutchinson
+- PC Blades’
+- PC Clough
+- Passat
+- Sharon Morgan
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- Cleveland Police
+- Facebook
+- IOPC
+- Independent Office for Police Conduct
+- VW
 ---
 
 Moving tributes have been paid to two “hero” police officers who died in a collision near Middlesborough as their families described their “pain beyond words”.

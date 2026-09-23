@@ -14,6 +14,24 @@ categories:
 - York
 - History
 - Arts & Culture
+locations:
+- England
+- London
+- Malton
+- North East
+- Wesley Centre
+people:
+- Kemps
+- Liz Kemp
+- Max Adams
+- Max Adams’
+- Pete Jackson
+- William the Conqueror
+organisations:
+- British Museum
+- Kemps Bookstore
+- Malton
+- University of York
 ---
 
 AN esteemed historian whose latest book coincides with the British Museum’s Bayeux Tapestry exhibition is coming to Malton.

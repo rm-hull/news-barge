@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Cundalls Malton
+- Full Sutton
+- Gowthorpe Lane
+- Holland
+- York
+people:
+- Cundalls
+organisations:
+- Airfield Nurseries
+- Cundalls
+- Fangfoss
 ---
 
 A garden centre near York has gone on the market for £495,000.

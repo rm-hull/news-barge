@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Enchanted Forest
+- Stockeld Park
+- Yorkshire
+people:
+- Peter Grant
+- Stockeld
+organisations:
+- Menagerie of Mismatched Monsters
+- Pantry of Poisonous Potions
+- Willow of Whispering Wishes
 ---
 
 *(Image: Stockeld Park)*

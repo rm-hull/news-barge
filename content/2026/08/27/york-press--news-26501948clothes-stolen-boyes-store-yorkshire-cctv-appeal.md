@@ -12,6 +12,16 @@ categories:
 - York
 - Lifestyle & Fashion
 - Shopping & Deals
+locations:
+- Boyes
+- North Yorkshire
+- Queen Street
+- Scarborough
+people: []
+organisations:
+- CCTV
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

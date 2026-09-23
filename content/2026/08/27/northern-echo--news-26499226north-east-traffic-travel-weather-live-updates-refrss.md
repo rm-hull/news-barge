@@ -14,6 +14,40 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- A167 Grange Road
+- A68 Bondgate
+- A68 Woodland Road
+- B6279 Freemans Place
+- B6280 Coniscliffe Road
+- Beechwood Avenue
+- Bishop Auckland
+- Borough Road
+- Bracken Road
+- County Durham
+- Darlington
+- Four Riggs
+- Grangetown
+- Hollyhurst Road
+- Lee Road
+- NORTHERN ECHO
+- North East
+- Northern Rail
+- Southend Avenue
+- Teesside
+- Tyne and Wear Metro
+- Upper Russell Street
+people: []
+organisations:
+- A1
+- A19
+- A66
+- Cross Country
+- LNER
+- Met Office
+- Newcastle Airports
+- The Northern Echo
+- TransPennine Express
 ---
 
 *(Image: NORTHERN ECHO)*

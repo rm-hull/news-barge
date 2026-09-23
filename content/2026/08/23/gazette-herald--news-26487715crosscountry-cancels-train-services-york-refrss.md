@@ -13,6 +13,30 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Birmingham
+- Bristol
+- Cambridge
+- Cornwall
+- Devon
+- Exeter
+- London Kings Cross
+- Manchester
+- Midlands
+- Plymouth
+- Scotland
+- South England
+- South West
+- Wales
+- York Railway Station
+- Yorkshire
+people: []
+organisations:
+- CrossCountry
+- LNER
+- Peterborough
+- Stansted Airport
+- Transpennine Express
 ---
 
 Rail passengers are facing a day of problems after a major train company cancelled all its trains to and from York.

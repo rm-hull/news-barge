@@ -12,6 +12,51 @@ categories:
 - York
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Bedford
+- Beverley
+- Bradford Interchange
+- Chesterfield
+- Cottingham
+- Darlington
+- Doncaster
+- Durham
+- East Coast Main Line
+- East Midlands Railway
+- Grand Central
+- Grand Central:**
+- Grantham
+- Harrogate
+- Hitchin
+- Howden
+- Hull
+- London St Pancras
+- Newcastle
+- North East
+- North and East Yorkshire
+- Northallerton
+- Northern City Line
+- Peterborough
+- Retford
+- Scotland
+- Selby
+- Sheffield
+- Thameslink
+- Thirsk
+- Welwyn
+- West Yorkshire
+- York
+people: []
+organisations:
+- CrossCountry
+- Hull Trains
+- Hull Trains:**
+- LNER
+- LNER:**
+- London King’s Cross
+- Network Rail
+- Stevenage
+- Sunderland
 ---
 
 Passengers are reminded that testing ahead of digital signalling being introduced on the East Coast Main Line will affect journeys this weekend.

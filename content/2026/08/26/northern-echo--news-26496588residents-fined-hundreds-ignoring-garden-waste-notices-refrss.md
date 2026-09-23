@@ -14,6 +14,29 @@ categories:
 - UK
 - News & Politics
 - Home, Garden & DIY
+locations:
+- County Durham
+- Craghead
+- Delves Lane
+- Durham City
+- Elm Terrace
+- Gairloch Drive
+- Moorside
+- Newcastle upon Tyne
+- Nightingale Place
+- Pelton
+- Perkinsville
+- Stanley Town Centre
+- Strawberry Place
+- Tennyson Gardens
+people:
+- Lumley Drive
+organisations:
+- Community Protection Notices
+- Dorset Crescent
+- Durham County Council
+- Neighbourhood Wardens
+- Pennine Gardens
 ---
 
 *(Image: Durham County Council)*

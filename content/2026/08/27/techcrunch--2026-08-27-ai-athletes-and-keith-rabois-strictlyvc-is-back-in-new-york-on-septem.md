@@ -13,6 +13,44 @@ description: A boutique StrictlyVC evening returns to New York's West Village on
 image: https://techcrunch.com/wp-content/uploads/2026/08/Keith-Rabois.jpg?w=1024
 categories:
 - Business & Entrepreneurship
+locations:
+- Athens
+- L.A.
+- Mission Bay
+- New York
+- San Francisco
+- Silicon Valley
+- Vest Village
+- West Village
+people:
+- AI
+- Brynn Putnam
+- Connie Loizos
+- Craig Shapiro
+- Deven Parekh
+- Jason Levien
+- Keith Rabois
+- Rebecca Bellan
+- Tristan Walker
+organisations:
+- AI
+- Bevel
+- Board
+- Collaborative Fund
+- D.C
+- Giant
+- Heirloom Craft
+- Insight Partners
+- Khosla Ventures’
+- Lululemon
+- Mirror
+- OpenAI
+- Procter & Gamble
+- Putnam
+- State Affairs
+- TechCrunch
+- United
+- Walker & Company Brands
 ---
 
 Mark your calendars: on Thursday night, September 10, StrictlyVC — TechCrunch’s boutique evening series — is heading to New York’s West Village (the real one — brownstones, cobblestones, and all — not the Mission Bay stretch of San Francisco that’s earned the nickname “Vest Village” for all the Patagonia-clad VCs roaming around).

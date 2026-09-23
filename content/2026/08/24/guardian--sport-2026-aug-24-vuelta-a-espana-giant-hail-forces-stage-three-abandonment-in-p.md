@@ -14,6 +14,23 @@ categories:
 - Travel
 - Sports
 - History
+locations:
+- Font-Romeu
+- French Pyrenees
+- Gruissan
+people:
+- Equipo Kern Pharm
+- Lorenzo Fortunato
+- Mats Wenzel
+- Matthew Brennan
+- Tadej Pogacar
+- Wout van Aert
+organisations:
+- Google Play
+- Guardian
+- UAE Team Emirates
+- XDS Astana
+- iOS App Store
 ---
 
 The third stage of the Vuelta a España ended without a winner after being halted because of hail on Monday.

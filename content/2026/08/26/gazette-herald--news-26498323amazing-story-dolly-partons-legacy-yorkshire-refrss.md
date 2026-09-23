@@ -13,6 +13,32 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- America
+- Bradford
+- Canterbury
+- Dollywood
+- East Tennessee
+- Keighley
+- Rotherham
+- Sevier County
+- UK
+- US
+- Yorkshire
+- Yorkshire.
+people:
+- Dolly Parton
+- Emma Clayton
+- Farewell Dolly
+- Jan Winter
+- Jolene
+- Lucy Powell
+- Mark Wilson
+- Pollyanna
+- Taylor Swift
+organisations:
+- Dollywood Foundation
+- Imagination Library
 ---
 
 **Emma Clayton reflects on Dolly Parton’s incredible legacy, not least in Yorkshire.**

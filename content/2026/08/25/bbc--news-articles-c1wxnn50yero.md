@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- Beijing
+- Birmingham
+- Britain
+- China
+- England
+- Iran
+- Israel
+- Moscow
+- UK
+- US
+- Ukraine
+- West Bank
+people:
+- Andy Burnham
+- Dolly Parton
+- Donald Trump
+- Putin
+organisations:
+- Daily Express
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegraph
+- Financial Times
+- Guardian
+- Labour
+- Metro
+- Sun
+- The Times
 ---
 
 ![The headline on the front page of the Daily Star reads: "We will always love you Dolly."](https://ichef.bbci.co.uk/ace/standard/802/cpsprodpb/c68c/live/6b94a390-a0c9-11f1-a291-b542ee92de7c.jpg)

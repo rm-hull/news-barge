@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Arday
+- Battersea
+- Cambridge
+- London
+- Trafalgar Square
+- UK
+people:
+- Diane Abbott
+- Jason Arday
+- Nathan Cofnas
+- Prof Arday
+- Woolley
+organisations:
+- Ghent University
+- Simon & Schuster
+- University of Cambridge
 ---
 
 The UK publication of Professor Jason Arday’s memoir will proceed as scheduled this week, after his family said: "It is only right that we honour his wishes".

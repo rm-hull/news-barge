@@ -12,6 +12,57 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Brofiscin
+- Cardiff
+- Douglas Gowan
+- Earth
+- Llwyneinion
+- Maendy
+- Newport
+- Ruabon
+- Severn Estuary
+- South Wales Valleys
+- Treforest
+- UK
+- US
+- Wales Constance
+- Wrexham
+people:
+- Dan Ashby
+- David Megson
+- Douglas Gowan
+- Gordon
+- John Browne
+- Lucy Taylor
+- Michael Sheen
+- Nant Gledyr
+- Ralph Davies
+- Severn Estuary
+- Slater
+- Stephen Constance
+- Sue Jordan
+- Ty Llwyd
+- Wales'
+- Ynysddu
+organisations:
+- BBC Wales
+- BP
+- Burmah Castrol
+- Cefn Mawr
+- Clwyd County Council
+- Eastman Chemical Company
+- Environment Agency
+- Glebelands Park
+- Manchester Metropolitan University
+- Monsanto
+- Natural Resources Wales
+- Newport Docks
+- PCB
+- PCBs
+- Public Health Wales
+- Swansea University
+- Wrexham County Council
 ---
 
 ![Michael Sheen looks at the camera. He is wearing a green scarf and a plaid red shirt and a coat over the top. Behind him is a waste site which is fenced off.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6856/live/1ca732b0-a0cf-11f1-897d-3f2b3b8ed886.jpg)

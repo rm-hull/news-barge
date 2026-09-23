@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Kyiv
+- Russia
+- Soviet Union
+- Ukraine
+people:
+- Danylo Sapunov
+- Maksym Yuzviak
+- Volodymyr Zelenskyy
+- Yevhenii Lakhnenko
+organisations: []
 ---
 
 Military amputees and war veterans in Ukraine marked Independence Day on Monday by finishing a grueling endurance race that took them more than 1,500 kilometers (930 miles) around the country.

@@ -14,6 +14,30 @@ categories:
 - Science
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- America
+people:
+- Andrew Stockwell
+- Greenhouse
+- JLL
+- Jane Curran
+- Ophir Samson
+- Tessa White
+- Vendr
+organisations:
+- AI
+- Bureau of Labor Statistics
+- ChatGPT—
+- Greenhouse
+- JLL
+- JobAssist
+- Ladder’s Apply4Me
+- LinkedIn
+- Sonara
+- Stockwell
+- TikTok
+- Vendr
+- WIRED
 ---
 
 Three years ago, Andrew Stockwell had his hiring routine down to a science.

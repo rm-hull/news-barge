@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Bradford
+- Leeds Old Road
+- YOUR
+people:
+- Kaiser Mahmood
+organisations:
+- Awaan Bazaar
+- Bradford Council
+- Public Notice Portal
 ---
 
 *(Image: Google)*

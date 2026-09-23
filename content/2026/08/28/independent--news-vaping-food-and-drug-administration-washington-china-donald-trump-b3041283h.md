@@ -13,6 +13,24 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- China
+- Newport
+- U.S.
+people:
+- Donald Trump
+- Juul
+- Reynolds
+organisations:
+- AP
+- Associated Press Health and Science Department
+- Department of Science Education
+- FDA OK
+- Food and Drug Administration
+- Howard Hughes Medical Institute
+- Juul Labs
+- Reynolds American
+- Robert Wood Johnson Foundation
 ---
 
 Vaping company Juul Labs on Friday received federal permission to sell an updated version of its e-cigarette, which includes an optional age-verification system designed to prevent underage use.

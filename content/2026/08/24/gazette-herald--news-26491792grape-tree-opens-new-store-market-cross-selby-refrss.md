@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Grape Tree
+- Market Cross Shopping Centre
+- North Yorkshire
+- Selby
+people:
+- James Shepherd
+organisations:
+- Dransfield Properties
+- Grape Tree
+- Grape Tree to Market Cross
+- Market Cross
 ---
 
 A new health food retailer has opened its doors, bringing fresh choice to shoppers in North Yorkshire.

@@ -14,6 +14,13 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Iran
+- US
+people:
+- Donald Trump
+organisations:
+- Conference Board
 ---
 
 US consumer confidence falls to lowest level in 7 months as gas prices remain elevated

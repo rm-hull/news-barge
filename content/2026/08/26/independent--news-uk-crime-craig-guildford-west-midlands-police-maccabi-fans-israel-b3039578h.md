@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Amsterdam
+- Aston Villa
+- Villa Park
+people:
+- Craig Guildford
+- Derrick Campbell
+- Keir Starmer
+- Shabana Mahmood
+organisations:
+- Aston Villa
+- Birmingham Safety Advisory Group
+- IOPC
+- Independent Office for Police Conduct
+- Maccabi Tel Aviv
+- Microsoft Copilot
+- Pro-Israel
+- West Ham
+- West Midlands Police
 ---
 
 A police watchdog has launched an investigation into a former chief constable and three other officers following the controversy over the Maccabi Tel Aviv supporter ban.

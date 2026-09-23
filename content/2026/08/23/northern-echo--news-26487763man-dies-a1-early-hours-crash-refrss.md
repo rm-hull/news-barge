@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Technology & Software
 - True Crime
+locations:
+- Bowburn
+- Carrville
+- County Durham
+- J61 A688 Tursdale Road
+- J62 A690
+- M
+people: []
+organisations:
+- A1
+- Durham Constabulary
+- Durham Police
+- Serious Collision Investigation Unit
 ---
 
 *(Image: PROVIDED)*

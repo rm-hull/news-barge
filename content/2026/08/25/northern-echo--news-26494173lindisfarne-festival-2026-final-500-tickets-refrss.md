@@ -13,6 +13,40 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Beal Farm
+- Berwick
+- Berwick-upon-Tweed
+- Disgraceland
+- Holy Island
+- Newcastle
+- North East
+- North Yorkshire
+- Northumberland
+- Sunderland
+people:
+- Conleth Maenpaa
+- Manfred Mann
+organisations:
+- A1
+- BBC Radio 1
+- Bear Park
+- Bluffers
+- Elvana
+- Ferocious Dog
+- Finn Forster
+- Heather Small
+- Leazes
+- Lindisfarne
+- Professor Green
+- Radio 1
+- Razorlight
+- Soul II Soul
+- Sunderland
+- Swindled
+- The Amy Winehouse Band
+- The Proclaimers
+- Utah Saints
 ---
 
 A North East music festival is on course for a complete sell-out after organisers revealed just 500 tickets remain ahead of what is set to be its biggest event yet.

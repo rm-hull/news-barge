@@ -14,6 +14,51 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Arkengarthdale
+- Barnard Castle
+- Bluefaced Leicester
+- County Durham
+- Coverdale
+- Dales
+- Dalesbred
+- Eskeleth
+- Fremington Edge
+- Hawes
+- Hillside
+- Home Farm
+- Leyburn
+- Masham
+- Mule
+- North Country Cheviot
+- Richmond.
+- Shaw Farm
+- Swaledale
+- Swaledales
+- Teeswater
+- Texel
+people:
+- Arthur
+- Bert
+- Doug Barningham
+- Douglas Barningham
+- Emily
+- Gordon
+- Jacob
+- Nicola
+- Reeth YFC
+- Thomas
+- Tommy Sopwith
+- William
+organisations:
+- Arkengarthdale Show
+- BPS
+- Bishop Burton College
+- Bluefaced Leicester
+- Kirkby Stephen and Hawes
+- Reeth Show
+- Yorkshire
+- Young Farmers Club
 ---
 
 # Hillside Farm, Arkengarthdale: Reeth Show's gathering momentum

@@ -12,6 +12,43 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Cleveland
+- Middlesbrough
+- South Bank
+- Teesside
+- TikTok
+people:
+- Cole Robert Worthy
+- Dad
+- Forever
+- Jacob Matusiak
+- Luke Pollard
+- Makai Saddington
+- Matt Storey
+- Matthew Blades
+- Michael Robert Cahill
+- PC Clough
+- PC Matthew Blades
+- Pc Blades’
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- BBC Radio
+- BBC Radio 5
+- Civil Nuclear Constabulary
+- Cleveland Police
+- Cleveland Police Federation
+- Cleveland Police HQ Memorial Garden
+- Independent Office for Police Conduct
+- Ofcom
+- PC Blades
+- PC Clough
+- Passat
+- Teesside Magistrates’ Court
+- TikTok
+- Volkswagen
 ---
 
 One of the men killed in the A66 crash was awaiting trial over alleged crimes against police officers, court records show.

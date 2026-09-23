@@ -14,6 +14,26 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Britain
+- Chapter of York
+- Humber
+- Malton
+- North Yorkshire
+- York Minster
+people:
+- Canon Maggie Smith
+- Canon Smith
+- David Skaith
+- Dean
+- Katie White
+- Ms White
+organisations:
+- Humber
+- Labour
+- Mayoral Renewables Fund
+- York Minster
+- Yorkshire
 ---
 
 Solar panels fitted to the roof of York Minster have been celebrated after a record-breaking period of installations.

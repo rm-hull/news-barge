@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Pets & Animals
 - Lifestyle & Fashion
+locations:
+- Darlington
+- Great Britain
+- Himalayan Garden and Sculpture Park
+- Himalayan Gardens
+- North East
+- North Yorkshire
+- Ripon
+people:
+- Clarie Brown
+- Jo Brook
+organisations:
+- LDTN
+- Lost Dog Tracking
+- Lost Dog Tracking Network
+- Positively Canine
 ---
 
 *(Image: Supplied)*

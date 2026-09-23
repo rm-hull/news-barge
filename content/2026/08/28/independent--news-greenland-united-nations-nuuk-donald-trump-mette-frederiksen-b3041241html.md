@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Denmark
+- Greenland
+- U.S.
+people:
+- Donald Trump
+- Jens-Frederik Nielsen
+- Mette Frederiksen
+organisations:
+- Danish Institute for Human Rights
 ---
 
 Two reports investigating the forcible contraception of thousands of Indigenous women and girls in Greenland by Danish health authorities for decades were split over whether the practice constituted genocide.

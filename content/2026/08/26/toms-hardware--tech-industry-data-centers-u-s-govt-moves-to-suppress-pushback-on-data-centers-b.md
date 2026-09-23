@@ -15,6 +15,31 @@ categories:
 - Hardware
 - News & Politics
 - Society & Culture
+locations:
+- Amazon
+- California
+- Festus
+- Fluvanna County
+- Gilroy
+- Loudoun County
+- Missouri
+- Mount Pleasant
+- U.S.
+- Virginia
+- Wisconsin
+people:
+- Michael Cork
+- Tom
+organisations:
+- AI
+- EPA
+- Environmental Protection Agency
+- Get Tom's Hardware
+- Google News
+- Harvard School of Public Health
+- Microsoft
+- The New York Times.
+- Tom’s Hardware
 ---
 
 ![Data center protest](https://cdn.mos.cms.futurecdn.net/Mp6a5T3nkbtP8cssNG5sb9.jpg) 

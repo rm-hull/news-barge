@@ -14,6 +14,31 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Europe
+- Iran
+- Kremlin
+- Kyiv
+- Middle East
+- Moscow
+- Russia
+- St Petersburg
+- Tehran
+- US
+- Ukraine
+- Washington
+people:
+- Dmitry Peskov
+- John Ratcliffe
+- Kyiv
+- Trump
+- Vladimir Putin
+- William Burns
+organisations:
+- CIA
+- Kyiv
+- NATO
+- Trump
 ---
 
 ## The Kremlin says John Ratcliffe met Russian intelligence officials but not Vladimir Putin during his surprise visit to Moscow on Tuesday. The secrecy surrounding the trip fuelled speculation that the CIA director was carrying a warning from Washington.

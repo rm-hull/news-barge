@@ -11,6 +11,22 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Finchley
+- Harrow Crown Court
+- Hemel Hempstead
+- Hertfordshire
+- London
+- PA
+people:
+- Ms Bowen
+- Richard Luker
+- Sally-Anne Bowen
+- Tobias Oliver
+organisations:
+- Christ’s College
+- Harrow Crown Court
+- Sabrina Carpenter
 ---
 
 A chemistry teacher has been convicted of having sexual relationships with two teenage pupils at an all-boys school back in the late 1980s.

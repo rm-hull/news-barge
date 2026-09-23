@@ -13,6 +13,29 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- New York Yankees’
+- Raymond James Stadium
+- St. Petersburg
+- Tampa Bay
+- Trop
+- Tropicana Field
+- hub
+people:
+- Ken Babby
+- Patrick Zalupski
+organisations:
+- City Council
+- Hillsborough College
+- Hillsborough County Commissioners
+- MLB
+- Major League Baseball
+- Rays'
+- Tampa Bay Buccaneers
+- Tampa Bay Rays
+- Tampa City Council
+- Trop
+- Yankees' George M. Steinbrenner Field
 ---
 
 City officials on Thursday approved a $2.3 billion deal for a new Tampa Bay Rays ballpark funded by public and private money.

@@ -14,6 +14,75 @@ categories:
 - News & Politics
 - Technology & Software
 - Society & Culture
+locations:
+- A66
+- Britain
+- Cleveland
+- County Kildare
+- England
+- Estonia
+- Europe
+- France
+- Ireland
+- Kyiv
+- London
+- Luxembourg
+- M9
+- Middlesbrough
+- Moldova
+- Moscow
+- PA
+- Russia
+- South Bank
+- TikTok
+- UK
+- Ukraine
+- Wales
+people:
+- Alar Karis
+- Andrii Sybiha
+- Andy Burnham
+- António Costa
+- Cole Robert Worthy
+- Emmanuel Macron
+- Henry Nicholls
+- Jacob Matusiak
+- Jason Alden
+- Jerry Schurder
+- Justin Kelly
+- Kiran StaceyandDan Sabbagh
+- Kyiv
+- Lauren Almeida
+- Luc Frieden
+- Luke Pollard
+- Maia Sandu
+- Makai Saddington
+- Matt Storey
+- Matthew Blades
+- Michael Robert Cahill
+- Niall Carson
+- Owen Humphreys
+- Theo Rae
+- TikTok
+- Tom Clough
+- Vivian Ho
+- Volodymyr Zelensky
+organisations:
+- BBC Radio 4
+- BBC Radio 5
+- Cleveland Police
+- EPA
+- European Council
+- Garda
+- HM Naval Base Portsmouth
+- MBDA
+- PA Social
+- RTÉ
+- Reuters
+- Scalp
+- Today
+- Treasury
+- Wales
 ---
 
 A police cordon at the scene of a fatal crash involving a police car and a Volkswagen Passat on the A66 in South Bank, near Middlesbrough on Saturday. Photograph: Owen Humphreys/PA

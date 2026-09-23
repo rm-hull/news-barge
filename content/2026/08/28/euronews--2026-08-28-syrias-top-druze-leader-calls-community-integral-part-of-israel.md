@@ -13,6 +13,26 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Damascus
+- Jabal al-Arab
+- Jordan
+- Lebanon
+- State of Israel
+- Suwayda
+- Syria
+- US
+- United States
+people:
+- Ahmad al-Sharaa
+- Bashar al-Assad
+- Druze
+- Hikmat al-Hijri
+- Suwayda
+- al-Aql Hikmat al-Hijri
+- al-Sharaa Al-Hijri
+organisations:
+- Israeli Defence Forces
 ---
 
 ## Sheikh al-Aql Hikmat al-Hijri made the declaration at a gathering in Suwayda, praising Israel's model of state-building and saying the two communities shared doctrinal "common denominators," a statement that deepens the rift with Damascus.

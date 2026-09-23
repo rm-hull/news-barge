@@ -15,6 +15,29 @@ categories:
 - News & Politics
 - True Crime
 - Technology & Software
+locations:
+- A-road
+- A66
+- Cleveland
+- Micklow Close
+- Middlesbrough
+- Redcar
+people:
+- Cameron George
+- Cole Robert Worthy
+- Jacob Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- SARAH CALDECOTT
+- Theo Rae
+- Tom Clough
+- Wayne Fox
+organisations:
+- Cleveland Police
+- PCs Blades
+- VW
+- Volvo
 ---
 
 Police have confirmed further details about 12 arrests, including one man who has been charged, amid a probe linked to the horrific A66 crash that left two police officers dead.

@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Andorra
+- England
+- Liverpool
+- Madrid
+- Merseyside
+- Santiago Bernabeu
+- Spain
+people:
+- 27‑year‑old
+- Alexander Arnold
+- Thomas Tuchel
+- Trent Alexander-Arnold
+- Trent Alexander‑Arnold
+organisations:
+- Andorra
+- Anfield
+- England Alexander-Arnold
+- LFC
+- Liverpool
+- Mirror
+- Real Madrid
+- Real Madrid.
 ---
 
 ![Trent Alexander-Arnold wearing Real Madrid training gear at the Santiago Bernabeu stadium](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9cfa/live/e77effe0-9ec2-11f1-86f9-ff2d438d88d1.jpg)

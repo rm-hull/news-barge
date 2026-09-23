@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Christchurch
+- Nottingham Justice Centre
+- Nottinghamshire
+people:
+- Alex du Sautoy
+- Brenton Tarrant
+- Paul Goldspring
+- du Sautoy
+organisations:
+- TikTok
 ---
 
 A 14-year-old boy who downloaded a video explaining how to make explosives and spray-painted racially aggravated graffiti onto a woman’s fence has been spared a custodial sentence.

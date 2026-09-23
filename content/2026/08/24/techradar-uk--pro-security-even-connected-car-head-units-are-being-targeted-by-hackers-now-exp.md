@@ -10,6 +10,23 @@ description: A BadBox-linked campaign is now reaching car head units, raising fr
 image: https://cdn.mos.cms.futurecdn.net/U4kKJiuR4cLoeEoYecZQPK-2560-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Kaspersky
+organisations:
+- '## Head'
+- '**Kaspersky'
+- BadBox
+- DoFun
+- Efosa
+- Google News
+- JarService
+- Kaspersky
+- MAC
+- MoYu Group
+- ProxyForU
+- TWCore
+- TechRadar Pro
 ---
 
 ![Spotify Car Thing](https://cdn.mos.cms.futurecdn.net/U4kKJiuR4cLoeEoYecZQPK.jpg) 

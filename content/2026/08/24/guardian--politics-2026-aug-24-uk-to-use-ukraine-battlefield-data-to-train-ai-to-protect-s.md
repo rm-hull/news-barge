@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Britain
+- Europe
+- Kyiv
+- London
+- Middle East
+- RAF Brize Norton
+- UK
+- US-Mexico
+- Ukraine
+people:
+- Andy Burnham
+- Putin
+- Steven Murdoch
+- Wes Streeting
+organisations:
+- Avengers AI
+- British AI
+- Mind Foundry
+- Ministry of Defence
+- MoD
+- Palestine Action
+- RAF Voyager
+- Sintela
+- Skyral
+- Trump
+- University College London
 ---
 
 AI models trained on Ukrainian battlefield data will be used to stop protesters and foreign states targeting UK defence sites, railways and energy plants under a deal struck between London and Kyiv.

@@ -12,6 +12,13 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Aston
+- Budworth
+- Cann Lane
+people: []
+organisations:
+- Cheshire Police
 ---
 
 Two men have died following an industrial accident at a farm on Cann Lane in Aston by Budworth, Cheshire Police announced. 

@@ -11,6 +11,33 @@ image: https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-2560-80.jpg
 categories:
 - Technology & Software
 - News & Politics
+locations:
+- AI
+- Ohio
+- Pennsylvania
+- US
+- United States
+people:
+- Andrew Stokols
+- Jon Husted
+- Josh Shapiro
+- Sherrod Brown
+organisations:
+- AI
+- Axios
+- Efosa
+- Fox News
+- Google News
+- Meta
+- NRSC
+- National Republican Senatorial Committee
+- Nvidia
+- Ohio Data Center Risk
+- OpenAI
+- Senate
+- Singapore Management University
+- TechRadar Pro
+- Vantage
 ---
 
 ![A data center with racks of servers and lots of lights glowing](https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M.jpg) 

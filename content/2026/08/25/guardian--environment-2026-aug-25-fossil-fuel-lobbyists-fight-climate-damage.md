@@ -12,6 +12,44 @@ image: https://i.guim.co.uk/img/media/9378353e75bad5029b7512f5ef66e32b1594c137/2
 categories:
 - UK
 - News & Politics
+locations:
+- California
+- Everglades
+- Florida
+- Miami-Dade county
+- New Jersey
+- New York
+- Rochester
+- Texas
+- US House
+- Vermont
+- Westchester county
+- Wyoming
+people:
+- Cassidy DiPaola
+- Harriet Hageman
+- James Browning
+- Richard Rosenbaum
+- Ted Cruz
+- Timmons Roberts
+- Trevor Culhane
+organisations:
+- API
+- American Fuel and Petrochemical Manufacturers
+- American Petroleum Institute
+- Brown University
+- Brown University Climate and Development Lab
+- CDL
+- Congressional
+- ConocoPhillips
+- ExxonMobil
+- F Minus
+- Greenberg Traurig
+- Koch Companies
+- LEADERS
+- Make Polluters Pay
+- Senate
+- Western States Petroleum Association
 ---
 
 Congressional lobbyists working for fossil fuel firms that are exacerbating the climate crisis are simultaneously representing more than 300 local governments raising funding to recover from climate damage, according to a new analysis.

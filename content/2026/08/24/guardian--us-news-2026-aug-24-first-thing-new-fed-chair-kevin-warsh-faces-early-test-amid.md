@@ -13,6 +13,74 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Abraham Lincoln
+- Australia
+- California
+- Charlotte
+- China
+- Delaney Hall.
+- Florida
+- Grand Teton
+- Guam.
+- Iran
+- Kentucky
+- Key West
+- Lake Claiborne
+- Louisiana
+- Mariana Trench
+- Middle East
+- Nevada
+- Nicaragua
+- North Carolina
+- Pacific
+- Reno
+- San Francisco’s Tenderloin
+- Sydney
+- Tamarama Beach
+- Taylor Street
+- Taylor Street.
+- US
+- Ukraine
+- Victoria
+- Washington
+people:
+- Catherine Basterfield
+- Donald Trump
+- Donald Trump.
+- Hakeem Jeffries
+- Hannah Richell
+- Iryna Zarutska
+- Jared Kushner
+- Joe Biden
+- Joshua Aviles
+- Joshua Aviles.
+- Kevin Warsh
+- Luigi Mangione
+- Luis Manuel Aviles Roa
+- Luke Harding
+- Matt
+- Natalie Harp
+- Scott Bessent
+- Vladimir Putin
+- Vladimir Putin.
+- Zelenskyy
+organisations:
+- Compton
+- DHS
+- Department of Homeland Security
+- Fed
+- Geo Group
+- ICE
+- Immigration and Customs Enforcement
+- Nevada National Guard
+- Phillip Island Nature Parks
+- Trump
+- US Capitol
+- US Federal Reserve
+- US Treasury
+- USS Abraham Lincoln
+- pro-Trump
 ---
 
 Good morning. The new US Federal Reserve chair, Kevin Warsh, faces a critical test this week amid anxiety in government bond markets over inflation and Donald Trump’s tax and spending plans. As the world’s most powerful central bank prepares for its annual Jackson Hole conference, analysts said bond traders would be looking for signals from Warsh over its commitment to fighting inflation.

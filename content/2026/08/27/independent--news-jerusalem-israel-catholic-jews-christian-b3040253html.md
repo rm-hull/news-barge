@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Herzliya
+- Israel
+- Jerusalem
+- Old City
+- West Bank
+- Western Wall
+people:
+- Friar Olivier Poquillon
+- George Deek
+- Koral Saeed
+- Yisca Harani
+organisations:
+- AP
+- Associated Press
+- Jerusalem Magistrate’s Court
+- Lilly Endowment Inc
+- Religious Freedom Data Center
+- The Associated Press
+- The Conversation US
+- The French Biblical and Archeological School of Jerusalem
 ---
 
 A Jerusalem Magistrate’s Court judge acquitted a man accused of attacking a Catholic nun based on his insanity defense, but ordered him committed to psychiatric hospitalization for up to six years.

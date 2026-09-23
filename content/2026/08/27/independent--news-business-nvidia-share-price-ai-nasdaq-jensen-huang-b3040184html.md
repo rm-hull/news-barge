@@ -13,6 +13,22 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- AI
+- London
+- US
+people:
+- Ben Barringer
+- Dan Coatsworth
+- Jensen Huang
+- Kathleen Brooks
+organisations:
+- AI
+- AJ Bell
+- HSBC
+- Nvidia
+- Quilter Cheviot
+- XTB
 ---
 
 Nvidia, the biggest public-listed company in the world, has seen its share price soar by more than 7 per cent in overnight trading after another enormous financial update.

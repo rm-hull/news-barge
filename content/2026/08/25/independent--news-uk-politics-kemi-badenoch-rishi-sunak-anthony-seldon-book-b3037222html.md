@@ -11,6 +11,23 @@ image: https://static.independent.co.uk/2026/08/21/15/43/GettyImages-2183326354-
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+people:
+- Anthony Seldon
+- Danny Kruger
+- Kemi Badenoch
+- Ms Badenoch
+- Penny Mourdant
+- Rishi Sunak
+- Robert Jenrick
+- Tom Egerton
+organisations:
+- Atlantic Books
+- Badenoch
+- Labour
+- Reform
+- Tory
 ---
 
 Kemi Badenoch “had no respect” for former Conservative prime minister Rishi Sunak and secretly tried to bring him down before the last general election, a new book has claimed.

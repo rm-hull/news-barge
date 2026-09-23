@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Baja California
+- Calexico
+- Latin America
+- Mexicali
+- Mexico
+- U.S.
+people:
+- Claudia Sheinbaum
+- Marina del Pilar Ávila
+organisations: []
 ---
 
 The U.S. government issued a travel alert for Americans planning to visit Mexicali in northern Mexico and temporarily suspended consular activities in the border city due to a “potential threat,” without providing details.

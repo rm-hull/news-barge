@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- Caldyne
+- Crawley
+- England
+- Gatwick
+- West Sussex
+people: []
+organisations:
+- Autocovery and K&L Automotive
+- Bears
+- London Gatwick
+- UK Power Networks
 ---
 
 A man has been arrested on suspicion of arson after a fire tore through a car park used by people flying from Gatwick airport, destroying about 140 vehicles.

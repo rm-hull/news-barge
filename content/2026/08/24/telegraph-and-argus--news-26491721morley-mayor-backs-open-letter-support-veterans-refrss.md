@@ -12,6 +12,22 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Downing Street
+- Morley
+- West Yorkshire
+people:
+- Lorraine Kelly CBE
+- Richard Dannatt
+- Ross Kemp
+- Si Brown
+organisations:
+- Armed Forces
+- Armed Forces Covenant
+- British Army
+- Help for Heroes
+- Si Brown
+- TV
 ---
 
 *(Image: Si Brown)*

@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Armenia
+- Asia
+- Beijing
+- China
+- Europe
+- Iran
+- Iran.
+- Iraq
+- Israel
+- Pakistan
+- Russia
+- Tehran
+- Turkey
+- US
+- Ukraine
+- United States
+- Washington
+people:
+- Ali Vaez
+- Aya Ibrahim
+- Miguel Roca-Terry
+- Scott Bessent
+organisations:
+- BBC
+- ITC
+- International Crisis Group
+- International Trade Centre
+- Nato
+- Oxford Economics
+- US Treasury
+- United Nations
+- World Trade Organisation
 ---
 
 Watch: What are these sanctions and who will be affected?

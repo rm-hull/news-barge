@@ -12,6 +12,30 @@ categories:
 - Local
 - York
 - History
+locations:
+- Linton-on-Ouse
+- North Yorkshire
+- Scarborough
+- UK
+- York
+people:
+- Chris Clark
+- Cllr Sarah Mason
+- Janet Jefferson
+- Owen Humphreys
+- Rich Maw
+- William Stuart
+organisations:
+- Google
+- HMO
+- Home Office
+- Labour
+- NYC
+- North Yorkshire Council
+- PA Wire
+- RAF Linton-on-Ouse
+- Scarborough Town Council
+- United Nations
 ---
 
 ## Reform-led council objects to Linton-on-Ouse asylum plans 50 miles away

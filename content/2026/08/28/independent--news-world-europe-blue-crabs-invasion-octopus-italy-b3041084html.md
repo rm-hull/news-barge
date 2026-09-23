@@ -12,6 +12,18 @@ categories:
 - UK
 - History
 - Sports
+locations:
+- Atlantic Ocean
+- Emilia-Romagna
+- Italy
+people:
+- Antonio Casalini
+- Laura Gentile
+organisations:
+- AFP
+- National Wildlife Federation
+- The Independent
+- University of Bologna
 ---
 
 An army of octopus have been released in Italian waters to tackle a destructive influx of blue crabs.

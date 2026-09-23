@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Dalton Park
+- North East
+- Seaham
+people:
+- Richard Kaye
+- Simon Donoghue
+organisations:
+- Dalton Park
+- Dalton Park Outlet
+- French Connection
 ---
 
 French Connection is opening a new outlet store in the North East this autumn.

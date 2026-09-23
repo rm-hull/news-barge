@@ -16,6 +16,23 @@ categories:
 - York
 - Travel
 - Lifestyle & Fashion
+locations:
+- Boltby Bank
+- Boltby Forest
+- Cleveland Way
+- Exmoor
+- High Paradise Farm
+- Isle of Wight
+- North Yorkshire
+- Scotland
+- Sutton Bank
+people:
+- Ginny
+- Julian Norton
+organisations:
+- Golden Eagle
+- White-Tailed Eagle
+- Yorkshire Vet
 ---
 
 # The Yorkshire Vet: Spotted... a mysterious bird of prey - Julian Norton

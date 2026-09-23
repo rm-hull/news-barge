@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- China
+- India
+- Llanwern
+- Newport
+- Port Talbot
+- South Korea
+- UK
+- Vietnam
+- Wales
+people:
+- Alasdair McDiarmid
+- Blair McDougall
+- Rajesh Nair
+- Russell Codling
+organisations:
+- Community
+- Financial Times
+- Llanwern
+- Tata Steel
+- Tata UK
+- World Trade Organization
 ---
 
 At Tata Steel’s factory in Llanwern, south Wales, production lines that should be running full-time are now falling quiet for parts of the day, with workers being put on to maintenance and cleaning work while machines sit idle.

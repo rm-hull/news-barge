@@ -14,6 +14,45 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Alberta
+- Bellingham
+- Calgary
+- California
+- Canada
+- Heather Seevers'
+- Ontario
+- Oregon
+- Plymouth
+- Portland
+- Toronto
+- US
+- US-Canada
+- Washington
+people:
+- Bill Easton
+- Cindy Baldassi
+- Donald Trump
+- Kim Osgood
+- Mark Carney
+- Matteo Sgaramella
+- Michael Saifer
+- Mike Roach
+- Nadine Yousif
+- Seevers
+organisations:
+- BBC
+- CindyLouWho2
+- Costco
+- Lind Furniture
+- Matteo Sgaramella
+- Mercantile
+- Northwest Yarns
+- Outclass
+- Paloma Clothing
+- Sears
+- Terre Rouge Wines
+- UPS
 ---
 
 ![Cindy Baldassi is in the foreground wearing sunglasses and a dark hoody and navy blue dress. She is looking at the camera and behind her is a beautiful blue lake and towering mountain peaks with snow on top of them.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/327a/live/4f7e5860-9fa0-11f1-a291-b542ee92de7c.jpg)

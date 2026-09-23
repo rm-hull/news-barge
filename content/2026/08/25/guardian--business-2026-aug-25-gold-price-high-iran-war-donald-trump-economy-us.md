@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Canada
+- France
+- Hormuz
+- Iran
+- Japan
+- Middle East
+- US
+people:
+- Donald Trump
+- Ipek Ozkardeskaya
+- Kevin Warsh
+- Tony Sycamore
+organisations:
+- AI
+- Fed
+- IG
+- Swissquote
+- Trump
+- US Federal Reserve
 ---
 
 Gold prices hit their highest level in more than three months on Tuesday as continued conflict in the Middle East and ongoing political uncertainty fuelled the latest rally in the precious metal.

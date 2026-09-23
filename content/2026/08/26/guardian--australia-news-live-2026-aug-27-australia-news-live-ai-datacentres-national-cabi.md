@@ -12,6 +12,76 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Adelaide
+- Canada
+- Canberra
+- China
+- Finland
+- France
+- George Town
+- Gunns Pulp Mill
+- Kathmandu
+- Launceston
+- Long Reach
+- Nepal
+- Nepal-Tibet
+- Northern Territory
+- Norway
+- NurPhoto
+- Nuwakot
+- Queensland
+- Rasuwa
+- Shutterstock Australia
+- South Australia
+- Switzerland
+- Sydney
+- Tamar River
+- Tasmania
+- Tibet
+- UK
+- US
+- Western Australia
+people:
+- Anthony Albanese
+- Dfat
+- Hollie Adams
+- Ken Henry
+- Martin Farrer
+- Nick Visser
+- Penny Wong
+- Peter Malinauskas
+- Sanjit Pariyar
+- Sarah Ferguson
+- Simon Ernst
+- Tanya Plibersek
+organisations:
+- AAP
+- ABC
+- AFP
+- AI
+- Agence France-Presse
+- Consular Emergency Centre
+- Cotality
+- DFAT
+- Department of Foreign Affairs
+- Department of Foreign Affairs and Trade
+- Dfat
+- Firmus
+- Ima Caldwell South Australian
+- KMPG
+- KPMG Australia
+- Macquarie Group
+- Nepal Tourist Board
+- NurPhoto
+- Press Association
+- PricewaterhouseCoopers
+- Productivity Commission
+- RN Breakfast
+- Reuters Malinauskas
+- Shutterstock Macquarie Group
+- Subaas Shrestha
+- Treasury
 ---
 
 The prime minister, Anthony Albanese, says Dfat officials are ready to provide consular assistance to Australians in Nepal, after the devastating flooding in the country.

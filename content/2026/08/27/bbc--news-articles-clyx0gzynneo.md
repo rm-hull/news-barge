@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Health & Fitness
 - Science
+locations:
+- Covid
+- UK
+people:
+- Ella
+- Jessica Eccles
+- Luke Grindlay
+- Stephanie Barrett
+- Vivienne Duval
+organisations:
+- GP
+- HSD
+- National Institute for Health and Care Excellence
+- News Daily
+- University of Edinburgh
 ---
 
 Ella, who was diagnosed at 24, explains the symptoms of HSD

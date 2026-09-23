@@ -15,6 +15,78 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Astrakhan
+- Azerbaijan
+- Baghdad
+- Beijing
+- Black Sea
+- Brussels
+- Caspian Sea
+- Chatham House
+- China
+- Estonia
+- Gwadar
+- Iran
+- Iraq
+- Islamic Republic
+- Israel
+- Istanbul
+- Kazakhstan
+- Moscow
+- New York
+- North Korea
+- Oman
+- Pakistan
+- Persian Gulf
+- Poland
+- Russia
+- Saudi Arabia
+- Strait of Hormuz
+- Tallinn
+- Tehran
+- Turkey
+- Turkmenistan
+- U.S.
+- UAE
+- Ukraine
+- United Arab Emirates
+- United States
+- Washington
+- White House
+people:
+- Alex Vatanka
+- Amir Vahdat
+- Daniel Fried
+- Dasha Litvinova
+- David Lubin
+- Donald Trump
+- Mark Galeotti
+- Mohammad Bagher Qalibaf
+- Nikita Smagin
+- Obama
+- Peter Harrell
+- Riccardo Gasco
+- Scott Bessent
+- Umud Shokri
+- Xi Jinping
+organisations:
+- Associated Press
+- Atlantic Council
+- Federal Reserve Bank
+- George Mason University
+- Georgetown University
+- Gucci
+- IstanPol
+- Mayak Intelligence
+- Middle East Institute
+- NATO
+- Trade Data Monitor
+- Treasury
+- U.N.
+- WTO
+- World Trade Organization
+- ___ McNeil
 ---
 
 Iran’s economy, already strained by high inflation, years of Western sanctions and a war that has sharply reduced oil revenue, is poised for more instability as the Trump administration tries to coerce other countries into ending all financial dealings with the Islamic Republic.

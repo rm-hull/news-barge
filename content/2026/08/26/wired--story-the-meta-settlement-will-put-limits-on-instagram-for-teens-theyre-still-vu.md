@@ -13,6 +13,38 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Northern California
+- US
+people:
+- Adam Mosseri
+- Arturo Bejar
+- Carol Vidal
+- David Greene
+- Jean Twenge
+- Julie Scelfo
+- Kate Ruane
+- Mark Zuckerberg
+- Rob Bonta
+- Stephanie Otway
+- Tanzeem Choudhury
+- Vaishnavi Jayakumar
+- Yvonne Gonzalez Rogers
+organisations:
+- Center for Democracy and Technology
+- Cornell Tech
+- Cornell University
+- Electronic Frontier Foundation
+- Facebook
+- Free Expression Project
+- Instagram
+- Johns Hopkins University School of Medicine
+- Meta
+- Meta’s Otway
+- Mothers Against Media Addiction
+- New York City–
+- Teen Accounts
+- Yoti
 ---
 
 Advocates for children tell WIRED that Meta’s legal settlement to address concerns about teenagers’ use of social media proposes important and overdue feature changes that invite more parental oversight than ever before. They also, though, say it puts a significant burden on caregivers and unreliable age-assessment systems.

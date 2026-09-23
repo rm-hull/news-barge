@@ -11,6 +11,27 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1da/live/9dcc87
 categories:
 - UK
 - News & Politics
+locations:
+- Belgium
+- Kremlin
+- Russia
+- UK
+- Ukraine
+- United States
+people:
+- '** Fedorov'
+- Elon Musk
+- Kyiv
+- Mikhailo Fedorov
+- Mykhailo Fedorov
+- Putin
+- Volodymyr Zelensky
+organisations:
+- BBC News
+- Federov
+- Nato
+- Starlink
+- Ukraine Defence Contact Group
 ---
 
 Fedorov asked about Ukraine government corruption claims

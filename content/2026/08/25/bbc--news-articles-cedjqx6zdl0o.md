@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Family & Parenting
 - Education & Learning
+locations:
+- England
+- London
+- UK
+- Westminster
+people:
+- Hannah Stoddart
+- Kate Steere
+- Megan Meek-O'Connor
+organisations:
+- Baby Bank Alliance
+- Facebook Marketplace
+- Family Action
+- Finder
+- Little Stars Shrewsbury
+- Little Stars Shropshire
+- Meek-O'Connor
+- Save the Children
+- School Uniform Reuse Network
 ---
 
 ![Two happy smiling school children on their way to school wearing blue school uniforms](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/41f1/live/60364e00-9fd8-11f1-b1e7-f78d213f1364.jpg)

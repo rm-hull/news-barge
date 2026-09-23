@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Darlington Willington
+- Durham Bus Station
+- Holme House Road
+- Newton Aycliffe Magistrates' Court
+- North Road
+- Stockton
+people:
+- Jonathan Armstrong
+organisations:
+- Newsquest
 ---
 
 *(Image: Newsquest)*

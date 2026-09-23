@@ -13,6 +13,19 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Florida
+- Texas
+- US
+people:
+- Donald Trump
+- Mark Krikorian
+organisations:
+- Associated Press
+- Center for Immigration Studies
+- ICE
+- Trump
+- US Immigration and Customs Enforcement
 ---
 
 ## The month before President Donald Trump returned to office, immigration arrests stood at just over 8,000, mostly involving immigrants transferred from local or state detention facilities to ICE for deportation.

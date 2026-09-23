@@ -12,6 +12,27 @@ categories:
 - UK
 - Personal Finance & Investing
 - Arts & Culture
+locations:
+- Greater Manchester
+- Iran
+- UK
+- Ukraine
+people:
+- Andy Burnham
+- Darren Jones
+- John Healey
+- Mel Stride
+- Rachel Reeves
+organisations:
+- Budget
+- Cabinet
+- ITV News
+- LBC
+- Labour Party
+- National Institute of Economic and Social Research
+- Niesr
+- ONS
+- Office for National Statistics
 ---
 
 Andy Burnham has refused to dismiss potential tax increases in the upcoming Budget, stating he "won’t be unrealistic" regarding the state of public finances.

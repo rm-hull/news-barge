@@ -11,6 +11,24 @@ image: https://images.euronews.com/articles/stories/09/89/22/28/1200x675_cmsv2_e
 categories:
 - Europe
 - News & Politics
+locations:
+- Central America
+- Chile
+- China
+- El Niño
+- Japan
+- Middle East
+- Pacific Ocean
+- Panama Canal
+- South Korea
+- United States
+people: []
+organisations:
+- AFP
+- Bloomberg
+- El Niño
+- Panama Canal Authority
+- SK Gas
 ---
 
 ## The US-built canal's main users are the United States, China, Japan, Chile and South Korea.

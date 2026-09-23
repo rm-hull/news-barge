@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Pets & Animals
+locations:
+- Bolivia
+- Brazil
+- Peru
+people: []
+organisations:
+- Katydids
+- London Zoo
+- ZIMS
+- ZSL
 ---
 
 ![A furry brown capybara named Kiwi chomps on a leaf as she is weighed by a ZSL employee in a green polo and black shirt.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/321f/live/55ea1130-9f96-11f1-a291-b542ee92de7c.jpg)

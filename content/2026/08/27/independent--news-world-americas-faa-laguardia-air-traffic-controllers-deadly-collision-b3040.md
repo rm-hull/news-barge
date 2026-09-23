@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- LaGuardia Airport
+- New York City
+people:
+- Sean Duffy
+organisations:
+- Air Canada
+- FAA
+- Federal Aviation Administration
+- Journal
+- National Air Traffic Controllers Association
+- The Wall Street Journal.
 ---
 
 The Federal Aviation Administration is pushing to fire two air traffic controllers who left work early before an Air Canada jet crashed into a firetruck at LaGuardia Airport in March, according to a report.

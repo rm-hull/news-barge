@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Britain
+- British Isles
+- Queen Elizabeth II
+- South Wales
+- UK
+people:
+- Charles III
+- Elizabeth II
+- Rebecca Morgan
+organisations:
+- Royal Mint
+- Royal Mint Experience
+- UK Finance
+- eBay
 ---
 
 *(Image: Royal Mint/PA Wire)*

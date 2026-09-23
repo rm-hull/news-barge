@@ -13,6 +13,29 @@ categories:
 - Harrogate
 - York
 - Food & Cooking
+locations:
+- Pickering
+- Ryedale
+- Willowgate
+- Woodthorpe
+- Yorkshire
+people:
+- Gemma
+- Matt Bird
+- Matthew Bird
+- Sorry
+- Willowgate
+organisations:
+- Black Wheat Club
+- Google
+- LOCALiQ
+- Pic
+- Sloppy's
+- TT Burgers
+- The Willowgate Bistro
+- Tripadvisor
+- Willowgate Bistro
+- York College
 ---
 
 A much-loved Pickering restaurant is to close this weekend.

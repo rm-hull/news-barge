@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Craven
+- Keighley Road
+- North
+- Skipton
+- West Yorkshire
+people:
+- James
+- Michelle Airey
+organisations:
+- Craven PRS
+- Craven Pupil Referral Service
+- ESR Europe
+- Ms Airey
+- UGC
 ---
 
 *(Image: UGC)*

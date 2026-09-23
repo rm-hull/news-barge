@@ -13,6 +13,15 @@ categories:
 - UK
 - Food & Cooking
 - Health & Fitness
+locations:
+- England
+people:
+- D’Arcy Williams
+- Jamie Oliver
+- Shalom
+organisations:
+- Bite Back
+- Department for Education
 ---
 
 Most secondary schools in England are serving chicken nuggets, hash browns, chocolate desserts and crisps too often, a new report has revealed.

@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Outdoors & Nature
+locations:
+- Askern Lake
+- Doncaster
+people:
+- Coun Gerald Squire
+- Coun Lawson
+- Ed Miliband
+- John Rowley
+- Vicky Lawson
+organisations:
+- Askern Angling Supplies
+- City of Doncaster Council
+- Doncaster Council
+- Reform UK
 ---
 
 # ‘We must work together to stop fishing ban,’ say councillors amid uproar

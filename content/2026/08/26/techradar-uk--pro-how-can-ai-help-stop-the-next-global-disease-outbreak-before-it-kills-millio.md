@@ -9,6 +9,22 @@ description: AI can catch the next outbreak before it spreads
 image: https://cdn.mos.cms.futurecdn.net/ZzivZqzbMG6jdHYzun8e3L-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- AI
+- Abu Dhabi
+- USA
+- Zambia
+people:
+- VectorCam
+organisations:
+- AI
+- Department of Health
+- Future plc
+- Huna
+- MIT Solve
+- TechRadar Pro
+- TechRadarPro
+- ThinkMD
 ---
 
 ![A male office worker presents data on a big display in the office](https://cdn.mos.cms.futurecdn.net/ZzivZqzbMG6jdHYzun8e3L.jpg) 

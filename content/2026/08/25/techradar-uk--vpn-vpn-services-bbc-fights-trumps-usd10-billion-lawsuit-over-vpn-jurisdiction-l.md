@@ -13,6 +13,32 @@ categories:
 - Technology & Software
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- DC.
+- Florida
+- UK
+- US
+- United States
+- Washington
+- White House
+people:
+- Donald Trump
+- Rene Millman
+organisations:
+- '**Trump'
+- BBC
+- Computer Weekly
+- Donald Trump
+- Financial Times
+- GeoGuard
+- Google News
+- IT Pro
+- No Trace
+- Oval Office
+- Pandora
+- The Guardian
+- TheWrap
+- VPNs
 ---
 
 ![US President Donald Trump speaks to the press as he signs an executive order to create a US sovereign wealth fund, in the Oval Office of the White House on February 3, 2025, in Washington, DC.](https://cdn.mos.cms.futurecdn.net/JVkUNJkcVerxuwptkNLt9k.jpg) 

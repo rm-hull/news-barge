@@ -14,6 +14,16 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Bishop Auckland
+- County Durham
+- Darlington Memorial Hospital
+people: []
+organisations:
+- Great North Air Ambulance
+- Great North Air Ambulance Service
+- NEAS
+- North East Ambulance Service
 ---
 
 *(Image: GNAAS)*

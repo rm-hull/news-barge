@@ -12,6 +12,44 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Box Elder County
+- Emporia
+- Indianapolis
+- Iowa
+- Kansas
+- Marshall
+- Michigan
+- OpenAI
+- Saline Township
+- Salix
+- Utah
+- Woodbury County
+people:
+- Boyd Bingham
+- Gene Monk
+- James Hackworth
+- Jennifer Zink
+- Kevin Nelson
+- Lee Perry
+- Luke James
+- Ron Gibson
+- Scott Wolfersberger
+- Tom
+- Tyler Vincent
+organisations:
+- Emporia
+- Facebook
+- Get Tom's Hardware
+- Google News
+- IntelBrief
+- KSL
+- NBC News
+- Oracle
+- Reddit
+- Salix
+- Soufan Center
+- Woodbury County Sheriff's Office
 ---
 
 ![No Data Center sign on a rural road](https://cdn.mos.cms.futurecdn.net/cAkbprtpxDB6ChwJfP7Thg.png) 

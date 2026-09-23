@@ -13,6 +13,33 @@ image: https://cdn.mos.cms.futurecdn.net/CNLDj2hS8wzLuEaRL8KQWR-2560-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Kelly County
+- Key Lento
+- Leonard County
+- Leonida
+- Lummox County
+- Mariana County
+- Vice City
+- Vice Dale County
+people:
+- Cal Hampton
+- Cyberleek
+- Jason Duval
+organisations:
+- Cyberleek
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- HUD
+- NME
+- NPC
+- Netflix
+- Rockstar Games'
+- Sony
+- TechRadar
+- YouTube
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/CNLDj2hS8wzLuEaRL8KQWR.jpg) 

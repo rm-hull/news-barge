@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Baltimore
+- Calvert County
+- Kiplin Hall
+- Kiplin Hall and Gardens
+- Maryland
+- North America
+- North Yorkshire
+- US
+- United States
+- United States of America
+- Yorkshire Dales
+people:
+- George Calvert
+- James Etherington
+- Lord Baltimore
+organisations:
+- DL10 Media
+- First Baron Baltimore
+- Kiplin Hall
+- Kiplin Hall and Gardens
+- US Independence
 ---
 
 *(Image: DL10 Media)*

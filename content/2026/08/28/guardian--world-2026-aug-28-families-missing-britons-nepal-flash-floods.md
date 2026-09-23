@@ -12,6 +12,101 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Bhutan
+- China
+- Coventry
+- Croydon
+- Dartford
+- Essex
+- Folkestone
+- Himalayan Glacier
+- Hotel Kailash
+- India
+- Kailash Mansarovar
+- Kathmandu
+- Kent
+- Lake Mansarovar
+- London
+- Manasarovar
+- Mount Kailash
+- Nepal
+- Nepal-Tibet
+- Nuwakot
+- Rasuwa
+- Rasuwagadh
+- Saga
+- Sanatan Mandir
+- Slough
+- Surrey
+- Sussex
+- Tibet
+- Tibet-Nepal
+- Timure
+- Trishuli
+- UK
+- US
+people:
+- Anant Patel
+- Ankit Ranjan
+- Ankita Chandra
+- Anmol Goyal
+- Babar Gurung
+- Bhupesh Bector
+- Bipin Patel
+- Deepesh Patel
+- Geetha Reddy
+- Hema Amin
+- Jaggi Vasudev
+- Julija Jakovicka
+- Leena Bector
+- Madav
+- Mahadev Semwal
+- Mala Patel
+- Manjula Atmakur
+- Nabhi Nandan Das
+- Naresh Goyal
+- Neetu Goyal Tiwari
+- Pradip
+- Pramod Poudel
+- Pravin Atmakur
+- Purusottam
+- Rajendra Pudasaini
+- Sadhguru
+- Santosh Sahu
+- Sarada Simkhada
+- Spandan Sahu
+- Sumitra
+- Sunil Amin
+- Surabhi Manmath Padhy
+- Syna Kumari Sahu
+- Tanay Ranjan
+- Tara
+- Tatjana Phillips
+- Tejkumari Gurung
+- Thaneswar
+- Tulisa
+- Vikram Kolagatla
+- god Shiva
+organisations:
+- Alpine Eco Trek
+- BBC Radio 4
+- Charac
+- Daily Mail
+- Fishtail Tours and Travels
+- Home Office
+- Isha Foundation
+- Kailash Journeys
+- Leaf Holidays
+- NHS
+- Non-Resident Nepali Association
+- Non-Resident Nepali Association UK
+- Press Association
+- Sky News
+- The Telegraph
+- Times
+- Trekkers’ Society
+- YouTube
 ---
 
 Families are rushing to Nepal to search for the 33 British nationals who are still missing, as fears mount over the risk of a second wave of flooding in the region.

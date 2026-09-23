@@ -12,6 +12,18 @@ image: https://i.guim.co.uk/img/media/4e39147b5c857518774a3cce601cf0f4ce13b8e3/2
 categories:
 - UK
 - News & Politics
+locations:
+- Europe
+- France
+- Germany
+- Italy
+- Poland
+- Spain
+- UK
+- US
+people: []
+organisations:
+- YouGov
 ---
 
 Given the choice, more people across six major European nations including the UK favour encouraging the adoption of air conditioning over keeping carbon emissions down, a survey has found.

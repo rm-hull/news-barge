@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Canada
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- Ottawa
+- US
+- White House
+people:
+- Donald Trump
+- Doug Ford
+- François-Philippe Champagne
+- Mark Carney
+- Mélanie Joly
+organisations:
+- Ford
 ---
 
 Canada has announced it will impose tariffs on a wide range of key American industries including cosmetics, dairy, wood products and outdoor equipment in the coming weeks, as it retaliates roughly “dollar for dollar” against levies imposed by the US.

@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Norway
+people:
+- Haakon
+- Harald
+organisations:
+- National Hospital
+- Norway Royals
+- The Associated Press
 ---
 
 The health of Norway's King Harald deteriorates over the weekend

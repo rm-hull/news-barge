@@ -11,6 +11,45 @@ image: https://cdn.mos.cms.futurecdn.net/DRQtBUapbDgWzERaekH2hn-450-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Brandon Hill
+- Bruno Ferreira
+- Hannah Montana
+- Panther Lake
+people:
+- Lisa SuBy Hassam Nasir
+- Mark Tyson
+- Rory Read
+organisations:
+- AMD
+- Andrew E. Freedman
+- Andrew E. Freedman Published
+- Anton Shilov
+- Broadcom
+- Costco
+- Dbrand
+- Desktops Tom's Hardware
+- DesktopsApple
+- Gaming PCsSteamroller
+- Gaming PCsValve
+- Jowi Morales
+- Mark Tyson Published
+- Mini PCs
+- Nvidia GPU
+- PC BuildingHVAC
+- PC BuildingJapanese
+- PCBy Kunal Khullar
+- Panther Lake
+- PremiumAstera Labs
+- ServersAmazon
+- ServersNashville Zoo
+- ServersNvidia
+- ServersSupermicro
+- ServersTesco UK
+- SteamOSBy Kunal Khullar Published
+- VMware
+- Vera Rubin
+- Zak Killian
 ---
 
 # Desktops

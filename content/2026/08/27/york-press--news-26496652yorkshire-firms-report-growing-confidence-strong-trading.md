@@ -13,6 +13,17 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Humber
+- UK
+- Yorkshire
+people:
+- Debbie Mullen
+organisations:
+- Barclays Business Prosperity Fund
+- Business Banking
+- UK Corporate Banking
+- Yorkshire
 ---
 
 *(Image: Archive)*

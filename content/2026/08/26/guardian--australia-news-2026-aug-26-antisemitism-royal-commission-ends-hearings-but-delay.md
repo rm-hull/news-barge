@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Australia
+- Bondi Beach
+- Sydney
+people:
+- Chanukah
+- David Hurley
+- Julian Leeser
+- Paul Symon
+- Peter Leahy
+- Rex Stevenson
+- Richard Lancaster SC
+- Rick Burr
+- Virginia Bell
+organisations:
+- Australian Secret Intelligence Service
+- Bondi
+- Commission
+- Islamic State
+- Liberal
 ---
 
 Commissioner Virginia Bell says she will delay – by four days – handing down her final report into antisemitism and social cohesion, in order not to distract from commemorations of the Bondi terror attack.

@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations: []
+people: []
+organisations:
+- DWP State Pension
+- Facebook Marketplace
+- Home Bargains
+- M&S
+- Marks and Spencer
+- Mumsnet
+- SOCKSHOP
+- St Michael
+- Tesco
+- Vinted
+- Waitrose
+- eBay
 ---
 
 *(Image: M&S)*

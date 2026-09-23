@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Berkeley
+- Florida
+- Minnesota
+- Texas
+people:
+- Donald Trump
+- Markwayne Mullin
+organisations:
+- Congress
+- Department of Homeland Security
+- Deportation Data Project
+- Freedom of Information Act
+- Homeland Security
+- ICE
+- The Associated Press
+- Trump
+- U.S. Immigration and Customs Enforcement
+- University of California
 ---
 
 Newly released government figures show that U.S. Immigration and Customs Enforcement arrested nearly 50,000 individuals in July, the highest single-month arrest total recorded so far under the second Trump administration.

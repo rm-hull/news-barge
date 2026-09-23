@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Pets & Animals
+locations:
+- County Durham
+- Darlington
+- North East
+- Robert Atkinson Centre
+- Robert Atkinson Community Centre
+- Teesside
+- The Robert Atkinson Centre
+- Thornaby
+- YOUR
+people:
+- Luke Frost
+organisations:
+- One Thornaby
+- Onsite Building Trust
+- Public Notice Portal
+- Stockton Borough Council
+- Stockton Council
 ---
 
 ### What is the Public Notice Portal?

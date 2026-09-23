@@ -13,6 +13,13 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Manor Garth
+- Wigginton
+- York
+people: []
+organisations:
+- Ashtons
 ---
 
 ## Take a look inside this £650,000 detached family home near York

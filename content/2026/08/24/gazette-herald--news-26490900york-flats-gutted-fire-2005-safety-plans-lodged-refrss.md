@@ -14,6 +14,31 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- David Harrison
+- Fulford Place
+- Fulford Road
+- Heslington House
+- Hospital Fields Road
+- Nigel Holland
+- River Ouse
+- YOUR
+- York
+people:
+- Dan Adams
+- Lee Smith
+- Michelle McCormack
+- Nigel Holland
+- Taylor Wimpey
+- Taylor Woodrow
+organisations:
+- Building Council
+- City of York Council
+- Google Street View
+- Heslington House
+- North Yorkshire Fire and Rescue Service
+- Public Notice Portal
+- The Press
 ---
 
 ### What is the Public Notice Portal?

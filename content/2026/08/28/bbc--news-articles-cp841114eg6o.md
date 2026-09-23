@@ -11,6 +11,51 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Asker
+- Britain
+- California
+- Kristiansand
+- Norway
+- Oslo
+- Skaugum
+- Sweden
+- Victoria
+people:
+- Caroline Vagle
+- Edward VIII
+- Haakon Magnus
+- Haakon VII
+- Haakon VIII
+- Harald Born
+- Harald V. Many
+- Harald V." Haakon
+- Ingrid Alexandra
+- Jeffrey Epstein
+- King Haakon
+- King Olav V
+- Marius Borg Høiby
+- Martha Louise
+- Mette
+- Märtha Louise
+- Olav V
+- Prince Haakon
+- Sonja
+- Sverre Magnus
+- Then-Crown Princess Mette-Marit
+- Tove Taalesen
+- Trond Norén Isaksen
+- Wallis Simpson
+organisations:
+- BBC
+- Haakon
+- Lutheran Church of Norway
+- Mette-Marit
+- Nettavisen
+- Norwegian Naval Academy
+- Oxford University
+- Se og Hør
+- University of Berkeley
 ---
 
 ![King Haakon in military uniform](https://ichef.bbci.co.uk/ace/standard/728/cpsprodpb/1336/live/81184bf0-a2cb-11f1-941c-8741c1a72471.jpg)

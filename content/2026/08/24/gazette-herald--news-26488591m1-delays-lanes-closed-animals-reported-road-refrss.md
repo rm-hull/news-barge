@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- A638 Wakefield Road
+- Carrgate
+- England
+- M1
+- Yorkshire
+people: []
+organisations:
+- National Highways
 ---
 
 *(Image: Highways England)*

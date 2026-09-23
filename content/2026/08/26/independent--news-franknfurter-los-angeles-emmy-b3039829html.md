@@ -15,6 +15,15 @@ categories:
 - Film & TV
 - Arts & Culture
 - Comedy & Entertainment
+locations:
+- Los Angeles
+people:
+- Amadeus
+- Frank-N-Furter
+- Marcia Hurwitz
+- Tim Curry
+organisations:
+- The Associated Press
 ---
 
 Tim Curry, iconic character actor and 'Rocky Horror Picture Show' star, dies at 80

@@ -13,6 +13,47 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Belize
+- Cameroon
+- Central African Republic
+- Costa Rica
+- Dominica
+- Equatorial Guinea
+- Eswatini
+- Florida
+- Ghana
+- Guatemala
+- Haiti
+- Honduras
+- Liberia
+- Panama
+- Paraguay
+- Sierra Leone
+- Syria
+- U.S
+- U.S.
+- West Virginia
+- Wyoming
+people:
+- Donald Trump
+- Kristi Noem
+- Markwayne Mullin
+- Savi Arvey
+organisations:
+- American Immigration Council
+- Congress
+- Department of Homeland Security
+- Deportation Data Project
+- Homeland Security
+- Human Rights
+- Human Rights First
+- ICE Flight Monitor
+- Immigration and Customs Enforcement
+- Supreme Court
+- The New York Times.
+- The Times
+- Trump
 ---
 
 Donald Trump’s administration hit record highs of monthly immigration enforcement arrests this summer, with more than 43,000 people arrested in June and another 50,000 arrested in July.

@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Bankfields
+- Eston
+- Grangetown
+- Marske
+- Sedgemoor Road
+people: []
+organisations:
+- Cleveland Police
+- Great North Air Ambulance
+- NEAS
+- North East Ambulance Service
 ---
 
 *(Image: Police)*

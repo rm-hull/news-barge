@@ -14,6 +14,20 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Halifax Town
+- Reform UK
+- YOUR
+people:
+- Cllr Ingle
+- Keith Ingle
+- Marcus Stapley
+organisations:
+- Calderdale Council’s Planning Department
+- Calderdale’s Planning Department
+- Labour
+- Public Notice Portal
+- Reform UK
 ---
 
 ### What is the Public Notice Portal?

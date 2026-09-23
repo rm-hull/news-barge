@@ -12,6 +12,32 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Argentina
+- Azteca Stadium
+- England
+- Texas
+- UK
+people:
+- Ali Ben Nasser
+- Bobby Robson
+- Diego Maradona
+- Erling Haaland
+- God
+- Mike Provenzale
+- Peter Shilton
+- Shohei Ohtani
+organisations:
+- Adidas Azteca
+- Argentina
+- England
+- FIFA
+- Heritage Auctions
+- Los Angeles Dodgers
+- Luke Skywalker
+- Mexico City
+- Reuters
+- Sotheby’s
 ---
 
 ## The Adidas Azteca ball, used for both of Maradona’s goals against England in the 1986 World Cup, fell well short of its €8.6 million presale estimate.

@@ -10,6 +10,31 @@ description: We couldn't love the Apple Mac mini more, but this clever vintage-s
 image: https://cdn.mos.cms.futurecdn.net/xu7oufXqata4cXnjQbHiXS-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Amazon
+- M.2
+- Retro Dock Station
+- Thunderbolt 5
+- UK
+- US
+- Wokyis M5 Retro Dock Station
+- Wokyis dock
+people:
+- Wayne Williams
+organisations:
+- 10Gbps USB-C
+- 8TB
+- Amazon
+- Amazon.co.uk
+- Apple
+- DisplayPort
+- M6
+- Mac
+- PC
+- TechRadar Pro
+- USB-A
+- Wayne Williams
+- Wokyis
 ---
 
 ![Wokyis Retro Dock Station for Mac mini](https://cdn.mos.cms.futurecdn.net/xu7oufXqata4cXnjQbHiXS.jpg) 

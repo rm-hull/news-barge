@@ -12,6 +12,36 @@ image: https://static.independent.co.uk/2026/08/26/15/35/IMG_2467-copy.jpeg?trim
 categories:
 - News & Politics
 - UK
+locations:
+- Earth
+- Greater Manchester
+- Iran
+- Israel
+- Maesmynis
+- Powys
+- UK
+- Ukraine
+people:
+- '![Mike'
+- Andy Burnham
+- Kezia Barker
+- Lee Price
+- Mike
+- WorkerJosh
+organisations:
+- AI
+- ATM
+- Bug Out
+- CME
+- Costco
+- Link
+- Liverpool John Moores University
+- Preppers
+- Sgt Prepper
+- Silent Legion
+- The Independent
+- UK Urban Prepper
+- YouTube
 ---
 
 It was eight years ago that Mike, who goes by the name UK Urban Prepper, began stockpiling food and water for his family.

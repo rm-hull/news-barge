@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Brunswick Village
+- Durham
+- Newcastle
+- Ramside
+- UK
+people:
+- Martin Smith
+organisations:
+- County Durham
+- Ramside Estates
+- Ramside Group
+- Select Telecom
+- Select Telecom Limited
+- Wensleydale Creamery
 ---
 
 *(Image: Supplied)*

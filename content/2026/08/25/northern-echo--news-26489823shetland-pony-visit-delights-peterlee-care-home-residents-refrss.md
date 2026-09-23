@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Pets & Animals
+locations:
+- County Durham
+- Darlington
+- Grove Equestrian
+- Peterlee Care Home
+- Shetland
+people:
+- Abby Wiseman
+- Carol Turnbull
+- John Moses
+- Poppy
+- Steve Massey
+organisations:
+- North Yorkshire
+- Peterlee Care Home
+- Popular Care
 ---
 
 *(Image: Supplied)*

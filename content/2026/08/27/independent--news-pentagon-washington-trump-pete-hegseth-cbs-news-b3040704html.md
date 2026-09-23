@@ -14,6 +14,25 @@ image: https://static.independent.co.uk/2026/08/19/22/Media_Pentagon_Stars_and_S
 categories:
 - News & Politics
 - UK
+locations:
+- Middle East
+- U.S.
+- Washington, D.C.
+people:
+- Abraham Lincoln
+- Erik Slavin
+- Lara Korte
+- Max Lederer
+- Pete Hegseth
+- Trump
+organisations:
+- CBS News
+- Defense Department
+- Democracy Defenders Fund
+- Lawyers for Good Government, Government Accountability Project
+- Pentagon
+- Stars and Stripes
+- Yale Law School
 ---
 
 Three staff members from the Stars and Stripes military news outlet are suing to challenge their recent firings by the Pentagon, accusing the Trump administration of violating their First Amendment free speech rights to speak out against government interference in their work.

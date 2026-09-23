@@ -14,6 +14,32 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Beijing
+- Chatham House
+- China
+- D.C.
+- Iran
+- Russia
+- Strait of Hormuz
+- Tehran
+- U.S.
+- US
+- United States
+- Washington
+people:
+- '## Bessent'
+- Ali Madanizadeh
+- Joe Biden
+- Neil Quilliam
+- Obama
+- Scott Bessent
+- Trump
+organisations:
+- JCPOA
+- Shahed
+- Treasury Department
+- U.S. Treasury
 ---
 
 After days of promising the “toughest sanctions in history”, the US announced punitive measures against Iran on Monday and threatened sanctions against Tehran’s trade partners.

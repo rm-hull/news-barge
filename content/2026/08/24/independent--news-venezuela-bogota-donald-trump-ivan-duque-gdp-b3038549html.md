@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Bogota
+- Chile
+- Colombia
+- Ecuador
+- Latin America
+- Peru
+- U.S.
+- Venezuela
+people:
+- Abelardo de la Espriella
+- Ana Karina García
+- Arles Pereda
+- De la Espriella
+- Donald Trump
+- Ivan Duque
+- de la Espriella
+organisations:
+- Juntos Se Puede
+- Migracion Colombia
+- United Nations
 ---
 
 Colombian President Abelardo de la Espriella has promised to deport thousands of migrants who are in the country without residence permits, mainly Venezuelans, as he attempts to make significant changes to the nation’s immigration policies that he says will reduce crime.

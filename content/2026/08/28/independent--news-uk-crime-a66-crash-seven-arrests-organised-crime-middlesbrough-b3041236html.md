@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Atlee Road
+- Cleveland
+- County Durham
+- Grangetown
+- Kingsley Road
+- Middlesbrough
+- Steele Crescent
+people:
+- Dave Sutherland
+- Matthew Blades
+- PC Matthew Blades
+- Pc Tom Clough
+- Tom Clough
+organisations:
+- Cleveland Police
+- Mercedes
+- PA
 ---
 
 Cleveland Police have confirmed seven more men have been arrested as part of an operation to disrupt organised crime in the wake of the A66 crash.

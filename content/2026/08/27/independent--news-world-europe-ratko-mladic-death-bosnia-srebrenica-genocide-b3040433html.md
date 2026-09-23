@@ -15,6 +15,40 @@ categories:
 - History
 - Society & Culture
 - True Crime
+locations:
+- Belgrade
+- Bosnia
+- Bozinovici
+- Croatia
+- Europe
+- Han Pijesak
+- Kosovo
+- Netherlands
+- Sarajevo
+- Serbia
+- Srebrenica
+- St. Vitus Day
+- The Hague
+- U.S.
+- Yugo
+- Yugoslavia
+people:
+- '## Mladic'
+- Bosa
+- Darko Mladic
+- God
+- God’
+- Josip Broz Tito
+- Madeleine Albright
+- Ratko Mladic
+- Slobodan Milosevic
+organisations:
+- AP
+- ICTY
+- International Criminal Tribunal
+- RTS
+- U.N.
+- UN
 ---
 
 Ratko Mladic, the Bosnian Serb general who directed atrocities across Bosnia during the 1990s, has died in prison aged 84, according to Serbian state broadcaster RTS and official Bosnian Serb television.

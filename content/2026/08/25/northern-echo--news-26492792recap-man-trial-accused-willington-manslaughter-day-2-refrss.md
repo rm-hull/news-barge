@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- The Queen’s Head
+- Willington
+people:
+- Crook
+- Martin Greensmith
+- Shevels'
+- Steven Shevels
+organisations: []
 ---
 
 ## Our live feed has now finished.

@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- Austria
+- Barcelona
+- Manchester City
+- Spain
+people:
+- '## Alvarez'
+- Atleti
+- Diego Simeone
+- Florentino Perez
+- Hansi Flick
+- Joan Laporta
+- Julian Alvarez
+- Miguel Angel Gil Marin
+- Robert Lewandowski
+organisations:
+- Alvarez
+- Arsenal
+- Athletic Club
+- Atleti
+- Atletico Madrid
+- Barca
+- Barcelona
+- Gunners'
+- Los Blancos
+- Paris St-Germain
+- Real Madrid
+- Villarreal
 ---
 
 ![Julian Alvarez in action for Atletico Madrid](https://ichef.bbci.co.uk/ace/standard/994/cpsprodpb/dd00/live/65b7e710-a151-11f1-92f3-2381193e5eb4.jpg)

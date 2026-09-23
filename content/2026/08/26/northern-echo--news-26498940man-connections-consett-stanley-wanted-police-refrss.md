@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- County Durham
+- DURHAM
+- North East A Consett Police
+- River Tyne
+people:
+- Alan Elliott
+- Boy
+- Stanley
+organisations:
+- Darlington M&S Food Hall
+- Durham Police
+- Facebook
 ---
 
 *(Image: DURHAM POLICE)*

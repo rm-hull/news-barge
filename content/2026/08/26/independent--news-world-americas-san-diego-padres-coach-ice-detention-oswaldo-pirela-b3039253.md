@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Arizona
+- Peoria
+- Texas
+- U.S.
+- Venezuela
+people:
+- Daniela Pirela
+- Deniela
+- Jorge Heli Pirela
+- Oswaldo Pirela
+organisations:
+- DHS
+- Department of Homeland Security
+- El Paso Chihuahuas
+- El Paso International Airport
+- Homeland Security
+- ICE
+- Instagram
+- NBC News
+- San Diego Padres
+- Texas Rangers
+- The Associated Press
+- U.S. Immigration and Customs Enforcement
 ---
 
 A San Diego Padres minor league coaching coordinator detained in Texas by federal immigration authorities has been released on bond, according to statements from his family on Tuesday.

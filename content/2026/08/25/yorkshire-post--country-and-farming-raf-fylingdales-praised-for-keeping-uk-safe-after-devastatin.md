@@ -13,6 +13,26 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Atlantic
+- Langdale Moor
+- North York Moors
+- North Yorkshire
+- RAF Fylingdales
+- Scarborough
+- Snod Hill
+- UK
+- US
+- Whitby
+people:
+- Alison Hume
+- Toby Steward
+organisations:
+- Ministry of Defence
+- North Yorkshire Fire & Rescue Service
+- RAF Fylingdales
+- Scarborough
+- Whitby
 ---
 
 # RAF Fylingdales praised for 'extraordinary role in keeping UK safe' a year after devastating fire

@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Leeds
+- North Bar
+- South Shields
+- UK
+people:
+- '![Woman'
+- Addie Pattas
+- Alan Milburn
+- Andy Burnham
+- Barbour
+- Christian Townsley
+- El Cousins
+- Hannah Karpel.
+- India Chaplin
+- Jake Readman
+- Jude Hillary
+- Lynn Bassett
+- Man
+- Maria Aderonmu
+organisations:
+- AI
+- Addie Pattas
+- Barbour
+- Barbour's
+- El Cousins
+- India Chaplin
+- Lynn Bassett
+- Milburn
+- Morgan Sindall Infrastructure
+- NFER
+- National Foundation for Educational Research
+- North Bar
+- Sainsbury's
 ---
 
 ![Woman standing in the foreground, wearing a dark jacket and top, facing the camera inside a clothing retail display. Behind the person is a rail of waxed jackets on wooden hangers and a green sign reading “Barbour”. Additional jackets hang on the wall, including a checked garment. A plaque on the left displays the text “Barbour Re-Loved”. The setting appears to be a branded clothing shop or exhibition area.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/9fc9/live/d826c8d0-a1e1-11f1-b132-bb16290da3a7.png)

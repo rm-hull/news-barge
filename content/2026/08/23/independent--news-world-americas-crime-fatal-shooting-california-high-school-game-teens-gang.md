@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Bakersfield
+- California
+people: []
+organisations:
+- Bakersfield Police Department
+- Centennial High School
+- Independence High School
+- KGET
+- KTLA
+- Kern Medical
+- Spectrum News 1
 ---
 
 Gunfire erupted during a gang-related fight at a high school football game in California — leaving a 17-year-old boy dead and a 15-year-old boy charged in his slaying.

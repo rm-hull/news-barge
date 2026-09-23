@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Didcot
+- Greater Manchester
+- Liverpool
+- London
+- Milton Keynes
+- North East England
+- Oxfordshire
+- South Yorkshire
+- West Midlands
+- West Yorkshire
+people:
+- Andy Burnham
+- Angela Rayner
+- Charlie Berry
+- James Cleverly
+- Natasha
+- Shelter
+- Steve Reed
+- Zayd
+organisations:
+- BBC Verify
+- EPC
+- Energy Performance Certificates
+- Labour
+- National Housing Federation
+- Rayner
+- Reform
+- Shelter
 ---
 
 ![The tops of new build houses standing in a  row](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9ec1/live/bb8353b0-a006-11f1-8317-891a2cbab3c5.jpg)

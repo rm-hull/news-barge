@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Las Vegas
+- Vermont
+people:
+- Belinda Carlisle
+- Bernie Sanders
+- Bret Michaels
+- Daddy
+- Dionne Warwick
+- Dolly Parton
+- Heartbroken
+- Jamie Lee Curtis
+- Jesus
+- Jolene
+- Julia Roberts
+- Kacey Musgraves
+- Keith Urban
+- Lily Tomlin
+- Octavia Spencer
+- Reba McEntire
+- Seth Macfarlane
+- Steel Magnolias
+- Tim Cook
+organisations:
+- Facebook
+- The Poison
 ---
 
 Tributes have poured in for Dolly Parton, the country singer, songwriter and actor, after her death aged 80.

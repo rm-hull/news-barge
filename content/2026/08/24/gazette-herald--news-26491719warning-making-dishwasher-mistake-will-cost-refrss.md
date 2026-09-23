@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- UK
+people:
+- Michael White
+organisations:
+- Fisher & Paykel
+- Marks Electrical
+- Ofgem
 ---
 
 *(Image: Getty Images)*

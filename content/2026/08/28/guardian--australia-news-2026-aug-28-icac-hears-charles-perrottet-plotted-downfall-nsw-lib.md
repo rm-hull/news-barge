@@ -12,6 +12,43 @@ image: https://i.guim.co.uk/img/media/ab933cb5a8b1485f38ca494e9a4c5c7ed97c383b/4
 categories:
 - UK
 - News & Politics
+locations:
+- Australia
+- Baulkham Hills
+- Beckington
+- Castle Hill
+- Hawkesbury
+- Lebanon
+- Rosebery
+- Sydney
+people:
+- Anita Perrottet
+- Castle Hill
+- Charles Perrottet
+- Christian Ellis
+- David Elliott
+- Dom
+- Dominic Perrottet
+- Fabian Gleeson
+- Helen
+- Jean Nassif
+- Jeremy Greenwood
+- Matt Kean
+- Peggy Dwyer SC
+organisations:
+- BP
+- Beckington
+- Ellis
+- Greenwood
+- Icac
+- Independent Commission Against Corruption
+- JPG Advisory
+- Liberal
+- Liberals’
+- Macquarie Consulting
+- NSW Liberals
+- New South Wales
+- Toplace
 ---
 
 Charles Perrottet wrote about a plan to damage a Liberal minister’s career after his brother Dominic’s accession to the New South Wales premiership in October 2021, stating “we execute the prick once party room is over”, a corruption inquiry has heard.

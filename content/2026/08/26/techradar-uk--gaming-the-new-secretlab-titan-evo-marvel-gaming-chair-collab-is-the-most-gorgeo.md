@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/xoj6JLmxmScug7taXLHwEZ-1920-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations:
+- Canada
+- United States
+people:
+- Spider-Man
+organisations:
+- Demi Williams
+- EU
+- GameSpot
+- GamesRadar
+- Google News
+- Marvel
+- NME
+- Secretlab
+- Spider-Man
+- TechRadar
 ---
 
 ![Secretlab Titan Evo Marvel Spider-Man Edition](https://cdn.mos.cms.futurecdn.net/xoj6JLmxmScug7taXLHwEZ.jpg) 

@@ -15,6 +15,24 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 - Food & Cooking
+locations:
+- Ainsley Foods'
+- Bradford
+- Greater Manchester
+- Lancashire
+- North
+- Thornbury
+- Yorkshire
+people:
+- Ainsley Harriott
+- Claire Murgatroyd
+organisations:
+- Ainsley Foods
+- Mighty & Kin
+- Morrisons
+- PR
+- T&A
+- Telegraph & Argus
 ---
 
 *(Image: Exposure Photo Agency)*

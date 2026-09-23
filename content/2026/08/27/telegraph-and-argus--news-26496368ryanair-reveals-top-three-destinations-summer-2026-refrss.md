@@ -14,6 +14,33 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 - Travel
+locations:
+- Belfast
+- Bergerac
+- Birmingham
+- Bournemouth
+- Bristol
+- Croatia
+- East Midlands
+- Edinburgh
+- Europe
+- France
+- Leeds Bradford
+- Liverpool
+- London Stansted
+- Manchester
+- Porto
+- Portugal
+- Pula
+- UK
+people:
+- Jade Kirwan
+organisations:
+- Bergerac
+- Newsquest
+- Porto
+- RYANAIR
+- Ryanair
 ---
 
 *(Image: Newsquest)*

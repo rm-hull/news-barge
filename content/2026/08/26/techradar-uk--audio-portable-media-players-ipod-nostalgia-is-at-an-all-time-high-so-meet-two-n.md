@@ -12,6 +12,28 @@ image: https://cdn.mos.cms.futurecdn.net/3E7DPhrojcvTXN4DDgZfJj-2000-80.jpg
 categories:
 - Technology & Software
 - Music
+locations: []
+people:
+- Tom Bedford
+organisations:
+- ALAC
+- Android Police
+- Apple
+- BGR
+- BackMarket
+- DAC
+- DSF
+- Digital Trends
+- FLAC
+- Fiio
+- GamesRadar
+- Google News
+- Shanling
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- WAV
+- WhattoWatch
 ---
 
 ![A row of Fiio Echo Nano on the left of the image, and two and Shanling Q2 on the rihgt.](https://cdn.mos.cms.futurecdn.net/3E7DPhrojcvTXN4DDgZfJj.jpg) 

@@ -12,6 +12,28 @@ image: https://cdn.mos.cms.futurecdn.net/vpmnetYUxsn7AAxUuiScXa-2560-80.jpg
 categories:
 - Technology & Software
 - Travel
+locations:
+- France
+- UI
+people:
+- Tom Bedford
+organisations:
+- Android Police
+- Apple
+- BGR
+- Digital Trends
+- Galaxy S
+- Galaxy Z Fold
+- GamesRadar
+- Google Maps
+- Google News
+- Samsung Galaxy
+- Samsung Galaxy Z Fold
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- Ultra
+- WhattoWatch
 ---
 
 ![The Samsung Galaxy Z Fold 8 in a suitcase, on top of various items.](https://cdn.mos.cms.futurecdn.net/vpmnetYUxsn7AAxUuiScXa.jpg) 

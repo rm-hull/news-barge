@@ -11,6 +11,22 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- England
+- Miami
+- Romania
+- UK
+- US
+people:
+- Andrew Tate
+- Tristan Tate
+organisations:
+- Aston Martin
+- Bedfordshire Police
+- CPS
+- Crown Prosecution Service
+- Hertfordshire Constabulary
+- High Court
 ---
 
 Andrew Tate’s lawyer has said the social media “influencer” rented supercars to appear wealthier than he is and generate more online engagement.

@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Atlantic
+- Iran
+- TalkTV
+- UK
+people:
+- Christopher Harborne
+- Dicky Tice
+- Donald Trump
+- Giorgia Meloni
+- Honest Bob
+- Jeremy Kyle
+- Kemi Badenoch
+- Nige
+- Nigel Farage
+- Robert Jenrick
+- Zia
+organisations:
+- GB News
+- Guardian
+- HMRC
+- Press Association
+- Reform HQ
 ---
 
 It’s turning out to be one of the longer sulks in Nigel Farage’s already sulk-filled career. Few politicians are better at having a strop and holding a grudge than Nige. At least on this side of the Atlantic. Donald Trump could give Farage a run for his money, but skin doesn’t come much thinner than Nige’s. He’s the soul of the Reform party as long as he’s the centre of attention and the yes-men and women – that’s everyone – around him are saying yes. But the moment reality challenges his narcissism, the mirror cracks.

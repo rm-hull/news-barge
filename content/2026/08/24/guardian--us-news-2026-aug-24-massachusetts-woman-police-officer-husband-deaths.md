@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Fairlawn Rehabilitation Hospital
+- Massachusetts
+- Worcester
+people:
+- Joseph Early Jr
+- Karen Solomon
+- Kurt Solomon
+- Paul Saucier
+- Phil McGraw
+- Thomas Duffy
+organisations:
+- First Help
 ---
 
 A mental health advocate suspected of killing her police officer husband was found dead on Monday, six days after she disappeared from her Massachusetts home, authorities said.

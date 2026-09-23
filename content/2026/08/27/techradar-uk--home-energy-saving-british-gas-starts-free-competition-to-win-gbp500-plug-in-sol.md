@@ -12,6 +12,30 @@ image: https://cdn.mos.cms.futurecdn.net/SZ4FjDVFkWC9eSdQaSDtgf-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- England
+- Ireland
+- Stockport
+- UK
+people:
+- Dave
+- David Nield
+- David Wood
+- John Boumphrey
+- John Evans
+- Michelle Gorringe-Smith
+organisations:
+- Amazon
+- Argos
+- British Gas
+- British Gas Commercial
+- Currys
+- Gizmodo
+- Google News
+- PC Explorer
+- The Hardware Handbook
+- UKSOL
+- Wickes
 ---
 
 ![A British Gas logo on a phone next to plug-in solar panels on a balcony](https://cdn.mos.cms.futurecdn.net/SZ4FjDVFkWC9eSdQaSDtgf.jpg) 

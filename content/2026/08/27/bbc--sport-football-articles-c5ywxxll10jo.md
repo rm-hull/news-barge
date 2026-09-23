@@ -13,6 +13,68 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Barcelona
+- City
+- Emirates Stadium
+- Etihad Stadium
+- Madrid
+- Metropolitano Stadium
+- Parc des Princes
+- Villa Park
+people:
+- :** PSG
+- Enzo Maresca
+- Kevin de Bruyne
+- Mikel Arteta
+- Rodri
+- Sabah
+- Unai Emery
+organisations:
+- :** Bayern Munich
+- AEK Athens
+- Arsenal
+- Aston Villa
+- Atletico Madrid
+- Azerbaijan
+- BBC One
+- BBC Sport
+- BBC iPlayer
+- Barca
+- Barcelona
+- Bayern Munich
+- Borussia Dortmund
+- Chelsea
+- Club Brugge
+- Como
+- Europa League
+- Fenerbahce
+- Galatasaray
+- Inter Milan
+- LASK
+- Lens
+- Lille
+- Liverpool
+- Manchester City
+- Manchester United
+- Napoli
+- Newcastle
+- Nou Camp
+- PSG
+- Paris St-Germain
+- Porto
+- Premier League
+- RB Leipzig
+- Real Betis
+- Real Madrid
+- Roma
+- Sabah
+- Slavia Prague
+- Sporting Club
+- Spurs
+- Tottenham
+- Viking
+- Villarreal
 ---
 
 ![A view of UEFA Champions League trophy ahead of UEFA Champions League phase draw](https://ichef.bbci.co.uk/ace/standard/879/cpsprodpb/766b/live/f7c57550-a237-11f1-80a2-67c89a95284e.jpg)

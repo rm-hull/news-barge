@@ -13,6 +13,41 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- A66
+- Acklam
+- Birchington Avenue
+- Grangetown
+- Middlesbrough
+- Newcastle
+- Owen Humphreys
+- PA
+- Royal Victoria Infirmary
+- South Bank
+- Teesside Magistrates’ Court
+people:
+- Cole Worthy
+- Ellie
+- Emily Harrison
+- Jacob Matusiak
+- Lisa Kirton
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Natalie McDonald
+- Passat
+- Pc Matthew Blades
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- Cleveland Police
+- Cleveland Police HQ
+- PC Blades
+- PC Clough
+- RVI
+- Teesside Coroner
+- The Times
 ---
 
 # A66 crash: Inquests set to open into deaths of seven people in horror crash

@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Burythorpe
+- Main Street
+people: []
+organisations:
+- Malton Crew
 ---
 
 A Malton Crew was called to a fire sighted in the open at 11.19pm last night (Monday).

@@ -12,6 +12,29 @@ image: https://media.wired.com/photos/6a8cc344dd042d49c2d1d2d3/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Flock
+- San Diegan
+- San Diego
+- San Diego Mesa College
+- Turkey
+people:
+- ANTHONY RALPHS
+- Anthony Ralphs
+- Darth Vader
+- Flock
+- Hugo Parra
+organisations:
+- ACLU
+- American Federation of Teachers
+- Flock Safety
+- Hasbro
+- Ralphs
+- San Diego City College
+- San Diego City Council
+- San Diego Police Department
+- TikTok
+- WIRED
 ---
 
 At the San Diego City Council’s most recent budget meeting, Sith Lord Darth Vader had some points to make. Between gasping breaths, Vader praised the council’s recent votes to renew its contract with the surveillance company Flock Safety, which has been making headlines recently as more and more stories of police officers abusing its tools have continued to come out—and as a WIRED review of code for a new AI tool already in use by some police departments has made clear that it is watching far more than just license plates.

@@ -15,6 +15,26 @@ categories:
 - Comedy & Entertainment
 - Film & TV
 - Arts & Culture
+locations:
+- Halifax
+- UK
+people:
+- Alice Cooper
+- Bastille
+- Hi Ho Silver Lining
+- Jeff Beck
+- Joe Perry
+- Johnny Depp
+- Pink Floyd
+- Tommy Henriksen
+organisations:
+- AC/DC
+- David Bowie’s Heroes
+- Halifax!
+- Highway To Hell
+- Public Service Broadcasting
+- The Piece Hall
+- Turnstile
 ---
 
 The hugely famous actor was at The Piece Hall with Alice Cooper and the rest of the Hollywood Vampires, which also consists of Joe Perry and Tommy Henriksen.

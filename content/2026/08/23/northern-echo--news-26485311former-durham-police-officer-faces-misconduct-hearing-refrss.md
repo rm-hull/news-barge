@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- North Yorkshire
+- Peterlee Police Station
+- St Aidans Way
+people:
+- Ms A
+- Stuart Boulton
+organisations:
+- Durham Police
+- Standards of Professional Behaviour
 ---
 
 *(Image: Stuart Boulton)*

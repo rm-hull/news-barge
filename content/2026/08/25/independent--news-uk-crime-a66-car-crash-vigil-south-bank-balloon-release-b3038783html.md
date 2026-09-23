@@ -14,6 +14,32 @@ categories:
 - UK
 - Lifestyle & Fashion
 - Technology & Software
+locations:
+- Middlesbrough
+- South Bank
+- South Bank Field
+- St John the Evangelist Church
+- Teesside
+people:
+- Cole Robert Worthy
+- Jacob Matusiak
+- Jakub Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- Cleveland Police
+- Cleveland Police Federation
+- Independent Office for Police Conduct
+- PC Blades
+- PC Clough
+- South Bank
+- The Times
+- Volkswagen
+- Volvo
 ---
 
 Hundreds of people gathered at a tense vigil after seven people, including two police officers, died in a crash on the A66.

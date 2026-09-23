@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Dagestan
+- Donbas
+- France
+- Germany
+- Halle Airport
+- Kremlin
+- Leipzig
+- Makhachkala
+- Moscow
+- Russia
+- Russia.
+- UK
+- US
+- Ukraine
+- West
+- White House
+people:
+- '![Ratcliffe'
+- Dmitry Muratov
+- Donald Trump
+- John Radcliffe
+- Vladimir Putin
+organisations:
+- CIA
+- Kyiv
+- Nato
+- Ozon
 ---
 
 ![Russian President Vladimir Putin sits in a chair in an office, wearing a dark suit and red tie.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7710/live/8f66bdd0-a312-11f1-b109-879e35c24276.jpg)

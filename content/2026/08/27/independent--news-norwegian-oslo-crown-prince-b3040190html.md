@@ -12,6 +12,13 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Oslo
+people:
+- Haakon
+- Harald
+organisations:
+- National Hospital
 ---
 
 Norwegian King Harald's health is in very serious condition, palace says

@@ -10,6 +10,26 @@ image: https://cdn.mos.cms.futurecdn.net/vUGGQXBvMLxK65oJegUwgk-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- ChatGPT
+- China
+people:
+- Cory Doctorow
+- Denise Dresser
+- Doc Searls
+organisations:
+- AI
+- Adblock Plus
+- American Dialect Society
+- Future plc
+- Goldman Sachs
+- Ipsos
+- OpenAI
+- Perplexity
+- TechRadar Pro
+- TechRadarPro
+- University of Michigan
 ---
 
 ![Someone typing at a keyboard, with an ecommerce shopping cart symbol floating in the air.](https://cdn.mos.cms.futurecdn.net/vUGGQXBvMLxK65oJegUwgk.jpg) 

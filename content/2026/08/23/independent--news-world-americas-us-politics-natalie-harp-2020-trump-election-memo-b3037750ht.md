@@ -11,6 +11,32 @@ image: https://static.independent.co.uk/2026/08/23/13/2291041074..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Aberdeen
+- D.C.
+- Georgia
+- Harp
+- Iran
+- Michigan
+- Scotland
+- Sterling
+- Virginia
+- White House
+people:
+- Abdul El-Sayed
+- Jon Jackoff
+- Jon Ossoff
+- Natalie Harp
+- Natalie,” Ossoff
+- Scott Jennings
+- Steven Cheung
+- Trump
+organisations:
+- CNN
+- SUV
+- Secret Service
+- Senate
+- Trump National
 ---
 
 Natalie Harp, the president’s close aide who has been the subject of recent intense speculation, was spotted with Trump on another golf course this weekend.

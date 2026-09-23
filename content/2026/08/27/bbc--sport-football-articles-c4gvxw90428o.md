@@ -12,6 +12,38 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Czech Republic
+- Europe
+- Ibrox
+- Kaunas
+- Luxembourg
+people:
+- Andy Halliday
+- Barry:** Rangers
+- Brian:**
+- Derek McInnes
+- Derek McInnes'
+- Findlay Curtis
+- James Penrice
+- Jim:**
+- Nico Raskin
+- Progres Niederkorn
+- Rangers'
+- Steven Thompson
+- Tom English
+organisations:
+- BBC Scotland
+- Dundee United
+- Hearts
+- Hibernian
+- Ibrox
+- Jablonec
+- Jagiellonia Bialystok
+- Lennie:** Worst Rangers
+- Progres Niederkorn
+- St Mirren
+- Worst Rangers
 ---
 
 ![Derek McInnes](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0d18/live/f80ed430-a254-11f1-a1d7-5567ac89ca4e.jpg)

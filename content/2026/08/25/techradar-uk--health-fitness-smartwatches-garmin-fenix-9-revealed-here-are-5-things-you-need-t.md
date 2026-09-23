@@ -11,6 +11,25 @@ description: Meet the Garmin Fenix 9 and the Garmin Fenix 9 Pro, which bring sig
 image: https://cdn.mos.cms.futurecdn.net/5k9zumvPnUNsPEnBSRCTtf-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- England
+- Stockport
+people:
+- Dave
+- David Nield
+- Garmin
+organisations:
+- Beidou
+- Fenix 9
+- Galileo
+- Garmin Fenix
+- Garmin Messenger
+- Gizmodo
+- Google News
+- InReach
+- LTE
+- PC Explorer
+- The Hardware Handbook
 ---
 
 ![Garmin Fenix 9](https://cdn.mos.cms.futurecdn.net/5k9zumvPnUNsPEnBSRCTtf.jpg) 

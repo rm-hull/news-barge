@@ -12,6 +12,34 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Bedale
+- Harrogate
+- India
+- North Yorkshire
+- Northallerton
+- Thief Hall
+- UK
+people:
+- Bride India Miller
+- Claire Edwards
+- HECK
+- India Miller
+- Jamie Keeble
+- Jessica Barker
+- Laura Macfarland
+- Lucky Sausage
+- Mica Keeble
+- Mica Proctor
+- Roddy *(Image
+- Roddy Keeble
+- Simon Hogben
+- Thief Hall
+organisations:
+- HECK!
+- Lucky Sausage
+- Mica Keeble
+- Thief Hall
 ---
 
 ## How Emmerdale star and 'lucky sausage' help brides have sunny wedding days

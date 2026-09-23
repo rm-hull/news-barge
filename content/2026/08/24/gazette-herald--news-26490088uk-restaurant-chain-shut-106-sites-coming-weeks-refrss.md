@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Beefeater
+- Ireland
+- UK
+people:
+- Dominic Paul
+- Whitbread
+organisations:
+- '## Whitbread'
+- Beefeater
+- Brewers Fayre
+- British Heart Foundation
+- Premier Inn
+- UK Beefeaters
 ---
 
 *(Image: Getty Images)*

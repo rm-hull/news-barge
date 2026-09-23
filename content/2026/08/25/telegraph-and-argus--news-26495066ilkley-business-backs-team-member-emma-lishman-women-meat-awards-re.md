@@ -15,6 +15,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Ilkley
+- Leeds Road
+people:
+- David Lishman
+- Emma Lishman
+- Ilkley
+organisations:
+- BA
+- Craft Butchery
+- Gastronomy
+- Ilkley)* Lishman
+- Lishman's of Ilkley
+- Q Guild
+- Q Guild of Butchers
 ---
 
 *(Image: Lishman's of Ilkley)*

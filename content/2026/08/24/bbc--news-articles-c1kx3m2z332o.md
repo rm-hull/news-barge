@@ -11,6 +11,36 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2187/live/f8571f
 categories:
 - UK
 - News & Politics
+locations:
+- Austria
+- Bulgaria
+- Burgas
+- Gaza
+- Ireland
+- Israel
+- Jerusalem
+- Netherlands
+- Russia
+- Spain
+- Sweden
+- Tel Aviv
+- UK
+- Ukraine
+- Vienna
+people:
+- Avrotros
+- Martin Green
+- Michelle
+- Noam Bettan
+- Taco Zimmerman
+organisations:
+- Avrotos
+- Avrotros
+- EBU
+- Eurovision Broadcasting Union
+- Ireland
+- Kalush Orchestra
+- NPO
 ---
 
 ![Netherlands name on stage at a previous Eurovision](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/2187/live/f8571f10-9fa7-11f1-bff6-57f1422ebb0b.jpg)

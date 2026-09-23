@@ -14,6 +14,42 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Australia
+- Hong Kong
+- India
+- Iran
+- Islamic Republic
+- Jackson Hole
+- Persian Gulf
+- South Korea
+- Taiwan
+- Tokyo
+- U.S.
+- United States
+- Wyoming
+people:
+- Brent
+- Kevin Warsh
+- Michelle Chapman
+- Scott Bessent
+- Stan Choe
+- Stephen Innes
+organisations:
+- AI
+- Broadcom
+- Fed
+- Federal Reserve
+- Micron Technology
+- Nvidia
+- S&P
+- SPI Asset Management
+- Sensex
+- Taiex
+- Treasury General Account
+- Treasurys
+- U.S. Treasury
+- U.S. Treasury Department
 ---
 
 Asian shares were mostly lower Tuesday after U.S. stocks drifted to a mixed finish ahead of potentially market-moving events later in the week.

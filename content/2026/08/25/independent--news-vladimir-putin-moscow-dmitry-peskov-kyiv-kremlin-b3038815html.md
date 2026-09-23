@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Afipsky
+- Krasnodar
+- Kremlin
+- Moscow
+- Novoshakhtinsk
+- Rostov
+- Russia
+- Ukraine
+people:
+- Abbas Gallyamov
+- Denis Manturov
+- Dmitry Peskov
+- Veniamin Kondratyev
+- Vladimir Putin
+- Yuri Slyusar
+organisations:
+- Central Bank
+- Defense Ministry
+- Finance Ministry
+- General Staff
+- Kyiv
+- RBC
+- Sberbank
+- Telegram
+- Wildberries
 ---
 
 Russian President Vladimir Putin signed a decree allowing the government to temporarily take control of critical infrastructure if private owners fail to protect it from Ukrainian drone attacks or rebuild it after strikes, apparently the latest indication that Moscow is feeling the strain of war.

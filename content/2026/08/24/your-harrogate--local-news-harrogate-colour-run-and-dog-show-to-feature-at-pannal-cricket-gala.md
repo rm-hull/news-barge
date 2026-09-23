@@ -13,6 +13,11 @@ categories:
 - Harrogate
 - Sports
 - Comedy & Entertainment
+locations: []
+people: []
+organisations:
+- Pannal Cricket Club
+- Pimm’s
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8c26acf3b14a39cb9.jpg) 

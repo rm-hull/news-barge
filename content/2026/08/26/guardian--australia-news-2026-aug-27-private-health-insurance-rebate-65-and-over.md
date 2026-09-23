@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Health & Fitness
+locations: []
+people:
+- Anne Ruston
+- Kevin Staub
+- Luke Slawomirski
+- Mark Butler
+- Prof Yuting Zhang
+organisations:
+- ABC Radio Perth
+- AMA
+- Australia Institute
+- Australian Medical Association
+- Australian Private Hospitals Association
+- Commonwealth
+- Senate
+- University of Melbourne
 ---
 
 Removing the higher private health insurance rebate for people aged 65 and over is good policy that is unlikely to place additional pressure on public hospitals, according to health economists.

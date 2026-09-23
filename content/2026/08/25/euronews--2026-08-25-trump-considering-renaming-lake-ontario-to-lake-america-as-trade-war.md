@@ -12,6 +12,26 @@ image: https://images.euronews.com/articles/stories/09/88/81/25/1200x675_cmsv2_5
 categories:
 - Europe
 - News & Politics
+locations:
+- Canada
+- Detroit
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- Michigan
+- US
+- United States
+- Warren
+- Washington
+people:
+- Donald Trump
+- François-Philippe Champagne
+- Mark Carney
+- Michael Howard II
+organisations:
+- Cabinet
+- Trump
 ---
 
 ## The rhetoric between the two countries is escalating, with Trump telling Canadian leaders on Monday to “fall in line” or face consequences “far WORSE” than existing tariffs.

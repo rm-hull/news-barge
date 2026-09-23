@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- US
+- United States
+people:
+- Donald Trump
+- Jeannette Vargas
+- Joe Biden
+- Tommy Pigott
+organisations:
+- Congress
+- DHS
+- State Department
+- The Associated Press
+- Trump
 ---
 
 ## The move is the latest in the Trump administration's crackdown on immigration. If it happens, the move would mark the largest single mass revocation of visas in US history.

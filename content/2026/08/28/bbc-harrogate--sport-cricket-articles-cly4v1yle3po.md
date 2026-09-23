@@ -13,6 +13,34 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- England
+- Scarborough
+- Scarborough.
+- Sri Lanka
+- The Kia Oval
+- White Rose
+- Yorkshire
+people:
+- :** Wharton
+- Ben Cliff
+- Ben Coad
+- Dom Bess
+- George Hill
+- Ian Holland
+- James Wharton
+- Jonny Tattersall
+- Josh Hull
+- Rehan Ahmed
+organisations:
+- Division One
+- ECB Reporters' Network
+- England Lions
+- Hull
+- Leicestershire
+- Rothesay
+- Surrey
+- Yorkshire
 ---
 
 ![George Hill batting for Yorkshire](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/bf62/live/c166b550-a2ff-11f1-80b3-bf1a174ac193.jpg)

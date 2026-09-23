@@ -15,6 +15,16 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 - Personal Finance & Investing
+locations:
+- North Yorkshire
+people:
+- Cllr Carl Les
+- Richard Flinton
+organisations:
+- MAJOR council
+- North Yorkshire Council
+- North Yorkshire County Council
+- North Yorkshire Local Resilience Forum
 ---
 
 A MAJOR council has announced it will start a recruitment campaign for a new chief executive as the incumbent boss is set to retire.

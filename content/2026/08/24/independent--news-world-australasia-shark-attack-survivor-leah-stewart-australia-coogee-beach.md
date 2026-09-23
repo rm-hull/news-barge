@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Coogee Beach
+- Queensland
+- Sydney
+- Western Australia
+people:
+- Leah Stewart
+- Ms Stewart
+organisations: []
 ---
 
 An Australian woman who lost an arm in a shark attack said thoughts of her young daughter drove her to fight for her life as she faced the "monster".

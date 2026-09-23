@@ -13,6 +13,23 @@ image: https://images.euronews.com/articles/stories/09/89/00/96/1200x675_cmsv2_3
 categories:
 - Europe
 - News & Politics
+locations:
+- Atlantic
+- Iran
+- Strait of Hormuz
+- Tehran
+- US
+people:
+- Ali Khamenei
+- Ayatollah Mojtaba Khamenei
+- Donald Trump
+- Glenn Beck
+- Masoud Pezeshkian
+- Mohammad Hossein Khoshvaght
+- Mojtaba Khamenei
+- Pete Hegseth
+organisations:
+- Assembly of Experts
 ---
 
 **Euronews Persian**

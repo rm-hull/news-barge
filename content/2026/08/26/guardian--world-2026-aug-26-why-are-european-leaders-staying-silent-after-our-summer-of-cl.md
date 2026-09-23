@@ -12,6 +12,30 @@ image: https://i.guim.co.uk/img/media/a24beb22291bc8d9f77977b888e4c4e3bb7cc564/8
 categories:
 - UK
 - News & Politics
+locations:
+- Europe
+- France
+- Italy
+- Spain
+- UK
+people:
+- Friedrich Merz
+- Gerben-Jan Gerbrandy
+- Grégoire Leménager
+- Jean Jouzel
+- Jean-Luc Mélenchon
+- Marine Le Pen
+- Pedro Sánchez
+- Raphäel Glucksmann
+- Simon Stiell
+organisations:
+- AfD
+- Ipsos
+- Labour
+- Le Monde
+- Le Nouvel Obs
+- Le Pen
+- UN
 ---
 
 The climate crisis means “we’re going to have to change everything – the way we live, the way we produce, the way we trade,” France’s veteran radical-left firebrand, Jean-Luc Mélenchon, told the summer congress of his France Insoumise party last weekend.

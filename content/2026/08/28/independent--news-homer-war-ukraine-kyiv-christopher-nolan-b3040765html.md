@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Azov
+- Kyiv
+- Mariupol
+- Russia
+- Ukraine
+people:
+- Christopher Nolan
+- Daniil Mireshkin
+- Daryna Leheida
+- Homer
+- Ivan Uryvskyi
+- Matt Damon
+- Odysseus
+- Odysseus’
+- Oleksii Dorychevskyi
+- Penelope
+organisations:
+- Corps
+- National Guard
+- The Associated
 ---
 
 War’s timeless ache — death, captivity, the agonizing wait and the pull of home — has found a new stage in wartime Kyiv, with Homer’s epic reimagined as a contemporary Ukrainian odyssey.

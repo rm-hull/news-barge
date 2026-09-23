@@ -12,6 +12,19 @@ image: https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-Gett
 categories:
 - Technology & Software
 - Creator Economy & Marketing
+locations: []
+people:
+- Adam Mosseri
+- Instagram
+organisations:
+- AI
+- Adobe Firefly
+- First Draft
+- Instagram
+- Meta
+- Quick Cuts
+- Reels
+- Threads
 ---
 
 Instagram is making one of the most tedious parts of creating Reels easier. The company announced Tuesday in a Threads post that it’s rolling out “First Draft,” a new editing feature that automatically trims selected video clips and removes pauses, pulling together the best moments into an initial cut.

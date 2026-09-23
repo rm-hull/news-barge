@@ -14,6 +14,44 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- Bootle
+- Britannia
+- Dumfries
+- Exhibition Road
+- Japan
+- Lancashire
+- London
+- Piccadilly Circus
+- Queen Victoria
+- Saltaire
+- Shipley
+- Victoria Road
+- Windhill
+people:
+- Beatrice
+- Burns
+- Colin Neville
+- Edward Renard
+- Fred Stead
+- Govinder Nazran
+- Greening
+- Jack Coulthard
+- Joseph Cawthra
+- Margaret Firth
+- May Stead
+- Rosa
+- Shipley
+- Stone Flowers
+- William Rushton
+organisations:
+- Leeds Civic Hall
+- Middlesbrough Institute of Art
+- Middlesbrough Institute of Modern Art
+- Not Just Hockney
+- Saltaire School of Art
+- Shipley Artists
+- The Saltaire Institute
 ---
 
 THE work of Shipley artists from the past - whose art ranges from a military memorial to a set of miniatures - is the focus of a new book.

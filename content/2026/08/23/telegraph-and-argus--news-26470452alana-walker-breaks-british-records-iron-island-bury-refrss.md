@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Allerton
+- Bury St Edmunds
+- Iron Island
+- Phoenix
+people:
+- Alana Walker
+- Alicia Curtis
+- Kynan
+- Ms Walker
+- Pike
+organisations:
+- BRADFORD
 ---
 
 *(Image: T&A)*

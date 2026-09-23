@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Bridlington
+- Huntriss Row
+- LDRS.
+- North Yorkshire
+- Scarborough
+- St Nicholas Street
+- YO11 2HG
+people:
+- Koko Coffee
+- Numminen
+- Russell Bowerman
+organisations:
+- Koko Coffee
+- LDRS
+- North Yorkshire Council
+- North Yorkshire Council, Licensing Services
+- Numminen
+- Town Hall
 ---
 
 A NEW dog-friendly café in North Yorkshire has applied to place dozens of chairs outside its business.

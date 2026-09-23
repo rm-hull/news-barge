@@ -12,6 +12,18 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Cross Gates
+- Leeds
+- New Thorpe Park station
+- Thorpe Park
+- Tinshill Lane
+people:
+- Tracy Brabin
+organisations:
+- Leeds
+- Martin J. Phillips
+- Yorkshire Post Letters
 ---
 
 # New Thorpe Park station would be a waste of money - Yorkshire Post Letters

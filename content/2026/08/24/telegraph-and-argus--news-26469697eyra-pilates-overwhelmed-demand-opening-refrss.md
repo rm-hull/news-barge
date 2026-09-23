@@ -14,6 +14,17 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Shipley
+- Wakefield
+people:
+- Emma Hyndman
+- Ms Hyndman
+organisations:
+- EYRA Pilates
+- EYRA Pilates' Bradford
+- Leisure Exchange
 ---
 
 *(Image: T&A)*

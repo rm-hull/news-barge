@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- City
+- London
+people:
+- Claudia
+- Elmer Fudd
+- Igor
+- James
+- Minnie Mouse
+- Shaun
+- Thor
+- Timmy
+- Wallace
+- Zeus
+organisations:
+- James’
+- Met Office
+- The Yorkshire Post
 ---
 
 # Warning: this article may contain words

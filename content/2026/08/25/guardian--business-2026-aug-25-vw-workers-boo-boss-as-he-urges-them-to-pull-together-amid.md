@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Braunschweig
+- Chemnitz
+- China
+- Dresden
+- Emden
+- Europe
+- Germany
+- Hanover
+- Kassel-Baunatal
+- Lower Saxony
+- Neckarsulm
+- Osnabrück
+- Salzgitter
+- US
+- Wolfsburg
+- Zwickau
+people:
+- Daniela Cavallo
+- Oliver Blume
+organisations:
+- Blume
+- VW
+- Volkswagen
 ---
 
 The chief executive of Volkswagen has faced boos and whistles of protest at the company’s headquarters after telling thousands of workers that a comprehensive reorganisation, which could include job losses and factory closures, is vital for its future.

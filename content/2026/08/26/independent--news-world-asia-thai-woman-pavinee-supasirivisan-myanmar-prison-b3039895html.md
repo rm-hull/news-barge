@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Burma
+- Insein Prison
+- Kamayut
+- Myanmar
+- U.S.
+- US
+- Yangon
+people:
+- Aung San Suu Kyi
+- Daniel Paul Riva
+- Pavinee Supasirivisan
+organisations:
+- New York Post
+- Sakura Residence & Hotel
+- U.S. State Department
 ---
 
 A Thai woman accused of killing her U.S. diplomat ex-husband has been sentenced to one year in prison for violating Myanmar's immigration laws, but she still might go to trial for murder, a lawyer familiar with her case said Wednesday.

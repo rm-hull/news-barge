@@ -13,6 +13,26 @@ image: https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resi
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI Mode
+- Atlanta
+- Miami
+- U.S.
+people: []
+organisations:
+- AI Mode
+- Booking.com
+- Choice Hotels International
+- Expedia
+- Google Hotel
+- Google Pay
+- Hilton
+- Hotels.com
+- IHG Hotels & Resorts
+- Marriott International
+- Priceline
+- Trip.com
+- Wyndham Hotels & Resorts
 ---
 
 Google is adding new ways for users to plan and book trips through AI Mode, its conversational search experience, the company announced on Thursday. Users will now be able to ask AI Mode to track flight prices, book hotels, and see the cost of flights and hotels in points or miles.

@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Blackhall Colliery
+- County Durham
+- Durham Constabulary
+- Hartlepool
+- Newcastle Crown Court
+- Peterlee
+- Throston Grange Lane
+people:
+- Jordan Fluen
+- Josh Hyde
+organisations:
+- Durham Crown Court
+- Probation Service
 ---
 
 *(Image: Durham Constabulary)*

@@ -14,6 +14,9 @@ categories:
 - Technology & Software
 - Science
 - Film & TV
+locations: []
+people: []
+organisations: []
 ---
 
 Indoor golf simulators aren't easy to set up, and they aren't inexpensive. It starts with a home cinema projector, but you also need a wide, open space for swinging clubs, a backdrop with netting, and a gaming laptop or desktop to run the software. I was on a mission to see if I could do this much more cheaply with an affordable projector.

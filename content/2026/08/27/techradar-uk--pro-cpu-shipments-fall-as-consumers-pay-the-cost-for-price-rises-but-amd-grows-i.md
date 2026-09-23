@@ -11,6 +11,22 @@ image: https://cdn.mos.cms.futurecdn.net/9mJJLtefyk5HMfLBzuXU6H-2048-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- AMD
+- Apple
+- Arm
+- Chromebooks
+- EPYC
+- Efosa
+- GPU
+- Google News
+- Intel
+- Intel's
+- Mac
+- Mercury Research
+- TechRadar Pro
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/9mJJLtefyk5HMfLBzuXU6H.jpg) 

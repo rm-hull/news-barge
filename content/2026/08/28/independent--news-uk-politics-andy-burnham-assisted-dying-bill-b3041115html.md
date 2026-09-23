@@ -11,6 +11,23 @@ image: https://static.independent.co.uk/2026/08/27/07/2026-08-27T060009Z_1735238
 categories:
 - News & Politics
 - UK
+locations:
+- England
+- Wales
+people:
+- Andy Burnham
+- Bill
+- Kim Leadbeater
+- Lauren Edwards
+organisations:
+- Bill
+- End of Life
+- House of Commons
+- House of Lords
+- PLP
+- Parliamentary Labour Party
+- Terminally Ill Adults
+- The Terminally Ill Adults
 ---
 
 Prime minister Andy Burnham has said he will abstain in the next Commons vote on the assisted dying Bill so as not to “unduly influence the debate” in a letter to the Parliamentary Labour Party.

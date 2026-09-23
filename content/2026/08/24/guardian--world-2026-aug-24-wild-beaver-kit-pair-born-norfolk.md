@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- England
+- Fakenham
+- Kent
+- Norfolk Broads
+- Pensthorpe
+- River Stour
+- River Wensum
+- UK
+people:
+- Matt Heard
+- Richard Spowage
+organisations:
+- Beaver Trust
+- Guardian
+- Natural England
+- Pensthorpe
+- Spowage
 ---
 
 Wild beaver kits have been born in Norfolk for the first time in more than 500 years.

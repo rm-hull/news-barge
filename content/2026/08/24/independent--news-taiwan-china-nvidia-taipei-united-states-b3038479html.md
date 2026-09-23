@@ -14,6 +14,23 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- China
+- Hong Kong
+- Indonesia
+- Japan
+- Taiwan
+- U.S.
+- United States
+- Washington
+people:
+- Chang
+- Patrick Rutherford
+organisations:
+- AI
+- Keelung District Prosecutors'
+- Nvidia
+- Super Micro
 ---
 
 Taiwanese prosecutors charged nine people Monday, including one from Nvidia and two from Super Micro, for illegally exporting “high-end AI servers” to mainland China, adding another wave of turbulence in the AI rivalry between China and the United States.

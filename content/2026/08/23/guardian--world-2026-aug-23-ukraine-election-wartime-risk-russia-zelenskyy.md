@@ -11,6 +11,24 @@ image: https://i.guim.co.uk/img/media/125d91e786f9cb71270d91c213096e4a92d6289b/6
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- Donetsk
+- France
+- Germany
+- Kramatorsk
+- Moscow
+- Russia
+- Sloviansk
+- St Petersburg
+- US
+- Ukraine
+people:
+- Emmanuel Macron
+- Mykhailo Fedorov
+- Volodymyr Zelenskyy
+organisations:
+- SAMP
 ---
 
 Volodymyr Zelenskyy has said holding elections in Ukraine during wartime would risk splitting the country at a time when Russia is amassing ballistic missiles and considering whether to mobilise an extra 300,000 soldiers.

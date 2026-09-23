@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- California
+- Cambridge
+- Lynn
+- Massachusetts
+- New York
+- Oakland
+- San Francisco
+- Talulla
+- US
+people:
+- Amanda Cohen
+- Caroline Kraetzer
+- Cassidy Van der Kamp
+- Danielle Ayer
+- Rachel Miller
+- Van der Kamp
+- William Michael Lynn
+organisations:
+- Cornell University
+- Dirt Candy
+- La Cigale
+- Nightshade Noodle Bar
+- The Psychology of Tipping
 ---
 
 ![Caroline Kraetzer stands behind a bar, with her hands on the counter.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2add/live/70cad1a0-9592-11f1-870d-5d08c49babb2.jpg)

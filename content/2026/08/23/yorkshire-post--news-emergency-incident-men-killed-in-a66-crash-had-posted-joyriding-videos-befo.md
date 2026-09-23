@@ -16,6 +16,34 @@ categories:
 - York
 - True Crime
 - Technology & Software
+locations:
+- Lime Road
+- Middlesbrough
+- South Bank
+- Teesville
+people:
+- Cole Robert Worthy
+- Jacob Matusiak
+- Makai Saddington
+- Michael Robert Cahill
+- Neil Hutchinson
+- Owen Humphreys
+- Pc Blades
+- Pc Clough
+- Richard McCarthy
+- Theo Rae
+- Victoria Fuller
+organisations:
+- A66
+- Cleveland Police
+- IOPC
+- Independent Office for Police Conduct
+- Mail
+- Sun
+- The Telegraph
+- TikTok
+- Volkswagen
+- Volvo
 ---
 
 # A66 crash: men killed in horror smash posted TikToks joyriding before fatal collision with police car

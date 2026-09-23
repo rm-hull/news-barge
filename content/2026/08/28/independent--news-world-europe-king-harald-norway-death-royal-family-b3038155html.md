@@ -12,6 +12,51 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- Buckingham Palace
+- Canada
+- Europe
+- Finland
+- Little Norway
+- London
+- Oslo Hospital
+- Royal Palace
+- Skaugum
+- Sweden
+- Tenerife
+- United Kingdom
+- United States
+- Utoeya
+- Victoria
+- Wales
+people:
+- Alexandra
+- Anders Behring Breivik
+- Carl XVI Gustaf
+- Charles III
+- Diana
+- Edward VII
+- Elizabeth II
+- Franklin D. Roosevelt
+- Godson Haakon
+- Harald V
+- Jeffrey Epstein
+- Jonas Gahrr Stoere
+- Marius Hoiby
+- Maud
+- Mette-Marit
+- Märtha Louise
+- Prince Harald
+- Sonja Haraldsen
+organisations:
+- Military Academy
+- NRK
+- Norstat
+- Norwegian Air Force
+- Norwegian Cavalry Officers’ Training School
+- Oxford University
+- The Duke Of Edinburgh
 ---
 
 Norway’s King Harald has died at the age of 89 after more than 35 years on the throne, the Royal Palace has said.

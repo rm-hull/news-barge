@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- White House
+people:
+- Anna Kelly
+- David Warrington
+- Donald Trump
+- Ed Martin
+- James Braid
+- Karoline Leavitt
+- Katie Miller
+- Margo Martin
+- Scott Jennings
+- Stephen Miller
+organisations:
+- CNN
+- House
+- Instagram
+- Justice Department
+- MAGA Inc
+- MAGA Inc.
+- PAC
+- Politico
+- Senate
+- State of the Union
+- Trump
 ---
 
 Outgoing Trump press secretary Karoline Leavitt marked her imminent White House departure with a custom briefing room lectern cake and “no more questions” cookies, courtesy of Katie Miller.

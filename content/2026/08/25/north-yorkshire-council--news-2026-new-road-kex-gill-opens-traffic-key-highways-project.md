@@ -16,6 +16,23 @@ categories:
 - Government
 - Travel
 - Automotive
+locations:
+- A59
+- England.
+- Harrogate
+- Kex Gill
+- M
+- M6
+- Nidderdale National Landscape
+- North Yorkshire
+- North of England
+- Skipton
+people:
+- Malcolm Taylor
+organisations:
+- A1
+- A59
+- Government
 ---
 
 ![Traffic is pictured travelling along the new stretch of the A59 at Kex Gill today (Tuesday, August 25). The route is seen as one of the most strategically important highways in the country linking the east and west of England.](https://www.northyorks.gov.uk/sites/default/files/2026-08/Kex%20Gill%20A59%20new%20road%20open%20to%20traffic.JPG) 

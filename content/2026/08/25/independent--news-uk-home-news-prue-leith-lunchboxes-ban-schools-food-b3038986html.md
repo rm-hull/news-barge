@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- England
+people:
+- Dame Prue
+- Jamie Oliver
+- Mary Berry
+- Nigella Lawson
+- Prue Leith
+organisations:
+- Government
+- School Food Project
 ---
 
 Dame Prue Leith has welcomed a forthcoming "revolution" in school meals while calling for even tougher measures, including a total ban on lunchboxes.

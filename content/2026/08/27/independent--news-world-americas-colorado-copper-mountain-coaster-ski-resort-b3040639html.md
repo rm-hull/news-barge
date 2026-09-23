@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Colorado
+- Copper Mountain
+- Frisco
+- Rocky Mountain Coaster
+- Rocky Mountains
+- Texas
+people:
+- Nicki Parker
+- Trent Ongert
+organisations:
+- Colorado Amusement Rides and Devices Program
+- Colorado Division of Oil and Public Safety
+- Copper Mountain
+- Copper Mountain Patrol
+- Division of Oil and Public Safety
+- KDVR
+- Summit Fire & EMS
+- The Coaster
 ---
 
 Colorado officials are investigating after a woman was ejected from a ski resort’s alpine coaster and dragged along the track, leaving her hospitalized with extensive injuries.

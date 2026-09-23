@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Ilkley
+- Ireland
+- UK
+people:
+- Emma Booth
+- Louise Dunn
+organisations:
+- Booths
+- Cheese
+- City & Guilds Foundation
+- Fish Academies
 ---
 
 *(Image: submitted)*

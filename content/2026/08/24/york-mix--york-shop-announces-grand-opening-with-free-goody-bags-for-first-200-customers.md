@@ -12,6 +12,18 @@ categories:
 - York
 - Business & Entrepreneurship
 - Lifestyle & Fashion
+locations:
+- China
+- Coney Street
+- Ealing
+- Guangzhou
+- London
+- UK
+- York
+people: []
+organisations:
+- Luxe Company
+- Miniso
 ---
 
 A new store on York’s Coney Street has announced its opening date – with the first customers receiving a free goodie bag of treats.

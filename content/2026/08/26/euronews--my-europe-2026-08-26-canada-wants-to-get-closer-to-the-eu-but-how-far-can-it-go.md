@@ -15,6 +15,41 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - History
+locations:
+- Brussels
+- CANADA
+- Canada
+- Canada-EU
+- China
+- Iceland
+- Liechtenstein
+- Morocco
+- Norway
+- Ottawa
+- Strasbourg
+- US
+- US-Canada
+- Washington
+people:
+- Donald Trump
+- Guntram Wolff
+- Mark Camilleri
+- Mark Carney
+- Ursula von der Leyen
+organisations:
+- Bruegel
+- Canada-EU Trade and Investment Association
+- Euronews
+- European Commission
+- European Economic Area”
+- European State”
+- European Union
+- Politico
+- SAFE
+- State of the EU
+- State of the Union
+- TKMS
+- Truth Social
 ---
 
 ## In the midst of a trade war with the US, Canada’s Prime Minister Mark Carney will attend Ursula von der Leyen's State of the Union speech in Strasbourg on 16 September, with a summit between Ottawa and Brussels to follow. However, EU membership is not an option.

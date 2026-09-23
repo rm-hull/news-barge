@@ -12,6 +12,49 @@ image: https://i.guim.co.uk/img/media/f02eecbe953d570b2743603fdbe3e37f1e33be01/6
 categories:
 - UK
 - News & Politics
+locations:
+- Australia
+- Barunguba Montague Island
+- Chitwan
+- Diggers Rest
+- Gorkha
+- Manly
+- Melbourne
+- NSW
+- Nepal
+- Nepal-China
+- Northern Territory
+- Rasuwa
+- Taronga Zoo
+- Trishuli River
+people:
+- Carnaby
+- Chris Minns
+- Jesse Thompson
+- John Howard
+- Keshav Kadel
+- Martin Farrer
+- Nick Visser
+- Penny Wong
+- Selena Uibo
+- Sudhir Shakya
+- Tanzil Rahman
+- Ted O’Brien
+organisations:
+- AAP Kadel
+- AAP Prayers
+- ABC’s Radio National
+- ACT
+- Australian Associated Press
+- Australian Nepalese Multicultural Centre
+- Carnaby
+- Coalition
+- Diggers Rest
+- Kathmandu Holiday Tours
+- NSW
+- RN Breakfast
+- Taronga Conservation Society
+- Travels
 ---
 
 Prayers at the Nepali cultural centre at Diggers Rest in Melbourne. The death toll from the Nepal flash flood is near 400. Photograph: Jesse Thompson/AAP

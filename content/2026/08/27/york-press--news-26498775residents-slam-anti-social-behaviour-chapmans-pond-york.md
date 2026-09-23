@@ -14,6 +14,18 @@ categories:
 - York
 - Health & Fitness
 - Society & Culture
+locations:
+- Chapman's Pond
+- Chapman’s Pond
+- Rowntree Park
+- Woodthorpe
+- York
+people:
+- Cllr Fenton
+- Stephen Fenton
+organisations:
+- Chapman's
+- The Press
 ---
 
 ## 'Such a shame' - residents fight back against damage and litter at much-loved pond

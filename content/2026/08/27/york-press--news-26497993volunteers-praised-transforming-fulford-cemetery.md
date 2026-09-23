@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Chiswell Street
+- Fulford Cemetery
+- Huntington Cemetery
+- London
+- UK
+- York
+people:
+- Ann Forshaw
+- Fulford
+- Karen Tyrell
+organisations:
+- Drinkaware
 ---
 
 **Fulford Cemetery volunteers thanked for improvements**

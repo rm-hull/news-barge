@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- UK
+people: []
+organisations:
+- Newsquest
+- Reddit
+- Ryanair
 ---
 
 *(Image: Newsquest)*

@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- Australia
+- Ireland
+- Massachusetts
+- UK
+- US
+people:
+- April Vincent
+- Avram Mack
+- Callan
+- Cora Clancy
+- Dawson
+- Edward Helmore
+- God
+- Helibrun
+- Kevin Reddington
+- Kirk Heilbrun
+- Lindsay Clancy
+- Paul Zeizel
+- Phillip Resnick
+- William Sullivan
+organisations:
+- Guardian
+- Lifeline
+- The Associated Press
 ---
 
 With just days to go before the murder trial for Lindsay Clancy concludes, a forensic psychologist called by the prosecution testified on Monday that he did not believe she was experiencing acute psychosis when she killed her three children.

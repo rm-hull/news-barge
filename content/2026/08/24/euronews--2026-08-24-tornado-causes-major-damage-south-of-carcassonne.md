@@ -12,6 +12,20 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Aude
+- Bogue Chitto
+- Carcassonne
+- Gene
+- Germany
+- Menasha
+- Miss.
+- Pomas
+- South-West
+- Wis.
+people: []
+organisations:
+- Météo France
 ---
 
 ## A powerful tornado caused severe damage south of Carcassonne, ripping up trees and roofs, with gusts locally reaching 117 km/h.

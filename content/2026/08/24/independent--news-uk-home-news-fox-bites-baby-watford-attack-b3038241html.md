@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Herts.
+- Watford General Hospital
+people:
+- Carly Clarkson
+- Josephine
+- Ms Clarkson
+- Trevor Williams
+organisations:
+- CCTV
+- The Fox Project
+- Watford Borough Council
 ---
 
 A mother-of-two has described how a fox crept into her home and bit her baby daughter's head as the pair slept.

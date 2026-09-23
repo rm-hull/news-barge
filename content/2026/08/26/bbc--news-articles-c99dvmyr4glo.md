@@ -12,6 +12,65 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Brussels
+- C
+- Davos
+- Denmark
+- Europe
+- Europe.
+- Exclusive Economic Zone
+- Finland
+- Greenland
+- Iceland
+- Keflavik
+- Liechtenstein
+- North Atlantic
+- Norway
+- Nuuk
+- Reykjavik
+- Russia
+- Schengen
+- Sweden
+- U.S.
+- US
+- Ukraine
+- West
+people:
+- Adolf Fridriksson
+- Anna Ragnarsdottir
+- Daði Már Kristófersson
+- Donald Trump
+- Eirikur Bergmann
+- Guðrún Hafsteinsdóttir
+- Hallgrímur Oddsson
+- Helga
+- Kristoffersen
+- Kristrun Frostadottir
+- Kristrún Frostadóttir
+- Margrét Ágústa Sigurðardóttir
+- Prof Bergmann
+- Pétur Pálsson
+- Sindradottir
+- Snærós Sindradóttir
+- Xed
+organisations:
+- BBC
+- Bifröst University
+- EEA
+- EU
+- European Currents
+- European Economic Area
+- European Movement
+- European Union
+- Hallgrimskirkja church
+- Icelandic Farmers' Association
+- Keflavik Air Base
+- Liberal Reform
+- Nato
+- Visir
+- Viska
+- 'Yes'
 ---
 
 ![Iceland Prime Minister Kristrun Frostadottir participates in a listening session on the upcoming referendum on August 26, 2026 in Reykjavik, Iceland](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d819/live/1eb0ea80-a181-11f1-8acb-47b47191a479.jpg)

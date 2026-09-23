@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Massachusetts
+- New Zealand
+- Russia
+- Sochi
+- U.S.
+- US
+- Ukraine
+- United States
+- Washington
+people:
+- Aleksandr Antonov
+- Andre Khachatoorian
+- Chuck Zimmerman
+- David Barnes
+- Eric Lebson
+- Harold Jezler
+- Liz Richards
+- Marco Rubio
+- Olga Jezler
+- Paul Whelan
+- Robert Gilman
+- Robin Stultz
+- Sergei Magnitsky
+- Stephen Hubbard
+- Travis Leake
+- Trevor Reed
+organisations:
+- CBD
+- Federal Penitentiary Service
+- Foley Foundation
+- Global Reach
+- Marine Corps
+- Navy
+- State Department
+- The Associated Press
 ---
 
 The recent release of Marine veteran Robert Gilman from Russian custody ended more than four years of imprisonment, but his visibly frail condition has raised alarming questions for the families of Americans still detained there.

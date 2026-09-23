@@ -11,6 +11,18 @@ categories:
 - Local
 - York
 - Home, Garden & DIY
+locations:
+- Malton
+- Norton
+- Pickering
+- River Derwent
+- Riverside Walk
+- Ryedale
+people:
+- Cllr Di Keal
+- Norton
+organisations:
+- AG Gardening & Landscaping
 ---
 
 A new wheelchair friendly bench has been installed by a Ryedale council.

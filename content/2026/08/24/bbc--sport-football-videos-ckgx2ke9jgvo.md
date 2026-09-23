@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Craven Cottage
+- UK
+people:
+- Alvaro Arbeloa
+- Cole Palmer
+- Joao Pedro
+- Xabi Alonso
+organisations:
+- Alonso
+- Chelsea
+- Fulham
+- Premier League
 ---
 
 # Palmer impresses as Chelsea edge past Fulham to give Alonso first win

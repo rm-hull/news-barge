@@ -13,6 +13,52 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Bhotekoshi
+- Bidur Municipality
+- Britain
+- China
+- Chitwan
+- Devighat Village
+- Langtang Lirung
+- Lhende Khola
+- Melbourne
+- Nepal
+- Nepal-Tibet
+- Nuwakot
+- Singapore
+- South Wales
+- Tadi
+- Tibet
+- Trishuli
+- UK
+people:
+- Abi Narayan Kafle
+- Andy Burnham
+- Jesse Thompson
+- Narendra Shrestha
+- Simon Cox
+- Vivian Balakrishnan
+organisations:
+- AAP
+- AFP
+- AP
+- CHF
+- Consular Response Team
+- Disaster Response Emergency Fund
+- EPA Community
+- Earth Sciences New Zealand
+- Foreign Affairs of Singapore
+- IFRC
+- International Federation of Red Cross and Red Crescent Societies
+- Mountains to Sea
+- Navesh Chitrakar
+- Nepal Police
+- Nepal Red Cross
+- Prabin Ranabhat
+- Red Cross
+- Reuters A
+- Reuters New
 ---
 
 A drone view shows mud covering buildings and property following devastating floods at Trishuli in Nuwakot district, Nepal, on Thursday Photograph: Navesh Chitrakar/Reuters

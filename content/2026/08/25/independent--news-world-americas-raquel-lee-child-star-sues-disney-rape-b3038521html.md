@@ -14,6 +14,23 @@ categories:
 - UK
 - Society & Culture
 - Family & Parenting
+locations:
+- California
+- Hollywood
+- Los Angeles County Superior Court
+- Salt Lake City
+people:
+- Disney
+- Jesus
+- John Doe
+- Neal Israel
+- Raquel Lee Bolleau
+- Tom Hanks
+organisations:
+- Bolleau
+- Disney Channel
+- NBC News
+- The Independent
 ---
 
 Raquel Lee Bolleau, who began her career in Hollywood as a child actor on shows like *The Amanda Show* and*The Proud Family*, is suing Disney, alleging that a former employee raped her in 2001 while she was working on the film* The Poof Point*. 

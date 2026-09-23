@@ -10,6 +10,31 @@ image: https://static.independent.co.uk/2026/08/28/17/2263168212..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Alaska
+- Appalachians
+- Deep South
+- East and Plains
+- El Niño
+- Hawaii
+- Indian Ocean
+- Intermountain West
+- Lala
+- New England
+- North Pole
+- Ohio Valley
+- Pacific Northwest
+- Pacific Ocean
+- Southwest
+- The Northeast
+- U.S
+- U.S.
+- Upper Midwest
+people: []
+organisations:
+- Almanac
+- National Weather Service Climate Prediction Center
+- Old Farmer
 ---
 
 This winter is looking mild for most of the U.S., according to the Old Farmer’s Almanac’s new winter forecast.

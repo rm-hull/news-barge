@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Amur Gas Chemical Complex
+- China
+- D.C
+- Far East
+- Moscow
+- Russia
+- Washington
+people:
+- Fu Ting
+organisations:
+- Amur Gas Chemical Complex
+- Global Times
+- Investigative Committee
+- Ministry of Emergency Situations
+- Sibur
+- Sinopec
+- ___ AP
 ---
 
 A fire broke out at the Amur Gas Chemical Complex in Russia’s Far East earlier this week, killing 15, the plant's management said Thursday.

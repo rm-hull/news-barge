@@ -11,6 +11,18 @@ description: The PocketBook Q ticks a lot of boxes for anyone who wants a compac
 image: https://cdn.mos.cms.futurecdn.net/MNC5FkGMikuSVAkuge4U9J-929-80.jpg
 categories:
 - Technology & Software
+locations:
+- Xteink
+people:
+- James
+- Libby
+organisations:
+- AI
+- Boox Palma
+- Clarity Media
+- Google News
+- PocketBook Q
+- TechRadar
 ---
 
 ![A hand holding the PocketBook Q](https://cdn.mos.cms.futurecdn.net/MNC5FkGMikuSVAkuge4U9J.jpg) 

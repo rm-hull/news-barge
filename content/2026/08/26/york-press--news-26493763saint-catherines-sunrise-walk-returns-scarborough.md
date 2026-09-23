@@ -13,6 +13,17 @@ categories:
 - York
 - Business & Entrepreneurship
 - Health & Fitness
+locations:
+- Sandside
+- Scarborough
+- Sea Life Centre
+- Spa Complex
+people:
+- Catherine
+- Emma Warley
+- Jodi Hatton
+organisations:
+- Harbour Bar
 ---
 
 *(Image: Emma Warley)*

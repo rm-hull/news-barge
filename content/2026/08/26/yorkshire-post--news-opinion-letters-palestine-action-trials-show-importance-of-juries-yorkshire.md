@@ -12,6 +12,23 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Leeds
+- Morley
+- Westminster Magistrates' Court
+people:
+- Dave Roberts
+- Juries
+- Yvette Cooper
+organisations:
+- Elbit Systems
+- Government
+- Jordan Pettitt
+- Labour Party
+- Magna Carta’
+- Palestine Action
+- State
+- Yorkshire Post Letters
 ---
 
 # Palestine Action trials show importance of juries - Yorkshire Post Letters

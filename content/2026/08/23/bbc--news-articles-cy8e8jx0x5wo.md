@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- UK
+people:
+- Alex Norris
+- Amy Glover
+- Kristina
+organisations:
+- Advance
+- BBC Action Line
+- Justice
+- Labour
+- Prison Governors'
 ---
 
 ![A woman looks out of a window while sitting on a bed.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/4e93/live/e7605c80-9e8f-11f1-8854-6b09b84b2062.jpg)

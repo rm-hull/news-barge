@@ -11,6 +11,9 @@ image: https://cdn.mos.cms.futurecdn.net/yC8YAkUg6zd8nWVafedjNo-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations: []
 ---
 
 Please login or signup to comment

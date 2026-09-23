@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Larpool Lane
+- Larpool Viaduct
+- North Yorkshire
+- Riverside Walk
+- Ruswarp
+- Whitby
+people:
+- Stephen Clough
+organisations:
+- Knapton & Knapton
+- North Yorkshire Council
 ---
 
 CONTROVERSIAL plans to build modern holiday let units near a Victorian landmark in North Yorkshire have been refused after a backlash from residents.

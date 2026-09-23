@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Africa
+- African Parks
+- California
+- Malawi
+- Odzala-Kokoua
+- Republic of the Congo
+- UK
+people:
+- Archie
+- Caroline Pearce
+- Guy Ritchie
+- Harry
+- Lilibet
+- Meghan
+organisations:
+- African Parks
+- African Parks’
+- Duchess of Sussex
+- Duke of Sussex
+- Mail
+- Netflix
+- Suits
+- Survival International
+- The Gentlemen
 ---
 
 The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights controversy.

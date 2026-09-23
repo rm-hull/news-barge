@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Gary
+- Hammond
+- Indiana
+- Lake County
+- Lake Michigan
+- Lake Station
+- Merrillville
+- Munster
+- Portage
+- Porter County
+- Randolph County
+people:
+- Eddie Melton
+- Gary
+- Mike Braun
+organisations:
+- ComEd
+- Hoosiers
+- Indiana National Guard
+- Indiana State Emergency Operations Center
+- NIPSCO
+- National Weather Service
+- Northern Indiana Public Service Company
+- The Independent
 ---
 
 Nearly 12,000 people in northwest Indiana were still without power Monday, nearly two weeks after deadly storms wrecked the region, downing trees and power lines.

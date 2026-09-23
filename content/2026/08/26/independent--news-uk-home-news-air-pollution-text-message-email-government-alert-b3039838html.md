@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- England
+- PA
+- UK
+- Victoria Jones
+people:
+- Chris Whitty
+- Dame Angela Eagle
+organisations:
+- Government
 ---
 
 A free text message and email warning system has been introduced by the Government to alert people across the UK when air pollution reaches high levels in their local area.

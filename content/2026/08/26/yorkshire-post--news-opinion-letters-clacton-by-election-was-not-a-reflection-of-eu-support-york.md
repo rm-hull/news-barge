@@ -12,6 +12,30 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Brexit
+- Brussels
+- Clacton
+- Cleckheaton
+- Count Binface
+- Reform UK
+- Westminster
+people:
+- Count Binface
+- Joe Giddens
+- Nigel Farage
+- Peter Brown
+- Tony Galbraith
+organisations:
+- EU
+- European Union
+- Green Party
+- Greens
+- Labour
+- Lib Dems
+- Liberal Democrat
+- The Yorkshire Post
+- Yorkshire Post Letters
 ---
 
 # Clacton by-election was not a reflection of EU support - Yorkshire Post Letters

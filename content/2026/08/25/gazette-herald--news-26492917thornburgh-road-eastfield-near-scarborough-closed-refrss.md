@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Cayton Approach
+- Cayton Low Road
+- Dunslow Road
+- Eastfield
+- North Yorkshire
+- Scarborough
+- Thornburgh Road
+- York
+people: []
+organisations:
+- A64
 ---
 
 A ROAD connecting a coastal North Yorkshire town to the A64 has been closed after a crash.

@@ -13,6 +13,47 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+- Cherrybrook
+- Icac
+- Lebanon
+- NSW
+- New South Wales
+- Roberts’
+- Sydney
+people:
+- Anthony Roberts
+- Cassandra Lawry
+- Charles Perrotet
+- Charles Perrottet
+- Charlie
+- Chris Spence
+- David Chandler
+- David Elliott
+- Dom
+- Dominic Perrottet
+- Dylan Whitelaw
+- Eleni Petinos
+- Gaslit
+- Gladys Berejiklian
+- Jean Nassif
+- Juliet Curtin
+- Petinos’
+- Spence – Cherrybrook
+organisations:
+- Catholic Schools NSW
+- Cherrybrook
+- Icac
+- Independent Commission Against Corruption
+- Liberals
+- NSW Liberal
+- Petinos’
+- Reformers
+- Spence
+- The Australian
+- The Entrance
+- Toplace
 ---
 
 Dominic Perrottet’s brother shared “dirt” – including a secret pocket phone recording of a minister – to try to help a property developer achieve political outcomes, lawyers assisting a corruption inquiry have alleged.

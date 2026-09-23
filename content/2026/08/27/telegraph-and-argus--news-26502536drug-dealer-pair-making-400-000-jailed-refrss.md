@@ -15,6 +15,26 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Sports
+locations:
+- Barnsley
+- Bradford
+- Bridge Street
+- Rushton Road
+- South
+- Thornbury
+- West Yorkshire
+people:
+- '## Pair'
+- Amaad Zahoor
+- Chris Shirt
+- Curly
+- Shammus Mahmood
+organisations:
+- Barnsley Criminal Investigation Department
+- CID
+- DC Shirt
+- Sheffield Crown Court
+- South Yorkshire Police
 ---
 
 *(Image: South Yorkshire Police)*

@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- El Niño
+- Europe
+- La Niña
+- National Oceanography Centre
+- Pacific Ocean
+- Southampton
+- UK
+people:
+- Jeremy Grist
+- Samantha Burgess
+- Tim Smyth
+organisations:
+- Copernicus
+- El Niño
+- El Niño.
+- English Channel
+- Future Earth
+- Plymouth Marine Laboratory
 ---
 
 ![The Sun sets over an ocean. The sky is dark red and the silhouette of a ship sailing across the ocean in front of the Sun.](https://ichef.bbci.co.uk/ace/standard/977/cpsprodpb/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg)

@@ -11,6 +11,23 @@ description: A new Philips Hue module could let you connect your Nanoleaf lights
 image: https://cdn.mos.cms.futurecdn.net/fNGUC26G9jWfHQrDpHqu2b-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Aurora
+- Hue Bridge
+people:
+- Rowan Davies
+organisations:
+- Bulb3
+- Google News
+- Govee Curtain Lights4
+- Hue Wall Light Module
+- Mini Triangles
+- Nanoleaf
+- Philips Hue
+- Philips Hue White & Color Ambiance2
+- Philips’
+- Smartlights
+- TechRadar
 ---
 
 ![The philips hue app next to nanoleaf shapes](https://cdn.mos.cms.futurecdn.net/fNGUC26G9jWfHQrDpHqu2b.jpg) 

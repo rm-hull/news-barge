@@ -13,6 +13,15 @@ categories:
 - York
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- A York
+- Peter Lane
+people: []
+organisations:
+- IMS Energy
+- Pic
+- Popeshead Court Offices
+- The Herald
 ---
 
 IMS Energy was registered at Popeshead Court Offices in Peter Lane, York. (Image: Pic supplied)

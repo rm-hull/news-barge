@@ -13,6 +13,19 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Bihar
+- India
+- New Delhi
+- Siwan
+people:
+- Narendra Modi
+- Rahul Gandhi
+organisations:
+- Amnesty International
+- Cockroach Janta Party
+- Delhi Police
+- Supreme Court
 ---
 
 ## Demonstrations in the capital New Delhi, triggered by the leak of the national medical entrance test, turned violent on 20 July when thousands of protesters attempted to march towards parliament.

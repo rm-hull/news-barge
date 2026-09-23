@@ -14,6 +14,39 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Bay
+- CHANNEL4
+- Coast to Coast Path
+- Crackpot Hall
+- Cumbria
+- Keld
+- Kirkby Stephen
+- Muker
+- North Yorkshire
+- Our Farm Next Door
+- Our Yorkshire Farm
+- Pennine Way
+- Ravenseat Farm
+- Robin Hood
+- St Bees
+- Upper Swaledale
+- Whitsun Dale
+- Yorkshire Dales
+- Yorkshire Dales National Park
+people:
+- Amanda Owen
+- Anty John
+- Clive
+- Ravenseat
+organisations:
+- Anty John's
+- Channel 4
+- Clive and Kids
+- Our Farm Next Door
+- Our Yorkshire Farm
+- Yorkshire Dales
+- Yorkshire Shepherdess
 ---
 
 Fans of Our Yorkshire Farm and its follow-up Our Farm Next Door: Amanda, Clive and Kids have become accustomed to seeing some of the most spectacular scenery the Yorkshire Dales has to offer.

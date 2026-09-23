@@ -16,6 +16,63 @@ categories:
 - York
 - Arts & Culture
 - Film & TV
+locations:
+- Arncliffe
+- Belfast
+- Bradford
+- Darrowby
+- Grassington
+- Kettlewell
+- London
+- Ripley
+- Ripon
+- Skeldale House
+- UK
+- US
+- Yockenthwaite
+- Yorkshire Dales
+people:
+- Alf Wight
+- Anna Madeley
+- Callum Woodhouse
+- Caolan McCarthy
+- Charlotte
+- Cyrano De Bergerac
+- Dorothy
+- Gaia Wise
+- Granville Bennett
+- Helen Herriot
+- Helen Williams
+- Imogen Clawson
+- James Herriot
+- Jenny
+- L-R Samuel West
+- Maggie
+- Maimie McCoy
+- Mollie Winnard
+- Mrs Hall
+- Nicholas Ralph
+- Patricia Hodge
+- Pumphrey
+- Rachel Shenton
+- Richard Alderson
+- Samuel West
+- Siegfried Farnon
+- Thirsk
+- Tony Pitts
+- Tristan Farnon
+organisations:
+- All Creatures Great and Small
+- BAFTA
+- Channel 5
+- Darrowby
+- MASTERPIECE
+- Mrs Hall
+- PBS
+- Playground Television UK Ltd
+- RSC
+- Skeldale House
+- Yorkshire Dales
 ---
 
 # 'The world is changing but the Dales will always offer perfect escapism': All Creatures Great and Small Series 7 first look photos and new cast member

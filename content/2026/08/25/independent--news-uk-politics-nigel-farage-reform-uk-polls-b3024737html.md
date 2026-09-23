@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Britain
+- Clacton
+- Downing Street
+- Europe
+- Gulf
+- PA
+- Silicon Valley
+- Ukraine
+- Westminster
+people:
+- Andy Burnham
+- Henry Nicholls
+- Nigel Farage
+- Peter Hill
+- Theresa May
+organisations:
+- Civil Service
+- Ipsos
+- Labour
+- Reform UK
+- The Independent
 ---
 
 Nigel Farage's chances of becoming prime minister are being overstated, according to a former Downing Street adviser, who believes the next general election remains "Labour's to lose".

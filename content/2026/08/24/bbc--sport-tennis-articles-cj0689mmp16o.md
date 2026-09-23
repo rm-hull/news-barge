@@ -12,6 +12,53 @@ image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9c8c/live/8c2a9
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- China
+- France
+- Italy
+- New York
+- New Zealand
+- Peru
+- Spain
+- Wimbledon
+people:
+- '## Patten'
+- Angela Fita Boluda
+- Aryna Sabalenka
+- Billy Harris
+- Carlos Alcaraz
+- Christian Harrison
+- Claire Liu
+- Clara Burel
+- Erin Routliffe
+- Felix Gill
+- Francesco Maestrelli
+- Francesco Passaro
+- Gonzalo Bueno
+- Harry Wendelken
+- Heather Watson
+- Henry Patten
+- Jacob Fearnley
+- Joao Fonseca
+- Katerina Siniakova
+- Kristina Mladenovic
+- Liam Broady
+- Lloyd Glasspool
+- Luka Pavlovic
+- Marcelo Arevalo
+- Marco Cecchinato
+- Novak Djokovic
+- Peyton Stearns
+- Remy Bertola
+- Roberto Carballes Baena
+- Serena Williams
+- Stefano Travaglia
+- Toby Samuel
+- Xiaodi You
+- Zheng Qinwen
+organisations:
+- El Salvador
 ---
 
 ![Heather Watson begins her service motion](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/9c8c/live/8c2a9a50-a00c-11f1-ad8f-297f0a59e510.jpg)

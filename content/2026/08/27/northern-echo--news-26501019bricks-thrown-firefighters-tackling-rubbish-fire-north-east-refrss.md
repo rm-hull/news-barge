@@ -14,6 +14,15 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Blakelaw
+- Newcastle
+people:
+- Stewart Nicholson
+organisations:
+- FireStoppers
+- Tyne and Wear Fire and Rescue
+- Tyne and Wear Fire and Rescue Service
 ---
 
 *(Image: Tyne and Wear Fire and Rescue Service)*

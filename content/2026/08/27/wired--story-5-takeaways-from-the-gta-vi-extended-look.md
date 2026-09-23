@@ -11,6 +11,26 @@ image: https://media.wired.com/photos/6a907fb15033b3e1c94cf8ed/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Everglades
+- Florida
+- Gulf
+- Los Angeles
+- Miami
+- Vice City
+people:
+- Jason
+- Lucia
+organisations:
+- Cfx
+- Cyberleek
+- Dazed
+- GTA Online
+- GTA VI
+- NPC
+- Netflix
+- Rockstar Games
+- Rockstar Mission Creator
 ---
 
 It’s safe to say *Grand Theft Auto VI* is the most anticipated game ever. Thirteen years after the last entry in the series, rampant fervor and speculation about what features the game will include have ratcheted up. Today, Rockstar Games divulged more details through an exclusive livestream event on Netflix called*Grand Theft Auto VI: An Extended Look*. The spectacle was a 26-minute-long collection of gameplay, cutscenes, and game mechanics.

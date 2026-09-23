@@ -15,6 +15,16 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- North Yorkshire
+- Ripon
+- UK
+people:
+- Katherine Friis
+organisations:
+- IPL
+- Market Place
+- Specsavers Ripon
 ---
 
 # New £34k investment at Ripon store will offer hi-tech help for customers experiencing dry eye problems

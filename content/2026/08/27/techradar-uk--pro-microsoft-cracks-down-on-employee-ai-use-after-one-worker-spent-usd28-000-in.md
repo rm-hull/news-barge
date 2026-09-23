@@ -12,6 +12,24 @@ categories:
 - Technology & Software
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- AI
+- Amazon
+- CoreAI
+- US
+people:
+- Craig Hale
+- Jay Parikh
+organisations:
+- Cloud
+- CoreAI
+- Craig’s
+- Customer and Partner Solutions
+- Gadget Review
+- Google News
+- Microsoft
+- TechRadar Pro
+- Tokenmaxxing
 ---
 
 ![A woman out of focus in the background touches the word AI, lit up in glowing yellow light, in the foreground. The woman is wearing smart glasses](https://cdn.mos.cms.futurecdn.net/TaxPLZc75WiicpmgZNzWzL.jpg) 

@@ -12,6 +12,13 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- FeedGrader
+- Feedonomics
+- Google Merchant
+- Google Shopping
 ---
 
 *Feedonomics is a Business Reporter client*

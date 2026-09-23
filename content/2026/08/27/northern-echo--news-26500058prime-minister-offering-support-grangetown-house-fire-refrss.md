@@ -15,6 +15,24 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- A66
+- Birchington Avenue
+- Grangetown
+- Middlesbrough
+- Newcastle
+- Royal Victoria Infirmary
+- South Wales
+- Steele Crescent
+people:
+- Andy Burnham
+- Natalie McDonald
+- Scott Heppell
+- Valentina Foster
+organisations:
+- Cleveland Police
+- Government
+- PA Wire
 ---
 
 Andy Burnham has said the Government is offering “all of the support that the authorities need” after a “terribly tragic” house fire near Middlesbrough killed a woman and child.

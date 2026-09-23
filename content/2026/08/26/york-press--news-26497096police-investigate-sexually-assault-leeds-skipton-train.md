@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Leeds
+- North Yorkshire
+- Skipton
+people: []
+organisations:
+- BTP
+- British Transport Police
+- Crimestoppers
 ---
 
 *(Image: British Transport Police)*

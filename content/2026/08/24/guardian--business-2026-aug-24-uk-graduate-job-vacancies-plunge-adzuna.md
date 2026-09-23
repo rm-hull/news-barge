@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- UK
+people:
+- Adzuna
+- Andrew Hunter
+- Andy Burnham
+- Rachel Reeves
+organisations:
+- AI
+- Adzuna
+- IPPR
+- Institute for Public Policy Research
+- Office for National Statistics
 ---
 
 Graduate job vacancies in the UK have sunk to their lowest level since they started being tracked a decade ago, according to a recruiting website.

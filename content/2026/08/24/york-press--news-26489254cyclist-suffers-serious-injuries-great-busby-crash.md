@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Busby Lane
+- Great Busby
+- North Yorkshire
+people:
+- Geri Tunney
+organisations:
+- North Yorkshire Police
+- Roads Policing Unit
 ---
 
 *(Image: North Yorkshire Police)*

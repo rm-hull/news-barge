@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Education & Learning
+locations:
+- Bundibugyo
+- Bunia
+- Congo
+- Ituri
+- West Africa Ebola
+people:
+- Budju Lobo Isaac
+- Fazila Rebecca
+- Greg Ramm
+organisations:
+- AP
+- Associated Press
+- Espérance Dz’venga
+- Gates Foundation
+- The Associated Press
+- World Health Organization
 ---
 
 Parents and teachers at the epicenter of Congo's fast-moving Ebola outbreak are urging authorities to delay the reopening of schools as infections continue to outpace efforts to contain the disease.

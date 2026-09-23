@@ -13,6 +13,23 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- China
+- Diversity Plaza
+- Jackson Heights
+- NEPAL
+- Nepal
+- New York
+- New York Queens
+- Nuwakot
+- Rasuwa
+- Upper Trishuli-3A
+people:
+- Michael Ashkenazey
+organisations:
+- Nepali Army
+- Rotary Club
+- United Sherpa Association Community Center
 ---
 
 In Rasuwa, army rescuers were filmed pulling a man from thick mud at the entrance to a hydropower tunnel and helping others to safety before evacuating survivors by helicopter.

@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Austin
+- Texas
+people:
+- Alexis Miestowski
+- Callaway Golf
+- Garrett Clark
+- Good Good
+- Good Good Golf
+organisations:
+- Callaway Golf
+- Good Good
+- YouTube
 ---
 
 YouTube content creator Good Good Golf, set to serve as the title sponsor for an upcoming PGA Tour tournament this fall, faced swift criticism after publishing and then removing a promotional video for a Callaway golf driver that showed a man pushing a woman to the ground as she reached for the club.

@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Self-Improvement
+locations: []
+people:
+- '## Woman'
+- Geoffrey Marson KC
+- John Bottomley
+- Murtaza Mahmood
+organisations:
+- Bradford Crown Court
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

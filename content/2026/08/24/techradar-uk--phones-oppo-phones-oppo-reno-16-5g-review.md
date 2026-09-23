@@ -13,6 +13,33 @@ image: https://cdn.mos.cms.futurecdn.net/aDsmnSFWejMuRu9PaHnCWb-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- Bath
+- Block Blast
+- England
+- India
+- TechRadar
+- UK
+- US
+people:
+- Farmer
+- Harry Padoan
+- Reno
+- Temu
+organisations:
+- 5G
+- ColorOS
+- Google
+- IP69K
+- Nothing Phone
+- Oppo Reno
+- Pop White
+- Purple Black
+- RAM
+- Snapdragon
+- TechRadar
+- Xiaomi
 ---
 
 ### TechRadar Verdict

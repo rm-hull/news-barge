@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Melbourne.
+- Treasury Gardens
+- Treasury Place
+- Victoria
+people:
+- Albert Dunstan
+- Ben Carroll
+- Daniel Andrews
+- Henry Bolte
+- James McCulloch
+- Jeff Kennett
+- Jess Wilson
+- John Cain
+- Rupert Hamer
+organisations:
+- Kennett government
+- Labor
+- Liberal
+- Meridian Sculpture
 ---
 
 The Carroll government in Victoria has cancelled controversial plans for a statue of former Labor premier Daniel Andrews.

@@ -14,6 +14,12 @@ categories:
 - UK
 - Technology & Software
 - Sports
+locations:
+- Beijing
+- China
+- United States
+people: []
+organisations: []
 ---
 
 Humanoid robots sprint, play soccer and set records at Beijing games, in photos

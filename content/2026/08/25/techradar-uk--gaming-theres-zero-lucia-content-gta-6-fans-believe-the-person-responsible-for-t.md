@@ -13,6 +13,25 @@ image: https://cdn.mos.cms.futurecdn.net/HNVgJmpYAHjj66mJwTtSVP-2560-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- QA
+- Vice Beach
+people:
+- Cyberleek
+- Jason
+- Lucia
+organisations:
+- Bloomberg
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- Netflix
+- Rockstar Games
+- Take-Two
+- TechRadar
+- YouTube
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/HNVgJmpYAHjj66mJwTtSVP.jpg) 

@@ -11,6 +11,24 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- A59
+- Harrogate
+- Kex Gill
+- Nidderdale National Landscape
+- North Yorkshire
+- North of England
+- Preston
+- Skipton
+- York
+people:
+- Cllr Malcolm Taylor
+organisations:
+- A59
+- Government
+- Lancashire
+- M6
+- North Yorkshire Council
 ---
 
 A new road in North Yorkshire has finally opened to traffic in a move that has been heralded as key for generations to come.

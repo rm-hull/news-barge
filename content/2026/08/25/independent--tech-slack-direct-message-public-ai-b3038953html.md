@@ -14,6 +14,27 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Careers & Productivity
+locations:
+- AI
+people:
+- Joe Inzerillo
+- Mathijs De Vaan
+- Max Keenan
+- Slack
+- Victoria Weller
+- Wade Foster
+organisations:
+- AI
+- Aurelian
+- De Vaan
+- ElevenLabs
+- MBA
+- Salesforce
+- Slack
+- UC Berkeley
+- WSJ
+- Wall Street Journal
+- Zapier
 ---
 
 The days of privately messaging a coworker on Slack to ask a question, share information or vent about a pesky colleague may be numbered as employers increasingly want AI to learn from workplace chats.

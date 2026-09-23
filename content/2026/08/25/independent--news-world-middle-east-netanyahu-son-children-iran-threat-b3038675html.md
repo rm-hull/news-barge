@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Iran
+- Israel
+- Miami
+- New York
+- U.S.
+people:
+- Ayatollah Ali Khamenei
+- Benjamin Netanyahu
+- David Zini
+- Gadi Eisenkot
+- Yair
+organisations:
+- Channel 14
+- Shin Bet
+- United Nations
 ---
 
 Israeli Prime Minister Benjamin Netanyahu has claimed that Iran tried to kill one of his sons.

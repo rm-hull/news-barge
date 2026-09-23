@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Angus
+- Chester-le-Street
+- County Durham
+- Dundee
+- Ninewells Hospital
+- North Shields
+- Redhills
+- Reekie Linn
+- Reekie Linn Waterfall
+- Scotland
+- Willington
+people:
+- Alun Bull
+- Ann Potts
+- Geoff Potts
+- Leslie Hamilton
+- Tamara McNamee
+- Willington
+organisations: []
 ---
 
 *(Image: Alun Bull)*

@@ -10,6 +10,19 @@ image: https://cdn.mos.cms.futurecdn.net/Dny84DUN8dLTj7B9TUQBEB-320-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Hannah Montana Linux
+- Linus Torvalds
+organisations:
+- 2MB RAM
+- AI
+- Get Tom's Hardware
+- IBM
+- Jag
+- Linux RADV Radeon Vulkan
+- Tom & Jerry
+- Xinuos
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/Dny84DUN8dLTj7B9TUQBEB-320-80.jpg)

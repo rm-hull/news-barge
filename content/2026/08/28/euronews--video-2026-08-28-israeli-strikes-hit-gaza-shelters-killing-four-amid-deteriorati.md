@@ -14,6 +14,17 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Gaza City
+- Gaza Strip
+- Israel
+- Khan Younis
+- Shifa Hospital
+people:
+- Mohammad Hamad
+organisations:
+- Hamas
+- United Nations
 ---
 
 At least four people were killed in Israeli strikes across the Gaza Strip on Thursday, according to local health officials. Three men died in separate strikes in Gaza City, with their bodies taken to Shifa Hospital, while another person was killed when a tent sheltering displaced Palestinians was hit in southern Gaza. Several others were injured. Israel’s military said the strikes targeted Hamas militants.

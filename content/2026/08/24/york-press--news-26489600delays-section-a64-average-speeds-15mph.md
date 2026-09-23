@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- A169
+- Barnygate Lane
+- North Yorkshire
+- Old Malton
+people: []
+organisations:
+- A64
+- AA
 ---
 
 *(Image: Contributed)*

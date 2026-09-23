@@ -11,6 +11,14 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations: []
+people: []
+organisations:
+- AI
+- CIO
+- Future plc
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A robot's hand typing on a laptop keyboard](https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L.jpg) 

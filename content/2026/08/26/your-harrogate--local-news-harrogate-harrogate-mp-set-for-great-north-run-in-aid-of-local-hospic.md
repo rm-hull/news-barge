@@ -12,6 +12,16 @@ categories:
 - Local
 - Harrogate
 - Travel
+locations:
+- Harrogate
+- Saint Michael's Hospice
+- Saint Michael’s
+people:
+- Tom Gordon
+organisations:
+- Harrogate
+- Knaresborough
+- Liberal Democrat
 ---
 
 ![](https://mmo.aiircdn.com/409/67d84738cc213.jpg) 

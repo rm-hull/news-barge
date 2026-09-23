@@ -14,6 +14,18 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Man Utd
+people:
+- Danny Murphy
+- Dean Holden
+- Gabby Logan
+- Joe Hart
+organisations:
+- How Hull
+- Hull City
+- MOTD
+- Manchester United
 ---
 
 # 'A win at home in the first game was beyond anyone's dreams' - Holden on MOTD

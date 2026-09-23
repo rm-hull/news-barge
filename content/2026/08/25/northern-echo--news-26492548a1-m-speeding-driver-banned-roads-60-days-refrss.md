@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- A1
+- Bradbury
+- Chapel Lane
+- County Durham
+- England
+- Junction 59
+- Junction 60
+- M
+- Newton Aycliffe
+- North East
+- North Lincolnshire
+- Peterlee Magistrates’ Court
+- Scawby
+people:
+- Darlington
+- Ummar Younis
+organisations:
+- A1
+- Darlington
+- PA MEDIA
+- Volkswagen
 ---
 
 *(Image: PA MEDIA)*

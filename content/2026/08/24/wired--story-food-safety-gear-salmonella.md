@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Science
 - Food & Cooking
+locations:
+- Amazon
+- Steelport
+- US
+people:
+- Ellen Shumaker
+- Jerold Mande
+- Louryn Strampe
+organisations:
+- FDA
+- Great Jones
+- Harvard’s School of Public Health
+- NC State Extension
+- TempSpike
+- Thermapen
+- Typhur
+- WIRED Reviews
 ---
 
 It is the summer of salmonella, it seems. Multiple overlapping salmonella outbreaks now sprawl across at least 30 states as of late August, even as cases of prodigious-poop-causing parasite cyclospora seem to be receding. Hundreds have been sickened, and simultaneous recalls are in effect for products as diverse as eggs, granola, jalapeño peppers, greens powders, nut butters, and dog food.

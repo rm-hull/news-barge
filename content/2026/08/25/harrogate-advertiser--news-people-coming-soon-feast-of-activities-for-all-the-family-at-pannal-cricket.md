@@ -13,6 +13,16 @@ categories:
 - Local
 - Harrogate
 - Family & Parenting
+locations:
+- Burn Bridge Lane
+- Harrogate
+people: []
+organisations:
+- Pannal Cricket
+- Pannal Cricket Club
+- Pannal Cricket Gala
+- Pimm’s
+- Renewtech
 ---
 
 # Coming soon: Feast of activities for all the family at Pannal Cricket Gala in Harrogate

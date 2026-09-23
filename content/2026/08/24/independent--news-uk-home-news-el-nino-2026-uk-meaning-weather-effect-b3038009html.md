@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Chile
+- El Nino
+- England
+- Europe
+- Northern Hemisphere
+- Pacific Ocean
+- Panama Canal
+- Peru
+- Sula
+- UK
+- US
+- Wales
+- Zimbabwe
+people:
+- Adam Scaife
+- El Nino
+- Ella Gilbert
+- Jesus
+- Nick Dunstone
+- Stephen Belcher
+organisations:
+- British Antarctic Survey
+- El Nino
+- El Niño
+- Met Office
+- NOAA
+- National Oceanic and Atmospheric Administration
 ---
 
 The term “El Nino” has dominated headlines in recent weeks as much of the world struggles to cope with extreme weather.

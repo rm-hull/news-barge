@@ -10,6 +10,25 @@ description: Google just made Gemini Live feel much more human
 image: https://cdn.mos.cms.futurecdn.net/G3W8mLEazK3AC7jfPY2ZG4-2560-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Graham Barlow
+- Ursa
+organisations:
+- BBC One Breakfast
+- BBC TV
+- Computeractive
+- Gemini Enterprise Agent Platform
+- Gemini Live
+- Google AI Studio
+- Google Gemini
+- Google News
+- Mac
+- MacFormat
+- PC Pro
+- Radio 4
+- TechRadar
+- iMore
 ---
 
 ![Google Gemini mobile icon app on a screen closeup smartphone iPhone closeup.](https://cdn.mos.cms.futurecdn.net/G3W8mLEazK3AC7jfPY2ZG4.jpg) 

@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Bernard Shaw Street
+- Bernard Street North Back
+- Burn Park Road
+- Burn Promenade
+- Chaucer Street
+- Dickens Street
+- Houghton-le-Spring
+- North East
+- Scotts Street
+- Stevenson Street
+- Thackeray Street
+- Thackery Street
+- YOUR
+people: []
+organisations:
+- Public Notice Portal
+- Sunderland City Council
+- The Northern Echo
 ---
 
 *(Image: Newsquest)*

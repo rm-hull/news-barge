@@ -12,6 +12,30 @@ categories:
 - Technology & Software
 - Science
 - News & Politics
+locations:
+- California
+- US
+people:
+- Claude
+- Danielle Cohen
+- Maxwell Zeff
+- Nicolás Maduro
+- Pete Hegseth
+- Rita Lin
+organisations:
+- AI
+- Anthropic
+- DC
+- Department of Homeland Security
+- Department of War
+- District of Columbia
+- First and Fifth Amendment
+- Palantir
+- Pentagon
+- State Department
+- Treasury Department
+- Trump
+- US Court of Appeals
 ---
 
 A federal judge on Thursday barred the Trump administration from designating Anthropic a national security risk over a dispute about the use of its AI models, ruling that the designation amounted to unconstitutional retaliation.

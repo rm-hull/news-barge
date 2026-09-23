@@ -14,6 +14,19 @@ categories:
 - York
 - History
 - Travel
+locations:
+- Barley Hall
+- Coffee Yard
+- England
+- Grape Lane
+- Great Hall
+- Stonegate
+- York
+people:
+- Richard Jones
+- William Snawsell
+organisations:
+- York Archaeology
 ---
 
 A medieval-themed weekend promises to transport visitors back in time with immersive activities and displays at a historic York site.

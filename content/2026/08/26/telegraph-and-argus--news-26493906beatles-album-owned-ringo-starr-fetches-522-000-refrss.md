@@ -15,6 +15,18 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- UK
+people:
+- Ms Rhone
+- Ringo Starr
+- Sophie Rhone
+organisations:
+- Julien’s Auctions
+- Masc Femme Clothing
+- The Beatles
+- UK Creation Records
+- Vinyl
 ---
 
 *(Image: T&A)*

@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- E.
+- Shiga
+people:
+- Pesto Orzo
+organisations:
+- FSA
+- Food Standards Agency
+- Mozzarella Pearls
+- Pesto Orzo
+- Snacksters Chicken Fajita Wraps
+- Snacksters Hoi Sin Wrap
+- Summit Foods
+- Tesco Finest Mozzarella Pearls
 ---
 
 Tesco have urgently recalled a popular meal deal item over concerns of food poisoning.

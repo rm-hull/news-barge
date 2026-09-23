@@ -13,6 +13,19 @@ categories:
 - UK
 - Family & Parenting
 - Society & Culture
+locations:
+- UK
+people:
+- Farage
+- Richard Tice
+- Sarah Elliott
+organisations:
+- EU
+- Labour
+- NHS
+- Reform UK
+- Shelter
+- Times Radio
 ---
 
 Reform UK’s deputy leader has said that couples with children should be married “in an ideal world” and that having “British-born children” should be encouraged.

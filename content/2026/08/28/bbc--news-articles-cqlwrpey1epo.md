@@ -11,6 +11,31 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fd5/live/2730a4
 categories:
 - UK
 - News & Politics
+locations:
+- Australia
+- Bangkok
+- Bristol
+- Europe
+- Indonesia
+- London Heathrow
+- Myanmar
+- Singapore
+- Thailand
+- Thornbury
+- UK
+people:
+- '## More'
+- Anthe Korelidou
+- Bristol Kitchen
+- Geoff Kitchen
+- Linda Kitchen
+organisations:
+- BBC
+- CPR
+- Geoff Kitchen
+- High Court
+- Linda
+- Singapore Airlines
 ---
 
 ![Linda and Geoff Kitchen smile together. Both wear rectangular glasses, with Geoff in a red t-shirt. They appear to be sitting on a balcony, with buildings and the cloudy sky visible in the background.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/9fd5/live/2730a430-a301-11f1-a291-b542ee92de7c.jpg)

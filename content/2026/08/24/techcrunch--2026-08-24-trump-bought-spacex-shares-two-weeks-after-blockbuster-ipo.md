@@ -12,6 +12,20 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- White House
+people:
+- Davis Ingle
+- Donald Trump
+- Jeffrey Epstein
+organisations:
+- Department of Justice
+- Elon Musk’s
+- Musk
+- Reuters
+- SpaceX
+- Trump
+- Wall Street Journal
 ---
 
 President Donald Trump bought as much as $50,000 worth of SpaceX shares on June 23, according to a financial disclosure first reported by Reuters, two weeks after the record-setting IPO of Elon Musk’s company.

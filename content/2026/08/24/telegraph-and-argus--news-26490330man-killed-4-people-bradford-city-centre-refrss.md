@@ -14,6 +14,23 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bolton Road
+- Bradford
+- Burnett Place
+- Forster Square
+- Juke
+- Napoleon’s Casino
+people:
+- '## Khan'
+- Allan Armbrister
+- Nadeem Khan
+- Napoleon
+- Nissan Juke
+- Sophie McKone
+organisations:
+- Bradford Crown Court
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

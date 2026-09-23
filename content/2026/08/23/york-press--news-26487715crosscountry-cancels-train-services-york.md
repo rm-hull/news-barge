@@ -12,6 +12,32 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Birmingham
+- Bristol
+- Cambridge
+- Cornwall
+- Devon
+- Dylan Connell
+- Exeter
+- London Kings Cross
+- Manchester
+- Midlands
+- Plymouth
+- Scotland
+- South England
+- South West
+- Wales
+- York Railway Station
+- Yorkshire
+people: []
+organisations:
+- '## Major'
+- CrossCountry
+- LNER
+- Peterborough
+- Stansted Airport
+- Transpennine Express
 ---
 
 ## Major train company cancels all services to and from York today

@@ -10,6 +10,25 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/R6II0507.jpg?resize=120
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Lee Grant
+- Lica
+- Priyaa Kalyanaraman
+- Purvanshi Mehta
+organisations:
+- AI
+- Accel and South Park Commons
+- Gamma
+- Lica
+- NextSlide
+- North Star
+- OpenAI
+- Presentations.ai
+- Prezent
+- South Park Commons
+- TechCrunch
+- Village Global
 ---
 
 Presentation startup Gamma has acquired Accel-backed design startup Lica in a bid to build out its own design research lab, TechCrunch has exclusively learned. Lica’s co-founders will lead the effort.

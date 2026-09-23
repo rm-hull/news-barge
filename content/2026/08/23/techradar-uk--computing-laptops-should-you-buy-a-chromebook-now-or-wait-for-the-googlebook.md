@@ -11,6 +11,20 @@ description: Don't understand what a Googlebook is, or how it's different from a
 image: https://cdn.mos.cms.futurecdn.net/i9GhqXus4QKgjaz6BDHiaH-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- New York
+- US
+people: []
+organisations:
+- AI
+- Chrome Unboxed
+- ChromeOS
+- Gemini
+- Google News
+- Googlebook
+- Googlebooks
+- Hachette UK
+- RAM
 ---
 
 ![HP Chromebook Plus 15.6-inch on table with pink wall and plant in background](https://cdn.mos.cms.futurecdn.net/i9GhqXus4QKgjaz6BDHiaH.jpg) 

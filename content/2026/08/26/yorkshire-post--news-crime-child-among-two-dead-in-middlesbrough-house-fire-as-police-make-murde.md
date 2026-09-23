@@ -14,6 +14,15 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Birchington Avenue
+- Grangetown
+- Middlesbrough
+people:
+- Emily Harrison
+organisations:
+- Cleveland Police
+- Crimestoppers
 ---
 
 # Child among two dead in Middlesbrough house fire as police make murder arrests

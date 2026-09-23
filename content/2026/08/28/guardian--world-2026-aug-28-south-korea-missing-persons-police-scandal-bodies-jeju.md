@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - True Crime
 - Business & Entrepreneurship
+locations:
+- Jeju Western
+- South Korea
+people:
+- Jang Mi-ran
+- Lee Jae Myung
+- Yun Hojung
+organisations:
+- Jeju Provincial Police Agency
+- Yonhap
 ---
 
 South Korean police will re-examine about 310,000 missing persons cases closed over the past three years, prompted by a scandal in which an officer was arrested on suspicion of falsifying records to close files on two people who were later found dead.

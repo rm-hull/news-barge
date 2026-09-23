@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Clucking Oinks
+- Piccadilly
+- Spark York
+- UK
+people:
+- Mike Brand
+organisations:
+- Clucking Oinks
+- Instagram
 ---
 
 A York fried chicken restaurant is taking the saying ‘have your cake and eat it’ to a whole new level…

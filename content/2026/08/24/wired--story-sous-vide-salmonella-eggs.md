@@ -12,6 +12,29 @@ categories:
 - Technology & Software
 - Science
 - Food & Cooking
+locations:
+- Anova
+- Bulbin
+- New York
+- Roslyn
+- St. Francis Hospital and Heart Center
+- Texas
+- US
+people:
+- Alan Bulbin
+- Anova
+- Joe Ray
+- Kristin Burkholder
+organisations:
+- Catholic Health
+- Costco
+- FDA
+- Kroger
+- Midwest Poultry Services
+- School of Biological Sciences
+- Simple Truth
+- USDA
+- University of New England
 ---
 
 It may finally be safe to eat lettuce again after June’s horrifying—and bagged-salad-trust-destroying—cyclospora outbreak. But the summer of ’26’s foodborne illness train rolls on with a new rash of recalls: for salmonella.

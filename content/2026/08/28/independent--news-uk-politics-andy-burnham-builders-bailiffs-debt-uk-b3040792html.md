@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Britain
+- England
+- Wales
+people:
+- Andrew Griffith
+- Andy Burnham
+- Jonathan Reynolds
+- Sarah Sackman
+organisations:
+- Citizens Advice
+- Citizens Advice and Trading Standards
+- Enforcement Conduct Board
 ---
 
 New measures targeting "cowboy builders" who exploit homeowners, alongside a crackdown on private bailiffs using intimidating tactics against people in debt, have been unveiled by Andy Burnham.

@@ -12,6 +12,14 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bingley
+- Hartlepool
+- Middlesborough
+- Stockton-on-Tees
+people:
+- Luca
+organisations: []
 ---
 
 *(Image: WYP)*

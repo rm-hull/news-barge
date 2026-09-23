@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Charles De Gaulle Airport
+- Florida
+- France
+- Kalshi
+- Los Angeles
+- Paris
+- U.S.
+people:
+- Donald Trump
+- Jamie Pietruska
+- Kalshi
+- Michael Selig
+- Taylor Swift
+- Will Brackett
+organisations:
+- CNN
+- Commodity Futures Trading Commission
+- Kalshi
+- NerdWallet
+- Polymarket
+- Rutgers University
+- The Independent
+- The Weather Company
+- Weather Channel
 ---
 
 Kalshi, the popular prediction market website, is partnering with The Weather Company, which will see odds data added to forecasts among a host of other changes, the company announced Thursday.

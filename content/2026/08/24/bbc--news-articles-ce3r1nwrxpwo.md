@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Argentina
+- Manchester
+- Mexico City
+- South America
+- Ushuaia
+people:
+- Charlie
+- Jo Gardiner
+- Sam
+organisations:
+- BBC Manchester
+- BBC Radio Manchester
+- Race Across The World
+- Studio Lambert
 ---
 
 ![Jo and Sam pose together in an ornate room. He's wearing dark baseball cap and green top and rucksack and smiling, while Jo has shoulder-length brown hair and wears a white vest. She's also smiling.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/66b5/live/20cfac90-9fa4-11f1-bff6-57f1422ebb0b.jpg)

@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- East Street
+- UK
+people: []
+organisations:
+- FSA
+- Food Standards Agency
+- Morrisons
+- Sainsbury's
+- Snack Chicken Fajita Wrap Summit Foods
+- Summit Foods
+- Tesco
 ---
 
 *(Image: Getty Images)*

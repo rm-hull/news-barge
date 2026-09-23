@@ -12,6 +12,44 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bournemouth
+- Brazil
+- Brighton
+- Egypt
+- Etihad Stadium
+- Girona
+- La Liga
+- London
+- Manchester City
+- West Ham
+people:
+- '## Savinho'
+- Andrew Robertson
+- Antoine Semenyo
+- De Zerbi
+- Jan Paul van Hecke
+- Jeremy Doku
+- Marcos Senesi
+- Martin Dubravka
+- Mateus Fernandes
+- Mohamed Salah
+- Omar Marmoush
+- Pep Guardiola
+- Roberto de Zerbi
+- Sandro Tonali
+- Savinho fromManchester Cityfor
+- Savio
+- Son Heung-min
+- Tottenhamhave
+organisations:
+- City
+- Newcastle
+- Premier League
+- Savinho
+- Spurs
+- Tottenham
+- Troyes
 ---
 
 ![Savinho in action for Manchester City](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f37b/live/af288520-a067-11f1-ab4b-e3f95ee34b2e.jpg)

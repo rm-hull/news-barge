@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Alabama
+- America
+- Atlantic
+- Birmingham
+- North Yorkshire
+- UK
+- US
+- York Minster
+people:
+- Lise Kaye-Bell
+- Ms Kaye-Bell
+organisations:
+- Burton Green Primary School
+- Kyra Women’s Project
+- Ms Kaye-Bell
+- Red Flags
+- Soundproofbox CIC
+- Vale of York School
 ---
 
 A theatre-maker from York is taking her interactive stage production to audiences in the US.

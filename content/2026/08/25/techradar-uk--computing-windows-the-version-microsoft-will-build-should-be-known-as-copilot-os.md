@@ -12,6 +12,23 @@ description: Remember Microsoft's Project Aion? That recent leak has been raked 
 image: https://cdn.mos.cms.futurecdn.net/T5tUn7q7ko5tgMxUjPnP8N-2121-80.jpeg
 categories:
 - Technology & Software
+locations:
+- AI
+people:
+- Copilot
+organisations:
+- 8GB
+- AI
+- Copilot
+- Google News
+- Hachette UK
+- Lenovo
+- Microsoft
+- OS
+- PC
+- RAM
+- SharePoint
+- Windows Central
 ---
 
 ![Young woman using a Windows laptop, looking annoyed](https://cdn.mos.cms.futurecdn.net/T5tUn7q7ko5tgMxUjPnP8N.jpeg) 

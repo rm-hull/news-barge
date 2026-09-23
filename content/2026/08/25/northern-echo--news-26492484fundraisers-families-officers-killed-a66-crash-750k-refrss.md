@@ -14,6 +14,36 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- CLEVELAND
+- Carmel
+- Darlington
+- Micklow Close
+- Middlesbrough
+- Redcar
+- South Bank
+- St John the Evangelist Church
+- Teesside
+people:
+- Cameron George
+- Dad
+- Matt
+- Matthew Blades
+- Matty
+- PC Blades
+- Pc Clough
+- SARAH CALDECOTT
+- Stuart Boulton
+- Tom Clough
+organisations:
+- A66
+- Carmel College
+- Cleveland Police
+- Cleveland Police Federation
+- Independent Office for Police Conduct
+- PC Blades
+- PC Clough
+- RTC
 ---
 
 More than £750,000 has been raised for the families of two officers who were killed when a car driving the wrong way on the A66 collided WITH their vehicle.

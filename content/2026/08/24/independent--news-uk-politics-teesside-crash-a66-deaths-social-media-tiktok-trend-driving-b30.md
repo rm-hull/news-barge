@@ -14,6 +14,31 @@ categories:
 - UK
 - Technology & Software
 - Automotive
+locations:
+- A66
+- Middlesbrough
+- South Bank
+- Teesside
+- TikTok
+people:
+- Cole Robert Worthy
+- Jakub Matusiak
+- Luke Pollard
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- PC Blades’
+- PC Clough
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- BBC Breakfast
+- BBC Radio 5 Live
+- Cleveland Police
+- Teesside Magistrates’ Court
+- TikTok
+- VW
 ---
 
 The government has told TikTok and other social media companies to take down content featuring a social media trend showing people driving the wrong way down roads.

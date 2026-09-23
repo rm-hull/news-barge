@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- County Durham
+- Crook
+- Darlington
+- Hope Street
+- North East
+people:
+- Perla Nera
+organisations:
+- Perla Nera
 ---
 
 *(Image: TRIPADVISOR)*

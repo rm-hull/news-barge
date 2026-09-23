@@ -14,6 +14,20 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations: []
+people:
+- Matt Stanton
+- Stan
+organisations:
+- Australian Financial Review
+- Copilot
+- Facebook
+- Google
+- Meta
+- Microsoft
+- Nine Entertainment
+- QMS
+- Sydney Morning Herald
 ---
 
 The head of Nine Entertainment sees a “world of growth in publishing” on the horizon backed by laws designed to force tech platforms into commercial deals, even as the network cuts costs across its newsrooms.

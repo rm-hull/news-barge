@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- England
+- Headingley
+- Lord's
+- Pakistan
+people:
+- '## Robinson'
+- Andrew Flintoff
+- Ben Stokes
+- Chris Woakes
+- CricViz
+- Gus Atkinson
+- James Anderson
+- Joe Root
+- Jofra Archer
+- Jonathan Agnew
+- Josh Tongue
+- Matthew Hoggard
+- Michael Vaughan
+- Ollie Robinson
+- Simon Jones
+- Stephen Harmison
+- Stuart Broad
+organisations:
+- BBC
+- Tongue
 ---
 
 Relentless Robinson finishes with 4-11 in brilliant performance

@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Science
 - History
+locations:
+- Paris
+- UK
+people:
+- Chris Garrard
+- Ian Blatchford
+organisations:
+- Adani Green Energy Ltd
+- Adani Group
+- BP
+- Culture Unstained
+- Equinor
+- London Science Museum
+- Science Museum
+- Science Museum Group
+- Science Museum Group Academy
 ---
 
 The London Science Museum has ended its decades-long partnership with the oil and gas company BP in what has been described as a “seismic shift” for the museum.

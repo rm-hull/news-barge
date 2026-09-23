@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Alaska
+- Canada
+- Denali
+- Great Lakes
+- Gulf of America
+- Gulf of Mexico
+- Huron
+- Lake America
+- Lake Ontario
+- Maine
+- New York
+- Ottawa
+- Toronto
+- U.S.
+- US
+- United States
+- Washington
+people:
+- Donald Trump
+- Doug Ford
+- Freudian
+- JD Vance
+- Mark Carney
+- Mount McKinley
+- Rob Ford
+organisations:
+- Steel
+- Truth Social
+- U.S. Trump
+- United States’
 ---
 
 President Donald Trump threatened to rename Lake Ontario to “Lake America” amid his escalating tariff war with Canada.

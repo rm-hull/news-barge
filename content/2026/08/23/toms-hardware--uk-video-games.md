@@ -12,6 +12,44 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- GTA San Andreas
+- GTA Vice City
+- San AndreasBy
+people:
+- Stephen Warwick
+organisations:
+- Aaron Klotz
+- Aaron Klotz Published
+- Astro Playroom
+- Azure CTOBy Mark Tyson Published
+- Bruno Ferreira
+- Cloud GamingMicrosoft
+- Cloud GamingNvidia
+- Console GamingGameStop
+- Duck Hunt
+- GTA III
+- GTA VI
+- Hassam Nasir
+- Jeffrey Kampman
+- Jowi Morales
+- Mark Tyson Published
+- Microsoft
+- Minecraft
+- NintendoConsole
+- Nvidia
+- PC GamingMicrosoft
+- PC GamingNvidia
+- PCBy Stephen Warwick
+- PlayStationGroup
+- PlayStationPS5
+- Sega
+- Sony
+- Super Mario Bros
+- Take-Two
+- Vice City
+- Video GamesPlayer
+- XboxMicrosoft
 ---
 
 # Video Games

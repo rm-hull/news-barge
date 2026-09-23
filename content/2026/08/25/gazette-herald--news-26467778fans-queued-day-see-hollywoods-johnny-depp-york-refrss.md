@@ -14,6 +14,42 @@ categories:
 - York
 - Film & TV
 - Comedy & Entertainment
+locations:
+- America
+- Bradford
+- Caribbean
+- Hollywood
+- Milner
+- North Yorkshire
+- Queensbury
+- UK
+- US
+- York Barbican
+people:
+- Amanda Monaghan
+- Amber Heard
+- Fan Nick Hale
+- Jack Sparrow
+- Jeff Beck
+- John Lennon
+- Johnny Depp
+- Katie Masiak
+- Lamborghinis
+- Lucy Brumby
+- Nick Hale
+- Rhiece Rhodes
+- Ruby
+- Toby
+- York
+organisations:
+- Cuffe & Taylor
+- Hollywood Vampires
+- Pirates
+- Popular York
+- Principal Hotel
+- Scarborough Open Air Theatre
+- Thor's
+- York Barbican
 ---
 
 Johnny Depp’s recent return to perform at the Scarborough Open Air Theatre with rock supergroup Hollywood Vampires revived memories for some of the remarkable scenes when the Hollywood star came to York.

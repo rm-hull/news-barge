@@ -13,6 +13,31 @@ categories:
 - Harrogate
 - York
 - Self-Improvement
+locations:
+- Millthorpe
+- York
+people:
+- Adam Bruce
+- Bella Gill
+- Bill Scriven
+- Cecile Lansford
+- Dora Banda
+- Florence Partridge
+- Frank Dwyer
+- Frank Dwyer Then
+- Liz Mastin
+- Lucy White
+- Pearson
+- Theo Walton
+- Trevor Burton
+organisations:
+- All Saints
+- All Saints RC School
+- BTEC
+- Huntington School
+- Manor CE Academy
+- Millthorpe School
+- St Peter's School
 ---
 
 GCSE results day has long been one of the most memorable dates in the school calendar, from anxious envelopes and hugs in school halls to delighted smiles for the camera.

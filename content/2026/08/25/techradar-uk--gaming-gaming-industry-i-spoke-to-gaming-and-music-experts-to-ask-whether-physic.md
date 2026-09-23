@@ -13,6 +13,42 @@ categories:
 - Technology & Software
 - Music
 - Science
+locations:
+- England
+- Felixstowe
+- London
+- Sheffield
+- Suffolk
+- UK
+- UK.
+- US
+people:
+- Jamie Richards
+- John O’Shea
+- Khalil Madim
+- Madison True
+- Tom Durston
+organisations:
+- BBC
+- CEX Ltd Entertainment Exchange
+- Game On
+- GameStop
+- Gamespot
+- Goldsmiths College
+- Google News
+- Inverted Audio
+- LP
+- MusicRadar
+- National Videogame Museum
+- Nintendo Entertainment System
+- O’Shea
+- Recording Industry Association of America
+- Rockstar Games
+- Sony
+- Sports Direct
+- TechRadar
+- Vinyl Bitch’
+- Xbox
 ---
 
 ![PlayStation games discount](https://cdn.mos.cms.futurecdn.net/FTncFxhASVkwef59smUcX4.jpg) 

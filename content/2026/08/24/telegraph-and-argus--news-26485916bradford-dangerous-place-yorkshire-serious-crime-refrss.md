@@ -15,6 +15,36 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Bradford East
+- Bradford West
+- Humber
+- Ilkley
+- Keighley
+- Yorkshire
+people:
+- Craven
+- Eccleshill
+- Imran Hussain
+- Matt Edwards
+- Naz Shah
+- Robbie Moore
+- Tong**
+organisations:
+- Bierley Green Party
+- Bradford
+- Crystal Roof
+- Doncaster
+- Government
+- Holme Wood
+- Hull
+- Ilkley
+- Labour
+- Newsquest
+- North East Lincolnshire
+- Telegraph & Argus
+- West Yorkshire Police
+- Wharfedale
 ---
 
 *(Image: Newsquest)*

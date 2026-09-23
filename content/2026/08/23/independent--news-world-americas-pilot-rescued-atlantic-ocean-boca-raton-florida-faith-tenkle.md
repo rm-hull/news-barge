@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Atlantic Ocean
+- Bahamas
+- Boca Raton
+- Boca Raton Airport
+- Chad
+- South Florida
+people:
+- Alexis Arizzi
+- Faith Tenkley
+- Lisa Tenkley
+- Maria Marks
+organisations:
+- Federal Aviation Administration
+- Palm Beach Police Services Department
+- Piper Aircraft
+- TV
+- WPBF
+- WZVN-TV
 ---
 
 A young pilot “delicately” ditched a private plane in the water near a South Florida beach and was rescued unhurt after a series of mechanical breakdowns prevented an emergency airport landing.

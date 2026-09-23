@@ -13,6 +13,25 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Adam
+- Europe
+- Harrogate
+- Newby Hall
+- UK
+- Yorkshire
+people:
+- Compton
+- Gyles Brandreth
+- Jonathan Moseley
+- Newby
+- Stephanie Moon
+- Stuart Gill
+organisations:
+- NEHS
+- Newby Hall & Gardens
+- North of England Horticultural Society
+- Yorkshire
 ---
 
 Newby Hall & Gardens is welcoming the Harrogate Autumn Flower Show back to the award‑winning estate this September (Friday 18–Sunday 20 September) as the event celebrates its 50th anniversary.

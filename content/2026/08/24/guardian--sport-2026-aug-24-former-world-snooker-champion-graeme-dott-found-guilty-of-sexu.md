@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Edinburgh
+- Glasgow
+people:
+- Crown
+- Euan Dow
+- Graeme Dott
+- Lindsey Dalziel
+- Lord Harrower
+organisations: []
 ---
 
 The former world snooker champion Graeme Dott has been found guilty of sexually abusing two primary school age children. The 49-year-old subjected a girl and a boy to multiple incidents of abuse, with the girl targeted between 1993-96 and the boy between 2006-10.

@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - Travel
 - Lifestyle & Fashion
+locations:
+- Kanazawa
+people:
+- Daisuke Yamashita
+organisations:
+- Instagram
+- TBS News Dig
 ---
 
 Etiquette, manners and consideration for others are integral pillars of Japanese society but there are times when they might go a step too far, according to one city’s emergency services.

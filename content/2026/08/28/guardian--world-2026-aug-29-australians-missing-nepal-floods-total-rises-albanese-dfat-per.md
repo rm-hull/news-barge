@@ -13,6 +13,42 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+- Beijing
+- Bhotekoshi River
+- China
+- Kathmandu
+- Nepal
+- Nepal-Tibet
+- Nepal.
+- Nuwakot
+- Strathfield
+people:
+- Aarush Muralitharan
+- Ashwin Muralitharan
+- Cara Severino
+- Chandrasekaran Muralitharan.
+- Chitra Venkatraman
+- Debbie
+- Frank Severino
+- Karan Bhardwaj
+- Keshav Kadel
+- Matt Thistlethwaite
+- Penny Wong
+- Shisir Khanal
+- Shylaja Muralitharan
+- Sumi Adhikari
+- Venkatraman Balakrishnan
+organisations:
+- ABC News
+- Australian Nepalese Multicultural Centre
+- Chinese Government
+- Department of Foreign Affairs
+- Dfat
+- Emergency Action Alliance
+- Red Cross
+- World Food Programme
 ---
 
 The number of Australians who were reported missing in the catastrophic Nepal flooding disaster has risen to 41, as one family celebrates after an unaccounted-for woman made contact with them yesterday.

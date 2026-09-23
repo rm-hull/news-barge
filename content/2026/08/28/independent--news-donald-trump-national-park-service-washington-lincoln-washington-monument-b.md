@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Jefferson
+- Lincoln
+- Memorial Bridge
+- Washington Monument
+people:
+- Donald Trump
+organisations:
+- Arch
+- National Park Service
+- Park Service
 ---
 
 A new National Park Service report backs President Donald Trump’s proposed arch, despite what it says are adverse effects to the sightline between a host of iconic landmarks in Washington, including the Washington Monument and Lincoln and Jefferson memorials.

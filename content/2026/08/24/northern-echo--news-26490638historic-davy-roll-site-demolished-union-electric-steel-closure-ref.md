@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Gateshead
+- YOUR
+people:
+- Davy Ashmore
+- John Denham
+- Will Garrett
+organisations:
+- Brexit
+- Close Works
+- Davy Roll
+- Davy Roll Company Ltd
+- Denham Metals
+- Gateshead Council
+- Public Notice Portal
+- Union Electric Steel
+- Union Electric Steel UK
 ---
 
 ### What is the Public Notice Portal?

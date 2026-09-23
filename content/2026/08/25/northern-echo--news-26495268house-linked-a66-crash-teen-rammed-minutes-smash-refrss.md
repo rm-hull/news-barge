@@ -14,6 +14,46 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Acklam
+- CLEVELAND
+- Durham
+- Lime Road
+- Middlesbrough
+- North Yorkshire
+- Northumbria
+- Owen Humphreys
+- PA
+- Ruskin Avenue
+- South Bank
+- Teesside
+- Teesville
+people:
+- Cole Robert Worthy
+- Cole Worthy
+- Gye Worthy
+- Jakub Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- Michael Robert Cahill
+- OWEN HUMPHRIES
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- CCTV
+- Cleveland Police
+- Companies House
+- Force
+- PC Blades
+- PC Clough
+- PCs Clough
+- Police Federation
+- VW
+- Volvo
+- Worthylift Ltd
 ---
 
 A house linked to one of the five men killed in the A66 crash was rammed less than an hour before the smash that killed two officers, it has emerged.

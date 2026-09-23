@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Real Estate
+locations:
+- England
+- London
+- Makerfield
+people:
+- Andy Burnham
+- Angela Rayner
+- Sarah Elliott
+organisations:
+- Guardian
+- Reform UK
+- Shelter
+- Starmer
 ---
 
 Andy Burnham has backtracked on his proposal to rip up the government’s housing plans and boost social home building.

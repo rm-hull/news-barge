@@ -11,6 +11,22 @@ image: https://cdn.mos.cms.futurecdn.net/57WmYG5XhZW4LrESt9okBM-1781-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Helios
+- Japan
+people:
+- Justin Murrill
+- Rahim Amir
+organisations:
+- AI
+- AMD
+- Google News
+- PC
+- PCs
+- RGB
+- SFF
+- TechRadar Pro
+- Trellis
 ---
 
 ![AMD](https://cdn.mos.cms.futurecdn.net/57WmYG5XhZW4LrESt9okBM.jpg) 

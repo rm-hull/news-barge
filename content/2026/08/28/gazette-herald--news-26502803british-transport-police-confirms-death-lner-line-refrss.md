@@ -14,6 +14,19 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- Hatfield
+- London Kings Cross
+- North Yorkshire
+- Peterborough
+- York
+people: []
+organisations:
+- British Transport Police
+- CALM
+- LNER
+- Newsquest
+- The Samaritans
 ---
 
 *(Image: Image: Newsquest)*

@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Alcoutim
+- Algarve
+- Christiana
+- Solara4
+- Tennessee
+- UK
+- Wolfsburg
+people:
+- Christiane Benner
+- Daniela Cavallo
+- Thorsten Groeger
+organisations:
+- APA
+- BDO
+- China Triumph International Engineering
+- Expresso
+- IG Metall
+- Jornal Económico
+- Portuguese Environment Agency
+- Solara4
+- VW
+- Welink Energy Portugal
+- Welink Group
 ---
 
 ## Based in Alcoutim, in the Algarve, Solara4 has been operating for five years, but over that time it has repeatedly run into a series of setbacks.

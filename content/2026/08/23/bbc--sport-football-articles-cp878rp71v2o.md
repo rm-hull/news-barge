@@ -13,6 +13,35 @@ image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ef1f/live/398d1
 categories:
 - UK
 - News & Politics
+locations:
+- Dominican Republic
+- Europe
+- Paris
+- Portugal
+- US
+- United States
+people:
+- Aleksander Ceferin
+- Cristiano Ronaldo
+- Donald Trump
+- Emmanuel Macron
+- Folarin Balogun
+- Gianni Infantino
+- Mohammed bin Salman
+organisations:
+- Asian Football Confederation
+- Belgium
+- Caf
+- Caribbean Football Union
+- Concacaf
+- Conmebol
+- European Super League
+- FFE
+- Fifa Congress
+- Fifa Forward Enterprise
+- Infantino
+- Super League
+- Uefa
 ---
 
 ![Gianni Infantino (left) and Aleksander Ceferin (right)](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/ef1f/live/398d1240-9f2c-11f1-92b7-313dc1d0a3e9.jpg)

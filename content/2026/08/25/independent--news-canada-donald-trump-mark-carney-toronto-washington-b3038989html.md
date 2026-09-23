@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Canada
+- Detroit
+- Gulf of America
+- Gulf of Mexico
+- Lake Ontario “Lake America
+- Michigan
+- Quebec
+- U.S.
+- US
+- United States
+- Warren
+- Washington
+people:
+- Donald Trump
+- Doug Ford
+- Mark Carney
+- Michael Howard II
+- Mike Householder
+- Seung Min Kim
+organisations: []
 ---
 
 Canada struck back at the United States on Tuesday with retaliatory tariffs on about $20 billion worth of American goods, including steel, dairy products, appliances and farm equipment, as the trade war between the once-friendly neighbors escalated sharply.

@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Austria
+- Belgium
+- Britain
+- Denmark
+- England
+- France
+- Germany
+- Humber
+- London
+- Netherlands
+- Northern Ireland
+- Scotland
+- UK
+- Yorkshire
+people:
+- Ian Young
+organisations:
+- British Lion
+- Food Standards Agency
+- UK Health Security Agency
+- UKHSA
+- Wales
 ---
 
 ![A woman cracks open an egg.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/b642/live/cc25c7c0-a1fa-11f1-a97e-999c5aae08bf.jpg)

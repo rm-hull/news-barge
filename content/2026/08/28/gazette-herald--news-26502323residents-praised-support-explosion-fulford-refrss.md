@@ -14,6 +14,25 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Crossfield Crescent
+- Fulford
+- Sutton
+- York Outer
+people:
+- Lewis Abley
+- Luke Charters
+- Michelle Cutsforth
+- Neil
+- Stephanie Cressey
+organisations:
+- Army
+- British Oxygen Company
+- Crossfield Crescent
+- Forest CE Primary School
+- Newsquest
+- North Yorkshire Fire and Rescue Service
+- York Outer
 ---
 
 *(Image: Newsquest)*

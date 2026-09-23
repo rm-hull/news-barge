@@ -11,6 +11,21 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- A55
+- A66
+- Anglesey
+- Caernarfon Magistrates’ Court
+- Holyhead
+- Ireland
+- Teesside
+people:
+- Darragh O’Grady
+- Martin Williams
+organisations:
+- North Wales Police
+- Royal Air Force
+- The Independent
 ---
 
 A man has been charged after allegedly driving a stolen taxi the wrong way down a busy dual carriageway.

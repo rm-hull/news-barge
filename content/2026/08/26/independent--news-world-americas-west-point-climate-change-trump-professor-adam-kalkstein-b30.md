@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Brig
+- Vietnam
+- West Point
+- White House
+- White Plains
+people:
+- Adam Kalkstein
+- Donald Trump
+- Joel Radunzel
+- Mark Read
+- Michael Sussman
+- Pete Hegseth
+- Shane Reeves
+- Steven Gilland
+organisations:
+- Academic Board
+- Army
+- Climatology
+- Constitution
+- Department of Defense
+- Geography and Earth Sciences
+- Kalkstein
+- Oval Office
+- The Independent
+- U.S. Military Academy
+- US Military Academy
+- United States Military Academy
+- United States Service Academies
+- West Point
 ---
 
 A tenured professor at the U.S. Military Academy at West Point claims he was fired after pushing back on a presidential directive to “defy science” and stop teaching cadets that climate change had “primarily human causes, something contrary to the ideology of the Commander in Chief and forbidden at West Point.”

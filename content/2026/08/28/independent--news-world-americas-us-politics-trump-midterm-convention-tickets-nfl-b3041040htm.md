@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Dallas
+- Texas
+- U.S.
+- White House
+people:
+- Donald Trump
+- Natalie Baldassarre
+organisations:
+- America First Agenda
+- American Airlines Center
+- GOP
+- House
+- Los Angeles Rams
+- NFL
+- National Republican Campaign Committee
+- New England Patriots
+- Puck News
+- RNC
+- Republican National Committee
+- Reuters
+- San Francisco 49ers
+- Seattle Seahawks
+- The Independent
+- Truth Social
 ---
 
 President Donald Trump’s upcoming Republican midterm convention has been described as a trainwreck by political insiders, with concerns ranging from the exorbitant ticket prices to poor optics, according to a new report.

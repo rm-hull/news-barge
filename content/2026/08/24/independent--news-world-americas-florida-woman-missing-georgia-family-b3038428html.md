@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Atlanta
+- Florida
+- Georgia
+- Lanier Street NW
+- Pensacola
+people:
+- Felicia Pettiway
+- God
+- Katrice Simmons
+- Shaquansia Love
+- Simmons'
+organisations:
+- Atlanta Police Department
+- Facebook
+- Fox
 ---
 
 A Florida woman who went missing two months ago after moving to Atlanta to live with a man she met online has been found, her family has announced.

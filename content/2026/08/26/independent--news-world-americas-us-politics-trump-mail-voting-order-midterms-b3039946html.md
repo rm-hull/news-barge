@@ -13,6 +13,25 @@ categories:
 - UK
 - Law & Justice
 - Business & Entrepreneurship
+locations:
+- Boston
+- New York
+- U.S.
+- Washington
+- White House
+people:
+- Donald Trump
+- Indira Talwani
+- Lauren Bis
+- Letitia James
+organisations:
+- League of Women Voters
+- Postal Service
+- Senate
+- Supreme Court
+- Trump
+- U.S. Postal Service
+- USPS
 ---
 
 A federal judge on Wednesday cleared a key hurdle for President Donald Trump’s executive order restricting mail voting, despite Democratic state officials launching a fresh legal challenge as the midterm elections draw near.

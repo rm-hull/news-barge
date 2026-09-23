@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Coronation Street
+- Emmerdale
+people:
+- Bernice Blackstock
+- Corrie
+- Elliot
+- Jimmy King
+- Luca Hoyle
+- Nick Miles
+- Nicola Wheeler
+- Patrick Mower
+- Rodney Blackstock
+- Samantha Giles
+organisations:
+- '## Emmerdale'
+- A-Level
+- Coronation Street
+- Corrie
+- ITV
+- ITV1
+- Leeds United
+- Nottingham Forest
 ---
 
 *(Image: ITV)*

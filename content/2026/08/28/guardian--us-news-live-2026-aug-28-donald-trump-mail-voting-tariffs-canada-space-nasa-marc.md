@@ -11,6 +11,48 @@ image: https://i.guim.co.uk/img/media/7e3cc0ed157e944759e1c275f3086262451cf34e/2
 categories:
 - UK
 - News & Politics
+locations:
+- Cabin Creek
+- Canada
+- Idaho
+- Iran
+- Lake Ontario
+- Lake Ontario “Lake America
+- Sawtooth
+- US
+- Washington DC
+people:
+- Amy Klobuchar
+- Anna Betts Donald Trump
+- Brooke Rollins
+- Claude AI
+- Donald Trump
+- Indira Talwani
+- Mark Carney
+- Martin Heinrich
+- Michael Boren
+- Pete Hegseth
+- Rita Lin
+- Robert F Kennedy Jr
+- Ron Wyden
+organisations:
+- AI
+- Anthropic
+- Brookings Institution
+- Cabin Creek Fire
+- Confederation of Canada
+- Declaration of Independence of the United States of America
+- Guardian
+- Oval Office
+- Pentagon
+- Senate
+- Trump
+- US Department of Defense
+- US Forest Service
+- US Navy
+- US Postal Service
+- USPS
+- Washington Post
 ---
 
 A federal judge has halted, at least temporarily, attempts to implement Donald Trump’s executive order limiting mail voting.

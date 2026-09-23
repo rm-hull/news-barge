@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Arakan
+- Bangladesh
+- Bazar
+- Cox
+- Myanmar
+- Rakhine
+people:
+- Sayed Ullah
+organisations:
+- Arakan Army
+- International Court of Justice
+- United Nations
 ---
 
 Tens of thousands of Rohingya refugees from Myanmar living in dozens of camps in Bangladesh held a rally Tuesday to demand their safe return to their home state, nine years after they fled a government crackdown.

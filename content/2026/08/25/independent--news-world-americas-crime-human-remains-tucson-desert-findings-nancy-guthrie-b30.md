@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Arizona
+- Catalina Foothills
+- Pima County
+people:
+- Bradley Bartos
+- Chris Nanos
+- Greg Hess
+- John Miller
+- Molly Kaplan
+- Nancy Guthrie
+- Savannah Guthrie
+organisations:
+- CNN
+- Fox News Digital
+- Law Enforcement and Intelligence
+- National Association of Counties
+- Pima County Sheriff’s Department
+- Texas State University
+- University of Arizona
 ---
 
 Nearly seven months after she vanished, the mystery of Nancy’s Guthrie’s disappearance continues.

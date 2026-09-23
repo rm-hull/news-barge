@@ -12,6 +12,13 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations: []
+people: []
+organisations:
+- AI
+- GF
+- GlobalFoundries
+- MIPS
 ---
 
 *MIPS is a Business Reporter client*

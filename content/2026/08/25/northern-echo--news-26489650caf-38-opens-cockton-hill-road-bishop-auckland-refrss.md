@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- Bishop Auckland
+- Cockton Hill Road
+- DL14 6AH
+- Darlington
+people: []
+organisations:
+- Café 38
 ---
 
 *(Image: GOOGLE MAPS)*

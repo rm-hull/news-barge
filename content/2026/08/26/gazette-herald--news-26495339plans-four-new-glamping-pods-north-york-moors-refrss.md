@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Cinder Track
+- Esk Valley Railway
+- Glen Esk
+- North York Moors
+- North York Moors National Park
+- River Esk
+- Ruswarp
+- Whitby
+people: []
+organisations:
+- NYC
+- North York Moors National Park Authority
+- Ruswarp Glamping Site Plan
 ---
 
 A SET of new remotely managed glamping pods could be built in the North York Moors National Park.

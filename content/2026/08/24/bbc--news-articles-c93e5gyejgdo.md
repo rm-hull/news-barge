@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Akwa Ibom
+- Cameroon
+- Lagos
+- Nigeria
+- Ogun
+- Thailand
+people:
+- Esther Ogunmabo
+- Femi Babafemi
+- Mohamed Marwa
+organisations:
+- BBC News Africa
+- Esther Ogunmabo
+- NDLEA
+- National Drug Law Enforcement Agency
+- Ndlea
 ---
 
 ![101 year old Nigerian Esther Ogunmabo alongside her NDLEA offence board after she was arrested for selling cannabis](https://ichef.bbci.co.uk/ace/standard/691/cpsprodpb/ba59/live/9b57c1c0-9fb6-11f1-b703-13ae65ccf6b5.jpg)

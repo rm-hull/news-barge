@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Alder Hey
+- Alton Towers
+- Liverpool
+- UK
+- Warrington
+people:
+- Alder Hey
+- Becci Nichols
+- Javanji
+- Lillie Yale
+- Ms Nicholls
+- Ms Nichols
+- Salim Jivanji
+organisations:
+- ASD
+- Alder Hey
+- Alder Hey Children’s NHS Foundation Trust
+- Lillie
+- Memosorb
+- Ms Nichols
+- PA
+- Press Association
 ---
 
 A teenage girl has become the first UK patient to receive a dissolvable implant designed to close a hole in her heart roughly the size of a 10 pence piece.

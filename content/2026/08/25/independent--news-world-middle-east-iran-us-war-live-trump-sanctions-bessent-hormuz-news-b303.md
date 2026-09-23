@@ -12,6 +12,39 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- China
+- Iran
+- Singapore
+- Strait of Hormuz
+- Switzerland
+- Syria
+- Tehran
+- UAE
+- US
+- Washington
+people:
+- Ali Madanizadeh
+- Barron Trump
+- Donald Trump
+- Mohammad Hossein Shamkhani
+- Pete Hegseth
+- Scott Bessent
+organisations:
+- Barron Trump
+- Channel 3
+- Euronews
+- Hay'at Tahrir al-Sham
+- Ipsos
+- Islamic Revolutionary Guard Corps
+- Reuters
+- Reuters/Ipsos
+- Secret Service
+- 'US Sanctions'' ## China'
+- US Treasury
+- Wellbred Capital
+- Wellbred’s
+- al-Nusrah Front
 ---
 
 Iran has vowed retaliation against the US after president Donald Trump unveiled his “economic D-Day” sanctions against Tehran.

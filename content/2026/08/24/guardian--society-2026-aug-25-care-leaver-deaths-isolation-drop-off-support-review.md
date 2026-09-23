@@ -12,6 +12,14 @@ image: https://i.guim.co.uk/img/media/79fb17098ba251d6caa5157ee2cfd4b59fe2d9e9/1
 categories:
 - UK
 - News & Politics
+locations:
+- England
+people:
+- Ashley John-Baptiste
+- Clare Chamberlain
+- David
+- Josh MacAlister
+organisations: []
 ---
 
 Profound isolation contributed to the deaths of more than 100 care leavers in England in a year, with a dramatic drop-off in support from social services at 18 leading to catastrophic consequences, a review has found.

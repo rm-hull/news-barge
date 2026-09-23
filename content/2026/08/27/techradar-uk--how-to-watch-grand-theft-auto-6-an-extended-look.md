@@ -10,6 +10,29 @@ image: https://cdn.mos.cms.futurecdn.net/vnqWwfMB57mcwYz93X6ANC-2560-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- China
+- Russia
+- UK
+- US
+people:
+- Cyberleek
+- Jason
+- Krishi
+- Leonida
+organisations:
+- 5am AEST
+- Future Publishing
+- Krishi
+- Netflix
+- NordVPN
+- PS5
+- Rockstar Games
+- Rockstar Games'
+- TechRadar
+- Techopedia
+- The Tech Report
+- Tom's Guide
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/vnqWwfMB57mcwYz93X6ANC.jpg) 

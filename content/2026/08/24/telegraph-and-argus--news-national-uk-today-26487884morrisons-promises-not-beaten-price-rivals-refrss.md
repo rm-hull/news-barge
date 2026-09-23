@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Market Street
+- Morrisons’ Market Street
+- UK
+people:
+- Alex Paver
+organisations:
+- Aldi
+- Asda
+- Getty Images
+- Lidl
+- Morrisons
+- Sainsbury’s
+- Tesco
+- Worldpanel
 ---
 
 *(Image: Getty Images)*

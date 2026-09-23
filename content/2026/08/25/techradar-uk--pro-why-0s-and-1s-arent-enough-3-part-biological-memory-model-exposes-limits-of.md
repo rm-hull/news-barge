@@ -11,6 +11,16 @@ image: https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg
 categories:
 - Technology & Software
 - Science
+locations: []
+people:
+- Chaim Gilon
+- Gerard Marx
+organisations:
+- Efosa
+- Google News
+- Hebrew University of Jerusalem
+- MX Biotech Ltd.
+- TechRadar Pro
 ---
 
 ![A robot standing thoughtfully in front of a giant digital display with code on it](https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL.jpg) 

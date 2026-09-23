@@ -13,6 +13,22 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- High Streets
+- North Yorkshire
+people:
+- Tom Gordon
+organisations:
+- Harrogate
+- Knaresborough MP
+- Lib Dem
+- Liberal Democrats’
+- NIC
+- National Insurance Contribution
+- North Yorkshire Council
+- ONS
+- Office for National Statistics
 ---
 
 # Shock business closure figures prompts plea by Harrogate MP to bring back 'hustle and bustle' to high street

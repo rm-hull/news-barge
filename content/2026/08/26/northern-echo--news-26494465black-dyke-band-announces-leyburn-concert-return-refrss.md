@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Durham
+- Glastonbury
+- Leyburn
+- North Yorkshire
+- Royal Albert Hall
+- Tennants
+people:
+- Black Dyke
+- John O’Brien
+- Paul Freeman
+- Tennants
+organisations:
+- Black Dyke Band
+- North Yorkshire
+- Tennants
+- The Black Dyke Band
+- The Garden Rooms
+- Yorkshire Dales
 ---
 
 *(Image: The Black Dyke Band)*

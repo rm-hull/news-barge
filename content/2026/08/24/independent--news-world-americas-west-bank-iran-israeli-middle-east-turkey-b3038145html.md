@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Abu Duhur
+- Golan Heights
+- Idlib
+- Iran
+- Israel
+- Jordan
+- Middle East
+- Ohio
+- Oman
+- Qusra
+- Strait of Hormuz
+- Syria
+- Tehran
+- Turkey
+- U.S.
+- US
+- United States
+- Washington
+- West Bank
+people:
+- Asaad al-Shibani
+- Esmail Baghaei
+- Loui Ridi
+- Mike Huckabee
+organisations:
+- Foreign Ministry
+- SANA
+- U.S. Sanctions
 ---
 
 Iran warned that U.S. sanctions set to be announced would not bring peace to the region.

@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Derby
+- England
+- London
+- Lord's
+- Noosa
+- Pakistan
+- Wellington
+people:
+- Ben Duckett
+- Ben Stokes
+- Brydon Carse
+- Gus Atkinson
+- Harry Brook
+- Jacob Bethell
+- Joe Root
+- Josh Tongue
+- Matthew Potts
+- Rob Key
+- Stephen Fleming
+organisations:
+- Cricket Regulator
+- Derbyshire
+- Durham
+- ECB
+- England and Wales Cricket Board
 ---
 
 ![England cricketer Brydon Carse](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7206/live/0f2cf580-9f2f-11f1-ba42-39f12a57ee10.jpg)

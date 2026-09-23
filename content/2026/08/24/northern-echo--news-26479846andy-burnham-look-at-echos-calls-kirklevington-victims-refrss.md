@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- County Durham
+- Esk
+- Harrison
+- Kirklevington Detention Centre
+- Newcastle
+- North East
+- Wear Valley
+- Yarm
+- __Tees
+people:
+- Andy Burnham
+- Douglas Harrison
+- Kim McGuinness
+- Maya
+- Medomsley
+- Scott Heppell
+- Steve Chattertron
+organisations:
+- CPS
+- Cleveland Police
+- DCI
+- Darlington NHS Foundation Trust
+- HMP Kirklevington
+- Home Office
+- Ministry of Justice
+- Oakwood Solicitors
+- PA Wire
+- TEWV
+- THE NORTHERN ECHO
+- The Northern Echo
 ---
 
 Andy Burnham said he will "look at" The Northern Echo's call for compensation for victims of a "torture camp" as a vow to explore our manifesto.

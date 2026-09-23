@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Byers Green
+- Darlington
+- Kirk Errington Community Centre
+- Middlestone Moor
+- North Yorkshire
+- Spennymoor
+- Tudhoe Community Centre
+- Tudhope
+people:
+- Jacki Stonehouse
+- Lewis Hobson
+- Mary Pease
+- Nocciola the Drawer
+- Olga Ayre
+- Sarah Carlton
+organisations:
+- Byers Green Primary School
+- Durham County Council
+- Kind Street Primary School
+- Kirk Merrington Primary School
+- Lonely Tower Film and Media
+- Middlestone Moor Primary School
+- North East Combined Authority
+- Spennymoor Town Council
+- Spennymoor Youth and Community Association
+- Tudhoe Colliery Primary School
 ---
 
 Bus shelters across Spennymoor have been given a colourful makeover as part of a community project celebrating local history, heritage and community spirit.

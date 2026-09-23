@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- China
+- Hormuz
+- Iran
+- Islamic Republic
+- Israel
+- Normandy
+- Tehran
+- Turkey
+- US
+- United Arab Emirates
+- United States
+- Washington
+people:
+- Ali Abdollahi
+- Ali Khamenei
+- Andrew Miller
+- Donald Trump
+- Maj Gen
+- Pete Hegseth
+- Scott Bessent
+- Sina Toossi
+- Xi Jinping
+organisations:
+- Bessent
+- Center for American Progress
+- Center for International Policy
 ---
 
 The US has threatened to impose severe sanctions against any country or entity maintaining economic ties with Iran, hoping to achieve with economic measures what military means have so far failed to do.

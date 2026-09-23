@@ -11,6 +11,15 @@ image: https://cdn.mos.cms.futurecdn.net/JUrboXdNaRLYVSTeKsZxy8-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Craig Hale
+organisations:
+- Craig’s
+- Google News
+- ICANN
+- Link Freedom Group
+- TechRadar Pro
 ---
 
 ![The .ai domain name on a keyboard key](https://cdn.mos.cms.futurecdn.net/JUrboXdNaRLYVSTeKsZxy8.jpg) 

@@ -12,6 +12,21 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- AI
+- China
+- Guizhou
+people:
+- Jason Kelce
+- Rubin
+- Taylor Swift
+organisations:
+- EPA
+- Get Tom's Hardware
+- Huawei
+- IntelBrief
+- PJM Interconnection
+- Soufan Center
 ---
 
 ![a 'No Data Center!' sign at a protest](https://cdn.mos.cms.futurecdn.net/ZJHe5GD6PvvVnP72E7Miu5-320-80.png)

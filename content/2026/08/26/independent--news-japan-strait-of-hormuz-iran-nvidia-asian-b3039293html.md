@@ -14,6 +14,30 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Australia
+- Hong Kong
+- Iran
+- Japan
+- Oman
+- Pakistan
+- South Korea
+- Strait of Hormuz
+- U.S.
+- United States
+- Wall Street
+people:
+- Eric Schiffer
+- Masoud Pezeshkian
+- Mohsin Naqvi
+- Stan Choe
+- Yuri Kageyama
+organisations:
+- AI
+- Nvidia
+- Patriarch Organization
+- Shanghai Composite
+- Treasury
 ---
 
 Asian shares mostly rose in early Wednesday trading, as investors kept an eye on the ongoing talks over reopening the Strait of Hormuz, which remains largely shut down because of the war in Iran.

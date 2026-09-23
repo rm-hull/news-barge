@@ -11,6 +11,46 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8692/live/d3439a
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Balkans
+- Belgrade
+- Borders
+- Bosnia
+- Europe
+- German-controlled Independent State of Croatia
+- Greater Serbia
+- Hague
+- Kosovo
+- Macedonia
+- Republika Srpska
+- Russia
+- Sarajevo Mladić
+- Srebrenica
+- Yugoslavia
+people:
+- Ana
+- Biljana Plavsic
+- Fikret Alic
+- Gen Mladić
+- General Mladić
+- God
+- Hitler
+- Kofi Annan
+- Radovan Karadžić
+- Ratko Mladic
+- Ratko Mladić
+- Slobodan Milošević
+- Tito
+organisations:
+- European Union
+- International Court
+- International Court of Justice
+- Nato
+- Ratko Mladić
+- Third Reich
+- UN
+- United Nations
 ---
 
 ![Ratko Mladić is photographed in a close up shot looking away from the camera](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8692/live/d3439a40-388a-11ef-bbe0-29f79e992ddd.jpg)

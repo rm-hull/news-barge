@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Frankfurt Airport
+- Germany
+people: []
+organisations:
+- BBC
+- Frankfurt Airport
+- Frankfurt Airport.
+- Frankfurt Public Health Department
+- Fraport
+- Lufthansa
+- Robert Koch Institute
+- WHO
+- World Health Organization
 ---
 
 ![A view of a taxiing area at Frankfurt Airport. A Lufthansa plane sits on the tarmac.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/33b1/live/35fbfab0-a139-11f1-9311-09d4e1fc9016.jpg)

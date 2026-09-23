@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Los Angeles Superior Court
+people:
+- James Densley
+- Kevin C. Brazile
+- Stacy Tru
+- Upinder S. Kalra
+organisations:
+- Attorney General's Office
+- California State Lottery Commission
+- Los Angeles Superior Court
+- Multi-State Lottery Association
+- Tru
 ---
 
 The California State Lottery Commission has been awarded judgment along with more than $150,000 in attorneys' fees and costs following the dismissal of a lawsuit brought by a man who claimed he was improperly denied a $750,000 payout on a winning high-stakes poker ticket, according to court documents obtained on Friday.

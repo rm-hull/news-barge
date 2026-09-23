@@ -14,6 +14,37 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Covid
+- Darlington However
+- Durham
+- Earth
+- Holwick Lodge
+- Middleton-in-Teesdale
+- Strathmore Arms
+- Teesdale
+- Well Head
+people:
+- Cosmo Bonsor
+- Edward VII
+- Helen Osbourne
+- Holwick
+- Joe Cogdon
+- Joseph Nickerson
+- Lord Strathmore
+- Lord William Whitelaw
+- Mother
+- Prince Charles
+- Thomas Lee
+organisations:
+- Bank of England
+- Holwick Another
+- Holwick Scars
+- Northern Perspectives
+- Northern Perspectives Northern Perspectives
+- Strathmore Arms
+- The Strathmore Arms
+- Wimbledon
 ---
 
 The Holwick Scars are one of upper Teesdale’s most prominent geological features, beloved of photographers and here our regular contributor, Northern Perspectives, uses his drone to capture the drama of the cliffs.

@@ -12,6 +12,22 @@ categories:
 - Europe
 - News & Politics
 - Film & TV
+locations:
+- Bir Hospital
+- Dhading
+- Kathmandu
+- Kathmandu-Kerung
+- Nepal
+- Nuwakot
+- Rasuwa
+- Rasuwagadhi
+- Syabrubesi
+- Tibet
+- Timure
+- Trishuli
+people: []
+organisations:
+- Nepal Red Cross
 ---
 
 Footage filmed by the Nepal Red Cross shows floodwaters surging through Nepal’s Rasuwa district on 26 August, after an ice and rock avalanche blocked a tributary near the border with Tibet. The natural dam later burst, sending a torrent of water and debris down the Trishuli valley.

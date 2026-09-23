@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Glastonbury
+- Leyburn
+- North Yorkshire
+- Royal Albert Hall
+- Tennants
+people:
+- Black Dyke
+- John O’Brien
+organisations:
+- Black Dyke Band
+- North Yorkshire
+- Tennants
+- The Garden Rooms
 ---
 
 *(Image: The Black Dyke Band)*

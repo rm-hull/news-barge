@@ -13,6 +13,15 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Stoke-on-Trent
+- UK
+- US
+people:
+- Goodwin
+organisations:
+- Goodwin
+- London Stock Exchange
 ---
 
 Profits have more than doubled at defence supplier Goodwin as it was buoyed by a global increase in military spending.

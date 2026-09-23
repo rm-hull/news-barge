@@ -12,6 +12,66 @@ image: https://i.guim.co.uk/img/media/9a6f8fa4a0f7dbfac1448d1bddefca433188a2e4/9
 categories:
 - UK
 - News & Politics
+locations:
+- Connecticut
+- Empire Wind
+- Illinois
+- Long Island
+- Long Island City
+- Maine
+- Massachusetts
+- Montauk Point
+- New Jersey
+- New York
+- New York Bight
+- New York City
+- Queens
+- Revolution Wind
+- Rhode Island
+- Sandy
+- Sunrise Wind
+- Texas
+- US
+- United Kingdom
+- Vineyard Wind
+- Virginia
+people:
+- '## Trump'
+- Andrew Cuomo
+- Chris Erickson
+- Chrissy Lynch
+- Donald Trump
+- Joe Biden
+- John Podesta
+- Lara Skinner
+- Mike Fishman
+- Ryan McElroen
+organisations:
+- BloombergNEF
+- CJNRC
+- Climate Jobs Massachusetts
+- Climate Jobs National Resource Center
+- Climate Jobs New York
+- Coastal Virginia Offshore Wind
+- Cornell
+- Cornell’s Climate Jobs Institute
+- Electrical Industry Training Center
+- Empire Wind
+- Guardian
+- IBEW Local 3
+- IRA
+- International Brotherhood of Electrical Workers
+- Massachusetts AFL-CIO
+- Massachusetts’ Vineyard Wind
+- McElroen
+- New York City Central Labor Council
+- Outrider Foundation
+- Revolution Wind
+- SEIU
+- Service Employees International Union
+- Sunrise
+- Trump
+- Vineyard Wind
 ---
 
 Ryan McElroen had spent years repairing the New York City subway underground when he got the opportunity to work in the middle of the ocean.

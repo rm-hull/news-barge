@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Boston.
+- Duxbury
+- Lindsay Clancy
+- Massachusetts
+- UK
+people:
+- '## Clancy'
+- '## Judge'
+- Allison Ozga
+- Ana Faguy
+- Avram Mack
+- Brandon Drenon
+- Callan
+- Cora
+- Dawson
+- Jennifer Tufts
+- Kevin Reddington
+- Kirk Heilbrun
+- Lindsay Clancy
+- Patrick Clancy
+- Paula Musgrove
+- Susan Clancy
+- Tufts'
+- William Sullivan
+organisations:
+- American Psychiatric Association
+- Befrienders Worldwide
 ---
 
 Watch: What is postpartum psychosis and why is it central in the Lindsay Clancy trial?

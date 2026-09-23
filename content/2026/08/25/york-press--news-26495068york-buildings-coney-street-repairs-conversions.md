@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Home, Garden & DIY
+locations:
+- Coney Street
+- River Ouse
+- St Helen’s Square
+- YOUR
+- York
+people: []
+organisations:
+- City of York Council
+- Federal
+- Helmsley Group
+- Lanpro Services Ltd
+- Public Notice Portal
+- Space NK
 ---
 
 *(Image: LDRS)*

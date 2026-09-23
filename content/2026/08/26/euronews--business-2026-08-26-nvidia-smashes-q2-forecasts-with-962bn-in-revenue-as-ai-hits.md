@@ -15,6 +15,48 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Beijing
+- China
+- Davos
+- Frankfurt
+- Germany
+- Hong Kong
+- Jackson Hole
+- Japan
+- Ohio
+- Pike County
+- Switzerland
+- US
+- Wall Street
+- Washington
+people:
+- André-Marie Ampère
+- Dario Amodei
+- David Blackwell
+- Grace Hopper
+- Isabel Schnabel
+- Jensen Huang
+- Kevin Warsh
+- Vera Rubin
+organisations:
+- AI
+- Amazon
+- Ampere
+- Anthropic
+- Blackwell
+- ByteDance
+- ECB
+- European Central Bank
+- Fed
+- Federal Open Market Committee
+- Federal Reserve
+- Google
+- Microsoft
+- Nvidia
+- OpenAI
+- Tencent
+- Treasury
 ---
 
 ## The chipmaker's data centre revenue surged 117% to $89 billion as it guided next quarter revenue to $108 billion, both above Wall Street expectations, without counting sales to China.

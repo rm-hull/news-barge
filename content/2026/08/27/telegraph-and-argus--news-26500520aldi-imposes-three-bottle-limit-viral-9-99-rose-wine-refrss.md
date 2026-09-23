@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Aldi
+people:
+- Costa
+- Sam Caporn
+- Wine
+organisations:
+- Aldi
+- DWP State Pension
+- Le Grand Poulet
+- Le Grand Poulet Rosé Magnum
+- Le Petit Poulet Rosé
+- Maple Hazel
+- Merlot & Syrah
+- St Michael
 ---
 
 Aldi shoppers will need to move quickly to get their hands on a viral rosé magnum being slashed to under £10 – with the supermarket imposing a strict limit on how many bottles customers can buy.

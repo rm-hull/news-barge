@@ -13,6 +13,50 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bandar Abbas
+- Belgium
+- Bunol
+- Canada
+- Cologne
+- Elm
+- Espiritu Santo Hospital
+- Europe
+- Iran
+- London
+- Los Angeles.
+- Midland
+- Nepal
+- Nuwakot
+- Peru
+- Rasova
+- Romania.
+- Santa Rosa de Lima
+- Strait of Hormuz
+- Tehran
+- Texas.
+- Tokyo
+- Trishuli River
+- Valencia
+people:
+- Adam Mosseri
+- Dolly Parton
+- Gregg Donovan
+- Imam Reza
+- Luis Garicano
+- Mark Carney
+- Piet Mondrian
+- Tim Curry
+- Yayoi Kusama
+organisations:
+- Christie’s
+- ECB
+- Euronews
+- European Commission
+- Garicano
+- Instagram
+- Rhine Group
+- Swiss Army
 ---
 
 Euronews speaks to Rhine Group's Executive Director Luis Garicano about the group’s mission, members and why now, as calls grow for the European Commission to implement the Draghi Report faster. The launch of the platform also marks the return of the former ECB central banker to the forefront of Europe’s economic debate. Garicano tells Euronews the goal remains the same: to stop a trajectory of slow decline. **“We want Europe to be an innovation superpower.”**

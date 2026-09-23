@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Beverley
+- East Yorkshire
+- York Road
+people: []
+organisations:
+- Ambulance Service
+- Humberside Fire and Rescue Service
+- The Press
+- Yorkshire Ambulance Service
 ---
 
 *(Image: Google Maps)*

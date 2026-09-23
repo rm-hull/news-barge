@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Cardiff
+- East Midlands
+- Edinburgh
+- England
+- London
+- Manchester
+- North West
+- Scotland
+- South East
+- South West
+- UK
+- Wales
+people: []
+organisations:
+- Cardiff
+- Met Office
+- Wales
 ---
 
 Bank Holiday weekend could be a wash-out as heavy rain and showers are forecast across the UK.

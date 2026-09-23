@@ -13,6 +13,23 @@ categories:
 - Local
 - York
 - History
+locations:
+- Brotherton Bridge
+- Knottingley
+- Leeds
+- Micklefield
+- Moorthorpe
+- Network Rail
+- River Aire
+- Selby
+- Sherburn-in-Elmet
+- York
+- Yorkshire
+people:
+- Karen Duffy
+organisations:
+- Network Rail
+- Northern and TransPennine Express
 ---
 
 ## Passenger disruption expected as rail bridge in Yorkshire undergoes £800,000 upgrade

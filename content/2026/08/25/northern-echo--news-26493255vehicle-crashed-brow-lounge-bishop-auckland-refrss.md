@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Bishop Auckland
+- Bishop Auckland Saks
+- Darlington
+- NORTHERN ECHO
+- Newgate Street
+people:
+- SARAH CALDECOTT
+- Sian
+organisations:
+- Brow Lounge
+- Crimestoppers
+- Durham Constabulary
+- Facebook
+- Saks
+- THE NORTHERN ECHO
+- The Brow Lounge
 ---
 
 *(Image: SARAH CALDECOTT)*

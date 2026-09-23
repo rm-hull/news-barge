@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - History
 - Travel
+locations:
+- Ampleforth
+- Helmsley
+- Howardian Hills
+- Leyburn
+- Market Square
+- Newburgh Priory
+- North Yorkshire
+- Oulston
+- TONY BARTHOLOMEW
+- UK
+people:
+- Ellie Hook
+- Helmsley
+- Libby Butler Jewellers
+organisations:
+- Heart of Helmsley
+- Helmsley Market Place
+- Howardian Hills National Landscape
+- Mayoral High Street Fund
+- TV Carolyn Frank
+- YNYCA
+- York and North Yorkshire Combined Authority
 ---
 
 A North Yorkshire town is preparing to welcome some of the world's top cyclists as a famous stage race returns, bringing national attention and a day of celebrations for residents and visitors alike.

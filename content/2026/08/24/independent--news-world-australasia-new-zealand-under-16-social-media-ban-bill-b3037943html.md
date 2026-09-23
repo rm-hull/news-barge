@@ -13,6 +13,19 @@ categories:
 - UK
 - Technology & Software
 - Society & Culture
+locations:
+- Australia
+- New Zealand
+people:
+- Christopher Luxon
+- Winston Peters
+organisations:
+- Alphabet
+- Instagram
+- Meta
+- New Zealand First
+- TikTok
+- YouTube
 ---
 
 New Zealand was set to introduce legislation proposing a ban on social media for children under the age of 16, prime minister Christopher Luxon announced on Monday.

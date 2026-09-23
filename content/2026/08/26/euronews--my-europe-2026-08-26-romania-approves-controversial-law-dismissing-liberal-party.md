@@ -13,6 +13,31 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bucharest
+- Romania
+- Timișoara
+people:
+- Dominic Fritz
+- Manfred Weber
+- Nicușor Dan
+- Ursula von der Leyen
+- Valérie Hayer
+organisations:
+- Alliance for the Union of Romanians
+- Constitutional Court
+- EPP
+- EU
+- European Commission
+- European People’s Party
+- Fritz’s Save Romania Union
+- National Liberal Party
+- National Recovery and Resilience Plan
+- PSD
+- Renew Europe
+- Senate
+- Socialists
+- USR
 ---
 
 ## Dominic Fritz’s removal has raised concerns over the rule of law, with both the EPP and Renew Europe calling for a change to the legislation. At stake for Romania is €770 million in EU funds.

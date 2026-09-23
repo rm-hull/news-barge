@@ -13,6 +13,91 @@ categories:
 - Technology & Software
 - Sports
 - Video Gaming
+locations:
+- Abu Dhabi
+- Australia
+- CA
+- Canada
+- Celtic Park
+- Ireland
+- London
+- Raiffeisen Arena
+- Scotland
+- UK
+- US
+- USA
+- canada
+people:
+- :** Doohan
+- :** Schutzenauer
+- :** Sinisalo
+- Adeniran
+- Adrian Back
+- Andrade
+- Balikwisha
+- Baur
+- Bello
+- Bhoys
+- Bogarde
+- Camilo Duran
+- Carter-Vickers
+- Celtic XI
+- Danek
+- Dibango
+- Dietmar Kühbauer
+- Donovan
+- Flecker
+- Forrest
+- Freckleton
+- Hassan
+- Hatate
+- Hogh
+- Horvath
+- Jorgensen
+- Kenny
+- Lang
+- Ljubicic
+- Martin O’Neill’s
+- Mbuyamba
+- McCowan
+- McGregor
+- Murray
+- Nygren
+- Osmand
+- Ralston
+- Scales
+- Schillinger
+- Schopf
+- Smakaj
+- Tierney
+- Tornich
+- Tounekti
+- Trusty
+- Usor
+- Verhaeghe
+- XI** Jungwirth
+- Yang
+organisations:
+- AU
+- Celtic Park
+- DAZN
+- DAZN**
+- Formula 1
+- FourFourTwo
+- Future Publishing
+- Hoops
+- LASK
+- NBA
+- Newsweek
+- Paramount
+- Red Bull
+- Stan Sport
+- TechRadar
+- UCL
+- UseNordVPNto
+- Walmart
+- World Soccer Magazine
+- Yahoo
 ---
 
 ![Camilo Duran of Celtic celebrates scoring his team’s second goal during the UEFA Champions League 2026/27 play-offs first leg match between Celtic and LASK at Celtic Park on August 19, 2026.](https://cdn.mos.cms.futurecdn.net/W5VpvT3xToSYbe4scXCvGH.png) 

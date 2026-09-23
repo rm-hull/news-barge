@@ -10,6 +10,20 @@ description: AI is writing the web
 image: https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Oxford
+people:
+- Christian Cawley
+organisations:
+- '## AI'
+- ChatGPT
+- Computer Weekly
+- ComputerActive
+- Google News
+- Linux Format
+- Matter Alpha
+- Pew Research Center
+- TechRadar Pro
 ---
 
 ![A robot's hand typing on a laptop keyboard](https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L.jpg) 

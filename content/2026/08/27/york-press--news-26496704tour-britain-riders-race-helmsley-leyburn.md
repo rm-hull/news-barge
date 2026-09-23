@@ -13,6 +13,25 @@ categories:
 - York
 - History
 - Sports
+locations:
+- Ampleforth
+- Howardian Hills
+- Leyburn
+- Market Square
+- Newburgh Priory
+- North Yorkshire
+- Oulston
+people:
+- '## Helmsley'
+- Carolyn Frank
+- Ellie Hook
+organisations:
+- Heart of Helmsley
+- Howardian Hills National Landscape
+- Libby Butler Jewellers
+- Mayoral High Street Fund
+- TONY BARTHOLOMEW
+- York and North Yorkshire Combined Authority
 ---
 
 ## Helmsley prepares to welcome Tour of Britain riders for penultimate stage

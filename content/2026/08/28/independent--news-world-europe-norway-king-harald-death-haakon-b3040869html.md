@@ -14,6 +14,50 @@ categories:
 - UK
 - History
 - Sports
+locations:
+- Afghanistan
+- Asker
+- Britain
+- Cambridge
+- Canada
+- Denmark
+- Europe
+- Harald
+- National Hospital
+- Norway
+- Oslo
+- Pakistan
+- Poland
+- Sweden
+- US
+- United States
+- White House
+people:
+- Allah
+- Anders Behring Breivik
+- Astrid
+- Catherine
+- God
+- Haakon VII
+- Haakon VIII
+- Harald V
+- Ingrid Alexandra
+- Jeffrey Epstein
+- King Harald
+- King Harald V
+- Margrethe
+- Marius Borg Høiby
+- Mette-Marit
+- Märtha Louise
+- Olav IV
+- Olav V
+- Prince Harald
+- Ragnhild
+- Sonja Haraldsen
+- Sverre Magnus
+organisations:
+- Norwegian Constitution
+- Oxford University
 ---
 
 Norway's King Harald V, who lived in exile in the United States as a child during the Nazi occupation of his country and rejected a series of European noblewomen to marry his school sweetheart, has died at the age of 89.

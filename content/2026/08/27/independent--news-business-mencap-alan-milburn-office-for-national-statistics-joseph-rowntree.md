@@ -11,6 +11,17 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations: []
+people:
+- Alan Milburn
+- Chris Goulden
+- Jon Sparkes
+- Sam Tims
+organisations:
+- Joseph Rowntree Foundation
+- Mencap
+- Office for National Statistics
+- Youth Futures Foundation
 ---
 
 The number of young people not in education, employment or training has fallen in recent months after going over one million earlier this year, official figures have shown.

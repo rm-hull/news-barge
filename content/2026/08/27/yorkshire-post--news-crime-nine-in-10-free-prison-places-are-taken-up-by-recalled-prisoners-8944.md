@@ -14,6 +14,23 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Bradford
+- Britain
+- East Riding
+- HMP Millsike
+- York
+people:
+- Andrew Harper
+- Andy Burnham
+- Nacro
+- PC Harper
+organisations:
+- Government
+- Ministry of Justice
+- Mitie
+- Nacro
+- The Yorkshire Post
 ---
 
 # Nine in 10 free prison places are taken up by recalled prisoners, figures reveal

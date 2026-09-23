@@ -14,6 +14,28 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Shopping & Deals
+locations:
+- China
+- Europe
+- Hong Kong
+- London
+- New York
+- UK
+- US
+people:
+- Dan Coatsworth
+- Donald Trump
+- Shein
+- Vinted
+organisations:
+- AJ Bell
+- EU
+- Goldman Sachs
+- IPO
+- JP Morgan
+- Morgan Stanley
+- Shein
+- Temu
 ---
 
 Online fast fashion retailer Shein could achieve a market valuation of up to $27 billion (£19.8 billion) when it makes its long-anticipated stock market debut in Hong Kong next week.

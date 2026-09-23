@@ -12,6 +12,11 @@ categories:
 - UK
 - News & Politics
 - Music
+locations: []
+people:
+- Brian Seaver
+- Dolly Parton
+organisations: []
 ---
 
 # Dolly Parton: The life of an iconic country singer

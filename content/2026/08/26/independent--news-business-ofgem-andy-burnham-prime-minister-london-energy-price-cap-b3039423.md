@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Britain
+- London
+- Middle East
+people:
+- Andy Burnham
+organisations:
+- Cornwall Insight
+- Ofgem
 ---
 
 Prime Minister Andy Burnham has said rising energy bills are “difficult” for people after Ofgem raised its price cap by 4% to a three-year high and analysts forecast a further 9% hike from January.

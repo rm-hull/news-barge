@@ -11,6 +11,12 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- York Sport Village
+people: []
+organisations:
+- University of York
+- York Sport Village
 ---
 
 Two York swimming pools are shut today (Monday).

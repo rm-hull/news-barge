@@ -14,6 +14,48 @@ categories:
 - News & Politics
 - Film & TV
 - Comedy & Entertainment
+locations:
+- At Home
+- Britain
+- Darlington
+- Fleet Street
+- Happy Valley
+- Hollywood
+- London
+- North East
+- Our Yorkshire Farm
+- Quiet County Durham
+- Shetland
+people:
+- Alice
+- Amanda Owen
+- Barbara Marten
+- Harry Salter
+- Ian Bartholomew
+- Jonathan
+- Julie Graham
+- Mary
+- Michael Elphick
+- Rita Salter
+- Snappy
+- Taggart
+- Ted Lasso
+- Tom Hardy
+- Tom Hollander
+- William
+organisations:
+- BBC One
+- Braithwaites
+- Darlington
+- Gosford Park
+- ITV
+- North East
+- Pirates of the Caribbean
+- The Bill, Casualty
+- The Bletchley Circle
+- The Night Manager
+- The White Lotus
+- White Lotus
 ---
 
 Thirty years after it ended, Harry remains one of Darlington’s most intriguing TV connections.

@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Sports
 - Food & Cooking
+locations:
+- Alps
+- Beaufort
+- Cantal
+- France
+- France.
+- Jura
+- Normandy
+- Poitou-Charentes
+people: []
+organisations:
+- Bleu d'Auvergne
+- Bleu du Vercors-Sassenage
+- Fourme d'Ambert
+- INAO
+- National Institute for Origin and Quality
 ---
 
 ![Beaufort cheese wheels stored in a cellar in eastern France. Archive photo](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/da02/live/80108910-a240-11f1-804a-af7f2afa0e85.jpg)

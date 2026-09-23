@@ -14,6 +14,47 @@ categories:
 - Science
 - Technology & Software
 - Health & Fitness
+locations:
+- Chicago
+- Dongfang Hospital
+- East China
+- Italy
+- Jiangsu
+- Lianyungang
+- Minneapolis
+- Netherlands
+- New York
+- Qi
+- Romania
+people:
+- Andrew Ahn
+- David Lyden
+- Faussone-Pellegrini
+- Helene Langevin
+- Laurentiu Popescu
+- Maiken Nedergaard
+- Melody Swartz
+- Neil Theise
+- Peter Friedl
+- Rebecca Wells
+- Samuel Collins
+- Wei-Bo Zhang
+organisations:
+- CSF
+- Carol Davila University of Medicine and Pharmacy
+- China Academy of Chinese Medical Sciences
+- Harvard University
+- Maria-Simonetta Faussone-Pellegrini
+- Microscopic Imaging Centre
+- New York University Grossman School of Medicine
+- Radboud University
+- US Center for Complementary and Integrative Health
+- University of Chicago
+- University of Florence
+- University of Pennsylvania
+- University of Rochester Medical Center
+- University of Vermont
+- Weill Cornell Medical College
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308205819.jpg?w=840)

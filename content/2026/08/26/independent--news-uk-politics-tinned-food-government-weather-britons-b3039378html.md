@@ -12,6 +12,28 @@ image: https://static.independent.co.uk/2026/08/26/08/2264662223..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- Kyiv
+- Paris
+- Russia
+- St Sophia
+- UK
+- Ukraine
+people:
+- Akhil Patel
+- Andy Burnham
+- Clive Black
+- Sergei Lavrov
+organisations:
+- Cabinet Office
+- Financial Times
+- NFU
+- National Farmers Union
+- Scalp
+- Shore Capital
+- The Independent
+- The Telegraph
 ---
 
 The government will tell households to stock up on tinned food and bottled water to prepare for extreme weather or cyber attacks on the country, according to reports.

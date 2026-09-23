@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - History
 - Travel
+locations:
+- Kyiv
+- London
+- Paris
+- River Thames
+- Ukraine
+people:
+- Andy Burnham
+organisations:
+- Coalition of the Willing
+- Eiffel Tower
+- MBDA
+- SCALP
+- UK Houses of Parliament
 ---
 
 The UK Houses of Parliament and the Eiffel Tower in Paris are illuminated in blue and yellow to mark Ukraine's 35th Independence Day.

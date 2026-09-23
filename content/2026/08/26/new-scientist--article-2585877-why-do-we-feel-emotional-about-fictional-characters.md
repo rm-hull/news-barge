@@ -14,6 +14,24 @@ categories:
 - Arts & Culture
 - Books & Literature
 - Society & Culture
+locations:
+- California
+- Hampshire
+- North Yorkshire
+- San Diego
+- Tadley
+- UK
+- US
+people:
+- AI
+- Angus Fletcher
+- Anil Seth
+- Chapel Haddlesey
+- Fiona Lyczynska
+- Jean Whitney
+- Richard Hind
+- Socrates
+organisations: []
 ---
 
 **Why do humans so readily adopt fiction into our lives, and feel emotion about characters as though they were someone close to us in real life?**

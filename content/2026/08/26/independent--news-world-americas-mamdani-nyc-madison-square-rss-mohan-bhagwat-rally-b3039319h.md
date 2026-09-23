@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- India
+- Kashmir
+- Manhattan
+- New York City
+- US
+people:
+- Mohan Bhagwat
+- Narendra Modi
+- Zohran Mamdani
+organisations:
+- American Hindus for Engagement and Dialogue
+- BJP
+- Bharatiya Janata Party
+- RSS
+- Rashtriya Swayamsevak Sangh
+- US Commission on International Religious Freedom
+- United Nations
 ---
 
 New York City mayor Zohran Mamdani said on Tuesday he did not support an upcoming event in his city featuring the leader of the Hindu nationalist group that is the ideological parent of India's ruling Bharatiya Janata Party (BJP).

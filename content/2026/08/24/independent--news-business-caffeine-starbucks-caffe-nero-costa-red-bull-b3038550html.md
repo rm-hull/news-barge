@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- Caffe Nero
+- Costa
+- Greggs
+people:
+- Costa
+- Jessica Carson
+organisations:
+- Caffe Nero
+- Costa Coffee
+- Greggs
+- Pret A Manger
+- Starbucks
 ---
 
 Coffee drinkers may be getting more or less caffeine in their drinks than they anticipated, with levels varying “wildly” between popular high street chains, a new study shows.

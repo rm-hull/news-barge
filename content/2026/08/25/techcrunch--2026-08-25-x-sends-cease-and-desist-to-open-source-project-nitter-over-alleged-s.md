@@ -12,6 +12,20 @@ description: X has sent cease-and-desist letters to Nitter, the open source proj
 image: https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?resize=1200,675
 categories:
 - Technology & Software
+locations:
+- Nitter
+people:
+- Nitter
+- Zedeus
+organisations:
+- API
+- GitHub
+- Meta
+- Nitter
+- Nitter.net
+- Nitter’s
+- TechCrunch
+- X Corp
 ---
 
 Nitter, an open source project that allowed people to read X posts without logging into or even opening the X app, has received cease-and-desist letters from X demanding that it shut down. The news was shared via a brief message posted to the project’s website, and follows X’s earlier attempts to knock Nitter offline by technical means.

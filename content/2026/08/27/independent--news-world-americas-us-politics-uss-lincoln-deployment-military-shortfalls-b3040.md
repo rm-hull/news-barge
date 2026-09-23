@@ -11,6 +11,38 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Abraham Lincoln
+- Iran
+- Israel
+- Japan
+- Middle East
+- Pacific
+- Soviet Union
+- Strait of Hormuz
+- U.S.
+- United States
+- Washington
+people:
+- Abraham Lincoln
+- Donald Trump
+- George Washington
+- John S
+- McCain
+- Monica Duffy Toft
+- Sidita Kushi
+organisations:
+- Center for Strategic Studies
+- Department of Defense
+- Marines
+- Navy
+- The Conversation
+- The Fletcher School
+- Tufts University
+- U.S. Army
+- U.S. Government Accountability Office
+- USS Fitzgerald
+- USS George Washington
 ---
 
 Reports from the USS Abraham Lincoln describe a crew running on almost no sleep and suffering mental strain.

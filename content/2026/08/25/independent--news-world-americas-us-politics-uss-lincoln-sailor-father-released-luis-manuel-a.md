@@ -11,6 +11,31 @@ image: https://static.independent.co.uk/2026/08/25/21/EEUU-MARINERO-PADRE_ARREST
 categories:
 - News & Politics
 - UK
+locations:
+- Florida
+- Iran
+- Key West
+- Lincoln
+- Miami
+- Middle East
+- Nicaragua
+- U.S
+- U.S.
+- United States
+people:
+- Abraham Lincoln
+- Argelia Aviles
+- Donald Trump
+- Joshua Aviles
+- Luis Manuel Aviles
+- Margaret Stock
+organisations:
+- DHS
+- Department of Homeland Security
+- Department of Justice
+- Facebook
+- U.S. Navy
+- USS
 ---
 
 The father of a sailor onboard the troubled USS Abraham Lincoln has been released from ICE custody after his arrest sparked intense backlash.

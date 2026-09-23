@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Beverley
+- East Park
+- East Riding
+- Hornsea
+- Hull
+- Skipsea
+- UK
+- Withernsea
+people:
+- Anne Handley
+- Beverley Westwood
+- Zac Williams
+organisations:
+- Dirt Factory
+- East Riding of Yorkshire Council
 ---
 
 *(Image: Zac Williams/SWpix.com)*

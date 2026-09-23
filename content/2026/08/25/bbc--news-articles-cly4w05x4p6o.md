@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Chafford Hundred
+- Essex
+- Southampton
+people:
+- Donna Jones
+- Henry Nowak
+- Vickrum Digwa
+organisations:
+- HMICFRS
+- Hampshire Police
+- Hampshire Police and Crime
+- Independent Office for Police Conduct
+- Inspectorate of Constabulary and Fire & Rescue Service
+- University of Southampton
 ---
 
 ![A young man with short dark hair is smiling to camera. Balloons with 18 on them can be seen in the background](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/2571/live/8b2d0a90-a087-11f1-a291-b542ee92de7c.jpg)

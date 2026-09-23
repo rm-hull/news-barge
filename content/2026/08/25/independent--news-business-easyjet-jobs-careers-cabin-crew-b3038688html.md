@@ -14,6 +14,26 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 - Technology & Software
+locations:
+- Europe
+- UK
+people:
+- Andrew Hampson
+- Andrew Western
+- Castlelake
+- Elane Vass
+- Francesca Hicks
+- Mehdi Lamrani
+- Michael Brown
+- Pilar Roman Palomino
+- Stelios Haji-Ioannou
+- Stephen Hester
+organisations:
+- Apollo
+- British Airways
+- EasyJet
+- London Gatwick Airport
+- easyJet
 ---
 
 A new campaign has been launched by easyJet as the airline seeks to recruit more mature workers for its cabin crew positions.

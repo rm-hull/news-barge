@@ -13,6 +13,42 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Derby
+- Durham
+- England
+- Headingley
+- Leeds
+- Lord's
+- New Zealand
+- Pakistan
+people:
+- '## Cox'
+- :** Smith
+- Babar Azam
+- Ben Duckett
+- Brydon Carse
+- Dan Lawrence
+- Emilio Gay
+- Gus Atkinson
+- Harry Brook
+- Imam-ul-Haq
+- Jacob Bethell
+- Jamie Smith
+- Joe Root
+- Jordan Cox
+- Khurram Shahzad
+- Lord
+- Mohammad Ali
+- Muhammad Abbas
+- Muhammad Rizwan
+- Ollie Robinson
+- Salman Agha
+- Salman Ali Agha
+- Shan Masood
+organisations:
+- England
+- Gloucestershire
 ---
 
 Highlights: England show fight after poor start against Pakistan on day one

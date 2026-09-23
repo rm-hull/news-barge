@@ -13,6 +13,26 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford
+- Manchester Road
+- The Woodman Inn
+- West Yorkshire
+- Wibsey
+people:
+- Jason Mark Townend
+organisations:
+- '## Full'
+- A Reform UK Bradford
+- Bradford Council
+- Bradford Police
+- Crimestoppers
+- Newsquest
+- Odsal Ward
+- Reform UK
+- Telegraph & Argus
+- West Yorkshire Police
+- What Reform UK
 ---
 
 *(Image: Newsquest)*

@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Iran
+- Strait of Hormuz
+- U.S.
+- White House
+people:
+- Davis Ingle
+- Harry Enten
+- Jonathan Swan
+- Karoline Leavitt
+- Laura Coates Live
+- Maggie Haberman
+- Trump
+organisations:
+- CNN
+- Congress
+- MSNOW
+- New York Times
+- The Independent
+- Trump
 ---
 
 The White House is not a “happy environment” as President Trump’s frustration with the Iran War grows, one reporter has claimed.

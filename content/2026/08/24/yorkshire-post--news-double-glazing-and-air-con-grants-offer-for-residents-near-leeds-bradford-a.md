@@ -14,6 +14,21 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Leeds Bradford Airport
+- UK
+- Yorkshire
+people:
+- Ian Coatman
+- Vincent Hodder
+organisations:
+- Aena
+- GALBA
+- Gerard Binks
+- Group for Action on Leeds Bradford Airport
+- InfraBridge
+- Leeds Bradford Airport
+- Quota Count System LBA
 ---
 
 # Double glazing and air con grants offer for residents near Leeds Bradford Airport

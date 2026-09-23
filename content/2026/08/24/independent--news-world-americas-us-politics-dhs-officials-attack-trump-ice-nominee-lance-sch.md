@@ -12,6 +12,39 @@ image: https://static.independent.co.uk/2026/06/27/20/09/Screenshot-2026-06-27-a
 categories:
 - News & Politics
 - UK
+locations:
+- Kentucky
+- Minneapolis
+- Oklahoma
+- U.S.
+- White House
+people:
+- Alex Pretti
+- Barack Obama
+- Dave Veturella
+- Donald Trump
+- Lance Schroyer
+- Markwayne Mullin
+- Rand Paul
+- Renee Good
+- Sarah Saldaña
+- Stephen Miller
+- Tom Homan
+- Venturella
+organisations:
+- CBS News
+- Congressional
+- DHS
+- Department of Homeland Security
+- Homeland Security
+- ICE
+- Immigration and Customs Enforcement
+- Marine Corps
+- Politico
+- Senate
+- The Independent
+- WSJ
+- Wall Street Journal
 ---
 
 Department of Homeland Security officials are reportedly up in arms over President Donald Trump's controversial choice to lead Immigration and Customs Enforcement — as his nomination remains in limbo over the fatal shootings of two American protesters in Minneapolis.

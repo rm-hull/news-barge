@@ -12,6 +12,24 @@ description: If the MacBook Neo's tech is good enough for a laptop, it's good en
 image: https://cdn.mos.cms.futurecdn.net/bjWjZPsDKTbNTuuH842anX-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Matt Bolton
+organisations:
+- AI Siri
+- Apple TV
+- Creative Bloq
+- Dolby Vision
+- Edge
+- Google News
+- Home Tech
+- Mac
+- Matt
+- PC Gamer
+- RAM
+- T3
+- TechRadar
+- USB-C
 ---
 
 ![A split image, with a hand holding the Mac Mini M4 on the left, and a photo of the Apple TV 4K on the right](https://cdn.mos.cms.futurecdn.net/bjWjZPsDKTbNTuuH842anX.jpg) 

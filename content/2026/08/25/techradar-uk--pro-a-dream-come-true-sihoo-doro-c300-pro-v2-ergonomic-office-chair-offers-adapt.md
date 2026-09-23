@@ -11,6 +11,19 @@ image: https://cdn.mos.cms.futurecdn.net/QG2izsbjsxyxkSop6B3Pp6-2560-80.jpg
 categories:
 - Technology & Software
 - Careers & Productivity
+locations:
+- Sihoo
+- UK
+people:
+- Collin
+- Sihoo Doro
+- Wayne Williams
+organisations:
+- Amazon
+- PC
+- Sihoo
+- TechRadar Pro
+- Wayne Williams
 ---
 
 ![Sihoo Doro C300 Pro V2](https://cdn.mos.cms.futurecdn.net/QG2izsbjsxyxkSop6B3Pp6.jpg) 

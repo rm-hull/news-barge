@@ -13,6 +13,15 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Gyirong
+- Nepal
+- Tibet
+people: []
+organisations:
+- AFP
+- CCTV
+- US Geological Survey
 ---
 
 Surveillance footage posted on Chinese social media shows a wall of mud and debris rushing towards the port, with people running as parked vehicles were surrounded by floodwater.

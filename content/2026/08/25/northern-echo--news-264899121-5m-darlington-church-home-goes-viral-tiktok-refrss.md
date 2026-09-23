@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- County Durham
+- Darlington
+- Middleton One Row
+- North East
+- St Laurence
+people:
+- J.P Pritchett
+- TikToker
+organisations:
+- Airbnb
+- Darlington
+- North East According
+- Smith & Friends Estate Agents
+- St Laurence
 ---
 
 A mesmerising church has turned into a luxury property in Darlington - and now a lucky buyer can call it home.

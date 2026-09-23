@@ -12,6 +12,31 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Germany
+- Russia
+- U.S.
+people:
+- Claude Mythos
+- Francis Fukuyama
+- Luke James
+- Noam Chomsky
+- OpenAI
+- Tom
+organisations:
+- Anthropic
+- ChatGPT
+- Data Center Bandwagon
+- Facebook
+- Get Tom's Hardware
+- Google News
+- IBI
+- International Burke Institute
+- LinkedIn
+- OpenAI
+- Substack
+- Telegram
+- VPNs
 ---
 
 ![ChatGPT quality declines](https://cdn.mos.cms.futurecdn.net/cEbR4mtnyeS4CXrXrG7ZVi.jpg) 

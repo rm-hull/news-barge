@@ -14,6 +14,32 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Barnsley
+- Crimea
+- Donbas
+- Donetsk
+- Kyiv
+- Luhansk
+- Russia
+- Soviet Union
+- UK
+- Ukraine
+- Yorkshire
+people:
+- Aiden Minnis
+- Andy Burnham
+- Bradley Townsend
+- Dmitry Peskov
+- Vladimir Putin
+organisations:
+- Barnsley College
+- Foreign and Commonwealth Office
+- International Volunteers Association
+- Kyiv
+- Russian Army
+- The Yorkshire Post
+- Ukrainian Army
 ---
 
 # Bradley Townsend: 'normal Yorkshire lad' becomes first Briton to die fighting for Putin in Ukraine

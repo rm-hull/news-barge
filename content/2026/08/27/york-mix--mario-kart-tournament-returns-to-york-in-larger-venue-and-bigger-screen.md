@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- York
+people:
+- Mario Kart Live
+- Ryan Willis
+organisations:
+- Nintendo
+- Racers
+- York St John University
 ---
 
 The gaming tournament is back bigger and better in a brand new venue.

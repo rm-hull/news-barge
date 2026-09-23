@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Kremlin
+- Manezhnaya Square
+- Moscow
+- Russia
+- Serbia
+people:
+- '![Konovalova'
+- Dmitry Zakhvatov
+- Harley
+- Margarita Konovalova
+- Maria Alyokhina
+- Pavel Krisevich
+- Philipp Kozlov
+- Philippenzo
+- Pyotr Verzilov
+- Rita Flores
+- Vladimir Putin
+organisations:
+- FSB
+- First Department
+- Mediazona
+- Pussy Riot
+- The Insider
 ---
 
 A former member of Russian protest group Pussy Riot has revealed she was recruited to join Russia’s security service to inform on other activists.

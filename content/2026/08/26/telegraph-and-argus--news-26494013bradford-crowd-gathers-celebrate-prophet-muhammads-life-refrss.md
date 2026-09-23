@@ -13,6 +13,23 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Mustafa Mount
+people:
+- Abdul Karim Yahya
+- Amir Sulaiman
+- Khaled Siddiq
+- Michael H. Hart
+- Mustafa Davis
+- Nader Khan
+- Prophet Muhammad
+- Rabiʿ al-Awwal
+- Rehana Mahmood
+- Shaykh Ibrahim Osi-Efa
+organisations:
+- Greensville Trust
+- University of Bradford School of Management
 ---
 
 *(Image: Saf @24 Pictures )*

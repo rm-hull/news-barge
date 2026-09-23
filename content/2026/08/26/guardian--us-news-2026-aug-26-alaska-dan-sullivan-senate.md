@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Alaska
+- Georgia
+- Iowa
+- Maine
+- Michigan
+- New Hampshire
+- North Carolina
+- Ohio
+- Texas
+- US
+people:
+- Dan J Sullivan
+- Dan S Sullivan
+- Donald Trump
+- Mary Peltola
+organisations:
+- Associated Press
+- House
+- Senate
+- US Forest Service
 ---
 
 Republican senator Dan S Sullivan will be joined on the November ballot in Alaska by a challenger with a nearly identical name from the same party, election officials confirmed on Tuesday, adding a twist to what is expected to be one of the most hotly contested races of the midterms.

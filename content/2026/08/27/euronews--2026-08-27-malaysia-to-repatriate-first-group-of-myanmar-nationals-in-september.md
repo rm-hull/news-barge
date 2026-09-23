@@ -13,6 +13,18 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Chin
+- Kuala Lumpur
+- Malaysia
+- Myanmar
+- Penang
+- Southeast Asia
+people:
+- Anwar Ibrahim
+organisations:
+- AFP
+- UN
 ---
 
 ## Malaysia hosts more than 215,000 refugees and asylum seekers registered with the UN refugee agency, including more than 126,000 Rohingya from Myanmar, its largest refugee community.

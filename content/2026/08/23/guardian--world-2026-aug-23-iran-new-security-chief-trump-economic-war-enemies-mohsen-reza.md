@@ -14,6 +14,38 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Beijing
+- China
+- Europe
+- France
+- Gulf
+- Hormuz
+- Iran
+- Iraq
+- Israel
+- Middle East
+- Oman
+- Paris
+- Saudi Arabia
+- South Carolina
+- Tehran
+- US
+- United Arab Emirates
+- United States
+- Washington
+people:
+- Donald Trump
+- Emmanuel Macron
+- Mohammed bin Salman
+- Mohsen Rezaei
+- Rezai
+organisations:
+- Agence France-Presse
+- Associated Press
+- IRGC
+- IRIB
+- Islamic Revolutionary Guard Corps
 ---
 
 The new leader of Iran’s top security body has warned its neighbours against joining new US efforts to squeeze Tehran’s economy, and threatened US commercial interests in the region, as Donald Trump doubled down on his fanciful view that the strait of Hormuz was a new US territory.

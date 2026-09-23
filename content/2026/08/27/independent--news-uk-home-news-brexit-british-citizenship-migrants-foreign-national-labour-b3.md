@@ -12,6 +12,18 @@ image: https://static.independent.co.uk/2026/01/06/11/32/PA-40886183.jpg?width=1
 categories:
 - News & Politics
 - UK
+locations:
+- Brexit
+- UK
+people:
+- Boris Johnson
+- Nuni Jorgensen
+- Shabana Mahmood
+organisations:
+- EU
+- ILR
+- Labour
+- University of Oxford’s Migration Observatory
 ---
 
 Applications for British citizenship, which have been on the rise since Brexit, have surged to a record high, analysis of government figures shows.

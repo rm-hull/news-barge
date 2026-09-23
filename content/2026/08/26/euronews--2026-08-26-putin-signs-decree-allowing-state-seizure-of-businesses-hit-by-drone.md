@@ -14,6 +14,28 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Moscow
+- Russia
+- Russian Federation
+- Ukraine
+people:
+- Abbas Gallyamov
+- Alexander Novak
+- Andrei Grivtsov
+- Denis Manturov
+- Kyiv
+- Sergei Uchitel
+- Vladimir Putin
+organisations:
+- Euronews
+- Financial Times
+- Forbes Russia
+- Kyiv
+- Ozon
+- RBC
+- UN
+- Wildberries
 ---
 
 ## The edict covers energy, transport, logistics and any facility deemed critical to national security, and can be imposed by presidential instruction alone. Experts called it "hybrid nationalisation," warning it would be used to seize assets from companies under the pretext of security failure.

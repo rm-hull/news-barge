@@ -14,6 +14,45 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Alberta
+- Canada
+- Canary
+- Europe
+- Germany
+- Kleinburg
+- Montreal
+- New Frontier
+- North York
+- Ontario
+- Ottawa
+- Sweden
+- Toronto
+- U.S.
+- US
+- United States
+- Washington
+people:
+- Aaron Lyand
+- Donald Trump
+- Glen Lynch
+- Greg Colacitti
+- James Yurichuk
+- Mark Carney
+- Nikhil Malhotra
+- Philippe Lagassé
+organisations:
+- Carleton University
+- First Nations
+- NATO
+- New Frontier Robotics
+- Pentagon
+- Saab
+- ThyssenKrupp
+- University of Waterloo
+- Volatus Aerospace
+- Volatus Aerospace COO Greg Colacitti
+- Wuxly
 ---
 
 Inside a Toronto garment factory, the physical reality of Canada’s drive to diminish its reliance on American military suppliers is on clear display.

@@ -9,6 +9,27 @@ description: Zero Trust is essential for modern cybersecurity resilience
 image: https://cdn.mos.cms.futurecdn.net/jt92kXfBXVXUWwnKBmDJLn-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- North America
+- UK
+people:
+- John Kindervag
+- Neil MacDonald
+organisations:
+- Collins Aerospace
+- Cyber Monitoring Centre
+- Future plc
+- Gartner
+- IDC
+- Jaguar Land Rover
+- Jericho Forum
+- TechRadar Pro
+- TechRadarPro
+- The Open Group Security Forum
+- The Open Group Security Portfolio
+- WestJet
+- Worldwide Security Spending Guide
+- Zero Trust
 ---
 
 ![Malware attack virus alert , malicious software infection , cyber security awareness training to protect business](https://cdn.mos.cms.futurecdn.net/jt92kXfBXVXUWwnKBmDJLn.jpg) 

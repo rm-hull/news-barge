@@ -11,6 +11,21 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Congo
+- Oyo
+- Tooro Kingdom
+- Uganda
+people:
+- Calvin Rwomiire Akiiki
+- King Oyo
+- Muammar Gaddafi
+- Oyo Nyimba
+- Oyo Nyimba Kabamba Iguru Rukidi IV
+- Thomas Tayebwa
+- Tooro
+organisations:
+- Crown
 ---
 
 Oyo Nyimba, a Ugandan tribal monarch who captivated world leaders after ascending to his ancient throne as a toddler, has died at the age of 34.

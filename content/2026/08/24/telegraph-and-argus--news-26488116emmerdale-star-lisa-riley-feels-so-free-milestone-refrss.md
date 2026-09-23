@@ -14,6 +14,27 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Coronation Street
+- PA
+people:
+- Angela Griffin
+- Cath
+- Debbie Howard
+- Denise Welch
+- Ian West
+- James Corden
+- Lisa Riley
+- Mandy Dingle
+- Scarlett Moffatt
+organisations:
+- Emmerdale
+- Gavin & Stacey
+- ITV
+- Instagram
+- MBE
+- Sober Girl Society
+- TV
 ---
 
 *(Image: ITV)*

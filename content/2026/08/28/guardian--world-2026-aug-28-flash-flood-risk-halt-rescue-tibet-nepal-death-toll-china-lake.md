@@ -12,6 +12,41 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Bagmati
+- Bangladesh
+- Bidur
+- Britain
+- Canada
+- China
+- Chitwan
+- Geneva
+- India
+- Japan
+- Kathmandu
+- Lhasa
+- Nepal
+- Nepal-Tibet
+- Nuwakot
+- Rasuwa
+- South Korea
+- Sri Lanka
+- Tibet
+- Trishuli 3A
+- Trishuli River
+- US
+people:
+- Dinesh Bhattarai
+- Lok Bahadur Chhetri
+- Raja Ram Basnet
+organisations:
+- ATM
+- Agence France-Presse
+- CCTV
+- Kathmandu Post
+- Reuters
+- UN
 ---
 
 Rescuers searching for survivors of deadly flash floods on the Nepal-Tibet border have resumed their efforts after suspending operations when a debris dam burst its bank on Friday, increasing the risk of fresh flooding.

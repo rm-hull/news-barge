@@ -11,6 +11,31 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Atshatshi
+- Britain
+- Dagenham
+- Golders Green
+- Hatzola
+- Leyton
+- London
+- Old Bailey
+- Pentonville
+- Walthamstow
+- Wandsworth
+people:
+- Hamza Iqbal
+- Judex Atshatshi
+- Justice Cheema-Grubb
+- Rehan Khan
+- Saif Ali
+- Subhan Ahmed
+organisations:
+- Campaign Against Antisemitism
+- Hatzola
+- Metropolitan Police
+- PA
+- Toyota
 ---
 
 Four men have pleaded guilty to destroying four Jewish community ambulances in an arson attack earlier this year.

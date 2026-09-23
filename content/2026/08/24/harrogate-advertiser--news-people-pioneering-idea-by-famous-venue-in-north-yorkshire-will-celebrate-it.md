@@ -14,6 +14,25 @@ categories:
 - Local
 - Harrogate
 - Arts & Culture
+locations:
+- '## Ripon Racecourse'
+- North Yorkshire
+- Ripon Racecourse
+- UK
+- West Sussex
+- Yorkshire’s Garden Racecourse
+people:
+- Antony Pickthall
+- James Hutchinson
+organisations:
+- All Heads Turn
+- Arts Council England
+- Bath Party
+- Channel 4
+- Granada
+- Ripon Racecourse
+- Ripon Races’ Facebook
+- Yorkshire’s Garden Racecourse
 ---
 
 # Pioneering idea by famous venue in North Yorkshire will celebrate its heritage 'in a fresh way'

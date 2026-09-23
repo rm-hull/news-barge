@@ -14,6 +14,29 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 - Personal Finance & Investing
+locations:
+- Bolton
+- Britain
+- Burnley
+- Greater Manchester
+- Lancashire
+- Liverpool
+- London
+- South Wales
+- Swansea
+- UK
+people:
+- Andy Curry
+- Russell Roach
+organisations:
+- Companies House
+- Data & Marketing Association
+- EAL
+- Elderly Aids Limited
+- ICO
+- Information Commissioner’s Office
+- TPS
+- Telephone Preference Service
 ---
 
 A company has been fined £190,000 by Britain’s data watchdog for bombarding elderly people with nuisance calls while claiming to be selling devices designed to block unwanted calls.

@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Bordeaux
+- Europe
+- France
+- Gironde
+- Golfech
+- Italy
+- Paris
+- River Garonne
+- Spain
+- Trocadero Fountain
+people:
+- Marina Ferrari
+organisations:
+- Eiffel Tower
+- Ferrari
+- France Inter
 ---
 
 ![Women shelter from the heat under a black umbrella at the Trocadero Fountain by the Eiffel Tower, in Paris, France, 20 June 2026. Other people are seated next to the river.](https://ichef.bbci.co.uk/ace/standard/978/cpsprodpb/46e9/live/b1ac6f30-9f1a-11f1-b2a2-8945a27a2843.jpg)

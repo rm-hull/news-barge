@@ -12,6 +12,25 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1193266208.
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Europe
+- Stockholm
+- Sweden
+- U.S.
+people:
+- Dominic-Madori Davis
+- Sophia Bendz
+organisations:
+- Apple Podcasts
+- Cherry Ventures
+- EquityPod
+- Legora
+- Lovable
+- Neko Health
+- Overcast
+- Spotify
+- TechCrunch’s Equity
+- YouTube
 ---
 
 Vibe-coding darling Lovable just raised $400 million at a $13.3 billion valuation, roughly doubling its worth in eight months. But Lovable isn’t the only Stockholm startup putting up huge numbers lately — legal AI company Legora and health tech startup Neko Health are right there with it.

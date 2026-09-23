@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Middlesbrough
+- Stainton
+- Tees Barrage
+people:
+- Jake Tytler
+organisations:
+- Cleveland Police)* Police
 ---
 
 *(Image: Cleveland Police)*

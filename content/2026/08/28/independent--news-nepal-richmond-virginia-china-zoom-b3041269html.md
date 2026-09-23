@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Baltimore
+- Himalayan Glacier
+- India
+- Nepal
+- Nepal-China
+- Richmond
+- U.S.
+- Virginia
+people:
+- Akanksha Patel
+- Ishan Patel
+- Mukti Patel
+- Sanket Pandey
+- Shilpa Patel
+- Umesh Kumar
+organisations:
+- Himalayan Glacier Adventure and Travel Company
+- U.S. State Department
 ---
 
 Mukti Patel has huddled with family and friends at her parents' Richmond, Virginia, home since her dad, sister and two other relatives went missing in the catastrophic flash floods along the Nepal-China border.

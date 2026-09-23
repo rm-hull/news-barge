@@ -11,6 +11,30 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Chelmsford
+- Dorset
+- Dubai
+- Essex
+- Naqab.jpeg
+- Poole
+- Ras Al Khaimah
+- Turkey
+- UAE
+- UK
+- United Arab Emirates
+- Wadi Naqab
+people:
+- Aran Martinson
+- Cassius Newton
+- Cassius’
+- Chelsea
+- Eddie Newton
+- Michelle Brown
+organisations:
+- Cardiff City
+- Chelsea Football Club
+- Trabzonspor
 ---
 
 The son of former Chelsea midfielder Eddie Newton died in the United Arab Emirates, along with his friend, after they went for a hike in 40C temperatures, has inquest has heard.

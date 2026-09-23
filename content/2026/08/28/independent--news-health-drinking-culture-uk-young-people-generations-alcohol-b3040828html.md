@@ -11,6 +11,15 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- England
+people:
+- Richard Piper
+- Ros Blackwood
+organisations:
+- Alcohol Change UK
+- Our Future Health
+- The Telegraph
 ---
 
 Regular drinking may soon be a thing of the past, new research suggests, as it finds that younger people have a very different relationship to alcohol than the generations before them.

@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Fairfax
+- Sydney
+people:
+- Alan Jones
+- C
+- Georgina Wright
+- Glenn Walsh
+- Jason Morrison
+- Kate McClymont
+- Ms McClymont
+- Tailored’
+organisations:
+- 2GB
+- Fairfax
+- McClymont
+- NSW Independent Commission Against Corruption
+- Nine Entertainment
+- SMH
+- Strike Force Bonnefin
+- Sydney Morning Herald
 ---
 
 Alan Jones and fellow 2GB shock jock Jason Morrison often referred to the Sydney Morning Herald and its chief investigative reporter Kate McClymont as “pigs in the media”, a Sydney court has heard.

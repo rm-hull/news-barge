@@ -13,6 +13,22 @@ categories:
 - UK
 - True Crime
 - Law & Justice
+locations:
+- Las Vegas
+- Las Vegas Strip
+people:
+- '![Davis'
+- Dan Long
+- Davis’
+- Duane “Keffe D” Davis
+- Marion “Suge” Knight
+- Michael Sanft
+- Orlando “Baby Lane” Anderson
+- Tupac Shakur
+organisations:
+- BMW
+- Cadillac
+- Davis’
 ---
 
 The murder trial of Duane “Keffe D” Davis over the killing of Tupac Shakur is heading to closing arguments after the defense rested Thursday following testimony from three former Las Vegas police officers.

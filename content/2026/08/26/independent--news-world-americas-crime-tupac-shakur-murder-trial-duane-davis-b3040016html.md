@@ -13,6 +13,29 @@ categories:
 - UK
 - True Crime
 - Sports
+locations:
+- Anderson
+- Compton
+- Davis’
+- Las Vegas
+- Mob Piru
+- Nevada
+people:
+- Davis'
+- Davis’
+- Duane “Keffe D” Davis
+- Marion “Suge” Knight
+- Michael Sanft
+- Orlando “Baby Lane” Anderson
+- Robert Ladd
+- Tupac Shakur
+organisations:
+- BMW
+- Cadillac
+- Death Row Records
+- Mob Piru
+- South Side Compton Crips
+- South Side Crips
 ---
 
 Prosecutors rested their case Wednesday in the murder trial of Duane “Keffe D” Davis, calling 24 witnesses in the case over the 1996 killing of Tupac Shakur.

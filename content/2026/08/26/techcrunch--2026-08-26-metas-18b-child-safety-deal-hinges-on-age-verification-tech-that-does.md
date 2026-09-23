@@ -12,6 +12,23 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2267997264.
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- U.S.
+people:
+- Alexis Ingber
+- Discord
+- Jessica Nall
+- Philip Yannella
+organisations:
+- AGs
+- Blank Rome
+- Instagram
+- Meta
+- Syracuse University
+- TechCrunch
+- TikTok
+- Withers
+- YouTube
 ---
 
 Meta reached an $18 billion settlement on Wednesday over a lawsuit brought by 29 U.S. states concerning children’s safety. The settlement is historic in scale as Meta agrees with a group of 52 attorneys general to implement sweeping changes to how minors use Instagram and Facebook.

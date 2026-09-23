@@ -12,6 +12,22 @@ image: https://static.independent.co.uk/2026/08/27/18/APTOPIX_Haiti_Gang_Violenc
 categories:
 - News & Politics
 - UK
+locations:
+- Caribbean
+- Haiti
+- Kenscoff
+- Latin America
+- Port-au-Prince
+- Tabarre
+- U.S.
+people:
+- Garry Desrosiers
+- Kenscoff
+- Vladimir Paraison
+organisations:
+- Armed Conflict Location
+- National Police
+- U.N.
 ---
 
 Haiti’s National Police faced mounting criticism Thursday over why authorities failed to prevent a recent gang attack in which 47 people were killed and more than 50 kidnapped.

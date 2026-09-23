@@ -12,6 +12,21 @@ categories:
 - Europe
 - News & Politics
 - Pets & Animals
+locations:
+- Europe
+- Germany
+- Norway
+- Oslo
+- Royal Palace
+people:
+- Haakon
+- Harald V
+- Jonas Gahr Støre
+- King
+- Masud Gharahkhani
+- Sonja
+organisations:
+- Oslo University Hospital
 ---
 
 Norway’s King Harald V, 89, is in an “extremely serious” condition after his health deteriorated while he was being treated at Oslo University Hospital. Europe’s oldest reigning monarch has been in hospital since 17 August with haemolytic anaemia, later complicated by a bacterial bloodstream infection.

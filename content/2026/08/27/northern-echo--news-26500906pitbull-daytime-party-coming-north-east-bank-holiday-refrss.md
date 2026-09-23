@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- BST Hyde Park
+- County Durham
+- Mosley Steet
+- Mosley Street
+- Newcastle
+- North East
+- North Sea
+- Northumberland
+- PA
+people:
+- Bad Bunny
+- David Parry
+- Enrique Iglesias
+- Flo Rida
+- J Balvin
+- Jason Derulo
+- Pitbull
+- Scarlett Moffatt
+- Sean Paul
+- Shakira
+organisations:
+- Fatsoma
+- Guinness World Records
+- Motel Mexicana
+- Pitbull Universe Party
+- Yorkshire Vet
 ---
 
 Fans of Pitbull will be able to party to the rapper’s biggest hits at a themed daytime event coming to the North East this Bank Holiday weekend.

@@ -13,6 +13,24 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Australia
+- UK
+people:
+- Gosh
+- Katrina Watson
+- Lucy Robinson
+organisations:
+- ANZ
+- Cadbury Dairy Milk
+- Jam Press
+- MCoBeauty
+- Mondelēz International
+- NEW Cadbury
+- Tesco
+- Watermelon Glow
+- Woolworths
+- World Snacks UK
 ---
 
 A NEW Cadbury’s Dairy Milk chocolate bar flavour is dividing opinion.

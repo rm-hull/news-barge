@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Nepal
+- Trishuli River
+people:
+- Merlyn Thomas
+- Mesut Ersoz
+- Tom Joyner
+organisations:
+- BBC Verify
 ---
 
 # Videos show people survive floodwaters on balcony in Nepal

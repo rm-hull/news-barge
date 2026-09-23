@@ -12,6 +12,17 @@ image: https://images.euronews.com/articles/stories/09/89/26/23/1200x675_cmsv2_7
 categories:
 - Europe
 - News & Politics
+locations:
+- Benítez
+- Ceuta
+- Madrid
+- Morocco
+- Spain
+- Trampolín
+people: []
+organisations:
+- Interior Ministry
+- Red Cross
 ---
 
 Police moved to disperse demonstrators at Trampolín and Benítez beaches after belongings and makeshift shelters used by migrants were set alight during the unrest. Footage broadcast by Spanish public television showed protesters throwing objects into bonfires as police pushed them back, while migrants retreated behind a police cordon on a pier.

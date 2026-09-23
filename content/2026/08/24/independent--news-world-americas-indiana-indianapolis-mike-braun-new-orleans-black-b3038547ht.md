@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- Black
+- Des Moines
+- Gary
+- Indiana
+- Indianapolis
+- Iowa
+- Memphis
+- New Orleans
+- Porter County
+people:
+- Black
+- Eddie Melton
+- Erin Carreon
+- Gary
+- Hannah Fingerhut
+- Katrina
+- Kimya Williams
+- Laura Bargfeld
+- Mike Braun
+- Stephen Pantano
+- Williams’
+organisations:
+- AP
+- Gas and Water’s
+- Indiana Utility Regulatory Commission
+- Memphis Light
+- NIPSCO
+- Northern Indiana Public Service Co.
+- The Associated Press
+- University of Chicago
+- Urban Land Institute’s Impact Lab
+- _____ Associated Press
 ---
 
 Things became all-too familiar for Kimya Williams after storms rumbled through Gary, Indiana, earlier this month leaving big chunks of the mostly-Black city in the dark for two weeks.

@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- :**County Durham
+- Cenotaph
+- Linthorpe Road
+- Middlesbrough
+people:
+- Linda Lewis
+organisations:
+- Armed Forces
+- Middlesbrough Council
+- Parade and Service
+- Squadron Air Cadets
 ---
 
 *(Image: Supplied)*

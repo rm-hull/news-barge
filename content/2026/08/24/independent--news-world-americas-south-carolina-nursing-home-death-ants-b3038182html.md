@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Charleston
+- South Carolina
+- West Ashley
+people:
+- Alzheimer
+- Harmony
+- Jan Buice
+- Nate Hughey
+- Shelba Catterton
+organisations:
+- Catterton
+- Charleston Police
+- Harmony
+- Law and Crime
+- NBC
+- The Independent
+- WCBD
 ---
 
 A South Carolina nursing home is being sued by the family of an elderly Alzheimer’s patient who died after being swarmed by fire ants, sustaining over 1,000 bites and stings, according to a lawsuit.

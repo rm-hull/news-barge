@@ -12,6 +12,17 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- India
+- Kathmandu
+- Nepal
+- Nepal-Tibet
+- UK
+- US
+people:
+- Shreejana Shrestha
+organisations:
+- BBC Nepali
 ---
 
 # BBC visits hospital in Kathmandu as families wait for news

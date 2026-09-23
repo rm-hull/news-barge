@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- North Yorkshire
+- Richmond
+- Suriname
+- US
+people:
+- Claire Milner
+- Haley Mellin
+- Ms Milner
+- Rachael Noon-Powell
+organisations:
+- NoonPowell Fine Art
+- One Small Planet
+- Zangrillo Family Foundation
 ---
 
 ## North Yorkshire artist's Richmond exhibition to help protect tropical forests

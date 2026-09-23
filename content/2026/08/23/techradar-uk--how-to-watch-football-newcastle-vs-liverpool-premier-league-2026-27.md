@@ -12,6 +12,66 @@ image: https://cdn.mos.cms.futurecdn.net/57fMeBrjBnFSskQmmu4b5h-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Anfield
+- Australia
+- CA
+- Canada
+- Europe
+- Liverpool
+- London
+- Newcastle
+- Tyneside
+- UK
+- US
+- USA
+- canada
+people:
+- Alexander Isak
+- Andoni Iraola
+- Andy Robertson
+- Anthony Gordon
+- Arne Slot
+- Bruno Guimaraes
+- Eddie Howe
+- Greg Lea
+- Ibrahima Konate
+- Matthias Jaissle
+- Mohamed Salah
+- Norton
+- Sandro Tonali
+- Wilfried Zaha
+organisations:
+- AU
+- Como Calcio
+- Crystal Palace
+- ESPN
+- FourFourTwo
+- Fubo
+- Future Publishing
+- Geordies
+- Guardian
+- Hulu
+- Liverpool FC
+- Magpies
+- Merseysiders
+- Newcastle
+- Norton VPN
+- Norton VPN.
+- Port Vale
+- Premier League
+- Reds
+- Sky Sports
+- Sky TV
+- Sling**(
+- St James' Park
+- Stan Sport
+- TechRadar
+- The Set Pieces
+- USA Network
+- UseNorton VPNto
+- Whitehorse Manor
+- YouTube TV
 ---
 
 ![Alexander Isak of Liverpool looks on during the pre-season friendly match between Liverpool FC and Como Calcio at Anfield on August 16, 2026](https://cdn.mos.cms.futurecdn.net/57fMeBrjBnFSskQmmu4b5h.jpg) 

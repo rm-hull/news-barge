@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Bramble Wood
+- Dunnington
+- Eastfield Park
+- North Yorkshire
+- Wheldrake
+- York
+people:
+- David Wilson
+- David Wilson Homes
+- Paul Hogan
+organisations:
+- David Wilson Homes
+- David Wilson Homes Yorkshire East
 ---
 
 *(Image: David Wilson Homes)*

@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Canada
+- Surrey
+- Weybridge
+people:
+- Miles Hill
+- Seema Parikh
+organisations:
+- St George's Hill Lawn Tennis Club
+- St George’s Hill Lawn Tennis Club
+- The Independent
+- The Times
 ---
 
 Members of a private tennis club in Surrey have accused the club of an attempt to “deliberately conceal” the secret culling of several beloved local geese.

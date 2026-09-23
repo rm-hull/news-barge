@@ -12,6 +12,22 @@ categories:
 - Europe
 - News & Politics
 - Health & Fitness
+locations:
+- Aude
+- Bogue Chitto
+- Carcassonne
+- France
+- Gene
+- Germany
+- Limoux
+- Menasha
+- Miss.
+- Pomas
+- Wis.
+people: []
+organisations:
+- Météo France
+- Red Cross
 ---
 
 ## A powerful tornado hit several communes in the Aude on Monday, causing major damage, particularly in Pomas, with gusts recorded at up to 117 km/h.

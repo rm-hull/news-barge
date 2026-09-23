@@ -13,6 +13,45 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Afghanistan
+- Bahrain
+- Independent Arabia
+- Iran
+- Islamic Republic
+- Israel
+- Nasser Hospital
+- New York
+- Persian Gulf
+- Russia
+- Somalia
+- South Gaza
+- Strait of Hormuz
+- Tehran
+- US
+- USS Abraham Lincoln
+- USS Lincoln
+- Washington
+people:
+- '**Bel Trew'
+- Bill O’Reilly
+- Danielle Rappa
+- Donald Trump
+- Esmaeil Baghaei
+- Jeannette Vargas
+- Joe Biden
+- Marco Rubio
+- Mariam Abu Dagga
+- Mohsen Rezaei
+organisations:
+- Fox News
+- Fox TV
+- JD Vance
+- NBC News
+- National Iranian American Council
+- Navy
+- Trump
+- United Nations
 ---
 
 Iran’s security chief Mohsen Rezaei has threatened “earthquake-like” retaliation should US president Donald Trump take any further action.

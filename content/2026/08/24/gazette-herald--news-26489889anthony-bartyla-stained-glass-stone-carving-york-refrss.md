@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- York
+- Yorkshire
+people:
+- Anthony Bartyla
+organisations:
+- Florence School of Art
+- Harrogate Flower Show
+- North Yorkshire Police
+- Raven and Hare Sculpture
+- The Press
+- York Minster
 ---
 
 A YORK-based stone carver has taken inspiration from one of the city's most iconic buildings in his newest wildlife based creation.

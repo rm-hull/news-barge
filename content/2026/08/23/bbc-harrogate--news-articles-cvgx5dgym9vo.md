@@ -12,6 +12,27 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Bordeaux
+- France
+- Greater London
+- Harrogate
+- Portsmouth
+- St Malo
+- Yorkshire
+people:
+- Archie Goodburn
+- David Rowley
+- Paddy Kidd
+- Phil Webb
+- Rob George
+- Simon Grafton
+- Sophie Dors
+- Tim North
+organisations:
+- Brain Tumour Charity
+- YBTC
+- Yorkshire
 ---
 
 ![Six men wearing yellow branded cycling jerseys which read "B T R S, brain tumour research and support". They are standing with bicycles in a park, and most wear cycling helmets.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/1286/live/ff2d3d70-97d1-11f1-870d-5d08c49babb2.jpg)

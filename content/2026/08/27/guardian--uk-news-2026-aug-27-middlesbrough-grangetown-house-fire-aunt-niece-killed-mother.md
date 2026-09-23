@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Cleveland
+- Grangetown
+- Middlesbrough
+- South Bank
+- Wales
+people:
+- Andy Burnham
+- Andy McDonald
+- Anna Turley
+- Chris McDonald
+- Cole Worthy
+- Emily Harrison
+- Jacob Matusiak
+- Jonathan Brash
+- Lisa Kirton
+- Luke Myer
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Natalie McDonald
+- Paul Appleton
+- Theo Rae
+- Tina
+- Tom Clough
+- Valentina Foster
+organisations:
+- A66
+- BBC
+- Labour
 ---
 
 A woman who died in a house fire along with her seven-year-old niece has been described as “a beautiful soul”.

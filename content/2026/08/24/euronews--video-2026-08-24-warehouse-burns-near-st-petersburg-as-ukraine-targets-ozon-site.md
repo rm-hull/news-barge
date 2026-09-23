@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Kolpino
+- Orenburg
+- Russia
+- Samara
+- St Petersburg
+- Ukraine
+people:
+- Ozon
+organisations:
+- Kyiv
+- Ozon
+- Wildberries
 ---
 
 Russian firefighters worked through Sunday to extinguish a fire at a logistics centre next to a facility belonging to online retailer Ozon on the outskirts of St Petersburg.

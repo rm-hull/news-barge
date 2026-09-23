@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Atlantic
+- Langden Brook
+- Ribble
+people:
+- Adam Wheeler
+- Charlotte Ireland Pope
+- Jack Spees
+organisations:
+- Ribble Rivers Trust
 ---
 
 *(Image: PA)*

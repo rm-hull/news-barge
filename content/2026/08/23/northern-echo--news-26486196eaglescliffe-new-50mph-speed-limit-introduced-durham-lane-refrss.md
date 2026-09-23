@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- A66
+- Cleasby Way
+- Durham Lane
+- Eaglescliffe
+- Elton Interchange
+- Stockton Customer Service Centre
+- The Square
+- YOUR
+people: []
+organisations:
+- Central Library
+- High Court
+- Public Notice Portal
+- Stockton Council
+- The Northern Echo
 ---
 
 *(Image: Newsquest)*

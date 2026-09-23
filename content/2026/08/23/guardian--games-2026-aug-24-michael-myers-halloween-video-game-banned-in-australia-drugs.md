@@ -14,6 +14,40 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Australia
+- US
+people:
+- Claire Henry
+- Dan Golding
+- Marcus Carter
+- Margaret Anderson
+- Michael Myers
+- Ron Curry
+organisations:
+- Apple App Store
+- Australian Government
+- Australian Research Council Decra
+- Classification Board
+- Department of Infrastructure, Transport, Regional Development, Communications, Sport
+  and the Arts
+- Flinders University
+- FoI
+- Google Play Store
+- Grand Theft Auto VI
+- Guardian
+- Gun Interactive
+- IGEA
+- Illfonic
+- Interactive Games & Entertainment Association
+- Monash University
+- National Classification Scheme
+- Play Lab
+- Saints Row IV
+- State of Decay
+- Sydney Games
+- University of Sydney
+- Wasteland 3
 ---
 
 Halloween’s Michael Myers is one of film’s most feared boogeymen, responsible for some of the most brutal on-screen deaths in horror cinema. US video game developer Illfonic looked to reproduce those terrors in its upcoming title Halloween: The Game, with gruesome killings a major focus of the gameplay: for instance, you can stomp another player’s head through a toilet seat, or fry their brain by throwing them through a television screen.

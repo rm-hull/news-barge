@@ -13,6 +13,29 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Venice
+people:
+- Luke James
+- Mike Nicolls
+- Tom
+- Vera Rubin
+organisations:
+- AMD
+- EPYC
+- Elon Musk
+- GPU
+- Google News
+- Grace
+- Grok's AI
+- Intel
+- Meta
+- Nvidia
+- Olympus
+- SpaceX
+- Starmind
+- Vera CPUs SpaceXAI
+- Xeon
 ---
 
 ![Nvidia Vera CPU](https://cdn.mos.cms.futurecdn.net/tAXNckhbwBFZknaHqvpJe7.jpg) 

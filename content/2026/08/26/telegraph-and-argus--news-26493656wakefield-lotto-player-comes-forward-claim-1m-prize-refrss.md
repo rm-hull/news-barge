@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Wakefield
+- West Yorkshire
+people:
+- Lynn Devlin
+organisations:
+- Aberdeen
+- Allwyn Winners' Advisers
+- The National Lottery
 ---
 
 *(Image: Archive)*

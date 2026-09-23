@@ -14,6 +14,31 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Britain
+- Colchester
+- Darlington
+- Essex
+- North East
+- Northallerton
+- Pennine Way
+- Richmond
+- Stockton
+- Swaledale
+- Tan Hill
+- Tan Hill Inn
+- Yorkshire
+people:
+- Andrew Hields
+- John Dalton
+- Max
+- Millie
+- Sarah Baulch
+organisations:
+- Hellier Mason Country Walking Magazine
+- IT
+- Tan Hill Inn
+- Yorkshire Dales
 ---
 
 A couple who married at Britain’s highest pub after spotting it in a magazine have returned to the Yorkshire Dales landmark 30 years later to celebrate their pearl wedding anniversary with their family.

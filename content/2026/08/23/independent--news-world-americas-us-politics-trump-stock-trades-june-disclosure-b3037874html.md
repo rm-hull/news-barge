@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- White House
+people:
+- Davis Ingle
+- Donald Trump
+organisations:
+- CNBC
+- Congress
+- Fidelity National Information Services
+- Home Depot
+- House
+- Senate
+- World Liberty Financial
 ---
 
 Donald Trump undertook a shuffling of his stock portfolio in June and sold nearly $30 million in shares that month as Congress debates whether those in power should be allowed to trade stocks at all, according to financial disclosures.

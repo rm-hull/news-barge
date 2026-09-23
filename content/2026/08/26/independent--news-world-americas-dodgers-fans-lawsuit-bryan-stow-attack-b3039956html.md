@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Dodger Stadium
+- Stow
+people:
+- Bryan Stow
+- Frank McCourt
+- Joanna Maria Iniguez
+- Luis Ortiz
+- Upinder Kalra
+organisations:
+- Dodgers
+- Los Angeles Superior Court
+- San Diego Padres
+- San Francisco Giants
+- Stow
 ---
 
 Two Dodgers fans who say they were subjected to excessive force and wrongly ejected from Dodger Stadium in 2024 are asking a judge to let them tell jurors about the 2011 parking lot attack on San Francisco Giants fan Bryan Stow.

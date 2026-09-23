@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Self-Improvement
+locations:
+- UK
+- USA
+people:
+- Avram Mack
+- Callan
+- Cora Clancy
+- Dawson
+- Kevin Reddington
+- Kirk Heilbrun
+- Lindsay Clancy
+organisations:
+- 988 Suicide and Crisis Lifeline
+- Samaritans
 ---
 
 Forensic psychologist Kirk Heilbrun testified Monday that Lindsay Clancy has bipolar disorder and was experiencing anxiety, depression, insomnia and suicidal thoughts in the weeks leading up to the deaths of her three children.

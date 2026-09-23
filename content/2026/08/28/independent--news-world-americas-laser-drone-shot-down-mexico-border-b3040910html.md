@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Mexico
+- Michoacan
+- Rio Grande Valley
+- Texas
+- Texas' El Paso International Airport
+- U.S.
+people:
+- Claudia Sheinbaum
+- Curtis Taylor
+- Donald Trump
+organisations:
+- AeroVironment Inc
+- Army Multipurpose High Energy Laser
+- Joint Task Force
+- North American Aerospace Defense Command
+- Southern Border
+- U.S. Army
+- U.S. Customs and Border Protection
+- U.S. Northern Command
 ---
 
 Three Mexican drug cartel drones near the U.S.-Mexico border were shot down using a military laser in the Rio Grande Valley of southern Texas, U.S. officials reported on Thursday.

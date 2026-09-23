@@ -15,6 +15,10 @@ categories:
 - News & Politics
 - Technology & Software
 - Science
+locations: []
+people: []
+organisations:
+- The Guardian Investigates
 ---
 
 # Black Box: The Chatbots: a new series from The Guardian Investigates – trailer

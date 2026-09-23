@@ -13,6 +13,17 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Dewsbury
+- Ravensthorpe Retail Park
+- West Yorkshire
+people:
+- Coe
+organisations:
+- Lamborghini Huracán
+- Mirfield Neighbourhood Policing Team
+- PCs Shilling
+- West Yorkshire Police
 ---
 
 A reportedly stolen Lamborghini was seized after being spotted by patrolling officers.

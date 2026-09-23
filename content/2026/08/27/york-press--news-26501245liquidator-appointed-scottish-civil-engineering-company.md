@@ -12,6 +12,15 @@ categories:
 - York
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- UK
+people: []
+organisations:
+- Aver Chartered Accountants
+- Falkirk Sheriff Court
+- HMRC
+- Revenue and Customs
+- TM Civil Engineering Limited
 ---
 
 *(Image: Getty Images)*

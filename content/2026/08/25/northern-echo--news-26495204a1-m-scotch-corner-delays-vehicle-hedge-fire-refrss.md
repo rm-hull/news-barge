@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Technology & Software
 - Automotive
+locations:
+- Catterick
+- Darlington
+- M
+- Richmond
+- Ripon
+- Scotch Corner
+people:
+- Stuart Boulton
+organisations:
+- A1
+- AA
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Stuart Boulton/NOTHERN ECHO)*

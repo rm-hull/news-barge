@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Bowie
+- Maryland
+- Myrtle Avenue
+- Upper Marlboro
+people:
+- Kimball Alton Hinton Jr.
+- Shawanda Alston
+- Zhanya Freeman
+organisations:
+- Department of Corrections
+- GoFundMe
+- WUSA
 ---
 
 A Maryland mother of seven died Tuesday after her boyfriend allegedly shot her in the head while she was holding their 2-month-old daughter.

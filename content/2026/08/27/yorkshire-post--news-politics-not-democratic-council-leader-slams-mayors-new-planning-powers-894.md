@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- East Riding
+- England
+- Yorkshire
+people:
+- Andy Burnham
+- Anne Handley
+- Coun Handley
+organisations:
+- East Riding Council
+- East Riding of Yorkshire Council
+- Planning and Infrastructure Bill
 ---
 
 # 'Not democratic' - Council leader slams mayors' new planning powers

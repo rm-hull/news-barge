@@ -14,6 +14,24 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Geneva
+- Middle East
+- Sudan
+- Ukraine
+people:
+- Alessandra Vellucci
+- António Guterres
+- Mirjana Spoljaric
+organisations:
+- Convention on Conventional Weapons
+- ICRC
+- International Committee of the Red Cross
+- International Red Cross
+- Ozon
+- Red Cross
+- U.N.
+- United Nations
 ---
 
 The United Nations and the International Committee of the Red Cross intensified a joint appeal on Tuesday for countries to enact bans and restrictions on autonomous weapons systems — often called killer robots — warning that "the risks have intensified."

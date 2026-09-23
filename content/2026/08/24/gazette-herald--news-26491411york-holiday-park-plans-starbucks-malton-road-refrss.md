@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- A64
+- Four Alls Inn
+- Malton Road
+- Stockton
+- The Forest
+- YOUR
+- York Station
+people: []
+organisations:
+- City of York Council
+- Dennis Harley Developments Ltd
+- Public Notice Portal
+- Row
+- Starbucks
 ---
 
 ### What is the Public Notice Portal?

@@ -14,6 +14,29 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Haxby Moor Road
+- Oakwood Farm
+- Strensall
+- YOUR
+- York
+- Yorkshire
+people:
+- Chris Jeffery
+- Chris Jeffrey
+organisations:
+- City of York Council
+- Facebook
+- Farmer's Cart
+- Farmer’s Cart
+- Foss Internal Drainage Board
+- Haxby Town Council
+- Highway Network Management
+- Milk Box York
+- Public Notice Portal
+- Public Notice Portal A YORK
+- The Farmer’s Cart
+- Yorkshire
 ---
 
 ### What is the Public Notice Portal?

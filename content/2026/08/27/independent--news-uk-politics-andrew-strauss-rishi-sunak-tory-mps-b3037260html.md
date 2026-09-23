@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Australia
+- England
+- South Africa
+- Windsor
+people:
+- Andrew Strauss
+- Anthony Seldon
+- Charles Darwin
+- Diet Coke
+- Gilbert and Sullivan
+- Kevin Pietersen
+- Rishi Sunak
+- Robert Buckland
+- Ruth Strauss
+- Tom Egerton
+organisations:
+- Atlantic Books
+- Fairmont Hotel
+- Labour
+- Lords
+- Party
+- Tory
 ---
 
 Former England cricket captain Sir Andrew Strauss made scathing comments about the lack of loyalty of Tory MPs to Rishi Sunak in the run up to his general election defeat in 2024.

@@ -12,6 +12,14 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Barmpton Lane
+- Darlington Memorial Hospital
+people: []
+organisations:
+- Durham Police
+- NEWSQUEST
+- North East Ambulance Service
 ---
 
 *(Image: NEWSQUEST)*

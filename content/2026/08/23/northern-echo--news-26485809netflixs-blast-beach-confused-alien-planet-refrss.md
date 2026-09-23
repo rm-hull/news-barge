@@ -15,6 +15,23 @@ categories:
 - News & Politics
 - Film & TV
 - Science
+locations:
+- Blast Beach
+- Britain
+- County Durham
+- Durham Heritage Coast
+- Iceland
+- North East
+- North Sea
+- North Yorkshire
+- Northumberland
+- Nose's Point
+- Seaham
+people:
+- Dave Fincher
+organisations:
+- Netflix
+- Seaham
 ---
 
 At first glance, a beach in County Durham looks more like the surface of an alien planet than a stretch of North East coastline.

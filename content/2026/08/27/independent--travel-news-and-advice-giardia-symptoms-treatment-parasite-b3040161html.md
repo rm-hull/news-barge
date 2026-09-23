@@ -12,6 +12,21 @@ categories:
 - UK
 - Health & Fitness
 - Travel
+locations:
+- Africa
+- England
+- London
+- South America
+- South-Eastern Asia
+- Southern Asia
+- UK
+people:
+- Nicola Love
+organisations:
+- NHS
+- North West
+- UK Health Security Agency
+- UKHSA
 ---
 
 Holidaymakers are being urged to take precautions against a parasitic stomach bug, as cases of the infection rise by more than 10 per cent.

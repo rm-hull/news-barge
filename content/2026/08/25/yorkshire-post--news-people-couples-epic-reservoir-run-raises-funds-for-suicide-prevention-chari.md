@@ -14,6 +14,24 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Afghanistan
+- Bellingham
+- Bolton Abbey
+- Cowling
+- Hungary
+- Kielder Water
+- Leeds
+- North Yorkshire
+- Northumberland
+people:
+- Simon Hulme
+- Stephen
+- Terri Docza
+organisations:
+- British Army
+- CALM
+- Yorkshire Post
 ---
 
 # Couple’s epic reservoir run raises funds for suicide prevention charity CALM

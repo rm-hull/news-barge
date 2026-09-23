@@ -12,6 +12,27 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations: []
+people:
+- Christian Mortimer
+- Jenny Gayner
+- Juliet Forster
+- Marcavia McCarthy
+- Paul Hendy
+- Richard David-Caine
+- Robin Simpson
+- Snow White
+- Tommy Carmichael
+organisations:
+- '## York Theatre Royal'
+- CBBC
+- CBeebies
+- Evolution Productions
+- Snow White
+- Snow White pantomime York Theatre Royal
+- West End
+- York Theatre Royal
+- York Theatre Royal)* York Theatre Royal
 ---
 
 ## York Theatre Royal reveals cast for first-ever Snow White pantomime

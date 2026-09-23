@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Arundel
+- Diocese of Chichester
+- Eastbourne
+- England
+- South Downs
+- Steyning Theo Saville
+- UK
+- Washington Road
+- West Sussex
+- Wiston Park
+- Worthing
+people:
+- Andrew Griffith
+- Richard McDonagh
+organisations:
+- BBC Radio Sussex
+- BBC Sussex
+- HSE
+- Health and Safety Executive
+- Sussex Police
 ---
 
 ![An ariel view of a festival.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4c41/live/af278b30-a30e-11f1-93b3-fd1f81ebc907.jpg)

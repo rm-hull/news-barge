@@ -14,6 +14,13 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Cullingworth
+- Flappit Spring
+people: []
+organisations:
+- Cullingworth village Council
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

@@ -11,6 +11,26 @@ image: https://static.independent.co.uk/2026/08/27/15/2026-08-27T143021Z_1228129
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- Bucharest
+- Miami
+- Romania
+- U.S.
+- UK
+people:
+- Andrew Tate
+- Lauren Louis
+- Malcolm McHaffie
+- Tates
+- Tristan Tate
+organisations:
+- '## Defense'
+- CPS
+- Crown Prosecution Service
+- Special Crime Division
+- State Department
+- Tate Brothers
 ---
 
 Controversial misogynist influencer brothers Andrew and Tristan Tate arrived in court asking to be released on bail from a Miami jail on Thursday while they fight extradition to Britain, where they are wanted on a slew of charges.

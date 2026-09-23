@@ -11,6 +11,22 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/Zillow-website-1.jpg?w=
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Arizona
+- Connecticut
+- New York
+- Virginia
+- Washington
+people:
+- Zillow
+organisations:
+- DOJ
+- FTC
+- Federal Trade Commission
+- Live Nation
+- Redfin
+- Ticketmaster
+- Zillow
 ---
 
 Zillow and Redfin have reached a settlement with the Federal Trade Commission (FTC) and five states, ending a legal fight over a 2025 partnership that the FTC claimed hurt competition in the rental-listing market. The settlement was announced on Monday, just as the case was scheduled to head toward trial this morning.

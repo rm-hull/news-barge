@@ -13,6 +13,44 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Alabama
+- Charlotte
+- Cuthbert
+- Eufala
+- Georgia
+- NASCAR
+- North Carolina
+- Notre Dame
+- Percocet
+- Shellman
+- Washington
+people:
+- Davis Sr.
+- Davis'
+- Dwan Edwards
+- Joan Rubinger
+- Kelly Davis
+- Kelly Thomas'
+- Luke Kuechly
+- Steve Reed
+- Thomas Davis
+- Thomas Davis Jr.
+- Thomas,” Kuechly
+- Walter Payton
+organisations:
+- ACL
+- AP Sports
+- Associated Press
+- Carolina Panthers
+- Chargers
+- Denver
+- Drug Enforcement Administration
+- NFL Players Association
+- Oxycodone
+- Pro Football Hall of Fame
+- Randolph-Clay High
+- ___ Mustian
 ---
 
 Nobody could overlook the off-the-field community work — bankrolling a college scholarship endowment, a Thanksgiving food drive, a Christmastime gift giveaway — that cast Thomas Davis of the Carolina Panthers as one of the true good guys around Charlotte and across the NFL.

@@ -11,6 +11,22 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- East Coast
+- Linton-on-Ouse
+- North Yorkshire
+- Scarborough
+- York
+people:
+- David Skaith
+- Rich Maw
+organisations:
+- Government
+- Home Office
+- Labour
+- North Yorkshire Council
+- RAF Linton-on-Ouse
+- Scarborough Town Council
 ---
 
 PLANS to house people seeking asylum at a former military base are set to be opposed by a Reform-led council on the East Coast.

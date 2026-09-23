@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Crook
+- Rockingham Road
+- Sunnybrow
+- Teesside
+- Willington
+people:
+- Jennifer Bolton
+- Jolyon Perks
+- Martin Greensmith
+- Steven Shevels
+- Trevor Greensmith
+organisations:
+- CCTV
+- Teesside Crown Court
 ---
 
 A man accused of killing his biological dad within hours of seeing him for the first time has told a court he only pushed him gently.

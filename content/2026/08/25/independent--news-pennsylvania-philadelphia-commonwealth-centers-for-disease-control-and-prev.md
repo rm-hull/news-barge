@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Lancaster County
+- Mexico
+- Pennsylvania
+- Philadelphia
+- U.S.
+people:
+- Debra Bogen
+organisations:
+- AP
+- Associated Press Health and Science Department
+- Centers for Disease Control and Prevention
+- Commonwealth
+- Department of Science Education
+- Howard Hughes Medical Institute
+- Robert Wood Johnson Foundation
 ---
 
 Two unvaccinated Pennsylvania residents have died from measles, state health officials said Tuesday, the first measles-related deaths in the U.S. this year.

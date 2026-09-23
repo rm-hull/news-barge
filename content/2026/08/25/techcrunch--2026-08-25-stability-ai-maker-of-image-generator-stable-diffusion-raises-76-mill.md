@@ -12,6 +12,26 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- U.S.
+- United Kingdom
+people:
+- Cyrus Hodes
+- Emad Mostaque
+- Getty
+- Prem Akkaraju
+organisations:
+- AMD Ventures
+- EA
+- Electronic Arts
+- Getty Images
+- Pacific Alliance Ventures
+- Sony Music Group
+- Stability AI
+- Universal Music
+- Universal Music Group
+- Warner Music
+- Warner Music Group
 ---
 
 Stability AI, the startup behind AI image generation model Stable Diffusion, has raised $76 million in Series B funding. The new haul brings the company’s fundraising total to $232 million.

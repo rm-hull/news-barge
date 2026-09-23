@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Gongoni
+- Indian Ocean
+- Kenya
+- Kilifi County
+- Kilifi County Referral Hospital
+- Malindi Hospital
+- sub-Saharan Africa
+people:
+- Chadi Karisa
+- Esther Bendera
+- Halima Ramadhan
+- Leila Abdulkheir
+- Mariam Kazungu
+- Nixon Charo
+- Penina Zawadi
+organisations:
+- AP
+- Associated Press
+- Gates Foundation
+- The Associated Press
+- Trump
+- Youth Voices and Action Initiative
 ---
 
 As Penina Zawadi was wheeled to the operating room for a cesarean section, she gave her mother her jewelry for safekeeping, along with a reassuring word: She would have a safe delivery.

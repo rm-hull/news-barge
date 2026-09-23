@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Carr Lodge
+- Carr Lodge Park
+- Horbury
+- Yorkshire
+people:
+- Jenny Hutchinson
+- Jenny Hutchinson.
+- Lukasz Borcz
+organisations:
+- 44th Guides
+- Friends of Horbury’s Park
+- Friends of Horbury’s Parks
+- Horbury Bridge Church
+- Senior Citizens Support Group
 ---
 
 # Carr Lodge Park, Horbury: Colourful dog-themed art trial installed in Yorkshire park

@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Blackpool
+- Bolton
+- Merseyside
+- Opera House
+- Prenton
+- United States
+people:
+- Dianne Oxberry
+- Fin Cormack
+- Molly Brewer
+- Peter Kay
+organisations:
+- BBC North West Tonight
 ---
 
 'Get your central heating on now'

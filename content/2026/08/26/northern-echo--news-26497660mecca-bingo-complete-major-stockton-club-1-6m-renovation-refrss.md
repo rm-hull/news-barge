@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Mecca
+- North East
+- Stockton
+- Teesside
+people:
+- Lynne Butterworth
+- Sarah O'Neill
+- Stockton
+organisations:
+- Durham
+- Mecca Bingo
+- Mecca Stockton
+- Sky Sports
+- Teesside McDonald's
 ---
 
 A major bingo hall in Teesside has completed a £1.6 million makeover, introducing a new social bingo lounge and upgraded facilities.

@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- Borough Road
+- Cargo Fleet Lane
+- Middlesbrough
+people: []
+organisations:
+- A66
 ---
 
 ## Our live feed has now finished.

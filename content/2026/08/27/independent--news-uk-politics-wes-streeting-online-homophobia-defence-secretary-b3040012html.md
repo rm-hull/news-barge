@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- United Kingdom
+people:
+- Iain Dale
+- Keir Starmer
+- Wes Streeting
+organisations:
+- Edinburgh Fringe
+- LBC
+- MoD
 ---
 
 Wes Streeting has shared the “unbelievable volume” of homophobic abuse he has abused since becoming the first openly gay defence secretary.

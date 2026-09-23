@@ -12,6 +12,23 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/FGVCapital_Group.jpg?re
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations: []
+people:
+- Drew Glover
+- Marcos Fernandez
+organisations:
+- AI
+- Bank of America
+- FGV Capital
+- Fiat Growth
+- Fiat Ventures
+- Fund II
+- LP
+- MassMutual
+- Possible Finance
+- Reinsurance Group of America
+- TechCrunch
+- Wagmo
 ---
 
 Fiat Ventures on Tuesday said it is combining its growth consultancy and venture divisions under a new brand, FGV Capital, alongside the launch of its second fund, a $35 million vehicle.

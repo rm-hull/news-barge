@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Harrogate Convention Centre
+- Yorkshire
+people:
+- Helen Lachmann
+- Jamila Bray
+organisations:
+- HCC
+- Harrogate Convention Centre
+- ISSAID
+- International Society of Systemic Autoinflammatory Diseases
+- MCI
 ---
 
 *(Image: Harrogate Convention Centre)*

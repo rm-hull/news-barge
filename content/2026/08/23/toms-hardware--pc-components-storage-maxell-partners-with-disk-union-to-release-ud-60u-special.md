@@ -13,6 +13,25 @@ categories:
 - Technology & Software
 - Hardware
 - Music
+locations:
+- Japan
+people:
+- Mark Tyson
+- Maxell
+- Tom
+organisations:
+- Amstrad CPC
+- BBC Micro
+- Denkyosha Co.
+- Disk Union
+- Google News
+- MSX
+- Maxell UD
+- Sony HF
+- TDK SD
+- Tom's Hardware
+- VIC-20
+- ZX Spectrum
 ---
 
 ![UD-60U cassette tapes](https://cdn.mos.cms.futurecdn.net/ZSSSQRZK4pkvDuuNtZYNTF.jpg) 

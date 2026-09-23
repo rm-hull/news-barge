@@ -13,6 +13,32 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- France
+- Germany
+- Kansas City
+- Micro-Comm
+- Minnesota
+- Olathe
+- U.S.
+- United States’
+people:
+- Dixon Land
+- Jim Cote
+- Micro-Comm
+- Tom Hegel
+organisations:
+- Barracuda
+- CISA
+- Cybersecurity and Infrastructure Security Agency
+- FBI
+- Micro-Comm
+- PLCs
+- Rockwell Automation
+- SCADAview CSX
+- Schneider Electric
+- SentinelOne
+- Siemens
 ---
 
 The FBI is investigating another cyberattack in the United States’ water sector, this time involving a small developer of water utility technology.

@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Duke
+- Europe
+- UK
+- US
+- sub-Saharan Africa
+people:
+- Guy Ritchie
+- Jaanika Juntson
+- Meghan
+organisations:
+- Amazon Prime Video
+- Ampere Analysis
+- Disney
+- Duchess of Sussex
+- Duke of Sussex
+- Netflix UK
+- Suits
+- The Gentlemen
 ---
 
 Subscribers to Netflix, Disney+ and Amazon Prime Video in western Europe have faced higher price increases than in any other market in recent years, according to research.

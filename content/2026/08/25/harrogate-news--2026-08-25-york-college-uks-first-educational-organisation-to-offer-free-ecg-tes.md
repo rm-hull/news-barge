@@ -14,6 +14,30 @@ categories:
 - Harrogate
 - Education & Learning
 - Business & Entrepreneurship
+locations:
+- Cameroon
+- Denmark
+- Portugal
+- UK
+people:
+- Christian Eriksen
+- David Longhurst
+- Emma Palmer
+- Faye Singleton
+- Jaden Ncube
+- Marc Vivien-Foe
+- Megan Atkins
+- Quevin Castro
+- Riley Nolson
+- Stu Horsfield
+organisations:
+- '**York College Sports Development Centre'
+- CardioLogic Diagnostics
+- Government’s Talented Athlete Scholarship Scheme
+- QT Medical
+- York City
+- York City Women
+- York College
 ---
 
 York College has become the UK’s first educational organisation to offer fully-funded ECG heart screening tests to its sports team students and elite athletes, using a new form of technology.

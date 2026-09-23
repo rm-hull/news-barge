@@ -14,6 +14,37 @@ image: https://cdn.mos.cms.futurecdn.net/T5JfUhu3SzoHKPVvsTWBdA-2560-80.png
 categories:
 - Technology & Software
 - Arts & Culture
+locations:
+- Crete
+- Fall River
+- France
+- Massachusetts
+- Venice
+people:
+- Amicia
+- Asobo
+- Assassin
+- Hugo
+- Indiana Jones
+- Lara Croft
+- Lizzie Borden
+- Matt Cabral
+- Nathan Drake
+- Sophia
+- WhileResonance
+organisations:
+- Asobo Studio
+- Assassin's Brotherhood
+- CNN
+- Entertainment Weekly
+- Fandango
+- Forbes
+- HDR
+- IGN
+- Netflix
+- Sony
+- StarWars.com
+- Ubisoft
 ---
 
 ### TechRadar Verdict

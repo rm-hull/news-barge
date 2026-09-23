@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Beechwood Nursing Home
+- Esplanade Road
+- NORTH Yorkshire
+- Scarborough
+people: []
+organisations:
+- CQC
+- Care Quality Commission
+- Newsquest
 ---
 
 A NORTH Yorkshire nursing home has been praised for its ‘positive culture’ and personalised care by the CQC.

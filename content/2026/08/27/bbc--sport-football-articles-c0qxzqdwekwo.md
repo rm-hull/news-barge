@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Manchester City
+- Senegal
+people:
+- Angus Kinnear
+- David Moyes'
+- Enzo Maresca
+- Iliman Ndiaye
+- Jack Grealish
+organisations:
+- Al-Hilal
+- Aston Villa
+- BBC Radio Merseyside
+- BBC Sport.
+- Everton
+- Grealish
+- Manchester City
+- Toffees
 ---
 
 ![Jack Grealish playing for Manchester City](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/c1b7/live/27fb9400-a1fe-11f1-a97e-999c5aae08bf.jpg)

@@ -14,6 +14,18 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Dhammakaya Meditation Centre
+- Hebburn Riverside Park
+- North East
+people:
+- Karucha Sripramote
+- Monk Kom
+- Read More:** Sripramote
+organisations:
+- Church of St Andrew
+- Northern Echo
+- Northumbria Police
 ---
 
 *(Image: Provided)*

@@ -14,6 +14,25 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- England
+- Wales
+people:
+- Adas Rico Wojtulewicz-Richmond
+- Andrew Griffith
+- Andy Burnham
+- Jonathan Reynolds
+- Sarah Olney
+- Sarah Sackman
+organisations:
+- BBC Breakfast
+- BBC News
+- Citizens Advice
+- Competition and Markets Authority
+- Freedom of Information
+- NFB
+- National Federation of Builders
+- Trading Standards
 ---
 
 ![A couple looks at plans with a builder in their home, which is under renovation](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/3e64/live/5cd9a9c0-a22e-11f1-bd54-531a21306a62.jpg)

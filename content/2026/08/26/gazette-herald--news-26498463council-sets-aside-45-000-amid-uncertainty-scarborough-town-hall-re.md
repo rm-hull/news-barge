@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Malton
+- North Yorkshire
+- Ryedale House
+- Scarborough Town Hall
+people:
+- Chris Clark
+- Cllr Stuart
+- William Stuart
+organisations:
+- A64
+- Labour
+- North Yorkshire Council
+- Resolution House
+- Scarborough Town Council
 ---
 
 A COUNCIL in North Yorkshire has approved a new budget in case it has to make ‘difficult choices’.

@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Leeds
+- UK
+people:
+- Michael Spicer
+- Rebecca Willow
+organisations:
+- Edinburgh Festival Fringe
+- Leeds City Varieties
+- London’s Leicester Square Theatre
 ---
 
 *(Image: Rebecca Willow)*

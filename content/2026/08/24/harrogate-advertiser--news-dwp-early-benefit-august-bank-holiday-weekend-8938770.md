@@ -12,6 +12,15 @@ categories:
 - Harrogate
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Scotland
+- UK
+people:
+- Stephen Timms
+organisations:
+- DWP
+- Social Security and Disability
+- Universal Credit
 ---
 
 # DWP confirms full list of 11 benefits to be paid early this August bank holiday weekend

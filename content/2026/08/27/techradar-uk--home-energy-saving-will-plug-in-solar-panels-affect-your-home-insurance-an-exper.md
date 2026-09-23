@@ -12,6 +12,18 @@ image: https://cdn.mos.cms.futurecdn.net/nRNZ2GecVWNcXzzerwmyHj-2560-80.jpg
 categories:
 - Technology & Software
 - News & Politics
+locations:
+- UK
+people:
+- Nathan Blackler
+organisations:
+- Go.Compare
+- Google News
+- PC Format
+- PC Plus
+- SCA
+- Speciality Coffee Association
+- TechRadar
 ---
 
 ![Couple installing solar panel on balcony](https://cdn.mos.cms.futurecdn.net/nRNZ2GecVWNcXzzerwmyHj.jpg) 

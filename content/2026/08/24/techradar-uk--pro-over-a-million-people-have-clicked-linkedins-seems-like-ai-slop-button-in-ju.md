@@ -11,6 +11,19 @@ image: https://cdn.mos.cms.futurecdn.net/UMfvYpANmdmdE8jBmnEsEn-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Hari Srinivasan
+- Mike Moore
+organisations:
+- AI
+- B2B
+- B2C
+- Google News
+- ITProPortal
+- LinkedIn
+- TechRadar Pro
 ---
 
 ![Frustrated User](https://cdn.mos.cms.futurecdn.net/UMfvYpANmdmdE8jBmnEsEn.jpg) 

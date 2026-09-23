@@ -15,6 +15,40 @@ categories:
 - York
 - Film & TV
 - Arts & Culture
+locations:
+- The Drovers
+- UK
+- US
+people:
+- Anna Madeley
+- Callum Woodhouse
+- Callum Woodhouse.
+- Charlotte Beauvoir
+- Darrowby Nicholas Ralph
+- Dorothy
+- Gaia Wise
+- Geoff Hatfield
+- Hall
+- Helen Herriot
+- Isabella Ward
+- James Herriot
+- Jimmy Herriot
+- Maimie McCoy
+- Nicholas Ralph
+- Rachel Shenton
+- Rosie Herriot
+- Samuel West
+- Siegfried Farnon
+- Thomas Riches
+- Tristan Farnon
+organisations:
+- Charlotte
+- Dorothy
+- Herriots
+- MASTERPIECE
+- PBS
+- Playground Television UK Ltd
+- Sweet Shop
 ---
 
 Although 5 is keen to hold back most of the surprises until series seven is launched and each of the six episodes airs weekly (plus a Christmas Special in December), these photos reveal some intriguing insights into some of the storylines - and relationship developments - that will be coming up in the first episode and beyond.

@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Lagos
+- Nigeria
+- Plateau
+- Sokoto
+- West and Central Africa
+people:
+- Benjamin Danjuma
+- Fu’ad Lawal
+- Hisbah
+- Ibrahim Nuhu
+- Oluwamayowa Idowu
+- Usman Abdullahi Jatau
+- Vincent Tabat
+organisations:
+- AP
+- Archivi.ng
+- Culture Custodian
+- Sokoto State Hisbah
+- Supreme Court
+- The Associated Press
 ---
 
 Multicolored strobe lights sweep across a dance floor soon to throng with sweaty revelers and shrilling voices singing along to Afrobeats in a nightclub that is thriving despite being in one of northern Nigeria’s most deeply conservative states.

@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Greece
+- Italy
+- Mexica
+- Mexico City
+- Oaxaca
+- Spain
+- U.S.
+- United States
+- Washington
+people:
+- Antonio Martinez
+- Georgina Yescas Trujano
+- Jaime Castaneda
+- Parmigiano Reggiano
+- Rodolfo Navarro
+- Washington
+organisations:
+- EU
+- European Commission
+- European Union
+- GI
+- Grated Parmesan
+- Institute for Agriculture and Trade Policy
+- Kraft
+- Lactography
+- Office of the U.S. Trade Representative
+- Parmigiano Reggiano
+- Reuters
+- U.S. Dairy Export Council
+- Walmart
 ---
 
 Disagreements over cheese nomenclature have become a major point of friction in trade negotiations between the United States and Mexico, according to two Mexican government sources speaking on condition of anonymity because of the delicate nature of the diplomatic talks.

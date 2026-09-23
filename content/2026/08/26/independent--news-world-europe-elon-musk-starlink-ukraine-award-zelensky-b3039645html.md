@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Crimea
+- Donbas
+- Kharkiv
+- Kherson
+- Kyiv
+- Russia
+- U.S.
+- Ukraine
+- United States
+people:
+- Donald Trump
+- Musk
+- Mykhailo Fedorov
+- Volodymyr Zelensky
+organisations:
+- '## Elon Musk'
+- Defense Ministry
+- Kyiv
+- SpaceX
+- Starlink
 ---
 
 Ukrainian President Volodymyr Zelensky has awarded Elon Musk the Order of Freedom, one of the nation's highest state honors, citing his "outstanding personal merits" in safeguarding human life and liberty while reinforcing connections between Ukraine and the United States.

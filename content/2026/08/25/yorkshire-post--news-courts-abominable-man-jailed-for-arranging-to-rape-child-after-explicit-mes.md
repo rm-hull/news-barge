@@ -14,6 +14,22 @@ categories:
 - Harrogate
 - York
 - Family & Parenting
+locations:
+- Great Union Street
+- Hull Crown Court
+- Hull Paragon Train Station
+people:
+- Amy Gee
+- Daniel O’Flynn
+organisations:
+- O’Flynn
+- O’Flynn's
+- O’Flynn’s
+- POLIT
+- Police Online Investigation Department
+- Police Online Investigation Team
+- Sex Offenders Register
+- South East Regional Organised Crime Unit
 ---
 
 # 'Abominable' man jailed for arranging to rape child after explicit messages to decoy

@@ -11,6 +11,20 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- China
+- Hawaii
+- Russia
+- Texas
+- UK
+- US
+people: []
+organisations:
+- Engels-2
+- Get Tom's Hardware
+- Royal Navy
+- Trump
+- USS Essex
 ---
 
 ![clouds behind some solar panels](https://cdn.mos.cms.futurecdn.net/vNEVWceFT8L4AN8TD2885j-320-80.png)

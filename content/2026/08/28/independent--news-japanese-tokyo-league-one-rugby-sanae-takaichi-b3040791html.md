@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Japan
+people:
+- Sanae Takaichi
+- Timothy Lafaele
+organisations:
+- Japan Rugby League One
+- Japan Rugby One
 ---
 
 Rugby officials in Japan on Friday said they have reached a settlement to allow players with Japanese nationality, but who were born elsewhere, to qualify for the top eligibility category in domestic Rugby League One.

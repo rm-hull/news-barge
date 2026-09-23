@@ -15,6 +15,17 @@ categories:
 - News & Politics
 - Food & Cooking
 - Health & Fitness
+locations:
+- Bradford
+- Great Horton
+- Spencer Road
+people:
+- Adil Hala Butchers
+organisations:
+- Adil Halal Butchers
+- Adil Halal Butchers Ltd
+- Bradford Council
+- T&A
 ---
 
 *(Image: T&A)*

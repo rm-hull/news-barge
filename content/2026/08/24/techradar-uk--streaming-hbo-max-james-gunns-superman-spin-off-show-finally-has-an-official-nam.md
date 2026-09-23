@@ -14,6 +14,62 @@ categories:
 - Technology & Software
 - Film & TV
 - Comedy & Entertainment
+locations:
+- DC
+- Gorilla City
+- Gorilla Grodd
+- Lois Lane
+- Stryker's Island Penitentiary
+people:
+- Andrew Leeds
+- Arian Moayed
+- Barry Allen
+- Beck Bennett
+- Cat Grant
+- Dan Perrault
+- Eduardo Franco
+- Gorilla Grodd
+- James Gunn
+- Jimmy Olsen
+- Jimmy Tatro
+- Mary Holland
+- Mikaela Hoover
+- Perry White
+- Peter Safran
+- Rachel Brosnahan
+- Scarlett Speedster
+- Skyler Gisondo
+- Steve Lombard
+- Superman
+- Tim Baltz
+- Tom
+- Tony Yacenda
+- Wendell Pierce
+- Zoe
+organisations:
+- American Vandal
+- DC Studios
+- DCU
+- Daily Planet
+- Disney Plus
+- Ghost
+- Google News
+- Grodd's
+- HBO Max
+- Marvel Cinematic Universe
+- Marvel Studios
+- Metropolis District Attorney
+- Metropolis Freedom Project
+- Moon Knight TV
+- Netflix
+- Star Wars
+- Stranger Things
+- TechRadar
+- The Daily Planet
+- The Flash
+- The People
+- The Righteous Gemstones
+- Twitter
 ---
 
 ![Jimmy Olsen sitting at his Daily Planet desk and holding a newspaper in 2025's Superman movie](https://cdn.mos.cms.futurecdn.net/kMhY77mSogaASd6FFy4wgK.jpg) 

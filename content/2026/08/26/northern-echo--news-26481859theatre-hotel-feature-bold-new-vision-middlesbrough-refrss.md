@@ -14,6 +14,49 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- A66
+- Canary Wharf
+- Centre Square
+- Civic Centre
+- Coulby Newham
+- Europe
+- Gresham
+- Gurney House
+- Hill Street Centre
+- Hill Street Shopping Centre
+- London
+- Middlehaven
+- Middlesbrough
+- Newham Hall
+- North East
+- UK
+- West End
+- YOUR
+people:
+- Chris Cooke
+- Richard Horniman
+organisations:
+- AV Dawson and Behaviour UK
+- Academic Centre of Excellence for Surgery
+- Canary Wharf
+- Cleveland Police
+- Council’s Executive
+- James Cook University Hospital
+- Leonardo Hotel
+- MIDDLESBROUGH COUNCIL
+- Middlesbrough College
+- Middlesbrough Council
+- Middlesbrough Football Club
+- NHS
+- North East Chamber of Commerce
+- Premier Inn
+- Public Notice Portal
+- Tees Valley Combined Authority
+- Teesside Park
+- Teesside University
+- The Hunger Games on Stage
+- Troubadour Theatre
 ---
 
 ### What is the Public Notice Portal?

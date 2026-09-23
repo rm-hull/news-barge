@@ -12,6 +12,24 @@ categories:
 - Technology & Software
 - Hardware
 - Personal Finance & Investing
+locations:
+- U.S.
+people:
+- Bill Gates
+- Bruno Ferreira
+- Chey Tae-won
+- Tom
+organisations:
+- Advantage Memory Corporation
+- Apple Power Macintosh
+- Google News
+- HBM
+- PC
+- PR
+- RAM
+- Redditor
+- SK
+- Tom's Hardware
 ---
 
 ![Memory chips](https://cdn.mos.cms.futurecdn.net/Qdj6oxJ9H7Snacxk9ML8XD.jpg) 

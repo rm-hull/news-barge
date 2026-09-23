@@ -12,6 +12,27 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- '## York'
+- Alabama
+- America
+- Atlantic
+- Birmingham
+- North Yorkshire
+- UK
+- US
+- York Minster
+people:
+- David Harrison
+- Lise Kaye-Bell
+- Ms Kaye-Bell
+organisations:
+- Burton Green Primary School
+- Kyra Women’s Project
+- Ms Kaye-Bell
+- Red Flags
+- Soundproofbox CIC
+- Vale of York School
 ---
 
 ## York theatre-maker takes relationship awareness show across the Atlantic

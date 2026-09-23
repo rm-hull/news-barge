@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 - Arts & Culture
+locations:
+- County Durham
+- Deneholme
+- Harry Potter-style
+- High Street
+- Michael Pool
+- North Yorkshire
+- Norton High Street
+- Stockton
+- Teesside
+people:
+- Deneholme
+- Michael Pool
+organisations:
+- Lusso
 ---
 
 A stunning Grade II listed townhouse in the heart of Teesside is proving that period properties don't have to choose between character and luxury.

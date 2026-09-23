@@ -15,6 +15,20 @@ categories:
 - UK
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Washington Hilton
+people:
+- Anthony Guglielmi
+- Barron Trump
+- Donald Trump
+- JD Vance
+- Nate Herring
+organisations:
+- MS NOW
+- Office of Professional Responsibility
+- Secret Service
+- U.S. Secret Service
+- White House Correspondents' Association
 ---
 
 Three non-law-enforcement U.S. Secret Service officials have been placed on administrative leave following the launch of an internal inquiry by the agency’s professional standards office.

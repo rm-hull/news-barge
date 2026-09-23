@@ -12,6 +12,27 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Ebor
+- York Racecourse
+people:
+- Anthony Chappel-Ross
+- Camilla
+- Elizabeth Parker
+- Emma Farry
+- Frank Dwyer
+- Frank Dwyer Hot
+- Helena Towse
+- Lady
+- Mike Tipping
+- Natalie Fowler
+- Nigel French
+- Sasha Parker
+- William Derby
+organisations:
+- PA Wire
+- The Press
+- The Press Attendance
 ---
 
 ## York Races fashion front-runners through the years - in photos

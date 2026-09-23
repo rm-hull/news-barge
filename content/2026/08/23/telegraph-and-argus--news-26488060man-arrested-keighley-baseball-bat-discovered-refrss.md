@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Cavendish Street
+- Keighley
+- UK
+- West Yorkshire
+people: []
+organisations:
+- '## Police Highlight Proactive Patrol Keighley Neighbourhood Policing Team'
+- FULL
+- Immigration Enforcement
+- Keighley Neighbourhood Policing Team
+- Toyota
+- West Yorkshire Police
+- West Yorkshire Police A
 ---
 
 A wanted man was arrested in Keighley after police discovered a wooden baseball bat hidden beside the driver's seat of his car.

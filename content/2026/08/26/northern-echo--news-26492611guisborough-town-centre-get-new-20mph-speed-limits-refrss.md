@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Bakehouse Square
+- Bow Street
+- Chaloner Mews
+- Chaloner Street
+- Chapel Street
+- Church Street
+- Fountain Street
+- Guisborough
+- Kirkleatham Street
+- New Road
+- Redcar and Cleveland House
+- Walton Terrace
+- Westgate
+- YOUR
+people: []
+organisations:
+- Cleveland Council
+- High Court
+- Public Notice Portal
+- Redcar
+- The Northern Echo
 ---
 
 *(Image: NQ Archive)*

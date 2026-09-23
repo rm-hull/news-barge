@@ -11,6 +11,47 @@ description: We've been promised a surprise
 image: https://cdn.mos.cms.futurecdn.net/qFQb6btdAY79pqL3HsSSU8-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Apple Park
+- Apple Park Ring
+- Siri AI
+- TechRadar
+- US
+people:
+- Bruce Springsteen
+- Jacob Krol
+- John Ternus
+- John Ternus'
+- Lance Ulanoff
+- Mark Gurman
+- Siri AI
+- Tim Cook
+organisations:
+- ANC
+- AirPods
+- Apple Park
+- Apple TV
+- Apple Watch
+- Apple Watches
+- Beats
+- Bloomberg
+- CNBC
+- CNET
+- CNN Underscored
+- Cameras
+- Disney
+- Google News
+- Jacob Krol
+- Mac Studio
+- Marvel
+- Mashable
+- Men’s Journal
+- News for TechRadar
+- Samsung
+- Siri AI
+- Steve Jobs Theater
+- TheStreet
+- iPhone Air
 ---
 
 ![Apple Surprise and shine invite](https://cdn.mos.cms.futurecdn.net/qFQb6btdAY79pqL3HsSSU8.jpg) 

@@ -14,6 +14,14 @@ categories:
 - Europe
 - News & Politics
 - Arts & Culture
+locations:
+- Nanterre
+- Paris La Défense Arena
+- Plenitude Arena
+- Royal Monceau
+people:
+- Céline Dion
+organisations: []
 ---
 
 Canadian music superstar Céline Dion has arrived in Paris, around two weeks ahead of the start of her highly anticipated concert residency. A crowd of fans gathered outside the Royal Monceau, where she will stay during her time in the capital. Admirers who saw her described her as *“in better shape”*,*“relaxed”* and*“as beautiful as ever”,* saying they were*“very happy”* to see her up close.

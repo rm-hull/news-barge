@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- NHS England
+people:
+- Athena Lamnisos
+- Gem Sofianos-Boorman
+- Michelle Mitchell
+- Ms Sofianos-Boorman
+- Sue Mann
+- Yvette Cooper
+organisations:
+- Cancer Research UK
+- MHRA
+- Medicines and Healthcare products Regulatory Agency
+- NHS England
+- The Eve Appeal
+- University College London
 ---
 
 Free at-home testing kits are to be sent to millions of women in England on the NHS who have missed their cervical screening appointments.

@@ -13,6 +13,43 @@ categories:
 - News & Politics
 - Technology & Software
 - Comedy & Entertainment
+locations:
+- Britain
+- England
+- Exeter
+- Kyiv
+- Middlesborough
+- Nazi Germany
+- North Cumbria
+- North Devon
+- Russia
+- Snapchat
+- South Yorkshire
+- UK
+- US
+- Ukraine
+people:
+- Andy Burnham
+- Angela Rayner
+- Donald Trump
+- Graeme Dott
+- Putin
+organisations:
+- Burnham
+- Cleveland Police
+- Daily Express
+- Daily Mail
+- Daily Mirror
+- Daily Telegraph
+- Financial Times
+- Guardian
+- Kyiv
+- Metro
+- No 10
+- Ofcom
+- Sun
+- TikTok
+- Trump
 ---
 
 ![The headline on the front page of the Times reads: “'Realistic' Burnham hints at tax increases in budget".](https://ichef.bbci.co.uk/ace/standard/809/cpsprodpb/4624/live/30c32470-a002-11f1-aed2-8d6da8d75094.jpg)

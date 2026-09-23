@@ -12,6 +12,16 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford District
+- Keighley
+- West Yorkshire
+people: []
+organisations:
+- A629
+- Bradford District’s Vision Zero
+- Operation Steerside
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

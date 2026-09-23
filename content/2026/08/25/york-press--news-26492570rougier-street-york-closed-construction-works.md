@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- '## Key'
+- A KEY York
+- Bar Lane
+- Evans Dakota
+- George Hudson Street
+- Kevin Glenton
+- Malmaison York
+- Micklegate Bar
+- Northern House
+- Rougier Street
+- Station Avenue
+- Station Road
+- Tanner Row
+- Toft Green
+- York Railway Station
+people: []
+organisations:
+- Alice Kavanagh
+- City of York Council
+- East Yorkshire
+- Rougier Street Closure
+- The Press
 ---
 
 ## Key road through York city centre closed for construction works

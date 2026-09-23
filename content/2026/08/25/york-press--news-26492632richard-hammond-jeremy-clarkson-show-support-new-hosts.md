@@ -13,6 +13,29 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- North Yorkshire
+- Rougier Street
+- York
+people:
+- Andy Wilman
+- Francis Bourgeois
+- Hammond Mr Hammond
+- James Engelsman
+- James May
+- Jeremy Clarkson
+- Richard Hammond
+- Thomas Holland
+organisations:
+- Amazon Prime
+- Auto Express
+- BBC
+- Marvel
+- Ripon Grammar School
+- The Sun
+- Throttle House
+- Top Gear
+- YouTube
 ---
 
 *(Image: PA/Amazon Prime)*

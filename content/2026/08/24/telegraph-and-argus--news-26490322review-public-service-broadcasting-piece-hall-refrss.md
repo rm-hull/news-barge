@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - Music
 - Technology & Software
+locations:
+- Euston
+- Halifax
+- London
+- Piece Hall
+- Scotland
+- US
+- Welsh Valleys
+people:
+- Amelia Earhart
+- Bastille
+- Eera
+- Esq
+- Fat Boy Slim
+- Frontman J. Willgoose
+- J Willgoose
+- JF Abraham
+- Wrigglesworth
+organisations:
+- Blue Heaven
+- Cuffe & Taylor
+- Kraftwerk
+- Piece Hall
+- Public Service Broadcasting
+- TK Maxx
+- The Piece Hall
+- The Pit
+- Turnstile
 ---
 
 I DIDN'T know much about Public Service Broadcasting, but I liked their name. Being a bit late to the party, I had to do some homework on the 'London-based masters of conceptual pop historiography' ahead of their gig at Piece Hall.

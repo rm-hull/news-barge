@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Malton Skatepark
+- North Yorkshire
+- Norton
+people:
+- Ryan Swain
+organisations:
+- CCTV
+- North Yorkshire Police
+- Norton-on-Derwent Town Council
+- Ryedale Skate School
 ---
 
 ## Zero-tolerance stance on bullying and vandalism at skatepark

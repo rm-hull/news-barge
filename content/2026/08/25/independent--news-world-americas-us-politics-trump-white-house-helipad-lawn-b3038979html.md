@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Home, Garden & DIY
+locations:
+- Florida
+- Iran
+- Pennsylvania Avenue
+- Rose Garden
+- South Lawn
+- Washington
+- Washington, D.C.
+- White House
+people:
+- Davis Ingle
+- Donald Trump
+- Jonathan Swan
+- Maggie Haberman
+- Xi Jinping
+organisations:
+- East Wing
+- Lincoln Memorial
+- Lockheed Martin
+- New York Times
+- Sikorsky Aircraft
+- Supreme Court
+- The Washington Post
+- Trump
+- UFC
 ---
 
 President Donald Trump has ordered further work on the South Lawn of the White House where his new helipad is being built, calling for the garden’s entire slope to be leveled out, according to a report.

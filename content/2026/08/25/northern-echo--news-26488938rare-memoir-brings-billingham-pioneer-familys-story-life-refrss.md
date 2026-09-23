@@ -14,6 +14,37 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Anhydrite Mine
+- Bedale Avenue
+- Billingham
+- Consett
+- Cowpen
+- Loftus
+- North East
+- North Yorkshire
+- St Cuthbert’s Church
+- Town
+people:
+- Alison Fraser
+- Amanda Owen
+- Blanche Madden
+- Charles Wellington
+- Chris Newton
+- Friend
+- Martha Mary Sayers
+- Mike
+- Nana
+- Wilfred Tom
+- Wilfred Tom Sayers
+organisations:
+- Brunner Mond & Co
+- Church
+- Durham Cathedral
+- ICI
+- Newton
+- TV farm Darlington
+- Yorkshire
 ---
 
 A remarkable memoir charting one family's journey from rural North Yorkshire to the industrial heart of the North East is set to be shared publicly for the first time at a special event.

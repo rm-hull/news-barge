@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Bradford
+- Shipley Airedale Road
+- Vision Zero West Yorkshire
+- West Yorkshire
+people: []
+organisations:
+- Operation Steerside
+- Road Safety Sharing
+- Volkswagen Crafter
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

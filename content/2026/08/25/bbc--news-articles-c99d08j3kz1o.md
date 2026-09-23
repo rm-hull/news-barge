@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Beijing
+- China
+- China.
+- Hainan Province
+- Qionghai
+- Shaanxi
+- Shanghai
+- Yan'an
+people:
+- China Xiaomei
+- Lu Jingchan
+- Xiang Biao
+organisations:
+- BBC
+- Communist Party
+- Crime Prevention Institute
+- Max Planck Institute for Social Anthropology
+- Mental Health Blue Book
+- Ministry of Justice
+- National Narcotics Control Commission
+- Parkinson's
+- State Council
+- The Lancet
+- Yichuan Middle School
 ---
 
 ![A teenager sits at a desk with her head down looking at a paper. She is writing on it with black pen. Stationery and a teddy bear sits on her desk. In the background are other teenagers at desks, all spaced out, in a classroom.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c98d/live/383b0160-a08d-11f1-84af-1fbec28b23b2.jpg)

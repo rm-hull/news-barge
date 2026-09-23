@@ -13,6 +13,25 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Calder Valley
+- Gibson Mill
+- Hebden Bridge
+- Peckett Well
+- Ripon
+- Robin Hood
+- Yorkshire
+people:
+- Liz Flanagan
+- Michelle Dodds
+- Otto
+- Rozie Kelly
+- Suzanne Snow
+organisations:
+- Arvon
+- Bean & Bemble
+- Harvey Williams-Fairley Photography
+- Yorkshire
 ---
 
 *(Image: Harvey Williams-Fairley Photography)*

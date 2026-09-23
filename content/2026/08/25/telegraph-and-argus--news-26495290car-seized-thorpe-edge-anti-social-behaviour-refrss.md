@@ -12,6 +12,16 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Thorpe Edge
+people: []
+organisations:
+- '### Full'
+- Bradford Council
+- Public Space Protection Order
+- Public Space Protection Orders
+- Safer Bradford
+- West Yorkshire Police
 ---
 
 *(Image: Pixabay)*

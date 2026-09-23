@@ -14,6 +14,25 @@ image: https://cdn.mos.cms.futurecdn.net/wcAzmfZGeCK5fM7c6eT2DC-2000-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations: []
+people:
+- Dazed
+- Jason
+- Lucia
+- Rob Nelson
+- Rupert Humphries
+organisations:
+- Demi Williams
+- GTA
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- Netflix
+- PS5
+- Rockstar Games
+- Rockstar North
+- TechRadar
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/wcAzmfZGeCK5fM7c6eT2DC.jpg) 

@@ -12,6 +12,55 @@ image: https://static.independent.co.uk/2026/08/27/1/57/GettyImages-2290822189.j
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- Brussels
+- Europe
+- France
+- Iran
+- Kyiv
+- Latvia
+- London
+- Moscow
+- Netherlands
+- Poland
+- Russian Federation
+- Sloviansk Russia
+- Spain
+- Sweden
+- The Kremlin
+- U.S.
+- UK
+- US
+- Ukraine
+- White House
+- Zelenskyy
+people:
+- Andy Burnham
+- Dmitry Peskov
+- Donald Trump
+- Elbridge Colby
+- John Ratcliffe
+- Terence Crawford
+- Valery Gerasimov
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- CIA
+- Defence Ministry
+- EU
+- European Union
+- Financial Times
+- Flightradar24
+- General Staff
+- Independent
+- Kyiv
+- Nato
+- Trump
+- US Air Force C-17A Globemaster III
+- US Pentagon
+- Vnukovo International Airport
+- Wall Street Journal
 ---
 
 CIA director John Ratcliffe warned Russia against an attack on a Nato member, sources familiar with the matter told the *Wall Street Journal* and*Politico*. 

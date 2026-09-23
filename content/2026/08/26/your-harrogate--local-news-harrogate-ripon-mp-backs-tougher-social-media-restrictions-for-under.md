@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - News & Politics
 - Society & Culture
+locations:
+- Westminster
+people:
+- Julian Smith
+organisations:
+- Government
+- Instagram
+- Ripon
+- Signal
+- TikTok
+- YouTube
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8eb3b778909369eab.jpg) 

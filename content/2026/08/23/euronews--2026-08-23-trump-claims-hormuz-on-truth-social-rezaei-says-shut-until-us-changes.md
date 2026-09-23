@@ -12,6 +12,26 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- America
+- California
+- Gulf
+- Iran
+- New York
+- Strait of Hormuz
+- Sultanate of Oman
+- Tehran
+- US
+- United States
+- Washington
+people:
+- '## Rezaei'
+- Donald Trump
+- Kazem Gharibabadi
+- Mohsen Rezaei
+organisations:
+- Supreme National Security Council
+- Truth Social
 ---
 
 ## Rezaei told Iranian state TV that the Strait of Hormuz is closed, despite US claims, and will not reopen until America changes its 'behaviour'.

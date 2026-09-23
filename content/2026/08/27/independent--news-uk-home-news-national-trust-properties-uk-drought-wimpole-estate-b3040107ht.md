@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Cambridgeshire
+- Wimpole Estate
+people:
+- Dave Hassall
+organisations:
+- National Trust
+- Wimpole Estate “
 ---
 
 Drought conditions have left a National Trust estate facing a hay shortage, with stalling grass growth forcing livestock onto winter feed months early.

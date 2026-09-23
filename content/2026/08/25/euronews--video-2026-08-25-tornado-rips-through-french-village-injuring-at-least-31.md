@@ -12,6 +12,12 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Aude
+- France
+- Pomas
+people: []
+organisations: []
 ---
 
 A tornado tore through Pomas in France's Aude department, damaging homes and ripping roofs apart.

@@ -14,6 +14,24 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Cardale Park
+- Harrogate
+- York
+people: []
+organisations:
+- '**__JP Commercial Vehicles'
+- '**__Rafi'
+- '**__Restructure'
+- BTG Begbies Traynor
+- Companies House
+- FK Building Ltd
+- Frango Eduardo Ltd
+- HMRC
+- IMS Energy of York
+- Spicebox of York
+- Street View
+- non-VAT
 ---
 
 *(Image: Street View)*

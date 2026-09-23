@@ -13,6 +13,24 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Beverley Guildhall
+- Beverley Minster
+- Hengate
+- Ladygate
+- YOUR
+- Yorkshire
+people:
+- Beverley
+- Elisabeth
+- Ivan Hall
+- Ladygate
+organisations:
+- Beverley Civic Society
+- Beverley Town Council
+- East Riding of Yorkshire Council
+- No. 11
+- Public Notice Portal
 ---
 
 *(Image: East Riding of Yorkshire Council planning)*

@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Beverley
+- Flemingate
+- Yorkshire
+people:
+- Sylvia
+organisations:
+- Humberside Police
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

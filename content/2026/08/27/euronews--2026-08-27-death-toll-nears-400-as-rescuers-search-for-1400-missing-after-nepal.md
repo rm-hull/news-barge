@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - Science
 - History
+locations:
+- Australia
+- Beijing
+- Britain
+- China
+- Gyirong Port
+- India
+- Kathmandu
+- Malaysia
+- Mount Kailash
+- Nepal
+- Nepal-China
+- Nepal-Tibet
+- Netherlands
+- Portugal
+- South Africa
+- South Korea
+- Tibet
+- Timure
+- United States
+people:
+- Balendra Shah
+- Dalai Lama
+- Li Qiang
+- Omkar Joshi
+- Qianggong Zhang
+- Ruth Gamble
+- Sadhguru
+organisations:
+- AFP
+- Flood Forecasting Division
+- International Centre for Integrated Mountain Development
+- La Trobe University
+- US Geological Survey
+- USGS
+- Xinhua
 ---
 
 ## The US Geological Survey (USGS) said the disaster was caused by a glacial collapse that triggered a vast flow of icy debris.

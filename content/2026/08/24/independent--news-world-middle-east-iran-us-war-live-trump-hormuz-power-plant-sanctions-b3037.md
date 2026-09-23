@@ -14,6 +14,46 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Afghanistan
+- China
+- Independent Arabia
+- Iran
+- Islamic Republic
+- Israel
+- Middle East
+- Nasser Hospital
+- New York
+- Pakistan
+- Persian Gulf
+- Russia
+- Saudi Arabia
+- Somalia
+- South Gaza
+- Strait of Hormuz
+- Tehran
+- Turkey
+- US
+- Washington
+people:
+- '**Bel Trew'
+- Bill O’Reilly
+- Donald Trump
+- Jeannette Vargas
+- Joe Biden
+- Maira Butt
+- Marco Rubio
+- Mariam Abu Dagga
+- Mohsen Rezaei
+- Patrick De Haan
+- Scott Bessent
+organisations:
+- FT
+- Fox News
+- GasBuddy
+- National Iranian American Council
+- Treasury
+- Trump
 ---
 
 Donald Trump’s administration is set to lay out a programme of sanctions against Iran it has dubbed “economic D-Day”, despite warnings from Tehran that this will be met with an immediate response.

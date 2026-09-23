@@ -14,6 +14,25 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Bradford’s
+- Manchester Road
+- Marshfield
+- New Inn
+- Park Lane
+- West Bowling
+- YOUR
+people: []
+organisations:
+- Bradford Council
+- Bradford Trident
+- Ian Greenwood Business Park
+- Lidl
+- New Inn
+- Newsquest
+- Public Notice Portal
+- Public Notice Portal PLANS
 ---
 
 *(Image: T&A)*

@@ -13,6 +13,22 @@ image: https://static.independent.co.uk/2026/08/28/07/Hong_Kong_Tiananmen_Trial_
 categories:
 - News & Politics
 - UK
+locations:
+- Beijing
+- China
+- Hong Kong
+- Tiananmen Square
+people:
+- Albert Ho
+- Alex Lee
+- Chow Hang-tung
+- Erik Shum
+- Jimmy Lai
+- Lee Cheuk-yan
+organisations:
+- Communist Party
+- Hong Kong Alliance in Support of Patriotic Democratic Movements of China
+- Patreon
 ---
 
 Three former organizers of Hong Kong’s annual vigils in remembrance of the 1989 Tiananmen Square crackdown returned to court Friday to argue over their sentences after being convicted of inciting subversion under a national security law imposed by China.

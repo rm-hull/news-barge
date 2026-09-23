@@ -15,6 +15,36 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 - Personal Finance & Investing
+locations:
+- Britain
+- Covid
+- England
+- UK
+- United Kingdom
+people:
+- Alan Milburn
+- Andy Burnham
+- Brexit
+- Clive Dickin
+- Covid
+- Keir Starmer
+- Marley Morris
+organisations:
+- Brexit
+- Checkatrade
+- Customs Union
+- EU
+- Europe Union
+- Federation of Master Builders
+- IPPR
+- Institute of Public Policy for the Regions
+- Labour Party
+- Migration Advisory Committee
+- NASC
+- National Access and Scaffolding Confederation
+- Office for National Statistics
+- Places for People
+- Skills Training Group
 ---
 
 Andy Burnham’s ambitions to build tens of thousands of new council houses is under threat because of a labour shortage caused by Brexit, industry leaders have warned.

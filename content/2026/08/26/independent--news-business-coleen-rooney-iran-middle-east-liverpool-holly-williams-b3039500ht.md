@@ -14,6 +14,17 @@ categories:
 - Business & Entrepreneurship
 - Health & Fitness
 - Personal Finance & Investing
+locations:
+- Iran
+- Middle East
+- UK
+people:
+- Coleen Rooney
+- Wayne Brown
+organisations:
+- Applied Nutrition
+- Panmure Liberum
+- TV
 ---
 
 Applied Nutrition has hiked its earnings outlook thanks to a 50% surge in sales and forecast more growth over the year ahead despite pressure from rising whey prices.

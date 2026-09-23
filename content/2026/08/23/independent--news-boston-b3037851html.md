@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - Music
+locations: []
+people:
+- Andris Nelsons
+- Chad Smith
+organisations:
+- BSO
+- Boston Musicians’ Association
+- Boston Symphony Orchestra
+- Boston Symphony Orchestra Players’ Committee
+- Boston Symphony Strike
+- The Associated Press
+- The Boston Symphony Orchestra
 ---
 
 Boston Symphony Orchestra and musicians extend contract for 48 hours, delaying possible first strike

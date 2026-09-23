@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Finchley
+- Hemel Hempstead
+- Hertfordshire
+- London
+people:
+- Richard Luker
+- Sabrina Carpenter
+- Sally-Anne Bowen
+- Tobias Oliver
+organisations:
+- BBC London
+- BBC Radio London
+- Christ's College
+- Harrow Crown Court
 ---
 
 ![A woman with blonde hair is wearing a purple shirt and sunglasses and hoop earrings.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/341f/live/13573240-a224-11f1-bd6a-3d72a7f54a3e.png)

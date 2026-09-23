@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Arts & Culture
 - Comedy & Entertainment
+locations:
+- Broadway
+- New York
+- New York.
+people:
+- Colin Callender
+- Daniel Radcliffe
+- Draco Malfoy
+- Emma Watson
+- Harry Potter
+- Hermione
+- Ron Weasley
+- Rupert Grint
+- Sonia Friedman
+- Tom Felton
+organisations:
+- BBC News
+- Cursed Child
+- Hogwarts
+- Sick Note
+- Snatch and Servant
 ---
 
 ![Rupert Grint in a dark shirt and white T-shirt, smiling and posing in front of a blue background](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1ef1/live/a87f1fd0-a15d-11f1-aaf8-119f176ff4ce.jpg)

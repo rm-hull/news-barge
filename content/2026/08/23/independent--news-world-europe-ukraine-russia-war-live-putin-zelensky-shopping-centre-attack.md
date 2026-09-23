@@ -11,6 +11,47 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Aaron Chown
+- Britain
+- Europe
+- Istanbul
+- Kremlin
+- Kyiv
+- London
+- Moscow
+- PA
+- Russia
+- Russian Federation
+- Turkey
+- UK
+- Ukraine
+- Zelensky
+people:
+- Andrei Kelin
+- Andrey Kelin
+- Andy Burnham
+- Kyiv
+- Olha Savchenko
+- Suha Kidwai
+- Taras Skvortsov
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- 173rd Airborne Brigade
+- Cabinet of Ministers
+- Central Bank
+- EU
+- European Union
+- Kyiv Independent
+- Kyiv Two
+- Nato
+- Ozon
+- Pandora
+- Sberbank
+- Servant of the People
+- The Times
+- US Army
 ---
 
 Vladimir Putin has reportedly pulled Russia’s ambassador from London, accusing Britain of taking the “path of confrontation”.

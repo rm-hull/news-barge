@@ -11,6 +11,26 @@ image: https://cdn.mos.cms.futurecdn.net/kAV78FEzwxTr8Mjix8wrEQ-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bosnia and Herzegovina
+- Brazil
+- India
+- Indonesia
+- Italy
+- Kenya
+- Sarajevo
+- South Africa
+people:
+- Sead
+organisations:
+- Al Jazeera Balkans
+- AnonyMousKIT
+- Apple
+- Google News
+- Lost Mode
+- Represent Communications
+- SOCRadar
+- TechRadar Pro
 ---
 
 ![Girl typing something on mobile phone](https://cdn.mos.cms.futurecdn.net/kAV78FEzwxTr8Mjix8wrEQ.jpg) 

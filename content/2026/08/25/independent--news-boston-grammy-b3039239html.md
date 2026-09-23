@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- Boston
+people:
+- Andris Nelsons
+- Chad Smith
+- David Rufino
+- Todd Seeber
+organisations:
+- BMA
+- BSO Patron Action Network
+- BSO Players Committee
+- Boston Musicians’ Association
+- Boston Symphony Orchestra
 ---
 
 The Boston Symphony Orchestra and its musicians ratified a three-year contract Tuesday, avoiding what could have been the first strike in the ensemble’s 145-year history.

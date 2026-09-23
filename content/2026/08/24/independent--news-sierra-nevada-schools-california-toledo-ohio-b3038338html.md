@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- American West
+- California
+- Charleston
+- Hawk Fire
+- New Orleans
+- Ohio
+- Reno
+- Sierra Nevada
+- Spokane
+- Toledo
+- Washington
+- West Virginia
+people:
+- Jack Brook
+- John Raby
+- Ruby Delatorre
+- Teresa Lenshyn
+organisations:
+- Associated Press
+- Hawk Fire
+- National Interagency Fire Center
+- ___ Seewer
 ---
 
 A wildfire that mushroomed over the weekend in the Sierra Nevada foothills spread perilously close to neighborhoods in Reno, Nevada, forcing authorities to urge more than 90,000 residents to leave their homes.

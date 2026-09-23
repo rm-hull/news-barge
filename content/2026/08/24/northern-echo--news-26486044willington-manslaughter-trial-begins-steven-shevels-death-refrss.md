@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- DURHAM
+- Queen's Head
+- Queen’s Head
+- Willington
+people:
+- Chilton
+- Crook
+- Head
+- Martin Ian Greensmith
+- Shevels
+- Shevels'
+- Steven
+- Tragedy
+- Woman
+organisations:
+- THE NORTHERN ECHO
 ---
 
 *(Image: DURHAM POLICE)*

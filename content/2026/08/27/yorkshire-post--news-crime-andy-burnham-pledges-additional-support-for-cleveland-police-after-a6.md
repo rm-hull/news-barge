@@ -15,6 +15,37 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- A66
+- Cleveland
+- Middlesbrough
+- South Bank
+- South Wales
+- Steele Crescent
+- Teesside
+people:
+- Andy Burnham
+- Andy McDonald
+- Anna Turley
+- Chris McDonald
+- Emily Harrison
+- Jonathan Brash
+- Luke Myer
+- Matthew Blades
+- Ms Turley
+- Owen Humphreys
+- Pc Blades
+- Pc Clough
+- Sarah Jones
+- Tom Clough
+organisations:
+- A66
+- Blackpool Metropole
+- Cleveland Police
+- Government
+- Home Office
+- Redcar Labour
+- Teesside Labour
 ---
 
 # Andy Burnham pledges additional support for Cleveland Police after A66 crash and fatal fire

@@ -12,6 +12,29 @@ image: https://static.independent.co.uk/2026/08/26/8/42/Engagement-overlays-2026
 categories:
 - News & Politics
 - UK
+locations:
+- Australia
+- Britain
+- Downing Street
+- England
+- Europe
+- France
+- Italy
+- UK
+people:
+- '## Burnham'
+- Andy Burnham
+- Farage
+- Keir Starmer
+organisations:
+- Brexit
+- EU
+- European Union
+- Farage
+- House of Lords
+- Labour
+- Reform
+- UKIP
 ---
 
 Andy Burnham has faced a mixed reaction from *Independent* readers after committing to stick to Sir Keir Starmer’s Brexit red lines, days after signalling he wanted to be “bolder” in forging closer ties with Europe. 

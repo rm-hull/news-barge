@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Filey
+- Gap Road
+- Hunmanby Gap
+- North Yorkshire
+- Reighton Gill
+people: []
+organisations:
+- Highway Authority
+- North Yorkshire Council
+- Yorkshire Water
 ---
 
 ## Plans for large clifftop home refused over stability and neighbour concerns

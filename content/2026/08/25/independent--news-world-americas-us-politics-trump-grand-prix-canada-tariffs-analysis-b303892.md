@@ -13,6 +13,43 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Canada
+- Canadian Province of Ontario
+- DC
+- Florida
+- Iran
+- North America
+- Ottawa
+- Pennsylvania Avenue
+- Quebec
+- Rose Garden
+- South Lawn
+- U.S.
+- U.S.A.
+- Washington
+- Washington, D.C.
+- White House
+people:
+- Carney
+- Donald Trump
+- Doug Ford
+- François-Philippe Champagne
+- Reagan
+- Rob Ford
+organisations:
+- Associated Press
+- CTV
+- DC
+- East Wing
+- Ford
+- Formula One
+- Lincoln Memorial Reflecting Pool
+- Medal of Honor
+- Steel
+- Trump
+- Truth Social
+- UFC
 ---
 
 The presidential limousine known as “The Beast” is relatively quick for a vehicle tipping the scales at more than nine tons, but it’s not nearly as fast as an IndyCar.

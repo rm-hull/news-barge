@@ -11,6 +11,26 @@ image: https://cdn.mos.cms.futurecdn.net/7KQvfZGvqYD7sjeou4kTrU-1999-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Amazon
+people:
+- Sophie
+- Tom
+- Zak Killian
+organisations:
+- 3D V-Cache
+- AMD
+- Amazon
+- Get Tom's Hardware
+- Google News
+- HotHardware
+- Intel
+- LGA
+- PC
+- RAM
+- The Tech Report
+- Tom's Hardware
+- Zak
 ---
 
 ![Core Ultra 250K Plus and 270K Plus on a box](https://cdn.mos.cms.futurecdn.net/7KQvfZGvqYD7sjeou4kTrU.jpg) 

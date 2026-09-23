@@ -10,6 +10,22 @@ image: https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- US
+people: []
+organisations:
+- '## AI'
+- 360Learning
+- Ford
+- Future plc
+- HR and Learning and Development (L&D
+- L&D
+- Ramp
+- Revelio Labs
+- Revelio Labs’
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A close up of a person's eyes and face. They are wearing glasses and in one eye there's. a reflection of a digital brain](https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM.jpg) 

@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- North East
+- UK
+- Wallsend
+people:
+- Alfie Joey
+- Amanda Patterson
+- Amy Winehouse
+- Bloom
+- Bloom’
+- Megan Jones
+- Our Megan
+organisations:
+- Restore
 ---
 
 **Alfie Joey writes about his incredible niece and her business partner who are improving lives after cancer**

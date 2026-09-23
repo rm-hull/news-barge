@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Afghanistan
+- Bamiyan
+- Guantanamo Bay
+- Jawzjan
+- Kabul
+- Kandahar
+- Kunduz
+- Sheberghan
+- US
+people:
+- Abdul Samad
+- Abdullah Sarhadi
+- Abid Lalai
+- Estikhbaraat
+- God
+- Habibullah Badr
+- Hafizullah Maroof
+- Hibatullah Akhundzada
+- Hoda
+- Sultan Mohammad Talaee
+- Tahir Shah Seddiqi
+- Tuba
+- Zabihullah Mujahid
+organisations:
+- BBC
+- Emirate
+- Habibullah Badr
+- Taliban
+- UN
+- interior ministry
 ---
 
 ![Portrait of Governor Abdullah Sarhadi in his office in Sheberghan. He has a long grey beard and is wearing a black Afghan headdress, and is looking to the left of the camera.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/9ba8/live/e39b75b0-9d65-11f1-b109-879e35c24276.jpg)

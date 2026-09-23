@@ -13,6 +13,51 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- Broadway
+- Dollywood
+- Dover
+- Nashville
+- Rolling Stone
+- Stream
+- Tennessee
+- Texas
+- US
+people:
+- '," Parton'
+- Alyvia Alyn Lind
+- Avie Lee Parton
+- Barry Mann
+- Beyoncé
+- Carl Dean
+- Cynthia Weil
+- Dabney Coleman
+- Dolly Parton
+- Elvis Presley
+- Eva Cassidy
+- Gibb
+- Howard Stern
+- Jane Fonda
+- Jolene
+- Kenny Rogers
+- Lainey Wilson
+- Latifah
+- Lily Tomlin
+- Miley Cyrus
+- Parkinson
+- Porter Wagoner
+- Reba
+- Shania Twain
+- Whitney Houston
+organisations:
+- BBC
+- Bee Gees
+- Cadillac
+- Guardian
+- Rolling Stone
+- Rough Trade
+- Smooth Radio
+- Spotify
 ---
 
 Watch: "We used flour for powder" - Dolly reflects on early life in 1979 BBC interview

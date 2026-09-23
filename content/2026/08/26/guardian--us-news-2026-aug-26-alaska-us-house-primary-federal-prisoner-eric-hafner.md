@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Alaska
+- New York
+- South Dakota
+- US
+people:
+- Bill Hill
+- Carol Hafner
+- Eric Hafner
+- Matt Schultz
+- Nick Begich
+organisations:
+- Box Elder
+- House
+- Senate
 ---
 
 A man who is serving time in a federal prison in New York advanced on Wednesday from the primary for Alaska’s lone US House seat.

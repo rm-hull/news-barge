@@ -14,6 +14,18 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Mirfield
+- YOUR
+people:
+- Billy Hall
+- Michael Howard
+- Rachel Hall
+- Shaun Fairweather
+organisations:
+- Kirklees Council
+- Public Notice Portal
+- The Vinery Limited
 ---
 
 *(Image: Pixabay)*

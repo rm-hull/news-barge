@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Food & Cooking
 - Health & Fitness
+locations:
+- Alps
+- Europe
+- France
+- Hauts-de-France
+- Jura
+- Normandy
+people:
+- Angélique
+- Annie Genevard
+- Hubert Genty
+organisations:
+- AOP
+- Agence France-Presse
+- Bertrand Guay
+- INAO
+- La Montagne
+- National Institute of Origin and Quality
+- Richemont
+- TF1 TV
+- UNPT
 ---
 
 Strict production rules will be loosened for some of France’s most famous cheeses after drought and repeated heatwaves dried out grazing pastures, threatening the livelihoods of traditional dairy workers.

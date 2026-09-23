@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Cleveland
+- Grangetown
+- Middlesbrough
+- Newcastle
+- Redcar
+people:
+- Adam Brook
+- Cole Worthy
+- Emily Harrison
+- Jacob Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Theo Rae
+- Tom Clough
+- Wayne Fox
+organisations: []
 ---
 
 A murder investigation has been launched after a house fire in Middlesbrough killed two people, with police not ruling out links to organised crime.

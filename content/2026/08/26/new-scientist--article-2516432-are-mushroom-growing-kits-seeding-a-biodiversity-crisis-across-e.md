@@ -13,6 +13,50 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_285964902.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Austria
+- Barnsley
+- Belgium
+- California
+- Denmark
+- Earth
+- East Asia
+- Europe
+- France
+- Germany
+- Hampshire
+- Hungary
+- Italy
+- Liverpool
+- Natural England
+- New Forest National Park
+- North America
+- Oyster mushroom
+- Pleurotus ostreatus
+- Russia
+- Spain
+- Switzerland
+- TAIPEI
+- TAIWAN
+- Taiwan
+- UK
+- US
+- West Sussex
+people:
+- Aishwarya Veerabahu
+- Chris Dowdeswell
+- Daniel Henk
+- Heather Clarke
+- Matt Wainhouse
+- Max Mudie
+organisations:
+- EU
+- European Union
+- MycoPunks
+- Non-Native Species Secretariat
+- University of Bath
+- University of Wisconsin-Madison
+- iNaturalist
 ---
 
 ![Yellow oyster mushroom, Mushroom cultivation, healthy organic food; Shutterstock ID 1964888608; purchase_order: -; job: -; client: -; other:](https://www.newscientist.com/wp-content/uploads/2026/03/02181517/SEI_285964902.jpg?w=840)

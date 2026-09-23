@@ -13,6 +13,19 @@ categories:
 - York
 - Lifestyle & Fashion
 - Home, Garden & DIY
+locations:
+- Fulford Road
+- Grange Garth
+- Juliet
+- North Yorkshire
+- Round House
+- Zoopla
+- designed’ York
+people: []
+organisations:
+- Hudson Moody
+- The Press
+- The Round House
 ---
 
 ## ‘Imposing and uniquely designed’ York home sees price slashed

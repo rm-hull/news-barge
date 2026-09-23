@@ -15,6 +15,12 @@ categories:
 - History
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- U.S.
+people: []
+organisations:
+- Associated Press
+- The Trump
 ---
 
 Trump launches 'gold card' visas for wealthy immigrants

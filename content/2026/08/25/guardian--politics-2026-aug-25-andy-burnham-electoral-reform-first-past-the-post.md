@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Greater Manchester
+- UK
+- Westminster
+people:
+- Alex Sobel
+- Andy Burnham
+- Catherine Fookes
+- Chris Curtis
+- Emma Harrison
+- Florence Eshalomi
+- Jo Platt
+- Keir Starmer
+- Lizzi Collinge
+- Luke Akehurst
+- Miatta Fahnbulleh
+- Mike Reader
+- Rachel Blake
+organisations:
+- 98 Labour
+- BAME
+- Commons
+- Guardian
+- PLP
+- Treasury
+- YouGov
 ---
 
 Andy Burnham will face an immediate test of his backing for electoral reform in his first week in parliament as prime minister, with almost 100 Labour MPs supporting a bid for a new national commission.

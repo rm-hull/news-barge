@@ -12,6 +12,26 @@ image: https://i.guim.co.uk/img/media/2ebdb1fe64733a26de1387e8962e485233468c38/4
 categories:
 - UK
 - News & Politics
+locations:
+- Australia
+people:
+- Anna Brown
+- Barnaby Joyce
+- Cory Bernardi
+- Dave Pellowe
+- David Farley
+- James Ashby
+- Jason Virgo
+- John Shelby Spong
+- Malcolm Roberts
+- Parminder Singh
+- Pauline Hanson
+organisations:
+- Church and State
+- Equality Australia
+- Farrer
+- Instagram
+- One Nation
 ---
 
 One Nation’s Malcolm Roberts told a conference earlier this year that he was in “two minds” about whether gay people should have equal rights.

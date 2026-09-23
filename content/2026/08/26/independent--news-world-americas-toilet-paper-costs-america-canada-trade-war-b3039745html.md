@@ -11,6 +11,26 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Canada
+- Lake America
+- Lake Ontario
+- U.S.
+- United States
+people:
+- Donald Trump
+- Doug Ford
+- Glenn Beck
+- Mark Carney
+- Ronald Reagan
+organisations:
+- CNN
+- Charmin
+- Ford
+- Procter & Gamble
+- The Guardian
+- Trump
+- World Bank
 ---
 
 The trade war between the United States and Canada may leave Americans in an uncomfortable position as toilet paper prices are set to rise.

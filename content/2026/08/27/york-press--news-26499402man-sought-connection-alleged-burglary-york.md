@@ -14,6 +14,16 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Acorn Way
+- Woodthorpe
+- York
+people:
+- Ben Robinson-Brockhill
+organisations:
+- Crimestoppers
+- North Yorkshire Police
+- North Yorkshire Police)* Police
 ---
 
 *(Image: North Yorkshire Police)*

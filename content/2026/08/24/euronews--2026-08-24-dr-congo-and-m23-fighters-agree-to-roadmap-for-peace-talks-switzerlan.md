@@ -12,6 +12,21 @@ image: https://images.euronews.com/articles/stories/09/88/52/25/1200x675_cmsv2_2
 categories:
 - Europe
 - News & Politics
+locations:
+- Democratic Republic of Congo
+- Doha
+- Eastern DRC
+- Minembwa
+- Qatar
+- South Kivu Provnce
+- Switzerland
+- Togo
+- United States
+people: []
+organisations:
+- African Union
+- African Union Commission
+- M23
 ---
 
 ## Both sides had previously signed an agreement in Doha last year, but fighting has continued in mineral-rich eastern DRC, a region that has endured years of conflict.

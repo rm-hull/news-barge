@@ -13,6 +13,22 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Harrogate
+- North Yorkshire
+people:
+- Tom Gordon
+organisations:
+- Conservative Government
+- Harrogate
+- Knaresborough
+- Labour
+- Liberal Democrats’
+- MP
+- NIC
+- North Yorkshire Council
+- ONS
+- Office for National Statistics
 ---
 
 The MP for Harrogate and Knaresborough has launched a “Save Our High Streets” plan as new analysis reveals the severe hit delivered to local jobs and businesses.

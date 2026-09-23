@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Deir al-Balah
+- Gaza City
+- Israel
+- Kibbutz Nahal Oz
+- Maghazi
+- Nuseirat
+- al-Zawayda
+people:
+- Abu Ahmed
+- Abu Asad
+- Ismail Abu Ful
+- Israel Katz
+- Mohammed Abu Asad
+- Mohammed Taha
+organisations:
+- Hamas
+- Nahal Oz
+- Nukhba
+- Reuters
 ---
 
 ![A Palestinian boy holds a kite at a displacement camp in Gaza City (23 August 2026)](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/f647/live/434e2dd0-9fb5-11f1-bff6-57f1422ebb0b.jpg)

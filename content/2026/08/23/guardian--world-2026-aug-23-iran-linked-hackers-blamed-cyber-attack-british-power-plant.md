@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- China
+- Iran
+- Russia
+- Tehran
+- Turkey
+- UK
+- US
+people:
+- Andy Burnham
+- Richard Horne
+organisations:
+- CyberAv3ngers
+- Department for Energy Security
+- IRGC
+- Islamic Revolutionary Guard Corps
+- NCSC
+- National Cyber Security Centre
+- Net Zero
+- Sunday Telegraph
 ---
 
 Hackers linked to Iran have been blamed for a cyber-attack that caused a British power plant to be temporarily shut down.

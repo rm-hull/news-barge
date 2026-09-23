@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Aomori
+- Asia
+- Europe
+- Hirosaki Castle
+- Hirosaki City
+- Hiroshima
+- Japan
+- North America
+- Tohoku
+- Tsugaru
+people:
+- Kensuke Hayasaka
+- Motoharu Nakata
+organisations:
+- Guardian
+- Sankei Shimbun
 ---
 
 To chants of “so-re, so-re”, about 1,800 people came together in northern Japan over the weekend to pull a 360-tonne castle keep a little more than two metres closer to its original resting place as part of ongoing renovations.

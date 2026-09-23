@@ -11,6 +11,25 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Edinburgh
+- Harrogate Convention Centre
+- James Street
+- Leeds
+- London
+- North
+- York
+people:
+- Alison Hammond
+- Davina McCall
+- Jo Tutchener Sharp OBE
+- Kate Lawler
+organisations:
+- Aldi
+- Le Creuset
+- North Yorkshire Alison Hammond
+- PA
+- Scamp & Dude
 ---
 
 ## Fashion store loved by Alison Hammond and Davina McCall coming to North Yorkshire

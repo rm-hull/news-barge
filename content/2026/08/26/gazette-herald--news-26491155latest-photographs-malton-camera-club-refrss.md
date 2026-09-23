@@ -13,6 +13,26 @@ categories:
 - York
 - Technology & Software
 - Arts & Culture
+locations:
+- Commercial Street
+- Faroe Island
+- Norton
+- Trinity Centre
+- Whitby
+people:
+- Burnet Moths
+- Jackie Ayres
+- Nick Webster
+- Sue Hogarth’s “Sunset
+- Tony Horsfield
+organisations:
+- Cameras
+- Lens
+- Malton & Norton Camera Club
+- Malton & Norton Club
+- Norton Camera Club
+- Pockington Club
+- Yorkshire Coast Photographic Group
 ---
 
 Malton and Norton Camera Club members latest work is highlighted in these

@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - History
+locations: []
+people:
+- Bluesky
+- Charlie Kirk
+- Karen Attiah
+- Norm Eisen
+- Sarah Miller Espinosa
+- Substack
+organisations:
+- Attiah
+- Bezos’
+- Democracy Defenders Fund
+- Global Opinions
+- Grievant
+- National Association of Black Journalists
+- The New York Times
+- The Post
+- The Washington Post
+- Utah Valley University
+- Washington Post
 ---
 
 *The Washington Post* has been ordered to rehire its longtime opinion columnist Karen Attiah, who was fired over social media posts she made in the wake of Charlie Kirk’s assassination. 

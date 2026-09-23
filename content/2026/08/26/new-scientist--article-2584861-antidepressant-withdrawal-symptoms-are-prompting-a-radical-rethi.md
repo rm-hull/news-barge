@@ -13,6 +13,47 @@ categories:
 - Science
 - Technology & Software
 - Health & Fitness
+locations:
+- America
+- Australia
+- Canada
+- England
+- Ontario
+- Poland
+- Sweden
+- UK
+- US
+- Wales
+- Warsaw
+people:
+- Alzheimer
+- David Kessler
+- Jaap Arriens
+- Joshua Buckman
+- Mark Horowitz
+- Marta Maslej
+- Paul Andrews
+- Rebecca Strawbridge
+- Salvador Guinjoan
+- Sara Garcia Ptacek
+- Steve Hyman
+organisations:
+- Alzheimer's
+- American Society of Clinical Psychopharmacology
+- Copenhagen University Hospital
+- Harvard University
+- Karolinska Institute
+- King’s College London
+- McMaster University
+- NHS
+- National Health Service
+- Outro Health
+- Royal College of Psychiatrists’
+- Texas A&M University
+- US National Institute of Mental Health
+- University College London
+- University of Bristol
+- University of Toronto
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308310135.jpg?w=840)

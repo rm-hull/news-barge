@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- A64
+- England
+- Great Yorkshire Events Centre
+- Harrogate
+- North Yorkshire
+- UK
+- York
+people:
+- David Cotsworth
+organisations:
+- Le Creuset
 ---
 
 ## Much-loved brand returns to North Yorkshire with 'biggest' sale so far

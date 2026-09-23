@@ -13,6 +13,31 @@ categories:
 - York
 - Arts & Culture
 - Travel
+locations:
+- Bramham Park
+- Harrogate
+- Leeds Festival
+- West Yorkshire
+people:
+- Dan Wood
+- Danny Lawson
+- Dylan Connell
+- Jack Littlewood
+- Miko Booth
+- PA Wire
+- Superman
+organisations:
+- AJ Tracey
+- Arctic Monkeys
+- Charli xcx
+- Chase & Status Live
+- Dave
+- Florence
+- Fontaines D.C.
+- Kasabian
+- PA Wire
+- RAYE
+- The Machine
 ---
 
 ## Rain forecast for Leeds Festival? These photos show fans have seen it all before

@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- A YORKSHIRE
+- Airfield Garden Centre
+- Cundalls Malton
+- Fangfoss
+- Full Sutton
+- Gowthorpe Lane
+- Holland
+- York
+people:
+- Cundalls
+organisations:
+- Airfield Nurseries
+- Cundalls
 ---
 
 *(Image: Cundalls)*

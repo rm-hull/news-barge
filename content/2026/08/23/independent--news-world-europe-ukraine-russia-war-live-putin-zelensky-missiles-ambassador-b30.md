@@ -11,6 +11,47 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Britain
+- Dnipropetrovsk Oblast
+- Fort Lauderdale
+- France
+- Jellyfish Museum
+- Kryvyi Rig
+- Kryvyi Rih
+- Kyiv
+- London
+- Moscow
+- Odesa
+- Paris
+- Pompano Beach
+- Russia
+- Samara
+- South Florida
+- UK
+- Ukraine
+- United States
+- Zaporizhzhia
+- Zelensky
+people:
+- '## Putin'
+- Andrey Kelin
+- Andy Burnham
+- Emmanuel Macron
+- Kyiv
+- Olga
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- General Staff of the Armed Forces of Ukraine
+- Kyiv Independent
+- Macron
+- Odesa
+- Ozon
+- Pandora
+- Telegram
+- The Times
 ---
 
 French president Emmanuel Macron has announced that Paris will send new interceptor missiles to Ukraine as Russia escalates its air attack on Kyiv.

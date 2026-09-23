@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Cleveland
+- East Middlesbrough Events Centre
+- South Bank
+- Teesside
+people:
+- Grant Thorburn
+- Matthew Blades
+- PC Blades
+- PC Clough
+- Paul Williams
+- Tom Clough
+organisations:
+- A66
+- Army
+- BBC Sounds
+- Cleveland Police Federation
+- Facebook
+- IOPC
+- Middlebeck Social Club
+- National Association of Retired Police Officers
+- Police Federation
+- Tees Valley
+- The Independent Office for Police Conduct
+- Volkswagen
 ---
 
 ![Pictures of the two officers. Both are smiling. PC Blades, left, has stubble and short fair hair. PC Clough also has stubble and short dark hair.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png)

@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Haworth
+- Main Street
+- Old Hall Inn
+- West Yorkshire
+people:
+- Siân Sargant
+organisations:
+- MND
+- Siân Alison Designs
+- Voices of Yorkshire
 ---
 
 *(Image: Supplied)*

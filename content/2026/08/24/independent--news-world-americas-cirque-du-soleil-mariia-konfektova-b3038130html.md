@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- China
+- Oregon
+- Portland Expo Center
+- Zhuhai
+people:
+- Benjamin Goldstein
+- Brian Goldstein
+- Cirque du Soleil
+- Fox
+- Mariia Konfektova
+organisations:
+- ABC’S
+- Cirque du Soleil
+- GoFundMe
+- Guinness Book of World Records
+- KGW
+- KOIN
+- KOOZA
+- OSHA
+- Oregon’s Occupational Safety and Health Administration
+- The Independent
+- The Oregonian
 ---
 
 A former Cirque du Soleil acrobat is suing the world-famous circus for $16.75 million after breaking 11 bones in a fall, according to reports.

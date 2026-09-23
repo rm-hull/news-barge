@@ -11,6 +11,34 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/864d/live/f9140c
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- France
+- Iran
+- Kremlin
+- Kyiv
+- Moscow
+- New York
+- Russia
+- UK
+- US
+- Ukraine
+people:
+- Andrei Fedorov
+- Andy Burnham
+- Bloomberg
+- Dmitry Peskov
+- Emmanuel Macron
+- Friedrich Merz
+- Keir Starmer
+- Putin
+- Trump
+- Volodymyr Zelensky
+organisations:
+- BBC Newsnight
+- Kyiv
+- Patriots
+- UN General Assembly
 ---
 
 ![Ukrainian President Volodymyr Zelensky (R) and Prime Minister of Britain Andy Burnham (L) pose as they attend a signing documents ceremony during their meeting at the Presidential office in Kyiv, Ukraine, 24 August 2026, amid the ongoing Russian invasion.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/864d/live/f9140c60-a029-11f1-acc9-bb1a45146942.jpg)

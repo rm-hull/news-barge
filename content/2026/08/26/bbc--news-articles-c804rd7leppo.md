@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- London
+- New Zealand
+- UK
+people:
+- Robert Jenrick
+organisations:
+- '** Reform'
+- Brexit
+- EU
+- GDPR
+- General Data Protection Regulation
+- HM Revenue and Customs
+- HMRC
+- Houses of Parliament.
+- Labour
+- Public Accounts Committee
+- Reform UK
+- Robert Jenrick
+- Tory
+- Union
 ---
 
 ![Robert Jenrick, in a suit and tie, makes a point at a press conference, with a Union flag and a brick wall behind him](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/3d5b/live/551fe6a0-a147-11f1-a291-b542ee92de7c.jpg)

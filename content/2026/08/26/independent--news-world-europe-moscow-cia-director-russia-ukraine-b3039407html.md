@@ -12,6 +12,41 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Iran
+- Kremlin
+- Latvia
+- Middle East
+- Moscow
+- Riga
+- Russia
+- Tehran
+- U.S.
+- US
+- US-Russia
+- Ukraine
+- White House
+people:
+- Angela Stent
+- Dmitry Peskov
+- Donald Trump
+- John Ratcliffe
+- Ksenia Karelina
+- Mykola Bielieskov
+- Sergei Lavrov
+- Vladimir Putin
+- William Burns
+organisations:
+- American Enterprise Institute
+- CIA
+- DW
+- Flightradar24
+- Nato
+- The Independent
+- Trump
+- US Air Force C-17A Globemaster III
+- Vnukovo International Airport
+- Wall Street Journal
 ---
 
 The White House is facing scrutiny after the CIA director made a mysterious visit to Moscow on Tuesday, the first visit by a chief of the intelligence agency in nearly five years.

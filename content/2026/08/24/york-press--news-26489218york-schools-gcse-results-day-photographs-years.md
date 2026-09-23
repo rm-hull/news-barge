@@ -12,6 +12,33 @@ categories:
 - Local
 - York
 - Self-Improvement
+locations:
+- Millthorpe
+- New Earswick
+- York
+people:
+- Adam Bruce
+- Bella Gill
+- Bill Scriven
+- Cecile Lansford
+- Dora Banda
+- Florence Partridge
+- Frank Dwyer
+- Frank Dwyer Then
+- Liz Mastin
+- Lucy White
+- Pearson
+- Theo Walton
+- Trevor Burton
+organisations:
+- All Saints
+- All Saints RC School
+- BTEC
+- Huntington School
+- Manor CE Academy
+- Millthorpe School
+- Rowntree School
+- St Peter's School
 ---
 
 ## Can you spot yourself in these GCSE results day photos from 2015 to 2025?

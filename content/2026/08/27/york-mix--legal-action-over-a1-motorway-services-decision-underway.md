@@ -11,6 +11,22 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Boroughbridge
+- Kirby Hill
+- Vale of York
+people:
+- Gareth Owens
+- Rowan Smith
+organisations:
+- '**Leigh Day**'
+- High Court
+- Kirby Hill Residents Against Motorway Services
+- Leigh Day**
+- MSA
+- North Yorkshire Council
+- RAMS
+- RAMS**
 ---
 
 Campaigners fighting plans for a motorway service area near Boroughbridge have taken the first formal step towards challenging North Yorkshire Council’s decision in the High Court.

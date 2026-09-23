@@ -13,6 +13,63 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Alabama
+- Baton Rouge
+- Black
+- D-N.Y
+- Delta
+- Fields’
+- I-Vt.
+- King Bridge
+- Lincoln Memorial
+- Louisiana
+- Memphis
+- Montgomery
+- National Mall
+- New Jersey
+- New York
+- Sen
+- U.S.
+- Virginia
+- Washington
+people:
+- Abigail Spanberger
+- Al Sharpton
+- Alexandria Ocasio-Cortez
+- Ambereen Kahn
+- Bernie Sanders
+- Cleo Fields
+- Courtney Pope
+- D-La.
+- Derrick Johnson
+- Donald Trump
+- Gary Fields
+- Kimberly Chandler
+- King Jr.’s
+- Martin Luther King III
+- Martin Luther King Jr.
+- Shomari Figures
+organisations:
+- AP
+- Black Voters Matter
+- Callais
+- Civil Rights Movement
+- Civil Rights Movement,” Figures
+- Civil Rights Museum
+- Congress
+- Interfaith Alliance
+- King's Drum Major Institute
+- Lawyers’ Committee for Civil Rights Under Law
+- NAACP
+- National Action Network
+- National Handmaid Army
+- Senate
+- Supreme Court
+- The Associated Press
+- U.S. Supreme Court
+- Washington for Jobs and Freedom
+- ____ Associated Press
 ---
 
 Thousands of protesters are rallying Friday on the National Mall in support of voting rights and racial justice ahead of the midterm elections, following a wave of changes to voting laws and redistricting that civil rights groups have condemned as detrimental to Black Americans.

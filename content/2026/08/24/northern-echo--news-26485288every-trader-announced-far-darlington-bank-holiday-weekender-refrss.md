@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Darlington Market Square
+- Market Square
+- UK
+people:
+- Cool
+- Geordie Bangers
+- Matthias Jaissle
+- Molly
+- Puddington
+- Spud Monkey
+organisations:
+- Darlington Bank
+- Darlington Market
+- Darlington Market Bank
+- Liverpool
+- Newcastle
+- Pantry
+- Redcar
 ---
 
 From loaded hot dogs to wood-fired pizzas and indulgent desserts, there’s something for every appetite at Darlington Market’s Bank Holiday Weekender.

@@ -12,6 +12,29 @@ image: https://static.independent.co.uk/2026/08/28/16/Obit_Mladic_37829.jpg?widt
 categories:
 - News & Politics
 - UK
+locations:
+- Balkan
+- Belgrade
+- Europe
+- Kalinovik
+- Sarajevo
+- Serbia
+- Srebrenica
+- The Hague
+- Yugoslavia
+people:
+- Aleksandar Vucic
+- Dusan Stojanovic
+- Fazila Efendic
+- Graciela Gatti Santana
+- Mike Corder
+- Ratko Mladic
+- Stojanka Visnjevac
+organisations:
+- International Residual Mechanism for Criminal Tribunals
+- The Associated Press
+- U.N.
+- ___ AP
 ---
 
 Serbia's President Aleksandar Vucic on Friday accused a war crimes U.N. court in The Hague of “uncivilized behavior” for refusing to grant an early release for the former Bosnian Serb army commander Ratko Mladic, who died Thursday at the age of 84 while serving a life sentence for his crimes.

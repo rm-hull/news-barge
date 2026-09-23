@@ -12,6 +12,26 @@ image: https://cdn.mos.cms.futurecdn.net/AS7DFf4RfCDKSXZEX4AjdC-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations: []
+people: []
+organisations:
+- AMD FreeSync
+- Custom PC
+- Digital Foundry
+- G7
+- G8
+- Gamescom
+- Google News
+- International History and Politics
+- Nvidia G-Sync
+- PC Gamer
+- PCGamesN
+- Reece Bithrey
+- Samsung
+- TechRadar
+- Trusted Reviews
+- University of Leeds
+- WatchGecko
 ---
 
 ![Samsung's Gamescom monitor announcement](https://cdn.mos.cms.futurecdn.net/AS7DFf4RfCDKSXZEX4AjdC.jpg) 

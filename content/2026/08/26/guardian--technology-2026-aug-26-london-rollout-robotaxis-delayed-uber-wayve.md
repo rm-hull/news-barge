@@ -13,6 +13,41 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- China
+- Europe
+- Germany
+- London
+- Middle East
+- Munich
+- Phoenix
+- San Francisco
+- UK
+- US
+- Zagreb
+people:
+- Alex Kendall
+- Ben Loewenstein
+- Christina Calderato
+- Heidi Alexander
+- Uber
+- Waymo
+- Wayve
+organisations:
+- Apollo Go
+- Baidu
+- DVSA
+- Driver and Vehicle Standards Agency
+- FT
+- Financial Times
+- Ford Mustang Mach-E
+- Nissan Leaf
+- Robotaxis
+- TfL
+- Transport for London
+- Uber
+- Waymo
+- Wayve
 ---
 
 The rollout of robotaxis on the streets of London is unlikely to happen this year, as regulatory and technical hurdles push back the ambitious schedule set out by the UK government.

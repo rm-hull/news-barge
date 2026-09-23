@@ -12,6 +12,102 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1
 categories:
 - Technology & Software
 - Automotive
+locations:
+- Alexandria
+- Amazon
+- Aurora
+- California
+- Chicago
+- China
+- Clark County
+- Croatia
+- Dubai
+- Las Vegas
+- London
+- Los Angeles
+- Nevada
+- New Zealand
+- Ojai
+- Phoenix
+- Rivian
+- San Francisco
+- San Jose
+- Texas
+- U.S.
+- United States
+- Virginia
+- Zagreb
+people:
+- Bryce Durbin
+- Kirsten Korosec
+- Sam Shapiro
+- Sean O’Kane
+- Serve
+- Vessev**
+- Waymo
+- Waymo**
+organisations:
+- AMD
+- Also Capital
+- Amazon**
+- Animal Capital
+- Baidu
+- Bedrock Robotics**
+- Blackbird Ventures
+- Bryce Durbin
+- DoorDash
+- Dutch Data Protection Authority
+- Eclipse
+- Einride
+- Einride**
+- Ford
+- GD1
+- Geely
+- General Motors
+- Genesis**
+- Greenoaks
+- Grubhub**
+- Hyundai
+- Icehouse Ventures
+- Idaho National Laboratory
+- K1W1
+- Kodiak
+- Lucid Motors
+- Lynk & Co.
+- MVP Ventures
+- Michigan Outdoor Innovation Fund
+- Micron
+- NZVC
+- National Highway Traffic Safety Administration
+- Nuro
+- Nvidia
+- Prysm Capital
+- Rivian
+- Rivian**
+- Rypples
+- Samsung
+- Sandisk
+- Serve Robotics**
+- Shasta Ventures
+- Socionext
+- SpaceX alumni
+- TSMC
+- TechCrunch Mobility
+- TechCrunch Mobility**—
+- Tesla
+- Tesla**
+- Tesla**,** Uber
+- The 81 Collection
+- Uber**
+- Washington, D.C. Uber
+- Waymo Ojai
+- Waymo**
+- Wayve
+- Xiaomi
+- Xpeng
+- Zeekr
+- Zipline
+- Zoox
 ---
 
 *Welcome back to**TechCrunch Mobility**— your central hub for news and insights on the future of transportation. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!*

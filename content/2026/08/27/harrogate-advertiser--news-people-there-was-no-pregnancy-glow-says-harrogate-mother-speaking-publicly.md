@@ -13,6 +13,21 @@ categories:
 - Local
 - Harrogate
 - Family & Parenting
+locations:
+- Harrogate
+- UK
+people:
+- Ella Smith-Dunn
+- Gianna
+- Joe
+- Kate Mortimer
+- Lead Midwife
+- Moses
+organisations:
+- Cocoon Healthcare
+- Harrogate
+- Lead Midwife
+- NHS
 ---
 
 # 'There was no ‘pregnancy glow’ says Harrogate mother speaking publicly for first time about her birth experiences

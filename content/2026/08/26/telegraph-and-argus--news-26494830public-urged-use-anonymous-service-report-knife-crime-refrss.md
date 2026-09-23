@@ -15,6 +15,17 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Humber
+- Yorkshire
+people:
+- Charlie Cosser
+- Charlie’s Promise
+- Martin Cosser
+organisations:
+- Crimestoppers
+- Crimestoppers’
+- YouGov
 ---
 
 *(Image: Supplied)*

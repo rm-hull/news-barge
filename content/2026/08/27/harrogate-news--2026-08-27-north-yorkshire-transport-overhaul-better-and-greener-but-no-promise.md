@@ -15,6 +15,22 @@ categories:
 - Harrogate
 - Travel
 - Business & Entrepreneurship
+locations:
+- Humber
+- London
+- North Yorkshire
+- UK
+- York
+people:
+- David Skaith
+organisations:
+- HM Treasury
+- IPPR
+- Institute for Public Policy Research
+- LTP
+- Local Transport Plan
+- Statista
+- York and North Yorkshire Combined Authority Portal
 ---
 
 Residents, businesses, and commuters across York and North Yorkshire are being urged to reshape the region’s travel network as Mayor David Skaith launches a major 10-week public consultation.

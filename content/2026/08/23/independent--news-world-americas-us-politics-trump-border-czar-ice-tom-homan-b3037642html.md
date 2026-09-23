@@ -13,6 +13,46 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- America
+- Asia
+- Biddeford
+- Europe
+- Florida
+- Houston
+- Jamaica
+- Maine
+- Minneapolis
+- Nigeria
+- U.S.
+- White House
+people:
+- Alex Pretti
+- Alexander Vindman
+- Angie Nixon
+- Ashley Moody
+- Black
+- Donald Trump
+- Johan Sebastián Durán Guerrero
+- Kayleigh McEnany
+- Kristi Noem
+- Lorenzo Salgado Araujo
+- Marco Rubio
+- Mullin
+- Renee Good
+- Ron DeSantis
+- Tom Homan
+organisations:
+- ABC News
+- Army
+- Democratic Party
+- Florida Politics
+- Fox News'
+- ICE
+- Immigration and Customs Enforcement
+- Miami Herald
+- Politico
+- Senate
 ---
 
 President Donald Trump's border czar offered a stunning denial Saturday to the claim that immigration officials engage in racial profiling — by calling himself “an equal opportunity deporter.”

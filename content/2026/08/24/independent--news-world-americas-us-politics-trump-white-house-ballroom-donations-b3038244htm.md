@@ -12,6 +12,40 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- District of Columbia
+- East Wing
+- Los Angeles
+- U.S.
+- US
+- United States
+- White House
+people:
+- Donald Trump
+- Ellen P. Aprill
+- John Roberts
+organisations:
+- Bureau of Fiscal Services
+- Congress’
+- District of Columbia Circuit
+- East Wing
+- Federal Government
+- Justice Department
+- Library of Congress
+- Lowell Milken Center For Philanthropy And Nonprofit Law
+- National Arboretum and AmeriCorps
+- National Endowment for for the Humanities
+- National Park Service
+- National Parks Service
+- State Department
+- The Conversation
+- The Trump
+- Treasury
+- U.S. Court of Appeals
+- U.S. Supreme Court
+- UCLA Law School
+- United States Code
+- University of California
 ---
 
 The fate of President Donald Trump’s estimated US$400 million White House ballroom may hinge on the little-known and somewhat surprising rules as to when the federal government and its agencies can accept privately donated funds.

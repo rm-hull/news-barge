@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Florida
+- Iran
+- Key West
+- Middle East
+- Nicaragua
+- U.S.
+- USS Abraham Lincoln
+people:
+- Abraham Lincoln
+- Aviles Roa
+- Donald Trump
+- Henry J. Kaiser
+- Joshua Aviles
+- Luis Manuel Aviles Roa
+organisations:
+- DHS
+- Department of Homeland Security
+- ICE
+- Immigration and Customs Enforcement
+- U.S. Border Patrol
+- USS Abraham Lincoln
 ---
 
 The father of an American sailor serving aboard the USS Abraham Lincoln has been taken into federal immigration custody while his son is deployed in the Middle East, according to a statement posted online by the service member.

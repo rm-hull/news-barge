@@ -14,6 +14,13 @@ categories:
 - UK
 - Music
 - Arts & Culture
+locations:
+- Los Angeles
+- Nashville
+people:
+- Dolly Parton
+organisations:
+- AP
 ---
 
 From Los Angeles to Nashville, fans remember Dolly Parton, in photos

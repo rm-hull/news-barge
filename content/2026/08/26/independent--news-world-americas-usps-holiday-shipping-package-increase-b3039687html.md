@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Middle East
+people: []
+organisations:
+- FedEx
+- Ground Advantage
+- OnTrac
+- Parcel Select
+- Postal Service
+- Priority Mail
+- Priority Mail Express
+- UPS
+- USPS Ground Advantage
+- USPS’
+- United States Postal Service
 ---
 
 The United States Postal Service will raise rates by an average of 6 percent for several package-shipping services during the 2026 holiday season.

@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Headingley
+- Leeds Crown Court
+- Otley Road
+- The Original Oak
+people:
+- Ibrahim Albashir
+- Richard James
+organisations:
+- Leeds CID
 ---
 
 *(Image: WYP)*

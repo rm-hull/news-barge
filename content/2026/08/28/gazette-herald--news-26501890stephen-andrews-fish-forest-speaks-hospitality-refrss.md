@@ -14,6 +14,29 @@ categories:
 - Harrogate
 - York
 - Food & Cooking
+locations:
+- Driffield
+- Fish and Forest
+- Grape Lane
+- NQ
+- TOP York
+- UK
+people:
+- Janice Robinson
+- Redmond Nichols Butler
+- Sam
+- Stephen Andrews
+- Ted Hustler
+organisations:
+- Fish & Forest
+- Fish and Forest Ltd
+- Frango Eduardo Ltd
+- House
+- Michelin-listed Fish and Forest
+- Muddy Bears Ltd
+- Pic
+- TV’s Masterchef
+- The Press
 ---
 
 A TOP York chef - whose business running one of the city’s best restaurants has entered liquidation - says it is “brutal” in hospitality right now.

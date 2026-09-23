@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Blackpool Promenade
+- Britain
+- Europe
+- France
+- Home Office
+- Sudan
+- UK
+- blackpool
+people:
+- Andy Burnham
+- Emily Graham
+- Jon Featonby
+- Marley Morris
+- Nuni Jorgensen
+- Shabana Mahmood
+organisations:
+- EU
+- Grand Metropole Hotel
+- Grosvenor Hotel
+- Home Office
+- IPPR
+- Institute for Public Policy Research
+- Labour
+- Migration Observatory
+- Refugee Council
+- Statford-upon-Avon
+- The Future Governance Forum
+- University of Oxford
+- University of Oxford’s Migration Observatory
 ---
 
 The number of asylum seekers housed in hotels has halved in the past year as the Home Office pushes to close down the controversial accommodation, new figures have revealed.

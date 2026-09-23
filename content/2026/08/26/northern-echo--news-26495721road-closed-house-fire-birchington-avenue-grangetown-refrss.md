@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Birchington Avenue
+- Grangetown
+- Middlesbrough
+people: []
+organisations:
+- Cleveland Fire Brigade
+- Cleveland Fire and Rescue Service
+- Cleveland Police
+- Incident Command Unit
+- North East Ambulance Service
+- North News & Pictures Ltd
+- Northern Echo
 ---
 
 Firefighters have told residents to "avoid the area" after a fleet of fire engines were called to an early morning blaze.

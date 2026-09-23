@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- U.S.
+people:
+- Gregory Saathoff
+- Kevin Reddington
+- Lindsay Clancy
+organisations:
+- Behavioral Analysis Unit
+- FBI
+- University of Virginia
 ---
 
 The prosecution resumed questioning its final witness Wednesday in the murder trial against Lindsay Clancy, with an FBI psychiatrist returning to the stand before the defense questions him and closing arguments begin.

@@ -10,6 +10,43 @@ image: https://cdn.mos.cms.futurecdn.net/ucFZ7tKSFWyGKUEuuJ74ig-1376-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- ChatGPT
+- India
+- Ollama
+- Open WebUI
+- OpenClaw
+- West Bengal
+people:
+- Claude
+- Ritoban Mukherjee
+organisations:
+- AI
+- API
+- Add Docker
+- CLI
+- ChatGPT Work
+- ClawHub
+- Creative Bloq
+- Docker Compose
+- Docker Engine
+- GPU
+- GitHub
+- Gizmodo
+- IT Pro
+- LLM
+- Microsoft Copilot
+- Open WebUI
+- OpenClaw
+- OpenWebUI
+- Quartz
+- Ritoban Mukherjee
+- Slack
+- Sudo
+- TechRadar Pro
+- Telegram
+- Tom's Guide
+- VPS
 ---
 
 ![openclaw on a mac](https://cdn.mos.cms.futurecdn.net/ucFZ7tKSFWyGKUEuuJ74ig.jpg) 

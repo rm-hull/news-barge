@@ -13,6 +13,25 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Cyberleek
+- Jowi Morales
+- Leonidas
+- Tom
+organisations:
+- DoesItPlay
+- GOG
+- GTA VI
+- Gamescom
+- Google News
+- Jowi Morales
+- Netflix
+- PSN
+- PlayStation Network
+- Sony
+- Steam
+- Take-Two
 ---
 
 ![PlayStation 5 Pro](https://cdn.mos.cms.futurecdn.net/tg95hzQEgMNoJTJZHb5oXU.png) 

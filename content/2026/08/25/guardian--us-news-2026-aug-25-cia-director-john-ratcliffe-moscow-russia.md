@@ -11,6 +11,32 @@ image: https://i.guim.co.uk/img/media/7af07e105849a6d3126b60ea6197afa023f107aa/7
 categories:
 - UK
 - News & Politics
+locations:
+- Iran
+- Kyiv
+- Latvia
+- Maryland
+- Moscow
+- Russia
+- US
+- Ukraine
+- Washington
+- White House
+people:
+- Evan Gershkovich
+- John Ratcliffe
+- Paul Whelan
+- Scott Bessent
+- Trump
+organisations:
+- Air Force One
+- Axios
+- CBS News
+- CIA
+- Financial Times
+- Flightradar24
+- Joint Base Andrews
+- Wall Street Journal
 ---
 
 The CIA director, John Ratcliffe, has made an unannounced visit to Moscow, US media reported, after flight data showed an American military aircraft flew to the Russian capital, where a US diplomatic motorcade was later spotted.

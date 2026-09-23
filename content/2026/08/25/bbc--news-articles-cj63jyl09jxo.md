@@ -12,6 +12,68 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Berlin
+- Brighton
+- Britain
+- Canal Street
+- Crewe
+- Cumbria
+- Durham
+- Enfield Civic Centre
+- England
+- Gay Village
+- Liverpool
+- London
+- Manchester
+- Merseyside
+- New York
+- St Helens
+- UK
+- Ulverston
+people:
+- Abdul Ballout
+- Andy Winter
+- Ariana Grande
+- Carl Austin-Behan
+- Darren Grimes
+- Darren Milby
+- Emma Barnett
+- Guy Mathias
+- John Simpson
+- Lauren
+- Matt
+- Mel Metcalf
+- Nelly Furtado
+- Nigel Farage
+- Olly Alexander
+- Paul Martin
+- Phil Douglas
+- Pride
+- Sparkle
+organisations:
+- '## Flags'
+- Birmingham Pride
+- Brighton Argus
+- Crewe Pride
+- Durham Council
+- Durham Pride
+- Guardian
+- High Court
+- Ipsos
+- LGBT Foundation
+- London Pride
+- Manchester Pride
+- Manchester Village Pride
+- Merseyside Fire and Rescue Service
+- Merseyside Police
+- Newcastle Pride
+- Reform UK
+- Security Commonwealth
+- Sparkle
+- Stonewall Inn
+- West Midlands Ambulance Service
+- YouGov
 ---
 
 ![Darren Milby](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7494/live/5130ce20-9c91-11f1-b109-879e35c24276.png)

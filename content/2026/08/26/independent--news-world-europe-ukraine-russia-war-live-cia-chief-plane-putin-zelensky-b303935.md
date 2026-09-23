@@ -13,6 +13,66 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- '## Wildberries'
+- Black Sea
+- Britain
+- Chornomorsk
+- Downing Street
+- Israel
+- Kremlin
+- Kyiv
+- Latvia
+- London
+- Moscow
+- New York
+- Novorossiysk
+- Odesa
+- PA
+- Paris
+- Pivdennyi
+- Russia
+- St Petersburg
+- Tambov
+- UK
+- US
+- Ukraine
+- United States
+- Zaporizhzhia
+people:
+- '## Burnham'
+- Andy Burnham
+- Bloomberg
+- Donald Trump
+- Evgeniy Pervyshov
+- Harold Jezler
+- Henry Nicholls
+- John Ratcliffe
+- Keith Kellogg
+- Oleksii Reznikov
+- Olga
+- Ourselves
+- Robert Gilman
+- Starmer
+- Vladimir Putin
+- Volodymyr Zelensky
+- William Burns
+organisations:
+- AI
+- Avengers
+- CIA
+- Daily Mail
+- Kyiv
+- Marine
+- Ministry of Defence
+- MoD
+- NKHP
+- Reuters
+- Telegram
+- The Associated Press
+- UN General Assembly
+- Wildberries
+- Zaporizhzhia
 ---
 
 Ukraine heeded a special request from the Donald Trump administration not to attack major Russian cities during a visit by CIA director John Ratcliffe.

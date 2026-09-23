@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Middleton Tyas
+- NORTH YORKSHIRE
+- North Yorkshire
+- Richmond
+- South Bank
+- Vauxhall
+people:
+- Aycliffe
+organisations: []
 ---
 
 *(Image: NORTH YORKSHIRE POLICE)*

@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Asia
+- Beijing
+- China
+- Hebei
+- Kangbao
+- Russia
+- South Korea
+- Vietnam
+people: []
+organisations:
+- American Cancer Society
+- People's Daily
 ---
 
 ![Green cabbages](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/3fc4/live/3beac070-9f70-11f1-b05d-ad36121ca56d.jpg)

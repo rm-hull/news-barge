@@ -12,6 +12,20 @@ image: https://static.independent.co.uk/2026/08/15/14/34/GettyImages-2153885619.
 categories:
 - News & Politics
 - UK
+locations:
+- New York
+people:
+- Alvin Hellerstein
+- Bill Clinton
+- Donald Trump
+- Emil Bove
+- Michael Cohen
+- Stormy Daniels
+- Todd Blanche
+organisations:
+- Second Circuit
+- Supreme Court
+- Trump
 ---
 
 President Donald Trump’s latest effort to get his 34-count criminal conviction tossed again failed Friday when a judge blocked his bid to move the case to a federal court.

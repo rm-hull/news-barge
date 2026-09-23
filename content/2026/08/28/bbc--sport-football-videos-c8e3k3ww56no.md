@@ -12,6 +12,17 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Crystal Palace
+- Man City
+- UK
+people:
+- Erling Haaland
+- Rayan Cherki
+organisations:
+- Crystal Palace
+- Manchester City
+- Premier League
 ---
 
 # Haaland and Cherki fire impressive Man City to victory at Palace

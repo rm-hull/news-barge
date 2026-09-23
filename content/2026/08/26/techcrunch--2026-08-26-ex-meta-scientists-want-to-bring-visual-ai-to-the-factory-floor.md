@@ -11,6 +11,16 @@ image: https://techcrunch.com/wp-content/uploads/2026/07/Perceptron-Team-Photo.j
 categories:
 - Technology & Software
 - Science
+locations: []
+people:
+- Akshat Shrivastava
+- Armen Aghajanyan
+- Isaac
+organisations:
+- FAIR
+- Meta
+- Meta’s Fundamental AI Research
+- Perceptron
 ---
 
 AI is transforming everything around us but, thus far, it has largely remained contained to the digital realm. Increasingly, however, startups are looking to take it into the real world.

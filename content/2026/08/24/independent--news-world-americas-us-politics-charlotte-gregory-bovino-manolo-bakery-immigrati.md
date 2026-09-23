@@ -11,6 +11,36 @@ image: https://static.independent.co.uk/2026/08/24/14/45/Screenshot-2026-08-24-a
 categories:
 - News & Politics
 - UK
+locations:
+- California
+- Charlotte
+- El Centro
+- Minneapolis
+- Minnesota
+- North Carolina
+- Twin Cities
+- U.S.
+people:
+- Alex Pretti
+- Gregory Bovino
+- Manalo
+- Manolo Betancur
+- Renee Nicole Good
+- Tom Homan
+- Trump
+organisations:
+- Border Patrol
+- Customs and Border Protection
+- DHS
+- ICE
+- Instagram
+- Manolo’s Bakery
+- Queen City News
+- The New York Times
+- Trump
+- U.S. Border Patrol
+- U.S. Department of Homeland Security
+- WCNC
 ---
 
 A bakery owner in North Carolina says he denied entry to President Trump’s former Border Patrol commander during an encounter on Sunday.

@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- America
+- US
+- Washington
+people:
+- Axel Rudolph
+- George Soros
+- Scott Bessent
+- Stanley Druckenmiller
+organisations:
+- Bessent
+- CNBC
+- Federal Reserve
+- General Account
+- IG
+- Treasury
+- WSJ
+- Wall Street Journal
 ---
 
 Scott Bessent’s attempt to calm the bond markets and push down America’s cost of borrowing have attracted a rebuke from the US Treasury secretary’s former mentor.

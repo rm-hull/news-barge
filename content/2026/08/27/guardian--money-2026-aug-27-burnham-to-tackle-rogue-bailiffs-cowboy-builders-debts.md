@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Britain
+- England
+- Wales
+people:
+- Andy Burnham
+- Martin Lewis
+- Sarah Sackman
+organisations:
+- ECB
+- Enforcement Conduct Board
+- Guardian
+- Ministry of Justice
+- MoneySavingExpert.com
+- Trusted Payments
 ---
 
 A clampdown on “rogue bailiffs” has been launched by Andy Burnham amid concerns that vulnerable people are being overcharged and face aggressive behaviour.

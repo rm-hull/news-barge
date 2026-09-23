@@ -15,6 +15,17 @@ categories:
 - News & Politics
 - Technology & Software
 - Automotive
+locations:
+- Bradford
+- Croft Street
+people: []
+organisations:
+- BMW
+- Bradford Council
+- Lamborghini
+- Neighbourhood Policing
+- Public Space Protection Order
+- West Yorkshire Police
 ---
 
 *(Image: WYP)*

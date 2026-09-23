@@ -15,6 +15,96 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Cairo
+- Gaza City
+- Independent Arabia
+- Israel
+- Khan Younis
+- Lebanon
+- Middle East Eye
+- Nasser Hospital
+- UAE
+- Yassin Building
+people:
+- '** Samaher'
+- Abdallah al-Attar
+- Abu Ahmed
+- Abu Mahmoud
+- Ahmed Abu Aziz
+- Ahmed Siam
+- Al Jazeera
+- Ali Abu Latifa
+- Amanda Nasser
+- Anas Al Sharif
+- Baraa Lafi
+- Bassem Abu Nimr
+- Benjamin Netanyahu
+- Blind
+- Chris Cobb-Smith
+- Doaa Alshaikh Eid
+- Earshot
+- Francesca Albanese
+- Ghaith
+- God
+- Hadi Torfi
+- Hatem Khaled
+- Hatem Omar
+- Hussam al-Masri
+- Ibrahim Qannan
+- Ibrahim Salama
+- Imad Al-Shaer
+- Imad al-Shaer
+- Ismail Al-Thawabta
+- Jamal Badah
+- Kevin Jon Heller
+- Khaled Shaath
+- Khan Younis
+- Lawrence Abu Hamdan
+- Mariam Abu Dagga
+- Matan Cohen
+- Moaz Abu Taha
+- Mohamad Ghadour
+- Mohamed Sakr
+- Mohamed Salama
+- N.R. Jenzen-Jones
+- Omar Abu Teim
+- Osama Musbah
+- Raed Saqr
+- Rafael Hayun
+- Reuters’ Hatem Omar
+- Saja
+- Travis Melin
+organisations:
+- Al-Jazeera
+- Al-Thawabta
+- Armament Research Services
+- Associated Press
+- CPJ
+- Centre for Military Studies
+- Committee to Project Journalists
+- ER
+- Elbit Systems
+- GBV
+- GLIA
+- General Staff Fact-Finding and Assessment Mechanism
+- Ghad TV
+- Golani Brigade
+- Hamas
+- Hezbollah
+- ICC
+- ICU
+- NGO
+- Nasser Hospital
+- Palestine TV
+- Planet Labs
+- Reuters
+- Southern Command
+- The Independent
+- UN
+- University of Copenhagen
+- WHO
+- World Health Organisation
 ---
 
 Please refresh the page or navigate to another page on the site to be automatically logged inPlease refresh your browser to be logged in

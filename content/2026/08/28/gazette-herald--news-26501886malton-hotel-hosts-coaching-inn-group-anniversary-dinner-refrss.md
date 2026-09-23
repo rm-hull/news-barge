@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Food & Cooking
+locations:
+- Malton
+- UK
+people:
+- Adam Charity
+organisations:
+- Coaching Inn Group
+- The Coaching Inn Group
+- The Talbot Hotel
 ---
 
 A hotel group has marked 30 years in business with a special anniversary event.

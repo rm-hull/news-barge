@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Harrogate
+- Junction 53
+- Junction 56
+- Kex Gill
+- M
+- M6
+- NYC
+- Nidderdale National Landscape
+- North Yorkshire
+- North of England
+- Scotch Corner
+- Skipton
+- UK
+- Vital
+people:
+- Lauren Luck
+- Malcolm Taylor
+organisations:
+- A1
+- A59
+- Kex Gill
+- North Yorkshire Council
+- Sisk Infrastructure
 ---
 
 *(Image: Provided)*

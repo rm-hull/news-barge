@@ -12,6 +12,15 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Halifax
+- Northowram
+people: []
+organisations:
+- '### What West Yorkshire Fire Service'
+- Newsquest
+- West Yorkshire Fire Service
+- Yorkshire Ambulance Service
 ---
 
 *(Image: Newsquest)*

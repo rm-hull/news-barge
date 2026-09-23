@@ -14,6 +14,51 @@ categories:
 - UK
 - Science
 - History
+locations:
+- America
+- Canada
+- China
+- Earth
+- Florida
+- Mars
+- Oval Office
+- U.S.
+people:
+- Alan Shepard
+- Artemis
+- Bob Behnken
+- Christina Koch
+- Donald Trump
+- Doug Hurley
+- Frank Borman
+- Harrison Schmitt
+- Jared Isaacman
+- Jeremy Hansen
+- Jimmy Carter
+- Joe Biden
+- John Glenn
+- Matthew Anderson
+- Neil Armstrong
+- Reid Wiseman
+- Victor Glover
+organisations:
+- AP
+- Apollo 11
+- Apollo 17
+- Apollo 8
+- Artemis II
+- Artemis IV
+- Associated Press Health and Science Department
+- Department of Science Education
+- Houston’s Johnson Space Center
+- Howard Hughes Medical Institute
+- International Space Station
+- Kennedy Space Center
+- Mission Control
+- NASA
+- Robert Wood Johnson Foundation
+- U.S. Space Academy
+- U.S. Space Academy for the Space Force
 ---
 
 The Artemis II astronauts who flew around the moon earlier this year received the nation’s highest space honor on Friday.

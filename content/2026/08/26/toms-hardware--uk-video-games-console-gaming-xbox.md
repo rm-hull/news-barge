@@ -12,6 +12,17 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- Europe
+- UK
+people:
+- Asha Sharma
+- Scott Van Vliet
+organisations:
+- FY27
+- Get Tom's Hardware
+- Microsoft
+- Xbox
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/GKhBbdqqZH3ZQa8xFuuvUh-320-80.jpg)

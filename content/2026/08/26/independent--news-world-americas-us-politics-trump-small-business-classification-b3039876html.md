@@ -15,6 +15,21 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- Main Street
+people:
+- Ed Markey
+- Eric Crusius
+- Kelly Loeffler
+- Sam Le
+organisations:
+- Big Business Administration
+- Federal News Network
+- Hunton Andrews Kurth
+- New York Times
+- Small Business Administration
+- The Independent
+- Trump
 ---
 
 The Trump administration wants to change what it means to be a small business by raising the standard, allowing certain companies with more than 3,000 employees and making $1 billion to apply for federal loans and grants.

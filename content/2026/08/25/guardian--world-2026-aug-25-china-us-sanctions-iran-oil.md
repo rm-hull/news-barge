@@ -11,6 +11,32 @@ image: https://i.guim.co.uk/img/media/77f6b7563b4ecc87e66bf199e323ebeb482e3e43/3
 categories:
 - UK
 - News & Politics
+locations:
+- Beijing
+- China
+- Hormuz
+- Iran
+- Islamic Republic
+- Normandy
+- Tehran
+- Turkey
+- US
+- United Arab Emirates
+- United States
+- Washington
+people:
+- Ali Madanizadeh
+- Andrew Miller
+- Donald Trump
+- Lin Jian
+- Pete Hegseth
+- Scott Bessent
+- Sina Toossi
+- Xi Jinping
+organisations:
+- Center for American Progress
+- Center for International Policy
+- Trump
 ---
 
 China has denounced the threat of US sanctions for its trade with Iran, saying any such measures would be illegal, and warned it would take “all necessary measures” to protect its national interests.

@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- North Bay
+- North Marine Road
+- North Yorkshire
+- Scarborough
+people:
+- Thomas Atkinson
+organisations:
+- Durham Hotel
+- Google Maps
+- Highway Authority
+- North Yorkshire Council
 ---
 
 A FORMER pub in a popular North Yorkshire resort will be turned into residential flats after plans were approved by the council.

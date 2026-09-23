@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - News & Politics
 - True Crime
+locations:
+- B1363 York Road
+- Sutton-on-the-Forest
+people: []
+organisations:
+- Audi
+- North Yorkshire Police
 ---
 
 ![A stock photo of a police officer's fluorescent jacket.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/2b3b/live/31e9b190-a30c-11f1-93b3-fd1f81ebc907.jpg)

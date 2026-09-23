@@ -11,6 +11,21 @@ image: https://cdn.mos.cms.futurecdn.net/fVvA9tr87QfPys6VEUqGJS-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- China
+- UK
+- US
+people:
+- Craig Hale
+organisations:
+- Craig’s
+- FRAND
+- Google News
+- HP
+- Huawei
+- Reuters
+- TechRadar Pro
+- US Department of Commerce
 ---
 
 ![Huawei](https://cdn.mos.cms.futurecdn.net/fVvA9tr87QfPys6VEUqGJS.jpg) 

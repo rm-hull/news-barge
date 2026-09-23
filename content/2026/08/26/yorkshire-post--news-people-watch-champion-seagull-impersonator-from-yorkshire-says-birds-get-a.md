@@ -14,6 +14,21 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Belgium
+- Britain
+- Hebden Bridge
+- Somerset
+- West Yorkshire
+- Weston Museum
+- Weston-super-Mare
+people:
+- Cooper Wallace
+- Morris
+- Mum-of-two Trish
+- Trish Clemit
+organisations:
+- Butlins
 ---
 
 # WATCH: Champion seagull impersonator from Yorkshire says birds get a bad press after squawking to victory

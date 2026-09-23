@@ -15,6 +15,55 @@ categories:
 - Music
 - Arts & Culture
 - History
+locations:
+- America
+- Australia
+- Canada
+- Ireland
+- Las Vegas
+- Nashville
+- Tennessee
+- UK
+- US
+- United States
+people:
+- Barack Obama
+- Bernie Sanders
+- Beyoncé
+- Bill Clinton
+- Bill Hagerty
+- Carl Dean
+- Céline Dion
+- Dolly Parton
+- Donald Trump
+- Elton John
+- Eminem
+- Hillary Clinton
+- Instagram
+- Instant Sainthood
+- Jack White
+- Jeff Conyers
+- Joan Jett
+- Joe Biden
+- Jolene’
+- Kamala Harris
+- Marsha Blackburn
+- Michelle
+- Mick Fleetwood
+- My Daddy
+- Paul McCartney
+- Taylor Swift
+organisations:
+- Dolly Parton’s Imagination Library
+- Dollywood Foundation
+- Fleetwood Mac
+- Imagination Library
+- Moderna
+- Queen of Country
+- Rock and Roll Hall of Fame
+- The Dollywood Foundation
+- Vanderbilt University Medical Center
+- White Stripes
 ---
 
 ## Tributes have been paid after the news that Dolly Parton, one of the most legendary artists in country music history, has died at the age of 80.

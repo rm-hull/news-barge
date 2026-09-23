@@ -13,6 +13,68 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Australia
+- Box Hill
+- Canada
+- Canberra
+- Chatswood
+- Cheltenham
+- Clayton
+- Coles
+- England
+- North Shore
+- Suburban Rail Loop
+- Sydney Metro
+- Town Hall Lifeblood
+- Victoria
+- WA
+- Werribee
+- Woden
+people:
+- Aunty
+- Ben Carroll
+- Brittany Higgins
+- Cath Stone
+- Coles
+- Elena Rosenman
+- George Chan
+- Grace Tame
+- Iain Anderson
+- Jay
+- Joel Carrett
+- Kasy Chambers
+- Ken Leanfore
+- Leah Weckert
+- Matt Longland
+- Matthew Guy
+- Ooshies
+- Scott Lee
+organisations:
+- AAP Australia
+- ABC Radio Sydney
+- AFP
+- Anglicare Australia
+- BWS
+- Coles’
+- Dan Murphy’s
+- Endeavour
+- First Nations
+- Getty Images Coles
+- Legal Services
+- Lifeblood
+- Luca Ittimani Coles
+- Melbourne Airport
+- Sexual Violence Legal Service
+- Sexual Violence Legal Services
+- Suburban Rail Loop
+- Sydney Metro
+- Sydney Trains
+- Uber Eats
+- Women’s Legal Centre ACT
+- Woolworths Coles
+- Woolworths’ Disney ‘Ooshie’
+- Woolworths’ Disney “Ooshie
 ---
 
 Australia news live: Coles blames competitor’s Ooshies for slowing sales; young people the first generation to earn less than their parents at same age

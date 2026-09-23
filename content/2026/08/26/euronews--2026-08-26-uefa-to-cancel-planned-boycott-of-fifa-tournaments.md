@@ -13,6 +13,32 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Argentina
+- England
+- France
+- Italy
+- Mexico
+- Poland
+- Portugal
+- Romania
+- Romanian Football Federation
+- Spain
+- US
+people:
+- Donald Trump
+- Gianni Infantino
+- Giovanni Malagò
+- Răzvan Burleanu
+organisations:
+- '## Football'
+- Associated Press
+- Euronews
+- FFE
+- FIFA Forward Enterprise
+- Italian Football Federation
+- Truth Social
+- UEFA
 ---
 
 ## In late July, UEFA announced its 55 member associations would take no part in FIFA competitions as long as the world governing body's FIFA Forward Enterprise (FFE) proposal remained alive.

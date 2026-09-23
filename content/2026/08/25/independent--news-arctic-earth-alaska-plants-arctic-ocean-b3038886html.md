@@ -13,6 +13,38 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Alaska
+- Arctic Circle
+- Arctic Ocean
+- Brooks
+- Earth
+- Florida
+- Francis'
+- Lower 48
+- North Slope
+- Sweden
+- Toolik Field Station
+- Toolik Lake
+people:
+- Adam Bloom
+- Anne Bjorkman
+- Chris Neill
+- Duncan Menge
+- Jake Francis
+- Jonathan Carcache
+- Linda Deegan
+- Sarah Elmendorf
+organisations:
+- AP
+- Associated Press’
+- Columbia University
+- Earth
+- Florida Atlantic University
+- Francis'
+- University of Colorado
+- University of Gothenburg
+- Woodwell Climate Research Center
 ---
 
 With no tall trees reaching to the sky, Alaska's North Slope tundra can look desolate — especially to outsiders from the Lower 48 who are used to in-your-face greenery.

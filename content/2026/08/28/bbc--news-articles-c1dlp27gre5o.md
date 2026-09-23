@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- England
+- Greater Manchester
+- Scotland
+- Wales
+people:
+- Andy Burnham
+- Bill
+- Dame Esther Rantzen
+- Keir Starmer.
+- Lauren Edwards
+- Starmer
+- Wes Streeting
+- Yvette Cooper
+organisations:
+- End of Life
+- House of Commons
+- Houses of Parliament.
+- Labour
+- Lords
+- NHS
+- Scottish Parliament
 ---
 
 ![Andy Burnham looks pensive as he puts his hand to his chin and looks sideways.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/05aa/live/7438c100-a300-11f1-a291-b542ee92de7c.jpg)

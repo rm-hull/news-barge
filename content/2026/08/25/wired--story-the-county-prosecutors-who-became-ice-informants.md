@@ -13,6 +13,78 @@ categories:
 - Science
 - News & Politics
 - Society & Culture
+locations:
+- Alabama
+- Berlin
+- Cass
+- Centralia
+- Chiapas
+- Chicago
+- Ciudad Juarez
+- Detroit
+- DuPage County
+- El Paso
+- Illinois
+- Jackson County
+- Kane County
+- Lake County
+- Little Village
+- Marion County
+- Mason
+- Mexico
+- Missouri
+- New York
+- St. Louis
+- Texas
+- US
+- United States
+- Washington
+people:
+- Antonio Gutierrez
+- Bob Berlin
+- Bruce Rauner
+- Craig Miller
+- Donald Trump
+- Eric Rinehart
+- Eric Weis
+- Gwendolyn Thomas
+- JB Pritzker
+- Jamie Mosser
+- John Christeson
+- Kevin Parks
+- Kwame Raoul
+- Marion County
+- Matthew Boaz
+- Rolando Perez Samayoa
+- Sergio Fulgencio
+- Spencer Reynolds
+- Tim Hudspeth
+- Zachary Bryant
+organisations:
+- CBP
+- Cass County State
+- Customs and Border Protection
+- DHS
+- DUI
+- Department of Homeland Security
+- DuPage State
+- FOIA
+- Freedom of Information Act
+- Homeland Security
+- Homeland Security Investigations
+- House
+- ICE Custody
+- Injustice Watch
+- Kendall County State
+- Marion County State
+- Mason County State
+- Menard County State
+- NAACP Legal Defense Fund
+- Organized Communities Against Deportations
+- O’Hare International Airport
+- State’s Attorney’s Office
+- US Immigration and Customs Enforcement
+- University of Kentucky
 ---
 
 *This story was produced in partnership with Injustice Watch, a nonprofit newsroom in Chicago focused on the court system.*

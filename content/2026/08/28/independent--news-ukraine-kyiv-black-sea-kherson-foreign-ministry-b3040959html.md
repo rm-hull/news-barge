@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Black Sea
+- Crimea
+- Flamingo
+- Kherson
+- Kyiv
+- Lisbon
+- Moscow
+- Portugal
+- Russia
+- Sevastopol
+- Slavneft-YANOS
+- Sumy
+- Ukraine
+- Yaroslavl
+people:
+- Andrei Vorobyov
+- Andrii Kovalenko
+- Mikhail Yevrayev
+- Oleh Hryhorov
+- Oleksandr Kravchenko
+- Oleksandr Prokudin
+- Sevastopol Mikhail Razvozhayev
+- Tymur Tkachenko
+organisations:
+- Center for Countering Disinformation
+- Defense Ministry
+- Foreign Ministry
+- General Staff
+- Interfax-Ukraine
+- Ministry of Economy
+- National Security and Defense Council
+- State Emergency Service
+- Telegram
+- The Associated Press
+- ___ Hatton
 ---
 
 Russian forces on Friday resumed their drone barrage of Ukraine’s Kyiv region, hitting more than a dozen apartment buildings and storage depots in a second straight day of aerial attacks, officials said.

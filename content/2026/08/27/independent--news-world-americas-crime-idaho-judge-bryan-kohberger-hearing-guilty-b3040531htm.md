@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Idaho
+- Moscow
+people:
+- Bryan Kohberger
+- Ethan Chapin
+- Kaylee Goncalves
+- Kaylee Gonclaves
+- Madison Mogen
+- Mark
+- Steven Hippler
+- Xana Kernodle
+organisations:
+- Associated Press
+- Fox 29
+- The Independent
+- University of Idaho
+- WSU
+- Washington State University
 ---
 
 Bryan Kohberger, the man who has pleaded guilty to killing four University of Idaho students, will return to the courtroom next year in an effort to see his case reopened.

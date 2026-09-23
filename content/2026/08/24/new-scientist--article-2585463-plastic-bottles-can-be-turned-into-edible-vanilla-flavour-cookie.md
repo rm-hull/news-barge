@@ -12,6 +12,19 @@ categories:
 - Science
 - Technology & Software
 - Food & Cooking
+locations:
+- Chicago
+people:
+- Hallet
+- Jason Hallett
+- Lahiru Jayakody
+- Saabira Chaudhuri
+- Sandhya Jayasekara
+organisations:
+- ACS
+- American Chemical Society
+- Imperial College London
+- Southern Illinois University Carbondale
 ---
 
 ![A cookie made using waste plant materials and plastic](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309008441.jpg?w=840)

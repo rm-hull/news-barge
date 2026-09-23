@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Britain
+- Downing Street
+- France
+- Kremlin
+- Kyiv
+- London
+- Moscow
+- Russia
+- UK
+- Ukraine
+people:
+- Andrei Kelin
+- Andy Burnham
+- Keir Starmer
+- Liz Truss
+- Vladimir Putin
+organisations:
+- MBDA
+- Scalp
+- The Times
 ---
 
 Andy Burnham has promised Britain is “100 per cent behind” Ukraine as he visits Kyiv on his first foreign trip to mark the country’s independence day.

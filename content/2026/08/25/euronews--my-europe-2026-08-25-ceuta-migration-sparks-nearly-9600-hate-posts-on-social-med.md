@@ -12,6 +12,21 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Ceuta
+- North Africa
+people:
+- Instagram
+organisations:
+- Facebook
+- Instagram
+- Ministry of Inclusion
+- OBERAXE
+- Social Security and Migration
+- Spanish Observatory on Racism and Xenophobia
+- State Secretariat for Migration
+- TikTok
+- YouTube
 ---
 
 ## The Spanish Observatory on Racism and Xenophobia logged 9,590 hate messages in two days tied to a July influx of some 80,000 migrants into Ceuta.

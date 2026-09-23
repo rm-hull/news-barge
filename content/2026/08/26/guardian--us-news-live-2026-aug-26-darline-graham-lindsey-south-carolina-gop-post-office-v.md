@@ -13,6 +13,120 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Alaska
+- Bangkok
+- Brownsville
+- Brunswick
+- California
+- Cameron County
+- Caribbean
+- Gaza
+- HCA Florida Poinciana
+- Iran
+- Israel
+- Kennedy Center
+- Lincoln Memorial
+- Maine
+- Mexico
+- Middle East
+- Minnesota
+- Myrtle Beach
+- New Jersey
+- New York
+- Oklahoma
+- Ontario
+- Polk
+- Potomac River
+- South Carolina
+- South Texas
+- Thailand
+- Toronto
+- US
+- United States
+- Washington DC
+- West Bank
+- White House
+people:
+- Abraham Lincoln
+- Adam Schiff
+- Annie Andrews
+- Benjamin Netanyahu
+- Brett Kavanaugh
+- Calero Cabanilla
+- Chris Stein
+- Christian Castro
+- Chuck Schumer
+- Cory Booker
+- Dan J Sullivan
+- Dan S Sullivan
+- Dan Sullivans
+- Darline Graham
+- Dolly Parton
+- Donald Trump
+- Doug Ford
+- Gentner Drummond
+- Gia Calero
+- Giulianna Mía Carriel Calero
+- Glen Beck
+- Grace Stephanie Calero Cabanilla
+- Grahamwill
+- Jim Rex
+- John F Kennedy
+- Jonathan Bravo
+- Jonathan Kalmuss-Katz
+- Julio Cesar Sosa-Celis
+- Ketanji Brown Jackson
+- Lindsey Graham
+- Mary Peltola
+- Melissa Shepard
+- Mike Mazzei
+- Mini Timmaraju
+- Mizzei
+- Paul Gigot
+- Ralph Norman
+- Rob Ford
+- Roe
+- Scott Bessent
+- Shrai Popat
+- Stan Druckenmiller
+- Stanley Druckenmiller
+- Surasant Kongsiri
+- Susan Collins
+- Troy Jackson
+- Wade
+organisations:
+- AFP
+- AP
+- All
+- Associated Press
+- CNN
+- Congress
+- Department of Homeland Security
+- Deportation Data Project
+- EPA
+- Earthjustice
+- East Wing
+- Environmental Protection Agency
+- Guardian
+- House
+- ICE
+- ImmDef
+- Immigration and Customs Enforcement
+- Maga Inc Super Pac
+- Maine Senate
+- NAACP
+- Newsweek
+- Notus
+- Reuters
+- SOUTHCOM
+- South Carolina’s Commission for the Blind
+- Trump
+- US Forest Service
+- US Immigration and Customs Enforcement
+- US Senate
+- US Southern Command
+- Wall Street Journal
 ---
 
 Trump touts primary success after Republicans win elections in South Carolina and Oklahoma

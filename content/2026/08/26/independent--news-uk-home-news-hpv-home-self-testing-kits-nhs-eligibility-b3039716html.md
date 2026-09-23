@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- England
+- UK
+people:
+- Sue Mann
+- Sweta Sharma Saha
+organisations:
+- King’s College London
+- NHS England
+- Queen Mary University of London
+- School of Health and Life Sciences
+- Teesside University
 ---
 
 Millions of women in the UK who have missed cervical screening appointments will now be offered free at-home self-testing kits on the NHS.

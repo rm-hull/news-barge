@@ -14,6 +14,31 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Canada
+- Canadian Confederation
+- China
+- Great Lakes
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- New York
+- North Korea
+- Ottawa
+- U.S.
+- United States
+people:
+- Donald Trump
+- Mark Carney
+organisations:
+- Army Corps of Engineers
+- Declaration of Independence of the United States of America
+- MAGA
+- NOAA
+- Oval Office
+- Trump
+- U.S. Geological Survey
 ---
 
 Canadian Prime Minister Mark Carney on Thursday hit back after President Donald Trump signed an order directing the federal government to start calling New York’s Lake Ontario “Lake America” in a swipe at the U.S.’s northern neighbor and ally.

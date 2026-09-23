@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Books & Literature
+locations:
+- Marton Road
+- Middlesbrough
+- North
+- Willington
+people:
+- Banana’
+- Christopher North
+- Elisha Marsay
+- Jonathan Carroll
+organisations:
+- Amazon
+- Lloyds
+- Miss Marsay
+- Teesside Crown Court
 ---
 
 *(Image: Amazon website)*

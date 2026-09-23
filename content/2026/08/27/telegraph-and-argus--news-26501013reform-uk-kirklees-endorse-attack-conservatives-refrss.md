@@ -13,6 +13,32 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Batley
+- Cleckheaton
+- Dewsbury
+- Heckmondwike
+- Holmfirth
+- Huddersfield
+- Kirklees
+- Mirfield
+- Westminster
+people:
+- Bill Armer
+- Cllr Wood
+- Sarah Wood
+- Zia Yusuf
+organisations:
+- AI-Generated
+- Conservative Group
+- Conservative Party
+- Kirklees Conservative Group
+- Kirklees Council
+- LDR
+- REFORM UK Kirklees
+- Reform Council
+- Reform UK
+- Westminster’s Accelerator Programme
 ---
 
 *(Image: LDR)*

@@ -14,6 +14,26 @@ categories:
 - UK
 - History
 - Travel
+locations:
+- Antigua
+- Australia
+- Bahamas
+- Barbuda
+- Britain
+- Canada
+- Caribbean
+- Guyana
+- India
+- South America
+- South Pacific
+- St. John’s
+- Tuvalu
+- United Kingdom
+people:
+- Camilla
+- Charles III
+organisations:
+- Commonwealth Heads of Government
 ---
 
 King Charles III and Queen Camilla will visit three countries in and around the Caribbean when he travels to the region for the Commonwealth Heads of Government meeting, which begins Nov. 1 in St. John’s, the capital of Antigua and Barbuda.

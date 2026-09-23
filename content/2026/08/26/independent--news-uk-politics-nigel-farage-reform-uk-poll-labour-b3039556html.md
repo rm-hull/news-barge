@@ -10,6 +10,25 @@ image: https://static.independent.co.uk/2026/08/22/15/22144457-5bfab528-ebda-4fe
 categories:
 - News & Politics
 - UK
+locations:
+- Clacton
+- Common
+- UK
+people:
+- Andy Burnham
+- Christopher Harborne
+- George Cottrell
+- Luke Tryl
+- Nigel Farage
+- Tim Montgomerie
+- Zia Yusuf
+organisations:
+- Commons
+- Labour Party
+- Parliamentary Commissioner for Standards
+- Reform UK
+- Restore
+- Tory
 ---
 
 Reform UK have slumped to their lowest performance in opinion polls in over 18 months as Nigel Farage’s by-election win fails to boost the party’s popularity.

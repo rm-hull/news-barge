@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Abraham Lincoln
+- Florida
+- George Washington
+- Iran
+- Key West
+- Middle East
+- Nicaragua
+- US
+people:
+- Abraham Lincoln
+- Donald Trump
+- Joshua Aviles
+- Luis Manuel Aviles Roa
+organisations:
+- DHS
+- ICE
+- USS Abraham Lincoln
 ---
 
 The father of a US sailor on board the USS Abraham Lincoln aircraft carrier deployed in the Middle East during the Iran war has been taken into federal immigration detention, the sailor said.

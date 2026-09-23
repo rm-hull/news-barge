@@ -12,6 +12,12 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Sharlston
+- Wheelands Avenue
+people: []
+organisations:
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

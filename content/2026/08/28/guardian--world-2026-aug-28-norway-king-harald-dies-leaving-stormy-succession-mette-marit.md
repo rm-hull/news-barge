@@ -12,6 +12,43 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Afghanistan
+- Britain
+- Europe
+- Mexico City
+- Munich
+- Norway
+- Oslo
+- Pakistan
+- Palace Square
+- Sweden
+- Tenerife
+- Tokyo
+- US
+people:
+- Allah
+- Anders Behring Breivik
+- Ari Behn
+- Carl XVI Gustaf
+- Charles
+- God
+- Haakon VIII
+- Harald V
+- Harald V.
+- Jeffrey Epstein
+- Jonas Gahr Støre
+- King Harald
+- Marius Borg Høiby
+- Mette-Marit
+- Olav V
+- Sonja
+- Victoria
+organisations:
+- Mette-Marit
+- Oslo University
+- Oslo’s University
+- Oxford
 ---
 
 King Harald V of Norway, Europe’s oldest reigning monarch, has died aged 89, the royal palace in Oslo has announced. He will be succeeded by his son King Haakon VIII.

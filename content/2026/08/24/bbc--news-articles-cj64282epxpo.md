@@ -12,6 +12,14 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- County Tyrone.**
+- Gardenville Avenue
+- Omagh
+- Omagh.
+people:
+- Det Insp Winters
+organisations: []
 ---
 
 ![White and yellow security vehicles and a police officer in dark clothing with blonde hair at scene of alert in Gardenville Avenue, Omagh.](https://ichef.bbci.co.uk/ace/standard/878/cpsprodpb/3398/live/e2bbb520-9fb7-11f1-b703-13ae65ccf6b5.jpg)

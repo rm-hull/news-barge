@@ -14,6 +14,99 @@ categories:
 - York
 - Travel
 - Outdoors & Nature
+locations:
+- 2Kings
+- Allerston
+- Burythorpe
+- Cockayne
+- Farndale
+- Feversham Arms Inn
+- Harrogate
+- Low Mill
+- North-South
+- Ocean
+- Scagglethorpe
+- Sherburn Village Hall YO17 8PG
+- Sheriff Hutton Village Hall
+- St Catherine’s Hospice
+- Stonegrave Minster
+- Trinity Methodist Chapel Norton
+- Village Hall
+- Welburn
+- West Lund Lane
+- Westlands
+- Yorkshire
+people:
+- Anne Avery
+- Bo Simpson
+- David Malloch
+- Father’ Willis
+- God
+- Graeme Matthew
+- Janet Rossall
+- Janet Sutor
+- Jennie
+- Jenny
+- John Bramall
+- Julia Shanks
+- Kay Murphy
+- Lesley Jaram
+- Madge Allison
+- Margaret Fletcher
+- Michael Krause
+- Mick
+- Nick Fletcher
+- Pat Lowry
+- Peter Drabble
+- Peter Healey
+- Philip Moore
+- Rachel
+- Richard Hilton
+- Rupert Gillingham
+- Sue Hardman
+- Sue Shuttleworth
+- Sylatec Kirkbymoorside
+- Sylvia Andrews
+- Terence Boyle
+- Tony
+- Trevor Haigh
+- Tricia Pearce
+- Valerie Hawkes
+organisations:
+- AGM
+- Churches Together
+- Dementia Forward
+- Diabetes UK
+- Farndale Village Hall
+- Fleece Inn
+- Garden Party
+- Holy Communion Service
+- John Clarke Archive
+- Kirkbymoorside Bowling Club
+- Kirkbymoorside Horticultural Society
+- Malton Bridge Club
+- Marston Archive
+- Maureen Rolph
+- Methodist Chapel
+- Methodist News
+- Norton Hive Library and Community Hub
+- Peter Wood & Son
+- Rillington and District Horticultural and Industrial Society
+- SeaGrown of Scarborough
+- Sherburn Chapel
+- Sherburn Local History Society
+- Sheriff Hutton Jumblies Jumble Sale
+- St Catherine’s Hospice
+- St Mary’s Church
+- Tuesday Art Group
+- Welburn PCC
+- Wool Spinners
+- kirkbymoorside Bridge Club
+- malton Bridge Club
+- norton Derwent Diggers
+- sherburn Local History Society
+- thornton dale Bridge Club
+- welburn Recital
 ---
 
 *(Image: Nick Fletcher)*

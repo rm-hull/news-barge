@@ -11,6 +11,11 @@ image: https://images.euronews.com/articles/stories/09/89/20/37/1200x675_cmsv2_e
 categories:
 - Europe
 - News & Politics
+locations:
+- Europe
+- Switzerland
+people: []
+organisations: []
 ---
 
 ## Switzerland's long-standing position has been one of well-armed neutrality and the European country has mandatory conscription for men.

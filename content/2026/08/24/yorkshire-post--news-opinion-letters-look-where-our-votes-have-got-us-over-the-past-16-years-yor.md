@@ -12,6 +12,34 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Eton
+- Meltham
+- UK
+- US
+people:
+- Aaron Banks
+- Alex Salmond
+- Andrew Milligan
+- Boris Johnson
+- David Cameron
+- Gordon Brown
+- Nick Clegg
+- Nigel Farage
+- Posh George’
+- Richard Tice
+- Theresa May
+- Winston Churchill
+organisations:
+- EU
+- European Union
+- Government of Scotland
+- MP
+- Philip Hutchinson
+- Scarr Green Close
+- UKIP
+- Union Jack
+- Yorkshire Post Letters
 ---
 
 # Look where our votes have got us over the past 16 years - Yorkshire Post Letters

@@ -15,6 +15,19 @@ categories:
 - Business & Entrepreneurship
 - Arts & Culture
 - Technology & Software
+locations:
+- Bradford
+- Godwin Street
+- Sunwin House
+- YOUR
+people:
+- Jon Ackroyd
+organisations:
+- Bradford City Centre Conservation Area
+- Bradford Council
+- Conservation Officers
+- Jmail Assets Limited
+- Public Notice Portal
 ---
 
 *(Image: T&A)*

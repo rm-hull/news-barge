@@ -13,6 +13,42 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Grangetown
+- Middlesbrough
+- Redcar
+- South Bank
+- Teesside
+people:
+- Alec Brown
+- Andy Burnham
+- Andy McDonald
+- Anna Turley
+- Chris McDonald
+- Cole Robert Worthy
+- Jakub Matusiak
+- Jonathan Brash
+- Luke Myer
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Natalie McDonald
+- PC Blades
+- PC Clough
+- Theo Ray
+- Tom Clough
+- Valentina Foster
+organisations:
+- A66
+- BBC Sounds
+- Cleveland Borough Council
+- Cleveland Police
+- Labour
+- Lucozade
+- Radio 4
+- Redcar
+- Today
+- Volkswagen
 ---
 
 ![A composite image of Natalie McDonald and Valentina Foster. McDonald is wearing a white wedding dress with a tiara perched on her head. She has long dark hair and is holding a bouquet of white roses with four blue ones dotted within it. Valentina wears an electric blue dress with white flowers on the neckline and waist. She has long light brown hair with a blue and white headband. She is holding a small white basket with white and blue roses and she wears white gloves.](https://ichef.bbci.co.uk/ace/standard/907/cpsprodpb/d43b/live/59b0d4a0-a1f0-11f1-bf30-b9c45f18ad85.jpg)

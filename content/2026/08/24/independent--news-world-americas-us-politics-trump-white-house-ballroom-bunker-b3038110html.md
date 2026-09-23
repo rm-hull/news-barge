@@ -12,6 +12,38 @@ image: https://static.independent.co.uk/2026/08/20/17/2026-08-20T164940Z_8461756
 categories:
 - News & Politics
 - UK
+locations:
+- D.C.
+- East Wing
+- U.S.
+- White House
+people:
+- Barack Obama
+- Dan Driscoll
+- Davis Ingle
+- Dick Cheney
+- Donald Trump
+- Franklin D Roosevelt
+- John Roberts
+- Laura Bush
+- Stephen Miller
+organisations:
+- '![Work'
+- Congress
+- East Wing
+- East Wing Modernization Project
+- House of Representatives
+- Independent
+- National Command Authority
+- National Trust for Historic Preservation
+- Oval Office
+- Presidential Emergency Operations Center
+- Senate
+- Supreme Court
+- The Post
+- The Washington Post
+- Trump
+- U.S. Supreme Court
 ---
 
 President Donald Trump’s insistence that his $600 million White House ballroom is justified because of the security upgrades it will bring is undermined by the fact that the complex already has a secret bunker, according to former officials.

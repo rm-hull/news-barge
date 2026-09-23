@@ -11,6 +11,86 @@ image: https://cdn.mos.cms.futurecdn.net/j4vMLU2E2CgcazP7xhacAD-2560-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- Derby
+- Edgbaston
+- Get England
+- Headingley
+- India
+- Karachi
+- London
+- Lord's
+- Lord’s
+- Pakistan
+- Tampad
+- U.S.
+- UK
+- US
+- USA
+- West Indies
+- pakistan
+people:
+- Aamer Jamel
+- Abdullah Fazal
+- 'Ali Usman ## England'
+- Awais Zafar
+- Azan Awais
+- Babar Azam
+- Ben Duckett
+- Brydon Carse
+- Dan Lawrence
+- Emilio Gay
+- Ghazi Ghori
+- Gus Atkinson
+- Harry Brook
+- Imam-ul-Haq
+- Jamie Smith
+- Joe Root
+- Jofra Archer
+- Jordan Cox
+- Josh Tongue
+- Khurram Shahzad
+- Krishi
+- Matthew Fisher
+- Mohammad Abbas
+- Mohammad Ali
+- Mohammad Rizwan
+- Ollie Pope
+- Ollie Robinson
+- Sajid Khan
+- Salman Ali Agha
+- Sam Cook
+- Shan Masood
+- Shoaib Bashir
+- Sonny Baker
+- Ubaid Shah
+organisations:
+- AU
+- Dakshin Flex
+- ECB
+- England
+- Future Publishing
+- ICC
+- Kayo Sports
+- Kayo Sports**
+- Krishi
+- NordVPN**
+- PAK
+- PTV Sports
+- Pak
+- Pakistan
+- Poms
+- Seat Unique
+- Sky Sports
+- Sony LIV
+- Sony Sports Network
+- Tapmad
+- TechRadar
+- Techopedia
+- The Tech Report
+- Tom's Guide
+- Willow TV
 ---
 
 ![England bowler Ollie Robinson celebrates after taking his 5th wicket of the innings](https://cdn.mos.cms.futurecdn.net/j4vMLU2E2CgcazP7xhacAD.jpg) 

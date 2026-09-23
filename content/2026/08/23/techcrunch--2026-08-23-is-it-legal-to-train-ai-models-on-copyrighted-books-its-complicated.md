@@ -11,6 +11,24 @@ description: Most published authors have, without their knowledge or consent, co
 image: https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg?resize=1200,749
 categories:
 - Technology & Software
+locations: []
+people:
+- Cathy Gellis
+- Jason Henderson
+- Perlmutter
+- Ross
+- Stephanos Bibas
+- Thaler
+- William Alsup
+organisations:
+- AI
+- Anthropic
+- IP & Media Practice
+- JWL International
+- Reuters’
+- Ross Intelligence
+- TechCrunch
+- Thomson Reuters
 ---
 
 You probably know by now that the AI models powering ChatGPT, Gemini, Claude, and other chatbots are trained on seemingly infinite databases of published works, containing hundreds of millions of books, online articles, academic papers, and basically anything you can find on the internet. Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?

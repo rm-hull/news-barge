@@ -14,6 +14,23 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Brotherton Bridge
+- Knottingley
+- Leeds
+- Micklefield
+- Moorthorpe
+- Network Rail
+- River Aire
+- Selby
+- Sherburn-in-Elmet
+- York
+- Yorkshire
+people:
+- Karen Duffy
+organisations:
+- Network Rail
+- Northern and TransPennine Express
 ---
 
 An £800,000 upgrade to a historic railway bridge in Yorkshire will bring some passenger disruption this bank holiday weekend.

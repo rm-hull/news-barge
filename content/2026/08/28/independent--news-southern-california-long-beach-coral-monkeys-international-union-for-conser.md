@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Australia
+- Banggai
+- Caribbean
+- Fiji
+- Indonesia
+- Long Beach
+- Southern California
+- Tonga
+- Torrance
+people:
+- Jeff Flocken
+- Nate Jaros
+organisations:
+- Aquarium of the Pacific
+- Association of Zoos
+- Association of Zoos and Aquariums
+- Association of Zoos and Aquariums’ Wildlife Confiscations Network
+- Coral
+- International Union for Conservation of Nature
+- Long Beach Post
+- Los Angeles International Airport
+- The Associated Press
+- U.S. Fish and Wildlife Service
 ---
 
 Clownfish clamber around a watery enclosure, a couple of brownbanded bamboo sharks weave between rocks and lines of coral sit in tanks basking under artificial grow lights — all creatures seized from illegal wildlife trafficking and placed at the Aquarium of the Pacific for care and a home.

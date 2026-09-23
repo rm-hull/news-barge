@@ -11,6 +11,19 @@ description: 'Grand Theft Auto: San Andreas VR has finally come to the Meta Ques
 image: https://cdn.mos.cms.futurecdn.net/JtA5FFYUnXkV8TKLbfpcp9-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- San Andreas
+- VT
+people:
+- Claude
+- GitHub
+organisations:
+- APK
+- Google News
+- Hamish
+- Meta
+- Rockstar
+- TechRadar
 ---
 
 ![Grand Theft Auto San Andreas](https://cdn.mos.cms.futurecdn.net/JtA5FFYUnXkV8TKLbfpcp9.jpg) 

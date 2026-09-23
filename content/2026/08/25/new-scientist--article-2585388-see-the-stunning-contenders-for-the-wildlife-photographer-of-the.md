@@ -14,6 +14,20 @@ categories:
 - Technology & Software
 - Outdoors & Nature
 - Arts & Culture
+locations:
+- Brazil
+- California
+- Central America
+- Ecuadorian Andes
+- Pantanal
+people:
+- Andrea
+- Gil Wizen
+- Jens Cullmann
+- Loren Elliott
+- Maceo Grammatico
+organisations:
+- London’s Natural History Museum
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI308747016.jpg?w=840)

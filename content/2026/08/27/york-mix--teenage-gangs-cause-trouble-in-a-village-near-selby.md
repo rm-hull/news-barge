@@ -11,6 +11,13 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Chapel Haddlesey
+- Millfield Road
+people: []
+organisations:
+- CCTV
+- North Yorkshire Police
 ---
 
 There have been two reports of anti-social behaviour within the last three weeks on Millfield Road, Chapel Haddlesey.

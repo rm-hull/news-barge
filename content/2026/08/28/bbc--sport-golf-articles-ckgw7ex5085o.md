@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Austin
+- Texas
+people:
+- Alexis Miestowski
+- Callaway
+- Garrett Clark
+- Good Good
+- Matt Kendrick
+organisations:
+- Callaway
+- Good Good
 ---
 
 ![An image of a golf club and golf ball on a tee](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/5461/live/03668760-a2b4-11f1-9024-715001d09aeb.jpg)

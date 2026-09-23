@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Malton
+- North Yorkshire
+- Skipton-on-Swale
+- Wakefield
+people:
+- Kate James
+organisations:
+- Northern Air Support Unit
+- Nostell Air Support Unit
+- RAF Topcliffe
+- YAA
+- Yorkshire Air Ambulance
 ---
 
 *(Image: Supplied)*

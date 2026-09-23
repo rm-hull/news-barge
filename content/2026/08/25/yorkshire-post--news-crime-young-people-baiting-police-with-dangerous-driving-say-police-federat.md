@@ -16,6 +16,41 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- A66
+- Middlesbrough
+- PA
+- Richard McCarthy
+- South Bank
+- Teesside
+people:
+- Cole Robert Worthy
+- Jacob Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Paul Williams
+- Pc Blades
+- Pc Blades’
+- Pc Clough
+- Pc Matthew Blades
+- Pc Tom Clough
+- Theo Rae
+- Tom Clough
+- Wayne Fox
+organisations:
+- A66
+- BBC Breakfast
+- Civil Nuclear Constabulary
+- Cleveland Police
+- Cleveland Police Federation
+- Independent Office for Police Conduct
+- Passat
+- Pc Blades
+- Police Federation
+- Police Federation of England and Wales
+- Volkswagen
+- Volvo
 ---
 
 # Young people ‘baiting police’ with dangerous driving, say Police Federation

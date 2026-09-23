@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- California
+- D.C.
+- Florida
+- Key West
+- Lincoln
+- Miami
+- Middle East
+- Nicaragua
+- Santa Ana
+- U.S.
+- United States
+- Washington
+people:
+- Abraham Lincoln
+- Amy Taxin
+- Argelia Aviles
+- Donald Trump
+- Joshua Aviles
+- Konstantin Toropin
+- Luis Manuel Aviles
+- Luis Manuel Aviles'
+- Margaret Stock
+organisations:
+- Associated Press
+- DHS
+- Department of Homeland Security
+- Department of Justice
+- Facebook
+- The Associated Press
+- U.S. Navy
+- USS Lincoln
 ---
 
 The father of a U.S. Navy sailor who has been deployed in the Middle East for a record-breaking nine months was released from immigration detention, according to his family.

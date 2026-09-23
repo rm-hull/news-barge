@@ -13,6 +13,43 @@ image: https://static.independent.co.uk/2026/08/25/14/Trump_87782.jpg?width=1200
 categories:
 - News & Politics
 - UK
+locations:
+- Alabama
+- Canada
+- Gulf of America
+- Gulf of Mexico
+- Iran
+- Islamic Republic
+- Kentucky
+- Lake America
+- Lake America’
+- Lake Ontario
+- New York
+- Ohio
+- Quebec
+- U.S.
+- US
+- United States
+- Washington
+- White House
+people:
+- Donald Trump
+- Doug Ford
+- François-Philippe Champagne
+- Hakeem Jeffries
+- Jared Kushner
+- Mark Carney
+- Mike Johnson
+- Scott Bessent
+organisations:
+- Ford
+- House
+- Netflix
+- New York Yankees
+- Supreme Court
+- The Associated Press
+- Treasury
+- Trump
 ---
 
 Canada will announce retaliatory tariffs against the United States on Tuesday as relations sharply deteriorate, with President Donald Trump telling Canadian leaders to “fall in line” and Prime Minister Mark Carney accusing Washington of trying to subordinate Canada.

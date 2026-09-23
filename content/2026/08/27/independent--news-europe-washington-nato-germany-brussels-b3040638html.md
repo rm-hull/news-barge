@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Brussels
+- Canada
+- Europe
+- Germany
+- Indo-Pacific
+- Iran
+- Poland
+- Russia
+- U.S.
+- United Kingdom
+- United States
+- Washington
+people:
+- Elbridge Colby
+organisations:
+- NATO
+- Pentagon
 ---
 
 The Pentagon on Thursday pressed U.S. allies at NATO to prove they are stepping up their defense of Europe as Washington shifts its attention to security challenges closer to home and in the Indo-Pacific region.

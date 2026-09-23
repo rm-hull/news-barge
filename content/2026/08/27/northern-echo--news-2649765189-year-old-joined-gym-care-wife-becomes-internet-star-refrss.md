@@ -15,6 +15,18 @@ categories:
 - News & Politics
 - Health & Fitness
 - Sports
+locations:
+- North East
+- Ouseburn
+- Pioneer Gym
+people:
+- Matthew Walker
+- Pete
+- Peter
+- Stacey Dooley
+organisations:
+- CCTV
+- Instagram
 ---
 
 *(Image: Pioneer Gym on Instagram)*

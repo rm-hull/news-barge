@@ -12,6 +12,16 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Afghanistan
+- Geneva
+- Kabul
+people:
+- Tajudeen Oyewale
+organisations:
+- UN
+- UNICEF
+- United Nations
 ---
 
 ## Afghanistan has endured repeated periods of widespread hunger in recent decades as it has struggled through civil war and other crises.

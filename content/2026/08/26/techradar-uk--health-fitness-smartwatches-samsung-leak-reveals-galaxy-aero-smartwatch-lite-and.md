@@ -11,6 +11,24 @@ description: A leak has revealed hints pointing towards a low-cost Samsung Galax
 image: https://cdn.mos.cms.futurecdn.net/ToekjsZYgiP3deznTYY3VL-1200-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Alex Blake
+organisations:
+- Amazfit
+- Apple
+- Creative Bloq
+- Gadgets & Wearables
+- Galaxy Aero
+- Google News
+- Google Play Store
+- Huawei
+- MacFormat
+- RTOS
+- SamMobile
+- Samsung Health and Galaxy Wearable
+- TechRadar
+- iMore
 ---
 
 ![Samsung Galaxy Watch FE](https://cdn.mos.cms.futurecdn.net/ToekjsZYgiP3deznTYY3VL.jpg) 

@@ -12,6 +12,71 @@ image: https://i.guim.co.uk/img/media/9c27978883c3099f3b215f8e74787e2ead13ad64/0
 categories:
 - UK
 - News & Politics
+locations:
+- ALASKA
+- Alaska
+- America
+- Anchorage
+- Arizona
+- Gaza
+- Illinois
+- Iran
+- Maryland
+- Michigan
+- Pennsylvania
+- South Carolina
+- US Capitol
+- US House
+- Ukraine
+- Washington
+- White House
+- Wisconsin
+people:
+- Adam Kinzinger
+- Andy Biggs
+- Barack Obama
+- Chris van Hollen
+- Dan A Sullivan
+- Dan J Sullivan
+- Dan S Sullivan
+- Dan Sullivan
+- Darline Graham
+- Donald Trump
+- Hakeem Jeffries
+- Hakeem Jeffries’
+- Hello
+- Jared Kushner
+- Joe Biden
+- Lindsey Graham
+- Mary Peltola
+- Natalie Harp
+- Ralph Norman
+- Tim Scott
+- Tom Tiffany
+- Tommy Vietor
+organisations:
+- Airbnb
+- Amazon
+- CPA
+- Capitol
+- Center for Political Accountability
+- Congress
+- DoorDash
+- Google
+- Guardian
+- House
+- Meet the Press
+- Meta
+- Microsoft
+- NBC
+- Pod Save America
+- REAL DAN SULLIVAN
+- Raga
+- Republican Attorneys General Association
+- Republicanpartyisprojectedtolose
+- Senate
+- Target
+- Zillow –
 ---
 
 Hakeem Jeffries meeting with Jared Kushner sparks fierce backlash

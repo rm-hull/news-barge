@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- East Holmes Field
+- Ilkley
+- Keighley
+people:
+- Chris Burke
+- Ian Walker
+- Mike Laycock
+organisations:
+- Bradford Council
+- Met Office Yellow Weather Warning
+- West Yorkshire Fire and Rescue Service
+- West Yorkshire Police
+- Yorkshire Water
 ---
 
 *(Image: Yorkshire Water)*

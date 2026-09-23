@@ -11,6 +11,13 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Acomb Wood
+- York
+people: []
+organisations:
+- '#### Acomb Wood'
+- North Yorkshire Fire & Rescue Service
 ---
 
 Police have been called in following a fire in York today (Tuesday).

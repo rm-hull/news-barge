@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Chiba
+- Himi
+- Ishikawa
+- Japan
+- Kaga
+- Noto
+- Tokyo
+- Toyama
+people:
+- Minoru Kihara
+organisations:
+- Hokuriku Electric Power Co
+- Japan Meteorological Agency
+- NHK
 ---
 
 Torrential rain struck Japan’s north-central prefectures of Ishikawa and Toyama on Thursday, triggering flooding and landslides, closing roads and stranding people in flooded homes and vehicles.

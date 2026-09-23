@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- UK
+people:
+- Tom Preston
+organisations:
+- BYD
+- DVSA
+- EVs
+- Hippo Leasing
+- Jaecoo
+- Matt Vosper Photography Ltd
+- Omoda
+- Xpeng
 ---
 
 *(Image: Matt Vosper Photography Ltd)*

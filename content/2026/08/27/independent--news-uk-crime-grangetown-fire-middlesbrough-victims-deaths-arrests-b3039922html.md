@@ -13,6 +13,46 @@ categories:
 - UK
 - True Crime
 - Society & Culture
+locations:
+- A66
+- Acklam
+- Birchington Avenue
+- Cleveland
+- Grangetown
+- Middlesbrough
+- Newcastle
+- Redcar
+- Royal Victoria Infirmary
+people:
+- Adam Brook
+- Anna Turley
+- Cole Worthy
+- Ellie
+- Emily Harrison
+- Jacob Matusiak
+- Lisa Kirton
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Ms Kirton
+- Ms McDonald
+- Natalie McDonald
+- Passat
+- Pc Tom Clough
+- Theo Rae
+- Tina
+- Valentina Foster
+organisations:
+- BBC Valentina
+- Cleveland Local Policing Commander
+- Cleveland Police
+- PC Blades
+- PC Clough
+- RVI
+- Redcar Labour
+- South Bank
+- The Independent
+- The Times
 ---
 
 A young girl and her aunt died in a house fire near Middlesbrough, less than a mile from the site of a crash on the A66 which killed seven people, according to a new report.

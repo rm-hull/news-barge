@@ -12,6 +12,24 @@ image: https://images.euronews.com/articles/stories/09/89/14/35/1200x675_cmsv2_a
 categories:
 - Europe
 - News & Politics
+locations:
+- Dnipropetrovsk
+- Epicentr
+- Kharkiv
+- Kyiv
+- Odesa
+- Osnovyanskyi
+- Poltava
+- Sumy
+- Ukraine
+- Zaporizhzhia
+people:
+- Oleh Syniehubov
+- Vitali Klitschko
+- Volodymyr Zelenskyy
+organisations:
+- Air Force
+- Geran-4 Seeker
 ---
 
 In Sumy, strikes hit a residential area, sparking fires that damaged homes and commercial buildings. Emergency crews were deployed to three locations as residents surveyed the damage.

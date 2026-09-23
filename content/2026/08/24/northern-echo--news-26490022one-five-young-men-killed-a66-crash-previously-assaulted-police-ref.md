@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Middlesbrough
+- South Bank
+- Teesside Magistrates' Court
+people:
+- )* Saddington
+- Cole Robert Worthy
+- Jacob Matusiak
+- John Walker
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Pc Blades
+- Pc Clough
+- Pc Tom Clough
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- Cleveland Police
+- HM Courts & Tribunals Service
+- Independent Office for Police Conduct
+- NORTHERN ECHO
+- Passat
+- TikTok
 ---
 
 One of the five young men killed in the devastating A66 crash had previously admitted assaulting police officers, court records have revealed.

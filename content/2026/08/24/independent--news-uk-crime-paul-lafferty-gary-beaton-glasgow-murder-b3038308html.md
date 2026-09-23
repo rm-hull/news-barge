@@ -13,6 +13,22 @@ categories:
 - UK
 - Film & TV
 - True Crime
+locations:
+- Chancellor Street
+- Glasgow
+- Partick
+people:
+- Cheryl Kelly
+- Craig Brady
+- Gary Beaton
+- Paul Lafferty
+organisations:
+- CCTV
+- Crimestoppers
+- Greater Glasgow Division
+- MIPP
+- Partick
+- Police Scotland
 ---
 
 More than 4,000 hours of CCTV footage have been seized by police officers as they investigate a double murder in Glasgow.

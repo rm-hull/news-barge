@@ -12,6 +12,52 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Arizona
+- Arkansas
+- Chicago
+- Chihuahua
+- Douglas
+- Illinois
+- Lexington
+- Memphis
+- Mexico City
+- Nebraska
+- New Mexico
+- New World
+- Omaha
+- Panama Canal
+- Pennsylvania
+- Philadelphia
+- Phoenix
+- Salt Lake City
+- Sonora
+- Texas
+- U.S.
+- US
+- Utah
+- White House
+people:
+- Brooke Rollins
+- Claudia Sheinbaum
+- David Anderson
+- Derrell Peel
+- Donald Trump
+- Glynn Tonsor
+- John Boozman
+organisations:
+- JBS USA
+- Kansas State University
+- New World
+- Oklahoma State University
+- Texas A&M University
+- Trump
+- Tyson Foods
+- U.S. Bureau of Labor Statistics
+- U.S. Department of Agriculture
+- U.S. U.S. House Agriculture Committee
+- USDA
 ---
 
 A border crossing in Arizona reopened to Mexican cattle on Monday as part of an effort by the Trump administration to address record-high beef prices but economists doubt the change will bring noticeable relief to supermarket shoppers.

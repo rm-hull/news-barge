@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Netherlands
+- Rwanda
+people: []
+organisations:
+- The Hague District Court
+- United Nations
 ---
 
 A Dutch court on Friday convicted a Rwandan man of participation in his home country's 1994 genocide and sentenced him to life imprisonment.

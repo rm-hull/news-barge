@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Malton Skatepark
+- North Yorkshire
+- Norton
+people:
+- Ryan Swain
+organisations:
+- CCTV
+- North Yorkshire Police
+- Norton-on-Derwent Town Council
+- Ryedale Skate School
 ---
 
 Criminal damage and antisocial behaviour have led to a zero-tolerance crackdown at a North Yorkshire skatepark.

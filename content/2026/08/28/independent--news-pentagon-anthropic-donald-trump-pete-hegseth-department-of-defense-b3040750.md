@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Law & Justice
+locations:
+- U.S.
+- Washington, D.C.
+- White House
+people:
+- Claude
+- Dario Amodei
+- Donald Trump
+- Michael Mongan
+- Pete Hegseth
+- Rita Lin
+organisations:
+- AI
+- Anthropic
+- Defense Department
+- Department of Defense
+- Department of Justice
+- Pentagon
+- Trump
 ---
 
 A federal judge has ruled in favor of artificial intelligence company Anthropic in its legal battle against the Pentagon after the government labeled the company as a supply chain risk earlier this year.

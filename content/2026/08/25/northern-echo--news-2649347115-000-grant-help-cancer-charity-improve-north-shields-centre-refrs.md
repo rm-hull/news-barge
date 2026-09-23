@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Nile Street
+- North Shields
+people:
+- Mary Udberg
+- Maureen Elliott
+- Ms Elliott
+- Niki Holt
+- Read More
+organisations:
+- Cancer
+- Certas Energy
+- Certas Energy Community Bloom Fund
+- Community Bloom Fund
 ---
 
 *(Image: Provided)*

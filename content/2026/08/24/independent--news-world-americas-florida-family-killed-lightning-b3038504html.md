@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Florida
+- Glasgow
+- Kennedi
+- Kenya
+- Margate
+- Miami
+- U.S.
+people:
+- Benson Boone
+- God
+- Kameron Glasgow
+- Kennedi
+- Kensli
+organisations:
+- CPR
+- Centers for Disease Control and Prevention
+- Glasgow
+- Margate Police
+- WPLG
 ---
 
 A Florida father has been left heartbroken after his wife and two-year-old daughter were killed in a lightning strike over the weekend.

@@ -11,6 +11,20 @@ image: https://cdn.mos.cms.futurecdn.net/uNHgBTcxd4wK76z5PTyZMo-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Cardiff
+people:
+- Matt Evans
+organisations:
+- Argos
+- Argos'
+- Garmins
+- Google News
+- Huawei
+- Men's Health
+- Runner's World
+- Samsung Galaxy Watch8
+- TechRadar
 ---
 
 ![Samsung Galaxy Watch8 in black](https://cdn.mos.cms.futurecdn.net/uNHgBTcxd4wK76z5PTyZMo.jpg) 

@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Birchington Avenue
+- Grangetown
+- Middlesbrough
+- Newcastle
+- Redcar
+- Royal Victoria Infirmary
+- STUART BOULTON
+- South Bank
+- Teesside
+people:
+- Ellie
+- Emily Harrison
+- Grangetown Adam Brook
+- Owen Humphreys
+- STUART BOULTON
+organisations:
+- Cleveland Fire Brigade
+- Cleveland Local Policing Commander
+- North News & Pictures Ltd
+- PA Wire
+- Redcar & Cleveland
+- STUART BOULTON
 ---
 
 *(Image: Owen Humphreys/PA Wire)*

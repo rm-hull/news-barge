@@ -11,6 +11,22 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Blake Street
+- Mount Grace Charcuterie
+- Northallerton
+- Ripon-based Rosebud Preserves
+- Skeldergate
+- York
+people: []
+organisations:
+- Big Cheese
+- Mexicano
+- The Big Cheese
+- Thirsk-based Shepherds Purse Cheeses
+- West Yorkshire Cryer & Stott Cheesemongers
+- York-based Bessie
+- Yorkshire Preserves
 ---
 
 Meats and cheeses always pleases – as a new cheese and charcuterie shop has opened in York.

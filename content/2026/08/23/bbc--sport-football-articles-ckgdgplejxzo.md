@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- East Stand
+- England
+- Newcastle
+- St James' Park
+people:
+- '** Keegan'
+- Alan Shearer
+- Darren Peacock
+- Keegan Keegan
+- Kevin Keegan
+- Lee Clark
+- Liam O'Brien
+- Peter Beardsley
+- Rob Lee
+- Ruel Fox
+- Shaka Hislop
+- Steve Howey
+- Steve Watson
+- Tino Asprilla
+- Warren Barton
+organisations:
+- Geordies
+- Liverpool
+- Newcastle United
+- UnitedandLiverpoolsupporters
+- Wor Flags
 ---
 
 ![Newcastle and Liverpool applauded the late Kevin Keegan before kick off](https://ichef.bbci.co.uk/ace/standard/968/cpsprodpb/0aeb/live/3e66df40-9f08-11f1-8ab2-7700e58d1417.jpg)

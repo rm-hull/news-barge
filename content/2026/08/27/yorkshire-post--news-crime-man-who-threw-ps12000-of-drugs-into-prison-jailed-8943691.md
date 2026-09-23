@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Hull
+people:
+- Heather Butler
+- Joshua Smith
+organisations:
+- CCTV
+- HM Prison Service
+- Humberside Police
 ---
 
 # Man who threw £12,000 of drugs into prison jailed

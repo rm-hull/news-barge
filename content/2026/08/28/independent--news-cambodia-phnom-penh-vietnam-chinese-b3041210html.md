@@ -13,6 +13,20 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Cambodia
+people:
+- Chen Zhi
+- Chhay Sinarith
+- Li Xiong
+- Mark Taylor
+- Michael Brosowski
+organisations:
+- Ad-Hoc Commission for Combating Online Scams
+- Blue Dragon Children’s Foundation
+- CCOS
+- The Associated Press
+- United Nations Office on Drugs and Crime
 ---
 
 Cambodia, notorious for being a major center for international online scams, claimed Friday it no longer hosts any of the compounds where the lucrative cybercrime was carried out, although some remain skeptical.

@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Chester-le-Street
+- County Durham
+- Glenavon Road
+- Park View
+- Park View Rear
+- YOUR
+people: []
+organisations:
+- 19 Park View
+- Public Notice Portal
+- The Northern Echo
 ---
 
 *(Image: Newsquest)*

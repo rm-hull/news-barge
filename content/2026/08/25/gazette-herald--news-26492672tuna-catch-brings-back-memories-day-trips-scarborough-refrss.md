@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Filey
+- Scarborough
+- Sterchey
+- Whitby
+people:
+- Fawcett
+- Jaconelli
+- Mary Morton,Hob Moor Drive,Holgate
+- Seamer
+organisations:
+- The Press
 ---
 
 *(Image: Image: 54North Maritime Training)*

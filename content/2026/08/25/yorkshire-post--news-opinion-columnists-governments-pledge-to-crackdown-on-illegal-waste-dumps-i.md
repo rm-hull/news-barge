@@ -15,6 +15,25 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Bradford City
+- Britain
+- Greater Manchester
+- Manningham
+- Midland Road
+- Valley Parade
+- Yorkshire
+people:
+- Andrew Vine
+- Andy Burnham
+- Angela Eagle
+- Manningham
+- Scott Heppell
+organisations:
+- Environment Agency
+- National Crime Agency
+- Waste Crime Crackdown Group
+- West Yorkshire
 ---
 
 # Government’s pledge to crackdown on illegal waste dumps is welcome but there’s a whiff of style over substance to it - Andrew Vine

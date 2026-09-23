@@ -12,6 +12,25 @@ image: https://static.independent.co.uk/2026/08/25/14/16/Engagement-overlays-202
 categories:
 - News & Politics
 - UK
+locations:
+- Birmingham
+- Britain
+- London
+- Suffolk
+- UK
+people:
+- Andy Burnham
+- Angela?
+- Bob Crow
+- Margaret Thatcher
+- Reeves
+organisations:
+- Labour
+- RMT
+- Reform
+- Right to Buy
+- Shelter
+- Tories
 ---
 
 Andy Burnham’s £10bn plan to build 70,000 new homes has been billed as the return of the council house – but plenty of *Independent* readers aren’t convinced it goes far enough.

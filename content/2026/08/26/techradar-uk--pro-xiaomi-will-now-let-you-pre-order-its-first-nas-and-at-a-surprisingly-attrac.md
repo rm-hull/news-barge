@@ -12,6 +12,25 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Amazon
+- China
+- Ethernet
+- US
+people:
+- Rahim Amir
+organisations:
+- DS223j
+- Google News
+- PC
+- PCs
+- RGB
+- Realtek
+- SFF
+- Synology
+- TechRadar Pro
+- USB-A
+- Xiaomi Smart Storage NAS
 ---
 
 ![Xiaomi logo](https://cdn.mos.cms.futurecdn.net/KiTHnBqwKdmzxKGSBtCmwa.jpg) 

@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Health & Fitness
 - Science
+locations:
+- UK
+people:
+- Anne-Marie Minihane
+- Susan Kohlhaas
+organisations:
+- Alzheimer’s & Dementia
+- Alzheimer’s Research UK
+- HRT
+- Norwich Institute for Healthy Ageing
+- University of East Anglia
 ---
 
 Hormone replacement therapy may reduce the risk of dementia, a study has found.

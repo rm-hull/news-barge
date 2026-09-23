@@ -12,6 +12,29 @@ image: https://cdn.mos.cms.futurecdn.net/kzTxKxtGKWoJaMSRhqVoiZ-2560-80.jpg
 categories:
 - Technology & Software
 - News & Politics
+locations:
+- Grand Rapids
+- Michigan
+- Ohio
+- Texas
+- US
+- Van Andel Arena
+people:
+- '**Trump'
+- Benedict Collins
+- Donald Trump
+- Greg Abbott
+- Michael Cohen
+- Mike DeWine
+organisations:
+- AI
+- APT
+- BUCSIS
+- Google News
+- Meta
+- TechRadar Pro
+- Trump
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![Former US President and Republican presidential candidate Donald Trump gestures as he speaks during a campaign rally at Van Andel Arena in Grand Rapids, Michigan on November 5, 2024.](https://cdn.mos.cms.futurecdn.net/kzTxKxtGKWoJaMSRhqVoiZ.jpg) 

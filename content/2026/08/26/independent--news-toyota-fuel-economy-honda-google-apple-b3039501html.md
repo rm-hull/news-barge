@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Edmunds
+- Edmunds’
+people:
+- Edmunds
+- Josh Jacquot
+organisations:
+- Android Auto
+- Apple Carplay
+- Civic
+- Edmunds
+- Edmunds’
+- GR86
+- Honda
+- The Associated Press
+- Toyota
 ---
 
 Fun-to-drive coupes have been on the wane in the past few decades, which makes it worth paying attention when a new one shows up. The Honda Prelude returns after a 26-year hiatus for 2026, and it’s got some interesting elements to it. It comes standard with a frugal hybrid powertrain — which you wouldn’t necessarily associate with a performance coupe — combined with a specialized suspension and braking system to enhance the car’s handling and stopping.

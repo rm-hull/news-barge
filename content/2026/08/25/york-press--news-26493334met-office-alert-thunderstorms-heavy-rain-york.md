@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- A64
+- Doncaster
+- England
+- Manchester
+- North Yorkshire
+- Sheffield
+- Wales
+- York
+people: []
+organisations:
+- Met Office
 ---
 
 *(Image: Getty)*

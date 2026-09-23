@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Allianz Arena
+- Allianz Stadium
+- Germany
+- Munich
+- Sydney Harbour Bridge
+- Sydney Opera House
+people:
+- Ambrose Killian
+organisations:
+- Allianz Arena
+- First Nations
+- Instagram
+- Opera House
+- Sydney Opera
 ---
 
 The organisers of the Sydney Marathon have acknowledged that the runners taking part in the event next week will receive a medal that features a football stadium in Germany.

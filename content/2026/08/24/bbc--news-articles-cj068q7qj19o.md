@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Australia
+- France
+- Greece
+- New Zealand
+- UK
+people:
+- Christopher Luxon
+- David Seymour
+- Winston Peters
+organisations:
+- Act and New Zealand First
+- Instagram
+- NZF
 ---
 
 ![A stock image showing looking at the social media application menu, which includes apps for Instagram, Facebook and TikTok, on his smartphone.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ded3/live/dc9e0600-9fa5-11f1-bff6-57f1422ebb0b.jpg)

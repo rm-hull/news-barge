@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- Britain
+- Russia
+- Spain
+- UK
+- Ukraine
+people:
+- Andy Burnham
+- Covid
+organisations:
+- DWP
+- RSPB
 ---
 
 The government is preparing to tell Britons to stock up on tinned food and bottled water, as ministers step up planning for extreme weather and potential attacks on the UK’s infrastructure.

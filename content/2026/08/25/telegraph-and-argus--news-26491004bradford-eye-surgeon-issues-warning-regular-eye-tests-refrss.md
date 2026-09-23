@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Bradford
+- Cleckheaton
+- Huddersfield
+people:
+- Mohammed Mohyudin
+organisations:
+- Huddersfield
+- Newmedica Bradford
 ---
 
 *(Image: Supplied)*

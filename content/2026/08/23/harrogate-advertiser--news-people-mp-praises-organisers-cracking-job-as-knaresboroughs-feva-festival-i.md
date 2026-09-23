@@ -13,6 +13,25 @@ categories:
 - Local
 - Harrogate
 - Arts & Culture
+locations:
+- Harrogate
+- Knaresborough
+- Westminster
+people:
+- Derrick van Zelst
+- Feva
+- Gwen Lloyd
+- Robin
+- Tom Gordon
+organisations:
+- Chairperson of Feva
+- FEVA
+- Festival of Entertainment and Visual Arts
+- Houses of Parliament
+- Knaresborough
+- Liberal Democrat
+- 'Parliament ## Harrogate'
+- Yorkshire
 ---
 
 # MP praises organisers ‘cracking job’ as Knaresborough's Feva festival is in the spotlight in Parliament

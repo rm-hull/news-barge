@@ -12,6 +12,45 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Africa
+- Canada
+- Caribbean
+- Central America
+- Copenhagen
+- Dominican Republic
+- Greece
+- Mexico
+- Monaco
+- Morocco
+- North
+- Norway
+- Paris Saint-Germain
+- Poland
+- Qatar
+- Rabat
+- South America
+- Switzerland
+- Thessaloniki
+- U.S.
+- Vietnam
+people:
+- Donald Trump
+- Gianni Infantino
+- Jared Kushner
+- Joshua Kushner
+- Lise Klaveness
+- Nasser al-Khelaifi
+- Victor Montagliani
+organisations:
+- AFC
+- CONCACAF
+- European Football Clubs
+- FIFA
+- Infantino
+- Instagram
+- Los Angeles Lakers
+- UEFA
 ---
 
 Gianni Infantino, the increasingly embattled FIFA president, was everywhere in the conversations as European soccer leaders gathered this week in Monaco for the Champions League draw.

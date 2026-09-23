@@ -12,6 +12,10 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- York
+people: []
+organisations: []
 ---
 
 ## Our live feed has now finished.

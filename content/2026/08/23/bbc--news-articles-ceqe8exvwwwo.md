@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Health & Fitness
 - Science
+locations:
+- Manchester
+- Yorkshire
+people:
+- Ami Robertson
+- Chloe
+- Emma Barnett
+- Faye Farthing
+- Gail Busby
+- Grace
+- Madalitso
+- Samantha
+organisations:
+- BBC Your Voice
+- Endometriosis UK
+- NHS
+- Pilates
 ---
 
 ![The young women has long, blonde hair falling over her right shoulder. She is wearing a blue dress with thin straps and gold hoop earrings. She has tanned skin and blue eyes and is looking straight into the camera with a closed-mouth smile.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/b09c/live/25655b50-9b04-11f1-bb80-c1b1e1adeea5.jpg)

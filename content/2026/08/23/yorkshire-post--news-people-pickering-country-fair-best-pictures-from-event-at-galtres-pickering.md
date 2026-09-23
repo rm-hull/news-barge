@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Galtres Pickering Showground
+- Pool-in-Wharfedale
+people:
+- Anne Hampshire
+- Carl Denton
+- James Hardisty
+- Jo Thomas
+- John Appleby
+- Lucy
+- Tommy
+organisations:
+- Burrell & Sons
+- Ossett
+- Pickering Country Fair
+- Yorkshire Post
 ---
 
 The popular event held at Galtres Pickering Showground also has an old time fun-fair, bars and traction engines on display.

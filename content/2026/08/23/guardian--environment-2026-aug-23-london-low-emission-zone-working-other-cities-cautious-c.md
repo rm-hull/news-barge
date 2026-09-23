@@ -14,6 +14,60 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- America
+- Asia
+- Australia
+- Barcelona
+- Bogotá
+- Brazil
+- Bulgaria
+- China
+- Denmark
+- Ecuador
+- Europe
+- Greater Manchester
+- India
+- Kenya
+- London
+- Melbourne
+- Nairobi
+- Netherlands
+- Paris
+- Poland
+- Sofia
+- UK
+- Ulez
+- Uxbridge
+people:
+- Adriana Soto
+- Alastair Harper
+- Andy Burnham
+- Chris Griffiths
+- Donald Trump
+- Ella Adoo-Kissi-Debrah
+- Keir Starmer
+- Mete Coban
+- Nick Hopkinson
+- Nigel Farage
+- Sadiq Khan
+- Ulez
+- Vaca Jones
+- Victor Indasi
+- Zohran Mamdani
+- Zuma
+organisations:
+- C40
+- Clean Air Fund
+- Imperial College London
+- Labour
+- New York
+- Oxford University
+- QMUL
+- Queen Mary University London
+- SUV
+- UCLH
+- World Health Organization
 ---
 
 Ten years ago, Alastair Harper was an advocate for young people’s health sitting in a stuffy meeting room in London planning an air pollution campaign. “My phone started buzzing,” he said. “I took the call, and then told the room I needed to leave immediately.

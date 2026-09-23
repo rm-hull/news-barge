@@ -13,6 +13,11 @@ categories:
 - Harrogate
 - News & Politics
 - Society & Culture
+locations:
+- Harrogate
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 ![](https://mmo.aiircdn.com/409/688b80f25c9b8.jpg) 

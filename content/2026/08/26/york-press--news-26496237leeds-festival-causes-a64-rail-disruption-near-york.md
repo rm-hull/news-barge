@@ -12,6 +12,39 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- A64
+- Bramham Park
+- Brotherton Bridge
+- Kiddal Lane End
+- Knottingley
+- Leeds Train Station
+- M
+- Micklefield
+- Moorthorpe
+- Network Rail
+- River Aire
+- Sarcroft
+- Selby
+- Shadwell
+- Sherburn-in-Elmet
+- Sovereign Square Park
+- Tadcaster
+- Thorner
+- West Yorkshire
+- York
+people:
+- Adam Kennedy
+- Dan Wood
+- Karen Duffy
+organisations:
+- A64
+- First Bus
+- First Bus app
+- Network Rail
+- Newsquest
+- Northern and TransPennine Express
+- West Yorkshire Police
 ---
 
 ## A64 closure and train changes set for Leeds Festival weekend as thousands expected

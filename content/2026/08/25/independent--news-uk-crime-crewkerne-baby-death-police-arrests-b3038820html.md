@@ -12,6 +12,12 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Avon and Somerset
+- Crewkerne
+people: []
+organisations:
+- Avon and Somerset Police
 ---
 
 A man and a woman have been arrested after the unexplained death of a baby in Somerset.

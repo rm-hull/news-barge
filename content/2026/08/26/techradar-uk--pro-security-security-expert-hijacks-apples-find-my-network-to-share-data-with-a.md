@@ -11,6 +11,18 @@ description: A 'trusted' Linux device can impersonate an Apple device and access
 image: https://cdn.mos.cms.futurecdn.net/AkzcwhimnzzysrwQDQfyAe-2000-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Rahim Amir
+organisations:
+- Apple Account
+- Google News
+- Mac
+- PC
+- PCs
+- RGB
+- SFF
+- TechRadar Pro
 ---
 
 ![Find My iPhone displayed in settings](https://cdn.mos.cms.futurecdn.net/AkzcwhimnzzysrwQDQfyAe.jpg) 

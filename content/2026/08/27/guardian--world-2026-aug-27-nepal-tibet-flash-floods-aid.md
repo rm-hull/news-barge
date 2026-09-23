@@ -12,6 +12,40 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Asia
+- Australia
+- Bagmati
+- Beijing
+- Britain
+- Canada
+- Chilime
+- China
+- Chitwan
+- Dhading
+- India
+- Kailash Mansarovar
+- Kathmandu
+- Nepal
+- Nuwakot
+- Purupqiangzangbu
+- Rasuwa
+- Soley
+- Tibet
+- Tsogyal
+- US
+people:
+- Girilal Budhathoki
+- Kamal Kharel
+- Maya Wang
+- Nirajan Paudyal
+- Srijana Gurung
+- Tom Fletcher
+organisations:
+- Human Rights Watch
+- NGO Plan International
+- UN
+- US Geological Survey
 ---
 
 The international community was scrambling to get aid into flood-stricken parts of Nepal and Tibet on Thursday as authorities warned that a lake formed at the site where the deadly torrents occurred was rising and at risk of bursting.

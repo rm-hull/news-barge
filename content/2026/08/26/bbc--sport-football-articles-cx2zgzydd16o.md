@@ -12,6 +12,51 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- Liverpool
+- Netherlands
+- Newcastle
+- St James' Park
+people:
+- Adam Wharton
+- Alexander Isak
+- Alexis Mac Allister
+- Amar Dedic
+- Andoni Iraola
+- Anthony Elanga
+- Arne Slot
+- Cody Gakpo
+- Crystal Palace
+- Curtis Jones
+- Daniel Sturridge
+- Dominik Szoboszlai
+- Fabinho
+- Florian Wirtz
+- Hugo Ekitike
+- Iraola Iraola
+- James McConnell
+- Jeremy Jacquet
+- Joe Willock
+- Jurgen Klopp
+- Lewis Miley
+- Mac Allister
+- Martin Zubimendi
+- Moises Caicedo
+- Ryan Gravenberch
+- Trey Nyoni
+- Virgil van Dijk
+- Wataru Endo
+- Yoane Wissa
+organisations:
+- Crystal Palace
+- Everton
+- Liverpool
+- Newcastle
+- Premier League
+- Real Sociedad
+- Sky Sports
+- xG
 ---
 
 ![Ryan Gravenberch looks downcast during Liverpool's game at Newcastle](https://ichef.bbci.co.uk/ace/standard/987/cpsprodpb/ccd1/live/a22c1ad0-a085-11f1-bfeb-dfb02ea642ef.jpg)

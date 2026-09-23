@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Canada
+- Ontario
+- Quebec
+- US
+- United States of America
+people:
+- Christine Fréchette
+- Donald Trump
+- Doug Ford
+- Jamieson Greer
+- Mark Carney
+- Paul St-Pierre Plamondon
+- Ronald Reagan
+organisations:
+- Apple
+- CNBC
+- FCCQ
+- Ford
+- Netflix
+- Quebec Federation of Chambers of Commerce
+- Spotify
+- Trump
 ---
 
 Mark Carney said on Monday that while American negotiators saw the French language in Canada as an “irritant … in Quebec, these are rights,” days after receiving widespread praise from political leaders for rejecting a US trade proposal that many perceived as weakening the country’s Francophone culture.

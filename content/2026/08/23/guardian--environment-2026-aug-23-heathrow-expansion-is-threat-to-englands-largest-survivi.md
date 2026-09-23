@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Albert
+- England
+- Great Barn
+- Harmondsworth
+- Heathrow
+- London
+- Longford
+- New Barn
+- St Mary
+- Victoria
+- Winchester
+people:
+- Andy Burnham
+- Christian Hughes
+- John Betjeman
+- Justine Bayley
+- Marian Campbell
+organisations:
+- DCO
+- Department for Transport
+- DfT
+- English Heritage
+- Friends of the Great Barn at Harmondsworth
+- Guardian
+- Stop Heathrow Expansion
 ---
 
 Six hundred years after it was built, England’s largest surviving medieval timber-framed barn could now be “shaken to pieces” by aircraft vibrations, campaigners warn.

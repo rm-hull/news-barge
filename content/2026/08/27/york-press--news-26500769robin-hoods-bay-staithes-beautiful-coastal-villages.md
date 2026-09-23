@@ -13,6 +13,27 @@ categories:
 - York
 - Travel
 - Outdoors & Nature
+locations:
+- Aldeburgh
+- Blakeney
+- Hampshire
+- Lymington
+- Norfolk
+- North Yorkshire
+- Positano
+- Robin Hood's Bay
+- Staithes
+- Suffolk
+- UK
+- Whitby
+people:
+- Bay
+- James Cook
+- Robin Hood
+organisations:
+- Coke
+- Staithes
+- World Atlas
 ---
 
 ## Much-loved North Yorkshire coastal villages named prettiest in the country

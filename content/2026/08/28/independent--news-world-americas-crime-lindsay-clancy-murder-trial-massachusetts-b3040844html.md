@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Duxbury
+- Massachusetts
+people:
+- Callan
+- Cora
+- Dawson
+- Kevin Reddington
+- Lindsay Clancy
+- Patrick Clancy
+organisations: []
 ---
 
 Lindsay Clancy’s fate is now in the hands of a jury after a month of emotional testimony centered on one critical question: Was the Massachusetts mother able to understand that killing her three young children was wrong?

@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Britain
+- Crawley
+- Gambia
+- Gatwick
+- Horsham
+- Morocco
+- Tangiers
+- Vueling
+people:
+- Alex Jones
+- Joseph Turner
+organisations:
+- Air Arabia
+- Hove Area
+- London Gatwick
+- London Gatwick Airport
+- Sussex Police
+- Tui
+- West Sussex Brighton
 ---
 
 An unidentified man found in the wheel compartment of a plane that landed at Gatwick airport died after being in extremely cold conditions with a lack of oxygen, an inquest opening has heard.

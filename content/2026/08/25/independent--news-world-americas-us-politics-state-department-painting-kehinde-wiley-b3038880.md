@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- America
+- Dominican Republic
+- La Romana
+- Santo Domingo
+- Smithsonian
+- U.S.
+- US
+- United States
+- White House
+people:
+- Barack Obama
+- Celeste Woss y Gil
+- Dan Scavino
+- Donald Trump
+- Erin Scavino
+- Gilberto Hernández Ortega
+- Holofernes
+- Judith
+- Kehinde Wiley
+- Leah Campos
+organisations:
+- America First State Department
+- Instagram
+- National Portrait Gallery
+- New York Times
+- State Department
+- The Independent
+- Trump
+- U.S. State Department
 ---
 
 Trump administration officials at the State Department are considering selling off a painting by the artist who also painted a portrait of former President Barack Obama, claiming his work contains “violent” and “racist” depictions.

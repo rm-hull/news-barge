@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Morocco
+people:
+- Aleksander Ceferin
+- Gianni Infantino
+organisations:
+- FIFA
+- UEFA
 ---
 
 UEFA President Aleksander Ceferin says he won't run against FIFA President Gianni Infantino but warned the beleaguered head of world soccer that he must either quit or face a leadership challenge in March.

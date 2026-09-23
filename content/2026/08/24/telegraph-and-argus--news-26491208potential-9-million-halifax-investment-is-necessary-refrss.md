@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Halifax
+- Park ward
+- Queens Road
+- Queens Road Neighbourhood Centre
+- Raven Street Centre
+people:
+- Ahmed
+- Coun Mike Payne
+- Coun Payne
+- Responding
+organisations:
+- Assets and Resources
+- Cabinet
+- Calderdale Council
+- HOT
+- Halifax Opportunities Trust
+- National Lottery
+- National Lottery Heritage Fund
+- QRNC
+- Raven Street Community Hub
+- Reform UK
+- Sowerby Bridge
+- UC3 Community Hub
 ---
 
 Potentially up to £9 million might be obtained to help restore and bring back into use a much-loved Halifax community centre – but councillors have been asked “but is it necessary?”

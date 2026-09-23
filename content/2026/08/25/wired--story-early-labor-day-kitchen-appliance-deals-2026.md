@@ -12,6 +12,21 @@ categories:
 - Technology & Software
 - Science
 - Food & Cooking
+locations: []
+people:
+- All-Clad
+- Joe Ray
+- Louryn Strampe
+- Matthew Korfhage
+organisations:
+- All-Clad
+- Cuisinart Air Fryer Oven
+- Google
+- Grill
+- KitchenAid
+- QVC
+- WIRED
+- Walmart
 ---
 
 Nights are feeling crisp, it's getting darker earlier, and kids are back at school—for most people, vacation meals and casual picnics are over, and it's time to get back to business with meal and menu prep. If you're dusting off your pots, pans, and air fryers and thinking you could use an upgrade, Labor Day is a great time to score deals on appliances and cookware. Though the deals aren't quite as good as Prime Day's or Black Friday's, they're still substantial. These are the best early discounts I've found on gear the WIRED Reviews team has tested, loves, and uses in their own kitchens.

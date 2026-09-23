@@ -15,6 +15,44 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Fairfield General Hospital
+- Greater Manchester
+- Mid Staffordshire
+- Mid Staffordshire Hospital
+- NHS England
+- Oldham Hospital
+- Rochdale Infirmary
+- Royal Oldham Hospital
+- Royal Salford Hospital
+- Salford Royal Hospital
+- Wards
+people:
+- Andrea
+- Andy Burnham
+- Glyn Smurthwaite
+- John Bradley Williamson
+- Kelly
+- Rebecca
+- Vanessa Lawton
+organisations:
+- '![Northern Care Alliance'
+- A&E
+- Cabinet Office
+- Care Quality Commission
+- Channel 4
+- Datix
+- Department of Health and Social Care
+- Greater Manchester ICB
+- Integrated Care Board
+- Mid Staffs
+- NCA
+- NHS England
+- Northern Care Alliance NHS Foundation Trust
+- Pennine Acute NHS Foundation Trust
+- Salford Royal
+- Salford Royal Hospital NHS Foundation Trust
+- The Independent
 ---
 
 Patients have died or have been harmed because of care failures at an under-fire NHS trust which staff fear could become the next major health scandal, whistleblowers have claimed.

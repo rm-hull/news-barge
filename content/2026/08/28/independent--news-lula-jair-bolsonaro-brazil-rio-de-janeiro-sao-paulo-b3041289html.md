@@ -12,6 +12,27 @@ image: https://static.independent.co.uk/2026/08/28/20/APTOPIX_Brazil_Election_46
 categories:
 - News & Politics
 - UK
+locations:
+- Brazil
+- Caribbean
+- Latin America
+- Rio de Janeiro
+- Sao Paulo
+- Sen
+- U.S.
+people:
+- Bruno Pompeu
+- Flávio Bolsonaro
+- Jair Bolsonaro
+- João Ricardo Matta
+- Luiz Inácio Lula da Silva
+- Maria Izabel Pecanha
+- Mauricio Savarese
+- Thomas Traumann
+organisations:
+- Getulio Vargas Foundation
+- University of Sao Paulo
+- ___ AP
 ---
 
 Brazil's top presidential candidates, Luiz Inácio Lula da Silva and Flávio Bolsonaro, beginning Friday will seek to draw votes through free advertisements on television and radio stations, which continue to play a fundamental role in the campaign despite the rise of social media, experts say.

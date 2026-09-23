@@ -14,6 +14,30 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- America
+- Iran
+- Lincoln Memorial Reflecting Pool
+- Pennsylvania Avenue
+- Spain
+- Washington
+- White House
+people:
+- Bud Denker
+- Donald Trump
+- Fox
+- Melania Trump
+- Roger Penske
+organisations:
+- Air Force One
+- District of Columbia
+- Fox
+- Marine Corps
+- National Mall
+- Oval Office
+- Penske Corporation
+- Republican Party
+- UFC
 ---
 
 For once, things will be moving quickly in the nation's capital as Washington hosts an IndyCar race through its streets.

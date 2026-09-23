@@ -14,6 +14,51 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- Australia
+- Bottom Line
+- Grande Ole Opry
+- Las Vegas
+- Nashville
+- New York
+- Smoky Mountains
+- Tennessee
+- US
+people:
+- Antony Albanese
+- Bill Clinton
+- Blake Shelton
+- Bob Mackie
+- Cyndi Lauper
+- Dionne Warwick
+- Dolly Parton
+- Donald Trump
+- Donatella Versace
+- Elton John
+- Elvis Presley
+- Eminem
+- Gloria Estefan
+- Hannah Montana
+- Hillary Clinton
+- Jamie Lee Curtis
+- Kacey Musgraves
+- Keith Urban
+- Keke Palmer
+- Lord
+- Melissa Etheridge
+- Michael Loccisano
+- Mick Jagger
+- Oprah Winfrey
+- Paul McCartney
+- Priscilla Presley
+- Reba McEntire
+- Rod Stewart
+- Seth MacFarlane
+organisations:
+- American Country
+- McEntire
+- Parton
+- Rock & Roll Hall of Fame
 ---
 
 Dolly Parton: The life of an iconic country singer

@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- England
+- UK
+people:
+- Hanna Yusuf
+organisations:
+- Chemist4U
+- NHS
+- UKHSA
 ---
 
 *(Image: Getty)*

@@ -14,6 +14,21 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Cologne
+people:
+- Adam Mosseri
+- John Ternus
+- Tim Cook
+organisations:
+- Apple TV
+- Google
+- Huawei
+- IDC
+- Instagram
+- International Data Corporation
+- Motorola
+- Samsung
 ---
 
 ## Incoming CEO John Ternus will present the company’s first foray into the foldable phone market, hitting shelves by the end of the year starting at €2,200.

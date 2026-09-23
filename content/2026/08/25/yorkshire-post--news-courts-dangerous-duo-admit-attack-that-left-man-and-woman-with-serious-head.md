@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Appleton Road
+- Bridlington Avenue
+- Hull Crown Court
+people:
+- Bethany Davis
+- Chloe Campbell-Hamilton
+- Scott Harrison
+organisations:
+- CCTV
+- CID
+- Criminal Investigation Department
+- Crown Prosecution Service
+- Hull Crown Court
 ---
 
 # 'Dangerous duo' admit attack that left man and woman with serious head injuries

@@ -12,6 +12,27 @@ image: https://media.wired.com/photos/6a88d79a698bcff0e7cf9df9/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Arizona
+- Earth
+- Florida
+- Lagrange Point 2
+- Webb
+people:
+- Julie McEnery
+- Matthew Penny
+- Rachel Mandelbaum
+- Webb
+organisations:
+- Carnegie Mellon University
+- DESI
+- Dark Energy Spectroscopic Instrument
+- James Webb Space Telescope
+- Kennedy Space Center
+- Louisiana State University
+- Mercury
+- NASA
+- Nancy Grace Roman Space Telescope
 ---
 
 Astronomers have known for decades that an invisible substance permeates the cosmos. Detected only by its gravitational influence on visible objects, dark matter accounts for some 85 percent of all matter, enveloping entire galaxies in great spheroids that branch and interweave to form the scaffolding of the universe.

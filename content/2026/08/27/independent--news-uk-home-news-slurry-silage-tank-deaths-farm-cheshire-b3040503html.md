@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Arley
+- Aston-by-Budworth
+- Cheshire
+people:
+- Alan Ford
+- Rick
+organisations:
+- Cheshire Agricultural Society
+- Cheshire Police
+- Ford
+- Royal Cheshire County Show Facebook
 ---
 
 A father and son have died after falling into an industrial silage tank on a farm.

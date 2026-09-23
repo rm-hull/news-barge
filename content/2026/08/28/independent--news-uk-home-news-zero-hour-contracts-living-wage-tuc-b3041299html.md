@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- Britain
+people:
+- Joanne Thomas
+- Paul Nowak
+organisations:
+- TUC
+- Trades Union Congress
+- Usdaw
 ---
 
 Most employees on zero-hours or variable contracts stay in insecure roles for at least two years, research suggests.

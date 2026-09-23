@@ -12,6 +12,43 @@ image: https://static.independent.co.uk/2026/08/27/13/Kennedy_Measles_Samoa_2293
 categories:
 - News & Politics
 - UK
+locations:
+- Capitol Hill
+- D-Mass.
+- D-Ore.
+- Louisiana
+- Pacific
+- R-La.
+- Samoa
+- Sen
+- U.S.
+- White House
+people:
+- Bill Cassidy
+- Cheryl Hines
+- Donald Trump
+- Edward Markey
+- Michael Graven
+- RFK Jr
+- RFK Jr.
+- Robert F. Kennedy Jr.
+- Ron Wyden
+- Tuilaepa Sailele Malielegaoi
+organisations:
+- AP
+- CBS
+- CHD
+- Children’s Health Defense
+- Congress
+- Department of Health and Human Services
+- HHS
+- RFK Jr
+- Reporters Committee for Freedom of the Press
+- Senate Health, Education, Labor and Pensions Committee
+- State Department
+- The Associated Press
+- The Guardian
+- UNICEF
 ---
 
 Newly-obtained documents contradict assurances given by Health Secretary Robert F. Kennedy Jr. to senators during his confirmation process last year, when he repeatedly claimed a 2019 trip to Samoa prior to a deadly measles outbreak had "nothing to do with vaccines."

@@ -14,6 +14,48 @@ categories:
 - UK
 - Sports
 - Video Gaming
+locations:
+- Denver
+- Ireland
+- LSU
+- Louisiana
+- Mississippi
+- North Carolina
+- Texas
+people:
+- Aaron Beard
+- Brendan Sorsby
+- Dae’Quan Wright
+- Dan Greenspan
+- Drew Rosenhaus
+- John Currie
+- Lane Kiffin
+- Manny Diaz
+- Sean McVay
+- Sonny Dykes
+- Stephen Hawkins
+organisations:
+- AP Sports
+- Atlantic Coast Conference ADs
+- Big 12
+- Big 12 Conference
+- Big Ten
+- Cleveland Browns
+- Congress
+- Duke
+- LSU
+- Los Angeles Rams
+- NCAA
+- NFL
+- No. 11
+- Ole Miss
+- Power Four
+- SEC
+- Southeastern Conference
+- TCU
+- Texas Tech
+- The Associated Press
+- Wake Forest
 ---
 
 The Big Ten became the first conference Tuesday to adopt a rule prohibiting football players who have signed professional contracts from returning to play at its schools as college sports finds itself mired in lawsuits and disputes over eligibility.

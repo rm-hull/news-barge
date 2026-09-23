@@ -14,6 +14,36 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- America
+- Anfield
+- Aston Villa
+- Europe
+- Fulham
+- Liverpool
+- Nashville
+- New York
+- Yankee Stadium
+people:
+- Andoni Iraola
+- Arne Slot
+- Harvey Elliott
+- Unai Emery
+- Villa
+- Villaand
+organisations:
+- Anfield
+- Aston Villa
+- England Under-21s
+- Europa League
+- Ligue 1
+- Liverpool
+- Monaco
+- Newcastle
+- PSG
+- Premier League
+- Sunderland
+- Wrexham
 ---
 
 ![Harvey Elliott clasps the Liverpool badge with his right hand while raising his left arm](https://ichef.bbci.co.uk/ace/standard/997/cpsprodpb/a0cb/live/ec9cbc90-9fc3-11f1-8648-8d7b77845e6d.jpg)

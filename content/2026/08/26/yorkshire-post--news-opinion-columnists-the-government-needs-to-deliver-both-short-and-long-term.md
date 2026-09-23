@@ -14,6 +14,21 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Britain
+- Kyiv
+- Lukanivska
+- Ukraine
+people:
+- Andy Burnham
+- Henry Nicholls
+- John Healey
+organisations:
+- Budget
+- Burnham
+- Government
+- IPPR
+- Neets
 ---
 
 # The Government needs to deliver both short and long term economic growth

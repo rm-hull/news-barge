@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Coogee Beach
+- Queensland
+- Sydney
+- US
+- Western Australia
+people:
+- Leah Stewart
+organisations:
+- AU
 ---
 
 ![A woman with long blonde hair, wearing a white top and red skirt lying on a cream couch, with a baby sleeping on her chest.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2cf2/live/1cb13550-6f6d-11f1-a190-1943df672931.jpg)

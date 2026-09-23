@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - Automotive
 - Technology & Software
+locations:
+- Mook Street
+- North Yorkshire
+- Westow
+people: []
+organisations:
+- Honda
+- North Yorkshire Police
+- Yamaha
 ---
 
 ![This image shows a rural road junction in open countryside. A two-lane road runs from the foreground into the distance, descending through  farmland.

@@ -13,6 +13,16 @@ categories:
 - UK
 - Food & Cooking
 - Family & Parenting
+locations:
+- UK
+people:
+- Vicky Sibson
+organisations:
+- Archives of Disease in Childhood
+- CBF
+- First Steps Nutrition Trust
+- NHS
+- University of Glasgow’s College of Medical Veterinary and Life Sciences
 ---
 
 Baby food pouches sold in UK supermarkets are effectively "equivalent to fruit smoothies" and should not be given to children under a year old, experts have warned.

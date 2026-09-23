@@ -11,6 +11,27 @@ description: The censorship-bypassing tool has officially moved to the main bran
 image: https://cdn.mos.cms.futurecdn.net/XCpnp9fvBTvayHb7nJSSsT-1625-80.png
 categories:
 - Technology & Software
+locations:
+- Iran
+- Russia
+people:
+- Debian Sid
+- Rene Millman
+organisations:
+- Computer Weekly
+- Financial Times
+- GUI
+- Google News
+- IT Pro
+- Linux Snap Store
+- No Trace
+- Proton Team
+- Proton VPN
+- Proton VPN Linux
+- Reddit
+- Stealth
+- The Guardian
+- WireGuard
 ---
 
 ![Proton VPN Linux app, promo image](https://cdn.mos.cms.futurecdn.net/XCpnp9fvBTvayHb7nJSSsT.png) 

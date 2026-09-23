@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- America
+- Bourbon Street
+- French Quarter
+- Louisiana
+- Memphis
+- New Orleans
+- Tennessee
+- Washington
+people:
+- Donald Trump
+- Helena Moreno
+- Jeff Landry
+- Mardi Gras
+- Noel Collins
+organisations:
+- Louisiana National Guard
+- National Guard
+- Report for America Statehouse News Initiative
+- The Associated Press
+- ___ Brook
 ---
 
 The Louisiana National Guard is ending its eight-month deployment patrolling the streets of New Orleans, and troops will be withdrawn from the city by the end of the month.

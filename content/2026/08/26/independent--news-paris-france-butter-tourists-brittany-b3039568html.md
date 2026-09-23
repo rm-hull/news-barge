@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Brittany
+- Dublin
+- Eiffel Tower
+- France
+- Ireland
+- Loire Valley
+- Norway
+- Paris
+people:
+- Aleksandr Balaban
+- Alexandra Incolano
+- Bin Ehsan
+- Erwan Leo
+- Instagram
+- Mehreen Himayat
+- Salman Bin Ehsan
+organisations:
+- Chanel
+- Dior
+- Le Butter Shop
+- Organization for Economic Cooperation and Development
+- Paris’
+- The Associated Press
 ---
 
 The contradiction of the trim Parisian and the butter croissant now has a storefront.

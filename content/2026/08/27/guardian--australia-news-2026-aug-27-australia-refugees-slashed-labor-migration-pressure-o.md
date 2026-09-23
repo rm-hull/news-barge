@@ -12,6 +12,25 @@ image: https://i.guim.co.uk/img/media/8b3ba39f2825fb8d9ee714062325601626cb1cad/1
 categories:
 - UK
 - News & Politics
+locations:
+- Adelaide
+- Australia
+- Dubbo
+- Gaza
+- Iran
+- Sudan
+people:
+- Anthony Albanese
+- David Shoebridge
+- Jana Favero
+- Paul Power
+- Tony Burke
+organisations:
+- Asylum Seeker Resource Centre
+- Labor
+- OECD
+- One Nation
+- Refugee Council of Australia
 ---
 
 Anthony Albanese has guaranteed Australia’s annual refugee intake will not be cut next financial year, shutting down plans for the arrivals quota to drop by one-third to Coalition-era levels.

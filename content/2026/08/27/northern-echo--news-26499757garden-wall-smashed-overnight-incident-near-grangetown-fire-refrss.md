@@ -14,6 +14,30 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Birchington Avenue
+- Grangetown
+- Middlesbrough
+- Newcastle
+- Owen Humphreys
+- PA
+- Royal Victoria Infirmary
+- South Bank
+- Steele Crescent
+people:
+- Emily Harrison
+- Natalie McDonald
+- Natalie Taylor
+- Valentina Foster
+organisations:
+- A66
+- Cleveland Fire Brigade
+- Cleveland Local Policing Commander
+- Cleveland Police
+- Incident Command Unit
+- North News & Pictures Ltd
+- Northern Echo
+- Redcar
 ---
 
 A garden wall has been smashed at a property in South Bank, just streets away from the devastating blaze which killed a child and her aunt.

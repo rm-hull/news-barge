@@ -11,6 +11,44 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/239d/live/98ae3c
 categories:
 - UK
 - News & Politics
+locations:
+- Asia
+- Canada
+- Europe
+- Greenland
+- Iran
+- Maine
+- Mexico
+- Michigan
+- Middle East
+- North America
+- Ohio
+- Ontario
+- Ottawa
+- Strait of Hormuz
+- US
+- US-Canada
+- Venezuela
+- White House
+people:
+- Donald Trump Still
+- Donald Trump.
+- Doug Ford
+- Drew DeLong
+- Imran Bayoumi
+- JD Vance
+- Justin Trudeau
+- Mark Carney
+organisations:
+- '## Trump'
+- 51st State
+- Atlantic Council
+- Canadian Press
+- GeoStrategy Initiative
+- Kearney Foresight
+- Nafta
+- North American Free Trade Agreement
+- USMCA
 ---
 
 ![Vice-President JD Vance addresses a crowd of supporters in Maine. He is wearing a blue suit and holding his arms out, with a number of supporters sat behind him holding signs saying "Defend our Future"](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/0e01/live/d3782d60-a0fb-11f1-858d-bf23b7cd6b08.jpg)

@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Cornwall
+- England
+- Herefordshire
+- Midlands
+- UK
+people:
+- Lorraine O’Connor
+- Steve Layton
+organisations:
+- Aldi
+- Asda
+- Cuckoo Valley Cider
+- DEFRA
+- Department for Environment, Food and Rural Affairs
+- Environment Agency
+- Government
+- High Court
+- National Farmers’ Union
+- The Telegraph
 ---
 
 *(Image: Getty Images)*

@@ -12,6 +12,25 @@ categories:
 - Technology & Software
 - Hardware
 - Personal Finance & Investing
+locations:
+- Pierce County
+- Seattle
+- Washington
+people:
+- Duck Hunt
+- Roger Holler
+- Stephen Warwick
+- Super Mario Bros
+- Tom
+organisations:
+- Apple
+- Get Tom's Hardware
+- Google News
+- NES
+- Nintendo
+- TechRadar
+- Tom's Hardware
+- iMore
 ---
 
 ![NES games](https://cdn.mos.cms.futurecdn.net/rEXj3Bhvdr38acVmX67dZS.jpg) 

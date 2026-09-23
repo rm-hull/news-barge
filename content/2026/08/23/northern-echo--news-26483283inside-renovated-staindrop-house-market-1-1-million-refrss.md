@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 - History
+locations:
+- Barnard Castle
+- Belfast
+- Bishop Auckland
+- Darlington
+- Hartburn Village
+- North Yorkshire
+- Staindrop House
+- Strutt & Parker
+people: []
+organisations:
+- Staindrop House
+- Strutt & Parker
 ---
 
 *(Image: Strutt & Parker)*

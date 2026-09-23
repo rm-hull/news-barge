@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations: []
+people:
+- Raghu Sreeramaneni
+organisations:
+- Get Tom's Hardware
+- Hot Chips
+- Igor Arsovski
+- Kyoto University
+- LG
+- LPU
+- Nvidia
+- OpenAI
+- Synopsys
+- The Information
 ---
 
 ![chemicals on a shelf](https://cdn.mos.cms.futurecdn.net/BaNoikMVUSL8sLfjAoD2TQ-320-80.png)

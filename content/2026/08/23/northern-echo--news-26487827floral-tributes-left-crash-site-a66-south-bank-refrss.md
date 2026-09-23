@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Eston
+- Redcar
+- STUART BOULTON
+- South Bank
+people:
+- Andy Burnham
+- Anna Turley
+- David Taylor
+- Matthew Blades
+- Matty
+- Passat
+- Pc Mathew Blades
+- STUART BOULTON
+- Shabana Mahmood
+- Stephen Martin
+- Tom Clough
+- Victoria Fuller
+organisations:
+- Cleveland Police
+- Seaton Carew FC
+- South Bank
+- U10 Lions
+- U7 Seahawks
 ---
 
 People have been leaving floral tributes at the site of the devastating A66 crash which left seven people, including two police officers, dead.

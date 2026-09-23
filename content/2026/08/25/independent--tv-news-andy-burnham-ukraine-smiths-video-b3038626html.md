@@ -18,6 +18,72 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- Argentina
+- Buckingham Palace
+- Canada
+- Clacton
+- Cleveland
+- Dublin
+- England
+- France
+- Iran
+- Israel
+- Italy
+- Kyiv
+- London
+- Maldives
+- Man City
+- Manchester
+- Mauritius
+- New York City
+- Newcastle
+- Russia
+- Saudi Arabia
+- Spain
+- Tokyo
+- US
+people:
+- Amy Whitell
+- Andrew Strauss
+- Andy Burnham
+- Anthony Hutton
+- Count Binface
+- David Miliband
+- Ed Gamble
+- Elizabeth Davies
+- Farage
+- Harry Styles
+- JD Vance
+- Joanne McNally
+- Kim Kardashian
+- Lee Cain
+- Lemoncello
+- Marilyn Monroe
+- Matthias Jaissle
+- Nourah
+- Poorna Bell
+- Rusholme Ruffians
+- Sam Ryder
+- Tom Grennan
+- Trump
+- Zelensky
+organisations:
+- Alexandria Ocasio-Cortez
+- Arsenal
+- Cleveland PCC
+- Count Binface
+- Cultural Forces
+- Farage
+- JD Vance
+- MI6
+- Newcastle
+- Premier League
+- See.Sense
+- Spice Kitchen
+- Starmer
+- The Smiths
+- Trump
 ---
 
 ## Showing now | News

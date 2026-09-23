@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Glasgow
+- Sheffield
+people:
+- Crown
+- Euan Dow
+- Graeme Dott
+- Lindsey Dalziel
+- Neil Robertson
+- Peter Ebdon
+- Ronnie O’Sullivan
+organisations:
+- Crucible
+- High Court
 ---
 
 Former snooker world champion Graeme Dott has been found guilty of sexually abusing two primary school-aged children.

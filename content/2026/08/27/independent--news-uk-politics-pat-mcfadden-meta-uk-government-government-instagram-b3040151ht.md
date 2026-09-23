@@ -14,6 +14,30 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- America
+- Britain
+- California
+- Europe
+- PA
+- UK
+- US
+- United States
+people:
+- Felipe Romero-Morena
+- Joe Giddens
+- Keir Starmer
+- Pat McFadden
+organisations:
+- BBC Breakfast
+- Facebook
+- Instagram
+- Meta
+- Noah Berger
+- Sky News
+- UK Government
+- University of Hertfordshire
+- Work and Pensions
 ---
 
 The Government expects Meta’s new protections for teenagers in the US to also apply to the UK, Work and Pensions Secretary Pat McFadden has said.

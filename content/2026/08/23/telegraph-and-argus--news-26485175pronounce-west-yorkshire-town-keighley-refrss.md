@@ -13,6 +13,25 @@ categories:
 - Bradford
 - News & Politics
 - Self-Improvement
+locations:
+- Amici
+- Bradford
+- England
+- Keighley?** Keighley
+- UK
+- West Yorkshire
+- Worth Valley Railway
+people:
+- Azeem
+- Kaylee
+- Keeley
+- Keighley
+- Keith lee
+- Taylor
+organisations:
+- Cliffe Castle Museum and Park
+- Keighley
+- TikTok
 ---
 
 From tourists to people from the south of England, many people will completely mess up the pronunciation of Yorkshire places they have never been to before.

@@ -12,6 +12,43 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations: []
+people:
+- '** Harington'
+- Alastair Stout
+- Albus Dumbledore
+- Arabella Stanton
+- Dominic McLaughlin
+- Gilderoy Lockhart
+- Harry Potter
+- Hermione Granger
+- Hogwarts'
+- JK Rowling
+- Jon Lithgow
+- Jon Snow
+- Kenneth Branagh
+- Kit Harington
+- Kit Harrington
+- Mark Mylod
+- Nicholas Hoult
+- Nick Frost
+- Ron Weasley
+- Rubeus Hagrid
+organisations:
+- Audible
+- BBC
+- Chamber of Secrets
+- Deadline
+- Game of Thrones
+- HBO Max
+- Harry Potter
+- Hogwarts
+- Kit Harington
+- Philosopher's Stone
+- Rowling
+- The Chamber of Secrets
+- The Industry
+- Warner Bros Harry Potter
 ---
 
 ![Kit Harrington appears on the red carpet for a premier](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/10a5/live/bee5d940-9ffe-11f1-8a82-5d6af15250d2.jpg)

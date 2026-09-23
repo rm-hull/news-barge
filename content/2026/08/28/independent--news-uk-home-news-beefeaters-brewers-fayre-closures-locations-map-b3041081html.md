@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Britain
+- Ireland
+- UK
+people:
+- Andy Burnham
+- Dominic Paul
+- Mike Ashley
+organisations:
+- Bar
+- Beefeater
+- Brewers Fayre
+- Cookhouse
+- Frasers
+- Premier Inn
+- Pub
+- Sports Direct
+- Table Table
+- Whitbread
 ---
 
 Beefeater and Brewers Fayre restaurants are about to disappear from the UK, bringing job losses and uncertainty to thousands of people.

@@ -13,6 +13,10 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- West Bank
+people: []
+organisations: []
 ---
 
 Photos of Palestinian potters preserving a 400-year West Bank tradition

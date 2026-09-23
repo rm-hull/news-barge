@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Derby
+- England
+- Noosa
+- Pakistan
+- South Africa
+- Wellington
+people:
+- Ben Stokes
+- Brendon McCullum
+- Brydon Carse
+- Harry Brook
+- Joe Root
+- Matthew Potts
+organisations:
+- BBC Sport
+- Durham
+- ECB
+- England and Wales Cricket Board
+- New Zealand
+- Sky Sports
+- Stokes'
 ---
 
 ![Brydon Carse](https://ichef.bbci.co.uk/ace/standard/919/cpsprodpb/1bc5/live/da4425d0-9f08-11f1-8ab2-7700e58d1417.jpg)

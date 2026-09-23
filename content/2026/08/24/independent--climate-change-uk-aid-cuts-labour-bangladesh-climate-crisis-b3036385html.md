@@ -12,6 +12,44 @@ image: https://static.independent.co.uk/2026/08/20/14/2271987797..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Africa
+- Asia
+- Bangladesh
+- Bay of Bengal
+- Brahmaputra
+- Cyclone Aila
+- Ganges Delta
+- Kalabogi
+- Latin America
+- Meghna
+- Sundarbans
+- UK
+people:
+- Andy Burnham
+- Bashonti Mondal
+- Bina Mondal
+- Ed Miliband
+- Rahma
+- Romily Greenhill
+- Sarah Champion
+- Tamanna Rahman
+organisations:
+- Bond
+- Commonwealth and Development Office
+- FCDO
+- Foreign Secretary
+- GNI
+- International Development Committee
+- Labour
+- NGO Mercy Corps
+- ODA
+- Practical Action
+- Practical Action Bangladesh
+- Rahma
+- Sundarbans
+- The Independent
+- UNESCO World Heritage Site – Practical Action
 ---
 
 A UK-funded climate project in Bangladesh is being forced to close two years early after foreign aid cuts, leaving thousands of vulnerable people without support and threatening to undo work that has already been carried out, *The Independent* has learnt.

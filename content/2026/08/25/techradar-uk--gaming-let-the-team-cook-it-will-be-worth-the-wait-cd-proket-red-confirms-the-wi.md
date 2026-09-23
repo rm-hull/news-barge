@@ -11,6 +11,24 @@ description: CD Projekt Red has confirmed that The Witcher 4 is officially targe
 image: https://cdn.mos.cms.futurecdn.net/oPUwdJ3LGi2hRghutXLTfV-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Gamescom
+people:
+- Ciri
+- Michal Nowakowski
+- Michał Nowakowski
+organisations:
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Gamescom
+- Google News
+- NME
+- PS5
+- Projekt Red
+- Sony
+- TechRadar
+- The Witcher
 ---
 
 ![The Witcher 4](https://cdn.mos.cms.futurecdn.net/oPUwdJ3LGi2hRghutXLTfV.jpg) 

@@ -10,6 +10,16 @@ description: AI is making forecasts faster
 image: https://cdn.mos.cms.futurecdn.net/Y9gz3ntBvZYTntd8XpFxfL-2560-80.jpg
 categories:
 - Technology & Software
+locations: []
+people: []
+organisations:
+- AI
+- ECMWF
+- Future plc
+- Rainbow.ai
+- TechRadar Pro
+- TechRadarPro
+- World Meteorological Organization
 ---
 
 ![A blue digital cloud containing lots of symbols on a dark blue background](https://cdn.mos.cms.futurecdn.net/Y9gz3ntBvZYTntd8XpFxfL.jpg) 

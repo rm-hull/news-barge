@@ -12,6 +12,41 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Canada
+- Cincinnati
+- French Tennis Federation
+- Germany
+- Madrid
+- Miami
+- New York
+- New Zealand
+- Spain
+- Toronto
+- United States
+- Washington
+people:
+- Emiliana Arango
+- Kamilla Rakhimova
+- Karl Hale
+- Karolina Muchova
+- Katie Boulter
+- Martina Navratilova
+- Olga Danilovic
+- Peyton Stearns
+- Serena
+- Sofia Kenin
+- Venus Williams
+organisations:
+- ATP
+- BBC Sport
+- IMG
+- Tennis Australia
+- USTA
+- United States Tennis Association
+- Venus Williams
+- WTA
 ---
 
 ![Venus Williams waves to the crowd at the Cincinnati Open](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2bae/live/2fd008c0-a1ed-11f1-b109-879e35c24276.jpg)

@@ -12,6 +12,29 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Finland
+- San Francisco
+- U.S.
+people:
+- Oura
+- Whoop
+organisations:
+- Atreides
+- Bloomberg
+- Coatue
+- Dexcom
+- Fidelity
+- Forerunner Ventures
+- ICONIQ
+- IPO
+- Oura
+- Samsung
+- TechCrunch
+- Temasek
+- The Chernin Group
+- Whale Rock
+- Whoop
 ---
 
 Oura, the smart ring maker, with offices in San Francisco and Finland, is reportedly planning to raise up to $3 billion as soon as next month in a U.S. IPO that values the more than 900-person company at [spits out coffee] north of $16 billion, according to Bloomberg. The outlet adds that investors are expected to sell a major chunk of stock in the offering.

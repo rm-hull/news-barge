@@ -12,6 +12,12 @@ categories:
 - Local
 - Harrogate
 - Society & Culture
+locations:
+- Harrogate
+- One Arch
+people: []
+organisations:
+- Harrogate BID
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8d367e176cdc333fa.jpg) 

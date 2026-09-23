@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Bern
+- Coral Gables
+- Florida
+- Manhattan
+- Miami
+- Monaco
+- New York
+- North America
+- Switzerland
+- Zurich
+people:
+- Gianni Infantino
+- Joshua Kushner
+- Michel Platini
+- Nasser al-Khelaïfi
+- Paris Saint-Germain
+- Sepp Blatter
+organisations:
+- Article 158
+- FIFA
+- Infantino
+- Swiss Criminal Code
+- The Associated Press
+- Thrive Capital Management
+- UEFA
 ---
 
 UEFA is preparing a criminal complaint against FIFA President Gianni Infantino in Swiss courts for possible financial mismanagement over his failed plan to sell future World Cup profits to private investors.

@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- London
+people:
+- Al Fayed
+- Mohamed Al Fayed
+organisations:
+- Al Fayed
+- CPS
+- Crown Prosecution Service
+- Harrods
+- Met Police
+- Metropolitan Police
+- No One Above
 ---
 
 Detectives from the Metropolitan Police investigating sexual assault allegations against the late Harrods owner Mohamed Al Fayed have submitted a file of evidence concerning one suspect to prosecutors.

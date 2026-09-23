@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/VX6FoHeTsueFCVN6BdgJA3-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Africa
+- Latin America
+- Southeast Asia
+- UK
+people:
+- Marijus Briedis
+- Silvia Iacovcich
+organisations:
+- Briedis
+- Emirates
+- Google News
+- NordVPN
+- Qatar Airways
+- Ryanair
+- Silvia Iacovcich
 ---
 
 ![Person using a phone, holding their credit card and looking puzzled over whether something might be a scam](https://cdn.mos.cms.futurecdn.net/VX6FoHeTsueFCVN6BdgJA3.jpg) 

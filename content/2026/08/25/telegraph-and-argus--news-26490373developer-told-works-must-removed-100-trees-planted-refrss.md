@@ -15,6 +15,24 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 - Personal Finance & Investing
+locations:
+- Bradford
+- Green Belt
+- Jacob’s Wood
+- Silsden
+- YOUR
+people:
+- '## Builder'
+- Carter Jonas
+- Henderson
+- Hockings
+- Paul Hocking
+organisations:
+- '## Appellants'
+- AZARA GIDA SAN.VE TIC.LTD.ŞTİ
+- Bradford Council
+- Inquiry
+- Public Notice Portal
 ---
 
 *(Image: T&A)*

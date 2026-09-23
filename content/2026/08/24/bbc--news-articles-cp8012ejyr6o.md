@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- All Points East
+- BBC
+- Europe
+- Illinois
+- Liverpool
+- London
+- North America
+- UK
+- US
+people:
+- Danil Boparai
+- Dazed
+- EsDeeKid
+- Fans Bin
+- Gen Z
+- Isaac
+- James
+- Timothée Chalamet
+- Zari
+organisations:
+- All Points East
+- BBC Newsbeat
+- Central Cee
+- Dazed
+- EsDeeKid
+- Spotify
+- Timothée Chalamet
 ---
 
 ![EsDeeKid performs in front of a blow-up castle during a set in Illinois.  He is seen looking at the crowds while holding a microphone and wearing a black mask with holes and a hoodie.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/8343/live/15545740-9fb2-11f1-bff6-57f1422ebb0b.jpg)

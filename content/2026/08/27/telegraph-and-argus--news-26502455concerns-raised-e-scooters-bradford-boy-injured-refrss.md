@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Barkerend Road
+- Bradford
+- Hendford Drive
+people:
+- Anna Dixon
+organisations:
+- Bradford Council
+- LiveChat
+- Public Space Protection Orders
+- Roads Policing Unit
+- Shipley
+- Yorkshire Ambulance Service
 ---
 
 *(Image: YappApp)*

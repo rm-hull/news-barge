@@ -14,6 +14,39 @@ categories:
 - News & Politics
 - History
 - Music
+locations:
+- America
+- Britain
+people:
+- Aunt Dolly
+- Aunt Granny
+- Benjamin Lee
+- Bryan Seaver
+- Carl
+- Colman Domingo
+- Dionne Warwick
+- Dolly Parton
+- DollyParton
+- Emily Eavis
+- God
+- Jamie Lee Curtis
+- Jesus
+- John McCain
+- Kelly Clarkson
+- Kristen Chenoweth
+- Larry
+- Meghan McCain
+- Owen Myers
+- Paris Hilton
+- Patricia Heaton
+organisations:
+- CNN
+- Gigi
+- Glastonbury
+- Imagination Library
+- PA Media
+- Parton’s Imagination Library
+- The Guardian
 ---
 
 Dolly Parton has died aged 80, her family announces

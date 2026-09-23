@@ -13,6 +13,26 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Byland
+- Oldstead
+people:
+- Burnham
+- Emma McClarkin
+- James Martin
+- James Murray
+- Jerry Schurder
+- Tom Kerridge
+- Tommy Banks
+organisations:
+- Abbey Inn
+- Black Swan
+- British Beer and Pub Association
+- Budget
+- Government
+- Newmark UK
+- The Yorkshire Post
+- Treasury
 ---
 
 # Business rates review to help pubs and hotels, Treasury says

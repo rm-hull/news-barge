@@ -12,6 +12,18 @@ categories:
 - York
 - Health & Fitness
 - Food & Cooking
+locations:
+- Market Cross Selby
+- Selby’s Market Cross
+people:
+- James Shepherd
+organisations:
+- Dransfield Properties
+- Grape Tree
+- Grape Tree to Market Cross
+- Market Cross
+- Pic
+- Websters Family Butchers
 ---
 
 ## New health food shop opens at major shopping centre

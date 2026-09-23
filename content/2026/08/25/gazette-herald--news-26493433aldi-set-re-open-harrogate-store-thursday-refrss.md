@@ -12,6 +12,19 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Fulford Road
+- Harrogate
+- North Yorkshire
+- Oak Beck Road
+- UK
+people:
+- Aldi
+organisations:
+- ALDI
+- Aldi
+- Pic
+- The Press
 ---
 
 *(Image: Pic supplied)*

@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - Travel
 - Automotive
+locations:
+- Harrogate
+- Kex Gill
+- M
+- M6
+- North Yorkshire
+- North of England
+- Skipton
+people:
+- Malcolm Taylor
+organisations:
+- A1
+- A59
+- North Yorkshire Council
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8d5043273a7e8ccb1.jpg) 

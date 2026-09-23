@@ -10,6 +10,16 @@ description: Sandisk launches NAS-focused SSDs with 7.68TB capacity, PCIe 5.0 sp
 image: https://cdn.mos.cms.futurecdn.net/nUj4Dqp4raQYra3jw9e5FK-1920-80.png
 categories:
 - Technology & Software
+locations: []
+people:
+- Anil Moolchandani
+organisations:
+- '## Sandisk'
+- Efosa
+- Google News
+- NAS
+- TLC 3D NAND
+- TechRadar Pro
 ---
 
 ![Sandisk NAS 600 and 800](https://cdn.mos.cms.futurecdn.net/nUj4Dqp4raQYra3jw9e5FK.png) 

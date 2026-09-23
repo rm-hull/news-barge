@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- North Bay
+- North Marine Road
+- North Yorkshire
+- Scarborough
+people:
+- Thomas Atkinson
+organisations:
+- Durham Hotel
+- Google Maps
+- Highway Authority
+- North Yorkshire Council
 ---
 
 ## Former pub in North Yorkshire resort to be turned into residential flats

@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- California
+- London
+- New York
+- US
+people:
+- '** Lively'
+- Blake Lively
+- Bryan Freedman
+- Emily
+- Justin Baldoni
+- Lewis Liman
+organisations:
+- Baldoni
 ---
 
 ![Blake Lively in a white suit and earrings posing in front of the London  skyline on 8 August 2024](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/442a/live/05023130-c21b-11ef-a2ca-e99d0c9a24e3.jpg)

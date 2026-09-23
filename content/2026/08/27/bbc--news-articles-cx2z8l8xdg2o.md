@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Belarus
+- Estonia
+- Iran
+- Kaliningrad
+- Kremlin
+- Kyiv
+- Latvia
+- Leipzig
+- Lithuania
+- Moscow
+- Poland
+- Russia
+- Soviet Union
+- Tsar Cannon
+- UK
+- US
+- USA
+- Ukraine
+- West
+people:
+- Donald Trump
+- John Ratcliffe
+- Moscow.** Ratcliffe
+- Sergei Naryshkin
+- Vladimir Putin
+- William Burns
+organisations:
+- CIA
+- Nato
+- Politico
+- Ratcliffe
+- US National Security Agency
 ---
 
 ![A suited John Ratcliffe is wearing a petrol blue suit and mauve tie with a USA flag on his left lapel. The pic is a head and shoulders shot with a microphone visible in front of him as if he is appearing at a hearing.](https://ichef.bbci.co.uk/ace/standard/973/cpsprodpb/0631/live/56aa0930-a230-11f1-80a2-67c89a95284e.jpg)

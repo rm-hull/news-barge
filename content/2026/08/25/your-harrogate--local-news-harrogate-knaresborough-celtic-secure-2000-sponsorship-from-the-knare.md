@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations: []
+people:
+- Jenny Goody
+- Ramsay Beattie
+- Ryanna Coleman
+organisations:
+- Knaresborough Celtic
+- Knaresborough Celtic Grassroots FC
+- Knaresborough Inn
+- Open Age
+- The Knaresborough Inn
+- Under-7s
+- Your Harrogate
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8d6ec6a843b96d13b.jpg) 

@@ -15,6 +15,34 @@ categories:
 - Harrogate
 - Music
 - Arts & Culture
+locations:
+- Harrogate
+- Ripon Cathedral
+people:
+- Borodin
+- Derek Jacobi
+- Geraldine McEwan
+- Janusz Piotrowicz
+- Johan Lofving
+- Simon Armitage
+- Susan Goldsbrough
+- Tchaikovsky
+- Verdi
+- Yu-Wei Hu
+organisations:
+- Carlton Main Frickley Band
+- Intesa Duo
+- Juliet Fantasy Overture
+- Kosmos Ensemble
+- La forza del destino
+- Markenfield Hall
+- Orchestra of Opera North
+- Piotrowicz
+- Ripon International Festival
+- Romeo
+- Royal Hall
+- Royal Northern Sinfonia
+- The Carnival Band
 ---
 
 # 'Rich and diverse line-up' for highly-regarded arts festival in Ripon which presents cream of classical music

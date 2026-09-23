@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- China
+- Himalayas
+- Nepal
+- Tibet
+people:
+- Abi Narayan Kafle
+organisations:
+- The Associated Press
+- U.S. Geological Survey
 ---
 
 Rescuers worked through mud and debris Friday in areas devastated by a flash flood along the Himalayan border between Nepal and China.

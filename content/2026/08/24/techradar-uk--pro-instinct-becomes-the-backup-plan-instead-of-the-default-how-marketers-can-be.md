@@ -13,6 +13,22 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people:
+- Owain Williams
+- Tara Robertson
+organisations:
+- AI Overviews
+- BA
+- Bitly AI
+- Bitly I
+- CRM
+- Digital Doughnut
+- MarketingProfs
+- NealSchaffer.com
+- Owain Williams
+- TechRadar Pro
+- Website Builder Expert
 ---
 
 ![Headshot of Tara Robertson, Bitly’s Chief Marketing Officer on a purple background](https://cdn.mos.cms.futurecdn.net/LjxsVU9NWyXk8CLpYGBwn5.png) 

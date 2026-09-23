@@ -12,6 +12,41 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Berkeley
+- California
+- El Dorado County
+- Russia
+- Sacramento
+- San Francisco
+- San Francisco Bay Area
+- U.S.
+- Vietnam
+people:
+- Anka Veder
+- Ann
+- Brad Mangin
+- Dan White
+- Eric Risberg
+- George Moscone
+- Harvey Milk
+- Ivan
+- John
+- Loretta
+- Patty Hearst
+- Randy Herschaft
+- Robert L. Stirm
+- Ronald Reagan
+- Slava J. Veder
+- Slava ‘Sal’ Veder
+- ___ Har
+organisations:
+- AP
+- Associated Press
+- The Associated Press
+- The Guardian
+- Travis Air Force Base
+- U.S. Air Force
 ---
 
 Pulitzer Prize winning photographer Slava ‘Sal’ Veder, best known for his picture of a U.S. Air Force lieutenant colonel joyfully reuniting with his family after five years in a prisoner of war camp in Vietnam, died Aug. 22. He was 99.

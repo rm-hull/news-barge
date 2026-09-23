@@ -11,6 +11,39 @@ image: https://i.guim.co.uk/img/media/9c27978883c3099f3b215f8e74787e2ead13ad64/0
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Gaza
+- Gulf
+- Illinois
+- Iran
+- Louisiana
+- Maryland
+- Michigan
+- US House
+- Ukraine
+- United States
+- White House
+people:
+- Adam Kinzinger
+- Barack Obama
+- Chris van Hollen
+- Donald Trump
+- Gretchen Whitmer
+- Hakeem Jeffries
+- Jamie Raskin
+- Jared Kushner
+- Mike Johnson
+- Tommy Vietor
+organisations:
+- Capitol
+- Congress
+- Fox News
+- House
+- Meet the Press
+- NBC
+- New York Times
+- Pod Save America
 ---
 
 Democrats and other Donald Trump critics reacted incredulously to a New York Times report on Sunday that House Democratic leader Hakeem Jeffries met with Jared Kushner, the president’s influential son-in-law, to discuss possible areas of collaboration.

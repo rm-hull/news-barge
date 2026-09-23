@@ -11,6 +11,38 @@ image: https://cdn.mos.cms.futurecdn.net/LYxDZUUVovCfGhKbuSY9Gb-1327-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- CA
+- NYC
+- Queens
+- UK
+- US
+- USA
+people:
+- Amita Rao
+- Anton (Owen Thiele
+- Anton Evans Zosia Mamet Gaten Matarazzo Raven-Symoné Susie Essman Jake Shane Ben
+  Marshall Isaac Powell
+- Billie Schaeffer Jack Innanen
+- Friends
+- Gen Zers Samir
+- Issa Damani Owen Thiele
+- Jack Innanen
+- Lucy Freyer
+- Malik Elassal
+- Paul Baker
+- Paul Baker Amita Rao
+- Samir Rahman Lucy Freyer
+- Tom Wardley
+organisations:
+- Disney
+- FXX
+- Film Studies
+- Future Publishing
+- Hulu
+- TechRadar
+- University of South Wales
+- UnlocksHulu
 ---
 
 ![adults-season2](https://cdn.mos.cms.futurecdn.net/LYxDZUUVovCfGhKbuSY9Gb.jpg) 

@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Caldryne Business Park
+- Gatwick Airport
+- Rowfant
+people:
+- Ashley Riley
+- Joe Giddens
+organisations:
+- GoFundMe
+- Sussex Police
+- The Bears Banger Racing Team
+- West Sussex Fire and Rescue Service
 ---
 
 A suspected arson attack took place at an industrial estate used for parking by holidaymakers flying from Gatwick Airport, raising fears several customers may have been impacted.

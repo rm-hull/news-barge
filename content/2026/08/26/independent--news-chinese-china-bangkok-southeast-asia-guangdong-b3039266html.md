@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Australia
+- Bangkok
+- Beijing
+- China
+- D.C
+- Fujian
+- Guangdong
+- Malaysia
+- Shantou
+- Singapore
+- Southeast Asia
+- Sydney
+- Teochew
+- Thailand
+- U.S.
+- Washington
+people:
+- Belinda He
+- Dear You
+- Deng Musheng
+- Fu Ting
+- Lan Hongchun
+- Sathien Tuntipaiboontana
+- Thitikorn Phanprayoon
+- Zhang Jiangwei
+organisations:
+- People's Daily
+- University of Illinois Urbana-Champaign
+- ___ AP
 ---
 
 The buzziest film in China this year was shot almost entirely in a southern Chinese dialect that most Chinese viewers need subtitles to understand.

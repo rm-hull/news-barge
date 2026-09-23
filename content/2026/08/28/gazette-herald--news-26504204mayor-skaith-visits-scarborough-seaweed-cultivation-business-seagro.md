@@ -13,6 +13,33 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Burniston
+- Flatts Farm
+- North Sea
+- North Yorkshire
+- North Yorkshire England
+- Scarborough Harbour
+- SeaGrown
+- York
+people:
+- Captain Crookes
+- David Skaith
+- Laura Robinson
+- SeaGrown
+- Wave Crookes
+organisations:
+- Carbon Negative Challenge Fund
+- Combined Authority
+- Flatts Farm
+- North Yorkshire Combined Authority
+- Project SeaSwell
+- RNLI
+- Royal Navy
+- Scarbough
+- SeaGrown
+- YNYCA
+- York
 ---
 
 THE mayor of York and North Yorkshire has backed an innovative seaweed cultivation business as the county aims to become England’s first carbon-negative region.

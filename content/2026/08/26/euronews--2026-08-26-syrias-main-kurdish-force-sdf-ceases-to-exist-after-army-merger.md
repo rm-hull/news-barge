@@ -13,6 +13,35 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Aleppo
+- Damascus
+- Euphrates
+- France
+- Imrali Island
+- Syria
+- Turkey
+- UK
+- US
+- Washington
+people:
+- Abdullah Öcalan
+- Ahmad al-Sharaa
+- Bashar al-Assad
+- Mazloum Abdi
+- Nowruz
+organisations:
+- Defence Ministry
+- EU
+- IS
+- Islamic State
+- Kurdistan Workers' Party
+- PKK
+- People's Protection Units
+- SDF
+- Syrian Democratic Forces
+- YPG
+- al-Sharaa
 ---
 
 ## Commander Mazloum Abdi announced the SDF's dissolution at the presidential palace in Damascus, ending the existence of the Kurdish-led force that served as Washington's main partner against the so-called Islamic State terrorist group.

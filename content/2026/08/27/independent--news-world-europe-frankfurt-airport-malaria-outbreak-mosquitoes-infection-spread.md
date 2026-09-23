@@ -10,6 +10,25 @@ image: https://static.independent.co.uk/2026/04/14/15/2270687922.jpg?width=1200&
 categories:
 - News & Politics
 - UK
+locations:
+- Antwerp
+- Europe
+- Germany
+people:
+- Peter Tinnemann
+organisations:
+- DPA
+- Dutch National Institute for Public Health and the Environment
+- Frankfurt Airport
+- Frankfurt Health Department
+- Frankfurt Public Health Department
+- Fraport
+- Institute of Tropical Medicine
+- RIVM
+- RKI
+- Robert Koch Institute
+- WHO
+- World Health Organisation
 ---
 
 Two employees at Frankfurt Airport have died after contracting malaria, according to airport operator Fraport and local public health authorities.

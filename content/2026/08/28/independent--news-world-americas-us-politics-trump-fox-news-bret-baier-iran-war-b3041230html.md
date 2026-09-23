@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Gulf State
+- Islamic Republic of Iran
+- Qatar
+- Tehran
+- U.S.
+- Washington
+people:
+- Bessent
+- Bret Baier
+- DJT
+- Don Bacon
+- Donald Trump
+- Jared Kushner
+- Jonathan Hunt
+organisations:
+- Fox News
+- FoxNews
+- G-20
+- Oval Office
+- Treasury
+- Truth Social
+- Wall Street Journal
 ---
 
 Fox News host Bret Baier pushed back on air after President Donald Trump complained about one of his colleagues' coverage of the Iran war.

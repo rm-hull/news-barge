@@ -11,6 +11,34 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- California
+- Moscow
+- Russia
+- UK
+- US
+- Washington
+people:
+- Adam Fleming
+- Caitriona Perry
+- Chris Flynn
+- Daniela Relph
+- Eleanor Harrison-Dengate
+- Harry
+- Jem Westgate
+- John Ratcliffe
+- Jonny Baker
+- Meghan
+- Miranda Slade
+- Sam Bonham
+- Shiler Mahmoudi
+- Steve Rosenberg
+organisations:
+- BBC Sounds
+- CIA
+- News and Current Affairs
+- Newscast
+- WhatsApp
 ---
 
 ## Episode details

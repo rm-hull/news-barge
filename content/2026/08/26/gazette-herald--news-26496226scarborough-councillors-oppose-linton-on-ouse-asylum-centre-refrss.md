@@ -13,6 +13,28 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Linton-on-Ouse
+- North Yorkshire
+- Scarborough
+- UK
+- York
+people:
+- Chris Clark
+- Cllr Sarah Mason
+- Janet Jefferson
+- Rich Maw
+- William Stuart
+organisations:
+- Google
+- HMO
+- Home Office
+- Labour
+- NYC
+- North Yorkshire Council
+- RAF Linton-on-Ouse
+- Scarborough Town Council
+- United Nations
 ---
 
 PLANS to house asylum seekers at a former North Yorkshire military base have been formally opposed by a town council 50 miles away from the site.

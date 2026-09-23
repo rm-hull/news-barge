@@ -12,6 +12,96 @@ image: https://i.guim.co.uk/img/media/9422412f1508e4062fb95e1a57f5e519e751f6b7/3
 categories:
 - UK
 - News & Politics
+locations:
+- Alabama
+- America
+- CANADA
+- California
+- Canada
+- China
+- Iran
+- Japan
+- Kentucky
+- Korea
+- Los Angeles
+- Louisiana
+- Maine
+- Michigan
+- North Carolina
+- Ohio
+- Ontario
+- Oregon
+- Ottowa
+- Quebec
+- Russia
+- Texas
+- Toronto
+- U.S.A
+- U.S.A.
+- US
+- United Kingdom
+- United States
+- Washington
+people:
+- Dan Rayfield
+- Derrick Johnson
+- Donald Trump
+- Doug Ford
+- Gavin Newsom
+- JD Vance
+- Jamieson Greer
+- Justice Jackson
+- Ketanji Brown Jackson
+- Mark Carney
+- Mike Cassese
+- Norm Eisen
+- Purcell
+- Rick Hasen
+- Rob Ford
+- Ronald Reagan
+- Scott Bessent
+- Steve Vladeck
+- Tina Kotek
+- Tobias Read
+- Tommy Pigott
+organisations:
+- AGAIN
+- AP
+- Associated Press
+- CNBC
+- DHS
+- Democracy Defenders Action
+- Department of Homeland Security
+- District of Columbia
+- Election Law Blog
+- European Union
+- FDNS
+- Federal Government
+- Ford
+- Fraud Detection and National Security Directorate
+- Georgetown University
+- Guardian
+- NAACP
+- Nations in the World
+- Obama White House
+- Our Constitution
+- Purcell
+- Reuters
+- Reuters/Ipsos
+- Roberts Court
+- States’
+- The Trump
+- Trump International Hotel & Tower
+- Trump International Hotel and Tower
+- Truth Social
+- U.S. Postal Service
+- US Citizenship and Immigration Services
+- US Postal Service
+- USCIS
+- USPS
+- United States Postal Service
+- University of California
+- Washington DC
 ---
 
 California plans to sue again to stop Trump from restricting mail voting and could make blocking delivery a felony

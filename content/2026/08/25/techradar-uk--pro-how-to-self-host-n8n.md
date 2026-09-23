@@ -10,6 +10,32 @@ image: https://cdn.mos.cms.futurecdn.net/NuuAdt9MomVTTvn9K6vxzB-1376-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Europe
+- India
+- Linux
+- London
+- West Bengal
+people:
+- Ritoban Mukherjee
+organisations:
+- AI
+- Azure Key Vault
+- CentOS Stream
+- Creative Bloq
+- Docker Compose
+- Fedora
+- Gizmodo
+- Google Cloud Secret Manager
+- IT Pro
+- Install Docker
+- Quartz
+- RAM
+- RHEL
+- Raspberry Pi OS
+- Ritoban Mukherjee
+- TechRadar Pro
+- Tom's Guide
 ---
 
 ![n8n workflow](https://cdn.mos.cms.futurecdn.net/NuuAdt9MomVTTvn9K6vxzB.jpg) 

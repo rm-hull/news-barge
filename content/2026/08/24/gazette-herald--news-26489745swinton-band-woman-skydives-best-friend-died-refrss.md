@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Science
+locations:
+- Dubai
+- National Youth Band of Great Britain
+- Norton
+- Victoria
+people:
+- David
+- Janella Calvert
+- John
+- Vicki
+- Victoria
+- Victoria-Smith Collins
+organisations:
+- Against Breast Cancer
+- London Marathon
+- Royal Albert Hall
+- Swinton Band
 ---
 
 A WOMAN is doing a skydive next week in memory of a friend who died following a 'long and courageous' fight with cancer.

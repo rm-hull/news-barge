@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Joint Base Anacostia-Bolling
+- Joint Base Andrews
+- Maryland
+- White House
+people:
+- Donald Trump
+- Reagan
+organisations:
+- ATC.com
+- Air Force One
+- Andrews Air Force Base
+- Army Black Hawk
+- Envoy Air
+- FAA
+- Federal Aviation Administration
+- Marine One
+- NTSB
+- National Transportation Safety Board
+- Pentagon
+- Ronald Reagan Washington National Airport
 ---
 
 Air traffic controllers and the pilots of President Donald Trump’s helicopter met to discuss communication problems one week before a passenger jet took off just as Marine One departed the White House, federal investigators said Thursday.

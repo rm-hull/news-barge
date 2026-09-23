@@ -13,6 +13,13 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Cleveland
+- Middlesbrough
+people:
+- Sarah Caldecott
+organisations:
+- Middlesbrough
 ---
 
 *(Image: Sarah Caldecott)*

@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Batley
+- YOUR
+people:
+- Abdullah Ibn Usman
+- Ahmed Lo
+- Danny Diez
+organisations:
+- A Dadipatel
+- Dadipatel Food Store
+- Google
+- Kirklees Council
+- Public Notice Portal
 ---
 
 *(Image: Lyra Auld)*

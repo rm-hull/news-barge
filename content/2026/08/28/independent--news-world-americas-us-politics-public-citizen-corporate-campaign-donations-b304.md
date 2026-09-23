@@ -13,6 +13,54 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- America
+- California
+- U.S.
+people:
+- Cameron
+- Charles Koch
+- Donald Trump
+- Elon Musk
+- Ralph Nader
+- Rick Claypool
+- Sergey Brin
+- Tom Garrett
+- Tyler Winklevoss
+- Vivek Ramaswamy
+organisations:
+- AI
+- America First Agriculture Action Inc.
+- Americans for Prosperity Action
+- Anthropic
+- Camel
+- Citizens United
+- Congress
+- Crypto
+- Curaleaf
+- Department of Government Efficiency
+- DraftKings
+- Elon Musk
+- FEC
+- Federal Election Commission
+- Gemini Trust Co.
+- Google
+- House
+- Institute for Free Speech
+- Koch Inc.
+- MAGA Inc
+- MAGA Inc.
+- Meta
+- Newport
+- OpenAI
+- PAC
+- PACs
+- Polymarket
+- Public Citizen
+- Public First Action
+- Reynolds American
+- Supreme Court
+- Trulieve
 ---
 
 Corporate America has poured a record $646 million into U.S. political campaigns ahead of the midterms, already eclipsing spending during the entire 2024 presidential election cycle by 40 percent, according to a new analysis.

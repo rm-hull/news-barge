@@ -12,6 +12,42 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Alabama
+- Arkansas
+- Austin
+- Beavercreek
+- Benton
+- Florida
+- Georgia
+- Kentucky
+- Lake Jackson
+- Loxley
+- Luling
+- Missouri
+- Ohio
+- South Carolina
+- Tennessee
+- Texas
+- U.S.
+- White House
+people:
+- Beaver
+- Beaver” Aplin III
+- Buc-ee
+- Donald Trump
+- John Oliver
+- Mike DeWine
+- Sarah Huckabee Sanders
+organisations:
+- Arch
+- Beaver
+- Beavercreek City Council
+- Beaver’s Mini Mart
+- Buc-ee’s
+- Mini Mart
+- Teddy’s Market
+- The Independent
 ---
 
 The CEO of Buc-ee’s says the beloved convenience chain will focus expansion on conservative states as the beaver-themed brand faces scrutiny over its repeated trademark lawsuits.

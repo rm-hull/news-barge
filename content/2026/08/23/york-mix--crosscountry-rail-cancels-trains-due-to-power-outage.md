@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Cambridge
+- Peterborough
+- York
+people: []
+organisations:
+- CrossCountry
+- LNER
+- National Rail
+- Stansted Airport
 ---
 
 CrossCountry, the rail operator that runs trains through York, has cancelled most of its services today (Sunday, 23 August).

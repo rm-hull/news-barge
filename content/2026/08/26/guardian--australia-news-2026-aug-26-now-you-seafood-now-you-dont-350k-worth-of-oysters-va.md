@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- France
+- Manning River
+- NSW
+- New South Wales
+- Oxley Island
+- Scotts Creek
+- Sydney
+people:
+- Gary Rodley
+organisations:
+- CCTV
+- Guardian Australia
+- Latitude 31 Oyster Co
+- NSW
+- Oyster Co
+- Tathra Oysters
 ---
 
 Police are on the hunt for a seafood swindler after 400,000 oysters were allegedly stolen from a farm at a river on the New South Wales mid-north coast.

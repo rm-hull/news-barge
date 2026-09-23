@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Appleton
+- BlueNorthern Maine Coons
+- Erebus
+- Kaukauna
+- Maine Coon
+- Maine Coons
+- Michigan
+- Nett
+- US
+- Wisconsin
+people:
+- Danny New
+- Erebus
+- Hunter Nett
+- Jake
+- Kendra Vandenbloomer
+- Toby
+organisations:
+- ABC
+- Erebus
+- Guinness World Records
+- Journal of Feline Medicine and Surgery
+- Nett
+- Vandenbloomer
+- WFRV
+- World News Now
 ---
 
 A Maine Coon kitten from Wisconsin overcame a perilous bout with pneumonia to break a 24-year-old world record for most toes on a cat, setting the new mark at 29.

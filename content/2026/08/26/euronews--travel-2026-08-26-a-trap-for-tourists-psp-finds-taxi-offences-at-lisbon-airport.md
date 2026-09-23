@@ -14,6 +14,25 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Humberto Delgado Airport
+- LA
+- Largo do Rato
+- Lisbon Airport
+- Portugal
+people:
+- Josien Nation
+- Zeynep Tinaz Redmont
+organisations:
+- ANTRAL
+- CMT
+- Facebook
+- Josien Nation
+- Lisbon Metropolitan Command
+- National Association of Road Transport in Light Vehicles
+- PSP
+- Public Security Police
+- Reddit
 ---
 
 ## Fake taximeters, needless detours and inflated fares are among the complaints from passengers using taxis at Lisbon Airport. A PSP operation found 67 offences among roughly one hundred vehicles checked.

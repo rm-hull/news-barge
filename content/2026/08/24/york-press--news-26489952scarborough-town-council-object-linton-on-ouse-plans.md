@@ -13,6 +13,12 @@ categories:
 - York
 - History
 - News & Politics
+locations:
+- North Yorkshire
+people: []
+organisations:
+- Google
+- RAF Linton-on-Ouse
 ---
 
 ## Plan to house asylum seekers at military base opposed by Reform-led council

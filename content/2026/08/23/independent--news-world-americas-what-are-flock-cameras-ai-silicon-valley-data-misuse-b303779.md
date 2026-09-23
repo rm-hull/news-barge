@@ -14,6 +14,42 @@ categories:
 - UK
 - Technology & Software
 - Film & TV
+locations:
+- Arizona
+- Dayton
+- Flagstaff
+- Glocester
+- Ithaca
+- Los Angeles
+- Narragansett
+- New York
+- Ohio
+- Palo Alto
+- Redmond
+- Rhode Island
+- Sedona
+- Silicon Valley
+- Washington
+people:
+- Darth Vader
+- Flock
+- Garrett Langley
+- James Reifschneider
+- Michael Gennaco
+organisations:
+- DeFlock
+- Flock
+- Fox News
+- Glocester’s Town Council
+- NBC Bay Area
+- Narragansett’s Town Council
+- OIR Group
+- Palo Alto
+- Palo Alto City Council
+- San Diego City Council
+- Stateline
+- The Independent
+- Uprise RI
 ---
 
 Amid a growing national backlash against Flock cameras that automatically read license plates, people in Palo Alto, the hometown of leaders of some of Silicon Valley’s most powerful tech companies, are pushing back against the surveillance.

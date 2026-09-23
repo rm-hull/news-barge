@@ -12,6 +12,46 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- England
+- Headingley
+- India
+- Leeds
+- Lord's
+- New Zealand
+- Pakistan
+people:
+- Azan Awais
+- Babar Azam
+- Ben Stokes.
+- Brendon McCullum
+- Brydon Carse
+- Dan Lawrence
+- Emilio Gay
+- Jacob Bethell
+- James Anderson
+- Jamie Smith
+- Joe Root
+- Jofra Archer
+- Jordan Cox
+- Josh Tongue
+- Lord
+- Mark Nicholas
+- Mohammed Siraj
+- Ollie Robinson
+- Rishabh Pant
+- Rob Key
+- Rob Lynch
+- Stephen Fleming
+- Stokes
+- Stokes'
+- Stuart Broad
+- Yorkshireman
+organisations:
+- England
+- Leeds
+- MCC
+- Marylebone Cricket Club
 ---
 
 ![England Test captain Joe Root holding a bat and talking to Rob Key](https://ichef.bbci.co.uk/ace/standard/946/cpsprodpb/8fc0/live/899e9f50-a16c-11f1-aaf8-119f176ff4ce.jpg)

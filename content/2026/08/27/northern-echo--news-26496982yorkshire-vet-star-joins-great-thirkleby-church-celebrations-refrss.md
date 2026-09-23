@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Great Thirkleby
+- North Yorkshire
+people:
+- Alf
+- Gill Walmsley
+- God
+- James Herriot
+- Peter Wright
+organisations:
+- All Saints’ Church
+- Sessay Songbirds
+- The Yorkshire Vet
+- Yorkshire Vet
 ---
 
 *(Image: Supplied)*

@@ -12,6 +12,35 @@ categories:
 - UK
 - Travel
 - History
+locations:
+- Aberdeenshire
+- Antigua
+- Bahamas
+- Balmoral
+- Barbuda
+- Britain
+- Buckingham Palace
+- Canada
+- Caribbean
+- Crathie Kirk
+- Guyana
+- India
+- South Pacific
+- St John’s
+- Tuvalu
+- UK
+- United Kingdom
+- Wales
+people:
+- Camilla
+- Charles
+- Irma
+- King
+- Maria
+organisations:
+- 5th Battalion Royal Regiment of Scotland
+- Balaklava Company
+- Commonwealth Heads of Government
 ---
 
 King Charles is set to tour three Caribbean nations this autumn.

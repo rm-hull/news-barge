@@ -15,6 +15,29 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- India
+- New Delhi
+people:
+- Dario Amodei
+- Narendra Modi
+- Sam Altman
+- Samuel Boivin
+organisations:
+- AI
+- Anthropic
+- DER SPIEGEL
+- Getty Images You
+- IMAGO
+- Jonathan Raa
+- Kylie Cooper
+- Marco Stede / DER SPIEGEL
+- NurPhoto
+- OpenAI
+- REUTERS
+- Redux
+- Substack
+- Thea Traff
 ---
 
 ![Dario Amodei and Sam Altman: Rivals in the race for artificial superintelligence. Dario Amodei and Sam Altman: Rivals in the race for artificial superintelligence.](https://cdn.prod.www.spiegel.de/images/72ed031c-c263-4f92-8b5c-c22358c1c46a_w1024_r1.5_fpx47_fpy69.jpg) 

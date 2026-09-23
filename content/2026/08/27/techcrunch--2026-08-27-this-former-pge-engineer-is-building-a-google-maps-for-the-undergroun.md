@@ -12,6 +12,25 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/civilgrid-platform-proj
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- California
+- U.S.
+- United States
+people:
+- Christine Cowsert
+- Josh Mackanic
+organisations:
+- Afore
+- CivilGrid
+- Energy Impact Partners
+- Ford Street Ventures
+- LPs
+- Mackanic
+- PG&E
+- Pacific Gas and Electric
+- SNR
+- Spark Capital
+- TechCrunch
 ---
 
 Josh Mackanic left a 10-year engineering career at Pacific Gas and Electric because he kept thinking about what the utility company doesn’t know about what’s buried underground.

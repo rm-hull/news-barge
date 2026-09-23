@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- Greater Manchester
+- Westminster
+people:
+- Alex Sobel
+- Andy Burnham
+- Darren Hughes
+- Rushanara Ali
+- Shaun Bowler
+- Stella Creasy
+organisations:
+- Commons
+- Electoral Reform Society
+- GMB
+- Guardian
+- Labour
 ---
 
 Andy Burnham has dropped his support for capping political donations, causing anger among activists and Labour MPs who have long campaigned for change to the way parties are funded.

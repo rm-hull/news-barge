@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/mhKvS6dpjejz6pfpDfKSo9-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Canada
+- US
+people:
+- James
+organisations:
+- 9to5Mac
+- AI
+- Apple Maps
+- Apple One
+- Clarity Media
+- Google Maps
+- Google News
+- Reddit
+- TechRadar
+- iCloud
 ---
 
 ![Apple Maps on an iPhone](https://cdn.mos.cms.futurecdn.net/mhKvS6dpjejz6pfpDfKSo9.jpg) 

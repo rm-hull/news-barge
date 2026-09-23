@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Aibonito
+- Cabo Rojo
+- El Niño
+- Lares
+- Ponce
+- Puerto Rico
+- San Juan
+- Southeast U.S.
+- St. Croix
+- St. John
+- St. Thomas
+- U.S. Virgin Islands
+- Yauco
+people:
+- Fello Pérez
+- Irving Rodríguez
+- Jenniffer González
+- Miguel Romero
+organisations:
+- National Guard
+- RAFI
+- U.S. Department of Agriculture
+- Water and Sewer Authority
 ---
 
 The U.S. government announced a drought disaster on Wednesday for more than two dozen cities and towns in Puerto Rico as water woes deepen across the U.S. territory, with no relief in sight.

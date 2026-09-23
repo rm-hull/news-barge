@@ -12,6 +12,93 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Allianz Arena
+- Allianz Stadium
+- Barassi Way
+- Beachport
+- Boulton Parade
+- Clarendon
+- Deniliquin
+- East Melbourne
+- Germany
+- Glen Iris
+- Hobart
+- Kangaroo Island
+- Leeton
+- Limestone Coast
+- Munich
+- Mustang
+- NSW
+- New South Wales
+- Punt Road
+- Queensland
+- Richmond
+- South Australia
+- Sydney Harbour Bridge
+- Sydney Opera House
+- Tasmania
+- Victoria
+- Water Country
+- Western Australia
+- Western Sydney
+- Whiteman
+people:
+- Ambrose Killian
+- Andrew Hastie
+- Anthony Albanese
+- Ben Carroll
+- Benita Kolovos
+- David Crisafulli
+- David Farley
+- David Speers
+- Elizabeth Gadsby
+- Es Devlin
+- Farrer
+- Ingrid Stitt
+- Ivan Sen
+- Jess Wilson
+- Joel Carrett
+- Julie Collins
+- Kip Williams
+- Lisa Havilah
+- Marg Horwell
+- Melton
+- Mick Tsikas
+- Mustang
+- Newbury
+- Pauline Hanson
+- Peter Malinauskas
+- Sarah Basford Canales David Farley
+- Stephanie Convery
+organisations:
+- AAP
+- ABC’s Insiders
+- AFLW
+- BBC
+- Coalition
+- First Nations
+- Guardian Australia
+- Instagram
+- Labor
+- Liberal
+- Mustang
+- NDIS
+- Nom
+- One Nation
+- Pacific
+- Powerhouse Parramatta
+- Range Rover
+- SA
+- Senate
+- Subaru
+- SunRice
+- Sydney Marathon
+- Sydney Powerhouse Parramatta
+- Sydney Swans
+- TCS Sydney Marathon
+- The Dark
+- The One Nation
 ---
 
 One Nation MP ‘impressed’ with PM after rice factory rescue promise

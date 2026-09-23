@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Self-Improvement
+locations:
+- Liverpool
+- London
+- Trainline
+people:
+- Dish Patel
+- Disha Patel
+- Ella Hewitt
+organisations:
+- Asos
+- BBC
+- Christians Against Poverty
+- Christians Against Poverty and National Debtline
+- Dish Patel
+- Instagram
+- Meta
+- Money and Mental Health
+- The Ukat Group
+- TikTok
+- United Nations Federal Credit Union
+- Vanquis
 ---
 
 ![Ella Hewitt stands in a street](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/3444/live/d1483030-8ff3-11f1-a10e-47119dd4425c.jpg)

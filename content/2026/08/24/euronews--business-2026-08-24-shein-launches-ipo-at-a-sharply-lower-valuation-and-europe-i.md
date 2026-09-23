@@ -16,6 +16,43 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- China
+- Europe
+- France
+- France.
+- Gravelines
+- HK
+- Hong Kong
+- Iran
+- Lisbon
+- London
+- Mouraria
+- New York
+- Paris
+- Shein
+- Singapore
+- United Kingdom
+people:
+- '## Shein'
+- Dan Coatsworth
+- Kevin Keegan
+- Temu
+organisations:
+- AFP
+- AJ Bell
+- BHV Marais
+- EU
+- European Commission
+- European Union
+- Hong Kong Stock Exchange
+- Liverpool
+- Newcastle
+- Shein
+- SpaceX
+- TikTok
+- United States’
+- examiningShein
 ---
 
 ## Shein is seeking a valuation of up to approximately $27 billion (€23.1bn) in its September flotation on the Hong Kong Stock Exchange, far below its reported peak of $100 billion in 2022. Europe is a key market, but new customs rules and regulatory scrutiny threaten its low-cost model.

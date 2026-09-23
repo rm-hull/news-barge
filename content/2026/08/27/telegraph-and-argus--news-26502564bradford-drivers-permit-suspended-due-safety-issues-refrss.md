@@ -14,6 +14,12 @@ categories:
 - News & Politics
 - Technology & Software
 - Automotive
+locations:
+- Bradford
+people: []
+organisations:
+- Toyota
+- West Yorkshire Police
 ---
 
 A private hire driver has had their permit suspended after police found safety issues with the vehicle.

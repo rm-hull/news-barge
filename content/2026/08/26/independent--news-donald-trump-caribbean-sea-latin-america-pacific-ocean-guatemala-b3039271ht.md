@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Caribbean Sea
+- Colombia
+- Ecuador
+- Guatemala
+- Honduras
+- Latin America
+- Pacific Ocean
+- Panama
+- U.S.
+- United States
+people:
+- Donald Trump
+- Pete Hegseth
+organisations:
+- Trump
+- U.S. Southern Command
 ---
 
 The U.S. military attacked a boat suspected of being used to smuggle drugs in the Caribbean Sea on Tuesday, killing four people, as the Trump administration continues its monthslong campaign against alleged traffickers in Latin America.

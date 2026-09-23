@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Druridge Bay
+- Northumberland
+people:
+- Davey Poremba
+- Jax Higginson
+- Justine Gillespie
+- Peter Rushton
+organisations:
+- Northumberland Mind
+- Tyneside
 ---
 
 *(Image: Justine Gillespie)*

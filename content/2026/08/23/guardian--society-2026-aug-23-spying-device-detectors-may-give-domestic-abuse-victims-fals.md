@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- UK
+people:
+- Akhil Polamarasetty
+- Bo Bottomley
+- Leonie Tanczer
+organisations:
+- AliExpress
+- Amazon
+- Home Office
+- Refuge
+- University College London
+- eBay
 ---
 
 Commercial detectors intended to help domestic abuse victims find hidden spying devices may actually give them a false sense of security, a study has found.

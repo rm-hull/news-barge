@@ -14,6 +14,29 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- BRADFORD
+- Bradford
+- West Yorkshire
+people:
+- Andy Burnham
+- Anna Dixon
+- Jen Barclay
+- Ms Dixon
+organisations:
+- '##'
+- Bradford Council
+- Freedom of Information
+- Freedom of Information Act
+- Labour
+- Newsquest
+- PA
+- Reform UK
+- Shipley
+- T&A
+- Telegraph & Argus
+- The Council
+- West Yorkshire Police
 ---
 
 BRADFORD city centre residents have said they are "frightened" of being knocked down by illegal e-bikes - claiming there has been an "escalation" in riding in pedestrian zones.

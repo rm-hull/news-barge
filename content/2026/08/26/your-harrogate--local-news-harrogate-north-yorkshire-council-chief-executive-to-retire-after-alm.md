@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - Personal Finance & Investing
+locations:
+- North Yorkshire
+- North of England
+- Scarborough
+- York
+people:
+- Carl Les
+- Richard Flinton
+organisations:
+- Care Quality Commission
+- North Yorkshire Council
+- North Yorkshire County Council
+- Ofsted
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8ed333e354a825e71.jpg) 

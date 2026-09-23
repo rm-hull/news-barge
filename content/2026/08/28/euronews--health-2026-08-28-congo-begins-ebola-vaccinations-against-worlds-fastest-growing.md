@@ -13,6 +13,31 @@ categories:
 - Europe
 - News & Politics
 - Science
+locations:
+- Bas-Uele
+- Bundibugyo
+- Congo
+- Guinea
+- Haut-Uele
+- Ituri
+- Kisangani
+- Liberia
+- Sierra Leone
+- Tshopo
+- West Africa Ebola
+- West Nile
+people:
+- Placide Mbala Kingebeni
+- Roger Kamba
+organisations:
+- CDC
+- Ervebo
+- Kamba
+- Moderna
+- University of Oxford
+- Vaccine Group
+- WHO
+- World Health Organization
 ---
 
 ## Authorities are deploying a vaccine already proven against a related Ebola strain as trials continue on a new jab designed specifically for Bundibugyo virus.

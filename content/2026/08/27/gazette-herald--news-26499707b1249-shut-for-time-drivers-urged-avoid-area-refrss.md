@@ -13,6 +13,14 @@ categories:
 - York
 - Travel
 - Automotive
+locations:
+- B1249
+- MAIN
+- North Yorkshire
+- Staxton Hill
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 A MAIN road in North Yorkshire is shut following a crash.

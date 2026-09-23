@@ -10,6 +10,35 @@ image: https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resi
 categories:
 - Technology & Software
 - Science
+locations:
+- China
+- Gervet
+- Gritt
+people:
+- Adrian Macneil
+- Alex Kendall
+- Foxglove
+- Harry Mellsop
+- Kevin Peterson
+- Sam Altman
+- Théophile Gervet
+organisations:
+- Antioch
+- Avala
+- Bedrock
+- ChatGPT
+- Cosmos
+- Cruise
+- Foxglove
+- General Motor
+- Genesis AI
+- Nvidia
+- Optimus
+- TechCrunch
+- Tesla
+- Uber
+- Unitree
+- Wayve
 ---
 
 Physical AI is one of the hottest sectors in venture investing, with companies raising billions to apply the tools that gave us Large Language Models to robotics.

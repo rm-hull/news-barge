@@ -13,6 +13,12 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Blaydon
+- North East
+people: []
+organisations:
+- Ofsted
 ---
 
 *(Image: Google Maps)*

@@ -12,6 +12,15 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Commercial Street
+- Marcy Fitness Stadium
+people: []
+organisations:
+- Armed Forces
+- Blue Light Card
+- Flexi Tickets
+- Harrogate Town
 ---
 
 ![](https://mmo.aiircdn.com/409/689ae3e0640a0.jpg) 

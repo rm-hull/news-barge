@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- A690 Commercial Street
+- Commercial Street
+- County Durham
+- Crook
+- Darlington
+- North Durham
+- University Hospital
+- Willington
+people:
+- JULIE COATES
+organisations:
+- Durham Police
+- North East Ambulance Service
 ---
 
 *(Image: JULIE COATES)*

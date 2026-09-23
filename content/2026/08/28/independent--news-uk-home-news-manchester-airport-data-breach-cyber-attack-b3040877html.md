@@ -13,6 +13,22 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- East Midlands Airport
+- London Stansted
+- London Stansted Airport
+- Manchester Airport
+- PA
+- UK
+people:
+- Beverley Griffiths
+- Peter Byrne
+organisations:
+- Bucks New University
+- F-secure
+- MAG
+- Manchester Airport Group
+- Manchester Airports Group
 ---
 
 The personal data of more than eight million people has been accessed after a cyber security breach targeting three major UK airports.

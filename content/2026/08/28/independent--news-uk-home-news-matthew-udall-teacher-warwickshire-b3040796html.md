@@ -10,6 +10,19 @@ image: https://static.independent.co.uk/2026/08/28/07/2194500610..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Warwickshire
+people:
+- David Oatley
+- Matthew Udall
+organisations:
+- Childline
+- High Court
+- NSPCC
+- Napac
+- National Association for People Abused in Childhood
+- TRA
+- Teaching Regulation Agency
 ---
 
 A teacher gave a young pupil a pen containing a hidden camera – and encouraged her to change her clothes before using it.

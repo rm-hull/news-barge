@@ -14,6 +14,9 @@ categories:
 - UK
 - Sports
 - Video Gaming
+locations: []
+people: []
+organisations: []
 ---
 
 Top tennis stars team up for the U.S. Open mixed doubles tournament, in photos

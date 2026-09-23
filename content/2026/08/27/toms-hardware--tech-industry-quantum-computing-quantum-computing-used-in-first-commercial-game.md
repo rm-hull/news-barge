@@ -15,6 +15,22 @@ categories:
 - Hardware
 - Video Gaming
 - Science
+locations: []
+people:
+- Mark Tyson
+- MiTale
+- Quandoom
+- Tom
+organisations:
+- GPU
+- Gamescom
+- Google News
+- IBM Quantum Computing
+- Intel Core
+- MiTale Ltd.
+- NPUs
+- Tom's Hardware
+- Unity
 ---
 
 ![C.L.A.Y. game news from Gamescom](https://cdn.mos.cms.futurecdn.net/CqJ42hzEZ8GuCYZCd3VZjS.jpg) 

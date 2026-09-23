@@ -10,6 +10,29 @@ description: A new way to beat privacy hackers
 image: https://cdn.mos.cms.futurecdn.net/8GYMquuUQihF2WAEm3Ak5J-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Alex Himel
+- Kylie Jenner
+- Lance Ulanoff
+- Meta
+organisations:
+- Apple
+- BBC
+- CNBC
+- CNN
+- Good Morning America
+- Google News
+- Kelly and Mark
+- LED
+- Lance
+- Lifewire
+- Mashable
+- Medium
+- Meta Essilor Luxottica
+- Samsung
+- Today Show
+- Ziff Davis, Inc
 ---
 
 ![Meta Essilor Luxottica AI Glasses](https://cdn.mos.cms.futurecdn.net/8GYMquuUQihF2WAEm3Ak5J.jpg) 

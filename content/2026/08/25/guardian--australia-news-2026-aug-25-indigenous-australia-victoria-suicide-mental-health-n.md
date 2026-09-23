@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Society & Culture
 - Health & Fitness
+locations:
+- Victoria
+people:
+- Emma Kealy
+- Gellung Warl
+- Gunditjmara
+- Ingrid Stitt
+- Jill Gallagher
+- Nikki Foy
+organisations:
+- Coalition
+- First Nations
+- First Nations Victorians
+- Proud First Nations
+- Torres Strait Islander
+- VACCHO
+- Victorian Aboriginal Health Organisation
 ---
 
 On the steps of Victorian parliament stood 121 empty chairs, marking the number of Indigenous lives lost to suicide in the state in the past five years.

@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- Atlanta
+- East Lake
+people:
+- Brian Rolapp
+- Rory McIlroy
+organisations:
+- Future Competition Committee
 ---
 
 ![Rory McIlroy](https://ichef.bbci.co.uk/ace/standard/996/cpsprodpb/9461/live/8fee2300-a0b1-11f1-8229-b91d73b62f74.jpg)

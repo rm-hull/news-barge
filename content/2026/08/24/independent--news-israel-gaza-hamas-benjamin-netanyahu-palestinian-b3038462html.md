@@ -11,6 +11,32 @@ image: https://static.independent.co.uk/2026/08/24/20/APTOPIX_Israel_Palestinian
 categories:
 - News & Politics
 - UK
+locations:
+- Beirut
+- Bureij
+- Deir al-Balah
+- Gaza City
+- Israel
+- Jerusalem
+- Khan Younis
+- Shati
+- U.S.
+people:
+- Benjamin Netanyahu
+- Hazem Qassem
+- Israel Katz
+- Jared Kushner
+- Khan Younis
+- Sam Metz
+organisations:
+- AP
+- Al-Aqsa Hospital
+- Awda Hospital
+- Hamas
+- Hamas’
+- Nasser Hospital
+- U.N.
+- ___ AlJoud
 ---
 
 Palestinian residents of war-battered Gaza fled homes and businesses as Israeli strikes and tank fire killed at least four people Monday, including two children, hospital officials said, a week after a U.S. delegation asked Israel to draw down attacks.

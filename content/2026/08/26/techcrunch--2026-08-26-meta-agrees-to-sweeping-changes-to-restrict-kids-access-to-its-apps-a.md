@@ -11,6 +11,16 @@ description: One of the most notable changes is that Meta plans to implement a d
 image: https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800
 categories:
 - Technology & Software
+locations:
+- U.S.
+people: []
+organisations:
+- Facebook
+- Instagram
+- Meta
+- TechCrunch
+- TikTok
+- YouTube
 ---
 
 Under the terms of its $18 billion settlement to resolve claims brought by 29 U.S. states over children’s safety, Meta on Wednesday agreed to sweeping changes designed to restrict minors’ access to Instagram and Facebook. The changes include a daily time limit, a restrictive “Night Mode,” autoplay controls, and more.

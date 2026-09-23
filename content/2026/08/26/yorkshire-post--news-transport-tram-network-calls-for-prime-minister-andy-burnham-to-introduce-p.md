@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Bradford
+- Leeds
+- London
+- West Yorkshire
+people:
+- Andy Burnham
+- Gareth Forest
+- Tracy Brabin
+organisations:
+- Bradford
+- Department for Transport
+- DfT
+- Government
+- Government, Transport and Works Act Orders
+- Leeds
+- Number 10
+- Treasury
+- WYCA
+- West Yorkshire Combined Authority
+- West Yorkshire Needs A Tram
 ---
 
 # Tram network: Calls for Prime Minister Andy Burnham to introduce ‘proper devolution’ to make plans a reality

@@ -12,6 +12,16 @@ image: https://cdn.mos.cms.futurecdn.net/d8VExDkDoKuUGadJWQSHHn-2560-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations: []
+people: []
+organisations:
+- CDPR
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- TechRadar
 ---
 
 ![The Witcher 3: Wild Hunt Remastered](https://cdn.mos.cms.futurecdn.net/d8VExDkDoKuUGadJWQSHHn.jpg) 

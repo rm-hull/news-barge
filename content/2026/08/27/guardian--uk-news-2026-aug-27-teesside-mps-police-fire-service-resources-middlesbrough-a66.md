@@ -12,6 +12,46 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Cleveland
+- Eston
+- Grangetown
+- Middlesbrough
+- Redcar
+- South Bank
+- Teesside
+- Thornaby East
+- Wales
+people:
+- Alec Brown
+- Andy Burnham
+- Andy McDonald
+- Anna Turley
+- Chris McDonald
+- Cole Worthy
+- Jacob Matusiak
+- Jonathan Brash
+- Josh Kirton
+- Luke Myer
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Natalie McDonald
+- Paul Appleton
+- Sarah Jones
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- A66
+- BBC Radio 4
+- East Cleveland
+- Hartlepool
+- Labour Teesside
+- Middlesbrough South
+- Redcar
+- Stockton North
 ---
 
 Five MPs on Teesside have called on the government to provide more help to local police and fire services after a week in which nine people have died in two incidents.

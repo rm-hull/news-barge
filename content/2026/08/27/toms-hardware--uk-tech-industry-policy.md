@@ -10,6 +10,23 @@ image: https://cdn.mos.cms.futurecdn.net/buvm9T9xPmu5wZVsefV2L7-320-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- California
+- U.S.
+people:
+- Anthony Albanese
+- Chey Tae-won
+- Donald Trump
+organisations:
+- Data Center
+- Get Tom's Hardware
+- Google
+- Intel
+- Nashville Zoo
+- SK Group
+- SK hynix
+- Tech
+- Trump
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/buvm9T9xPmu5wZVsefV2L7-320-80.jpg)

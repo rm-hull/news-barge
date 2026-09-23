@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Self-Improvement
+locations:
+- Airport Rail
+- Box Hill
+- Burwood
+- Cheltenham
+- Clayton
+- Glen Waverley
+- Melton
+- SRL East
+- Suburban Rail Loop
+people:
+- Ben Carroll
+- Daniel Andrews
+- Jacinta Allan
+- Jess Wilson
+- Melton
+organisations:
+- 3AW
+- ABC Radio Melbourne
+- Coalition
+- Labor
+- Melbourne Airport
+- SRL Community Projects Fund
+- SRL East
+- Suburban Rail Loop Authority
+- Victorian Infrastructure Delivery Authority
 ---
 
 The Victorian premier, Ben Carroll, has made an about-face, committing to pushing ahead with the first stage of the Suburban Rail Loop while promising to reduce its total cost by about 6%.

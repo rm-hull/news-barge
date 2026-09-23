@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- Honolulu
+- Italy
+- Japan
+- Lithuania
+- Yamato City
+people:
+- Matteo Salvini
+organisations: []
 ---
 
 Italy’s updated highway code will target pedestrians who stare at their mobile phones while crossing the road, as the country’s transport ministry strives to improve road safety by cracking down on perilous distractions.

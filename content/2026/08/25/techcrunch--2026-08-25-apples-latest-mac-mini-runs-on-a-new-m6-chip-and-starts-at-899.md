@@ -11,6 +11,22 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/Apple-Mac-mini-hero-260
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Ethernet
+- M4
+people: []
+organisations:
+- Apple
+- GPU
+- Hermes
+- M5 Ultra
+- M6
+- Mac Mini
+- Mac Minis
+- Mac Studio
+- OpenClaw
+- Siri AI
+- eBay
 ---
 
 Apple on Tuesday unveiled a new Mac Mini that runs on the latest iteration of its “M” processors, the M6.

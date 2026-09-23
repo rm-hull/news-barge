@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Alaska
+- Anchorage
+- Cape Newenham Long Range Radar Site Airport
+- Seldovia Slough
+people:
+- Alaska Sen
+- Clint Johnson
+- Dan Sullivan
+organisations:
+- Alaska Department of Public Safety
+- Alaska State Troopers
+- Anchorage International Airport
+- Federal Aviation Administration
+- NTSB
+- National Transportation Safety Board
+- Security Aviation
+- U.S. Army Corps of Engineers
 ---
 
 Four people were killed Wednesday when a small plane crashed into shallow coastal waters near a remote Alaska community, marking the state's second deadly aviation disaster in less than a week.

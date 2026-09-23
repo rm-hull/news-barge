@@ -12,6 +12,31 @@ image: https://static.independent.co.uk/2026/08/17/15/K5QFEQoP4fytH8Uf2Zx8FlpZrq
 categories:
 - News & Politics
 - UK
+locations:
+- Iran
+- Middle East
+- New Jersey
+- New York City
+- Ohio
+- Republic
+people:
+- Bernie Moreno
+- Donald Trump
+- Emily Moreno
+- Hakeem Jeffries
+- Jared Kushner
+- Max Miller
+- Mike Johnson
+- Tom Kean
+organisations:
+- Congress
+- Fox News
+- GOP
+- House
+- ICE
+- Senate
+- The New York Times
+- The Times
 ---
 
 President Donald Trump may be losing confidence in his party’s chances of holding onto the House in the midterms, if his son-in-law’s latest diplomatic efforts are any indication.

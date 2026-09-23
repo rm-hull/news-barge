@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- Coronation Street
+people:
+- Al Benkovic
+- Baga Chipz
+- Denise Welch
+- Instagram
+- Jeff Moore
+- Kym Marsh
+- Lisa Riley
+- Mandy Dingle
+- Mark Botfield
+organisations:
+- Coronation Street
+- Emmerdale
+- ITV
+- Instagram
+- Waterloo Road
 ---
 
 Emmerdale star Lisa Riley has responded to a series of “absolutely horrendous” fake posts with AI photos implying she is pregnant.

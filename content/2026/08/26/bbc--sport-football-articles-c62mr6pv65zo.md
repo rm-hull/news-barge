@@ -13,6 +13,48 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Brighton
+- Europe
+- London
+people:
+- Fleetwood
+organisations:
+- AFC Wimbledon
+- Arsenal
+- Aston Villa
+- Barnsley
+- Bournemouth
+- Bradford
+- Brentford
+- Brighton
+- Chelsea
+- Coventry
+- Crystal Palace
+- Europa League
+- Everton
+- Fleetwood
+- Fulham
+- Hull
+- Ipswich
+- Leeds
+- Leyton Orient
+- Lincoln
+- Liverpool
+- Luton
+- Manchester City
+- Manchester United
+- Middlesbrough
+- Millwall
+- Newcastle
+- Norwich
+- Peterborough
+- Reading
+- Sheffield United
+- Sunderland
+- Tottenham
+- West Ham
+- Wolves
 ---
 
 ![A close up picture of the EFL Cup trophy](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4123/live/4ad2af40-a190-11f1-9e49-ab6cded816f9.jpg)

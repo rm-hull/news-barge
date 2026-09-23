@@ -12,6 +12,16 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations: []
+people:
+- Craig Hale
+- Meera Ajam
+organisations:
+- AI
+- Craig’s
+- Google News
+- Microsoft
+- TechRadar Pro
 ---
 
 ![Microsoft Teams logo on smartphone](https://cdn.mos.cms.futurecdn.net/SBzPzhCfwgmSc69ebbGyEi.jpg) 

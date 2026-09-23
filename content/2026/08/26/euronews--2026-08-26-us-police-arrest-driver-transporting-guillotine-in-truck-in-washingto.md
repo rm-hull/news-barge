@@ -13,6 +13,18 @@ categories:
 - Europe
 - News & Politics
 - True Crime
+locations:
+- California
+- Capitol Hill
+- East Capitol Street
+- Washington, D.C.
+- Washington, DC.
+people:
+- Julian
+- Philan-Tam-Duy Le
+organisations:
+- US Capitol Police
+- USCP
 ---
 
 ## "The suspect drove here from California," US Capitol Police said in a statement, adding that investigators were looking into the man's background to try to understand his motives for arriving in the city.

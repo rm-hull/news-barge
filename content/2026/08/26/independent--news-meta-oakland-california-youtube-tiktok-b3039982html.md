@@ -15,6 +15,31 @@ categories:
 - UK
 - Society & Culture
 - Health & Fitness
+locations:
+- California
+- Colorado
+- Florida
+- Kentucky
+- Los Angeles
+- New Jersey
+- New Mexico
+- Oakland
+- Tennessee
+- U.S.
+people:
+- Instagram
+- Jonathan Skrmetti
+- Mark Zuckerberg
+- Snapchat
+- TikTok
+organisations:
+- Facebook
+- Instagram
+- KGM
+- Meta
+- Snap
+- Tennessee’s Children’s Digital Protection Fund
+- YouTube
 ---
 
 A settlement announced Wednesday between Meta and dozens of states resolves one of its biggest legal fights, but the social media giant is still facing litigation elsewhere over its products' effects on young people's mental health.

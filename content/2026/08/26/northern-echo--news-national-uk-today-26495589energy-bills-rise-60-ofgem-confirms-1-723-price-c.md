@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Middle East
+- UK
+people:
+- Neil Kenward
+- Richard Neudegg
+- Yui Mok
+organisations:
+- DWP State Pension
+- Energy Saving Trust
+- Government
+- Home Bargains
+- M&S
+- Ofgem
+- St Michael
+- Tesco
+- Uswitch
+- Waitrose
 ---
 
 *(Image: Yui Mok/PA Wire)*

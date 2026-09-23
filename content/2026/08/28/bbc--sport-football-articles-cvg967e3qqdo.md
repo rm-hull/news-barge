@@ -13,6 +13,52 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Allianz Arena
+- England
+- Europe
+- France
+- Germany
+- Kane
+- Kompany
+- Morocco
+- Olise
+- Senegal
+- Stuttgart
+people:
+- Alan Shearer
+- Constantin Eckner
+- Gerd Muller
+- Harry Kane
+- Ismael Saibari
+- Jamal Musiala
+- Karl-Heinz Rummenigge
+- Leon Goretzka
+- Michael Olise
+- Michael Owen
+- Nathaniel Brown
+- Nicolas Jackson
+- Raphael Guerreiro
+- Robert Lewandowksi
+- Robert Lewandowski
+- Uli Hoeness
+- Vincent Kompany
+organisations:
+- BBC Sport
+- BBC iPlayer
+- Bayer Leverkusen
+- Bayern Munich
+- Borussia Dortmund
+- Brazil Bayern
+- Burnley
+- Chelsea
+- Eintracht Frankfurt
+- FC Bayern
+- PSV
+- Paris St-Germain
+- Real Madrid
+- Stuttgart
+- Tottenham
 ---
 
 ![Vincent Kompany and Harry Kane helped Bayern Munich to the German Double last season](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b47f/live/3b8c52a0-9bd4-11f1-bb4d-1147ef2e78e5.jpg)

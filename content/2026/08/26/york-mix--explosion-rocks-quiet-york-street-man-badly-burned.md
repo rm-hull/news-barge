@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Crossfield Crescent
+- Fordlands Road
+- Fulford
+- York
+people:
+- Acetylene
+- Andy Creasey**
+- Creasey
+- Lewis Abley
+organisations:
+- '#### Incident'
+- North Yorkshire Fire & Rescue Service
 ---
 
 A quiet York street was rocked by an explosion this afternoon (Wednesday).

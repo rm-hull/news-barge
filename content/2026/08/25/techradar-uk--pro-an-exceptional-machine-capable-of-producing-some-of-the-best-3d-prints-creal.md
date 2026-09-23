@@ -12,6 +12,19 @@ image: https://cdn.mos.cms.futurecdn.net/L4Hk3MGv9LVFYthAm39M5D-1200-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations:
+- Amazon
+- Creality
+- UK
+people:
+- Alastair
+- Wayne Williams
+organisations:
+- CFS
+- Creality
+- PC
+- TechRadar Pro
+- Wayne Williams
 ---
 
 ![Creality K2 Pro](https://cdn.mos.cms.futurecdn.net/L4Hk3MGv9LVFYthAm39M5D.jpg) 

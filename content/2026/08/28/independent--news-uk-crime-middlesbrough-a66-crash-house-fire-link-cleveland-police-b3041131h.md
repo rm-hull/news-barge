@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- A66
+- Birchington Avenue
+- Cleveland
+- County Durham
+- Eston
+- Grangetown
+- Middlesbrough
+- PA
+- Redcar
+people:
+- Anna Turley
+- Cole Robert Worthy
+- Dave Sutherland
+- Jacob Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Natalie McDonald
+- Owen Humphreys
+- Pc Matthew Blades
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- Cleveland Police
+- Middlesbrough
+- National Crime Agency
 ---
 
 A house fire in Middlesbrough that killed two people and a crash on the nearby A66 last weekend, which left seven people dead, are not being treated as linked by police.

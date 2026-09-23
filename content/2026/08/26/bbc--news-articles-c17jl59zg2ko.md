@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Garthamlock
+- Glasgow
+- Robroyston
+- Scotland
+people:
+- Dave Ferry
+- Lyons
+- Steven 'Bonzo' Daniel
+- Steven Gordon
+organisations:
+- '## Operation Venetic'
+- BBC Scotland News
+- National Crime Agency
+- Operation Venetic
 ---
 
 ![A man wearing a grey t-shirt being put into the back of a police van by three police officers](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/5694/live/8ac63000-a117-11f1-92eb-a9b3bbcf6f4a.jpg)

@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Austin
+- Texas
+people:
+- Alexis Miestowski
+- Chip Brewer
+- Garrett Clark
+- Good Good
+- Matt Kendrick
+organisations:
+- Callaway Golf
+- Good Good
+- Good Good Golf
+- YouTube
 ---
 
 Digital media group Good Good Golf, which is slated to title sponsor a PGA Tour event this fall, has drawn sharp backlash after releasing a promotional spot for a Callaway driver that featured a man tackling a woman as she reached for the club.

@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Alicante
+- Europe
+- Italy
+- Kingfisher
+- Louvre Museum
+- Museum of Villena
+- Paris
+- Parma
+- Sicily
+- Spain
+- Villena Museum
+people:
+- Antonello da Messina
+- Cézanne
+- Fulgencio Cerdán
+- José María Soler
+- Manuel Pineda
+- Matisse
+- Mauro Hernández
+- Renoir
+- Villena
+organisations:
+- Agence France-Presse
+- Cadena SER
+- EU
+- Europol
+- Magnani-Rocca Foundation Museum
+- Trabajos de Prehistoria
+- University of Alicante
 ---
 
 Thieves in Spain have raided the Treasure of Villena – a stunning collection of bronze age gold artefacts that has been described as the most important prehistoric trove in Europe – in the latest high-profile smash-and-grab heist on the continent.

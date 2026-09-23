@@ -14,6 +14,53 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Al-Mawasi
+- Al-Shifa Hospital
+- Gaza City
+- Independent Arabia
+- Israel
+- Lebanon
+- Nasser Hospital
+- Rafah
+- UAE
+people:
+- Al Jazeera
+- Anas al-Sharif
+- Baraa Lafi
+- Benjamin Netanyahu
+- Ezzedine Abu Aisha
+- Filastiniyat
+- Ghaith
+- Hadi Torfi
+- Hussam al-Masri
+- Ibrahim Qannan
+- Khan Younis
+- Mariam Abu Dagga
+- Mariam Dagga
+- Mohamad Ghandour
+- Mohamed Abu Shahma
+- Mum
+- Nasser
+- Nedal Hamdouna
+- Riyad Abu Dagga
+- Siddiq
+organisations:
+- Associated Press
+- CPJ
+- Committee for the Protection of Journalists
+- Facebook
+- Filastiniyat
+- General Staff Fact-Finding and Assessment Mechanism
+- Ghad TV
+- Hamas
+- IDF
+- Mariam
+- Media Studies
+- Médecins Sans Frontières
+- Reuters
+- The Independent
+- UN Commission of Enquiry
 ---
 
 Reaching into the body bag, and gently cradling her face, a family member places a mobile phone next to Mariam Abu Dagga's ear.

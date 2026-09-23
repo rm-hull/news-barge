@@ -11,6 +11,18 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- A64
+- Four Alls Inn
+- Malton Road
+- Stockton
+- The Forest
+- York
+people: []
+organisations:
+- City of York Council
+- Dennis Harley Developments Ltd
+- Starbucks
 ---
 
 Plans for a holiday park with 32 chalets at the site of a former York pub have been lodged.

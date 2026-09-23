@@ -10,6 +10,24 @@ description: The upgraded ToxicPanda malware disguises a network takeover as a r
 image: https://cdn.mos.cms.futurecdn.net/tEhgdM2MKoCYRwV4Ch3awa-2048-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Monica J. White
+- Zimperium
+organisations:
+- ADB
+- Digital Trends
+- Google News
+- Google Play
+- Google Play Protect
+- Google Play Services
+- Google Play Store
+- Google Play ToxicPanda
+- Monica
+- SlashGear
+- Tom’s Hardware
+- WePC
+- Zimperium
 ---
 
 ![malware](https://cdn.mos.cms.futurecdn.net/tEhgdM2MKoCYRwV4Ch3awa.jpg) 

@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- Leeds Irish Centre
+- Rotterdam
+people:
+- Andy
+- Paul Heaton
+organisations:
+- Irish Centre
+- Key Of G. Tickets
+- Very Beautiful South
 ---
 
 Fans of The Beautiful South can enjoy a night of nostalgia with a tribute show in Leeds.

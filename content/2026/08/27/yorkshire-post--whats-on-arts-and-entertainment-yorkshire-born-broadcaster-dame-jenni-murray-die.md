@@ -14,6 +14,27 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Barnet Coroner’s Court
+- Hampstead Heath
+- North London
+- Royal Free Hospital
+- Shutterstock
+- Wildwood Road
+people:
+- Baroness Harriet Harman
+- Clare Morkane
+- Dame Jenni
+- David Forgham-Bailey
+- David Hartley
+- Jenni Murray
+- Jennifer
+- Tony Murphy
+organisations:
+- '## Broadcaster'
+- BBC Radio 4
+- Labour
+- Metropolitan Police
 ---
 
 # Yorkshire-born broadcaster Dame Jenni Murray died after being 'dazzled' in car crash, inquest hears

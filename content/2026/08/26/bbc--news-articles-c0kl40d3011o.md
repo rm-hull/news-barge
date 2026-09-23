@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Self-Improvement
 - Society & Culture
+locations:
+- England
+- UK
+- Wales
+people:
+- Caroline Thompson
+- Gabrielle Shaw
+- Lade Smith
+organisations:
+- BBC
+- BBC.**
+- NHS England
+- National Association for People Abused in Childhood
+- Royal College of Psychiatrists
 ---
 
 ![Woman in shadow looking out of window](https://ichef.bbci.co.uk/ace/standard/796/cpsprodpb/91ff/live/c3472cc0-a09c-11f1-8a1f-314a01485cf4.png)

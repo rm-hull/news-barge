@@ -12,6 +12,21 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- China
+- Mongolia
+- US
+- Ulaanbaatar
+people:
+- Chinbat Nomin
+- Nyam-Osor Uchral
+- Togmid Dorjkhand
+organisations:
+- Digital Development, Innovation and Communications
+- Euronews
+- Green AI Data Centre Initiative
+- UN Convention to Combat Desertification
+- United Nations
 ---
 
 ## During the COP17 conference in Ulaanbaatar, Mongolia offered potential data centre investors tax relief, data security, cheap energy, land, and cold weather.

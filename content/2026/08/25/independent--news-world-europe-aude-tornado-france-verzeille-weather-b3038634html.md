@@ -11,6 +11,20 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Aude
+- Earth
+- Europe
+- France
+- Pomas
+- Spain
+- Verzeille
+people: []
+organisations:
+- Aude
+- Copernicus
+- European Union
+- World Weather Attribution
 ---
 
 A huge tornado has swept through a region of France, causing chaos and destruction in its path.

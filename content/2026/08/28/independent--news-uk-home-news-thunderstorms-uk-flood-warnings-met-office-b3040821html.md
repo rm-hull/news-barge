@@ -13,6 +13,87 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Bedford
+- Birmingham
+- Blackburn
+- Blaenau Gwent
+- Bridgend
+- Caerphilly
+- Cambridgeshire
+- Carmarthenshire
+- Ceredigion
+- Chester
+- Cleveland
+- Conwy
+- Cumbria
+- Darlington
+- Darwen
+- Denbighshire
+- Derby
+- Derbyshire
+- Durham
+- East Midlands
+- Flintshire
+- Gloucestershire
+- Greater Manchester
+- Gwynedd
+- Halton
+- Hartlepool
+- Herefordshire
+- Humber
+- Lancashire
+- Leicester
+- Leicestershire
+- Lincolnshire
+- London
+- Merseyside
+- Merthyr Tydfil
+- Middlesbrough
+- Monmouthshire
+- Neath Port Talbot
+- Newport
+- Norfolk
+- North East England
+- North West England
+- Northamptonshire
+- Nottingham
+- Nottinghamshire
+- Oxfordshire
+- Perry Barr
+- Peterborough
+- Powys
+- Redcar
+- Rhondda Cynon Taf
+- Rutland
+- Scotland
+- Shropshire
+- South East England
+- South West England
+- Staffordshire
+- Stockton-on-Tees
+- Stoke-on-Trent
+- Swansea
+- Telford
+- Torfaen
+- UK
+- Wales
+- Warrington
+- Warwickshire
+- West Midlands
+- Wrekin
+- Wrexham
+- Yorkshire
+people:
+- Craig Snell
+organisations:
+- Cheshire East
+- Cheshire West
+- Environment Agency
+- Met Office
+- West Midlands Conurbation
+- Worcestershire
+- Yorkshire
 ---
 
 Thunderstorms and further flooding will hit parts of the UK on Friday as the Met Office issued fresh warnings for 64 areas.

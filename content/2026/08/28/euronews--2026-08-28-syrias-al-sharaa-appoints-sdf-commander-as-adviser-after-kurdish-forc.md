@@ -13,6 +13,42 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Ankara
+- Damascus
+- Europe
+- Iraq
+- Kobani
+- Syria
+- Turkey
+- UK
+- US
+- Washington
+people:
+- Abdullah Öcalan
+- Ahmad al-Sharaa
+- Ferhat Abdi Şahin
+- Mazloum Abdi
+- Mazloum Kobani
+- Mustafa Halil Abdi
+- Mustafa Khalil Abdi
+- Nanar Hawach
+- Nowruz
+- Tom Barrack
+organisations:
+- Aleppo University
+- EU
+- IS
+- International Crisis Group
+- Interpol Red Notice
+- Islamic State Group
+- PKK
+- People's Protection Units
+- SANA
+- SDF
+- Syrian Democratic Forces
+- United States'
+- YPG
 ---
 
 ## The appointment came days after Abdi declared the Kurdish-led force dissolved and integrated into the Syrian army, ending a decade of independent existence in a move Washington called "genuine integration".

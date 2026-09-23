@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Allianz Arena
+- Allianz Stadium
+- Edinburgh
+- Germany
+- Munich
+- Paris
+- Sydney Harbour Bridge
+- Sydney Opera House
+people:
+- Ambrose Killian
+organisations:
+- BBC
+- Bayern Munich
+- First Nations
+- Instagram
+- Sydney Marathon
+- Sydney Opera House
+- TCS Sydney Marathon
 ---
 
 In a week’s time, the proud runners finishing the Sydney Marathon will receive a medal showing the landmarks they have just sped past – plus one they definitely didn’t.

@@ -13,6 +13,51 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- America
+- Australia
+- California
+- Canada
+- Dollywood
+- Ireland
+- Las Vegas
+- Nashville
+- Smoky Mountains
+- Tennessee
+- Texas
+- UK
+people:
+- Avie Lee
+- Beyoncé
+- Bill Owens
+- Carl Dean
+- Dolly Parton
+- Dolly Rebecca Parton
+- Elvis Presley
+- Forbes
+- Jane Fonda
+- Johnny Cash
+- Jolene
+- Joshua
+- Lily Tomlin
+- Miley Cyrus
+- Porter Wagoner
+- Priscilla Presley
+- Robert Lee Parton
+- Uncle Bill
+- Wagner
+- Whitney Houston
+organisations:
+- Dolly Records
+- Golden Globe
+- Imagination Library
+- NFL
+- Parton
+- Rolling Stone
+- The Dollywood Company
+- The Dollywood Foundation
+- The White Stripes
+- Vanderbilt University Medical Centre
 ---
 
 Dolly Parton: The life of a legendary country singer

@@ -11,6 +11,68 @@ image: https://cdn.mos.cms.futurecdn.net/ZSSSQRZK4pkvDuuNtZYNTF-450-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Beijing
+- China
+- Nova Lake
+- US
+people:
+- Andrew E. Freedman
+- Mark Tyson
+- Robert Hallock
+organisations:
+- AMD
+- Aaron Klotz
+- Albert Thomas
+- AmazonBy Jowi Morales
+- Anton Shilov
+- Anton Shilov Published
+- Blackwell
+- CPUsAMD
+- CPUsIntel
+- CPUsQualcomm
+- CoolingModder
+- Corsair
+- DRAMCXMT
+- DRAMEngineer
+- DRAMSK
+- FormulaV Line
+- GPUsGamer
+- GPUsIntel
+- GPUsJapanese
+- GPUsNvidia
+- GPUsOverclocker
+- HGST
+- Hassam Nasir
+- Hassam Nasir Last
+- Intel
+- IntelBy Jake Roach Published
+- Jowi Morales
+- Kunal Khullar
+- Kunal Khullar Published
+- Liquid CoolingFrore
+- Luke James
+- Luke James Published
+- Mark Tyson Published
+- MotherboardsGigabyte
+- MotherboardsMSI
+- New HAF
+- Newegg
+- Nvidia
+- OverclockingGPU
+- OverclockingOverclocker
+- OverclockingYou
+- PC CasesNoctua
+- Power Supplies
+- Power SuppliesSeasonic
+- RAMG.Skill
+- Raptor Lake
+- Razor Lake-HX
+- SSDsSandisk
+- Tencent
+- Tom's Hardware
+- Toshiba
+- Zak Killian
 ---
 
 # PC Components

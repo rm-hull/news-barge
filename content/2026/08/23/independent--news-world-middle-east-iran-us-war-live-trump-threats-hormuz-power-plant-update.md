@@ -13,6 +13,53 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Bezmer
+- Bulgaria
+- Chile
+- Doha
+- Gaza
+- Islamic Republic
+- Israel Iran
+- Karaj
+- Middle East
+- Mohammadshahr
+- Palestinians Israel
+- Persian Gulf
+- Poland
+- Przemysl
+- Qatar
+- Sofia
+- Strait of Hormuz
+- Tehran
+- US
+- United States
+- Warsaw
+people:
+- '## Trump'
+- Abbas Araghchi
+- Bill O’Reilly
+- Damian Sobol
+- Dimitar Stoyanov
+- Donald Trump
+- Esmaeil Baghaei
+- Itamar Ben-Gvir
+- Jose Andres' World Central Kitchen
+- Majid Adineh
+- Marc Thiessen
+- Mohammad Baqerzadeh
+- Mohsen Rezaei
+organisations:
+- Armed Forces General Staff
+- Committee for the Search for Missing Persons of Iran
+- Fox News
+- International Committee of the Red Cross
+- Iranian Air Force
+- Mizan News
+- Tasnim
+- US Air Force
+- United Nations
 ---
 
 Iran’s security chief Mohsen Rezaei has threatened “earthquake-like” retaliation should US president Donald Trump take any further action.

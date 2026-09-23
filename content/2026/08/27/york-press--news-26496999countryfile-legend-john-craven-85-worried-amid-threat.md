@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Banbury
+- Cairngorms National Park
+- Whitby
+- Yorkshire
+people:
+- Andy Burnham
+- Jack Taylor
+- John Craven
+organisations:
+- BBC
+- Countryfile Magazine
+- Newsquest Archive
+- Newsround
+- PA Wire
+- TV
 ---
 
 *(Image: Newsquest Archive)*

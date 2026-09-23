@@ -14,6 +14,19 @@ categories:
 - York
 - Film & TV
 - Arts & Culture
+locations:
+- Jurassic Park
+- Museum Street
+- UK
+- York
+people:
+- Stanley Kubrick
+- Steven Spielberg
+organisations:
+- Evolution of Horror
+- Picturehouse Outdoor Cinema
+- The Shining
+- York Museum Gardens
 ---
 
 *(Image: Submitted)*

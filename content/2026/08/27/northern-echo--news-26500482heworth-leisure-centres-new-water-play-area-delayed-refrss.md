@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Technology & Software
 - Video Gaming
+locations:
+- Aqua Play
+- FlowRider
+- Gateshead
+- Heworth Leisure Centre
+people: []
+organisations:
+- Gateshead Council
+- Heworth Leisure Centre
+- Northern Echo
 ---
 
 *(Image: Heworth Leisure Centre)*

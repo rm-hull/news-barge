@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Burlington
+- Interstate 43
+- Milwaukee
+- Wisconsin
+people:
+- Dak Prescott
+- David Berson
+- JJ Watt
+- Jim Nantz
+- Tony Romo
+- Tracy Wolfson
+organisations:
+- CBS Sports
+- CBS Sports’
+- CBS’
+- Cowboys’
+- Dallas Cowboys
+- Green Bay Packers
+- Milwaukee County Sheriff’s Office
+- Milwaukee Journal Sentinel
+- Minnesota Vikings
+- NFL
+- OWI
+- TMZ
 ---
 
 Tony Romo has been hit with three additional citations relating to his arrest last month, an incident that led CBS to place him on leave from his role as lead analyst for NFL broadcasts.

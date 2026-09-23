@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Beaumont Street West
+- Darlington
+- Dragonville
+- Durham Constabulary
+- Esso station
+- Holme House Prison
+- Stockton
+people:
+- Imogen Eastham-Brown
+- Michele Turner
+- Richard Clews
+- Sean Taylor
+organisations:
+- Durham Constabulary
+- Durham Crown Court
+- Probation Service
 ---
 
 *(Image: Durham Constabulary)*

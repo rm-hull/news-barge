@@ -13,6 +13,22 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- North Yorkshire
+- North of England
+- York
+people:
+- Cllr Carl Les
+- Richard Flinton
+organisations:
+- Brierley
+- CQC
+- Government
+- North Yorkshire Council
+- North Yorkshire County Council
+- North Yorkshire Local Resilience Forum
+- Ofsted
+- Wokingham Council
 ---
 
 The chief executive of North Yorkshire Council has spoken of his “immense pride” at helping to shape the authority’s future as he has announced he is to retire next year.

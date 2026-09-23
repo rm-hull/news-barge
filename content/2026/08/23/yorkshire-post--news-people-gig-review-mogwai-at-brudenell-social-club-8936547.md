@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - York
 - Music
+locations:
+- Brudenell Community Room
+- Leeds
+- Ritchie Sacramento
+people:
+- God
+- Herod
+- Jim Morrison
+- Mogwai
+- Stuart Braithwaite
+organisations:
+- Brudenell Social Club
+- Mogwai
 ---
 
 # Gig review: Mogwai at Brudenell Social Club

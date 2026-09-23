@@ -11,6 +11,27 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Duxbury
+- Massachusetts
+- Plymouth Superior Court
+- UK
+- USA
+people:
+- Callan
+- Cora
+- Dawson
+- Gregory Saathoff
+- Jennifer Sprague
+- Kevin Reddington
+- Lindsay Clancy
+- Patrick Clancy
+organisations:
+- 988 Suicide and Crisis Lifeline
+- Behavioral Analysis Unit
+- FBI
+- Samaritans
+- University of Virginia
 ---
 
 Closing arguments are set for Thursday in the murder trial of Lindsay Clancy, bringing jurors closer to deciding a case centered on the deaths of her three young children and difficult questions surrounding her mental health at the time.

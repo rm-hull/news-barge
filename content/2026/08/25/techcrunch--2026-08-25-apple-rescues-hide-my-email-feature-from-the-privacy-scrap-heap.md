@@ -10,6 +10,15 @@ description: Apple says it will no longer ditch using its icloud.com domain for 
 image: https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key-red.jpg?resize=1200,675
 categories:
 - Technology & Software
+locations: []
+people:
+- John Gruber
+organisations:
+- 404 Media
+- Apple
+- Daring Fireball
+- Hide My Email
+- Reddit
 ---
 
 Apple has reneged on a planned change to its Hide My Email feature that users said would have made the privacy tool less effective.

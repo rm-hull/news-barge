@@ -11,6 +11,33 @@ image: https://static.independent.co.uk/2026/08/25/15/2219554876..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- New York
+people:
+- Anderson Cooper
+- Andrew Cuomo
+- Bari Weiss
+- Chris Cuomo
+- David Ellison
+- Nick Bilton
+- Oliver Darcy
+- Rand Paul
+- Scott Pelley
+- Tony Dokoupil
+organisations:
+- CBS Evening News
+- CBS News
+- CBS News’
+- CNN
+- NBC News’
+- NewsNation
+- Paramount Global
+- SiriusXM
+- Skydance Media
+- The Independent
+- The Wall Street Journal
+- Trump
+- Weiss’
 ---
 
 The editor-in-chief of CBS News wants to add fired CNN anchor Chris Cuomo to the network’s lineup of stars, according to a report.

@@ -11,6 +11,21 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- China
+- Fort Bragg
+- Hawaii
+- Russia
+- Texas
+- US
+- Zaporizhzhia
+people: []
+organisations:
+- Engels-2
+- Get Tom's Hardware
+- Trump
+- US Army
+- USS Essex
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/YqyE7WKzDBtHaoJrTAM6zg-320-80.jpg)

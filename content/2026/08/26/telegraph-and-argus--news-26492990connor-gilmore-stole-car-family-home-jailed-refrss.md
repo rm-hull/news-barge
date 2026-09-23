@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- HMP Leeds
+people:
+- '## Man'
+- Connor Gilmore
+- Geoffrey Marson KC
+- Syam Soni
+organisations:
+- Bradford Crown Court
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

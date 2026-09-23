@@ -15,6 +15,25 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- England
+- River Avon
+- UK
+- United Kingdom
+people:
+- Dave
+- Elvis Costello
+- James
+- Mary Connors
+- Montagu Harrier
+- Mum
+organisations:
+- AU
+- James’
+- Montagu's Harriers
+- RSPB
+- The Yorkshire Post
+- Today Programme
 ---
 
 # Montagu's Harrier: where is AU in the UK is the question on every twitcher's lips

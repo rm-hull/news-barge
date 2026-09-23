@@ -13,6 +13,22 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Brunei
+- Central Kalimantan
+- Indonesia
+- Malaysia
+- Palembang
+- South Sumatra
+- Southeast Asia
+- West Kalimantan
+people:
+- God
+- Herman Deru
+organisations:
+- Environment Ministry
+- Forestry Ministry
+- National Disaster Management Agency
 ---
 
 ## Emergency services have been battling fires driven by an intensifying El Niño climate pattern and a prolonged dry season, generating dense smoke that crossed into Malaysia and Brunei.

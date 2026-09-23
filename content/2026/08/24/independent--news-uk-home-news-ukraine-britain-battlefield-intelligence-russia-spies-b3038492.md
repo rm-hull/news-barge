@@ -14,6 +14,27 @@ categories:
 - UK
 - History
 - Sports
+locations:
+- Britain
+- Downing Street
+- Europe
+- Kyiv
+- Nazi Germany
+- Russia
+- St Sophia
+- UK
+- Ukraine
+people:
+- Andy Burnham
+- Volodymyr Zelensky
+organisations:
+- AI
+- Avengers Lab
+- Ministry of Defence
+- MoD
+- Palestine Action
+- RAF Brize Norton
+- Voyager
 ---
 
 Ukraine has handed Britain a “goldmine” of secret battlefield intelligence to help the UK protect its bases from Russian spies.

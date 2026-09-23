@@ -13,6 +13,28 @@ image: https://static.independent.co.uk/2026/08/25/09/485394151..?trim=0,0,0,0&w
 categories:
 - News & Politics
 - UK
+locations:
+- Canada
+- Canadian Province of Ontario
+- City Hall
+- Hamilton
+- Iran
+- Toronto
+- Washington
+people:
+- Daniel Dale
+- Donald Trump
+- Doug Ford
+- Jen Gerson
+- Jeremy Berke
+- Norm Kelly
+- Obama
+- Rob Ford
+organisations:
+- CNN
+- Ford
+- Trump Tower
+- Twitter
 ---
 
 President Donald Trump has escalated his war of words with Ontario Premier Doug Ford by comparing him unfavorably to his late brother and fellow politician Rob Ford.

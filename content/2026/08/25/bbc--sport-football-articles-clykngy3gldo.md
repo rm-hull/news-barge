@@ -13,6 +13,61 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Asia
+- England
+- Hull
+- Lewis Hall
+- Manchester United
+- Spain
+people:
+- Alejandro Balde
+- Amad Diallo
+- Andrey Santos
+- Carlos Baleba
+- Diogo Dalot
+- Erik
+- Hag
+- Hansi Flick
+- Harry Amass
+- Jan Aage Fjortoft
+- Jorge Salinas
+- Joshua Zirkzee
+- Kobbie Mainoo
+- Lewis Hall
+- Luke Shaw
+- Man Utd
+- Manuel Ugarte
+- Marcus Rashford
+- Michael Carrick
+- Noussair Mazraoui
+- Paul Pogba
+- Shearer
+- Youri Tielemans
+organisations:
+- Aston Villa
+- Atletico Madrid
+- Baleba
+- Barcelona
+- Bologna
+- Brighton
+- Casemiro
+- Chelsea
+- Elche
+- England
+- Europa League
+- Hall
+- Hull
+- La Liga
+- Man United
+- Manchester United
+- Middlesbrough
+- Newcastle
+- Santander
+- Serie A
+- Swindon Town
+- Tottenham
+- Viaplay
 ---
 
 ![Manchester United full-back Luke Shaw prepares to take a throw in during their Premier League defeat by Hull](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/880a/live/c5e07870-a0a0-11f1-84a9-276d1a8e5a22.jpg)

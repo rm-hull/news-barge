@@ -15,6 +15,15 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Baildon
+- Otley Road
+- Shipley
+people: []
+organisations:
+- BTC Eddisons
+- Bradford Council
+- T&A
 ---
 
 *(Image: BTC Eddisons)*

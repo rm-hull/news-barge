@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- UK
+people:
+- Jessie Kwok
+organisations:
+- Aviva
+- DWP State Pension
+- Kennedy News
+- M&S
+- St Michael
+- Tesco
+- Waitrose and Home Bargains
+- Wealthify
 ---
 
 *(Image: Getty Images)*

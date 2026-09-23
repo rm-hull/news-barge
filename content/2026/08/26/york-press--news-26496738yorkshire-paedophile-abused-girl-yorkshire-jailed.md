@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- North Yorkshire
+- Pickering
+- Vivis Lane
+people:
+- Carl Stevenson
+- Doug Stanway
+- Eddison Flint
+- Simon Hickey
+- Soheil Khan
+organisations:
+- North Yorkshire Police
+- York Crown Court
 ---
 
 *(Image: North Yorkshire Police)*

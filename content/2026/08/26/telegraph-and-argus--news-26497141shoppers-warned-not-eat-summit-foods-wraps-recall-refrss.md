@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- East Street
+- UK
+people: []
+organisations:
+- FSA
+- Food Standards Agency
+- Morrisons
+- Summit Foods
+- Tesco
 ---
 
 *(Image: Getty Images)*

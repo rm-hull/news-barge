@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Bedfordshire
+- London
+people:
+- Mike Lewis
+- Rhys Hibbert
+- Sophia Bano
+organisations:
+- AI
+- NHNN
+- NIHR
+- National Hospital for Neurology and Neurosurgery
+- National Institute for Health and Care Research
+- UCL
+- University College London
 ---
 
 Neurosurgeons in London have performed the world’s first successful AI-assisted operation to remove a brain tumour, saving the sight of a 48-year-old man, health officials have said.

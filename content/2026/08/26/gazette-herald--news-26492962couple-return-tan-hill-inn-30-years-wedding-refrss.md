@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - Comedy & Entertainment
+locations:
+- Colchester
+- Essex
+- Pennine Way
+- Richmond
+- Swaledale
+- Tan Hill
+- Tan Hill Inn
+- UK
+- Yorkshire Dales
+people:
+- Andrew Hields
+- John Dalton
+- Max
+- Millie
+- Sarah Baulch
+organisations:
+- IT
+- Tan Hill Inn
 ---
 
 A couple has returned to a pub in the Yorkshire Dales where they got married to celebrate their 30th wedding anniversary.

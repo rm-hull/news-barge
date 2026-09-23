@@ -13,6 +13,27 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- '## Hormuz'
+- Doha
+- Iran
+- Muscat
+- Oman
+- Qatar
+- Ras Laffan
+- Strait of Hormuz
+- Tehran
+- US
+- Washington
+people:
+- Abbas Araghchi
+- Donald Trump
+- Mohammed bin Abdulrahman Al Thani
+organisations:
+- Al Udeid Air Base
+- IRGC
+- International Maritime Organisation
+- QNA
 ---
 
 ## Qatar is stepping up its mediation efforts as regional tensions remain high and direct US-Iran talks remain stalled, with Doha focused on de-escalation, dialogue and restoring freedom of navigation through the Strait of Hormuz.

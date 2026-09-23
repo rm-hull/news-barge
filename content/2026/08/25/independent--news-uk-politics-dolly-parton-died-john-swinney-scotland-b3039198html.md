@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Australia
+- Canada
+- Dundee
+- Fife
+- Helensburgh
+- Renfrewshire
+- Republic of Ireland
+- Scotland
+- Sevier County
+- Tennessee
+- US
+people:
+- Brian Seaver
+- Carl Dean
+- Dolly Parton
+- John Swinney
+- Jolene
+- Linda McMahon
+- Ms Parton
+organisations:
+- Imagination Library
+- Instagram
+- Library of Congress in Washington DC
+- Scottish Government
+- The Dollywood Foundation
+- The Imagination Library
+- The Independent
 ---
 
 John Swinney has stated he is "deeply saddened" following the death of country music star Dolly Parton.

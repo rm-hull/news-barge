@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- A167
+- A690
+- B6300
+- Durham
+- John Street South
+- Langley Moor
+- Meadowfield
+- Nevilles Cross
+- No. 9
+- St Johns Road
+- St Patrick's Primary School
+- YOUR
+people: []
+organisations:
+- Public Notice Portal
+- The Northern Echo
 ---
 
 *(Image: Archive)*

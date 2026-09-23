@@ -15,6 +15,23 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 - Travel
+locations:
+- A181
+- B1283
+- County Durham
+- Darlington
+- Durham Heritage Coast
+- Easington
+- England Coastal Path
+- Hartlepool
+- North Sea
+- Sunderland
+people: []
+organisations:
+- Durham
+- Easington Collier Local Nature Reserve
+- Jills Fish and Chips
+- Netflix
 ---
 
 *(Image: Getty)*

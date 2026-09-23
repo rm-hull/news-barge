@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- County Durham
+- Peterlee Magistrates’ Court
+- Redworth Road
+- Shildon
+- Spennymoor
+people:
+- John Thomas Howard
+organisations:
+- Durham Constabulary
+- Isuzu
+- Newsquest
 ---
 
 *(Image: Newsquest)*

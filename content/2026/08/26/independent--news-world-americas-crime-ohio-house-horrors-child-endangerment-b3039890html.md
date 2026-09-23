@@ -14,6 +14,26 @@ categories:
 - Family & Parenting
 - Society & Culture
 - Arts & Culture
+locations:
+- Gallia County
+- Hamden
+- Ohio
+- Vinton County
+people:
+- Andy Wilson
+- Christina Siders
+- Dorain Baum
+- Elizabeth Siders
+- Elizabeth Siders’
+- Gary Siders Jr.
+- Gary Siders Sr.
+- Ryan Cain
+organisations:
+- Gallia County Children’s Services
+- Ohio Department of Jobs and Family Services
+- Ohio Virtual Academy
+- WBNS
+- WCMH
 ---
 
 The family at the center of a massive child engagement case in Ohio, where 16 kids were rescued from what has been dubbed a “house of horrors,” was previously investigated by child services.

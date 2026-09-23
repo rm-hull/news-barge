@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - History
 - Travel
+locations:
+- Columbia
+- Earth
+- Houston
+- Mars
+- Pacific Ocean
+- US
+- White House
+people:
+- Christina Koch
+- Cmdr Reid Wiseman
+- Donald Trump
+- Douglas Hurley
+- Jared Isaacman
+- Jeremy Hansen
+- Joe Biden
+- John Glenn
+- Neil Armstrong
+- Robert Behnken
+- Victor Glover
+organisations:
+- Artemis II
+- Congressional Space Medal of Honor
+- House
+- Johnson Space Center
+- Nasa
+- Senate
 ---
 
 The crew of the historic Artemis II lunar flyby mission have earned the US’s top space medal, officials have announced.

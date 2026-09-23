@@ -12,6 +12,44 @@ image: https://i.guim.co.uk/img/media/64676fb920a4239d768d5b0d0e29d3e8c2e363b2/3
 categories:
 - UK
 - News & Politics
+locations:
+- Americas
+- Caracas
+- China
+- Iran
+- Iraq
+- Lake Maracaibo
+- Latin America
+- Marshall
+- Monroe
+- Orinoco Belt
+- Russia
+- Saudi Arabia
+- US
+- United States
+- Venezuela
+- Washington
+people:
+- Bloomberg
+- Delcy Rodríguez
+- Diosdado Cabello
+- Francisco Rodríguez
+- Gregory Brew
+- James Monroe
+- Luz Mely Reyes
+- María Corina Machado
+- Nicolás Maduro
+- Ricardo Hausmann
+- Trump
+organisations:
+- Anglo-Persian Oil Company
+- Axios
+- BP
+- Brew
+- Eurasia Group
+- Reuters
+- Trump
+- Wall Street Journal
 ---
 
 Reports that the US is preparing to claim a big stake in Venezuela’s massive energy reserves have sparked an outcry, with critics describing the move as “predatory” and a “rapacious” land grab.

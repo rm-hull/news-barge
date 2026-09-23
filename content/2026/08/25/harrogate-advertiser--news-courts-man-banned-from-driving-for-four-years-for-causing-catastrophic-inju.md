@@ -13,6 +13,20 @@ categories:
 - Local
 - Harrogate
 - Automotive
+locations:
+- B1224 York Road
+- D’Arcy Road
+- Leeds General Infirmary
+- Rudgate
+- Selby
+- Wetherby
+people:
+- Georgina Fishwick
+- Jonathan Haigh
+- Kevin Blount
+- Selby
+organisations:
+- Talking Therapy
 ---
 
 # Man banned from driving for four years for causing catastrophic injuries to Wetherby schoolteacher

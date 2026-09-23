@@ -14,6 +14,21 @@ categories:
 - Video Gaming
 - Education & Learning
 - Technology & Software
+locations:
+- England
+- Roehampton
+- UK
+people:
+- Cameron Dray
+- Mark Ellul
+- Pac
+- Thomas Cole
+- Tom Allingham
+organisations:
+- Roehampton University
+- Save the Student
+- Uni
+- University of Roehampton
 ---
 
 ![Six boys from the Roehampton esports team celebrating a win at a competition.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3e70/live/c3634490-9c9c-11f1-a5a0-114ca9d4a1bc.jpg)

@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Bundibugyo
+- Democratic Republic of Congo
+- Ebola
+- France
+- Ituri
+- West Africa
+people:
+- Noemi Dalmonte
+organisations:
+- DRC
+- The Independent
+- The Lancet
+- UN
+- UNFPA
+- United Nations
 ---
 
 Maternal deaths in Ituri province, the epicentre of the Democratic Republic of Congo’s deadliest Ebola epidemic, are surging as the fastest-growing outbreak in history outpaces the health response.

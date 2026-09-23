@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- A66
+- Normanby Road
+- South Bank
+- South Tees Business Park
+- St John the Evangelist Church
+- Teesside
+- cleveland
+people:
+- Cole Robert Worthy
+- Jacob Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Pc Blades
+- Pc Blades’
+- Pc Clough
+- Pc Tom Clough
+- Theo Rae
+organisations:
+- A66
+- Cleveland Police
+- Independent Office for Police Conduct
+- Passat
 ---
 
 *(Image: redcar and cleveland borough council)*

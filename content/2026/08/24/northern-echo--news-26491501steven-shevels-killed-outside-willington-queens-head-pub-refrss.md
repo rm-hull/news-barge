@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Durham
+- Crook
+- Horseshoe Inn
+- New Kings
+- Queen's Head
+- Queen’s Head
+- Rockingham Road
+- Sunnybrow
+- Willington
+people:
+- Angela Greensmith
+- Jolyon Perks
+- Martin Greensmith
+- Paul Rooney
+- Shevel
+- Steven Shevels
+organisations:
+- CCTV
+- DURHAM CONSTABULARY
+- Queen's Head
+- THE NORTHERN ECHO
+- Teesside Crown Court
 ---
 
 A man out for Christmas Eve drinks with family was killed when another pubgoer pushed him over, causing him to smash his head off a concrete path in a Willington beer garden, a court heard.

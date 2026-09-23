@@ -12,6 +12,28 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- California
+- Diddly Squat Farm
+- Hammond
+- Holland
+- Malaysia
+- Sussex
+people:
+- Francis Bourgeois
+- James Engelsman
+- James May
+- Jeremy Clarkson
+- Meghan Markle
+- Richard Hammond
+- Thomas Holland
+organisations:
+- Amazon
+- BBC
+- HMRC
+- Throttle House
+- Top Gear
+- YouTube
 ---
 
 *(Image: PA)*

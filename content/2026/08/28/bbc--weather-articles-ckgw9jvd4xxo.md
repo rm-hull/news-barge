@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Ankara
+- Buckinghamshire
+- Denham
+- Earth
+- Guildford
+- Hampshire
+- Italy
+- Kent
+- Moon
+- North America
+- Petersfield
+- Rocca Calascio
+- Sun
+- Turkey
+- UK
+- White Cliffs
+people:
+- Martin B
+- Moon
+organisations:
+- BBC Weather Watchers
 ---
 
 ![Full moon with a red tinge over the majority of the Moon](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/92d7/live/c076bb30-a2ab-11f1-ab20-f9f4f61e8913.jpg)

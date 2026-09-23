@@ -11,6 +11,55 @@ image: https://static.independent.co.uk/2026/08/25/05/Missing_Indigenous_Reward_
 categories:
 - News & Politics
 - UK
+locations:
+- Albuquerque
+- Arizona
+- California
+- Canyon de Chelly National Monument
+- Flagstaff
+- Indian Country
+- Laguna Pueblo
+- New Mexico
+- Oglala
+- Ohio
+- Phoenix
+- Pine Ridge
+- Pine Ridge Reservation
+- Route 66
+- San Carlos Apache
+- Sawmill
+people:
+- Brooke Brennan
+- Emily Pike
+- Faye Wurstner-Reagan
+- Felicia Fonseca
+- JoDee Carlow
+- Lisa Carlow
+- Lisa Foster
+- Luana Ross
+- Maleeka Boone
+- Mary Kathryn Nagle
+- Matthew Reagan
+- Mona Renee Vallo
+- Patrick Carlow Sr.
+- Philip Reagan
+- Savannah Peters
+organisations:
+- AP
+- Bitterroot Salish
+- Cherokee Nation of Oklahoma
+- Confederated Tribes and Bands
+- FBI
+- Federal Bureau of Investigation
+- GPS
+- Indian Country
+- National Crime Information Center
+- Native Voices
+- Navajo Nation
+- The Associated Press
+- U.S. Bureau of Indian Affairs
+- University of Washington
+- Yakama Nation
 ---
 
 The Federal Bureau of Investigation has established a minimum reward of $25,000 in cases where people went missing or were killed in Indian Country, part of a broader effort to address high rates of violence affecting Native American communities.

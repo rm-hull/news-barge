@@ -14,6 +14,29 @@ categories:
 - UK
 - History
 - Business & Entrepreneurship
+locations:
+- Canada
+- China
+- Michigan
+- Minnesota
+- New York
+- Ontario
+- U.S.
+- United States
+- United States of America
+- Washington
+people:
+- Donald Trump
+- Doug Ford
+- Jamieson Greer
+- Mark Carney
+- Ronald Reagan
+organisations:
+- '## Ford'
+- General Motors
+- Pentagon
+- Stellantis
+- Trump
 ---
 
 Ontario Premier Doug Ford said that Ronald Reagan would be "throwing up" over President Donald Trump’s trade policy as he threatened to cut off electricity and critical minerals to the U.S. as a trade dispute escalates.

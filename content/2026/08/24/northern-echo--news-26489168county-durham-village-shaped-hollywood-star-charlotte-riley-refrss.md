@@ -13,6 +13,40 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Britain
+- County Durham
+- Grindon
+- Hollywood
+- IAN WEST
+- North East
+- PA
+- South Bank
+- The County Durham
+- Wuthering Heights
+people:
+- Catherine Earnshaw
+- Charlotte Riley
+- Grindon
+- Jonathan Strange
+- Mr Norrell
+- Peaky Blinders
+- Tom Cruise
+- Tom Hardy
+- Wuthering Heights
+organisations:
+- Amazon
+- County Durham
+- Dramatic Art
+- Durham Revue
+- Durham University
+- Edge of Tomorrow
+- Game of Thrones
+- ITV
+- LAMDA
+- London Academy of Music
+- Teesside High School
+- The Peripheral
 ---
 
 *(Image: IAN WEST / PA)*

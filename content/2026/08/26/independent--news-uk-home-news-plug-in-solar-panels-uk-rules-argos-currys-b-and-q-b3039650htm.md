@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Home, Garden & DIY
+locations:
+- Germany
+- Iran
+- UK
+people:
+- Desnz
+- Joanna O’Loan
+- Martin McCluskey
+- Miatta Fahnbulleh
+organisations:
+- Amazon
+- Argos
+- Currys, B&Q
+- Energy Saving Trust
+- Government
+- National Landlords Association
+- Screwfix
+- Wickes
 ---
 
 Plug-in solar panels are to go on sale online and in shops as new regulations allowing their sale in the UK come into force.

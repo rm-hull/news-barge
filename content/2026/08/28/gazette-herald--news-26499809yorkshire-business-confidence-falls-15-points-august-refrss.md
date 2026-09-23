@@ -14,6 +14,15 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- UK
+- Yorkshire
+people:
+- Martyn Kendrick
+organisations:
+- Business Barometer
+- Lloyds
+- Yorkshire
 ---
 
 Business confidence in Yorkshire has dropped, despite remaining above the regional average for the past year.

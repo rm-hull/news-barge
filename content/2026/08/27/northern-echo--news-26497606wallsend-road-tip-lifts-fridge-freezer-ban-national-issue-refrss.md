@@ -14,6 +14,12 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- A19
+people: []
+organisations:
+- Household Waste Recycling Centre
+- North Tyneside Council
 ---
 
 *(Image: Google Maps)*

@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Allensway
+- North East
+- Teesside Park
+- Thornaby
+- Yarm Road
+people: []
+organisations:
+- County Durham
+- JD Gym
+- Stockton Council
+- Teesside McDonald's
 ---
 
 McDonald's has given customers a behind-the-scenes look at a major refurbishment of a Teesside restaurant.

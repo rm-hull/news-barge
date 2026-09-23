@@ -13,6 +13,28 @@ categories:
 - Bradford
 - News & Politics
 - Science
+locations:
+- Argentina
+- BBC
+- Latin America
+- Manchester
+- Mexico City
+- Scotland
+- UK
+- Ushuaia
+people:
+- Charlie
+- Jo Gardiner
+- Ms Gardiner
+- Sam
+organisations:
+- BBC
+- JustGiving
+- PA Wire
+- Race Across The World
+- Race Across the World
+- Studio Lambert
+- Volkswagen Golf R
 ---
 
 *(Image: Studio Lambert/BBC/PA Wire)*

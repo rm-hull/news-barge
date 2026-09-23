@@ -10,6 +10,17 @@ image: https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Atlanta
+- Cleveland
+- Rhode Island
+- U.S.
+- United States
+people:
+- Uber
+organisations:
+- TechCrunch
+- Uber Uber
 ---
 
 Uber said Tuesday it is introducing a new live video streaming feature for parents to keep track of their children’s safety during rides. The company said that the feature will roll out across the U.S. nationwide in the coming weeks.

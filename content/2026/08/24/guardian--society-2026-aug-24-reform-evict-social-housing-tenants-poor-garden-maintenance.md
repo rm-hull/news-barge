@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Britain
+- UK
+people:
+- Andy Hulme
+- Lee Anderson
+- Richard Tice
+- Thatcher
+organisations:
+- Hyde
+- Labour
+- Reform UK
 ---
 
 Social housing tenants will be evicted if they fail to keep their gardens well maintained under a Reform UK government, the party has announced.

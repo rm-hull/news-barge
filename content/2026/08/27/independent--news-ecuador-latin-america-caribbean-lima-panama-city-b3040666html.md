@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Caribbean
+- Ecuador
+- Latin America
+- Lima
+- Panama City
+people:
+- Matías Delacroix
+organisations: []
 ---
 
 Hot-air balloons soar over Ecuador’s “Middle of the World,” and other top photos from Latin America and the Caribbean

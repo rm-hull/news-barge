@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - History
 - True Crime
+locations:
+- Cairo
+- Egypt
+- Europe
+- Iran
+- Louvre
+- Messina
+- New York
+- Paris
+- Parma
+- Spain
+- Vienna
+people:
+- Antonello da Messina
+- Consort Nazli
+- Farida
+- Henri Matisse
+- King Farouk
+- Mohammad Reza Pahlavi
+- Mother Nazli
+- Paul Cézanne
+- Pierre-Auguste Renoir
+- Princess Fawzia
+organisations:
+- Europol
+- MAK
+- Museum of Applied Arts
+- Sotheby’s
+- The Kronen
+- Van Cleef & Arpels
 ---
 
 Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was on loan to a museum in Vienna and once belonged to Egyptian royalty.

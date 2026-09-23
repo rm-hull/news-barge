@@ -11,6 +11,11 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations: []
+people:
+- Leslie Mazoch
+organisations:
+- The Associated Press
 ---
 
 Aug. 21 - 27, 2026

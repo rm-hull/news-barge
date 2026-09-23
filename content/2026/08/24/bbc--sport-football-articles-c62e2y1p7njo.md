@@ -12,6 +12,43 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Brazil
+- Craven Cottage
+- England
+- London
+- Stamford Bridge
+- Strasbourg
+people:
+- Antonee Robinson
+- Bernd Leno
+- Christopher Nkunku
+- Cole Palmer
+- Gary Neville
+- Gonzalo Garcia
+- Him
+- Jamie Carragher
+- Joao Pedro
+- Josh King
+- Liam Delap
+- Mike Penders
+- Morgan Rogers
+- Robert Sanchez
+- Timothy Castagne
+- Xabi Alonso
+organisations:
+- Alonso
+- Aston Villa
+- Chelsea
+- Fulham
+- Manchester United
+- Paris St-Germain
+- Premier League
+- Sky Sports
+- Stamford Bridge
+- ex-Liverpool
+- ex-Manchester City
 ---
 
 Palmer shines as Chelsea edge Fulham in Alonso debut win

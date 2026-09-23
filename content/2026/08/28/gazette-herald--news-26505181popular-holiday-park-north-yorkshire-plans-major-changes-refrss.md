@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Filey
+- North Yorkshire
+- Primrose Valley Holiday Park
+- Scarborough
+- YOUR
+people: []
+organisations:
+- Bourne Leisure
+- Google Maps
+- Haven Leisure
+- Highway Authority
+- Newsquest
+- Primrose Valley Holiday Park Entrance
+- Public Notice Portal
 ---
 
 ### What is the Public Notice Portal?

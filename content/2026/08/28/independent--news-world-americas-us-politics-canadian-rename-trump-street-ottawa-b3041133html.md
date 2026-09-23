@@ -10,6 +10,42 @@ image: https://static.independent.co.uk/2026/08/28/16/31/GettyImages-2211537801.
 categories:
 - News & Politics
 - UK
+locations:
+- Beaver Avenue
+- Canada Avenue
+- Canada Goose Avenue
+- Central Park
+- Europe
+- Great Lake
+- Gulf of Mexico Avenue
+- Lake America
+- Lake Ontario
+- Madison Park
+- New York
+- New York City
+- Obama Avenue
+- Ontario Avenue
+- Ottawa City
+- Pelosi Avenue
+- Rosie O'Donnell Avenue
+- Taco Avenue
+- Trump Avenue
+- U.S.
+- Wall Street
+people:
+- Donald Trump
+- Kathy Hochul
+- Mark Carney
+- Mélanie Joly
+- Obama
+- Tim Tierney
+organisations:
+- CNN
+- Gotham Private
+- Obama Avenue
+- Ottawa City Council
+- TACO Avenue
+- Trump
 ---
 
 A city council in Canada is taking a page from the U.S. playbook and plans to rename its street honoring Donald Trump - and to troll him with its new name.

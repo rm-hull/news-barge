@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Fish Quay
+- North Shields
+- Northumbria Police
+- Northumbria Police)*
+people: []
+organisations:
+- Force
+- Northumbria Police
 ---
 
 *(Image: Northumbria Police)*

@@ -11,6 +11,32 @@ image: https://i.guim.co.uk/img/media/f0f61daae96c0b18fd9d4f04df5584588ee4ab64/2
 categories:
 - UK
 - News & Politics
+locations:
+- Birmingham
+- Britain
+- Clacton
+- Europe
+- France
+- London
+- Paris
+people:
+- Christopher Harborne
+- George Cottrell
+- Jordan Bardella
+- Le Pen
+- Marine Le Pen
+- Nigel Farage
+organisations:
+- EU
+- FN
+- Front National
+- Global Radio of LBC
+- Guardian
+- Le Pen
+- National Assembly
+- RN
+- Reform UK
+- Ukip
 ---
 
 The French far-right leader Jordan Bardella is to give a speech at Reform UK’s party conference in Birmingham next week as he attempts to boost international ties before Marine Le Pen’s bid for the French presidency next spring.

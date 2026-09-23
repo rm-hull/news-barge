@@ -12,6 +12,34 @@ image: https://static.independent.co.uk/2026/08/24/01/USS_Lincoln_Soldier_Father
 categories:
 - News & Politics
 - UK
+locations:
+- Brazil
+- Florida
+- Key West
+- Middle East
+- Nicaragua
+- U.S.
+- USS Abraham Lincoln
+- United States
+people:
+- Argelia Aviles
+- Joshua Aviles
+- Joshua Aviles'
+- Katherine Delgado
+- Lincoln
+- Luis Aviles
+- Luis Manuel Aviles
+- Pete Hegseth
+- Trump
+organisations:
+- AP
+- Border Patrol
+- Department of Homeland Security
+- ICE
+- Navy
+- Pentagon
+- Trump
+- USS Lincoln
 ---
 
 When Luis Manuel Aviles was arrested by immigration authorities, his son was entering his ninth month on the USS Abraham Lincoln with the Navy — a vessel that set a U.S. military record for uninterrupted time at sea, stirring concerns about supply shortages and deteriorating mental health among soldiers.

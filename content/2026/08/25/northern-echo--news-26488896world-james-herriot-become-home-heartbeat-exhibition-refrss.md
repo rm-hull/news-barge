@@ -14,6 +14,46 @@ categories:
 - News & Politics
 - Arts & Culture
 - Film & TV
+locations:
+- Aidensfield
+- Goathland
+- Heartbeat Country
+- Herriot Country
+- Hill
+- Kirkgate
+- North York Moors
+- North Yorkshire
+- Thirsk
+- Whitby
+- Yorkshire Dales
+people:
+- Alf Wight
+- Dad
+- David Lonsdale
+- David Stockwell
+- Goathland
+- Ian Ashton
+- James Herriot
+- Jason Bullard
+- Lee Jones
+- Nicholas Rhea
+- Peter N Walker
+- Peter Walker
+- Peter Wright
+- Rhoda Walker
+- Sarah Walker
+organisations:
+- All Creatures Great
+- Heartbeat
+- ITV
+- ITV3
+- Small
+- TV
+- The World
+- World of James Herriot
+- Yorkshire Shepherdess
+- Yorkshire Television
+- Yorkshire Vet
 ---
 
 *(Image: The World of James Herriot)*

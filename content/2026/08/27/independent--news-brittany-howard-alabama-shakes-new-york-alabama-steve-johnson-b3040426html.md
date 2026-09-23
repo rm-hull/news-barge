@@ -14,6 +14,28 @@ categories:
 - UK
 - Music
 - Arts & Culture
+locations:
+- Alabama
+- Tanglewood
+- Tuscaloosa
+people:
+- Alabama Shakes
+- Bo Hicks
+- Brittany Howard
+- Brittany Howards
+- Curtis Mayfield
+- Garden
+- Heath Fogg
+- Justin Eshak
+- Paul Horton
+- Steve Johnson
+- Sure
+- Zac Cockrell
+organisations:
+- Alabama Shakes
+- Druid City Brewing Company
+- Island Records
+- Radio City Music Hall
 ---
 
 Alabama Shakes has returned with the band's first album in 11 years and it turns out that craft beer played a big part in the reunion. Not drinking it, exactly.

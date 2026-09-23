@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Akron
+- California
+- Firestone
+- Ohio
+- Scotland
+- South
+people:
+- Brian Rolapp
+- Golf
+- James
+- LeBron James'
+- Michele Campbell
+- Tiger Woods
+organisations:
+- APGA
+- Advocates Professional Golf Association
+- Black
+- Cleveland Cavaliers
+- Firestone Country Club
+- LeBron James Family Foundation
+- LeBron James Family Foundation Invitational
+- Philadelphia 76ers
 ---
 
 LeBron James' growing passion for golf now includes a partnership with the PGA Tour announced Tuesday that will bring a two-day tournament to Firestone Country Club in his hometown of Akron, Ohio, next summer to connect youth with aspiring professionals.

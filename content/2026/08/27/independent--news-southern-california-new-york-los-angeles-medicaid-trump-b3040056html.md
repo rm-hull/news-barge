@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Arizona
+- Georgia
+- LA County
+- Los Angeles County
+- Minnesota
+- Nevada
+- New York
+- Ohio
+- Somalia
+- Southern California
+- Texas
+- U.S.
+people:
+- Biden
+- Bill Essayli
+- Gavin Newsom
+- Linda Henry
+- Mehmet Oz
+- Rob Bonta
+- Sheila Clark
+- Trump
+organisations:
+- CMS
+- California Hospice and Palliative Care Association
+- Centers for Medicare and Medicaid Services
+- FBI
+- Fortuna Hospice Inc.
+- Justice Department
+- The Associated Press
+- Trump
 ---
 
 At 71 and a few years into retirement, Linda Henry felt like she was in good health, and only went to her doctor in Southern California for the occasional checkup.

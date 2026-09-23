@@ -12,6 +12,27 @@ image: https://static.independent.co.uk/2026/08/28/7/42/Screenshot-2026-08-28-at
 categories:
 - News & Politics
 - UK
+locations:
+- Atlantic
+- Canada
+- Great Lake
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- Pacific
+- U.S.
+- United States
+people:
+- Chris Hayes
+- Haynes
+- Trump
+organisations:
+- Department of the Interior
+- MSNOW
+- Sharpie
+- TikTok
+- Truth Social
 ---
 
 MSNOW anchor Chris Hayes branded President Trump as “deeply pathetic” over the commander-in-chief’s bid to rename Lake Ontario.

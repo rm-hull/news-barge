@@ -14,6 +14,39 @@ categories:
 - News & Politics
 - Automotive
 - True Crime
+locations:
+- South Bank
+- St John the Evangelist Church
+- Teesside
+- cleveland
+people:
+- Cole Robert Worthy
+- Dad
+- Forever
+- Jacob Matusiak
+- Jakub Matusiak
+- Makai Saddington
+- Matt
+- Matthew Blades
+- Michael Robert Cahill
+- Pc Blades
+- Pc Blades’
+- Pc Clough
+- Pc Tom Clough
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- Civil Nuclear Constabulary
+- Cleveland Police
+- Cleveland Police Federation
+- FC Hartlepool
+- Independent Office for Police Conduct
+- Passat
+- Pc Blades
+- Reds
+- Seahawks
+- Seaton Carew FC
 ---
 
 More than £250,000 has been raised for the families of two police officers who died when a car driving the wrong way on a dual carriageway crashed into their vehicle.

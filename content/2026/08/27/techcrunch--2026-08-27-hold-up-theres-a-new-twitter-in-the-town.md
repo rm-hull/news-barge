@@ -11,6 +11,20 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-a
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Delaware
+people:
+- Bluesky
+- Elon Musk
+- Stephen Coates
+organisations:
+- ArsTechnica
+- LinkedIn
+- Operation Bluebird
+- TechCrunch
+- Twitter
+- VERA
+- When X Corp
 ---
 
 You read that right. There is a new social network called “Twitter.now” on the block, and it’s being operated by a startup called Operation Bluebird, whose founding team includes former Twitter trademark counsel Stephen Coates.

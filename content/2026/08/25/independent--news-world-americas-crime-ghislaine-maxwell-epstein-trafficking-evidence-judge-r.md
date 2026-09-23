@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- New York
+- Texas
+people:
+- Donald Trump
+- Ghislaine Maxwell
+- Jeffrey Epstein
+- Paul Engelmayer
+- Todd Blanche
+organisations:
+- Congress
+- Department of Justice
+- Epstein
+- FedEx
+- Fifth Amendment
+- House
+- Independent
+- Justice Department
+- Supreme Court
+- USB
 ---
 
 A federal judge has rejected Ghislaine Maxwell’s “lengthy and rambling” attempt to throw out her sex trafficking convictions after she claimed new evidence released by the Department of Justice in connection with her associate Jeffrey Epstein proved her rights at trial and sentencing were violated.

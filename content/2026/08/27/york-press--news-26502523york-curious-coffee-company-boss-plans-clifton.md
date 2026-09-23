@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- '## York'
+- Brandsby
+- Clifton Green
+- Easingwold
+- Haxby
+- Ukraine
+- YOUR
+- __York
+people:
+- Eddie Copley-Farnell
+organisations:
+- City of York Council
+- Curious Coffee Company
+- LDRS
+- Local Democracy Reporting Service
+- Public Notice Portal
+- The Curious Coffee Company
 ---
 
 ## York business owner's new venture where he grew up and when it could open

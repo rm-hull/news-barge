@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Austin
+- Texas
+people:
+- Callaway
+- Good Good
+organisations:
+- Callaway
+- Dick's Sporting Goods
+- Golf Channel
+- YouTube Golf
 ---
 
 Good Good Golf lost its partnership with Callaway on Thursday and no longer will be title sponsor of a PGA Tour event in November as the fallout continued over a video for a new Callaway driver that showed a man shoving a woman to the ground who was trying to touch the golf club.

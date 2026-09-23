@@ -12,6 +12,16 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- Washington
+people: []
+organisations:
+- Fork
+- Get Tom's Hardware
+- Joy-Cons
+- Nintendo Switch
+- Pro Controllers
+- YouTuber Kouzex
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/rEXj3Bhvdr38acVmX67dZS-320-80.jpg)

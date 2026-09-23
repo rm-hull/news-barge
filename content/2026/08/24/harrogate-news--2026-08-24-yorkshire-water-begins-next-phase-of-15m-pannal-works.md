@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Fulwith Mill Lane
+- Harlow Carr Gardens
+- Harrogate
+- Lady Lane
+- Pannal Green
+- Spring Lane
+- Westminster Drive
+people:
+- Pamela Ajayi
+organisations:
+- Mott MacDonald Bentley
+- Yorkshire Water
 ---
 
 Yorkshire Water is beginning the next phase of its upgrade to wastewater infrastructure in and around Pannal in Harrogate, in support of approved housing developments in the area.

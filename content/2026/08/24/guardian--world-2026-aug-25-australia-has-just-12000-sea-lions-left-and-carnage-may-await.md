@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Argentina
+- Beachport
+- Heard Island
+- Kangaroo Island
+- Limestone Coast
+- Pages Islands
+- Seal Bay
+- South America
+- South Australia
+- Southern Ocean
+- United States
+- Western Australia
+- sub-Antarctica
+people:
+- Alexia Wellbelove
+- Jane Younger
+- John Woinarski
+- Rachael Gray
+organisations:
+- Australian Marine Conservation Society
+- CSIRO
+- Charles Darwin University
+- SA
+- University of Sydney’s School of Veterinary Science
+- University of Tasmania
 ---
 
 Scientists have warned deadly H5 bird flu could cause “carnage” for Australia’s seal and sea lion populations after detection of the virus in long-nosed fur seals in South Australia.

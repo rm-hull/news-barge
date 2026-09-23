@@ -16,6 +16,57 @@ categories:
 - True Crime
 - News & Politics
 - Society & Culture
+locations:
+- A66
+- Cargo Fleet Lane
+- Church Lane
+- Eston
+- Lime Road
+- Longlands Road
+- Middlesbrough
+- Normanby Road
+- Ormesby Road
+- Redcar
+- South Bank
+- Southbank
+- Tees Valley
+- Teesside
+- Teesworks
+- Trunk Road
+people:
+- Andy Burnham
+- Anna Turley
+- Baron Ben Houchen
+- David Taylor
+- Ellie Westerman
+- Jo Shiner
+- Lauren Somerville
+- Matthew Blades
+- Melanie Jones
+- Ms Turley
+- Neil Hutchinson
+- Pc Blades
+- Pc Clough
+- Pc Tom Clough
+- Richard McCarthy
+- Shabana Mahmood
+- Stephen Martin
+- Tom Clough
+- Victoria Fuller
+organisations:
+- A66
+- Cleveland Police
+- Cleveland Police Federation
+- Independent Office for Police Conduct
+- Metropolitan Police
+- PA Wire
+- Pc Blades
+- Pc Clough
+- Police Service of Northern Ireland
+- Sky News
+- Sussex Police
+- The Sun
+- Volkswagen
 ---
 
 # A66 crash: Floral tributes at police guarded scene on Sunday as two "incredibly brave" police officers remembered

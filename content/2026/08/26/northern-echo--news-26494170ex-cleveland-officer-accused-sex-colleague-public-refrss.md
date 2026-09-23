@@ -14,6 +14,15 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Thornaby
+people:
+- Officer X
+organisations:
+- Cleveland Police
+- PC A
+- Professional Standards Department
+- Standards of Professional Behaviour
 ---
 
 *(Image: Cleveland Police)*

@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Hemlington
+- Memorial Garden
+- South Bank
+- South Tees Business Park
+people:
+- Cole Robert Worthy
+- Jacob Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Passat
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- Cleveland Police
+- Cleveland Police HQ
+- Evangelist Church
+- IOPC
+- Independent Office for Police Conduct
+- Passat
+- St John
 ---
 
 The A66 has reopened and more floral tributes have been left at the scene after a horrific crash which killed seven people - including two police officers.

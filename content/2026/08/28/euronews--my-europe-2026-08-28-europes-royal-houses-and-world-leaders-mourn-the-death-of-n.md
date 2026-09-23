@@ -13,6 +13,46 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Belgium
+- Britain
+- Canada
+- Denmark
+- Europe
+- France
+- Italy
+- Jordan
+- Norway
+- Olso
+- Oslo
+- Russia
+- Spain
+- Sweden
+- Ukraine
+people:
+- '** Harald'
+- Abdullah
+- António Guterres
+- Carl XVI Gustaf
+- Charles III
+- Charles R
+- Emmanuel Macron
+- Frederik X
+- Giorgia Meloni
+- Guy Parmelin
+- Haakon
+- Mark Carney
+- Mark Rutte
+- Mathilde
+- Philippe
+- Ursula von der Leyen
+- Volodymyr Zelenskyy
+organisations:
+- EU
+- European Commission
+- NATO
+- Royal Hashemite Court
+- UN
 ---
 
 ## Europe's oldest reigning monarch, King Harald had been in hospital in Oslo since 17 August, suffering from haemolytic anaemia, a condition caused by an abnormally rapid destruction of red blood cells.

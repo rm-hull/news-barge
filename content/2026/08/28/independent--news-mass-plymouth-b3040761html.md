@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Massachusetts
+- U.S.
+people:
+- Callan Clancy
+- Cora
+- Dawson
+- ___ Clancy
+organisations: []
 ---
 
 Jurors in the Lindsay Clancy trial were set Friday to resume determining whether she was responsible for her actions when she killed her three children in 2023.

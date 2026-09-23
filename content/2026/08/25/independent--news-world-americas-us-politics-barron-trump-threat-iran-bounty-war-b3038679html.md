@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Capital One Arena
+- DC
+- Iran
+- Tehran
+- Turkey
+- U.S.
+- Washington
+- White House
+people:
+- Asif Merchant
+- Ayatollah Ali Khamenei
+- Barron Trump
+- Donald Trump
+- Farhad Shakeri
+- Melania Trump
+- Qassem Soleimani
+organisations:
+- Air Force One
+- Capitol
+- Channel 3
+- Euronews
+- HRANA
+- Islamic Revolutionary Guard Corps
+- NATO
+- Newsweek
+- Pentagon
+- Secret Service
+- State of the Union
+- The Independent
+- UFC
 ---
 
 Iranian state media has claimed there is a $10 million bounty on Barron Trump, President Donald Trump’s 20-year-old son, according to a new report nearly six months into the U.S. war with Iran.

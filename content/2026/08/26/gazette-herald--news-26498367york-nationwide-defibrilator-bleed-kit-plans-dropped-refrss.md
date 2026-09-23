@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Parliament Street
+- Steet
+- Ukraine
+- YOUR
+- York
+people: []
+organisations:
+- City of York Council
+- Defibfinder
+- Nationwide Building Society
+- Public Notice Portal
+- Public Notice Portal PLANS
+- St John’s Ambulance
 ---
 
 ### What is the Public Notice Portal?

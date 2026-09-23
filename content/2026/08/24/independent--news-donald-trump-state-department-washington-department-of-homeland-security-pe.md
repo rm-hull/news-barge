@@ -15,6 +15,24 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Middle East
+- U.S.
+- US
+- United States
+people:
+- Christopher Landau
+- Donald Trump
+- Tommy Pigott
+organisations:
+- AP
+- B2
+- Citizen and Immigration Service
+- DHS
+- Department of Homeland Security
+- State Department
+- Supreme Court
+- The Associated Press
 ---
 
 The Trump administration is preparing to revoke the business and tourism visas of up to 200,000 foreigners who have applied for or are currently seeking asylum status in the United States. If it happens, the move would be the largest single mass revocation of visas in U.S. history and would likely face legal challenges.

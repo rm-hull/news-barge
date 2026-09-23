@@ -16,6 +16,23 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Bradford
+- Cleckuddersthorpe
+- Menston
+- Sheffield
+- West Riding
+- Wilsden
+- Yorkshire
+people:
+- Andy Burnham
+- Angela Rayner
+- David Behrens
+- Joe Giddens
+organisations:
+- Cleckuddersthorpe
+- Labour
+- Sheffield
 ---
 
 # The constant erosion of Yorkshire's green belt land has to be stopped - David Behrens

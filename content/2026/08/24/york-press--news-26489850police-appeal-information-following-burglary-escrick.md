@@ -13,6 +13,13 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- Escrick
+- Main Street
+- York
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

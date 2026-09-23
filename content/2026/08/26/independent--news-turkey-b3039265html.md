@@ -13,6 +13,12 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Kocaeli
+- Turkey
+people:
+- Mehmet Durak
+organisations: []
 ---
 
 Father and sons keep a traditional charcoal craft alive, in photos

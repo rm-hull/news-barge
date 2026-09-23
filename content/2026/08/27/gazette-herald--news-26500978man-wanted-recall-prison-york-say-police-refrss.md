@@ -14,6 +14,14 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- North Yorkshire
+- York
+people:
+- Anthony Jackson
+organisations:
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

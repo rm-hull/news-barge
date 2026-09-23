@@ -9,6 +9,25 @@ description: Dreame has cancelled its plans to make a rocket-propelled hypercar
 image: https://cdn.mos.cms.futurecdn.net/DAmHUqV6MUt75r6XYCDtp5-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Carrie Marshall
+- Dreame
+- Elon Musk
+- Xiaomi
+organisations:
+- Apple Car
+- CES
+- Car News China
+- China Economy
+- Dyson Car
+- EV
+- Elektrek
+- Google News
+- Musk
+- SpaceX
+- Unquiet Mind
+- Xiaomi SUV
 ---
 
 ![Dreame car from CES 2026](https://cdn.mos.cms.futurecdn.net/DAmHUqV6MUt75r6XYCDtp5.jpg) 

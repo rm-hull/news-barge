@@ -13,6 +13,36 @@ image: https://static.independent.co.uk/2026/08/24/09/2290824936..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Camp David
+- D.C
+- Iran
+- U.S.
+- White House
+people:
+- Dave Warrington
+- Donald Trump
+- Ed Martin
+- James Braid
+- Jeanine Pirro
+- Karoline Leavitt
+- Kristi Noem
+- Mike Waltz
+- Pam Bondi
+- Pete Hegseth
+- Signalgate
+- Taylor Rogers
+- Tulsi Gabbard
+organisations:
+- Congress
+- House
+- Independent
+- Politico
+- Politico**:*
+- Senate
+- Trump
+- West Wing
 ---
 
 President Donald Trump is bracing for further departures from his top team as the midterms approach, with one former insider saying staffers are considering their next moves because they “see the writing on the wall,” according to a report.

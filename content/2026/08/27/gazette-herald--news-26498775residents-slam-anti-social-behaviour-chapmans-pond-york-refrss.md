@@ -15,6 +15,18 @@ categories:
 - York
 - Health & Fitness
 - Society & Culture
+locations:
+- Chapman's Pond
+- Chapman’s Pond
+- Rowntree Park
+- Woodthorpe
+- York
+people:
+- Cllr Fenton
+- Stephen Fenton
+organisations:
+- Chapman's
+- The Press
 ---
 
 CONCERNS have been raised after anti-social behaviour and overnight camping has caused a York beauty spot to be ‘trashed’.

@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Barnard Avenue
+- Grosvenor Road
+- North East
+- Premier Road
+- Tanya Gardens
+- Teesside
+- The Fairfield
+- Whitton Road
+- YOUR
+people:
+- Paul McQuaid
+organisations:
+- ELG Planning
+- Public Notice Portal
+- Stockton Rugby Club
+- Stockton-on-Tees Borough Council
 ---
 
 ### What is the Public Notice Portal?

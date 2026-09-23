@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- New South Wales
+- Northern Territory
+- Perth
+- Queensland
+- Western Australia
+people:
+- Amanda McKenzie
+- Anthony Albanese
+- Daniel Westerman
+- David Crisafulli
+- Lia Finocchiaro
+organisations:
+- ACT
+- AEMO
+- AI
+- Australian Energy Market Operator
+- Business Council
+- Climate Council
+- Electricity Statement of Opportunities
+- Labor
+- Liberal-National and Country Liberal
+- NT
 ---
 
 Anthony Albanese will seek to use Wednesday’s high-stakes talks with premiers to quell growing unhappiness about national controls on datacentre developments, promising new approval laws will complement state rules.

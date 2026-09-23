@@ -11,6 +11,23 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- Atlanta
+- Georgia
+- Gladys
+- Knight
+people:
+- '![Knight'
+- Gladys Knight
+- God
+- Laura Herlovich
+- Shanga Hankerson
+- William McDowell
+organisations:
+- Rock And Roll Hall Of Fame
+- Rolling Stone
+- The Pips
+- Vocal Group Hall Of Fame
 ---
 
 Gladys Knight has revealed she is scaling back her live concerts as she transitions "into the next stage" of her career and life.

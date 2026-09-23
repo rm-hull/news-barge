@@ -11,6 +11,35 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Asheville
+- California
+- Disneyland
+- Dollywood
+- East Tennessee
+- Kentucky
+- North Carolina
+- Oakland
+people:
+- Andy Warhol
+- Ciarra Jones
+- Dolly Parton
+- Duncan Teater
+- God
+- Jesus
+- Larry King
+- Patrick Burrows
+- Robert F. Thomas Chapel
+organisations:
+- AP
+- Associated Press
+- Harvard Divinity School
+- Interview Magazine
+- LGBTQ
+- Lilly Endowment Inc
+- The Associated Press
+- The Conversation US
+- University of Southern California
 ---
 
 In her 1994 memoir, Dolly Parton recounts in vivid detail the place where she found God.

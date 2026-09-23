@@ -11,6 +11,18 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- '#### Low Moor Lane'
+- Harrogate
+- Hessay
+- Huntington
+- Low Moor Lane
+- Settle
+- York
+people: []
+organisations:
+- Acomb
+- North Yorkshire Fire & Rescue Service
 ---
 
 Firefighters tackled a large field blaze near York last night (Wednesday).

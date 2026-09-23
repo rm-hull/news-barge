@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Harvard
+- NFL
+- New York City
+people:
+- Aaron Hernandez
+- Daniel Daneshvar
+- Frank Gifford
+- Junior Seau
+- Ken Stabler
+- Phillip Adams
+- Shane Tamura
+organisations:
+- American Brain Foundation
+- Boston University
+- CTE
+- Guardian Caps
+- Mass General Brigham and Harvard Medical School
+- NFL Players Association
+- NFLPA
+- New York Times
+- The Independent
 ---
 
 At least one in four NFL players could develop chronic traumatic encephalopathy, a progressive brain disease linked to repeated head impacts, new research suggests.

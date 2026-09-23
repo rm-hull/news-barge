@@ -12,6 +12,36 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Ake & Humphries
+- Beckwith
+- Camwal Playground
+- Dene Park
+- Goole
+- Harrogate
+- Ibiza Symphonica
+- Leeds Road
+- Police Treatment Centre
+- Rossett
+- Showground
+- Starbeck
+- Sun Pavilion
+- Valley Gardens
+people:
+- Elly Griffiths
+- John Whitaker
+- Spofforth
+- Steph McGovern
+- Val McDermid
+organisations:
+- Ashfield Court Care Home
+- Chamber of Commerce
+- Harrogate BID
+- Harrogate Brewing Co.
+- Harrogate Theatre
+- Secondhand Clothing Sale
+- St Michael’s Hospice
+- White Rose Wind Band
 ---
 
 # Mayor of Harrogate column: A busy summer of events

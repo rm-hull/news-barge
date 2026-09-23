@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- Green Belt
+- Jacob’s Wood
+- Silsden
+- Yorkshire
+people:
+- Carter Jonas
+- Henderson
+- Hockings
+- Paul Hocking
+organisations:
+- AZARA GIDA SAN.VE TIC.LTD.ŞTİ
+- Bradford Council
 ---
 
 # Developer ordered to plant 100 new trees and building holiday lets in Yorkshire woodland

@@ -11,6 +11,23 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/411d/live/87b8fe
 categories:
 - UK
 - News & Politics
+locations:
+- London
+- Trafalgar Square
+- UK
+- US
+people:
+- Huda Ammori
+- Scott Bessent
+organisations:
+- BBC
+- Court of Appeal
+- Department of Treasury
+- Palestine Action
+- Supreme Court
+- Trump
+- US Department of the Treasury
+- US Treasury
 ---
 
 ![Palestinian flags in green, red, black and white are fluttering against a backdrop of a demonstration in support of Palestine Action in Trafalgar Square, London, in June 2025](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/411d/live/87b8fe20-a166-11f1-aed2-8d6da8d75094.jpg)

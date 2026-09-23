@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Brunei
+- Central Kalimantan
+- Indonesia
+- Jakarta
+- Malaysia
+- Palembang
+- South Sumatra
+- Southeast Asia
+- West Kalimantan
+people:
+- God
+- Herman Deru
+- Niniek Karmini
+organisations:
+- Environment Ministry
+- Forestry Ministry
+- National Disaster Management Agency
 ---
 
 Authorities in Indonesia’s South Sumatra, the province with the highest number of wildfire hot spots, turned to spiritual measures on Tuesday as huge blazes in central and western regions scorched wide areas of forests and peatland, creating a choking haze that blanketed some cities in the world’s most populous Muslim-majority country.

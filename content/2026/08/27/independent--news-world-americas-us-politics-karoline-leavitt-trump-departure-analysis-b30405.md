@@ -14,6 +14,33 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- Arkansas
+- Butler
+- Capitol Hill
+- Israel
+- New Hampshire
+- New York
+- Pennsylvania
+- White House
+people:
+- Alina Habba
+- Donald Trump
+- Elise Stefanik
+- John Barron
+- Karoline Leavitt
+- Sarah Huckabee Sanders
+- Scott Jennings
+organisations:
+- Associated Press
+- CNN
+- MAGA
+- MAGA, Inc
+- New Hampshire House
+- Oval Office
+- Pentagon
+- State Department
+- Trump
 ---
 
 Among White House reporters and Donald Trump’s staff, there is a running joke about how his top communications aides are completely superfluous because the president would be perfectly happy handling the jobs of White House Press Secretary and Communications Director in addition to his role as chief executive.

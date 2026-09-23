@@ -12,6 +12,15 @@ categories:
 - York
 - Sports
 - Business & Entrepreneurship
+locations:
+- Foss Islands Road
+- York
+people:
+- Ben Robinson-Brockhill
+organisations:
+- Crimestoppers
+- Morrisons
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

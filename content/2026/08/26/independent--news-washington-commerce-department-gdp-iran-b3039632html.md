@@ -14,6 +14,12 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Creator Economy & Marketing
+locations:
+- Iran
+- U.S.
+people: []
+organisations:
+- Commerce Department
 ---
 
 The U.S. economy grew at a sluggish 1.5% pace from April through June. But consumer spending stayed strong.

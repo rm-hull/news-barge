@@ -12,6 +12,11 @@ categories:
 - UK
 - News & Politics
 - History
+locations: []
+people:
+- Dolly Parton
+- Noor Nanji
+organisations: []
 ---
 
 # How Dolly Parton became a fashion icon

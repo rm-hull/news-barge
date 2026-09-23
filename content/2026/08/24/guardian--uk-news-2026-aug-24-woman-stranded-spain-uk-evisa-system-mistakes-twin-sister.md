@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- UK
+people:
+- Monique Hawkins
+- Nidia Webb
+organisations:
+- Guardian
+- Home Office
+- Politico
+- the3million
 ---
 
 A woman who is legally settled in the UK was left stranded at a Spanish airport after the Home Office’s post-Brexit visa system mixed her up with her twin sister.

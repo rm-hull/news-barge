@@ -14,6 +14,45 @@ categories:
 - News & Politics
 - Family & Parenting
 - Society & Culture
+locations:
+- North Yorkshire
+- Our Yorkshire Farm
+- Ravenseat Farm
+- Upper Swaledale
+- Yorkshire Dales
+- Yorkshire Farm
+people:
+- '## Annas Owen Annas'
+- '## Clementine Owen Clementine'
+- '## Edith Owen Edith'
+- '## Miles Owen Miles'
+- '## Nancy Owen Nancy'
+- '## Raven Owen Raven'
+- '## Reuben Owen Reuben'
+- '## Sidney Owen Sidney'
+- '## Violet Owen Violet'
+- Amanda Owen
+- Anty John
+- Clemmie
+- Clive Owen
+- Nellie
+- Owens
+- Ravenseat
+- Reuben Owen
+- Sid
+organisations:
+- Anty John
+- Anty John's
+- Biomedical Science
+- Channel 4
+- Channel 5
+- Clive and Kids
+- More4
+- Our Farm Next Door
+- Our Yorkshire Farm
+- The Yorkshire
+- Wise Owl Films
+- York St John University
 ---
 
 When Our Yorkshire Farm first arrived on Channel 5, viewers watched Amanda and Clive Owen raising nine children in one of the most remote corners of the Yorkshire Dales.

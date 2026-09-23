@@ -13,6 +13,19 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Market Street
+- UK
+people:
+- Alex Paver
+organisations:
+- Aldi
+- Asda
+- Lidl
+- Morrisons
+- Sainsbury’s
+- Tesco
+- Worldpanel
 ---
 
 Morrisons has pledged to customers that it will not be beaten on price by its biggest supermarket rivals on hundreds of everyday products.

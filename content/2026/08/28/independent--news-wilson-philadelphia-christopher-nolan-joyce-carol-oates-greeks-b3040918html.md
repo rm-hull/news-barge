@@ -13,6 +13,52 @@ categories:
 - UK
 - Arts & Culture
 - Society & Culture
+locations:
+- America
+- Elizabethan England
+- France
+- Greece
+- Homer
+- Philadelphia
+- Rome
+- U.S.
+- Wine-Dark Sea
+people:
+- Aeschylus
+- Catullus
+- Christopher Nolan
+- Daniel Mendelsohn
+- Edith Hamilton
+- Emily Wilson
+- Helen of Troy
+- Henry James
+- Homer
+- Joyce Carol Oates
+- Kate Deimling
+- Madeline Miller
+- Martin Luther King
+- Percy Jackson
+- Peter Simon
+- Rick Riordan
+- Robert F. Kennedy
+- Robert Fagles
+- Robert Kennedy
+- Salman Rushdie
+- Stoic
+- WILSON
+- Walt Whitman
+- Zhong Shu
+organisations:
+- AP
+- American Translators Association
+- Cardi B's
+- Liveright Publishing
+- London Review of Books
+- Megan Thee Stallion
+- Penguin Random House
+- The Associated Press
+- University of Pennsylvania
+- Zoom
 ---
 
 If you're among the many readers who learned to love “The Odyssey” through Emily Wilson's 2017 translation, you might be surprised that she's going to translate it again.

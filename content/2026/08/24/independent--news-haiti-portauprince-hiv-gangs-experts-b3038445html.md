@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Caribbean
+- Haiti
+- Kenscoff
+- Latin America
+- Port-au-Prince
+- Puerto Rico
+- San Juan
+- U.S.
+people:
+- Dánica Coto
+- Jean Massillon
+- Jean “Bill” Pape
+- Kenscoff
+- Mathurin Pierre
+- Robert Jean
+- Trump
+- Verti Enold-Saint
+- Viv Ansanm
+organisations:
+- AP
+- Associated Press
+- TPS
+- The Associated Press
+- U.N.
+- U.S. Department of Homeland Security
 ---
 
 A powerful gang coalition attacked a once peaceful farming community nestled in the hills above Haiti’s capital, killing multiple people, an official told The Associated Press on Monday.

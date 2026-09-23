@@ -13,6 +13,19 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Malton
+- Ryedale
+people:
+- Claire Marsh
+- Just
+organisations:
+- Facebook
+- Google
+- Ham and Cheese
+- Scagglethorpe
+- The Press
+- Tripadvisor
 ---
 
 *(Image: NQ)*

@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- England
+- Foundayo
+- Lilly Northern Europe
+- Northampton
+- UK
+- US
+people:
+- Henry Gregg
+- Khalil Asmar
+organisations:
+- Eli Lilly
+- Foundayo
+- MHRA
+- Medicines and Healthcare products Regulatory Agency
+- NHS
+- National Institute for Health and Care Excellence
+- National Pharmacy Association
+- Nice
+- Orforglipron
 ---
 
 A new daily pill that treats diabetes and helps with weight loss will be available in UK pharmacies from Monday.

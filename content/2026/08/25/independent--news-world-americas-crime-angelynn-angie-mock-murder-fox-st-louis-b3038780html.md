@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Kansas
+- St Louis
+- Wichita
+people:
+- '![Mock'
+- Angelynn Mock
+- Anita Avers
+- Barry Avers
+organisations:
+- KSN TV
+- KTVI Fox 2
+- LinkedIn
+- Oxygen.com
+- Sedgwick County District Court
+- Wichita Police Department
 ---
 
 A former news anchor has pleaded guilty to stabbing her mother to death on Halloween morning last year.

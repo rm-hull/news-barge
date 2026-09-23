@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Canada
+- Gaza
+- Iran
+- Israel
+- Strait of Hormuz
+- U.S.
+- Venezuela
+- White House
+people:
+- Marco Rubio
+- Nicolás Maduro
+- Trump
+organisations:
+- Axios
+- Citibank
+- KPMG
+- Reuters
+- State Department
+- The Independent
+- Trump
 ---
 
 The U.S. is reportedly close to cementing a “massive” deal for access to Venezuelan oil fields.

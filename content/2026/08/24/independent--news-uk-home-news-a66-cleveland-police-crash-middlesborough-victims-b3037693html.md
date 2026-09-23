@@ -13,6 +13,58 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- A66
+- Church Lane
+- Cleveland
+- Eston
+- Lime Road
+- Middlesbrough
+- Normanby Road
+- Redcar
+- South Bank
+- Southbank
+- Teesworks
+people:
+- Andy Burnham
+- Anna Turley
+- Cole Robert Worthy
+- Cole Worthy
+- Derrick Campbell
+- Jakub Matusiak
+- Kelly Cahill
+- Lauren Somerville
+- Makai Saddington
+- Matt
+- Matthew Blades
+- Michael Robert Cahill
+- PC Blades’
+- PC Clough
+- Passat
+- Sharon Morgan
+- Theo Rae
+- Tom Clough
+- Victoria Fuller
+- Wayne Fox
+organisations:
+- ?** Cleveland Police
+- A66
+- Cleveland Police
+- Cleveland Police Federation
+- Cleveland Police HQ
+- FC Hartlepool
+- Facebook
+- Great North Air Ambulance Service
+- Hazardous Area Response Team
+- IOPC
+- Independent Office for Police Conduct
+- Middlesbrough
+- PC Blades
+- Seahawks
+- Seaton Carew FC
+- Sky News
+- VW
+- Volvo
 ---
 
 Seven people have died, including two police officers, in a “devastating”car crash following a chase in the early hours of Saturday morning.

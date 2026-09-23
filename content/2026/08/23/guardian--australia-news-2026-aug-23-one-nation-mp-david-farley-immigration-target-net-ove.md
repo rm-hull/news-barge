@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- Australia
+- NSW
+- Pacific
+- Timor-Leste
+people:
+- Angus Taylor
+- Anthony Albanese
+- Barnaby Joyce
+- David Farley
+- Farrer
+- Mehreen Faruqi
+- Pauline Hanson
+- Tony Burke
+organisations:
+- ABC’s Insiders
+- Coalition
+- Greens
+- Labor
+- National Press Club
+- Nom
+- One Nation
+- Pacific Australia Labour Mobility
+- Palm
 ---
 
 One Nation MP David Farley has conceded the minor party’s net migration target is “not too different” to Labor’s, echoing an earlier claim over which he was counselled by his party leader, Pauline Hanson.

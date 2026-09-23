@@ -13,6 +13,43 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Beaver
+- Beavercreek
+- Dayton
+- Fairborn
+- Interstate 70
+- Mickey Mart
+- Mini Mart
+- Ohio
+- Texas
+- Upper Arlington
+people:
+- Austin Collins
+- Brutus Buckeye
+- Buc-ee
+- Bucky the Beaver
+- John Oliver
+- Mike DeWine
+- Mr. Nutterbutter
+- Vic Boparai
+organisations:
+- Associated Press
+- Beaver
+- Beaver's
+- Beavercreek City Council
+- Beavercreek Local Schools
+- Beaver’s Mini Mart
+- Buc-ee's
+- Buc-ee’s Ltd
+- Buckeye
+- GoFundMe
+- Hanes Road Carryout
+- Hope & Love
+- Lego
+- Mini Mart
+- Ohio State University
+- The Original Goodie Shop
 ---
 
 A lip-licking alligator, a smiling moose and a hat-wearing bear are among the many cartoon animals to have found themselves in the crosshairs of Buc-ee’s, the popular Texas convenience store chain that has a penchant for protecting its buck-toothed beaver.

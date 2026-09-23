@@ -14,6 +14,58 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Abraham Lincoln
+- Africa
+- America
+- Arabian Sea
+- Bahrain
+- Central and
+- Diego Garcia
+- Indian Ocean
+- Iran
+- Maldives
+- Middle East
+- Persian Gulf
+- San Diego
+- South Asia
+- South China Sea
+- Tehran
+- U.S.
+- United States
+- White House
+people:
+- Brad Cooper
+- Danielle Rappa
+- Donald Trump
+- George Washington
+- Hung Cao
+- Lincoln
+- Pete Hegseth
+organisations:
+- Associated Press
+- CENTCOM
+- Central Command
+- Fifth Fleet
+- Fox TV
+- George Washington Carrier Strike Group
+- Henry J. Kaiser
+- Lincoln Carrier Strike Group
+- Lincoln*
+- Lincoln*'
+- Marines
+- NBC News
+- Naval Support Activity Bahrain
+- Navy
+- Pentagon
+- The Independent
+- The New York Times
+- The Wall Street Journal
+- The Washington Post
+- U.S. Central Command
+- USS
+- WSJ
+- Washington*'
 ---
 
 The food shortages and other problems that sparked outrage over substandard conditions on the USS *Abraham Lincoln* stemmed from Iranian attacks that devastated a key Navy base on the island nation of Bahrain — leaving the ship to rely on supplies from an outpost about 2,200 miles away.

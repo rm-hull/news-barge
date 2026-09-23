@@ -11,6 +11,60 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Asia
+- Canada
+- Frankfurt
+- Jackson Hole
+- London
+- New York
+- Paris
+- UK
+- US
+- Wall Street
+people:
+- Beth Hammack
+- Carsten Brzeski
+- Christine Lagarde
+- Colette Kress
+- Dan Coatsworth
+- Jensen Huang
+- Kathleen Brooks
+- Kevin Warsh
+- Michelle Ma
+- Susannah Streeter
+organisations:
+- AIM All-Share
+- AJ Bell
+- Alliance News
+- Beowulf Mining
+- CNBC
+- Citigroup
+- Cleveland Federal Reserve
+- Computacenter
+- Croda International
+- ECB
+- Entain
+- European Central Bank
+- Experian
+- Fed
+- Federal Reserve
+- GSK
+- Games Workshop
+- Halfords
+- ING Global
+- London Stock Exchange
+- LondonMetric Property
+- Nvidia
+- Polar Capital Technology Trust
+- Prudential
+- Relx
+- Sage Group
+- Scottish Mortgage Investment Trust
+- Thruvision
+- Treasury
+- Wealth Club
+- XTB
 ---
 
 The FTSE 100 faltered on Thursday despite technology focused stocks getting a boost from Nvidia, with investors wary ahead of Kevin Warsh’s speech at Jackson Hole.

@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- China
+- Cincinnati
+- Gyirong
+- India
+- McMinnville
+- Mount Kailash
+- Nepal
+- St. Louis
+- Tennessee
+- Tibet
+- U.S.
+- Washington
+people:
+- Collin Binkley
+- Donald Trump
+- Jaggi Vasudev
+- Jolene Gosha
+- Matthew Lee
+- Sadhguru
+- Venus Rajnikant Patel
+organisations:
+- ABC News
+- Isha Foundation
+- Isha Institute of Inner-sciences
+- Oval Office
+- U.S. State Department
+- ___ Associated Press
 ---
 
 U.S. officials said about 90 U.S. citizens remained unaccounted for Thursday, a day after catastrophic flash floods engulfed a border area of China and Nepal, killing hundreds of people.

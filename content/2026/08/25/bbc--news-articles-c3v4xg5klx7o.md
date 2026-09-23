@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Canada
+- Great Lakes
+- Hamilton.
+- Lake America
+- Lake Ontario
+- Mexico
+- US
+- US-Canada
+- Washington
+- White House
+people:
+- Claudia Sheinbaum
+- Donald Trump
+- Doug Ford
+- François-Philippe Champagne
+- Marcelo Ebrard
+- Mark Carney
+organisations:
+- ArcelorMittal Dofasco
+- CNN
+- Ford
+- Trump
+- Truth Social
+- USMCA
 ---
 
 ![A Canadian flag visible on the ArcelorMittal Dofasco steel plant in Hamilton.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/e708/live/0a3afb60-a0ad-11f1-a54e-272d756c341e.jpg)

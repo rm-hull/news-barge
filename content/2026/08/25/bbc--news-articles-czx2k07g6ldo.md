@@ -12,6 +12,67 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Appalachia
+- California
+- California.
+- Dollywood
+- East Tennessee
+- England.
+- Glastonbury
+- Grand Ole Opry
+- Grand Ole Opry Dolly Parton
+- Great Smoky Mountains
+- Las Vegas
+- Little Pigeon River
+- Los Angeles
+- Madison Wisconsin.
+- Manchester
+- Midwest
+- Nashville
+- New York
+- Pigeon Forge
+- Scotland
+- Smoky Mountains
+- Texas
+- USA
+people:
+- Burt Reynolds
+- Carl Dean
+- Dabney Coleman
+- Daryl Hannah
+- Dolly Parton
+- Doralee Rhodes
+- Dumb Blonde
+- Hank Williams Jr
+- Jane Fonda
+- Jolene
+- Julia Roberts
+- Kenny Rogers
+- Lily Tomlin
+- Olympia Dukakis
+- Ozzy Osbourne
+- Porter Wagoner
+- Richie Sambora
+- Sally Field
+- Shirley Maclaine
+- Sylvester Stallone
+organisations:
+- Bon Jovi
+- Dallas Cowboys
+- Dallas Cowboys Cheerleaders
+- Dolly Parton
+- Imagination Library
+- Inductee US
+- Microsoft Theatre
+- My People Fund
+- Opry
+- Rock and Roll Hall of Fame
+- Rockstar
+- Sevier County High School
+- US Library of Congress
+- Vanderbilt University Medical Center
+- Washington Commanders
 ---
 
 **Dolly Parton, the country music superstar from the Smoky Mountains of Tennessee, rose from humble beginnings to become one of the most beloved entertainers in the world.** 

@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Africa
+- Congo Basin
+- Democratic Republic of the Congo
+- Guinea Bissau
+- Guinea-Bissau
+- Sierra Leone
+- US
+people:
+- Aula Abbara
+- Michael Marks
+organisations:
+- Atlanta-based Centers for Disease Control and Prevention
+- DRC
+- Imperial College London
+- London School of Hygiene & Tropical Medicine
+- Médecins Sans Frontières UK
+- Unicef
+- University College London
+- WHO
+- World Health Organization
 ---
 
 A fresh outbreak of mpox in Guinea Bissau – the country’s first – means the virus formerly known as monkey pox is back in the headlines. So what has changed?

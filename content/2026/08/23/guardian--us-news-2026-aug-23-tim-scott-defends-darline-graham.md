@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- South Carolina
+- South China Sea
+- Taiwan
+- US
+- United States
+people:
+- Darline Graham
+- Donald Trump
+- Lindsey Graham
+- Ralph Norman
+- Tim Scott
+organisations:
+- Meet the Press
+- NBC
+- Senate
 ---
 
 Tim Scott defended fellow US South Carolina Republican senator Darline Graham’s knowledge of national security issues ahead of their state’s runoff election on Tuesday.

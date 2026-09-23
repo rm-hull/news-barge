@@ -11,6 +11,30 @@ image: https://cdn.mos.cms.futurecdn.net/new7kozVtx7yeGs3pWmbfd-1264-80.png
 categories:
 - Technology & Software
 - Video Gaming
+locations: []
+people:
+- Claude Code
+- Rahim Amir
+organisations:
+- Anthropic
+- Chosun Biz
+- Claude Code
+- DRAM
+- Google Gemini
+- Google News
+- KR
+- OpenAI
+- PC
+- PCs
+- Qualcomm
+- RGB
+- RTL
+- SFF
+- Samsung System LSI division
+- SoC
+- System LSI
+- System LSI division
+- TechRadar Pro
 ---
 
 ![Samsung Logo](https://cdn.mos.cms.futurecdn.net/new7kozVtx7yeGs3pWmbfd.png) 

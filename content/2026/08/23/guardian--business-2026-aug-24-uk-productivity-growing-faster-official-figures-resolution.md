@@ -14,6 +14,21 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Britain
+- Iran
+- UK
+people:
+- Bruna Skarica
+- John Healey
+- John Van Reenen
+- Rachel Reeves
+- Simon Pittaway
+organisations:
+- G7
+- London School of Economics
+- Morgan Stanley
+- Resolution Foundation
 ---
 
 Productivity in the UK – a vital measure of economic health – is growing more strongly than official figures suggest, according to analysis from the Resolution Foundation.

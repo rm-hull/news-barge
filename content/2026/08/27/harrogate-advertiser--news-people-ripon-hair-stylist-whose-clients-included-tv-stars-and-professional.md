@@ -13,6 +13,21 @@ categories:
 - Local
 - Harrogate
 - Lifestyle & Fashion
+locations:
+- Bedale
+- Crakehall
+- Eastern Europe
+- London
+- Manchester
+- North Yorkshire
+- UK
+people:
+- Jake Quickenden
+- Kylie Hammond
+organisations:
+- AO Arena
+- FAKE
+- TV
 ---
 
 # Ripon hair stylist whose clients included TV stars and professional models wins top UK award

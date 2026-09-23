@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Australia
+- Brazil
+- Canada
+- Indonesia
+- New Zealand
+people:
+- Chris Hipkins
+- Christopher Luxon
+organisations:
+- AI
+- Copilot
+- Facebook
+- Gemini
+- Instagram
+- Labour
+- Luxon
+- NZ First
+- National — libertarian ACT
+- Snapchat
+- TikTok
 ---
 
 New Zealand's Prime Minister Christopher Luxon has unveiled a proposed law banning children younger than 16 from using social media platforms, citing what he said Monday was “harm being done to a generation” of young people.

@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Atlantic ocean
+- Australia
+- Las Vegas
+- Las Vegas.
+- T-Mobile Arena
+people:
+- Conor Benn
+- Devin
+- Haney
+- Jack Catterall
+- Liam Paro
+- Rolando Romero
+- Rolly Romero
+- Rolly' Romero
+- Ryan Garcia
+- Shakur Stevenson
+- Teofimo Lopez
+organisations:
+- Chorley
+- IBF
+- WBA
+- WBC
+- WBO
 ---
 
 ![Rolly Romero is punched in the face by Teofimo Lopez](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8e9c/live/c7dd59a0-9ece-11f1-8957-ef757d61d645.jpg)

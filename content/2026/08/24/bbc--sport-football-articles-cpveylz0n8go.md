@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Egypt
+- Etihad Stadium
+- Newcastle
+people:
+- Allan Elias
+- Nico Gonzalez
+- Omar Marmoush
+- Savinho
+organisations:
+- Manchester Cityhave
+- Palmeiras
+- Palmeiras'
+- Spurs
+- Tottenham
 ---
 
 ![Allan Elias walking onto the pitch before a Palmeiras game.](https://ichef.bbci.co.uk/ace/standard/888/cpsprodpb/9cce/live/de1cd070-9fea-11f1-8f6f-6b425335bd44.jpg)

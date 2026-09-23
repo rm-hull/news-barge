@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Amboseli National Park
+- Kenya
+- Kimana Sanctuary
+- Kuku Ranch
+- Loitoktok
+- Mount Kilimanjaro
+- Nairobi
+- Tikondo
+people: []
+organisations:
+- KWS
+- Kenya Wildlife Service
 ---
 
 Four suspects have been arrested by police investigating the deaths of 18 elephants in Kenya's Amboseli ecosystem, where officials also seized various materials including chemicals, the tourism and wildlife ministry said.

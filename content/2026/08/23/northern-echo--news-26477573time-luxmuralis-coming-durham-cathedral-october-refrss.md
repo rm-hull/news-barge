@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Chapter House
+- Durham Cathedral
+- Galilee Chapel
+- North Door
+- North East
+people:
+- Steve Watson
+organisations:
+- Darlington
+- Durham Cathedral
+- Luxmuralis
+- Time’
 ---
 
 Visitors will be able to travel through wormholes, explore the mysteries of time and watch Durham Cathedral transformed by light and sound when Luxmuralis returns this autumn.

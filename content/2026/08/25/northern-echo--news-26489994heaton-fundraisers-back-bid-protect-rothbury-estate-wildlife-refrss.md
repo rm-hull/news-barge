@@ -13,6 +13,50 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Britain
+- Druridge Bay
+- Heaton
+- Jesmond Dene
+- Nev
+- Newcastle
+- North East
+- North East Darlington
+- North Tyneside
+- Northumberland
+- River Coquet
+- Rothbury Estate
+- Simonside Hills
+people:
+- Andrew Mills
+- Curvy Sounds
+- Jess Mills
+- Kate Dickinson
+- Lord Armstrong
+- Mike Pratt
+- Nev Clay
+organisations:
+- 10ten
+- Body Image Fitness
+- Curvy Sounds
+- Davidson Optometrists
+- Maxïmo Park
+- Newcastle
+- Northumberland National Trust
+- Northumberland Wildlife Trust
+- Querido
+- Rothbury
+- Simonside
+- Smoke and Sear
+- The Artichoke Gift Shop
+- The Barn Door
+- The Butterfly Cabinet
+- The Dog Grocers
+- The Handsome Sandwich
+- The Last Resort
+- The Rockbury Estate
+- The Tipsy Toad
+- The Wildlife Trusts
 ---
 
 A North East community has rallied behind a campaign to protect a treasured estate for wildlife, with businesses and residents helping to raise funds for an ambitious conservation project.

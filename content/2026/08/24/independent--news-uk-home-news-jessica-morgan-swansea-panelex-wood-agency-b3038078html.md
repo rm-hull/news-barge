@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Swansea
+people:
+- '"[Panelex'
+- Alys Williams
+- Costa
+- Frederick Geraint Hawkes
+- Jess
+- Jessica Morgan
+- Ms Morgan
+organisations:
+- Ms Morgan
+- Panelex Wood Agency
 ---
 
 A pregnant saleswoman was the victim of discrimination when her colleague told her "nobody wants to see a pregnant woman", a tribunal ruled.

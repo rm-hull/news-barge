@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Camp East Montana
+- Fort Bliss
+- Honduras
+- Texas
+- U.S.
+- US
+- Walmart
+people:
+- '![Villafranca-Trejo'
+- Cristy Maryori Villafranca-Trejo
+- Dan Gividen
+- Donald Trump
+- Hedar Leonel Turcios Juarez
+- JP Caballero
+- Turcios Juarez
+- Veronica Escobar
+organisations:
+- AP
+- Army
+- Associated Press
+- Board of Immigration Appeals
+- DHS
+- El Paso
+- ICE
+- Trump
+- U.S Immigration and Customs Enforcement
+- U.S. Department of Homeland Security
+- Villafranca-Trejo
 ---
 
 Federal authorities deported the wife of an active-duty U.S. soldier to her native Honduras on Monday, family members and the U.S. Department of Homeland Security confirmed.

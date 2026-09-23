@@ -12,6 +12,18 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Church Houses
+- Dales
+- Farndale
+- North York Moors National Park
+- St Mary’s Church
+people:
+- Jarvis Browning Blacksmith
+organisations:
+- Commondale Wool Spinners
+- Feversham Arms Inn
+- Quoits
 ---
 
 A traditional country show is returning for its 117th year.

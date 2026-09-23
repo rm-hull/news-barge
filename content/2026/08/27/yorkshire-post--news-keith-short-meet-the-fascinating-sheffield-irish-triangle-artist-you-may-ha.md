@@ -14,6 +14,36 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Cork
+- Fagan’s
+- Ireland
+- Keith
+- Land’s End
+- Sheffield
+- Tenter Street
+- Trippet Lane
+- Yorkshire
+people:
+- Alex Turner
+- Ann Flynn
+- Big Jack’
+- Christopher Hallam
+- Fagan
+- God
+- John Dowling
+- John O’Groats
+- Keith Short
+- Keith’s
+- Sheffield
+- Theresa
+organisations:
+- Arctic Monkeys
+- Dog & Partridge
+- Dog and Partridge
+- Guinness
+- Sheffield
+- The Grapes
 ---
 
 # Keith Short: Meet the fascinating Sheffield 'Irish Triangle' artist you may have seen doodling in pubs like The Grapes

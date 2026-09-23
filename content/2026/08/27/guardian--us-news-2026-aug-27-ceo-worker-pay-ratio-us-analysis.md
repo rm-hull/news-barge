@@ -14,6 +14,24 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- US
+people:
+- Doug McMillan
+- Ernie Garcia II
+- Ernie Garcia III
+- Jeff Bezos
+- Mackenzie Scott
+- Sarah Anderson
+organisations:
+- Amazon
+- Carvana
+- Global Economy Project
+- ICE
+- IPS
+- Institute for Policy Studies
+- Walmart
+- Walton
 ---
 
 The average CEO of the US’s 100 largest, lowest-paying corporations earned 614 times more than their average worker last year, according to an analysis by the Institute for Policy Studies (IPS).

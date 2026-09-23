@@ -11,6 +11,30 @@ image: https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Norway
+- West Virginia
+people:
+- Bloomberg
+- Elon Musk
+- Sam Altman
+organisations:
+- AI
+- AMD
+- Amazon
+- Anthropic
+- Bloomberg
+- Broadcom
+- Google
+- Meta
+- Microsoft
+- Nscale
+- Nvidia
+- OpenAI
+- SpaceX
+- TechCrunch
+- Vera Rubin
+- Volta —
 ---
 
 Anthropic has signed a deal to rent about $45 billion in AI compute from Nscale, a British AI infrastructure company, a source familiar with the deal told TechCrunch.

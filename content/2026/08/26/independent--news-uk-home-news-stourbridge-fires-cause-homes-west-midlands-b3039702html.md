@@ -11,6 +11,22 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Britain
+- England
+- Quarry Park Road
+- Racecourse Lane
+- Stourbridge
+- UK
+- Wales
+- West Midlands
+- Worcester Lane
+people:
+- Andy Burnham
+- Simon Tuhill
+organisations:
+- West Midlands Fire Service
+- West Midlands Police
 ---
 
 Two fires that destroyed 19 homes in Stourbridge were started accidentally in a field where agricultural machinery was being used, West Midlands Fire Service said.

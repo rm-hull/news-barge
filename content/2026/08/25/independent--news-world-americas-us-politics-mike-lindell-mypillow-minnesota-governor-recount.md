@@ -12,6 +12,28 @@ image: https://static.independent.co.uk/2026/08/25/13/2026-08-11T060008Z_1954719
 categories:
 - News & Politics
 - UK
+locations:
+- Minnesota
+- North Star State
+- Texas
+people:
+- Alex Plechash
+- Ariana Baio
+- Cassondra Knudson
+- Donald Trump
+- Joe Biden
+- Lisa Demuth
+- Mike Lindell
+- Steve Simon
+organisations:
+- Dominion Voting Systems
+- MAGA
+- Minnesota House
+- Minnesota Star Tribune
+- MyPillow
+- Smartmatic
+- State Canvassing Board
+- Truth Social
 ---
 
 Mike Lindell, the MyPillow founder and election conspiracy theorist who lost the Republican Minnesota governor’s primary race, has missed the deadline to post funds for the recount that he demanded.

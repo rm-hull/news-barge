@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Colchester
+- Essex
+people:
+- Craig Stephens
+- Pebbles
+- Sarah Perry
+organisations:
+- Essex Students’ Union
+- Pebbles
+- University of Essex
 ---
 
 Pebbles, the unofficial mascot of the University of Essex’s Colchester campus, has died.

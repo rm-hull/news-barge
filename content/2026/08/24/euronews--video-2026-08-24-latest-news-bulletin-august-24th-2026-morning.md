@@ -12,6 +12,38 @@ image: https://images.euronews.com/articles/stories/09/88/54/31/1200x675_cmsv2_2
 categories:
 - Europe
 - News & Politics
+locations:
+- Argentina
+- Baboua
+- Belgium
+- Bunia General Hospital
+- Central African Republic
+- Dnipropetrovsk
+- Ebola
+- Europe
+- Kyiv
+- Lombardy
+- London
+- Palazzo Pubblico
+- Poelkapelle
+- San Marino
+- Spain
+- Ukraine
+- Waimes
+- White House
+people:
+- Alice Mina
+- Donald Trump
+- Erling Haaland
+- Gavi
+- Leandro Paredes
+- Liev Schreiber
+- Vladimiro Selva
+organisations:
+- DOVO
+- Euronews
+- Shell
+- UNITED24
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - History
+locations:
+- London King's Cross
+- North Yorkshire
+- Peterborough
+- York
+people: []
+organisations:
+- :** A
+- British Transport Police
+- CALM Helpline
+- Customer Solutions Team
+- Instagram
+- LNER
+- Newsquest
+- The Campaign Against Living Miserably
+- The Samaritans
 ---
 
 ## London to York rail services disrupted after person hit by train

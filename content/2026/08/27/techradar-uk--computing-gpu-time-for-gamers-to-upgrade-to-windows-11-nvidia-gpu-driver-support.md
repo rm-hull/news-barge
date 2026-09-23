@@ -12,6 +12,23 @@ image: https://cdn.mos.cms.futurecdn.net/gYocvkPAnx8FcKQz6eTGsa-2560-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations: []
+people:
+- Team Green
+- VideoCardz
+organisations:
+- Game Ready Driver
+- Google News
+- Hachette UK
+- Microsoft
+- Nvidia GPU
+- RAM
+- Razer Blade
+- Reddit
+- Redditor
+- TPM
+- Team Green
+- TechRadar
 ---
 
 ![Confused PC gamer looking at screen](https://cdn.mos.cms.futurecdn.net/gYocvkPAnx8FcKQz6eTGsa.jpg) 

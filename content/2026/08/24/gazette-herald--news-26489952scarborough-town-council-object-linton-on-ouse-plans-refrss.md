@@ -14,6 +14,23 @@ categories:
 - York
 - History
 - News & Politics
+locations:
+- Linton-on-Ouse
+- North Yorkshire
+- RAF
+- Scarborough
+- York
+people:
+- David Skaith
+- Rich Maw
+organisations:
+- Government
+- Home Office
+- Labour
+- North Yorkshire Council
+- RAF Linton-on-Ouse
+- Reform-led Scarborough Town Council
+- Scarborough Town Council
 ---
 
 PLANS to house people seeking asylum at a former North Yorkshire military base are set to be opposed by a Reform-led council about 50 miles away

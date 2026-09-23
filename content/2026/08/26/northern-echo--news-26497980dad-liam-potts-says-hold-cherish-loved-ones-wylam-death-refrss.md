@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- County Durham
+- North East
+- Northumbria Police
+- River Tyne
+- Wylam Bridge
+people:
+- '** Boy'
+- Freddie
+- Liam Potts
+- Nulli Secundus’
+- Paul Potts
+- Smile
+organisations:
+- British Army
+- Marine Unit
+- North News & Pictures Ltd
+- North of Tyne Mountain Rescue Team
+- Northumbria Police
+- Police Federation
 ---
 
 The father of soldier Liam Potts has urged people to “hold, cuddle, and cherish your loved ones” in an emotional tribute following the 22-year-old’s death.

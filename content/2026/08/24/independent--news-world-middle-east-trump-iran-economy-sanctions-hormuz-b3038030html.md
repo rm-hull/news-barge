@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Beijing
+- Central Asia
+- Chatham House
+- China
+- Iran
+- Iraq
+- Malaysia
+- Musandam
+- Oman
+- Pakistan
+- Persian Gulf
+- Russia
+- Strait of Hormuz
+- Tehran
+- Türkiye
+- U.S.
+- UAE
+- US
+- Wall Street
+- Washington
+people:
+- Abbas Araghchi
+- Donald Trump
+- Mohsen Rezaei
+- Neil Quilliam
+- Scott Bessent
+organisations:
+- Fars
+- Financial Times
+- Senate
+- Supreme Court
+- Treasury
+- Trump
+- U.S. House of Representatives
 ---
 
 The U.S. is set to unveil its plan for the “toughest sanctions in history” against Tehran on Monday after days of threats about an “economic D-Day”.

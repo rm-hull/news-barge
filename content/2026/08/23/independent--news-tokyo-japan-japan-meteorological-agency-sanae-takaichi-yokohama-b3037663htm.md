@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Chiba
+- Ibaraki
+- Japan
+- Kanagawa
+- Koto
+- Kumamoto
+- Kyushu
+- Mito
+- Narita Airport
+- Saitama
+- Shinkansen
+- Taito
+- Tokyo
+- Yokohama
+people:
+- Sanae Takaichi
+organisations:
+- Asahi
+- East Japan Raiway Co.
+- Fire and Disaster Management Agency
+- Japan Meteorological Agency
+- NHK
+- Nuclear Regulation Authority
+- U.S. Geological Survey
+- Yomiuri
 ---
 
 A moderate earthquake rattled eastern Japan, including the Tokyo area, early Sunday, injuring more than 30 people, most of them lightly, officials said. There was no danger of a tsunami.

@@ -13,6 +13,42 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Albert Square
+- EastEnders
+- Walford
+people:
+- '## Lee'
+- Christopher Colquhoun
+- Danny Dyer
+- Danny-Boy Hatchard
+- Darnell Larson Jr
+- Dean Wicks
+- Denise Fox
+- Diane Parish
+- EastEnders Ben Wadey
+- Enders
+- Eve Unwin
+- Grace
+- Heather Peace
+- Jack Barns
+- Jake Wood
+- Kellie Bright
+- Kieron McCarron
+- Krysstina Frempong
+- Lee Carter
+- Linda Carter
+- Maddy Hill
+- Max Branning
+- Mick
+- Nancy Carter
+- Robert Kazinsky
+- Sean Slater
+- Suki Panesar
+organisations:
+- BBC
+- Balvinder Sopal
+- EastEnders
 ---
 
 *(Image: BBC/Jack Barns/Kieron McCarron)*

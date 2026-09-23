@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- BP Edenhouse Road
+- BP Welham Road
+- Eden Service Station
+- Malton
+people: []
+organisations:
+- BP Pickering
+- Clifton Service Station
+- Gulf Malton
+- Jet Malton (J B Motors
+- Malton Road Garage
+- SPAR Pickering
+- Vale Motors Filling Station
 ---
 
 *(Image: Archive)*

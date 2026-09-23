@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Atlantic
+- Canada
+- Mexico
+- North America
+- Ontario
+- Oregon
+- Portland
+- Quebec
+- US
+- US-Canada
+people:
+- Ana Faguy
+- Donald Trump
+- Doug Ford
+- Jamieson Greer
+- Kim Osgood
+- Mark Carney
+- Mark Carney Canadian
+- Mike Roach
+organisations:
+- BBC
+- Brewery
+- CNBC
+- Canadian Coast Guard
+- Ford
+- Oxford Economics
+- Paloma Clothing
+- Trump
+- Truth Social
+- USMCA
 ---
 
 Watch: "Absolutely ridiculous": Canadians react to new tariff tensions with the US

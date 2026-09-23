@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- Newton Aycliffe
+- North East
+- North Yorkshire
+people:
+- Carol
+- Graham Barker
+- Kathleen
+organisations:
+- PCC
+- Pioneering Care Centre
+- Velcro
 ---
 
 *(Image: Supplied)*

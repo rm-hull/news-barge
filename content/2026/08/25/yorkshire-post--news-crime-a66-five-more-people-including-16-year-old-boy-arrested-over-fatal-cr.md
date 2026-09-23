@@ -15,6 +15,46 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- A66
+- Foxrush Court
+- Micklow Close
+- Middlesbrough
+- Redcar
+- South Bank
+- Teesside Crown Court
+- Teesside Magistrates’ Court
+people:
+- Cameron George
+- Cole Robert Worthy
+- Jacob Matusiak
+- Kai Beattie
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- PC Blades’
+- PC Clough
+- Paul Williams
+- Pc Matthew Blades
+- Richard McCarthy
+- Theo Rae
+- Tom Clough
+- Wayne Fox
+organisations:
+- A66
+- BBC Breakfast
+- Civil Nuclear Constabulary
+- Cleveland Police
+- Cleveland Police Federation
+- Independent Office for Police Conduct
+- National Crime Agency
+- North East Regional Organised Crime Unit
+- PA Wire
+- PC Blades
+- PC Clough
+- Police Federation of England and Wales
+- Teesside Magistrates’ Court
+- Volvo
 ---
 
 # A66: Five more people - including 16-year-old boy - arrested over fatal crash

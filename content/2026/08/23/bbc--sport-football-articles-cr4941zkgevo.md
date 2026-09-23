@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Sweden
+people:
+- Enzo Maresca
+- Erling Haaland
+- Gareth Bale
+- Jack Grealish
+- Oasis' Noel Gallagher
+- Pep Guardiola
+- Zlatan Ibrahimovic
+organisations:
+- 26‑year‑old
+- Borussia Dortmund
+- Bournemouth
+- Haaland
+- Manchester City
 ---
 
 ![Composite of Erling Haaland with long hair next to a more recent image of his shorter buzz cut haircut](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/0010/live/8943d720-9ee5-11f1-b109-879e35c24276.png)

@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - History
 - Personal Finance & Investing
+locations:
+- Royal Artillery
+- Truro
+- UK
+people:
+- Adam Clarkson
+- Andrew Thorburn
+- Barrie Goodwin
+- Elaine Doran
+- Equiniti
+- Penny Mordaunt
+- Ray Lawton
+organisations:
+- BBC Your Voice
+- EDP
+- Early Departure Payments
+- Equiniti
+- Forces Pension Society
+- Ministry of Defence
+- MoD
+- National Insurance
+- PSO
+- Pension Sharing Orders
+- RAF
+- Royal Artillery
+- Royal Navy
+- SPA
+- Sopra Steria
+- State Pension Age
 ---
 
 ![An older man wearing glasses, a dark suit and striped tie sits on a purple sofa in a living room, looking towards the camera.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/2a26/live/e0fbfd20-a2bf-11f1-a291-b542ee92de7c.png)

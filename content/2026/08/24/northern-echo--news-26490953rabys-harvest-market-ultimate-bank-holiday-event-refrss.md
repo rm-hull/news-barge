@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Bloom
+- County Durham
+- Darlington
+- Dutch Barn
+- Hidden Forest
+- North East
+- Raby Castle
+- Raby Estate
+- Raby's Deer Park
+- TRACY KIDD
+- The Plotters' Forest
+people:
+- Raby
+- Sophie Brown
+- TRACY KIDD
+organisations:
+- Durham
+- Gardens' Harvest Food and Gift Market
+- Harvest Food and Gift Market
+- Raby Castle
+- Riding School
+- The Light
+- The Vinery Café
+- Walled Gardens
 ---
 
 Food lovers, families and shoppers will descend on one of County Durham's best-known destinations this Bank Holiday weekend for the return of a major event.

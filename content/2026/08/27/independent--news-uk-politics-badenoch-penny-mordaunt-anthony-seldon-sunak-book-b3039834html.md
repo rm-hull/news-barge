@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- Britain
+- Europe
+- Portsmouth North
+- UK
+people:
+- Anthony Seldon
+- Charles
+- Charles’
+- Dame Penny
+- Grant Shapps
+- Kemi Badenoch
+- Ms Badenoch
+- Ms Ms Badenoch
+- Penny Mordaunt
+- Rishi Sunak
+- Tom Egerton
+organisations:
+- Atlantic Books
+- Commons
+- Conservative HQ
+- Council
+- ECHR
+- European Court of Human Rights
+- Tory
 ---
 
 The row over reports that Kemi Badenoch is blocking a Commons return by Dame Penny Mordaunt has taken a new twist after a claim that the Tory leader is “jealous” of the “charismatic” ex-defence secretary.

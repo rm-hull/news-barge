@@ -13,6 +13,25 @@ categories:
 - UK
 - Education & Learning
 - Society & Culture
+locations:
+- Britain
+- Neet
+- UK
+- Whitehall
+people:
+- Alan Milburn
+- Henry Parkes
+- Lindsay Judge
+- Pat McFadden
+organisations:
+- IPPR
+- Institute For Public Policy Research
+- Labour
+- Milburn Review
+- Neets
+- Office for National Statistics
+- Resolution Foundation
+- The Jobs Guarantee
 ---
 
 The scale of young people not in education, employment or training is a “scar on this country”, an expert has said despite new figures showing the number of Neets has fallen by 30,000.

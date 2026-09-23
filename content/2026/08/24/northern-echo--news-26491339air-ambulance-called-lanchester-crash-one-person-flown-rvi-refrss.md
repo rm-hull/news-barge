@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Burnhopeside Avenue
+- Durham
+- Lanchester
+- Newcastle
+- Perth Bank
+- Royal Victoria Infirmary
+people:
+- Heartbroken
+- Matthew Blades
+organisations:
+- Durham Police
+- Great North Air Ambulance Service
+- North East Ambulance Service
+- Perth Bank
+- RVI
+- The Great North Air Ambulance Service
 ---
 
 *(Image: NORTHERN ECHO)*

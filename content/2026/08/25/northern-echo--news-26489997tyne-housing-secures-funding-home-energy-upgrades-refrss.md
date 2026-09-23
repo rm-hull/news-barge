@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Darlington
+- Middlesbrough
+- North East
+- Tyneside
+- UK
+- Yorkshire
+people:
+- Karen Oliver Spry
+- Kim McGuinness
+- Steve McKinlay
+organisations:
+- DESNZ
+- Department for Energy Security and Net Zero
+- Department of Energy Security
+- EPC
+- 'Government’s Warm Homes: Social Housing Fund'
+- Net Zero
+- Prosper
+- Social Housing Fund
+- Tyne Housing
+- Warm Homes Plan
+- Yorkshire Net Zero Hub
 ---
 
 *(Image: Supplied)*

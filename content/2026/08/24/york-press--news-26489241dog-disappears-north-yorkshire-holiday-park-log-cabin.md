@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Cropton Forest Holiday Park
+- Cropton Forest Park
+- Pickering
+- Sunderland
+people:
+- Crumb
+- Louie
+- Susan
+organisations:
+- Crumb
+- Drone Star
+- GPS
 ---
 
 ## Dog disappears from log cabin with urgent appeal for information

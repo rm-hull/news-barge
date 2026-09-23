@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- AirBnB
+- Marton-cum-Grafton
+- North Yorkshire
+people:
+- Arnold Warneken
+- Coun Wakneken
+- Coun Warneken
+organisations:
+- North Yorkshire Green
+- North Yorkshire Greens
+- Punch Bowl Inn
+- Yorkshire Water
 ---
 
 # Yorkshire Water apologises after families forced to wash in swimming pool changing rooms due to water shortages

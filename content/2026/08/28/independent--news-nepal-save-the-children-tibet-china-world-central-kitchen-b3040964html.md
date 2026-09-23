@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Nepal
+- Nepal-China
+- U.S.
+people:
+- Dan Hovey
+organisations:
+- AP
+- Caritas Nepal
+- Catholic Relief Services
+- Chef Jose Andres’
+- Direct Relief
+- Global Giving
+- Humanity & Inclusion
+- Lilly Endowment Inc
+- Nepal All Hands & Hearts
+- Nepal Flood Relief Fund
+- The Conversation US
+- World Central Kitchen
 ---
 
 As rescue teams continue searching for hundreds of people missing along the Nepal-China border following catastrophic floods, humanitarian organizations are mobilizing to aid survivors.

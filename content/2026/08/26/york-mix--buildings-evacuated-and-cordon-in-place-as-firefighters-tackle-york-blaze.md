@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Crossfield Crescent
+- Fulford
+- Fulford**
+- York
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Police
 ---
 
 There’s a cordon in place on a York street as firefighters tackle a fire this afternoon (Wednesday).

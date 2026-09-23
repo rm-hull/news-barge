@@ -12,6 +12,15 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Greater Manchester
+- Leeds
+- West Yorkshire
+people:
+- Joyous
+organisations:
+- West Yorkshire Police
+- West Yorkshire Police)* Police
 ---
 
 *(Image: West Yorkshire Police)*

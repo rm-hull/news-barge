@@ -14,6 +14,24 @@ categories:
 - York
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- '**York'
+- England
+- North Yorkshire
+- Smarter Yorkshire
+- UK
+- York
+people:
+- Dharmendra Shadija
+- Jessica Armitage
+organisations:
+- Made Smarter Yorkshire
+- NCSC
+- NIGEL BARKER PHOTOGRAPHY LTD
+- SME
+- School of Computing and Digital Technologies
+- Sheffield Hallam University
+- The National Cyber Security Centre
 ---
 
 Small and medium-sized manufacturers are being offered fully funded cyber security support to help protect their operations from growing digital threats.

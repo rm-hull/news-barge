@@ -14,6 +14,23 @@ categories:
 - Hardware
 - News & Politics
 - True Crime
+locations:
+- Emporia
+- Kansas
+- Mount Pleasant
+- Wisconsin
+people:
+- Becky Smith
+- Claridge
+- Jowi Morales
+- Tom
+organisations:
+- AI
+- Google News
+- Jowi Morales
+- Lux Claridge
+- Lyon County Jail
+- Microsoft
 ---
 
 ![a protester holding a 'stop data centers' sign](https://cdn.mos.cms.futurecdn.net/yyCLdBRnjiQVkMo69tnhrf.png) 

@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- England
+- Milton Keynes
+people:
+- Person A
+- Ross Bullen
+- RossAlex
+- Snapchat
+organisations:
+- Priory Rise School
+- TRA
+- Teaching Regulation Agency
 ---
 
 An assistant headteacher at a primary school who was caught sending explicit pictures of himself to a teenage boy on Snapchat said he “craved attention” as a “sexual thrill”, a tribunal heard.

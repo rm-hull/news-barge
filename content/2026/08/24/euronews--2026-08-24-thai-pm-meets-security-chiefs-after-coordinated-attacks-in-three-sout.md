@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- Buddhist Thailand
+- Nan
+- Narathiwat
+- Pattani
+- Yala
+people:
+- Anutin Charnvirakul
+- Don Pathan
+organisations:
+- 7-Eleven
+- BRN
+- Barisan Revolusi Nasional Melayu Patani
+- Deep South Watch
+- Prince of Songkla University
 ---
 
 ## As has often been the case with such incidents, no group was immediately publicly blamed or claimed responsibility for the actions.

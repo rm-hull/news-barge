@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- BRADFORD
+- Evan Towers
+- Evans Towers
+- Little Horton
+- Rayhill Grove
+people:
+- Colin Doherty
+organisations:
+- An Incommunities
 ---
 
 *(Image: T&A)*

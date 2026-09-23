@@ -13,6 +13,24 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Bandar Abbas
+- Gilan
+- Iran
+- Karaj
+- Mordad
+- Tehran
+- US
+people:
+- Keramat Veis-Karami
+- Mohammad Jafar Ghaempanah
+- Mohammad Sadegh Azimifar
+organisations:
+- '## Lines'
+- Guards
+- IRGC
+- National Iranian Fuel Distribution Company
+- National Iranian Oil Products Refining and Distribution Company
 ---
 
 ## Lines formed outside Tehran petrol stations from midnight as a daily shortfall met with panic buying, while officials denied a shortage and said prices would have to change, without clarifying when or by how much.

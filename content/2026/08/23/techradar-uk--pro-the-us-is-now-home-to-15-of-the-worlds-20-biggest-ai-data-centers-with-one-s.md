@@ -11,6 +11,41 @@ image: https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- '## America'
+- Asia-Pacific
+- Dallas-Fort Worth
+- Dublin
+- Europe
+- Greater Beijing Area
+- Guangdong
+- Indiana
+- Iowa
+- Jakarta
+- Johor
+- Loudoun County
+- Northern Virginia
+- Ohio
+- Oregon
+- Shanghai
+- South Carolina
+- Sydney
+- Tennessee
+- Texas
+- Tokyo
+- U.S.
+- US
+- United States
+people:
+- John Dinsdale
+organisations:
+- Amazon
+- Efosa
+- Google News
+- Microsoft
+- New York Times
+- Synergy Research Group
+- TechRadar Pro
 ---
 
 ![A data center with racks of servers and lots of lights glowing](https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M.jpg) 

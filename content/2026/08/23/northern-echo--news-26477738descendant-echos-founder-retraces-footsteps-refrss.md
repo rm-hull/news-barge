@@ -14,6 +14,73 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Australia
+- Bulgaria
+- Crown Street
+- Darlington
+- Darlington’s West Cemetery
+- Dumfries
+- Durham
+- Embleton
+- Hartlepool
+- India
+- Kirkbymoorside
+- Loch Earn
+- London
+- New York
+- Nigeria
+- North East
+- Perthshire
+- Priestgate
+- Scotland
+- Seaton Carew
+- Shepparton
+- St Fillan the Stammerer
+- Stockton
+- Suffolk
+- Sunderland
+- US
+- Victoria
+- West Cemetery
+people:
+- '## Bell'
+- '## Stead'
+- Alice
+- Antony
+- Carolynne Frost
+- Clarissa Hogg
+- Ernest Hyslop Bell
+- Fillan
+- Henry King Spark
+- John Hyslop Bell
+- Levers
+- Margaret
+- Pease
+- Stockton
+- 'True'
+- William Thomas Stead
+organisations:
+- Bank of England
+- Barclays Bank
+- Barnard Castle School
+- Bell
+- Darlington & Stockton Times
+- House of Lords
+- Justice of the Peace
+- Leeds Mercury
+- Lever Bros
+- Lever Brothers
+- Levers
+- Liberal Party
+- Purity Association
+- Review of Reviews
+- South Durham & Cleveland Mercury
+- St Fillans
+- St Fillians
+- The Northern Echo
+- The Northern Echo The Peases
+- Unilever
 ---
 
 The great-great-granddaughter of the man who founded The Northern Echo more than 150 years ago has been in Darlington this week from her home in Australia to stand in his footprints.

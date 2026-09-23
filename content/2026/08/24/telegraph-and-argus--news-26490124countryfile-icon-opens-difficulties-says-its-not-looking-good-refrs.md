@@ -14,6 +14,18 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bemborough Farm
+- Cotswolds
+- Gloucestershire
+- UK
+people:
+- Adam Henson
+organisations:
+- AHDB
+- Agriculture and Horticulture Development Board
+- BBC
+- Cotswold Farm Park
 ---
 
 *(Image: BBC)*

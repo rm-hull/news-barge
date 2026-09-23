@@ -14,6 +14,18 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Middle East
+people:
+- Joanna O’Loan
+- John Kirkman
+- Mark Sait
+organisations:
+- Energy Saving Trust
+- Love Energy Savings
+- Ofgem
+- O’Loan
+- SaveMoneyCutCarbon
 ---
 
 With summer coming to a close, focus is shifting towards the looming cost of winter energy bills, as the latest price cap announcement reaches its highest level in three years.

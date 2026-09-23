@@ -15,6 +15,27 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Mount Pleasant
+- New York
+- Oneida River
+- U.S.
+- United States
+- Wisconsin
+people:
+- Donald Trump
+- Jonathan Kalmuss-Katz
+- Jowi Morales
+- Tom
+organisations:
+- EPA
+- Earthjustice
+- Environmental Protection Agency
+- Google News
+- Jowi Morales
+- Micron
+- Microsoft
+- The Guardian
 ---
 
 ![chemicals on a shelf](https://cdn.mos.cms.futurecdn.net/BaNoikMVUSL8sLfjAoD2TQ.png) 

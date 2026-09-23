@@ -12,6 +12,56 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Aberdeen
+- BBC
+- Bhote Koshi
+- China
+- East Sussex
+- Folkestone
+- Germany
+- Himalayas
+- India
+- Kailash Mansarovar Yatra
+- Kathmandu
+- Kent
+- Mount Kailash
+- Nepal
+- Nepal-Tibet
+- Nuwakot
+- Rasuwa
+- Sandringham Estate
+- Tibet
+- UK
+- US
+- United Kingdom
+- Wales
+people:
+- Andy Burnham
+- Barun Lamichhane
+- Ben
+- Camilla
+- Julija Jakovicka
+- King Charles
+- Phillips'
+- Pramod Pudel
+- Rajendra Pudasaini
+- Tatajana Phillips
+- god Shiva
+organisations:
+- Alpine Eco Trek
+- BBC Radio Sussex
+- BBC Scotland News
+- Essex
+- Fishtail Tours
+- Foreign Office
+- Himalayan Glacier US
+- Kailash Journeys
+- PA Media
+- Press Association
+- The Trekkers' Society
+- Trekkers' Society
+- US Geological Survey
 ---
 
 ![The backs of two women, a man and a boy looking out to partially submerged trucks and buildings as mud covers a section of a highway in Nuwakot in central Nepal](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/72a1/live/efb60850-a225-11f1-bd6a-3d72a7f54a3e.jpg)

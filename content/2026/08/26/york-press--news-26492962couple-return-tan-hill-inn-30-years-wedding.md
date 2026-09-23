@@ -12,6 +12,27 @@ categories:
 - Local
 - York
 - Comedy & Entertainment
+locations:
+- Colchester
+- Essex
+- Pennine Way
+- Richmond
+- Swaledale
+- Tan Hill
+- Tan Hill Inn
+- UK
+- Yorkshire Dales
+people:
+- '## Couple'
+- Andrew Hields
+- John Dalton
+- Max
+- Millie
+- Sarah Baulch
+organisations:
+- IT
+- Tan Hill Inn
+- Yorkshire Dales
 ---
 
 ## Couple return to Yorkshire Dales pub where they married 30 years ago

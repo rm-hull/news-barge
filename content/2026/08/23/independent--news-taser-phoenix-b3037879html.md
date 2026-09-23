@@ -12,6 +12,20 @@ image: https://static.independent.co.uk/2026/08/23/22/Phoenix_Police_Fired_Traff
 categories:
 - News & Politics
 - UK
+locations:
+- Lower Buckeye Jail
+- Phoenix
+- Tempe
+people:
+- Antonio Felix
+- Dave Evans
+- Luis Vasquez
+- Matt Giordano
+organisations:
+- Maricopa County Sheriff’s Office
+- Taser
+- Tempe
+- The Associated Press
 ---
 
 Two Phoenix police officers were fired and arrested after an unreported traffic stop in which they assaulted a man and woman and shocked them with a Taser, the police chief said.

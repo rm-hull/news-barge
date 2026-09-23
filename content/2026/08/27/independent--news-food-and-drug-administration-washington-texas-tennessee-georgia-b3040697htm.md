@@ -11,6 +11,24 @@ image: https://static.independent.co.uk/2026/08/27/22/Cyclospora_Outbreak_92942.
 categories:
 - News & Politics
 - UK
+locations:
+- Georgia
+- Mexico
+- Tennessee
+- Texas
+- U.S.
+people: []
+organisations:
+- AP
+- Associated Press Health and Science Department
+- CDC
+- Centers for Disease Control and Prevention
+- Department of Science Education
+- FDA
+- Food and Drug Administration
+- Howard Hughes Medical Institute
+- Robert Wood Johnson Foundation
+- Taylor Farms
 ---
 
 Parasitic illness cases linked to recalled iceberg lettuce have now been confirmed in 20 states, federal health officials said Thursday, expanding the scope of the largest outbreak of its kind in the U.S.

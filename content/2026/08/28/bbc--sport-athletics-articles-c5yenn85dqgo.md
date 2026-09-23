@@ -13,6 +13,58 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Al-Oudaya
+- Bosnia
+- Cyprus
+- England
+- Great Britain
+- Greater Manchester
+- Kosovo
+- Marrakech
+- Milan-Cortina
+- Montecristo
+- Morocco
+- Northern Ireland
+- Pyeongchang
+- Sochi
+- St Moritz
+- Switzerland
+- Tamensourt
+- UK
+- USA
+people:
+- Ashley O'Leary Jones
+- David Tuck
+- Lamin Deen
+- Leon Baptiste
+- Montecristo
+- O’Leary Jones
+- Richard Sharman
+- Will Sharman
+- William Sharman
+organisations:
+- Apollon Limassol
+- BBC Radio 4
+- BBC Sport
+- CV
+- Commonwealth
+- Department for Culture, Media
+- Don't Touch My Child
+- Gladiators
+- Home Office
+- House
+- Humanium
+- Mon Enfant
+- Montecristo
+- O'Leary Jones'
+- Orlando Pride
+- Stoke City
+- TNT Sports
+- Touche Pas
+- UK Athletics
+- UK Foreign Office
+- UNAIDS
 ---
 
 ![A composition image featuring former British athletes Leon Baptiste, William Sharman, and Lamin Deen](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/461f/live/e59da700-9ca4-11f1-a5a0-114ca9d4a1bc.png)

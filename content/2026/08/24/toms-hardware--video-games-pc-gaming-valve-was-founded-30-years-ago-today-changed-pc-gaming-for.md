@@ -14,6 +14,25 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - History
+locations:
+- Bellevue
+- WA
+people:
+- Gabe Newell
+- Mark Tyson
+- Mike Harrington
+- Tom
+- Valve
+organisations:
+- FPS
+- Google News
+- Microsoft
+- PC
+- Proton
+- Source Engine
+- Steam
+- Tom's Hardware
+- Valve
 ---
 
 ![The Lobby of Valve Headquarters in Bellevue, WA](https://cdn.mos.cms.futurecdn.net/MLRYtYpUEeXxhLewjL7FmP.jpg) 

@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Birchington Avenue
+- Grangetown
+- James Cook University Hospital
+- Middlesbrough
+- Middlesbrough**
+- Redcar
+- Royal Victoria Infirmary
+people:
+- Emily Harrison
+organisations:
+- Cleveland Fire Brigade
+- Cleveland Fire and Rescue Service
+- Cleveland Local Policing Commander
+- Cleveland Police
+- Crimestoppers
+- HART
+- Hazardous Area Response Team
+- Incident Command Unit
+- North East Ambulance Service
+- North News & Pictures Ltd
+- RVI
 ---
 
 Two people have died and a murder investigation has been launched following a “devastating” house fire in the early hours of this morning.

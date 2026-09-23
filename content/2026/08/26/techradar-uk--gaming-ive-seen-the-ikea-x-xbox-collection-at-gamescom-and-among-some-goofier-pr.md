@@ -13,6 +13,22 @@ image: https://cdn.mos.cms.futurecdn.net/eAH4poSWXq8YJsaLE6GPqT-2560-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations:
+- Sweden
+people:
+- James Pickard
+- Philip Dilé
+organisations:
+- Black Friday
+- Eurogamer
+- Gamescom
+- Google News
+- IKEA
+- Microsoft
+- PS5
+- Tampa Bay Buccaneers
+- TechRadar
+- Xbox
 ---
 
 ![The IKEA x Xbox collection in situe at Gamescom](https://cdn.mos.cms.futurecdn.net/eAH4poSWXq8YJsaLE6GPqT.jpg) 

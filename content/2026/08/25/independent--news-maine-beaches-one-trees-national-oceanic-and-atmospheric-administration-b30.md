@@ -12,6 +12,48 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Blue Hill
+- Brunswick
+- Gulf of Maine
+- Lanes Island
+- Maquoit Bay
+- Maquoit Bay Conservation Land
+- Morse River
+- New England
+- Phippsburg
+- Popham Beach
+- Popham Christmas
+- Sebago Lake
+- Sebago Lake State Park
+- Songo Beach
+- Standish Brook
+- Wharton Point
+- Yarmouth
+people:
+- Chad Thompson
+- Chris Baldwin
+- John Maclaine
+- Jordan Kimball
+- Nathan Robbins
+- Paul Larrivee
+- Peter Slovinsky
+- Popham
+- Sean Vaillancourt
+- Seth Wilkinson
+organisations:
+- Cumberland County Soil and Water Conservation District
+- DEP
+- Maine Board of Environmental Protection
+- Maine Department of Environmental Protection
+- Maine Department of Transportation
+- Maine Geological Survey
+- National Oceanic and Atmospheric Administration
+- O.U.R
+- Portland Water District
+- S.H.O.R.E
+- The Associated Press
+- The Maine Monitor
 ---
 
 For years, Maine residents and visitors alike have flocked to Popham Beach in Phippsburg expecting to see a variety of shells, seabirds and rock outcroppings. This summer, visitors also encountered the occasional Christmas tree carcass strewn along sections of the beach’s uppermost sand dunes. These old trees are not the result of a holiday mishap — they were intentionally laid out to help rebuild the dunes after they were ravaged by harsh winter storms in December 2023 and January 2024.

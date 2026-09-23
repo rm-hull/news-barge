@@ -16,6 +16,43 @@ categories:
 - York
 - Automotive
 - True Crime
+locations:
+- A66
+- Cleveland
+- Middlesbrough
+- Redcar
+- South Bank
+- St John the Evangelist Church
+- Teesside
+people:
+- Anna Turley
+- Cole Robert Worthy
+- Dad
+- Forever
+- Jacob Matusiak
+- Makai Saddington
+- Matt Storey
+- Matthew Blades
+- Michael Robert Cahill
+- PC Matthew Blades
+- Pc Blades
+- Pc Blades’
+- Pc Clough
+- Pc Tom Clough
+- Theo Rae
+organisations:
+- Civil Nuclear Constabulary
+- Cleveland Police
+- Cleveland Police Federation
+- FC Hartlepool
+- Independent Office for Police Conduct
+- PA Wire
+- Pc Blades
+- Pc Clough
+- Reds
+- Seahawks
+- Seaton Carew FC
+- Sky News
 ---
 
 # 'Forever our superhero': Emotional family tributes to officers killed in A66 crash

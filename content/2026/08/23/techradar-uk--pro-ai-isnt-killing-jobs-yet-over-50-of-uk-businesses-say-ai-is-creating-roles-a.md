@@ -12,6 +12,17 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- UK
+people:
+- Amanda Murphy
+organisations:
+- AI
+- Efosa
+- Google News
+- Lloyds Business Barometer
+- Lloyds Business and Commercial Banking
+- TechRadar Pro
 ---
 
 ![Accelerating SMB Business with Dell AI PCs](https://cdn.mos.cms.futurecdn.net/YviqDhkc8Uz4W7yjbrCF7o.png) 

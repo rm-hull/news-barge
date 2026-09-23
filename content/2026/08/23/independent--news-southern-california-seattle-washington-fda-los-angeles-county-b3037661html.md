@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Eaton
+- Los Angeles County
+- Southern California
+- Spokane
+- U.S.
+- Washington
+people:
+- Cora Sack
+- Jen Riegle
+- Luke Montrose
+- Matt Caffey
+- Sean DeCrane
+organisations:
+- California Board of Pharmacy
+- Colorado State University
+- IAFF
+- Integrative Health Action Network
+- International Association of Firefighters
+- Pasadena Fire
+- The Integrative Health Action Network
+- University of Washington School of Medicine
 ---
 
 Fire and medical officials have issued warnings about a supplement offered to Western wildland firefighters who have been exposed to toxic chemicals while battling some of the country's biggest blazes.

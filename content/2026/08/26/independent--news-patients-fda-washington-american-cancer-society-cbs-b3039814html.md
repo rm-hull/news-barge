@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- R-Neb.
+- Redwood City
+- Sen
+- U.S.
+- United States
+people:
+- Ben Sasse
+- Kyle Diamantas
+organisations:
+- AP
+- American Cancer Society
+- Associated Press Health and Science Department
+- CBS
+- Department of Science Education
+- FDA
+- Food and Drug Administration
+- Howard Hughes Medical Institute
+- RAS
+- Rasonque
+- Revolution Medicines
+- Revolution Medicines’
+- Robert Wood Johnson Foundation
 ---
 
 The Food and Drug Administration on Wednesday approved a groundbreaking new drug for the most common form of pancreatic cancer, offering U.S. patients a more effective treatment against one of the deadliest types of cancer.

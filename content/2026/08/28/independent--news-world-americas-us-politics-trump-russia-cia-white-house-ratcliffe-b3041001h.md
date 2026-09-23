@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Iran
+- Kremlin
+- Latvia
+- Moscow
+- Oval Office
+- Russia
+- U.S.
+- Ukraine
+- United States
+- White House
+people:
+- Aleksandr V. Bortnikov
+- Dmitry Peskov
+- John Ratcliffe
+- Trump
+- Vladimir Putin
+organisations:
+- CIA
+- Central Intelligence Agency
+- FSB
+- NATO
+- Politico
+- The Independent
+- The New York Times
+- The Wall Street Journal
 ---
 
 President Trump did not brief some senior White House officials ahead of the director of the CIA’s visit to Russia earlier this week, it has been reported.

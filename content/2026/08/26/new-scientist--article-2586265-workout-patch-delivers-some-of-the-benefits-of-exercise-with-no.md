@@ -14,6 +14,18 @@ categories:
 - Science
 - Technology & Software
 - Health & Fitness
+locations:
+- China
+- Singapore
+people:
+- Matthew Stroud
+- Ng Shyh-Chang
+- Tang Hong-Wen
+organisations:
+- Beijing Institute for Stem Cell and Regenerative Medicine
+- Duke-NUS Medical School
+- King’s College London
+- Shyh-Chang
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309451690.jpg?w=840)

@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Bethany.Broadhead
+- Foxwood Community Centre
+- York
+people:
+- Bethany Broadhead
+organisations:
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 *(Image: Google)*

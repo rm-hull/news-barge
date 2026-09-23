@@ -12,6 +12,32 @@ image: https://i.guim.co.uk/img/media/1b7dfd5ffc5f751dfd85cb5204c68faffb11c75e/5
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- California
+- Israel
+- Michigan
+- Oakland County
+people:
+- Abdul El-Sayed
+- Abdul …,” Rogers
+- Fox
+- Hakeem Jeffries
+- Hasan Piker
+- Hillary Scholten
+- Jake Lang
+- Jeremy Moss
+- Jesse Watters
+- Mike Rogers
+- Pete Hegseth
+- Semafor
+- Watters’
+organisations:
+- Congress
+- Fox News
+- House
+- Politico
+- Senate
 ---
 
 The Democratic candidate for Senate in the swing state of Michigan has spent the week trying to keep his affordability message front and center as scrutiny mounts from both ends of the political spectrum.

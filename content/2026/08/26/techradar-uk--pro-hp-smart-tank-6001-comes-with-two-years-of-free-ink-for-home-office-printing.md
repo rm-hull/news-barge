@@ -12,6 +12,19 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Amazon
+- UK
+people:
+- Wayne Williams
+organisations:
+- Best Buy
+- Canon Megatank
+- Currys
+- HP
+- PC
+- TechRadar Pro
+- Wayne Williams
 ---
 
 ![HP Smart Tank 6001 printer](https://cdn.mos.cms.futurecdn.net/NUgNuAnyXq56hEKsPhHZfD.jpg) 

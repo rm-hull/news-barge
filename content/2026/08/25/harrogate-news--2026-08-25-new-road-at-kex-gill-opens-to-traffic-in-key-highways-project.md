@@ -14,6 +14,27 @@ categories:
 - Automotive
 - Technology & Software
 - Travel
+locations:
+- A59
+- England.
+- Harrogate
+- Kex Gill
+- M
+- M6
+- Nidderdale National Landscape
+- North Yorkshire
+- North of England
+- Skipton
+people:
+- Cllr Malcolm Taylor
+- Lauren Luck
+organisations:
+- A1
+- A59
+- Government
+- Kex Gill
+- North Yorkshire Council
+- Sisk Infrastructure
 ---
 
 A vital new road in North Yorkshire has today opened to traffic in a move that has been heralded as key for generations to come using one of the most strategic routes in the country.

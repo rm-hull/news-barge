@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Australia
+- South Sydney
+people:
+- Doddie Weir
+- Jai Arrow
+- Lou Gehrig
+- Peter V’landys
+- Rob Burrow
+organisations:
+- Arrow
+- Australian Rugby League Commission
+- Gold Coast Titans
+- MND Australia
+- NRL
+- National Rugby League
+- Queensland
+- South Sydney
+- South Sydney Rabbitohs
+- Sydney Roosters
 ---
 
 Motor neurone disease is not likely to stop Jai Arrow trying to bring up a career milestone in Australia's National Rugby League.

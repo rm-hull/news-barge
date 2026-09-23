@@ -13,6 +13,40 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Africa
+- Chad
+- Democratic Republic of Congo
+- Epe
+- Lagos
+- Liberia
+- MOPO
+- Nigeria
+- Sheffield
+- Sierra Leone
+- UK
+- Uganda
+people:
+- Balogun Adedayo Michael
+- Ed Miliband
+- Luke Burras
+organisations:
+- BII
+- British International Investment
+- DRC
+- FCDO
+- Foreign, Commonwealth and Development Office
+- ICAI
+- IFC
+- Independent Commission for Aid Impact
+- International Finance Corporation
+- MOPO –
+- MOPOGrid
+- Norfund
+- Octopus Energy
+- Rural Electrification Agency
+- The Independent
+- World Bank
 ---
 
 A British green technology company is seeking to help create Africa's "energy grid of the future" to reduce reliance on fossil fuels after signing an agreement to invest up to $75 million (£55m) in Nigeria by 2030.

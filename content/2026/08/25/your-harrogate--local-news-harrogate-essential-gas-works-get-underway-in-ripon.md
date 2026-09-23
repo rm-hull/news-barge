@@ -12,6 +12,22 @@ categories:
 - Local
 - Harrogate
 - Travel
+locations:
+- Allhallowgate
+- High St Agnesgate
+- Low St Agnesgate
+- Minster Road
+- Priest Lane
+- Residence Lane
+- Ripon
+- St Marygate Car Park
+- Stonebridgegate
+people:
+- Mark Mawhood
+organisations:
+- NGN
+- Northern Gas Networks
+- St Mary’s Gate
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8d625024cb1aec6e6.jpg) 

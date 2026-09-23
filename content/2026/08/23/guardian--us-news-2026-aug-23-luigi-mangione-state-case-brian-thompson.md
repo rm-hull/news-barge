@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Chutkow
+- Florida
+- Manhattan DA
+- New York
+- US
+people:
+- Brian Thompson
+- Greco Neyland
+- Gregory Carro
+- Hail Mary
+- Jeffrey Greco
+- Jeremy Saland
+- Joseph McNally
+- Luigi Mangione
+- Mark Chutkow
+- Maurice Johnson
+- Salad
+organisations:
+- Dykema
+- Lewis Brisbois Bisgaard & Smith
+- Mangione
+- Manhattan DA
+- McNicholas & McNicholas
+- UnitedHealthcare
 ---
 
 After Luigi Mangione admitted in Manhattan federal court that he killed UnitedHealthcare CEO Brian Thompson, most experts believe that the state murder case against is highly unlikely to proceed – though some still see a slim possibility that it may yet happen.

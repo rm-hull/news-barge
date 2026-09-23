@@ -12,6 +12,28 @@ categories:
 - Technology & Software
 - Science
 - Video Gaming
+locations:
+- Brännboll
+- Cologne
+- Gamescom
+- Germany
+- Milan
+- Nilserik
+- Renton
+- Seattle’
+- Washington
+- Yxstaby
+- Älmhult.’
+people:
+- Carl Ledbetter
+- David Wahl
+- Eames
+- Herman Miller
+- Johan Ejdemo
+- Philip Dilé
+organisations:
+- HQ
+- Ikea
 ---
 
 Ikea has taken another swing at a gaming gear collection, but this time it brought in a ringer: Xbox. The new nine-piece range, revealed at Gamescom in Cologne, Germany, came about not through whiteboard marketing brainstorms, but a meeting between the Xbox and Ikea design teams at Milan Design Week in 2024.

@@ -13,6 +13,36 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Brussels
+- Donbas
+- Europe
+- Iran
+- Kremlin
+- Moscow
+- Russia
+- Strait of Hormuz
+- Tehran
+- US
+- Ukraine
+- Washington
+people:
+- Dmitry Peskov
+- Donald Trump
+- Glenn Beck
+- John Ratcliffe
+- Sergei Naryshkin
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- CBS News
+- CIA
+- EU
+- Kyiv
+- NATO
+- Oval Office
+- TASS
+- Wall Street Journal
 ---
 
 ## The Kremlin also dismissed as "scare stories" US media reports suggesting that Russia could attack NATO, following a rare visit by the CIA director to Moscow.

@@ -14,6 +14,26 @@ categories:
 - Science
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- California
+- Colorado
+- Kentucky
+- New Jersey
+- New Mexico
+- US
+people:
+- Adam Mosseri
+- Meta
+- Rob Bonta
+- Yvonne Gonzalez Rogers
+organisations:
+- Facebook
+- Instagram
+- Meta
+- Snap
+- Snapchat
+- TikTok
+- YouTube
 ---
 
 Well, that was quick. Not even a quarter of the way into an expected 19-day federal trial over Meta’s alleged failure to protect young users, the social media giant agreed to settle the case. The company has agreed to pay up to $16.7 billion to 51 US states and territories and make substantive product changes for how teens engage with its platforms.

@@ -13,6 +13,23 @@ categories:
 - Technology & Software
 - Science
 - Film & TV
+locations:
+- Pacific
+people:
+- Joost van Dreunen
+- van Dreunen
+organisations:
+- AAA
+- GTA VI
+- NYU Stern School of Business
+- Netflix
+- Netflix?
+- Rockstar
+- Sony
+- Super Joost
+- Take-Two Interactive
+- WIRED
+- YouTube
 ---
 
 Later today, Netflix will stream a live event with Rockstar and Take-Two Interactive, the developer and publisher of the highly anticipated video game *Grand Theft Auto VI*. Called* Grand Theft Auto VI: An Extended Look,* it’s the third official trailer for the game, which releases on November 19.

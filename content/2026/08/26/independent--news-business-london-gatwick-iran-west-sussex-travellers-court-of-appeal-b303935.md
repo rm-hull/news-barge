@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Gatwick
+- Iran
+- Middle East
+- UK
+- West Sussex
+people:
+- Heidi Alexander
+- Pierre Hugues-Schmit
+organisations:
+- Air Arabia
+- Air France
+- Air Zimbabwe
+- Condor
+- Court of Appeal
+- Eurowings
+- High Court
+- Jet2
+- London Gatwick
+- Northern Runway Programme
 ---
 
 Gatwick airport has revealed half-year profits fell by nearly a fifth as fewer passengers passed through its terminals due to the Iran war hit to international travel.

@@ -14,6 +14,36 @@ categories:
 - UK
 - Technology & Software
 - Science
+locations:
+- Boao
+- China
+- Hainan
+- India
+- Rwanda
+- U.S.
+- UK
+- United States
+people:
+- Alzheimer
+- Andy Burnham
+- Bill Gates
+- Demis Hassabis
+- Donald Trump
+- Jeffrey Epstein
+- Mark Zuckerberg
+- Xi Jinping
+organisations:
+- Anthropic
+- BFA
+- Boao Forum for Asia
+- FINRA
+- Financial Industry Regulatory Authority
+- Google DeepMind
+- Meta Platforms
+- Microsoft
+- Moonshot AI
+- OpenAI
+- Reuters
 ---
 
 Bill Gates is seeking to meet with Chinese President Xi Jinping later this year to propose joint international initiatives to address the escalating risks of artificial intelligence.

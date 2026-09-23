@@ -13,6 +13,54 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Estonia
+- Europe
+- Finland
+- France
+- Germany
+- Hatne
+- Hatnem
+- Kyiv
+- Luxembourg
+- Moldova
+- PA Britain
+- Russia
+- UK
+- Ukraine
+people:
+- Alan Karis
+- Alar Karis
+- Alexander Stubb
+- Andrii Sybiha
+- Andy Burnham
+- António Costa
+- Emmanuel Macron
+- Friedrich Merz
+- Henry Nicholls
+- Jakub Krupa
+- Jakub Krupa Burnham
+- Luc Frieden
+- Maia Sandu
+- Nicușor Dan
+- Putin
+- Ulf Kristersson
+- Ursula von der Leyen
+- Volodymyr Zelenskyy
+organisations:
+- AP Luxembourg
+- Coalition of the Willing
+- Coalition of the Willing –
+- European Commission
+- European Council
+- European Union
+- Getty Images
+- MBDA
+- National Museum of the History of Ukraine
+- Pool AFP
+- Scalp
+- State Flag
+- Ukrinform
 ---
 
 Ukraine's foreign affairs minister Andrii Sybiha (left) greets UK prime minister Andy Burnham upon his arrival by train in Kyiv this morning. Photograph: Henry Nicholls/AFP/Getty Images

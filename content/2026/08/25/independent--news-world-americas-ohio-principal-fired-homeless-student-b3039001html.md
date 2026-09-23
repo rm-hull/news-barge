@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Education & Learning
+locations:
+- Cincinnati
+- Lakota
+- Ohio
+people:
+- Angel
+- DeDe?'" Burnside
+- God
+- Landerius Hayes
+- Rob Burnside
+organisations:
+- CBS Mornings
+- CBS News
+- Cincinnati Enquirer
+- Lakota East High School
+- The Independent
 ---
 
 A high school principal in Ohio who lost his job for allowing a homeless student to keep attending classes has spoken out about his dismissal, saying he has no regrets.

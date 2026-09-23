@@ -11,6 +11,46 @@ image: https://static.independent.co.uk/2026/08/23/19/download..?trim=244,0,244,
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Capitol
+- D.C
+- Malukas
+- National Mall
+- Trump
+- Turkey
+- Virginia
+- Washington, D.C.
+- White House
+people:
+- Bettina Trump
+- Chris Wright
+- Dana White
+- David Malukas
+- Donald Trump
+- Donald Trump Jr.
+- Doug Burgum
+- Eric Trump
+- Howard Lutnick
+- Jon Ossoff
+- Karoline Leavitt
+- Kyle Kirkwood
+- Lara Trump
+- Linda McMahon
+- Melania Trump
+- Mike Johnson
+- Natalie Harp
+- Pete Hegseth
+- Sean Duffy
+- Stephen Miller
+- Sting Ray Robb
+- Todd Blanche
+organisations:
+- Fox News
+- House
+- MAGA
+- Trump
+- Ultimate Fighting Championship
 ---
 
 President Donald Trump and first lady Melania Trump were joined by family members, MAGA allies and White House staffers for the Freedom 250 Grand Prix Sunday**—** including devoted executive assistant Natalie Harp.

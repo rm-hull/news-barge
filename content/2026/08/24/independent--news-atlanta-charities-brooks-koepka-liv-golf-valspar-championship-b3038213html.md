@@ -15,6 +15,27 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Byron Nelson
+- Dallas
+people:
+- Brooks Koepka
+- Holly Finchem
+- Laura Neal
+- Lucas Glover
+- Tiger Woods
+- Tim Finchem
+organisations:
+- COVID
+- Copperheads
+- LIV Golf —
+- PGA Tour Strategic Philanthropy
+- Player Advisory Council
+- Salesmanship Club
+- Strategic Sports Group
+- Thunderbirds
+- Valspar Championship
+- WM Phoenix Open
 ---
 
 Ten years after he retired as commissioner, Tim Finchem and his wife are donating $13 million to help launch a new charity strategy at a time when so much emphasis in golf is on profit in the new commercial enterprise of the PGA Tour.

@@ -12,6 +12,20 @@ image: https://static.independent.co.uk/2026/07/28/14/Four_Killed_University_of_
 categories:
 - News & Politics
 - UK
+locations:
+- Idaho
+- Moscow
+people:
+- Bryan Kohberger
+- Ethan Chapin
+- Greg Rauch
+- Kaylee Goncalves
+- Madison Mogen
+- Steven Hippler
+- Xana Kernodle
+organisations:
+- Idaho Rules of Court
+- University of Idaho
 ---
 
 An Idaho judge has set the timeline for Bryan Kohberger's attempt to withdraw his guilty plea in the murders of four University of Idaho students, and he is warning attorneys on both sides that he will hold any new evidence in the case to a strict legal standard.

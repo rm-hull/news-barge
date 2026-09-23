@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Badwater Road
+- California
+- Death Valley
+- Death Valley National Park
+- France
+- Furnace Creek Visitor Center
+- Inyo County
+- Sheba Mine Road
+- West Side Road
+people:
+- Mike Reynolds
+- Pierre Michel Formosa
+organisations:
+- California Highway Patrol
+- Formosa
+- National Park Service
 ---
 
 A French tourist has died after getting stranded in a national park as temperatures reached 116 degrees Fahrenheit (46C).

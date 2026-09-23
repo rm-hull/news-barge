@@ -15,6 +15,28 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- Iran
+- UK
+people:
+- Andy Burnham
+- Ben Ansell
+- John Healey
+- Prof Ansell
+organisations:
+- Budget
+- Cabinet
+- IPPR
+- ITV News
+- Institute for Public Policy Research
+- Labour
+- National Institute of Economic and Social Research
+- National Insurance
+- Niesr
+- ONS
+- Office for National Statistics
+- Oxford
 ---
 
 # Labour told taxes need to be shifted from young to older property owners

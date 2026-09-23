@@ -14,6 +14,16 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Darlington
+- M
+- Piercebridge
+people: []
+organisations:
+- Aberdeen Angus
+- Cafe
+- Piercebridge Organic Farmshop
+- TripAdvisor
 ---
 
 *(Image: TRIPADVISOR)*

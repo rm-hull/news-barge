@@ -13,6 +13,23 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Sports
+locations:
+- East Midlands
+- East Midlands Airport
+- Essex
+- Leicestershire’s East Midlands Airport
+- London Stansted
+- Manchester Airport
+- UK
+people:
+- Mag
+organisations:
+- MAG
+- Mag
+- Manchester Airport
+- Manchester Airport Group
+- Manchester Airports
+- Stansted Airport
 ---
 
 A cyber security breach targeting three major UK airports has led to the personal data of around 8.7 million customers being accessed, operator Manchester Airport Group (MAG) has confirmed.

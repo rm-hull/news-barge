@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Cardiff Bay
+- Downing Street
+- Greater Manchester
+- Iorwerth
+- Northern Ireland
+- Pierhead
+- Scotland
+- Senedd
+- South Wales
+- UK
+people:
+- Andy Burnham
+- Keir Starmer
+- Michael Sheen
+- Rhun ap Iorwerth
+- Sioned Williams
+organisations:
+- Gordon Brown
+- Iorwerth
+- Labour
+- National Economic Council
+- Plaid Cymru
 ---
 
 ![Andy Burnham wearing a black suit and white shirt, looking to the left of the frame of the photograph. The picture is a close up with most of Burnham out of shot bar his head and shoulders.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/68b9/live/b1b9ec70-a17a-11f1-87d4-e91caee13898.jpg)

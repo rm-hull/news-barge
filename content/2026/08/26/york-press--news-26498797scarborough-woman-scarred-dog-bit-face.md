@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Manor Road
+- North Yorkshire
+- Scarborough
+- Wykeham Street
+- York
+people: []
+organisations:
+- CCTV
+- Crimestoppers
+- North Yorkshire Police
+- North Yorkshire Police)* Police
 ---
 
 *(Image: North Yorkshire Police)*

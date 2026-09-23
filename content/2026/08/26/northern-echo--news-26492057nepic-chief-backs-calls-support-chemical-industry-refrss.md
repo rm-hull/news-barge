@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Durham
+- North East
+- Tees Valley
+- Teesside
+- UK
+people:
+- Joanne Smith
+- Ms Smith
+organisations:
+- Advanced Manufacturing, Clean Energy, Defence, Digital Technologies and Life Sciences
+- GVA
+- Government
+- NEPIC
+- Reform UK
 ---
 
 *(Image: Supplied)*

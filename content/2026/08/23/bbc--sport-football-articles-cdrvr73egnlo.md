@@ -13,6 +13,48 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Merseyside
+- Newcastle
+- Scotland
+- St James' Park
+- Sweden
+- Tyneside
+people:
+- Alexander Isak
+- Alexis Mac Allister
+- Andoni Iraola
+- Bradley Barcola
+- Cody Gakpo
+- Dominik Szoboslai
+- Dominik Szoboszlai
+- Dutchman Gakpo
+- Florian Wirtz
+- Giorgi Mamardashvili
+- Ibrahim Mbaye
+- James McConnell
+- Jeremie Frimpong
+- Joe Willock
+- Kostas Tsimikas
+- Lewis Koumas
+- Mac Allister
+- Milos Kerkez
+- Pat Nevin
+- Rio Ngumoha
+- Ronald Araujo
+- Trey Nyoni
+- Victor Munoz
+- Wataru Endo
+- Yankuba Minteh
+organisations:
+- BBC Radio 5 Live
+- Brighton
+- Iraola
+- Liverpool This
+- Newcastle United
+- Paris St-Germain
+- Premier League
+- Sky Sports
 ---
 
 Highlights: Late penalty saves point for Liverpool

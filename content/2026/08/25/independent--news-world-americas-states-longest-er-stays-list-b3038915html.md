@@ -13,6 +13,64 @@ categories:
 - UK
 - Careers & Productivity
 - Personal Finance & Investing
+locations:
+- Alabama
+- Alaska
+- Arizona
+- Arkansas
+- California
+- Colorado
+- Connecticut
+- Delaware
+- Florida
+- Georgia
+- Hawaii
+- Idaho
+- Illinois
+- Indiana
+- Iowa
+- Kentucky
+- Louisiana
+- Maine
+- Maryland
+- Massachusetts
+- Michigan
+- Minnesota
+- Mississippi
+- Missouri
+- Montana
+- Nebraska
+- Nevada
+- New Hampshire
+- New Jersey
+- New Mexico
+- New York
+- North Carolina
+- North Dakota
+- Ohio
+- Oregon
+- Pennsylvania
+- Rhode Island
+- South Carolina
+- South Dakota
+- Tennessee
+- Texas
+- U.S.
+- Utah
+- Vermont
+- Washington
+- Washington, D.C.
+- West Virginia
+- Wisconsin
+- Wyoming
+people: []
+organisations:
+- Centers for Disease Control and Prevention
+- Centers for Medicare and Medicaid Services
+- JAMA
+- Kansas
+- Oklahoma
+- U.S. ERs
 ---
 
 Americans spend more than two and a half hours in hospital emergency departments on average — but some leave without ever being treated, new data has revealed.

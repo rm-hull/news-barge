@@ -13,6 +13,29 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Christ Church
+- Colombia
+- Manchester
+- Northern Rail
+- Settle Parish Church
+- Skipton
+people:
+- Beethoven
+- Harris Birch
+- Juan José
+- Juan José Muñoz Borja
+- Marin Alsop
+- Mark Elder
+- Mozart
+organisations:
+- Bassoon and Orchestra
+- Chineke!
+- Iberacademy Foundation
+- Jacobi
+- RNCM
+- Royal Northern College of Music
+- Settle Orchestra
 ---
 
 A new conductor will be opening Settle Orchestra's new season.

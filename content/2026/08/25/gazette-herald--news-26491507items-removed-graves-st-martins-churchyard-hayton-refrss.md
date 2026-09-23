@@ -14,6 +14,26 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Diocese of York
+- East Yorkshire
+- Hayton
+- Pocklington
+- St Martin
+- St Martin’s Churchyard
+people:
+- Natalie Beard
+organisations:
+- Archdeacon
+- Church of England
+- Diocese of York
+- North Yorkshire Police
+- PCC
+- Parochial Church Council
+- Pocklington Group of Churches
+- Priest-in-Charge
+- St Martin’s Churchyard
+- The Pocklington Group of Churches
 ---
 
 BEREAVED families are demanding answers after sentimental items were removed from graves in an East Yorkshire graveyard.

@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Auschwitz
+- Hill Dickinson
+- Liverpool
+- Merseyrail station
+- Nazi Germany
+- Sandhills station
+people:
+- Cllr Kemp
+- Cllr Moloney
+- Ed Davey
+- Liam Robinson
+- Pat Moloney
+- Richard Kemp
+- Steve Rotheram
+organisations:
+- Everton FC
+- Labour
+- Lib Dem
+- Lib Dems
+- Liberal Democrat
+- Liverpool City Region
+- Liverpool Echo.
+- Sandhills station
 ---
 
 Two councillors in Liverpool, one a former lord mayor, have apologised after comparing a railway station's football matchday operations with Nazi Germany’s concentration camps.

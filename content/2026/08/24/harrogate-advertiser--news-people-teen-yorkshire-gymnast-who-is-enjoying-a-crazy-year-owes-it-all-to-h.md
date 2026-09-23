@@ -14,6 +14,28 @@ categories:
 - Harrogate
 - Health & Fitness
 - Sports
+locations:
+- England
+- Harrogate
+- Hornbeam Park
+- Lilleshall
+- Liverpool
+- Telford
+- The Zone
+- UK
+- Yorkshire
+people:
+- Andi-Mae Bendelow
+- Chloe Carey
+- Sarah King
+- Steve Bendelow
+organisations:
+- British Gymnastics
+- England Squad
+- GB Development Squad
+- Harrogate Gymnastics
+- M&S Bank Arena Liverpool
+- Women’s Artistic Gymnastics
 ---
 
 # Teen Yorkshire gymnast who is enjoying a ‘crazy year’ owes it all to Harrogate Gymnastics

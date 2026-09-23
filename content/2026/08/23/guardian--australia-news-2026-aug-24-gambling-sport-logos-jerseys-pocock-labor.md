@@ -14,6 +14,33 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Sports
+locations:
+- Australia
+people:
+- Andrew Wallace
+- Anika Wells
+- David Pocock
+- Martin Thomas
+- Samantha Thomas
+organisations:
+- Alliance for Gambling Reform
+- Betr
+- BlueBet
+- Brisbane Broncos
+- Dolphins
+- Gold Coast Titans
+- Liberal
+- NRL
+- Newcastle Knights
+- NextBet
+- Palmerbet
+- Penrith Panthers
+- Picklebet
+- Sydney Roosters
+- The Lottery Office
+- The Star
+- UniBet
+- West Tigers
 ---
 
 Children across Australia will continue to see gambling logos on professional sport jerseys until up to 2032 despite the government’s pledge to break the link between sport and wagering.

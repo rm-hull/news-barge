@@ -11,6 +11,20 @@ description: There are signs in the latest version of the ChatGPT Android app th
 image: https://cdn.mos.cms.futurecdn.net/6whQhAYA48xb8xVGQ3HNyX-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- England
+- Stockport
+people:
+- Dave
+- David Nield
+organisations:
+- Android Authority
+- ChatGPT AI
+- Gizmodo
+- Google News
+- OpenAI
+- PC Explorer
+- The Hardware Handbook
 ---
 
 ![ChatGPT logo on a smartphone.](https://cdn.mos.cms.futurecdn.net/6whQhAYA48xb8xVGQ3HNyX.jpg) 

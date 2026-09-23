@@ -12,6 +12,12 @@ categories:
 - Science
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Australia
+- Melbourne
+people:
+- Justin Baker
+organisations: []
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308732950.jpg?w=840)

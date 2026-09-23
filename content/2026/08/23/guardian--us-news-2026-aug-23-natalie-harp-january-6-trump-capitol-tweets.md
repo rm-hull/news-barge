@@ -11,6 +11,22 @@ image: https://i.guim.co.uk/img/media/62426c6f19fe01680fc4c5345769a4489befe170/3
 categories:
 - UK
 - News & Politics
+locations:
+- Georgia
+- US Capitol
+- Washington DC
+people:
+- Donald Trump
+- Joe Biden
+- Jon Ossoff
+- Natalie Harp
+- Protector
+organisations:
+- CNN
+- Capitol
+- Daily Beast
+- Political Establishment
+- Trump
 ---
 
 The Donald Trump aide Natalie Harp flooded a since-disabled social media account with pro-Trump posts on the day that the president’s supporters attacked the US Capitol in early 2021, years before she went to work for him and developed an extraordinary close relationship with him, a new report has revealed.

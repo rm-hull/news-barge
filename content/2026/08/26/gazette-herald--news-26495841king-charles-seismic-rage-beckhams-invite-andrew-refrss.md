@@ -13,6 +13,36 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Buckingham Palace
+- Cotswolds
+- England
+- Highgrove House
+- Oxfordshire
+- PA
+- Prince Andrew
+- Scotland
+people:
+- Aaron Chown
+- Alison Boshoff
+- Andrew Mountbatten-Windsor
+- Beckhams
+- Brand Beckham
+- Charles
+- David Beckham
+- Dickie Arbiter
+- Elizabeth II
+- Elsa
+- Eugenie
+- Harper Beckham
+- Kisses
+- Lady Victoria
+- Sarah Ferguson
+- Victoria Beckham
+- William
+organisations:
+- Disney
+- Express
 ---
 
 *(Image: Aaron Chown / PA)*

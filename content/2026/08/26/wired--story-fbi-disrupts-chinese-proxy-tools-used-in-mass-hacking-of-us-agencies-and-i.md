@@ -12,6 +12,35 @@ categories:
 - Technology & Software
 - Science
 - News & Politics
+locations:
+- America
+- China
+- QScan
+- QTRouter
+- US
+people:
+- Damon Rouse
+- Lumen
+- Todd Blanche
+organisations:
+- Black Lotus Labs
+- DOJ
+- Department of Energy
+- Department of Health and Human Services
+- Department of Justice
+- FBI
+- Federal Reserve
+- Justice Department
+- Lumen Technology
+- Ministry of State Security
+- NASA
+- Nanjing Xinjiuwei Network Technology Company
+- National Institutes of Health
+- People's Liberation Army
+- QTFY
+- QTRouter
+- Rouse
+- US Senate
 ---
 
 For years, China's military and intelligence agencies, which carry out hacking campaigns against targets around the globe, have grown increasingly reliant on a vast web of proxy devices that enable and obfuscate their targeting. Now the FBI has named and disrupted one key network of those proxies—and in doing so, revealed just how extensively the hackers who used it reached into American government institutions and US critical infrastructure.

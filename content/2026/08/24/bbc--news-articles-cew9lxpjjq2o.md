@@ -13,6 +13,44 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- BBC
+- France
+- Iran
+- Kingdom
+- Middle East
+- Paris
+- Riyadh
+- Saudi Arabia
+- Saudi Arabian
+- US
+people:
+- Bin Salman
+- Cristiano Ronaldo
+- Emmanuel Macron
+- Gianni Infantino
+- Gwendal "Gwen" Duparc
+- Harrington
+- Jaime "Craime" Bustos
+- Magnus Carlsen
+- Mohammed Bin Salman
+- Samy "dralii" Hajji
+organisations:
+- AG.AL
+- AG.AL's
+- BBC Newsbeat
+- Call of Duty
+- EWC
+- Electronic Arts
+- Emmanuel Macron
+- Esports Foundation
+- Falcons
+- Fifa
+- League of Legends
+- MBS
+- Street Fighter
+- The Esports Foundation
+- Trackmania
 ---
 
 ![A fan at the Esports World Cup shouts into a megaphone, attempting to drum up support for his team.](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/5fbe/live/1d287780-9f99-11f1-a83c-33ebef033ca4.jpg)

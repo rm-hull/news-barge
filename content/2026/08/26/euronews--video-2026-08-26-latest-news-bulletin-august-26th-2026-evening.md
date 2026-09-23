@@ -12,6 +12,42 @@ image: https://images.euronews.com/articles/stories/09/89/02/77/1200x675_cmsv2_4
 categories:
 - Europe
 - News & Politics
+locations:
+- Aichi
+- City of Toronto
+- Denmark
+- EBM-Papst
+- Espiritu Santo Hospital
+- Europe
+- Germany
+- Hamilton
+- Hollenbach
+- Islamabad
+- Japan
+- Kabul
+- Khor Fakkan
+- Lake Ontario
+- Limfjord
+- London
+- Mississauga
+- Nagoya Castle
+- Nagoyajo
+- Odesa
+- Ont
+- Pedro Sanchez
+- Peru
+- Santa Rosa de Lima
+- Strait of Hormuz
+- UAE
+- Ulaanbaatar
+people:
+- Piet Mondrian
+- Tim Curry
+organisations:
+- ArcelorMittal Dofasco
+- Christie’s
+- Euronews
+- Vikings
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

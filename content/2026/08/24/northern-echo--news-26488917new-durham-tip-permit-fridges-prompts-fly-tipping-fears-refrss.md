@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- County Durham
+- Darlington
+- HWRC
+people: []
+organisations:
+- DCC
+- Durham County Council
+- HWRC
+- Household Waste Recycling Centre
 ---
 
 If you are planning on getting rid of your fridge or freezer, new rules are being implemented at County Durham recycling centres.

@@ -14,6 +14,13 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Manor Garth
+- Wigginton
+- York
+people: []
+organisations:
+- Ashtons
 ---
 
 A four-bedroom detached home in York is on the market for £650,000.

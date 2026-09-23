@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Kentucky
+- Washington
+people:
+- Melissa Farris
+- Trump
+organisations:
+- DOJ
+- Department of Justice
+- Justice Department
+- Reflecting Pool
+- U.S. Park Police
 ---
 
 A woman has been indicted on two felony counts after allegedly leaving a message in spray paint on a newly-renovated World War II Memorial in Washington, D.C.

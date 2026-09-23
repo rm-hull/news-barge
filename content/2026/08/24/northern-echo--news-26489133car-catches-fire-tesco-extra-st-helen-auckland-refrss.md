@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Bishop Auckland
+- Bishop Auckland Fire Station
+- St Helen Auckland
+people:
+- Matthew Blades
+- NEIL DOBINSON
+organisations:
+- CDDFRS
+- CDFRS
+- County Durham
+- Darlington Fire and Rescue Service
+- Tesco Extra
 ---
 
 Dramatic pictures show black plumes of smoke being sent into the sky after a car burst into flames.

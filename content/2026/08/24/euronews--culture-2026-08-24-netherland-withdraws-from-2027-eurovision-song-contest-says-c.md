@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Sports
 - Business & Entrepreneurship
+locations:
+- Balkan
+- Black Sea
+- Bulgaria
+- Burgas
+- Gaza
+- Iceland
+- Ireland
+- Israel
+- Slovenia
+- Spain
+- The Netherlands
+- Vienna
+people:
+- Celine Dion
+- Cliff Richard
+- Dara
+- Darina Yotova
+- Olivia Newton-John
+- Taco Zimmerman
+organisations:
+- ABBA
+- AVROTROS
 ---
 
 ## The 2026 competition was watched by 131 million viewers, down 35 million on the year before after five countries boycotted it over Israel's participation.

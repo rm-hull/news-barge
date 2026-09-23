@@ -13,6 +13,48 @@ image: https://images.euronews.com/articles/stories/09/88/53/47/1200x675_cmsv2_1
 categories:
 - Europe
 - News & Politics
+locations:
+- Almaty Region
+- Amanat
+- Arkalyk
+- Astana
+- Auyl
+- Central Asia
+- Dombra Palace
+- Europe
+- Kazakhstan
+- Kostanay
+- Kurultai
+- Middle Corridor
+- Pavlodar
+people:
+- Adilet Aibek Dadеbay
+- Amanat
+- Caraman Angelica
+- Indira Aubakirova
+- Kassym-Jomart Tokayev
+- Nur Otan
+- Nursultan Nazarbayev
+organisations:
+- Adilet Party
+- Ak Zhol
+- Aq Zhol
+- Aq Zhol Democratic Party
+- Assembly of the People of Kazakhstan
+- Auyl Party
+- Baitaq Green Party
+- Central Election Commission
+- Central Election Commission of Moldova
+- Constitutional Court
+- Institute of Legislation and Legal Information
+- Kazakhstan Institute of Public Development
+- Kazakhstan People’s Council
+- Kurultai
+- Nationwide Social Democratic Party
+- People’s Party of Kazakhstan
+- Qazaqstan Khalyq Kenesi Secretariat
+- Respublica Party
+- Water Resources Research Centre
 ---
 
 ## Kazakhstan's new ruling Adilet party has taken a decisive lead in early exit polls, with more than 70% of the vote in the country's early elections for its unicameral parliament which could give it roughly 105 of the 145 seats in the new legislative chamber.

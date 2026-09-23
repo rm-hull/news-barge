@@ -13,6 +13,22 @@ image: https://cdn.mos.cms.futurecdn.net/gN6Qsf7QSmrmYwtYPr47HY-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Benedict Collins
+- Hugging Face
+organisations:
+- '## AI'
+- APT
+- Artifactory
+- BUCSIS
+- Github
+- Google News
+- HF
+- IM1
+- OpenAI
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![OpenAI logo on smartphone, reflected on main screen](https://cdn.mos.cms.futurecdn.net/gN6Qsf7QSmrmYwtYPr47HY.jpg) 

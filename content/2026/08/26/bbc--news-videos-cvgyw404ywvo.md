@@ -14,6 +14,12 @@ categories:
 - Comedy & Entertainment
 - Film & TV
 - Music
+locations: []
+people:
+- Colin Paterson
+- Dolly Parton
+organisations:
+- BBC
 ---
 
 # What was behind Dolly Parton's widespread appeal?

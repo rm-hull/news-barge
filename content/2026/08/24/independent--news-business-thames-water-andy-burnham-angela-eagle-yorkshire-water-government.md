@@ -13,6 +13,35 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Britain
+- London
+- South East
+- Thames Water
+- UK
+- US
+people:
+- Andy Burnham
+- Angela Eagle
+- Bernadette Kelly
+- Clive Selley
+- Emma Reynolds
+- Liz Barber
+- Mike McTighe
+organisations:
+- Aberdeen Investments
+- Apollo Global Management
+- BT Openreach
+- Department for Transport
+- Elliott Management
+- Government
+- KKR
+- London & Valley Water
+- London & Valley Water consortium
+- Maja Smiejkowska
+- Ofwat
+- Thames Water
+- Yorkshire Water
 ---
 
 Thames Water’s creditors have revealed plans to appoint four new directors to the board of the stricken supplier if their rescue bid is given the green light to avoid it being nationalised.

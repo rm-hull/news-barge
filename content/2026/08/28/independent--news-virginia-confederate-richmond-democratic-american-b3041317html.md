@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Capitol Square
+- Richmond
+- Shenandoah Valley
+- Virginia
+people:
+- Adam Ebbin
+- Hunter Holmes McGuire
+- Mike Jones
+- Stonewall” Jackson
+- Thomas J
+- William “Extra Billy” Smith
+organisations:
+- Commonwealth of Virginia
+- Confederate Capital —
+- Shenandoah Valley Battlefields Foundation
+- United Daughters of the Confederacy
 ---
 
 Years into efforts to purge Richmond, Virginia — a former Confederate Capital — of memorials honoring the Confederacy, the Commonwealth of Virginia began removing three more Confederate memorials in the city on Friday.

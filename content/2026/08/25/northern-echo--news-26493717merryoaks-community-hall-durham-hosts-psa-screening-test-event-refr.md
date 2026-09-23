@@ -14,6 +14,29 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Brandon Community Centre
+- Cambridge
+- Chester-le-Street
+- County Durham
+- Merryoaks Community Hall
+- Park House Road
+people:
+- Gary Hutchinson
+- Geoff Kitson
+- Les Cleckner
+organisations:
+- Brawn’s Den
+- Cancer Screening Trust
+- City of Durham Parish Council
+- District Prostate Cancer Group
+- District Prostate Group
+- Durham City Freemen’s Charitable Trust
+- First Scan Health
+- Merryoaks Community Hall
+- NHS
+- PSA
+- University Hospital of North Durham
 ---
 
 *(Image: Geoff Kitson)*

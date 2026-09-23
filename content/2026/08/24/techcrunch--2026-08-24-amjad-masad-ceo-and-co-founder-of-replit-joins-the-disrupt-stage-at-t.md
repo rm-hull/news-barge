@@ -12,6 +12,15 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/Amjad-Masad-Disrupt-Sta
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- San Francisco
+people:
+- Amjad Masad
+organisations:
+- AI
+- Moscone West
+- Replit
 ---
 
 The AI boom has made it possible for a significantly wider range of people to dip into development, create code, and launch software for the first time. There are pros and cons to this, even for established developers who are being pushed to use it to produce work faster.

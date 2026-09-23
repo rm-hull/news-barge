@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Black Country
+- Brazil
+- Cornwall
+- Devon
+- East of England
+- Hexham
+- North East London
+- North West London
+- Northamptonshire
+- Salford
+- Somerset
+- South West
+people:
+- Alan
+- Jim Sykes
+- Mark Dayan
+- Shiv Pabary
+- Vivak Shah
+organisations:
+- British Dental Association
+- General Dental Practice Committee
+- Map of England
+- NHS
+- Northamptonshire
+- Nuffield Trust
 ---
 
 ![Young female dentist and assistant working on female patient in chair](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/3e3c/live/56fd13c0-9d65-11f1-a291-b542ee92de7c.jpg)

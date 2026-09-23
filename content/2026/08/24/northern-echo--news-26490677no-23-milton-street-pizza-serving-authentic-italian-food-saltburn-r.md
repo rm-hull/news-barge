@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- Milton Street Pizza
+- Milton Street Saltburn
+- Naples
+- North East
+- North East coast
+- North Yorkshire
+- Teesside
+people:
+- Craig
+- Jodie
+organisations:
+- Pizza
 ---
 
 Pizza fans seeking an authentic taste of Naples don't need to travel far, thanks to a North East coast restaurant serving traditional wood-fired meals.

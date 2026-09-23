@@ -12,6 +12,24 @@ image: https://cdn.mos.cms.futurecdn.net/Lprea3UQKgEfTJQJKLT4qa-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Li
+- Mark Tyson
+- Tom
+organisations:
+- AI
+- API
+- C2PA Content Credentials
+- GUID
+- Get Tom's Hardware
+- Google News
+- Microsoft
+- Paint
+- Tom's Hardware
+- WmkWriteWatermark
+- Xusheng Li
+- provenancesdk.dll
 ---
 
 ![Use Image Creator in Paint to generate AI art](https://cdn.mos.cms.futurecdn.net/Lprea3UQKgEfTJQJKLT4qa.jpg) 

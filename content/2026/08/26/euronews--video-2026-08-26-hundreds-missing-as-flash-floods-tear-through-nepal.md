@@ -12,6 +12,17 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Bhote Koshi
+- Dhading
+- Galchhi
+- Narayani
+- Nepal
+- Nuwakot
+- Rasuwa
+- Trishuli River
+people: []
+organisations: []
 ---
 
 Flash floodwaters surged through the Trishuli River in Nepal after a large volume of water entered the Bhote Koshi from the Tibetan side.

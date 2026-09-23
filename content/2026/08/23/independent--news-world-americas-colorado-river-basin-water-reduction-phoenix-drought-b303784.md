@@ -11,6 +11,44 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- America
+- California
+- Cave Creek
+- Central Arizona Project
+- Colorado River
+- Grand Canyon State
+- Nevada
+- New Mexico
+- Phoenix
+- Powell
+- Southwest
+- U.S.
+- Utah
+- White House
+- Wyoming
+people:
+- Brenda Burman
+- Eldon Rudd
+- Gabriel Lopez
+- Kate Gallego
+- Kathryn Sorenson
+- Robert Morris
+- Thomas Sheridan
+- Tom Buschatzke
+organisations:
+- Ak-Chin Indian Community
+- Arizona Department of Water Resources
+- Bureau of Land Reclamation
+- Bureau of Reclamation
+- Central Arizona Project
+- Congress
+- Department of the Interior
+- Lakes Mead
+- Los Angeles Times
+- The Independent
+- The New York Times
+- Trump
 ---
 
 Arizona is threatening to sue the Trump administration over its plan to limit the state's access to the drought-stricken Colorado River, which supplies Phoenix — America's fifth-biggest city — with about 40 percent of its water.

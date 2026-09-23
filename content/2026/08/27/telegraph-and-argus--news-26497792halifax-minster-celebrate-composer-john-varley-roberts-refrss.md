@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Halifax
+people:
+- David Baker
+- David Pipe
+- John Varley Roberts
+- Prof Baker
+- Roberts’
+organisations:
+- Halifax Minster
 ---
 
 *(Image: Supplied)*

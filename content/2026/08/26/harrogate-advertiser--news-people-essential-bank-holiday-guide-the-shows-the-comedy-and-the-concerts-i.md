@@ -14,6 +14,76 @@ categories:
 - Local
 - Harrogate
 - Comedy & Entertainment
+locations:
+- Bewerley
+- Brazil
+- Cheltenham Mount
+- Fishpond Wood Fairy Door Trail
+- Harrogate
+- Kirkby Malzeard
+- Knaresborough
+- Markenfield Hall
+- Nidd Art Trail
+- Pateley Bridge
+- Queen Drive
+- Ripley Town Hall
+- Ripon Cathedral
+- Sharow
+- Skipton Road
+- Spain
+- St Andrew’s Church
+- St Johns Church
+- St Nicholas Church
+- The Bilton Club
+- UK
+- West Tanfield
+people:
+- Dave Kelly
+- David Coulthard
+- Frederick Knott
+- Frida
+- Jack Carroll
+- Johan Lofving
+- John Godber
+- Katie Edwards
+- Kieran Lawless
+- Lucine Musaelian
+- Matt Richardson
+- Mika Häkkinen
+- Nathan Giorgetti
+- Paul Jones
+- Paul Tonkinson
+- Ripley Live
+- Sorry
+- Thomas James Butler
+- Yu-Wei Hu
+organisations:
+- Bewerley Memorial Hall
+- Blues Bar
+- Brighton
+- Cream Tea
+- FEVA
+- Formula One
+- Frazer Theatre
+- Friends Meeting House
+- Harrogate Convention Centre
+- Harrogate Film Society
+- Harrogate Theatre
+- Hot Sauce
+- Hyena Lounge Comedy Club
+- Intesa
+- Kosmos Ensemble
+- Lempen Puppet Theatre
+- Mercer Gallery
+- North Stainley Village Hall
+- Odeon
+- Opera North
+- RedHouse Gallery
+- Richard Jordan Productions
+- The Golden Princess
+- The Harry Mason Project
+- The Music & Legacy of Eagles
+- The Secret Agent
 ---
 
 # Essential bank holiday guide: The shows, the comedy and the concerts in Harrogate district

@@ -11,6 +11,11 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations: []
+people:
+- Pimms
+organisations:
+- Pannal Cricket
 ---
 
 Back by popular demand Pannal Cricket Gala will be on Sun 30 August 2026

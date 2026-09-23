@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Derby
+- England
+- Headingley
+- India
+- Leeds
+- Lord's
+- Pakistan
+- South Africa
+- Wellington
+people:
+- Brydon Carse
+- Harry Brook
+- Joe Root
+- Josh Tongue
+- Marcus Trescothick
+- Rooty," Tongue
+- Stephen Fleming
+- Tongue Tongue
+organisations:
+- BBC Sport
+- Cricket Regulator
+- England and Wales Cricket Board
+- Nottinghamshire
 ---
 
 ![England fast bowler Josh Tongue](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/579f/live/636e54f0-a140-11f1-9311-09d4e1fc9016.jpg)

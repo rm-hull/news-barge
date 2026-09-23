@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bahrain
+- Gulf of Oman
+- Hormuz
+- Iran
+- Iraq
+- Kuwait
+- Pakistan
+- Paktinat
+- Qatar
+- Saudi Arabia
+- Tehran
+- UAE
+- US
+people:
+- Abdolnaser Hemmati
+- Arsenio Dominguez
+- Asim Munir
+- Badr Albusaidi
+- Bloomberg
+- Chris Wright
+- Donald Trump
+- Hamid Asefi
+- Hamid Paktinat
+- Masoud Pezeshkian
+- Mohammad Bagher Ghalibaf
+organisations:
+- Forum of Economic Activists
+- International Maritime Organization
+- Kpler
 ---
 
 Is the strait of Hormuz, recently cited by the office of the Iranian supreme leader as “the pillar of Iran’s new security order”, and as transformative as possessing a nuclear weapon, in reality becoming a fast-diminishing asset, leaving Iran increasingly vulnerable to the new planned US wave of economic sanctions?

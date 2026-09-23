@@ -11,6 +11,26 @@ image: https://media.wired.com/photos/6a8effc5f304a7db06ecb9ee/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- London
+people:
+- Cookie Xu
+- Mac
+- Raymond Zhu
+- Relay
+organisations:
+- AI
+- Apple
+- Fn
+- Gemini
+- Google
+- Microsoft
+- Nothing
+- Pebble
+- Rambler
+- Relay Q
+- Sandbar
+- Wispr Flow
 ---
 
 How much do you hate typing? The advent of large language models has rapidly advanced voice-to-text technology. Whether it's Wispr Flow joining your meetings to summarize discussions or Google debuting smarter on-device dictation in its latest Pixel smartphone, these tools do far more than transcribe: They intelligently strip filler words, clean up unscripted thoughts on the fly, and seamlessly mediate multilingual conversations.

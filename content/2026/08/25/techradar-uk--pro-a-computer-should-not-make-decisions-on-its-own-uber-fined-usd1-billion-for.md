@@ -11,6 +11,26 @@ image: https://cdn.mos.cms.futurecdn.net/ipCFiKhTNtyRt4De2BoRPL-1600-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Europe
+- Netherlands
+people:
+- Craig Hale
+- Uber
+organisations:
+- '**Uber'
+- AP
+- Craig’s
+- Dutch Data Protection Authority
+- EU
+- GDPR
+- Google News
+- LDH
+- La Ligue des Droits de l'Homme
+- Meta
+- Reuters
+- TechRadar Pro
+- Uber
 ---
 
 ![Uber Eats](https://cdn.mos.cms.futurecdn.net/ipCFiKhTNtyRt4De2BoRPL.jpg) 

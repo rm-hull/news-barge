@@ -14,6 +14,29 @@ categories:
 - Business & Entrepreneurship
 - Shopping & Deals
 - Technology & Software
+locations:
+- AI
+- Atorie
+- France
+people:
+- Atorie
+- Claude
+- Louis Vuitton
+- Luis Angulo
+- Ralph Lauren
+- Redouane Ramdani
+organisations:
+- Amazon Essentials
+- Atoire AI
+- Atorie
+- ChatGPT
+- Lightspeed Ventures’ Jeremy Liew
+- Night Capital
+- Prada
+- Quince
+- Snipfeed
+- TechCrunch
+- Zara
 ---
 
 Fashion startup Atorie announced Thursday a $9.5 million seed round with investors, including a16z speedrun, Night Capital, and Lightspeed Ventures’ Jeremy Liew.

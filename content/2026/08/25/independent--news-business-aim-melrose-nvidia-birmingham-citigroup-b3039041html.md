@@ -12,6 +12,67 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Australia
+- California
+- Frankfurt
+- Garden Grove
+- Germany
+- Iran
+- London
+- Pakistan
+- Paris
+- Tehran
+- UK
+- US
+- Wall Street
+people:
+- Adam Daniels
+- Asim Munir
+- Berenberg
+- Charles Armitage
+- David Morrison
+- Greg Fuzesi
+- Jesse Myers
+- Kathleen Brooks
+- Monique Pollard
+- Russ Mould
+- Vistry
+organisations:
+- AI
+- AIM All-Share
+- AJ Bell
+- Alliance News
+- Allianz Trade
+- Army Staff
+- AstraZeneca
+- Berenberg
+- British American Tobacco
+- Citi
+- Citigroup
+- Compass
+- Diageo
+- International Consolidated Airlines
+- JPMorgan
+- Jupiter Fund Management
+- Melrose Industries
+- Micron
+- Next
+- Nvidia
+- Polar Capital Technology Trust
+- Prudential
+- S&U
+- SanDisk
+- Smarter Web
+- Smith & Nephew
+- Standard Chartered
+- Tesla
+- Trade Nation
+- Treasury
+- UK Government
+- Vistry
+- XTB
+- ifo Institute
 ---
 
 The FTSE 100 closed higher on Tuesday as oil prices fell and investors geared up for Wednesday’s double bill of earnings from Nvidia and US inflation data.

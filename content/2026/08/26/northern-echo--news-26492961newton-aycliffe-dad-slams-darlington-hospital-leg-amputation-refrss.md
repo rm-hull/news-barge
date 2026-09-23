@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Bishop Auckland
+- Chilton
+- County Durham
+- Darlington Hospital
+- Darlington Memorial Hospital
+- James Cook University Hospital
+- Middlesbrough
+- NHS New North East
+- North East
+- The James Cook University Hospital
+people:
+- Andrew Holmes
+- Chilton
+- Gerald Edward Foster
+- James Cook
+- Newton Aycliffe
+- SARAH CALDECOTT
+organisations:
+- County Durham
+- Darlington NHS Foundation Trust
+- GP
+- The Northern Echo
 ---
 
 *(Image: SARAH CALDECOTT)*

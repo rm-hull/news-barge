@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Lincoln
+- Swansea
+people:
+- Tom Pearson
+organisations:
+- Bantams
+- CITY
+- City Talk
+- Doncaster
+- Exeter
+- Premier League
+- Supporters Board
+- Supporters’ Trust
+- Yorkshire
 ---
 
 *(Image: Tom Pearson)*

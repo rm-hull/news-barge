@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Camp East Montana
+- Fort Bliss
+- Honduras
+- Texas
+- US
+- Walmart
+people:
+- Cristy Maryori Villafranca-Trejo
+- Dan Gividen
+- Donald Trump
+- Hedar Leonel Turcios Juarez
+- JP Caballero
+- Turcios Juarez
+- Veronica Escobar
+organisations:
+- Associated Press
+- Board of Immigration Appeals
+- DHS
+- Department of Homeland Security
+- El Paso
+- ICE
+- US Immigration and Customs Enforcement
 ---
 
 The wife of an active-duty US soldier was deported on Monday to her native Honduras, according to her family and the federal Department of Homeland Security (DHS).

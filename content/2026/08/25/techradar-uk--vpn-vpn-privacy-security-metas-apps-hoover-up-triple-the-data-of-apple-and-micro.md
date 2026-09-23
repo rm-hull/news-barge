@@ -11,6 +11,38 @@ image: https://cdn.mos.cms.futurecdn.net/QjbKdMt7whnQrYoGM6Mqvm-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Luis Costa
+- Meta
+- Monica J. White
+- Surfshark
+organisations:
+- '## Meta'
+- '**Surfshark'
+- Amazon
+- Apple
+- Big Tech
+- Digital Trends
+- Facebook
+- Forum
+- Google News
+- Messenger
+- Meta AI
+- Meta Ads Manager
+- Meta Business Suite
+- Meta Horizon
+- Meta Platforms, Inc
+- Microsoft
+- Monica
+- Safari
+- SlashGear
+- Starter
+- Surfshark
+- TechRadar
+- Tom’s Hardware
+- WePC
+- WhatsApp
 ---
 
 ![In this photo illustration, the Meta Platforms, Inc. logo is displayed on a smartphone screen.](https://cdn.mos.cms.futurecdn.net/QjbKdMt7whnQrYoGM6Mqvm.jpg) 

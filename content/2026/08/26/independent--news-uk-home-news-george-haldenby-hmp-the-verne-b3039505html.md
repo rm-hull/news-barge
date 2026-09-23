@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Dorchester
+- Dorset County Hospital
+- HMP The Verne
+- Haldenby
+- Portland
+- The Verne
+people:
+- George Edward James Haldenby
+- George Haldenby
+- Ms Griffin
+- Rachael Griffin
+- Verne
+organisations:
+- CPR
+- CSU
+- Coroner Area of Dorset
+- Dorset County Hospital
+- HMP
+- Oxleas NHS Foundation Trust
+- State for Prisons
+- The Verne
 ---
 
 A prison manager admitted he had not had first aid training in 35 years after an arsonist died of heart problems in prison.

@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Travel
+locations:
+- England
+- Hanley
+- Lambeth
+- Lincolnshire
+- Skegness
+- Staffordshire
+- Stoke-on-Trent
+- Waterloo
+people:
+- Cllr Finlay Gordon-McCusker
+- Simon Mathieson
+organisations:
+- BBC Radio Stoke
+- Department for Transport
+- DfT
+- First Bus
+- Guardian
 ---
 
 For some, it is a quotidian nuisance that inevitably occurs when you are in the vicinity of teenagers. For others, it is an expression of modern-day lawlessness among young people.

@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Barnes’ Westlake Village
+- Los Angeles
+- Los Angeles County
+people:
+- David S. Rad
+- Dianna Lynn Barnes
+- Erik Denton
+- Jared Moses
+- Joanna
+- Liliana Carrillo
+- Sierra
+- Terry —
+organisations:
+- Barnes’
+- Pasadena Superior Court
+- Rad
 ---
 
 The father of three young children killed by their mother is asking a judge to force a psychologist who evaluated her to turn over records that he says could be central to his lawsuit against Los Angeles authorities.

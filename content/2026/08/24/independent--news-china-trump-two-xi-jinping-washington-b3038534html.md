@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Bangladesh
+- Beijing
+- Cambodia
+- China
+- India
+- Indonesia
+- Iran
+- Japan
+- Malaysia
+- Mexico
+- Norway
+- Singapore
+- South Korea
+- Switzerland
+- Taiwan
+- Tehran
+- Thailand
+- U.S.
+- Vietnam
+- Washington
+- White House
+people:
+- Donald Trump
+- Paul Wiseman
+- Scott Bessent
+- Xi Jinping
+organisations:
+- Bloomberg News
+- European Union
+- Ministry of Commerce
+- Supreme Court
+- Treasury Department
+- Trump
+- U.S. Trade Representative
+- ___ AP
 ---
 
 President Donald Trump is moving toward levying a new tariff on China that would penalize the world’s second-largest economy for flooding the global market with underpriced goods, according to three people familiar with the matter.

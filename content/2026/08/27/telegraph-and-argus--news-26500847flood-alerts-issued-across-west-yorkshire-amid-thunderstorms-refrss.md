@@ -12,6 +12,19 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford
+- Brighouse
+- River Calder
+- Todmorden
+- Upper River Calder
+- West Yorkshire
+people: []
+organisations:
+- Met Office
+- WYFRS
+- West Yorkshire Fire and Rescue Service
+- West Yorkshire Prepared
 ---
 
 *(Image: Getty)*

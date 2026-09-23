@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Manhattan
+- New York
+- U.S.
+people:
+- John Cronan
+- Kathy Hochul
+- Letitia James
+organisations:
+- Anti-Defamation League
+- Burger King
+- Elon Musk's X
+- Musk
+- SpaceX
+- Sweetgreen
+- Twitter
+- U.S. Constitution
 ---
 
 A federal judge has thrown out a lawsuit brought by Elon Musk's X, which sought to overturn a New York state law requiring social media companies to disclose how they monitor hate speech, extremism, harassment, foreign political interference, and disinformation.

@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Great Yarmouth
+- Norfolk
+- Ormesby St Margaret
+- West Road
+people:
+- Kevin Griffin
+organisations:
+- Highways
+- ITV News Anglia
+- Norfolk Police
 ---
 
 Residents have described the moment a double-decker bus smashed into a period property in Norfolk as sounding “like a bomb had gone off”.

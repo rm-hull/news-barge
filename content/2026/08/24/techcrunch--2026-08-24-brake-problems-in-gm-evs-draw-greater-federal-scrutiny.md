@@ -13,6 +13,26 @@ categories:
 - Technology & Software
 - Automotive
 - Science
+locations:
+- Buick Enclave
+- Chevy Colorado
+- GMC Canyon
+- U.S.
+people:
+- Lyriq
+organisations:
+- Acura ZDX
+- Blazer EV
+- Cadillac Lyriq
+- EVs
+- Equinox EV
+- GM
+- General Motors
+- Honda
+- NHTSA
+- National Highway Traffic Safety Administration
+- ODI
+- Office of Defects Investigation
 ---
 
 General Motors electric vehicles, including ones built in partnership with Honda, are now facing increased scrutiny from the top U.S. auto safety regulator after hundreds of incidents, more than 20 crashes or fires, and at least six injuries.

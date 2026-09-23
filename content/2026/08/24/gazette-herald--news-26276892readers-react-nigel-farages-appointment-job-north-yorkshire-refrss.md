@@ -13,6 +13,33 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Clacton
+- Kirbymoorside
+- Manor of Northstead
+- North Yorkshire
+- Scarborough
+- The Manor
+- UK
+people:
+- Bailiff
+- Heidi
+- Joanne
+- Mick
+- NigeBoddy
+- Nigel Farage
+- Rachel Reeves
+- Sue
+organisations:
+- Crown Steward
+- Exchequer
+- House Of Commons
+- House of Commons
+- Manor of Northstead
+- Reform UK
+- The Press
+- The Steward
+- TheGrumpyNihilist
 ---
 
 Press readers have had their say on Nigel Farage’s appointment to a role in North Yorkshire after stepping down from the House of Commons.

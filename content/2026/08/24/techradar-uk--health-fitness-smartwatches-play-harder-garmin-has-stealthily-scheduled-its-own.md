@@ -11,6 +11,20 @@ description: Garmin's 'Play Harder' event is likely the debut of the industry's 
 image: https://cdn.mos.cms.futurecdn.net/ixR8S2rN5WBkhaAeW3hyiY-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- America
+- Cardiff
+people:
+- Matt Evans
+organisations:
+- '## Fenix'
+- '** Garmin'
+- Garmin Fenix
+- Garmin Fenix 9
+- Google News
+- Men's Health
+- Runner's World
+- TechRadar
 ---
 
 ![Garmin Fenix 8](https://cdn.mos.cms.futurecdn.net/ixR8S2rN5WBkhaAeW3hyiY.jpg) 

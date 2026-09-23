@@ -12,6 +12,32 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- UK
+people:
+- Alan Milburn
+- Andy Burnham
+- Costa
+- Ellen Marie
+- James Taylor
+- Lucy Schonegevel
+- Pat McFadden
+- Robert Jenrick
+- Robert Perry
+organisations:
+- Action for Children, Shelter
+- Barnardo’s
+- DWP State Pension
+- Government
+- Maple Hazel
+- Reform UK
+- Save the Children
+- Scope
+- St Michael
+- Treasury
+- Trussell Trust
+- Universal Credit
+- Work and Pensions
 ---
 
 *(Image: Robert Perry)*

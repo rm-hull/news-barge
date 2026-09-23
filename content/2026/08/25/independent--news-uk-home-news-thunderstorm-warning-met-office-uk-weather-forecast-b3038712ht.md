@@ -10,6 +10,14 @@ image: https://static.independent.co.uk/2026/08/19/13/01M0D1AFVDDVEB13TVRHAPQ231
 categories:
 - News & Politics
 - UK
+locations:
+- England
+- Midlands
+- Wales
+people: []
+organisations:
+- Met Office
+- The Independent
 ---
 
 Thunderstorm warnings have been issued across the country on Wednesday as the Met Office warns of flooding and disruption.

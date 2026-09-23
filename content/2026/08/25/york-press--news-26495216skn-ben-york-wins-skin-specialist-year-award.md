@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- '## York'
+people:
+- Ben Brookshaw
+organisations:
+- Facebook
+- Google
+- SKN
+- West Yorkshire Hair and Beauty Awards
 ---
 
 ## York skin therapist takes home prestigious award

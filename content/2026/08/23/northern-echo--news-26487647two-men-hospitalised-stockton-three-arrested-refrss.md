@@ -14,6 +14,18 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham Two
+- North East
+- Stockton
+people:
+- Aycliffe
+- Driver
+- Jonathan Christie
+organisations:
+- A183
+- Cleveland Police
+- Stockton CID
 ---
 
 *(Image: PROVIDED)*

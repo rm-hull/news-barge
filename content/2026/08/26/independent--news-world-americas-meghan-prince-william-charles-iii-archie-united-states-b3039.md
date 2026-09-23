@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- California
+- London
+- U.K.
+- United Kingdom
+- United States
+- Van Nuys
+people:
+- Archie
+- Harry
+- King Charles III
+- Lilibet
+- Meghan
+- William
+organisations:
+- BBC
+- Birmingham International Airport
+- Daily Telegraph
+- Netflix
+- Spotify
 ---
 
 Prince Harry and his wife Meghan arrived in the United Kingdom on Wednesday, as they make a fresh start in Britain after six years in the United States, U.K. media reported.

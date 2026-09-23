@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Borneo
+- Brunei
+- Central Kalimantan
+- Indonesia
+- Jambi
+- Kuala Lumpur
+- Malaysia
+- Riau
+- Sarawak
+- South Kalimantan
+- South Sumatra
+- Southeast Asia
+- West Kalimantan
+- West Papua
+- West, Central
+people:
+- Eileen Ng
+- Prabowo Subianto
+organisations:
+- BNPB
+- East Kalimantan
+- Environment Ministry
+- Forestry Ministry
+- National Disaster Management Agency
+- Transportation Ministry
 ---
 
 Indonesia on Monday intensified ground and aerial firefighting operations as huge blazes in central and western parts of the country scorched thousands of hectares of forests and peatland, created a choking haze that blanketed cities and crossed borders.

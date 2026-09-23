@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- England
+- Greater Manchester
+- Liverpool
+- London
+- North East
+- South Yorkshire
+- UK
+- West Midlands
+- West Yorkshire
+people:
+- Andy Burnham
+- Angela Rayner
+- Gavin Smart
+- James Cleverly
+- Kate Henderson
+- Keir Starmer
+- Margaret Thatcher
+- Rachel Reeves
+- Richard Tice
+- Sadiq Khan
+organisations:
+- Chartered Institute of Housing
+- Labour
+- National Housing Federation
+- Reform UK
+- Spending Review
 ---
 
 Andy Burnham has announced the comeback of the council house as he unveiled a £10bn package to build 70,000 new homes in England.

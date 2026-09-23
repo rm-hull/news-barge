@@ -12,6 +12,47 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Dagenham
+- Europe
+- Golders Green
+- Hatzola
+- Iran
+- Leyton
+- London
+- London.
+- Manhattan
+- North America
+- Turkey
+- US
+- United Kingdom
+- Walthamstow
+people:
+- Al-Saadi
+- Hamza Iqbal
+- Harakat Ashab al-Yamin al-Islamiya
+- Hatzola
+- Judex Atshatshi
+- Justice Cheema Grubb
+- Leo Seelig
+- Mohammad Baqer Saad Dawood al-Saadi
+- Rehan Khan
+- Saif Ali
+- Subhan Ahmed
+organisations:
+- AL-SAADI
+- BBC
+- CCTV
+- Community Security Trust
+- Crown Prosecution Service
+- Department of Justice
+- FBI
+- Hatzalah Ambulances
+- Hatzola
+- Old Bailey
+- Telegram
+- The Islamic Movement of the People of the Right Hand
+- US Department of Justice
 ---
 
 ![Hamza Iqbal, Saif Ali, Rehan Khan and Judex Atshatshi mugshot photos](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f3fe/live/c78363c0-a2f5-11f1-a291-b542ee92de7c.jpg)

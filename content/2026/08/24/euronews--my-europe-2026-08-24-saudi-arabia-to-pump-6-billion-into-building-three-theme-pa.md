@@ -12,6 +12,24 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Cergy-Pontoise
+- France
+- Japan
+- Mirapolis
+- Paris
+- Saudi Arabia
+- Élysée
+- Île-de-France
+people:
+- Emmanuel Macron
+- Mohammed bin Salman
+- Qiddiya
+- Valérie Pécresse
+organisations:
+- Disneyland Paris
+- Macron
+- TF1 TV
 ---
 
 ## The parks are set to be constructed in Cergy-Pontoise to the northwest of Paris and are expected to include a manga-themed attraction.

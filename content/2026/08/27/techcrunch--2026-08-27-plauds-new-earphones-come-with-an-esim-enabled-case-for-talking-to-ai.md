@@ -13,6 +13,26 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/169-KV-Clean-2.jpeg?res
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Plaud
+people:
+- Nathan Xu
+- Plaud
+organisations:
+- AirPods
+- Anker
+- Apple
+- Fathom
+- Genspark
+- Google Calendar
+- Google Pixel Buds
+- Granola
+- Plaud One
+- Plaud’s AI
+- Pocket
+- Read AI
+- Samsung Galaxy Buds
+- Viaim
 ---
 
 Hardware companies have realized that note-taking is one of the easiest AI use cases to build for, and consequently have been busy shoving mics into everything from pendants and rings to credit-card-sized pucks and wristbands. Still, despite the variety of devices, only a few companies have been able to stand out.

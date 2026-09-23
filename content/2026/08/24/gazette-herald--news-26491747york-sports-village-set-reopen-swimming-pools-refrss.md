@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Heslington
+- York
+people: []
+organisations:
+- York Sport Village
 ---
 
 *(Image: Supplied)*

@@ -10,6 +10,31 @@ image: https://cdn.mos.cms.futurecdn.net/xYCHJYF6osxKvsgCfkwmRo-1376-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Docker Hub
+- GitHub
+- India
+- West Bengal
+people:
+- Docker
+- Ritoban Mukherjee
+organisations:
+- '![Docker'
+- AI
+- BYOD
+- Creative Bloq
+- Docker Compose
+- Docker Engine
+- Docker Hub
+- Gizmodo
+- Google Drive
+- IT Pro
+- Nano
+- Netflix
+- Quartz
+- Ritoban Mukherjee
+- TechRadar Pro
+- Tom's Guide
 ---
 
 ![Docker website on a macbook](https://cdn.mos.cms.futurecdn.net/xYCHJYF6osxKvsgCfkwmRo.jpg) 

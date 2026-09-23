@@ -14,6 +14,33 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Acomb
+- China
+- Coney Street
+- Kevin Glenton
+- PenPen
+- UK
+- York
+people:
+- Bethany Richardson
+- Cailan Hobson
+- Charlie
+- Emmie Rudland
+- Kevin Glenton
+- Lilly
+- Meila
+- Miniso
+- Nicholas Wallis
+- Quinn Holmes
+- Vivian Leadley
+organisations:
+- Disney
+- Hello Kitty
+- Luxe Company
+- MINISO
+- Miniso
+- Star Wars
 ---
 
 CUSTOMERS have been queueing outside a new shop in York this morning (Friday, August 28) hours before it opened.

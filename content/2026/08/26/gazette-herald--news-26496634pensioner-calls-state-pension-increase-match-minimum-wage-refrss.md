@@ -14,6 +14,20 @@ categories:
 - York
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- Europe
+- UK
+people:
+- Aaron Chown
+- Costa
+- Richard Sobey MBE
+organisations:
+- DWP State Pension
+- Maple Hazel
+- National Insurance
+- New State Pension
+- St Michael
+- State Pension
 ---
 
 *(Image: Aaron Chown)*

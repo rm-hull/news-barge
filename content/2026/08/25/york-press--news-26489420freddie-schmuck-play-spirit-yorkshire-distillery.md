@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Music
+locations:
+- Hunmanby
+- UK
+people:
+- Freddie Schmuck
+- Steve Marson
+organisations:
+- Pot Still Coffee Shop
+- Scarborough
+- Spirit of Yorkshire
+- Spirit of Yorkshire Distillery
+- The Feens
 ---
 
 *(Image: Spirit of Yorkshire Distillery)*

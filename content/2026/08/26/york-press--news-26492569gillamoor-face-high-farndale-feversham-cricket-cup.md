@@ -13,6 +13,24 @@ categories:
 - York
 - Sports
 - Video Gaming
+locations:
+- Duncombe Park
+- Helmsley
+- High Farndale
+- Westerdale
+people:
+- Best Bowling
+- Callum Buckley
+- Charlie Parker
+- Gillamoor
+- Glaisdale
+- Liam Calvert
+- Mike Thompson
+- Westerdale
+organisations:
+- C.C's
+- Gillamoor
+- High Farndale
 ---
 
 *(Image: Supplied)*

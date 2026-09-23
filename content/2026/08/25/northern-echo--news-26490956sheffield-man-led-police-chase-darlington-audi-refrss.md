@@ -13,6 +13,26 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- DURHAM
+- Darlington Jamie Unwin
+- Grange Road
+- Harthill
+- Sheffield
+- St Cuthbert's Way
+- Union Mews
+people:
+- Ayesha Smart
+- Heartbroken
+- Jordan Parkinson
+- Matthew Blades
+- Unwin
+organisations:
+- Audi
+- Probation Service
+- Recorder Smart
+- Teesside Crown Court
+- The Recorder
 ---
 
 *(Image: DURHAM POLICE)*

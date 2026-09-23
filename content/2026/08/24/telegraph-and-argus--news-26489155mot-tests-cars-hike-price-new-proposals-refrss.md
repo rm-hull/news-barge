@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bradford
+people:
+- Stuart James
+organisations:
+- DVSA
+- Department for Transport
+- DfT
+- Driver and Vehicle Standards Agency
+- Government
+- IGA
+- Independent Garage Association
+- MOT
 ---
 
 *(Image: Getty Images)*

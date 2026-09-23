@@ -14,6 +14,28 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - News & Politics
+locations:
+- Louisiana
+- Mount Pleasant
+- U.S.
+- Virginia
+- West Feliciana Parish
+- Wisconsin
+people:
+- Jowi Morales
+- Kenny Havard
+- Susan Bourgeois
+- Tom
+organisations:
+- Google News
+- Jowi Morales
+- Louisiana Economic Development
+- Meta
+- Microsoft
+- NDA
+- NDAs
+- NPR
+- University of Mary Washington
 ---
 
 ![Meta data center](https://cdn.mos.cms.futurecdn.net/5DrUKzfgk2vDQzjnVtVpkJ.jpg) 

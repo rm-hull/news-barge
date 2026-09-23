@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- A59
+- Harrogate
+- Kex Gill
+- M
+- M6
+- North Yorkshire
+- North of England
+- Skipton
+people:
+- Malcolm Taylor
+organisations:
+- A1
+- A59
+- North Yorkshire Council
 ---
 
 # A59 Kex Gill: Road finally reopens in North Yorkshire after decades of disruption caused by landslips

@@ -13,6 +13,38 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Africa
+- Buganda Kingdom
+- Denver City and County
+- Denver Wellington Webb
+- Kingdom of Toro
+- Rwenzururu Kingdom
+- Tooro Kingdom
+- US
+- Uganda
+people:
+- '** Oyo Nyimba Kabamba Iguru Rukidi IV'
+- Best Kemigisa Olimi
+- Bobi Wine
+- Calvin Armstrong Rwomiire Akiiki
+- Juliana Kanyomozi
+- King Oyo
+- Margaret Muhanga
+- Moamer Khadafi
+- Mother Best Kemigisa
+- Toro King Oyo.
+- Wellington Webb
+- Wilma Webb
+- Yoweri Museveni
+organisations:
+- BBC News Africa
+- Crown
+- Daily Monitor
+- Federation of Uganda Football Associations
+- Guinness World Records
+- The Denver Post
+- Tooro
 ---
 
 ![King Oyo pictured at 18 during his coronation wearing a gold embroidered jacket and hat.](https://ichef.bbci.co.uk/ace/standard/967/cpsprodpb/dba6/live/93622e00-a2c8-11f1-941c-8741c1a72471.jpg)

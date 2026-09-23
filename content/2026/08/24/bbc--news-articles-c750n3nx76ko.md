@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Society & Culture
 - Sports
+locations:
+- Africa
+- African Parks
+- California
+- Congo-Brazzaville
+- Malawi
+- Odzala-Kokoua National Park
+- UK
+people:
+- Archie
+- Duke
+- Lilibet
+- Meghan
+- Prince Harry
+organisations:
+- African Parks
+- BBC
+- Duchess of Sussex
+- Netflix
 ---
 
 ![Prince Harry staring to his right wearing an African Parks cap and shirt with sunglasses](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/e417/live/35b281d0-9fc9-11f1-81b8-016fbb74ef71.jpg)

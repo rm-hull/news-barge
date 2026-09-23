@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - True Crime
 - Arts & Culture
+locations:
+- A66
+- Birchington Avenue
+- CARMEL COLLEGE
+- CLEVELAND
+- Grangetown
+- Middlesbrough
+- Teesside
+people:
+- Bladesy
+- Lisa Kirton
+- Matt
+- Matthew Blades
+- Natalie McDonald
+- OWEN HUMPHRIES
+- SARAH CALDECOTT
+- Tom Clough
+- Tommy
+- Valentina Foster
+organisations:
+- A66
+- Cleveland Police
+- Cleveland Police Federation
+- Times
 ---
 
 Tributes have been paid to an innocent child and her aunt who died in a house fire, as Teesside also fell silent to remember two police officers killed in the line of duty.

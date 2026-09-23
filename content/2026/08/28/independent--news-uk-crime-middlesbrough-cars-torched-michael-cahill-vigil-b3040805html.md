@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- A66
+- County Durham
+- Eston
+- Grangetown
+- Haswell
+- Middlesbrough
+- Peace Mickey’
+- Sedgemoor Road
+- South Bank
+- Steele Crescent
+- Teesside
+people:
+- Alec Brown
+- Cole Worthy
+- Jakub Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- Natalie McDonald
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- Cleveland Council
+- Cleveland Police
+- Redcar
+- TS6
 ---
 
 Cars appear to have been torched and flares set off at a gathering for one of the men killed in a head-on collision with police on the A66.

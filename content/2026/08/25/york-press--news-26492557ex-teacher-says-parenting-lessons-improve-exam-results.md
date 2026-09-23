@@ -12,6 +12,12 @@ categories:
 - York
 - Education & Learning
 - Self-Improvement
+locations: []
+people:
+- Guy DowseMeadowfields
+- Peter RickabyMoat WayBraytonWhat
+organisations:
+- Newsquest
 ---
 
 *(Image: Newsquest)*

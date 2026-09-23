@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Cambridgeshire
+- Huntingdon
+- Norfolk
+- Old Hurst
+people:
+- Johnsons
+organisations:
+- GoFundMe
 ---
 
 A three-year-old boy who was seriously injured in a zoo’s crocodile enclosure has been discharged from hospital and is settling back in at home, his family has said.

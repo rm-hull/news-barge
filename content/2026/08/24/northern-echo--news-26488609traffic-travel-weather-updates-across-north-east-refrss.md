@@ -15,6 +15,29 @@ categories:
 - News & Politics
 - Travel
 - Technology & Software
+locations:
+- Bishop Auckland
+- County Durham
+- Darlington
+- Eston Road
+- NORTHERN ECHO
+- Normanby Road
+- North East
+- North Yorkshire
+- Northern Rail
+- Teesside
+- Tyne and Wear Metro
+- UK
+people: []
+organisations:
+- A1
+- A66
+- Asda Traffic Lights
+- Cross Country
+- LNER
+- Newcastle Airports
+- The Northern Echo
+- TransPennine
 ---
 
 *(Image: NORTHERN ECHO)*

@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Britain
+- France
+- Kremlin
+- Kyiv
+- London
+- Luxembourg
+- Moscow
+- Russia
+- UK
+- Ukraine
+people:
+- Andrey Kelin
+- Andy Burnham
+- António Costa
+- Dmitry Peskov
+- Emmanuel Macron
+- Friedrich Merz
+- Kyiv
+- Luc Frieden
+- Mykhailo Fedorov
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- European Council
+- Kyiv
+- Macron
+- Scalp
 ---
 
 The Kremlin has warned of an escalation in tensions between the UK and Russia as Andy Burnham arrived in Kyiv to present Ukraine with newly declassified blueprints to allow Ukraine to improve its production of long-range missiles.

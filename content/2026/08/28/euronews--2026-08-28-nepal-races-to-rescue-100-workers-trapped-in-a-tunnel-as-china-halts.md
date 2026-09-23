@@ -13,6 +13,23 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Bhote Koshi
+- China
+- Gyirong
+- Himalayas
+- Nepal
+- Rasuwa
+- Tibet
+- Upper Trishuli
+people:
+- Buddha Tamang
+- Dev Shrestha
+- Raja Ram Basnet
+organisations:
+- AFP
+- CCTV
+- US Geological Survey
 ---
 
 ## More than 100 people remain trapped in a hydropower tunnel in Nepal, while rescuers across the border in Tibet have been forced to withdraw as fears grow of renewed flooding.

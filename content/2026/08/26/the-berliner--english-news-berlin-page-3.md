@@ -12,6 +12,16 @@ categories:
 - Berlin
 - Germany
 - News & Politics
+locations:
+- Berlin
+- Charlottenburg
+- Neukölln
+- Prenzlauer Berg
+people:
+- Iris Spranger
+organisations:
+- Rheinmetall
+- Wahl-O-Mat
 ---
 
 ## News

@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- California
+- Nevada
+- New Jersey
+- Pennsylvania
+- South Africa
+- US
+people:
+- Donald Trump
+- Markwayne Mullin
+- Zach Kahler
+organisations:
+- Center for Election Innovation and Research
+- DHS
+- Department of Homeland Security
+- FDNS
+- Fraud Detection and National Security Directorate
+- Guardian
+- US Citizenship and Immigration Services
+- USCIS
 ---
 
 All US immigration officers working for a key anti-fraud unit have been reassigned by Donald Trump’s administration to focus on screening South African refugees and alleged “unlawful” voters.

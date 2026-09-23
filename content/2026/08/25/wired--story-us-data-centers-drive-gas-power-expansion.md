@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- China
+- US
+people:
+- Jenny Martos
+- Kyle Chan
+organisations:
+- AI
+- Brookings Institution
+- Global Energy Monitor
+- Google
+- Meta
+- Microsoft
+- OpenAI
+- Trump
+- WIRED
 ---
 
 The amount of gas-fired power in development for data centers in the US has nearly doubled in less than a year, new research released Tuesday shows. The findings illustrate just how heavily tech companies are relying on building private fossil fuel plants to power data centers—and how fast artificial intelligence’s energy demand has grown.

@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Black Rock Desert
+- California
+- Nevada
+- Reno
+- Washoe County
+- West
+people:
+- Crystal Hallock
+- Darin Balaam
+- Hillary Schieve
+- Jon Hanbury
+- Matt Zumstein
+- Ruby Delatorre
+organisations:
+- Cadillac
+- Hawk Fire
+- National Guard
+- National Interagency Fire Center
+- U.S. Forest Service
 ---
 
 Firefighters are gaining ground on a fast-moving wildfire near Reno, Nevada, after flames destroyed more than 30 homes and forced tens of thousands of residents to evacuate or prepare to flee.

@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Beibu Gulf
+- China
+- Chongzuo
+- Fujian
+- Guangdong
+- Guangxi
+- Hainan
+- Japan
+- Kaohsiung
+- Morakot
+- Narra
+- Okinawa
+- Saudel
+- Tainan
+- Taiwan
+- Vietnam
+people:
+- Narra
+- Saudel
+organisations:
+- Central Weather Administration
 ---
 
 Widespread flooding triggered by Typhoon Narra has submerged homes and forced mass evacuations in southern China, as another storm system tracked towards Japan and Taiwan.

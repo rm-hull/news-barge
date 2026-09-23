@@ -13,6 +13,16 @@ image: https://static.independent.co.uk/2026/08/27/05/Britain_Cambridge_Professo
 categories:
 - News & Politics
 - UK
+locations:
+- Cambridge
+- London
+- U.S.
+people:
+- Jason Arday
+organisations:
+- Cambridge University
+- Simon & Schuster
+- Times of London
 ---
 
 Britons who saw Professor Jason Arday’s life and death dissected by weeks of headlines covering allegations about his academic qualifications and personal accomplishments can now read his version of the story.

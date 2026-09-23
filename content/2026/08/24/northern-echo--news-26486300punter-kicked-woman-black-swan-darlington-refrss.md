@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Relationships & Dating
+locations:
+- Black Swan
+- Darlington
+- Goldsmith Gardens
+- Parkgate
+people:
+- Anthony Pettengell
+- Ayesha Smart
+- Cainan Lonsdale
+- Matthew Large
+organisations:
+- Probation Service
+- THE NORTHERN ECHO
+- Teesside Crown Court
 ---
 
 *(Image: THE NORTHERN ECHO)*

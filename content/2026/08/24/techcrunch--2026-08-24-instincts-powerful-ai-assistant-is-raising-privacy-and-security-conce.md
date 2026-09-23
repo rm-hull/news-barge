@@ -13,6 +13,34 @@ image: https://techcrunch.com/wp-content/uploads/2023/11/hand-key-illustration-g
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- California
+- OpenClaw
+- Resy
+- Sierra
+people:
+- Alex Cohen
+- Claire Vo
+- Katie Jacobs Stanton
+- Luca Borletti
+- Michael Mignano
+- Noah Shinn
+- Peter Yang
+- Poke
+organisations:
+- AI
+- Anchor
+- Hello Patient
+- Instinct
+- Kleiner Perkins and Conviction
+- Moxxie Ventures
+- OpenAI
+- OpenClaw
+- Spear Street Technology
+- Spotify
+- TechCrunch
+- Terms of Service
+- Union Square Ventures
 ---
 
 Everyone is buzzing about Instinct, an AI personal assistant still in private access, not only for its incredible capabilities, but also for its potential privacy concerns. The agent, a veritable taskmaster, has been praised as feeling “like magic” and being one of the “most exciting launches” since OpenClaw. However, some testers have also raised concerns about the AI agent’s security model and its worrisome terms of service.

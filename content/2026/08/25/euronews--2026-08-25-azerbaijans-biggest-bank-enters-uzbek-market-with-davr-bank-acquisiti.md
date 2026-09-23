@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Azerbaijan
+- Central Asia
+- Uzbekistan
+people:
+- Abbas Ibrahimov
+- Lutfulla Ubayev
+organisations:
+- ABB Bank
+- CreditWatch
+- Davr Bank
+- International Bank of Azerbaijan
+- Management Board of ABB
+- S&P Global
+- Supervisory Board
 ---
 
 ## Azerbaijan's largest financial institution, the International Bank of Azerbaijan, is expanding its corporate banking operations by acquiring a 51% controlling stake in Uzbekistan's Davr Bank in a deal valued at $150 million (€128.5m).

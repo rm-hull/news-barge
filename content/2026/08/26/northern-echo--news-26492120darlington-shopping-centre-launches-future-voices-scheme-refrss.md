@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Cornmill Shopping Centre
+- Darlington
+- France
+- North East
+people:
+- Kiera Hinds
+- Kimberley Booth
+- Pepe
+- Piri Piri
+- Wayne Alp
+- William
+- Zoe France
+organisations:
+- Cornmill Shopping Centre
+- Dolphin Centre
+- Future Voices
+- Ms France
+- PSCO
+- Youth Justice
 ---
 
 *(Image: Supplied)*

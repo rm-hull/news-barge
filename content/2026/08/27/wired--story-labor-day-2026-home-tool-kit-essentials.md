@@ -13,6 +13,22 @@ categories:
 - Technology & Software
 - Science
 - Careers & Productivity
+locations:
+- Milwaukee
+people:
+- Bauer
+- Scott Gilbertson
+organisations:
+- DeWalt
+- Franklin Sensors
+- Franklin Sensors Stud Finder
+- Harbor Freight
+- Home Depot
+- Lowe
+- Lowe’s
+- Ryobi
+- WIRED
+- Walmart
 ---
 
 Most people know that Labor Day is one of the best times of the year to buy tools (get it? *Labor?*), but if you’re a newly minted homeowner or DIY-er, the landscape can be intimidating. When I bought my first home, I owned only two screwdrivers, a pair of pliers, and a hammer; I had no clue what I was in for.

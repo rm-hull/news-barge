@@ -11,6 +11,18 @@ image: https://media.wired.com/photos/6a8e0d868d6075ca30d3eb17/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Democratic Republic of the Congo
+- Kenya
+- Uganda
+- sub-Saharan Africa
+people:
+- Jeffrey Bailey
+- Karamoko Niare
+- Malaria
+organisations:
+- Brown University
+- Nature Medicine
 ---
 
 The main drug that has been in use for decades to combat malaria in sub-Saharan Africa is running into a problem: In recent years, researchers have become increasingly concerned that parasites are becoming less sensitive to treatment. Identifying the underlying genetic factors has become an urgent priority.

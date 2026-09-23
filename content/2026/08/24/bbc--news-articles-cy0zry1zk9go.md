@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Barnsley
+- Donbas
+- Donetsk
+- Huddersfield
+- Kyiv
+- Moscow
+- Oldham
+- Romania
+- Russia
+- South Yorkshire
+- Soviet Union
+- UK
+- Ukraine
+- West Yorkshire
+- Wiltshire
+people:
+- Aiden Minnis
+- Andy Burnham
+- Badger
+- Ben Stimson
+- Bradley Townsend
+- James Wilton
+- Vladimir Putin
+- Volodymyr Zelensky
+- Yorkshireman
+organisations:
+- FCDO
+- Foreign, Commonwealth & Development Office
+- Yorkshire Post
 ---
 
 ![A young man looks at the camera. He has relatively short, dark hair and is wearing a dark polo shirt.](https://ichef.bbci.co.uk/ace/standard/681/cpsprodpb/8d45/live/19d00870-9fbf-11f1-8648-8d7b77845e6d.png)

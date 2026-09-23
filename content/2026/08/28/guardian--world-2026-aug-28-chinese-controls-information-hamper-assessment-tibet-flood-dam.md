@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Beijing
+- China
+- Gyirong
+- Himalayas
+- Nepal
+- Tibet
+people:
+- Li Qiang
+- Steve Tsang
+- Xi Jinping
+organisations:
+- China Institute
+- People’s Liberation Army
+- Soas University of London
+- Xinhua
 ---
 
 In the days since an enormous glacier in the Himalayas snapped away from a mountaintop and cascaded into the valley below, the true scale of the devastation caused by the flash floods in Nepal and Tibet is still unfolding.

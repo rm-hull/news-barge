@@ -11,6 +11,21 @@ image: https://cdn.mos.cms.futurecdn.net/DqWtJvYf43VkKyzuYNg6mb-970-80.jpg
 categories:
 - Technology & Software
 - Comedy & Entertainment
+locations:
+- Hogwarts'
+people:
+- Harry Potter
+- Tom Bedford
+organisations:
+- Android Police
+- BGR
+- Digital Trends
+- GamesRadar
+- Google News
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- WhattoWatch
 ---
 
 ![Harry Potter](https://cdn.mos.cms.futurecdn.net/DqWtJvYf43VkKyzuYNg6mb.jpg) 

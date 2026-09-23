@@ -11,6 +11,28 @@ image: https://cdn.mos.cms.futurecdn.net/KHySyR6J9rvmwETnRdiEMV-450-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Antarctica
+- Ben Stockton
+- Brandon Hill
+- Freshwater West
+- Perth
+- Taiwan-US
+- U.S.
+people:
+- Dobby
+organisations:
+- Brandon Hill
+- Drake Passage
+- Jowi Morales
+- Luke James Published
+- Mark Tyson Published
+- Network SwitchesHigh
+- Starlink
+- Wi-Fi RoutersAsus
+- Wi-Fi RoutersElon Musk
+- Wi-Fi RoutersTP-Link
+- Zak Killian
 ---
 
 # Networking

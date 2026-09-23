@@ -12,6 +12,17 @@ description: The lawsuit alleged that Meta knowingly designed platforms like Ins
 image: https://techcrunch.com/wp-content/uploads/2026/02/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg?w=1024
 categories:
 - Technology & Software
+locations:
+- U.S.
+people:
+- C.J. Mahoney
+organisations:
+- COPPA
+- Facebook
+- Instagram
+- Meta
+- TikTok
+- YouTube
 ---
 
 Meta has agreed to pay up to $18 billion to settle claims from 29 U.S. states over children’s safety.

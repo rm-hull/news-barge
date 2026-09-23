@@ -13,6 +13,40 @@ categories:
 - UK
 - Technology & Software
 - Comedy & Entertainment
+locations:
+- Curracloe
+- Gloucestershire
+- Ireland
+- Kent
+- Kildare
+- Leeds
+- Limerick
+- Lowestoft
+- Manchester
+- Meadowhall
+- Middlesbrough
+- Sheffield
+- South Yorkshire
+- Stroud
+- UK
+- Wexford
+- Whitby
+people:
+- Luke Pollard
+- Mike Myers’
+- Seuss
+- Seuss’
+- Skye
+organisations:
+- A66
+- AI
+- BBC
+- Facebook
+- Gardaí
+- Meta
+- South Yorkshire Police
+- The Independent
+- TikTok
 ---
 
 Police forces have responded to an online craze showing Dr Seuss’ famous Cat in the Hat character on streets across the UK and Ireland.

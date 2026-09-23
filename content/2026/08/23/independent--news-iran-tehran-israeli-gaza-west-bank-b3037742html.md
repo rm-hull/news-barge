@@ -13,6 +13,50 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Avigayil
+- Gaza
+- Iran
+- Islamabad
+- Islamic Republic
+- Israel
+- Jerusalem
+- Karaj
+- Khirbet al-Rakeez
+- Middle East
+- Mohammadshahr
+- Pakistan
+- Persian Gulf
+- Strait of Hormuz
+- Tehran
+- U.S.
+- United States
+- West Bank
+- Zawaida
+- al-Auja
+people:
+- Asim Munir
+- Donald Trump
+- Esmail Baghaei
+- Israel Katz
+- Majid Adineh
+- Masoud Pezeshkian
+- Mizan
+- Mohammed Taha
+- Mohsen Rezaei
+- Munir Ahmed
+- Saeed Muhammad Ibrahim Rabah
+organisations:
+- Al-Aqsa Martyrs
+- Foreign Ministry
+- Health Ministry
+- IRIB
+- IRNA
+- Mizan
+- Revolutionary Court
+- Supreme National Security Council
+- The Associated Press
+- U.N.
 ---
 
 Iran's president defended a memorandum of understanding with the United States as the best way out of a stalled war.

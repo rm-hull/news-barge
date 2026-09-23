@@ -15,6 +15,29 @@ categories:
 - York
 - Music
 - History
+locations:
+- America
+- England
+- Magna Centre
+- Rotherham Hospital
+- South Yorkshire
+- Tennessee
+- UK
+- US
+people:
+- Claire
+- Dolly Parton
+- Emma Jarman
+- Gary Tiley
+- Roger Stone
+- Rotherham’
+- Sarfraz Manzoor
+- Susan Hunt
+organisations:
+- BBC
+- Facebook
+- Imagination Library
+- Rotherham
 ---
 
 # 'I was looking for an apartment!' When Dolly Parton almost moved to Yorkshire

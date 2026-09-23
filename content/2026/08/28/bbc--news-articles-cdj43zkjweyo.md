@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Cleveland
+- County Durham
+- Grangetown
+- Middlesbrough
+- Redcar
+- South Bank
+- Teesside
+people:
+- Alec Brown
+- Anna Turley
+- Lauren Somerville
+- Lisa Kirton
+- Matthew Blades
+- Natalie McDonald
+- PC Blades
+- PC Clough
+- Tina
+- Tom Clough
+- Valentina Foster
+organisations:
+- A66
+- BBC Radio Tees
+- Cleveland Borough Council
+- Cleveland Council
+- Cleveland Police
+- Cleveland Police Federation
+- Cleveland Police HQ
+- Labour
+- Lucozade
+- PC Blades
+- Redcar
+- Volkswagen
 ---
 
 ![Police officers look at flowers at the Cleveland Police HQ in Middlesbrough. There are pictures of PC Matthew Blades and PC Tom Clough among the flowers.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ce27/live/b8e285f0-a2cb-11f1-941c-8741c1a72471.jpg)

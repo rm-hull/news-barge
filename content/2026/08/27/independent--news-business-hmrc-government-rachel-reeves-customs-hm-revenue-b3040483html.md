@@ -13,6 +13,22 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- England
+- London
+people:
+- Rachel Reeves
+- Sean Cockburn
+organisations:
+- Bitcoin
+- CGT
+- Dogecoin
+- Ethereum
+- Forvis Mazars
+- HM Revenue & Customs
+- HMRC
+- Labour Government
+- Treasury
 ---
 
 The Government collected a record amount from capital gains tax last year after rates increased under former chancellor Rachel Reeves, helping reel in an extra 180,000 taxpayers.

@@ -11,6 +11,33 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/QueryStory-Groups-8-1.j
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- China
+- QueryStory
+people:
+- Claude Cowork
+- David Glusic
+- Shapor Naghibzadeh
+- Stanley Yang
+- Tayler Sipperly
+- Tim Del Bello
+organisations:
+- AI
+- Accenture
+- BI
+- Brightmind Partners
+- Brightmind Ventures
+- CFO
+- CTO
+- Chronicle
+- EvolutionIQ
+- Google
+- Google’s X Labs
+- New York Life Ventures
+- QueryStory
+- SpaceX
+- TechCrunch
 ---
 
 Shapor Naghibzadeh learned the value of a good story in 2009 as a Google sysops engineer. When hackers backed by China set their sights on the search giant as part of an effort dubbed Operation Aurora, he was called into a hastily assembled war room to explain what exactly was going on in the company’s servers.

@@ -13,6 +13,16 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/Jalapeno-chip-final.jpe
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Jalapeño
+- Richard Ho
+organisations:
+- Broadcom
+- Hot Chips
+- Jalapeño
+- Nvidia Blackwell
+- OpenAI
 ---
 
 At the Hot Chips conference on Tuesday, OpenAI shared a more detailed look at Jalapeño, including the first batch of benchmark results for the new system. Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the-art inference processors.

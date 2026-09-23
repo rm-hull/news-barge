@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Barnsley
+- England
+- Greece
+- Hungary
+- Loftus Road
+- London
+people:
+- Akos Buzsaky
+- Akos Buzsáky
+- Bukzsaky
+- Jose Mourinho
+organisations:
+- Academica
+- Akos
+- Chelsea
+- Ferencvaros
+- MTK Budapest
+- Plymouth Argyle
+- Porto
+- Portsmouth
+- Premier League
+- QPR
 ---
 
 QPR have stated they are “praying” for Akos Buzsaky after the former Premier League midfielder was reported missing in Hungary.

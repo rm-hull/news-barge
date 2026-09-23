@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Burton Constable
+- Burton Constable Hall
+- East Yorkshire
+people:
+- Alasdair Hutson
+organisations:
+- Burton Constable Foundation
+- East Yorkshire Thoroughbred Car Club
+- Lotus Owners Club
 ---
 
 A classic car show is set to return this autumn following record crowds earlier this year.

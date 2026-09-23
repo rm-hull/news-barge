@@ -14,6 +14,37 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Altadena
+- California
+- Iran
+- LA
+- Los Angeles
+- Malden
+- Maui
+- Spokane
+- US
+- Washington
+people:
+- Adam Schiff
+- Alex Padilla
+- Biden
+- Donald Trump
+- Gavin Newsom
+- Jay Inslee
+- LAist
+- Rob Bonta
+- Spokane
+organisations:
+- Community Development Block Grants
+- DHS
+- Department of Angels
+- Federal Emergency Management Agency
+- Fema
+- LA
+- Politico
+- Trump
+- US Department of Homeland Security
 ---
 
 As thousands of residents in Spokane, Washington, begin to grapple with a long recovery after a destructive set of blazes that consumed hundreds of homes in the state’s second most populated city this month, victims of the Los Angeles firestorm broke a grim record – they have faced the longest delay in modern history for federal aid.

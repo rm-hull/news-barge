@@ -14,6 +14,29 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Knottingley
+- Lockwood
+- South Kirby
+- UK
+- West Yorkshire
+- York
+people:
+- Jessica Sangha
+- Johnny Walker
+- Lockwood
+- Sharon Graham
+organisations:
+- Ardagh Glass
+- Budweiser
+- Butlin's
+- Coca-Cola
+- GXO
+- Heineken
+- Jameson
+- Lockwood Haulage Ltd
+- Stella
+- Unite
 ---
 
 *(Image: Butlin's)*

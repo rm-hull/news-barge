@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Chain Bar
+- England
+- M606 Junction
+- M62
+people: []
+organisations:
+- Chain Bar
+- M606 Junction
+- National Highways
 ---
 
 *(Image: Highways England)*

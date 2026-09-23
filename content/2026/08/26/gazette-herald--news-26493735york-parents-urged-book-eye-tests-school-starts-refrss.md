@@ -14,6 +14,12 @@ categories:
 - York
 - Family & Parenting
 - Education & Learning
+locations: []
+people:
+- Charlotte Turner
+organisations:
+- Specsavers Vangarde
+- Specsavers York
 ---
 
 *(Image: Specsavers)*

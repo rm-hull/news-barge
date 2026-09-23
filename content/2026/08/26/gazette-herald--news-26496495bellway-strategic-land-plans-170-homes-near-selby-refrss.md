@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- A63
+- Bellway
+- Brayton
+- Mill Lane
+- NORTH Yorkshire
+- North Yorkshire
+- Selby
+- St Wilfrid's Close
+- YOUR
+people:
+- Alex Bowling
+organisations:
+- Bellway Strategic Land
+- Government
+- North Yorkshire Council
+- Public Notice Portal
+- The Press
 ---
 
 ### What is the Public Notice Portal?

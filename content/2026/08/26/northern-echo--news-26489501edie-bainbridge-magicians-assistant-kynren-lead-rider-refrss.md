@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- America
+- Bishop Auckland
+- Cotswolds
+- France
+- Germany
+- Kynren – The Storied Lands
+- UK
+- US
+people:
+- Edie Bainbridge
+- Kynren
+- Miss Bainbridge
+- Pegaso
+organisations:
+- Giffords Circus
+- Pegaso
 ---
 
 A shy rider whose love of horses began in childhood has become the star of a daring equestrian show.

@@ -11,6 +11,19 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Education & Learning
+locations:
+- AI
+- Aimii
+people:
+- Hugging Face
+- Ned Stark
+organisations:
+- AI
+- Aiimi
+- Future plc
+- OpenAI
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![The letters AI in a box in the middle of a vast digital room divided by beams of line](https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM.jpg) 

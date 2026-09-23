@@ -14,6 +14,18 @@ categories:
 - Science
 - Technology & Software
 - Health & Fitness
+locations:
+- Europe
+- UK
+- US
+people:
+- Helen Thomson
+- John Speakman
+- Matthew Kempton
+organisations:
+- Kings College London
+- National Health Service
+- University of Aberdeen
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309374573.jpg?w=840)

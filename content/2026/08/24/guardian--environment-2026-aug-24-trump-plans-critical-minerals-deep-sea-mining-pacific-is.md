@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- American Samoa
+- China
+- Guam
+- Hawaii
+- Mariana Trench
+- Northern Mariana Islands
+- Northern Marianas
+- Pacific
+- US
+- United States
+people:
+- David Apatang
+- Donald Trump
+- Fa’asao Ameika Samoa
+- Guam
+- Joshua Tenorio
+- Nikolau Pula
+organisations:
+- American Samoa
+- Apatang
+- Conservation Council for Hawaii
+- Guardian
+- MMA
+- Marine Mineral Administration
+- Trump
 ---
 
 A US government plan to lease out millions of hectares of seabed near the Mariana Trench for deep sea exploration has drawn opposition from US territories in the Pacific, as the Trump administration remains locked in a race with China for control of critical ocean minerals.

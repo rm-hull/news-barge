@@ -14,6 +14,37 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Andorra
+- Black Rabbit
+- Britain
+- Chester-le-Street
+- Court Inn
+- Durham
+- Hibou Blanc
+- London
+- Marrakesh
+- Newcastle
+- North East
+- Peking
+- Sunderland
+- The Grey Owl
+- UK
+- Yorkshire
+people:
+- Imad Ali
+- Richard Nellis
+- Terry Haley
+organisations:
+- Abbey Group
+- Collective Design
+- Court Inn
+- Durham
+- Nellis’
+- Sanctuary Knocker
+- The Court
+- The Drunken Duck
+- The Sanctuary Knocker
 ---
 
 *(Image: Supplied)*

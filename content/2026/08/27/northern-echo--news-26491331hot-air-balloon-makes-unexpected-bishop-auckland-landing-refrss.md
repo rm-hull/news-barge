@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 - Society & Culture
+locations:
+- Bishop Auckland
+- Bishops Park
+- Ferryhill Child
+- Marsh Way
+- Roseberry
+- UK
+people:
+- Hollie Smith
+- Rachel Scott
+organisations:
+- Air Accidents Investigation Branch
+- Echo
+- Virgin
 ---
 
 Residents on a Bishop Auckland street were left “shocked” when a hot air balloon landed outside their homes.

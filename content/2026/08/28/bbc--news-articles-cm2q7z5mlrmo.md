@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- US
+- White House
+people:
+- Claude-maker
+- Donald Trump
+- Pete Hegseth
+- Rita Lin
+organisations:
+- AI
+- Anthropic
+- BBC
+- Defense Department
+- Pentagon
+- US Constitution
+- US Department of Defense
 ---
 
 ![US President Donald Trump and Secretary of Defense Pete Hegseth listen to questions from the press during a Cabinet meeting.](https://ichef.bbci.co.uk/ace/standard/863/cpsprodpb/8a72/live/1e9bf7b0-a299-11f1-b81f-99addc8c0403.jpg)

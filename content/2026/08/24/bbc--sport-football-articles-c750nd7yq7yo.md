@@ -13,6 +13,48 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- Arsenal
+- Barcelona
+- Catalonia
+- Emirates Stadium
+- London
+- Madrid
+- Manchester City
+- River Plate
+- Spain
+- Switzerland
+- UK
+people:
+- Andrea Berta
+- Atleti
+- Bruno Guimaraes
+- Enrique Cerezo
+- Ezri Konsa
+- Fernando Hidalgo
+- Hansi Flick
+- Julian Alvarez
+- Mateu Alemany
+- Mikel Arteta
+- Viktor Gyokeres
+- Vinicius Jr
+organisations:
+- Arsenal
+- Atleti
+- Atletico Madrid
+- BBC Sport
+- Barca
+- Barcelona
+- Camp Nou
+- Etihad
+- Gunners
+- Gunners'
+- Manchester City
+- Premier League
+- Real Madrid
+- Riyadh Air Metropolitano Stadium
+- Villarreal
 ---
 
 ![Julian Alvarez pictured looking to the side while sat on the bench during Atletico Madrid's match against Villarreal in August.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/097a/live/784830d0-9fb5-11f1-bff6-57f1422ebb0b.jpg)

@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Edge Lane
+- Hebden Bridge Road
+- Hill House
+- Hill House Edge Lane
+- Oxenhope
+- West Yorkshire
+people: []
+organisations:
+- Major Collision Enquiry Team
 ---
 
 # Motorcyclist, 65, dies in hospital days after crashing into wall

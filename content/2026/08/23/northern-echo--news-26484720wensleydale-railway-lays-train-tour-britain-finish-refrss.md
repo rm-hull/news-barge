@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bedale
+- Britain
+- Earlston
+- Leeming Bar
+- Leyburn Station
+- Lincoln
+- Lincolnshire
+- North East
+- North Yorkshire
+- Redmire
+- Scottish Borders
+- Scruton
+- Wensleydale Railway
+- Yorkshire Dales
+- Yorkshire Dales National Park
+people:
+- Nick Keegan
+organisations:
+- British Cycling
+- Little White Bus
+- Wensleydale Railway
+- Wensleydale Railway Trust
 ---
 
 Cycling fans heading to the finish of one of Britain's biggest road races will be able to avoid congestion and road closures thanks to a special rail service being laid on in North Yorkshire.

@@ -12,6 +12,45 @@ image: https://static.independent.co.uk/2026/08/23/09/2291620528..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- DC
+- Netherlands
+- Pennsylvania Avenue
+- U.S. Capitol
+- Washington, D.C.
+- White House
+people:
+- Alex Palou
+- Blance
+- Donald Trump
+- Duffy
+- Felix Rosenqvist
+- Kyle Kirkwood
+- Mike Johnson
+- Rinus VeeKay
+- Todd Blanche
+organisations:
+- Congress
+- FAA
+- Federal Aviation Administration
+- Federal Trade Commission
+- First Lady
+- Fox News
+- Great American State Fair
+- House
+- IndyCar
+- National Air and Space Museum
+- National Archives
+- National Gallery of Art
+- National Guard
+- National Mall
+- Ronald Reagan Washington National Airport
+- Transportation
+- Trump
+- U.S. Capitol
+- UFC
+- Washington Monument
 ---
 
 President Donald Trump’s historic IndyCar race is set to roar through the streets of Washington, D.C., Sunday.

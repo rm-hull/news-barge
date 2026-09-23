@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - Technology & Software
 - History
+locations:
+- Alaska
+- Germany
+- Latvia
+- Moscow
+- Riga
+- Russia
+- US
+- Ukraine
+- Vnukovo
+- Washington
+- White House
+people:
+- Alsu Kurmasheva
+- Donald Trump
+- Evan Gershkovich
+- John Foreman
+- John Ratcliffe
+- Ksenia Karelina
+- Paul Whelan
+- Vladimir Putin
+organisations:
+- BBC News
+- BBC Verify
+- CBS
+- CIA
+- FlightRadar24
+- Pentagon
+- Radio 4
+- US Central Intelligence Agency
+- Wall Street Journal
 ---
 
 ![John Ratcliffe seen in a navy suit, with a red tie.](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/32e3/live/0854ea30-a095-11f1-91dc-4919512f173f.jpg)

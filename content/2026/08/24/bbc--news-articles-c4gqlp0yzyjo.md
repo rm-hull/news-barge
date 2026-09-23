@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- All Washoe County
+- Black Hawk
+- California
+- Nevada
+- Reno
+- Washoe County
+people:
+- Joe Lombardo
+organisations:
+- National Guard
+- Nevada National Guard
 ---
 
 Plumes of smoke seen over Reno as thousands evacuate due to wildfires

@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Our Yorkshire Farm
+- Redcar High Street
+- Sky’
+people:
+- Amanda Owen
+- Carrie Richardson
+- DAVE CHARNLEY
+- Sticks’
+organisations:
+- Arts Council England
+- Cleveland Borough Council
+- Climate and Culture
+- Kirkleatham Museum and Grounds
+- Redcar
+- Tides
+- Yorkshire Shepherdess
 ---
 
 Families enjoyed a free day out with colourful costumes, interactive shows and a giant foam party.

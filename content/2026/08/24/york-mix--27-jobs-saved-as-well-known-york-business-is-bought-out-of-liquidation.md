@@ -11,6 +11,27 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Fenwick
+- Goodramgate
+- Newcastle
+- Our York
+- Sudbury
+- Suffolk
+people:
+- Kevin Fernandez
+- Mike Jenkins
+- Rafi Fernandez
+- Rafi’s Spicebox
+organisations:
+- BTG Begbies Traynor
+- Capital On Tap
+- Ebor Industrial Estate
+- Goodramgate
+- Iwoca Ltd
+- Rafi
+- Rafi’s Spicebox
+- Rafi’s Spicebox Limited
 ---
 
 A well-known York business that went into liquidation has been saved and is now trading under new owners.

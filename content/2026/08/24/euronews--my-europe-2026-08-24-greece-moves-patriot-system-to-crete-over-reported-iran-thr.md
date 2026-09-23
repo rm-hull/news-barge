@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - History
 - Business & Entrepreneurship
+locations:
+- Crete
+- Europe
+- Iran
+- Karpathos
+- Souda
+- Strait of Hormuz
+- US
+- United States
+people:
+- Donald Trump
+organisations:
+- Financial Times
+- Greek Armed Forces
+- NATO
 ---
 
 ## The Financial Times reported last week, quoting Iranian sources, that Iran would fire missiles at US targets in Europe if President Donald Trump steps up military pressure over the Strait of Hormuz.

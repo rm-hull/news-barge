@@ -11,6 +11,24 @@ image: https://static.independent.co.uk/2026/08/26/16/download..?trim=0,0,0,0&wi
 categories:
 - News & Politics
 - UK
+locations:
+- Alaska
+- California
+- Dallas
+- Los Angeles
+- Texas
+people:
+- Baby
+- Domen
+- Gabriel
+- McKenna West
+- Nausheen Gilkar
+- Omar Ahmed
+- Rumi
+- Surrogate McKenna West
+organisations:
+- Centers for Disease Control and Prevention
+- West
 ---
 
 A California couple locked in a legal dispute with their surrogate over a baby born with a critical heart defect told a Texas court Tuesday that the child's condition has deteriorated, expressing anguish over attempts to strip their parental rights because they had previously requested an abortion.

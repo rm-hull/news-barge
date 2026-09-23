@@ -12,6 +12,29 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/226e/live/30231d
 categories:
 - UK
 - News & Politics
+locations:
+- Asia
+- Islamabad
+- Karachi
+- PIMS
+- Pakistan
+people:
+- '![Javeria'
+- Abdul Ghafoor
+- Aslam Ghauri
+- Hivsa Walid
+- Jaweria
+- Khurram Mehmood
+- Rana Imran Sikander
+- Samiullah
+- Shehbaz Sharif
+- Sohail Ashraf
+organisations:
+- AFP
+- BBC
+- PIMS
+- Pakistan Institute of Medical Sciences
+- Reuters
 ---
 
 ![Samiullah, the father of a newborn who was killed in the PIMS hospital blaze, is comforted.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/506d/live/b7a51620-a119-11f1-92eb-a9b3bbcf6f4a.jpg)

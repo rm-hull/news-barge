@@ -12,6 +12,17 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Self-Improvement
+locations:
+- New York City
+people:
+- Eric Hal Schwartz
+organisations:
+- AI
+- ChatGPT Plus
+- Google Gemini
+- Google News
+- TechRadar
+- Voicebot.ai
 ---
 
 ![ChatGPT and dollar bills in a split screen arrangement.](https://cdn.mos.cms.futurecdn.net/9PPGC2rrwQ57UzsPHVzDyg.jpg) 

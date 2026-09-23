@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Iran
+- US
+people:
+- Donald Trump
+- Joe Biden
+organisations:
+- Conference Board
+- Department of Labor
+- Federal Reserve
+- Trump
 ---
 
 Americans’ confidence in the economy declined again this month as the ongoing conflict in Iran continued to push US gasoline prices above $4 per gallon.

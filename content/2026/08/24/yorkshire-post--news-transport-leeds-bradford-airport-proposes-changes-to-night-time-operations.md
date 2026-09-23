@@ -14,6 +14,30 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Humber
+- Leeds Bradford Airport
+- UK
+- Yorkshire
+people:
+- James Mason
+- Olga Watterich
+- Steve Heapy
+- Vincent Hodder
+organisations:
+- '## Leeds Bradford Airport'
+- ATM
+- Air Traffic Movement
+- Airport Carbon Accreditation
+- CBI Yorkshire
+- Humber
+- Jet2
+- Leeds Bradford Airport
+- Leeds City Council
+- NNIS
+- QCS LBA
+- REGEN
+- West & North Yorkshire Chamber of Commerce
 ---
 
 # Leeds Bradford Airport proposes changes to night-time operations and a Night Noise Insulation Scheme

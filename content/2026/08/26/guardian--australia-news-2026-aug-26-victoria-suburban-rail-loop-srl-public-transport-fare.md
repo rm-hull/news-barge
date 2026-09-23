@@ -12,6 +12,37 @@ image: https://i.guim.co.uk/img/media/6b34aa0ac2d64b241941b18011c541e72aaea8d5/3
 categories:
 - UK
 - News & Politics
+locations:
+- Box Hill
+- Cheltenham
+- Melbourne
+- North
+- SRL East
+- Suburban Rail Loop
+- Sunshine
+- Victoria
+- Werribee
+people:
+- Ben Carroll
+- Chris Barrett
+- Daniel Andrews
+- Jeroen Weimar
+- Jess Wilson
+organisations:
+- Cabinet
+- Commonwealth
+- DTF
+- Department of Premier
+- Department of Transport and Planning
+- Department of Treasury and Finance
+- Labor
+- PBO
+- Parliamentary Budget Office
+- SRL East
+- SRL East –
+- SRL North
+- Suburban Rail Loop
+- Transport Victoria
 ---
 
 The Victorian government secretly increased public transport fares to raise money to help pay for the Suburban Rail Loop and other Big Build projects, the state’s auditor-general has revealed.

@@ -13,6 +13,26 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Ceuta
+- Madrid
+- Morocco
+- Spain
+people:
+- Alberto Núñez Feijóo
+- Angel Victor Torres
+- Felix Bolanos
+- Kissy Chandiramani
+- Pedro Sánchez
+organisations:
+- AFP
+- Cabinet
+- European Union
+- Interior Ministry
+- Justice
+- Popular Party
+- Red Cross
+- Territorial Policy
 ---
 
 ## Tensions have risen after a military vehicle carrying four soldiers was "ambushed" in the early hours of Thursday by about 70 migrants, who attacked it with stones and other objects, a police spokesperson in Ceuta.

@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Caribbean
+- Haiti
+- Kenscoff
+- Port-au-Prince
+- US
+people:
+- Didi
+- Izo
+- Jean Massillon
+- Johnson André
+- Kenscoff
+- Romain Le Cour
+- Viv Ansanm
+- Vladimir Paraison
+organisations:
+- BINUH
+- Global Initiative Against Transnational Organized Crime
+- Le Cour
+- UN
 ---
 
 At least 47 people were killed and more than 50 others kidnapped when armed men attacked a once peaceful community near Haiti’s capital at the weekend, the UN has said.

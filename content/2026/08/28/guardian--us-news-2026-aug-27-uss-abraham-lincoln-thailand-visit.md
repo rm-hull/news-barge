@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Abraham Lincoln
+- Iran
+- Middle East
+- Pacific
+- San Diego
+- Thailand
+- US
+- United States
+people:
+- George Washington
+- Lincoln
+organisations:
+- Guardian
+- MS
+- Navy Times
+- Pentagon
+- Reuters
+- USS
 ---
 
 The USS Abraham Lincoln aircraft carrier is set to make a temporary stop in Thailand next week as it heads back to the United States, Thai navy officials said, after spending more than 250 consecutive days at sea supporting US operations against Iran amid recent reports of poor living conditions and low morale onboard the vessel.

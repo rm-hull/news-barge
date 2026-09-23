@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- America
+- Indiana
+- Wintrust Arena
+people:
+- Enes Kanter
+- Enes Kanter Freedom
+- Kanter Freedom
+- Michael Alter
+- Natasha Cloud
+- Royce White
+- Sophie Cunningham
+organisations:
+- Chicago Sky
+- Cloud
+- Indiana Fever
+- LGBTQ
+- NBA
+- New York Post
+- WNBA
+- Wintrust Arena
 ---
 
 Former NBA player Enes Kanter Freedom has been barred from Wintrust Arena, the Chicago Sky announced on Tuesday, following his removal from the venue during a game two days prior.

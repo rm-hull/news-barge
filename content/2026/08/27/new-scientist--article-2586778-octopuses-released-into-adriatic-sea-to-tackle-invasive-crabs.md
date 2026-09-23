@@ -13,6 +13,25 @@ categories:
 - Science
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Adriatic
+- Cesenatico
+- Emilia-Romagna
+- Europe
+- Italy
+- Riccione
+- Spain
+people:
+- Anna Di Cosmo
+- Antonio Casalini
+- Jorge Hernández-Urcera
+- Oliviero Mordenti
+- Rom Lipcius
+organisations:
+- Institute of Marine Research
+- University of Bologna
+- University of Naples Federico II
+- Virginia Institute of Marine Science
 ---
 
 ![A team of scientists releasing 150,000 baby common octopuses](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309444627.jpg?w=840)

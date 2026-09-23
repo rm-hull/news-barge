@@ -13,6 +13,34 @@ image: https://cdn.mos.cms.futurecdn.net/CeZTE4fTNUHHtbe3rzr8Ag-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- Canada
+- India
+- New Zealand
+- PT
+- Singapore
+- UK
+- US
+- Virgin River
+people:
+- Byron
+- Cruz
+- George Cooper Sr.
+- Joe
+- Josephina
+- Kaitlyn
+- Taylor Sheridan
+organisations:
+- Google News
+- Hallmark
+- Jasmine
+- Lioness
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Byron, Kaitlyn and Joe look at someone across the table](https://cdn.mos.cms.futurecdn.net/CeZTE4fTNUHHtbe3rzr8Ag.jpg) 

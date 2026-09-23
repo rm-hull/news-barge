@@ -15,6 +15,37 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Britain
+- Burnham
+- Downing Street
+- Kyiv Railway Station
+- London
+- Manchester
+- Russia
+- US
+- Ukraine
+- United States
+- York Racecourse
+- Yorkshire
+people:
+- Andrii Sybiha
+- Andy Burnham
+- Camilla
+- Edwin DeBoise
+- Henry Nicholls
+- Michael Portillo
+- Mick Easterby
+- Oliver Brown
+- Putin
+- Sarah Todd
+- Sondad
+- Trump
+- Zelensky
+organisations:
+- Congress
+- Oval Office
+- Yorkshire
 ---
 
 # Would it hurt Andy Burnham to smarten up his appearance? - Sarah Todd

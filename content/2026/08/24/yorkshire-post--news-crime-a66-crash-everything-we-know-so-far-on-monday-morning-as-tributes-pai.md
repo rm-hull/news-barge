@@ -15,6 +15,45 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- A66
+- Cargo Fleet Lane
+- Elm Close
+- Lime Road
+- Longlands Road
+- Middlesbrough
+- Normanby Road
+- Ormesby Road
+- South Bank
+- The Larches
+- Trunk Road
+people:
+- Cole Robert Worthy
+- Jacob Matusiak
+- Makai Saddington
+- Matt
+- Matthew Blades
+- Michael Robert Cahill
+- Neil Hutchinson
+- Pc Blades
+- Pc Clough
+- Pc Tom Clough
+- Richard McCarthy
+- Theo Rae
+organisations:
+- A66
+- CCTV
+- Cleveland Police
+- IOPC
+- Independent Office for Police Conduct
+- Mail
+- PA Wire
+- Passat
+- Press Association
+- Seaton Carew FC
+- Teesville
+- The Larches
+- Volkswagen
 ---
 
 # A66 crash: Everything we know so far on Monday morning as tributes paid to officers

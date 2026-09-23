@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Beamish Museum
+- Coast to Coast
+- Green Howard Museum
+- Green Howards Museum
+- Morebone
+- North East
+- North Yorkshire
+- Richmond
+- Saltburn
+people:
+- Chris Ryan
+- Marie Woods
+- Paul Cutler
+organisations:
+- Green Howard
+- Green Howards
+- Green Howards Association
+- Green Howards Trust
+- Green Howards Trust and Museum
+- Royal Yorkshire Regiment Charitable Trust
+- SAS
+- The Green Howards Association
+- The Green Howards Trust
+- US Independence
+- Yorkshire Regiment
 ---
 
 North Yorkshire veterans have raised £7,000 after undertaking a 140-mile cycle ride across the North East.

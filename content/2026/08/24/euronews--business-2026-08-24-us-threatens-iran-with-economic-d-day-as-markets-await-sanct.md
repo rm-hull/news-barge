@@ -14,6 +14,29 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Iran
+- Myrtle Beach
+- Myrtle Beach Convention Center
+- R-S.C.
+- Sen
+- South Carolina
+- Strait of Hormuz
+- Tehran
+- US
+- Washington
+- White House
+people:
+- Darline Graham
+- Donald Trump
+- Scott Bessent
+organisations:
+- Axios
+- CET
+- Financial Times
+- Truth Social
+- US Treasury
+- West Texas Intermediate
 ---
 
 ## US Treasury Secretary Scott Bessent has announced the launch of what he calls an 'economic D-Day' against Iran, describing the campaign as the single greatest financial offensive ever directed at an adversary, with further details due later on Monday.

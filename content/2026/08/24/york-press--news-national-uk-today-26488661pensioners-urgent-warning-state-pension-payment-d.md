@@ -13,6 +13,19 @@ categories:
 - York
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- Scotland
+- UK
+people:
+- Stephen Timms
+organisations:
+- DWP
+- Department for Work and Pensions
+- HMRC
+- PIP
+- Social Security and Disability
+- State Pensions
+- Universal Credit
 ---
 
 *(Image: Getty Images)*

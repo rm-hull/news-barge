@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Beverly Hills
+- California
+- Los Angeles
+- Mental Health Courthouse
+- Riverside County
+- West Hollywood
+- Westlake Village
+people:
+- Adva Lavie
+- Mia Ventura
+- Mia Ventura Shoshana
+- Shana
+- Stephen Cloobeck
+organisations:
+- California Post
+- Lavie
+- Los Angeles County District Attorney's Office
+- Mercedes-Benz
 ---
 
 Criminal proceedings against a model and social media influencer accused of stealing from people she met through dating apps were suspended Thursday after questions were raised about her mental competency to stand trial.

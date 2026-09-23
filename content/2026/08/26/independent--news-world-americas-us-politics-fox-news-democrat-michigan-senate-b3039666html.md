@@ -11,6 +11,22 @@ image: https://static.independent.co.uk/2026/08/26/13/15/Screenshot-2026-08-26-a
 categories:
 - News & Politics
 - UK
+locations:
+- Detroit
+- Michigan
+- U.S.
+- United States
+people:
+- ',” Watters'
+- Abdul El-Sayed
+- Jesse Watters
+- Mike Rogers
+- Yeah
+organisations:
+- All
+- Fox News
+- US Senate
+- Watters’
 ---
 
 Fox News host Jesse Watters admitted he personally likes Abdul El-Sayed, the progressive Democrat running for U.S. Senate in Michigan, even though he strongly disagrees with the candidate’s policies.

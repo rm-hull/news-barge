@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Burnley
+- Town
+people:
+- Oliver Pimlott
+organisations:
+- Barrow
+- Clarets
+- FA
+- Harrogate Town AFC
+- Lancashire
+- The Clarets’ U21s
+- U14
 ---
 
 Harrogate Town AFC have signed Oliver Pimlott, from Burnley, on a one-month loan deal.

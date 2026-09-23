@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- China
+- Kathmandu
+- Nepal
+- Nepal-China
+- Tibet
+people: []
+organisations: []
 ---
 
 Death toll from flash floods rises with rescuers in Nepal and China working to find hundreds missing

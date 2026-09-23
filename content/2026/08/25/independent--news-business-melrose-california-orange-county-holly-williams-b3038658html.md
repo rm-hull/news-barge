@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- California
+- Garden Grove
+- US
+people:
+- Melrose
+organisations:
+- GKN Aerospace
+- GKN Aerospace Garden Grove
+- Melrose
+- OCDAO
+- Orange County District Attorney’s Office
 ---
 
 Melrose has revealed plans to launch a compensation programme worth up to 100 million US dollars (£73.4 million) following a chemical incident at its GKN Aerospace site in California earlier this year.

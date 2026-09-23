@@ -12,6 +12,18 @@ image: https://static.independent.co.uk/2026/08/24/18/04/GettyImages-2291058527.
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Canada
+- Ottawa
+- U.S.
+- Washington
+people:
+- Donald Trump
+- Mark Carney
+organisations:
+- Pew Research Center
+- Trump
 ---
 
 A new round of President Donald Trump’s tariffs on Canadian imports is now in effect, threatening to raise costs on products ranging from hockey sticks and honey to clothing, furniture and cameras. The 50 percent levies — which apply to about $20 billion worth of Canadian goods — took effect Saturday after last-minute negotiations between Washington and Ottawa fell apart.

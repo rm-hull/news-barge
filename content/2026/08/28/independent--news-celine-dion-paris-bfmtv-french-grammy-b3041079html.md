@@ -13,6 +13,14 @@ categories:
 - UK
 - Arts & Culture
 - Music
+locations:
+- Eiffel Tower
+- Paris
+- Plenitude Arena
+people:
+- Celine Dion
+organisations:
+- BFMTV
 ---
 
 Celine Dion blew kisses and made a love-heart shape with her hands as she swept into Paris on Friday for her first series of concerts since revealing her diagnosis with stiff-person syndrome.

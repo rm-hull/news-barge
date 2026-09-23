@@ -11,6 +11,24 @@ image: https://static.independent.co.uk/2026/08/28/14/02/GettyImages-2291773172.
 categories:
 - News & Politics
 - UK
+locations:
+- Jackson Hole
+- Wall Street
+- Wyoming
+people:
+- Donald Trump
+- Jerome Powell
+- Joe Biden
+- Kevin Warsh
+- Lisa Cook
+- Scott Bessent
+organisations:
+- CME FedWatch
+- Fed
+- Federal Open Market Committee
+- Federal Reserve
+- Supreme Court
+- Treasury
 ---
 
 Federal Reserve Chair Kevin Warsh offered his most explicit assessment of the economy on Friday, warning that persistent inflation remains excessively high and suggesting that monetary policymakers may need to raise interest rates over the coming months to bring prices under control.

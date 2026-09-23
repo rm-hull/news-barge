@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Canada
+- Mexico
+- Ottawa
+- US
+- Washington DC
+people:
+- Dominic LeBlanc
+- Donald Trump
+- Jamieson Greer
+- Mark Carney
+organisations:
+- Bank of England
+- Fox & Friends
+- USMCA
 ---
 
 Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war.

@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Heron House
+- Manchester
+- No 10 North
+people:
+- Andy Burnham
+- Fred
+- God
+- Keir Starmer
+- Sarah Burwin
+organisations:
+- Cabinet Office
+- TikTok
+- Treasury
 ---
 
 Andy Burnham fulfilled a bride’s wishes by not turning up for her wedding after she asked him not to spoil her big day as she got married at the building housing No 10 North.

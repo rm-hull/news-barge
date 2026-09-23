@@ -11,6 +11,15 @@ image: https://cdn.mos.cms.futurecdn.net/BeAREttbucsGpCdQRYjzkn-1920-80.png
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Ukraine
+people:
+- Brave1
+organisations:
+- Brave1
+- Efosa
+- Google News
+- TechRadar Pro
 ---
 
 ![Brave1 Market with customizable drones](https://cdn.mos.cms.futurecdn.net/BeAREttbucsGpCdQRYjzkn.png) 

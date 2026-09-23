@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- England
+- United States
+people:
+- Ali Bin Nasser
+- Bin Nasser
+- Diego Maradona
+- God
+- Mike Provenzale
+- Peter Shilton
+organisations:
+- England
+- Heritage Auctions
+- Maradona
+- Reuters
 ---
 
 ![A person wearing white gloves places the football used in the 1986 World Cup quarter-final on a stand](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/f5e5/live/c6488df0-9f80-11f1-82a0-8dbe1008b861.jpg)

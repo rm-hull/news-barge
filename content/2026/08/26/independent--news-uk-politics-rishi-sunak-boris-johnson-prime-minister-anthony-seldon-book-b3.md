@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Downing Street
+people:
+- Akshata Murty
+- Anthony Seldon
+- Boris Johnson
+- Guto Harri
+- Liz Truss
+- Rishi Sunak
+- Tom Egerton
+organisations:
+- Atlantic Books
+- Tories
+- Tory
 ---
 
 The row over Boris Johnson’s allegation that Rishi Sunak “stabbed him in the back” to become prime minister has been reignited by a new book that says Mr Sunak did plot against him.

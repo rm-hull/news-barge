@@ -14,6 +14,34 @@ categories:
 - Family & Parenting
 - Society & Culture
 - Education & Learning
+locations:
+- Bishops Cleeve
+- Bristol
+- Gloucestershire
+- Swindon
+- Westbury-on-Trym
+people:
+- Elise
+- Emily
+- Gee Eltringham
+- Jacob
+- Jessica Nicolaou
+- Louise
+- Maria
+- Maxime Perrott
+- Ruth Richardson
+- Victoria
+organisations:
+- BBC
+- Department for Education
+- DfE
+- Early Years Alliance
+- Education Policy Unit
+- Institute for Fiscal Studies
+- Little Smarties Nursery
+- SEN
+- SEND
+- University of Bristol
 ---
 
 ![Maria with two young children sitting in a cafe. Her young daughter Emily is right up to the camera - she has auburn hair and is smiling with her mouth wide-open. A baby girl is sitting on Maria's lap, chewing on a blue toy. Maria has long brown hair and is also smiling to camera.](https://ichef.bbci.co.uk/ace/standard/789/cpsprodpb/da69/live/b2306200-9663-11f1-a654-971f565de941.png)

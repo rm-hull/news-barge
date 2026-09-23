@@ -14,6 +14,22 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Fenby Avenue
+- Leeds General Infirmary
+- Sheridan Street
+- Wakefield Road
+- West Yorkshire
+people:
+- Mohammed Nadeem
+organisations:
+- BMW
+- Bradford Coroner's Court
+- Newsquest
+- Telegraph & Argus
+- Toyota
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

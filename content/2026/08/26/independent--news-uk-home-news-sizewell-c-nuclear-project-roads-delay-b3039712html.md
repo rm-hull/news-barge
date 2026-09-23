@@ -12,6 +12,34 @@ image: https://static.independent.co.uk/2026/08/26/14/26/18_02_25-Sheet-Piling-o
 categories:
 - News & Politics
 - UK
+locations:
+- A12
+- Britain
+- Farnham
+- Middleton Moor
+- Sizewell Link Road
+- Somerset
+- Stratford St Andrew
+- Suffolk
+- Theberton
+- Two Village Bypass
+people:
+- Alison Downes
+- Ed Miliband
+- Rachel Reeves
+organisations:
+- Breheny Civil Engineering
+- Centrica
+- EDF
+- Galliford Try
+- Hinkley Point C
+- Kier
+- RSPB
+- Sizewell C
+- Sizewell C.
+- Sizewell C’s
+- Stop Sizewell C. Sizewell C
+- Two Village Bypass
 ---
 
 The new Sizewell C nuclear project that forms part of the government’s strategy to reduce gas imports could be delayed after a falling-out over road building.

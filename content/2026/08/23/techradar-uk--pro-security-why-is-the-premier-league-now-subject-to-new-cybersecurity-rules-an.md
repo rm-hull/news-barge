@@ -11,6 +11,27 @@ image: https://cdn.mos.cms.futurecdn.net/u9DTfPvgBEBWg7ADPmTJRF-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Bologna
+people:
+- Anna Collard
+- Benedict Collins
+- Cian Heasley
+- Jamie Akhtar
+- Muhammad Yahya Patel
+organisations:
+- APT
+- Ajax
+- BUCSIS
+- Bologna FC
+- EMEA
+- Google News
+- Huntress:**
+- Premier League
+- RansomHub
+- SVP of Content Strategy
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![A close-up of the official Premier League match ball.](https://cdn.mos.cms.futurecdn.net/u9DTfPvgBEBWg7ADPmTJRF.jpg) 

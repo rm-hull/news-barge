@@ -13,6 +13,29 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- '**York'
+- Albert Street
+- Harrogate
+- Kettlestring Lane
+- Lysander Close
+- Ripon Road
+- York
+people:
+- James Cheetham
+- Sophie Rose
+- Viv Poskitt
+organisations:
+- Greggs
+- Kitchen Showroom
+- Magnet Kitchens
+- New PureGym
+- Pic
+- Scarborough
+- Store Operations Director
+- Unit 5
+- Visit Magnet
+- Wickes
 ---
 
 *(Image: Pic supplied)*

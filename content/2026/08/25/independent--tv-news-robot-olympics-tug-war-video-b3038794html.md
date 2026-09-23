@@ -18,6 +18,69 @@ categories:
 - UK
 - Technology & Software
 - Science
+locations:
+- Argentina
+- Beijing
+- Buckingham Palace
+- Canada
+- China
+- Clacton
+- Dublin
+- England
+- France
+- Iran
+- Israel
+- Italy
+- London
+- Maldives
+- Man City
+- Man United
+- Mauritius
+- New York City
+- Newcastle
+- Russia
+- Saudi Arabia
+- Spain
+- US
+people:
+- Alexandria Ocasio-Cortez
+- Amy Whitell
+- Andrew Strauss
+- Andy Burnham
+- Anthony Hutton
+- Carlos Baleba
+- Count Binface
+- David Miliband
+- Ed Gamble
+- Elizabeth Davies
+- Harry Styles
+- JD Vance
+- Joanne McNally
+- Kim Kardashian
+- Lee Cain
+- Lemoncello
+- Marilyn Monroe
+- Matthias Jaissle
+- Nourah
+- Poorna Bell
+- Putin
+- Sam Ryder
+- Tom Grennan
+- Trump
+- Zelensky
+organisations:
+- Alexandria Ocasio-Cortez
+- Arsenal
+- Count Binface
+- Farage
+- JD Vance
+- MI6
+- Premier League
+- See.Sense
+- Spice Kitchen
+- Starmer
+- The Smiths
+- Trump
 ---
 
 ## Showing now | News

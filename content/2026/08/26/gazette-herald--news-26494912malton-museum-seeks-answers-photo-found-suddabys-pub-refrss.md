@@ -14,6 +14,27 @@ categories:
 - York
 - History
 - Arts & Culture
+locations:
+- Greengate
+- Maltongate
+- NORTH Yorkshire
+- Norton Cemetery
+- St Peter's Memorial
+- Wheelgate
+people:
+- John Howard
+- Maurice D'Hooge
+organisations:
+- 50th Division
+- Bluesky
+- Facebook
+- Instagram
+- Malton Museum
+- Museum Friends
+- Roman Fort
+- Royal Engineers
+- Royal Engineers Signals Company
+- Suddabys
 ---
 
 *(Image: Public)*

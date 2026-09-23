@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Britain
+- UK
+people:
+- Andy Burnham
+- Ben Ansell
+- Prof Ansell
+organisations:
+- Budget
+- IPPR
+- ITV News
+- Institute for Public Policy Research
+- Labour
+- Oxford
 ---
 
 Andy Burnham should hike taxes on pensioners to bolster Britain’s public finances, an influential policy think tank has said.

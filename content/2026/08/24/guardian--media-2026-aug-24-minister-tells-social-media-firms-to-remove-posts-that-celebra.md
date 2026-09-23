@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- A66
+- County Kildare
+- Ireland
+- M9
+- Middlesbrough
+people:
+- Cole Robert Worthy
+- Jacob Matusiak
+- Luke Pollard
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Passat
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- BBC Radio 5
+- Garda
+- Ofcom
+- PC Blades
+- PC Clough
+- TikTok
 ---
 
 A minister has pressed social media companies to remove content from their platforms showcasing dangerous driving after a fatal collision that killed seven people in Middlesbrough.

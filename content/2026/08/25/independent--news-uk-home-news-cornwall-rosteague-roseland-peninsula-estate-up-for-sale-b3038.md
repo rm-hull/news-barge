@@ -13,6 +13,23 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Real Estate
+locations:
+- Gerrans Bay
+- Grade II
+- Nare Head
+- Newquay
+- Portscatho
+- Roseland Peninsula
+- Truro
+people:
+- Henry Harris
+- Nicholas Kempe
+- Ralph de Restak
+organisations:
+- Country Life
+- Land Army
+- Mohun
+- Rosteague Manor
 ---
 
 A 500-year-old Cornish house with a mile of coast all to itself and more than 180 acres of green pastures and woodland has gone on sale.

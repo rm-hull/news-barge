@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Apollo Gallery
+- Cognacq-Jay
+- Drents Museum
+- Louvre
+- Netherlands
+- Paris
+people: []
+organisations:
+- EU
+- Europol
+- Louvre
 ---
 
 Robberies at European museums are becoming increasingly violent, with thieves sometimes brandishing guns, assaulting staff and using sledgehammers, axes and even explosives to smash their way into buildings and display cases, according to a report by Europol.

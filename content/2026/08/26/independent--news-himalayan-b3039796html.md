@@ -13,6 +13,10 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Nepal
+people: []
+organisations: []
 ---
 
 Flash floods in Nepal have killed many people and left hundreds missing, including tourists and workers. The floods swept through communities and halted travel in parts of the Himalayan country.

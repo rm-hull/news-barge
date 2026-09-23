@@ -13,6 +13,22 @@ image: https://cdn.mos.cms.futurecdn.net/tvuW3J2DYNMXjr2TjzsVQG-2560-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations:
+- Moscow
+- Russia
+- Ukraine
+people:
+- Andriy Shevchenko
+- Führer Hunter
+- Jon Bloch
+organisations:
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- PS5
+- TechRadar Gaming
 ---
 
 ![Metro 2039](https://cdn.mos.cms.futurecdn.net/tvuW3J2DYNMXjr2TjzsVQG.jpg) 

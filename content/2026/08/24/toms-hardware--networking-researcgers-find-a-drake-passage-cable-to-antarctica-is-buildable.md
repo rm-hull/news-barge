@@ -14,6 +14,51 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Antarctic Peninsula
+- Antarctica
+- Argentina
+- Black Sea
+- Brazil
+- Chile
+- Drake Passage
+- France
+- Japan
+- King George Island
+- Pacific
+- Puerto Williams
+- Punta Arenas
+- Russia
+- U.S.
+- UK
+- United Kingdom
+- United States
+- Washington
+people:
+- Juan Pablo
+- Luke James
+- Tom
+organisations:
+- Alcatel Submarine Networks
+- Antarctic Policy Council
+- Belt and Road Initiative
+- CAF
+- Commerce Department
+- FibreHome
+- Get Tom's Hardware
+- Google News
+- HMN Technologies
+- Hengtong
+- Huawei Marine Networks
+- MCDF Finance Facility
+- Ministry of Foreign Affairs
+- NEC
+- Pioneer Consulting
+- Reports
+- Salience Consulting
+- SubCom
+- Subtel
+- Xtera
 ---
 
 ![Antarctica](https://cdn.mos.cms.futurecdn.net/KHySyR6J9rvmwETnRdiEMV.jpg) 

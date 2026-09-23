@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Travel
 - Music
+locations:
+- BRADFORD
+- Caribbean
+- Wibsey Park
+people:
+- Amanda
+organisations:
+- Bradford's Windrush
+- Flavour Cravers
+- Selah Sounds
 ---
 
 *(Image: T&A)*

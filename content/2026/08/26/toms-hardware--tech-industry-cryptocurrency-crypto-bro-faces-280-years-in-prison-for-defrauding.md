@@ -15,6 +15,22 @@ categories:
 - Hardware
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- China
+- Las Vegas
+- Nevada
+people:
+- Brent Kovar
+- Jowi Morales
+- Tom
+organisations:
+- BitConnect
+- Bitcoin
+- Department of Justice
+- Google News
+- Jowi Morales
+- Profit Connect
+- U.S. Attorney’s Office
 ---
 
 ![Bitcoin theft](https://cdn.mos.cms.futurecdn.net/hwbXnfQReY3k6GhBpKYMwP.jpg) 

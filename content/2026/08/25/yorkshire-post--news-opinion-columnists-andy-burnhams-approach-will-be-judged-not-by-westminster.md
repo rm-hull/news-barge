@@ -16,6 +16,29 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Britain
+- City Hall
+- Derbyshire
+- England
+- London
+- No10 North
+- Skipton High Street
+- UK
+- Westminster
+- Whitehall
+- York
+- Yorkshire
+people:
+- Andy Burnham
+- Kim Samuel
+- Toby Shepheard
+organisations:
+- BHS
+- Belonging Forum
+- Debenhams
+- Marks & Spencer
+- Yorkshire
 ---
 
 # Andy Burnham’s approach will be judged not by Westminster headlines but on Yorkshire high streets - Kim Samuel

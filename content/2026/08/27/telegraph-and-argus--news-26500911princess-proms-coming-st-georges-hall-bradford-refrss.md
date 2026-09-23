@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Arts & Culture
 - Music
+locations:
+- St George’s Hall
+- West End
+people:
+- Taylor Swift
+organisations:
+- Bradford Council
+- Coldplay
+- ITV
+- Princess Proms
 ---
 
 *(Image: Bradford Council)*

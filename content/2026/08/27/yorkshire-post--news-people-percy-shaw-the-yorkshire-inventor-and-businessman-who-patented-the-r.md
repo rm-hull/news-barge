@@ -15,6 +15,39 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- A647
+- Boothtown Mansion
+- Boothtown Methodist Church
+- Britain
+- China
+- Clayton Heights
+- Elland
+- Europe
+- Halifax
+- Ireland
+- Lebanon
+- New Zealand
+- Old Dolphin
+- Percy
+- Queensbury Road
+- UK
+- US
+- Yorkshire
+people:
+- '## Percy Shaw'
+- Alan Whicker
+- Bernard Ingham
+- Edmund King
+- Esther Hannah Morrell
+- James Shaw
+- Jane Brearley
+- Percy Shaw
+- Peter Laurie
+organisations:
+- Boothtown Board School
+- Ministry of Transport
+- Yorkshire
 ---
 
 # Percy Shaw: The Yorkshire inventor and businessman who patented the reflective road stud or 'cat's eye' in 1934 that has since been used all over the world

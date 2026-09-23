@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Madison
+- Mass
+- Minneapolis Catholic
+- Philadelphia
+- Wisconsin
+people:
+- Bauer
+- Fletcher Merkel
+- Harper Moyski
+- Robin Westman
+organisations:
+- Annunciation Church and School
+- ___ Lauer
 ---
 
 Documents released a year after the deadly shooting at a Minneapolis Catholic church and school provide a detailed account of the swift and widespread response by law enforcement officers — who arrived within minutes and began triaging injured students.

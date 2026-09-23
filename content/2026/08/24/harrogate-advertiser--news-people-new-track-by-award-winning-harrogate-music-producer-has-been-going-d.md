@@ -15,6 +15,25 @@ categories:
 - Music
 - Film & TV
 - Technology & Software
+locations:
+- Knaresborough
+- Ripon Cathedral
+people:
+- Craig Charles
+- DJ Trev
+- Harrogate
+- Rory Hoy
+- Sarah Collins
+- Tom Hoy
+organisations:
+- BBC 6
+- BBC 6 Music
+- BedFest
+- Fatboy Slim
+- Groove People Records
+- Harrogate
+- Silent Disco
+- The Prodigy
 ---
 
 # New track by award-winning Harrogate music producer has been 'going down really well in DJ sets'

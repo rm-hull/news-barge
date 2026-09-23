@@ -11,6 +11,38 @@ image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c868/live/9d8b9
 categories:
 - UK
 - News & Politics
+locations:
+- Colorado
+- Florida
+- Monaco
+- New York
+- Saudi Arabia
+- Switzerland
+- US
+- Zurich
+people:
+- Aleksander Ceferin
+- Donald Trump
+- Gianni Infantino
+- Greg Maffei
+- Josh Kushner
+organisations:
+- Asian Football Confederation
+- BBC Sport
+- Bann Ventures
+- Caf
+- Concacaf
+- Conmebol
+- FFE
+- FWC2026
+- Fifa Americas
+- Fifa Council
+- Fifa Forward Enterprise
+- Formula 1
+- Infantino
+- JP Morgan
+- Thrive Capital
+- Uefa
 ---
 
 ![Uefa president Aleksander Ceferin and Fifa boss Gianni Infantino watch a football match from the stands](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c868/live/9d8b94e0-a22b-11f1-bd6a-3d72a7f54a3e.jpg)

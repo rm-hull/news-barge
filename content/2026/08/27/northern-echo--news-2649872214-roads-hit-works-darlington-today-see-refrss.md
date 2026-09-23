@@ -13,6 +13,60 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- '## Auckland Avenue One'
+- '## Ely Close One'
+- '## Haughton Road'
+- '## Neasham Road Construction'
+- A1
+- A167 Grange Road
+- A167 Grange Road Construction
+- A67 Coniscliffe Road
+- A68 Bondgate
+- A68 West Auckland Road
+- A68 Woodland Road
+- Auckland Avenue
+- Auckland Oval
+- Aycliffe Gas
+- B6280 Coniscliffe Road
+- B6444 St Andrews Way
+- Beadnell Close
+- Beechwood Avenue
+- Bracken Road
+- Brinkburn Road
+- Burma Road
+- Coniscliffe Mews
+- Coniscliffe Road Gas
+- County Durham
+- Darlington
+- Edinburgh Drive
+- Ely Close
+- Exeter Drive
+- Faverdale
+- Four Riggs
+- Green One
+- Haughton Green
+- Haughton Road
+- Hollyhurst Road
+- M
+- Mcmullen Road
+- Neasham Road
+- Salters Lane South
+- Southend Avenue
+- St Alban
+- St Alban’s Green
+- Teesdale Avenue
+- Winchester Way
+people: []
+organisations:
+- '## Beechwood Avenue Telecoms'
+- '## Salters Lane South Electricity'
+- A68 Woodland Road Telecoms
+- 'Darlington M&S Food Hall ## Faverdale Construction'
+- Edinburgh Drive Gas
+- McDonald's
+- New County Durham Farmfoods
+- Newsquest
 ---
 
 *(Image: Newsquest)*

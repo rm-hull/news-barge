@@ -13,6 +13,65 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- BBC
+- Darent Valley Hospital
+- Delhi
+- East Sussex
+- Essex
+- Folkestone
+- Germany
+- Hotel Kailash
+- India
+- Kathmandu
+- Kent
+- Langtang Lirung
+- Mount Kailash
+- Nepal
+- Nepal-Tibet
+- Rasuwa
+- Rasuwagadh
+- Slough
+- South London
+- Streatham
+- Tibet
+- UK
+- Uckfield
+people:
+- Andy Burnham
+- Ben
+- Bhupesh Bector
+- Charles
+- Geetha Reddy
+- Julija Jakovicka**
+- Leena Bector
+- Nabhi Das**
+- Naresh Goyal
+- Neetu Goyal Tiwari
+- Pedro
+- Phillips'
+- Pramod Poudel
+- Rajendra Pudasaini**
+- Sarada Simkhada**
+- Simkhada
+- Sumitra Sapkota
+- Tatajana Phillips
+- Tessa Wong
+- Vikram Kolagatla
+organisations:
+- Alpine Eco Trek
+- BBC
+- Fishtail Tours
+- Fishtail Tours and Travels
+- Himalayan Glacier US
+- Isha Foundation
+- Kailash Journeys
+- PA Media
+- Press Association
+- The Times
+- The Trekkers' Society
+- US Geological Survey
+- University of Kent
 ---
 
 ![A split image of Pramod Poudel's wife (left) and Neetu Goyal Tiwari (right). Both are smiling](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6516/live/9a603130-a2bd-11f1-b109-879e35c24276.png)

@@ -11,6 +11,34 @@ image: https://static.independent.co.uk/2026/08/26/14/Israel_Palestinians_Protes
 categories:
 - News & Politics
 - UK
+locations:
+- Bay Area
+- Gaza
+- Golden Gate Bridge
+- Israel
+- Jenkins’
+- Oakland
+- Palestine
+- Rafah
+- Richmond
+- San Francisco
+people:
+- Angela Roze
+- Bhavika Anandpura
+- Brooke Jenkins
+- Conrad de Jesus
+- Em Tillotson
+- Jenkins’
+- Jordan Harger
+- Raye Kahn
+- River Allen
+- Rocky Chau
+- Sara Cantor
+- Sarah Ferrell
+organisations:
+- Black Lives Matter
+- The Associated Press
+- The Oaklandside
 ---
 
 A two-year legal battle over a dramatic protest against the war on Gaza came to an end on Friday as seven protesters who’d blocked traffic on the Golden Gate Bridge received 30-day sentences and $1,000 fines.

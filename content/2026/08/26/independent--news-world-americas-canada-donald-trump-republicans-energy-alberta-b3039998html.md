@@ -10,6 +10,42 @@ image: https://static.independent.co.uk/2026/08/26/23/Canada_US_Dependence_51537
 categories:
 - News & Politics
 - UK
+locations:
+- Alberta
+- America
+- Belarus
+- CANADA
+- Canada
+- Hoover
+- Mexico
+- Michigan
+- Midwest
+- New York
+- Ohio
+- Ontario
+- Russia
+- Saskatchewan
+- U.S.
+- US
+- United States
+- Washington
+- White House
+people:
+- Daniel Béland
+- Danielle Smith
+- Donald Trump
+- Doug Ford
+- Jason Kenney
+- Mark Carney
+- Pete Hoekstra
+- Scott Moe
+organisations:
+- AI
+- Canada Energy Regulator
+- Department of Energy
+- McGill University
+- Trump
+- U.S. Energy Information Administration
 ---
 
 U.S. President Donald Trump says his country does not need Canada. But every day, roughly 4 million barrels of Canadian crude oil flow south, helping fuel American cars, trucks and airplanes and supply U.S. industry.

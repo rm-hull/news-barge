@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Islamabad
+- Lahore
+- Pakistan
+- Punjab
+people:
+- Aslam Ghauri
+- Shahid Khan
+- Shehbaz Sharif
+organisations:
+- Health Department
+- Health Ministry
+- Pakistan Institute of Medical Sciences
+- U.N.
+- UNICEF
 ---
 
 Investigators appointed by Pakistan's prime minister were making a visit Thursday to the hospital nursery where a fast-moving fire killed 14 newborns, as grieving families and the public sought answers about the cause of the blaze and the safety measures at the major government facility.

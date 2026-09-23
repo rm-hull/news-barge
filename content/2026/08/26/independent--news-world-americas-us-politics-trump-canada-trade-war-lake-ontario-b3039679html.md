@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Ottawa
+- U.S. Canada
+- United States
+- Washington
+- West Point
+people:
+- Donald Trump
+- François-Philippe Champagne
+- Glenn Beck
+organisations:
+- Trump
+- U.S. Constitution
 ---
 
 President Donald Trump lashed out again at Canada a day after America’s northern neighbor unveiled retaliatory tariffs to escalate the trade war he started months ago.

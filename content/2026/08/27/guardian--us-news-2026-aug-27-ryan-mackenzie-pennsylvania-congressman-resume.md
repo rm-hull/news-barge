@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Iran
+- Pennsylvania
+- US
+- Wikipedia
+people:
+- Arnaud Armstrong
+- Bob Brooks
+- Eli Cousin
+- Joe Biden
+- Rep Mackenzie
+- Ryan Mackenzie
+- Trump
+organisations:
+- Boeing
+- DCCC
+- Democratic Congressional Campaign Committee
+- Guardian
+- Harvard Business School
+- LinkedIn
+- PA
+- Patch.com
+- Pennsylvania Professional Fire Fighters Association
+- Republican Federal Committee of Pennsylvania
+- Tinder
+- Trump
+- US Department of Labor
 ---
 
 The Republican congressman Ryan Mackenzie has been accused of embellishing his résumé with private sector experience in real estate sales amid an acrimonious showdown over his Pennsylvania seat.

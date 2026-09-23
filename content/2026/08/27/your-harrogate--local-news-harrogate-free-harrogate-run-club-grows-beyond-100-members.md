@@ -11,6 +11,12 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations: []
+people:
+- Ashley Glen
+organisations:
+- Byönd Run Club
+- Harrogate
 ---
 
 ![](https://mmo.aiircdn.com/409/6a900251a11db3d5ca6.jpg) 

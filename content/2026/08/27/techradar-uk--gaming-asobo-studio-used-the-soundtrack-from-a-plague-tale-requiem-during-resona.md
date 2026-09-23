@@ -16,6 +16,26 @@ categories:
 - Music
 - Arts & Culture
 - Film & TV
+locations:
+- Crete
+- Middle Ages France
+people:
+- Anna Demetriou
+- Asobo
+- Carol Ann Bañuls
+- Olivier Derivière
+- Sophia
+- Valérian Robert
+organisations:
+- Asobo Studio
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Gamescom
+- Google News
+- NME
+- PS5
+- TechRadar Gaming
 ---
 
 ![A screenshot from Resonance: A Plague Tale](https://cdn.mos.cms.futurecdn.net/6mZnEp48vfbpKbexSm6qkk.jpg) 

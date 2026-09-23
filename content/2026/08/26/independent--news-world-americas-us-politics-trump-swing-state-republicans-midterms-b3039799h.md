@@ -12,6 +12,44 @@ image: https://static.independent.co.uk/2026/08/25/16/54/GettyImages-2290843264.
 categories:
 - News & Politics
 - UK
+locations:
+- Alaska
+- Iowa
+- Kentucky
+- North Carolina
+- Ohio
+- Sen
+- South Carolina
+- Texas
+- Washington
+- White House
+people:
+- Darline Graham Nordone
+- Donald Trump
+- Graham Nordone
+- Hakeem Jeffries
+- Jared Kushner
+- Lindsey Graham
+- Michael Whatley
+- Mike Johnson
+- Ralph Alvarado
+- Roy Cooper
+- Thom Tillis
+- Tim Scott
+organisations:
+- Air Force One
+- Fox News
+- GOP
+- House
+- Maga Inc
+- Maga Inc.
+- Maga Inc.’s
+- NBC News
+- PAC
+- Politico
+- Senate
+- South Carolina Sen
+- Trump
 ---
 
 Republican candidates and political operatives in battleground states are hopeful that Donald Trump is getting ready to put his money where his mouth is.

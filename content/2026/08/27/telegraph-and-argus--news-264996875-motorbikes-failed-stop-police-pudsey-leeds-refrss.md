@@ -14,6 +14,15 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Bramley
+- Pudsey
+people: []
+organisations:
+- Crimestoppers
+- Leeds West
+- WYP)* POLICE
+- West Yorkshire Police
 ---
 
 *(Image: WYP)*

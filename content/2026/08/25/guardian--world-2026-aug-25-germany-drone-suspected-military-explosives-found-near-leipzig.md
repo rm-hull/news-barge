@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Brandenburg
+- Germany
+- Kabelsketal
+- Kursdorf
+- Leipzig
+- Marseille
+- Moscow
+- Russia
+- Ukraine
+people:
+- Friedrich Merz
+organisations:
+- Antonov Airlines
+- DHL
+- NDR
+- Nato
+- Süddeutsche Zeitung
+- WDR
 ---
 
 German investigators uncovered a third drone and suspected military explosives thought to be connected to an attempted attack on Leipzig airport, local media have reported.

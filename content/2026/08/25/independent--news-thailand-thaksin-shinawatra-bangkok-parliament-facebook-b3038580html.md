@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Thailand
+people:
+- Thaksin Shinawatra
+organisations:
+- Human Rights
+- Peaceful Society Promotion Act
+- Royal Gazette
 ---
 
 An amnesty for political offenses committed in Thailand over the past two decades took effect Monday, but the law excludes some of the more serious cases, including those involving lese majeste, or defaming the monarchy.

@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - Film & TV
 - Music
+locations:
+- Broadway
+- Cheshire
+- Congo
+- London
+- Muppet Treasure Island
+- Pennywise
+- Royal Court
+people:
+- Annie
+- Barry Bostwick
+- Frank-N-Furter
+- Long John Silver
+- Miss Hannigan
+- Pennywise
+- Richard O'Brien
+- Stephen King
+- Susan Sarandon
+- Tim Curry
+- Tom Cruise
+organisations:
+- BBC News
+- Curry
+- Grand Central Publishing
+- Hair
+- Los Angeles Police Department
 ---
 
 ![Tim Curry](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/834e/live/cfbc6d30-a164-11f1-aaf8-119f176ff4ce.jpg)

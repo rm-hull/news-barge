@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Brownsville
+- Cameron County
+- Minneapolis
+- Minnesota
+- Texas
+- U.S.
+people:
+- Christian Castro
+- Fernando Rodriguez Jr.
+- Greg Abbott
+- Julio Cesar Sosa-Celis
+- Keith Ellison
+- Kimberly Ann Svendsen
+- Tim Walz
+- Trevor W. Ezell
+- Trump
+organisations:
+- ICE
+- Immigration and Customs Enforcement
 ---
 
 An ICE agent accused of shooting a man through the front door of a Minneapolis home and then lying about what happened could be released from a Texas jail Thursday unless a federal judge intervenes.

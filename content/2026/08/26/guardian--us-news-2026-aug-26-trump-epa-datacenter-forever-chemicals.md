@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- US
+people:
+- Jonathan Kalmuss-Katz
+- Lenny Siegel
+organisations:
+- AI
+- Center of Public Environmental Oversight
+- EPA
+- Earthjustice
+- Environmental Protection Agency
+- Guardian
+- Trump
 ---
 
 The Trump administration has approved two new datacenter chemicals to which exposure can result in “sudden death” and a range of other serious health risks, like cancer, eye corrosion, neurological damage and reproductive harm, a new lawsuit warns.

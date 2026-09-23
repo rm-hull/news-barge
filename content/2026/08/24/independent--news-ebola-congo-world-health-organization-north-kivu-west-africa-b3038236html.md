@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Bundibugyo
+- Congo
+- Ituri
+- Mongbwalu
+- North Kivu
+- West Africa Ebola
+people:
+- Héritier Ramazani
+organisations:
+- Ervebo
+- Ministry of Health
+- World Health Organization
 ---
 
 More than 300 people died of Ebola in eastern Congo in the past week, one of the highest weekly tolls yet, government data showed Monday, as health workers struggle to catch up with an outbreak that is spreading at unprecedented speed.

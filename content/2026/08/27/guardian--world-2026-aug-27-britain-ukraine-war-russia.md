@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Britain
+- Europe
+- France
+- Japan
+- Kaliningrad
+- Kremlin
+- Kuril Islands
+- Kyiv
+- Moscow
+- Poland
+- Russia
+- Russian Federation
+- UK
+- US
+- Ukraine
+- Warsaw
+people:
+- Andy Burnham
+- Cezary Tomczyk
+- Dmitry Peskov
+- Donald Trump
+- John Ratcliffe
+- Maria Zakharova
+- William Burns
+organisations:
+- CIA
+- Kyiv
+- Nato
+- Super Express
+- Wall Street Journal
 ---
 
 Russia has said it could retaliate against the UK for its support of Kyiv by striking military targets inside and outside Ukraine, amid reports that the director of the CIA warned the Kremlin against attacking Nato during a secretive visit this week.

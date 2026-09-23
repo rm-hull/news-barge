@@ -13,6 +13,11 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations: []
+people: []
+organisations:
+- A1
+- The Northern Echo
 ---
 
 - Welcome to The Northern Echo's live blog on the vehicle fire on the A1(M).

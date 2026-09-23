@@ -14,6 +14,32 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Angoulême
+- Atlantic Ocean
+- Bordeaux
+- California
+- Cap Ferret
+- Delhi
+- Europe
+- France
+- Gironde
+- La Porge
+- Landes
+- Limoges
+- Saumos
+- Spain
+people:
+- Bruno Lafon
+- Enedis
+- Hervé Jactel
+- NapoleonIII
+organisations:
+- Enedis
+- INRAE
+- La Porge
+- Le Monde
+- Nasa
 ---
 
 The ruinous fires that overran parts of France this summer have burned more land than ever recorded, forced more people from their homes than at any point since the second world war and caused what scientists suspect is the country’s first firestorm thundercloud. The smoke from France’s biggest inferno in nearly 80 years choked Limoges, a city 125 miles (200km) from the flames, with more toxic dust than Delhi residents inhaled on the city’s worst day of smog last year.

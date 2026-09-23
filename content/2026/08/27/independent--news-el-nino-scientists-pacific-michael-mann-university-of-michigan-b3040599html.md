@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Galapagos Islands
+- New York
+- Pacific
+people:
+- Boris Worm
+- John Bruno
+- Julia Cole
+- Julian Trejo Bax
+- Kim Cobb
+- Michael Mann
+- Wallace Broecker
+organisations:
+- AP
+- Associated Press’
+- Brown University
+- Columbia University
+- Dalhousie University
+- El Nino
+- El Ninos
+- El Niño
+- University of Michigan
+- University of North Carolina
+- University of Pennsylvania
 ---
 
 A new study suggests that El Ninos — the natural climatic chaos agent that pops up periodically and spikes global temperatures — are getting stronger because of human-caused climate change.

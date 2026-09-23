@@ -15,6 +15,40 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- A66
+- Cleveland
+- Middlesbrough
+people:
+- Dad
+- Forever
+- Luke Pollard
+- Matt Storey
+- Matusiak
+- Owen Humphreys
+- PC Matthew Blades
+- Pc Blades
+- Pc Blades’
+- Pc Clough
+- Saddington
+- Tom Clough
+organisations:
+- A66
+- BBC Radio 4
+- Civil Nuclear Constabulary
+- Cleveland Police
+- Cleveland Police Federation
+- Cleveland Police HQ Memorial Garden
+- Government
+- Independent Office for Police Conduct
+- Meta
+- Ofcom
+- Snap
+- Teesside Magistrates’ Court
+- The Telegraph
+- TikTok
+- Volvo
+- Yorkshire Post
 ---
 
 # A66 crash: government tells TikTok to take down joyriding videos after police killed in horror smash

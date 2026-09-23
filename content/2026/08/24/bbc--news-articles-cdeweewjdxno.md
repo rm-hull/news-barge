@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- China
+- China.
+- Guangzhou
+- Hong Kong
+- London
+- Singapore
+- US
+- Wall Street
+people:
+- Donald Trump
+- Shein
+organisations:
+- Goldman Sachs
+- IPO
+- JP Morgan
+- Morgan Stanley
+- Shein
 ---
 
 ![A woman in a red dress looks at her smartphone while walking past a Shein sign outside the company's office in Guangzhou, China.](https://ichef.bbci.co.uk/ace/standard/971/cpsprodpb/2280/live/ffbe0af0-9f54-11f1-9eef-7971e1b6f541.jpg)

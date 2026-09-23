@@ -12,6 +12,40 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Chatham
+- Croatia
+- Itauma
+- Kent
+- Manchester
+- Slovakia
+people:
+- Adam Smith
+- Anthony Joshua
+- Ben Davison
+- Charles Martin
+- Daniel Dubois
+- Dillian Whyte
+- Fabio Wardley
+- Filip Hrgovic
+- Francis Warren
+- Frank Sanchez
+- Jeamie 'TKV
+- Jermaine Franklin
+- Mike Tyson
+- Moses Itauma
+- Oleksandr Usyk
+- Olusegun Obasanjo
+- Tshikeva
+- Tyson Fury
+organisations:
+- BBC Sport
+- Boxing
+- IBF
+- Itauma
+- Netflix
+- Queensberry
+- TKV
 ---
 
 'I'd be the youngest heavyweight champion since Mike Tyson' - Itauma

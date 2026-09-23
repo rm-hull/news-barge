@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations: []
+people:
+- Christian Mortimer
+- Jenny Gayner
+- Juliet Forster
+- Marcavia McCarthy
+- Paul Hendy
+- Richard David-Caine
+- Robin Simpson
+- Snow White
+- Tommy Carmichael
+organisations:
+- CBBC
+- CBeebies
+- Evolution Productions
+- Snow White
+- West End
+- York Theatre Royal
 ---
 
 York Theatre Royal has revealed the cast for its Christmas pantomime Snow White and the Seven Dwarfs.

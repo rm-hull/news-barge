@@ -13,6 +13,33 @@ categories:
 - Bradford
 - News & Politics
 - Family & Parenting
+locations:
+- America
+- Bradford
+- Canterbury
+- Dollywood
+- East Tennessee
+- Keighley
+- Manningham
+- Rotherham
+- Sevier County
+- Steeton
+- UK
+- US
+people:
+- Dolly Parton
+- Farewell Dolly
+- Jan Winter
+- Jolene
+- Lucy Powell
+- Mark Wilson
+- Pollyanna
+- Superfan Mark Wilson
+- Taylor Swift
+organisations:
+- Canterbury Imagine
+- Dollywood Foundation
+- Imagination Library
 ---
 
 IT is thanks to Dolly Parton that children in some areas of Bradford get a free book every month for the first five years of their life.

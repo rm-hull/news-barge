@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Bas-Uele
+- Bundibugyo Ebola
+- Congo
+- Congo.
+- Guinea
+- Haut-Uele
+- Ituri
+- Kinshasa
+- Kisangani
+- Liberia
+- North Kivu
+- Sierra Leone
+- South Kivu
+- Tshopo
+- West Africa Ebola
+- Zaire
+people:
+- Placide Mbala Kingebeni
+- Roger Kamba
+organisations:
+- CDC
+- Ervebo
+- Kamba
+- Ndjili International Airport
+- UNICEF
+- WHO
+- World Health Organization
 ---
 
 A rollout of Ebola vaccinations began in Congo on Thursday as health officials move to contain the country's most fatal outbreak on record.

@@ -15,6 +15,16 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- UK
+people: []
+organisations:
+- FCA
+- FOS
+- Financial Conduct Authority
+- Financial Ombudsman Service
+- Mis-Sold Expert
+- Mis-sold Expert
 ---
 
 *(Image: Getty Images)*

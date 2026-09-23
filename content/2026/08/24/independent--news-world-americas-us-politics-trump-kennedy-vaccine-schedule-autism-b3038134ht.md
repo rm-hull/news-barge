@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Arizona
+- Camp David
+- Desert Diamond Arena
+- Glendale
+- Lubbock
+- Texas.
+- U.S.
+- White House
+people:
+- Avery Dahl
+- Del Bigtree
+- Donald Trump
+- Grace Davis Jamison
+- Kennedy Jr.
+- Kush Desai
+- Priscilla Luna
+- Raynard Covarrubio
+- Robert F. Kennedy Jr
+- Robert F. Kennedy Jr.
+organisations:
+- Department of Health and Human Services
+- HHS
+- Informed Consent Action Network
+- Justice Department
+- Lubbock Public Health Department
+- Oval Office
+- Trump
 ---
 
 An executive order signed this month that scales back the U.S. childhood vaccination schedule was driven by President Donald Trump's frustration that his administration was not moving fast enough to tackle what he views as a probable contributor to autism, according to administration officials.

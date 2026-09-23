@@ -13,6 +13,21 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Diamond Street
+- Earle Street
+- Emerald Street
+- Hazel Court
+- Stephanie Holdsworth
+- The Groves
+- York
+people:
+- Groves
+- Ian Hoult
+- Stephanie Holdsworth
+organisations:
+- City of York Council
+- Towthorpe
 ---
 
 ## 'Ripped apart and fly-infested' rubbish collected from York streets after outcry

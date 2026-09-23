@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Banbury
+- Bridlington
+- Otley Chevin
+- West Yorkshire
+- Wharfedale
+- Whitby
+people:
+- John Craven
+- Jon Lewis
+organisations:
+- BBC
+- Countryfile
+- Farmers' Guardian
+- Newsround
+- Wales Online
 ---
 
 *(Image: Jon Lewis)*

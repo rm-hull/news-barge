@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Mayagüez
+- Puerto Rico
+- San Juan
+- U.S. Caribbean
+- United States
+people:
+- Héctor Ramírez-Carbó
+- Los Baja Deo
+- Todd Blanche
+- Trump
+organisations:
+- Homeland Security Task Forces
+- Justice Department
+- U.S. Justice Department
 ---
 
 The U.S. Justice Department has charged more than 80 people in the takedown of a violent Puerto Rican gang, Attorney General Todd Blanche announced Thursday during a visit to the island as part of the Trump administration's efforts to highlight its push to tackle violent crime.

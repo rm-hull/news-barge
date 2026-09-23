@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- CBD
+- Melbourne West
+- New South Wales
+- Royal Melbourne
+- Spencer Street
+- Victoria
+- Western Australia
+people:
+- Zorka Dunstan
+organisations: []
 ---
 
 A mother has been taken to hospital after allegedly being repeatedly stabbed by a stranger while protecting her 10-year-old son during a “random attack” in Melbourne’s CBD.

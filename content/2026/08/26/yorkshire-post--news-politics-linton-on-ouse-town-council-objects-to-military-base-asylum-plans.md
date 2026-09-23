@@ -14,6 +14,29 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Linton-on-Ouse
+- North Yorkshire
+- Scarborough
+- UK
+- York
+people:
+- Coun Chris Clark
+- Coun Janet Jefferson
+- Coun Sarah Mason
+- Coun William Stuart
+- Rich Maw
+organisations:
+- HMO
+- Home Office
+- Home Office and North Yorkshire Council
+- Labour
+- Linton-on-Ouse
+- NYC
+- North Yorkshire Council
+- Reform-led Scarborough Town Council
+- Scarborough Town Council
+- United Nations
 ---
 
 # Linton-on-Ouse: Town council objects to military base asylum plans 50 miles away

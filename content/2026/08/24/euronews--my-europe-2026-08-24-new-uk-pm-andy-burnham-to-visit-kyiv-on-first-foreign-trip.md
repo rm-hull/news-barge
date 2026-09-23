@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - Travel
 - History
+locations:
+- France
+- Kyiv
+- Luxembourg
+- Russia
+- UK
+- US
+- Ukraine
+- United Kingdom
+people:
+- Andy Burnham
+- António Costa
+- Emmanuel Macron
+- Friedrich Merz
+- James Lankford
+- Luc Frieden
+- Micheal Martin
+- Richard Blumenthal
+- Volodymyr Zelenskyy
+organisations:
+- Coalition of the Willing
+- European Council
+- Kyiv
+- Labour Party
+- MBDA
+- SCALP
 ---
 
 ## UK Prime Minister Andy Burnham will co-chair the meeting of the so-called Coalition of the Willing in Kyiv on Monday, along with French President Emmanuel Macron and German Chancellor Friedrich Merz.

@@ -13,6 +13,40 @@ categories:
 - UK
 - Music
 - Arts & Culture
+locations:
+- Disneyland
+- Dollywood
+- Dover
+- East Tennessee
+- Great Smoky Mountains
+- Hollywood
+- Knoxville
+- Nashville
+- Pigeon Forge
+- Sevier County
+- South
+people:
+- Bill Cody
+- Dolly Parton
+- Donald Trump
+- Hillary Clinton
+- Joe Biden
+- Jolene
+- Little Sparrow
+- Loretta Lynn
+- Tammy Wynette
+- Whitney Houston
+organisations:
+- Dollywood Foundation
+- Hall of Fame
+- Imagination Library
+- Moderna
+- My People Fund
+- Ryman Auditorium
+- TV
+- Tennessee Aviation System Plan
+- The Associated Press
+- Vanderbilt University
 ---
 
 There are few inalienable truths: Everyone was born, everyone will die, and everyone loved Dolly Parton.

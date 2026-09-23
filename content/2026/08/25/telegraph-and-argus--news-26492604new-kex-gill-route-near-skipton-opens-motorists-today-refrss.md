@@ -14,6 +14,25 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Harrogate
+- Kex Gill
+- Kex Gill road
+- M
+- M6
+- Nidderdale National Landscape
+- North Yorkshire
+- North of England
+- Skipton
+- UGC
+people:
+- Malcolm Taylor
+organisations:
+- A1
+- A59
+- Kex Gill Construction
+- North Yorkshire Council
+- UGC
 ---
 
 *(Image: UGC)*

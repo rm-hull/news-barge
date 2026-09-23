@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- UK
+people: []
+organisations:
+- '## Cloud'
+- Cyber Essentials
+- Future plc
+- JLR
+- M&S
+- MFA
+- Restore Information Management
+- TechRadar Pro
+- TechRadarPro
+- VPNs
 ---
 
 ![Android phone malware](https://cdn.mos.cms.futurecdn.net/5pmsJs3KfnrtbsM98UsnG9.jpg) 

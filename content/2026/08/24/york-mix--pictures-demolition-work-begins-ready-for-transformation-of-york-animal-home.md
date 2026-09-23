@@ -11,6 +11,18 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Bridlington
+- Landing Lane
+- York Animal Home
+people:
+- Marie Sandall
+organisations:
+- Harrogate & District Branch
+- Phase One
+- RSPCA York
+- RSPCA York Animal Home
+- York Animal Home
 ---
 
 This is how the RSPCA York Animal Home looks now as a major transformation of its facilities gets underway.

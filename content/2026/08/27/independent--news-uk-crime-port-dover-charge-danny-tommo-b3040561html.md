@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Dover Western Docks
+- Dunkirk Jetty
+- Margate
+- Port of Dover
+- UK
+- Western Jet Foil
+people:
+- Daniel Thomas
+- Danny Tommo
+organisations:
+- non-Home Office
 ---
 
 A man is facing charges of trespass and harassment after allegedly entering the Port of Dover to film and shout at boats arriving on the British coast.

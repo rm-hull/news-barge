@@ -11,6 +11,15 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e9ee/live/c5473e
 categories:
 - UK
 - News & Politics
+locations:
+- Conakry
+- Dar-es-Salam
+- Guinea
+people:
+- Lancine Sylla
+- Mamadou Oury Bah
+organisations:
+- AFP
 ---
 
 ![Rescuers use an excavator to comb through a mountain of scattered rubbish at a major waste site in Conakry, Guinea, as local residents gather nearby. Photo: 23 August 2026](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/e9ee/live/c5473e70-9f1b-11f1-b2a2-8945a27a2843.jpg)

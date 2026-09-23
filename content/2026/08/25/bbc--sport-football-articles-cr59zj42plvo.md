@@ -13,6 +13,93 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Arsenal
+- Barcelona
+- England
+- Europe
+- Liverpool
+- London
+- Madrid
+- Manchester City
+- Newcastle
+- Old Trafford
+- Stamford Bridge
+- West Ham
+people:
+- '![Mourinho'
+- Alan Shearer
+- Alex Ferguson
+- Andy Murray
+- Antonio Conte
+- Arne Slot
+- Arsene Wenger
+- Bob Paisley
+- Carlo Ancelotti
+- Carlos Tevez
+- Chelsea
+- Claudio Ranieri
+- Cristiano Ronaldo
+- David Moyes
+- Eric Cantona
+- Fergie
+- Fernando Torres
+- Frank Lampard
+- George Ramsay
+- Harry Redknapp
+- Jack Walker
+- John Terry
+- Jose Mourinho
+- Jurgen Klopp
+- Kenny Dalglish
+- Lungs
+- Manuel Pellegrini
+- Mark Hughes
+- Mauricio Pochettino
+- Mikel Arteta
+- Novak Djokovic
+- Pep Guardiola
+- Rafael Nadal
+- Roberto Mancini
+- Roger Federer
+- Sir Alex Ferguson
+- Tim Sherwood
+- Tinkerman
+- Wayne Rooney
+organisations:
+- AC Milan
+- Ancelotti
+- Arsenal
+- Arsene Wenger
+- Aston Villa
+- Bayern Munich
+- Blackburn Rovers
+- Blues
+- Chelsea
+- Dalglish
+- Everton
+- Ferguson
+- Guardiola
+- Gunners
+- Hammers
+- Invincibles
+- Leicester City
+- Liverpool
+- Manchester City
+- Manchester United
+- Monaco
+- Nagoya Grampus Eight
+- Paris St-Germain
+- Porto
+- Premier League
+- Real Madrid
+- Reds
+- Southampton
+- Spurs
+- Sunderland
+- Tottenham Hotspur
+- West Ham
+- Wigan
 ---
 
 ![Mourinho, Ferguson, Guardiola graphic](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/2656/live/01ca0710-9e22-11f1-aed2-8d6da8d75094.jpg)

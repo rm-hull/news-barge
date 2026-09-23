@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Music
+locations:
+- York Minster
+people:
+- Alistair Griffin
+- Beki Ann
+- Chiquitita
+- Elaine Hi
+- Maggie Wakeling
+- Mamma Mia
+organisations:
+- '## York Minster'
+- ABBA
+- Ignite Concerts
 ---
 
 ## York Minster comes alive with ABBA hits at candlelit concert

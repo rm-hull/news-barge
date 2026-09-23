@@ -13,6 +13,31 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Blenheim Palace
+- Cotswolds
+- Herefordshire
+- North Yorkshire
+- Panama
+- Rotherwas
+- Salon Privé
+- Woodstock
+people:
+- James May
+- Jeremy Clarkson
+- Richard Hammond
+organisations:
+- BBC’s Top Gear
+- Bentley
+- Companies House
+- Porsche
+- Ripon Grammar School
+- Salon Privé
+- Smallest Cog
+- The Farmer’s Dog
+- The Smallest Cog
+- The Sun
+- West Mercia Police
 ---
 
 Richard Hammond has taken control of a classic car restoration company which features in a TV show.

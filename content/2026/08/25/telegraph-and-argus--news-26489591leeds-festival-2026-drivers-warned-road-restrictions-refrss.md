@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bramham Park
+- West Yorkshire
+people:
+- Dan Wood
+- Matthew Eachus
+organisations:
+- West Yorkshire Police
 ---
 
 *(Image: Matthew Eachus)*

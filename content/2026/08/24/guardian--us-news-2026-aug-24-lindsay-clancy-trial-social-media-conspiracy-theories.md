@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Massachusetts
+- McLean Hospital
+- New York City
+- Plymouth
+- United States
+people:
+- Emily Thorndike
+- Gabby Petito
+- Johnny Depp
+- Karen Read
+- Kathryn Coduto
+- Kevin Reddington
+- Lindsay Clancy
+- Lizzie Borden
+- Margaret McLean
+- Patrick Clancy
+- Taylor Vaughn Lasley
+- Vaughn Lasley
+- Whitney Phillips
+- William Sullivan
+organisations:
+- Amber Heard
+- Boston University
+- Guardian
+- Syracuse University
+- TikTok
+- University of Oregon
 ---
 
 As the trial of Lindsay Clancy, the Massachusetts mother accused of killing her three children, starts to wind down, a now international discussion on social media about the case has hit a fever pitch as viewers examine details of the trial and question the state of maternal mental healthcare in the United States.

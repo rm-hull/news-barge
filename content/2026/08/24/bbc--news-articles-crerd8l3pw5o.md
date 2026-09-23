@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- UK
+people:
+- Alan Milburn
+- Andrew Hunter
+- Andy Burnham
+organisations:
+- AI
+- Adzuna
+- BBC News
 ---
 
 ![A forlorn young woman slumped over a desk looking at a laptop](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/f4cf/live/9e2da670-9fa8-11f1-bff6-57f1422ebb0b.jpg)

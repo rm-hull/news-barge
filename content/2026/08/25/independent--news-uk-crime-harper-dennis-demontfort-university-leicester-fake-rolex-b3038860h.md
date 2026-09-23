@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Self-Improvement
+locations:
+- De Montfort University’s Innovation Centre
+- Hatton Garden
+- Leicester
+- London
+- North Road
+- Oxford Street
+- PA
+- Sophie Robinson
+- West Drayton
+people:
+- Harper Dennis
+- Jane Osborne KC
+- Khaleed Oladipo
+- Lorna Granville
+- Pin
+- Shekeizah Fowler-Palmer
+organisations:
+- De Montfort University
+- East Midlands Special Operations Unit Major Crime Team
+- Leicester Crown Court
+- Leicestershire Police
+- PA
+- Rolex
 ---
 
 A student who stabbed his former friend through the heart after they fell out over a fake Rolex watch has been found guilty of manslaughter.

@@ -13,6 +13,27 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Hanoi
+- Iran
+- Middle East
+- North Korea
+- Pyongyang
+- Seoul
+- South Korea
+- US
+- United States
+- Washington
+people:
+- Donald Trump
+- Han Seung-jeon
+- Kim Jong-un
+organisations:
+- Pentagon
+- South Korean Marine Corps
+- Ssangyong
+- US Marine Corps
+- Ulchi Freedom Shield
 ---
 
 ## The cancellation follows US President Donald Trump's order last week to scale down the separate annual Ulchi Freedom Shield exercises, cutting the joint drills from 11 days to five.

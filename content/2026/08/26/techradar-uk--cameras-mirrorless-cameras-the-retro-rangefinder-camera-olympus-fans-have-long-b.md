@@ -11,6 +11,21 @@ description: OM System shared a YouTube teaser announcing the launch of a digita
 image: https://cdn.mos.cms.futurecdn.net/A5TUAY9BMaD5Xn5v4CwsSN-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Kenya
+- Nairobi
+people:
+- Tim
+- Timothy Coleman
+organisations:
+- Amateur Photographer
+- Canon
+- Google News
+- Japan Industrial Partners
+- OM Digital Solutions
+- OM System
+- Olympus
+- TechRadar
 ---
 
 ![Olympus Pen-F digital rangefinder camera on a scratched wooden table](https://cdn.mos.cms.futurecdn.net/A5TUAY9BMaD5Xn5v4CwsSN.jpg) 

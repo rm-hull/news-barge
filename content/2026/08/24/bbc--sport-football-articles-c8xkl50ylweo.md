@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- City Ground
+- England
+- Stamford Bridge
+people:
+- Chris Wood
+- Elliot Anderson
+- Igor Jesus
+- Joao Pedro
+- Liam Delap
+- Liam Delap.
+- Ousmane Diomande
+- Steve Benda
+- Taiwo Awoniyi
+- Xaver Schlager
+organisations:
+- AC Milan
+- Chelsea
+- Coventry City
+- Forest
+- Fulham
+- Ipswich Town
+- Manchester City
+- Nottingham Forestare
+- Premier League
+- Sporting
 ---
 
 ![Liam Delap taps his chest after scoring against AC Milan](https://ichef.bbci.co.uk/ace/standard/948/cpsprodpb/5e4c/live/1ec5a190-9fed-11f1-8f6f-6b425335bd44.jpg)

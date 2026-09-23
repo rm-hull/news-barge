@@ -14,6 +14,24 @@ categories:
 - Bradford
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Bailiff Bridge
+- Bradford Road
+- Branxholme
+- Brighouse
+- Jesmond Dene
+- St Aidan’s Mission Church
+- Woodland House
+- YOUR
+people:
+- Wilcocks
+organisations:
+- Bailiffe Bridge J and I School
+- Calderdale Council
+- Jesmond Dene
+- Public Notice Portal
+- Roger Lee Planning Ltd
+- Victoria Mills
 ---
 
 ### What is the Public Notice Portal?

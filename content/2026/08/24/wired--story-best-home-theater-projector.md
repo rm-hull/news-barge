@@ -13,6 +13,19 @@ categories:
 - Science
 - Arts & Culture
 - Film & TV
+locations: []
+people: []
+organisations:
+- Android TV
+- BenQ
+- Google Assistant
+- Google Gemini
+- Google TV
+- Google TV Streamer
+- Hisense XR10
+- Leica Summicron
+- Netflix
+- OLED
 ---
 
 I've seen some of the best movies and tested some of the best home projectors this year. Massively entertaining films like *The Odyssey*,* Project Hail Mary*, and* Toy Story 5* have made 2026 a standout year for movies, and new home theater projectors like the Xgimi Titan Noir Max and the AWOL Vision Aetherion Max have upped the game in terms of beautiful, cinematic, color-accurate images at home.

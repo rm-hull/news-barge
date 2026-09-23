@@ -19,6 +19,69 @@ categories:
 - UK
 - Sports
 - Comedy & Entertainment
+locations:
+- Argentina
+- Buckingham Palace
+- Clacton
+- Dublin
+- England
+- France
+- Iran
+- Israel
+- Italy
+- London
+- Maldives
+- Man City
+- Man United
+- Mauritius
+- Nepal
+- New York City
+- Newcastle
+- Russia
+- Saudi Arabia
+- Spain
+- US
+people:
+- Amy Whitell
+- Andrew Strauss
+- Andy Burnham
+- Anthony Hutton
+- Carlos Baleba
+- Charlie Brown
+- Count Binface
+- David Miliband
+- Dolly Parton
+- Ed Gamble
+- Elizabeth Davies
+- Harry Styles
+- Joanne McNally
+- Josh Gabbard
+- Kim Kardashian
+- Lee Cain
+- Lemoncello
+- Marilyn Monroe
+- Martin Lewis
+- Matthias Jaissle
+- Nourah
+- Patrick Osborn
+- Poorna Bell
+- Putin
+- Sam Ryder
+- Tom Grennan
+- Trump
+- Zelensky
+organisations:
+- Arsenal
+- Count Binface
+- Farage
+- MI6
+- Ofgem
+- Premier League
+- See.Sense
+- Spice Kitchen
+- Starmer
+- Trump
+- WABI-TV
 ---
 
 ## Showing now | News

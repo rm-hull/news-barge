@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - History
+locations:
+- Bari
+- Greece Normand
+- Patras
+people:
+- Regis Claude Albert Normand
+- Valeria Isabella Valenzi
+organisations:
+- Altus LSA
+- French Ministry of Defence
+- MBDA France
+- NATO
 ---
 
 **Euronews**

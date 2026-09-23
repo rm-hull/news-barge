@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- California
+- Ohio
+- PayPal Park
+- San Jose
+people:
+- Callum Williams
+- Cameron Knowles
+- Kyndra de St Aubin
+- Raquinho
+organisations:
+- Apple TV
+- Chicago Fire
+- DC United
+- FC Cincinnati
+- Minnesota United
+- Minnesota United’s X
+- New York City FC
+- New York Times’ The Athletic
+- Orlando City FC
+- PayPal Park
+- Philadelphia Union
+- San Jose Earthquakes
 ---
 
 A toddler interrupted a Major League Soccer match between Minnesota United and San Jose Earthquakes on Saturday by invading the pitch – a bizarre scene punctuated by an on-air analyst saying, “There’s a baby on the field.”

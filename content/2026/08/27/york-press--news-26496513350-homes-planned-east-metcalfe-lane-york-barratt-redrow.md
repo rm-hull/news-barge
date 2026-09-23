@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Home, Garden & DIY
+locations:
+- Bad Bargain Lane
+- Metcalfe Lane
+- Murton Way
+- YOUR
+- York
+people:
+- Barratt Redrow
+organisations:
+- Barratt Homes
+- Barratt Redrow
+- City of York Council
+- Monks Cross Garden Village
+- Public Notice Portal
 ---
 
 *(Image: Pic supplied)*

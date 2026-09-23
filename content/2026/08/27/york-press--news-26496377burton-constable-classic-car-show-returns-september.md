@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Burton Constable
+- Burton Constable Hall
+- East Yorkshire
+people:
+- Alasdair Hutson
+organisations:
+- Burton Constable Foundation
+- East Yorkshire Thoroughbred Car Club
+- Lotus Owners Club
 ---
 
 ## Hundreds of classic vehicles expected as popular East Yorkshire show returns

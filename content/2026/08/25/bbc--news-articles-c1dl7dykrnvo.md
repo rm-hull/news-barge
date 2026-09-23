@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Ceuta
+- Madrid
+- Melilla
+- Morocco
+- North Africa
+- Spain
+- Spain.
+people:
+- Abdellatif Ouahbi
+- Esther Muñoz
+- Fernando Grande-Marlaska
+- Juan Jesús Vivas
+- Margarita Robles
+- Pedro Sánchez
+- Ángel Víctor Torres
+organisations:
+- CNI
+- EU
+- PP
+- People's Party
 ---
 
 ![A group of men are seen from the back on a rocky outcrop with the blue sea and large ships in the background, on 22 August, 2026 in Ceuta, Spain.](https://ichef.bbci.co.uk/ace/standard/928/cpsprodpb/b6ca/live/34f847c0-a0b4-11f1-8229-b91d73b62f74.jpg)

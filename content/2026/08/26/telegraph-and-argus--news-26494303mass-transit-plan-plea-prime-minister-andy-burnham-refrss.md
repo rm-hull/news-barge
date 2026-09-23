@@ -14,6 +14,25 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Leeds
+- London
+- West Yorkshire
+people:
+- Andy Burnham
+- Gareth Forest
+- Tracy Brabin
+organisations:
+- Department for Transport
+- DfT
+- Government
+- Government, Transport and Works Act Orders
+- Number 10
+- Treasury
+- WYCA
+- West Yorkshire Combined Authority
+- West Yorkshire Needs A Tram
 ---
 
 *(Image: West Yorkshire Combined Authority)*

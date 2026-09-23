@@ -13,6 +13,29 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Cannon Hall Farm
+- Centenary Square
+- Europe
+- French Garden
+- Huddersfield
+- Jersey
+- Lister Park
+- Singapore
+- St George’s Square
+- UK
+people:
+- Bradley Nurseries
+- Dahlia
+- Henry Wadsworth Longfellow
+- Paul Marshall
+- Shiraaz Ali
+organisations:
+- Bradford
+- City Hall
+- Huddersfield
+- International Flower Carpet
 ---
 
 THE street-lamps of the ocean; and behold,

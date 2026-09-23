@@ -15,6 +15,34 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 - Film & TV
+locations:
+- Amazon
+- California
+- England
+- Sussex
+- UK
+- Windsor Castle
+people:
+- Brie Larson
+- Guy Ritchie
+- Jack Quaid
+- Lily Collins
+- Meghan Markle
+- Paul Ellis
+- Prince Harry
+- Rachel Zane
+- Tina Brown
+organisations:
+- '**News.com.au**'
+- Archewell Productions
+- Hallmark
+- Harry & Meghan
+- Heart of Invictus
+- Meghan Markle
+- Netflix –
+- New Yorker
+- Polo
+- Vanity Fair
 ---
 
 ## There has been speculation that Meghan Markle was set to make her return to acting following her return to the UK. A rumoured role in Guy Ritchie’s show The Gentlemen was on the table... and has now apparently been withdrawn “after intense backlash in the UK”...

@@ -11,6 +11,18 @@ image: https://cdn.mos.cms.futurecdn.net/mmC46SwpMPqUcFVUpYRQva-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Iveda
+people:
+- David Ly
+- Iveda
+organisations:
+- Efosa
+- GX10-F100
+- GlobalMed
+- Google News
+- Iveda
+- TechRadar Pro
 ---
 
 ![IvedaAir GX10-F100 helicopter drone](https://cdn.mos.cms.futurecdn.net/mmC46SwpMPqUcFVUpYRQva.jpg) 

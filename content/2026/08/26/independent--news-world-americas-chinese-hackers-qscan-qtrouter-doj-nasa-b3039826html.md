@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- Beijing
+- China
+- FBI San Diego
+- Nanjing Xinjiuwei
+- South Korea
+- U.S.
+- United States
+- Washington
+people:
+- Dakota Cary
+- Kash Patel
+- Trump
+organisations:
+- DOJ
+- Department of Health and Human Services
+- FBI Cyber Division
+- Federal Reserve
+- Justice Department
+- Ministry of State Security
+- NASA
+- Nanjing Xinjiuwei Network Technology Company
+- National Institutes of Health
+- PRC
+- People’s Liberation Army
+- QTFY
+- SentinelOne
+- U.S. Department of Energy
+- U.S. Justice Department
+- U.S. Senate
 ---
 
 The United States announced Wednesday that it disrupted an extensive Chinese cyber-espionage operation responsible for hacking the U.S. Justice Department, NASA, the Federal Reserve, the U.S. Senate, and several other sensitive federal agencies.

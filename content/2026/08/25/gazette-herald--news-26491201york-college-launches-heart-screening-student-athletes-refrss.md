@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Portugal
+- UK
+people:
+- Emma Palmer
+- Faye Singleton
+- Jaden Ncube
+- Quevin Castro
+organisations:
+- CardioLogic Diagnostics
+- QT Medical
+- Talented Athlete Scholarship Scheme
+- York City
+- York City Women
+- York College
 ---
 
 A college has become the first in the UK to offer fully funded heart screening to its student athletes.

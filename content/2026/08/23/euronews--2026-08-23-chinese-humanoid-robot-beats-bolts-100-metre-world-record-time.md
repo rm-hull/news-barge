@@ -13,6 +13,19 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Beijing
+- Berlin
+- China
+- Olympiastadion
+people:
+- TienKung
+- Usain Bolt
+organisations:
+- Beijing Centre for Humanoid Robotics
+- Ice Ribbon
+- Morgan Stanley Research
+- World Humanoid Robot Games
 ---
 
 ## "In 1 year alone the robots competing have become twice as fast. This highlights the pace of advancement both in the market, and specifically in Chinese robotics," organisers of the World Humanoid Robot Games said.

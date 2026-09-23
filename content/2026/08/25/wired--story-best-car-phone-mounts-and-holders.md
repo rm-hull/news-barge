@@ -13,6 +13,40 @@ categories:
 - Technology & Software
 - Science
 - Travel
+locations:
+- Andery
+- Andobil
+- Krypton
+- MagSafe Mount
+- Montana
+- US
+- Vanva
+- Windshield Mount
+- iOttie
+people:
+- Andery
+- Andobil
+- Belkin
+- Hodor
+- Jor-El
+- Julian Chokkattu
+- Kat Merck
+- Simon Hill
+organisations:
+- Acer
+- Andery
+- Andobil
+- Apple
+- ESR
+- MagSafe
+- Nokia
+- Peak Design
+- Samsung
+- Simon Hill
+- USB
+- Vanmass
+- WIRED
+- iOttie Wireless
 ---
 
 A car phone mount is no longer an option—it's a necessity. Nearly every US state restricts cell phone use while driving (we see you, Montana!), and most require full hands-free operation. The best car phone mounts offer an easy view of your phone's screen without blocking your view of the road, hold your phone securely, and keep vibration to a minimum.

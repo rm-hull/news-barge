@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- Darlington
+- Hurworth-on-Tees
+- North East
+- Rialto
+- Rockcliffe
+people:
+- Steve Gibson
+organisations:
+- Café TERRA
+- Café Terra
+- Google
+- Middlesbrough FC
+- Rockcliffe
+- Rockliffe Hotel
+- Spa
+- The Clubhouse
+- The Morning Room
+- Village hall
 ---
 
 A luxury spa near Darlington has received glowing reviews from guests.

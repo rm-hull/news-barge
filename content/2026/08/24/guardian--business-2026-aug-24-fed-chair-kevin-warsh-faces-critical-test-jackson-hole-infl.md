@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Grand Teton
+- Iran
+- Jackson Hole
+- Rocky Mountains
+- US
+- Washington
+people:
+- Dan Coatsworth
+- Donald Trump
+- James Smith
+- Kevin Warsh
+- Scott Bessent
+- Stephen Brown
+organisations:
+- AJ Bell
+- Capital Economics
+- Fed
+- Federal Reserve
+- ING Bank
+- US Federal Reserve
+- US Treasury
+- Warsh
 ---
 
 The new US Federal Reserve chair, Kevin Warsh, faces a critical test this week amid anxiety in government bond markets over inflation and Donald Trump’s tax and spending plans.

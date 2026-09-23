@@ -12,6 +12,11 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Knaresborough Fire Station
+- Stockwell Lane
+people: []
+organisations: []
 ---
 
 # Knaresborough hedge fire spreads along ginnel

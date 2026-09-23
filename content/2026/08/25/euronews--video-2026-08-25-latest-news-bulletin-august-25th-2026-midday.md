@@ -12,6 +12,51 @@ image: https://images.euronews.com/articles/stories/09/88/78/73/1200x675_cmsv2_a
 categories:
 - Europe
 - News & Politics
+locations:
+- Argentina
+- Astana.
+- Beijing
+- Belgium
+- Brussels
+- Bunia
+- Canada
+- Egypt
+- Europe
+- Evangelical Medical Centre
+- France
+- Halkidiki
+- Iceland
+- Istra Municipal District
+- Kazakhstan
+- Khor Fakkan
+- Paris
+- Sani Beach
+- Stockholm
+- Strait of Hormuz
+- Sweden.
+- UAE
+- Ukraine
+- Washington, D.C.
+- White House
+people:
+- António Costa
+- Donald Trump
+- Emmanuel Macron
+- Jean-Luc Mélenchon
+- Kristrún Frostadóttir
+- Mark Carney
+- Orr Yarkoni
+- Thomas Jefferson
+- Ursula von der Leyen
+- Volodymyr Zelenskyy
+organisations:
+- AG.AL
+- EWC
+- Euronews
+- European Commission
+- European Council
+- FBI
+- Ozon
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

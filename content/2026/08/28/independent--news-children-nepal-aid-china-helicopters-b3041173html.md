@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- China
+- Kathmandu
+- Maithali Barrack
+- Nepal
+- Nuwakot
+people:
+- Chanda Lal Chitrakar
+- Kanchi Nepali
+organisations:
+- AP
+- Associated Press
+- International Red Cross
+- National Disaster Risk Reduction and Management Authority
+- The Associated Press
+- U.N.
+- UNICEF
 ---
 
 Aid began to reach some survivors in Nepal on Friday following the catastrophic flash floods that swept through the mountainous border region between Nepal and China, as the full scope of the devastation continued to emerge and survivors sought shelter at makeshift army relief centers.

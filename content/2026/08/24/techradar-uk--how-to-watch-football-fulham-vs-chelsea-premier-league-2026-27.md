@@ -11,6 +11,79 @@ image: https://cdn.mos.cms.futurecdn.net/3dtVaYYvyJfey7GHzE2d2h-2560-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Aston Villa
+- Australia
+- Brighton
+- CA
+- Canada
+- China.
+- Craven Cottage
+- Crystal Palace
+- Hong Kong
+- Kai Tak Stadium
+- Spain
+- Stamford Bridge
+- UK
+- US
+- US.
+- West London
+- canada
+- uk
+people:
+- Alvaro Arbeloa
+- Cesar Palacios
+- Danny Welbeck
+- Gonzalo Garcia
+- Harry Wilson
+- James Roberts
+- Joachim Andersen
+- Joao Pedro
+- Jordan Henderson
+- Marco Silva
+- Maxence Lacroix
+- Morgan Rogers
+- Raul Jimenez
+- Shea Charles
+- Tom Cairney
+- Xabi Alonso
+organisations:
+- AU
+- Bayer Leverkusen
+- Bernabeu
+- Blues
+- Brentford
+- Chelsea FC
+- Cottagers
+- Cottagers'
+- FourFourTwo
+- Fubo
+- Fubo**
+- Fulham
+- Future Publishing
+- Instagram
+- Juventus
+- Liverpool
+- Matchday Plus
+- NOW Sports
+- New Chelsea
+- NordVPN
+- Oxford Mail
+- Oxford United
+- PremierLeague
+- Real Madrid
+- Sky Deck
+- Sky Sports
+- Sky Sports Main Event
+- Sky Sports Premier League
+- Sling TV**
+- Southampton
+- Stan Sport
+- TechRadar
+- TikTok
+- USA Network
+- USA Network viaYouTube TV
+- YouTube TV**
 ---
 
 ![Joao Pedro of Chelsea FC reacts during the preseason friendly between Chelsea and Juventus at the Kai Tak Stadium on August 5, 2026 in Hong Kong, China.](https://cdn.mos.cms.futurecdn.net/3dtVaYYvyJfey7GHzE2d2h.jpg) 

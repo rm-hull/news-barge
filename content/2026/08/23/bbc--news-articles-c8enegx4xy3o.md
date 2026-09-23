@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Bangkok
+- Hat Yai
+- Malaysia
+- Muang
+- Narathiwat
+- Pattani
+- Ra-ngae
+- Songkhla
+- Thailand
+- Yala
+people:
+- Anutin Charnvirakul
+organisations:
+- Bangkok Post
+- Barisan Revolusi Nasional
+- Bongor Subdistrict Administrative Organisation
+- Internal Security Operations Command
 ---
 
 Watch: A shop ablaze in Narathiwat, southern Thailand as a wave of attacks reported

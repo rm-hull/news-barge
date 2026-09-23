@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Arizona
+- Badwater Road
+- California
+- California-Nevada
+- Death Valley
+- Earth
+- Formosa
+- Furnace Creek
+- Furnace Creek Visitor Center
+- Grand Canyon
+- Inyo
+- Sheba Mine Road
+- US
+- West Side Road
+people:
+- Mike Reynolds
+- Pierre Michel Formosa
+organisations:
+- Formosa
+- NPS
+- National Park Service
 ---
 
 A French tourist recently died in Death Valley national park after a car mishap left him stranded in 116F (47C) weather.

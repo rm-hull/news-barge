@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- New York
+people:
+- Brett Goldstein
+- Jennifer Lopez
+- Jordan Pettitt
+- Roy Kent
+- Ted Lasso
+organisations:
+- Apple TV
+- Men’s Health UK
+- PA Wire
 ---
 
 *(Image: Jordan Pettitt/PA Wire)*

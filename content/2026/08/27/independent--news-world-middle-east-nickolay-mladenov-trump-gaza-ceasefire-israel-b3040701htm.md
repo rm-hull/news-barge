@@ -12,6 +12,23 @@ image: https://static.independent.co.uk/2026/08/27/22/2275453130..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Gaza
+- Israel
+- U.S.
+- Washington
+people:
+- Benjamin Netanyahu
+- Donald Trump
+- Jared Kushner
+- Mike Waltz
+- Nickolay Mladenov
+- Noa Furman
+organisations:
+- Board of Peace
+- Hamas
+- Security Council
+- U.N.
 ---
 
 The lead envoy overseeing President Donald Trump’s Gaza ceasefire strategy voiced sharp criticism of Israel on Wednesday over its persistent bombardments of the enclave, cautioning that rejecting the U.S. proposal leaves only the prospect of renewed conflict.

@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- England
+people:
+- D’Arcy Williams
+- Jamie Oliver
+- Katharine Jenner
+organisations:
+- Bite Back
+- Coca-Cola
+- Department for Education
+- Fanta
+- Labour
+- Obesity Health Alliance
+- Pepsi
+- Sprite
 ---
 
 Three-quarters of secondary schools in England are breaking the rules on food offered to pupils by serving chips, burgers and hash browns too often – and sweets and crisps at breakfast time, according to a report.

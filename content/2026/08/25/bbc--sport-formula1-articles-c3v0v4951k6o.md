@@ -13,6 +13,53 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Azerbaijan
+- Budapest
+- Canada
+- Hungary
+- Italy
+- Malaysia
+- Middle East
+- Monaco
+- Spa-Francorchamps
+- Zandvoort
+people:
+- Andrew Benson
+- Charles Leclerc
+- Chris** Honda
+- Fernando Alonso
+- Frederic Vasseur
+- George Russell
+- Haas
+- Isack Hadjar
+- Kimi Antonelli
+- Lando Norris
+- Lewis Hamilton
+- Max (Verstappen
+- Max Verstappen
+- Mercedes' Antonelli
+- Mercedes' Kimi Antonelli
+- Mike**
+- Pierre Gasly
+- Toto Wolff
+- Williams
+- Yuki Tsunoda
+organisations:
+- Alpine
+- Aston Martin
+- Audi
+- Cadillac
+- DNF
+- F1
+- FIA
+- Ferrari
+- Formula 1
+- Honda
+- McLaren
+- Mercedes
+- Racing Bulls
+- Red Bull
 ---
 
 ![Mercedes' Kimi Antonelli pictured in his racing uniform at the Dutch Grand Prix](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/8d8a/live/e648ca20-9fd0-11f1-ba89-8d0bd2eb1384.jpg)

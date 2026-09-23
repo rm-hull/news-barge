@@ -14,6 +14,56 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- A62 Manchester Road
+- Barber Row
+- Black Rock Drive
+- Black Rock House
+- Black Rock Mills
+- Causeway Crescent Park
+- Christ Church
+- Church Lane
+- Colne Valley
+- Hoyle Ing
+- Huddersfield Narrow Canal
+- Huddersfield.
+- Linthwaite Ardron
+- Linthwaite Cricket
+- Low Clough
+- Low Westwood Lane
+- Lowestwood Mill
+- Manchester Road
+- North
+- Ramsden Mill Lane
+- River Colne
+- Ross
+- Royd House Lane
+- Saddleworth
+- Sir John Ramsden Canal
+- Standedge Tunnel
+- Thornton
+- Titanic Mill
+- Waingate
+- West Yorkshire
+- Westwood Mills
+people:
+- George Mallinson
+- James Dyson Dyeworks
+- John Shaw
+- Linthwaite
+- Lockwood
+- Napoleon
+organisations:
+- A62
+- Bowling Club
+- Cavaliers
+- Colne Valley High School
+- Hoyle Ing
+- JT Grosvenor
+- Kirklees Council
+- Linthwaite Clough
+- Methodist Chapel
+- Ofsted
 ---
 
 # Linthwaite, West Yorkshire: The village rich in industrial heritage

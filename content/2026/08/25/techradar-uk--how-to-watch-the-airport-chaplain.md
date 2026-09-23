@@ -12,6 +12,50 @@ image: https://cdn.mos.cms.futurecdn.net/cTGyz3zWHBvfk5WiKPxRNK-584-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- AUSTRALIA
+- Australia
+- BT
+- Canada
+- Echo Palo
+- Mira
+- Oz
+- UK
+- US
+- USA
+people:
+- Arka Das
+- Brenna Harding
+- Claudia Karvan
+- Erroll Shand
+- George Mason
+- Hugo Weaving
+- Shabana Azeez
+- Thomas Weatherall
+- Tobias Wallace
+- Tom Bailey
+organisations:
+- Airport Chaplain
+- Elle Deco
+- Future Publishing
+- Google TV
+- Humax
+- MCU
+- Men's Health
+- NVIDIA Shield
+- Netflix
+- NordVPN
+- NordVPN**
+- SBS SBS
+- Sky Glass
+- Sony
+- TalkTalk
+- The Airport Chaplain
+- The Daily Telegraph
+- The Mail
+- The Sun
+- The Sunday Times
+- Virgin Media**
 ---
 
 ![The Airport Chaplain](https://cdn.mos.cms.futurecdn.net/cTGyz3zWHBvfk5WiKPxRNK.jpg) 

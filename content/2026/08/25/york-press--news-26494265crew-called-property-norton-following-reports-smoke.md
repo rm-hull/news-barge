@@ -12,6 +12,13 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Malton
+- North Yorkshire
+- Norton
+- Wold Street
+people: []
+organisations: []
 ---
 
 *(Image: Getty Images/iStockphoto)*

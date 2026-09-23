@@ -10,6 +10,19 @@ description: My unwanted Wii was surprisingly valuable
 image: https://cdn.mos.cms.futurecdn.net/bp9DFnmuP5UDPnBbqM2Dph-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- New York City
+people:
+- Eric Hal Schwartz
+organisations:
+- Amazon’s E Ink
+- ChatGPT
+- Google Gemini
+- Google News
+- Kindle Fires
+- TechRadar
+- Voicebot.ai
+- eBay
 ---
 
 ![Nintendo Wii](https://cdn.mos.cms.futurecdn.net/bp9DFnmuP5UDPnBbqM2Dph.jpg) 

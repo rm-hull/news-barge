@@ -12,6 +12,20 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- UK
+people:
+- Andy Burnham
+- Ben Ansell
+- Prof Ansell
+organisations:
+- Budget
+- IPPR
+- ITV News
+- Institute for Public Policy Research
+- Labour
+- Oxford
 ---
 
 Britain must rebalance its taxation away from younger workers and towards property and older demographics, according to a report by an influential policy think tank.

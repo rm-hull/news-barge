@@ -12,6 +12,31 @@ categories:
 - Local
 - Harrogate
 - Health & Fitness
+locations:
+- Birmingham
+- Europe
+- Harrogate
+- Leeds Cancer Centre
+- Manchester
+- UK
+people:
+- Dad
+- David Sebag-Montefiore
+- Hugh Chown
+- Michelle Mitchell
+- Prof Bach
+- Prof Sebag-Montefiore
+- Prof Simon Bach
+- Rachel Hugh Chown
+organisations:
+- Cancer Research UK
+- Christie NHS Foundation Trust
+- Lancet Oncology
+- STAR-TREC
+- UCL
+- Universities of Leeds
+- University of Birmingham
+- University of Leeds
 ---
 
 ![A group of doctors wearing green scrubs preparing to operate on a patient](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/22d4/live/991dab00-9baa-11f1-92e6-b1dfcecd4308.jpg)

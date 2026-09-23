@@ -13,6 +13,41 @@ categories:
 - UK
 - News & Politics
 - Books & Literature
+locations:
+- Australia
+- Bondi Junction
+- Gaza
+- Israel
+- Palestine
+- Sydney
+- US
+- Waverley
+people:
+- Abdo Sultan
+- Adam Johnson
+- Alex Ryvchin
+- Bart Shteinman
+- Bondi],” Ryvchin
+- JWire
+- Nasser Mashni
+- Ramia Abdo Sultan
+organisations:
+- Australia Palestine Advocacy Network
+- Bondi
+- Ecaj
+- Executive Council of Australian Jewry
+- Facebook
+- Guardian Australia
+- JWire
+- Jewish Council of Australia
+- Library Council of NSW
+- NSW Jewish Board of Deputies
+- Pluto Press
+- State Library
+- State Library of NSW
+- State Library of New South Wales
+- Sydney Morning Herald
+- UN
 ---
 
 A Sydney library has returned to its borrowing shelves a book critical of Israel called How to Sell a Genocide following a public campaign and an intervention from the State Library of New South Wales.

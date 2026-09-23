@@ -13,6 +13,64 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Estonia
+- Europe
+- Gaza
+- George Washington
+- Gulf
+- Indo-Pacific
+- Iran
+- Israel
+- Latvia
+- Lithuania
+- Middle East
+- Moscow
+- Nasser
+- Russia
+- Strait of Hormuz
+- Tehran
+- UK
+- US
+- Ukraine
+- United States
+people:
+- Barron Trump
+- Donald Trump
+- Elbridge Colby
+- John Ratcliffe
+- Mariam Abu Dagga
+- Masoud Pezeshkian
+- Mike Pence
+- Pete Hegseth
+- Scott Bessent
+organisations:
+- 40th International Islamic Unity Conference
+- Al Jazeera
+- Barron Trump
+- Breaking the Silence
+- CIA
+- CNN
+- Cabinet
+- Channel 3
+- Defence
+- Euronews
+- IMF
+- Independent Arabia
+- Islamic Revolutionary Guard Corps
+- Nato
+- Organisation of Islamic Cooperation
+- Pence
+- Pentagon
+- Politico
+- Reuters
+- Secret Service
+- The Independent
+- US Navy
+- US Treasury
+- USNI
+- USS Theodore Roosevelt Carrier
 ---
 
 The United States is preparing to send another aircraft carrier to the Middle East after Donald Trump vowed to continue the war with Iran “for as long as necessary” and without a timetable to resume peace talks.

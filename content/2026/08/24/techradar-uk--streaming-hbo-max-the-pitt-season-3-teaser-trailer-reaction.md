@@ -13,6 +13,27 @@ image: https://cdn.mos.cms.futurecdn.net/sVGXmmqrNcsp6fFh4uFZ5Q-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Virgin River
+people:
+- Dr. Robby
+- George Cooper Sr.
+- Javadi
+- Meek
+- Noah Wyle
+- Shabana Azeez
+organisations:
+- Deadline
+- ER
+- HBO
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- The Pitt
+- Yahoo!
 ---
 
 ![Dr. Robby looks forlorn while walking through the hospital hallway](https://cdn.mos.cms.futurecdn.net/sVGXmmqrNcsp6fFh4uFZ5Q.jpg) 

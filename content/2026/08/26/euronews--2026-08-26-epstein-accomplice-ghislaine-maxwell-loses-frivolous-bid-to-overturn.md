@@ -12,6 +12,21 @@ image: https://images.euronews.com/articles/stories/09/88/90/21/1200x675_cmsv2_0
 categories:
 - Europe
 - News & Politics
+locations:
+- Britain
+- New York
+- US
+people:
+- '## Maxwell'
+- Andrew
+- Donald Trump
+- Ghislaine Maxwell
+- Jeffrey Epstein
+- Paul Engelmayer
+organisations:
+- Epstein
+- House Oversight Committee
+- US Supreme Court
 ---
 
 ## Maxwell was convicted in 2021 of supplying underage girls to Epstein, whose ties to powerful business executives, politicians, celebrities and academics have fuelled years of scrutiny and conspiracy theories.

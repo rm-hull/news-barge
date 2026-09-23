@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Birmingham
+- Cheshire
+- Daresbury
+- England
+- London
+- North East
+- North West
+- Northern Ireland
+- Reading
+- Scotland
+- Staffordshire
+- The Midlands
+- UK
+- Wales
+people: []
+organisations:
+- BBC Weather
+- Creamfields
+- Environment Agency
+- Leeds Festivals
+- Manchester Pride
+- Met Office
+- Wales
 ---
 
 ![A woman walks along in the rain pulling a shopping trolley](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e0ae/live/5bf17290-a2b0-11f1-ab20-f9f4f61e8913.jpg)

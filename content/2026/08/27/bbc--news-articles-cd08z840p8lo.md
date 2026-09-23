@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Kathmandu
+- Nepal
+- Nuwakot
+- Rasiwa Syafru
+- Rasuwa
+- TU Teaching Hospital
+- Tibet
+people:
+- Dechen Tamang
+- Goma Pandit
+- Kalpana Malla
+- Mani Shrestha Bishwa
+- Ram Khumari Shrestha
+- Shreejana Shrestha
+- Sonam Dorjee
+- Sugam Malla
+organisations:
+- BBC Nepali
 ---
 
 Watch: People pulled from mud in Nepal after deadly flash floods

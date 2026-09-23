@@ -12,6 +12,60 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Bahrain
+- China
+- Gaza Strip
+- Gulf
+- Iran
+- Israel
+- Jerusalem
+- Middle East
+- Netherlands
+- Old City
+- Oman
+- Pakistan
+- Qatar
+- Ramallah
+- Strait of Hormuz
+- Tehran
+- Tel Aviv
+- U.S.
+- US
+- United States
+- Washington
+- West Bank
+people:
+- Asim Munir
+- Donald Trump
+- Esmail Baghaei
+- Gideon Saar
+- Ishaq Dar
+- Majed Al Ansari
+- Mohammad Bagher Qalibaf
+- Mohammed bin Abdulrahman Al Thani
+- Nickolay Mladenov
+- Noa Furman
+- Tahir Andrabi
+- Tom Berendsen
+organisations:
+- Al Jazeera
+- Civil-Military Coordination Center
+- Foreign Ministry
+- Hamas
+- Hamas’
+- Health Ministry
+- IGSC
+- International Gaza Support Center
+- Jerusalem Magistrate’s Court
+- Religious Freedom Data Center
+- Security Council
+- The Associated Press
+- Trump’s Board of Peace
+- U.N
+- U.N.
+- UKMTO
+- United Kingdom Maritime Trade Organization
 ---
 
 Regional powers sought an off-ramp from the war with Iran as another tanker attack was reported in the Strait of Hormuz, and the Iranian government dismissed the Trump administration's latest sanctions.

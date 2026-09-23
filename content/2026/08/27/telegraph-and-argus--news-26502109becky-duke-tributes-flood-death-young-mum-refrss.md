@@ -14,6 +14,30 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford
+- Halifax Road
+people:
+- Becky Duke
+- Damian Prendergast
+- Damien Godward
+- Eileen Fearon
+- Ella
+- Emma Dunne
+- Georgia Conway
+- Jodie Tait
+- June Kay**
+- Karree Bell
+- Kerchella James**
+- Kirsty M Jardin**
+- Ms Duke
+- Saghir Ahmed**
+- Tanya Godward
+- Tara Flaherty**
+organisations:
+- RIP
+- Tong High School
+- UGC
 ---
 
 *(Image: Getty Images)*

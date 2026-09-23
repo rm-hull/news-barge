@@ -12,6 +12,27 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Albert Street
+- Bingley
+- Guiseley
+- Magnet’s Harrogate
+- Plantation House
+- Ripon Road
+- Skipton
+- UK
+- Yorkshire
+people:
+- Jonathan Warner
+- Michael Higgins
+- Robert Goldsbrough
+- Tom Newton
+- Viv Poskitt
+organisations:
+- Harrogate team
+- Magnet
+- Store
+- Trade Sales
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8d4caf4d66533632e.jpg) 

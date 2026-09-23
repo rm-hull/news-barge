@@ -12,6 +12,35 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc68/live/708dea
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Beijing
+- Beijing.
+- China
+- India
+- Iran
+- Iraq
+- Pakistan
+- Russia
+- Strait of Hormuz
+- Tehran
+- Turkey
+- US
+- Washington
+people:
+- Ali Madanizadeh
+- Ali Vaez
+- David Oxley
+- Donald Trump
+- Lin Jian
+- Scott Bessent
+- Xi Jinping
+organisations:
+- BBC Radio 4
+- Capital Economics
+- International Crisis Group
+- Middle East and North Africa Program
+- US Treasury
 ---
 
 Treasury Secretary Scott Bessent says US will "tighten the noose" around Iranian revenue sources

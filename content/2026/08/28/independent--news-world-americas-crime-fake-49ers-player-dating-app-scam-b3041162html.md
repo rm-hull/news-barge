@@ -14,6 +14,34 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bay Area
+- California
+- Idaho
+- Nevada
+- New Mexico
+- Oregon
+- Portland
+- Utah
+- Washington
+people:
+- Avril Lyto Love
+- Daejon Labrayae Love
+- Daejon Love
+- Jon Love
+- Jordan Love
+- Taylor Jamie Chan
+organisations:
+- Boise Airport
+- FBI
+- Google
+- Instagram
+- McLaren
+- NFL
+- San Francisco 49ers
+- U.S. Attorney's Office
+- U.S. Attorney’s Office
+- U.S. Attorney’s Office for the District of Oregon
 ---
 
 Federal authorities have charged two men with operating a multi-state romance scheme that defrauded at least 26 women out of approximately $1.3 million, using a fabricated NFL persona to target victims through dating applications.

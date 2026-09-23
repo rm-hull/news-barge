@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - Arts & Culture
 - Film & TV
+locations:
+- Ripley Castle
+- The Boar’s Head
+- York
+people:
+- Francis Ingilby
+- Paul Forster
+organisations:
+- Harrogate Ghost Walk
+- Ripley Castle
+- Ripley Castle Estate
+- The Boar’s Head
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8ebe17e06790ca4a2.jpg) 

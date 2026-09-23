@@ -12,6 +12,25 @@ image: https://cdn.mos.cms.futurecdn.net/uECAzrbUEVAyPyyBsSAC54-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Dynamic Island
+people:
+- James
+- Siri AI
+organisations:
+- AI
+- ANC
+- AirPods Pro
+- Apple Intelligence
+- Apple Watches
+- ChatGPT
+- Clarity Media
+- Gemini
+- Google News
+- Samsung Galaxy
+- TechRadar
+- Ultra
+- Wi-Fi 7
 ---
 
 ![A collage image showing the rumored new Home Hub display, iPhone 18 Pro and AirPods 4](https://cdn.mos.cms.futurecdn.net/uECAzrbUEVAyPyyBsSAC54.jpg) 

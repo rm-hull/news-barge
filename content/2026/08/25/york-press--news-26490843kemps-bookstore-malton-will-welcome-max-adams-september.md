@@ -13,6 +13,25 @@ categories:
 - York
 - History
 - Arts & Culture
+locations:
+- England
+- London
+- Malton
+- North East
+- Wesley Centre
+people:
+- Kemps
+- Liz Kemp
+- Max Adams
+- Max Adams’
+- Pete Jackson
+- William the Conqueror
+organisations:
+- British Museum
+- Kemps Bookstore
+- Malton
+- North Yorkshire Kemps Bookstore
+- University of York
 ---
 
 ## Esteemed historian and archaeologist to visit North Yorkshire

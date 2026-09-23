@@ -12,6 +12,40 @@ image: https://static.independent.co.uk/2026/03/30/13/49/US-Army-helicopter-does
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- California
+- Fort Belvoir
+- Fort Campbell
+- Iran
+- Kid Rock
+- Nashville
+- Tennessee
+- U.S.
+- Virginia
+- Washington
+- White House
+people:
+- Christopher LaNeve
+- Gavin Newsom
+- God
+- Kid Rock
+- Pete Hegseth
+- Randy George
+- Trump
+organisations:
+- 101st Airborne Division
+- 101st Combat Aviation Brigade
+- Apache
+- Associated Press
+- Congress
+- Kid Rock
+- MAGA
+- Pentagon
+- Senate
+- The Post
+- The Washington Post
+- U.S. Army
 ---
 
 Days before Defense Secretary Pete Hegseth ousted him earlier this year, the Army’s top general was reportedly told by the official who is now trying to replace him to drop an investigation into the military’s unauthorized helicopter flyby at Kid Rock’s property.

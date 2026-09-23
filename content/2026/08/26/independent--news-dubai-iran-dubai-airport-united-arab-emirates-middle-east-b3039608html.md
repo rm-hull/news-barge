@@ -14,6 +14,20 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Dubai
+- Europe
+- Gulf
+- Iran
+- Israel
+- Middle East
+- United Arab Emirates
+- United States
+people:
+- Paul Griffiths
+organisations:
+- Dubai International Airport
+- The Associated Press
 ---
 
 Dubai International Airport, one of the world’s busiest hubs, said Wednesday it saw a sharp drop in passengers during the second quarter as the Iran war disrupted air travel and prompted many travelers to choose routes that avoided the Middle East.

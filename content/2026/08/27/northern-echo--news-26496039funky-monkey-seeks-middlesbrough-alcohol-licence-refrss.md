@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Albert Road
+- Middlesbrough
+- YOUR
+people:
+- Michelle Taggart
+organisations:
+- Funky Monkey
+- Middlesbrough Council
+- Public Notice Portal
+- TS1 9FZ
+- The Northern Echo
 ---
 
 *(Image: PA Wire/PA Photos)*

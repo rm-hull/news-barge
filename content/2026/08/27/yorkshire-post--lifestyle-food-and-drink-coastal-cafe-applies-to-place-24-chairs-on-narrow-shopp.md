@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Bridlington
+- Huntriss Row
+- North Yorkshire
+- Scarborough
+- St Nicholas Street
+- YO11 2HG
+people:
+- Koko Coffee
+- Russell Bowerman
+- Scarborough. Numminen
+organisations:
+- Koko Coffee
+- North Yorkshire Council
+- North Yorkshire Council, Licensing Services
+- Town Hall
 ---
 
 # Coastal café applies to place 24 chairs on narrow shopping street

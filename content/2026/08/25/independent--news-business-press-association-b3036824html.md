@@ -13,6 +13,14 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Julie Palmer
+- Ric Traynor
+organisations:
+- BTG
+- Begbies Traynor Group
 ---
 
 The number of UK businesses in “critical financial distress” has jumped by almost a tenth amid particular pressure on leisure firms and hotels, according to research.

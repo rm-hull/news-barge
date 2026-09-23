@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Video Gaming
 - Technology & Software
+locations: []
+people:
+- Asha Sharma
+- Imran Rahman-Jones
+organisations:
+- AI
+- BBC
+- Grand Theft Auto VI
+- Microsoft
+- Sony
+- Xbox
 ---
 
 ![Two women stand in a convention hall with a big green Xbox logo behind them. On the left, a person with a green shirt and short red hair. On the right, a woman with long brown hair and a dark jacket.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/c8a3/live/4b6a31f0-a15c-11f1-92f3-2381193e5eb4.jpg)

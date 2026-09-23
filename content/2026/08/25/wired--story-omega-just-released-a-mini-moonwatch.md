@@ -11,6 +11,11 @@ categories:
 - Technology & Software
 - Science
 - Self-Improvement
+locations:
+- Moonwatch
+people: []
+organisations:
+- Omega
 ---
 
 I have skinny wrists. So skinny, in fact, that during the craze from the late 1990s to early 2010s, when watch cases started to tip over 48 mm, it became hard to find pieces that suited those of us not blessed (or cursed) with Schwarzenegger-sized forearms. Thankfully, watch case sizes have calmed down considerably since then, and now it's easy to find smaller models, particularly around that 38- to 40-mm Goldilocks zone.

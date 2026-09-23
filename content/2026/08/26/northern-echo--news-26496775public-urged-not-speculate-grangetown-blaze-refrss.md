@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - Society & Culture
 - Arts & Culture
+locations:
+- Birchington Avenue
+- Cleveland
+- Grangetown
+- James Cook University Hospital
+- Middlesbrough
+- Middlesbrough**
+- Redcar
+people:
+- Adam Brook
+- Anna Turley
+organisations:
+- Cleveland Fire Brigade
+- Cleveland Fire and Rescue Service
+- Grangetown Ward
+- HART
+- Hazardous Area Response Team
+- Incident Command Unit
+- North East Ambulance Service
+- North News & Pictures Ltd
+- Redcar & Cleveland Borough Council
+- “**Cleveland Fire Brigade UK**
 ---
 
 A councillor has urged people not to speculate about the cause of a “devastating” house fire which left four people in hospital.

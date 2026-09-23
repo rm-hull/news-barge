@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Middlesbrough
+- Teesside
+people:
+- Cole Robert Worthy
+- Jacob Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- PC Blades’
+- PC Clough
+- Theo Rae
+- Tom Clough
+- Wayne Fox
+organisations:
+- A66
+- Civil Nuclear Constabulary
+- Cleveland Police
+- PC Blades
+- PC Clough
+- South Bank
+- Volvo
 ---
 
 A group of men who died alongside two police officers in a head-on collision while travelling down the wrong side of a dual carriageway had 37 convictions between them.

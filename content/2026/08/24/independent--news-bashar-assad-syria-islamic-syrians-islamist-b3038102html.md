@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Damascus
+- Syria
+people:
+- Ahmad Badreddine Hassoun
+- Bashar Assad
+- Fakhreddine al-Aryan
+- Maher
+organisations:
+- Fourth Criminal Court
 ---
 
 A former Islamic religious leader was sentenced to life in prison on Monday in the latest Syrian court trial of officials affiliated with the rule of ex-President Bashar Assad.

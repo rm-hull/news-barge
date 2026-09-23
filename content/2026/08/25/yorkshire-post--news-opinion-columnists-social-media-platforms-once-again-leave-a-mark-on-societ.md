@@ -16,6 +16,18 @@ categories:
 - Society & Culture
 - Technology & Software
 - News & Politics
+locations:
+- Ireland
+- Middlesbrough
+- South Bank
+people:
+- Matthew Blades
+- Richard McCarthy
+- Tom Clough
+organisations:
+- A66
+- Ofcom
+- PA Wire
 ---
 
 # Social media platforms once again leave a mark on society with failure to take action on dangerous driving videos

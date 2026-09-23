@@ -11,6 +11,41 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-23-a
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- Johnston
+- OpenAI
+- al
+people:
+- Akshay Nathan
+- Andrew Ambrosino
+- Christian Catalini
+- Claude Code
+- Claude Cowork
+- Ethan Mollick
+- Harvey
+- Joe Gershenson
+- Mario Zechner
+- Sam Altman
+- Thibault Sottiaux
+organisations:
+- ChatGPT Work
+- Claude Code
+- Cloudflare OS
+- Codex “
+- Composio
+- DM
+- Databricks
+- Earendil
+- LLM
+- Luna
+- OpenAI
+- OpenClaw
+- Perplexity AI
+- Sottiaux
+- TechCrunch
+- VCs
+- Wharton School of Business
 ---
 
 How much control are you willing to give an LLM over your digital life?

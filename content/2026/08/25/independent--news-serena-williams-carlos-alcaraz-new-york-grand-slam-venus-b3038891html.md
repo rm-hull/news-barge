@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Flushing Meadows
+people:
+- Aryna Sabalenka
+- Carlos Alcaraz
+- Erin Routliffe
+- Lloyd Glasspool
+- Max Mirnyi
+- Novak Djokovic
+- Serena Williams
+- Venus
+organisations: []
 ---
 
 Serena Williams is back at the U.S. Open for her first match at the Grand Slam tournament since 2022, playing mixed doubles alongside defending men's singles champion Carlos Alcaraz.

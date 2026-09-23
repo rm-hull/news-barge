@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Advocate Trinity Hospital
+- Chicago
+- Chicago’s South Stony Island Avenue
+- Marion County
+- Ogden
+- Oregon
+- U.S.
+- Utah
+people:
+- Doordash
+- E. coli
+- Roxie Ellis Douglas
+- Wendy
+organisations:
+- Advocate Trinity
+- Beef Quality Assurance
+- CDC
+- Centers for Disease Control and Prevention
+- Taco Bell
+- Taylor Farms
+- The Independent
+- Wendy's
+- Wendy’s
 ---
 
 A Chicago woman was hospitalized with a severe gastrointestinal infection after eating a Wendy’s double cheeseburger she claims was “contaminated with Campylobacter and other illness producing bacteria,” according to a federal lawsuit reviewed by *The Independent*.

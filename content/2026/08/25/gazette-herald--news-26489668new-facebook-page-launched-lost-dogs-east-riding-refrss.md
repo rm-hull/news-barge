@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - Pets & Animals
+locations: []
+people:
+- Lyn Healing
+organisations:
+- East Riding of Yorkshire Council
+- EastRidingDogWardenService
+- Facebook
 ---
 
 *(Image: East Riding of Yorkshire Council)*

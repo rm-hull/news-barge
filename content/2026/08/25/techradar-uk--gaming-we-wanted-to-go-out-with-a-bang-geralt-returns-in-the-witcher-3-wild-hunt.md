@@ -13,6 +13,29 @@ image: https://cdn.mos.cms.futurecdn.net/Z6WfFMZrxS7H2WSQ8ZCKEA-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Ciri
+- Gamescom
+- Letten
+people:
+- Geralt
+- Letten
+- Peter Jennings
+- Rivia
+- Tost
+- Witcher
+organisations:
+- CDPR Level
+- Demi Williams
+- Fool's Theory
+- GameSpot
+- GamesRadar
+- Gamescom
+- Google News
+- Miles Tost
+- NME
+- Projekt Red
+- TechRadar
 ---
 
 ![The Witcher 3: Wild Hunt - Songs of the Past](https://cdn.mos.cms.futurecdn.net/Z6WfFMZrxS7H2WSQ8ZCKEA.jpg) 

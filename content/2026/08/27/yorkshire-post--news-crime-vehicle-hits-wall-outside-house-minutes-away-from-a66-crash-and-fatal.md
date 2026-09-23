@@ -14,6 +14,40 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- A66
+- Acklam
+- Birchington Avenue
+- Grangetown
+- Middlesbrough
+- PA
+- South Bank
+- South Wales
+- Steele Crescent
+people:
+- Andy Burnham
+- Andy Preston
+- Cole Worthy
+- Emily Harrison
+- Jacob Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Natalie McDonald
+- PC Matthew Blades
+- Passat
+- Paul Appleton
+- Pc Blades
+- Pc Clough
+- Pc Tom Clough
+- RIP Natalie
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- Cleveland Police
+- Middlesbrough
+- Teesside Coroners’ Court
 ---
 
 # Vehicle hits wall outside house minutes away from A66 crash and fatal house fire

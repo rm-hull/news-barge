@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- Britain
+- Iran
+- North Africa
+- Spain
+- UK
+- Ukraine
+people:
+- Liliana Danila
+- Nick Marston
+organisations:
+- British Berry Growers
+- FDF
+- Food and Drink Federation
+- NFU
+- National Farmers Union
 ---
 
 Britain has seen a bumper berry crop after a record-breaking summer has caused concern for farmers with wildfires and water shortages.

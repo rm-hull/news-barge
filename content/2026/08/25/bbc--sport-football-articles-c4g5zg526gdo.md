@@ -12,6 +12,41 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Brighton
+- City Ground
+- Derby County
+- England
+- Ipswich Town
+- Strasbourg
+people:
+- Chris Wood
+- Danny Welbeck
+- Elliot Anderson
+- Emmanuel Emegha
+- Igor Jesus
+- Liam Delap
+- Liam Delap.
+- Ousmane Diomande
+- Steve Benda
+- Taiwo Awoniyi
+- Xaver Schlager
+organisations:
+- Bournemouth
+- Chelsea
+- Coventry City
+- Everton
+- Forest
+- Hull City
+- Ipswich
+- Leeds
+- Leicester
+- Manchester City
+- Manchester United
+- Nottingham Foresthave
+- Preston North End
+- Sporting
+- Stoke
 ---
 
 ![Liam Delap](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c077/live/8794ddf0-a0ae-11f1-a54e-272d756c341e.jpg)

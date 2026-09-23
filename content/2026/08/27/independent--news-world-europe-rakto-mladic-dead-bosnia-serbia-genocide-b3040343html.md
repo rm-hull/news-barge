@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Bosnia and Herzegovina
+- Former Yugoslavia
+- Hague
+- Netherlands
+- Sarajevo
+- Serbia
+- Srebrenica
+people:
+- Butcher
+- Darko Mladic
+- Kada Hotić
+- Radovan Karadzic
+- Ratko Mladic
+- Slobodan Milosevic
+organisations:
+- Associated Press
+- ICTY
+- International Criminal Tribunal
+- Mothers of Srebrenica
+- UN
 ---
 
 Ratko Mladic, the Bosnian Serb general known as the “Butcher of Bosnia” for his role in the Srebrenica massacre, has died aged 84.

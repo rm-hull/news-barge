@@ -14,6 +14,25 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Britain
+- Durham
+- East Riding
+- London
+- North Yorkshire
+- Rural England
+- “County
+people:
+- Andy Burnham
+- Coun Andrew Husband
+- Coun Simon Myers
+- Nick Atkin
+organisations:
+- CCN
+- County Councils Network
+- Housing and Planning
+- Ministry for Housing, Communities and Local Government
+- Yorkshire Housing
 ---
 
 # 'Deepening crisis': rural councils see huge increase in homeless families

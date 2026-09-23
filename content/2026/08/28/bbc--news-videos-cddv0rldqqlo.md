@@ -12,6 +12,11 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Nepal
+- Rasuwa
+people: []
+organisations: []
 ---
 
 # Nepal army rescues survivors from hydropower tunnel

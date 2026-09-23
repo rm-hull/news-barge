@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Balkan
+- Bosnia and Herzegovina
+- Croatia
+- Hague
+- Lukavica
+- Sarajevo
+- Serbia
+- Split
+- Srebrenica
+- Srebrenica-Potocari
+- Yugoslavia
+- Zagreb
+people:
+- Allan Little
+- Ratko Mladic
+- Ratko Mladić
+- Tihomir Tunukovic
+organisations:
+- ICTY
+- International Criminal Tribunal
+- Srebrenica-Potocari Memorial and Cemetery
+- prison.BBC
 ---
 
 ![Bosnian Serb General Ratko Mladic leaves a meeting at the airport in Sarajevo, Bosnia and Herzegovina April 13, 1993. He is wearing a green and gold military peaked cap.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/e8bc/live/3a985690-a233-11f1-80a2-67c89a95284e.jpg)

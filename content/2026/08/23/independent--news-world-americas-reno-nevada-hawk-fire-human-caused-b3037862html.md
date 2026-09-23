@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- California
+- Hawk
+- Humboldt–Toiyabe National Forest
+- Las Vegas
+- Nevada
+- Peavine Peak
+- Reno
+- Reno-Sparks Convention Center
+- U.S. Route 395
+- Washoe County
+people:
+- Darin Balaam
+- Joe Lombardo
+- Tyler Duvall
+organisations:
+- Hawk Fire
+- Nevada National Guard
+- Truckee Meadows Fire & Rescue
+- University of Nevada
 ---
 
 An uncontained, human-caused wildfire in northwest Reno, Nevada, has destroyed homes and prompted authorities to urge around 90,000 residents to evacuate on Sunday.

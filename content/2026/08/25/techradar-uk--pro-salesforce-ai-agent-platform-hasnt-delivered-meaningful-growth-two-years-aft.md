@@ -11,6 +11,20 @@ image: https://cdn.mos.cms.futurecdn.net/AGpcwbtfGPLkKaK6gatPLW-970-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Craig Hale
+- Marc Benioff
+organisations:
+- AI
+- Agentforce
+- Craig’s
+- Gartner
+- Google News
+- KeyBanc Capital Markets
+- Salesforce
+- TD Cowen
+- TechRadar Pro
 ---
 
 ![Salesforce Agentforce](https://cdn.mos.cms.futurecdn.net/AGpcwbtfGPLkKaK6gatPLW.jpg) 

@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Malton
+- North Yorkshire
+- Resolution House
+- Ryedale House
+- Scarborough Town Hall
+people:
+- Chris Clark
+- Cllr Stuart
+- William Stuart
+organisations:
+- '## Council'
+- A64
+- Labour
+- NYC A COUNCIL
+- North Yorkshire Council
+- Resolution House
+- Scarborough Town Council
 ---
 
 ## Council approves budget with potential for 'difficult choices'

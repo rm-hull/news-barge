@@ -11,6 +11,14 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Greystoke Road
+- Rawcliffe Lake
+- York
+people: []
+organisations:
+- Acomb
+- North Yorkshire Fire & Rescue Service
 ---
 
 Firefighters were called to an incident close to a York lake last night (Wednesday).

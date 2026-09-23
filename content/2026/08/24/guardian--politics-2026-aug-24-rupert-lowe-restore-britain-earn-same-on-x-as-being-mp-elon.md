@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Great Yarmouth
+- Portugal
+- UK
+people:
+- Ambrose Pym
+- Elon Musk
+- Nigel Farage
+- Rupert Lowe
+organisations:
+- Guardian
+- Home Office
+- Lowe
+- MPs’
+- Musk
+- Reform UK
+- Restore Britain
 ---
 
 Rupert Lowe, the leader of Restore Britain, is on course to earn as much from the social media platform X as he does from his salary as an MP, after surging income from posts that include demands for mass deportations.

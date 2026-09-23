@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Hollywood
+- London
+- Los Angeles
+people:
+- Carpenter
+- Sabrina Carptener
+- William Applegate
+organisations:
+- City Attorney's Office
 ---
 
 Charges have been dismissed against a man accused of stalking Sabrina Carptener by repeatedly showing up at her Los Angeles home after he was found mentally incompetent to stand trial, the City Attorney's Office confirmed Wednesday.

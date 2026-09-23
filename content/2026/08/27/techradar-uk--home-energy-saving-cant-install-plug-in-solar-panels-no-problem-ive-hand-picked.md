@@ -11,6 +11,20 @@ image: https://cdn.mos.cms.futurecdn.net/Qr3MFtoyweMUHXpkmRFf65-2560-80.jpg
 categories:
 - Technology & Software
 - Home, Garden & DIY
+locations:
+- UK
+people: []
+organisations:
+- Google News
+- Govee
+- IKEA
+- Nanoleaf
+- PC Format
+- PC Plus
+- SCA
+- Speciality Coffee Association
+- TechRadar
+- TechRadar's Homes
 ---
 
 ![Collection of solar-powered products including lights and security systems, in magazine-style layout with plinths](https://cdn.mos.cms.futurecdn.net/Qr3MFtoyweMUHXpkmRFf65.jpg) 

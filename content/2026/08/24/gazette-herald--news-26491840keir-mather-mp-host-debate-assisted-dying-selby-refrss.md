@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- England
+- Kippax
+- North Yorkshire
+- Selby Town Hall
+- Wales
+people:
+- Keir Mather
+- Kim Leadbeater
+- Luke Charters
+- Rachael Maskell
+organisations:
+- End of Life
+- House of Commons
+- House of Lords
+- Terminally Ill Adults
+- York Central
+- York Outer
 ---
 
 AN MP is opening up a debate on assisted dying, encouraging North Yorkshire residents to have their say ahead of a key parliamentary vote.

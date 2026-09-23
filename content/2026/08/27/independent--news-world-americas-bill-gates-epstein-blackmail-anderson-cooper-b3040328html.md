@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- AI
+- Florida
+people:
+- Anderson Cooper
+- Bill Clinton
+- Bill Gates
+- Donald Trump
+- Gates'
+- Jeffrey Epstein
+organisations:
+- AI
+- CNN
+- Epstein
+- House Oversight Committee
+- Microsoft
 ---
 
 Microsoft co-founder Bill Gates was forced to address allegations that Jeffrey Epstein tried to blackmail him - as one of the world’s richest men sat for his first TV interview since the bombshell accusation.

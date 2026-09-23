@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Alyssa.Upton
+- B1249
+- Ford Ranger
+- Fordon Lane
+- Foxholes
+- North Cotes Road
+- North Yorkshire
+- Scarborough
+- Staxton Hill
+- northyorkshire.police.uk
+people:
+- Alyssa Upton
+organisations:
+- Ford Focus
+- Kia Ceed
+- North Yorkshire Police
 ---
 
 *(Image: Police)*

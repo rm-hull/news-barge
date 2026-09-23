@@ -15,6 +15,23 @@ categories:
 - York
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Boroughbridge
+- County Hall
+- Kirby Hill
+- Leigh Day
+- Northallerton.
+- Vale of York
+people:
+- Gareth Owens
+- Rowan Smith
+organisations:
+- High Court
+- Kirby Hill RAMS
+- Kirby Hill Residents Against Motorway Services
+- Leigh Day
+- MSA
+- North Yorkshire Council
 ---
 
 # Campaign group begins legal action over Vale of York motorway services decision

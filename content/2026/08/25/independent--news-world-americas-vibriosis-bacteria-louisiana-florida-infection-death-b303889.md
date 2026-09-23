@@ -14,6 +14,24 @@ categories:
 - UK
 - Health & Fitness
 - Science
+locations:
+- Alabama
+- Bay County
+- Florida
+- Gulf Coast
+- Helene
+- Louisiana
+- Milton
+- Mississippi
+- New Port Richey
+- Texas
+- U.S.
+- United States
+people: []
+organisations:
+- Department of Health
+- Florida Department of Health
+- Louisiana Department of Health
 ---
 
 An eighth person has died in the United States this year after being exposed to a flesh-eating bacteria spread through contaminated seawater and by eating oysters.

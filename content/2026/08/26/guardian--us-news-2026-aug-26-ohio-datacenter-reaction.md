@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- America
+- Appalachian
+- California
+- Central Park
+- Japan
+- New York
+- New York City
+- Ohio
+- Pike
+- Piketon
+- Redwood City
+- US
+- Washington
+people:
+- Billy Spencer
+- Carol Kauffman
+- Chris Wright
+- Dawn Winters
+- Howard Lutnick
+- Trump
+organisations:
+- Guardian
+- Nvidia AI
+- Ohio Environmental Council
+- Ohio Environmental Protection Agency
+- OpenAI
+- SB Energy
+- SoftBank Group Corp.
+- Trump
+- US Energy Information Administration
 ---
 
 On a winding road tucked away behind forests in the Appalachian foothills of southern Ohio is where OpenAI, Nvidia and Japanese investors are set to spend $500bn on one of the largest artificial intelligence datacenters on the planet.

@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Feversham Crescent
+- York
+people: []
+organisations:
+- Churchills Estate Agents
+- EPC
+- York Hospital
 ---
 
 ## Take a look inside the 'elegant' £675,000 five-bedroom York home

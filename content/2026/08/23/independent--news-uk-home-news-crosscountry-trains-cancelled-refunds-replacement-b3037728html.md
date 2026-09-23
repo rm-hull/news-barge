@@ -11,6 +11,30 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Alnmouth
+- Basingstoke
+- Birmingham Moor Street
+- Cambridge
+- Cardiff
+- Cheltenham
+- East Coast Main Line
+- Edinburgh
+- Glasgow
+- Hampshire
+- Leicester
+- Manchester
+- Newcastle
+- Oxford
+- Peterborough
+- Stansted Airport
+- UK
+people: []
+organisations:
+- Chiltern Railways
+- CrossCountry
+- London North Eastern Railway
+- National Rail Enquiries
 ---
 
 CrossCountry has cancelled most of its Sunday services throughout the UK following a power cut in Birmingham.

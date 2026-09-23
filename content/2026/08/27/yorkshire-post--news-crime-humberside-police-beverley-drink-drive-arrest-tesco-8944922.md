@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Beverley
+- Marton Lane
+- Morton Lane
+- Tesco
+- Yorkshire
+people: []
+organisations:
+- Humberside Police
+- Tesco
 ---
 
 # Police make arrest after driver crashes, runs away and 'throws cans into bush'

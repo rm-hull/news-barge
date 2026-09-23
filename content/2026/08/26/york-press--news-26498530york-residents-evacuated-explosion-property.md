@@ -13,6 +13,30 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Crossfield Crescent
+- Fordlands Road
+- Fulford
+- Tadcaster
+- York
+people:
+- Kaye Watling
+- Lewis Abley
+- Newsquest Lewis Abley
+- Skye
+- Tracey Abley
+- Zeus
+organisations:
+- :** North Yorkshire Fire and Rescue Service
+- Army
+- Fulford School
+- Newsquest A
+- Newsquest An
+- Newsquest Kaye Watling
+- Newsquest Lewis
+- North Yorkshire Fire & Rescue Service
+- The Press
+- Yorkshire Ambulance Service
 ---
 
 ## 'His clothes had been burnt off' - what we know about 'explosion' in York garden

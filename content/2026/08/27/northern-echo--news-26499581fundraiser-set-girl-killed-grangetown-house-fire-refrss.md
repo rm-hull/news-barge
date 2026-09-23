@@ -15,6 +15,28 @@ categories:
 - News & Politics
 - Society & Culture
 - Arts & Culture
+locations:
+- Birchington Avenue
+- Grangetown
+- Middlesbrough
+- Newcastle
+- Redcar
+- Royal Victoria Infirmary
+- STUART BOULTON
+people:
+- Emily Harrison
+- Jeremy Armstrong
+- Lisa Kirton
+- Natalie McDonald
+- Natasha Taylor
+- Valentina Foster
+organisations:
+- Cleveland Fire Brigade
+- Cleveland Local Policing Commander
+- Cleveland Police
+- Incident Command Unit
+- Mirror
+- North News & Pictures Ltd
 ---
 
 A fundraiser has been launched to support the family of a seven-year-old girl who died in a house fire, that also killed her auntie.

@@ -12,6 +12,37 @@ image: https://static.independent.co.uk/2026/08/05/07/2180449693..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- California
+- Canada
+- Great Lakes
+- Great Lakes State
+- Israel
+- Lake America
+- Lake Florida
+- Lake Ontario
+- Maine
+- Michigan
+- New York
+- Texas
+- United States
+people:
+- Abdul El-Sayed
+- Donald Trump
+- Gary Peters
+- Hasan Piker
+- Jocelyn Benson
+- Ken Paxton
+- Mike Rogers
+- Rogers’
+- Susan Collins
+organisations:
+- All
+- House
+- National Taxpayers’ Union Foundation
+- Senate
+- The Independent
+- Trump
 ---
 
 On Thursday, President Donald Trump signed an executive order renaming Lake Ontario “Lake America.” The move was part of Trump’s larger trade war with Canada, wherein he’s slapped a 50-percent tariff on Canadian auto parts, vehicles and steel.

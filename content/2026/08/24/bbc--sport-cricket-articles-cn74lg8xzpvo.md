@@ -14,6 +14,33 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Derby
+- England
+- Headingley
+- London
+- Lord's
+- New Zealand
+- Noosa
+- Pakistan
+- Wellington
+people:
+- Ben Duckett
+- Ben Stokes
+- Brydon Carse
+- Gus Atkinson
+- Harry Brook
+- Joe Root
+- Matthew Potts
+- Sonny Baker
+organisations:
+- BBC Sport
+- Cricket Regulator
+- Derbyshire
+- Durham
+- ECB
+- England and Wales Cricket Board
+- Saracens
 ---
 
 ![England bowler Brydon Carse](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/685e/live/714f2490-9f9d-11f1-a83c-33ebef033ca4.jpg)

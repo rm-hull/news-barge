@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - News & Politics
 - Society & Culture
+locations:
+- North Yorkshire
+- North Yorkshire.
+- RAF Linton-On-Ouse
+- Scarborough
+- York
+people:
+- Rich Maw
+organisations:
+- Home Office
+- Linton-on-Ouse
+- Local Democracy Reporting Service
+- North Yorkshire Council
+- Scarborough Town Council
 ---
 
 ![RAF Linton-On-Ouse in North Yorkshire. A metal gate with barbed‑wire fencing stands partly open, with a person in a high‑visibility vest inside the compound and a brick building surrounded by trees in the background.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/c480/live/03313510-9fcb-11f1-8dfa-d5875b87c784.jpg)

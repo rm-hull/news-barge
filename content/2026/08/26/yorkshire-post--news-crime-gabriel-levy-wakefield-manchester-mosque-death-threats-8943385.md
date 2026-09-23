@@ -13,6 +13,26 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Al-Sunnah Mosque
+- Cheetham Hill
+- Crumpsall
+- Heaton Park Hebrew Congregation Synagogue
+- Iqra Mosque
+- Leeds Crown Court
+- Manchester
+- Wakefield
+- Yom Kippur
+people:
+- '![Levy'
+- Aamir Sajad
+- Adrian Daulby
+- Gabriel Levy
+- Jihad Al-Shamie
+- Melvin Cravitz
+organisations:
+- CPS
+- Crown Prosecution Service
 ---
 
 # Man jailed for making mosque death threats after Manchester synagogue attack

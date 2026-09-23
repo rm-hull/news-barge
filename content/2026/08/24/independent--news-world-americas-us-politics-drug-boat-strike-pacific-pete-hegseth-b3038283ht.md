@@ -13,6 +13,28 @@ categories:
 - UK
 - History
 - Business & Entrepreneurship
+locations:
+- Caribbean
+- Colombia
+- Eastern Pacific
+- Ecuador
+- Guatemala
+- Honduras
+- Latin America
+- Panama
+- U.S.
+- Washington
+- Western Hemisphere
+people:
+- Francis Donovan
+- Michael Shifter
+- Pete Hegseth
+organisations:
+- Inter-American Dialogue think tank
+- Joint Task Force Western Hemisphere
+- Pentagon
+- Trump
+- U.S. Southern Command
 ---
 
 American forces have targeted another vessel in the eastern Pacific in an attack that left two accused drug smugglers dead, according to the Pentagon.

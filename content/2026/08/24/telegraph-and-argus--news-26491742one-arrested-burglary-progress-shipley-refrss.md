@@ -14,6 +14,14 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Fountain Way
+- Shipley
+- West Yorkshire
+people: []
+organisations:
+- Newsquest
 ---
 
 *(Image: Newsquest)*

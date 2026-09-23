@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Easingwold
+- Filey
+- Harrogate
+- Helmsley
+- Knaresborough
+- North Yorkshire
+- Richmond
+- York
+people:
+- David Skaith
+organisations:
+- City of York Council
+- North Yorkshire Council
+- Town Investment Plans
 ---
 
 Easingwold and Helmsley are among 32 towns and key centres in North Yorkshire set to benefit from new Town Investment Plans.

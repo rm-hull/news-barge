@@ -13,6 +13,18 @@ image: https://images.euronews.com/articles/stories/09/88/54/25/1200x675_cmsv2_2
 categories:
 - Europe
 - News & Politics
+locations:
+- Europe
+- Stockholm
+- Sweden
+people:
+- Beatrice Rindevall
+- Greta Thunberg
+- Kliff Lindberg
+- Ulf Kristersson
+organisations:
+- SVT
+- Swedish Society for Nature Conservation
 ---
 
 ## The protest comes as experts in Sweden have warned that the government's climate policy jeopardises the country's emissions-cutting goals to reduce CO₂ emissions from transport by 70 percent by 2030 and to achieve net-zero emissions by 2045.

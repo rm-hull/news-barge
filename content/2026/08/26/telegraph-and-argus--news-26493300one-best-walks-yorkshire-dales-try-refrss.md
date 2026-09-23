@@ -13,6 +13,24 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Barden Bridge
+- Bolton Abbey
+- Devonshire Arms Brasserie
+- Posforth Gill Falls
+- Simon’s Seat
+- Simon’s Seat and Valley of Desolation
+- UK
+- Valley of Desolation
+- Yorkshire Dales
+people: []
+organisations:
+- Abbey Tea Rooms
+- AllTrails
+- Bolton Abbey
+- Church
+- Devonshire Arms Hotel
+- Yorkshire Dales
 ---
 
 *(Image: Getty)*

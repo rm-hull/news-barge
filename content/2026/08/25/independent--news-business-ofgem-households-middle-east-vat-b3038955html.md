@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- England
+- Europe
+- Middle East
+- Scotland
+- UK
+- Wales
+people:
+- Andy Burnham
+- Dhara Vyas
+organisations:
+- Cornwall Insight
+- Energy UK
+- Government
+- Ofgem
 ---
 
 Households are bracing for a winter squeeze from energy bills as regulator Ofgem is expected to raise the price cap to a three-year high.

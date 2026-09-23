@@ -11,6 +11,16 @@ image: https://cdn.mos.cms.futurecdn.net/NgsJEkzj8esBrPXZtEj24M-320-80.png
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Tom
+organisations:
+- ARGB
+- EATX
+- Get Tom's Hardware
+- Mini-ITX
+- Noctua
+- XL
 ---
 
 Selecting your next PC case is a daunting task, but Tom's Hardware has you covered with industry-leading testing, reviews, and analysis. Here you can find all the details about the wide variety of cases available on the market, including news and reviews covering the entire gamut of offerings. You can also head to our best PC cases page for in-depth buying recommendations.

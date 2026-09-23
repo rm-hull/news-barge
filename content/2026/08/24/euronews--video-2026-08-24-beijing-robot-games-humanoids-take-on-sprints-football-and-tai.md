@@ -12,6 +12,11 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- National Speed Skating Oval
+people:
+- Tiangong Omni-04
+organisations: []
 ---
 
 More than 2,000 robots are taking part in the Beijing Robot Games, where humanoid machines race, play football and perform tai chi.

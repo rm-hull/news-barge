@@ -12,6 +12,12 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Nepal
+- Nepal-Tibet
+- Tibet
+people: []
+organisations: []
 ---
 
 # People pulled from mud in Nepal after deadly flash floods

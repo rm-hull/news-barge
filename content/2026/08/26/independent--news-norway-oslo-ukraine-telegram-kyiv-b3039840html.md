@@ -14,6 +14,26 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Denmark
+- Europe
+- Kyiv
+- Moscow
+- Norway
+- Russia
+- US
+- Ukraine
+people:
+- Are Kvistad
+- Jonas Gahr Støre
+organisations:
+- Digdir
+- NoName057
+- Norwegian Digitalization Agency
+- Server Killers
+- Telegram
+- The Associated Press
+- Z-Pentest
 ---
 
 A pro-Russian hacker group on Wednesday claimed responsibility for a cyberattack that has affected multiple Norwegian government digital services over the past three days.

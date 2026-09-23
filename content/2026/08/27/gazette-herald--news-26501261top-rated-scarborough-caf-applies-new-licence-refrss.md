@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Bar Street
+- North Yorkshire
+- Scarborough
+- Scarborough'S Town Centre
+- Scarbroough
+- St Nicholas Street
+- Walkers Of Bar Street
+- YO11 2HG
+people:
+- Andrew Walker
+- Anttoni James Numminen
+- Courtesy Numminen
+organisations:
+- LDRS
+- North Yorkshire Council
+- North Yorkshire Council, Licensing Services
+- Town Hall
+- TripAdvisor
 ---
 
 ONE of the top-rated cafés in a popular North Yorkshire resort has applied for a new licence from the council.

@@ -12,6 +12,29 @@ categories:
 - Europe
 - News & Politics
 - Health & Fitness
+locations:
+- Beni
+- Bundibugyo
+- Bunia General Hospital
+- Christian Maternity Hospital
+- DR Congo
+- DRC
+- Democratic Republic of the Congo
+- Ebola
+- Freetown
+- Haut-Uele
+- Iga-Barrière
+- Ituri
+- North Kivu
+- Uganda
+people: []
+organisations:
+- DRC
+- International Red Cross
+- Red Crescent Movement
+- Red Cross
+- Ugandan Red Cross
+- WHO
 ---
 
 ## Driven by the rare Bundibugyo strain of the virus, for which there are no vaccines or treatments, the outbreak is the biggest in the DRC's history.

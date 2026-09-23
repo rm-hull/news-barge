@@ -10,6 +10,21 @@ image: https://cdn.mos.cms.futurecdn.net/nKQTr6znQKVirervbiEDkL-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bosnia and Herzegovina
+- California
+- Sarajevo
+people:
+- Sead
+organisations:
+- '**Firm'
+- Al Jazeera Balkans
+- Apollo
+- Cyberscout
+- Google News
+- Represent Communications
+- SSN
+- TechRadar Pro
 ---
 
 ![An office worker in front of a computer holding his hand in one hand and looking unhappy](https://cdn.mos.cms.futurecdn.net/nKQTr6znQKVirervbiEDkL.jpg) 

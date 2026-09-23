@@ -12,6 +12,22 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Balos
+- Chania
+- Coordination Centre
+- Crete
+- Falasarna
+people: []
+organisations:
+- ANA-MPA
+- Athens-Macedonian News Agency
+- Coordination Centre of the Hellenic Fire Service
+- EKAB
+- EMODE
+- Fire Service
+- Kissamos Fire Station
+- National Emergency Centre
 ---
 
 ## The French couple went on what proved to be a fatal hike in harsh weather conditions despite notices warning of the danger.

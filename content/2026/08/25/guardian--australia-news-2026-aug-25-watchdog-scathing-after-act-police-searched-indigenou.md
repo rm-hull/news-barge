@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Australia
+- Canberra
+- Woden
+people:
+- Iain Anderson
+- Jay
+- Krissy Barrett
+- Sam Tierney
+- Scott Lee
+organisations:
+- ACT Police
+- ACT Policing
+- AFP
+- First Nations
+- Torres Strait Islander
 ---
 
 The commonwealth and ACT ombudsman has criticised the Australian federal police for failing to clearly define “racial profiling” after police in Canberra pulled guns on an Indigenous teenager they mistook for a suspect in an aggravated burglary.

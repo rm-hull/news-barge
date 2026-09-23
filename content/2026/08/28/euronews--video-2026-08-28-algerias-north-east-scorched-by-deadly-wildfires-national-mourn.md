@@ -14,6 +14,24 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Acherar
+- Agbala
+- Algeria
+- Anchid
+- Bordj Tahar
+- Béjaïa
+- Jijel
+- Taghrast
+- Tizi Ouzou
+people:
+- Abdelmadjid Tebboune
+- Saïd Sayoud
+- Sifi Ghrieb
+organisations:
+- Civil Protection Service
+- El Ouadia
+- Instagram
 ---
 
 Algeria is assessing the aftermath of deadly wildfires in the north-east that have killed at least 12 people and injured dozens. Footage filmed by an Instagram user in Agbala village, Jijel province, on 26 August shows flames surrounding a home as firefighters battle to contain the blaze. Separate footage released by Algeria’s Civil Protection Service on 27 August shows firefighters tackling wildfires across Jijel as residents watch flames sweep across a mountainside.

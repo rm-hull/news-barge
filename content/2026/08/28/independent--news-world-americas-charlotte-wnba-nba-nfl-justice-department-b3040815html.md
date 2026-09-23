@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- New Jersey
+- New York City
+- North Carolina
+- Ohio
+- Rubinger
+people:
+- Dwyane Wade
+- Erick Mullen
+- Joan Rubinger
+- Kelly Davis
+- Thomas Davis
+organisations:
+- California Board of Registered Nursing
+- Carolina Panthers
+- DEA
+- Instagram
+- Justice Department
+- McDonald’s
+- NBA
+- NFL Players Association
+- Rubinger
+- Syracuse University
+- The Associated Press
+- U.S. Drug Enforcement Administration
+- WNBA
 ---
 
 Joan Rubinger built a prominent sports medicine practice treating some of the biggest names in professional sports. The nurse practitioner's website touts a client list that includes 169 NFL Pro Bowl selections, 29 NBA and WNBA champions and 15 Olympic medalists.

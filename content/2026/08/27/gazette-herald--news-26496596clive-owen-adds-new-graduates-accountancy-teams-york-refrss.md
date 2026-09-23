@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- North of England
+- York
+people:
+- Clive Owen
+- Jonathan Doyle
+organisations:
+- Platinum Member
 ---
 
 *(Image: Clive Owen)*

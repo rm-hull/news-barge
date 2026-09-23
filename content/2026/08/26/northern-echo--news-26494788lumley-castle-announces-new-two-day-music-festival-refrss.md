@@ -14,6 +14,35 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Chester-le-Street
+- County Durham
+- Lumley
+- North East
+- Willington
+people:
+- Alison Limerick
+- Ben Santiago
+- Danny Howard
+- Danny Rampling
+- Daz Flatman
+- Gabrielle
+- Jon Pleased Wimmin
+- Kate Bond
+- Lovely Laura
+- Marti Pellow
+- Richard Tulip
+- Sam Divine
+- Todd Terry
+organisations:
+- Eat Everything
+- Lawn Stage
+- Lumley Castle Hotel
+- Opulence
+- PBR Street Gang
+- Smoove and Turrell
+- Soulutions
+- The Hutchinson Bros
 ---
 
 *(Image: Supplied)*

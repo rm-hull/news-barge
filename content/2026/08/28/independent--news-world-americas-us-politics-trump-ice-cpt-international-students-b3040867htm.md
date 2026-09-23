@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Berkeley
+- Gaza
+- Houston
+- Israel
+- Los Angeles
+- U.S.
+- United States
+people:
+- Donald Trump
+organisations:
+- Air Force One
+- CPT
+- Curricular Practical Training
+- DOJ
+- Department of Homeland Security
+- Ellington Field Joint Reserve Base
+- George Washington University School of Medicine and Health Services
+- ICE
+- SEVP
+- Student and Exchange Visitor Program
+- U.S. Immigration and Customs Enforcement
+- U.S. Justice Department
+- UC Berkeley
+- UCLA
+- University of California
 ---
 
 Universities across the United States face heightened pressure as President Donald Trump's administration moves to restrict certain internship work approvals for foreign scholars, cautioning higher education institutions that non-compliance could cost them their eligibility to enroll international students.

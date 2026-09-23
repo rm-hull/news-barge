@@ -13,6 +13,38 @@ categories:
 - Harrogate
 - York
 - Film & TV
+locations:
+- Northern Ireland
+- UK
+- US
+people:
+- Alexandra Roach
+- Anne Mensah
+- Beat Luke Littler
+- Bella Mackie
+- Denise Welch
+- Gary Lineker
+- Harlan Coben
+- Ian West
+- Jack Thorne
+- Kate Winslet
+- Lisa McGee
+- Loo Brealey
+- Maxine Peake
+- Mounia Akl
+- Richard Osman
+- Robert Popper
+- Robert Webb
+- Timothy Spall
+- William Norcross
+organisations:
+- Channel 4
+- Derry Girls
+- LAPD
+- Netflix
+- PA Wire
+- The Office
+- The Rookie
 ---
 
 *(Image: Ian West/PA Wire)*

@@ -13,6 +13,14 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Birmingham New Street
+- Coleshill Parkway
+- Water Orton
+people:
+- Mark Anderson
+organisations:
+- CrossCountry
 ---
 
 *(Image: CrossCountry)*

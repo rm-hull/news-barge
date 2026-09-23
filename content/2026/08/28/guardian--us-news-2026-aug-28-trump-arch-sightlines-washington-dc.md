@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Arlington House
+- Arlington Memorial Bridge
+- Francis Scott Key Bridge
+- Jefferson Memorial
+- Lincoln Memorial-Arlington House
+- Memorial Bridge
+- Memorial Circle
+- National Mall
+- North and South
+- Potomac River
+- US Capitol
+- Washington Monument
+people:
+- Donald Trump
+- Nicolas Sansone
+- Robert E Lee
+organisations:
+- Arch
+- Confederate
+- Congress
+- Georgetown Historic District
+- Lincoln Memorial
+- National Cathedral
+- National Park Service
+- Old Naval Observatory
+- Park Service
+- Public Citizen Litigation Group
+- Trump
 ---
 
 A new National Park Service report backs Donald Trump’s proposed arch, despite what it says are adverse effects to the sightlines of a host of landmarks in Washington, including the Washington Monument and the Lincoln and Jefferson memorials.

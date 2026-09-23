@@ -11,6 +11,91 @@ image: https://cdn.mos.cms.futurecdn.net/VE3prsMtf9pFgFZLoEWNVo-2427-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- America
+- Atlanta
+- Australia
+- Canada
+- East Lake
+- Memphis
+- Missouri
+- St Louis
+- TPC Southwind
+- UK
+- US
+- United States
+people:
+- Adam Scott
+- Akshay Bhatia
+- Alex Fitzpatrick
+- Alex Smalley
+- Cameron Young
+- Chris Gotterup
+- Collin Morikawa
+- Dustin Johnson
+- Gary Woodland
+- Hideki Matsuyama
+- J.J
+- JJ Spaun
+- Jacob Bridgeman
+- James Roberts
+- Justin Rose
+- Justin Thomas
+- Kim Si-woo
+- Kristoffer Reitan
+- Ludvig Aberg
+- Ludwig Åberg
+- Matt Fitzpatrick
+- Min Woo Lee
+- Patrick Cantlay
+- Robert MacIntyre
+- Rory McIlroy
+- Russell Henley
+- Ryan Fox
+- Ryan Gerard
+- Sam Burns
+- Scottie Scheffler
+- Si Woo Kim
+- Tom Kim
+- Tommy Fleetwood
+- Viktor Hovland
+- Wyndham Clark
+- Xander Schauffele
+organisations:
+- AU
+- Bellerive Country Club
+- CBS &Paramount
+- CTV
+- DirecTV Stream
+- Disney
+- ESPN Select
+- ESPN Select,Golf Channel
+- ESPN Unlimited**
+- East Lake Golf Club
+- FourFourTwo
+- Fox Sports
+- Foxtel
+- Future Publishing
+- Golf Channel
+- Hulu
+- Instagram
+- Kayo Sports
+- Kayo Sports**
+- Oxford Mail
+- Oxford United
+- PGATOUR
+- Paramount
+- Playoffs
+- Si Woo Kim
+- Sky Sports
+- Sky Sports Golf
+- Spaun
+- TSN
+- TSN1
+- TechRadar
+- Walmart
+- Wyndham Clark.
+- YouTube TV
 ---
 
 ![Wyndham Clark of the United States celebrates after winning the BMW Championship 2026 at Bellerive Country Club on August 23, 2026 in St Louis, Missouri](https://cdn.mos.cms.futurecdn.net/VE3prsMtf9pFgFZLoEWNVo.jpg) 

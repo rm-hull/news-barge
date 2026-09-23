@@ -12,6 +12,20 @@ description: Metro 2039 executive producer Jon Bloch has explained how 4A Games 
 image: https://cdn.mos.cms.futurecdn.net/Us5mFv9fi36zVpa3p63Tdb-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Metro
+people:
+- Andriy Shevchenko
+- John
+- Jon Bloch
+organisations:
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- PS5
+- TechRadar Gaming
 ---
 
 ![A classic Metro video game first-person art shot showing a lighter, watch, weapon and monster in the distance at the top of some esclators](https://cdn.mos.cms.futurecdn.net/Us5mFv9fi36zVpa3p63Tdb.jpg) 

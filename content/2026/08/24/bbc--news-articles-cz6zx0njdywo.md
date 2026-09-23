@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Harrods
+- London
+people:
+- Al Fayed
+- Jen Mills
+- Lindsay Mason
+- Mohamed Al Fayed.
+- Mohamed Al-Fayed
+organisations:
+- BBC
+- CPS
+- Crown Prosecution Service
+- Harrods Survivors
+- Justice for Fayed
+- Met Police
+- Metropolitan Police
+- No One Above
 ---
 
 ![The late former Harrods owner Mohamed Al-Fayed standing in front of the Harrods logo](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/f5ac/live/e3f382f0-9fe5-11f1-8ed1-41aaf1fca4f2.jpg)

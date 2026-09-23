@@ -13,6 +13,14 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Bramham Park
+- Leeds Festival
+- West Yorkshire
+people:
+- Dan Wood
+organisations:
+- West Yorkshire Police
 ---
 
 # Leeds Festival 2026: Police announce temporary traffic restrictions around Bramham Park

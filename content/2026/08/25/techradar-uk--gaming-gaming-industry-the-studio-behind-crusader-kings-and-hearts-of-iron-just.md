@@ -12,6 +12,25 @@ image: https://cdn.mos.cms.futurecdn.net/TSnBS9XDRinhCadwFDtWYC-2560-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- North America
+- UK
+people:
+- Dan Lind
+- Dashiell Wood
+organisations:
+- Crusader Kings
+- Dash
+- Edge
+- Google News
+- Official PlayStation Magazine UK
+- PC Gamer
+- PLAY
+- Paradox Development Studio
+- Paradox Interactive
+- SFX
+- Steam
+- TechRadar
 ---
 
 ![Key art for Afterworld.](https://cdn.mos.cms.futurecdn.net/TSnBS9XDRinhCadwFDtWYC.jpg) 

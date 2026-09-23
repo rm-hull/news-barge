@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- '## York'
+- Yorkshire
+people:
+- Anthony Bartyla
+- Minster
+organisations:
+- Florence School of Art
+- Harrogate Flower Show
+- North Yorkshire Police
+- Raven and Hare Sculpture
+- The Press
+- York Minster
 ---
 
 ## York stonemason combines wildlife with Minster in new artwork

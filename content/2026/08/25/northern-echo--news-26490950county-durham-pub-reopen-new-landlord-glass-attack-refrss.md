@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Aykley Heads
+- Cockfield
+- County Durham
+- County Hall
+- Salvus House
+- The King’s Head
+- Willington
+people:
+- Gavin Rutter
+- Head
+- Jason French
+organisations:
+- CCTV
+- Durham County Council
+- Durham Police
+- FB Taverns
+- King's Head
+- THE NORTHERN ECHO
+- The Northern Echo
 ---
 
 A County Durham pub is set to reopen with a new landlord and new safety conditions after a man was seriously injured in a ‘violent’ glass attack there.

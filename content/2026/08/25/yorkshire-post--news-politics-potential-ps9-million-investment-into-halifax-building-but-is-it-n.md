@@ -15,6 +15,30 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Halifax
+- Park ward
+- Queens Road
+- Queens Road Neighbourhood Centre
+- Raven Street Centre
+people:
+- Ahmed
+- Coun Mike Payne
+- Coun Payne
+- Responding
+organisations:
+- Assets and Resources
+- Cabinet
+- Calderdale Council
+- HOT
+- Halifax Opportunities Trust
+- National Lottery
+- National Lottery Heritage Fund
+- QRNC
+- Raven Street Community Hub
+- Reform UK
+- Sowerby Bridge
+- UC3 Community Hub
 ---
 
 # Potential £9 million investment into Halifax building – but is it necessary?

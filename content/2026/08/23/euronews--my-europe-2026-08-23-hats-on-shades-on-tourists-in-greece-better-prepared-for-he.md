@@ -12,6 +12,16 @@ categories:
 - Europe
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Acropolis
+- Athens
+- Europe
+- Greece
+- Peru
+people:
+- Eirini Bourovili
+organisations:
+- Red Cross
 ---
 
 ## Awareness about wearing a hat has grown as Europe struggles with successive heatwaves and forest fires.

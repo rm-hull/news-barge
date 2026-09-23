@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Hoults Yard
+- Hoult’s Yard
+- Newcastle
+- North East
+- Northallerton
+- Ouseburn
+- Stockton
+- UK
+people:
+- CULLEN
+- Laura Goldstone
+- Richard Cullen
+organisations:
+- Cullen Works
+- Hoult’s Yard
+- Kiln
+- Maling Pottery
 ---
 
 *(Image: CULLEN WORKS)*

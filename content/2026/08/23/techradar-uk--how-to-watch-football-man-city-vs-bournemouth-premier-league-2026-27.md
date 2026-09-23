@@ -11,6 +11,70 @@ image: https://cdn.mos.cms.futurecdn.net/q95SvLfofyML6gh4KXh8HX-2560-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- Bournemouth
+- Bournemouth.
+- Brazil
+- CA
+- Canada
+- Cardiff
+- England
+- Man City
+- Nottingham Forest
+- PT
+- Principality Stadium
+- Sun
+- UK
+- US
+- United Kingdom
+- Wales
+- canada
+- uk
+people:
+- Alvaro Rodriguez
+- Andoni Iraola
+- Antonio Silva
+- Elliot Anderson
+- Enzo Maresca
+- Erling Haaland
+- James Roberts
+- Juanlu Sanchez
+- Marco Rose
+- Pep Guardiola
+organisations:
+- AU
+- Arsenal
+- Benfica
+- Bournemouth onSky Sports
+- CazéTV
+- Cherries
+- DirecTV
+- EPL
+- Elche
+- Etihad Stadium
+- FourFourTwo
+- Fubo
+- Future Publishing
+- Hulu Live TV
+- Man City
+- Manchester City
+- Manchester City LIVE
+- NBC Universal
+- NordVPN
+- NordVPN**
+- Oxford Mail
+- Oxford United
+- Premier League
+- Sevilla
+- Sky Sports
+- Sky TV
+- Sling Blue
+- Sportin Australia.
+- Stan Sport
+- Tunnel Club
+- USA Network
+- YouTube TV
 ---
 
 ![Erling Haaland of Manchester City applauds the fans after the 2026 FA Community Shield match between Arsenal and Manchester City at Principality Stadium on August 16, 2026 in Cardiff, Wales](https://cdn.mos.cms.futurecdn.net/q95SvLfofyML6gh4KXh8HX.jpg) 

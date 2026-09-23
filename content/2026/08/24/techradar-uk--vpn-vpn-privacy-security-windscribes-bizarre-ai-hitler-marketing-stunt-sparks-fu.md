@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Comedy & Entertainment
 - Business & Entrepreneurship
+locations:
+- AI
+- Reddit
+people:
+- Adolf Hitler
+- Rene Millman
+- Windscribe
+organisations:
+- AI
+- Computer Weekly
+- Financial Times
+- Google News
+- IT Pro
+- TechRadar
+- The Guardian
+- Windscribe Premium
 ---
 
 ![Windscribe VPN turned on on android device](https://cdn.mos.cms.futurecdn.net/QFVHFX64tUdtw2WUBRW4pU.jpg) 

@@ -14,6 +14,24 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Automotive
+locations:
+- Canada
+- Indiana
+- Iran
+- Japan
+- Mexico
+- North America
+- U.S.
+- Washington
+people:
+- Noriya Kaihara
+organisations:
+- Acura
+- EVs
+- Honda
+- Hyundai Motor
+- Trump
+- USMCA
 ---
 
 Plans for an eighth assembly plant in North America could be shelved by Honda unless a crucial regional trade agreement is extended, according to a top executive at the Japanese vehicle manufacturer.

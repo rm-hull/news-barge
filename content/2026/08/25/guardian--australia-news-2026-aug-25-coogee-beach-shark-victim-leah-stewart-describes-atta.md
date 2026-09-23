@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Coogee
+- Sydney
+people:
+- Leah Stewart
+organisations:
+- GoFundMe
+- Nine Entertainment
 ---
 
 An Australian woman who lost an arm after a shark attack at a beach in Sydney’s eastern suburbs has recalled the moment she came face-to-face with the “monster”.

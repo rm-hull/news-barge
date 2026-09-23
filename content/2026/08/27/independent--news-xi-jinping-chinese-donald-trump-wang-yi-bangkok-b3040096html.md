@@ -15,6 +15,18 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- Beijing
+- China
+- U.S.
+- United States
+people:
+- David Perdue
+- Donald Trump
+- Wang Yi
+- Xi Jinping
+organisations:
+- CCTV
 ---
 
 China's foreign minister said his country and the United States should overcome obstacles between the nations ahead of an expected summit next month between U.S. President Donald Trump and Chinese President Xi Jinping.

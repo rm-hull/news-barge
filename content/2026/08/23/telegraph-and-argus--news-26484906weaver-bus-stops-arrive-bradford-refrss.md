@@ -14,6 +14,21 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford Road
+- Manchester Road
+- Silsden Road
+- Valley Drive
+- Valley Road
+- Victoria Road
+- Weaver
+- West Yorkshire
+- West Yorkshire Metro
+people: []
+organisations:
+- Weaver Network
+- West Yorkshire Combined Authority
+- West Yorkshire Metro
 ---
 
 A new transport network is beginning to take shape with the first visible changes now in place.

@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Food & Cooking
+locations:
+- Church Street
+- Louisiana
+- New Orleans
+- UK
+- York
+- Yorkshire
+people:
+- Tom Crowley
+organisations:
+- GLOBAL
+- Popeyes UK
 ---
 
 A GLOBAL fried chicken chain has confirmed that it will be opening its first branch in York city centre.

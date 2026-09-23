@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Greater Manchester
+- Iran
+- Kyiv
+- Lukanivska
+- Ukraine
+- Ukraine.
+people:
+- Andy Burnham
+- John Healey
+- Rachel Reeves
+- Rain Newton-Smith
+organisations:
+- BBC
+- Confederation of British Industry
+- Houses of Parliament.
+- ITV
+- Zoloti Vorota
 ---
 
 ![Andy Burnham reacts as he stands in a metro carriage among passengers during the journey between the metro stations Zoloti Vorota and Lukanivska on August 24, 2026 in Kyiv, Ukraine.](https://ichef.bbci.co.uk/ace/standard/936/cpsprodpb/3751/live/52c34ac0-a00f-11f1-a0ad-6fe9db05b013.jpg)

@@ -12,6 +12,20 @@ image: https://cdn.mos.cms.futurecdn.net/zkmG46q92t4fAchTjQ7pj5-2560-80.jpg
 categories:
 - Technology & Software
 - Food & Cooking
+locations:
+- Canada
+- UK
+- US
+people:
+- Harry Padoan
+- Pikachu
+organisations:
+- Charmander
+- Google News
+- Jigglypuff
+- Krispy Kreme
+- Pokémon
+- TechRadar
 ---
 
 ![Pokémon dozen box from the Pokémon x Krispy Kreme collection](https://cdn.mos.cms.futurecdn.net/zkmG46q92t4fAchTjQ7pj5.jpg) 

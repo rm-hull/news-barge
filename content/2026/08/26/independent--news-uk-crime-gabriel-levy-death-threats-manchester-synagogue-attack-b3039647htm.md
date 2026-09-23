@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Al-Sunnah Mosque
+- Cheetham Hill
+- Crumpsall
+- Heaton Park Hebrew Congregation Synagogue
+- Iqra Mosque
+- Leeds Crown Court
+- Manchester
+- Wakefield
+- West Yorkshire
+- Yom Kippur
+people:
+- Aamir Sajad
+- Adrian Daulby
+- Gabriel Levy
+- Jihad Al-Shamie
+- Melvin Cravitz
+organisations:
+- CPS
+- Crown Prosecution Service
 ---
 
 A 21-year-old man who targeted two mosques with death threats in the aftermath of a lethal attack on a Manchester synagogue has been sentenced to more than two years in prison, prosecutors have announced.

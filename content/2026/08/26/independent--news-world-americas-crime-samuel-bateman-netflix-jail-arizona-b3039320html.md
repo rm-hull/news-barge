@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Arizona
+- Coconino County
+- Colorado City
+- Flagstaff
+- Hildale
+- Nebraska
+- Texas
+- Utah
+people:
+- Ammon Barker
+- Joshua Steinlage
+- Samuel Bateman
+- Warren Jeffs
+organisations:
+- Church of Jesus Christ of Latter-day Saints
+- Fundamentalist Church of Jesus Christ of Latter-day Saints
+- Netflix
 ---
 
 A leader of a polygamous sect has been handed an additional 24-year prison sentence on Tuesday after being convicted of state child abuse charges in Arizona.

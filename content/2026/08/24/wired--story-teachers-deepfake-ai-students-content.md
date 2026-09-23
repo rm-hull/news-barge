@@ -14,6 +14,27 @@ categories:
 - Science
 - Education & Learning
 - Society & Culture
+locations:
+- California
+- DeSantiago
+- Los Banos
+- Snapchat
+- TikTok
+- UK
+people:
+- Alice
+- Donna Ballman
+- Luis DeSantiago
+- Luke Red
+- Monique Bellamy
+- TikTok
+organisations:
+- Like DeSantiago
+- Red
+- Snap
+- Snapchat
+- TikTok
+- WIRED
 ---
 
 For Luis DeSantiago, a substitute teacher in Los Banos, California, it started with a few text messages. On March 12, as he was working his other part-time job at a coffee shop, his phone lit up. A fellow barista said there was an AI photo circulating on social media. Her cousin wanted to know if it was DeSantiago.

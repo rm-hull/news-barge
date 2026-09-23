@@ -13,6 +13,23 @@ categories:
 - Europe
 - News & Politics
 - Science
+locations:
+- Houston
+- US
+people:
+- Anil Menon
+- Claudie Haigneré**
+- Mike Fincke
+- Sophie Adenot
+organisations:
+- Canadarm2
+- ESA
+- European Space Agency
+- ISS
+- International Space Station
+- NASA
+- Quest
+- SGANT
 ---
 
 ## After her 18 August spacewalk as the first French woman in orbit, Sophie Adenot has again left the ISS with US astronaut Anil Menon to successfully replace a station antenna.

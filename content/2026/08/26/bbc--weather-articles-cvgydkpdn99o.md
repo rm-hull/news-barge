@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Cheshire
+- England
+- London
+- Met Office
+- Midlands
+- Northern Ireland
+- Reading
+- Scotland
+- UK
+- Wales
+- Westminster
+people: []
+organisations:
+- BBC Weather
+- Creamfields
+- Leeds Festivals
+- Manchester Pride
+- Met Office
+- Reading
+- Scotland
+- Wales
 ---
 
 ![Two people stand under a pink umbrella sheltering from the rain with the Westminster skyline in the background](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/e8aa/live/6a6817c0-a148-11f1-9311-09d4e1fc9016.jpg)

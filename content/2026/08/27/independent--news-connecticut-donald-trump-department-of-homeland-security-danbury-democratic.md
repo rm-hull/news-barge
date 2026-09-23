@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Berkeley
+- Brazil
+- Connecticut
+- Danbury
+- Florida
+- New Jersey
+- Texas
+- U.S.
+people:
+- Clementina Lunar
+- Donald Trump
+- Roberto Alves
+organisations:
+- Congress
+- DHS
+- Danbury Unites for Immigrants
+- Department of Homeland Security
+- Deportation Data Project
+- ICE
+- Immigration and Customs Enforcement
+- Justice Department
+- The Associated Press
+- U.C
+- U.S. Census Bureau
+- UCLA
 ---
 
 Federal immigration authorities have detained dozens of people in the city of Danbury, Connecticut, this week, despite intense opposition from elected officials and protesters.

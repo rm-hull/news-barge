@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - History
 - Business & Entrepreneurship
+locations:
+- Africa
+- Atlantic
+- Bermuda
+- Cabo Verde Islands
+- Cristobal
+- Louisiana
+- Texas
+- US Gulf Coast
+people:
+- Bertha
+- Dolly Parton
+organisations:
+- NHC
+- National Hurricane Centre
+- National Oceanic and Atmospheric Administration
+- WMO
+- World Meteorological Organisation
 ---
 
 ## Storm systems are named by procedures set by the World Meteorological Organisation and the lists of names are reused every six years.

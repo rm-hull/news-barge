@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Britain
+- Miami
+- Romania
+- U.K.
+- U.S.
+- United States
+- Voluntari
+- White House
+people:
+- Andrew Tate
+- Donald Trump
+- Lauren Louis
+- Tates
+- Tristan Tate
+organisations:
+- Aston Martin
+- U.S. State Department
 ---
 
 A federal judge will decide Thursday whether social media influencers Andrew and Tristan Tate can walk out of a Miami detention center while they fight extradition to Britain on rape and sex trafficking charges.

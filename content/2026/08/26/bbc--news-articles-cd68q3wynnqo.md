@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- California
+- District of Columbia
+- New Mexico
+- Oakland
+- US
+people:
+- Brian Schwalb
+- CJ Mahoney
+- George Volichenko
+- Instagram Adam Mosseri
+- Mark Zuckerberg
+- Rob Bonta
+- Yvonne Gonzalez Rogers
+organisations:
+- District of Columbia
+- Facebook
+- Instagram
+- Meta
+- Snap
+- TikTok
+- YouTube
 ---
 
 'Finally, something was done' - Parent reacts to social media trial settlement

@@ -11,6 +11,18 @@ image: https://cdn.mos.cms.futurecdn.net/TtUukdqFv2MjnGRQhNMJLS-2048-80.png
 categories:
 - Technology & Software
 - Music
+locations:
+- Berlin
+- Dolby Surround
+people:
+- Carrie Marshall
+organisations:
+- Almando
+- Canvas HiFi
+- Dolby Atmos
+- Google News
+- System Audio
+- Unquiet Mind
 ---
 
 ![Lifestyle photos of the Canvas BACCH 3D with Silverback speakers from System Audio](https://cdn.mos.cms.futurecdn.net/TtUukdqFv2MjnGRQhNMJLS.png) 

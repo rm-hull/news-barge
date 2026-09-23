@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Nepal-Tibet
+people:
+- Aisha Sembhi
+- Benedict Garman
+- Charlotte Green
+- Emma Pengelly
+- Merlyn Thomas
+- Mesut Ersoz
+- Paul Brown
+- Shayan Sardarizadeh
+- Yi Ma
+organisations:
+- BBC Verify
 ---
 
 # Tracing the deadly path of the Nepal-Tibet flash flood

@@ -13,6 +13,22 @@ categories:
 - York
 - Sports
 - History
+locations:
+- Brazil
+- England
+- Tokyo
+- Vitória
+- York Karate
+people:
+- Brazil Artem
+- Koten
+- Lewis
+- Simon Flint
+organisations:
+- Argon International
+- JKS England
+- JROC Highways Ltd
+- York Karate
 ---
 
 ## York Karate youngsters win five medals at world championships in Brazil

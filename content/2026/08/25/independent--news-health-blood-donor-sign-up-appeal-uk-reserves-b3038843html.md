@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Australia
+- Canada
+- England
+- UK
+people:
+- Darren Bowen
+- Gerry Gogarty
+organisations:
+- Australian Red Cross Lifeblood
+- Canadian Blood Services
+- Hema-Quebec
+- NHS Blood and Transplant
+- NHSBT
 ---
 
 Health officials have issued an urgent appeal for blood donors to step forward following a "triple whammy" of surging demand, lower collection rates and the challenges posed by hot weather.

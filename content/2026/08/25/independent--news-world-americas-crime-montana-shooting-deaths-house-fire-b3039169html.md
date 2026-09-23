@@ -13,6 +13,25 @@ categories:
 - UK
 - Society & Culture
 - True Crime
+locations:
+- Billings
+- Charlotte
+- Montana
+people:
+- Adam Ghekiere
+- Charlotte
+- Jeff Stovall
+- Landon
+- Matt Hoppel
+- Shawn Mayo
+organisations:
+- Billings Fire
+- Billings Gazette.
+- Billings Police
+- Billings Police Department
+- GoFundMe
+- News Now
+- Yellowstone County Sheriff’s Office
 ---
 
 Eight people, including at least two children, were killed after a gunman opened fire inside a Montana home that was then set ablaze.

@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Australia
+- CBD
+- Lane Cove River
+- NSW
+- New South Wales
+- Sydney Water
+- Tasmania
+people:
+- Anthony Albanese
+- Prof Crystal Legacy
+- Sasha Titchkosky
+organisations:
+- Aemo
+- Australian Energy Market Operator
+- Goodman Group
+- Greens
+- Lane Cove Responsible Planning
+- Project Mars
+- University of Melbourne
 ---
 
 Planned datacentres around Australia may avoid strict new rules being proposed by Anthony Albanese if they can secure approvals in the coming months, amid growing calls growing for a moratorium.

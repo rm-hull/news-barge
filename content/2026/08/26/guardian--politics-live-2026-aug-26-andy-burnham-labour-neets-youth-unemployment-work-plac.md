@@ -12,6 +12,40 @@ image: https://i.guim.co.uk/img/media/ec5ab201a234b677e01f7ffb698c4732a4247edb/3
 categories:
 - UK
 - News & Politics
+locations:
+- Downing Street
+- England
+- Great Britain
+- Iran
+- Kyiv
+- Manchester
+- Scotland
+- UK
+- Ukraine
+- Wales
+people:
+- Andy Burnham
+- Christopher Thomond
+- Dan Kitwood
+- Dolly
+- Donald Trump
+- Fahbulleh
+- Jillian Ambrosereported
+- Miatta Fahnbulleh
+- Richard Partington
+- Volodymyr Zelenskyy
+organisations:
+- Julia Kollewe Miatta Fahnbulleh
+- Labour
+- Neets
+- No10 North
+- Ofgem
+- PA
+- SIPA
+- Sainsbury’s
+- Shutterstock Burnham
+- Sky News
+- The Guardian
 ---
 
 Burnham calls on businesses to offer work experience opportunities for young people

@@ -12,6 +12,42 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Atlantic
+- Canada
+- Canadian Confederation
+- Erie
+- Great Lakes
+- Gulf of America
+- Gulf of Mexico
+- Huron
+- Lake America
+- Lake America.
+- Lake Ontario
+- Lake Superior
+- Michigan
+- New York
+- Nova Scotia
+- Pacific
+- US
+- United States
+- White House
+people:
+- Dominic LeBlanc
+- Donald Trump
+- Doug Burghum
+- Mark Carney
+- Melanie Joly
+- Tim Houston
+organisations:
+- AP
+- Associated Press
+- Geographic Names Information Service
+- Google Maps
+- Oval Office
+- Trump
+- US Declaration of Independence
+- US Department of the Interior
 ---
 
 Watch: Trump signs executive order renaming Lake Ontario to Lake America

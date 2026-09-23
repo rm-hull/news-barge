@@ -13,6 +13,72 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- CBD
+- Coogee
+- Downing Centre
+- Glenroy
+- Melbourne
+- Middle East
+- Moonee Ponds
+- Perth
+- Philip Island
+- Phillip Island
+- South Australia
+- Summerlands
+- Sydney
+- Troubridge Island
+- Victoria
+people:
+- Anthony Albanese
+- Barnaby Joyce
+- Ben Thomas
+- Cassandra Goldie
+- Chris Minns
+- David Farley
+- Gabrielle Bashir SC
+- Glenn Walsh
+- GoFundMe
+- God
+- Gofundme Watt
+- Howard
+- Joel Carrett
+- John Sams
+- Jones
+- Jonno Duniam
+- Julian Leeser
+- Leah Stewart
+- Matt Halliday
+- Mick Tsikas
+- Murray Watt
+- Nick Visser
+- Pauline Hanson
+- Penry Buckley
+- Sarah Basford Canales
+- Stewartwas
+- Tim Ayres
+organisations:
+- AAP
+- ABC News Breakfast
+- ABC Radio National
+- ACOSS
+- AI
+- Alan Jones
+- Albanese
+- Ampol
+- Australian Council for Social Services
+- Bondi
+- Built Living
+- Bunnings and Officeworks
+- Cait Kelly Australia
+- EPA
+- Kmart
+- Labor
+- Luca Ittimani KPMG Australia
+- NSW
+- National Reconstruction Fund
+- One Nation
+- Wesfarmers
 ---
 
 Barnaby Joyce says a fellow One Nation MP made a mistake on Sunday by suggesting the minor party’s migration numbers would not be much different to Labor’s, AAP reports.

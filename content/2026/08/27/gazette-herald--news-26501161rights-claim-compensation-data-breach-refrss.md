@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- GDPR
+- ICO
+- Information Commissioner's Office
 ---
 
 *(Image: Getty Images)*

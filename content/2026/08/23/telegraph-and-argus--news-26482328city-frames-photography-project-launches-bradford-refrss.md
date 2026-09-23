@@ -15,6 +15,17 @@ categories:
 - Arts & Culture
 - Society & Culture
 - Technology & Software
+locations:
+- A City
+- Bradford
+- Frames
+people:
+- Gbolajesu Amusa
+- Oluwadamilola Adetomiwa
+organisations:
+- Bradford
+- Eventbrite
+- Odyssey Media House CIC
 ---
 
 *(Image: Odyssey Media House CIC)*

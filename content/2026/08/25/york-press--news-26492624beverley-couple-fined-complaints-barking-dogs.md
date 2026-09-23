@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Pets & Animals
+locations:
+- Beverley Magistrates Court
+- Molescroft
+people:
+- Emma Bennett
+- Lyn Healing
+- Mark Steeksma
+organisations:
+- Community Protection Notice
+- East Riding of Yorkshire Council
 ---
 
 *(Image: East Riding of Yorkshire Council)*

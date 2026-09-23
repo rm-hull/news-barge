@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- DC
+- Iran
+- Mar-a-Lago
+- National Mall
+- Washington
+- Washington, D.C.
+- Wave’
+- White House
+people:
+- Biden
+- Don Jr
+- Donald Trump
+- Eric
+- Jeffrey Epstein
+- Lmao
+- Maj
+- Matt Williams
+- Melania Trump
+- Natalie Harp
+- Paris Davis
+organisations:
+- Activism
+- Lincoln Memorial Reflecting Pool
+- Trump
 ---
 
 President Donald Trump waved the green flag to start the Freedom 250 Grand Prix IndyCar race in Washington, D.C. Sunday — a brief, ceremonial moment that quickly swept social media.

@@ -12,6 +12,36 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Britain
+- Dylan Connell
+- YOUR
+- York Station
+people:
+- Andrew Waller
+- Andy D'Agorne
+- Andy Shrimpton
+- Blame
+- Cllr Ravilious
+- Cllr Waller
+- D’Agorne
+- Garry Taylor
+- John Sisk
+- Kate Ravilious
+- Son
+organisations:
+- City of York Council
+- Eiffel Tower
+- Greens
+- LNER
+- Labour
+- Liberal Democrat
+- Liberal Democrat and Green Coalition
+- Liberal Democrat and Green administration
+- Public Notice Portal
+- Station Gateway
+- York Cycle Campaign
+- York Liberal Democrats
 ---
 
 *(Image: York Liberal Democrats)*

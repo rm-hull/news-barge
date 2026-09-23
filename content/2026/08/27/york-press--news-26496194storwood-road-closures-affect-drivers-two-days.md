@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Ballhall Lane
+- Gatehead
+- Hagg Lane
+- Langrickgate Lane
+- Narrow Lane
+- Postern Lane
+- Storwood
+- YOUR
+people: []
+organisations:
+- East Riding of Yorkshire Council
+- Highways Maintenance
+- Public Notice Portal
+- RJH
+- Streetscene Services
 ---
 
 *(Image: Newsquest)*

@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- College Road
+- Copmanthorpe
+- Huntington
+- Tadcaster
+- York
+people: []
+organisations:
+- Newsquest
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Newsquest)*

@@ -12,6 +12,42 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Britain
+- Cambridgeshire
+- East Midlands
+- East Yorkshire
+- Greater Lincolnshire
+- Greater Manchester
+- Hull
+- Liverpool
+- London
+- North East England
+- North Yorkshire
+- Peterborough
+- South Yorkshire
+- Tees Valley
+- West Midlands
+- West Yorkshire
+- West of England
+- Westminster
+- York
+people:
+- Andy Burnham
+- Gideon Amos
+- James Cleverly
+- Matthew Pennycook
+- Mothin Ali
+- Sadiq Khan
+organisations:
+- Combined Authorities
+- Greens
+- Homes England
+- Houses of Parliament.
+- Labour
+- Liberal Democrats
+- Reform UK
+- Sunday Times
 ---
 
 ![Housing development](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7205/live/1fb3cdf0-9d83-11f1-adf5-2dc21c9cc109.jpg)

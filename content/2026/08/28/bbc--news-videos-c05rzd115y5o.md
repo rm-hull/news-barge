@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Norway
+- Oslo
+- Royal Palace
+- UK
+people:
+- Charles III
+- Haakon VIII
+- Harald
+organisations: []
 ---
 
 # Norway's 'grandfather': Late King Harald remembered as son Haakon takes the throne

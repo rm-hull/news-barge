@@ -14,6 +14,24 @@ categories:
 - Harrogate
 - Personal Finance & Investing
 - News & Politics
+locations:
+- County Hall
+- North Yorkshire
+- North of England
+- Northallerton
+- York
+people:
+- Coun Carl Les
+- Richard Flinton
+organisations:
+- Brierley
+- CQC
+- Government
+- North Yorkshire Council
+- North Yorkshire County Council
+- North Yorkshire Local Resilience Forum
+- Ofsted
+- Wokingham Council
 ---
 
 # 'Extremely difficult decision’ as North Yorkshire Council’s chief executive announces his retirement

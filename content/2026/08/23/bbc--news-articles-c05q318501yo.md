@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Birmingham
+- Britain
+- Czech Republic
+- England
+- London
+- Loughborough.
+- Manchester
+- Newcastle
+- Newport
+- Scotland
+- UK
+- Wales
+- West Country
+people:
+- Benjaimin Aidomoan
+- Charlotte Davies
+- Lara Newman
+- Martha Powell
+- Mia Tanswell
+- Sian Jackson
+organisations:
+- BBC
+- Brummies
+- Common Ground
+- LinkedIn
+- Mills & Reeve
 ---
 
 ![Close up head and shoulders of a young woman in a sleeveless shirt looking serious. There are out of focus tables and chairs in the background.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/81f3/live/e2c54a10-9d9e-11f1-b160-9b29341ab62f.jpg)

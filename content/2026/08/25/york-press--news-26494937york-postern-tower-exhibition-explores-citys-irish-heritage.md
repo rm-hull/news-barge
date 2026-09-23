@@ -13,6 +13,35 @@ categories:
 - York
 - History
 - Arts & Culture
+locations:
+- Britain
+- Fishergate Postern Tower
+- Foss
+- Ireland
+- Liverpool
+- Ouse
+- Postern Tower
+- UK
+- Walmgate
+- Wolds’
+- York
+people:
+- Bill Hill
+- Dylan Connell
+- James
+- Peter Fawcett
+- Peter Fawcett.
+- Samuel Tuke
+- Sarah Shields
+- York
+organisations:
+- British Government
+- Fishergate Postern Tower
+- Friends of York Walls
+- Postern Tower
+- The Friends of York Walls
+- The Walls
+- York Quakers
 ---
 
 ## Exhibition within York’s ancient walls reveals city’s long-hidden Irish heritage

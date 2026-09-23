@@ -13,6 +13,41 @@ categories:
 - York
 - History
 - Business & Entrepreneurship
+locations:
+- Dock End
+- Market Place
+- NYC
+- New Quay Road
+- North Yorkshire
+- Old Town
+- Old Town Hall
+- Whitby
+people:
+- Cllr Trumper
+- Cllr Wild
+- Gary Jamieson
+- Linda Wild
+- Mark Crane
+- Neil Swannick
+- Phil Trumper
+- Ross Powdrell
+organisations:
+- Align
+- BFF Mrs Wild
+- Government’s Towns Fund
+- NYC Artist
+- Newsquest
+- North Yorkshire Council
+- Old Town Hall
+- The Old Town Hall’S Reopening
+- The Project’S Steering Group
+- The Whitby West Division
+- Town Hall
+- Whitby Market
+- Whitby Old Town Hall
+- Whitby Streonshalh
+- Whitby Town
+- Whitby West division
 ---
 
 ## Traders return to historic ‘market unlike any other’ after £1.3m restoration

@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Cotherstone
+- County Durham
+- Darlington
+- Durham Dales
+- North East
+- Romaldkirk
+- Sniffari
+- Sniffari’
+- Teesdale
+people:
+- Cheryl Robinson
+- Dom Burke
+- Zoe Willingham
+organisations:
+- Dogs Trust
+- Rose & Crown
+- Rose & Crown Sniffari
 ---
 
 Dog owners are being encouraged to slow down and let their pets lead the way as a new countryside attraction launches in the Durham Dales to celebrate the benefits of sniffing.

@@ -12,6 +12,24 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Science
+locations:
+- Bosnia and Herzegovina
+- Massachusetts
+- Sarajevo
+people:
+- Sead
+organisations:
+- Abbott
+- Al Jazeera Balkans
+- Boston Scientific
+- Google News
+- Johnson & Johnson MedTech
+- Medtronic
+- New York Stock Exchange
+- Represent Communications
+- SEC
+- TechRadar Pro
+- US Securities and Exchange Commission
 ---
 
 ![An exclamation mark inside a red warning triangle, surrounded by email symbols, superimposed on someone typing on a laptop](https://cdn.mos.cms.futurecdn.net/wV66hEbpJdAc4iPB7RwtkK.jpg) 

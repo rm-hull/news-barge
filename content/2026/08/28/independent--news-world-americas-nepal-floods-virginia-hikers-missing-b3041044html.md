@@ -15,6 +15,30 @@ categories:
 - UK
 - Travel
 - History
+locations:
+- Chantilly
+- China
+- Himalayas
+- India
+- Loudoun County
+- Mount Kailash
+- Nepal
+- Nepal-China
+- Northern Virginia
+- Sen
+- Tibet
+- U.S.
+people:
+- Dhruva Yapalparvi
+- Donald Trump
+- Sneha Sudhir
+- Suhas Subramanyam
+- Tim Kaine
+organisations:
+- FOX
+- Oval Office
+- State Department
+- U.S. Geological Survey
 ---
 
 Families in Northern Virginia are urgently seeking help to locate a group of ten local men who vanished during severe flooding along the Nepal-China border.

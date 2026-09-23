@@ -13,6 +13,40 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bab al-Mandeb
+- Bab el-Mandeb
+- Egypt
+- Gaza
+- Gulf of Aden
+- Hodeidah
+- Indian Ocean
+- Iran
+- Iraq
+- Lebanon
+- Pakistan
+- Red Sea
+- Riyadh
+- Sana'a
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- Turkey
+- Yanbu
+- Yemen
+people:
+- Ansar Allah —
+organisations:
+- Armed Forces'
+- Axis
+- Bab el-Mandeb
+- Company Security Officer
+- Hamas
+- Hezbollah
+- Houthis
+- IRGC
+- United Kingdom Maritime Trade Operations
+- Vanguard Tech
 ---
 
 ## The missile struck a tanker 63 nautical miles west of Yanbu, setting it ablaze, in the latest strike under the Houthis' announced blockade of Saudi Arabia, threatening its ability to export millions of barrels of crude oil per day.

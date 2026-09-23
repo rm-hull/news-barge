@@ -14,6 +14,20 @@ categories:
 - UK
 - Education & Learning
 - Technology & Software
+locations:
+- Irvine
+- London
+- Washington
+people:
+- Gloria Mark
+- Kelvin Chan
+organisations:
+- AP
+- Apple
+- Associated Press’
+- Battle Ground Public Schools
+- Google
+- University of California
 ---
 
 Tablets and computers have become crucial school supplies for many students. But the same devices children use to read text, write essays, solve math problems or research history projects can also offer distractions in the form of games, social media and web browsing.

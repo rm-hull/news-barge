@@ -13,6 +13,43 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Africa
+- Asia
+- Cali
+- Colombia
+- Dominican Republic
+- Monaco
+- Paris
+- Poland
+- South America
+- Switzerland
+- US
+- United States
+- Vietnam
+- Zurich
+people:
+- De Marco
+- Donald Trump
+- Gianni Infantino
+- Greg Maffei
+- Josh Kushner
+- Laura McAllister
+- Michel Platini
+- Nick de Marco KC
+- Sepp Blatter
+organisations:
+- BBC Sport
+- FFE
+- Fifa Council
+- Fifa Forward Enterprise
+- Formula 1
+- Infantino
+- Los Angeles Lakers
+- News
+- Saudi Arabian Football Federation
+- Thrive Capital
+- Uefa
 ---
 
 ![Fifa president Gianni Infantino during a visit to a sports complex in Cali, Colombia, on August 7, 2026](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2716/live/6301ae50-a2de-11f1-a4f5-c3e4a51a2b37.jpg)

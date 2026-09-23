@@ -14,6 +14,18 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- North Yorkshire
+people:
+- James Emmanuel
+- Nile Rodgers
+organisations:
+- CUFFE & TAYLOR
+- Good Times
+- Le Freak
+- Nile Rodgers & Chic
+- Scarborough Open Air Theatre
+- The Brand New Heavies
 ---
 
 Nile Rodgers and Chic brought a record-breaking summer of live music in North Yorkshire to a close on Saturday night (August 22).

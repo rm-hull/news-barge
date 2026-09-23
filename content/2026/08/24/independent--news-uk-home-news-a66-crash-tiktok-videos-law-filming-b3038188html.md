@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 - Automotive
+locations:
+- Cleveland
+- Ireland
+- Kildare
+- Owen Humphreys
+- PA
+- Teesside
+- TikTok
+- UK
+people:
+- Cole Robert Worthy
+- Jakub Matusiak
+- John Joe O’Connell
+- Luke Pollard
+- Makai Saddington
+- Matt Storey
+- Matthew Blades
+- Michael Robert Cahill
+- Pc Tom Clough
+- Theo Rae
+organisations:
+- A66
+- BBC Breakfast
+- BBC Radio 4
+- GRA
+- Garda Representative Association
+- TikTok
 ---
 
 Social media companies have been told to take down videos showing people driving the wrong way down roads, following two fatal accidents.

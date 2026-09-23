@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Canada
+- Lake Ontario “Lake America
+- Ottawa
+- Toronto
+- U.S.
+- United States
+- Washington
+- White House
+people:
+- Donald Trump
+- Doug Ford
+- Mark Carney
+- Rob Gillies
+organisations:
+- AP
+- Ford
+- The Associated Press
+- The Trump
 ---
 
 Canada has pledged to roll out “dollar-for-dollar” countertariffs on scores of U.S. goods next month in response to President Donald Trump’s latest import taxes, which have plunged the North American neighbors deeper into a bitter trade war.

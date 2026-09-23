@@ -11,6 +11,24 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Acomb
+- Clifton Moor
+- Colliergate
+- Gowthorpe
+- Malton
+- Pocklington
+- Regents Building
+- Selby
+- St Leonard
+- St Leonard’s Hospice
+- York Road
+people:
+- Sarah Baldock
+organisations:
+- Donation Centre
+- Regent Buildings
+- St Leonard’s Hospice
 ---
 
 The St Leonard’s Hospice clothing and homeware shop in Acomb will reopen after a new refurb.

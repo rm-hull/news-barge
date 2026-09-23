@@ -14,6 +14,29 @@ categories:
 - Harrogate
 - History
 - Arts & Culture
+locations:
+- Cornwall Road
+- Harrogate
+- Knaresborough
+- St John’s Church
+- Valley Drive
+- Valley Gardens
+- Vicarage Lane
+people:
+- Bernard Higgins
+organisations:
+- Harrogate Advertiser
+- Harrogate Borough Council
+- Harrogate Civic Society
+- Harrogate Gas Company
+- Harrogate High
+- Harrogate High School
+- Harrogate Hockey Club
+- North Yorkshire Council
+- North Yorkshire County Council
+- St Robert Primary School
+- St Robert’s
+- Then Harrogate Council
 ---
 
 # Harrogate's historic lampposts from its golden age spark plea by Harrogate Advertiser reader

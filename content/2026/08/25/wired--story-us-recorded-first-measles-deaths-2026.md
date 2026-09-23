@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Science
 - News & Politics
+locations:
+- America
+- Earth
+- Lancaster County
+- Pennsylvania
+- South Carolina
+- US
+- Utah
+people:
+- Donald Trump
+- Josh Shapiro
+- Robert F. Kennedy Jr.
+organisations:
+- CDC
+- CNN
+- Centers for Disease Control and Prevention
 ---
 
 Amid a 35-year high in US measles cases, two people in Pennsylvania have died after contracting the virus, the state’s health department confirmed on Tuesday. They are the first measles-related deaths in the country this year.

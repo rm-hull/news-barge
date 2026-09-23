@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Ex Dairy
+- Hollywood
+- North Street
+- York
+people:
+- Alice Kavanagh
+- Aquaman
+- Darren Greenwood
+- Jason Mamoa
+- Jorvik Blond
+organisations:
+- Google
+- The Press
+- The Whippet Inn
+- Tripadvisor
+- Whippet Inn
+- Yorkshire Ham Hock
+- Yorkshire Hussar
 ---
 
 ## We enjoy a fine place to push the boat out and bump into a Hollywood star

@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Castle Rock
+- Colorado
+- Jefferson County
+people:
+- Lily
+- Lindsey Speer
+- Nick Dean
+- Ollie
+- Zachary Oliver
+organisations:
+- Fox 31
+- GoFundMe
+- Jefferson County Sheriff’s Department
+- The Independent
 ---
 
 A Colorado family says a police K-9 who lived next door attacked their 2-year-old daughter, leaving her and her father with significant injuries and hundreds of thousands of dollars in medical debt.

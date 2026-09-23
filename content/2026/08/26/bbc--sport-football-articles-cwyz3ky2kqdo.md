@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Etihad Stadium
+- Manchester City
+- Nottingham Forest
+- St James' Park
+- Valencia
+people:
+- Ayyoub Bouaddi
+- Elliot Anderson
+- Enzo Fernandez
+- Enzo Maresca
+- Kolo Toure
+- Matthias Jaissle
+- Nico Gonzalez
+- Pep Guardiola
+- Rodri
+- Roger Riera
+organisations:
+- Barca
+- Barcelona
+- Chelsea
+- Etihad
+- Lille
+- Manchester City
+- Newcastle United
+- Nico
+- Porto
+- Premier League
+- Rodri A
+- West Bromwich Albion
+- fromManchester City.
 ---
 
 ![Nico Gonzalez waving to Newcastle fans wearing a Newcastle kit](https://ichef.bbci.co.uk/ace/standard/918/cpsprodpb/3079/live/cc8fb1f0-a19e-11f1-b179-79ec571b628c.jpg)

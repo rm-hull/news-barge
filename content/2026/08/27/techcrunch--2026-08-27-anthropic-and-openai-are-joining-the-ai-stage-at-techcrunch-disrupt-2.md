@@ -12,6 +12,45 @@ image: https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- Moscone Center
+- San Francisco
+people:
+- Aaron Jacobson
+- Amit Jain
+- Arsalan Tavakoli
+- Arvind Jain
+- Barr Moses
+- Cat de Jong
+- Cathy Gao
+- Chet Kapoor
+- Claude
+- Dean Leitersdorf
+- Glean
+- Kareem Amin
+- Luma AI
+- Monte Carlo
+- OpenAI
+- Ric Smith
+- Tara Seshan
+organisations:
+- AI
+- AWS
+- Anthropic
+- Decart
+- GTM
+- Google for Startups
+- Katie Moussouris
+- Luta Security
+- NEA
+- Okta
+- OpenAI
+- SVP of Field Engineering
+- Sapphire Ventures
+- VC
+- VP, Security Services & Observability
+- Wendy Nather
 ---
 
 AI hasn’t just changed how startups build; it’s broken how they sell, secure their data and customers, and scale it more rapidly than ever before. At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups. This time around, we’re exploring the business models AI is rewriting, the wealth of unsolved security gaps, and the entirely new job categories AI has created from scratch.

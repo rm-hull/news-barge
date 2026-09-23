@@ -14,6 +14,35 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- A66
+- Acklam
+- Birchington Avenue
+- Eston
+- Grangetown
+- Middlesbrough
+- Sedgemoor Road
+- TS6
+- Teesside Coroners’ Court
+people:
+- Cole Worthy
+- Jacob
+- Jakub Matusiak
+- Josh Kirton
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Ms McDonald
+- Natalie McDonald
+- Paul Appleton
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- Cleveland Police
+- Passat
+- South Bank
+- TS6
 ---
 
 # Man attacked with bladed weapon two miles from fatal A66 crash scene

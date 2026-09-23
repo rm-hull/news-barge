@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- UK
+- Vodafone
+people:
+- Adrian Howe
+- John Hayes
+- Keir Starmer
+- Lord Leong
+organisations:
+- British Franchise Association
+- Centre for Economic Policy Research
+- Department for Business and Trade
+- Guardian
+- Post Office
+- Post Office Horizon IT
+- Vodafone UK
 ---
 
 Ministers have commissioned a pair of in-depth reports into how franchising businesses are policed in the UK, as the government considers introducing new laws after high-profile allegations about conduct in the sector.

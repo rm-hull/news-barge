@@ -13,6 +13,45 @@ categories:
 - Science
 - Video Gaming
 - Sports
+locations: []
+people:
+- Alyssa Thomas
+- Angel Reese
+- Brittney Griner
+- Caitlin Clark
+- Cathy Engelbert
+- Courtney Williams
+- Crystal Dangerfield
+- Dana Perino
+- Donald Trump
+- Elon Musk
+- Enes Kanter Freedom
+- Kentucky Girl
+- Lia Thomas
+- Natasha Cloud
+- Riley Gaines
+- Royce White
+- Sabrina Ionescu
+- Sophie Cunningham
+- Sydney Watson
+organisations:
+- Atlanta Dream
+- Baylor University
+- Chicago Sky
+- Connecticut Sun
+- Dallas Wings
+- ESPN
+- Fox News
+- Indiana Fever
+- Las Vegas Aces
+- MAGA
+- Minnesota Lynx
+- NBA
+- NCAA
+- New York Liberty
+- Phoenix Mercury
+- University of Kentucky
+- WNBA
 ---
 
 “Look, I'm not trying to do a conspiracy here,” wrote right-wing commentator Sydney Watson in an X post on Monday, before proceeding to implicitly endorse one.

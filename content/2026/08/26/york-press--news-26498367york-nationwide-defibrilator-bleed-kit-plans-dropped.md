@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Parliament Street
+- Steet
+- Ukraine
+- YOUR
+- York
+people: []
+organisations:
+- City of York Council
+- Defibfinder
+- Nationwide Building Society
+- Public Notice Portal
+- Public Notice Portal PLANS
+- St John’s Ambulance
 ---
 
 ## 'Life-saving' equipment in York city centre plans dropped

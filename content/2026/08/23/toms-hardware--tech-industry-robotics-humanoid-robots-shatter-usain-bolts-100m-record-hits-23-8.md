@@ -12,6 +12,27 @@ image: https://cdn.mos.cms.futurecdn.net/cexYk4Ga5StcDvokkvMvqC-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Beijing
+- Berlin
+- Germany
+- Stockholm
+- U.S.
+people:
+- Donald Lippincott
+- Honor
+- Jowi Morales
+- Tom
+- Usain Bolt
+organisations:
+- AI
+- FCC
+- Google News
+- Jowi Morales
+- Lightning
+- Nvidia
+- Reuters
+- Tiangong Ultra
 ---
 
 ![the Honor Lightning running at the 2026 World Humanoid Robot Games](https://cdn.mos.cms.futurecdn.net/cexYk4Ga5StcDvokkvMvqC.jpg) 

@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Birmingham
+- Brighton
+- England
+- France
+- Oxford
+- Oxfordshire
+- Ryan Bridge
+- St George
+- Thames Valley
+- West Midlands
+people:
+- Bridge
+- Jane Baston
+- Justice Dias
+- Simon Foster
+organisations:
+- Green party
+- Guardian
+- Instagram
+- Liberal Democrat council
+- PCC
+- Raise the Colours
+- Sussex
+- interior ministry
 ---
 
 Birmingham city council is seeking an injunction to stop members of an anti-migrant group from erecting flags, including union jack and St George’s flags, on public infrastructure across the city.

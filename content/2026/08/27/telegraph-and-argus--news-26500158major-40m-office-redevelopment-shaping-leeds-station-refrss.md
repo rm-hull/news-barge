@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Aire Street
+- Leeds
+- Network Rail
+- YOUR
+people:
+- Andrew Banks
+- Andrew Ferguson
+organisations:
+- Department for Transport and Network Rail
+- Network Rail
+- Platform4
+- Princes Exchange
+- Public Notice Portal
+- Willmott Dixon
 ---
 
 *(Image: Supplied)*

@@ -11,6 +11,13 @@ image: https://cdn.mos.cms.futurecdn.net/3yurUPH49MgxYbgwxy4xPZ-320-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Brad Smith
+- Razer Kiyo
+organisations:
+- ALS
+- Get Tom's Hardware
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/3yurUPH49MgxYbgwxy4xPZ-320-80.jpg)

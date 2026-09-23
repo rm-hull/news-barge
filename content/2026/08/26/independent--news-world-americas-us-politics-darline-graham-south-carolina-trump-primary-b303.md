@@ -13,6 +13,67 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Arizona
+- Columbia
+- Florida
+- Georgia
+- Iowa
+- Iran
+- Michigan
+- Minnesota
+- Myrtle Beach
+- Ohio
+- Pennsylvania
+- Russia
+- South Carolina
+- South China Sea
+- Taiwan
+- Tennessee
+- Texas
+- U.S.
+- Ukraine
+- Washington
+- White House
+- Wyoming
+people:
+- Alan Wilson
+- Andy Ogles
+- Blake Masters
+- Brian Kemp
+- Burt Jones
+- Catalina Lauf
+- Charlie Hatcher
+- Cory Mills
+- Darline Graham
+- Donald Trump
+- Herschel Walker
+- JD Vance
+- Ken Paxton
+- Lindsey Graham
+- Megan Degenfelder
+- Mehmet Oz
+- Mike Lindell
+- Pamela Evette
+- Ralph Norman
+- Randy Feenstra
+- Rick Jackson
+- Ron DeSantis
+- Sam Wolfe
+- Zach Lahn
+organisations:
+- Congress
+- GOP
+- Georgia Senate
+- House Ethics Committee
+- MAGA Inc.
+- PAC
+- R-SC
+- REUTERS
+- TV
+- The Associated Press
+- Trump
+- Truth Social
 ---
 
 Under normal circumstances, Senator Darline Graham should not have won the Republican primary to replace her late brother, Senator Lindsey Graham. But then President Donald Trump stepped in.

@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Ayrshire
+- Edinburgh Sheriff Court
+- Gaza
+- Glasgow
+- Trump Turnberry
+- UK
+- US
+people:
+- Autumn Taylor Ward
+- Donald Trump
+- Dylan Chiaramello
+- Huda Ammori
+- John Moxley
+- Kieran Robson
+- Rebecca Sian Davies
+- Ricky Southall
+- Uzma Bashir
+organisations:
+- Court of Appeal
+- Defend Our Juries
+- Elbit Systems
+- High Court
+- High Court of Justiciary
+- Palestine Action
+- Scottish Courts and Tribunals Service
+- Section 31
+- Trump Turnberry
+- UK Supreme Court
 ---
 
 ![A white building at Trump Turnberry is seen daubed with red paint.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/94d9/live/3af77860-a2f5-11f1-8d5b-155abe464768.jpg)

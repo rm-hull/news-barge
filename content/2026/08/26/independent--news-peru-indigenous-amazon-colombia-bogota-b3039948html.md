@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Amazon
+- Lima
+- Peru
+- San Martin
+- Santa Rosillo de Yanayacu
+- Tarapoto
+people:
+- Américo Pascuala Tomisha
+- Axeldina Barbarán Tapullima
+- Cristina Gavancho
+- Genix Saboya Saboya
+- Jerly Saboya Saboya
+- Kevin Arnol Inuma
+- Limber Ríos Ruiz
+- Pascuala Tomisha
+- Quinto Inuma Alvarado
+- Segundo Juan Villalobos Guevara
+- Tom Younger
+organisations:
+- AP
+- Associated Press’
+- Forest Peoples Programme
+- Justice Ministry
+- Legal Defense Institute
+- Lima-based Legal Defense Institute
+- ORAU
+- Santa Rosillo de Yanayacu
+- The Associated Press
 ---
 
 A Peruvian court on Monday evening convicted four men of murder-for-hire and sentenced them to between 15 and 35 years in prison for the 2023 killing of Indigenous rainforest defender Quinto Inuma Alvarado, in a closely watched case seen as a test of accountability for violence against Indigenous and environmental defenders in the Amazon.

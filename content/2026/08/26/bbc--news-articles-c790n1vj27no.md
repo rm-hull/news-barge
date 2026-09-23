@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - Society & Culture
 - Comedy & Entertainment
+locations:
+- America
+- Appalachian Tennessee
+- Dollywood
+- France
+- North Carolina
+- Parton
+- Poland
+people:
+- Barack Obama
+- Barbara Walters
+- Dolly Parton
+- Donald Trump
+- Heather
+- Hillary Clinton
+- James Rogers
+- Jane Fonda
+- Joe Biden
+- Lily Tomlin
+- Sarah Phillips
+- Taylor Swift
+organisations:
+- American Eagle Foundation
+- BBC
+- Black Lives Matter
+- Fox News
+- Indiana University
+- Parton
+- YouGov
 ---
 
 The life of an iconic country singer

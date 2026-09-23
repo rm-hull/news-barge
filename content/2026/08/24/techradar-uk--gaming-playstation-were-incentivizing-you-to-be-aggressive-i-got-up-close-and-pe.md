@@ -12,6 +12,37 @@ image: https://cdn.mos.cms.futurecdn.net/FzMSmg8ynakzfzSLFpiG3n-2560-80.png
 categories:
 - Technology & Software
 - Comedy & Entertainment
+locations:
+- Canada
+- Logan
+- Lowtown
+- Madripoor
+- Manhattan
+- New York City
+- Talenbang
+- Wolverine
+people:
+- Bolivar Trask
+- Jean Grey
+- Jess Reiner-Reed
+- Liam McIntyre
+- Logan
+- Mystique
+- Nathaniel Essex
+- Peter Parker
+- Reavers
+- Sabretooth
+- Spider-Man
+- Wolverine
+organisations:
+- FPS
+- Google News
+- Insomniac
+- Proto Sentinel
+- Spider-Man
+- Team X
+- The Hand
+- Wolverine
 ---
 
 ![A Marvel's Wolverine promotional screenshot.](https://cdn.mos.cms.futurecdn.net/FzMSmg8ynakzfzSLFpiG3n.png) 

@@ -15,6 +15,25 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- Baildon
+- Bradford
+- Britain
+- Grange Court Residential Home
+- Poland
+- Shipley
+- Ukraine
+people:
+- Basil
+- Ms Bennett
+- Ms Mozil
+- Suzanne Bennett
+- Zena Mozil
+organisations:
+- Bradford Council
+- Grange Court Residential Home
+- HM Land Registry
+- Polish Club
 ---
 
 *(Image: Suzanne Bennett)*

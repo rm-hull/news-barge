@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Devonshire
+- Keighley
+- Kent
+- King Charles I
+- King’s Cross
+- London
+- Soho
+- Southwark
+- UK
+- West Midlands
+- West Yorkshire
+people:
+- Ash Corbett-Collins
+- Matt Roberts
+- Oisín Rogers
+- Tom Stainer
+organisations:
+- Camra
+- Competition and Markets Authority
+- Diageo
+- Guinness
+- Southwark Brewing Company
+- Timothy Taylor
 ---
 
 For centuries, the wooden real ale pump has been the hallmark of a good British boozer. But now problems are brewing for the proper pint, as the Campaign for Real Ale has seen its membership sink to an eight-year low and its accounts show it is firmly in the red, making an £800,000 loss last year.

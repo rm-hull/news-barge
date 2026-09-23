@@ -13,6 +13,12 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Washington
+people: []
+organisations:
+- AP
+- National Mall
 ---
 
 Thousands march in Washington to defend voting rights, in photos

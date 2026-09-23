@@ -12,6 +12,41 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Alabama
+- California
+- Chesapeake Bay
+- Florida
+- Louisiana
+- Maryland
+- Missouri
+- North Carolina
+- Ohio
+- Tennessee
+- Texas
+- Utah
+- Virginia
+people:
+- Andy Harris
+- Donald Trump
+- Joseline Peña-Melnyk
+- Marshall Yates
+- Robert Thompson
+- Wes Moore
+organisations:
+- Anne Arundel County Circuit Court
+- Congress
+- Democratic Maryland House
+- General Assembly
+- House Freedom Caucus
+- Maryland State Board of Elections
+- Maryland State Capitol
+- Maryland Supreme Court
+- Oversight Project
+- Oversight Project Strategic
+- Supreme Court
+- U.S. House
+- Virginia Supreme Court
 ---
 
 A Maryland state court has struck down a proposed constitutional amendment designed to give Democrats the scope to redraw the state’s congressional map ahead of the 2028 elections.

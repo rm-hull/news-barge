@@ -14,6 +14,15 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Barkerend Road
+- Bradford
+- Hendford Drive
+people: []
+organisations:
+- LiveChat
+- Roads Policing Unit
+- Yorkshire Ambulance Service
 ---
 
 *(Image: PA)*

@@ -11,6 +11,30 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Barnhill
+- Brent Civic Centre
+- Dollis Hill
+- Engineers Way
+- HA9
+- London
+- Roundwood
+- Stonebridge
+- Tokyngton
+- Welsh Harp
+- Wembley Park
+- Willesden
+people:
+- Brent
+- Chris Clarke
+- David Wynter
+- Muhammad Butt
+organisations:
+- Brent Council
+- Crimestoppers
+- London Ambulance Service
+- London’s Air Ambulance
+- Metropolitan Police
 ---
 
 Police have arrested a 15-year-old boy on suspicion of murder after a teenager was stabbed to death at a council headquarters building in London.

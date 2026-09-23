@@ -12,6 +12,28 @@ image: https://cdn.mos.cms.futurecdn.net/ZWYS9ehAzumaLJnjRNGvkg-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- UK
+- Wye Valley
+people:
+- Razer
+- Zak Storey
+organisations:
+- '### Razer Soma Chroma'
+- AC
+- AndaSeat
+- Corsair
+- EU
+- Ikea
+- Maximum PC
+- NEO Hybrid Leatherette
+- Napa Leather
+- RGB
+- Razer Soma Chroma
+- 'TechRadar ### Razer Soma Chroma'
+- Techradar
+- USB
+- Zak
 ---
 
 ### TechRadar Verdict

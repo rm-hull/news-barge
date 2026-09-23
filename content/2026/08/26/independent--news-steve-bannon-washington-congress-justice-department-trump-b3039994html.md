@@ -15,6 +15,21 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- U.S. Capitol
+- Washington
+- White House
+people:
+- Carl Nichols
+- Jeanine Pirro
+- Steve Bannon
+- Trump
+organisations:
+- Congress
+- House
+- Justice Department
+- Supreme Court
+- U.S. Supreme Court
 ---
 
 A federal judge on Wednesday rejected the Justice Department's request to erase Trump ally Steve Bannon's criminal conviction for refusing to testify before the congressional committee that investigated a mob's Jan. 6, 2021, attack on the U.S. Capitol. But it may not be a final decision on the matter.

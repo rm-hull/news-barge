@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- California
+- Monrovia
+- West Huntington Drive
+people: []
+organisations:
+- ABC7 Los Angeles
+- Instagram
+- Monrovia Police Department
+- Panda Express
 ---
 
 Not even a fortune cookie could have predicted this arrest.

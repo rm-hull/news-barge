@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Beachy Head
+- Britain
+- Eastbourne Pier
+- Holywell
+- Trinity Trees
+- Wish Tower
+people:
+- Kevin Gordon
+organisations:
+- BBC Radio Sussex
+- BBC Sussex
+- Duke of Devonshire
+- Queens Hotel
+- Secret Sussex
+- The Queens Hotel
+- The Wish Tower
 ---
 
 ![The Queens Hotel in Eastbourne during the 1900s. The black and white image shows the hotel, which is on the seafront.](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/65af/live/2495eeb0-9cb7-11f1-a291-b542ee92de7c.jpg)

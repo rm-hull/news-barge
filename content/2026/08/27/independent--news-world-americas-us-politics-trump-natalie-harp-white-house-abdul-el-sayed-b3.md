@@ -11,6 +11,33 @@ image: https://static.independent.co.uk/2026/08/27/11/2291624129..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Atlanta
+- Canada
+- Farmington Hills
+- Georgia
+- Lake Ontario
+- Michigan
+- Qatar
+- White House
+people:
+- ',” Watters'
+- Abdul El-Sayed
+- Debbie Dingell
+- Donald Trump
+- Emir
+- Habibi
+- Jesse Watters
+- Jon Ossoff
+- Lake Natalie
+- Michiganite
+- Mike Rogers
+- Natalie Harp
+- Yeah
+organisations:
+- Fox News
+- One America News
+- Senate
 ---
 
 Michigan Democratic Senate nominee Abdul El-Sayed has again mocked President Donald Trump – who has repeatedly hit out at El-Sayed – over his the role of White House aide Natalie Harp.

@@ -11,6 +11,27 @@ image: https://static.independent.co.uk/2026/08/23/15/2287209125..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Capitol Hill
+- D.C.
+- New Jersey
+- Washington Township
+people:
+- Dallas Overko
+- Liz Elkind
+- Mike Johnson
+- Rebecca Bennett
+- Rob Menendez
+- Tom Kean
+- Tracey Tully
+organisations:
+- Congress
+- Fox News
+- Hawk Point Golf Club
+- NJ
+- New York Times
+- The Independent
+- Washington Township Police Department
 ---
 
 A *New York Times* reporter says she was denied entry to a campaign event in New Jersey for Republican lawmaker Tom Kean and had the police called on her, despite other journalists being present inside. 

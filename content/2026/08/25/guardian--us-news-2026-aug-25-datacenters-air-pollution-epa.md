@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Michigan
+- US
+people:
+- Jessica O’Donnell
+- Joe Goffman
+- Mike Koerber
+organisations:
+- Clean Air Act
+- Donald Trump’s Environmental Protection Agency
+- EPA
+- Environmental Law and Policy Center
+- Environmental Protection Network
+- Guardian
+- Trump
 ---
 
 A new rule proposed by the Trump administration aims to kill public notification for datacenter air pollution, public health advocates warn, and allow emission permits to be issued behind closed doors.

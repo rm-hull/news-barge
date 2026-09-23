@@ -13,6 +13,23 @@ image: https://cdn.mos.cms.futurecdn.net/SaNor5hWkzZMq2mVHY6sJY-2560-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations: []
+people:
+- Brandon Riegg
+- Tom Warren
+organisations:
+- Demi Williams
+- GTA
+- GameSpot
+- GamesRadar
+- Google News
+- Grand Theft Auto
+- NME
+- Netflix Tudum
+- PS5
+- Rockstar Games
+- TechRadar
+- The Verge
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/SaNor5hWkzZMq2mVHY6sJY.jpg) 

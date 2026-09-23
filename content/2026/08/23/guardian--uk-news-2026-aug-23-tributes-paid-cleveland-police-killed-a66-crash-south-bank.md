@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - Society & Culture
 - Technology & Software
+locations:
+- Cleveland
+- Redcar
+- South Bank
+- Tees Valley
+- Teesside
+people:
+- Andy Burnham
+- Anna Turley
+- Ben Houchen
+- Ellie Westerman
+- Lauren Somerville
+- Matthew Blades
+- Tom Clough
+- Victoria Fuller
+organisations:
+- A66
+- BBC Breakfast
+- Home Office
+- Independent Office for Police Conduct
+- PC Blades
+- PC Clough
+- Sun
 ---
 
 Tributes are being paid to two police officers who died on Teesside when a car travelling the wrong way along the A66 crashed head on into their vehicle, also killing five young men.

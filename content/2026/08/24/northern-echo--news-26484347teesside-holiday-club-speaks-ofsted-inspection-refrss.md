@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Billingham
+- North East
+- Sunderland
+- Teesside
+people: []
+organisations:
+- Google Maps
+- Ofsted Teesside
+- Wynyard Holiday Club
+- Wynyard Holiday Park
 ---
 
 *(Image: Google Maps)*

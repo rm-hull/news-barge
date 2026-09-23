@@ -13,6 +13,40 @@ image: https://static.independent.co.uk/2026/08/28/18/Catholic_Biblical_Associat
 categories:
 - News & Politics
 - UK
+locations:
+- Connecticut
+- Kentucky
+- Massachusetts
+- Nashville
+- St.
+- Tennessee
+- Vatican
+people:
+- Amy-Jill Levine
+- Archie Wright
+- Ben Witherington III
+- Bible’ Levine
+- Christ
+- Francis
+- God
+- Gregory E. Sterling
+- Jesus
+- John Paul II
+- Moses
+organisations:
+- AP
+- Asbury Theological Seminary
+- Associated Press
+- CBA
+- Catholic Biblical Association
+- Catholic Biblical Association of America
+- Church
+- Hartford International University for Religion and Peace
+- Lilly Endowment Inc
+- Second Vatican Council of the 1960s
+- The Associated Press
+- The Conversation US
+- Vanderbilt University
 ---
 
 When Amy-Jill Levine was a child in Massachusetts, a schoolmate in her predominantly Catholic hometown told her she was guilty of killing Christ because she was Jewish.

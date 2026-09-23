@@ -15,6 +15,27 @@ categories:
 - Arts & Culture
 - Photography & Video
 - Technology & Software
+locations:
+- Consett DH80HH
+- County Durham
+- Front Street
+- North East
+- Northumberland
+- Prudhoe
+- Santa’s
+- Shotley Bridge
+- Teesside Park
+people:
+- Dana Cartmell
+- Jessie
+- Oliver Bonas
+- SARAH
+- Sarah Thew
+organisations:
+- Facebook
+- Google
+- Sarah Thew Photography
+- Sarah’s
 ---
 
 A new photography studio capturing some of life’s most precious moments has opened its doors in County Durham.

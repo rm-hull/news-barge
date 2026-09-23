@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - Music
 - Arts & Culture
+locations:
+- Harrogate
+- Leeds
+people:
+- Amanda Brown
+- Elle Woods
+- Warner
+organisations:
+- Bright Light Productions
+- Carriageworks Theatre
+- Harvard Law
+- Harvard Law School
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8ff76f6e535876bd1.jpg) 

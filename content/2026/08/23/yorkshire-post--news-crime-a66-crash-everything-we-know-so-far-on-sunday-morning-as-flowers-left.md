@@ -16,6 +16,36 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- A66
+- Cargo Fleet Lane
+- Lime Road
+- Longlands Road
+- Middlesbrough
+- Normanby Road
+- Ormesby Road
+- South Bank
+- Teesside
+- Teesville
+- Trunk Road
+people:
+- Matthew Blades
+- Neil Hutchinson
+- Pc Blades
+- Pc Tom Clough
+- Richard McCarthy
+organisations:
+- A66
+- Cleveland Police
+- Cleveland Police Officers
+- IOPC
+- Independent Office for Police Conduct
+- Mail
+- PA Wire
+- Pc Blades
+- Pc Clough
+- Press Association
+- Volkswagen
 ---
 
 # A66 crash: Everything we know so far on Sunday morning as flowers left at police-patrolled scene

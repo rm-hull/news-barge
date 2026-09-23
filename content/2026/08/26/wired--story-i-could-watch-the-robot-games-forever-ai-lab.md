@@ -14,6 +14,30 @@ categories:
 - Technology & Software
 - Science
 - Arts & Culture
+locations:
+- America
+- Beijing
+- China
+- Hangzhou
+- US
+people:
+- Chris Atkeson
+- Galbot
+- Moravec
+- Ping Pong
+- Stefanie Tellex
+- Usain Bolt
+- Yvonne Yuan
+organisations:
+- AI
+- Beijing Humanoid Robot Innovation Center
+- Brown University
+- Carnegie Mellon University
+- Galbot
+- Honor
+- Lightning
+- Tiangong
+- Unitree
 ---
 
 If you’re anything like me, the World Humanoid Robot Games are a highlight of your sporting calendar.

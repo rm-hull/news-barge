@@ -10,6 +10,18 @@ description: This could be the perfect dorm room computer
 image: https://cdn.mos.cms.futurecdn.net/VFsyMbMkpnMycWic6PRUcY-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- UK
+people:
+- Alex Whitelock
+organisations:
+- Alex
+- Apple Education Store
+- Apple Store
+- Future PLC
+- GamesRadar
+- M6
+- TechRadar
 ---
 
 ![Apple Mac mini with M6, 2026](https://cdn.mos.cms.futurecdn.net/VFsyMbMkpnMycWic6PRUcY.jpg) 

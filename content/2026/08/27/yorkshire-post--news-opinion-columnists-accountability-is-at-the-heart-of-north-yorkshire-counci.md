@@ -18,6 +18,20 @@ categories:
 - York
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Craven
+- Harrogate
+- North Yorkshire
+people:
+- Bruce Rollinson
+- Carl Les
+- Coun Carl Les
+organisations:
+- Audit Committee
+- Mayoral
+- North Yorkshire Council
+- North Yorkshire Council.
+- Treasury
 ---
 
 # Accountability is at the heart of North Yorkshire Council’s performance - Carl Les

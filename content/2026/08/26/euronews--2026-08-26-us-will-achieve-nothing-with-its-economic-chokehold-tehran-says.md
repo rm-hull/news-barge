@@ -13,6 +13,27 @@ image: https://images.euronews.com/articles/stories/09/88/97/23/1200x675_cmsv2_5
 categories:
 - Europe
 - News & Politics
+locations:
+- America
+- Gulf of Oman
+- Iran
+- Islamic Republic
+- Muscat
+- Persian Gulf
+- Strait of Hormuz
+- Tehran
+- US
+- United States
+- Washington
+people:
+- '## Pezeshkian'
+- Donald Trump
+- Kazem Gharibabadi
+- Masoud Pezeshkian
+- Scott Bessent
+organisations:
+- ISNA
+- US Treasury
 ---
 
 ## Pezeshkian's words of defiance came as Iran's deputy foreign minister said a deal with Oman would bar all military vessels from the Strait of Hormuz in an escalation of Tehran's demands that drew opposition from Washington, which has previously threatened to bomb Oman if it "gets in the way".

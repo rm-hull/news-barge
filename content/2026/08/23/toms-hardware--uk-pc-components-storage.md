@@ -11,6 +11,56 @@ image: https://cdn.mos.cms.futurecdn.net/ZSSSQRZK4pkvDuuNtZYNTF-450-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- China
+- Japan
+- Stewart Bendle
+people:
+- Ahmed Shihab
+- Ambrish Srivastava
+- Irving Tan
+- Kris Sennesael
+- Mark Tyson
+organisations:
+- AMD Strix
+- Aaron Klotz
+- AmazonBy Jowi Morales
+- Anton Shilov
+- Bruno Ferreira Published
+- EnclosuresAkasa
+- EnclosuresSatechi
+- EnclosuresSilverstone
+- HAMR'By Zak Killian
+- HDD
+- HDDsToshiba
+- HGST
+- Jowi Morales
+- Kunal Khullar
+- Luke James
+- Luke James Published
+- Mark Tyson Published
+- Matt Safford
+- Microsoft
+- NAS
+- NASMinisforum
+- NASQNAP
+- NASSynology
+- NASYou
+- NVMe
+- PNY
+- Roshan Ashraf Shaikh
+- Roshan Ashraf Shaikh Published
+- SATA
+- SK Hynix
+- SK hynix
+- SMB
+- SSDsKioxia
+- SSDsSandisk
+- Samsung
+- Sandisk
+- Solidigm IPO
+- StorageMaxell
+- Toshiba
 ---
 
 ## Latest about Storage

@@ -10,6 +10,16 @@ description: Ring says users can still opt for end-to-end encryption.
 image: https://techcrunch.com/wp-content/uploads/2025/12/20250714_lifestyle_wireddoorbellprogen3_sn_frontdoor_RGB.jpeg?resize=1200,675
 categories:
 - Technology & Software
+locations: []
+people:
+- Ring
+organisations:
+- Amazon
+- Internet Engineering Task Force
+- MLS
+- Messaging Layer Security
+- Ring
+- TAKE
 ---
 
 Amazon’s smart home division Ring said on Wednesday that it is adopting a new encryption standard called TAKE (Throw Away the Key Encryption) as the default setting for video encryption and user control. The company says this standard lets it protect user privacy without relying on end-to-end encryption, which can restrict some features such as video search, video description, and shared trusted users.

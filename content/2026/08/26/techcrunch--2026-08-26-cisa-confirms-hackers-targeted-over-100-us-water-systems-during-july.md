@@ -11,6 +11,23 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/water-waste-water-20999
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- China
+- Europe
+- Iran
+- Michigan
+- Minnesota
+- Russia
+- Taiwan
+- U.S.
+- United States
+people: []
+organisations:
+- CISA
+- NATO
+- Rockwell
+- Schneider Electric
+- Siemens PLCs
 ---
 
 U.S. cybersecurity agency CISA said it has observed cyberattacks targeting over 100 internet-exposed systems across the U.S. water and wastewater sector, amid a wave of hacks targeting American critical infrastructure.

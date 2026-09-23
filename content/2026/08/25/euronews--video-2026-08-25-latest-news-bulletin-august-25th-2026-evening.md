@@ -12,6 +12,45 @@ image: https://images.euronews.com/articles/stories/09/88/84/71/1200x675_cmsv2_d
 categories:
 - Europe
 - News & Politics
+locations:
+- Argentina
+- Aude
+- Bihucourt
+- Bunia
+- Canada
+- Europe
+- Evangelical Medical Centre
+- France
+- Halle Airport
+- Hamilton
+- Istra Municipal District
+- Kalimantan Island
+- Leipzig
+- Ont
+- Paris
+- Republic Square
+- Sana'a
+- Stockholm
+- Sumatra
+- Sweden.
+- Ukraine
+- Washington, D.C.
+- White House
+- Yerevan
+people:
+- Donald Trump
+- Emmanuel Macron
+- Jean-Luc Mélenchon
+- Mark Carney
+- Thomas Jefferson
+organisations:
+- AG.AL
+- ArcelorMittal Dofasco
+- EWC
+- Eiffel Tower
+- Euronews
+- Nikol Pashinian
+- Ozon
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

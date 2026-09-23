@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Colliergate
+- Goodramgate
+- Grade I
+- Haydn Lewis
+- Holy Trinity
+- UK
+- York
+people:
+- Dom&Ink
+- Isla
+- Juno Dawson
+organisations:
+- CGBs
+- Criminally Good Books
+- Good Books
+- Goodramgate
+- HGB
+- Instagram
+- Isla Coole
+- Merchant Adventurers Hall
 ---
 
 A NEW horror bookshop is set to open its doors in a historic York building overlooking a graveyard – right in time for Halloween!

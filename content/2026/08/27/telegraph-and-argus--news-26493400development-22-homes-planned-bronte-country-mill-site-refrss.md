@@ -15,6 +15,22 @@ categories:
 - Real Estate
 - Home, Garden & DIY
 - Personal Finance & Investing
+locations:
+- Bradford
+- Bronte Country
+- Jew Lane
+- Oxenhope
+- Rochdale
+- Wadsworth Mill
+- YOUR
+people:
+- George Emmott
+organisations:
+- Addison Planning Consultants Ltd
+- Bradford Council
+- National Planning Policy Framework
+- Pawsons
+- Public Notice Portal
 ---
 
 *(Image: Google)*

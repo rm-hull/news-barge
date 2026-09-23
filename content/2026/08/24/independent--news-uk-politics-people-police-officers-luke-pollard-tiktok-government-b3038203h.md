@@ -12,6 +12,52 @@ categories:
 - News & Politics
 - UK
 - Automotive
+locations:
+- Cleveland
+- Downing Street
+- Kyiv
+- Middlesbrough
+- PA
+- Sellafield
+- South Bank
+- Teesside Magistrates’ Court
+- Wynyard Park
+people:
+- Andy Burnham
+- Bladesy
+- Cole Robert Worthy
+- Jacob Matusiak
+- John Walker
+- Lisa Nandy
+- Luke Pollard
+- Makai Saddington
+- Matt Storey
+- Matthew Blades
+- Michael Robert Cahill
+- Pc Blades
+- Pc Blades’
+- Pc Clough
+- Pc Matthew Blades
+- Pc Tom Clough
+- Theo Rae
+- Tom Clough
+- Tommy
+organisations:
+- A66
+- Civil Nuclear Constabulary
+- Cleveland Police
+- Cleveland Police Federation
+- Cleveland Police’s Roads Policing Unit
+- Government
+- HM Courts & Tribunals Service
+- HMCTS
+- Independent Office for Police Conduct
+- Ofcom
+- PA
+- Passat
+- Pc Blades
+- State for Culture, Media and Sport
+- TikTok
 ---
 
 People who share footage glorifying dangerous driving are “doing something that’s truly reprehensible”, the Prime Minister has said after two police officers and five others were killed in a crash near Middlesbrough.

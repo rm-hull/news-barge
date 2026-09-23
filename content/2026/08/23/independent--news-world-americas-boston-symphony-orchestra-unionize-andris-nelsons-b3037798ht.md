@@ -12,6 +12,21 @@ categories:
 - UK
 - Music
 - Arts & Culture
+locations:
+- Boston
+- Leipzig
+people:
+- Andris Nelsons
+- Chad Smith
+- Georg Henschel
+- Nelson
+organisations:
+- BSO
+- Boston Music Hall
+- Boston Musicians' Association
+- Boston Symphony Orchestra
+- Gewandhauskapellmeister
+- Symphony Hall
 ---
 
 Musicians at the Boston Symphony Orchestra voted Saturday to authorize the ensemble's first strike in 145 years.

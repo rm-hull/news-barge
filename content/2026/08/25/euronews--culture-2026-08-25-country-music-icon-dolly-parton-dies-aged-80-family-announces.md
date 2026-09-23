@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- Denmark
+- Kanye West
+- Limfjord
+- US
+- United States
+people:
+- Bryan Seaver
+- Dolly Parton
+- Donald Trump
+organisations:
+- Truth Social
+- Vikings
 ---
 
 ## The singer, songwriter and actress was one of the most influential figures in country music and shaped music and popular culture over a career spanning decades.

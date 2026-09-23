@@ -12,6 +12,42 @@ categories:
 - UK
 - News & Politics
 - Video Gaming
+locations:
+- Allianz Stadion
+- Austria
+- Benfica
+- Europe
+- Glasgow
+people:
+- Allan Preston
+- Beau Reus
+- Calvin Miller
+- Ercan Kara
+- Hearts Vrancken
+- Hearts'
+- Marco Tilio
+- Moulaye Haidara
+- Nenad Cvetkovic
+- Oisin McEntee
+- Pierre Landry Kabore
+- Ryan Stevenson
+- Tom Renaud
+- Tomas Magnusson
+- Wouter Vrancken
+organisations:
+- Aberdeen
+- BBC Radio Scotland
+- BBC Scotland
+- Benfica
+- Celtic
+- Dundee United
+- Edinburgh
+- Hearts
+- Hearts'
+- Rapid Vienna
+- Sportsound
+- Sturm Graz
+- Tynecastle
 ---
 
 ![Hearts players celebrating](https://ichef.bbci.co.uk/ace/standard/950/cpsprodpb/9129/live/6b5c20a0-a188-11f1-9ebf-d7a2f4c11284.jpg)

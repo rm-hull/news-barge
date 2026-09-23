@@ -14,6 +14,39 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Arizona
+- Boston
+- Cleveland
+- Columbus
+- Franklin County
+- New Hampshire
+- Ohio
+- South Dakota
+- U.S.
+- Utah
+- Wyoming
+people:
+- Ben Stafford
+- Denise Casper
+- Donald Trump
+- Frank LaRose
+- Solomon Oliver Jr.
+organisations:
+- BMV
+- Bureau of Motor Vehicles
+- Congress
+- Elias Law
+- Elias Law Group
+- League of Women Voters
+- NVRA
+- Ohio Alliance of Retired Americans
+- Ohio Bureau of Motor Vehicles
+- Red Wine & Blue
+- Sioux Falls
+- Trump
+- U.S. District Court
+- University of Maryland
 ---
 
 A federal judge on Tuesday temporarily blocked enforcement of an Ohio requirement that voters show proof of citizenship when registering to vote at a motor vehicle bureau, a rule that took effect for the first time this year.

@@ -11,6 +11,17 @@ image: https://techcrunch.com/wp-content/uploads/2025/09/echo-family-1.png?resiz
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Amazon
+people: []
+organisations:
+- Amazon
+- Apple
+- CamelCamelCamel
+- Echo Dot
+- Echos
+- Fire TVs
+- TechCrunch
 ---
 
 Over the weekend, Amazon significantly raised the prices of its hardware devices, jacking them up by as much as 60 percent in some cases.

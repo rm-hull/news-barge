@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Sports
 - Health & Fitness
+locations:
+- Guiseley
+- Victoria Road
+- YOUR
+people: []
+organisations:
+- British Boxing Board of Control
+- CIC
+- Community Interest Company
+- Leeds City Council
+- Public Notice Portal
+- Stack Architects Ltd
 ---
 
 *(Image: Google)*

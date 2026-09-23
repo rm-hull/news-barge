@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Halifax
+- Hebden Bridge
+people:
+- Sally Reckert
+organisations:
+- Bankfield Museum
+- British Tapestry Group
 ---
 
 *(Image: Supplied)*

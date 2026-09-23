@@ -11,6 +11,14 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Acomb
+- Fulford**
+- Tadcaster
+- York
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 A car burst into flames on the York outer ring road today (Monday).

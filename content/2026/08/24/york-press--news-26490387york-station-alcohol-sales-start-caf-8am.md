@@ -13,6 +13,24 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bishopthorpe Road
+- Clifton Moor Leisure Park
+- York Station
+people: []
+organisations:
+- Angel On The Green
+- Burger
+- Café Local
+- Castlegate
+- KFC
+- Mardens Caterers
+- Newsquest
+- Sheffield Ltd
+- Sloppy’s
+- York Council
+- York Select Service Partner Ltd
+- Yorkshire
 ---
 
 ## Booze sales could start at 8am in York Station under new plans

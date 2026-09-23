@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Great Britain
+- Iran
+people:
+- Clare Moriarty
+- Miatta Fahnbulleh
+- Paul Nowak
+- Simon Francis
+organisations:
+- Citizens Advice
+- End Fuel Poverty Coalition
+- Labour
+- Ofgem
+- TUC
 ---
 
 Millions of households in Great Britain will face the highest energy charges in three years this winter after months of soaring market prices caused the government’s price cap to rise for a second time in three months.

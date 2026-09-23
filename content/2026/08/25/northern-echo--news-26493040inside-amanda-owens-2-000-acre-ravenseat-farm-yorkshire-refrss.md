@@ -14,6 +14,44 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Bay
+- Britain
+- Coast to Coast
+- Cumbria
+- Keld
+- Kirkby Stephen
+- North Yorkshire
+- Our Yorkshire Farm
+- Pennines
+- Ravenseat Farm
+- Robin Hood
+- St Bees
+- Upper Swaledale
+- Whitsundale
+- Wild UK
+- Yorkshire Dales
+- Yorkshire Dales National Park
+people:
+- '## Ravenseat'
+- Amanda Owen
+- Anthony Clarkson
+- Anty John
+- Ben Fogle
+- Clive
+- Owens
+organisations:
+- Anty John's
+- Channel 4
+- Channel 5
+- Clive and Kids
+- ITV
+- National Park Authority
+- Our Yorkshire Farm Amanda
+- The Dales
+- Yorkshire Dales
+- Yorkshire Dales National Park
+- Yorkshire Dales National Park Authority
 ---
 
 For millions of viewers, the stone walls, windswept fields and surrounding moorland of Ravenseat Farm became almost as recognisable as the family who lived there.

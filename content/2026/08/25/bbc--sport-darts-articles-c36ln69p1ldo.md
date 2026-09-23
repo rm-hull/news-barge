@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- UK
+people:
+- Jermaine Wattimena
+- Luke Littler
+- Mario Vandenbogaerde
+organisations:
+- Instagram
+- Minehead
+- PC27
+- PDC
+- The Nuke
 ---
 
 ![Luke Littler at the World Matchplay](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7f7f/live/64a45140-a0ae-11f1-a54e-272d756c341e.jpg)

@@ -11,6 +11,24 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ddf5/live/436732
 categories:
 - UK
 - News & Politics
+locations:
+- Houston
+- Scotland
+- UK
+people:
+- '** Mair'
+- Ann
+- Jim Mair
+- John Swinney
+- Kirsten Oswald
+- Lynne Mackenzie
+- Lynne McKenzie
+- Mike Nellis
+- Sean Hunter
+- Stacy Hunter
+organisations:
+- Radio Scotland Mornings
+- University of Strathclyde
 ---
 
 ![A woman and man pictured on top of a hill, taking a selfie. The woman has long brown braided hair, the man has short fair hair, a beard and glasses](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/2486/live/beffe710-a155-11f1-92f3-2381193e5eb4.jpg)

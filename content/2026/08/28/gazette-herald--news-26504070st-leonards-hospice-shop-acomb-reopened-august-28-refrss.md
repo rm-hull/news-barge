@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Acomb
+- Alice Kavanagh
+- Clifton Moor
+- Colliergate
+- Grade I
+- Malton
+- North Yorkshire
+- Pocklington
+- Selby
+- St Leonard’s Hospice
+- YORK
+- York
+people:
+- Sarah Baldock
+organisations:
+- Acomb St Leonard
+- Alice Kavanagh
+- St Leonard
+- St Leonard’s Hospice
+- TLC
 ---
 
 A YORK charity shop which has served a suburb for 35 years has undergone a modern and fresh makeover.

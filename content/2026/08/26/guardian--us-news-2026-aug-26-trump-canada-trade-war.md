@@ -12,6 +12,24 @@ image: https://i.guim.co.uk/img/media/b47b4b64332e5886d782ebf3ea9f5cb14544c5a4/1
 categories:
 - UK
 - News & Politics
+locations:
+- Canada
+- China
+- Lake America
+- Lake Ontario
+- Maine
+- Switzerland
+- Toronto
+- US
+- United States of America
+people:
+- Donald Trump
+- Doug Ford
+- JD Vance
+- Lauren Aratani
+- Mark Carney
+- Rob
+organisations: []
 ---
 
 Earlier this year, a survey found that Canada, along with Switzerland, was the best-liked country in the world. We all know this kind of polling is about as scientific as a high school popularity contest, but at least anecdotally, Canadians have a reputation for being friendly and welcoming, respectful and polite. Many people would find it difficult to dislike Canadians.

@@ -14,6 +14,25 @@ categories:
 - Local
 - Harrogate
 - Society & Culture
+locations:
+- Community House
+- Harrogate
+- Ripon
+people:
+- Coun Chris Aldred
+- Coun Graham Dixon
+- Coun Viv Poskitt
+- Jo Thackray
+- Lizzie Hughes
+- Zoe Ingham
+organisations:
+- '## Harrogate Town Council'
+- Harrogate & District Community Action
+- Harrogate Town Council
+- P010
+- Power of 10 Project Co-ordinatorat HADCA
+- Ripon Youth Council
+- Town Council
 ---
 
 # Harrogate Town Council to support Harrogate & District Community Action in new volunteering project

@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Black
+- Collin County
+- Dallas
+- Frisco
+- Texas
+people:
+- Austin Metcalf
+- Bill Wirskye
+- Greg Willis
+- John Roach
+- Karmelo Anthony
+- Michael Chitty
+- Russell Wilson
+organisations:
+- Dallas TV
 ---
 
 The Texas teenager convicted of fatally stabbing a 17-year-old athlete at a high school track meet was denied a new trial on Saturday.

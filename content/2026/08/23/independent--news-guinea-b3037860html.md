@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Conakry
+- Dar Es Salam
+- Guinea
+people:
+- Baldé Mamadou Bailo
+- Dienabou Touré
+organisations: []
 ---
 
 A mountainous heap of refuse collapsed at the largest landfill in Guinea 's capital Conakry early Sunday killing 30 people, according to an updated toll released by the central government.

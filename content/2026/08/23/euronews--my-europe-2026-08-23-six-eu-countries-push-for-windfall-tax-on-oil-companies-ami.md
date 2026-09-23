@@ -14,6 +14,31 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Austria
+- Dublin
+- Germany
+- Iran
+- Ireland
+- Israel
+- Italy
+- Middle East
+- Poland
+- Portugal
+- Russia
+- Spain
+- Strait of Hormuz
+- US
+- Ukraine
+people:
+- Friedrich Merz
+- Lars Klingbeil
+organisations:
+- CDU
+- EU
+- Euronews
+- Klingbeil
+- SPD
 ---
 
 ## Citing surging profits amid the Middle East war, six EU countries, including Germany and Italy, want finance ministers to discuss the levy at next month’s meeting in Dublin.

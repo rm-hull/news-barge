@@ -14,6 +14,26 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Etihad Stadium
+- Gardermoen
+- Norway
+people:
+- David Beckham
+- Erling Haaland
+- Felicity
+- Keri Russell
+- Oasis’ Noel Gallagher
+- Pep Guardiola
+- Samson
+- Zlatan Ibrahimovic
+organisations:
+- Bournemouth
+- Manchester City
+- Oslo Airport
+- Trump
+- Viking
+- Vikings
 ---
 
 ## The Manchester City superstar has debuted a new look for the start of the Premier League season, and fans are divided. Zlatan Ibrahimovic told Haaland: “What did you do? You lost a bet or what? Block me and erase my number.”

@@ -15,6 +15,24 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Chicago
+- Houston
+- Los Angeles
+- Maine
+- Minneapolis
+- Nevada
+- U.S.
+people:
+- Catherine Cortez Masto
+- Cortez Masto
+- Donald Trump
+organisations:
+- Compliant Technologies LLC
+- Congress
+- Department of Homeland Security
+- ICE
+- U.S. Immigration and Customs Enforcement
 ---
 
 U.S. Immigration and Customs Enforcement has awarded a $16.7 million contract to purchase 6,000 pairs of gloves that can deliver painful electric shocks, saying officers would use them to control detainees and protesters who resist.

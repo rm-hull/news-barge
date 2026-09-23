@@ -11,6 +11,20 @@ image: https://i.guim.co.uk/img/media/bfb8c700f99c74433c5b3173e4f501f6e216a498/2
 categories:
 - UK
 - News & Politics
+locations:
+- Conakry
+- Gbessia
+- Guinea
+- Simandou
+- UK
+- West Africa
+people:
+- Amadou Oury Bah
+- Cire Diallo
+- Djénabou Touré Camara
+- God
+organisations:
+- World Bank
 ---
 
 A landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to collapse, engulfing nearby tents and shacks.

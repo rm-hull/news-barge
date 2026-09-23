@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Britain
+- Downing Street
+- France
+- Kremlin
+- Kryvyi Rih
+- Kyiv
+- London
+- Moscow
+- Portsmouth
+- Russia
+- UK
+- Ukraine
+people:
+- Andrei Kelin
+- Andy Burnham
+- Emmanuel Macron
+- Keir Starmer
+- Volodymyr Zelensky
+organisations:
+- BBC
+- Kyiv
+- MBDA
+- Scalp
+- Wildberries
 ---
 
 ![Andy Burnham and Volodymyr Zelensky walk next to each other at a naval base. Both men are dressed in black and have short, dark hair. Burnham is wearing glasses. Military personnel can be seen in the background.](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fb9a/live/545c7720-9ef8-11f1-aed4-af6fe65bfcd6.jpg)

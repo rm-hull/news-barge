@@ -13,6 +13,21 @@ categories:
 - Society & Culture
 - Self-Improvement
 - Arts & Culture
+locations:
+- Leeds Children Hospital
+- Leeds Children’s Hospital
+- Millie’s
+- Parent Kitchens
+- York
+people:
+- Ceri Wright
+- Jeanette
+- Millie
+- Nigel Wright
+organisations:
+- Leeds Children’s Hospital
+- Leeds Teaching Hospitals NHS Trust
+- The Millie Wright Children’s Charity
 ---
 
 A York children’s charity is marking an incredible five years of transforming the lives of families at Leeds Children’s Hospital.

@@ -13,6 +13,31 @@ categories:
 - Technology & Software
 - Science
 - Arts & Culture
+locations:
+- AI
+- California
+- Irvine
+- San Francisco
+- US
+people:
+- Ari Ezra Waldman
+- Sara Nelson
+- Seema Patel
+organisations:
+- AFA
+- AI
+- Anthropic
+- Association of Flight Attendants
+- College of the Law
+- GitHub
+- Google Drives—
+- Mercor
+- Microsoft Teams
+- OpenAI
+- Spirit Airlines
+- Spirit Airlines’
+- University of California
+- WIRED
 ---
 
 Spirit Airlines may have declared bankruptcy this spring, but the budget airline is still worth something—to AI giants, at least. In mid-August, Google won a $10 million bid to purchase some 34 years of the airline’s data, from invoices and flight operations information to Wi-Fi sales, employee records, and crew pairings.

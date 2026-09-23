@@ -12,6 +12,26 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- East Yorkshire
+- Harrogate
+- Kex Gill
+- Kex Gill A59
+- New Road
+- North Yorkshire
+- North of England
+- Skipton
+- YOUR
+- York
+people:
+- Lauren Luck
+- Malcolm Taylor
+- Malcom Taylor
+organisations:
+- A59
+- Kex Gill
+- North Yorkshire Council
+- Public Notice Portal
 ---
 
 ## New section of key North Yorkshire route opens to traffic today

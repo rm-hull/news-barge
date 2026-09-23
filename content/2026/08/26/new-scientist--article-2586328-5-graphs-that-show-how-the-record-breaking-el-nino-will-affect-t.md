@@ -13,6 +13,37 @@ categories:
 - Science
 - Technology & Software
 - Travel
+locations:
+- Atlantic
+- Australia
+- Borneo
+- Brazil
+- Central America
+- El Niño
+- India
+- Indonesia
+- La Niña
+- North America
+- Pacific Ocean
+- Paraguay
+- Paris
+- South America
+- South-East Asia
+- Southern California
+- UK
+- US
+- Uruguay
+- Walker
+people:
+- Nick Dunstone
+- Samantha Burgess
+organisations:
+- Copernicus Climate Change Service
+- El Niño
+- European Union
+- Met Office
+- UK Met Office
+- US National Oceanic and Atmospheric Administration
 ---
 
 ![An airplane drops water on a wildfire in the foothills of Southern California, with palm grees in the foreground](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309544625.jpg?w=840)

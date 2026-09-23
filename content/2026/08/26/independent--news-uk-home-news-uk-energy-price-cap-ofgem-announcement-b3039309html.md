@@ -12,6 +12,29 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- England
+- Europe
+- Iran
+- London
+- Middle East
+- Scotland
+- UK
+- Wales
+people:
+- Andy Burnham
+- Claire Coutinho
+- Donald Trump
+- Jonathan Marshall
+- Miatta Fahnbulleh
+- Neil Kenward
+organisations:
+- Cornwall Insight
+- Government
+- Labour
+- Ofgem
+- Resolution Foundation
+- Sky News
 ---
 
 Millions of households will face a winter squeeze from energy bills as price rises are set to hit the highest level in three years from October.

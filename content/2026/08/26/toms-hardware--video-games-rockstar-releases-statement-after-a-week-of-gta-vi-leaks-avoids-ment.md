@@ -12,6 +12,21 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Cyberleek
+- Jowi Morales
+- Leonidas
+- Tom
+organisations:
+- GTA VI
+- Google News
+- Grand Theft Auto VI
+- Jowi Morales
+- Microsoft
+- Netflix
+- Rockstar Games
+- Take-Two Interactive
 ---
 
 ![GTA VI logo](https://cdn.mos.cms.futurecdn.net/sfaR9E2WdYAZf7vQrVsrWT.png) 

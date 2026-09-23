@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Beechwood Nursing Home
+- Esplanade Road
+- NORTH Yorkshire
+- North Yorkshire
+- Scarborough
+people: []
+organisations:
+- CQC
+- Care Quality Commission
+- Google Maps
+- Newsquest
 ---
 
 ## Praise for ‘positive culture’ of North Yorkshire nursing home

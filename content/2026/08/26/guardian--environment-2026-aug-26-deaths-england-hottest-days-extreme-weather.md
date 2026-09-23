@@ -12,6 +12,42 @@ image: https://i.guim.co.uk/img/media/80cdf450de035b42b72ff06524d44fd77f045042/0
 categories:
 - UK
 - News & Politics
+locations:
+- England
+- Europe
+- London
+- North Sea
+- Pacific Ocean
+- UK
+- Wales
+people:
+- Amy Fairman
+- Andy Burnham
+- Asad Rehman
+- Bob Ward
+- Clair Barnes
+- Damian Carrington
+- Emma Howard Boyd
+- Gareth Redmond-King
+- James Tucker
+- Katie White
+- Millie Brown
+- ProfAndy Haines
+- Shruti Suresh Gareth Thomas
+organisations:
+- CCC
+- Centre for Ageing Better
+- Committee on Climate Change
+- Energy and Climate Intelligence Unit
+- Grantham Research Institute on Climate Change
+- Guardian
+- Imperial College London
+- London School of Economics
+- National Heat Risk Commission
+- ONS
+- Office for National Statistics
+- UK Health Security Agency
+- World Health Organization
 ---
 
 More than 40,000 extra people died on the hottest days in England between 1988 and 2025 than would be expected in normal temperatures, according to data published by the Office for National Statistics on Wednesday.

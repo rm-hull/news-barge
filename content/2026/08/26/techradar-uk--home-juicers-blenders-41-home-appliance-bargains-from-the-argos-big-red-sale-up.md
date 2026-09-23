@@ -11,6 +11,16 @@ image: https://cdn.mos.cms.futurecdn.net/PQLw5Q4aqJDx6SqLZuJ6ZN-2560-80.jpg
 categories:
 - Technology & Software
 - Food & Cooking
+locations: []
+people:
+- Ruth Hamilton
+organisations:
+- Argos
+- Google News
+- KitchenAid
+- Nutribullet
+- Ruth
+- TechRadar Homes
 ---
 
 ![Selection of home appliances in situ in the home](https://cdn.mos.cms.futurecdn.net/PQLw5Q4aqJDx6SqLZuJ6ZN.jpg) 

@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Ballroom Complex
+- Philadelphia
+- White House
+people:
+- Donald Trump
+- Larry Krasner
+- Philadelphia Larry Krasner
+- Todd Blanche
+organisations:
+- East Wing
+- East Wing Modernization Project
+- Fox News
+- Ipsos
+- NBC News
+- National Security
+- National Trust for Historic Preservation
+- Secret Service
+- Supreme Court
+- The Independent
+- The Washington Post
+- Truth Social
 ---
 
 Attorney General Todd Blanche has criticized Philadelphia District Attorney Larry Krasner after he said the White House ballroom, currently under construction, would eventually be blown up.

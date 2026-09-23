@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- York
+people:
+- Christopher Norton
+- Selby
+organisations:
+- Crimestoppers
+- North Yorkshire Police
+- North Yorkshire Police)* Police
 ---
 
 *(Image: North Yorkshire Police)*

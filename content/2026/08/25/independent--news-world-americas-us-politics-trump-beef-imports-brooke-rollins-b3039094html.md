@@ -11,6 +11,30 @@ image: https://static.independent.co.uk/2026/08/25/19/2026-08-25T170807Z_1130055
 categories:
 - News & Politics
 - UK
+locations:
+- Argentina
+- Arizona
+- Canada
+- Iran
+- Montana
+- New World
+- U.S.
+- White House
+people:
+- Brooke Rollins
+- Derrell Peel
+- Jamieson Greer
+- Tim Sheehy
+- Trump
+- Zippy Duvall
+organisations:
+- American Farm Bureau Federation
+- Associated Press
+- Bureau of Labor Statistics
+- Oklahoma State University
+- The Independent
+- Trump
+- Truth Social
 ---
 
 Secretary of Agriculture Brooke Rollins has refused to say which countries the Trump administration is relying on for its plan to temporarily surge beef imports into the U.S. to ease consumer prices.

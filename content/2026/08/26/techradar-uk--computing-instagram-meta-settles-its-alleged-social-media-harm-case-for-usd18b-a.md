@@ -12,6 +12,31 @@ image: https://cdn.mos.cms.futurecdn.net/iiobK7D8pysDnhkkAGDsgH-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Reels
+- TikTok
+- US States
+people:
+- Adam Mosseri
+- Dempsey
+- Lance Ulanoff
+- Mark Zuckerberg
+- Meta
+organisations:
+- BBC
+- CNBC
+- CNN
+- Good Morning America
+- Google News
+- Instagram
+- Kelly and Mark
+- Lance
+- Lifewire
+- Mashable
+- Medium
+- Meta
+- Today Show
+- Ziff Davis, Inc
 ---
 
 ![Silhouette of smartphone with Facebook, Messenger, WhatsApp, Instagram, Oculus apps and blurred META logo on background](https://cdn.mos.cms.futurecdn.net/iiobK7D8pysDnhkkAGDsgH.jpg) 

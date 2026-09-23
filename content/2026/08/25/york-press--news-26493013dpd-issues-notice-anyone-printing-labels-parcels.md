@@ -13,6 +13,10 @@ categories:
 - York
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- DPD
 ---
 
 *(Image: Getty Images)*

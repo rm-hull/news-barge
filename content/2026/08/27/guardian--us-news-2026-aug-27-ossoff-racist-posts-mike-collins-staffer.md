@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Georgia
+- US
+- Washington DC
+people:
+- David Alan Scheer II
+- Debbie Dooley
+- Jon Ossoff
+- Ku Klux Klan
+- Meyer Siegfried
+- Mike Collins
+- Mike Collins’
+- Preston Parra
+organisations:
+- CNN
+- Confederate
+- Federal Election Commission
+- GOP
+- KKK
+- Patriot Front
+- Senate
+- Tea Party
+- Washington Post
 ---
 
 The US senator for Georgia Jon Ossoff, a Democrat, has slammed a “disgraceful and disqualifying” report that a former staffer for his Trump-backed Republican challenger Mike Collins shared images online of a swastika and depicting himself in Ku Klux Klan robes.

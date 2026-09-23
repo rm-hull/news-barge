@@ -14,6 +14,20 @@ categories:
 - Bradford
 - News & Politics
 - Science
+locations:
+- Harrogate
+- Padside
+- UK
+people:
+- Alistair MacDonald KC
+- Geoffrey Crossland
+- Sean Morris
+- Stephen Wood KC
+organisations:
+- Minstry of Defence
+- North Yorkshire Police
+- Recorder of York
+- York Crown Court
 ---
 
 *(Image: North Yorkshire Police)*

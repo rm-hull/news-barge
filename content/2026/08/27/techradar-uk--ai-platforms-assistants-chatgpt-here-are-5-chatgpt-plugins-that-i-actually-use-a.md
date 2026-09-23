@@ -9,6 +9,21 @@ description: ChatGPT’s plugin directory is growing, and these are my favorites
 image: https://cdn.mos.cms.futurecdn.net/TpMDb544qbMe84XyqqCADh-1920-80.png
 categories:
 - Technology & Software
+locations:
+- New York
+- New York City
+people:
+- ChatGPT
+- Eric Hal Schwartz
+organisations:
+- ChatGPT
+- Google Gemini
+- Google News
+- OpenAI
+- Spotify
+- TechRadar
+- Todoist
+- Voicebot.ai
 ---
 
 ![Spotify ChatGPT](https://cdn.mos.cms.futurecdn.net/TpMDb544qbMe84XyqqCADh.png) 

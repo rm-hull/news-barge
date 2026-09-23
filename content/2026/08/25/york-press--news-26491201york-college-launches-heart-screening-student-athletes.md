@@ -12,6 +12,23 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Portugal
+- UK
+people:
+- Emma Palmer
+- Faye Singleton
+- Jaden Ncube
+- Quevin Castro
+organisations:
+- '## York College'
+- CardioLogic Diagnostics
+- QT Medical
+- Talented Athlete Scholarship Scheme
+- York City
+- York City Women
+- York College
+- York College & University Centre
 ---
 
 ## York College becomes first in UK to offer free heart screening to athletes

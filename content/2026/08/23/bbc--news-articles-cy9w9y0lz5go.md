@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Birmingham New Street
+- Britain
+- Cambridge
+- Cardiff
+- Cheltenham
+- Coventry
+- Edinburgh
+- Glasgow
+- Great Western Railway
+- Leeds
+- Manchester
+- Penzance
+- Peterborough
+- Plymouth
+- Stansted Airport
+- Stoke-on-Trent
+- UK
+- West Midlands Metro
+- Wolverhampton
+- York
+people: []
+organisations:
+- '## Peterborough'
+- CrossCountry
+- London Underground
+- National Rail
+- Stansted service Services
 ---
 
 ![A red and white train is parked on railway tracks next to a train station.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/2055/live/eb901e80-9ec6-11f1-a815-1fffefa318e5.jpg)

@@ -13,6 +13,21 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Istanbul
+- Riyadh
+- US
+- Utah
+people:
+- Charlie Kirk
+- Donald Trump
+- Jamal Khashoggi
+- Jeff Bezos
+- Karen Attiah
+organisations:
+- Amazon
+- The Washington Post
+- United Nations
 ---
 
 ## Karen Attiah wrote on social media after the right-wing influencer's assassination that she would not display sadness and shared the activist's past racist comments about Black women.

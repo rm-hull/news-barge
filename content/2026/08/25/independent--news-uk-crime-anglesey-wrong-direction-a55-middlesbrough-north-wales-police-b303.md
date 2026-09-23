@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Automotive
+locations:
+- A55 North Wales Expressway
+- A66
+- Anglesey
+- Cleveland
+- Holyhead
+- Middlesbrough
+- North Wales
+- Scotland
+- South Bank
+- Teeside
+people:
+- Angelsey
+- Cole Worthy
+- Jakub Matusiak
+- Makai Saddington
+- Martin Williams
+- Matthew Blades
+- Michael Robert Cahill
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- Cleveland Police
+- Facebook
+- North Wales Police
+- Royal Air Force
+- The Independent
+- TikTok
 ---
 
 The horrifying moment a taxi was caught driving on the wrong side of a busy dual carriageway has been caught on camera by a motorist who said he could have been killed.

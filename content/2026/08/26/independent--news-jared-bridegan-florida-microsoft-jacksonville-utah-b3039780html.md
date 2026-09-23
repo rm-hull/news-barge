@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Bridegan
+- Florida
+- Jacksonville Beach
+- Utah
+- Washington
+people:
+- Christina Stifler
+- Fernandez Saldana
+- Henry Tenon
+- Jared Bridegan
+- Jesse Dreicer
+- Kirsten Bridegan
+- Mario Fernandez Saldana
+- Shanna Gardner
+organisations:
+- Fernandez Saldana
+- Microsoft
+- Stampin’ Up!
+- Tenon
 ---
 
 A Florida jury began deliberations Wednesday in the shooting of a Microsoft design manager who was gunned down in what prosecutors allege was a murder-for-hire scheme hatched by his wealthy ex-wife and her husband.

@@ -11,6 +11,31 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/airbound-drone.jpg?resi
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Airbound
+- Andhra Pradesh
+- Banashankari
+- Bengaluru
+- Guntur
+- Narayana
+- Pushp
+people:
+- Naman Pushp
+- Narayana
+organisations:
+- Airbound
+- Boeing
+- DoorDash
+- Garuda Aerospace
+- Greenoaks
+- Humba Ventures
+- Lachy Groom
+- Lightspeed
+- Narayana Health
+- Skye Air Mobility
+- TRT
+- TSAW Drones
+- TechCrunch
 ---
 
 Airbound, an Indian startup building autonomous drones, has raised $37 million in fresh capital as it pushes to make moving goods through the air as cheap as trucking them by road.

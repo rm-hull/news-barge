@@ -13,6 +13,55 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Baltic Sea
+- Belarus
+- Britain
+- Croatia
+- Donetsk
+- France
+- Germany
+- Hollywood
+- Kremlin
+- Kyiv
+- London
+- Moscow
+- Nord Stream
+- Norway
+- Norway.
+- Pula
+- Russia
+- Russian Federation
+- UK
+- US
+- Ukraine
+- jonasgahrstore
+people:
+- '## Zelensky'
+- Andrey Kelin
+- Andy Burnham
+- Donald Trump
+- Jonas Gahr Støre
+- Mike Pence
+- Mykhailo Fedorov
+- Owen Matthews
+- Vladimir Putin
+- Volodymyr Zelenksky
+- Volodymyr Zelensky
+- Volodymyr Zhuravlev
+- Yaroslav the Wise
+organisations:
+- '## Zelensky'
+- CNN
+- Kyiv
+- Nato
+- Nord Stream
+- Patriots
+- Pence
+- SAMP
+- The Telegraph
+- UK Andrei Kelin
+- VP
 ---
 
 Ukraine’s president Volodymyr Zelensky has warned that Vladimir Putin intends to draft 300,000 new troops to join the war from next month in a bid to seize territory.

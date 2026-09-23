@@ -12,6 +12,42 @@ image: https://images.euronews.com/articles/stories/09/88/94/95/1200x675_cmsv2_9
 categories:
 - Europe
 - News & Politics
+locations:
+- Belgium
+- Bihucourt
+- Denmark
+- EBM-Papst
+- Europe
+- France
+- Germany
+- Halle Airport
+- Hamilton
+- Hollenbach
+- Kabul
+- Kalimantan Island
+- Khor Fakkan
+- Leipzig
+- Limfjord
+- Odesa
+- Ont
+- Paris
+- Pedro Sanchez
+- Republic Square
+- Roskilde
+- Strait of Hormuz
+- Sumatra
+- UAE
+- Ukraine
+- Ulaanbaatar
+- Verzeille
+- Yerevan
+people: []
+organisations:
+- ArcelorMittal Dofasco
+- Eiffel Tower
+- Euronews
+- Nikol Pashinian
+- Vikings
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

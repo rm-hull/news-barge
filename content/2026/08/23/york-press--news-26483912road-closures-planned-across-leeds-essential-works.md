@@ -12,6 +12,47 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- Bachelor Lane
+- Bankfield Grove
+- Bardsey
+- Bridge Foot
+- Burley Road
+- Burley Wood Lane
+- Church Avenue
+- Dock Street
+- Elland Road
+- Great Wilson Street
+- Greenfold Lane
+- Headingley
+- High Street
+- Holbeck
+- Horsforth
+- Kirkstall Hill
+- Leeds
+- Lister Hill
+- Long Row
+- Lowfields Road
+- Manor Avenue
+- Manor Drive
+- Meadow Lane
+- Meadow Road
+- North Broadgate Lane
+- Raven Road
+- Richmond Avenue
+- Rothwell
+- Victoria Street
+- Wetherby
+- Woodside View
+- YOUR
+people: []
+organisations:
+- Bankfield Grove
+- Haigh Side Close
+- Leeds City Council
+- Leeds United
+- Public Notice Portal
+- Yorkshire Water CSO Enhancement Scheme
 ---
 
 *(Image: Supplied)*

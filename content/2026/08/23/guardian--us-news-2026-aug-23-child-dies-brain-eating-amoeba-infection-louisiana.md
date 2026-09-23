@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Arkansas
+- Lake Claiborne
+- Little Rock
+- Louisiana
+- Ruston
+- US
+people:
+- Jesus
+- Lillian Smart
+organisations:
+- CDC
+- Centers for Disease Control and Prevention
+- Facebook
+- KNOE
+- Reuters
 ---
 
 An eight-year-old Louisiana girl has died after contracting a rare, typically fatal brain-eating amoeba after a swim in Lake Claiborne.

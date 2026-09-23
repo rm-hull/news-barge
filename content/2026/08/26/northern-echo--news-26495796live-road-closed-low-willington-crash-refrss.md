@@ -13,6 +13,13 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- Commercial Street
+- Low Willington
+people:
+- Anna Barnes
+organisations:
+- Northern Echo
 ---
 
 - Good morning, welcome to this Northern Echo live breaking news blog.

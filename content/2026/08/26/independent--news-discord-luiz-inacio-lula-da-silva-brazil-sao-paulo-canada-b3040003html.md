@@ -15,6 +15,24 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Australia
+- Brazil
+- Canada
+- Indonesia
+- Latin America
+- Nevada
+- New Jersey
+- Texas
+- U.S.
+people:
+- Janja
+- Luiz Inácio Lula da Silva
+- Rosângela Lula da Silva
+organisations:
+- Discord
+- Supreme Court
+- The Associated Press
 ---
 
 Brazil's government said on Wednesday it filed a lawsuit in a federal court against Discord, the popular platform for gamers to communicate online, seeking damages of 500 million reais (about $97 million) for the company's alleged failure to protect children online.

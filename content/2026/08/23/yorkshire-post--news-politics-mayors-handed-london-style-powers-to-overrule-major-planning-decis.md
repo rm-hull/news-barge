@@ -16,6 +16,30 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - News & Politics
+locations:
+- Bradford
+- Calderdale
+- Elizabeth
+- Leeds
+- London
+- Oliver Coppard
+- Pennines
+- South Yorkshire
+- Walshaw Moor
+- West Yorkshire
+- Whitestone Solar Farm
+- Wuthering Heights
+- York
+people:
+- Andy Burnham
+- Angela Rayner
+- Sadiq Khan
+- Tracy Brabin
+organisations:
+- Leeds
+- Northern Powerhouse Rail
+- The Sunday Times
+- Yorkshire
 ---
 
 # Yorkshire mayors to be handed London-style powers to overrule major planning decisions

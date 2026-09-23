@@ -14,6 +14,17 @@ categories:
 - York
 - Home, Garden & DIY
 - Lifestyle & Fashion
+locations:
+- Grange Park Road
+- Harrogate
+- Ripon
+- Thirsk
+people: []
+organisations:
+- A1
+- A19
+- Linley & Simpson
+- Ripon Grammar School
 ---
 
 A four-bedroom bungalow with a summer house and large garden space has been placed on the market for £700,000.

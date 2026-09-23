@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- Anglesey
+- Carrbridge
+- Glaslyn
+- Penrhyndeudraeth
+- Porthmadog
+- Scotland
+- UK
+- Wales
+- West Africa
+people:
+- An Osprey
+- Darren Moore
+- Sion Emlyn Davies
+organisations:
+- Macs Green
+- Ospreys
 ---
 
 ![An Osprey stood on grass stares down the camera lens. It's stood on long-ish green grass. The Osprey is a mix of shades of brown. It's a sunny day.](https://ichef.bbci.co.uk/ace/standard/533/cpsprodpb/130c/live/ef41fea0-a055-11f1-94bd-930e18756ae0.jpg)

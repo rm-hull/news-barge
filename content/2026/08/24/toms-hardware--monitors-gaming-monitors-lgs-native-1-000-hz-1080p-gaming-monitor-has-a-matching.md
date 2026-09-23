@@ -11,6 +11,26 @@ image: https://cdn.mos.cms.futurecdn.net/8iEjwB6NJKu3YnCFhn6Q8c-1198-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- NC
+people:
+- Brandon Hill
+organisations:
+- AMD FreeSync Premium
+- ANT275PQ MAX
+- Amazon
+- AnandTech
+- DFR
+- DailyTech
+- Get Tom's Hardware
+- Hot Hardware
+- LG
+- LOL.Geef
+- Mac
+- MyLG
+- Nvidia G-Sync
+- PC
+- Tom's Hardware
 ---
 
 ![LG Ultragear 25G590B](https://cdn.mos.cms.futurecdn.net/8iEjwB6NJKu3YnCFhn6Q8c.jpg) 

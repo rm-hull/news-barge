@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Calderdale
+- Halifax
+people:
+- Lee
+organisations:
+- Help West Yorkshire Police
+- West Yorkshire Police
+- West Yorkshire Police)* Police
 ---
 
 *(Image: West Yorkshire Police)*

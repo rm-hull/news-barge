@@ -11,6 +11,18 @@ image: https://cdn.mos.cms.futurecdn.net/cexYk4Ga5StcDvokkvMvqC-320-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- China
+- Hunan Province
+- U.S.
+people: []
+organisations:
+- AI
+- GPU
+- NitroGen
+- Nvidia
+- SoftBank
+- Warp Drives
 ---
 
 ![the Honor Lightning running at the 2026 World Humanoid Robot Games](https://cdn.mos.cms.futurecdn.net/cexYk4Ga5StcDvokkvMvqC-320-80.jpg)

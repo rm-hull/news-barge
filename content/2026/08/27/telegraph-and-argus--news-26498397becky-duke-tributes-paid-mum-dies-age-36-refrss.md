@@ -14,6 +14,22 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford
+- Georgia
+- Halifax Road
+- Sepsis
+people:
+- Becky Duke
+- Damian
+- Damien Godward
+- Ella
+- Georgia Conway
+- Michael Jackson
+organisations:
+- ICU
+- Tong High School
+- UGC
 ---
 
 *(Image: UGC)*

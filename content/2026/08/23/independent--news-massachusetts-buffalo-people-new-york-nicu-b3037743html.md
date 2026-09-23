@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- BryLin Hospital
+- Buffalo
+- Chesterton
+- Massachusetts
+- New York
+- U.S.
+people:
+- Bridget María Chesterton
+- Emily Williams
+- James Fitzsimmons
+- Lindsay Clancy
+- Maria Chesterton
+organisations:
+- AP
+- Associated Press Health and Science Department
+- Buffalo OB
+- Department of Science Education
+- GYN
+- Howard Hughes Medical Institute
+- NICU
+- Robert Wood Johnson Foundation
+- The Associated Press
 ---
 
 About two weeks after giving birth, Bridget María Chesterton was curled up on the bathroom floor, saying things that made little sense. Later, in the emergency room, she kept repeating, “What’s going on?” She’d lost touch with reality.

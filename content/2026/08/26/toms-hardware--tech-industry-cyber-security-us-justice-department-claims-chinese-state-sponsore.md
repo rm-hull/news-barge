@@ -13,6 +13,33 @@ categories:
 - Technology & Software
 - Hardware
 - News & Politics
+locations:
+- People's Republic of China
+- U.S.
+people:
+- Tom
+organisations:
+- Department of Energy
+- Department of Health and Human Services
+- Department of Justice
+- FBI
+- Federal Reserve
+- Get Tom's Hardware
+- Google News
+- Hostwinds
+- Justice Department
+- Ministry of State Security
+- NASA
+- NIH
+- Namecheap
+- Nanjing Xinjiuwei Network Technology Company
+- PRC
+- PayPal
+- QTFY
+- QTRouter
+- Tom’s Hardware
+- U.S. Department of Justice
+- U.S. Senate
 ---
 
 ![China chips](https://cdn.mos.cms.futurecdn.net/CmM2jsgtAUNEHVoV48L8rh.jpg) 

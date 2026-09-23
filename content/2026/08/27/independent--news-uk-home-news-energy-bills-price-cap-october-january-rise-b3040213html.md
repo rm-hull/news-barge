@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Russia
+- Strait of Hormuz
+- Ukraine
+people:
+- Andy Burnham
+- Keir Starmer
+- Miatta Fahnbulleh
+organisations:
+- Cornwall Insight
+- Ofgem
+- Resolution Foundation
 ---
 
 Households face another sharp rise in energy costs in the new year, experts have warned, forecasting an increase of more than £200 above the current level.

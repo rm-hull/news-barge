@@ -17,6 +17,20 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- Afghanistan
+- Aire Valley
+- Britain
+people:
+- Andy Brown
+- Burnham
+- James Manning
+- Kemi Badenoch
+- Putin
+- Salisbury
+- Shamima Begum
+organisations:
+- Labour
 ---
 
 # The Government cannot magic up new prison places in a couple of weeks - Andy Brown

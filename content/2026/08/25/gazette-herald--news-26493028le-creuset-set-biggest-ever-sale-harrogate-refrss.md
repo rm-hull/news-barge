@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- A64
+- England
+- Great Yorkshire Events Centre
+- Harrogate
+- North Yorkshire
+- UK
+- York
+people:
+- David Cotsworth
+organisations:
+- Le Creuset
 ---
 
 A POPULAR cookware company Le Creuset says it will host its ‘biggest sale ever’ in North Yorkshire next month.

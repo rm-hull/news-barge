@@ -12,6 +12,18 @@ image: https://cdn.mos.cms.futurecdn.net/LfGnosZK78tzKzucc8sW2h-2560-80.jpg
 categories:
 - Technology & Software
 - Health & Fitness
+locations:
+- Amazon
+- Cardiff
+people:
+- Matt Evans
+organisations:
+- Men's Health
+- Runner's World
+- Shokz OpenFit
+- Shokz OpenFit Air
+- Shokz OpenRun
+- TechRadar
 ---
 
 ![A side view of a male wearing the Shokz OpenFit Air headphones](https://cdn.mos.cms.futurecdn.net/LfGnosZK78tzKzucc8sW2h.jpg) 

@@ -15,6 +15,25 @@ categories:
 - Hardware
 - News & Politics
 - Society & Culture
+locations:
+- AI
+- China
+- Georgia
+- Oregon
+- Pennsylvania
+- U.S.
+- Wyoming
+people:
+- Andy Masley
+- Donald Trump
+- Jowi Morales
+- Tom
+organisations:
+- AI
+- Google News
+- Jowi Morales
+- PGE
+- PJM Interconnection
 ---
 
 ![A 'No Data Center!' sign at a protest](https://cdn.mos.cms.futurecdn.net/ZJHe5GD6PvvVnP72E7Miu5.png) 

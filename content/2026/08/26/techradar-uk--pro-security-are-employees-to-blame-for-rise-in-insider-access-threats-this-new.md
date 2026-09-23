@@ -12,6 +12,19 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bosnia and Herzegovina
+- Flashpoint
+- Sarajevo
+people:
+- Coinbase
+- Sead
+organisations:
+- Al Jazeera Balkans
+- Flashpoint
+- Google News
+- Represent Communications
+- TechRadar Pro
 ---
 
 ![Security padlock and circuit board to protect data](https://cdn.mos.cms.futurecdn.net/Dtd9CSn6K6jfEdpnzch4zj.jpg) 

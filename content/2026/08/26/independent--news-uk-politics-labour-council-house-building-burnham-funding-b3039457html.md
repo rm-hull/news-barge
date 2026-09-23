@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations: []
+people:
+- Andy Burnham
+- Gideon Amos
+- James Cleverly
+- Sarah Elliott
+organisations:
+- Cambridge
+- Clarion
+- Councils
+- Eastleigh
+- Homes England
+- Labour
+- Liberal Democrat Housing
+- MHCLG
+- Newcastle
+- Orbit
+- Places for People
+- Right to Buy
+- SAHP
+- Shelter
+- Spending Review
+- The Independent
 ---
 
 Just 4 per cent of homes built as part of Labour’s £10bn pledge to kickstart a “historic council housebuilding comeback” will be built by local authorities,*The Independent* can reveal.

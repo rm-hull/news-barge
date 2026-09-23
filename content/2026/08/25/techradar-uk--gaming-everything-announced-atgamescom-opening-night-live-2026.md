@@ -11,6 +11,29 @@ categories:
 - Technology & Software
 - Video Gaming
 - Sports
+locations:
+- Amsterdam
+- Roco Kingdom
+- UK
+people:
+- Ananta
+- Daenerys
+- Dashiell Wood
+- Jon Snow
+- Snoop Dogg
+organisations:
+- Cinder City
+- Crimson Desert Enhanced
+- Dash
+- Edge
+- Google News
+- Hoyoverse
+- Official PlayStation Magazine UK
+- PC Gamer
+- PLAY
+- Paradox Interactive
+- SFX
+- TechRadar
 ---
 
 ![Gamescom 2026](https://cdn.mos.cms.futurecdn.net/2thWLsYKojL53QHbwm7yr3.jpg) 

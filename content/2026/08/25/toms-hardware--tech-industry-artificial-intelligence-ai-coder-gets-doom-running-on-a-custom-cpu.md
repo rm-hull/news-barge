@@ -12,6 +12,18 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Angel
+- Mark Tyson
+- Tom
+organisations:
+- Angel (@Angaisb
+- CPU
+- GPT-5.6 Sol
+- GPU
+- Google News
+- Tom's Hardware
 ---
 
 ![Doom on an AI-designed CPU](https://cdn.mos.cms.futurecdn.net/m8WeqAwVHW4DJ8AykHcvTk.jpg) 

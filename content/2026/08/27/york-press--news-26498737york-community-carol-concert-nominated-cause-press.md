@@ -12,6 +12,36 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- UK York
+- York Barbican
+people:
+- Adam Tomlinson
+- Alexandra Mather
+- Andrew Foster
+- Ben Hardy
+- Mike Pratt
+- Simon Holmes
+- Steve Cassidy
+organisations:
+- '## The Press'
+- Age UK York
+- Anna Mehta Photography
+- Christmas Cheer Fund
+- Community Carol Concert
+- Copmanthorpe Primary School Choir
+- Gazette & Herald
+- Huntington School Big Sing Choir
+- Sheriff of York
+- The Lord Mayor
+- The Press
+- The Press for York
+- The York Press
+- UK York
+- York Barbican
+- York Community Carol Concert
+- York Community Carol Concert York
+- York RI Golden Rail Band
 ---
 
 ## The Press announces its nominated charity for York Community Carol Concert

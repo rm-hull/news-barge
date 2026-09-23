@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Arngrove House
+- Frederick Street
+- Sunderland
+- Sunniside
+- YOUR
+people: []
+organisations:
+- CCTV
+- Nova Co-Living
+- Public Notice Portal
 ---
 
 *(Image: Nova Co-Living)*

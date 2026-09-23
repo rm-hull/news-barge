@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Church Street
+- Louisiana
+- New Orleans
+- UK
+- York
+- Yorkshire
+people:
+- Tom Crowley
+organisations:
+- Popeyes UK
 ---
 
 ## Global fast food chain reveals plans for York city centre restaurant

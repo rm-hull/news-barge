@@ -14,6 +14,16 @@ categories:
 - York
 - Automotive
 - Technology & Software
+locations:
+- Carrgate
+- Denby Dale Road
+- Durkar
+- Leeds
+- M1
+- Ossett
+- Wakefield Road
+people: []
+organisations: []
 ---
 
 # ‘Animals on road’ shuts M1 motorway with rush-hour delays

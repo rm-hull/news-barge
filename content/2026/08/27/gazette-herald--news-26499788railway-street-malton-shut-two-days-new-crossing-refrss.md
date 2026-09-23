@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Keane Duncan
+- Malton
+- North Yorkshire
+- Norton Road
+- Railway Street
+people:
+- Keane Duncan
+- Norton
+organisations:
+- North Yorkshire Council
 ---
 
 *(Image: Keane Duncan)*

@@ -14,6 +14,18 @@ categories:
 - York
 - Health & Fitness
 - Pets & Animals
+locations:
+- Bedale
+people:
+- Lizzie McLennan Green
+organisations:
+- Bedale
+- CVS Vets
+- Forrest House Veterinary Centre
+- Healthy Pet Club Advanced
+- Nico Russell
+- RSPCA
+- YouGov
 ---
 
 *(Image: Nico Russell)*

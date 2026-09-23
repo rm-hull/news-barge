@@ -11,6 +11,13 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Acorn Way
+- York
+people: []
+organisations:
+- North Yorkshire Police
+- Via
 ---
 
 Do you know this man?

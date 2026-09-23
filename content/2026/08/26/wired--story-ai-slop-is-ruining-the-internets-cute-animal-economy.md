@@ -13,6 +13,28 @@ categories:
 - Technology & Software
 - Science
 - Pets & Animals
+locations:
+- Arizona
+- Brooklyn
+- Butler
+- California
+- Los Angeles
+people:
+- Eva von Jagow
+- Jeff Sebo
+- Mibbby Butler
+- Oscar Horta
+- Victoria de Martigny
+organisations:
+- Center for Mind, Ethics, and Policy at New York University
+- ChatGPT
+- EU
+- Gemini
+- Instagram
+- Meta AI
+- WIRED
+- We Animals
+- We Animals’
 ---
 
 AI-generated videos and pictures are destroying one of the largest and most enduring sources of joy and compassion on the internet: animals. Whether the imagery features sailors rescuing a polar bear, baby cows separated from their mothers, or a lost pet that was miraculously found, many people have reached the point where they can’t take the creatures on their feeds at face value anymore. The explosion of deepfakes and AI slop over the past few years has led to widespread frustration among viewers, creators, and organizations that support animals, forcing everyone to hunt in the pixels for glitches or other telltale signs of AI.

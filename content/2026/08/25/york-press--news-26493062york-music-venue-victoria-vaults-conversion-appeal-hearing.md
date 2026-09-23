@@ -12,6 +12,37 @@ categories:
 - Local
 - York
 - Music
+locations:
+- Micklegate
+- Murton
+- Nunnery Lane
+- Victoria Vaults
+- YOUR
+- York
+people:
+- Barry Crux
+- Clem Burke
+- Cllr Crawshaw
+- Cllr Lomas
+- Jonny Crawshaw
+- Katie Lomas
+- Nabeel Hanif
+- Nick Love
+- Pete Kilbane
+organisations:
+- ACV
+- Bez
+- Blondie
+- City of York Council
+- LDRS
+- Labour
+- Micklegate
+- Murton Arms
+- Planning Inspectorate
+- Public Notice Portal
+- Victoria Vaults
+- York CAMRA
+- York’s Campaign for Real Ale
 ---
 
 ## Blocking of empty York live music venue conversion goes to hearing

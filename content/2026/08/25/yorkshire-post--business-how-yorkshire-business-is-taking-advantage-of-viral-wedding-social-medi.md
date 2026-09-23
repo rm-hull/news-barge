@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- How Yorkshire
+- Northallerton
+- UK
+people:
+- Claire Edwards
+- India Miller
+- Jamie Keeble
+organisations:
+- HECK!
+- Instagram
+- Thief Hall
+- TikTok
 ---
 
 # How Yorkshire business is taking advantage of viral wedding social media trend

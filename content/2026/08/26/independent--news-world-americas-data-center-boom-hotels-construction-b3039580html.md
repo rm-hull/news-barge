@@ -14,6 +14,27 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Austin
+- Florida
+- Grande Lakes Orlando Resort
+- New York City
+- Ritz Carlton Central Park South
+- Texas
+- U.S
+- U.S.
+people:
+- Drew Bridges
+- Jan Freitag
+organisations:
+- CoStar
+- Hilton Garden Inn
+- JLL Research
+- JMI Realty
+- MSCI
+- Tripadvisor
+- Wall Street Journal
+- Yelp
 ---
 
 The rise and rise of data centers is having an unexpected consequence for the U.S. real estate sector – driving up the acquisition of crumbling hotels by ambitious developers prepared to renovate and upgrade them, according to a report.

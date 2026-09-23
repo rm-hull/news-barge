@@ -12,6 +12,45 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Cleveland
+- Darlington
+- Hemlington
+- Lime Road
+- Middlesbrough
+- Redcar
+- Ridley Street
+- South Bank
+- Teesside
+people:
+- Cole Robert Worthy
+- Jacob Matusiak
+- Makai Saddington
+- Matthew Blades
+- Matty
+- Michael Robert Cahill
+- PC Blades
+- PC Blades'
+- PC Clough
+- Theo Rae
+- Theo Ray
+- Tom Clough
+- Wayne Fox
+organisations:
+- A66
+- BBC Sounds
+- BBC Verify
+- Blades
+- Carmel College
+- Cleveland Council
+- Cleveland Police
+- Cleveland Police Federation
+- IOPC
+- Independent Office for Police Conduct
+- Lucozade
+- PCs Clough
+- The Volvo
+- TikTok
 ---
 
 ![Pictures of the two officers. Both are smiling. PC Blades, left, has stubble and short fair hair. PC Clough also has stubble and short dark hair.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png)

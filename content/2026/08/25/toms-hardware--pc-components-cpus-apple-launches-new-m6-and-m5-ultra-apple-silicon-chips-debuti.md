@@ -11,6 +11,32 @@ image: https://cdn.mos.cms.futurecdn.net/awQhYwcxqWeJ2qNoApRNy3-1960-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Kotaku
+- M6
+- Tahoe
+people:
+- Andrew E. Freedman
+- Tom
+organisations:
+- Apple
+- Bluetooth 6
+- GPU
+- Get Tom's Hardware
+- Golden Gate
+- Google News
+- LM Studio
+- Laptop Mag
+- Liquid Glass
+- M5 Ultra
+- M6
+- Mac Mini
+- Mac Studio
+- PCMag and Complex
+- Siri AI
+- Thunderbolt 5
+- Tom's Guide
+- Tom's Hardware
 ---
 
 ![M6 M5 Ultra](https://cdn.mos.cms.futurecdn.net/awQhYwcxqWeJ2qNoApRNy3.jpg) 

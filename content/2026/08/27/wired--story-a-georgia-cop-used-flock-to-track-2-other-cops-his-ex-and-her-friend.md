@@ -13,6 +13,22 @@ categories:
 - Technology & Software
 - Science
 - True Crime
+locations:
+- Alpharetta
+- Georgia
+- Snapchat
+people:
+- Dustin Bozzo
+- Flock
+- Jabbar Braithwaite
+- Jason Hiott
+- Patrolman Bozzo
+- Trent Lindgren
+organisations:
+- Alpharetta Police Department
+- Criminal Investigations Division
+- Flock Safety
+- WIRED
 ---
 
 In recent months, there has been a surge in reports of police officers misusing automatic license plate readers (ALPRs) sold by Flock Safety to stalk former romantic partners—but details about these incidents are often scarce.

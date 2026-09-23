@@ -11,6 +11,30 @@ image: https://static.independent.co.uk/2026/08/17/18/6a3f29a3616d5606b7cc9d992c
 categories:
 - News & Politics
 - UK
+locations:
+- Charing Cross
+- Cumbria
+- Earl’s Court
+- London
+- Oxford Street
+- Sutton
+people:
+- Amanda Rowe
+- Carl Galvin
+- Luke Ponte
+- Pc Hunter
+- Pc Lloyd Hunter
+- Rory Bibb
+- Stephen Morley
+organisations:
+- BBC
+- BBC**Panorama
+- Gloucestershire
+- IOPC
+- Independent Office for Police Conduct
+- KC
+- Met Police
+- Metropolitan Police
 ---
 
 A Metropolitan Police officer who said he “couldn’t wait” to taser homeless people has been sacked from the force.

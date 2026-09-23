@@ -14,6 +14,33 @@ categories:
 - Europe
 - News & Politics
 - Film & TV
+locations: []
+people:
+- Alice Rohrwacher
+- Bond**)
+- Callum Turner
+- Dakota Johnson
+- Denis Villeneuve
+- Jack Lowden
+- Jacob Elordi
+- James Bond
+- Jessie Buckley
+- Josh O’Connor
+- Linda McCartney
+- Louis Partridge
+- Mick Jagger
+- Nina Gold
+- Peaky Blinders
+- Richard Osman
+- Sam Mendes’ Beatles
+- Saoirse Ronan
+- Steven Knight
+- Tom Francis
+- Walter PPK
+organisations:
+- Callum Turner
+- Harris Dickinson
+- Slow Horses
 ---
 
 ## This is not the first time that Oscar-nominated Irish actress Saoirse Ronan has expressed a desire to play a Bond villain... But with her recent comments and her husband currently rumoured to be the frontrunner for the next 007, we need this casting to happen now more than ever.

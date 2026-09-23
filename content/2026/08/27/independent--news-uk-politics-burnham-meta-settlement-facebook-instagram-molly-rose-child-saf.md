@@ -14,6 +14,25 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Meta
+- UK
+- US
+- USA
+people:
+- Andy Burnham
+- Keir Starmer
+- Liz Kendall
+- Molly Russell
+- Rowan Ferguson
+organisations:
+- 988 Suicide and Crisis Lifeline
+- Big Tech
+- Facebook
+- Meta
+- Molly Rose Foundation
+- Samaritans
+- US of Instagram
 ---
 
 Child-safety campaigners are urging prime minister Andy Burnham to clamp down on social media giants and force them to make changes in the wake of a settlement in the US between Meta and 29 US states.

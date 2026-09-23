@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Leeds
+people:
+- Emily Nuttall
+- Hans van Manen
+- Tiler Peck
+organisations:
+- Northern Ballet
+- Stanley & Audrey Burton Theatre
 ---
 
 *(Image: Emily Nuttall)*

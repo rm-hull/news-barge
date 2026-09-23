@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Ankara
+- Brussels
+- Ceiba
+- Europe
+- Iran
+- Jose Aponte de la Torre Airport
+- Puerto Rico
+- Roosevelt Roads Naval Station
+- U.S.
+- US
+- Washington
+people:
+- Donald Trump
+- Elbridge Colby
+- Mark Rutte
+- Pete Hegseth
+organisations:
+- ABO
+- Defense
+- NATO Force
+- Pentagon
+- Reuters
+- Terms of Reference
+- Trump
 ---
 
 Internal Pentagon documents reveal that Defense Secretary Pete Hegseth will receive at least four distinct options for American troop dispositions in Europe by November 6, well ahead of the review's official December completion deadline.

@@ -13,6 +13,16 @@ categories:
 - York
 - Travel
 - News & Politics
+locations:
+- Haxby
+- Holly Tree Lane
+- North Yorkshire
+- York Road
+people: []
+organisations:
+- Crimestoppers
+- Newsquest
+- North Yorkshire Police
 ---
 
 *(Image: Newsquest)*

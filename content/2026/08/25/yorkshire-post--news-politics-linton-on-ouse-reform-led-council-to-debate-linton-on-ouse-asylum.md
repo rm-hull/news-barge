@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Linton-on-Ouse
+- North Yorkshire
+- RAF
+- Scarborough
+- York
+people:
+- David Skaith
+- Rich Maw
+organisations:
+- Government
+- Home Office
+- Labour
+- North Yorkshire Council
+- RAF Linton-on-Ouse
+- Reform-led Scarborough Town Council
+- Scarborough Town Council
+- Scarborough Town Hall
 ---
 
 # Linton-on-Ouse: Reform-led council to debate Linton-on-Ouse asylum plans

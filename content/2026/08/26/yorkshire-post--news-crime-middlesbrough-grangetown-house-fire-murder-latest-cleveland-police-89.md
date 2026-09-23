@@ -14,6 +14,18 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Birchington Avenue
+- Cleveland
+- Grangetown
+- Middlesbrough
+- PA
+- Redcar
+- Tom Wilkinson
+people:
+- Emily Harrison
+organisations:
+- Cleveland Police
 ---
 
 # Middlesbrough house fire: Police 'murder' investigation after two killed and four injured

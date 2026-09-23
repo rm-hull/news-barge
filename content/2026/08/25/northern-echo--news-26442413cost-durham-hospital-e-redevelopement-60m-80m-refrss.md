@@ -15,6 +15,27 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- County Durham
+- Darlington
+- Dryburn House
+- Durham City
+- East Wing
+- North Durham
+- North East
+- University Hospital North Durham
+people:
+- Chris Booth
+- Steve Russell
+organisations:
+- A&E
+- Chris Booth
+- County Durham
+- Darlington NHS Foundation Trust
+- Darlington NHS Trust
+- NORTHERN ECHO
+- NORTHERN ECHO)* Health
+- University Hospital
 ---
 
 Plans for a much-needed extension Durham's A&E department are back at square one after a health boss admitted there was no funding in place to deliver them.

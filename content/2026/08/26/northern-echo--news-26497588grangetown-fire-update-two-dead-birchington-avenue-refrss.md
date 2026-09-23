@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Birchington Avenue
+- Grangetown
+- Hartlepool
+- James Cook University Hospital
+- Middlesbrough
+- Redcar
+- Saltburn
+people:
+- Anna Turley
+- Emily Harrison
+organisations:
+- Cleveland Fire Brigade
+- Cleveland Local Policing Commander
+- Cleveland Police
+- Incident Command Unit
+- North News & Pictures Ltd
+- Redcar & Cleveland
 ---
 
 Fire crews who attended the scene of a fatal house blaze have confirmed six people were inside the property at the time, with one person remaining in a critical condition.

@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- UK
+people: []
+organisations:
+- Clubcard Plus
+- Fox & Ivy
+- Fred & Flo
+- Getty
+- Go Cook
+- Go Create
+- Go Play
+- Instagram
+- Lindt
+- Morrisons
+- Paperchase
+- Tesco Grocery & Clubcard
+- Tesco Pet
+- newfoodspotteruk
 ---
 
 *(Image: Getty)*

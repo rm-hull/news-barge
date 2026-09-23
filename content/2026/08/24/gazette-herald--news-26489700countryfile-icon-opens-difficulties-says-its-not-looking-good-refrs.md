@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Bemborough Farm
+- Cotswolds
+- UK
+people:
+- Adam Henson
+organisations:
+- AHDB
+- Agriculture and Horticulture Development Board
+- BBC
 ---
 
 *(Image: BBC)*

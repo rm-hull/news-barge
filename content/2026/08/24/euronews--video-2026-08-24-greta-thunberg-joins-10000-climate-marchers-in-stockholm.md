@@ -11,6 +11,15 @@ image: https://images.euronews.com/articles/stories/09/88/59/57/1200x675_cmsv2_3
 categories:
 - Europe
 - News & Politics
+locations:
+- Gustav Adolfs
+- Stockholm
+- Sweden
+- Vasaparken
+people:
+- Greta Thunberg
+organisations:
+- Mothers Rebellion
 ---
 
 Around 10,000 people marched through central Stockholm on Sunday to demand stronger climate action, three weeks before Sweden's general election on 13 September. Climate ranks among voters' top concerns.

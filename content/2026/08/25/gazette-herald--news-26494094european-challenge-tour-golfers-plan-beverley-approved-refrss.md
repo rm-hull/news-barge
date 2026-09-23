@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Beverley Minster
+- Flemingate Centre
+- YOUR
+- Yorkshire
+people:
+- Beverley
+- Jason Platten
+- Natalie
+- Sam Robinson
+organisations:
+- East Riding of Yorkshire Council
+- FORE Sims Limited
+- FORE!
+- Flemingate
+- Public Notice Portal
+- Wykeland Group
 ---
 
 ### What is the Public Notice Portal?

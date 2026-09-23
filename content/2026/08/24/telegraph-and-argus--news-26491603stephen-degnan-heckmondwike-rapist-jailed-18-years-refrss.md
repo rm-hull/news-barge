@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Heckmondwike
+- Kirklees
+- Leeds Crown Court
+people:
+- Isaac Taylor
+- Stephen Degnan
+organisations:
+- CPS
+- DC Taylor
+- Kirklees District Police
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

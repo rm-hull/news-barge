@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Silicon Valley
+people:
+- David Senra
+- Sam Altman
+- Thibault Sottiaux
+organisations:
+- AI
+- Anthropic
+- Astra
+- ChatGPT Work
+- Codex
+- Maxwell Zeff’sModel Behavior
+- Meta
+- OpenAI
+- Pulse
+- WIRED
 ---
 
 OpenAI is developing a proactive, highly persistent version of its flagship AI agent, Codex, WIRED has learned.

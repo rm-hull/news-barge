@@ -11,6 +11,31 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- York
+people:
+- Anthony Banks
+- Daisy Goodwin
+- Daniel Schumann
+- David Robb
+- Dresser
+- Elizabeth II
+- Jane Asher
+- Jonathan Fensom
+- Lee Dean
+- Matthew Cottle
+- Milliner
+- Queen
+- Samantha Womack
+organisations:
+- ITV
+- TV
+- The Arts Theatre Cambridge
+- The Designer
+- The Milliner
+- Victoria –*
+- Womack
+- York Theatre Royal
 ---
 
 A royally good time is coming to York next autumn – with its star cast announced.

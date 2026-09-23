@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Minnesota
+- U.S.
+- White House
+people:
+- Donald Trump
+- Gregory Bovino
+- Lauren Bis
+- Tom Homan
+- Tucker Carlson
+organisations:
+- Border Patrol
+- DHS
+- Pew Research Center
+- The Independent
+- Trump
 ---
 
 A former Border Patrol official who helped spearhead President Donald Trump’s immigration crackdown has claimed the administration now wants him dead.

@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Self-Improvement
+locations:
+- North Yorkshire
+people:
+- Barratt
+- Paul Hogan
+organisations:
+- Barratt Homes
+- David Wilson Homes
+- David Wilson Homes Yorkshire East
+- Part Exchange
 ---
 
 *(Image: Supplied)*

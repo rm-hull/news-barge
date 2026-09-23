@@ -15,6 +15,32 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Chambers
+- Hull
+- Leeds
+- Malton
+- Morris Minor
+- North Yorkshire
+- Old Bailey
+- Oxford
+- Sawdon
+people:
+- Laura Reid
+- Old Bailey
+- Paul Worsley
+- Paul Worsley KC
+- Peter Sutcliffe
+- Richard Ponter
+organisations:
+- Bar
+- Kemps Bookshop
+- King’s Counsel
+- Lysander Laithwaite KC
+- Old Bailey
+- Queen’s Counsel
+- Sawdon Press
+- The Mango Monkey
 ---
 
 # 'You were thrown in at the deep end and if you weren't very good, you'd sink' - Retired Old Bailey judge Paul Worsley KC draws on barrister career for new novel

@@ -12,6 +12,15 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Chain Bar
+people: []
+organisations:
+- Chain Bar
+- RTC
+- Telegraph & Argus
+- West Yorkshire Fire and Rescue Service
+- West Yorkshire Police
 ---
 
 *(Image: Telegraph & Argus)*

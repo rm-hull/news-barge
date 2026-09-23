@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Britain
+- Kemi’s
+- London
+- New Zealand
+- Rome
+- Rwanda
+- UK
+people:
+- Anthony Seldon
+- Christopher Harborne
+- Giorgia Meloni
+- Kemi Badenoch
+- Nigel Farage
+- Rishi Sunak
+- Robert Jenrick
+organisations:
+- Brothers of Italy
+- GDPR
+- HMRC
+- Labour
+- Reform UK
+- Stanford University
+- Times
+- Tory
 ---
 
 Robert Jenrick has accused Kemi Badenoch of telling “a pack of lies” about her meeting with the Italian prime minister, Giorgia Meloni, as he launched a deeply personal attack on his former boss.

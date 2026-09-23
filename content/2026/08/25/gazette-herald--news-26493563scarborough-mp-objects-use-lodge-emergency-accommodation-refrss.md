@@ -13,6 +13,28 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- BnBs
+- Homemore
+- NORTH Yorkshire
+- Scalby Gate
+- Scarborough
+- The Lodge
+- The Redcliffe
+- The Wharncliffe
+- Valley Road
+- Whitby
+people:
+- Alison Hume
+- Andrew Waggitt
+- Jo Coles
+organisations:
+- Courtesy Homemore
+- Google Maps
+- North Yorkshire Council
+- North Yorkshire Police
+- The Lodge
+- The Redcliffe Hotel
 ---
 
 A NORTH Yorkshire MP has objected to the use of a hotel as emergency accommodation due to ‘serious concerns’.

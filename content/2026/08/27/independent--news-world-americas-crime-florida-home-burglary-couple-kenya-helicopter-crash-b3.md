@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Florida
+- Indian River County
+- Indiana
+- Kenya
+- Land Rover
+- Miami-Dade
+- Samburu County
+people:
+- Adam Hlavaty
+- Geybert Alexander Garcia
+- Henry Parra
+- Lauren Bailey
+- Melany Perdomo
+- Mindy Glazer
+- Nessa Eth
+- No,” Diaz
+- Paul Basile
+- Wilfredo Diaz
+organisations:
+- Coral Gables
+- Coral Gables Police
+- Land Rover
+- Local 10
+- Miami-Dade Sheriff’s Office
+- VIN
 ---
 
 A man and woman have been arrested after allegedly ransacking a Florida couple’s home days after they died in a helicopter crash in Kenya, stealing hundreds of thousands of dollars’ worth of belongings, including cars and valuable artwork.

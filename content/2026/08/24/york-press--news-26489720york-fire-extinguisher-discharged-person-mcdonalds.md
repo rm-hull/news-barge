@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Blake Street
+- York
+people: []
+organisations:
+- Crimestoppers
+- McDonalds
+- Newsquest
+- North Yorkshire Police
 ---
 
 *(Image: Newsquest)*

@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Birchington Avenue
+- Cleveland
+- Grangetown
+- James Cook University Hospital
+- Middlesbrough
+- Redcar
+people:
+- Anna Turley
+organisations:
+- Cleveland Fire Brigade
+- Cleveland Fire Brigade UK
+- Cleveland Fire and Rescue Service
+- Cleveland Police
+- HART
+- Hazardous Area Response Team
+- Incident Command Unit
+- North East Ambulance Service
+- North News & Pictures Ltd
+- Northern Echo
 ---
 
 Four people have been taken to hospital after an early-morning house blaze.

@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Beverly Hills
+- Beverly Hills’
+- California
+- North Oakhurst Drive
+- Santa Monica Superior Court
+people:
+- Elizabeth Linda Paterson
+organisations:
+- Fire Department
 ---
 
 Beverly Hills officials have filed a lawsuit against the estate of a late resident whose condominium was discovered filled with severe hoarding debris and human waste. The city is seeking a court order to remediate the hazardous conditions, which threaten neighboring residents and others.

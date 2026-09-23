@@ -16,6 +16,38 @@ categories:
 - True Crime
 - News & Politics
 - Society & Culture
+locations:
+- A66
+- Acklam
+- Birchington Avenue
+- Cleveland
+- Grangetown
+- Middlesbrough
+- Newcastle
+- PA
+- Redcar
+- Royal Victoria Infirmary
+people:
+- Adam Brook
+- Cole Worthy
+- Emily Harrison
+- Jacob Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Passat
+- Pc Blades
+- Pc Clough
+- Pc Matthew Blades
+- Pc Tom Clough
+- Theo Rae
+- Tom Clough
+organisations:
+- Cleveland Fire Brigade
+- Cleveland Local Policing Commander
+- Cleveland Police
+- South Bank
+- Volvo
 ---
 
 # Middlesbrough: Police not ruling out link between A66 crash and fatal house fire

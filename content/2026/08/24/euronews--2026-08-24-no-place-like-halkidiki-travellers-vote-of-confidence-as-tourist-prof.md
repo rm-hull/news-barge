@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- Balkan
+- Bulgaria
+- Halkidiki
+- Mount Athos
+- North Macedonia
+- Serbia
+- Siviri
+- Thessaloniki
+- Turkey
+- Ukraine
+- Western Europe
+people:
+- Sani
+organisations:
+- Euronews
 ---
 
 ## There is "nowhere like Halkidiki" say locals and more than a million foreign tourists each year, yet geopolitical shifts in the past five years have changed who visits the area – an on-the-ground report by Euronews.

@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - History
 - Sports
+locations:
+- Town
+people:
+- Cathal Heffernan
+- Neil Harris
+- Simon Weaver
+organisations:
+- Barrow
+- Cambridge United
+- Harrogate Town
+- Harrogate Town AFC
+- League
 ---
 
 ![](https://mmo.aiircdn.com/409/6a904708872134f27d2.jpg) 

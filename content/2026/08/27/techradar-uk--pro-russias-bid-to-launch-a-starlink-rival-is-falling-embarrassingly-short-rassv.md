@@ -11,6 +11,21 @@ image: https://cdn.mos.cms.futurecdn.net/9Km7ky9AU7NcrTGcdP5ZTe-1920-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- Earth
+- Moscow
+- Russia
+- Samara
+people: []
+organisations:
+- Efosa
+- Google News
+- Progress Rocket and Space Center
+- Rassvet
+- Rassvet-3
+- SpaceX
+- Starlink
+- TechRadar Pro
 ---
 
 ![A satellite in orbit around the earth](https://cdn.mos.cms.futurecdn.net/9Km7ky9AU7NcrTGcdP5ZTe.jpg) 

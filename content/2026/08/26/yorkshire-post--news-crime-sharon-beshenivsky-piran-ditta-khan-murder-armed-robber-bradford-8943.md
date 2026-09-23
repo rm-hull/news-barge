@@ -15,6 +15,29 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Bradford
+- Pakistan
+- Pinderfields Hospital
+- UK
+- Wakefield Prison
+- West Yorkshire
+people:
+- Justice Hilliard
+- Ms McLoughlin
+- Naomi McLoughlin
+- PC Sharon Beshenivsky
+- Paul Beshenivsky
+- Pc Beshenivsky
+- Pc Teresa Milburn
+- Piran Ditta Khan
+- Shabaz Khan
+- Sharon Beshenivsky
+organisations:
+- Leeds Crown Court
+- Universal Express
+- Wakefield Coroner’s Court
+- West Yorkshire Police
 ---
 
 # Robber jailed for murder of Sharon Beshenivsky died in prison of natural causes, inquest told

@@ -13,6 +13,33 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- New York
+- Switzerland
+- US
+- United States
+- Zurich
+people:
+- AlphaRaccoon
+- D4vd
+- Gannon Ken van Dyke
+- Michael Selig
+- Michele Spagnuolo
+- Nicolás Maduro
+- Philipps
+- Spanguolo
+- Todd Phillips
+- Van Dyke
+organisations:
+- AlphaRaccoon
+- CFTC
+- Commodity Futures Trading Commission
+- Google
+- Polymarket
+- Special Forces
+- Supreme Court
+- United States’ Commodities Exchange Act
+- WIRED
 ---
 
 Michele Spagnuolo, the Google engineer arrested in May by US authorities for alleged insider trading on Polymarket, is making a new bold bet. On Wednesday, his legal team filed a motion to dismiss the charges against him. Spagnuolo isn’t outright denying that he made money using internal information from Google. Instead, his legal team says that the wagers were not financial instruments subject to regulation by the United States’ Commodities Exchange Act but rather good old-fashioned international betting that the US has no authority over.

@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Camp Zeist
+- Heathrow
+- Libya
+- Lockerbie
+- Netherlands
+- New York
+- Tripoli
+- UK
+- US
+- United States
+- Washington DC
+- West
+people:
+- Abdelbaset Ali Mohmet al-Megrahi
+- Abdelbaset al-Megrahi
+- Abdulbasset Al-Megrahi
+- Abu Agila Mas'ud Kheir Al-Marimi
+- Abu Agila Mohammad Kheir Al-Marimi
+- Al Amin Khalifah Fhimah
+- Dabney Friedrich
+- Laura Buchan
+- Megrahi
+organisations:
+- Abu Agila Mas'ud Kheir Al-Marimi
+- BBC
+- Crown Office
+- Police Scotland
+- Procurator Fiscal Service
+- Scottish Criminal Cases Review Conviction
 ---
 
 ![Emergency service workers stand next to the wreckage of Pan Am flight 103 in a field east of Lockerbie.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/9057/live/3d1ddb50-cf68-11ef-94cb-5f844ceb9e30.jpg)

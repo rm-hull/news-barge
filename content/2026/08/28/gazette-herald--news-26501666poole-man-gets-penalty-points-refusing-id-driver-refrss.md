@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Harrogate
+- Johnston Road
+- Malton
+- Poole
+- Potter Brompton
+- Scarborough
+- York
+people:
+- Ashley James William Gannon
+- Liam McBurney
+organisations:
+- A64
+- North Yorkshire Police
+- PA Wire
 ---
 
 *(Image: Liam McBurney/PA Wire)*

@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Cornersville
+- Doggy Parton
+- Dollywood
+- Hollywood
+- Madison Square Garden
+- Nashville
+- Tennessee
+- US
+people:
+- Danny Nozell
+- Dolly Parton
+- Harry Styles
+- Maike Currie
+- Singer
+- Tennessee Nozell
+organisations:
+- BBC
+- Dolly Parton
+- Dolly's Tennessean Travel Stop
+- Imagination Library
+- PensionBee
+- People
+- Wake Up to Money
 ---
 
 ![Dolly Parton is pictured riding on a truck at her famous Dollywood theme park in Tennessee in 1977, she's in a yellow and white dresss](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/6669/live/055ee1c0-a200-11f1-a97e-999c5aae08bf.jpg)

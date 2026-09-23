@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- King's Square
+- Newgate
+- Newsquest
+- Shambles
+- Silver Street
+- York
+people: []
+organisations:
+- City of York Council
 ---
 
 *(Image: Newsquest)*

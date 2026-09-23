@@ -12,6 +12,18 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford
+- Ingleby Road
+- ROSSE Street
+- Rosse Street
+- Syedna Way
+- Thornton Road
+people: []
+organisations:
+- City of Bradford Metropolitan District Council
+- Google Street View
+- Legal and Governance
 ---
 
 *(Image: Google Street View)*

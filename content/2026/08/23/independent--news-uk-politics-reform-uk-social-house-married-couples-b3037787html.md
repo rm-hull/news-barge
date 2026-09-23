@@ -14,6 +14,17 @@ categories:
 - UK
 - Careers & Productivity
 - Society & Culture
+locations:
+- Britain
+- UK
+people:
+- Nigel Farage
+- Richard Tice
+organisations:
+- EU
+- Labour
+- NHS
+- Reform UK
 ---
 
 A Reform UK government will prioritise married couples aged under-35 with children for social housing in new plans already branded “unserious and unworkable”.

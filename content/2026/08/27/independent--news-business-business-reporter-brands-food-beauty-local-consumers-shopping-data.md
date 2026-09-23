@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations: []
+people:
+- Clayton Christensen
+- Ouarda Hamadi
+organisations:
+- BCG
+- CPG
+- CPGR
+- Centric PLM
+- Centric Software
+- Consumer Packaged Goods & Retail
+- EU
+- Harvard Business School
+- McKinsey
+- PPWR
 ---
 
 *Centric Software is a Business Reporter client*

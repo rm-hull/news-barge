@@ -12,6 +12,25 @@ categories:
 - York
 - Food & Cooking
 - Travel
+locations:
+- Bournemouth
+- Edinburgh
+- Europe
+- London
+- Southern Italy
+- UK
+- York
+- Yorkshire
+people:
+- Albert Sapere
+- Armando Imparato
+- Barbara Guerra
+- Berardo Caggiano
+- Cresci
+- Luciano Pignataro
+organisations:
+- Cresci Pizzeria
+- Piccadilly
 ---
 
 A York restaurant has been named one of the top 50 pizzerias in Europe.

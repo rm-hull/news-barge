@@ -13,6 +13,41 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- Australia
+- Cologne
+- Czechoslovakia
+- Germany
+- Japan
+- Kyoto
+- London
+- Matsumoto
+- Netherlands.
+- New York
+- Scheveningen
+- Tate Modern
+- Tokyo
+- Tribeca
+- US
+- Venice Biennale
+- Vietnam
+people:
+- Andy Warhol
+- Donald Judd
+- Frank Stella
+- Joseph Cornell
+- Richard Nixon
+- Yayoi Kusama
+organisations:
+- Hirshhorn Museum
+- Hirshhorn Museum in Washington DC
+- Narcissus Garden
+- New York’s Museum of Modern Art
+- Phalli’s Field
+- Tate Modern
+- United Nations
+- Washington DC
+- Yayoi Kusama Inc
 ---
 
 Yayoi Kusama, the Japanese outsider artist who reached superstar status after decades living in a psychiatric hospital, has died aged 97.

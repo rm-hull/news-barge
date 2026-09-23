@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Canada
+- Chicago
+- Northwestern
+people:
+- Abel Kho
+- Courtney Howard
+- Daniel Horton
+- Jonathan Patz
+- Kris Ebi
+- Nicholas Cozzi
+organisations:
+- AP
+- Associated Press’
+- Canadian Medical Association
+- Global Climate and Health Alliance
+- Illinois College of Emergency Physicians
+- Northwestern University
+- University of Washington
+- University of Wisconsin
 ---
 
 When the temperature heats up, so do emergency rooms, according to a massive study of Chicago hospital and urgent care records, which found increased accidental gunshot wounds, kidney complaints, skin problems, varicose veins and even mental health issues related to marijuana use.

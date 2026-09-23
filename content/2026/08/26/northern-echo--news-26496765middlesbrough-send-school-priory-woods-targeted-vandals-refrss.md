@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Middlesbrough
+- North East
+- North East Priory
+people:
+- Priory Woods
+organisations:
+- Arts College
+- CCTV
+- Cleveland Police
+- Middlesbrough SEND
+- Outwood Academy
+- Priory Woods School
+- Priory Woods School and Arts College
 ---
 
 Vandals have targeted a Middlesbrough SEND school and smashed up several minibuses, days before the start of the new term.

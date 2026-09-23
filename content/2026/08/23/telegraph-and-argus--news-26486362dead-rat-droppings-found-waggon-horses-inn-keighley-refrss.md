@@ -14,6 +14,17 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Hebden Bridge Road
+- Keighley
+- Oxenhope
+- Pennines
+people: []
+organisations:
+- Bradford Council
+- Google Maps
+- T&A
+- Waggon and Horses Inn
 ---
 
 *(Image: Google Maps)*

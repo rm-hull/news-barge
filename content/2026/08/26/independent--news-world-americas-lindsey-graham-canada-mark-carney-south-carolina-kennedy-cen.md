@@ -14,6 +14,53 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Canada
+- China
+- Iran
+- Kennedy Center
+- South Carolina
+- Texas
+- U.S.
+- US
+- US-Canada
+- United States
+- Washington Hilton
+people:
+- Annie Andrews
+- Darline Graham
+- Donald J. Trump
+- Donald Trump
+- François-Philippe Champagne
+- Greg Abbott
+- Henry McMaster
+- John F. Kennedy
+- Joyce Beatty
+- Lindsey Graham
+- Mark Carney
+- Mike Johnson
+- Ralph Norman
+- Wendy Cutler
+organisations:
+- AI
+- Amazon
+- ChatGPT
+- Commerce Department
+- Fed
+- Federal Reserve
+- Fox News
+- Google
+- Justice Department
+- Kennedy Center
+- Meta
+- Microsoft
+- Office of Professional Responsibility
+- OpenAI
+- Oracle
+- Secret Service
+- Trump Kennedy Center Fund
+- U.S. Secret Service
+- White House Correspondents’ Association
 ---
 
 Canada is striking back at the United States with retaliatory tariffs on about $20 billion worth of American goods, including steel, dairy products, appliances and farm equipment, as the trade war between the once-friendly neighbors escalates.

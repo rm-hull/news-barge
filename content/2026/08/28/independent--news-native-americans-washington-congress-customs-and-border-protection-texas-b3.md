@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Big Bend National Park
+- Gulf of Mexico
+- Pacific Ocean
+- San Antonio
+- Texas
+- U.S.
+people:
+- Orlando L. Garcia
+- Pamela Amaechi
+- Rodney Scott
+- Roland Gutierrez
+organisations:
+- CBP
+- Congress
+- Customs and Border Protection
+- Department of Homeland Security
+- Justice Department
+- Trump
 ---
 
 The federal government agreed in court on Friday to extend a pause on border related construction in Big Bend National Park until mid September, a move welcomed by those challenging the contentious project in the area.

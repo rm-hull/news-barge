@@ -11,6 +11,27 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Calif.
+- California
+- Fresno County
+- Japan
+- Lake Merritt
+- Lake Merritt Dragonfly Habitat Garden
+- Mojave Desert
+- Oakland
+- San Francisco
+- San Francisco Bay Area
+people:
+- Chris Grinter
+- Del Bosque
+- Jeff Chiu
+- Joe Del Bosque
+- Kathy Biggs
+- Peter Veilleux
+organisations:
+- California Academy of Science
+- Facebook
 ---
 
 Californians are spotting swarms of dragonflies flitting around parks, chasing mosquitoes in ponds and hunting flies on farms, a phenomenon experts say was likely fueled by unusually warm spring rains.

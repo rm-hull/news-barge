@@ -14,6 +14,15 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people:
+- Rachel Reeves
+organisations:
+- DWP
+- Department for Work and Pensions
+- Policy in Practice
+- The Independent
+- Treasury
 ---
 
 Hundreds of thousands of pensioners are set to be contacted by the Department for Work and Pensions (DWP) as it begins work to cut £370 million from the benefits bill.

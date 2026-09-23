@@ -12,6 +12,11 @@ categories:
 - Local
 - York
 - Music
+locations: []
+people:
+- Dolly Parton
+- John Jones
+organisations: []
 ---
 
 **'Rest in Peace Dolly. There will never be another'**

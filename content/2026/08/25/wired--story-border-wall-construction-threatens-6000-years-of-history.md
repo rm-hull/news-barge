@@ -13,6 +13,50 @@ categories:
 - Technology & Software
 - Science
 - History
+locations:
+- Amistad Reservoir
+- Big Bend
+- Big Bend National Park
+- Canta Recio
+- Comstock
+- Eagle Nest Canyon
+- Langtry
+- Lower Pecos Canyonlands Archeological District
+- Mexico
+- Nile
+- North America
+- Painted Shelter
+- Paquimé
+- Polvo
+- Redford
+- Rio Grande
+- San Marcos
+- San Ygnacio
+- Santa Elena Canyon
+- Seminole Canyon State Park
+- US
+- US-Mexico
+- West Texas
+- Zuberbueler
+people:
+- Bryon Schroeder
+- Canta Recio
+- Carolyn Boyd
+- Jeff Fort
+- Patrick Zuberbueler
+organisations:
+- Customs and Border Protection
+- DHS
+- Department of Homeland Security
+- National Historic Landmark
+- National Historic Landmarks
+- Shumla Archaeological Research and Education Center
+- Sul Ross University’s Center for Big Bend Studies
+- Texas State University
+- Trump
+- UNESCO World Heritage
+- US Department of Homeland Security and Customs and Border Protection
+- WIRED
 ---
 
 Outrage has exploded over border infrastructure that recently began tearing up pristine desert landscapes in Big Bend National Park. But there’s a quieter battle taking place on private lands in Texas, where the US border wall is set to cut across some of North America's richest archaeological sites, digging up ancient indigenous artifacts and fracturing millennia-old rock art in its path.

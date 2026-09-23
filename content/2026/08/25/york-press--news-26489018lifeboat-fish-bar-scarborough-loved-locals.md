@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Lifeboat Fish Bar
+- Scarborough
+- Yorkshire
+people: []
+organisations:
+- Lifeboat Fish Bar
+- Tripadvisor
 ---
 
 ## 'Best ever' Scarborough fish and chip shop that constantly has queues out the door

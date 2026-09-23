@@ -14,6 +14,24 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Britain
+- Humber
+- Malton
+- North Yorkshire
+- York Minster
+people:
+- Canon Maggie Smith
+- Canon Smith
+- David Skaith
+- Dean
+- Katie White
+- Ms White
+organisations:
+- Labour
+- Mayoral Renewables Fund
+- York Minster
+- Yorkshire
 ---
 
 # York Minster 'continuing city leadership' as solar panels installations break records

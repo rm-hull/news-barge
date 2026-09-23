@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- County Longford
+- Love Island
+- UK
+- US
+people:
+- Angela Jain
+- Blind Date
+- Cilla Black
+- Higgins'
+- Maura Higgins
+- Melanie Sykes
+- Now Higgins
+- Our Graham" Skidmore
+- Paul O'Grady
+- Tommy Fury
+organisations:
+- Channel 5
+- Cilla Black
+- Dancing with the Stars
+- Disney
+- EMEA
+- Glow Up Ireland
+- ITV
+- Irish TV
+- Love Island USA
+- The Traitors US
+- the Stars
 ---
 
 ![A composite image of Cilla Black in 2013 in front of a sparkly purple background, and Maura Higgins in January 2026](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/40c0/live/4dec7cc0-a16c-11f1-a291-b542ee92de7c.jpg)

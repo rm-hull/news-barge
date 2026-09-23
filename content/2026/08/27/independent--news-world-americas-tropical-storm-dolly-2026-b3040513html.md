@@ -11,6 +11,30 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Atlantic Ocean
+- Caribbean
+- Cristobal
+- Hispaniola
+- Leeward Islands
+- Louisiana
+- Miami
+- Puerto Rico
+- Texas
+- U.S. Gulf Coast
+- Virgin Islands
+people:
+- Dolly Parton
+- Melissa
+organisations:
+- Dolly
+- El Nino
+- NHC
+- National Oceanic and Atmospheric Administration
+- Tropical Storm Arthur
+- U.S. National Hurricane Center
+- WMO
+- World Meteorological Organization
 ---
 
 Tropical Storm Dolly developed far out in the Atlantic Ocean on Thursday, with forecasters warning that the system could bring heavy rain to portions of the Caribbean.

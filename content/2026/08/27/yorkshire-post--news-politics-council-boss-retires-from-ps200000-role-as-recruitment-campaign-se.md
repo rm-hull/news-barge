@@ -15,6 +15,15 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 - Personal Finance & Investing
+locations:
+- North Yorkshire
+people:
+- Cllr Carl Les
+- Richard Flinton
+organisations:
+- North Yorkshire Council
+- North Yorkshire County Council
+- North Yorkshire Local Resilience Forum
 ---
 
 # Council boss retires from £200,000 role as recruitment campaign set to launch

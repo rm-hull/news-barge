@@ -9,6 +9,24 @@ description: Russia is shifting focus to low-hanging fruit of the power grid
 image: https://cdn.mos.cms.futurecdn.net/sz6gFYTwfpR5a6TbDhtViJ-1920-80.png
 categories:
 - Technology & Software
+locations:
+- Russia
+- Ukraine
+people:
+- Rahim Amir
+- Shahed
+- Vadym Skibitskyi
+organisations:
+- Google News
+- HUR
+- Main Directorate of Intelligence
+- PC
+- PCs
+- RBC-Ukraine
+- RGB
+- SFF
+- Shahed
+- TechRadar Pro
 ---
 
 ![Modified Ukrainian Drone](https://cdn.mos.cms.futurecdn.net/sz6gFYTwfpR5a6TbDhtViJ.png) 

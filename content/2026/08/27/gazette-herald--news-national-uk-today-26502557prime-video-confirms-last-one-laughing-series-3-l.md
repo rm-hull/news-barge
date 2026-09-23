@@ -14,6 +14,28 @@ categories:
 - York
 - Film & TV
 - Technology & Software
+locations: []
+people:
+- Bob
+- Harry Hill
+- Harry Hills
+- Ian West
+- Jimmy Carr
+- Jon Richardson
+- Josh Jones
+- Katherine Parkinson
+- Katherine Ryan
+- Lee Mack
+- Mel Giedroyc
+- Michelle de Swarte
+- Morgana Robinson
+- Richard Ayoade
+- Roisin Conaty
+organisations:
+- Amazon Prime Video
+- PA Wire
+- Prime Video
+- Top Gear
 ---
 
 *(Image: Ian West/PA Wire)*

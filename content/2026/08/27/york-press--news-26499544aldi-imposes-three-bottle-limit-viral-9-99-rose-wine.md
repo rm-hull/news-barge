@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Aldi
+people:
+- Costa
+- Sam Caporn
+- Wine
+organisations:
+- Aldi
+- DWP State Pension
+- Le Grand Poulet
+- Le Grand Poulet Rosé Magnum
+- Le Petit Poulet Rosé
+- Maple Hazel
+- Merlot & Syrah
+- St Michael
 ---
 
 ## Aldi shoppers now face a three-per-person limit on one popular item

@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- England
+- London
+- UK
+people:
+- Gem Sofianos-Boorman
+- Sue Mann
+organisations:
+- NHS
 ---
 
 ![Cervical screening test](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2e70/live/3e5420e0-9fd4-11f1-a291-b542ee92de7c.png)

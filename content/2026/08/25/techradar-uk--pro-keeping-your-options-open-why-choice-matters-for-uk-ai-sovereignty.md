@@ -9,6 +9,24 @@ description: Why AI sovereignty starts with choice
 image: https://cdn.mos.cms.futurecdn.net/DqdzLoiEh9a6yFQaZqE6xL-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- AI
+- Britain
+- China
+- Cloudfare
+- Europe
+- UK
+- United States
+people: []
+organisations:
+- AI
+- Anthropic
+- EMEA
+- European Union
+- Future plc
+- Tech Sovereignty
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A portion of the globe with countries displayed in digital pixels](https://cdn.mos.cms.futurecdn.net/DqdzLoiEh9a6yFQaZqE6xL.jpg) 

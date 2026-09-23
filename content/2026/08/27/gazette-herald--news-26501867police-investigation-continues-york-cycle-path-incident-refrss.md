@@ -16,6 +16,15 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Crichton Avenue
+- Foss Islands Cycle Path
+- Wigginton Road
+- York
+people: []
+organisations:
+- North Yorkshire Police
+- The Press
 ---
 
 *(Image: Image: The Press)*

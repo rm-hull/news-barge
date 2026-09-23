@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Europe
+- Kyiv
+- London
+- Moscow
+- New York
+- Russia
+- UK
+- Ukraine
+people:
+- Andy Burnham
+- Putin
+- Volodymyr Zelenskyy
+organisations:
+- Kyiv
+- Nato
+- UN
 ---
 
 Russia is losing about 6,000 more troops in Ukraine each month than it can recruit, western officials have said.

@@ -11,6 +11,12 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- UK
+- York Museum Gardens
+people: []
+organisations:
+- Picturehouse Outdoor Cinema
 ---
 
 Summer isn’t over yet – as Picturehouse Outdoor Cinema returns with crowd-pleasing favourites.

@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Cockerton Green
+- Darlington
+- North East
+- Quaker
+- STUART BOULTON
+people:
+- Darlington
+- Henry Pease
+- Mary Pease
+- Mary Simpson
+- Quaker
+- STUART BOULTON
+organisations:
+- The Children’s Society
+- The Orphanage
+- YMCA
 ---
 
 *(Image: STUART BOULTON)*

@@ -12,6 +12,100 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Bar Lane
+- Beatles’ Abbey Road
+- Bedale
+- Beulah Street
+- Burn Bridge Lane
+- County Hall
+- Deer Park
+- Dennis Richards Park Run
+- Ferrensby
+- Fewston Reservoir
+- Harrogate
+- Kex Gill
+- Knaresborough
+- Leeds
+- Manchester
+- Nepal
+- North Yorkshire
+- Northallerton
+- Paris
+- Ripley
+- Ripon
+- Scriven
+- Spa Gardens
+- Studley Royal
+- Toronto
+- UK
+- Valley Gardens
+- York Crown Court
+people:
+- Andrew Stevens
+- Andy
+- Charlotte Gale
+- Coun Chris Aldred
+- Coun Graham Dixon
+- Coun Viv Poskitt
+- Dennis Richards
+- Ella Smith-Dunn
+- Ione Cumming
+- Jack Carroll
+- Janusz Piotrowicz
+- Jo Thackray
+- Kate Bramley
+- Katie Scott
+- Kieran Lawless
+- Kylie Hammond
+- Lizzie Hughes
+- Matt Richardson
+- Miriam Margolyes
+- Paul Tonkinson
+- Richard Flinton
+- Robert Barrie
+- Steve Bambridge
+- Susan Goldsbrough
+- Thomas Ingilby
+- Tom Gordon
+- Vernon Kay
+- Zoe Ingham
+organisations:
+- A59
+- AO Arena
+- All Saints’ Church
+- Aura Power
+- BBC Radio 2
+- BBC TV
+- Badapple Theatre
+- Bettys Café Tea Rooms
+- Big Sleepout
+- Cancer Research UK
+- HADCA
+- HG5
+- Harrogate Brigantes Rotarian
+- Harrogate Convention Centre
+- Harrogate District Hospital
+- Harrogate Homeless Project
+- Harrogate Rugby Club
+- Harrogate Theatre
+- Harrogate and District NHS Foundation Trust Board
+- Harrogate’s Great Yorkshire Showground
+- Hyena Lounge Comedy Club
+- Knaresborough
+- Mother Shipton Inn
+- North Yorkshire Council
+- Northern Gas Network
+- Paul Mirfin Band
+- RHS Garden Harlow Carr
+- Ripon Youth Council
+- Rudy's FC
+- Saint Michael's Hospice
+- Specsavers Ripon
+- Sykes Holiday Cottages
+- Symphonic Ibiza
+- Taylor Wimpey Yorkshire
+- Wetherby Runners Athletics Club
 ---
 
 ![New padel courts to open near Knaresborough - HG5 owners Andy and Ione Cumming outside the new facility at Ferrensby. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjFhMmZhOTBhLTNlMmYtNDg3Ni1hZTY3LWFiZWY2OWQyNWU5NjpiZjI0MWU3YS0yYTA0LTQ1OGQtOTM1MC0wZTc1OTU2OWJhNGY=.jpg?crop=5:4,smart&trim=&quality=70&width=616)

@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Eastern Michigan
+- N.C
+people:
+- Brendan Sorby
+- Dave Doeren
+- Eric Olson
+- Mit Winter
+- Rick Karcher
+- Sorsby
+organisations:
+- ACC
+- AP
+- Atlantic Coast Conference
+- Big 12
+- Big Ten
+- G-League
+- LSU
+- NBA
+- NCAA
+- NFL
+- No. 11
+- SEC
+- Southeastern Conference
+- Texas Tech
+- U.S. District Court
+- WNBA
 ---
 
 It took three days for the nation's four powerful athletic conferences to dig in on banning players who were on NFL rosters from returning to college football. The hope is it offers order amid the chaos growing through legal challenges and the pursuit of loopholes to NCAA eligibility rules.

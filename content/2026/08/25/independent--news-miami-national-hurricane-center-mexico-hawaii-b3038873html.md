@@ -13,6 +13,19 @@ categories:
 - UK
 - Travel
 - History
+locations:
+- Baja California
+- Central Pacific
+- Hawaii
+- Iselle
+- Lala
+- Mexico
+- Pacific Ocean
+people:
+- Julio
+organisations:
+- National Hurricane Center
+- Tropical Storm Julio
 ---
 
 Tropical Storm Julio formed Tuesday in the Pacific Ocean and isn't threatening land, forecasters said.

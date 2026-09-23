@@ -14,6 +14,19 @@ categories:
 - Sports
 - True Crime
 - History
+locations:
+- Fagersta
+- L
+- Stockholm
+- Sweden
+people:
+- Carl XVI Gustaf
+- Magdalena Andersson
+- Ulf Kristersson
+organisations:
+- Brinell School
+- SVT
+- Social Democratic Party
 ---
 
 ![Swedish Prime Minister Ulf Kristersson (L) and Social Democratic Party leader Magdalena Andersson visit the makeshift memorial.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4961/live/739e15f0-9e92-11f1-ab7f-1982e3129a69.jpg)

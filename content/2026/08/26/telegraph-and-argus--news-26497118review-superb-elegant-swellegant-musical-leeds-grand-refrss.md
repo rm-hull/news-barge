@@ -13,6 +13,37 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- London
+- Long Island
+- Newport
+- West End
+people:
+- Anna
+- Anthony ‘Mamma Mia’ Van Laast
+- Cole Porter
+- David Seadon-Young
+- Dexter Haven
+- Ethel Merman
+- Frank Sinatra
+- Freddie Fox
+- George Kittredge
+- Grace Kelly
+- Helen George
+- Julian Ovenden
+- Les Mis
+- Mike Connor
+- Miss Saigon
+- Nigel Lindsay
+- PAMELA RAITH
+- Pamela Raith
+- Rachel Kavanaugh
+- Tracy Lord
+- Uncle Willie
+organisations:
+- High Society
+- Leeds Grand Theatre
+- Pamela Raith
 ---
 
 REVITALISED, reimagined or simply new? Whatever your poison, Cole Porter’s High Society is a superbly elegant, swellegant musical that will make you feel ashamed to wear a pair of jeans ever again!

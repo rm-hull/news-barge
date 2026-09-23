@@ -11,6 +11,23 @@ description: AmneziaWG 3.0 introduces more variability into traffic patterns, ma
 image: https://cdn.mos.cms.futurecdn.net/Z8cccYZxkX5QXvAauhJhAn-837-80.jpg
 categories:
 - Technology & Software
+locations:
+- Kremlin
+- Russia
+people:
+- Mazay Banzaev
+- Silvia Iacovcich
+organisations:
+- Amnezia VPN
+- Amnezia VPN —
+- AmneziaWG
+- Apple
+- Google News
+- Microsoft
+- No Trace
+- Roskomnadzor
+- Silvia Iacovcich
+- VPNs
 ---
 
 ![Amnezia VPN logo on black background](https://cdn.mos.cms.futurecdn.net/Z8cccYZxkX5QXvAauhJhAn.jpg) 

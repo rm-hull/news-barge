@@ -14,6 +14,18 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- '**York'
+- Churchills
+- North Yorkshire
+- Sutton-on-the-Forest
+- UK
+- Upstairs
+- York
+people:
+- Churchills
+organisations:
+- Churchills
 ---
 
 A Georgian home located in an “outstanding village setting” in North Yorkshire has hit the market – for £800,000.

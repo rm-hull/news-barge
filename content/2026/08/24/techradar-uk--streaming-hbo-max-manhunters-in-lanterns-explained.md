@@ -14,6 +14,43 @@ categories:
 - Technology & Software
 - True Crime
 - Film & TV
+locations:
+- DC
+- Jordan
+- Macon
+- Mars
+- Rushville
+people:
+- Aaron Pierre
+- Abin Sur — aka
+- Billy
+- Hal Jordan
+- J'onn J'onzz
+- Jack Kirby
+- John Stewart
+- Kerry Kane
+- Kyle Chandler
+- Manhunter
+- Sinestro
+- Tom
+- Will Macon
+- Zoe Macon
+organisations:
+- DC
+- DCU Chapter One
+- Disney Plus
+- Google News
+- Green Lantern
+- Green Lantern Corps
+- Green Lantern TV
+- HBO
+- Manhunters
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Star Wars
+- TechRadar
 ---
 
 ![A close up of Kyle Chandler's Hal Jordan sitting at a football stadium in Lanterns episode 2](https://cdn.mos.cms.futurecdn.net/qro4sEF4qUUFWZEAASqiEc.jpg) 

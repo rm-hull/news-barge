@@ -12,6 +12,11 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Nepal-Tibet
+people: []
+organisations:
+- US Geological Survey
 ---
 
 # Watch: What caused the Nepal-Tibet flash floods?

@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Cergy-Pontoise
+- Disneyland Paris
+- France
+- Iran
+- Middle East
+- Mirapolis
+- Riyadh
+- Saudi Arabia
+- Saudi Arabia.
+- US
+- Val-d'Oise
+- Élysée Palace
+people:
+- Dragon Ball Z
+- Emmanuel Macron
+- Mohammed bin Salman
+- Sanae Takaichi
+- bin Salman
+organisations:
+- Dragon Ball Z
+- Dragon Ball Z.
+- Macron
+- QIC
+- Qiddiya Investment Company
+- bin Salman
+- Élysée
 ---
 
 ![A graphic from the Dragon Ball Z comic is seen displayed on a wall above several people on computers](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e189/live/13831e40-9ff5-11f1-b150-d3e6f0a6b415.jpg)

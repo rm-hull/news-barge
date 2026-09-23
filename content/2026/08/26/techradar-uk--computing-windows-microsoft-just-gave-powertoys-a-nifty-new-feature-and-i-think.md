@@ -11,6 +11,16 @@ description: 'Microsoft is busy improving Windows 11, and there''s an obvious ea
 image: https://cdn.mos.cms.futurecdn.net/g9ufuu4EbkfF7nb45pnwud-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people: []
+organisations:
+- GitHub
+- Google News
+- Hachette UK
+- Microsoft
+- Power Display
+- Window Hopper
+- XDA Developers
 ---
 
 ![Happy man with a Windows 11 laptop on his lap](https://cdn.mos.cms.futurecdn.net/g9ufuu4EbkfF7nb45pnwud.jpg) 

@@ -13,6 +13,38 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Brazil
+- England
+- Europe
+- France
+- Italy
+- Monaco
+- Poland
+- Portugal
+- Spain
+people:
+- Cafu
+- Christian Vieri
+- David James
+- Emmanuel Petit
+- Esteban Cambiasso
+- Gianni Infantino
+- Lucy Bronze
+- Mikael Silvestre
+- Pepe
+- Victor Montagliani
+organisations:
+- BBC Sport
+- Concacaf
+- FFE
+- Fifa Council
+- Fifa Forward Enterprise
+- Fifa Legends
+- Gianni Infantino
+- Manchester United
+- Players' Voice Panel
+- Uefa
 ---
 
 ![Gianni Infantino at the 2026 World Cup](https://ichef.bbci.co.uk/ace/standard/876/cpsprodpb/ad8f/live/60372850-a14c-11f1-92f3-2381193e5eb4.jpg)

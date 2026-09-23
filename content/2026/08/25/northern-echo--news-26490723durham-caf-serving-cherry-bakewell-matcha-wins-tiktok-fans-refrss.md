@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- Café Cenno
+- Cherry Bakewell
+- Durham Market Hall
+people:
+- Brownie Batter
+- TikToker Mariella Rigali
+organisations:
+- Café Cenno
+- Leeds United
+- Middlesbrough
+- Nestle Rolo
+- Peanut Butter
+- TripAdvisor
 ---
 
 Tucked away in the bustle of Durham Market Hall, an independent family-run café is drawing customers in with some unconventional coffee creations.

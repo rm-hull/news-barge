@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- Britain
+- Nazi Germany
+people:
+- Adolf Hitler
+- Alexander the Great
+- Donald Trump
+- Gary Oldman
+- Joe Wright
+- Jonathan Swan
+- Linda McMahon
+- Maggie Haberman
+- Mao
+- Napoleon
+- Neville Chamberlain
+- Piers Morgan
+- Stalin
+- Winston Churchill
+organisations:
+- DOE
+- Department of Education
+- New York Times
+- Oval Office
+- The Independent
 ---
 
 President Donald Trump’s Department of Education (DOE) has been forced to delete a social post in which it appeared to inadvertently compare his administration to Nazi Germany.

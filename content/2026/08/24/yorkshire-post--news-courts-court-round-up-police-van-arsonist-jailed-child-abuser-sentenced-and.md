@@ -17,6 +17,31 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Bradford
+- Calverley Street
+- Cleveland
+- Great George Street
+- Leeds Crown Court
+- Redcar
+- Teesside Crown Court
+- The Headrow
+- Wakefield
+- Yorkshire
+people:
+- Charlotte Sampson
+- Hakam Ghaith
+- Jack McPhillips
+- John Nottingham
+- Richard Pooley
+- Rosemarie Ozsko
+- Sam Brewster
+- William Metcalf
+organisations:
+- Bradford Crown Court
+- Leeds CID
+- Leeds Crown Court
+- Sex Offenders Register
 ---
 
 # Court round-up: Police van arsonist jailed, child abuser sentenced and driver spared prison

@@ -11,6 +11,37 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-S
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- India
+- Middle East
+- U.S.
+people:
+- Ringg
+- Rishen Kapoor
+- Siddharth Tripathi
+organisations:
+- Arrowhead
+- Blue Machines
+- Bolna
+- Cartesia
+- Cred
+- Deepgram
+- DesiVocal
+- ElevenLabs
+- Flipkart
+- Gnani
+- Groww
+- Peak XV
+- Peak XV Partners
+- PolicyBazaar
+- Practo
+- Ringg
+- Sarvam
+- Shell
+- Smallest.ai
+- TechCrunch
+- Truecaller
+- Voice AI
 ---
 
 More than 76% of consumers in India prefer talking to businesses over a phone call, according to a recent study from Truecaller. Since voice is still consumers’ preferred way to communicate, that leaves a big opportunity to automate support and outreach calls using voice AI in the country. Voice AI startup Ringg, which already processes 20 million call attempts a month, is betting that volume keeps climbing over the coming months, and it just raised more money on that belief.

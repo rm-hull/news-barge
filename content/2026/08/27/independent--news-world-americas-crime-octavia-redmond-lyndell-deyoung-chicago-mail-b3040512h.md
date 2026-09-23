@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Cedar Rapids
+- Chicago
+- Cook County
+- Iowa
+people:
+- '![Redmond'
+- Elise Foster
+- Lyndell DeYoung
+- Octavia Redmond
+organisations:
+- ABC7
+- Chicago Police Department
+- DeYoung
+- National Association of Letter Carriers Branch
+- The Chicago Sun-Times
+- The Chicago Tribune
+- The Independent
+- U.S. Postal Inspection Service
 ---
 
 A man has been charged after allegedly forcing a teenager to kill a postal carrier along her route.

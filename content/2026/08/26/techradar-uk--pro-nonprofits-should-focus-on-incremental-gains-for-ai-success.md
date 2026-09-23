@@ -10,6 +10,16 @@ image: https://cdn.mos.cms.futurecdn.net/pvNhZoQGQLQjddZZmWtWxH-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- US
+people: []
+organisations:
+- AI
+- Future plc
+- TechRadar Pro
+- TechRadarPro
+- Unit4
 ---
 
 ![A person using a desktop computer.](https://cdn.mos.cms.futurecdn.net/pvNhZoQGQLQjddZZmWtWxH.jpg) 

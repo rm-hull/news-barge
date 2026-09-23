@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Bar Street
+- North Yorkshire
+- Scarborough
+- Scarborough'S Town Centre
+- Scarbroough
+- St Nicholas Street
+- Walkers Of Bar Street
+- YO11 2HG
+people:
+- Andrew Walker
+- Anttoni James Numminen
+- Courtesy Numminen
+organisations:
+- LDRS
+- North Yorkshire Council
+- North Yorkshire Council, Licensing Services
+- Town Hall
+- TripAdvisor
 ---
 
 ## Top rated café applies for new licence in North Yorkshire town

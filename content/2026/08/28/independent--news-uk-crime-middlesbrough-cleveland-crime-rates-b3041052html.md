@@ -13,6 +13,31 @@ categories:
 - UK
 - True Crime
 - Society & Culture
+locations:
+- A66
+- Birchington Avenue
+- City of London
+- Cleveland
+- England
+- Grangetown
+- Greater Manchester
+- Middlesbrough
+- Redcar
+- South Bank
+- Stockton-on-Tees
+- Wales
+- West Yorkshire
+people:
+- Natalie McDonald
+- Valentina Foster
+organisations:
+- Cleveland Police
+- Gwent
+- Hartlepool
+- Home Office
+- Metropolitan Police
+- Middlesbrough
+- Northamptonshire
 ---
 
 The area of the country covered by Cleveland Police – which includes Middlesbrough – has the highest crime rate in England and Wales.

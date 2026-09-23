@@ -10,6 +10,18 @@ image: https://static.independent.co.uk/2026/08/21/16/01M0JDRR2PCDEB2955RW40M8RK
 categories:
 - News & Politics
 - UK
+locations:
+- Elizabeth
+- Homes England
+- London
+- UK
+people:
+- Andy Burnham
+- Gideon Amos
+- Sadiq Khan
+organisations:
+- Labour
+- The Sunday Times
 ---
 
 Andy Burnham is set to hand mayors new powers to take control of local planning decisions to build large-scale developments such as houses, tower blocks and skyscrapers.

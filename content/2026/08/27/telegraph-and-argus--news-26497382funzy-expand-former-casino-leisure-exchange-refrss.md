@@ -14,6 +14,21 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Grosvenor Casino
+- UK
+- YOUR
+people:
+- Funzy
+organisations:
+- Bradford Council
+- Funzy
+- Leisure Exchange
+- Newsquest
+- POPULAR Bradford
+- Public Notice Portal
+- The Leisure Exchange
 ---
 
 *(Image: T&A)*

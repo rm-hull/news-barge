@@ -14,6 +14,27 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- BRADFORD
+- Sports Village
+- Wyke Recreation Ground
+people:
+- Ian Walker
+- Jessica Evans
+- Mike Simmonds
+- Ms Evans
+- Wyke
+- Zach Woodcock
+organisations:
+- '## Council'
+- Big TV
+- Bradford Council
+- National Youth Circuit
+- Reform
+- Sweetie People
+- The Coffee Box
+- The Sweetie People on Towngate
+- Wyke
 ---
 
 *(Image: Mike Simmonds)*

@@ -12,6 +12,58 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- Aston Villa
+- Brighton
+- Diriyah
+- Exeter
+- Istanbul
+- Watkins'
+- West Ham
+people:
+- '## Villa'
+- Brian Madjo
+- Crysensio Summerville
+- Darwin Nunez
+- Emi Martinez
+- Ezri Konsa
+- Joao Gomes
+- Joshua Zirkzee
+- Lucas Digne
+- Marco Bizot
+- Morgan Rogers
+- Nicolas Jackson
+- Ollie Watkins
+- Paul Tisdale
+- Tammy Abraham
+- Taylor Harwood-Bellis
+- Unai Emery
+- Watkins'
+- Youri Tielemans
+- Zion Suzuki
+organisations:
+- Al-Hilal
+- Aston Vila
+- Aston Villa
+- Aston Villahave
+- Besiktas
+- Brentford
+- Brighton
+- Chelsea
+- Crystal Palace
+- Derby
+- Europa League
+- Fifa
+- Freiburg
+- Juventus
+- Manchester City
+- Manchester United
+- Southampton
+- VIlla
+- Villa Park
+- Villarreal
+- Wycombe
 ---
 
 ![Ollie Watkins](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/78e2/live/e523f0a0-9fb9-11f1-b703-13ae65ccf6b5.jpg)

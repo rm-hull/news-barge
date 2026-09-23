@@ -11,6 +11,29 @@ description: Brits can finally join Europeans in installing plug-in solar kits, 
 image: https://cdn.mos.cms.futurecdn.net/UBmBPCF7Db4mL959ePtUM-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Amazon
+- England
+- Europe
+- Germany
+- Ireland
+- Stockport
+- UK
+people:
+- Dave
+- David Nield
+- John Boumphrey
+organisations:
+- Amazon
+- Asda
+- B&Q
+- Gizmodo
+- Google News
+- Lidl
+- PC Explorer
+- Plug-In Solar Register
+- The Hardware Handbook
+- UKSOL
 ---
 
 ![A balcony solar panel next to a man with a solar panel under his arm](https://cdn.mos.cms.futurecdn.net/UBmBPCF7Db4mL959ePtUM.jpg) 

@@ -13,6 +13,21 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations: []
+people:
+- Daniel Gordon
+- Mark Tyson
+- Martyn Johnson
+- Paul Jardetzky
+- Quentin Stafford-Fraser
+- Tom
+organisations:
+- Acorn RISC
+- Cambridge University
+- Google News
+- Tom's Hardware
+- Trojan Room
+- XCoffee
 ---
 
 ![A picture of the Trojan Room coffee pot, displayed in the XCoffee viewer.](https://cdn.mos.cms.futurecdn.net/3yurUPH49MgxYbgwxy4xPZ.jpg) 

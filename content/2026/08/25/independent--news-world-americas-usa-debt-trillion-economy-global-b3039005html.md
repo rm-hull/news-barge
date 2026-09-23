@@ -13,6 +13,21 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Singapore
+- US
+- Washington
+people:
+- Alexander Hamilton
+- Donald Trump
+- Muhammad Ali Nasir
+organisations:
+- Federal Reserve
+- OECD
+- The Conversation
+- US Congress
+- US Treasury
+- University of Leeds
 ---
 
 US national debt has passed a record US$40 trillion (£29.4 trillion). This milestone is a major warning sign. It reveals vulnerabilities that threaten the long-term economic stability of the US and the rest of the world.

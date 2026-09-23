@@ -12,6 +12,38 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- America
+- Britain
+- California
+- France
+- Indonesia
+- Malaysia
+- Oakland
+- Turkey
+- UK
+- US
+people:
+- Andy Burnham
+- James Grimmelmann
+- Keir Starmer
+- Meta
+- Molly Russell
+- Munira Wilson
+- Pat McFadden
+- Rachael Kent
+organisations:
+- Cornell University
+- Instagram
+- King’s College London
+- Liberal Democrats
+- Meta
+- Molly Rose Foundation
+- Ofcom
+- Sky News
+- Tech Policy Press
+- TikTok
+- YouTube
 ---
 
 The UK government expects the Instagram owner Meta to roll out the same protections for children in Britain as those it agreed in the US on Wednesday, as part of a court settlement that could cost the company up to $18bn (£13bn).

@@ -15,6 +15,26 @@ categories:
 - News & Politics
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Cramlington
+- Manor Walks
+- Manor Walks Shopping Centre
+- Timpson
+people:
+- Helen Platt
+- Ian
+- Laura Hopper
+- Lee Farrier
+- Mark
+- Read More
+- Timpson
+organisations:
+- Advance Northumberland
+- Cramlington Cobbler
+- Manor Walks
+- Sainsbury’s
+- The Cramlington Cobbler
+- Timpson
 ---
 
 *(Image: Google Maps)*

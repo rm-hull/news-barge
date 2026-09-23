@@ -13,6 +13,16 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- Fox
+- Holgate Road
+- York
+people:
+- Anttoni James Numminen
+organisations:
+- Audi
+- Fox
+- North Yorkshire Police
 ---
 
 *(Image: Anttoni James Numminen)*

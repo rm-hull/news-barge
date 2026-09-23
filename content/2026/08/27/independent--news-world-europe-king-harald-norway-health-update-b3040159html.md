@@ -11,6 +11,21 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Canary Islands
+- Europe
+- Malaysia
+- National Hospital
+- Norway
+- Oslo University Hospital
+- Spain
+people:
+- Haakon
+- Harald V
+- Märtha Louise
+- Sonja
+organisations:
+- NHS
 ---
 
 Norway's King Harald V is in a “very serious” condition after his health worsened while in hospital, the royal court has announced.

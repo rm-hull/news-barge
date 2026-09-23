@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Europe
+- France
+- Geneva
+- Singapore
+people:
+- André Hoffmann
+- Christine Lagarde
+- Larry Fink
+- Tharman Shanmugaratnam
+organisations:
+- BlackRock
+- Board of Trustees
+- ECB
+- Euronews
+- European Central Bank
+- NZZ
+- Neue Zürcher Zeitung
+- Roche
+- WEF
+- World Economic Forum
 ---
 
 ## The World Economic Forum is currently co-chaired by BlackRock CEO Larry Fink and André Hoffmann, the vice chairman of Roche.

@@ -13,6 +13,50 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Bradford
+- Ibiza
+- Manchester
+- St George’s Hall
+- UK
+people:
+- Chris Rea
+- Corinne Bailey Rae
+- Deacon Blue
+- Depeche Mode
+- Duran Duran
+- Free
+- Gary Davies
+- Gary Davies’
+- Queen
+- Sara Cox
+- Single’
+- Steve Wright
+- Whitney
+- Woo Gary Davies’
+- Young
+organisations:
+- ABBA
+- Aha
+- BBC Radio
+- BBC Radio 2
+- Erasure
+- Eurythmics
+- Good Groove
+- Gypsy Kings
+- Human League
+- Leeds
+- Madonna
+- Piccadilly Radio
+- Radio 1
+- Radio 2
+- Simple Minds
+- Soft Cell
+- St George's Hall
+- Tears For Fears
+- Top Of The Pops
+- U2
+- Wham!
 ---
 
 DUST off those shoulder pads, tease that hair and dig out the Frankie T-shirt...Gary Davies is bringing the Eighties party to Bradford.

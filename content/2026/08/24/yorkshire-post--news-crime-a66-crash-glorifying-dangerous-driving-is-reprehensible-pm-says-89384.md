@@ -14,6 +14,47 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Downing Street
+- Kyiv
+- Middlesbrough
+- Teesside Magistrates’ Court
+- TikTok
+people:
+- Andy Burnham
+- Cole Robert Worthy
+- Jacob Matusiak
+- John Walker
+- Lisa Nandy
+- Luke Pollard
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Owen Humphreys
+- Pc Clough
+- Pc Matthew Blades
+- Pc Tom Clough
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- Cleveland Police
+- Cleveland Police HQ Memorial Garden
+- Government
+- HM Courts & Tribunals Service
+- HMCTS
+- Meta
+- Ofcom
+- Pc Blades
+- Snap
+- State for Culture, Media and Sport
+- The Telegraph
+- TikTok
+- Union Jack
+- VW
+- Volkswagen
+- Volvo
+- Yorkshire Post
 ---
 
 # A66 crash: glorifying dangerous driving is ‘truly reprehensible’, Burnham says after seven-death smash

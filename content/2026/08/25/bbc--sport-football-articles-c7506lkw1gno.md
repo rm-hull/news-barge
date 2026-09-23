@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Sports
 - Business & Entrepreneurship
+locations:
+- Austria
+- Kairat Almaty
+- Kazakhstan
+- Raiffeisen Arena
+people:
+- Brendan Rodgers'
+- Callum McGregor
+- Martin O'Neill
+- Martin O'Neill.
+- Neil Lennon
+- Scott Brown
+- Stiliyan Petrov
+- Wilfried Nancy
+organisations:
+- Amazon
+- BBC Radio Scotland
+- Celtic Park
+- LASK
+- O'Neill's Celtic
+- Parkhead
 ---
 
 ![Martin O'Neill takes responsibility](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/62ff/live/3a0293a0-a0dd-11f1-9eb4-25fa73e257d0.jpg)

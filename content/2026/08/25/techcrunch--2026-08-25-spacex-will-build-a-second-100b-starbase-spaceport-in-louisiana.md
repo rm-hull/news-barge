@@ -12,6 +12,33 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Science
+locations:
+- Boca Chica
+- Gulf Coast
+- Louisiana
+- New Orleans
+- South Texas
+- Starbase
+- Vermilion Parish
+people:
+- Chad Vallo
+- Elon Musk
+organisations:
+- Bloomberg News
+- Coastal Master Plan
+- Coastal Wetlands Planning, Protection and Restoration Act
+- Exxon
+- Falcon
+- LED
+- Louisiana Department of Wildlife and Fisheries, Coastal Protection and Restoration
+  Authority
+- Louisiana Economic Development
+- Occupational Health and Safety Administration
+- Securities and Exchange Commission
+- SpaceX
+- Starbase
+- Starship
+- Vermilion Parish Police
 ---
 
 SpaceX has announced it will build a second spaceport for future launches of its Starship mega-rocket at a former Exxon property in Louisiana, ending what the company says was a seven-year search for a suitable location.

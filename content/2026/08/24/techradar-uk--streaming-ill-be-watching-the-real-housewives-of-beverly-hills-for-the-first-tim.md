@@ -13,6 +13,36 @@ image: https://cdn.mos.cms.futurecdn.net/Wji7JJCzM8Zkzj8tFugb95-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Bozoma Saint
+- Ghana
+- Los Angeles
+- Virgin River
+people:
+- Bravo
+- DJ Talented
+- Dorit Kemsley
+- George Cooper Sr.
+- Jennifer Tilly
+- John
+- Johns
+- Kathy Hilton
+- Keely Watson
+- Kyle Richards
+- Sutton Stracke
+organisations:
+- Google News
+- Hallmark
+- Instagram
+- Jasmine
+- Netflix
+- Radio Times
+- Real Housewives
+- Stylist
+- TV Mount Everest
+- TechRadar
+- TikTok
+- Yahoo!
 ---
 
 ![A promotional shot of the Real Housewives of Beverly Hills season 15 cast](https://cdn.mos.cms.futurecdn.net/Wji7JJCzM8Zkzj8tFugb95.jpg) 

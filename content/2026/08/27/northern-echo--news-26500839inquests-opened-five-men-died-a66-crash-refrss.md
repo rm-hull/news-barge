@@ -13,6 +13,40 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- CLEVELAND
+- Hartlepool
+- Middlesbrough
+- Peterlee
+- South Bank
+- Teesside Coroner's Court
+people:
+- Cole Robert Worthy
+- Cole Worthy
+- Jacob Matusiak
+- Jakub Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- Michael Robert Cahill
+- PC Blades'
+- PC Clough
+- Paul Appleton
+- Theo Rae
+- Thomas Clough
+- Tom Clough
+- Wayne Fox
+organisations:
+- A66
+- Civil Nuclear Constabulary
+- Cleveland Police
+- Cleveland Police Federation
+- IOPC
+- PC Blades
+- PC Clough
+- Passat
+- Volvo
 ---
 
 Five young men who died after driving the wrong way up the A66 and smashing into a police car died of head, neck and body injuries, inquests heard.

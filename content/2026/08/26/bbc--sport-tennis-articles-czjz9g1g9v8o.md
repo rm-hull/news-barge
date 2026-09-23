@@ -13,6 +13,56 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Austria
+- Chile
+- China
+- Finland
+- France
+- Kazakhstan
+- Lithuania
+- New York.
+- Spain
+- Switzerland
+- Ukraine
+people:
+- Aleksandar Kovacevic
+- Angela Fita Boluda
+- Arthur Fery
+- Bianca Andreescu
+- Billy Harris
+- Cameron Norrie
+- Clara Burel
+- Cristian Garin
+- Elena Pridankina
+- Francesca Jones
+- Grigor Dimitrov
+- Harriet Dart
+- Harry Wendelken
+- Heather Watson
+- Jack Pinnington Jones
+- Jacob Fearnley
+- Jan Choinski
+- Joanna Garland
+- Jurij Rodionov
+- Katie Boulter
+- Katie Swan
+- Kristina Penickova
+- Luka Pavlovic
+- Mary Stoiana
+- Mees Rottgering
+- Mona Barthel
+- Otto Virtanen
+- Pinnington Jones
+- Remy Bertola
+- Tamara Zidansek
+- Timofey Skatov
+- Toby Samuel
+- Veronika Podre
+- Vilius Gaubas
+- Zheng Qinwen
+organisations:
+- BBC Sport
 ---
 
 ![Heather Watson clenches her fist in celebration after winning a point in US Open qualifying](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/4edf/live/5156e430-a1a9-11f1-bbde-d5b9c47bbf6b.jpg)

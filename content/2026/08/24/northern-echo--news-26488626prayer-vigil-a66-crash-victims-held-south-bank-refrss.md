@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Middlesbrough
+- NORTHERN ECHO
+- Redcar
+- South Bank
+- Stuart Boulton
+- cleveland
+people:
+- Anna Turley
+- Cole Robert Worthy
+- Jacob Matusiak
+- Jakub Matusiak
+- Makai Saddington
+- Malcolm Lockey
+- Matthew Blades
+- Michael Robert Cahill
+- Ms Turley
+- Pc Blades
+- Pc Clough
+- Pc Tom Clough
+- Theo Rae
+- Tom Clough
+- Victoria Fuller
+organisations:
+- A66
+- Cleveland Police
+- Evangelist Church
+- St John
 ---
 
 A silent prayer vigil will be held in South Bank today (August 24) as the community continues to mourn seven people who died in the devastating A66 crash.

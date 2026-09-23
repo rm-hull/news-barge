@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Addenbrooke's Hospital
+- Cambridge
+- Cambridgeshire
+- Huntingdon
+- Norfolk
+- Old Hurst
+people:
+- Johnsons
+organisations:
+- ACT
+- Addenbrooke's Charitable Trust
+- BBC
+- Cambridgeshire Police
+- Sick Children's Trust
 ---
 
 ![A view from above of a crocodile on a sandy or muddy ground, sitting next to brown-coloured water in an enclosure. There is green foliage to the left.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/7626/live/931ca240-85b8-11f1-bd07-3b1b1452001a.jpg)

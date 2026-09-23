@@ -13,6 +13,19 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- UK
+people:
+- Aldi
+- Rachel Geary
+organisations:
+- '## Aldi'
+- Aldi Aldi
+- Aldi Superfam
+- Aldi UK
+- Lidl
+- Watchdog
 ---
 
 *(Image: Aldi)*

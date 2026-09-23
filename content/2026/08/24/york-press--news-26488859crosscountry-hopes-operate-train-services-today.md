@@ -13,6 +13,23 @@ categories:
 - Local
 - York
 - History
+locations:
+- Birmingham
+- Cardiff
+- Cheltenham
+- Derby
+- Edinburgh
+- Glasgow
+- Leicester
+- Manchester
+- Newcastle
+- UK
+people:
+- Heidi Alexander
+organisations:
+- '## CrossCountry'
+- Great British Railways
+- National Grid
 ---
 
 *(Image: Getty)*

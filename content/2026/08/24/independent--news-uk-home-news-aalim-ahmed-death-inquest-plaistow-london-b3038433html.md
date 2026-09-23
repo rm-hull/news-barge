@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- East London Coroner’s Court
+- Jacobs House
+- New City Road
+- Plaistow
+people:
+- Aalim Ahmed
+- Charlie Mann
+- Ian Wade
+- Ian Wade KC
+- James Mann
+- Jamie Humm
+- Joe Linton
+- John Gray
+- Makail Ahmed
+- Ms Osman
+- Sahra Osman
+- Tom Monk
+organisations:
+- ABC Ltd
+- CCTV
+- Newham Council
 ---
 
 A five-year-old boy died after jumping from a 15th-floor tower block window that was "compromised", a coroner said.

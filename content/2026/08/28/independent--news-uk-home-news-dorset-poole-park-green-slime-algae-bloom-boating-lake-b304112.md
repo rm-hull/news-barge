@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Bournemouth
+- Christchurch
+- Dorset
+- England
+- London
+- Poole Harbour
+- Poole Park
+- Thames
+people:
+- Andy Hadley
+- Nick Davies
+organisations:
+- EA
+- EU
+- Environment Agency
+- Ham
+- Kingston
+- Mail
+- Poole Council
+- Portfolio Holder for Climate Response, Environment and Energy
 ---
 
 A picturesque boating lake in Dorset has been covered in green algae, as nearby businesses have reported a dip in sales due to the “disgusting” outbreak.

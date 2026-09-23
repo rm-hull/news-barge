@@ -13,6 +13,41 @@ image: https://static.independent.co.uk/2024/11/25/07/newFile.jpg?width=1200&hei
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Gulf
+- Iran
+- Islamic Republic
+- Israel
+- Qatar
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- U.S.
+- Venezuela
+- White House
+people:
+- Adm
+- Ayatollah Ali Khamenei
+- Benjamin Netanyahu
+- Brad Cooper
+- Dan Caine
+- Donald Trump
+- JD Vance
+- Nicolas Maduro
+- Olivia Wales
+- Pete Hegseth
+- Scott Bessent
+- Tulsi Gabbard
+organisations:
+- Independent
+- Joint Chiefs
+- Oval Office
+- The Journal
+- Treasury
+- Trump
+- U.S. Central Command
+- Wall Street Journal
 ---
 
 President Donald Trump was warned against attacking Iran in February by U.S. intelligence chiefs, who suggested it could backfire and usher in an even more hard-line regime, according to a report.

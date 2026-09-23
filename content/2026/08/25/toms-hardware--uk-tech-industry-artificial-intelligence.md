@@ -12,6 +12,26 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Beijing
+- China
+- Fort Pierce
+- U.S.
+- Zhongguancun
+people:
+- Aileen Cannon
+- Sam Altman
+- Tom
+organisations:
+- AMD
+- Anna's Archive
+- Claude Code
+- Florida
+- GPT-5.6 Sol
+- Get Tom's Hardware
+- Huawei
+- OpenAI
+- Spirit Airlines
 ---
 
 ![image of brain over circuit board](https://cdn.mos.cms.futurecdn.net/visRdjSzfsihBG9wNfqPQY-1200-80.png) 

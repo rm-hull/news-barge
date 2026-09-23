@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Leeds
+- North Yorkshire
+- Skipton**
+people: []
+organisations:
+- BTP
+- British Transport Police
+- Crimestoppers
 ---
 
 Police are investigating a sexual assault on a train to North Yorkshire.

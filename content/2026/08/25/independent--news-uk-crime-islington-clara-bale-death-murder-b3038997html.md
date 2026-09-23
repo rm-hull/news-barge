@@ -12,6 +12,18 @@ categories:
 - UK
 - True Crime
 - History
+locations:
+- Bollinder Place
+- Islington
+- London
+- Valencia Tower
+people:
+- Clara Bale
+- Michelle You
+- Miss Bale
+- Paul Waller
+organisations:
+- Metropolitan Police
 ---
 
 A grieving family says the death of their “brilliant” daughter in a north London flat has left them with “an immeasurable void” in their lives.

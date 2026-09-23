@@ -12,6 +12,31 @@ image: https://cdn.mos.cms.futurecdn.net/aE5Re6ecAS5LdTgqPEoR5N-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Booby Trap
+- Miami
+- Overtown
+- River
+- South Beach
+people:
+- Boobie
+- Cyberleek
+- Dazed
+- Jason
+- Lucia
+- Max Payne
+- Rob Nelson
+- Rupert Humphries
+organisations:
+- 9PM CEST
+- BBC
+- BST
+- Dazed
+- GTA
+- Grand Theft Auto 6
+- Netflix
+- PS5
+- Rockstar North
 ---
 
 ![A split image showing the GTA 6 logo, the Netflix logo on an iPad, and Jason and Lucia dancing in the game](https://cdn.mos.cms.futurecdn.net/aE5Re6ecAS5LdTgqPEoR5N.jpg) 

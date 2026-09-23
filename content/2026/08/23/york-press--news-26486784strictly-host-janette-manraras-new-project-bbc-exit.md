@@ -12,6 +12,64 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- Britain
+- London
+- Strictly
+people:
+- Aleksandra Isaeva
+- Anton Du Beke
+- Bethany Antonia
+- Chris Appleton
+- Claudia Winkleman
+- Craig Revel Horwood
+- Cristian Priori
+- Dani Dyer
+- EastEnders' Stacey Slater
+- Ellie Taylor
+- Emma Willis
+- Gavin
+- Gorka Marquez
+- Graeme Hall
+- Jaime Winstone
+- Janette Manrara
+- Johannes Radebe
+- John Nellis
+- Josh Widdicombe
+- Karen Hauer
+- Lacey Turner
+- Lawrence Robb
+- Lethabo Monametsi
+- Luba Mushtuk New
+- Mackenzie Boyd
+- Maddie Ingoldsby
+- Mark Karmalita
+- Melanie Walters
+- Michelle Tsiakkas
+- Motsi Mabuse
+- Nadiya Bychkova
+- Ray Burmiston
+- Sarah Storey
+- Shaun Wright-Phillips
+- Shirley Ballas
+- Tabby Stoecker
+- Tess Daly
+- Yui Mok
+organisations:
+- AFFLUENZA
+- BBC
+- Blackpool Tower Ballroom
+- Delta Goodrem
+- Emmerdale
+- Fleur East
+- Instagram
+- Lancashire
+- London’s Riverside Studios
+- Newsquest
+- Riverside Studios
+- Strictly
+- TV Zone
+- YouTube
 ---
 
 *(Image: Yui Mok/PA Wire)*

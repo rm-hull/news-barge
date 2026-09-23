@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Enumclaw
+- Forest Grove
+- Oregon
+- Portland
+- Washington County
+people:
+- Benjamin Charles Parker
+- Caprice Massey
+- Shannon Wilde
+organisations:
+- Washington County Sheriff’s Office
 ---
 
 A suspect in the killings of five people found dead at a rural Oregon property was discovered dead inside a vehicle in Washington state Sunday, authorities said.

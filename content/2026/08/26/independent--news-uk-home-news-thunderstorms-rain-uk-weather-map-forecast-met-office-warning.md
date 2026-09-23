@@ -11,6 +11,25 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- East Midlands
+- Leeds
+- London
+- Manchester
+- Newcastle
+- North East
+- North West
+- South East
+- South West
+- South of England
+- UK
+- Wales
+- West Midlands
+people:
+- Steve Willington
+organisations:
+- Met Office
+- Wales
 ---
 
 Thunderstorms and heavy rain will move across the UK as wet and unsettled conditions put an end to a hot and dry summer.

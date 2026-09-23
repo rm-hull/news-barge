@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Australia
+- Birmingham
+- Britain
+- California
+- Cotswolds
+- Highgrove
+- London
+- Princess of Wales
+- Sydney
+- UK
+- US
+people:
+- Archie
+- Charles
+- Elizabeth II
+- Ella Kipling
+- Harry
+- Lilibet
+- Meghan
+organisations:
+- Associated Newspapers
+- BBC News
+- Daily Mail and Mail
+- Duchess of Sussex
+- Executive Committee for the Protection of Royalty and Public Figures
+- High Court
+- Home Office
+- Ravec
+- Sussexes'
 ---
 
 ![Harry and Meghan seen walking together in Sydney harbour in April. He is wearing a blue shirt and a cap, she is wearing a striped blue shirt.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/64db/live/e2854ca0-a148-11f1-9311-09d4e1fc9016.jpg)

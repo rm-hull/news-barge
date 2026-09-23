@@ -14,6 +14,21 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Iran
+- Jackson Hole
+- UK
+- US
+- Wyoming
+people:
+- Andrew Bailey
+- Kevin Warsh
+organisations:
+- AI
+- Bank of England
+- Bloomberg TV
+- Fed
+- Federal Reserve
 ---
 
 Artificial intelligence (AI) and robotics will be a “critical source” of faster growth that is needed in the UK economy, the boss of the Bank of England has said.

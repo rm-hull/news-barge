@@ -13,6 +13,20 @@ categories:
 - Hardware
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Newegg
+people:
+- Stephen Warwick
+- Tom
+organisations:
+- Apple
+- Corsair
+- Google News
+- Micron
+- RAM
+- TechRadar
+- Tom's Hardware
+- iMore
 ---
 
 ![Corsair Vengeance DDR5](https://cdn.mos.cms.futurecdn.net/G4YHFng8EzKzoEAcjKCD8k.jpg) 

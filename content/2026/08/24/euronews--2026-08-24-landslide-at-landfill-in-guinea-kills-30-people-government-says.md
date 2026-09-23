@@ -13,6 +13,17 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Conakry
+- Dar Es Salam
+- Guinea
+people:
+- Abou Hamza
+- Dienabou Touré
+organisations:
+- AFP
+- State
+- World Bank
 ---
 
 ## Heavy train triggered the landslide at the waste mound. The government had issued eviction orders to local residents living near the landfill in the days leading up to the incident out of fear for a collapse.

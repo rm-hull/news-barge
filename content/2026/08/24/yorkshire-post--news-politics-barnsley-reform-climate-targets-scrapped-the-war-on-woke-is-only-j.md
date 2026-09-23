@@ -14,6 +14,16 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations: []
+people:
+- Dan Kitwood
+- Nigel Farage
+- William Brown
+organisations:
+- '## Reform UK-led Barnsley Council'
+- Reform Barnsley
+- Reform UK
+- Zero45
 ---
 
 # Barnsley Reform - climate targets scrapped: 'The war on woke is only just beginning'

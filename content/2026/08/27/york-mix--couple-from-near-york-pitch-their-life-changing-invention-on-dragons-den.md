@@ -11,6 +11,22 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- UK
+- York
+people:
+- Belle Richardson
+- Deborah Meaden
+- Gary Neville
+- Jason
+- Peter Jones
+- Steven Bartlett
+- Touker Suleyman
+organisations:
+- BBC One
+- Belle
+- SealStop
+- Yorkshire
 ---
 
 Inventors from near York pitch their ingenious device on Dragons’ Den tonight (Thursday).

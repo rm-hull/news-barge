@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Rwanda
+people:
+- Brig
+- David Himbara
+- Frank Rusagara
+- Paul Kagame
+- Tom Byabagamba
+organisations:
+- Court of Appeal
+- Human Rights Watch
+- Military High Court
 ---
 
 Tom Byabagamba, a former commander of President Paul Kagame’s elite presidential guard who later was convicted of inciting insurrection, has died in prison after spending a dozen years behind bars, his brother said. He was 59.

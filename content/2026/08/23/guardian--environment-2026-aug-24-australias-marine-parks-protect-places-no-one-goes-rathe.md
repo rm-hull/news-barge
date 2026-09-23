@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Bermagui
+- Bremer
+- Great Barrier Reef
+- Lord Howe
+- NSW
+- New South Wales
+- Norfolk
+- Northern Territory
+- Queensland
+- South Australia
+- Sydney
+- Unesco
+- Western Australia
+people:
+- Carissa Klein
+- David Booth
+- Jessica Meeuwig
+- Murray Watt
+organisations:
+- Centre for Biodiversity and Conservation Science
+- East Australian Current
+- Marine Futures Lab
+- University of Queensland
+- University of Technology Sydney
+- University of Western Australia
 ---
 
 The Australian government has been accused of leaving coastal waters largely unprotected by establishing the bulk of highly protected marine parks in remote areas.

@@ -13,6 +13,21 @@ categories:
 - York
 - Comedy & Entertainment
 - Film & TV
+locations: []
+people:
+- Chris Harris
+- Freddie Flintoff
+- James May
+- Jeremy Clarkson
+- Jimmy Carr
+- Paddy McGuinness
+- Richard Hammond
+organisations:
+- BBC Studios
+- EastEnders
+- Newsquest
+- The Sun
+- Top Gear
 ---
 
 *(Image: PA)*

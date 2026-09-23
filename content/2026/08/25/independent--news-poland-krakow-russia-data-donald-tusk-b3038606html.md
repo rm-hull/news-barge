@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Krakow
+- Martynka
+- Poland
+- Russia
+- Ukraine
+- Ukrainian House
+- Warsaw
+people:
+- Donald Tusk
+- Karol Nawrocki
+- Katarzyna Nowakowska
+- Martynka
+- Nastya Podorozhnya
+- Olena Babakova
+- Rafał Trzaskowski
+- Sonia Novytska
+- Volodymyr Zelenskyydecided
+- Yuliia Repenko
+- Zelenskyy
+organisations:
+- AP
+- Deloitte
+- The Associated Press
+- U.N.
+- Vistula University
 ---
 
 When Nastya Podorozhnya's relatives fled the war in Ukraine for neighboring Poland, volunteers welcomed them with open arms.

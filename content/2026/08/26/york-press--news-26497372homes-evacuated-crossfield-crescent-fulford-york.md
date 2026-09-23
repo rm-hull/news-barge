@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Crossfield Crescent
+- Fulford
+- North Yorkshire
+- York
+people:
+- Eddie Mitchell
+organisations:
+- Newsquest
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Police
 ---
 
 *(Image: Eddie Mitchell / Newsquest)*

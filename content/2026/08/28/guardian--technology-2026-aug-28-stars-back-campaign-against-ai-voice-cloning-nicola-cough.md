@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Britain
+- Denmark
+- Paddington
+- UK
+people:
+- AI
+- Andy Burnham
+- Hugh Bonneville
+- Jen Brister
+- Luke Evans
+- Matt Lucas
+- Nicola Coughlan
+- Pearl Mackie
+- Peter Caulfield
+- Siobhán McSweeney
+organisations:
+- AI
+- Black Mirror
+- Derry Girls
+- Downton Abbey
 ---
 
 Nicola Coughlan, Hugh Bonneville and Matt Lucas are among a group of actors backing a campaign against artificial intelligence voice cloning.

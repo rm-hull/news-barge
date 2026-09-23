@@ -12,6 +12,59 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- A1036 Tadcaster Road
+- A64
+- Ashville Street
+- Askham Fields
+- Back Lane
+- Bishopthorpe
+- Buckles Inn
+- Church Lane
+- Claremont Terrace
+- East Parade
+- Eboracum Way
+- Eldon Street
+- Farmers Way
+- Flaxman Croft
+- Greenshaw Drive
+- Hawthorn Grove
+- Haxby Road
+- Heworth Green
+- Heworth Road
+- Howden Lane
+- Huntington Road
+- Landing Lane
+- Layerthorpe
+- Lowther Street
+- Markham Street
+- Mill Lane
+- Moor Lane
+- Moor Lane Drive
+- Naburn Lane
+- North Street Gardens
+- Osbaldwick
+- Ouse Bridge
+- Skelton
+- The Village
+- Union Terrace Car Park
+- Water End
+- Westfield Lane
+- Wheldrake
+- Wigginton
+- YOUR
+- York Road
+people: []
+organisations:
+- A64
+- Car Club
+- City of York Council
+- Copmanthorpe
+- Public Notice Portal
+- RSPCA
+- Sawyers Crescent
+- Wheelwright Close
+- Yorkshire Water
 ---
 
 *(Image: The Press)*

@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- China-Nepal
+- Gosainkunda
+- Kathmandu
+- Mount Kailash
+- Nepal
+people:
+- Cara Severino
+- Debbie
+- Frank Severino
+- God
+organisations: []
 ---
 
 An Australian woman has made contact with her family, more than two days after she was reported missing in flash flooding in Nepal.

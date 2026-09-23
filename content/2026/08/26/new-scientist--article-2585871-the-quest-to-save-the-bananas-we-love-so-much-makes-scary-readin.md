@@ -12,6 +12,22 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308733669.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Australia
+- Brisbane
+- Cavendish
+- New Zealand
+- North Queensland
+- Townsville
+- UK
+- US
+people:
+- Cavendish
+- James Dale
+organisations:
+- Cavendish
+- New Scientist
+- Queensland University of Technology
 ---
 
 ![Banana Tree Plantation with Bananas Hanging; Shutterstock ID 1560262256; purchase_order: -; job: -; client: -; other:](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308733669.jpg?w=840)

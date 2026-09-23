@@ -13,6 +13,17 @@ categories:
 - York
 - Family & Parenting
 - Lifestyle & Fashion
+locations:
+- 54North Homes
+- Acomb
+- York Nicola
+people:
+- Gavin Fisk
+- Ms Cumberland
+- Nicola Cumberland
+organisations:
+- 54North Homes
+- Nicola’s
 ---
 
 ## Mum-of-three hits out at housing association over 'rat-infested' home in York

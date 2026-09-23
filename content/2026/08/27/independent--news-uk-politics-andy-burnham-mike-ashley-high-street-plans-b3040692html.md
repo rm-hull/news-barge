@@ -13,6 +13,18 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Britain
+- Downing Street
+- England
+- Westminster
+people:
+- Andy Burnham
+- Mike Ashley
+organisations:
+- Amazon
+- Frasers
+- Labour
 ---
 
 Billionaire businessman Mike Ashley has described Andy Burnham’s high street recovery strategy as "delusional", insisting it will fail to help salvage British retail.

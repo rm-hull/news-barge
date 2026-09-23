@@ -13,6 +13,37 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Grand Hall
+- Harrogate
+- Haxby Flower Meadow
+- Ilkley Lido
+- Lightwater Valley
+- Peasholm Park Naval Warfare
+- RHS Garden Harlow Carr
+- Ripon** Lightwater Valley
+- Scarborough
+- Sheffield’s Peace Gardens
+- South Bay
+- Terrington
+- Wakefield
+- York
+people:
+- Luigi
+- Luke Gerram
+- Mario
+- Simon Hulme
+organisations:
+- Haxby Flower Meadows
+- Helios
+- RHS Garden Harlow Carr
+- Scarborough Spa Orchestra
+- Seaside’
+- Settle Tourist Information Centre
+- Sheffield
+- Spa Orchestra
+- Wakefield Exchange
+- Yorkshire Lavender
 ---
 
 # Yorkshire events set to finish in September

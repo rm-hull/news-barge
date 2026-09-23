@@ -11,6 +11,20 @@ description: A guide to putting together a fully working Pi computer you can pic
 image: https://cdn.mos.cms.futurecdn.net/waZYTJp9Cw2ghTwchtqwnn-1600-80.jpg
 categories:
 - Technology & Software
+locations:
+- England
+- Stockport
+people:
+- Brian Corteil
+- Dave
+- David Nield
+organisations:
+- Corteil
+- Gizmodo
+- Google News
+- PC Explorer
+- Raspberry Pi
+- The Hardware Handbook
 ---
 
 ![Raspberry Pi cyberdeck](https://cdn.mos.cms.futurecdn.net/waZYTJp9Cw2ghTwchtqwnn.jpg) 

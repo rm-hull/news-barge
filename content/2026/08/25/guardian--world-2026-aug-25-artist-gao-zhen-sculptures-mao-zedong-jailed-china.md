@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Beijing
+- China
+- Hebei
+- Sanhe
+- US
+people:
+- Dad
+- Gao Qiang
+- Gao Zhen
+- Jesus
+- Mao Zedong
+- Mum
+- Sarah Brooks
+- Sophie Richardson
+- Weiquanwang
+- Yu-chen Li
+- Zhao Yaliang
+organisations:
+- Amnesty International
+- Guardian
 ---
 
 Gao Zhen, a prominent Chinese artist known for provocative sculptures of the former leader Mao Zedong, has been sentenced to three years in prison after being found guilty of slandering China’s “heroes and martyrs”. The sentencing came two years after he was detained while visiting the country with his family, according to his wife and human rights groups.

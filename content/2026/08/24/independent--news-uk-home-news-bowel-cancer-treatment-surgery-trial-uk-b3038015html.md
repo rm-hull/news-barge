@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- NHS England
+- UK
+people:
+- Michelle Mitchell
+- Peter Johnson
+- Simon Bach
+organisations:
+- Cancer Research UK
+- Colorectal Surgery
+- Lancet Oncology
+- NHS
+- Star-Trec
+- University College London
+- University of Birmingham
+- University of Leeds
 ---
 
 Thousands of bowel cancer patients could be spared a life-altering surgery following a landmark trial for earlier-stage rectal cancer.

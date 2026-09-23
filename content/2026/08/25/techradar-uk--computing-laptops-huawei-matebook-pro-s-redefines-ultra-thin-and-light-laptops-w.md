@@ -11,6 +11,9 @@ description: The latest Feature,/features,,features, breaking news, comment, rev
 image: https://cdn.mos.cms.futurecdn.net/5zgeLkiUszoCEu6Q59fg65-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people: []
+organisations: []
 ---
 
 You must confirm your public display name before commenting

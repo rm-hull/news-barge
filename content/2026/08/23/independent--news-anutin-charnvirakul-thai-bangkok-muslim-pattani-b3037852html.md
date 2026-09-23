@@ -12,6 +12,21 @@ image: https://static.independent.co.uk/2026/08/23/20/Australia_Thailand_36791.j
 categories:
 - News & Politics
 - UK
+locations:
+- Buddhist Thailand
+- Nan
+- Narathiwat
+- Pattani
+- Yala
+people:
+- Anutin Charnvirakul
+- Don Pathan
+organisations:
+- 7-Eleven
+- BRN
+- Barisan Revolusi Nasional Melayu Patani
+- Deep South Watch
+- Prince of Songkla University
 ---
 
 Thailand ’s Prime Minister Anutin Charnvirakul, already facing a flood crisis in the country’s north, held an urgent meeting on Sunday with high-level security officials in response to coordinated violence overnight in three southern provinces where a small-scale Muslim insurgency is active.

@@ -10,6 +10,104 @@ image: https://i.guim.co.uk/img/media/d3ed0d7f79733a9985c59c487ee4d8b4a01a8509/0
 categories:
 - UK
 - News & Politics
+locations:
+- Australia
+- Belarus
+- Belgium
+- Bidur
+- Bulgaria
+- Canada
+- China
+- Chitwan
+- Cincinnati
+- Devighat
+- Essex
+- Finland
+- France
+- Germany
+- Gosford
+- Gyirong Port
+- Harlow
+- Himalayas
+- Hungary
+- India
+- Israel
+- Italy
+- Japan
+- Kathmandu
+- Kazakhstan
+- Latvia
+- Lithuania
+- Mount Kailash
+- Nepal
+- Nepal-China
+- Nepal-Tibet
+- Netherlands
+- New Zealand
+- NurPhoto
+- Nuwakot
+- Philippines
+- Portugal
+- Princess Alexandra Hospital
+- Rasuwa
+- Russia
+- Serbia
+- Shutterstock
+- Singapore
+- South Africa
+- South Korea
+- Spain
+- St Louis
+- Sweden
+- Switzerland
+- Tibet
+- Tibet-Nepal
+- Trishuli
+- UK
+- US
+- Ukraine
+- United Kingdom
+- United States
+people:
+- Anita Anand
+- Anwar Ibrahim
+- Donald Trump
+- Ezra Acayan
+- Jagan Chapagain
+- Jolene Gosha
+- Li Qiang
+- Pawan Koirala
+- Penny Wong
+- Rajendra Pudasaini
+- Shrestha
+- Sunil Pradhan
+- Tom Fletcher
+- Venus Rajnikant Patel
+- Zhu Jinfeng
+organisations:
+- 2026 Planet Labs PBC
+- AFP
+- AP
+- Agence France-Presse
+- CCTV
+- CGTN
+- Getty Images Malaysia
+- IFRC
+- International Federation of Red Cross and Red Crescent Societies
+- Navesh Chitrakar
+- Nepal Red Cross Society
+- Non-Resident Nepali Association UK
+- NurPhoto/Shutterstock US
+- Prakash Mathema/AFP
+- Press Association
+- Red Cross
+- Reuters A
+- Reuters China
+- Sanjit Pariyar
+- Shutterstock A
+- The Red Cross
+- UN
+- Xinhua
 ---
 
 A drone view shows mud covering buildings and property following devastating floods at Trishuli in Nuwakot district, Nepal, on Thursday. Photograph: Navesh Chitrakar/Reuters

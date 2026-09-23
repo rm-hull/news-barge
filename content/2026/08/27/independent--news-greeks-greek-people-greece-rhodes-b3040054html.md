@@ -14,6 +14,23 @@ categories:
 - UK
 - Religion & Spirituality
 - Arts & Culture
+locations:
+- Athens
+- Church of St. Fanourios
+- Cyprus
+- Greece
+- Rhodes
+- Saint Paraskevi
+- St. Fanourios
+people:
+- Christ
+- Fanourios
+- Lefteris Pitarakis
+- Maria Chanioti
+- Nicholas
+- Nikolaos Vlavianos
+organisations:
+- Church of St. Fanourios
 ---
 
 For the careless and despairing alike, there’s a special day on the Orthodox Christian calendar to provide relief — with the help of some orange-flavored cake.

@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Family & Parenting
+locations:
+- Beverley Magistrates' Court
+- Driffield
+- Hull
+- Tibthorpe High Woods
+people:
+- Lyn Healing
+- Michelle Simmons
+organisations:
+- East Riding of Yorkshire Council
 ---
 
 *(Image: Supplied)*

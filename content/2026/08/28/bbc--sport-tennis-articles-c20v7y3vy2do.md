@@ -14,6 +14,53 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Australia
+- Austria
+- California
+- Chile
+- Cincinnati
+- Czech Republic
+- England
+- Flushing Meadows
+- Italy
+- Lithuania
+- Poland
+- Spain
+- States
+- Taiwan
+- Toronto
+- Tuscany
+- UK
+- US
+- Washington
+people:
+- Alex de Minaur
+- Andy Murray
+- Arthur Fery
+- Cameron Norrie
+- Carol Young Suh Lee
+- Cristian Garin
+- De Minaur
+- Fran Jones
+- Harriet Dart
+- Harry Wendelken
+- Heather Watson
+- Jacob Fearnley
+- Jan Choinski
+- Joanna Garland
+- Jurij Rodionov
+- Katie Boulter
+- Kim
+- Luciano Darderi
+- Magda Linette
+- Martin Landaluce
+- Peyton Stearns
+- Toby Samuel
+- Tomas Machac
+- Vilius Gaubas
+organisations:
+- BBC Sport
 ---
 
 ![Katie Boulter and Alex de Minaur](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/2ee3/live/67a94d80-a317-11f1-a291-b542ee92de7c.jpg)

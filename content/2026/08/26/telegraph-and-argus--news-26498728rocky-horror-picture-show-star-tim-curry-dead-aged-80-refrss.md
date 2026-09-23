@@ -15,6 +15,23 @@ categories:
 - Film & TV
 - Comedy & Entertainment
 - Arts & Culture
+locations:
+- London
+- Los Angeles
+- Muppet Treasure Island
+- New York
+- Warrington
+people:
+- Frank-N-Furter
+- Hook
+- Nigel Thornberry
+- Pennywise
+- Peter Pan
+- Stephen King
+- Tim Curry
+organisations:
+- Pirates
+- TMZ
 ---
 
 *(Image: YouTube)*

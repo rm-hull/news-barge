@@ -11,6 +11,40 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- England
+- Senegal
+- Stamford Bridge
+people:
+- Emiliano Martinez
+- Ezri Konsa
+- Honest Ahanor
+- Joao Gomes
+- Johan Manzambi
+- Liam Delap
+- Lucas Digne
+- Matteo Ruggeri
+- Morgan Rogers
+- Nicolas Jackson
+- Ollie Watkins'
+- Unai Emery
+- Watkins
+- Youri Tielemans
+- Zion Suzuki
+organisations:
+- Al-Hilal
+- Aston Villaare
+- Atalanta
+- Bayern Munich
+- Blues
+- Chelsea
+- Europa League
+- Fluminense
+- Nottingham Forest
+- Parma
+- Villa
+- Villarreal
+- XI
 ---
 
 ![Nicolas Jackson](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d348/live/b9205af0-a15a-11f1-92f3-2381193e5eb4.jpg)

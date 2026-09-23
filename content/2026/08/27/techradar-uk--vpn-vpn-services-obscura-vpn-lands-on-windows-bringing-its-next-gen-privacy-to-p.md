@@ -10,6 +10,22 @@ description: 'The privacy-focused VPN has answered its most frequent user reques
 image: https://cdn.mos.cms.futurecdn.net/SRwdcQpKdTvViaipXCkz9g-2560-80.png
 categories:
 - Technology & Software
+locations: []
+people:
+- Carl Dong
+- Rene Millman
+organisations:
+- Computer Weekly
+- Financial Times
+- Google News
+- Google Play
+- IT Pro
+- Microsoft
+- No Trace
+- Obscura VPN
+- Obtainum
+- TechRadar
+- The Guardian
 ---
 
 ![Obscura VPN Windows app, promo image](https://cdn.mos.cms.futurecdn.net/SRwdcQpKdTvViaipXCkz9g.png) 

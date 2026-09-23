@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Afghanistan
+- Atlantic
+- Big Beautiful Reflecting Sea
+- Canada
+- Great Lake
+- Iran
+- Kabul
+- Lake America
+- Lake Ontario
+- Middle East
+- North Korea
+- Pacific
+- Trump River
+- U.S.
+- US
+- Washington
+- White House
+people:
+- Donald Trump
+- Joe Biden
+- Kaitlan Collins
+organisations:
+- CNN
+- Fox
+- MSNBC
+- Trump
 ---
 
 What are we even doing anymore?

@@ -9,6 +9,23 @@ description: Hackers are going after internet-connected PLCs
 image: https://cdn.mos.cms.futurecdn.net/ZtdYh6C8PhDP5njg8EtK6M-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Bosnia and Herzegovina
+- Iran
+- Sarajevo
+- US
+people:
+- Sead
+organisations:
+- Al Jazeera Balkans
+- CISA
+- Google News
+- PLC
+- Represent Communications
+- Sector
+- TechRadar Pro
+- WWS
+- Water and Wastewater Systems
 ---
 
 ![Aerial view of water treatment factory at city wastewater cleaning facility](https://cdn.mos.cms.futurecdn.net/ZtdYh6C8PhDP5njg8EtK6M.jpg) 

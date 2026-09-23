@@ -11,6 +11,27 @@ image: https://techcrunch.com/wp-content/uploads/2018/10/uber-thumb.jpg?resize=1
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Europe
+- France
+- Netherlands
+people:
+- Ben Ali
+- Brahim Ben Ali
+- Daring Fireball
+- John Gruber
+- Monique Verdier
+- Paul-Olivier Dehaye
+- Uber
+organisations:
+- Dutch Data Protection Authority
+- EU
+- General Data Protection Regulation
+- Reuters
+- StartClaims
+- TechCrunch
+- Uber
+- de Volkskrant
 ---
 
 The Dutch Data Protection Authority is fining Uber €825 million (around $966 million) — the second largest penalty issued so far under Europe’s General Data Protection Regulation, according to Reuters.

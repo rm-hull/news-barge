@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- A650
+- Carrgate
+- England
+- Lofthouse
+- M1
+- Yorkshire
+people: []
+organisations:
+- The Press
 ---
 
 *(Image: Highways England)*

@@ -13,6 +13,27 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Beijing
+- Britain
+- China
+- Devon
+- England
+- Hemerdon
+- Plymouth
+- South West
+- UK
+- US
+people:
+- Hemerdon
+- John Healey
+- Jonathan Reynolds
+- Tungsten
+organisations:
+- Government
+- National Wealth Fund
+- Tungsten West
+- Tungsten West Jeff Court
 ---
 
 John Healey has said Government investment in a tungsten mine in Devon will help bolster Britain’s defence and nuclear industries.

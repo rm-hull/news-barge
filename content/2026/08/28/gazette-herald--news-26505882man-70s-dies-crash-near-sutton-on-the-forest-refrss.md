@@ -13,6 +13,19 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Alyssa.Upton
+- Sutton-on-the-Forest
+- York Road
+- York**
+- Yorkshire
+people:
+- Craig Manning
+- Newsquest
+organisations:
+- Astra
+- Audi
+- North Yorkshire Police
 ---
 
 *(Image: Craig Manning / Newsquest)*

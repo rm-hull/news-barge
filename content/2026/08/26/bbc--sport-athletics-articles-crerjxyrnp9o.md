@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Birmingham
+- Britain
+- Brussels
+- Czechoslovakia
+- Helsinki
+- Lausanne
+- Netherlands
+- Paris
+- Tokyo
+- Zurich
+people:
+- Audrey Werro
+- Femke Broeders-Bol
+- Georgia Hunter-Bell
+- Jarmila Kratochvilova
+- Keely Hodgkinson
+organisations:
+- Commonwealth
+- Diamond League
+- Werro
 ---
 
 ![Audrey Werro celebrates by mimicking a lion's claws and roar](https://ichef.bbci.co.uk/ace/standard/995/cpsprodpb/e0fb/live/f5ec74d0-a161-11f1-aaf8-119f176ff4ce.jpg)

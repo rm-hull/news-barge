@@ -15,6 +15,40 @@ categories:
 - News & Politics
 - Arts & Culture
 - Society & Culture
+locations:
+- Acklam
+- CLEVELAND
+- East Middlesbrough Events Centre
+- London
+- SARAH CALDECOTT
+- South Bank
+- Teesside Coroners Court
+people:
+- Andy Burnham
+- Cole Worthy
+- Jacob Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Owen Humphreys
+- Passat
+- Pc Blades’
+- Pc Clough
+- Theo Rae
+- Tom Clough
+organisations:
+- Channel 5 News
+- Civil Nuclear Constabulary
+- Cleveland Police
+- Cleveland Police Federation
+- Cleveland Police HQ
+- Facebook
+- NORTH NEWS
+- PC Blades
+- PC Clough
+- SARAH CALDECOTT)* Police
+- Tees Valley Active
+- Volvo
 ---
 
 *(Image: NORTH NEWS)*

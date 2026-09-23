@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Great Britain
+- Middle East
+people:
+- Andy Burnham
+- Dhara Vyas
+organisations:
+- Cornwall Insight
+- Energy UK
+- Ofgem
 ---
 
 Households in Great Britain could owe their energy suppliers as much as £7bn by the end of the year after higher gas and electricity prices forecast for the winter kick in, an industry group is warning.

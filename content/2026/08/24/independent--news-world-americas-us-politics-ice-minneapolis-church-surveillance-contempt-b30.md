@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Massachusetts
+- Minneapolis
+- University Baptist Church
+people:
+- Alex Pretti
+- Donald Trump
+- F. Dennis Saylor IV
+- Jean E. Lubke
+- Renee Good
+organisations:
+- Church
+- DHS
+- Department of Homeland Security
+- Department of Justice
+- Homeland Security
+- Homeland Security Investigations
+- ICE
+- Immigration and Customs Enforcement
+- Independent
+- National Security Presidential Memorandum-7
+- Sunrise Movement
+- Trump
+- Voices for Racial Justice
 ---
 
 A federal judge will decide whether to hold Donald Trump’s administration in contempt after immigration agents violated court orders barring them from entering places of worship.

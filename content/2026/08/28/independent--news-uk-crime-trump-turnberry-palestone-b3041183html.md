@@ -11,6 +11,24 @@ image: https://static.independent.co.uk/2025/04/11/13/396ff84edff595955e56f0da44
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- Gaza
+- Scotland
+- Turnberry
+- U.S.
+- US
+- White House
+people:
+- Donald Trump
+- Huda Ammori
+organisations:
+- Court of Appeal
+- Defend Our Juries
+- Elbit
+- Palestine Action
+- Trump Turnberry Golf Club
+- UK Supreme Court
 ---
 
 Seven Palestine Action protesters accused of daubing pro-Palestinian graffiti on US President Donald Trump's Turnberry golf resort in Scotland could face longer sentences if found guilty due to what prosecutors have described as a "terrorist connection".

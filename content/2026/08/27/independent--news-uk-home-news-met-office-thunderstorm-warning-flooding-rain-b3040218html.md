@@ -12,6 +12,107 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Bedford
+- Blackburn
+- Blackpool
+- Blaenau Gwent
+- Bridgend
+- Bristol
+- Buckinghamshire
+- Caerphilly
+- Cambridgeshire
+- Cardiff
+- Carmarthenshire
+- Central Bedfordshire
+- Ceredigion
+- Cheshire East
+- Cheshire West
+- Chester
+- Conwy
+- Cumbria
+- Darwen
+- Denbighshire
+- Derby
+- Derbyshire
+- East Midlands
+- East Riding of Yorkshire
+- East of England
+- Essex
+- Flintshire
+- Greater London
+- Greater Manchester
+- Gwynedd
+- Halton
+- Herefordshire
+- Hertfordshire
+- Hull
+- Humber
+- Isle of Anglesey
+- Kent
+- Kingston
+- Lancashire
+- Leicester
+- Leicestershire
+- Luton
+- Maidenhead
+- Medway
+- Merseyside
+- Merthyr Tydfil
+- Milton Keynes
+- Monmouthshire
+- Neath Port Talbot
+- Newport
+- Norfolk
+- North East Lincolnshire
+- North Lincolnshire
+- North Somerset
+- North West England
+- North Yorkshire
+- Northamptonshire
+- Nottingham
+- Nottinghamshire
+- Oxfordshire
+- Pembrokeshire
+- Perry Barr
+- Peterborough
+- Powys
+- Rhondda Cynon Taf
+- Rutland
+- Shropshire
+- South East
+- South East England
+- South Gloucestershire
+- South West England
+- South Yorkshire
+- Southend-on-Sea
+- Staffordshire
+- Stoke-on-Trent
+- Suffolk
+- Swansea
+- Swindon
+- Telford
+- Thurrock
+- Torfaen
+- UK
+- Vale of Glamorgan
+- Wales
+- Warrington
+- Warwickshire
+- West Midlands
+- West Yorkshire
+- Wiltshire
+- Windsor
+- Worcestershire
+- Wrekin
+- Wrexham
+- York
+people:
+- Craig Snell
+organisations:
+- Environment Agency
+- Met Office
+- West Midlands Conurbation
 ---
 
 People across the UK have been urged to prepare an “emergency kit” as flooding and thunderstorms are expected to hit large areas of the country.

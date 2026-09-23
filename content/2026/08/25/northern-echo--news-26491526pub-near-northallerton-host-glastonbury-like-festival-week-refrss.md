@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Beeswing
+- Cowtonbury
+- East Cowton
+- Friarage Hospital
+- Friarage’s Romanby Ward
+- Hambleton
+- North East
+- Richmondshire
+people:
+- Beeswing
+- Beth Robinson
+- Landlady Beth
+- Maureen
+- Stuart Boulton
+- dad Les
+organisations:
+- Beeswing Inn
 ---
 
 A North East pub is hosting its 13th ‘Glastonbury’ festival to raise money for end of life care at a nearby hospital.

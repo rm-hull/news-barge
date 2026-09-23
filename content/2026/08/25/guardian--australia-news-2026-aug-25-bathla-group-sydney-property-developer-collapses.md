@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- NSW
+- New South Wales
+- South Australia
+- Sydney
+- Victoria
+people:
+- Bhart Bhushan
+organisations:
+- Asic
+- Bathla Group
+- Beechwood Homes
+- Built Lifestyles
+- Novati Constructions
+- Teneo
 ---
 
 Embattled home builder Bathla Group has been placed into voluntary administration, leaving customers in limbo in what it says is a “perfect storm” of circumstances.

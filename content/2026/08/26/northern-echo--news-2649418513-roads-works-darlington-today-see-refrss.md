@@ -14,6 +14,50 @@ categories:
 - News & Politics
 - Travel
 - Automotive
+locations:
+- '### A167 A'
+- '### Auckland Avenue Auckland Avenue'
+- '### Beechwood Avenue'
+- '### Edinburgh'
+- '### Ely Close Ely Close'
+- '### Haughton Road'
+- '### Neasham Road'
+- '### Salters Lane South'
+- A67 Coniscliffe Road
+- A68 Bondgate
+- A68 West Auckland Road
+- A68 Woodland Road
+- Auckland Oval
+- Aycliffe
+- B6280 Coniscliffe Road
+- Beadnell Close
+- Beechwood Avenue
+- Bracken Road
+- Brinkburn Road
+- Burma Road
+- Coniscliffe Mews
+- Darlington Drivers
+- Edinburgh Drive
+- Exeter Drive
+- Faverdale
+- Four Riggs
+- Green St Alban's Green
+- Haughton Green
+- Haughton Road
+- Hollyhurst Road
+- M
+- Mcmullen Road
+- Neasham Road
+- North Yorkshire
+- Salters Lane South
+- Southend Avenue
+- Teesdale Avenue
+- Winchester Way
+people: []
+organisations:
+- '### St Alban'
+- B6444 St Andrews Way
+- GOOGLE
 ---
 
 *(Image: GOOGLE)*

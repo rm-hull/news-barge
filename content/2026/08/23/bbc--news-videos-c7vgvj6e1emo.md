@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Sports
 - Health & Fitness
+locations:
+- Beijing
+- China
+people:
+- Cristiano Ronaldo
+- Stephen McDonell
+- Tai Chi
+- Usain Bolt
+organisations:
+- BBC
+- Robots
 ---
 
 # Robots compete in boxing, football and sprinting at World Humanoid Games

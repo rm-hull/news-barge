@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- America
+people:
+- Adam O’Neal
+- Charlie Kirk
+- Karen Attiah
+- Norm Eisen
+- Sarah Miller Espinosa
+- Will Lewis
+organisations:
+- Attiah
+- Democracy Defenders Fund
+- Grievant
+- The Post
+- Washington Post
+- Washington-Baltimore News Guild
 ---
 
 An independent arbitrator has ordered the Washington Post to rehire the high-profile opinion columnist Karen Attiah, abruptly fired by the news organization last September over comments she made on social media about Charlie Kirk, the then recently killed conservative activist.

@@ -14,6 +14,22 @@ categories:
 - Local
 - Harrogate
 - Music
+locations:
+- Beatles’ Abbey Road
+- Harrogate
+- Minskip
+- North Yorkshire
+- St John’s Church
+people:
+- Debbie Hargreaves
+- Elly Fiorentini
+- Minskip
+organisations:
+- BBC Radio York
+- Minskip Garage
+- Morrisons
+- Scarecrow Competition
+- Yolk Farm Shop
 ---
 
 # Preview: Harrogate villagers' scarecrow creations have included classic Beatles album covers and more

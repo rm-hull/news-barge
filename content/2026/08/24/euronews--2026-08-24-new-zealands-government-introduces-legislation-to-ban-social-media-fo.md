@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Aotearoa New Zealand
+- Australia
+- France
+- New Zealand
+- TikTok
+- UK
+people:
+- Christopher Luxon
+- Erica Stanford
+- Reuben Davidson
+organisations:
+- ACT
+- Bill
+- Facebook
+- Instagram
+- Labour
+- Meta
+- NZ First
+- National Party
+- Snapchat
+- TikTok
 ---
 
 ## Under the proposed law, firms like Meta could be fined up to 10% of their global revenue if they fail to comply.

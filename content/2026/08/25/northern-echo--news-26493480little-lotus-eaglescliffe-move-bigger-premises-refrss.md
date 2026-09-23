@@ -14,6 +14,18 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Eaglescliffe
+- Ingleby Barwick
+- North East
+- Sunningdale
+- Teesside
+people:
+- Charlie
+- Sadie Eggleston
+organisations:
+- Little Lotus
+- THE NORTHERN ECHO
 ---
 
 A popular Teesside restaurant has announced it will close its current premises this month as it prepares to move into a bigger home.

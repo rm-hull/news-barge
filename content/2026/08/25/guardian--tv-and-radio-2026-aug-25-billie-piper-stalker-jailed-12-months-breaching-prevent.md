@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Basingstoke
+- Hampshire
+- Winchester
+people:
+- Anisa Alrubaie
+- Billie Piper
+- Caroline Bonavia
+- Kirsty Allman
+- Ms Piper
+- Philip Jerome
+organisations:
+- Facebook
+- GQ
+- Piper’s
 ---
 
 A fan obsessed with Billie Piper has been jailed for 12 months after breaching a stalking prevention order.

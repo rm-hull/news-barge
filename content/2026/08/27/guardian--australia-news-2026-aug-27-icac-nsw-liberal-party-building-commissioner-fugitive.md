@@ -13,6 +13,40 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Australia
+- Botany
+- Castle Hill
+- Lebanon
+- Skyview
+- Sydney
+- Toplace
+- then-New South Wales
+people:
+- Anthony Roberts
+- Cassandra Lawry
+- Charles Perrottet
+- Chris Spence
+- Christian Ellis
+- David Chandler
+- David Shoebridge
+- Dominic Perrottet
+- Eleni Petinos
+- Emma Hogan
+- Jean Nassif
+- Jeremy Greenwood
+- Juliet Curtin
+- Kevin Anderson
+- Sharangan Maheswaran
+- Toplace
+- William Roberts
+organisations:
+- Greens
+- Icac
+- Independent Commission against Corruption
+- NSW Liberal
+- The Australian
+- Toplace
 ---
 
 A fugitive Sydney developer allegedly warned the then-New South Wales building commissioner that he would “harm” him if he got in the way of his projects which were being inspected for defects, the corruption watchdog has heard.

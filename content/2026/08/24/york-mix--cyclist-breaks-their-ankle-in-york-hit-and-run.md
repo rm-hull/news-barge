@@ -12,6 +12,15 @@ categories:
 - York
 - Sports
 - Lifestyle & Fashion
+locations:
+- '#### Crash'
+- Holly Tree Lane
+- Wigginton
+- York Road
+people: []
+organisations:
+- North Yorkshire Police
+- Via
 ---
 
 A cyclist was hurt in a hit-and-run crash in York.

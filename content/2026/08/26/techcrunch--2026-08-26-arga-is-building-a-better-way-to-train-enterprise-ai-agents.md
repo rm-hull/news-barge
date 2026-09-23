@@ -11,6 +11,22 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/Arga-Headshots.jpg?resi
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations: []
+people:
+- Philip Li
+- Yuri Sagalov
+organisations:
+- AI
+- Arga
+- Box Group
+- Catalysts’
+- Emergence
+- General Catalyst
+- Gradient
+- Hubspot
+- SV Angel
+- Salesforce
+- TechCrunch
 ---
 
 Making AI agents work is turning out to be a lot harder than many companies expected. Luckily for them, there’s help on the way: A new crop of startups is finding better ways to test and train agents before they are deployed, particularly on the complexities of the modern enterprise.

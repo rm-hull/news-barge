@@ -11,6 +11,19 @@ description: Many of today's widely used AI systems have been trained on materia
 image: https://cdn.mos.cms.futurecdn.net/sAKNxTKFKv2WboLS6v4Zw7-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Claude
+- Keumars Afifi-Sabet
+organisations:
+- AI
+- Authors Guild
+- ITPro
+- Keumars Afifi-Sabet
+- Live Science
+- QOTD
+- Tech Radar
+- TechRadar Pro
 ---
 
 ![Ultra-rare books are being destroyed by AI](https://cdn.mos.cms.futurecdn.net/sAKNxTKFKv2WboLS6v4Zw7.jpg) 

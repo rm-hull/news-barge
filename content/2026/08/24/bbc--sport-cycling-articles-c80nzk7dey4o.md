@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bellahouston Park
+- Charlotte
+- Glasgow
+- UK
+- Wales
+people:
+- '** Hoy'
+- Archie Goodburn
+- Catherine
+- Chris Hoy
+- George
+- Jeremy Clarkson
+- Louis
+- Prince William
+organisations:
+- BBC Scotland
+- Glasgow Commonwealth
+- Hoy
+- ScottishPower
 ---
 
 Chris Hoy says men must understand their prostate cancer risk

@@ -15,6 +15,51 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- America
+- Arizona
+- Arkansas
+- Chicago
+- Chihuahua
+- Douglas
+- Illinois
+- Lexington
+- Memphis
+- Nebraska
+- New Mexico
+- New World
+- Omaha
+- Panama Canal
+- Pennsylvania
+- Philadelphia
+- Phoenix
+- Salt Lake City
+- Sonora
+- Texas
+- U.S.
+- US
+- Utah
+- White House
+people:
+- Beef
+- Brooke Rollins
+- David Anderson
+- Derrell Peel
+- Donald Trump
+- Glynn Tonsor
+- John Boozman
+organisations:
+- JBS USA
+- Kansas State University
+- New World
+- Oklahoma State University
+- Texas A&M University
+- Trump
+- Tyson Foods
+- U.S. Bureau of Labor Statistics
+- U.S. Department of Agriculture
+- U.S. House Agriculture Committee
+- USDA
 ---
 
 The U.S. plans to reopen a border crossing in Arizona to cattle from Mexico on Monday as part of a broader effort by the Trump administration to reduce record-high beef prices, though economists doubt the move will mean much to grocery store shoppers.

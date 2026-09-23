@@ -13,6 +13,24 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Keighley
+- UK
+people:
+- Dominic Paul
+- Rachel Reeves
+organisations:
+- Bar
+- Beefeater Grill Reward Club
+- Brewers Fayre
+- Cookhouse
+- National Insurance
+- Newsquest
+- Premier Inn
+- Pub
+- Queensway Inns
+- Table Table
+- Whitbread
 ---
 
 *(Image: Getty Images)*

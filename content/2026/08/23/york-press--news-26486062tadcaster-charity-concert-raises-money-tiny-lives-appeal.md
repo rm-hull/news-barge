@@ -13,6 +13,21 @@ categories:
 - York
 - Music
 - Technology & Software
+locations:
+- Riley Smith Hall
+- Tadcaster
+- The Joseph Rowntree Theatre
+- York
+people:
+- Becky White
+- Chris Hagyard
+- Steve Coates
+organisations:
+- Maternity Bereavement Team
+- Riley Smith Hall
+- The Joseph Rowntree Theatre Box Office
+- Tiny Lives Appeal
+- York & Scarborough Hospitals Charity
 ---
 
 ## Live music night in Tadcaster raises hundreds for hospital appeals

@@ -12,6 +12,40 @@ image: https://cdn.mos.cms.futurecdn.net/K8RBqm2CE9bw8AoFYwLG4P-2016-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Grand Army of the Republic
+- Luco
+- Tel
+- The Den
+people:
+- Bonds
+- Demi Williams
+- Downed
+- Hawks
+- Hawks'
+- Jae
+- Kabb
+- Kundri Fathom
+- Luco
+- Runa
+- Trick
+organisations:
+- '### TechRadar Verdict Star Wars Zero Company'
+- 100th Clone Company
+- AP
+- Bioware
+- Bit Reactor
+- Demi
+- Force
+- GameSpot
+- GamesRadar
+- Hawks
+- NME
+- Star Wars Zero Company
+- Tel
+- The Infinite Coil
+- Zero Company
+- ex-Clone Trooper
 ---
 
 ### TechRadar Verdict

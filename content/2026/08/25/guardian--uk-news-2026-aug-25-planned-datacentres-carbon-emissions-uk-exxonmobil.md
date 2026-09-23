@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- AI
+- Bedfordshire
+- Buckinghamshire
+- England
+- Quest Park
+- UK
+- Wapseys Wood
+people:
+- Caroline Lucas
+- Kierra Box
+- Oliver Hayes
+- Sam Hunter-Jones
+- Toby Perkins
+- Tom Hegarty
+- Waspeys Wood
+organisations:
+- ClientEarth
+- Commons
+- Department for Energy Security
+- Ember
+- ExxonMobil
+- Foxglove
+- Friends of the Earth
+- Global Action Plan
+- Labour
+- NSIP
+- Net Zero
+- Quest Park
+- Wales Green
+- Wapseys Wood
 ---
 
 The carbon emissions from just two planned datacentres in England will exceed all of the fossil fuel company ExxonMobil’s UK emissions, analysis has revealed.

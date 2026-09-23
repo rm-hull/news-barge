@@ -11,6 +11,18 @@ image: https://i.guim.co.uk/img/media/4b1c4de1e3a634f4f93a72dfc2d4c3c265237f69/2
 categories:
 - UK
 - News & Politics
+locations:
+- US
+- United States
+people:
+- Christopher Landau
+- Donald Trump
+organisations:
+- AP
+- Associated Press
+- B1
+- Department of Homeland Security
+- Trump
 ---
 
 Donald Trump’s administration said on Monday it planned to revoke the non-immigrant visas of foreigners who have applied for or are currently seeking asylum status in the US, marking its latest step in a sweeping immigration crackdown.

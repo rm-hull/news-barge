@@ -14,6 +14,21 @@ categories:
 - Personal Finance & Investing
 - Real Estate
 - Business & Entrepreneurship
+locations:
+- Iran
+- Middle East
+- UK
+people:
+- Iain McKenzie
+- Jason Tebb
+- Richard Donnell
+organisations:
+- Bank of England
+- HM Revenue and Customs
+- HMRC
+- OnTheMarket
+- The Guild of Property Professionals
+- Zoopla
 ---
 
 The number of home sales dipped last month as the housing market faced a subdued summer amid higher borrowing costs, new data shows.

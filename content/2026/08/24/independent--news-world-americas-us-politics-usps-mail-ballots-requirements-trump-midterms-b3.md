@@ -12,6 +12,22 @@ image: https://static.independent.co.uk/2026/07/28/02/2278806877..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Boston
+- North Carolina
+people:
+- Donald Trump
+- Harmeet Dhillon
+organisations:
+- Civil Rights Division
+- Congress
+- DOJ
+- Justice Department
+- Postal Service
+- Supreme Court
+- Trump
+- U.S. Constitution
+- U.S. Postal Service
 ---
 
 New requirements regarding mail ballots have been introduced by the U.S. Postal Service barely two weeks before some states begin sending them out. However, these updated guidelines will take effect only if the Supreme Court permits President Donald Trump's order restricting mail voting to proceed.

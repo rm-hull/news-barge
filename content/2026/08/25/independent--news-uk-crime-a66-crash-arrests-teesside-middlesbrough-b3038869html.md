@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Micklow Close
+- Middlesbrough
+- Redcar
+- South Bank
+- Teesside
+- Wales
+people:
+- Cameron George
+- Cole Robert Worthy
+- Jacob Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Paul Williams
+- Pc Tom Clough
+- Theo Rae
+organisations:
+- A66
+- BBC Breakfast
+- Cleveland Police
+- Police Federation of England
+- Volkswagen
 ---
 
 A 16-year-old boy is among five more people that have been arrested by detectives investigating the events leading up to the crash on the A66 which left two police officers and five others dead, Cleveland Police said.

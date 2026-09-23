@@ -12,6 +12,19 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- '**'
+- '**York'
+- Havering
+- London
+- North Yorkshire
+- Romford
+- York
+people:
+- Deborah
+organisations:
+- Metropolitan Police
+- North Yorkshire Police
 ---
 
 *(Image: Met Police)*

@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Chichester
+- Hampshire
+- Hants
+- Petersfield
+- Southampton
+- West Sussex
+people:
+- '"[Ms Van Vliet'
+- Chantelle Van Vliet
+- Dodd
+- Jonathan Burns
+- Karen Dodds
+- Ms Van Vliet
+- Stephen Dodds
+- Van Vliet
+organisations:
+- Footlaffs Limited
+- Footlaffs'
 ---
 
 A top beauty therapist has won over £32,000 after she was was fired because she was struggling with the menopause.

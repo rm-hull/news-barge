@@ -12,6 +12,37 @@ image: https://cdn.mos.cms.futurecdn.net/MXqmsVRQzx9hefCvT8TupP-2560-80.jpg
 categories:
 - Technology & Software
 - News & Politics
+locations:
+- Germany
+- Israel
+- Russia
+- Spain
+- The Vatican City
+- US
+- Ukraine
+people:
+- Benedict Collins
+- Francis Fukuyama
+- Jiang Ping
+- Joseph Nye
+- Mike Pompeo
+- Noam Chomsky
+- Shlomo Avineri
+organisations:
+- '## International Burke Institute'
+- AI
+- APT
+- BUCSIS
+- ChatGPT
+- Google News
+- IBI
+- International Burke Institute
+- LinkedIn
+- OpenAI
+- Substack and Telegram
+- Svetofor
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![Shape of Russia filled with Russian flag-colored internet codes on a black hacking background](https://cdn.mos.cms.futurecdn.net/MXqmsVRQzx9hefCvT8TupP.jpg) 

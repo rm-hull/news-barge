@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford Magistrates’ Court
+- Holme Wood
+people:
+- Lewis Abbott
+organisations:
+- Holme Wood Community Partnership
+- Newsquest
+- West Yorkshire Police
 ---
 
 *(Image: Newsquest)*

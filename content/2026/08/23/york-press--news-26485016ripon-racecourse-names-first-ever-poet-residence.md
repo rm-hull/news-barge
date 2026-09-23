@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- North Yorkshire
+- UK
+- Yorkshire’s Garden Racecourse
+people:
+- Antony Pickthall
+- James Hutchinson
+organisations:
+- )* Ripon Racecourse
+- Arts Council England
+- Ripon Racecourse
+- Ripon Races’ Facebook
 ---
 
 *(Image: Supplied)*

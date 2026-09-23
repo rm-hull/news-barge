@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Lidl
+- Redcar
+people: []
+organisations:
+- Great North Air Ambulance Service
+- NEAS
+- North East Ambulance Service
 ---
 
 *(Image: GNAAS)*

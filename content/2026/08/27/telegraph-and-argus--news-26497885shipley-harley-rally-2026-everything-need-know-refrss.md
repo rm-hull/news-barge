@@ -13,6 +13,35 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Apperley Bridge
+- Baildon
+- Belgium
+- Bradford
+- Europe
+- France
+- Guiseley
+- Ilkley
+- Ireland
+- Northgate
+- Otley
+- UK
+people:
+- John Barrams
+- Lee Boyes
+- Lyndon Fieldhouse
+- Mike Ruff
+organisations:
+- Baildon Rugby Club
+- Harley-Davidson
+- Newsquest
+- Road Kings to Sportsers
+- Shipley Harley Rally
+- Shipley NPT
+- Shipley Neighbourhood Policing Team
+- Telegraph & Argus
+- The Wrecking Crew
+- West Yorkshire Police
 ---
 
 *(Image: Newsquest)*

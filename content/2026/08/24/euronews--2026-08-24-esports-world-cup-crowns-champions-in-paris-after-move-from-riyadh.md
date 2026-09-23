@@ -13,6 +13,39 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- France
+- Paris
+- Riyadh
+- Saudi Arabia
+people:
+- '## Young'
+- BaiSha
+- Cancelling
+- Danila “Malibuca
+- Danny Engels
+- Duparc
+- Emmanuel Macron
+- Faisal bin Bandar bin Sultan
+- Gwen
+- Gwendal
+- Iakovenko
+- Mike McCabe
+- Mohammed bin Salman
+- Prince Faisal
+- Taylor-Petrik “vic0” Gatschelhofer
+- Xxiao
+- Zheng “Xxiao” Qi
+organisations:
+- AG.AL
+- BaiSha Gaming
+- Duparc
+- Esports Foundation
+- Euronews
+- Mobile Legends
+- Team Falcons
+- Team Liquid
+- Team Vitality
 ---
 
 ## The China-based AG.AL claimed the $7 million Club Championship as the seven-week tournament wrapped up its first edition outside Saudi Arabia after a short-notice relocation to France.

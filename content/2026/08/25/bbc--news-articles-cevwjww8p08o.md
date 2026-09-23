@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Middlesbrough
+- South Bank
+- Teesside
+people:
+- Cole Robert Worthy
+- Cole Robert Worthy Those
+- Jacob Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- PC Blades
+- PC Clough
+- Theo Rae
+- Theo Ray
+- Tom Clough
+organisations:
+- '** Cleveland Police'
+- BBC Sounds
+- Cleveland Police
+- Independent Office for Police Conduct
+- Lucozade
+- Radio Tees
 ---
 
 ![Pictures of the two officers. Both are smiling. PC Blades, left, has stubble and short fair hair. PC Clough also has stubble and short dark hair.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png)

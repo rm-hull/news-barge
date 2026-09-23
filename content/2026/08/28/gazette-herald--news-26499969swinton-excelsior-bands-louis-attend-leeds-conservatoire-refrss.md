@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Music
+locations: []
+people:
+- Arlo
+- Louis
+- Louis’
+- Tracey Popham
+organisations:
+- BA
+- Leeds Conservatoire
+- Popular Music
+- Swinton & District Excelsior Band
+- Training Band
 ---
 
 *(Image: Swinton & District Excelsior Band)*

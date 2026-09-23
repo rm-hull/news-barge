@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - True Crime
+locations:
+- Argentina
+- Chambers
+- Chambers’
+- Europe
+- Gaza
+- Ibiza
+- Israel
+- London
+- New Hampshire
+- Sameer Project
+- Spain
+- Tunisia
+- UK
+- US
+people:
+- Augusto Pinochet
+- Baltasar Garzón
+- Cox
+- James “Fergie” Chambers
+- Stella Schnabel
+organisations:
+- Club Africain
+- Cox Communications
+- Elbit Systems
+- FBI
+- Guardian
+- Hamas
+- Instagram
+- Palestine Action
+- Trump
 ---
 
 FBI agents raided the Ibiza, Spain, vacation rental of 41-year-old James “Fergie” Chambers, a US citizen and wealthy donor to leftwing and humanitarian projects worldwide, in the days following his arrest last month, the Guardian has learned.

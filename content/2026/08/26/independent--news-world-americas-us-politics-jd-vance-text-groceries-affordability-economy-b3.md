@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Iran
+- Middletown
+- Myrtle Beach
+- Ohio
+- Sen
+- South Carolina
+- Washington
+people:
+- Darline Graham
+- Donald Trump
+- JD Vance
+- Mamaw
+- Natalie Allison
+organisations:
+- Democratic National Committee
+- GOP HQ
+- Independent
+- JD Vance
+- RNC
+- Republican National Committee
+- The Washington Post
+- Trump
+- VP
 ---
 
 The Republican National Committee has reportedly sent out texts signed by Vice President JD Vance and seeking to raise donations ahead of the midterms that frankly acknowledge the cost of living crisis, conceding: “Groceries cost what they cost.”

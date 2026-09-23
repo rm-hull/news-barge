@@ -11,6 +11,16 @@ description: Android Pulse is a new app that might already be on your phone, and
 image: https://cdn.mos.cms.futurecdn.net/kETbkoMDQW6w45SQSqZfHN-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- James
+organisations:
+- AI
+- APK Mirror
+- Clarity Media
+- Google News
+- Google Play Store
+- TechRadar
 ---
 
 ![Google Pixel 11 Hands On](https://cdn.mos.cms.futurecdn.net/kETbkoMDQW6w45SQSqZfHN.jpg) 

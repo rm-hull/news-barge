@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Church Lane
+- Cleveland
+- Eston
+- Lime Road
+- Middlesbrough
+- Normanby Road
+- Redcar
+- South Bank
+- Teesside
+- Teesworks
+people:
+- Andy Burnham
+- Anna Turley
+- Lauren Somerville
+- Matthew Blades
+- Nicola Marfleet
+- Tom Clough
+- Victoria Fuller
+organisations:
+- ?** Cleveland Police
+- A66
+- Cleveland Police
+- Cleveland Police Federation
+- Great North Air Ambulance Service
+- Hazardous Area Response Team
+- IOPC
+- Independent Office for Police Conduct
+- Middlesbrough
+- Sky News
 ---
 
 Seven people have died, including two police officers, in a “devastating”car crash following a chase in the early hours of Saturday morning.

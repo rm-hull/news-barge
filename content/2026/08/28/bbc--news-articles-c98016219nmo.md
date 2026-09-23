@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Hull
+- Loughborough
+- Norfolk
+- Scarfell Pike
+- Snowdon Mountain Railway
+- UK
+- Wales'
+- Yorkshire
+- Yr Wyddfa
+people:
+- Ben Nevis
+- Fin Chadwick
+- Helen Pacey
+- James Munday
+- Liam White
+- Patrick
+- Scarfell Pike
+- Serena Cain
+- Stan Milsom Hughes
+- Wyddfa James Munday
+- Yr Wyddfa
+organisations:
+- Eryri National Park Authority
+- Serena
+- Yr Wyddfa
 ---
 
 ![Helen has a neutral expression as she takes a selfie overlooking the summit of Yr Wyddfa](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/eb76/live/4e07d6f0-a36f-11f1-9433-9349800bd218.jpg)

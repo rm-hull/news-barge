@@ -12,6 +12,31 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+- US
+- United States
+people:
+- CyrusOne
+- Sead
+- ShinyHunters
+organisations:
+- AT&T
+- Al Jazeera Balkans
+- CME Group
+- CyrusOne
+- Fortune
+- Google News
+- IBM
+- Meta
+- Microsoft
+- Ransomware
+- Represent Communications
+- Salesforce
+- ShinyHunters
+- TechRadar Pro
+- Verizon
 ---
 
 ![Phishing, E-Mail, Network Security, Computer Hacker, Cloud Computing Cyber Security 3d Illustration](https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX.jpg) 

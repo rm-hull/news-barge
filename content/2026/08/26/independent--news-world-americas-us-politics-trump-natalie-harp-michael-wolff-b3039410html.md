@@ -12,6 +12,46 @@ image: https://static.independent.co.uk/2026/08/19/17/15/GettyImages-2287538819.
 categories:
 - News & Politics
 - UK
+locations:
+- Atlanta
+- Atlantic
+- Canada
+- Florida
+- Georgia
+- Iran
+- Lake Ontario
+- Michigan
+- Qatar
+- U.K.
+- West Palm Beach
+- White House
+people:
+- Dan Scavino
+- Davis Ingle
+- Debbie Dingell
+- Donald Trump
+- Emir
+- Joanna Coles
+- Jon Ossoff
+- Karoline Leavitt
+- Lake Natalie
+- Marco Rubio
+- Michael Wolff
+- Natalie Harp
+- Pee-Wee Herman
+- Scott Jennings
+- Steven Cheung
+- Walt Nauta
+organisations:
+- Air Force One
+- CNN
+- MS NOW
+- One America News
+- The Independent
+- Trump
+- Trump’s
+- West Wing
+- White House Communications
 ---
 
 President Donald Trump’s personal assistant Natalie Harp enjoyed a special perk when she first joined his team that raised eyebrows among fellow staffers, according to author Michael Wolff.

@@ -12,6 +12,43 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- America
+- Mar-a-Lago
+- Texas
+- White House
+people:
+- Biden
+- Bush
+- Clarence Thomas
+- Donald Trump
+- Frederick Douglass
+- George H.W
+- Ginni Thomas
+- Harlan Crow
+- Justice Thomas
+- Mark Meadows
+- Mark!
+- Mike Lee
+- Roe
+- Sheldon Whitehouse
+- Ted Cruz
+- Thurgood Marshall
+- Virginia “Ginni” Thomas
+- Wade
+organisations:
+- Capitol
+- Club for Growth
+- Congress
+- Conservative Supreme Court
+- Fox News
+- Heritage Foundation
+- House
+- Justices of this Court
+- Left
+- ProPublica
+- Supreme Court
+- Trump
 ---
 
 Conservative Supreme Court Justice Clarence Thomas thanked Senator Ted Cruz and other Republican members of Congress for defending him against ethics complaints after bombshell reporting uncovered lavish gifts he received from a prominent GOP donor while serving on the nation’s highest court.

@@ -11,6 +11,23 @@ image: https://cdn.mos.cms.futurecdn.net/VFZAGkPfiuEJKYKtdJdhXK-1920-80.png
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Kotaku
+people:
+- Ally
+- Andrew E. Freedman
+- Tom
+organisations:
+- Asus Store
+- Best Buy
+- Get Tom's Hardware
+- Google News
+- Killswitch
+- Laptop Mag
+- NUC
+- PCMag and Complex
+- Tom's Guide
+- Tom's Hardware
 ---
 
 ![Asus ROG Xbox Ally X2](https://cdn.mos.cms.futurecdn.net/VFZAGkPfiuEJKYKtdJdhXK.png) 

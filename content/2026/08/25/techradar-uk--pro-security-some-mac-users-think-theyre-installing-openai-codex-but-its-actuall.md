@@ -10,6 +10,27 @@ description: An elaborate scheme was designed to deploy AMOS
 image: https://cdn.mos.cms.futurecdn.net/UjSNcAZ5SebctebKAMQNVF-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+- Terminal
+people:
+- Cato
+- Sead
+organisations:
+- '**Crooks'
+- AI
+- AMOS
+- Al Jazeera Balkans
+- CATO CTRL
+- Codex CLI
+- Google Ads
+- Google News
+- Google Sites
+- OpenAI
+- Represent Communications
+- TechRadar Pro
+- macOS Terminal
 ---
 
 ![Cybersecurity ensures data protection on internet. Data encryption, firewall, encrypted network, VPN, secure access and authentication defend against malware, hacking, cyber crime and digital threat](https://cdn.mos.cms.futurecdn.net/UjSNcAZ5SebctebKAMQNVF.jpg) 

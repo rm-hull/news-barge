@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Hague
+- Libya
+- Lockerbie
+- Malta
+- Scotland
+- US
+- Washington
+people:
+- Abdelbaset al-Megrahi
+- Abu Agila Masud
+- Al Amin Khalifa Fhimah
+- Dabney Friedrich
+- Megrahi
+- Michael Bernstein
+- Ms Bernstein
+- Stephanie Bernstein
+organisations:
+- Libyan Airlines
+- Victims of PanAm Flight 103
 ---
 
 A Libyan man acquitted following his trial over the Lockerbie bombing has died, according to reports.

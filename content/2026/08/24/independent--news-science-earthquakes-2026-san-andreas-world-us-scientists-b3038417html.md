@@ -13,6 +13,51 @@ categories:
 - UK
 - Travel
 - History
+locations:
+- Catia La Mar
+- Colombia
+- Earth
+- Indonesia
+- Japan
+- Mexico
+- Oregon
+- Pacific Northwest Cascadia
+- Pereira
+- Philippines
+- San Andreas
+- San Andreas Fault
+- Southern California
+- Spain
+- U.S.
+- Venezuela
+- Washington
+- West Coast
+- Yatsushiro
+people:
+- Allen Husker
+- Bruce D. Alexander
+- Eric Dunham
+- Folarin Kolawole
+- John Emilio Vidale
+- Maureen Long
+- William Barnhart
+- Zachary Ross
+organisations:
+- American Red Cross
+- Caltech
+- Columbia University
+- Department of Earth and Environmental Sciences
+- Department of Earth and Planetary Sciences
+- Earthquake Hazards
+- MyShake
+- Oregon State University
+- ShakeAlert
+- Stanford University
+- The Independent
+- U.S. Geological Survey
+- USGS
+- University of Washington
+- Yale University
 ---
 
 Major earthquakes have caused devastation around the world this summer.

@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Crystal Palace
+- Everton
+- France
+- Senegal
+people:
+- Bradley Barcola
+- Ismaila Sarr
+- Jean-Philippe Mateta
+- Liverpoolare
+- Minteh
+- Pierre Sage
+organisations:
+- Anfield
+- BBC Sport
+- Brighton
+- Crystal Palace
+- Fifa
+- Galatasaray
+- Liverpool
+- Paris St-Germain
+- Premier League
+- Reds
+- Yankuba Minteh.
+- forCrystal Palace
 ---
 
 ![Ismaila Sarr celebrating for Crystal Palace](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/0236/live/67fb3470-a15e-11f1-aaf8-119f176ff4ce.jpg)

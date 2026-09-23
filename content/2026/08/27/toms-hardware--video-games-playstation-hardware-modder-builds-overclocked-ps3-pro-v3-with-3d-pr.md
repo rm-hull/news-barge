@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Mark Tyson
+- Tom
+organisations:
+- CPU
+- FPS
+- Fun-Equivalent-7785
+- Get Tom's Hardware
+- Google News
+- PC
+- PS
+- PS3
+- Sony
+- Tinfoil
+- Tom's Hardware
 ---
 
 ![The ‘PS3 Pro v3’ design.](https://cdn.mos.cms.futurecdn.net/9eE73Lb2hrEUgfbpQ6VJcV.jpg) 

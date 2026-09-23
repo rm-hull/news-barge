@@ -13,6 +13,40 @@ image: https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- U.S.
+people:
+- Bill Peebles
+- Brad Lightcap
+- Brent Mayo
+- Chloé Bakalar
+- Chris Malone
+- Denise Dresser
+- Fidji Simo
+- Greg Brockman
+- Kate Rouch
+- OpenAI
+- Sachin Katti
+- Sam Altman
+- Uday Ruddarraju
+organisations:
+- AI
+- Business Insider
+- Dresser
+- Google
+- IPO
+- Meta
+- Microsoft
+- Nvidia
+- OpenAI
+- Oracle
+- SoftBank
+- Sora
+- Spas Lazarov
+- TechCrunch
+- Trump
+- WSJ
+- Wall Street Journal
 ---
 
 OpenAI has lost yet another executive, and the timing of this one stands out in particular given this individual oversaw the execution of the company’s data center strategy.

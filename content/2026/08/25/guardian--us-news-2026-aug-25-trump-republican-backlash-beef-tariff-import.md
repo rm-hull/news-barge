@@ -11,6 +11,26 @@ image: https://i.guim.co.uk/img/media/628e963f9a99e5089f267fea6c145f966f72c407/7
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Iowa
+- Montana
+- Nebraska
+- US
+- Wyoming
+people:
+- Ashley Hinson
+- Brooke Rollins
+- Donald Trump
+- Jamieson Greer
+- John Barrasso
+- Pete Ricketts
+- Tim Sheehy
+organisations:
+- Fox News
+- Senate
+- Spectrum News
+- Trump
 ---
 
 Donald Trump is facing growing criticism from within his own party over his decision to temporarily pause US tariffs on foreign beef in a bid to bring down grocery prices.

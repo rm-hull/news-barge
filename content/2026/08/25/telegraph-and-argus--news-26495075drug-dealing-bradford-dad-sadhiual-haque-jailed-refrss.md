@@ -15,6 +15,23 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Leeds
+- Nottingham Street
+- Pudsey
+- Thornbury
+- West Yorkshire Police
+people:
+- Erin Kitson-Parker
+- Geoffrey Marson KC
+- Helen Chapman
+- Sadhiual Haque
+- Vince Blake-Barnard
+organisations:
+- Bradford Crown Court
+- HMP Leeds
+- Operation Phoenix
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

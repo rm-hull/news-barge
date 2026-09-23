@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Canada
+- Manitoba
+- Nova Scotia
+- Ontario
+- Ottawa
+- US
+- United States
+- White House
+people:
+- Andrea Lawlor
+- Donald Trump
+- JD Vance
+- Mark Carney
+- Mark Wiseman
+- Steve Verheul
+- Tim Houston
+- Wab Kinew
+organisations:
+- Canadian Broadcasting Corporation
+- McMaster University
+- Trump
 ---
 
 The calamitous collapse of trade negotiations between Canada and the United States is a warning to nations worldwide that pursuing any kind of dialogue with the current US administration is doomed at the outset, according to observers who say this recent episode indicates seeking a fair deal is futile.

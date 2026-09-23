@@ -12,6 +12,14 @@ image: https://static.independent.co.uk/2026/08/28/11/Congo_Ebola_Vaccination_37
 categories:
 - News & Politics
 - UK
+locations:
+- Biena
+- Congo
+- Manguredjipa
+- North Kivu
+people: []
+organisations:
+- Ministry of Health
 ---
 
 Ebola outbreak in eastern Congo spreads to 2 new health zones with a total of 60 areas now affected

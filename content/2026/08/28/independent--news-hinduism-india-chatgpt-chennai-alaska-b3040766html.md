@@ -14,6 +14,52 @@ categories:
 - UK
 - Religion & Spirituality
 - Arts & Culture
+locations:
+- AI
+- Alaska
+- Boston
+- Chennai
+- Collegeville
+- Gurugram
+- India
+- Los Angeles
+- Minnesota
+- New Delhi
+- San Diego
+- West
+people:
+- AI
+- Brother Govindananda
+- David Nussbaum
+- Deepak Chopra
+- Digital Deepak
+- God
+- Jaggi Vasudev
+- Kripa Vaidyanathan
+- Liz Bucar
+- Lord Krishna
+- Noreen Herzfeld
+- Paramahansa Yogananda
+- Sadhguru
+- Shivaram K R
+- Vikas Sahu
+- Vy Le
+organisations:
+- AI
+- AP
+- Associated Press
+- ChatGPT
+- GitaGPT
+- Hue Learn
+- Lilly Endowment Inc
+- Northeastern University
+- Proto Hologram
+- Sadhguru
+- Sahu
+- Self-Realization Fellowship
+- Shivaram
+- St. John’s School of Theology and Seminary
+- The Conversation US
 ---
 
 When Kripa Vaidyanathan’s 27-year-old niece died in an Alaska car crash in 2024, her family in Chennai, India, felt shell-shocked. They questioned why this tragedy would befall them when they had such “immense faith in God.”

@@ -15,6 +15,17 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Careers & Productivity
+locations:
+- UK
+people:
+- '## Evri'
+- Carl Lyon
+organisations:
+- DHL eCommerce UK
+- Evri Group
+- Evri Premium
+- Evri’s Go Electric
+- Onsi
 ---
 
 Parcel delivery company Evri has announced plans to recruit more than 10,000 people across the UK.

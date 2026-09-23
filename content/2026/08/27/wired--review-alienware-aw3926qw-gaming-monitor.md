@@ -12,6 +12,26 @@ categories:
 - Technology & Software
 - Science
 - Video Gaming
+locations:
+- USB-C
+people:
+- Matthew S.
+- Matthew S. Smith
+- Matthew S. Smith I
+- Matthew S. Smith Size
+organisations:
+- AW3926QW
+- AdobeRGB
+- Alienware
+- HDR
+- IEEE Spectrum
+- LG
+- OLED
+- PC World
+- RGB Stripe
+- USB-C
+- UltraGear Evo GX9
+- WIRED
 ---
 
 39-inch display size is the ultrawide sweet spot. Excellent image quality. Good connectivity, including USB-C. Lower price than competitors.

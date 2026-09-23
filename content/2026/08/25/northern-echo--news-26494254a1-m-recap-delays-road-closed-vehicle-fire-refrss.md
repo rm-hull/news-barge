@@ -14,6 +14,11 @@ categories:
 - News & Politics
 - Technology & Software
 - Automotive
+locations: []
+people: []
+organisations:
+- A1
+- The Northern Echo
 ---
 
 ## Our live feed has now finished.

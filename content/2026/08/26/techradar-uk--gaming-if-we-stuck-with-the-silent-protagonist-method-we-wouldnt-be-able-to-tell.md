@@ -13,6 +13,17 @@ image: https://cdn.mos.cms.futurecdn.net/3DujjpMPnJMmxNqKSwo7Wo-2560-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations: []
+people:
+- Andriy Shevchenko
+- Jon Bloch
+organisations:
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- TechRadar Gaming
 ---
 
 ![Metro 2039](https://cdn.mos.cms.futurecdn.net/3DujjpMPnJMmxNqKSwo7Wo.jpg) 

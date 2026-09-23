@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Beit Lahiya
+- Gaza Strip
+people:
+- Abu Rabee
+- Bilal Abu Rabee
+- Qu Dongyu
+- Saqer Abu Rabee
+- Yousef
+organisations:
+- FAO
+- Forensic Architecture
+- Hamas
+- Israel Defense Forces
+- UN
+- UN’s Food and Agriculture Organization
 ---
 
 As Gaza’s population of 2.1 million has been hemmed into an ever smaller slice of the territory, farmers are using every last remaining patch of unspoiled earth, no matter how tiny, in their struggle to survive.

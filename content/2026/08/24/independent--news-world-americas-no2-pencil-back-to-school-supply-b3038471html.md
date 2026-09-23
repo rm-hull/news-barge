@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- America
+- Massachusetts
+- United States
+people:
+- Caroline Weaver
+- Henry David Thoreau
+- John Thoreau
+- Walden
+organisations:
+- (“Pencils
+- No. 2
 ---
 
 For generations of Americans, the sharpened No. 2 pencil has long symbolized youth and growing up. Still a staple of back-to-school shopping lists, it helps children trace their initial letters, erase their mistakes and doodle in the margins during moments of daydreaming.

@@ -11,6 +11,40 @@ image: https://cdn.mos.cms.futurecdn.net/Qzn3BrmsSd5MwmX6Ka2fXa-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Amsterdam
+- Australia
+- Bosbaan
+- Canada
+- Paris
+- Shanghai
+- UK
+- US
+people:
+- Aatif Sulleyman
+- Fiona Murtagh
+- Karolien Florijn
+- Oliver Zeidler
+- Rower Oliver Zeidler
+- Sinkovic
+- Stefanos Ntouskos
+- Yauheni Zalaty
+organisations:
+- 2026wramsterdam
+- Aatif
+- CBC Gem
+- Facebook
+- Future Publishing
+- Gizmodo
+- Instagram
+- Newsweek
+- NordVPN
+- NordVPN**
+- TechRadar
+- The Independent
+- Trusted Reviews
+- WorldRowing
+- YouTube
 ---
 
 ![Rower Oliver Zeidler celebrates winning men's single sculls gold at the Paris 2024 Olympics](https://cdn.mos.cms.futurecdn.net/Qzn3BrmsSd5MwmX6Ka2fXa.jpg) 

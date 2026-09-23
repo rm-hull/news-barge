@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Amazon
+- US
+people:
+- John Oliver
+organisations:
+- Amazon Prime
+- FTC
+- Federal Trade Commission
+- General Electric
+- General Motors
+- GrubHub
+- HBO
+- HP
+- Hello Fresh
+- LA Fitness
+- Lyft Pink
+- Netflix
+- Salesforce
+- Whirlpool
 ---
 
 On the Sunday night episode of his HBO show, John Oliver discussed the rise of subscription-based business models across the worlds of music, film and TV, beauty, food, cleaning services and more.

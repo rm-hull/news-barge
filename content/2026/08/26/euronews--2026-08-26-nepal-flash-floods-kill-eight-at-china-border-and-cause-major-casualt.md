@@ -12,6 +12,29 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- China
+- Gyirong Port
+- Lhende
+- Nepal
+- Nuwakot
+- Shigatse
+- South Asia
+- Tibet
+people:
+- Abi Narayan Kafle
+- Sarthak Shrestha
+- Suman Chalise
+- Xi Jinping
+organisations:
+- AFP
+- CCTV
+- ICIMOD
+- International Centre for Integrated Mountain Development
+- Nepal Army
+- Nepal Electricity Authority
+- Nepal Tourism Board
+- Xinhua
 ---
 
 ## Monsoon rains from June to September regularly trigger deadly floods and landslides across South Asia.

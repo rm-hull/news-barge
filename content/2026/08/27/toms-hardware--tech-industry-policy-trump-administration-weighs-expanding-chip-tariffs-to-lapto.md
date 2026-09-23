@@ -14,6 +14,35 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Arizona
+- Japan
+- South Korea
+- Taiwan
+- U.S.
+- US
+- White House
+people:
+- Howard Lutnick
+- Jeffrey Kessler
+- Jonathan McHale
+- Kush Desai
+- Luke James
+- Tom
+organisations:
+- AMD
+- Amazon
+- Bureau of Industry and Security
+- Commerce Department
+- Computer and Communications Industry Association
+- Get Tom's Hardware
+- Google News
+- Meta
+- Nvidia
+- POLITICO
+- TSMC
+- Trump
+- USTR
 ---
 
 ![Trump](https://cdn.mos.cms.futurecdn.net/buvm9T9xPmu5wZVsefV2L7.jpg) 

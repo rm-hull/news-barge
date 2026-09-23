@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - Music
 - History
+locations:
+- Nashville
+- Tennessee
+people:
+- Dolly Parton
+organisations:
+- Imagination Library
 ---
 
 Fans gathered in Nashville on Tuesday, 25 August, to leave flowers at a mural honouring Dolly Parton and remember the country music legend's deep connection to Tennessee.

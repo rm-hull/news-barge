@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- Bishop Auckland
+- North Durham
+- Tindale Crescent
+- University Hospital
+people: []
+organisations:
+- Durham Police
+- NEAS
+- North East Ambulance Service
 ---
 
 *(Image: GOOGLE MAPS)*

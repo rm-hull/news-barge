@@ -11,6 +11,11 @@ image: https://techcrunch.com/wp-content/uploads/2026/06/55351251811_689b675dfe_
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bay Area
+- San Francisco
+people: []
+organisations: []
 ---
 
 We’re getting close to TechCrunch Disrupt 2026! In less than two months, more than 10,000 innovators, founders, investors, and industry leaders will gather in San Francisco. You can meet up with that community the week of TechCrunch Disrupt, which runs from October 13-15.

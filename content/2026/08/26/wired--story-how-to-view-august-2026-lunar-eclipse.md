@@ -11,6 +11,23 @@ image: https://media.wired.com/photos/6a8f4ac850ea70630c0696a7/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Americas
+- Buenos Aires
+- Chicago
+- Denver
+- Earth
+- Europe
+- Lima
+- London
+- Los Angeles
+- Mexico City
+- New York
+- North and South America
+- Spain
+people: []
+organisations:
+- NASA
 ---
 
 If you missed the spectacular solar eclipse earlier this month, you have a chance to catch another stunning astronomical phenomenon: a partial lunar eclipse and “blood moon” that will occur on Thursday night into Friday early morning.

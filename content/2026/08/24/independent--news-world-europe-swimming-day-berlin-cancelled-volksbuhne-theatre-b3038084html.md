@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Berlin
+- Brandenburg
+- Volksbad
+- Volksbühne
+people:
+- Alice Weidel
+- Cansel Kiziltepe
+- Dennis Hohloch
+- Instagram
+- Matthias Lilienthal
+organisations:
+- AfD
+- Alternative für Deutschland
+- EOTO
+- LGBTQ
+- Volksbühne
 ---
 
 A swimming day providing Black children and their families exclusive access to a local pool in Berlin has been scrapped after organisers found themselves facing a litany of racist abuse.

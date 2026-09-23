@@ -13,6 +13,31 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- AI
+- US
+people:
+- AI
+- Benedict Collins
+- Dario Amodei
+- Mark Zuckerberg
+- OpenAI
+organisations:
+- AI
+- APT
+- Amodei
+- Anthropic
+- BUCSIS
+- Department of Defense
+- DoD
+- Google News
+- ICE
+- Palantir
+- Pentagon
+- TechRadar Pro
+- Trump
+- US Immigration and Customs Enforcement
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![An image depicting machine learning, AI, and connected robots behind binary code depicting technologies impact on job displacement, insecurity, and fear](https://cdn.mos.cms.futurecdn.net/hHvRb3rM4ZJfcLfv9hb9NL.jpg) 

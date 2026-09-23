@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- North Yorkshire
+- Scarcroft Hill
+- York Racecourse
+people: []
+organisations:
+- Newsquest
+- North Yorkshire Police
 ---
 
 ## Wanted man identified after alleged assault on police officer in York

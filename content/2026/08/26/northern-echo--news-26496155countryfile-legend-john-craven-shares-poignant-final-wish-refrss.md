@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Banbury
+- Bridlington
+- Harry Potter-style
+- Otley Chevin
+- Teesside
+- Wharfedale
+- Whitby
+- Yorkshire
+people:
+- John Craven
+- Jon Lewis
+organisations:
+- BBC
+- Countryfile
+- Farmers' Guardian
+- Morrisons
+- Newsround
+- Sainsbury's
+- Wales Online
 ---
 
 *(Image: Jon Lewis)*

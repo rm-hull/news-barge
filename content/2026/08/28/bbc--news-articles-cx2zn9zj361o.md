@@ -14,6 +14,32 @@ categories:
 - Family & Parenting
 - Society & Culture
 - Technology & Software
+locations:
+- Boston
+- Chicago
+- District of Columbia
+- Houston
+- Long Island
+- Massachusetts
+- Texas
+- US
+people:
+- '![Julianna'
+- Andria Rose
+- Elizabeth Cardner
+- Joanie Story
+- Julianna
+- Mark SooHoo
+- Mark Zuckerberg
+- Meta
+- Paige
+organisations:
+- Andria Rose
+- BBC
+- Instagram
+- Meta
+- TikTok
+- YouTube
 ---
 
 ![Julianna (left), Paige (centre) and mum Elizabeth Cardner at a baseball game](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/8e90/live/9843a980-a25f-11f1-883e-b50da2634501.jpg)

@@ -14,6 +14,18 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Careers & Productivity
+locations:
+- UK
+people:
+- '## Evri'
+- Carl Lyon
+organisations:
+- '## Evri'
+- DHL eCommerce UK
+- Evri Group
+- Evri Premium
+- Evri’s Go Electric
+- Onsi
 ---
 
 ## Evri to create 10,000 jobs as hiring drive launched for parcel delivery firm

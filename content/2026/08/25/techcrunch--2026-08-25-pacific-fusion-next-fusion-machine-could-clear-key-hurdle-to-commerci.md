@@ -12,6 +12,24 @@ image: https://techcrunch.com/wp-content/uploads/2026/06/pacific-fusion-pulser-p
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Albuquerque
+- China
+- New Mexico
+- U.S.
+people:
+- Carrie von Muench
+- Keith LeChien
+- von Muench
+organisations:
+- Commonwealth Fusion Systems
+- Helion Energy
+- Inertia Enterprises
+- LeChien
+- National Ignition Facility
+- Pacific Fusion
+- Proxima Fusion
+- TechCrunch
 ---
 
 Pacific Fusion is one step closer to commercializing fusion power after breaking ground Tuesday on a facility in New Mexico designed to generate as much energy as it consumes.

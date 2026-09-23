@@ -13,6 +13,25 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- San Francisco
+- US
+people:
+- Amber Higgins
+- Christoper Dietzel
+- Eva Galperin
+- Stud
+organisations:
+- Bumble
+- Concordia University
+- Dud
+- Electronic Frontier Foundation
+- FBI
+- Google
+- LinkedIn
+- PeopleFinders
+- Pew Research Center
+- WIRED
 ---
 
 We’ve all been there. You meet someone new on a dating app, start to envision a life together, only to wonder: Is the person actually who they say they are?

@@ -14,6 +14,14 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford
+- Thornton Road
+people: []
+organisations:
+- Newsquest
+- West Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 *(Image: Newsquest)*

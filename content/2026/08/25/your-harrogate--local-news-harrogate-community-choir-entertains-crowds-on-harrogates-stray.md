@@ -12,6 +12,17 @@ categories:
 - Local
 - Harrogate
 - Society & Culture
+locations:
+- Baildon and Bingley
+- Harrogate
+- Skipton
+people:
+- Chris Kemp
+- Neil Diamond
+organisations:
+- All Together Now
+- All Together Now Community Choir
+- Harrogate
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8d97691c22afafe5a.jpg) 

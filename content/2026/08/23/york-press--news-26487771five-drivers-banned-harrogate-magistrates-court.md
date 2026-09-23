@@ -12,6 +12,36 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Barkston Ash
+- Bootham
+- Bramham Moor
+- Brotherton
+- Clifton
+- Foxwood Lane
+- Glastonbury Drive
+- Harrogate Magistrates Court
+- Hawthorn Close
+- Huddersfield
+- Little Avenue
+- Low Street
+- Malton
+- Moor Lane
+- North Yorkshire
+- Ouseburn Avenue
+- York
+people:
+- Adam Endersby
+- Audrina Daadipour
+- Dylan Jackson
+- Jack McKenna
+- Jake Newell
+- Michael James Sams
+organisations:
+- A162
+- A64
+- Mercedes
+- Newsquest
 ---
 
 *(Image: Newsquest)*

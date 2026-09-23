@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- A66
+- Beckfield Lane
+- Dresden
+people:
+- James May
+organisations:
+- LBC
+- Top Gear
 ---
 
 *(Image: DriveTribe)*

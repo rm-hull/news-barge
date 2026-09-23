@@ -15,6 +15,29 @@ categories:
 - News & Politics
 - True Crime
 - History
+locations:
+- A66
+- Civic Centre
+- Cleveland
+- Middlesbrough
+- PA
+- Redcar
+people:
+- Alec Brown
+- Bladesy
+- Cllr Ceri Cawley
+- Matt Blades
+- Matthew Blades
+- OWEN HUMPRHIES
+- Tom Clough
+- Tommy
+organisations:
+- A66
+- Cleveland Council
+- Cleveland Police
+- Cleveland Police Federation
+- Cleveland Police HQ Memorial Garden
+- Redcar
 ---
 
 *(Image: OWEN HUMPRHIES/ PA)*

@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Gaza
+- Israel
+- Tel Aviv.
+people:
+- Aviva Siegal
+- Danielle Amit
+- Danielle Gilboa
+- Doron Steinbrecher
+- Emily Damari
+- Gali
+- Keith
+- Liri Albag
+- Mandy
+- Omer Shem Tov
+- Oria Azran
+- Romi Gonen
+- Ziv Berma
+- Ziv Berman
+organisations:
+- Hamas
 ---
 
 ![Two women hold hands in white bridalwear; one wears a white tailored suit, while the other wears a lace dress.](https://ichef.bbci.co.uk/ace/standard/847/cpsprodpb/53e6/live/6b877680-a271-11f1-b9a0-bdb734817beb.jpg)

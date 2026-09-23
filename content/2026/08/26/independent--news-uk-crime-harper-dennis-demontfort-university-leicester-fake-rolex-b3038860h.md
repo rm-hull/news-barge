@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Hatton Garden
+- Innovation Centre
+- Leicester Crown Court
+- London
+- North Road
+- Oxford Street
+- PA
+- Sophie Robinson
+- West Drayton
+people:
+- Harper Dennis
+- Jane Osborne KC
+- Khaleed Oladipo
+- Lorna Granville
+- Pin
+- Precious Oladipo
+- Shekeizah Fowler-Palmer
+- Tim Forte KC
+- Timothy Spencer KC
+organisations:
+- De Montfort University
+- East Midlands Special Operations Unit Major Crime Team
+- Leicestershire Police
+- PA
+- Rolex
 ---
 
 A 19-year-old student who fatally stabbed a former friend in the heart following a dispute over a fake Rolex watch has been jailed for 10 years for manslaughter.

@@ -17,6 +17,40 @@ categories:
 - Harrogate
 - York
 - Family & Parenting
+locations:
+- Aire
+- Calder
+- Cumbria
+- Devon
+- England
+- Kent
+- Leeds
+- Nidd
+- North Yorkshire
+- Ouse
+- Oxfordshire
+- PA
+- St George’s Church
+- Swale
+people:
+- Ash Smith
+- David Attenborough
+- Heather Preen
+- Julie Maughan
+- Peter Hammond
+- Preens
+- Rob Forrester
+- Rui Vieira
+- Tracy Brabin
+organisations:
+- Aire
+- Environment Agency
+- Ilkley Clean River Group
+- Kelda Holdings
+- Ofwat
+- Sewage Campaign Network
+- West Yorkshire
+- Yorkshire Water
 ---
 
 # The gains of the water industry have been privatised and costs socialised - Tracy Brabin

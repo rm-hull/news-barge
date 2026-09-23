@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Brazil
+- Cabimas
+- Caracas
+- Caribbean Sea
+- Colombia
+- Guyana
+- Iran
+- Iraq
+- Lake Maracaibo
+- Orinoco Belt
+- US
+- Venezuela
+- Washington
+- Zulia State
+people:
+- Cilia Flores
+- Delcy Rodriguez
+- Donald Trump
+- Marco Rubio
+- Nicolás Maduro
+- Pete Hegseth
+- Saddam Hussein
+organisations:
+- American Oil Reserves
+- American Taxpayer
+- BBC
+- CBS News
+- Coalition Provisional Authority
+- Defence
+- Oil Supply
+- State
+- Trump
 ---
 
 ![Oil rigs are pictured in Cabimas, south of Lake Maracaibo, Zulia State, Venezuela, on January 31, 2026.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0053/live/a9f70e80-a339-11f1-a0c7-f9810b5aa403.jpg)

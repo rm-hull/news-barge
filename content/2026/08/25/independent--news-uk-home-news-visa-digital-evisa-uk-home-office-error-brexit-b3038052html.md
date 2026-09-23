@@ -13,6 +13,22 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Britain
+- Spain
+- UK
+people:
+- Monique Hawkins
+- Ms Webb
+- Nidia Webb
+organisations:
+- EU
+- Home Office
+- ICO
+- Independent
+- Information Commissioners Office
+- Politico
+- the3million
 ---
 
 A woman who lives in the UK was refused boarding on her flight back from Spain after the Home Office’s electronic visa system confused her for her twin sister.

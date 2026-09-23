@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Family & Parenting
 - Arts & Culture
+locations:
+- Britain
+- Newcastle
+- North East
+- North Yorkshire
+- Tyneside
+people:
+- Coun Wendy Taylor
+- Dolly Parton
+- Jolene
+organisations:
+- Imagination Library
+- Newcastle City Council
 ---
 
 Music icon Dolly Parton has been hailed as an “inspiration” who leaves a legacy that will help children in Newcastle for generations to come.

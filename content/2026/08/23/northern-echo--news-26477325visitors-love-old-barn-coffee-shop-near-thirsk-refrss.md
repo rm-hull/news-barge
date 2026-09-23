@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- Bagby
+- England
+- North Yorkshire
+- Old Barn
+- Old Barn Coffee Shop
+- The Old Barn
+- Thirsk
+- York House Holiday Park
+people: []
+organisations:
+- A1
+- Google
+- Old Barn
+- Tripadvisor
+- Yorkshire Tea
 ---
 
 *(Image: TRIPADVISOR)*

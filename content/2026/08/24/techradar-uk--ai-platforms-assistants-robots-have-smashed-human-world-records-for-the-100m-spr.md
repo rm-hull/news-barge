@@ -12,6 +12,24 @@ image: https://cdn.mos.cms.futurecdn.net/ctrvECd8Kgjado59kyxSdm-2000-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- Beijing
+- China
+- England
+- Stockport
+people:
+- Dave
+- David Nield
+- Javier Sotomayor
+- Usain Bolt
+- Yang Shangzheng
+organisations:
+- Associated Press
+- Gizmodo
+- Google News
+- PC Explorer
+- South China Morning Post
+- The Hardware Handbook
 ---
 
 ![Lightning robot](https://cdn.mos.cms.futurecdn.net/ctrvECd8Kgjado59kyxSdm.jpg) 

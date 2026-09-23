@@ -14,6 +14,20 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Britain
+- Saltaire
+- West Midlands
+people:
+- Aida
+- Alesha Dixon
+- Amy Lou
+- Amy Lou Smith
+- Bruno Tonioli
+- Sanjay Zalke
+organisations:
+- Caroline Street Social Club
+- Got Talent
 ---
 
 *(Image: Sanjay Zalke)*

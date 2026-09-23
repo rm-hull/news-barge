@@ -12,6 +12,35 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Acomb
+- Badger Hill
+- Bishopthorpe Road
+- Brentwood Crescent
+- Fenwick Road
+- Huntington
+- Micklegate
+- Normanton
+- North Moor Road
+- Northampton
+- Semilong Road
+- Tedder Road
+- The Nags Head
+- Wakefield
+- Wheatley Avenue
+- York
+people:
+- Arron Morrison
+- Christopher Kay
+- Daniel Hall
+- Garrison Donne
+- Gary Ambler
+- Sean Morris
+- Stuart Ambler
+organisations:
+- Google Street View
+- Recorder of York
+- York Crown Court
 ---
 
 *(Image: Google Street View)*

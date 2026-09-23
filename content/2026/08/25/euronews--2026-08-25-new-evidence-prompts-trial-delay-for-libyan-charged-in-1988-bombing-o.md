@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - True Crime
 - History
+locations:
+- Britain
+- Frankfurt
+- Germany
+- Lockerbie
+- London
+- Malta
+- Netherlands
+- New York
+- Scotland
+- Syracuse
+- US
+- United Kingdom
+- Washington
+people:
+- Abu Agila Mohammd Mas’ud Kheir Al-Marimi
+- Dabney Friedrich
+- Kara Weipz
+- Laura Koenig
+- Muammar Gaddafi
+- Richard Monetti
+organisations:
+- John F. Kennedy International Airport
+- London Heathrow Airport
+- Syracuse University
+- Victims of Pan Am Flight 103
 ---
 
 ## The bombing, which is the deadliest-ever terror attack in Britain, killed all 259 people on board Pan Am flight 103 and 11 people on the ground in the Scottish town of Lockerbie.

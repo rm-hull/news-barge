@@ -15,6 +15,21 @@ categories:
 - Hardware
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Mount Pleasant
+- Wisconsin
+people:
+- Bill Gates
+- Jowi Morales
+- Tom
+organisations:
+- AI
+- GatesNotes
+- Google News
+- Human Reserved
+- Jowi Morales
+- Microsoft
+- U.S. Treasury
 ---
 
 ![a photo of Bill Gates](https://cdn.mos.cms.futurecdn.net/r2aahEbd6meZwywFsrHpwH.png) 

@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Battersea
+- Cambridge
+- London
+- UK
+people:
+- Jason Arday
+- Julian Morris
+- Laura Kuenssberg
+- Nathan Cofnas
+organisations:
+- BBC
+- London Inner South Coroner's Court
+- Metropolitan Police
+- Simon & Schuster
+- University of Cambridge
 ---
 
 ![Jason Arday appearing on BBC show Sunday with Laura Kuenssberg. He is pictured smiling at the camera and wearing a dark shirt.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/27ba/live/bb9c5310-a13c-11f1-b109-879e35c24276.jpg)

@@ -13,6 +13,48 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Anfield
+- Barcola It
+- Brighton
+- Diomande
+- Egypt
+- France
+- Liverpool
+- Newcastle
+- Osasuna
+- Paris St-Germain
+- St James' Park
+- Yankuba Minteh
+people:
+- Achilles
+- Alexander Isak
+- Andoni Iraola
+- Bradley Barcola
+- Cody Gakpo
+- Como
+- Florian Wirtz
+- Hugo Ekitike
+- Ibrahim Mbaye
+- Mohamed Salah
+- Rio Ngumoha
+- Robbie Fowler
+- Roberto Firmino
+- Sadio Mane
+- Victor Munoz
+- Virgil van Dijk
+- Yan Diomande
+organisations:
+- Istanbul Basaksehir
+- Liverpool
+- Newcastle
+- PSG
+- Premier League
+- RB Leipzig
+- Real Madrid
+- Reds
+- Spurs
+- Trabzonspor
 ---
 
 ![Alexander Isak and Florian Wirtz in discussions for Liverpool during pre-season](https://ichef.bbci.co.uk/ace/standard/601/cpsprodpb/1764/live/101cb1b0-9c87-11f1-95d8-5b0dba89a322.jpg)

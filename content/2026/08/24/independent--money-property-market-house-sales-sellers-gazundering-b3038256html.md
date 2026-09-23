@@ -13,6 +13,31 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Britain
+- London
+- Middle East
+- UK
+people:
+- Bryn Nettle
+- Gazundering
+- James Nightingall
+- Jeremy Leaf
+- Marc von Grundherr
+- Reeves
+- Rose Parsons
+- Sarah-Jane Bingham-Chick
+- Verona Frankish
+organisations:
+- Barclays
+- Benham & Reeves
+- Hemmingfords
+- Hemmingfords’ Parsons
+- HomeFinder AI
+- Jackson-Stops' Exeter
+- Strettons
+- The Independent
+- Yopa
 ---
 
 Eight in ten estate agents are seeing more examples of “gazundering” this year - when a buyer lowers their offer for a property just before exchanging contracts.

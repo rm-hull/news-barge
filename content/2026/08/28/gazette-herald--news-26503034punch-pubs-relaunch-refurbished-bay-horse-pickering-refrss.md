@@ -13,6 +13,25 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Bay Horse Inn
+- Liverpool
+- North Yorkshire
+- Pickering
+- Ryedale
+- The Bay Horse
+- Whitby
+people:
+- Jamie Furness
+- Newlyweds Gareth
+- Tony Iles
+organisations:
+- Bay Horse Inn
+- Pic
+- Punch Pubs & Co
+- Punch Pubs & Co.
+- Punch's Management Partnership
+- Punch’s Management Partnership
 ---
 
 A Ryedale pub has reopened its doors following a major investment.

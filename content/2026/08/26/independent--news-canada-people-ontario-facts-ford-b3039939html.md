@@ -13,6 +13,25 @@ image: https://static.independent.co.uk/2026/08/25/16/Canada_US_Trade_1_11_.jpg?
 categories:
 - News & Politics
 - UK
+locations:
+- Canada
+- Ontario
+- U.S.
+people:
+- Barbara Kates-Garnick
+- Doug Ford
+- Jonathan Steirer
+- Saleh ElHattab
+organisations:
+- Canada Energy Regulator
+- Case Western Reserve University
+- Energy Information Administration
+- Fletcher School
+- Ford
+- Gravity
+- Great Lakes Energy Institute
+- The Associated Press
+- Tufts University
 ---
 
 Social media users are claiming that Canada could plunge the U.S. into darkness if the trade war between the once-friendly neighbors escalates further.

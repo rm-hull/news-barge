@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Dagenham
+- Kent.
+- London
+- Spectrum Building
+people:
+- Angela Rayner
+- Giles Grover
+- James Allchurch
+- Sarah Williams
+organisations:
+- Arinium Ltd
+- End Our Cladding Scandal
+- Grenfell Tower
+- Labour
+- Ministry of Housing, Communities and Local Government
 ---
 
 Sarah Williams vividly remembers the night in 2016 when she camped overnight in a car park to put down a deposit on a flat in the newly completed Spectrum Building in Dagenham, east London.

@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Canada
+- China
+- Iran
+- Jackson Hole
+- Wall Street
+- Wyoming
+people:
+- Donald Trump
+- Kevin Warsh
+organisations:
+- AI
+- Commerce Department
+- Fed
+- Federal Reserve
 ---
 
 An inflation measure closely watched by the Federal Reserve was unchanged last month in the latest sign that many Americans are still struggling with higher costs.

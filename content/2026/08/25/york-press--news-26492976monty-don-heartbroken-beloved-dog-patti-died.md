@@ -11,6 +11,19 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations: []
+people:
+- James Manning
+- Lucy Siegle
+- Matt Baker
+- Monty Don
+- Nigel
+- PA Wire
+- Patti
+organisations:
+- Gardeners' World
+- Gardeners’ World
+- Instagram
 ---
 
 *(Image: James Manning/PA Wire)*

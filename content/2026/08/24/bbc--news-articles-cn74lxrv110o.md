@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Atlantic
+- Britain
+- Llantrisant
+- Scotland
+- South Wales
+- UK
+people:
+- Andrew Bailey
+- Charles III
+- Elizabeth II
+- Mike Langman
+- Rebecca Morgan
+- Winston Churchill
+organisations:
+- Bank of England
+- RSPB
+- Royal Mint
+- Royal Society for the Protection of Birds
+- The Royal Mint
 ---
 
 ![New 10p coin in the palm of someone's hand with one coin on the side showing an image of King Charles and dated 2026, with another coin on the reverse side showing a capercaillie.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6769/live/d73e6830-9fbe-11f1-8648-8d7b77845e6d.jpg)

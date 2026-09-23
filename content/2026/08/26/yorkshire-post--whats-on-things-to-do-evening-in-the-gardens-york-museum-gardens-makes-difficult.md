@@ -15,6 +15,14 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- York Museum Gardens
+- Yorkshire
+people: []
+organisations:
+- York Art Gallery
+- York Museum Gardens
+- York Museums Trust
 ---
 
 # Evening in the Gardens: York Museum Gardens makes ‘difficult decision’ to cancel as weather conditions expected to leave lawn ‘thoroughly drenched’

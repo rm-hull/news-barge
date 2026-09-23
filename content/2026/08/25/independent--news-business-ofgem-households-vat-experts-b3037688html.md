@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- England
+- Europe
+- Middle East
+- Scotland
+- Wales
+people:
+- Dhara Vyas
+organisations:
+- Cornwall Insight
+- Energy UK
+- Government
+- Ofgem
 ---
 
 Households are set to find out how much energy bills will change ahead of winter as the conflict in the Middle East continues to push prices upwards.

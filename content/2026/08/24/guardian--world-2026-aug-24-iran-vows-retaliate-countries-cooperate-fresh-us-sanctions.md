@@ -12,6 +12,46 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- America
+- Asia
+- China
+- Earth
+- Hormuz
+- India
+- Islamic Republic of Iran
+- Israel
+- Middle East
+- Pakistan
+- Persian Gulf
+- Russia
+- Tehran
+- UAE
+- US
+- United Arab Emirates
+- Washington
+- White House
+people:
+- Abbas Araghchi
+- Abdolnaser Hemmati
+- Donald Trump
+- Esmail Baghaei
+- Hassan Ahmadian
+- Lin Jian
+- Mohsen Rezaei
+- Reza Nasri
+- Scott Bessent
+- Syed Asim Munir
+organisations:
+- CNBC
+- Dalian
+- Financial Times
+- Hengli Petrochemical
+- Refinery Co
+- Treasury
+- Trump
+- United Nations
+- University of Tehran
 ---
 
 Tehran has vowed to retaliate against any country that cooperates with the US attempt to impose fresh sanctions against Iran in what the Treasury secretary, Scott Bessent, has billed as “the single greatest financial offensive ever marshalled against an adversary”.

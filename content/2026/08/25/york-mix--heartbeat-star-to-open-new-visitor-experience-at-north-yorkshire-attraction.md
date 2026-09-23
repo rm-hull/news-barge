@@ -11,6 +11,40 @@ categories:
 - Local
 - York
 - Music
+locations:
+- Aidensfield
+- Goathland
+- Heartbeat Country
+- Herriot Country
+- North York Moors
+- North Yorkshire
+- Thirsk
+- Whitby
+- World of James Herriot
+- Yorkshire Dales
+people:
+- Alf Wight
+- Alf!
+- Dad
+- David Lonsdale
+- David Stockwell
+- Ian Ashton
+- James Herriot
+- Jason Bullard
+- Lee Jones
+- Nicholas Rhea
+- Peter N Walker
+- Peter Walker
+- Rhoda Walker
+- Sarah Walker
+organisations:
+- All Creatures Great
+- Goathland
+- Heartbeat
+- ITV
+- ITV3
+- The World
+- Yorkshire Television
 ---
 
 TV star to open new exhibition based on beloved North Yorkshire police drama.

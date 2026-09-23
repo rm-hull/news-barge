@@ -12,6 +12,13 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- Scarcroft Hill
+- York
+people: []
+organisations:
+- '#### Scarcroft Hill'
+- North Yorkshire Police
 ---
 
 A police officer was assaulted shortly after the end of York Races on Saturday.

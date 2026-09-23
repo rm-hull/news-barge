@@ -12,6 +12,19 @@ image: https://i.guim.co.uk/img/media/8f1bac64cf0024319475de2fe23b287a3bcbccb5/4
 categories:
 - UK
 - News & Politics
+locations:
+- WA
+- Western Australia
+people:
+- Angela Jackson
+- Anthony Albanese
+- Roger Cook
+- Tim Ayres
+organisations:
+- ABC
+- Morrison government
+- PC
+- Productivity Commission
 ---
 
 The Productivity Commission has condemned attacks on its integrity as “unacceptable” after its scathing assessment of Western Australia’s sweetheart GST deal as a costly mistake sparked a fierce political backlash and name-calling.

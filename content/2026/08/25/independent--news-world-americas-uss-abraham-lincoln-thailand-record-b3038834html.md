@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Abraham Lincoln
+- Bangkok
+- Florida
+- Iran
+- Key West
+- Middle East
+- Nicaragua
+- San Diego
+- Southeast Asia
+- Thailand
+- U.S.
+- USS Abraham Lincoln
+people:
+- Joshua Aviles
+- Lincoln
+- Luis Manuel Aviles Roa
+- Pete Hegseth
+- Trump
+organisations:
+- Border Patrol
+- DHS
+- Department of Homeland Security
+- Facebook
+- ICE
+- Immigration and Customs Enforcement
+- Marines
+- Navy Times
+- Stars and Stripes
+- Thai Navy
+- U.S. Border Patrol
+- U.S. Navy
+- USS Abraham Lincoln
 ---
 
 The U.S. Navy aircraft carrier the USS Abraham Lincoln will dock in Thailand next week amid reports of mental health concerns and deteriorating conditions aboard.

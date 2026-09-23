@@ -13,6 +13,41 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Brafferton
+- Buckden
+- Coxwold
+- Easingwold
+- Grantley
+- Grassington
+- Harmby
+- Helmsley
+- Helperby
+- Kettlewell
+- Kilnsey
+- Leyburn
+- North York Moors
+- North Yorkshire
+- Pateley Bridge
+- Patrick Brompton
+- Ripon
+- Sawley
+- UK
+people:
+- Alison Littlewood-Laws
+- Carol Swift
+- Cllr Carl Les
+- David Skaith
+- Helmsley
+- Leyburn
+organisations:
+- Helmsley Town Council
+- Leyburn Town Council
+- Mayoral Community Grant
+- North Yorkshire Council
+- York and North Yorkshire Combined Authority
+- Yorkshire Dales
+- Yorkshire Rose
 ---
 
 Communities across North Yorkshire have been awarded funding to help them celebrate the arrival of the Lloyds Tour of Britain in the county.

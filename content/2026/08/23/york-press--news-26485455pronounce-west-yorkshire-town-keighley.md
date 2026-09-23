@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Self-Improvement
+locations:
+- Amici
+- Bradford
+- England
+- Keighley?** Keighley
+- UK
+- West Yorkshire
+- Worth Valley Railway
+people:
+- Azeem
+- Kaylee
+- Keeley
+- Keighley
+- Keith lee
+- Taylor
+organisations:
+- Cliffe Castle Museum and Park
+- Keighley
+- TikTok
 ---
 
 ## How to pronounce the confusing name of this Yorkshire town

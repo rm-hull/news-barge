@@ -12,6 +12,33 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Acomb Wood Shopping Centre
+- Baltzersen
+- Bishopthorpe Road
+- Buongirnio Bistro Sardinian
+- Castlegate
+- Clifton
+- Dick Turpin
+- Harrogate
+- Holgate
+- Midlands
+- Walmgate
+- Woodthorpe
+- York
+people:
+- Leon Sledmore
+- Molly McGrath
+- Tal
+- Tom Allen
+organisations:
+- Buongiorno
+- Google Reviews
+- M&K Butchers
+- Pic
+- Sloppy’s Bar
+- TT Burgers
+- The Fox
 ---
 
 ## New burger restaurant gets five star reviews for 'banging' food

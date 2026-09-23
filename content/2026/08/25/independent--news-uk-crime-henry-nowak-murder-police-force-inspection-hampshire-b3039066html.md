@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Chafford Hundred
+- Essex
+- Hampshire
+people:
+- Donna Jones
+- Henry Nowak
+- Vickrum Digwa
+organisations:
+- IOPC
+- Independent Office for Police Conduct
+- Inspectorate of Constabulary and Fire & Rescue Service
+- Isle of Wight Constabulary
+- PCC
+- Southampton Crown Court
 ---
 
 An inspection has been launched into a police’s ability to respond to incidents of serious violence following the murder of student Henry Nowak.

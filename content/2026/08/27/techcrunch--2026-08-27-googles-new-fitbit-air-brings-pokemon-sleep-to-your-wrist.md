@@ -11,6 +11,20 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/Pokemon_Fitbit_Air.png?
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Snorlax
+people:
+- Pokémon
+- Stephen Curry
+organisations:
+- Apple Watch
+- Fitbit Air
+- Galaxy Watch
+- Google Health
+- Google Pixel Watch
+- Google Store
+- Pokémon
+- Target
 ---
 
 Google is giving Pokémon fans a new reason to wear a Fitbit. The company announced Thursday a special-edition Fitbit Air that works with Pokémon Sleep, combining Fitbit’s health and fitness tracking and the sleep-focused Pokémon game. The announcement comes as Pokémon celebrates its 30th anniversary this year.

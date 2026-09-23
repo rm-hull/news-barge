@@ -14,6 +14,30 @@ categories:
 - Technology & Software
 - Shopping & Deals
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Dyson
+- James Pickard
+- Karcher
+organisations:
+- Acer
+- Apple
+- Black Friday
+- Bosch & Beko
+- Bose
+- Currys
+- Dyson V8
+- Eurogamer
+- Intel
+- Karcher WV2
+- LG
+- PS5
+- Philips & Braun
+- RAM
+- Sony Bravia
+- Tampa Bay Buccaneers
+- TechRadar
 ---
 
 ![A collage of tech deals from the latest Currys Epic Deals sale, including an Acer laptop, Bose earbuds, Dyson vacuum, iPhone 17 Pro Max, LG C6 OLED TV, and De'longhi coffee machine.](https://cdn.mos.cms.futurecdn.net/LVASJChqyigznKc4RCV8Ug.jpg) 

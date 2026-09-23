@@ -13,6 +13,19 @@ categories:
 - York
 - History
 - Business & Entrepreneurship
+locations:
+- Clifford's Tower
+- Guildhall
+- YORK
+- York
+people:
+- Clifford
+- Dave Merrett
+- Simon Bean
+- Tim Mudd
+organisations:
+- Clifford’s Tower
+- English Heritage
 ---
 
 ## ‘Tragic to see’ - growing concern over damage to historic landmark

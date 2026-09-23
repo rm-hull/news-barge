@@ -14,6 +14,16 @@ categories:
 - York
 - Arts & Culture
 - History
+locations:
+- Ghosts of Station Hall
+- Station Hall
+- York
+people:
+- Sarah Price
+organisations:
+- National Railway Museum
+- Station Hall
+- York Ghost Merchants
 ---
 
 Hidden ghosts will haunt the halls of a museum this autumn as part of a new half-term trail.

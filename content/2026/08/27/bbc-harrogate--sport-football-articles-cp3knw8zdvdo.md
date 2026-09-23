@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - History
 - Sports
+locations:
+- Cambridge United
+- Harrogate Town
+- Milan
+people:
+- Cathal Heffernan
+organisations:
+- AC Milan
+- Cambridge United
+- Cork City
+- Newcastle United
 ---
 
 ![Cathal Heffernan, in the colours of Cambridge United, leaning his back against the goalpost while looking towards the camera](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/bf0e/live/18b3e7e0-a221-11f1-8bb7-3f1da52063dd.jpg)

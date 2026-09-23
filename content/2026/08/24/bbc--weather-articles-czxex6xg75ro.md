@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- England
+- Europe
+- France
+- Northern Ireland
+- Scotland
+- UK
+- Wales
+people: []
+organisations:
+- BGS
 ---
 
 ![A man and a woman walk through torrential rain while holding umbrellas](https://ichef.bbci.co.uk/ace/standard/926/cpsprodpb/95ad/live/783ab3a0-9f02-11f1-8ab2-7700e58d1417.png)

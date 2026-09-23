@@ -12,6 +12,39 @@ image: https://static.independent.co.uk/2026/08/18/12/08/FB_IMG_1785862180404-25
 categories:
 - News & Politics
 - UK
+locations:
+- Benghazi
+- East Jerusalem
+- Gaza
+- Iran
+- Israel
+- Libya
+- Middle East
+- Middle Eastern State
+- Nasser
+- Occupied Territories
+- Palestine
+- Palestinian House
+- Syria
+- The Hague
+- UK
+- West Bank
+people:
+- Avi Shlaim
+- Bashar al Assad
+- Benny Morris
+- Ed Miliband
+- Ilan Pappe
+- Itamar Ben Gvir
+- Mariam Abu Dagga
+- Muammar Gaddafi
+- Saif
+- Trump
+organisations:
+- EU
+- International Criminal Court
+- Nato
+- State of Israel
 ---
 
 It is impossible to read the chilling reporting of the killing of Mariam Abu Dagga in a double-tap Israeli attack on the Nasser hospital in Gaza without giving in to righteous, visceral rage.

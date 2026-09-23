@@ -12,6 +12,40 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Carn na h-Easgainn
+- Corbetts
+- England
+- Glasgow
+- Grahams
+- Highlands
+- Hills
+- Inverness
+- Ireland
+- Mountains
+- Scotland
+- Scottish Lowlands
+- Tomatin
+- UK
+- Wales
+people:
+- Carn na h-Easgainn Laura
+- Corbett
+- Donald
+- Donalds
+- Graham
+- Kerry Blue Terrier Betty
+- Laura Baillie
+- Munro Top
+- Munros
+- Person
+- Shona Marshall
+organisations:
+- BBC Radio Scotland
+- ETA
+- Furth
+- Scottish Mountaineering Club
+- Wales
 ---
 
 ![Person taking a selfie on a rocky mountain ridge, wearing a red hiking top and backpack, with rugged stone formations, grassy slopes, and dramatic cloudy skies in the background.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/7c73/live/a8bb2dc0-9e44-11f1-a291-b542ee92de7c.jpg)

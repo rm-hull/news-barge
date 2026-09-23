@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Adiala
+- India
+- Islamabad
+- Pakistan
+- Rawalpindi
+people:
+- Greg Chappell
+- Ian Chappell
+- Imran Khan
+- Kapil Dev
+- Shehbaz Sharif
+- Sunil Gavaskar
+- Uzma Khan
+organisations:
+- Ministry of Information
+- Shifa International
+- Shifa International Hospital
+- Supreme Court
+- The Associated Press
 ---
 
 Famous cricketers from around the world have renewed their appeal for the medical treatment of former star player turned politician Imran Khan in a letter to Pakistan Prime Minister Shehbaz Sharif.

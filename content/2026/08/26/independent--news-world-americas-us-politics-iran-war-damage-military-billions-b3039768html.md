@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- America
+- Iran
+- Iraq
+- Israel
+- Middle East
+- Middle Eastern
+- Riyadh
+- Russia
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- U.S.
+- US
+- United States
+- White House
+people:
+- Donald Trump
+- Pete Hegseth
+- Scott Bessent
+organisations:
+- AAA
+- AP-NORC
+- CBS News
+- CIA
+- Congress
+- HRANA
+- NBC News
+- National Intelligence
+- Pentagon
+- Reuters
+- Treasury
+- Trump
 ---
 
 Iran has caused “billions” of dollars in damage to U.S. intelligence infrastructure, according to a new report, which comes as the war continues to drag on with no clear end in sight.

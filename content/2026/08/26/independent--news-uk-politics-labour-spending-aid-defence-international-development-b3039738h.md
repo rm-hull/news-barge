@@ -15,6 +15,21 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Britain
+- UK
+people:
+- Fleur Anderson
+- Ms Anderson
+organisations:
+- Department for International Development
+- G20
+- G7
+- GNI
+- Labour
+- New Economics Foundation
+- Putney
+- The Independent
 ---
 
 Last year, aid from the world's wealthiest countries fell by more than a fifth, the steepest annual drop on record and it happened just as humanitarian need was surging to historic levels.

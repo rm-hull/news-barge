@@ -13,6 +13,57 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Europe
+- France
+- Minotaur Island
+- Washington, D.C.
+people:
+- Adam Scott
+- Alex North
+- Alicia Rancilio
+- Beastie Boy Mike D
+- Blowin
+- Brittany Howard
+- Chuck Lorre
+- Davis Diamond
+- Eddie Ruscha
+- J Mascis'
+- Jake Coyle
+- Leanne Morgan
+- Lou Kesten
+- Maria Sherman New
+- Mary Oliver
+- Michelle Monaghan
+- Mike D
+- Mike D 5D
+- Milo Ruscha
+- Oprah Winfrey
+- Robert De Niro
+- Sasha Waters’
+- Skyler
+- Sophia
+- Stephen Colbert
+- Steve Buscemi
+- Steve Johnson
+- Will Graefe
+organisations:
+- Alabama Shakes
+- Asobo Studio
+- Beauty of the World
+- Dinosaur Jr.
+- Electronic Arts
+- GTAV
+- Lucasfilm
+- Netflix
+- Nirvana
+- PBS
+- Rockstar’s
+- Slumberland Records
+- Star Wars Zero Company
+- Sub Pop Records
+- The Associated Press’
+- Velocity Girl
 ---
 
 “The Whisper Man” film adaptation and a new album from the Alabama Shakes are some of the new television, films, music and games headed to a device near you.

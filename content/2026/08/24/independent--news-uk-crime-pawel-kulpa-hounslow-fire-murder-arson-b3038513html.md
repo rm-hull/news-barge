@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Berkeley Avenue
+- Hounslow
+- London North
+- Willesden Magistrates’ Court
+people:
+- Anna Kowalska
+- Lisa Ramsarran
+- Pawel Kulpa
+organisations:
+- Crown Prosecution Service
+- London Ambulance Service
+- London Fire Brigade
+- Met
+- Metropolitan Police
 ---
 
 A man has been charged with murder after a house fire in west London which left a woman dead and hospitalised eight others.

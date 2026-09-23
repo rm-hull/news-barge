@@ -12,6 +12,35 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Adelaide
+- Australia
+- Bhotekoshi River
+- China
+- Dhunge
+- Kathmandu
+- Lhende Khola
+- Lhende Khola River
+- Lhende Khola river
+- Malaysia
+- Nepal
+- Rasuwa
+- South Korea
+- Tibet
+- Trishuli
+people:
+- Penny Wong
+- Saswata Sanyal
+- Shoyam Rajbhandari
+organisations:
+- CCTV
+- Foreign Ministry
+- International Centre for Integrated Mountain Development
+- Red Cross
+- US Geological Survey
+- USGS
+- United Nations
+- Xinhua
 ---
 
 ## Officials in Nepal earlier said 826 people, including some 341 foreigners, are missing after the Bhotekoshi-Trishuli floods.

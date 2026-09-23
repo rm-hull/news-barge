@@ -15,6 +15,15 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- Britain
+- South Bank
+people:
+- Owen Humphreys
+organisations:
+- PCSOs
+- Police Community Support Officers
+- Police Federation
 ---
 
 # Baiting of police officers highlights Britain’s law and order problem

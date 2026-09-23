@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- '![Park'
+- Arizona
+- California
+- Colorado
+- Kings Canyon National Parks
+- Livermore
+- Marmot Country
+- Mineral King Valley
+- Sequoia National Park
+- Silver City
+- UCLA
+people:
+- Andrew Reinhart
+- Dan Blumstein
+- Fork Kardashian
+- Jeff Weit
+- Nitin Gupta
+- Samantha Weldon
+organisations:
+- NPS
+- National Park Service
+- University of California
+- WSJ
+- Wall Street Journal
 ---
 
 Cute but cunning, yellow-bellied marmots are wreaking havoc on hikers and campers in California’s Sequoia National Park, stealing shoes and backpacks, chewing through gear and even disabling vehicles.

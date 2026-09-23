@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Saltburn-by-the-Sea
+- Yorkshire
+people:
+- Becky Keeble
+organisations:
+- HECK!
+- The Seaview Restaurant
 ---
 
 *(Image: HECK!)*

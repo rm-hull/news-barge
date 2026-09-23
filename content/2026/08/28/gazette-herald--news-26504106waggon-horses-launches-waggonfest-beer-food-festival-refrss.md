@@ -13,6 +13,30 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Horses Lawrence Street
+- Lawrence Street
+- Waggon and Horses
+- York
+- Yorkshire
+people:
+- Alistair Griffin
+- Josh Gandy
+- Karen Crombie
+organisations:
+- '**York CAMRA'
+- Ale Trail
+- Bass
+- Brew York
+- Daleside Brewery
+- Golden Slipper Inn
+- Ilkley Brewery
+- Rooster's Brewing Co
+- Rudgate Brewery
+- Trig Brewery
+- Waggon and Horses
+- York CAMRA
+- Yorkshire
 ---
 
 A new beer festival starting today (Fri) is raising a glass to Yorkshire’s brewing talent.

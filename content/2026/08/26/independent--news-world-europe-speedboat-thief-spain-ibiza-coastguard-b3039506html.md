@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Ibiza
+- Port de Sóller
+- Tagomago
+people: []
+organisations:
+- Guardia Civil
+- Spanish Civil Guard
 ---
 
 Dramatic footage shows the moment a man aggressively rammed into a coastguard vessel using a speedboat he allegedly stole during a high-speed chase off the coast of Ibiza.

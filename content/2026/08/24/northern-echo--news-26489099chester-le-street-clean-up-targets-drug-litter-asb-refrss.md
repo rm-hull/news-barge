@@ -12,6 +12,23 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Chester-le-Street North
+- Cooperative Street
+people:
+- Adrian Richards
+- Tracie Smith
+organisations:
+- Chester-le-Street Police
+- DWP State Pension
+- Darlington
+- Durham County Council
+- Durham County Council Neighbourhood Wardens
+- Durham Police
+- Facebook)* Police
+- Land Registry
+- Neighbourhood Wardens
+- TikTok
 ---
 
 A huge clean-up has transformed a back lane in Chester-le-Street after faeces, and discarded needles and overgrown plants filled the area.

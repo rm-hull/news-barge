@@ -15,6 +15,15 @@ categories:
 - York
 - Arts & Culture
 - Sports
+locations:
+- US
+people:
+- James Emmanuel
+- Le Freak
+organisations:
+- Nile Rodgers & Chic
+- Scarborough Open Air Theatre
+- The Brand New Heavies
 ---
 
 The 200th live music artist to headline at the Scarborough Open Air Theatre brought down the curtain on its 2026 season in style.

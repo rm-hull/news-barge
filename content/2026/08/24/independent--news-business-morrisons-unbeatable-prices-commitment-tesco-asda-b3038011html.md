@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Market Street
+- UK
+people:
+- Alex Paver
+organisations:
+- Aldi
+- Asda
+- Lidl
+- Morrisons
+- Sainsbury’s
+- Tesco
+- Worldpanel
 ---
 
 Morrisons has promised shoppers it will match or beat the prices of its main supermarket competitors across hundreds of essential everyday products.

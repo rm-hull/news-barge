@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Desford
+- Leicestershire
+- Tropical Birdland
+people:
+- Big Mama
+organisations:
+- Team
+- Tropical Birdland
 ---
 
 Several meerkats have died after they became trapped under a collapsed tunnel at a wildlife park in Leicestershire.

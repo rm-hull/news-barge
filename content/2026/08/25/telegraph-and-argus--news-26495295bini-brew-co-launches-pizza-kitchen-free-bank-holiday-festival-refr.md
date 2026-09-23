@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Food & Cooking
 - Music
+locations:
+- Ilkley
+- Little Lane
+- Little Lane Taproom
+people:
+- Alex Ashman
+- Emma Lishman
+- Fintan
+- James Rudge
+- Nick Helliwell
+- Robert Bryce
+organisations:
+- Bini Brew Co
+- Bini Dough Co
+- Bini Fest
+- LS29 8HX
+- Lishman's
+- Pizza
+- Taproom
 ---
 
 *(Image: Nick Helliwell)*

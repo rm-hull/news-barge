@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- Broadway
+people:
+- Ben Whishaw
+- Colin Callender
+- Draco Malfoy
+- Ginny Weasley
+- Harry Potter
+- Hermione
+- Jez Butterworth
+- Matthew Broderick
+- Mojo
+- Nathan Lane
+- Ron Weasley
+- Ron’s
+- Rupert Grint
+- Sonia Friedman
+- Tom Felton
+- Wizard Wheezes
+organisations:
+- Cursed Child’
+- Lyric Theatre
+- West End
 ---
 
 Rupert Grint — the original Ron Weasley from the “Harry Potter” movies — will slip into his old role on Broadway next year in “Harry Potter and the Cursed Child.”

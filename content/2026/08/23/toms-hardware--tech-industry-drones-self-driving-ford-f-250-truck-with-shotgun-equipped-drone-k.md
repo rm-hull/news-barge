@@ -14,6 +14,22 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Fort Bragg
+- Sandhills
+- US
+- Ukraine
+people:
+- Forterra
+- Mark Tyson
+- Tom
+organisations:
+- C-UAS
+- Ford
+- Forterra
+- Google News
+- Tom's Hardware
+- U.S. Army
 ---
 
 ![Edda turret](https://cdn.mos.cms.futurecdn.net/mxASZdo48m8Uo3tTEQhh8n.jpg) 

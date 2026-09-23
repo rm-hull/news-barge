@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Brussels
+- Cyprus
+- Estonia
+- France
+- Ireland
+- Latvia
+- Lithuania
+- Slovakia
+- Spain
+- Sweden
+- Ukraine
+people:
+- '## Costa'
+- Andrej Babiš
+- Andris Kulbergs
+- António Costa
+- Friedrich Merz
+- Gitanas Nausėda
+- Kristen Michal
+- Robert Fico
+organisations:
+- EU Council
+- European Commission
+- European Council
+- European Parliament
+- European Union
+- Friends of Cohesion
 ---
 
 ## Costa begins a four-week tour of EU capitals to gauge leaders’ appetite to compromise on a deal for the bloc’s common budget by year-end.

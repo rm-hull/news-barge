@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Pets & Animals
 - Lifestyle & Fashion
+locations:
+- North East
+- North Yorkshire
+- Pipi Pipi
+people:
+- '### Lucia Lucia'
+- '### Millie'
+- '### Tango Tango'
+- Ayton)* Lucia
+- Mango Millie
+- Mini
+- Pipi
+organisations:
+- '### Mini Mini'
+- '### Sprite Sprite'
+- RSCPA Great Ayton
+- RSPCA Great Ayton
 ---
 
 From playful teens to affectionate lap cats, seven felines are hoping to find their forever homes in the region.

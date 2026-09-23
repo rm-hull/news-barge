@@ -14,6 +14,24 @@ categories:
 - UK
 - Health & Fitness
 - Science
+locations:
+- City of Hope Orange County
+- R-Neb.
+- Redwood City
+- Sen
+- United States
+people:
+- Ben Sasse
+- Kyle Diamantas
+- Pashtoon Kasi
+organisations:
+- American Cancer Society
+- CBS
+- FDA
+- Food and Drug Administration
+- RAS
+- Rasonque
+- Revolution Medicines
 ---
 
 American patients facing advanced pancreatic cancer have been offered a more effective treatment after the Food and Drug Administration granted approval on Wednesday to a groundbreaking new therapy against the deadly disease.

@@ -12,6 +12,27 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/runable-co-founders-ume
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- AI
+- Brazil
+- Japan
+- U.S.
+- UK
+people:
+- Runable
+- Saksham Sarda
+- Umesh Kumar
+organisations:
+- AI
+- Anthropic
+- Genspark
+- Manus
+- Nexus Venture Partners
+- Runable
+- Series A
+- Susquehanna Venture Capital
+- TechCrunch
+- Together Fund and Array VC
 ---
 
 As artificial intelligence makes it easier than ever to build websites and apps, Indian startup Runable is betting the next opportunity lies in what comes after: finding customers and helping businesses grow. The startup has raised $21 million to expand in that direction.

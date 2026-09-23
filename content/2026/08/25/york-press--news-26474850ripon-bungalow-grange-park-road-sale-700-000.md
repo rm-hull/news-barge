@@ -13,6 +13,18 @@ categories:
 - York
 - Home, Garden & DIY
 - Lifestyle & Fashion
+locations:
+- Grange Park Road
+- Harrogate
+- Linley & Simpson
+- Ripon
+- Thirsk
+people: []
+organisations:
+- A1
+- A19
+- Linley & Simpson
+- Ripon Grammar School
 ---
 
 ## Inside the 'immaculate' £700k Ripon bungalow with summer house and huge garden

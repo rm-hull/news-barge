@@ -11,6 +11,20 @@ description: An app has been spotted that makes Bing your default search, and so
 image: https://cdn.mos.cms.futurecdn.net/T5tUn7q7ko5tgMxUjPnP8N-2121-80.jpeg
 categories:
 - Technology & Software
+locations: []
+people:
+- Bing
+- Redditor
+- Xeno
+organisations:
+- Bing
+- Edge
+- Google News
+- Hachette UK
+- Microslop
+- Microsoft Rewards
+- Reddit
+- Windows Latest
 ---
 
 ![Young woman using a Windows 11 laptop, looking annoyed](https://cdn.mos.cms.futurecdn.net/T5tUn7q7ko5tgMxUjPnP8N.jpeg) 

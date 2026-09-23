@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Iran
+- UK
+- US
+people: []
+organisations:
+- DESNZ
+- Daily Telegraph
+- Department for Energy Security and Net Zero
+- National Cyber Security Centre
 ---
 
 ![Close-up hands of female using laptop in bed at night](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/9f5a/live/8ba750f0-9e95-11f1-b485-57ec149f4199.jpg)

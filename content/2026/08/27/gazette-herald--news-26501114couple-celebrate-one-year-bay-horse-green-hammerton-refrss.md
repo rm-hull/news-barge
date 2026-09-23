@@ -14,6 +14,29 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Bay Horse
+- Green Hammeron
+- Green Hammerton
+- Greene King
+- Knaresborough
+- Marton
+- North Yorkshire
+- Octoberfest
+- York
+people:
+- Brett Jackson
+- Bronte
+- Jon
+- Morgan
+- Tina Clarke
+organisations:
+- Appletree Country Inn
+- Bay Horse
+- Google
+- Greene King
+- TWA
+- The Bay Horse
 ---
 
 *(Image: Supplied)*

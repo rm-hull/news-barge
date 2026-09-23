@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- Great North Run
+- Malton
+- North East
+- North Yorkshire
+- RAF Topcliffe
+- Skipton
+- Swale
+- Wakefield
+people:
+- Kate James
+- Pedal
+organisations:
+- HQ
+- Northern Air Support Unit
+- Nostell Air Support Unit
+- Yorkshire Air Ambulance
 ---
 
 *(Image: Supplied)*

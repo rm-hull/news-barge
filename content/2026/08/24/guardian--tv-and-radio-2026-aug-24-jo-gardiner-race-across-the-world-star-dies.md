@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- Latin America
+- Manchester
+- Mexico City
+- South America
+- UK
+- Ushuaia
+people:
+- Charlie
+- Jo Gardiner
+- Sam Gardiner
+organisations:
+- BBC
+- JustGiving
+- Race Across the World
+- Studio Lambert
 ---
 
 Tributes have been paid to the Race Across the World star Jo Gardiner, who has died a year after her son and co-star Sam was killed in a car crash.

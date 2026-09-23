@@ -11,6 +11,35 @@ image: https://i.guim.co.uk/img/media/af0eeb92d48ff85ff0ebd1b6eff022785939ea80/4
 categories:
 - UK
 - News & Politics
+locations:
+- Australia
+- Campbellfield
+- George Town
+- Gunns Pulp Mill
+- Launceston
+- Long Reach
+- Melbourne
+- Tamar River
+- Tasmania
+people:
+- Anne-Marie Bastian
+- Anthony Albanese
+- Heather Ashley
+- Lorraine
+- Oliver Curtis
+- Sarah Hanson-Young
+- Winston Mason
+organisations:
+- AI
+- Australian Energy Market Operator
+- Change.org
+- EPA Victoria
+- Firmus
+- Ford
+- Greens
+- Guardian Australia
+- Victoria’s Environment Protection Authority
+- Zerra DC
 ---
 
 The day before Anthony Albanese secured agreement with states and territories to develop national datacentre standards, a small council in Tasmania was grappling with the existing regulations in the face of strong community opposition to a new AI factory planned for its town.

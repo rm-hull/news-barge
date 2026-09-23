@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Brownsville
+- Hennepin
+- Minneapolis
+- Minnesota
+- Texas
+- US
+- US-Mexico
+people:
+- Christian Castro
+- Donald Trump
+- Fernando Rodriguez Jr
+- Greg Abbott
+- Julio Cesar Sosa-Celis
+- Keith Ellison
+- Kimberly Ann Svendsen
+- Mary Moriarty
+- Trevor Ezell
+organisations:
+- CBS News
+- ICE
+- The Associated Press
+- US Immigration and Customs Enforcement
 ---
 
 A US Immigration and Customs Enforcement (ICE) agent accused of firing his gun and wounding a Venezuelan man in the leg is caught in an interstate extradition dispute between Texas and Minnesota – and could walk out of a Texas jail as soon as Wednesday if a federal judge does not intervene.

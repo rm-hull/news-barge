@@ -15,6 +15,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Calder Holmes Park
+- Calder Valley
+- Calderdale
+- Hebden Bridge
+- St Pol
+- YOUR
+people: []
+organisations:
+- Calderdale Inside Out
+- Environment Agency
+- FBC
+- Flood and Coastal Erosion Risk Management Grant in Aid
+- Floodline
+- Full Business Case
+- Hebden Bridge Flood Alleviation Scheme
+- Mott MacDonald/Environment Agency
+- Public Notice Portal
+- The Environment Agency
 ---
 
 ### What is the Public Notice Portal?

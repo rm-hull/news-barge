@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Eutaw Springs
+- Santee River
+- South Carolina
+- U.S.
+people:
+- Alexander Stewart
+- Aron Landsaw
+- Brig
+- Charles Lord Cornwallis
+- Francis Marion
+- Garrison Marcoux
+- Henry “Light-Horse Harry” Lee
+- Nathanael Greene
+organisations:
+- American Battlefield Trust
+- Continental Army
+- SavATree
+- South Carolina Battlefield Preservation Trust
+- Swamp Fox
 ---
 
 Standing beneath the spreading branches of a massive live oak, historian Garrison Marcoux tries to imagine what this scarred, struggling tree saw 245 years ago.

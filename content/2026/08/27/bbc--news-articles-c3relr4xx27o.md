@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- English Channel
+- France
+- UK
+people:
+- Boris Johnson
+- Chris Philp
+- Shabana Mahmood
+organisations:
+- European Court of Human Rights
+- High Court
+- Home Office
+- Labour
+- Rishi Sunak
+- Starmer
 ---
 
 ![People in a dingy](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/9d6e/live/66851bb0-a20d-11f1-9090-b51af3a01fc2.jpg)

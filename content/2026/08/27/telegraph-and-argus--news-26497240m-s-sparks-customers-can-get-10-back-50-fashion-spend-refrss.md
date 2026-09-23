@@ -15,6 +15,11 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Lifestyle & Fashion
+locations: []
+people:
+- Sharry Cramond
+organisations:
+- New Sparks
 ---
 
 *(Image: Supplied)*

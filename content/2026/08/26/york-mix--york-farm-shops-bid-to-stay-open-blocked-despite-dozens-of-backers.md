@@ -11,6 +11,25 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- A York
+- Haxby Moor Road
+- Oakwood Farm
+- Strensall
+- Yorkshire
+people:
+- Chris Jeffery
+organisations:
+- '## Council'
+- City of York Council
+- Facebook
+- Farmer’s Cart
+- Foss Internal Drainage Board
+- Haxby Town Council
+- Highway Network Management
+- Milk Box York
+- The Farmer’s Cart
+- Yorkshire
 ---
 
 A York farm shop which called on people to back its bid to continue operating has had its bid for planning permission blocked.

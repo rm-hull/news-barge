@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Cleveland
+- Durham
+- Middlesbrough
+- North Yorkshire
+- Northumbria
+- TikTok
+people:
+- Matthew Blades
+- Wayne Fox
+organisations:
+- Cleveland Police
+- NORTH NEWS LTD
+- Volvo
 ---
 
 *(Image: NORTH NEWS LTD)*

@@ -13,6 +13,12 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- County Durham
+- Darlington
+people: []
+organisations:
+- Met Office
 ---
 
 *(Image: MET OFFICE)*

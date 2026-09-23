@@ -10,6 +10,16 @@ image: https://cdn.mos.cms.futurecdn.net/7DtE9RCVmUtmH2FAfvxsvM-2560-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations: []
+people:
+- Richard Werner
+organisations:
+- AI
+- European Business Consultant
+- Future plc
+- TechRadar Pro
+- TechRadarPro
+- TrendMicro
 ---
 
 ![Malware attack virus alert , malicious software infection , cyber security awareness training to protect business](https://cdn.mos.cms.futurecdn.net/7DtE9RCVmUtmH2FAfvxsvM.jpg) 

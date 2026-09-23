@@ -14,6 +14,42 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Alaska
+- Arizona
+- Atlanta
+- Cave Creek
+- Dayton
+- East Bridgewater
+- Flock
+- Florida
+- Georgia
+- Grafton
+- Massachusetts
+- Nelson
+- Ohio
+- Phoenix
+- Stow
+- Tempe
+- Tennessee
+- U.S.
+- United States
+people:
+- Chaz Molder
+- Corey Woods
+- Garrett Langley
+- Kristina Knickerbocker
+- Mike Turner
+- Ron DeSantis
+organisations:
+- Democratic House
+- Flock Safety
+- Flock —
+- Institute for Justice
+- Newsweek
+- Tempe
+- The Independent
+- The Washington Post
 ---
 
 More than 100 cities across the country are rejecting Flock cameras amid growing privacy and safety concerns about the company’s sprawling network of automatic license plate readers.

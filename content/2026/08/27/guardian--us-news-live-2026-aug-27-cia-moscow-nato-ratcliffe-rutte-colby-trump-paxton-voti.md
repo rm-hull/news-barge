@@ -13,6 +13,84 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Alaska
+- Andrews
+- Brussels
+- China
+- Europe
+- Houston
+- Iran
+- Kremlin
+- Manhattan
+- Maryland
+- Moscow
+- New York
+- Pennsylvania
+- Russia
+- Russian Federation
+- South Dakota
+- Texas
+- US
+- Ukraine
+- United States
+- Washington
+- West Point
+- White House
+- Wikipedia
+people:
+- Bill Hill
+- Bob Brooks
+- Carol Hafner
+- David Perdue
+- Donald Trump
+- Elbridge Colby
+- Eric Hafner
+- Ghislaine Maxwell
+- Glenn Beck
+- Howard Lutnick
+- James Talarico
+- Jeffrey Epstein
+- Jes Staley
+- Joe Biden
+- John Cornyn
+- John Ratcliffe
+- Ken Paxton
+- Lisa Cook
+- Nick Begich
+- Ryan Mackenzie
+- Sergei Naryshkin
+- Vladimir Putin
+- Wang Yi
+- Xi Jinping
+organisations:
+- Barclays
+- Box Elder
+- CBS News
+- CCTV
+- CIA
+- DCCC
+- Democratic Congressional Campaign Committee
+- Epstein
+- Ex-JPMorgan Chase
+- Federal Reserve
+- Guardian
+- House
+- JPMorgan Chase
+- LinkedIn
+- Nato
+- PA
+- Pennsylvania Professional Fire Fighters Association
+- Politico
+- RNC
+- Republican National Commitee
+- SVR
+- Senate
+- Trump
+- US Military Academy
+- US Pentagon
+- US Secret Service
+- Wall Street Journal
 ---
 
 A trip by the CIA director to Moscow this week was to warn Russia against any attack on Nato member states, US media reported, after Donald Trump attempted to downplay the visit.

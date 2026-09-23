@@ -14,6 +14,37 @@ categories:
 - York
 - Technology & Software
 - Film & TV
+locations:
+- Ireland
+- Stoke-on-Trent
+- UK
+- Whiston
+people:
+- Craig Austin
+- Malcolm Rhead
+- Nick Sumner
+- Prescot
+- Sara Stewart
+organisations:
+- '## Sky'
+- Apple
+- Arsenal
+- BBC
+- BeStreamWise
+- Commercial Anti-Piracy
+- Coventry
+- Disney
+- FACT Investigations Manager
+- Federation Against Copyright Theft
+- Freeview
+- IPTV
+- Netflix
+- Ozzy Streams
+- Premier League
+- Sky Business
+- Sky Sports
+- Sneyd Arms
+- TNT Sports
 ---
 
 Sky has issued a fresh warning to those using illegal streaming devices as the new Premier League season gets underway.

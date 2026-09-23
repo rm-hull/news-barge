@@ -13,6 +13,39 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- A64
+- Bramham Park
+- Brotherton Bridge
+- Kiddal Lane End
+- Knottingley
+- Leeds Train Station
+- M
+- Micklefield
+- Moorthorpe
+- Network Rail
+- River Aire
+- Sarcroft
+- Selby
+- Shadwell
+- Sherburn-in-Elmet
+- Sovereign Square Park
+- Tadcaster
+- Thorner
+- West Yorkshire
+- York
+people:
+- Adam Kennedy
+- Dan Wood
+- Karen Duffy
+organisations:
+- A64
+- First Bus
+- First Bus app
+- Network Rail
+- Newsquest
+- Northern and TransPennine Express
+- West Yorkshire Police
 ---
 
 Motorists are being warned of delays on the A64 due to Leeds Festival while train disruptions are also expected.

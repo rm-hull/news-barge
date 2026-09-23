@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Health & Fitness
 - Food & Cooking
+locations:
+- Bolgatanga
+- Ghana
+people:
+- Abiro Wisdom
+- Aimee Wallin
+organisations:
+- Accra Technical University
+- GFM
+- Ghana Food Movement
+- Wisdom
 ---
 
 After three years at catering school, Abiro Wisdom was certain of one thing – he did not want to go into catering. At least not the route that he might be expected to take. His course at Accra Technical University had prepared students for working in international hotels, focusing on French, Italian and Mexican cuisine. The nutritious, homegrown food that Wisdom had eaten while growing up in Bolgatanga, northern Ghana, did not feature at all.

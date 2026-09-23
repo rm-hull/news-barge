@@ -12,6 +12,18 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Harrogate Convention Centre
+- Paris
+- Toronto
+people:
+- Helen Lachmann
+- Jamila Bray
+organisations:
+- Harrogate Convention Centre
+- ISSAID
+- International Society of Systemic Autoinflammatory Diseases
+- MCI
 ---
 
 ![](https://mmo.aiircdn.com/409/69b1183c53b1e.jpg) 

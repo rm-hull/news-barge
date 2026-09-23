@@ -11,6 +11,21 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c294/live/fffcf3
 categories:
 - UK
 - News & Politics
+locations:
+- New York
+- US
+people:
+- Donald Trump
+- Ghislaine Maxwell
+- James Comer
+- Jeffrey Epstein
+organisations:
+- Department of Justice
+- Maxwell
+- Republican House Oversight Committee
+- Senate
+- US House Oversight Committee
+- US Justice Department
 ---
 
 ![Ghislaine Maxwell sits in a tan shirt with a water visible in front of her.](https://ichef.bbci.co.uk/ace/standard/615/cpsprodpb/c294/live/fffcf3c0-a088-11f1-aed2-8d6da8d75094.jpg)

@@ -12,6 +12,28 @@ image: https://static.independent.co.uk/2026/08/28/20/25/MILO.jpeg?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Caesar’s Superdome
+- Louisiana
+- New Orleans
+- United Kingdom
+people:
+- Donald Trump
+- Kanye West
+- Laura Loomer
+- Marjorie Taylor Greene
+- Milo Yiannopoulos
+- Ye
+organisations:
+- Anti-Defamation League
+- Breitbart
+- Department of Homeland Security
+- ICE
+- Immigration Judge
+- Immigration and Customs Enforcement
+- Louis Armstrong New Orleans International Airport
+- TMZ
 ---
 
 Milo Yiannopoulos, the controversial far-right political commentator who once worked for Kanye West, was detained by Immigration and Customs Enforcement at an airport in Louisiana Thursday.

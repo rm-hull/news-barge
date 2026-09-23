@@ -14,6 +14,41 @@ categories:
 - York
 - Society & Culture
 - True Crime
+locations:
+- A66
+- Acklam
+- Birchington Avenue
+- Cleveland
+- Grangetown
+- Middlesbrough
+- Newcastle
+- Redcar
+- Royal Victoria Infirmary
+- South Bank
+people:
+- Adam Brook
+- Anna Turley
+- Cole Worthy
+- Ellie
+- Emily Harrison
+- Jacob Matusiak
+- Lisa Kirton
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Natalie McDonald
+- Passat
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- Cleveland Police
+- PC Blades
+- PC Clough
+- RVI
+- Redcar Labour
+- South Bank
+- The Times
 ---
 
 # Girl, seven, and aunt died in house fire a mile from A66 crash site – reports

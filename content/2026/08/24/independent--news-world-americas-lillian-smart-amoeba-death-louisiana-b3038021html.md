@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Lake Claiborne
+- Louisiana
+- Ruston
+- U.S.
+people:
+- God
+- Jesus
+- John Kennedy
+- Lillian Smart
+- Patricia Willis
+- Ruston
+organisations:
+- Facebook
+- KNOE
+- LDH
+- Lillian
+- Louisiana Department of Health
+- PAM
 ---
 
 An 8-year-old girl has died after contracting a brain-eating amoeba likely contracted while swimming at a lake in Louisiana.

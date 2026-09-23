@@ -12,6 +12,43 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- England
+- Glasgow
+- London
+- Scotland
+people:
+- Alan Greer
+- Alan Greers
+- Alan Spiers
+- Alistair Hay
+- Carla BasuFor
+- Chris Brown
+- Chris Creegan
+- Craig Naylor
+- David Carrick
+- Jo Farrell
+- Kevin Anderson
+- Lynn Ratcliff
+organisations:
+- '## Red'
+- ACC Ratcliff
+- ACU
+- Anti-Corruption Unit
+- BBC Disclosure
+- DCC Spiers
+- HM Inspectorate of Constabulary in Scotland
+- HMICS
+- Metropolitan Police
+- National Police Chiefs' Council
+- News Daily
+- Police Scotland
+- SIO
+- SPA
+- Scottish Police Authority
+- Strathclyde Police
+- Strathclyde Police Standard Operating Procedures
+- The Metropolitan Police
 ---
 
 ![Head-and-shoulders portrait of Alan Greer who has short, cropped hair. He is  wearing a blue top and is facing the camera against a light grey perforated background. The image is tightly cropped around the face and shoulders.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/229b/live/ddf40e50-85b5-11f1-926f-c90d1bcfbc84.jpg)

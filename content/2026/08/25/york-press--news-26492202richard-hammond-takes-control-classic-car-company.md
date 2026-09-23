@@ -12,6 +12,32 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Blenheim Palace
+- Cotswolds
+- Herefordshire
+- North Yorkshire
+- Panama
+- Rotherwas
+- Salon Privé
+- Woodstock
+people:
+- James May
+- Jeremy Clarkson
+- Richard Hammond
+organisations:
+- BBC’s Top Gear
+- Bentley
+- Companies House
+- Porsche
+- Ripon Grammar School
+- Salon Privé
+- Smallest Cog
+- TV
+- The Farmer’s Dog
+- The Smallest Cog
+- The Sun
+- West Mercia Police
 ---
 
 ## Richard Hammond takes control of TV classic car company

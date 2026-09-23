@@ -13,6 +13,17 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Wall Street
+people:
+- Leopold Aschenbrenner
+organisations:
+- AI
+- OpenAI
+- Securities and Exchange Commission
+- Situational Awareness
+- TechCrunch
+- The New York Times
 ---
 
 Situational Awareness, the AI focused hedge fund that was Wall Street’s fleeting obsession, is having a very bad month.

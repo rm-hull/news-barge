@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Birmingham
+- Cambridge
+- CrossCountry
+- Doncaster
+- Leeds
+- Newcastle
+- Peterborough
+- Sheffield
+- South West
+- York
+- Yorkshire
+people: []
+organisations:
+- CrossCountry
+- Delay Repay
+- Stansted Airport
+- Yorkshire
 ---
 
 # CrossCountry trains cancelled: all routes through Yorkshire axed over power failure

@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- South
+- Tennessee
+- Texas
+people:
+- David Hittner
+- Dolly Parton
+- Elvis
+- Ken Paxton
+- Kerry Lynn
+- Ronald Reagan
+organisations:
+- Extragrams
+- First Amendment
+- LGBTQ
+- Movement Advancement Project
+- The New York Times
 ---
 
 A federal judge name-checked Dolly Parton on Tuesday as he struck down a drag ban law in Texas on the same day the country icon’s death was announced.

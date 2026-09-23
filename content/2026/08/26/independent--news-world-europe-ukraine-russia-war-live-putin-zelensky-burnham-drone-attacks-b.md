@@ -12,6 +12,65 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Barnsley
+- Britain
+- China
+- Downing Street
+- Far East
+- Israel
+- Kremlin
+- Kyiv
+- Latvia
+- London
+- Moscow
+- Poland
+- Riga
+- Russia
+- South Yorkshire
+- Svobodny
+- UK
+- UK-Russia
+- US Camp Springs
+- Ukraine
+- Washington DC
+- Zaporizhzhia
+people:
+- '## Putin'
+- Aiden Minnis
+- Andrei Fedorov
+- Andy Burnham
+- Ben Stimson
+- Bradley Townsend
+- Dmitry Peskov
+- Donald Trump
+- John Ratcliffe
+- Keith Kellogg
+- Margarita Konovalova
+- Nastya Podorozhnya
+- Oleksii Reznikov
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- AGCC
+- AI
+- Amur Gas Chemical Complex
+- Avengers
+- Axios
+- CBS News
+- CIA
+- Department of War and Kremlin
+- FSB
+- Flightradar24
+- Globemaster III
+- LBC
+- Ministry of Defence
+- MoD
+- Pussy Riot
+- The Insider
+- US Air Force C-17A Globemaster III
+- Vnukovo International Airport
+- pro-war Telegram
 ---
 
 CIA Director John Ratcliffe was on board the mystery US military transport aircraft that landed at Moscow's Vnukovo International Airport, it has been reported.

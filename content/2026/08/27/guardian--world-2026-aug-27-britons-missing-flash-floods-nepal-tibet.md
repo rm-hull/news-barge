@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- China
+- Galchhi
+- Mount Kailash
+- Nepal
+- Rasuwa
+- Tibet
+- UK
+- Wales
+people:
+- Andy Burnham
+- Bishal Nath Upreti
+- Ed Miliband
+- Pat McFadden
+organisations:
+- Alpine Eco Trek
+- BBC Radio 4
+- CCTV
+- Commonwealth and Development Office
+- Kailash Journeys
+- Nepal Centre for Disaster Management
+- Times Radio
+- Trekkers’ Society
+- Xinhua
 ---
 
 Rescue teams in Nepal are searching for at least 33 British nationals who are among those missing after flash floods ravaged its border with Tibet, killing at least 270 people.

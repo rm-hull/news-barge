@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- A66
+- Acklam
+- Foxrush Court
+- Micklow Close
+- Middlesbrough
+- Redcar
+- Teesside Crown Court
+people:
+- Cameron George
+- Cole Worthy
+- Kai Beattie
+- Matthew Blades
+- PC Blades
+- PC Clough
+- Tom Clough
+organisations:
+- BBC
+- Cleveland Police
+- Independent Office for Police Conduct
+- National Crime Agency
+- North East Regional Organised Crime Unit
+- PA
+- PC Blades
+- Passat
+- Volvo
 ---
 
 A house reportedly owned by the father of a teenager who died in a crash that killed two police officers was rammed by a car before the collision.

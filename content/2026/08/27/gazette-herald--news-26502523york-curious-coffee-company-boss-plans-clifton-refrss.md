@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Brandsby
+- Clifton Green
+- Easingwold
+- Haxby
+- Ukraine
+- YOUR
+- York
+- __York
+people:
+- Eddie Copley-Farnell
+organisations:
+- City of York Council
+- Curious Coffee Company
+- LDRS
+- Local Democracy Reporting Service
+- Public Notice Portal
+- The Curious Coffee Company
 ---
 
 ### What is the Public Notice Portal?

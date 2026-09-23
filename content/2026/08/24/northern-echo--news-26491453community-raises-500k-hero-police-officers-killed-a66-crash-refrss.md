@@ -13,6 +13,33 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- CLEVELAND
+- Carmel
+- Darlington
+- Middlesbrough
+- Redcar
+- South Bank
+- St John the Evangelist Church
+- Teesside Magistrates’ Court
+people:
+- Anna Turley
+- Matthew Blades
+- Matty
+- PC Blades
+- PC Blades’
+- PC Clough
+- SARAH CALDECOTT
+- Saddington
+- Stuart Boulton
+- Tom Clough
+organisations:
+- A66
+- Carmel College
+- Civil Nuclear Constabulary
+- Cleveland Police
+- Cleveland Police Federation
+- Volvo
 ---
 
 A community has rallied together to raise more than half a million pounds for "hero" police officers who died in a horror crash.

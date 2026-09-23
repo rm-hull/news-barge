@@ -13,6 +13,55 @@ categories:
 - Local
 - Harrogate
 - Travel
+locations:
+- Bramham Park
+- Florence
+- Kasabian
+- Leeds railway station
+- Sovereign Square Park
+- Wetherby
+- York Road
+people:
+- Charli XCX
+- Dave
+- Declan McKenna
+- Geese
+- Holly Humberstone
+- Jade
+- Josh Baker
+- Kasabian
+- Keo
+- Kettama
+- Kneecap
+- Maisie Peters
+- Raye
+- Role Model
+- Skepta
+- Skye Newman
+- Sombr
+organisations:
+- Blossoms
+- CROSSY
+- Charli xcx
+- Chase & Status
+- Dave
+- Florence & The Machine
+- Fontaines D.C
+- Fontaines D.C.
+- Fontaines DC
+- LS23
+- Lens
+- Osmosis Jones
+- Piccadilly Party
+- RAYE
+- Soul Mass Transit System
+- The Ballroom
+- The Canopy
+- The Gallery
+- The Grid
+- The Warehouse
+- West Yorkshire Police
+- ZERO
 ---
 
 # Everything you need to know if you are going to Leeds Festival 2026 to see headliners Charli xcx, Florence & The Machine and Fontaines DC

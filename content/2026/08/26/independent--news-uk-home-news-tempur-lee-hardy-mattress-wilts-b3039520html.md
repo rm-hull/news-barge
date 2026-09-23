@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Black Friday
+- Reading
+- Swindon
+- Tempur
+- UK
+- ’s House
+people:
+- '"[Tempur'
+- Andrew Gumbiti-Zimuto
+- Julia House
+- Lee Hardy
+- Richard Geen
+- Tempur
+organisations:
+- Health and Safety Executive
+- Julia's House
+- Swindon Borough Council Environmental Health
+- Tempur UK LTD
+- Tribunal
+- Wilts
 ---
 
 A worker at a UK mattress company sued for disability discrimination after she claimed a mattress fell on her and gave her brain damage.

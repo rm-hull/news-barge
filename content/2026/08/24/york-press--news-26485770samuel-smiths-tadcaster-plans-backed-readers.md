@@ -12,6 +12,30 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Bridge Street
+- High Street
+- North Yorkshire
+- Old Brewery
+- Station Road
+- Tadcaster
+- YOUR
+people:
+- Cllr Poskitt
+- Costa
+- Darren Greenwood
+- Humphrey Smith
+- Kirsty Poskitt
+- Sam Smith
+- Tad
+organisations:
+- Angel and White Horse Inn
+- Boston Spa
+- North Yorkshire Council
+- Public Notice Portal
+- Samuel Smith’s Brewery
+- Tadcaster Town Council
+- Vicarage Green
 ---
 
 ## Readers respond to Sam Smith's brewery proposals for North Yorkshire town

@@ -12,6 +12,21 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Columbus
+- Northeast Ohio
+- Vienna
+people:
+- Julie Watson
+- Starr
+- Thomas Nader
+organisations:
+- Google
+- NBC4
+- Starr Manufacturing
+- Starr Manufacturing Inc
+- Starr Manufacturing Inc.
+- Trumbull County Court of Common Pleas
 ---
 
 A business in Northeast Ohio is suing a woman over an allegedly fraudulent one-star review that she published on Google.

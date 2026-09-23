@@ -14,6 +14,22 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford
+- Cheshire
+- Comberbach
+- HMP Leeds
+- Northwich
+- Senna Lane
+people:
+- '## Brearton'
+- '## Mum'
+- Darren Brearton
+- Kevin Batch
+- Kirstie Watson
+- Philip Standfast
+- Pixabay
+organisations: []
 ---
 
 *(Image: Pixabay)*

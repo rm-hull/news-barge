@@ -14,6 +14,21 @@ image: https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-f
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- China
+- United States
+people: []
+organisations:
+- Departments of Energy, Justice, and Health and Human Services
+- FBI
+- Federal Reserve
+- Justice Department
+- Lumen
+- Ministry of State Security
+- NASA
+- Nanjing Xinjiuwei Network Tech
+- QTFY
+- U.S. Senate
 ---
 
 The FBI has seized a series of domains that were used by a large-scale botnet to coordinate and launch China-backed cyberattacks against American targets.

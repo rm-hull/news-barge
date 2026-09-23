@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/cSxx39qwgFnchgmhSDNS4S-1600-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- England
+- Stockport
+people:
+- Dave
+- David Nield
+organisations:
+- Gizmodo
+- Google News
+- Indiegogo
+- Kickstarter
+- New Atlas
+- PC Explorer
+- Shine Turbine
+- The Hardware Handbook
+- Ventyra
 ---
 
 ![Ventyra R1](https://cdn.mos.cms.futurecdn.net/cSxx39qwgFnchgmhSDNS4S.jpg) 

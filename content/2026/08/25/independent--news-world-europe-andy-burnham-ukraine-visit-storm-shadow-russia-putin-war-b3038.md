@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Britain
+- Europe
+- Kharkiv
+- Krasnodar
+- Kremlin
+- Kyiv
+- London
+- Moscow
+- Nazi Germany
+- Russia
+- St Sofia
+- UK
+- Ukraine
+people:
+- Andrei Kelin
+- Andy Burnham
+- Dmitry Peskov
+- Keir Starmer
+- Ursula von der Leyen
+- Vladimir Putin
+- Zelensky
+organisations:
+- EC
+- EU
+- European Commission
+- MBDA
+- The Times
 ---
 
 Prime minister Andy Burnham has hit out at Russian president Vladimir Putin during his first state visit to Kyiv, amid mounting tensions between Moscow and London.

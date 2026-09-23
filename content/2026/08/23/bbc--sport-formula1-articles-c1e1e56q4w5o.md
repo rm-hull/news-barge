@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Azerbaijan
+- Canada
+- Hungary
+- Italy
+- Malaysia
+- Monza
+- Netherlands
+- Zandvoort
+people:
+- Andrea Stella
+- Charles Leclerc
+- George Russell
+- Lando Norris
+- Lando Norris'
+- Lewis Hamilton
+- Max Verstappen
+- Mercedes' Kimi Antonelli
+- Oscar Piastri
+organisations:
+- BBC Sport
+- Ferrari
+- McLaren
+- Mercedes Team
+- Monza
+- Norris'
+- Red Bull
+- Verstappen
 ---
 
 ![Lando Norris poses with the winner's trophy after winning the Dutch Grand Prix](https://ichef.bbci.co.uk/ace/standard/890/cpsprodpb/9ebf/live/c15ee710-9f23-11f1-b730-67fb18a6ecb1.jpg)

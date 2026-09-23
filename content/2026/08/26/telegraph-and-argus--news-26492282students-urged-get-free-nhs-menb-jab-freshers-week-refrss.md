@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Education & Learning
 - Health & Fitness
+locations:
+- BRADFORD
+- Berkshire
+- England
+- Kent
+- MenB
+people:
+- Juliette Kenny
+- Lewis Waters
+- Wendy Lee
+organisations:
+- DWP State Pension
+- M&S
+- Manchester City Council
+- NHS
+- St Michael
+- Tesco
+- University of Kent
+- Waitrose and Home Bargains
+- Well Pharmacies
+- Well Pharmacy
 ---
 
 BRADFORD students are being urged to get a free NHS MenB vaccination before heading to university, with experts warning the window to complete the two-dose course is closing.

@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- '#### Crash'
+- Bilbrough
+- Steeton
+- Tadcaster
+- York-bound
+people: []
+organisations:
+- A64
 ---
 
 A crash is causing problems on the A64 this morning (Monday).

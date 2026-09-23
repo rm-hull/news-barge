@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Bolton Castle
+- Castle Bolton
+- England
+- Harmby Road
+- Leyburn Shawl
+- Middleham Castle
+- North Yorkshire
+- Preston-under-Scar
+- Richard Doughty
+- Wensleydale
+- Yorkshire Dales
+- Yorkshire Dales Leyburn
+- Yorkshire Dales National Park
+people:
+- Campbell
+- Charles II
+- Leyburn
+- Mary
+- Richard Doughty
+- Shawl
+organisations:
+- Milners of Leyburn
+- TV Wensleydale Railway
+- Tennants Auctioneers
+- Yorkshire Dales
 ---
 
 A North Yorkshire market town known for its countryside views, independent shops and traditional market continues to prove popular with visitors to the Yorkshire Dales.

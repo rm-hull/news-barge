@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- China
+- Freedom Edge
+- Japan
+- Jeju Island
+- North Korea
+- Pyongyang
+- Russia
+- Seoul
+- South Korea
+- U.S.
+- Ukraine
+people:
+- Donald Trump
+- Kim Jong Un
+organisations:
+- Foreign Ministry
+- Freedom Edge
+- Pentagon
 ---
 
 South Korea, the U.S. and Japan will go ahead with a trilateral military drill next month to better deal with North Korean nuclear threats, officials in Seoul said Friday, a day after North Korea vowed to retaliate against what it called U.S. hostilities.

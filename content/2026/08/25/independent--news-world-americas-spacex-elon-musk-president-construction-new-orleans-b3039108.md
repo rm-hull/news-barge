@@ -14,6 +14,24 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Science
+locations:
+- Atlanta
+- Louisiana
+- New Orleans
+- Vermilion Parish
+people:
+- Anne Rolfes
+- Gwynne Shotwell
+- Jack Brook
+- Jeff Landry
+- Musk
+organisations:
+- Elon Musk
+- Louisiana Bucket Brigade
+- Louisiana Economic Development
+- Louisiana Purchase
+- SpaceX
+- ___ Thanawala
 ---
 
 Elon Musk's space company plans to spend $100 billion to build a new spaceport in Louisiana to launch rockets, state officials and the company announced Tuesday.

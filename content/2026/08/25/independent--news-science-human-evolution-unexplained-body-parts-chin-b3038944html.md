@@ -12,6 +12,10 @@ categories:
 - News & Politics
 - UK
 - Science
+locations: []
+people: []
+organisations:
+- Dolphins
 ---
 
 The human body is a machine whose many parts – from the microscopic details of our cells to our limbs, eyes, liver and brain – have been assembled in fits and starts over the four billion years of our history.

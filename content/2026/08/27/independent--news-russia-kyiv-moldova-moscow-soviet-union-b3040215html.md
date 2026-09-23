@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Black Sea
+- Crimea
+- Eastern Europe
+- Kyiv
+- Moldova
+- Moscow
+- Odesa
+- Orenburg
+- Poltava
+- Russia
+- Sea of Azov
+- Soviet Union
+- U.S.
+- Ufa
+- Ukraine
+- United States
+- Zaporizhzhia
+people:
+- Moldova Zelenskyy
+- Oleh Kiper
+- Ozon
+- Vitalii Diakivnych
+- Volodymyr Zelenskyy
+organisations:
+- Defense Ministry
+- Ministry of Defense
+- Ozon
+- Wildberries
 ---
 
 Russia bombarded cities across Ukraine with missiles and drones in an onslaught that began after nightfall Wednesday and continued into daylight hours Thursday, when explosions echoed around the capital Kyiv through the morning.

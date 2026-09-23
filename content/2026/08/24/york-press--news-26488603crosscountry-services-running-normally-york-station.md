@@ -13,6 +13,15 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Birmingham
+- Britain
+- York
+people: []
+organisations:
+- CrossCountry
+- National Rail
+- Newsquest
 ---
 
 *(Image: Newsquest)*

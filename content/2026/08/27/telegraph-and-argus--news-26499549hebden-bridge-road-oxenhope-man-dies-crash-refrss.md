@@ -12,6 +12,16 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Hebden Bridge Road
+- Hill House Edge Lane
+- Oxenhope
+- Suzuki SV1000 K3
+people: []
+organisations:
+- LiveChat
+- Major Collision Enquiry Team
 ---
 
 A MAN has died following a crash in the Bradford district.

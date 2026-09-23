@@ -11,6 +11,16 @@ image: https://cdn.mos.cms.futurecdn.net/y9rnwk83y67UneDKKqH3hf-1000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- Google News
+- Meaco Sefte 8in Portable Air Circulator
+- PC Format
+- PC Plus
+- SCA
+- Speciality Coffee Association
+- TechRadar
 ---
 
 ![Two Meaco tower cans in living room, near door](https://cdn.mos.cms.futurecdn.net/y9rnwk83y67UneDKKqH3hf.jpg) 

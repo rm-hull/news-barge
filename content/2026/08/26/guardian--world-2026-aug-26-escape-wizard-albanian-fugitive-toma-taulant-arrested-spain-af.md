@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Belgium
+- Girona
+- Italy
+- Milan
+- Parma
+- Spain
+- Tarragona
+- Terni
+people:
+- Sig Sauer
+- Toma Taulant
+organisations:
+- Agence France-Presse
+- Bank of Spain
+- Policía Nacional
+- TT
 ---
 
 Police in Spain have arrested a dangerous Albanian criminal nicknamed the “escape wizard” who has managed to break out of four jails in Italy and Belgium by sawing through bars, clambering down knotted sheets and even using a human pyramid to breach prison walls.

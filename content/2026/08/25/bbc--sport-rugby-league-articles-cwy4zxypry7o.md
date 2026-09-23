@@ -13,6 +13,44 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- Australia
+- BBC
+- Boston
+- Bradford
+- Brick
+- Cardiff
+- Central Park
+- Central Park Ground
+- England
+- Great Britain
+- New Zealand
+- Odsal Stadium
+- Sydney Cricket Ground
+- Tiger Bay
+- Wembley Stadium
+- Wigan
+people:
+- Billy Boston
+- Brian Bevan
+- Charles
+- Colin Dixon
+- Lady Joan
+- Lisa Nandy
+- Matt Newsum
+- Mike Danson
+- Roy Francis
+organisations:
+- Blackpool Borough
+- Boston
+- Griffin Hotel
+- MBE
+- Rugby League Hall of Fame
+- St Helens
+- WRU
+- Wales Rugby League
+- Welsh Sports Hall of Fame
+- Wigan
 ---
 
 ![Billy Boston in action for Wigan](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/33b4/live/48cd7ad0-a05b-11f1-aed2-8d6da8d75094.jpg)

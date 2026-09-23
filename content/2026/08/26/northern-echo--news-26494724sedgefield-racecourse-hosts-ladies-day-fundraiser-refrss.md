@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Durham
+- North East
+- Richmond
+- Sedgefield Racecourse
+- Spa
+- Teesside
+people:
+- Beat Boutique
+- Elena Larkin
+- Gates
+- Lady V Sax
+- Logan Amos
+- Rebecca Sands
+organisations:
+- Feathers & Finery Millinery Design
+- Grace
+- Luma Beauty & Aesthetics
+- Redworth Hall Hotel
+- Sedgefield Racecourse
 ---
 
 A popular annual ladies day is set to return to a County Durham racecourse, bringing together horse racing, fashion and live entertainment while raising money for a children's charity.

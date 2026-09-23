@@ -13,6 +13,15 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Whitton
+- YOUR
+people: []
+organisations:
+- Public Notice Portal
+- State for Transport
+- Stockton Council
+- The Northern Echo
 ---
 
 *(Image: Pixabay)*

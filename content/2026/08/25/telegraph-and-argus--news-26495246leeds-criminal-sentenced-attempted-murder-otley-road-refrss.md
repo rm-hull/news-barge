@@ -12,6 +12,16 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Leeds Crown Court
+- Otley Road
+people:
+- Ibrahim Albashir
+- Richard James
+organisations:
+- Leeds CID
+- The Original Oak
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

@@ -13,6 +13,25 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- California
+- Florida
+- Michigan
+- US
+people:
+- Abdul El-Sayed
+- Aisha Wahab
+- Alex Vindman
+- Angie Nixon
+- David Jolly
+- Donald Trump
+- Haley Stevens
+organisations:
+- Congress
+- Democratic Party
+- House
+- Reuters/Ipsos
+- Senate
 ---
 
 ## A string of recent primaries across the US have thrown new light on the deep divisions between the party's political factions. Is opposition to Trump enough to unify the coalition?

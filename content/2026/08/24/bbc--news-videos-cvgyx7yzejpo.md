@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Automotive
 - True Crime
+locations:
+- A66
+- UK
+people:
+- Daniel Sandford
+- Makai Saddington
+- Matthew Blades
+- Tom Clough
+organisations:
+- BBC
 ---
 
 # How the deadly A66 crash unfolded leaving seven dead

@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - Technology & Software
 - Society & Culture
+locations:
+- England
+- Galashiels
+- Ireland
+- Limerick
+- Scotland
+- Scottish Borders
+- South Yorkshire
+- TikTok
+- UK
+- US
+- Wexford
+people:
+- Beyonce
+- Ellie Diamond
+- Emily
+- Garron Noone
+- Hat
+- John Hand
+- Kent I
+- Lily
+- Mike Myers
+- Nicholas
+- Skye
+organisations:
+- Gardaí
+- Irish TikTok
+- Propstore
+- South Yorkshire Police
+- Wexford Garda
+- Yorkshire Police
 ---
 
 ![A person dressed Cat in the Hat character](https://ichef.bbci.co.uk/ace/standard/683/cpsprodpb/e1cc/live/c24d6df0-9ef0-11f1-aed4-af6fe65bfcd6.jpg)

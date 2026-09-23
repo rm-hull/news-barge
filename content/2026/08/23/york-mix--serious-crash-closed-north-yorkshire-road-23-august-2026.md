@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- '#### Crash'
+- Great North Road
+- Ledsham**
+- North Yorkshire
+- Selby Fork
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 A serious crash has closed a North Yorkshire road this afternoon (Sunday).

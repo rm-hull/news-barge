@@ -15,6 +15,70 @@ categories:
 - Film & TV
 - Music
 - Arts & Culture
+locations:
+- America
+- Appalachia
+- Broadway
+- Dollywood
+- East Tennessee
+- Hollywood
+- Nashville
+- Smokies
+- Smoky Mountain
+- United States
+people:
+- Barry
+- Beyoncé
+- Bill Owens
+- Bob Thomas
+- Carl Dean
+- Dolly Parton
+- Elvis Presley
+- Emmylou Harris
+- Fred Foster
+- Hannah Montana
+- Hillel Italie
+- Jad Abumrad
+- James Patterson
+- Jane Fonda
+- Jesus
+- Johnny Cash
+- Jolene
+- Joshua
+- Kenny Rogers
+- Lily Tomlin
+- Linda Ronstadt
+- Maurice
+- Miley Cyrus
+- My Daddy
+- Olivia Newton-John
+- Porter Wagoner
+- Porter Wagoner Parton
+- Robin Gibb
+- Roger Ebert
+- Rose
+- Roy Orbison
+- Taylor Swift
+- Whitney Houston
+- Willie Nelson
+organisations:
+- AP
+- Academy of Motion Picture Arts and Sciences
+- American Film Institute
+- Associated Press
+- Bee Gees
+- CMA
+- Country Music Association
+- Country Music Hall of Fame
+- Dollywood Foundation
+- Houston
+- Imagination Library
+- NPR
+- RCA
+- Recording Academy
+- Rock & Roll Hall of Fame Foundation
+- The Associated Press
+- The White Stripes
 ---
 
 Dolly Parton, the country music icon whose soaring vibrato vocals, poignant songwriting and sparkling costumes defined her rise from a log cabin in the Tennessee mountains to the height of stardom and acclaim, has died. She was 80 years old.

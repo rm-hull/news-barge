@@ -13,6 +13,31 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Clifton
+- White House
+- YOUR
+- York
+people:
+- Baron Grimethorpe
+- Big Ben
+- Carter Towler
+- Currer
+- Edmund Beckett
+- Hannah Coleman
+- Harry Archer
+- William Roberts
+organisations:
+- British History Online
+- HM Revenues and Customs
+- HMRC
+- Inland Revenue
+- Luftwaffe
+- Places For People
+- Post Office Telephone Management
+- Public Notice Portal
+- Savills
+- The White House
 ---
 
 ### What is the Public Notice Portal?

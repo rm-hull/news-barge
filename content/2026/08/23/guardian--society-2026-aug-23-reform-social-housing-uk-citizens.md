@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Britain
+- London
+- UK
+people:
+- Nigel Farage
+- Richard Tice
+- Sarah Elliott
+organisations:
+- Labour
+- NHS
+- Reform UK
+- Shelter
 ---
 
 British citizens who were born abroad would be made to wait longer for social housing under proposals to be announced by Reform UK on Monday.

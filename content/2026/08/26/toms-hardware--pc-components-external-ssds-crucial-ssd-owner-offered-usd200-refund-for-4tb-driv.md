@@ -13,6 +13,19 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- Kunal Khullar
+- Tom
+organisations:
+- Amazon
+- CarefulMeasurement99
+- FTC
+- Google News
+- Micron
+- RMA
+- Reddit
+- Tom’s Hardware
 ---
 
 ![Crucial X6 Portable SSD](https://cdn.mos.cms.futurecdn.net/V5oXmXxBJcyKZ2KE6GifJ7.jpg) 

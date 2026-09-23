@@ -12,6 +12,45 @@ image: https://static.independent.co.uk/2026/08/26/19/40/AP26238513246234.jpg?tr
 categories:
 - News & Politics
 - UK
+locations:
+- Arundel
+- Biddeford
+- Maine
+- U.S.
+- White House
+people:
+- '## Trump'
+- Bobby Charles
+- Charles'
+- Charles’
+- Devon Murphy-Anderson
+- Donald Trump
+- Fox
+- George W. Bush
+- Hannah Pingree
+- Janet Mills
+- Johan Sebastián Durán Guerrero
+- Markwayne Mullin
+- Shenna Bellows
+- Tom Homan
+organisations:
+- AP
+- Bangor Daily News
+- Brennan Center
+- Congress
+- Constitution
+- DHS
+- Homeland Security
+- ICE
+- Immigration and Customs Enforcement
+- Maine Democratic Party
+- Maine House of Representatives
+- Maine Young Republicans
+- Postal Service
+- The Associated Press.
+- Trump
+- U.S. Immigration and Customs Enforcement and Customs and Border Protection
+- U.S. Marshals
 ---
 
 Maine's Republican nominee for governor plans to request that federal law enforcement officers be stationed at polling locations across the state for this fall's midterm elections, according to audio obtained by *The Associated Press.*

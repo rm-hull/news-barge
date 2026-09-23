@@ -14,6 +14,24 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- England
+- Fylingdales Moor
+- Humber
+- Langdale
+- Manor Fields Park
+- North Sea
+- Sheffield
+- UK
+- Yorkshire
+people:
+- Andy Burnham
+- Mike Childs
+organisations:
+- ITV News
+- ONS
+- Office for National Statistics
+- Yorkshire
 ---
 
 # Almost 15,000 people die frome extreme heat and cold in Yorkshire, new figures reveal

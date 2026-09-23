@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Equatorial Guinea
+- Liberia
+- Malabo
+- U.S
+- United States
+people:
+- Meredyth Yoon
+- Teodoro Obiang Nguema Mbasogo
+- Trump
+organisations:
+- Asian Americans Advancing Justice-Atlanta
+- Trump
 ---
 
 Six people who were deported by the United States to Liberia last week resisted getting off the plane and instead were sent to Equatorial Guinea, another African nation that signed a third-country deporation agreement with the Trump administration, a person on the plane and a lawyer in contact with the six said Monday.

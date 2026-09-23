@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Hollywood
+- Los Angeles
+- US
+people:
+- Dolly Parton
+- God
+- Momma
+organisations:
+- Imagination Library
 ---
 
 ![Dolly Parton smiling for the cameras while wearing a white sequined outfit at the Hollywood premiere of Joyful Noise in Los Angeles in 2012](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/bdeb/live/f73e1300-a11d-11f1-92eb-a9b3bbcf6f4a.jpg)

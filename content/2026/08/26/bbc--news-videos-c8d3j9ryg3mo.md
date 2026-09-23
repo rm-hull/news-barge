@@ -14,6 +14,15 @@ categories:
 - Music
 - Comedy & Entertainment
 - Film & TV
+locations:
+- Hollywood
+- Los Angeles
+people:
+- Dolly Parton
+- Shaimaa Khalil
+organisations:
+- BBC
+- LA
 ---
 
 # BBC at Dolly Parton's Hollywood star as fans pay tribute

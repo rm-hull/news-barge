@@ -14,6 +14,28 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- California
+- Florida
+- Louisiana
+- Mar-a-Lago
+- New York
+- U.S.
+- White House
+people:
+- Donald Trump
+- Jared Huffman
+- Melania Trump
+- Michael Dorrell
+- Taylor Rogers
+organisations:
+- Interior Department
+- RWE U.S. Offshore
+- Stonespeak
+- The Independent
+- The Washington Post
+- Trump Administration
+- Trump Vance Inaugural Committee
 ---
 
 A company run by a neighbor of President Donald Trump is set to earn a nearly billion-dollar windfall as a result of a settlement deal to end U.S. offshore wind projects, according to a new report.

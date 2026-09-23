@@ -11,6 +11,24 @@ image: https://static.independent.co.uk/2026/08/28/11/2026-08-26T153017Z_1637690
 categories:
 - News & Politics
 - UK
+locations:
+- Boston
+- Pennsylvania
+- Philadelphia
+- U.S.
+- White House
+people:
+- Barack Obama
+- Donald Trump
+- Indira Talwani
+- Joe Biden
+- Sophia Lin Lakin
+organisations:
+- American Civil Liberties Union
+- League of Women Voters
+- U.S. Postal Service
+- U.S. Supreme Court
+- USPS
 ---
 
 A federal judge has temporarily halted key elements of a new U.S. Postal Service policy directed by President Donald Trump that would restrict mail-in voting ahead of the November congressional elections.

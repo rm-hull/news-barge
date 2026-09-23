@@ -11,6 +11,53 @@ image: https://i.guim.co.uk/img/media/b53be6e14494e9fb23126a22dd5e854a5240f40c/2
 categories:
 - UK
 - News & Politics
+locations:
+- Bullitt county
+- Elswick
+- Fort Bliss
+- Kentucky
+- Lexington
+- Louisville
+- Madison
+- Nebraska
+- Omaha
+- Richmond
+- Shepherdsville
+- US
+people:
+- Donald Trump
+- Jeff Niklaus
+- Johnathan Mansfield
+- Joshua Elswick
+- Manfield
+- Ryan Derrough
+- Sara Collins
+- Sarah Mehta
+organisations:
+- ACLU
+- APB Consulting Solutions
+- American Civil Liberties Union
+- Compliant Technologies
+- Compliant Technologies’
+- DHS
+- Department of Homeland Security
+- Derrough
+- EMS
+- Elswick
+- G.L.O.V.E
+- G.L.O.V.E.
+- Guardian
+- ICE
+- Immigration and Customs Enforcement
+- Instagram
+- Kentucky TV
+- Madison County Detention Center
+- NBC
+- NPR
+- SRO
+- SROs
+- Taser
+- WDRB
 ---
 
 Plans to supply Immigration and Customs Enforcement (ICE) officers with special gloves that can deliver electric shocks have alarmed experts and drawn scrutiny amid some high-profile lawsuits over their use in local correctional facilities.

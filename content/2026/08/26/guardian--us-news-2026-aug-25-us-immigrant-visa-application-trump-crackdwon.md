@@ -11,6 +11,21 @@ image: https://i.guim.co.uk/img/media/2d303f1c00bd3175b4c5f7faebac7877b8e08984/3
 categories:
 - UK
 - News & Politics
+locations:
+- US
+- Washington
+people:
+- Brian Simmons
+- Joanna Cuevas Ingram
+- Trump
+organisations:
+- Associated Press
+- Department of Homeland Security
+- FT
+- Financial Times
+- Fragomen
+- National Immigration Law Center
+- Trump
 ---
 
 All US immigrant visa applications have been paused by the Trump administration as the state department moves to tighten restrictions and limit access to applicants who they deem could end up relying on US assistance, a state department official confirmed Tuesday.

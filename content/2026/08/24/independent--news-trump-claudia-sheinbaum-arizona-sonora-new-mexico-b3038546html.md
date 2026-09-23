@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Agua Prieta
+- Arizona
+- Chihuahua
+- Douglas
+- New Mexico
+- Sonora
+- Texas
+- U.S. Mexico
+- United States
+people:
+- Claudia Sheinbaum
+organisations:
+- Trump
 ---
 
 Mexico resumed live cattle exports to the United States on Monday after they were halted for nearly two years by restrictions imposed by the Trump administration following a screwworm outbreak.

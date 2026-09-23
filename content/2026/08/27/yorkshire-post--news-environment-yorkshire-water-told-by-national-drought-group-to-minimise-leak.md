@@ -14,6 +14,29 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Baitings Reservoir
+- England.
+- Kirkgate
+- Leeds
+- Marton-cum-Grafton
+- North Yorkshire
+- Ripponden
+- UK
+- West Yorkshire
+people:
+- Debbie Feldhaus
+- Emma Hardy
+- Philip Duffy
+organisations:
+- Environment Agency
+- Government
+- Government’s National Drought Group
+- Haltemprice
+- Hull West
+- Met Office
+- National Drought Group
+- Yorkshire Water
 ---
 
 # Yorkshire Water told by National Drought Group to do 'everything to minimise leaks'

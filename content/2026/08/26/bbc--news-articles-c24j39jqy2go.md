@@ -13,6 +13,60 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- America
+- Australia
+- Canada
+- Dolly Parton Children's Hospital
+- Dollywood
+- Hollywood
+- Ireland
+- Los Angeles
+- Middle Tennessee
+- Nashville
+- Scotland
+- Sevier County
+- Smoky Mountains
+- UK
+- US
+- Washington DC
+people:
+- '## Jolene'
+- Chris Stapleton
+- Covid
+- Cyndi Lauper
+- Dolly Parton
+- Eileen Driver
+- Kenny Rogers
+- Lee Mills
+- Linda Jinnette Cooper
+- Monroe Carell Jr
+- Reba McEntire
+- Robert Lee Parton
+- Robert Parton
+- Selina Brown
+organisations:
+- ABC TV
+- American Eagle Foundation
+- BBC
+- Best
+- Carnegie Medal of Philanthropy
+- Children's Hospital
+- Dolly Parton Center for Women's Services
+- Dollywood Foundation
+- Dundee
+- East Tennessee Children's Hospital
+- Facebook
+- Good Morning America
+- Imagination Library
+- Olivia Ireland
+- Radio Tees
+- Salvation Army
+- Scottish National Party
+- Stokesley Imagination Library
+- The Dollywood Foundation
+- The Library of Congress
+- Vanderbilt University Medical Center
 ---
 
 ![Dolly Parton crouches down and speaks to several children. She has her arms around two of them.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/396c/live/3d980c40-a126-11f1-8c37-3f30331ac537.jpg)

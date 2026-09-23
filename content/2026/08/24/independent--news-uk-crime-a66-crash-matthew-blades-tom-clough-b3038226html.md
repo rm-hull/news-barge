@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- A66
+- Cleveland
+- Middlesbrough
+- Teesside
+people:
+- Cole Robert Worthy
+- Jacob Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Pc Matthew Blades
+- Pc Tom Clough
+- Theo Rae
+- Tom Clough
+- Wayne Fox
+organisations:
+- A66
+- Cleveland Police
+- The Independent
 ---
 
 Nine men and three women, aged between 19 and 61, have been arrested by officers investigating the events leading up to the crash on the A66 which killed two police officers, Cleveland Police said.

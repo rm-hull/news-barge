@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- England
+- Kyiv.
+- London
+- Makerfield
+- New York
+- UK
+- US
+- Ukraine
+people:
+- '** Lee Anderson'
+- Andy Burnham
+- Donald Trump
+- Rupert Lowe
+organisations:
+- Avengers AI
+- Bloomberg
+- Guardian
+- MPs’
+- Reform UK
+- Restore Britain
+- Starmer
+- UN
 ---
 
 Good morning and welcome to the UK politics live blog.

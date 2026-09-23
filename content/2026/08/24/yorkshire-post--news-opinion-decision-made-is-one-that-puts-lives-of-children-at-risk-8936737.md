@@ -15,6 +15,18 @@ categories:
 - York
 - Society & Culture
 - News & Politics
+locations:
+- Bradford
+- Girlington
+- Shoreham-by-Sea
+- Squire Lane
+- Swim England
+- West Sussex
+people:
+- Saja El-Jhawas
+organisations:
+- Bradford
+- Reform UK-led Executive
 ---
 
 # Decision made is one that puts lives of children at risk

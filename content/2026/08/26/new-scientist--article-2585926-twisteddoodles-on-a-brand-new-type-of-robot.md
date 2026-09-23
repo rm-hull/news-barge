@@ -10,6 +10,9 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308833913.jpg
 categories:
 - Science
 - Technology & Software
+locations: []
+people: []
+organisations: []
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308833913.jpg?w=840)

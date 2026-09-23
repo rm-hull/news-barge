@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Durham
+- North Cumbria
+- North East
+- Spennymoor
+- Yorkshire
+people:
+- Martin Rickett
+- Yasmin Khan
+organisations:
+- NHS National Booking Service
+- NHS North East
+- PA Wire
+- Yorkshire
 ---
 
 Young people preparing to start university or further education in the North East this Autumn are being urged to get vaccinated against meningococcal B (MenB) disease before moving into halls or shared accommodation.

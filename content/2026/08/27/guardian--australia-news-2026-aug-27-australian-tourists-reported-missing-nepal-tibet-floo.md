@@ -12,6 +12,40 @@ image: https://i.guim.co.uk/img/media/0651c5c9f39317a6a1e396addaa893d29cac41e8/4
 categories:
 - UK
 - News & Politics
+locations:
+- Australia
+- Canada
+- Canberra
+- China
+- Finland
+- France
+- Gyirong
+- India
+- Kathmandu
+- Nepal
+- Nepal-Tibet
+- Norway
+- Nuwakot
+- Rasuwa
+- Switzerland
+- Tibet
+- Trishuli River
+- UK
+- United Kingdom
+- United States
+people:
+- Albanese
+- Dfat
+- Matt Thistlethwaite
+- Penny Wong
+- Saroj Paneru
+- Simon Ernst
+organisations:
+- ADF
+- Department of Foreign Affairs and Trade
+- Dfat
+- Nepali Tourism Board
+- Reuters
 ---
 
 The Australian government is urgently seeking information on the welfare of at least 35 Australians missing in Nepal, after a catastrophic flash flood swept through the Nepal-Tibet border region.

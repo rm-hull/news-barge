@@ -12,6 +12,41 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- America
+- Epstein Island
+- Iran
+- QAnon Building
+- U.S.
+- White House
+people:
+- '## QAnon'
+- Donald Trump
+- Elon Musk
+- Emil Michael
+- Hillary Clinton
+- Kash Patel
+- Lori Chavez-DeRemer
+- Matthew N. Hannah
+- Naomi Klein
+- Robert F. Kennedy Jr.
+- Van Halen
+- Washington I
+organisations:
+- 4chan
+- 8chan
+- Department of Government Efficiency
+- FBI
+- Jeffrey Epstein
+- Patriots
+- Pentagon
+- Politics and Culture
+- QAnon
+- The Conversation
+- Trump and Q
+- Truth Social
+- U.S. Department of Labor
+- University of Wisconsin-Madison
 ---
 
 On Election Day in 2024, as voters cast their ballots, Elon Musk posted a campaign music video supporting Donald Trump’s bid for president.

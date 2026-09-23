@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Ark
+- Auckland
+- China
+- Gulf Harbour
+- Hainan
+- New Zealand
+- Orewa
+- United States
+people:
+- Jingui Liu
+- Justice Downs
+- Kaixiao Liu
+- Lanyue Xiao
+- Mathew Downs
+- Ms Xiao
+- Ron Mansfield KC
+- Shulai Wang
+- Xiuyun Li
+organisations:
+- China’s Got Talent
+- Universal Choir
 ---
 
 The leader of a fringe religious group in New Zealand has been sentenced to more than 10 years in jail over the death of a 70-year-old woman who had travelled from China to live in his house called the “Ark”.

@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- Australia
+- Brisbane
+- Britain
+- London
+- Melbourne
+- Perth
+- Sydney
+people:
+- Andres Felipe Valencia Barrientos
+- Linda Black
+- Yung Filly
+organisations:
+- District Court of Western Australia
 ---
 
 British social media celebrity and rapper Yung Filly can return to Britain before he stands trial in Australia next year on charges of raping a fan, a judge ruled on Thursday.

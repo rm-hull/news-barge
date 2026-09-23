@@ -11,6 +11,22 @@ image: https://static.independent.co.uk/2026/08/26/10/2291562126..?trim=0,252,0,
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Britain
+- Greater Manchester
+- London
+- US
+- Ukraine
+- White House
+people:
+- Andy Burnham
+- Donald Trump
+- Ed Miliband
+- Marco Rubio
+organisations:
+- Channel 5 News
+- US State Department
 ---
 
 Andy Burnham has stood by his previous comments about Donald Trump, claiming that the US president has likewise "said things as well".

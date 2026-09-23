@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- Halifax
+- Shibden Hall
+- Yorkshire
+people:
+- Ann Walker
+- Annabelle Lopez Ochoa
+- Anne Lister
+- Jack
+- Mariana Lawton
+- Peter Salem
+- Sally Wainwright
+organisations:
+- BBC
+- Bradford’s Alhambra Theatre
+- Finnish National Opera
+- HBO
+- Northern Ballet
 ---
 
 *(Image: Northern Ballet)*

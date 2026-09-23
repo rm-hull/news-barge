@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Beijing
+- China
+- U.S.
+people:
+- Usain Bolt
+organisations:
+- People's Daily
 ---
 
 A Chinese humanoid robot set a new 100-meter sprint record of 8.86 seconds in Beijing on Tuesday, beating its robot competitors — and the fastest recorded human time.

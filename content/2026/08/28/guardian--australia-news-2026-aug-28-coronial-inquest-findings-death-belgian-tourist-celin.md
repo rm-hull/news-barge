@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Arthur River
+- Australia
+- Magnet Dam
+- Philosopher Falls
+- Tasmania
+people:
+- Celine Cremer
+- Celine Cremer.
+- Madeleine Wilson
+organisations:
+- Google
+- Philosopher Falls
+- Tasmania Police
 ---
 
 Overlapping errors, including a lack of preparation in near-freezing winter weather, contributed to the death of a Belgian tourist on a wilderness track.

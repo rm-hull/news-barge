@@ -14,6 +14,17 @@ categories:
 - York
 - Arts & Culture
 - Sports
+locations:
+- US
+people:
+- James Emmanuel
+- Le Freak
+organisations:
+- '## Nile Rodgers & Chic'
+- CUFFE
+- Nile Rodgers & Chic
+- Scarborough Open Air Theatre
+- The Brand New Heavies
 ---
 
 ## Nile Rodgers & Chic brings down curtain on 2026 Scarborough Open Air Theatre season

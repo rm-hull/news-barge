@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Basingstoke Magistrates’ Court
+- Hampshire
+- Winchester
+people:
+- AI
+- Andy Warhol
+- Anisa Alrubaie
+- Billie Piper
+- Caroline Bonavia
+- Doug Peters
+- Kirsty Allman
+- Ms Piper
+- Philip Jerome
+organisations:
+- Facebook
+- GQ
+- Ms Piper
 ---
 
 An individual described as an "obsessive" fan with a "sexual interest" in Billie Piper has been sentenced to 12 months in prison for breaching a stalking prevention order protecting the former Doctor Who actor.

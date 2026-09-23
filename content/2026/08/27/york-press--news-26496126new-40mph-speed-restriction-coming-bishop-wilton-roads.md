@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Bishop Wilton
+- Garrowby Hill
+- South Wold
+- YOUR
+people: []
+organisations:
+- Highways Maintenance
+- Public Notice Portal
+- Streetscene Services
 ---
 
 *(Image: Getty Images/iStockphoto)*

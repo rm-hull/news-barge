@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Black
+- Collin County
+- Dallas
+- Texas
+people:
+- Austin Metcalf
+- Bill Wirskye
+- Greg Willis
+- John Roach
+- Karmelo Anthony
+- Michael Chitty
+- Russell Wilson
+organisations:
+- Dallas TV
 ---
 
 A Texas judge denied a new trial for Karmelo Anthony on Saturday in the stabbing death of a 17-year-old athlete at a high school track meet, a killing that drew national attention and led to harassment of the families.

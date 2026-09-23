@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Bangkok
+- Iran
+- Middle East
+- Strait of Hormuz
+- Thailand
+- U.S.
+people:
+- Abraham Lincoln
+organisations:
+- Royal Thai Navy
+- U.S. Navy
 ---
 
 The U.S. aircraft carrier USS Abraham Lincoln will make a stop in Thailand after its grueling deployment in the Middle East, Thai officials said Wednesday.

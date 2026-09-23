@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Bradford Live
+- Britain
+- South Asia
+- UK
+- West Yorkshire
+people:
+- Fanna-Fi-Allah
+- Tahir Qawwal
+organisations:
+- Bradford
 ---
 
 *(Image: Supplied)*

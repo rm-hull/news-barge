@@ -11,6 +11,20 @@ image: https://cdn.mos.cms.futurecdn.net/2eNt2BcSrH25wjrHuFcYTe-320-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- US
+people: []
+organisations:
+- AAA
+- Apple
+- Get Tom's Hardware
+- HP OmniBook
+- Kent Walters
+- Klarna
+- M5
+- Mac
+- MacBook Air
+- Watches
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/2eNt2BcSrH25wjrHuFcYTe-320-80.jpg)

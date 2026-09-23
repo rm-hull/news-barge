@@ -9,6 +9,18 @@ description: Designing technology inclusively to work better for everyone
 image: https://cdn.mos.cms.futurecdn.net/hvkxS6YQxDoEiTLwWEaPJL-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- North Carolina
+people: []
+organisations:
+- Future plc
+- Governor Morehead School
+- IPDO
+- Inclusive Product Design Office
+- Lenovo Foundation
+- TechRadar Pro
+- TechRadarPro
+- World Health Organisation
 ---
 
 ![Three office workers sitting together in front of a laptop in an office](https://cdn.mos.cms.futurecdn.net/hvkxS6YQxDoEiTLwWEaPJL.jpg) 

@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Oxford
+- UK
+people:
+- Charlotte Arthur
+- Ms Arthur
+organisations:
+- European Food Safety Authority
+- NHS
+- RSPCA
+- University of Oxford
 ---
 
 Higher-welfare chicken farming could be a “secret weapon” in curbing the UK’s most common cause of food poisoning, the RSPCA says, after a study linked factory-farmed birds to soaring rates of infection in people.

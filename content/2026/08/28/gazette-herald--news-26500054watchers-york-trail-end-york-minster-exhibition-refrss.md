@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Chapter House
+- York Minster
+people: []
+organisations:
+- Visit York Visitor Information Centre
+- Watchers of York
+- York Minster
 ---
 
 A popular city-wide art trail at York Minster is coming to an end.

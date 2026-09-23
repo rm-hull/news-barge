@@ -13,6 +13,29 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Clevershot
+- Humber
+- Leeds Bradford Airport
+- UK
+- Yorkshire
+people:
+- James Mason
+- Olga Watterich
+- Steve Heapy
+- Vincent Hodder
+organisations:
+- Airport Carbon Accreditation
+- CBI Yorkshire
+- Humber
+- Jet2
+- LEEDS Bradford Airport
+- Leeds Bradford Airport
+- Leeds City Council
+- Paris Agreement
+- QCS LBA
+- REGEN
+- West & North Yorkshire Chamber of Commerce
 ---
 
 *(Image: Clevershot)*

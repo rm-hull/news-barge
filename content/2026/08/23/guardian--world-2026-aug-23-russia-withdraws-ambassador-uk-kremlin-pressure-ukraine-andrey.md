@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Britain
+- Kremlin
+- Kyiv
+- London
+- Moscow
+- Russia
+- UK
+- Ukraine
+people:
+- Andrey Kelin
+- John Foreman
+- Shaun Pinner
+- Vasily A Tsyganov
+organisations:
+- Foreign Office
+- Ministry of Defence
+- Sky News
+- Sunday Times Kelin
 ---
 
 Russia has withdrawn its ambassador to the UK, it has emerged, as the Kremlin continues to try to put pressure on Britain over its support for Ukraine.

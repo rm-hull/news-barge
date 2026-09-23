@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Europe
+- Scotland
+- UK
+people:
+- Joel Milner
+- Liz Fletcher
+organisations:
+- Casdu Crop Solutions
+- IBioIC
+- Industrial Biotechnology Innovation Centre
+- University of Glasgow
 ---
 
 Scottish researchers have developed a new approach to protect potato crops from diseases which cost the industry around £50 million a year.

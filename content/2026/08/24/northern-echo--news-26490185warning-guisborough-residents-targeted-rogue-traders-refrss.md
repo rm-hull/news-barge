@@ -15,6 +15,19 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Society & Culture
+locations:
+- County Durham
+- Ex-Durham
+- Guisborough
+- Hutton Ward
+- North Yorkshire
+people:
+- Cllr Hart
+- Julie Hart
+organisations:
+- Citizens Advice Consumer Service
+- City of York Council
+- Trading Standards
 ---
 
 Residents in part of North Yorkshire are being warned to stay vigilant after reports of rogue traders targeting vulnerable people on their doorsteps.

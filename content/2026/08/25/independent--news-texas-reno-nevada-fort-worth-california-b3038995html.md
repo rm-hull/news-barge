@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- California
+- Fort Worth
+- Nevada
+- Palo Pinto County
+- Reno
+- Ross Fire
+- South
+- Texas
+- U.S.
+people:
+- Amy Meyer
+organisations:
+- Hawk Fire
+- National Interagency Fire Center
 ---
 
 Evacuations were being ordered Tuesday in rural Texas where a wildfire has ballooned in size, burning through ranchland and forcing schools to delay or cancel classes.

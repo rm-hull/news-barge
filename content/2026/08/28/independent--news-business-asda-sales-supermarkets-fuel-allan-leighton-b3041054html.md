@@ -13,6 +13,14 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- UK
+people:
+- Allan Leighton
+- Michael Gleeson
+organisations:
+- Asda
+- Ocado
 ---
 
 Asda has revealed that sales are on track to grow for the first time in two years, despite pressure on household budgets caused by the broader economic environment.

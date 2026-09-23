@@ -11,6 +11,28 @@ image: https://static.independent.co.uk/2026/08/26/23/2271087022..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Connecticut
+- Danbury
+- New York
+- U.S-Mexico
+- U.S.
+- Washington
+people:
+- Amit Mehta
+- Carl Nichols
+- D. John Sauer
+- Jeanine Pirro
+- Steve Bannon
+- Trump
+organisations:
+- Capitol
+- Congress
+- Department of Justice
+- Justice Department
+- Oath Keepers
+- Supreme Court
+- Trump
 ---
 
 A federal judge has rejected an attempt from the Department of Justice to toss out a case against Steve Bannon, who has already served a four-month prison sentence for defying a congressional investigation into January 6.

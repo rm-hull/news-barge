@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Indianapolis
+- Michigan
+- Saudi Arabia
+- Spain
+people:
+- Bryson DeChambeau
+- Jon Rahm
+- La Sasso
+- Michael La Sasso
+- Rory McIlroy
+- Scott O'Neil
+- Sergio Garcia
+organisations:
+- DeChambeau
+- LIV Golf
+- PIF
+- Public Investment Fund
 ---
 
 ![Bryson DeChambeau smiles while competing at the LIV Golf Indianapolis event](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/924f/live/4b38f440-9fa5-11f1-bff6-57f1422ebb0b.jpg)

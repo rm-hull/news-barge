@@ -14,6 +14,45 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- CARMEL COLLEGE
+- CLEVELAND
+- Darlington
+- Hartlepool
+- Loughborough
+- Marske
+- Middlesbrough
+- South Bank
+- Stockton
+- Teesside Magistrates' Court
+people:
+- Cole Robert Worthy
+- Dad
+- Jacob Matusiak
+- Makai Saddington
+- Matt
+- Matthew Blades
+- Michael Robert Cahill
+- PC Blades
+- PC Blades'
+- PC Clough
+- PC Thomas
+- Passat
+- Paul Appleton
+- Theo Rae
+- Thomas Clough
+- Tom Clough
+- Victoria Fuller
+organisations:
+- CARMEL COLLEGE
+- Carmel College
+- Cleveland Police
+- Cleveland Police Federation
+- IOPC
+- PC Blades
+- PC Clough
+- The Northern Echo
 ---
 
 Two police officers killed in the devastating A66 crash over the weekend died from head and neck injuries, a coroner has confirmed.

@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Massachusetts
+- Plymouth County
+- Poland
+- U.S.
+people:
+- Kevin Reddington
+- Lindsay Clancy
+organisations:
+- Cleveland Clinic
+- Medical University of Lublin
 ---
 
 Jurors in the Lindsay Clancy murder trial are expected to return to court Friday morning at 9 a.m. ET in Plymouth, Massachusetts, where they must decide whether to hold the former labor and delivery nurse criminally responsible for killing her three children in 2023.

@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Leeds
+- UK
+- US
+- Ukraine
+people:
+- Kate Nash
+- Keily Blair
+- Leonid Radvinsky
+- Rebecca
+- Yekaterina 'Katie' Chudnovsky
+organisations:
+- BBC Three
+- Fenix International
+- Fenix International Ltd
+- Forbes'
+- Marks and Spencer
+- Ofcom
+- OnlyFans
 ---
 
 ![A phone with the OnlyFans logo on the screen](https://ichef.bbci.co.uk/ace/standard/724/cpsprodpb/7e7a/live/91d81fb0-a064-11f1-ab55-41a63a22b55d.jpg)

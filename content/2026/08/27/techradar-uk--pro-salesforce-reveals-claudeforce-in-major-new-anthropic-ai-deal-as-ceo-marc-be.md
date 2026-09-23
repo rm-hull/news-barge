@@ -11,6 +11,33 @@ image: https://cdn.mos.cms.futurecdn.net/NkEJWUi64kpCSWJBB3iYcm-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Claude
+- Salesforce
+- UK
+people:
+- Claude
+- Dario Amodei
+- Marc Benioff
+- Mike Moore
+- Slack
+organisations:
+- AI
+- Agentforce Coworker
+- Agentforce Vibes
+- Anthropic
+- Atlas Reasoning Engine
+- B2B
+- B2C
+- CNBC
+- CRM
+- Claude
+- Claudeforce
+- Google News
+- ITProPortal
+- Salesforce
+- Slack
+- TechRadar Pro
 ---
 
 ![Salesforce CEO Marc Benioff on stage](https://cdn.mos.cms.futurecdn.net/NkEJWUi64kpCSWJBB3iYcm.jpg) 

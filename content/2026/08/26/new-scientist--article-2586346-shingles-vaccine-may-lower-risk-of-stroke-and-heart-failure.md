@@ -13,6 +13,22 @@ categories:
 - Science
 - Technology & Software
 - Health & Fitness
+locations:
+- Denmark
+- Shingrix
+- UK
+- US
+- Zostavax
+people:
+- Betty Raman
+- John Tregoning
+- Max Taquet
+organisations:
+- Imperial College London
+- National Health Services
+- Shingrix
+- University of Oxford
+- Zostavax
 ---
 
 ![An illustration of the the varicella zoster virus, which causes chickenpox and shingles](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309449846.jpg?w=840)

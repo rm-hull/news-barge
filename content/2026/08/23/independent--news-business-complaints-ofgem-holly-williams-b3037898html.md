@@ -11,6 +11,14 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations: []
+people:
+- Ed Dodman
+organisations:
+- Department for Energy Security
+- Energy Ombudsman
+- Net Zero
+- Ofgem
 ---
 
 Energy complaints taken on by the industry ombudsman surged by 16% in the first half of 2026 as billing concerns disputes soared amid pressures on household finances, the latest figures have shown.

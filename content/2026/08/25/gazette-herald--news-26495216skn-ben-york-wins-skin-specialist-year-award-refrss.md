@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- York
+people:
+- Ben Brookshaw
+organisations:
+- Facebook
+- Google
+- SKN
+- West Yorkshire Hair and Beauty Awards
 ---
 
 An award-winning York skin therapist is celebrating after being recognised for his contribution to the beauty industry.

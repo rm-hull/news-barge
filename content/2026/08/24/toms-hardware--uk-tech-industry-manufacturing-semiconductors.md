@@ -12,6 +12,24 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- China
+- Earth
+people:
+- John Moolenaar
+organisations:
+- ABF
+- Ajinomoto
+- Bureau of Industry and Security
+- Commerce Department
+- Get Tom's Hardware
+- Kyoto University
+- LG
+- LPU
+- Nvidia
+- SMIC
+- Synopsys
+- The Information
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/YdZbVjBsghJp5q9fsqEwpT-320-80.png)

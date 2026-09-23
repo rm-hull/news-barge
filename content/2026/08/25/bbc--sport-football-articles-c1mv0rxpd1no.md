@@ -14,6 +14,41 @@ categories:
 - News & Politics
 - Sports
 - Business & Entrepreneurship
+locations:
+- Austria
+- Brighton
+- Cameroon
+- England
+- Lille
+- Manchester United
+- Old Trafford
+people:
+- Andrey Santos
+- Bruno Fernandes
+- Carlos Baleba
+- Carlos Baleba fromBrightonin
+- Diogo Dalot
+- Kobbie Mainoo
+- Luke Shaw
+- Mason Mount
+- Mateus Fernandes
+- Michael Carrick
+- Noussair Mazraoui
+- Paul Pogba
+- Youri Tielemans
+organisations:
+- Aston Villa
+- Baleba
+- Brighton
+- Casemiro
+- Chelsea
+- Hull City
+- Manchester United
+- Manchester Unitedhave
+- Paris St-Germain
+- Premier League
+- Santos
+- Seagulls'
 ---
 
 ![Carlos Baleba pictured smiling in a Manchester United shirt](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9550/live/37514d90-a0a1-11f1-84a9-276d1a8e5a22.jpg)

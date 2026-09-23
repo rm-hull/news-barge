@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - History
+locations:
+- Harrogate
+- Padside
+- UK
+people:
+- Alistair MacDonald KC
+- Geoffrey Crossland
+- Sean Morris
+- Stephen Wood KC
+organisations:
+- Minstry of Defence
+- North Yorkshire Police
+- The Recorder of York
+- York Crown Court
 ---
 
 *(Image: North Yorkshire Police)*

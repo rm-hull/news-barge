@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Lord Rosebery
+- North Yorkshire
+- Scarborough
+- St Nicholas Street
+- Westborough
+- YO11 2HG
+people:
+- Jennie Odell
+- Lord Rosebery
+organisations:
+- Co-operative Society
+- Google Maps
+- JD Whetherspoon
+- North Yorkshire Council
+- Scarborough’s Liberal Club
+- Town Hall
+- WETHERSPOONS
 ---
 
 A WETHERSPOONS pub in North Yorkshire has applied for a new licence from the council.

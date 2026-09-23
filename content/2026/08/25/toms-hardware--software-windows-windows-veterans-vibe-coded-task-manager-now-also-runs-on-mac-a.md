@@ -12,6 +12,20 @@ image: https://cdn.mos.cms.futurecdn.net/7ndgbD4kf8HpWSzWyLQHKW-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- M5
+people:
+- Claude Code
+- Dave W. Plummer
+- Mark Tyson
+- Tom
+organisations:
+- 80KB Task Manager
+- Google News
+- MacBook Air
+- TMOG
+- Task Manager
+- Tom's Hardware
 ---
 
 ![TMOG screenshots](https://cdn.mos.cms.futurecdn.net/7ndgbD4kf8HpWSzWyLQHKW.jpg) 

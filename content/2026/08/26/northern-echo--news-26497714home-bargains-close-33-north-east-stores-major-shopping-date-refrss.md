@@ -13,6 +13,82 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Barnard Castle
+- Bedford Street
+- Blandford Street
+- Blaydon Shopping Centre
+- Brockwell Centre
+- Clifford Road
+- County Durham
+- Darlington
+- Fossway
+- High Street
+- Jarrow – Station Road
+- Killingworth Centre
+- North East
+- Northumberland
+- Oxford Road
+- Parkfield Road
+- Regent Walk
+- Secretan Way
+- Segedunum Way
+- Stanley
+- Stockton-on-Tees
+- Teesside
+- Trimdon Street
+- Tyne and Wear
+- UK
+- Whitley Bay
+- Willington
+people:
+- Sarah Caldecott
+organisations:
+- Ashington
+- Barnard Castle
+- Belvedere Retail Park
+- Berwick Upon Tweed Home Bargains
+- Berwick-upon-Tweed
+- Bishop Auckland
+- Bishop Auckland Retail Park
+- Blaydon-on-Tyne
+- Byker
+- Byron Place Shopping Centre
+- Consett
+- Coulby Newham
+- Cramlington
+- Darlington
+- Forum Shopping Centre
+- Gateshead
+- Hartlepool
+- Hill Street Shopping Centre
+- Home Bargains
+- Killingworth
+- Manor Walks
+- McDonald's
+- Middlesbrough
+- Middleton Grange Shopping Centre
+- Millbank Industrial Estate
+- Morpeth
+- New County Durham Farmfoods
+- Newcastle Retail Park
+- North East Home Bargains
+- North Shields
+- Park View Shopping Centre
+- Parkway Shopping Centre
+- Pavilion Shopping Centre
+- Portland Park
+- Redcar
+- Seaham
+- South Shields
+- Spennymoor
+- Stanley Terrace
+- Sunderland
+- Teesbay Retail Park
+- The Precinct
+- Thornaby
+- Victoria Street
+- Wallsend
 ---
 
 *(Image: Sarah Caldecott)*

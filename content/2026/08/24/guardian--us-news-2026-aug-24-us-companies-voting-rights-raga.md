@@ -13,6 +13,54 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Alabama
+- America
+- Georgia
+- Louisiana
+- Texas
+- US
+- Washington
+people:
+- Brian Kemp
+- Bruce Freed
+- Donald Trump
+- Greg Abbott
+- Jeanne Hanna
+- Ken Paxton
+- Raga
+- Roe
+- Wade
+organisations:
+- AG
+- AGs
+- Airbnb
+- Amazon
+- CPA
+- Callais
+- Center for Political Accountability
+- Congress
+- Dobbs
+- DoorDash
+- FEC
+- Federal Election Commission
+- Google
+- Guardian
+- IRS
+- Internal Revenue Service
+- Jackson Women’s Health Organization
+- Meta
+- Microsoft
+- Public Citizen
+- RGA
+- RSLC
+- Raga
+- Republican Attorneys General Association
+- Republican Governors Association
+- Republican State Leadership Committee
+- Target
+- Wharton School
+- Zillow –
 ---
 
 Over a dozen US companies that signed a 2021 letter urging Congress to strengthen the Voting Rights Act continue to contribute to state political groups that are actively working to undermine the legislation, according to a campaign finance watchdog.

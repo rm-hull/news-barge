@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - History
+locations:
+- Apperley Bridge
+- Bradford
+- Knaresborough
+- Low Bridge
+- Mother Shipton Inn
+- North Yorkshire
+people:
+- Matthew Chapman
+- Mother Shipton
+organisations:
+- Pic
+- The Stansfield Arms
 ---
 
 ## FIRST LOOK - Historic North Yorkshire pub reopens tomorrow after 'transformation'

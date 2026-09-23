@@ -10,6 +10,21 @@ description: A mysterious new AI model called Ox Alpha has driven certain corner
 image: https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?resize=1200,675
 categories:
 - Technology & Software
+locations:
+- China
+- Reddit
+people:
+- Andrew Curran
+- Patrick Collison
+organisations:
+- AI
+- GLM
+- Microsoft’s MAI
+- OpenRouter
+- Ox Alpha
+- Stripe
+- Wccftech
+- Z.ai
 ---
 
 A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation about who actually built it.

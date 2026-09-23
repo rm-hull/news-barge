@@ -11,6 +11,37 @@ image: https://static.independent.co.uk/2026/08/27/14/20/FotoJet-(41).jpeg?trim=
 categories:
 - News & Politics
 - UK
+locations:
+- Alabama
+- Canada
+- Great Lake
+- Gulf of America
+- Gulf of Mexico
+- LAKE AMERICA
+- Lake America
+- Lake Ontario
+- Ottawa
+- Oval Office
+- U.S.
+- United States
+- Washington
+- White House
+people:
+- Donald Trump
+- Doug Ford
+- Mark Carney
+- Sharpie
+organisations:
+- Bloomberg
+- Board on Geographic Names
+- Cabinet
+- Ford
+- Newell Brands
+- Sharpie
+- The Washington Post
+- TikTok
+- Trump
+- Truth Social
 ---
 
 In a new video, President Donald Trump used his trusty Sharpie to rename Lake Ontario to “Lake America” as his trade war with Canada escalates.

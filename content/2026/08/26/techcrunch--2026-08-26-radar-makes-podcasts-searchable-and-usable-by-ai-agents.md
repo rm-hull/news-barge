@@ -13,6 +13,19 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Creator Economy & Marketing
+locations: []
+people:
+- Sara Beykpour
+organisations:
+- AI
+- API
+- API,” Beykpour
+- Exa
+- MCP
+- Particle
+- Radar Radar
+- TechCrunch
+- Twitter
 ---
 
 Particle, the AI newsreader startup founded by former Twitter engineers, is shifting its focus to a potentially more lucrative idea: indexing the spoken conversations buried in podcasts and making them discoverable. On Wednesday, the company introduced Radar, a podcast search engine that not only transcribes podcast audio but also understands what it means, enabling it to pull out key quotes and highlights.

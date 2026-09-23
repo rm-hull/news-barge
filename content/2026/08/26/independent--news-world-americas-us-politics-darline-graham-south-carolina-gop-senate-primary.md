@@ -12,6 +12,41 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Florida
+- Myrtle Beach
+- South Carolina
+- South China Sea
+- Taiwan
+- U.S.
+- Utah
+- Washington
+people:
+- '## Norman'
+- Annie Andrews
+- Charlie Kirk
+- Darline Graham
+- Donald Trump
+- Henry McMaster
+- Jim DeMint
+- Lindsey Graham
+- Mike Lee
+- Mike Sellers
+- Nikki Haley
+- Ralph Norman
+- Rick Scott
+- Robert Tropiano
+- Tim Scott
+organisations:
+- Congress
+- MAGA Inc.
+- PAC
+- Rock Hill
+- Senate
+- South Carolina Sen
+- Trump
+- Turning Point Action
+- U.S. House
 ---
 
 U.S. Sen. Darline Graham has secured the Republican nomination on South Carolina’s general election ballot to replace her late brother, Lindsey Graham.

@@ -12,6 +12,30 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations: []
+people:
+- Luke James
+- Nvidia Vera Rubin
+- Tom
+organisations:
+- AMD
+- Bloomberg
+- GeForce
+- Get Tom's Hardware
+- Google News
+- Grace Blackwell
+- HBM
+- LPDDR
+- Microsoft
+- Nvidia Blackwell Ultra
+- Oracle
+- PC
+- RAM
+- Rubin GPU
+- SK hynix
+- Samsung
+- TSMC
+- Vera Rubin
 ---
 
 ![Nvidia Blackwell Ultra server stack.](https://cdn.mos.cms.futurecdn.net/smfS6N7aideSB7eA7JSz2H.jpg) 

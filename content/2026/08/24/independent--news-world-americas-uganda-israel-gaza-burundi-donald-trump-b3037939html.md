@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Albania
+- Burundi
+- Gaza
+- Indonesia
+- Iran
+- Israel
+- Kazakhstan
+- Kenya
+- Kosovo
+- Morocco
+- Nairobi
+- Somalia
+- U.S.
+- Uganda
+people:
+- Benjamin Netanyahu
+- Donald Trump
+- Jared Kushner
+- Jasper Jeffers
+- Paul D. Williams
+- ___ Falzetta
+organisations:
+- AP
+- African Union
+- Board of Peace
+- Hamas
+- International Stabilization Force
+- The Associated Press
+- The George Washington University
 ---
 
 Military officials from Uganda and Burundi visited Israel last week to discuss deploying troops to Gaza as part of an international security force envisioned by U.S. President Donald Trump’s Board of Peace for the fragile ceasefire, according to officials.

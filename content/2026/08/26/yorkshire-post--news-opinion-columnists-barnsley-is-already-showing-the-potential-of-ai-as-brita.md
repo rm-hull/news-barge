@@ -15,6 +15,20 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- AI
+- Barnsley Hospital
+- Britain
+- South Yorkshire
+- Tech Town
+- Tony Johnson
+- UK
+people:
+- Andrew Western
+organisations:
+- AI Taskforce
+- Barnsley College
+- Government
 ---
 
 # Barnsley is already showing the potential of AI as Britain’s first Tech Town - Andrew Western

@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- British Virgin Islands
+- California
+- Caribbean
+- Los Angeles
+- Miami
+- The Haven
+people:
+- Dayna Zegarelli
+- Luna
+- Michael Perry
+- Robert Lundberg
+organisations:
+- MS
+- NCL
+- Norwegian’
+- The Independent
+- The Independent.
 ---
 
 A Los Angeles grandmother suffering from multiple sclerosis was thrown off a cruise ship in the British Virgin Islands, without her essential medications, after she was accused of “stealing” a half-bottle of wine she insists was included in her vacation package, according to a multimillion-dollar federal lawsuit filed Wednesday and obtained by *The Independent.*

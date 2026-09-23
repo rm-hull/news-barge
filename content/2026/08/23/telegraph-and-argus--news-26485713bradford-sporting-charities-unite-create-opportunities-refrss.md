@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford Arts Centre
+- City Hall
+- City Park
+people:
+- Liaqat Ali
+- Lizzie Saunderson-Trowell
+- Michelle Pemberton
+- Mike Simmonds
+organisations:
+- Active Bradford
+- Bradford Bulls Community Foundation
+- Bradford Bulls Foundation
+- Bradford City Community Foundation
+- Bradford City FC Community Foundation
+- Yorkshire Cricket Foundation
 ---
 
 A NEW partnership is aiming to boost opportunities for young people through the power of sport.

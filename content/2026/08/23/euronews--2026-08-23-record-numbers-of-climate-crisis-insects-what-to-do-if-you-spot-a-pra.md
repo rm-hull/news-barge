@@ -14,6 +14,20 @@ categories:
 - Europe
 - News & Politics
 - Religion & Spirituality
+locations:
+- Africa
+- Baden-Württemberg
+- Europe
+- Germany
+- Mediterranean
+- USA
+people: []
+organisations:
+- EU
+- German Nature and Biodiversity Conservation Union
+- NABU
+- NABU-naturgucker.de
+- Naturgucker
 ---
 
 ## This summer, unusually many praying mantises can be spotted in German gardens. How to distinguish the "Mantid religiosa" from a grasshopper and what to do…

@@ -13,6 +13,98 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Ann Lake
+- Appleby
+- Barnard Castle
+- Bishop Auckland
+- Blue Belle
+- Caribbean
+- Ceylon
+- Chester Street
+- Church Street
+- Cumbria
+- Darlington
+- Durham
+- Eden
+- Evenwood
+- Farmfoods
+- Ferryhill
+- Great North of England
+- Haughton Road
+- High Etherley
+- High Street
+- Jamaica
+- James Street
+- Lidl
+- London
+- Malta
+- Middlesbrough
+- Newgate Street
+- OK
+- Orton
+- Parkwood
+- Ribble
+- South Africa
+- Spennymoor Town Hall
+- Sri Lanka
+- St Helen
+- St Helena’s Garage
+- St Helen’s Garage
+- Swan Street
+- Town Hall
+- Valetta
+- West Auckland
+- Westgate Road
+- Woodland
+people:
+- Alan Orchard
+- Barry Nicholson
+- Chris Walton
+- Christine Ludbrook
+- Elgey
+- Fred Lockey
+- Go Ahead
+- Harry Anderson
+- High Etherley
+- Ian Hall
+- James Bond
+- John Askwith
+- Madge Truman
+- Neil Davis
+- Richard Barber
+- Roger Moore
+- Stephenson
+- Sue Craddock
+- Thomas
+- Wade Emmerson
+organisations:
+- Anderson's
+- Associated Equipment Company
+- Blue Belle
+- Elgey
+- GNE
+- Google StreetView
+- JW Armstrong Trust
+- JW Armstrong Trust JXN 371
+- JXN338
+- LT
+- Lockey
+- Lockey's JXN378
+- Lockeys
+- Lockeys' North Bridge Garage
+- London Transport
+- London Transport RT
+- Northern Echo
+- OK
+- RTs
+- Routemaster
+- SHN
+- Spennymoor Tow Hall
+- Stephenson Brothers
+- Stephensons
+- Town Hall
+- United
 ---
 
 The RT was the great, red London double decker of the 1940s through to the 1960s, but during that period buses and bus usage changed dramatically.

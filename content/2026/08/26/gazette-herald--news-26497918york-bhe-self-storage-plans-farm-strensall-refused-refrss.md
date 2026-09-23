@@ -15,6 +15,22 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- BHE Self Storage
+- Lambs Hill Farm
+- Strensall
+- Strensall’s Common
+- Towthorpe Moor Lane
+- Ukraine
+- YOUR
+- York
+people: []
+organisations:
+- BHE Self Storage
+- BHE Self-Storage
+- Public Notice Portal
+- Public Notice Portal A YORK
+- York Council
 ---
 
 ### What is the Public Notice Portal?

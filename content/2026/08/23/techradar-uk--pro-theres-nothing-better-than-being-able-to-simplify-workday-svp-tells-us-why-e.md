@@ -12,6 +12,21 @@ categories:
 - Technology & Software
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Max Wessel
+- Mike Moore
+organisations:
+- AI
+- B2B
+- B2C
+- Google News
+- ITProPortal
+- SVP Product
+- Sana
+- TechRadar Pro
+- Workday
 ---
 
 ![business vpn](https://cdn.mos.cms.futurecdn.net/isoopje9LKofpDmB78HMLV.jpg) 

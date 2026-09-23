@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Croydon Magistrates’ Court
+- London
+- Rowcross Street
+- Southwark
+people:
+- Emma Bond
+- Kerry Ann Goodbrand
+- Mohammed Sherif
+organisations:
+- Crimestoppers
 ---
 
 A man has been charged with murder after a woman died falling from a height in south-east London.

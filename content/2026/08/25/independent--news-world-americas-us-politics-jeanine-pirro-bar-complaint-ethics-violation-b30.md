@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Arizona
+- New York
+- U.S.
+- Virginia
+- Washington
+- White Plains
+people:
+- Carlton Davis
+- Donald Trump
+- Ed Martin Jr.
+- Elissa Slotkin
+- Jeanine Pirro
+- Mark Kelly
+- Michael Teter
+- Pete Hegseth
+- Steven Vandervelden
+- Tim Lauer
+organisations:
+- District of Columbia
+- Fox News
+- House
+- Justice Department
+- Legal Accountability Center
+- Lincoln Memorial Reflecting Pool
+- Navy
+- Supreme Court
+- Trump
+- Virginia State Bar
 ---
 
 U.S. Attorney Jeanine Pirro and two deputies have been accused of ethical violations in bar complaints filed Tuesday by a legal watchdog. The filings stem from efforts to bring federal charges against six Democratic lawmakers over a video urging troops to disobey unlawful orders.

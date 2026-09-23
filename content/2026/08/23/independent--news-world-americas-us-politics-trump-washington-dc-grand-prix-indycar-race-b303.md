@@ -13,6 +13,73 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- Washington Monument
+- Washington, D.C.
+- White House
+people:
+- Alex Palou
+- Alexander Rossi
+- Ava Berger
+- Caio Collet
+- Christian Lundgaard
+- Christian Rasmussen
+- Dale Coyne
+- David Malukas
+- Dennis Hauger
+- Donald Trump
+- Ed Carpenter
+- Felix Rosenqvist
+- Graham Rahal
+- Joe Biden
+- Josef Newgarden
+- Kash Patel
+- Kyffin Simpson
+- Kyle Kirkwood
+- Louis Foster
+- Marcus Armstrong
+- Marcus Ericsson
+- Mick Schumacher
+- Nolan Siegel
+- Pato O'Ward
+- Pato O’Ward
+- Ray Robb
+- Rinus VeeKay
+- Romain Grosjean
+- Ron Klain
+- Santino Ferrucci
+- Scott Dixon
+- Scott McLaughlin
+- Sean Duffy
+- Will Power
+organisations:
+- A.J. Foyt Enterprises Chevrolet
+- Andretti Global Honda
+- Arrow McLaren Chevrolet
+- Beautiful Task Force’
+- Capitol
+- Chip Ganassi Racing Honda
+- Command Post
+- Critical Incident Response
+- DC Business
+- DC ‘Safe
+- Dale Coyne Racing Honda
+- Ed Carpenter Racing Chevrolet
+- FBI
+- Indianapolis Motor Speedway
+- Juncos Hollinger Racing Chevrolet
+- Meyer Shank Racing Honda
+- NPR
+- National Gallery of Art
+- New York Times
+- Rahal Letterman Lanigan Racing Honda
+- SWAT
+- Team Penske Chevrolet
+- Transportation
+- Trump
+- UFC
+- Washington Field Office
 ---
 
 Drivers vying for the top spots in the Freedom 250 IndyCar lineup participated in practice rounds and the qualifiers Saturday ahead of the high-speed Grand Prix taking place Sunday.

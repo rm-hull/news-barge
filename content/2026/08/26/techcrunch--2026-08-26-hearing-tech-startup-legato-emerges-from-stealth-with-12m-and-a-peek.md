@@ -12,6 +12,24 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/legato.png?resize=1200,
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bose
+- EssilorLuxottica
+- United States
+people:
+- Bose Frames
+- Legato
+- Mehul Trivedi
+- Steve Romine
+organisations:
+- AI
+- Audicus
+- Legato Frames
+- Listen
+- Meta Ray-Bans
+- Neotribe Ventures
+- TechCrunch
+- Village Global
 ---
 
 Hearing loss affects an estimated 50 million adults in the United States, but only around 20% of those with diagnosed hearing loss seek treatment. Legato, a new hearing tech company, aims to close that gap.

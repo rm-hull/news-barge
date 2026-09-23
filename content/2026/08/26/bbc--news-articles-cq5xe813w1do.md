@@ -11,6 +11,32 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Amsterdam
+- Aston Villa
+- Downing Street
+- Guildford
+- Villa Park
+- West Midlands
+people:
+- Craig Guildford
+- Derrick Campbell
+- Jen Mattinson
+organisations:
+- AI
+- Aston Villa.
+- Birmingham City Council
+- Birmingham's Safety Advisory Group
+- Europa League
+- Guildford
+- IOPC
+- Independent Office for Police Conduct
+- Israeli Maccabi Tel Aviv
+- Maccabi Tel Aviv
+- Microsoft Copilot
+- SAG
+- West Ham
+- West Midlands Police
 ---
 
 ![Mounted police officers wearing high-vis jackets over uniform stand outside Aston Villa Football ground. Behind them many other officers wearing bright yellow jackets can be seen](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/020d/live/fd0a59e0-a147-11f1-9311-09d4e1fc9016.jpg)

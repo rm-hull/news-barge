@@ -12,6 +12,30 @@ description: Test drivers for Waymo and Zoox sustained more than two dozen injur
 image: https://techcrunch.com/wp-content/uploads/2026/08/waymo-jaguar-ipace.jpg?resize=1200,633
 categories:
 - Technology & Software
+locations:
+- Atlanta
+- Austin
+- Dallas
+- Las Vegas
+- Los Angeles
+- Phoenix
+- San Francisco
+- Seattle
+- Washington, D.C.
+- Waymo
+people:
+- Waymo
+- Zoox
+organisations:
+- Injury Tracking Application
+- National Highway Traffic Safety Administration
+- OSHA
+- Occupational Safety and Health Administration
+- SUV
+- TechCrunch
+- Transdev
+- Waymo
+- Zoox
 ---
 
 The rapid scaling of robotaxis over the last two years has come with a hidden human cost.

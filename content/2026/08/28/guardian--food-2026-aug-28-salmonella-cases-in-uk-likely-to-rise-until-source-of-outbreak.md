@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Poland
+- Romania
+- UK
+people:
+- Brad Spiller
+- Chris Elliott
+- Mark Stevens
+- Paul Wigley
+organisations:
+- British Egg Industry Council
+- Cardiff University
+- Queen’s University Belfast
+- UK Health Security Agency
+- UKHSA
+- University of Bristol
+- University of Edinburgh
 ---
 
 Salmonella cases in the UK are expected to rise until the common source is identified, something that is notoriously difficult to establish, experts have warned.

@@ -12,6 +12,58 @@ image: https://cdn.mos.cms.futurecdn.net/du2MotFeBF6qpBbXDQHTUk-565-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- Bondi
+- Canada
+- Europe
+- India
+- Melbourne
+- Sydney
+- UK
+- US
+people:
+- '**Alvin Quah***MasterChef Australia'
+- '**Cam Merchant'
+- '**Clarkson'
+- '**Cosima De Vito'
+- '**Ian "Dicko" Dickson***Australian Idol'
+- AJ Antonios
+- Alex Nation
+- Claudia Bonifazio
+- Gamble Breaux
+- Gretel Killeen
+- Henry Nicholson
+- John Farnham
+- Josh Packham
+- Keira Maguire
+- Kirby Bentley
+- Krissy Marsh
+- Lawson Mahoney
+- Luke Packham
+- Rachael Evren
+- Rhys Nicholson
+- Rob Farnham
+- Shane Gould
+- Tom Bailey
+- Tully Smyth
+organisations:
+- BBC iPlayer
+- Elle Deco
+- Foxtel iQ3
+- Future Publishing
+- Google TV
+- Men's Health
+- TechRadar
+- The Daily Telegraph
+- The Mail
+- The Sun
+- The Sunday Times
+- The Traitors Australia
+- Traitors Australia
+- Traitors India
+- U5
+- VIDAA
 ---
 
 ![The Traitors Australia season 3 host Gretel Killeen wearing a dark blush read ball gown smiling in foreground, backed by two hooded Traitors 3 contestants in crimson robes](https://cdn.mos.cms.futurecdn.net/du2MotFeBF6qpBbXDQHTUk.jpg) 

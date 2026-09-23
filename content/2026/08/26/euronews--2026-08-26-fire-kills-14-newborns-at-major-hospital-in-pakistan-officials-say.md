@@ -11,6 +11,16 @@ image: https://images.euronews.com/articles/stories/09/88/89/69/1200x675_cmsv2_3
 categories:
 - Europe
 - News & Politics
+locations:
+- Islamabad
+- Pakistan
+people:
+- Shehbaz Sharif
+- Sohail Ashraf
+organisations:
+- Mother and Child Health Ward
+- PIMS
+- Pakistan Institute of Medical Sciences
 ---
 
 ## Poor enforcement of building safety regulations in Pakistan has been blamed for the high death toll in fires.

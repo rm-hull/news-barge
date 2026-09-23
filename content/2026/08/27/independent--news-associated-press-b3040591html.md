@@ -12,6 +12,10 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations: []
+people: []
+organisations:
+- Associated Press
 ---
 
 From front page news to powerful moments you may have missed, this gallery showcases today's top photos, chosen by Associated Press photo editors.

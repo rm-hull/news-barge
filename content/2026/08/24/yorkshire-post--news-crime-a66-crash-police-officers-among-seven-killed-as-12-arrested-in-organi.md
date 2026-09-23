@@ -15,6 +15,26 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- A66
+- Cleveland
+- Durham
+- Micklow Close
+- Middlesbrough
+- Northumbria
+- Redcar
+- South Bank
+- Teesside
+people:
+- Matthew Blades
+- Passat
+- Richard McCarthy
+- Tom Clough
+- Wayne Fox
+organisations:
+- Cleveland Police
+- North Yorkshire Police
+- TikTok
 ---
 
 # A66 crash: Police officers among seven killed as 12 arrested in organised crime probe

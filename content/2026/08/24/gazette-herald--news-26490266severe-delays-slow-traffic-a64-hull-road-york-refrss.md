@@ -13,6 +13,15 @@ categories:
 - York
 - History
 - Automotive
+locations:
+- A1237
+- A64 Hull Road
+- Sandy Lane
+- York
+people: []
+organisations:
+- AA
+- Newsquest
 ---
 
 *(Image: Newsquest)*

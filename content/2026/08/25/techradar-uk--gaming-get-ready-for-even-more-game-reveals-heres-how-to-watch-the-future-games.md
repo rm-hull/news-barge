@@ -12,6 +12,24 @@ image: https://cdn.mos.cms.futurecdn.net/QVuTK2d8L4whLjDCKzvXZd-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Gamescom Koelnmesse
+people:
+- Angela Sant’Albano
+- Jules
+- Nathan
+- Nick Apostolides
+organisations:
+- Demi Williams
+- FGS
+- GameSpot
+- GamesRadar
+- GamesRadar+
+- Gamescom
+- Google News
+- NME
+- TechRadar
+- Twitch
 ---
 
 ![Future Games Show Gamescom logo.](https://cdn.mos.cms.futurecdn.net/QVuTK2d8L4whLjDCKzvXZd.jpg) 

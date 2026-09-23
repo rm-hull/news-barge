@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Islands
+- Stream
+- Tennessee
+- UK
+- US
+people:
+- Becca Monahan
+- Brandon Flowers'
+- Chris Austin
+- Dolly Parton
+- Jacqui Abbott
+- Jolene
+- Kenny Rogers
+- Miley Cyrus
+- Olivia Dean
+- Paul Heaton
+- Rein Me In
+- Sam Fender
+- Victoria Segal
+- pre-Fatboy Slim Norman Cook
+organisations:
+- BBC
+- Beautiful South
+- Diamonds & Rhinestones
+- Hull
+- Jenius
+- LP
+- The Housemartins
+- Times
 ---
 
 ![A split image of Paul Heaton (left) and Dolly Parton](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/e873/live/cfd2cfb0-a2f6-11f1-b109-879e35c24276.jpg)

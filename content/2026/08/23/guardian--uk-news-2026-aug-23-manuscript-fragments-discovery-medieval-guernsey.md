@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- Channel
+- England
+- Europe
+- France
+- Guernsey
+- Normandy
+- UK
+people:
+- Callum Tostevin-Hall
+- David Rundle
+- Edward III
+- Giovanni Boccaccio
+- Griselda
+- Philippe de Mézières
+- Tamara Atkin
+organisations:
+- Centre for Medieval and Early Modern Studies
+- Eventbrite
+- Guardian
+- Island Archives
+- The Decameron
+- University of Kent
+- University of Oxford
 ---
 
 Unprecedented insights into the literary and intellectual life on the island of Guernsey during the middle ages have been revealed through the discovery of 17 medieval manuscript fragments.

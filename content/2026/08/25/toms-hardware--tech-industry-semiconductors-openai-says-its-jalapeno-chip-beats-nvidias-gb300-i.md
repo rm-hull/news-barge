@@ -11,6 +11,40 @@ image: https://cdn.mos.cms.futurecdn.net/3Bym5bRSoc2XYC2CRstQM3-2560-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Jalapeño
+- Ohio
+people:
+- Blackwell
+- Jalapeño
+- Kwak Noh-jung
+- Luke James
+- Richard Ho
+- Tom
+- Vera Rubin
+organisations:
+- AMD
+- Bloomberg
+- Broadcom
+- DeepSeek
+- GB300
+- Get Tom's Hardware
+- Google News
+- HBM
+- HBM3E
+- Hot Chips
+- InferenceX
+- Jalapeño
+- Micron
+- Moonshot AI
+- Nvidia
+- OpenAI
+- Rubin Ultra
+- SK hynix
+- Samsung
+- SemiAnalysis*
+- TDP
+- TSMC
 ---
 
 ![OpenAI Jalapeño](https://cdn.mos.cms.futurecdn.net/3Bym5bRSoc2XYC2CRstQM3.jpg) 

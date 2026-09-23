@@ -13,6 +13,34 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Southampton
+people:
+- :** Albert
+- :** Lyth
+- Anthony McGrath
+- Ben Brown
+- Bess'
+- Dom Bess
+- Eddie Jack
+- Felix Organ
+- Fin Bean
+- George Hill
+- Jafer Chohan
+- Jonny Bairstow
+- Kyle Abbott
+- Neal
+- Toby Albert
+- Tom Prest
+- Wharton
+- Will Luxton
+organisations:
+- Division One
+- ECB Reporters' Network
+- Hampshire
+- Hampshire.
+- Rothesay.
+- Yorkshire
 ---
 
 ![Yorkshire players mob stand-in skipper Dom Bess after a wicket](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/329c/live/556dd430-9f05-11f1-8ab2-7700e58d1417.jpg)

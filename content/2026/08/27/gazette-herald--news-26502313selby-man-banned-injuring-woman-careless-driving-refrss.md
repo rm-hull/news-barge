@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- D’Arcy Road
+- Rudgate
+- Selby
+- York Magistrates Court
+people:
+- Jonathan Haigh
+organisations:
+- B1224
+- Hyundai
+- Newsquest
+- York Magistrates Court
 ---
 
 *(Image: Newsquest)*

@@ -13,6 +13,26 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Acomb
+- Clifton Moor
+- Colliergate
+- Malton
+- North Yorkshire
+- Pocklington
+- Regents Building
+- Selby
+- St Leonard
+- St Leonard’s Hospice
+- York Road
+- designed’ York
+people:
+- Sarah Baldock
+organisations:
+- Donation Centre
+- St Leonard
+- St Leonard's
+- St Leonard’s Hospice
 ---
 
 A POPULAR hospice charity shop - which has served customers in a York suburb for 35 years - is set to reopen after a major refurbishment project.

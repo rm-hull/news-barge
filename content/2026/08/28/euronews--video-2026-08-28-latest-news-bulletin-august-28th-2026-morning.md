@@ -12,6 +12,38 @@ image: https://images.euronews.com/articles/stories/09/89/22/10/1200x675_cmsv2_2
 categories:
 - Europe
 - News & Politics
+locations:
+- Cologne
+- Devighat
+- Europe
+- Gyirong Port
+- Kyiv
+- Morocco
+- Nepal
+- Nicosia
+- Nuwakot
+- Spain
+- The Hague
+- Tokyo
+- Trishuli River
+- Washington.
+- White House
+people:
+- Donald Trump
+- Nikos Christodoulides
+- Ratko Mladic
+- Tufan Erhürman
+- Yayoi Kusama
+organisations:
+- Cyprus'
+- Euronews
+- Garicano
+- IGN
+- National Geographic Institute
+- Oval Office
+- Rhine Group
+- U.N.
+- UN
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

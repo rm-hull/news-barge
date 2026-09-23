@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- China
+- England
+- UK
+- US
+people:
+- Adam Fleming
+- Alex
+- Andy Burnham
+- Chris Gray
+- Hannah Montgomery
+- Jack Maclaren
+- Jem Westgate
+- Laura Bicker
+- Sam Bonham
+- Shiler Mahmoudi
+- Tarah Welsh
+organisations:
+- AI
+- BBC Sounds
+- News and Current Affairs
+- Newscast
+- The Social Housing Podcast
+- WhatsApp
 ---
 
 ## Episode details

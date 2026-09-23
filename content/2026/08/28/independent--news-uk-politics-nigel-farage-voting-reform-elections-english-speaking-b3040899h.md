@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Britain
+- British Isles
+- Denton
+- Peterborough
+- UK
+people:
+- Danny Kruger
+- Gorton
+- Hannah Spencer
+- Nigel Farage
+- Tony Blair
+organisations:
+- Brexit Party
+- Commonwealth
+- Department for Preparing for Government
+- Election Integrity Bill
+- Green Party
+- House of Commons
+- Labour
+- Reform UK
+- UKIP
 ---
 
 Reform UK plans to bring in draconian new laws which could exclude millions from voting and would make it hard for non-English speakers to take part in elections.

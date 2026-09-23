@@ -14,6 +14,18 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Micklow Close
+- Redcar
+- Teesside Magistrates' Court
+people:
+- Cameron George
+- SARAH CALDECOTT
+organisations:
+- A66
+- Cleveland Police
+- Teesside Crown Court
 ---
 
 *(Image: SARAH CALDECOTT)*

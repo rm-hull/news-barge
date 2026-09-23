@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Huntington
+- Kathryn Avenue
+- LNER Community Stadium
+- YO32 9AF
+- YOUR
+- York
+people: []
+organisations:
+- City of York Council
+- Eco Depot
+- Fire Safety and Safety at Places of Sport Act
+- Hazel Court
+- Public Notice Portal
+- YO10 3DS
 ---
 
 *(Image: Newsquest)*

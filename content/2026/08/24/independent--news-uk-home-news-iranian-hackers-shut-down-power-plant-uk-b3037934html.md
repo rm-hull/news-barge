@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Britain
+- China
+- Iran
+- Russia
+- UK
+people:
+- Richard Horne
+organisations:
+- AI
+- Co-op
+- GCHQ
+- Jaguar Land Rover
+- NCSC
+- National Cyber Security Centre
+- PA
+- The Telegraph
 ---
 
 A UK power generator was forced to shut down for four days after an Iranian cyberattack, it has been reported.

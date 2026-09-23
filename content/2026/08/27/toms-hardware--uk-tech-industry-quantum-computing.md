@@ -12,6 +12,21 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Albany
+- Anderon
+- China
+- New York
+people: []
+organisations:
+- CAS Cold Atom Technology
+- Chinese Academy of Sciences
+- Cisco
+- IBM
+- MiTale Ltd.
+- Microsoft
+- Nvidia
+- Quantum Computing
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/CqJ42hzEZ8GuCYZCd3VZjS-320-80.jpg)

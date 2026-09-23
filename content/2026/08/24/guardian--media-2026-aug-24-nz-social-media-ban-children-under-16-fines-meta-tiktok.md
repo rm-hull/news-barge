@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Family & Parenting
 - Society & Culture
+locations:
+- Australia
+- New Zealand
+people:
+- Christopher Luxon
+- Winston Peters
+organisations:
+- Alphabet’s YouTube
+- Facebook
+- Instagram
+- Meta
+- New Zealand First
+- TikTok
 ---
 
 New Zealand prime minister Christopher Luxon has said his party will introduce a bill in parliament that seeks to ban children under 16 from using social media, proposing fines of up to 10% of a platform’s global revenue for non-compliance.

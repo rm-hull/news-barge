@@ -13,6 +13,21 @@ image: https://static.independent.co.uk/2026/08/25/13/Polygamous_Sect_Arizona_Ba
 categories:
 - News & Politics
 - UK
+locations:
+- Arizona
+- Colorado City
+- Flagstaff
+- Hildale
+- Nebraska
+- Texas
+- Utah
+people:
+- Samuel Bateman
+- Warren Jeffs
+organisations:
+- Church of Jesus Christ of Latter-day Saints
+- Fundamentalist Church of Jesus Christ of Latter-day Saints
+- Netflix
 ---
 
 A polygamous sect leader already serving a 50-year federal prison sentence for orchestrating sex involving children is scheduled to be sentenced Tuesday on separate state convictions for hauling girls through a community in northern Arizona in an unventilated trailer.

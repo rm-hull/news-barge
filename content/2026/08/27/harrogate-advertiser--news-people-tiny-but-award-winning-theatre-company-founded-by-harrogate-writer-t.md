@@ -13,6 +13,24 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- North Yorkshire
+- Ripon
+- Wath
+people:
+- Biddy
+- Buff
+- Jez Lowe
+- Kate Bramley
+organisations:
+- Associate Company of York Theatre Royal
+- BBC Radio 4
+- Badapple Theatre
+- Harrogate
+- Land Girls
+- Samwaies Hall
+- Yorkshire
 ---
 
 # Tiny but award-winning theatre company founded by Harrogate writer to revive 'much loved' hit

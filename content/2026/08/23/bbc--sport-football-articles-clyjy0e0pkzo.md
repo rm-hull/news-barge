@@ -14,6 +14,34 @@ categories:
 - Personal Finance & Investing
 - Sports
 - Business & Entrepreneurship
+locations:
+- Al-Qadsiah
+- City
+- England
+- Morocco
+- Nottingham Forest
+people:
+- Ayyoub Bouaddi
+- Ayyoub Bouaddi.
+- Eden Hazard
+- Elliot Anderson
+- Enzo Fernandez
+- Enzo Maresca
+- KI
+- Rodri
+- Tijjani Reinders
+organisations:
+- Arsenal
+- BBC Sport
+- Barcelona
+- Bournemouth
+- Chelsea
+- City
+- Ligue
+- Lille
+- Manchester Cityhave
+- Real Madrid
+- Stade Pierre-Mauroy
 ---
 
 ![Lille midfielder Ayyoub Bouaddi](https://ichef.bbci.co.uk/ace/standard/936/cpsprodpb/0b05/live/65d79880-9eea-11f1-bd7c-915bb85b5513.jpg)

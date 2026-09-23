@@ -13,6 +13,26 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Diocese of York
+- East Yorkshire
+- Hayton
+- Pocklington
+- St Martin
+- St Martin’s Churchyard
+people:
+- Natalie Beard
+organisations:
+- Archdeacon
+- Church of England
+- Diocese of York
+- North Yorkshire Police
+- PCC
+- Parochial Church Council
+- Pocklington Group of Churches
+- Priest-in-Charge
+- St Martin’s Churchyard
+- The Pocklington Group of Churches
 ---
 
 ## East Yorkshire families' anguish after sentimental items removed from graves suddenly

@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Colonialtown South
+- Florida
+- Leesburg
+- Orlando
+- Soto’s
+- St. Cloud
+- U.S.
+people:
+- Cynthia Cox
+- Dan Green
+- Darren Soto
+- Elijah Button
+- Grace
+- Stephanie Garris
+- Tarsha Watson
+- Tracy Rand
+organisations:
+- ACA
+- Congress
+- Grace Medical Home
+- KFF
+- Navy
+- The Associated Press
+- Trump
 ---
 
 Florida chef Elijah Button was chopping onions in June when his knife slipped and sliced his middle finger to the bone.

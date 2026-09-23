@@ -12,6 +12,12 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- York
+people:
+- Anthony Jackson
+organisations:
+- North Yorkshire Police
 ---
 
 Police have issued this picture of a wanted man from York.

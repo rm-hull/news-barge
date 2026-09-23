@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Calderdale
+- Halifax
+- Halifax’s Wainhouse Tower
+people:
+- Andrew Tagg
+- John Edward Wainhouse
+organisations:
+- Calderdale
+- Halifax Civic Trust
+- Wainhouse Tower
 ---
 
 *(Image: Supplied)*

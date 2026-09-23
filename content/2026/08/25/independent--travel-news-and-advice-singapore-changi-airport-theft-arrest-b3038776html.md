@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Brighton Road
+- Crawley
+- Gatwick
+- Jewel Changi
+- Singapore
+people:
+- John Brooks
+organisations:
+- APD
+- Airport Police Division
+- CCTV
+- Singapore Police Force
 ---
 
 A 26-year-old British man has been arrested more than two years after allegedly stealing a denim jacket from a Singapore airport terminal.

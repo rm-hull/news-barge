@@ -10,6 +10,25 @@ description: The move raises some critical policy questions
 image: https://cdn.mos.cms.futurecdn.net/qNRvum8x6AQhGt9NZWWgWB-1280-80.jpg
 categories:
 - Technology & Software
+locations:
+- China
+- US
+people:
+- Christian Cawley
+organisations:
+- Computer Weekly
+- ComputerActive
+- FCC
+- Google News
+- Linux Format
+- Matter Alpha
+- NSS
+- NSSTS
+- National Security Science & Technology Strategy
+- National Security Strategy
+- TechRadar Pro
+- Trump Administration
+- United States’
 ---
 
 ![Data center](https://cdn.mos.cms.futurecdn.net/qNRvum8x6AQhGt9NZWWgWB.jpg) 

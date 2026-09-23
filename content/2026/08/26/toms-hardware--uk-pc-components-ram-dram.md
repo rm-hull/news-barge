@@ -11,6 +11,34 @@ image: https://cdn.mos.cms.futurecdn.net/TaGTq85mNPD8CGfDe72ByP-450-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people: []
+organisations:
+- AMD
+- Anton Shilov
+- Anton Shilov Published
+- DDR5
+- DDR5Gigabyte
+- DRAMCXMT
+- DRAMNvidia
+- DRAMPine64
+- DRAMSK
+- DevicesBy Francisco Pires
+- HBMsBy Jowi Morales
+- Hassam Nasir
+- Jeffrey Kampman Published
+- Jowi Morales
+- Jowi Morales Published
+- Luke James
+- MSI
+- Mark Tyson Published
+- Micron
+- News AnalysisDDR4
+- PremiumMarvell
+- SK
+- Samsung
+- Stephen Warwick
+- Zak Killian
 ---
 
 ## Latest about DRAM

@@ -15,6 +15,14 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Real Estate
+locations:
+- County Durham
+- North East
+- North Road West
+- Wingate
+people: []
+organisations:
+- Auction House
 ---
 
 This boarded-up home is filled with broken furniture, heaps of mail, and needs some serious DIY, but it is one of the best house bargains you will find.

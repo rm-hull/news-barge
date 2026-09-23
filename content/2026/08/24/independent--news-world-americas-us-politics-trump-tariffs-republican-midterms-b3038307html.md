@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Canada
+- Hawkeye State
+- Iowa
+- Iran
+- Maine
+- Nebraska
+- Sen
+- Texas
+- U.S.
+- United States
+- White House
+people:
+- Ashley Hinson
+- Donald Trump
+- JD Vance
+- Mark Carney
+- Scott Bessent
+- Susan Collins
+- Troy Jackson
+organisations:
+- Congress
+- Demoralization Operations
+- GOP
+- House
+- Senate
+- Treasury
+- Trump
 ---
 
 President Donald Trump took time Monday to threaten a 50 percent tariff on cars and auto parts produced in Canada - and give members of his own party yet another controversial decision to defend on the campaign trail.

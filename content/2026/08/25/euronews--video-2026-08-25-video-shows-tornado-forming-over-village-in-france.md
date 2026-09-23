@@ -12,6 +12,13 @@ categories:
 - Europe
 - News & Politics
 - Film & TV
+locations:
+- Aude
+- France
+- Pomas
+- Verzeille
+people: []
+organisations: []
 ---
 
 A tornado filmed from Verzeille, near Pomas in southern France, swept through the area on Monday.

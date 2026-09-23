@@ -12,6 +12,30 @@ image: https://media.wired.com/photos/6a8929628708f4555b819a56/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- USB-C
+people:
+- Matthew S. Smith
+- Matthew S. Smith I
+organisations:
+- AMD FreeSync Premium Pro
+- Acer Predator X27 X1
+- AdobeRGB
+- Alienware AW2725Q
+- Asus ROG Swift OLED PG27UCWM
+- HDR
+- IEEE Spectrum
+- MSI
+- Matthew S. Smith The PG27UCWM
+- Nvidia G-Sync
+- PC World
+- RGB Stripe
+- Samsung
+- Super Glossy
+- USB-A
+- USB-C
+- VESA Adaptive Sync
+- WIRED
 ---
 
 The Asus PG27UCWM brings a new sub-pixel layout to the world of OLED gaming monitors, and in my testing, I appreciated the improvements it brings to the table.

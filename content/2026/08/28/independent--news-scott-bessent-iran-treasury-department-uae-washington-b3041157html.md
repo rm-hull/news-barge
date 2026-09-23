@@ -15,6 +15,29 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- China
+- Dubai
+- Egypt
+- India
+- Iran
+- Islamic Republic
+- New York
+- Tehran
+- U.S.
+- United Arab Emirates
+- United States
+people:
+- Scott Bessent
+- ___ Amiri
+organisations:
+- Bank Melli
+- Banque Misr
+- Banque Misr UAE
+- Bessent
+- Office of Foreign Assets Control
+- Treasury Department
+- Trump
 ---
 
 The Trump administration is taking steps to limit an Egyptian bank's operations in the United Arab Emirates, accusing the financial institution of serving as an economic lifeline to Tehran's leadership as the U.S. war against Iran reaches the six-month mark.

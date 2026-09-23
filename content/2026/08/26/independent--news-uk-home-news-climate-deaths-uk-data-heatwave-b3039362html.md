@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- England
+- London
+- South East
+- UK
+- Wales
+people: []
+organisations:
+- Met Office
+- ONS
+- Office for National Statistics
 ---
 
 More than 40,000 people died of climate-related causes over the 38 years between 1988 and 2025 in England and Wales, according to new estimates by experts.

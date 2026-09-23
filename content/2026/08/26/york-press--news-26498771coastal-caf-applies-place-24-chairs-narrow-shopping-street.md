@@ -12,6 +12,26 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Bridlington
+- Huntriss Row
+- Koko Coffee
+- LDRS.
+- North Yorkshire
+- Scarborough
+- St Nicholas Street
+- YO11 2HG
+people:
+- Koko Coffee
+- Numminen
+- Russell Bowerman
+organisations:
+- Koko Coffee
+- LDRS A NEW
+- North Yorkshire Council
+- North Yorkshire Council, Licensing Services
+- Numminen
+- Town Hall
 ---
 
 ## Café applies to place 24 chairs on narrow shopping street

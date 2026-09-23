@@ -13,6 +13,12 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations: []
+people:
+- Andy Burnham
+organisations:
+- Labour
+- The Herald
 ---
 
 Who will tell Andy Burnham is he is no longer a metro mayor? asks our lead letter writer. (Image: PA)

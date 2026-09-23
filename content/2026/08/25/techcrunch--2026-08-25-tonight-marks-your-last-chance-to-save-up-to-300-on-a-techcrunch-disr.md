@@ -13,6 +13,26 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/Save-Up-to-300-Horizont
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Moscone West
+- San Francisco
+people:
+- COO Rose Wang You
+- RJ Scaringe
+- Toni Schneider
+organisations:
+- AI
+- Alexa and Leo
+- Amazon SVP of Devices
+- Bluesky
+- Builders Stages
+- Databricks
+- Disrupt
+- Exhibit Hall
+- OpenAI
+- Panos Panay
+- Rivian
+- VCs
 ---
 
 We heard the feedback, and we’ve extended the window for the lowest prices for TechCrunch Disrupt 2026 a bit further, with the current prices now ending at 11:59 pm PT Tuesday, August 25. Once that window closes, your chance to save up to $300 on your pass, or get an even larger discount on group pricing, will come to an end.

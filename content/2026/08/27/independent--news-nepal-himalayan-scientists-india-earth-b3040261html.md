@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Antarctica
+- Austria
+- Bangladesh
+- Bhote Koshi River
+- Earth
+- Giza
+- Greenland
+- Himalaya
+- Himalayas
+- Hindu Kush
+- Langtang
+- Lhende Khola
+- Nepal
+people:
+- Jakob Steiner
+- Saswat Sanyal
+organisations:
+- AP
+- Arasu
+- Associated Press’
+- International Centre for Integrated Mountain Development
+- U.S. Geological Survey
+- United Nations
+- University of Graz
 ---
 
 The deadly flash flood in Nepal on Wednesday was likely caused by a huge chunk of a glacier that broke off and temporarily dammed a river, according to preliminary investigations by scientists. That may have led to the backed-up water surging downstream with enormous force a few hours later, they suggested.

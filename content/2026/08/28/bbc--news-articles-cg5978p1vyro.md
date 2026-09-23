@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Langsett Road
+- Sheffield
+people:
+- Chris Ashmore
+- Dan Kirkland
+- Frank Short
+- Gillian Jones
+- Glen Bridock
+- Michael Jackson
+- Ronnie O'Sullivan
+- Shaun Spalding
+organisations:
+- Spot On
+- Spot On Snooker Club
 ---
 
 ![A large painted wall showing a snooker player dressed in black about to take a shot on the table](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/1594/live/6fc84100-a20f-11f1-9090-b51af3a01fc2.jpg)

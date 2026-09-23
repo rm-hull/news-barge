@@ -14,6 +14,26 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Mount Pleasant
+- Wisconsin
+people:
+- Anton Shilov
+- Colette Kress
+- Tom
+- Vera Rubin
+organisations:
+- BlueField
+- DPUs
+- Get Tom's Hardware
+- Google News
+- Microsoft
+- Nvidia
+- Rubin GPUs
+- Satya Nadella
+- Tom’s Hardware
+- Vera CPUs
+- Vera Rubin
 ---
 
 ![Nvidia](https://cdn.mos.cms.futurecdn.net/iaLn9eep6ryDrWj6V9zkb9.jpg) 

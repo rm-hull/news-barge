@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Birmingham Airport
+- Britain
+- California
+- Cotswolds
+- Duchess of Sussex
+- Duke
+- Highgrove
+- London
+- Sandringham
+- UK
+- US
+people:
+- '## Archie'
+- Elizabeth II
+- Guy Ritchie
+- Harry
+- King
+- Lilibet
+- Lucy Powell
+- Meghan Markle
+- Megxit
+organisations:
+- 'Andy Burnham ## Home Office'
+- BBC
+- Duchess of Sussex
+- Home Office
+- Netflix
+- Sussexes
+- The Independent
+- The Telegraph
+- UK Government
 ---
 
 The Duke and Duchess of Sussex have reportedly landed in the UK after it was announced they were moving their family from California back to Britain.

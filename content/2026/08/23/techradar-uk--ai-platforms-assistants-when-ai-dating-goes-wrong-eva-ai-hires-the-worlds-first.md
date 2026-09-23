@@ -13,6 +13,39 @@ description: 'The great AI dating debate: is ''practicing'' on AI chatbots causi
 image: https://cdn.mos.cms.futurecdn.net/3rwXHtw8e6pX48cWU6GB3X-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- China
+- England
+- Japan
+- New York
+- OpenAI
+- Shibuya
+- Tokyo
+- UK
+- US
+people:
+- AI
+- Becky Scarrott
+- God
+- Jaime Bronstein
+- Jealousy
+- Joseph Weizenbaum
+- Kazuki Nishijima
+- TechRadar
+organisations:
+- Becky
+- ChatGPT
+- EVA AI
+- Google News
+- Happy Mail
+- LLMs
+- MIT
+- Match.com
+- MeetMeetNow
+- Nishijima
+- TechRadar
+- Wakuwaku Mail
+- Yahoo Finance
 ---
 
 ![A split screen showing phone screens of AI characters for dating, from EVA AI on the left, and real people meeting up in a busy park using the dating app MeetMeetNow on the right](https://cdn.mos.cms.futurecdn.net/3rwXHtw8e6pX48cWU6GB3X.jpg) 

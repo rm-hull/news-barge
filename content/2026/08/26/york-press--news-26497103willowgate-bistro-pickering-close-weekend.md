@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- North Yorkshire
+- Pickering
+- Ryedale
+- Willowgate
+- Woodthorpe
+people:
+- Gemma Bird
+- Matt Bird
+- Matthew Bird
+- Sorry
+- Willowgate
+organisations:
+- Black Wheat Club
+- Google
+- LOCALiQ
+- Pic
+- Sloppy's
+- TT Burgers
+- The Willowgate Bistro
+- Tripadvisor
+- Willowgate Bistro
+- York College
 ---
 
 ## Couple to close much-loved North Yorkshire restaurant after 13 happy years

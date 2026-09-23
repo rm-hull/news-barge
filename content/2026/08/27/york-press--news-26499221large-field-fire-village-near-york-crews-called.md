@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Acomb
+- Harrogate
+- Hessay
+- Low Moor Lane
+- York
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Supplied)*

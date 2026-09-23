@@ -14,6 +14,25 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- A66
+- CLEVELAND
+- Cleveland
+- Middlesbrough
+- NORTH Yorkshire
+- South Bank
+- York
+people:
+- Dad
+- Matt
+- Matthew Blades
+- Stuart Boulton
+- Tom Clough
+- Tony Barnes
+organisations:
+- A66
+- North Yorkshire Police
+- North Yorkshire Police Federation
 ---
 
 ## 'We will stand alongside them' - North Yorkshire Police pay tribute after A66 crash

@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Technology & Software
 - Home, Garden & DIY
+locations:
+- County Durham
+- JTLH
+- Maple Close
+- North East
+- Parsons House
+- Storybook’ County Durham
+- Sunderland
+- Thornley
+- UK
+people:
+- Jan Telensky
+- Walter
+organisations:
+- JT Lifestyle Homes
+- JTHL
+- JTLH
+- Land Registry
+- WLTR
 ---
 
 A North East construction company has introduced robots to help build homes due to a 'severe shortage of bricklayers'.

@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Darlington
+- James Cook
+- North East
+- The James Cook University Hospital
+- UK
+people:
+- Louise Campbell
+organisations:
+- East Durham College
+- Social Mobility Foundation
+- South Tees Hospitals NHS Foundation Trust
 ---
 
 *(Image: Supplied)*

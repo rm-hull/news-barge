@@ -13,6 +13,24 @@ categories:
 - Local
 - Harrogate
 - Food & Cooking
+locations:
+- Britain
+- Fodder Café
+- Great Yorkshire Showground
+- Harrogate
+- Main Ring
+- UK
+people:
+- Fodder
+- Leesa Collinge
+- Romi Foxx
+- Vanessa Pitt
+organisations:
+- Coffee Brothers
+- Fodder Manager
+- Harrogate Rant & Ramble Coffee Rave
+- Rant & Ramble
+- Rant & Ramble Coffee Raves
 ---
 
 # Popular Harrogate cafe to host Rant & Ramble Coffee Rave for a morning filled with music, movement and connection

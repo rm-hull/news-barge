@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bowburn
+- Bradbury
+- County Durham
+- Durham Flaws
+- Hexham
+- Leazes Crescent
+- M
+- North East
+- Peterlee Magistrates' Court
+people:
+- Driver
+- Robert Justin Flaws
+organisations:
+- A1
+- Jeep
+- Nissan
+- PA MEDIA
 ---
 
 *(Image: PA MEDIA)*

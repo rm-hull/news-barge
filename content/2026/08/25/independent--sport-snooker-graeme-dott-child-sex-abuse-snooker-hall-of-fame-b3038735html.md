@@ -13,6 +13,24 @@ categories:
 - UK
 - Family & Parenting
 - Society & Culture
+locations:
+- Australia
+- Crucible
+- Glasgow
+people:
+- '![Dott'
+- Graeme Dott
+- Neil Robertson
+- Ronnie O’Sullivan
+- Scot
+organisations:
+- High Court
+- WPBSA
+- WST
+- World Professional Billiards and Snooker Association
+- World Snooker
+- World Snooker Tour Hall of Fame
+- World Snooker’s Hall of Fame
 ---
 
 Former champion Graeme Dott has been removed from World Snooker’s Hall of Fame after being convicted of sexually abusing two primary school age children.

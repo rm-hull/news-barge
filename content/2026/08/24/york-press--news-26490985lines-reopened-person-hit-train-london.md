@@ -13,6 +13,19 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Alexandra Palace
+- London
+- New Southgate Railway Station
+- Welwyn Garden City
+- York
+people:
+- Chris Radburn
+organisations:
+- British Transport Police
+- Hull Trains
+- LNER
+- National Rail
 ---
 
 *(Image: Chris Radburn/PA)*

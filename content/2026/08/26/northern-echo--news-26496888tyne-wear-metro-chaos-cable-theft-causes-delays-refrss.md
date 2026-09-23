@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Heworth
+- North East
+- Pelaw
+- South Shields
+- Yellow Line
+people: []
+organisations:
+- Metro Pop
+- Nexus
+- Tyne and Wear Metro
 ---
 
 Another cable theft has brought Metro services to a halt, causing major disruption for passengers today.

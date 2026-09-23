@@ -13,6 +13,17 @@ categories:
 - UK
 - Health & Fitness
 - Science
+locations:
+- Guernsey
+- Princess Elizabeth Hospital
+people:
+- Ali Shokouh-Amiri
+- Justice Morris
+organisations:
+- GMC
+- General Medical Council
+- High Court
+- Medical Practitioners Tribunal
 ---
 
 A gynaecologist who admitted removing two women’s ovaries without consent is set to face a fresh hearing over whether he is fit to practise after a High Court challenge.

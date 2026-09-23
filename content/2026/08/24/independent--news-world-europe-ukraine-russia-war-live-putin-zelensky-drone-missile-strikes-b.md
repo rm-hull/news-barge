@@ -12,6 +12,61 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Belgorod
+- Berlin
+- Black Sea
+- Britain
+- Dagestan
+- Donbas
+- Downing Street
+- Europe
+- France
+- Germany
+- Iran
+- Kharkiv
+- Kremlin
+- Kyiv
+- Makhachkala
+- Moscow
+- Russia
+- Samara
+- St Michael's
+- UK
+- US
+- Ukraine
+- Ukraine’
+- United Kingdom
+- Washington
+people:
+- Andrii Sybiha
+- Andy Burnham
+- Jared Kushner
+- Johann Wadephul
+- Luke Pollard
+- Marco Rubio
+- Mykhailo Fedorov
+- Oleh Syniehubov
+- Ozon
+- Robert Brovdi
+- Sergei Ryabkov
+- Steve Witkoff
+- Ursula von der Leyen
+- Volodymyr Zelensky
+- Zalensky
+organisations:
+- AFK Sistema
+- Deutschlandfunk
+- EU
+- European Commission
+- Kyiv
+- MBDA
+- Moscow Exchange
+- Ozon
+- SCALP
+- Sky News
+- Telegram
+- Wildberries
 ---
 
 Andy Burnham has arrived in Kyiv to honour Ukraine’s Independence Day, just hours after at least three people were killed in a Russian attack on the outskirts of Kharkiv.

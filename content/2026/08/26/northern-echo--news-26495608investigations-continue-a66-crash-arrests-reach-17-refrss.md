@@ -13,6 +13,42 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Acklam
+- CLEVELAND
+- Foxrush Court
+- Micklow Close
+- Middlesbrough
+- Redcar
+- South Bank
+- Teesside Coroners’ Court
+- Teesside Crown Court
+people:
+- Cameron George
+- Cole Robert Worthy
+- Cole Worthy
+- Jacob Matusiak
+- Kai Beattie
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Pc Blades
+- Pc Blades’
+- Pc Clough
+- SARAH CALDECOTT
+- Theo Rae
+- Tom Clough
+- Wayne Fox
+organisations:
+- Civil Nuclear Constabulary
+- Cleveland Police
+- Cleveland Police Federation
+- Independent Office for Police Conduct
+- National Crime Agency
+- North East Regional Organised Crime Unit
+- Teesside Magistrates’ Court
+- Volvo
 ---
 
 Police investigations are continuing into the events surrounding Saturday’s deadly A66 crash after five more arrests were made on Tuesday.

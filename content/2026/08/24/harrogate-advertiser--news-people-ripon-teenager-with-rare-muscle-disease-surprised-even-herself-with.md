@@ -14,6 +14,17 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Kirkby Malzeard
+- Ripon
+people:
+- Ellie Renton
+- Ripon
+- William
+organisations:
+- Middlesbrough
+- RGS
+- Ripon Grammar School
 ---
 
 # Ripon teenager with rare muscle disease 'surprised even herself' with success at football and exams

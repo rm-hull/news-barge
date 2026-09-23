@@ -13,6 +13,46 @@ categories:
 - UK
 - Arts & Culture
 - Music
+locations:
+- American South
+- Australia
+- Black
+- Canada
+- Cleveland
+- Columbus
+- Great Smoky Mountains
+- Ireland
+- Kentucky
+- Nashville
+- Ohio
+- Sevier County
+- Tennessee
+- United Kingdom
+- United States
+people:
+- Dolly Parton
+- Fran DeWine
+- Helene
+- Jolene
+- Julie Carr Smyth
+- Louise Richardson
+- Stacia West
+organisations:
+- AP
+- Andrew Carnegie Foundation
+- Center for Guaranteed Income Research
+- Dolly Parton Children's Hospital
+- Dollywood Foundation
+- Imagination Library
+- Library of Congress
+- Lilly Endowment Inc
+- Moderna
+- The Conversation US
+- The My People Fund
+- University of Pennsylvania
+- University of Tennessee
+- Vanderbilt University
+- ___ Gamboa
 ---
 
 Just weeks after Hurricane Helene devastated the American South in 2024, Dolly Parton stood on a stage in her iconic blonde wig, with a song on her lips. She promised the flood-ravaged community in her native Tennessee — to the tune of her classic song “Jolene” — that “we're all here to mend these broken hearts.”

@@ -12,6 +12,16 @@ categories:
 - Technology & Software
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- UK
+- US
+people:
+- Carrie Marshall
+organisations:
+- CrushBoss
+- Google News
+- Ninja CrushBOSS
+- Unquiet Mind
 ---
 
 ![Split image of Ninja CrushBOSS food processor, blender jug, and smoothie maker](https://cdn.mos.cms.futurecdn.net/MT5kLuzdekxiQhUMBzb8uX.jpg) 

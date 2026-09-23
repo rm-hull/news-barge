@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Birmingham Moor Street
+- Cambridge
+- Cardiff
+- Cheltenham
+- Edinburgh
+- Glasgow
+- Great Britain
+- Leicester
+- Manchester
+- Newcastle
+- Oxford
+- Peterborough
+- Stansted Airport
+people:
+- Heidi Alexander
+organisations:
+- Chiltern Railways
+- CrossCountry
+- LNER
+- Network Rail
+- Press Association
+- Transport Focus
 ---
 
 CrossCountry cancelled almost all of its train services in Great Britain on Sunday after a power cut in Birmingham hit its control centre.

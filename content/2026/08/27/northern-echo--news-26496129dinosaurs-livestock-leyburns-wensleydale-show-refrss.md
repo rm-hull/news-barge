@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Farming’
+- Leyburn
+- North Yorkshire
+- Wensleydale Railway
+- Yorkshire Dales Wensleydale Railway
+people:
+- James Hudson
+organisations:
+- Autism Support Allies
+- Little White Bus
+- Wensleydale Show
+- Young Farmers
 ---
 
 *(Image: Supplied)*

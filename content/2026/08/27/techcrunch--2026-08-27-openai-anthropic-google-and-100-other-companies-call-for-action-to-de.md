@@ -13,6 +13,18 @@ image: https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- AI
+- Anthropic
+- CrowdStrike
+- Fortinet
+- Google
+- Meta
+- Microsoft —
+- Okta
+- OpenAI
 ---
 
 Over a hundred tech companies — including OpenAI, Anthropic, Google, and Microsoft — have signed an open letter urging both the private and public sectors to work together to defend themselves from AI-related cyber threats.

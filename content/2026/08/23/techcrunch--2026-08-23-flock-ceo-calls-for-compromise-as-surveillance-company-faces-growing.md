@@ -12,6 +12,28 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?r
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Flock
+- Michigan
+- Vermont
+people:
+- Abdul El-Sayed
+- Bernie Sanders
+- Flock
+- Garrett Langley
+- Mike Rogers
+organisations:
+- ACLU
+- American CIvil Liberties Union
+- CBS News
+- Evidence Mode’
+- Flock Safety
+- Fox News
+- House
+- Langley
+- Senate
+- TechCrunch
+- The Washington Post
 ---
 
 The country needs to find a “compromise” between privacy and safety, according to Flock Safety CEO Garrett Langley.

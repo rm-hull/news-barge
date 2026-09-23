@@ -10,6 +10,24 @@ image: https://static.independent.co.uk/2026/08/26/14/download.-2.?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Earth
+- United States
+- White House
+people:
+- Avi Loeb
+- Steve Desch
+- Trump
+organisations:
+- AlterNet
+- Arizona State University
+- Harvard University
+- Pentagon
+- Science Advisory Council
+- The Associated Press
+- Trump
+- UAP
+- Unidentified Anomalous Phenomena
 ---
 
 President Trump has made a point of releasing UFO-related materials to the public, but if little green men ever visit Earth they’re unlikely to care much about our politics or who is in the White House, according to one of the president’s advisors on UFOs.

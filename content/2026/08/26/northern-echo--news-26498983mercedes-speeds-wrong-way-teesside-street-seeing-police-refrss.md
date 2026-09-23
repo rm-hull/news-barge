@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- High Street
+- North East
+- Teesside
+- Thornaby High Street
+people: []
+organisations:
+- Cleveland Police
+- Darlington M&S Food Hall Young
+- Mercedes
+- Police Federation
 ---
 
 *(Image: POLICE)*

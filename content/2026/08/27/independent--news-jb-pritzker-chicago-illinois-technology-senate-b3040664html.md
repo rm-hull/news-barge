@@ -11,6 +11,24 @@ image: https://static.independent.co.uk/2026/08/27/21/Electric_Bikes_Regulations
 categories:
 - News & Politics
 - UK
+locations:
+- Chicago
+- Crystal Lake
+- D-Chicago
+- Irving Park Road
+- South Side
+- Western Avenue
+people:
+- Alexi Giannoulias’
+- Brad Cole
+- Giannoulias
+- JB Pritzker
+- Ram Villivalam
+organisations:
+- Capitol News Illinois
+- Illinois Municipal League
+- The Associated Press
+- Wauconda High School
 ---
 
 New rules governing who can use electric bikes and scooters, including where and how fast they go, will go into effect next year following Gov. JB Pritzker’s signature on Wednesday.

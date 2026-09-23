@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Hollywood
+- King Kong
+- Los Angeles
+- US
+people:
+- '## Brother'
+- Arnold Schwarzenegger
+- Eeyore
+- KARR
+- KITT
+- Knight Rider
+- Optimus Prime
+- Peter Cullen
+organisations:
+- Alvin & the Chipmunks
+- Canadian TV
+- Donkey Kong
+- Duck Tales
+- Dungeons & Dragons
+- Gummi Bears
+- Monterey Jack
+- My Little Pony
+- Optimus Prime
+- Optimus Prime in Transformers
+- Spider-Man
+- Transformers TV
 ---
 
 ![Peter Cullen standing and smiling in front of a Transformers logo backdrop](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/9529/live/82879e30-a22d-11f1-bd54-531a21306a62.jpg)

@@ -11,6 +11,14 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- North Yorkshire
+- York
+people:
+- Christopher Norton
+- Selby
+organisations:
+- North Yorkshire Police
 ---
 
 Have you seen this man?

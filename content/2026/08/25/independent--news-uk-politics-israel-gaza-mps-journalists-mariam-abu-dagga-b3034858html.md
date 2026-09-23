@@ -14,6 +14,49 @@ categories:
 - UK
 - True Crime
 - History
+locations:
+- Britain
+- Downing Street
+- Gaza
+- Independent Arabia
+- Israel
+- Khan Younis
+- Lebanon
+- Middle East
+- Nasser Medical Complex
+- Palestine
+- UK
+- West Bank
+people:
+- Baroness Helena Kennedy KC
+- Benjamin Netanyahu
+- Ed Miliband
+- Hussam al-Masri
+- Kevin Jon Heller
+- Layla Moran
+- Mariam Abu Dagga
+- Rachael Maskell
+- Sarah Champion
+- Wes Streeting
+organisations:
+- Centre for Military Studies
+- General Staff Fact-Finding and Assessment Mechanism
+- Geneva Convention
+- Golani Brigade
+- Hamas
+- High Level Legal Panel
+- ICC
+- IDF
+- Independent Arabia
+- International Court of Justice
+- International Criminal Court
+- International Development Committee
+- Labour
+- Liberal Democrat
+- Media Freedom Coalition
+- Reuters
+- The Independent
+- University of Copenhagen
 ---
 
 MPs have urged the government to “take the strongest measures” against Israel in the wake of an investigation by *The Independent* into the killing of journalists, first responders and medics in a “double-tap” attack on one of the last functioning hospitals in Gaza. 

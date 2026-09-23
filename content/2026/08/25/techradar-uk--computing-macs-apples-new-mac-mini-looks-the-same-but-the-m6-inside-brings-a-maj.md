@@ -10,6 +10,33 @@ description: And the Mac Studio gets even speedier with M5 Max and M5 Ultra
 image: https://cdn.mos.cms.futurecdn.net/kjA6jxhGVVxpYqX6qsvtKa-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- M6
+- US
+people:
+- Bruce Springsteen
+- Jacob Krol
+organisations:
+- Apple Intelligence
+- CNBC
+- CNET
+- CNN Underscored
+- Disney
+- GPU
+- Google News
+- Jacob Krol
+- M5 Ultra
+- M6
+- Mac Studio
+- Mac Studios
+- Marvel
+- Mashable
+- Men’s Journal
+- News for TechRadar
+- RAM
+- SSDs
+- Samsung
+- TheStreet
 ---
 
 ![Apple Mac mini with M6, 2026](https://cdn.mos.cms.futurecdn.net/kjA6jxhGVVxpYqX6qsvtKa.jpg) 

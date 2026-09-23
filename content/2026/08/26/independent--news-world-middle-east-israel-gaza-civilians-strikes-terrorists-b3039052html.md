@@ -13,6 +13,30 @@ image: https://static.independent.co.uk/2026/08/20/12/19/5772498-library.jpeg?tr
 categories:
 - News & Politics
 - UK
+locations:
+- Egypt
+- Gaza
+- Israel
+- Nasser Hospital
+people:
+- Hussam al-Masri
+- Mariam Abu Dagga
+- Nadav Weiman
+- Nasser
+organisations:
+- Breaking the Silence
+- CPJ
+- Committee to Project Journalists
+- General Staff Fact-Finding and Assessment Mechanism
+- Ghad TV
+- Golani Brigade
+- Hamas
+- IDF
+- Independent Arabia
+- Reuters
+- Southern Command
+- The Independent
+- UN
 ---
 
 The Israeli military uses a de facto policy of “retrospective incrimination" for high-profile attacks that kill a large number of civilians without a clear military objective in Gaza, including deliberately counting Palestinians as “terrorists” even when unarmed, a soldier has revealed.

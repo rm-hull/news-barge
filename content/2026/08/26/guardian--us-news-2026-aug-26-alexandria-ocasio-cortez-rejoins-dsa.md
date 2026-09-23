@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- City & State New York
+- Florida
+- Israel
+- Missouri
+- New York
+- New York City
+- Palestine
+people:
+- Alexandria Ocasio-Cortez
+- Cori Bush
+- Jonathan Karl
+organisations:
+- ABC
+- AOC
+- City & State New York
+- Congress
+- CoriBush
+- Democratic Socialists of America
+- Guardian
+- House
+- International Holocaust Remembrance Alliance
+- Jewish Council for Public Affairs
+- NYC-DSA
+- New York City DSA
+- Ocasio-Cortez
+- Presidential Primary
 ---
 
 Alexandria Ocasio-Cortez has rejoined the Democratic Socialists of America after not renewing her membership for seven years, amid speculation that she might run for president in 2028.

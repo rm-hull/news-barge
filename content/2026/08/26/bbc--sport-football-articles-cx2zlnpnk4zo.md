@@ -12,6 +12,43 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Etihad
+- Europe
+- Manchester City
+- Nottingham Forest
+- St James' Park
+people:
+- Aladji Bamba
+- Amar Dedic
+- Anthony Gordon
+- Ayyoub Bouaddi
+- Bazoumana Toure
+- Bernardo Silva
+- Bruno Guimaraes
+- Elliot Anderson
+- Enzo Maresca
+- Ewen Jaouen
+- Kieran Trippier
+- Lukas Hornicek
+- Matthias Jaissle
+- Nico Gonzalez
+- Nico Gonzalez.
+- Rodri
+- Sandro Tonali
+- Sean Steur
+- Tijjani Reijnders
+organisations:
+- Arsenal
+- BBC Sport
+- Bournemouth
+- Guimaraes
+- Lille
+- Liverpool
+- Manchester City
+- Newcastle Unitedhave
+- Porto
+- Premier League
 ---
 
 ![Nico Gonzalez in action for Manchester City](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8de4/live/0483cd70-a123-11f1-92eb-a9b3bbcf6f4a.jpg)

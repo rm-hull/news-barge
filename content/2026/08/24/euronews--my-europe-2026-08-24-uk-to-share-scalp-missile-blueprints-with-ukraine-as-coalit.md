@@ -14,6 +14,28 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Britain
+- France
+- Kyiv
+- Paris
+- Russia
+- Storm Shadow
+- UK
+- US
+- Ukraine
+- Washington
+people:
+- Donald Trump
+- Luke Pollard
+- Matthew Whitaker
+organisations:
+- Anti-Ballistic Missile Coalition
+- Coalition of the Willing
+- Defence Readiness and Industry
+- Kyiv
+- NATO
+- SCALP
 ---
 
 ## Britain will share technical information on the SCALP cruise missile with Ukraine, bringing Kyiv closer to producing the long-range strike weapon at home. Ukraine is still seeking US approval to manufacture Patriot interceptors.

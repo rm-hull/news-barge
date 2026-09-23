@@ -14,6 +14,28 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- America
+- Biddeford
+- Brewer
+- Canada
+- Maine
+- Ontario
+- U.S.
+- US
+people:
+- Donald Trump
+- Doug Ford
+- Freudian
+- JD Vance
+- Mark Carney
+- Paul LePage
+- Pierre Poilievre
+- Usha
+organisations:
+- House
+- ICE
+- VP
 ---
 
 Vice President JD Vance made an embarrassing “Freudian slip” when he described Canada as a “state,” rather than a country, as the tariff war between the two neighbors heats up.

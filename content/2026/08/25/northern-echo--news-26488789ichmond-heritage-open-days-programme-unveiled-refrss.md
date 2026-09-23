@@ -14,6 +14,43 @@ categories:
 - News & Politics
 - Travel
 - Arts & Culture
+locations:
+- Aske Hall
+- Britain
+- Easby Abbey
+- Foxglove Covert Nature Reserve
+- Holy Trinity Chapel
+- Kiplin Hall
+- North York Moors
+- North Yorkshire
+- North Yorkshire Moors Railway
+- Richmond Castle
+- Richmond Racecourse
+- St Mary’s
+- Wonderland
+people:
+- Alf Common
+- Alice’s Adventures
+- Anna Bridgeman
+- Chris Lloyd
+- Colin Grant
+- Croft
+- Helen Guy
+- Ian Woods
+- John Weller
+- Lewis Carroll
+- Maggie-Jo Chapman
+- Phoebe Bradley
+- Rhoda Fraser
+- Robert Henry Murray
+organisations:
+- Green Howards Museum
+- Non-Combatant Corps
+- Richmond Castle
+- Richmond and District Civic Society
+- Richmondshire Museum
+- The Georgian Theatre Royal
+- Victorian Policeman
 ---
 
 *(Image: Supplied)*

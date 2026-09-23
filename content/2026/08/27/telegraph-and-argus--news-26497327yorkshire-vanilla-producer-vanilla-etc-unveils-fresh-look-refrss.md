@@ -14,6 +14,20 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Keighley
+- UK
+- West Yorkshire
+people:
+- Alex
+- Graham Bruce
+- Ms Madgett
+- Natalie Madgett
+organisations:
+- BRCGS AA Food
+- FAMILY-RUN
+- Vanilla Etc
+- Yorkshire
 ---
 
 A FAMILY-RUN vanilla manufacturer has unveiled a new brand identity as it enters a fresh phase of growth.

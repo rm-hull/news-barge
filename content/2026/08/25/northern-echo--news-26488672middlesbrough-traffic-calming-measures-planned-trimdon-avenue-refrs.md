@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Cassop Grove
+- Centre Square
+- Earlsdon Avenue
+- Elwick Avenue
+- Middlesbrough
+- North East
+- TS1 2AY
+- Trimdon Avenue
+- YOUR
+people: []
+organisations:
+- Central Library
+- Middlesbrough Council
+- Public Notice Portal
+- The Northern Echo
 ---
 
 *(Image: Supplied)*

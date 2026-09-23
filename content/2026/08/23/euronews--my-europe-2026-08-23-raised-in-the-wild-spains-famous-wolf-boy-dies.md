@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - Travel
 - History
+locations:
+- Andalusia
+- Añora
+- Born
+- Germany
+- Jaén
+- Madrid
+- Mallorca
+- Ourense
+- Rante
+- San Cibrao das Viñas
+- Spain
+people:
+- '## Marcos Rodríguez Pantoja'
+- Gabriel Janer Manila
+- Marcos Rodríguez Pantoja
+- Rante
+organisations:
+- Faculty of Philosophy
+- Guardia Civil
+- Informe Semanal
+- TVE
+- University of Palma de Mallorca
 ---
 
 ## Marcos Rodríguez Pantoja, from Andalusia, died at 80 in Rante, a hamlet of San Cibrao das Viñas in Ourense, north-west Spain. He had lived there since 2001 and seemed to have finally found a home.

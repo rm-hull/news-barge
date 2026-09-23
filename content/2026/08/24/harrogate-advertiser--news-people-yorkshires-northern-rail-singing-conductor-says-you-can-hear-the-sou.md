@@ -13,6 +13,21 @@ categories:
 - Local
 - Harrogate
 - Music
+locations:
+- Grade II
+- Knaresborough
+- Northern
+people:
+- Bob Dylan
+- Charles
+- Paul Mirfin
+organisations:
+- BBC TV
+- Harrogate
+- Northern
+- Paul Mirfin Band
+- Royal Hall
+- Yorkshire
 ---
 
 # Yorkshire's Northern rail 'singing conductor' says 'you can hear the sound of Knaresborough railway station' in new recordings

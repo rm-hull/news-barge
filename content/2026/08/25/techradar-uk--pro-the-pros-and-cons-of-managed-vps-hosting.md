@@ -9,6 +9,26 @@ description: Weighing control against convenience when choosing VPS hosting
 image: https://cdn.mos.cms.futurecdn.net/kuojQtPGFyBij7yr4xp27o-1376-80.jpg
 categories:
 - Technology & Software
+locations:
+- India
+- West Bengal
+people:
+- Ritoban Mukherjee
+organisations:
+- AI
+- CCPA
+- Creative Bloq
+- GDPR
+- GLBA
+- Gizmodo
+- HIPAA
+- IT Pro
+- Quartz
+- Ritoban Mukherjee
+- SLA
+- TechRadar Pro
+- Tom's Guide
+- VPS
 ---
 
 ![Someone setting up a VPS via their laptop in a minimalist office](https://cdn.mos.cms.futurecdn.net/kuojQtPGFyBij7yr4xp27o.jpg) 

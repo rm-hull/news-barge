@@ -13,6 +13,45 @@ categories:
 - Technology & Software
 - Science
 - News & Politics
+locations:
+- AI
+- DC
+- Michigan
+- Nebraska
+- Pennsylvania
+- Tennessee
+- Texas
+- US
+- Vermont
+- Washington
+- White House
+people:
+- Alexander McCoy
+- Bernie Sanders
+- Boy
+- Dan Osborn
+- Daniel Lobo-Lewis
+- Gina Hinojosa
+- Greg Abbott
+- Josh Shapiro
+- Justin Pearson
+- Ken Paxton
+- MAGA
+- Pete Ricketts
+- Sam Altman
+- Trump
+- Will Lawrence
+organisations:
+- AI
+- Big Tech
+- Congress
+- Navy
+- OpenAI
+- Political Integrity Project
+- Senate
+- SpaceX
+- Trump
+- WIRED
 ---
 
 Dan Osborn was finishing up his fourth town hall last Sunday, he says, when a “hardcore MAGA” guy approached him. Osborn, who is running for the US Senate in Nebraska as an independent against Republican incumbent Pete Ricketts, said that he and the man didn’t have much common ground—at first.

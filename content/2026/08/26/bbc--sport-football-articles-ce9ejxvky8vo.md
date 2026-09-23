@@ -13,6 +13,66 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Chelsea
+- England
+- Liverpool
+- Man City
+- Monaco
+- Newcastle
+- Nottingham Forest
+- Paris St-Germain
+- Tottenham
+people:
+- '## Villa'
+- Anthony Gordon
+- Ayyoub Bouaddi
+- Bruno Guimaraes
+- Elliot Anderson
+- Enzo Fernandez
+- Enzo Maresca
+- Ezri Konsa
+- Fabinho
+- Gary Neville
+- Jack Grealish
+- James Trafford
+- Kylian Mbappe
+- Lucas Digne
+- Manuel Akanji
+- Morgan Rogers
+- Morgan Rogers'
+- Nathan Ake
+- Nico Gonzalez
+- Ollie Watkins
+- Omar Marmoush
+- Pep Guardiola
+- Rodri
+- Sandro Tonali
+- Savio
+- Thomas Lemar
+- Tijjani Reijnders
+- Unai Emery
+- Youri Tielemans
+organisations:
+- '## Brighton'
+- Al-Hilal
+- Arsenal
+- Aston Villa
+- Atletico Madrid
+- Barcelona
+- Chelsea
+- Everton
+- Manchester City
+- Monaco
+- Newcastle United
+- Nottingham Forest
+- Premier League
+- Rogers
+- Savinho
+- Tonali
+- Tottenham
+- Transfermarkt
+- Uefa
 ---
 
 ![Sandro Tonali, Morgan Rogers and Savinho are shown in Tottenham, Chelsea and Manchester City shirts](https://ichef.bbci.co.uk/ace/standard/1552/cpsprodpb/b41f/live/6abb1df0-a141-11f1-9311-09d4e1fc9016.png)

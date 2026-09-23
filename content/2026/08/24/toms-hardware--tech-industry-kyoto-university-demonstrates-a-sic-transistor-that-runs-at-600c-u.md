@@ -12,6 +12,18 @@ image: https://cdn.mos.cms.futurecdn.net/YdZbVjBsghJp5q9fsqEwpT-1920-80.png
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Luke James
+- Mitsuaki Kaneko
+- Shunya Shibata
+- Tom
+- Tsunenobu Kimoto
+organisations:
+- Google News
+- Kyoto University
+- NASA Glenn Research Center
+- SiC JFET
 ---
 
 ![Kyoto University demonstrates a SiC transistor that runs at 600°C using standard ion implantation](https://cdn.mos.cms.futurecdn.net/YdZbVjBsghJp5q9fsqEwpT.png) 

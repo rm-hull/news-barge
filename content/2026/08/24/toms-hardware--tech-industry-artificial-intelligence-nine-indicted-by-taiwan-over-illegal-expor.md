@@ -13,6 +13,33 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- China
+- Hong Kong
+- Indonesia
+- Japan
+- Nvidia Taiwan
+- U.S.
+- US
+people:
+- Stephen Warwick
+- Tom
+organisations:
+- Albatron Technology
+- Apple
+- Chief Telecom
+- Digitimes**,*
+- Flying Tiger
+- Flying Tiger Tech
+- GM
+- Get Tom's Hardware
+- Google News
+- Keelung District Prosecutors' Office
+- Nvidia Taiwan
+- Supermicro
+- TechRadar
+- Tom's Hardware
+- iMore
 ---
 
 ![Nvidia Taiwan](https://cdn.mos.cms.futurecdn.net/SZHWJ7Y7TYpgG6i9da6d9E.jpg) 

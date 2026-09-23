@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Britain
+- Downing Street
+- Holyrood
+- UK
+- Welsh Senedd
+people:
+- Jeremy Davies
+- Keir Starmer
+organisations:
+- Dad Shift
+- Fatherhood Institute
+- Flex Appeal
+- Labour
 ---
 
 Parents across the UK will protesting on Thursday to call for improved assistance for mothers and fathers managing employment alongside family life.

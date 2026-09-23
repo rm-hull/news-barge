@@ -11,6 +11,28 @@ image: https://i.guim.co.uk/img/media/1586ee752c1141711a22a6c478c71542d4fb0cc2/1
 categories:
 - UK
 - News & Politics
+locations:
+- Atlantic
+- Canada
+- Great Lakes
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- New York
+- Ottawa
+- Oval Office
+- Pacific
+- US
+- United States
+- Washington
+people:
+- Donald Trump
+- Mark Carney
+organisations:
+- Department of Interior
+- Nato
+- Resolute Desk
 ---
 
 Donald Trump signed an executive order on Thursday directing the federal government to rename Lake Ontario, making it Lake America, amid his escalating trade war with Canada.

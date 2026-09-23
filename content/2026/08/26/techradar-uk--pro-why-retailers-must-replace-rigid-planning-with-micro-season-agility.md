@@ -12,6 +12,17 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Europe
+- London Oxford Street
+- UK
+people: []
+organisations:
+- Future plc
+- IHL Group
+- Merchmix
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![Three warehouse workers looking at a laptop. Digital symbols are superimposed on top of the scene](https://cdn.mos.cms.futurecdn.net/mR2722QpcTxgKEAa8Ne5sL.jpg) 

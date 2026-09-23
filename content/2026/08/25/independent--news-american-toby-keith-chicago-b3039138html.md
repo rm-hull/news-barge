@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- America
+- United States
+people:
+- Toby Keith
+organisations:
+- Dart Container Corp
+- Solo Company
 ---
 
 It’s red. It’s soft plastic. And it probably contains your favorite beverage.

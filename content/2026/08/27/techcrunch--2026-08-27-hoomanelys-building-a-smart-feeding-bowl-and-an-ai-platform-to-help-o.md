@@ -12,6 +12,17 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/Hoomanely-Executives_Ha
 categories:
 - Technology & Software
 - Pets & Animals
+locations:
+- Palo Alto
+people:
+- Hoomanely
+- Labrador-Great Dane
+- Sai Supriya Sharath
+organisations:
+- AI
+- EverHub
+- Hoomanely
+- TechCrunch
 ---
 
 Dogs are amazing. But as many pet parents will tell you, they can be remarkably good at hiding when something is wrong. My Labrador-Great Dane mix, for example, contracted tick fever several times over his 14 long years, and it was always at least a couple of weeks before I suspected something was off. It nearly gave me anxiety ulcers a few times.

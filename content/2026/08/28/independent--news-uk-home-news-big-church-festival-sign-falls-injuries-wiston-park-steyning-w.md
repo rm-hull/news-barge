@@ -11,6 +11,26 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Eastbourne
+- Shoreham
+- Steyning
+- UK
+- Washington Road
+- West Sussex
+people:
+- CeCe Winans
+- Lauren Daigle
+- Richard McDonagh
+organisations:
+- Bethel Music
+- Big Church Festival
+- Elevation Rhythm
+- Instagram
+- Met Office
+- Secamb
+- South East Coast Ambulance Service
+- Sussex Police
 ---
 
 A man has died and at least six others have been injured after a sign fell on visitors at a Christian festival in West Sussex.

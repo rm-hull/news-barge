@@ -13,6 +13,90 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Australia
+- Beverly Hills
+- California
+- Canada
+- Dolly Parton
+- Dolly Parton Statue
+- Dollywood
+- Hollywood
+- Ireland
+- Los Angeles
+- NSW
+- Narromine
+- Nashville
+- Neveda
+- Rotherham
+- Sandy Gallin
+- Sevierville
+- Smoky Mountains
+- South Yorkshire
+- Tennessee
+- UK
+- US
+- United States
+- White House
+people:
+- AP JadAbumrad
+- Alex Brandon
+- Andrew Lloyd Webber
+- Anthony Albanese
+- Barack Obama
+- Beyoncé
+- Billy Ray Cyrus
+- Bryan Seaver
+- Carl Dean
+- Chris Pizzello
+- Chris Torres
+- Covid
+- Dolly Parton
+- Dylan Lovan
+- Eminem
+- Farewell
+- Hannah Montana
+- Honey
+- J Scott Applewhite
+- Jacky Rosen
+- James A. Gambrell
+- Jane Fonda
+- Jesus
+- Joan Rivers
+- Jolene
+- Julia Gardiner
+- Kevin Fogarty
+- Mark Humphrey
+- Matt Sayles
+- Michelle
+- Miley Cyrus
+- Reba McEntire
+- Sandy Gallin
+- Smokey Robinson
+- Steven Spielberg
+- Susie Rae
+- Zubin Mehta
+organisations:
+- AP The Imagination Library
+- Absolute Radio Country
+- Christmas Party
+- Covid-19
+- Disney
+- Dolly Parton
+- Dolly Parton’s Imagination Library
+- Dollywood Foundation
+- EPA
+- Getty Images A
+- Hollywood Walk of Fame
+- Imagination Library
+- Imagination Library X
+- Kennedy Center
+- Michael Ochs Archives
+- Moderna
+- New York Times
+- Reuters
+- SNL
+- Vanderbilt University
 ---
 
 Mourners pay their respects to Dolly Parton after the announcement of her passing, at the Dolly Parton Statue in downtown Sevierville, Tennessee, US. Photograph: Kevin Fogarty/Reuters

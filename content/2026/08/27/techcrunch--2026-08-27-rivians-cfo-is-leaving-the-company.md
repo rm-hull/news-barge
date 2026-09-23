@@ -12,6 +12,29 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 - Technology & Software
+locations:
+- East Coast
+people:
+- Claire McDonough
+- Derek Mulvey
+- RJ Scaringe
+- Rivian
+- Ryan Green
+organisations:
+- CFO
+- EV
+- Fairway Market
+- GE Vernova
+- JP Morgan
+- LinkedIn
+- McDonough
+- R1S
+- R1T
+- R2
+- Rivian
+- TechCrunch
+- VW
+- Volkswagen Group
 ---
 
 Rivian’s chief financial officer Claire McDonough is resigning her position at the end of October, the company announced in a regulatory filing Thursday.

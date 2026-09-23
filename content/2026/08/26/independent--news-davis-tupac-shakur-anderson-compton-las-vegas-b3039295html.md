@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Anderson
+- Compton
+- Davis’
+- Las Vegas
+- Los Angeles
+- Mob Piru
+- Nevada
+people:
+- Davis'
+- Davis’
+- Duane “Keffe D” Davis
+- Jonathan Landrum Jr.
+- Marion “Suge” Knight
+- Michael Sanft
+- Orlando “Baby Lane” Anderson
+- Robert Ladd
+- Tupac Shakur
+organisations:
+- Associated Press Entertainment
+- BMW
+- Cadillac
+- Death Row Records
+- South Side Compton Crips
+- South Side Crips
 ---
 
 A former Compton gang detective testified Tuesday that Duane “Keffe D” Davis was a high-ranking “shot caller” whose authority meant younger gang members would not have opened fire on Tupac Shakur with Davis present unless he allowed it.

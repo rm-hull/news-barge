@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- LaGuardia Airport
+- Montreal
+- New York
+- United
+people:
+- Antoine Forest
+- Chris Weber
+- Mackenzie Gunther
+- Rio Yamat
+- Sean Duffy
+- Tom Linter
+organisations:
+- Air Canada
+- Air Canada Express
+- Cirium
+- FAA
+- Federal Aviation Administration
+- NTSB
+- National Air Traffic Controllers Association
+- National Transportation Safety Board
+- The Associated Press
+- United Airlines
+- Wall Street Journal
 ---
 
 Two air traffic controllers could be fired for leaving the tower at New York's LaGuardia Airport about an hour early on the night that an Air Canada jet smashed into a fire truck crossing the runway, killing both pilots, according to a government official familiar with the investigation.

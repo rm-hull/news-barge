@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Democratic Republic of Congo
+- Nigeria
+- South Africa
+people:
+- Ibrahim Gusau
+- Mohammed Sanusi
+organisations:
+- Nigeria Federation Soccer
+- Nigeria Football Federation
+- Super Eagles
+- Super Falcons
+- The Associated Press
 ---
 
 Nigeria soccer federation president resigns after teams fail to reach major tournaments

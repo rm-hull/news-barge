@@ -12,6 +12,51 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Albuquerque
+- Arizona
+- Bellevue
+- California
+- Carlow
+- Indian Country
+- Laguna Pueblo
+- Navajo Nation
+- New Mexico
+- Oglala
+- Ohio
+- Pine Ridge Reservation
+- Rapid City
+- Route 66
+- San Carlos
+- Sawmill
+- Seattle
+- South Dakota
+- Wash.
+people:
+- Brooke Brennan
+- Dennis Willard
+- Emily Pike
+- Faye Wurstner-Reagan
+- Lisa Carlow
+- Lisa Foster
+- Maleeka Boone
+- Mary Kathryn Nagle
+- Matthew Reagan
+- Mona Renee Vallo
+- Patrick Carlow
+- Patrick Carlow Sr.
+- Philip Reagan
+- Tize W. Clark
+- Zion Clark
+organisations:
+- AP
+- Associated Press
+- Bureau of Indian Affairs
+- Cherokee Nation
+- FBI
+- GPS
+- National Crime Information Center
+- Navajo Nation
 ---
 
 The FBI is offering rewards of at least $25,000 in dozens of unsolved killings and missing-person cases in Native American communities, hoping more money will persuade people to come forward with information.

@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- Darlington Memorial Hospital
+- North Durham
+- Spennymoor
+- University Hospital
+people:
+- Julie Form
+organisations:
+- County Durham
+- Darlington NHS Foundation Trust
 ---
 
 A campaign highlighting the vital role of hospital discharge lounges is taking place across County Durham and Darlington this month.

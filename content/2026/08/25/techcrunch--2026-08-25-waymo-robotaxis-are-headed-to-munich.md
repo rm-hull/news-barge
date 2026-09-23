@@ -12,6 +12,30 @@ categories:
 - Technology & Software
 - Automotive
 - Science
+locations:
+- Germany
+- London
+- Munich
+- U.K.
+- Waymo
+people:
+- Waymo
+organisations:
+- AV
+- Autobrains
+- Baidu
+- European Union
+- Federal Motor Transport Authority
+- Freenow
+- KBA
+- Lyft
+- Mobileye
+- SAE
+- Society of Automobile Engineers
+- Uber
+- Volkswagen
+- Waymo
+- Wayve
 ---
 
 Waymo said Tuesday it plans to launch a robotaxi service in Munich, months after the Alphabet-owned autonomous vehicle company set up an entity in Germany.

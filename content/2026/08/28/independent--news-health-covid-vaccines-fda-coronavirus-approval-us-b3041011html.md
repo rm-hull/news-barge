@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- America
+- Covid
+- Mayo Clinic
+- U.S.
+people:
+- Amy Thibault
+- Donald Trump
+- Robert F. Kennedy Jr.
+- Stephen Hoge
+- Stéphane Bancel
+- Tina Stow
+organisations:
+- ACIP
+- AHIP
+- CVS
+- Centers for Disease Control and Prevention
+- Department of Health and Human Services
+- FDA
+- Health Insurance Plans
+- Moderna
+- Novavax-Sanofi
+- Pfizer
+- Pfizer-BioNTech
+- The New York Times
+- The Post
+- The Times
+- The Washington Post
+- U.S. Food and Drug Administration
+- Walgreens
+- XFG
 ---
 
 The U.S. Food and Drug Administration has approved updated Covid vaccines as cases of coronavirus continue to surge this month across the nation.

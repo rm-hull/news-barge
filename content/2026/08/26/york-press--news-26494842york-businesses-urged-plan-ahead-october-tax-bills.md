@@ -13,6 +13,19 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Monks Cross Drive
+- Triune Court
+- UK
+- York
+people:
+- Praveen Gupta
+- Ron Wain
+organisations:
+- Azets
+- Corporation Tax
+- Deep South Media
+- HMRC
 ---
 
 *(Image: Ron Wain of business news specialist Deep South Media)*

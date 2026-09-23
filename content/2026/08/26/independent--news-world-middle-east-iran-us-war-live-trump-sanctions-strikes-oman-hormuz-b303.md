@@ -12,6 +12,51 @@ image: https://static.independent.co.uk/2026/08/26/06/2026-08-25T110408Z_7095926
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Bahrain
+- China
+- Iran
+- Iraq
+- Israel
+- Malaysia
+- Oman
+- Pakistan
+- Sri Lanka
+- Strait of Hormuz
+- Tehran
+- US
+- United States
+- Washington
+people:
+- '## Bessent'
+- Barron Trump
+- Donald Trump
+- Faiq Zaidan
+- Kazem Gharibabadi
+- Lin Jian
+- Mohammad-Baqer Qalibaf
+- Mohsen Rezaei
+- Nate Herring
+- Salman bin Khalifa Al Khalifa
+- Samir Madani
+- Scott Bessent
+organisations:
+- China-Iran
+- FT
+- GCC
+- Iran TV
+- J P Morgan
+- Nournews
+- Reuters
+- Secret Service
+- Supreme Judicial Council
+- Supreme National Security Council
+- TankerTrackers.com
+- UANI
+- US Secret Service
+- US Treasury
+- United Against Nuclear Iran
 ---
 
 The US secret service says it is aware of an Iranian state television video discussing an alleged plot to assassinate Donald Trump’s youngest son, Barron Trump, 20.

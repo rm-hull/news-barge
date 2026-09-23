@@ -12,6 +12,25 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Aldershot
+- Northampton Town
+- PA
+people:
+- Bobby Tambling
+- DENNIS Brown
+- Matt Busby
+- Ron ‘Chopper’ Harris
+- Terry Venables
+organisations:
+- Aldershot
+- First Division Chelsea
+- Huddersfield Town
+- Manchester United
+- Northampton
+- Second Division
+- Swindon Town
+- Third Division
 ---
 
 *(Image: PA)*

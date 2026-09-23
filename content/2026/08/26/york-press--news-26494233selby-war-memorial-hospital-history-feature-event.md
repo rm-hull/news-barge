@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - History
+locations:
+- Portholme Church
+- Portholme Road
+- Selby’s War Memorial Hospital
+people:
+- David Lewis
+organisations:
+- '## History of Selby''s War Memorial Hospital'
+- Friends of Selby Hospital
+- Selby Civic Society
+- Selby’s War Memorial Hospital
 ---
 
 ## History of Selby's War Memorial Hospital to be explored in upcoming talk

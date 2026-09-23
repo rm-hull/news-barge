@@ -11,6 +11,36 @@ image: https://static.independent.co.uk/2026/08/26/14/download.-1.?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Capitol Hill
+- Cooperstown
+- Florida
+- Iran
+- New York
+- United States
+- Washington, D.C.
+- West
+- White House
+people:
+- '![Clemens'
+- Biden
+- Donald Trump
+- Fred Trump Jr.
+- George Steinbrenner
+- Roger Clemens
+organisations:
+- All Time
+- Boston Red Sox
+- Congress
+- Hall of Fame
+- Major League Baseball
+- National Baseball Hall of Fame and Museum
+- New York Military Academy
+- New York Yankees
+- Palm Beach Post
+- Truth Social
+- Veterans Committee
+- then-New York Yankees
 ---
 
 With the war he started in Iran approaching the six-month mark and the American economy still beset by rising prices amid the trade wars he has started with almost every major American trading partner, the President of the United States took time Wednesday afternoon posting and reposting content to glorify himself and air niche grievances.

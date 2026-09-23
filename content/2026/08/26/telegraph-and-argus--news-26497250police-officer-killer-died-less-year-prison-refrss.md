@@ -14,6 +14,29 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Morley Street
+- Pakistan
+- Pinderfields Hospital
+- UK
+- Wakefield Prison
+- West Yorkshire Police
+people:
+- '## Khan'
+- Justice Hilliard
+- Ms McLoughlin
+- Naomi McLoughlin
+- Paul Beshenivsky
+- Pc Beshenivsky
+- Pc Teresa Milburn
+- Piran Ditta Khan
+- Shabaz Khan
+- 'Sharon Beshenivsky ## Son'
+organisations:
+- Leeds Crown Court
+- Universal Express
+- Wakefield Coroner’s Court
 ---
 
 *(Image: West Yorkshire Police)*

@@ -13,6 +13,77 @@ categories:
 - News & Politics
 - Arts & Culture
 - Travel
+locations:
+- Andes Mountains
+- Ashnil Aruba Lodge
+- Brazil Parkinson
+- Bushy Park
+- California
+- Canada
+- Central America
+- Costa Rica
+- D'Arros Island
+- Doha
+- Earth
+- Ecuador Wizen
+- France
+- Germany
+- Guatemala
+- Hungary
+- Israel
+- Japan
+- Kenya Máté
+- Kvænangen
+- London Crockford
+- Los Angeles County
+- Marine Protected Area
+- Monrovia
+- Monterey Bay
+- Mpumalanga
+- Namib Desert
+- Namibia Tromp
+- Napo Province
+- Northern Pantanal
+- Norway Aasen
+- Qatar
+- Seychelles Gross
+- Sierpe
+- South Africa
+- South Puntarenas
+- Swahili
+- Swakopmund
+- Tokyo
+- Troms County
+- Tsavo East National Park
+- UK
+- USA A
+- USA Elliott
+- Wildsumaco Biological Station
+people:
+- Aasen
+- Andrea & Maceo Grammatico
+- Andy Parkinson
+- Audun Rikardsen
+- Bence Máté
+- Dewald Tromp
+- Ernest Porter
+- Gil Wizen
+- Jack Crockford
+- Jens Cullmann
+- Loren Elliott
+- Pietro Rojas
+- Ralph Pace
+- Shane Gross
+- Sora Miyazawa
+organisations:
+- Allegra Hutton
+- Arctic Wildlife Tours
+- Botswana Hutton
+- Manyeleti Game Reserve
+- Natural History Museum
+- Okavango Delta
+- Southern Resident
+- Vegard Byrkjeland Aasen
 ---
 
 ![A polar bear peers down through a roughly circular opening in the white ice, its entire face visible through the hole. Its dark nose and eyes stand out against its pale fur, while the vivid blue sky beyond the opening contrasts with the darker edge of the ice.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/db40/live/d4ab0780-9baa-11f1-92e6-b1dfcecd4308.jpg)

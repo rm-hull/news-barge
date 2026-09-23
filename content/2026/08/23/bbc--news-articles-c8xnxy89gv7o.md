@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- England
+- Scotland
+- Wales
+people:
+- Andy Burnham
+- Craig Beaumont
+- Daisy Cooper
+- Emma McClarkin
+- James Murray
+- Jerry Schurder
+- John Healey
+- Mel Stride
+- Rachel Reeves
+- Tom Ironside
+organisations:
+- BBPA
+- British Beer and Pub Association
+- British Retail Consortium
+- FSB
+- Federation of Small Businesses
+- Labour
+- Liberal Democrat Treasury
+- National Insurance
+- Newmark UK
 ---
 
 ![A man wearing a blue top pouring a pint in a pub](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/7f38/live/0b0cedf0-9ed7-11f1-9253-c70a43a5293b.jpg)

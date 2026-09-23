@@ -15,6 +15,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Connecticut
+- Detroit
+- Flint River
+- Hartford
+- Michigan
+people:
+- Collins
+- Corey Williams
+- Dana Nessel
+- Flint
+- Rick Snyder
+organisations:
+- Associated Press
+- Congress
+- Flint
+- Supreme Court
+- The Associated Press
 ---
 
 Michigan Attorney General Dana Nessel said a report released Tuesday on the lead-water crisis in the city is the final step her office can take toward accountability, years after a state Supreme Court ruling shut down criminal cases against a former governor and eight other people.

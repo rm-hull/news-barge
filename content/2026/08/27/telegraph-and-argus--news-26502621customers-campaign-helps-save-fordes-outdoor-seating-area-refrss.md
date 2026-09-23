@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Forde
+- Ilkley
+- YOUR
+people:
+- Forde
+organisations:
+- Bradford Council
+- Forde
+- Public Notice Portal
 ---
 
 *(Image: Forde)*

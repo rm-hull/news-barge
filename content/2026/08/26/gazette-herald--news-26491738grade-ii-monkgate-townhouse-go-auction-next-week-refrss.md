@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Grade II
+- Jorvik Viking Centre
+- Monkgate
+- York Minster
+- designed’ York
+people:
+- Romilly Woodman-Wilcock
+organisations:
+- Auction House Hull
+- East Yorkshire
+- North Yorkshire Police
+- University of York
 ---
 
 A GRADE II listed York townhouse described as a 'renovator's dream home' is set to go to auction next week.

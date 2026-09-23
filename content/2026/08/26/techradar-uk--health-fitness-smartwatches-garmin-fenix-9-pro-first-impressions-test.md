@@ -12,6 +12,25 @@ image: https://cdn.mos.cms.futurecdn.net/E7xiJQRMQsnWQ6zTiVBB8W-1920-80.jpg
 categories:
 - Technology & Software
 - Travel
+locations:
+- Cardiff
+- Chamonix
+- Everest Base Camp
+- Explore Nearby
+- Garmin Connect
+- West Highland Way
+people:
+- Garmin Fenix
+- Go Ruck
+- Matt Evans
+organisations:
+- Amazfit
+- Everest Base Camp
+- Garmin Fenix 8
+- Google News
+- Men's Health
+- Runner's World
+- TechRadar
 ---
 
 ![Garmin Fenix 9 Pro worn on journalist's wrist](https://cdn.mos.cms.futurecdn.net/E7xiJQRMQsnWQ6zTiVBB8W.jpg) 

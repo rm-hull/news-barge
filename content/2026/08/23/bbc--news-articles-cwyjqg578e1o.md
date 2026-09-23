@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Caernarfon
+- Chicago
+- Cyngor Gwynedd
+- England
+- Farnham
+- North Wales
+- Northern Ireland
+- Prague
+- Surrey
+- Widnes
+people:
+- Filipo Sharevski
+- Keith Betton
+- Les Howard
+- Ollie Whitehouse
+- Prof Sharevski
+organisations:
+- BBC Scam Secrets
+- City of London Police
+- DePaul University
+- Freedom of Information Act
+- Les Howard
+- Microsoft
+- NCSC
+- National Cyber Security Centre
+- QR
+- Report Fraud
+- Scam Secrets
+- Wales
 ---
 
 ![Les Howard, who is wearing a white polo shirt, is starring directly at the camera and is smiling. There is a city skyline in the background.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/580f/live/a3bddc80-9ca2-11f1-a5a0-114ca9d4a1bc.jpg)

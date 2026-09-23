@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- BryLin Hospital
+- Buffalo
+- Grand Island
+- Massachusetts
+- N.Y.
+- New York
+- Poland
+- UK
+- USA
+people:
+- Bridget María Chesterton
+- Emily Williams
+- James Fitzsimmons
+- Lindsay Clancy
+- Maria Chesterton
+- Patrick Clancy
+organisations:
+- 988 Suicide and Crisis Lifeline
+- Buffalo OB
+- GYN
+- Medical University of Lublin
+- Samaritans
 ---
 
 About two weeks after giving birth, Bridget María Chesterton was found curled up on her bathroom floor, confused and saying things that made little sense.

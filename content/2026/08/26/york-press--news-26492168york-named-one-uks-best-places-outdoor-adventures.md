@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Blacks
+- Cleveland Way
+- Hambleton Hills
+- North Yorkshire
+- Pexels
+- Sutton Bank
+- UK
+- Wolds
+- York
+people:
+- Natalie Wolfenden
+- York
+organisations:
+- Blacks
+- North York Moors
 ---
 
 ## North Yorkshire ranked among UK's best places for access to nature

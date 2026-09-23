@@ -14,6 +14,21 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- BIN
+- Diamond Street
+- Earle Street
+- Emerald Street
+- The Groves
+- York
+people:
+- Groves
+- Ian Hoult
+- Stephanie Holdsworth
+organisations:
+- City of York Council
+- LDRS
+- York Council
 ---
 
 BIN bags left uncollected for weeks in a York neighbourhood have been ripped open by animals and infested with flies, a resident has said.

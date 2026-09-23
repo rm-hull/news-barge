@@ -12,6 +12,26 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Greater Manchester
+- Iran
+- UK
+- Ukraine
+people:
+- Andy Burnham
+- Darren Jones
+- John Healey
+- Mr Burnham
+- Rachel Reeves
+organisations:
+- Budget
+- Cabinet
+- ITV News
+- Labour
+- National Institute of Economic and Social Research
+- Niesr
+- ONS
+- Office for National Statistics
 ---
 
 Andy Burnham has declined to rule out tax increases in the upcoming Budget, stating he "won’t be unrealistic" about the state of the public finances.

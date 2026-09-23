@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Middle East
+- Scotland
+- UK
+- Westminster
+people:
+- Andy Burnham
+- Carl Court
+- Craig Tobin
+- David Hilferty
+- John Swinney
+- Miatta Fahnbulleh
+- Sam Ghibaldan
+organisations:
+- Advice Direct Scotland
+- Citizens Advice Scotland
+- Consumer Scotland
+- Cornwall Insight
+- Ofgem
 ---
 
 John Swinney has demanded “immediate assistance” from the UK Government amid warnings that the latest hike in the energy price cap will leave Scots facing a “sharp rise” in bills.

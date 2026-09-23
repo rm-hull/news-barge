@@ -11,6 +11,16 @@ image: https://static.independent.co.uk/2026/08/10/16/01KZKGQJCSCJ1D63NZP22JN8YS
 categories:
 - News & Politics
 - UK
+locations:
+- Fairfields
+- Norfolk
+- Norwich Magistrates’ Court
+- Thetford
+people:
+- Brian Thompson
+- Dave Foulkes
+- Matthew Bone
+organisations: []
 ---
 
 A 69-year-old man who was arrested with a wooden bat sticking out of his pocket during unrest in Thetford, Norfolk, has avoided jail.

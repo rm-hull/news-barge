@@ -12,6 +12,61 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Grand Ole Opry
+- Las Vegas
+- Nashville
+- New York City
+- Smoky Mountains
+- Tennessee
+- US
+- Vermont
+people:
+- Barack Obama
+- Belinda Carlisle
+- Bernie Sanders
+- Beyoncé
+- Bob Mackie
+- Bret Michaels
+- Céline Dion
+- Daddy
+- Dionne Warwick
+- Dolly Parton
+- Elton John
+- Eminem
+- God
+- Heartbroken
+- Jamie Lee Curtis
+- Jan Fonda
+- Jane Fonda
+- Jesus
+- Jolene
+- Julia Roberts
+- Kacey Musgraves
+- Keith Urban
+- Lily Tomlin
+- Michelle
+- Mick Jagger
+- Octavia Spencer
+- Oprah Winfrey
+- Patti LaBelle
+- Paul McCartney
+- Porter Wagoner
+- Reba McEntire
+- Ringo Starr
+- Sabrina Carpenter
+- Seth Macfarlane
+- Taylor Swift
+- Tim Cook
+organisations:
+- CNN
+- Facebook
+- Moderna Covid
+- Rock and Roll Hall of Fame
+- Rockstar
+- Rolling Stones
+- Steel Magnolias
+- The Poison
 ---
 
 Tributes have poured in for Dolly Parton, the country singer, songwriter and actor, after her death aged 80.

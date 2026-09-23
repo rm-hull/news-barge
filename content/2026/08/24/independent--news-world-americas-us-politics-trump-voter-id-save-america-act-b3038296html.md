@@ -13,6 +13,29 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- Florida
+- U.S.
+- White House
+people:
+- D. John Sauer
+- Donald Trump
+- John Thune
+- Olivia Wales
+organisations:
+- Congress
+- Constitution
+- Department of Homeland Security
+- House
+- MAGAVOICE
+- Postal Service
+- SENATE
+- Senate
+- Supreme Court
+- The Independent
+- Trump
+- Truth Social
+- U.S. Postal Service
 ---
 
 Desperate for the courts and Congress to get behind his sweeping proposals for federal control of elections, Donald Trump has suggested that he thinks Republican candidates would win every state if the Senate passes his nationwide voter ID proposal.

@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Sports
+locations: []
+people:
+- Chris Bilsborrow
+- Daisy Bloom
+- Glyn Barker
+- Jennie Johnson
+- Jess Bardet
+- Justyna Hannon
+- Lynda Fairclough
+organisations:
+- Macmillan
+- Malton Community Sports Centre
 ---
 
 Seven members of Malton Community Sports Centre are preparing for a 24-hour cycling challenge.

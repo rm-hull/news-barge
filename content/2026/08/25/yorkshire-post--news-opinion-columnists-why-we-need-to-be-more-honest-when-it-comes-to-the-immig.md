@@ -16,6 +16,19 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Britain
+- UK
+people:
+- Brexit
+- James Manning
+- Matt Bromley
+- Nigel Farage
+organisations:
+- BBC
+- Building Equity in Education
+- EU
+- Reform
 ---
 
 # Why we need to be more honest when it comes to the immigration debate - Matt Bromley

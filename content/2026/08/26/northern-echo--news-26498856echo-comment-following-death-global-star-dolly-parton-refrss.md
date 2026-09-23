@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Britain
+- Newcastle
+- Tennessee
+- Tyneside
+- UK
+people:
+- DOLLY PARTON
+- Dolly
+- Donald Trump
+- Joe Noble
+- Jolene
+- Whitney Houston
+organisations:
+- Imagination Library
 ---
 
 *(Image: Joe Noble)*

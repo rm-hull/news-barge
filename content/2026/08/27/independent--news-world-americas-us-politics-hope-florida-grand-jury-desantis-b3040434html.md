@@ -15,6 +15,31 @@ categories:
 - UK
 - Society & Culture
 - Personal Finance & Investing
+locations:
+- Hope Florida
+- Tallahassee
+people:
+- Alex Lanfranconi
+- Ashley Moody
+- Casey DeSantis
+- James Uthmeier
+- Ron DeSantis’
+organisations:
+- AG
+- AHCA
+- Agency for Health Care Administration
+- CBS News Miami
+- Centene Corp
+- DeSantis’
+- Florida Chamber of Commerce
+- Florida Freedom Fund
+- Hope Florida
+- Hope Florida Foundation
+- Hope Florida Scandal
+- PAC
+- Republican Party of Florida
+- Secure Florida’s Future
+- Uthmeier
 ---
 
 A Florida grand jury reportedly found that members of Governor Ron DeSantis’ administration “misappropriated” $10 million in taxpayer-owed settlement funds to an organization affiliated with Casey DeSantis to be used on political activities.

@@ -14,6 +14,14 @@ categories:
 - York
 - Travel
 - Automotive
+locations:
+- A1246 Great North Road
+- Fairburn
+- Selby Fork Interchange
+people: []
+organisations:
+- A63
+- Cheshire Police)* Police
 ---
 
 *(Image: Cheshire Police)*

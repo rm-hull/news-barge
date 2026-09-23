@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bradford
+- Keighley
+- Leeds
+- Odette’s Point
+- Salbury
+- Shann Lane
+people:
+- Caroline Spray
+- Ms Spray
+organisations:
+- Avant Homes
+- Avant Homes West Yorkshire
+- Horbury
 ---
 
 *(Image: Supplied)*

@@ -13,6 +13,47 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Australia
+- Britain
+- Canada
+- China
+- China-Nepal
+- Chitwan
+- Dhading
+- Himalayan
+- Himalayas
+- India
+- Kailash Mansarovar
+- Kathmandu
+- Lhende River
+- Nepal
+- Nuwakot
+- Rasuwa
+- Rasuwagadhi
+- Soley
+- Tibet
+- UK
+- US
+people:
+- Anthony Albanese
+- António Guterres
+- Bibek Kumal
+- David Fisher
+- Keshav Prasad Baral
+- Li Qiang
+- Nirajan Paudyal
+- Sanket Pandey
+organisations:
+- Agence France-Presse
+- Himalayan Glacier
+- International Federation of the Red Cross
+- Planet Labs
+- Reuters
+- UN
+- US Geological Survey
+- United Nations
+- Xinhua
 ---
 
 Rescuers are searching for nearly 1,400 people, most of them tourists, who are missing after a catastrophic flash flood hit Nepal and Tibet, thundering down valleys, obliterating entire villages and killing at least 356 people.

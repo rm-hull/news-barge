@@ -14,6 +14,38 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- China
+- China-Iran
+- Gaza
+- Iran
+- Israel
+- Middle East
+- Nasser Hospital
+- Pakistan
+- Strait of Hormuz
+- Tehran
+- U.S. Oman
+- US
+- United States
+people:
+- Asim Munir
+- Hussam al-Masri
+- Lin Jian
+- Mariam Dagga
+- Masoud Pezeshkian
+- Mohsin Naqvi
+- Scott Bessent
+organisations:
+- AP
+- Foreign Ministry
+- Hamas
+- Reuters
+- The Associated Press
+- Treasury Department
+- U.S. Treasury
+- UKMTO
+- United Kingdom Maritime Trade Organization
 ---
 
 An oil tanker was hit with a projectile off the coast of Oman in the Strait of Hormuz, according to a report Tuesday that highlighted the ongoing dangers for shipping companies attempting to use the waterway while Iran holds it in firm control.

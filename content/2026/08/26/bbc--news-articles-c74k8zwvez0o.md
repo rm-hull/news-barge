@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Bottom Line
+- California
+- Hollywood
+- Los Angeles
+- Nashville
+- New York
+- Tennessee
+- US
+- West Village
+people:
+- Carl Dean
+- Dolly Parton
+- Elvis Presley
+- Graceland
+- Jane Fonda
+- Jolene
+- Lily Tomlin
+- Porter Wagoner
+- Reba McEntire
+- Taylor Swift
+- Tom Parker
+- Whitney Houston
+organisations:
+- Country Music Television
+- GLAAD
+- House of Blues
 ---
 
 ![Dolly Parton with both arms raised on stage in 1983](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a700/live/226708c0-a141-11f1-9311-09d4e1fc9016.jpg)

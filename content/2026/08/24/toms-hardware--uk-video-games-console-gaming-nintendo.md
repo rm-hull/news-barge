@@ -12,6 +12,17 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people: []
+organisations:
+- Fork
+- GPU
+- Get Tom's Hardware
+- Joy-Cons
+- Nintendo Switch
+- Pro Controllers
+- YouTuber Kouzex
+- ZSNES
 ---
 
 ![Nintendo](https://cdn.mos.cms.futurecdn.net/kW5bsKx4FR5T3m3PeYqGDL-320-80.png)

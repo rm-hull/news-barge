@@ -12,6 +12,29 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Cleveland
+- Middlesbrough
+- Redcar
+- South Bank
+- Tees Valley
+- Teesside
+people:
+- Andy Burnham
+- Anna Turley
+- Ben Houchen
+- Matthew Blades
+- Matty
+- PC Blades
+- Stuart Boulton
+- Tom Clough
+- Victoria Fuller
+organisations:
+- Cleveland Police
+- Seaton Carew FC
+- Stuart Boulton)* Sports
+- Under-7 Seahawks
+- West Hartlepool Rugby Club
 ---
 
 Tributes have been pouring in for two Cleveland Police officers described as “heroes” after their lives were cut short in the devastating A66 crash.

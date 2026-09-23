@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Florida
+- Miami
+- UK
+people:
+- Andrew Tate
+- Tristan
+organisations:
+- Aston Martin
+- Bugattis
+- Crown Prosecution Service
+- Ferrari
+- US Marshals
 ---
 
 ![Andrew Tate speaking to the media in March 2025. He gestures with his hand and speaks while several microphones are pointed towards him.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2ed0/live/f97fedf0-a073-11f1-958e-e3912aa2af08.jpg)

@@ -11,6 +11,14 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Foss Islands Retail Park
+- Morrisons
+- York
+people: []
+organisations:
+- North Yorkshire Police
+- Via
 ---
 
 Police have released this image after a theft at a York supermarket.

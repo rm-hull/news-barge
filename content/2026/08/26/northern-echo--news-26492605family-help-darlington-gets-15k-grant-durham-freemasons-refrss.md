@@ -15,6 +15,27 @@ categories:
 - News & Politics
 - Family & Parenting
 - Society & Culture
+locations:
+- County Durham
+- Darlington
+- England
+- North East
+- Wales
+people:
+- Andrew Foster
+- Carole Clarkson
+- Emily
+- Freemasons
+- Keith Blundy
+- Val *(Image
+organisations:
+- Amazon
+- Durham Freemasons
+- Durham Freemasons Charity
+- Durham Freemasons Grant
+- Family Help
+- Family Help Darlington
+- The Freemasons’ Charity
 ---
 
 *(Image: Keith Blundy)*

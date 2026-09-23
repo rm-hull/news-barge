@@ -11,6 +11,25 @@ image: https://static.independent.co.uk/2026/08/24/18/58/Screenshot-2026-08-24-a
 categories:
 - News & Politics
 - UK
+locations:
+- Canada
+- Downdetector
+- U.S.
+- Warner Bros
+people:
+- Brian Stelter
+- Dana Bash
+- Donald Trump
+organisations:
+- CNN International
+- Discovery
+- Downdetector
+- HBO
+- Independent
+- TCL
+- TNT
+- Warner Bros
+- Warner Bros.
 ---
 
 CNN went off the air for about 30 minutes after a Warner Bros. Discovery outage impacted its channels.

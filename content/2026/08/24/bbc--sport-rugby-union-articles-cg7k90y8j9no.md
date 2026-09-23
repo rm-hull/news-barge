@@ -11,6 +11,81 @@ image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/70f0/live/1fde1
 categories:
 - UK
 - News & Politics
+locations:
+- Cape Town.
+- Japan
+- Johannesburg
+- New Zealand
+- South Africa
+people:
+- :** Willemse
+- Arendse
+- B Barrett
+- Billy Proctor
+- Blackadder
+- Cheslin Kolbe
+- Cobus Reinach
+- Darry
+- Dave Rennie
+- De Allende
+- De Jager
+- Deon Fourie
+- Esterhuizen
+- Ethan Hooker
+- Etzebeth
+- Fineanganofo
+- Grant Williams
+- Handre Pollard
+- Hanekom
+- Hannah
+- Hotham
+- Ioane
+- Jacomb
+- Kolisi/De Villiers
+- Kriel
+- Lakai
+- Lauaki
+- Lienert-Brown
+- Louw
+- Ma'u
+- Marx
+- Narawa
+- Nche
+- Nortje
+- PS du Toit
+- Paul de Villiers
+- Preston
+- Rassie Erasmus
+- Richie Mo'unga
+- Ruben Love
+- Sacha Feinberg-Mngomezulu
+- Scott Barrett
+- Sititi
+- Siya Kolisi
+- Slater
+- Steenekamp
+- T du Toit
+- Ta'eiloa
+- Taukei'aho
+- Tavatavanawai
+- Tosi
+- Tu'ungafasi
+- Tuipulotu
+- Van den Berg
+- Wiese
+organisations:
+- All Blacks
+- All Blacks'
+- Canterbury
+- Crusaders
+- Feinberg-Mngomezulu
+- Lions
+- Mo'unga
+- New Zealand
+- Springbok
+- Springboks
+- Toshiba Brave Lupus New Zealand
+- World Rugby
 ---
 
 ![Sacha Feinberg-Mngomezulu is stripped of possession by New Zealand](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5155/live/8ef132d0-9fa8-11f1-bff6-57f1422ebb0b.jpg)

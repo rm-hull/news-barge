@@ -12,6 +12,28 @@ image: https://cdn.mos.cms.futurecdn.net/VMKgcaDNbTSdCRMzKFwqf4-2560-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Amazon
+- Gamescom
+- Steam Deck
+- Steam Machine
+people:
+- Reddit
+organisations:
+- AAA
+- Fire TV Sticks
+- GeForce Now
+- Google News
+- Hachette UK
+- Nvidia
+- Ray Reconstruction
+- Razer Blade
+- Steam Controller
+- Steam Machine
+- Team Green
+- TechRadar
+- The Verge
+- Valve
 ---
 
 ![The Valve Steam Machine, pictured on a dark marble worktop.](https://cdn.mos.cms.futurecdn.net/VMKgcaDNbTSdCRMzKFwqf4.jpg) 

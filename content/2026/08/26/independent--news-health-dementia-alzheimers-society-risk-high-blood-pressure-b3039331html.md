@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- UK
+people:
+- Ian Maidment
+- Michelle Dyson
+organisations:
+- Alzheimer’s Society
+- Aston University
 ---
 
 A quarter of UK adults over the age of 40 cannot name a single lifestyle habit or health condition linked to an increased risk of dementia, according to new research.

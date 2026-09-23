@@ -14,6 +14,25 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Fenwick
+- Newcastle
+- Our York
+- Sudbury
+- Suffolk
+- The York
+people:
+- Kevin Fernandez
+- Mike Jenkins
+- Rafi Fernandez
+organisations:
+- BTG
+- CVL
+- Ebor Industrial Estate
+- Goodramgate
+- Pic
+- Rafi
+- Rafi’s Spicebox
 ---
 
 A much-loved York family business has been saved through a restructuring deal.

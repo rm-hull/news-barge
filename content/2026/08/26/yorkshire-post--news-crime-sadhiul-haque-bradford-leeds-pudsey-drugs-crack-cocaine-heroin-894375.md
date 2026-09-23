@@ -15,6 +15,19 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bradford Crown Court
+- Leeds
+- Nottingham Street
+- Pudsey
+- Vauxhall Corsa
+- Yorkshire
+people:
+- Helen Chapman
+- Sadhiul Haque
+organisations:
+- Operation Phoenix
+- West Yorkshire Police
 ---
 
 # Dealer who sent thousands of texts advertising drugs for sale in Yorkshire market town jailed

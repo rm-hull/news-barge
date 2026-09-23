@@ -14,6 +14,30 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Love Island
+- UK
+people:
+- '## Maura Higgins'
+- Angela Jain
+- Cilla Black
+- Maura Higgins
+- Ms Black
+- Ms Higgins
+- Paul O'Grady
+- Sean Doyle
+organisations:
+- Aftersun
+- Channel 5
+- Dancing with the Stars
+- Disney
+- EMEA
+- ITV
+- Irish TV
+- Love Island UK
+- Love Island USA
+- Maura
+- The Traitors U.S.
 ---
 
 *(Image: Getty Images)*

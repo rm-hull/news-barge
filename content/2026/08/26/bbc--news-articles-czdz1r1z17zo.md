@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Buckfast Abbey
+- Cloister Corridor
+- Devon
+- Kent
+- Maidstone
+- Palace of Westminster
+- Portcullis House
+- The Weald
+- UK
+people:
+- Ann Widdecombe
+- David Amess
+- Helen Grant
+- Jo Cox
+- Joshua Kerry
+- Nick Ray
+- Nigel Farage
+organisations:
+- Buckfast Abbey
+- House of Commons
+- Houses of Parliament.
+- Reform UK
 ---
 
 ![A framed photograph of Ann Widdecombe in a black frame on a wall in Portcullis House.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/cfdf/live/988c21e0-a167-11f1-aaf8-119f176ff4ce.jpg)

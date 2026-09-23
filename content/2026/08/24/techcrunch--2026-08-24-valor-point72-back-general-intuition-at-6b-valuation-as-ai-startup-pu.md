@@ -15,6 +15,21 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations: []
+people:
+- Pim de Witte
+- Vinod Khosla
+organisations:
+- AI
+- CoreWeave
+- General Catalyst
+- General Intuition
+- Khosla Ventures
+- Point72 Ventures
+- Seven Seven Six
+- SpaceX
+- TechCrunch
+- Valor Equity Partners
 ---
 
 New York-based General Intuition, the startup building a foundation model that trains generalized AI agents to move through space and time, is in talks to raise funding at a $6 billion pre-money valuation from new investors including Valor Equity Partners, Point72 Ventures, and Seven Seven Six, according to sources familiar with the matter.

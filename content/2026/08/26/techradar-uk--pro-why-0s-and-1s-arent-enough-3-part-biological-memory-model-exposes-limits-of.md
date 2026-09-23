@@ -11,6 +11,20 @@ image: https://cdn.mos.cms.futurecdn.net/dgqDxUtBBRZHRMnKUPFEum-1920-80.png
 categories:
 - Technology & Software
 - History
+locations:
+- Farvater
+- Lake Ladoga
+- Russia
+- Sevastopol
+- Skanda
+- Ukraine
+people:
+- Volodymyr Zelenskyy
+organisations:
+- Efosa
+- Google News
+- Katran
+- TechRadar Pro
 ---
 
 ![3D printed TF-179 Drone Boat](https://cdn.mos.cms.futurecdn.net/dgqDxUtBBRZHRMnKUPFEum.png) 

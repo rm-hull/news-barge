@@ -13,6 +13,13 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Britain
+- Fusion
+people: []
+organisations:
+- Halfords
+- Peel Hunt
 ---
 
 Britain’s prolonged hot and dry summer has helped retailer Halfords upgrade its annual profit outlook after it said the unusually warm weather boosted demand for seasonal ranges.

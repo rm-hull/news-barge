@@ -14,6 +14,17 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Hebden Bridge Road
+- Hill House Edge Lane
+- Oxenhope
+people: []
+organisations:
+- Roads Policing Unit
+- UGC
+- West Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 *(Image: UGC)*

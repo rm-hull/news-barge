@@ -12,6 +12,48 @@ image: https://images.euronews.com/articles/stories/09/88/69/74/1200x675_cmsv2_5
 categories:
 - Europe
 - News & Politics
+locations:
+- Astana.
+- Athens
+- Beijing
+- Belgium
+- Brussels
+- Conakry
+- Denmark
+- Europe
+- Guinea
+- Iceland
+- Italy
+- Kazakhstan
+- London
+- Milan
+- Palazzo Pubblico
+- Poelkapelle
+- San Marino
+- Sweden
+- Tashkent
+- Ukraine
+- Waimes
+- White House
+people:
+- Alice Mina
+- António Costa
+- Donald Trump
+- Greta Thunberg
+- Ilham Aliyev
+- Kristrún Frostadóttir
+- Orr Yarkoni
+- Shavkat Mirziyoyev
+- Ursula von der Leyen
+- Vladimiro Selva
+- Volodymyr Zelenskyy
+organisations:
+- DOVO
+- Euronews
+- European Commission
+- European Council
+- Ministry of Social Affairs
+- Shell
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

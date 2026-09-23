@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Canada
+- Ottawa
+- US
+- United States of America
+- Washington
+- White House
+people:
+- Donald Trump
+- François-Philippe Champagne
+- Justin Trudeau
+- Mark Carney
+organisations:
+- '## Trump'
+- CUSMA
+- US Supreme Court
 ---
 
 ## "We will support our workers, our businesses and our industries with whatever it takes, for as long as it takes," Canadian Finance Minister François-Philippe Champagne said on Tuesday.

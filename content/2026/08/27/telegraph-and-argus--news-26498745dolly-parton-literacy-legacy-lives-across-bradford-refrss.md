@@ -13,6 +13,49 @@ categories:
 - Bradford
 - News & Politics
 - Family & Parenting
+locations:
+- Australia
+- BD17
+- Bradford
+- Canada
+- Holme Wood
+- Ireland
+- Keighley East
+- Keighley The Canterbury
+- Little Horton
+- Manningham
+- Roger Moody
+- Sevier County
+- Tennessee
+- UK
+- United States
+- West Yorkshire
+people:
+- Caroline Firth
+- Cllr Davies
+- Cllr Firth
+- Debbie Davies
+- Dolly Parton
+- Helen Jones
+- Jan Winter
+- Keighley
+- Ms Winter
+- Ms Winters
+- Peter Rabbit
+organisations:
+- Baildon The Baildon Imagination Library
+- Bradford’s Imagination Library
+- Canterbury Imagine
+- Caroline Firth
+- Conservative
+- 'Dolly Parton ## Imagination Library'
+- Dollywood Foundation
+- Driving Brighter Futures
+- Imagination Library
+- JCT600
+- Labour
+- Midland Road Nursery School
+- Strong Close Nursery School
 ---
 
 *(Image: Jan Winters)*

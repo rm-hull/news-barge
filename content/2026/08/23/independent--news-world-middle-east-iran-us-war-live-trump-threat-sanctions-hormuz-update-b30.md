@@ -11,6 +11,52 @@ image: https://static.independent.co.uk/2026/08/22/03/download..?trim=0,0,0,0&wi
 categories:
 - News & Politics
 - UK
+locations:
+- Afghanistan
+- China
+- Iran
+- Israel
+- Middle East
+- NYC
+- New York
+- Oman
+- Persian Gulf
+- Russia
+- Somalia
+- Strait of Hormuz
+- Tehran
+- U.S.
+- US
+- United States
+- Washington
+people:
+- '## Trump'
+- Ayatollah
+- Donald Trump
+- Esmaeil Baghaei
+- Jeannette Vargas
+- Joe Biden
+- Maira Butt
+- Mamdani
+- Marco Rubio
+- Masoud Pezeshkian
+- Mohsen Rezaei
+- Netanyahu
+- Pete Hegseth
+organisations:
+- Al-Jazeera
+- Centcom
+- Congress
+- FOX News
+- IRNA
+- Joint Staff
+- Kpler
+- Pentagon
+- The Post
+- The Washington Post
+- Trump
+- US Central Command
+- United Nations
 ---
 
 Tehran has cautioned its Gulf neighbours against joining Donald Trump’s “economic D-Day” sanctions after the US said it would look to hit Iran’s financial interests.

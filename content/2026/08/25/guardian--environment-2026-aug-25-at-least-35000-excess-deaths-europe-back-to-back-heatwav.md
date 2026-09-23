@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Belgium
+- Bulgaria
+- Carlos III
+- Denmark
+- England
+- Europe
+- France
+- Germany
+- Greece
+- Italy
+- Luxembourg
+- Netherlands
+- Poland
+- Romania
+- Spain
+- UK
+people:
+- Karl Lauterbach
+organisations:
+- Agence France-Presse
+- Covid-19
+- EU
+- European Commission
+- RKI
+- Robert Koch Institute
+- World Health Organization
 ---
 
 At least 35,000 more people died during Europe’s four record-breaking, back-to-back heatwaves this summer than would normally be expected, according to incomplete figures from barely half the continent.

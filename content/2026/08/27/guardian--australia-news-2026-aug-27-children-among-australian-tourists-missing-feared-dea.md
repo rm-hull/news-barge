@@ -12,6 +12,51 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Australia
+- Canada
+- China
+- Kailash Yatra
+- Kathmandu
+- Mount Kailash
+- NSW
+- Nepal
+- Nepal-Tibet
+- New South Wales
+- Rasuwa
+- Singapore
+- Syabrubesi
+- Sydney
+- Tibet
+- UK
+- US
+people:
+- Akash Venkatraman
+- Chitra Venkatraman
+- God
+- Penny Wong
+- Sadhguru
+- Sagar Pandey
+- Sai Paravastu
+- Srinivasan
+- Venkatraman Balakrishnan
+organisations:
+- Australia Bharatha Brahmin Samaj
+- Guardian Australia
+- Himalayan Glacier Adventures
+- Hindu Council of Australia
+- Isha Foundation
+- Kailash Journeys
+- Kathmandu Holiday Tours
+- Mental Health Foundation Australia
+- Nepal Tourism Board
+- Radio New Zealand
+- Reuters
+- Sadhguru
+- Travels
+- Trekkers’ Society
+- Trekking Agencies’ Association of Nepal
+- Vasan Srinivasan
 ---
 
 A New South Wales couple on a spiritual pilgrimage are among the first of 35 Australians identified as missing after flash flooding ravaged the Nepal-Tibet border.

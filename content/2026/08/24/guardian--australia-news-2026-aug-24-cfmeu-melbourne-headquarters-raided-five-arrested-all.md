@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Chirnside Park
+- Latrobe Valley
+- Ringwood
+- Westbury
+people:
+- Ben Carroll
+- Jacinta Allan
+- Jamie Walker
+- Michael Crosby
+organisations:
+- CFMEU
+- Construction, Forestry and Maritime Employees Union
+- Taskforce Hawk
 ---
 
 Two men have been charged and Victorian police have seized drugs, guns and cars linked to the Construction, Forestry and Maritime Employees Union (CFMEU) as part of an investigation into alleged corruption in the building industry.

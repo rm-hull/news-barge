@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- North East
+- UK
+people:
+- Kim McGuinness
+- Mike Herbert
+- Paul Butler
+- Stephen Ward
+organisations:
+- Darlington
+- EDI Working Group
+- Government’s Get Britain Working
+- InclusionWorks
+- Ingeus
+- NEAA
+- North East Automotive Alliance
+- North East MSA
+- North East Mayoral Strategic Authority
+- Vertu
 ---
 
 *(Image: Supplied)*

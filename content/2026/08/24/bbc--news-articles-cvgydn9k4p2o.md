@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Australia
+- Ballater House
+- England
+- Hillsborough
+- Leeds
+- NHS
+- Northern Ireland
+- Surrey
+- Wales
+- Woking
+people:
+- Alexia Durran
+- Caroline Topping
+- Daniel Lindsay
+- Emma Barnett
+- Georgia Richards
+- John Simpson
+- Kathryn Griffin
+- Laura Lindsay
+- Michael Buchanan
+- Sarah
+- Thomas Teague KC
+organisations:
+- BBC
+- Chelsea FC
+- Kings College London
+- Ministry of Justice
+- PFD
+- Prevention of Future Deaths
+- TV
 ---
 
 ![Michael Buchanan](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a7ef/live/0bc29ef0-9fbf-11f1-aed2-8d6da8d75094.png)

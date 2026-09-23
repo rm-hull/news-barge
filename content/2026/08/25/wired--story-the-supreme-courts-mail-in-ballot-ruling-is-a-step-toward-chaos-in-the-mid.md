@@ -13,6 +13,33 @@ categories:
 - Science
 - News & Politics
 - Society & Culture
+locations:
+- Boston
+- Federal
+- Florida
+- US
+- Washington
+people:
+- David Becker
+- Donald Trump
+- Ketanji Brown Jackson
+- Stuart Holmes
+organisations:
+- Center for Election Innovation and Research
+- Constitution
+- Department of Homeland Security
+- District of Columbia
+- Heritage Foundation
+- Issue One
+- Justice Department
+- Office of the Secretary of State
+- Supreme Court
+- The New York Times
+- Trump
+- US Postal Service
+- US Supreme Court
+- USPS
+- WIRED
 ---
 
 The US Supreme Court ruled on Monday that President Donald Trump’s executive order imposing severe restrictions on voting by mail ahead of November’s midterms can proceed. While a nationwide injunction preventing the US Postal Service from implementing the order remains in place, election officials and experts believe Monday’s ruling could still result in chaos and voters being disenfranchised.

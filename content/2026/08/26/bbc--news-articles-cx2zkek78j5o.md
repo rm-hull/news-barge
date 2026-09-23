@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Britain
+- China
+- Europe
+- Germany
+- Himalayas
+- Middlesbrough
+- Nepal
+- Nepal.
+- Tibet
+- UK
+- US
+people:
+- Andy Burnham
+- Dolly Parton
+- Valentina Foster
+organisations:
+- Budget
+- Burnham
+- Daily Express
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegraph
+- Duchess of Sussex
+- Financial Times
+- Guardian
+- Meta
+- Metro
+- Regal
+- Sun
 ---
 
 ![The headline on the front page of the Times reads: "Britons lost in Nepal flood."](https://ichef.bbci.co.uk/ace/standard/809/cpsprodpb/a2e8/live/f7a29300-a192-11f1-aed2-8d6da8d75094.jpg)

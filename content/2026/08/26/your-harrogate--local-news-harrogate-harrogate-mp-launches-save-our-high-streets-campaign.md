@@ -12,6 +12,20 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- Knaresborough
+- North Yorkshire
+people:
+- Tom Gordon
+organisations:
+- Harrogate
+- Knaresborough
+- Liberal Democrat
+- Liberal Democrats
+- Liberal Democrats’
+- National Insurance
+- North Yorkshire Council
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8edce742875df7af3.jpg) 

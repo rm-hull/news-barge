@@ -14,6 +14,38 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Thames Water
+- US
+people:
+- Adrian Montague
+- Andy Burnham
+- Bernadette Kelly
+- Cat Hobbs
+- Clive Selley
+- Emma Reynolds
+- Liz Barber
+- Mike McTighe
+- Russ Mould
+organisations:
+- AJ Bell
+- Akin Gump
+- Apollo Global Management
+- Department for Transport
+- Elliott Management
+- Farallon Capital Management
+- Guardian
+- KKR
+- London & Valley Water (L&VW
+- Ofwat
+- Openreach
+- Pallas Partners
+- SAR
+- Silver Point Capital
+- Thames Water
+- Thames’s
+- VW
+- Yorkshire Water
 ---
 
 The group of creditors pursuing a rescue bid for Thames Water have been accused of shuffling the deckchairs on the Titanic after proposing an overhaul of the stricken utility’s board.

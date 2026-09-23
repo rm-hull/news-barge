@@ -12,6 +12,14 @@ categories:
 - Local
 - Harrogate
 - Society & Culture
+locations:
+- Harrogate
+people: []
+organisations:
+- Bee Social
+- Community Group
+- Harrogate Bee Social
+- The Yorkshire Soap Company
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8f01383637885b69a.jpg) 

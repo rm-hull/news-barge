@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - Careers & Productivity
 - Family & Parenting
+locations: []
+people:
+- Mumbler
+- Sally Haslewood
+organisations:
+- Facebook
+- Harrogate Mumbler
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8c3e45ee273c9cc0b.jpg) 

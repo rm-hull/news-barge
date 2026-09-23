@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Illinois
+- Sangamon County
+people:
+- Daniel Fultz
+- Dawson Farley
+- Jesus
+- Sean Grayson
+- Sonya Massey
+organisations:
+- Illinois Prisoner Review Board
+- Justice Department
+- Sangamon County Sheriff’s Office
 ---
 
 Sean Grayson, a former Illinois sheriff’s deputy whose fatal shooting of Sonya Massey inside her home became a flashpoint over police use of force, died Sunday while serving a 20-year prison sentence.

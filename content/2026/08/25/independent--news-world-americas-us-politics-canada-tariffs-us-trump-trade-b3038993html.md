@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Canada
+- Great Lakes
+- Lake America
+- Lake Ontario
+- U.S.
+people:
+- Donald Trump
+- Doug Ford
+- François-Philippe Champagne
+- Mark Carney
+- Mélanie Joly
+- Rob Ford
+- Ronald Reagan
+- Truth
+organisations:
+- Associated Press
+- Ford
+- Industry of Canada
+- Trump
 ---
 
 Canada is rolling out a slate of retaliatory trade moves against the U.S. in response to Donald Trump’s latest tariffs after negotiations between the neighboring nations broke down in an escalating trade war.

@@ -10,6 +10,21 @@ image: https://cdn.mos.cms.futurecdn.net/QXbSYdwULWV3vFx6nPxYZg-1920-80.jpg
 categories:
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Beijing
+- China
+- Shanghai
+- Shenzhen
+- South Korea
+people:
+- Craig Hale
+- Wanting Zhao
+- Wood Mackenzie
+organisations:
+- Craig’s
+- Google News
+- TechRadar Pro
+- Wood Mackenzie
 ---
 
 ![Data Center](https://cdn.mos.cms.futurecdn.net/QXbSYdwULWV3vFx6nPxYZg.jpg) 

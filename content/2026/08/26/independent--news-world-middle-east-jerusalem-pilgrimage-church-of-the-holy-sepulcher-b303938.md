@@ -13,6 +13,29 @@ categories:
 - UK
 - History
 - Religion & Spirituality
+locations:
+- Brazil
+- Calvary
+- Church of the Holy Sepulcher
+- Edicule
+- Guinea-Bissau
+- Holy Land
+- Holy Sepulcher
+- Iran
+- Jerusalem
+- Jesus' tomb
+- Jesus’
+- Old City
+people:
+- Francesco Ielpo
+- Giuseppe Gaffurini
+- Jesus
+- Jesus'
+- Jesus’
+- Peter Stängle
+organisations:
+- Church of the Holy Sepulcher
+- Stängle
 ---
 
 The doors were pushed shut, the clanking bolts secured from the outside. Several clergy, pilgrims and one journalist — me — were locked for the night inside one of Christianity's holiest sites in Jerusalem.

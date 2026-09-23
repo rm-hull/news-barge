@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Cinder Track
+- Esk Valley Railway
+- Glen Esk
+- North York Moors
+- North York Moors National Park
+- River Esk
+- Ruswarp
+- Whitby
+people: []
+organisations:
+- NYC
+- North York Moors
+- North York Moors National Park Authority
+- Ruswarp Glamping Site Plan
 ---
 
 ## North York Moors could get first 'virtual' glamping site

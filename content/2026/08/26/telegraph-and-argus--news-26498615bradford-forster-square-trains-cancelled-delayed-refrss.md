@@ -12,6 +12,13 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford Forster Square
+- Shipley
+people:
+- Mike Simmonds
+organisations:
+- Northern
 ---
 
 *(Image: Mike Simmonds)*

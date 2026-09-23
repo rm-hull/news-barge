@@ -14,6 +14,34 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A-road
+- CLEVELAND
+- Foxrush Close
+- Micklow Close
+- Middlesbrough
+- Redcar
+- Teesside Coroner’s Court
+- Teesside Crown Court
+- Teesside Magistrates Court
+- Teesside Magistrates' Court
+people:
+- Cameron George
+- Cole Robert Worthy
+- Jacob Matusiak
+- Kai Beattie
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- Cleveland Police
+- PC Blades
+- PC Clough
+- VW
+- Volvo
 ---
 
 Five more people have been arrested and a second man charged as part of a major investigation into the events leading up to a horror crash on the A66.

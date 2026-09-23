@@ -12,6 +12,32 @@ image: https://static.independent.co.uk/2026/08/24/07/2291195686..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Alabama
+- America
+- Georgia
+- Sen
+- South Carolina
+- U.S.
+people:
+- Barry Moore
+- Brad Raffensperger
+- Darline Graham
+- Donald Trump
+- Jared Hudson
+- Joe Biden
+- Lindsey Graham
+- Penny Brown Reynolds
+- Ralph Norman
+- Tim Fleming
+- Tommy Tuberville
+- Vernon Jones
+organisations:
+- GOP
+- Navy
+- Senate
+- Trump
+- Truth Social
 ---
 
 President Donald Trump touted the power of his political endorsements as the midterm elections loom on the American political calendar.

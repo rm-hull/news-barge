@@ -14,6 +14,20 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- '## A Yorkshire'
+- Barnsley
+- Holmfirth
+- Jersey
+- Longley Farm
+- Tyers Hall Farm
+people:
+- Jimmy Dickinson
+organisations:
+- AHBD
+- Agriculture and Horticulture Development Board
+- Red Poll
+- Tyers Hall Farm
 ---
 
 # 'Seeing cows in fields will be rare' - Yorkshire farmer on drought following heatwaves

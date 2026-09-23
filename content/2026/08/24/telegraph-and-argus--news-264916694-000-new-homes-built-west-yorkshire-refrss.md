@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- West Yorkshire
+people:
+- Andy Burnham
+- Angela Rayner
+- Tracy Brabin
+organisations:
+- National Government
 ---
 
 *(Image: PA)*

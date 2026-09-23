@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Harrison
+- Kirklevington Detention Centre
+- Yarm
+people:
+- Andy Burnham
+- Douglas Harrison
+- Kirklevington
+- Steve Chattertron
+organisations:
+- CPS
+- Cleveland Police
+- Crown Prosecution Service
+- DCI
+- Home Office
+- Kirklevington
+- Ministry of Justice
+- Oakwood Solicitors
+- THE NORTHERN ECHO
+- The Northern Echo
 ---
 
 Police are awaiting a decision on whether to charge seven officers of a "torture camp" detention centre.

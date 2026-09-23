@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Fulford Place
+- Fulford Road
+- Heslington House
+- Hospital Fields Road
+- York
+people:
+- Taylor Wimpey
+- Taylor Woodrow
+organisations:
+- Building Council
+- City of York Council
+- North Yorkshire Fire and Rescue Service
 ---
 
 Works are planned to improve fire safety at a block of York flats more than 20 years after it was badly damaged by a blaze.

@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- California
+- Los Angeles
+- Mission Viejo
+- Providence Mission Hospital
+- Riviera Beach
+- San Clemente
+people:
+- Josh Collette
+- Rose Collette
+organisations:
+- CBS News
+- CBS News Los Angeles
+- GoFundMe
+- ICU
+- Instagram
+- KTLA
 ---
 
 A California surfer who dove into the ocean to save a kid caught in a riptide has been left paralyzed after hitting a wall of sand.

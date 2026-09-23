@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Bradford
+- Halifax
+- Leeds
+- New Bank
+- Prospect Street
+people:
+- Coun Hawkaluk
+- Coun Paul Hawkaluk
+- James Butterfield
+organisations:
+- Calderdale Council
 ---
 
 # Residents want to see a solution for road closed since landslide in 2023

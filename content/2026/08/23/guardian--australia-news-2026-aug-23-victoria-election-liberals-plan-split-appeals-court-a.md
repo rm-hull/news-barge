@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Victoria
+people:
+- Ben Carroll
+- Gemma Cafarella
+- Greg Barns
+- James Newbury
+- Jess Wilson
+- Susan Accary
+- Tom Ballantyne
+- Warren Pickering
+organisations:
+- Australian Lawyers Alliance
+- Coalition
+- Labor
+- Law Institute of Victoria
+- Liberal
+- Liberty Victoria
+- One Nation
 ---
 
 A radical overhaul of Victoria’s highest court, proposed by the Liberal party to increase sentences, has been criticised by legal and human rights groups who warn it would politicise the judiciary.

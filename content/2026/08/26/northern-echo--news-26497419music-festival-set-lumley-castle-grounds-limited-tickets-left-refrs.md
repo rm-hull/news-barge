@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - Arts & Culture
 - Sports
+locations:
+- Chester-le-Street
+- Lumley Castle
+people:
+- Alison Limerick
+- Ben Santiago
+- Danny Howard
+- Danny Rampling
+- Daz Flatman
+- Emma Harbs
+- Gabrielle
+- Jon Pleased Wimmin
+- Kate Bond
+- Lovely Laura
+- Marti Pellow
+- Neil Hargreaves
+- Paul Taylor
+- Richard Tulip
+- Sam Divine
+- Todd Terry
+organisations:
+- ATA Events
+- Eat Everything
+- Lawn Stage
+- Opulence
+- PBR Street Gang
+- Smoove and Turrell
+- Soulutions
+- The Beat Boutique
+- The Hutchinson Bros
+- The Missus
 ---
 
 *(Image: Google Maps)*

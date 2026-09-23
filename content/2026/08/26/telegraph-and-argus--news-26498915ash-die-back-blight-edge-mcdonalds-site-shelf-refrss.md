@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- Halifax Road
+- Shelf
+- Sun Wood Service Station
+- YOUR
+people: []
+organisations:
+- Branch Busters Tree Services Limited
+- Calderdale Council
+- McDonalds
+- McDonald’s
+- Planning Committee
+- Public Notice Portal
 ---
 
 ### What is the Public Notice Portal?

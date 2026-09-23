@@ -11,6 +11,24 @@ image: https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.j
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations: []
+people:
+- Andrew Barry
+- Andy Zeng
+- Fei-Fei Li
+- Pete Florence
+organisations:
+- 8VC
+- Bezos Expeditions
+- Boston Dynamics
+- Genesis AI
+- Google DeepMind
+- Nvidia
+- Physical Intelligence
+- Radical Ventures
+- Skild AI
+- Union Square Ventures
+- VCs
 ---
 
 Generalist, a robotics startup, is now valued at $3 billion after raising additional capital led by 8VC, according to two people with knowledge of the funding.

@@ -13,6 +13,11 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Alamy
+people:
+- Graham Low
+organisations: []
 ---
 
 *(Image: Alamy/PA)*

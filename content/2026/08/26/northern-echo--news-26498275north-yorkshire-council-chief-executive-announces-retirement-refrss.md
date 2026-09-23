@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- County Durham
+- NYC
+- North East
+- North Yorkshire
+- North of England
+- Scarborough
+- York
+people:
+- Carl Les
+- Richard Flinton
+organisations:
+- Brierley
+- Care Quality Commission
+- North Yorkshire Council
+- North Yorkshire County Council
+- North Yorkshire Local Resilience Forum
+- Ofsted
 ---
 
 *(Image: NYC)*

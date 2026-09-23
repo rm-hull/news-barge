@@ -13,6 +13,15 @@ categories:
 - UK
 - Society & Culture
 - Technology & Software
+locations:
+- Great Snoring
+- Little Snoring
+- Norfolk
+- Thursford Road
+people:
+- Craig Miller
+organisations:
+- Norfolk Police
 ---
 
 There was little sleep in the small Norfolk village of Little Snoring after residents were kept awake by a noisy illegal rave that was eventually shut down by police.

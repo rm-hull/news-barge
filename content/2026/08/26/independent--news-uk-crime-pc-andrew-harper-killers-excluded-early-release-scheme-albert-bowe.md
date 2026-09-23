@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Berkshire
+- Sulhamstead
+people:
+- Albert Bowers
+- Alex Norris
+- Andrew Harper
+- Andrew’s
+- Andy Burnham
+- Jessie Cole
+- Lissie Harper
+- Pc Andrew Harper
+- Pc Harper
+organisations:
+- Justice
+- Labour
+- The Telegraph
 ---
 
 Pc Andrew Harper’s killers will be excluded from the early release scheme and will remain in prison, reports say.

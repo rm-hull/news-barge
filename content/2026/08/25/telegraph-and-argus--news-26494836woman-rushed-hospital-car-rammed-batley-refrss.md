@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Batley
+- Broomsdale Road
+- Howley Walk
+- Soothill
+- West Yorkshire
+people: []
+organisations:
+- Pixabay)* Police
 ---
 
 *(Image: Pixabay)*

@@ -12,6 +12,16 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford
+- England
+- Getty
+- Wales
+- West Yorkshire
+people: []
+organisations:
+- Met Office
+- The Met Office
 ---
 
 *(Image: Getty)*

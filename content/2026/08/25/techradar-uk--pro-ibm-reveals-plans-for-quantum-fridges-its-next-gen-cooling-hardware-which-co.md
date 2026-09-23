@@ -11,6 +11,19 @@ image: https://cdn.mos.cms.futurecdn.net/Vnzhig9TKriKCaFGiYi92E-1920-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- Poughkeepsie
+people:
+- Rahim Amir
+organisations:
+- Condor
+- Google News
+- IBM Quantum Starling
+- PC
+- PCs
+- RGB
+- SFF
+- TechRadar Pro
 ---
 
 ![Quantum computing](https://cdn.mos.cms.futurecdn.net/Vnzhig9TKriKCaFGiYi92E.jpg) 

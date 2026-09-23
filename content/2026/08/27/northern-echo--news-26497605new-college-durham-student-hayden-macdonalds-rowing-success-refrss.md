@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Kingston Park Stadium
+- Nottingham Regatta
+people:
+- Charlotte Winnard
+- Hayden MacDonald
+organisations:
+- County Durham
+- New College Durham
+- Sunderland Rowing Club
 ---
 
 *(Image: Supplied)*

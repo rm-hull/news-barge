@@ -11,6 +11,40 @@ image: https://static.independent.co.uk/2026/08/27/10/57/01M11A7SNRP7FN50VBF9KVQ
 categories:
 - News & Politics
 - UK
+locations:
+- A66
+- Acklam
+- Birchington Avenue
+- Grangetown
+- Middlesbrough
+- Newcastle
+- Royal Victoria Infirmary
+- South Bank
+- Steele Crescent
+people:
+- Andy Burnham
+- Cole Worthy
+- Emily Harrison
+- Jacob Matusiak
+- Lisa Kirton
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Natalie McDonald
+- PC Matthew Blades
+- Passat
+- RIP Natalie
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+- Valentina”
+organisations:
+- BBC
+- Cleveland Police
+- RVI
+- South Bank
+- The Daily Mail
+- The Times
 ---
 
 Another house in Middlesbrough has suffered damage after being hit by a car in the latest incident in the town.

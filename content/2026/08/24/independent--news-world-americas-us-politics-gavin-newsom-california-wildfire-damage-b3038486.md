@@ -12,6 +12,25 @@ image: https://static.independent.co.uk/2026/08/21/17/2224745994..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Berkeley
+- Los Angeles
+- Northern California
+people:
+- '## Newsom'
+- Gavin Newsom
+- Joy Chen
+- Meredith Fowlie
+- Rex Frazier
+organisations:
+- Every Fire Survivor's Network
+- Legislature
+- PG&E
+- Pacific Gas & Electric
+- Personal Insurance Federation of California
+- San Diego Gas & Electric —
+- Southern California Edison
+- University of California
 ---
 
 A single question has framed the start and culmination of California Gov. Gavin Newsom's nearly eight years in office: who ought to pay for devastation caused when utility equipment triggers a wildfire?

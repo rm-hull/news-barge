@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Science
+locations:
+- Dubai
+- National Youth Band of Great Britain
+- Norton
+- Victoria
+people:
+- '## Swinton'
+- David
+- Janella Calvert
+- John
+- Norton
+- Vicki
+- Victoria
+- Victoria-Smith Collins
+organisations:
+- Against Breast Cancer
+- London Marathon
+- Royal Albert Hall
+- Swinton Band
 ---
 
 ## Swinton band woman skydives in memory of 'amazing best friend'

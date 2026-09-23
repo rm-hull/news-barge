@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Simon Francis
+organisations:
+- DWP State Pension
+- End Fuel Poverty Coalition
+- Government
+- Ofgem
+- Tesco
+- Waitrose and Home Bargains
 ---
 
 *(Image: Getty Images/iStockphoto)*

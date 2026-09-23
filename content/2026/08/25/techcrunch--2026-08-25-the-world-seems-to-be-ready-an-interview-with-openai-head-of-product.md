@@ -13,6 +13,21 @@ categories:
 - Technology & Software
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- AI
+- Wharton
+people:
+- Claude Cowork
+- Ethan Mollick
+- Greg Brockman
+- Luna
+- Sottiaux:** Yeah
+- Thibault Sottiaux
+organisations:
+- ChatGPT Voice
+- ChatGPT Work
+- Codex
+- OpenAI
 ---
 
 Users of OpenAI’s software engineering tool Codex might know Thibault Sottiaux as the guy who resets their token limits whenever the product hits a growth milestone. Now, OpenAI is trying to bring that dopamine hit to the rest of us with ChatGPT Work, a platform for white collar workers to leverage AI agents. I spoke to Sottiaux for our feature on the product and its challenges, but we wanted to share more of that conversation with our readers. Here’s a lightly edited and condensed version of our interview about winning over skeptics, discovery as a product design philosophy, and the cost of intelligence.

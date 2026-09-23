@@ -14,6 +14,29 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- '** County Durham'
+- Amazon
+- Darlington
+- Delta Quadrant
+- New York
+- Newcastle
+- North East
+- The Delta Quadrant
+people:
+- Adam Swainston
+- Alan Carr
+- Graham Norton
+- Michelle Visage
+- NICK STRASBURG
+organisations:
+- BBC Drag Race UK
+- BBC iPlayer
+- Delta Quadrant
+- RuPaul
+- The Alphabetti Theatre
+- The Delta Quadrant
+- The Globe
 ---
 
 Meet the Darlington drag queen ditching the boardroom for the main stage as they prepare to appear on the new season of RuPaul's Drag Race UK.

@@ -15,6 +15,20 @@ categories:
 - News & Politics
 - Health & Fitness
 - Science
+locations:
+- Bishop Auckland
+- County Durham
+- Crook
+people:
+- Martin Towers
+- Michael Humble
+- Miss Johnstone
+- Richard Clews
+- Sophie Johnstone
+organisations:
+- County Durham
+- Durham County Council
+- Durham Crown Court
 ---
 
 *(Image: Internet)*

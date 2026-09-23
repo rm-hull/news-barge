@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Technology & Software
 - Society & Culture
+locations:
+- America
+- US
+people:
+- Arturo Bejar
+- Mark Zuckerberg
+organisations:
+- COPPA
+- Dirksen Senate Office Building
+- Facebook
+- Instagram
+- Kali Hays
+- London HQ
+- Meta
+- Parent
+- Senate Judiciary Committee
+- Snapchat
+- TikTok
+- ex-Instagram
 ---
 
 'Finally, something was done' - Parent reacts to social media trial settlement

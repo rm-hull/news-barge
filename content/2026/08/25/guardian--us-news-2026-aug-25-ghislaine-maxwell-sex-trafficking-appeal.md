@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Bryan
+- Miami
+- New York
+- Texas
+- US
+people:
+- David Markus
+- Donald Trump
+- Ghislaine Maxwell
+- Jeffrey Epstein
+- Paul Engelmayer
+- Todd Blanche
+organisations:
+- Epstein
+- Trump
+- US House
 ---
 
 A federal judge has rejected Ghislaine Maxwell’s legal effort to throw out her 2021 conviction on sex-trafficking charges and 20-year prison sentence, calling her claims “demonstrably meritless, and generally based on speculation, distortions, and/or outright falsehoods”.

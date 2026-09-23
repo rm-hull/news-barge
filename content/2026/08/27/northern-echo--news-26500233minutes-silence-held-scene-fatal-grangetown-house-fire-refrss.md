@@ -14,6 +14,43 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- A66
+- Birchington Avenue
+- Grangetown
+- Middlesbrough
+- Newcastle
+- OWEN HUMPHRIES
+- Redcar
+- Royal Victoria Infirmary
+- Ruskin Avenue
+- STUART BOULTON
+- South Bank
+- Steele Crescent
+people:
+- Cole Robert Worthy
+- Emily Harrison
+- Jacob Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Natalie McDonald
+- Natasha Taylor
+- Passat
+- STUART BOULTON
+- Supt Harrison
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- Blades
+- Cleveland Local Policing
+- Cleveland Police
+- Independent Office for Police Conduct
+- NORTH NEWS)* Police
+- North News & Pictures Ltd
+- PCs Clough
+- THE NORTHERN ECHO
 ---
 
 A minute's silence has been held at the scene of a devastating house fire which killed a seven-year-old girl and her aunt.

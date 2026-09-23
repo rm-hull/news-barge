@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- County Durham
+- Middlesbrough
+- South Bank
+- South Bank Man
+people:
+- Cole Robert Worthy
+- Derrick Campbell
+- Jacob Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Passat
+- SARAH CALDECOTT
+- Theo Rae
+- Tom Clough
+organisations:
+- A1
+- A66
+- Cleveland Police
+- IOPC
+- Independent Office for Police Conduct
+- Passat
 ---
 
 *(Image: SARAH CALDECOTT)*

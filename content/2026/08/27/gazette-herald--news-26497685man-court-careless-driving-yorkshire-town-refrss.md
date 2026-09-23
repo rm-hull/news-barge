@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- North Yorkshire
+- Scott Road
+- Selby Leisure Centre
+- The Ruddings
+- York Crown Court
+people:
+- Alec Newman
+- Frank Dwyer
+- Sean Morris
+organisations:
+- Google
+- Mazda
 ---
 
 *(Image: Frank Dwyer)*

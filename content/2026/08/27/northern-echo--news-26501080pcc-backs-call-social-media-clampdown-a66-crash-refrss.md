@@ -13,6 +13,42 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Cleveland
+- County Durham
+- Darlington
+- Durham County
+- Lucy North
+- Middlesbrough
+- Newcastle
+- Scott Heppell
+- Teesside
+people:
+- Abbie Devaney
+- Andy Burnham
+- Andy McDonald
+- Andy Preston
+- Darryl Anderson
+- Ed Davey
+- Jonathan Brash
+- Joy Allen
+- Karlene Warner
+- Luke Myer
+- Zackary Blades
+organisations:
+- Cleveland Fire Brigade
+- Cleveland Police
+- Darlington Police and Crime Commissioner
+- Government
+- Labour
+- Liberal Democrat
+- Middlesbrough
+- NORTHERN ECHO
+- PA Wire
+- PCC
+- Peugeot
+- Reform
+- THE NORTHERN ECHO
 ---
 
 The County Durham PCC has backed Government calls for social media companies to remove videos showing dangerous driving, following the fatal A66 crash.

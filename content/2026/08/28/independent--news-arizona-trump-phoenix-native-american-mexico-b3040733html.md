@@ -14,6 +14,31 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Arizona
+- D.C.
+- Mexico
+- Roosevelt Reservation
+- Southwest
+- Tohono O’odham
+- Tohono O’odham Nation
+- U.S.
+- US
+- Washington
+people:
+- George W. Bush
+- Richard Leon
+- Rodney Scott
+organisations:
+- CBP
+- Customs and Border Protection
+- Department of Homeland Security
+- SLSCO Ltd.
+- Tohono O'odham Nation
+- Tohono O’odham
+- Tohono O’odham Nation
+- Trump
+- U.S. Customs and Border Protection
 ---
 
 The Trump administration has begun work on a project to build a stretch of border wall in southern Arizona along part of a Native American tribe’s reservation, pushing ahead with one of its signature projects despite protests from the tribe.

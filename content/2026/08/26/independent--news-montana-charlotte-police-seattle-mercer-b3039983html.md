@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- America
+- Billings
+- D.C.
+- Montana
+- Phoenix
+- Seattle
+- Washington
+- Yellowstone County
+people:
+- Adam Ghekiere
+- Alan Smith
+- Barb Smith
+- Billings
+- Brad Ireland
+- Charlotte Ghekiere
+- Chloe Ireland
+- Dana Smith
+- Evelyn Smith
+- Jennifer Mercer
+- Kent O’Donnell
+- Landon
+- Megan Ghekiere
+- Michael Biesecker
+- Mike Nelson
+- O'Donnell
+- Owen
+- Schuettler
+- ___ Johnson
+organisations:
+- Air Force
+- Associated Press
+- Boeing
+- Eastern Washington University
+- Report for America Statehouse News Initiative
+- The Associated Press
 ---
 
 Shovelful by shovelful, investigators sifted through the charred remnants of a Montana home where four generations of a family were killed as they gathered for Sunday dinner, searching for evidence that might help explain what happened and why.

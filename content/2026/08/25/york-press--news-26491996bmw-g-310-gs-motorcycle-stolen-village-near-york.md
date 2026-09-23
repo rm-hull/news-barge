@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Cowstail Lane
+- North Yorkshire
+- Tockwith
+people: []
+organisations:
+- CCTV
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

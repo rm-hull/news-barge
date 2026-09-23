@@ -11,6 +11,14 @@ image: https://cdn.mos.cms.futurecdn.net/gBHvjMq3eoTWomKgiiJi39-2560-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations: []
+people:
+- Ruth Hamilton
+organisations:
+- Google News
+- Ruth
+- TechRadar
+- Yamaha
 ---
 
 ![Three CD players](https://cdn.mos.cms.futurecdn.net/gBHvjMq3eoTWomKgiiJi39.jpg) 

@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- UK
+- US
+people:
+- Adam Fleming
+- Ben Andrews
+- Dominic Casciani
+- Eleanor Harrison-Dengate
+- Jack Maclaren
+- Jem Westgate
+- Miranda Slade
+- Sam Bonham
+- Shiler Mahmoudi
+- Zoe Kleinman
+organisations:
+- AI
+- BBC Sounds
+- Facebook
+- Home Office
+- Home and Legal
+- Instagram
+- Meta
+- News and Current Affairs
+- Newscast
+- WhatsApp
 ---
 
 ## Episode details

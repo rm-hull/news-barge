@@ -12,6 +12,28 @@ image: https://cdn.mos.cms.futurecdn.net/kW5bsKx4FR5T3m3PeYqGDL-1920-80.png
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Yuzu
+people:
+- EveryGameGuru
+- Hassam Nasir
+- Suyu
+- Tom
+- Tropic Haze
+- Yuzu Android
+organisations:
+- DMCA
+- EveryGameGuru
+- Get Tom's Hardware
+- GitHub
+- Google News
+- MonoNX
+- NicholasArvani
+- Nintendo
+- TPM
+- TorrentFreak
+- Tropic Haze
+- Yuzu
 ---
 
 ![Nintendo](https://cdn.mos.cms.futurecdn.net/kW5bsKx4FR5T3m3PeYqGDL.png) 

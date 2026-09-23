@@ -12,6 +12,10 @@ categories:
 - Technology & Software
 - Science
 - Personal Finance & Investing
+locations: []
+people: []
+organisations:
+- Woot
 ---
 
 I recently took over testing for our guide to the best gaming headsets, but before that, I purchased our top pick in March, with my own money, for $100. I've used it every day since. Right now, three of the four available color options are on sale. SteelSeries’ Arctis Nova 3P usually fluctuates between $110 and $90, so while $90 is still a decent price, snagging one of the less expensive color options, like white, makes the deal even better.

@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Europe
+- Liberia
+- Monrovia
+- South America
+- West Africa
+people:
+- Charles Taylor
+- Jewel Howard-Taylor
+organisations:
+- Roberts International Airport
 ---
 
 Liberia's former vice president was sent to prison on Tuesday to await trial on drug trafficking and other charges, after a court in the West African country denied her request to be released on humanitarian grounds for medical treatment.

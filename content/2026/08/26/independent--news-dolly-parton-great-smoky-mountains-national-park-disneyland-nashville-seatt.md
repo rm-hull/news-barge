@@ -11,6 +11,42 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Australia
+- Canada
+- Disneyland
+- Dollywood
+- East Tennessee
+- Gatlinburg
+- Great Smoky Mountains
+- Great Smoky Mountains National Park
+- Ireland
+- Nashville
+- Pigeon Forge
+- Providence
+- Rhode Island
+- Seattle
+- Sevier County
+- Sevierville
+- Smoky Mountains
+- United Kingdom
+- United States
+people:
+- Amanda Marr
+- Carla Potts
+- David Wear
+- Dolly Parton
+- Dollywood
+- James Gambrell
+- Ted Olson
+- ___ Kruesi
+organisations:
+- Buddy Program
+- Eastern Tennessee State University
+- Imagination Library
+- Knoxville News Sentinel
+- Sevierville Chamber of Commerce
+- The Dollywood Foundation
 ---
 
 Dolly Parton didn’t just sing lovingly about her Tennessee mountain home. She spent her life elevating an often-overlooked region to showcase what long inspired her music and sparked a tourism boom that forever changed those living against the backdrop of the Great Smoky Mountains.

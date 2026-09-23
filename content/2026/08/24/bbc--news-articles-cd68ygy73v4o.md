@@ -13,6 +13,43 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Aleppo
+- Damascus
+- Deraa
+- Mar Elias
+- Russia
+- Syria
+- US
+- United States
+people:
+- '** Ahmed Hassoun'
+- Ahmed Hassoun
+- Ahmed al-Sharaa
+- Aryan
+- Atef Najib
+- Bashar al-Assad
+- Donald Trump
+- Fakhr al-Din al-Aryan
+- Maher
+- Sana
+- Scott Bessent
+- Sharaa
+- Wassim Assad
+organisations:
+- Foreign Terrorist Organisation
+- Fourth Criminal Court
+- HTS
+- Hayat Tahrir al-Sham
+- Liwa al-Quds
+- Political Security
+- Sana
+- Specially Designated Global Terrorist
+- State Sponsor of Terrorism
+- Syrian TV
+- Treasury
+- al-Nusra Front
+- al-Qaeda
 ---
 
 ![File photo showing Syria's then grand mufti, Ahmed Hassoun, speaking inside the Cathedral of Mar Elias in the northern Syrian city of Aleppo on 20 July 2020](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/0585/live/b475b890-9fef-11f1-88a7-7565f9374fbb.jpg)

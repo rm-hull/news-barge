@@ -15,6 +15,34 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Europe
+- Hartlepool
+- Middle East
+- North East
+- Nova Pangaea
+- Teesside
+- UK
+- Wilton
+people:
+- Bobby Robson
+- Stewart Stewart
+organisations:
+- AI
+- Advanced Fuels Fund
+- British Airways
+- EU
+- IATA
+- International Air Transport Association
+- International Airlines Group
+- LanzaJet
+- Mercia Ventures
+- Northern Powerhouse Investment Fund
+- Nova Pangaea
+- Nova Pangaea Technologies
+- PXN Ventures
+- Project Speedbird
+- SAF
 ---
 
 *(Image: Supplied)*

@@ -14,6 +14,12 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Aomori Prefecture
+- Hirosaki Castle
+- Japan
+people: []
+organisations: []
 ---
 
 More than a thousand people gathered in Aomori Prefecture to pull Japan’s historic Hirosaki Castle back to its original site after years of renovation. The wooden keep, one of only twelve original castles left in the country, was moved in 2015 so engineers could repair the stone base beneath it. Now, teams of volunteers have guided it home.

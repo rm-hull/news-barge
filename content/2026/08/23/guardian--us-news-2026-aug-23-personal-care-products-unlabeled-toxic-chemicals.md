@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Science
 - Health & Fitness
+locations:
+- US
+people:
+- Jenna Hua
+- Kristen Knox
+organisations:
+- Amazon
+- Bayer
+- CVS
+- Environmental Protection Agency
+- Environmental Working Group
+- Million Marker
+- Old Spice
+- Pantene
+- Procter & Gamble
+- Silent Spring
+- Skin Deep
+- Target
 ---
 
 Common personal care products widely contain unlabeled toxic chemicals, results from a new peer-reviewed study suggest. The testing of more than 110 items ranging from shampoo to baby lotions found evidence of unlabeled toxic chemicals in about 85%.

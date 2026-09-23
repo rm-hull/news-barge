@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Relationships & Dating
+locations:
+- Brandon
+- County Durham
+- Cypress Court
+- Durham City
+- Newton Aycliffe Magistrates’ Court
+people:
+- Christopher Green
+organisations:
+- Crown Prosecution Service
+- GBH
+- Violent Durham
 ---
 
 *(Image: Getty Images/iStockphoto)*

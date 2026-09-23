@@ -13,6 +13,22 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations: []
+people:
+- Linus Torvalds
+- Mark Tyson
+- Tom
+organisations:
+- Freax
+- Google News
+- Linux
+- Linux’
+- MCUs
+- Microsoft
+- Tom's Hardware
+- Torvalds’
+- U.S. Court of Appeals
+- Xinuos’
 ---
 
 ![Linus Torvalds](https://cdn.mos.cms.futurecdn.net/Xd4pf4f9ejwiifZLQFFW8A.jpg) 

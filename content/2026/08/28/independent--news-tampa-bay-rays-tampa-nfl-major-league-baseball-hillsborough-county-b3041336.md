@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- City of Tampa
+- Hillsborough County
+- New York Yankees’
+- Raymond James Stadium
+- St. Petersburg
+- Tampa Bay
+- Trop
+- Tropicana Field
+- Yankees’ George M. Steinbrenner Field
+- hub
+people:
+- Ken Babby
+- Patrick Zalupski
+organisations:
+- Hillsborough College
+- Hillsborough County Commission
+- MLB
+- Major League Baseball
+- NFL
+- Rays’
+- Tampa Bay Buccaneers
+- Tampa Bay Rays
+- Tampa City Council
+- Trop
 ---
 
 The Tampa Bay Rays got county approval Friday on a financing plan that will allow them to build a new stadium, a day after city officials approved their part for the $2.3 billion ballpark project that will replace the domed Tropicana Field.

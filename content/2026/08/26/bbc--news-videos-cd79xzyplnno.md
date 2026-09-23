@@ -14,6 +14,17 @@ categories:
 - Film & TV
 - Music
 - Comedy & Entertainment
+locations:
+- Broadway
+- Muppet Treasure Island
+people:
+- Annie
+- Long John Silver
+- Pennywise
+- Stephen King
+- Tim Curry
+organisations:
+- Rocky Horror
 ---
 
 # The life of Rocky Horror star Tim Curry

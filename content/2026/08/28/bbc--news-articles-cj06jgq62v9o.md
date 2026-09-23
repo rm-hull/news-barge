@@ -11,6 +11,31 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e120/live/d58e6a
 categories:
 - UK
 - News & Politics
+locations:
+- England
+- Kent
+- Louisiana
+- New Orleans
+- US
+- United Kingdom
+- Washington
+people:
+- '** Yiannopoulos'
+- Breitbart
+- Donald Trump
+- Kanye West
+- Milo Yiannopoulos
+organisations:
+- BBC
+- Black Lives Matter
+- Breitbart News
+- CPAC
+- DHS
+- Department of Homeland Security
+- ICE
+- Immigration Judge
+- Immigration and Customs Enforcement
+- Yiannopoulos
 ---
 
 ![Yiannopoulos seen holding a news conference in 2017](https://ichef.bbci.co.uk/ace/standard/938/cpsprodpb/e120/live/d58e6a30-a31f-11f1-92a5-fbd6f5289e6b.jpg)

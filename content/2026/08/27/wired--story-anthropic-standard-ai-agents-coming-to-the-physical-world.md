@@ -11,6 +11,18 @@ image: https://media.wired.com/photos/6a906eb1933ab0cdef306043/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations: []
+people:
+- Alek Kemeny
+- Claude
+- Jonah Cool
+organisations:
+- AI
+- Anthropic
+- Discovery Loop
+- Edison Scientific
+- LILA Sciences
+- Periodic Labs
 ---
 
 Artificial intelligence agents might occasionally get confused and hack into other computers, but Anthropic thinks it has a way to unleash the little rascals into scientific labs and manufacturing facilities safely.

@@ -12,6 +12,40 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Asia
+- Australia
+- Belgium
+- China
+- Finland
+- France
+- Germany
+- Italy
+- Kathmandu
+- Kolkata
+- Mount Everest
+- Nepal
+- New Delhi
+- Norway
+- Nuwakot
+- Portugal
+- Rasuwa
+- Spain
+- Switzerland
+- The Netherlands
+- Tibet
+- UK
+- United States
+people:
+- Bishow Raj Adhikari
+organisations:
+- Department of Hydrology and Meteorology
+- EU
+- Foreign Ministry
+- Foreign Ministry Crisis Unit
+- Foreign Office
+- Nepal Tourism Board
+- Viaggiare Sicuri
 ---
 
 ## European governments have issued safety guidance and emergency contacts for travellers as flooding and landslides disrupt transport across parts of Nepal.

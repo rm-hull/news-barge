@@ -14,6 +14,37 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Britain
+- Kyiv
+- London
+- Moscow
+- Nazi Germany
+- Russia
+- UK
+- US
+- Ukraine
+people:
+- Andy Burnham
+- António Costa
+- Donald Trump
+- Emmanuel Macron
+- Friedrich Merz
+- Jared Kushner
+- Keith Kellogg
+- Kyiv
+- Luke Pollard
+- Mike Pence
+- Olena Zelenska
+- Steve Witkoff
+- Volodymyr Zelenskyy
+organisations:
+- Coalition of the Willing
+- EU
+- European Council
+- European Union
+- Kyiv
+- Trump
 ---
 
 ## European leaders joined Zelenskyy in Kyiv as Ukraine marked its fifth Independence Day since Russia launched its full-scale invasion in 2022. No delegates from the Trump administration were present as Witkoff and Kushner stayed away from ceremony.

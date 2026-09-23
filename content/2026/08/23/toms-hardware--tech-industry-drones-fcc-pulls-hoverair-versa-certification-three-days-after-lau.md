@@ -12,6 +12,30 @@ image: https://cdn.mos.cms.futurecdn.net/ZpExHbLD5manvAjc3XKnte-1920-80.png
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Berlin
+- U.S.
+- US
+people:
+- HoverAir
+- Luke James
+- Tom
+organisations:
+- DJI
+- DroneXL
+- FCC ID
+- Flight Kit
+- Get Tom's Hardware
+- Google News
+- HoverAir
+- ID 2AIDW-ZZ-H-1-006
+- IFA
+- Indiegogo
+- Shenzhen Zero Zero Infinity Technology
+- Telecommunications Certification Bodies
+- The Verge*
+- UAS
+- Versa
 ---
 
 ![HoverAir Versa](https://cdn.mos.cms.futurecdn.net/ZpExHbLD5manvAjc3XKnte.png) 

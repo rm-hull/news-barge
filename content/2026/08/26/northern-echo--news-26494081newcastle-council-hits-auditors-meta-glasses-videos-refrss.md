@@ -15,6 +15,22 @@ categories:
 - News & Politics
 - Film & TV
 - Technology & Software
+locations:
+- Cockfield
+- Newcastle
+- North East
+people: []
+organisations:
+- '## Council'
+- A66
+- Community Protection Notice
+- Community Protection Warning
+- NE1
+- NEWCASTLE CITY COUNCIL
+- Newcastle City Council
+- Northumbria Police
+- Police Federation
+- The King's Head
 ---
 
 *(Image: NEWCASTLE CITY COUNCIL)*

@@ -12,6 +12,24 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Harrogate
+- Retford
+- Wotton-under-Edge
+people:
+- A.F. Steadman
+- F. Steadman
+- Georgia Eckert
+- Leanne Nulty
+- Skandar
+organisations:
+- A.F
+- Imagined Things
+- Imagined Things Bookshop
+- Simon & Schuster
+- Simon & Schuster Children’s Books
+- The Cotswold Book Room
+- Wonderland Bookshop
 ---
 
 Harrogate bookshop, Imagined Things is one of three winners of a nationwide competition to find the independent book trade’s biggest champions of A.F. Steadman’s bestselling Skandar series, each winning a £1000 cash prize.

@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Democratic Republic of Congo
+- Ebola
+people:
+- Sarah Clayton-Fisher
+organisations:
+- British Red Cross
+- DRC Red Cross
+- Red Cross
+- Red Cross Red Crescent Movement
+- The Independent
 ---
 
 More than one hundred days after the outbreak was declared, Ebola has now claimed more than 2,500 lives across the Democratic Republic of Congo (DRC). Red Cross volunteers are doing all they can to fight this disease, with more than 900 volunteers reaching more than 100,000 people. Yet across communities, our volunteers find that not only are they fighting Ebola; they are also fighting misinformation.

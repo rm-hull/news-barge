@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- '#### Crash'
+- A1246
+- Holyrood Lane
+- Selby
+people: []
+organisations:
+- CCTV
+- North Yorkshire Police
 ---
 
 Police are investigating a fatal crash near Selby.

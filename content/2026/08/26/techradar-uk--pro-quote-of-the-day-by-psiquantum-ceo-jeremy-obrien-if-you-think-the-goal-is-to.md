@@ -13,6 +13,18 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Science
+locations: []
+people:
+- Jeremy O'Brien
+- Keumars Afifi-Sabet
+organisations:
+- ITPro
+- Keumars Afifi-Sabet
+- Live Science
+- PsiQuantum
+- QOTD
+- Tech Radar
+- TechRadar Pro
 ---
 
 ![Jeremy O'Brien](https://cdn.mos.cms.futurecdn.net/ozTBs4WCHtCAtyhnSskQ27.jpg) 

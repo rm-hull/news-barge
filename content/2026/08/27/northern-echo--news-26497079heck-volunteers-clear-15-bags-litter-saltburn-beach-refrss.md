@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- North East
+- North Yorkshire
+- Saltburn
+- Teesdale
+- Teesside
+people:
+- Becky Keeble
+- Heck
+organisations:
+- HECK!
+- Seaview Restaurant
+- The Seaview Restaurant
 ---
 
 Volunteers gathered along the North Yorkshire coast last week to join a community beach clean-up organised by a Yorkshire food company.

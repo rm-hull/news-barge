@@ -13,6 +13,35 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Bishopthorpe Palace
+- East Yorkshire
+- Hull
+- LNER Community Stadium
+- Market Weighton
+- Shiptonthorpe
+- York Minster and York Racecourse
+- York Racecourse
+people:
+- Danny Lawson
+- Geoff
+- Irene
+- Kevin Sinfield
+- Kris Brown
+- Lindsey
+- PA Wire
+- Paul Bradley
+- Richard Sellers
+- Rob Burrow
+- Skelton
+organisations:
+- Leeds Rhinos
+- MND
+- PA Wire
+- Rugby League
+- The Press Camera Club
+- University of York
+- York Knights
 ---
 
 *(Image: Danny Lawson/PA Wire)*

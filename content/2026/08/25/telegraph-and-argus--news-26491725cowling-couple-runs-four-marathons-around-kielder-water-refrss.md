@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Health & Fitness
 - Sports
+locations:
+- Afghanistan
+- Bellingham
+- Cowling
+- Hungary
+- Kielder Water
+- Leeds
+- North Yorkshire
+- Northumberland
+people:
+- Stephen Docza
+- Terri Dozca
+organisations:
+- British Army
+- CALM
+- Kielder Water
+- UGC
 ---
 
 A couple ran 106 gruelling miles to raise money for a mental health charity.

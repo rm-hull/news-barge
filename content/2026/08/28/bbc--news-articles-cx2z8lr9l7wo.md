@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Avon
+- Birkenhead
+- Bradford
+- China
+- Greater Manchester
+- Hither Green
+- London
+- Merseyside
+- UK
+- West Sussex
+- West Yorkshire
+people:
+- Anita Bhardwaj
+- Jahmell Campbell
+- Luke Albiston-O'Donnell
+- Mohsin Janjua
+- Pam Oparaocha
+- Simon Jones
+- Steve Garidis
+organisations:
+- Association of Cycle Traders
+- BBC Verify
+- Bicycle Association
+- Freedom of Information
+- Jahmell Campbell
+- London Fire Brigade
+- Office for Product and Safety Standards
+- University of Warwick
 ---
 
 ![A split image imposed over the BBC Verify colours and branding shows an e-scooter on fire in a hallway in a home. Flames are emerging from the rear of the scooter in the first image, before engulfing the entire frame in the second.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/4a2d/live/1ff5d2e0-a20b-11f1-a291-b542ee92de7c.png)

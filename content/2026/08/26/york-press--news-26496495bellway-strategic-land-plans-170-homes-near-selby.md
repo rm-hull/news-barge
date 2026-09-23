@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- A63
+- Bellway
+- Brayton
+- Mill Lane
+- NORTH Yorkshire
+- North Yorkshire
+- Selby
+- St Wilfrid's Close
+- YOUR
+people:
+- Alex Bowling
+organisations:
+- Bellway Strategic Land
+- Government
+- North Yorkshire Council
+- Public Notice Portal
+- The Press
 ---
 
 ## Up to 170 new homes could be built in village near North Yorkshire town

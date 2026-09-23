@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Atlanta
+- Canada
+- Chicago
+- Georgia Aquarium
+- Marineland
+- Oceanografic Valencia
+- Ontario
+- San Antonio
+- San Diego
+- SeaWorld
+- Shedd Aquarium
+- Spain
+people:
+- Peekachu
+organisations:
+- Marineland
+- Shedd Aquarium
+- The Associated Press
 ---
 
 A beluga whale has died just days after being transported hundreds of miles to a Chicago aquarium from a closed park in Ontario, following efforts to rehome Canada’s final captive whales.

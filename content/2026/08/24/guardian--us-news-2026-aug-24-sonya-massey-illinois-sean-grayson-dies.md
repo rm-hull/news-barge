@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Illinois
+- Sangamon
+- Springfield
+- US
+people:
+- Antonio Romanucci
+- Ben Crump
+- Daniel Fultz
+- JB Pritzker
+- Jesus
+- John Milhiser
+- Mary Beth Rodgers
+- Sean Grayson
+- Sonya Massey
+organisations:
+- CBS News
+- NBC News
+- The Associated Press
 ---
 
 The former Illinois sheriff’s deputy convicted of fatally shooting Sonya Massey in her home after she reported a possible prowler to 911, has died, his attorney said Sunday.

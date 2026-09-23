@@ -14,6 +14,75 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Bengay
+- California
+- Charlotte
+- China
+- Denver
+- Marriott
+- Miami
+- New Jersey
+- New Orleans
+- New York
+- New York City
+- North Carolina
+- Ohio State
+- Sacramento
+- San Diego
+- San Diego Padres
+- Stockton
+- Tampa
+- U.S.
+- Washington
+people:
+- Bernie Wilson
+- Brett Martel
+- Buddy Hield
+- Drew Brees
+- Dwyane Wade
+- Eric Grant
+- Erick Mullen
+- Fernando Tatis Jr
+- Goo
+- James Rafalski
+- Joan Rubinger
+- Kelly Davis
+- Kobe Bryant
+- Manny Machado
+- Michael Reo
+- Pells
+- Rob Maaddi
+- Saquon Barkley
+- Thomas Davis
+- ___ Goodman
+organisations:
+- AP
+- All Pro Sports Medicine
+- All-Pro Carolina Panthers
+- Associated Press
+- Atlanta Hawks
+- California Board of Registered Nursing
+- DEA
+- Indiana University
+- Instagram
+- Justice Department
+- LinkedIn
+- Loyal to Brothers
+- MLB
+- Major League Baseball
+- McDonald’s
+- NBA
+- NFL Players Association
+- Ohio State University
+- Players Association
+- Rubinger
+- Syracuse University
+- The Associated Press
+- The George Washington University
+- U.S. Drug Enforcement Administration
+- WNBA
+- Washington Commanders
 ---
 
 Joan Rubinger overcame a catastrophic biking accident that left her paralyzed to become an influential pain-relief specialist helping top-tier athletes get back on the field after acute and chronic injuries.

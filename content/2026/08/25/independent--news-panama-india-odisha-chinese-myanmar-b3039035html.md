@@ -14,6 +14,17 @@ categories:
 - UK
 - Travel
 - Sports
+locations:
+- Bay of Bengal
+- China
+- India
+- Myanmar
+- Odisha
+- Paradip
+people: []
+organisations:
+- Indian Coast Guard
+- Indian Navy
 ---
 
 Rescuers searching for 22 missing sailors have found no trace of their Panama-flagged cargo ship after the vessel sank in the Bay of Bengal last week, the Indian Coast Guard said Tuesday.

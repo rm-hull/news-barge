@@ -13,6 +13,26 @@ categories:
 - York
 - Video Gaming
 - Technology & Software
+locations:
+- Clawbuster
+- Folsom Prison
+- Nolimit City
+people: []
+organisations:
+- Astro Jewels
+- Avalanche
+- Bounty Cove
+- Burning Coins
+- Chicken Fire
+- Coin of Lightning
+- Golden Mine
+- Lucky Hercules
+- Oneway Consultation Ltd
+- RNG
+- RTP
+- SlotCatalog
+- SlotRank
+- Viva Lock Vegas
 ---
 
 In association with

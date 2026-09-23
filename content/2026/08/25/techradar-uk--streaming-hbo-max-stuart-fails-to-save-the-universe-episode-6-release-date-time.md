@@ -12,6 +12,31 @@ image: https://cdn.mos.cms.futurecdn.net/RWzjP57aJ4CGc6xQDh2ptB-1920-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- Australia
+- Canada
+- India
+- New Zealand
+- SGT
+- Singapore
+- UK
+- US
+- Virgin River
+people:
+- Denise
+- George Cooper Sr.
+- Kevin Sussman
+- Stuart Fails
+organisations:
+- Google News
+- Hallmark
+- Jasmine
+- McDonald's
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Kevin Sussman as Stuart](https://cdn.mos.cms.futurecdn.net/RWzjP57aJ4CGc6xQDh2ptB.jpg) 

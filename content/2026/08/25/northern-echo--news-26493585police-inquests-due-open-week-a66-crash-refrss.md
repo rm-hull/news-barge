@@ -15,6 +15,29 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- CLEVELAND
+- Middlesbrough
+- South Bank
+- Teesside Coroner’s Court
+people:
+- Cole Robert Worthy
+- Jacob Matusiak
+- Jakub Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- PC Blades’
+- PC Clough
+- SARAH CALDECOTT
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- Civil Nuclear Constabulary
+- Cleveland Police Federation
+- PC Blades
+- PC Clough
 ---
 
 Inquests will be opened into the deaths of two police officers and one of the five people killed in the A66 crash this week.

@@ -11,6 +11,27 @@ image: https://static.independent.co.uk/2026/08/22/16/download.-1.?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Middle East
+- U.S.
+- Washington, D.C.
+people:
+- Abraham Lincoln
+- Erik Slavin
+- Lara Korte
+- Max Lederer
+- Pete Hegseth
+organisations:
+- CBS News
+- Defense Department
+- Democracy Defenders Fund
+- Department of Defense
+- Lawyers for Good Government, Government Accountability Project
+- Pentagon
+- Stars and Stripes
+- The Associated Press
+- Trump
+- Yale Law School
 ---
 
 Three staff members from the military publication Stars and Stripes have launched a legal challenge over their termination by the Pentagon, accusing the Trump administration of breaching their First Amendment rights to oppose state interference in their reporting.

@@ -13,6 +13,31 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Baildon Moor
+- Bradford
+- Brussels
+- Centenary Square
+- Copenhagen
+- Grand-Place
+- Helsinki
+- Ilkley Moor
+- Marseille
+- UK
+- Yorkshire
+people:
+- Alex Wood
+- Jane Earnshaw
+- Pierre Sauvageot
+- Shiraaz Ali
+organisations:
+- Bradford City of Culture
+- Bradford Culture Company
+- Bradford Pennine Gateway National Nature Reserve
+- Brussels’ Flower Carpet
+- Flower Carpet
+- Harmonic Fields
+- The Yorkshire Post
 ---
 
 # Brussels’ Flower Carpet coming to Yorkshire next month

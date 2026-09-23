@@ -12,6 +12,59 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- AI
+- England
+- Frankfurt
+- Germany
+- Iran
+- London
+- Paris
+- Pearson
+- UK
+- US
+- Wales
+- Wall Street
+- Weir
+people:
+- Andrew Hollenhorst
+- Dave Lewis
+- Jane Sparrow
+- Jerry Schurder
+- Kazem Gharibabadi
+- Kevin Warsh
+- Scott Bessent
+- Susannah Streeter
+- Tom Stevenson
+organisations:
+- AIM All-Share
+- Airtel Africa
+- Alliance News
+- BP
+- Babcock International
+- Chesnara
+- Citigroup
+- Conference Board
+- Diageo and Diploma
+- Federal Reserve
+- Fidelity International
+- GSK
+- Guinness
+- Ifo
+- JPMorgan
+- Leeds
+- London Stock Exchange Group
+- Melrose Industries
+- Mistral Data
+- Nvidia
+- Polar Capital Technology Trust
+- Premier Inn
+- RBC Capital Markets
+- Reserve Bank of Australia
+- Tracsis
+- US Treasury
+- Wealth Club
+- Whitbread
 ---
 
 The FTSE 100 closed higher in London on Monday, outperforming European peers, as oil prices edged lower and investors looked ahead to key events in the US later this week.

@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- DC
+- UK
+- US
+people:
+- Brian L Schwalb
+- Chris Sherwood
+- Mark Zuckerberg
+- Meta
+organisations:
+- Big Tech
+- Childline
+- District of Columbia
+- Facebook
+- Instagram
+- Meta
+- NSPCC
+- National Society for the Prevention of Cruelty to Children
+- Snapchat
+- TikTok
+- YouTube
 ---
 
 Meta will pay up to $17bn and make sweeping changes to Instagram and Facebook to settle a major US court case.

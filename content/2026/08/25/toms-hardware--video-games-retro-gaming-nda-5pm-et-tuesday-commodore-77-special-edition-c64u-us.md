@@ -12,6 +12,29 @@ image: https://cdn.mos.cms.futurecdn.net/9KTZb9ty7fkrE9HY3UHBjC-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Night City
+people:
+- Commodore
+- LukHash
+- Mark Tyson
+- Michał Nowakowski
+- Peri Fractic
+- Tom
+organisations:
+- Alien Breed
+- Amiga
+- AntstreamArcade
+- Arise
+- C64
+- C64U
+- C77
+- CD Projekt Red
+- Commodore
+- FPGA
+- Get Tom's Hardware
+- Google News
+- Tom's Hardware
 ---
 
 ![The Commodore 77](https://cdn.mos.cms.futurecdn.net/9KTZb9ty7fkrE9HY3UHBjC.jpg) 

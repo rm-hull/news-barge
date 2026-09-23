@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Acomb
+- Bradford
+- Kirkstall Road
+- Leeds
+- Viking Road
+people:
+- Lee Jefferson
+organisations: []
 ---
 
 *(Image: Newsquest)*

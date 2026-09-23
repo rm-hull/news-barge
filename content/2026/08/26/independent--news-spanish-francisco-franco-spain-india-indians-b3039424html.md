@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- Amsterdam
+- Buñol
+- Florida
+- Hyderabad
+- India
+- London
+- Mumbai
+- Spain
+- Sutamarchán
+people:
+- Francisco Franco
+- Romail Khokhar
+organisations:
+- EFE
+- La Tomatina
 ---
 
 Thousands of revelers descended on Buñol on Wednesday for the annual La Tomatina food fight, where they were set to paint the small Spanish town red with up to 165 tons of overripe tomatoes.

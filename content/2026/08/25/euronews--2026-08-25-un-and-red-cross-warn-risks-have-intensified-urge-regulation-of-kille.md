@@ -12,6 +12,17 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Middle East
+- Ukraine
+people:
+- António Guterres
+- Mirjana Spoljaric Egger
+organisations:
+- International Committee of the Red Cross
+- Red Cross
+- UN
+- United Nations
 ---
 
 ## Lethal autonomous weapon systems are generally understood as weapon systems that select targets and apply force without human intervention.

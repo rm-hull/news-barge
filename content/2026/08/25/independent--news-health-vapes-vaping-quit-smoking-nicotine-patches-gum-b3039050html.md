@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- UK
+- US
+people:
+- Alizee Froguel
+- Jamie Hartmann-Boyce
+- Nicola Lindson
+organisations:
+- Cancer Research UK
+- Cochrane Review
+- MHRA
+- University of Massachusetts Amherst
+- University of Oxford
 ---
 
 Vapes offer a "proven and viable option for people wishing to quit traditional cigarettes", experts have said.

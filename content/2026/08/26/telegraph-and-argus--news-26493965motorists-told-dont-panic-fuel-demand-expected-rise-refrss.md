@@ -13,6 +13,11 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Automotive
+locations: []
+people:
+- Matt Crole-Rees
+organisations:
+- Confused.com
 ---
 
 *(Image: Archive)*

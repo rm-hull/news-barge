@@ -14,6 +14,39 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- A66
+- Middlesbrough
+- South Bank
+- Teesside
+people:
+- Cole Robert Worthy
+- Jacob Matusiak
+- Jakub Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Paul Williams
+- Pc Blades
+- Pc Blades’
+- Pc Clough
+- Pc Tom Clough
+- Stuart Boulton
+- Theo Rae
+- Wayne Fox
+organisations:
+- A66
+- BBC Breakfast
+- Civil Nuclear Constabulary
+- Cleveland Police
+- Cleveland Police Federation
+- Independent Office for Police Conduct
+- Passat
+- Pc Blades
+- Police Federation of England and Wales
+- TikTok
+- Volkswagen
+- Volvo
 ---
 
 Young people are “baiting police officers” with dangerous driving, the Police Federation of England and Wales said in the wake of the collision in which seven people, including two police officers, were killed.

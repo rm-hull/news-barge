@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Borneo
+- Brunei
+- Indonesia
+- Jakarta
+- Malaysia
+- Sarawak
+- South Kalimantan
+- South Sumatra
+- West, Central
+people:
+- Irhami
+- Mohammad Irhamni
+- Suharyanto
+organisations:
+- BNPB
+- Environment Ministry
+- National Disaster Management Agency
+- National Police’s Criminal Investigation Agency
 ---
 
 Indonesian authorities arrested 72 people suspected of starting some of the forest and peatland fires as huge blazes in central and west Indonesia triggered choking haze.

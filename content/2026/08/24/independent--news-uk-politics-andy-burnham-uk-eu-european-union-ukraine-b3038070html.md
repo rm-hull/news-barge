@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Britain
+- Downing Street
+- Europe
+- Kyiv
+- Luxembourg
+- Makerfield
+- UK
+- Ukraine
+people:
+- '## Burnham'
+- Andy Burnham
+- Antonio Costa
+- David Cameron
+- Keir Starmer
+- Luc Frieden
+- Nick Boles
+- Tony Blair
+organisations:
+- Brexit
+- Coalition of the Willing
+- EU
+- European Council
+- European Council Antonio Costa
+- European Union
+- Frontier Economics
+- Labour
+- Tory
 ---
 
 Andy Burnham has suggested that Britain plans to take a "bolder" approach towards forging closer relations with the European Union.

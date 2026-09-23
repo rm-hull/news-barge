@@ -13,6 +13,16 @@ image: https://static.independent.co.uk/2026/08/25/11/Hungary_COVID_Ventilators_
 categories:
 - News & Politics
 - UK
+locations:
+- China
+- Hungary
+people:
+- Anita Orbán
+- Péter Szijjártó
+- Viktor Orbán
+organisations:
+- BYD
+- Facebook
 ---
 
 Hungary's foreign ministry has filed a criminal complaint with prosecutors over what it says was possible fraud related to the previous government's purchase of ventilators worth some $965 million during the COVID-19 pandemic, Foreign Minister Anita Orbán said Tuesday.

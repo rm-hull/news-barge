@@ -13,6 +13,22 @@ categories:
 - Technology & Software
 - Science
 - Health & Fitness
+locations:
+- Scotland
+- United Arab Emirates
+people:
+- Lucy Semerjian
+- Maria Abi Hanna
+- Michael Mascha
+- Nidia Rodriguez-Sanchez
+organisations:
+- ANSES
+- FineWaters
+- Food Label Maker
+- France’s Agency for Food, Environmental and Occupational Health and Safety
+- Svalbarði Polar Iceberg Water
+- University of Sharjah
+- University of Stirling
 ---
 
 Water is supposed to be the simplest thing we consume. The premium bottled water industry has transformed it into something that requires a backstory.

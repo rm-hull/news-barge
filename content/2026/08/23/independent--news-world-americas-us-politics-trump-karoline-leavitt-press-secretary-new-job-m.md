@@ -11,6 +11,34 @@ image: https://static.independent.co.uk/2026/08/17/18/2026-08-14T173500Z_1029957
 categories:
 - News & Politics
 - UK
+locations:
+- South Carolina
+- White House
+people:
+- Alina Habba
+- Anna Kelly
+- Darline Graham
+- Donald Trump
+- Karoline Leavitt
+- Katie Miller
+- Kayleigh McEnany
+- Margo Martin
+- Maybe Margo
+- Sarah Huckabee Sanders
+- Scott Jennings
+- Sean Spicer
+- Stephanie Grisham
+- Stephen Miller
+organisations:
+- Air Force One
+- CNN
+- Fox News
+- MAGA Inc
+- MAGA Inc.
+- PAC
+- The Independent
+- Trump
+- Truth Social
 ---
 
 Outgoing White House Press Secretary Karoline Leavitt, 28, has said she is leaving her job at the White House at the end of the month to spend more time with her family. She told reporters Friday she will join MAGA Inc., the super PAC that supports the president, and also become one of Trump’s top outside advisers.

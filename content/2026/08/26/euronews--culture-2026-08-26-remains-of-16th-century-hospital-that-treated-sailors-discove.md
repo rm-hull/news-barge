@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - History
 - Health & Fitness
+locations:
+- Americas
+- Church del Espíritu Santo
+- Pacific
+- Peru
+- Santa Rosa de Lima
+- St. Peter's Basilica
+- Vatican
+people:
+- Bernabé Cobo
+- Ernesto Olazo
+- Keiko Fujimori
+- Miguel de Acosta
+- Pope Leo XIV
+organisations:
+- Foreign Ministry
+- Nazca Lines
+- The History of the Founding of Lima
 ---
 
 ## Archealogists uncovered a colonial-era hospital and adjacent church in Lima that treated sick sailors. According to experts, the hospital dates back to the 1570s and operated until shortly before 1821.

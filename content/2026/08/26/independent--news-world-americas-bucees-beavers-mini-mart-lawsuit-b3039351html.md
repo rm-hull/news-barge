@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Beavercreek
+- Dayton
+- Dayton-area
+- Huber Heights
+- Mickey Mart
+- Ohio
+- Upper Arlington
+people:
+- Brutus Buckeye
+- Buc-ee
+- John Oliver
+- Mickey Mart
+- Mike DeWine
+- Vic Boparai
+organisations:
+- Beaver’s Mini Mart
+- Buc-ee's
+- Buc-ee’s
+- Bucky the Beaver
+- City Council
+- Hanes Road Carryout
+- Hope & Love
+- Lego
+- Mini Mart
+- Ohio State University
+- The Original Goodie Shop
 ---
 
 Buc-ee’s says it is simply protecting its trademark.

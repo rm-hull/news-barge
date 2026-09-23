@@ -14,6 +14,27 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Queen's Head
+- Queen’s Head
+- Rockingham Road
+- Sunnybrow
+- Willington
+people:
+- Angela Greensmith
+- Crook
+- Debbie Harry
+- Frank Sinatra
+- Jennifer Bolton
+- Jolyon Perks
+- Kynren
+- Martin Greensmith
+- Shevels
+- Steven Shevels'
+organisations:
+- Blondie
+- THE NORTHERN ECHO
+- Teesside Crown Court
 ---
 
 A man who drunkenly claimed to be Frank Sinatra's lovechild told his mum he was "gutted" after killing a man he'd just learnt was actually his dad, a trial heard.

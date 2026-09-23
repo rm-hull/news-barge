@@ -11,6 +11,29 @@ image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1074/live/aaa41
 categories:
 - UK
 - News & Politics
+locations:
+- England
+- France
+- Scotland
+people:
+- Aleksander Ceferin
+- David James
+- Emmanuel Petit
+- Gianni Infantino
+- Lucy Bronze
+- Mikael Silvestre
+- Samuel Eto'o
+organisations:
+- Barcelona
+- CNN
+- Cameroonian Football Association
+- FFE
+- Fifa Forward Enterprise
+- Infantino
+- Manchester United
+- Players' Voice Panel
+- Uefa
+- Wales
 ---
 
 ![Gianni Infantino, wearing a dark suit and tie, looks to his right](https://ichef.bbci.co.uk/ace/standard/820/cpsprodpb/1074/live/aaa414a0-a04a-11f1-aacc-21a045d9c0c6.jpg)

@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Day Brook
+- East Midlands
+- England
+- Leicester City
+- Loughborough
+- North West
+- Nottinghamshire
+- River Leen
+- River Maun
+- River Soar
+- River Trent Tributaries
+- South East
+- South West
+- Tottle Brook
+- UK
+- Wales
+people:
+- Steve Willington
+organisations:
+- Environment Agency
+- Met Office
+- Wales
 ---
 
 Thunderstorm warnings have come into place across parts of the country as the Met Office warns of flooding and disruption.

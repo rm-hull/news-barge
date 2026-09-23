@@ -14,6 +14,19 @@ categories:
 - Technology & Software
 - Video Gaming
 - Business & Entrepreneurship
+locations:
+- Alabama
+- Georgia
+people:
+- Bernhard von Stengel
+- Eric Harshbarger
+- Paul Meyer
+- Robert Ford
+- von Stengel
+organisations:
+- Auburn University
+- Dalton State College
+- London School of Economics and Political Science
 ---
 
 ![Mathematical dice](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309038172.jpg?w=840)

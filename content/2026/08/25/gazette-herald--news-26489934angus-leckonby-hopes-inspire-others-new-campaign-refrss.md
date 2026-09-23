@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Birmingham
+- Chile
+- Driffield
+- East Yorkshire
+- England
+- Scotland
+- Wales
+people:
+- Alex Rae
+- Angus Leckonby
+- Dusan Stojankic
+- Ellie-Bea Thomas
+- Laura Baxter MBE
+- Taylor Mackenzie
+organisations:
+- Coca-Cola GB
+- Guinness World Records
+- Olympics GB
+- Special Olympics GB
+- Special Olympics Great Britain
 ---
 
 *(Image: Supplied)*

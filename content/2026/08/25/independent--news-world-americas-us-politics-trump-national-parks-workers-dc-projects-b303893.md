@@ -13,6 +13,36 @@ image: https://static.independent.co.uk/2026/08/25/14/47/GettyImages-2282945980.
 categories:
 - News & Politics
 - UK
+locations:
+- Alaska
+- America
+- Atlantic
+- California
+- East Potomac
+- Make D.C
+- Potomac River
+- Washington
+- Washington, D.C.
+- White House
+people:
+- Donald J. Trump
+- Donald Trump
+- Doug Burgum
+organisations:
+- Associated Press
+- CNN
+- DC
+- Department of the Interior
+- Elon Musk
+- Interior Department
+- Lincoln Memorial Reflecting Pool
+- NPS
+- National Park Service
+- Park Service
+- Parks Service
+- The Independent
+- Trump
+- U.S. Park Police
 ---
 
 National Park Service emergency responders have been recruited to work on President Donald Trump’s beautification projects in Washington, D.C., including fountain renovations and repairs to the Lincoln Memorial Reflecting Pool, according to a new report.

@@ -11,6 +11,25 @@ image: https://i.guim.co.uk/img/media/d5496efd69b2e06965e8c0334ec71d92c05c9ed6/1
 categories:
 - UK
 - News & Politics
+locations:
+- Rwanda
+- Sunak
+people:
+- Anthony Seldon
+- Boris Johnson
+- Danny Kruger
+- John Major
+- Kemi Badenoch
+- Liz Truss
+- Penny Mordaunt
+- Rishi Sunak
+- Robert Jenrick
+organisations:
+- Commons
+- Conservative
+- Independent
+- Reform
+- Tory
 ---
 
 Kemi Badenoch plotted with fellow Conservative cabinet ministers to remove Rishi Sunak as prime minister months before the general election, it has been claimed.

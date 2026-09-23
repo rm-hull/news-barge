@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Westminster
+people:
+- Andy Burnham
+- Anneliese Dodds
+- Carol Vorderman
+- Makerfield
+- Shaun Bowler
+- Stella Creasy
+organisations:
+- Greenpeace
+- Guardian
+- Labour
+- Spotlight on Corruption
+- Transparency International
 ---
 
 Andy Burnham recently supported an even lower donations cap than previously reported, according to correspondence seen by the Guardian, as the row over next week’s elections bill escalates.

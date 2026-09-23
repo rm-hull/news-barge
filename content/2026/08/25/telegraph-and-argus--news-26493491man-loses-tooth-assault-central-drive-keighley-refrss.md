@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- BRADFORD
+- Central Drive
+- Keighley
+people: []
+organisations:
+- Bradford Police
+- Braford Police
+- Crimestoppers
+- West Yorkshire Police
 ---
 
 *(Image: T&A)*

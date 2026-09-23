@@ -14,6 +14,18 @@ categories:
 - York
 - Home, Garden & DIY
 - History
+locations:
+- Brighouse
+- Brighouse.
+- Woolrow Farm
+- Woolrow Lane
+- Yorkshire
+people:
+- Gibson
+- Ian Rowan
+organisations:
+- Calderdale Council
+- PWA Planning
 ---
 
 # Grade II-listed Yorkshire farmhouse dating back to 1600s set to be restored

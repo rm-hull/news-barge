@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Ohio
+people:
+- Jon Husted
+- Logan Soposki
+- Luke Soposki
+- Lynnea Soposki
+- Modou F. Ngom
+- Nick Puglia
+- Sherrod Brown
+organisations:
+- Department of Homeland Security
+- National Republican Senatorial Committee
+- New York Times
+- Senate
+- The Independent
+- YouTube
 ---
 
 The relatives of an Ohio family killed in a truck crash have demanded a Republican senator stop using the names and photos of their loved ones in a campaign advertisement promoting stricter immigration policies.

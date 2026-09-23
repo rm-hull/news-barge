@@ -13,6 +13,18 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- Bahrain
+- Iran
+- Israel
+- Kuwait
+- Lebanon
+- Middle East
+- Qatar
+- U.S.
+people: []
+organisations:
+- State Department
 ---
 
 American diplomats and at least some of their family members are beginning to return to U.S. embassies in the Middle East after many were ordered to leave their posts during the early days of the war with Iran.

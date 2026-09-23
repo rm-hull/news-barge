@@ -11,6 +11,12 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- France
+- Pomas
+- Verzeille
+people: []
+organisations: []
 ---
 
 # Moment tornado tears through southern France

@@ -11,6 +11,13 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Acomb Wood
+- York
+people: []
+organisations:
+- Acomb
+- North Yorkshire Fire & Rescue Service
 ---
 
 Police are investigating a motorbike fire in York.

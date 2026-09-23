@@ -11,6 +11,18 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a48/live/51e348
 categories:
 - UK
 - News & Politics
+locations:
+- '## Cliff'
+- England
+people:
+- Ashley John-Baptiste
+- Clare Chamberlain
+- Josh MacAlister
+organisations:
+- BBC Radio 4
+- Department for Education
+- PA
+- PAs
 ---
 
 ![A young woman with brown hair, a pink top and a blue packpack walks down a street](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/2a48/live/51e34860-a07a-11f1-a291-b542ee92de7c.jpg)

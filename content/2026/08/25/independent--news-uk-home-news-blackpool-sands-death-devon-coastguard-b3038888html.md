@@ -11,6 +11,20 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Blackpool Sands
+- Dartmouth
+- Devon
+- Strete
+- Surrey
+- UK
+people: []
+organisations:
+- Blackpool Sands
+- Coastguard Rescue Teams
+- Devon and Cornwall Police
+- HM Coastguard
+- RNLI
 ---
 
 A man has died after getting into difficulty while swimming in the sea off a popular UK beach.

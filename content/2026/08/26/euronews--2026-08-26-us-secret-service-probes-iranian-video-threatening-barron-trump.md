@@ -13,6 +13,35 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Iran
+- New York
+- Turkey
+- US
+- Washington Hilton
+- White House
+people:
+- Anthony Guglielmi
+- Ayatollah Ali Khamenei
+- Barron Trump
+- Donald Trump
+- Ivanka Trump
+- Nate Herring
+- Vance
+organisations:
+- Air Force One
+- Channel 3
+- Correspondents' Association
+- Euronews
+- JD Vance
+- NATO
+- NBC News Now
+- New York Post
+- Office of Professional Responsibility
+- Secret Service
+- Tasnim
+- US First Lady
+- US Secret Service
 ---
 
 **Euronews Persian**

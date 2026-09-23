@@ -10,6 +10,20 @@ description: There's a lot we liked about this 14-in-1 fast-charging dock with 1
 image: https://cdn.mos.cms.futurecdn.net/TS7KMm8RFqNi3YLuBsWHAF-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Amazon
+- Anker Prime Charging Docking Station
+- Anker Prime Docking Station
+- UK
+people:
+- Bryan M Wolfe
+- Bryan M. Wolfe
+- Isabelle
+organisations:
+- Anker Prime Charging Docking Station
+- Gigabit Ethernet
+- TechRadar Pro
+- iMore
 ---
 
 ![Anker Prime Charging Docking Station (14-in-1, Dual Display, 160W) on stone surface](https://cdn.mos.cms.futurecdn.net/TS7KMm8RFqNi3YLuBsWHAF.jpg) 

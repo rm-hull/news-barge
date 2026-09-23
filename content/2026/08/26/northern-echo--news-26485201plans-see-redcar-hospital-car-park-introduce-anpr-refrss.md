@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Kirkleatham
+- North East
+- Redcar Hospital
+- Redcar Primary Care Hospital
+- Teesside
+people:
+- Cllr Fairley
+- Marian Fairley
+organisations:
+- ANPR
+- Google Maps
+- Kirkleatham
+- NHS Property Services
+- Redcar Primary Car Hospital
+- Teesworks
 ---
 
 A Teesside hospital could see automatic number plate recognition (ANPR) cameras installed following complaints about inappropriate use of parking bays.

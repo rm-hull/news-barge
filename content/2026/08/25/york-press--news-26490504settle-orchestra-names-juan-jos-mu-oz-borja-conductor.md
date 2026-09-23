@@ -12,6 +12,30 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Christ Church
+- Colombia
+- Manchester
+- Northern Rail
+- Settle Parish Church
+- Skipton
+people:
+- Beethoven
+- Harris Birch
+- Juan José
+- Juan José Muñoz Borja
+- Marin Alsop
+- Mark Elder
+- Mozart
+organisations:
+- '## Settle Orchestra'
+- Bassoon and Orchestra
+- Chineke!
+- Iberacademy Foundation
+- Jacobi
+- RNCM
+- Royal Northern College of Music
+- Settle Orchestra
 ---
 
 ## Settle Orchestra appoints new conductor for upcoming concerts this season

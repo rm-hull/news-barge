@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Baja California
+- Big Island
+- Eastern Maui
+- Hawaii
+- Hilo
+- Lala
+- Mexico
+- Miami
+- Moke
+- Moke’s
+- Pacific
+people:
+- Iselle
+- Josh Green
+- Lala
+- Moke
+organisations:
+- National Hurricane Center
+- U.S. National Hurricane Center
 ---
 
 Tropical Storm Moke swept past Hawaii on Sunday, delivering heavy rainfall to Big Island communities that are still recovering from the aftermath of Hurricane Lala.

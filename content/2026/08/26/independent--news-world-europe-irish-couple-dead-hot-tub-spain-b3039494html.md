@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Cullera
+- Spain
+- Valencia
+- Valencia.
+people: []
+organisations:
+- Civil Guard
+- Institute of Legal Medicine
+- Irish Independent
+- The Independent
+- The Sun
+- The Times
 ---
 
 An Irish couple were found dead in a hot tub by their teenage children at a holiday rental property in Spain on Tuesday, police said.

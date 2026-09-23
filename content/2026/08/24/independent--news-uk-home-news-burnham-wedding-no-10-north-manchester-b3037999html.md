@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Heron House
+- Manchester
+- Westminster
+people:
+- Andy Burnham
+- Gordon Brown
+- Sarah Burwin
+- god
+organisations:
+- National Economic Council
 ---
 
 Andy Burnham surprised a newlywed couple with a special message after the bride asked him to avoid No 10 North on their wedding day.

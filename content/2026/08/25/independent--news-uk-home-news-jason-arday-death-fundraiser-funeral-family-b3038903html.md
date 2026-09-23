@@ -11,6 +11,27 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Battersea
+- Cambridge
+- London Inner South Coroner’s Court
+- Trafalgar Square
+- UK
+people:
+- Diane Abbott
+- Jason Arday
+- Lord Simon Woolley
+- Lord Woolley
+- Nathan Cofnas
+- Patrick Vernon
+- Prof Arday
+- Zack Polanski
+organisations:
+- Ghent University
+- GoFundMe
+- Green Party
+- Simon & Schuster
+- University of Cambridge
 ---
 
 Professor Jason Arday’s family have said they are “deeply moved by the extraordinary support” after a fundraiser launched in his memory topped £224,000.

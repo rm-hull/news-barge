@@ -12,6 +12,25 @@ categories:
 - Local
 - Harrogate
 - Society & Culture
+locations:
+- Essex
+- Linton-on-Ouse.
+- MDP Weathersfield
+- North Yorkshire
+- RAF Linton-on-Ouse
+- RAF Scampton
+- York
+people:
+- Anna Turley
+- Carl Les
+- Malcolm Taylor
+organisations:
+- Ayslum Centre
+- Home Office
+- Huby and Tollerton
+- Les
+- Linton-on-Ouse Action Group
+- North Yorkshire Council
 ---
 
 ![An old road sign pointing to the former RAF base at Linton-on-Ouse.](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/5318/live/11da6b50-a2ea-11f1-a789-b16da4059b6b.png)

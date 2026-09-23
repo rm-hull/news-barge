@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Canada
+- Great Lake
+- Great Lakes
+- Gulf of America
+- Gulf of Mexico
+- LAKE AMERICA
+- Lake America
+- Lake Ontario
+- Maryland
+- North Carolina
+- U.S.
+- United States
+- Virginia
+- Washington, D.C.
+- White House
+people:
+- Donald Trump
+- Doug Ford
+- Mark Carney
+- Trump,” Ford
+organisations:
+- DC
+- The Independent
+- Trump
+- Truth Social
 ---
 
 The White House released a map labeling Lake Ontario as “Lake America” — but that wasn’t the only geographical detail it got wrong.

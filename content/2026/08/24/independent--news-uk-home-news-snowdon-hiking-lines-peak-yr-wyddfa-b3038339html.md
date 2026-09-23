@@ -11,6 +11,25 @@ image: https://static.independent.co.uk/2025/04/14/9/26/iStock-1452849837.jpeg?t
 categories:
 - News & Politics
 - UK
+locations:
+- England
+- Kensington Palace
+- Princess of Wales
+- Scotland
+- Snowdon
+- Snowdonia
+- Wyddfa
+people:
+- Ben Nevis
+- Jamie Richardson
+- Kate Middleton
+- Richard Thiedeman
+- Scafell Pike
+- Snowdon
+organisations:
+- Eryri National Park Authority
+- Snowdon
+- The Royal Marsden Cancer Charity
 ---
 
 Snowdon authorities have no plan to tackle an ongoing dispute of long lines forming at the top of Wales’s highest mountain.

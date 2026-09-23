@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Downing Street
+- Iran
+- Kyiv
+- Liverpool
+- Middle East
+- Moscow
+- New York
+- Russia
+- UK
+- US
+- Ukraine
+people:
+- Andy Burnham
+- António Costa
+- Bloomberg
+- Donald Trump
+- Keir Starmer
+- Volodymyr Zelenskyy
+organisations:
+- Bloomberg
+- Kyiv
+- Labour
+- MBDA
+- Patriots
+- Scalp
+- UN
 ---
 
 Andy Burnham has said he is likely to attend the UN general assembly in New York next month, a chance for the new prime minister to meet a host of world leaders.

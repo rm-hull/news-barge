@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Caribbean
+- China
+- Colombia
+- Eastern Pacific
+- Ecuador
+- Guatemala
+- Honduras
+- India
+- Latin America
+- Mexico
+- Pacific Ocean
+- Panama
+- US
+- United States
+- Venezuela
+- White House
+people:
+- Donald Trump
+- Francis Donovan
+- Pete Hegseth
+organisations:
+- Costa Rican Coast Guard
+- Pentagon
+- Southern Command
+- US Southern Command
 ---
 
 After a pause of more than two months, the US military announced Monday that it once again carried out a strike on a vessel in the eastern Pacific Ocean, killing two people accused of trafficking drugs.

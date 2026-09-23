@@ -14,6 +14,15 @@ categories:
 - York
 - History
 - News & Politics
+locations:
+- Clacton
+- Ripon
+people:
+- Bryn Glover
+- Joe Giddens
+- Kirkby Malzeard
+organisations:
+- Yorkshire Post Letters
 ---
 
 # The Clacton by-election was an egotistical abuse of democracy - Yorkshire Post Letters

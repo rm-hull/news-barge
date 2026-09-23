@@ -13,6 +13,13 @@ categories:
 - UK
 - Health & Fitness
 - Science
+locations: []
+people:
+- Sebastian Johnston
+organisations:
+- Apollo Therapeutics
+- ICL
+- Imperial College London
 ---
 
 An early trial of a new vaccine has shown “encouraging” signs that it could protect against the common cold, scientists have said.

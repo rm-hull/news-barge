@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Middlesbrough
+- Redcar
+- South Bank
+- Teesside
+people:
+- Andy Burnham
+- Anna Turley
+- Matthew Blades
+- Passat
+- Pc Clough
+- Shabana Mahmood
+- Stuart Boulton
+- Tom Clough
+- Victoria Fuller
+organisations:
+- A66
+- Cleveland Police
+- RTC
+- The Notrhern Echo
 ---
 
 The heartbroken family of one of the officers killed in the A66 crash have paid tribute to their “hero”.

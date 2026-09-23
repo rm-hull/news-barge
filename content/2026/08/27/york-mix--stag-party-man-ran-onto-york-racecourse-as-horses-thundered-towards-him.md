@@ -11,6 +11,26 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Appleton Road
+- Knavesmire
+- Stockton-on-Tees
+- York Magistrates’ Court
+- York Racecourse
+people:
+- Alison Whiteley
+- Blake Ions’
+- Ions
+- Jane Maloney
+- John Smith
+- Ms Maloney
+organisations:
+- City Walls Stakes
+- Ions
+- Ions’
+- John Smith’s Meeting
+- Nursery Handicap
+- Probation Service
 ---
 
 A stag-party man ran onto the track at York Racecourse as racehorses thundered towards him, forcing security staff into emergency action.

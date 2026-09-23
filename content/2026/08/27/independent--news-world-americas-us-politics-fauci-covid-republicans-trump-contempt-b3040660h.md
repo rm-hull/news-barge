@@ -10,6 +10,29 @@ image: https://static.independent.co.uk/2026/08/27/21/2026-08-21T222313Z_1981507
 categories:
 - News & Politics
 - UK
+locations:
+- St. Thomas University
+- White House
+people:
+- Anthony Fauci
+- Covid
+- JD Vance
+- Joe Biden
+- Mark Osler
+- Rand Paul
+- Trump
+organisations:
+- Congress
+- Constitution
+- DOJ
+- Fifth Amendment
+- Justice Department
+- Senate
+- The Associated Press
+- The Independent
+- Trump
+- Vance
+- Wall Street Journal
 ---
 
 The Republican-led effort to hold Dr. Anthony Fauci in contempt of Congress has reportedly stalled amid concern from the White House that it’s not legally sound.

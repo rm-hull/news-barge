@@ -12,6 +12,19 @@ categories:
 - Europe
 - News & Politics
 - Health & Fitness
+locations:
+- Ceuta
+- France
+- Morocco
+- Spain
+people:
+- Joshua LaBaer
+organisations:
+- Cell Press Blue journal
+- Health Ministry
+- Nature
+- SeroNet
+- United States National Cancer Institute
 ---
 
 ## Patterns in the blood, present before vaccination, could help predict how strongly a person's immune system will respond, a new study has found.

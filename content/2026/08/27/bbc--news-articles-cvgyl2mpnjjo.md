@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Britain
+- Bude
+- Buttermere Circular Path
+- Cheddar
+- Great Western Railway
+- Holy Island Causeway
+- Lake District
+- Mendip Hills
+- North Somerset
+- Northumberland
+- Shepton Mallet
+- Somerset The Strawberry Line
+- South West
+- South West Coast Path
+- Strawberry Line
+- Strawberry Line Path
+- Wells
+- Westward Ho!
+- Winscombe
+- Witham Junction
+- Yatton
+people:
+- Amanda Jane Baldwin
+- Rachel Mulrenan
+organisations:
+- Beeching
+- Postcode Lottery
+- Ramblers'
+- The Ramblers
 ---
 
 **An abandoned railway line which volunteers transformed into a much-loved walking and cycling route has been named Britain's favourite path.**

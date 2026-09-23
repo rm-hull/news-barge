@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Aba
+- Beijing
+- China
+- Gyirong Port
+- Kirti
+- Langcuo Ma Monastery
+- Lhasa
+- Nepal
+- Nepal-Tibet
+- Ngaba
+- North Korea
+- Pyongyang
+- Shigatse
+- Tibet
+- Tibetan Autonomous
+- Trishuli river
+people:
+- Dalai Lama
+- Li Qiang
+- Xi Jinping
+organisations:
+- BBC
+- CCTV
+- Chinese Communist Party
+- Communist Party
+- International Campaign for Tibet
 ---
 
 Video shows scale of flash flood hitting Nepal-Tibet border

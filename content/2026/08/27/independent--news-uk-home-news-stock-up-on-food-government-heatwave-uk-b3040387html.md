@@ -11,6 +11,25 @@ image: https://static.independent.co.uk/2025/05/29/11/iStock-521812351.jpg?width
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- Kyiv
+- London
+- Moscow
+- Russia
+- St Sophia
+- UK
+- Ukraine
+- Volgograd
+people:
+- Andy Burnham
+organisations:
+- Kyiv
+- NFU
+- National Farmers Union
+- Shore Capital
+- The Financial Times
+- The Times
 ---
 
 UK households are being urged to stock up on essential items in case of emergencies, according to reports.

@@ -14,6 +14,20 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Europe
+- Nathusius’
+- South Yorkshire
+- UK
+- Upland
+- Yorkshire Water
+people:
+- George Muscatt
+- Sean Davey
+organisations:
+- NatureMetrics
+- South Yorkshire Bat Group
+- Yorkshire Water
 ---
 
 # Nathusius' pipistrelle: Rare migratory bat species found roosting at a Yorkshire Water reservoir for first time

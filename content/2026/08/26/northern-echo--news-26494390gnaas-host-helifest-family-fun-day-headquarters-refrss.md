@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- County Durham
+- Great North Run
+- Newton Aycliffe
+- North East
+- Urlay Nook Road
+people: []
+organisations:
+- Emergency Services Zone
+- GNAAS
+- GNAAS’
+- Gosling Raptors
+- Great North Air Ambulance
+- Great North Air Ambulance Service
+- Helifest
+- Progress House
+- Stall Central
 ---
 
 The North East's air ambulance charity is inviting families to a bank holiday fun day packed with entertainment, activities and emergency services displays to help raise funds for its life-saving work across the region.

@@ -14,6 +14,58 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Amazon
+- Australia
+- California
+- Delhi
+- Earth
+- Helene
+- India
+- LA
+- Los Angeles
+- Milton
+- New York
+- North Atlantic Current
+- Pakistan
+- Philippines
+- Seneca Falls
+- Texas
+- U.K.
+- U.S.
+- United States
+- Vietnam
+people:
+- Daniel Swain
+- Dennis Quaid
+- Eric Garcetti
+- Eunice Newton Foote
+- Jack Hall
+- Jennifer Lawrence
+- Jesus
+- Kim Stanley Robinson
+- Leonardo DiCaprio
+- Lucy Jones
+- Meryl Streep
+- Peter Prengaman
+- Sarah Perkins-Kirkpatrick
+- Sonia Seneviratne
+- Tim Lenton
+- Trump
+- Wolf’
+organisations:
+- AP
+- Australian National University
+- California Institute for Water Resources
+- Intergovernmental Panel on Climate Change
+- LinkedIn
+- Ministry for the Future
+- National Oceanic and Atmospheric Administration
+- The Associated Press’
+- U.K. Climate Risk Assessment
+- U.N.
+- U.S. Geological Survey
+- University of Exeter
 ---
 
 In the opening scene of American writer Kim Stanley Robinson’s “The Ministry for the Future,” a heat wave combined with a breakdown of the electrical grid in India kills 20 million people. The devastation causes the world's nations unite to combat climate change.

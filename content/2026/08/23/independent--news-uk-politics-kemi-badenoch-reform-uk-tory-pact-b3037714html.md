@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Aberdeen
+people:
+- Iain Dale
+- Kemi Badenoch
+- Nigel Farage
+- Robert Jenrick
+- Tim Montgomerie
+- Zia Yusuf
+organisations:
+- Aberdeen South
+- BBC
+- Edinburgh Fringe
+- Reform UK
+- Tory
 ---
 
 Kemi Badenoch has again ruled out a “monstrous” pact with Reform as she hits out at infighting within Nigel Farage’s party.

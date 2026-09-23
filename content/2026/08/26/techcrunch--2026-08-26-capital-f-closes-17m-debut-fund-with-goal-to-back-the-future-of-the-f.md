@@ -13,6 +13,29 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Charlotte Russe
+people:
+- Dawn Dobras
+- Jenny Ming
+- Linnea Roberts
+- Margaret Coblentz
+- Marta Benson
+organisations:
+- Big Sur AI
+- Capital F
+- Charlotte Russe
+- Credo Beauty
+- Gap
+- Gingerbread Capital
+- Google
+- Hey Jane
+- Old Navy
+- Pottery Barn
+- Rothys
+- Stardust
+- TechCrunch
+- VC
 ---
 
 Capital F, one of the few all-female-led VC firms, announced Wednesday the $17 million close of its debut fund.

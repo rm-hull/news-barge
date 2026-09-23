@@ -11,6 +11,11 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- North Yorkshire
+people: []
+organisations:
+- Met Office
 ---
 
 There’s a Yellow level Met Office warning for thunderstorms and heavy rain across most of North Yorkshire on Thursday (Aug 27th)

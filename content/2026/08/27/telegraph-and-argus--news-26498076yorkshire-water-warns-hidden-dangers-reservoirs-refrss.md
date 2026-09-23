@@ -13,6 +13,13 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Yorkshire
+people:
+- Alastair Harvey
+organisations:
+- Yorkshire Water
+- Yorkshire Water)* YORKSHIRE Water
 ---
 
 *(Image: Yorkshire Water)*

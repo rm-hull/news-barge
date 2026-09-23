@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- China
+- Hebei
+- U.S.
+people:
+- Gao Zhen
+- Mao Zedong
+- Sarah Brooks
+- Shane Yi
+- Zhao Yaliang
+organisations:
+- Amnesty International
+- Chinese Human Rights Defenders
+- Gao Brothers
+- Sanhei People's Court
 ---
 
 Chinese artist Gao Zhen was sentenced to three years in prison Tuesday for “infringing upon the reputation of heroes” through his satirical works of art, including statues of China's former leader Mao Zedong.

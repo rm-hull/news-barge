@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Food & Cooking
+locations:
+- Fadmoor Village Hall
+- Kirkbymoorside
+- North Yorkshire
+people:
+- Jon Richardson
+organisations:
+- Channel 4
+- Fadmoor
+- Investor
+- Our Yorkshire Pub Rescue
+- The Plough
 ---
 
 A VILLAGE pub made famous by a tv show with comedian Jon Richardson is planning to re-open in November.

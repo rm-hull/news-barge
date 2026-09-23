@@ -14,6 +14,15 @@ categories:
 - UK
 - News & Politics
 - Home, Garden & DIY
+locations:
+- YOUR
+people: []
+organisations:
+- Dorbiere
+- Public Notice Portal
+- Ryhope Street South
+- Sunderland City Council
+- The Guide Post
 ---
 
 *(Image: Google Maps)*

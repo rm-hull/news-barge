@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Brighton
+- West Street
+people: []
+organisations:
+- '![Sussex Police'
+- CCTV
+- Sussex Police
 ---
 
 Police have issued a CCTV appeal to trace two men after a teenage girl was “sexually touched” on Brighton beach.

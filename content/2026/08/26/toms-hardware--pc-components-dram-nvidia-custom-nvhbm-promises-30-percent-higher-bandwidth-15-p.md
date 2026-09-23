@@ -12,6 +12,26 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations: []
+people:
+- Jeff Kampman
+- Jeffrey Kampman
+- Nafea Bshara
+- Tom
+- Vera Rubin
+organisations:
+- AI
+- AWS
+- Amazon
+- Annapurna Labs
+- GPU
+- Get Tom's Hardware
+- Google News
+- HBM
+- NVHBM
+- NVLink Fusion
+- Nvidia
+- Tom's Hardware
 ---
 
 ![An illustrative NVHBM implementation](https://cdn.mos.cms.futurecdn.net/TaGTq85mNPD8CGfDe72ByP.jpg) 

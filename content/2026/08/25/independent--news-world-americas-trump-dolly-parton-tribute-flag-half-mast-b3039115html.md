@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Dolly!
+- Dollywood
+- Sevierville
+- Tennessee
+- United States
+people:
+- Bryan Seaver
+- Carl Dean
+- DONALD J
+- Dolly Parton
+- Donald Trump
+- Jesus
+- Jolene
+- Jolene’
+organisations:
+- Instagram
+- TRUMP
 ---
 
 President Donald Trump has ordered flags to be lowered at half mast to honor country music icon Dolly Parton after her death aged 80.

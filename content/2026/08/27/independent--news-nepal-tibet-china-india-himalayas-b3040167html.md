@@ -13,6 +13,41 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Australia
+- Britain
+- Canada
+- China
+- Gyirong
+- Himalayas
+- India
+- Lake Manasarovar
+- Lipulekh Pass
+- Mount Kailash
+- Mount Meru
+- Nepal
+- Sikkim
+- Tibet
+- United States
+- Uttarakhand
+people:
+- Emily Yeh
+- Guru Nanak
+- Jaggi Vasudev
+- Sadhguru
+- Shiva
+- Sikhism
+- Tonpa Shenrab
+organisations:
+- AP
+- Associated Press
+- ICIMOD
+- International Centre for Integrated Mountain Development
+- Isha Foundation
+- Lilly Endowment Inc
+- Ministry of External Affairs
+- The Conversation US
+- University of Colorado Boulder
 ---
 
 More than 100 of the nearly 1,300 people missing after massive floods in a border area of Nepal and China were on a pilgrimage to Mount Kailash, a sacred site in the Himalayas. The disaster left at least 168 people dead and displaced hundreds of people across the Himalayan region.

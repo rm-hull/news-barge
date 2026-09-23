@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- AI
+- Big Tech
+- Britain
+- East London
+- England
+- UK
+people:
+- Mark Acton
+- Rosa Curling
+- Zack Polanski
+organisations:
+- Artificial Intelligence
+- BBC
+- Data Centre Alliance
+- Foxglove
+- Global Action Plan
+- Green Party
+- Greens
+- Houses of Parliament.
+- The Water Research Centre
+- Today
 ---
 
 Watch: 'We need to slam the brakes on energy-guzzling data centres,' Polanski says

@@ -13,6 +13,18 @@ categories:
 - Science
 - Technology & Software
 - Health & Fitness
+locations:
+- China
+people:
+- Alzheimer
+- András Lakatos
+- Benedikt Berninger
+- Peisheng Xu
+organisations:
+- King’s College London
+- TN-PTBP1
+- University of Cambridge
+- University of South Carolina
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309549347.jpg?w=840)

@@ -12,6 +12,40 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- China
+- Darent Valley Hospital
+- Dartford
+- Essex
+- Harlow
+- Kent
+- Mount Kailash
+- Nepal
+- Princess Alexandra Hospital
+- Rasuwa
+- Slough
+- Sussex
+- Tibet
+- UK
+- Uckfield
+people:
+- Bhupesh Bector
+- Leena Bector
+- Pramod Poudel
+- Rajendra Pudasaini
+- Roshan Basnet
+- Sarada Simkhada
+- Suraj
+organisations:
+- BBC Radio
+- Fishtail Tours and Travels
+- Foreign, Commonwealth & Development Office
+- Kailash Journeys
+- Non-Resident Nepali Association UK
+- Press Association
+- Sussex
+- The Times
+- The Trekkers’ Society
 ---
 
 A nurse from Kent has been identified among the Britons missing in Nepal after the devastating flash floods in the country.

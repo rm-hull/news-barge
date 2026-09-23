@@ -13,6 +13,30 @@ categories:
 - UK
 - Business & Entrepreneurship
 - History
+locations:
+- Axios
+- Capitol Hill
+- Iran
+- Israel
+- Kyiv
+- Lincoln
+- Middle East
+- Oman
+- Strait of Hormuz
+- U.S.
+- Ukraine
+people:
+- Abraham Lincoln
+- Donald Trump
+- George Washington
+- Mike Pence
+- Pete Hegseth
+organisations:
+- CNN
+- Cabinet
+- Pence
+- Trump
+- USS
 ---
 
 Former Vice President Mike Pence has firmly backed his old boss over the Iran war - but warned that President Donald Trump would soon have to “go in and finish the job” to claim a defeat.

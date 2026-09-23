@@ -12,6 +12,22 @@ image: https://static.independent.co.uk/2026/08/26/07/Pakistan_Hospital_Fire_513
 categories:
 - News & Politics
 - UK
+locations:
+- Islamabad
+- Karachi
+- Pakistan
+people:
+- Asif Ali Zardari
+- Imran Khan
+- Mohammad Sami
+- Mohsin Naqvi
+- Mustafa Kamal
+- Shehbaz Sharif
+- Suhail Ashraf
+organisations:
+- Geo News
+- PIMS
+- Pakistan Institute of Medical Sciences
 ---
 
 A fire erupted early Wednesday in a nursery for newborns at a major government hospital in Pakistan’s capital, killing 14 babies, according to hospital officials and the government.

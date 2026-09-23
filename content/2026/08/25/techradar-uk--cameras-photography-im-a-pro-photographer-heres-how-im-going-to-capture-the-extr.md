@@ -12,6 +12,33 @@ image: https://cdn.mos.cms.futurecdn.net/2Gb6q8dQGiYSFm72SZKtgZ-900-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- Africa
+- Australia
+- Earth
+- Europe
+- Kenya
+- London
+- Madrid
+- Nairobi
+- New York
+- North America
+- Paris
+- South America
+- Tungsten
+- UK
+- US
+- Washington DC
+- Western Asia
+people:
+- Tim
+- Timothy Coleman
+organisations:
+- Amateur Photographer
+- Canon
+- Google News
+- NASA
+- TechRadar
 ---
 
 ![Red moon during lunar eclipse](https://cdn.mos.cms.futurecdn.net/2Gb6q8dQGiYSFm72SZKtgZ.jpg) 

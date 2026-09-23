@@ -11,6 +11,28 @@ image: https://i.guim.co.uk/img/media/1d68042ed18ea8806bd1af82612aa075ae927bba/4
 categories:
 - UK
 - News & Politics
+locations:
+- Marshall
+- U.S.
+- US
+- United States
+- Venezuela
+- Washington
+people:
+- Delcy Rodríguez
+- Donald Trump
+- Marco Rubio
+- Nicolás Maduro
+- Pete Hegseth
+- Tom Phillips
+organisations:
+- American Taxpayer”
+- Axios
+- Chevron
+- Oil Reserves
+- Opec
+- Reuters
+- Wall Street Journal
 ---
 
 Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have “majority” control of 65bn barrels of proven oil reserves.

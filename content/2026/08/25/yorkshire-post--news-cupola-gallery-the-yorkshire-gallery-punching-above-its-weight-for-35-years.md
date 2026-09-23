@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Hillsborough
+- Sheffield
+- Yorkshire
+people:
+- Chris Jones
+- Graham Shapley
+- Karen Sherwood
+- Tony Johnson.
+organisations:
+- Cupola Gallery
+- Supertram
 ---
 
 # Cupola Gallery: The Yorkshire gallery punching above its weight for 35 years

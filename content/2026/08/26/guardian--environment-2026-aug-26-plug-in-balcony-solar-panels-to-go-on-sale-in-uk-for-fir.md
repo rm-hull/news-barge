@@ -14,6 +14,26 @@ categories:
 - Home, Garden & DIY
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Europe
+- Germany
+- Great Britain
+- Spain
+- UK
+people:
+- Emily Seymour
+- Graham Biggart
+- Joanna O’Loan
+- Miatta Fahnbulleh
+organisations:
+- Amazon
+- Argos
+- B&Q
+- Currys
+- Energy Saving Trust
+- National Energy System Operator
+- Screwfix
+- Which?
 ---
 
 Plug-in solar panels will go on sale in the UK for the first time from Thursday, allowing households unable to use rooftop panels to also generate their own cheap electricity.

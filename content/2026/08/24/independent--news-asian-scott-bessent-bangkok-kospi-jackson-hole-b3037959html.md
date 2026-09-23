@@ -13,6 +13,34 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Australia
+- Hong Kong
+- Iran
+- Islamic Republic
+- Jackson Hole
+- Persian Gulf
+- South Korea
+- Strait of Hormuz
+- Taiwan
+- Tehran
+- Tokyo
+- U.S.
+- United States
+- Washington
+- Wyoming
+people:
+- Kevin Warsh
+- Scott Bessent
+organisations:
+- Bessent
+- Bitcoin
+- CoinDesk
+- Fed
+- Federal Reserve
+- Kospi
+- Taiex
+- U.S. Treasury Department
 ---
 
 Asian shares were mostly lower and oil prices slipped on Monday at the outset of a week capped by a meeting of top U.S. economic officials at Jackson Hole.

@@ -13,6 +13,62 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Australia
+- Bidur
+- Britain
+- Canada
+- China
+- China-Nepal
+- Chitwan
+- Gosainkunda
+- India
+- Kathmandu
+- Maharajgunj Medical Campus
+- Nepal
+- Nuwakot
+- Pipaltar
+- Rasuwa
+- Seoul
+- South Korea
+- Tibet
+- Tribhuvan University Teaching Hospital
+- Trishuli 3A
+- Trishuli River
+- Trishuli river
+- US
+people:
+- Arjun Kumar Tamang
+- Arun Sankar
+- Buddha Tamang
+- Cara Severino
+- David Fisher
+- Debbie
+- Dev Shrestha
+- Frank Severino
+- God
+- Lok Bahadur Chhetri
+- Narendra Shrestha
+- Penny Wong
+- Rajesh Kumar Singh
+- Ritesh Shukla
+- Shisir Khanal
+- Tom Fletcher
+organisations:
+- AFP
+- AP China
+- Agence France-Presse
+- Army Operations Center
+- CCTV
+- EPA Residents
+- Emergency Action Alliance
+- Getty Images
+- International Federation of Red Cross and Red Crescent Societies
+- Navesh Chitrakar
+- Red Cross
+- Reuters A
+- UN
+- World Food Programme
 ---
 
 Some more sobering images have just come in from the news wires, as rescue efforts continue to search for the more than 1,500 people missing after a brief pause due to a formed river overflowing.

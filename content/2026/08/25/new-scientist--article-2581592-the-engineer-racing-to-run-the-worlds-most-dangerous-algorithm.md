@@ -13,6 +13,20 @@ image: https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306263420.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- California
+- France
+- US
+people:
+- André Schrottenloher
+- Craig Gidney
+- Peter Shor
+organisations:
+- Google Quantum AI
+- Inria Centre
+- Massachusetts Institute of Technology
+- National Institute of Standards and Technology
+- Rennes University
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306263420_5da1ce.jpg?w=840)

@@ -13,6 +13,26 @@ image: https://cdn.mos.cms.futurecdn.net/AUygxygHNL2yDSUJ2pCTiG-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Beats'
+- Mark Gurman
+- Tom Bedford
+organisations:
+- ANC
+- Android Police
+- Apple
+- BGR
+- Bloomberg
+- Digital Trends
+- GamesRadar
+- Google News
+- Samsung
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- WhattoWatch
+- non-Pro AirPods
 ---
 
 ![The open cases for AirPods Pro 2 and AirPods 4 held next to each other, showing the tops of the earbuds poking out](https://cdn.mos.cms.futurecdn.net/AUygxygHNL2yDSUJ2pCTiG.jpg) 

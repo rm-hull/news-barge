@@ -15,6 +15,35 @@ categories:
 - News & Politics
 - Science
 - Health & Fitness
+locations:
+- Australian Antarctic station
+- Barunguba Montague Island
+- Beachport
+- Fleurieu Peninsula
+- Geelong
+- Goolwa
+- Heard Island
+- King Island
+- Macquarie Island
+- Manly
+- McDonald Islands
+- Pages Islands
+- Port Adelaide
+- South Australia
+- Southern Ocean
+- Stokes Point
+- Taronga
+- Tasmania
+people:
+- Brendon Clark
+- Sean Sullivan
+organisations:
+- Australian Centre for Disease Preparedness
+- CSIRO
+- Dolphins
+- New South Wales
+- SA
+- SA’s Department of Primary Industries and Regions
 ---
 
 A dolphin has died from H5 bird flu in South Australia, marking the second native mammal species known to have contracted the virus.

@@ -15,6 +15,45 @@ categories:
 - Arts & Culture
 - Society & Culture
 - True Crime
+locations:
+- A66
+- Acklam
+- Birchington Avenue
+- Eastleigh
+- Eston
+- Grangetown
+- Middlesbrough
+- Sedgemoor Road
+- South Bank
+- South Wales
+- Steele Crescent
+people:
+- Andy Burnham
+- Andy Preston
+- Cole Worthy
+- Emily Harrison
+- Jacob
+- Jakub Matusiak
+- Josh Kirton
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Ms McDonald
+- Natalie McDonald
+- Passat
+- Paul Appleton
+- Pc Blades
+- Pc Clough
+- Pc Tom Clough
+- RIP Natalie
+- Theo Rae
+- Valentina Foster
+organisations:
+- Cleveland Police
+- Hartlepool United
+- Middlesbrough
+- TS6
+- Teesside Coroners’ Court
 ---
 
 # Brother of woman killed in house fire says she was ‘not involved with gangs’

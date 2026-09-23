@@ -13,6 +13,24 @@ categories:
 - Science
 - Technology & Software
 - Automotive
+locations:
+- Australia
+- Brisbane
+- Greater Sydney
+- London
+- Melbourne
+- New South Wales
+- Parramatta
+- Sydney Harbour Bridge
+people:
+- Lyndel Bates
+- Matthew Sparkes
+- Nirajan Shiwakoti
+- Simona Mihaita
+organisations:
+- Griffith University
+- RMIT University
+- University of Technology Sydney
 ---
 
 ![Trails of car light going into Sydney Harbour Bridge at dusk](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309549209.jpg?w=840)

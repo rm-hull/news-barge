@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- A659
+- Bilbrough
+- MAJOR
+- Tadcaster
+- York
+people: []
+organisations:
+- A64
+- The Press
 ---
 
 *(Image: Contributed)*

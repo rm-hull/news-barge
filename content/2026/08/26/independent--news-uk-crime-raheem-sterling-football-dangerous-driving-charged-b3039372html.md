@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Basingstoke Magistrates Court
+- England
+- M3
+- Manchester City
+- Stamford Bridge
+people:
+- Gareth Southgate
+- Raheem Sterling
+organisations:
+- Arsenal
+- Chelsea
+- Feyenoord
+- Hampshire
+- Isle of Wight Constabulary
+- Lamborghini
+- Liverpool
+- QPR
 ---
 
 Footballer Raheem Sterling has been charged with dangerous driving and possession of laughing gas after a car crash.

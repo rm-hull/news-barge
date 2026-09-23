@@ -12,6 +12,59 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Austria
+- Europe
+- Glasgow
+- Linz
+people:
+- Anthony Ralston
+- Arne Engels
+- Auston Trusty
+- Benjamin Nygren
+- Callum McGregor
+- Camilo Duran
+- Chris Sutton
+- Daizen Maeda
+- Dane Murray
+- Danny**
+- Eamonn
+- Engels'
+- Gerry**
+- Haissem Hassan
+- Kasper Hogh
+- Kieran Maguire
+- Liam Scales
+- Luke McCowan
+- Martin O'Neill
+- Martin O'Neill's
+- Mika Baur
+- Patrick
+- Reo Hatate
+- Scott Brown
+- Sebastian Tounekti
+- Viljami Sinisalo
+- Yang Hyun-jun
+organisations:
+- Aston Villa
+- BBC Scotland
+- BBC Sport Scotland
+- Bayern Munich
+- Celtic
+- Champions League
+- Conference League
+- English Premier League
+- Europa League
+- Hibernian
+- Ipswich Town
+- LASK
+- Motherwell
+- Raith Rovers
+- Rangers
+- Real Madrid
+- SPFL
+- Uefa
+- West Ham United
 ---
 
 ![Martin O'Neill watches on before Celtic's second leg against LASK in Linz](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/93e1/live/2b9b96d0-a13d-11f1-9311-09d4e1fc9016.jpg)

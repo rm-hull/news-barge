@@ -15,6 +15,13 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Buñol
+- La Tomatina
+- Spain
+people: []
+organisations:
+- La Tomatina
 ---
 
 Photos show revelers pelting one another with tomatoes at Spain’s La Tomatina food fight

@@ -13,6 +13,29 @@ image: https://images.euronews.com/articles/stories/09/88/81/97/1200x675_cmsv2_7
 categories:
 - Europe
 - News & Politics
+locations:
+- Abdorrahman Boroumand Centre
+- Canada
+- France
+- Islamic Republic
+- Islamic Republic of Iran
+- Tehran
+- UK
+- US
+- United States
+- Washington
+people:
+- Beita Hemmati
+- Donald Trump
+- Gol-Mohammad Mohammadi
+- Volker Türk
+organisations:
+- Iran Human Rights
+- Supreme Council of National Security
+- Together Against the Death Penalty
+- Trump
+- Truth Social
+- UN Special Rapporteur on Iran
 ---
 
 **Euronews Persian**

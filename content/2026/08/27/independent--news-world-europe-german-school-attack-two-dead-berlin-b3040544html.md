@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Berlin
+- Gosen-Neu Zittau
+people: []
+organisations:
+- AFP
+- AFP/Getty
+- Berliner Zeitung
+- Getty
+- Maerkische Allgemeine
 ---
 
 Two dead after attack at German school as teenage suspect detained

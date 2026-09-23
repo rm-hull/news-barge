@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Scotland
+- UK
+people: []
+organisations:
+- Amazon Flex
+- HMRC
+- National Insurance
+- Uber
+- YouTube
 ---
 
 With the elevated cost of living, more Brits than ever are finding ways to make money alongside their regular job.

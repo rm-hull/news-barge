@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Science
+locations:
+- Leeds
+people:
+- Cheryl Lotherington
+- Mark Wheelwright
+organisations:
+- Pivot Academy
+- Pivot Academy Leeds
 ---
 
 *(Image: Mark Wheelwright)*

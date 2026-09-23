@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- County Durham
+- Deerness Valley
+- Durham City
+- North East
+- River Deerness
+- Seaham
+- South Shields
+- St Luke’s Church Hall
+- Sunderland
+- Ushaw Moor
+- YOUR
+people:
+- Lauren Angus
+- Walter
+organisations:
+- ASAP
+- Deerness Rise
+- Miller Homes
+- Miller Homes North East
+- Miller Homes’
+- Portal House
+- Public Notice Portal
 ---
 
 *(Image: Supplied)*

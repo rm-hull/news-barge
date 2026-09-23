@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Laisterdyke
+- Leeds Road
+- St Mary’s Church
+- St Peter's
+- St Peter's Catholic Church
+- St Peter’s
+people:
+- Mike Simmonds
+organisations:
+- T&A
+- Telegraph & Argus
+- West Yorkshire Police
 ---
 
 *(Image: Mike Simmonds)*

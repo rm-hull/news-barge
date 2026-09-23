@@ -14,6 +14,27 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Blackhall Colliery
+- Covid
+- Darlington
+- New North East
+- North East
+- North Yorkshire
+people:
+- Alan Bradley
+- Alison
+- David
+- Elvis
+- Susan
+organisations:
+- Blackhall Colliery
+- Goffy Media
+- Hardwicke Hall
+- Hardwicke Hall 40th Anniversary Garden Party
+- Hardwicke Hall Manor Hotel
+- Hardwicke Hotel
+- The Beatles
 ---
 
 *(Image: Supplied by Goffy Media)*

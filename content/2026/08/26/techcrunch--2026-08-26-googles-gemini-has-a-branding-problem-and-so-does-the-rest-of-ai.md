@@ -10,6 +10,27 @@ image: https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImage
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Spark
+people:
+- Claude
+- Cowork
+- Justine Moore
+- Lindy
+- Lucas
+- Ollie
+- Orchid
+- Poke
+- Siri
+- Tomo
+organisations:
+- AI
+- Apple
+- Daily Brief
+- Gemini
+- Google
+- Spark
+- a16z
 ---
 
 Google gets something right in its Wednesday announcement about new Gemini Live voice features when it says, “You shouldn’t have to guess whether a task requires Spark, a Daily Brief, or a quick inbox search.” Google means that as a promise — that the updated Gemini app can handle a variety of tasks via voice commands. But there’s a ridiculousness here: Google has given every Gemini AI feature under the sun its own branding, which undercuts that very message.

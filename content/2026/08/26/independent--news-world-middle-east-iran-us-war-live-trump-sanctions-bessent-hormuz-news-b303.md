@@ -11,6 +11,60 @@ image: https://static.independent.co.uk/2026/08/25/00/2026-08-24T202227Z_1102145
 categories:
 - News & Politics
 - UK
+locations:
+- '## Oman'
+- China
+- India
+- Iran
+- Iraq
+- Israel
+- Jordan
+- Kuwait
+- Lebanon
+- Middle East
+- Pickaxe Mountain
+- Qatar
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- Turkey
+- Türkiye
+- U.S.
+- US
+- United States
+- West Asia
+people:
+- '## Trump'
+- Abbas Araghchi
+- Badr al-Busaid
+- Barron Trump
+- Donald Trump
+- Hashem Abadi
+- Hegseth
+- Maziyar Ghiabi
+- Nate Herring
+- Scott Bessent
+organisations:
+- Air Force One
+- Centre of Persian
+- International Waters of the
+- Iranian Studies
+- New York Times
+- OFAC
+- Office of Foreign Assets Control
+- Reuters
+- Secret Service
+- Space Force
+- State Department
+- TV
+- U.S. Secret Service
+- U.S. Treasury
+- US Navy
+- US Secret Service
+- US State Department
+- United States Navy
+- University of Exeter
+- Vortexa
 ---
 
 Donald Trump has threatened new strikes on a nuclear site as well as Iranian military ships on the Strait of Hormuz.

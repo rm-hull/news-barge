@@ -13,6 +13,50 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Andaman
+- Arunachal Pradesh
+- Ayodhya
+- China
+- Delhi
+- Equator
+- Great Nicobar Project
+- Hong Kong
+- India
+- Indo-Pacific
+- Jaipur
+- Janpath Road
+- Madhya Pradesh
+- Mumbai
+- Nicobar Islands
+- Odisha
+- Paris
+- RaGa
+- Ram Mandir Temple
+- Uttar Pradesh
+people:
+- Abhishek Upadhyay
+- Aruna Chandrasekhar
+- Gaggan Anand
+- Gavin Emishka
+- Haider Saleem
+- Lemaire
+- Maitreyi Ramakrishnan
+- Pooja Choksi
+- Pradeep Bhandari
+- Rajendran
+- Usha Jey (@usha_jey
+organisations:
+- Bharatiya Janata
+- Citizen Assistance and Relief in Emergency Situations Fund
+- Congress
+- Ficus Research Consulting
+- Green India Mission
+- New York Times
+- PM Cares
+- The Wire
+- Times Now
+- UK Met Office
 ---
 
 India set out to expand its forested areas a decade ago. Last week, however, we learned that the forest cover programme had barely taken root when the government’s auditors released their findings of the flagship Green India Mission. The shortfall of 97.57% from India’s initial pledge in 2014 was stark enough to alarm the government’s own auditor, who described the progress as “negligible”.

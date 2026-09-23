@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- A64
+- Four Alls Inn
+- Malton Road
+- Stockton
+- The Forest
+- YOUR
+- York Station
+people: []
+organisations:
+- City of York Council
+- Dennis Harley Developments Ltd
+- Public Notice Portal
+- Row
+- Starbucks
+- The Four Alls Inn
 ---
 
 ## Plans for holiday park with 32 chalets at former York pub

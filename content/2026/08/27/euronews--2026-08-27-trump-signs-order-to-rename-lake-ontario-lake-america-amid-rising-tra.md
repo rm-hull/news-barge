@@ -13,6 +13,23 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Canada
+- Great Lakes
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- Ottawa
+- Oval Office
+- US
+- United States
+- Washington
+- White House
+people:
+- Donald Trump
+organisations:
+- Resolute Desk
 ---
 
 ## Donald Trump has signed an executive order to rename Lake Ontario "Lake America" in the US, as his administration's trade dispute with neighbouring Canada intensifies.

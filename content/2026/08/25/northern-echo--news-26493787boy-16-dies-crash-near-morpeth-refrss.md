@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- A1
+- Bowyer Way
+- County Durham
+- County Durham Man
+- M
+- Morpeth
+- North East
+- Northumberland
+- Stobhill
+people:
+- Steven Chappell
+organisations:
+- CCTV
+- Northumbria Police
+- Northumbria Police’s Roads Policing Unit
+- Volkswagen
+- Yamaha
 ---
 
 *(Image: GOOGLE)*

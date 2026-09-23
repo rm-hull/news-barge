@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Iran
+- London
+- Middle East
+- UK
+people:
+- Andy Burnham
+- Claire Coutinho
+- Dame Clare Moriarty
+- Miatta Fahnbulleh
+- Ned Hammond
+- Neil Kenward
+- Simon Francis
+organisations:
+- Citizens Advice
+- Cornwall Insight
+- End Fuel Poverty Coalition
+- Energy UK
+- Government
+- Labour
+- Ofgem
 ---
 
 Prime Minister Andy Burnham has said rising energy bills are “difficult” for people after Ofgem raised its price cap by 4% to a three-year high and analysts forecast a further 9% hike from January.

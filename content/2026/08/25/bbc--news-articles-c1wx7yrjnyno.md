@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- A55
+- Anglesey
+- Holyhead
+- London Road
+- Port Talbot
+people: []
+organisations:
+- A55
+- North Wales Police
 ---
 
 ![A dual carriageway with green bushes on either side and hills in the background.](https://ichef.bbci.co.uk/ace/standard/882/cpsprodpb/7f90/live/8c3e7300-a065-11f1-b109-879e35c24276.png)

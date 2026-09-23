@@ -11,6 +11,36 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- A64
+- County Galway
+- England
+- Ireland
+- Kildare
+- Malton
+- Marishes Lane
+- North Yorkshire
+- Northallerton
+- Oranmore
+- Passat
+- Pickering
+- Spotted Cow
+- Yedingham
+people:
+- Adrian Keatley
+- Anna Atkinson-Spragg
+- Christina
+- Denis Hogan
+- Hugh Mulryan
+- Hugh William Mulryan
+- Jonathan Leach
+- Liam Mulryan
+- Mark Prescott
+- VW Passat
+organisations:
+- Baroda Stud
+- Guinness
+- North Yorkshire Fire and Rescue Service
 ---
 
 A young man who was about to start work as an assistant racehorse trainer at a North Yorkshire stables died after his car caught fire.

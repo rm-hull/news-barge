@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Britain
+- England
+- London
+people:
+- Andy Burnham
+- Angela Rayner
+- Can Burnham
+- Keir Starmer
+- Rachel Reeves
+- Sadiq Khan
+- Sarah Elliott
+organisations:
+- Councils
+- Crisis and Shelter
+- Labour
+- Ministry of Housing, Communities and Local Government
+- National Housing Federation
+- Right to Buy
+- SAHP
+- Shared Ownership
 ---
 
 Andy Burnham has pledged a £10bn package to build tens of thousands of homes, marking the first indication of how the new prime minister plans to grapple with Britain’s housing crisis.

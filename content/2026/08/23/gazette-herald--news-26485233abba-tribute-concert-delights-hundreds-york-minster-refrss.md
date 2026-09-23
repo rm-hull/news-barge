@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Music
+locations:
+- York Minster
+people:
+- Alistair Griffin
+- Beki Ann
+- Chiquitita
+- Elaine Hi
+- Maggie Wakeling
+- Mamma Mia
+organisations:
+- ABBA
+- Ignite Concerts
 ---
 
 An ABBA tribute concert had fans dancing in the aisles of one of York’s most historic venues.

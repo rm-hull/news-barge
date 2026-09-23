@@ -11,6 +11,16 @@ image: https://cdn.mos.cms.futurecdn.net/G4YHFng8EzKzoEAcjKCD8k-320-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people: []
+organisations:
+- Asus
+- Get Tom's Hardware
+- Intel
+- Lexar
+- MSI MEG
+- Newegg
+- Ryzen
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/G4YHFng8EzKzoEAcjKCD8k-320-80.jpg)

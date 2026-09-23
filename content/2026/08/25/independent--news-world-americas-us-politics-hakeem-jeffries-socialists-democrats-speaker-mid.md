@@ -12,6 +12,41 @@ image: https://static.independent.co.uk/2026/07/27/10/download.-1.?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Colorado
+- Gaza
+- Illinois
+- Israel
+- Jeffries
+- Michigan
+- New Jersey
+- New York
+- New York City
+- White House
+people:
+- Alexandria Ocasio-Cortez
+- Donald Trump
+- Hakeem Jeffries
+- Jared Kushner
+- Joe Neguse
+- John Boehner
+- Josh Gottheimer
+- Kevin McCarthy
+- Lauren Underwood
+- Matt Gaetz
+- Mike Johnson
+- Nancy Pelosi
+- Rashida Tlaib
+- Tom Suozzi
+- Zohran Mamdani
+organisations:
+- All
+- Congress
+- Congressional Black Caucus
+- House of Representatives
+- Jeffries
+- Senate
+- Squad
 ---
 
 House Minority Leader Hakeem Jeffries took time Monday to address a recent report that he met with President Donald Trump’s son-in-law Jared Kushner - a move that left some Democrats frustrated and calling for new leadership.

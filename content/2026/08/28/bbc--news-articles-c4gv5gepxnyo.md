@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Technology & Software
 - Society & Culture
+locations:
+- UK
+- Washington
+people:
+- AI
+- Alice Sockett
+- Andy Burnham
+- Hugh Bonneville
+- Mathilde Pavis
+- Matt Lucas
+- Nicola Coughlan
+- Pam Cronrath
+- Sandi Thom
+- Siobhán McSweeney
+- Yvonne Johnson
+organisations:
+- AI
+- BBC News
+- Derry Girls
+- Tech Life
 ---
 
 ![A composite image of Matt Lucas and Hugh Bonneville](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/0a34/live/922d2fb0-a234-11f1-a291-b542ee92de7c.jpg)

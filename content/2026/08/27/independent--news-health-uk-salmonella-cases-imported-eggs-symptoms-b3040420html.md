@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- Britain
+- England
+- UK
+people:
+- Hannah Charles
+- Ian Young
+- Prof Young
+organisations:
+- FSA
+- Food Standards Agency
+- UK Health Security Agency
+- UKHSA
 ---
 
 Salmonella infections linked to imported eggs have increased, according to new figures from the UK Health Security Agency (UKHSA).

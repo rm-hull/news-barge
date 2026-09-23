@@ -13,6 +13,12 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Tadcaster
+people: []
+organisations:
+- Newsquest)* Police
+- North Yorkshire Police
 ---
 
 *(Image: Newsquest)*

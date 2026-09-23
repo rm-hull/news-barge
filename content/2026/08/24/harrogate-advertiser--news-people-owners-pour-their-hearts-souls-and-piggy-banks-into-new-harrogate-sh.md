@@ -13,6 +13,16 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- New Harrogate
+- Pannal
+- Phoenix Aquatics
+- Thirkill Park
+people:
+- Ali Newsham
+- Ethan Johnson
+organisations:
+- Phoenix Aquatics
 ---
 
 # Owners 'pour their hearts, souls and piggy banks’ into new Harrogate shop to serves aquatic community

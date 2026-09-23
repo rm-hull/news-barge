@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- China
+- New York
+- US
+people:
+- Donald Trump
+- Jenny Martos
+- Michael Cohen
+organisations:
+- Amazon
+- Elon Musk’s xAI
+- Gem
+- Global Energy Monitor
+- Google
+- Heatmap
+- International Energy Agency
+- Open AI
+- Trump
 ---
 
 The US has surged ahead of China in the building of new gas-fired power generation, largely to feed a boom in artificial intelligence (AI) that is adding vast amounts of planet-heating emissions, a new analysis has found.

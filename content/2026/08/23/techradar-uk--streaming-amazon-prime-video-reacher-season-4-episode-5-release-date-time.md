@@ -12,6 +12,31 @@ image: https://cdn.mos.cms.futurecdn.net/tm25dD9huDvUssdRu9JJiP-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- Canada
+- India
+- New York City
+- New Zealand
+- Singapore
+- UK
+- US
+- Virgin River
+people:
+- '![Reacher'
+- George Cooper Sr.
+- Jack
+- Reacher
+organisations:
+- CIA
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Reacher looks back over his right shoulder](https://cdn.mos.cms.futurecdn.net/tm25dD9huDvUssdRu9JJiP.jpg) 

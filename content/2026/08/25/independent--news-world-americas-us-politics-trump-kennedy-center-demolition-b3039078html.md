@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Kennedy Center
+- Potomac River
+- Washington, D.C.
+people:
+- Donald J. Trump
+- Donald J. Trump Plaza
+- Donald Trump
+- John F. Kennedy
+- Joyce Beatty
+- Matt Floca
+- Nathaniel Zelinsky
+- Norm Eisen
+organisations:
+- Congress
+- Department of Justice
+- John F. Kennedy Memorial Center
+- John F. Kennedy Memorial Center for the Performing Arts
+- Justice Department
+- Kennedy Center
+- The Trump Kennedy Center Fund
+- Trump Kennedy Center Fund
+- Washington Litigation Group
 ---
 
 In its latest dramatic attempt to keep Donald Trump’s name on the building, the Department of Justice floated the idea of demolishing the Kennedy Center altogether.

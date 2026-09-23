@@ -12,6 +12,44 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- '## California California'
+- Arkansas
+- Carolinas
+- Colorado Rockies
+- Michigan
+- Midwest
+- New England
+- New York
+- New York New England
+- North Carolina
+- Northeast
+- Northwest Cascade
+- Oregon
+- Pacific Northwest
+- Pennsylvania
+- Sierra Nevada
+- South Carolina Drought
+- St. Louis
+- U.S.
+- Washington
+- West
+- mid-Atlantic
+people:
+- Dan West
+- Jim Salge
+- Paul Pastelok
+- Susanne Renner
+organisations:
+- AccuWeather
+- Climate Central
+- Colorado State Forest Service
+- Fox Weather
+- KAIT
+- Lansing State Journal
+- The Denver Gazette
+- U.S. Drought Monitor
+- Washington University
 ---
 
 This fall’s foliage forecast is out, telling leaf peepers where they can see the best colors of the season.

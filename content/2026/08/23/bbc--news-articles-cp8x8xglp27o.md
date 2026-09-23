@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Birmingham New Street
+- Cambridge
+- Cromford
+- Cross Country
+- CrossCountry
+- Derby
+- Great British Railways
+- Leicester
+- National Rail
+- Peterborough
+- Stansted Airport
+- UK
+- Worcester
+people:
+- Andy Burton
+- Eddie Dempsey
+- Heidi Alexander
+organisations:
+- BST
+- CrossCountry
+- Derby
+- National Grid
+- National Union of Rail, Maritime and Transport Workers
+- RMT
 ---
 
 ![The cab and first carriage of a CrossCountry train travels on tracks in the countryside. In the background trees and fields can be seen.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/183e/live/5b94c360-9f1d-11f1-b2a2-8945a27a2843.jpg)

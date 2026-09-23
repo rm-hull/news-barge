@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Belarus
+- Egypt
+- India
+- Kazakhstan
+- Kondensat
+- Kremlin
+- Mersin
+- Moscow
+- Orsk
+- Primorsk
+- Russia
+- Turkey
+- Ukraine
+- Vadinar
+people:
+- Alexander Novak
+- Mick Ryan
+- Natia Seskuria
+- Petras Katinas
+- Vladimir Putin
+- Wendrix
+organisations:
+- Kyiv
+- Nato
+- Royal United Services Institute
 ---
 
 A sanctioned shadow fleet tanker carries oil from Nato member Turkey to a Russian Baltic port. A deal is signed for Russian oil to be processed in Kazakhstan. Fuel cargoes arrive from India via Egypt. The Kremlin pressures allies to sell it badly needed fuel.

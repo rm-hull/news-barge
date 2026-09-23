@@ -13,6 +13,39 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Bay
+- CHANNEL4
+- Coast to Coast Path
+- Crackpot Hall
+- Cumbria
+- Keld
+- Kirkby Stephen
+- Muker
+- North Yorkshire
+- Our Farm Next Door
+- Our Yorkshire Farm
+- Pennine Way
+- Ravenseat Farm
+- Robin Hood
+- St Bees
+- Upper Swaledale
+- Whitsun Dale
+- Yorkshire Dales
+- Yorkshire Dales National Park
+people:
+- Amanda Owen
+- Anty John
+- Clive
+- Ravenseat
+organisations:
+- Anty John's
+- Channel 4
+- Clive and Kids
+- Our Farm Next Door
+- Our Yorkshire Farm
+- Yorkshire Dales
+- Yorkshire Shepherdess
 ---
 
 ## Where is the farm from Our Yorkshire Farm and Our Farm Next Door with Amanda Owen?

@@ -13,6 +13,47 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Acklam
+- Birchington Avenue
+- CLEVELAND
+- Cleveland
+- Grangetown
+- Middlesbrough
+- Owen Humphreys
+- PA
+- South Bank
+- Steele Crescent
+- Teesside
+people:
+- Andy Burnham
+- Andy McDonald
+- Andy Preston
+- Cole Robert Worthy
+- Cole Worthy
+- Jacob
+- Jakub Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Minute
+- Natalie McDonald
+- Passat
+- Paul Appleton
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- )* Cleveland Police
+- A66
+- BBC Radio 4
+- Cleveland Police
+- Labour
+- Middlesbrough
+- PC Blades
+- PC Clough
+- Teesside Coroners’ Court
+- Thornaby East
 ---
 
 A Middlesbrough MP has warned gangs and the drugs trade are “clearly featuring” in a series of incidents across Teesside which have rocked the area.

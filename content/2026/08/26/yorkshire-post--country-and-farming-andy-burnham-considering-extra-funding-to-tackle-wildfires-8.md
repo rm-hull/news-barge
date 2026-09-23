@@ -14,6 +14,33 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Britain
+- England
+- Europe
+- Langdale Moor
+- Manor Fields Park
+- Sheffield
+- Stourbridge
+- UK
+- Wales
+- West Midlands
+- Yorkshire
+people:
+- Andy Burnham
+- Phil Garrigan
+- Richard Parker
+- Simon Tuhill
+organisations:
+- Cobra
+- Fire and Rescue
+- Government
+- ITV News
+- NFCC
+- National Fire Chiefs Council
+- North Yorkshire Fire and Rescue Service
+- RAF Fylingdales
+- West Midlands Fire Service
 ---
 
 # Andy Burnham considering extra funding to tackle wildfires

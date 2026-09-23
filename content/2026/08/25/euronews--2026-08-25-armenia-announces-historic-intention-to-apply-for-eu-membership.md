@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- Azerbaijan
+- Karabakh
+- Kazakhstan
+- Kremlin
+- Moscow
+- Republic of Armenia
+- Russia
+- Russian Federation
+- South Caucasus
+- UAE
+- US
+- Yerevan
+people:
+- Dmitry Peskov
+- Nikol Pashinyan
+- Vladimir Putin
+organisations:
+- Brussels'
+- CSTO
+- Collective Security Treaty Organisation
+- EU
+- Russia-led Collective Security Treaty Organisation
 ---
 
 ## Armenia’s Pashinyan laid out Yerevan's decision to formally apply for EU membership “in the near future” and to call for a national referendum, challenging Russia’s regional influence and setting the stage for a historic geopolitical shift.

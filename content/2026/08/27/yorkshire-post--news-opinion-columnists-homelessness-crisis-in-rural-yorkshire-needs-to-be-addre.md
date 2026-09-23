@@ -15,6 +15,18 @@ categories:
 - York
 - Society & Culture
 - News & Politics
+locations:
+- Downing Street
+- East Riding
+- North Yorkshire
+people:
+- Andy Burnham
+- Gareth Fuller
+organisations:
+- County Councils Network
+- East Riding of Yorkshire Council
+- Government
+- North Yorkshire Council
 ---
 
 # Homelessness crisis in rural Yorkshire needs to be addressed

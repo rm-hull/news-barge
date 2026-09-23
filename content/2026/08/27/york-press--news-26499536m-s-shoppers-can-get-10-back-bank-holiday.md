@@ -13,6 +13,18 @@ categories:
 - York
 - Personal Finance & Investing
 - Shopping & Deals
+locations:
+- Sparks Wallet
+- UK
+people:
+- Costa
+organisations:
+- DWP State Pension
+- M&S
+- Maple Hazel
+- Schoolwear
+- Sparks
+- St Michael
 ---
 
 *(Image: M&S)*

@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Bishop Auckland
+- Cockfield
+- County Durham
+- Darlington
+- Gogglebox Moffatt
+- Hollywood
+- Ian West
+- North East
+- PA
+- Quiet County Durham
+people:
+- Ava-Grace
+- Betty
+- Mark
+- Sarah Caldecott
+- Scarlett Moffatt
+- Scott Dobinson
+- Tom Hardy
+organisations:
+- Asda
+- Bishop Auckland
+- Channel 4
+- County Durham
+- Gogglebox
+- MTV
+- PE
+- Queen Elizabeth Sixth Form College
+- Streetmate
+- Student Loans
+- York St John University
 ---
 
 Scarlett Moffatt became a household name from her family sofa on Gogglebox, but her story began in Bishop Auckland - the County Durham town she has continued to call home throughout her TV career.

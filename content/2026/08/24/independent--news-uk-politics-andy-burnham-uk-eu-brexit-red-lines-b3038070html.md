@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- Downing Street
+- Europe
+- Greater Manchester
+- Kyiv
+- Luxembourg
+- Makerfield
+- UK
+- Ukraine
+people:
+- '## Burnham'
+- Andy Burnham
+- Antonio Costa
+- Brexit
+- David Cameron
+- Hamish Falconer
+- John Major
+- Keir Starmer
+- Luc Frieden
+- Mike Galsworthy
+- Nick Boles
+- Tony Blair
+organisations:
+- Brexit
+- EU
+- European Council
+- European Council Antonio Costa
+- European Movement UK
+- European Union
+- Frontier Economics
+- Labour
+- The Independent
+- Tory
 ---
 
 Andy Burnham has committed to Sir Keir Starmer’s much-criticised Brexit red lines in a major blow to hopes that he would find a route back into the bloc.

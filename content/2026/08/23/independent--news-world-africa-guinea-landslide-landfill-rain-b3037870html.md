@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Conakry
+- Dar Es Salam
+- Gbessia
+- Guinea
+people:
+- Baldé Mamadou Bailo
+- Cire Diallo
+- Dienabou Touré
+- God
+organisations:
+- Simandou
+- World Bank
 ---
 
 A catastrophic landslide at the primary landfill in c's capital of Conakry killed 30 people early on Sunday morning, according to an updated casualty toll released by the central government, after heavy rainfall caused a massive mound of waste to collapse onto surrounding homes.

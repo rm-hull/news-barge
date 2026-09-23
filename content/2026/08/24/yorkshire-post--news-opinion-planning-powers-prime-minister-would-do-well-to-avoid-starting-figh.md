@@ -15,6 +15,12 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- Andy Burnham
+- Angela Rayner
+- Tracy Brabin
+organisations: []
 ---
 
 # Planning powers: Prime Minister would do well to avoid starting fights with good people

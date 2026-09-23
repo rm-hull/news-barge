@@ -12,6 +12,44 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Abu Dhabi
+- Birzeit
+- British Mandate Palestine
+- Christie
+- Doha
+- Jaffa
+- Jerusalem
+- London
+- Mathaf
+- Palestinian Museum
+- Paris
+- Ramallah
+- State of Israel
+- Syria
+- UK
+- West Bank
+people:
+- Amer Shomali
+- Diego Rivera
+- Sliman Mansour
+- Vera Tamari
+organisations:
+- Arab Museum of Modern Art
+- Bonhams Modern
+- British Museum
+- Contemporary Middle Eastern Art
+- Guggenheim Museum
+- HARDtalk
+- Institut du Monde Arabe
+- International Academy of Art
+- League of Palestinian Artists
+- New Vision
+- Orange Fields
+- Palestinian Museum
+- Palestinian Museum Permanent Collection
+- Sliman Mansour
+- Woman From Bethlehem
 ---
 
 ![Sliman Mansour stands in front of his artwork, On the Wing of an Angel, Part of the Palestinian Museum Permanent Collection, in Birzeit, in the occupied West Bank](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/88f9/live/59ca9fa0-a16b-11f1-aaf8-119f176ff4ce.jpg)

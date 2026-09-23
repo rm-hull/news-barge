@@ -12,6 +12,24 @@ image: https://static.independent.co.uk/2026/06/27/21/2026-06-10T191507Z_9694745
 categories:
 - News & Politics
 - UK
+locations:
+- California
+- Oakland
+- U.S.
+people:
+- David Ellison
+- Rob Bonta
+organisations:
+- California Attorney General
+- Disney
+- Netflix
+- New York Stock Exchange
+- Paramount Skydance
+- U.S. Department of Justice
+- Wall Street Journal
+- Warner Bros
+- Warner Bros. Discovery
+- Writers Guild of America
 ---
 
 California Attorney General Rob Bonta is expected to require Paramount to sell select cable channels and ensure its film studio remains distinct from Warner Bros. Discovery before approving the proposed merger, according to a *Wall Street Journal* report published Sunday that cites sources familiar with the matter.

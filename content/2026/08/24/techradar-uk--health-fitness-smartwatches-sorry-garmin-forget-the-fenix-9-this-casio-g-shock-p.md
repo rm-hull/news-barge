@@ -12,6 +12,26 @@ image: https://cdn.mos.cms.futurecdn.net/rWfQNAwq8H4f5wp3RBuSsF-1681-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Garmin
+- US
+people:
+- Alex Blake
+- Casio
+- Kanoa Igarashi
+organisations:
+- Apple
+- Casio
+- Creative Bloq
+- Fenix
+- GBX-H5600KI-5 Kanoa Igarashi
+- Garmin
+- Google News
+- MacFormat
+- Polar
+- Samsung
+- TechRadar
+- iMore
 ---
 
 ![The Casio GBX-H5600KI-5 Kanoa Igarashi smartwatch.](https://cdn.mos.cms.futurecdn.net/rWfQNAwq8H4f5wp3RBuSsF.jpg) 

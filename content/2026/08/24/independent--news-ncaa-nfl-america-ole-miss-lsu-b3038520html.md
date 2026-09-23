@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- America
+- Boise State
+- Denver
+- Florida State
+- Georgia
+- Gonzaga
+- Louisiana
+- Ohio
+- U.S.
+- Wisne
+people:
+- Brock Wisne
+- Chauncey Wiggins
+- Dae’Quan Wright
+- Filip Borovicanin
+- Javon Bennett
+- Ole Miss
+- Sam Ehrlich
+organisations:
+- AP
+- Borovicanin
+- Browns
+- Eagles
+- NCAA
+- NFL
+- No. 11 LSU
+- Ole Miss'
+- SEC
+- Southeastern Conference
 ---
 
 These used to be among the fundamental facts about going to college in America: College lasts four years. And though that timeline had been flexible when it comes to sports, there was never much debate over the notion that once a player moved on to the pros their days as a college athlete were over.

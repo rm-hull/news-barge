@@ -14,6 +14,70 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- A66
+- Acklam
+- Birchington Avenue
+- CLEVELAND
+- Darlington
+- Grangetown
+- Lime Road
+- Middlesbrough
+- OWEN HUMPHRIES
+- PA
+- Ruskin Avenue
+- STUART BOULTON
+- South Bank
+- Teesside Coroner’s Court
+- Teesside Crown Court
+- Teesside Magistrates' Court
+- Teesville
+people:
+- '**Boy'
+- '**Man'
+- '**Woman'
+- Cameron George
+- Cole Robert Worthy
+- Cole Worthy
+- Ellie
+- Emily Harrison
+- Gye Worthy
+- Jacob Matusiak
+- Jakub Matusiak
+- Kai Beattie
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Owen Humphreys
+- PC Blades
+- Passat
+- STUART BOULTON
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- Army
+- British Transport Police
+- CCTV
+- CLEVELAND POLICE
+- Carmel College
+- Civil Nuclear Constabulary
+- Cleveland Local Policing
+- Cleveland Police
+- Cleveland Police HQ
+- FC Hartlepool
+- Independent Office for Police Conduct
+- National Crime Agency
+- North East Regional Organised Crime Unit
+- North News & Pictures Ltd
+- PA Wire
+- PC Blades
+- PC Clough
+- PCs Blades
+- RVI
+- Redcar
+- The Northern Echo
+- Volvo
 ---
 
 *(Image: NORTH NEWS/ PA)*

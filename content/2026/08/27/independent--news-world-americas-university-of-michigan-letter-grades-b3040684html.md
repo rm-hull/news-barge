@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Education & Learning
+locations:
+- Ann Arbor
+- Dearborn
+- Michigan
+people:
+- ?** McKay
+- Adriana Yost
+- Connor Olsen
+- Denise Brown
+- Lily Wu
+- Sophia Xu
+- Thomas Guskey
+- Tim McKay
+- Venessa Keesler
+organisations:
+- Bridge Michigan
+- Coddle U
+- College of Literature
+- LSA
+- Launch Michigan
+- No. Transfer
+- Redford Union Schools
+- U-M Healthy Minds
+- University of Kentucky’s College of Education
+- University of Michigan
+- Wall St. Journal
 ---
 
 Weeks after the University of Michigan made headlines with its plan to keep letter grades from appearing on the transcripts of some first-year students or affecting their GPAs, the decision continues to stir debate — with critics accusing the prestigious school of shielding students from reality and warning the move could backfire.

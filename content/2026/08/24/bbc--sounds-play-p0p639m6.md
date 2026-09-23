@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- US
+people:
+- Alix Pickles
+- Anthony Zurcher
+- Beth Ashmead
+- Dafydd Evans
+- Donald Trump
+- Justin Webb
+- Marianna Spring
+- Mark Carney
+- Purvee Pattni
+- Sam Bonham
+- Scott Bessent
+organisations:
+- Americast
+- Anthony’s BBC
+- BBC News Podcasts
+- BBC Sounds
+- Newscast
+- North America
+- Supreme Court
+- Treasury
+- US Election Unspun
 ---
 
 ## Episode details

@@ -12,6 +12,25 @@ image: https://static.the-independent.com/2026/08/26/8/22/2.png?trim=0,49,6,36&w
 categories:
 - News & Politics
 - UK
+locations:
+- California
+- Julian
+- San Diego County
+- U.S. Capitol
+- Washington
+people:
+- Donald Trump
+- Gavin Newsom
+- Kelvin
+- Philan-Tam-Duy Le
+organisations:
+- Capitol Police
+- FBI
+- Instagram
+- Los Angeles Times
+- NBC News
+- U.S. Capitol Police
+- United States Capitol Police
 ---
 
 U.S. Capitol Police arrested a California man Tuesday after officers said they found a guillotine in the bed of his pickup truck parked near the Capitol complex.

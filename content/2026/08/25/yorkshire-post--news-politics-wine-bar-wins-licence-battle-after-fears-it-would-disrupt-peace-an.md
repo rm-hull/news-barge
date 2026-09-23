@@ -14,6 +14,16 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Mirfield
+people:
+- Billy Hall
+- Coun Michael Howard
+- Rachel Hall
+- Shaun Fairweather
+organisations:
+- Kirklees Council
+- The Vinery Limited
 ---
 
 # Wine bar wins licence battle after fears it would disrupt ‘peace and quiet

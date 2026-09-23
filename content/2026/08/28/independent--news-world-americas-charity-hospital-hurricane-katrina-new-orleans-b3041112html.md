@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Gulf Coast
+- Gulf South
+- Hospital
+- Hurricane Katrina
+- Lindy Boggs Medical Center
+- Louisiana
+- Memorial
+- New Orleans
+- New Orleans'
+- New Orleans’
+- Ochsner Baptist Medical Center
+- Tulane
+- U.S.
+people:
+- Helena Moreno
+- Katrina
+- Lee Hamm
+- Michael A. Fitts
+- Michael Fitts
+organisations:
+- '![Tulane University'
+- Charity Hospital
+- LSU
+- Louisiana State University
+- Tulane University
+- Tulane University School of Medicine
 ---
 
 In the chaos of Hurricane Katrina, Charity Hospital in New Orleans became a scene of heartbreak and heroism, with doctors scrambling to keep patients alive without power or functioning medical equipment while floodwaters trapped them inside its darkened halls for days on end.

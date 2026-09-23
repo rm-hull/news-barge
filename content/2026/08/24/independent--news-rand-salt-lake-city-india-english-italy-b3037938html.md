@@ -14,6 +14,49 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- America
+- Cambridge
+- Colorado
+- France
+- India
+- Indiana
+- Italy
+- Milwaukee
+- Ohio
+- Salt Lake City
+- U.S.
+- United Kingdom
+- Yoder
+people:
+- Bruce Kusch
+- Gabriella Staten
+- Giles Sims
+- Jenna Kramer
+- Jill Cohen
+- John Thelin
+- Pam Downing
+- Robert Zemsky
+- Todd Wolfson
+- Wesley Hardy
+organisations:
+- AAUP
+- AP
+- American Association of University
+- Associated Press’
+- Brigham Young University-Idaho
+- College Board
+- College-in-3 Exchange
+- Ensign College
+- Indiana Wesleyan
+- Institute for Research on Higher Education
+- Mount Mary University
+- Newsweek
+- Northwest Commission on Colleges and Universities
+- Oxford
+- RAND
+- SAT
+- University of Pennsylvania Graduate School of Education
 ---
 
 Giles Sims, 34, was sick of getting passed over for jobs because he didn’t have a college degree.

@@ -15,6 +15,27 @@ categories:
 - News & Politics
 - Food & Cooking
 - Comedy & Entertainment
+locations:
+- Balti
+- Bradford
+- Karahi
+- The Square
+- Thornton
+people:
+- Bhuna
+- Bradford
+- Come Dine
+- Kulvir Singh
+- Me Kulvir Singh
+organisations:
+- Bank Holiday
+- Channel 4
+- Singh
+- Sleight & Wade
+- Supper
+- The Black Horse
+- The Watchmaker
+- The Watchmaker Tasting Rooms
 ---
 
 A Bradford chef who won over viewers on Come Dine with Me is returning to his roots by hosting a special food event at his local pub this Bank Holiday weekend.

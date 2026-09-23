@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Technology & Software
 - Film & TV
+locations: []
+people:
+- Andrew Flintoff
+- Chris Evans
+- Chris Harris
+- Ed Havard
+- James May
+- Jeremy Clarkson
+- Jimmy Carr
+- Joe Marler
+- Matt LeBlanc
+- Paddy McGuinness
+- Paul Rees
+- Richard Hammond
+organisations:
+- BBC Studios
+- Disney
+- Friends
+- Morgan Super 3
+- Sun
+- The BBC
+- Top Gear
 ---
 
 ![The Stig by a red car](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/265f/live/62c2da00-a201-11f1-a97e-999c5aae08bf.jpg)

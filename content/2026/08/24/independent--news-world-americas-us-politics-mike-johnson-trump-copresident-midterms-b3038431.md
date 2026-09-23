@@ -12,6 +12,24 @@ image: https://static.independent.co.uk/2026/06/08/20/2266425535..?trim=20,0,20,
 categories:
 - News & Politics
 - UK
+locations:
+- Arizona
+- Iran
+- Louisiana
+- Texas
+- U.S.
+- White House
+people:
+- Barrett Marson
+- Mike Johnson
+- Trump
+organisations:
+- CNN
+- Epstein
+- House
+- NOTUS
+- Reuters/Ipsos
+- The Independent
 ---
 
 House Speaker Mike Johnson works so closely with the president that the White House refers to him as a co-POTUS, the Louisiana Republican claims.

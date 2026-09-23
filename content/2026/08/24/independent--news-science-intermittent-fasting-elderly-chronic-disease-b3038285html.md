@@ -13,6 +13,13 @@ categories:
 - UK
 - Health & Fitness
 - Food & Cooking
+locations:
+- Sweden
+people:
+- Adrián Carballo Casla
+organisations:
+- Karolinska Institutet
+- The Conversation
 ---
 
 Going for much of the day without eating is often promoted as a way to improve health or lose weight. But a new study suggests that long gaps between meals may have different effects on older adults – especially those in the oldest age groups.

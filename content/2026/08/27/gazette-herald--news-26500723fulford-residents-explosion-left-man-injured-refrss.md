@@ -15,6 +15,25 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- Crossfield Crescent
+- Fordlands Road
+- Fulford
+- Newsquest
+- York
+people:
+- God
+- Lewis Abley
+- Michelle Cutsforth
+- Neil
+- Nicola Daniel
+organisations:
+- Army
+- British Oxygen Company
+- Fulford School
+- Newsquest
+- North Yorkshire Fire and Rescue Service
+- The Press
 ---
 
 *(Image: Newsquest)*

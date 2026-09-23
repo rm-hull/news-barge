@@ -13,6 +13,36 @@ image: https://images.euronews.com/articles/stories/09/88/77/29/1200x675_cmsv2_1
 categories:
 - Europe
 - News & Politics
+locations:
+- Cuba
+- Iran
+- North Korea
+- Syria
+- Tehran
+- US
+- United States of America
+- Washington
+- White House
+people:
+- Ahmed al-Sharaa
+- Al-Sharaa
+- Assad al-Shaibani
+- Bashar al-Assad
+- Donald Trump
+- Jimmy Carter
+- Marco Rubio
+- Mohammed Barnieh
+organisations:
+- Al-Qaeda
+- HTS
+- Hay'at Tahrir al-Sham
+- SANA
+- US Department of State
+- US State Department
+- US Treasury Department
+- World Bank
+- al-Nusra Front
+- al-Sharaa
 ---
 
 ## Washington rescinded a designation in place since 1979, lifting severe economic restrictions and opening the door to private investment, as the US State Department also removed the terror designation from HTS, the group al-Sharaa led to topple Assad.

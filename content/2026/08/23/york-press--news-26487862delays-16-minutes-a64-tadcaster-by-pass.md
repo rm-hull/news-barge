@@ -13,6 +13,16 @@ categories:
 - York
 - Society & Culture
 - News & Politics
+locations:
+- A64
+- Hopgrove
+- Malton
+- North Yorkshire
+- Outer Ring Road
+- Tadcaster
+- York
+people: []
+organisations: []
 ---
 
 *(Image: Submitted)*

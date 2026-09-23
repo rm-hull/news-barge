@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- CLEVELAND
+- Consett
+- County Durham
+- High Handenhold
+- North East
+- Park Road
+- South Moor
+- Stanley
+- Yorkshire
+people: []
+organisations:
+- Amanda Owen
+- CDDFRS
+- Darlington Fire and Rescue Service
+- Durham Fire Stations
+- South Moor Fish Shop
 ---
 
 *(Image: CLEVELAND FIRE BRIGADE)*

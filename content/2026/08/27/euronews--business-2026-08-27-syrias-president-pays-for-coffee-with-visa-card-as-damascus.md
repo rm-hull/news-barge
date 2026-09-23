@@ -12,6 +12,37 @@ image: https://images.euronews.com/articles/stories/09/89/08/41/1200x675_cmsv2_c
 categories:
 - Europe
 - News & Politics
+locations:
+- Brussels
+- Damascus
+- Frankfurt
+- Gelsenkirchen
+- Germany
+- Old City
+- Scholven
+- Syria
+- US
+- Washington
+people:
+- Ahmed al-Sharaa
+- Bashar al-Assad
+- Donald Trump
+- Hayat Tahrir al-Sham
+- Kevin Warsh
+- Mohammed Safwat Raslan
+- Scott Bessent
+organisations:
+- BP
+- Congress
+- EU
+- European Council
+- Federal Reserve
+- Federal Reserve Board
+- Financial Action Task Force
+- G7
+- Tellimer
+- US State Department
+- US Treasury
 ---
 
 ## Syria's president paid for a coffee in Damascus with a Visa card this week to mark the country's removal from the US list of state sponsors of terrorism and the reconnection of its banks to the global financial system.

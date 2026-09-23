@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Books & Literature
+locations: []
+people:
+- Lisa Sweeney
+- Matt Goodfellow
+- Nate
+- Richard Watson
+organisations:
+- Acomb bookshop Books
+- Bev’s
+- Rotary Club
+- Westfield Primary
+- Westfield Primary School
+- York Vikings Rotary
 ---
 
 *(Image: York Vikings Rotary)*

@@ -12,6 +12,37 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Australia
+- Canada
+- Dollywood
+- Ireland
+- Las Vegas
+- Nashville
+- Smoky Mountains
+- Tennessee
+- UK
+people:
+- Carl Dean
+- Dolly Parton
+- Dolly Parton Dolly Rebecca Parton
+- God
+- Jane Fonda
+- Johnny Cash
+- Jolene
+- Joshua
+- Porter Wagoner
+- Rui Vieira
+- Stefan Rousseau
+- Uncle Bill
+organisations:
+- Dollywood Foundation
+- Golden Globe
+- Imagination Library
+- PA Wire
+- The Dollywood Foundation
+- Vanderbilt University Medical Centre
+- Yui Mok
 ---
 
 ## Dolly Parton's life in pictures over decades-long career after death aged 80

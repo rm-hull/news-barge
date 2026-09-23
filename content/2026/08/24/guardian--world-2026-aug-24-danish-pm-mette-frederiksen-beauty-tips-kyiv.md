@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Self-Improvement
+locations:
+- Denmark
+- Europe
+- Greenland
+- US
+- Ukraine
+people:
+- Mette Frederiksen
+organisations:
+- EU
+- Instagram
+- Nato
+- The Associated Press
 ---
 
 Sick of getting unsolicited beauty tips on social media, the Danish prime minister, Mette Frederiksen, rebuffed a male cosmetic surgeon’s offer to “fix” her and advised women in similar situations to embrace self-acceptance.

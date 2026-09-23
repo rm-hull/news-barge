@@ -13,6 +13,18 @@ categories:
 - UK
 - Food & Cooking
 - Comedy & Entertainment
+locations:
+- Hudson
+- New Jersey
+people:
+- Antonia Sinibaldi
+organisations:
+- Blu
+- Hudson
+- Instagram
+- NBC New York
+- The Independent
+- WCBS
 ---
 
 A New Jersey restaurant has been forced to apologize after writing “Happy Birthday Wheelchair” on a woman’s dessert.
