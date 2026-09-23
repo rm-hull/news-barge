@@ -9,6 +9,7 @@
 #   feed:       RSS/Atom feed URL — scraper will pull latest N items
 #   limit:      Max articles to pull from feed or listing (default: 10)
 #   force_playwright: Set true if the site needs a real browser (JS-heavy)
+#   exclude_query_params: Set true to omit query params from the slug name
 #   notes:      Freeform reminder
 
 sites:
@@ -22,6 +23,7 @@ sites:
     slug: bbc
     categories: [UK, News & Politics]
     feed: https://feeds.bbci.co.uk/news/rss.xml
+    exclude_query_params: true
     limit: 50
 
   - name: Harrogate Advertiser
@@ -54,6 +56,7 @@ sites:
     slug: bbc-harrogate
     categories: [Local, Harrogate]
     feed: https://feeds.bbci.co.uk/news/topics/cnx753jene1t/rss.xml
+    exclude_query_params: true
     limit: 50
 
   - name: York Mix

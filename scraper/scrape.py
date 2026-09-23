@@ -114,27 +114,31 @@ def report_group_end() -> None:
         print("::endgroup::")
 
 
-def url_to_slug(url: str) -> str:
+def url_to_slug(url: str, exclude_query_params: bool = False) -> str:
     parsed = urlparse(url)
-
-    # Filter out utm_* query params
-    query_params = parse_qsl(parsed.query)
-    filtered_query_params = [
-        (k, v) for k, v in query_params if not k.startswith("utm_")
-    ]
-
-    # Rebuild URL components without utm_*
-    # We only need the path and filtered query for the slug
-    filtered_query = urlencode(filtered_query_params)
 
     path = parsed.path.strip("/").replace("/", "--")
 
-    # Handle URLs where the identity is in the query string (e.g., ?id=123)
-    if filtered_query:
-        # Use the filtered query string as part of the slug to avoid collisions
-        # when the path is identical for all articles.
-        query_slug = slugify(filtered_query).replace("=", "--").replace("&", "--")
-        path = f"{path}--{query_slug}"
+    # When the site requests it, skip query params entirely in the slug.
+    # This avoids noisy or collision-prone suffixes from tracking / campaign
+    # params that aren't useful for identifying the article.
+    if not exclude_query_params:
+        # Filter out utm_* query params
+        query_params = parse_qsl(parsed.query)
+        filtered_query_params = [
+            (k, v) for k, v in query_params if not k.startswith("utm_")
+        ]
+
+        # Rebuild URL components without utm_*
+        # We only need the path and filtered query for the slug
+        filtered_query = urlencode(filtered_query_params)
+
+        # Handle URLs where the identity is in the query string (e.g., ?id=123)
+        if filtered_query:
+            # Use the filtered query string as part of the slug to avoid collisions
+            # when the path is identical for all articles.
+            query_slug = slugify(filtered_query).replace("=", "--").replace("&", "--")
+            path = f"{path}--{query_slug}"
 
     short = slugify(path) or hashlib.sha1(url.encode()).hexdigest()[:10]
     return short
@@ -500,7 +504,7 @@ async def process_article(
     logger: SiteLogger,
     retention_months: int = 1,
 ) -> bool:
-    slug = url_to_slug(url)
+    slug = url_to_slug(url, site.get("exclude_query_params", False))
     site_slug = site["slug"]
     use_playwright = site.get("force_playwright", False)
 
