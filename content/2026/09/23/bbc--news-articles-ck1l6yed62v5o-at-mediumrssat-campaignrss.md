@@ -1,0 +1,59 @@
+---
+title: Dozens of migrants taken to Dover after more than 30 hours at sea
+source_url: https://www.bbc.co.uk/news/articles/ck1l6yed62v5o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-09-23T04:39:18Z'
+published: '2026-09-23T00:00:00Z'
+description: Protesters had earlier gathered in Gosport after an initial report that
+  the small boat would be brought further west.
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d201/live/89f28490-b6c9-11f1-991e-856baf8e71f7.jpg
+---
+
+![Protesters in Gosport, Hampshire](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d201/live/89f28490-b6c9-11f1-991e-856baf8e71f7.jpg)
+
+Protesters gathered in the Hampshire town of Gosport
+
+**Dozens of migrants who spent more than 30 hours at sea have been taken to Dover by water, the Conservative MP for Gosport has said.**
+
+It comes after an earlier report that the boat would be brought to Gosport, prompting a gathering of protesters in the Hampshire town.
+
+The boat had left the Normandy coast on Monday morning. The French coastguard, who had shadowed the vessel, said about 60 migrants on the boat were in "precarious conditions" and refused help as they were "determined to take all risks to reach" the UK.
+
+British rescue boats were sent to collect the migrants on Tuesday, with the UK's Maritime and Coastguard Agency saying they would be transferred to Border Security Command.
+
+The French coastguard said migrants were on the boat for more than 33 hours. The Royal National Lifeboat Institution (RNLI) said it was tasked by HM Coastguard with assisting just after 11:00 BST on Tuesday, when the crossing had been under way for 36 hours.
+
+The coastguard asked the RNLI to remove people from the dinghy "out of concern for their safety and their deteriorating health" before Border Force vessels arrived on the scene, the lifeboat service said.
+
+The Home Office initially said it was becoming "increasingly likely" the migrants would be taken to the Portsmouth area and acknowledged it would be "far from ideal", in a message shared by Caroline Dinenage, Conservative MP for Gosport.
+
+They said any decision to bring a vessel ashore there would only be taken "where operationally necessary and following careful consideration of all available options".
+
+Hundreds of protesters as well as police gathered near the marina in the Hampshire town on Tuesday evening after the initial reports.
+
+A number of men wearing black, several with face coverings, were at the front of the protesters. Some in the crowd were chanting "send them back".
+
+Daniel Thomas, known as Danny Tommo, shared a YouTube livestream of the boat from the Channel.
+
+Thomas – a long-term campaigner against migrants – organised recent protests in Portsmouth and Dover.
+
+Around 19:00, Dame Caroline said she had been told that Border Force had intercepted the small boat and was taking those on board east to Dover by water.
+
+In a post on social media, the MP said: "This is a good result. All day I have been making the case to the Home Office that this boat should not disembark in Gosport."
+
+At about 20:30, the demonstrators left the Gosport protest. Later, Hampshire & Isle of Wight Constabulary said six people had been arrested in Gosport on Tuesday evening after protesters "became hostile towards officers".
+
+The government said: "The Border Security Command works around the clock to protect our border and will continue to detain, check and process every small boat arrival."
+
+The migrant dinghy appeared to have set off from close to the village of Vierville-sur-Mer, west of Bayeux. It is rare to see small boat crossings depart from so far west.
+
+Earlier this month, a dinghy which had launched from near Cherbourg in the Bay of the Seine - further west than boats normally depart - was brought ashore in Hampshire, triggering protests in Portsmouth.
+
+*Additional reporting by PA Media*
+
+*Follow BBC Kent on* * Facebook*, external*, on* * X*, external*, and on* * Instagram*, external*. Send your story ideas to* * [southeasttoday@bbc.co.uk](mailto:southeasttoday@bbc.co.uk)*, external* or WhatsApp us on 08081 002250.*
