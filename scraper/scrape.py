@@ -773,7 +773,7 @@ async def main_async(args):
                         site=site,
                     )
                     print(
-                        f" | Listing {site['listing_url']}: found {len(listing_urls)} URLs",
+                        f" | Listing {site['listing_url']} -> found {len(listing_urls)} URLs",
                         end="",
                         flush=True,
                     )
