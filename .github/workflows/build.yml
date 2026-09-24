@@ -29,14 +29,31 @@ jobs:
         working-directory: ./scraper
         run: uv sync --group dev
 
+      - name: Cache taxotag model
+        uses: actions/cache@v6
+        with:
+          path: ~/.cache/huggingface/hub
+          key: ${{ runner.os }}-taxotag-gist-v2.2.0-${{ hashFiles('scraper/uv.lock') }}
+
       - name: Lint (ruff check)
         working-directory: ./scraper
-        run: uv run ruff check *.py
+        run: uv run ruff check *.py tests/
 
       - name: Format check (ruff format)
         working-directory: ./scraper
-        run: uv run ruff format --check *.py
+        run: uv run ruff format --check *.py tests/
 
       - name: Type check (mypy)
         working-directory: ./scraper
         run: uv run mypy *.py
+
+      - name: Tests (pytest)
+        working-directory: ./scraper
+        run: uv run pytest tests/
+
+      - name: Upload coverage to Coveralls
+        uses: coverallsapp/github-action@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          path-to-lcov: ./scraper/coverage.lcov
+          fail-on-error: false
