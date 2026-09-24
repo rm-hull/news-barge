@@ -35,9 +35,6 @@ from .constants import (
     DEFAULT_CONCURRENCY,
     REPO_ROOT,
     SITES_FILE,
-    TAXOTAG_TOP_K,
-    taxotag,
-    taxotag_lock,
 )
 from .fetchers import (
     fetch_html_aiohttp,
@@ -164,16 +161,6 @@ async def urls_from_listing(
             seen.add(u)
 
     return unique_urls[:limit]
-
-
-def classify_article(title: str, description: str) -> list[str]:
-    """Classify an article using taxotag."""
-    text = "\n\n".join(part.strip() for part in (title, description) if part.strip())
-    if not text:
-        return []
-    with taxotag_lock:
-        topics = taxotag.classify(text, top_k=TAXOTAG_TOP_K)
-    return [topic.name for topic in topics]
 
 
 def write_markdown(

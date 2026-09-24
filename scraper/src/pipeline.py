@@ -14,27 +14,23 @@ from aiohttp import ClientSession
 from markdownify import markdownify as to_markdown
 from playwright.async_api import Browser
 
+from .classifiers import article_categories
 from .constants import (
     REPO_ROOT,
-    TAXOTAG_TOP_K,
     TRAFILATURA_CONFIG,
-    months_ago,
-    taxotag,
-    taxotag_lock,
 )
-from .extraction import (
+from .dates import months_ago
+from .fetchers import fetch_html_aiohttp, fetch_html_playwright
+from .log_helper import SiteLogger, report_error
+from .output import output_path
+from .slugs import url_to_slug
+from .text_extraction import (
     clean_markdown_formatting,
+    extract_first_image_from_markdown,
     linkify_text,
     normalize_inline_spacing,
-)
-from .fetchers import fetch_html_aiohttp, fetch_html_playwright
-from .helpers import (
-    extract_first_image_from_markdown,
-    output_path,
     remove_excluded_elements,
-    url_to_slug,
 )
-from .log_helper import SiteLogger, report_error
 
 # ---------------------------------------------------------------------------
 
@@ -142,7 +138,9 @@ async def process_article(
         if "|" in title:
             title = title.split("|")[0].strip()
     description = (meta.description if meta else None) or ""
-    generated_categories = await asyncio.to_thread(classify_article, title, description)
+    generated_categories = await asyncio.to_thread(
+        article_categories, title, description
+    )
     categories = list(
         dict.fromkeys((site.get("categories") or []) + generated_categories)
     )
@@ -200,13 +198,3 @@ async def process_article(
     )
     logger.log(f"  ✓ {display_path}")
     return True
-
-
-def classify_article(title: str, description: str) -> list[str]:
-    """Classify an article using taxotag."""
-    text = "\n\n".join(part.strip() for part in (title, description) if part.strip())
-    if not text:
-        return []
-    with taxotag_lock:
-        topics = taxotag.classify(text, top_k=TAXOTAG_TOP_K)
-    return [topic.name for topic in topics]

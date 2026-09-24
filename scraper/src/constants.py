@@ -4,12 +4,9 @@ Configuration and constants for the scraper.
 
 from __future__ import annotations
 
-from datetime import UTC, datetime
 from pathlib import Path
-from threading import Lock
 
 import trafilatura
-from taxotag import Gist
 
 # ---------------------------------------------------------------------------
 # Paths
@@ -47,35 +44,3 @@ FETCH_HEADERS: dict[str, str] = {
 DEFAULT_CONCURRENCY = 10
 DEFAULT_BROWSER_CONCURRENCY = 2
 TAXOTAG_TOP_K = 3
-
-# ---------------------------------------------------------------------------
-# Taxotag
-# ---------------------------------------------------------------------------
-
-taxotag: Gist = Gist()
-taxotag_lock: Lock = Lock()
-
-# ---------------------------------------------------------------------------
-# Date helpers
-# ---------------------------------------------------------------------------
-
-
-def months_ago(months: int = 1) -> datetime:
-    """UTC cutoff `months` calendar-months ago, with the day clamped to the
-    target month length (e.g. Aug 31 -> Jul 31, Mar 31 -> Feb 28).
-
-    Mirrors GNU ``date -d "N months ago"`` so the scraper and the archive
-    workflow agree on what "older than N months" means.
-    """
-    import calendar
-
-    now = datetime.now(UTC)
-    year, month = now.year, now.month - months
-    while month <= 0:
-        month += 12
-        year -= 1
-    while month > 12:
-        month -= 12
-        year += 1
-    day = min(now.day, calendar.monthrange(year, month)[1])
-    return datetime(year, month, day, tzinfo=UTC)

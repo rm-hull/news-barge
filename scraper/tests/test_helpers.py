@@ -6,7 +6,7 @@ from datetime import datetime
 
 import pytest
 
-from src.constants import months_ago
+from src.dates import months_ago
 
 
 def test_months_ago_returns_datetime() -> None:

@@ -1,77 +1,12 @@
-"""
-Utility functions for the scraper.
-"""
+"""Content extraction and text processing utilities."""
 
 from __future__ import annotations
 
-import hashlib
 import re
-from datetime import datetime
-from pathlib import Path
 from typing import Any, cast
-from urllib.parse import parse_qsl, urlencode, urlparse
 
 from lxml import html as lxml_html
 from markdownify import markdownify as to_markdown
-
-from .constants import REPO_ROOT
-
-# ---------------------------------------------------------------------------
-# Slug helpers
-# ---------------------------------------------------------------------------
-
-
-def slugify(text: str) -> str:
-    """Convert text to a filesystem-safe slug."""
-    text = text.lower().strip()
-    text = re.sub(r"[^\w\s-]", "", text)
-    text = re.sub(r"[\s_]+", "-", text)
-    text = re.sub(r"-+", "-", text)
-    return text[:80].strip("-")
-
-
-def url_to_slug(url: str, exclude_query_params: bool = False) -> str:
-    """Convert a URL to a filesystem-safe slug."""
-    parsed = urlparse(url)
-
-    path = parsed.path.strip("/").replace("/", "--")
-
-    # When the site requests it, skip query params entirely in the slug.
-    if exclude_query_params:
-        short = slugify(path) or hashlib.sha1(url.encode()).hexdigest()[:10]
-        return short
-
-    # Filter out utm_* query params
-    query_params = parse_qsl(parsed.query)
-    filtered_query_params = [
-        (k, v) for k, v in query_params if not k.startswith("utm_")
-    ]
-    filtered_query = urlencode(filtered_query_params)
-
-    if filtered_query:
-        query_slug = slugify(filtered_query).replace("=", "--").replace("&", "--")
-        path = f"{path}--{query_slug}"
-
-    short = slugify(path) or hashlib.sha1(url.encode()).hexdigest()[:10]
-    return short
-
-
-# ---------------------------------------------------------------------------
-# Image extraction
-# ---------------------------------------------------------------------------
-
-
-def extract_first_image_from_markdown(md: str) -> str | None:
-    """Finds the first image in Markdown text: ![alt](url)."""
-    match = re.search(r"!\[.*?\]\((https?://[^\s\)]+)\)", md)
-    if match:
-        return match.group(1)
-    return None
-
-
-# ---------------------------------------------------------------------------
-# Markdown formatting
-# ---------------------------------------------------------------------------
 
 
 def clean_markdown_formatting(text: str) -> str:
@@ -154,6 +89,14 @@ def linkify_text(text: str) -> str:
     return re.sub(pattern, replace, text)
 
 
+def extract_first_image_from_markdown(md: str) -> str | None:
+    """Finds the first image in Markdown text: ![alt](url)."""
+    match = re.search(r"!\[.*?\]\((https?://[^\s\)]+)\)", md)
+    if match:
+        return match.group(1)
+    return None
+
+
 def html_to_markdown(extracted_html: str) -> str:
     """Convert extracted HTML to clean markdown."""
     md_body = to_markdown(extracted_html, heading_style="ATX")
@@ -212,20 +155,3 @@ def remove_excluded_elements(
         )
 
     return cast(str, lxml_html.tostring(tree, encoding="unicode"))
-
-
-# ---------------------------------------------------------------------------
-# Output path
-# ---------------------------------------------------------------------------
-
-
-def output_path(
-    site_slug: str,
-    article_slug: str,
-    date: datetime,
-    output_dir: Path = REPO_ROOT / "content",
-) -> Path:
-    """Compute the output file path for an article."""
-    date_path = date.strftime("%Y/%m/%d")
-    filename = f"{site_slug}--{article_slug}.md"
-    return output_dir / date_path / filename
