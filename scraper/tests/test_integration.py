@@ -276,7 +276,7 @@ async def test_already_exists_without_force_skips(
 def test_main_entry_point(
     tmp_path: Path,
     mock_playwright: AsyncMock,
-    monkeypatch,
+    monkeypatch: pytest.MonkeyPatch,
 ) -> None:
     """main() should parse argv and run the full pipeline."""
     sites_file = tmp_path / "sites.yaml"
@@ -323,7 +323,7 @@ async def test_site_not_found_exits(
     tmp_sites_file: Path,
     tmp_output_dir: Path,
     mock_playwright: AsyncMock,
-    monkeypatch,
+    monkeypatch: pytest.MonkeyPatch,
 ) -> None:
     """--site with a non-existent slug should exit with code 1."""
     tmp_sites_file.write_text(
@@ -356,7 +356,7 @@ sites:
 # ─── Unit-level helpers ─────────────────────────────────────────────────────
 
 
-def test_months_ago_clamps_day():
+def test_months_ago_clamps_day() -> None:
     """months_ago should clamp the day to the target month length."""
     from datetime import datetime
 
@@ -366,7 +366,7 @@ def test_months_ago_clamps_day():
     assert result.tzinfo is not None
 
 
-def test_url_to_slug_basic():
+def test_url_to_slug_basic() -> None:
     """url_to_slug should produce a filesystem-safe slug."""
     slug = scrape.url_to_slug("https://example.com/path/to/article?id=123")
     assert "path" in slug

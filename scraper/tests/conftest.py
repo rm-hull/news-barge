@@ -7,6 +7,7 @@ from __future__ import annotations
 import argparse
 import shutil
 import tempfile
+from collections.abc import AsyncGenerator, Generator
 from pathlib import Path
 from unittest.mock import AsyncMock, MagicMock, patch
 
@@ -106,7 +107,7 @@ ARTICLE_2 = "articles/test-article-two.html"
 
 
 @pytest.fixture
-def mock_playwright():
+def mock_playwright() -> Generator[AsyncMock]:
     """Mock Playwright so tests don't need a real browser binary."""
 
     mock_browser = AsyncMock()
@@ -126,7 +127,7 @@ def mock_playwright():
 
 
 @pytest.fixture
-def tmp_output_dir():
+def tmp_output_dir() -> Generator[Path]:
     """Create a temporary directory for article output."""
     path = Path(tempfile.mkdtemp(prefix="news-barge-test-"))
     yield path
@@ -140,7 +141,7 @@ def tmp_sites_file(tmp_output_dir: Path) -> Path:
 
 
 @pytest.fixture
-async def test_server():
+async def test_server() -> AsyncGenerator[str]:
     """Start an in-process aiohttp server serving a dummy RSS feed and articles."""
 
     app = web.Application()
@@ -172,7 +173,7 @@ async def test_server():
     await site.start()
 
     # Determine the actual port assigned by the OS
-    port = site._server.sockets[0].getsockname()[1]  # type: ignore[attr-defined]
+    port = site._server.sockets[0].getsockname()[1]  # type: ignore[union-attr]
     base_url = f"http://localhost:{port}"
 
     yield base_url

@@ -82,7 +82,7 @@ jobs:
             ARGS="$ARGS --force"
           fi
           ARGS="$ARGS --retention-months ${{ github.event.inputs.retention_months || '1' }}"
-          uv run scrape.py $ARGS
+          uv run scrape $ARGS
 
       - name: Commit new content
         id: commit

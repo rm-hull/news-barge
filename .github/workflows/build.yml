@@ -37,15 +37,15 @@ jobs:
 
       - name: Lint (ruff check)
         working-directory: ./scraper
-        run: uv run ruff check *.py tests/
+        run: uv run ruff check src/ tests/
 
       - name: Format check (ruff format)
         working-directory: ./scraper
-        run: uv run ruff format --check *.py tests/
+        run: uv run ruff format --check src/ tests/
 
       - name: Type check (mypy)
         working-directory: ./scraper
-        run: uv run mypy *.py
+        run: uv run mypy src/*.py
 
       - name: Tests (pytest)
         working-directory: ./scraper

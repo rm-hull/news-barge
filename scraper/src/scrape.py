@@ -1,5 +1,5 @@
 """
-news-barge/scraper/scrape.py
+News-barge scraper.
 
 Reads sites.yaml, fetches articles (via feed or explicit URL list),
 extracts the main content with trafilatura, converts to Markdown,
@@ -42,7 +42,7 @@ from tqdm.asyncio import tqdm
 # Config
 # ---------------------------------------------------------------------------
 
-REPO_ROOT = Path(__file__).resolve().parents[1]
+REPO_ROOT = Path(__file__).resolve().parents[2]
 SITES_FILE = REPO_ROOT / "sites.yaml"
 CONTENT_DIR = REPO_ROOT / "content"
 
